@@ -1,0 +1,17 @@
+{"baseName":"Malevolent Offering"}
+{"description":"\"Pour out your lifesblood and channel the arcane, healing yourself or an ally in front of you for 3600 Health, while draining 1080 Health from yourself over 3 seconds.\\n\\nAfter casting, gain Minor Mending for 10 seconds, increasing your healing done by 8%.\""}
+{"esoSkillId":36144}
+{"icon":"/esoui/art/icons/ability_nightblade_011_a.dds"}
+{"id":"019e6245-a6a1-7e8b-a8ae-8556282f4e6b"}
+{"isMorph":true}
+{"key":"healthy-offering"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"nightblade-siphoning"}
+{"skillType":"active"}
+{"slug":"healthy-offering"}
+{"subcategoryId":"nightblade-siphoning"}
+{"title":"Healthy Offering"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value is drawn in this color whatever a reading against that value says."}]}
+{"definition":"the color a value is always drawn in"}
+{"id":"01a06d7a-e9f7-7f1b-b0c4-15f3742e8352"}
+{"propertySlug":"color"}
+{"slug":"value-color"}
+{"targetPageType":"page-type/color"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

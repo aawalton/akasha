@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the conditions `levelOp` and `maxLevel`."},{"decisionKind":"decision-kind/departure","statement":"A category outside `equipment` is offered no Level condition."}]}
+{"definition":"the Level condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3bf2-7955-aa20-b395eca80d9f"}
+{"slug":"level-filter"}
+{"type":"page-type/module"}

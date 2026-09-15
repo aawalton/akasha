@@ -1,0 +1,17 @@
+{"baseName":"Healing Ritual"}
+{"description":"\"Focus your spiritual devotion, healing you and nearby allies for |cffffff8219|r Health.\\n\\nYou heal a single ally outside this ability's radius for an additional |cffffff8489|r Health.\""}
+{"esoSkillId":22327}
+{"icon":"/esoui/art/icons/ability_templar_ritual_of_rebirth.dds"}
+{"id":"019e6f53-a65e-7c19-b750-dad22afd730f"}
+{"isMorph":true}
+{"key":"ritual-of-rebirth-22327"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":4}
+{"skillLineId":"templar-restoring-light"}
+{"skillType":"active"}
+{"slug":"ritual-of-rebirth-22327"}
+{"subcategoryId":"templar-restoring-light"}
+{"title":"Ritual of Rebirth"}
+{"type":"page-type/temper-skill"}

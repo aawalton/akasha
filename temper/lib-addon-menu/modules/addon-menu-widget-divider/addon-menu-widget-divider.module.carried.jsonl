@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Height is clamped between ten and fifty pixels."},{"decisionKind":"decision-kind/departure","statement":"Alpha defaults to one quarter when the widget data omits alpha."},{"decisionKind":"decision-kind/absence","statement":"No label belongs to the divider."},{"decisionKind":"decision-kind/absence","statement":"No tooltip belongs to the divider."},{"decisionKind":"decision-kind/absence","statement":"No value belongs to the divider."}]}
+{"definition":"the horizontal rule widget of the settings panel"}
+{"id":"01a06100-0000-7000-8000-000000000018"}
+{"slug":"addon-menu-widget-divider"}
+{"type":"page-type/module"}

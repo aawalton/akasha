@@ -1,0 +1,16 @@
+{"brand":"corsair"}
+{"computerStatus":"active"}
+{"cpu":"amd-ryzen-9-5950x"}
+{"cpuScore":45370}
+{"formFactor":"desktop"}
+{"gpu":"nvidia-geforce-rtx-3080"}
+{"gpuScore":25083}
+{"gpuSize":"10gb"}
+{"hdd":2000}
+{"id":"019e8b92-3986-783e-a1fb-0c525265432d"}
+{"operatingSystem":"windows-11-home"}
+{"ram":"64gb"}
+{"slug":"node-06"}
+{"ssd":2000}
+{"title":"node-06"}
+{"type":"page-type/computer"}

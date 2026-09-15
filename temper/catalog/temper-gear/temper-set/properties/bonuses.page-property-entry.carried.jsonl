@@ -1,0 +1,7 @@
+{"definition":"what a set gives at each piece count, one count to a line"}
+{"id":"01a05fd1-d437-730d-b6e2-e46b2bc06210"}
+{"properties":[{"pageProperty":"number-property/bonus-count","required":true,"many":false},{"pageProperty":"text-property/bonus-status","required":true,"many":false},{"pageProperty":"text-property/description","required":true,"many":false},{"pageProperty":"record-property/bonus-effects","required":false,"many":true,"maxCount":null}]}
+{"propertySlug":"bonuses"}
+{"slug":"bonuses"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

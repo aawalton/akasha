@@ -1,0 +1,12 @@
+{"action":"temper-item-action/move-to"}
+{"active":false}
+{"categoryId":"tools"}
+{"description":"Deposits tools (lockpicks, repair kits, etc.) in the bank for safekeeping."}
+{"destination":"bank"}
+{"displayOrder":31}
+{"goal":"temper-rule-goal/hoard"}
+{"id":"019e3104-2620-7327-ad6d-ed207296369c"}
+{"key":"tools-bank"}
+{"slug":"tools-bank"}
+{"title":"Bank tools"}
+{"type":"page-type/temper-rule-template"}

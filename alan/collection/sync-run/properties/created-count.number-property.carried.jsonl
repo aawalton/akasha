@@ -1,0 +1,7 @@
+{"definition":"how many pages a pull brought in that were not there before"}
+{"id":"01a06861-f664-787d-86f6-530cc3b41607"}
+{"max":null}
+{"propertySlug":"created-count"}
+{"slug":"created-count"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

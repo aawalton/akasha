@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A scenario puts every affected item on the same character's backpack."},{"decisionKind":"decision-kind/departure","statement":"A capacity scenario fills the bank to a stated number of free slots."}]}
+{"definition":"the generated holdings and rules the plan's property tests are built from"}
+{"id":"01a06289-2676-74b4-91ec-0643ccf4bba1"}
+{"slug":"inventory-management-plan-property-fixtures"}
+{"type":"page-type/test-fixture"}

@@ -1,0 +1,7 @@
+{"definition":"how many steps the craft moved forward on a day"}
+{"id":"01a0655b-4a9b-7007-8688-e6360abfa930"}
+{"max":null}
+{"propertySlug":"advance-count"}
+{"slug":"advance-count"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

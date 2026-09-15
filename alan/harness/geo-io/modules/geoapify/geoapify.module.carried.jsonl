@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A url is built without a request being made."}]}
+{"definition":"the geoapify url a place name's autocomplete is asked for by"}
+{"id":"01a05c48-deeb-7002-a7d6-912bcaf143d2"}
+{"slug":"geoapify"}
+{"type":"page-type/module"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A url is the url the reporting client was reading."},{"decisionKind":"decision-kind/gap","statement":"A url could have a token a query string has."}]}
+{"definition":"where a client was when a client met an error"}
+{"id":"01a05f3f-e3e0-7ea0-a46e-cdf0d9e4d008"}
+{"maxLength":2048}
+{"nameFormat":null}
+{"propertySlug":"url"}
+{"slug":"error-url"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

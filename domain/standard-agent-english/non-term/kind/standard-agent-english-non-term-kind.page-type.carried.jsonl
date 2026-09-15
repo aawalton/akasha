@@ -1,0 +1,8 @@
+{"definition":"which sort one non-term is"}
+{"extends":["page-type/page"]}
+{"id":"01a07c77-69a8-78a5-a3b4-fbf909b02c2e"}
+{"properties":[{"pageProperty":"standard-agent-english-property/definition","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"standard-agent-english-non-term-kind"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

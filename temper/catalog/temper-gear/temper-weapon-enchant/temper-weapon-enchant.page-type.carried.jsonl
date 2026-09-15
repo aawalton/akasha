@@ -1,0 +1,8 @@
+{"definition":"a glyph put on a weapon"}
+{"extends":["page-type/temper-gear-thing"]}
+{"id":"01a05fd1-d441-7e40-89d2-1fcb87133420"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false},{"pageProperty":"text-property/eso-enchant-constant-name","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-weapon-enchant"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

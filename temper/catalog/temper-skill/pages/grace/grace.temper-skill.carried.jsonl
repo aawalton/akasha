@@ -1,0 +1,19 @@
+{"baseName":"Grace"}
+{"description":"\"Reduces the effectiveness of snares applied to you by 4% for each piece of Light Armor worn.\\n\\nCurrent bonus: 0%.\\n\\nReduces the cost of Sprint by 3% for each piece of Light Armor worn.\\n\\nCurrent bonus: 0%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45549}
+{"icon":"/esoui/art/icons/ability_armor_004.dds"}
+{"id":"019e6238-c2c3-7044-b21c-148e2693cdc2"}
+{"isMorph":false}
+{"key":"grace"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"armor-light-armor"}
+{"skillType":"passive"}
+{"slug":"grace"}
+{"status":"partially-supported"}
+{"subcategoryId":"armor-light-armor"}
+{"title":"Grace"}
+{"type":"page-type/temper-skill"}

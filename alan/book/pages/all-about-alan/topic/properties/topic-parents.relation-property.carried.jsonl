@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A topic lists nothing standing beneath that topic."},{"decisionKind":"decision-kind/departure","statement":"This edge is read inverted."}]}
+{"definition":"the topics a topic sits under"}
+{"id":"01a0655a-b2b5-76ec-9521-af5a75eb52c5"}
+{"propertySlug":"parents"}
+{"slug":"topic-parents"}
+{"targetPageType":"page-type/all-about-alan-topic"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

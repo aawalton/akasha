@@ -1,0 +1,10 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A file warrants the page that names the file among its parts."},{"decisionKind":"decision-kind/departure","statement":"The page a file belongs to is composed out of that file's own name."},{"decisionKind":"decision-kind/departure","statement":"One reading of the index answers every question a run of this warrant asks."}]}
+{"definition":"what a seat must read for where the file's page sits"}
+{"id":"01a04f58-a7ee-7000-94ad-769aa16fc838"}
+{"runsOnRead":true}
+{"runsOnWrite":true}
+{"slug":"file-domain"}
+{"test":"ts"}
+{"transitive":false}
+{"type":"page-type/context-warrant"}

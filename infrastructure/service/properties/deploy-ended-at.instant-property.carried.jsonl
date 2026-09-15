@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The deploy writes the moment as that deploy ends."},{"decisionKind":"decision-kind/departure","statement":"A deploy that refused moves the moment, since a refusal costs what a deploy costs."},{"decisionKind":"decision-kind/departure","statement":"A dry run leaves the moment as that moment was."},{"decisionKind":"decision-kind/departure","statement":"The cooldown a service waits out is counted from this moment."},{"decisionKind":"decision-kind/departure","statement":"The moment is kept uncommitted, so no deploy's closure reaches it."}]}
+{"definition":"when the last deploy of a service ended, whether that deploy put up or refused"}
+{"id":"01a0957d-cd0e-7ca7-a6b4-b04a75b1af4e"}
+{"propertySlug":"deploy-ended-at"}
+{"slug":"deploy-ended-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

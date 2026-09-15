@@ -1,0 +1,7 @@
+{"definition":"one of the two rows a character slots skills into"}
+{"extends":["page-type/temper-character-thing"]}
+{"id":"01a05fcd-f558-70b6-8f78-cec3aed405a1"}
+{"schema":"jsonl"}
+{"slug":"temper-skill-bar"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

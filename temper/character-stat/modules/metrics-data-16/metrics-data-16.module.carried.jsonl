@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The stats are named here in the order the gathered table answers its ids in."}]}
+{"definition":"character stats ultimate-ability-cost through ultimate-restore"}
+{"id":"01a06131-abb7-7132-8968-c0d7f7e54a52"}
+{"slug":"metrics-data-16"}
+{"type":"page-type/module"}

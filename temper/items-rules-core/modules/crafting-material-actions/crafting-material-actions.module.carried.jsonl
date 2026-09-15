@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A material no rule reaches is left where the material lies."}]}
+{"definition":"what becomes of each crafting material, worked out from the rules over the material tree"}
+{"id":"01a06100-3bea-776e-bce8-156c6ba94357"}
+{"slug":"crafting-material-actions"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Purge"}
+{"description":"\"Cleanse yourself and your group, removing up to 3 negative effects immediately.\""}
+{"esoSkillId":46636}
+{"icon":"/esoui/art/icons/ability_ava_005_a.dds"}
+{"id":"019e6251-4cad-745c-a800-eed6d61240c0"}
+{"isMorph":true}
+{"key":"efficient-purge"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"active"}
+{"slug":"efficient-purge"}
+{"subcategoryId":"alliance-war-support"}
+{"title":"Efficient Purge"}
+{"type":"page-type/temper-skill"}

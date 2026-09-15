@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A metric's value is a tree of arithmetic nodes rather than a written function."}]}
+{"definition":"the shape a companion metric is declared in, and the arithmetic its value is worked out by"}
+{"id":"01a06108-076d-7d54-8679-103ed9862380"}
+{"slug":"companion-metric-template"}
+{"type":"page-type/module"}

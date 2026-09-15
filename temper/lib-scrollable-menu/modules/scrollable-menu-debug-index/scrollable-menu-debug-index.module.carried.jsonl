@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A list of bare imports is used in place of any re-export."},{"decisionKind":"decision-kind/constraint","statement":"The logger is imported before the toggle that switches the logger."},{"decisionKind":"decision-kind/absence","statement":"The file declares no value of its own."}]}
+{"definition":"the bare import list covering the logger and its slash-command toggle"}
+{"id":"01a06275-c447-7da5-abe9-590fd4049dbb"}
+{"slug":"scrollable-menu-debug-index"}
+{"type":"page-type/module"}

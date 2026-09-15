@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A system's terms change without notice."}]}
+{"definition":"how outside systems should be used"}
+{"id":"01a065a0-1406-75cf-a0c3-0f1b9a3842e7"}
+{"parts":["domain/mcp","domain/technology-definition"]}
+{"slug":"technology"}
+{"type":"page-type/domain"}

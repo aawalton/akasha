@@ -1,0 +1,7 @@
+{"description":"Reduces damage from area attacks by 20%"}
+{"effects":"jsonl"}
+{"id":"01a05fc5-f6b8-7eed-9a2d-daeecb4ff402"}
+{"key":"major-evasion"}
+{"slug":"major-evasion"}
+{"title":"Major Evasion"}
+{"type":"page-type/temper-buff-major"}

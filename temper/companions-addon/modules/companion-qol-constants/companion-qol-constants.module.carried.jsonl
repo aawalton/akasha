@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A setting absent from saved variables takes its value from here."}]}
+{"definition":"the settings the quality-of-life code starts out with"}
+{"id":"01a0611d-84c6-7e76-97f3-a24fa6b91e9a"}
+{"slug":"companion-qol-constants"}
+{"type":"page-type/module"}

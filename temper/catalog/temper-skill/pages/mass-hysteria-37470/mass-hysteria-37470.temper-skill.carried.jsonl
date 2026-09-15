@@ -1,0 +1,17 @@
+{"baseName":"Aspect of Terror"}
+{"description":"\"Summon a dark spirit to terrify all nearby enemies, causing them to cower in fear for |cffffff3|r seconds and be afflicted with Major Cowardice for |cffffff10|r seconds, reducing their Weapon and Spell Damage by |cffffff430|r.\""}
+{"esoSkillId":37470}
+{"icon":"/esoui/art/icons/ability_nightblade_016_a.dds"}
+{"id":"019e6f53-a45e-7501-850c-206763ac38dc"}
+{"isMorph":true}
+{"key":"mass-hysteria-37470"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":1}
+{"rank":30}
+{"skillLineId":"nightblade-shadow"}
+{"skillType":"active"}
+{"slug":"mass-hysteria-37470"}
+{"subcategoryId":"nightblade-shadow"}
+{"title":"Mass Hysteria"}
+{"type":"page-type/temper-skill"}

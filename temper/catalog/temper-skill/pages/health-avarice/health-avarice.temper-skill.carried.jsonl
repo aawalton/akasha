@@ -1,0 +1,19 @@
+{"baseName":"Health Avarice"}
+{"description":"\"Increase your Healing Received by 3% for each Bone Tyrant ability slotted.\\n\\nCurrent bonus: 0%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":116270}
+{"icon":"/esoui/art/icons/passive_necromancer_007.dds"}
+{"id":"019e6245-a6a0-7e7e-81e1-a4e5c343dda0"}
+{"isMorph":false}
+{"key":"health-avarice"}
+{"learnedLevel":36}
+{"lineRankNeeded":36}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"necromancer-bone-tyrant"}
+{"skillType":"passive"}
+{"slug":"health-avarice"}
+{"status":"supported"}
+{"subcategoryId":"necromancer-bone-tyrant"}
+{"title":"Health Avarice"}
+{"type":"page-type/temper-skill"}

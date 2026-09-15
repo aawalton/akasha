@@ -1,0 +1,10 @@
+{"app":"alanwalton-native"}
+{"fingerprint":"a89a7607eefc08ec"}
+{"firstSeenAt":"2026-09-15T04:07:13.104Z"}
+{"id":"01a0a33f-6610-7fa1-a28f-2cdb61b46f33"}
+{"kind":"error"}
+{"message":"Sent 243 activeEnergy samples in 1 batches. stepCount: alanwalton.com could not be reached. Nothing from that point on is lost — the next run sends it again."}
+{"slug":"alanwalton-native-a89a7607eefc08ec"}
+{"type":"page-type/runtime-error"}
+{"url":"stream-health-samples"}
+{"userAgent":"StreamHealthSamplesIntent/240"}

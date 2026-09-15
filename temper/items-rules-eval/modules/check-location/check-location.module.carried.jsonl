@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An empty location list on the rule skips the location check."},{"decisionKind":"decision-kind/departure","statement":"An item with no known location makes the condition indeterminate."},{"decisionKind":"decision-kind/departure","statement":"The failing item's location is reported as the failure detail."}]}
+{"definition":"the condition check over an item's inventory location against a rule's allowed locations"}
+{"id":"01a06137-f966-775e-b470-aec9815be083"}
+{"slug":"check-location"}
+{"type":"page-type/module"}

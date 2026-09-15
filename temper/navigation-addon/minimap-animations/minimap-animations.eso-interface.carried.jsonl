@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The document has an animation timeline and no control."},{"decisionKind":"decision-kind/departure","statement":"The Lua bundle reaches the timeline by name."}]}
+{"definition":"the animation the minimap window resizes and moves with"}
+{"id":"01a06269-2b17-76b4-a6e1-d7eb1d3b209f"}
+{"loadedAs":"TemperNavigation_Controls.xml"}
+{"markup":"xml"}
+{"slug":"minimap-animations"}
+{"type":"page-type/eso-interface"}

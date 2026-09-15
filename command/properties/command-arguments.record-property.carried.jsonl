@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A command names an argument rather than spelling that argument again."},{"decisionKind":"decision-kind/departure","statement":"An argument a command does not name is refused where a call says it."},{"decisionKind":"decision-kind/departure","statement":"An argument one command needs and another does not is needed here."},{"decisionKind":"decision-kind/departure","statement":"An entry naming an argument twice is refused."}]}
+{"definition":"the arguments a command takes, each narrowed as that command takes it"}
+{"id":"01a09409-2933-7981-8332-eb750e91e83b"}
+{"parts":[]}
+{"properties":[{"pageProperty":"relation-property/argument","required":true,"many":false},{"pageProperty":"boolean-property/required","required":false,"many":false},{"pageProperty":"select-property/said-as","required":false,"many":false},{"pageProperty":"relation-property/not-with","required":false,"many":true,"maxCount":null},{"pageProperty":"relation-property/one-of","required":false,"many":true,"maxCount":null},{"pageProperty":"boolean-property/repeats","required":false,"many":false},{"pageProperty":"text-property/entry-default","required":false,"many":false}]}
+{"propertySlug":"arguments"}
+{"slug":"command-arguments"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A tag color is cleared once the tag carrying that color has been built."},{"decisionKind":"decision-kind/departure","statement":"Calling the library object itself makes a new proxy."},{"decisionKind":"decision-kind/departure","statement":"A disabled proxy prints nothing."}]}
+{"definition":"the handle an addon prints tagged chat messages through"}
+{"id":"01a06060-0d16-7e3b-99f0-9bc14b4374ad"}
+{"slug":"chat-proxy"}
+{"type":"page-type/module"}

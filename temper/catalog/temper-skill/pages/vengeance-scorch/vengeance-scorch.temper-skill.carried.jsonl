@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Scorch"}
+{"description":"\"Stir a group of shalk that attack after |cffffff3|r seconds, dealing |cffffff12701|r Magic Damage to up to 3 enemies in front of you.\""}
+{"esoSkillId":247093}
+{"icon":"/esoui/art/icons/ability_warden_015.dds"}
+{"id":"019e6f53-a97a-7dbb-b9bf-99d38018fa5f"}
+{"isMorph":false}
+{"key":"vengeance-scorch"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-warden-animal-companions"}
+{"skillType":"active"}
+{"slug":"vengeance-scorch"}
+{"subcategoryId":"vengeance-warden-animal-companions"}
+{"title":"Vengeance Scorch"}
+{"type":"page-type/temper-skill"}

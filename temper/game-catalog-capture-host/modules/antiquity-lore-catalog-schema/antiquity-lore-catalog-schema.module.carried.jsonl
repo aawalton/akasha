@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A catalog key arrives as text and is coerced to a number."},{"decisionKind":"decision-kind/departure","statement":"An entry with a field the schema does not name is refused."}]}
+{"definition":"the zod schema reading the antiquity lore catalog out of saved variables"}
+{"id":"01a06076-5ea5-7559-8362-c4ea6704e72a"}
+{"slug":"antiquity-lore-catalog-schema"}
+{"type":"page-type/module"}

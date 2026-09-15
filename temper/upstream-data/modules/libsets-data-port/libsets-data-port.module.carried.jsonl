@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The upstream Lua files are run in order in a sandboxed Lua machine."},{"decisionKind":"decision-kind/departure","statement":"A table is serialized by Lua rather than carried across as a value."},{"decisionKind":"decision-kind/departure","statement":"A table with a metatable is refused as an unseeded global's stub."},{"decisionKind":"decision-kind/departure","statement":"A table keyed by both halves of a boolean is written as a pair."},{"decisionKind":"decision-kind/departure","statement":"A number the game names is written as that name rather than as the number."},{"decisionKind":"decision-kind/departure","statement":"A non-finite number is refused rather than written."},{"decisionKind":"decision-kind/departure","statement":"The folder the ported data lands in is named by the caller."},{"decisionKind":"decision-kind/departure","statement":"Every ported file names the upstream commit the data came out of."},{"decisionKind":"decision-kind/gap","statement":"Where the ported set data lands is settled by the LibSets library's own move."}]}
+{"definition":"upstream LibSets's own data tables copied out as TypeScript"}
+{"id":"01a06341-d9e8-7001-b3d8-ac888e8c7c0b"}
+{"slug":"libsets-data-port"}
+{"type":"page-type/module"}

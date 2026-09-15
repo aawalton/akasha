@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A field the provider does not answer with is left as the field was."},{"decisionKind":"decision-kind/departure","statement":"The values a person records about a collection outlive every sync."},{"decisionKind":"decision-kind/departure","statement":"A collection no provider holds a record of states no record."}]}
+{"definition":"a collection a provider outside akasha is the record of"}
+{"extends":["page-type/collection"]}
+{"id":"01a063de-2c60-701b-ab74-7e3436f4abe3"}
+{"parts":["calendar-date-property/last-synced-at","module/external-identity-reading","record-property/external-identity","select-property/source","text-property/external-id","url-property/external-link"]}
+{"properties":[{"pageProperty":"record-property/external-identity","required":false,"many":true,"maxCount":null}]}
+{"schema":"jsonl"}
+{"slug":"collection-external"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

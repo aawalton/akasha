@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A supported language table that is not English is given the English table as its fallback."}]}
+{"definition":"the game's own armour, weapon and Undaunted chest keeper names, gathered per language"}
+{"id":"01a061d7-7bc5-727f-88ac-49e2a8ab5686"}
+{"slug":"lib-sets-const-textures"}
+{"type":"page-type/module"}

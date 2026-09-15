@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The public global is put in place before the formatters install."}]}
+{"definition":"the order the chat message library installs its parts in"}
+{"id":"01a06060-0d18-71c4-bf35-67299b7e568b"}
+{"slug":"chat-message-main"}
+{"type":"page-type/module"}

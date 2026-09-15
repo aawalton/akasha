@@ -1,0 +1,7 @@
+{"definition":"whether a set of this movement is counted in repetitions or in seconds"}
+{"id":"01a0657e-2bc0-7aa5-9e66-12b33002585d"}
+{"propertySlug":"scoring-mode"}
+{"slug":"scoring-mode"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["reps","time"]}

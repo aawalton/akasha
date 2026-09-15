@@ -1,0 +1,7 @@
+{"id":"01a094fc-559e-76c1-b3a4-f89010f6b094"}
+{"placeholder":"id"}
+{"said":"--agent-id"}
+{"slug":"agent-id"}
+{"takes":"the agent id the gateway runs under, which no seat may answer to"}
+{"type":"page-type/argument"}
+{"value":"text"}

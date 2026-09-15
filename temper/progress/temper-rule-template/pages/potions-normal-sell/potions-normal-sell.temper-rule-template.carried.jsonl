@@ -1,0 +1,12 @@
+{"action":"temper-item-action/sell"}
+{"active":false}
+{"categoryId":"potions"}
+{"conditions":"jsonl"}
+{"description":"Sells normal (white) quality non-crafted potions. Crafted and higher-quality potions are kept."}
+{"displayOrder":42}
+{"goal":"temper-rule-goal/sell"}
+{"id":"019e3104-2629-7ebe-9f50-1a7872c15fd0"}
+{"key":"potions-normal-sell"}
+{"slug":"potions-normal-sell"}
+{"title":"Sell basic potions"}
+{"type":"page-type/temper-rule-template"}

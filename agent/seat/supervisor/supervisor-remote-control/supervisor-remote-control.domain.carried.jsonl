@@ -1,0 +1,5 @@
+{"definition":"a seat driven from away"}
+{"id":"01a09c78-e5b9-709e-bc75-2a6425da7d7b"}
+{"parts":["module/supervisor-rc-degraded-decide","module/supervisor-rc-degraded-state","module/supervisor-rc-degraded-thresholds","module/supervisor-remote-control-decide","module/supervisor-remote-control-default","module/supervisor-remote-control-env"]}
+{"slug":"supervisor-remote-control"}
+{"type":"page-type/domain"}

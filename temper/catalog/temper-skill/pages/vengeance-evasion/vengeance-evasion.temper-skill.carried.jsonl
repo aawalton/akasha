@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Evasion"}
+{"description":"\"Shroud yourself in mist to gain Major Evasion, reducing damage taken from area attacks by |cffffff20|r% for |cffffff20|r seconds.\""}
+{"esoSkillId":247587}
+{"icon":"/esoui/art/icons/ability_armor_002.dds"}
+{"id":"019e6f53-a902-7871-b340-667a89b725a8"}
+{"isMorph":false}
+{"key":"vengeance-evasion"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-armor"}
+{"skillType":"active"}
+{"slug":"vengeance-evasion"}
+{"subcategoryId":"vengeance-armor"}
+{"title":"Vengeance Evasion"}
+{"type":"page-type/temper-skill"}

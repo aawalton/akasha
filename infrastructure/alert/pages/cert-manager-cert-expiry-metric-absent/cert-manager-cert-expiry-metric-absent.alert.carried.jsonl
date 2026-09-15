@@ -1,0 +1,8 @@
+{"definition":"nothing is reporting when cert-manager's certificates expire"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62f9-7946-98ea-7e85adabc2f5"}
+{"runbook":"txt"}
+{"slug":"cert-manager-cert-expiry-metric-absent"}
+{"summary":"cert-manager expiry gauge is absent — scrape lost or metric dead"}
+{"title":"Cert manager cert expiry metric absent"}
+{"type":"page-type/alert"}

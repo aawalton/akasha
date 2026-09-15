@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"This route exports `action` alone."},{"decisionKind":"decision-kind/constraint","statement":"React Router strips only `loader` and `action` and `middleware` and `headers` from the browser."}]}
+{"definition":"a page a browser writes"}
+{"id":"01a082a1-9eab-776d-b29b-3c1448c8d5fa"}
+{"slug":"api-page-write"}
+{"type":"page-type/route"}
+{"urlPath":"api/page-write"}

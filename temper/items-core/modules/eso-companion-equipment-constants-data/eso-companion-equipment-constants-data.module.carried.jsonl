@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"These numbers were written out from the companion equipment constant pages."},{"decisionKind":"decision-kind/absence","statement":"No name here is taken from the game at runtime."}]}
+{"definition":"the numbers the game gives companion equip types and companion gear qualities"}
+{"id":"01a060d9-498b-7d49-9f36-43409f335af9"}
+{"slug":"eso-companion-equipment-constants-data"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Four topics updated is one point."},{"decisionKind":"decision-kind/departure","statement":"The points are the learn-everything topics Alan updated turned into points."},{"decisionKind":"decision-kind/departure","statement":"A day with no count earns nothing rather than an intelligence of zero."},{"decisionKind":"decision-kind/absence","statement":"Nothing here counts the topics a commit updated."}]}
+{"definition":"what Alan has built by learning about the world"}
+{"id":"01a06841-a185-7471-8155-9b91e3f40e35"}
+{"pointUnit":"four learn-everything topics updated"}
+{"slug":"intelligence"}
+{"test":"ts"}
+{"type":"page-type/attribute"}

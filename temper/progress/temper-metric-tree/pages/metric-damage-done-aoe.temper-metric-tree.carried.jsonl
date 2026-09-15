@@ -1,0 +1,8 @@
+{"displayOrder":0}
+{"id":"019e2fcd-596a-7e00-b8f7-8593a2e0396e"}
+{"nodeId":"damage-done-aoe"}
+{"nodeType":"metric"}
+{"parent":"subcategory-damage-done"}
+{"slug":"metric-damage-done-aoe"}
+{"title":"Damage Done Aoe"}
+{"type":"page-type/temper-metric-tree"}

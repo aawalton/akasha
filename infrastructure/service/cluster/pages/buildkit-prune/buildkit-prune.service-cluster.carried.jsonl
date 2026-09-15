@@ -1,0 +1,10 @@
+{"definition":"the job that clears build cache the builder is no longer using"}
+{"id":"01a06812-237f-75a4-8884-ae6155609bc3"}
+{"image":"moby/buildkit:v0.28.0"}
+{"manifest":["manifest/buildkit-prune"]}
+{"namespace":"buildkit"}
+{"resourceKind":"CronJob"}
+{"resourceName":"buildkit-prune"}
+{"schedule":"0 4 * * 0"}
+{"slug":"buildkit-prune"}
+{"type":"page-type/service-cluster"}

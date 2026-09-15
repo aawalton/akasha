@@ -1,0 +1,7 @@
+{"description":"Reduces damage from area attacks by 10%"}
+{"effects":"jsonl"}
+{"id":"01a05fc5-f6be-742f-a474-8811a1c739b1"}
+{"key":"minor-evasion"}
+{"slug":"minor-evasion"}
+{"title":"Minor Evasion"}
+{"type":"page-type/temper-buff-minor"}

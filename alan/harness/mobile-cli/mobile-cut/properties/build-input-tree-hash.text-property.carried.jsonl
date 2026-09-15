@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A cut with no hash predates the basis cuts are judged by and reads as owed."}]}
+{"definition":"the hash of everything a build reads, which a cut is judged owed against"}
+{"id":"01a0685d-b81f-7f70-8ae2-8933a7780ba3"}
+{"maxLength":64}
+{"nameFormat":null}
+{"propertySlug":"build-input-tree-hash"}
+{"slug":"build-input-tree-hash"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

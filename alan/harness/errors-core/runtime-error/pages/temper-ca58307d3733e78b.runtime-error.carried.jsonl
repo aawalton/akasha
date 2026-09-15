@@ -1,0 +1,10 @@
+{"app":"temper"}
+{"fingerprint":"ca58307d3733e78b"}
+{"firstSeenAt":"2026-09-14T09:56:32.607Z"}
+{"id":"01a09f59-2694-7787-a9d1-6c36794a68dc"}
+{"kind":"error"}
+{"message":"[pages-cache] slug 'temper-player' readiness overran 4000ms — degrading to the empty state"}
+{"slug":"temper-ca58307d3733e78b"}
+{"type":"page-type/runtime-error"}
+{"url":"https://www.tempereso.com/home"}
+{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"}

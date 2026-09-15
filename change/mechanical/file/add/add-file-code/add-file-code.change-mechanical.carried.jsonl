@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-add"}
+{"changeTargetSubtype":"change-target-subtype/file-code"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The body is written by the change this change reaches."},{"decisionKind":"decision-kind/absence","statement":"Nothing here judges the path a body is written at."}]}
+{"definition":"one code body written at one path, with the imports that body names judged"}
+{"id":"01a07969-9123-7320-b8c9-3afd2dae9bfa"}
+{"slug":"add-file-code"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical"}

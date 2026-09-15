@@ -1,0 +1,6 @@
+{"filing":"archive"}
+{"id":"01a06860-54a2-7fb2-b0e6-f034557b9bbc"}
+{"matches":[{"field":"from","comparison":"ends-with","values":["crunchyroll.com"]},{"field":"subject","comparison":"contains","values":["new device","new sign-in","new signin","new login","accessed from a new"]}]}
+{"slug":"crunchyroll-new-device"}
+{"title":"Crunchyroll new device"}
+{"type":"page-type/email-rule-code"}

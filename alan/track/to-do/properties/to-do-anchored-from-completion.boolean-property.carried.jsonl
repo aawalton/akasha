@@ -1,0 +1,6 @@
+{"definition":"whether the next round is counted from when it was last done rather than from when it was last due"}
+{"id":"01a065a1-49b7-7591-afc7-de41dfe5e026"}
+{"propertySlug":"to-do-anchored-from-completion"}
+{"slug":"to-do-anchored-from-completion"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

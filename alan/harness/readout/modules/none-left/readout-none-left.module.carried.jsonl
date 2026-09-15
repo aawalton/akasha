@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each half is carried only where the page states that half."},{"decisionKind":"decision-kind/departure","statement":"A half stating nothing but spaces is no half."},{"decisionKind":"decision-kind/departure","statement":"A half is carried with the spaces around the half trimmed off."},{"decisionKind":"decision-kind/absence","statement":"Nothing here decides when nothing is left."},{"decisionKind":"decision-kind/absence","statement":"Nothing here draws a ring."}]}
+{"definition":"the words and emoji a readout page states for when nothing is left"}
+{"id":"01a05b88-a4a3-76a2-abf1-db8351d2a5b7"}
+{"slug":"readout-none-left"}
+{"test":"ts"}
+{"type":"page-type/module"}

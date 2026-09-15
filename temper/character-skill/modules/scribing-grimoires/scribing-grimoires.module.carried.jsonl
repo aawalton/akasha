@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This table is written out from the skill pages rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"An entry's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"An entry moved to another place breaks every build hash saved."},{"decisionKind":"decision-kind/departure","statement":"This table is divided across runs."}]}
+{"definition":"every scribing grimoire an Elder Scrolls Online character may learn"}
+{"id":"01a0617c-86c1-7ff1-9fbb-5185c2f3eb4d"}
+{"slug":"scribing-grimoires"}
+{"type":"page-type/module"}

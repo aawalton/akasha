@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Which resolver a completion card is answered by is stated in one place."}]}
+{"definition":"how far one task has got, worked out from the completion card that task names"}
+{"id":"01a062ee-f0bd-7071-8b01-5c61376d23f5"}
+{"slug":"characters-task-progress-resolver"}
+{"type":"page-type/module"}

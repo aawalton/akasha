@@ -1,0 +1,17 @@
+{"baseName":"Impulse"}
+{"description":"\"Release a surge of elemental energy, dealing 1742 Magic Damage to nearby enemies and afflicting them with Minor Mangle, reducing their Max Health by 10% for 10 seconds.\\n\\nFlame Pulsar hits Burning enemies with Pulsar Afterburn, which deals more damage based on their missing Health.\\n\\nFrost Pulsar also provides Minor Protection.\\n\\nStorm Pulsar's damage increases based on the number of enemies hit.\""}
+{"esoSkillId":42996}
+{"icon":"/esoui/art/icons/ability_destructionstaff_008_b.dds"}
+{"id":"019e6226-0104-7c4e-9ac0-9ac9de69ce63"}
+{"isMorph":true}
+{"key":"pulsar"}
+{"learnedLevel":38}
+{"lineRankNeeded":38}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"pulsar"}
+{"subcategoryId":"weapon-destruction-staff"}
+{"title":"Pulsar"}
+{"type":"page-type/temper-skill"}

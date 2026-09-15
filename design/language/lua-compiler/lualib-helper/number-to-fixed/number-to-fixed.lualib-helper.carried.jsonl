@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the text a number takes with a stated count of fraction digits"}
+{"id":"01a08202-0fa9-795e-99f1-aa3a8b43c20d"}
+{"luaExport":"__TS__NumberToFixed"}
+{"slug":"number-to-fixed"}
+{"type":"page-type/lualib-helper"}

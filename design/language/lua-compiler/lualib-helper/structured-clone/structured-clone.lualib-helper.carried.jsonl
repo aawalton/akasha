@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"a deep copy of a value, where a reference held twice is copied once"}
+{"id":"01a08c41-35bc-7c86-a2bb-34c5375cbfd8"}
+{"luaExport":"__TS__StructuredClone"}
+{"slug":"structured-clone"}
+{"type":"page-type/lualib-helper"}

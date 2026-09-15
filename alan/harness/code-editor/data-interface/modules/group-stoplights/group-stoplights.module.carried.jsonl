@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The glyph row and the legend are two drawings of one set of stoplights."},{"decisionKind":"decision-kind/departure","statement":"The glyph row takes each stoplight's tier and the legend takes each label."},{"decisionKind":"decision-kind/departure","statement":"A legend parts one label from the next with a spaced middle dot."},{"decisionKind":"decision-kind/departure","statement":"Each tier has one glyph named here."},{"decisionKind":"decision-kind/absence","statement":"Nothing here names which readouts a group holds."},{"decisionKind":"decision-kind/absence","statement":"Nothing here names the label a readout carries."},{"decisionKind":"decision-kind/absence","statement":"Nothing here names the scale a reading is read against."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the store."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a page."}]}
+{"definition":"the glyph row and the legend a set of stoplights is drawn as"}
+{"id":"01a064e4-627c-717e-bcf8-2ad1f41c1222"}
+{"slug":"group-stoplights"}
+{"type":"page-type/module"}

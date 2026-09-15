@@ -1,0 +1,8 @@
+{"allowed":false}
+{"code":"ts"}
+{"definition":"a demonstrative used where a noun would be"}
+{"id":"01a05def-c4fe-72b3-95b3-cfd7e5157ced"}
+{"reason":"A demonstrative makes a reader look up which page they are on."}
+{"slug":"lone-determiner"}
+{"test":"ts"}
+{"type":"page-type/sentence-shape"}

@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Critical Charge"}
+{"description":"\"Launch across the earth and smash an enemy, dealing |cffffff6678|r Physical Damage. \\n\\nThis attack is always a Critical Strike.\""}
+{"esoSkillId":240459}
+{"icon":"/esoui/art/icons/ability_2handed_003.dds"}
+{"id":"019e6f53-a8dc-7c38-b41a-b2f3a5404341"}
+{"isMorph":false}
+{"key":"vengeance-critical-charge"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-two-handed"}
+{"skillType":"active"}
+{"slug":"vengeance-critical-charge"}
+{"subcategoryId":"vengeance-weapon-two-handed"}
+{"title":"Vengeance Critical Charge"}
+{"type":"page-type/temper-skill"}

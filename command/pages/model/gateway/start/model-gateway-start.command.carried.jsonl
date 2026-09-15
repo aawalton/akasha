@@ -1,0 +1,10 @@
+{"arguments":[{"argument":"argument/agent-id"},{"argument":"argument/gateway-log-dir"},{"argument":"argument/gateway-port"},{"argument":"argument/registration-account"},{"argument":"argument/version"},{"argument":"argument/keep"},{"argument":"argument/seconds"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One run starts one gateway."},{"decisionKind":"decision-kind/departure","statement":"A port that came back answers 0."},{"decisionKind":"decision-kind/departure","statement":"A gateway that printed no port answers 3."},{"decisionKind":"decision-kind/departure","statement":"The report names the port the gateway answers on."},{"decisionKind":"decision-kind/departure","statement":"The report names the process the gateway runs as."},{"decisionKind":"decision-kind/departure","statement":"A gateway that printed no port is refused rather than reported."},{"decisionKind":"decision-kind/departure","statement":"A start that threw after the spawn names the process left running."},{"decisionKind":"decision-kind/departure","statement":"A gateway that printed no port is refused with its log directory named."},{"decisionKind":"decision-kind/departure","statement":"A start that threw before the spawn names no process."},{"decisionKind":"decision-kind/departure","statement":"The seams this runs on are handed in."},{"decisionKind":"decision-kind/absence","statement":"Nothing inside the akasha folder is written by this command."},{"decisionKind":"decision-kind/absence","statement":"No credential is read by this command."},{"decisionKind":"decision-kind/absence","statement":"Nothing here makes a request of a gateway."}]}
+{"definition":"the command starting one gateway on the akasha entry, apart from the fleet"}
+{"id":"01a069b9-74bd-7486-be0b-a850ee00342c"}
+{"name":"start"}
+{"parts":["module/proxy-run"]}
+{"slug":"model-gateway-start"}
+{"test":"ts"}
+{"type":"page-type/command"}

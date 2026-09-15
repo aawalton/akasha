@@ -1,0 +1,14 @@
+{"collection":"location-collection/starving-student-card"}
+{"dealKey":"ssc:free-stuff:dairy-queen:free-small-ice-cream-cone"}
+{"finePrint":"Orem, Vineyard, EM & Santaquin"}
+{"id":"019f322c-a01f-7307-93fc-fc6f83863ef1"}
+{"locations":["location/dairy-queen-eagle-mountain","location/dairy-queen-orem","location/dairy-queen-santaquin","location/dairy-queen-vineyard"]}
+{"offerText":"FREE! Small Ice Cream Cone!"}
+{"offerType":"free"}
+{"section":"Free Stuff"}
+{"slug":"free-stuff-dairy-queen-free-small-ice-cream-cone"}
+{"struckOut":false}
+{"title":"Dairy Queen — FREE! Small Ice Cream Cone!"}
+{"type":"page-type/location-deal"}
+{"useLimit":"1"}
+{"usesUsed":0}

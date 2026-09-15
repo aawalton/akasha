@@ -1,0 +1,7 @@
+{"filing":"archive"}
+{"forwardTo":"person/jenny"}
+{"id":"01a06860-54a2-7564-ae67-fb1830491d30"}
+{"matches":[{"field":"from","comparison":"ends-with","values":["transactional.vanguard.com"]},{"field":"subject","comparison":"contains","values":["transaction confirmation","transaction submission"]}]}
+{"slug":"vanguard-transaction-confirm"}
+{"title":"Vanguard transaction confirm"}
+{"type":"page-type/email-rule-code"}

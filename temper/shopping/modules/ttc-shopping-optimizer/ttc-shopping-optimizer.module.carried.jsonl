@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Two items asking the same search ask Tamriel Trade Centre once."},{"decisionKind":"decision-kind/departure","statement":"An item with the fewest candidate listings is settled first."},{"decisionKind":"decision-kind/departure","statement":"One listing answers one item."},{"decisionKind":"decision-kind/departure","statement":"A kiosk with a larger share of the items still wanted breaks a tie on price."},{"decisionKind":"decision-kind/departure","statement":"An item no listing answers comes back among the missing."}]}
+{"definition":"which listings to buy so that the fewest kiosks are visited"}
+{"id":"01a060cf-b0b0-7518-a8fe-69b071ba12a7"}
+{"slug":"ttc-shopping-optimizer"}
+{"type":"page-type/module"}

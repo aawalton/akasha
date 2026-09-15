@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A suffix the game wrote after a caret is cut from the end of the name."},{"decisionKind":"decision-kind/departure","statement":"A caret anywhere but the end of the name is left alone."}]}
+{"definition":"a name the game gave, with the game's own grammar suffix cut off"}
+{"id":"01a0609f-53f9-7998-8f89-ccf5a230130b"}
+{"slug":"eso-name"}
+{"type":"page-type/module"}

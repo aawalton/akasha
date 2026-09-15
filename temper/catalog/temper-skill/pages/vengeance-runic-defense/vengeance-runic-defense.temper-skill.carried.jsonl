@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Runic Defense"}
+{"description":"\"Cast forth a complex rune granting you and up to 2 group members Minor Resolve for |cffffff20|r seconds, increasing your Armor by |cffffff2974|r.\\n\\nYou gain Minor Protection for |cffffff20|r seconds, reducing your damage taken by |cffffff5|r%.\""}
+{"esoSkillId":238262}
+{"icon":"/esoui/art/icons/ability_arcanist_010.dds"}
+{"id":"019e6f53-a973-7c1f-b5d8-6fe939e23dc6"}
+{"isMorph":false}
+{"key":"vengeance-runic-defense"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-arcanist-soldier-of-apocrypha"}
+{"skillType":"active"}
+{"slug":"vengeance-runic-defense"}
+{"subcategoryId":"vengeance-arcanist-soldier-of-apocrypha"}
+{"title":"Vengeance Runic Defense"}
+{"type":"page-type/temper-skill"}

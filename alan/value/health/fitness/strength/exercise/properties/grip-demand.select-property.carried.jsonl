@@ -1,0 +1,7 @@
+{"definition":"how much the movement asks of the hands before the target muscle gives out"}
+{"id":"01a0657e-2bbf-7def-8aa4-63a661a263ff"}
+{"propertySlug":"grip-demand"}
+{"slug":"grip-demand"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["high","low","none"]}

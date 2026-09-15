@@ -1,0 +1,12 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-rename"}
+{"changeTargetSubtype":"change-target-subtype/file-content-page-property-key"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The key alone is respelled."},{"decisionKind":"decision-kind/departure","statement":"The key keeps the place it had among the object's keys."},{"decisionKind":"decision-kind/departure","statement":"A key spelled as a string is respelled as a string."},{"decisionKind":"decision-kind/departure","statement":"The passage answered is the lines the key sits on rather than the body."},{"decisionKind":"decision-kind/departure","statement":"A body exporting no object is refused rather than respelled."},{"decisionKind":"decision-kind/departure","statement":"A body stating no such key in the exported object is refused."},{"decisionKind":"decision-kind/departure","statement":"A body already stating the key asked for is refused."},{"decisionKind":"decision-kind/departure","statement":"The key respelled sits in the exported object itself where no holding key is named."},{"decisionKind":"decision-kind/departure","statement":"A holding key named respells the key in each record that key states."},{"decisionKind":"decision-kind/departure","statement":"A record stating no such key is passed over."},{"decisionKind":"decision-kind/departure","statement":"The same key in the exported object itself is left as it is."},{"decisionKind":"decision-kind/departure","statement":"Records sitting apart answer an edit each."},{"decisionKind":"decision-kind/departure","statement":"Records stating that key nowhere answer no edit rather than being refused."},{"decisionKind":"decision-kind/departure","statement":"A holding key stating no list of records answers no edit."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the index."}]}
+{"definition":"one key of a page's exported object, or of each record a key of it holds, spelled anew"}
+{"id":"01a08199-2188-7b83-8ede-a4feb5dd9765"}
+{"slug":"rename-page-property-key"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/change-mechanical-file-content"}

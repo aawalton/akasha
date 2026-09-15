@@ -1,0 +1,8 @@
+{"definition":"a hand or a bar a weapon is held in"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fd1-d442-7dfe-a4bd-c74ac70298ff"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-weapon-slot"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

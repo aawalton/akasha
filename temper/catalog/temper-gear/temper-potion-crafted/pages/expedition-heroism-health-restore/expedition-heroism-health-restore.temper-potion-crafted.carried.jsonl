@@ -1,0 +1,11 @@
+{"description":"Grants Heroism, Lingering Health, Speed."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_010_type_005.dds"}
+{"id":"019e21f6-406c-7257-849f-626045c248e8"}
+{"key":"expedition-heroism-health-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Dragon's Blood","Dragon Rheum","Powdered Mother of Pearl"]},{"names":["Dragon's Blood","Dragon Rheum","Scrib Jelly"]}]}
+{"seconds":47}
+{"slug":"expedition-heroism-health-restore"}
+{"title":"Essence of Speed"}
+{"type":"page-type/temper-potion-crafted"}

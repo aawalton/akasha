@@ -1,0 +1,17 @@
+{"baseName":"Woodworking"}
+{"description":"\"Allows the use of Sanded Ruby Ash.\""}
+{"esoSkillId":70046}
+{"icon":"/esoui/art/icons/ability_tradecraft_003.dds"}
+{"id":"019e6224-ccb7-7563-bc0e-3334e3b15a30"}
+{"isMorph":false}
+{"key":"woodworking"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":10}
+{"skillLineId":"craft-woodworking"}
+{"skillType":"passive"}
+{"slug":"woodworking"}
+{"subcategoryId":"craft-woodworking"}
+{"title":"Woodworking"}
+{"type":"page-type/temper-skill"}

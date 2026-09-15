@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The nearest unfinished tier of a source is the only tier that source reports."},{"decisionKind":"decision-kind/gap","statement":"The motifs a source drops are not counted."}]}
+{"definition":"how far a character is through the runs of content a scribing script is earned from"}
+{"id":"01a062ed-39c9-700c-9df3-7f4288c3c504"}
+{"slug":"characters-scribing-sources"}
+{"type":"page-type/module"}

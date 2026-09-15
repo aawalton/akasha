@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An invented zone id sits above the highest id the game itself uses."}]}
+{"definition":"the zones a lead is grouped under, the game's own and the invented ones"}
+{"id":"01a06274-b08a-7704-bb73-1995a9337535"}
+{"slug":"leads-zones"}
+{"type":"page-type/module"}

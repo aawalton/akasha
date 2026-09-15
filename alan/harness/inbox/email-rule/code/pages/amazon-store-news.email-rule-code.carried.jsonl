@@ -1,0 +1,6 @@
+{"filing":"archive"}
+{"id":"01a06860-54a2-72ca-8867-f1457e9af4a7"}
+{"matches":[{"field":"from","comparison":"is","values":["store-news@amazon.com"]}]}
+{"slug":"amazon-store-news"}
+{"title":"Amazon store news"}
+{"type":"page-type/email-rule-code"}

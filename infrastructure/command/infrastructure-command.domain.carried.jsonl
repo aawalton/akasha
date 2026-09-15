@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A command here is named for the path the old ops command was reached by."},{"decisionKind":"decision-kind/gap","statement":"The Talos code a command here works over is in akasha."},{"decisionKind":"decision-kind/gap","statement":"The RBAC rules a command here reads are in akasha."}]}
+{"definition":"what an agent runs by name over what the system runs on"}
+{"id":"01a06809-a024-78cb-a37f-ff53624d76bd"}
+{"parts":[]}
+{"slug":"infrastructure-command"}
+{"type":"page-type/domain"}

@@ -1,0 +1,8 @@
+{"definition":"the words under a notification's title"}
+{"id":"01a06861-e7cd-7f02-b4fd-2b9ffca4ccae"}
+{"maxLength":1000}
+{"nameFormat":null}
+{"propertySlug":"body"}
+{"slug":"notification-body"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

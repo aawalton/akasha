@@ -1,0 +1,17 @@
+{"baseName":"Sacrificial Bones"}
+{"description":"\"Summon a skeleton from the ground after |cffffff2.5|r seconds. The skeleton leaps to you, sacrificing the fallen soul within and mastering your necromantic energies for |cffffff20|r seconds, increasing your damage done with Necromancer abilities and damage over time effects by |cffffff15|r%. While active, your third cast of Flame Skull damages in an |cffffff6|r meter area.\\n\\nCreates a corpse on death if you are in combat.\""}
+{"esoSkillId":117749}
+{"icon":"/esoui/art/icons/ability_necromancer_002_b.dds"}
+{"id":"019e6f53-a2a0-718e-b9c9-975ad20f764f"}
+{"isMorph":true}
+{"key":"grave-lord-s-sacrifice"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":4}
+{"skillLineId":"necromancer-grave-lord"}
+{"skillType":"active"}
+{"slug":"grave-lord-s-sacrifice"}
+{"subcategoryId":"necromancer-grave-lord"}
+{"title":"Grave Lord's Sacrifice"}
+{"type":"page-type/temper-skill"}

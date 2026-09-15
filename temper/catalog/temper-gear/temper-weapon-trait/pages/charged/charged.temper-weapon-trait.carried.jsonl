@@ -1,0 +1,11 @@
+{"displayOrder":1}
+{"effect":"Increases Status Effect Chance"}
+{"effects":"jsonl"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_WEAPON_CHARGED"}
+{"id":"019e5b8b-e53c-79f0-81dc-92d792e3fb6f"}
+{"key":"charged"}
+{"material":"Amethyst"}
+{"qualityValues":"jsonl"}
+{"slug":"charged"}
+{"title":"Charged"}
+{"type":"page-type/temper-weapon-trait"}

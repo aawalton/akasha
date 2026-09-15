@@ -1,0 +1,8 @@
+{"definition":"the id a source gives a game"}
+{"id":"01a06582-bd62-7860-929a-ca713a01c46e"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"source-game-id"}
+{"slug":"source-game-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

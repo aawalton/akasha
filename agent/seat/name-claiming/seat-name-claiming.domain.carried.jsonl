@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name already on the seat's row is the name that seat comes back under."},{"decisionKind":"decision-kind/departure","statement":"A revive is refused where the seat's row names that seat nothing."}]}
+{"definition":"whether a seat may take the name it asks for"}
+{"id":"01a09c46-7450-76f1-bb55-13db5f6c98fd"}
+{"parts":["module/agent-name-bind","module/seat-name-bind","module/seat-name-claim","module/seat-name-held-refusal","module/seat-parentless-refusal","module/seat-spawn-name-decide","module/seat-stated-name-refusal","module/seat-stated-parent-refusal","module/skill-token-guard","module/spawn-guard"]}
+{"slug":"seat-name-claiming"}
+{"type":"page-type/domain"}

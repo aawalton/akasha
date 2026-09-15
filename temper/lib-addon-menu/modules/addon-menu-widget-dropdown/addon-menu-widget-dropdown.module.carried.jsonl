@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Sorting is done in a pre-hook on UpdateItems rather than by the combo box."},{"decisionKind":"decision-kind/constraint","statement":"Choices and choicesValues must be the same length."},{"decisionKind":"decision-kind/departure","statement":"A right click on a multi-select box offers select-all and clear-all menu items."},{"decisionKind":"decision-kind/departure","statement":"Tooltip hooks are installed only when the widget data supplies tooltips."}]}
+{"definition":"the combo box widget, single-select or multi-select, over a fixed list of choices"}
+{"id":"01a06100-0000-7000-8000-000000000019"}
+{"slug":"addon-menu-widget-dropdown"}
+{"type":"page-type/module"}

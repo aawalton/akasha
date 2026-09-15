@@ -1,0 +1,9 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A day missing any of the six lights states no lights."}]}
+{"definition":"the rung each of the day's six values reached, as one colored light apiece"}
+{"holds":"text"}
+{"id":"01a07224-bf20-74dd-b1bc-270ef3cf98c8"}
+{"propertySlug":"stoplights"}
+{"slug":"stoplights"}
+{"type":"page-type/computed-property"}
+{"types":"ts"}

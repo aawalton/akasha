@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A spawn that omits remote control says it omitted remote control."}]}
+{"definition":"the environment a remote-controlled agent is spawned with"}
+{"id":"01a06876-abda-700a-9970-c937e1deae9a"}
+{"slug":"supervisor-remote-control-env"}
+{"type":"page-type/module"}

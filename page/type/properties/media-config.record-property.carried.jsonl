@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type states here how its pages are rendered as media."},{"decisionKind":"decision-kind/departure","statement":"A page type stating no media config takes the media config the page type above states."},{"decisionKind":"decision-kind/departure","statement":"A page type with no media config here or above renders no media."},{"decisionKind":"decision-kind/departure","statement":"A page type rendering no media is served by no media route."}]}
+{"definition":"how a page type's pages are rendered as audio and as an image"}
+{"id":"01a062b8-8775-7000-98df-e9b05641a5fe"}
+{"properties":[{"pageProperty":"record-property/audio-media","required":false,"many":false},{"pageProperty":"record-property/image-media","required":false,"many":false}]}
+{"propertySlug":"media-config"}
+{"slug":"media-config"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

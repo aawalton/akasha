@@ -1,0 +1,12 @@
+{"groupBy":"status"}
+{"groupSorts":[{"key":"status","descending":true}]}
+{"id":"01a06577-2614-7004-a141-2dc21b740922"}
+{"layout":"cards"}
+{"nav":"nav/anime-and-shows"}
+{"pageType":"page-type/ki-show"}
+{"slug":"anime-and-shows-all-by-status"}
+{"title":"All by Status"}
+{"type":"page-type/view"}
+{"viewPlace":3}
+{"viewSorts":[{"key":"title","descending":false}]}
+{"visibleProperties":["status","progress"]}

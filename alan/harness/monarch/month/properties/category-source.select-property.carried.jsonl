@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A source that is not Monarch holds against the category Monarch reports."},{"decisionKind":"decision-kind/departure","statement":"A transaction stating no source took its category from Monarch untouched."}]}
+{"definition":"what settled a transaction's category"}
+{"id":"01a0680b-2b00-700a-9c37-6e8b4f2d210b"}
+{"propertySlug":"category-source"}
+{"slug":"category-source"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["monarch","manual-categorization","programmatic-categorization"]}

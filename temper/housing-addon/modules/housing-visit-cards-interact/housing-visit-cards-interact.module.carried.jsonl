@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One card is selected at a time."}]}
+{"definition":"what clicking a received visit card does"}
+{"id":"01a06128-d5d6-7897-939f-8aa6659a7dcf"}
+{"slug":"housing-visit-cards-interact"}
+{"type":"page-type/module"}

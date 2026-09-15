@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One player and one card is one page."},{"decisionKind":"decision-kind/departure","statement":"A card is slugged by the card slug and then the player with that card."},{"decisionKind":"decision-kind/departure","statement":"The card alone is no name."},{"decisionKind":"decision-kind/departure","statement":"A card names its persona only once the card is unlocked."}]}
+{"definition":"one persona as one player holds her in the idle game"}
+{"extends":["page-type/page"]}
+{"id":"01a06596-f0d5-700c-a792-6d23205f3082"}
+{"parts":["boolean-property/lock-eligible","boolean-property/specialize-locked","number-property/card-rank","number-property/rate-per-sec","number-property/seat-index","number-property/stars","number-property/train-cost","relation-property/card-persona","select-property/lock-state","text-property/card-slug","text-property/cover-image-id","text-property/images","text-property/player-id"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"text-property/player-id","required":true,"many":false},{"pageProperty":"text-property/card-slug","required":true,"many":false},{"pageProperty":"number-property/stars","required":true,"many":false},{"pageProperty":"number-property/rate-per-sec","required":true,"many":false},{"pageProperty":"number-property/card-rank","required":true,"many":false},{"pageProperty":"number-property/train-cost","required":true,"many":false},{"pageProperty":"select-property/lock-state","required":true,"many":false},{"pageProperty":"boolean-property/lock-eligible","required":true,"many":false},{"pageProperty":"boolean-property/specialize-locked","required":true,"many":false},{"pageProperty":"relation-property/card-persona","required":false,"many":false},{"pageProperty":"text-property/cover-image-id","required":false,"many":false},{"pageProperty":"text-property/images","required":false,"many":true,"maxCount":null},{"pageProperty":"number-property/seat-index","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"idle-persona-card"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

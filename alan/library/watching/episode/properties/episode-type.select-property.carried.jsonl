@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"The values are the ones the record has rather than every value the provider answers with."}]}
+{"definition":"what an episode is to the run it sits in"}
+{"id":"01a06599-ee09-700b-b9c1-3c28e65e2b56"}
+{"propertySlug":"episode-type"}
+{"slug":"episode-type"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["standard","mid-season","finale"]}

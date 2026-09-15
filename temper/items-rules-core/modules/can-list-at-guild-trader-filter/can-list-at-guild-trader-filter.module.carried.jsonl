@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the `canListAtGuildTrader` condition alone."},{"decisionKind":"decision-kind/departure","statement":"A rule whose action is other than `list` is offered no Can List at Guild Trader condition."}]}
+{"definition":"the Can List at Guild Trader condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3be7-7e16-98f5-59dabc92b040"}
+{"slug":"can-list-at-guild-trader-filter"}
+{"type":"page-type/module"}

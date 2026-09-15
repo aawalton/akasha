@@ -1,0 +1,8 @@
+{"definition":"a job finished without succeeding"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fa-72bc-bd95-dd17149f5f38"}
+{"runbook":"txt"}
+{"slug":"job-failed"}
+{"summary":"Job(s) owned by {{ $labels.namespace }}/{{ $labels.owner_name }} failed"}
+{"title":"Job failed"}
+{"type":"page-type/alert"}

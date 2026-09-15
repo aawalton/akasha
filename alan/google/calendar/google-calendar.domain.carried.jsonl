@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An event naming no calendar lands on Alan's own."},{"decisionKind":"decision-kind/departure","statement":"Attendees are emailed unless the caller says otherwise."}]}
+{"definition":"Alan's Google calendar events read, made, changed and answered"}
+{"id":"01a05c02-c732-7b6e-b180-61f29e1b42e7"}
+{"parts":["module/calendar-auth","module/calendar-client","module/calendar-credentials","module/calendar-event-schema","module/calendar-event-shapes","module/calendar-events","module/send-updates-narrowing"]}
+{"slug":"google-calendar"}
+{"type":"page-type/domain"}

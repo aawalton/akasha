@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"These records are one unbroken run of the whole table's order."},{"decisionKind":"decision-kind/departure","statement":"This run is the add-on's own source rather than anything akasha derives."}]}
+{"definition":"one run of the Eidetic Memory collection table, in the order the whole table names them"}
+{"id":"01a06181-3844-7ddc-9e7f-bbaa57386ff3"}
+{"slug":"lorebooks-library-data-05"}
+{"type":"page-type/module"}

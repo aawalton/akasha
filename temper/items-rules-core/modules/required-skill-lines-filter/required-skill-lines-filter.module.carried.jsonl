@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the `requiredSkillLines` condition alone."},{"decisionKind":"decision-kind/departure","statement":"A rule whose action is other than `stock` is offered no Required Skill Lines condition."}]}
+{"definition":"the Required Skill Lines condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3bf8-70f7-9492-2892d8648322"}
+{"slug":"required-skill-lines-filter"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The filter constants the upstream file reads are seeded before the file runs."},{"decisionKind":"decision-kind/departure","statement":"The EU list and the NA list are built by calling upstream's own builders."},{"decisionKind":"decision-kind/departure","statement":"An entry is refused where any field that entry has is not the shape expected."},{"decisionKind":"decision-kind/departure","statement":"A list longer than a part's ceiling is written as numbered parts and a barrel."},{"decisionKind":"decision-kind/departure","statement":"Every generated file already there is removed before the new ones are written."},{"decisionKind":"decision-kind/departure","statement":"The package the ported data lands in is read from the library's own naming."},{"decisionKind":"decision-kind/departure","statement":"The checkout the ported files land in is named by the caller."},{"decisionKind":"decision-kind/departure","statement":"What a run has cleared and written is named to the caller as each of them happens."}]}
+{"definition":"the house library upstream PortToFriendsHouse carries, copied out as TypeScript"}
+{"id":"01a0683b-e6a3-7d85-beb0-b2d13fdf25bb"}
+{"slug":"housing-upstream-port"}
+{"type":"page-type/module"}

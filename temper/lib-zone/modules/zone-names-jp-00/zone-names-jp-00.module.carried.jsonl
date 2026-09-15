@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"These rows are the rows upstream LibZone v8.98 states."}]}
+{"definition":"part 00 of every zone's name in jp"}
+{"id":"01a061e7-9317-7ca1-949a-b0e5646534ae"}
+{"slug":"zone-names-jp-00"}
+{"type":"page-type/module"}

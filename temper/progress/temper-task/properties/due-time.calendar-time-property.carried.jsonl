@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A task wanted at no stated hour states no due time."}]}
+{"definition":"the time of day a task is next wanted"}
+{"id":"01a06d87-f1ed-793e-bf8f-a6f094353e9f"}
+{"propertySlug":"due-time"}
+{"slug":"due-time"}
+{"type":"page-type/calendar-time-property"}
+{"types":"ts"}

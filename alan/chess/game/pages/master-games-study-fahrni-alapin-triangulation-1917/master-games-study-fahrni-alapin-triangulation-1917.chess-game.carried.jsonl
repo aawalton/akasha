@@ -1,0 +1,21 @@
+{"black":"Semyon Alapin"}
+{"collection":"endgame-classics"}
+{"externalId":"master-games_study-fahrni-alapin-triangulation-1917"}
+{"fen":"8/2k5/p1P5/P3K3/8/8/8/8 w - - 0 1"}
+{"handle":"master-games"}
+{"id":"019f248f-e852-7a17-a1df-335656c3bb0a"}
+{"lesson":"K+P endgame: triangulation - the king walks a triangle to lose a tempo and hand the same position to the defender in zugzwang"}
+{"pgn":"pgn"}
+{"playedAt":"1917-01-01T00:00:00.000Z"}
+{"ply":13}
+{"rated":false}
+{"result":"1-0"}
+{"slug":"master-games-study-fahrni-alapin-triangulation-1917"}
+{"source":"master-games"}
+{"sourceGameId":"study-fahrni-alapin-triangulation-1917"}
+{"speed":"classical"}
+{"title":"Hans Fahrni vs Semyon Alapin · classical · 1917-01-01"}
+{"type":"page-type/chess-game"}
+{"variant":"standard"}
+{"white":"Hans Fahrni"}
+{"winner":"white"}

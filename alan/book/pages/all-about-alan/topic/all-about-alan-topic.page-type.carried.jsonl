@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Containment is carried by a topic's parents rather than by folders."},{"decisionKind":"decision-kind/departure","statement":"A topic sits under another topic or under no topic."},{"decisionKind":"decision-kind/departure","statement":"Exactly one topic sits under no topic."},{"decisionKind":"decision-kind/departure","statement":"A topic with no settled text is a title and a definition alone."}]}
+{"definition":"one topic about Alan"}
+{"extends":["page-type/page"]}
+{"id":"01a01acb-287b-7001-a5dd-b90e367fe4f8"}
+{"parts":["relation-property/topic-parents","relation-property/topic-related","text-property/topic-settled"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"standard-agent-english-property/definition","required":true,"many":false},{"pageProperty":"relation-property/topic-parents","required":false,"many":true,"maxCount":null},{"pageProperty":"relation-property/topic-related","required":false,"many":true,"maxCount":null},{"pageProperty":"text-property/topic-settled","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"all-about-alan-topic"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

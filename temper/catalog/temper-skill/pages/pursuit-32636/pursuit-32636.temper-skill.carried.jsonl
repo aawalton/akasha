@@ -1,0 +1,17 @@
+{"baseName":"Master of the Chase"}
+{"description":"\"Give chase, hunter. Become pursuit unrelenting.\\n\\nIncreases your Movement Speed by |cffffff15|r%.\""}
+{"esoSkillId":32636}
+{"icon":"/esoui/art/icons/ability_werewolf_010.dds"}
+{"id":"019e6f53-a56c-7b60-b8ec-a1c58aa769bd"}
+{"isMorph":false}
+{"key":"pursuit-32636"}
+{"learnedLevel":1}
+{"lineRankNeeded":3}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"world-werewolf"}
+{"skillType":"passive"}
+{"slug":"pursuit-32636"}
+{"subcategoryId":"world-werewolf"}
+{"title":"Master of the Chase"}
+{"type":"page-type/temper-skill"}

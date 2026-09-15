@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is the runs joined in order."}]}
+{"definition":"the points of interest by zone the map can show as unknown, joined from its runs"}
+{"id":"01a06269-2b0b-7446-a5b0-f81ca022e64d"}
+{"slug":"map-pins-unknown-poi"}
+{"type":"page-type/module"}

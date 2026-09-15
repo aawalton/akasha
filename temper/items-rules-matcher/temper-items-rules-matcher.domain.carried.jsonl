@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A matcher answers which items each rule takes and how many items."},{"decisionKind":"decision-kind/absence","statement":"No code here reaches the game."}]}
+{"definition":"every item the rules affect, found over the captured holdings"}
+{"id":"01a06151-370e-7f21-be1d-3df9be256684"}
+{"parts":["test-fixture/compile-rules","module/inventory-item-classifier","module/inventory-item-outcomes","module/inventory-rule-matcher","module/inventory-rule-matcher-allocators","module/inventory-rule-matcher-cache","module/inventory-rule-matcher-exclude","module/inventory-rule-matcher-fill-once","module/rule-matcher-context","module/rule-matcher-context-can-level-morphs","module/rule-matcher-context-curse-state","module/rule-matcher-context-equipment","module/rule-matcher-context-knowledge","module/rule-matcher-context-skill-lines","module/web-eval-env","module/web-item-facts","test-fixture/inventory-rule-matcher-property-fixtures"]}
+{"slug":"temper-items-rules-matcher"}
+{"type":"page-type/domain"}

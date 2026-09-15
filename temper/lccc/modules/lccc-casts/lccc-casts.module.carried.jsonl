@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here checks a value at run time."}]}
+{"definition":"what a value the game hands over is taken to be"}
+{"id":"01a08d72-b007-7beb-b91e-33727605794e"}
+{"slug":"lccc-casts"}
+{"type":"page-type/module"}

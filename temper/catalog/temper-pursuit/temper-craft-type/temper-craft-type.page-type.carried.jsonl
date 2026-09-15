@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A craft type gathers the research lines one crafting skill covers."}]}
+{"definition":"a craft a player researches item traits under"}
+{"extends":["page-type/temper-pursuit-thing"]}
+{"id":"01a0616b-2cdf-7001-a24c-0dd3c96e1a6e"}
+{"parts":["number-property/eso-craft-type-id"]}
+{"properties":[{"pageProperty":"number-property/eso-craft-type-id","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-craft-type"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

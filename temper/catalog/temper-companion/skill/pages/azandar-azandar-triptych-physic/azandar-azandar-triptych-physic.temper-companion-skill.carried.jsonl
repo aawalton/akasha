@@ -1,0 +1,14 @@
+{"abilityId":192574}
+{"castConditions":"jsonl"}
+{"companionId":"azandar"}
+{"description":"Your Companion launches a trio of restorative runes at themselves or an ally, healing for $1 Health three times."}
+{"icon":"/esoui/art/icons/ability_companion_arcanist_runemend.dds"}
+{"id":"019e6484-3842-79f2-9ad8-f809263c772e"}
+{"key":"azandar-triptych-physic"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-azandar-revitalizing-researcher"}
+{"skillType":"active"}
+{"slug":"azandar-azandar-triptych-physic"}
+{"title":"Triptych Physic"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer","tank"]}

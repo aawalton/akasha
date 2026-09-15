@@ -1,0 +1,17 @@
+{"baseName":"Caltrops"}
+{"description":"\"Hurl a ball of caltrops that scatter over the target area, dealing 281 Physical Damage every 1 second to enemies inside, and reducing their Movement Speed by 50%.\\n\\nThe caltrops also drain the Mount Stamina of any enemy in the area.\""}
+{"esoSkillId":46420}
+{"icon":"/esoui/art/icons/ability_ava_001_a.dds"}
+{"id":"019e6251-4c83-71c8-8b2d-ab1c84f380dc"}
+{"isMorph":true}
+{"key":"anti-cavalry-caltrops"}
+{"learnedLevel":6}
+{"lineRankNeeded":6}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"anti-cavalry-caltrops"}
+{"subcategoryId":"alliance-war-assault"}
+{"title":"Anti-Cavalry Caltrops"}
+{"type":"page-type/temper-skill"}

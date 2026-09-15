@@ -1,0 +1,6 @@
+{"definition":"every file a seed file reaches by naming it"}
+{"direction":"out"}
+{"edges":["graph-edge/import-edge"]}
+{"id":"01a0a5ea-a68e-7327-abc8-739b3ff5cb50"}
+{"slug":"imports"}
+{"type":"page-type/graph-predicate"}

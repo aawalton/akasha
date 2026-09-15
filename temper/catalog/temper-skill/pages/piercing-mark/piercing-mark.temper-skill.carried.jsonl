@@ -1,0 +1,17 @@
+{"baseName":"Mark Target"}
+{"description":"\"Expose an enemy's weaknesses to afflict them with Major Breach, reducing their Physical Resistance and Spell Resistance by 5948 for 1 minute.\\n\\nYou can detect marked enemies even if they use stealth or invisibility for 3 seconds. When a marked enemy dies, you heal to full Health.\\n\\nYou can only have one Piercing Mark active at a time.\""}
+{"esoSkillId":37631}
+{"icon":"/esoui/art/icons/ability_nightblade_014_b.dds"}
+{"id":"019e6245-a6e5-7180-984d-844d3121839c"}
+{"isMorph":true}
+{"key":"piercing-mark"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"nightblade-assassination"}
+{"skillType":"active"}
+{"slug":"piercing-mark"}
+{"subcategoryId":"nightblade-assassination"}
+{"title":"Piercing Mark"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A repair runs once per domain and the version reached is written down."},{"decisionKind":"decision-kind/departure","statement":"A domain the saved table gives no version to counts as being at nought."}]}
+{"definition":"the one-off repairs made to the saved table, each with the version it lifts a domain to"}
+{"id":"01a062ed-39de-700d-94f4-00c1960edb12"}
+{"slug":"characters-migrations"}
+{"type":"page-type/module"}

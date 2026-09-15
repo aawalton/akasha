@@ -1,0 +1,12 @@
+{"action":"temper-item-action/move-to"}
+{"active":false}
+{"categoryId":"currency"}
+{"description":"Deposits alliance points, tel var stones, and writ vouchers into the bank when visiting."}
+{"destination":"bank"}
+{"displayOrder":1}
+{"goal":"temper-rule-goal/hoard"}
+{"id":"019e3104-2606-728c-af2a-44cdb3ecd36c"}
+{"key":"other-currency-bank"}
+{"slug":"other-currency-bank"}
+{"title":"Bank other currencies"}
+{"type":"page-type/temper-rule-template"}

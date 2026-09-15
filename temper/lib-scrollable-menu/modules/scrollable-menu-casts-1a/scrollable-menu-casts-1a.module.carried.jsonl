@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each helper performs a bare TypeScript cast and returns the value unchanged."},{"decisionKind":"decision-kind/absence","statement":"The cast is not guarded by any runtime check."},{"decisionKind":"decision-kind/constraint","statement":"Membership of this half is decided by the alphabetical name of the target type."},{"decisionKind":"decision-kind/departure","statement":"A target shape with no named declaration is written inline as a structural type."}]}
+{"definition":"the narrowing helpers for shapes named from Anchor through ContextMenuCallbackEntry"}
+{"id":"01a06275-c443-79ce-a2b3-306d66ef04d7"}
+{"slug":"scrollable-menu-casts-1a"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"definition":"whether it sits on a desk or travels"}
+{"id":"01a0658c-329a-7f51-8e21-80f6d2aded06"}
+{"propertySlug":"form-factor"}
+{"slug":"form-factor"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["desktop","laptop"]}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A width here is the width the codec on the other side reads."}]}
+{"definition":"the bit widths the companion build codec reads a build hash by"}
+{"id":"01a0611d-84d0-7633-b29f-14f7be7fd63b"}
+{"slug":"companions-codec-constants"}
+{"type":"page-type/module"}

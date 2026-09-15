@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This table is written out from the companion pages rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"A skill's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A skill moved to another place breaks every build hash saved."},{"decisionKind":"decision-kind/departure","statement":"This table is divided across runs."},{"decisionKind":"decision-kind/constraint","statement":"No akasha file passes fifteen thousand bytes."}]}
+{"definition":"every skill a companion may put on its bar, gathered in one table"}
+{"id":"01a06119-5caa-75f4-bbef-65ed8a22afa9"}
+{"slug":"companion-skills"}
+{"type":"page-type/module"}

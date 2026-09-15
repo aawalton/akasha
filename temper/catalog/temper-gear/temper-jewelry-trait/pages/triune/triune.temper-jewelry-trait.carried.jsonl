@@ -1,0 +1,11 @@
+{"displayOrder":9}
+{"effect":"Increases Maximum Health, Magicka, and Stamina"}
+{"effects":"jsonl"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_JEWELRY_TRIUNE"}
+{"id":"019e5b97-6d96-7db5-902b-64e6d928282a"}
+{"key":"triune"}
+{"material":"Dawn-Prism"}
+{"qualityValues":"jsonl"}
+{"slug":"triune"}
+{"title":"Triune"}
+{"type":"page-type/temper-jewelry-trait"}

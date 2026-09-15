@@ -1,0 +1,8 @@
+{"definition":"a harmful effect the game names neither Major nor Minor"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fc5-94d0-716b-82f3-5afa3e4c84e2"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"text-property/description","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-debuff-other"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

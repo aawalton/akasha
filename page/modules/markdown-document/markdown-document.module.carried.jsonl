@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every part of a parsed document has the span that part was read from."},{"decisionKind":"decision-kind/departure","statement":"A part that could not be read is carried as a span rather than dropped."},{"decisionKind":"decision-kind/absence","statement":"Nothing here parses or judges anything."}]}
+{"definition":"the shape a markdown page takes once it is parsed"}
+{"id":"01a05cc6-2a1c-7052-a972-698c701753b4"}
+{"slug":"markdown-document"}
+{"type":"page-type/module"}

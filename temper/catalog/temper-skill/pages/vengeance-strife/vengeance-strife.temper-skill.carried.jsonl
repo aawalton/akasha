@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Strife"}
+{"description":"\"Steal an enemy's life force, dealing |cffffff5565|r Magic Damage and healing you or a nearby ally for |cffffff8033|r Health.\""}
+{"esoSkillId":237709}
+{"icon":"/esoui/art/icons/ability_nightblade_012.dds"}
+{"id":"019e6f53-a994-7c5e-bb63-3402a057452d"}
+{"isMorph":false}
+{"key":"vengeance-strife"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-nightblade-siphoning"}
+{"skillType":"active"}
+{"slug":"vengeance-strife"}
+{"subcategoryId":"vengeance-nightblade-siphoning"}
+{"title":"Vengeance Strife"}
+{"type":"page-type/temper-skill"}

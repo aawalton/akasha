@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Secluded Grove"}
+{"description":"\"Swell a healing forest at the target location, healing up to 3 of you and your allies for |cffffff42840|r Health over |cffffff6|r seconds.\""}
+{"esoSkillId":238074}
+{"icon":"/esoui/art/icons/ability_warden_012.dds"}
+{"id":"019e6f53-a97d-7b57-9d6e-aa3acf647132"}
+{"isMorph":false}
+{"key":"vengeance-secluded-grove"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-warden-green-balance"}
+{"skillType":"ultimate"}
+{"slug":"vengeance-secluded-grove"}
+{"subcategoryId":"vengeance-warden-green-balance"}
+{"title":"Vengeance Secluded Grove"}
+{"type":"page-type/temper-skill"}

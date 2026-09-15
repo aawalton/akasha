@@ -1,0 +1,8 @@
+{"definition":"a filesystem is filling fast enough to run out of room soon"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62f9-71ce-a1f7-7afd52da1193"}
+{"runbook":"txt"}
+{"slug":"filesystem-predicted-full"}
+{"summary":"Filesystem {{ $labels.mountpoint }} on {{ $labels.instance }} predicted to fill within 7 days"}
+{"title":"Filesystem predicted full"}
+{"type":"page-type/alert"}

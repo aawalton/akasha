@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A scale missing a rung the ring needs is no scale."},{"decisionKind":"decision-kind/departure","statement":"The yellow rung is carried only where the page states the yellow rung."},{"decisionKind":"decision-kind/departure","statement":"A store that answers nothing gives no scale."},{"decisionKind":"decision-kind/absence","statement":"Nothing here draws a ring."}]}
+{"definition":"the rungs a readout scale page states, read from the store"}
+{"id":"01a05b54-a904-78de-9a09-417c68322618"}
+{"slug":"readout-scale-reading"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"definition":"how hard a dungeon is to get through alone"}
+{"id":"01a05fc4-7a94-7c7a-a850-0f1b6fb1427d"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"solo-difficulty"}
+{"slug":"solo-difficulty"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

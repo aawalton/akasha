@@ -1,0 +1,6 @@
+{"bytecodeDirectory":true}
+{"definition":"the routes a voice service answers"}
+{"id":"01a06815-9efd-7016-9a26-398afcd69f90"}
+{"python":"py"}
+{"slug":"voice-infer-server"}
+{"type":"page-type/python-module"}

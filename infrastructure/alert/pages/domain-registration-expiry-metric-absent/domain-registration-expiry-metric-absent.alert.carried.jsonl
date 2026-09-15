@@ -1,0 +1,8 @@
+{"definition":"nothing is reporting when the domain names expire"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62f9-728b-a173-bc576a971329"}
+{"runbook":"txt"}
+{"slug":"domain-registration-expiry-metric-absent"}
+{"summary":"domain registration expiry gauge is absent"}
+{"title":"Domain registration expiry metric absent"}
+{"type":"page-type/alert"}

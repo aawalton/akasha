@@ -1,0 +1,8 @@
+{"definition":"the shape of ground an ability reaches over"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fc5-94d1-7137-9597-c8f6faef3147"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-target-scope"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

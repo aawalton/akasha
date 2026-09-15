@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The text is composed whole rather than patched onto the bash a terminal already has."},{"decisionKind":"decision-kind/departure","statement":"A name that was once an alias is unaliased before that name is defined as a function."},{"decisionKind":"decision-kind/departure","statement":"An account gets one launcher named for the alias index that account has."},{"decisionKind":"decision-kind/departure","statement":"The launchers are in the order of the alias indexes rather than of the slugs."},{"decisionKind":"decision-kind/departure","statement":"Every launcher reloads the whole set before that launcher dispatches."},{"decisionKind":"decision-kind/departure","statement":"A comment above a block states the block's purpose."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a page or the disk."},{"decisionKind":"decision-kind/gap","statement":"The `gp` alias reaches akasha on PATH where every launcher reaches the checkout's own."}]}
+{"definition":"the whole of the bash a terminal sources, composed as one text"}
+{"id":"01a0680a-fa30-73ea-803a-5ff0bd947f73"}
+{"slug":"terminal-bash"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/module"}

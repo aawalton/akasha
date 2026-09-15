@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"definition":"the cluster object exporter's permissions, its deployment and the way in to it"}
+{"generatedDirectory":true}
+{"id":"01a07393-6503-7393-861b-7b34e761f6d1"}
+{"parts":["module/kube-state-metrics-manifests"]}
+{"slug":"kube-state-metrics"}
+{"type":"page-type/manifest"}

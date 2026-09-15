@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type holds one line for every page property of that page type."},{"decisionKind":"decision-kind/departure","statement":"A line says what the page property's own page says and nothing more."},{"decisionKind":"decision-kind/departure","statement":"A line says whether the property keeps its values in the order they sort in."},{"decisionKind":"decision-kind/departure","statement":"A property saying nothing about that order says false here rather than nothing."},{"decisionKind":"decision-kind/departure","statement":"The lines are sorted by slug, so a property that changes moves one line."},{"decisionKind":"decision-kind/departure","statement":"Every page type extending `page-property` states this property."},{"decisionKind":"decision-kind/departure","statement":"A page type no page property is of holds a file with no line."},{"decisionKind":"decision-kind/departure","statement":"Every page type's file is written again when any page property changes."}]}
+{"definition":"what every page property of a page type is, one line to a property"}
+{"extensions":["jsonl"]}
+{"generated":true}
+{"id":"01a0a224-fc4d-76d4-8d8e-0b56c5ae19fd"}
+{"propertySlug":"shapes"}
+{"runsFileLength":false}
+{"slug":"shapes"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

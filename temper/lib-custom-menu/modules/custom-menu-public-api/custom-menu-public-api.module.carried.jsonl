@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A header entry is added as a label drawn from the header pool."},{"decisionKind":"decision-kind/departure","statement":"A checkbox entry is indented by a fixed-width space."}]}
+{"definition":"the names the custom menu library puts in the game's global table"}
+{"id":"01a0605a-581f-70cd-a87d-789035bb7e50"}
+{"slug":"custom-menu-public-api"}
+{"type":"page-type/module"}

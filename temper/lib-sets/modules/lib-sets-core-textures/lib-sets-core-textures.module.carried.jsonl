@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Each icon table is filled from the game the first time an icon is asked for."},{"decisionKind":"decision-kind/departure","statement":"Game string ids are reached by prefix and index rather than by concatenated name."}]}
+{"definition":"the icon for an equip slot, weapon type, armor type or set type"}
+{"id":"01a061fc-ceea-7feb-ba96-4aea2c1aee0c"}
+{"slug":"lib-sets-core-textures"}
+{"type":"page-type/module"}

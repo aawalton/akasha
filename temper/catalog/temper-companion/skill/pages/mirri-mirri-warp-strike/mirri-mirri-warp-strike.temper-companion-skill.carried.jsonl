@@ -1,0 +1,13 @@
+{"abilityId":153853}
+{"companionId":"mirri"}
+{"description":"Your Companion flashes through the shadows and ambushes an enemy, dealing $1 Magic Damage."}
+{"icon":"/esoui/art/icons/ability_companion_nightblade_008.dds"}
+{"id":"019e6484-3890-7e7f-a758-fe111e6bfedb"}
+{"key":"mirri-warp-strike"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-mirri-deadly-assassin"}
+{"skillType":"active"}
+{"slug":"mirri-mirri-warp-strike"}
+{"title":"Warp Strike"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

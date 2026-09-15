@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the saved revisions of one companion's build"}
+{"id":"01a08294-ce76-7540-86fe-0dddd869093b"}
+{"slug":"companion-versions"}
+{"type":"page-type/route"}
+{"urlPath":"api/companion-versions/:buildId"}

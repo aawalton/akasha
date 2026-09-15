@@ -1,0 +1,13 @@
+{"definition":"the models ollama serves"}
+{"enabled":true}
+{"host":"macbook"}
+{"id":"01a090a2-cd03-701a-8161-c9b80aff3edc"}
+{"internalPort":21434}
+{"lifecycle":"pool"}
+{"port":11434}
+{"provision":"shell-script/ollama-provision"}
+{"pythonVersion":"3.12"}
+{"runs":["env OLLAMA_HOST=127.0.0.1:21434 OLLAMA_MODELS=/Users/walton/inference/ollama/models OLLAMA_MAX_LOADED_MODELS=1 /Users/walton/inference/ollama/dist/ollama serve"]}
+{"slug":"ollama"}
+{"type":"page-type/service-inference"}
+{"workdir":"."}

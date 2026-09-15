@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Petrify"}
+{"description":"\"Encase an enemy in molten rock after |cffffff1|r second, stunning them for |cffffff3|r seconds.\\n\\nThis stun cannot be blocked.\""}
+{"esoSkillId":237787}
+{"icon":"/esoui/art/icons/ability_dragonknight_014.dds"}
+{"id":"019e6f53-a94f-7bf2-97e2-ff95fc4675b9"}
+{"isMorph":false}
+{"key":"vengeance-petrify"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-dragonknight-earthen-heart"}
+{"skillType":"active"}
+{"slug":"vengeance-petrify"}
+{"subcategoryId":"vengeance-dragonknight-earthen-heart"}
+{"title":"Vengeance Petrify"}
+{"type":"page-type/temper-skill"}

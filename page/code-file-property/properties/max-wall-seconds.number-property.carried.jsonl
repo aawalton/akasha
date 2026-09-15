@@ -1,0 +1,7 @@
+{"definition":"the most time one run of the file may take, in seconds"}
+{"id":"01a08790-c7ec-7749-b14a-e818de74aed8"}
+{"max":null}
+{"propertySlug":"max-wall-seconds"}
+{"slug":"max-wall-seconds"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

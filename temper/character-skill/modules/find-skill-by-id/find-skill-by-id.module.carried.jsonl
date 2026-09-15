@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The empty slot sentinel answers with no skill."}]}
+{"definition":"the skill an id names, looked for among the ordinary skills and then the scribed ones"}
+{"id":"01a06187-b3a3-7d2a-b33f-3befa93b8a07"}
+{"slug":"find-skill-by-id"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"definition":"the k3s apiserver is rebuilding the cache it serves watches from"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fa-7cad-916c-cccd22a19c37"}
+{"runbook":"txt"}
+{"slug":"k3s-apiserver-watch-cache-reinitializing"}
+{"summary":"k3s apiserver pods watch cache reinitialized >1× in 15 min"}
+{"title":"K3s apiserver watch cache reinitializing"}
+{"type":"page-type/alert"}

@@ -1,0 +1,17 @@
+{"baseName":"Evasion"}
+{"description":"\"Shroud yourself in mist to gain Major Evasion, reducing damage taken from area attacks by |cffffff20|r% for |cffffff20|r seconds.\""}
+{"esoSkillId":29556}
+{"icon":"/esoui/art/icons/ability_armor_002.dds"}
+{"id":"019e6f53-a1a6-729d-b769-f1578bfb8d6e"}
+{"isMorph":false}
+{"key":"evasion"}
+{"learnedLevel":1}
+{"lineRankNeeded":22}
+{"morphIndex":0}
+{"rank":22}
+{"skillLineId":"armor-medium-armor"}
+{"skillType":"active"}
+{"slug":"evasion"}
+{"subcategoryId":"armor-medium-armor"}
+{"title":"Evasion"}
+{"type":"page-type/temper-skill"}

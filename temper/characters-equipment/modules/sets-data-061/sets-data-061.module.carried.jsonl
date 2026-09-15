@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The sets are named here in the order the gathered table answers its ids in."},{"decisionKind":"decision-kind/gap","statement":"A set moved to another place breaks every build hash saved."}]}
+{"definition":"part 061 of the gear set table, new-moon-acolyte through night-mothers-gaze"}
+{"id":"01a061a3-3082-76ab-bee7-469bdf992f1a"}
+{"slug":"sets-data-061"}
+{"type":"page-type/module"}

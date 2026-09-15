@@ -1,0 +1,9 @@
+{"definition":"a musician whose work Alan keeps"}
+{"extends":["page-type/collection-external"]}
+{"id":"01a06243-144b-7013-99b2-e1b52805e43b"}
+{"parts":["file-property/reaction","text-property/artist-genre"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"text-property/artist-genre","required":false,"many":true,"maxCount":null},{"pageProperty":"file-property/reaction","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"artist"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

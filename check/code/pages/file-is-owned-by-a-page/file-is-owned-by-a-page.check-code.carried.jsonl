@@ -1,0 +1,10 @@
+{"audit":{"maxCpuSeconds":15}}
+{"check":{"maxCpuSeconds":10}}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every file the tree holds is judged."},{"decisionKind":"decision-kind/departure","statement":"Nothing under the index is judged, because no page owns what the index derives."},{"decisionKind":"decision-kind/departure","statement":"A file git ignores is judged only where a page holds that file uncommitted."},{"decisionKind":"decision-kind/departure","statement":"A file's owner is worked out from that file's name against what the page types declare."},{"decisionKind":"decision-kind/departure","statement":"A page's own file is owned by that page."},{"decisionKind":"decision-kind/departure","statement":"A file whose name carries a page type is owned by the page that name states."},{"decisionKind":"decision-kind/departure","statement":"A file a page type names is owned by a page of that type in the folder where that name begins."},{"decisionKind":"decision-kind/departure","statement":"Everything beneath a folder a page type names is owned by the page naming that folder."},{"decisionKind":"decision-kind/departure","statement":"A file closing with an extension a page type names is owned by the page naming that extension."},{"decisionKind":"decision-kind/departure","statement":"A file whose name states a page that is nowhere is let through."},{"decisionKind":"decision-kind/departure","statement":"A file some page owns is let through, whatever that file holds."},{"decisionKind":"decision-kind/absence","statement":"No list in this check names a file let through."},{"decisionKind":"decision-kind/departure","statement":"A page a change adds owns the files that same change gives that page."},{"decisionKind":"decision-kind/departure","statement":"Every file a page's code imports is owned by a page."}]}
+{"definition":"the check refusing a file that belongs to no page"}
+{"id":"01a0a5ad-d1e4-73c6-a833-d7a166ad8a9b"}
+{"runsOnAudit":true}
+{"runsOnChange":true}
+{"runsOnDeploy":true}
+{"slug":"file-is-owned-by-a-page"}
+{"type":"page-type/check-code"}

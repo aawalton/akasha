@@ -1,0 +1,8 @@
+{"definition":"which charging networks the make's cars can use"}
+{"id":"01a0659e-e27d-7692-bf6e-f1040e3a10bf"}
+{"maxLength":2000}
+{"nameFormat":null}
+{"propertySlug":"charging-network-access"}
+{"slug":"charging-network-access"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"definition":"whether the artist wrote the song alone or with others"}
+{"id":"01a06243-144b-7009-8017-c942088ed2c7"}
+{"propertySlug":"written"}
+{"slug":"written"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["solo","collab"]}

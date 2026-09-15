@@ -1,0 +1,8 @@
+{"definition":"the kind of piece a trait is worked into"}
+{"id":"01a05fd1-d43e-7028-aec5-acb72b595320"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"trait-family"}
+{"slug":"trait-family"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

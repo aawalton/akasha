@@ -1,0 +1,6 @@
+{"definition":"whether a test holds only while the target can be moved"}
+{"id":"01a06193-6cb0-7371-9915-23f0c0df1da7"}
+{"propertySlug":"is-movable"}
+{"slug":"is-movable"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

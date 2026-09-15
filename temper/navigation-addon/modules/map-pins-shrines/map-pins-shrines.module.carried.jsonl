@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is the add-on's own source rather than a derivation."}]}
+{"definition":"the shrine places by zone"}
+{"id":"01a06269-2aeb-7c0a-baa7-669d1bec812d"}
+{"slug":"map-pins-shrines"}
+{"type":"page-type/module"}

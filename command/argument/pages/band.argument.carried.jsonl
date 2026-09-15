@@ -1,0 +1,8 @@
+{"default":"1500"}
+{"id":"01a0a03c-1bef-7e09-8ae3-6cfacd67a153"}
+{"placeholder":"elo"}
+{"said":"--band"}
+{"slug":"band"}
+{"takes":"the rating band the model plays at"}
+{"type":"page-type/argument"}
+{"value":"whole-number"}

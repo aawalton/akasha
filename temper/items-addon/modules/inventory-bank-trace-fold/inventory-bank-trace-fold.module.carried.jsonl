@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The remainder subtracts only brackets that nest inside no other bracket."},{"decisionKind":"decision-kind/departure","statement":"Building facts and judging the ordered rules both sit inside judging a slot."},{"decisionKind":"decision-kind/departure","statement":"What an open handler spent sits inside that handler's own time already."}]}
+{"definition":"folding net-worth walks and settling brackets from a venue trace into totals"}
+{"id":"01a06258-b528-7c01-a1ff-06f7e3a14a57"}
+{"slug":"inventory-bank-trace-fold"}
+{"type":"page-type/module"}

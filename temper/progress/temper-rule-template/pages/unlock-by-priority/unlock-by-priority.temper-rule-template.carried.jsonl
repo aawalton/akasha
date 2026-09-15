@@ -1,0 +1,13 @@
+{"action":"temper-item-action/use"}
+{"active":false}
+{"categoryId":"knowledge"}
+{"conditions":"jsonl"}
+{"description":"Uses items that teach something new — motifs, recipes, style pages, furnishing plans, etc. If the current character can learn the item, it's used immediately. For recipes (character-specific knowledge), the addon checks the current character only (ESO API limitation)."}
+{"destination":"character:by-priority"}
+{"displayOrder":11}
+{"goal":"temper-rule-goal/unlock"}
+{"id":"019e3104-2610-72db-8869-9f0539544306"}
+{"key":"unlock-by-priority"}
+{"slug":"unlock-by-priority"}
+{"title":"Use unlockables"}
+{"type":"page-type/temper-rule-template"}

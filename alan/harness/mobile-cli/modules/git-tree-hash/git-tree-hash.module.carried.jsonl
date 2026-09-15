@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path absent at the ref hashes as the literal string absent."},{"decisionKind":"decision-kind/departure","statement":"The digest is taken over path=objectid lines in the order the sources give."},{"decisionKind":"decision-kind/departure","statement":"A rev-list that fails is answered as a count of zero commits."},{"decisionKind":"decision-kind/departure","statement":"A ref naming no commit is answered as nothing rather than as a throw."},{"decisionKind":"decision-kind/departure","statement":"Origin reaches a commit where a remote-tracking ref of origin contains the commit."},{"decisionKind":"decision-kind/departure","statement":"The code repo's build inputs are a fixed hand-written list of five paths."},{"decisionKind":"decision-kind/departure","statement":"A fetch of origin is named here, so every caller names it the same way."}]}
+{"definition":"a sha256 over the git object ids named paths carry at a ref"}
+{"id":"01a05cee-e560-7f54-b7d4-20862a654a8c"}
+{"slug":"git-tree-hash"}
+{"test":"ts"}
+{"type":"page-type/module"}

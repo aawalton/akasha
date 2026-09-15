@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"An armor slot's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"An armor slot moved to another place breaks every build hash saved."}]}
+{"definition":"the seven body positions an armor piece is worn at"}
+{"id":"01a060b8-08c4-79bd-a673-660169cf2ee9"}
+{"slug":"armor-slots"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A view names the page type by that page type's own slug."},{"decisionKind":"decision-kind/departure","statement":"A view naming a predicate instead names no page type here."},{"decisionKind":"decision-kind/departure","statement":"A view naming neither lists nothing."}]}
+{"definition":"the page type whose pages a view lists"}
+{"id":"01a078d1-cb91-71c2-895b-d2fc87b9e79e"}
+{"propertySlug":"page-type"}
+{"slug":"view-page-type"}
+{"targetPageType":"page-type/page-type"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the array of the parts text falls into at a separator"}
+{"id":"01a081f7-142d-7336-bfe2-51a723efcb7a"}
+{"luaExport":"__TS__StringSplit"}
+{"slug":"string-split"}
+{"type":"page-type/lualib-helper"}

@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/inventory-path"},{"argument":"argument/section"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The configuration read is the compiled configuration."},{"decisionKind":"decision-kind/departure","statement":"Naming no section gives back every section."},{"decisionKind":"decision-kind/departure","statement":"The item rules are a section of their own rather than rows among the ordered rules."},{"decisionKind":"decision-kind/departure","statement":"A section the configuration does not hold refuses the call."},{"decisionKind":"decision-kind/departure","statement":"A rule whose record and configured rule disagree has that disagreement named."},{"decisionKind":"decision-kind/departure","statement":"The records going unread is said rather than answered as agreement."},{"decisionKind":"decision-kind/departure","statement":"The count beside a rule counts every field past its identity rather than its conditions."}]}
+{"definition":"the command giving back the compiled rule configuration the addon has"}
+{"id":"01a0603c-c1d9-7bdc-8aab-dcc717f3de9b"}
+{"name":"configuration"}
+{"slug":"temper-inventory-configuration"}
+{"test":"ts"}
+{"type":"page-type/command"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A setting absent from the saved table takes the default."},{"decisionKind":"decision-kind/departure","statement":"A saved setting the defaults no longer name is dropped."},{"decisionKind":"decision-kind/departure","statement":"The slash command prints through the chat library where that library is loaded."}]}
+{"definition":"the saved settings and the slash command reading and changing them"}
+{"id":"01a06061-408f-7b57-ae4e-cf8306102001"}
+{"slug":"debug-logger-settings"}
+{"type":"page-type/module"}

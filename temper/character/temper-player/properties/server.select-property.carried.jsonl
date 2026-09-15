@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A megaserver has its own trading prices."}]}
+{"definition":"the megaserver a player's account trades on"}
+{"id":"01a06e4f-b738-785a-b942-ef91c66319dc"}
+{"propertySlug":"server"}
+{"slug":"server"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["NA","EU"]}

@@ -1,0 +1,12 @@
+{"displayOrder":16}
+{"effect":"Increases Spell Resistance"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_DECREASE_SPELL_DAMAGE"}
+{"essenceRune":"Makderi"}
+{"glyphName":"Glyph of Decrease Spell Harm"}
+{"id":"019e5c85-d95c-73c8-bb14-91cea6c435c1"}
+{"key":"decrease-spell-harm"}
+{"qualityValues":"jsonl"}
+{"slug":"decrease-spell-harm"}
+{"title":"Decrease Spell Harm"}
+{"type":"page-type/temper-jewelry-enchant"}

@@ -1,0 +1,6 @@
+{"filing":"archive"}
+{"id":"01a06860-54a2-7bb6-8f89-369136e62ec4"}
+{"matches":[{"field":"from","comparison":"ends-with","values":["google.com"]},{"field":"subject","comparison":"contains","values":["oak.hills.first.ward.tech"]},{"field":"from","comparison":"is","values":["googleplay-noreply@google.com"]},{"field":"subject","comparison":"does-not-contain","values":["your google play order receipt","privacy","policy","terms","user agreement","upcoming changes"]}]}
+{"slug":"oak-ward-google-notice-googleplay-noreply"}
+{"title":"Oak ward google notice googleplay noreply"}
+{"type":"page-type/email-rule-code"}

@@ -1,0 +1,17 @@
+{"baseName":"Vengeance of Eldritch Horror"}
+{"description":"\"Etch an incomprehensible rune on your enemy's mind, paralyzing them in fear after a |cffffff1|r second delay, stunning them for |cffffff4|r seconds. This terror applies Minor Vulnerability for |cffffff10|r seconds, increasing their damage taken by |cffffff5|r%.\\n\\nThis ability cannot be dodged.\""}
+{"esoSkillId":238267}
+{"icon":"/esoui/art/icons/ability_arcanist_011.dds"}
+{"id":"019e6f53-a948-7a9f-be99-a266b37744ae"}
+{"isMorph":false}
+{"key":"vengeance-of-eldritch-horror"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-arcanist-soldier-of-apocrypha"}
+{"skillType":"active"}
+{"slug":"vengeance-of-eldritch-horror"}
+{"subcategoryId":"vengeance-arcanist-soldier-of-apocrypha"}
+{"title":"Vengeance of Eldritch Horror"}
+{"type":"page-type/temper-skill"}

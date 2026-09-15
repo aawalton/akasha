@@ -1,0 +1,8 @@
+{"cooldown":10}
+{"effects":"jsonl"}
+{"id":"019e21f7-0f55-711f-bf44-92d60627ffe6"}
+{"key":"restore-health"}
+{"oppositeId":"ravage-health"}
+{"slug":"restore-health"}
+{"title":"Restore Health"}
+{"type":"page-type/temper-poison-effect"}

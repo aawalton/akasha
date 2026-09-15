@@ -1,0 +1,7 @@
+{"definition":"which way the device was moving, in degrees clockwise from north"}
+{"id":"01a06935-68b4-7370-a96d-a05e0ee03b6d"}
+{"max":null}
+{"propertySlug":"heading-deg"}
+{"slug":"heading-deg"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

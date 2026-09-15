@@ -1,0 +1,6 @@
+{"definition":"what a character keeps in the bank"}
+{"id":"01a07c17-45ff-7886-a216-f19258604709"}
+{"name":"bank"}
+{"parts":["command/temper-inventory-bank-profile","command/temper-inventory-bank-trace"]}
+{"slug":"temper-inventory-bank"}
+{"type":"page-type/namespace"}

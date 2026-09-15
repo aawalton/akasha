@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The saved variables replace the account bindings once the game loads the saved variables."},{"decisionKind":"decision-kind/departure","statement":"Leaving the key-bind window forgets that the bindings were synchronised."}]}
+{"definition":"what the add-on has while the key-bind window is open"}
+{"id":"01a06381-67c1-7d0e-a12d-5abeb99a1a60"}
+{"slug":"keybinder-state"}
+{"type":"page-type/module"}

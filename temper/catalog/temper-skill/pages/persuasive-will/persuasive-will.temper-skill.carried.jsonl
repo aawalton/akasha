@@ -1,0 +1,19 @@
+{"baseName":"Persuasive Will"}
+{"description":"\"Allows you to Persuade NPCs in conversation.\""}
+{"effects":"jsonl"}
+{"esoSkillId":29061}
+{"icon":"/esoui/art/icons/ability_weapon_024.dds"}
+{"id":"019e6238-c2f5-71d2-b2e4-4738e81cdaaa"}
+{"isMorph":false}
+{"key":"persuasive-will"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"guild-mages-guild"}
+{"skillType":"passive"}
+{"slug":"persuasive-will"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-mages-guild"}
+{"title":"Persuasive Will"}
+{"type":"page-type/temper-skill"}

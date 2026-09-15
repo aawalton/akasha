@@ -1,0 +1,8 @@
+{"definition":"the sort of value a game constant holds"}
+{"id":"01a05fcf-246a-7dcf-b177-c235a40a5808"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"kind"}
+{"slug":"constant-kind"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

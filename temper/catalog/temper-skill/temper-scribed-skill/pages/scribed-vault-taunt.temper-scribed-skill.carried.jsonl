@@ -1,0 +1,19 @@
+{"baseName":"Vault"}
+{"description":"Deals 870 Physical Damage to enemies and taunts one of them to attack you for 15 seconds. Beneficial Signature and Affix scripts only apply to you."}
+{"esoSkillId":216674}
+{"focusScriptId":"taunt"}
+{"grimoireId":"vault"}
+{"icon":"/esoui/art/icons/ability_grimoire_bow.dds"}
+{"id":"019e6471-15f2-7ff2-bfbd-1577e214d57f"}
+{"isMorph":false}
+{"key":"scribed-vault-taunt"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-bow"}
+{"skillType":"active"}
+{"slug":"scribed-vault-taunt"}
+{"subcategoryId":"scribed"}
+{"title":"Goading Vault"}
+{"type":"page-type/temper-scribed-skill"}

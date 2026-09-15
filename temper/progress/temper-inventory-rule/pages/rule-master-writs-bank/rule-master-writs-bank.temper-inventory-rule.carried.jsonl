@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/move-to"}
+{"active":true}
+{"categoryId":"master-writs"}
+{"description":"Stashes master writs in the bank. Master writs reward writ vouchers for high-end crafting station furnishings."}
+{"destination":"bank"}
+{"displayOrder":48}
+{"fromTemplate":"temper-rule-template/master-writs-bank"}
+{"goal":"temper-rule-goal/task"}
+{"id":"01a0728b-4fbd-7216-a904-e163cc67b526"}
+{"locked":true}
+{"slug":"rule-master-writs-bank"}
+{"title":"Bank master writs"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-05-04T16:04:31.132Z"}

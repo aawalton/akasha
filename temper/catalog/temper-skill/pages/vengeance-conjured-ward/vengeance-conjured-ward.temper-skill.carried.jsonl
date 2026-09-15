@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Conjured Ward"}
+{"description":"\"Conjure globes of Daedric energy for protection, granting a damage shield for you that absorbs |cffffff18113|r damage for |cffffff6|r seconds.\""}
+{"esoSkillId":237929}
+{"icon":"/esoui/art/icons/ability_sorcerer_hurricane.dds"}
+{"id":"019e6f53-a8d8-76d9-b873-36d83e3832fb"}
+{"isMorph":false}
+{"key":"vengeance-conjured-ward"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-sorcerer-daedric-summoning"}
+{"skillType":"active"}
+{"slug":"vengeance-conjured-ward"}
+{"subcategoryId":"vengeance-sorcerer-daedric-summoning"}
+{"title":"Vengeance Conjured Ward"}
+{"type":"page-type/temper-skill"}

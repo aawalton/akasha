@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A report sent from the capacitor shell is answered with cross-origin headers."}]}
+{"definition":"the errors a reader's browser reports"}
+{"id":"01a0882e-29b1-7d23-b973-769880c8ff12"}
+{"slug":"alan-web-api-errors"}
+{"type":"page-type/route"}
+{"urlPath":"api/errors"}

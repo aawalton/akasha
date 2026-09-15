@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A gamepad tooltip gets its own section with a LibSets heading."},{"decisionKind":"decision-kind/constraint","statement":"Nothing is added when the built text comes back empty."}]}
+{"definition":"the set line added to a tooltip control and the check that an item warrants one"}
+{"id":"01a0623c-2df6-77cd-8544-af3c2c7c7dc5"}
+{"slug":"lib-sets-tip-render"}
+{"type":"page-type/module"}

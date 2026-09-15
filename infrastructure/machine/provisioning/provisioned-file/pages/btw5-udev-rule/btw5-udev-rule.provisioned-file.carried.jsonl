@@ -1,0 +1,9 @@
+{"content":"conf"}
+{"definition":"the seated user's access to the BT-W5 transmitter's config interface"}
+{"id":"01a06862-af5d-7bcd-9d81-fbddcbe6dd2d"}
+{"installPath":"/etc/udev/rules.d/70-btw5.rules"}
+{"onlyOn":"linux"}
+{"placedBy":"link"}
+{"reloadWith":"sudo udevadm control --reload && sudo udevadm trigger --subsystem-match=hidraw --subsystem-match=usb"}
+{"slug":"btw5-udev-rule"}
+{"type":"page-type/provisioned-file"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Clearing a catalog marks the whole set incomplete so the next login refills the set."},{"decisionKind":"decision-kind/departure","statement":"A domain name the add-on does not carry clears nothing."},{"decisionKind":"decision-kind/departure","statement":"A clear naming no target lists the domains the last run skipped."}]}
+{"definition":"what the player's slash command clears and what it prints about each catalog"}
+{"id":"01a063ba-94e5-701e-9834-3d28bebc065c"}
+{"slug":"catalog-command"}
+{"type":"page-type/module"}

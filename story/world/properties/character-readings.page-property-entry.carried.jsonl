@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reading names its character only where the reading's kind is `character`."}]}
+{"definition":"how each name a world's text uses is read as a character, one name to a line"}
+{"id":"01a063ce-6216-7001-b3f6-26b45c0bef56"}
+{"properties":[{"pageProperty":"text-property/reading-slug","required":true,"many":false},{"pageProperty":"text-property/reading-name","required":true,"many":false},{"pageProperty":"select-property/reading-kind","required":true,"many":false},{"pageProperty":"text-property/character-slug","required":false,"many":false}]}
+{"propertySlug":"character-readings"}
+{"slug":"character-readings"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

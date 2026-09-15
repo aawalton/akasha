@@ -1,0 +1,8 @@
+{"displayOrder":5}
+{"id":"019e2fcd-5970-7def-b04e-be7059b33f9c"}
+{"nodeId":"damage-done-dungeon"}
+{"nodeType":"metric"}
+{"parent":"subcategory-damage-done"}
+{"slug":"metric-damage-done-dungeon"}
+{"title":"Damage Done Dungeon"}
+{"type":"page-type/temper-metric-tree"}

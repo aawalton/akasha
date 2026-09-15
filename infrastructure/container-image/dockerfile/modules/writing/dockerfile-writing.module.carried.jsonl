@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An image stating no extensions adds nothing to the Dockerfile written for it."},{"decisionKind":"decision-kind/departure","statement":"An image stating extensions its file is not there for is refused."}]}
+{"definition":"the Dockerfile written for a built image, from what that image states and imports"}
+{"id":"01a06865-abff-7009-bb75-4f5d740fd537"}
+{"slug":"dockerfile-writing"}
+{"test":"ts"}
+{"type":"page-type/module"}

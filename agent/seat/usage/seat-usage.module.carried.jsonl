@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reading is taken from the values the statusline payload states and nothing else."},{"decisionKind":"decision-kind/departure","statement":"A number the payload states is kept as the text of that number."},{"decisionKind":"decision-kind/departure","statement":"A value the payload does not state is not written over the value that stands."},{"decisionKind":"decision-kind/departure","statement":"An empty string is no reading."}]}
+{"definition":"what a seat spends while an agent works in it"}
+{"id":"01a0687b-3c96-7000-be32-deed725bb134"}
+{"parts":["module/seat-usage-keep","module/seat-usage-show","module/typing-minutes"]}
+{"slug":"seat-usage"}
+{"test":"ts"}
+{"type":"page-type/module"}

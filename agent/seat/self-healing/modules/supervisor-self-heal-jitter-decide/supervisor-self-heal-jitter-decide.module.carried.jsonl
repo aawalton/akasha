@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"the jitter a re-exec waits, so supervisors do not restart together"}
+{"id":"01a06876-abda-7011-9a1d-2d00377d8021"}
+{"slug":"supervisor-self-heal-jitter-decide"}
+{"type":"page-type/module"}

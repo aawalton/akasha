@@ -1,0 +1,8 @@
+{"definition":"the time of day a to-do comes due"}
+{"id":"01a065a1-49b7-75e1-a270-9a54bc7948cf"}
+{"maxLength":20}
+{"nameFormat":null}
+{"propertySlug":"due-time"}
+{"slug":"due-time"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,17 @@
+{"baseName":"Circumvented Fate"}
+{"description":"\"Casting an Arcanist ability warps the weave of fate around you, granting you and your group members Minor Evasion for |cffffff10|r seconds and reducing damage from area attacks by |cffffff10|r%. This effect can occur once every |cffffff5|r seconds.\""}
+{"esoSkillId":184930}
+{"icon":"/esoui/art/icons/passive_arcanist_06.dds"}
+{"id":"019e6f53-9fe8-7eb0-9aeb-81394cb144c9"}
+{"isMorph":false}
+{"key":"circumvented-fate-184930"}
+{"learnedLevel":22}
+{"lineRankNeeded":22}
+{"morphIndex":0}
+{"rank":22}
+{"skillLineId":"arcanist-soldier-of-apocrypha"}
+{"skillType":"passive"}
+{"slug":"circumvented-fate-184930"}
+{"subcategoryId":"arcanist-soldier-of-apocrypha"}
+{"title":"Circumvented Fate"}
+{"type":"page-type/temper-skill"}

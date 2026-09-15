@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A repeat of an error raises a count rather than adding a second entry."},{"decisionKind":"decision-kind/departure","statement":"An entry has the first time and the last time the error was seen."},{"decisionKind":"decision-kind/departure","statement":"An entry names the account and the character that saw the error."},{"decisionKind":"decision-kind/departure","statement":"An entry names the world the error was seen in."},{"decisionKind":"decision-kind/departure","statement":"An entry has the game version and the API version that raised the error."},{"decisionKind":"decision-kind/departure","statement":"An entry names the add-on blamed for the error and the build of that add-on."},{"decisionKind":"decision-kind/absence","statement":"Nothing here has code that runs."}]}
+{"definition":"the shape a captured error takes, counted and blamed on the add-on that raised it"}
+{"id":"01a0608a-15b2-7682-b22a-9bbc37158e7b"}
+{"slug":"errors-payload"}
+{"type":"page-type/module"}

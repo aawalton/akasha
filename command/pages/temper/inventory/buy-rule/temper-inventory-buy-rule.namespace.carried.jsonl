@@ -1,0 +1,6 @@
+{"definition":"the rules saying what a character buys"}
+{"id":"01a07c17-524e-7619-8629-d3610a998265"}
+{"name":"buy-rule"}
+{"parts":["command/temper-inventory-buy-rule-create","command/temper-inventory-buy-rule-delete","command/temper-inventory-buy-rule-duplicate","command/temper-inventory-buy-rule-list","command/temper-inventory-buy-rule-lock","command/temper-inventory-buy-rule-show","command/temper-inventory-buy-rule-unlock","command/temper-inventory-buy-rule-update"]}
+{"slug":"temper-inventory-buy-rule"}
+{"type":"page-type/namespace"}

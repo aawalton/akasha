@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The account names a row Supabase auth has."},{"decisionKind":"decision-kind/departure","statement":"A person signing in nowhere states no account."},{"decisionKind":"decision-kind/departure","statement":"Most people have no account."}]}
+{"definition":"the account a person signs in with"}
+{"id":"01a053fa-eba7-79fc-b15c-76eb7cbfe5b4"}
+{"maxLength":36}
+{"nameFormat":"name-format/lower-uuid"}
+{"propertySlug":"supabase-auth-user-id"}
+{"slug":"supabase-auth-user-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

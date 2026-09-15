@@ -1,0 +1,8 @@
+{"definition":"the string the game writes an item's whole state as"}
+{"id":"01a06053-b37e-7d8f-9b54-cc84490468a6"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"item-link"}
+{"slug":"item-link"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

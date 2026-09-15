@@ -1,0 +1,6 @@
+{"definition":"the page a shell boots, put where Capacitor serves it"}
+{"id":"01a05934-fe0d-7f00-9227-54350a6d6c49"}
+{"shell":"sh"}
+{"slug":"stage-web-entry"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

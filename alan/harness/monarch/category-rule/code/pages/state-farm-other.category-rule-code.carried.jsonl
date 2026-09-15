@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcda-7004-ba32-0cda134ea51c"}
+{"matches":[{"key":"merchant","comparison":"is","values":["state farm"]},{"key":"sign","comparison":"is-not","values":["negative"]}]}
+{"slug":"state-farm-other"}
+{"title":"State farm other"}
+{"type":"page-type/category-rule-code"}

@@ -1,0 +1,7 @@
+{"definition":"the service syncing Royal Road chapters"}
+{"enabled":true}
+{"id":"01a06829-0194-78d3-8693-e4cc1c1e6e9a"}
+{"needsSecrets":false}
+{"slug":"royal-road-sync"}
+{"systemd":{"schedule":"hourly","jitterSeconds":300,"catchUp":true,"startTimeoutSeconds":21600}}
+{"type":"page-type/service-workstation"}

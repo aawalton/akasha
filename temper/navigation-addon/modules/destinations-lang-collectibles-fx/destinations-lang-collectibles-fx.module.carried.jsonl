@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is the add-on's own source rather than a derivation."}]}
+{"definition":"the collectible names in French with English fallbacks"}
+{"id":"01a06269-29f3-7d8b-898f-9f202843d3b3"}
+{"slug":"destinations-lang-collectibles-fx"}
+{"type":"page-type/module"}

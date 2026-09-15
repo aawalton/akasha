@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A show still running states no day its last episode aired."}]}
+{"definition":"the day a show's last episode aired"}
+{"id":"01a06599-ee09-700d-9b99-fd8bc2af90cc"}
+{"propertySlug":"last-air-date"}
+{"slug":"last-air-date"}
+{"type":"page-type/calendar-date-property"}
+{"types":"ts"}

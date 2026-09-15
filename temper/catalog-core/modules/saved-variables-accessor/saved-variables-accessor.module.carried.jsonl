@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The add-on's own start-up sets the accessor before any collector runs."},{"decisionKind":"decision-kind/departure","statement":"Reaching the saved table before start-up throws."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a file."}]}
+{"definition":"the one way code inside the catalog add-on reaches the saved catalog table"}
+{"id":"01a06071-0c79-73ce-a434-c3b18ac668a1"}
+{"slug":"saved-variables-accessor"}
+{"type":"page-type/module"}

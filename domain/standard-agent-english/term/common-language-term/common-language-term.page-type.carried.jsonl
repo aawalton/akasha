@@ -1,0 +1,7 @@
+{"definition":"one word or phrase with its ordinary sense"}
+{"extends":["page-type/allowed-term"]}
+{"id":"01a07c6e-d2b5-7a30-95da-e46d29cd2e27"}
+{"schema":"jsonl"}
+{"slug":"common-language-term"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

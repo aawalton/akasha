@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A target of `all` is every target of that kind and is the only pattern an access takes."}]}
+{"definition":"the one thing of that kind the access reaches, or `all`"}
+{"id":"01a05430-c0ee-7f62-a8b7-74d97d845e28"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"target"}
+{"slug":"person-access-target"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

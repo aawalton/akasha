@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A pin type already carrying a filter gets no second filter."},{"decisionKind":"decision-kind/departure","statement":"Separate saved keys are minted per map group only where asked for."},{"decisionKind":"decision-kind/departure","statement":"A toggled checkbox writes the compass pin type's saved key as well."},{"decisionKind":"decision-kind/departure","statement":"A hidden filter checkbox is pulled up by its own height."}]}
+{"definition":"the checkbox a pin type gets on each map filter panel"}
+{"id":"01a06062-57e0-7e1a-b3d7-a8820fb90bc1"}
+{"slug":"pin-filters"}
+{"type":"page-type/module"}

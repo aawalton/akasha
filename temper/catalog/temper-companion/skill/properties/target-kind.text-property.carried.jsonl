@@ -1,0 +1,8 @@
+{"definition":"who or what an effect lands on"}
+{"id":"01a06193-6c9e-705c-af85-3dc816a00a9a"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"type"}
+{"slug":"target-kind"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

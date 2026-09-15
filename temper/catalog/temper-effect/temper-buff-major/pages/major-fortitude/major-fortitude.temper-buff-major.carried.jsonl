@@ -1,0 +1,7 @@
+{"description":"Increases Health Recovery by 30%"}
+{"effects":"jsonl"}
+{"id":"01a05fc5-f6b9-7b48-829b-343e32458dad"}
+{"key":"major-fortitude"}
+{"slug":"major-fortitude"}
+{"title":"Major Fortitude"}
+{"type":"page-type/temper-buff-major"}

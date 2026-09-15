@@ -1,0 +1,11 @@
+{"accountUuid":"f866185e-c98d-4998-b4c6-626ffbee8799"}
+{"aliasIndex":1}
+{"email":"aawalton@gmail.com"}
+{"id":"019db533-f3b2-781d-8df5-fa78ae4131c5"}
+{"provider":"model-provider/anthropic"}
+{"rateLimitTier":"default_claude_max_20x"}
+{"renewalDay":27}
+{"scopes":["user:inference","user:mcp_servers","user:profile","user:sessions:claude_code"]}
+{"slug":"aawalton"}
+{"subscriptionType":"max"}
+{"type":"page-type/model-account"}

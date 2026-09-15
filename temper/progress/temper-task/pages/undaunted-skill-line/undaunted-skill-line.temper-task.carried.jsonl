@@ -1,0 +1,20 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"character":"shaestrel"}
+{"completionCardId":"skill-lines"}
+{"completionItemPath":["55"]}
+{"displayOrder":6}
+{"dueDate":"2026-09-15"}
+{"effectiveCharacter":"belavierr"}
+{"esoCharacterId":"8796093025190173"}
+{"id":"019db533-f381-755a-8ee3-42d80e807395"}
+{"lastCompletedAt":"2026-09-14T18:55:18.681Z"}
+{"priority":"p2"}
+{"progress":"jsonl"}
+{"progressCurrent":171}
+{"progressTotal":200}
+{"rruleAnchorFromCompletion":false}
+{"rruleRule":"FREQ=DAILY;INTERVAL=1"}
+{"scope":"next_character"}
+{"slug":"undaunted-skill-line"}
+{"title":"Undaunted Skill Line"}
+{"type":"page-type/temper-task"}

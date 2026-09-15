@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A slug reaching no page type is answered 404."}]}
+{"definition":"the page type a slug in a url names, with the query beside it"}
+{"id":"01a08e24-787c-78b5-a972-ca859eaa4fd8"}
+{"slug":"page-listing-loader"}
+{"type":"page-type/module"}

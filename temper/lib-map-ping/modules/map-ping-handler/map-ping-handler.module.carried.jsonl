@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A wrapper calls the function the wrapper replaced."},{"decisionKind":"decision-kind/departure","statement":"The game's own map is unhooked from the ping event."},{"decisionKind":"decision-kind/departure","statement":"A suppressed ping reads back as no position."},{"decisionKind":"decision-kind/departure","statement":"A group ping outside a group is dropped."}]}
+{"definition":"the wrappers around the game's own map ping functions"}
+{"id":"01a0605f-6262-7752-a1ba-21ba45c69531"}
+{"slug":"map-ping-handler"}
+{"type":"page-type/module"}

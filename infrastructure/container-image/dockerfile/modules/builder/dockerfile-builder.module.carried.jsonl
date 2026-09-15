@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The image installs against the root manifest the checkout carries."},{"decisionKind":"decision-kind/departure","statement":"A manifest is copied once."}]}
+{"definition":"the install and copy stages a Next.js build shares"}
+{"id":"01a06865-abff-7005-b853-662b71046aba"}
+{"slug":"dockerfile-builder"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The cursor is kept beside the watcher log rather than in the game folder."},{"decisionKind":"decision-kind/departure","statement":"A cursor file that is not there reads as nothing carried up yet."},{"decisionKind":"decision-kind/departure","statement":"A cursor file that is there and reads as no counts by signature refuses the error import."},{"decisionKind":"decision-kind/departure","statement":"A cursor is never partly read."},{"decisionKind":"decision-kind/departure","statement":"A refusal names the cursor file it read."},{"decisionKind":"decision-kind/departure","statement":"A run that refuses leaves the cursor file as it was."},{"decisionKind":"decision-kind/departure","statement":"Saving makes the log directory where the directory is absent."}]}
+{"definition":"the count last carried up for each game error, kept between runs of the watcher"}
+{"id":"01a06370-eddf-7cec-8d3e-f564adf6f360"}
+{"slug":"watcher-error-cursor"}
+{"test":"ts"}
+{"type":"page-type/module"}

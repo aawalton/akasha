@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A target build is kept per companion."}]}
+{"definition":"the build hash a player is aiming a companion at"}
+{"id":"01a0611d-84e6-77f3-8e05-8b4ff7570c86"}
+{"slug":"companions-target-build-input"}
+{"type":"page-type/module"}

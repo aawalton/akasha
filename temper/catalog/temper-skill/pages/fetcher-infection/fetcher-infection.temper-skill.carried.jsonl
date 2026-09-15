@@ -1,0 +1,17 @@
+{"baseName":"Swarm"}
+{"description":"\"Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing 4785 Magic Damage over 20 seconds.\\n\\nEvery second cast of this ability deals 60% increased damage.\\n\\nThe fetcherflies rip through the enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by 5%.\""}
+{"esoSkillId":86030}
+{"icon":"/esoui/art/icons/ability_warden_014_a.dds"}
+{"id":"019e6245-a682-7356-9e5a-8e9f7c9356a5"}
+{"isMorph":true}
+{"key":"fetcher-infection"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"warden-animal-companions"}
+{"skillType":"active"}
+{"slug":"fetcher-infection"}
+{"subcategoryId":"warden-animal-companions"}
+{"title":"Fetcher Infection"}
+{"type":"page-type/temper-skill"}

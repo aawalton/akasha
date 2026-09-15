@@ -1,0 +1,19 @@
+{"baseName":"Shield Throw"}
+{"description":"Deals 2091 Frost Damage to an enemy."}
+{"esoSkillId":217808}
+{"focusScriptId":"frost-damage"}
+{"grimoireId":"shield-throw"}
+{"icon":"/esoui/art/icons/ability_grimoire_1handed.dds"}
+{"id":"019e6471-15b3-78b3-8b93-79ca196a7080"}
+{"isMorph":false}
+{"key":"scribed-shield-throw-frost-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"active"}
+{"slug":"scribed-shield-throw-frost-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Chilling Throw"}
+{"type":"page-type/temper-scribed-skill"}

@@ -1,0 +1,12 @@
+{"groupBy":"status"}
+{"groupSorts":[{"key":"status","descending":true}]}
+{"id":"01a06577-2614-700a-bc90-6e8c18159c96"}
+{"layout":"cards"}
+{"nav":"nav/books"}
+{"pageType":"page-type/ki-book"}
+{"slug":"books-all-by-status"}
+{"title":"All by Status"}
+{"type":"page-type/view"}
+{"viewPlace":3}
+{"viewSorts":[{"key":"title","descending":false}]}
+{"visibleProperties":["status","rating"]}

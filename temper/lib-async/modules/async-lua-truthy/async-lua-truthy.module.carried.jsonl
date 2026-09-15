@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only nil and false are false in Lua."},{"decisionKind":"decision-kind/departure","statement":"Zero and the empty string are true."}]}
+{"definition":"whether Lua would read a value as true"}
+{"id":"01a0606a-1c55-7be8-906d-f6520a9cb651"}
+{"slug":"async-lua-truthy"}
+{"type":"page-type/module"}

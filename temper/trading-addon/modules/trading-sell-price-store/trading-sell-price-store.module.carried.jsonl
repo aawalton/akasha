@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A price is kept per item link rather than per stack."}]}
+{"definition":"what an item last sold for, kept per item so a later sale can start there"}
+{"id":"01a06160-2a5d-79d4-915e-5e5a9fa1e318"}
+{"slug":"trading-sell-price-store"}
+{"type":"page-type/module"}

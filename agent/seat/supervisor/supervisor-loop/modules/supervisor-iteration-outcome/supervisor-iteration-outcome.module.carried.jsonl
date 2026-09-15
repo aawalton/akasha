@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A null pending action is a break."},{"decisionKind":"decision-kind/departure","statement":"restart-now is the only action handled."},{"decisionKind":"decision-kind/departure","statement":"Every other action breaks the loop."},{"decisionKind":"decision-kind/departure","statement":"The maintenance flag is read off the pending record rather than off the event."},{"decisionKind":"decision-kind/departure","statement":"A directive is either continue or break."},{"decisionKind":"decision-kind/absence","statement":"Nothing here touches a process or a seat page or a database."},{"decisionKind":"decision-kind/upkeep","statement":"The directive union is spelled out here and again in the handlers module."}]}
+{"definition":"which directive the loop takes from whatever action was pending at the child's exit"}
+{"id":"01a06871-3115-700c-bb97-5d8f1d4b1d6d"}
+{"slug":"supervisor-iteration-outcome"}
+{"type":"page-type/module"}

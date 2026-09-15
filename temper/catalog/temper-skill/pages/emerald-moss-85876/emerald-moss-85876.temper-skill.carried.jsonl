@@ -1,0 +1,17 @@
+{"baseName":"Emerald Moss"}
+{"description":"\"Increase your healing done with Green Balance abilities by |cffffff2|r% for each Green Balance ability slotted.\\n\\nCurrent Bonus: |cffffff0|r%.\""}
+{"esoSkillId":85876}
+{"icon":"/esoui/art/icons/passive_warden_005.dds"}
+{"id":"019e6f53-a146-7f0c-949e-cc5803ad3340"}
+{"isMorph":false}
+{"key":"emerald-moss-85876"}
+{"learnedLevel":22}
+{"lineRankNeeded":22}
+{"morphIndex":0}
+{"rank":22}
+{"skillLineId":"warden-green-balance"}
+{"skillType":"passive"}
+{"slug":"emerald-moss-85876"}
+{"subcategoryId":"warden-green-balance"}
+{"title":"Emerald Moss"}
+{"type":"page-type/temper-skill"}

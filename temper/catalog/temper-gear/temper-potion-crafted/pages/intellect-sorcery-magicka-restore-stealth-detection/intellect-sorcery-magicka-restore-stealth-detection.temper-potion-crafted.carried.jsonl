@@ -1,0 +1,11 @@
+{"description":"Grants Detection, Restore Magicka, Increase Spell Power."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_006_type_005.dds"}
+{"id":"019e21f6-4061-7f2f-80f6-a8d7e436aefd"}
+{"key":"intellect-sorcery-magicka-restore-stealth-detection"}
+{"level":"CP150"}
+{"reagents":[{"names":["Chaurus Egg","Corn Flower","Lady's Smock"]},{"names":["Corn Flower","Lady's Smock","Torchbug Thorax"]},{"names":["Corn Flower","Lady's Smock","White Cap"]},{"names":["Corn Flower","Lady's Smock","Wormwood"]}]}
+{"seconds":47}
+{"slug":"intellect-sorcery-magicka-restore-stealth-detection"}
+{"title":"Essence of Spell Power"}
+{"type":"page-type/temper-potion-crafted"}

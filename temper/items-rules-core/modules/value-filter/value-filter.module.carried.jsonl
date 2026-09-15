@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the conditions `value` and `valueOp`."}]}
+{"definition":"the Value condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3c02-7e7f-8b1b-d2db429f456f"}
+{"slug":"value-filter"}
+{"type":"page-type/module"}

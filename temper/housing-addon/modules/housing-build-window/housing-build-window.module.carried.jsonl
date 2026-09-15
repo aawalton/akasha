@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Where the window sits is kept in saved variables."}]}
+{"definition":"building the housing window itself, with its header and its body"}
+{"id":"01a06128-d5c7-7498-8a77-50a630fb18d4"}
+{"slug":"housing-build-window"}
+{"type":"page-type/module"}

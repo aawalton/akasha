@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The player sends what the box holds, and no add-on sends it for them."},{"decisionKind":"decision-kind/departure","statement":"Chat input is opened where the entry box does not already hold the focus."},{"decisionKind":"decision-kind/departure","statement":"Text is added where the cursor is rather than replacing what is there."},{"decisionKind":"decision-kind/absence","statement":"Nothing here sends what was written."}]}
+{"definition":"text written into the chat entry box for the player to send or edit"}
+{"id":"01a090b3-cd34-73db-8728-72f922749cda"}
+{"slug":"chat-entry-text"}
+{"type":"page-type/module"}

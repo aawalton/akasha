@@ -1,0 +1,17 @@
+{"baseName":"Necrotic Orb"}
+{"description":"\"Project a globe of regeneration that slowly floats forward, healing for |cffffff1542|r Health every |cffffff1|r second to you and nearby allies.\\n\\nAn ally near the globe can activate the Healing Combustion synergy, causing the orb to explode and heal for |cffffff7073|r Health to nearby allies and restoring |cffffff3960|r Magicka or Stamina to the activator, whichever maximum is higher.\""}
+{"esoSkillId":42038}
+{"icon":"/esoui/art/icons/ability_undaunted_004b.dds"}
+{"id":"019e6f53-a18a-7edf-a3fa-f5636b423844"}
+{"isMorph":true}
+{"key":"energy-orb-42038"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":2}
+{"rank":5}
+{"skillLineId":"guild-undaunted"}
+{"skillType":"active"}
+{"slug":"energy-orb-42038"}
+{"subcategoryId":"guild-undaunted"}
+{"title":"Energy Orb"}
+{"type":"page-type/temper-skill"}

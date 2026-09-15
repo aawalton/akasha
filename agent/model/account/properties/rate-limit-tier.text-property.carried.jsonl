@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The rate limit tier is answered by the upstream probe rather than chosen here."},{"decisionKind":"decision-kind/departure","statement":"A tier is written as Anthropic spells that tier."}]}
+{"definition":"the band the size of the account's allowance is set by"}
+{"id":"01a054d8-1d39-7f41-9807-f31d695573c1"}
+{"maxLength":50}
+{"nameFormat":null}
+{"propertySlug":"rate-limit-tier"}
+{"slug":"rate-limit-tier"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

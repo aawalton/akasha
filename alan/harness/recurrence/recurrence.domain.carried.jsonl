@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A recurrence is stored as an rrule string and read back from the rrule string."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a clock of its own."},{"decisionKind":"decision-kind/departure","statement":"The caller states the current time."}]}
+{"definition":"when a repeating thing next falls due"}
+{"id":"01a05c6f-c7c2-7806-b684-baa6549863dc"}
+{"parts":["module/recurrence-shape","module/scheduling"]}
+{"slug":"recurrence"}
+{"type":"page-type/domain"}

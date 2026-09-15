@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A premise is a document beside its design rather than a line in the design."},{"decisionKind":"decision-kind/departure","statement":"A premise is written in the shape the story that premise opens is told in."}]}
+{"definition":"what a story is about, in the shape the story is told in"}
+{"extensions":["md"]}
+{"id":"01a06577-f385-7179-9713-a0ebc7944548"}
+{"propertySlug":"premise"}
+{"slug":"story-premise"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

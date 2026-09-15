@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/limit","default":"500"},{"argument":"argument/since","default":"1h"},{"argument":"argument/log-dir"},{"argument":"argument/json-in-one-object"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The watcher's log and the tray's log are merged into one run."},{"decisionKind":"decision-kind/departure","statement":"The records are given newest first."},{"decisionKind":"decision-kind/departure","statement":"Each record names its time, its text, the log it came from and its level."},{"decisionKind":"decision-kind/departure","statement":"A duration written in an unknown unit refuses the call."},{"decisionKind":"decision-kind/departure","statement":"A call saying no limit answers five hundred records."},{"decisionKind":"decision-kind/departure","statement":"A call saying no window reaches back one hour."}]}
+{"definition":"the command reading the workstation watcher's log lines newest first"}
+{"id":"01a0603c-c1da-744c-8d22-01ee1ec32945"}
+{"name":"log"}
+{"slug":"temper-watcher-log"}
+{"test":"ts"}
+{"type":"page-type/command"}

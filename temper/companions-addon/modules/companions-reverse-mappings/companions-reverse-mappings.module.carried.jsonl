@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An index outside the table reads back as the empty entry."}]}
+{"definition":"turning a codec index back into the game constant and the words a player reads"}
+{"id":"01a0611d-84de-7793-b8b7-f25afebc6f2e"}
+{"slug":"companions-reverse-mappings"}
+{"type":"page-type/module"}

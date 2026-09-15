@@ -1,0 +1,19 @@
+{"baseName":"Elemental Explosion"}
+{"description":"Removes up to 3 enemy area effect abilities."}
+{"esoSkillId":217237}
+{"focusScriptId":"dispel"}
+{"grimoireId":"elemental-explosion"}
+{"icon":"/esoui/art/icons/ability_grimoire_staffdestro.dds"}
+{"id":"019e6471-15a2-73dc-b5c8-edd4e0508113"}
+{"isMorph":false}
+{"key":"scribed-elemental-explosion-dispel"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"scribed-elemental-explosion-dispel"}
+{"subcategoryId":"scribed"}
+{"title":"Dispelling Explosion"}
+{"type":"page-type/temper-scribed-skill"}

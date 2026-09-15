@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An account's config directory carries symlinks to the shared Claude directories."},{"decisionKind":"decision-kind/departure","statement":"A symlink pointing elsewhere is replaced rather than left as the symlink is."}]}
+{"definition":"the directories, home and log mark a supervisor works from"}
+{"id":"01a0683e-3dbe-7014-bf13-b392ad858c1e"}
+{"slug":"supervisor-config"}
+{"type":"page-type/module"}

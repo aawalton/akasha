@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A purpose is told from a file's name rather than from the file's body."},{"decisionKind":"decision-kind/departure","statement":"A kind says the format a file is written in and a purpose says the use that file is written for."},{"decisionKind":"decision-kind/departure","statement":"One file has a kind and a purpose at once."},{"decisionKind":"decision-kind/gap","statement":"The ending a purpose claims has no property here yet."}]}
+{"definition":"what a file is for, told by its name ending rather than its format"}
+{"extends":["page-type/domain"]}
+{"id":"01a06837-0535-7469-ab8e-6bda76b453a7"}
+{"parts":["file-purpose/test-ts","file-purpose/test-tsx"]}
+{"properties":[]}
+{"schema":"jsonl"}
+{"slug":"file-purpose"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

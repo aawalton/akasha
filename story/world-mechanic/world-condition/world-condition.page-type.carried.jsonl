@@ -1,0 +1,8 @@
+{"definition":"a change the world makes to a character, that stays with them"}
+{"extends":["page-type/world-mechanic"]}
+{"id":"01a06558-a991-796b-9181-ee89d4d8c544"}
+{"runsTabooCheck":false}
+{"schema":"jsonl"}
+{"slug":"world-condition"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

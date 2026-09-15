@@ -1,0 +1,6 @@
+{"filing":"archive"}
+{"id":"01a06860-54a2-723d-8c07-d50e3fd53a55"}
+{"matches":[{"field":"from","comparison":"is","values":["noreply@email.apple.com"]},{"field":"subject","comparison":"contains","values":["icloud storage"]}]}
+{"slug":"icloud-storage-notices"}
+{"title":"Icloud storage notices"}
+{"type":"page-type/email-rule-code"}

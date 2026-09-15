@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The handoff file is named `pkce.json`."},{"decisionKind":"decision-kind/departure","statement":"`SPOTIFY_PKCE_FILE` names the handoff file instead."},{"decisionKind":"decision-kind/departure","statement":"The handoff file sits beside the token file."},{"decisionKind":"decision-kind/departure","statement":"A handoff has a verifier."},{"decisionKind":"decision-kind/departure","statement":"A handoff with anything else is refused."},{"decisionKind":"decision-kind/departure","statement":"The handoff is taken away once the code is exchanged."},{"decisionKind":"decision-kind/absence","statement":"Nothing here creates a verifier."},{"decisionKind":"decision-kind/absence","statement":"Nothing here keeps the state the authorize URL carries."}]}
+{"definition":"the verifier carried between the consent step and the exchange step"}
+{"id":"01a06261-dc1d-7004-9cf8-e12c3dded39e"}
+{"slug":"spotify-pkce-store"}
+{"test":"ts"}
+{"type":"page-type/module"}

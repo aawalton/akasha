@@ -1,0 +1,17 @@
+{"baseName":"Elemental Force"}
+{"description":"\"Increases your chance to apply status effects by |cffffff50|r%.\""}
+{"esoSkillId":30962}
+{"icon":"/esoui/art/icons/ability_weapon_005.dds"}
+{"id":"019e6f53-a118-77a3-9859-16f48ac8603b"}
+{"isMorph":false}
+{"key":"elemental-force-30962"}
+{"learnedLevel":1}
+{"lineRankNeeded":25}
+{"morphIndex":0}
+{"rank":25}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"passive"}
+{"slug":"elemental-force-30962"}
+{"subcategoryId":"weapon-destruction-staff"}
+{"title":"Elemental Force"}
+{"type":"page-type/temper-skill"}

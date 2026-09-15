@@ -1,0 +1,17 @@
+{"baseName":"Death Scythe"}
+{"description":"\"Slice into your enemy's life force, dealing |cffffff6611|r Bleed Damage, applying the Hemorrhaging status effect, and setting them Off Balance for |cffffff7|r seconds.\\n\\nYou heal for |cffffff3016|r Health for the first enemy hit, and an additional |cffffff1005|r for each additional enemy, up to five times. The healing of this ability scales off your Max Health.\""}
+{"esoSkillId":118226}
+{"icon":"/esoui/art/icons/ability_necromancer_007_b.dds"}
+{"id":"019e6f53-a675-777e-8a4c-d8b072d51757"}
+{"isMorph":true}
+{"key":"ruinous-scythe-118226"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":1}
+{"rank":1}
+{"skillLineId":"necromancer-bone-tyrant"}
+{"skillType":"active"}
+{"slug":"ruinous-scythe-118226"}
+{"subcategoryId":"necromancer-bone-tyrant"}
+{"title":"Ruinous Scythe"}
+{"type":"page-type/temper-skill"}

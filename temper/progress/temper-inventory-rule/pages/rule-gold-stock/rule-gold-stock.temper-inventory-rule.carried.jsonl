@@ -1,0 +1,16 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/stock"}
+{"active":true}
+{"categoryId":"currency-gold"}
+{"conditions":"jsonl"}
+{"description":"Keeps up to 1,000,000 gold on each character. Excess is deposited into the bank when visiting."}
+{"displayOrder":5}
+{"fromTemplate":"temper-rule-template/gold-stock"}
+{"goal":"temper-rule-goal/use"}
+{"id":"01a0728b-4fbc-7854-8786-0d70a2944ea8"}
+{"locked":true}
+{"slug":"rule-gold-stock"}
+{"stockScope":"any-character"}
+{"title":"Stock gold"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-05-04T16:04:31.132Z"}

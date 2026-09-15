@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The folder is the one every worktree of a checkout shares."},{"decisionKind":"decision-kind/departure","statement":"A worktree is answered the folder its checkout shares rather than its own."},{"decisionKind":"decision-kind/departure","statement":"The answer is absolute."},{"decisionKind":"decision-kind/departure","statement":"A relative answer from git is read against the root asked about."},{"decisionKind":"decision-kind/departure","statement":"A root git answers nothing for is answered as no folder."},{"decisionKind":"decision-kind/absence","statement":"The folder's name is not spelled here."},{"decisionKind":"decision-kind/absence","statement":"What is under the folder is not said here."}]}
+{"definition":"the folder git keeps a checkout in, asked of git rather than spelled"}
+{"id":"01a091c8-bebb-7cc6-ac6a-ed37511fe84b"}
+{"slug":"git-dir"}
+{"test":"ts"}
+{"type":"page-type/module"}

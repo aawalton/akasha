@@ -1,0 +1,11 @@
+{"enchantmentMultiplier":1}
+{"esoWeaponType":"WEAPONTYPE_LIGHTNING_STAFF"}
+{"id":"019e46b6-4097-7ac7-8bc9-adecad7a9a43"}
+{"isTwoHanded":true}
+{"key":"lightning-staff"}
+{"skillLineId":"weapon-destruction-staff"}
+{"slug":"lightning-staff"}
+{"title":"Lightning Staff"}
+{"type":"page-type/temper-weapon-type"}
+{"validSlots":["main-hand"]}
+{"weaponPower":1335}

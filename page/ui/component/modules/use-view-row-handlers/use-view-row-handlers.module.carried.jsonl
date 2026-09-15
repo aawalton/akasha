@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"The row callbacks a view needs: create, delete, reorder and set a property."}
+{"id":"01a061ee-786e-700f-8193-99f3cd152a36"}
+{"slug":"use-view-row-handlers"}
+{"type":"page-type/module"}

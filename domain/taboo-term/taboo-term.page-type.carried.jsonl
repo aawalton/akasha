@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A taboo term is keyed by the word the taboo term bars."},{"decisionKind":"decision-kind/departure","statement":"The word is written wherever the word has a sense the term does not bar."},{"decisionKind":"decision-kind/departure","statement":"A term names the senses the term keeps as well as the senses the term bars."},{"decisionKind":"decision-kind/departure","statement":"A term naming no kept sense permits every other sense by omission alone."},{"decisionKind":"decision-kind/departure","statement":"A sense a term bars was written here before the sense was barred."},{"decisionKind":"decision-kind/departure","statement":"A taboo term is found by its pattern rather than by its slug."},{"decisionKind":"decision-kind/absence","statement":"A taboo term states no warrant for what the taboo term bars."},{"decisionKind":"decision-kind/departure","statement":"A change adding text a pattern finds is refused until that term has been read."},{"decisionKind":"decision-kind/departure","statement":"A term reaches inside a camelCase name."},{"decisionKind":"decision-kind/departure","statement":"A change is judged for a term over the whole body it writes rather than the part it changes."}]}
+{"definition":"a word this system never writes in the senses it bars"}
+{"extends":["page-type/page"]}
+{"id":"01a0592c-2737-7057-aa66-a46141334052"}
+{"parts":["record-property/taboo-senses","text-property/kept-senses","text-property/pattern","text-property/sense"]}
+{"properties":[{"pageProperty":"text-property/pattern","required":true,"many":false},{"pageProperty":"record-property/taboo-senses","required":true,"many":true,"maxCount":null},{"pageProperty":"text-property/kept-senses","required":false,"many":true,"maxCount":null}]}
+{"schema":"jsonl"}
+{"slug":"taboo-term"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

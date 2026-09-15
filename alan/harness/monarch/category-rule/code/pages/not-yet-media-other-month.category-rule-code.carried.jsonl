@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcd0-702c-b4a1-73359a43919f"}
+{"matches":[{"key":"merchant","comparison":"is","values":["not yet media"]},{"key":"sign","comparison":"is","values":["negative"]},{"key":"month","comparison":"is-not","values":["july","september"]}]}
+{"slug":"not-yet-media-other-month"}
+{"title":"Not yet media other month"}
+{"type":"page-type/category-rule-code"}

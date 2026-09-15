@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A heading stating a parent is a subcategory of the heading the parent names."},{"decisionKind":"decision-kind/departure","statement":"A heading has the achievements the game files directly under that heading."},{"decisionKind":"decision-kind/departure","statement":"The category tells apart the account tally from the character tally."}]}
+{"definition":"one heading the game files a player's achievements under"}
+{"extends":["page-type/temper-pursuit-thing"]}
+{"id":"01a06168-7245-7000-bc3b-b40339a88d31"}
+{"parts":["number-property/achievement-points","number-property/eso-achievement-id","number-property/total-steps","page-property-entry/achievements"]}
+{"properties":[{"pageProperty":"text-property/category","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false},{"pageProperty":"page-property-entry/achievements","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-achievement-category"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

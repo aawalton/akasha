@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every place a companion wears a thing is named by one number."}]}
+{"definition":"anything the companion side of the catalog keeps a page for"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fcc-694c-762c-bcd1-1691361636e2"}
+{"parts":["number-property/equip-type"]}
+{"properties":[{"pageProperty":"number-property/equip-type","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-companion-thing"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

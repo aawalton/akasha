@@ -1,0 +1,17 @@
+{"baseName":"Entropy"}
+{"description":"\"Bind an enemy with chaotic magic, dealing 4642 Magic Damage over 20 seconds.\\n\\nExcess magic spills out from them, granting you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20% for 20 seconds.\""}
+{"esoSkillId":42224}
+{"icon":"/esoui/art/icons/ability_mageguild_004_a.dds"}
+{"id":"019e6238-c2b2-70ee-abbf-fc1c9553dcd9"}
+{"isMorph":true}
+{"key":"degeneration"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"guild-mages-guild"}
+{"skillType":"active"}
+{"slug":"degeneration"}
+{"subcategoryId":"guild-mages-guild"}
+{"title":"Degeneration"}
+{"type":"page-type/temper-skill"}

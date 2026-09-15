@@ -1,0 +1,8 @@
+{"definition":"a kind of story a game belongs to"}
+{"id":"01a0673c-8e0e-7005-9075-7892b4954917"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"genre"}
+{"slug":"genre"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

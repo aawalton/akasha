@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A settings body reaches a harness through akasha code rather than off disk."},{"decisionKind":"decision-kind/departure","statement":"A settings body is written by hand apart from the keys akasha derives."},{"decisionKind":"decision-kind/departure","statement":"A key akasha derives is absent from the body rather than written by hand."}]}
+{"definition":"what an agent harness is told before the harness starts"}
+{"extensions":["json"]}
+{"id":"01a0657b-ad40-7560-a9d3-d510dfab3cf8"}
+{"propertySlug":"harness-settings"}
+{"slug":"harness-settings"}
+{"type":"page-type/file-property"}
+{"types":"ts"}
+{"writtenBy":"module-property-group/telling"}

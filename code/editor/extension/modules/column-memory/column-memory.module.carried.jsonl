@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat seen in no column leaves the column remembered for that seat unchanged."},{"decisionKind":"decision-kind/departure","statement":"A seat seen again is moved to the newest end of the memory."},{"decisionKind":"decision-kind/departure","statement":"Two hundred seats are remembered and the oldest beyond that is dropped."},{"decisionKind":"decision-kind/departure","statement":"The memory is written only where a column changed or a seat was dropped."},{"decisionKind":"decision-kind/departure","statement":"A stored memory that does not parse is read as no memory."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a terminal."}]}
+{"definition":"the editor column each seat was last seen in, kept across windows and restarts"}
+{"id":"01a0686b-bfe9-77a5-a194-b6afcc2c2693"}
+{"slug":"column-memory"}
+{"type":"page-type/module"}

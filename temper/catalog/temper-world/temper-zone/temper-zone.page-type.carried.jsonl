@@ -1,0 +1,9 @@
+{"definition":"a region of the game world"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fc4-7a95-7cb3-941e-d82e9f423411"}
+{"parts":["boolean-property/drops-scripts","boolean-property/is-dlc"]}
+{"properties":[{"pageProperty":"boolean-property/drops-scripts","required":true,"many":false},{"pageProperty":"boolean-property/is-dlc","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-zone"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"definition":"what an inventory does without being asked"}
+{"id":"01a07c17-39c8-7ac1-bab7-bbb2882c1f54"}
+{"name":"automation"}
+{"parts":["command/temper-inventory-automation-list","command/temper-inventory-automation-set"]}
+{"slug":"temper-inventory-automation"}
+{"type":"page-type/namespace"}

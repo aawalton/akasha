@@ -1,0 +1,17 @@
+{"baseName":"Steadfast Ward"}
+{"description":"\"Call on your staff's strength to protect you and the lowest health ally around you with a damage shield that absorbs 2323 damage.\\n\\nThe shield's strength is increased by up to 100%, depending on the severity of the target's wounds.\""}
+{"esoSkillId":41302}
+{"icon":"/esoui/art/icons/ability_restorationstaff_001_b.dds"}
+{"id":"019e6226-011f-79cd-95e8-738cdbc813d2"}
+{"isMorph":true}
+{"key":"ward-ally"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"ward-ally"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Ward Ally"}
+{"type":"page-type/temper-skill"}

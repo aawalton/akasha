@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The backend is started in a process group of its own."},{"decisionKind":"decision-kind/departure","statement":"The group is killed once the answer's body closes."},{"decisionKind":"decision-kind/departure","statement":"A gzipped body is decompressed before the backend is fed that body."},{"decisionKind":"decision-kind/departure","statement":"The headers are read up to the first blank line and the rest is the body."},{"decisionKind":"decision-kind/departure","statement":"A status header sets the answer's code rather than becoming a header."},{"decisionKind":"decision-kind/departure","statement":"A backend that failed is said on standard error rather than to the caller."},{"decisionKind":"decision-kind/departure","statement":"A caller that gave up cancels the answer and takes the backend down with that answer."}]}
+{"definition":"a request handed to the git http backend, and the answer streamed back"}
+{"id":"01a06816-2f11-7e5b-9f14-546cff64fb03"}
+{"slug":"http-backend"}
+{"type":"page-type/module"}

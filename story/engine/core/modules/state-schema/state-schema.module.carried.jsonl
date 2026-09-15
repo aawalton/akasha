@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"State keeps the keys the schema does not name."}]}
+{"definition":"the whole live state of a game at one turn"}
+{"id":"01a05b71-e544-7bab-8507-5a3ede4ec9a0"}
+{"slug":"state-schema"}
+{"type":"page-type/module"}

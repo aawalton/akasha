@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The collector adds itself to the catalog registry as the module loads."},{"decisionKind":"decision-kind/departure","statement":"An achievement line is followed from its first achievement onward."},{"decisionKind":"decision-kind/departure","statement":"An achievement already seen is not added a second time."},{"decisionKind":"decision-kind/departure","statement":"Achievements are read in batches so the client keeps its frame rate."}]}
+{"definition":"the achievements by category, read in batches into the add-on's saved variables"}
+{"id":"01a060e2-3182-7542-b21a-251c92e9d95d"}
+{"slug":"achievement-catalog-capture"}
+{"type":"page-type/module"}

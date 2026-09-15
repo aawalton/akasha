@@ -1,0 +1,19 @@
+{"baseName":"Heavy Armor Penalties"}
+{"description":"\"Each piece of Heavy Armor does the following:\\n\\nIncreases damage taken from Magical attacks by 1%\\n\\nReduces the Movement Speed bonus of Sprint by 1%\\n\\nIncreases the cost of Roll Dodge by 3%\\n\\nIncreases the size of your detection area while Sneaking by 10%\""}
+{"effects":"jsonl"}
+{"esoSkillId":152780}
+{"icon":"/esoui/art/icons/passive_armor2_heavy.dds"}
+{"id":"019e6238-c2c6-7ff2-9386-69f4ee54b396"}
+{"isMorph":false}
+{"key":"heavy-armor-penalties"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"armor-heavy-armor"}
+{"skillType":"passive"}
+{"slug":"heavy-armor-penalties"}
+{"status":"partially-supported"}
+{"subcategoryId":"armor-heavy-armor"}
+{"title":"Heavy Armor Penalties"}
+{"type":"page-type/temper-skill"}

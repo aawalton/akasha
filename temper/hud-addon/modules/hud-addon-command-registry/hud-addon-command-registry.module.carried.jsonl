@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A command registered twice under one name replaces the earlier command in place."},{"decisionKind":"decision-kind/departure","statement":"A command is found by the name that command registered under."}]}
+{"definition":"the Temper subcommands every add-on has registered, kept in registration order"}
+{"id":"01a061c5-18dd-7005-aefe-12af16504617"}
+{"slug":"hud-addon-command-registry"}
+{"type":"page-type/module"}

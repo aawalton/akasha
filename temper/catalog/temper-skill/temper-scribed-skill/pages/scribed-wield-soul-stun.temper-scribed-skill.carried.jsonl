@@ -1,0 +1,19 @@
+{"baseName":"Wield Soul"}
+{"description":"Deals 1045 Magic Damage to an enemy and stuns for 3 seconds. Beneficial Signature and Affix scripts only apply to you."}
+{"esoSkillId":221930}
+{"focusScriptId":"stun"}
+{"grimoireId":"wield-soul"}
+{"icon":"/esoui/art/icons/ability_grimoire_soulmagic1.dds"}
+{"id":"019e6471-15fc-7ca6-8de4-666e0c1cd00f"}
+{"isMorph":false}
+{"key":"scribed-wield-soul-stun"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"world-soul-magic"}
+{"skillType":"active"}
+{"slug":"scribed-wield-soul-stun"}
+{"subcategoryId":"scribed"}
+{"title":"Dazing Soul"}
+{"type":"page-type/temper-scribed-skill"}

@@ -1,0 +1,13 @@
+{"abilityIcon":"/esoui/art/icons/ability_grimoire_soulmagic2.dds"}
+{"affixScripts":"jsonl"}
+{"focusScripts":["bleed-damage","damage-shield","disease-damage","flame-damage","frost-damage","healing","immobilize","magic-damage","physical-damage","pull","shock-damage"]}
+{"icon":"/esoui/art/icons/item_grimoire_soulmagic2.dds"}
+{"id":"01a05fce-2957-7ae5-95ec-65da7a32b304"}
+{"itemId":204492}
+{"key":"soul-burst"}
+{"signatureScripts":"jsonl"}
+{"skillLineId":"world-soul-magic"}
+{"slug":"soul-burst"}
+{"title":"Soul Burst"}
+{"type":"page-type/temper-grimoire"}
+{"uespId":8}

@@ -1,0 +1,13 @@
+{"abilityId":169474}
+{"companionId":"isobel"}
+{"description":"Decreases ability cooldowns by 3% and damage taken by 3%."}
+{"icon":"/esoui/art/icons/ability_companion_templar_cunning.dds"}
+{"id":"019e6484-386f-7567-8aaf-ef9cc2e1dc6c"}
+{"key":"isobel-enchanted"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-isobel"}
+{"skillType":"passive"}
+{"slug":"isobel-isobel-enchanted"}
+{"title":"Cunning"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["tank"]}

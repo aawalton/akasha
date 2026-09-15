@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A text matching no pattern reads as `unrecognized`."},{"decisionKind":"decision-kind/departure","statement":"The longest matching pattern wins."},{"decisionKind":"decision-kind/departure","statement":"Two matching patterns of one length are settled by which sorts first."},{"decisionKind":"decision-kind/departure","statement":"Where two values claim one pattern, the value listed first wins and nothing reports it."}]}
+{"definition":"a vocabulary of values with the patterns naming them, and the value a text reads as"}
+{"id":"01a0657b-9adc-7006-86fa-63e79d35b6a6"}
+{"slug":"rule-vocabulary"}
+{"type":"page-type/module"}

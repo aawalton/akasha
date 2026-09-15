@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A stamp file that is absent or empty reads as no version served."}]}
+{"definition":"the watcher version the server is handing out"}
+{"id":"01a0640f-850f-75fc-8894-4e1d0d24e30c"}
+{"slug":"served-watcher-version"}
+{"type":"page-type/module"}

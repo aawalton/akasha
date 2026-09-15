@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"No rung here makes a folder."},{"decisionKind":"decision-kind/absence","statement":"No rung here renames a folder."}]}
+{"definition":"a mechanical change acting on the files a folder has rather than on one of them"}
+{"extends":["page-type/change-mechanical"]}
+{"id":"01a07ba6-609c-74fc-9684-d3a8d7baccfb"}
+{"parts":["change-mechanical-folder/move-folder","change-mechanical-folder/remove-folder"]}
+{"properties":[]}
+{"schema":"jsonl"}
+{"slug":"change-mechanical-folder"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,8 @@
+{"definition":"the alliance a companion belongs to"}
+{"id":"01a05fcf-2468-7229-a1a7-015a775866de"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"alliance"}
+{"slug":"alliance"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

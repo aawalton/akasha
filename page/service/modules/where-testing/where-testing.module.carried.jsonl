@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A test is run by the name a `where` states."},{"decisionKind":"decision-kind/departure","statement":"A name naming no test answers false."},{"decisionKind":"decision-kind/departure","statement":"A value with nothing reads as bare."},{"decisionKind":"decision-kind/departure","statement":"A list with nothing reads as bare."},{"decisionKind":"decision-kind/departure","statement":"An ordering test answers false over a value that reads as bare."},{"decisionKind":"decision-kind/departure","statement":"Two values order as numbers where both values are numbers."},{"decisionKind":"decision-kind/departure","statement":"Two values order as instants where both values parse as an instant."},{"decisionKind":"decision-kind/departure","statement":"Two values order as text otherwise."},{"decisionKind":"decision-kind/departure","statement":"A sort weighs text by the locale's order."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the store."},{"decisionKind":"decision-kind/absence","statement":"Nothing here knows a query's parts."}]}
+{"definition":"the tests a `where` states run over one value, and how two values order"}
+{"id":"01a05bdd-d54c-7989-aac7-52cb42d778c4"}
+{"slug":"where-testing"}
+{"test":"ts"}
+{"type":"page-type/module"}

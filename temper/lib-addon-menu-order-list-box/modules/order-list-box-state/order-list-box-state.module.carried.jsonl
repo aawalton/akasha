@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every order list box on the panel shares one cursor control."},{"decisionKind":"decision-kind/departure","statement":"A widget is counted so each widget is named apart from every other widget."}]}
+{"definition":"the library handles this widget holds and the one cursor control it shares"}
+{"id":"01a06207-bdf9-7a09-870c-479a20bc8a98"}
+{"slug":"order-list-box-state"}
+{"type":"page-type/module"}

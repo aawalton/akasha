@@ -1,0 +1,17 @@
+{"baseName":"Shadow Cloak"}
+{"description":"\"Shroud yourself in protective shadow to heal for |cffffff1072|r Health every |cffffff1|r second, over |cffffff3|r seconds, increasing by an additional |cffffff150|r% while Bracing. This portion of the ability scales off your Max Health.\\n\\nWhile slotted on either bar, you gain Minor Protection, reducing your damage taken by |cffffff5|r%.\""}
+{"esoSkillId":25377}
+{"icon":"/esoui/art/icons/ability_nightblade_004_b.dds"}
+{"id":"019e6f53-a070-7476-aae6-b8afa50a21f6"}
+{"isMorph":true}
+{"key":"dark-cloak-25377"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":4}
+{"skillLineId":"nightblade-shadow"}
+{"skillType":"active"}
+{"slug":"dark-cloak-25377"}
+{"subcategoryId":"nightblade-shadow"}
+{"title":"Dark Cloak"}
+{"type":"page-type/temper-skill"}

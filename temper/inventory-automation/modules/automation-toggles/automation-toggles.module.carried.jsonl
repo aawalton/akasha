@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A toggle name is written down in one place only."},{"decisionKind":"decision-kind/departure","statement":"The type of a set of toggles follows from that list rather than restating that list."},{"decisionKind":"decision-kind/departure","statement":"A character and a companion are automated by lists of their own."},{"decisionKind":"decision-kind/departure","statement":"A toggle a scope does not carry is absent rather than false."},{"decisionKind":"decision-kind/departure","statement":"Settings have a map for characters and a map for companions at every moment."},{"decisionKind":"decision-kind/departure","statement":"A toggle set for everyone lives under the global scope."},{"decisionKind":"decision-kind/departure","statement":"A character is keyed by its ESO character identity."},{"decisionKind":"decision-kind/departure","statement":"A companion is keyed by its companion identity."},{"decisionKind":"decision-kind/departure","statement":"A refusal lists the toggle names in the order the toggle names are written."}]}
+{"definition":"every automation a character or a companion can have switched on"}
+{"id":"01a06038-b7a3-702e-9416-158e24c98857"}
+{"slug":"automation-toggles"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An older caller reaches the same handler through the older global name."}]}
+{"definition":"the older library object an addon written against LibMapPing reaches"}
+{"id":"01a0605f-6263-7b5a-b8a6-e1817c4462aa"}
+{"slug":"map-ping-compatibility"}
+{"type":"page-type/module"}

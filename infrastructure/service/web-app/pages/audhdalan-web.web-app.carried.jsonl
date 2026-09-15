@@ -1,0 +1,10 @@
+{"basePort":3100}
+{"buildCommand":"bun run build"}
+{"definition":"the site Alan's neurodiversity writing is published on"}
+{"hostnames":["audhdalan.com"]}
+{"id":"01a05b26-f8b6-779c-b687-646b4c535258"}
+{"secretResource":"audhdalan-secrets"}
+{"serviceClusters":["service-cluster/audhdalan-web"]}
+{"slug":"audhdalan-web"}
+{"sourceDirectory":"product/audhdalan/web"}
+{"type":"page-type/web-app"}

@@ -1,0 +1,17 @@
+{"baseName":"Hawk Eye"}
+{"description":"\"Dealing damage with a Light or Heavy Attack increases the damage of your Bow abilities by |cffffff2|r% for |cffffff5|r seconds, stacking up to |cffffff5|r times.\""}
+{"esoSkillId":30936}
+{"icon":"/esoui/art/icons/passive_armor_002.dds"}
+{"id":"019e6f53-a2df-7b79-83d6-35db03efef30"}
+{"isMorph":false}
+{"key":"hawk-eye-30936"}
+{"learnedLevel":1}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":30}
+{"skillLineId":"weapon-bow"}
+{"skillType":"passive"}
+{"slug":"hawk-eye-30936"}
+{"subcategoryId":"weapon-bow"}
+{"title":"Hawk Eye"}
+{"type":"page-type/temper-skill"}

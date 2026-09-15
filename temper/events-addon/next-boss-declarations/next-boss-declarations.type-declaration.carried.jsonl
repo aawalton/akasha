@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A string id here is made at load rather than shipped with the game."},{"decisionKind":"decision-kind/departure","statement":"A control here is declared by this add-on's own XML document."},{"decisionKind":"decision-kind/absence","statement":"Nothing here runs."},{"decisionKind":"decision-kind/departure","statement":"A name the game or a library owns is declared in the shared set instead."}]}
+{"definition":"the string ids and layout controls this tracker makes for itself"}
+{"id":"01a0620a-a165-79b6-89ee-06d189040e29"}
+{"slug":"next-boss-declarations"}
+{"type":"page-type/type-declaration"}

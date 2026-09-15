@@ -1,0 +1,17 @@
+{"baseName":"Puncture"}
+{"description":"\"Thrust your weapon with disciplined precision at an enemy, dealing |cffffff4036|r Physical Damage and taunting them to attack you for |cffffff15|r seconds.\\n\\nAlso inflicts Major Breach on the enemy, reducing their Physical and Spell Resistance by |cffffff5948|r for |cffffff15|r seconds.\""}
+{"esoSkillId":28306}
+{"icon":"/esoui/art/icons/ability_1handed_002.dds"}
+{"id":"019e6f53-a55f-7403-a23c-13c508797884"}
+{"isMorph":false}
+{"key":"puncture"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"active"}
+{"slug":"puncture"}
+{"subcategoryId":"weapon-one-hand-and-shield"}
+{"title":"Puncture"}
+{"type":"page-type/temper-skill"}

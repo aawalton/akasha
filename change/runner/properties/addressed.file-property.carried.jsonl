@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The map is beside the page of the runner stating this property."},{"decisionKind":"decision-kind/departure","statement":"The map is written by the landing rather than by an author or by a command."},{"decisionKind":"decision-kind/departure","statement":"The map binds an address to the arguments the change takes."},{"decisionKind":"decision-kind/departure","statement":"The map reads a change's signature rather than restating that signature."},{"decisionKind":"decision-kind/departure","statement":"A runner reads the map as a type rather than as a way to reach a change."},{"decisionKind":"decision-kind/departure","statement":"An address the map does not have is refused where that address is written."},{"decisionKind":"decision-kind/departure","statement":"A runner naming no page type has no map written for that runner."},{"decisionKind":"decision-kind/departure","statement":"A change exporting the run is reached by the map."},{"decisionKind":"decision-kind/departure","statement":"A change exporting no run is left out of the map rather than refused."},{"decisionKind":"decision-kind/departure","statement":"Whether a change exports the run is read from that change's own code."},{"decisionKind":"decision-kind/departure","statement":"The addresses come out sorted rather than in the order the index answers."},{"decisionKind":"decision-kind/departure","statement":"Every body the map reads is read through the change rather than off the disk."},{"decisionKind":"decision-kind/gap","statement":"A generator that throws leaves a stale map for the typecheck to refuse."},{"decisionKind":"decision-kind/absence","statement":"Nothing the map holds survives into the code that runs."}]}
+{"definition":"the type binding each change address to that change's own arguments"}
+{"extensions":["ts"]}
+{"generated":true}
+{"id":"01a077c9-302e-73d9-ab09-7e86e4854566"}
+{"propertySlug":"addressed"}
+{"runsFileLength":false}
+{"slug":"addressed"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

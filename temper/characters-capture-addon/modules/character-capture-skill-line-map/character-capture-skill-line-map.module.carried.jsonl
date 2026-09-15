@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A place in this table is the number a saved build hash has."}]}
+{"definition":"each skill line's place in a build hash, with its ranks and morphable abilities"}
+{"id":"01a0616b-0b56-7a15-96fe-ccb28c313a6a"}
+{"slug":"character-capture-skill-line-map"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"filing":"archive"}
+{"id":"01a06860-54a2-759a-92a2-93192deed6ad"}
+{"matches":[{"field":"from","comparison":"is","values":["families-noreply@google.com"]},{"field":"subject","comparison":"contains","values":["activity","weekly report","weekly summary"]}]}
+{"slug":"family-link-activity"}
+{"title":"Family link activity"}
+{"type":"page-type/email-rule-code"}

@@ -1,0 +1,14 @@
+{"abilityId":155515}
+{"companionId":"all"}
+{"description":"Your Companion conjures a fountain of blood to sustain themselves and allies around it, healing for $1 Health every 1 second for 16 seconds. Allies near the fountain can activate the Crimson Funnel synergy, healing for 50% of their Max Health."}
+{"icon":"/esoui/art/icons/ability_companion_undaunted_001.dds"}
+{"id":"019e6688-86f0-77f2-9cee-f65e46f9b17f"}
+{"key":"shared-crimson-font"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"guild-undaunted"}
+{"skillType":"active"}
+{"slug":"all-shared-crimson-font"}
+{"tags":["synergy"]}
+{"title":"Crimson Font"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer"]}

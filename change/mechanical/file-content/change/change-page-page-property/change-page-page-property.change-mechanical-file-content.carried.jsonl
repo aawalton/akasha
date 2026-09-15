@@ -1,0 +1,12 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-change"}
+{"changeTargetSubtype":"change-target-subtype/file-content-page-property-value"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The passage answered is the lines the key's value sits on rather than the body."},{"decisionKind":"decision-kind/departure","statement":"A newline ending the value asked for is dropped."}]}
+{"definition":"one key of a page's exported object stated anew"}
+{"id":"01a07716-76a6-7428-9e18-f3fc32d18085"}
+{"slug":"change-page-page-property"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/change-mechanical-file-content"}

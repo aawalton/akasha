@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/seq","saidAs":"flag-or-word"},{"argument":"argument/web-app"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seq said as a word and after `--seq` is refused."},{"decisionKind":"decision-kind/departure","statement":"A call naming neither a seq nor an app is read rather than refused."},{"decisionKind":"decision-kind/departure","statement":"Such a call answers for every server a state file tracks."},{"decisionKind":"decision-kind/departure","statement":"A state file naming a process that is gone reads as stopped."},{"decisionKind":"decision-kind/absence","statement":"Nothing here takes a state file away."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a state file."}]}
+{"definition":"the command reading whether an app's dev server is running or stopped"}
+{"id":"01a09404-18a4-709b-8039-58c3e580da98"}
+{"name":"status"}
+{"slug":"infrastructure-dev-server-status"}
+{"test":"ts"}
+{"type":"page-type/command"}

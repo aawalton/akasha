@@ -1,0 +1,19 @@
+{"baseName":"Traveling Knife"}
+{"description":"Deals 928 Physical Damage to an enemy and 1393 Bleed Damage to enemies between you and them on return."}
+{"esoSkillId":217359}
+{"focusScriptId":"bleed-damage"}
+{"grimoireId":"traveling-knife"}
+{"icon":"/esoui/art/icons/ability_grimoire_dualwield.dds"}
+{"id":"019e6471-15dc-7979-a73d-48cc885b2f1c"}
+{"isMorph":false}
+{"key":"scribed-traveling-knife-bleed-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"scribed-traveling-knife-bleed-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Bloody Knife"}
+{"type":"page-type/temper-scribed-skill"}

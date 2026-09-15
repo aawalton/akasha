@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A batch reads a hundred entries."},{"decisionKind":"decision-kind/departure","statement":"The next batch begins a hundred milliseconds later."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the game."}]}
+{"definition":"how many entries a collector reads at once, and how long it waits after each batch"}
+{"id":"01a06071-0c77-7e96-8044-2bad3e05b280"}
+{"slug":"batch-config"}
+{"type":"page-type/module"}

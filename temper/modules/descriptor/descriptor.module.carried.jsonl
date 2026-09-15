@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The add-on writing a capture and the reader of that capture agree here."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the game."},{"decisionKind":"decision-kind/departure","statement":"The descriptor states whether a load time is kept."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads or writes a file."}]}
+{"definition":"the name, version and defaults one add-on hands the game to save under"}
+{"id":"01a06053-3638-7cb5-b297-d04869965330"}
+{"slug":"descriptor"}
+{"type":"page-type/module"}

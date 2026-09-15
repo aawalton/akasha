@@ -1,0 +1,5 @@
+{"definition":"a change shown before the server has answered"}
+{"id":"01a071cb-e8e9-764a-a670-4e9f2cc593fa"}
+{"parts":["module/convergence","module/optimistic-mutation","module/plan"]}
+{"slug":"page-ui-store-optimistic"}
+{"type":"page-type/domain"}

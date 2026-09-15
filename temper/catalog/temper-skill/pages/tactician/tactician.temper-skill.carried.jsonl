@@ -1,0 +1,19 @@
+{"baseName":"Tactician"}
+{"description":"\"Increases your damage done with Siege Weapons to Keeps and other Siege Weapons while in your campaign, depending on how many Home Keeps you own.\\n\\n1 or less Keep: 50%\\n2 Keeps: 60%\\n3 Keeps: 70%\\n4 Keeps: 80%\\n5 Keeps: 90%\\n6 Keeps: 100%\""}
+{"effects":"jsonl"}
+{"esoSkillId":39647}
+{"icon":"/esoui/art/icons/ability_sorcerer_057.dds"}
+{"id":"019e6251-4cf8-71de-ae2e-e0039d7652a4"}
+{"isMorph":false}
+{"key":"tactician"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"alliance-war-emperor"}
+{"skillType":"passive"}
+{"slug":"tactician"}
+{"status":"unsupported"}
+{"subcategoryId":"alliance-war-emperor"}
+{"title":"Tactician"}
+{"type":"page-type/temper-skill"}

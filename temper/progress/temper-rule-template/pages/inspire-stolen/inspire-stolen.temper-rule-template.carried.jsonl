@@ -1,0 +1,12 @@
+{"action":"temper-item-action/fence-launder"}
+{"active":false}
+{"categoryId":"equipment"}
+{"conditions":"jsonl"}
+{"description":"Launders stolen equipment that would give useful crafting inspiration, so it can be deconstructed. Place before other inspiration rules."}
+{"displayOrder":16}
+{"goal":"temper-rule-goal/progress"}
+{"id":"019e3104-2614-7316-8d1c-1e373007d0dc"}
+{"key":"inspire-stolen"}
+{"slug":"inspire-stolen"}
+{"title":"Launder stolen inspiration"}
+{"type":"page-type/temper-rule-template"}

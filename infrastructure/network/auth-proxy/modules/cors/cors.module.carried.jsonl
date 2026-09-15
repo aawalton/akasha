@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A preflight is answered here rather than by the target behind the proxy."},{"decisionKind":"decision-kind/departure","statement":"A preflight echoes back the headers the request asked about."}]}
+{"definition":"this proxy's allowed origins put to a request and to its preflight"}
+{"id":"01a06863-8e7c-7ff0-95ea-2e1024563925"}
+{"slug":"cors"}
+{"type":"page-type/module"}

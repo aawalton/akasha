@@ -1,0 +1,6 @@
+{"category":"monarch-category/medical"}
+{"id":"01a0655b-fcd1-700b-938e-435597c20230"}
+{"matches":[{"key":"merchant","comparison":"is","values":["selecthealth"]},{"key":"sign","comparison":"is","values":["negative"]}]}
+{"slug":"selecthealth"}
+{"title":"Selecthealth"}
+{"type":"page-type/category-rule-code"}

@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Grand Healing"}
+{"description":"\"Summon restoring spirits with your staff at the target location, healing up to 3 of you and your allies for |cffffff24096|r Health over |cffffff5|r seconds.\""}
+{"esoSkillId":241517}
+{"icon":"/esoui/art/icons/ability_restorationstaff_004.dds"}
+{"id":"019e6f53-a91c-7261-87d3-9aa3b92ab047"}
+{"isMorph":false}
+{"key":"vengeance-grand-healing"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"vengeance-grand-healing"}
+{"subcategoryId":"vengeance-weapon-restoration-staff"}
+{"title":"Vengeance Grand Healing"}
+{"type":"page-type/temper-skill"}

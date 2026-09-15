@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A fingerprint is taken over an error's normalized stack and message and app."},{"decisionKind":"decision-kind/departure","statement":"Two reports hashing alike are one error."},{"decisionKind":"decision-kind/departure","statement":"A fingerprint is written as lower hexadecimal."},{"decisionKind":"decision-kind/absence","statement":"A fingerprint is never a page's whole slug."}]}
+{"definition":"the hash telling one error apart from another"}
+{"id":"01a05f3f-e3e0-7721-9fec-e8292e22a4da"}
+{"maxLength":16}
+{"nameFormat":null}
+{"propertySlug":"fingerprint"}
+{"slug":"error-fingerprint"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

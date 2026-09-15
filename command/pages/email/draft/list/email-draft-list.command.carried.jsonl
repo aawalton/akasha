@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/max"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A draft is named by its own id rather than by the message that draft has."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a draft's body."}]}
+{"definition":"the command naming the id, message and thread of each draft in the mailbox"}
+{"id":"01a06810-cf11-711a-abf5-acd61e55baac"}
+{"name":"list"}
+{"slug":"email-draft-list"}
+{"test":"ts"}
+{"type":"page-type/command"}

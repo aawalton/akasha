@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A registered category outside the early to late range is clamped into that range."},{"decisionKind":"decision-kind/departure","statement":"A special key context menu is registered under its own key rather than a category."}]}
+{"definition":"the library object every caller of the custom menu reaches"}
+{"id":"01a0605a-581e-7826-9cc9-769dd4862bdf"}
+{"slug":"custom-menu-lib"}
+{"type":"page-type/module"}

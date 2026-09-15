@@ -1,0 +1,17 @@
+{"baseName":"Aspect of Terror"}
+{"description":"\"Summon a dark spirit to terrify nearby enemies, causing them to cower in fear for |cffffff2|r seconds and be afflicted with Major Cowardice for |cffffff10|r seconds, reducing their Weapon and Spell Damage by |cffffff430|r.\""}
+{"esoSkillId":25352}
+{"icon":"/esoui/art/icons/ability_nightblade_016.dds"}
+{"id":"019e6f53-9ecb-7f95-a64d-c9b7936077d6"}
+{"isMorph":false}
+{"key":"aspect-of-terror"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":30}
+{"skillLineId":"nightblade-shadow"}
+{"skillType":"active"}
+{"slug":"aspect-of-terror"}
+{"subcategoryId":"nightblade-shadow"}
+{"title":"Aspect of Terror"}
+{"type":"page-type/temper-skill"}

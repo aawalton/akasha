@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/output"},{"argument":"argument/seed"},{"argument":"argument/no-persist"},{"argument":"argument/image","required":true,"saidAs":"flag-or-word"},{"argument":"argument/host"},{"argument":"argument/resolution","required":true}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"`UPSCALE_HOME` names the workstation's data directory."},{"decisionKind":"decision-kind/departure","statement":"The resolution is the shortest edge in pixels."},{"decisionKind":"decision-kind/departure","statement":"A resolution at or below zero is refused."},{"decisionKind":"decision-kind/departure","statement":"The cluster runs the work where nothing names a host."},{"decisionKind":"decision-kind/departure","statement":"A host that is neither the cluster nor the workstation is refused."},{"decisionKind":"decision-kind/departure","statement":"The seed the recipe has is used where nothing names a seed."},{"decisionKind":"decision-kind/departure","statement":"The image is written where the caller named that image and nowhere else."},{"decisionKind":"decision-kind/absence","statement":"Nothing here provisions the weights."}]}
+{"definition":"the command remaking one image at a higher resolution on a GPU"}
+{"id":"01a0685e-fd50-7de7-851b-a0d871ef8910"}
+{"name":"upscale"}
+{"slug":"inference-upscale"}
+{"test":"ts"}
+{"type":"page-type/command"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The catalogue's root shelf sits under nothing."},{"decisionKind":"decision-kind/departure","statement":"A shelf states no length of its own."},{"decisionKind":"decision-kind/departure","statement":"The day the catalogue was last read is kept on its root shelf alone."}]}
+{"definition":"one shelf the whole Great Courses catalogue is reached through"}
+{"extends":["page-type/collection-external"]}
+{"id":"01a06574-0291-7004-9508-74c1258e02c0"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"great-courses-collection"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

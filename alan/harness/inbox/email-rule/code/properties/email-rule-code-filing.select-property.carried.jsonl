@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Archiving and skipping exclude each other."},{"decisionKind":"decision-kind/departure","statement":"Skipping is doing nothing to the mail rather than leaving the filing unstated."}]}
+{"definition":"whether a piece of mail the rule matches leaves the inbox"}
+{"id":"01a06860-549f-7088-a74f-de255a1b5b39"}
+{"propertySlug":"filing"}
+{"slug":"email-rule-code-filing"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["archive","skip"]}

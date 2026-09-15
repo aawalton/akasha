@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Asking to check and to write together is refused."},{"decisionKind":"decision-kind/departure","statement":"Naming a root more than once is refused."},{"decisionKind":"decision-kind/departure","statement":"A package filter matching no synth file is refused rather than answered empty."},{"decisionKind":"decision-kind/departure","statement":"A run answers a code rather than ending the process itself."}]}
+{"definition":"the synth pass a command line asks for"}
+{"id":"01a06810-0b68-7038-a682-a9d1287b3622"}
+{"slug":"synth-running"}
+{"type":"page-type/module"}

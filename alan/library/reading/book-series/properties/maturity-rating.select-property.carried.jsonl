@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rating is the provider's judgement rather than Alan's."},{"decisionKind":"decision-kind/departure","statement":"A series the provider rated not at all states no rating."}]}
+{"definition":"how grown-up the provider says a series is"}
+{"id":"01a06598-222b-7001-a964-8dd2fc87d5bc"}
+{"propertySlug":"maturity-rating"}
+{"slug":"maturity-rating"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["PG","PG-13","R"]}

@@ -1,0 +1,17 @@
+{"baseName":"Blood Scion"}
+{"description":"\"Transform into a monstrous creature of the night, instantly healing to full Health.\\n\\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff15|r% of all damage you deal, and you can see enemies through walls.\""}
+{"esoSkillId":32624}
+{"icon":"/esoui/art/icons/ability_u26_vampire_06.dds"}
+{"id":"019e6f53-9f5c-7001-80d1-ba8cc13d3a10"}
+{"isMorph":false}
+{"key":"blood-scion"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":5}
+{"skillLineId":"world-vampire"}
+{"skillType":"ultimate"}
+{"slug":"blood-scion"}
+{"subcategoryId":"world-vampire"}
+{"title":"Blood Scion"}
+{"type":"page-type/temper-skill"}

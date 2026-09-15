@@ -1,0 +1,8 @@
+{"definition":"a piece of work the world sets a character"}
+{"extends":["page-type/world-mechanic"]}
+{"id":"01a06558-a991-7cfc-a470-1adaf50096f8"}
+{"runsTabooCheck":false}
+{"schema":"jsonl"}
+{"slug":"world-quest"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,27 @@
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Split_Squats"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Split_Squats"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"intermediate"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"push"}
+{"gripDemand":"low"}
+{"id":"019ebc78-7f92-75bf-969a-7109af470036"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squats/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squats/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"unilateral"}
+{"loadFactor":0.6}
+{"movementPattern":"mobility"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["hamstrings"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["calves","glutes","quadriceps"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"split-squats"}
+{"title":"Split Squats"}
+{"trainsLengthenedRange":true}
+{"type":"page-type/strength-exercise"}

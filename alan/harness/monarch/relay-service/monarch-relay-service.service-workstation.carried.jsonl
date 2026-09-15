@@ -1,0 +1,7 @@
+{"definition":"the service carrying the unreviewed reading to the sites that show it"}
+{"enabled":true}
+{"id":"01a05b53-8d92-7100-a247-0189479aee94"}
+{"needsSecrets":true}
+{"slug":"monarch-relay-service"}
+{"systemd":{"schedule":"*:2/5","jitterSeconds":30,"startTimeoutSeconds":60,"catchUp":false}}
+{"type":"page-type/service-workstation"}

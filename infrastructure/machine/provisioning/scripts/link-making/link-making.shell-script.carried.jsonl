@@ -1,0 +1,6 @@
+{"definition":"a symlink made where one is wanted, and a dangling one reported rather than passed over"}
+{"id":"01a06864-40db-7667-b568-c45fb304dce3"}
+{"shell":"sh"}
+{"slug":"link-making"}
+{"sourced":true}
+{"type":"page-type/shell-script"}

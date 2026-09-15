@@ -1,0 +1,19 @@
+{"baseName":"Soul Burst"}
+{"description":"Grants you and your allies a damage shield that absorbs 3718 damage for 6 seconds, scaling off the higher of your Max Health or Magicka and capped at 55% of your Max Health. Beneficial Signature and Affix scripts apply to you or an ally."}
+{"esoSkillId":217460}
+{"focusScriptId":"damage-shield"}
+{"grimoireId":"soul-burst"}
+{"icon":"/esoui/art/icons/ability_grimoire_soulmagic2.dds"}
+{"id":"019e6471-15c4-70cd-9003-322118903a72"}
+{"isMorph":false}
+{"key":"scribed-soul-burst-damage-shield"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"world-soul-magic"}
+{"skillType":"active"}
+{"slug":"scribed-soul-burst-damage-shield"}
+{"subcategoryId":"scribed"}
+{"title":"Warding Burst"}
+{"type":"page-type/temper-scribed-skill"}

@@ -1,0 +1,6 @@
+{"filing":"archive"}
+{"id":"01a06860-54a2-768c-8854-85a9250c8498"}
+{"matches":[{"field":"from","comparison":"ends-with","values":["gatech.edu","notify.incogni.com","goodreads.com","qualtrics-survey.com"]}]}
+{"slug":"routine-senders"}
+{"title":"Routine senders"}
+{"type":"page-type/email-rule-code"}

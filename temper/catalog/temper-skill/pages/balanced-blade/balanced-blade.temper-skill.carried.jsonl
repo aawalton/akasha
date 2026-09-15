@@ -1,0 +1,19 @@
+{"baseName":"Balanced Blade"}
+{"description":"\"Reduces the Stamina cost of your Two-Handed abilities by 15%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45443}
+{"icon":"/esoui/art/icons/ability_dragonknight_028.dds"}
+{"id":"019e6226-00d2-7e6d-b152-8b1e3732d828"}
+{"isMorph":false}
+{"key":"balanced-blade"}
+{"learnedLevel":1}
+{"lineRankNeeded":17}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"passive"}
+{"slug":"balanced-blade"}
+{"status":"unsupported"}
+{"subcategoryId":"weapon-two-handed"}
+{"title":"Balanced Blade"}
+{"type":"page-type/temper-skill"}

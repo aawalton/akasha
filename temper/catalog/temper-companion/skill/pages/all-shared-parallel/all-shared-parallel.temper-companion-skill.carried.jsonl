@@ -1,0 +1,12 @@
+{"abilityId":155411}
+{"companionId":"all"}
+{"description":"Your Companion barters with Oblivion for power, generating 50 Ultimate."}
+{"icon":"/esoui/art/icons/ability_companion_mageguild_003.dds"}
+{"id":"019e6688-86f1-78d9-8364-4fb564175667"}
+{"key":"shared-parallel"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"guild-mages"}
+{"skillType":"active"}
+{"slug":"all-shared-parallel"}
+{"title":"Parallel"}
+{"type":"page-type/temper-companion-skill"}

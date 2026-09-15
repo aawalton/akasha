@@ -1,0 +1,8 @@
+{"definition":"Prometheus has no Loki job to scrape"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fa-70b8-8b67-12316c66ad5c"}
+{"runbook":"txt"}
+{"slug":"loki-scrape-job-absent"}
+{"summary":"The loki scrape job has no targets — Loki is unmonitored again"}
+{"title":"Loki scrape job absent"}
+{"type":"page-type/alert"}

@@ -1,0 +1,8 @@
+{"definition":"having something inside"}
+{"id":"01a081fe-3ea9-770a-9afd-6d05c8f610b6"}
+{"instead":"have"}
+{"replacementPatterns":[{"frame":"prose-frame/object","fromPattern":"holds [object]","toPattern":"has [object]"},{"frame":"prose-frame/object","fromPattern":"hold [object]","toPattern":"have [object]"},{"frame":"prose-frame/object","fromPattern":"held [object]","toPattern":"had [object]"},{"frame":"prose-frame/fronted","fromPattern":"holds","toPattern":"has"},{"frame":"prose-frame/fronted","fromPattern":"hold","toPattern":"have"},{"frame":"prose-frame/fronted","fromPattern":"held","toPattern":"had"},{"frame":"prose-frame/participle","fromPattern":"holding [object]","toPattern":"with [object]"},{"frame":"prose-frame/placed","fromPattern":"is held in [place]","toPattern":"is in [place]"}]}
+{"slug":"hold-inside"}
+{"spelling":"hold"}
+{"type":"page-type/banned-term"}
+{"variants":["holds","holding","held"]}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the watcher executable a player downloads"}
+{"id":"01a082a7-6a2d-7190-b38a-a07b1507f476"}
+{"slug":"api-watcher-download"}
+{"type":"page-type/route"}
+{"urlPath":"api/watcher/download"}

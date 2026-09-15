@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An arc structure is a document beside its design rather than a line in the design."},{"decisionKind":"decision-kind/departure","statement":"An arc structure names every arc the story is planned to run through."}]}
+{"definition":"the arcs a story is planned to run through"}
+{"extensions":["md"]}
+{"id":"01a06577-f385-7d82-9322-ca4e27181d96"}
+{"propertySlug":"arc-structure"}
+{"slug":"arc-structure"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

@@ -1,0 +1,8 @@
+{"definition":"a GPU is running hotter than it should be allowed to"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62f9-7bd3-87dd-99ae05c91600"}
+{"runbook":"txt"}
+{"slug":"gpu-temperature-high"}
+{"summary":"GPU temperature > 85C on {{ $labels.instance }}"}
+{"title":"GPU temperature high"}
+{"type":"page-type/alert"}

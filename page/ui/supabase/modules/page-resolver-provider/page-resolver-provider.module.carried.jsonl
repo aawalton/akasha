@@ -1,0 +1,5 @@
+{"code":"tsx"}
+{"definition":"Supplies the page resolver its children read, filled from the pages the store has."}
+{"id":"01a061df-fe7f-7000-87cf-99df32ea8ebf"}
+{"slug":"page-resolver-provider"}
+{"type":"page-type/module"}

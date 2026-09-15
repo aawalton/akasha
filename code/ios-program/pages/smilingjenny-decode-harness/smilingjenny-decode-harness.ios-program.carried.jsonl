@@ -1,0 +1,7 @@
+{"components":["ios-component/alanwalton-stoplight-ring","ios-component/categorize-ring","ios-component/falling-checks","ios-component/freshness-checks","ios-component/freshness-widget","ios-component/ring","ios-component/safety-ring","ios-component/scale-checks","ios-component/smilingjenny-categorize-view","ios-component/smilingjenny-cost-widget","ios-component/smilingjenny-safety-level-widget","ios-component/smilingjenny-surplus-widget","ios-component/smilingjenny-upkeep-stoplights-widget","ios-component/smilingjenny-widget-feed","ios-component/spacing","ios-component/surplus-ring","ios-component/tier","ios-component/timeline-checks","ios-component/cost-ring"]}
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"Every tile this program compiles has a decode assertion."}]}
+{"definition":"a program checking tiles decode the payloads they are handed"}
+{"id":"01a0590a-0b38-7a31-a332-3212460d77ba"}
+{"main":"swift"}
+{"slug":"smilingjenny-decode-harness"}
+{"type":"page-type/ios-program"}

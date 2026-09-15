@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every condition the editor offers is named once in this list of ids."},{"decisionKind":"decision-kind/departure","statement":"A filter names the categories the condition suits."},{"decisionKind":"decision-kind/departure","statement":"A filter's fingerprint tells two rules carrying that condition apart."}]}
+{"definition":"the shape of one condition a rule may carry, as the rule editor offers and clears it"}
+{"id":"01a06100-3bf9-77a0-a8e9-669771a20507"}
+{"slug":"rule-filter-types"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An entry is found by its index or by its unique key."},{"decisionKind":"decision-kind/departure","statement":"An entry index handed in by a caller starts at the first row rather than at zero."}]}
+{"definition":"the methods adding one entry to the list and taking one away"}
+{"id":"01a06207-bdf3-746a-a7b6-8ad6ebf5a361"}
+{"slug":"order-list-box-entry-methods"}
+{"type":"page-type/module"}

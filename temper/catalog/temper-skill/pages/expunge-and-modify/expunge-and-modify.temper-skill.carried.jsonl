@@ -1,0 +1,18 @@
+{"baseName":"Expunge"}
+{"description":"\"Embrace the power of death, removing up to 2 negative effects from yourself and restoring 515 Magicka and Stamina for each negative effect removed.\\n\\nWhile slotted, the cost of all your abilities are reduced by 3%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":40117940}
+{"icon":"/esoui/art/icons/ability_necromancer_014_b.dds"}
+{"id":"019e6245-a67e-70bd-aa95-aece4e56b9b3"}
+{"isMorph":true}
+{"key":"expunge-and-modify"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"necromancer-living-death"}
+{"skillType":"active"}
+{"slug":"expunge-and-modify"}
+{"subcategoryId":"necromancer-living-death"}
+{"title":"Expunge and Modify"}
+{"type":"page-type/temper-skill"}

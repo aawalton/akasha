@@ -1,0 +1,6 @@
+{"definition":"whether a version was kept on purpose rather than taken as the build changed"}
+{"id":"01a0685d-89aa-709a-85e9-907d86ed7964"}
+{"propertySlug":"is-checkpoint"}
+{"slug":"is-checkpoint"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A collectible here is filed by the game under the category with the file."}]}
+{"definition":"the collectibles a category holds, one collectible to a line"}
+{"id":"01a06165-ae0e-7002-9050-a3edc1766aec"}
+{"properties":[{"pageProperty":"number-property/eso-collectible-id","required":true,"many":false},{"pageProperty":"text-property/collectible-name","required":true,"many":false}]}
+{"propertySlug":"collectibles"}
+{"slug":"collectibles"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

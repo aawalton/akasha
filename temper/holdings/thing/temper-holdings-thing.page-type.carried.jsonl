@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reading states an account's worth at one moment."}]}
+{"definition":"a reading of what an account holds"}
+{"extends":["page-type/temper-thing"]}
+{"id":"01a05fcb-fd2b-77f2-923a-cb5f59585696"}
+{"parts":["number-property/total-value"]}
+{"properties":[{"pageProperty":"instant-property/captured-at","required":false,"many":false},{"pageProperty":"number-property/total-value","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-holdings-thing"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

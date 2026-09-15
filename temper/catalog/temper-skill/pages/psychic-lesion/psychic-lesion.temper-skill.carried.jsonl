@@ -1,0 +1,19 @@
+{"baseName":"Psychic Lesion"}
+{"description":"\"Your attacks wound the mind with heretical knowledge, increasing damage dealt by Status Effects by 15% and Status Effect Chance by 55%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":184873}
+{"icon":"/esoui/art/icons/passive_arcanist_03.dds"}
+{"id":"019e6245-a6f3-72fc-8dce-37e62a3e03f8"}
+{"isMorph":false}
+{"key":"psychic-lesion"}
+{"learnedLevel":22}
+{"lineRankNeeded":22}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"arcanist-herald-of-the-tome"}
+{"skillType":"passive"}
+{"slug":"psychic-lesion"}
+{"status":"partially-supported"}
+{"subcategoryId":"arcanist-herald-of-the-tome"}
+{"title":"Psychic Lesion"}
+{"type":"page-type/temper-skill"}

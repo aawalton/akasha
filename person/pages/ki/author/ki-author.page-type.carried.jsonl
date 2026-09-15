@@ -1,0 +1,7 @@
+{"definition":"someone who wrote a book Ki keeps"}
+{"extends":["page-type/ki-collection-template"]}
+{"id":"01a06825-d0ec-792e-8a52-144c147087f5"}
+{"schema":"jsonl"}
+{"slug":"ki-author"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,17 @@
+{"baseName":"Time Stop"}
+{"description":"\"Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area during the channel before finally stunning them in place for |cffffff3|r seconds when the channel completes.\\n\\nEnemies that are stunned gain |cffffff5000|r Heal Absorption for |cffffff3|r seconds, negating the next |cffffff5000|r points of healing done.\""}
+{"esoSkillId":104059}
+{"icon":"/esoui/art/icons/ability_psijic_002_a.dds"}
+{"id":"019e6f53-9f78-7ffb-8c60-437780b11c66"}
+{"isMorph":true}
+{"key":"borrowed-time-104059"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":1}
+{"rank":2}
+{"skillLineId":"guild-psijic-order"}
+{"skillType":"active"}
+{"slug":"borrowed-time-104059"}
+{"subcategoryId":"guild-psijic-order"}
+{"title":"Borrowed Time"}
+{"type":"page-type/temper-skill"}

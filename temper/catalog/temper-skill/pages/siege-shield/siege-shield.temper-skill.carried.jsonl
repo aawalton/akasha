@@ -1,0 +1,17 @@
+{"baseName":"Siege Shield"}
+{"description":"\"Create a protective sphere over your location that reduces damage taken from siege weapons by |cffffff50|r% for you and nearby allies.\""}
+{"esoSkillId":38570}
+{"icon":"/esoui/art/icons/ability_ava_004.dds"}
+{"id":"019e6f53-a715-716d-81d5-1d978f702780"}
+{"isMorph":false}
+{"key":"siege-shield"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"active"}
+{"slug":"siege-shield"}
+{"subcategoryId":"alliance-war-support"}
+{"title":"Siege Shield"}
+{"type":"page-type/temper-skill"}

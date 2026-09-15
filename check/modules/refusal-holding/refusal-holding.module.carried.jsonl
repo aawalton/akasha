@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A refusal is carried by its lines rather than as one run of words."},{"decisionKind":"decision-kind/departure","statement":"A reason held only in part says how much of that reason went."},{"decisionKind":"decision-kind/departure","statement":"More refusals than the ceiling holds keep their start and say how many there are."},{"decisionKind":"decision-kind/departure","statement":"A ceiling is handed in rather than stated here, so each reader holds its own."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a file or runs a check."}]}
+{"definition":"refusals held to a byte ceiling, and a reason shortened to say how much went"}
+{"id":"01a09262-8dcd-7000-9ba4-db03acc57a04"}
+{"slug":"refusal-holding"}
+{"test":"ts"}
+{"type":"page-type/module"}

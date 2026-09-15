@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A build id is read from the build-id file the addon build leaves beside an addon."},{"decisionKind":"decision-kind/departure","statement":"An addon folder read for one error is not read again for a later error."},{"decisionKind":"decision-kind/departure","statement":"An addon folder with no readable build id is remembered as carrying no build id."},{"decisionKind":"decision-kind/departure","statement":"An error the game attributed reads only the attributed addon's build id."}]}
+{"definition":"the deployed build ids an error is judged against, read off the addons folder"}
+{"id":"01a060cd-5652-70fe-ac43-14c6188a70ae"}
+{"slug":"errors-triage-gather"}
+{"type":"page-type/module"}

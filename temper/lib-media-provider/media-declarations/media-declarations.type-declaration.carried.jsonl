@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only the names the code here reaches are declared."},{"decisionKind":"decision-kind/departure","statement":"A file reaching a declared name imports this module for the declaration."},{"decisionKind":"decision-kind/departure","statement":"A value is declared with `var` so a second addon declaring the same name merges."},{"decisionKind":"decision-kind/absence","statement":"Nothing here runs."},{"decisionKind":"decision-kind/stopgap","statement":"This module restates declarations the game keeps outside akasha."}]}
+{"definition":"the Lua and game names this library reaches without importing them"}
+{"id":"01a0620a-a168-770b-99ab-0f8790dd4a01"}
+{"slug":"media-declarations"}
+{"type":"page-type/type-declaration"}

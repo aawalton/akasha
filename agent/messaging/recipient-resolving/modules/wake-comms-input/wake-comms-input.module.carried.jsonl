@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A message from an agent is sent by the agent prefix and its id."},{"decisionKind":"decision-kind/departure","statement":"A message from anything else is sent by its source."},{"decisionKind":"decision-kind/absence","statement":"Nothing here decides whether the message wakes anyone."}]}
+{"definition":"a stored message row shaped as the input the wake rules read"}
+{"id":"01a0691b-4f64-7b71-ba64-5c92023f77fe"}
+{"slug":"wake-comms-input"}
+{"type":"page-type/module"}

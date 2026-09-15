@@ -1,0 +1,19 @@
+{"baseName":"Dual Wield Expert"}
+{"description":"\"Increases Weapon and Spell Damage by 6% of off-hand weapon's damage.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45477}
+{"icon":"/esoui/art/icons/ability_weapon_013.dds"}
+{"id":"019e6226-00e8-70bc-a563-a202d9a3cd1b"}
+{"isMorph":false}
+{"key":"dual-wield-expert"}
+{"learnedLevel":17}
+{"lineRankNeeded":17}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"passive"}
+{"slug":"dual-wield-expert"}
+{"status":"unsupported"}
+{"subcategoryId":"weapon-dual-wield"}
+{"title":"Dual Wield Expert"}
+{"type":"page-type/temper-skill"}

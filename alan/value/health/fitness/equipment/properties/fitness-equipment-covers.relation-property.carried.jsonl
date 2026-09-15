@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A piece answering for no kit a movement names covers nothing."}]}
+{"definition":"the kit a movement names that this piece answers for"}
+{"id":"01a09338-8296-7d00-8ec3-c16e1350135b"}
+{"propertySlug":"covers"}
+{"slug":"fitness-equipment-covers"}
+{"targetPageType":"page-type/strength-exercise-implement"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

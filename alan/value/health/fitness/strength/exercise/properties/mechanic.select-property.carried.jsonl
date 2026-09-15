@@ -1,0 +1,7 @@
+{"definition":"whether the movement crosses one joint or several"}
+{"id":"01a0657e-2bbf-7358-a603-36a24d364e4e"}
+{"propertySlug":"mechanic"}
+{"slug":"mechanic"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["compound","isolation"]}

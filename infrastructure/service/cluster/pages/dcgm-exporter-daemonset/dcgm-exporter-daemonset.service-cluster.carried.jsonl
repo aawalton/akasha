@@ -1,0 +1,10 @@
+{"containerPort":9400}
+{"definition":"the daemon that publishes each node's graphics card as metrics"}
+{"id":"01a06812-2380-779b-83b3-f7f564f62401"}
+{"image":"nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04"}
+{"manifest":["manifest/dcgm-exporter-daemonset"]}
+{"namespace":"kube-system"}
+{"resourceKind":"DaemonSet"}
+{"resourceName":"dcgm-exporter"}
+{"slug":"dcgm-exporter-daemonset"}
+{"type":"page-type/service-cluster"}

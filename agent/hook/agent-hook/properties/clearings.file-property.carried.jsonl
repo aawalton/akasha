@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One line has one clearing."},{"decisionKind":"decision-kind/departure","statement":"A line names the agent cleared, or says none was named."},{"decisionKind":"decision-kind/departure","statement":"A line is appended rather than written over."},{"decisionKind":"decision-kind/departure","statement":"Lines are kept outside the commit."},{"decisionKind":"decision-kind/absence","statement":"No author writes a line here by hand."}]}
+{"definition":"the contexts a hook cleared, one line for each"}
+{"extensions":["jsonl"]}
+{"generated":true}
+{"id":"01a09c42-2954-7ac4-b9bf-76a533d55823"}
+{"propertySlug":"clearings"}
+{"runsFileLength":false}
+{"slug":"clearings"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

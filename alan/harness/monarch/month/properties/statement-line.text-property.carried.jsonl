@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A statement line never changes."},{"decisionKind":"decision-kind/departure","statement":"Monarch's title for the same row changes without warning."},{"decisionKind":"decision-kind/departure","statement":"A merchant's patterns are taken from here rather than from a title."}]}
+{"definition":"the words the bank put on a row"}
+{"id":"01a0680b-2b00-7006-b917-5d4a8e2f2107"}
+{"maxLength":400}
+{"nameFormat":null}
+{"propertySlug":"statement-line"}
+{"slug":"statement-line"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

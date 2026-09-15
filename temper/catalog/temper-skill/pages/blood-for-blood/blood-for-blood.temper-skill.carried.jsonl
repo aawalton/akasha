@@ -1,0 +1,17 @@
+{"baseName":"Eviscerate"}
+{"description":"\"Rend an enemy, dealing 2323 Magic Damage and applying the Hemorrhaging status effect.\\n\\nDeals up to 75% more damage based on your missing Health.\\n\\nAfter you cast this ability, you cannot be healed by allies for 3 seconds.\""}
+{"esoSkillId":41902}
+{"icon":"/esoui/art/icons/ability_u26_vampire_01_a.dds"}
+{"id":"019e6251-4c8d-75d9-a252-7a50fc0632f3"}
+{"isMorph":true}
+{"key":"blood-for-blood"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"world-vampire"}
+{"skillType":"active"}
+{"slug":"blood-for-blood"}
+{"subcategoryId":"world-vampire"}
+{"title":"Blood for Blood"}
+{"type":"page-type/temper-skill"}

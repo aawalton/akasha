@@ -1,0 +1,8 @@
+{"displayOrder":0}
+{"id":"019e2fcd-59d1-72f8-86dc-0707ff81b11a"}
+{"nodeId":"burning-damage"}
+{"nodeType":"metric"}
+{"parent":"subcategory-status-damage"}
+{"slug":"metric-burning-damage"}
+{"title":"Burning Damage"}
+{"type":"page-type/temper-metric-tree"}

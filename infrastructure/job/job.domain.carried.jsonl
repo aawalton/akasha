@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A job that fails leaves its object behind."},{"decisionKind":"decision-kind/departure","statement":"A later run succeeding does not remove the object a failed job left."}]}
+{"definition":"a workload that runs to completion and stops"}
+{"id":"01a0675b-16eb-7759-adf7-dac753ca5b98"}
+{"parts":["manifest/deploy-account","manifest/pod-janitor","module/deploy-job","module/deploy-job-running"]}
+{"slug":"job"}
+{"type":"page-type/domain"}

@@ -1,0 +1,13 @@
+{"abilityIcon":"/esoui/art/icons/ability_grimoire_staffdestro.dds"}
+{"affixScripts":"jsonl"}
+{"focusScripts":["dispel","flame-damage","frost-damage","knockback","magic-damage","physical-damage","shock-damage","stun","trauma"]}
+{"icon":"/esoui/art/icons/item_grimoire_staffdestro.dds"}
+{"id":"01a05fce-2956-7d68-a22a-9f1a48952793"}
+{"itemId":204488}
+{"key":"elemental-explosion"}
+{"signatureScripts":"jsonl"}
+{"skillLineId":"weapon-destruction-staff"}
+{"slug":"elemental-explosion"}
+{"title":"Elemental Explosion"}
+{"type":"page-type/temper-grimoire"}
+{"uespId":5}

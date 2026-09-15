@@ -1,0 +1,7 @@
+{"definition":"how much of the context window a seat has spent, in tokens"}
+{"id":"01a0540f-f536-742b-bc8e-9887484f4426"}
+{"max":null}
+{"propertySlug":"context-tokens"}
+{"slug":"context-tokens"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

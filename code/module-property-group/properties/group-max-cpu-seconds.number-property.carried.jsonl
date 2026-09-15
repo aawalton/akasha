@@ -1,0 +1,7 @@
+{"definition":"the most processor time one run of a group's code may spend, in seconds"}
+{"id":"01a08bb3-5e69-75cb-8d94-70b459a24ce7"}
+{"max":null}
+{"propertySlug":"max-cpu-seconds"}
+{"slug":"group-max-cpu-seconds"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

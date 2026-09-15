@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here shapes a service, which a page type shapes instead."}]}
+{"definition":"what a declared inference host holds, and what a host says it is holding"}
+{"id":"01a0685d-4b35-7000-a89c-fa9904f3e21d"}
+{"slug":"inference-schema"}
+{"type":"page-type/module"}

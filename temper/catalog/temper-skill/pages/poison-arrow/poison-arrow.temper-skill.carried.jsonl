@@ -1,0 +1,17 @@
+{"baseName":"Poison Arrow"}
+{"description":"\"Shoot an arrow coated in Baandari poison at an enemy, dealing |cffffff4036|r Poison Damage and an additional |cffffff11420|r Poison Damage over |cffffff20|r seconds.\""}
+{"esoSkillId":28869}
+{"icon":"/esoui/art/icons/ability_bow_002.dds"}
+{"id":"019e6f53-a512-7745-9e73-92dbe61f3f29"}
+{"isMorph":false}
+{"key":"poison-arrow"}
+{"learnedLevel":1}
+{"lineRankNeeded":38}
+{"morphIndex":0}
+{"rank":38}
+{"skillLineId":"weapon-bow"}
+{"skillType":"active"}
+{"slug":"poison-arrow"}
+{"subcategoryId":"weapon-bow"}
+{"title":"Poison Arrow"}
+{"type":"page-type/temper-skill"}

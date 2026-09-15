@@ -1,0 +1,17 @@
+{"baseName":"Metal Extraction"}
+{"description":"\"Maximizes the chances of extracting Blacksmithing ingredients and allows the refining of the most powerful tempers from raw materials.\""}
+{"esoSkillId":48165}
+{"icon":"/esoui/art/icons/ability_smith_003.dds"}
+{"id":"019e6224-cca3-7a12-a2d2-e4db0a2d411d"}
+{"isMorph":false}
+{"key":"metal-extraction"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-blacksmithing"}
+{"skillType":"passive"}
+{"slug":"metal-extraction"}
+{"subcategoryId":"craft-blacksmithing"}
+{"title":"Metal Extraction"}
+{"type":"page-type/temper-skill"}

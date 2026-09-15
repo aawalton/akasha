@@ -1,0 +1,19 @@
+{"baseName":"Dexterity"}
+{"description":"\"Increases your Critical Damage and Healing done rating by 2% for every piece of Medium Armor equipped.\\n\\nCurrent bonus: 0%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45564}
+{"icon":"/esoui/art/icons/ability_armor_008.dds"}
+{"id":"019e6238-c2b3-7c77-ab59-f2c0250d072b"}
+{"isMorph":false}
+{"key":"dexterity"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"armor-medium-armor"}
+{"skillType":"passive"}
+{"slug":"dexterity"}
+{"status":"supported"}
+{"subcategoryId":"armor-medium-armor"}
+{"title":"Dexterity"}
+{"type":"page-type/temper-skill"}

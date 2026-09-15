@@ -1,0 +1,18 @@
+{"baseName":"Falcon's Swiftness"}
+{"description":"\"Invoke the spirit of agility to gain Major Expedition for 6 seconds, increasing your Movement Speed by 30%.\\n\\nGain immunity to snares and immobilizations for 4 seconds.\\n\\nWhile slotted you gain Minor Berserk, increasing your damage done by 5%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":86048}
+{"icon":"/esoui/art/icons/ability_warden_016_a.dds"}
+{"id":"019e6245-a5f7-7251-9262-2ce8e8776426"}
+{"isMorph":true}
+{"key":"bird-of-prey"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"warden-animal-companions"}
+{"skillType":"active"}
+{"slug":"bird-of-prey"}
+{"subcategoryId":"warden-animal-companions"}
+{"title":"Bird of Prey"}
+{"type":"page-type/temper-skill"}

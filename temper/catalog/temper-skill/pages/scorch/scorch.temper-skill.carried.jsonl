@@ -1,0 +1,17 @@
+{"baseName":"Scorch"}
+{"description":"\"Stir a group of shalk that attack after |cffffff3|r seconds, dealing |cffffff9215|r Magic Damage to enemies in front of you.\\n\\nAfter the shalk complete their attack, they burrow underground for |cffffff6|r seconds and then resurface again, dealing |cffffff12802|r Magic Damage to enemies in front of you.\""}
+{"esoSkillId":86009}
+{"icon":"/esoui/art/icons/ability_warden_015.dds"}
+{"id":"019e6f53-a6c3-776d-b0d2-da0d793f5575"}
+{"isMorph":false}
+{"key":"scorch"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"warden-animal-companions"}
+{"skillType":"active"}
+{"slug":"scorch"}
+{"subcategoryId":"warden-animal-companions"}
+{"title":"Scorch"}
+{"type":"page-type/temper-skill"}

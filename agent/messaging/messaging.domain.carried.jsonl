@@ -1,0 +1,5 @@
+{"definition":"a message carried to the agent it names"}
+{"id":"01a08842-144e-783f-af6d-2e8a02ad5e8d"}
+{"parts":["domain/recipient-resolving","module/agent-record","module/channel-delivery","module/message-file","module/message-file-watch","module/message-naming","module/messages-agent-id","module/messages-agent-tools","module/messages-console-stdout-guard","module/messages-delivery-witness","module/messages-mcp","module/supervisor-claimed-reconcile","module/supervisor-claimed-redelivery-decide","module/supervisor-message-claim","module/supervisor-redelivery-holdoff","page-type/message","page-type/notice"]}
+{"slug":"messaging"}
+{"type":"page-type/domain"}

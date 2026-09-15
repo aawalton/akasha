@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A script names a file in this checkout against the root the script found."},{"decisionKind":"decision-kind/departure","statement":"The root is written `$AKASHA_ROOT`, `${AKASHA_ROOT}` or `${AKASHA_ROOT:-a fallback}`."},{"decisionKind":"decision-kind/departure","statement":"A name begins after the separator that follows the root."},{"decisionKind":"decision-kind/departure","statement":"A name runs from the root to the closing quote of the word holding it."},{"decisionKind":"decision-kind/departure","statement":"Every name a line holds is answered rather than the first alone."},{"decisionKind":"decision-kind/departure","statement":"A line naming no such file holds no name."},{"decisionKind":"decision-kind/absence","statement":"A root with no quote directly before it holds no name."},{"decisionKind":"decision-kind/absence","statement":"A word holding a further expansion holds no name."},{"decisionKind":"decision-kind/absence","statement":"A name built on a variable other than the root is not read here."},{"decisionKind":"decision-kind/absence","statement":"Whether a name reaches a file that is there is not judged here."}]}
+{"definition":"the paths a composed script names under the checkout root"}
+{"id":"01a08ee1-df5c-739b-aaae-9c94d47a27ee"}
+{"slug":"script-paths"}
+{"test":"ts"}
+{"type":"page-type/test-fixture"}

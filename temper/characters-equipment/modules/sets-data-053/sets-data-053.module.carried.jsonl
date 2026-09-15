@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The sets are named here in the order the gathered table answers its ids in."},{"decisionKind":"decision-kind/gap","statement":"A set moved to another place breaks every build hash saved."}]}
+{"definition":"part 053 of the gear set table, leviathan through lucent-echoes"}
+{"id":"01a061a3-3080-7f8d-9dc4-f28670e955bd"}
+{"slug":"sets-data-053"}
+{"type":"page-type/module"}

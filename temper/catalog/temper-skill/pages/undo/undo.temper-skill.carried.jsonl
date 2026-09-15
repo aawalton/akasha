@@ -1,0 +1,17 @@
+{"baseName":"Undo"}
+{"description":"\"Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were |cffffff4|r seconds ago.\""}
+{"esoSkillId":103478}
+{"icon":"/esoui/art/icons/ability_psijic_001.dds"}
+{"id":"019e6f53-a881-79c5-ae8b-ce5a5374a9a1"}
+{"isMorph":false}
+{"key":"undo"}
+{"learnedLevel":1}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":10}
+{"skillLineId":"guild-psijic-order"}
+{"skillType":"ultimate"}
+{"slug":"undo"}
+{"subcategoryId":"guild-psijic-order"}
+{"title":"Undo"}
+{"type":"page-type/temper-skill"}

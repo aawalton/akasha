@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/output"},{"argument":"argument/timeout"},{"argument":"argument/seed"},{"argument":"argument/steps"},{"argument":"argument/size"},{"argument":"argument/lightning"},{"argument":"argument/context","required":true},{"argument":"argument/direction","required":true},{"argument":"argument/context-frames"},{"argument":"argument/new-frames"},{"argument":"argument/prompt-file"},{"argument":"argument/negative-prompt-file"},{"argument":"argument/negative-prompt","notWith":["argument/negative-prompt-file"]},{"argument":"argument/render-prompt","notWith":["argument/prompt-file"],"oneOf":["argument/prompt-file"]}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every word this takes is a flag or a flag's value."},{"decisionKind":"decision-kind/departure","statement":"A flag this does not take is refused rather than passed over."},{"decisionKind":"decision-kind/departure","statement":"Only the frames beside the conditioning window are denoised."},{"decisionKind":"decision-kind/constraint","statement":"One workload runs on the GPU at a time."},{"decisionKind":"decision-kind/gap","statement":"Nothing here waits for the GPU to come free."},{"decisionKind":"decision-kind/absence","statement":"Nothing here starts the container or provisions the weights."},{"decisionKind":"decision-kind/departure","statement":"An extend that threw after staging names that staging in its refusal."},{"decisionKind":"decision-kind/departure","statement":"A fault carries the code that fault names and says where it was thrown."},{"decisionKind":"decision-kind/departure","statement":"The rendering is handed in."}]}
+{"definition":"the command rendering fresh frames before or after a clip"}
+{"id":"01a093fb-0896-7f06-b8ca-489590932fe3"}
+{"name":"extend"}
+{"slug":"inference-wan-extend"}
+{"test":"ts"}
+{"type":"page-type/command"}

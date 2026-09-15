@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A kind reaches a file wherever in a repository that file sits."},{"decisionKind":"decision-kind/departure","statement":"A kind is told from a file's name rather than from the bytes the file has."},{"decisionKind":"decision-kind/gap","statement":"The pattern and the bytes and the splitting a kind states have no property here yet."}]}
+{"definition":"one kind of file, told by the name a file has"}
+{"extends":["page-type/domain"]}
+{"id":"01a06837-0535-70c2-9917-d332b4b6a505"}
+{"properties":[]}
+{"schema":"jsonl"}
+{"slug":"file-kind-domain"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

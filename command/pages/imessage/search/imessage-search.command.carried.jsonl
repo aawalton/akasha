@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/query-file","notWith":["argument/message-query"],"oneOf":["argument/message-query"]},{"argument":"argument/message-query","saidAs":"flag-or-word","oneOf":["argument/query-file"]},{"argument":"argument/contact"},{"argument":"argument/limit","default":"20"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The messages are answered oldest first."},{"decisionKind":"decision-kind/departure","statement":"The store is over-asked and the answer is narrowed against the decoded text."},{"decisionKind":"decision-kind/departure","statement":"The match the store makes minds the case and the match made after that match does not."},{"decisionKind":"decision-kind/departure","statement":"The newest matches win where more match than the limit allows."},{"decisionKind":"decision-kind/departure","statement":"A run of characters read from a file has no closing line ending."},{"decisionKind":"decision-kind/departure","statement":"A contact matching nobody refuses rather than answering empty."},{"decisionKind":"decision-kind/departure","statement":"A call saying no limit gives back twenty matches."},{"decisionKind":"decision-kind/departure","statement":"A call naming nothing to search for is refused before any file is read."}]}
+{"definition":"the command giving back the messages whose text has a run of characters"}
+{"id":"01a0685f-c8ed-7003-b10c-862bb54dd76a"}
+{"name":"search"}
+{"slug":"imessage-search"}
+{"test":"ts"}
+{"type":"page-type/command"}

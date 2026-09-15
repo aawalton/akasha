@@ -1,0 +1,17 @@
+{"baseName":"Berserker Strike"}
+{"description":"\"Strike at an enemy with a vicious blow, dealing |cffffff12116|r Physical Damage to them and all nearby enemies.\\n\\nThis attack ignores the target's Physical Resistance, and grants you Physical and Spell Resistance equal to the amount ignored from the initial target for |cffffff12|r seconds.\""}
+{"esoSkillId":83216}
+{"icon":"/esoui/art/icons/ability_2handed_006.dds"}
+{"id":"019e6f53-9f05-7485-a764-fc8263de60e7"}
+{"isMorph":false}
+{"key":"berserker-strike"}
+{"learnedLevel":1}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":50}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"ultimate"}
+{"slug":"berserker-strike"}
+{"subcategoryId":"weapon-two-handed"}
+{"title":"Berserker Strike"}
+{"type":"page-type/temper-skill"}

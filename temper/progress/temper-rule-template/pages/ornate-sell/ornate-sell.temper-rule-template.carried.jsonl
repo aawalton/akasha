@@ -1,0 +1,12 @@
+{"action":"temper-item-action/sell"}
+{"active":false}
+{"categoryId":"equipment"}
+{"conditions":"jsonl"}
+{"description":"Sells equipment with the Ornate trait. Ornate items sell for more gold at merchants and have no crafting use."}
+{"displayOrder":15}
+{"goal":"temper-rule-goal/sell"}
+{"id":"019e3104-2613-7620-a301-5c9e506a7b7a"}
+{"key":"ornate-sell"}
+{"slug":"ornate-sell"}
+{"title":"Sell ornate gear"}
+{"type":"page-type/temper-rule-template"}

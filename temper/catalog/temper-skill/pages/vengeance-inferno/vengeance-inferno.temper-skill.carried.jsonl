@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Inferno"}
+{"description":"\"Surround yourself in an aura of flames, granting you Major Berserk for |cffffff20|r seconds, increasing your damage done by |cffffff10|r%.\""}
+{"esoSkillId":237624}
+{"icon":"/esoui/art/icons/ability_dragonknight_002.dds"}
+{"id":"019e6f53-a92a-7d75-af3c-4d2b87eee4ac"}
+{"isMorph":false}
+{"key":"vengeance-inferno"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-dragonknight-ardent-flame"}
+{"skillType":"active"}
+{"slug":"vengeance-inferno"}
+{"subcategoryId":"vengeance-dragonknight-ardent-flame"}
+{"title":"Vengeance Inferno"}
+{"type":"page-type/temper-skill"}

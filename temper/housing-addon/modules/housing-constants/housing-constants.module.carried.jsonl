@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A number saved under a player's settings keeps the meaning that number had."}]}
+{"definition":"the tab, sort, filter and port-mode numbers the housing window works by"}
+{"id":"01a06113-b7cd-70cb-83dd-840a25b71d13"}
+{"slug":"housing-constants"}
+{"type":"page-type/module"}

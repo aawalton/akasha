@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The dungeon name follows the parent zone name in square brackets."},{"decisionKind":"decision-kind/constraint","statement":"A set whose zones are identical is treated as a single zone."},{"decisionKind":"decision-kind/departure","statement":"Every text is built once with textures and once plain."}]}
+{"definition":"the whole drop text for a set built from its per-zone pieces"}
+{"id":"01a06231-8f1e-7a46-8a06-c666a6d92267"}
+{"slug":"lib-sets-tip-drop-mechanic-render"}
+{"type":"page-type/module"}

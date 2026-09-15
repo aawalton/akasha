@@ -1,0 +1,17 @@
+{"baseName":"Equilibrium"}
+{"description":"\"Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for |cffffff3000|r Magicka.\\n\\nAfter the exchange is complete, the cost of your next Magicka ability is reduced by |cffffff33|r% for |cffffff5|r seconds.\\n\\nThe exchange reduces your healing done and damage shield strength by |cffffff50|r% for |cffffff4|r seconds.\""}
+{"esoSkillId":40445}
+{"icon":"/esoui/art/icons/ability_mageguild_003_a.dds"}
+{"id":"019e6f53-a794-7253-90bf-2b7110d24d3a"}
+{"isMorph":true}
+{"key":"spell-symmetry-40445"}
+{"learnedLevel":1}
+{"lineRankNeeded":8}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"guild-mages-guild"}
+{"skillType":"active"}
+{"slug":"spell-symmetry-40445"}
+{"subcategoryId":"guild-mages-guild"}
+{"title":"Spell Symmetry"}
+{"type":"page-type/temper-skill"}

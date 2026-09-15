@@ -1,0 +1,12 @@
+{"displayOrder":19}
+{"effect":"Increases Potion Effect Duration"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_INCREASE_POTION_EFFECTIVENESS"}
+{"essenceRune":"Oru"}
+{"glyphName":"Glyph of Potion Boost"}
+{"id":"019e5c85-d962-7c52-8074-8d27ca9e6822"}
+{"key":"potion-boost"}
+{"qualityValues":"jsonl"}
+{"slug":"potion-boost"}
+{"title":"Potion Boost"}
+{"type":"page-type/temper-jewelry-enchant"}

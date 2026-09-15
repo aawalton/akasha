@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The markup reaches XMLGetDynamicWidth on the library global."}]}
+{"definition":"the width a control takes from the width of the window with it"}
+{"id":"01a0623e-53a0-708b-a8c0-947cba1427e9"}
+{"slug":"lib-sets-search-ui-xml-api"}
+{"type":"page-type/module"}

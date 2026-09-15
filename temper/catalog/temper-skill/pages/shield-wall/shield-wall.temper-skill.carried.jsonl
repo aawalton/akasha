@@ -1,0 +1,17 @@
+{"baseName":"Shield Wall"}
+{"description":"\"Reinforce your shield, allowing you to automatically block all attacks at no cost for |cffffff6|r seconds.\""}
+{"esoSkillId":83272}
+{"icon":"/esoui/art/icons/ability_1handed_006.dds"}
+{"id":"019e6f53-a6fa-7f5d-9172-c96f8cadac4f"}
+{"isMorph":false}
+{"key":"shield-wall"}
+{"learnedLevel":1}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":50}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"ultimate"}
+{"slug":"shield-wall"}
+{"subcategoryId":"weapon-one-hand-and-shield"}
+{"title":"Shield Wall"}
+{"type":"page-type/temper-skill"}

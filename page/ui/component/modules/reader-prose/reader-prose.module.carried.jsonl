@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"Parses a prose body into blocks, splits inline emphasis, and estimates each block's height."}
+{"id":"01a05c3d-a2e7-7b06-a66e-82d41ecf1e27"}
+{"slug":"reader-prose"}
+{"type":"page-type/module"}

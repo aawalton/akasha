@@ -1,0 +1,8 @@
+{"displayOrder":1}
+{"id":"019e2fcd-5a17-71dc-a75c-109eaa831cc2"}
+{"nodeId":"health-ability-cost"}
+{"nodeType":"metric"}
+{"parent":"subcategory-costs"}
+{"slug":"metric-health-ability-cost"}
+{"title":"Health Ability Cost"}
+{"type":"page-type/temper-metric-tree"}

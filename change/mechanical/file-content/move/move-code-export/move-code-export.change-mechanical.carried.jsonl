@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-move"}
+{"changeTargetSubtype":"change-target-subtype/file-content-code"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A landing path anywhere in the repository is taken."},{"decisionKind":"decision-kind/departure","statement":"A landing path holding no body is refused rather than written."},{"decisionKind":"decision-kind/departure","statement":"That refusal names the change making a file that is not there yet."},{"decisionKind":"decision-kind/departure","statement":"One export is carried by one call."},{"decisionKind":"decision-kind/departure","statement":"What the carrying leaves is worked out by the module this change names."},{"decisionKind":"decision-kind/departure","statement":"A refusal that module answers is the refusal this change answers."},{"decisionKind":"decision-kind/departure","statement":"Each passage the carrying leaves is written by the change this change reaches."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a body of its own."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out which passages the carrying leaves."}]}
+{"definition":"one export moved from one code body to another, with every importer repointed"}
+{"id":"01a08799-4f75-7fb6-bcf9-3392494a57da"}
+{"slug":"move-code-export"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical"}

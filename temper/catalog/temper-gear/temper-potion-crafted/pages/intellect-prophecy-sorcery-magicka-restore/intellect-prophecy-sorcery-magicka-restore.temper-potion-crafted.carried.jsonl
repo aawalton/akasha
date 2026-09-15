@@ -1,0 +1,11 @@
+{"description":"Grants Restore Magicka, Increase Spell Power, Spell Critical."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_006_type_005.dds"}
+{"id":"019e21f6-4065-7d5c-a414-89a62ad66e2d"}
+{"key":"intellect-prophecy-sorcery-magicka-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Corn Flower","Crimson Nirnroot","Lady's Smock"]},{"names":["Corn Flower","Lady's Smock","Namira's Rot"]},{"names":["Corn Flower","Lady's Smock","Water Hyacinth"]}]}
+{"seconds":47}
+{"slug":"intellect-prophecy-sorcery-magicka-restore"}
+{"title":"Essence of Spell Power"}
+{"type":"page-type/temper-potion-crafted"}

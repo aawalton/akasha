@@ -1,0 +1,12 @@
+{"displayOrder":5}
+{"effect":"Reduces target armor for 5 seconds (proc-based with ~50% uptime)"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_REDUCE_ARMOR"}
+{"essenceRune":"Derado"}
+{"glyphName":"Glyph of Crushing"}
+{"id":"019e5c0d-dcf2-7ea9-8369-59125d45ba78"}
+{"key":"crushing"}
+{"qualityValues":"jsonl"}
+{"slug":"crushing"}
+{"title":"Crushing"}
+{"type":"page-type/temper-weapon-enchant"}

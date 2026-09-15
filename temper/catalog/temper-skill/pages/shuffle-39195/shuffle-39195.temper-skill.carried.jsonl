@@ -1,0 +1,17 @@
+{"baseName":"Evasion"}
+{"description":"\"Shroud yourself in mist to gain Major Evasion, decreasing damage taken from area attacks by |cffffff20|r% for |cffffff20|r seconds.\\n\\nEach piece of Medium Armor worn removes and grants immunity to snares and immobilizations for |cffffff1|r second.\""}
+{"esoSkillId":39195}
+{"icon":"/esoui/art/icons/ability_armor_002_a.dds"}
+{"id":"019e6f53-a713-7c0d-8451-91806e516dc4"}
+{"isMorph":true}
+{"key":"shuffle-39195"}
+{"learnedLevel":1}
+{"lineRankNeeded":22}
+{"morphIndex":1}
+{"rank":22}
+{"skillLineId":"armor-medium-armor"}
+{"skillType":"active"}
+{"slug":"shuffle-39195"}
+{"subcategoryId":"armor-medium-armor"}
+{"title":"Shuffle"}
+{"type":"page-type/temper-skill"}

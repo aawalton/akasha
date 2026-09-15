@@ -1,0 +1,7 @@
+{"definition":"how many pieces of a set are worn before a bonus is given"}
+{"id":"01a05fd1-d436-7f9e-bfcc-cfbbe3c44331"}
+{"max":null}
+{"propertySlug":"count"}
+{"slug":"bonus-count"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

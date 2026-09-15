@@ -1,0 +1,17 @@
+{"baseName":"Teleport Strike"}
+{"description":"\"Flash through the shadows and ambush an enemy, dealing |cffffff5571|r Magic Damage and afflicting them with Minor Vulnerability for |cffffff10|r seconds, increasing their damage taken by |cffffff5|r%.\""}
+{"esoSkillId":18342}
+{"icon":"/esoui/art/icons/ability_nightblade_008.dds"}
+{"id":"019e6f53-a824-70b1-adc7-54c9660bb87f"}
+{"isMorph":false}
+{"key":"teleport-strike"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"nightblade-assassination"}
+{"skillType":"active"}
+{"slug":"teleport-strike"}
+{"subcategoryId":"nightblade-assassination"}
+{"title":"Teleport Strike"}
+{"type":"page-type/temper-skill"}

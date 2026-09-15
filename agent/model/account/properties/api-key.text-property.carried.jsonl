@@ -1,0 +1,8 @@
+{"definition":"the key a request to a provider is authorised by"}
+{"id":"01a0a21e-187f-7ae6-9485-f180900a5191"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"api-key"}
+{"slug":"api-key"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

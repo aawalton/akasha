@@ -1,0 +1,8 @@
+{"definition":"ripgrep reached without a socket on its input"}
+{"id":"01a06864-40db-7fc2-a601-054aa52bdfc7"}
+{"installPath":"~/.local/bin/rg"}
+{"onlyOn":"any"}
+{"shell":"sh"}
+{"slug":"rg"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

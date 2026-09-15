@@ -1,0 +1,8 @@
+{"alchemyEffects":["increase-spell-resist","restore-health","cowardice","restore-magicka"]}
+{"icon":"resources/vipers_bugloss_r1.png"}
+{"id":"019e21f7-3b08-742e-8c13-d4033e20e18a"}
+{"itemId":30160}
+{"key":"bugloss"}
+{"slug":"bugloss"}
+{"title":"Bugloss"}
+{"type":"page-type/temper-reagent"}

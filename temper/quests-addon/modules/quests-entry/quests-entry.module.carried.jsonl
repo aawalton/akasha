@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Nothing is set going before the game says the addon has loaded."},{"decisionKind":"decision-kind/departure","statement":"The saved variables are reached before any other part of the addon runs."},{"decisionKind":"decision-kind/departure","statement":"The global is published as the bundle loads rather than on the loaded event."}]}
+{"definition":"the order the addon's parts are set going in once the game has loaded it"}
+{"id":"01a0635f-391c-75b0-b95a-d199d158f50a"}
+{"slug":"quests-entry"}
+{"type":"page-type/module"}

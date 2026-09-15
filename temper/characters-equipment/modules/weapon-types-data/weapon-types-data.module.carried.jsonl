@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This table is written out from the weapon pages rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"A weapon's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A weapon moved to another place breaks every build hash saved."},{"decisionKind":"decision-kind/upkeep","statement":"The generator writes this table outside akasha."}]}
+{"definition":"every weapon a character wields, with the power each carries and the hands each takes"}
+{"id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
+{"slug":"weapon-types-data"}
+{"type":"page-type/module"}

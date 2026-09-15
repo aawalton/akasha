@@ -1,0 +1,8 @@
+{"definition":"what validates and converts cert-manager resources as they are written"}
+{"id":"01a068e5-527c-7030-88b5-ece6202b1900"}
+{"namespace":"cert-manager"}
+{"resourceKind":"Deployment"}
+{"resourceName":"cert-manager-webhook"}
+{"slug":"cert-manager-webhook"}
+{"title":"Cert manager webhook"}
+{"type":"page-type/vendored-workload"}

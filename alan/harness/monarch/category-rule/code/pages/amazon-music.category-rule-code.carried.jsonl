@@ -1,0 +1,7 @@
+{"category":"monarch-category/shopping"}
+{"id":"01a0655b-fccf-7001-8bf8-3789babaeee5"}
+{"matches":[{"key":"merchant","comparison":"is","values":["digital purchase"]},{"key":"amount","comparison":"is","values":["-18.26"]}]}
+{"ruleNote":"Amazon Music subscription"}
+{"slug":"amazon-music"}
+{"title":"Amazon music"}
+{"type":"page-type/category-rule-code"}

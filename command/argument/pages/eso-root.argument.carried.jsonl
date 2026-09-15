@@ -1,0 +1,7 @@
+{"id":"01a094a4-3859-7270-ba32-fb61b1be955b"}
+{"placeholder":"path"}
+{"said":"--eso-root"}
+{"slug":"eso-root"}
+{"takes":"the game's Lua source root, the `~/esoui` clone where none is said"}
+{"type":"page-type/argument"}
+{"value":"path"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The poll refetches a transaction whose moment has moved past the moment held here."}]}
+{"definition":"the moment Monarch last changed a transaction"}
+{"id":"01a0680b-2b00-7002-b471-2e8c6a3d2103"}
+{"propertySlug":"monarch-updated-at"}
+{"slug":"monarch-updated-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

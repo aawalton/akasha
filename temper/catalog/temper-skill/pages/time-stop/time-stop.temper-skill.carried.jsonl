@@ -1,0 +1,17 @@
+{"baseName":"Time Stop"}
+{"description":"\"Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area during the channel before finally stunning them in place for |cffffff3|r seconds when the channel completes.\""}
+{"esoSkillId":103488}
+{"icon":"/esoui/art/icons/ability_psijic_002.dds"}
+{"id":"019e6f53-a843-7eb3-b870-44fc28a8404e"}
+{"isMorph":false}
+{"key":"time-stop"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"guild-psijic-order"}
+{"skillType":"active"}
+{"slug":"time-stop"}
+{"subcategoryId":"guild-psijic-order"}
+{"title":"Time Stop"}
+{"type":"page-type/temper-skill"}

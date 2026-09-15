@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A line says where the reference comes from and what it comes through."},{"decisionKind":"decision-kind/departure","statement":"A reference through a page property comes through that property's slug."},{"decisionKind":"decision-kind/departure","statement":"An import comes through the slug `import`, which no page property holds."},{"decisionKind":"decision-kind/departure","statement":"A reference to a file beside the page says that file's name."},{"decisionKind":"decision-kind/departure","statement":"A reference to the page itself says no file name."},{"decisionKind":"decision-kind/departure","statement":"A line naming this page through a property carries the naming page's id."},{"decisionKind":"decision-kind/departure","statement":"The lines are sorted, so one reference that changes moves one line."},{"decisionKind":"decision-kind/absence","statement":"A page nothing references has no file."},{"decisionKind":"decision-kind/departure","statement":"An import is referenced by the path a specifier reaches rather than by the specifier."}]}
+{"definition":"what names this page or imports a file beside it, one line to a reference"}
+{"extensions":["jsonl"]}
+{"generated":true}
+{"id":"01a0a2e9-c513-7eed-aa47-3b272814218c"}
+{"propertySlug":"referenced-by"}
+{"runsFileLength":false}
+{"slug":"referenced-by"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

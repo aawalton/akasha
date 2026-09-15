@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"These records are one unbroken run of the whole table's order."},{"decisionKind":"decision-kind/departure","statement":"This run is the add-on's own source rather than anything akasha derives."}]}
+{"definition":"one run of the Shalidor's Library location table, in the order the whole table names it"}
+{"id":"01a06181-3842-73cb-82f1-8542b5a07f1c"}
+{"slug":"lorebooks-shalidor-locations-17"}
+{"type":"page-type/module"}

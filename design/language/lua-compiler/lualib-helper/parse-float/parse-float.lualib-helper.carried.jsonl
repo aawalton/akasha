@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the number a string opens with, or NaN where it opens with none"}
+{"id":"01a08c49-a2d3-7b2e-a31b-b2e49c0ab21d"}
+{"luaExport":"__TS__ParseFloat"}
+{"slug":"parse-float"}
+{"type":"page-type/lualib-helper"}

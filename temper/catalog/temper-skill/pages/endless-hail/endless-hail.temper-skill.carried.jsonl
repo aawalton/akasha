@@ -1,0 +1,17 @@
+{"baseName":"Volley"}
+{"description":"\"Launch a multitude of arrows into the sky to rain down, dealing 343 Physical Damage to enemies in the target area every 1 second for 13 seconds, after a 2 second delay.\""}
+{"esoSkillId":40932}
+{"icon":"/esoui/art/icons/ability_bow_003_a.dds"}
+{"id":"019e6226-00ed-7e44-81a7-47b4f2f7efe3"}
+{"isMorph":true}
+{"key":"endless-hail"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"weapon-bow"}
+{"skillType":"active"}
+{"slug":"endless-hail"}
+{"subcategoryId":"weapon-bow"}
+{"title":"Endless Hail"}
+{"type":"page-type/temper-skill"}

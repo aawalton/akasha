@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An entry stating nothing here states the opposite."}]}
+{"definition":"whether a transaction is one Monarch expects again"}
+{"id":"01a0680b-2b00-700e-9358-2b7d4a6e210f"}
+{"propertySlug":"recurring"}
+{"slug":"recurring"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

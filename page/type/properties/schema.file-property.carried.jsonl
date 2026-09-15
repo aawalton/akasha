@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type holds what it declares and what every page type above it declares."},{"decisionKind":"decision-kind/departure","statement":"A property a page type declares again is held once, as that page type declares it."},{"decisionKind":"decision-kind/departure","statement":"A line holds the property worked out whole, so a reader reads no second page."},{"decisionKind":"decision-kind/departure","statement":"A line holds everything the declaration says and everything the property's own page says."},{"decisionKind":"decision-kind/departure","statement":"A line says which page type above declared the property."},{"decisionKind":"decision-kind/departure","statement":"The lines are sorted, so a property that changes moves one line."},{"decisionKind":"decision-kind/departure","statement":"A page type declaring no property has a file with no line."},{"decisionKind":"decision-kind/departure","statement":"Every page type's file is written again when any page type or page property changes."}]}
+{"definition":"everything it takes to work with a page type, one line to a property"}
+{"extensions":["jsonl"]}
+{"generated":true}
+{"id":"01a0a224-fc4d-77a7-acc9-5ab9b742fdeb"}
+{"propertySlug":"schema"}
+{"runsFileLength":false}
+{"slug":"schema"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

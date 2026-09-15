@@ -1,0 +1,8 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/inventory-path"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The ring has a bounded count of traces."},{"decisionKind":"decision-kind/departure","statement":"The oldest trace goes when a new trace arrives."},{"decisionKind":"decision-kind/departure","statement":"Each trace has the station context, the pattern resolved and what verifying observed."},{"decisionKind":"decision-kind/departure","statement":"Each trace has the craft's outcome."}]}
+{"definition":"the command giving back the addon's ring of equipment master-writ craft traces"}
+{"id":"01a0603c-c1d5-708e-bb42-aa873ff7864f"}
+{"name":"craft-trace"}
+{"slug":"temper-inventory-master-craft-trace"}
+{"type":"page-type/command"}

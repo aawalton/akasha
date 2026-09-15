@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the namespace, the disk and the cron job copying the Postgres backups off to separate storage"}
+{"generatedDirectory":true}
+{"id":"01a07386-60c1-7d78-b901-14160ffce256"}
+{"slug":"seaweedfs-backup-cnpg"}
+{"type":"page-type/manifest"}

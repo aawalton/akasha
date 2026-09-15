@@ -1,0 +1,17 @@
+{"baseName":"Grim Focus"}
+{"description":"\"When slotted on either bar, you gain Major Prophecy and Major Savagery, increasing your Spell and Weapon Critical rating by |cffffff2629|r.\\n\\nYour Light and Heavy Attacks now generate a stack of Merciless Resolve, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\\n\\nWhen at |cffffff5|r or more stacks, you can consume |cffffff5|r to fire a spectral arrow to deal |cffffff16520|r Magic Damage and heal for |cffffff51|r% of the damage dealt, if you are in melee range.\""}
+{"esoSkillId":61919}
+{"icon":"/esoui/art/icons/ability_nightblade_005_b.dds"}
+{"id":"019e6f53-a478-730a-a222-8a45bd2c7d35"}
+{"isMorph":true}
+{"key":"merciless-resolve-61919"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":2}
+{"rank":42}
+{"skillLineId":"nightblade-assassination"}
+{"skillType":"active"}
+{"slug":"merciless-resolve-61919"}
+{"subcategoryId":"nightblade-assassination"}
+{"title":"Merciless Resolve"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The game says of each achievement whether that achievement is kept per character or per account."}]}
+{"definition":"every achievement's progress, read into the saved table under the account or the character"}
+{"id":"01a062e9-b6ff-701b-ad38-42cae450de18"}
+{"slug":"characters-achievements"}
+{"type":"page-type/module"}

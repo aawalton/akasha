@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/device-id"},{"argument":"argument/percent","required":true,"saidAs":"word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A percent past a hundred is refused rather than sent to Spotify."},{"decisionKind":"decision-kind/departure","statement":"A call naming no percent is refused rather than reading the loudness back."},{"decisionKind":"decision-kind/departure","statement":"A device named on the command line is set rather than the active device."},{"decisionKind":"decision-kind/departure","statement":"A call saying `--json` is answered one line of JSON, and one saying nothing words."},{"decisionKind":"decision-kind/departure","statement":"The set is handed in, so no test of it reaches Spotify."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a page."}]}
+{"definition":"the command setting how loud a Spotify device plays"}
+{"id":"01a0a024-06ab-7ffa-baff-52d236353a00"}
+{"name":"volume"}
+{"slug":"music-volume"}
+{"test":"ts"}
+{"type":"page-type/command"}

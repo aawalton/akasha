@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each name here is a name the compiler ships without declaring."},{"decisionKind":"decision-kind/departure","statement":"A program's options are read as the Lua compiler's options."}]}
+{"definition":"the compiler's own unexported names the Lua compiler reaches into"}
+{"id":"01a0691f-4de6-73ec-ad84-6ee006f2e3f7"}
+{"slug":"typescript-internals"}
+{"type":"page-type/type-declaration"}

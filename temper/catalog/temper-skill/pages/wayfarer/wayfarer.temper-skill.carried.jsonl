@@ -1,0 +1,18 @@
+{"baseName":"Wayfarer"}
+{"description":"\"Increases your experience gain with the One Hand and Shield skill line by 15%.\\n\\nIncreases the duration of any eaten food by 15 minutes.\""}
+{"esoSkillId":84680}
+{"icon":"/esoui/art/icons/ability_templar_027.dds"}
+{"id":"019e624a-12e6-7c5c-89d5-df7e1a07d1aa"}
+{"isMorph":false}
+{"key":"wayfarer"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"racial-redguard-skills"}
+{"skillType":"passive"}
+{"slug":"wayfarer"}
+{"status":"unsupported"}
+{"subcategoryId":"racial-redguard-skills"}
+{"title":"Wayfarer"}
+{"type":"page-type/temper-skill"}

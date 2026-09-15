@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Forwarding names a person rather than an address."}]}
+{"definition":"who a piece of mail the rule matches is forwarded to"}
+{"id":"01a06860-54a0-7c31-a1ec-4d13559b970a"}
+{"propertySlug":"forward-to"}
+{"slug":"email-rule-code-forward-to"}
+{"targetPageType":"page-type/person"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

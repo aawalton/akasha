@@ -1,0 +1,8 @@
+{"definition":"the name the game shows a collectible under"}
+{"id":"01a06165-ae0e-7001-a94f-12db8229907f"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"collectible-name"}
+{"slug":"collectible-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

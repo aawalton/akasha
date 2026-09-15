@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The saved variables have the account name the sales were captured under."},{"decisionKind":"decision-kind/departure","statement":"Capture begins once the writer has handed over its saved variables."}]}
+{"definition":"what the sales add-on does once the game has loaded that add-on"}
+{"id":"01a060e2-3180-7c1e-a6c8-0d7019081afa"}
+{"slug":"sales-addon-entry"}
+{"type":"page-type/module"}

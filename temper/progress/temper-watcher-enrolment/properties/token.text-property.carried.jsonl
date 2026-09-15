@@ -1,0 +1,8 @@
+{"definition":"the secret a watcher signs its calls with"}
+{"id":"01a05fd3-4363-77ab-a93e-a7d269483e69"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"token"}
+{"slug":"token"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A morning day starts at six in the morning."},{"decisionKind":"decision-kind/departure","statement":"An evening day turns at six in the evening rather than at midnight."},{"decisionKind":"decision-kind/departure","statement":"A day steps back on the wall clock rather than by a whole day of elapsed time."}]}
+{"definition":"the day an instant falls on for someone living on a Denver clock"}
+{"id":"01a05c77-31e7-7659-86c4-340d070e0baf"}
+{"slug":"mountain-day"}
+{"test":"ts"}
+{"type":"page-type/module"}

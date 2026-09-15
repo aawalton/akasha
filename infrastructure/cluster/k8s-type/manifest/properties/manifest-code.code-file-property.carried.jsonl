@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Manifest code is written in TypeScript."},{"decisionKind":"decision-kind/departure","statement":"A path this code spells is a path inside a container."},{"decisionKind":"decision-kind/departure","statement":"This code builds resources rather than applying those resources."}]}
+{"definition":"the code a manifest is"}
+{"extensions":["ts"]}
+{"id":"01a06da1-b338-79a7-bbb9-a0ac5a5a7170"}
+{"propertySlug":"code"}
+{"slug":"manifest-code"}
+{"type":"page-type/code-file-property"}
+{"types":"ts"}

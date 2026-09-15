@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The settings are shared by every character on one account."},{"decisionKind":"decision-kind/departure","statement":"Settings the character addon had are carried over once."},{"decisionKind":"decision-kind/departure","statement":"The carry is marked done before the carry is attempted."},{"decisionKind":"decision-kind/departure","statement":"Only a setting turned away from its default is carried over."},{"decisionKind":"decision-kind/departure","statement":"A read before the game has loaded the addon is refused."},{"decisionKind":"decision-kind/constraint","statement":"The game writes saved variables only as the client shuts down."}]}
+{"definition":"what the addon keeps between sessions, and how the old addon's settings arrive"}
+{"id":"01a0635f-391c-721c-be7d-e4fb741328a6"}
+{"slug":"quests-saved-variables"}
+{"test":"ts"}
+{"type":"page-type/module"}

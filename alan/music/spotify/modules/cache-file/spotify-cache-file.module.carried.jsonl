@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The cache folder is `~/.cache/music-spotify`."},{"decisionKind":"decision-kind/departure","statement":"An environment override names the whole path rather than the folder."},{"decisionKind":"decision-kind/departure","statement":"An override that is empty text is no override."},{"decisionKind":"decision-kind/departure","statement":"A file lands readable and writable by its owner alone."},{"decisionKind":"decision-kind/departure","statement":"A missing file reads as nothing."},{"decisionKind":"decision-kind/departure","statement":"A file that will not parse reads as nothing."},{"decisionKind":"decision-kind/departure","statement":"A file the shape refuses reads as nothing."},{"decisionKind":"decision-kind/departure","statement":"Reading nothing where a file is unreadable is said on the error stream."},{"decisionKind":"decision-kind/departure","statement":"Removing a file that is already gone is done."},{"decisionKind":"decision-kind/absence","statement":"Nothing here knows the values a Spotify file has."}]}
+{"definition":"a small JSON file kept for Spotify in the user's cache folder"}
+{"id":"01a06261-dc1d-7002-81c0-cf6b422e7fb3"}
+{"slug":"spotify-cache-file"}
+{"test":"ts"}
+{"type":"page-type/module"}

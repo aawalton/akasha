@@ -1,0 +1,7 @@
+{"definition":"the most memory one run of the file may hold, in megabytes"}
+{"id":"01a08790-d9b0-7541-af41-a057d8a7faab"}
+{"max":null}
+{"propertySlug":"max-memory-mb"}
+{"slug":"max-memory-mb"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

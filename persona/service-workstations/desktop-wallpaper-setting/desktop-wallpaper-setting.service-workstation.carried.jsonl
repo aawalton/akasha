@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The unit running the watch is simple rather than a timer."},{"decisionKind":"decision-kind/departure","statement":"Repeated starts are counted over no window."},{"decisionKind":"decision-kind/departure","statement":"A watch failing all night keeps on."}]}
+{"definition":"the service setting the desktop wallpaper to the persona Alan messaged last"}
+{"enabled":true}
+{"id":"01a0786c-047b-7863-b793-0ff93be3d895"}
+{"slug":"desktop-wallpaper-setting"}
+{"systemd":{"restart":"on-failure","restartDelaySeconds":5,"startLimitIntervalSeconds":0}}
+{"type":"page-type/service-workstation"}

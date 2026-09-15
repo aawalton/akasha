@@ -1,0 +1,10 @@
+{"app":"ios-app/atlas"}
+{"buildInputTreeHash":"0e83871a71c2d07b4f5784ef4bdf760fe2704e76240993ec6426f1e8f238ba1c"}
+{"buildNumber":21}
+{"cutAt":"2026-09-15T04:28:18.668Z"}
+{"id":"01a0a352-a96d-7000-9eb9-73f475a322b2"}
+{"mainSha":"1e1e5bc7be824c0fc5225745dc504f350f41ee8e"}
+{"shellSha":"1e1e5bc7be824c0fc5225745dc504f350f41ee8e"}
+{"slug":"atlas-21"}
+{"title":"atlas cut build 21"}
+{"type":"page-type/mobile-cut"}

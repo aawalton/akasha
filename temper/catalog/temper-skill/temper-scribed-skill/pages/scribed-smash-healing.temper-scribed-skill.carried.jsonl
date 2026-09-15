@@ -1,0 +1,19 @@
+{"baseName":"Smash"}
+{"description":"Heals you and your allies for 3006 Health. Beneficial Signature and Affix scripts apply to you and your allies."}
+{"esoSkillId":217184}
+{"focusScriptId":"healing"}
+{"grimoireId":"smash"}
+{"icon":"/esoui/art/icons/ability_grimoire_2handed.dds"}
+{"id":"019e6471-15bc-7c56-8837-3ad046c333b7"}
+{"isMorph":false}
+{"key":"scribed-smash-healing"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"active"}
+{"slug":"scribed-smash-healing"}
+{"subcategoryId":"scribed"}
+{"title":"Healing Smash"}
+{"type":"page-type/temper-scribed-skill"}

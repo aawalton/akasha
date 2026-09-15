@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A task naming no completion card is marked by hand alone."},{"decisionKind":"decision-kind/departure","statement":"A mark made before the day's reset counts as no mark."},{"decisionKind":"decision-kind/departure","statement":"A task scoped to every character is marked once every character has its own mark."}]}
+{"definition":"a task marked complete from the progress already read into the saved table"}
+{"id":"01a06306-f94f-700b-8c39-f425d7ea4a81"}
+{"slug":"characters-task-auto-complete"}
+{"type":"page-type/module"}

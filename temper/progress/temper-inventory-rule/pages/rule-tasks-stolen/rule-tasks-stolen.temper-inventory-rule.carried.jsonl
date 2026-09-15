@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/fence-launder"}
+{"active":true}
+{"categoryId":"tasks"}
+{"conditions":"jsonl"}
+{"description":"Launders stolen task-type items (writs, maps, etc.) so they can be completed or banked."}
+{"displayOrder":46}
+{"fromTemplate":"temper-rule-template/tasks-stolen"}
+{"goal":"temper-rule-goal/task"}
+{"id":"01a0728b-6d6f-72d7-9a3d-426fdaf75e61"}
+{"locked":true}
+{"slug":"rule-tasks-stolen"}
+{"title":"Launder stolen task items"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-05-04T16:04:31.132Z"}

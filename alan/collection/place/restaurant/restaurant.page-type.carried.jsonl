@@ -1,0 +1,8 @@
+{"definition":"a place Alan eats at"}
+{"extends":["page-type/collection"]}
+{"id":"01a06807-be66-700b-be52-bd042c86fc17"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"restaurant"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

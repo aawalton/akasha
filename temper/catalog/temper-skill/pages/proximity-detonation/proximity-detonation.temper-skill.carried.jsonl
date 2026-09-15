@@ -1,0 +1,17 @@
+{"baseName":"Magicka Detonation"}
+{"description":"\"Activate a magical bomb on yourself that explodes after 8 seconds, dealing 449 Magic Damage to all enemies in the area.\\n\\nEach enemy within the bomb's radius increases the damage by 100%, including the original target.\""}
+{"esoSkillId":63302}
+{"icon":"/esoui/art/icons/ability_ava_proximity_detonation.dds"}
+{"id":"019e6251-4cd9-748a-b649-340b77b0635d"}
+{"isMorph":true}
+{"key":"proximity-detonation"}
+{"learnedLevel":7}
+{"lineRankNeeded":7}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"proximity-detonation"}
+{"subcategoryId":"alliance-war-assault"}
+{"title":"Proximity Detonation"}
+{"type":"page-type/temper-skill"}

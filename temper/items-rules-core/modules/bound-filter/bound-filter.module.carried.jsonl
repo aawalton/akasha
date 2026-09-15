@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the `bound` condition alone."}]}
+{"definition":"the Bound Status condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3be2-7f00-99b6-1c954caa2761"}
+{"slug":"bound-filter"}
+{"type":"page-type/module"}

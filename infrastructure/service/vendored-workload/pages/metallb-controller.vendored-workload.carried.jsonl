@@ -1,0 +1,8 @@
+{"definition":"what hands a load balancer service its external address"}
+{"id":"01a068e5-527c-718d-96eb-f449ce869cd1"}
+{"namespace":"metallb-system"}
+{"resourceKind":"Deployment"}
+{"resourceName":"controller"}
+{"slug":"metallb-controller"}
+{"title":"MetalLB controller"}
+{"type":"page-type/vendored-workload"}

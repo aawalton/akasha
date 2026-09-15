@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The pod template carries the hash of the alanwalton-s3-creds secret."},{"decisionKind":"decision-kind/departure","statement":"The keys hashed from the alanwalton-s3-creds secret are access_key and secret_key."}]}
+{"definition":"the deployment and service drawing Alan's map and taking in his phone's locations"}
+{"generatedDirectory":true}
+{"id":"01a07382-cc82-70f9-994d-20709df7bec4"}
+{"slug":"alanwalton-atlas"}
+{"type":"page-type/manifest"}

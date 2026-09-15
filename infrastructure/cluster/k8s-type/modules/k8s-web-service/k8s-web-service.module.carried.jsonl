@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A web app is reached inside the cluster rather than from outside it."},{"decisionKind":"decision-kind/departure","statement":"Every web app answers on one port, named once here."},{"decisionKind":"decision-kind/departure","statement":"The labels a Service selects on are handed in beside the labels it carries."}]}
+{"definition":"the in-cluster Service a web app is reached on"}
+{"id":"01a08e73-15ce-72a4-b041-35203781f62c"}
+{"slug":"k8s-web-service"}
+{"type":"page-type/module"}

@@ -1,0 +1,11 @@
+{"enchantmentMultiplier":0.5}
+{"esoWeaponType":"WEAPONTYPE_HAMMER"}
+{"id":"019e46b6-4089-7fbb-8e33-bdbbe8a10106"}
+{"isTwoHanded":false}
+{"key":"mace"}
+{"skillLineId":"weapon-one-hand"}
+{"slug":"mace"}
+{"title":"Mace"}
+{"type":"page-type/temper-weapon-type"}
+{"validSlots":["main-hand"]}
+{"weaponPower":1335}

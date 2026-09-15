@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each number is read out of the client rather than written down here."}]}
+{"definition":"the specialized item type numbers the game client has, each under the client's own name"}
+{"id":"01a06127-664a-72e6-abad-75f1cbed0e4c"}
+{"slug":"specialized-item-type-constants"}
+{"type":"page-type/module"}

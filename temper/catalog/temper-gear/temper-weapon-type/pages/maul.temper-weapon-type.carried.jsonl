@@ -1,0 +1,11 @@
+{"enchantmentMultiplier":1}
+{"esoWeaponType":"WEAPONTYPE_TWO_HANDED_HAMMER"}
+{"id":"019e46b6-4092-7487-901f-b23ac746b0b1"}
+{"isTwoHanded":true}
+{"key":"maul"}
+{"skillLineId":"weapon-two-handed"}
+{"slug":"maul"}
+{"title":"Maul"}
+{"type":"page-type/temper-weapon-type"}
+{"validSlots":["main-hand"]}
+{"weaponPower":1571}

@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The skill line data here is written out from the skill-line pages."},{"decisionKind":"decision-kind/departure","statement":"A class line names its category by the category page's key rather than by that page's slug."}]}
+{"definition":"the skill lines an Elder Scrolls Online character advances"}
+{"id":"01a0608a-c135-79d5-91c5-4cf48adc59f3"}
+{"parts":["module/alliance-war-skill-lines","module/class-skill-lines","module/companion-skill-lines","module/racial-and-craft-skill-lines","module/skill-line-category-data","module/skill-line-template","module/skill-lines","module/vengeance-skill-lines","module/weapon-and-armor-skill-lines","module/world-and-guild-skill-lines"]}
+{"slug":"temper-character-skill-line"}
+{"type":"page-type/domain"}

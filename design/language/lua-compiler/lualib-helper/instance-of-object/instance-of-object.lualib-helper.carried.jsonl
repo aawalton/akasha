@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the answer whether a value is an instance of Object"}
+{"id":"01a081f7-142d-7e82-aa86-69bf9ac8d12c"}
+{"luaExport":"__TS__InstanceOfObject"}
+{"slug":"instance-of-object"}
+{"type":"page-type/lualib-helper"}

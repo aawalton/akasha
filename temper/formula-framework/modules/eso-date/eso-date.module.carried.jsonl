@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Lua compiled for the game reaches no Date."},{"decisionKind":"decision-kind/departure","statement":"A caller of this module runs on a host rather than inside the game."}]}
+{"definition":"today's date on the game's own clock"}
+{"id":"01a06070-82e2-764c-be2a-e7c281e7063e"}
+{"slug":"eso-date"}
+{"type":"page-type/module"}

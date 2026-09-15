@@ -1,0 +1,8 @@
+{"definition":"a trait a role is built around"}
+{"id":"01a05fce-1853-7aad-97fd-8d8e8e51af86"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"valid-trait-ids"}
+{"slug":"valid-trait-ids"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

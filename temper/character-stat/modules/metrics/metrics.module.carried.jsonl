@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"This table is gathered from the sixteen data groups in the order the groups are named."},{"decisionKind":"decision-kind/gap","statement":"A stat moved to another group changes the order this table answers its ids in."}]}
+{"definition":"every character stat indexed by its id, with the ones carrying a formula gathered apart"}
+{"id":"01a06131-abb7-7c5f-81a0-69154a33d704"}
+{"slug":"metrics"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Carpentry"}
+{"description":"\"Reduces research times by 5% and allows the research of two items at once.\""}
+{"esoSkillId":48181}
+{"icon":"/esoui/art/icons/crafting_forester_plug_component_002.dds"}
+{"id":"019e6f53-9fb6-774e-9840-40e0c6d69f44"}
+{"isMorph":false}
+{"key":"carpentry-48181"}
+{"learnedLevel":1}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":8}
+{"skillLineId":"craft-woodworking"}
+{"skillType":"passive"}
+{"slug":"carpentry-48181"}
+{"subcategoryId":"craft-woodworking"}
+{"title":"Carpentry"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Editing opens on the number as it is rather than on an empty box."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the text back as a number."}]}
+{"definition":"the text a number is edited as, and whether it is being edited"}
+{"id":"01a08e03-e1bc-73b8-a5dc-0d022694948e"}
+{"slug":"use-number-draft"}
+{"type":"page-type/module"}

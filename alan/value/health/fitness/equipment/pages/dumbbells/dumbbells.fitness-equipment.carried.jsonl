@@ -1,0 +1,11 @@
+{"available":true}
+{"category":"dumbbells"}
+{"configuration":"pair"}
+{"covers":["strength-exercise-implement/dumbbell"]}
+{"id":"019f01e1-b0dc-72f8-9040-f0924d81a528"}
+{"loads":[3,5,8,10,15,20,25,30]}
+{"notes":"Standard + light DB pairs, one continuous ladder."}
+{"slug":"dumbbells"}
+{"sortOrder":1}
+{"title":"Dumbbells"}
+{"type":"page-type/fitness-equipment"}

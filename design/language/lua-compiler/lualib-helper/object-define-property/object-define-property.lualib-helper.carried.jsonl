@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"a property defined on an object from a descriptor, with a numeric key shifted"}
+{"id":"01a08c45-bcc0-7a35-b253-8832b0efd5c7"}
+{"luaExport":"__TS__ObjectDefineProperty"}
+{"slug":"object-define-property"}
+{"type":"page-type/lualib-helper"}

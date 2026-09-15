@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"who a request is from, by its session cookie or by its bearer token"}
+{"id":"01a05c97-8af8-74a3-80de-ad41ae3dee2e"}
+{"slug":"auth-server"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A command that exits non-zero is an error carrying the text the command said."},{"decisionKind":"decision-kind/departure","statement":"A copy of named files leaves behind no list of those names."},{"decisionKind":"decision-kind/departure","statement":"The same commands reach a remote store and a local path."}]}
+{"definition":"the rclone commands a store is listed, read, copied and hashed through"}
+{"id":"01a06863-74ea-71ef-b9e2-e47a850c7d47"}
+{"slug":"rclone"}
+{"type":"page-type/module"}

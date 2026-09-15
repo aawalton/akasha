@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only the confirmation is passed and the purchase itself is left alone."}]}
+{"definition":"passing the trader kiosk confirmation a player would otherwise answer"}
+{"id":"01a06160-2a5d-7701-bfcb-d89a2bf8ddf3"}
+{"slug":"trading-skip-kiosk-dialog"}
+{"type":"page-type/module"}

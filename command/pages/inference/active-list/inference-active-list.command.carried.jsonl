@@ -1,0 +1,9 @@
+{"arguments":[]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The resident services are read off the cop."},{"decisionKind":"decision-kind/departure","statement":"Nothing resident is an empty answer rather than a refusal."},{"decisionKind":"decision-kind/absence","statement":"Nothing here changes which services are resident."}]}
+{"definition":"the command naming the pool services the traffic cop is holding resident"}
+{"id":"01a0685e-fd50-7513-8357-2d89b53ef8b1"}
+{"name":"active-list"}
+{"slug":"inference-active-list"}
+{"test":"ts"}
+{"type":"page-type/command"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the answer whether a value descends from a class"}
+{"id":"01a08202-0fa9-7a86-8b0c-49946b273d29"}
+{"luaExport":"__TS__InstanceOf"}
+{"slug":"instance-of"}
+{"type":"page-type/lualib-helper"}

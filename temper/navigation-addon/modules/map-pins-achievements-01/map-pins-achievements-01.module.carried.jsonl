@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The records here are one unbroken run of the table's order."},{"decisionKind":"decision-kind/departure","statement":"The run is the add-on's own source rather than a derivation."}]}
+{"definition":"one run of the achievement pin places by zone"}
+{"id":"01a06269-2a3f-7bda-bb13-4be8c4920e7d"}
+{"slug":"map-pins-achievements-01"}
+{"type":"page-type/module"}

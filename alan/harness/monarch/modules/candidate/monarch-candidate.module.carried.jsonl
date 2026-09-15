@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A candidate is checked by the same reader a standing rule is."},{"decisionKind":"decision-kind/departure","statement":"A candidate names a category or a reservation and never both."},{"decisionKind":"decision-kind/departure","statement":"Nothing is a candidate unless named a candidate."},{"decisionKind":"decision-kind/departure","statement":"A pairing window that is not a number of days is refused."},{"decisionKind":"decision-kind/departure","statement":"A category is named in words here and resolved to the page that has that category."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a rule page."}]}
+{"definition":"a rule stated on the command line rather than on a page, checked as a page's would be"}
+{"id":"01a06866-06f1-7e0b-a8bd-0233e7915dee"}
+{"slug":"monarch-candidate"}
+{"type":"page-type/module"}

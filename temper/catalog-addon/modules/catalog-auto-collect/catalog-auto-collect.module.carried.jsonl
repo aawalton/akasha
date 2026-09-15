@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Nothing missing means the catalog is marked complete without any collector run."},{"decisionKind":"decision-kind/departure","statement":"The game version is written back only once the run is over."}]}
+{"definition":"collecting on login whichever catalogs the saved table is still missing"}
+{"id":"01a063ba-94e5-761c-9dd4-1124b1de80bb"}
+{"slug":"catalog-auto-collect"}
+{"type":"page-type/module"}

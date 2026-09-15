@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This kind answers the unique kind `page-type`."},{"decisionKind":"decision-kind/departure","statement":"The index answers this kind under the page type named."},{"decisionKind":"decision-kind/departure","statement":"An address of this kind names the property the value is read by."},{"decisionKind":"decision-kind/departure","statement":"A page type with more than one such property is why the property is named."}]}
+{"definition":"an address naming a page by a value unique among the pages of its type"}
+{"id":"01a0731d-f93f-7a75-9681-507d854cc958"}
+{"slug":"in-page-type"}
+{"test":"ts"}
+{"type":"page-type/page-address-kind"}

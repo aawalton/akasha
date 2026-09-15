@@ -1,0 +1,18 @@
+{"baseName":"Blood Magic"}
+{"description":"\"When you cast a Dark Magic ability with a cost, you heal for 1600 Health if you are not at full Health. This portion of the ability scales off your Max Health.\\n\\nIf your Health is full, the higher of your Max Magicka or Stamina is increased by 10% for 10 seconds.\""}
+{"esoSkillId":45172}
+{"icon":"/esoui/art/icons/ability_sorcerer_026.dds"}
+{"id":"019e6245-a5fd-7845-b9e1-625c5eefc4f8"}
+{"isMorph":false}
+{"key":"blood-magic"}
+{"learnedLevel":27}
+{"lineRankNeeded":27}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"sorcerer-dark-magic"}
+{"skillType":"passive"}
+{"slug":"blood-magic"}
+{"status":"unsupported"}
+{"subcategoryId":"sorcerer-dark-magic"}
+{"title":"Blood Magic"}
+{"type":"page-type/temper-skill"}

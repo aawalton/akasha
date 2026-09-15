@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Falcon's Swiftness"}
+{"description":"\"Invoke the spirit of agility to gain Major Expedition for |cffffff6|r seconds, increasing your Movement Speed by |cffffff30|r%.\""}
+{"esoSkillId":238027}
+{"icon":"/esoui/art/icons/ability_warden_016.dds"}
+{"id":"019e6f53-a906-7c75-92b7-ef22930d42fc"}
+{"isMorph":false}
+{"key":"vengeance-falcon-s-swiftness"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-warden-animal-companions"}
+{"skillType":"active"}
+{"slug":"vengeance-falcon-s-swiftness"}
+{"subcategoryId":"vengeance-warden-animal-companions"}
+{"title":"Vengeance Falcon's Swiftness"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,8 @@
+{"displayOrder":4}
+{"id":"019e2fcd-59c1-782f-8e7f-ce22d007edd3"}
+{"nodeId":"ha-one-hand"}
+{"nodeType":"metric"}
+{"parent":"subcategory-ha-damage"}
+{"slug":"metric-ha-one-hand"}
+{"title":"Ha One Hand"}
+{"type":"page-type/temper-metric-tree"}

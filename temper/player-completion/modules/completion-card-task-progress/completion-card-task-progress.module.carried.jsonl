@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A card counted its own way is answered here before the generic count is reached."},{"decisionKind":"decision-kind/departure","statement":"A card only a daily task names is unmeasured."},{"decisionKind":"decision-kind/departure","statement":"A skill line a character cannot use is unmeasured for that character."},{"decisionKind":"decision-kind/departure","statement":"The antiquity-lore catalog is handed in rather than imported."},{"decisionKind":"decision-kind/gap","statement":"The antiquity-lore card is unanswered here."}]}
+{"definition":"how far along one completion card is for one character, card by card"}
+{"id":"01a0641c-83b4-7fba-b338-0d13a366420a"}
+{"slug":"completion-card-task-progress"}
+{"type":"page-type/module"}

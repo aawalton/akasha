@@ -1,0 +1,6 @@
+{"changeTargetType":"change-target-type/file"}
+{"definition":"a file holding a package manifest"}
+{"id":"01a09b64-cd05-71e5-a322-6bbfabfdb478"}
+{"parent":"change-target-subtype/file"}
+{"slug":"file-manifest"}
+{"type":"page-type/change-target-subtype"}

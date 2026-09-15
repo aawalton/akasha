@@ -1,0 +1,9 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The index is named for the unique kind it files."},{"decisionKind":"decision-kind/departure","statement":"A file is found by the property then the value."},{"decisionKind":"decision-kind/departure","statement":"A page unique across every page is filed under no scope."},{"decisionKind":"decision-kind/departure","statement":"Only the `page` page type declares an identifier unique across every page."},{"decisionKind":"decision-kind/departure","statement":"An id reaches a page without opening any page."},{"decisionKind":"decision-kind/departure","statement":"A file has one line for each page with the value."},{"decisionKind":"decision-kind/departure","statement":"A page with an identifier another page already has does not land."},{"decisionKind":"decision-kind/absence","statement":"An identifier unique within anything narrower is filed nowhere here."}]}
+{"definition":"an index from an identifier unique across every page to the page with it"}
+{"id":"01a0a55d-2c77-7a99-a11b-d9003c2b25ca"}
+{"name":"page"}
+{"slug":"index-page"}
+{"test":"ts"}
+{"tracked":true}
+{"type":"page-type/index"}

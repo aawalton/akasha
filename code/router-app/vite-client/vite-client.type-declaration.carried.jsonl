@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An asset import and the bundler's environment are declared by the bundler itself."},{"decisionKind":"decision-kind/departure","statement":"Every router app compiles against the same bundler declarations."}]}
+{"definition":"what the bundler hands a router app's modules beyond the language"}
+{"id":"01a0691f-7e97-7738-b113-fb70b4cf4446"}
+{"slug":"vite-client"}
+{"type":"page-type/type-declaration"}

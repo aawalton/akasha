@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The notes are the persona's own account rather than a summary of that account."}]}
+{"definition":"what a persona found when she looked, in her own words"}
+{"extensions":["txt"]}
+{"id":"01a06743-d160-7000-a21c-00ed7a409bee"}
+{"propertySlug":"notes"}
+{"slug":"review-session-notes"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

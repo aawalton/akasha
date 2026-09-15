@@ -1,0 +1,17 @@
+{"baseName":"Malevolent Offering"}
+{"description":"\"Pour out your lifesblood and channel the arcane, healing yourself or an ally in front of you for 3485 Health, while draining 810 Health from yourself over 2 seconds.\""}
+{"esoSkillId":36129}
+{"icon":"/esoui/art/icons/ability_nightblade_011_b.dds"}
+{"id":"019e6245-a731-73b6-a07a-806ecab4d5b1"}
+{"isMorph":true}
+{"key":"shrewd-offering"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"nightblade-siphoning"}
+{"skillType":"active"}
+{"slug":"shrewd-offering"}
+{"subcategoryId":"nightblade-siphoning"}
+{"title":"Shrewd Offering"}
+{"type":"page-type/temper-skill"}

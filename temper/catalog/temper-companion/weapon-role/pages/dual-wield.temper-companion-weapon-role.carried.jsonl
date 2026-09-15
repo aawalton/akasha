@@ -1,0 +1,8 @@
+{"id":"01a05fcd-ea70-79c4-aaa6-56e61e68b51a"}
+{"key":"dual-wield"}
+{"slug":"dual-wield"}
+{"title":"Dual Wield"}
+{"type":"page-type/temper-companion-weapon-role"}
+{"validMainHandWeaponTypes":["sword","axe","mace","dagger"]}
+{"validOffHandWeaponTypes":["sword","axe","mace","dagger"]}
+{"weaponSkillLineId":"weapon-dual-wield"}

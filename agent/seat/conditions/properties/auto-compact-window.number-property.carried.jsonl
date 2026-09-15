@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The harness has this count between one hundred thousand and one million whatever value is stated."},{"decisionKind":"decision-kind/departure","statement":"A seat on a model with a smaller context window compacts at that window instead."}]}
+{"definition":"the token count a seat's agent is compacted at"}
+{"id":"01a0687a-3d99-7951-ba5c-41a586269d17"}
+{"max":null}
+{"propertySlug":"auto-compact-window"}
+{"slug":"auto-compact-window"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

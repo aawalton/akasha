@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A capture that matched nothing comes back as nil rather than as text."}]}
+{"definition":"the text a Lua pattern capture holds, or nothing where it caught none"}
+{"id":"01a08e0c-2af7-7ac7-841c-ccaa3d4ee31b"}
+{"slug":"parse-lua-capture"}
+{"type":"page-type/module"}

@@ -1,0 +1,9 @@
+{"definition":"one effect a reagent lends what it is brewed into"}
+{"extends":["page-type/temper-gear-thing"]}
+{"id":"01a05fd1-d434-7ecc-bbf1-c13d68007b96"}
+{"parts":["boolean-property/is-positive","number-property/cooldown","text-property/opposite-id"]}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"text-property/opposite-id","required":true,"many":false},{"pageProperty":"boolean-property/is-positive","required":false,"many":false},{"pageProperty":"number-property/cooldown","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-poison-effect"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

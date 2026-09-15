@@ -1,0 +1,11 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rule of this kind is settled by its clauses without anybody reading the mail."},{"decisionKind":"decision-kind/departure","statement":"Filing is a key of its own rather than an action."},{"decisionKind":"decision-kind/departure","statement":"A rule forwards by naming who receives the mail."},{"decisionKind":"decision-kind/absence","statement":"There is no forward action."}]}
+{"definition":"an email rule its own clauses carry out"}
+{"extends":["page-type/email-rule"]}
+{"id":"01a06828-59d3-7d52-bae3-818debc51db7"}
+{"loadedBy":"module/email-rule-reading"}
+{"parts":["relation-property/email-rule-code-forward-to","select-property/email-rule-code-actions","select-property/email-rule-code-filing","text-property/email-rule-code-delay"]}
+{"properties":[{"pageProperty":"select-property/email-rule-code-filing","required":true,"many":false},{"pageProperty":"select-property/email-rule-code-actions","required":false,"many":true,"maxCount":2},{"pageProperty":"text-property/email-rule-code-delay","required":false,"many":false},{"pageProperty":"relation-property/email-rule-code-forward-to","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"email-rule-code"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

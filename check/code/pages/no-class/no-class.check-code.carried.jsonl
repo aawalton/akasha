@@ -1,0 +1,10 @@
+{"audit":{"maxCpuSeconds":15}}
+{"check":{"maxCpuSeconds":1}}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A class extending `Error` is let through."},{"decisionKind":"decision-kind/constraint","statement":"A class extending `React.Component` that declares `static getDerivedStateFromError` is let through."},{"decisionKind":"decision-kind/departure","statement":"A class extending a bare `Component` is let through on the same terms."},{"decisionKind":"decision-kind/departure","statement":"A class a type declaration holds is let through."},{"decisionKind":"decision-kind/departure","statement":"A class the lua runtime library has is let through."},{"decisionKind":"decision-kind/departure","statement":"The types that library defines are the ECMAScript runtime's own rather than a domain's."},{"decisionKind":"decision-kind/departure","statement":"A class extending `React.Component` that declares no `static getDerivedStateFromError` is refused."},{"decisionKind":"decision-kind/departure","statement":"`componentDidCatch` alone lets no class through."},{"decisionKind":"decision-kind/departure","statement":"A class expression is judged wherever a declaration would be."},{"decisionKind":"decision-kind/departure","statement":"A class expression is never let through."},{"decisionKind":"decision-kind/departure","statement":"The name a class extends is judged as written rather than by the type that name resolves to."}]}
+{"definition":"the check refusing a class that is neither an error type nor a React error boundary"}
+{"id":"01a04bc8-6c37-77b0-9ff6-5922a789c962"}
+{"runsOnAudit":true}
+{"runsOnChange":true}
+{"runsOnDeploy":true}
+{"slug":"no-class"}
+{"type":"page-type/check-code"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the guild store listings the watcher posts"}
+{"id":"01a082a8-cb4c-7d80-ad39-e50b435f451b"}
+{"slug":"api-watcher-upsert-listings"}
+{"type":"page-type/route"}
+{"urlPath":"api/watcher/upsert-listings"}

@@ -1,0 +1,17 @@
+{"baseName":"Nature's Grasp"}
+{"description":"\"Launch a vine to swing yourself to an ally, instantly healing them for 2700 Health.  \\n\\nGain 10 Ultimate when healing an ally under 60% Health while you are in combat. This effect can occur every 4 seconds.\""}
+{"esoSkillId":93937}
+{"icon":"/esoui/art/icons/ability_warden_011_a.dds"}
+{"id":"019e6245-a60d-7e01-b3fe-c177319df201"}
+{"isMorph":true}
+{"key":"bursting-vines"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"warden-green-balance"}
+{"skillType":"active"}
+{"slug":"bursting-vines"}
+{"subcategoryId":"warden-green-balance"}
+{"title":"Bursting Vines"}
+{"type":"page-type/temper-skill"}

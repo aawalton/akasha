@@ -1,0 +1,17 @@
+{"baseName":"Whirlwind"}
+{"description":"\"Launch yourself into a lethal spin, dealing 1799 Physical Damage to nearby enemies. Deals up to 100% more damage to enemies with less than 50% Health.\""}
+{"esoSkillId":40731}
+{"icon":"/esoui/art/icons/ability_dualwield_005_a.dds"}
+{"id":"019e6226-0120-76bc-abdb-dd80abc8eda1"}
+{"isMorph":true}
+{"key":"whirling-blades"}
+{"learnedLevel":14}
+{"lineRankNeeded":14}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"whirling-blades"}
+{"subcategoryId":"weapon-dual-wield"}
+{"title":"Whirling Blades"}
+{"type":"page-type/temper-skill"}

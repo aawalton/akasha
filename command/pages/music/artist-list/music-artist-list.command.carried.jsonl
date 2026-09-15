@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/collection-status"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"How far through an artist Alan is, is added up from the releases naming that artist."},{"decisionKind":"decision-kind/departure","statement":"An artist naming no release is listed, and adds to no total."},{"decisionKind":"decision-kind/departure","statement":"A release reaches its artist whether or not it names that artist's page type."},{"decisionKind":"decision-kind/departure","statement":"The totals are over the artists listed rather than over every artist."},{"decisionKind":"decision-kind/departure","statement":"A status no collection states is refused before any page is read."},{"decisionKind":"decision-kind/departure","statement":"Every artist is listed where no status is asked for."},{"decisionKind":"decision-kind/departure","statement":"The rungs counted are the rungs the artists listed reach."},{"decisionKind":"decision-kind/departure","statement":"Artists are listed by how long each one runs, longest first."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a page."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches a music provider."}]}
+{"definition":"the command listing the artists Alan keeps, what he graded each and how far he is in"}
+{"id":"01a09b87-8def-7c15-a542-ef8c973a057d"}
+{"name":"artist-list"}
+{"slug":"music-artist-list"}
+{"test":"ts"}
+{"type":"page-type/command"}

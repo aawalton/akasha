@@ -1,0 +1,19 @@
+{"baseName":"Pressure Points"}
+{"description":"\"Increases your Critical Chance rating by 548 for each Assassination ability slotted, increasing your chance to critically strike by 2.5% per ability.\\n\\nCurrent bonus: 0.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45053}
+{"icon":"/esoui/art/icons/passive_weapon_015.dds"}
+{"id":"019e6245-a6ef-7e0f-b101-e8d5a095fc75"}
+{"isMorph":false}
+{"key":"pressure-points"}
+{"learnedLevel":22}
+{"lineRankNeeded":22}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"nightblade-assassination"}
+{"skillType":"passive"}
+{"slug":"pressure-points"}
+{"status":"supported"}
+{"subcategoryId":"nightblade-assassination"}
+{"title":"Pressure Points"}
+{"type":"page-type/temper-skill"}

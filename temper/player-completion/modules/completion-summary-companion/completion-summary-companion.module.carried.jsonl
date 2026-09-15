@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A caller naming companions is counted on the companions the caller named."},{"decisionKind":"decision-kind/absence","statement":"A companion of no known level counts toward no level total."}]}
+{"definition":"one line per companion card, counting what an account has of what there is"}
+{"id":"01a06124-14db-7fde-9ac1-6e23fae35a9d"}
+{"slug":"completion-summary-companion"}
+{"test":"ts"}
+{"type":"page-type/module"}

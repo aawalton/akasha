@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A route says where a player goes and the steps the player takes at each stop."},{"decisionKind":"decision-kind/absence","statement":"No code here reaches the game."}]}
+{"definition":"the route a plan takes through the game world, and the shape of the plan itself"}
+{"id":"01a06151-370b-7fa6-ad43-f200b0ae0fb9"}
+{"parts":["module/inventory-consolidate-dest","module/inventory-management-plan-route","module/inventory-management-plan-route-helpers","module/inventory-management-plan-route-steps","module/inventory-management-plan-route-venue","module/inventory-management-plan-types"]}
+{"slug":"temper-items-rules-routing-core"}
+{"type":"page-type/domain"}

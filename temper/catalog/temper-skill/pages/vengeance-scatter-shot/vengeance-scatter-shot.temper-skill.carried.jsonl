@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Scatter Shot"}
+{"description":"\"Blast an enemy with an explosive arrow, dealing |cffffff4846|r Physical Damage, knocking them back |cffffff8|r meters.\""}
+{"esoSkillId":241261}
+{"icon":"/esoui/art/icons/ability_bow_004.dds"}
+{"id":"019e6f53-a979-77c4-a068-237ac2c7a694"}
+{"isMorph":false}
+{"key":"vengeance-scatter-shot"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-bow"}
+{"skillType":"active"}
+{"slug":"vengeance-scatter-shot"}
+{"subcategoryId":"vengeance-weapon-bow"}
+{"title":"Vengeance Scatter Shot"}
+{"type":"page-type/temper-skill"}

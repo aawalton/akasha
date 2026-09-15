@@ -1,0 +1,12 @@
+{"displayOrder":20}
+{"effect":"Reduces Potion Cooldown"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_REDUCE_POTION_COOLDOWN"}
+{"essenceRune":"Oru"}
+{"glyphName":"Glyph of Potion Speed"}
+{"id":"019e5c85-d964-7132-a7c6-9891932a6a78"}
+{"key":"potion-speed"}
+{"qualityValues":"jsonl"}
+{"slug":"potion-speed"}
+{"title":"Potion Speed"}
+{"type":"page-type/temper-jewelry-enchant"}

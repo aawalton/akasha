@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Nothing here runs before the game says this add-on has loaded."}]}
+{"definition":"where the transpiler starts this add-on's one Lua file"}
+{"id":"01a06274-b089-7140-959d-d67b4777dffa"}
+{"slug":"antiquities-addon-entry"}
+{"type":"page-type/module"}

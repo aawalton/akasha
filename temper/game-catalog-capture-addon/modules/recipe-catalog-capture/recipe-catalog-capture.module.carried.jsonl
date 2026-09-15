@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The collector adds itself to the catalog registry as the module loads."},{"decisionKind":"decision-kind/departure","statement":"A recipe is keyed by the item id of that recipe."},{"decisionKind":"decision-kind/departure","statement":"A list with no recipe is left out."}]}
+{"definition":"the provisioning recipe lists, read into the add-on's saved variables"}
+{"id":"01a060e2-3185-70bd-87e9-4d79d87182df"}
+{"slug":"recipe-catalog-capture"}
+{"type":"page-type/module"}

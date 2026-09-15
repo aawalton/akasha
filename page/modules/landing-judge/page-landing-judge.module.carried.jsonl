@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The landing acts are the eight acts named here."},{"decisionKind":"decision-kind/departure","statement":"An act named nowhere here is no landing act."},{"decisionKind":"decision-kind/absence","statement":"Nothing here lands anything."}]}
+{"definition":"the acts that land on a page"}
+{"id":"01a0686e-6807-7002-99df-198a80301ced"}
+{"slug":"page-landing-judge"}
+{"type":"page-type/module"}

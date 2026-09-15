@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every unit of a stack an actionable rule takes reaches the plan."},{"decisionKind":"decision-kind/departure","statement":"A rule asking for no errand puts nothing in the plan."},{"decisionKind":"decision-kind/departure","statement":"A stock rule gives each character its target and no more."},{"decisionKind":"decision-kind/departure","statement":"No character is sent two copies of one recipe in a plan."},{"decisionKind":"decision-kind/departure","statement":"A character owed a retrieval waits for the character depositing that item."},{"decisionKind":"decision-kind/departure","statement":"A session freeing no venue is skipped rather than repeated."},{"decisionKind":"decision-kind/departure","statement":"Planning gives up after a hundred rounds."}]}
+{"definition":"the whole errand list the rules come to, ordered by who does what next"}
+{"id":"01a06289-2676-70d1-b558-0f7f5fbd97de"}
+{"slug":"inventory-management-plan"}
+{"test":"ts"}
+{"type":"page-type/module"}

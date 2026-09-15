@@ -1,0 +1,11 @@
+{"id":"01a06577-2614-7005-b335-134f3e00e1b6"}
+{"layout":"cards"}
+{"narrows":[{"key":"status","comparison":"is","values":["Completed"]}]}
+{"nav":"nav/anime-and-shows"}
+{"pageType":"page-type/ki-show"}
+{"slug":"anime-and-shows-completed"}
+{"title":"Completed"}
+{"type":"page-type/view"}
+{"viewPlace":2}
+{"viewSorts":[{"key":"completed-at","descending":true}]}
+{"visibleProperties":["status","completed-at"]}

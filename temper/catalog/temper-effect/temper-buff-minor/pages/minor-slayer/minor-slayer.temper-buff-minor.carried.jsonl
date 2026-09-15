@@ -1,0 +1,7 @@
+{"description":"Increases damage done to Dungeon, Trial, and Arena monsters by 5%"}
+{"effects":"jsonl"}
+{"id":"01a05fc5-f6c1-7a93-8775-4314ab78460b"}
+{"key":"minor-slayer"}
+{"slug":"minor-slayer"}
+{"title":"Minor Slayer"}
+{"type":"page-type/temper-buff-minor"}

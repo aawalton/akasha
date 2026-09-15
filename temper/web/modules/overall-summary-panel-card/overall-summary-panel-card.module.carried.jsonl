@@ -1,0 +1,7 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The items completed over the three scopes are counted on a row of their own."},{"decisionKind":"decision-kind/departure","statement":"That count is a tally of things done rather than a percentage."},{"decisionKind":"decision-kind/departure","statement":"The row is left off where no scope has anything to count."}]}
+{"definition":"the account, character and companion scopes as one row apiece, and what they add to"}
+{"id":"01a06421-f74b-7add-bb48-388a4598002f"}
+{"slug":"overall-summary-panel-card"}
+{"test":"tsx"}
+{"type":"page-type/module"}

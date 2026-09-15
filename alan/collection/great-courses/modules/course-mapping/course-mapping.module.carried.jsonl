@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A course sits on the All Great Courses shelf whatever subjects name that course."},{"decisionKind":"decision-kind/departure","statement":"A subject shelf the store does not have is warned about rather than refused."}]}
+{"definition":"the shelves a course sits on, taken from the subjects whose listing names that course"}
+{"id":"01a06579-f3d9-7002-8c59-6aa5c1dd9e49"}
+{"slug":"course-mapping"}
+{"type":"page-type/module"}

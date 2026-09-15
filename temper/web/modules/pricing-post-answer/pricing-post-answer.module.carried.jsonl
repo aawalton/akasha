@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A body of the shape the caller names is answered 410 rather than kept."},{"decisionKind":"decision-kind/departure","statement":"A body of another shape is refused before the watcher token is read."}]}
+{"definition":"the answer a watcher's pricing post is given where none is kept"}
+{"id":"01a090c4-43b0-786e-815e-1f7e9f75944e"}
+{"slug":"pricing-post-answer"}
+{"type":"page-type/module"}

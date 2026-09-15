@@ -1,0 +1,10 @@
+{"content":"conf"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The share is held by the seats together rather than by each seat."},{"decisionKind":"decision-kind/departure","statement":"A seat takes the whole machine while the apps want none of it."},{"decisionKind":"decision-kind/departure","statement":"A seat already running keeps the slice that seat began in."}]}
+{"definition":"the share the seats hold together against the apps Alan is using"}
+{"id":"01a0927c-ec26-7feb-bbd5-a2754a45f6c0"}
+{"installPath":"~/.config/systemd/user/seats.slice"}
+{"onlyOn":"linux"}
+{"placedBy":"link"}
+{"reloadWith":"systemctl --user daemon-reload"}
+{"slug":"seats-slice"}
+{"type":"page-type/provisioned-file"}

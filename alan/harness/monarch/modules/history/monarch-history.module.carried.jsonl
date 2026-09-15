@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A row has the standing category by its title where a page names that category."},{"decisionKind":"decision-kind/departure","statement":"A row has the standing category by its slug where no page names that category."},{"decisionKind":"decision-kind/departure","statement":"A transaction resolving other than exactly one line is refused."},{"decisionKind":"decision-kind/departure","statement":"A neighbourhood is read from the database over twice the rule's window."},{"decisionKind":"decision-kind/departure","statement":"The in-memory slice takes the same span as that database read."},{"decisionKind":"decision-kind/departure","statement":"A rule with no counterpart clause reads no neighbourhood at all."},{"decisionKind":"decision-kind/departure","statement":"A missing field reads as empty rather than as absent."},{"decisionKind":"decision-kind/departure","statement":"Every row has the same shape."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes."}]}
+{"definition":"our copy of Monarch read as the rows a rule is weighed against"}
+{"id":"01a06866-06f1-7379-8907-207d1cc99b42"}
+{"slug":"monarch-history"}
+{"type":"page-type/module"}

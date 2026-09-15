@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A star after a colon covers every weight of that piece."}]}
+{"definition":"the piece an icon is shown for"}
+{"id":"01a05fd1-d43b-783e-b447-1fb92ded8285"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"slot"}
+{"slug":"icon-slot"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

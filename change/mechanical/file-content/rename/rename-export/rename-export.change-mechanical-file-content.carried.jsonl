@@ -1,0 +1,10 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-rename"}
+{"changeTargetSubtype":"change-target-subtype/file-content-code"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"definition":"a name one body exports spelled anew across the paths a caller hands in"}
+{"id":"01a07718-c9b7-70da-a720-619f59483340"}
+{"slug":"rename-export"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical-file-content"}

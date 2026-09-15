@@ -1,0 +1,10 @@
+{"definition":"the job packing away what a push leaves in the repositories"}
+{"id":"01a07c78-6dec-7595-bde9-99656b98280f"}
+{"image":"registry.registry.svc.cluster.local:5000/cluster/bun-git:latest"}
+{"manifest":["manifest/git-transport-janitor"]}
+{"namespace":"git"}
+{"resourceKind":"CronJob"}
+{"resourceName":"git-transport-janitor"}
+{"schedule":"*/15 * * * *"}
+{"slug":"git-transport-janitor"}
+{"type":"page-type/service-cluster"}

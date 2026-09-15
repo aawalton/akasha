@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A notice's words sit in a file beside the page."},{"decisionKind":"decision-kind/departure","statement":"Wrapping is the author's convenience rather than part of the words."}]}
+{"definition":"the words a notice hands to the seat the notice reaches"}
+{"extensions":["md"]}
+{"id":"01a06861-e7cd-7340-b6d9-e2011e270d0f"}
+{"propertySlug":"text"}
+{"slug":"notice-text"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

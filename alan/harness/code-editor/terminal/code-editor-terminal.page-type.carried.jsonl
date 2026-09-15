@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A terminal moves only where Alan's own layout moves that terminal."},{"decisionKind":"decision-kind/departure","statement":"A closed terminal's page goes in the hourly sweep rather than as the terminal closes."}]}
+{"definition":"a terminal the editor is running"}
+{"extends":["page-type/page"]}
+{"id":"01a06826-92e5-7481-a7d4-68af91528f0b"}
+{"mortal":true}
+{"schema":"jsonl"}
+{"slug":"code-editor-terminal"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

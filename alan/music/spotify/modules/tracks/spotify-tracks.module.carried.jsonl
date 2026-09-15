@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A track names its own artists."},{"decisionKind":"decision-kind/constraint","statement":"Spotify answers 403 to the bulk track read for an app registered now."},{"decisionKind":"decision-kind/constraint","statement":"Spotify answers 403 to audio features and audio analysis for an app registered now."},{"decisionKind":"decision-kind/absence","statement":"Nothing here asks for audio features."}]}
+{"definition":"one track read by its Spotify id"}
+{"id":"01a06261-dc1d-700a-bfca-ad92b08a3e74"}
+{"slug":"spotify-tracks"}
+{"test":"ts"}
+{"type":"page-type/module"}

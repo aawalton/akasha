@@ -1,0 +1,8 @@
+{"displayOrder":7}
+{"id":"019e2fcd-59c5-7f95-a7dd-69499a829a11"}
+{"nodeId":"ha-shock-staff"}
+{"nodeType":"metric"}
+{"parent":"subcategory-ha-damage"}
+{"slug":"metric-ha-shock-staff"}
+{"title":"Ha Shock Staff"}
+{"type":"page-type/temper-metric-tree"}

@@ -1,0 +1,9 @@
+{"effects":"jsonl"}
+{"icon":"resources/crafting_alchemy_trait_heroism.png"}
+{"id":"019e21f7-0f7d-7533-82cf-702e548dfd20"}
+{"isPositive":true}
+{"key":"heroism"}
+{"oppositeId":"timidity"}
+{"slug":"heroism"}
+{"title":"Heroism"}
+{"type":"page-type/temper-poison-effect"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A sheet keeps the keys the schema does not name."}]}
+{"definition":"the sheet a game entity keeps of what it is, what it has, and what it can do"}
+{"id":"01a05b71-e543-79e4-8728-cee11630d9ab"}
+{"slug":"entity-schema"}
+{"type":"page-type/module"}

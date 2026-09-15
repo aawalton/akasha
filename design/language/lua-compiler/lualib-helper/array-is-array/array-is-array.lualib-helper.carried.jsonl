@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the answer whether a value is an array"}
+{"id":"01a081dd-c59d-70d7-88c8-5724f5705343"}
+{"luaExport":"__TS__ArrayIsArray"}
+{"slug":"array-is-array"}
+{"type":"page-type/lualib-helper"}

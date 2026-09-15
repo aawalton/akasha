@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-checked"}
+{"changeMode":"change-mode/change-mode-divide"}
+{"changeTargetSubtype":"change-target-subtype/file-page"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The page the rows sit beside is named by `at`."},{"decisionKind":"decision-kind/departure","statement":"The property those rows are held in is named by `property`."},{"decisionKind":"decision-kind/departure","statement":"A call handed no value for a key is refused by that key."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out where the files divide."}]}
+{"definition":"one page property's rows laid out again across the files the ceiling takes"}
+{"id":"01a08df3-43fc-70b7-b21c-a996acd3d268"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":3072}
+{"slug":"divide-page-property"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

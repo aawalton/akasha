@@ -1,0 +1,19 @@
+{"baseName":"Life Mender"}
+{"description":"\"Increases your healing done by 6%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45258}
+{"icon":"/esoui/art/icons/ability_templar_014.dds"}
+{"id":"019e624a-12ce-7aea-8f0f-eaa93ab70109"}
+{"isMorph":false}
+{"key":"life-mender"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"racial-argonian-skills"}
+{"skillType":"passive"}
+{"slug":"life-mender"}
+{"status":"supported"}
+{"subcategoryId":"racial-argonian-skills"}
+{"title":"Life Mender"}
+{"type":"page-type/temper-skill"}

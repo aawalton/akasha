@@ -1,0 +1,19 @@
+{"baseName":"Banner Bearer"}
+{"description":"Reduces damage taken by 6%."}
+{"esoSkillId":217699}
+{"focusScriptId":"mitigation"}
+{"grimoireId":"banner-bearer"}
+{"icon":"/esoui/art/icons/ability_grimoire_support.dds"}
+{"id":"019e6471-1599-7aee-8184-eb3fb05407c2"}
+{"isMorph":false}
+{"key":"scribed-banner-bearer-mitigation"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"active"}
+{"slug":"scribed-banner-bearer-mitigation"}
+{"subcategoryId":"scribed"}
+{"title":"Fortifying Banner"}
+{"type":"page-type/temper-scribed-skill"}

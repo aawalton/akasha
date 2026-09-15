@@ -1,0 +1,12 @@
+{"displayOrder":9}
+{"effect":"Reduces Magicka and Stamina ability cost"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_REDUCE_POWER"}
+{"essenceRune":"Indeko"}
+{"glyphName":"Glyph of Reduce Skill Cost"}
+{"id":"019e5c85-d950-7c44-917e-caefd8e9f59a"}
+{"key":"reduce-skill-cost"}
+{"qualityValues":"jsonl"}
+{"slug":"reduce-skill-cost"}
+{"title":"Reduce Skill Cost"}
+{"type":"page-type/temper-jewelry-enchant"}

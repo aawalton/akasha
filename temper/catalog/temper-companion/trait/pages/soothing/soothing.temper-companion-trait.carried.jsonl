@@ -1,0 +1,10 @@
+{"description":"Increases companion healing done"}
+{"effectType":"fractional-change"}
+{"id":"01a05fce-c4b1-7c18-9828-60ac8b4aafa2"}
+{"isReduction":false}
+{"key":"soothing"}
+{"metricId":"companion-healing-done"}
+{"qualityValues":"jsonl"}
+{"slug":"soothing"}
+{"title":"Soothing"}
+{"type":"page-type/temper-companion-trait"}

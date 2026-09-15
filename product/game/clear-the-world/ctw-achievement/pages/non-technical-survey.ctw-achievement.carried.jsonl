@@ -1,0 +1,8 @@
+{"description":"Non-technical survey gathers evidence to define suspected hazardous areas without physical intervention. Teams interview residents, review records, and mark boundaries that guide where clearance resources are deployed."}
+{"id":"019dbb6d-d619-780b-87da-7d4c4dbbafda"}
+{"metric":"team_marks"}
+{"scope":"team"}
+{"slug":"non-technical-survey"}
+{"threshold":5000}
+{"title":"Non-Technical Survey"}
+{"type":"page-type/ctw-achievement"}

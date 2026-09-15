@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The global is named for the addon."},{"decisionKind":"decision-kind/departure","statement":"The global has the one toggle and nothing more."}]}
+{"definition":"the global the key binding in the markup calls the toggle through"}
+{"id":"01a06381-67c1-75f6-ba15-5366cbc95058"}
+{"slug":"keybinder-public-api"}
+{"type":"page-type/module"}

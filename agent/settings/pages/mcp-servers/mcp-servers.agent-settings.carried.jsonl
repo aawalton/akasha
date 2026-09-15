@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"A `.mcp.json` beside an account or a workspace is never read."}]}
+{"definition":"the tool servers the client is given"}
+{"harnessSettings":"json"}
+{"id":"01a0657b-ad40-7e45-b0c2-fbd79f5a4b35"}
+{"slug":"mcp-servers"}
+{"type":"page-type/agent-settings"}

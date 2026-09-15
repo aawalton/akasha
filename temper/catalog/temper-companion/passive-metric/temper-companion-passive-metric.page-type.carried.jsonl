@@ -1,0 +1,8 @@
+{"definition":"a number a companion passive moves"}
+{"extends":["page-type/temper-companion-thing"]}
+{"id":"01a05fcd-41a8-7a56-ac2f-218a9b9953da"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-companion-passive-metric"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

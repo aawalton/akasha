@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Death Stroke"}
+{"description":"\"Ravage an enemy with a swift strike, dealing |cffffff11130|r Magic Damage. Deals up to |cffffff200|r% more damage to enemies under |cffffff50|r% Health.\""}
+{"esoSkillId":237619}
+{"icon":"/esoui/art/icons/ability_nightblade_007.dds"}
+{"id":"019e6f53-a8e9-7687-a6cb-bd5e3a1df8fd"}
+{"isMorph":false}
+{"key":"vengeance-death-stroke"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-nightblade-assassination"}
+{"skillType":"ultimate"}
+{"slug":"vengeance-death-stroke"}
+{"subcategoryId":"vengeance-nightblade-assassination"}
+{"title":"Vengeance Death Stroke"}
+{"type":"page-type/temper-skill"}

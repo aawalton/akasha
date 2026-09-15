@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A simulation prints its numbers rather than writing the numbers anywhere."}]}
+{"definition":"the computation a model is, written in Python"}
+{"extensions":["py"]}
+{"id":"01a0657f-a729-7667-bb50-f50d5da51399"}
+{"propertySlug":"simulation"}
+{"slug":"simulation"}
+{"type":"page-type/code-file-property"}
+{"types":"ts"}

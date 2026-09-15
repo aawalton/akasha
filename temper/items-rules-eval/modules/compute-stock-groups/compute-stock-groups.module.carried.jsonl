@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only rules with allStocked or targetQuantity get a stock group."},{"decisionKind":"decision-kind/departure","statement":"Stock conditions are skipped while the stock groups are being computed."},{"decisionKind":"decision-kind/departure","statement":"A rule matching no item is left out of the returned map."},{"decisionKind":"decision-kind/constraint","statement":"A rule without an id cannot key a stock group."}]}
+{"definition":"the set of item ids each stocking rule matches, gathered under that rule's id"}
+{"id":"01a06137-f969-7f2a-b975-82f7a16eb18d"}
+{"slug":"compute-stock-groups"}
+{"type":"page-type/module"}

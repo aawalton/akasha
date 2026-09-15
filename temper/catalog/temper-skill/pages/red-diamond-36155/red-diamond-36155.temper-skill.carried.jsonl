@@ -1,0 +1,17 @@
+{"baseName":"Red Diamond"}
+{"description":"\"Reduces the cost of all your abilities by |cffffff2|r%.\""}
+{"esoSkillId":36155}
+{"icon":"/esoui/art/icons/ability_dragonknight_028.dds"}
+{"id":"019e6f53-a5d3-7047-9c19-1dd2d0cb9718"}
+{"isMorph":false}
+{"key":"red-diamond-36155"}
+{"learnedLevel":1}
+{"lineRankNeeded":25}
+{"morphIndex":0}
+{"rank":25}
+{"skillLineId":"racial-imperial-skills"}
+{"skillType":"passive"}
+{"slug":"red-diamond-36155"}
+{"subcategoryId":"racial-imperial-skills"}
+{"title":"Red Diamond"}
+{"type":"page-type/temper-skill"}

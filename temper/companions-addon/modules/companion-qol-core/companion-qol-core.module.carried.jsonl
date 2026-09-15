@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Which companion was dismissed is remembered so the same companion comes back."}]}
+{"definition":"summoning and dismissing the active companion"}
+{"id":"01a0611d-84c6-7ad9-9eb6-645084830a14"}
+{"slug":"companion-qol-core"}
+{"type":"page-type/module"}

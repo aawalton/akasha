@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The control is recognised by its name for each game window handled."},{"decisionKind":"decision-kind/departure","statement":"Another addon's row control is reached by name."},{"decisionKind":"decision-kind/departure","statement":"A craftable set node yields a link built from the set's first item id."}]}
+{"definition":"the item link dug out of whatever row control the mouse is over"}
+{"id":"01a06231-8f1e-7646-8b29-68d015b765db"}
+{"slug":"lib-sets-tip-item-link"}
+{"type":"page-type/module"}

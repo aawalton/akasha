@@ -1,0 +1,17 @@
+{"baseName":"Eclipse"}
+{"description":"\"Envelop yourself in a lightless sphere for 10 seconds to protect yourself. Anytime you take direct damage, the sphere lashes back at the attacker, reducing their Movement Speed by 40% for 3 seconds and healing you for 2066 Health. These effects can occur once every half second.\""}
+{"esoSkillId":27324}
+{"icon":"/esoui/art/icons/ability_templar_unstable_core.dds"}
+{"id":"019e6245-a6be-7e5a-a827-2354f4e2e2d3"}
+{"isMorph":true}
+{"key":"living-dark"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"templar-dawns-wrath"}
+{"skillType":"active"}
+{"slug":"living-dark"}
+{"subcategoryId":"templar-dawns-wrath"}
+{"title":"Living Dark"}
+{"type":"page-type/temper-skill"}

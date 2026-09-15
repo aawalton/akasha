@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path is read in the order the page states each step."}]}
+{"definition":"one step of the way down a completion card to the item counted"}
+{"id":"01a05fc6-81fb-729c-8013-4df821b1c2d7"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"completion-item-path"}
+{"slug":"completion-item-path"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"These records are one unbroken run of the whole table's order."},{"decisionKind":"decision-kind/departure","statement":"This run is the add-on's own source rather than anything akasha derives."}]}
+{"definition":"one run of the skyshard placement table, in the order the whole table names its maps"}
+{"id":"01a061a8-9c66-7d06-b3d9-5a490f4d1580"}
+{"slug":"skyshards-part-12"}
+{"type":"page-type/module"}

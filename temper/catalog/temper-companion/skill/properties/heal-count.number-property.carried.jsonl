@@ -1,0 +1,7 @@
+{"definition":"how many heals one cast lands"}
+{"id":"01a06193-6caa-71e6-b133-c151112a6fea"}
+{"max":null}
+{"propertySlug":"heal-count"}
+{"slug":"heal-count"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

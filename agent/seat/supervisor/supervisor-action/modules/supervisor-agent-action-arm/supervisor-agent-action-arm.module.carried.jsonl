@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A gate whose defer windows could not be read is not armed."},{"decisionKind":"decision-kind/departure","statement":"A gate already armed is not armed a second time."},{"decisionKind":"decision-kind/departure","statement":"The child's age is read from its process start rather than counted from arming."}]}
+{"definition":"an idle gate armed to delay a restart until the session is between turns"}
+{"id":"01a0683e-3dbe-7005-8bd3-faecca604871"}
+{"slug":"supervisor-agent-action-arm"}
+{"type":"page-type/module"}

@@ -1,0 +1,19 @@
+{"baseName":"Aegis of the Unseen"}
+{"description":"\"Form a secret soldier within your mind, a defense against arcane forces without. While a beneficial Soldier of Apocrypha ability is active on you, increase your Armor by 3271.\""}
+{"effects":"jsonl"}
+{"esoSkillId":184923}
+{"icon":"/esoui/art/icons/passive_arcanist_05.dds"}
+{"id":"019e6245-a5e7-75e0-986b-a13cb79931ab"}
+{"isMorph":false}
+{"key":"aegis-of-the-unseen"}
+{"learnedLevel":18}
+{"lineRankNeeded":18}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"arcanist-soldier-of-apocrypha"}
+{"skillType":"passive"}
+{"slug":"aegis-of-the-unseen"}
+{"status":"unsupported"}
+{"subcategoryId":"arcanist-soldier-of-apocrypha"}
+{"title":"Aegis of the Unseen"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A subscriber is slugged from the address the subscriber gave."},{"decisionKind":"decision-kind/departure","statement":"The same address given again reaches the subscriber already filed here."},{"decisionKind":"decision-kind/departure","statement":"A subscriber arrives from the subscribe form audhdalan.com serves."}]}
+{"definition":"someone who asked to hear when Alan publishes"}
+{"extends":["page-type/page"]}
+{"id":"019e2701-19cb-71d9-a820-bddf28cec176"}
+{"parts":["email-address-property/subscriber-email"]}
+{"properties":[{"pageProperty":"email-address-property/subscriber-email","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"audhdalan-subscriber"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

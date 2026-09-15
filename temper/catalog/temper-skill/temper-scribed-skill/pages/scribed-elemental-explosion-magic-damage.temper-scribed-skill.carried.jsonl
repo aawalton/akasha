@@ -1,0 +1,19 @@
+{"baseName":"Elemental Explosion"}
+{"description":"Deals 4009 Magic Damage to enemies."}
+{"esoSkillId":217228}
+{"focusScriptId":"magic-damage"}
+{"grimoireId":"elemental-explosion"}
+{"icon":"/esoui/art/icons/ability_grimoire_staffdestro.dds"}
+{"id":"019e6471-15a7-7ecc-81c0-e8f719a44989"}
+{"isMorph":false}
+{"key":"scribed-elemental-explosion-magic-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"scribed-elemental-explosion-magic-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Magical Explosion"}
+{"type":"page-type/temper-scribed-skill"}

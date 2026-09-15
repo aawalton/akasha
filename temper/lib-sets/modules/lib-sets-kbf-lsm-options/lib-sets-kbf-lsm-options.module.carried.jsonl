@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Fifteen rows of a dropdown are visible at once."}]}
+{"definition":"the default options a scrollable-menu dropdown is built with"}
+{"id":"01a0623e-53a1-71f3-a8c2-70d8d97f411d"}
+{"slug":"lib-sets-kbf-lsm-options"}
+{"type":"page-type/module"}

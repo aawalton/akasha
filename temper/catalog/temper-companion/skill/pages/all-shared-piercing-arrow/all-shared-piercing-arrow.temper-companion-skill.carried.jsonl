@@ -1,0 +1,13 @@
+{"abilityId":152793}
+{"companionId":"all"}
+{"description":"Your Companion plants a masterfully aimed arrow in an enemy's vital spot, dealing $1 Physical Damage."}
+{"icon":"/esoui/art/icons/ability_companion_bow_001.dds"}
+{"id":"019e668d-c54e-717c-857e-6243e6cc27f5"}
+{"key":"shared-piercing-arrow"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"weapon-bow"}
+{"skillType":"active"}
+{"slug":"all-shared-piercing-arrow"}
+{"title":"Piercing Arrow"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

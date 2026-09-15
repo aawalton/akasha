@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A course states the minutes the course runs to and the minutes Alan has watched."},{"decisionKind":"decision-kind/departure","statement":"A course names every shelf the course sits on."},{"decisionKind":"decision-kind/departure","statement":"A course Alan has not graded states no rank."}]}
+{"definition":"one course Alan is taught by"}
+{"extends":["page-type/collection-external"]}
+{"id":"01a06574-0291-7002-a1fa-cbd1f9cc0fb4"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"great-course"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

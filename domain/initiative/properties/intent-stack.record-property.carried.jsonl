@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An intent says only a thing that is not yet so."},{"decisionKind":"decision-kind/departure","statement":"An intent is a gap rather than stating which kind of decision that intent is."}]}
+{"definition":"what an initiative is to make so"}
+{"id":"01a058a3-b01f-7002-b869-8274ae8203a6"}
+{"properties":[{"pageProperty":"standard-agent-english-property/intent-statement","required":true,"many":false},{"pageProperty":"text-property/working-memory","required":false,"many":false}]}
+{"propertySlug":"intent-stack"}
+{"slug":"intent-stack"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

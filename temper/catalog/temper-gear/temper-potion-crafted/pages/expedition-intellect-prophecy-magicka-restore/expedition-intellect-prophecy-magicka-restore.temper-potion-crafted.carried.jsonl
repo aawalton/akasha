@@ -1,0 +1,11 @@
+{"description":"Grants Restore Magicka, Speed, Spell Critical."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_013_type_005.dds"}
+{"id":"019e21f6-406d-7179-93dd-5091240957e8"}
+{"key":"expedition-intellect-prophecy-magicka-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Dragon Rheum","Lady's Smock","Namira's Rot"]}]}
+{"seconds":47}
+{"slug":"expedition-intellect-prophecy-magicka-restore"}
+{"title":"Essence of Spell Critical"}
+{"type":"page-type/temper-potion-crafted"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An activity here has the label of the completion type the activity falls under."}]}
+{"definition":"the activities a zone is completed by, one activity to a line"}
+{"id":"01a06167-3f9b-700c-82b9-015808eb9637"}
+{"properties":[{"pageProperty":"number-property/completion-type","required":true,"many":false},{"pageProperty":"text-property/completion-type-label","required":true,"many":false},{"pageProperty":"number-property/activity-index","required":true,"many":false},{"pageProperty":"number-property/eso-activity-id","required":true,"many":false},{"pageProperty":"text-property/activity-name","required":true,"many":false}]}
+{"propertySlug":"zone-completion-activities"}
+{"slug":"zone-completion-activities"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only one delayed call is armed at a time."},{"decisionKind":"decision-kind/departure","statement":"Each delayed call is registered under a name no earlier call used."}]}
+{"definition":"the single delayed call a sub-menu opens and closes on"}
+{"id":"01a0605a-5820-7660-862b-75def68c1d3b"}
+{"slug":"submenu-timeout"}
+{"type":"page-type/module"}

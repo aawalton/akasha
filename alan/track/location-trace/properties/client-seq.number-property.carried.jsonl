@@ -1,0 +1,7 @@
+{"definition":"the count this device gave the trace, rising by one for each it takes"}
+{"id":"01a06935-68b4-77f8-9df6-79b2d60bf54b"}
+{"max":null}
+{"propertySlug":"client-seq"}
+{"slug":"client-seq"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

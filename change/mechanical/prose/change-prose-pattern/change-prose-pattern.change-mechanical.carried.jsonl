@@ -1,0 +1,12 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-change"}
+{"changeTargetSubtype":"change-target-subtype/prose-pattern"}
+{"changeTargetType":"change-target-type/prose"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A passage is restated where a pair says what is written instead."},{"decisionKind":"decision-kind/absence","statement":"Nothing here takes a passage away."},{"decisionKind":"decision-kind/departure","statement":"The spellings and the pairs are handed in rather than read off a page."},{"decisionKind":"decision-kind/departure","statement":"Every passage of every page is answered for in this one answer."},{"decisionKind":"decision-kind/departure","statement":"A passage is reached under the key its page type states prose under."},{"decisionKind":"decision-kind/departure","statement":"A field of a record is reached by the words that field states already."},{"decisionKind":"decision-kind/departure","statement":"A prose value under more than one record is left alone."},{"decisionKind":"decision-kind/departure","statement":"A prose value stating many strings is left alone."},{"decisionKind":"decision-kind/departure","statement":"A count handed in holds how many passages one run restates."},{"decisionKind":"decision-kind/departure","statement":"A run handed no count restates every passage."},{"decisionKind":"decision-kind/departure","statement":"A program composes each restatement."},{"decisionKind":"decision-kind/departure","statement":"One body is read once however many passages that body states."},{"decisionKind":"decision-kind/departure","statement":"The passages of one body are answered by one edit."},{"decisionKind":"decision-kind/departure","statement":"The module splicing a body is called rather than reached through a rung."},{"decisionKind":"decision-kind/departure","statement":"One passage refused refuses the whole."},{"decisionKind":"decision-kind/constraint","statement":"This runs only where the model the parser reads is."},{"decisionKind":"decision-kind/absence","statement":"No rung beneath is reached."}]}
+{"definition":"every passage a banned term is written in restated in one answer"}
+{"id":"01a09c40-46df-7fc1-aa5e-e1da32da2123"}
+{"slug":"change-prose-pattern"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/change-mechanical"}

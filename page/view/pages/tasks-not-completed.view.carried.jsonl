@@ -1,0 +1,15 @@
+{"groupPageSize":6}
+{"hiddenPropertiesOrder":["to-do-recurrence","to-do-sort-order","to-do-category"]}
+{"id":"01a06577-2615-700b-ba4a-6d91b781b8ac"}
+{"itemPageSize":12}
+{"layout":"cards"}
+{"narrows":[{"key":"to-do-completed-at","comparison":"empty","values":["true"]}]}
+{"nav":"nav/tasks"}
+{"pageSize":12}
+{"pageType":"page-type/to-do"}
+{"slug":"tasks-not-completed"}
+{"title":"Not Completed"}
+{"type":"page-type/view"}
+{"viewPlace":2}
+{"viewSorts":[{"key":"to-do-sort-order","descending":false}]}
+{"visibleProperties":["to-do-due-date","due-time","link"]}

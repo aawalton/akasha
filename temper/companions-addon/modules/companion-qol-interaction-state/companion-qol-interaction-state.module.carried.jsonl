@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A companion dismissed by the player is told apart from a companion dismissed for an interaction."}]}
+{"definition":"when a companion was dismissed for an interaction and whether to bring it back"}
+{"id":"01a0611d-84c9-773b-b409-f70118da30cb"}
+{"slug":"companion-qol-interaction-state"}
+{"type":"page-type/module"}

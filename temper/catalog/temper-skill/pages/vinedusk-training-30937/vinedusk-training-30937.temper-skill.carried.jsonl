@@ -1,0 +1,17 @@
+{"baseName":"Vinedusk Training"}
+{"description":"\"Increases your damage done by |cffffff2|r% against enemies |cffffff15|r meters or closer.\\n\\nIncreases your Critical Chance rating by |cffffff657|r against enemies further than |cffffff15|r meters.\""}
+{"esoSkillId":30937}
+{"icon":"/esoui/art/icons/ability_weapon_025.dds"}
+{"id":"019e6f53-a9c8-71c8-bd02-105803ecce08"}
+{"isMorph":false}
+{"key":"vinedusk-training-30937"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":5}
+{"skillLineId":"weapon-bow"}
+{"skillType":"passive"}
+{"slug":"vinedusk-training-30937"}
+{"subcategoryId":"weapon-bow"}
+{"title":"Vinedusk Training"}
+{"type":"page-type/temper-skill"}

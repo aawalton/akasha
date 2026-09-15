@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"definition":"one page shown to a reader on its own"}
+{"id":"01a08283-d64b-74a2-85f7-bac0cabf8c69"}
+{"slug":"archive-of-worlds-page-detail"}
+{"type":"page-type/route"}
+{"urlPath":":pageTypeSlug/:pageHrefParam"}

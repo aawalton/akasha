@@ -1,0 +1,6 @@
+{"description":"The per-character unit count `allStocked` compares stock against is named here, defaulting to 200 where a rule sets none."}
+{"id":"01a07209-6b53-7b82-a04a-06279f6e58f0"}
+{"key":"stockThreshold"}
+{"slug":"stock-threshold"}
+{"title":"Stock Threshold"}
+{"type":"page-type/temper-condition-field"}

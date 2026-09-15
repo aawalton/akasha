@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Reaching the handler before initialization is an error."}]}
+{"definition":"the one handler the library makes as the game loads it"}
+{"id":"01a0605f-6262-7b60-aee2-f54376867f1a"}
+{"slug":"map-ping-initialization"}
+{"type":"page-type/module"}

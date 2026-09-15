@@ -1,0 +1,13 @@
+{"definition":"the Whisper speech-to-text model, served by mlx-audio"}
+{"enabled":true}
+{"host":"macbook"}
+{"id":"01a090a2-876d-7ca6-b85d-4fd1d602345f"}
+{"internalPort":18085}
+{"lifecycle":"pool"}
+{"port":8085}
+{"provision":"shell-script/mlx-audio-provision"}
+{"pythonVersion":"3.12"}
+{"runs":["python -m mlx_audio.server --host 127.0.0.1 --port 18085"]}
+{"slug":"whisper-stt"}
+{"type":"page-type/service-inference"}
+{"workdir":"."}

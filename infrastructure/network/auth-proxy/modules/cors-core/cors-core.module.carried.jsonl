@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An origin the list has or a pattern matches is allowed."},{"decisionKind":"decision-kind/departure","statement":"An answer to an origin that is not allowed has no header of its own."},{"decisionKind":"decision-kind/departure","statement":"An answer that varies by origin says so."}]}
+{"definition":"an origin weighed against what is allowed, and the headers saying so"}
+{"id":"01a06863-8e7c-7a4c-808c-4834fedcab58"}
+{"slug":"cors-core"}
+{"type":"page-type/module"}

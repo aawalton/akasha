@@ -1,0 +1,17 @@
+{"baseName":"Rugged"}
+{"description":"\"Increases your Physical and Spell Resistance by |cffffff866|r.\""}
+{"esoSkillId":36628}
+{"icon":"/esoui/art/icons/ability_dragonknight_020.dds"}
+{"id":"019e6f53-a66d-77c5-b4f8-e5b3e4612759"}
+{"isMorph":false}
+{"key":"rugged-36628"}
+{"learnedLevel":1}
+{"lineRankNeeded":25}
+{"morphIndex":0}
+{"rank":25}
+{"skillLineId":"racial-nord-skills"}
+{"skillType":"passive"}
+{"slug":"rugged-36628"}
+{"subcategoryId":"racial-nord-skills"}
+{"title":"Rugged"}
+{"type":"page-type/temper-skill"}

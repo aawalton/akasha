@@ -1,0 +1,17 @@
+{"baseName":"Revealing Flare"}
+{"description":"\"Launch a blinding flare, revealing stealthed and invisible enemies in the target area for |cffffff5|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds.\\n\\nWhile slotted you gain Major Protection, reducing your damage taken by |cffffff10|r%.\""}
+{"esoSkillId":61489}
+{"icon":"/esoui/art/icons/ability_ava_revealing_flare.dds"}
+{"id":"019e6f53-a63f-75ec-b9d1-80e786d3b9d3"}
+{"isMorph":false}
+{"key":"revealing-flare"}
+{"learnedLevel":1}
+{"lineRankNeeded":7}
+{"morphIndex":0}
+{"rank":7}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"active"}
+{"slug":"revealing-flare"}
+{"subcategoryId":"alliance-war-support"}
+{"title":"Revealing Flare"}
+{"type":"page-type/temper-skill"}

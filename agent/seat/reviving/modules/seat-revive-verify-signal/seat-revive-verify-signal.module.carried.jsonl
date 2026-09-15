@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One signal names each way a verifying revive comes back."},{"decisionKind":"decision-kind/departure","statement":"A seat that could not be verified is not a seat that failed."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads an exit code."}]}
+{"definition":"what a verifying revive says became of the seat"}
+{"id":"01a0686d-9d5e-700e-98bf-06b7ad829d40"}
+{"slug":"seat-revive-verify-signal"}
+{"type":"page-type/module"}

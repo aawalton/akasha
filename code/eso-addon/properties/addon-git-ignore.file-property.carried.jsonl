@@ -1,0 +1,8 @@
+{"definition":"what a build leaves behind that git does not keep"}
+{"extensions":["gitignore"]}
+{"fileName":".gitignore"}
+{"id":"01a06036-9b79-7b11-972f-655af36acfd5"}
+{"propertySlug":"git-ignore"}
+{"slug":"addon-git-ignore"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

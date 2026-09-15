@@ -1,0 +1,7 @@
+{"id":"01a094da-6665-7585-a256-c0cbd4471963"}
+{"placeholder":"path"}
+{"said":"--negative-prompt-file"}
+{"slug":"negative-prompt-file"}
+{"takes":"the file the negative prompt is read from, or `-` for standard input"}
+{"type":"page-type/argument"}
+{"value":"path"}

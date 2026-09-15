@@ -1,0 +1,8 @@
+{"definition":"what one test inside an effect reads"}
+{"id":"01a06193-6c9f-770c-8d91-5ed8daef932d"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"type"}
+{"slug":"condition-kind"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

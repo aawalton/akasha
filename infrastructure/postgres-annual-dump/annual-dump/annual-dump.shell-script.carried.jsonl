@@ -1,0 +1,6 @@
+{"definition":"the whole database written out once a year and carried to the object store"}
+{"id":"01a06865-c012-7002-9b0e-5c1f7a2d3e02"}
+{"shell":"sh"}
+{"slug":"annual-dump"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

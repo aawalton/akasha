@@ -1,0 +1,19 @@
+{"baseName":"Torchbearer"}
+{"description":"Deals 1335 Flame Damage to enemies with each sweep. Beneficial Signature and Affix scripts only apply to you."}
+{"esoSkillId":217637}
+{"focusScriptId":"flame-damage"}
+{"grimoireId":"torchbearer"}
+{"icon":"/esoui/art/icons/ability_grimoire_fightersguild.dds"}
+{"id":"019e6471-15ce-772b-ab6e-69c255cdd8da"}
+{"isMorph":false}
+{"key":"scribed-torchbearer-flame-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"guild-fighters-guild"}
+{"skillType":"active"}
+{"slug":"scribed-torchbearer-flame-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Fiery Torch"}
+{"type":"page-type/temper-scribed-skill"}

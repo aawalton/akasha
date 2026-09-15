@@ -1,0 +1,13 @@
+{"abilityId":215215}
+{"companionId":"tanlorin"}
+{"description":"Your Companion swipes each hand, sending a massive wave of power to crash into enemies in front of them, dealing $1 Magic Damage followed by a second wave after 0.5 seconds dealing $2 Magic Damage. Enemies hit are knocked back and stunned for $$4 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_tanlorin_wavesofpower.dds"}
+{"id":"019e6484-38a8-733f-bac6-da554a2d8bdf"}
+{"key":"tanlorin-ruinous-outburst"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-tanlorin"}
+{"skillType":"ultimate"}
+{"slug":"tanlorin-tanlorin-ruinous-outburst"}
+{"title":"Ruinous Outburst"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

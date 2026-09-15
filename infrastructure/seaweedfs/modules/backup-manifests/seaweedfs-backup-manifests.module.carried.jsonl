@@ -1,0 +1,6 @@
+{"allowsTmpPaths":true}
+{"code":"ts"}
+{"definition":"the manifests copying the Postgres backups and the bulk data off to another disk"}
+{"id":"01a06816-68b0-7fd4-bbb3-f018c687f369"}
+{"slug":"seaweedfs-backup-manifests"}
+{"type":"page-type/module"}

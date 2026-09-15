@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"The answers here share no concern beyond taking a set as their subject."}]}
+{"definition":"a set's armor, weapon and equip types, its worn piece count, its bonuses and its name"}
+{"id":"01a06231-8f1d-717e-ad62-dd5ee6472601"}
+{"slug":"lib-sets-core-api-armor-weapon-equip-class"}
+{"type":"page-type/module"}

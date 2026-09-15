@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The readout served is the one thing named here."},{"decisionKind":"decision-kind/departure","statement":"Everything else about that readout is read off the readout's own page."}]}
+{"definition":"the count of unreviewed transactions Jenny's tile draws"}
+{"id":"01a08260-8738-752f-9a25-c4cddf4cfd5e"}
+{"slug":"jenny-categorization"}
+{"test":"ts"}
+{"type":"page-type/route"}
+{"urlPath":"api/categorization"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A bind is retried only where the error names EADDRINUSE."},{"decisionKind":"decision-kind/departure","statement":"An error names EADDRINUSE by its code or by its message."},{"decisionKind":"decision-kind/departure","statement":"A bind on port zero is never retried."},{"decisionKind":"decision-kind/constraint","statement":"A gateway asked to exit does not always exit inside the shutdown wait."},{"decisionKind":"decision-kind/upkeep","statement":"The retry budget outlasts the shutdown wait a respawn gives the old gateway."},{"decisionKind":"decision-kind/departure","statement":"The budget covers the whole run of attempts rather than each attempt."},{"decisionKind":"decision-kind/departure","statement":"Retries are spaced by a fixed interval rather than a growing interval."},{"decisionKind":"decision-kind/constraint","statement":"The wait between two attempts blocks the thread."},{"decisionKind":"decision-kind/departure","statement":"The error ending the last attempt is the error thrown once the budget runs out."},{"decisionKind":"decision-kind/departure","statement":"The clock and the wait are handed in for a test to supply."},{"decisionKind":"decision-kind/absence","statement":"Nothing here knows how a bind is done."}]}
+{"definition":"a port bind retried while the port is still held by the process on its way out"}
+{"id":"01a0622e-02ab-7b1e-a875-ff5fdad4afbf"}
+{"slug":"bind-with-retry"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the scheduled job deciding which Postgres backups are kept and which are released"}
+{"generatedDirectory":true}
+{"id":"01a0737e-ca74-77d1-ad41-f4ccc595aad2"}
+{"slug":"gfs-promoter"}
+{"type":"page-type/manifest"}

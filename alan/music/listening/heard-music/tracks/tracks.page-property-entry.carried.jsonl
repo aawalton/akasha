@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every heard track names a Spotify track id."},{"decisionKind":"decision-kind/departure","statement":"No two heard tracks on one page name the same Spotify track id."},{"decisionKind":"decision-kind/departure","statement":"A heard track is written the first time the track is heard."},{"decisionKind":"decision-kind/departure","statement":"The artist a heard track names is the first artist Spotify names for it."}]}
+{"definition":"every track a person has heard, one to a line"}
+{"id":"01a06240-340f-700b-b409-ccc0e5bff5e6"}
+{"parts":["instant-property/first-heard-at","text-property/artist-name","text-property/heard-source","text-property/spotify-track-id","text-property/title-key","text-property/track-name"]}
+{"properties":[{"pageProperty":"text-property/spotify-track-id","required":true,"many":false},{"pageProperty":"text-property/title-key","required":true,"many":false},{"pageProperty":"text-property/track-name","required":false,"many":false},{"pageProperty":"text-property/artist-name","required":false,"many":false},{"pageProperty":"instant-property/first-heard-at","required":false,"many":false},{"pageProperty":"text-property/heard-source","required":false,"many":false}]}
+{"propertySlug":"tracks"}
+{"slug":"tracks"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

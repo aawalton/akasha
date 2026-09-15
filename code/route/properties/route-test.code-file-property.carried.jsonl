@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A test proving code written in TSX is written in TSX too."}]}
+{"definition":"what proves a route's code"}
+{"extensions":["ts","tsx"]}
+{"id":"01a071dc-83c6-7d33-b8f1-64b3986f1f58"}
+{"propertySlug":"test"}
+{"slug":"route-test"}
+{"type":"page-type/code-file-property"}
+{"types":"ts"}

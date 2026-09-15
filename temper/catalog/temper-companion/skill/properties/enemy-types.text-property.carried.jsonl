@@ -1,0 +1,8 @@
+{"definition":"the sort of enemy a test holds for"}
+{"id":"01a06193-6ca6-7e57-b847-abc05109ad79"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"enemy-types"}
+{"slug":"enemy-types"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

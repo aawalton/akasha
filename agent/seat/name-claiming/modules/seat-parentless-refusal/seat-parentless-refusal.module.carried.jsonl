@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat a person opened needs no parent."},{"decisionKind":"decision-kind/departure","statement":"A seat working for the fleet and naming nobody above the seat is invisible to every tree walk."},{"decisionKind":"decision-kind/departure","statement":"A parent stated as an empty string is no parent."}]}
+{"definition":"the refusal a seat working for the fleet meets when it names no agent above it"}
+{"id":"01a0686d-9d5e-7014-b9a1-392193b1b6a8"}
+{"slug":"seat-parentless-refusal"}
+{"test":"ts"}
+{"type":"page-type/module"}

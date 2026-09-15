@@ -1,0 +1,8 @@
+{"definition":"Postgres has not archived any write-ahead log for longer than is allowed"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fb-73f9-889d-2a01e736536f"}
+{"runbook":"txt"}
+{"slug":"postgres-wal-archiving-stale"}
+{"summary":"No successful WAL archive in {{ $value | humanizeDuration }}"}
+{"title":"Postgres WAL archiving stale"}
+{"type":"page-type/alert"}

@@ -1,0 +1,17 @@
+{"baseName":"Advanced Species"}
+{"description":"\"Increases your Critical Damage by |cffffff2|r% for each Animal Companion ability slotted.\\n\\nCurrent Bonus: |cffffff0|r%.\""}
+{"esoSkillId":86068}
+{"icon":"/esoui/art/icons/passive_warden_011.dds"}
+{"id":"019e6f53-9e99-7d50-a393-5ea31db151d9"}
+{"isMorph":false}
+{"key":"advanced-species-86068"}
+{"learnedLevel":39}
+{"lineRankNeeded":39}
+{"morphIndex":0}
+{"rank":39}
+{"skillLineId":"warden-animal-companions"}
+{"skillType":"passive"}
+{"slug":"advanced-species-86068"}
+{"subcategoryId":"warden-animal-companions"}
+{"title":"Advanced Species"}
+{"type":"page-type/temper-skill"}

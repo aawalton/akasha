@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An edge naming a type is taken away before anything runs."},{"decisionKind":"decision-kind/departure","statement":"An edge naming code is loaded, however late that loading happens."},{"decisionKind":"decision-kind/gap","statement":"An edge coming in says what that edge names."}]}
+{"definition":"whether an edge names a type or names code"}
+{"id":"01a0a657-ee99-79ce-80ca-38525c881a53"}
+{"slug":"names"}
+{"type":"page-type/graph-attribute"}

@@ -1,0 +1,19 @@
+{"baseName":"Mender's Bond"}
+{"description":"Heals the ally and other allies in the link for 375 Health every 1 second."}
+{"esoSkillId":217318}
+{"focusScriptId":"healing"}
+{"grimoireId":"menders-bond"}
+{"icon":"/esoui/art/icons/ability_grimoire_staffresto.dds"}
+{"id":"019e6471-15af-7050-a5eb-29c73ae0bf7e"}
+{"isMorph":false}
+{"key":"scribed-menders-bond-healing"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"scribed-menders-bond-healing"}
+{"subcategoryId":"scribed"}
+{"title":"Healing Bond"}
+{"type":"page-type/temper-scribed-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A single icon value is wrapped into a one element list before processing."},{"decisionKind":"decision-kind/departure","statement":"The new-entry icon is added ahead of any icon the entry declares."},{"decisionKind":"decision-kind/constraint","statement":"Icon height is clamped between the label offset and the parent row height."},{"decisionKind":"decision-kind/departure","statement":"Icon tooltips are concatenated into one string held on the multi-icon control."}]}
+{"definition":"the population of a row's multi-icon control from the entry icon data"}
+{"id":"01a06275-c445-7464-a21b-ee4eb4f0e7a3"}
+{"slug":"scrollable-menu-combobox-base-icons"}
+{"type":"page-type/module"}

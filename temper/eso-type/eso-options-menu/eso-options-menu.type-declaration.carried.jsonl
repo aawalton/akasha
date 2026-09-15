@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name here keeps the spelling the game gives that name."},{"decisionKind":"decision-kind/constraint","statement":"One declaration here serves every package reaching the name."},{"decisionKind":"decision-kind/absence","statement":"A compiler emits nothing from this file."}]}
+{"definition":"the game's settings menu names that more than one add-on reaches"}
+{"id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}
+{"slug":"eso-options-menu"}
+{"type":"page-type/type-declaration"}

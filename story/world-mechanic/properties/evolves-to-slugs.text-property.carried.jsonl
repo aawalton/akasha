@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a mechanic of the same page type."},{"decisionKind":"decision-kind/departure","statement":"An evolution names a mechanic of the kind the mechanic evolving is."}]}
+{"definition":"every mechanic this one reaches"}
+{"id":"01a0655d-ac15-78e3-a569-51e32648b88c"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"evolves-to-slugs"}
+{"slug":"evolves-to-slugs"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

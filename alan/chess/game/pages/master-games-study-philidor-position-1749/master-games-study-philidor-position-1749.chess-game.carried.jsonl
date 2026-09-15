@@ -1,0 +1,21 @@
+{"black":"Rook (Philidor position)"}
+{"collection":"endgame-classics"}
+{"externalId":"master-games_study-philidor-position-1749"}
+{"fen":"4k3/8/r7/4K3/4P3/8/8/5R2 w - - 0 1"}
+{"handle":"master-games"}
+{"id":"019f248f-e857-7ba2-907a-94b62bab69d8"}
+{"lesson":"Rook endgame: the Philidor position - the drawing method: hold the rook on the third rank until the pawn advances, then check from behind forever"}
+{"pgn":"pgn"}
+{"playedAt":"1749-01-01T00:00:00.000Z"}
+{"ply":14}
+{"rated":false}
+{"result":"1/2-1/2"}
+{"slug":"master-games-study-philidor-position-1749"}
+{"source":"master-games"}
+{"sourceGameId":"study-philidor-position-1749"}
+{"speed":"classical"}
+{"title":"Rook and pawn vs Rook (Philidor position) · classical · 1749-01-01"}
+{"type":"page-type/chess-game"}
+{"variant":"standard"}
+{"white":"Rook and pawn"}
+{"winner":"draw"}

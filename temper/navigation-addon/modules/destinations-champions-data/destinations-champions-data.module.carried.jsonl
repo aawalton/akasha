@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is the runs joined in order."}]}
+{"definition":"the champion (dolmen and world boss) achievement rows by zone, joined from its runs"}
+{"id":"01a06269-29b6-7812-9d64-d47aa7c8b72d"}
+{"slug":"destinations-champions-data"}
+{"type":"page-type/module"}

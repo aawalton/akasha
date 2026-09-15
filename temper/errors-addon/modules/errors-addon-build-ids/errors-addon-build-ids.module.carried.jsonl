@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The blamed folder is the earliest callstack folder the build stamp knows."},{"decisionKind":"decision-kind/departure","statement":"A callstack naming no add-on folder blames nobody."},{"decisionKind":"decision-kind/absence","statement":"No build stamp is needed for an error to be recorded."}]}
+{"definition":"which add-on a callstack blames and the build that add-on was made from"}
+{"id":"01a060d8-0918-78cb-b1c7-2d2db0462ee2"}
+{"slug":"errors-addon-build-ids"}
+{"type":"page-type/module"}

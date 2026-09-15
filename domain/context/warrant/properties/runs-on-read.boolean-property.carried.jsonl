@@ -1,0 +1,6 @@
+{"definition":"whether a read hands back what this warrant names"}
+{"id":"01a04f56-55c4-7001-b905-21873f81487f"}
+{"propertySlug":"runs-on-read"}
+{"slug":"runs-on-read"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

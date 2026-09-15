@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A generated list of rules has no two rules of one id."},{"decisionKind":"decision-kind/departure","statement":"An item rule is answered before any category rule."},{"decisionKind":"decision-kind/departure","statement":"An item no rule claims falls to the implicit terminal rule."}]}
+{"definition":"the generated rules and items the matcher's property tests are built from"}
+{"id":"01a06281-4830-72b8-a8a5-7323d4ed93c2"}
+{"slug":"inventory-rule-matcher-property-fixtures"}
+{"type":"page-type/test-fixture"}

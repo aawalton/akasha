@@ -1,0 +1,13 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"character":"erin-solstice"}
+{"dueDate":"2026-09-15"}
+{"icon":"file-text"}
+{"id":"019f9420-7fe5-7a60-8791-99f0d72cd040"}
+{"lastCompletedAt":"2026-09-10T20:54:08.271Z"}
+{"priority":"p3"}
+{"rruleAnchorFromCompletion":false}
+{"rruleRule":"FREQ=WEEKLY;BYDAY=TU"}
+{"scope":"character"}
+{"slug":"weekly-challenges"}
+{"title":"Weekly Challenges"}
+{"type":"page-type/temper-task"}

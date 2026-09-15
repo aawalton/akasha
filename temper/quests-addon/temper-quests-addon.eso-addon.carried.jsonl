@@ -1,0 +1,8 @@
+{"addonManifest":"json"}
+{"bundleEntry":"module/quests-entry"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The options the dialogue offers are read afresh rather than remembered between reads."},{"decisionKind":"decision-kind/departure","statement":"A quest option is taken ahead of an option offering something else."},{"decisionKind":"decision-kind/departure","statement":"An option already taken at one menu is not taken again at that menu."},{"decisionKind":"decision-kind/departure","statement":"A menu offering a service the player did not ask for is left alone."},{"decisionKind":"decision-kind/departure","statement":"The addon steps away once nothing in the dialogue is left to do."},{"decisionKind":"decision-kind/constraint","statement":"The game hands one dialogue option at a time rather than a whole menu."}]}
+{"definition":"the addon answering a quest giver's dialogue in the player's place"}
+{"id":"01a0635f-391c-765a-af94-26f3ecd9702f"}
+{"parts":["module/quests-auto-quest","module/quests-chatter-name-tables","module/quests-chatter-names","module/quests-classify","module/quests-constants","module/quests-decide","module/quests-entry","module/quests-public-api","module/quests-saved-variables","module/quests-slash-command","module/quests-trace","module/quests-trace-buffer"]}
+{"slug":"temper-quests-addon"}
+{"type":"page-type/eso-addon"}

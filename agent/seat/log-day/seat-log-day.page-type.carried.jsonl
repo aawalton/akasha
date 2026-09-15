@@ -1,0 +1,11 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One page has one source's lines for one seat on one day."},{"decisionKind":"decision-kind/departure","statement":"A day's slug joins its source to its seat to its date."},{"decisionKind":"decision-kind/departure","statement":"A day is judged by the date the day states rather than by a file's timestamp."},{"decisionKind":"decision-kind/departure","statement":"A day past the window a log is kept for is taken away."},{"decisionKind":"decision-kind/departure","statement":"The page is committed and the lines beside that page are not."},{"decisionKind":"decision-kind/departure","statement":"Removing the page removes the lines with that page."},{"decisionKind":"decision-kind/departure","statement":"These lines record the work the processes did."},{"decisionKind":"decision-kind/absence","statement":"No line here records the work the agent did."},{"decisionKind":"decision-kind/departure","statement":"The work the agent did is in the commits the agent landed."},{"decisionKind":"decision-kind/gap","statement":"Nothing reads the lines a day has."}]}
+{"definition":"what one source wrote for one seat on one day"}
+{"extends":["page-type/page"]}
+{"id":"01a0657c-cb14-7b5b-a206-18059a84a88a"}
+{"mortal":true}
+{"parts":["file-property/lines","module/log-day-sweeping","module/log-day-writing","relation-property/log-source","text-property/seat-name"]}
+{"properties":[{"pageProperty":"relation-property/log-source","required":true,"many":false},{"pageProperty":"text-property/seat-name","required":true,"many":false},{"pageProperty":"text-property/date","required":true,"many":false},{"pageProperty":"file-property/lines","required":false,"many":false,"uncommitted":true,"default":"jsonl"}]}
+{"schema":"jsonl"}
+{"slug":"seat-log-day"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,19 @@
+{"baseName":"Banish the Wicked"}
+{"description":"\"You generate 3 Ultimate whenever you kill an enemy.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45599}
+{"icon":"/esoui/art/icons/ability_dragonknight_034.dds"}
+{"id":"019e6238-c297-7420-a1fe-e54ba76e38ae"}
+{"isMorph":false}
+{"key":"banish-the-wicked"}
+{"learnedLevel":10}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"guild-fighters-guild"}
+{"skillType":"passive"}
+{"slug":"banish-the-wicked"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-fighters-guild"}
+{"title":"Banish the Wicked"}
+{"type":"page-type/temper-skill"}

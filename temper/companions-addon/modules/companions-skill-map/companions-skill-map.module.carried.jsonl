@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"An ability's index here is the index a saved build hash has."}]}
+{"definition":"which index the build codec gives each companion ability the game knows"}
+{"id":"01a0611d-84e2-7459-a5ca-157255030bb6"}
+{"slug":"companions-skill-map"}
+{"type":"page-type/module"}

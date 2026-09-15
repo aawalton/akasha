@@ -1,0 +1,9 @@
+{"definition":"something a character does, learned from a skill line"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
+{"parts":["boolean-property/is-morph","number-property/eso-skill-id","number-property/learned-level","number-property/line-rank-needed","number-property/morph-index","number-property/skill-rank","page-type/temper-affix-script","page-type/temper-class","page-type/temper-focus-script","page-type/temper-grimoire","page-type/temper-scribed-skill","page-type/temper-scribing-source","page-type/temper-scribing-thing","page-type/temper-script","page-type/temper-signature-script","page-type/temper-skill-line","page-type/temper-skill-line-category","page-type/temper-skill-slot","page-type/temper-skill-type","text-property/base-name","text-property/skill-status"]}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"text-property/description","required":true,"many":false},{"pageProperty":"text-property/base-name","required":true,"many":false},{"pageProperty":"number-property/eso-skill-id","required":true,"many":false},{"pageProperty":"boolean-property/is-morph","required":true,"many":false},{"pageProperty":"number-property/learned-level","required":true,"many":false},{"pageProperty":"number-property/line-rank-needed","required":true,"many":false},{"pageProperty":"number-property/morph-index","required":true,"many":false},{"pageProperty":"number-property/skill-rank","required":true,"many":false},{"pageProperty":"text-property/skill-line-id","required":true,"many":false},{"pageProperty":"text-property/skill-type","required":true,"many":false},{"pageProperty":"text-property/subcategory-id","required":true,"many":false},{"pageProperty":"text-property/skill-status","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-skill"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

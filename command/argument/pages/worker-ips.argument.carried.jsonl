@@ -1,0 +1,7 @@
+{"id":"01a094e7-6fab-7d05-87bb-fa13560bd609"}
+{"placeholder":"csv"}
+{"said":"--worker-ips"}
+{"slug":"worker-ips"}
+{"takes":"every worker's address, where the cluster has workers"}
+{"type":"page-type/argument"}
+{"value":"text"}

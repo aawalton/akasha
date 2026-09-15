@@ -1,0 +1,17 @@
+{"baseName":"Capacitor"}
+{"description":"\"Increases your Health, Magicka, and Stamina Recovery by |cffffff70|r.\""}
+{"esoSkillId":31419}
+{"icon":"/esoui/art/icons/ability_sorcerer_013.dds"}
+{"id":"019e6f53-9fb3-7c38-89e8-8336235d7be4"}
+{"isMorph":false}
+{"key":"capacitor-31419"}
+{"learnedLevel":8}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":8}
+{"skillLineId":"sorcerer-storm-calling"}
+{"skillType":"passive"}
+{"slug":"capacitor-31419"}
+{"subcategoryId":"sorcerer-storm-calling"}
+{"title":"Capacitor"}
+{"type":"page-type/temper-skill"}

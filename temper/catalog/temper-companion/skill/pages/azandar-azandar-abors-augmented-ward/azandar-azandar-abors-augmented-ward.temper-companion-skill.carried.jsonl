@@ -1,0 +1,14 @@
+{"abilityId":191939}
+{"companionId":"azandar"}
+{"description":"Your Companion draws on advanced research to gain a damage shield that absorbs up to 25% of their Max Health for $$1 seconds. The first time they take direct damage after casting, the shield retaliates and deals $2 Magic Damage to the attacker."}
+{"icon":"/esoui/art/icons/ability_companion_arcanist_fatewovenarmor.dds"}
+{"id":"019e6484-3837-75fc-a834-638f18af72f8"}
+{"key":"azandar-abors-augmented-ward"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-azandar-quill-knight"}
+{"skillType":"active"}
+{"slug":"azandar-azandar-abors-augmented-ward"}
+{"tags":["max-health-shield-25pct","retaliation-damage"]}
+{"title":"Abor's Augmented Ward"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps","tank"]}

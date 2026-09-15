@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Where the longtail copier's code sits is asked of the index rather than spelled."}]}
+{"definition":"the scheduled job copying the oldest backups on to slower storage"}
+{"generatedDirectory":true}
+{"id":"01a0737d-3bc5-74ca-8f47-d5febbf370ba"}
+{"slug":"seaweedfs-backup-longtail"}
+{"type":"page-type/manifest"}

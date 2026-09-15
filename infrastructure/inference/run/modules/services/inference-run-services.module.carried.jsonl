@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every service names the versions that service ran."},{"decisionKind":"decision-kind/departure","statement":"A service that pins nothing names an empty set."}]}
+{"definition":"the services a run is recorded against, the operations they do and the versions they ran"}
+{"id":"01a0685d-4b35-700e-a313-871e5b2440ad"}
+{"slug":"inference-run-services"}
+{"type":"page-type/module"}

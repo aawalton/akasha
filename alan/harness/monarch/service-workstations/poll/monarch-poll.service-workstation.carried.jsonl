@@ -1,0 +1,7 @@
+{"definition":"the service landing the Monarch rows whose update time has moved"}
+{"enabled":true}
+{"id":"01a06829-0194-7a16-9864-72598a2e5654"}
+{"needsSecrets":true}
+{"slug":"monarch-poll"}
+{"systemd":{"schedule":"minutely","jitterSeconds":10,"accuracySeconds":1,"startTimeoutSeconds":300}}
+{"type":"page-type/service-workstation"}

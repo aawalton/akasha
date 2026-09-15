@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reading names the subject that reading is of."},{"decisionKind":"decision-kind/absence","statement":"A reading never reads as passing or failing."},{"decisionKind":"decision-kind/departure","statement":"A coverage whose denominator was not worked out says so rather than sitting at zero."}]}
+{"definition":"how something is, with what was covered and what was found"}
+{"id":"01a05c14-b119-7000-9120-df7558499051"}
+{"slug":"verdict-reading"}
+{"type":"page-type/module"}

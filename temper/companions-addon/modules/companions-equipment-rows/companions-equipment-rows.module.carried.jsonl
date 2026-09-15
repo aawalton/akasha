@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Column positions are fixed numbers rather than measured from content."}]}
+{"definition":"the controls one gear section of the equipment panel is drawn from"}
+{"id":"01a0611d-84d8-7602-83da-54ad2d53b4dd"}
+{"slug":"companions-equipment-rows"}
+{"type":"page-type/module"}

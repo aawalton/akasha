@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A quest is named by the number the game knows that quest by."}]}
+{"definition":"every companion quest, in the order a player takes it, with the rapport each one asks for"}
+{"id":"01a06121-f0ce-7862-9eb6-795c99701a24"}
+{"slug":"companion-quest-data"}
+{"type":"page-type/module"}

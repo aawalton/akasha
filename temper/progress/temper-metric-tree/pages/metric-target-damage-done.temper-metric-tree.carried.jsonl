@@ -1,0 +1,8 @@
+{"displayOrder":4}
+{"id":"019e2fcd-5a92-785a-ab7c-2f94f2eae086"}
+{"nodeId":"target-damage-done"}
+{"nodeType":"metric"}
+{"parent":"subcategory-target-damage"}
+{"slug":"metric-target-damage-done"}
+{"title":"Target Damage Done"}
+{"type":"page-type/temper-metric-tree"}

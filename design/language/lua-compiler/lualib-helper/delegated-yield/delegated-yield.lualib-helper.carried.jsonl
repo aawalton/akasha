@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"another iterable's values yielded on by the generator running"}
+{"id":"01a08c60-768b-7cff-a722-5bdfda499e11"}
+{"luaExport":"__TS__DelegatedYield"}
+{"slug":"delegated-yield"}
+{"type":"page-type/lualib-helper"}

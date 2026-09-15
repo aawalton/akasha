@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A report reaches home from a run holding no credential."},{"decisionKind":"decision-kind/departure","statement":"A reported user id that is nothing is written as null rather than left out."},{"decisionKind":"decision-kind/departure","statement":"A report the route could not take is kept and sent again by the next run."},{"decisionKind":"decision-kind/departure","statement":"A report sent late carries the instant the run made that report."},{"decisionKind":"decision-kind/departure","statement":"Only an answer in the two hundreds counts as a report arriving."}]}
+{"definition":"the Swift encoding what the phone posts to a route and posting it"}
+{"id":"01a0595b-ef5a-7421-8855-05d0d25560ac"}
+{"shell":"sh"}
+{"slug":"alanwalton-health-route-request"}
+{"sourced":true}
+{"type":"page-type/shell-script"}

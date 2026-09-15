@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-change"}
+{"changeTargetSubtype":"change-target-subtype/file-page"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One page is handed in here, and every file beside that page is answered for."},{"decisionKind":"decision-kind/departure","statement":"The page type a page moves to is named by the path of that page type's page."},{"decisionKind":"decision-kind/departure","statement":"Every file beside a page whose name carries the old page type states the new one instead."},{"decisionKind":"decision-kind/departure","statement":"A file whose name a property fixes is left where that file is."},{"decisionKind":"decision-kind/departure","statement":"The modules restating an address, a page type and a body's names are called rather than reached."},{"decisionKind":"decision-kind/departure","statement":"The body's page type and the type it satisfies are restated in the same answer."},{"decisionKind":"decision-kind/departure","statement":"A body naming a path that moved is repointed in the same answer."},{"decisionKind":"decision-kind/departure","statement":"A file beside the page is read for holding a body rather than for holding text."},{"decisionKind":"decision-kind/departure","statement":"An address the page type moves is restated wherever a body spells that address."},{"decisionKind":"decision-kind/departure","statement":"An address is restated before any file the page keeps beside it is carried."},{"decisionKind":"decision-kind/departure","statement":"The body states its new page type before any file beside that body is carried."},{"decisionKind":"decision-kind/departure","statement":"The file moved is moved by the rung this change reaches."},{"decisionKind":"decision-kind/absence","statement":"Nothing here changes the slug a page states."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads an argument off the command line."}]}
+{"definition":"one page stated as another page type, in the data and in every file name"}
+{"id":"01a09ca3-94da-7d4d-9aea-0e05b2ce3f33"}
+{"slug":"change-page-page-type"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical"}

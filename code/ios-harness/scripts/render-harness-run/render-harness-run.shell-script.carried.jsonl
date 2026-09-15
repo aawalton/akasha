@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A workstation that is not a mac hands the run to a workstation that is a mac."},{"decisionKind":"decision-kind/departure","statement":"The mac leg compiles the Swift sent to the mac leg rather than reading akasha."}]}
+{"definition":"what draws an app's tiles on a simulator"}
+{"id":"01a059a0-c8c3-7532-ba93-10d6107fa669"}
+{"shell":"sh"}
+{"slug":"render-harness-run"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

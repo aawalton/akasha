@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Death Scythe"}
+{"description":"\"Slice into your enemy's life force, dealing |cffffff2351|r Magic Damage and healing for |cffffff3016|r Health.\""}
+{"esoSkillId":238137}
+{"icon":"/esoui/art/icons/ability_necromancer_007.dds"}
+{"id":"019e6f53-a8e8-703f-9c45-b300758c6a07"}
+{"isMorph":false}
+{"key":"vengeance-death-scythe"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-necromancer-bone-tyrant"}
+{"skillType":"active"}
+{"slug":"vengeance-death-scythe"}
+{"subcategoryId":"vengeance-necromancer-bone-tyrant"}
+{"title":"Vengeance Death Scythe"}
+{"type":"page-type/temper-skill"}

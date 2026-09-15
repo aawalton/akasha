@@ -1,0 +1,7 @@
+{"definition":"how much care raising this topic takes"}
+{"id":"01a0658a-170f-7cc5-825a-2417116e376a"}
+{"propertySlug":"relationship-topic-sensitivity"}
+{"slug":"relationship-topic-sensitivity"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["not-applicable","low","medium","high","critical"]}

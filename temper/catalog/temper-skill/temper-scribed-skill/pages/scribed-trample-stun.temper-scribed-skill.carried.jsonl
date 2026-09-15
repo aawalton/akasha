@@ -1,0 +1,19 @@
+{"baseName":"Trample"}
+{"description":"Deals 1438 Physical Damage to all enemies and stuns them for 3 seconds."}
+{"esoSkillId":220545}
+{"focusScriptId":"stun"}
+{"grimoireId":"trample"}
+{"icon":"/esoui/art/icons/ability_grimoire_assault.dds"}
+{"id":"019e6471-15da-7b44-8ea3-aa025185089e"}
+{"isMorph":false}
+{"key":"scribed-trample-stun"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"scribed-trample-stun"}
+{"subcategoryId":"scribed"}
+{"title":"Dazing Trample"}
+{"type":"page-type/temper-scribed-skill"}

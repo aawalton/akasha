@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rate limit is read from the last assistant line of a transcript rather than from any line."},{"decisionKind":"decision-kind/departure","statement":"A line that is no JSON object is passed over rather than ending the read."},{"decisionKind":"decision-kind/departure","statement":"A death is a rate limit only where that line is an api error at status 429."},{"decisionKind":"decision-kind/departure","statement":"A transcript with no assistant line is no rate-limit death."},{"decisionKind":"decision-kind/departure","statement":"The decision is made by the decide module rather than here."},{"decisionKind":"decision-kind/departure","statement":"The decide module is imported from beside this module and its function called."},{"decisionKind":"decision-kind/departure","statement":"A decide that throws is at fault."},{"decisionKind":"decision-kind/departure","statement":"The fault carries that decide's own message."}]}
+{"definition":"a rate-limit death read out of a transcript, and the decide module asked about it"}
+{"id":"01a06838-5a84-7006-be45-2e23ffbbeeca"}
+{"slug":"supervisor-limit-resume-effects"}
+{"test":"ts"}
+{"type":"page-type/module"}

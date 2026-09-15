@@ -1,0 +1,8 @@
+{"definition":"the probe watching the macbook inference pool has stopped writing while its host is up"}
+{"domain":"inference"}
+{"id":"01a06755-62fa-7222-9915-b6b5a1364ae3"}
+{"runbook":"txt"}
+{"slug":"macbook-inference-probe-stale"}
+{"summary":"Macbook inference liveness probe is stale — monitoring blind"}
+{"title":"MacBook inference probe stale"}
+{"type":"page-type/alert"}

@@ -1,0 +1,14 @@
+{"abilityId":213169}
+{"alternateAbilityIds":[213678]}
+{"companionId":"zerith-var"}
+{"description":"Your Companion calls upon the power of Azurah, swinging a blade of lunar light in front of them, dealing $1 Magic Damage. Enemies damaged by this ability have Minor Magickasteal applied for $$2 seconds, causing them and their allies to restore 168 Magicka to attackers every 1 second when damaging enemies."}
+{"icon":"/esoui/art/icons/ability_companion_zerith_mooncrescent.dds"}
+{"id":"019e6484-38ae-78e1-bcea-00334a19c551"}
+{"key":"zerith-var-blade-of-the-crossing"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-zerith-var"}
+{"skillType":"ultimate"}
+{"slug":"zerith-var-zerith-var-blade-of-the-crossing"}
+{"title":"Blade of the Crossing"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

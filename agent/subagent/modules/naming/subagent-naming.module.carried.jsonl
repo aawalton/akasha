@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The mark between the two names is two hyphens."},{"decisionKind":"decision-kind/departure","statement":"A name is split at the first mark rather than the last."},{"decisionKind":"decision-kind/departure","statement":"A name opening with the mark names no seat above it."},{"decisionKind":"decision-kind/departure","statement":"A name without the mark belongs to a seat rather than a subagent."}]}
+{"definition":"how a subagent's name has the seat above it, joined by a double hyphen"}
+{"id":"01a06949-b281-7ea1-9435-503a9b97d864"}
+{"slug":"subagent-naming"}
+{"type":"page-type/module"}

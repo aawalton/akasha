@@ -1,0 +1,8 @@
+{"displayOrder":7}
+{"id":"019e2fcd-5aaa-770e-b33f-b9b67efcd49b"}
+{"nodeId":"target-damage-taken-poison"}
+{"nodeType":"metric"}
+{"parent":"subcategory-target-toughness"}
+{"slug":"metric-target-damage-taken-poison"}
+{"title":"Target Damage Taken Poison"}
+{"type":"page-type/temper-metric-tree"}

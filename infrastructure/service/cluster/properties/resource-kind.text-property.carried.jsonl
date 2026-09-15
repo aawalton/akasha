@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The kind named here has a pod template."}]}
+{"definition":"the kind of cluster resource a service is"}
+{"id":"01a05a41-58c4-774b-900e-126b3c832eb0"}
+{"maxLength":50}
+{"nameFormat":null}
+{"propertySlug":"resource-kind"}
+{"slug":"resource-kind"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

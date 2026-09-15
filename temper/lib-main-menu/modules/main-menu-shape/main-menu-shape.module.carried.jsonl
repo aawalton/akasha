@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every method here takes the library object as its first argument."},{"decisionKind":"decision-kind/absence","statement":"Nothing here is code the game runs."}]}
+{"definition":"the fields and the methods the published library object holds"}
+{"id":"01a0605b-c805-71c8-a662-3a04cfd1c00b"}
+{"slug":"main-menu-shape"}
+{"type":"page-type/module"}

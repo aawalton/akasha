@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"definition":"a tap on one of Alan's widgets, counted on the widget the tap opened"}
+{"id":"01a078aa-cea2-7140-b891-15301912614a"}
+{"slug":"widget-tap"}
+{"test":"ts"}
+{"type":"page-type/route"}
+{"urlPath":"api/widget-tap"}

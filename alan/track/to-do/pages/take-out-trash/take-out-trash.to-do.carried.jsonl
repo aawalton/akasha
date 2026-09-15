@@ -1,0 +1,12 @@
+{"difficulty":"light"}
+{"id":"019db533-f381-777a-a057-ad3fc897730f"}
+{"slug":"take-out-trash"}
+{"title":"Take out Trash"}
+{"toDoCategory":"health"}
+{"toDoDueDate":"2026-09-15"}
+{"toDoLastCompletedAt":"2026-09-13T16:15:03.373Z"}
+{"toDoPriority":"p3"}
+{"toDoRecurrence":"FREQ=WEEKLY;BYDAY=TU,SA"}
+{"toDoSortOrder":35}
+{"toDoValue":"value/health"}
+{"type":"page-type/to-do"}

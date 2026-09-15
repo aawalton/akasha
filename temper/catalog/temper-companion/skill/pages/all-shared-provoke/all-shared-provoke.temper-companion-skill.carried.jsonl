@@ -1,0 +1,13 @@
+{"abilityId":152625}
+{"companionId":"all"}
+{"description":"Your Companion thrusts their weapon with disciplined precision at an enemy, dealing $1 Physical Damage and taunting the enemy to attack them for $$2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_1handed_002.dds"}
+{"id":"019e668d-c558-72bb-83be-19b7b5db6635"}
+{"key":"shared-provoke"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"weapon-one-hand-shield"}
+{"skillType":"active"}
+{"slug":"all-shared-provoke"}
+{"title":"Provoke"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps","tank"]}

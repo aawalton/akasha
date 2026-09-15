@@ -1,0 +1,14 @@
+{"changeKind":"change-kind/change-checked"}
+{"changeMode":"change-mode/change-mode-move"}
+{"changeTargetSubtype":"change-target-subtype/folder"}
+{"changeTargetType":"change-target-type/folder"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A module's folder is carried under a `modules` folder beside where it sat."},{"decisionKind":"decision-kind/departure","statement":"The folder keeps the name the folder has."},{"decisionKind":"decision-kind/departure","statement":"A module already under a `modules` folder is passed over."},{"decisionKind":"decision-kind/departure","statement":"A module under a `.server` folder is passed over too."},{"decisionKind":"decision-kind/departure","statement":"A count handed in holds how many folders one run carries."},{"decisionKind":"decision-kind/departure","statement":"A run handed no count carries every folder that is not under one already."},{"decisionKind":"decision-kind/departure","statement":"A run carrying no folder is refused."},{"decisionKind":"decision-kind/departure","statement":"One folder refused refuses the whole change."},{"decisionKind":"decision-kind/departure","statement":"Each module is looked up again as the run leaves the tree."},{"decisionKind":"decision-kind/departure","statement":"A module a folder already carried is passed over on that lookup."},{"decisionKind":"decision-kind/departure","statement":"The move is left to the mechanical change moving a folder."},{"decisionKind":"decision-kind/departure","statement":"That change is reached through the runner rather than by an import."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a page's own body."}]}
+{"definition":"every module's folder carried under a modules folder beside the page above it"}
+{"id":"01a095f8-a367-726d-98cb-052fe5052d45"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":3072}
+{"slug":"nest-modules"}
+{"takesAtMost":true}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

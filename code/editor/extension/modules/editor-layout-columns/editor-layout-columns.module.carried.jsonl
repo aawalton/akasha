@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A group is placed by the column that group is in."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the editor."}]}
+{"definition":"the editor's groups and the tabs sitting in them, as a panel reads them"}
+{"id":"01a0680d-8b3d-7000-9414-939aff9377c5"}
+{"slug":"editor-layout-columns"}
+{"type":"page-type/module"}

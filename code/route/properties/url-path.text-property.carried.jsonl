@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path is written as the router takes that path."},{"decisionKind":"decision-kind/departure","statement":"A path has no leading slash."},{"decisionKind":"decision-kind/departure","statement":"A segment opening with `:` names a parameter rather than a literal."},{"decisionKind":"decision-kind/departure","statement":"A segment of `*` matches whatever is left of the url."}]}
+{"definition":"the path a router serves a route under"}
+{"id":"01a071dc-83c6-7c58-b6e1-8aaf847e66ef"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"url-path"}
+{"slug":"url-path"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

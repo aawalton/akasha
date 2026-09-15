@@ -1,0 +1,7 @@
+{"definition":"how much attention the movement takes to perform safely"}
+{"id":"01a0657e-2bc0-70b8-9883-2ec311b92460"}
+{"propertySlug":"skill-cost"}
+{"slug":"skill-cost"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["high","low","moderate"]}

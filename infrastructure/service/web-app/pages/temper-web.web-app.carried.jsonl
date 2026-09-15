@@ -1,0 +1,10 @@
+{"basePort":3300}
+{"buildCommand":"bun run build"}
+{"definition":"the parts of Temper that run in a browser"}
+{"hostnames":["tempereso.com","www.tempereso.com"]}
+{"id":"01a05b26-f8b6-7a52-a21e-599a20af3732"}
+{"secretResource":"temper-secrets"}
+{"serviceClusters":["service-cluster/temper-web"]}
+{"slug":"temper-web"}
+{"sourceDirectory":"temper/web"}
+{"type":"page-type/web-app"}

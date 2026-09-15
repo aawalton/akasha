@@ -1,0 +1,18 @@
+{"baseName":"Cutpurse"}
+{"description":"\"Increases your experience gain with the Medium Armor skill line by 15%.\\n\\nIncreases your chance to successfully pickpocket by 5%.\""}
+{"esoSkillId":36063}
+{"icon":"/esoui/art/icons/ability_armor_010.dds"}
+{"id":"019e624a-12c4-7739-87f3-6cc555a094a6"}
+{"isMorph":false}
+{"key":"cutpurse"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"racial-khajiit-skills"}
+{"skillType":"passive"}
+{"slug":"cutpurse"}
+{"status":"unsupported"}
+{"subcategoryId":"racial-khajiit-skills"}
+{"title":"Cutpurse"}
+{"type":"page-type/temper-skill"}

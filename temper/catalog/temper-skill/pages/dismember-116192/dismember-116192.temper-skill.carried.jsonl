@@ -1,0 +1,17 @@
+{"baseName":"Dismember"}
+{"description":"\"While a Grave Lord ability is active, your Spell and Physical Penetration are increased by |cffffff1635|r.\""}
+{"esoSkillId":116192}
+{"icon":"/esoui/art/icons/passive_necromancer_003.dds"}
+{"id":"019e6f53-a0d8-7150-a005-cac8fdacab61"}
+{"isMorph":false}
+{"key":"dismember-116192"}
+{"learnedLevel":22}
+{"lineRankNeeded":22}
+{"morphIndex":0}
+{"rank":22}
+{"skillLineId":"necromancer-grave-lord"}
+{"skillType":"passive"}
+{"slug":"dismember-116192"}
+{"subcategoryId":"necromancer-grave-lord"}
+{"title":"Dismember"}
+{"type":"page-type/temper-skill"}

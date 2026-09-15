@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A hook's slug opens with the name git runs that hook under."},{"decisionKind":"decision-kind/departure","statement":"The rest of that slug says which act the hook does."},{"decisionKind":"decision-kind/departure","statement":"A repository reaches a hook where the hook sits rather than holding a copy."}]}
+{"definition":"a shell script git runs under a name git fixes"}
+{"extends":["page-type/shell-script"]}
+{"id":"01a08b9f-d972-7ee0-8e22-db3bbd9747c8"}
+{"parts":["git-hook/post-receive-mirror","git-hook/pre-receive-change-branches","git-hook/pre-receive-main-append-only"]}
+{"schema":"jsonl"}
+{"slug":"git-hook"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

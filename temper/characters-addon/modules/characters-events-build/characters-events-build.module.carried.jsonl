@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A run of build changes is read once after the run settles."}]}
+{"definition":"what this add-on does when the played character's build changes"}
+{"id":"01a0632d-cba3-7016-85c9-1835035387d2"}
+{"slug":"characters-events-build"}
+{"type":"page-type/module"}

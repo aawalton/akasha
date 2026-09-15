@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A subject has only courses."},{"decisionKind":"decision-kind/departure","statement":"A subject states no length of its own."},{"decisionKind":"decision-kind/departure","statement":"Every subject sits under the shelf the subjects are sorted on."}]}
+{"definition":"one shelf the courses are sorted onto by what they teach"}
+{"extends":["page-type/collection-external"]}
+{"id":"01a06574-0291-7003-8e30-de8222ab3a07"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"great-courses-subject"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

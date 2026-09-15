@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Keys are asked in camel and a row is answered in kebab."},{"decisionKind":"decision-kind/departure","statement":"A key naming an entry answers that entry's rows rather than the file's extension."},{"decisionKind":"decision-kind/departure","statement":"An answered row's `at` is the day's slug rather than a file path."},{"decisionKind":"decision-kind/departure","statement":"A caller reducing a day in the kebab spelling takes the values rather than the page."},{"decisionKind":"decision-kind/departure","statement":"A key the day page type declares nothing for is refused rather than answered as absent."}]}
+{"definition":"one of Alan's days, read off the akasha page that day is kept on"}
+{"id":"01a072fc-7da2-7b59-939d-ab395d803995"}
+{"slug":"day-reading"}
+{"type":"page-type/module"}

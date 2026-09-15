@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Expired listings are dropped before anything is captured."}]}
+{"definition":"what the listings add-on does as the game loads it"}
+{"id":"01a06160-2a5a-71e6-8292-47916aad37fc"}
+{"slug":"trading-entry"}
+{"type":"page-type/module"}

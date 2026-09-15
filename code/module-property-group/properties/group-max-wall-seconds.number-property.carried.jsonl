@@ -1,0 +1,7 @@
+{"definition":"the most clock time one run of a group's code may take, in seconds"}
+{"id":"01a08bb3-7020-78bf-b50e-899b7d794a86"}
+{"max":null}
+{"propertySlug":"max-wall-seconds"}
+{"slug":"group-max-wall-seconds"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

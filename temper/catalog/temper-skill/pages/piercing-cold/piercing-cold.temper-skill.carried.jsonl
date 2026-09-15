@@ -1,0 +1,19 @@
+{"baseName":"Piercing Cold"}
+{"description":"\"Increases the amount of damage you block by 8% and increases your Frost Damage by 15%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":86196}
+{"icon":"/esoui/art/icons/passive_warden_004.dds"}
+{"id":"019e6245-a6e3-7fbe-81fe-30faad949600"}
+{"isMorph":false}
+{"key":"piercing-cold"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"warden-winters-embrace"}
+{"skillType":"passive"}
+{"slug":"piercing-cold"}
+{"status":"supported"}
+{"subcategoryId":"warden-winters-embrace"}
+{"title":"Piercing Cold"}
+{"type":"page-type/temper-skill"}

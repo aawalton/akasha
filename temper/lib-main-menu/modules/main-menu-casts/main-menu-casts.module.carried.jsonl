@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A narrowing here asserts a shape rather than checking a shape."},{"decisionKind":"decision-kind/departure","statement":"A caller narrowing a game value states which shape the caller expects."}]}
+{"definition":"the narrowings from an untyped game value to a shape this library reads"}
+{"id":"01a0605b-c801-75ea-bec7-99b3645fcbda"}
+{"slug":"main-menu-casts"}
+{"type":"page-type/module"}

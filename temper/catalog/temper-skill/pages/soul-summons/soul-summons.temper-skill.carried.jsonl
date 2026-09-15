@@ -1,0 +1,19 @@
+{"baseName":"Soul Summons"}
+{"description":"\"Allows you to revive once every 1 hour without spending a Soul Gem.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45590}
+{"icon":"/esoui/art/icons/ability_sorcerer_047.dds"}
+{"id":"019e6251-4cf0-78c7-9c19-a22bbf0fafa3"}
+{"isMorph":false}
+{"key":"soul-summons"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"world-soul-magic"}
+{"skillType":"passive"}
+{"slug":"soul-summons"}
+{"status":"unsupported"}
+{"subcategoryId":"world-soul-magic"}
+{"title":"Soul Summons"}
+{"type":"page-type/temper-skill"}

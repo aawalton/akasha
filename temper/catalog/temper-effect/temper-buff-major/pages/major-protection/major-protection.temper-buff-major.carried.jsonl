@@ -1,0 +1,7 @@
+{"description":"Reduces damage taken by 10%"}
+{"effects":"jsonl"}
+{"id":"01a05fc5-f6bb-775c-aa8d-fb381102b1b2"}
+{"key":"major-protection"}
+{"slug":"major-protection"}
+{"title":"Major Protection"}
+{"type":"page-type/temper-buff-major"}

@@ -1,0 +1,5 @@
+{"definition":"the image the Windows watcher tray and worker are cross-compiled in and taken out of"}
+{"id":"01a0685d-ab5d-72a9-b18a-46c3a7cd02ff"}
+{"recipe":"dockerfile"}
+{"slug":"temper-watcher-image"}
+{"type":"page-type/container-recipe"}

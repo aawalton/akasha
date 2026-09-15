@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/seat","required":true,"saidAs":"word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reset reads the last committed page where the seat is stopped."},{"decisionKind":"decision-kind/departure","statement":"The seat reset is named by the first word."},{"decisionKind":"decision-kind/departure","statement":"A seat to reset is named as that seat's page is named."},{"decisionKind":"decision-kind/departure","statement":"A word past the seat's name is refused."},{"decisionKind":"decision-kind/departure","statement":"The code a reset runs is reached only once a reset is read."},{"decisionKind":"decision-kind/departure","statement":"The output a reset prints is written where the reset runs."},{"decisionKind":"decision-kind/departure","statement":"A reset refused after it took the agent out of the seat names each write it finished."},{"decisionKind":"decision-kind/departure","statement":"A reset refused before it wrote anything is refused as the fault alone."}]}
+{"definition":"the command sitting a new agent down under everything a seat already states"}
+{"id":"01a0797a-9aa4-7473-88de-e9a24a94bb70"}
+{"name":"reset"}
+{"slug":"seat-reset"}
+{"test":"ts"}
+{"type":"page-type/command"}

@@ -1,0 +1,10 @@
+{"displayOrder":4}
+{"effect":"Deals damage and returns stamina (proc-based)"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_ABSORB_STAMINA"}
+{"essenceRune":"Deni"}
+{"glyphName":"Glyph of Absorb Stamina"}
+{"id":"019e5c0d-dcf0-7d4e-9a33-4ea92911078b"}
+{"key":"absorb-stamina"}
+{"slug":"absorb-stamina"}
+{"title":"Absorb Stamina"}
+{"type":"page-type/temper-weapon-enchant"}

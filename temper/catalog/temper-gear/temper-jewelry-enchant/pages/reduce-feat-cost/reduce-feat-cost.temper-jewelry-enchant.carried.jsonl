@@ -1,0 +1,12 @@
+{"displayOrder":8}
+{"effect":"Reduces Stamina ability cost"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_REDUCE_FEAT_COST"}
+{"essenceRune":"Taderi"}
+{"glyphName":"Glyph of Reduce Feat Cost"}
+{"id":"019e5c85-d94f-717a-b384-c3148481347b"}
+{"key":"reduce-feat-cost"}
+{"qualityValues":"jsonl"}
+{"slug":"reduce-feat-cost"}
+{"title":"Reduce Feat Cost"}
+{"type":"page-type/temper-jewelry-enchant"}

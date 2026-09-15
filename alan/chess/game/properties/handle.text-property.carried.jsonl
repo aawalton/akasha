@@ -1,0 +1,8 @@
+{"definition":"the account name a game was played under"}
+{"id":"01a06582-bd62-7728-bc8f-07ef64d9438b"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"handle"}
+{"slug":"handle"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

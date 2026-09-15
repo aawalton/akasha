@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The times are written as the five cron fields."},{"decisionKind":"decision-kind/departure","statement":"A workload the cluster starts by hand carries no schedule."}]}
+{"definition":"the times the cluster starts a workload"}
+{"id":"01a06587-c73c-74e9-8542-4de33139539f"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"schedule"}
+{"slug":"service-cluster-schedule"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

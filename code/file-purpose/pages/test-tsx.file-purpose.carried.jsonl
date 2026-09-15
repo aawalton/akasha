@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A file whose name ends `test.tsx` is of this purpose."},{"decisionKind":"decision-kind/departure","statement":"A test written with markup is of this purpose rather than of `test-ts`."}]}
+{"definition":"a file of TypeScript source with markup, with tests"}
+{"id":"01a06860-a0ef-7699-bc5d-c45850b551d2"}
+{"slug":"test-tsx"}
+{"type":"page-type/file-purpose"}

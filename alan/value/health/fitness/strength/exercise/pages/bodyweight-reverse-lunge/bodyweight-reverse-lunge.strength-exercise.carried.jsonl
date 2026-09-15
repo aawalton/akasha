@@ -1,0 +1,23 @@
+{"equipment":"strength-exercise-implement/body-only"}
+{"exerciseCategory":"strength"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"aelwyn-custom"}
+{"force":"push"}
+{"gripDemand":"none"}
+{"id":"019efbeb-3290-7f24-9fea-5a3c8c91957b"}
+{"implementCount":1}
+{"isBallistic":false}
+{"laterality":"unilateral"}
+{"loadFactor":0.06}
+{"mechanic":"compound"}
+{"movementPattern":"lunge"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["quadriceps","glutes"]}
+{"scoringMode":"reps"}
+{"secondaryMuscles":["hamstrings","calves"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"bodyweight-reverse-lunge"}
+{"title":"Bodyweight Reverse Lunge"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

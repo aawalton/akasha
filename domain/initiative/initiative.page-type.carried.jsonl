@@ -1,0 +1,11 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An initiative sits under another initiative or under no initiative."},{"decisionKind":"decision-kind/departure","statement":"An initiative takes each intent off the domain that had the intent and has the intent as its own."},{"decisionKind":"decision-kind/departure","statement":"An intent an initiative meets returns to the domain the intent came from or is deleted."},{"decisionKind":"decision-kind/departure","statement":"An intent returning to its domain is a design or condition decision."},{"decisionKind":"decision-kind/departure","statement":"An initiative is not limited to one domain."},{"decisionKind":"decision-kind/departure","statement":"An initiative's purpose is done once every intent that initiative has is met."},{"decisionKind":"decision-kind/departure","statement":"A state the migration passes through is an initiative."},{"decisionKind":"decision-kind/departure","statement":"An initiative dies when the initiative is reached rather than remaining as a domain that is done."},{"decisionKind":"decision-kind/upkeep","statement":"No initiative has an intent that is met."},{"decisionKind":"decision-kind/gap","statement":"An initiative is read from this definition rather than from the old system's."}]}
+{"definition":"work that closes gaps between how a domain is and how it should be"}
+{"extends":["page-type/page"]}
+{"id":"01a04e58-5735-72b4-b945-56366461c776"}
+{"mortal":true}
+{"parts":["record-property/intent-stack","relation-property/initiative","relation-property/initiative-parent","relation-property/initiative-persona","standard-agent-english-property/constraints","standard-agent-english-property/intent-statement","text-property/working-memory"]}
+{"properties":[{"pageProperty":"relation-property/page-domain","required":true,"many":false},{"pageProperty":"relation-property/initiative-persona","required":true,"many":false},{"pageProperty":"relation-property/initiative-parent","required":false,"many":false},{"pageProperty":"record-property/intent-stack","required":false,"many":true,"maxCount":null},{"pageProperty":"standard-agent-english-property/constraints","required":false,"many":true,"maxCount":30}]}
+{"schema":"jsonl"}
+{"slug":"initiative"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

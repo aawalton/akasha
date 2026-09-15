@@ -1,0 +1,8 @@
+{"definition":"which of the three scripts a scribing source yields"}
+{"id":"01a05fca-cb86-7ada-8ab9-4822a45c4ebf"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"script-type"}
+{"slug":"script-type"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

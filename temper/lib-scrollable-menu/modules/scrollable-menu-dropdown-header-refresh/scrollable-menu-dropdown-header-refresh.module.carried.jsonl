@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The header is hidden and zeroed before any child is processed."},{"decisionKind":"decision-kind/departure","statement":"A collapsed header shows its toggle icon and toggle title alone."},{"decisionKind":"decision-kind/departure","statement":"Option values may be plain values or functions returning a value."},{"decisionKind":"decision-kind/constraint","statement":"A custom header control is accepted only as game userdata."}]}
+{"definition":"the refresh that reads options onto each header child and re-runs the anchors"}
+{"id":"01a06275-c448-7d4f-b5d1-337777f5d2dd"}
+{"slug":"scrollable-menu-dropdown-header-refresh"}
+{"type":"page-type/module"}

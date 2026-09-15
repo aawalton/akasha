@@ -1,0 +1,17 @@
+{"baseName":"Siege Shield"}
+{"description":"\"Create a protective sphere over your location that reduces damage taken from siege weapons by 50% for you and nearby allies.\\n\\nAlso increases the range of abilities with a range greater than 28 meters by 7 meters. Does not affect Leap, Move Position, and Pull abilities.\""}
+{"esoSkillId":46670}
+{"icon":"/esoui/art/icons/ability_ava_004_a.dds"}
+{"id":"019e6251-4cd8-7124-b08a-706c69c62474"}
+{"isMorph":true}
+{"key":"propelling-shield"}
+{"learnedLevel":2}
+{"lineRankNeeded":2}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"active"}
+{"slug":"propelling-shield"}
+{"subcategoryId":"alliance-war-support"}
+{"title":"Propelling Shield"}
+{"type":"page-type/temper-skill"}

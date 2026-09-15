@@ -1,0 +1,8 @@
+{"definition":"a dish a restaurant serves"}
+{"extends":["page-type/collection"]}
+{"id":"01a06807-be66-700d-8bc5-ae2909f1d723"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"restaurant-menu-item"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

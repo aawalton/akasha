@@ -1,0 +1,9 @@
+{"definition":"a faction the players of Tamriel are divided among"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fc4-7a8c-7403-bf1d-3fe777a61478"}
+{"parts":["number-property/eso-alliance-id"]}
+{"properties":[{"pageProperty":"number-property/eso-alliance-id","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-alliance"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

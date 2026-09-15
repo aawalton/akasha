@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every listener is named after the add-on so a reload can drop those listeners."}]}
+{"definition":"the game events the listings add-on listens for"}
+{"id":"01a06160-2a5a-796d-b687-09aeb649b743"}
+{"slug":"trading-events"}
+{"type":"page-type/module"}

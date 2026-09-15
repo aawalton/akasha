@@ -1,0 +1,12 @@
+{"displayOrder":3}
+{"effect":"Increases Magicka Recovery"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_MAGICKA_REGEN"}
+{"essenceRune":"Makkoma"}
+{"glyphName":"Glyph of Magicka Recovery"}
+{"id":"019e5c85-d944-7808-a7cb-6ef7ac7b95ee"}
+{"key":"magicka-recovery"}
+{"qualityValues":"jsonl"}
+{"slug":"magicka-recovery"}
+{"title":"Magicka Recovery"}
+{"type":"page-type/temper-jewelry-enchant"}

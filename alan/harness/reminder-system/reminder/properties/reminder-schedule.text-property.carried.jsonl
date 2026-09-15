@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Systemd reads a schedule rather than a parser of our own."},{"decisionKind":"decision-kind/departure","statement":"A schedule naming one absolute time does not repeat."}]}
+{"definition":"the times a reminder is sent at, written as systemd states a calendar"}
+{"id":"01a05f42-d941-7006-a1ef-7866d346525a"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"schedule"}
+{"slug":"reminder-schedule"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

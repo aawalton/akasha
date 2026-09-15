@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a poison effect."}]}
+{"definition":"the alchemy effect undoing what this one does"}
+{"id":"01a05fd1-d43d-7ade-8dad-6cb14825b926"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"opposite-id"}
+{"slug":"opposite-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

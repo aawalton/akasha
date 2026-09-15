@@ -1,0 +1,12 @@
+{"displayOrder":1}
+{"effect":"Increases Maximum Health"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_HEALTH"}
+{"essenceRune":"Oko"}
+{"glyphName":"Glyph of Health"}
+{"id":"01a05fd4-d96a-7f26-be77-be4206893578"}
+{"key":"health"}
+{"qualityValues":"jsonl"}
+{"slug":"health"}
+{"title":"Health"}
+{"type":"page-type/temper-armor-enchant"}

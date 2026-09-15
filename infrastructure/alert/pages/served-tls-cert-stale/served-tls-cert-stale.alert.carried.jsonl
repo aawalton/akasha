@@ -1,0 +1,8 @@
+{"definition":"a listener serves a certificate older than the one cert-manager has issued"}
+{"domain":"infrastructure"}
+{"id":"01a087cb-1b19-7002-b28a-25d4ab8d634e"}
+{"runbook":"txt"}
+{"slug":"served-tls-cert-stale"}
+{"summary":"{{ $labels.instance }} serves an older certificate than cert-manager issued for {{ $labels.namespace }}/{{ $labels.name }}"}
+{"title":"Served TLS cert stale"}
+{"type":"page-type/alert"}

@@ -1,0 +1,12 @@
+{"displayOrder":13}
+{"effect":"Increases Poison Resistance"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_POISON_RESISTANT"}
+{"essenceRune":"Kuoko"}
+{"glyphName":"Glyph of Poison Resist"}
+{"id":"019e5c85-d956-7d2f-891d-0d40261fddf5"}
+{"key":"poison-resist"}
+{"qualityValues":"jsonl"}
+{"slug":"poison-resist"}
+{"title":"Poison Resist"}
+{"type":"page-type/temper-jewelry-enchant"}

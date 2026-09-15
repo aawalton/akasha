@@ -1,0 +1,5 @@
+{"definition":"whether the agent in a seat is doing nothing"}
+{"id":"01a09c74-522d-7dde-b3a8-be37b2fa1151"}
+{"parts":["module/supervisor-idle-decide","module/supervisor-idle-observe","module/supervisor-idle-rule"]}
+{"slug":"supervisor-idleness"}
+{"type":"page-type/domain"}

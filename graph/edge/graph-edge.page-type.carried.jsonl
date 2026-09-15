@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An edge kind names the attributes that edge kind has."},{"decisionKind":"decision-kind/departure","statement":"An attribute names no edge."}]}
+{"definition":"a way one thing reaches another"}
+{"extends":["page-type/domain"]}
+{"id":"01a04fe8-cebd-71d5-a040-d50b202e6eb1"}
+{"parts":["graph-edge/import-edge","graph-edge/relation","relation-property/attributes"]}
+{"properties":[{"pageProperty":"relation-property/attributes","required":false,"many":true,"maxCount":null}]}
+{"schema":"jsonl"}
+{"slug":"graph-edge"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

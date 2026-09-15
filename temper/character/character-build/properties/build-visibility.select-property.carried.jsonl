@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A live build is the arrangement the character wears now."},{"decisionKind":"decision-kind/departure","statement":"A target build is the arrangement the character is working toward."},{"decisionKind":"decision-kind/departure","statement":"A private build is neither worn now nor worked toward."},{"decisionKind":"decision-kind/departure","statement":"A private build is there only for its author."}]}
+{"definition":"how a build stands to the character with it"}
+{"id":"01a06862-c4ee-7a6d-886a-f9af2859fd5f"}
+{"propertySlug":"visibility"}
+{"slug":"build-visibility"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["live","target","private"]}

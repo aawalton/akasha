@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The search box takes its placeholder and its label from a string id."},{"decisionKind":"decision-kind/departure","statement":"Every row of a report is a virtual label the tracker copies."},{"decisionKind":"decision-kind/departure","statement":"The Shalidor heading and the Eidetic heading are anchored to the one scroll child."},{"decisionKind":"decision-kind/departure","statement":"The copy window has one edit box the player reads rather than writes."}]}
+{"definition":"the lore library search box and the two report windows the lorebook tracker fills"}
+{"id":"01a0624c-a660-70e7-ac40-0ff60904655d"}
+{"loadedAs":"LoreBooks.xml"}
+{"markup":"xml"}
+{"slug":"lorebooks-report-layout"}
+{"type":"page-type/eso-interface"}

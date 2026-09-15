@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the text left once the whitespace at both ends is taken away"}
+{"id":"01a081ed-ab46-7949-88e2-af34c0c84bcb"}
+{"luaExport":"__TS__StringTrim"}
+{"slug":"string-trim"}
+{"type":"page-type/lualib-helper"}

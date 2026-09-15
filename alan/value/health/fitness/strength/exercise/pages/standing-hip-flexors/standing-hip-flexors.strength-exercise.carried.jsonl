@@ -1,0 +1,27 @@
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Standing_Hip_Flexors"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Hip_Flexors"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"static"}
+{"gripDemand":"low"}
+{"id":"019ebc78-8958-74cf-b70d-dbd265fdead8"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Hip_Flexors/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Hip_Flexors/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"mechanic":"isolation"}
+{"movementPattern":"mobility"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["quadriceps"]}
+{"scoringMode":"time"}
+{"sfrScore":4}
+{"skillCost":"low"}
+{"slug":"standing-hip-flexors"}
+{"title":"Standing Hip Flexors"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

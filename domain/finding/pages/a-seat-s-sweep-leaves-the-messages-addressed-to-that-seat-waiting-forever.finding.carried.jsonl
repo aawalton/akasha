@@ -1,0 +1,6 @@
+{"claim":"A seat's page goes when the seat is done, and the messages addressed to that seat remain. `writeMessage` refuses a recipient no seat holds, so such a message can only have been written while the seat was there; nothing takes it once the seat goes, and `messagesTo` reaches it never, so it waits in the page store for a reader who cannot arrive. The sweep taking a seat's page is the place to take the messages addressed to it."}
+{"domain":"domain/messaging"}
+{"evidence":"Of 65 message pages under `agent/messaging/message/pages`, 33 name one of the 14 seats that are there and 32 name a seat that is gone: 31 name `aelwyn`, which `6582f68494f aelwyn stopped, deliberate, so its page goes` took, and 1 names `elin`. `message-file.module.code.ts:170` returns nothing for a recipient the index does not hold, and `:82` refuses a write to one, so neither the read path nor the write path ever touches these again. They were found because `qualify-relation-on-every-page` refuses a page whose bare value names no page admitting the target type: `message-02fbc61e945f.message.ts states to, and no page admitting seat carries the slug aelwyn`."}
+{"id":"01a0a19d-a026-7676-9a2e-35bdaf1f84ad"}
+{"slug":"a-seat-s-sweep-leaves-the-messages-addressed-to-that-seat-waiting-forever"}
+{"type":"page-type/finding"}

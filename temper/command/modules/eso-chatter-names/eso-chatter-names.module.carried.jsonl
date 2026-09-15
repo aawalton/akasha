@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name is rendered as a literal the JSON writer quoted."},{"decisionKind":"decision-kind/absence","statement":"The module rendered here carries no prose."}]}
+{"definition":"the chatter and interaction names the emitted declarations hold, rendered as a module"}
+{"id":"01a069cf-7042-7000-8df6-e6b7ffd0efc8"}
+{"slug":"eso-chatter-names"}
+{"test":"ts"}
+{"type":"page-type/module"}

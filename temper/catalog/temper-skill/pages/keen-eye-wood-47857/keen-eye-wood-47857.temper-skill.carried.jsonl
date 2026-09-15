@@ -1,0 +1,17 @@
+{"baseName":"Keen Eye: Wood"}
+{"description":"\"Wood in the world will be easier to see when you are |cffffff20|r meters or closer.\""}
+{"esoSkillId":47857}
+{"icon":"/esoui/art/icons/ability_smith_002.dds"}
+{"id":"019e6f53-a3af-779e-a58e-debe882c79cc"}
+{"isMorph":false}
+{"key":"keen-eye-wood-47857"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"craft-woodworking"}
+{"skillType":"passive"}
+{"slug":"keen-eye-wood-47857"}
+{"subcategoryId":"craft-woodworking"}
+{"title":"Keen Eye: Wood"}
+{"type":"page-type/temper-skill"}

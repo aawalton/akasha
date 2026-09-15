@@ -1,0 +1,10 @@
+{"definition":"what rebalances and compacts the volumes files are held in"}
+{"id":"01a06816-68b2-73ad-b106-fece69b13da9"}
+{"image":"chrislusf/seaweedfs:3.73"}
+{"manifest":["manifest/seaweedfs-maintenance"]}
+{"namespace":"seaweedfs-maintenance"}
+{"resourceKind":"CronJob"}
+{"resourceName":"seaweedfs-maintenance"}
+{"schedule":"43 6 * * 0"}
+{"slug":"seaweedfs-maintenance"}
+{"type":"page-type/service-cluster"}

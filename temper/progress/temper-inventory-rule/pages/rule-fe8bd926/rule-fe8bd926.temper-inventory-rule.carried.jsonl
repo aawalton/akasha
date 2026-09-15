@@ -1,0 +1,12 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/move-to"}
+{"active":true}
+{"categoryId":"scrolls"}
+{"conditions":"jsonl"}
+{"destination":"bank"}
+{"displayOrder":34}
+{"id":"01a09b35-1009-766e-b44a-af6c836cd45a"}
+{"slug":"rule-fe8bd926"}
+{"title":"Experience commendations → Bank"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-09-13T14:39:00.855Z"}

@@ -1,0 +1,14 @@
+{"collection":"location-collection/starving-student-card"}
+{"dealKey":"ssc:pizza:papa-murphys:buy-any-pizza-get-one-free"}
+{"finePrint":"Provo & Park City"}
+{"id":"019f322c-a52f-7dd9-90c0-bda887052071"}
+{"locations":["location/papa-murphys-park-city","location/papa-murphys-provo"]}
+{"offerText":"Buy Any Pizza, Get One FREE!"}
+{"offerType":"2-4-1"}
+{"section":"Pizza"}
+{"slug":"pizza-papa-murphys-buy-any-pizza-get-one-free"}
+{"struckOut":false}
+{"title":"Papa Murphy's — Buy Any Pizza, Get One FREE!"}
+{"type":"page-type/location-deal"}
+{"useLimit":"2"}
+{"usesUsed":0}

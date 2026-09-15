@@ -1,0 +1,19 @@
+{"baseName":"Essence Drain"}
+{"description":"\"You gain Major Mending for 4 seconds after completing a fully-charged Heavy Attack, increasing your healing done by 16%.\\n\\nYou also heal yourself or an ally within 12 meters of the target for 50% of the damage inflicted by the final hit of a fully-charged Heavy Attack.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45517}
+{"icon":"/esoui/art/icons/ability_templar_013.dds"}
+{"id":"019e6226-00ee-7b1b-a8d1-4ecd75b72e0e"}
+{"isMorph":false}
+{"key":"essence-drain"}
+{"learnedLevel":34}
+{"lineRankNeeded":34}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"passive"}
+{"slug":"essence-drain"}
+{"status":"unsupported"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Essence Drain"}
+{"type":"page-type/temper-skill"}

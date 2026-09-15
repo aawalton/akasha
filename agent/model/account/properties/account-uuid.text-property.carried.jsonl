@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The account uuid is answered by the upstream probe rather than chosen here."},{"decisionKind":"decision-kind/departure","statement":"An account whose uuid changes is another account under the same slug."}]}
+{"definition":"the identity Anthropic knows the account by"}
+{"id":"01a054d8-1d39-7b26-b3d7-5857ea15a1b4"}
+{"maxLength":36}
+{"nameFormat":"name-format/lower-uuid"}
+{"propertySlug":"account-uuid"}
+{"slug":"account-uuid"}
+{"type":"page-type/text-property"}
+{"types":"ts"}
+{"unique":"unique-kind/page-type"}

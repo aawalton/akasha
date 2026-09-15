@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a focus script."}]}
+{"definition":"the focus script a scribed skill is written with"}
+{"id":"01a05fca-cb82-7061-bc09-5c8739182b83"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"focus-script-id"}
+{"slug":"focus-script-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

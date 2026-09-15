@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The word is written without the angle brackets it is shown in."},{"decisionKind":"decision-kind/departure","statement":"A name of more than one part is hyphenated rather than spaced."},{"decisionKind":"decision-kind/departure","statement":"An argument carrying no value names no word here."}]}
+{"definition":"the word naming what an argument's value is, where that argument is shown"}
+{"id":"01a093fd-6bbc-77a2-ba27-0fc290cf93b0"}
+{"maxLength":40}
+{"nameFormat":null}
+{"propertySlug":"placeholder"}
+{"slug":"placeholder"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

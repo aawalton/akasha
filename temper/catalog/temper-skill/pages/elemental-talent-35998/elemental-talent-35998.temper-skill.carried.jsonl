@@ -1,0 +1,17 @@
+{"baseName":"Elemental Talent"}
+{"description":"\"Increases your Weapon and Spell Damage by |cffffff86|r.\""}
+{"esoSkillId":35998}
+{"icon":"/esoui/art/icons/ability_armor_005.dds"}
+{"id":"019e6f53-a12a-7901-9994-fbeddb78d0ba"}
+{"isMorph":false}
+{"key":"elemental-talent-35998"}
+{"learnedLevel":1}
+{"lineRankNeeded":25}
+{"morphIndex":0}
+{"rank":25}
+{"skillLineId":"racial-high-elf-skills"}
+{"skillType":"passive"}
+{"slug":"elemental-talent-35998"}
+{"subcategoryId":"racial-high-elf-skills"}
+{"title":"Elemental Talent"}
+{"type":"page-type/temper-skill"}

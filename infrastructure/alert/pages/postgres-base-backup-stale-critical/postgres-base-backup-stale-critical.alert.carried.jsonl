@@ -1,0 +1,8 @@
+{"definition":"no Postgres base backup has completed for long enough that a restore would lose a great deal"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fa-7c46-8ae6-10e64dbf4ae3"}
+{"runbook":"txt"}
+{"slug":"postgres-base-backup-stale-critical"}
+{"summary":"Newest Postgres base backup is {{ $value | humanizeDuration }} old (>50h — two+ missed dailies)"}
+{"title":"Postgres base backup stale critical"}
+{"type":"page-type/alert"}

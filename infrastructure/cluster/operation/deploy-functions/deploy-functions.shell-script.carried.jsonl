@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A script sourcing deploy-functions sets _DEPLOY_LIB_DIR to the folder deploy-functions sits in."},{"decisionKind":"decision-kind/departure","statement":"Sourcing deploy-functions sources deploy-dns-functions."}]}
+{"definition":"the names a cluster script sources for reaching the cluster"}
+{"id":"01a06887-6590-7ef6-b6f5-49959a7c99f2"}
+{"scripting":{}}
+{"shell":"sh"}
+{"slug":"deploy-functions"}
+{"sourced":true}
+{"type":"page-type/shell-script"}

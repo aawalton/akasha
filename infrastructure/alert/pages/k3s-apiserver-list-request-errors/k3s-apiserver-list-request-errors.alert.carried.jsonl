@@ -1,0 +1,8 @@
+{"definition":"the k3s apiserver is failing list requests"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fa-76b6-9995-9ef65d52174e"}
+{"runbook":"txt"}
+{"slug":"k3s-apiserver-list-request-errors"}
+{"summary":"k3s apiserver LIST requests returning 5xx for resource={{ $labels.resource }}"}
+{"title":"K3s apiserver list request errors"}
+{"type":"page-type/alert"}

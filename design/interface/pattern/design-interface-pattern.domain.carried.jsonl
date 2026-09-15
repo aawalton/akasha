@@ -1,0 +1,5 @@
+{"definition":"the recurring pieces a list, a card and a toolbar are built from"}
+{"id":"01a05c51-8287-7dba-82e4-64786876e805"}
+{"parts":["module/add-filter-button","module/add-filter-id","module/add-sort-button","module/auth-page-content","module/build-values-from-fields","module/button-group","module/chip","module/chip-list","module/collapsible-group-section","module/drag-hold","module/empty","module/filter-button","module/filter-changing","module/filter-group","module/icon-picker","module/input-panel-card","module/item","module/item-card","module/item-row","module/kbd","module/log-viewer","module/lucide-icon","module/path","module/query-error-boundary","module/search-button","module/search-sort-filter-row","module/sort-button","module/sort-group","module/sort-group-helpers","module/sort-types","module/stat-row","module/tabs","module/use-collapsed-groups","module/use-filter-persistence","module/use-scroll-restoration","module/use-set-toggle"]}
+{"slug":"design-interface-pattern"}
+{"type":"page-type/domain"}

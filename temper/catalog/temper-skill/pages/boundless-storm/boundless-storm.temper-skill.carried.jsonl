@@ -1,0 +1,17 @@
+{"baseName":"Lightning Form"}
+{"description":"\"Manifest yourself as pure lightning, zapping nearby enemies with electricity dealing 463 Shock Damage every 2 seconds for 30 seconds.\\n\\nWhile in this form you also gain Major Resolve, increasing your Physical Resistance and Spell Resistance by 5948.\\n\\nActivating this grants you Major Expedition, increasing your Movement Speed by 30% for 4 seconds.\""}
+{"esoSkillId":30255}
+{"icon":"/esoui/art/icons/ability_sorcerer_boundless_storm.dds"}
+{"id":"019e6245-a604-7e61-b2cb-cd920ea52d52"}
+{"isMorph":true}
+{"key":"boundless-storm"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"sorcerer-storm-calling"}
+{"skillType":"active"}
+{"slug":"boundless-storm"}
+{"subcategoryId":"sorcerer-storm-calling"}
+{"title":"Boundless Storm"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,8 @@
+{"definition":"the build a character is working towards"}
+{"id":"01a05fcd-f546-7645-8222-b9d3112c35d8"}
+{"maxLength":36}
+{"nameFormat":"name-format/lower-uuid"}
+{"propertySlug":"target-build-id"}
+{"slug":"target-build-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

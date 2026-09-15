@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page stating no feature takes the feature its Lua export names."},{"decisionKind":"decision-kind/departure","statement":"A page states a feature where the export name that page would take is another page's."}]}
+{"definition":"the lualib feature a helper is emitted as"}
+{"id":"01a081d9-0177-760b-bdf9-9a8231cf9177"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"lua-feature"}
+{"slug":"lua-feature"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

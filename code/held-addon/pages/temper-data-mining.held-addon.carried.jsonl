@@ -1,0 +1,9 @@
+{"addonKind":"native"}
+{"addonName":"TemperDataMining"}
+{"adjacents":["held-addon/temper-catalog","held-addon/temper-inventory"]}
+{"esoAddon":"eso-addon/temper-capture-datamining-addon"}
+{"heldBy":13035}
+{"id":"01a081a1-0495-7275-b8bd-502748d70b97"}
+{"slug":"temper-data-mining"}
+{"tiClean":true}
+{"type":"page-type/held-addon"}

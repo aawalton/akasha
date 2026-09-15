@@ -1,0 +1,14 @@
+{"collection":"location-collection/starving-student-card"}
+{"dealKey":"ssc:treats-and-drinks:jamba-juice:50-off-any-menu-item"}
+{"finePrint":"Provo (Univ PKWY), UVU Campus, Draper & WJ"}
+{"id":"019f322c-b10b-779d-a84c-efbb33a396e5"}
+{"locations":["location/jamba-juice-draper","location/jamba-juice-provo","location/jamba-juice-west-jordan"]}
+{"offerText":"50% OFF! Any Menu Item!"}
+{"offerType":"percent-off"}
+{"section":"Treats & Drinks"}
+{"slug":"treats-and-drinks-jamba-juice-50-off-any-menu-item"}
+{"struckOut":false}
+{"title":"Jamba Juice — 50% OFF! Any Menu Item!"}
+{"type":"page-type/location-deal"}
+{"useLimit":"3"}
+{"usesUsed":1}

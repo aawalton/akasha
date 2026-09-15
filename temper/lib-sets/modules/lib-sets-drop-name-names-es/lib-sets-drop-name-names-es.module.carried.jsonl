@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name absent here is taken from the English table."}]}
+{"definition":"the Spanish name of each way a gear set drops"}
+{"id":"01a061d6-3e27-7aae-9c54-e5c7041783c1"}
+{"slug":"lib-sets-drop-name-names-es"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A recipe or a script one character knows counts as known for the account."}]}
+{"definition":"the recipes and the scribing scripts any one character of an account knows"}
+{"id":"01a06121-f0d0-7909-91ae-6949dbbffa0f"}
+{"slug":"completion-account-recipe-scribing-union"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Data for sets of a newer API version is stripped when the live API is older."},{"decisionKind":"decision-kind/departure","statement":"The stripping is handed to the library as a function rather than run at load."}]}
+{"definition":"the generated set tables placed onto the library global"}
+{"id":"01a061fc-cee8-7e0a-a57e-257c1300fc25"}
+{"slug":"lib-sets-data-register-data"}
+{"type":"page-type/module"}

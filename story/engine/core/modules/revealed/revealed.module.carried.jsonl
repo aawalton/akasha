@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A key the code does not name can never be revealed."},{"decisionKind":"decision-kind/departure","statement":"Narrowing a sheet is checked against the schema again before the narrowing is handed back."}]}
+{"definition":"the part of an entity's sheet a player may see"}
+{"id":"01a05b71-e544-7b78-bd2c-73da9bb84dcc"}
+{"slug":"revealed"}
+{"test":"ts"}
+{"type":"page-type/module"}

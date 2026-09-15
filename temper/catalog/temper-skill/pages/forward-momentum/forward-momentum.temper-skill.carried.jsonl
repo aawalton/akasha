@@ -1,0 +1,17 @@
+{"baseName":"Momentum"}
+{"description":"\"Focus your strength and resolve to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20%, as well as gaining Minor Endurance, increasing your Stamina Recovery by 15% for 40 seconds.\\n\\nActivating this ability removes all snares and immobilizations from you and grants immunity to them for 4 seconds.\""}
+{"esoSkillId":39892}
+{"icon":"/esoui/art/icons/ability_2handed_005_a.dds"}
+{"id":"019e6226-00f6-7058-b41d-ad3838271d3a"}
+{"isMorph":true}
+{"key":"forward-momentum"}
+{"learnedLevel":38}
+{"lineRankNeeded":38}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"active"}
+{"slug":"forward-momentum"}
+{"subcategoryId":"weapon-two-handed"}
+{"title":"Forward Momentum"}
+{"type":"page-type/temper-skill"}

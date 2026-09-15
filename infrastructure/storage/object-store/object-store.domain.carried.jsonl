@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Durability is a property of each bucket."},{"decisionKind":"decision-kind/departure","statement":"Durability is a property of each prefix where one bucket's prefixes differ."},{"decisionKind":"decision-kind/departure","statement":"Bytes that cannot be remade are copied where nothing deletes."},{"decisionKind":"decision-kind/departure","statement":"That copy is bounded by a declared size."},{"decisionKind":"decision-kind/absence","statement":"No age rule reaches the copy of bytes that cannot be remade."}]}
+{"definition":"bytes kept under a key in a SeaweedFS bucket"}
+{"id":"01a05cbb-139c-75e2-a97e-d9467fae14ce"}
+{"parts":["module/object-store-key","module/s3-multipart","module/s3-signing","module/seaweedfs-config","module/seaweedfs-store"]}
+{"slug":"object-store"}
+{"type":"page-type/domain"}

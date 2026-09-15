@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rule a player wrote from nothing names no template."}]}
+{"definition":"the template a rule in force was adopted from"}
+{"id":"01a07283-f295-75b5-b96e-68b5ca4e2ea7"}
+{"propertySlug":"from-template"}
+{"slug":"from-template"}
+{"targetPageType":"page-type/temper-rule-template"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

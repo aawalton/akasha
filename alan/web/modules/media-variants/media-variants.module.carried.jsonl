@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The personas with a voice reference are picked out of the rows rather than in the question."}]}
+{"definition":"the voices and renditions a page's media is held in"}
+{"id":"01a0655d-daa8-76c6-b357-2030d862a2a0"}
+{"slug":"media-variants"}
+{"type":"page-type/module"}

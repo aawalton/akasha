@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"one page's read-aloud audio, sent as the voice makes it"}
+{"id":"01a082a2-0400-7a6d-b281-bf333b47f60d"}
+{"slug":"alan-web-api-media-stream"}
+{"type":"page-type/route"}
+{"urlPath":"api/media/:pageId/:medium/stream"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A summary has the labels of the rule raising the alert."},{"decisionKind":"decision-kind/departure","statement":"A summary is written in a template."},{"decisionKind":"decision-kind/departure","statement":"An unraised alert reads as a template left unfilled."}]}
+{"definition":"the line shown when an alert is raised"}
+{"id":"01a06755-0778-707f-9e4a-5ccb7cd1e5a0"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"summary"}
+{"slug":"alert-summary"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

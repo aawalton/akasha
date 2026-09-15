@@ -1,0 +1,12 @@
+{"abilityId":194266}
+{"companionId":"azandar"}
+{"description":"Your Companion confronts an enemy with the unknowable truth of reality, applying Fear to them for $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_arcanist_runeofeldritchhorror.dds"}
+{"id":"019e6484-383a-7134-9d92-171076d39e48"}
+{"key":"azandar-fear-of-the-unknown"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-azandar-quill-knight"}
+{"skillType":"active"}
+{"slug":"azandar-azandar-fear-of-the-unknown"}
+{"title":"Fear of the Unknown"}
+{"type":"page-type/temper-companion-skill"}

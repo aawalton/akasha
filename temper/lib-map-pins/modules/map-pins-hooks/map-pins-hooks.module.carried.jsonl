@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each filter panel is given a scrolling child its controls hang from."},{"decisionKind":"decision-kind/departure","statement":"The panels are reshaped once the first addon that is not the game's own has loaded."},{"decisionKind":"decision-kind/departure","statement":"A pin whose layout asks for grayscale is drawn desaturated."},{"decisionKind":"decision-kind/departure","statement":"Clearing a pin's data restores that pin's saturation."}]}
+{"definition":"the game's map filter panels and pin class reshaped as the game loads"}
+{"id":"01a06062-57e1-753f-929c-209be8a9f748"}
+{"slug":"map-pins-hooks"}
+{"type":"page-type/module"}

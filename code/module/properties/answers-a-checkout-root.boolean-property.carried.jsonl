@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A module saying nothing here answers no checkout root."},{"decisionKind":"decision-kind/departure","statement":"A module that answers where a checkout sits says true here rather than being named elsewhere."}]}
+{"definition":"whether a module answers a checkout root"}
+{"id":"01a08e6d-891c-7ef0-9e07-15a09351a84e"}
+{"propertySlug":"answers-a-checkout-root"}
+{"slug":"answers-a-checkout-root"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

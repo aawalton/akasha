@@ -1,0 +1,17 @@
+{"baseName":"Light Fingers"}
+{"description":"\"Increases your chances of successfully Pickpocketing by 50%\""}
+{"esoSkillId":63806}
+{"icon":"/esoui/art/icons/ability_legerdemain_lightfingers.dds"}
+{"id":"019e6251-4ccc-7be6-86e9-25fb5d5198dc"}
+{"isMorph":false}
+{"key":"light-fingers"}
+{"learnedLevel":17}
+{"lineRankNeeded":17}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"world-legerdemain"}
+{"skillType":"passive"}
+{"slug":"light-fingers"}
+{"subcategoryId":"world-legerdemain"}
+{"title":"Light Fingers"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This file has the bundle Jenny's widget extension starts at."},{"decisionKind":"decision-kind/constraint","statement":"Stating that start keeps this component out of the decode harness."},{"decisionKind":"decision-kind/gap","statement":"Jenny's categorize tile is compiled by a build to a device and by nothing else."}]}
+{"definition":"Jenny's tile for how many transactions are unreviewed"}
+{"id":"01a05835-69dd-7f14-b49e-39b86f2cb6ab"}
+{"slug":"smilingjenny-categorize-widget"}
+{"swift":"swift"}
+{"type":"page-type/ios-component"}

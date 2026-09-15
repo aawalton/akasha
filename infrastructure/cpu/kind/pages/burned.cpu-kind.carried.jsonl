@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Seconds spent on more than one processor at once add together."},{"decisionKind":"decision-kind/departure","statement":"A program waiting for disk or for a lock spends none."},{"decisionKind":"decision-kind/departure","statement":"What a run cost is asked in burned seconds."},{"decisionKind":"decision-kind/departure","statement":"A child that has been reaped has its seconds added to its parent's."}]}
+{"definition":"processor seconds a program has spent running"}
+{"id":"01a0918b-43ad-70b9-9ac7-5c3d0b94bcf3"}
+{"slug":"burned"}
+{"type":"page-type/cpu-kind"}

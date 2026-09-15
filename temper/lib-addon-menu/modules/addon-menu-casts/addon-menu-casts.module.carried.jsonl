@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every cast function performs a bare type assertion."},{"decisionKind":"decision-kind/absence","statement":"No cast validates the value the cast is handed."},{"decisionKind":"decision-kind/departure","statement":"Casts are collected in one module rather than written at each call site."}]}
+{"definition":"the unchecked conversions from unknown to each typed shape the library handles"}
+{"id":"01a06100-0000-7000-8000-000000000001"}
+{"slug":"addon-menu-casts"}
+{"type":"page-type/module"}

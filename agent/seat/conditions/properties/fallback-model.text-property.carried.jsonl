@@ -1,0 +1,8 @@
+{"definition":"the model a seat answers on where the model it asked for will not serve"}
+{"id":"01a06861-f664-7a19-85ae-45d05b61fb5b"}
+{"maxLength":40}
+{"nameFormat":null}
+{"propertySlug":"fallback-model"}
+{"slug":"fallback-model"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

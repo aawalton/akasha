@@ -1,0 +1,17 @@
+{"baseName":"Lapidary Research"}
+{"description":"\"Reduces research times by 5%.\""}
+{"esoSkillId":103640}
+{"icon":"/esoui/art/icons/passive_lapidaryresearch.dds"}
+{"id":"019e6f53-a3be-7971-9031-ca7684303c9c"}
+{"isMorph":false}
+{"key":"lapidary-research-103640"}
+{"learnedLevel":1}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":8}
+{"skillLineId":"craft-jewelry-crafting"}
+{"skillType":"passive"}
+{"slug":"lapidary-research-103640"}
+{"subcategoryId":"craft-jewelry-crafting"}
+{"title":"Lapidary Research"}
+{"type":"page-type/temper-skill"}

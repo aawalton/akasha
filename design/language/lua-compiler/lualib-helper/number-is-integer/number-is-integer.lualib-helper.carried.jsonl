@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"whether a value is a finite number with no fractional part"}
+{"id":"01a08c42-e5e4-7dbe-9ffa-734f929dae33"}
+{"luaExport":"__TS__NumberIsInteger"}
+{"slug":"number-is-integer"}
+{"type":"page-type/lualib-helper"}

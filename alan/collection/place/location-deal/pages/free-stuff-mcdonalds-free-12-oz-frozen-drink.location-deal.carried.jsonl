@@ -1,0 +1,14 @@
+{"collection":"location-collection/starving-student-card"}
+{"dealKey":"ssc:free-stuff:mcdonalds:free-12-oz-frozen-drink"}
+{"finePrint":"All Orem, N Provo, PG, Cedar Hills & AF"}
+{"id":"019f322c-a0e8-7ea4-ad06-1955fbc9929e"}
+{"locations":["location/mcdonalds-american-fork","location/mcdonalds-cedar-hills","location/mcdonalds-orem","location/mcdonalds-pleasant-grove","location/mcdonalds-provo"]}
+{"offerText":"FREE! 12 oz Frozen Drink!"}
+{"offerType":"free"}
+{"section":"Free Stuff"}
+{"slug":"free-stuff-mcdonalds-free-12-oz-frozen-drink"}
+{"struckOut":false}
+{"title":"McDonald's — FREE! 12 oz Frozen Drink!"}
+{"type":"page-type/location-deal"}
+{"useLimit":"1"}
+{"usesUsed":0}

@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Obsidian Shield"}
+{"description":"\"Call the earth to your defense, granting a damage shield to up to 3 of you and your allies that absorbs |cffffff13584|r damage.\""}
+{"esoSkillId":237785}
+{"icon":"/esoui/art/icons/ability_dragonknight_017.dds"}
+{"id":"019e6f53-a947-7403-ab57-50503d247a5b"}
+{"isMorph":false}
+{"key":"vengeance-obsidian-shield"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-dragonknight-earthen-heart"}
+{"skillType":"active"}
+{"slug":"vengeance-obsidian-shield"}
+{"subcategoryId":"vengeance-dragonknight-earthen-heart"}
+{"title":"Vengeance Obsidian Shield"}
+{"type":"page-type/temper-skill"}

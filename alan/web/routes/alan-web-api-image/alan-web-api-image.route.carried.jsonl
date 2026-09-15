@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the image a reader's browser asks for by id"}
+{"id":"01a08298-2b33-76a0-9f39-dabb8086dfe3"}
+{"slug":"alan-web-api-image"}
+{"type":"page-type/route"}
+{"urlPath":"api/image/:imageId"}

@@ -1,0 +1,25 @@
+{"appProfileName":"smilingjenny app App Store"}
+{"ascCapabilities":["PUSH_NOTIFICATIONS"]}
+{"buildScript":"shell-script/build-sim"}
+{"bundleId":"me.smilingjenny.app"}
+{"capacitorConfig":"json"}
+{"cooldownSeconds":3600}
+{"definition":"the app on Jenny's phone and the shell it runs in"}
+{"developmentTeam":"M6AN6NM6FL"}
+{"displayName":"Smiling Jenny"}
+{"gitIgnore":"gitignore"}
+{"id":"01a05821-5723-7a0b-86e8-e855fe49385b"}
+{"macBuildLockDir":"$HOME/.appstoreconnect/deploy-testflight-smilingjenny.lock"}
+{"macBuildNumberFile":"$HOME/.appstoreconnect/testflight-build-number-smilingjenny"}
+{"marketingVersion":"1.0"}
+{"nativeShellRepoPath":"akasha:code/ios-app/pages/smilingjenny"}
+{"parts":["shell-script/smilingjenny-app-entitlements","shell-script/smilingjenny-decode-harness-run","shell-script/smilingjenny-ios-add","shell-script/smilingjenny-ios-seam","shell-script/smilingjenny-ios-seam-plugins","shell-script/smilingjenny-ring-credential","shell-script/smilingjenny-widget-target"]}
+{"programs":["ios-program/smilingjenny-app","ios-program/smilingjenny-decode-harness","ios-program/smilingjenny-widget"]}
+{"slug":"smilingjenny"}
+{"syncScript":"shell-script/smilingjenny-ios-add"}
+{"toolReached":["@capacitor/cli","@capacitor/core","@capacitor/ios","@capacitor/push-notifications"]}
+{"type":"page-type/ios-app"}
+{"webDirectory":true}
+{"webEntry":"html"}
+{"widgetBundleId":"me.smilingjenny.app.widgets"}
+{"widgetProfileName":"smilingjenny widget App Store"}

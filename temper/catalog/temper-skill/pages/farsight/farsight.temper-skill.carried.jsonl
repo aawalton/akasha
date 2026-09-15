@@ -1,0 +1,17 @@
+{"baseName":"Farsight"}
+{"description":"\"Claim a line of facets, stretching out from your area of control.\\n\\nNew Effect: Range increased from 4 facets to 6.\\n\\nConsumes 1 Magicka Charge.\""}
+{"esoSkillId":139321}
+{"icon":"/esoui/art/icons/ability_scrying_03.dds"}
+{"id":"019e6251-4cb4-783d-b1d3-738dbc5f1dfc"}
+{"isMorph":false}
+{"key":"farsight"}
+{"learnedLevel":9}
+{"lineRankNeeded":9}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"world-scrying"}
+{"skillType":"passive"}
+{"slug":"farsight"}
+{"subcategoryId":"world-scrying"}
+{"title":"Farsight"}
+{"type":"page-type/temper-skill"}

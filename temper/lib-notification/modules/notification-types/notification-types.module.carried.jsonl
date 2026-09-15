@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A row has whatever else the caller puts on the row."},{"decisionKind":"decision-kind/departure","statement":"A row names a keyboard callback and a gamepad callback apart."},{"decisionKind":"decision-kind/departure","statement":"The only call the library offers a caller makes a link table."}]}
+{"definition":"the shape of a notification row and of the providers carrying rows to a panel"}
+{"id":"01a0605a-0517-72bd-a7a6-c5f4d281833c"}
+{"slug":"notification-types"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Which page types are backed by files is the page types `@akasha/page-service` lists."},{"decisionKind":"decision-kind/departure","statement":"A browser reads that roster from the route its own app answers page types on."},{"decisionKind":"decision-kind/departure","statement":"That roster is asked once and held for a minute rather than per page read."},{"decisionKind":"decision-kind/departure","statement":"A roster with no page type refuses rather than reading as no page being a file."}]}
+{"definition":"the page types whose pages are held as files"}
+{"id":"01a08e9b-1ab8-71a3-8385-f3a640bf34df"}
+{"slug":"file-backed-roster"}
+{"type":"page-type/module"}

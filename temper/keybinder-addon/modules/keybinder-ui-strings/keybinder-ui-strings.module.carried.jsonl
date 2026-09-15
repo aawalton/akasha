@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A key the table does not have reads as the empty string."}]}
+{"definition":"the words the add-on shows in the key-bind window"}
+{"id":"01a06381-67c1-7cd2-a410-e5dbfae940cd"}
+{"slug":"keybinder-ui-strings"}
+{"type":"page-type/module"}

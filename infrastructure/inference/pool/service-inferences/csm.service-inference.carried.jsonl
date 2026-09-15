@@ -1,0 +1,13 @@
+{"definition":"the Sesame CSM voice model, served by mlx-audio"}
+{"enabled":true}
+{"host":"macbook"}
+{"id":"01a090a2-71a8-79b2-a532-b27c27e05122"}
+{"internalPort":18084}
+{"lifecycle":"pool"}
+{"port":8084}
+{"provision":"shell-script/mlx-audio-provision"}
+{"pythonVersion":"3.12"}
+{"runs":["python -m mlx_audio.server --host 127.0.0.1 --port 18084"]}
+{"slug":"csm"}
+{"type":"page-type/service-inference"}
+{"workdir":"."}

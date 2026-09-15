@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A window here is drawn by the game rather than by the browser."},{"decisionKind":"decision-kind/departure","statement":"Where a window is kept is the caller's concern rather than this package's."},{"decisionKind":"decision-kind/departure","statement":"Dragging the handle moves the whole window."},{"decisionKind":"decision-kind/departure","statement":"A window is clamped to the screen so no drag puts the window out of reach."},{"decisionKind":"decision-kind/departure","statement":"The position is handed to the caller each time a drag ends."},{"decisionKind":"decision-kind/departure","statement":"A window with no saved position falls back to the caller's default anchor."},{"decisionKind":"decision-kind/departure","statement":"A saved position is anchored from the top left of the game's root."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a file."},{"decisionKind":"decision-kind/absence","statement":"No position is kept here."}]}
+{"definition":"a game window the player drags by a handle, kept where the player left it"}
+{"id":"01a060c4-17d0-7920-84d6-6391a39d187e"}
+{"slug":"movable-window"}
+{"type":"page-type/module"}

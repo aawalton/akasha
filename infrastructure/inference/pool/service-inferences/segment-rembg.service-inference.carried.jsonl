@@ -1,0 +1,13 @@
+{"definition":"the model that cuts a subject out of a picture"}
+{"enabled":true}
+{"host":"macbook"}
+{"id":"01a090a2-fddd-7bf0-bfda-019b368cb78b"}
+{"internalPort":18101}
+{"lifecycle":"pool"}
+{"port":8101}
+{"provision":"shell-script/segment-rembg-provision"}
+{"pythonVersion":"3.12"}
+{"runs":["python server.py --host 127.0.0.1 --port 18101"]}
+{"slug":"segment-rembg"}
+{"type":"page-type/service-inference"}
+{"workdir":"src"}

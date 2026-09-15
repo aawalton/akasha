@@ -1,0 +1,11 @@
+{"displayOrder":2}
+{"effect":"Increases Critical Resistance"}
+{"effects":"jsonl"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_ARMOR_IMPENETRABLE"}
+{"id":"01a05fb2-1bce-7f82-b0f1-3b03e5065b7b"}
+{"key":"impenetrable"}
+{"material":"Diamond"}
+{"qualityValues":"jsonl"}
+{"slug":"impenetrable"}
+{"title":"Impenetrable"}
+{"type":"page-type/temper-armor-trait"}

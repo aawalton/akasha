@@ -1,0 +1,13 @@
+{"definition":"the Higgs Audio voice model, served by mlx-audio"}
+{"enabled":true}
+{"host":"macbook"}
+{"id":"01a090a2-4671-73bf-9c7f-1581d427b5b9"}
+{"internalPort":18094}
+{"lifecycle":"pool"}
+{"port":8094}
+{"provision":"shell-script/mlx-audio-provision"}
+{"pythonVersion":"3.12"}
+{"runs":["python -m mlx_audio.server --host 127.0.0.1 --port 18094"]}
+{"slug":"higgs-audio"}
+{"type":"page-type/service-inference"}
+{"workdir":"."}

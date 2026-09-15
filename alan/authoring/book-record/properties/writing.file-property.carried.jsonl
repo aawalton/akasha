@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Writing is in a file beside its page rather than in the page."},{"decisionKind":"decision-kind/departure","statement":"A document is kept here as the markdown the document was written in."}]}
+{"definition":"the markdown a page carries, however long the markdown runs"}
+{"extensions":["md"]}
+{"id":"01a0657d-b91d-7400-8d2e-61275a1db1c9"}
+{"propertySlug":"writing"}
+{"slug":"writing"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

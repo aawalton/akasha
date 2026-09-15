@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A change stating no megabytes here is allowed the megabytes the runner names."},{"decisionKind":"decision-kind/departure","statement":"A change past these megabytes is slowed by reclaiming rather than stopped."},{"decisionKind":"decision-kind/departure","statement":"The megabytes a change reaches hold count against the change reaching it."},{"decisionKind":"decision-kind/departure","statement":"Alan settles a raise rather than the agent the ceiling slowed."}]}
+{"definition":"the most memory one run of a change may hold before the kernel reclaims, in megabytes"}
+{"id":"01a0a01f-ef63-7e96-adb3-86b54936eb30"}
+{"max":null}
+{"propertySlug":"max-memory-mb"}
+{"slug":"change-max-memory-mb"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

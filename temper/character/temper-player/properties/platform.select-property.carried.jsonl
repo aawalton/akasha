@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The machines are named as The Elder Scrolls Online names those machines."}]}
+{"definition":"the machine a player's account is played on"}
+{"id":"01a06e4f-b737-758d-9fe7-576149259344"}
+{"propertySlug":"platform"}
+{"slug":"platform"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["PC","Xbox","PlayStation"]}

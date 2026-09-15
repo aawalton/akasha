@@ -1,0 +1,6 @@
+{"description":"The operator named here replaces the default `<=` when an item's quality is compared against `maxQuality`."}
+{"id":"01a07209-6b52-73e1-8146-199bac987c98"}
+{"key":"qualityOp"}
+{"slug":"quality-op"}
+{"title":"Quality Comparison"}
+{"type":"page-type/temper-condition-field"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the cron job that removes a failed pod its controller left behind"}
+{"generatedDirectory":true}
+{"id":"01a07391-4a2e-7350-bb33-6715d67b40a3"}
+{"slug":"pod-janitor"}
+{"type":"page-type/manifest"}

@@ -1,0 +1,12 @@
+{"groupPageSize":6}
+{"id":"01a06577-2615-7012-8bd7-843c987d4036"}
+{"itemPageSize":12}
+{"narrows":[{"key":"last-completed-at","comparison":"at-or-after","values":["eso-day"]}]}
+{"nav":"nav/temper-tasks"}
+{"pageSize":12}
+{"pageType":"page-type/temper-task"}
+{"slug":"temper-tasks-completed"}
+{"title":"Completed"}
+{"type":"page-type/view"}
+{"viewPlace":3}
+{"viewSorts":[{"key":"last-completed-at","descending":true}]}

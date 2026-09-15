@@ -1,0 +1,11 @@
+{"enchantmentMultiplier":0.5}
+{"esoWeaponType":"WEAPONTYPE_AXE"}
+{"id":"019e46b6-4086-7d7f-a6f1-71970ee65aad"}
+{"isTwoHanded":false}
+{"key":"axe"}
+{"skillLineId":"weapon-one-hand"}
+{"slug":"axe"}
+{"title":"Axe"}
+{"type":"page-type/temper-weapon-type"}
+{"validSlots":["main-hand"]}
+{"weaponPower":1335}

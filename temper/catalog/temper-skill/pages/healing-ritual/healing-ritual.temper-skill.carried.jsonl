@@ -1,0 +1,17 @@
+{"baseName":"Healing Ritual"}
+{"description":"\"Focus your spiritual devotion, healing you and nearby allies for |cffffff8220|r Health.\""}
+{"esoSkillId":22304}
+{"icon":"/esoui/art/icons/ability_templar_healing_ritual.dds"}
+{"id":"019e6f53-a2e1-7019-bca6-a60f27b28a00"}
+{"isMorph":false}
+{"key":"healing-ritual"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"templar-restoring-light"}
+{"skillType":"active"}
+{"slug":"healing-ritual"}
+{"subcategoryId":"templar-restoring-light"}
+{"title":"Healing Ritual"}
+{"type":"page-type/temper-skill"}

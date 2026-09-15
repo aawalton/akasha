@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A subagent's own file here says the last landing that subagent tried was refused."},{"decisionKind":"decision-kind/departure","statement":"A subagent's page going appends what that file said."},{"decisionKind":"decision-kind/departure","statement":"The subagent whose refusal it was opens the passage appended."},{"decisionKind":"decision-kind/departure","statement":"One blank line parts two refusals."},{"decisionKind":"decision-kind/departure","statement":"The file is kept outside the commit."},{"decisionKind":"decision-kind/absence","statement":"No author writes a line here by hand."}]}
+{"definition":"why the last landing a subagent under a seat tried was refused"}
+{"extensions":["txt"]}
+{"generated":true}
+{"id":"01a08d62-5be7-74d0-8fa3-63a8fc24f035"}
+{"propertySlug":"subagent-refusals"}
+{"runsFileLength":false}
+{"slug":"subagent-refusals"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

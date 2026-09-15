@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A passage is parsed whole."},{"decisionKind":"decision-kind/departure","statement":"Where a word sits is counted from the start of the passage rather than the sentence."},{"decisionKind":"decision-kind/departure","statement":"A passage no pair rewrites is answered with nothing rather than with itself."},{"decisionKind":"decision-kind/departure","statement":"Who parses is handed in."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a page or writes one."}]}
+{"definition":"what each passage states once the constructions a term is banned in are rewritten"}
+{"id":"01a08248-90ee-7792-9275-0a291dfa50af"}
+{"slug":"prose-restating"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A judgement opens with the act."},{"decisionKind":"decision-kind/departure","statement":"The words after the act are why that act is worth an agent."}]}
+{"definition":"what an agent reaching a rule's mail is told to do with it"}
+{"id":"01a06863-4147-764f-8400-158d7917527a"}
+{"maxLength":500}
+{"nameFormat":null}
+{"propertySlug":"judgement"}
+{"slug":"email-rule-judgement"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

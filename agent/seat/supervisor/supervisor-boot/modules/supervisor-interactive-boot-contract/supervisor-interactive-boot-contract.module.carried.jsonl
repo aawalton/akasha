@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here has behaviour."},{"decisionKind":"decision-kind/departure","statement":"Every export is a type."},{"decisionKind":"decision-kind/departure","statement":"The boot's answer names the credential subsystem's parts rather than the subsystem."},{"decisionKind":"decision-kind/upkeep","statement":"A new thing the boot returns is stated here before the boot returns that thing."}]}
+{"definition":"what a seat's interactive boot is asked for and what it hands back"}
+{"id":"01a06871-3115-7004-85f9-3b541e6a385e"}
+{"slug":"supervisor-interactive-boot-contract"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"content":"conf"}
+{"definition":"how tmux draws and scrolls"}
+{"id":"01a06862-af5c-7088-9dca-24a266c87466"}
+{"installPath":"~/.tmux.conf"}
+{"onlyOn":"any"}
+{"placedBy":"link"}
+{"slug":"tmux-config"}
+{"type":"page-type/provisioned-file"}

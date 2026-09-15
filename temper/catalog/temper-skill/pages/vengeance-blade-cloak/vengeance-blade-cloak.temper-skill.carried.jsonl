@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Blade Cloak"}
+{"description":"\"Envelop yourself in a protective cloak of razors to gain Major Evasion, Minor Savagery, and Minor Prophecy for |cffffff20|r seconds, reducing damage taken from area attacks by |cffffff20|r% and increasing your Weapon and Spell Critical by |cffffff1314|r.\""}
+{"esoSkillId":241188}
+{"icon":"/esoui/art/icons/ability_dualwield_004.dds"}
+{"id":"019e6f53-a8c0-7abf-92c2-27ba72e9fee0"}
+{"isMorph":false}
+{"key":"vengeance-blade-cloak"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"vengeance-blade-cloak"}
+{"subcategoryId":"vengeance-weapon-dual-wield"}
+{"title":"Vengeance Blade Cloak"}
+{"type":"page-type/temper-skill"}

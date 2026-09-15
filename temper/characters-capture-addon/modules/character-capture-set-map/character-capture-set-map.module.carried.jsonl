@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A place in this table is the number a saved build hash has."}]}
+{"definition":"each gear set's game id against its place in a build hash"}
+{"id":"01a0616b-ac58-72db-b5be-6386f22d086e"}
+{"slug":"character-capture-set-map"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Restoration Master"}
+{"description":"\"Increases healing with Restoration Staff spells by |cffffff3|r%.\""}
+{"esoSkillId":30981}
+{"icon":"/esoui/art/icons/ability_templar_012.dds"}
+{"id":"019e6f53-a62b-76be-b0ed-2ba6d20fd9dd"}
+{"isMorph":false}
+{"key":"restoration-master-30981"}
+{"learnedLevel":1}
+{"lineRankNeeded":41}
+{"morphIndex":0}
+{"rank":41}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"passive"}
+{"slug":"restoration-master-30981"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Restoration Master"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The runs are gathered in the order the whole table names."}]}
+{"definition":"the whole Eidetic Memory book table, gathered from its runs in order"}
+{"id":"01a06184-3d7a-7159-9078-b8208d5ec58b"}
+{"slug":"lorebooks-book-data"}
+{"type":"page-type/module"}

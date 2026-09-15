@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A readout stating no earned key never earns a color."},{"decisionKind":"decision-kind/departure","statement":"The fact the key names is true or false rather than a number."}]}
+{"definition":"the fact a reading's source has that earns the scale's earned color"}
+{"id":"01a06230-b155-73b6-8478-2a373c60f343"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"earned-key"}
+{"slug":"earned-key"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reading of a processor is in one kind."},{"decisionKind":"decision-kind/departure","statement":"A number in one kind answers no question asked in another."},{"decisionKind":"decision-kind/departure","statement":"A ceiling states the kind that ceiling is read in."},{"decisionKind":"decision-kind/departure","statement":"A reading over more than one processor states how many processors it is over."},{"decisionKind":"decision-kind/departure","statement":"A kind the kernel has no file for is no kind."}]}
+{"definition":"one measure a reading of a processor is taken in"}
+{"extends":["page-type/domain"]}
+{"id":"01a09185-edee-760c-88ee-bd4e0bbbcef7"}
+{"parts":["cpu-kind/burned","cpu-kind/elapsed","cpu-kind/load","cpu-kind/stall","cpu-kind/throttled","cpu-kind/utilization"]}
+{"schema":"jsonl"}
+{"slug":"cpu-kind"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

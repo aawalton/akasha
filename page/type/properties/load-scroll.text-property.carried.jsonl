@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page opens at its start or its end or its newest part or where reading stopped."},{"decisionKind":"decision-kind/departure","statement":"A page type naming no place opens a page at its start."},{"decisionKind":"decision-kind/stopgap","statement":"The places a page can open at do not stand as pages."}]}
+{"definition":"the place in a page the reader is put at as the page opens"}
+{"id":"01a0683a-620a-720b-9442-1f4e5f29ea33"}
+{"maxLength":8}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"load-scroll"}
+{"slug":"load-scroll"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A segment is written as a slug is written."},{"decisionKind":"decision-kind/departure","statement":"A segment naming a file the route serves has that file's extension."},{"decisionKind":"decision-kind/departure","statement":"The part before the dot is the name."}]}
+{"definition":"a fixed part of a route's path"}
+{"id":"01a04fd4-3d73-79db-a3a7-e6f88084420c"}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"slug":"route-segment"}
+{"type":"page-type/name-place"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The timer fires after the day has opened rather than as the day opens."},{"decisionKind":"decision-kind/departure","statement":"Four in the morning in Denver is six in the morning in New York all year."},{"decisionKind":"decision-kind/departure","statement":"A run missed while the workstation was off runs when the workstation is back."},{"decisionKind":"decision-kind/departure","statement":"Without this run a day turning would leave each persona with today's count alone."}]}
+{"definition":"the service working out each persona's points again once a day has opened"}
+{"enabled":true}
+{"id":"01a082eb-b037-7fe2-b2ad-f45181c80cb2"}
+{"slug":"persona-points-rebuilding"}
+{"systemd":{"schedule":"*-*-* 04:10:00","catchUp":true,"startTimeoutSeconds":600}}
+{"type":"page-type/service-workstation"}

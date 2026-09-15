@@ -1,0 +1,17 @@
+{"baseName":"Vampiric Drain"}
+{"description":"\"Siphon away your enemies' vitality, dealing |cffffff3028|r Magic Damage, healing you for |cffffff26|r% of your missing Health, and restoring |cffffff10|r% of your missing Stamina every |cffffff1|r second for |cffffff3|r seconds.\\n\\nThis ability is considered direct damage.\""}
+{"esoSkillId":135905}
+{"icon":"/esoui/art/icons/ability_u26_vampire_03_a.dds"}
+{"id":"019e6f53-a0ee-78e7-bdc1-08b0fa0c3daf"}
+{"isMorph":true}
+{"key":"drain-vigor-135905"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":4}
+{"skillLineId":"world-vampire"}
+{"skillType":"active"}
+{"slug":"drain-vigor-135905"}
+{"subcategoryId":"world-vampire"}
+{"title":"Drain Vigor"}
+{"type":"page-type/temper-skill"}

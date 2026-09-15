@@ -1,0 +1,9 @@
+{"definition":"a lasting affliction a character takes on"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fc5-94d2-7b6d-ac6a-2a3a21b68f41"}
+{"parts":["number-property/eso-curse-ids"]}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false},{"pageProperty":"number-property/eso-curse-ids","required":false,"many":true,"maxCount":null}]}
+{"schema":"jsonl"}
+{"slug":"temper-curse"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

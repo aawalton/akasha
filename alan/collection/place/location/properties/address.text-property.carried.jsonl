@@ -1,0 +1,8 @@
+{"definition":"the street address of the place"}
+{"id":"01a06583-acfb-7d78-a310-d5ad4ebf8a43"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"address"}
+{"slug":"address"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

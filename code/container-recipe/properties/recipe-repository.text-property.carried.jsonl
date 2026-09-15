@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"The name carries no registry host."},{"decisionKind":"decision-kind/absence","statement":"The name carries no tag."}]}
+{"definition":"the name an image is held under in the registry it is pushed to"}
+{"id":"01a08de4-9042-7962-b887-9de3467bd20b"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"repository"}
+{"slug":"recipe-repository"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

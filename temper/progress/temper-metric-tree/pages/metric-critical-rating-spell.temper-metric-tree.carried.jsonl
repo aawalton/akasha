@@ -1,0 +1,8 @@
+{"displayOrder":0}
+{"id":"019e2fcd-597d-701a-ac92-a156473dc490"}
+{"nodeId":"critical-rating-spell"}
+{"nodeType":"metric"}
+{"parent":"metric-critical-rating"}
+{"slug":"metric-critical-rating-spell"}
+{"title":"Critical Rating Spell"}
+{"type":"page-type/temper-metric-tree"}

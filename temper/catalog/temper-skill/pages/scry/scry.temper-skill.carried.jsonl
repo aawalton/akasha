@@ -1,0 +1,17 @@
+{"baseName":"Scry"}
+{"description":"\"Adds the selected contiguous group of facets to your area of control.\\n\\nConsumes 1 turn.\""}
+{"esoSkillId":139942}
+{"icon":"/esoui/art/icons/ability_scrying_01.dds"}
+{"id":"019e6251-4ce6-7796-86c5-6618113274d2"}
+{"isMorph":false}
+{"key":"scry"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"world-scrying"}
+{"skillType":"passive"}
+{"slug":"scry"}
+{"subcategoryId":"world-scrying"}
+{"title":"Scry"}
+{"type":"page-type/temper-skill"}

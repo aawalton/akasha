@@ -1,0 +1,6 @@
+{"category":"monarch-category/alans-spending"}
+{"id":"01a0655b-fcda-7008-b71e-34c6fe66189d"}
+{"matches":[{"key":"merchant","comparison":"is","values":["telnyx"]},{"key":"sign","comparison":"is","values":["negative"]}]}
+{"slug":"telnyx"}
+{"title":"Telnyx"}
+{"type":"page-type/category-rule-code"}

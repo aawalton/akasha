@@ -1,0 +1,17 @@
+{"baseName":"Radial Sweep"}
+{"description":"\"Swing your Aedric spear around with holy vengeance, dealing |cffffff8533|r Magic Damage to all nearby enemies and an additional |cffffff4036|r Magic Damage every |cffffff2|r seconds for |cffffff6|r seconds.\""}
+{"esoSkillId":22138}
+{"icon":"/esoui/art/icons/ability_templar_radial_sweep.dds"}
+{"id":"019e6f53-a57a-78fe-ad75-0e8bd707a36d"}
+{"isMorph":false}
+{"key":"radial-sweep"}
+{"learnedLevel":1}
+{"lineRankNeeded":12}
+{"morphIndex":0}
+{"rank":12}
+{"skillLineId":"templar-aedric-spear"}
+{"skillType":"ultimate"}
+{"slug":"radial-sweep"}
+{"subcategoryId":"templar-aedric-spear"}
+{"title":"Radial Sweep"}
+{"type":"page-type/temper-skill"}

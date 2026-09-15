@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"An assistant collectible id is the game's own."},{"decisionKind":"decision-kind/departure","statement":"Each id is copied rather than worked out."}]}
+{"definition":"the collectible ids of every personal assistant the player may summon"}
+{"id":"01a060e7-1beb-7c7c-8f92-e0f5d84c2110"}
+{"slug":"assistant-collectibles"}
+{"type":"page-type/module"}

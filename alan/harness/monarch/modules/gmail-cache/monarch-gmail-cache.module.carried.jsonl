@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A message already on disk is never fetched again."},{"decisionKind":"decision-kind/departure","statement":"Messages are fetched eight at a time rather than one by one or every message at once."},{"decisionKind":"decision-kind/departure","statement":"Mail is reached by calling the message functions rather than by running a command."},{"decisionKind":"decision-kind/departure","statement":"A fault at Gmail rises to the caller rather than being caught here."},{"decisionKind":"decision-kind/departure","statement":"The listing bounds the answer."},{"decisionKind":"decision-kind/departure","statement":"A cached message no longer listed is not returned."},{"decisionKind":"decision-kind/stopgap","statement":"The cache folder is handed in by the caller rather than settled here."}]}
+{"definition":"the Amazon mail this harness reads, fetched once and kept on disk"}
+{"id":"01a0685f-4ed9-790d-8078-7ac8bc7dde66"}
+{"slug":"monarch-gmail-cache"}
+{"type":"page-type/module"}

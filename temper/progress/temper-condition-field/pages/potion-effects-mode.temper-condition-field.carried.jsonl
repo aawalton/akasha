@@ -1,0 +1,6 @@
+{"description":"This modifier chooses whether `potionEffects` asks for every listed effect under `all` or any one listed effect under `any`, defaulting to `any`."}
+{"id":"01a07209-6b52-7535-a7df-730149f628d5"}
+{"key":"potionEffectsMode"}
+{"slug":"potion-effects-mode"}
+{"title":"Potion Effects Mode"}
+{"type":"page-type/temper-condition-field"}

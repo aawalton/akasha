@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rung counts every point earned rather than the points past the rung below."},{"decisionKind":"decision-kind/departure","statement":"Points short of the first rung are level 0."},{"decisionKind":"decision-kind/departure","statement":"Everyone starts at level 0."}]}
+{"definition":"how many points it takes to reach this rung"}
+{"id":"01a0541b-6a82-72e4-a9db-75b5573cc8ee"}
+{"max":null}
+{"propertySlug":"points-to-here"}
+{"slug":"points-to-here"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

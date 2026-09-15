@@ -1,0 +1,9 @@
+{"definition":"how heavy a piece of armor is made"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fd1-d430-7564-8721-434ab188698f"}
+{"parts":["boolean-property/is-standard","number-property/armor-base-value"]}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"number-property/armor-base-value","required":true,"many":false},{"pageProperty":"boolean-property/is-standard","required":true,"many":false},{"pageProperty":"text-property/skill-line-id","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-armor-weight"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

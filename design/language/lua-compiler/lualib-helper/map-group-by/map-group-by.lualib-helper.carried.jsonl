@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the map holding items under the key each item is chosen by"}
+{"id":"01a08202-0fa9-7a37-9767-374c19eaea36"}
+{"luaExport":"__TS__MapGroupBy"}
+{"slug":"map-group-by"}
+{"type":"page-type/lualib-helper"}

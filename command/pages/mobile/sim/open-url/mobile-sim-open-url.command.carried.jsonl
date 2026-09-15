@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/app"},{"argument":"argument/udid"},{"argument":"argument/route","required":true,"saidAs":"flag-or-word"},{"argument":"argument/kb-debug"},{"argument":"argument/as-real-user"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A session already there on the same simulator is reused."},{"decisionKind":"decision-kind/departure","statement":"An identity is put in before a route is navigated to."},{"decisionKind":"decision-kind/departure","statement":"A call saying nothing about identity signs in as the throwaway."},{"decisionKind":"decision-kind/constraint","statement":"Nothing is changed through Alan's own identity."},{"decisionKind":"decision-kind/departure","statement":"The webview is taken hold of again after a navigation."},{"decisionKind":"decision-kind/departure","statement":"An opening that threw part way names in its refusal what it had already done."},{"decisionKind":"decision-kind/departure","statement":"A call naming no simulator takes the session's own simulator or the first booted simulator."},{"decisionKind":"decision-kind/departure","statement":"An Appium server this started and a simulator this booted are named in the refusal."},{"decisionKind":"decision-kind/departure","statement":"An Appium server started is named before the wait for it to answer."}]}
+{"definition":"the command opening a route in the simulator and leaving a session at it"}
+{"id":"01a0685d-ceae-7009-892c-425eee9c835b"}
+{"name":"open-url"}
+{"slug":"mobile-sim-open-url"}
+{"test":"ts"}
+{"type":"page-type/command"}

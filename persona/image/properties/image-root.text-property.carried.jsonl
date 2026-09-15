@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A root naming no place falls back to the first place given."}]}
+{"definition":"the name of the place a picture's path is read against"}
+{"id":"01a0655b-4a9b-7001-b814-afe1edf9866f"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"image-root"}
+{"slug":"image-root"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A property saying nothing here holds files no tool resolves a path in."},{"decisionKind":"decision-kind/departure","statement":"A tool reading such a file resolves the paths that file spells."},{"decisionKind":"decision-kind/absence","statement":"Nothing here names the tool that resolves the paths."}]}
+{"definition":"whether a tool rather than the index resolves the paths in the files a property has"}
+{"id":"01a08de9-864d-748a-a2c0-0a5be50709bf"}
+{"propertySlug":"tool-resolves-paths"}
+{"slug":"tool-resolves-paths"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

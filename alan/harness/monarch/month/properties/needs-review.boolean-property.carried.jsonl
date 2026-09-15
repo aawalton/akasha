@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An entry stating nothing here states the opposite."}]}
+{"definition":"whether a transaction is waiting for somebody to settle it"}
+{"id":"01a0680b-2b00-700f-b721-6d1f5c8a2110"}
+{"propertySlug":"needs-review"}
+{"slug":"needs-review"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

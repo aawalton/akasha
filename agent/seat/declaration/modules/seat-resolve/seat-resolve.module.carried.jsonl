@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A domain is found by its address first and by its bare slug after."},{"decisionKind":"decision-kind/departure","statement":"A bare slug names whichever page claimed that slug first."},{"decisionKind":"decision-kind/departure","statement":"A slot stated twice is refused."},{"decisionKind":"decision-kind/departure","statement":"The default a slot takes is read from the seat page type in akasha."},{"decisionKind":"decision-kind/departure","statement":"One refusal anywhere means nothing at all is assigned."}]}
+{"definition":"finding the page behind each slug a seat is given, or refusing with what is there"}
+{"id":"01a06949-b281-737a-9638-365e7ade018a"}
+{"slug":"seat-resolve"}
+{"type":"page-type/module"}

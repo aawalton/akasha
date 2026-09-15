@@ -1,0 +1,17 @@
+{"baseName":"The Storm Voice"}
+{"description":"\"The syllables of that ancient tongue live in the mouth of every Dragonknight.\\n\\nWhen you cast an Ultimate ability, you restore |cffffff8|r Health, |cffffff8|r Magicka, and |cffffff8|r Stamina for each point of the Ultimate spent. Each Dragonknight ability slotted increases this value by |cffffff3|r.\\n\\nCurrent amount:\\n|cffffff8|r Health\\n|cffffff8|r Magicka \\n|cffffff8|r Stamina\""}
+{"esoSkillId":29462}
+{"icon":"/esoui/art/icons/ability_dragonknight_031.dds"}
+{"id":"019e6f53-a833-7257-96c9-d6d52d499733"}
+{"isMorph":false}
+{"key":"the-storm-voice"}
+{"learnedLevel":39}
+{"lineRankNeeded":39}
+{"morphIndex":0}
+{"rank":39}
+{"skillLineId":"dragonknight-draconic-power"}
+{"skillType":"passive"}
+{"slug":"the-storm-voice"}
+{"subcategoryId":"dragonknight-draconic-power"}
+{"title":"The Storm Voice"}
+{"type":"page-type/temper-skill"}

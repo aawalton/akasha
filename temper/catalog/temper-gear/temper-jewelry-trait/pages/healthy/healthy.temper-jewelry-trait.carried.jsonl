@@ -1,0 +1,11 @@
+{"displayOrder":4}
+{"effect":"Increases Maximum Health"}
+{"effects":"jsonl"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_JEWELRY_HEALTHY"}
+{"id":"019e5b97-6d8c-7e89-9ce9-e8824281f2c5"}
+{"key":"healthy"}
+{"material":"Antimony"}
+{"qualityValues":"jsonl"}
+{"slug":"healthy"}
+{"title":"Healthy"}
+{"type":"page-type/temper-jewelry-trait"}

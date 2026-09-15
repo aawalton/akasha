@@ -1,0 +1,12 @@
+{"displayOrder":6}
+{"effect":"Increases Health, Magicka, and Stamina Recovery"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_REGEN"}
+{"essenceRune":"Indeko"}
+{"glyphName":"Glyph of Prismatic Recovery"}
+{"id":"019e5c85-d94b-7840-9864-0746ea707834"}
+{"key":"prismatic-recovery"}
+{"qualityValues":"jsonl"}
+{"slug":"prismatic-recovery"}
+{"title":"Prismatic Recovery"}
+{"type":"page-type/temper-jewelry-enchant"}

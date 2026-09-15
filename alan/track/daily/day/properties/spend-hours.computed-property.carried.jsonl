@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"definition":"what every stretch of the day cost, added up"}
+{"holds":"number"}
+{"id":"01a072ee-1b88-78a4-9ebc-c270a0a4e3fb"}
+{"propertySlug":"spend-hours"}
+{"slug":"spend-hours"}
+{"type":"page-type/computed-property"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"id":"01a094e7-0d25-7f56-9a58-3b5b81af2c20"}
+{"placeholder":"csv"}
+{"said":"--control-plane-ips"}
+{"slug":"control-plane-ips"}
+{"takes":"every etcd member's address, which the membership arm weighs"}
+{"type":"page-type/argument"}
+{"value":"text"}

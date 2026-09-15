@@ -1,0 +1,13 @@
+{"abilityIcon":"/esoui/art/icons/ability_grimoire_fightersguild.dds"}
+{"affixScripts":"jsonl"}
+{"focusScripts":["bleed-damage","flame-damage","frost-damage","generate-ultimate","healing","knockback","physical-damage","stun"]}
+{"icon":"/esoui/art/icons/item_grimoire_fightersguild.dds"}
+{"id":"01a05fce-2957-7c9c-94dc-fa6f30dc958a"}
+{"itemId":204494}
+{"key":"torchbearer"}
+{"signatureScripts":"jsonl"}
+{"skillLineId":"guild-fighters-guild"}
+{"slug":"torchbearer"}
+{"title":"Torchbearer"}
+{"type":"page-type/temper-grimoire"}
+{"uespId":10}

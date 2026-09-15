@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Both models are loaded before the workload reports itself healthy."},{"decisionKind":"decision-kind/departure","statement":"One inference runs at a time however many callers are waiting."},{"decisionKind":"decision-kind/constraint","statement":"The card this package runs on takes int8 weights and not float16 ones."}]}
+{"definition":"speech turned into text and text turned into speech on one card"}
+{"id":"01a06815-9efd-701e-a4d4-a26f49e97554"}
+{"parts":["container-recipe/voice-infer-image","manifest/voice-infer","python-module/voice-infer-server","python-module/voice-models","python-module/voice-object-store","python-module/voice-speech-hls","python-module/voice-speech-mp3"]}
+{"slug":"voice-inference"}
+{"type":"page-type/domain"}

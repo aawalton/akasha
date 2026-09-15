@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Only Lua's own `type` tells a function from a value."}]}
+{"definition":"whether a value that may be a callback is one rather than a plain value"}
+{"id":"01a08e19-c569-71cc-8644-64f32991852e"}
+{"slug":"is-callback"}
+{"type":"page-type/module"}

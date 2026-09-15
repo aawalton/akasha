@@ -1,0 +1,8 @@
+{"definition":"the macbook inference pool is not answering"}
+{"domain":"inference"}
+{"id":"01a06755-62fa-7e03-b91a-373657781e93"}
+{"runbook":"txt"}
+{"slug":"macbook-inference-pool-unreachable"}
+{"summary":"Macbook inference pool not serving ({{ $labels.probe_result }})"}
+{"title":"MacBook inference pool unreachable"}
+{"type":"page-type/alert"}

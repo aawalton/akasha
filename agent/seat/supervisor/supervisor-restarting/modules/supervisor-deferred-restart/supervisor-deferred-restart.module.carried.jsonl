@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A restart fires once."},{"decisionKind":"decision-kind/departure","statement":"The timers a restart armed are cleared when that restart fires."},{"decisionKind":"decision-kind/departure","statement":"A tick still in flight is not joined by the next tick."},{"decisionKind":"decision-kind/departure","statement":"A child past the edge cliff overrides busy children rather than deferring on."},{"decisionKind":"decision-kind/departure","statement":"The ceiling is counted from when the gate was armed rather than from this tick."}]}
+{"definition":"a restart held until the session is idle, wedged or past its ceiling"}
+{"id":"01a0683e-3dbe-701a-a109-8a13a6084415"}
+{"slug":"supervisor-deferred-restart"}
+{"type":"page-type/module"}

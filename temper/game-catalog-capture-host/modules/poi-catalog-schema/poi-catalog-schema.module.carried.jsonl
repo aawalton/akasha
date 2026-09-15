@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A zone has the points of interest found in that zone."},{"decisionKind":"decision-kind/departure","statement":"A zone key and a point of interest key are both numbers."},{"decisionKind":"decision-kind/constraint","statement":"A property outside the named set is refused."}]}
+{"definition":"the zod schema reading the points of interest catalog out of saved variables"}
+{"id":"01a06084-d419-7e65-9fe0-2100e873d96e"}
+{"slug":"poi-catalog-schema"}
+{"type":"page-type/module"}

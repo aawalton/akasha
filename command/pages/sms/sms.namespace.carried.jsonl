@@ -1,0 +1,6 @@
+{"definition":"a text message to or from a phone"}
+{"id":"01a07bcb-0b96-7bdf-bd21-0e3e7f8998c0"}
+{"name":"sms"}
+{"parts":["command/sms-acting-account","command/sms-send"]}
+{"slug":"sms"}
+{"type":"page-type/namespace"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A change states the mode from the verb its slug opens with."},{"decisionKind":"decision-kind/departure","statement":"Which sort a change is and which act a change makes are two answers."}]}
+{"definition":"the act one change makes"}
+{"extends":["page-type/domain"]}
+{"id":"01a07c24-30e1-7802-88da-aa05d0b289dd"}
+{"parts":["change-mode/change-mode-add","change-mode/change-mode-add-if-not-present","change-mode/change-mode-append","change-mode/change-mode-change","change-mode/change-mode-divide","change-mode/change-mode-move","change-mode/change-mode-remove","change-mode/change-mode-rename"]}
+{"schema":"jsonl"}
+{"slug":"change-mode"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

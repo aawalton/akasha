@@ -1,0 +1,8 @@
+{"definition":"what a seat is told when a request interrupts it"}
+{"id":"01a0542c-d18d-7082-98e2-c660a96a4136"}
+{"maxLength":1000}
+{"nameFormat":null}
+{"propertySlug":"message"}
+{"slug":"interrupt-message"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

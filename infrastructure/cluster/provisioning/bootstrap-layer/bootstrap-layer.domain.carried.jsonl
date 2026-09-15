@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The toolchain layer reuses exactly two of `prep.workflow`'s steps."},{"decisionKind":"decision-kind/departure","statement":"The private CI image `ci-images` builds does not exist before L3."}]}
+{"definition":"the ordered stages an empty cluster is brought up in"}
+{"id":"01a0675b-16d6-7813-8ade-362de2107d1b"}
+{"slug":"bootstrap-layer"}
+{"type":"page-type/domain"}

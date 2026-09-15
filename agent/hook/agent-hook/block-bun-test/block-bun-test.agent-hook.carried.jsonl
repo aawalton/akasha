@@ -1,0 +1,9 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"A `bun test` made inside the checkout is refused whatever paths that call names."},{"decisionKind":"decision-kind/departure","statement":"A `bun test` this reads as a command word is refused whatever paths it names."},{"decisionKind":"decision-kind/departure","statement":"The refusal names the apply rather than the draft as where the tests run."},{"decisionKind":"decision-kind/departure","statement":"A prefix that only runs the call behind that prefix does not hide a `bun test` from this hook."},{"decisionKind":"decision-kind/absence","statement":"No word after the act is read."},{"decisionKind":"decision-kind/absence","statement":"`bun run test` is not read here."},{"decisionKind":"decision-kind/constraint","statement":"`bun test` runs a filter over every test file rather than a path `bun test` is handed."},{"decisionKind":"decision-kind/constraint","statement":"The repository root is the akasha folder."},{"decisionKind":"decision-kind/constraint","statement":"Every test file the akasha folder has is an akasha test."}]}
+{"definition":"a refusal of every bun test call made inside the akasha checkout"}
+{"id":"01a04eab-d4f8-7000-9dec-eba229399731"}
+{"overTools":["Bash"]}
+{"runsAt":["PreToolUse"]}
+{"slug":"block-bun-test"}
+{"test":"ts"}
+{"type":"page-type/agent-hook"}

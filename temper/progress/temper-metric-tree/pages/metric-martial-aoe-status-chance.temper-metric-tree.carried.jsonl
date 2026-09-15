@@ -1,0 +1,8 @@
+{"displayOrder":1}
+{"id":"019e2fcd-59e2-7b76-98c0-e6e8e2ba42ac"}
+{"nodeId":"martial-aoe-status-chance"}
+{"nodeType":"metric"}
+{"parent":"subcategory-martial-status-chance"}
+{"slug":"metric-martial-aoe-status-chance"}
+{"title":"Martial Aoe Status Chance"}
+{"type":"page-type/temper-metric-tree"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The new panel takes the next free panel id the game menu has."},{"decisionKind":"decision-kind/departure","statement":"The standard panel and the addon panel keep separate scroll positions."},{"decisionKind":"decision-kind/departure","statement":"Choosing the new panel puts the game's keybindings fragment up."},{"decisionKind":"decision-kind/departure","statement":"Leaving the new panel takes that fragment away."},{"decisionKind":"decision-kind/departure","statement":"Resetting the menu tree leaves the panel as though unselected."}]}
+{"definition":"the second controls panel the game menu gains for addon keybinds"}
+{"id":"01a0605a-051a-7771-b0b3-49c682c49d2b"}
+{"slug":"addon-keybinds-menu-entry"}
+{"type":"page-type/module"}

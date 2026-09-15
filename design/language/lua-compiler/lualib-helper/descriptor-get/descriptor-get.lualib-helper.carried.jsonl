@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the value a key reaches, walking the metatables for a raw field or a getter"}
+{"id":"01a08c45-34c5-7c22-8349-2a7674ac0fc6"}
+{"luaExport":"__TS__DescriptorGet"}
+{"slug":"descriptor-get"}
+{"type":"page-type/lualib-helper"}

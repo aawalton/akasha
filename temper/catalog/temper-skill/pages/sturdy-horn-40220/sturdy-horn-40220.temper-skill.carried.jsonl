@@ -1,0 +1,17 @@
+{"baseName":"War Horn"}
+{"description":"\"Sound a war horn to rally your forces, increasing you and your group's Max Magicka and Max Stamina by |cffffff10|r% for |cffffff30|r seconds.\\n\\nYou and your allies gain |cffffff1320|r Critical Resistance for |cffffff10|r seconds, reducing incoming Critical Damage by |cffffff20|r%.\""}
+{"esoSkillId":40220}
+{"icon":"/esoui/art/icons/ability_ava_003_b.dds"}
+{"id":"019e6f53-a7d3-7cfb-9497-0084a71a9dc9"}
+{"isMorph":true}
+{"key":"sturdy-horn-40220"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":4}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"ultimate"}
+{"slug":"sturdy-horn-40220"}
+{"subcategoryId":"alliance-war-assault"}
+{"title":"Sturdy Horn"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A color is written into the text as an inline markup tag."}]}
+{"definition":"text colored by whether what that text names is done"}
+{"id":"01a060ec-5834-7ce4-b990-b2f1dfab5f22"}
+{"slug":"skill-point-finder-colors"}
+{"type":"page-type/module"}

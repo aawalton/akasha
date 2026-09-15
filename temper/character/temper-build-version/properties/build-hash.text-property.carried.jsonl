@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Two versions arranged alike have one hash."},{"decisionKind":"decision-kind/constraint","statement":"A hash runs longer than a name is allowed to run."}]}
+{"definition":"the arrangement a version holds, written as one string"}
+{"id":"01a0685d-89aa-782d-959a-2f5cebb21882"}
+{"maxLength":4000}
+{"nameFormat":null}
+{"propertySlug":"build-hash"}
+{"slug":"build-hash"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

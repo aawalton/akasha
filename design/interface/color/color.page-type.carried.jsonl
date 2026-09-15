@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A color is named rather than specified."},{"decisionKind":"decision-kind/departure","statement":"Whatever draws the color picks the shade from its own palette."},{"decisionKind":"decision-kind/departure","statement":"Each hex here is a shade the palette draws."},{"decisionKind":"decision-kind/departure","statement":"A hex here has a plain name rather than the source's name."},{"decisionKind":"decision-kind/departure","statement":"The neutrals run from soot up to chalk."},{"decisionKind":"decision-kind/departure","statement":"Grey sits between stone and silver."},{"decisionKind":"decision-kind/departure","statement":"A color stating no hex is drawn in whatever text color the reader already has."}]}
+{"definition":"one color anything can be drawn in"}
+{"extends":["page-type/page"]}
+{"id":"01a06575-c2a9-766f-8f09-da30cc969637"}
+{"parts":["text-property/hex"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"text-property/hex","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"color"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

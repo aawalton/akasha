@@ -1,0 +1,8 @@
+{"content":"conf"}
+{"definition":"the cluster registry reached over plain http"}
+{"id":"01a06862-af5c-7fa0-91f1-92764202b14a"}
+{"installPath":"~/.config/containers/registries.conf.d/01-insecure-cluster-registry.conf"}
+{"onlyOn":"linux"}
+{"placedBy":"link"}
+{"slug":"container-insecure-registries"}
+{"type":"page-type/provisioned-file"}

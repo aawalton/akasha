@@ -1,0 +1,18 @@
+{"bundleDirectory":true}
+{"compileConfig":"json"}
+{"declarationDirectory":true}
+{"definition":"the routes audhdalan.com serves to a browser"}
+{"gitIgnore":"gitignore"}
+{"id":"01a06558-c2cc-7008-82aa-ce6fcd6a0c2a"}
+{"parts":["app-routes/audhdalan-web-routes","manifest/audhdalan-web-manifests","module/deck-page-content","module/deck-slides","module/resource-list","module/subscribe-form","stylesheet/audhdalan-web-look"]}
+{"rootRoute":"tsx"}
+{"routeTable":"ts"}
+{"routeTypesDirectory":true}
+{"routerConfig":"ts"}
+{"server":"ts"}
+{"serverEntry":"tsx"}
+{"slug":"audhdalan-web"}
+{"toolReached":["react-dom"]}
+{"tunnelRoutes":"ts"}
+{"type":"page-type/router-app"}
+{"viteConfig":"ts"}

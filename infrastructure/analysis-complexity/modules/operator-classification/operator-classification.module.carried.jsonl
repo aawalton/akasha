@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A token is an operator or an operand or uncounted."},{"decisionKind":"decision-kind/departure","statement":"Trivia and the end of a file are counted as neither an operator nor an operand."}]}
+{"definition":"the class a TypeScript token counts as"}
+{"id":"01a0680f-d1b7-79ab-913f-0358ec466fac"}
+{"slug":"operator-classification"}
+{"type":"page-type/module"}

@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A hook here records how far each of its runs got, beside its own page."}]}
+{"definition":"an agent hook that asks a model"}
+{"extends":["page-type/agent-hook"]}
+{"id":"01a00688-389f-7000-ba53-42d361243e1c"}
+{"parts":["file-property/stop-gates","inference-hook/keep-alan-directives"]}
+{"properties":[{"pageProperty":"file-property/stop-gates","required":false,"many":false,"uncommitted":true,"default":"jsonl"}]}
+{"schema":"jsonl"}
+{"slug":"inference-hook"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

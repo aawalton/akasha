@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A line is appended beside a page that is there and nowhere else."},{"decisionKind":"decision-kind/departure","statement":"A path naming no page here is refused rather than given a file of its own."},{"decisionKind":"decision-kind/departure","statement":"An append names the part it is kept under, and entries is the part it falls back to."},{"decisionKind":"decision-kind/departure","statement":"Every line appended ends with a newline."},{"decisionKind":"decision-kind/departure","statement":"The lines of one append land together or land nowhere."},{"decisionKind":"decision-kind/departure","statement":"A part filled to its ceiling rolls to the next part."},{"decisionKind":"decision-kind/departure","statement":"An append takes a turn over the first part before any line lands."},{"decisionKind":"decision-kind/departure","statement":"An append that took no turn is refused rather than waited on."},{"decisionKind":"decision-kind/departure","statement":"An answer names the file part the lines landed in."},{"decisionKind":"decision-kind/absence","statement":"Nothing here commits."}]}
+{"definition":"lines added to the end of a file part a page keeps outside the commit"}
+{"id":"01a0a220-998d-7000-b216-e0937326b6fb"}
+{"slug":"page-appending"}
+{"test":"ts"}
+{"type":"page-type/module"}

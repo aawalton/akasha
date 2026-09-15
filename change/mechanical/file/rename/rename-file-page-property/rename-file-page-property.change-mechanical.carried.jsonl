@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-rename"}
+{"changeTargetSubtype":"change-target-subtype/file-page-property"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The rename is worked out by the change this change reaches."},{"decisionKind":"decision-kind/absence","statement":"Nothing here judges the path handed in."},{"decisionKind":"decision-kind/absence","statement":"Nothing here spells the key anew wherever a page has that key."},{"decisionKind":"decision-kind/departure","statement":"`rename-page-property-property-slug` spells that key anew on every such page."}]}
+{"definition":"one page property renamed and carried to where its slug says"}
+{"id":"01a08249-eea4-7473-8095-9de50cef8477"}
+{"slug":"rename-file-page-property"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical"}

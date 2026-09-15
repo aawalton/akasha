@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The library is published on globalThis under LibScrollableMenu."},{"decisionKind":"decision-kind/departure","statement":"Every entry-type and highlight name is copied into _G as a separate global."},{"decisionKind":"decision-kind/departure","statement":"Update mode constants are published as three separate globals."}]}
+{"definition":"the placing of the library object and its constants into the global namespace"}
+{"id":"01a06275-c449-763b-b921-cfa7dd2c3f9b"}
+{"slug":"scrollable-menu-public-api"}
+{"type":"page-type/module"}

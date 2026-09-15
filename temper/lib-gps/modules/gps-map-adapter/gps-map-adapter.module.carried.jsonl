@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The game's own function is called first and its result is kept."},{"decisionKind":"decision-kind/departure","statement":"A function the game does not define is left unwrapped."}]}
+{"definition":"the game's map changing functions wrapped so a change can be measured"}
+{"id":"01a0614d-4764-7590-90c4-082d02d03370"}
+{"slug":"gps-map-adapter"}
+{"type":"page-type/module"}

@@ -1,0 +1,11 @@
+{"enchantmentMultiplier":0.5}
+{"esoWeaponType":"WEAPONTYPE_SWORD"}
+{"id":"019e46b6-4083-7d4e-826d-2779d0f0ae3a"}
+{"isTwoHanded":false}
+{"key":"sword"}
+{"skillLineId":"weapon-one-hand"}
+{"slug":"sword"}
+{"title":"Sword"}
+{"type":"page-type/temper-weapon-type"}
+{"validSlots":["main-hand"]}
+{"weaponPower":1335}

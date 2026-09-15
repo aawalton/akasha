@@ -1,0 +1,19 @@
+{"baseName":"Resist Frost"}
+{"description":"\"Increases your Max Health by 1000 and Frost Resistance by 4620.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45304}
+{"icon":"/esoui/art/icons/ability_sorcerer_012.dds"}
+{"id":"019e624a-12d8-78ad-9e7e-eb5c4ae251c2"}
+{"isMorph":false}
+{"key":"resist-frost"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"racial-nord-skills"}
+{"skillType":"passive"}
+{"slug":"resist-frost"}
+{"status":"supported"}
+{"subcategoryId":"racial-nord-skills"}
+{"title":"Resist Frost"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A persona stating no email address is on no channel."},{"decisionKind":"decision-kind/departure","statement":"An address is lowercased before anything matches a header against it."}]}
+{"definition":"each persona's own email address against the persona that address names"}
+{"id":"01a0a026-66e5-7676-b4cd-dedec3726a54"}
+{"slug":"persona-channels"}
+{"test":"ts"}
+{"type":"page-type/module"}

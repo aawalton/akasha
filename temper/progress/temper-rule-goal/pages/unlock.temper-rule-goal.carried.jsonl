@@ -1,0 +1,6 @@
+{"description":"Keeps the item until the collection the item belongs to is unlocked."}
+{"displayOrder":2}
+{"id":"01a071f5-ae75-7e5f-8fb9-75c8e06177a1"}
+{"slug":"unlock"}
+{"title":"Unlock"}
+{"type":"page-type/temper-rule-goal"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path is named from the repo root."},{"decisionKind":"decision-kind/departure","statement":"The files every shell compiles are read from the akasha checkout on disk."},{"decisionKind":"decision-kind/departure","statement":"Composing the paths a run is built from reads no checkout."},{"decisionKind":"decision-kind/absence","statement":"No page's own TypeScript file reaches the macbook."},{"decisionKind":"decision-kind/constraint","statement":"A path relative to the shell package answers to wherever that shell sits."},{"decisionKind":"decision-kind/departure","statement":"The icon is the one input named on the app's page rather than held in akasha."}]}
+{"definition":"the repo-root paths a mobile sim run is built from"}
+{"id":"01a05cee-e560-74ed-a1cf-c9f340983fda"}
+{"slug":"sim-run-tree"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"default":"cluster"}
+{"id":"01a094d0-8287-7d0d-be5c-e374fa79fa5e"}
+{"placeholder":"where"}
+{"said":"--host"}
+{"slug":"host"}
+{"takes":"which GPU the work runs on"}
+{"type":"page-type/argument"}
+{"value":"text"}

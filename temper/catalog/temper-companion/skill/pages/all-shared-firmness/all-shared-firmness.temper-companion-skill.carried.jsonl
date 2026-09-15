@@ -1,0 +1,12 @@
+{"abilityId":157730}
+{"companionId":"all"}
+{"description":"Increases healing received by 1% for each piece of Heavy Armor equipped. Increases damage blocked by 1% for each piece of Heavy Armor equipped."}
+{"icon":"/esoui/art/icons/passive_companion_armor_heavy.dds"}
+{"id":"019e6484-382a-7dbd-8802-313f8d8dcfbf"}
+{"key":"shared-firmness"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"armor-heavy"}
+{"skillType":"passive"}
+{"slug":"all-shared-firmness"}
+{"title":"Firmness"}
+{"type":"page-type/temper-companion-skill"}

@@ -1,0 +1,7 @@
+{"definition":"how many seconds fall between one firing of an effect and the next"}
+{"id":"01a05fd1-d438-747e-827d-b5c526eef556"}
+{"max":null}
+{"propertySlug":"cooldown"}
+{"slug":"cooldown"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

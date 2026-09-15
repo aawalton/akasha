@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Aspect of Terror"}
+{"description":"\"Summon a dark spirit to terrify up to 3 nearby enemies, causing them to cower in fear for |cffffff3|r seconds.\""}
+{"esoSkillId":237690}
+{"icon":"/esoui/art/icons/ability_nightblade_016.dds"}
+{"id":"019e6f53-a8b5-777c-8d75-db752ab239ea"}
+{"isMorph":false}
+{"key":"vengeance-aspect-of-terror"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-nightblade-shadow"}
+{"skillType":"active"}
+{"slug":"vengeance-aspect-of-terror"}
+{"subcategoryId":"vengeance-nightblade-shadow"}
+{"title":"Vengeance Aspect of Terror"}
+{"type":"page-type/temper-skill"}

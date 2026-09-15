@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-divide"}
+{"changeTargetSubtype":"change-target-subtype/file-code"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The exports carried are named together in one argument."},{"decisionKind":"decision-kind/departure","statement":"A name is parted from the next by a space or by a line's end."},{"decisionKind":"decision-kind/departure","statement":"A call naming no export is refused."},{"decisionKind":"decision-kind/departure","statement":"A landing path already holding a body is refused rather than written over."},{"decisionKind":"decision-kind/departure","statement":"That refusal names the change carrying an export into a body already there."},{"decisionKind":"decision-kind/departure","statement":"Every export named is carried by one answer rather than one at a time."},{"decisionKind":"decision-kind/departure","statement":"What the division leaves is worked out by the module this change names."},{"decisionKind":"decision-kind/departure","statement":"A refusal that module answers is the refusal this change answers."},{"decisionKind":"decision-kind/departure","statement":"The file the exports land in is written by the change this change reaches."},{"decisionKind":"decision-kind/departure","statement":"The passages the division leaves in every other body are answered as edits here."},{"decisionKind":"decision-kind/absence","statement":"No change acting on what a file holds is reached here."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."}]}
+{"definition":"one code body divided in two, the exports named landing in a file made for them"}
+{"id":"01a09c43-477b-70bb-8ac6-1c63e5ab3632"}
+{"slug":"divide-file-code"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A transaction is caught where the transaction passes every clause."},{"decisionKind":"decision-kind/departure","statement":"A rule with no clause catches nothing."},{"decisionKind":"decision-kind/departure","statement":"Every rule tests a merchant."},{"decisionKind":"decision-kind/departure","statement":"A rule's remaining keys narrow from the merchant."},{"decisionKind":"decision-kind/departure","statement":"Two clauses on one key are two entries."}]}
+{"definition":"what a rule tests a transaction against, each with the key tested and how"}
+{"id":"01a0680c-3c00-7003-b571-6f4c9a2d3104"}
+{"properties":[{"pageProperty":"select-property/match-key","required":true,"many":false},{"pageProperty":"select-property/match-comparison","required":true,"many":false},{"pageProperty":"text-property/match-values","required":true,"many":true,"maxCount":20}]}
+{"propertySlug":"matches"}
+{"slug":"matches"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

@@ -1,0 +1,9 @@
+{"definition":"the daemon offering a node's graphics cards to the cluster as a resource"}
+{"id":"01a06812-2380-7ce6-b001-50deac244107"}
+{"image":"nvcr.io/nvidia/k8s-device-plugin:v0.14.5"}
+{"manifest":["manifest/nvidia-device-plugin"]}
+{"namespace":"kube-system"}
+{"resourceKind":"DaemonSet"}
+{"resourceName":"nvidia-device-plugin-daemonset"}
+{"slug":"nvidia-device-plugin"}
+{"type":"page-type/service-cluster"}

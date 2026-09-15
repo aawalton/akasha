@@ -1,0 +1,8 @@
+{"content":"conf"}
+{"definition":"what a search over the home directory passes over"}
+{"id":"01a06862-af5c-7cc1-a138-ffebf6bf1cfe"}
+{"installPath":"~/.ignore"}
+{"onlyOn":"any"}
+{"placedBy":"link"}
+{"slug":"home-search-ignore"}
+{"type":"page-type/provisioned-file"}

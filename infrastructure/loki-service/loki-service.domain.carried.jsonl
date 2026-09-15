@@ -1,0 +1,5 @@
+{"definition":"the manifests the cluster's log store and its collector are applied as"}
+{"id":"01a06816-68b1-7121-a3e4-61d3cc74c4c8"}
+{"parts":["manifest/loki","manifest/promtail","module/loki-configs","module/loki-constants","module/loki-manifests","module/promtail-manifests"]}
+{"slug":"loki-service"}
+{"type":"page-type/domain"}

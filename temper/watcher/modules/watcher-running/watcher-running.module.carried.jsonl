@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The worker is in the foreground."},{"decisionKind":"decision-kind/departure","statement":"A simple unit runs the worker."},{"decisionKind":"decision-kind/departure","statement":"The worker runs from source rather than from a build."},{"decisionKind":"decision-kind/departure","statement":"Whatever the worker writes is appended to the worker log."},{"decisionKind":"decision-kind/departure","statement":"The file naming the running worker is written before the worker is reported."},{"decisionKind":"decision-kind/departure","statement":"A worker already named by that file and still alive refuses a second start."},{"decisionKind":"decision-kind/departure","statement":"A stop signal is carried through to the worker."},{"decisionKind":"decision-kind/departure","statement":"The file naming the running worker is cleared once the worker ends."},{"decisionKind":"decision-kind/departure","statement":"A worker ended by a signal this module took is a clean stop."},{"decisionKind":"decision-kind/departure","statement":"A worker that ended on its own answers with the code the worker ended on."}]}
+{"definition":"the watcher worker started and held in the foreground until it ends"}
+{"id":"01a06039-9c8a-7d50-ae3b-e4e658fa6344"}
+{"slug":"watcher-running"}
+{"type":"page-type/module"}

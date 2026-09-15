@@ -1,0 +1,19 @@
+{"baseName":"Banner Bearer"}
+{"description":"You cleanse yourself of snares and immobilizations and are immune to them while the banner is active."}
+{"esoSkillId":230289}
+{"focusScriptId":"immobilize"}
+{"grimoireId":"banner-bearer"}
+{"icon":"/esoui/art/icons/ability_grimoire_support.dds"}
+{"id":"019e6471-1595-79a0-931e-a2b50195b8b9"}
+{"isMorph":false}
+{"key":"scribed-banner-bearer-immobilize"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"active"}
+{"slug":"scribed-banner-bearer-immobilize"}
+{"subcategoryId":"scribed"}
+{"title":"Binding Banner"}
+{"type":"page-type/temper-scribed-skill"}

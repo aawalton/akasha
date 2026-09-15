@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Rapid Fire"}
+{"description":"\"Unleash a barrage of arrows at an enemy, dealing |cffffff59622|r Physical Damage over |cffffff3|r seconds. \\n\\nYou can move at full speed and are immune to all disabling effects while channeling this attack.\""}
+{"esoSkillId":241278}
+{"icon":"/esoui/art/icons/ability_bow_006.dds"}
+{"id":"019e6f53-a95c-7ca0-af41-b624eaa08106"}
+{"isMorph":false}
+{"key":"vengeance-rapid-fire"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-bow"}
+{"skillType":"ultimate"}
+{"slug":"vengeance-rapid-fire"}
+{"subcategoryId":"vengeance-weapon-bow"}
+{"title":"Vengeance Rapid Fire"}
+{"type":"page-type/temper-skill"}

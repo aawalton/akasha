@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcd1-700c-9a2b-8b63dce73aff"}
+{"matches":[{"key":"merchant","comparison":"is","values":["spotify"]},{"key":"sign","comparison":"is","values":["negative"]},{"key":"date","comparison":"is-before","values":["2025-08-08"]}]}
+{"slug":"spotify-other-date"}
+{"title":"Spotify other date"}
+{"type":"page-type/category-rule-code"}

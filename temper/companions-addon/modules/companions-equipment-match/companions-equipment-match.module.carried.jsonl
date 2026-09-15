@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each gear slot is judged on weight and on trait and on quality apart."}]}
+{"definition":"how far a companion's worn gear is from the build a player is aiming at"}
+{"id":"01a0611d-84d5-7bd2-a667-02cb3cf8945b"}
+{"slug":"companions-equipment-match"}
+{"type":"page-type/module"}

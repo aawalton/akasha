@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An alias is written as the text writes the alias rather than as a slug is written."}]}
+{"definition":"another name the text writes a thing under"}
+{"id":"01a06558-a991-7721-9c7a-fb59e452d286"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"aliases"}
+{"slug":"aliases"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

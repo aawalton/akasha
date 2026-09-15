@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This edge is read inverted."}]}
+{"definition":"the topic a question is open on"}
+{"id":"01a077d9-0c68-7b67-bedd-fe9a66246acf"}
+{"propertySlug":"topic"}
+{"slug":"question-topic"}
+{"targetPageType":"page-type/all-about-alan-topic"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

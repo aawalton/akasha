@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A favourite chosen in a drop-down ports without a further click."}]}
+{"definition":"the drop-downs listing a player's favourite houses"}
+{"id":"01a06128-d5c9-78cc-9a1a-1b0d3985edd8"}
+{"slug":"housing-comboboxes"}
+{"type":"page-type/module"}

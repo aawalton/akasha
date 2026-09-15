@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"Puts a predicted new page into the local store, then runs the create the caller handed in."}
+{"id":"01a061cd-1a4e-7000-96b1-be78648de486"}
+{"slug":"use-optimistic-create-page"}
+{"type":"page-type/module"}

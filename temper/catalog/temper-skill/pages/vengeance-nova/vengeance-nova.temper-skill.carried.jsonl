@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Nova"}
+{"description":"\"Call down a fragment of the sun, dealing |cffffff22049|r Magic Damage to up to 3 enemies in the area and stunning them for |cffffff3|r seconds.\""}
+{"esoSkillId":237942}
+{"icon":"/esoui/art/icons/ability_templar_nova.dds"}
+{"id":"019e6f53-a945-7e2a-83c2-9c1f5b4b7117"}
+{"isMorph":false}
+{"key":"vengeance-nova"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-templar-dawns-wrath"}
+{"skillType":"ultimate"}
+{"slug":"vengeance-nova"}
+{"subcategoryId":"vengeance-templar-dawns-wrath"}
+{"title":"Vengeance Nova"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"filing":"archive"}
+{"id":"01a06860-54a2-7916-9f27-ec7686128131"}
+{"matches":[{"field":"from","comparison":"ends-with","values":["google.com"]},{"field":"subject","comparison":"contains","values":["oak.hills.first.ward.tech"]},{"field":"from","comparison":"is","values":["families-noreply@google.com"]},{"field":"subject","comparison":"does-not-contain","values":["activity","weekly report","weekly summary"]}]}
+{"slug":"oak-ward-google-notice-families-noreply"}
+{"title":"Oak ward google notice families noreply"}
+{"type":"page-type/email-rule-code"}

@@ -1,0 +1,10 @@
+{"displayOrder":5}
+{"effect":"Increases Jewelry Enchantment effect"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_JEWELRY_INFUSED"}
+{"id":"019e5b97-6d8f-7b57-8e9e-8816c82ecefd"}
+{"key":"infused"}
+{"material":"Aurbic Amber"}
+{"qualityValues":"jsonl"}
+{"slug":"infused"}
+{"title":"Infused"}
+{"type":"page-type/temper-jewelry-trait"}

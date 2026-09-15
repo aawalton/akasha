@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A file is reached by asking the graph what that file reaches."},{"decisionKind":"decision-kind/departure","statement":"Every module the gateway reaches that way is in the closure."},{"decisionKind":"decision-kind/departure","statement":"A member that cannot be read refuses the hash rather than shortening it."},{"decisionKind":"decision-kind/departure","statement":"Every path the hash names is relative to the repository root."},{"decisionKind":"decision-kind/absence","statement":"A specifier naming a package is not followed."}]}
+{"definition":"the gateway's own file closure, hashed, so a supervisor can tell its proxy changed"}
+{"id":"01a069d1-5918-7000-93b1-fb263acda9d0"}
+{"slug":"gateway-tree-version"}
+{"test":"ts"}
+{"type":"page-type/module"}

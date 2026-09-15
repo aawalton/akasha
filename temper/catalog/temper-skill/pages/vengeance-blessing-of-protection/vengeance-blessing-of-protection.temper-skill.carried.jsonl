@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Blessing of Protection"}
+{"description":"\"Slam your staff down to activate its blessings, healing up to 3 of you and your allies in front of you for |cffffff12048|r Health.\""}
+{"esoSkillId":246616}
+{"icon":"/esoui/art/icons/ability_restorationstaff_003.dds"}
+{"id":"019e6f53-a8c2-711f-80a4-665743139c87"}
+{"isMorph":false}
+{"key":"vengeance-blessing-of-protection"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"vengeance-blessing-of-protection"}
+{"subcategoryId":"vengeance-weapon-restoration-staff"}
+{"title":"Vengeance Blessing of Protection"}
+{"type":"page-type/temper-skill"}

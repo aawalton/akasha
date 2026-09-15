@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A key named here that the page type has no property for renders nothing."}]}
+{"definition":"the key of the property a page's audio is rendered from"}
+{"id":"01a062b8-8775-7004-96c1-c6b300535f4e"}
+{"maxLength":64}
+{"nameFormat":null}
+{"propertySlug":"source-property-id"}
+{"slug":"media-source-property-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

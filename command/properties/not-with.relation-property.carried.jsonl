@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A call saying both arguments is refused."},{"decisionKind":"decision-kind/departure","statement":"One entry states a pair, and the other entry needs no matching statement."},{"decisionKind":"decision-kind/departure","statement":"A pair one command may not say together is said together under another command."},{"decisionKind":"decision-kind/departure","statement":"Which arguments may not be said together belongs to the command rather than to the argument."}]}
+{"definition":"an argument one call never says beside this one"}
+{"id":"01a09483-7144-7d5c-a857-085af955734b"}
+{"propertySlug":"not-with"}
+{"slug":"not-with"}
+{"targetPageType":"page-type/argument"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

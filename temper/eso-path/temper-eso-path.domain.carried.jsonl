@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path here is worked out from the environment rather than from the directories on disk."},{"decisionKind":"decision-kind/departure","statement":"Asking the disk settles which candidate the live directory is."}]}
+{"definition":"what a workstation has of the game and of the game's own sources"}
+{"id":"01a06050-639d-78c1-a9ff-c6579f3deebd"}
+{"parts":["module/eso-clone-stamp","module/eso-paths","module/eso-paths-resolve","module/lua-files"]}
+{"slug":"temper-eso-path"}
+{"type":"page-type/domain"}

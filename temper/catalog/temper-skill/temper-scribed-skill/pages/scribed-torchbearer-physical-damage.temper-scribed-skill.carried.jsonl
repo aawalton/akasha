@@ -1,0 +1,19 @@
+{"baseName":"Torchbearer"}
+{"description":"Deals 1335 Physical Damage to enemies with each sweep. Beneficial Signature and Affix scripts only apply to you."}
+{"esoSkillId":217630}
+{"focusScriptId":"physical-damage"}
+{"grimoireId":"torchbearer"}
+{"icon":"/esoui/art/icons/ability_grimoire_fightersguild.dds"}
+{"id":"019e6471-15d3-72b1-a018-b801c227b835"}
+{"isMorph":false}
+{"key":"scribed-torchbearer-physical-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"guild-fighters-guild"}
+{"skillType":"active"}
+{"slug":"scribed-torchbearer-physical-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Sundering Torch"}
+{"type":"page-type/temper-scribed-skill"}

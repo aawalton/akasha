@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A wallpaper is matched by the persona and the rung together."},{"decisionKind":"decision-kind/departure","statement":"A wallpaper's slug joins the persona to the rung and to the moment of the drawing."},{"decisionKind":"decision-kind/departure","statement":"A description here is the persona's own words about her picture."}]}
+{"definition":"the picture a persona was hung on Alan's glass as"}
+{"extends":["page-type/persona-image"]}
+{"id":"01a0655b-4a9b-700c-8243-c78f27e30dd7"}
+{"parts":["text-property/eso-day"]}
+{"properties":[{"pageProperty":"number-property/relationship-level","required":false,"many":false},{"pageProperty":"text-property/stage","required":false,"many":false},{"pageProperty":"text-property/eso-day","required":false,"many":false},{"pageProperty":"text-property/value-slug","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"persona-wallpaper"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

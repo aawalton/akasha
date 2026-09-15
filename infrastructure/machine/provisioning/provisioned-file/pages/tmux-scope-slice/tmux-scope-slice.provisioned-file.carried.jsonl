@@ -1,0 +1,10 @@
+{"content":"conf"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"tmux states app.slice on every scope tmux makes, and this states another."},{"decisionKind":"decision-kind/departure","statement":"The name is the run of dashes systemd reads a drop-in for every tmux scope at."},{"decisionKind":"decision-kind/departure","statement":"A scope already running keeps the control group that scope was made in."}]}
+{"definition":"which slice every scope tmux makes for a seat is put in"}
+{"id":"01a0927d-1cbd-780f-aff8-2bacc9b0c011"}
+{"installPath":"~/.config/systemd/user/tmux-.scope.d/10-seats.conf"}
+{"onlyOn":"linux"}
+{"placedBy":"link"}
+{"reloadWith":"systemctl --user daemon-reload"}
+{"slug":"tmux-scope-slice"}
+{"type":"page-type/provisioned-file"}

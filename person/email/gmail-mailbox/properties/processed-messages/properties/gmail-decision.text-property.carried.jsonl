@@ -1,0 +1,8 @@
+{"definition":"what was settled about a message the mailbox went through"}
+{"id":"01a06862-a0bc-7f55-8d40-b7436ef558a4"}
+{"maxLength":40}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"decision"}
+{"slug":"gmail-decision"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

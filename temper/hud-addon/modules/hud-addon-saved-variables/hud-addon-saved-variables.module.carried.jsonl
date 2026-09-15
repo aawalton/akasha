@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The store is opened once as the game loads the add-on."},{"decisionKind":"decision-kind/departure","statement":"Reading the store before the store is opened raises an error."},{"decisionKind":"decision-kind/departure","statement":"The store is shared by every character on the account."}]}
+{"definition":"the account-wide store the add-on keeps its session and its visibility in"}
+{"id":"01a061c5-18dd-7003-b272-f24014f3e43b"}
+{"slug":"hud-addon-saved-variables"}
+{"type":"page-type/module"}

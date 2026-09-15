@@ -1,0 +1,8 @@
+{"definition":"the short name a security trades under"}
+{"id":"01a0680a-1a00-7012-a936-8c5e1b7d1112"}
+{"maxLength":12}
+{"nameFormat":null}
+{"propertySlug":"ticker"}
+{"slug":"ticker"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

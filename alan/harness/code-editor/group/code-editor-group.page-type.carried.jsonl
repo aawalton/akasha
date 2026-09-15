@@ -1,0 +1,9 @@
+{"definition":"a container of tabs, one of which is showing"}
+{"extends":["page-type/page"]}
+{"id":"01a06826-92e5-7205-a945-38ff0c371a22"}
+{"mortal":true}
+{"parts":["page-type/code-editor-group-tab"]}
+{"schema":"jsonl"}
+{"slug":"code-editor-group"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,17 @@
+{"baseName":"Caltrops"}
+{"description":"\"Hurl a ball of caltrops that scatter over the target area, dealing 281 Physical Damage every 1 second to enemies inside, and reducing their Movement Speed by 50%.\\n\\nEnemies who take damage from the caltrops have Major Breach applied to them, reducing their Physical and Spell Resistance by 5948 for 4.1 seconds.\""}
+{"esoSkillId":46466}
+{"icon":"/esoui/art/icons/ability_ava_001_b.dds"}
+{"id":"019e6251-4cdb-7e0f-b379-0590451e9eed"}
+{"isMorph":true}
+{"key":"razor-caltrops"}
+{"learnedLevel":6}
+{"lineRankNeeded":6}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"razor-caltrops"}
+{"subcategoryId":"alliance-war-assault"}
+{"title":"Razor Caltrops"}
+{"type":"page-type/temper-skill"}

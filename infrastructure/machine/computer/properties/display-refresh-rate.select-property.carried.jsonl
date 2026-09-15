@@ -1,0 +1,7 @@
+{"definition":"how often that monitor redraws"}
+{"id":"01a0658c-329a-7c80-9052-089c4feb898c"}
+{"propertySlug":"display-refresh-rate"}
+{"slug":"display-refresh-rate"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["50-hz","120-hz","60-hz"]}

@@ -1,0 +1,18 @@
+{"baseName":"Reveler"}
+{"description":"\"Increases your experience gain with the Two Handed skill line by 15%.\\n\\nIncreases the duration of any consumed drink by 15 minutes.\""}
+{"esoSkillId":36626}
+{"icon":"/esoui/art/icons/ability_dragonknight_032.dds"}
+{"id":"019e624a-12da-7cba-8d56-4f6efdf9bcc4"}
+{"isMorph":false}
+{"key":"reveler"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"racial-nord-skills"}
+{"skillType":"passive"}
+{"slug":"reveler"}
+{"status":"unsupported"}
+{"subcategoryId":"racial-nord-skills"}
+{"title":"Reveler"}
+{"type":"page-type/temper-skill"}

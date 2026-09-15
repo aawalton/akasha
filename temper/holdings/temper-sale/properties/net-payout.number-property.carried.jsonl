@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A payout is the price less the tax."}]}
+{"definition":"what a seller was left with in gold"}
+{"id":"01a0685d-89aa-7dab-b4d1-44a1c21309c3"}
+{"max":null}
+{"propertySlug":"net-payout"}
+{"slug":"net-payout"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

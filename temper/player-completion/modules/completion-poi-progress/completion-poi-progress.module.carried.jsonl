@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The zone catalog arrives as an argument rather than as an imported table."},{"decisionKind":"decision-kind/departure","statement":"A kind is the places of a zone sharing a point of interest type."},{"decisionKind":"decision-kind/departure","statement":"The order of the places is the order the zone states."},{"decisionKind":"decision-kind/departure","statement":"A wayshrine of Cyrodiil a character has not found is left out of the count."},{"decisionKind":"decision-kind/departure","statement":"A kind left with no place is left out of its zone."},{"decisionKind":"decision-kind/departure","statement":"A character never read is left out."},{"decisionKind":"decision-kind/constraint","statement":"An empty catalog answers an empty progress."}]}
+{"definition":"the points of interest a character has found, counted by zone and by kind"}
+{"id":"01a06358-4f7c-7af7-948b-481d215df05c"}
+{"slug":"completion-poi-progress"}
+{"type":"page-type/module"}

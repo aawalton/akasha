@@ -1,0 +1,6 @@
+{"cooldownMilliseconds":1000}
+{"d":"ts"}
+{"definition":"the rows the commands panel draws"}
+{"id":"01a07c93-52fe-76f9-9bea-127c9f9d5ad8"}
+{"slug":"command-tree"}
+{"type":"page-type/code-editor-data-interface"}

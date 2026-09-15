@@ -1,0 +1,8 @@
+{"definition":"the set of games a game belongs to"}
+{"id":"01a06582-bd62-7684-a6cb-b0074eea56fd"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"collection"}
+{"slug":"chess-collection"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A calorie estimate is captured by judgment."}]}
+{"definition":"the calories one thing eaten was reckoned to hold"}
+{"id":"01a065a3-6e8b-7d6f-9ef1-ffd2201866f6"}
+{"max":null}
+{"propertySlug":"estimated-calories"}
+{"slug":"estimated-calories"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

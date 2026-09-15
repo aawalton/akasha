@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A release has the songs put out together under one title."},{"decisionKind":"decision-kind/departure","statement":"A release names the artist the release is part of."}]}
+{"definition":"an album Alan keeps"}
+{"extends":["page-type/collection-external"]}
+{"id":"01a06769-ed1a-7000-825b-b75cf6badf16"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"release"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

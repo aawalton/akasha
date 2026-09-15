@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A setting is written to saved variables as the player changes the setting."}]}
+{"definition":"the settings panel the housing add-on registers"}
+{"id":"01a06128-d5d2-78a7-baa2-c7e8199cecec"}
+{"slug":"housing-settings-menu"}
+{"type":"page-type/module"}

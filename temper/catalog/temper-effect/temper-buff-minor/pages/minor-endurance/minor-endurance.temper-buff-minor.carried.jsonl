@@ -1,0 +1,7 @@
+{"description":"Increases Stamina Recovery by 15%"}
+{"effects":"jsonl"}
+{"id":"01a05fc5-f6be-7847-8a03-7ba959b5b8d3"}
+{"key":"minor-endurance"}
+{"slug":"minor-endurance"}
+{"title":"Minor Endurance"}
+{"type":"page-type/temper-buff-minor"}

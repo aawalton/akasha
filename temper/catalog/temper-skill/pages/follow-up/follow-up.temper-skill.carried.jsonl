@@ -1,0 +1,19 @@
+{"baseName":"Follow Up"}
+{"description":"\"When you complete a fully-charged Heavy Attack, your damage done with Two Handed attacks increases by 10% for 4 seconds.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45446}
+{"icon":"/esoui/art/icons/passive_dragonknight_016.dds"}
+{"id":"019e6226-00f2-7c16-9995-54924f771bb5"}
+{"isMorph":false}
+{"key":"follow-up"}
+{"learnedLevel":1}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"passive"}
+{"slug":"follow-up"}
+{"status":"unsupported"}
+{"subcategoryId":"weapon-two-handed"}
+{"title":"Follow Up"}
+{"type":"page-type/temper-skill"}

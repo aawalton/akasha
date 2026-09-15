@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only a generate or edit or upscale run lands an image."},{"decisionKind":"decision-kind/departure","statement":"The engine is read from the operation first and from the service second."},{"decisionKind":"decision-kind/departure","statement":"The cover is set after the bytes are stored rather than before."},{"decisionKind":"decision-kind/departure","statement":"The object put and the cover set are each pushed into the caller's `done`."}]}
+{"definition":"the image page a generate, edit or upscale run lands, and the cover it is given"}
+{"id":"01a0685d-4b35-7013-8853-9ed4e36a99e3"}
+{"slug":"persist-image"}
+{"type":"page-type/module"}

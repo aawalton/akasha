@@ -1,0 +1,6 @@
+{"definition":"the conda environment the music generator runs in"}
+{"id":"01a06815-9efd-7011-949f-faefb74ed04f"}
+{"shell":"sh"}
+{"slug":"music-gen-provision"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

@@ -1,0 +1,19 @@
+{"baseName":"Wield Soul"}
+{"description":"Deals 2091 Bleed Damage to an enemy. Beneficial Signature and Affix scripts only apply to you."}
+{"esoSkillId":219780}
+{"focusScriptId":"bleed-damage"}
+{"grimoireId":"wield-soul"}
+{"icon":"/esoui/art/icons/ability_grimoire_soulmagic1.dds"}
+{"id":"019e6471-15f4-70ba-98d6-f7391c61239e"}
+{"isMorph":false}
+{"key":"scribed-wield-soul-bleed-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"world-soul-magic"}
+{"skillType":"active"}
+{"slug":"scribed-wield-soul-bleed-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Bloody Soul"}
+{"type":"page-type/temper-scribed-skill"}

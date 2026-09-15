@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Height is bounded by a minimum and by four times that minimum."},{"decisionKind":"decision-kind/departure","statement":"The addon's create function runs after the control is registered for refresh."},{"decisionKind":"decision-kind/absence","statement":"No value is read or written by the custom widget itself."}]}
+{"definition":"the empty height-bounded container widget of the settings panel"}
+{"id":"01a06100-0000-7000-8000-000000000016"}
+{"slug":"addon-menu-widget-custom"}
+{"type":"page-type/module"}

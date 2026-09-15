@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Which components the harness compiles is read from the app the harness is given."},{"decisionKind":"decision-kind/departure","statement":"An app naming no components draws nothing."}]}
+{"definition":"the program that draws an app's tiles on a simulator"}
+{"id":"01a059a0-c8c2-7f6f-b822-ad3dedaaeb86"}
+{"main":"swift"}
+{"slug":"render-harness"}
+{"type":"page-type/ios-harness"}

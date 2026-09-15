@@ -1,0 +1,12 @@
+{"displayOrder":2}
+{"effect":"Increases Maximum Magicka"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_MAGICKA"}
+{"essenceRune":"Makko"}
+{"glyphName":"Glyph of Magicka"}
+{"id":"01a05fd4-d96b-7fb6-8535-b1728715ed14"}
+{"key":"magicka"}
+{"qualityValues":"jsonl"}
+{"slug":"magicka"}
+{"title":"Magicka"}
+{"type":"page-type/temper-armor-enchant"}

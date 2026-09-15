@@ -1,0 +1,7 @@
+{"description":"Reduces damage taken from Dungeon, Trial, and Arena monsters by 10%"}
+{"effects":"jsonl"}
+{"id":"01a05fc5-f6b6-76f4-8c68-3b6a6199e876"}
+{"key":"major-aegis"}
+{"slug":"major-aegis"}
+{"title":"Major Aegis"}
+{"type":"page-type/temper-buff-major"}

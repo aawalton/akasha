@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every value a reach needs is read from the environment."},{"decisionKind":"decision-kind/departure","statement":"An environment missing a value a reach needs is a caller's mistake."},{"decisionKind":"decision-kind/departure","statement":"The environment is read once."},{"decisionKind":"decision-kind/departure","statement":"The values the environment gave are held for the life of the process."},{"decisionKind":"decision-kind/departure","statement":"A reach still open after thirty seconds is abandoned."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the answer a reach gave."}]}
+{"definition":"a service behind the Kubernetes API proxy, reached with a service account token"}
+{"id":"01a06583-0030-7000-94b8-9fa8780482f5"}
+{"slug":"cluster-api-reaching"}
+{"type":"page-type/module"}

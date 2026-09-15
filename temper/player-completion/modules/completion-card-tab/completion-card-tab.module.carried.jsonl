@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A card is answered for by its own identifier alone."},{"decisionKind":"decision-kind/departure","statement":"Anything hung beneath a card answers for that card's tab."},{"decisionKind":"decision-kind/departure","statement":"An identifier hung under two tabs answers for neither."},{"decisionKind":"decision-kind/departure","statement":"The tree answered from is handed in, and the static tree where it is not."},{"decisionKind":"decision-kind/departure","statement":"An achievement heading answers only once a tree with that heading is handed in."}]}
+{"definition":"which of the three tabs of the completion window a card is shown under"}
+{"id":"01a06103-0618-76fd-8539-d368cdcf6cae"}
+{"slug":"completion-card-tab"}
+{"test":"ts"}
+{"type":"page-type/module"}

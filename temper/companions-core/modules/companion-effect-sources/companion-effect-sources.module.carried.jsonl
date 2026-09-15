@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The off-hand weapon damage fraction sits as a bare constant rather than in a table."},{"decisionKind":"decision-kind/constraint","statement":"Every source has a categoryId drawn from the shared SourceCategoryId union."},{"decisionKind":"decision-kind/constraint","statement":"The class passive contributes a source only when the companion declares a classPassiveId."}]}
+{"definition":"extractors turning a companion build into categorized metric effect sources"}
+{"id":"01a06152-c2c7-7dff-b7bf-68a31c3744ce"}
+{"slug":"companion-effect-sources"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A service already resident is not started again."},{"decisionKind":"decision-kind/departure","statement":"A warm service is evicted only for another service that is not warm."}]}
+{"definition":"which resident services stop and which starts when one is asked for"}
+{"id":"01a06815-9efd-7006-bea5-94b31dc409e6"}
+{"slug":"swap-decision"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The records here are one unbroken run of the table's order."},{"decisionKind":"decision-kind/departure","statement":"The run is the add-on's own source rather than a derivation."}]}
+{"definition":"one run of the treasure chest places by zone"}
+{"id":"01a06269-2a8f-7361-9407-35b533c0a508"}
+{"slug":"map-pins-chests-10"}
+{"type":"page-type/module"}

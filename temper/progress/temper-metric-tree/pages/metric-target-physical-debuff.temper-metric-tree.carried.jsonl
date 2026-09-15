@@ -1,0 +1,8 @@
+{"displayOrder":3}
+{"id":"019e2fcd-5aa2-7ba3-b3da-4010bf78ab58"}
+{"nodeId":"target-physical-debuff"}
+{"nodeType":"metric"}
+{"parent":"subcategory-target-toughness"}
+{"slug":"metric-target-physical-debuff"}
+{"title":"Target Physical Debuff"}
+{"type":"page-type/temper-metric-tree"}

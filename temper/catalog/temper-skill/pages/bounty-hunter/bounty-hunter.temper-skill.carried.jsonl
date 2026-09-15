@@ -1,0 +1,19 @@
+{"baseName":"Bounty Hunter"}
+{"description":"\"Allows you to accept bounty quests from the Fighters Guild in Cyrodiil.\""}
+{"effects":"jsonl"}
+{"esoSkillId":35804}
+{"icon":"/esoui/art/icons/ability_armor_011.dds"}
+{"id":"019e6238-c29e-715a-b1c9-1452572e3902"}
+{"isMorph":false}
+{"key":"bounty-hunter"}
+{"learnedLevel":1}
+{"lineRankNeeded":9}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"guild-fighters-guild"}
+{"skillType":"passive"}
+{"slug":"bounty-hunter"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-fighters-guild"}
+{"title":"Bounty Hunter"}
+{"type":"page-type/temper-skill"}

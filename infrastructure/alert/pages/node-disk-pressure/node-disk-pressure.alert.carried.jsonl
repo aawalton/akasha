@@ -1,0 +1,8 @@
+{"definition":"a node has less disk left than it needs to keep scheduling work"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fa-77f4-b722-505724308e48"}
+{"runbook":"txt"}
+{"slug":"node-disk-pressure"}
+{"summary":"Node {{ $labels.instance }} disk available < 15%"}
+{"title":"Node disk pressure"}
+{"type":"page-type/alert"}

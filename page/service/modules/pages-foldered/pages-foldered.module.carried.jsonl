@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A folder holding a page file of that type holds its pages as files."},{"decisionKind":"decision-kind/departure","statement":"A folder holding a subfolder and no such page file holds its pages in folders."},{"decisionKind":"decision-kind/departure","statement":"A folder holding neither is answered as holding its pages as files."},{"decisionKind":"decision-kind/departure","statement":"A page file of another page type shapes nothing here."},{"decisionKind":"decision-kind/departure","statement":"A folder that is not there is read as holding nothing."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a page."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a file."}]}
+{"definition":"whether the pages already in a folder sit as files or in folders of their own"}
+{"id":"01a0a5a9-545f-783d-8733-5a27ccc6ba98"}
+{"slug":"pages-foldered"}
+{"test":"ts"}
+{"type":"page-type/module"}

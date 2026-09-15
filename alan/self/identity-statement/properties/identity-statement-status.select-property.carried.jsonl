@@ -1,0 +1,7 @@
+{"definition":"how far along this statement is"}
+{"id":"01a0658a-739f-7ffd-9183-6ff281dfa491"}
+{"propertySlug":"identity-statement-status"}
+{"slug":"identity-statement-status"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["planned","in-progress","current","deprecated"]}

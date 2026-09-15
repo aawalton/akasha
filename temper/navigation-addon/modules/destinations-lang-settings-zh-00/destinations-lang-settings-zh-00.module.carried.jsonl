@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The records here are one unbroken run of the table's order."},{"decisionKind":"decision-kind/departure","statement":"The run is the add-on's own source rather than a derivation."}]}
+{"definition":"one run of the destinations settings strings in Chinese"}
+{"id":"01a06269-2a30-7dc9-99dd-02dd9583dbbe"}
+{"slug":"destinations-lang-settings-zh-00"}
+{"type":"page-type/module"}

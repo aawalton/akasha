@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An antiquity here is an antiquity a player digs up and reads lore from."}]}
+{"definition":"the antiquities a category has, one antiquity to a line"}
+{"id":"01a06166-503b-7004-a13a-ad8c499bf773"}
+{"properties":[{"pageProperty":"number-property/eso-antiquity-id","required":true,"many":false},{"pageProperty":"text-property/antiquity-name","required":true,"many":false},{"pageProperty":"number-property/eso-antiquity-set-id","required":true,"many":false},{"pageProperty":"number-property/total-lore-entries","required":true,"many":false}]}
+{"propertySlug":"antiquities"}
+{"slug":"antiquities"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

@@ -1,0 +1,17 @@
+{"baseName":"Mark Target"}
+{"description":"\"Expose an enemy's weaknesses by applying Major Breach to them, reducing Physical Resistance and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\\n\\nWhen a marked enemy dies, you heal to full Health.\\n\\nYou can only have one Mark Target active at a time.\""}
+{"esoSkillId":33357}
+{"icon":"/esoui/art/icons/ability_nightblade_014.dds"}
+{"id":"019e6f53-a455-775d-b90e-f0c22d85bd16"}
+{"isMorph":false}
+{"key":"mark-target"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":30}
+{"skillLineId":"nightblade-assassination"}
+{"skillType":"active"}
+{"slug":"mark-target"}
+{"subcategoryId":"nightblade-assassination"}
+{"title":"Mark Target"}
+{"type":"page-type/temper-skill"}

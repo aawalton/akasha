@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This code is written out from the metric-tree pages rather than by hand."}]}
+{"definition":"the damage category of the character stat display tree"}
+{"id":"01a06133-5f06-736a-899a-cc2c7e589cc2"}
+{"slug":"metric-tree-data-01"}
+{"type":"page-type/module"}

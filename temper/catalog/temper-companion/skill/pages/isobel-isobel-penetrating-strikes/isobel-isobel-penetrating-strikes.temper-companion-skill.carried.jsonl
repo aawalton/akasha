@@ -1,0 +1,13 @@
+{"abilityId":163458}
+{"companionId":"isobel"}
+{"description":"Your Companion attacks three times with a magic spear, dealing $1 Magic Damage to all enemies in front of them with each strike. After their assault, Your Companion grants themselves and nearby allies a boon that increases the damage of their next Light or Heavy Attack by 50%."}
+{"icon":"/esoui/art/icons/ability_companion_templar_trained_attacker.dds"}
+{"id":"019e6484-3876-7084-9250-0cf2b301a826"}
+{"key":"isobel-penetrating-strikes"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-isobel-blazing-might"}
+{"skillType":"active"}
+{"slug":"isobel-isobel-penetrating-strikes"}
+{"title":"Penetrating Strikes"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps","support"]}

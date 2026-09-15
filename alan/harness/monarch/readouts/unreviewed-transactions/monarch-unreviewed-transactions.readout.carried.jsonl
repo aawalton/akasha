@@ -1,0 +1,15 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Unreviewed is counted over the year behind the reading."},{"decisionKind":"decision-kind/departure","statement":"Only settled transactions are counted."},{"decisionKind":"decision-kind/departure","statement":"The whole Cookie header is taken in."},{"decisionKind":"decision-kind/departure","statement":"The X-CSRFToken header is split out of its `csrftoken=` value."},{"decisionKind":"decision-kind/departure","statement":"A Monarch answer that is not OK is refused as a dead credential."},{"decisionKind":"decision-kind/departure","statement":"A call gives up after ten seconds."},{"decisionKind":"decision-kind/absence","statement":"Nothing here caches a reading or decides when a reading is taken."},{"decisionKind":"decision-kind/absence","statement":"Nothing is counted that is not shown."}]}
+{"definition":"how many transactions are unreviewed"}
+{"groups":["readout-group/categorization"]}
+{"id":"01a053aa-fc5a-7708-b1fb-780b2ca58893"}
+{"label":"Unreviewed"}
+{"noneLeftEmoji":"🎉"}
+{"noneLeftWords":"All reviewed!"}
+{"place":1}
+{"readLiveFrom":"domain/monarch"}
+{"reading":{}}
+{"scale":"readout-scale/backlog-count"}
+{"slug":"monarch-unreviewed-transactions"}
+{"type":"page-type/readout"}
+{"unit":"transactions"}
+{"wireKey":"unreviewed"}

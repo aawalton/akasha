@@ -1,0 +1,8 @@
+{"blueAt":72}
+{"definition":"how long until the weekly Claude allowance renews, counted in hours"}
+{"greenAt":48}
+{"id":"01a063bd-a526-751e-97d3-d164d0908a7f"}
+{"redAt":0}
+{"slug":"allowance-hours"}
+{"type":"page-type/readout-scale"}
+{"yellowAt":24}

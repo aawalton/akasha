@@ -1,0 +1,19 @@
+{"baseName":"Harnessed Quintessence"}
+{"description":"\"You master the warp and weft of your very soul. When you are restored Magicka or Stamina, increase your Weapon and Spell Damage by 284 for 10 seconds.\""}
+{"effects":"jsonl"}
+{"esoSkillId":184858}
+{"icon":"/esoui/art/icons/passive_arcanist_02.dds"}
+{"id":"019e6245-a69b-7cda-b85a-527e00ddccbb"}
+{"isMorph":false}
+{"key":"harnessed-quintessence"}
+{"learnedLevel":14}
+{"lineRankNeeded":14}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"arcanist-herald-of-the-tome"}
+{"skillType":"passive"}
+{"slug":"harnessed-quintessence"}
+{"status":"partially-supported"}
+{"subcategoryId":"arcanist-herald-of-the-tome"}
+{"title":"Harnessed Quintessence"}
+{"type":"page-type/temper-skill"}

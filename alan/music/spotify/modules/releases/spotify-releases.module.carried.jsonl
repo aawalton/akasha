@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Spotify refuses a page of more than ten albums with `Invalid limit`."},{"decisionKind":"decision-kind/constraint","statement":"Spotify answers 403 to the bulk album read for an app registered now."},{"decisionKind":"decision-kind/departure","statement":"An album's length is added up from the tracks that album holds."},{"decisionKind":"decision-kind/departure","statement":"An album an artist only appears on is left out."},{"decisionKind":"decision-kind/departure","statement":"A day an album states only a year or a month for is left as Spotify states it."}]}
+{"definition":"the albums an artist put out, and the tracks one of those albums holds"}
+{"id":"01a09c6f-017f-70b7-a662-48904bec6460"}
+{"slug":"spotify-releases"}
+{"test":"ts"}
+{"type":"page-type/module"}

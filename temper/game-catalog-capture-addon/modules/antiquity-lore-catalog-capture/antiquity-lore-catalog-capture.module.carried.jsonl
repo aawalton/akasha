@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The collector adds itself to the catalog registry as the module loads."},{"decisionKind":"decision-kind/departure","statement":"Antiquity ids are read in a chain that ends where the game answers zero."},{"decisionKind":"decision-kind/departure","statement":"An antiquity with no lore entry is left out."}]}
+{"definition":"the antiquities with lore entries, read into the add-on's saved variables"}
+{"id":"01a060e2-3182-7e5c-bae4-5a096f5b7806"}
+{"slug":"antiquity-lore-catalog-capture"}
+{"type":"page-type/module"}

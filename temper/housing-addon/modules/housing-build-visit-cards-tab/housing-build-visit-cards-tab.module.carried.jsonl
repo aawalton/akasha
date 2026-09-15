@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Controls are built once and hidden rather than made again."}]}
+{"definition":"building the controls of the visit cards tab"}
+{"id":"01a06128-d5c5-7488-b800-14b49d097a7e"}
+{"slug":"housing-build-visit-cards-tab"}
+{"type":"page-type/module"}

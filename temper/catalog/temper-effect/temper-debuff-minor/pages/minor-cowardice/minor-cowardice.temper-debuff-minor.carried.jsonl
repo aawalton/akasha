@@ -1,0 +1,7 @@
+{"description":"Reduces Weapon and Spell Damage by 215"}
+{"effects":"jsonl"}
+{"id":"01a05fc6-42c3-7215-bb24-ae4cf64b44da"}
+{"key":"minor-cowardice"}
+{"slug":"minor-cowardice"}
+{"title":"Minor Cowardice"}
+{"type":"page-type/temper-debuff-minor"}

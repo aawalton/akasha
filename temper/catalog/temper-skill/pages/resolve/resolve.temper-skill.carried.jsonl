@@ -1,0 +1,19 @@
+{"baseName":"Resolve"}
+{"description":"\"Increases your Physical and Spell Resistance by 343 for each piece of Heavy Armor equipped.\\n\\nCurrent bonus: 0.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45533}
+{"icon":"/esoui/art/icons/ability_dragonknight_020.dds"}
+{"id":"019e6238-c302-724c-8167-e37fba8feae0"}
+{"isMorph":false}
+{"key":"resolve"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"armor-heavy-armor"}
+{"skillType":"passive"}
+{"slug":"resolve"}
+{"status":"supported"}
+{"subcategoryId":"armor-heavy-armor"}
+{"title":"Resolve"}
+{"type":"page-type/temper-skill"}

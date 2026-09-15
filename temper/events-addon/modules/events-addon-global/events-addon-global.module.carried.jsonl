@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Another add-on reaches this add-on through the global rather than through an import."},{"decisionKind":"decision-kind/departure","statement":"The global has the add-on's name and version and nothing else."}]}
+{"definition":"the name another add-on reaches this one by"}
+{"id":"01a06157-8355-7167-94a2-afe46cd04bb8"}
+{"slug":"events-addon-global"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type saying nothing here is drawn plainly while the network is away."},{"decisionKind":"decision-kind/departure","statement":"A page type saying true here is drawn by its own component either way."}]}
+{"definition":"whether the component drawing a page type's pages works with no network"}
+{"id":"01a0a06e-5560-76fc-acd9-668e1cebe18b"}
+{"propertySlug":"drawn-offline"}
+{"slug":"drawn-offline"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The Gmail client is made for the call rather than handed in by the caller."},{"decisionKind":"decision-kind/departure","statement":"The code that reaches Gmail is loaded when a caller asks rather than at import."},{"decisionKind":"decision-kind/absence","statement":"Nothing here knows a command line."}]}
+{"definition":"Gmail messages listed and fetched by a caller with no client"}
+{"id":"01a07253-d962-737b-8253-aa8fc539d58e"}
+{"slug":"email-message-fetching"}
+{"type":"page-type/module"}

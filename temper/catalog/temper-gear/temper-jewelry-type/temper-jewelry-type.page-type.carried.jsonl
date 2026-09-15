@@ -1,0 +1,8 @@
+{"definition":"a kind of jewelry piece"}
+{"extends":["page-type/temper-gear-thing"]}
+{"id":"01a05fd1-d433-7778-b5e5-05081a435bde"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"text-property/valid-slots","required":true,"many":true,"maxCount":null}]}
+{"schema":"jsonl"}
+{"slug":"temper-jewelry-type"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

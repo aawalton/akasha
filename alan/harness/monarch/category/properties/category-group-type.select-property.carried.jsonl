@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A transfer moves money the household already holds from one account to another."}]}
+{"definition":"which way money runs through a category's group"}
+{"id":"01a0680a-1a00-700b-a4e7-8b5d1c9f110b"}
+{"propertySlug":"category-group-type"}
+{"slug":"category-group-type"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["expense","income","transfer"]}

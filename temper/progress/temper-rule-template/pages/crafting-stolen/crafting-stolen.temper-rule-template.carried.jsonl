@@ -1,0 +1,12 @@
+{"action":"temper-item-action/fence-launder"}
+{"active":false}
+{"categoryId":"crafting"}
+{"conditions":"jsonl"}
+{"description":"Launders stolen crafting materials so they can be deposited or used."}
+{"displayOrder":28}
+{"goal":"temper-rule-goal/hoard"}
+{"id":"019e3104-261d-7c75-8813-f427ac1358a8"}
+{"key":"crafting-stolen"}
+{"slug":"crafting-stolen"}
+{"title":"Launder crafting materials"}
+{"type":"page-type/temper-rule-template"}

@@ -1,0 +1,17 @@
+{"baseName":"Eviscerate"}
+{"description":"\"Rend an enemy, dealing |cffffff8076|r Magic Damage and applying the Hemorrhaging status effect.\\n\\nDeals up to |cffffff33|r% more damage based on your missing Health.\""}
+{"esoSkillId":32893}
+{"icon":"/esoui/art/icons/ability_u26_vampire_01.dds"}
+{"id":"019e6f53-a1af-7fe0-8249-d6d25d09bf3b"}
+{"isMorph":false}
+{"key":"eviscerate"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"world-vampire"}
+{"skillType":"active"}
+{"slug":"eviscerate"}
+{"subcategoryId":"world-vampire"}
+{"title":"Eviscerate"}
+{"type":"page-type/temper-skill"}

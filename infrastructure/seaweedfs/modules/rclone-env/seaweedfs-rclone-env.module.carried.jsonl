@@ -1,0 +1,6 @@
+{"allowsTmpPaths":true}
+{"code":"ts"}
+{"definition":"the environment an rclone job reaches the object store's S3 gateway through"}
+{"id":"01a08de0-e084-7ef2-ba43-857f87f1476f"}
+{"slug":"seaweedfs-rclone-env"}
+{"type":"page-type/module"}

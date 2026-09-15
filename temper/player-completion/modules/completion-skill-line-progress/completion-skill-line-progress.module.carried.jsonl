@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A skill line at its last rank reads as a hundred."},{"decisionKind":"decision-kind/constraint","statement":"A skill line the game gives no rank ceiling is left out."}]}
+{"definition":"how far each character has taken every skill line, and the morphs alongside"}
+{"id":"01a06279-3a00-7001-abfa-2b87b8b01e4e"}
+{"slug":"completion-skill-line-progress"}
+{"type":"page-type/module"}

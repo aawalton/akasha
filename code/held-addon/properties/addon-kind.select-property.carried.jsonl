@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A native addon is backbone written for Temper."},{"decisionKind":"decision-kind/departure","statement":"A ported addon is a community addon a machine translated."},{"decisionKind":"decision-kind/departure","statement":"A library addon is a framework other addons load."}]}
+{"definition":"where an addon's source came from"}
+{"id":"01a0819d-3406-7d80-bea3-6be9825ecdca"}
+{"propertySlug":"addon-kind"}
+{"slug":"addon-kind"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["library","native","ported"]}

@@ -1,0 +1,17 @@
+{"baseName":"Inferno"}
+{"description":"\"Activate an aura of embers which cauterizes the wounds of you or up to |cffffff6|r nearby allies every |cffffff3|r seconds, healing for |cffffff3773|r Health.\\n\\nWhile slotted on either bar, you gain Major Prophecy and Savagery, increasing your Spell and Weapon Critical rating by |cffffff2629|r.\""}
+{"esoSkillId":32881}
+{"icon":"/esoui/art/icons/ability_dragonknight_002_b.dds"}
+{"id":"019e6f53-9fc3-7be2-910b-cd9d5ee3b1ba"}
+{"isMorph":true}
+{"key":"cauterize-32881"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":2}
+{"rank":42}
+{"skillLineId":"dragonknight-ardent-flame"}
+{"skillType":"active"}
+{"slug":"cauterize-32881"}
+{"subcategoryId":"dragonknight-ardent-flame"}
+{"title":"Cauterize"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,17 @@
+{"baseName":"Mountain Giant"}
+{"description":"\"The strength of mountains fuels your mightiest blows.\\n\\nDealing damage with a fully-charged Heavy Attack also applies Off Balance to the target.\""}
+{"esoSkillId":29475}
+{"icon":"/esoui/art/icons/ability_dragonknight_034.dds"}
+{"id":"019e6f53-a49e-7b0d-8ce9-74fb19dbc273"}
+{"isMorph":false}
+{"key":"mountain-giant"}
+{"learnedLevel":39}
+{"lineRankNeeded":39}
+{"morphIndex":0}
+{"rank":39}
+{"skillLineId":"dragonknight-earthen-heart"}
+{"skillType":"passive"}
+{"slug":"mountain-giant"}
+{"subcategoryId":"dragonknight-earthen-heart"}
+{"title":"Mountain Giant"}
+{"type":"page-type/temper-skill"}

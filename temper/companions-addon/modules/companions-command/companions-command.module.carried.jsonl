@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Clearing takes the recorded data and leaves the target builds."}]}
+{"definition":"refreshing and clearing every companion's recorded data"}
+{"id":"01a0611d-84d1-76d7-bc57-493947e69afe"}
+{"slug":"companions-command"}
+{"type":"page-type/module"}

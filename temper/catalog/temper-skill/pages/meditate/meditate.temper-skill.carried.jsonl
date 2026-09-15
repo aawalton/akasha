@@ -1,0 +1,17 @@
+{"baseName":"Meditate"}
+{"description":"\"Focus your body and mind into a meditative state, healing for |cffffff1530|r Health and restoring |cffffff1500|r Magicka and Stamina every |cffffff1|r second.\\n\\nYou will remain in a meditative state until you toggle this ability off or are interrupted.\""}
+{"esoSkillId":103492}
+{"icon":"/esoui/art/icons/ability_psijic_004.dds"}
+{"id":"019e6f53-a46a-72c2-9293-c5bd152d40d0"}
+{"isMorph":false}
+{"key":"meditate"}
+{"learnedLevel":1}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":8}
+{"skillLineId":"guild-psijic-order"}
+{"skillType":"active"}
+{"slug":"meditate"}
+{"subcategoryId":"guild-psijic-order"}
+{"title":"Meditate"}
+{"type":"page-type/temper-skill"}

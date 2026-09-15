@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A day is written as an ISO 8601 calendar day."},{"decisionKind":"decision-kind/absence","statement":"A day has no hour."},{"decisionKind":"decision-kind/absence","statement":"A day has no zone."},{"decisionKind":"decision-kind/departure","statement":"A moment within a day is an instant property rather than a calendar date property."}]}
+{"definition":"a page property with a day"}
+{"extends":["page-type/page-property"]}
+{"id":"01a063de-2c60-7001-89b5-5efdc8482d83"}
+{"schema":"jsonl"}
+{"shapes":"jsonl"}
+{"slug":"calendar-date-property"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

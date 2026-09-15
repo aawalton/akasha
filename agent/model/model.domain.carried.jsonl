@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A model is a domain whose subject is one trained network."}]}
+{"definition":"a model work can be put to"}
+{"id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}
+{"parts":["domain/model-gateway","module/model-answer","module/model-asking","module/model-vocab","page-type/model-account","page-type/model-family","page-type/model-provider","page-type/model-test"]}
+{"slug":"model"}
+{"type":"page-type/domain"}

@@ -1,0 +1,12 @@
+{"abilityId":214162}
+{"companionId":"zerith-var"}
+{"description":"Decreases ability cooldowns by 3% and increases Health by 3%."}
+{"icon":"/esoui/art/icons/ability_companion_zerith_passive.dds"}
+{"id":"019e6484-38b7-7438-8c87-ea6e71b14459"}
+{"key":"zerith-var-third-moons-chosen"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-zerith-var"}
+{"skillType":"passive"}
+{"slug":"zerith-var-zerith-var-third-moons-chosen"}
+{"title":"Third Moon's Chosen"}
+{"type":"page-type/temper-companion-skill"}

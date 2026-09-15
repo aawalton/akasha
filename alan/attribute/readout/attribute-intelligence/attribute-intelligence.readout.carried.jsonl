@@ -1,0 +1,12 @@
+{"attribute":"attribute/intelligence"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The reading is the points the intelligence attribute has for today."},{"decisionKind":"decision-kind/departure","statement":"The attribute is reached through the link this readout names."},{"decisionKind":"decision-kind/departure","statement":"An attribute with no points today is no reading rather than a zero."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out the points a day earned."},{"decisionKind":"decision-kind/absence","statement":"Nothing here caches a reading or decides when a reading is taken."},{"decisionKind":"decision-kind/absence","statement":"Nothing here turns points into a color."}]}
+{"definition":"the points Alan earned on a day for the learn-everything topics he updated"}
+{"groups":["readout-group/attributes"]}
+{"id":"01a06838-94d9-7c36-b921-4351c8db6033"}
+{"label":"INT"}
+{"place":5}
+{"scale":"readout-scale/attribute-points"}
+{"slug":"attribute-intelligence"}
+{"type":"page-type/readout"}
+{"unit":"points"}
+{"wireKey":"intelligence"}

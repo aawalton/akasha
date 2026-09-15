@@ -1,0 +1,7 @@
+{"description":"Reduces damage taken by 5%"}
+{"effects":"jsonl"}
+{"id":"01a05fc5-f6c0-7cfc-ba1e-6bceb462b6b8"}
+{"key":"minor-protection"}
+{"slug":"minor-protection"}
+{"title":"Minor Protection"}
+{"type":"page-type/temper-buff-minor"}

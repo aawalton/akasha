@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A phrase is put on the holder rather than into a game string id."},{"decisionKind":"decision-kind/gap","statement":"English is the only language carried."}]}
+{"definition":"every phrase the housing window shows"}
+{"id":"01a06128-d5d5-7969-b568-4feea14f801b"}
+{"slug":"housing-ui-strings"}
+{"type":"page-type/module"}

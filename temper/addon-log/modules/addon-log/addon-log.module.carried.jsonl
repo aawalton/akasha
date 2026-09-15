@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An info line goes to the chat window where no log viewer is loaded."},{"decisionKind":"decision-kind/departure","statement":"A line other than info is written only while logging is on."},{"decisionKind":"decision-kind/departure","statement":"An info line is written whether logging is on or off."},{"decisionKind":"decision-kind/departure","statement":"A table already written out is named rather than written out again."},{"decisionKind":"decision-kind/departure","statement":"A first value holding a placeholder takes the values after it as its fillings."},{"decisionKind":"decision-kind/departure","statement":"Whether a log viewer is loaded is read once, as an add-on's log is made."},{"decisionKind":"decision-kind/absence","statement":"A log viewer loading after that read is not seen."}]}
+{"definition":"the log line written for each value an add-on hands over"}
+{"id":"01a08e26-c147-7c8e-baea-f2cad9ded7c8"}
+{"slug":"addon-log"}
+{"type":"page-type/module"}

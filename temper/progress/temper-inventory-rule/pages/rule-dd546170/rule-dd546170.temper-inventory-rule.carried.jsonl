@@ -1,0 +1,13 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/destroy"}
+{"active":true}
+{"categoryId":"style-pages"}
+{"conditions":"jsonl"}
+{"description":"Destroys style pages already learned (canUnlock=cannot-unlock) with guild-store value < 5000g and no merchant sell value (merchantValue 0). Pairs with the >=5000g list rule to close the 1000-5000g gap: learned + below-list-threshold + unsellable -> destroy. Destroy is default-confirmed via the safety dialog."}
+{"displayOrder":28}
+{"goal":"temper-rule-goal/destroy"}
+{"id":"01a0728b-2e7c-7157-b63e-c4943089e6b1"}
+{"slug":"rule-dd546170"}
+{"title":"Destroy learned style pages below the 5000g list line"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-06-02T20:49:28.795Z"}

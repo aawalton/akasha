@@ -1,0 +1,6 @@
+{"filing":"archive"}
+{"id":"01a06860-54a2-79d8-97f8-7bdf524cc9b8"}
+{"matches":[{"field":"from","comparison":"is","values":["noreply-location-sharing@google.com"]},{"field":"subject","comparison":"does-not-contain","values":["oak.hills.first.ward.tech"]}]}
+{"slug":"google-location-sharing"}
+{"title":"Google location sharing"}
+{"type":"page-type/email-rule-code"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The OAuth2 handed in is the type the client comes back as."},{"decisionKind":"decision-kind/absence","statement":"No `@googleapis` package is reached from here."},{"decisionKind":"decision-kind/departure","statement":"The refresh token is set on the client before the client is handed back."}]}
+{"definition":"the Google OAuth client built out of the OAuth2 the caller hands in"}
+{"id":"01a06d16-f135-7230-acd8-d3d66ea08433"}
+{"slug":"oauth-client"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"definition":"how long a unit waits before it is started again"}
+{"id":"01a05a3f-b42e-71bb-aaae-77ddc02c8745"}
+{"max":null}
+{"propertySlug":"restart-delay-seconds"}
+{"slug":"restart-delay-seconds"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

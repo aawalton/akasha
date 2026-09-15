@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The walk is read back as the addon recorded that walk rather than run again on this side."},{"decisionKind":"decision-kind/departure","statement":"The trace is ruled on whole."},{"decisionKind":"decision-kind/departure","statement":"An unknown field refuses the read."}]}
+{"definition":"the last rule walk the inventory addon recorded in the game, read back for replay"}
+{"id":"01a06864-aa2b-7005-8de7-99cdead2fd47"}
+{"slug":"explain-replay-reading"}
+{"type":"page-type/module"}

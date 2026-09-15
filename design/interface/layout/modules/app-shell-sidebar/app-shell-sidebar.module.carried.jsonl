@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A nav link is dressed here rather than by each column that draws one."},{"decisionKind":"decision-kind/departure","statement":"A collapsed column draws a nav link centred and without its padding."}]}
+{"definition":"the nav column a wide browser draws down the left of the frame"}
+{"id":"01a05b82-8b98-7341-a3de-18953237e37f"}
+{"slug":"app-shell-sidebar"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"definition":"where a rule moving an item puts the item"}
+{"id":"01a05fd0-3aa5-7412-834a-6f12550992d0"}
+{"maxLength":50}
+{"nameFormat":null}
+{"propertySlug":"destination"}
+{"slug":"destination"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

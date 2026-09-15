@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A row's position is read off the list rather than kept on the row."},{"decisionKind":"decision-kind/departure","statement":"Reordering the rows rewrites the caller's entry list in place."}]}
+{"definition":"the methods filling, refreshing and reordering the rows of the list"}
+{"id":"01a06207-bdf5-7038-be7e-efe5d5472cf1"}
+{"slug":"order-list-box-list-methods"}
+{"type":"page-type/module"}

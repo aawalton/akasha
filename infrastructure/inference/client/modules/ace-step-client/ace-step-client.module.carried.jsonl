@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A song is asked for once and then polled for until that song is done."},{"decisionKind":"decision-kind/departure","statement":"The seed is always told."},{"decisionKind":"decision-kind/departure","statement":"The service draws no seed of its own."},{"decisionKind":"decision-kind/departure","statement":"One song is asked for at a time."},{"decisionKind":"decision-kind/departure","statement":"A task the poll does not yet name reads as still running."},{"decisionKind":"decision-kind/departure","statement":"A task that succeeded with no result payload is at fault rather than empty."},{"decisionKind":"decision-kind/departure","statement":"The bytes are the answer only where those bytes open `RIFF`."},{"decisionKind":"decision-kind/departure","statement":"The wav is written to disk here as well as answered with."}]}
+{"definition":"a song asked of the ACE-Step service and the wav that service made"}
+{"id":"01a0682d-8ef5-7006-9c39-daea2ba9c6dd"}
+{"slug":"ace-step-client"}
+{"type":"page-type/module"}

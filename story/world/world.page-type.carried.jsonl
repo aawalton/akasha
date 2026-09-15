@@ -1,0 +1,11 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A world states a reading property only where the world has rows under that property."},{"decisionKind":"decision-kind/departure","statement":"A reading says the thing one name in the text reaches rather than the nature of that thing."},{"decisionKind":"decision-kind/departure","statement":"The words a world has are the story's rather than akasha's own."},{"decisionKind":"decision-kind/gap","statement":"Every story names the world the story is of."}]}
+{"definition":"a made-up somewhere"}
+{"extends":["page-type/page"]}
+{"id":"01a063ce-6216-7000-8f40-f471a7c21987"}
+{"parts":["page-property-entry/character-readings","page-property-entry/mechanic-readings","select-property/reading-kind","text-property/character-slug","text-property/mechanic-slug","text-property/reading-name","text-property/reading-slug"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"page-property-entry/character-readings","required":false,"many":false},{"pageProperty":"page-property-entry/mechanic-readings","required":false,"many":false}]}
+{"runsTabooCheck":false}
+{"schema":"jsonl"}
+{"slug":"world"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

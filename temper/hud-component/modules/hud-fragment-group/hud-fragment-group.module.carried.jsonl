@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every part here belongs to all three HUD scenes."},{"decisionKind":"decision-kind/departure","statement":"A part here is hidden through the fragment group."}]}
+{"definition":"the HUD parts the game's own fragment group holds"}
+{"id":"01a060a4-fa3a-751e-a08d-fa06474540f8"}
+{"slug":"hud-fragment-group"}
+{"type":"page-type/module"}

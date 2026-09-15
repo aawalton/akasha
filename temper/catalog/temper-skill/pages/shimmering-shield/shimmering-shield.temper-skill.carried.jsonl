@@ -1,0 +1,17 @@
+{"baseName":"Crystallized Shield"}
+{"description":"\"Spin a shield of ice around you, absorbing up to 16527 damage from 3 projectiles. \\n\\nEach time you absorb a projectile you gain 2 Ultimate and gain Major Heroism for 6 seconds, granting you 3 Ultimate every 1.5 seconds.\""}
+{"esoSkillId":86146}
+{"icon":"/esoui/art/icons/ability_warden_002_b.dds"}
+{"id":"019e6245-a730-7287-98cb-a716d5caefc2"}
+{"isMorph":true}
+{"key":"shimmering-shield"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"warden-winters-embrace"}
+{"skillType":"active"}
+{"slug":"shimmering-shield"}
+{"subcategoryId":"warden-winters-embrace"}
+{"title":"Shimmering Shield"}
+{"type":"page-type/temper-skill"}

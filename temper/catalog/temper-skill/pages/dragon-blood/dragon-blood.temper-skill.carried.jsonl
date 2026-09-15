@@ -1,0 +1,17 @@
+{"baseName":"Dragon Blood"}
+{"description":"\"Draw on your draconic blood to heal for |cffffff5193|r Health, increasing by up to |cffffff50|r% additional healing based on your missing Health. This ability scales off your Max Health.\\n\\nYou also gain Major Fortitude, increasing your Health Recovery by |cffffff30|r% for |cffffff20|r seconds.\""}
+{"esoSkillId":29004}
+{"icon":"/esoui/art/icons/ability_dragonknight_011.dds"}
+{"id":"019e6f53-a0e3-7953-a703-8e9c195100a7"}
+{"isMorph":false}
+{"key":"dragon-blood"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":0}
+{"rank":20}
+{"skillLineId":"dragonknight-draconic-power"}
+{"skillType":"active"}
+{"slug":"dragon-blood"}
+{"subcategoryId":"dragonknight-draconic-power"}
+{"title":"Dragon Blood"}
+{"type":"page-type/temper-skill"}

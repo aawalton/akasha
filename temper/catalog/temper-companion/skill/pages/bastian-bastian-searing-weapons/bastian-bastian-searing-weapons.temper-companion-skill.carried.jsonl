@@ -1,0 +1,13 @@
+{"abilityId":155355}
+{"companionId":"bastian"}
+{"description":"Your Companion charges their weapons and their allies' weapons with volcanic power, increasing their damage done with Light and Heavy Attacks by 15% for $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_dragonknight_015.dds"}
+{"id":"019e6484-3853-76d3-9ddd-c5d20b8300d2"}
+{"key":"bastian-searing-weapons"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-bastian-radiating-heart"}
+{"skillType":"active"}
+{"slug":"bastian-bastian-searing-weapons"}
+{"title":"Searing Weapons"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps","support"]}

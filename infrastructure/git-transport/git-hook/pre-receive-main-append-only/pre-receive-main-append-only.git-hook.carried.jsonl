@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"main may be created."},{"decisionKind":"decision-kind/departure","statement":"A restore pushes into an empty repository."},{"decisionKind":"decision-kind/departure","statement":"main may only fast-forward."},{"decisionKind":"decision-kind/departure","statement":"main is never deleted."},{"decisionKind":"decision-kind/departure","statement":"Every other ref is unconstrained."},{"decisionKind":"decision-kind/departure","statement":"This hook is the last point a rewind can be refused before the mirror copies that rewind."},{"decisionKind":"decision-kind/absence","statement":"No branch is named or numbered here."}]}
+{"definition":"a push to main refused unless main only goes forward"}
+{"id":"01a06816-2f11-729c-b258-50cbded51bb9"}
+{"shell":"sh"}
+{"slug":"pre-receive-main-append-only"}
+{"sourced":false}
+{"type":"page-type/git-hook"}

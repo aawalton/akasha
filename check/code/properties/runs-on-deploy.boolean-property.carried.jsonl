@@ -1,0 +1,6 @@
+{"definition":"whether a check judges a set of changes at deploy"}
+{"id":"01a04e26-4527-7678-b006-a173a188ea5d"}
+{"propertySlug":"runs-on-deploy"}
+{"slug":"runs-on-deploy"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An anchor is matched by the persona alone."},{"decisionKind":"decision-kind/departure","statement":"A persona has one anchor."}]}
+{"definition":"the picture every other picture of a persona is drawn to match"}
+{"extends":["page-type/persona-image"]}
+{"id":"01a0655b-4a9b-700a-b7af-04be2a9c0df4"}
+{"parts":["rank-property/grade"]}
+{"properties":[{"pageProperty":"rank-property/grade","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"persona-anchor-image"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

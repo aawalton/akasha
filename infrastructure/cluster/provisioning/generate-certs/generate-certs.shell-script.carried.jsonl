@@ -1,0 +1,7 @@
+{"definition":"the cluster authority and the PgBouncer certificate it signs, remade where stale"}
+{"id":"01a0685d-ab5c-76ef-a6d6-06853d055569"}
+{"scripting":{}}
+{"shell":"sh"}
+{"slug":"generate-certs"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

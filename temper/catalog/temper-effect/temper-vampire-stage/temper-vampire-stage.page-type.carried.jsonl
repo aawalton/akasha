@@ -1,0 +1,9 @@
+{"definition":"how far a character's vampirism has run"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fc5-94d2-7de5-8850-22656966472e"}
+{"parts":["number-property/eso-vampire-stage-id"]}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"text-property/description","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false},{"pageProperty":"number-property/eso-vampire-stage-id","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-vampire-stage"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

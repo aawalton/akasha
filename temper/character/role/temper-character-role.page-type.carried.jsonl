@@ -1,0 +1,7 @@
+{"definition":"the part a character plays in a group"}
+{"extends":["page-type/temper-character-thing"]}
+{"id":"01a05fcd-f547-7e5d-aa6c-38b9f3d06600"}
+{"schema":"jsonl"}
+{"slug":"temper-character-role"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

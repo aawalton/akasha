@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The loads are in the order the loads are climbed from lightest to heaviest."},{"decisionKind":"decision-kind/departure","statement":"A piece whose load is not chosen in steps names no load."},{"decisionKind":"decision-kind/departure","statement":"A load is the weight one side carries rather than the weight the pair has."}]}
+{"definition":"the weights a piece of kit is available at, in pounds"}
+{"id":"01a06865-7f45-7d1f-b0db-1e4af78cdf9c"}
+{"max":null}
+{"propertySlug":"loads"}
+{"slug":"fitness-equipment-loads"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

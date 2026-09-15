@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page gathers pages of one page type."},{"decisionKind":"decision-kind/departure","statement":"The gathered page names the page gathering that gathered page rather than the other way about."},{"decisionKind":"decision-kind/stopgap","statement":"Each key here repeats this record's name."},{"decisionKind":"decision-kind/stopgap","statement":"The reader outside names that key so."}]}
+{"definition":"the pages a page gathers, and the key by which each names the page gathering it"}
+{"id":"01a0683a-620a-7821-a81d-95fedabac32d"}
+{"properties":[{"pageProperty":"relation-property/child-type","required":true,"many":false},{"pageProperty":"text-property/child-relation","required":true,"many":false}]}
+{"propertySlug":"child-collection"}
+{"slug":"child-collection"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

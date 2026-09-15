@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The window is built once and kept for as long as the game runs."}]}
+{"definition":"the scene and menu bar the window is built from the first time the window is shown"}
+{"id":"01a0617d-5454-7cab-9709-1e96bec082bc"}
+{"slug":"journal-window"}
+{"type":"page-type/module"}

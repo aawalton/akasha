@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The sets are named here in the order the gathered table answers its ids in."},{"decisionKind":"decision-kind/gap","statement":"A set moved to another place breaks every build hash saved."}]}
+{"definition":"part 099 of the gear set table, swamp-raider through symphony-of-blades"}
+{"id":"01a061a3-9828-737e-ba3e-a85b4085ec39"}
+{"slug":"sets-data-099"}
+{"type":"page-type/module"}

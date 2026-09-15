@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The image is named as the cluster's own registry hands the image out."},{"decisionKind":"decision-kind/departure","statement":"A workload running more than one container states the image of the container the workload is for."}]}
+{"definition":"the container image a workload's pods run"}
+{"id":"01a05b26-f8b6-73e6-aedb-75b88fac6b4b"}
+{"maxLength":253}
+{"nameFormat":null}
+{"propertySlug":"image"}
+{"slug":"image"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

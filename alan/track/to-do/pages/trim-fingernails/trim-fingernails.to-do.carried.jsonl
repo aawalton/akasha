@@ -1,0 +1,12 @@
+{"difficulty":"light"}
+{"id":"019db533-f381-7a47-8724-3eee911fd0d8"}
+{"slug":"trim-fingernails"}
+{"title":"Trim Fingernails"}
+{"toDoCategory":"health"}
+{"toDoDueDate":"2026-09-15"}
+{"toDoLastCompletedAt":"2026-09-07T12:01:25.719Z"}
+{"toDoPriority":"p3"}
+{"toDoRecurrence":"FREQ=MONTHLY;BYDAY=2MO,4MO"}
+{"toDoSortOrder":50}
+{"toDoValue":"value/health"}
+{"type":"page-type/to-do"}

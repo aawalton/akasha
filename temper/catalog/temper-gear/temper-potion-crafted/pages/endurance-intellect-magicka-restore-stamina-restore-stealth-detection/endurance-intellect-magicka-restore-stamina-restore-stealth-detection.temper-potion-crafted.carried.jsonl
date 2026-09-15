@@ -1,0 +1,11 @@
+{"description":"Grants Restore Stamina, Detection, Restore Magicka."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_002_type_005.dds"}
+{"id":"019e21f6-4061-7081-85cb-4af7a4129705"}
+{"key":"endurance-intellect-magicka-restore-stamina-restore-stealth-detection"}
+{"level":"CP150"}
+{"reagents":[{"names":["Chaurus Egg","Columbine","Corn Flower"]}]}
+{"seconds":47}
+{"slug":"endurance-intellect-magicka-restore-stamina-restore-stealth-detection"}
+{"title":"Essence of Magicka"}
+{"type":"page-type/temper-potion-crafted"}

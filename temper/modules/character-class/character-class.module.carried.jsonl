@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A class's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A class moved to another place breaks every build hash saved."}]}
+{"definition":"every character class the game offers, with its icon and its game id"}
+{"id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
+{"slug":"character-class"}
+{"type":"page-type/module"}

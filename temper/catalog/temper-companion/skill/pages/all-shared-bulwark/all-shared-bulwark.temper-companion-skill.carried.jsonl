@@ -1,0 +1,13 @@
+{"abilityId":156599}
+{"castConditions":"jsonl"}
+{"companionId":"all"}
+{"description":"Your Companion becomes an unstoppable defender, blocking and reflecting all attacks for $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_armor_heavy.dds"}
+{"id":"019e6484-3825-7700-83fd-b1b8fc5895da"}
+{"key":"shared-bulwark"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"armor-heavy"}
+{"skillType":"active"}
+{"slug":"all-shared-bulwark"}
+{"title":"Bulwark"}
+{"type":"page-type/temper-companion-skill"}

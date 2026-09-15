@@ -1,0 +1,8 @@
+{"displayOrder":5}
+{"id":"019e2fcd-5989-71ba-a268-2f6e9d130e5f"}
+{"nodeId":"damage-done-magic"}
+{"nodeType":"metric"}
+{"parent":"subcategory-damage-done-by-type"}
+{"slug":"metric-damage-done-magic"}
+{"title":"Damage Done Magic"}
+{"type":"page-type/temper-metric-tree"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The trained model knows each piece by a number."},{"decisionKind":"decision-kind/departure","statement":"The pieces are kept outside the commit."}]}
+{"definition":"the pieces a word is encoded against"}
+{"extensions":["json"]}
+{"generated":true}
+{"id":"01a06d3b-743f-7c80-b8f3-a929faae24ed"}
+{"propertySlug":"word-pieces"}
+{"slug":"word-pieces"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

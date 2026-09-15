@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A character already with the target count takes no part of the stack."},{"decisionKind":"decision-kind/departure","statement":"The surplus cascades down the tiers in the order the chain gives."}]}
+{"definition":"where a stack of stocked items goes across characters and down a chain of destinations"}
+{"id":"01a06100-3bfe-70d5-a0ce-6f5cbaf8b7d9"}
+{"slug":"stock-destination-planner"}
+{"type":"page-type/module"}

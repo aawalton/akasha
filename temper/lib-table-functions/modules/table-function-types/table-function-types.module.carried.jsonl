@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every helper is called as a method."},{"decisionKind":"decision-kind/departure","statement":"The self a helper takes is the library."},{"decisionKind":"decision-kind/departure","statement":"The library states a version number."}]}
+{"definition":"the shape of the table helpers the game global carries"}
+{"id":"01a06052-2ca5-7438-a4c4-749daaf6f554"}
+{"slug":"table-function-types"}
+{"type":"page-type/module"}

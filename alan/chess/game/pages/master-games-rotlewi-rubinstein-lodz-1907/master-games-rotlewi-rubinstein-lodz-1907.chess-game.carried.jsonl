@@ -1,0 +1,20 @@
+{"black":"Akiba Rubinstein"}
+{"externalId":"master-games_rotlewi-rubinstein-lodz-1907"}
+{"handle":"master-games"}
+{"id":"019f1e68-9792-7c65-a667-d27df9d2f1f9"}
+{"openingEco":"D40"}
+{"openingName":"Queen's Gambit Declined, Semi-Tarrasch Defense"}
+{"pgn":"pgn"}
+{"playedAt":"1907-12-26T00:00:00.000Z"}
+{"ply":50}
+{"rated":false}
+{"result":"0-1"}
+{"slug":"master-games-rotlewi-rubinstein-lodz-1907"}
+{"source":"master-games"}
+{"sourceGameId":"rotlewi-rubinstein-lodz-1907"}
+{"speed":"classical"}
+{"title":"Georg Rotlewi vs Akiba Rubinstein · classical · 1907-12-26"}
+{"type":"page-type/chess-game"}
+{"variant":"standard"}
+{"white":"Georg Rotlewi"}
+{"winner":"black"}

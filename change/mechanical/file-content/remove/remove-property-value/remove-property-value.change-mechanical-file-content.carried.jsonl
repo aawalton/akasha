@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-remove"}
+{"changeTargetSubtype":"change-target-subtype/file-content-page-property-value"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The module taking a value away is called rather than reached through a rung."},{"decisionKind":"decision-kind/departure","statement":"A property with many values keeps its key when the last value goes."},{"decisionKind":"decision-kind/departure","statement":"A property with one value goes with that value."},{"decisionKind":"decision-kind/departure","statement":"Whether a property is required is read from the page type the page is."},{"decisionKind":"decision-kind/departure","statement":"A required property is refused rather than taken away."},{"decisionKind":"decision-kind/departure","statement":"Taking a required property away is a retype."},{"decisionKind":"decision-kind/departure","statement":"A property that could not be read as required or not is refused."},{"decisionKind":"decision-kind/departure","statement":"A value the property does not have is refused rather than taken away."},{"decisionKind":"decision-kind/departure","statement":"The body is answered rather than written."},{"decisionKind":"decision-kind/departure","statement":"The passage answered is the lines the value is taken out of rather than the body."},{"decisionKind":"decision-kind/absence","statement":"The only text written here is the empty string."},{"decisionKind":"decision-kind/absence","statement":"No page is taken away here."}]}
+{"definition":"one value taken out of one page property in a page's body"}
+{"id":"01a07758-01be-7649-a91a-f8952f0b468e"}
+{"slug":"remove-property-value"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical-file-content"}

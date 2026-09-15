@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The name a program is built under is the name the built bundle is named for."}]}
+{"definition":"the name Xcode builds a program under"}
+{"id":"01a059c0-5610-793f-b79a-cb8f78cf963e"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"target-name"}
+{"slug":"target-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}
+{"unique":"unique-kind/page-type"}

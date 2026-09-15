@@ -1,0 +1,17 @@
+{"baseName":"Whirlwind"}
+{"description":"\"Launch yourself into a lethal spin, dealing |cffffff6400|r Physical Damage to nearby enemies. Deals up to |cffffff33|r% more damage to enemies with less than |cffffff50|r% Health.\""}
+{"esoSkillId":28591}
+{"icon":"/esoui/art/icons/ability_dualwield_005.dds"}
+{"id":"019e6f53-a9ed-790d-a689-427d7fea4001"}
+{"isMorph":false}
+{"key":"whirlwind"}
+{"learnedLevel":1}
+{"lineRankNeeded":14}
+{"morphIndex":0}
+{"rank":14}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"whirlwind"}
+{"subcategoryId":"weapon-dual-wield"}
+{"title":"Whirlwind"}
+{"type":"page-type/temper-skill"}

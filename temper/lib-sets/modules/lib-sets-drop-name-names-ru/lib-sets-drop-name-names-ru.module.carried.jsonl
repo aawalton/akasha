@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name absent here is taken from the English table."}]}
+{"definition":"the Russian name of each way a gear set drops"}
+{"id":"01a061d6-3e2b-7bbe-ae58-63f588a6807a"}
+{"slug":"lib-sets-drop-name-names-ru"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat with no agent id spawns with no authored prompt."},{"decisionKind":"decision-kind/departure","statement":"A composing that throws is caught and the seat spawns without a prompt."},{"decisionKind":"decision-kind/departure","statement":"A composition that came back empty spawns with no authored prompt."},{"decisionKind":"decision-kind/departure","statement":"A prompt is renamed into place so no half-written file is ever handed over."}]}
+{"definition":"the authored prompt a spawning seat is handed"}
+{"id":"01a0683e-3dbe-700c-846f-2de44a594e21"}
+{"slug":"supervisor-boot-prompt"}
+{"type":"page-type/module"}

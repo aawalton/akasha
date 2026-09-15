@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the batch of location traces a device sends in"}
+{"id":"01a0883c-14d1-7a1c-a698-90f866ce6b06"}
+{"slug":"atlas-api-locations-ingest"}
+{"type":"page-type/route"}
+{"urlPath":"api/locations/ingest"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An account stating a subscription disabled reason is passed over by every pass that renews a token."},{"decisionKind":"decision-kind/departure","statement":"The account is usable again once this reason is taken away."}]}
+{"definition":"what stopped the account's subscription being usable"}
+{"id":"01a054d8-1d39-7c38-bbf0-00a17589572e"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"subscription-disabled-reason"}
+{"slug":"subscription-disabled-reason"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,12 @@
+{"containerPort":8333}
+{"definition":"what serves the stored files over the S3 interface"}
+{"id":"01a06816-68b2-74df-a01e-80d84ed05948"}
+{"image":"chrislusf/seaweedfs:3.73"}
+{"manifest":["manifest/seaweedfs-s3-gateway"]}
+{"namespace":"seaweedfs"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"s3-gateway"}
+{"secrets":["secret/seaweedfs-creds-s3-config"]}
+{"slug":"seaweedfs-s3-gateway"}
+{"type":"page-type/service-cluster"}

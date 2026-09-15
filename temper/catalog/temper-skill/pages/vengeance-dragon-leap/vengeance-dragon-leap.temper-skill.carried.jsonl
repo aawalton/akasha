@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Dragon Leap"}
+{"description":"\"Launch yourself at an enemy, dealing |cffffff20285|r Physical Damage to up to 3 enemies in the area.\""}
+{"esoSkillId":237648}
+{"icon":"/esoui/art/icons/ability_dragonknight_009.dds"}
+{"id":"019e6f53-a8f2-7e32-a85e-8e434514fa75"}
+{"isMorph":false}
+{"key":"vengeance-dragon-leap"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-dragonknight-draconic-power"}
+{"skillType":"ultimate"}
+{"slug":"vengeance-dragon-leap"}
+{"subcategoryId":"vengeance-dragonknight-draconic-power"}
+{"title":"Vengeance Dragon Leap"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value is carried as the sync read that value rather than rounded to the cent."}]}
+{"definition":"what the shares an account holds are worth in dollars"}
+{"id":"01a0680a-1a00-7015-9c68-3f8a1d4e1115"}
+{"max":null}
+{"propertySlug":"holding-value"}
+{"slug":"holding-value"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

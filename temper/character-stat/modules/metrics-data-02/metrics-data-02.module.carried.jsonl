@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The stats are named here in the order the gathered table answers its ids in."}]}
+{"definition":"character stats break-free-cost through damage-done-disease"}
+{"id":"01a06131-abb0-7969-b531-c138a9e6ad26"}
+{"slug":"metrics-data-02"}
+{"type":"page-type/module"}

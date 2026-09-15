@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"Each lookup this module offers is independent of every other lookup."}]}
+{"definition":"a set's wayshrines, its zones, the DLC it arrived with and the type it is"}
+{"id":"01a06231-8f1c-7200-9fb9-2df4b2450fce"}
+{"slug":"lib-sets-core-api-wayshrine-dlc-settype"}
+{"type":"page-type/module"}

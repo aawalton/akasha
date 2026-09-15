@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One list has every piece a set is made in."},{"decisionKind":"decision-kind/departure","statement":"A star covers every piece the game offers."}]}
+{"definition":"the pieces a set is made in"}
+{"id":"01a05fd1-d43f-7be1-a074-25f62cd6a7ee"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"valid"}
+{"slug":"valid-pieces"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,17 @@
+{"baseName":"The Imperfect Ring"}
+{"description":"\"Summon a flawed rune under an enemy that etches foes nearby with scrawled glyphs, dealing |cffffff15224|r Magic Damage over |cffffff20|r seconds.\\n\\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff9914|r Frost Damage to enemies within 7 meters.\""}
+{"esoSkillId":185836}
+{"icon":"/esoui/art/icons/ability_arcanist_004.dds"}
+{"id":"019e6f53-a82e-7530-bcd8-29aae940128d"}
+{"isMorph":false}
+{"key":"the-imperfect-ring"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":0}
+{"rank":42}
+{"skillLineId":"arcanist-herald-of-the-tome"}
+{"skillType":"active"}
+{"slug":"the-imperfect-ring"}
+{"subcategoryId":"arcanist-herald-of-the-tome"}
+{"title":"The Imperfect Ring"}
+{"type":"page-type/temper-skill"}

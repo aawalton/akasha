@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/calendar"},{"argument":"argument/window-from"},{"argument":"argument/window-to"},{"argument":"argument/event-query"},{"argument":"argument/max"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The events this answers with are reported as JSON."},{"decisionKind":"decision-kind/departure","statement":"A call naming no calendar acts on Alan's own."},{"decisionKind":"decision-kind/departure","statement":"This reaches the calendar as the account akasha runs under."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a calendar the call does not name or Alan does not own."}]}
+{"definition":"the command answering the events a calendar holds in a window"}
+{"id":"01a08cf5-2233-7c51-b38b-a79082d4dc82"}
+{"name":"list"}
+{"slug":"google-calendar-event-list"}
+{"test":"ts"}
+{"type":"page-type/command"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Reading the numbered entries misses the named entry beside the numbered entries."}]}
+{"definition":"which motif book carries which style and chapter"}
+{"id":"01a0622b-dc56-709a-8da0-de660a3730f7"}
+{"slug":"knowledge-curated-motifs"}
+{"type":"page-type/module"}

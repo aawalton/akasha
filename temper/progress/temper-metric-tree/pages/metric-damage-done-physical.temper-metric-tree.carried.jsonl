@@ -1,0 +1,8 @@
+{"displayOrder":7}
+{"id":"019e2fcd-598b-7284-99f2-475a34550307"}
+{"nodeId":"damage-done-physical"}
+{"nodeType":"metric"}
+{"parent":"subcategory-damage-done-by-type"}
+{"slug":"metric-damage-done-physical"}
+{"title":"Damage Done Physical"}
+{"type":"page-type/temper-metric-tree"}

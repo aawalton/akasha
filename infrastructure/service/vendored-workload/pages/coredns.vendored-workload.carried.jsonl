@@ -1,0 +1,8 @@
+{"definition":"what answers DNS for names inside the cluster"}
+{"id":"01a068e5-527c-7655-8461-4f81d6b6c236"}
+{"namespace":"kube-system"}
+{"resourceKind":"Deployment"}
+{"resourceName":"coredns"}
+{"slug":"coredns"}
+{"title":"CoreDNS"}
+{"type":"page-type/vendored-workload"}

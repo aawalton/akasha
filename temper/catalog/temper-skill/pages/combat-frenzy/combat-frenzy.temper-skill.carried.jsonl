@@ -1,0 +1,19 @@
+{"baseName":"Combat Frenzy"}
+{"description":"\"You generate 20 Ultimate when you kill an enemy player.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45619}
+{"icon":"/esoui/art/icons/ability_weapon_023.dds"}
+{"id":"019e6251-4c9e-74cd-aec2-8170889b4fdb"}
+{"isMorph":false}
+{"key":"combat-frenzy"}
+{"learnedLevel":10}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"passive"}
+{"slug":"combat-frenzy"}
+{"status":"unsupported"}
+{"subcategoryId":"alliance-war-assault"}
+{"title":"Combat Frenzy"}
+{"type":"page-type/temper-skill"}

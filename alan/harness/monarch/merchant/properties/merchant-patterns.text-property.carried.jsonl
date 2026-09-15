@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A pattern is copied from the bank's line exactly including its abbreviations."},{"decisionKind":"decision-kind/departure","statement":"A pattern matches where the bank's line has that pattern anywhere."}]}
+{"definition":"a run of the bank's own words that names a merchant"}
+{"id":"01a0680c-3c00-700a-8e26-5b3d7f4a310b"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"merchant-patterns"}
+{"slug":"merchant-patterns"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

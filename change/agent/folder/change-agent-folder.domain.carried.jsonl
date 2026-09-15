@@ -1,0 +1,5 @@
+{"definition":"a change an agent reaches acting on a folder and everything under it"}
+{"id":"01a07cc2-5592-76c0-9945-aa8a44a111d0"}
+{"parts":["change-agent/move-folder","change-agent/nest-modules","change-agent/remove-folder"]}
+{"slug":"change-agent-folder"}
+{"type":"page-type/domain"}

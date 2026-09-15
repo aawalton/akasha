@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A chapter is counted here rather than named."}]}
+{"definition":"the number of the latest chapter a page draws on"}
+{"id":"01a0657a-9ccd-7629-800d-515631354a44"}
+{"max":null}
+{"propertySlug":"last-chapter"}
+{"slug":"last-chapter"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

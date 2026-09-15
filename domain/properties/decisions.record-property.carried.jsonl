@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One list has every decision."},{"decisionKind":"decision-kind/departure","statement":"An entry that is no decision kind is not a decision."},{"decisionKind":"decision-kind/departure","statement":"A decision states a truth rather than a reason."},{"decisionKind":"decision-kind/departure","statement":"A decision true of every page below a domain belongs to the domain."}]}
+{"definition":"what must be true of a page, each with the sort it is"}
+{"directives":[{"directiveKind":"directive-kind/rule","name":"Move When It Turns","act":"Move a decision to the property that fits, or delete it, as soon as its truth changes.","warrant":"Nothing re-reads a decision, so one filed where it no longer belongs misleads until tested.","aids":["Check the whole claim, not just the case you met.","Move it if still meant, delete it if not."]}]}
+{"id":"01a04e14-2276-7559-823a-c7ac8abf852e"}
+{"properties":[{"pageProperty":"relation-property/decision-kind","required":true,"many":false},{"pageProperty":"standard-agent-english-property/decision-statement","required":true,"many":false}]}
+{"propertySlug":"decisions"}
+{"slug":"decisions"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

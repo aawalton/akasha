@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The records here are one unbroken run of the table's order."},{"decisionKind":"decision-kind/departure","statement":"The run is the add-on's own source rather than a derivation."}]}
+{"definition":"one run of the destinations settings strings in French"}
+{"id":"01a06269-2a0f-7c14-bc67-03923def06d3"}
+{"slug":"destinations-lang-settings-fr-02"}
+{"type":"page-type/module"}

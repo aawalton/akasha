@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every stub environment lookup answers unknown until a test overrides the lookup."},{"decisionKind":"decision-kind/departure","statement":"A test context is built by spreading overrides over the stub environment."},{"decisionKind":"decision-kind/absence","statement":"The stub context has no claim map and no stock groups."}]}
+{"definition":"the stub environment the container condition tests are built from"}
+{"id":"01a06137-f963-75d4-b14c-bdaa8c6693a8"}
+{"slug":"check-container-fixtures"}
+{"type":"page-type/test-fixture"}

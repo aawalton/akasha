@@ -1,0 +1,6 @@
+{"definition":"whether a test holds only while the target is casting"}
+{"id":"01a06193-6cb0-7d39-8753-91afc46972af"}
+{"propertySlug":"is-casting"}
+{"slug":"is-casting"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

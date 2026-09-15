@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This table was written out from the location type pages rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"The order of this table is the order a reading shows locations in."},{"decisionKind":"decision-kind/gap","statement":"A location type moved to another place reorders every inventory shown."}]}
+{"definition":"the kinds of place an inventory reading has items in"}
+{"id":"01a060d9-4989-7621-819f-d8c567133ec6"}
+{"slug":"location-type-data"}
+{"type":"page-type/module"}

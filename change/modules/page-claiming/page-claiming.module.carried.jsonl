@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The page's own file leads the files answered."},{"decisionKind":"decision-kind/departure","statement":"A path the page claims that has no body is left out."},{"decisionKind":"decision-kind/departure","statement":"A path is kept for holding a body rather than for holding text."},{"decisionKind":"decision-kind/departure","statement":"A path with a body that is not text is answered beside the page."},{"decisionKind":"decision-kind/departure","statement":"A path claimed twice is answered once."},{"decisionKind":"decision-kind/departure","statement":"The world is read rather than the disk."},{"decisionKind":"decision-kind/absence","statement":"Nothing here decides whether a page may be acted on."}]}
+{"definition":"the files a page claims, read through the world a change reads"}
+{"id":"01a078bd-ae49-7881-bdf5-084ad0327dbe"}
+{"slug":"page-claiming"}
+{"test":"ts"}
+{"type":"page-type/module"}

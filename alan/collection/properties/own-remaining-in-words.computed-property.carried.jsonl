@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"definition":"how much of the collection itself is left to work through, counted in words"}
+{"holds":"number"}
+{"id":"01a07231-dd65-7362-baa2-75438c15234d"}
+{"propertySlug":"own-remaining-in-words"}
+{"slug":"own-remaining-in-words"}
+{"type":"page-type/computed-property"}
+{"types":"ts"}

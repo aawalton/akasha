@@ -1,0 +1,8 @@
+{"definition":"the name a card is shown under before it is upgraded"}
+{"id":"01a06153-0ea9-7005-a9ba-ed8bf80d87f2"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"base-card-name"}
+{"slug":"base-card-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

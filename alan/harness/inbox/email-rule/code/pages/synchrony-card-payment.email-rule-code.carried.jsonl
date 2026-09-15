@@ -1,0 +1,7 @@
+{"filing":"archive"}
+{"forwardTo":"person/jenny"}
+{"id":"01a06860-54a2-71f9-9c21-085bc65204cf"}
+{"matches":[{"field":"from","comparison":"is","values":["customer.service@servicing.synchrony.com"]},{"field":"subject","comparison":"contains","values":["payment has processed","automatic payment"]}]}
+{"slug":"synchrony-card-payment"}
+{"title":"Synchrony card payment"}
+{"type":"page-type/email-rule-code"}

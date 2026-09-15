@@ -1,0 +1,17 @@
+{"baseName":"Connoisseur"}
+{"description":"\"Adds 20 minutes to the duration of any consumed drink.\""}
+{"esoSkillId":44615}
+{"icon":"/esoui/art/icons/ability_provisioner_005.dds"}
+{"id":"019e6224-cc91-7974-8f1c-615c1ec1cd20"}
+{"isMorph":false}
+{"key":"connoisseur"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-provisioning"}
+{"skillType":"passive"}
+{"slug":"connoisseur"}
+{"subcategoryId":"craft-provisioning"}
+{"title":"Connoisseur"}
+{"type":"page-type/temper-skill"}

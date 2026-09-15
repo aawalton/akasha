@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/inventory-path"},{"argument":"argument/characters-path"},{"argument":"argument/char","required":true},{"argument":"argument/traced-item-id","required":true,"saidAs":"word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The inputs are compared before the walks."},{"decisionKind":"decision-kind/departure","statement":"The character the trace was captured from is named on the call."},{"decisionKind":"decision-kind/departure","statement":"A stored trace for another item refuses the call."}]}
+{"definition":"the command ruling whether the addon's trace of an item matches a fresh evaluation"}
+{"id":"01a0603c-c1d6-73fa-8ab1-b6d5deb216e2"}
+{"name":"parity"}
+{"slug":"temper-inventory-parity"}
+{"test":"ts"}
+{"type":"page-type/command"}

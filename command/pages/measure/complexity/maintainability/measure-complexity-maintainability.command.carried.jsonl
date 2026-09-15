@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/file-path"},{"argument":"argument/top"},{"argument":"argument/threshold"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The index is the Visual Studio variant over volume, the cyclomatic sum and the source lines."},{"decisionKind":"decision-kind/departure","statement":"A blank line and a comment-only line are no source line."},{"decisionKind":"decision-kind/departure","statement":"A row is one file, and the rows are ordered by index, lowest first."},{"decisionKind":"decision-kind/departure","statement":"A cutoff keeps the rows whose index is at or under it."}]}
+{"definition":"the command saying the maintainability index of each file of a checkout's TypeScript"}
+{"id":"01a08ccd-ace4-705b-8318-42e706de96ae"}
+{"name":"maintainability"}
+{"slug":"measure-complexity-maintainability"}
+{"test":"ts"}
+{"type":"page-type/command"}

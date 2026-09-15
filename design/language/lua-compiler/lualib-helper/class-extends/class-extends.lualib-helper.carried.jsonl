@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the metatables tying a class to the class it descends from"}
+{"id":"01a08202-0fa9-7428-b852-01082e7e80e5"}
+{"luaExport":"__TS__ClassExtends"}
+{"slug":"class-extends"}
+{"type":"page-type/lualib-helper"}

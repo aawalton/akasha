@@ -1,0 +1,8 @@
+{"description":"The Penjwin district along the Iraq-Iran border contains minefields laid during the 1980–1988 war. Clearance teams work in terrain ranging from river valleys to mountain passes above 2,000 metres."}
+{"id":"019dbb6d-c919-707c-b32e-85fc229bfd48"}
+{"metric":"team_cells_cleared"}
+{"scope":"team"}
+{"slug":"penjwin"}
+{"threshold":5000000}
+{"title":"Penjwin"}
+{"type":"page-type/ctw-achievement"}

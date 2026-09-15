@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The pledge tracker is optional and its absence is not an error."}]}
+{"definition":"the undaunted pledge dungeons set for today"}
+{"id":"01a06274-b08a-740f-a9ca-6ce4d4c10ef1"}
+{"slug":"leads-undaunted"}
+{"type":"page-type/module"}

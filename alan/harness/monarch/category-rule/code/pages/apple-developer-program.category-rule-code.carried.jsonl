@@ -1,0 +1,7 @@
+{"category":"monarch-category/alans-spending"}
+{"id":"01a0655b-fccf-7008-ab16-645cc6b24302"}
+{"matches":[{"key":"merchant","comparison":"is","values":["apple"]},{"key":"amount","comparison":"is","values":["-106.36"]}]}
+{"ruleNote":"Apple Developer Program annual membership"}
+{"slug":"apple-developer-program"}
+{"title":"Apple developer program"}
+{"type":"page-type/category-rule-code"}

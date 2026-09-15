@@ -1,0 +1,8 @@
+{"definition":"the constant The Elder Scrolls Online names a trait by in its own code"}
+{"id":"01a05fb0-3cec-795c-95ad-9ceda7a30724"}
+{"maxLength":200}
+{"nameFormat":"name-format/upper-snake-case"}
+{"propertySlug":"eso-trait-constant-name"}
+{"slug":"eso-trait-constant-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

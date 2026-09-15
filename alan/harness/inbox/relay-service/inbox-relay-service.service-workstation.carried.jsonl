@@ -1,0 +1,7 @@
+{"definition":"the service carrying the inbox counts to the site that shows them"}
+{"enabled":true}
+{"id":"01a06230-b156-7667-b81e-d7a74183ae8d"}
+{"needsSecrets":true}
+{"slug":"inbox-relay-service"}
+{"systemd":{"schedule":"*:2/5","jitterSeconds":30,"startTimeoutSeconds":60,"catchUp":false}}
+{"type":"page-type/service-workstation"}

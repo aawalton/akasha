@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a grimoire."}]}
+{"definition":"the grimoire a scribed skill is scribed from"}
+{"id":"01a05fca-cb83-73a3-afc2-bf571210f393"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"grimoire-id"}
+{"slug":"grimoire-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This file has a single import and declares nothing."}]}
+{"definition":"one import that runs the drop mechanic name install"}
+{"id":"01a061d6-3e2d-7671-9e8a-4f33f962730b"}
+{"slug":"lib-sets-drop-name-dropmechanic-names-index"}
+{"type":"page-type/module"}

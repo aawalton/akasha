@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Siphoning Strikes"}
+{"description":"\"Channel a portion of your soul to convert Health to |cffffff2000|r Magicka and Stamina.\""}
+{"esoSkillId":237716}
+{"icon":"/esoui/art/icons/ability_nightblade_003.dds"}
+{"id":"019e6f53-a986-7591-8271-a13331ba287a"}
+{"isMorph":false}
+{"key":"vengeance-siphoning-strikes"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-nightblade-siphoning"}
+{"skillType":"active"}
+{"slug":"vengeance-siphoning-strikes"}
+{"subcategoryId":"vengeance-nightblade-siphoning"}
+{"title":"Vengeance Siphoning Strikes"}
+{"type":"page-type/temper-skill"}

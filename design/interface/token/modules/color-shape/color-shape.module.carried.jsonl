@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The shape every color in this package is written in is declared here."}]}
+{"definition":"the shape a color is written in, and the reading of a hex into it"}
+{"id":"01a05c97-5300-76a3-aa25-55af6fe31b6d"}
+{"slug":"color-shape"}
+{"type":"page-type/module"}

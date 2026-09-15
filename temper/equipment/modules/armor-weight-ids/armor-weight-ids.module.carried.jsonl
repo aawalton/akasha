@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This module names the armor weights without naming any order among the armor weights."}]}
+{"definition":"the weight classes a piece of body armor or a shield is made in"}
+{"id":"01a060f0-3eac-71f4-ab24-ac7b5ad15139"}
+{"slug":"armor-weight-ids"}
+{"type":"page-type/module"}

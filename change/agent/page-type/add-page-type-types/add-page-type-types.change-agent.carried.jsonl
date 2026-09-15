@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-checked"}
+{"changeMode":"change-mode/change-mode-add"}
+{"changeTargetSubtype":"change-target-subtype/page-type-page"}
+{"changeTargetType":"change-target-type/page-type"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The page type's own file is the one argument."},{"decisionKind":"decision-kind/departure","statement":"That file is handed to the mechanical change turning a page type over."},{"decisionKind":"decision-kind/departure","statement":"The key naming the file and the move of the type are that change's one answer."},{"decisionKind":"decision-kind/departure","statement":"A refusal from that change is the refusal this act gives."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the index."},{"decisionKind":"decision-kind/absence","statement":"No change but that one rung is reached."}]}
+{"definition":"one page type turned over to the code that writes its type"}
+{"id":"01a08841-685b-7549-a8a6-d9a63c78b069"}
+{"maxCpuSeconds":120}
+{"maxMemoryMb":3072}
+{"slug":"add-page-type-types"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

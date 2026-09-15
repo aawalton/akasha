@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A blank character of a value is weighed like every other character."},{"decisionKind":"decision-kind/stopgap","statement":"A value is written as text whatever kind the key the value narrows has."}]}
+{"definition":"what one narrow weighs a page's value against"}
+{"id":"01a063ee-2a3b-74ff-8037-ee9c7cf9f335"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"values"}
+{"slug":"narrow-values"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

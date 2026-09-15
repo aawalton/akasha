@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Teleport Strike"}
+{"description":"\"Flash through the shadows and ambush an enemy, dealing |cffffff7680|r Magic Damage.\""}
+{"esoSkillId":237601}
+{"icon":"/esoui/art/icons/ability_nightblade_008.dds"}
+{"id":"019e6f53-a99d-7650-8aeb-c9bc47906618"}
+{"isMorph":false}
+{"key":"vengeance-teleport-strike"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-nightblade-assassination"}
+{"skillType":"active"}
+{"slug":"vengeance-teleport-strike"}
+{"subcategoryId":"vengeance-nightblade-assassination"}
+{"title":"Vengeance Teleport Strike"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A line is filed into the file beside the page referenced."},{"decisionKind":"decision-kind/departure","statement":"A name reaching a page files a line carrying the naming page's own id."},{"decisionKind":"decision-kind/departure","statement":"An import files a line carrying the name of the file imported."},{"decisionKind":"decision-kind/departure","statement":"The page an imported file belongs to is asked of the index, as the reader beside it asks."},{"decisionKind":"decision-kind/departure","statement":"A line is filed only beside a page the reading has by its file or in the index."},{"decisionKind":"decision-kind/departure","statement":"A page naming the same page twice through one property files one line."},{"decisionKind":"decision-kind/departure","statement":"A name reaching no page is reported rather than filed."},{"decisionKind":"decision-kind/departure","statement":"A name a mortal page carries, or a name of a mortal page, is not reported."},{"decisionKind":"decision-kind/departure","statement":"A page's own identity files no line."},{"decisionKind":"decision-kind/absence","statement":"Only a body named `.ts` or `.tsx` files an import."}]}
+{"definition":"the lines a page's own body files into the file beside every page it references"}
+{"id":"01a0a2fd-3d84-72e6-bf95-847df5aa7228"}
+{"slug":"page-reference-filing"}
+{"test":"ts"}
+{"type":"page-type/module"}

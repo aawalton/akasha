@@ -1,0 +1,10 @@
+{"appendOnly":true}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A line is appended rather than written over."},{"decisionKind":"decision-kind/departure","statement":"A line holds what was put to the model and what the model answered."},{"decisionKind":"decision-kind/departure","statement":"A line is written where a test answers yes rather than on every run."},{"decisionKind":"decision-kind/departure","statement":"A line names the rule judged and the seat the turn was under."},{"decisionKind":"decision-kind/departure","statement":"Lines are kept outside the commit."},{"decisionKind":"decision-kind/departure","statement":"No page states its own lines here."},{"decisionKind":"decision-kind/absence","statement":"Nothing here says whether the yes was right."},{"decisionKind":"decision-kind/absence","statement":"A yes that cannot be recorded is not a turn that is let through."}]}
+{"definition":"a turn a test answered yes on, one line appended as that turn is judged"}
+{"extensions":["jsonl"]}
+{"generated":true}
+{"id":"01a09b6d-4cdf-710e-83a5-07fa06d93f60"}
+{"propertySlug":"positives"}
+{"slug":"positives"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

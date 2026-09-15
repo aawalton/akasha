@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A message addressed to a name no seat has is refused rather than written."},{"decisionKind":"decision-kind/departure","statement":"A recipient is one name rather than a path."}]}
+{"definition":"the seat a message is addressed to"}
+{"id":"01a06818-107b-7000-9af9-d98a9e34ceed"}
+{"propertySlug":"to"}
+{"slug":"message-to"}
+{"targetPageType":"page-type/seat"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

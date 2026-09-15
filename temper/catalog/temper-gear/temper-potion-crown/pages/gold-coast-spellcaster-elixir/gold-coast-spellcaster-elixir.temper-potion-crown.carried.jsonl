@@ -1,0 +1,14 @@
+{"categoryId":"potions"}
+{"description":"Restore 7582 Magicka immediately. Grants Major Intellect which increases your Magicka Recovery by 30% for 36.3 seconds. Also grants Major Sorcery and Major Prophecy, increasing your Spell Damage by 20% and Spell Critical by 2629 for 36.3 seconds."}
+{"displayOrder":1}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/crownpotion_spellcaster.dds"}
+{"id":"019e21f5-7537-7b7b-afa1-7e09c321abb0"}
+{"itemId":112427}
+{"key":"gold-coast-spellcaster-elixir"}
+{"level":"Scaled"}
+{"seconds":36.3}
+{"slug":"gold-coast-spellcaster-elixir"}
+{"subcategoryId":"crown"}
+{"title":"Gold Coast Spellcaster Elixir"}
+{"type":"page-type/temper-potion-crown"}

@@ -1,0 +1,7 @@
+{"definition":"how many characters the player has at once"}
+{"id":"01a0673c-8e0e-7007-846b-f52757583f80"}
+{"propertySlug":"controlled-entity-kind"}
+{"slug":"controlled-entity-kind"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["single"]}

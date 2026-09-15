@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Bolt Escape"}
+{"description":"\"Transform yourself into pure energy and flash forward, stunning up to 3 enemies near your final location for |cffffff1|r second. \\n\\nThis effect cannot be blocked.\""}
+{"esoSkillId":237981}
+{"icon":"/esoui/art/icons/ability_sorcerer_bolt_escape.dds"}
+{"id":"019e6f53-a8c6-7610-8f34-2e711258ccf7"}
+{"isMorph":false}
+{"key":"vengeance-bolt-escape"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-sorcerer-storm-calling"}
+{"skillType":"active"}
+{"slug":"vengeance-bolt-escape"}
+{"subcategoryId":"vengeance-sorcerer-storm-calling"}
+{"title":"Vengeance Bolt Escape"}
+{"type":"page-type/temper-skill"}

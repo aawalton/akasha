@@ -1,0 +1,18 @@
+{"baseName":"Revitalize"}
+{"description":"\"Increases the Magicka or Stamina your Heavy Attacks restore by 4% for each piece of Heavy Armor worn.\\n\\nCurrent bonus: 0%\""}
+{"esoSkillId":45528}
+{"icon":"/esoui/art/icons/ability_armor_013.dds"}
+{"id":"019e6238-c303-72c5-bb80-fae171e5f355"}
+{"isMorph":false}
+{"key":"revitalize"}
+{"learnedLevel":1}
+{"lineRankNeeded":38}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"armor-heavy-armor"}
+{"skillType":"passive"}
+{"slug":"revitalize"}
+{"status":"unsupported"}
+{"subcategoryId":"armor-heavy-armor"}
+{"title":"Revitalize"}
+{"type":"page-type/temper-skill"}

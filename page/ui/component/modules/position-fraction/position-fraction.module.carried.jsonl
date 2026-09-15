@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"Converts playback and scroll positions to clamped 0-1 fractions and back."}
+{"id":"01a05c3b-4fc5-7216-9ef8-0f552ccdcdd3"}
+{"slug":"position-fraction"}
+{"type":"page-type/module"}

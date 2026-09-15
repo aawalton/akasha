@@ -1,0 +1,5 @@
+{"definition":"a file body as the bytes it is and as the text those bytes spell"}
+{"id":"01a09b2c-cc50-7f0f-838d-abfa522d31e4"}
+{"parts":["module/body-loading","module/body-text","module/carried-file","module/file-kind","module/sha256-hex","module/utf8-body"]}
+{"slug":"code-body"}
+{"type":"page-type/domain"}

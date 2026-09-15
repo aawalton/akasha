@@ -1,0 +1,15 @@
+{"abilityId":155268}
+{"castConditions":"jsonl"}
+{"companionId":"bastian"}
+{"description":"Your Companion draws on their draconic blood, healing for 25% of their Max Health and reducing their damage taken by 20% for $$2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_dragonknight_011.dds"}
+{"id":"019e6484-384d-75ed-b54f-7a3da4da2ea5"}
+{"key":"bastian-drakes-blood"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-bastian-draconic-armor"}
+{"skillType":"active"}
+{"slug":"bastian-bastian-drakes-blood"}
+{"tags":["max-health-heal-25pct"]}
+{"title":"Drake's Blood"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["tank"]}

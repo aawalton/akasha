@@ -1,0 +1,9 @@
+{"addonKind":"native"}
+{"addonName":"TemperInventory"}
+{"adjacents":["held-addon/temper-data-mining","held-addon/temper-listings","held-addon/temper-hud"]}
+{"esoAddon":"eso-addon/temper-items-addon"}
+{"heldBy":13037}
+{"id":"01a081a1-1b24-7205-81ba-f60c530a5e31"}
+{"slug":"temper-inventory"}
+{"tiClean":true}
+{"type":"page-type/held-addon"}

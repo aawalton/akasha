@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The sleep is read from the tracking the workstation's checkout carries."},{"decisionKind":"decision-kind/departure","statement":"Every site showing the sleep is carried the sleep rather than taking the sleep."},{"decisionKind":"decision-kind/departure","statement":"A carry that fails to one site does not stop the carry to another site."},{"decisionKind":"decision-kind/departure","statement":"The tile shows the sleep Alan's workstation last took."},{"decisionKind":"decision-kind/constraint","statement":"A sleep nothing can be read for is shown as no signal rather than as a zero."}]}
+{"definition":"the hours Alan logs sleeping across a day's stretches"}
+{"id":"01a06220-ef8c-735b-b8a1-1cb4507d71b0"}
+{"parts":["module/sleep-reading","readout/upkeep-sleep","service-workstation/sleep-relay-service"]}
+{"slug":"sleep"}
+{"type":"page-type/domain"}

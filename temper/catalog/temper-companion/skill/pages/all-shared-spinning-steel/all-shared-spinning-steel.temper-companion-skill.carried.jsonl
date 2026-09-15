@@ -1,0 +1,14 @@
+{"abilityId":152693}
+{"companionId":"all"}
+{"description":"Your Companion launches themselves in a lethal spin, dealing $1 Physical Damage to nearby enemies. Deals triple damage to enemies below 25% Health."}
+{"icon":"/esoui/art/icons/ability_companion_dualwield_005.dds"}
+{"id":"019e668d-c555-75f2-b975-63bd57ee036f"}
+{"key":"shared-spinning-steel"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"all-shared-spinning-steel"}
+{"tags":["execute-3x-below-25pct"]}
+{"title":"Spinning Steel"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

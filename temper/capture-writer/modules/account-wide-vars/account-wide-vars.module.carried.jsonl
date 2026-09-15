@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is asked for once and kept."},{"decisionKind":"decision-kind/departure","statement":"Asking for the table before the table was made up is an error."},{"decisionKind":"decision-kind/departure","statement":"Every character on the account sees the one table."}]}
+{"definition":"the game's own account-wide saved table, held for as long as the add-on runs"}
+{"id":"01a060b5-5ba8-7a8b-9378-5bd025a7cb9d"}
+{"slug":"account-wide-vars"}
+{"type":"page-type/module"}

@@ -1,0 +1,10 @@
+{"addonManifest":"json"}
+{"bindings":"xml"}
+{"bundleEntry":"module/journal-main"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Another add-on names a tab and hands over the control the tab draws in."},{"decisionKind":"decision-kind/departure","statement":"The window is built the first time the window is shown."},{"decisionKind":"decision-kind/departure","statement":"A tab is shown by its name from a keybind or a slash command."},{"decisionKind":"decision-kind/departure","statement":"The tab shown last answers the settings keybind with its own panel."},{"decisionKind":"decision-kind/departure","statement":"The colors a tooltip is drawn in are kept between sessions."},{"decisionKind":"decision-kind/constraint","statement":"This library depends on no other add-on."}]}
+{"definition":"a window other add-ons hang a tab in, built like the game's own journal"}
+{"id":"01a0617d-5454-7d6e-a26b-24878ddb747f"}
+{"interfaces":["eso-interface/journal-controls"]}
+{"parts":["eso-interface/journal-controls","module/journal-casts","module/journal-core","module/journal-l10n","module/journal-main","module/journal-main-menu","module/journal-public-api","module/journal-shape","module/journal-sort-filter-list","module/journal-state","module/journal-tabs","module/journal-tooltip-colors","module/journal-tooltip-extension","module/journal-tooltips","module/journal-window","type-declaration/journal-control-names","type-declaration/journal-saved-variables","type-declaration/journal-string-ids"]}
+{"slug":"temper-lib-extended-journal"}
+{"type":"page-type/eso-addon"}

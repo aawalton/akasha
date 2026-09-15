@@ -1,0 +1,17 @@
+{"baseName":"Summon Shade"}
+{"description":"\"Summon a shade version of yourself to attack an enemy and fight at your side for |cffffff20|r seconds. \\n\\nThe shade slashes at an enemy, dealing |cffffff1613|r Magic Damage once every |cffffff2|r seconds, and inflicts Minor Maim for |cffffff4|r seconds, reducing the enemy's damage done by |cffffff5|r%.\""}
+{"esoSkillId":33211}
+{"icon":"/esoui/art/icons/ability_nightblade_001.dds"}
+{"id":"019e6f53-a7dc-7443-a4dd-09322eef5d19"}
+{"isMorph":false}
+{"key":"summon-shade"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":0}
+{"rank":42}
+{"skillLineId":"nightblade-shadow"}
+{"skillType":"active"}
+{"slug":"summon-shade"}
+{"subcategoryId":"nightblade-shadow"}
+{"title":"Summon Shade"}
+{"type":"page-type/temper-skill"}

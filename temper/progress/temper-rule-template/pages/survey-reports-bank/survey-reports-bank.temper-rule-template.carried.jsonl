@@ -1,0 +1,12 @@
+{"action":"temper-item-action/move-to"}
+{"active":false}
+{"categoryId":"survey-reports"}
+{"description":"Stashes survey reports in the bank for later use. Survey reports lead to rich crafting material nodes."}
+{"destination":"bank"}
+{"displayOrder":21}
+{"goal":"temper-rule-goal/task"}
+{"id":"019e3104-2618-72cb-bf08-c915663ebbae"}
+{"key":"survey-reports-bank"}
+{"slug":"survey-reports-bank"}
+{"title":"Bank survey reports"}
+{"type":"page-type/temper-rule-template"}

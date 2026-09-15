@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the length an array reaches once items are added to its front"}
+{"id":"01a081ed-ab46-73af-8e27-0e82ce0b9291"}
+{"luaExport":"__TS__ArrayUnshift"}
+{"slug":"array-unshift"}
+{"type":"page-type/lualib-helper"}

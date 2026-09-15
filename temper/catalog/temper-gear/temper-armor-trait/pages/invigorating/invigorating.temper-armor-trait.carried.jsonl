@@ -1,0 +1,11 @@
+{"displayOrder":4}
+{"effect":"Increases Health, Magicka, and Stamina Recovery"}
+{"effects":"jsonl"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_ARMOR_PROLIFIC"}
+{"id":"01a05fb2-1bcf-73a5-a7c0-c033d122331e"}
+{"key":"invigorating"}
+{"material":"Garnet"}
+{"qualityValues":"jsonl"}
+{"slug":"invigorating"}
+{"title":"Invigorating"}
+{"type":"page-type/temper-armor-trait"}

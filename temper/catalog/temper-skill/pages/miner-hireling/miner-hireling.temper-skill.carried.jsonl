@@ -1,0 +1,17 @@
+{"baseName":"Miner Hireling"}
+{"description":"\"A hireling will send you even more blacksmithing materials and possibly other items every day. You have a greater chance at better quality materials.\""}
+{"esoSkillId":48171}
+{"icon":"/esoui/art/icons/ability_smith_006.dds"}
+{"id":"019e6224-cca6-75ba-b45d-8479a200dfc3"}
+{"isMorph":false}
+{"key":"miner-hireling"}
+{"learnedLevel":1}
+{"lineRankNeeded":3}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-blacksmithing"}
+{"skillType":"passive"}
+{"slug":"miner-hireling"}
+{"subcategoryId":"craft-blacksmithing"}
+{"title":"Miner Hireling"}
+{"type":"page-type/temper-skill"}

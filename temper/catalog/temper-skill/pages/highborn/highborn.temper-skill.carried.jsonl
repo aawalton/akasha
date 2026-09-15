@@ -1,0 +1,18 @@
+{"baseName":"Highborn"}
+{"description":"\"Increases your experience gain with the Destruction Staff skill line by 15%.\\n\\nIncreases your experience gained by 1%.\""}
+{"esoSkillId":35965}
+{"icon":"/esoui/art/icons/ability_templar_032.dds"}
+{"id":"019e624a-12cb-7664-8005-72574986fe5b"}
+{"isMorph":false}
+{"key":"highborn"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"racial-high-elf-skills"}
+{"skillType":"passive"}
+{"slug":"highborn"}
+{"status":"unsupported"}
+{"subcategoryId":"racial-high-elf-skills"}
+{"title":"Highborn"}
+{"type":"page-type/temper-skill"}

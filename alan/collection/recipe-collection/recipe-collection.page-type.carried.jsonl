@@ -1,0 +1,8 @@
+{"definition":"a shelf of recipes Alan keeps together"}
+{"extends":["page-type/collection"]}
+{"id":"01a06807-be66-7010-8d4a-7caba22196b6"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"recipe-collection"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

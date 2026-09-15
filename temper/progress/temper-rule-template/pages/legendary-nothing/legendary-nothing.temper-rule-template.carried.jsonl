@@ -1,0 +1,12 @@
+{"action":"temper-item-action/nothing"}
+{"active":false}
+{"categoryId":"equipment"}
+{"conditions":"jsonl"}
+{"description":"Prevents legendary (gold) quality equipment from being affected by lower-priority rules. Place above sell and deconstruct rules to safeguard your best gear."}
+{"displayOrder":5}
+{"goal":"temper-rule-goal/equip"}
+{"id":"019e3104-260a-7328-8521-8944b7303b8a"}
+{"key":"legendary-nothing"}
+{"slug":"legendary-nothing"}
+{"title":"Protect legendary gear"}
+{"type":"page-type/temper-rule-template"}

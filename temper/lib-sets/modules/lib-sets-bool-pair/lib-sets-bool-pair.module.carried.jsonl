@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A Lua table may be keyed by a boolean."}]}
+{"definition":"a two-entry table the game keys by false and by true"}
+{"id":"01a0617b-4b74-7947-906e-dc19a68d36b8"}
+{"slug":"lib-sets-bool-pair"}
+{"type":"page-type/module"}

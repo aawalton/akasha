@@ -1,0 +1,17 @@
+{"baseName":"Reusable Parts"}
+{"description":"\"When your Sacrificial Bones, Skeletal Mage, or Spirit Mender dies, the cost of your next Sacrificial Bones, Skeletal Mage, or Spirit Mender is reduced by |cffffff33|r%.\""}
+{"esoSkillId":116186}
+{"icon":"/esoui/art/icons/passive_necromancer_001.dds"}
+{"id":"019e6f53-a63d-7c56-b076-e9aab887f674"}
+{"isMorph":false}
+{"key":"reusable-parts-116186"}
+{"learnedLevel":8}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":8}
+{"skillLineId":"necromancer-grave-lord"}
+{"skillType":"passive"}
+{"slug":"reusable-parts-116186"}
+{"subcategoryId":"necromancer-grave-lord"}
+{"title":"Reusable Parts"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"description":"Every character on the account must already know the item where the value is `known`, and at least one character must not know the item where the value is `not-known`."}
+{"id":"01a07209-6b51-796e-839e-eb3726bce05d"}
+{"key":"known"}
+{"slug":"known"}
+{"title":"Known"}
+{"type":"page-type/temper-condition-field"}

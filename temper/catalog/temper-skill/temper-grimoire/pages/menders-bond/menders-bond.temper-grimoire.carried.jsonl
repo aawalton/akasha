@@ -1,0 +1,13 @@
+{"abilityIcon":"/esoui/art/icons/ability_grimoire_staffresto.dds"}
+{"affixScripts":"jsonl"}
+{"focusScripts":["damage-shield","generate-ultimate","healing","immobilize","magic-damage","mitigation","restore-resources"]}
+{"icon":"/esoui/art/icons/item_grimoire_staffresto.dds"}
+{"id":"01a05fce-2956-7cb4-9f64-bd3a35a2f23b"}
+{"itemId":204489}
+{"key":"menders-bond"}
+{"signatureScripts":"jsonl"}
+{"skillLineId":"weapon-restoration-staff"}
+{"slug":"menders-bond"}
+{"title":"Mender's Bond"}
+{"type":"page-type/temper-grimoire"}
+{"uespId":6}

@@ -1,0 +1,11 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The graph is in the format the runtime already reads."},{"decisionKind":"decision-kind/departure","statement":"The graph is kept outside the commit."}]}
+{"definition":"the trained graph saying what one word is to the word it hangs off"}
+{"extensions":["onnx"]}
+{"generated":true}
+{"holdsBytes":true}
+{"id":"01a06d3b-743f-73b0-9d3d-c1ef10d1cb67"}
+{"propertySlug":"relation-weights"}
+{"runsFileLength":false}
+{"slug":"relation-weights"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

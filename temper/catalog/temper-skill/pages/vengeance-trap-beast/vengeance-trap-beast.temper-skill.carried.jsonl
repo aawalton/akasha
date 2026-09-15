@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Trap Beast"}
+{"description":"\"Set a sharpened blade trap under your target that deals |cffffff10500|r Bleed Damage over |cffffff5|r seconds, and immobilizes them for |cffffff2|r seconds.\\n\\nThe trap cannot be blocked.\""}
+{"esoSkillId":246275}
+{"icon":"/esoui/art/icons/ability_fightersguild_004.dds"}
+{"id":"019e6f53-a9a1-7b73-9abe-d2cad6cc710d"}
+{"isMorph":false}
+{"key":"vengeance-trap-beast"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-guild-fighters-guild"}
+{"skillType":"active"}
+{"slug":"vengeance-trap-beast"}
+{"subcategoryId":"vengeance-guild-fighters-guild"}
+{"title":"Vengeance Trap Beast"}
+{"type":"page-type/temper-skill"}

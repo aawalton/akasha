@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A play of no length runs no minutes."},{"decisionKind":"decision-kind/departure","statement":"Minutes are counted to three places."},{"decisionKind":"decision-kind/departure","statement":"The ESO day a play lands on is worked out from when the play finished."},{"decisionKind":"decision-kind/departure","statement":"A title key drops every character that is no lowercase letter and no digit."},{"decisionKind":"decision-kind/departure","statement":"A title key an artist is unknown for is the track name alone."},{"decisionKind":"decision-kind/departure","statement":"A priming run scores no first listen."},{"decisionKind":"decision-kind/departure","statement":"A resume cursor is one millisecond past the newest play already filed."},{"decisionKind":"decision-kind/departure","statement":"A newest play that will not parse leaves the cursor unset."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a page."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches Spotify."}]}
+{"definition":"the arithmetic turning one play of a track into the row that play is filed as"}
+{"id":"01a063b0-cb34-7000-af1c-727892f4698a"}
+{"slug":"play-row"}
+{"test":"ts"}
+{"type":"page-type/module"}

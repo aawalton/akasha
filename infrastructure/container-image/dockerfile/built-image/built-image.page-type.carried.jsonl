@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An image's Dockerfile is written from the image's stated values rather than kept."},{"decisionKind":"decision-kind/departure","statement":"An image states the sort of Dockerfile written for that image."},{"decisionKind":"decision-kind/departure","statement":"An image adding to its Dockerfile keeps the addition beside its own page."},{"decisionKind":"decision-kind/departure","statement":"An image adding nothing states no extensions."},{"decisionKind":"decision-kind/departure","statement":"An image naming no package installer is built with apk."}]}
+{"definition":"a container image a Dockerfile is written for"}
+{"extends":["page-type/domain"]}
+{"id":"01a08193-c20c-7525-aced-8d801a2e9cd6"}
+{"parts":["built-image/auth-proxy","built-image/buildkit","built-image/bun-git","built-image/ci","built-image/gfs-promoter","built-image/kubectl","file-property/image-extensions","module-property-group/extending","select-property/image-kind","text-property/image-folder","text-property/image-repository"]}
+{"properties":[{"pageProperty":"select-property/image-kind","required":true,"many":false},{"pageProperty":"text-property/image-folder","required":true,"many":false},{"pageProperty":"file-property/image-extensions","required":false,"many":false},{"pageProperty":"text-property/image-repository","required":false,"many":false},{"pageProperty":"module-property-group/extending","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"built-image"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

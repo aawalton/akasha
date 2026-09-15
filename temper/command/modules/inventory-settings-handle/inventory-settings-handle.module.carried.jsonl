@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Settings are read and written for the signed-in player rather than a named player."},{"decisionKind":"decision-kind/departure","statement":"Reading and writing are handed over together as one handle."},{"decisionKind":"decision-kind/absence","statement":"No setting is shaped or defaulted here."}]}
+{"definition":"the inventory and automation settings bound to the signed-in player"}
+{"id":"01a068f6-dedf-7107-8dc8-aa181b13b60d"}
+{"slug":"inventory-settings-handle"}
+{"test":"ts"}
+{"type":"page-type/module"}

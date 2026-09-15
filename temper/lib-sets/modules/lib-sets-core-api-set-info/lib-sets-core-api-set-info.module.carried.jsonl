@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Set data asked for in one language and without item ids is cached for later asks."}]}
+{"definition":"everything known about one set gathered into a single table"}
+{"id":"01a06231-8f1d-7816-b46e-caba9de72027"}
+{"slug":"lib-sets-core-api-set-info"}
+{"type":"page-type/module"}

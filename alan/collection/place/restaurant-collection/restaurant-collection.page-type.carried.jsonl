@@ -1,0 +1,8 @@
+{"definition":"a shelf of restaurants Alan keeps together"}
+{"extends":["page-type/collection"]}
+{"id":"01a06807-be66-700c-bf31-55485b34bab0"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"restaurant-collection"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

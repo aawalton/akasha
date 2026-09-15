@@ -1,0 +1,17 @@
+{"baseName":"Last Gasp"}
+{"description":"\"Increases your Max Health by |cffffff1206|r.\""}
+{"esoSkillId":116271}
+{"icon":"/esoui/art/icons/passive_necromancer_008.dds"}
+{"id":"019e6f53-a3c1-7f97-8577-25dc2b3585fc"}
+{"isMorph":false}
+{"key":"last-gasp-116271"}
+{"learnedLevel":39}
+{"lineRankNeeded":39}
+{"morphIndex":0}
+{"rank":39}
+{"skillLineId":"necromancer-bone-tyrant"}
+{"skillType":"passive"}
+{"slug":"last-gasp-116271"}
+{"subcategoryId":"necromancer-bone-tyrant"}
+{"title":"Last Gasp"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the copy of an array with its elements ordered by a comparison"}
+{"id":"01a081ed-ab46-7684-93d9-9681ec02b9e9"}
+{"luaExport":"__TS__ArrayToSorted"}
+{"slug":"array-to-sorted"}
+{"type":"page-type/lualib-helper"}

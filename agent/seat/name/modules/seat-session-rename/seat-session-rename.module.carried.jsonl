@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat with no session standing under its old name is left alone."},{"decisionKind":"decision-kind/departure","statement":"A rename onto a name a live session already holds is refused."},{"decisionKind":"decision-kind/departure","statement":"A session name is matched exactly rather than as a prefix."},{"decisionKind":"decision-kind/departure","statement":"A rename that does not happen is said in the words that follow the rename."},{"decisionKind":"decision-kind/departure","statement":"A rename that leaves the seat where that seat was says nothing."}]}
+{"definition":"the tmux session a renamed seat sits in, moved to the seat's new name"}
+{"id":"01a0687e-534d-7000-bad8-47a890a18ce1"}
+{"slug":"seat-session-rename"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"This code is compiled to Lua and runs inside the game."},{"decisionKind":"decision-kind/departure","statement":"A narrowing that reaches no Lua belongs in `@akasha/utils/narrow` instead."},{"decisionKind":"decision-kind/departure","statement":"A refusal here throws the plain error the game's Lua understands."}]}
+{"definition":"the narrowings add-on code needs that only the game's own Lua can do"}
+{"id":"01a060b6-99a1-7f39-a4b3-1a7f8d33b445"}
+{"parts":["module/is-callback","module/is-table","module/lua-string-contains","module/parse-lua-capture","module/require-numeric-key","module/require-saved-variables"]}
+{"slug":"temper-narrow"}
+{"type":"page-type/domain"}

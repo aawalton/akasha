@@ -1,0 +1,10 @@
+{"audit":{"maxCpuSeconds":15}}
+{"check":{"maxCpuSeconds":1}}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The stem is the `slug` the page states rather than a title a reader would give the page."},{"decisionKind":"decision-kind/departure","statement":"A page naming itself otherwise than its file is invisible to the index."},{"decisionKind":"decision-kind/departure","statement":"A page's file states one page."},{"decisionKind":"decision-kind/departure","statement":"A page a file states past the first is invisible to the index."},{"decisionKind":"decision-kind/departure","statement":"Every page a file states past the first is said in one refusal."},{"decisionKind":"decision-kind/absence","statement":"A file with no page value is not judged."},{"decisionKind":"decision-kind/departure","statement":"A file is a page only where its own name states a page type."},{"decisionKind":"decision-kind/absence","statement":"A page property's file named for a property the index has in a file states no page type."},{"decisionKind":"decision-kind/departure","statement":"The index is asked only which properties are held in a file."},{"decisionKind":"decision-kind/departure","statement":"A file named for a group member is read against the keys that answer names."},{"decisionKind":"decision-kind/departure","statement":"That question is asked of the index as the change leaves the index."},{"decisionKind":"decision-kind/departure","statement":"That question is asked once for the whole run."},{"decisionKind":"decision-kind/departure","statement":"The name the page's value is bound to is judged against the export name its slug makes."},{"decisionKind":"decision-kind/departure","statement":"A value bound to no name is refused."},{"decisionKind":"decision-kind/departure","statement":"The name a file has is judged against the first page the file states."}]}
+{"definition":"the check refusing a page whose file name or export name is not the name it states"}
+{"id":"01a04bcb-c705-720a-a6fb-4dbd5fee1594"}
+{"runsOnAudit":true}
+{"runsOnChange":true}
+{"runsOnDeploy":true}
+{"slug":"page-named-as-stated"}
+{"type":"page-type/check-code"}

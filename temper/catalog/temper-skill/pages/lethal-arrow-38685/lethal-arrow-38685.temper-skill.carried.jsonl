@@ -1,0 +1,17 @@
+{"baseName":"Snipe"}
+{"description":"\"Plant a masterfully aimed arrow in an enemy's vital spot, dealing |cffffff8635|r Poison Damage and applying the Poisoned status effect.\\n\\nAlso afflicts enemy with Minor Defile, which reduces their healing received and damage shield strength by |cffffff6|r% for |cffffff4|r seconds.\""}
+{"esoSkillId":38685}
+{"icon":"/esoui/art/icons/ability_bow_001_a.dds"}
+{"id":"019e6f53-a3df-756e-8f55-f131dab266d3"}
+{"isMorph":true}
+{"key":"lethal-arrow-38685"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":1}
+{"rank":2}
+{"skillLineId":"weapon-bow"}
+{"skillType":"active"}
+{"slug":"lethal-arrow-38685"}
+{"subcategoryId":"weapon-bow"}
+{"title":"Lethal Arrow"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value that is no array is read as no value."},{"decisionKind":"decision-kind/departure","statement":"An array with a non-string entry is read as no value."}]}
+{"definition":"a list of strings read out of whatever a saved search or an editor handed in"}
+{"id":"01a0613a-e0af-7002-b311-310a410d8013"}
+{"slug":"search-string-array-parse"}
+{"type":"page-type/module"}

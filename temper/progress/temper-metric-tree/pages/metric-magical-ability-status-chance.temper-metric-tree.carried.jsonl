@@ -1,0 +1,8 @@
+{"displayOrder":0}
+{"id":"019e2fcd-59da-7e15-bed3-c521817dfe0e"}
+{"nodeId":"magical-ability-status-chance"}
+{"nodeType":"metric"}
+{"parent":"subcategory-magical-status-chance"}
+{"slug":"metric-magical-ability-status-chance"}
+{"title":"Magical Ability Status Chance"}
+{"type":"page-type/temper-metric-tree"}

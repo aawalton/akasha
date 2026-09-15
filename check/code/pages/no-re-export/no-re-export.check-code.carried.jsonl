@@ -1,0 +1,10 @@
+{"audit":{"maxCpuSeconds":15}}
+{"check":{"maxCpuSeconds":1}}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name imported and then exported is judged as a name exported straight from its source."},{"decisionKind":"decision-kind/departure","statement":"A new spelling on the way out hides nothing."},{"decisionKind":"decision-kind/departure","statement":"A type-only re-export is a re-export."},{"decisionKind":"decision-kind/departure","statement":"`export *` is refused whole rather than name by name."},{"decisionKind":"decision-kind/departure","statement":"A re-export inside another declaration is refused like a re-export at the top."},{"decisionKind":"decision-kind/departure","statement":"A barrel quietly undoes one way into a folder."},{"decisionKind":"decision-kind/absence","statement":"Only a name is followed."},{"decisionKind":"decision-kind/absence","statement":"An imported value bound to a fresh exported name is a declaration this file made."}]}
+{"definition":"the check refusing a file that exports a name it did not declare itself"}
+{"id":"01a04eea-b718-7687-bb51-e4efaeaf429e"}
+{"runsOnAudit":true}
+{"runsOnChange":true}
+{"runsOnDeploy":true}
+{"slug":"no-re-export"}
+{"type":"page-type/check-code"}

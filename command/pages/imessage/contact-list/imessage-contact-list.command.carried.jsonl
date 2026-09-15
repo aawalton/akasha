@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/contact-query","required":true,"saidAs":"flag-or-word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A row carries the name, then the phone numbers parted by commas, then the addresses."},{"decisionKind":"decision-kind/departure","statement":"A name is matched whatever the case that name was said in."},{"decisionKind":"decision-kind/departure","statement":"A run of letters anywhere in the name matches."},{"decisionKind":"decision-kind/departure","statement":"One person held in several address book sources is answered once."},{"decisionKind":"decision-kind/departure","statement":"Matching nothing is an empty answer rather than a refusal."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a message."}]}
+{"definition":"the command naming the address book contacts whose name has a run of letters"}
+{"id":"01a0685f-c8ed-7001-8968-6b6c199596e3"}
+{"name":"contact-list"}
+{"slug":"imessage-contact-list"}
+{"test":"ts"}
+{"type":"page-type/command"}

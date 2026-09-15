@@ -1,0 +1,9 @@
+{"allowed":false}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"`much` before an `of` phrase names a proportion rather than a count."},{"decisionKind":"decision-kind/departure","statement":"A quantifier whose `of` phrase has a count states that count nowhere else."}]}
+{"definition":"a quantifier followed by the phrase naming what it is part of"}
+{"id":"01a05dbf-e1d9-7c3c-bbef-a99bc4bf3d63"}
+{"reason":"A quantifier and the phrase it is part of are two steps where naming the thing is one."}
+{"slug":"partitive-quantifier"}
+{"test":"ts"}
+{"type":"page-type/sentence-shape"}

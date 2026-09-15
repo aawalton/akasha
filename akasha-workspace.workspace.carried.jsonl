@@ -1,0 +1,15 @@
+{"biomeConfig":"json"}
+{"bunConfig":"toml"}
+{"definition":"every package in this tree, installed as one"}
+{"dockerIgnore":"dockerignore"}
+{"id":"01a06cbb-60a1-73d5-88dc-0ffa3d84c96d"}
+{"lockfile":"lock"}
+{"packageDirectory":true}
+{"secretsConfig":"yaml"}
+{"slug":"akasha-workspace"}
+{"toolReached":["@biomejs/biome","@vscode/ripgrep","@capacitor/cli","@capacitor/ios","@capacitor/app","@capacitor/filesystem","@capacitor/push-notifications","@capacitor/status-bar","@playwright/mcp"]}
+{"type":"page-type/workspace"}
+{"typescriptBaseConfig":"json"}
+{"typescriptConfig":"json"}
+{"workspaceGitIgnore":"gitignore"}
+{"workspaceManifest":"json"}

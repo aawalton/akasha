@@ -1,0 +1,17 @@
+{"baseName":"Arrow Spray"}
+{"description":"\"Fire a burst of arrows in one shot, dealing |cffffff6401|r Poison Damage to enemies in front of you, and dealing an additional |cffffff5375|r Poison Damage over |cffffff5|r seconds.\""}
+{"esoSkillId":38701}
+{"icon":"/esoui/art/icons/ability_bow_005_b.dds"}
+{"id":"019e6f53-9e92-706a-b3e8-b896c820a496"}
+{"isMorph":true}
+{"key":"acid-spray-38701"}
+{"learnedLevel":1}
+{"lineRankNeeded":20}
+{"morphIndex":2}
+{"rank":20}
+{"skillLineId":"weapon-bow"}
+{"skillType":"active"}
+{"slug":"acid-spray-38701"}
+{"subcategoryId":"weapon-bow"}
+{"title":"Acid Spray"}
+{"type":"page-type/temper-skill"}

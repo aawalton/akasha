@@ -1,0 +1,11 @@
+{"containerPort":5000}
+{"definition":"the store with the images the cluster runs"}
+{"id":"01a06812-2380-78aa-994b-e27680b0a2eb"}
+{"image":"registry:3.0.0"}
+{"manifest":["manifest/registry"]}
+{"namespace":"registry"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"registry"}
+{"slug":"registry"}
+{"type":"page-type/service-cluster"}

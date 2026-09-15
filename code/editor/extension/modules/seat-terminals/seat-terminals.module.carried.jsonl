@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A terminal is matched to a seat by the shell that terminal answers with."},{"decisionKind":"decision-kind/departure","statement":"The seat each shell works in is read off the file the service writes."},{"decisionKind":"decision-kind/departure","statement":"A file that could not be read is told apart from a file naming no seat."},{"decisionKind":"decision-kind/departure","statement":"A terminal in no editor group names no column."},{"decisionKind":"decision-kind/departure","statement":"A tab that is no terminal names no instance id."},{"decisionKind":"decision-kind/departure","statement":"How long the sweep took is answered with the seats the sweep found."},{"decisionKind":"decision-kind/absence","statement":"Nothing here remembers a column."},{"decisionKind":"decision-kind/absence","statement":"No child process is started here."}]}
+{"definition":"which of this window's terminals a seat is working in, and which column each sits in"}
+{"id":"01a0686b-bfe9-73ac-9c09-182376783320"}
+{"slug":"seat-terminals"}
+{"type":"page-type/module"}

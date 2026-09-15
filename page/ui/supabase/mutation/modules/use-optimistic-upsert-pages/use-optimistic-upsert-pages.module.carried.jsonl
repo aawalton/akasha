@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"Overlays a predicted upsert per item, then runs the caller's upsert for every item at once."}
+{"id":"01a061cd-1a4e-7007-bdcd-9737ecb8ffd8"}
+{"slug":"use-optimistic-upsert-pages"}
+{"type":"page-type/module"}

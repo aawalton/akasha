@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"These rows are the rows upstream LibZone v8.98 states."}]}
+{"definition":"which maps the game treats as a public dungeon"}
+{"id":"01a061e7-932b-7225-832d-ef81c5e7cac2"}
+{"slug":"zone-public-dungeon-map-ids"}
+{"type":"page-type/module"}

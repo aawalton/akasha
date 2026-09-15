@@ -1,0 +1,17 @@
+{"baseName":"Obsidian Shield"}
+{"description":"\"Call the earth to your defense, granting a damage shield for you and nearby allies that absorbs |cffffff1873|r damage. This portion of the ability scales off your Max Health.\\n\\nYou also gain Major Mending, increasing your healing done by |cffffff16|r% for |cffffff4|r seconds.\""}
+{"esoSkillId":29071}
+{"icon":"/esoui/art/icons/ability_dragonknight_017.dds"}
+{"id":"019e6f53-a4cb-704c-b4a0-130109f23eca"}
+{"isMorph":false}
+{"key":"obsidian-shield"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":0}
+{"rank":20}
+{"skillLineId":"dragonknight-earthen-heart"}
+{"skillType":"active"}
+{"slug":"obsidian-shield"}
+{"subcategoryId":"dragonknight-earthen-heart"}
+{"title":"Obsidian Shield"}
+{"type":"page-type/temper-skill"}

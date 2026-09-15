@@ -1,0 +1,17 @@
+{"baseName":"Keen Eye: Rune Stones"}
+{"description":"\"Runes in the world will be easier to see when you are |cffffff20|r meters or closer.\""}
+{"esoSkillId":47851}
+{"icon":"/esoui/art/icons/ability_smith_002.dds"}
+{"id":"019e6f53-a3aa-7828-ba1c-f7a245b4a01e"}
+{"isMorph":false}
+{"key":"keen-eye-rune-stones-47851"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"craft-enchanting"}
+{"skillType":"passive"}
+{"slug":"keen-eye-rune-stones-47851"}
+{"subcategoryId":"craft-enchanting"}
+{"title":"Keen Eye: Rune Stones"}
+{"type":"page-type/temper-skill"}

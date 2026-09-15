@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A run sits beside the sync that run was a pull of rather than in a file of its own."},{"decisionKind":"decision-kind/departure","statement":"A run reporting no counts failed before reaching anything to count."},{"decisionKind":"decision-kind/departure","statement":"The runs beside a sync are that sync's entries rather than pages of their own."}]}
+{"definition":"one pull from one outside place"}
+{"extends":["page-type/page"]}
+{"id":"01a06835-e289-706f-b82b-cc895c8f24bf"}
+{"parts":["instant-property/run-completed-at","instant-property/run-started-at","number-property/created-count","number-property/duration-ms","number-property/failed-count","number-property/run-seq","number-property/skipped-count","number-property/updated-count","select-property/run-status","text-property/run-error-message"]}
+{"properties":[{"pageProperty":"number-property/run-seq","required":false,"many":false},{"pageProperty":"instant-property/run-started-at","required":true,"many":false},{"pageProperty":"instant-property/run-completed-at","required":false,"many":false},{"pageProperty":"number-property/duration-ms","required":false,"many":false},{"pageProperty":"select-property/run-status","required":true,"many":false},{"pageProperty":"number-property/created-count","required":false,"many":false},{"pageProperty":"number-property/updated-count","required":false,"many":false},{"pageProperty":"number-property/skipped-count","required":false,"many":false},{"pageProperty":"number-property/failed-count","required":false,"many":false},{"pageProperty":"text-property/run-error-message","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"sync-run"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/title"},{"argument":"argument/notes"},{"argument":"argument/goal"},{"argument":"argument/active"},{"argument":"argument/action","required":true},{"argument":"argument/destination"},{"argument":"argument/stock-scope"},{"argument":"argument/category","required":true},{"argument":"argument/conditions"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A new category rule is inactive."},{"decisionKind":"decision-kind/departure","statement":"A call saying neither the action nor the category is refused for both."},{"decisionKind":"decision-kind/departure","statement":"The act that adds takes the store rather than reaching it."},{"decisionKind":"decision-kind/departure","statement":"Every flag is narrowed before the store is read, so a misspelling reads nothing."},{"decisionKind":"decision-kind/departure","statement":"A rule added is named on the caller's list as soon as that write has gone."},{"decisionKind":"decision-kind/departure","statement":"A rule the store would not take is named nowhere, because nothing was written."},{"decisionKind":"decision-kind/absence","statement":"Nothing the web alone shows reaches the addon."}]}
+{"definition":"the command adding a category rule"}
+{"id":"01a0603c-c1d6-798f-a6d9-f51d3fc000f9"}
+{"name":"create"}
+{"slug":"temper-inventory-rule-create"}
+{"test":"ts"}
+{"type":"page-type/command"}

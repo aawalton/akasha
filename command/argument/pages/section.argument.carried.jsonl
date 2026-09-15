@@ -1,0 +1,8 @@
+{"default":"all"}
+{"id":"01a094d3-1a03-7453-8604-f877b283c861"}
+{"placeholder":"section"}
+{"said":"--section"}
+{"slug":"section"}
+{"takes":"which section is given back: rules, item-rules, consumables, priority, divergence or all"}
+{"type":"page-type/argument"}
+{"value":"text"}

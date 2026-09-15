@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A dropdown given no values of its own is set by the place a choice sits at."},{"decisionKind":"decision-kind/departure","statement":"A dropdown given values of its own is set by the value itself."},{"decisionKind":"decision-kind/constraint","statement":"A value outside the list handed in is ignored."},{"decisionKind":"decision-kind/departure","statement":"A place outside the list reads as the empty string."}]}
+{"definition":"a choice among named options, described for the add-on menu library"}
+{"id":"01a06053-3637-7cbf-af2a-2b25ec6eea55"}
+{"slug":"dropdown"}
+{"type":"page-type/module"}

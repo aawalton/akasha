@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rule of this kind is settled by its clauses without anybody reading the row."},{"decisionKind":"decision-kind/departure","statement":"A rule of this kind naming no category catches a row for a person to settle."}]}
+{"definition":"a category rule its clauses alone carry out"}
+{"extends":["page-type/category-rule"]}
+{"id":"01a0680c-3c00-7008-9c73-6a2e5d8b3109"}
+{"schema":"jsonl"}
+{"slug":"category-rule-code"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

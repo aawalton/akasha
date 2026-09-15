@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The layout context and the pages-ui context are filled from the same host router."},{"decisionKind":"decision-kind/departure","statement":"A router app mounts these adapters rather than filling either context itself."},{"decisionKind":"decision-kind/absence","statement":"Nothing here names an app or a route."}]}
+{"definition":"the React Router pathname, query and link handed to the framework-free contexts"}
+{"id":"01a08e35-2512-7620-ba36-cc10442965af"}
+{"slug":"router-context-adapters"}
+{"type":"page-type/module"}

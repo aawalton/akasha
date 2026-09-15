@@ -1,0 +1,19 @@
+{"baseName":"Brawny"}
+{"description":"\"Increases your Max Stamina by 1000.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45309}
+{"icon":"/esoui/art/icons/ability_dragonknight_020.dds"}
+{"id":"019e624a-12c1-726c-8677-2e48f66258b5"}
+{"isMorph":false}
+{"key":"brawny"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"racial-orc-skills"}
+{"skillType":"passive"}
+{"slug":"brawny"}
+{"status":"supported"}
+{"subcategoryId":"racial-orc-skills"}
+{"title":"Brawny"}
+{"type":"page-type/temper-skill"}

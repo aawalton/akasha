@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A folder named relative is taken against the folder the server runs in."},{"decisionKind":"decision-kind/departure","statement":"The folder is read from the environment once when this module loads."},{"decisionKind":"decision-kind/departure","statement":"A change to the environment after this module has loaded does not move the folder."}]}
+{"definition":"the folder the built addon bundles are served out of"}
+{"id":"01a0640f-850f-76fa-aa1c-8817cc184e55"}
+{"slug":"addons-bundle-dir"}
+{"type":"page-type/module"}

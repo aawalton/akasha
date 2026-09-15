@@ -1,0 +1,7 @@
+{"description":"Reduces Critical Damage done by 10%"}
+{"effects":"jsonl"}
+{"id":"01a05fc6-42c4-76bc-bee9-88b621b2df71"}
+{"key":"minor-enervation"}
+{"slug":"minor-enervation"}
+{"title":"Minor Enervation"}
+{"type":"page-type/temper-debuff-minor"}

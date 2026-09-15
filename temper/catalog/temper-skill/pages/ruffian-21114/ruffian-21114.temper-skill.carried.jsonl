@@ -1,0 +1,17 @@
+{"baseName":"Ruffian"}
+{"description":"\"Gives you an |cffffff8|r% damage bonus when attacking stunned, immobilized, or silenced enemies.\""}
+{"esoSkillId":21114}
+{"icon":"/esoui/art/icons/ability_weapon_014.dds"}
+{"id":"019e6f53-a66a-724c-a509-88cb9fa9e7c4"}
+{"isMorph":false}
+{"key":"ruffian-21114"}
+{"learnedLevel":1}
+{"lineRankNeeded":28}
+{"morphIndex":0}
+{"rank":28}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"passive"}
+{"slug":"ruffian-21114"}
+{"subcategoryId":"weapon-dual-wield"}
+{"title":"Ruffian"}
+{"type":"page-type/temper-skill"}

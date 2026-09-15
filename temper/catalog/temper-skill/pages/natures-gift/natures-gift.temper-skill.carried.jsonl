@@ -1,0 +1,19 @@
+{"baseName":"Nature's Gift"}
+{"description":"\"When you heal an ally with a Green Balance ability, you gain 277 Magicka or 277 Stamina, whichever resource pool is lower. This effect can occur once every 1 second.\""}
+{"effects":"jsonl"}
+{"esoSkillId":85879}
+{"icon":"/esoui/art/icons/passive_warden_006.dds"}
+{"id":"019e6245-a6d8-7282-8f0c-adc48bda6e8c"}
+{"isMorph":false}
+{"key":"natures-gift"}
+{"learnedLevel":27}
+{"lineRankNeeded":27}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"warden-green-balance"}
+{"skillType":"passive"}
+{"slug":"natures-gift"}
+{"status":"unsupported"}
+{"subcategoryId":"warden-green-balance"}
+{"title":"Nature's Gift"}
+{"type":"page-type/temper-skill"}

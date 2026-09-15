@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Search text is escaped for Lua patterns before matching."},{"decisionKind":"decision-kind/departure","statement":"Whitespace inside a search term matches any characters between the words."},{"decisionKind":"decision-kind/departure","statement":"Row selection survives a rebuild without replaying the selection sound."},{"decisionKind":"decision-kind/constraint","statement":"The row control factory is replaced after ZO_ScrollList registers the data type."}]}
+{"definition":"the scrolling list of registered addon panels and its search filter box"}
+{"id":"01a06100-0000-7000-8000-000000000000"}
+{"slug":"addon-menu-addon-list"}
+{"type":"page-type/module"}

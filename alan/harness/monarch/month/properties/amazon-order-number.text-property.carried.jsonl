@@ -1,0 +1,8 @@
+{"definition":"the Amazon order a transaction paid for"}
+{"id":"01a0680b-2b00-7009-8b64-2d5f7a1c210a"}
+{"maxLength":40}
+{"nameFormat":null}
+{"propertySlug":"amazon-order-number"}
+{"slug":"amazon-order-number"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

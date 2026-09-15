@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The command reads the arguments and writes the answer."},{"decisionKind":"decision-kind/departure","statement":"A function the command calls reads no argument and writes no answer."},{"decisionKind":"decision-kind/departure","statement":"A stating that is refused is answered with the refusal's words rather than ended."},{"decisionKind":"decision-kind/departure","statement":"An answer has the bytes the command writes."},{"decisionKind":"decision-kind/departure","statement":"The command and this file's own entry point share one shell over the stating."},{"decisionKind":"decision-kind/absence","statement":"The stating function reaches no stream and no exit code."}]}
+{"definition":"stating what a seat is, so a compaction cannot take it away"}
+{"id":"01a069d0-78a2-7758-8c1f-002d4bc214c2"}
+{"slug":"seat-running"}
+{"type":"page-type/module"}

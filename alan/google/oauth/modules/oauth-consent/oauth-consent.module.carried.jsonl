@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A minted refresh token is written into the workstation's secrets file."},{"decisionKind":"decision-kind/absence","statement":"A minted refresh token is answered to no caller."},{"decisionKind":"decision-kind/departure","statement":"What is answered is the name written and the file written into."},{"decisionKind":"decision-kind/departure","statement":"A caller that prints for itself is answered rather than printed for."},{"decisionKind":"decision-kind/departure","statement":"Consent a loopback server cannot receive is finished from a pasted callback URL."},{"decisionKind":"decision-kind/departure","statement":"The loopback server stops whether consent arrives or not."},{"decisionKind":"decision-kind/departure","statement":"An exchange answering with no refresh token is an operational fault."},{"decisionKind":"decision-kind/departure","statement":"An exchange that reached Google says the code is spent, whatever came back."},{"decisionKind":"decision-kind/departure","statement":"An exchange that never reached Google names nothing as written."},{"decisionKind":"decision-kind/absence","statement":"The token's value is in nothing named as written."}]}
+{"definition":"the browser round trip a Google refresh token comes back from"}
+{"id":"01a0657c-604c-7001-97a9-2a69478eb550"}
+{"slug":"oauth-consent"}
+{"test":"ts"}
+{"type":"page-type/module"}

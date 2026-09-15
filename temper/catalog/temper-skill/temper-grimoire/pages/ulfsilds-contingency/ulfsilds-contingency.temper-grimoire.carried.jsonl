@@ -1,0 +1,13 @@
+{"abilityIcon":"/esoui/art/icons/ability_grimoire_magesguild.dds"}
+{"affixScripts":"jsonl"}
+{"focusScripts":["bleed-damage","damage-shield","flame-damage","frost-damage","healing","immobilize","knockback","magic-damage","shock-damage"]}
+{"icon":"/esoui/art/icons/item_grimoire_magesguild.dds"}
+{"id":"01a05fce-2958-73bb-b25a-8b2b6fdb14e8"}
+{"itemId":204493}
+{"key":"ulfsilds-contingency"}
+{"signatureScripts":"jsonl"}
+{"skillLineId":"guild-mages-guild"}
+{"slug":"ulfsilds-contingency"}
+{"title":"Ulfsild's Contingency"}
+{"type":"page-type/temper-grimoire"}
+{"uespId":9}

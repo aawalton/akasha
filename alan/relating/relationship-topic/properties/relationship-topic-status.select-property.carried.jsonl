@@ -1,0 +1,7 @@
+{"definition":"how far a relationship topic has been taken"}
+{"id":"01a0658a-170f-750d-b59c-4ea32072c422"}
+{"propertySlug":"relationship-topic-status"}
+{"slug":"relationship-topic-status"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["someday-maybe","planned","up-next","in-progress","done"]}

@@ -1,0 +1,17 @@
+{"baseName":"Mend Wounds"}
+{"description":"\"Invoke the Rites of Moawita, replacing your Light and Heavy Attacks with healing abilities that can be used on allies.\\n\\nYour Light Attacks heal for 972.\\n\\nYour Heavy Attacks heal for 863 every 1 second, and restore 1155 Magicka to you for successfully healing.\\n\\nYou heal yourself for 50% of the amount of healing done to the ally.\""}
+{"esoSkillId":40103755}
+{"icon":"/esoui/art/icons/ability_psijic_006_b.dds"}
+{"id":"019e6238-c31d-7eda-a892-68fe356c5ce5"}
+{"isMorph":true}
+{"key":"symbiosis"}
+{"learnedLevel":6}
+{"lineRankNeeded":6}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"guild-psijic-order"}
+{"skillType":"active"}
+{"slug":"symbiosis"}
+{"subcategoryId":"guild-psijic-order"}
+{"title":"Symbiosis"}
+{"type":"page-type/temper-skill"}

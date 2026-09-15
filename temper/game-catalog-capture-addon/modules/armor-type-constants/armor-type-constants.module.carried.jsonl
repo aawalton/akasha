@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each number is read out of the client rather than written down here."}]}
+{"definition":"the armor weight numbers the game client has, each under the name the client spells it with"}
+{"id":"01a06127-661f-7ab9-8fd2-c12787790998"}
+{"slug":"armor-type-constants"}
+{"type":"page-type/module"}

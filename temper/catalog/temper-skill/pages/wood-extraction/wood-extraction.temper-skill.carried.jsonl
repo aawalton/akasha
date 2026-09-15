@@ -1,0 +1,17 @@
+{"baseName":"Wood Extraction"}
+{"description":"\"Maximizes the chances of extracting Woodworking ingredients and allows the refining of the most powerful resins from raw materials.\""}
+{"esoSkillId":48180}
+{"icon":"/esoui/art/icons/ability_tradecraft_006.dds"}
+{"id":"019e6224-ccb6-7168-a599-fce5e9cada0c"}
+{"isMorph":false}
+{"key":"wood-extraction"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-woodworking"}
+{"skillType":"passive"}
+{"slug":"wood-extraction"}
+{"subcategoryId":"craft-woodworking"}
+{"title":"Wood Extraction"}
+{"type":"page-type/temper-skill"}

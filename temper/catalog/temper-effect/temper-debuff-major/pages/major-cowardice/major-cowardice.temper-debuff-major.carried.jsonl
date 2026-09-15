@@ -1,0 +1,7 @@
+{"description":"Reduces Weapon and Spell Damage by 430"}
+{"effects":"jsonl"}
+{"id":"01a05fc6-42c1-76c0-88d6-6d8ca070c380"}
+{"key":"major-cowardice"}
+{"slug":"major-cowardice"}
+{"title":"Major Cowardice"}
+{"type":"page-type/temper-debuff-major"}

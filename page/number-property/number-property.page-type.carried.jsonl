@@ -1,0 +1,10 @@
+{"definition":"a page property with a number"}
+{"extends":["page-type/page-property"]}
+{"id":"01a04dff-9d7d-757f-84a2-1c515ad24f9a"}
+{"parts":["number-property/max"]}
+{"properties":[{"pageProperty":"number-property/max","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"shapes":"jsonl"}
+{"slug":"number-property"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

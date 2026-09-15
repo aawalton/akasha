@@ -1,0 +1,6 @@
+{"definition":"Wan video clips and the frames taken out of them"}
+{"id":"01a093fb-ba5e-7535-a5b3-40b902e37bc8"}
+{"name":"wan"}
+{"parts":["command/inference-wan-extend","command/inference-wan-frame","command/inference-wan-generate","command/inference-wan-score","module/wan-clip-rendering","module/wan-hosting"]}
+{"slug":"inference-wan"}
+{"type":"page-type/namespace"}

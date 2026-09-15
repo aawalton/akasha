@@ -1,0 +1,6 @@
+{"definition":"an addon somebody outside Temper wrote"}
+{"id":"01a07c17-fe1d-7ad9-b3a5-9bea441bd023"}
+{"name":"community"}
+{"parts":["command/temper-community-addon-install","command/temper-community-addon-list","command/temper-community-addon-update"]}
+{"slug":"temper-community"}
+{"type":"page-type/namespace"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name is resolved through the address book before any handle is matched."},{"decisionKind":"decision-kind/departure","statement":"A name matching nobody is a data failure rather than an empty answer."},{"decisionKind":"decision-kind/departure","statement":"An address or a number is matched against handles without the address book."}]}
+{"definition":"message and contact reads carried to the machine with them"}
+{"id":"01a05bc9-4308-7005-8e21-1d68ebecb94c"}
+{"slug":"imessage-remote"}
+{"type":"page-type/module"}

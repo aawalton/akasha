@@ -1,0 +1,17 @@
+{"baseName":"Earthspike Mantle"}
+{"description":"\"Envelop your body in molten spikes to increase your damage done by 100 and gain Major Resolve, increasing Physical and Spell Resistance by 5948 for 20 seconds.\\n\\nPower drawn from the heart of a volcano forms a damage shield around you that absorbs up to 6611 damage for 6 seconds, scaling off your Max Health.\""}
+{"esoSkillId":20328}
+{"icon":"/esoui/art/icons/ability_dragonknight_007_b.dds"}
+{"id":"019e6245-a65d-7e0d-a1b7-7bfc181fbe2d"}
+{"isMorph":true}
+{"key":"earthshield-mantle"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"dragonknight-earthen-heart"}
+{"skillType":"active"}
+{"slug":"earthshield-mantle"}
+{"subcategoryId":"dragonknight-earthen-heart"}
+{"title":"Earthshield Mantle"}
+{"type":"page-type/temper-skill"}

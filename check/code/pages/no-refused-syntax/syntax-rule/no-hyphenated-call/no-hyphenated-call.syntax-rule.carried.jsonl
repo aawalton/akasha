@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A call is spelled with a space between each level of the command tree."},{"decisionKind":"decision-kind/departure","statement":"What each level names itself says where one level ends and the next begins."},{"decisionKind":"decision-kind/departure","statement":"A level whose own name carries a hyphen keeps that hyphen."},{"decisionKind":"decision-kind/departure","statement":"A slug naming no level of the command tree is left alone."},{"decisionKind":"decision-kind/departure","statement":"A slug with no `akasha` before it names a page rather than a call."},{"decisionKind":"decision-kind/departure","statement":"A piece of a template literal is judged as a whole string literal is."},{"decisionKind":"decision-kind/departure","statement":"Only the file holding a page's code is judged."},{"decisionKind":"decision-kind/absence","statement":"A name built as the code runs is not seen."}]}
+{"definition":"the rule refusing a call spelled in one word where its levels want spaces"}
+{"id":"01a0945c-0c1b-71fb-8a5c-8c0d26e8acfb"}
+{"slug":"no-hyphenated-call"}
+{"test":"ts"}
+{"type":"page-type/syntax-rule"}

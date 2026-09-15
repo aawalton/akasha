@@ -1,0 +1,6 @@
+{"category":"monarch-category/shopping"}
+{"id":"01a0655b-fcd0-7028-875b-bda971334f92"}
+{"matches":[{"key":"merchant","comparison":"is","values":["netflix"]},{"key":"sign","comparison":"is","values":["negative"]}]}
+{"slug":"netflix"}
+{"title":"Netflix"}
+{"type":"page-type/category-rule-code"}

@@ -1,0 +1,13 @@
+{"abilityId":164289}
+{"companionId":"ember"}
+{"description":"Your Companion conjures dark crystals to bombard an enemy, dealing $1 Magic Damage."}
+{"icon":"/esoui/art/icons/ability_companion_sorcerer_thunderclap.dds"}
+{"id":"019e6484-3858-70a4-b668-839c1c23b5ae"}
+{"key":"ember-crystal-blast"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-ember-lightning-caller"}
+{"skillType":"active"}
+{"slug":"ember-ember-crystal-blast"}
+{"title":"Crystal Blast"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each rung after the first takes three times the points the rung before took."},{"decisionKind":"decision-kind/departure","statement":"The last rung states no points."}]}
+{"definition":"how many more points the rung after this one takes"}
+{"id":"01a0541b-6a83-7beb-9eb1-d13e2108d749"}
+{"max":null}
+{"propertySlug":"points-to-next"}
+{"slug":"points-to-next"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

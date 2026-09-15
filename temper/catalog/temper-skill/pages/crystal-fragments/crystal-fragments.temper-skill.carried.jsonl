@@ -1,0 +1,17 @@
+{"baseName":"Crystal Shard"}
+{"description":"\"Conjure dark crystals to bombard an enemy, dealing 2483 Magic Damage. Your next non-Ultimate ability cast within 3 seconds costs 10% less.\\n\\nWhile slotted on either bar, casting a non-Ultimate ability has a 33% chance of causing your next Crystal Fragments to be instant cast at half cost, dealing 4123 Magic Damage.\""}
+{"esoSkillId":47569}
+{"icon":"/esoui/art/icons/ability_sorcerer_thunderstomp.dds"}
+{"id":"019e6245-a629-7674-aadd-1c7eba5fbc90"}
+{"isMorph":true}
+{"key":"crystal-fragments"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"sorcerer-dark-magic"}
+{"skillType":"active"}
+{"slug":"crystal-fragments"}
+{"subcategoryId":"sorcerer-dark-magic"}
+{"title":"Crystal Fragments"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,8 @@
+{"displayOrder":1}
+{"id":"019e2fcd-5a97-7829-9d89-99c96e7e9e5c"}
+{"nodeId":"target-weapon-power"}
+{"nodeType":"metric"}
+{"parent":"metric-target-power"}
+{"slug":"metric-target-weapon-power"}
+{"title":"Target Weapon Power"}
+{"type":"page-type/temper-metric-tree"}

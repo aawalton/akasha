@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This table is written out from the set category pages rather than by hand."},{"decisionKind":"decision-kind/upkeep","statement":"The generator writes this table outside akasha."}]}
+{"definition":"where a gear set is found, and the sets sorted under each"}
+{"id":"01a0616f-8e15-7812-a6e6-cca332a9a6e5"}
+{"slug":"set-categories"}
+{"type":"page-type/module"}

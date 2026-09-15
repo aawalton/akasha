@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A character no measurement was taken of is left out."},{"decisionKind":"decision-kind/constraint","statement":"A script with no item id is left out."}]}
+{"definition":"which grimoires and scripts each character has unlocked"}
+{"id":"01a06279-3a00-7000-8dbd-521db3a1f3b4"}
+{"slug":"completion-scribing-progress"}
+{"type":"page-type/module"}

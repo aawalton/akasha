@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Rushed Ceremony"}
+{"description":"\"Heal yourself or an ally for |cffffff16065|r Health.\""}
+{"esoSkillId":238001}
+{"icon":"/esoui/art/icons/ability_templar_rushed_ceremony.dds"}
+{"id":"019e6f53-a976-7a64-b008-3664f356ae26"}
+{"isMorph":false}
+{"key":"vengeance-rushed-ceremony"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-templar-restoring-light"}
+{"skillType":"active"}
+{"slug":"vengeance-rushed-ceremony"}
+{"subcategoryId":"vengeance-templar-restoring-light"}
+{"title":"Vengeance Rushed Ceremony"}
+{"type":"page-type/temper-skill"}

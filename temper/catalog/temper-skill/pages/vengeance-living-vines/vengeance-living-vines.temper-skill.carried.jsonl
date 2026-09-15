@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Living Vines"}
+{"description":"\"Grow vines to embrace you or an ally and heal them for |cffffff24096|r Health over |cffffff5|r seconds.\""}
+{"esoSkillId":238065}
+{"icon":"/esoui/art/icons/ability_warden_010.dds"}
+{"id":"019e6f53-a933-7590-9f9a-008fde8c1d88"}
+{"isMorph":false}
+{"key":"vengeance-living-vines"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-warden-green-balance"}
+{"skillType":"active"}
+{"slug":"vengeance-living-vines"}
+{"subcategoryId":"vengeance-warden-green-balance"}
+{"title":"Vengeance Living Vines"}
+{"type":"page-type/temper-skill"}

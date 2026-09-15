@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A build is named by the digest of the source the build was built from."}]}
+{"definition":"the build of the proxy serving a seat"}
+{"id":"01a0540c-dbc1-7fb4-9fa4-54d2c5594de8"}
+{"maxLength":64}
+{"nameFormat":null}
+{"propertySlug":"version"}
+{"slug":"proxy-version"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/force"},{"argument":"argument/category-rule-id","required":true,"saidAs":"word"},{"argument":"argument/to-position","notWith":["argument/before","argument/after"],"oneOf":["argument/before","argument/after"]},{"argument":"argument/before","notWith":["argument/after"]},{"argument":"argument/after"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A call naming no way of placing the rule is refused."},{"decisionKind":"decision-kind/departure","statement":"The act that moves takes the store it writes through rather than reaching it."},{"decisionKind":"decision-kind/departure","statement":"A move is named on the caller's list as soon as that write has gone through."},{"decisionKind":"decision-kind/departure","statement":"A rule left where it was is named nowhere, whatever refused the move."},{"decisionKind":"decision-kind/departure","statement":"A call naming more than one way of placing the rule is refused."},{"decisionKind":"decision-kind/departure","statement":"The position is counted over the rules a person wrote."},{"decisionKind":"decision-kind/departure","statement":"An anchor id no rule carries refuses the call."},{"decisionKind":"decision-kind/departure","statement":"A locked rule is refused unless the call says `--force`."}]}
+{"definition":"the command moving a category rule to another place in the priority order"}
+{"id":"01a0603c-c1d8-70b7-a1e7-d602bcd411b0"}
+{"name":"reorder"}
+{"slug":"temper-inventory-rule-reorder"}
+{"test":"ts"}
+{"type":"page-type/command"}

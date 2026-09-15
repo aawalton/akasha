@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"whether a value is the one value that differs from itself"}
+{"id":"01a08c43-0a33-7f9f-a032-381bcce40df2"}
+{"luaExport":"__TS__NumberIsNaN"}
+{"slug":"number-is-nan"}
+{"type":"page-type/lualib-helper"}

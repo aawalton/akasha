@@ -1,0 +1,17 @@
+{"baseName":"Steadfast Ward"}
+{"description":"\"Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs |cffffff8508|r damage.\\n\\nThe shield's strength is increased by up to |cffffff100|r%, depending on the severity of the target's wounds. \\n\\nWhile the shield persists, the target is healed for |cffffff34|r% of the shield's remaining strength every second.\""}
+{"esoSkillId":40126}
+{"icon":"/esoui/art/icons/ability_restorationstaff_001_a.dds"}
+{"id":"019e6f53-a2ef-7d64-a80e-b7579614d1e0"}
+{"isMorph":true}
+{"key":"healing-ward-40126"}
+{"learnedLevel":1}
+{"lineRankNeeded":20}
+{"morphIndex":2}
+{"rank":20}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"healing-ward-40126"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Healing Ward"}
+{"type":"page-type/temper-skill"}

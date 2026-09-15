@@ -1,0 +1,17 @@
+{"baseName":"Lacerate"}
+{"description":"\"Slash enemies in front of you, causing them to bleed for |cffffff22855|r Bleed Damage over |cffffff8|r seconds and healing you for |cffffff51|r% of the damage done.\\n\\nEach enemy hit increases your damage done by |cffffff6|r% for |cffffff15|r seconds. This effect can stack up to |cffffff6|r times.\\n\\nEach tick applies the Hemorrhaging status effect.\""}
+{"esoSkillId":85179}
+{"icon":"/esoui/art/icons/ability_dualwield_006_b.dds"}
+{"id":"019e6f53-a83b-7826-932d-8c3fb4d3b071"}
+{"isMorph":true}
+{"key":"thrive-in-chaos-85179"}
+{"learnedLevel":1}
+{"lineRankNeeded":50}
+{"morphIndex":2}
+{"rank":50}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"ultimate"}
+{"slug":"thrive-in-chaos-85179"}
+{"subcategoryId":"weapon-dual-wield"}
+{"title":"Thrive in Chaos"}
+{"type":"page-type/temper-skill"}

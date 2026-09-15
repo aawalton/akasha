@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The account a person signed in under is read from that person rather than kept here."}]}
+{"definition":"the person whose device has a token"}
+{"id":"01a05dc7-77db-73e5-a433-7a5181faab7e"}
+{"propertySlug":"person"}
+{"slug":"device-token-person"}
+{"targetPageType":"page-type/person"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

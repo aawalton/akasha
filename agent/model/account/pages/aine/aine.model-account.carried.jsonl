@@ -1,0 +1,11 @@
+{"accountUuid":"d5dfe4b9-7b90-484a-b5ed-d338ef2333e0"}
+{"aliasIndex":8}
+{"email":"aine@alanwalton.com"}
+{"id":"019fa944-c37d-7631-be0b-d2ff83b74635"}
+{"provider":"model-provider/anthropic"}
+{"rateLimitTier":"default_claude_max_20x"}
+{"renewalDay":28}
+{"scopes":["user:file_upload","user:inference","user:mcp_servers","user:profile","user:sessions:claude_code"]}
+{"slug":"aine"}
+{"subscriptionType":"max"}
+{"type":"page-type/model-account"}

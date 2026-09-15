@@ -1,0 +1,18 @@
+{"baseName":"Restoring Aura"}
+{"description":"\"Consecrate the souls of the fallen, healing you and your allies for 3000 Health and restoring 3000 Stamina to you for each corpse nearby.\\n\\nWhile slotted on either bar, you gain Minor Fortitude, Minor Endurance, and Minor Intellect, increasing your Health, Stamina, and Magicka Recovery by 15%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":27043}
+{"icon":"/esoui/art/icons/ability_templar_persistant_sigil.dds"}
+{"id":"019e6245-a70c-7a87-a019-123628e09060"}
+{"isMorph":true}
+{"key":"repentance"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"templar-restoring-light"}
+{"skillType":"active"}
+{"slug":"repentance"}
+{"subcategoryId":"templar-restoring-light"}
+{"title":"Repentance"}
+{"type":"page-type/temper-skill"}

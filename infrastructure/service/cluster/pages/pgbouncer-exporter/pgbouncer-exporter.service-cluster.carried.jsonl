@@ -1,0 +1,11 @@
+{"containerPort":9127}
+{"definition":"the server that publishes the connection pool's state as metrics"}
+{"id":"01a06812-2380-7c17-9f68-cd789c803dea"}
+{"image":"prometheuscommunity/pgbouncer-exporter:v0.12.0"}
+{"manifest":["manifest/pgbouncer-exporter"]}
+{"namespace":"prometheus"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"pgbouncer-exporter"}
+{"slug":"pgbouncer-exporter"}
+{"type":"page-type/service-cluster"}

@@ -1,0 +1,19 @@
+{"baseName":"Prodigy"}
+{"description":"\"Increases your Weapon and Spell Critical rating by 219 for each piece of Light Armor equipped.\\n\\nCurrent bonus: 0.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45561}
+{"icon":"/esoui/art/icons/ability_sorcerer_038.dds"}
+{"id":"019e6238-c2f9-7c9d-a159-a6bfbbbac5f1"}
+{"isMorph":false}
+{"key":"prodigy"}
+{"learnedLevel":1}
+{"lineRankNeeded":38}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"armor-light-armor"}
+{"skillType":"passive"}
+{"slug":"prodigy"}
+{"status":"supported"}
+{"subcategoryId":"armor-light-armor"}
+{"title":"Prodigy"}
+{"type":"page-type/temper-skill"}

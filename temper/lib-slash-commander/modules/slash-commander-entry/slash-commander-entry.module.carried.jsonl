@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The bundle the transpiler writes starts here."},{"decisionKind":"decision-kind/departure","statement":"Every part of the library is loaded before the chat entry is hooked."}]}
+{"definition":"the global the game reads the slash command library from once the addon loads"}
+{"id":"01a06066-8404-74f8-810a-0930b5a79f11"}
+{"slug":"slash-commander-entry"}
+{"type":"page-type/module"}

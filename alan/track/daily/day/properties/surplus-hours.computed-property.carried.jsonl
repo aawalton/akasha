@@ -1,0 +1,9 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A day holding neither sleep nor spend states no surplus."}]}
+{"definition":"how much of the night's sleep the day has not spent"}
+{"holds":"number"}
+{"id":"01a072ee-1b88-7b44-a2b4-9cb40106ef0e"}
+{"propertySlug":"surplus-hours"}
+{"slug":"surplus-hours"}
+{"type":"page-type/computed-property"}
+{"types":"ts"}

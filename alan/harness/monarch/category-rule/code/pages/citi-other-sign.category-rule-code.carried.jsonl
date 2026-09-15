@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcd0-7001-bb00-0b2a174dbf38"}
+{"matches":[{"key":"merchant","comparison":"is","values":["citi"]},{"key":"account","comparison":"is","values":["1425"]},{"key":"sign","comparison":"is-not","values":["positive"]}]}
+{"slug":"citi-other-sign"}
+{"title":"Citi other sign"}
+{"type":"page-type/category-rule-code"}

@@ -1,0 +1,17 @@
+{"baseName":"Imbue Weapon"}
+{"description":"\"Infuse your weapon with power, causing your next Light Attack used within 2 seconds to deal an additional 2160 Physical Damage and applying Major Breach to the target, reducing their Physical and Spell Resistance by 5948 for 5 seconds.\\n\\nIf the power is not consumed in time, you restore 1620 Stamina.\""}
+{"esoSkillId":40103623}
+{"icon":"/esoui/art/icons/ability_psijic_003_b.dds"}
+{"id":"019e6238-c2ae-7964-9304-d56fce123ea0"}
+{"isMorph":true}
+{"key":"crushing-weapon"}
+{"learnedLevel":3}
+{"lineRankNeeded":3}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"guild-psijic-order"}
+{"skillType":"active"}
+{"slug":"crushing-weapon"}
+{"subcategoryId":"guild-psijic-order"}
+{"title":"Crushing Weapon"}
+{"type":"page-type/temper-skill"}

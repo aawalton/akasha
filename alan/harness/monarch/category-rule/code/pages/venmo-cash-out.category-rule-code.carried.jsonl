@@ -1,0 +1,7 @@
+{"category":"monarch-category/transfer"}
+{"counterpartWithinDays":7}
+{"id":"01a0655b-fcdb-7004-a0e8-2eabacb1cfc0"}
+{"matches":[{"key":"merchant","comparison":"is","values":["standard transfer"]},{"key":"account","comparison":"is","values":["Personal Profile"]},{"key":"sign","comparison":"is","values":["negative"]}]}
+{"slug":"venmo-cash-out"}
+{"title":"Venmo cash out"}
+{"type":"page-type/category-rule-code"}

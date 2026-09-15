@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"At most five drop locations are shown in one row."},{"decisionKind":"decision-kind/departure","statement":"The setting can append a set's English name to the set's own name."}]}
+{"definition":"the row each set becomes in the result list"}
+{"id":"01a0623e-53a0-7c7c-944a-09cd92bf699b"}
+{"slug":"lib-sets-search-ui-list-build"}
+{"type":"page-type/module"}

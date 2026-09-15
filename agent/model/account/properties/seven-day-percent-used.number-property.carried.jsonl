@@ -1,0 +1,7 @@
+{"definition":"how much of the seven-day allowance is spent"}
+{"id":"01a054d8-1d39-7b82-b6e2-afc9026c368b"}
+{"max":100}
+{"propertySlug":"seven-day-percent-used"}
+{"slug":"seven-day-percent-used"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

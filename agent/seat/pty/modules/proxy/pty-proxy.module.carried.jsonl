@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"a pseudo-terminal around a seat's supervisor, carrying keys, size and death both ways"}
+{"id":"01a069c2-9357-7003-bbea-553c17c4e0dd"}
+{"slug":"pty-proxy"}
+{"type":"page-type/module"}

@@ -1,0 +1,14 @@
+{"app":"ios-app/smilingjenny"}
+{"component":"ios-component/categorize-ring"}
+{"definition":"the tile on Jenny's phone showing how many transactions are unreviewed"}
+{"families":["small"]}
+{"feed":"https://smilingjenny.me/api/categorization"}
+{"galleryDescription":"How many of the past year's transactions Monarch is waiting to have reviewed."}
+{"galleryName":"Left to Review"}
+{"groups":["readout-group/categorization"]}
+{"id":"01a05bc7-0b84-7700-8d53-60de383bacaa"}
+{"kind":"CategorizeWidget"}
+{"opens":"capacitor://monarch-relay#widget=smilingjenny-categorize"}
+{"place":1}
+{"slug":"smilingjenny-categorize"}
+{"type":"page-type/readout-widget"}

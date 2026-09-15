@@ -1,0 +1,7 @@
+{"definition":"how many of an item are listed for sale"}
+{"id":"01a06053-b37b-79a4-bcdc-eb5b3f03cab2"}
+{"max":null}
+{"propertySlug":"amount-count"}
+{"slug":"amount-count"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

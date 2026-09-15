@@ -1,0 +1,15 @@
+{"app":"ios-app/alanwalton"}
+{"caption":"Safety"}
+{"component":"ios-component/alanwalton-safety-level-widget"}
+{"definition":"the tile on Alan's phone showing how safe things are where he is"}
+{"families":["small"]}
+{"feed":"https://alanwalton.com/api/safety-level"}
+{"galleryDescription":"Where your safety level is today."}
+{"galleryName":"Safety"}
+{"groups":["readout-group/safety"]}
+{"id":"01a06420-b259-7d0c-85e8-0e67ee23e107"}
+{"kind":"SafetyLevelWidget"}
+{"opens":"capacitor://localhost/nav/tracking-690c624f?tab=019edbf5-d4ea-7380-a6be-bc7496dbb24c#widget=alanwalton-safety-level"}
+{"place":9}
+{"slug":"alanwalton-safety-level"}
+{"type":"page-type/readout-widget"}

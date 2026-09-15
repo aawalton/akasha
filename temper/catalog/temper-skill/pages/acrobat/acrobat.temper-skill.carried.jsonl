@@ -1,0 +1,18 @@
+{"baseName":"Acrobat"}
+{"description":"\"Increases your experience gain with the Bow skill line by 15%.\\n\\nDecreases your fall damage taken by 10%.\""}
+{"esoSkillId":36008}
+{"icon":"/esoui/art/icons/passive_weapon_025.dds"}
+{"id":"019e624a-12b9-798a-9982-64a12171e461"}
+{"isMorph":false}
+{"key":"acrobat"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"racial-wood-elf-skills"}
+{"skillType":"passive"}
+{"slug":"acrobat"}
+{"status":"unsupported"}
+{"subcategoryId":"racial-wood-elf-skills"}
+{"title":"Acrobat"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An item whose merchant value is zero or absent fails the can-sell condition."},{"decisionKind":"decision-kind/departure","statement":"Companion equippability is decided by a trait type in the range 34 through 60."},{"decisionKind":"decision-kind/departure","statement":"A set id with no category mapping is treated as the no-type source type."},{"decisionKind":"decision-kind/absence","statement":"An item with no set id skips the set source type check entirely."}]}
+{"definition":"the condition check over an item's sellability, name, trait, and set source type"}
+{"id":"01a06137-f962-70e4-b657-15f603e5b645"}
+{"slug":"check-classification"}
+{"type":"page-type/module"}

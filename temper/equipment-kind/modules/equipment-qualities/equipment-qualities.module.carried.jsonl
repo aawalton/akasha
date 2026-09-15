@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A quality's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A quality moved to another place breaks every build hash saved."}]}
+{"definition":"the quality tiers a piece of equipment is made at, from no quality up to mythic"}
+{"id":"01a060b8-08c6-7141-8b6e-044cf34927d5"}
+{"slug":"equipment-qualities"}
+{"type":"page-type/module"}

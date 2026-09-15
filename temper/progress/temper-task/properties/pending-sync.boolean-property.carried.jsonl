@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The watcher clears this property as soon as that watcher has written the task out."}]}
+{"definition":"whether a task has changed since the watcher last carried it out to the game"}
+{"id":"01a06d85-7b22-7be6-8897-ac848f243c69"}
+{"propertySlug":"pending-sync"}
+{"slug":"pending-sync"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

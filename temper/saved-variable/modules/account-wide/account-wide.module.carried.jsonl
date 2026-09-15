@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An account key begins with an at sign."},{"decisionKind":"decision-kind/departure","statement":"The first account with an account-wide table is taken."},{"decisionKind":"decision-kind/constraint","statement":"A key the schema does not name is carried through rather than dropped."},{"decisionKind":"decision-kind/departure","statement":"A file with no account-wide table reads as nothing rather than as a failure."}]}
+{"definition":"the part of a saved-variables table every character on one account shares"}
+{"id":"01a06053-3636-700a-9f99-a7c1b8442ab7"}
+{"slug":"account-wide"}
+{"type":"page-type/module"}

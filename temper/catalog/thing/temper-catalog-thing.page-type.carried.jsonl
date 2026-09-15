@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A thing's effect is stated in one shape whatever kind of thing has the effect."}]}
+{"definition":"anything the game itself holds that temper mirrors a page for"}
+{"extends":["page-type/temper-thing"]}
+{"id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}
+{"parts":["boolean-property/available","boolean-property/is-two-handed","boolean-property/per-weapon","number-property/effect-seconds","number-property/effect-value","number-property/item-id","number-property/quality-value","number-property/value-per-ability","number-property/value-per-piece","page-property-entry/effects","page-property-entry/quality-values","text-property/achievement-name","text-property/armor-weight","text-property/effect","text-property/effect-type","text-property/effect-weapon-types","text-property/eso-trait-constant-name","text-property/material","text-property/poi-name","text-property/quality","text-property/skill-line-id","text-property/skill-type","text-property/slotted-behavior","text-property/subcategory-id","text-property/value-type"]}
+{"properties":[{"pageProperty":"text-property/effect","required":false,"many":false},{"pageProperty":"text-property/material","required":false,"many":false},{"pageProperty":"text-property/eso-trait-constant-name","required":false,"many":false},{"pageProperty":"page-property-entry/effects","required":false,"many":false},{"pageProperty":"page-property-entry/quality-values","required":false,"many":false},{"pageProperty":"boolean-property/available","required":false,"many":false},{"pageProperty":"boolean-property/is-two-handed","required":false,"many":false},{"pageProperty":"number-property/item-id","required":false,"many":false},{"pageProperty":"text-property/skill-line-id","required":false,"many":false},{"pageProperty":"text-property/skill-type","required":false,"many":false},{"pageProperty":"text-property/subcategory-id","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-catalog-thing"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

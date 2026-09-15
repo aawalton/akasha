@@ -1,0 +1,19 @@
+{"baseName":"Rapid Mending"}
+{"description":"\"Increases your healing received by 1% for each piece of Heavy Armor worn.\\n\\nCurrent bonus: 0%\""}
+{"effects":"jsonl"}
+{"esoSkillId":45529}
+{"icon":"/esoui/art/icons/ability_armor_015.dds"}
+{"id":"019e6238-c2fc-77f3-a462-75fb8f0ce69a"}
+{"isMorph":false}
+{"key":"rapid-mending"}
+{"learnedLevel":1}
+{"lineRankNeeded":42}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"armor-heavy-armor"}
+{"skillType":"passive"}
+{"slug":"rapid-mending"}
+{"status":"supported"}
+{"subcategoryId":"armor-heavy-armor"}
+{"title":"Rapid Mending"}
+{"type":"page-type/temper-skill"}

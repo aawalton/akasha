@@ -1,0 +1,8 @@
+{"displayOrder":2}
+{"id":"019e2fcd-596d-72e3-b739-ddce4d2df4bd"}
+{"nodeId":"damage-done-base"}
+{"nodeType":"metric"}
+{"parent":"subcategory-damage-done"}
+{"slug":"metric-damage-done-base"}
+{"title":"Damage Done Base"}
+{"type":"page-type/temper-metric-tree"}

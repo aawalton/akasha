@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"a game state narrowed to the hud, beats, quests, sheet and chapter links a browser gets"}
+{"id":"01a0628e-a5da-732b-938e-933b89640adc"}
+{"slug":"client-session"}
+{"type":"page-type/module"}

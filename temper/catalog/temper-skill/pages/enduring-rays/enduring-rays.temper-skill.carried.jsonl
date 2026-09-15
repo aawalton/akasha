@@ -1,0 +1,18 @@
+{"baseName":"Enduring Rays"}
+{"description":"\"Increases the duration of your Sun Fire, Eclipse, Solar Flare, and Nova abilities by 2 seconds.\""}
+{"esoSkillId":45214}
+{"icon":"/esoui/art/icons/ability_templar_020.dds"}
+{"id":"019e6245-a669-781b-87db-a3f22f3cb9c5"}
+{"isMorph":false}
+{"key":"enduring-rays"}
+{"learnedLevel":18}
+{"lineRankNeeded":18}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"templar-dawns-wrath"}
+{"skillType":"passive"}
+{"slug":"enduring-rays"}
+{"status":"unsupported"}
+{"subcategoryId":"templar-dawns-wrath"}
+{"title":"Enduring Rays"}
+{"type":"page-type/temper-skill"}

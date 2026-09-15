@@ -1,0 +1,8 @@
+{"displayOrder":1}
+{"id":"019e2fcd-59ad-71a8-977a-4f7ac974e8ad"}
+{"nodeId":"ha-flame-weapon-damage"}
+{"nodeType":"metric"}
+{"parent":"subcategory-ha-power"}
+{"slug":"metric-ha-flame-weapon-damage"}
+{"title":"Ha Flame Weapon Damage"}
+{"type":"page-type/temper-metric-tree"}

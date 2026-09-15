@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Levelling a morph is the only sense this condition is asked in."}]}
+{"definition":"the shape of the condition asking whether a character can still level a morph"}
+{"id":"01a060d9-44c9-73f5-b636-a71e11ca32f5"}
+{"slug":"can-level-morphs-filter-types"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One line is one currency held under one scope."},{"decisionKind":"decision-kind/departure","statement":"A currency held across the whole account names no character."},{"decisionKind":"decision-kind/departure","statement":"A currency held by one character names when that character was last read."}]}
+{"definition":"how much of each currency is held, one purse to a line"}
+{"id":"01a0675a-f185-764c-991b-b24e3698ed52"}
+{"properties":[{"pageProperty":"text-property/currency-scope","required":true,"many":false},{"pageProperty":"text-property/eso-character-id","required":false,"many":false},{"pageProperty":"relation-property/currency-key","required":true,"many":false},{"pageProperty":"number-property/currency-amount","required":true,"many":false},{"pageProperty":"instant-property/last-scanned-at","required":false,"many":false}]}
+{"propertySlug":"currencies"}
+{"slug":"currencies"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

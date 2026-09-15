@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A metric names the unit its readings are counted in."},{"decisionKind":"decision-kind/departure","statement":"A stored reading has the instant the reading arrived on top of the value read."},{"decisionKind":"decision-kind/absence","statement":"Nothing here exists at runtime beyond the two lists of metrics."}]}
+{"definition":"what a health reading has, and the metrics one can be"}
+{"id":"01a05bc7-9129-7001-9204-f43ce2046c31"}
+{"slug":"sample-shape"}
+{"type":"page-type/module"}

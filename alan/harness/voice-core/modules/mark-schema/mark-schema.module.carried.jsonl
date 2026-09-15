@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A mark with a field the shape does not name is refused."}]}
+{"definition":"the shape of a mark saying which sentence starts and how far into the audio it does"}
+{"id":"01a05b55-e06e-7c35-ae5b-23e9ba1006ae"}
+{"slug":"mark-schema"}
+{"type":"page-type/module"}

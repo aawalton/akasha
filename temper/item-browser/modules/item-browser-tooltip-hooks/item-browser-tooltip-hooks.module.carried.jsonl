@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An argument of an unknown kind is narrowed where that argument is read rather than by a helper."}]}
+{"definition":"the game tooltips this add-on attaches its extra lines to"}
+{"id":"01a06178-3722-7072-929f-386663022358"}
+{"slug":"item-browser-tooltip-hooks"}
+{"type":"page-type/module"}

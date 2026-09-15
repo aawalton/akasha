@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Meteor"}
+{"description":"\"Call a comet down from the constellations to blast an enemy, dealing |cffffff17640|r Flame Damage to up to 3 enemies in the area, knocking them down, and stunning them for |cffffff2|r seconds.\""}
+{"esoSkillId":246494}
+{"icon":"/esoui/art/icons/ability_mageguild_005.dds"}
+{"id":"019e6f53-a93e-7ba8-9b67-b2b16a11006a"}
+{"isMorph":false}
+{"key":"vengeance-meteor"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-guild-mages-guild"}
+{"skillType":"ultimate"}
+{"slug":"vengeance-meteor"}
+{"subcategoryId":"vengeance-guild-mages-guild"}
+{"title":"Vengeance Meteor"}
+{"type":"page-type/temper-skill"}

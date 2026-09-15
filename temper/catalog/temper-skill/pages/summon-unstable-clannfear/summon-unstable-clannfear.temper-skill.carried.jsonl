@@ -1,0 +1,17 @@
+{"baseName":"Summon Unstable Familiar"}
+{"description":"\"Command the powers of Oblivion to send a Daedric clannfear to fight at your side. The clannfear's headbutt deals 358 Physical Damage, while its tail spike hits nearby enemies for 358 Physical Damage after 1 second.  \\n\\nOnce summoned, you can activate the clannfear's special ability for 4320 Magicka, healing you for 5121 and the clannfear for 2560.\\n\\nThe clannfear remains until killed or unsummoned.\""}
+{"esoSkillId":30657}
+{"icon":"/esoui/art/icons/ability_sorcerer_unstable_clannfear.dds"}
+{"id":"019e6245-a748-7d15-b460-9247db25c598"}
+{"isMorph":true}
+{"key":"summon-unstable-clannfear"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"sorcerer-daedric-summoning"}
+{"skillType":"active"}
+{"slug":"summon-unstable-clannfear"}
+{"subcategoryId":"sorcerer-daedric-summoning"}
+{"title":"Summon Unstable Clannfear"}
+{"type":"page-type/temper-skill"}

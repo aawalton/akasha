@@ -1,0 +1,9 @@
+{"allowed":false}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A word inside backticks is a name rather than a quantifier."},{"decisionKind":"decision-kind/departure","statement":"A quantifier determining a backticked name is passed over."},{"decisionKind":"decision-kind/departure","statement":"A quantifier heading `each other` or `one another` counts nothing."},{"decisionKind":"decision-kind/departure","statement":"A quantifier whose fixed part is `than` is comparing rather than counting."}]}
+{"definition":"a quantifier used where a noun would be"}
+{"id":"01a05dbf-e1d8-7c53-8118-ff93ef6f72a0"}
+{"reason":"A quantifier makes a reader find what it counts where naming it does not."}
+{"slug":"lone-quantifier"}
+{"test":"ts"}
+{"type":"page-type/sentence-shape"}

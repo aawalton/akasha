@@ -1,0 +1,8 @@
+{"displayOrder":0}
+{"id":"019e2fcd-59f7-7ff8-be26-8a74ab41bd9b"}
+{"nodeId":"stamina-ability-cost"}
+{"nodeType":"metric"}
+{"parent":"subcategory-stamina"}
+{"slug":"metric-stamina-ability-cost"}
+{"title":"Stamina Ability Cost"}
+{"type":"page-type/temper-metric-tree"}

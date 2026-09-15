@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A build raising the state generation drops every anchor the device already has."},{"decisionKind":"decision-kind/departure","statement":"Repairing the drain without dropping the cursor ships a build that streams nothing."},{"decisionKind":"decision-kind/absence","statement":"Nothing on the phone decides the bounds of a day."},{"decisionKind":"decision-kind/departure","statement":"Every window over these samples is a query the server runs against stored rows."}]}
+{"definition":"the Swift declaring the health-samples intent's metrics and batch limits"}
+{"id":"01a0595b-ef59-77d8-8fc2-aa1d1a50d200"}
+{"shell":"sh"}
+{"slug":"alanwalton-health-intent-declaration"}
+{"sourced":true}
+{"type":"page-type/shell-script"}

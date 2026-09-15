@@ -1,0 +1,6 @@
+{"bytecodeDirectory":true}
+{"definition":"the Creative BT-W5 transmitter's codec and headset mode set over its hidraw interface"}
+{"id":"01a06864-40db-7ab8-867f-5c628bb6ad8d"}
+{"python":"py"}
+{"slug":"btw5"}
+{"type":"page-type/python-module"}

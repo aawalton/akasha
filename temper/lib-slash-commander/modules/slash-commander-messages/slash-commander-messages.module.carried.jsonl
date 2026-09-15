@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A message is English and is not translated."},{"decisionKind":"decision-kind/departure","statement":"A kind is numbered rather than named."},{"decisionKind":"decision-kind/departure","statement":"A kind has a color of its own."},{"decisionKind":"decision-kind/departure","statement":"A color is written as the game's own inline color markup."}]}
+{"definition":"what a misuse of the library is said to be, and the color of each command kind"}
+{"id":"01a06066-8403-7611-aa81-51c10a7f7f77"}
+{"slug":"slash-commander-messages"}
+{"type":"page-type/module"}

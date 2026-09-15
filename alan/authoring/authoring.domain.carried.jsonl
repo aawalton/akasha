@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A book here is built in sessions between Alan and a persona."},{"decisionKind":"decision-kind/departure","statement":"Every page kept here is kept about a book rather than inside the book."},{"decisionKind":"decision-kind/departure","statement":"A book Alan writes is not a book Alan reads."},{"decisionKind":"decision-kind/gap","statement":"The books themselves are outside akasha."}]}
+{"definition":"the books Alan writes with a persona"}
+{"id":"01a0657d-b91d-7000-a1e5-8f2537828ffb"}
+{"parts":["page-type/book-record"]}
+{"slug":"authoring"}
+{"type":"page-type/domain"}

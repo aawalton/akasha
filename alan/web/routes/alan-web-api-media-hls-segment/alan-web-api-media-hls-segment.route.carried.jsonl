@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"one audio segment of a page's HLS playlist"}
+{"id":"01a082a0-97c1-789d-a1af-a13317edf032"}
+{"slug":"alan-web-api-media-hls-segment"}
+{"type":"page-type/route"}
+{"urlPath":"api/media/:pageId/:medium/hls/:segment"}

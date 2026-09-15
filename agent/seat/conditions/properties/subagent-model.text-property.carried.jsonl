@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A subagent whose kind names no model answers on the model named here."}]}
+{"definition":"the model a seat's subagents answer on rather than the seat's own"}
+{"id":"01a06861-f664-7cf4-a6e6-849205f43fff"}
+{"maxLength":40}
+{"nameFormat":null}
+{"propertySlug":"subagent-model"}
+{"slug":"subagent-model"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

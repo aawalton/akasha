@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The checkout is the one the environment a unit states names."},{"decisionKind":"decision-kind/departure","statement":"A run the environment names no checkout for works under the directory that run started in."}]}
+{"definition":"the checkout a workstation service's run reads and writes under"}
+{"id":"01a08df8-2f20-7590-8d5b-082a6a92bfc1"}
+{"slug":"service-checkout"}
+{"type":"page-type/module"}

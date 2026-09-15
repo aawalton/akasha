@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A tag is made in Monarch by hand."},{"decisionKind":"decision-kind/departure","statement":"Nothing here creates a tag."}]}
+{"definition":"a label applied to a transaction"}
+{"extends":["page-type/monarch-record"]}
+{"id":"01a0680a-1a00-700f-a758-9b2c6e3f110f"}
+{"parts":["number-property/tag-place","text-property/tag-colour"]}
+{"properties":[{"pageProperty":"text-property/tag-colour","required":true,"many":false},{"pageProperty":"number-property/tag-place","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"monarch-tag"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

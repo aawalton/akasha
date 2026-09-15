@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A group's total is the sum of the item values the group has."},{"decisionKind":"decision-kind/departure","statement":"An item with no value leaves the group total unknown."}]}
+{"definition":"the plan's items gathered into groups by the action taken on them"}
+{"id":"01a0615a-a1db-77c0-bfca-77236df241ac"}
+{"slug":"inventory-management-plan-grouping"}
+{"type":"page-type/module"}

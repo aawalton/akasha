@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Dive"}
+{"description":"\"Command a cliff racer to dive bomb an enemy, dealing |cffffff10017|r Magic Damage. \\n\\nThis ability cannot be blocked.\""}
+{"esoSkillId":238000}
+{"icon":"/esoui/art/icons/ability_warden_013.dds"}
+{"id":"019e6f53-a8f0-71d1-947c-b4423e9f0d27"}
+{"isMorph":false}
+{"key":"vengeance-dive"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-warden-animal-companions"}
+{"skillType":"active"}
+{"slug":"vengeance-dive"}
+{"subcategoryId":"vengeance-warden-animal-companions"}
+{"title":"Vengeance Dive"}
+{"type":"page-type/temper-skill"}

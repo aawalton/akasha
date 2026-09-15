@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The key each reading travels under is `inbox` rather than `habit`."},{"decisionKind":"decision-kind/departure","statement":"The tile shipped against this reads that key as text that is always there."},{"decisionKind":"decision-kind/departure","statement":"Every readout the inboxes group admits answers a ring of its own."},{"decisionKind":"decision-kind/departure","statement":"Both inbox scales fall rather than climb."}]}
+{"definition":"Alan's inboxes as the colors their counts reach"}
+{"id":"01a072b2-59cc-72dc-9f34-01e609e3f191"}
+{"slug":"inbox-stoplights"}
+{"test":"ts"}
+{"type":"page-type/route"}
+{"urlPath":"api/inbox-stoplights"}

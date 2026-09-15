@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Two faults differing in line numbers or asset hashes alone fingerprint alike."}]}
+{"definition":"the one value two accounts of the same fault share"}
+{"id":"01a05c48-deeb-7016-a6d6-1a0c3bcc2c59"}
+{"slug":"error-fingerprint"}
+{"type":"page-type/module"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A Spotify track id is 22 characters of letters and digits."}]}
+{"definition":"the id Spotify keeps a track under"}
+{"id":"01a06240-340f-7007-82de-0827e2457e43"}
+{"maxLength":22}
+{"nameFormat":null}
+{"propertySlug":"spotify-track-id"}
+{"slug":"spotify-track-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

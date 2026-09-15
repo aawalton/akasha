@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A readout whose last take answered a number carries nothing here."},{"decisionKind":"decision-kind/departure","statement":"The first take to answer nothing writes this."},{"decisionKind":"decision-kind/departure","statement":"The takes after leave this as it is."},{"decisionKind":"decision-kind/departure","statement":"This is taken away by the take that answers a number again."},{"decisionKind":"decision-kind/departure","statement":"A watch that has taken a readout no time yet reads it as answering nothing."},{"decisionKind":"decision-kind/departure","statement":"Answering nothing is a fact about a readout rather than a fault of its watch."}]}
+{"definition":"when a readout began answering nothing where a number was asked of it"}
+{"id":"01a08caf-b3c1-73e9-9237-f5ea2af2731e"}
+{"propertySlug":"went-silent-at"}
+{"slug":"went-silent-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

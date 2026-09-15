@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is assembled from three runs rather than declared in one place."},{"decisionKind":"decision-kind/departure","statement":"A run has a contiguous stretch of the companion metrics table."},{"decisionKind":"decision-kind/constraint","statement":"A metric with a formula is worked out after every metric the formula reads."},{"decisionKind":"decision-kind/absence","statement":"No companion build hash has a metric's place in this table."}]}
+{"definition":"every companion metric gathered into one table, keyed by metric id"}
+{"id":"01a06152-c2cb-7faa-af35-b220143e5186"}
+{"slug":"companion-metrics"}
+{"type":"page-type/module"}

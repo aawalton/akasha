@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A job is watched by polling rather than by a stream."},{"decisionKind":"decision-kind/departure","statement":"A job neither done nor failed within the ceiling is answered as a timeout."},{"decisionKind":"decision-kind/departure","statement":"A job's log is read from the first pod that job made."},{"decisionKind":"decision-kind/departure","statement":"A job that made no pod has an empty log."}]}
+{"definition":"work the cluster runs once to completion, and what it wrote while running"}
+{"id":"01a068d4-d2aa-72e1-bfcb-3e3912d25e2d"}
+{"slug":"cluster-jobs"}
+{"type":"page-type/module"}

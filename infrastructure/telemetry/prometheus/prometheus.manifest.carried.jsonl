@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"definition":"the metrics server, its namespace, its access rules, its storage, its configuration and its way in"}
+{"generatedDirectory":true}
+{"id":"01a07398-73c3-7425-83fd-0ccdc373d439"}
+{"parts":["module/prometheus-config","module/prometheus-manifests"]}
+{"slug":"prometheus"}
+{"type":"page-type/manifest"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A plant processed into something else stops counting."},{"decisionKind":"decision-kind/departure","statement":"Muesli counts and bread does not."},{"decisionKind":"decision-kind/departure","statement":"A plant grams figure is captured by judgment."}]}
+{"definition":"the grams of whole plant one thing eaten contributes"}
+{"id":"01a065a3-6e8b-7b5a-a3cc-f1016adcd288"}
+{"max":null}
+{"propertySlug":"plant-grams"}
+{"slug":"plant-grams"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

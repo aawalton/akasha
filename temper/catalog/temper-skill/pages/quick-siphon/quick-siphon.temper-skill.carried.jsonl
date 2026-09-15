@@ -1,0 +1,17 @@
+{"baseName":"Force Siphon"}
+{"description":"\"Focus your staff's power to apply Minor Lifesteal to an enemy for 30 seconds, healing you and your allies for 600 Health every 1 second when damaging them.\\n\\nWhen you or an ally hits the target, they gain Minor Expedition, which increases their Movement Speed by 15% for 4 seconds.\""}
+{"esoSkillId":41239}
+{"icon":"/esoui/art/icons/ability_restorationstaff_005_b.dds"}
+{"id":"019e6226-0106-76e9-9869-6e4a7951614d"}
+{"isMorph":true}
+{"key":"quick-siphon"}
+{"learnedLevel":38}
+{"lineRankNeeded":38}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"quick-siphon"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Quick Siphon"}
+{"type":"page-type/temper-skill"}

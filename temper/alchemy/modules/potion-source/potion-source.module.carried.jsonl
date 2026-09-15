@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A potion's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A potion moved to another place breaks every build hash saved."}]}
+{"definition":"every potion a character drinks, gathered into one table"}
+{"id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
+{"slug":"potion-source"}
+{"type":"page-type/module"}

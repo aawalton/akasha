@@ -1,0 +1,7 @@
+{"definition":"the service carrying the sleep hours to the sites that show them"}
+{"enabled":true}
+{"id":"01a06220-ef8c-7a3e-a40b-06bc3fc01541"}
+{"needsSecrets":true}
+{"slug":"sleep-relay-service"}
+{"systemd":{"schedule":"*:2/5","jitterSeconds":30,"startTimeoutSeconds":60,"catchUp":false}}
+{"type":"page-type/service-workstation"}

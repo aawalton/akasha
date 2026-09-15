@@ -1,0 +1,17 @@
+{"baseName":"Cleave"}
+{"description":"\"Focus your strength into a mighty swing, dealing 1742 Physical Damage to enemies in front of you.\\n\\nYou also gain a damage shield that absorbs 1799 damage for 6 seconds. Each enemy hit increases the damage shield's strength by 50%, up to 300%.\""}
+{"esoSkillId":39769}
+{"icon":"/esoui/art/icons/ability_2handed_002_b.dds"}
+{"id":"019e6226-00da-73ba-b733-71ae9a655794"}
+{"isMorph":true}
+{"key":"brawler"}
+{"learnedLevel":14}
+{"lineRankNeeded":14}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"active"}
+{"slug":"brawler"}
+{"subcategoryId":"weapon-two-handed"}
+{"title":"Brawler"}
+{"type":"page-type/temper-skill"}

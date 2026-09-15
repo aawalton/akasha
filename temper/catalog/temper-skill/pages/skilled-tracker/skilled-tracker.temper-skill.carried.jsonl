@@ -1,0 +1,19 @@
+{"baseName":"Skilled Tracker"}
+{"description":"\"Your Fighters Guild abilities deal an additional 10% damage. This bonus doubles against player Vampires and Werewolves.\""}
+{"effects":"jsonl"}
+{"esoSkillId":40393}
+{"icon":"/esoui/art/icons/ability_armor_007.dds"}
+{"id":"019e6238-c310-7721-bea9-602d3571a071"}
+{"isMorph":false}
+{"key":"skilled-tracker"}
+{"learnedLevel":1}
+{"lineRankNeeded":7}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"guild-fighters-guild"}
+{"skillType":"passive"}
+{"slug":"skilled-tracker"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-fighters-guild"}
+{"title":"Skilled Tracker"}
+{"type":"page-type/temper-skill"}

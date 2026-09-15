@@ -1,0 +1,13 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/stock"}
+{"active":true}
+{"categoryId":"potions"}
+{"conditions":"jsonl"}
+{"destinationChain":"jsonl"}
+{"displayOrder":20}
+{"id":"01a0728a-f56d-7fbc-b5db-16a0fc5dc403"}
+{"slug":"rule-8c4ddebf"}
+{"stockScope":"any-character"}
+{"title":"Stock magicka-restoration potions (white)"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-06-03T05:11:34.742Z"}

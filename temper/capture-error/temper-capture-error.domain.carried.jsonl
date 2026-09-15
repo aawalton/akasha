@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The error add-on and every reader of the add-on's capture agree here."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the game."}]}
+{"definition":"the shape an error raised inside the game takes where the game saves it"}
+{"id":"01a0608a-15b2-7b81-afe8-cbf9d7803e3f"}
+{"parts":["module/errors-descriptor","module/errors-payload"]}
+{"slug":"temper-capture-error"}
+{"type":"page-type/domain"}

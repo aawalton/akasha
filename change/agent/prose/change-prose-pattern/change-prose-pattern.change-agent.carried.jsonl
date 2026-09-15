@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-checked"}
+{"changeMode":"change-mode/change-mode-change"}
+{"changeTargetSubtype":"change-target-subtype/prose-pattern"}
+{"changeTargetType":"change-target-type/prose"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The spellings and the pairs are read off the banned term rather than handed in."},{"decisionKind":"decision-kind/departure","statement":"A count says how many passages are restated."},{"decisionKind":"decision-kind/departure","statement":"Naming no count restates every passage."},{"decisionKind":"decision-kind/departure","statement":"The restatements are worked out by the change reached."},{"decisionKind":"decision-kind/departure","statement":"The act reached names `relation-reaches-a-page`."},{"decisionKind":"decision-kind/departure","statement":"A refusal may name a relation no passage in the batch touched."},{"decisionKind":"decision-kind/constraint","statement":"This runs only where the model the parser reads is."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a page's own body."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."}]}
+{"definition":"every passage a banned term is written in restated in the words written instead"}
+{"id":"01a0824b-a376-7b9f-a01a-c3a1e81c3286"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":3072}
+{"slug":"change-prose-pattern"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A process is over its ceiling on resident memory rather than on shared memory."},{"decisionKind":"decision-kind/departure","statement":"A tree is weighed on the proportional memory its whole subtree has."},{"decisionKind":"decision-kind/departure","statement":"A supervisor sitting under another supervisor is no tree root of its own."},{"decisionKind":"decision-kind/departure","statement":"Memory a per-process kill already reclaims is left out of its tree's total."},{"decisionKind":"decision-kind/departure","statement":"A leg says why that leg decided as that leg did whether or not that leg decided to kill."}]}
+{"definition":"whether one process or one supervisor tree is over its memory ceiling"}
+{"id":"01a0686c-f06b-7001-9b7d-734cdb98ac14"}
+{"slug":"memory-reaper-legs"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,11 @@
+{"containerPort":9090}
+{"definition":"the server collecting the metrics every part publishes and keeping them over time"}
+{"id":"01a06812-2380-7ad2-b1c3-165a11cded21"}
+{"image":"prom/prometheus:v2.54.1"}
+{"manifest":["manifest/prometheus"]}
+{"namespace":"prometheus"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"prometheus"}
+{"slug":"prometheus"}
+{"type":"page-type/service-cluster"}

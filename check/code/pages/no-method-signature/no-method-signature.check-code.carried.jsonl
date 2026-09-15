@@ -1,0 +1,10 @@
+{"audit":{"maxCpuSeconds":15}}
+{"check":{"maxCpuSeconds":1}}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"A call signature is left out."},{"decisionKind":"decision-kind/absence","statement":"A construct signature is left out."},{"decisionKind":"decision-kind/absence","statement":"An index signature is left out."},{"decisionKind":"decision-kind/absence","statement":"So is a method written out rather than declared."},{"decisionKind":"decision-kind/departure","statement":"The method form is refused and the function-type property is not."},{"decisionKind":"decision-kind/departure","statement":"A file named `.d.ts` is passed over."},{"decisionKind":"decision-kind/departure","statement":"A declaration file names a shape another language or another writer already named."}]}
+{"definition":"the check refusing a method signature in an interface or a type literal"}
+{"id":"01a04bc8-6c64-7482-a9b8-f0d6e14e546d"}
+{"runsOnAudit":true}
+{"runsOnChange":true}
+{"runsOnDeploy":true}
+{"slug":"no-method-signature"}
+{"type":"page-type/check-code"}

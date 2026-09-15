@@ -1,0 +1,8 @@
+{"definition":"where a set is got from"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fd1-d441-711d-bcc5-d8bf635f2b8f"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-set-category"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

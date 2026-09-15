@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A change to the tabs or the groups or the terminals is read after a pause."},{"decisionKind":"decision-kind/departure","statement":"A pause restarted by a second change replaces the first."},{"decisionKind":"decision-kind/departure","statement":"A terminal tab names the seat in that tab and the process running in that tab."},{"decisionKind":"decision-kind/departure","statement":"A tab that is no terminal is named by its kind and its uri."},{"decisionKind":"decision-kind/departure","statement":"A tab kind that is none of the known kinds is named `other`."},{"decisionKind":"decision-kind/departure","statement":"The active group and the active tab are named."},{"decisionKind":"decision-kind/departure","statement":"A read of the terminals is recorded as a sweep."},{"decisionKind":"decision-kind/departure","statement":"A window that could not read the seats is read with no seat named."},{"decisionKind":"decision-kind/departure","statement":"The reading goes to the observation store rather than to a page or a file."}]}
+{"definition":"the groups, tabs and seats this window has, read after each change settles"}
+{"id":"01a06816-69fa-7002-9dd6-1f0b942d72c6"}
+{"slug":"editor-layout-panel"}
+{"type":"page-type/module"}

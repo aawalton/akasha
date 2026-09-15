@@ -1,0 +1,17 @@
+{"baseName":"Future Focus"}
+{"description":"\"Grants you two additional Magicka Charges for use in Scrying.\""}
+{"esoSkillId":139781}
+{"icon":"/esoui/art/icons/ability_scrying_07c.dds"}
+{"id":"019e6251-4cba-77ea-b33b-5023063b58c2"}
+{"isMorph":false}
+{"key":"future-focus"}
+{"learnedLevel":8}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"world-scrying"}
+{"skillType":"passive"}
+{"slug":"future-focus"}
+{"subcategoryId":"world-scrying"}
+{"title":"Future Focus"}
+{"type":"page-type/temper-skill"}

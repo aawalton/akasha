@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The home screen opens on the nav item this module's constant names."},{"decisionKind":"decision-kind/gap","statement":"Nothing refuses taking away the nav page that constant names."}]}
+{"definition":"the navigation item the home screen opens on"}
+{"id":"01a0655d-daa7-7945-ac04-32daf772c01c"}
+{"slug":"home-dni"}
+{"type":"page-type/module"}

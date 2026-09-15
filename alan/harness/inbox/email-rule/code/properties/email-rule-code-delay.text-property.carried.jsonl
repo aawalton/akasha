@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A delay is a count of minutes or hours."},{"decisionKind":"decision-kind/departure","statement":"A delay is written as digits and then `m` or `h`."},{"decisionKind":"decision-kind/departure","statement":"A rule stating no delay acts as soon as the mail is read."}]}
+{"definition":"how long after mail arrives before the rule acts on it"}
+{"id":"01a06860-54a0-7230-bcc6-36683850bf02"}
+{"maxLength":10}
+{"nameFormat":null}
+{"propertySlug":"delay"}
+{"slug":"email-rule-code-delay"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

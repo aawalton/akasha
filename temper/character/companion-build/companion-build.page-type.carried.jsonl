@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A build is the arrangement itself rather than the companion wearing that build."},{"decisionKind":"decision-kind/departure","statement":"One companion has many builds."},{"decisionKind":"decision-kind/departure","statement":"One build is shared across companions."},{"decisionKind":"decision-kind/departure","statement":"Two builds arranged alike carry one hash."},{"decisionKind":"decision-kind/departure","statement":"This page type is Temper's while its slug has no temper- prefix."},{"decisionKind":"decision-kind/departure","statement":"A build's name is its title rather than a second field saying the same."}]}
+{"definition":"one saved arrangement of a companion's gear, skills and stats"}
+{"extends":["page-type/temper-character-thing"]}
+{"id":"01a06835-fae8-7a27-90c7-c499c3e046cc"}
+{"parts":["select-property/base-roles"]}
+{"properties":[{"pageProperty":"text-property/build-hash","required":true,"many":false},{"pageProperty":"select-property/build-visibility","required":true,"many":false},{"pageProperty":"text-property/build-correlation-id","required":false,"many":false},{"pageProperty":"number-property/build-target-count","required":false,"many":false},{"pageProperty":"select-property/base-roles","required":false,"many":true,"maxCount":2}]}
+{"schema":"jsonl"}
+{"slug":"companion-build"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

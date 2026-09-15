@@ -1,0 +1,11 @@
+{"containerPort":8888}
+{"definition":"what gives the stored bytes their names and directories"}
+{"id":"01a06816-68b1-7864-ad3f-f262707c3baa"}
+{"image":"chrislusf/seaweedfs:3.73"}
+{"manifest":["manifest/seaweedfs-filer"]}
+{"namespace":"seaweedfs"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"filer"}
+{"slug":"seaweedfs-filer"}
+{"type":"page-type/service-cluster"}

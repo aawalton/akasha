@@ -1,0 +1,6 @@
+{"id":"01a094e5-c2a3-76b4-b5a0-9ee39c13a5ba"}
+{"said":"--keep-last-newline"}
+{"slug":"keep-last-newline"}
+{"takes":"the trailing newline, for a value that is a whole file ending in one"}
+{"type":"page-type/argument"}
+{"value":"none"}

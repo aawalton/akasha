@@ -1,0 +1,8 @@
+{"definition":"nothing is reporting when Postgres was last backed up"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fa-76d4-be89-1a7b1e7ba042"}
+{"runbook":"txt"}
+{"slug":"postgres-backup-metric-absent"}
+{"summary":"Postgres backup-age gauge is absent — scrape lost or plugin metric dead"}
+{"title":"Postgres backup metric absent"}
+{"type":"page-type/alert"}

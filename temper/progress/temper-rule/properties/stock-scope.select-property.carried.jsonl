@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rule counting the current character alone stocks each character apart."}]}
+{"definition":"how widely a stocking rule counts what is already held"}
+{"id":"01a05fd0-3aa6-791c-b6da-a96ebc31c770"}
+{"propertySlug":"stock-scope"}
+{"slug":"stock-scope"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["current-character","any-character"]}

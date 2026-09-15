@@ -1,0 +1,17 @@
+{"baseName":"Bond with Nature"}
+{"description":"\"Anytime one of your Animal Companion skills end, you are healed for |cffffff780|r Health.\""}
+{"esoSkillId":86064}
+{"icon":"/esoui/art/icons/passive_warden_010.dds"}
+{"id":"019e6f53-9f6d-7f1a-bc14-c36ff755c766"}
+{"isMorph":false}
+{"key":"bond-with-nature-86064"}
+{"learnedLevel":8}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":8}
+{"skillLineId":"warden-animal-companions"}
+{"skillType":"passive"}
+{"slug":"bond-with-nature-86064"}
+{"subcategoryId":"warden-animal-companions"}
+{"title":"Bond with Nature"}
+{"type":"page-type/temper-skill"}

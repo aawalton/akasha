@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Which half of the split is chosen is one flag on the library global."},{"decisionKind":"decision-kind/departure","statement":"A row has a type number."},{"decisionKind":"decision-kind/departure","statement":"A keybind row also has the name of the action bound."}]}
+{"definition":"the shape of the library global and of a row in the game's keybinding list"}
+{"id":"01a0605a-051c-71ee-b5b4-2aa2ec58d9e0"}
+{"slug":"addon-keybinds-types"}
+{"type":"page-type/module"}

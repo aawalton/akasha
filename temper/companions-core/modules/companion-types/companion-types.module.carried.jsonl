@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A build names an equipped piece by slot rather than by a list of pieces."}]}
+{"definition":"everything one saved companion build holds"}
+{"id":"01a06119-5cae-707d-b341-15cffa09f8ac"}
+{"slug":"companion-types"}
+{"type":"page-type/module"}

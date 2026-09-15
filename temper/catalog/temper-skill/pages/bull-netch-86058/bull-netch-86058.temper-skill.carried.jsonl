@@ -1,0 +1,17 @@
+{"baseName":"Betty Netch"}
+{"description":"\"Call a bull netch to your side, which restores |cffffff4992|r Stamina to you over |cffffff25|r seconds and grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r%.\\n\\nEvery |cffffff5|r seconds, the netch removes |cffffff1|r negative effect from you. If no negative effects are removed you instead increase your damage done by |cffffff5|r% for |cffffff5|r seconds\""}
+{"esoSkillId":86058}
+{"icon":"/esoui/art/icons/ability_warden_017_b.dds"}
+{"id":"019e6f53-9f9a-7264-beba-1ee393eb884b"}
+{"isMorph":true}
+{"key":"bull-netch-86058"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":2}
+{"rank":30}
+{"skillLineId":"warden-animal-companions"}
+{"skillType":"active"}
+{"slug":"bull-netch-86058"}
+{"subcategoryId":"warden-animal-companions"}
+{"title":"Bull Netch"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,19 @@
+{"baseName":"Battlefield Mobility"}
+{"description":"\"Reduces the Movement Speed penalty of Bracing.\\n\\nCurrent penalty: 36%\""}
+{"effects":"jsonl"}
+{"esoSkillId":45473}
+{"icon":"/esoui/art/icons/ability_armor_009.dds"}
+{"id":"019e6226-00d5-76c0-a467-2b322f11eab2"}
+{"isMorph":false}
+{"key":"battlefield-mobility"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"passive"}
+{"slug":"battlefield-mobility"}
+{"status":"unsupported"}
+{"subcategoryId":"weapon-one-hand-and-shield"}
+{"title":"Battlefield Mobility"}
+{"type":"page-type/temper-skill"}

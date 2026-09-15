@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"This route exports `loader` alone."},{"decisionKind":"decision-kind/constraint","statement":"React Router strips only `loader` and `action` and `middleware` and `headers` from the browser."}]}
+{"definition":"the pages of one type a browser asks for"}
+{"id":"01a0829a-13da-798a-a890-b765cf1dc3de"}
+{"slug":"temper-api-pages"}
+{"type":"page-type/route"}
+{"urlPath":"api/pages/:pageTypeSlug"}

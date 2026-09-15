@@ -1,0 +1,7 @@
+{"id":"01a094e5-211d-7a7d-9282-aa4fff006a29"}
+{"placeholder":"path"}
+{"said":"--from-file"}
+{"slug":"from-file"}
+{"takes":"the file the day's lines are read from, or `-` for standard input"}
+{"type":"page-type/argument"}
+{"value":"path"}

@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/move-to"}
+{"active":true}
+{"categoryId":"crafting"}
+{"description":"Moves crafting materials to the craft bag when visiting the bank. Requires ESO Plus or a craft bag entitlement. If you do not have ESO Plus, toggle off craft bag access in the ESO Plus panel above — the destination will be redirected to the bank automatically."}
+{"destination":"craft-bag"}
+{"displayOrder":58}
+{"fromTemplate":"temper-rule-template/crafting-craft-bag"}
+{"goal":"temper-rule-goal/hoard"}
+{"id":"01a0728b-10d2-70aa-8330-5161e02e35a1"}
+{"locked":true}
+{"slug":"rule-crafting-craft-bag"}
+{"title":"Stow crafting materials"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-05-04T16:04:31.132Z"}

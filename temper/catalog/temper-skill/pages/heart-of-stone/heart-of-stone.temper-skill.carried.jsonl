@@ -1,0 +1,17 @@
+{"baseName":"Heart of Stone"}
+{"description":"\"Rock and stone shield your heart, turning aside sharp blades and barbed words.\\n\\nIncreases your Armor by |cffffff1487|r.\""}
+{"esoSkillId":29468}
+{"icon":"/esoui/art/icons/ability_dragonknight_032.dds"}
+{"id":"019e6f53-a2fa-77ec-ac11-b9ea9f81fcf8"}
+{"isMorph":false}
+{"key":"heart-of-stone"}
+{"learnedLevel":8}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":8}
+{"skillLineId":"dragonknight-earthen-heart"}
+{"skillType":"passive"}
+{"slug":"heart-of-stone"}
+{"subcategoryId":"dragonknight-earthen-heart"}
+{"title":"Heart of Stone"}
+{"type":"page-type/temper-skill"}

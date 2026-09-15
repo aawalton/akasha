@@ -1,0 +1,7 @@
+{"id":"01a094dc-d46d-7537-8954-444a8dec2364"}
+{"placeholder":"path"}
+{"said":"--instruct-file"}
+{"slug":"instruct-file"}
+{"takes":"the file the voice description is read from, or `-` for standard input"}
+{"type":"page-type/argument"}
+{"value":"path"}

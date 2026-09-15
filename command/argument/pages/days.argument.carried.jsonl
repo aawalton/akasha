@@ -1,0 +1,7 @@
+{"id":"01a094e3-1172-7dac-a5ef-b325118393aa"}
+{"placeholder":"n"}
+{"said":"--days"}
+{"slug":"days"}
+{"takes":"how many days back the trailing window reaches"}
+{"type":"page-type/argument"}
+{"value":"whole-number"}

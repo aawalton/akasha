@@ -1,0 +1,14 @@
+{"app":"ios-app/smilingjenny"}
+{"caption":"Alan's Safety"}
+{"component":"ios-component/smilingjenny-safety-level-widget"}
+{"definition":"the tile on Jenny's phone showing how safe things are where Alan is"}
+{"families":["small"]}
+{"feed":"https://smilingjenny.me/api/safety-level"}
+{"galleryDescription":"Where Alan's safety level is today."}
+{"galleryName":"Safety"}
+{"groups":["readout-group/safety"]}
+{"id":"01a06420-b259-70dc-adcb-88ca53d210cf"}
+{"kind":"SafetyLevelWidget"}
+{"place":2}
+{"slug":"smilingjenny-safety-level"}
+{"type":"page-type/readout-widget"}

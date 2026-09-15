@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A handle no contact names is written as the handle itself."},{"decisionKind":"decision-kind/departure","statement":"A message with neither a handle nor a chat is labelled unknown."},{"decisionKind":"decision-kind/departure","statement":"A line break inside a message body becomes one carriage glyph."},{"decisionKind":"decision-kind/departure","statement":"A moment is written in the reader's own timezone rather than in UTC."},{"decisionKind":"decision-kind/constraint","statement":"The contact naming this module takes is the shape of the contacts store rather than that module."}]}
+{"definition":"the pieces one iMessage row is written out from: its moment, its sender, its body"}
+{"id":"01a0657e-795c-7000-8a91-fdebae0f4233"}
+{"slug":"message-lines"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/module"}

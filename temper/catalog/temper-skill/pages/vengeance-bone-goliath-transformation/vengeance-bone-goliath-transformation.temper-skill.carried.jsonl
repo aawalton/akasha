@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Bone Goliath Transformation"}
+{"description":"\"Become a horrific Bone Goliath, increasing your Max Health by |cffffff70000|r for |cffffff15|r seconds and immediately restoring |cffffff70000|r Health.\""}
+{"esoSkillId":238236}
+{"icon":"/esoui/art/icons/ability_necromancer_012.dds"}
+{"id":"019e6f53-a8c9-71da-8f8b-19cd8e9af490"}
+{"isMorph":false}
+{"key":"vengeance-bone-goliath-transformation"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-necromancer-bone-tyrant"}
+{"skillType":"ultimate"}
+{"slug":"vengeance-bone-goliath-transformation"}
+{"subcategoryId":"vengeance-necromancer-bone-tyrant"}
+{"title":"Vengeance Bone Goliath Transformation"}
+{"type":"page-type/temper-skill"}

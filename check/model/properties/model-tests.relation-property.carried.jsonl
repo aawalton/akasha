@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One check has the tests that judge one thing from different sides."}]}
+{"definition":"the tests a check puts to a model, in the order they are run"}
+{"id":"01a05911-aa17-7af6-9941-6715a1205f25"}
+{"propertySlug":"model-tests"}
+{"slug":"model-tests"}
+{"targetPageType":"page-type/model-test"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

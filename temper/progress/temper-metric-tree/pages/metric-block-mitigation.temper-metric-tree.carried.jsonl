@@ -1,0 +1,8 @@
+{"displayOrder":1}
+{"id":"019e2fcd-5a84-7c29-a2f2-552f18ee26f4"}
+{"nodeId":"block-mitigation"}
+{"nodeType":"metric"}
+{"parent":"subcategory-block"}
+{"slug":"metric-block-mitigation"}
+{"title":"Block Mitigation"}
+{"type":"page-type/temper-metric-tree"}

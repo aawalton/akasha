@@ -1,0 +1,6 @@
+{"definition":"whether an item is held back from being sold or destroyed"}
+{"id":"01a06053-b380-70ca-a7e1-de2fc777700b"}
+{"propertySlug":"locked"}
+{"slug":"locked"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

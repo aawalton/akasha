@@ -1,0 +1,7 @@
+{"filing":"archive"}
+{"forwardTo":"person/jenny"}
+{"id":"01a06860-54a2-73cf-8ef9-1e19d7e02de7"}
+{"matches":[{"field":"from","comparison":"ends-with","values":["steampowered.com"]},{"field":"subject","comparison":"contains","values":["thank you for your purchase","purchase receipt"]}]}
+{"slug":"steam-receipt"}
+{"title":"Steam receipt"}
+{"type":"page-type/email-rule-code"}

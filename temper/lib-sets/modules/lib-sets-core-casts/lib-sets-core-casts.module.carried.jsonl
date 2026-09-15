@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The global's slots are reached by string key rather than by a declared field."}]}
+{"definition":"the narrowings for the slots and set-keyed tables hung on the LibSets global"}
+{"id":"01a061fc-cee9-75c5-a75c-0036c8d4c7a8"}
+{"slug":"lib-sets-core-casts"}
+{"type":"page-type/module"}

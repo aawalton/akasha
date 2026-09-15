@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A default is right where the default throws."},{"decisionKind":"decision-kind/departure","statement":"A default is right where the default returns."},{"decisionKind":"decision-kind/departure","statement":"A default is right where the default calls `assertNever`."},{"decisionKind":"decision-kind/departure","statement":"Every such default ends the dispatch rather than falling out of that dispatch."},{"decisionKind":"decision-kind/departure","statement":"A default is read for the work its statements do and never for the words the default says."},{"decisionKind":"decision-kind/departure","statement":"A switch nested inside another statement is a switch."},{"decisionKind":"decision-kind/absence","statement":"Nothing here says the cases cover the type."},{"decisionKind":"decision-kind/departure","statement":"A default ending in a call to something that never returns is refused."},{"decisionKind":"decision-kind/departure","statement":"Only `assertNever` is known by name here."}]}
+{"definition":"the rule refusing a switch naming no default, or one its default falls out of"}
+{"id":"01a0500d-738b-7aae-bdba-1ae379c7361e"}
+{"slug":"exhaustive-dispatch"}
+{"test":"ts"}
+{"type":"page-type/syntax-rule"}

@@ -1,0 +1,17 @@
+{"baseName":"Laboratory Use"}
+{"description":"\"Allows the use of up to 3 reagents while mixing Potions or Poisons.\""}
+{"esoSkillId":45555}
+{"icon":"/esoui/art/icons/ability_alchemy_002.dds"}
+{"id":"019e6224-cc9f-7d8c-801a-26d49adbedce"}
+{"isMorph":false}
+{"key":"laboratory-use"}
+{"learnedLevel":1}
+{"lineRankNeeded":15}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"craft-alchemy"}
+{"skillType":"passive"}
+{"slug":"laboratory-use"}
+{"subcategoryId":"craft-alchemy"}
+{"title":"Laboratory Use"}
+{"type":"page-type/temper-skill"}

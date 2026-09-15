@@ -1,0 +1,19 @@
+{"baseName":"Torchbearer"}
+{"description":"Heals you and your allies for 2004 Health with each sweep. Beneficial Signature and Affix scripts apply to you and your allies."}
+{"esoSkillId":217607}
+{"focusScriptId":"healing"}
+{"grimoireId":"torchbearer"}
+{"icon":"/esoui/art/icons/ability_grimoire_fightersguild.dds"}
+{"id":"019e6471-15d1-7354-9eac-080b61ce74b7"}
+{"isMorph":false}
+{"key":"scribed-torchbearer-healing"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"guild-fighters-guild"}
+{"skillType":"active"}
+{"slug":"scribed-torchbearer-healing"}
+{"subcategoryId":"scribed"}
+{"title":"Healing Torch"}
+{"type":"page-type/temper-scribed-skill"}

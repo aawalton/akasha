@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One list has every sense a term bars."},{"decisionKind":"decision-kind/departure","statement":"A taboo sense bars one sense of the term."},{"decisionKind":"decision-kind/departure","statement":"A sense is alone among the senses one term bars."}]}
+{"definition":"the senses a taboo term is never written in, each with what is written instead"}
+{"id":"01a0592f-d53e-7a82-b68e-38856ee374cf"}
+{"properties":[{"pageProperty":"text-property/sense","required":true,"many":false},{"pageProperty":"text-property/instead","required":true,"many":false}]}
+{"propertySlug":"taboo-senses"}
+{"slug":"taboo-senses"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

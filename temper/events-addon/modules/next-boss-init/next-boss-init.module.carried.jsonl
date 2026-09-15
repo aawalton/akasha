@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The string ids are made before a module reads a string id."},{"decisionKind":"decision-kind/departure","statement":"Every module filling in the shared table is loaded before the table is used."},{"decisionKind":"decision-kind/departure","statement":"The tracker starts idle and the first zone change decides whether the tracker listens."},{"decisionKind":"decision-kind/departure","statement":"A slash command marks a district dead by its number on the round."}]}
+{"definition":"the order this tracker's parts are wired up in once the add-on loads"}
+{"id":"01a06157-835a-7077-b8f8-19565f5b9153"}
+{"slug":"next-boss-init"}
+{"type":"page-type/module"}

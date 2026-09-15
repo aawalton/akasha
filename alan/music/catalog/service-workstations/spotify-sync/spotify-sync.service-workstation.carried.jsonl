@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The artists swept are the artists Alan follows whose thirty days are up."},{"decisionKind":"decision-kind/departure","statement":"A day's run takes a share of them rather than all of them."},{"decisionKind":"decision-kind/constraint","statement":"Spotify refuses an account for about a day once that account's quota is spent."},{"decisionKind":"decision-kind/constraint","statement":"An unpaced sweep of the Web API bans the account for about a day."},{"decisionKind":"decision-kind/departure","statement":"This run paces itself at a second a call rather than at the client's default."},{"decisionKind":"decision-kind/departure","statement":"The token this run signs with is the file consent left outside the repository."},{"decisionKind":"decision-kind/departure","statement":"A run that filed nothing new is a run that succeeded."}]}
+{"definition":"the service filing a release as a page where none represents it"}
+{"enabled":true}
+{"id":"01a09c84-8cd1-758c-8c48-b28856aa0770"}
+{"needsSecrets":true}
+{"slug":"spotify-sync"}
+{"systemd":{"schedule":"*-*-* 07:45:00","jitterSeconds":300,"catchUp":true,"startTimeoutSeconds":3600}}
+{"type":"page-type/service-workstation"}

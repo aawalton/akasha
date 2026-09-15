@@ -1,0 +1,7 @@
+{"definition":"what sort of note this is"}
+{"id":"01a0657a-fe00-7149-b974-3ad13dd29e09"}
+{"propertySlug":"kind"}
+{"slug":"fitness-coaching-note-kind"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["medical-gate","programming-cue","equipment-ceiling","injury-watch","ef-accommodation","bout-observation"]}

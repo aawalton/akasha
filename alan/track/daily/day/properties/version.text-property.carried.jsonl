@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A version reads as a number and is written as text."},{"decisionKind":"decision-kind/departure","statement":"Writing a version as a number would flatten `1.0` to `1`."}]}
+{"definition":"which shape of a record was written"}
+{"id":"01a05fd8-c30e-725c-ab9a-c6711e453753"}
+{"maxLength":10}
+{"nameFormat":null}
+{"propertySlug":"version"}
+{"slug":"version"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

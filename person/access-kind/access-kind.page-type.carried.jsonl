@@ -1,0 +1,8 @@
+{"definition":"which sort of thing an access reaches"}
+{"extends":["page-type/domain"]}
+{"id":"01a0542d-0f75-73b3-a578-8d20baddb655"}
+{"parts":["access-kind/database-row","access-kind/domain","access-kind/page-type","access-kind/route"]}
+{"schema":"jsonl"}
+{"slug":"access-kind"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

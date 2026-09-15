@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The first rule whose every clause has is the rule that claims the message."},{"decisionKind":"decision-kind/departure","statement":"A message no rule claims is answered as no rule rather than as a rule."}]}
+{"definition":"which of a person's email rules claims a piece of mail"}
+{"id":"01a06871-54e5-7002-a44f-3d96cfa5d667"}
+{"slug":"email-rule-deciding"}
+{"type":"page-type/module"}

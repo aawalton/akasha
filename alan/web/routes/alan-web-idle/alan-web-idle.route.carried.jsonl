@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The page the redirect points at is the `idle-game` page slugged `idle`."},{"decisionKind":"decision-kind/departure","statement":"The address is built from that page's own id rather than spelled here."},{"decisionKind":"decision-kind/departure","statement":"The host idle.alanwalton.com is sent here by the server."}]}
+{"definition":"the permanent redirect onto the page carrying the idle game"}
+{"id":"01a0882d-7607-7b89-969a-79fa6a1c4168"}
+{"slug":"alan-web-idle"}
+{"type":"page-type/route"}
+{"urlPath":"idle"}

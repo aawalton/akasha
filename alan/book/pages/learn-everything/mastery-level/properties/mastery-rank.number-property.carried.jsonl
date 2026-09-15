@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The arithmetic folding a topic's coverage reads this number."}]}
+{"definition":"where a rung sits on the scale, nought to seven"}
+{"id":"01a0784a-cdba-7793-b19f-df140bde480c"}
+{"max":7}
+{"propertySlug":"rank"}
+{"slug":"mastery-rank"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

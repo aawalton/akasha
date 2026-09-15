@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/account","required":true,"saidAs":"word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The picker counts the account again from the next ask."},{"decisionKind":"decision-kind/departure","statement":"One call names one account."},{"decisionKind":"decision-kind/departure","statement":"An account no page is filed for is refused rather than made."},{"decisionKind":"decision-kind/departure","statement":"An account with no reason is answered as already standing."},{"decisionKind":"decision-kind/departure","statement":"The reason is cleared beside the page rather than in it."},{"decisionKind":"decision-kind/departure","statement":"Every answer here is built by a function rather than written out as a value."},{"decisionKind":"decision-kind/departure","statement":"An account no page is filed for is a fault of the data."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a token or asks a model."}]}
+{"definition":"the command putting one model account back in the pool its subscription shut it out of"}
+{"id":"01a06861-b463-71ad-922e-5b006cdebd6f"}
+{"name":"re-enable"}
+{"slug":"model-account-re-enable"}
+{"test":"ts"}
+{"type":"page-type/command"}

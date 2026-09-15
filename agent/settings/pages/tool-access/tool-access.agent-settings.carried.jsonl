@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A tool whose only act is writing a file is reached by no agent."}]}
+{"definition":"which built-in tools an agent may reach"}
+{"harnessSettings":"json"}
+{"id":"01a0657b-ad40-7a30-a01e-7d2c05b081b3"}
+{"slug":"tool-access"}
+{"type":"page-type/agent-settings"}

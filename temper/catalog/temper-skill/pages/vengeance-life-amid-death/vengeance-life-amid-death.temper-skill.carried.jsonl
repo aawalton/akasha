@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Life amid Death"}
+{"description":"\"Release residual fragments of fallen souls at the target location, healing you or up to 3 allies in the area for |cffffff10710|r Health.\""}
+{"esoSkillId":238258}
+{"icon":"/esoui/art/icons/ability_necromancer_016.dds"}
+{"id":"019e6f53-a92f-71d3-836e-4391506bf7fb"}
+{"isMorph":false}
+{"key":"vengeance-life-amid-death"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-necromancer-living-death"}
+{"skillType":"active"}
+{"slug":"vengeance-life-amid-death"}
+{"subcategoryId":"vengeance-necromancer-living-death"}
+{"title":"Vengeance Life amid Death"}
+{"type":"page-type/temper-skill"}

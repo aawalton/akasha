@@ -1,0 +1,18 @@
+{"baseName":"Expert Mage"}
+{"description":"\"Increases your Weapon and Spell Damage by 108 for each Sorcerer ability slotted.\\n\\nCurrent bonus: 0.\""}
+{"esoSkillId":45195}
+{"icon":"/esoui/art/icons/ability_sorcerer_044.dds"}
+{"id":"019e6245-a67a-703d-9cd0-5d7991201252"}
+{"isMorph":false}
+{"key":"expert-mage"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"sorcerer-storm-calling"}
+{"skillType":"passive"}
+{"slug":"expert-mage"}
+{"status":"unsupported"}
+{"subcategoryId":"sorcerer-storm-calling"}
+{"title":"Expert Mage"}
+{"type":"page-type/temper-skill"}

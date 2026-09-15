@@ -1,0 +1,8 @@
+{"definition":"a hand a companion has one weapon in"}
+{"extends":["page-type/temper-companion-thing"]}
+{"id":"01a05fcd-41a9-7114-8636-28bd59dc4a76"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-companion-weapon-slot"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

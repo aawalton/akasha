@@ -1,0 +1,5 @@
+{"definition":"the account a seat runs under"}
+{"id":"01a09c6e-0972-7d7e-a85f-aaec209ffd5b"}
+{"parts":["module/supervisor-account-config","module/supervisor-agent","module/supervisor-claude-config","module/supervisor-usage-snapshot"]}
+{"slug":"supervisor-account"}
+{"type":"page-type/domain"}

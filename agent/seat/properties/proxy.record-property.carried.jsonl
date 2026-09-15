@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat reaches one proxy or no proxy."},{"decisionKind":"decision-kind/departure","statement":"A proxy short of a single field is no proxy at all."}]}
+{"definition":"the proxy a seat reaches its model through"}
+{"id":"01a0540c-dbbf-7215-9747-624c4ef37e06"}
+{"properties":[{"pageProperty":"process-property/proxy-process","required":true,"many":false},{"pageProperty":"number-property/proxy-port","required":true,"many":false},{"pageProperty":"text-property/proxy-version","required":true,"many":false}]}
+{"propertySlug":"proxy"}
+{"slug":"proxy"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

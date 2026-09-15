@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A client speaks one service's own wire shape rather than a shape shared here."},{"decisionKind":"decision-kind/departure","statement":"A client answers with the bytes the service made rather than a path those bytes were written to."},{"decisionKind":"decision-kind/absence","statement":"Nothing here keeps a record of the run a client asked for."},{"decisionKind":"decision-kind/absence","statement":"Nothing here knows which host a service is on."}]}
+{"definition":"how a caller reaches a model service and reads back what that service made"}
+{"id":"01a0682d-8f07-7000-ab6b-b7ebbf0863a0"}
+{"parts":["module/ace-step-client","module/comfy-client","module/cop-fetch","module/gemini-image-client","module/inference-output-path","module/inference-seed","module/mlx-image-client","module/mlx-vlm-client","module/riff-bytes","module/segment-client","module/voice-clone-client"]}
+{"slug":"inference-client"}
+{"type":"page-type/domain"}

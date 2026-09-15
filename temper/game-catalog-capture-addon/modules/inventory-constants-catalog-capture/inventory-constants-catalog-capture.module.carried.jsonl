@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The collector adds itself to the catalog registry as the module loads."},{"decisionKind":"decision-kind/departure","statement":"Every enumeration is gathered in one pass with no batching."},{"decisionKind":"decision-kind/departure","statement":"Each label table is built by the one loop that names a string prefix."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the player's own inventory."}]}
+{"definition":"the game's inventory enumerations, read out of the client into the add-on's saved variables"}
+{"id":"01a06127-6637-741d-b7cf-e75c80c39e3d"}
+{"slug":"inventory-constants-catalog-capture"}
+{"type":"page-type/module"}

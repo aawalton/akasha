@@ -1,0 +1,10 @@
+{"displayOrder":3}
+{"effect":"Activating a synergy restores 880 Health, Magicka, and Stamina"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_JEWELRY_HARMONY"}
+{"id":"019e5b97-6d8a-77b7-8303-2086b16d9817"}
+{"key":"harmony"}
+{"material":"Dibellium"}
+{"qualityValues":"jsonl"}
+{"slug":"harmony"}
+{"title":"Harmony"}
+{"type":"page-type/temper-jewelry-trait"}

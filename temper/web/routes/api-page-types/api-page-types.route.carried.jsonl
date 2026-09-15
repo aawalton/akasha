@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"This route exports `loader` alone."},{"decisionKind":"decision-kind/constraint","statement":"React Router strips only `loader` and `action` and `middleware` and `headers` from the browser."}]}
+{"definition":"the page types a browser asks for"}
+{"id":"01a082a1-3e0e-70ae-b0f8-e98da5841a11"}
+{"slug":"api-page-types"}
+{"type":"page-type/route"}
+{"urlPath":"api/page-types"}

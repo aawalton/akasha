@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A recipe here is a recipe a player learns from an item the game names."},{"decisionKind":"decision-kind/departure","statement":"The recipes of one list are kept in the order the game hands the recipes over."}]}
+{"definition":"the recipes a list covers, one recipe to a line"}
+{"id":"01a0626e-c112-752c-87ea-5aac4c49e0ee"}
+{"properties":[{"pageProperty":"number-property/recipe-item-id","required":true,"many":false},{"pageProperty":"text-property/recipe-name","required":true,"many":false}]}
+{"propertySlug":"recipes"}
+{"slug":"recipes"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

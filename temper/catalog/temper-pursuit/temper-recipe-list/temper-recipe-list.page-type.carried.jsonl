@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A list is keyed by the name the game shows rather than by the index the game keeps."},{"decisionKind":"decision-kind/departure","statement":"A name more than one list carries is made a slug by adding the game's index."}]}
+{"definition":"one list the game groups craftable recipes under"}
+{"extends":["page-type/temper-pursuit-thing"]}
+{"id":"01a0626e-c112-7de5-8901-fc3087a26629"}
+{"parts":["number-property/recipe-item-id","page-property-entry/recipes","text-property/recipe-name"]}
+{"properties":[{"pageProperty":"number-property/display-order","required":true,"many":false},{"pageProperty":"page-property-entry/recipes","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-recipe-list"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

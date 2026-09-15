@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A cast here changes no value."}]}
+{"definition":"the assertions handing an untyped Lua value to TypeScript as a named shape"}
+{"id":"01a06061-408d-74a5-bf73-9ca2050ea277"}
+{"slug":"debug-logger-casts"}
+{"type":"page-type/module"}

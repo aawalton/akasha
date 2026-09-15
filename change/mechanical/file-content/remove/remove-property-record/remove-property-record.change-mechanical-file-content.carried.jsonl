@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-remove"}
+{"changeTargetSubtype":"change-target-subtype/file-content-page-property-value"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The record taken out is the one whose named field states the text handed in."},{"decisionKind":"decision-kind/departure","statement":"A key with no record is refused."},{"decisionKind":"decision-kind/departure","statement":"Text no record states under that field is refused."},{"decisionKind":"decision-kind/departure","statement":"Text more than one record states under that field is refused."},{"decisionKind":"decision-kind/departure","statement":"That refusal says how many records state it."},{"decisionKind":"decision-kind/departure","statement":"A property keeps its key when the last record goes."},{"decisionKind":"decision-kind/departure","statement":"The body is answered rather than written."},{"decisionKind":"decision-kind/departure","statement":"The passage answered is the lines the record is taken out of rather than the body."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the index."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads what the record means."},{"decisionKind":"decision-kind/absence","statement":"The only text written here is the empty string."},{"decisionKind":"decision-kind/absence","statement":"No page is taken away here."}]}
+{"definition":"one record taken out of one page property in a page's body"}
+{"id":"01a081ee-32aa-7960-8703-4e32e6a02a7e"}
+{"slug":"remove-property-record"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical-file-content"}

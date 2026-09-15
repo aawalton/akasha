@@ -1,0 +1,8 @@
+{"definition":"a SeaweedFS volume server has stopped reporting itself alive"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fb-7283-91e9-456e08ff1935"}
+{"runbook":"txt"}
+{"slug":"seaweedfs-volume-heartbeat-stalled"}
+{"summary":"SeaweedFS master has received no volume-server heartbeats in 10m"}
+{"title":"SeaweedFS volume heartbeat stalled"}
+{"type":"page-type/alert"}

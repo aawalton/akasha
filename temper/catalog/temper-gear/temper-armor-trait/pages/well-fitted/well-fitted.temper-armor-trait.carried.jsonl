@@ -1,0 +1,11 @@
+{"displayOrder":9}
+{"effect":"Reduces Roll Dodge and Sprint cost"}
+{"effects":"jsonl"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_ARMOR_WELL_FITTED"}
+{"id":"01a05fb2-1bd1-73f9-bcca-bd39fc693315"}
+{"key":"well-fitted"}
+{"material":"Almandine"}
+{"qualityValues":"jsonl"}
+{"slug":"well-fitted"}
+{"title":"Well-Fitted"}
+{"type":"page-type/temper-armor-trait"}

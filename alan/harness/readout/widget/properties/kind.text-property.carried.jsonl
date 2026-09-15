@@ -1,0 +1,8 @@
+{"definition":"the name a placed tile is bound to on the device"}
+{"id":"01a05480-1c88-782b-99a4-ae4cc4ac019e"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"kind"}
+{"slug":"kind"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,9 @@
+{"addonKind":"ported"}
+{"addonName":"TemperCrafting"}
+{"adjacents":["held-addon/temper-characters","held-addon/lib-character-knowledge","held-addon/temper-keybinder","held-addon/lib-addon-menu","held-addon/lib-alchemy-station","held-addon/lib-async","held-addon/lib-custom-menu","held-addon/lib-main-menu","held-addon/lib-price","held-addon/lib-sets"]}
+{"esoAddon":"eso-addon/temper-crafting-addon"}
+{"heldBy":14506}
+{"id":"01a081a1-a1ee-72cd-afed-1ad2e46b136f"}
+{"slug":"temper-crafting"}
+{"tiClean":true}
+{"type":"page-type/held-addon"}

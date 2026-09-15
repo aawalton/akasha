@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The serializer is Lua source held in TypeScript rather than a Lua file."},{"decisionKind":"decision-kind/departure","statement":"Keys are written in a settled order so a rerun writes the same bytes."},{"decisionKind":"decision-kind/departure","statement":"A number is written in the shortest spelling that reads back as the same number."},{"decisionKind":"decision-kind/departure","statement":"A value the serializer has no spelling for stops the run."}]}
+{"definition":"the Lua a Lua machine loads to write a table out as a TypeScript literal"}
+{"id":"01a06038-2cc0-7ae7-b7d4-dad6f274caff"}
+{"slug":"ts-lua-serializer"}
+{"type":"page-type/module"}

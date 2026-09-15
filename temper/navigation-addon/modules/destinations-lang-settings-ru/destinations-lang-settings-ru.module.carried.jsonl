@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is the runs joined in order."}]}
+{"definition":"the destinations settings strings in Russian, joined from its runs"}
+{"id":"01a06269-2a2e-7c52-9a19-bad7a67086fb"}
+{"slug":"destinations-lang-settings-ru"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The sets are named here in the order the gathered table answers its ids in."},{"decisionKind":"decision-kind/gap","statement":"A set moved to another place breaks every build hash saved."}]}
+{"definition":"part 030 of the gear set table, enervating-aura through eternal-vigor"}
+{"id":"01a061a3-0130-75c2-bb76-cc26990a8915"}
+{"slug":"sets-data-030"}
+{"type":"page-type/module"}

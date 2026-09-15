@@ -1,0 +1,17 @@
+{"baseName":"Martial Training"}
+{"description":"\"Reduces the cost of your weapon abilities by |cffffff2|r%.\\n\\nReduces the effectiveness of snares applied to you by |cffffff5|r%.\""}
+{"esoSkillId":36009}
+{"icon":"/esoui/art/icons/ability_templar_002.dds"}
+{"id":"019e6f53-a459-7b5a-9263-e2a518ab2f23"}
+{"isMorph":false}
+{"key":"martial-training-36009"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":5}
+{"skillLineId":"racial-redguard-skills"}
+{"skillType":"passive"}
+{"slug":"martial-training-36009"}
+{"subcategoryId":"racial-redguard-skills"}
+{"title":"Martial Training"}
+{"type":"page-type/temper-skill"}

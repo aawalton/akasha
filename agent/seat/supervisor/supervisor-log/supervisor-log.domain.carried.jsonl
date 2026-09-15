@@ -1,0 +1,5 @@
+{"definition":"what a supervisor says while it runs"}
+{"id":"01a09c85-63a7-7d18-9810-31274c95d4e9"}
+{"parts":["module/supervisor-console","module/supervisor-log-path","module/supervisor-log-sweeping","module/supervisor-saying"]}
+{"slug":"supervisor-log"}
+{"type":"page-type/domain"}

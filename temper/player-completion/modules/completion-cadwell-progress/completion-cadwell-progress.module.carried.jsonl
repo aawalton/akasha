@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The Cadwell catalog arrives as an argument rather than as an imported table."},{"decisionKind":"decision-kind/departure","statement":"A zone is the stops of a level sharing a zone index."},{"decisionKind":"decision-kind/departure","statement":"The order of the stops is the order the level states."},{"decisionKind":"decision-kind/departure","statement":"A zone takes its name from the first stop that names the zone."},{"decisionKind":"decision-kind/departure","statement":"A character never read is left out."},{"decisionKind":"decision-kind/constraint","statement":"An empty catalog answers an empty progress."}]}
+{"definition":"how much of Cadwell's Almanac a character has finished, level by level and zone by zone"}
+{"id":"01a06358-4f7c-7c27-bdbb-10ed9f4e7578"}
+{"slug":"completion-cadwell-progress"}
+{"type":"page-type/module"}

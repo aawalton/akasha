@@ -1,0 +1,7 @@
+{"definition":"the affix scripts a grimoire takes, one to a line"}
+{"id":"01a05fca-cb80-7359-bca5-e38d0406dff4"}
+{"properties":[{"pageProperty":"text-property/script-id","required":true,"many":false},{"pageProperty":"text-property/class-id","required":false,"many":false},{"pageProperty":"text-property/description","required":true,"many":false}]}
+{"propertySlug":"affix-scripts"}
+{"slug":"affix-scripts"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

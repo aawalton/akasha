@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An import merges forward against the completion already counted rather than writing over it."},{"decisionKind":"decision-kind/departure","statement":"A completion that could not be read stops the import rather than reading as absent."}]}
+{"definition":"the import a browser runs, from the file chosen to the result held"}
+{"id":"01a06432-b190-775e-b337-08bc9a817717"}
+{"slug":"use-temper-import"}
+{"type":"page-type/module"}

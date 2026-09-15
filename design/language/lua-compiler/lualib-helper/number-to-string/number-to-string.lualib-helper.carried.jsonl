@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"a number written out in a radix between two and thirty-six"}
+{"id":"01a08c49-7113-75cb-a65b-dd506c0d8957"}
+{"luaExport":"__TS__NumberToString"}
+{"slug":"number-to-string"}
+{"type":"page-type/lualib-helper"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a slot."},{"decisionKind":"decision-kind/departure","statement":"One list has every slot a kind fits."}]}
+{"definition":"the slots a piece of this kind goes into"}
+{"id":"01a05fcc-41f4-739e-a73e-ae1c6505faab"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"valid-slots"}
+{"slug":"valid-slots"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

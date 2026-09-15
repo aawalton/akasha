@@ -1,0 +1,17 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/stock"}
+{"active":true}
+{"categoryId":"tools"}
+{"description":"Deposits tools (lockpicks, repair kits, etc.) in the bank for safekeeping."}
+{"destination":"bank"}
+{"destinationChain":"jsonl"}
+{"displayOrder":60}
+{"fromTemplate":"temper-rule-template/tools-bank"}
+{"goal":"temper-rule-goal/hoard"}
+{"id":"01a0728b-6d6f-721e-a2cd-e61cc89fdac5"}
+{"locked":true}
+{"slug":"rule-tools-bank"}
+{"stockScope":"any-character"}
+{"title":"Stock tools"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-07-05T13:20:53.393Z"}

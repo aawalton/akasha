@@ -1,0 +1,10 @@
+{"addonManifest":"json"}
+{"bindings":"xml"}
+{"bundleEntry":"module/events-addon-entry"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One add-on has the timers rather than an add-on for each timer."},{"decisionKind":"decision-kind/departure","statement":"The Imperial City boss round is the first thing the add-on tracks."},{"decisionKind":"decision-kind/departure","statement":"A tracker shares nothing with another tracker."},{"decisionKind":"decision-kind/departure","statement":"The XML document loads after the Lua bundle."},{"decisionKind":"decision-kind/constraint","statement":"Nothing here reaches a Date."}]}
+{"definition":"the add-on counting down world content the game gates behind a timer"}
+{"id":"01a06157-835b-787b-bc13-9bd25c3742cd"}
+{"interfaces":["eso-interface/next-boss-layout"]}
+{"parts":["eso-interface/next-boss-layout","module/events-addon-entry","module/events-addon-global","module/events-addon-loaded","module/events-addon-names","module/next-boss-colors","module/next-boss-constants","module/next-boss-data","module/next-boss-events","module/next-boss-global","module/next-boss-gui","module/next-boss-init","module/next-boss-menu","module/next-boss-saved-variables","module/next-boss-state","module/next-boss-timers","module/next-boss-ui-strings","type-declaration/events-addon-declarations","type-declaration/next-boss-declarations","type-declaration/next-boss-global-declarations"]}
+{"slug":"temper-events-addon"}
+{"type":"page-type/eso-addon"}

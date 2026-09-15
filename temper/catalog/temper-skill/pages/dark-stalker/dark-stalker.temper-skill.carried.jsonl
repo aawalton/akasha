@@ -1,0 +1,18 @@
+{"baseName":"Dark Stalker"}
+{"description":"\"Ignore the Movement Speed penalty of Sneak.\\n\\nDecreases the time it takes to enter Sneak by 50%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":46041}
+{"icon":"/esoui/art/icons/passive_u26_vampire_01.dds"}
+{"id":"019e6251-4ca3-7edc-89d3-094d8418ba8f"}
+{"isMorph":false}
+{"key":"dark-stalker"}
+{"learnedLevel":1}
+{"lineRankNeeded":3}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"world-vampire"}
+{"skillType":"passive"}
+{"slug":"dark-stalker"}
+{"subcategoryId":"world-vampire"}
+{"title":"Dark Stalker"}
+{"type":"page-type/temper-skill"}

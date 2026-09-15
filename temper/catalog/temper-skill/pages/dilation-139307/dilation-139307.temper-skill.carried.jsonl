@@ -1,0 +1,17 @@
+{"baseName":"Dilation"}
+{"description":"\"Claim all facets of the selected type that touch your area of control, as well as matching facets directly adjacent.\\n\\nConsumes 1 Magicka Charge.\""}
+{"esoSkillId":139307}
+{"icon":"/esoui/art/icons/ability_scrying_04.dds"}
+{"id":"019e6f53-a0cf-71f8-a621-c5c36c74ffdf"}
+{"isMorph":false}
+{"key":"dilation-139307"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"world-scrying"}
+{"skillType":"passive"}
+{"slug":"dilation-139307"}
+{"subcategoryId":"world-scrying"}
+{"title":"Dilation"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,13 @@
+{"abilityId":157259}
+{"companionId":"mirri"}
+{"description":"Your Companion marks an enemy and exposes their weakness, causing them to take 20% more damage for $$2 seconds. While the enemy is exposed they build up to a single killing shot, unleashing a massive bolt that deals $1 Physical Damage."}
+{"icon":"/esoui/art/icons/ability_companion_ultimate_mirri_001.dds"}
+{"id":"019e6484-3881-73a7-96c7-246fb67b1dde"}
+{"key":"mirri-impeccable-shot"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-mirri"}
+{"skillType":"ultimate"}
+{"slug":"mirri-mirri-impeccable-shot"}
+{"title":"Impeccable Shot"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps","support"]}

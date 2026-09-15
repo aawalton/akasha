@@ -1,0 +1,27 @@
+{"exerciseCategory":"plyometrics"}
+{"exerciseExternalId":"Kneeling_Arm_Drill"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kneeling_Arm_Drill"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"pull"}
+{"gripDemand":"low"}
+{"id":"019ebc77-882a-773e-b217-d34d5999e2db"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":true}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"v-push"}
+{"muscleFocus":"push"}
+{"primaryMuscles":["shoulders"]}
+{"scoringMode":"reps"}
+{"secondaryMuscles":["abdominals"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"kneeling-arm-drill"}
+{"title":"Kneeling Arm Drill"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

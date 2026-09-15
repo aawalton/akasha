@@ -1,0 +1,6 @@
+{"definition":"this checkout, reached where git's own command is refused an agent"}
+{"id":"01a08d48-a685-748b-99de-86ee4ec68c5a"}
+{"name":"git"}
+{"parts":["command/git-push","command/git-restore","command/git-sweep"]}
+{"slug":"git"}
+{"type":"page-type/namespace"}

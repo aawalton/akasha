@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A toggle row is built on the shared label setup before its button is added."},{"decisionKind":"decision-kind/departure","statement":"A toggle fires the entry's own callback and the library callback together."},{"decisionKind":"decision-kind/departure","statement":"A radio group is told which button is clicked when the entry comes in checked."}]}
+{"definition":"the setup functions filling a radio button row and a checkbox row"}
+{"id":"01a08e61-59ca-741f-bbbb-b9aae1eba841"}
+{"slug":"scrollable-menu-combobox-base-setup-toggles"}
+{"type":"page-type/module"}

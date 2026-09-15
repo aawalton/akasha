@@ -1,0 +1,17 @@
+{"baseName":"Impulse"}
+{"description":"\"Release a surge of elemental energy, dealing |cffffff6611|r Magic Damage to enemies at the target location.\\n\\nFire Ring hits Burning enemies with Ring Afterburn, which deals more damage based on their missing Health.\\n\\nFrost Ring also provides Minor Protection.\\n\\nShock Ring's damage increases based on the number of enemies hit.\""}
+{"esoSkillId":39143}
+{"icon":"/esoui/art/icons/ability_destructionstaff_008_a.dds"}
+{"id":"019e6f53-a11f-7e1b-8b49-aab1c0fd63ec"}
+{"isMorph":true}
+{"key":"elemental-ring-39143"}
+{"learnedLevel":1}
+{"lineRankNeeded":38}
+{"morphIndex":1}
+{"rank":38}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"elemental-ring-39143"}
+{"subcategoryId":"weapon-destruction-staff"}
+{"title":"Elemental Ring"}
+{"type":"page-type/temper-skill"}

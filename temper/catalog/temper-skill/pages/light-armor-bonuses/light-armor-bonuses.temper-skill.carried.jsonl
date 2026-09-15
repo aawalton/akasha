@@ -1,0 +1,19 @@
+{"baseName":"Light Armor Bonuses"}
+{"description":"\"Each piece of Light Armor does the following:\\n\\nReduces damage taken from Magical attacks by 1%\\n\\nReduces the cost of Roll Dodge by 3%\\n\\nReduces the Movement Speed penalty of Sneak by 5%\\n\\nReduces the cost of Break Free by 5%\\n\\nReduces the cost of Bash by 3%\""}
+{"effects":"jsonl"}
+{"esoSkillId":150185}
+{"icon":"/esoui/art/icons/passive_armor2_light.dds"}
+{"id":"019e6238-c2e1-70a8-abbc-84fc4b845fb9"}
+{"isMorph":false}
+{"key":"light-armor-bonuses"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"armor-light-armor"}
+{"skillType":"passive"}
+{"slug":"light-armor-bonuses"}
+{"status":"partially-supported"}
+{"subcategoryId":"armor-light-armor"}
+{"title":"Light Armor Bonuses"}
+{"type":"page-type/temper-skill"}

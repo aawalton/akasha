@@ -1,0 +1,17 @@
+{"baseName":"Undo"}
+{"description":"\"Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were |cffffff4|r seconds ago.\\n\\nWhile slotted you gain Minor Protection, reducing your damage taken by |cffffff5|r%.\""}
+{"esoSkillId":103564}
+{"icon":"/esoui/art/icons/ability_psijic_001_b.dds"}
+{"id":"019e6f53-a829-78d9-8765-e43bc68e8803"}
+{"isMorph":true}
+{"key":"temporal-guard-103564"}
+{"learnedLevel":1}
+{"lineRankNeeded":10}
+{"morphIndex":2}
+{"rank":10}
+{"skillLineId":"guild-psijic-order"}
+{"skillType":"ultimate"}
+{"slug":"temporal-guard-103564"}
+{"subcategoryId":"guild-psijic-order"}
+{"title":"Temporal Guard"}
+{"type":"page-type/temper-skill"}

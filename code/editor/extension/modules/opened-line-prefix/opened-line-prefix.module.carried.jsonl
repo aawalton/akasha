@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An opened line carries the leading whitespace of the line it opens under."},{"decisionKind":"decision-kind/departure","statement":"A line opened under a bullet carries that marker and the spacing after it."},{"decisionKind":"decision-kind/departure","statement":"A bullet marker is a hyphen, an asterisk or a plus."},{"decisionKind":"decision-kind/departure","statement":"A line opened under a numbered item carries the next number, that delimiter and that spacing."},{"decisionKind":"decision-kind/departure","statement":"The number carried is one past the number the item states rather than one past the list's count."},{"decisionKind":"decision-kind/departure","statement":"A number's delimiter is a full stop or a closing parenthesis."},{"decisionKind":"decision-kind/departure","statement":"A marker with no space after it is no marker."},{"decisionKind":"decision-kind/departure","statement":"An item with nothing after its marker ends the list."},{"decisionKind":"decision-kind/departure","statement":"A line opened under an item that ends the list carries its indent and no marker."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the lines above the line handed in."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a checkbox."}]}
+{"definition":"the prefix a line opened under another line carries from it"}
+{"id":"01a09c52-8d87-74ad-91e7-06ebd71239d7"}
+{"slug":"opened-line-prefix"}
+{"test":"ts"}
+{"type":"page-type/module"}

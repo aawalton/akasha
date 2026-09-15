@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The field collapses to an icon while the field is empty and unfocused."},{"decisionKind":"decision-kind/departure","statement":"Escape clears the field and gives up focus."}]}
+{"definition":"the search field the add-on adds to the key-bind window"}
+{"id":"01a06381-67c1-7df3-9f12-953a58355bdc"}
+{"slug":"keybinder-search-box"}
+{"type":"page-type/module"}

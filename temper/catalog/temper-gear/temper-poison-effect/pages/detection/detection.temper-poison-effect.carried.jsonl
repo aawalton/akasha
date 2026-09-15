@@ -1,0 +1,9 @@
+{"effects":"jsonl"}
+{"icon":"resources/crafting_alchemy_trait_detection.png"}
+{"id":"019e21f7-0f75-708c-b36b-42e23e829ddf"}
+{"isPositive":true}
+{"key":"detection"}
+{"oppositeId":"invisible"}
+{"slug":"detection"}
+{"title":"Detection"}
+{"type":"page-type/temper-poison-effect"}

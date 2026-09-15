@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The order these modules are loaded in is the order upstream loads those modules."}]}
+{"definition":"the wiring the library does as the game loads it"}
+{"id":"01a0622b-dc5b-7521-9cc9-030f60f5f84e"}
+{"slug":"knowledge-main"}
+{"type":"page-type/module"}

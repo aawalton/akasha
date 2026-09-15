@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Barrier"}
+{"description":"\"Invoke defensive tactics to protect yourself and up to 2 nearby group members with wards that each absorb up to |cffffff60375|r damage for |cffffff15|r seconds.\""}
+{"esoSkillId":244725}
+{"icon":"/esoui/art/icons/ability_ava_006.dds"}
+{"id":"019e6f53-a8b9-7a78-be90-acbdd61452b0"}
+{"isMorph":false}
+{"key":"vengeance-barrier"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-alliance-war-support"}
+{"skillType":"ultimate"}
+{"slug":"vengeance-barrier"}
+{"subcategoryId":"vengeance-alliance-war-support"}
+{"title":"Vengeance Barrier"}
+{"type":"page-type/temper-skill"}

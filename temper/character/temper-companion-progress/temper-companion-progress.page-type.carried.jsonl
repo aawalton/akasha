@@ -1,0 +1,9 @@
+{"definition":"how far a companion has come with one account"}
+{"extends":["page-type/temper-character-thing"]}
+{"id":"01a05fcd-f54b-7497-b549-b7f8ef55b323"}
+{"parts":["relation-property/companion-roles"]}
+{"properties":[{"pageProperty":"text-property/companion-id","required":true,"many":false},{"pageProperty":"text-property/account-page","required":true,"many":false},{"pageProperty":"relation-property/companion-roles","required":false,"many":true,"maxCount":null}]}
+{"schema":"jsonl"}
+{"slug":"temper-companion-progress"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

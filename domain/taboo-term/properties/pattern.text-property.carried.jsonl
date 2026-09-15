@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A pattern is matched without regard to case."},{"decisionKind":"decision-kind/departure","statement":"A pattern is matched against the added text as well as against a copy split at its camelCase seams."},{"decisionKind":"decision-kind/departure","statement":"A pattern therefore needs no case of its own to reach inside a camelCase name."},{"decisionKind":"decision-kind/departure","statement":"A pattern narrows only to leave out the senses the term never means."},{"decisionKind":"decision-kind/departure","statement":"A pattern that does not compile is no pattern."}]}
+{"definition":"the regular expression that finds a taboo term in changed text"}
+{"id":"01a05950-57fe-7e42-81cf-987da9b05f9e"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"pattern"}
+{"slug":"pattern"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

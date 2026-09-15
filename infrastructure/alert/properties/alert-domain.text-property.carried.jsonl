@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An area is named here as text rather than reached as a page."},{"decisionKind":"decision-kind/departure","statement":"An area named here is not always a page in akasha yet."},{"decisionKind":"decision-kind/departure","statement":"An alert naming a person is owed to that person rather than to an area."}]}
+{"definition":"the area a raised alert is owed to"}
+{"id":"01a06755-0778-78ee-bf36-f7fd5ffa5619"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"domain"}
+{"slug":"alert-domain"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

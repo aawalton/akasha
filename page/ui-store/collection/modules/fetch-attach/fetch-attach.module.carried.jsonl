@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the rows of a file-backed page type read into the store over HTTP"}
+{"id":"01a05b69-453f-78b8-a67b-fe573df190bf"}
+{"slug":"fetch-attach"}
+{"test":"ts"}
+{"type":"page-type/module"}

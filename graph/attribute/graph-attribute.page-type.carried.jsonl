@@ -1,0 +1,8 @@
+{"definition":"a fact carried on an edge"}
+{"extends":["page-type/domain"]}
+{"id":"01a04fe8-cec0-78cc-85d5-3ca1e47761ce"}
+{"parts":["graph-attribute/known","graph-attribute/names","graph-attribute/property"]}
+{"schema":"jsonl"}
+{"slug":"graph-attribute"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

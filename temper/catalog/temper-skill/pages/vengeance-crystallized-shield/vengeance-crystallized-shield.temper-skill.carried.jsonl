@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Crystallized Shield"}
+{"description":"\"Spin a shield of ice around you, absorbing up to |cffffff36225|r damage from projectiles for |cffffff6|r seconds.\""}
+{"esoSkillId":238089}
+{"icon":"/esoui/art/icons/ability_warden_002.dds"}
+{"id":"019e6f53-a8df-795b-9e96-9c860f121f00"}
+{"isMorph":false}
+{"key":"vengeance-crystallized-shield"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-warden-winters-embrace"}
+{"skillType":"active"}
+{"slug":"vengeance-crystallized-shield"}
+{"subcategoryId":"vengeance-warden-winters-embrace"}
+{"title":"Vengeance Crystallized Shield"}
+{"type":"page-type/temper-skill"}

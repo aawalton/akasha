@@ -1,0 +1,19 @@
+{"baseName":"Banner Bearer"}
+{"description":"Reduces the cost of non-Ultimate abilities by 8%."}
+{"esoSkillId":217699}
+{"focusScriptId":"restore-resources"}
+{"grimoireId":"banner-bearer"}
+{"icon":"/esoui/art/icons/ability_grimoire_support.dds"}
+{"id":"019e6471-159f-7589-8387-0ebe410bb8a3"}
+{"isMorph":false}
+{"key":"scribed-banner-bearer-restore-resources"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"active"}
+{"slug":"scribed-banner-bearer-restore-resources"}
+{"subcategoryId":"scribed"}
+{"title":"Restorative Banner"}
+{"type":"page-type/temper-scribed-skill"}

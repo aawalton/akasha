@@ -1,0 +1,7 @@
+{"id":"01a094b7-e3cc-7a5b-bbd8-09fa79b6cbc6"}
+{"placeholder":"n"}
+{"said":"--steps"}
+{"slug":"steps"}
+{"takes":"how many denoise steps the sampler runs"}
+{"type":"page-type/argument"}
+{"value":"whole-number"}

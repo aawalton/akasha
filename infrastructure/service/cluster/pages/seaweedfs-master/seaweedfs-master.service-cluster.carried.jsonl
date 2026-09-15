@@ -1,0 +1,11 @@
+{"containerPort":9333}
+{"definition":"what decides which volume a stored file goes to"}
+{"id":"01a06816-68b1-7782-ae24-3afcb9a52746"}
+{"image":"chrislusf/seaweedfs:3.73"}
+{"manifest":["manifest/seaweedfs-master"]}
+{"namespace":"seaweedfs"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"master"}
+{"slug":"seaweedfs-master"}
+{"type":"page-type/service-cluster"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A leading slash in the search string makes submenu entries ignore the filter."},{"decisionKind":"decision-kind/departure","statement":"Edit box and slider children are searched through their declared getter names."},{"decisionKind":"decision-kind/departure","statement":"Filter state is held in module-level variables reset at the start of each show."},{"decisionKind":"decision-kind/departure","statement":"An entry may opt out of filtering through a doNotFilter callback."}]}
+{"definition":"the text search that decides whether one entry survives the current filter"}
+{"id":"01a06275-c448-7c9d-9bb0-5a9cce0d8e94"}
+{"slug":"scrollable-menu-dropdown-class-show-filter"}
+{"type":"page-type/module"}

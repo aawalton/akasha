@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"the positions and paths of every require call in a Lua source text"}
+{"id":"01a06758-8ed1-7001-903b-f57b5d79f469"}
+{"slug":"transpile-find-lua-requires"}
+{"type":"page-type/module"}

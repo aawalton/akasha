@@ -1,0 +1,19 @@
+{"baseName":"Shadowy Supplier"}
+{"description":"\"A contact from the Brotherhood provides beneficial items once per day. This contact is located in Outlaw Refuges, the Gold Coast Dark Brotherhood Sanctuary, and the Hew's Bane Thieves Den.\""}
+{"effects":"jsonl"}
+{"esoSkillId":77396}
+{"icon":"/esoui/art/icons/ability_darkbrotherhood_passive_003.dds"}
+{"id":"019e6238-c30b-7ee5-bcc2-04e2a734f06b"}
+{"isMorph":false}
+{"key":"shadowy-supplier"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"guild-dark-brotherhood"}
+{"skillType":"passive"}
+{"slug":"shadowy-supplier"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-dark-brotherhood"}
+{"title":"Shadowy Supplier"}
+{"type":"page-type/temper-skill"}

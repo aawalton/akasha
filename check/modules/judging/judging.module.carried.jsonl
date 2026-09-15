@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Nothing here imports a check or a command."},{"decisionKind":"decision-kind/departure","statement":"A check is handed a change and the shadow that change reads through."},{"decisionKind":"decision-kind/departure","statement":"An audit is handed the root alone."},{"decisionKind":"decision-kind/departure","statement":"There is no change at audit."},{"decisionKind":"decision-kind/departure","statement":"The two answer the same refusals."}]}
+{"definition":"the refusals a check answers with"}
+{"id":"01a04bc4-7e86-7fa6-8d9b-5532730b7daf"}
+{"slug":"judging"}
+{"type":"page-type/module"}

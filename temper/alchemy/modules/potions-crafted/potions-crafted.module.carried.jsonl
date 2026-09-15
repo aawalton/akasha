@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A crafted potion's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A crafted potion moved to another place breaks every build hash saved."}]}
+{"definition":"every crafted essence, gathered into one table"}
+{"id":"01a06076-1b6a-7cba-9441-c81e409dbcd4"}
+{"slug":"potions-crafted"}
+{"type":"page-type/module"}

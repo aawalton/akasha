@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The rules are given in the order the settings have."},{"decisionKind":"decision-kind/departure","statement":"The act that lists takes the read it lists from rather than reaching it."},{"decisionKind":"decision-kind/departure","statement":"The JSON says the whole rule and a row says the columns a rule carries."}]}
+{"definition":"the command naming every per-item rule"}
+{"id":"01a0603c-c1d3-7fdf-bf4e-51b3a559a428"}
+{"name":"list"}
+{"slug":"temper-inventory-item-rule-list"}
+{"test":"ts"}
+{"type":"page-type/command"}

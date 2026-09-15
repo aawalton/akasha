@@ -1,0 +1,8 @@
+{"definition":"the name a player is shown under to other players"}
+{"id":"01a06e47-1976-783b-9378-3634a67b0e9d"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"handle"}
+{"slug":"player-handle"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

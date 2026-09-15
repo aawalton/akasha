@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A trait is matched by name without regard to case."}]}
+{"definition":"whether deconstructing an item is useful to a character, and which crafting levels say so"}
+{"id":"01a06258-b52f-71e3-a07e-8a55157ddd17"}
+{"slug":"inventory-rules-core-inspire"}
+{"type":"page-type/module"}

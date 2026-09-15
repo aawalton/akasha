@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-add-if-not-present"}
+{"changeTargetSubtype":"change-target-subtype/file"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a path as a page."},{"decisionKind":"decision-kind/departure","statement":"A path with no body is written as an addition."},{"decisionKind":"decision-kind/departure","statement":"A path with another body is written over as a replace with the whole body each side."},{"decisionKind":"decision-kind/departure","statement":"A path already with the body given is left as that path is."},{"decisionKind":"decision-kind/departure","statement":"A body already there states no edit rather than a refusal."},{"decisionKind":"decision-kind/departure","statement":"A program folding many bodies together lands the bodies that moved."},{"decisionKind":"decision-kind/absence","statement":"Nothing here judges whether a body may be written."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the disk."},{"decisionKind":"decision-kind/departure","statement":"A caller states under `old` the body that caller composed its body from."},{"decisionKind":"decision-kind/departure","statement":"A path holding a body other than `old` is refused rather than written over."},{"decisionKind":"decision-kind/departure","statement":"A caller stating no `old` writes over whatever body is there."},{"decisionKind":"decision-kind/departure","statement":"A path already holding the body given is left alone whatever `old` states."}]}
+{"definition":"one body written at one path that does not have that body already"}
+{"id":"01a08188-1037-7ddd-b5cb-c727ac6ef590"}
+{"slug":"add-if-not-present-file"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical-file"}

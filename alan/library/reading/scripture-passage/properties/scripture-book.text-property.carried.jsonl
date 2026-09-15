@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A book is written as the book is printed rather than as a slug is written."}]}
+{"definition":"the book of scripture a passage is in"}
+{"id":"01a0658d-fe50-7003-842b-538187e1ae93"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"book"}
+{"slug":"scripture-book"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Cleansing Ritual"}
+{"description":"\"Exalt in the sacred light of the Aedra, cleansing up to |cffffff3|r negative effects from yourself.\""}
+{"esoSkillId":238026}
+{"icon":"/esoui/art/icons/ability_templar_cleansing_ritual.dds"}
+{"id":"019e6f53-a8d4-799e-a660-31214ad14c31"}
+{"isMorph":false}
+{"key":"vengeance-cleansing-ritual"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-templar-restoring-light"}
+{"skillType":"active"}
+{"slug":"vengeance-cleansing-ritual"}
+{"subcategoryId":"vengeance-templar-restoring-light"}
+{"title":"Vengeance Cleansing Ritual"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The readout served is the one thing named here."},{"decisionKind":"decision-kind/departure","statement":"The key the reading travels under is read off that readout's page."},{"decisionKind":"decision-kind/departure","statement":"The scale the reading is drawn against is read off that readout's page."},{"decisionKind":"decision-kind/departure","statement":"The words for an empty reading are read off that readout's page."}]}
+{"definition":"Alan's unreviewed transactions as the ring their count reaches"}
+{"id":"01a08241-5c83-7f0f-9096-69b7da0a19b7"}
+{"slug":"categorization"}
+{"type":"page-type/route"}
+{"urlPath":"api/categorization"}

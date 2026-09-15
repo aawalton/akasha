@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"a hud's pools as bars, each with its current, its max, its fill and its delta"}
+{"id":"01a0628e-a5db-70f1-8dcb-7662895abef7"}
+{"slug":"pool-bars"}
+{"test":"ts"}
+{"type":"page-type/module"}

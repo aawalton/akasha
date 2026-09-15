@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every color here is mirrored by a custom property `tokens.css` declares."},{"decisionKind":"decision-kind/departure","statement":"Every tuple here is worked out from the hex a color page states."},{"decisionKind":"decision-kind/absence","statement":"No color is written out here."},{"decisionKind":"decision-kind/absence","statement":"Nothing here names the use of any color."}]}
+{"definition":"the colors an interface is drawn in, each held as an sRGB tuple"}
+{"id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}
+{"parts":["module/semantic-color","module/color-shape","module/text-color"]}
+{"slug":"design-interface-token"}
+{"type":"page-type/domain"}

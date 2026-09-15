@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A toggle set on one character outranks the same toggle set across all characters."},{"decisionKind":"decision-kind/departure","statement":"A toggle set nowhere is off."},{"decisionKind":"decision-kind/departure","statement":"A character has a toggle for each crafting writ the game gives out."},{"decisionKind":"decision-kind/departure","statement":"A companion has fewer toggles than a character."}]}
+{"definition":"which chores are done for a character or companion without being asked for"}
+{"id":"01a0609f-53f9-741e-ad0d-f6c482c8057e"}
+{"slug":"automation-settings"}
+{"type":"page-type/module"}

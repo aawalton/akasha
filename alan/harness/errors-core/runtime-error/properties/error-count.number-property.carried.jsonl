@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A report raises the count of the error the report is filed under."},{"decisionKind":"decision-kind/departure","statement":"A count is kept outside the commit."},{"decisionKind":"decision-kind/gap","statement":"An error naming no count has been met an unknown number of times."},{"decisionKind":"decision-kind/gap","statement":"A count is never guessed where no count was read."},{"decisionKind":"decision-kind/gap","statement":"A report arriving while another report raises the count is lost."}]}
+{"definition":"how many times one error has been met"}
+{"id":"01a05f3f-e3e0-79b8-92d7-8141ecd449e9"}
+{"max":null}
+{"propertySlug":"count"}
+{"slug":"error-count"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

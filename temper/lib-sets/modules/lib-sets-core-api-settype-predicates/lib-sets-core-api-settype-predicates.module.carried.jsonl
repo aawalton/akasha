@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each answer here reads a table on the global whose name is a plain string."}]}
+{"definition":"which of the library's set categories a given set falls into, asked one category at a time"}
+{"id":"01a061fc-ceed-70bc-8b87-41bc7b863155"}
+{"slug":"lib-sets-core-api-settype-predicates"}
+{"type":"page-type/module"}

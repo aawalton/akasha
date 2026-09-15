@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The rows the tree has are counted apart from the commands among the rows."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the index."},{"decisionKind":"decision-kind/absence","statement":"Nothing here asks a command anything."},{"decisionKind":"decision-kind/absence","statement":"Nothing here assembles a tree."},{"decisionKind":"decision-kind/absence","statement":"Nothing here draws a row."}]}
+{"definition":"how many rows a command tree holds and how many of them are commands"}
+{"id":"01a07c93-8051-7e6d-aef6-f3c7665bbb9f"}
+{"slug":"command-tree-reading"}
+{"type":"page-type/module"}

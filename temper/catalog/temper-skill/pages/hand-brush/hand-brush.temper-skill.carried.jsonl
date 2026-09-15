@@ -1,0 +1,17 @@
+{"baseName":"Hand Brush"}
+{"description":"\"Removes 1 layer of soil or rock from a 1x1 area.\\n\\nGenerates: 1 Intuition\\nMaximum Intuition: 4.\""}
+{"esoSkillId":139909}
+{"icon":"/esoui/art/icons/u26_ability_digging_03.dds"}
+{"id":"019e6251-4cbb-7f0b-8f8f-e222c89ac10b"}
+{"isMorph":false}
+{"key":"hand-brush"}
+{"learnedLevel":6}
+{"lineRankNeeded":6}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"world-excavation"}
+{"skillType":"passive"}
+{"slug":"hand-brush"}
+{"subcategoryId":"world-excavation"}
+{"title":"Hand Brush"}
+{"type":"page-type/temper-skill"}

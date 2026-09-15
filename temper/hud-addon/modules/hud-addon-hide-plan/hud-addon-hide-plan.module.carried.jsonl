@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A registration naming no part in the catalog is left out of the plan."},{"decisionKind":"decision-kind/absence","statement":"Nothing here touches a game control."}]}
+{"definition":"what hiding to carry out, worked out from the catalog and what the player asked for"}
+{"id":"01a061c5-18dd-700b-9e4a-ac33f45c2a8f"}
+{"slug":"hud-addon-hide-plan"}
+{"type":"page-type/module"}

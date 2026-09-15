@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type saying nothing here is judged."},{"decisionKind":"decision-kind/departure","statement":"No page of a page type saying false is judged."},{"decisionKind":"decision-kind/departure","statement":"The words a page type's own file has are judged whatever that page type says."},{"decisionKind":"decision-kind/departure","statement":"A page type says false here where the words its pages carry are somebody else's."}]}
+{"definition":"whether the taboo terms are judged over the pages of a page type"}
+{"id":"01a063ce-6216-7009-b70d-d16728945271"}
+{"propertySlug":"runs-taboo-check"}
+{"slug":"runs-taboo-check"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

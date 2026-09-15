@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The curation is one root file."},{"decisionKind":"decision-kind/departure","statement":"The tree is one workspace, so the curation names no part."},{"decisionKind":"decision-kind/departure","statement":"A workspace the curation does not name takes the default entry globs."},{"decisionKind":"decision-kind/departure","statement":"Reachability is computed from the entry globs the curation names."},{"decisionKind":"decision-kind/departure","statement":"A change to the entry globs moves the files that read as reached."}]}
+{"definition":"the entry globs reachability is worked out from"}
+{"id":"01a0675b-16da-7bfd-8434-ddca9c15459f"}
+{"parts":["ast-unused-config/every-workspace","page-type/ast-unused-config"]}
+{"slug":"audit-ast-unused"}
+{"type":"page-type/domain"}

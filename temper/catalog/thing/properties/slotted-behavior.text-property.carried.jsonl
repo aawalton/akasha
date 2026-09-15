@@ -1,0 +1,8 @@
+{"definition":"which bar a slotted ability has its effect on"}
+{"id":"01a05fe0-8426-7594-8834-eb02a3965edd"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"slotted-behavior"}
+{"slug":"slotted-behavior"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

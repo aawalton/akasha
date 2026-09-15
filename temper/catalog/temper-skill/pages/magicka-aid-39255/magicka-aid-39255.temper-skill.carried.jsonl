@@ -1,0 +1,17 @@
+{"baseName":"Magicka Aid"}
+{"description":"\"Increases your Magicka Recovery by |cffffff5|r% for each Support ability slotted.\\n\\nCurrent bonus: |cffffff5|r%.\""}
+{"esoSkillId":39255}
+{"icon":"/esoui/art/icons/ability_sorcerer_038.dds"}
+{"id":"019e6f53-a436-7bc2-871d-fe3b70477257"}
+{"isMorph":false}
+{"key":"magicka-aid-39255"}
+{"learnedLevel":1}
+{"lineRankNeeded":3}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"passive"}
+{"slug":"magicka-aid-39255"}
+{"subcategoryId":"alliance-war-support"}
+{"title":"Magicka Aid"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,17 @@
+{"baseName":"Heavy Shovel"}
+{"description":"\"Removes |cFFFFFF1|r layer of dirt and rocks from up to a |cFFFFFF3x3|r area.\\n\\nThe shovel only affects a single contiguous height of dirt and rocks.\\n\\nCosts |c19D3FF2 Intuition|r to use.\""}
+{"esoSkillId":139906}
+{"icon":"/esoui/art/icons/u26_ability_digging_02.dds"}
+{"id":"019e6f53-a304-7e52-af7e-3da172003f6a"}
+{"isMorph":false}
+{"key":"heavy-shovel-139906"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"world-excavation"}
+{"skillType":"passive"}
+{"slug":"heavy-shovel-139906"}
+{"subcategoryId":"world-excavation"}
+{"title":"Heavy Shovel"}
+{"type":"page-type/temper-skill"}

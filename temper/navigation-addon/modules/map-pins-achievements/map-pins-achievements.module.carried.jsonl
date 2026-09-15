@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is the runs joined in order."}]}
+{"definition":"the achievement pin places by zone, joined from its runs"}
+{"id":"01a06269-2a42-797a-84d2-ce0b7f3396d0"}
+{"slug":"map-pins-achievements"}
+{"type":"page-type/module"}

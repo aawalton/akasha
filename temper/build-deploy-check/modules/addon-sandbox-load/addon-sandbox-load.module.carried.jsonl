@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A bundle that failed to load reports the bundle's state when the load ran."},{"decisionKind":"decision-kind/constraint","statement":"A traceback longer than ten lines is shortened and says how many lines went."},{"decisionKind":"decision-kind/constraint","statement":"A string id an add-on's markup consumes at load is asserted registered."},{"decisionKind":"decision-kind/constraint","statement":"A string id the base game provides is left out of that assertion."},{"decisionKind":"decision-kind/constraint","statement":"A recorder absent from the sandbox fails the assertion rather than passing."}]}
+{"definition":"an emitted bundle run inside a Lua sandbox shaped like the game's"}
+{"id":"01a06365-e827-7006-87ad-08154100525f"}
+{"slug":"addon-sandbox-load"}
+{"type":"page-type/module"}

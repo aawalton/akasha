@@ -1,0 +1,17 @@
+{"baseName":"Flurry"}
+{"description":"\"Flood an enemy with steel, battering them with four consecutive attacks that each deal |cffffff2320|r Physical Damage.\""}
+{"esoSkillId":28607}
+{"icon":"/esoui/art/icons/ability_dualwield_002.dds"}
+{"id":"019e6f53-a218-79bf-8430-5453595a61c0"}
+{"isMorph":false}
+{"key":"flurry"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"flurry"}
+{"subcategoryId":"weapon-dual-wield"}
+{"title":"Flurry"}
+{"type":"page-type/temper-skill"}

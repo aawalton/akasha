@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A control here is a plain record the add-on menu library reads."},{"decisionKind":"decision-kind/absence","statement":"Nothing here draws a control."},{"decisionKind":"decision-kind/departure","statement":"The add-on menu library is handed in rather than reached as a global."},{"decisionKind":"decision-kind/departure","statement":"A setting is read back the way the setting was stated."}]}
+{"definition":"the settings an add-on shows in the game's own add-on menu"}
+{"id":"01a06053-3636-7e00-b329-e1ac77ae851e"}
+{"parts":["module/build-lookup","module/dropdown","module/header","module/panel-controls-created","module/register-panel"]}
+{"slug":"temper-settings-panel"}
+{"type":"page-type/domain"}

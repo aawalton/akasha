@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A provider is a domain whose subject is one outside system."},{"decisionKind":"decision-kind/constraint","statement":"A gateway sends the Anthropic wire shape, so a provider takes that shape."},{"decisionKind":"decision-kind/departure","statement":"Every provider akasha reaches is a page."},{"decisionKind":"decision-kind/departure","statement":"The base a call goes to is read from the provider's page rather than from code."}]}
+{"definition":"an outside system that serves models"}
+{"extends":["page-type/domain"]}
+{"id":"01a0a20a-0678-73be-983a-777f3d76d8bb"}
+{"parts":["model-provider/anthropic","model-provider/deepseek","module/model-provider-reading","text-property/provider-model","url-property/api-base"]}
+{"properties":[{"pageProperty":"url-property/api-base","required":true,"many":false},{"pageProperty":"text-property/provider-model","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"model-provider"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

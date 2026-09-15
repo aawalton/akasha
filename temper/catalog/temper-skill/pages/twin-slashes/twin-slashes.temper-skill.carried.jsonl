@@ -1,0 +1,17 @@
+{"baseName":"Twin Slashes"}
+{"description":"\"Slice an enemy with both weapons to cause deep lacerations, dealing |cffffff2017|r Bleed Damage with each weapon and causing them to bleed for an additional |cffffff11420|r Bleed Damage over |cffffff20|r seconds.\""}
+{"esoSkillId":28379}
+{"icon":"/esoui/art/icons/ability_dualwield_001.dds"}
+{"id":"019e6f53-a86e-735a-b01a-4ca9419ea210"}
+{"isMorph":false}
+{"key":"twin-slashes"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"twin-slashes"}
+{"subcategoryId":"weapon-dual-wield"}
+{"title":"Twin Slashes"}
+{"type":"page-type/temper-skill"}

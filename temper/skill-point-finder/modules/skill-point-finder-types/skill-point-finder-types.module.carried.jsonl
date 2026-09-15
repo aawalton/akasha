@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here runs."}]}
+{"definition":"the shapes the skill point window has while the game runs"}
+{"id":"01a060ec-584d-78d8-941c-a8b43c987a6c"}
+{"slug":"skill-point-finder-types"}
+{"type":"page-type/module"}

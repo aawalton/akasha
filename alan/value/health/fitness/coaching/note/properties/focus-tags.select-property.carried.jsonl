@@ -1,0 +1,7 @@
+{"definition":"which training focuses a note reaches"}
+{"id":"01a0657a-fe00-7a03-baad-8bd900be24b0"}
+{"propertySlug":"focus-tags"}
+{"slug":"focus-tags"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["push","pull","legs","upper","lower","full-body","core","conditioning","flex","all"]}

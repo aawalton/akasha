@@ -1,0 +1,17 @@
+{"baseName":"Accelerate"}
+{"description":"\"Bend time and space around you to gain Major Expedition for 12 seconds and Minor Force for 1 minute, increasing your Movement Speed by 30% and Critical Damage by 10%.\""}
+{"esoSkillId":40103706}
+{"icon":"/esoui/art/icons/ability_psijic_005_a.dds"}
+{"id":"019e6238-c2a3-7b61-933a-559b1ea8b7ab"}
+{"isMorph":true}
+{"key":"channeled-acceleration"}
+{"learnedLevel":5}
+{"lineRankNeeded":5}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"guild-psijic-order"}
+{"skillType":"active"}
+{"slug":"channeled-acceleration"}
+{"subcategoryId":"guild-psijic-order"}
+{"title":"Channeled Acceleration"}
+{"type":"page-type/temper-skill"}

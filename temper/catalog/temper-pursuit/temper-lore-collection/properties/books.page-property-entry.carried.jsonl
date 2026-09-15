@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A book here is a book a player finds in the world and reads into a collection."}]}
+{"definition":"the books a lore collection holds, one book to a line"}
+{"id":"01a06343-f9f7-7004-8521-33a45a47b9b8"}
+{"properties":[{"pageProperty":"number-property/book-index","required":true,"many":false},{"pageProperty":"text-property/book-name","required":true,"many":false}]}
+{"propertySlug":"books"}
+{"slug":"books"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

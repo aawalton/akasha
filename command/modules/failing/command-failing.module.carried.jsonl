@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A command failing this way exits with the code that names a caller's mistake."},{"decisionKind":"decision-kind/departure","statement":"The message reaches standard error rather than standard output."}]}
+{"definition":"the line a command writes and the code it exits on when its caller is at fault"}
+{"id":"01a069da-b9b3-70b0-a181-941ada376275"}
+{"slug":"command-failing"}
+{"type":"page-type/module"}

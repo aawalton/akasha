@@ -1,0 +1,8 @@
+{"displayOrder":1}
+{"id":"019e2fcd-5a35-7bc1-b144-d241c99e3cb5"}
+{"nodeId":"damage-taken-arena"}
+{"nodeType":"metric"}
+{"parent":"subcategory-damage-taken"}
+{"slug":"metric-damage-taken-arena"}
+{"title":"Damage Taken Arena"}
+{"type":"page-type/temper-metric-tree"}

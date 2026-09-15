@@ -1,0 +1,8 @@
+{"definition":"what Cargo runs before Cargo compiles a crate"}
+{"extensions":["rs"]}
+{"fileName":"build.rs"}
+{"id":"01a0602d-6ad0-7e19-aab3-8b2f83b6fc8c"}
+{"propertySlug":"cargo-build-script"}
+{"slug":"cargo-build-script"}
+{"type":"page-type/code-file-property"}
+{"types":"ts"}

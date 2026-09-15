@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A character build is linked under the `character-build` page type."},{"decisionKind":"decision-kind/departure","statement":"A companion build is linked under the `companion-build` page type."},{"decisionKind":"decision-kind/departure","statement":"A build link has the build's own id."},{"decisionKind":"decision-kind/departure","statement":"A build link takes the readable part of the link from the build's name."}]}
+{"definition":"the link one character build or companion build is reached at"}
+{"id":"01a0609f-53f9-74de-9c4c-1475434e5482"}
+{"slug":"build-url"}
+{"type":"page-type/module"}

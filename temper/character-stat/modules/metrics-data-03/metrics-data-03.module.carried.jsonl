@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The stats are named here in the order the gathered table answers its ids in."}]}
+{"definition":"character stats damage-done-dot through defense-physical-aoe-mitigation"}
+{"id":"01a06131-abb0-7811-9515-8fb8732c9d8b"}
+{"slug":"metrics-data-03"}
+{"type":"page-type/module"}

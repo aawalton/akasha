@@ -1,0 +1,7 @@
+{"description":"Increases Critical Damage taken by 20%"}
+{"effects":"jsonl"}
+{"id":"01a05fc6-42c1-7b9e-a7e6-30fcae793727"}
+{"key":"major-brittle"}
+{"slug":"major-brittle"}
+{"title":"Major Brittle"}
+{"type":"page-type/temper-debuff-major"}

@@ -1,0 +1,11 @@
+{"displayOrder":7}
+{"effect":"Increases Weapon and Spell Critical"}
+{"effects":"jsonl"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_WEAPON_PRECISE"}
+{"id":"019e5b8b-e54b-75fa-afc2-cfdd5f966f52"}
+{"key":"precise"}
+{"material":"Ruby"}
+{"qualityValues":"jsonl"}
+{"slug":"precise"}
+{"title":"Precise"}
+{"type":"page-type/temper-weapon-trait"}

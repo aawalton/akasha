@@ -1,0 +1,8 @@
+{"content":"sh"}
+{"definition":"what a login shell reads before any interactive shell"}
+{"id":"01a06862-af5c-7d72-a232-2992a71d533c"}
+{"installPath":"~/.profile"}
+{"onlyOn":"any"}
+{"placedBy":"link"}
+{"slug":"profile"}
+{"type":"page-type/provisioned-file"}

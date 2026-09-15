@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/pool-service","required":true,"saidAs":"word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One name is made resident."},{"decisionKind":"decision-kind/departure","statement":"A name the cop does not carry is refused naming the ones the cop does."},{"decisionKind":"decision-kind/departure","statement":"A service already resident is made resident by nothing."},{"decisionKind":"decision-kind/departure","statement":"The answer names the resident rather than the service asked for."},{"decisionKind":"decision-kind/absence","statement":"Nothing here provisions the service or starts the cop."},{"decisionKind":"decision-kind/departure","statement":"A refusal after the swap was posted says the swap was posted."}]}
+{"definition":"the command making one pool service the resident the traffic cop serves"}
+{"id":"01a0685e-fd50-7dbf-9d25-99f97c25cd78"}
+{"name":"activate"}
+{"slug":"inference-activate"}
+{"test":"ts"}
+{"type":"page-type/command"}

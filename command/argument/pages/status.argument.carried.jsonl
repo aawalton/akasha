@@ -1,0 +1,7 @@
+{"id":"01a094db-478a-771e-af44-9edcd2777680"}
+{"placeholder":"status"}
+{"said":"--status"}
+{"slug":"status"}
+{"takes":"the response to set, of `accepted`, `declined` and `tentative`"}
+{"type":"page-type/argument"}
+{"value":"text"}

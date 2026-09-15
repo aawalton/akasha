@@ -1,0 +1,7 @@
+{"definition":"the kind of machine the file is placed on"}
+{"id":"01a06861-49aa-75eb-b571-52f5d1081aa3"}
+{"propertySlug":"only-on"}
+{"slug":"only-on"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["linux","macos","any"]}

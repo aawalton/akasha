@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The panel is built through the add-on menu library rather than drawn by hand."}]}
+{"definition":"the settings panel a player changes the quality-of-life behaviour from"}
+{"id":"01a0611d-84cd-74e4-bf3d-f59f450727cb"}
+{"slug":"companion-qol-settings-menu"}
+{"type":"page-type/module"}

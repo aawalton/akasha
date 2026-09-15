@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"definition":"the build the addon bundle now offered was packed from"}
+{"id":"01a072e1-dbd7-744e-a9b5-617a62ed3cbe"}
+{"slug":"addon-bundle-version"}
+{"test":"ts"}
+{"type":"page-type/route"}
+{"urlPath":"api/addons/version"}

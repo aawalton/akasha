@@ -1,0 +1,9 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The index is named for the unique kind it files."},{"decisionKind":"decision-kind/departure","statement":"A file is found by the page type, the scoping property and its value, then the property and value."},{"decisionKind":"decision-kind/departure","statement":"A scope is a property's value under a page type."},{"decisionKind":"decision-kind/departure","statement":"A scoping value naming its page type is filed under the slug alone."},{"decisionKind":"decision-kind/departure","statement":"A page carrying no value of the property scoping it is filed nowhere."},{"decisionKind":"decision-kind/departure","statement":"A page type declaring this kind and naming no scoping property is a fault."},{"decisionKind":"decision-kind/departure","statement":"No two pages have one slug inside the scope that slug's property declares."},{"decisionKind":"decision-kind/departure","statement":"A file has one line for each page with the value."},{"decisionKind":"decision-kind/departure","statement":"A scope no page is filed under has no directory."},{"decisionKind":"decision-kind/departure","statement":"A page with an identifier another page already has does not land."}]}
+{"definition":"an index from an identifier unique among the pages sharing one property's value to the page with it"}
+{"id":"01a0a55d-2c78-7e0a-92df-ff38791c81cb"}
+{"name":"page-property"}
+{"slug":"index-page-property"}
+{"test":"ts"}
+{"tracked":true}
+{"type":"page-type/index"}

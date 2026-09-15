@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Frozen Colossus"}
+{"description":"\"Unleash a frostbitten Flesh Colossus to pulverize up to 3 enemies in the area. The Colossus smashes the ground three times over |cffffff3|r seconds, dealing |cffffff13720|r Frost Damage with each smash.\""}
+{"esoSkillId":238129}
+{"icon":"/esoui/art/icons/ability_necromancer_006.dds"}
+{"id":"019e6f53-a916-7779-8e4c-2ffaa54fa23f"}
+{"isMorph":false}
+{"key":"vengeance-frozen-colossus"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-necromancer-grave-lord"}
+{"skillType":"ultimate"}
+{"slug":"vengeance-frozen-colossus"}
+{"subcategoryId":"vengeance-necromancer-grave-lord"}
+{"title":"Vengeance Frozen Colossus"}
+{"type":"page-type/temper-skill"}

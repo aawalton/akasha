@@ -1,0 +1,10 @@
+{"arguments":[{"argument":"argument/day"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"`check` refuses a line that is not JSON."},{"decisionKind":"decision-kind/departure","statement":"`check` refuses a key the row's own declaration does not carry."},{"decisionKind":"decision-kind/departure","statement":"`check` refuses a key spelled in kebab."},{"decisionKind":"decision-kind/departure","statement":"`check` refuses an id that is no uuid version 7."},{"decisionKind":"decision-kind/departure","statement":"`check` refuses an id two rows of a day have."},{"decisionKind":"decision-kind/departure","statement":"`check` refuses a row naming a day no page has."},{"decisionKind":"decision-kind/departure","statement":"`check` refuses a safety outside -2 to 5."},{"decisionKind":"decision-kind/departure","statement":"`check` refuses a difficulty outside 0 to 5."},{"decisionKind":"decision-kind/departure","statement":"`check` refuses a day with more than one open stretch."},{"decisionKind":"decision-kind/departure","statement":"`check` reads a whole day rather than stopping at the first fault."},{"decisionKind":"decision-kind/absence","statement":"`check` judges no gap between two stretches."},{"decisionKind":"decision-kind/absence","statement":"`check` judges no overlap between two stretches."},{"decisionKind":"decision-kind/absence","statement":"`check` says nothing beyond its own refusals."},{"decisionKind":"decision-kind/absence","statement":"`check` writes nothing."},{"decisionKind":"decision-kind/departure","statement":"A day is named at `--day`."},{"decisionKind":"decision-kind/absence","statement":"Nothing here takes `--date`."}]}
+{"definition":"the command judging the rows a day carries"}
+{"id":"01a07979-80d5-721b-946b-81f11c2413ab"}
+{"name":"check"}
+{"parts":[]}
+{"slug":"track-session-check"}
+{"test":"ts"}
+{"type":"page-type/command"}

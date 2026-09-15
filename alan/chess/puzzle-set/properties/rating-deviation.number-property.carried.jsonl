@@ -1,0 +1,7 @@
+{"definition":"how uncertain a puzzle's rating is"}
+{"id":"01a06582-bd62-7b1e-a035-ca03e3efa174"}
+{"max":null}
+{"propertySlug":"rating-deviation"}
+{"slug":"rating-deviation"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

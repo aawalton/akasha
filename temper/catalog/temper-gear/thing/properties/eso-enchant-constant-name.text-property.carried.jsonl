@@ -1,0 +1,8 @@
+{"definition":"the constant The Elder Scrolls Online names an enchant by in its own code"}
+{"id":"01a05fcc-41f2-79fd-b6e5-16cff264ed35"}
+{"maxLength":200}
+{"nameFormat":"name-format/upper-snake-case"}
+{"propertySlug":"eso-enchant-constant-name"}
+{"slug":"eso-enchant-constant-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

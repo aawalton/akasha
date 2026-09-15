@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An entry stating nothing here states the opposite."}]}
+{"definition":"whether a transaction was broken into parts"}
+{"id":"01a0680b-2b00-700d-a462-7c3e8d5f210e"}
+{"propertySlug":"split"}
+{"slug":"split"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

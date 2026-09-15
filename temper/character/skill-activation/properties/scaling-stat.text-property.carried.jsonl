@@ -1,0 +1,8 @@
+{"definition":"the character number an effect is worked out from"}
+{"id":"01a05fcd-f54a-75a0-bc25-2cecd3de2578"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"scaling-stat"}
+{"slug":"scaling-stat"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

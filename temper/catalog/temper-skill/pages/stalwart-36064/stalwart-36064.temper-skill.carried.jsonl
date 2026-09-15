@@ -1,0 +1,17 @@
+{"baseName":"Stalwart"}
+{"description":"\"Increases your Max Stamina by |cffffff500|r.\\n\\nWhen you take damage, you gain |cffffff1|r Ultimate.  This effect can occur once every |cffffff10|r seconds.\""}
+{"esoSkillId":36064}
+{"icon":"/esoui/art/icons/ability_sorcerer_018.dds"}
+{"id":"019e6f53-a7ab-77f6-b730-0d99eb2a87c4"}
+{"isMorph":false}
+{"key":"stalwart-36064"}
+{"learnedLevel":1}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":10}
+{"skillLineId":"racial-nord-skills"}
+{"skillType":"passive"}
+{"slug":"stalwart-36064"}
+{"subcategoryId":"racial-nord-skills"}
+{"title":"Stalwart"}
+{"type":"page-type/temper-skill"}

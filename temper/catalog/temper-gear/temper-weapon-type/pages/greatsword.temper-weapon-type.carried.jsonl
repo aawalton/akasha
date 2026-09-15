@@ -1,0 +1,11 @@
+{"enchantmentMultiplier":1}
+{"esoWeaponType":"WEAPONTYPE_TWO_HANDED_SWORD"}
+{"id":"019e46b6-408f-7101-8c11-f30ff5b7d117"}
+{"isTwoHanded":true}
+{"key":"greatsword"}
+{"skillLineId":"weapon-two-handed"}
+{"slug":"greatsword"}
+{"title":"Greatsword"}
+{"type":"page-type/temper-weapon-type"}
+{"validSlots":["main-hand"]}
+{"weaponPower":1571}

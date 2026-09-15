@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The slash commands here are only created when LibSlashCommander is absent."},{"decisionKind":"decision-kind/departure","statement":"The search for an item loosens its criteria twice before giving up."},{"decisionKind":"decision-kind/departure","statement":"A set is found by name with spaces treated as a middle dot."}]}
+{"definition":"one item chosen for a set and shown in a tooltip on demand"}
+{"id":"01a0623c-2df6-704f-aa3c-658495bc2518"}
+{"slug":"lib-sets-tip-preview"}
+{"type":"page-type/module"}

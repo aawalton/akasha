@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Solar Flare"}
+{"description":"\"Conjure a ball of solar energy to heave at an enemy, dealing |cffffff15025|r Magic Damage to them.\""}
+{"esoSkillId":237953}
+{"icon":"/esoui/art/icons/ability_templar_solar_flare.dds"}
+{"id":"019e6f53-a98c-7180-8ebd-1910e66ac729"}
+{"isMorph":false}
+{"key":"vengeance-solar-flare"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-templar-dawns-wrath"}
+{"skillType":"active"}
+{"slug":"vengeance-solar-flare"}
+{"subcategoryId":"vengeance-templar-dawns-wrath"}
+{"title":"Vengeance Solar Flare"}
+{"type":"page-type/temper-skill"}

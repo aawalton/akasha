@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Nothing is built here on console or in gamepad mode."},{"decisionKind":"decision-kind/constraint","statement":"The panel is built at most once."},{"decisionKind":"decision-kind/departure","statement":"Turning a custom pattern on greys out every stock tooltip row."},{"decisionKind":"decision-kind/departure","statement":"The traits needed setting shares its row with the reconstruction cost setting."}]}
+{"definition":"the settings panel rows for the tooltip options"}
+{"id":"01a0623c-2df6-7308-a66d-91a7225dd61b"}
+{"slug":"lib-sets-tip-settings-lam"}
+{"type":"page-type/module"}

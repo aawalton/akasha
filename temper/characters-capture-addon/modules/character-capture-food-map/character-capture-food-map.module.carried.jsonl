@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A place in this table is the number a saved build hash has."}]}
+{"definition":"each food and drink buff's ability id against its place in a build hash"}
+{"id":"01a0616b-a193-7b4e-8eda-59845fbc07d4"}
+{"slug":"character-capture-food-map"}
+{"type":"page-type/module"}

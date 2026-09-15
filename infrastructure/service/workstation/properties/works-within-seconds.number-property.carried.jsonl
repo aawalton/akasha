@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A service stating nothing here is judged by no round of work."},{"decisionKind":"decision-kind/departure","statement":"A service stating a window and having landed no round at all is broken."},{"decisionKind":"decision-kind/departure","statement":"A window holds room for a round to be missed rather than one round alone."},{"decisionKind":"decision-kind/departure","statement":"A service states a window only where the service writes when a round of work landed."}]}
+{"definition":"how long a service may go without a round of its work landing"}
+{"id":"01a08caf-5c90-7f52-b4dc-e6e010e9aa46"}
+{"max":null}
+{"propertySlug":"works-within-seconds"}
+{"slug":"works-within-seconds"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

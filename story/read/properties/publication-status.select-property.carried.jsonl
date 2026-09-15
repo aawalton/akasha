@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A publication status is the source's own state rather than how far the person has got."}]}
+{"definition":"how far the source has got with putting a collection out"}
+{"id":"01a06554-d8bd-750b-95f4-3b810f2c4875"}
+{"propertySlug":"publication-status"}
+{"slug":"publication-status"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["ongoing","hiatus","completed"]}

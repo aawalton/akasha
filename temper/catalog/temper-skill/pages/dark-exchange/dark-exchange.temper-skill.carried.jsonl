@@ -1,0 +1,17 @@
+{"baseName":"Dark Exchange"}
+{"description":"\"Bargain with darkness to restore |cffffff8160|r Health and |cffffff3600|r Magicka instantly, and an additional |cffffff2400|r Magicka over |cffffff20|r seconds. \\n\\nThe exchange also grants you Minor Berserk for |cffffff20|r seconds, increasing your damage done by |cffffff5|r%.\""}
+{"esoSkillId":24584}
+{"icon":"/esoui/art/icons/ability_sorcerer_dark_exchange.dds"}
+{"id":"019e6f53-a076-7f5c-af9a-9b67a492a4c6"}
+{"isMorph":false}
+{"key":"dark-exchange"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":30}
+{"skillLineId":"sorcerer-dark-magic"}
+{"skillType":"active"}
+{"slug":"dark-exchange"}
+{"subcategoryId":"sorcerer-dark-magic"}
+{"title":"Dark Exchange"}
+{"type":"page-type/temper-skill"}

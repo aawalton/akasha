@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a class."}]}
+{"definition":"the class a script reads differently for"}
+{"id":"01a05fca-cb81-7a5f-a2f7-41aefe8c6b62"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"class-id"}
+{"slug":"class-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"definition":"whether a node's own number is counted into the totals beneath it"}
+{"id":"01a05fcb-d654-77c9-bc2c-4f4d426d11c3"}
+{"propertySlug":"include-in-child-aggregates"}
+{"slug":"include-in-child-aggregates"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

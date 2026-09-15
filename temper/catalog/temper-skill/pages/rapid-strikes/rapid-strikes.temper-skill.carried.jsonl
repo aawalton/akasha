@@ -1,0 +1,17 @@
+{"baseName":"Flurry"}
+{"description":"\"Flood an enemy with steel, battering them with four consecutive attacks that each deal 689 Physical Damage.\\n\\nEach hit increases the damage of the subsequent hit by 5%.\""}
+{"esoSkillId":40590}
+{"icon":"/esoui/art/icons/ability_dualwield_002_b.dds"}
+{"id":"019e6226-010b-786a-b92d-3a91a8ea5ae5"}
+{"isMorph":true}
+{"key":"rapid-strikes"}
+{"learnedLevel":2}
+{"lineRankNeeded":2}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"rapid-strikes"}
+{"subcategoryId":"weapon-dual-wield"}
+{"title":"Rapid Strikes"}
+{"type":"page-type/temper-skill"}

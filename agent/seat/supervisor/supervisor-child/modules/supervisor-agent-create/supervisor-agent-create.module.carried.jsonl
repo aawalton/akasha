@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat's identity is a uuid version 7."},{"decisionKind":"decision-kind/departure","statement":"A spawned agent with no parent is refused rather than seated."}]}
+{"definition":"the identity a newly seated agent is minted with"}
+{"id":"01a0683e-3dbe-7009-b4d5-f3784313307e"}
+{"slug":"supervisor-agent-create"}
+{"type":"page-type/module"}

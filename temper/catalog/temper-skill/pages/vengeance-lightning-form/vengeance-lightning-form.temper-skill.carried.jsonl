@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Lightning Form"}
+{"description":"\"Manifest yourself as pure lightning, zapping up to 3 nearby enemies with electricity dealing |cffffff5880|r Shock Damage.\\n\\nYou also gain Major Resolve for |cffffff20|r seconds, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r.\""}
+{"esoSkillId":237954}
+{"icon":"/esoui/art/icons/ability_sorcerer_lightning_form.dds"}
+{"id":"019e6f53-a930-7858-af14-0fe663bb62e7"}
+{"isMorph":false}
+{"key":"vengeance-lightning-form"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-sorcerer-storm-calling"}
+{"skillType":"active"}
+{"slug":"vengeance-lightning-form"}
+{"subcategoryId":"vengeance-sorcerer-storm-calling"}
+{"title":"Vengeance Lightning Form"}
+{"type":"page-type/temper-skill"}

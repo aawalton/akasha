@@ -1,0 +1,19 @@
+{"baseName":"Traveling Knife"}
+{"description":"Deals 928 Physical Damage to an enemy and 1393 Physical Damage to enemies around them."}
+{"esoSkillId":217872}
+{"focusScriptId":"multi-target"}
+{"grimoireId":"traveling-knife"}
+{"icon":"/esoui/art/icons/ability_grimoire_dualwield.dds"}
+{"id":"019e6471-15df-7596-9c06-02ab44ba7578"}
+{"isMorph":false}
+{"key":"scribed-traveling-knife-multi-target"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"scribed-traveling-knife-multi-target"}
+{"subcategoryId":"scribed"}
+{"title":"Shattering Knife"}
+{"type":"page-type/temper-scribed-skill"}

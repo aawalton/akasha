@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every field the catalogue hands over is read-only."}]}
+{"definition":"a course, a subject, and the listings the catalogue hands them over in"}
+{"id":"01a06579-f3d8-7000-9391-77da8f1eff7e"}
+{"slug":"course-types"}
+{"type":"page-type/module"}

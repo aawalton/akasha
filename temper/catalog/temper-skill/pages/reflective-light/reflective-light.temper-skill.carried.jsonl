@@ -1,0 +1,17 @@
+{"baseName":"Sun Fire"}
+{"description":"\"Blast up to three enemies with a charge of radiant heat, dealing 1199 Flame Damage, an additional 3470 Flame Damage over 20 seconds, and reducing their Movement Speed by 40% for 3 seconds.\\n\\nUpon activation you gain Major Savagery and Major Prophecy for 20 seconds, increasing your Weapon and Spell Critical rating by 2629.\""}
+{"esoSkillId":24195}
+{"icon":"/esoui/art/icons/ability_templar_reflective_light.dds"}
+{"id":"019e6245-a703-72e9-b956-06b717810a59"}
+{"isMorph":true}
+{"key":"reflective-light"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"templar-dawns-wrath"}
+{"skillType":"active"}
+{"slug":"reflective-light"}
+{"subcategoryId":"templar-dawns-wrath"}
+{"title":"Reflective Light"}
+{"type":"page-type/temper-skill"}

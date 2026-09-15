@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat no supervisor has is taken without question."},{"decisionKind":"decision-kind/departure","statement":"A supervisor already with a seat takes that seat again."},{"decisionKind":"decision-kind/departure","statement":"A seat held by a process that has gone is taken over."},{"decisionKind":"decision-kind/departure","statement":"A seat held by a process still there refuses the claim."},{"decisionKind":"decision-kind/departure","statement":"A holder whose presence cannot be read is treated as there rather than as gone."},{"decisionKind":"decision-kind/departure","statement":"A process is told from the next process to take its pid by the moment the process started."},{"decisionKind":"decision-kind/departure","statement":"A claim from a process whose start moment cannot be read is refused."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes the seat page that states the holder."}]}
+{"definition":"a supervisor taking a seat, refused where another supervisor is still in it"}
+{"id":"01a0687e-533c-7000-b149-004c8b1c0b5f"}
+{"slug":"seat-supervisor-claim"}
+{"test":"ts"}
+{"type":"page-type/module"}

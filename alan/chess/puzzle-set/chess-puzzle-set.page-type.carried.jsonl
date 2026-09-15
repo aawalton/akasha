@@ -1,0 +1,11 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A set has its puzzles as rows beside the page rather than as pages."},{"decisionKind":"decision-kind/gap","statement":"A puzzle is a row here rather than a page a query may ask of."},{"decisionKind":"decision-kind/departure","statement":"A row's position in Forsyth-Edwards notation is the position the solver moves from."}]}
+{"definition":"a body of chess puzzles taken from one place"}
+{"extends":["page-type/page"]}
+{"id":"01a06582-bd62-7a9f-a011-94835eaaf909"}
+{"parts":["boolean-property/solved","number-property/nb-plays","number-property/popularity","number-property/puzzle-rating","number-property/rating-deviation","page-property-entry/puzzles","select-property/solver-color","text-property/opening-tags","text-property/puzzle-id","text-property/puzzle-license","text-property/puzzle-moves","text-property/puzzle-themes","url-property/game-url"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"page-property-entry/puzzles","required":false,"many":false}]}
+{"runsTabooCheck":false}
+{"schema":"jsonl"}
+{"slug":"chess-puzzle-set"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

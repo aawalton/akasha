@@ -1,0 +1,19 @@
+{"baseName":"Power Stone"}
+{"description":"\"Reduces the cost of your Ultimate abilities by 15%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45196}
+{"icon":"/esoui/art/icons/ability_sorcerer_057.dds"}
+{"id":"019e6245-a6eb-78a8-9776-1f46b6b4d301"}
+{"isMorph":false}
+{"key":"power-stone"}
+{"learnedLevel":27}
+{"lineRankNeeded":27}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"sorcerer-daedric-summoning"}
+{"skillType":"passive"}
+{"slug":"power-stone"}
+{"status":"supported"}
+{"subcategoryId":"sorcerer-daedric-summoning"}
+{"title":"Power Stone"}
+{"type":"page-type/temper-skill"}

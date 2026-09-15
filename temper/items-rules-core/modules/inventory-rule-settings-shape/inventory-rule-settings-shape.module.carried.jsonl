@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Settings arrive as JSON nobody has vouched for."},{"decisionKind":"decision-kind/departure","statement":"Only version two is read."},{"decisionKind":"decision-kind/departure","statement":"A rule is required to have an id and an action and nothing more."},{"decisionKind":"decision-kind/departure","statement":"Settings written by a newer temper are still read by an older temper."},{"decisionKind":"decision-kind/gap","statement":"Every action name is written out again here."}]}
+{"definition":"what unknown JSON holds to be read as a player's inventory rule settings"}
+{"id":"01a068e2-226a-7523-928d-85398937e67c"}
+{"slug":"inventory-rule-settings-shape"}
+{"test":"ts"}
+{"type":"page-type/module"}

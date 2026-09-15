@@ -1,0 +1,12 @@
+{"displayOrder":15}
+{"effect":"Increases Physical Resistance"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_DECREASE_PHYSICAL_DAMAGE"}
+{"essenceRune":"Taderi"}
+{"glyphName":"Glyph of Decrease Physical Harm"}
+{"id":"019e5c85-d95a-7784-a28f-1fd9cfff52da"}
+{"key":"decrease-physical-harm"}
+{"qualityValues":"jsonl"}
+{"slug":"decrease-physical-harm"}
+{"title":"Decrease Physical Harm"}
+{"type":"page-type/temper-jewelry-enchant"}

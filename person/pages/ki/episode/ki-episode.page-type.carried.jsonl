@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An episode of Ki's names the season that episode is part of."},{"decisionKind":"decision-kind/departure","statement":"An episode of Ki's states its season's number beside the season that episode names."}]}
+{"definition":"one instalment of a season Ki watches"}
+{"extends":["page-type/ki-collection-template"]}
+{"id":"01a06825-d0ec-79a7-aa75-2b13b1b20f22"}
+{"schema":"jsonl"}
+{"slug":"ki-episode"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

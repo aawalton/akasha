@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An achievement here is an achievement the game files under the heading with the line."},{"decisionKind":"decision-kind/departure","statement":"The lines run in ascending order of the achievement id."}]}
+{"definition":"the achievements a heading holds, one achievement to a line"}
+{"id":"01a06168-7245-7004-8aa0-eba39e83a4e6"}
+{"properties":[{"pageProperty":"number-property/eso-achievement-id","required":true,"many":false},{"pageProperty":"text-property/achievement-name","required":true,"many":false},{"pageProperty":"number-property/achievement-points","required":true,"many":false},{"pageProperty":"number-property/total-steps","required":true,"many":false}]}
+{"propertySlug":"achievements"}
+{"slug":"achievements"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

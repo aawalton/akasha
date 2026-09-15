@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A grade is joined back onto a line's id."}]}
+{"definition":"the lines an experiment plays, each with an id and a predicted register"}
+{"extensions":["json"]}
+{"id":"01a0657f-a729-7826-9473-150f1db12554"}
+{"propertySlug":"line-set"}
+{"slug":"line-set"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

@@ -1,0 +1,9 @@
+{"definition":"a sort of thing there is to do in the game"}
+{"extends":["page-type/temper-progress-thing"]}
+{"id":"01a05fc9-9a01-773d-b715-ed0cbfa91604"}
+{"parts":["text-property/badge-variant"]}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"text-property/badge-variant","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-activity-category"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

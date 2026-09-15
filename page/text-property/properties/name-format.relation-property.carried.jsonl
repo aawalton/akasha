@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page held to no format states null rather than nothing."}]}
+{"definition":"the format a text value is written in"}
+{"id":"01a049b9-856c-73f0-bea2-c3036209aa09"}
+{"nullable":true}
+{"propertySlug":"name-format"}
+{"slug":"name-format"}
+{"targetPageType":"page-type/name-format"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

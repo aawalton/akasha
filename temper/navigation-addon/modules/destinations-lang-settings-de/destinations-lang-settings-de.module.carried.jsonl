@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is the runs joined in order."}]}
+{"definition":"the destinations settings strings in German, joined from its runs"}
+{"id":"01a06269-29ff-7795-a251-4101d115fc7b"}
+{"slug":"destinations-lang-settings-de"}
+{"type":"page-type/module"}

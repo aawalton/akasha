@@ -1,0 +1,11 @@
+{"id":"01a06577-2614-700b-8109-abdde8bac2bc"}
+{"layout":"cards"}
+{"narrows":[{"key":"status","comparison":"is","values":["Completed"]}]}
+{"nav":"nav/books"}
+{"pageType":"page-type/ki-book"}
+{"slug":"books-completed"}
+{"title":"Completed"}
+{"type":"page-type/view"}
+{"viewPlace":2}
+{"viewSorts":[{"key":"completed-at","descending":true}]}
+{"visibleProperties":["status","rating","completed-at"]}

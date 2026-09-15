@@ -1,0 +1,9 @@
+{"definition":"the profile Apple signs a program against"}
+{"id":"01a059b4-7acb-714e-a535-bcc8e1972c6a"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"profile-name"}
+{"slug":"profile-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}
+{"unique":"unique-kind/page-type"}

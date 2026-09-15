@@ -1,0 +1,8 @@
+{"definition":"the group of gear values a constant belongs to"}
+{"id":"01a05fd1-d438-7600-b72e-b390f2f0dabf"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"constant-family"}
+{"slug":"constant-family"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

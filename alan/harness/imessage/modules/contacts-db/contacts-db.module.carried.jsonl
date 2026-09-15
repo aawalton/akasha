@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A phone number is matched by its last ten digits."},{"decisionKind":"decision-kind/departure","statement":"An address is matched lower-cased and whole."},{"decisionKind":"decision-kind/departure","statement":"One person held in several address book sources is merged into one contact."},{"decisionKind":"decision-kind/departure","statement":"A record with no name is passed over."}]}
+{"definition":"names and the numbers and addresses they answer at, read from the address book"}
+{"id":"01a05bc9-4308-7003-8ead-78b2057545e5"}
+{"slug":"contacts-db"}
+{"type":"page-type/module"}

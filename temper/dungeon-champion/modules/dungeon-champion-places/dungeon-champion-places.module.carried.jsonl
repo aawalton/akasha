@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The byte ceiling is why the zones arrive in two groups rather than in a single table."},{"decisionKind":"decision-kind/constraint","statement":"The groups are spread in the order the source table had the zones."},{"decisionKind":"decision-kind/upkeep","statement":"A zone belongs to one group of places alone."},{"decisionKind":"decision-kind/gap","statement":"A zone named in both groups would lose the earlier group's entries without a word."}]}
+{"definition":"every champion position gathered, reached by zone name or by map id"}
+{"id":"01a060f9-bad1-7202-bef3-dc48b30536e9"}
+{"slug":"dungeon-champion-places"}
+{"type":"page-type/module"}

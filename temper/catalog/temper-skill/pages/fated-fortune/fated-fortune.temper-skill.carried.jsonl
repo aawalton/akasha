@@ -1,0 +1,19 @@
+{"baseName":"Fated Fortune"}
+{"description":"\"Warp fate when you generate or consume Crux, increasing your Critical Damage and Critical Healing by 12% for 7 seconds.\""}
+{"effects":"jsonl"}
+{"esoSkillId":184847}
+{"icon":"/esoui/art/icons/passive_arcanist_04.dds"}
+{"id":"019e6245-a680-71b7-b269-65d3840a53b0"}
+{"isMorph":false}
+{"key":"fated-fortune"}
+{"learnedLevel":8}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"arcanist-herald-of-the-tome"}
+{"skillType":"passive"}
+{"slug":"fated-fortune"}
+{"status":"partially-supported"}
+{"subcategoryId":"arcanist-herald-of-the-tome"}
+{"title":"Fated Fortune"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/device-id"},{"argument":"argument/shuffle-state","required":true,"saidAs":"word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"`on` and `off` are the words the command takes, and another is refused."},{"decisionKind":"decision-kind/departure","statement":"A call naming neither word is refused rather than reading the state back."},{"decisionKind":"decision-kind/departure","statement":"A device named on the command line is put rather than the active device."},{"decisionKind":"decision-kind/departure","statement":"A call saying `--json` is answered one line of JSON, and one saying nothing words."},{"decisionKind":"decision-kind/departure","statement":"The putting is handed in, so no test of it reaches Spotify."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a page."}]}
+{"definition":"the command putting a Spotify device on drawing its tracks at random"}
+{"id":"01a0a028-06be-7e85-a38c-8e1253d467de"}
+{"name":"shuffle"}
+{"slug":"music-shuffle"}
+{"test":"ts"}
+{"type":"page-type/command"}

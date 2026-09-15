@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This table was written out from the inventory currency pages rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"The order of this table is the order a balance summary lists currencies in."},{"decisionKind":"decision-kind/gap","statement":"A currency moved to another place reorders every balance summary shown."}]}
+{"definition":"every kind of money an account has an amount of"}
+{"id":"01a060d9-498b-782c-aa63-7f9ef5125ebe"}
+{"slug":"inventory-currency-data"}
+{"type":"page-type/module"}

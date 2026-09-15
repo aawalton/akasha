@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The trace is ruled on whole."},{"decisionKind":"decision-kind/departure","statement":"The visits are given most recent first."},{"decisionKind":"decision-kind/departure","statement":"A file keeping no ring of visits is read through its one last trace."},{"decisionKind":"decision-kind/departure","statement":"An unknown field refuses the read."},{"decisionKind":"decision-kind/departure","statement":"A phase the addon did not reach is absent rather than zero."},{"decisionKind":"decision-kind/departure","statement":"One ruling covers the banker's ring and the vendor's ring alike."},{"decisionKind":"decision-kind/departure","statement":"A vendor ring the addon has not written yet reads as no visits."},{"decisionKind":"decision-kind/departure","statement":"A banker's ring that is nowhere refuses the read, as it always has."}]}
+{"definition":"the timing traces the inventory addon records over visits to a banker or a vendor"}
+{"id":"01a06864-aa2b-7002-9f57-fb06fdfa105a"}
+{"slug":"bank-trace-reading"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A load time is announced only where the saved settings ask."},{"decisionKind":"decision-kind/departure","statement":"The clock is the game's own millisecond counter."},{"decisionKind":"decision-kind/departure","statement":"The announcement waits for the player to enter the world."},{"decisionKind":"decision-kind/departure","statement":"A saved setting reading anything but `minimal` announces nothing."},{"decisionKind":"decision-kind/departure","statement":"The saved settings are read off the global table rather than declared."}]}
+{"definition":"the milliseconds an add-on spent loading"}
+{"id":"01a060a9-5d58-7bc3-a680-2ccdb8dd5bf3"}
+{"slug":"perf-trace"}
+{"type":"page-type/module"}

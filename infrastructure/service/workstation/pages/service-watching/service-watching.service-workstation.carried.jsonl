@@ -1,0 +1,6 @@
+{"definition":"the service telling a persona that a service she answers for is broken"}
+{"enabled":true}
+{"id":"01a0821e-fce7-7ae4-8976-65f19bcdb30b"}
+{"slug":"service-watching"}
+{"systemd":{"schedule":"*:*:00","jitterSeconds":5,"startTimeoutSeconds":120}}
+{"type":"page-type/service-workstation"}

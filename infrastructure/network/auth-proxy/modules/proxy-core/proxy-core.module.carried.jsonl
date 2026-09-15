@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An upstream that cannot be reached is answered as a bad gateway."},{"decisionKind":"decision-kind/departure","statement":"The failure is reported to the caller of the fetch rather than to the client."}]}
+{"definition":"a canned body, a bad gateway, and a fetch that falls to one"}
+{"id":"01a06863-8e7c-73d0-a5a6-6291492430fc"}
+{"slug":"proxy-core"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path under the assets folder is answered or refused here rather than passed on."},{"decisionKind":"decision-kind/departure","statement":"The root path is never answered from disk."}]}
+{"definition":"which request path is answered from the client build, and under which cache-control"}
+{"id":"01a05c48-deeb-7006-8e9c-b8c5539dd296"}
+{"slug":"serve-static"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"definition":"the mirror probe's credential was refused, so nothing is known about the mirrors"}
+{"domain":"git-repos"}
+{"id":"01a06755-62f9-72b6-a674-1f6b0f2c2099"}
+{"runbook":"txt"}
+{"slug":"git-mirror-probe-unauthenticated"}
+{"summary":"git mirror probe could not authenticate for {{ $labels.repo }}"}
+{"title":"Git mirror probe unauthenticated"}
+{"type":"page-type/alert"}

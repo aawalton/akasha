@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Runemend"}
+{"description":"\"Craft a precise Apocryphal rune, then propel it at yourself or an ally in front of you. The rune heals for |cffffff14459|r Health and generates Crux.\""}
+{"esoSkillId":238429}
+{"icon":"/esoui/art/icons/ability_arcanist_013.dds"}
+{"id":"019e6f53-a970-7df0-8fd0-44ddd93ad686"}
+{"isMorph":false}
+{"key":"vengeance-runemend"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-arcanist-curative-runeforms"}
+{"skillType":"active"}
+{"slug":"vengeance-runemend"}
+{"subcategoryId":"vengeance-arcanist-curative-runeforms"}
+{"title":"Vengeance Runemend"}
+{"type":"page-type/temper-skill"}

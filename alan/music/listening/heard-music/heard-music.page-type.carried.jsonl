@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One person has one heard music page."},{"decisionKind":"decision-kind/departure","statement":"A track entered into a heard music page is never taken out."}]}
+{"definition":"every track one person has heard"}
+{"extends":["page-type/page"]}
+{"id":"01a06240-340f-700a-be22-823bb6c905f7"}
+{"parts":["page-property-entry/tracks"]}
+{"properties":[{"pageProperty":"relation-property/person","required":true,"many":false},{"pageProperty":"page-property-entry/tracks","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"heard-music"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

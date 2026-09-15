@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Skills are tried in the order the caller gave rather than by a priority score."},{"decisionKind":"decision-kind/constraint","statement":"A light attack fills any tick where no skill is ready."},{"decisionKind":"decision-kind/constraint","statement":"Accumulated ultimate is capped at five hundred."}]}
+{"definition":"the tick loop a companion rotation is played out on"}
+{"id":"01a06152-c2d0-754e-9a10-1c25777b3df1"}
+{"slug":"companion-rotation-simulator"}
+{"type":"page-type/module"}

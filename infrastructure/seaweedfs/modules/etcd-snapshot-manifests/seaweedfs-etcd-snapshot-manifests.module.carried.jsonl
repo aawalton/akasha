@@ -1,0 +1,6 @@
+{"allowsTmpPaths":true}
+{"code":"ts"}
+{"definition":"the manifests writing a copy of the cluster's key store into a bucket"}
+{"id":"01a06816-68b0-7b64-b49b-a196ec6ae281"}
+{"slug":"seaweedfs-etcd-snapshot-manifests"}
+{"type":"page-type/module"}

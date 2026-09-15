@@ -1,0 +1,17 @@
+{"baseName":"Runemend"}
+{"description":"\"Craft a series of adaptive Apocryphal runes, then propel them at yourself or an ally in front of you. The runes heal for |cffffff3653|r Health three times, an additional |cffffff4107|r Health over |cffffff6|r seconds, and generate Crux.\\n\\nEach active Crux reduces the cost of this ability by |cffffff3|r%.\""}
+{"esoSkillId":186189}
+{"icon":"/esoui/art/icons/ability_arcanist_013_a.dds"}
+{"id":"019e6f53-a1b4-78da-a3eb-893870c2470c"}
+{"isMorph":true}
+{"key":"evolving-runemend-186189"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":1}
+{"rank":1}
+{"skillLineId":"arcanist-curative-runeforms"}
+{"skillType":"active"}
+{"slug":"evolving-runemend-186189"}
+{"subcategoryId":"arcanist-curative-runeforms"}
+{"title":"Evolving Runemend"}
+{"type":"page-type/temper-skill"}

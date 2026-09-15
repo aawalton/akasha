@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A repository is named to git by `-C` rather than by the folder a caller is in."},{"decisionKind":"decision-kind/departure","statement":"The folder a checkout's worktrees share is asked of git rather than spelled."},{"decisionKind":"decision-kind/departure","statement":"What is under that folder is no page."},{"decisionKind":"decision-kind/departure","statement":"What akasha left under that folder goes by a sweep rather than by a change."},{"decisionKind":"decision-kind/departure","statement":"A caller wanting a throw and a caller wanting nothing back reach for two names."},{"decisionKind":"decision-kind/stopgap","statement":"The git this repository has run for years sits outside akasha at `repo/git`."},{"decisionKind":"decision-kind/gap","statement":"The code `repo/git` holds beyond running a command belongs here."}]}
+{"definition":"git run in a repository, and what it said"}
+{"id":"01a05d7f-23fc-7000-b2b7-266f4611121a"}
+{"parts":["domain/oid","module/commit-reading","module/committing","module/git-answering","module/git-capping","module/git-dir","module/git-pathspec","module/git-pushing","module/git-running","module/git-store-sweeping","module/head-commit","module/holding","module/porcelain-status"]}
+{"slug":"git"}
+{"type":"page-type/domain"}

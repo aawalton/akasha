@@ -1,0 +1,9 @@
+{"definition":"what a person may cause the system to do"}
+{"extends":["page-type/page"]}
+{"id":"01a0541e-d4d2-7426-bc38-f122ec60f7ba"}
+{"parts":["relation-property/person-authority-kind","relation-property/person-authority-person","text-property/person-authority-target"]}
+{"properties":[{"pageProperty":"relation-property/person-authority-person","required":true,"many":false},{"pageProperty":"relation-property/person-authority-kind","required":true,"many":false},{"pageProperty":"text-property/person-authority-target","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"person-authority"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

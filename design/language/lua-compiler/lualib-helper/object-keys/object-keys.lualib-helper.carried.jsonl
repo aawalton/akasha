@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the array of the keys an object holds values under"}
+{"id":"01a081f7-142d-7f1c-9faf-2858ed0cc88e"}
+{"luaExport":"__TS__ObjectKeys"}
+{"slug":"object-keys"}
+{"type":"page-type/lualib-helper"}

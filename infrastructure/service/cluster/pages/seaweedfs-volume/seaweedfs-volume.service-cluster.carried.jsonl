@@ -1,0 +1,11 @@
+{"containerPort":8080}
+{"definition":"what holds the bytes of the files that are stored"}
+{"id":"01a06816-68b1-7d63-9c32-76a6915a2d9d"}
+{"image":"chrislusf/seaweedfs:3.73"}
+{"manifest":["manifest/seaweedfs-volume"]}
+{"namespace":"seaweedfs"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"volume"}
+{"slug":"seaweedfs-volume"}
+{"type":"page-type/service-cluster"}

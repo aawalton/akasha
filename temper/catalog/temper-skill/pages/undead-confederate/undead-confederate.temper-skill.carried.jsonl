@@ -1,0 +1,19 @@
+{"baseName":"Undead Confederate"}
+{"description":"\"While you have a Sacrificial Bones, Skeletal Mage, or Spirit Mender active, your Health, Magicka, and Stamina Recovery is increased by 155.\""}
+{"effects":"jsonl"}
+{"esoSkillId":116283}
+{"icon":"/esoui/art/icons/passive_necromancer_012.dds"}
+{"id":"019e6245-a758-7d67-b855-19bd0dba40c2"}
+{"isMorph":false}
+{"key":"undead-confederate"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"necromancer-living-death"}
+{"skillType":"passive"}
+{"slug":"undead-confederate"}
+{"status":"unsupported"}
+{"subcategoryId":"necromancer-living-death"}
+{"title":"Undead Confederate"}
+{"type":"page-type/temper-skill"}

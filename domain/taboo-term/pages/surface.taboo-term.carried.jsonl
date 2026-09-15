@@ -1,0 +1,6 @@
+{"id":"01a0593e-da3f-7c82-a364-c0a83f8171ff"}
+{"keptSenses":["the reads a module or an index offers to whatever reaches it","the layered plane a piece of interface is shown on"]}
+{"pattern":"(?<![-_.])\\bsurface\\b(?![-_:(]|\\.\\w)"}
+{"slug":"surface"}
+{"tabooSenses":[{"sense":"a document that binds its reader","instead":"document"}]}
+{"type":"page-type/taboo-term"}

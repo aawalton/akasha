@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The key is the field an item rule writes."},{"decisionKind":"decision-kind/departure","statement":"The title is the field a reader is shown."},{"decisionKind":"decision-kind/departure","statement":"A condition names one field here and the value that field is tested against."},{"decisionKind":"decision-kind/departure","statement":"A field whose key ends in Op says how another field's number is compared."}]}
+{"definition":"one thing about an item that a rule condition tests"}
+{"extends":["page-type/temper-progress-thing"]}
+{"id":"01a07202-f0fd-7b35-bff8-c4cc5e25da86"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"text-property/description","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-condition-field"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

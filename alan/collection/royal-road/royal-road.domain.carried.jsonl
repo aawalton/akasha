@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page written from Royal Road is written by the syncing module."},{"decisionKind":"decision-kind/departure","statement":"Every reach out to Royal Road goes through this package."},{"decisionKind":"decision-kind/departure","statement":"A chapter is fetched without the account."}]}
+{"definition":"the pages Royal Road serves, read into fictions and chapters"}
+{"id":"01a0657f-4492-7000-a3fc-56efd626beaa"}
+{"parts":["module/royal-road-pages","module/royal-road-syncing","service-workstation/royal-road-sync"]}
+{"slug":"royal-road"}
+{"type":"page-type/domain"}

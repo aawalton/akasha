@@ -1,0 +1,13 @@
+{"autoCompactWindow":1000000}
+{"effortLevel":"none"}
+{"extendedContextAvailable":true}
+{"fallbackModel":"fable"}
+{"id":"01a0157f-f2ec-7001-80d4-d83b4f922552"}
+{"model":"opus"}
+{"resumeThresholdMinutes":2147483647}
+{"resumeTokenThreshold":2147483647}
+{"slug":"seat-conditions-current"}
+{"subagentModel":"none"}
+{"subagentSpawnDepth":5}
+{"toolTimeout":600000}
+{"type":"page-type/seat-conditions"}

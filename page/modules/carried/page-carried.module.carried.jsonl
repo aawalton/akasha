@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The name of the file a page carries beside it is composed here and nowhere else."},{"decisionKind":"decision-kind/departure","statement":"A line holds one key a page states, under that key, with the value it states."},{"decisionKind":"decision-kind/departure","statement":"The lines are sorted as text, so one property turning moves one line."},{"decisionKind":"decision-kind/departure","statement":"A page stating nothing composes no line rather than a blank one."},{"decisionKind":"decision-kind/absence","statement":"No file is read here and none is written."}]}
+{"definition":"the file beside a page holding what that page states, one line to a property"}
+{"id":"01a0a68c-985e-7875-97b4-f0cf32eec9f2"}
+{"slug":"page-carried"}
+{"test":"ts"}
+{"type":"page-type/module"}

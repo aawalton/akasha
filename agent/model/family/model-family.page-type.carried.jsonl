@@ -1,0 +1,9 @@
+{"definition":"a family of models"}
+{"extends":["page-type/domain"]}
+{"id":"01a0535c-f2cf-7d57-8803-2dbb722ac8bc"}
+{"parts":["model-family/fable","model-family/haiku","model-family/opus","model-family/sonnet","text-property/model-name"]}
+{"properties":[{"pageProperty":"text-property/model-name","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"model-family"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

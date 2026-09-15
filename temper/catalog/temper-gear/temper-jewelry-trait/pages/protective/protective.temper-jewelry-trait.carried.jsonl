@@ -1,0 +1,11 @@
+{"displayOrder":6}
+{"effect":"Increases Physical and Spell Resistance"}
+{"effects":"jsonl"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_JEWELRY_PROTECTIVE"}
+{"id":"019e5b97-6d92-72c7-9fd1-340ac0828a70"}
+{"key":"protective"}
+{"material":"Titanium"}
+{"qualityValues":"jsonl"}
+{"slug":"protective"}
+{"title":"Protective"}
+{"type":"page-type/temper-jewelry-trait"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A target written as a bare address means no proxy behind the address."},{"decisionKind":"decision-kind/departure","statement":"Text the proxy cannot read as a map stops the proxy from starting."}]}
+{"definition":"a host-to-target map read out of the text it is written as"}
+{"id":"01a06863-8e7c-7cd0-bc1e-33ed95b0fe0a"}
+{"slug":"route-map-core"}
+{"type":"page-type/module"}

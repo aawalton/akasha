@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A venue's place in this list is the order the venues are visited in."},{"decisionKind":"decision-kind/gap","statement":"A venue moved to another place sends the player round in a different order."},{"decisionKind":"decision-kind/departure","statement":"A location the player cannot reach has no venue."}]}
+{"definition":"the places a plan visits, in the order a player goes round them"}
+{"id":"01a06151-370a-75d2-9f60-78f57041397a"}
+{"slug":"inventory-management-plan-route-venue"}
+{"type":"page-type/module"}

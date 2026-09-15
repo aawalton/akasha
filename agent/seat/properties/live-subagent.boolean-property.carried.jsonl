@@ -1,0 +1,6 @@
+{"definition":"whether a subagent a seat dispatched has a turn still to come"}
+{"id":"01a06cf1-d207-7e6e-bb56-4cd271b224b1"}
+{"propertySlug":"live-subagent"}
+{"slug":"live-subagent"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

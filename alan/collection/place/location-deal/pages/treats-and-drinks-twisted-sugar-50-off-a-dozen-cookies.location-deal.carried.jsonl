@@ -1,0 +1,14 @@
+{"collection":"location-collection/starving-student-card"}
+{"dealKey":"ssc:treats-and-drinks:twisted-sugar:50-off-a-dozen-cookies"}
+{"finePrint":"PG & Saratoga Only"}
+{"id":"019f322c-b2be-7a49-b4dd-eb672e0fc3f6"}
+{"locations":["location/twisted-sugar-pleasant-grove","location/twisted-sugar-saratoga-springs"]}
+{"offerText":"50% OFF! a Dozen Cookies!"}
+{"offerType":"percent-off"}
+{"section":"Treats & Drinks"}
+{"slug":"treats-and-drinks-twisted-sugar-50-off-a-dozen-cookies"}
+{"struckOut":false}
+{"title":"Twisted Sugar — 50% OFF! a Dozen Cookies!"}
+{"type":"page-type/location-deal"}
+{"useLimit":"1"}
+{"usesUsed":0}

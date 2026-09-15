@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A condition asks that every named line be maxed or that one named line is not."}]}
+{"definition":"the shape of the condition asking how far named skill lines have been levelled"}
+{"id":"01a060d9-44cb-7469-95e8-03afb51f0719"}
+{"slug":"required-skill-lines-filter-types"}
+{"type":"page-type/module"}

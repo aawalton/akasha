@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"React hook taking a page type slug to its id through a directory the server answers."}
+{"id":"01a06164-b506-7001-b35d-312b7a7d55ae"}
+{"slug":"use-page-type-directory"}
+{"type":"page-type/module"}

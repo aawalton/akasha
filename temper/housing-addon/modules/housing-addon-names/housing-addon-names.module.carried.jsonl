@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The name here is the folder name the game loads."}]}
+{"definition":"the name and version the housing add-on answers to"}
+{"id":"01a06113-b7cc-7d40-b7b2-0b20ea198305"}
+{"slug":"housing-addon-names"}
+{"type":"page-type/module"}

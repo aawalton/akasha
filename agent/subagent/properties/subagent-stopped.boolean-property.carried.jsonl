@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A subagent nobody stopped states this neither way."},{"decisionKind":"decision-kind/departure","statement":"A subagent stopped this way is refused every model turn it asks for after that."},{"decisionKind":"decision-kind/departure","statement":"The stop reaches the subagent at the next model turn that subagent asks for."},{"decisionKind":"decision-kind/departure","statement":"A subagent inside a tool call finishes that call before the stop reaches it."},{"decisionKind":"decision-kind/departure","statement":"A stop written here outlives a restart of the proxy refusing the turns."},{"decisionKind":"decision-kind/departure","statement":"A stop outlives that restart only while the page it is beside is there."},{"decisionKind":"decision-kind/departure","statement":"A stop written here reads the subagent's page as stale to the sweep."},{"decisionKind":"decision-kind/departure","statement":"A stop written here goes with the subagent's page."}]}
+{"definition":"whether a subagent was stopped from the agents panel"}
+{"id":"01a09c51-0af1-7b79-8b0d-282cd0e95b9d"}
+{"propertySlug":"stopped"}
+{"slug":"subagent-stopped"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

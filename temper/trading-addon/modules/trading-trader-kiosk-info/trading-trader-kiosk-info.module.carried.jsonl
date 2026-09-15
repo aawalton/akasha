@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Kiosk facts are read from the game rather than kept between sessions."}]}
+{"definition":"what is known of the trader kiosk a player is at"}
+{"id":"01a06160-2a5d-76e5-bad4-aeac785cc866"}
+{"slug":"trading-trader-kiosk-info"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"definition":"the pages of one type a reader is shown"}
+{"id":"01a08283-636d-77ee-90ed-540060837919"}
+{"slug":"archive-of-worlds-page-listing"}
+{"type":"page-type/route"}
+{"urlPath":":pageTypeSlug"}

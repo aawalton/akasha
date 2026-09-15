@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A shape is found in the index rather than by walking the pages."},{"decisionKind":"decision-kind/departure","statement":"A shape Alan has not decided reads as nothing rather than as false."},{"decisionKind":"decision-kind/departure","statement":"A shape that will not load refuses the read."}]}
+{"definition":"the sentence shapes the index names, read out of their pages"}
+{"id":"01a05dba-d49f-70b7-a3a3-7eb1c069e14d"}
+{"slug":"shape-reading"}
+{"type":"page-type/module"}

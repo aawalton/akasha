@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Switching between account-wide and per character carries the current settings over."}]}
+{"definition":"opening the quality-of-life settings account-wide or per character"}
+{"id":"01a0611d-84cc-7974-969f-8cbccd74d0f6"}
+{"slug":"companion-qol-saved-variables"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the handle a call made once after a delay is known by"}
+{"id":"01a081d0-3e45-749c-b407-d15c7e134ff9"}
+{"luaExport":"__TS__SetTimeout"}
+{"slug":"set-timeout"}
+{"type":"page-type/lualib-helper"}

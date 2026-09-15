@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"one session's payload put together from state, story and the actions still pending"}
+{"id":"01a0628e-a5db-798a-bf9f-8f522487f7b9"}
+{"slug":"session-envelope"}
+{"test":"ts"}
+{"type":"page-type/module"}

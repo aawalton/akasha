@@ -1,0 +1,7 @@
+{"definition":"how many seconds an item's ability waits between uses"}
+{"id":"01a05fcd-f54b-793a-81d3-a56e18375ccf"}
+{"max":null}
+{"propertySlug":"ability-cooldown"}
+{"slug":"ability-cooldown"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

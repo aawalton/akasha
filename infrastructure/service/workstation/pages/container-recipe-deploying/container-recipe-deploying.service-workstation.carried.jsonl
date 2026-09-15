@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One kind is put up by this service, and the code beside this page names that kind."},{"decisionKind":"decision-kind/departure","statement":"A recipe's image is built on the cluster's buildkit rather than on this machine."},{"decisionKind":"decision-kind/departure","statement":"A recipe whose image the registry holds already is put up without a build."},{"decisionKind":"decision-kind/departure","statement":"A tick with every container recipe up to date puts nothing up, so that is no loop without end."}]}
+{"definition":"the service putting the container recipe kind up once a commit changes what it is built from"}
+{"enabled":true}
+{"id":"01a0965f-7f5f-73fa-8be8-4758f86ec930"}
+{"slug":"container-recipe-deploying"}
+{"systemd":{"schedule":"*:*:00","jitterSeconds":10,"startTimeoutSeconds":3900}}
+{"type":"page-type/service-workstation"}

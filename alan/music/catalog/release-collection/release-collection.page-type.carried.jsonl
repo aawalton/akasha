@@ -1,0 +1,8 @@
+{"definition":"a shelf of releases Alan keeps together"}
+{"extends":["page-type/collection"]}
+{"id":"01a06807-be66-7008-9e51-2703ac729611"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"release-collection"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

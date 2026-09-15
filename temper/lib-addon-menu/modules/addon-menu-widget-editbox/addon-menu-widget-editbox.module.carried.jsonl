@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The value is written back when the box loses focus."},{"decisionKind":"decision-kind/departure","statement":"An escape press writes the value back rather than discarding the edit."},{"decisionKind":"decision-kind/departure","statement":"A mouse wheel over a multiline box moves the cursor by whole lines."},{"decisionKind":"decision-kind/constraint","statement":"Input is capped at three thousand characters when maxChars is absent."}]}
+{"definition":"the text entry widget, single line or multiline"}
+{"id":"01a06100-0000-7000-8000-000000000021"}
+{"slug":"addon-menu-widget-editbox"}
+{"type":"page-type/module"}

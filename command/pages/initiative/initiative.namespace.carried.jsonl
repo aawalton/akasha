@@ -1,0 +1,6 @@
+{"definition":"the initiatives at work and the intents each one has"}
+{"id":"01a082e8-a8ea-7b0b-a8b3-f6c4e7ac5d19"}
+{"name":"initiative"}
+{"parts":["command/initiative-assign","command/initiative-delete","command/initiative-delete-intent","command/initiative-hand-intent","command/initiative-move-intent","command/initiative-work-tree"]}
+{"slug":"initiative"}
+{"type":"page-type/namespace"}

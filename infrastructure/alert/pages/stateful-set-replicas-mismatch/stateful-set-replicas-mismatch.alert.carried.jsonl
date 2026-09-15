@@ -1,0 +1,8 @@
+{"definition":"a stateful set has been running fewer replicas than it asks for"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fb-7f40-941a-70c89ba8b600"}
+{"runbook":"txt"}
+{"slug":"stateful-set-replicas-mismatch"}
+{"summary":"StatefulSet {{ $labels.namespace }}/{{ $labels.statefulset }} replicas mismatch"}
+{"title":"Stateful set replicas mismatch"}
+{"type":"page-type/alert"}

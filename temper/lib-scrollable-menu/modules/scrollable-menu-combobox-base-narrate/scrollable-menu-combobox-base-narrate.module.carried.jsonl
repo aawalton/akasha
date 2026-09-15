@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each narration event has its own fixed callback argument signature."},{"decisionKind":"decision-kind/constraint","statement":"Narration is skipped entirely while the UI reader is off."},{"decisionKind":"decision-kind/departure","statement":"An event with no signature entry is dropped silently."},{"decisionKind":"decision-kind/constraint","statement":"The addon callback must return a string for anything to be spoken."}]}
+{"definition":"the dispatch of a narration event to the addon callback and then to the reader"}
+{"id":"01a06275-c445-72e9-9f8e-71dcf7af7e19"}
+{"slug":"scrollable-menu-combobox-base-narrate"}
+{"type":"page-type/module"}

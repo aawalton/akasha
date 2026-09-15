@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A web app naming more than one leaves which workload a deploy puts up unsettled."},{"decisionKind":"decision-kind/departure","statement":"A slug no cluster service page has is refused."}]}
+{"definition":"the cluster services running a web app"}
+{"id":"01a05b26-f8b6-7334-a5d4-d44ab19e071e"}
+{"propertySlug":"service-clusters"}
+{"slug":"service-clusters"}
+{"targetPageType":"page-type/service-cluster"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

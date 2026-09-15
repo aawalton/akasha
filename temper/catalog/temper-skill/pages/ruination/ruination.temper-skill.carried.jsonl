@@ -1,0 +1,19 @@
+{"baseName":"Ruination"}
+{"description":"\"Increases your Weapon and Spell Damage by 258.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45272}
+{"icon":"/esoui/art/icons/ability_sorcerer_062.dds"}
+{"id":"019e624a-12dc-7ff1-938c-4bea7e83dc1d"}
+{"isMorph":false}
+{"key":"ruination"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"racial-dark-elf-skills"}
+{"skillType":"passive"}
+{"slug":"ruination"}
+{"status":"supported"}
+{"subcategoryId":"racial-dark-elf-skills"}
+{"title":"Ruination"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each helper performs a bare TypeScript cast and returns the value unchanged."},{"decisionKind":"decision-kind/absence","statement":"The cast is not guarded by any runtime check."},{"decisionKind":"decision-kind/departure","statement":"Callback signatures are named after their parameter list rather than their role."},{"decisionKind":"decision-kind/constraint","statement":"Type names are truncated to a fixed width which forces the digit suffixes."}]}
+{"definition":"the narrowing helpers for shapes named from ThisVoidControlUnknownAlt through PreventerVar"}
+{"id":"01a06275-c444-7786-bf45-b073f4b4af21"}
+{"slug":"scrollable-menu-casts-3b"}
+{"type":"page-type/module"}

@@ -1,0 +1,18 @@
+{"baseName":"Shadow Barrier"}
+{"description":"\"Casting a Shadow ability grants you Major Resolve for 12 seconds, increasing your Physical and Spell Resistance by 5948. This duration is increased by 2 seconds for each piece of Heavy Armor equipped.\\n\\nCurrent duration: 12 seconds\""}
+{"esoSkillId":45071}
+{"icon":"/esoui/art/icons/ability_sorcerer_022.dds"}
+{"id":"019e6245-a728-779c-900b-74e2fe075bf2"}
+{"isMorph":false}
+{"key":"shadow-barrier"}
+{"learnedLevel":27}
+{"lineRankNeeded":27}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"nightblade-shadow"}
+{"skillType":"passive"}
+{"slug":"shadow-barrier"}
+{"status":"unsupported"}
+{"subcategoryId":"nightblade-shadow"}
+{"title":"Shadow Barrier"}
+{"type":"page-type/temper-skill"}

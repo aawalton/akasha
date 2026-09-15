@@ -1,0 +1,17 @@
+{"baseName":"Encase"}
+{"description":"\"Call forth a Daedric shroud from the Colored Rooms to heal you and your allies and enfeeble foes in front of you. \\n\\nYou and allies in the area are healed for 2700 Health and receive Minor Vitality, increasing your healing received and damage shield strength by 6% for 10 seconds.\\n\\nEnemies are afflicted with Major Maim, reducing their damage done by 10% for 10 seconds.\""}
+{"esoSkillId":30107}
+{"icon":"/esoui/art/icons/ability_sorcerer_crushing_winds.dds"}
+{"id":"019e6245-a764-7a56-bc57-07920b18f1f6"}
+{"isMorph":true}
+{"key":"vibrant-shroud"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"sorcerer-dark-magic"}
+{"skillType":"active"}
+{"slug":"vibrant-shroud"}
+{"subcategoryId":"sorcerer-dark-magic"}
+{"title":"Vibrant Shroud"}
+{"type":"page-type/temper-skill"}

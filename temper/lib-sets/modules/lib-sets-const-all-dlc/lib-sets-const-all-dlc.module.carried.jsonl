@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A DLC's name is read from the game's own collectible and achievement names."},{"decisionKind":"decision-kind/departure","statement":"Each DLC id is declared as a game global rather than a member of a table."}]}
+{"definition":"every chapter, DLC and patch the game has shipped, each with its release date"}
+{"id":"01a061d7-7bc8-7a36-91a7-b3880f734351"}
+{"slug":"lib-sets-const-all-dlc"}
+{"type":"page-type/module"}

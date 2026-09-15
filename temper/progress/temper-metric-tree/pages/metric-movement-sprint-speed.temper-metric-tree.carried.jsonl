@@ -1,0 +1,8 @@
+{"displayOrder":1}
+{"id":"019e2fcd-5a79-7d6a-90f8-63dfdd43cf19"}
+{"nodeId":"movement-sprint-speed"}
+{"nodeType":"metric"}
+{"parent":"category-mobility"}
+{"slug":"metric-movement-sprint-speed"}
+{"title":"Movement Sprint Speed"}
+{"type":"page-type/temper-metric-tree"}

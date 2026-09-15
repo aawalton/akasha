@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A place in this table is the number a saved build hash has."}]}
+{"definition":"which skill lines belong to each class, each race, and the base game"}
+{"id":"01a0616b-aaf2-7d29-bf88-e33b5830c654"}
+{"slug":"character-capture-skill-line-groups"}
+{"type":"page-type/module"}

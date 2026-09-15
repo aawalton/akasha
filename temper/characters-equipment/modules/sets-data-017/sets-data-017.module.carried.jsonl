@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The sets are named here in the order the gathered table answers its ids in."},{"decisionKind":"decision-kind/gap","statement":"A set moved to another place breaks every build hash saved."}]}
+{"definition":"part 017 of the gear set table, chokethorn through clever-alchemist"}
+{"id":"01a0619f-59eb-776d-aa7f-f1621cd6b1cb"}
+{"slug":"sets-data-017"}
+{"type":"page-type/module"}

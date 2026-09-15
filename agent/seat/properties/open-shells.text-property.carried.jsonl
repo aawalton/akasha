@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A background command is named by the task the transcript gives that command."},{"decisionKind":"decision-kind/departure","statement":"A command is listed until the notification naming that command is read."}]}
+{"definition":"every background command a seat started that is still live"}
+{"id":"01a06e54-0ecf-7959-818d-d60026e07e65"}
+{"maxLength":64}
+{"nameFormat":null}
+{"propertySlug":"open-shells"}
+{"slug":"open-shells"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,19 @@
+{"baseName":"Mage Adept"}
+{"description":"\"Reduces the Magicka and Health cost of your Mages Guild abilities by 15%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45601}
+{"icon":"/esoui/art/icons/ability_sorcerer_045.dds"}
+{"id":"019e6238-c2e5-7387-8293-0b8588887e7e"}
+{"isMorph":false}
+{"key":"mage-adept"}
+{"learnedLevel":5}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"guild-mages-guild"}
+{"skillType":"passive"}
+{"slug":"mage-adept"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-mages-guild"}
+{"title":"Mage Adept"}
+{"type":"page-type/temper-skill"}

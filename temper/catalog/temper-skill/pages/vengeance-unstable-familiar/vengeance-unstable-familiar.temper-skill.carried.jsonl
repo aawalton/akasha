@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Unstable Familiar"}
+{"description":"\"Command the powers of Oblivion to send a Daedric familiar to fight. After a delay, the familiar attacks and deals |cffffff18020|r Shock Damage over |cffffff6|r seconds to up to 3 nearby enemies.\""}
+{"esoSkillId":237865}
+{"icon":"/esoui/art/icons/ability_sorcerer_unstable_fimiliar.dds"}
+{"id":"019e6f53-a9a4-7810-bb4b-b509096df346"}
+{"isMorph":false}
+{"key":"vengeance-unstable-familiar"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-sorcerer-daedric-summoning"}
+{"skillType":"active"}
+{"slug":"vengeance-unstable-familiar"}
+{"subcategoryId":"vengeance-sorcerer-daedric-summoning"}
+{"title":"Vengeance Unstable Familiar"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This value is read off the unit the collection names rather than stated on that collection."},{"decisionKind":"decision-kind/departure","statement":"The value read is the unit's own `words`."},{"decisionKind":"decision-kind/departure","statement":"A total counted in this unit is absent where the collection states no unit words."},{"decisionKind":"decision-kind/departure","statement":"A total counted in this unit is absent where the unit words are zero."},{"decisionKind":"decision-kind/gap","statement":"A formula cannot yet read a property off the page a relation reaches."}]}
+{"definition":"how many words one of the collection's unit is worth"}
+{"id":"01a06959-98a7-7ec0-bc21-02de65c2abf5"}
+{"max":null}
+{"propertySlug":"unit-words"}
+{"slug":"unit-words"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

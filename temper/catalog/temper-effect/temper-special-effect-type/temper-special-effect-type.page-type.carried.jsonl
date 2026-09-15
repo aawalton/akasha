@@ -1,0 +1,8 @@
+{"definition":"a kind of effect written as an act rather than as a number"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fc5-94d0-79b4-82e2-3a1a42663ad8"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-special-effect-type"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

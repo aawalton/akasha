@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A slot with no trait yields no signature."},{"decisionKind":"decision-kind/departure","statement":"A shield is read as an off-hand with an armor trait."},{"decisionKind":"decision-kind/departure","statement":"A two-handed main hand leaves the off-hand unread."}]}
+{"definition":"a build's wanted gear written as the numbers the game states items by"}
+{"id":"01a06276-e3e7-73dc-b7c5-e02a70f1c789"}
+{"slug":"equipment-signature-compiler"}
+{"type":"page-type/module"}

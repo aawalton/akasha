@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The pairs carried are handed in rather than read off a page here."},{"decisionKind":"decision-kind/departure","statement":"A pair is carried in the order the pairs were handed in."},{"decisionKind":"decision-kind/departure","statement":"A relay with no secret to carry on throws rather than carrying part of what it was handed."},{"decisionKind":"decision-kind/departure","statement":"A point the index answers no page for costs its own carry rather than the rest."},{"decisionKind":"decision-kind/departure","statement":"A site that refuses a carry costs that carry rather than the rest."},{"decisionKind":"decision-kind/departure","statement":"A carry that lands is said where the run's output goes."},{"decisionKind":"decision-kind/departure","statement":"A carry that does not land is said where the run's faults go."},{"decisionKind":"decision-kind/departure","statement":"The checkout is asked for once however many pairs are handed in."},{"decisionKind":"decision-kind/absence","statement":"Nothing here ends the process."},{"decisionKind":"decision-kind/absence","statement":"Nothing here names a point or a site of its own."},{"decisionKind":"decision-kind/absence","statement":"Nothing here takes a reading."}]}
+{"definition":"the readings one run carries, each named by a readout point and the site showing it"}
+{"id":"01a09223-fc31-7916-b4e3-8b43923da124"}
+{"slug":"readout-relay-carrying"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,19 @@
+{"baseName":"Unholy Knowledge"}
+{"description":"\"Reduces the Health, Magicka, and Stamina costs of your non Core Combat abilities by 6%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45176}
+{"icon":"/esoui/art/icons/ability_sorcerer_045.dds"}
+{"id":"019e6245-a759-7e89-97d7-3d7b2add03ab"}
+{"isMorph":false}
+{"key":"unholy-knowledge"}
+{"learnedLevel":18}
+{"lineRankNeeded":18}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"sorcerer-dark-magic"}
+{"skillType":"passive"}
+{"slug":"unholy-knowledge"}
+{"status":"supported"}
+{"subcategoryId":"sorcerer-dark-magic"}
+{"title":"Unholy Knowledge"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A place in this table is the number a saved build hash has."}]}
+{"definition":"which bit of a build hash's passive field each passive skill holds"}
+{"id":"01a0616b-18bf-7c2e-9cbf-644b6da6a01a"}
+{"slug":"character-capture-passive-map"}
+{"type":"page-type/module"}

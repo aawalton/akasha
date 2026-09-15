@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the copy of an array with its elements in the opposite order"}
+{"id":"01a081ed-ab46-7ec8-aeaf-6eb0c7270e84"}
+{"luaExport":"__TS__ArrayToReversed"}
+{"slug":"array-to-reversed"}
+{"type":"page-type/lualib-helper"}

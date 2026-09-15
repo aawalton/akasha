@@ -1,0 +1,11 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A decision has every option the decision was settled between as well as the option settled on."},{"decisionKind":"decision-kind/departure","statement":"An option not settled on stays so the fork can be read again."},{"decisionKind":"decision-kind/departure","statement":"The effect a decision had is stated rather than worked out from the chapters after the decision."},{"decisionKind":"decision-kind/departure","statement":"The words a decision has are the story's rather than akasha's own."}]}
+{"definition":"one fork a reader settled, with what the settling changed"}
+{"extends":["page-type/page"]}
+{"id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
+{"parts":["select-property/decision-type","text-property/chosen","text-property/decision-effect","text-property/decision-options"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/world","required":false,"many":false},{"pageProperty":"number-property/chapter-number","required":false,"many":false},{"pageProperty":"select-property/decision-type","required":false,"many":false},{"pageProperty":"text-property/decision-options","required":false,"many":false},{"pageProperty":"text-property/chosen","required":false,"many":false},{"pageProperty":"text-property/decision-effect","required":false,"many":false},{"pageProperty":"file-property/prose","required":false,"many":false}]}
+{"runsTabooCheck":false}
+{"schema":"jsonl"}
+{"slug":"story-decision"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,17 @@
+{"baseName":"Maturation"}
+{"description":"\"When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by |cffffff10|r% for |cffffff10|r seconds.\""}
+{"esoSkillId":85880}
+{"icon":"/esoui/art/icons/passive_warden_007.dds"}
+{"id":"019e6f53-a466-7f0e-aea0-25c290ac524c"}
+{"isMorph":false}
+{"key":"maturation-85880"}
+{"learnedLevel":39}
+{"lineRankNeeded":39}
+{"morphIndex":0}
+{"rank":39}
+{"skillLineId":"warden-green-balance"}
+{"skillType":"passive"}
+{"slug":"maturation-85880"}
+{"subcategoryId":"warden-green-balance"}
+{"title":"Maturation"}
+{"type":"page-type/temper-skill"}

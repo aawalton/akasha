@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A field the test leaves unnamed takes the value stated here."}]}
+{"definition":"the item and the matcher context a test builds when the test cares about neither"}
+{"id":"01a06100-3bef-7eeb-afe9-e4458d43d5ef"}
+{"slug":"inventory-rule-test-utils"}
+{"type":"page-type/test-fixture"}

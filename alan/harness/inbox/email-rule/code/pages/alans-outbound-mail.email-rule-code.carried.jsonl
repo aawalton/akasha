@@ -1,0 +1,6 @@
+{"filing":"skip"}
+{"id":"01a06860-54a1-7d94-a4d0-eab66bcd5920"}
+{"matches":[{"field":"from","comparison":"is","values":["aawalton@gmail.com"]},{"field":"to","comparison":"does-not-contain","values":["aawalton@gmail.com"]}]}
+{"slug":"alans-outbound-mail"}
+{"title":"Alans outbound mail"}
+{"type":"page-type/email-rule-code"}

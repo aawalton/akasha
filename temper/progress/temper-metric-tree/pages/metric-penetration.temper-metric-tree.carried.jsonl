@@ -1,0 +1,9 @@
+{"displayOrder":5}
+{"id":"019e2fcd-597e-7f39-a4a2-088e6389dfdb"}
+{"includeInChildAggregates":true}
+{"nodeId":"penetration"}
+{"nodeType":"metric"}
+{"parent":"category-damage"}
+{"slug":"metric-penetration"}
+{"title":"Penetration"}
+{"type":"page-type/temper-metric-tree"}

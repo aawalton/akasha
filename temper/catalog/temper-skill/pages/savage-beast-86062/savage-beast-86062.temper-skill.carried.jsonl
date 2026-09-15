@@ -1,0 +1,17 @@
+{"baseName":"Savage Beast"}
+{"description":"\"Casting an Animal Companions ability while are in combat generates |cffffff2|r Ultimate. This effect can occur once every |cffffff8|r seconds.\""}
+{"esoSkillId":86062}
+{"icon":"/esoui/art/icons/passive_warden_009.dds"}
+{"id":"019e6f53-a6b4-7b0a-97c2-cf1df03b6347"}
+{"isMorph":false}
+{"key":"savage-beast-86062"}
+{"learnedLevel":14}
+{"lineRankNeeded":14}
+{"morphIndex":0}
+{"rank":14}
+{"skillLineId":"warden-animal-companions"}
+{"skillType":"passive"}
+{"slug":"savage-beast-86062"}
+{"subcategoryId":"warden-animal-companions"}
+{"title":"Savage Beast"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,13 @@
+{"abilityId":153687}
+{"companionId":"bastian"}
+{"description":"Your Companion lashes an enemy with flame, dealing $1 Flame Damage and setting them Off Balance for $$2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_dragonknight_001.dds"}
+{"id":"019e6484-384e-7e08-ba17-77fb370e009b"}
+{"key":"bastian-fiery-flail"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-bastian-ardent-warrior"}
+{"skillType":"active"}
+{"slug":"bastian-bastian-fiery-flail"}
+{"title":"Fiery Flail"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

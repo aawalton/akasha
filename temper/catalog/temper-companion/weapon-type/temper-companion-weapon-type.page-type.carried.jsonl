@@ -1,0 +1,9 @@
+{"definition":"a kind of weapon a companion wields"}
+{"extends":["page-type/temper-companion-thing"]}
+{"id":"01a05fcd-aed1-71b0-8b8c-2b74e9a2d662"}
+{"parts":["boolean-property/is-off-hand-only"]}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false},{"pageProperty":"boolean-property/is-off-hand-only","required":true,"many":false},{"pageProperty":"boolean-property/is-two-handed","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-companion-weapon-type"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

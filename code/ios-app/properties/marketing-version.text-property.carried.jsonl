@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A version is up to three numbers parted by dots."},{"decisionKind":"decision-kind/departure","statement":"A version is unchanged by an upload."},{"decisionKind":"decision-kind/gap","statement":"A build gives an app the version its page states."}]}
+{"definition":"the version of an app a person reads on the App Store"}
+{"id":"01a05f96-1925-7984-9108-b4d5346476fc"}
+{"maxLength":20}
+{"nameFormat":null}
+{"propertySlug":"marketing-version"}
+{"slug":"marketing-version"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

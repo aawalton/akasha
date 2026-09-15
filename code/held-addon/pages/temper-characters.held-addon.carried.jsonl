@@ -1,0 +1,9 @@
+{"addonKind":"native"}
+{"addonName":"TemperCharacters"}
+{"adjacents":["held-addon/temper-companions","held-addon/temper-catalog","held-addon/temper-quests"]}
+{"esoAddon":"eso-addon/temper-characters-addon"}
+{"heldBy":13029}
+{"id":"01a081a0-c656-7b98-93c9-da4d56019d8f"}
+{"slug":"temper-characters"}
+{"tiClean":true}
+{"type":"page-type/held-addon"}

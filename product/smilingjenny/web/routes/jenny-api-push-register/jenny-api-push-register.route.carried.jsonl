@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the device Jenny's app registers to be pushed to"}
+{"id":"01a08822-95b6-72cc-9d33-03c05ed1992a"}
+{"slug":"jenny-api-push-register"}
+{"type":"page-type/route"}
+{"urlPath":"api/push/register"}

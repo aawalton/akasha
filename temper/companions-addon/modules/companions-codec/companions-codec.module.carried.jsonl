@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An empty slot is written as index zero rather than left out."}]}
+{"definition":"reading a companion's gear and skills off the game and writing them out as a hash"}
+{"id":"01a0611d-84d0-7a02-930a-0f62bfef9dcc"}
+{"slug":"companions-codec"}
+{"type":"page-type/module"}

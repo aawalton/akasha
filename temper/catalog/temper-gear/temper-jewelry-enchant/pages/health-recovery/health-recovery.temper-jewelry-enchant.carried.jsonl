@@ -1,0 +1,12 @@
+{"displayOrder":5}
+{"effect":"Increases Health Recovery"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_HEALTH_REGEN"}
+{"essenceRune":"Okoma"}
+{"glyphName":"Glyph of Health Recovery"}
+{"id":"019e5c85-d949-7117-b9fc-f50cc02b56ed"}
+{"key":"health-recovery"}
+{"qualityValues":"jsonl"}
+{"slug":"health-recovery"}
+{"title":"Health Recovery"}
+{"type":"page-type/temper-jewelry-enchant"}

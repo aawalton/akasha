@@ -1,0 +1,12 @@
+{"action":"temper-item-action/move-to"}
+{"active":false}
+{"categoryId":"furnishings"}
+{"description":"Moves furnishings to the furniture vault (house storage) when visiting the bank. Keeps your backpack clear of bulky furniture items."}
+{"destination":"furniture-vault"}
+{"displayOrder":35}
+{"goal":"temper-rule-goal/hoard"}
+{"id":"019e3104-2623-7821-a2ec-6231f73b4a1b"}
+{"key":"furnishings-house-storage"}
+{"slug":"furnishings-house-storage"}
+{"title":"Store furniture in housing"}
+{"type":"page-type/temper-rule-template"}

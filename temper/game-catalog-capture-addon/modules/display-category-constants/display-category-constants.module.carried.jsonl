@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each number is read out of the client rather than written down here."},{"decisionKind":"decision-kind/absence","statement":"Nothing here turns a number into display text."}]}
+{"definition":"the display category numbers the game client has, each under the name the client spells it with"}
+{"id":"01a06127-6628-72fa-ab27-53d7049284ec"}
+{"slug":"display-category-constants"}
+{"type":"page-type/module"}

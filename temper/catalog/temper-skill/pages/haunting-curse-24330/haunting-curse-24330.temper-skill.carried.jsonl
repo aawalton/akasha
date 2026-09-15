@@ -1,0 +1,17 @@
+{"baseName":"Daedric Curse"}
+{"description":"\"Curse an enemy with a destructive rune, dealing |cffffff11020|r Magic Damage to the target and all other nearby enemies after |cffffff3.5|r seconds.\\n\\nThe curse will continue to haunt the enemy and explode a second time, dealing |cffffff11020|r Magic Damage to the target and all other nearby enemies after an additional |cffffff8.5|r seconds.\\n\\nYou can have only one Haunting Curse active at a time.\""}
+{"esoSkillId":24330}
+{"icon":"/esoui/art/icons/ability_sorcerer_velocious_curse.dds"}
+{"id":"019e6f53-a2dc-7812-a273-4fd9c4a447ec"}
+{"isMorph":true}
+{"key":"haunting-curse-24330"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":4}
+{"skillLineId":"sorcerer-daedric-summoning"}
+{"skillType":"active"}
+{"slug":"haunting-curse-24330"}
+{"subcategoryId":"sorcerer-daedric-summoning"}
+{"title":"Haunting Curse"}
+{"type":"page-type/temper-skill"}

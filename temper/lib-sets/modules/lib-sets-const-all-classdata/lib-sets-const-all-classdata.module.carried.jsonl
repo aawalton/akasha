@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The class list is read from the game at load rather than written out here."}]}
+{"definition":"every player class the game knows, with its index, name, icon and color"}
+{"id":"01a061d7-7bc9-7ba9-94c0-a91d978b1f8a"}
+{"slug":"lib-sets-const-all-classdata"}
+{"type":"page-type/module"}

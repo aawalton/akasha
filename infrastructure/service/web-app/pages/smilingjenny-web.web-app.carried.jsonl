@@ -1,0 +1,9 @@
+{"buildCommand":"bun run build"}
+{"definition":"Jenny's command center on the web"}
+{"hostnames":["smilingjenny.me"]}
+{"id":"01a05b26-f8b6-72a2-affe-a1ea40040e3e"}
+{"secretResource":"smilingjenny-secrets"}
+{"serviceClusters":["service-cluster/smilingjenny-web"]}
+{"slug":"smilingjenny-web"}
+{"sourceDirectory":"product/smilingjenny/web"}
+{"type":"page-type/web-app"}

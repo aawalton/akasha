@@ -1,0 +1,19 @@
+{"baseName":"Restoring Spirit"}
+{"description":"\"Reduces the Health, Magicka, Stamina, and Ultimate costs of your abilities by 5%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45212}
+{"icon":"/esoui/art/icons/ability_templar_014.dds"}
+{"id":"019e6245-a710-7fa3-bfbe-400e38ff895b"}
+{"isMorph":false}
+{"key":"restoring-spirit"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"templar-dawns-wrath"}
+{"skillType":"passive"}
+{"slug":"restoring-spirit"}
+{"status":"supported"}
+{"subcategoryId":"templar-dawns-wrath"}
+{"title":"Restoring Spirit"}
+{"type":"page-type/temper-skill"}

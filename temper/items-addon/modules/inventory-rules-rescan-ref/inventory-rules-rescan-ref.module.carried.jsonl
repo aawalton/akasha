@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"a holder for the rescan function, so a module lower in the tree can call it"}
+{"id":"01a06258-b533-7b5c-b837-e57e670fe046"}
+{"slug":"inventory-rules-rescan-ref"}
+{"type":"page-type/module"}

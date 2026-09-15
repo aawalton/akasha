@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A picture is one persona's."},{"decisionKind":"decision-kind/departure","statement":"The picture itself is outside this repository."},{"decisionKind":"decision-kind/departure","statement":"A record naming no path keeps its picture under the record's own identity."},{"decisionKind":"decision-kind/absence","statement":"No page of this type is on its own."}]}
+{"definition":"a picture a persona is drawn as"}
+{"extends":["page-type/page"]}
+{"id":"01a0655b-4a9b-7009-9c47-3a4467acc46f"}
+{"parts":["relation-property/image-persona","text-property/image-path","text-property/image-root"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/image-persona","required":true,"many":false},{"pageProperty":"text-property/image-path","required":false,"many":false},{"pageProperty":"text-property/image-root","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"persona-image"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

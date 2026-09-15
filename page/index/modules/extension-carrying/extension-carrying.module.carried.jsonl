@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A file closes with an extension where the name after its last dot is that extension."},{"decisionKind":"decision-kind/departure","statement":"A file is named by such a property where a page carrying that property sits in the file's folder."},{"decisionKind":"decision-kind/departure","statement":"A file in a folder beneath that page is named by nothing here."},{"decisionKind":"decision-kind/departure","statement":"A name with no dot closes with no extension."},{"decisionKind":"decision-kind/departure","statement":"Every kind under a named extension property is read here rather than that one kind."},{"decisionKind":"decision-kind/departure","statement":"Which extension properties are meant is the caller's to say."},{"decisionKind":"decision-kind/departure","statement":"What a face says about every extension property is worked out once for that face."},{"decisionKind":"decision-kind/absence","statement":"Whether a page states the value is not answered here."}]}
+{"definition":"the files beside a page a property names by the extension they close with"}
+{"id":"01a09147-a806-78c9-8f27-bf82ebbd41f2"}
+{"slug":"extension-carrying"}
+{"test":"ts"}
+{"type":"page-type/module"}

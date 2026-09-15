@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"iOS opens no camera for an app that is not in the foreground."},{"decisionKind":"decision-kind/departure","statement":"The intent opens the app rather than running headless."},{"decisionKind":"decision-kind/departure","statement":"One press shows the camera, and the next press takes the picture and sends it."},{"decisionKind":"decision-kind/departure","statement":"Which press is which is read off whether the camera is on screen and ready rather than off a flag."},{"decisionKind":"decision-kind/departure","statement":"A press after a picture was sent starts a fresh capture."}]}
+{"definition":"the Swift of the Take Picture app intent"}
+{"id":"01a09c6a-b3b2-77f6-b74b-12dcf2597e31"}
+{"shell":"sh"}
+{"slug":"alanwalton-picture-intent"}
+{"sourced":true}
+{"type":"page-type/shell-script"}

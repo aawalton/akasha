@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The parts put away come back the moment the reader asks for those parts."}]}
+{"definition":"whether all but a page's body is put away while the page is read"}
+{"id":"01a0683a-620a-7c50-9431-5e9e2efdc3e9"}
+{"propertySlug":"focus-mode"}
+{"slug":"frame-focus-mode"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

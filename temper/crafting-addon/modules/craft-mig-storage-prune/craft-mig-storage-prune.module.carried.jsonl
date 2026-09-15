@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"drops the empty storage entries an older version left"}
+{"id":"01a061c7-e85c-71a2-ac7b-864733adccf4"}
+{"slug":"craft-mig-storage-prune"}
+{"type":"page-type/module"}

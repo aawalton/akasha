@@ -1,0 +1,9 @@
+{"definition":"the textures an add-on keeps under a folder named bin"}
+{"folderName":"bin"}
+{"holdsBytes":true}
+{"id":"01a0912b-3b04-79e0-b715-2decfbfcdc83"}
+{"propertySlug":"addon-bin-folder"}
+{"runsFileLength":false}
+{"slug":"addon-bin-folder"}
+{"type":"page-type/named-folder-property"}
+{"types":"ts"}

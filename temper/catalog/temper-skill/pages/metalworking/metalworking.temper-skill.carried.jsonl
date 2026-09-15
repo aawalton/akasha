@@ -1,0 +1,17 @@
+{"baseName":"Metalworking"}
+{"description":"\"Allows the use of Rubedite Ingots.\""}
+{"esoSkillId":70041}
+{"icon":"/esoui/art/icons/ability_smith_001.dds"}
+{"id":"019e6224-cca5-771c-ab95-143208d7cbac"}
+{"isMorph":false}
+{"key":"metalworking"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":10}
+{"skillLineId":"craft-blacksmithing"}
+{"skillType":"passive"}
+{"slug":"metalworking"}
+{"subcategoryId":"craft-blacksmithing"}
+{"title":"Metalworking"}
+{"type":"page-type/temper-skill"}

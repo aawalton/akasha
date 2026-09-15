@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A place in this table is the number a saved build hash has."}]}
+{"definition":"how many bits a character build hash gives each field, and its hash version"}
+{"id":"01a0616b-920d-7fd7-8efb-04f9df5edf75"}
+{"slug":"character-capture-codec-constants"}
+{"type":"page-type/module"}

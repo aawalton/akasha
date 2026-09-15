@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The order these modules are loaded in is the order their effects happen."}]}
+{"definition":"the ordered side-effect imports of the search window's modules"}
+{"id":"01a0623e-53a2-77a4-8fe3-d86ebd012700"}
+{"slug":"lib-sets-search-ui-searchui-index"}
+{"type":"page-type/module"}

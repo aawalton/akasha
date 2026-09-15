@@ -1,0 +1,8 @@
+{"displayOrder":5}
+{"id":"019e2fcd-5a3a-766e-be35-e33bbb10b9af"}
+{"nodeId":"damage-taken-trial"}
+{"nodeType":"metric"}
+{"parent":"subcategory-damage-taken"}
+{"slug":"metric-damage-taken-trial"}
+{"title":"Damage Taken Trial"}
+{"type":"page-type/temper-metric-tree"}

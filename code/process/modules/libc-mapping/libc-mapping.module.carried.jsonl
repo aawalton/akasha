@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The C library is named by the object this process already has mapped."},{"decisionKind":"decision-kind/departure","statement":"A name a loader would search for names no library here."},{"decisionKind":"decision-kind/departure","statement":"A mapping the loader has already deleted is named by the path that mapping came from."},{"decisionKind":"decision-kind/departure","statement":"A process with no C library mapped is refused rather than guessed at."}]}
+{"definition":"the C library this process has mapped, named by the path it was mapped from"}
+{"id":"01a0829f-d499-7794-b738-28a44c010e2e"}
+{"slug":"libc-mapping"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,19 @@
+{"baseName":"Wind Walker"}
+{"description":"\"Increases your Stamina Recovery by 4% per piece of Medium Armor equipped. \\n\\nCurrent bonus: 0%.\\n\\nReduces the Stamina cost of your abilities by 2% per piece of Medium Armor equipped. \\n\\nCurrent bonus: 0%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45565}
+{"icon":"/esoui/art/icons/ability_armor_011.dds"}
+{"id":"019e6238-c32e-7b85-88bd-15ec37e502ae"}
+{"isMorph":false}
+{"key":"wind-walker"}
+{"learnedLevel":1}
+{"lineRankNeeded":6}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"armor-medium-armor"}
+{"skillType":"passive"}
+{"slug":"wind-walker"}
+{"status":"supported"}
+{"subcategoryId":"armor-medium-armor"}
+{"title":"Wind Walker"}
+{"type":"page-type/temper-skill"}

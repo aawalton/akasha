@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The text looked for is matched as plain text rather than as a Lua pattern."}]}
+{"definition":"whether one text holds another somewhere inside it"}
+{"id":"01a08e17-f876-773e-b52a-6d8f314fa4fa"}
+{"slug":"lua-string-contains"}
+{"type":"page-type/module"}

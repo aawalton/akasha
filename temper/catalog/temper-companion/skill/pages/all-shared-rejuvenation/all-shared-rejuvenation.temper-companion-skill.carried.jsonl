@@ -1,0 +1,13 @@
+{"abilityId":153066}
+{"companionId":"all"}
+{"description":"Your Companion shares their staff's life-giving energy, healing themselves and a nearby ally for $1 Health over $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_restorationstaff_002.dds"}
+{"id":"019e668d-c55a-7617-a74d-90aee967042b"}
+{"key":"shared-rejuvenation"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"all-shared-rejuvenation"}
+{"title":"Rejuvenation"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer","tank"]}

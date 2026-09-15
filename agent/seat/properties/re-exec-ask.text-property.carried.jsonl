@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An ask that has been taken up is kept rather than cleared."},{"decisionKind":"decision-kind/departure","statement":"A seat that has asked for nothing states nothing here."},{"decisionKind":"decision-kind/stopgap","statement":"The standings an ask can be in are no pages."}]}
+{"definition":"the standing of a seat's request to re-exec its supervisor"}
+{"id":"01a05810-00ac-7843-9198-1c1fed82fd40"}
+{"maxLength":20}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"re-exec-ask"}
+{"slug":"re-exec-ask"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,17 @@
+{"baseName":"Glacial Presence"}
+{"description":"\"Increases your chance to apply the Chilled status effect by |cffffff125|r% and increases its damage done by |cffffff209|r. The damage increasing effect scales off the higher of your Weapon or Spell Damage.\""}
+{"esoSkillId":86191}
+{"icon":"/esoui/art/icons/passive_warden_002.dds"}
+{"id":"019e6f53-a28d-7b19-8b36-3477350036d0"}
+{"isMorph":false}
+{"key":"glacial-presence-86191"}
+{"learnedLevel":8}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":8}
+{"skillLineId":"warden-winters-embrace"}
+{"skillType":"passive"}
+{"slug":"glacial-presence-86191"}
+{"subcategoryId":"warden-winters-embrace"}
+{"title":"Glacial Presence"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,17 @@
+{"baseName":"Equilibrium"}
+{"description":"\"Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for 3000 Magicka.\\n\\nAfter the exchange is complete, you gain Major Resolve for 30 seconds, increasing your Physical and Spell Resistance by 5948.\\n\\nThe exchange reduces your healing done and damage shield strength by 50% for 4 seconds.\""}
+{"esoSkillId":42278}
+{"icon":"/esoui/art/icons/ability_mageguild_003_b.dds"}
+{"id":"019e6238-c295-752c-9366-c71e75ae39bd"}
+{"isMorph":true}
+{"key":"balance"}
+{"learnedLevel":8}
+{"lineRankNeeded":8}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"guild-mages-guild"}
+{"skillType":"active"}
+{"slug":"balance"}
+{"subcategoryId":"guild-mages-guild"}
+{"title":"Balance"}
+{"type":"page-type/temper-skill"}

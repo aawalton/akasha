@@ -1,0 +1,7 @@
+{"description":"Reduces damage done by 5%"}
+{"effects":"jsonl"}
+{"id":"01a05fc6-42c5-7e88-880a-fe6da59ba896"}
+{"key":"minor-maim"}
+{"slug":"minor-maim"}
+{"title":"Minor Maim"}
+{"type":"page-type/temper-debuff-minor"}

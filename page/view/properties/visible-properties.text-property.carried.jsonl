@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A property is named by the key its declaration states."}]}
+{"definition":"the properties a view draws"}
+{"id":"01a0680d-4d00-700a-b249-6c8e4a3f410b"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"visible-properties"}
+{"slug":"visible-properties"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A build is the arrangement itself rather than the character wearing that arrangement."},{"decisionKind":"decision-kind/departure","statement":"One character has many builds."},{"decisionKind":"decision-kind/departure","statement":"One build is shared across characters."},{"decisionKind":"decision-kind/departure","statement":"Two builds arranged alike carry one hash."},{"decisionKind":"decision-kind/departure","statement":"This page type is Temper's while its slug has no temper- prefix."},{"decisionKind":"decision-kind/departure","statement":"A build's name is its title rather than a second field saying the same."}]}
+{"definition":"one saved arrangement of a character's gear, skills and stats"}
+{"extends":["page-type/temper-character-thing"]}
+{"id":"01a06835-fae8-7243-8c39-219aa5e07daf"}
+{"parts":["number-property/build-target-count","select-property/build-visibility","text-property/build-character-name","text-property/build-correlation-id"]}
+{"properties":[{"pageProperty":"text-property/build-hash","required":true,"many":false},{"pageProperty":"select-property/build-visibility","required":true,"many":false},{"pageProperty":"text-property/build-correlation-id","required":false,"many":false},{"pageProperty":"number-property/build-target-count","required":false,"many":false},{"pageProperty":"relation-property/character-roles","required":false,"many":true,"maxCount":null},{"pageProperty":"text-property/build-character-name","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"character-build"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

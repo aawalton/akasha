@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An address inside angle brackets wins over the text around that address."},{"decisionKind":"decision-kind/departure","statement":"An address is lowercased before anything compares the address."},{"decisionKind":"decision-kind/departure","statement":"An address with no separator has an empty domain."}]}
+{"definition":"the address and domain a From header carries"}
+{"id":"01a05bcd-25e3-7ad8-94f5-51861579256d"}
+{"slug":"sender"}
+{"type":"page-type/module"}

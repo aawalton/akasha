@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the icon drawn for a nav entry"}
+{"id":"01a08299-534b-79fc-b0e6-8d4012f48d31"}
+{"slug":"atlas-api-nav-icon"}
+{"type":"page-type/route"}
+{"urlPath":"api/nav-icon/:idSuffix"}

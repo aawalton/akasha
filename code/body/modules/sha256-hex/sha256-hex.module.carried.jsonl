@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One module holds one digest rather than one module taking the digest's name."},{"decisionKind":"decision-kind/absence","statement":"A digest shortened or salted is that caller's rule rather than one here."},{"decisionKind":"decision-kind/departure","statement":"A body is text or bytes."},{"decisionKind":"decision-kind/departure","statement":"Text is read as utf8."},{"decisionKind":"decision-kind/departure","statement":"The digest is the whole sixty-four characters."},{"decisionKind":"decision-kind/absence","statement":"Nothing here opens a file."}]}
+{"definition":"the sha256 of a body, written as lower-case hex"}
+{"id":"01a08ef4-823c-79ae-8b62-4de2fcf1a1b5"}
+{"slug":"sha256-hex"}
+{"test":"ts"}
+{"type":"page-type/module"}

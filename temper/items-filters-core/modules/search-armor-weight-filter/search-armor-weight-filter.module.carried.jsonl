@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The armor weight filter also adds the selected weight numbers to the server request."},{"decisionKind":"decision-kind/departure","statement":"An item with no armor type fails a non-empty selection."}]}
+{"definition":"the armor weight of an item, narrowed by a multiselect of light, medium, and heavy"}
+{"id":"01a0613a-e0a5-73ad-8749-ca689469fc54"}
+{"slug":"search-armor-weight-filter"}
+{"type":"page-type/module"}

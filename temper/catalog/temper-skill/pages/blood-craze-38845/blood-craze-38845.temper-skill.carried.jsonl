@@ -1,0 +1,17 @@
+{"baseName":"Twin Slashes"}
+{"description":"\"Slice an enemy with both weapons to cause deep lacerations, dealing |cffffff2018|r Bleed Damage with each weapon and causing them to bleed for an additional |cffffff11420|r Bleed Damage over |cffffff20|r seconds.\\n\\nYou heal for |cffffff1131|r Health anytime this ability deals damage.\""}
+{"esoSkillId":38845}
+{"icon":"/esoui/art/icons/ability_dualwield_001_b.dds"}
+{"id":"019e6f53-9f45-785d-822f-6fc15b780376"}
+{"isMorph":true}
+{"key":"blood-craze-38845"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":4}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"blood-craze-38845"}
+{"subcategoryId":"weapon-dual-wield"}
+{"title":"Blood Craze"}
+{"type":"page-type/temper-skill"}

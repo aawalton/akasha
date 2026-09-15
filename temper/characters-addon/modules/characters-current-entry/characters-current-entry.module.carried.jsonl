@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Which row the character now played is kept in is worked out in one place."}]}
+{"definition":"the saved table row of the character now played, or nothing where the game has none"}
+{"id":"01a062d2-92a3-7002-91a3-58a915f7ea72"}
+{"slug":"characters-current-entry"}
+{"type":"page-type/module"}

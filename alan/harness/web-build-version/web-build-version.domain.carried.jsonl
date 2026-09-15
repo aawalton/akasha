@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A build that cannot say which commit the build came from says so rather than guessing."}]}
+{"definition":"the commit a running web build came from"}
+{"id":"01a05c48-deeb-700d-9df1-fad9c81a0a32"}
+{"parts":["module/build-sha","module/build-sha-define","module/live-version"]}
+{"slug":"web-build-version"}
+{"type":"page-type/domain"}

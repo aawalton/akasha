@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the whole number a string opens with, in a base read or given"}
+{"id":"01a08c49-caaa-7f7b-a050-10afb3b61a14"}
+{"luaExport":"__TS__ParseInt"}
+{"slug":"parse-int"}
+{"type":"page-type/lualib-helper"}

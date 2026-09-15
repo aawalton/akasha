@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"drops the storage entries that count nothing"}
+{"id":"01a061c7-e870-76f8-9e9e-166fcff4ff1d"}
+{"slug":"craft-storage-prune"}
+{"type":"page-type/module"}

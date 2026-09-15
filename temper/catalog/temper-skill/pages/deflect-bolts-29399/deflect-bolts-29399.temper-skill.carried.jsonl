@@ -1,0 +1,17 @@
+{"baseName":"Deflect Bolts"}
+{"description":"\"Increases the amount of damage you can block from projectiles and ranged attacks by |cffffff6|r%.\""}
+{"esoSkillId":29399}
+{"icon":"/esoui/art/icons/ability_templar_027.dds"}
+{"id":"019e6f53-a0b7-78cb-ae8b-3756b45298b1"}
+{"isMorph":false}
+{"key":"deflect-bolts-29399"}
+{"learnedLevel":1}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":30}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"passive"}
+{"slug":"deflect-bolts-29399"}
+{"subcategoryId":"weapon-one-hand-and-shield"}
+{"title":"Deflect Bolts"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,8 @@
+{"alchemyEffects":["restore-magicka","increase-spell-power","ravage-health","detection"]}
+{"icon":"resources/corn_flower_r1.png"}
+{"id":"019e21f7-3b11-7146-8395-93dcf667836c"}
+{"itemId":30161}
+{"key":"corn-flower"}
+{"slug":"corn-flower"}
+{"title":"Corn Flower"}
+{"type":"page-type/temper-reagent"}

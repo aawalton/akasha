@@ -1,0 +1,5 @@
+{"definition":"a view read as a query the store runs"}
+{"id":"01a071cc-086c-740f-affb-d4471f64884e"}
+{"parts":["module/condition-eval","module/condition-expr","module/id-suffix-pipeline","module/regular-pipeline","module/sort-resolve","module/view-match","module/view-pipeline","module/view-target-slugs"]}
+{"slug":"page-ui-store-query"}
+{"type":"page-type/domain"}

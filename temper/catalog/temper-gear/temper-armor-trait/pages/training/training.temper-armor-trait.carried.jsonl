@@ -1,0 +1,11 @@
+{"displayOrder":8}
+{"effect":"Increases Experience gained from kills"}
+{"effects":"jsonl"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_ARMOR_TRAINING"}
+{"id":"01a05fb2-1bd1-76b9-a51c-6834aa119055"}
+{"key":"training"}
+{"material":"Emerald"}
+{"qualityValues":"jsonl"}
+{"slug":"training"}
+{"title":"Training"}
+{"type":"page-type/temper-armor-trait"}

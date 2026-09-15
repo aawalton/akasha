@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Showing the window announces itself through a named callback."}]}
+{"definition":"what any search window does when it is shown, hidden or reset"}
+{"id":"01a0623c-2df8-7100-80db-d50fc719e34f"}
+{"slug":"lib-sets-search-ui-shared-ui"}
+{"type":"page-type/module"}

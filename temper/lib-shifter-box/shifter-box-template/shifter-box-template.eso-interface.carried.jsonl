@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A control is named after the shifter box the control belongs to."},{"decisionKind":"decision-kind/departure","statement":"This document is loaded before the Lua bundle."}]}
+{"definition":"the XML template every control of a shifter box is built from"}
+{"id":"01a06187-364c-7851-b7ad-0cc5cdf2a05e"}
+{"loadedAs":"ShifterBox/ShifterBoxTemplate.xml"}
+{"markup":"xml"}
+{"slug":"shifter-box-template"}
+{"type":"page-type/eso-interface"}

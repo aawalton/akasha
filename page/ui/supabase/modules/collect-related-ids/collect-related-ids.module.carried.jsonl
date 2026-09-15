@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"the ids a set of pages point at through their relations, gathered by page type"}
+{"id":"01a05c7d-d06c-7ecc-bcb5-d58257b7a42f"}
+{"slug":"collect-related-ids"}
+{"type":"page-type/module"}

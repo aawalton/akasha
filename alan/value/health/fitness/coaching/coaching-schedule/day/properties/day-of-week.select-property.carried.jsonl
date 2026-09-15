@@ -1,0 +1,7 @@
+{"definition":"which day of the week this one falls on"}
+{"id":"01a0657a-e62d-7e2c-96f2-7108ef5b0bf1"}
+{"propertySlug":"day-of-week"}
+{"slug":"day-of-week"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["monday","tuesday","wednesday","thursday","friday","saturday","sunday"]}

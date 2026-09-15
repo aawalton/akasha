@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Force Shock"}
+{"description":"\"Focus on one of the elemental energies with your staff and blast an enemy for |cffffff10017|r Flame Damage, |cffffff10017|r Frost Damage, or |cffffff10017|r Shock Damage.\""}
+{"esoSkillId":241291}
+{"icon":"/esoui/art/icons/ability_destructionstaff_001.dds"}
+{"id":"019e6f53-a912-72b8-90dd-e7dfb17bcfb2"}
+{"isMorph":false}
+{"key":"vengeance-force-shock"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"vengeance-force-shock"}
+{"subcategoryId":"vengeance-weapon-destruction-staff"}
+{"title":"Vengeance Force Shock"}
+{"type":"page-type/temper-skill"}

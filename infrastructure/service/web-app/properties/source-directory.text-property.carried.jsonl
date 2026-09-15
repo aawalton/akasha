@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The folder is named from the repository root."},{"decisionKind":"decision-kind/absence","statement":"No slash opens or closes the folder named here."},{"decisionKind":"decision-kind/departure","statement":"A web app's build is made in this folder."}]}
+{"definition":"the folder a web app's source sits in"}
+{"id":"01a05b26-f8b6-7d79-b5c7-6e8267081489"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"source-directory"}
+{"slug":"source-directory"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

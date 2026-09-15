@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"Every domain has a champion."},{"decisionKind":"decision-kind/stopgap","statement":"No two personas champion one domain."},{"decisionKind":"decision-kind/gap","statement":"A domain no persona names takes the champion of the domain above."},{"decisionKind":"decision-kind/departure","statement":"Any agent may change a domain without asking that domain's champion."}]}
+{"definition":"one persona answering for one domain"}
+{"id":"01a0675b-16de-790e-8eea-52afc2046700"}
+{"slug":"domain-champion"}
+{"type":"page-type/domain"}

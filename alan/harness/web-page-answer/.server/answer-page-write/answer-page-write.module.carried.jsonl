@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A writer who is not signed in is refused."},{"decisionKind":"decision-kind/departure","statement":"A write is recorded against the name the caller writes as."},{"decisionKind":"decision-kind/departure","statement":"The name a site writes as is stated once at the site's first write."},{"decisionKind":"decision-kind/departure","statement":"A write that throws is answered as a bad request rather than as a failure."}]}
+{"definition":"a page write asked for over http, run and answered"}
+{"id":"01a0640f-8510-7ab5-87bf-f593cb1eb7a7"}
+{"slug":"answer-page-write"}
+{"type":"page-type/module"}

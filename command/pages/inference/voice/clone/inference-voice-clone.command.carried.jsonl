@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/output"},{"argument":"argument/timeout"},{"argument":"argument/no-persist"},{"argument":"argument/ref-audio"},{"argument":"argument/priority"},{"argument":"argument/mode"},{"argument":"argument/text-file"},{"argument":"argument/ref-text-file"},{"argument":"argument/ref-text","notWith":["argument/ref-text-file"]},{"argument":"argument/spoken-text","notWith":["argument/text-file"],"oneOf":["argument/text-file"]}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A clip named without its transcript is refused."},{"decisionKind":"decision-kind/departure","statement":"A clip named is carried to the host before the request is made."},{"decisionKind":"decision-kind/departure","statement":"A call naming no clip uses the clip the host was provisioned with."},{"decisionKind":"decision-kind/departure","statement":"An answer that is no RIFF payload is a fault rather than a file written."},{"decisionKind":"decision-kind/departure","statement":"The audio is written where the caller named that audio and nowhere else."},{"decisionKind":"decision-kind/absence","statement":"Nothing here cuts the text into pieces."}]}
+{"definition":"the command speaking text in the voice a reference clip carries"}
+{"id":"01a0685e-fd50-7b15-b3e5-0d3469cc2a28"}
+{"name":"clone"}
+{"slug":"inference-voice-clone"}
+{"test":"ts"}
+{"type":"page-type/command"}

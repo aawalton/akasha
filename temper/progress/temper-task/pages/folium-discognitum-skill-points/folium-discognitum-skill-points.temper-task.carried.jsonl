@@ -1,0 +1,18 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"character":"rafaema-coloseuvia"}
+{"completionCardId":"skill-points"}
+{"completionItemPath":["general","foliumDiscognitum"]}
+{"dueDate":"2026-09-15"}
+{"icon":"file-text"}
+{"id":"019e8de6-ad2f-7cb0-90aa-4e45f07aec54"}
+{"lastCompletedAt":"2026-09-14T18:55:19.335Z"}
+{"priority":"p3"}
+{"progress":"jsonl"}
+{"progressCurrent":38}
+{"progressTotal":40}
+{"rruleAnchorFromCompletion":false}
+{"rruleRule":"FREQ=DAILY"}
+{"scope":"all_characters"}
+{"slug":"folium-discognitum-skill-points"}
+{"title":"Folium Discognitum Skill Points"}
+{"type":"page-type/temper-task"}

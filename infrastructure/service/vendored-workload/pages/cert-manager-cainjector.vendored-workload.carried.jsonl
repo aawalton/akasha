@@ -1,0 +1,8 @@
+{"definition":"what copies a CA bundle into the resources that must trust it"}
+{"id":"01a068e5-527c-73ac-8664-2c8bb2697205"}
+{"namespace":"cert-manager"}
+{"resourceKind":"Deployment"}
+{"resourceName":"cert-manager-cainjector"}
+{"slug":"cert-manager-cainjector"}
+{"title":"Cert manager cainjector"}
+{"type":"page-type/vendored-workload"}

@@ -1,0 +1,7 @@
+{"id":"01a094e5-bce6-7760-8053-279c4f482aae"}
+{"placeholder":"file"}
+{"said":"--personal-connections-file"}
+{"slug":"personal-connections-file"}
+{"takes":"the file the personal connections are read from"}
+{"type":"page-type/argument"}
+{"value":"path"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A cast here changes no value."}]}
+{"definition":"the assertions handing an untyped Lua value to TypeScript as a named shape"}
+{"id":"01a0606a-1c54-73cf-ae99-1c6521dc4d94"}
+{"slug":"async-casts"}
+{"type":"page-type/module"}

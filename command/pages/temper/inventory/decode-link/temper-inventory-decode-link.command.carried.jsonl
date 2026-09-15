@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/link","required":true,"saidAs":"word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A link has twenty-one fields after its item marker."},{"decisionKind":"decision-kind/departure","statement":"A link carrying fewer refuses the call."},{"decisionKind":"decision-kind/departure","statement":"A link with more fields is read rather than refused."},{"decisionKind":"decision-kind/departure","statement":"A link naming no item marker refuses the call."},{"decisionKind":"decision-kind/departure","statement":"The fields are named beside their values."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a file."}]}
+{"definition":"the command reading a game item link into its named fields"}
+{"id":"01a0603c-c1d2-7be2-8f61-08de3fd69b48"}
+{"name":"decode-link"}
+{"slug":"temper-inventory-decode-link"}
+{"test":"ts"}
+{"type":"page-type/command"}

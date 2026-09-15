@@ -1,0 +1,8 @@
+{"definition":"what a model is asked, before the text judged is appended"}
+{"id":"01a053eb-6b24-748f-883e-fec346a82dfe"}
+{"maxLength":6000}
+{"nameFormat":null}
+{"propertySlug":"prompt"}
+{"slug":"prompt"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

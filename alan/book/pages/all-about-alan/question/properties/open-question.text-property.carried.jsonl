@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An ask is written as a question rather than as a note naming a gap."},{"decisionKind":"decision-kind/departure","statement":"An ask has no paragraph break."}]}
+{"definition":"what is still open about a topic, put as one question"}
+{"id":"01a077d9-ec58-7954-9180-8711659f84bd"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"ask"}
+{"slug":"open-question"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type states here how its pages are grouped and ordered into a run."},{"decisionKind":"decision-kind/departure","statement":"A page type stating no sequence takes the sequence the page type above states."},{"decisionKind":"decision-kind/departure","statement":"A page type with no sequence here or above stands in no run."},{"decisionKind":"decision-kind/departure","statement":"Pages with one value under the grouping key stand in one run."}]}
+{"definition":"how a page type's pages are grouped and ordered when one is read after another"}
+{"id":"01a062de-2001-7000-bc0f-0dd4d369ec1b"}
+{"properties":[{"pageProperty":"text-property/sequence-group-by","required":true,"many":false},{"pageProperty":"text-property/sequence-order-by","required":true,"many":false},{"pageProperty":"text-property/sequence-direction","required":false,"many":false}]}
+{"propertySlug":"sequence"}
+{"slug":"sequence"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A research line hangs beneath the craft type the line is researched under."}]}
+{"definition":"one shape of item a player researches traits on"}
+{"extends":["page-type/temper-pursuit-thing"]}
+{"id":"01a0616b-2cdf-7005-a903-e1d072da4881"}
+{"parts":["number-property/trait-index","page-property-entry/traits","text-property/trait-name"]}
+{"properties":[{"pageProperty":"text-property/parent","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false},{"pageProperty":"page-property-entry/traits","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-research-line"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

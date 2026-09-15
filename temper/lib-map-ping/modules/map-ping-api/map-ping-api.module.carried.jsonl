@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A waypoint is set by world location rather than by map position."}]}
+{"definition":"the ping functions the library object carries"}
+{"id":"01a0605f-6262-7e93-8504-251a34ece495"}
+{"slug":"map-ping-api"}
+{"type":"page-type/module"}

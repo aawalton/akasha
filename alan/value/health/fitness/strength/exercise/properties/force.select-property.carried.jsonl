@@ -1,0 +1,7 @@
+{"definition":"which way the movement drives the load"}
+{"id":"01a0657e-2bbf-7e84-8d89-c9451bbec33a"}
+{"propertySlug":"force"}
+{"slug":"force"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["pull","push","static"]}

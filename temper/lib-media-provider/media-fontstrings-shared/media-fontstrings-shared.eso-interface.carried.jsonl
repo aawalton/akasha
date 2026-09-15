@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A font name here is built on the font path the platform sets."},{"decisionKind":"decision-kind/departure","statement":"This document is read after the two font path documents."}]}
+{"definition":"the font names every language mode shares, each pointing through the font path"}
+{"id":"01a06069-f8c3-797e-8648-09bc838750c0"}
+{"loadedAs":"fontstrings_shared.xml"}
+{"markup":"xml"}
+{"slug":"media-fontstrings-shared"}
+{"type":"page-type/eso-interface"}

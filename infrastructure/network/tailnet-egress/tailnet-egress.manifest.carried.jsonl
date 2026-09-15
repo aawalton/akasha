@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the deployment, service and policies of the proxy carrying traffic out over the private network"}
+{"generatedDirectory":true}
+{"id":"01a0738e-d1b0-7ee3-877d-2bfed39ea842"}
+{"slug":"tailnet-egress"}
+{"type":"page-type/manifest"}

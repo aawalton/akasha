@@ -1,0 +1,17 @@
+{"baseName":"Combat Frenzy"}
+{"description":"\"You generate |cffffff10|r Ultimate when you kill an enemy player.\""}
+{"esoSkillId":39252}
+{"icon":"/esoui/art/icons/ability_weapon_023.dds"}
+{"id":"019e6f53-a001-7348-8410-42ed89e2deaa"}
+{"isMorph":false}
+{"key":"combat-frenzy-39252"}
+{"learnedLevel":1}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":8}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"passive"}
+{"slug":"combat-frenzy-39252"}
+{"subcategoryId":"alliance-war-assault"}
+{"title":"Combat Frenzy"}
+{"type":"page-type/temper-skill"}

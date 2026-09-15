@@ -1,0 +1,17 @@
+{"baseName":"Rushed Ceremony"}
+{"description":"\"Beacon your inner light, healing yourself or a wounded ally in front of you for |cffffff10960|r Health. \\n\\nHealing anyone who is below |cffffff75|r% Health restores |cffffff18|r% of the ability's cost every |cffffff2|r seconds over |cffffff6|r seconds as Magicka.\""}
+{"esoSkillId":22253}
+{"icon":"/esoui/art/icons/ability_templar_honor_the_dead.dds"}
+{"id":"019e6f53-a325-773f-97b5-7bc9a041e3cf"}
+{"isMorph":true}
+{"key":"honor-the-dead-22253"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":1}
+{"rank":1}
+{"skillLineId":"templar-restoring-light"}
+{"skillType":"active"}
+{"slug":"honor-the-dead-22253"}
+{"subcategoryId":"templar-restoring-light"}
+{"title":"Honor the Dead"}
+{"type":"page-type/temper-skill"}

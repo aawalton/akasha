@@ -1,0 +1,11 @@
+{"description":"Grants Vitality, Increase Physical Resistance, Protection."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_001_type_005.dds"}
+{"id":"019e21f6-4045-7f82-bf12-19cb6068b0b6"}
+{"key":"vitality-protection-resistance-physical"}
+{"level":"CP150"}
+{"reagents":[{"names":["Beetle Scuttle","Butterfly Wing","Mudcrab Chitin"]},{"names":["Beetle Scuttle","Dragon's Bile","Mudcrab Chitin"]},{"names":["Beetle Scuttle","Fleshfly Larva","Mudcrab Chitin"]},{"names":["Beetle Scuttle","Imp Stool","Powdered Mother of Pearl"]},{"names":["Beetle Scuttle","Mountain Flower","Powdered Mother of Pearl"]},{"names":["Beetle Scuttle","Mudcrab Chitin","Powdered Mother of Pearl"]},{"names":["Beetle Scuttle","Mudcrab Chitin","Torchbug Thorax"]}]}
+{"seconds":47}
+{"slug":"vitality-protection-resistance-physical"}
+{"title":"Essence of Vitality"}
+{"type":"page-type/temper-potion-crafted"}

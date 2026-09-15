@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This figure is kept rather than added up wherever the figure is read."}]}
+{"definition":"the points earned since the day counting began"}
+{"id":"01a081cb-66ae-7cee-8e11-431ab034165b"}
+{"max":null}
+{"propertySlug":"points-total"}
+{"slug":"points-total"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

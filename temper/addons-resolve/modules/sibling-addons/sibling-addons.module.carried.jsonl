@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A sibling is named in the addon's own manifest."},{"decisionKind":"decision-kind/departure","statement":"A sibling's manifest is carried by the page of the addon that ships the sibling."},{"decisionKind":"decision-kind/departure","statement":"A sibling has a manifest and nothing more."},{"decisionKind":"decision-kind/departure","statement":"A sibling name becomes a path that is removed and made again."},{"decisionKind":"decision-kind/departure","statement":"A sibling name is checked against a safe folder pattern before becoming a path."},{"decisionKind":"decision-kind/departure","statement":"The safe folder pattern is answered on its own, for a caller naming no sibling."},{"decisionKind":"decision-kind/departure","statement":"An addon with no readable manifest ships no sibling."},{"decisionKind":"decision-kind/departure","statement":"A sibling manifest a page does not carry ships no sibling."},{"decisionKind":"decision-kind/absence","statement":"No file name ending is spelled here."}]}
+{"definition":"the extra addon folders one addon ships alongside its own"}
+{"id":"01a06060-ec40-72c6-b3e3-bb2631d6b18c"}
+{"slug":"sibling-addons"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,11 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A persona's mobile wallpaper is a file beside that persona's page."},{"decisionKind":"decision-kind/departure","statement":"The route serving Alan's phone reads this property rather than a persona's cover."},{"decisionKind":"decision-kind/gap","statement":"A persona's mobile wallpaper is shaped for a phone screen."},{"decisionKind":"decision-kind/stopgap","statement":"A mobile wallpaper has a persona's cover picture until a picture is drawn for a phone."}]}
+{"definition":"the picture a persona is shown as on Alan's phone"}
+{"extensions":["png"]}
+{"generated":true}
+{"holdsBytes":true}
+{"id":"01a0782e-1f17-71d7-90a2-279f0591ec44"}
+{"propertySlug":"mobile-wallpaper"}
+{"runsFileLength":false}
+{"slug":"mobile-wallpaper"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

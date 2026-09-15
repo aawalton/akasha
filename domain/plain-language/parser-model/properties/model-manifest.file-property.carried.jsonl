@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The manifest names the classes and the relations the model can answer with."},{"decisionKind":"decision-kind/departure","statement":"The manifest names the checkpoint the model came from."},{"decisionKind":"decision-kind/departure","statement":"The manifest is kept outside the commit."}]}
+{"definition":"what a trained parser says about itself"}
+{"extensions":["json"]}
+{"generated":true}
+{"id":"01a06d3b-743f-7cf0-8f82-5c0f41cfeaf0"}
+{"propertySlug":"model-manifest"}
+{"slug":"model-manifest"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

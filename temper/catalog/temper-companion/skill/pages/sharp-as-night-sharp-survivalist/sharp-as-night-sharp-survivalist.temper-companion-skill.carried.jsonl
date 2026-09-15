@@ -1,0 +1,12 @@
+{"abilityId":193973}
+{"companionId":"sharp-as-night"}
+{"description":"Increases Physical and Spell Resistance by 3% and healing done by 3%."}
+{"icon":"/esoui/art/icons/ability_companion_warden_passive.dds"}
+{"id":"019e6484-389f-7385-af6f-a9666f9ad128"}
+{"key":"sharp-survivalist"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-sharp-as-night"}
+{"skillType":"passive"}
+{"slug":"sharp-as-night-sharp-survivalist"}
+{"title":"Survivalist"}
+{"type":"page-type/temper-companion-skill"}

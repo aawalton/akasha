@@ -1,0 +1,10 @@
+{"displayOrder":3}
+{"effect":"Deals damage and returns magicka (proc-based)"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_ABSORB_MAGICKA"}
+{"essenceRune":"Makkoma"}
+{"glyphName":"Glyph of Absorb Magicka"}
+{"id":"019e5c0d-dcee-75cd-adc6-d61e688bd9d5"}
+{"key":"absorb-magicka"}
+{"slug":"absorb-magicka"}
+{"title":"Absorb Magicka"}
+{"type":"page-type/temper-weapon-enchant"}

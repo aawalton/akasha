@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"minus one, zero or one, as a number is negative, zero or positive"}
+{"id":"01a08c43-2cd8-7e1e-a5c8-b9d839026043"}
+{"luaExport":"__TS__MathSign"}
+{"slug":"math-sign"}
+{"type":"page-type/lualib-helper"}

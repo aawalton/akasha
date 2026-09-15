@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A role is on call only where that role's page holds true under the on-call key."},{"decisionKind":"decision-kind/departure","statement":"Anything other than true under that key reads as not on call."},{"decisionKind":"decision-kind/departure","statement":"The role asked for is reached by its slug rather than by reading what every role carries."},{"decisionKind":"decision-kind/departure","statement":"A role's answer is worked out once for each call and afresh outside every call."},{"decisionKind":"decision-kind/departure","statement":"A slug naming no role is not on call."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a seat."}]}
+{"definition":"whether a role is on call, read from that role's own page"}
+{"id":"01a0766c-11c7-79de-aa16-8aafc180ce58"}
+{"slug":"seat-role-on-call"}
+{"test":"ts"}
+{"type":"page-type/module"}

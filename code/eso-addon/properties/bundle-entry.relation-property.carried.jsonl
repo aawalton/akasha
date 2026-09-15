@@ -1,0 +1,7 @@
+{"definition":"the module the transpiler starts an addon's one Lua file from"}
+{"id":"01a060e4-5184-70a7-91ff-37d5b94a8d86"}
+{"propertySlug":"bundle-entry"}
+{"slug":"bundle-entry"}
+{"targetPageType":"page-type/module"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

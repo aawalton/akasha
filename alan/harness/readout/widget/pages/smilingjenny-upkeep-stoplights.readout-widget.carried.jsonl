@@ -1,0 +1,13 @@
+{"app":"ios-app/smilingjenny"}
+{"component":"ios-component/smilingjenny-upkeep-stoplights-widget"}
+{"definition":"the tile on Jenny's phone showing whether Alan's daily upkeep is holding"}
+{"families":["small"]}
+{"feed":"https://smilingjenny.me/api/upkeep"}
+{"galleryDescription":"Alan's four upkeep stoplights, at a glance."}
+{"galleryName":"Upkeep"}
+{"groups":["readout-group/upkeep"]}
+{"id":"01a08bf3-8081-756b-b9b4-131b64992b41"}
+{"kind":"HabitStoplightsWidget"}
+{"place":5}
+{"slug":"smilingjenny-upkeep-stoplights"}
+{"type":"page-type/readout-widget"}

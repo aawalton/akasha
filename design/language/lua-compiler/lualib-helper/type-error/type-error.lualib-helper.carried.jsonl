@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the error type a value of the wrong type is"}
+{"id":"01a081c1-248a-7ace-a8b5-cf9b46fad562"}
+{"luaExport":"TypeError"}
+{"slug":"type-error"}
+{"type":"page-type/lualib-helper"}

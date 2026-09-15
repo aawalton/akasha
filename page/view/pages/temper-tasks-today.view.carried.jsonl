@@ -1,0 +1,14 @@
+{"groupPageSize":6}
+{"hiddenPropertiesOrder":["completion-card-id"]}
+{"id":"01a06577-2615-7013-9677-41fc4ae2ad08"}
+{"itemPageSize":12}
+{"narrows":[{"key":"due-date","comparison":"before","values":["eso-day-next"]},{"key":"completed-at","comparison":"empty","values":["true"]}]}
+{"nav":"nav/temper-tasks"}
+{"pageSize":40}
+{"pageType":"page-type/temper-task"}
+{"slug":"temper-tasks-today"}
+{"title":"Today"}
+{"type":"page-type/view"}
+{"viewPlace":0}
+{"viewSorts":[{"key":"priority","descending":false},{"key":"character-sort-order","descending":true},{"key":"title","descending":false}]}
+{"visibleProperties":["priority","progress","character","rrule-rule","due-date","due-time","scope"]}

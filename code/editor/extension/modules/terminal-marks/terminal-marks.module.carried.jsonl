@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A mark is held against the terminal rather than against the terminal's name."},{"decisionKind":"decision-kind/departure","statement":"A mark says the value the renamer last applied rather than the value the terminal now shows."},{"decisionKind":"decision-kind/departure","statement":"A terminal holding no mark is a terminal the renamer has not named."},{"decisionKind":"decision-kind/departure","statement":"A name and a color are marked apart."},{"decisionKind":"decision-kind/departure","statement":"A terminal with no process id is given one fixed name."},{"decisionKind":"decision-kind/departure","statement":"The fixed name is compared only inside the terminal renamer."},{"decisionKind":"decision-kind/absence","statement":"Nothing here renames or recolors a terminal."},{"decisionKind":"decision-kind/absence","statement":"Nothing here drops the mark of a closed terminal."}]}
+{"definition":"what the renamer last put on each terminal, and the name it puts on one with no process id"}
+{"id":"01a06491-1a8d-7b02-a92e-48083598a4b9"}
+{"slug":"terminal-marks"}
+{"type":"page-type/module"}

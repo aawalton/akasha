@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The browser has the whole game."},{"decisionKind":"decision-kind/departure","statement":"The server keeps a saved copy of the game and nothing more."},{"decisionKind":"decision-kind/departure","statement":"The save is read once as the game opens and never read again."},{"decisionKind":"decision-kind/departure","statement":"An idle game's roster is drawn from the personas."}]}
+{"definition":"a game Alan plays where the cards are his personas"}
+{"extends":["page-type/collection"]}
+{"id":"01a0658b-3654-7f0d-80b2-2a2c080f184c"}
+{"parts":["instant-property/favorited-at"]}
+{"properties":[{"pageProperty":"text-property/game-engine","required":true,"many":false},{"pageProperty":"instant-property/favorited-at","required":false,"many":false},{"pageProperty":"instant-property/last-viewed-at","required":false,"many":false,"uncommitted":true}]}
+{"schema":"jsonl"}
+{"slug":"idle-game"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

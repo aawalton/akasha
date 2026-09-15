@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A show of Ki's names the seasons that show has."},{"decisionKind":"decision-kind/departure","statement":"A show of Ki's names the franchise that show belongs to."}]}
+{"definition":"a story Ki watches in episodes over seasons"}
+{"extends":["page-type/ki-collection-template"]}
+{"id":"01a06825-d0ec-71a0-a7ee-80d30e5385ef"}
+{"schema":"jsonl"}
+{"slug":"ki-show"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

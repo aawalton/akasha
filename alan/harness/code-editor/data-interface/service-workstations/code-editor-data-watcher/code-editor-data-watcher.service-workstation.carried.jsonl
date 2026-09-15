@@ -1,0 +1,6 @@
+{"definition":"the service keeping true what each part of the code editor draws"}
+{"enabled":true}
+{"id":"01a07266-d473-76a3-bf19-f74baaa4efdf"}
+{"slug":"code-editor-data-watcher"}
+{"systemd":{"restartDelaySeconds":5}}
+{"type":"page-type/service-workstation"}

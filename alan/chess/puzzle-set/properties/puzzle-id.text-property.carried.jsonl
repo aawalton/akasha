@@ -1,0 +1,8 @@
+{"definition":"the id Lichess gives a puzzle"}
+{"id":"01a06582-bd62-7c2a-b4dd-6bdc9120b28a"}
+{"maxLength":20}
+{"nameFormat":null}
+{"propertySlug":"puzzle-id"}
+{"slug":"puzzle-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A readout naming a service to read live from is answered by no query."}]}
+{"definition":"the outside service a reading is taken from at the moment it is drawn"}
+{"id":"01a06559-e74c-7e30-bbec-7604ae4f8dc5"}
+{"propertySlug":"read-live-from"}
+{"slug":"read-live-from"}
+{"targetPageType":"page-type/domain"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"definition":"the provider an account is held with"}
+{"id":"01a0a224-4613-75c9-a6cf-5bdd8111001d"}
+{"propertySlug":"provider"}
+{"slug":"provider"}
+{"targetPageType":"page-type/model-provider"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

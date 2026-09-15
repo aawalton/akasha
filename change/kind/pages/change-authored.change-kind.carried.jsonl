@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An authored change is refused until its required reading is read."}]}
+{"definition":"a change composed by an agent"}
+{"id":"01a05df1-e262-7648-bbe1-061d37bd706d"}
+{"readersOweReading":true}
+{"runsChecks":true}
+{"slug":"change-authored"}
+{"type":"page-type/change-kind"}
+{"writerOwesReading":true}

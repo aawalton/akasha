@@ -1,0 +1,7 @@
+{"definition":"what a thing is worth at each grade, one grade to a line"}
+{"id":"01a05fb0-3cee-76c4-aa3f-972874e23447"}
+{"properties":[{"pageProperty":"text-property/quality","required":true,"many":false},{"pageProperty":"number-property/quality-value","required":true,"many":false},{"pageProperty":"text-property/metric-id","required":false,"many":false}]}
+{"propertySlug":"quality-values"}
+{"slug":"quality-values"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

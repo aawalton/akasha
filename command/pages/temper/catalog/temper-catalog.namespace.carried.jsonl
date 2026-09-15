@@ -1,0 +1,6 @@
+{"definition":"the catalog Temper reads the game's things out of"}
+{"id":"01a07c17-ef81-788b-a0e0-e9297936cd3e"}
+{"name":"catalog"}
+{"parts":["command/temper-catalog-invalidate","command/temper-catalog-list","command/temper-catalog-status"]}
+{"slug":"temper-catalog"}
+{"type":"page-type/namespace"}

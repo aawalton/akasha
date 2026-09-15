@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A keep marking is nokeep or standalone or full."},{"decisionKind":"decision-kind/departure","statement":"A disagreement names one backup or one period with no backup."}]}
+{"definition":"the shapes a decision about which backups are kept is stated in"}
+{"id":"01a06863-74e2-7c1b-b23b-96d87eca0184"}
+{"slug":"keep-decision"}
+{"type":"page-type/module"}

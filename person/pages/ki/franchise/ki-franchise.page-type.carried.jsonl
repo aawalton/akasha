@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A franchise of Ki's names the shows that franchise takes in."},{"decisionKind":"decision-kind/departure","statement":"A franchise of Ki's names the movies that franchise takes in."},{"decisionKind":"decision-kind/departure","statement":"A show or movie named by a franchise of Ki's names that franchise back."}]}
+{"definition":"the shows and movies Ki watches that share one world"}
+{"extends":["page-type/ki-collection-template"]}
+{"id":"01a06825-d0ec-72c3-a6e7-40399fe1a4d4"}
+{"schema":"jsonl"}
+{"slug":"ki-franchise"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,8 @@
+{"definition":"what the enchantment on an item does"}
+{"id":"01a05fcd-f54d-7b3a-87cd-5e3397dc87cb"}
+{"maxLength":1000}
+{"nameFormat":null}
+{"propertySlug":"enchant-description"}
+{"slug":"enchant-description"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

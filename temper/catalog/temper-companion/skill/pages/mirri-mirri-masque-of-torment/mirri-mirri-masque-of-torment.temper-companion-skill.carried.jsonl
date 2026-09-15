@@ -1,0 +1,12 @@
+{"abilityId":153856}
+{"companionId":"mirri"}
+{"description":"Your Companion terrifies nearby enemies, causing them to cower in fear for $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_nightblade_016.dds"}
+{"id":"019e6484-3888-7377-8e0b-1a7c9cd33def"}
+{"key":"mirri-masque-of-torment"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-mirri-living-shade"}
+{"skillType":"active"}
+{"slug":"mirri-mirri-masque-of-torment"}
+{"title":"Masque of Torment"}
+{"type":"page-type/temper-companion-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A skill line rank table is built on the first lookup that asks for one."}]}
+{"definition":"the evaluation environment the rule evaluator runs in, built from game state"}
+{"id":"01a06258-b52a-73ae-8e70-29b3bb5beb50"}
+{"slug":"inventory-eso-eval-env"}
+{"type":"page-type/module"}

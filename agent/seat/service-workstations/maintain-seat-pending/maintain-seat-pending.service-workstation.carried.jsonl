@@ -1,0 +1,7 @@
+{"definition":"the service keeping each seat's pending parts true between one turn end and the next"}
+{"enabled":true}
+{"id":"01a026aa-c443-7000-8636-7a36d8bbf564"}
+{"slug":"maintain-seat-pending"}
+{"systemd":{"restartDelaySeconds":10}}
+{"told":false}
+{"type":"page-type/service-workstation"}

@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"the sidecar that reads each control group's pressure off the node"}
+{"id":"01a06810-1262-7c82-b87d-67a1c7d6dd5e"}
+{"slug":"cgroup-psi-collector"}
+{"type":"page-type/module"}

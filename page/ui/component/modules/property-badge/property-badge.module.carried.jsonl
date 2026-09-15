@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A property no page type above it draws takes the badge beside page-property."}]}
+{"definition":"the badge one property is shown as, drawn by the page type declaring it"}
+{"id":"01a0620f-82c5-700f-bcd7-80f904364925"}
+{"slug":"property-badge"}
+{"type":"page-type/module"}

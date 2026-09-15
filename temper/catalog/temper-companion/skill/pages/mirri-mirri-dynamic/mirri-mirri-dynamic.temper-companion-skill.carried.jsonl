@@ -1,0 +1,13 @@
+{"abilityId":157250}
+{"companionId":"mirri"}
+{"description":"Increases damage done by 3% and healing done by 3%."}
+{"icon":"/esoui/art/icons/passive_companion_weapon_023.dds"}
+{"id":"019e6484-387d-7e76-835a-f1e88c408de4"}
+{"key":"mirri-dynamic"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-mirri"}
+{"skillType":"passive"}
+{"slug":"mirri-mirri-dynamic"}
+{"title":"Dynamic"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps","healer"]}

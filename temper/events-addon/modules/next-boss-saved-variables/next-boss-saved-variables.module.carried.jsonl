@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The saved variables are kept for the whole account rather than for one character."},{"decisionKind":"decision-kind/departure","statement":"The timers kept are read back only where the campaign is the one those timers were kept under."}]}
+{"definition":"what this tracker keeps between sessions, and what it starts at"}
+{"id":"01a06157-8358-7649-943c-84dc225013dc"}
+{"slug":"next-boss-saved-variables"}
+{"type":"page-type/module"}

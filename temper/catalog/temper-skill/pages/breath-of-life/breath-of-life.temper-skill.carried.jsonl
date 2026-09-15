@@ -1,0 +1,17 @@
+{"baseName":"Rushed Ceremony"}
+{"description":"\"Beacon your inner light, healing yourself or a wounded ally in front of you for 3485 Health.\\n\\nAlso heals one other injured target for 1199 Health.\""}
+{"esoSkillId":24222}
+{"icon":"/esoui/art/icons/ability_templar_breath_of_life.dds"}
+{"id":"019e6245-a606-7e0b-9275-9d52f1a6bb1d"}
+{"isMorph":true}
+{"key":"breath-of-life"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"templar-restoring-light"}
+{"skillType":"active"}
+{"slug":"breath-of-life"}
+{"subcategoryId":"templar-restoring-light"}
+{"title":"Breath of Life"}
+{"type":"page-type/temper-skill"}

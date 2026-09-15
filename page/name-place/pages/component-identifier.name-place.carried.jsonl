@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A component is written where a type would be read."},{"decisionKind":"decision-kind/departure","statement":"The file with a component is named in lower kebab like every other file."}]}
+{"definition":"the name a view component carries in code"}
+{"id":"01a04fc9-2ada-7231-b57f-de98579a51d4"}
+{"nameFormat":"name-format/upper-camel-case"}
+{"slug":"component-identifier"}
+{"type":"page-type/name-place"}

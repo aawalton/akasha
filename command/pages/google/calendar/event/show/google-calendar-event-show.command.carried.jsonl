@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/event","required":true,"saidAs":"flag-or-word"},{"argument":"argument/calendar"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The event this answers with is reported as JSON."},{"decisionKind":"decision-kind/departure","statement":"An event named in place and as a flag is refused."},{"decisionKind":"decision-kind/departure","statement":"A call naming no calendar acts on Alan's own."},{"decisionKind":"decision-kind/departure","statement":"This reaches the calendar as the account akasha runs under."}]}
+{"definition":"the command answering one event named by its id"}
+{"id":"01a08cf5-5976-7c3e-a88b-e0c49e11367a"}
+{"name":"show"}
+{"slug":"google-calendar-event-show"}
+{"test":"ts"}
+{"type":"page-type/command"}

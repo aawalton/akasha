@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The totals a task states are the totals of its lines added up."},{"decisionKind":"decision-kind/departure","statement":"A task naming no completion card is passed over."},{"decisionKind":"decision-kind/departure","statement":"A task the index does not name is passed over."},{"decisionKind":"decision-kind/departure","statement":"The id a character's line already had is kept rather than minted again."},{"decisionKind":"decision-kind/departure","statement":"A line naming a character no line named before is given an id as it lands."},{"decisionKind":"decision-kind/departure","statement":"A line that will not parse is passed over rather than throwing."},{"decisionKind":"decision-kind/departure","statement":"The lines are ordered as the reading ordered them."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads or writes a file."}]}
+{"definition":"what each character has done of a task, recomputed from completion"}
+{"id":"01a08255-32ee-74c3-ad48-3a0fad80e432"}
+{"slug":"watcher-task-progress"}
+{"test":"ts"}
+{"type":"page-type/module"}

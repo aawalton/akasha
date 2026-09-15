@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path matching no prefix opens on no tab."}]}
+{"definition":"the tab a path opens on where the path names none"}
+{"id":"01a0640f-850f-70cf-af93-e19e03bde002"}
+{"slug":"tab-defaults"}
+{"type":"page-type/module"}

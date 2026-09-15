@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One line is one cooldown a reading found."},{"decisionKind":"decision-kind/departure","statement":"A cooldown names when that cooldown comes round again rather than how long is left."}]}
+{"definition":"when each timed activity comes round again, one activity to a line"}
+{"id":"01a0675a-f185-721b-a712-f182fa1ba39b"}
+{"properties":[{"pageProperty":"text-property/cooldown-key","required":true,"many":false},{"pageProperty":"instant-property/ready-at","required":true,"many":false}]}
+{"propertySlug":"open-cooldowns"}
+{"slug":"open-cooldowns"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

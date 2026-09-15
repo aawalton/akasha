@@ -1,0 +1,6 @@
+{"definition":"whether the device was on power"}
+{"id":"01a06935-68b3-7bb6-80e2-1d79d253f0c3"}
+{"propertySlug":"battery-is-charging"}
+{"slug":"battery-is-charging"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An effect stating no seconds lasts as long as the thing carrying the effect."}]}
+{"definition":"how long an effect lasts"}
+{"id":"01a05fb0-3ceb-717f-94f6-5ef52cdf0c41"}
+{"max":null}
+{"propertySlug":"seconds"}
+{"slug":"effect-seconds"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

@@ -1,0 +1,10 @@
+{"definition":"what decides which Postgres backups are kept and which are released"}
+{"id":"01a06863-74e0-71ff-9c5e-43490fca32e3"}
+{"image":"registry.registry.svc.cluster.local:5000/cluster/postgres-gfs-promoter:r4"}
+{"manifest":["manifest/gfs-promoter"]}
+{"namespace":"postgres"}
+{"resourceKind":"CronJob"}
+{"resourceName":"postgres-gfs-promoter"}
+{"schedule":"17 2 * * *"}
+{"slug":"gfs-promoter"}
+{"type":"page-type/service-cluster"}

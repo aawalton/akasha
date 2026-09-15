@@ -1,0 +1,8 @@
+{"definition":"SeaweedFS is filling fast enough to run out of room soon"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fb-7e3c-a529-a6ff20c108b4"}
+{"runbook":"txt"}
+{"slug":"seaweedfs-storage-runway-short"}
+{"summary":"SeaweedFS store on {{ $labels.instance }} predicted to fill within 7 days"}
+{"title":"SeaweedFS storage runway short"}
+{"type":"page-type/alert"}

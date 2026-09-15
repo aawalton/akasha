@@ -1,0 +1,8 @@
+{"definition":"what changes once my data, my docs and my code are one thing"}
+{"id":"01a04615-3060-7c9d-baa6-90b37783964f"}
+{"parents":["all-about-alan-topic/why-i-keep-my-data-in-files"]}
+{"related":["all-about-alan-topic/the-graph-i-built-to-run-my-checks","all-about-alan-topic/what-changes-when-i-change-a-doc"]}
+{"settled":"More of the system is defined in structured agent-readable documents, and in many cases the code runs directly off the documentation.\n\nData, docs and code being the same thing is a whole different universe from where software products have lived in the past, with the three separate.\n\nIt is necessary. When the system is primarily agent-driven, all three need to be agent-accessible first, and all other considerations are secondary."}
+{"slug":"when-my-docs-are-my-code"}
+{"title":"When My Docs Are My Code"}
+{"type":"page-type/all-about-alan-topic"}

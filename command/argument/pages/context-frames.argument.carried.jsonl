@@ -1,0 +1,8 @@
+{"default":"24"}
+{"id":"01a094d3-1e6e-782a-8ae6-64649068a476"}
+{"placeholder":"n"}
+{"said":"--context-frames"}
+{"slug":"context-frames"}
+{"takes":"how many of the clip's own frames the window holds"}
+{"type":"page-type/argument"}
+{"value":"whole-number"}

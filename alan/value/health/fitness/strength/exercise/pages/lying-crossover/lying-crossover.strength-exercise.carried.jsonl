@@ -1,0 +1,27 @@
+{"equipment":"strength-exercise-implement/body-only"}
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Lying_Crossover"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Crossover"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"expert"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"static"}
+{"gripDemand":"none"}
+{"id":"019ebc77-95fe-7984-b78a-6775604d5b18"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Crossover/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Crossover/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"mobility"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["abductors"]}
+{"scoringMode":"time"}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"lying-crossover"}
+{"title":"Lying Crossover"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

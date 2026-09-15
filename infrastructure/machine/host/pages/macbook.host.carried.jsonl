@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The workstation reaches this machine over ssh and runs programs here."},{"decisionKind":"decision-kind/departure","statement":"A fault on this machine is the harness's to mend rather than Alan's."},{"decisionKind":"decision-kind/departure","statement":"This machine belonging to Alan is no reason to hand Alan a fault found here."}]}
+{"definition":"Alan's Apple laptop"}
+{"id":"01a06590-e94f-7756-9d6b-824b7b6c9549"}
+{"slug":"macbook"}
+{"title":"MacBook"}
+{"type":"page-type/host"}

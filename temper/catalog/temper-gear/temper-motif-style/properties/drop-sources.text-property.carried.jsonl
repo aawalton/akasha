@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a scribing source."},{"decisionKind":"decision-kind/departure","statement":"One list has every errand a style drops from."}]}
+{"definition":"the daily errands a style's motif pages drop from"}
+{"id":"01a05fd1-d439-7027-bdca-1804e14d6caf"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"drop-sources"}
+{"slug":"drop-sources"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

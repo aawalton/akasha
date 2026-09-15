@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the conditions `merchantValue` and `merchantValueOp`."}]}
+{"definition":"the Merchant Value condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3bf3-7c82-ba13-ae472675dcf6"}
+{"slug":"merchant-value-filter"}
+{"type":"page-type/module"}

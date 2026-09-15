@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Exclude means a partial stack rather than anything short of a full stack."},{"decisionKind":"decision-kind/absence","statement":"Nothing here narrows the server request."}]}
+{"definition":"whether an item stack is full, narrowed by a toggle between full and partial"}
+{"id":"01a0613a-e0ae-7c58-9f5e-7a0a707c9698"}
+{"slug":"search-stack-fullness-filter"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Magicka Controller"}
+{"description":"\"Increases your Max Magicka and Magicka Recovery by |cffffff1|r% for each Mages Guild ability slotted.\\n\\nCurrent bonus: |cffffff0|r%.\""}
+{"esoSkillId":40438}
+{"icon":"/esoui/art/icons/ability_sorcerer_044.dds"}
+{"id":"019e6f53-a43a-7b86-9ffb-0dfb5b213e65"}
+{"isMorph":false}
+{"key":"magicka-controller-40438"}
+{"learnedLevel":1}
+{"lineRankNeeded":7}
+{"morphIndex":0}
+{"rank":7}
+{"skillLineId":"guild-mages-guild"}
+{"skillType":"passive"}
+{"slug":"magicka-controller-40438"}
+{"subcategoryId":"guild-mages-guild"}
+{"title":"Magicka Controller"}
+{"type":"page-type/temper-skill"}

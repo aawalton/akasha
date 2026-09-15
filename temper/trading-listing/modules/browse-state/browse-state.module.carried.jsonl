@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A guild whose pages are exhausted gives way to the next guild in the queue."},{"decisionKind":"decision-kind/departure","statement":"A page is asked for only once the cooldown says the search may go."},{"decisionKind":"decision-kind/departure","statement":"A search already awaiting an answer blocks another search."},{"decisionKind":"decision-kind/departure","statement":"An empty queue finishes the search."}]}
+{"definition":"what to search next as each page of guild store listings arrives"}
+{"id":"01a060a7-02f3-7e84-9e98-799da64c05e4"}
+{"slug":"browse-state"}
+{"type":"page-type/module"}

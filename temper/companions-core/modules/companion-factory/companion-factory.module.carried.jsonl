@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Default weapons for a damage role are drawn at random rather than fixed."},{"decisionKind":"decision-kind/departure","statement":"An empty companion has armor items of no-weight rather than empty slots."},{"decisionKind":"decision-kind/constraint","statement":"Every role-derived equipment piece is created at epic quality."}]}
+{"definition":"factory for new and empty companion build states with role-derived default equipment"}
+{"id":"01a06152-c2c8-7e6d-b07f-b8d4a1e94f30"}
+{"slug":"companion-factory"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A body whose Telnyx signature does not verify is answered 403 and acted on by nothing."},{"decisionKind":"decision-kind/departure","statement":"The signed text is read off the request before anything parses that request."},{"decisionKind":"decision-kind/departure","statement":"A verified status reaches the handler seat as a message rather than landing quietly."},{"decisionKind":"decision-kind/departure","statement":"The body is carried over whole rather than read for fields nothing here has seen."},{"decisionKind":"decision-kind/departure","statement":"The message is written through the pages service, the road a pod's write keeps."},{"decisionKind":"decision-kind/absence","statement":"Nothing here answers Telnyx with a message."},{"decisionKind":"decision-kind/departure","statement":"The message states its own id."}]}
+{"definition":"the toll-free verification status Telnyx hands this app"}
+{"id":"01a090d4-4959-7068-b799-d973b6d7993e"}
+{"slug":"alan-web-api-sms-verification-status"}
+{"type":"page-type/route"}
+{"urlPath":"api/sms/verification-status"}

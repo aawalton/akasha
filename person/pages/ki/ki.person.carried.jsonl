@@ -1,0 +1,9 @@
+{"answeredBy":"persona/amy"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The pages Ki keeps here are reached by Ki alone among the people outside akasha."},{"decisionKind":"decision-kind/departure","statement":"A page type here serves Ki as the matching page type of Alan's serves Alan."}]}
+{"definition":"Ki Goff, Alan's sister-in-law"}
+{"id":"01a053fe-00f2-7278-a312-a9d344de7526"}
+{"parts":["page-type/ki-author","page-type/ki-book","page-type/ki-book-series","page-type/ki-collection-template","page-type/ki-episode","page-type/ki-franchise","page-type/ki-movie","page-type/ki-season","page-type/ki-show"]}
+{"phone":"+18015028196"}
+{"slug":"ki"}
+{"supabaseAuthUserId":"395db962-77dd-4aa7-b1c2-6500025dc331"}
+{"type":"page-type/person"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the promise an async function body becomes"}
+{"id":"01a081c8-669c-7b45-994d-238ca9f5c438"}
+{"luaExport":"__TS__AsyncAwaiter"}
+{"slug":"async-awaiter"}
+{"type":"page-type/lualib-helper"}

@@ -1,0 +1,7 @@
+{"definition":"a workspace's namespace, manifests and secrets put up for the first time"}
+{"id":"01a06865-abff-7011-9ff5-10eca740f08d"}
+{"scripting":{}}
+{"shell":"sh"}
+{"slug":"bootstrap-namespace"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

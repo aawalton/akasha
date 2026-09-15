@@ -1,0 +1,17 @@
+{"baseName":"Vigor"}
+{"description":"\"Let loose a battle cry, instilling you and your allies with resolve and healing for 3480 Health over 16 seconds.\""}
+{"esoSkillId":63247}
+{"icon":"/esoui/art/icons/ability_ava_echoing_vigor.dds"}
+{"id":"019e6251-4cab-7fad-be0f-fd157585a0dd"}
+{"isMorph":true}
+{"key":"echoing-vigor"}
+{"learnedLevel":2}
+{"lineRankNeeded":2}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"echoing-vigor"}
+{"subcategoryId":"alliance-war-assault"}
+{"title":"Echoing Vigor"}
+{"type":"page-type/temper-skill"}

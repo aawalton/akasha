@@ -1,0 +1,8 @@
+{"definition":"the device an app is installed on when the call names none"}
+{"id":"01a06289-79d6-72a5-ab7c-3b93f6a436a5"}
+{"maxLength":40}
+{"nameFormat":null}
+{"propertySlug":"default-device-udid"}
+{"slug":"default-device-udid"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

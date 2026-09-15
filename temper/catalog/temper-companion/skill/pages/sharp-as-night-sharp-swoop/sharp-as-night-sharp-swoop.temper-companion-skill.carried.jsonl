@@ -1,0 +1,13 @@
+{"abilityId":186056}
+{"companionId":"sharp-as-night"}
+{"description":"Your Companion commands a cliff racer to dive bomb an enemy, dealing $1 Magic Damage. If they are more than 7 meters away from the target, they set them Off Balance for $$2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_warden_dive.dds"}
+{"id":"019e6484-38a0-72c9-9788-01c8c9509eea"}
+{"key":"sharp-swoop"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-sharp-as-night-beasts-of-the-hunt"}
+{"skillType":"active"}
+{"slug":"sharp-as-night-sharp-swoop"}
+{"title":"Swoop"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

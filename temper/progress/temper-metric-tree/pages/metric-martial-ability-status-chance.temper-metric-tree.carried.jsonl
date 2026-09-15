@@ -1,0 +1,8 @@
+{"displayOrder":0}
+{"id":"019e2fcd-59e1-7a4e-95b0-9325bcdef0fe"}
+{"nodeId":"martial-ability-status-chance"}
+{"nodeType":"metric"}
+{"parent":"subcategory-martial-status-chance"}
+{"slug":"metric-martial-ability-status-chance"}
+{"title":"Martial Ability Status Chance"}
+{"type":"page-type/temper-metric-tree"}

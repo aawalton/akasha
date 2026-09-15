@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A command under this namespace reports the work and mobile-cli does the work."},{"decisionKind":"decision-kind/absence","statement":"Nothing under this namespace reaches the mac except through mobile-cli."}]}
+{"definition":"the simulator an iOS app is driven on, and what is known of the builds Apple holds"}
+{"id":"01a07bc2-afbe-7a85-ba01-366f93a9c7a1"}
+{"name":"mobile"}
+{"parts":["command/mobile-testflight-status","namespace/mobile-cut","namespace/mobile-sim"]}
+{"slug":"mobile"}
+{"type":"page-type/namespace"}

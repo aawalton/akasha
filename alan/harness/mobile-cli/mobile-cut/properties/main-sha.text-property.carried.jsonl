@@ -1,0 +1,8 @@
+{"definition":"the commit of the main repo a cut was built from"}
+{"id":"01a0685d-b81f-7d1c-94f4-c00e55e583d2"}
+{"maxLength":40}
+{"nameFormat":null}
+{"propertySlug":"main-sha"}
+{"slug":"main-sha"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A guild entry is made on first touch rather than declared up front."}]}
+{"definition":"what the listings add-on keeps between sessions, and how a session opens it"}
+{"id":"01a06160-2a5c-7b38-bdfd-3a991e050619"}
+{"slug":"trading-saved-variables"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"definition":"the paths a container build leaves out"}
+{"extensions":["dockerignore"]}
+{"fileName":".dockerignore"}
+{"id":"01a06cd1-f990-7f38-95fd-d574435778e7"}
+{"propertySlug":"docker-ignore"}
+{"slug":"docker-ignore"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

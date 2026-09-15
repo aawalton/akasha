@@ -1,0 +1,17 @@
+{"baseName":"Negate Magic"}
+{"description":"\"Create a globe of magic suppression for |cffffff12|r seconds, removing and preventing all enemy area of effect abilities from occurring in the area.\\n\\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned.\""}
+{"esoSkillId":27706}
+{"icon":"/esoui/art/icons/ability_sorcerer_monsoon.dds"}
+{"id":"019e6f53-a4bd-7ae5-8315-56e5aed2be06"}
+{"isMorph":false}
+{"key":"negate-magic"}
+{"learnedLevel":12}
+{"lineRankNeeded":12}
+{"morphIndex":0}
+{"rank":12}
+{"skillLineId":"sorcerer-dark-magic"}
+{"skillType":"ultimate"}
+{"slug":"negate-magic"}
+{"subcategoryId":"sorcerer-dark-magic"}
+{"title":"Negate Magic"}
+{"type":"page-type/temper-skill"}

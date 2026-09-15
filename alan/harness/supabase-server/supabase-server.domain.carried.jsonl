@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"No key is here."},{"decisionKind":"decision-kind/departure","statement":"The key is read from the environment at the moment a client is made."},{"decisionKind":"decision-kind/departure","statement":"Nothing made here is ever handed to a browser."}]}
+{"definition":"the Supabase client a server holds, acting as the service role"}
+{"id":"01a05c75-8718-772e-bcdb-e24fb342750c"}
+{"parts":["module/service-role","module/throwaway-user"]}
+{"slug":"supabase-server"}
+{"type":"page-type/domain"}

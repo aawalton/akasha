@@ -1,0 +1,8 @@
+{"content":"conf"}
+{"definition":"the desktop entry KDE binds ScrollLock to"}
+{"id":"01a06862-af5c-7292-a50e-3a0578b78d6c"}
+{"installPath":"~/.local/share/applications/wallpaper-black.desktop"}
+{"onlyOn":"linux"}
+{"placedBy":"link"}
+{"slug":"wallpaper-black-launcher"}
+{"type":"page-type/provisioned-file"}

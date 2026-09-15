@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A title key is a track name and then `|` and then an artist name."},{"decisionKind":"decision-kind/departure","statement":"A title key has only lowercase letters and digits either side of `|`."}]}
+{"definition":"the text a track title and an artist name are matched by"}
+{"id":"01a06240-340f-700c-8b23-d85323898292"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"title-key"}
+{"slug":"title-key"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

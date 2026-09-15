@@ -1,0 +1,8 @@
+{"definition":"the properties a view draws even where a page has no value for them"}
+{"id":"01a0680d-4d00-700b-9a37-5b1d8c6e410c"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"always-show-properties"}
+{"slug":"always-show-properties"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

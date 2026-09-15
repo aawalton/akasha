@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The moment an error was last met moves whenever the error is met again."},{"decisionKind":"decision-kind/departure","statement":"The moment an error was last met is kept outside the commit."},{"decisionKind":"decision-kind/gap","statement":"An error naming no such moment was last met at an unknown moment."}]}
+{"definition":"when an error was most recently met"}
+{"id":"01a05f3f-e3e0-7d03-874b-3c6c7f2183d1"}
+{"propertySlug":"last-seen-at"}
+{"slug":"error-last-seen-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing Supabase holds about a user beyond these two is carried."}]}
+{"definition":"who Supabase says a user is, narrowed to the id and the address"}
+{"id":"01a05c6d-350a-7a9e-b989-5c974158f6f9"}
+{"slug":"supabase-user"}
+{"type":"page-type/module"}

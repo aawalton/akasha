@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The map window is dragged by its own texture rather than by a title bar."},{"decisionKind":"decision-kind/departure","statement":"Dragging the window calls back into the tracker so the place is kept."},{"decisionKind":"decision-kind/departure","statement":"The window is clamped to the screen."},{"decisionKind":"decision-kind/departure","statement":"The close button hides the map window rather than taking the map window away."}]}
+{"definition":"the movable treasure map window and the icon a settings row is marked with"}
+{"id":"01a0624c-a660-7e1e-90ff-1cb6ff118829"}
+{"loadedAs":"LostTreasure.xml"}
+{"markup":"xml"}
+{"slug":"lost-treasure-map-layout"}
+{"type":"page-type/eso-interface"}

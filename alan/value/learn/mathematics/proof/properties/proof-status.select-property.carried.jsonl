@@ -1,0 +1,7 @@
+{"definition":"how far an attempt has been taken"}
+{"id":"01a0657f-5da8-72f1-8408-a6f70813c9f3"}
+{"propertySlug":"proof-status"}
+{"slug":"proof-status"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["draft","complete","abandoned"]}

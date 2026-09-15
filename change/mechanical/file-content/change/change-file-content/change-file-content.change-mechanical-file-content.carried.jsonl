@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-change"}
+{"changeTargetSubtype":"change-target-subtype/file-content"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One call works one passage."},{"decisionKind":"decision-kind/departure","statement":"A passage that is not alone in the body is refused."},{"decisionKind":"decision-kind/departure","statement":"A passage the body has nowhere is refused."},{"decisionKind":"decision-kind/departure","statement":"A passage of no characters is refused."},{"decisionKind":"decision-kind/departure","statement":"A path with no body is refused."},{"decisionKind":"decision-kind/departure","statement":"A change leaving the body as the body was is refused."},{"decisionKind":"decision-kind/departure","statement":"The body worked on is the body the world answers rather than the body on disk."},{"decisionKind":"decision-kind/absence","statement":"Nothing here judges what the passage put in leaves."},{"decisionKind":"decision-kind/departure","statement":"The calling change judges what the passage put in leaves."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the disk."}]}
+{"definition":"one passage of one body replaced by another, with nothing else judged"}
+{"id":"01a07810-fb33-7e75-8e1e-ce1e302d5668"}
+{"slug":"change-file-content"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical-file-content"}

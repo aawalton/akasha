@@ -1,0 +1,8 @@
+{"definition":"the address the agreement was sent from"}
+{"id":"01a06861-e7cd-7635-bf50-9e91c4dffbfa"}
+{"maxLength":45}
+{"nameFormat":null}
+{"propertySlug":"ip-address"}
+{"slug":"sms-consent-ip-address"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

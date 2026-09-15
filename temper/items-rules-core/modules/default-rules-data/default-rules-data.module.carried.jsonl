@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The starting rules are the rule templates and nothing besides."},{"decisionKind":"decision-kind/departure","statement":"A starting rule is switched off until the player switches the rule on."}]}
+{"definition":"the rule set a player starts from, which is the rule templates in the order they are given"}
+{"id":"01a06100-3bea-7c4a-93e9-7fb293bfd0c3"}
+{"slug":"default-rules-data"}
+{"type":"page-type/module"}

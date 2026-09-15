@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches a mail provider."},{"decisionKind":"decision-kind/departure","statement":"Every judgement here is made from headers alone."},{"decisionKind":"decision-kind/gap","statement":"The channel addresses a decision reads are reached from akasha."},{"decisionKind":"decision-kind/departure","statement":"A persona's channel address is read off her own page rather than kept here."}]}
+{"definition":"what an arriving email is read into before anything acts on it"}
+{"id":"01a05bcd-25e2-7b0c-aff6-314192c66a72"}
+{"parts":["module/agent-channel","module/inbound-decision","module/inbound-message","module/persona-channels","module/sender"]}
+{"slug":"email-inbound"}
+{"type":"page-type/domain"}

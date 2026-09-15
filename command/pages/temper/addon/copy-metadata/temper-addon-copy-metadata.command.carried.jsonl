@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/code-root"},{"argument":"argument/addon","required":true}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A call naming no addon is refused rather than answered with a default."},{"decisionKind":"decision-kind/departure","statement":"Copying for an addon nobody named would overwrite build output nobody asked about."},{"decisionKind":"decision-kind/departure","statement":"The load order is written before anything is copied."},{"decisionKind":"decision-kind/departure","statement":"An absent markup file is written empty."},{"decisionKind":"decision-kind/departure","statement":"A declared sibling folder that is missing refuses the call."},{"decisionKind":"decision-kind/departure","statement":"The checkout written into is named on the call."},{"decisionKind":"decision-kind/absence","statement":"Nothing written here is carried by a commit."},{"decisionKind":"decision-kind/departure","statement":"A run that wrote before it threw says in its refusal what that run had written."},{"decisionKind":"decision-kind/departure","statement":"A fault carries the code that fault names and says where it was thrown."}]}
+{"definition":"the command copying an addon's manifest, markup, assets and siblings into its build output"}
+{"id":"01a0603c-c1c9-7aeb-a484-f4b4517ed141"}
+{"name":"copy-metadata"}
+{"slug":"temper-addon-copy-metadata"}
+{"test":"ts"}
+{"type":"page-type/command"}

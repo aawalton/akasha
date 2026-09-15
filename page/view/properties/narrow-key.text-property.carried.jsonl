@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A key no property declares and no page carries answers nothing."},{"decisionKind":"decision-kind/departure","statement":"A key is spelled as the page with the key spells the key."},{"decisionKind":"decision-kind/departure","statement":"A key parted by dots reaches a field inside the property its first segment names."},{"decisionKind":"decision-kind/departure","statement":"A page meets such a key where some value that key reaches meets the narrow."},{"decisionKind":"decision-kind/departure","statement":"A property holding many records is entered one record at a time."}]}
+{"definition":"the key one narrow reads off a page"}
+{"id":"01a063ee-2a3b-7005-88c7-33c0811a55ea"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"key"}
+{"slug":"narrow-key"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

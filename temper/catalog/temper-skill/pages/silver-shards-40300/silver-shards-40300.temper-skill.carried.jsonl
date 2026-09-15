@@ -1,0 +1,17 @@
+{"baseName":"Silver Bolts"}
+{"description":"\"Fire an augmented Dawnguard Vampire Hunter's crossbow bolt to strike an enemy, dealing |cffffff7681|r Physical Damage.\\n\\nFires additional bolts at other enemies near the initial target for |cffffff22|r% less damage.\""}
+{"esoSkillId":40300}
+{"icon":"/esoui/art/icons/ability_fightersguild_003_a.dds"}
+{"id":"019e6f53-a720-77f4-a635-611c5dd35c14"}
+{"isMorph":true}
+{"key":"silver-shards-40300"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":1}
+{"rank":2}
+{"skillLineId":"guild-fighters-guild"}
+{"skillType":"active"}
+{"slug":"silver-shards-40300"}
+{"subcategoryId":"guild-fighters-guild"}
+{"title":"Silver Shards"}
+{"type":"page-type/temper-skill"}

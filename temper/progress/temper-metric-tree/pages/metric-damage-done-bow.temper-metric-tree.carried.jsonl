@@ -1,0 +1,8 @@
+{"displayOrder":1}
+{"id":"019e2fcd-5985-709e-9fa9-52e70b6ac8a8"}
+{"nodeId":"damage-done-bow"}
+{"nodeType":"metric"}
+{"parent":"subcategory-damage-done-by-type"}
+{"slug":"metric-damage-done-bow"}
+{"title":"Damage Done Bow"}
+{"type":"page-type/temper-metric-tree"}

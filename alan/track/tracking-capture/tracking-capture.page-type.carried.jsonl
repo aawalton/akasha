@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Where a value came from is a page rather than a word on the field that has that value."},{"decisionKind":"decision-kind/absence","statement":"A capture has nothing but the name that capture is reached by and that capture's meaning."},{"decisionKind":"decision-kind/departure","statement":"There are five captures."},{"decisionKind":"decision-kind/departure","statement":"Alan saying so is a capture."},{"decisionKind":"decision-kind/departure","statement":"A device measuring is a capture."},{"decisionKind":"decision-kind/departure","statement":"A trace another system left is a capture."},{"decisionKind":"decision-kind/departure","statement":"Someone else's word is a capture."},{"decisionKind":"decision-kind/departure","statement":"A weighing is a capture."},{"decisionKind":"decision-kind/departure","statement":"Each capture is a page of this type."},{"decisionKind":"decision-kind/departure","statement":"Every tracked field states the single capture its values come of."},{"decisionKind":"decision-kind/departure","statement":"A capture says how a value came to exist rather than how good the value is."}]}
+{"definition":"how something Alan did comes to be an entry"}
+{"extends":["page-type/domain"]}
+{"id":"01a06827-ec0b-7fa8-bb0a-ae697d6c6a9e"}
+{"parts":["tracking-capture/judgment","tracking-capture/measurement","tracking-capture/report","tracking-capture/testimony","tracking-capture/trace"]}
+{"schema":"jsonl"}
+{"slug":"tracking-capture"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

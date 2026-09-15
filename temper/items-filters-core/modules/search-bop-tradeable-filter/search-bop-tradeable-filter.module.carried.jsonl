@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The BoP-tradeable filter reads the flag through the rule-editor flags checker."},{"decisionKind":"decision-kind/absence","statement":"Nothing here narrows the server request."}]}
+{"definition":"whether a bound item is still tradeable, narrowed by an include or exclude toggle"}
+{"id":"01a0613a-e0a5-79e4-a256-cff1d3e55d05"}
+{"slug":"search-bop-tradeable-filter"}
+{"type":"page-type/module"}

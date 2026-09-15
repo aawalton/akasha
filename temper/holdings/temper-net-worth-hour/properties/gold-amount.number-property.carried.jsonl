@@ -1,0 +1,7 @@
+{"definition":"how much gold an account has"}
+{"id":"01a06006-154d-7060-ae2d-783ad552437a"}
+{"max":null}
+{"propertySlug":"gold-amount"}
+{"slug":"gold-amount"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

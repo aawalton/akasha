@@ -1,0 +1,7 @@
+{"definition":"how much of a resource an effect gives or takes"}
+{"id":"01a06193-6ca9-77b4-9ef7-a846d70c1675"}
+{"max":null}
+{"propertySlug":"amount"}
+{"slug":"effect-amount"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

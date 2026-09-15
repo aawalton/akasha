@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name is held by codec index rather than by game constant."}]}
+{"definition":"the words and colours a player reads for each armor weight, trait, quality and gear slot"}
+{"id":"01a0611d-84d3-7cf4-b385-a77f80d02765"}
+{"slug":"companions-display-names"}
+{"type":"page-type/module"}

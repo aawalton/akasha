@@ -1,0 +1,11 @@
+{"displayOrder":8}
+{"effect":"Increases Movement Speed"}
+{"effects":"jsonl"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_JEWELRY_SWIFT"}
+{"id":"019e5b97-6d95-75b3-a895-c8f82be3f293"}
+{"key":"swift"}
+{"material":"Gilding Wax"}
+{"qualityValues":"jsonl"}
+{"slug":"swift"}
+{"title":"Swift"}
+{"type":"page-type/temper-jewelry-trait"}

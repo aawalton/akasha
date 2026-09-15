@@ -1,0 +1,6 @@
+{"definition":"whether a quest asks for an item"}
+{"id":"01a06053-b380-723f-b7d9-0551ccc5966a"}
+{"propertySlug":"quest-relevant"}
+{"slug":"quest-relevant"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

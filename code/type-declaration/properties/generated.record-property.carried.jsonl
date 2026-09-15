@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A declaration stating nothing here was written by hand."},{"decisionKind":"decision-kind/departure","statement":"The page states the command rather than the declaration file's own first lines."},{"decisionKind":"decision-kind/departure","statement":"An edit by hand to a generated declaration is lost at the next run."}]}
+{"definition":"the command writing a declaration again and the source version it was written from"}
+{"id":"01a08235-0ea1-7f91-8c09-9014555e81bc"}
+{"properties":[{"pageProperty":"text-property/written-by","required":true,"many":false},{"pageProperty":"number-property/source-version","required":false,"many":false}]}
+{"propertySlug":"generated"}
+{"slug":"generated"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

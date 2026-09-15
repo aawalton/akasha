@@ -1,0 +1,17 @@
+{"baseName":"Corpse Consumption"}
+{"description":"\"When you consume a corpse, you generate |cffffff5|r Ultimate. This effect can occur once every |cffffff16|r seconds.\""}
+{"esoSkillId":116284}
+{"icon":"/esoui/art/icons/passive_necromancer_011.dds"}
+{"id":"019e6f53-a025-7a6b-b86f-16c612eea501"}
+{"isMorph":false}
+{"key":"corpse-consumption-116284"}
+{"learnedLevel":22}
+{"lineRankNeeded":22}
+{"morphIndex":0}
+{"rank":22}
+{"skillLineId":"necromancer-living-death"}
+{"skillType":"passive"}
+{"slug":"corpse-consumption-116284"}
+{"subcategoryId":"necromancer-living-death"}
+{"title":"Corpse Consumption"}
+{"type":"page-type/temper-skill"}

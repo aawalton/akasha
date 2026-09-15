@@ -1,0 +1,8 @@
+{"displayOrder":1}
+{"id":"019e2fcd-59dc-70e2-b43d-02197d080797"}
+{"nodeId":"magical-aoe-status-chance"}
+{"nodeType":"metric"}
+{"parent":"subcategory-magical-status-chance"}
+{"slug":"metric-magical-aoe-status-chance"}
+{"title":"Magical Aoe Status Chance"}
+{"type":"page-type/temper-metric-tree"}

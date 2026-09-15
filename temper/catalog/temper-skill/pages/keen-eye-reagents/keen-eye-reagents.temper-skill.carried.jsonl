@@ -1,0 +1,17 @@
+{"baseName":"Keen Eye: Reagents"}
+{"description":"\"Herbs and fungi in the world will be easier to see when you are 40 meters or closer.\""}
+{"esoSkillId":47842}
+{"icon":"/esoui/art/icons/ability_smith_002.dds"}
+{"id":"019e6224-cc9c-7aa7-8faf-c41df57dd4eb"}
+{"isMorph":false}
+{"key":"keen-eye-reagents"}
+{"learnedLevel":17}
+{"lineRankNeeded":17}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-alchemy"}
+{"skillType":"passive"}
+{"slug":"keen-eye-reagents"}
+{"subcategoryId":"craft-alchemy"}
+{"title":"Keen Eye: Reagents"}
+{"type":"page-type/temper-skill"}

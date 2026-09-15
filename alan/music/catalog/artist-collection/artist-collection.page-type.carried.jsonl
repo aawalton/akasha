@@ -1,0 +1,8 @@
+{"definition":"a shelf of artists Alan keeps together"}
+{"extends":["page-type/collection"]}
+{"id":"01a06807-be66-7007-94ba-493909f3dc58"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"artist-collection"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

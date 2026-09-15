@@ -1,0 +1,10 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat warrants every initiative the one that seat states is under."},{"decisionKind":"decision-kind/departure","statement":"An initiative is above the initiative naming that initiative as its parent."},{"decisionKind":"decision-kind/departure","statement":"The initiative the seat states is no ancestor of itself."},{"decisionKind":"decision-kind/departure","statement":"A seat stating no initiative warrants no initiative."}]}
+{"definition":"what a seat must read for the initiatives above the one it states"}
+{"id":"01a058d6-2843-7000-81b8-b20476cc7fef"}
+{"runsOnRead":true}
+{"runsOnWrite":true}
+{"slug":"initiative-ancestors"}
+{"test":"ts"}
+{"transitive":false}
+{"type":"page-type/context-warrant"}

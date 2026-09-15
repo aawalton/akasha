@@ -1,0 +1,10 @@
+{"definition":"the router carrying private network traffic to the cluster nodes' addresses"}
+{"id":"01a06812-2380-7d28-a4a5-09178aa6be26"}
+{"image":"tailscale/tailscale:v1.98.10"}
+{"manifest":["manifest/talos-subnet-router"]}
+{"namespace":"headscale"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"talos-subnet-router"}
+{"slug":"talos-subnet-router"}
+{"type":"page-type/service-cluster"}

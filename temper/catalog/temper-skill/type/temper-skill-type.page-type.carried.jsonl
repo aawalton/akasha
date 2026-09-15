@@ -1,0 +1,8 @@
+{"definition":"the sort of use a skill is put to"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fca-cb8c-73c3-984c-28544089d7ee"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"text-property/description","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-skill-type"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

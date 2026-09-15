@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only a declaration with many values states a count."},{"decisionKind":"decision-kind/departure","statement":"How long one entry runs is stated as a length rather than as a count."}]}
+{"definition":"the most entries a list may hold"}
+{"id":"01a07807-639f-78de-a246-cc6e8ef667e9"}
+{"max":null}
+{"nullable":true}
+{"propertySlug":"max-count"}
+{"slug":"max-count"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

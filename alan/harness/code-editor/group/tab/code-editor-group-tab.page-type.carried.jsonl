@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The next write takes the page of a tab closed while the tab's window is still open."}]}
+{"definition":"a single open item within a group"}
+{"extends":["page-type/page"]}
+{"id":"01a06826-92e5-7347-826a-2896ea71b0ee"}
+{"mortal":true}
+{"schema":"jsonl"}
+{"slug":"code-editor-group-tab"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

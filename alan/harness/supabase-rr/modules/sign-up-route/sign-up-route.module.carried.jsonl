@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reader asking for the sign-up path is sent to signing in."},{"decisionKind":"decision-kind/absence","statement":"No account is opened here."}]}
+{"definition":"where a reader asking to sign up is sent"}
+{"id":"01a090ae-514d-7335-bf9d-a3f3b7b9c4c4"}
+{"slug":"sign-up-route"}
+{"type":"page-type/module"}

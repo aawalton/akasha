@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A collection nobody will ever work through is `not-applicable`."},{"decisionKind":"decision-kind/departure","statement":"A collection put out of sight is `archived`."}]}
+{"definition":"how far a person has got with a collection"}
+{"id":"01a063de-2c60-7011-92a6-0aefa2934d59"}
+{"propertySlug":"status"}
+{"slug":"status"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["not-started","in-progress","following","paused","completed","not-applicable","archived"]}

@@ -1,0 +1,19 @@
+{"baseName":"Athletics"}
+{"description":"\"Increases the Movement Speed bonus of Sprint by 3% for each piece of Medium Armor equipped.\\n\\nCurrent bonus: 0%.\\n\\nReduces the cost of Roll Dodge by 4% for each piece of Medium Armor equipped.\\n\\nCurrent bonus: 0%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45574}
+{"icon":"/esoui/art/icons/ability_armor_009.dds"}
+{"id":"019e6238-c293-78ef-8bf0-2f9ef588e311"}
+{"isMorph":false}
+{"key":"athletics"}
+{"learnedLevel":1}
+{"lineRankNeeded":42}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"armor-medium-armor"}
+{"skillType":"passive"}
+{"slug":"athletics"}
+{"status":"supported"}
+{"subcategoryId":"armor-medium-armor"}
+{"title":"Athletics"}
+{"type":"page-type/temper-skill"}

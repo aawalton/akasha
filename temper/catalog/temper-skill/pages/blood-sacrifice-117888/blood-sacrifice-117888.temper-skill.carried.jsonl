@@ -1,0 +1,17 @@
+{"baseName":"Render Flesh"}
+{"description":"\"Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for |cffffff11321|r Health but applying Minor Defile to yourself for |cffffff4|r seconds, reducing your healing received and damage shield strength by |cffffff6|r%.\\n\\nConsumes a corpse near you when cast to heal a second target.\""}
+{"esoSkillId":117888}
+{"icon":"/esoui/art/icons/ability_necromancer_013_b.dds"}
+{"id":"019e6f53-9f5a-798a-a316-641499e6029e"}
+{"isMorph":true}
+{"key":"blood-sacrifice-117888"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":2}
+{"rank":1}
+{"skillLineId":"necromancer-living-death"}
+{"skillType":"active"}
+{"slug":"blood-sacrifice-117888"}
+{"subcategoryId":"necromancer-living-death"}
+{"title":"Blood Sacrifice"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"definition":"the conda environment an mlx image service runs in"}
+{"id":"01a06815-9efd-700f-81c2-2a39a0828fa9"}
+{"shell":"sh"}
+{"slug":"mlx-openai-server-provision"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

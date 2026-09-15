@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-rename"}
+{"changeTargetSubtype":"change-target-subtype/file-content-code"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The offset handed in is named `spot` rather than `at`."}]}
+{"definition":"the change spelling a local binding and its references anew in one file"}
+{"id":"01a07718-c9b5-7a1b-822f-308aef9ac22a"}
+{"slug":"rename-local-variable"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical-file-content"}

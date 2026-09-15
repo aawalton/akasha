@@ -1,0 +1,13 @@
+{"definition":"the Qwen3-VL model that reads a picture, served by mlx-vlm"}
+{"enabled":true}
+{"host":"macbook"}
+{"id":"01a090a3-1740-747a-a45e-2af1a1123204"}
+{"internalPort":18096}
+{"lifecycle":"pool"}
+{"port":8096}
+{"provision":"shell-script/mlx-vlm-provision"}
+{"pythonVersion":"3.12"}
+{"runs":["python -m mlx_vlm.server --model mlx-community/Qwen3-VL-30B-A3B-Instruct-4bit --host 127.0.0.1 --port 18096"]}
+{"slug":"mlx-vlm"}
+{"type":"page-type/service-inference"}
+{"workdir":"."}

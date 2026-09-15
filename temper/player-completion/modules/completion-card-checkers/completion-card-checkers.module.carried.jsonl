@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A card the registry does not name has no checker and reads as unmeasured."},{"decisionKind":"decision-kind/departure","statement":"A card stating no picker is one leaf at the empty path."}]}
+{"definition":"what answers whether a character has finished each completion card"}
+{"id":"01a0640c-1e9a-73f9-8755-c19243c58c9d"}
+{"slug":"completion-card-checkers"}
+{"type":"page-type/module"}

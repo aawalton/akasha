@@ -1,0 +1,8 @@
+{"definition":"the collector reading how long work waits on cgroup resources has stopped writing"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62f9-7451-a703-53f3e5989f26"}
+{"runbook":"txt"}
+{"slug":"cgroup-psi-collector-stale"}
+{"summary":"cgroup-psi collector on {{ $labels.instance }} has not published for over 300s"}
+{"title":"Cgroup PSI collector stale"}
+{"type":"page-type/alert"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A binary is fetched at a pinned version rather than latest."}]}
+{"definition":"where each binary a CI toolchain installs is fetched from"}
+{"id":"01a0680f-d1b7-7713-9d02-85fa22f033a1"}
+{"reachedByPath":["CI_TOOLCHAIN_URLS"]}
+{"slug":"toolchain-manifest"}
+{"type":"page-type/module"}

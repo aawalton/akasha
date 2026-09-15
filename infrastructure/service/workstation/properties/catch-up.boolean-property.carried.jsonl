@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A timer stating false lets a missed time go by."}]}
+{"definition":"whether a timer runs for a time it was down for"}
+{"id":"01a05a3f-b42f-7a04-a555-5691399a9e74"}
+{"propertySlug":"catch-up"}
+{"slug":"catch-up"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

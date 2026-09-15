@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An operation is known by its name."},{"decisionKind":"decision-kind/departure","statement":"An operation replaces whatever was held under the same name."},{"decisionKind":"decision-kind/departure","statement":"Merged operations come back ordered by name."},{"decisionKind":"decision-kind/departure","statement":"A run counts as carried across only when every operation the run has is synced."},{"decisionKind":"decision-kind/departure","statement":"A modification time at or below zero is no time."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reports anything anywhere."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads or writes a file."}]}
+{"definition":"what one run of the watcher did to each file it carried across"}
+{"id":"01a0633f-8d1d-7d93-a711-1559acdac009"}
+{"slug":"watcher-run-outcome"}
+{"test":"ts"}
+{"type":"page-type/module"}

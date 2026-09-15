@@ -1,0 +1,7 @@
+{"definition":"the icon each piece of a set is shown with, one piece to a line"}
+{"id":"01a05fd1-d43b-7c0f-bb64-665ec592d68d"}
+{"properties":[{"pageProperty":"text-property/icon-slot","required":true,"many":false},{"pageProperty":"text-property/icon","required":true,"many":false}]}
+{"propertySlug":"icons"}
+{"slug":"icons"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

@@ -1,0 +1,17 @@
+{"baseName":"Death Gleaning"}
+{"description":"\"Whenever an enemy you are in combat with dies within |cffffff28|r meters of you, restore |cffffff333|r Magicka and Stamina.\""}
+{"esoSkillId":116230}
+{"icon":"/esoui/art/icons/passive_necromancer_005.dds"}
+{"id":"019e6f53-a09a-75c8-bcab-486525f4001e"}
+{"isMorph":false}
+{"key":"death-gleaning-116230"}
+{"learnedLevel":8}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":8}
+{"skillLineId":"necromancer-bone-tyrant"}
+{"skillType":"passive"}
+{"slug":"death-gleaning-116230"}
+{"subcategoryId":"necromancer-bone-tyrant"}
+{"title":"Death Gleaning"}
+{"type":"page-type/temper-skill"}

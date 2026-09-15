@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A completion row names the game's own numbers rather than akasha ids."},{"decisionKind":"decision-kind/departure","statement":"A row with no completion is read as no progress."},{"decisionKind":"decision-kind/departure","statement":"A skill line the game numbers zero is left out of the maps here."}]}
+{"definition":"the morph progress a saved completion row carries"}
+{"id":"01a061e2-5e38-795d-b1f0-b50d142c48d5"}
+{"parts":["module/character-skill-morph-transform","module/eso-id-helpers","module/morph-completion-shapes","module/skill-morphs-checker","module/skill-morphs-resolver"]}
+{"slug":"temper-skill-morph-access"}
+{"type":"page-type/domain"}

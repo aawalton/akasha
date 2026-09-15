@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"No persona page states a rule by which a message starts a seat."},{"decisionKind":"decision-kind/departure","statement":"The empty list is the answer the persona pages give rather than a reading that failed."}]}
+{"definition":"each persona akasha holds, beside the rules by which a message starts her seat"}
+{"id":"01a0657d-a75e-7009-bc7f-b3d878fd5671"}
+{"slug":"persona-targets"}
+{"type":"page-type/module"}

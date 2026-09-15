@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/move-to"}
+{"active":true}
+{"categoryId":"holiday-writs"}
+{"description":"Stashes holiday event writs in the bank. Complete them during events for bonus rewards."}
+{"destination":"guild-bank:Walton Mountain"}
+{"displayOrder":47}
+{"fromTemplate":"temper-rule-template/holiday-writs-bank"}
+{"goal":"temper-rule-goal/task"}
+{"id":"01a0728b-4fbc-78e7-9225-32778a10dad0"}
+{"locked":true}
+{"slug":"rule-holiday-writs-bank"}
+{"title":"Bank holiday writs"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-07-05T12:14:14.074Z"}

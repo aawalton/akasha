@@ -1,0 +1,7 @@
+{"id":"01a094db-c691-78ab-be22-5abde9688eeb"}
+{"placeholder":"url"}
+{"said":"--callback-url"}
+{"slug":"callback-url"}
+{"takes":"the callback URL pasted from the browser, where the loopback listener cannot be reached"}
+{"type":"page-type/argument"}
+{"value":"text"}

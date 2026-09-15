@@ -1,0 +1,8 @@
+{"definition":"what an item's own ability does"}
+{"id":"01a05fcd-f54b-70b4-b8c8-5a4d01768953"}
+{"maxLength":1000}
+{"nameFormat":null}
+{"propertySlug":"ability-description"}
+{"slug":"ability-description"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

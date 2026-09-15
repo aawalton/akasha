@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Sun Fire"}
+{"description":"\"Blast an enemy with a charge of radiant heat, dealing |cffffff17008|r Flame Damage over |cffffff6|r seconds.\""}
+{"esoSkillId":237949}
+{"icon":"/esoui/art/icons/ability_templar_sun_fire.dds"}
+{"id":"019e6f53-a996-7284-b69f-ec24567cab99"}
+{"isMorph":false}
+{"key":"vengeance-sun-fire"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-templar-dawns-wrath"}
+{"skillType":"active"}
+{"slug":"vengeance-sun-fire"}
+{"subcategoryId":"vengeance-templar-dawns-wrath"}
+{"title":"Vengeance Sun Fire"}
+{"type":"page-type/temper-skill"}

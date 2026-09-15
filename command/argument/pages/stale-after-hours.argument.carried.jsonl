@@ -1,0 +1,7 @@
+{"id":"01a094d1-844b-7dc6-bc52-0066add1a813"}
+{"placeholder":"n"}
+{"said":"--stale-after-hours"}
+{"slug":"stale-after-hours"}
+{"takes":"how far behind the log frontier an entry is before it counts as stale"}
+{"type":"page-type/argument"}
+{"value":"whole-number"}

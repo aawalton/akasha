@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The panel is the game's own, and an add-on only adds to what it draws."}]}
+{"definition":"the panel a player spends a character's skill points in"}
+{"id":"01a090b6-a3f2-7389-972c-8722513c19f0"}
+{"parts":["module/skills-panel-points"]}
+{"slug":"temper-skills-panel"}
+{"type":"page-type/domain"}

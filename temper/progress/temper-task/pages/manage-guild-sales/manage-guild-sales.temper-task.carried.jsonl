@@ -1,0 +1,16 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"character":"erin-solstice"}
+{"completionCardId":"guild-sales"}
+{"displayOrder":12}
+{"dueDate":"2026-09-21"}
+{"effectiveCharacter":"erin-solstice"}
+{"esoCharacterId":"8796093022338107"}
+{"id":"019db533-f381-758e-8b24-0a120b8857e8"}
+{"lastCompletedAt":"2026-09-14T18:55:18.372Z"}
+{"priority":"p2"}
+{"rruleAnchorFromCompletion":false}
+{"rruleRule":"FREQ=WEEKLY;BYDAY=MO"}
+{"scope":"character"}
+{"slug":"manage-guild-sales"}
+{"title":"Manage Guild Sales"}
+{"type":"page-type/temper-task"}

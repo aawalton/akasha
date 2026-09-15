@@ -1,0 +1,8 @@
+{"definition":"a container was killed for running out of memory"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62f9-7fe2-97ef-3a5b58a994c5"}
+{"runbook":"txt"}
+{"slug":"container-oom-killed"}
+{"summary":"Container {{ $labels.namespace }}/{{ $labels.pod }}/{{ $labels.container }} is OOM-killed and restarting"}
+{"title":"Container OOM killed"}
+{"type":"page-type/alert"}

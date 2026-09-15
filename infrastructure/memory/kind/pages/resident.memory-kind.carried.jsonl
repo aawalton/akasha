@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Two processes sharing a page are each resident in the whole page."},{"decisionKind":"decision-kind/departure","statement":"Adding the resident memory of two processes counts a page they share twice."},{"decisionKind":"decision-kind/departure","statement":"Memory a process has swapped out is resident nowhere."},{"decisionKind":"decision-kind/departure","statement":"What one process is holding is asked in resident memory."}]}
+{"definition":"memory a process holds in RAM at the moment it is read"}
+{"id":"01a09131-5456-7397-ad61-ca86675666db"}
+{"slug":"resident"}
+{"type":"page-type/memory-kind"}

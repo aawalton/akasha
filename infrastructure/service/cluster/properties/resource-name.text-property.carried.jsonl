@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The resource name is the name the cluster is asked for rather than the page's own slug."}]}
+{"definition":"the name a resource carries in the cluster"}
+{"id":"01a05a41-58c5-7070-8223-2b245078d3b9"}
+{"maxLength":63}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"resource-name"}
+{"slug":"resource-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

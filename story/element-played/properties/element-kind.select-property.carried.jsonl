@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An agent is an element that wants something of the story."},{"decisionKind":"decision-kind/departure","statement":"A setting is an element whose wanting is law rather than desire."}]}
+{"definition":"whether an element wants or only tends"}
+{"id":"01a06828-cb97-7ee3-9578-4a81ad1884a6"}
+{"propertySlug":"element-kind"}
+{"slug":"element-kind"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["agent","setting"]}

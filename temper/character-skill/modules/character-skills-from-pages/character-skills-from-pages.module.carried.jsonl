@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This table is written out from the skill pages rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"An entry's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"An entry moved to another place breaks every build hash saved."},{"decisionKind":"decision-kind/departure","statement":"This table is divided across runs."}]}
+{"definition":"every Elder Scrolls Online skill the catalog pages have"}
+{"id":"01a06187-b3a0-7150-bb13-34820d779cb1"}
+{"slug":"character-skills-from-pages"}
+{"type":"page-type/module"}

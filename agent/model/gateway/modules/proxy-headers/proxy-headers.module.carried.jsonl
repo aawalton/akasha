@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A request drops every hop-by-hop header."},{"decisionKind":"decision-kind/departure","statement":"A request drops its `authorization` header."},{"decisionKind":"decision-kind/departure","statement":"A request drops its `host` header."},{"decisionKind":"decision-kind/departure","statement":"Neither direction copies `content-length`."},{"decisionKind":"decision-kind/departure","statement":"A response drops `content-encoding`."},{"decisionKind":"decision-kind/departure","statement":"A header no list names is copied with its value unchanged."},{"decisionKind":"decision-kind/departure","statement":"A header is matched against a list in lower case."},{"decisionKind":"decision-kind/absence","statement":"Nothing here adds a header that did not arrive."},{"decisionKind":"decision-kind/departure","statement":"A response drops every hop-by-hop header."},{"decisionKind":"decision-kind/departure","statement":"A response with several `set-cookie` headers copies every header."}]}
+{"definition":"the headers copied across a proxy hop"}
+{"id":"01a0622f-4550-7230-9809-915f90bdb897"}
+{"slug":"proxy-headers"}
+{"test":"ts"}
+{"type":"page-type/module"}

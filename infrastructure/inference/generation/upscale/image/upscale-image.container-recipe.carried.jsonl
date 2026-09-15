@@ -1,0 +1,5 @@
+{"definition":"the image the upscaler runs ComfyUI from on a Blackwell card"}
+{"id":"01a06815-9efd-703e-b4a6-f5afa5889e2b"}
+{"recipe":"dockerfile"}
+{"slug":"upscale-image"}
+{"type":"page-type/container-recipe"}

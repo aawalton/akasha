@@ -1,0 +1,11 @@
+{"description":"Grants Vitality, Increase Physical Resistance, Restore Health."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_001_type_005.dds"}
+{"id":"019e21f6-4043-758e-ae26-fbcaa8540cd5"}
+{"key":"fortitude-vitality-health-restore-resistance-physical"}
+{"level":"CP150"}
+{"reagents":[{"names":["Beetle Scuttle","Butterfly Wing","Mountain Flower"]}]}
+{"seconds":47}
+{"slug":"fortitude-vitality-health-restore-resistance-physical"}
+{"title":"Essence of Health"}
+{"type":"page-type/temper-potion-crafted"}

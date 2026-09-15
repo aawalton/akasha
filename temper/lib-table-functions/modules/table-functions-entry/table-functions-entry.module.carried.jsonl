@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The bundle the transpiler writes starts here."},{"decisionKind":"decision-kind/departure","statement":"The global has the whole library rather than one helper at a time."}]}
+{"definition":"the global the game reads the table helpers from once the addon loads"}
+{"id":"01a06052-2ca6-7783-9f7b-c66a284047c9"}
+{"slug":"table-functions-entry"}
+{"type":"page-type/module"}

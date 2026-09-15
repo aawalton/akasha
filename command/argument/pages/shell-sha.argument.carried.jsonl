@@ -1,0 +1,7 @@
+{"id":"01a094c8-8da6-7f0c-8b6a-c33ad0740c67"}
+{"placeholder":"sha"}
+{"said":"--shell-sha"}
+{"slug":"shell-sha"}
+{"takes":"the shell-repo commit the cut was taken at, where it named one"}
+{"type":"page-type/argument"}
+{"value":"text"}

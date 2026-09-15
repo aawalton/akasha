@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Chains of Flame"}
+{"description":"\"Launch a fiery chain to grasp and pull an enemy to you, dealing |cffffff6678|r Flame Damage.\\n\\nThis attack cannot be dodged or reflected.\""}
+{"esoSkillId":237620}
+{"icon":"/esoui/art/icons/ability_dragonknight_005.dds"}
+{"id":"019e6f53-a8d0-74c2-8adb-7ce9e0b7a720"}
+{"isMorph":false}
+{"key":"vengeance-chains-of-flame"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-dragonknight-draconic-power"}
+{"skillType":"active"}
+{"slug":"vengeance-chains-of-flame"}
+{"subcategoryId":"vengeance-dragonknight-draconic-power"}
+{"title":"Vengeance Chains of Flame"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A route is worked out from where the item lies and from where the rule sends that item."},{"decisionKind":"decision-kind/departure","statement":"An item already where the rule sends that item needs no route."}]}
+{"definition":"the route one item takes from where the item lies to where a rule sends it"}
+{"id":"01a06151-3709-7e05-8784-492a19817f13"}
+{"slug":"inventory-management-plan-route"}
+{"type":"page-type/module"}

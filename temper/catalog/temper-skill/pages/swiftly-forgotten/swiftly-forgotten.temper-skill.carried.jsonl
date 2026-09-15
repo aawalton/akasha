@@ -1,0 +1,19 @@
+{"baseName":"Swiftly Forgotten"}
+{"description":"\"Bounty is decreased by 115 after 3 minutes.\\nHeat is decreased by 64 after 3 seconds.\""}
+{"effects":"jsonl"}
+{"esoSkillId":76457}
+{"icon":"/esoui/art/icons/ability_thievesguild_passive_005.dds"}
+{"id":"019e6238-c31d-70de-9cca-3efb9b907a49"}
+{"isMorph":false}
+{"key":"swiftly-forgotten"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"guild-thieves-guild"}
+{"skillType":"passive"}
+{"slug":"swiftly-forgotten"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-thieves-guild"}
+{"title":"Swiftly Forgotten"}
+{"type":"page-type/temper-skill"}

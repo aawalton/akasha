@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A character absent from the captured holdings is named by its id."},{"decisionKind":"decision-kind/departure","statement":"An item with no captured value contributes nothing to a total."}]}
+{"definition":"the readings a route needs of an item's value, of storage keys and of character names"}
+{"id":"01a06151-3709-783e-95d5-d8689987fee1"}
+{"slug":"inventory-management-plan-route-helpers"}
+{"type":"page-type/module"}

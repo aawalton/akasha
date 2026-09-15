@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"character":"erin-solstice"}
+{"displayOrder":15}
+{"dueDate":"2026-09-20"}
+{"effectiveCharacter":"erin-solstice"}
+{"esoCharacterId":"8796093022338107"}
+{"id":"019db533-f381-7537-ae93-c60ca6656758"}
+{"lastCompletedAt":"2026-09-07T02:44:32.034Z"}
+{"priority":"p3"}
+{"rruleAnchorFromCompletion":false}
+{"rruleRule":"FREQ=WEEKLY;INTERVAL=2"}
+{"scope":"character"}
+{"slug":"vateshran-hollows-weekly-leaderboard"}
+{"title":"Vateshran Hollows Weekly Leaderboard"}
+{"type":"page-type/temper-task"}

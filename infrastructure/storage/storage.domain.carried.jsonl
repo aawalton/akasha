@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Durability is off by default in every store."},{"decisionKind":"decision-kind/departure","statement":"Durability is asked for one thing at a time."}]}
+{"definition":"where bytes live"}
+{"id":"01a0658b-0f02-7644-863a-eb9b17536f55"}
+{"parts":["domain/backup","domain/container-registry","domain/database","domain/disk-store","domain/git-repo","domain/object-store"]}
+{"slug":"storage"}
+{"type":"page-type/domain"}

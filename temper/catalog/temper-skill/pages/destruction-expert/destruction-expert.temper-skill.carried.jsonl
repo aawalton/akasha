@@ -1,0 +1,19 @@
+{"baseName":"Destruction Expert"}
+{"description":"\"When you kill an enemy with a Destruction Staff ability, you restore 3600 Magicka.\\n\\nWhen you absorb damage using a Destruction Staff Damage Shield, you restore 1800 Magicka. This effect can occur once every 10 seconds.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45514}
+{"icon":"/esoui/art/icons/ability_weapon_006.dds"}
+{"id":"019e6226-00e3-7fad-978e-dcf1ea33cd28"}
+{"isMorph":false}
+{"key":"destruction-expert"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"passive"}
+{"slug":"destruction-expert"}
+{"status":"unsupported"}
+{"subcategoryId":"weapon-destruction-staff"}
+{"title":"Destruction Expert"}
+{"type":"page-type/temper-skill"}

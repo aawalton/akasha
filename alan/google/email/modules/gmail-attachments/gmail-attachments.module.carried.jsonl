@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A part is an attachment only where that part has both a filename and an id."},{"decisionKind":"decision-kind/departure","statement":"Nested parts are walked to the bottom."},{"decisionKind":"decision-kind/departure","statement":"A part naming no type is treated as a stream of bytes."}]}
+{"definition":"the files hanging off a mail message, listed, fetched and made"}
+{"id":"01a05c0e-3730-7187-8180-c05ac035233c"}
+{"slug":"gmail-attachments"}
+{"type":"page-type/module"}

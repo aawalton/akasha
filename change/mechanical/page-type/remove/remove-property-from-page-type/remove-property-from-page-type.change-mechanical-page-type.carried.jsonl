@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-remove"}
+{"changeTargetSubtype":"change-target-subtype/page-type-page-property"}
+{"changeTargetType":"change-target-type/page-type"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The part and the declaration are one answer over one reading of the body."},{"decisionKind":"decision-kind/departure","statement":"The declaration taken out is the one naming that property."},{"decisionKind":"decision-kind/departure","statement":"The part taken out is keyed `parts` rather than looked for under a second key."},{"decisionKind":"decision-kind/departure","statement":"A page type that declares a property without parting it loses the declaration alone."},{"decisionKind":"decision-kind/departure","statement":"Whether the page type parts the property is read from the index."},{"decisionKind":"decision-kind/departure","statement":"A slug naming no page property is refused before the body is read."},{"decisionKind":"decision-kind/departure","statement":"A path naming no page type is refused before the body is read."},{"decisionKind":"decision-kind/departure","statement":"A page type declaring that property nowhere is refused by its path."},{"decisionKind":"decision-kind/absence","statement":"No rung beneath is reached."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes the type a page type has."},{"decisionKind":"decision-kind/absence","statement":"Nothing here spells an import."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a page of the type the property was declared on."}]}
+{"definition":"one page property taken off one page type and out of that page type's parts"}
+{"id":"01a09cc4-9e95-7a9b-a741-4be28085d2a1"}
+{"slug":"remove-property-from-page-type"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical-page-type"}

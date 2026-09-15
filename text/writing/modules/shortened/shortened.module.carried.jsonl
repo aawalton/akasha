@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Text no longer than the length is written out whole."},{"decisionKind":"decision-kind/departure","statement":"Text longer than the length keeps that length and an ellipsis follows it."},{"decisionKind":"decision-kind/departure","statement":"The ellipsis is the one character rather than three periods."},{"decisionKind":"decision-kind/departure","statement":"The length is sixty characters."}]}
+{"definition":"text held to a length, with an ellipsis at the end of text that was longer"}
+{"id":"01a0908e-2225-73cf-ab78-93caf2062757"}
+{"slug":"shortened"}
+{"test":"ts"}
+{"type":"page-type/module"}

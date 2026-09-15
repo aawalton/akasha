@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A run names no source."},{"decisionKind":"decision-kind/departure","statement":"A run sits beside the sync that run was a pull of."},{"decisionKind":"decision-kind/departure","statement":"A run reporting no counts failed before reaching anything to count."}]}
+{"definition":"every pull a sync has made, one to a line"}
+{"id":"01a06861-f664-70f9-9c72-89cac17bf56b"}
+{"properties":[{"pageProperty":"number-property/run-seq","required":false,"many":false},{"pageProperty":"instant-property/run-started-at","required":true,"many":false},{"pageProperty":"instant-property/run-completed-at","required":false,"many":false},{"pageProperty":"number-property/duration-ms","required":false,"many":false},{"pageProperty":"select-property/run-status","required":true,"many":false},{"pageProperty":"number-property/created-count","required":false,"many":false},{"pageProperty":"number-property/updated-count","required":false,"many":false},{"pageProperty":"number-property/skipped-count","required":false,"many":false},{"pageProperty":"number-property/failed-count","required":false,"many":false},{"pageProperty":"text-property/run-error-message","required":false,"many":false}]}
+{"propertySlug":"sync-runs"}
+{"slug":"sync-runs"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

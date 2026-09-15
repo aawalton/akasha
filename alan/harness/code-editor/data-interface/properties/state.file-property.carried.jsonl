@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The page is committed and the file beside that page is not."},{"decisionKind":"decision-kind/departure","statement":"A page's type puts this file beside the page."},{"decisionKind":"decision-kind/absence","statement":"No page states this file."},{"decisionKind":"decision-kind/departure","statement":"A file with nothing yet is the editor's cue to draw nothing rather than to wait."},{"decisionKind":"decision-kind/departure","statement":"One JSON document has the whole state a part of the editor draws."},{"decisionKind":"decision-kind/departure","statement":"A write replaces the whole file rather than adding to the file."}]}
+{"definition":"what a part of the editor draws now"}
+{"extensions":["json"]}
+{"generated":true}
+{"id":"01a07235-8d04-7c15-8c68-fc8181d908e4"}
+{"propertySlug":"state"}
+{"runsFileLength":false}
+{"slug":"state"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

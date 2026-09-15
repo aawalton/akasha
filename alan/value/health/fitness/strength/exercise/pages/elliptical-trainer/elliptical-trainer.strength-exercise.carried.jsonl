@@ -1,0 +1,27 @@
+{"equipment":"strength-exercise-implement/machine"}
+{"exerciseCategory":"cardio"}
+{"exerciseExternalId":"Elliptical_Trainer"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Elliptical_Trainer"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"intermediate"}
+{"exerciseSource":"free-exercise-db"}
+{"gripDemand":"none"}
+{"id":"019ebc77-2f15-71a4-ba2b-d4e05aca2d85"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Elliptical_Trainer/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Elliptical_Trainer/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"conditioning"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["quadriceps"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["calves","glutes","hamstrings"]}
+{"sfrScore":3}
+{"skillCost":"low"}
+{"slug":"elliptical-trainer"}
+{"title":"Elliptical Trainer"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

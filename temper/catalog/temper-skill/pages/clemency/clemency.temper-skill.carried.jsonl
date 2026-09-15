@@ -1,0 +1,19 @@
+{"baseName":"Clemency"}
+{"description":"\"When a guard accosts you, you may use Clemency once per day. If used, the Guard will not arrest you or take your money and stolen goods. Additionally, Guards will not attempt to accost you for  1 minute after you use Clemency unless you commit other crimes.\""}
+{"effects":"jsonl"}
+{"esoSkillId":76451}
+{"icon":"/esoui/art/icons/ability_thievesguild_passive_002.dds"}
+{"id":"019e6238-c2a9-7366-9007-3d595e1e9f16"}
+{"isMorph":false}
+{"key":"clemency"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"guild-thieves-guild"}
+{"skillType":"passive"}
+{"slug":"clemency"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-thieves-guild"}
+{"title":"Clemency"}
+{"type":"page-type/temper-skill"}

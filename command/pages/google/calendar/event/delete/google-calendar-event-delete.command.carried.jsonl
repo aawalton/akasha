@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/event","required":true,"saidAs":"flag-or-word"},{"argument":"argument/calendar"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An event named in place and as a flag is refused."},{"decisionKind":"decision-kind/departure","statement":"A call naming no calendar acts on Alan's own."},{"decisionKind":"decision-kind/departure","statement":"This reaches the calendar as the account akasha runs under."}]}
+{"definition":"the command taking one event off its calendar"}
+{"id":"01a08cf5-8fad-7e36-be9f-9248e12362cb"}
+{"name":"delete"}
+{"slug":"google-calendar-event-delete"}
+{"test":"ts"}
+{"type":"page-type/command"}

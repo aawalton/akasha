@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/move-to"}
+{"active":true}
+{"categoryId":"alliance-war"}
+{"description":"Deposits Alliance War items (siege equipment, forward camps, repair kits, etc.) in the bank for safekeeping."}
+{"destination":"bank"}
+{"displayOrder":64}
+{"fromTemplate":"temper-rule-template/alliance-war-bank"}
+{"goal":"temper-rule-goal/hoard"}
+{"id":"01a0728b-10d0-7dba-bd15-daddc405eed9"}
+{"locked":true}
+{"slug":"rule-alliance-war-bank"}
+{"title":"Bank Alliance War items"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-05-04T16:04:31.132Z"}

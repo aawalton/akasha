@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A dynamic import reaches the browser storage-state export."},{"decisionKind":"decision-kind/departure","statement":"A tree holding no playwright boots."},{"decisionKind":"decision-kind/departure","statement":"A supervisor whose browser MCP cannot be seeded boots without offering that MCP."}]}
+{"definition":"the mcp servers an agent is launched with, and the disabled ones cleared away"}
+{"id":"01a0687b-aa8a-7000-b99b-66144cf69680"}
+{"slug":"supervisor-mcp"}
+{"type":"page-type/module"}

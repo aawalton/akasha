@@ -1,0 +1,7 @@
+{"description":"Deals Poison Damage over time and applies Minor Cowardice"}
+{"effects":"jsonl"}
+{"id":"01a05fc6-42c9-7738-b664-0a5ebbb61a72"}
+{"key":"poisoned"}
+{"slug":"poisoned"}
+{"title":"Poisoned"}
+{"type":"page-type/temper-debuff-other"}

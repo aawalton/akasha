@@ -1,0 +1,8 @@
+{"definition":"the text a constant holds"}
+{"id":"01a05fcf-246b-7280-9bef-d656202e06a7"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"value-text"}
+{"slug":"value-text"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

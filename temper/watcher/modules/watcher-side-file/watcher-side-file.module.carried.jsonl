@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The values the file needs are named in one list."},{"decisionKind":"decision-kind/departure","statement":"A build told nothing for a needed value is refused."},{"decisionKind":"decision-kind/departure","statement":"The refusal names every value the build was told nothing for."},{"decisionKind":"decision-kind/departure","statement":"A file already holding the content wanted is left alone."},{"decisionKind":"decision-kind/departure","statement":"A file that will not open counts as holding something else."},{"decisionKind":"decision-kind/departure","statement":"The hash answered is of the content wanted rather than of the content the file has."},{"decisionKind":"decision-kind/departure","statement":"A hash is taken by the module that tells a self-write from a game write."},{"decisionKind":"decision-kind/departure","statement":"A write goes through the atomic write the retry module has."},{"decisionKind":"decision-kind/departure","statement":"A caller may hand in the disk that reads and writes the file."},{"decisionKind":"decision-kind/absence","statement":"Nothing here decides any value."}]}
+{"definition":"the inventory config file put beside the addon only where its content changed"}
+{"id":"01a06381-35cf-7b8f-8505-ad3ea6755991"}
+{"slug":"watcher-side-file"}
+{"test":"ts"}
+{"type":"page-type/module"}

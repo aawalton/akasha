@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A narrow comparison other than `in` and `not-in` is given the first value of that narrow's list."},{"decisionKind":"decision-kind/departure","statement":"A narrow key holding a dot is spelled one segment at a time, and its dots remain."},{"decisionKind":"decision-kind/departure","statement":"The page type a view names reads back as the slug alone."}]}
+{"definition":"the view a page describes, read from the page or from the file it names"}
+{"id":"01a05cce-25ec-7756-a742-f0d31cf07f6e"}
+{"slug":"view-data-of-page"}
+{"test":"ts"}
+{"type":"page-type/module"}

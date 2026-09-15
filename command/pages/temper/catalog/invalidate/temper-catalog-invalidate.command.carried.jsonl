@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/side-file"},{"argument":"argument/all","notWith":["argument/domain"],"oneOf":["argument/domain"]},{"argument":"argument/domain","repeats":true}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A call naming one domain beside `--all` is refused."},{"decisionKind":"decision-kind/departure","statement":"A call naming no domain and saying no `--all` is refused."},{"decisionKind":"decision-kind/departure","statement":"A domain the addon's registry does not have is refused by name."},{"decisionKind":"decision-kind/departure","statement":"The request is a version number the addon weighs against the last version seen."},{"decisionKind":"decision-kind/departure","statement":"The collection happens when the game next reloads."},{"decisionKind":"decision-kind/departure","statement":"A folder this made where the game reads addons is named as soon as it is made."},{"decisionKind":"decision-kind/departure","statement":"A write that threw names that folder in its refusal."},{"decisionKind":"decision-kind/departure","statement":"A call that made no folder says nothing about one."},{"decisionKind":"decision-kind/departure","statement":"The writing of the request is handed in."}]}
+{"definition":"the command telling the catalog addon to collect the named domains again"}
+{"id":"01a0603c-c1cc-7794-96f8-1e11cbb069b9"}
+{"name":"invalidate"}
+{"slug":"temper-catalog-invalidate"}
+{"test":"ts"}
+{"type":"page-type/command"}

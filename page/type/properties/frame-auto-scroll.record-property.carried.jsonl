@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page is carried on its own only as the page opens."}]}
+{"definition":"where a page is carried to on its own rather than by the reader's hand"}
+{"id":"01a0683a-620a-738e-922d-fa0b734ddda1"}
+{"properties":[{"pageProperty":"text-property/load-scroll","required":false,"many":false}]}
+{"propertySlug":"auto-scroll"}
+{"slug":"frame-auto-scroll"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

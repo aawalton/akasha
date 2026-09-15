@@ -1,0 +1,12 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/sell"}
+{"active":true}
+{"categoryId":"motif-chapters"}
+{"conditions":"jsonl"}
+{"description":"Disposal spine step 5. Closes gap A4."}
+{"displayOrder":80}
+{"id":"01a0728a-f56e-7462-a38f-17f4dc5f24ef"}
+{"slug":"rule-8d1e1c96"}
+{"title":"Sell known motif chapters"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-07-05T13:20:38.496Z"}

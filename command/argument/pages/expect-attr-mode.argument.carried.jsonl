@@ -1,0 +1,7 @@
+{"id":"01a094ce-a2be-77bf-a98f-aab451011c09"}
+{"placeholder":"mode"}
+{"said":"--expect-attr-mode"}
+{"slug":"expect-attr-mode"}
+{"takes":"`equals` or `contains-token`, equals where none is said"}
+{"type":"page-type/argument"}
+{"value":"text"}

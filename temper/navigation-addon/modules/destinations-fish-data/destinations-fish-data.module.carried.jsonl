@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is the runs joined in order."}]}
+{"definition":"the fishing achievement rows by zone, joined from its runs"}
+{"id":"01a06269-29b8-742e-b12a-ee2144c30257"}
+{"slug":"destinations-fish-data"}
+{"type":"page-type/module"}

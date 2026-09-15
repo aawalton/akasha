@@ -1,0 +1,17 @@
+{"baseName":"Teleport Strike"}
+{"description":"\"Flash through the shadows and ambush an enemy, dealing 1655 Physical Damage and afflicting them with Minor Vulnerability for 10 seconds, increasing their damage taken by 5%.\\n\\nAlso grants you Empower and Minor Berserk for 10 seconds, increasing the damage of your Heavy Attacks against monsters by 70% and your damage done by 5%.\""}
+{"esoSkillId":35898}
+{"icon":"/esoui/art/icons/ability_nightblade_008_b.dds"}
+{"id":"019e6245-a5e9-7fc0-a031-4b876c37eded"}
+{"isMorph":true}
+{"key":"ambush"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"nightblade-assassination"}
+{"skillType":"active"}
+{"slug":"ambush"}
+{"subcategoryId":"nightblade-assassination"}
+{"title":"Ambush"}
+{"type":"page-type/temper-skill"}

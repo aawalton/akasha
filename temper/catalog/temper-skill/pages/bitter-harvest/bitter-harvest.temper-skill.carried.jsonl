@@ -1,0 +1,17 @@
+{"baseName":"Bitter Harvest"}
+{"description":"\"Sap the lingering life from fresh corpses, granting you |cffffff2|r Ultimate and healing |cffffff830|r Health every |cffffff1|r second for |cffffff2|r seconds per corpse consumed. This ability scales off your Max Health.\\n\\nWhile slotted, your damage taken is reduced by |cffffff3|r%.\""}
+{"esoSkillId":115238}
+{"icon":"/esoui/art/icons/ability_necromancer_011.dds"}
+{"id":"019e6f53-9f15-758c-9ef9-08a590d7e9d2"}
+{"isMorph":false}
+{"key":"bitter-harvest"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":0}
+{"rank":20}
+{"skillLineId":"necromancer-bone-tyrant"}
+{"skillType":"active"}
+{"slug":"bitter-harvest"}
+{"subcategoryId":"necromancer-bone-tyrant"}
+{"title":"Bitter Harvest"}
+{"type":"page-type/temper-skill"}

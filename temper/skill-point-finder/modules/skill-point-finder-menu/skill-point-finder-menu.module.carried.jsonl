@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A setting is held per character rather than per account."}]}
+{"definition":"the skill point window's settings inside the game's own add-on menu"}
+{"id":"01a060ec-5840-75bd-916c-91a32fd40413"}
+{"slug":"skill-point-finder-menu"}
+{"type":"page-type/module"}

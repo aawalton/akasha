@@ -1,0 +1,17 @@
+{"baseName":"Volley"}
+{"description":"\"Launch a multitude of arrows into the sky to rain down, dealing |cffffff1196|r Physical Damage to enemies in the target area every |cffffff1|r second for |cffffff8|r seconds, after a |cffffff2|r second delay.\""}
+{"esoSkillId":28876}
+{"icon":"/esoui/art/icons/ability_bow_003.dds"}
+{"id":"019e6f53-a9d0-7dce-82d9-c21bffbc39e1"}
+{"isMorph":false}
+{"key":"volley"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"weapon-bow"}
+{"skillType":"active"}
+{"slug":"volley"}
+{"subcategoryId":"weapon-bow"}
+{"title":"Volley"}
+{"type":"page-type/temper-skill"}

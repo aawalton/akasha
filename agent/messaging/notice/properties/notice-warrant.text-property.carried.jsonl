@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A notice states which seat that notice goes to rather than leaving that to its sender."},{"decisionKind":"decision-kind/departure","statement":"The cost of editing a notice's words sits on the notice."}]}
+{"definition":"which seat a notice goes to and what editing its words costs"}
+{"id":"01a0686b-cea8-7a45-9b23-fd9c6d3a0417"}
+{"maxLength":600}
+{"nameFormat":null}
+{"propertySlug":"warrant"}
+{"slug":"notice-warrant"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

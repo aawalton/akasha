@@ -1,0 +1,7 @@
+{"category":"monarch-category/utilities"}
+{"id":"01a0655b-fcd1-7007-afd0-00c18223dfa3"}
+{"matches":[{"key":"merchant","comparison":"is","values":["questar gas"]},{"key":"account","comparison":"is","values":["7151"]},{"key":"sign","comparison":"is","values":["negative"]}]}
+{"ruleNote":"Natural gas bill"}
+{"slug":"questar-gas"}
+{"title":"Questar gas"}
+{"type":"page-type/category-rule-code"}

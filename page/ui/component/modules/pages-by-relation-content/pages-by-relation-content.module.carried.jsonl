@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A listing whose filter went unasked says so in place of the pages."}]}
+{"definition":"a page type's pages, filtered and sorted, shown as a listing"}
+{"id":"01a06259-518a-7c74-bd4f-519d9f6c1719"}
+{"slug":"pages-by-relation-content"}
+{"type":"page-type/module"}

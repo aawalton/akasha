@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The feed sends a list of stoplights and only the first is drawn."},{"decisionKind":"decision-kind/departure","statement":"Whether a level past either end of its scale draws its number is read off the reading sent."},{"decisionKind":"decision-kind/departure","statement":"A reading saying nothing of that has the level past either end draw no number."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out whether a level past either end draws its number."},{"decisionKind":"decision-kind/departure","statement":"A level with no tier above that level draws no arc."},{"decisionKind":"decision-kind/departure","statement":"The arc says how far the next tier is."},{"decisionKind":"decision-kind/departure","statement":"The stoplight every ring is handed carries the moment taken and the fall rate."},{"decisionKind":"decision-kind/departure","statement":"A stoplight sent without either is decoded rather than refused."},{"decisionKind":"decision-kind/departure","statement":"A stoplight asked for its figure at a moment subtracts the clock in one place."}]}
+{"definition":"the tile drawing where a safety level stands"}
+{"id":"01a05482-22dd-7359-88a2-113df882eb88"}
+{"slug":"safety-ring"}
+{"swift":"swift"}
+{"type":"page-type/ios-component"}

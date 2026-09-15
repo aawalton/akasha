@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One of the three mount statistics is asked after by naming that statistic."}]}
+{"definition":"whether a character has trained a mount to its limit"}
+{"id":"01a06108-2ff3-7f44-b36b-b96b671954b0"}
+{"slug":"completion-mount-training-completeness"}
+{"test":"ts"}
+{"type":"page-type/module"}

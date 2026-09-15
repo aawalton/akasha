@@ -1,0 +1,7 @@
+{"definition":"how large a gallery draws one card"}
+{"id":"01a0680d-4d00-7011-8d69-5f1a4c7b4112"}
+{"propertySlug":"gallery-card-size"}
+{"slug":"gallery-card-size"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["small","medium","large"]}

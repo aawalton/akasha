@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A readout taking another's color is read against that other's scale."},{"decisionKind":"decision-kind/departure","statement":"The figure stays the reading this readout took."}]}
+{"definition":"the reading whose color this one takes"}
+{"id":"01a063bd-a526-7595-8a5b-3e28242bfe2b"}
+{"propertySlug":"color-from"}
+{"slug":"color-from"}
+{"targetPageType":"page-type/readout"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

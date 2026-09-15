@@ -1,0 +1,8 @@
+{"definition":"whose number a test reads"}
+{"id":"01a06193-6ca3-7704-a255-d95d6a44eeb5"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"target-type"}
+{"slug":"target-type"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

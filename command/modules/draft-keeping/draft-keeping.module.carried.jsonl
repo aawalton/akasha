@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A draft is held to the bodies its writer read as a landing is."},{"decisionKind":"decision-kind/departure","statement":"A draft refused over a body that moved names the paths to read again rather than a drop."},{"decisionKind":"decision-kind/departure","statement":"One rule answers whether a landing and a draft are held to the bodies read."},{"decisionKind":"decision-kind/departure","statement":"A draft answers which paths the change it kept names."},{"decisionKind":"decision-kind/departure","statement":"A draft takes no hold over the worktree."},{"decisionKind":"decision-kind/absence","statement":"A draft writes no body the change carries into the worktree."},{"decisionKind":"decision-kind/absence","statement":"A draft commits nothing."},{"decisionKind":"decision-kind/absence","statement":"No check runs over a draft."},{"decisionKind":"decision-kind/absence","statement":"A draft is weighed against no importers."}]}
+{"definition":"a change kept as an agent's edits rather than written onto the tree"}
+{"id":"01a094e0-4979-7d5e-af22-aa331354d3bf"}
+{"slug":"draft-keeping"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/module"}

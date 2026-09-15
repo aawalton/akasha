@@ -1,0 +1,7 @@
+{"definition":"how many pixels that monitor carries"}
+{"id":"01a0658c-329a-7fdf-a7c9-f5d76820e07c"}
+{"propertySlug":"display-resolution"}
+{"slug":"display-resolution"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["3440x1440","3456x2234","1920x1080","2560x1440","2048-x-1280"]}

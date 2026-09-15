@@ -1,0 +1,12 @@
+{"difficulty":"light"}
+{"id":"019db533-f381-7b83-a8a2-902051bf09df"}
+{"slug":"restock-water"}
+{"title":"Restock water"}
+{"toDoCategory":"health"}
+{"toDoDueDate":"2026-09-15"}
+{"toDoLastCompletedAt":"2026-09-07T01:39:26.483Z"}
+{"toDoPriority":"p3"}
+{"toDoRecurrence":"FREQ=MONTHLY;BYDAY=2MO,4MO"}
+{"toDoSortOrder":32}
+{"toDoValue":"value/health"}
+{"type":"page-type/to-do"}

@@ -1,0 +1,7 @@
+{"definition":"what the reading was taken around"}
+{"id":"01a06558-36e9-73bd-936b-ca5d3357886a"}
+{"propertySlug":"context"}
+{"slug":"context"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["warmup","cooldown","standalone"]}

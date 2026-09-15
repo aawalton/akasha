@@ -1,0 +1,13 @@
+{"abilityId":192937}
+{"companionId":"azandar"}
+{"description":"Your Companion manifests spinning discs of pure knowledge to surround themselves and up to 2 allies, granting a damage shield that absorbs $1 damage for $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_arcanist_tidalshield.dds"}
+{"id":"019e6484-383d-73dd-b1a3-602400be1e6d"}
+{"key":"azandar-shields-of-erudition"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-azandar-revitalizing-researcher"}
+{"skillType":"active"}
+{"slug":"azandar-azandar-shields-of-erudition"}
+{"title":"Shields of Erudition"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer","tank"]}

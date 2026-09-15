@@ -1,0 +1,18 @@
+{"bundleDirectory":true}
+{"compileConfig":"json"}
+{"declarationDirectory":true}
+{"definition":"the routes Jenny's site serves to a browser"}
+{"gitIgnore":"gitignore"}
+{"id":"01a06558-c2cc-700f-95e8-f8ba5ccafe1e"}
+{"parts":["app-routes/smilingjenny-web-routes","manifest/smilingjenny-web-manifests","module/jenny-capacitor-bridge","module/jenny-push-registration-sync","module/jenny-ring-credential","module/jenny-session","module/jenny-shell","stylesheet/smilingjenny-web-look","type-declaration/jenny-capacitor-globals"]}
+{"rootRoute":"tsx"}
+{"routeTable":"ts"}
+{"routeTypesDirectory":true}
+{"routerConfig":"ts"}
+{"server":"ts"}
+{"serverEntry":"tsx"}
+{"slug":"smilingjenny-web"}
+{"toolReached":["react-dom"]}
+{"tunnelRoutes":"ts"}
+{"type":"page-type/router-app"}
+{"viteConfig":"ts"}

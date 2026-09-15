@@ -1,0 +1,7 @@
+{"id":"01a09484-1d01-7e32-aadb-035586cab4b5"}
+{"placeholder":"path"}
+{"said":"--checklist-file"}
+{"slug":"checklist-file"}
+{"takes":"the file that question is read from, or `-` for standard input"}
+{"type":"page-type/argument"}
+{"value":"path"}

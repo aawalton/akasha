@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the error type source the parser refuses is"}
+{"id":"01a081c0-fa43-7ec5-b77d-512453fbfd7a"}
+{"luaExport":"SyntaxError"}
+{"slug":"syntax-error"}
+{"type":"page-type/lualib-helper"}

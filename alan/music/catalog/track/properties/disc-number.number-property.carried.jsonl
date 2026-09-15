@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A release of one disc states that disc as the first."},{"decisionKind":"decision-kind/departure","statement":"A track's place on a release is its disc and its position together."}]}
+{"definition":"which disc of a release a track sits on"}
+{"id":"01a0a5df-ff89-7f60-a3a6-f27b5e02d970"}
+{"max":null}
+{"propertySlug":"disc-number"}
+{"slug":"disc-number"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

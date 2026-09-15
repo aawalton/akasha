@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A companion never met counts as nothing rather than being left out."}]}
+{"definition":"each companion of a player counted for level, rapport, quests and skill lines"}
+{"id":"01a06121-f0d1-7103-ba96-adbf20efcb3e"}
+{"slug":"completion-companion-progress"}
+{"test":"ts"}
+{"type":"page-type/module"}

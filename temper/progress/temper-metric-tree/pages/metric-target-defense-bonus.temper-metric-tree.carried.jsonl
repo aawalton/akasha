@@ -1,0 +1,8 @@
+{"displayOrder":2}
+{"id":"019e2fcd-5aa1-77ad-a4e5-c175bb079cc2"}
+{"nodeId":"target-defense-bonus"}
+{"nodeType":"metric"}
+{"parent":"subcategory-target-toughness"}
+{"slug":"metric-target-defense-bonus"}
+{"title":"Target Defense Bonus"}
+{"type":"page-type/temper-metric-tree"}

@@ -1,0 +1,17 @@
+{"baseName":"Absorb"}
+{"description":"\"Restores |cffffff300|r Magicka whenever you block an attack. This effect can occur once every |cffffff.25|r seconds.\""}
+{"esoSkillId":30869}
+{"icon":"/esoui/art/icons/ability_weapon_010.dds"}
+{"id":"019e6f53-9e80-70a4-a7d0-5c11407177a4"}
+{"isMorph":false}
+{"key":"absorb-30869"}
+{"learnedLevel":1}
+{"lineRankNeeded":28}
+{"morphIndex":0}
+{"rank":28}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"passive"}
+{"slug":"absorb-30869"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Absorb"}
+{"type":"page-type/temper-skill"}

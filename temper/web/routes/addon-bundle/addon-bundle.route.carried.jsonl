@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"definition":"the zip archive with every distributable addon"}
+{"id":"01a072e1-dbd6-7bad-a769-27527ac87d4f"}
+{"slug":"addon-bundle"}
+{"test":"ts"}
+{"type":"page-type/route"}
+{"urlPath":"api/addons/download"}

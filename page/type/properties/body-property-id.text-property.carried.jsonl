@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A key named here that the page type has no property for reads nothing."}]}
+{"definition":"the key of the property a page's body is read from"}
+{"id":"01a0683a-620a-7bd1-9f9f-26882ff5531b"}
+{"maxLength":64}
+{"nameFormat":"name-format/lower-camel-case"}
+{"propertySlug":"body-property-id"}
+{"slug":"body-property-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

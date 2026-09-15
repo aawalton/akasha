@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Expert Hunter"}
+{"description":"\"Invoke your expertise in anatomy and enemy behavior to increase your stealth detection by |cffffff35|r meters for |cffffff10|r seconds.\""}
+{"esoSkillId":246091}
+{"icon":"/esoui/art/icons/ability_fightersguild_002.dds"}
+{"id":"019e6f53-a903-7e93-b70d-4ec646dae0b8"}
+{"isMorph":false}
+{"key":"vengeance-expert-hunter"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-guild-fighters-guild"}
+{"skillType":"active"}
+{"slug":"vengeance-expert-hunter"}
+{"subcategoryId":"vengeance-guild-fighters-guild"}
+{"title":"Vengeance Expert Hunter"}
+{"type":"page-type/temper-skill"}

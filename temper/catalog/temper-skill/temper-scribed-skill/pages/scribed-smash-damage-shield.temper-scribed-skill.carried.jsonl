@@ -1,0 +1,19 @@
+{"baseName":"Smash"}
+{"description":"Grants you and your allies a damage shield that absorbs 3006 damage for 6 seconds. Beneficial Signature and Affix scripts apply to you and your allies."}
+{"esoSkillId":217820}
+{"focusScriptId":"damage-shield"}
+{"grimoireId":"smash"}
+{"icon":"/esoui/art/icons/ability_grimoire_2handed.dds"}
+{"id":"019e6471-15bb-7e37-aadc-caf02c2a60d8"}
+{"isMorph":false}
+{"key":"scribed-smash-damage-shield"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"active"}
+{"slug":"scribed-smash-damage-shield"}
+{"subcategoryId":"scribed"}
+{"title":"Warding Smash"}
+{"type":"page-type/temper-scribed-skill"}

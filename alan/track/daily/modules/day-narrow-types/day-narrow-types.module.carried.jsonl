@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"A type here names no store."},{"decisionKind":"decision-kind/departure","statement":"An ask that cannot answer has the reason rather than throwing."},{"decisionKind":"decision-kind/departure","statement":"A row names its page rather than a file path."},{"decisionKind":"decision-kind/departure","statement":"A count is taken before any limit."}]}
+{"definition":"the narrow types the daily tracking readers share"}
+{"id":"01a06972-b45a-7000-a0e1-63aa928df10a"}
+{"slug":"day-narrow-types"}
+{"type":"page-type/module"}

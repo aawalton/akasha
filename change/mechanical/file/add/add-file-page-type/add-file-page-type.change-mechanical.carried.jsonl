@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-add"}
+{"changeTargetSubtype":"change-target-subtype/file-page-type"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The body is written by the change this change reaches."},{"decisionKind":"decision-kind/absence","statement":"Nothing here judges the path handed in."}]}
+{"definition":"one page type written at one path"}
+{"id":"01a07984-8ef3-719a-972b-cb77ca7dafec"}
+{"slug":"add-file-page-type"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical"}

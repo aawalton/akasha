@@ -1,0 +1,17 @@
+{"baseName":"Strife"}
+{"description":"\"Steal an enemy's life force, dealing 2160 Magic Damage and healing you for 35% of the damage inflicted every 2 seconds for 10 seconds.\""}
+{"esoSkillId":35949}
+{"icon":"/esoui/art/icons/ability_nightblade_012_a.dds"}
+{"id":"019e6245-a74e-72ea-a204-48d76c1b1681"}
+{"isMorph":true}
+{"key":"swallow-soul"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"nightblade-siphoning"}
+{"skillType":"active"}
+{"slug":"swallow-soul"}
+{"subcategoryId":"nightblade-siphoning"}
+{"title":"Swallow Soul"}
+{"type":"page-type/temper-skill"}

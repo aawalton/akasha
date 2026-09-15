@@ -1,0 +1,12 @@
+{"action":"temper-item-action/open"}
+{"active":false}
+{"categoryId":"containers"}
+{"conditions":"jsonl"}
+{"description":"Opens containers automatically. The Can Open filter skips containers on game cooldown or when transmute crystal storage is full. The Can Give Max Rewards filter skips containers during the 20-hour reward cooldown."}
+{"displayOrder":3}
+{"goal":"temper-rule-goal/use"}
+{"id":"019e3104-2608-73dd-9d1c-a7890d444f99"}
+{"key":"containers-open"}
+{"slug":"containers-open"}
+{"title":"Open containers"}
+{"type":"page-type/temper-rule-template"}

@@ -1,0 +1,13 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/move-to"}
+{"active":true}
+{"categoryId":"container-stackable"}
+{"conditions":"jsonl"}
+{"description":"Full 200-stacks route to the Walton Mountain guild bank; the lower-priority Erin rule keeps the partial remainder (first-match-wins)."}
+{"destination":"guild-bank:Walton Mountain"}
+{"displayOrder":7}
+{"id":"01a0728a-d6ff-7440-9ba6-d96a6162ad73"}
+{"slug":"rule-3f8c330f"}
+{"title":"Full container stacks → Walton Mountain"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-06-02T21:31:48.189Z"}

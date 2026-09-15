@@ -1,0 +1,8 @@
+{"definition":"the flavour of damage an effect deals"}
+{"id":"01a05fcd-f549-776e-8c14-650e3911df93"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"damage-type"}
+{"slug":"damage-type"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

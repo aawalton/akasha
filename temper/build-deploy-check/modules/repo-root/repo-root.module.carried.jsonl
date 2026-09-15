@@ -1,0 +1,7 @@
+{"answersACheckoutRoot":true}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A checkout nobody named is refused rather than worked out."},{"decisionKind":"decision-kind/constraint","statement":"A named directory with no lockfile is no checkout of the code repository."},{"decisionKind":"decision-kind/absence","statement":"No root is derived from where this file itself sits."}]}
+{"definition":"the code checkout a run reads, named by the environment"}
+{"id":"01a06287-7841-7b94-a9bc-853c9c556746"}
+{"slug":"repo-root"}
+{"type":"page-type/module"}

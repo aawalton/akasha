@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The world map opener is published from this module rather than from navigation."}]}
+{"definition":"the sets of one type, and the drop mechanic names a set carries in each language"}
+{"id":"01a061fc-ceec-7138-838e-448841d39974"}
+{"slug":"lib-sets-core-set-type-queries"}
+{"type":"page-type/module"}

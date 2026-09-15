@@ -1,0 +1,9 @@
+{"effects":"jsonl"}
+{"icon":"resources/crafting_alchemy_trait_lowerweaponcrit.png"}
+{"id":"019e21f7-0f71-7de9-89e5-1da9106ccb55"}
+{"isPositive":false}
+{"key":"enervation"}
+{"oppositeId":"increase-weapon-crit"}
+{"slug":"enervation"}
+{"title":"Enervation"}
+{"type":"page-type/temper-poison-effect"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A process whose environ will not open answers null rather than refusing."},{"decisionKind":"decision-kind/departure","statement":"The value is split off the environ the way proc-reading splits that environ."},{"decisionKind":"decision-kind/absence","statement":"Nothing here knows an environment variable's meaning."}]}
+{"definition":"one environment variable read off one process by its pid"}
+{"id":"01a0691b-4f63-79be-84d6-4d9546e6c1be"}
+{"slug":"proc-environ"}
+{"type":"page-type/module"}

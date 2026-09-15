@@ -1,0 +1,17 @@
+{"baseName":"Illuminate"}
+{"description":"\"Casting a Dawn's Wrath ability grants Minor Sorcery to you and your group for |cffffff10|r seconds, increasing your Spell Damage by |cffffff10|r%.\""}
+{"esoSkillId":31743}
+{"icon":"/esoui/art/icons/ability_templar_012.dds"}
+{"id":"019e6f53-a34f-76d2-919a-832b3625d234"}
+{"isMorph":false}
+{"key":"illuminate-31743"}
+{"learnedLevel":1}
+{"lineRankNeeded":22}
+{"morphIndex":0}
+{"rank":22}
+{"skillLineId":"templar-dawns-wrath"}
+{"skillType":"passive"}
+{"slug":"illuminate-31743"}
+{"subcategoryId":"templar-dawns-wrath"}
+{"title":"Illuminate"}
+{"type":"page-type/temper-skill"}

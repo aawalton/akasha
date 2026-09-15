@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A food or drink's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A food or drink moved to another place breaks every build hash saved."}]}
+{"definition":"food and drink gathered into the one table a build picks a single row from"}
+{"id":"01a060ea-ac63-7f87-bbe2-20c3ae760481"}
+{"slug":"food-or-drink-source"}
+{"type":"page-type/module"}

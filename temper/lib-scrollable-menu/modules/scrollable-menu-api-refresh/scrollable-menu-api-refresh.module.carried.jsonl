@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A numeric constant says which menus a refresh redraws."},{"decisionKind":"decision-kind/departure","statement":"The default right-click menu for a button group is defined here."},{"decisionKind":"decision-kind/constraint","statement":"A refresh does nothing while the owning dropdown is hidden."},{"decisionKind":"decision-kind/departure","statement":"The button-group menu is drawn with ZO_Menu when a context menu is already open."}]}
+{"definition":"the globals that refresh a live menu and report whether one is shown"}
+{"id":"01a06275-c443-7905-af8d-6d33bbb2d716"}
+{"slug":"scrollable-menu-api-refresh"}
+{"type":"page-type/module"}

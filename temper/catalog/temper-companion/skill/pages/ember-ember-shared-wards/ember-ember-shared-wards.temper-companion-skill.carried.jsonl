@@ -1,0 +1,13 @@
+{"abilityId":166069}
+{"companionId":"ember"}
+{"description":"Your Companion conjures wards made of energy for protection, granting a damage shield for them and their nearby allies that absorbs $1 damage for $$1 seconds. Targets affected by the shield are also healed for $2 Health over $$2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_sorcerer_hurricane.dds"}
+{"id":"019e6484-3863-79ea-ba1a-bcd91761da8a"}
+{"key":"ember-shared-wards"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-ember-playful-schemer"}
+{"skillType":"active"}
+{"slug":"ember-ember-shared-wards"}
+{"title":"Shared Wards"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer"]}

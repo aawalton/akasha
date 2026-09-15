@@ -1,0 +1,14 @@
+{"about":"myself"}
+{"icon":"file-text"}
+{"id":"019ea810-a37e-7a29-b31e-004f0245a7bd"}
+{"identityStatementLevel":0.6}
+{"identityStatementRank":"a-rank"}
+{"identityStatementStatus":"in-progress"}
+{"identityStatementTags":["eat"]}
+{"identityStatementValue":"value/health"}
+{"notionId":"2d95cf0bf24a805094dcef901861bae1"}
+{"replacesStatements":["identity-statement/i-eat-whatever-is-easiest"]}
+{"slug":"i-am-whole-food-plant-based"}
+{"subStatements":["identity-statement/i-like-plants","identity-statement/i-dont-like-sugar","identity-statement/i-dont-like-processed-foods","identity-statement/i-dont-like-meat","identity-statement/i-dont-mind-dairy"]}
+{"title":"I am whole food plant-based"}
+{"type":"page-type/identity-statement"}

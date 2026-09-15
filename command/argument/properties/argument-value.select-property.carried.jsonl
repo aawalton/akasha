@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An argument carrying no value is said and nothing follows it."},{"decisionKind":"decision-kind/departure","statement":"A path is read against the repository root and whether it must land inside belongs to the command."},{"decisionKind":"decision-kind/absence","statement":"No value here is a body piped in."}]}
+{"definition":"what an argument carries after the way that argument is spelled"}
+{"id":"01a093fd-34bc-7502-9460-0a9278a3c9c8"}
+{"propertySlug":"value"}
+{"slug":"argument-value"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["none","text","whole-number","true-or-false","path"]}

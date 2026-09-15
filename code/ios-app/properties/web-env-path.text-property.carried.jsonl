@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The path is read against the repository root."},{"decisionKind":"decision-kind/departure","statement":"A worktree missing the file is given a copy of the file at the same path."},{"decisionKind":"decision-kind/departure","statement":"An app whose site needs no env file states no path here."}]}
+{"definition":"where the env file a site is built against lives in the repository"}
+{"id":"01a05f87-1b06-7e23-8e4c-c86b56b73813"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"web-env-path"}
+{"slug":"web-env-path"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

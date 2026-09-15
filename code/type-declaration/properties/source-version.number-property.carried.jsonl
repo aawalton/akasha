@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The version is read from the source rather than chosen by the person running the command."},{"decisionKind":"decision-kind/departure","statement":"Two generated declarations stating different versions are a partial run."}]}
+{"definition":"the version the source was at when a generated declaration was written"}
+{"id":"01a08234-f12b-7ac2-bfbb-0dd5515b7b36"}
+{"max":null}
+{"propertySlug":"source-version"}
+{"slug":"source-version"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

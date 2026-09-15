@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to  a companion."}]}
+{"definition":"the companion a page is about"}
+{"id":"01a05fba-ce39-74ad-926f-d6a5d9908dfc"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"companion-id"}
+{"slug":"companion-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

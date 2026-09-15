@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-checked"}
+{"changeMode":"change-mode/change-mode-remove"}
+{"changeTargetSubtype":"change-target-subtype/folder"}
+{"changeTargetType":"change-target-type/folder"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The removal is left to the mechanical change taking a folder away."},{"decisionKind":"decision-kind/departure","statement":"That change is reached through the runner rather than by an import."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."}]}
+{"definition":"one folder and every file under it taken away"}
+{"id":"01a08281-d6e6-78ee-a0cc-ad533d8405ae"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":3072}
+{"slug":"remove-folder"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

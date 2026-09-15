@@ -1,0 +1,8 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/code-root"},{"argument":"argument/addons-dir"},{"argument":"argument/outdated"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The installed version is read from the folder on this disk."},{"decisionKind":"decision-kind/departure","statement":"The newest version is read from the community site."},{"decisionKind":"decision-kind/departure","statement":"A network that will not answer refuses the call."},{"decisionKind":"decision-kind/departure","statement":"A folder the deploy pipeline owns is left out."}]}
+{"definition":"the command naming each installed third-party game addon beside its newest published version"}
+{"id":"01a0603c-c1cd-7bf8-b51c-c43b2e4bb128"}
+{"name":"addon-list"}
+{"slug":"temper-community-addon-list"}
+{"type":"page-type/command"}

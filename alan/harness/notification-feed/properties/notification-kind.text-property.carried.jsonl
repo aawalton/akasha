@@ -1,0 +1,8 @@
+{"definition":"what sort of thing a notification tells a person"}
+{"id":"01a06861-e7cd-7e83-8908-2e79da801f95"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"kind"}
+{"slug":"notification-kind"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

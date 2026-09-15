@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the icon drawn for a nav entry"}
+{"id":"01a0828b-efa1-7238-9b14-ce8f2fd1bd81"}
+{"slug":"archive-of-worlds-api-nav-icon"}
+{"type":"page-type/route"}
+{"urlPath":"api/nav-icon/:idSuffix"}

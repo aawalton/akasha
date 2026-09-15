@@ -1,0 +1,17 @@
+{"baseName":"Rite of Passage"}
+{"description":"\"Channel the grace of the gods, healing you and nearby allies for 2788 Health every 1 second for 8 seconds.\\n\\nWhile channeling this ability, you gain immunity to all disabling effects.\""}
+{"esoSkillId":27427}
+{"icon":"/esoui/art/icons/ability_templar_practiced_incantation.dds"}
+{"id":"019e6245-a6ed-7aaa-a4e1-779d6c204390"}
+{"isMorph":true}
+{"key":"practiced-incantation"}
+{"learnedLevel":12}
+{"lineRankNeeded":12}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"templar-restoring-light"}
+{"skillType":"ultimate"}
+{"slug":"practiced-incantation"}
+{"subcategoryId":"templar-restoring-light"}
+{"title":"Practiced Incantation"}
+{"type":"page-type/temper-skill"}

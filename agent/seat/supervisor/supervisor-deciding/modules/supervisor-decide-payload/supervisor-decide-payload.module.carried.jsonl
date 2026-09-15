@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A field of the wrong type names its own path in the fault."},{"decisionKind":"decision-kind/absence","statement":"Nothing here decides anything."}]}
+{"definition":"the questions the deciding command is asked, read out of untyped JSON"}
+{"id":"01a0683e-3dbe-7017-8a20-75a3afbbc779"}
+{"slug":"supervisor-decide-payload"}
+{"type":"page-type/module"}

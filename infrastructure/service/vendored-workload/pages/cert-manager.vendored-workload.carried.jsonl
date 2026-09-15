@@ -1,0 +1,8 @@
+{"definition":"what issues and renews the TLS certificates the cluster serves"}
+{"id":"01a068e5-527c-7785-80d9-e385e21d4690"}
+{"namespace":"cert-manager"}
+{"resourceKind":"Deployment"}
+{"resourceName":"cert-manager"}
+{"slug":"cert-manager"}
+{"title":"Cert manager"}
+{"type":"page-type/vendored-workload"}

@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Bone Totem"}
+{"description":"\"Summon an effigy of bone at your feet after |cffffff2|r seconds. Once completed, the totem fears up to 3 nearby enemies, causing them to cower in place for |cffffff4|r seconds and become afflicted with Major Maim for |cffffff10|r seconds, reducing their damage done by |cffffff10|r%.\""}
+{"esoSkillId":238178}
+{"icon":"/esoui/art/icons/ability_necromancer_010.dds"}
+{"id":"019e6f53-a8ca-79ca-9b73-04cf482046d0"}
+{"isMorph":false}
+{"key":"vengeance-bone-totem"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-necromancer-bone-tyrant"}
+{"skillType":"active"}
+{"slug":"vengeance-bone-totem"}
+{"subcategoryId":"vengeance-necromancer-bone-tyrant"}
+{"title":"Vengeance Bone Totem"}
+{"type":"page-type/temper-skill"}

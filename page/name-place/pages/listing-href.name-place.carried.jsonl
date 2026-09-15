@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An address is built of the page type's slug."},{"decisionKind":"decision-kind/departure","statement":"The slug is named on the page type."},{"decisionKind":"decision-kind/departure","statement":"A listing closes with a slash."},{"decisionKind":"decision-kind/departure","statement":"The slash parts the listing from the page of the same name."}]}
+{"definition":"the address the pages of one type are reached by from outside"}
+{"id":"01a04fd4-3d76-728a-afd7-6ab3cfaa8e57"}
+{"nameFormat":null}
+{"slug":"listing-href"}
+{"type":"page-type/name-place"}

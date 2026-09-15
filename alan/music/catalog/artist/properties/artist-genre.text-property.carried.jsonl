@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A genre is the provider's rather than Alan's."}]}
+{"definition":"a genre the provider files an artist under"}
+{"id":"01a06243-144b-7010-af12-3f9a28709cb9"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"genre"}
+{"slug":"artist-genre"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

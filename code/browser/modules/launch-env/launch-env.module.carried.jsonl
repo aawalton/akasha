@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here starts a browser."},{"decisionKind":"decision-kind/departure","statement":"A name outside the allowlist is dropped rather than passed on."}]}
+{"definition":"the environment variables a browser process is started with"}
+{"id":"01a05c48-deeb-7004-ae00-696bc1c422ae"}
+{"slug":"launch-env"}
+{"type":"page-type/module"}

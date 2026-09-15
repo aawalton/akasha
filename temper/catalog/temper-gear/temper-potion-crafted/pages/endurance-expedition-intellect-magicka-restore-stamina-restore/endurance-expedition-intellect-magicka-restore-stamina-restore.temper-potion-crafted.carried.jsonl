@@ -1,0 +1,11 @@
+{"description":"Grants Restore Stamina, Speed, Restore Magicka."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_002_type_005.dds"}
+{"id":"019e21f6-4050-738b-be1b-08034b8d4d7a"}
+{"key":"endurance-expedition-intellect-magicka-restore-stamina-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Blessed Thistle","Columbine","Dragon Rheum"]}]}
+{"seconds":47}
+{"slug":"endurance-expedition-intellect-magicka-restore-stamina-restore"}
+{"title":"Essence of Magicka"}
+{"type":"page-type/temper-potion-crafted"}

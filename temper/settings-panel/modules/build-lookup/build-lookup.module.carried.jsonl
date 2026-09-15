@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A choice repeated keeps the last place that choice sits at."},{"decisionKind":"decision-kind/departure","statement":"A place counts up from the head of the list."}]}
+{"definition":"the place each choice sits in a list of choices, keyed by the choice"}
+{"id":"01a06053-3636-7bdb-8f78-5302cab5662b"}
+{"slug":"build-lookup"}
+{"type":"page-type/module"}

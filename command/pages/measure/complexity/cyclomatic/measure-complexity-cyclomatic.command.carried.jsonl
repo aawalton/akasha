@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/file-path"},{"argument":"argument/top"},{"argument":"argument/threshold"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A function's cyclomatic complexity is one more than its decision points."},{"decisionKind":"decision-kind/departure","statement":"A decision point is an if, a case, a loop, a catch, a ternary, `&&`, `||`, `??` or `?.`."},{"decisionKind":"decision-kind/departure","statement":"Neither an else nor a finally is a decision point."},{"decisionKind":"decision-kind/departure","statement":"A row is one function, and the rows are ordered by complexity, highest first."},{"decisionKind":"decision-kind/absence","statement":"Nothing here refuses a body for being complex."},{"decisionKind":"decision-kind/departure","statement":"A cutoff keeps the rows at or over it."}]}
+{"definition":"the command saying the McCabe complexity of each function of a checkout's TypeScript"}
+{"id":"01a08ccd-4d69-70c6-a642-6a6ac9529d4a"}
+{"name":"cyclomatic"}
+{"slug":"measure-complexity-cyclomatic"}
+{"test":"ts"}
+{"type":"page-type/command"}

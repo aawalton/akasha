@@ -1,0 +1,9 @@
+{"definition":"a character handing out the pledges of a day"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fc4-7a94-7f79-9230-59fb6df46445"}
+{"parts":["number-property/cycle-length","text-property/epoch"]}
+{"properties":[{"pageProperty":"number-property/cycle-length","required":true,"many":false},{"pageProperty":"text-property/epoch","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-quest-giver"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

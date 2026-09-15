@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page carrying such a group has code under that group's slug drawing for a browser."},{"decisionKind":"decision-kind/departure","statement":"A group of this page type states no members of its own."},{"decisionKind":"decision-kind/departure","statement":"A page carrying the group states nothing about that file at all."},{"decisionKind":"decision-kind/departure","statement":"A component group's code file exports a component named `Drawing`."}]}
+{"definition":"a file property group held in a component's code"}
+{"extends":["page-type/file-property-group"]}
+{"id":"01a09c84-34f2-7b18-839c-48ef7ff084e7"}
+{"properties":[{"pageProperty":"code-file-property/code","required":true,"many":false,"fixed":"tsx"}]}
+{"schema":"jsonl"}
+{"shapes":"jsonl"}
+{"slug":"component-property-group"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

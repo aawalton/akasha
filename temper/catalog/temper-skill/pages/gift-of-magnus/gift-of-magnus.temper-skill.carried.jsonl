@@ -1,0 +1,19 @@
+{"baseName":"Gift of Magnus"}
+{"description":"\"Increases your Max Magicka by 2000.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45260}
+{"icon":"/esoui/art/icons/ability_armor_004.dds"}
+{"id":"019e624a-12ca-732b-bda2-e3a5e7e6bf79"}
+{"isMorph":false}
+{"key":"gift-of-magnus"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"racial-breton-skills"}
+{"skillType":"passive"}
+{"slug":"gift-of-magnus"}
+{"status":"supported"}
+{"subcategoryId":"racial-breton-skills"}
+{"title":"Gift of Magnus"}
+{"type":"page-type/temper-skill"}

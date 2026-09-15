@@ -1,0 +1,5 @@
+{"definition":"the cluster tended by hand from the workstation"}
+{"id":"01a06865-abff-7010-adce-58aea93b2f89"}
+{"parts":["shell-script/bootstrap-namespace","shell-script/ci-apply-manifests","shell-script/create-tunnel","shell-script/deploy-dns-functions","shell-script/deploy-functions","shell-script/mirror-base-images","shell-script/promote","shell-script/registry-gc","shell-script/rotate-age-key","shell-script/rotate-cf-token","shell-script/rotate-ssh-key"]}
+{"slug":"cluster-operation"}
+{"type":"page-type/domain"}

@@ -1,0 +1,8 @@
+{"definition":"a harmful effect the game names Major"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fc5-94cf-7021-9a7d-21e4794bdc95"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"text-property/description","required":true,"many":false},{"pageProperty":"page-property-entry/effects","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-debuff-major"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

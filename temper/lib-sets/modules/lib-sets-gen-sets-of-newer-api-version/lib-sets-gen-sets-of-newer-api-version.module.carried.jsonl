@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This table is ported from the upstream library at a pinned commit."}]}
+{"definition":"the set ids that exist only on a newer game API version"}
+{"id":"01a061fc-cee6-7d32-b8da-97ba90d2da12"}
+{"slug":"lib-sets-gen-sets-of-newer-api-version"}
+{"type":"page-type/module"}

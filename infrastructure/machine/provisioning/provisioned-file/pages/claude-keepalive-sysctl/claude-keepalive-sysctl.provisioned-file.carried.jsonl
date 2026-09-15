@@ -1,0 +1,9 @@
+{"content":"conf"}
+{"definition":"how long an idle connection is held before the kernel probes it"}
+{"id":"01a06862-af5d-70fb-bc36-ac464bb00297"}
+{"installPath":"/etc/sysctl.d/99-claude-keepalive.conf"}
+{"onlyOn":"linux"}
+{"placedBy":"link"}
+{"reloadWith":"sudo sysctl --system"}
+{"slug":"claude-keepalive-sysctl"}
+{"type":"page-type/provisioned-file"}

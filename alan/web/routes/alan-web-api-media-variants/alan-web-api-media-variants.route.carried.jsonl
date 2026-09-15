@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the variants one page's media can be played as"}
+{"id":"01a0829c-972b-7a92-93d4-6cbe319c0a5b"}
+{"slug":"alan-web-api-media-variants"}
+{"type":"page-type/route"}
+{"urlPath":"api/media/:pageId/variants"}

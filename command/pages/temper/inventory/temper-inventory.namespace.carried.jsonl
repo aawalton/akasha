@@ -1,0 +1,6 @@
+{"definition":"what a character has, and where each thing carried belongs"}
+{"id":"01a07c18-25b3-7c50-9fbe-24e618f94df7"}
+{"name":"inventory"}
+{"parts":["command/temper-inventory-capacity-audit","command/temper-inventory-category-list","command/temper-inventory-configuration","command/temper-inventory-decode-link","command/temper-inventory-env-parity","command/temper-inventory-explain","command/temper-inventory-knowledge","command/temper-inventory-lookup-item","command/temper-inventory-outcome-parity","command/temper-inventory-parity","command/temper-inventory-plan","command/temper-inventory-record-parity","command/temper-inventory-replay-explain","command/temper-inventory-snapshot","command/temper-inventory-venue-trace","namespace/temper-inventory-automation","namespace/temper-inventory-bank","namespace/temper-inventory-buy-rule","namespace/temper-inventory-item-rule","namespace/temper-inventory-master","namespace/temper-inventory-rule"]}
+{"slug":"temper-inventory"}
+{"type":"page-type/namespace"}

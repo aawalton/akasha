@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A property no page type above it draws takes the row beside page-property."}]}
+{"definition":"the row one property is shown as, its label with its value, drawn by the page type declaring it"}
+{"id":"01a0a0d2-ad9f-7cf3-a201-b2c2690423c7"}
+{"slug":"property-row"}
+{"type":"page-type/module"}

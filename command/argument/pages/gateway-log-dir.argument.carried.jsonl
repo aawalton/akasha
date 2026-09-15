@@ -1,0 +1,7 @@
+{"id":"01a094fc-bd55-748a-baaf-dfeaad5bae3d"}
+{"placeholder":"dir"}
+{"said":"--log-dir"}
+{"slug":"gateway-log-dir"}
+{"takes":"where the gateway console and the errors under it are written"}
+{"type":"page-type/argument"}
+{"value":"path"}

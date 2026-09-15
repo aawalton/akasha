@@ -1,0 +1,17 @@
+{"baseName":"Sleet Storm"}
+{"description":"\"Twist a violent storm around you, dealing |cffffff551|r Frost Damage every |cffffff1|r second for |cffffff13|r seconds to enemies around you and reducing their Movement Speed by |cffffff70|r% and applying the Chilled status effect.\\n\\nYou and nearby allies gain Major Protection, reducing your damage taken by |cffffff10|r%.\""}
+{"esoSkillId":86117}
+{"icon":"/esoui/art/icons/ability_warden_006_b.dds"}
+{"id":"019e6f53-a4ed-774d-b215-31c9167e6e71"}
+{"isMorph":true}
+{"key":"permafrost-86117"}
+{"learnedLevel":12}
+{"lineRankNeeded":12}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"warden-winters-embrace"}
+{"skillType":"ultimate"}
+{"slug":"permafrost-86117"}
+{"subcategoryId":"warden-winters-embrace"}
+{"title":"Permafrost"}
+{"type":"page-type/temper-skill"}

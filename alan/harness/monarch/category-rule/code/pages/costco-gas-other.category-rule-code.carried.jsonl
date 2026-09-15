@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcd0-7005-9de7-63c3f6746f91"}
+{"matches":[{"key":"merchant","comparison":"is","values":["costco gas"]},{"key":"sign","comparison":"is-not","values":["negative"]}]}
+{"slug":"costco-gas-other"}
+{"title":"Costco gas other"}
+{"type":"page-type/category-rule-code"}

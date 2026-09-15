@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A term states every spelling a reader meets it under."},{"decisionKind":"decision-kind/departure","statement":"The plainest spelling is stated once."},{"decisionKind":"decision-kind/departure","statement":"No variant repeats the plainest spelling."},{"decisionKind":"decision-kind/departure","statement":"A spelling no variant states is a spelling nothing finds."}]}
+{"definition":"another spelling of a term, differing from the plainest only by grammar"}
+{"id":"01a08249-f82c-7f1b-8203-9dcefa386e51"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"variants"}
+{"slug":"variants"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

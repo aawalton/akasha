@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A piece of mail is caught where the mail passes every clause."},{"decisionKind":"decision-kind/departure","statement":"A rule with no clause catches nothing."},{"decisionKind":"decision-kind/departure","statement":"Two clauses on one field are two entries."}]}
+{"definition":"which mail a rule applies to, each clause with the field tested and how"}
+{"id":"01a06860-549f-7699-a464-5922a5455508"}
+{"properties":[{"pageProperty":"select-property/email-rule-match-field","required":true,"many":false},{"pageProperty":"select-property/email-rule-match-comparison","required":true,"many":false},{"pageProperty":"text-property/email-rule-match-values","required":true,"many":true,"maxCount":50}]}
+{"propertySlug":"matches"}
+{"slug":"email-rule-matches"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A console client without keyboard UI support is given no settings menu entry."},{"decisionKind":"decision-kind/departure","statement":"The window and its scene fragment are created on first request rather than at load."},{"decisionKind":"decision-kind/departure","statement":"A panel registered before addon loading completes is reported to chat."},{"decisionKind":"decision-kind/departure","statement":"The addon list is sorted by name once on the first opening of the panel."}]}
+{"definition":"the top-level Addons window and its entry in the game's settings menu"}
+{"id":"01a06100-0000-7000-8000-000000000008"}
+{"slug":"addon-menu-settings-window"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"definition":"a file carried by a message"}
+{"id":"01a07bbf-258e-75b2-82ad-d3ff78cae0ca"}
+{"name":"attachment"}
+{"parts":["command/email-attachment-list","command/email-attachment-show"]}
+{"slug":"email-attachment"}
+{"type":"page-type/namespace"}

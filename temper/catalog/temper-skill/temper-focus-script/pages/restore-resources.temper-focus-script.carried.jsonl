@@ -1,0 +1,9 @@
+{"icon":"/esoui/art/icons/scribing_primary_resourcerestore.dds"}
+{"id":"01a05fce-2954-7a3f-b5c4-f69c5f0b9b81"}
+{"itemId":204567}
+{"key":"restore-resources"}
+{"slotType":"focus-slot"}
+{"slug":"restore-resources"}
+{"title":"Restore Resources"}
+{"type":"page-type/temper-focus-script"}
+{"uespId":19}

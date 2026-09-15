@@ -1,0 +1,12 @@
+{"accountActive":true}
+{"accountDisplayName":"Cash"}
+{"accountHidden":false}
+{"accountType":"depository"}
+{"asset":true}
+{"currentBalance":12388.43}
+{"definition":"money the family has, sitting in a cash management account"}
+{"id":"01a06559-5ea8-7006-88e6-bf2d34dea7e9"}
+{"monarchId":"151732808422660966"}
+{"slug":"cash"}
+{"title":"Cash"}
+{"type":"page-type/monarch-account"}

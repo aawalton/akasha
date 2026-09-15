@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name inside a function belongs to one call rather than to the file."},{"decisionKind":"decision-kind/departure","statement":"A parameter the body does not read opens with an underscore."}]}
+{"definition":"the name a value carries inside the function working it out"}
+{"id":"01a04fc9-2ad9-76c1-9144-cbcca3d44196"}
+{"nameFormat":"name-format/lower-camel-case"}
+{"slug":"derived-identifier"}
+{"type":"page-type/name-place"}

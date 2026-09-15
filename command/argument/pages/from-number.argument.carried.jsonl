@@ -1,0 +1,7 @@
+{"id":"01a094ec-efaf-7edc-a626-5120e802c93b"}
+{"placeholder":"e164"}
+{"said":"--from"}
+{"slug":"from-number"}
+{"takes":"the number to send from, written in E.164"}
+{"type":"page-type/argument"}
+{"value":"text"}

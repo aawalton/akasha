@@ -1,0 +1,17 @@
+{"baseName":"Necrotic Orb"}
+{"description":"\"Project a globe of annihilation that slowly floats forward for |cffffff10|r seconds, dealing |cffffff1100|r Magic Damage every |cffffff1|r second to nearby enemies. \\n\\nAn ally near the globe can activate the Combustion synergy, causing the orb to explode for |cffffff8261|r Magic Damage to nearby enemies and restore |cffffff3960|r Magicka or Stamina to the ally, whichever maximum is higher.\""}
+{"esoSkillId":39298}
+{"icon":"/esoui/art/icons/ability_undaunted_004.dds"}
+{"id":"019e6f53-a4b9-7198-9078-d6373119fbb2"}
+{"isMorph":false}
+{"key":"necrotic-orb"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":5}
+{"skillLineId":"guild-undaunted"}
+{"skillType":"active"}
+{"slug":"necrotic-orb"}
+{"subcategoryId":"guild-undaunted"}
+{"title":"Necrotic Orb"}
+{"type":"page-type/temper-skill"}

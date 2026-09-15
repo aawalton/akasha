@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The folders a run reads and writes are made before anything is built."},{"decisionKind":"decision-kind/departure","statement":"The image is built only where podman holds no image under that name."},{"decisionKind":"decision-kind/departure","statement":"The recipe is named under the package folder the script found."},{"decisionKind":"decision-kind/absence","statement":"Nothing here asks the index where a recipe sits."},{"decisionKind":"decision-kind/absence","statement":"Nothing here names one generation."}]}
+{"definition":"what a ComfyUI script runs before its container starts"}
+{"id":"01a0912a-249b-72ea-9e95-a346ca6e5c10"}
+{"slug":"comfy-up-building"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/module"}

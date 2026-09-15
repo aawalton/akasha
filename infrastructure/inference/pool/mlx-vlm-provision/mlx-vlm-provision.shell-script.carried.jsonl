@@ -1,0 +1,6 @@
+{"definition":"the conda environment the vision-language service runs in"}
+{"id":"01a06815-9efd-7010-b17f-2205819c5b61"}
+{"shell":"sh"}
+{"slug":"mlx-vlm-provision"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

@@ -1,0 +1,8 @@
+{"displayOrder":3}
+{"id":"019e2fcd-59d4-765c-9a94-f796bb4af337"}
+{"nodeId":"disease-damage"}
+{"nodeType":"metric"}
+{"parent":"subcategory-status-damage"}
+{"slug":"metric-disease-damage"}
+{"title":"Disease Damage"}
+{"type":"page-type/temper-metric-tree"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A move landed where the stack left behind is no more than what the move was to leave."}]}
+{"definition":"whether a paced bank move landed, judged by the stack left behind"}
+{"id":"01a06258-b530-714c-9441-2a4a09f6f3b7"}
+{"slug":"inventory-rules-dispatch-bank-paced-confirm"}
+{"type":"page-type/module"}

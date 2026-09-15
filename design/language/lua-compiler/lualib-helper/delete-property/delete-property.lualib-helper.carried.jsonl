@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"a property taken off a target, refused where the descriptor is not configurable"}
+{"id":"01a08c43-7bf9-72e5-8169-d37d3c935c44"}
+{"luaExport":"__TS__Delete"}
+{"slug":"delete-property"}
+{"type":"page-type/lualib-helper"}

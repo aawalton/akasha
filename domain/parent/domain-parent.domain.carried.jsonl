@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A domain needed only to read this domain is required reading rather than its parent."},{"decisionKind":"decision-kind/departure","statement":"A layer a domain is built on is not a parent of that domain."},{"decisionKind":"decision-kind/departure","statement":"A page type extending `domain` is not a reason for `domain` to be a parent."},{"decisionKind":"decision-kind/departure","statement":"A page of page type `domain` sits directly in the folder of the page naming it a part."},{"decisionKind":"decision-kind/departure","statement":"Every domain but `akasha` is named a part by one page, and `akasha` by none."}]}
+{"definition":"the one domain a domain sits inside"}
+{"id":"01a0675b-16df-7224-bb73-2d7ff8395955"}
+{"slug":"domain-parent"}
+{"type":"page-type/domain"}

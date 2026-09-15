@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A tick is a single poll and a single write."},{"decisionKind":"decision-kind/departure","statement":"The day polled and the day written are a single ESO day settled once."},{"decisionKind":"decision-kind/departure","statement":"Every inbox that answered nothing is named among the failures the run reports."},{"decisionKind":"decision-kind/departure","statement":"A run in which a source failed still ends well."},{"decisionKind":"decision-kind/absence","statement":"Nothing here waits or loops."}]}
+{"definition":"one poll of every inbox and one write of what it found, and then the run is over"}
+{"id":"01a069b6-bb6b-78fc-af80-801cc2257f72"}
+{"slug":"inbox-count-tick"}
+{"type":"page-type/module"}

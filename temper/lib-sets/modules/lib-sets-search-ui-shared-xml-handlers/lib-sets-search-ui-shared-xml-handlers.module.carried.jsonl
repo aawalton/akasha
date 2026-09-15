@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Each published name is fixed."},{"decisionKind":"decision-kind/constraint","statement":"Each handler picks the gamepad window or the keyboard window by the current mode."}]}
+{"definition":"the mouse and tooltip handlers the search window's markup calls"}
+{"id":"01a0623e-53a0-7102-9ecb-77c73ed004d4"}
+{"slug":"lib-sets-search-ui-shared-xml-handlers"}
+{"type":"page-type/module"}

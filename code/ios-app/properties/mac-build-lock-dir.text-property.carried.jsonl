@@ -1,0 +1,8 @@
+{"definition":"where an app's builds take their lock on the mac"}
+{"id":"01a06289-79d3-72fb-b3b3-690920b50d97"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"mac-build-lock-dir"}
+{"slug":"mac-build-lock-dir"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

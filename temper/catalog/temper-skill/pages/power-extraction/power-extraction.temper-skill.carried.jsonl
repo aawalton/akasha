@@ -1,0 +1,17 @@
+{"baseName":"Drain Power"}
+{"description":"\"Siphon the vigor from your enemies' blood, dealing 1742 Disease Damage to all nearby enemies.\\n\\nIf an enemy is hit you gain Major Brutality and Sorcery, and Minor Courage increasing your Weapon and Spell Damage by 20% and 215 for 30 seconds. Enemies hit have Minor Cowardice applied to them for 10 seconds, reducing their Weapon and Spell Damage by 215.\""}
+{"esoSkillId":37937}
+{"icon":"/esoui/art/icons/ability_nightblade_013_b.dds"}
+{"id":"019e6245-a6e8-74e6-a848-8378274bb86b"}
+{"isMorph":true}
+{"key":"power-extraction"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"nightblade-siphoning"}
+{"skillType":"active"}
+{"slug":"power-extraction"}
+{"subcategoryId":"nightblade-siphoning"}
+{"title":"Power Extraction"}
+{"type":"page-type/temper-skill"}

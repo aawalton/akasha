@@ -1,0 +1,12 @@
+{"difficulty":"light"}
+{"id":"019db533-f381-7768-a917-b4edeb2c059a"}
+{"slug":"take-trash-to-street"}
+{"title":"Take trash to street"}
+{"toDoCategory":"health"}
+{"toDoDueDate":"2026-09-15"}
+{"toDoLastCompletedAt":"2026-09-10T13:00:34.405Z"}
+{"toDoPriority":"p3"}
+{"toDoRecurrence":"FREQ=WEEKLY;BYDAY=TU"}
+{"toDoSortOrder":36}
+{"toDoValue":"value/health"}
+{"type":"page-type/to-do"}

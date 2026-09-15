@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/sell"}
+{"active":true}
+{"categoryId":"companion"}
+{"conditions":"jsonl"}
+{"description":"Sells companion equipment of superior (blue) quality or lower. Higher-quality companion gear is preserved."}
+{"displayOrder":67}
+{"fromTemplate":"temper-rule-template/companion-green-sell"}
+{"goal":"temper-rule-goal/sell"}
+{"id":"01a0728b-10d1-72a5-b4a8-e21e1d27654a"}
+{"locked":true}
+{"slug":"rule-companion-green-sell"}
+{"title":"Sell low-quality companion gear"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-05-04T16:04:31.132Z"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The crafted filter reads the crafted flag through the rule-editor flags checker."},{"decisionKind":"decision-kind/absence","statement":"Nothing here narrows the server request."}]}
+{"definition":"whether an item was crafted by a player, narrowed by an include or exclude toggle"}
+{"id":"01a0613a-e0a6-7788-9b2c-3aeaec9aea07"}
+{"slug":"search-crafted-filter"}
+{"type":"page-type/module"}

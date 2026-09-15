@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Nature's Grasp"}
+{"description":"\"Launch a vine to swing yourself to an ally, healing them for |cffffff13388|r Health.\""}
+{"esoSkillId":238071}
+{"icon":"/esoui/art/icons/ability_warden_011.dds"}
+{"id":"019e6f53-a943-70c7-a90a-e895ad1f133c"}
+{"isMorph":false}
+{"key":"vengeance-nature-s-grasp"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-warden-green-balance"}
+{"skillType":"active"}
+{"slug":"vengeance-nature-s-grasp"}
+{"subcategoryId":"vengeance-warden-green-balance"}
+{"title":"Vengeance Nature's Grasp"}
+{"type":"page-type/temper-skill"}

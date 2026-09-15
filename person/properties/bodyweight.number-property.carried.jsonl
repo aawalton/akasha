@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A person has the weight last measured and a day the weight measured that day."},{"decisionKind":"decision-kind/departure","statement":"The weight a movement is counted against is read off the person's page."},{"decisionKind":"decision-kind/departure","statement":"A movement's load factor is the share of this weight that movement has."}]}
+{"definition":"what a body weighs, in pounds"}
+{"id":"01a06860-a0ef-76b6-bebf-a5ed8fc42f7b"}
+{"max":null}
+{"propertySlug":"bodyweight"}
+{"slug":"bodyweight"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

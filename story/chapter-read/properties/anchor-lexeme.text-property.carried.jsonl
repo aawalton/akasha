@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A lexeme is the chapter's own words rather than a reading of those words."}]}
+{"definition":"the words in the chapter that do the dating"}
+{"id":"01a0685e-ef8a-7012-99bf-937f4b87f963"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"lexeme"}
+{"slug":"anchor-lexeme"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

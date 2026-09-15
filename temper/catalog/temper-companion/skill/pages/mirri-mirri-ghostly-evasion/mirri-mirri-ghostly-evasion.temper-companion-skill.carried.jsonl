@@ -1,0 +1,14 @@
+{"abilityId":157197}
+{"castConditions":"jsonl"}
+{"companionId":"mirri"}
+{"description":"Your Companion surrounds themselves in a phantasmic aura, dodging the next attack made against them while also reducing their damage taken by 20% for $$2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_nightblade_009.dds"}
+{"id":"019e6484-387f-7663-9a4d-31447aeda194"}
+{"key":"mirri-ghostly-evasion"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-mirri-living-shade"}
+{"skillType":"active"}
+{"slug":"mirri-mirri-ghostly-evasion"}
+{"title":"Ghostly Evasion"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["tank"]}

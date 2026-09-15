@@ -1,0 +1,11 @@
+{"displayOrder":6}
+{"effect":"Increases Healing Done"}
+{"effects":"jsonl"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_WEAPON_POWERED"}
+{"id":"019e5b8b-e549-7d10-841e-e3e8cfe05a8d"}
+{"key":"powered"}
+{"material":"Chysolite"}
+{"qualityValues":"jsonl"}
+{"slug":"powered"}
+{"title":"Powered"}
+{"type":"page-type/temper-weapon-trait"}

@@ -1,0 +1,8 @@
+{"definition":"what one test before a companion casts is a case of"}
+{"id":"01a06193-6c9e-7d3f-8ec8-33900a372658"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"type"}
+{"slug":"cast-condition-type"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

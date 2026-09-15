@@ -1,0 +1,17 @@
+{"baseName":"Rapid Fire"}
+{"description":"\"Unleash a barrage of arrows at an enemy, dealing |cffffff60561|r Physical Damage over |cffffff4|r seconds. \\n\\nYou can move at full speed and are immune to all disabling effects while channeling this attack.\\n\\nThis ability is considered direct damage.\""}
+{"esoSkillId":83465}
+{"icon":"/esoui/art/icons/ability_bow_006.dds"}
+{"id":"019e6f53-a5a0-7884-b007-bdbb1d34eda3"}
+{"isMorph":false}
+{"key":"rapid-fire"}
+{"learnedLevel":1}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":50}
+{"skillLineId":"weapon-bow"}
+{"skillType":"ultimate"}
+{"slug":"rapid-fire"}
+{"subcategoryId":"weapon-bow"}
+{"title":"Rapid Fire"}
+{"type":"page-type/temper-skill"}

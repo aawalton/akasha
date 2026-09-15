@@ -1,0 +1,17 @@
+{"baseName":"Critical Charge"}
+{"description":"\"Launch across the earth and smash an enemy, dealing 1393 Physical Damage. Deals up to 50% more damage based on the distance traveled.\\n\\nThis attack is always a Critical Strike.\""}
+{"esoSkillId":39822}
+{"icon":"/esoui/art/icons/ability_2handed_003_b.dds"}
+{"id":"019e6226-00dd-7825-9439-7ece7644e5de"}
+{"isMorph":true}
+{"key":"critical-rush"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"active"}
+{"slug":"critical-rush"}
+{"subcategoryId":"weapon-two-handed"}
+{"title":"Critical Rush"}
+{"type":"page-type/temper-skill"}

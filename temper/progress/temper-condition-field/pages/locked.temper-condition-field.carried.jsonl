@@ -1,0 +1,6 @@
+{"description":"An item's locked flag must be true where the value is `locked` and false where the value is `not-locked`."}
+{"id":"01a07209-6b51-7d08-96a3-0a7e0f11b81a"}
+{"key":"locked"}
+{"slug":"locked"}
+{"title":"Locked"}
+{"type":"page-type/temper-condition-field"}

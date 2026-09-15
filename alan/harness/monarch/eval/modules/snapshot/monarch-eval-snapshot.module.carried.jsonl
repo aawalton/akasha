@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A family's mark is its page count and a hash over every page's path and bytes."},{"decisionKind":"decision-kind/departure","statement":"Pages are hashed in path order."},{"decisionKind":"decision-kind/departure","statement":"Transactions are marked from their sidecars rather than from the month pages."},{"decisionKind":"decision-kind/departure","statement":"A month with no sidecar is hashed as having no sidecar rather than failing."},{"decisionKind":"decision-kind/departure","statement":"A move is said family by family as the mark before and the mark after."},{"decisionKind":"decision-kind/departure","statement":"A family present on one side and absent on the second is said as absent rather than passed over."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes."}]}
+{"definition":"the mark every Monarch page family has, so a run can say nothing moved"}
+{"id":"01a06863-264d-7e8e-895d-7274b1dbf33c"}
+{"slug":"monarch-eval-snapshot"}
+{"type":"page-type/module"}

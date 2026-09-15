@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Loading the library a second time is an error."}]}
+{"definition":"the name the library puts in the game's global table"}
+{"id":"01a0614d-4765-7157-8e3b-883d7c925f1a"}
+{"slug":"gps-public-api"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A skill query reads the weight or the weapon type off a slot."}]}
+{"definition":"the little bit of armour and weapon shape a skill query needs to read"}
+{"id":"01a06187-b3a3-7eb8-8802-5c8042236869"}
+{"slug":"query-shapes"}
+{"type":"page-type/module"}

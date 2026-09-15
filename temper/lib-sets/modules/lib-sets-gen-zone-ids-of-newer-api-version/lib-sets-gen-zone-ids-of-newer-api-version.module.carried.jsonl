@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This table is ported from the upstream library at a pinned commit."},{"decisionKind":"decision-kind/absence","statement":"The table is empty at the pinned commit."}]}
+{"definition":"the zone ids that exist only on a newer game API version"}
+{"id":"01a061fc-cee8-7893-86a9-c6e36f1902df"}
+{"slug":"lib-sets-gen-zone-ids-of-newer-api-version"}
+{"type":"page-type/module"}

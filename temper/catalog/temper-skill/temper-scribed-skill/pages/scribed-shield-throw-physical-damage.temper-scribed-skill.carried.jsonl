@@ -1,0 +1,19 @@
+{"baseName":"Shield Throw"}
+{"description":"Deals 2091 Physical Damage to an enemy."}
+{"esoSkillId":216973}
+{"focusScriptId":"physical-damage"}
+{"grimoireId":"shield-throw"}
+{"icon":"/esoui/art/icons/ability_grimoire_1handed.dds"}
+{"id":"019e6471-15b8-733c-8cc1-104429b13d0d"}
+{"isMorph":false}
+{"key":"scribed-shield-throw-physical-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"active"}
+{"slug":"scribed-shield-throw-physical-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Sundering Throw"}
+{"type":"page-type/temper-scribed-skill"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A body running to the edges leaves no room for a frame beside that body."}]}
+{"definition":"whether a page's body runs to the edges of the screen"}
+{"id":"01a0683a-620a-782d-98a8-24d1f80e3ef8"}
+{"propertySlug":"edge-to-edge"}
+{"slug":"frame-edge-to-edge"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

@@ -1,0 +1,12 @@
+{"attribute":"attribute/strength"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The reading is the points the strength attribute has for today."},{"decisionKind":"decision-kind/departure","statement":"The attribute is reached through the link this readout names."},{"decisionKind":"decision-kind/departure","statement":"An attribute with no points today is no reading rather than a zero."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out the points a day earned."},{"decisionKind":"decision-kind/absence","statement":"Nothing here caches a reading or decides when a reading is taken."},{"decisionKind":"decision-kind/absence","statement":"Nothing here turns points into a color."}]}
+{"definition":"the points Alan earned on a day for the weight he moved"}
+{"groups":["readout-group/attributes"]}
+{"id":"01a06838-9421-7f89-932a-569d681c18a4"}
+{"label":"STR"}
+{"place":1}
+{"scale":"readout-scale/attribute-points"}
+{"slug":"attribute-strength"}
+{"type":"page-type/readout"}
+{"unit":"points"}
+{"wireKey":"strength"}

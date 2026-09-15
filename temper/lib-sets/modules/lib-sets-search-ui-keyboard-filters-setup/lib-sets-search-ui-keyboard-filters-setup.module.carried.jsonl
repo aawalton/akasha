@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Multi-select is only turned on when the combo box class offers multi-select."},{"decisionKind":"decision-kind/constraint","statement":"Mouse-over callbacks are only set when the combo box class offers mouse-over callbacks."}]}
+{"definition":"the shared build steps behind every keyboard filter dropdown"}
+{"id":"01a0623e-53a1-71e5-8547-9eccb2b6b04b"}
+{"slug":"lib-sets-search-ui-keyboard-filters-setup"}
+{"type":"page-type/module"}

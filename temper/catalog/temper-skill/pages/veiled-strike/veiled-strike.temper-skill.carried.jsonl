@@ -1,0 +1,17 @@
+{"baseName":"Veiled Strike"}
+{"description":"\"Slash an enemy, dealing |cffffff8076|r Magic Damage. \\n\\nIf you strike an enemy from their flank you set them Off Balance.\""}
+{"esoSkillId":25255}
+{"icon":"/esoui/art/icons/ability_nightblade_002.dds"}
+{"id":"019e6f53-a8ab-77ce-8edf-e178c20b7184"}
+{"isMorph":false}
+{"key":"veiled-strike"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"nightblade-assassination"}
+{"skillType":"active"}
+{"slug":"veiled-strike"}
+{"subcategoryId":"nightblade-assassination"}
+{"title":"Veiled Strike"}
+{"type":"page-type/temper-skill"}

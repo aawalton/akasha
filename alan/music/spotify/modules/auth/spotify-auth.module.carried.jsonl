@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A token within sixty seconds of expiry is treated as expired."},{"decisionKind":"decision-kind/departure","statement":"A token answer naming no refresh token leaves the stored refresh token in place."},{"decisionKind":"decision-kind/departure","statement":"A refresh answering with no refresh token at all throws."},{"decisionKind":"decision-kind/departure","statement":"A token answer naming no scope leaves the stored scopes in place."},{"decisionKind":"decision-kind/departure","statement":"An expiry is written as an instant rather than as seconds remaining."},{"decisionKind":"decision-kind/departure","statement":"Every refreshed token is written to the token store before the token is given back."},{"decisionKind":"decision-kind/departure","statement":"No stored token throws and names the consent command."},{"decisionKind":"decision-kind/absence","statement":"Nothing here asks Alan for consent."},{"decisionKind":"decision-kind/departure","statement":"Every POST to the token endpoint is made from here."}]}
+{"definition":"an access token good right now, refreshed when it is not"}
+{"id":"01a06261-dc1d-7006-a47d-60926a2515c8"}
+{"slug":"spotify-auth"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A survey report is client specialized item type 101."},{"decisionKind":"decision-kind/departure","statement":"An item with no specialized item type fails the toggle whichever setting the player chose."},{"decisionKind":"decision-kind/absence","statement":"Nothing here narrows the server request."}]}
+{"definition":"whether an item is a survey report, narrowed by an include or exclude toggle"}
+{"id":"01a0613a-e0b0-7b63-86a0-4e084089702c"}
+{"slug":"search-survey-filter"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each event registration takes a namespace no earlier registration used."},{"decisionKind":"decision-kind/constraint","statement":"This module needs LibDebugLogger loaded first."}]}
+{"definition":"the library object every caller of map pings reaches"}
+{"id":"01a0605f-6261-7a99-9a87-668ce21f8a59"}
+{"slug":"map-ping-lib"}
+{"type":"page-type/module"}

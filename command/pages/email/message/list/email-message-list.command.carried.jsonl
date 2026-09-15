@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/query-file","notWith":["argument/mail-query"]},{"argument":"argument/mail-query"},{"argument":"argument/max"},{"argument":"argument/label","repeats":true}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A summary carries the id, the thread, from, to, subject, date and the snippet."},{"decisionKind":"decision-kind/departure","statement":"A listing naming no search matches every message."},{"decisionKind":"decision-kind/departure","statement":"A summary is read from headers rather than from a body."},{"decisionKind":"decision-kind/departure","statement":"A search read from a file has no line ending."},{"decisionKind":"decision-kind/departure","statement":"A listing fetches each message's headers one message at a time."}]}
+{"definition":"the command summarising each Gmail message a search matches, the search optional"}
+{"id":"01a06810-cf11-7ea4-b544-6691871388cf"}
+{"name":"list"}
+{"slug":"email-message-list"}
+{"test":"ts"}
+{"type":"page-type/command"}

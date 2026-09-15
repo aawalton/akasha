@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type naming no owner has pages the whole repository owns."},{"decisionKind":"decision-kind/departure","statement":"A page type extending another page type takes that page type's owner."},{"decisionKind":"decision-kind/departure","statement":"A narrow on who owns a page is lowered onto the property a page type names."}]}
+{"definition":"the property naming the account a page belongs to"}
+{"id":"01a06c50-b15f-7d22-9f4b-7590e602dd05"}
+{"propertySlug":"owner"}
+{"slug":"owner"}
+{"targetPageType":"page-type/page-property"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

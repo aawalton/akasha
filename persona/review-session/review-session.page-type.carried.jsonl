@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A persona looking on a day has a single review session."},{"decisionKind":"decision-kind/departure","statement":"A session names the persona who looked rather than the part of Alan's life that persona looked at."},{"decisionKind":"decision-kind/departure","statement":"A session's slug joins the part of Alan's life looked over to the day of the looking."},{"decisionKind":"decision-kind/departure","statement":"A session's notes are a file beside the session rather than inside the session page."},{"decisionKind":"decision-kind/gap","statement":"A session names the part of Alan's life the session passed over."}]}
+{"definition":"one pass a persona made over the part of Alan's life she watches"}
+{"extends":["page-type/page"]}
+{"id":"01a06743-d160-7001-9131-181af10f9b87"}
+{"parts":["file-property/review-session-notes","relation-property/session-persona"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/session-persona","required":true,"many":false},{"pageProperty":"text-property/date","required":true,"many":false},{"pageProperty":"file-property/review-session-notes","required":true,"many":false},{"pageProperty":"text-property/icon","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"review-session"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

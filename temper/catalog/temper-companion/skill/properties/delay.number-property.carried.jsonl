@@ -1,0 +1,7 @@
+{"definition":"how many seconds pass before a delayed effect fires"}
+{"id":"01a06193-6ca8-7884-956b-237d461f1c14"}
+{"max":null}
+{"propertySlug":"delay"}
+{"slug":"delay"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

@@ -1,0 +1,13 @@
+{"containerPort":8443}
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"A certificate renewal reaches the server serving that certificate."},{"decisionKind":"decision-kind/constraint","statement":"The server reads its certificate once and serves that certificate until the server ends."},{"decisionKind":"decision-kind/departure","statement":"The pod is rolled by the certificate's checksum changing where the manifest is applied again."}]}
+{"definition":"the server admitting a machine to the private network and telling it where the others are"}
+{"id":"01a06812-2380-7204-bb6c-c05c012bbf72"}
+{"image":"headscale/headscale:0.28.0"}
+{"manifest":["manifest/headscale"]}
+{"namespace":"headscale"}
+{"replicas":1}
+{"resourceKind":"StatefulSet"}
+{"resourceName":"headscale"}
+{"secrets":["secret/headscale-secrets-noise-private-key","secret/headscale-secrets-oidc-client-secret","secret/headscale-s3-creds-access-key","secret/headscale-s3-creds-secret-key"]}
+{"slug":"headscale"}
+{"type":"page-type/service-cluster"}

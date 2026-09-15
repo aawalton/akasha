@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A blocked warrant claims the sender is waiting."},{"decisionKind":"decision-kind/departure","statement":"A blocked warrant claims nothing of anyone but the sender."},{"decisionKind":"decision-kind/departure","statement":"An announced message claims nothing of the sender."},{"decisionKind":"decision-kind/departure","statement":"An announce is not a reason for its sender to keep running."},{"decisionKind":"decision-kind/departure","statement":"The answer to a blocked message reaches the sender's mailbox."}]}
+{"definition":"what a message claims of the sender while it waits"}
+{"id":"01a06818-107b-7002-8cb9-81d4d299a260"}
+{"propertySlug":"warrant"}
+{"slug":"message-warrant"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["announce","blocked"]}

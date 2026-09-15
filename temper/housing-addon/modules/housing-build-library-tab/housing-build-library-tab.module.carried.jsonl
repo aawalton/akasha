@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Controls are built once and hidden rather than made again."}]}
+{"definition":"building the controls of the community library tab"}
+{"id":"01a06128-d5c4-74dd-a2f6-6194d82b43c4"}
+{"slug":"housing-build-library-tab"}
+{"type":"page-type/module"}

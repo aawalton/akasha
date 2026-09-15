@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A readout stating nothing is drawn as a stoplight."},{"decisionKind":"decision-kind/departure","statement":"A reading drawn as a number is drawn without a rung behind the figure."}]}
+{"definition":"whether a reading is drawn as a stoplight or as a bare number"}
+{"id":"01a063bd-a526-78b3-ad87-dc9525cc297e"}
+{"propertySlug":"drawn-as"}
+{"slug":"drawn-as"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["stoplight","number"]}

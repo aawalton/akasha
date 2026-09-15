@@ -1,0 +1,17 @@
+{"baseName":"Magma Armor"}
+{"description":"\"Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.\\n\\nWhile active, you cannot generate Ultimate.\""}
+{"esoSkillId":15957}
+{"icon":"/esoui/art/icons/ability_dragonknight_018.dds"}
+{"id":"019e6f53-a446-73e9-820c-d5943717772d"}
+{"isMorph":false}
+{"key":"magma-armor"}
+{"learnedLevel":12}
+{"lineRankNeeded":12}
+{"morphIndex":0}
+{"rank":12}
+{"skillLineId":"dragonknight-earthen-heart"}
+{"skillType":"ultimate"}
+{"slug":"magma-armor"}
+{"subcategoryId":"dragonknight-earthen-heart"}
+{"title":"Magma Armor"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing thrown is left without a message."}]}
+{"definition":"a message and a stack read off whatever was thrown"}
+{"id":"01a05c48-deeb-7018-8b07-72558879bc4c"}
+{"slug":"throwable-normalizing"}
+{"type":"page-type/module"}

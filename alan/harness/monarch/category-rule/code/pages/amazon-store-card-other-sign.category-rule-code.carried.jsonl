@@ -1,0 +1,5 @@
+{"id":"01a0655b-fccf-7003-8065-370d746d4e19"}
+{"matches":[{"key":"merchant","comparison":"is","values":["amazon store card"]},{"key":"account","comparison":"is","values":["6952"]},{"key":"sign","comparison":"is-not","values":["positive"]}]}
+{"slug":"amazon-store-card-other-sign"}
+{"title":"Amazon store card other sign"}
+{"type":"page-type/category-rule-code"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A compressed entry is either a plain item id or a string of a first id and an offset."},{"decisionKind":"decision-kind/constraint","statement":"A set's expanded item ids are cached when first asked for."}]}
+{"definition":"the item ids of a set expanded from the compressed form they are stored in"}
+{"id":"01a061fc-ceea-731b-8df7-55b760383102"}
+{"slug":"lib-sets-core-itemid-decompress"}
+{"type":"page-type/module"}

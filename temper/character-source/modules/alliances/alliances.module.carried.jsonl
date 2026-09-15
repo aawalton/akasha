@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This code is written out from the character pages rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"A alliance's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A alliance moved to another place breaks every build hash saved."}]}
+{"definition":"the three alliances a character fights for, and no alliance at all"}
+{"id":"01a060ea-ac5c-7ddc-8beb-424cc85a9621"}
+{"slug":"alliances"}
+{"type":"page-type/module"}

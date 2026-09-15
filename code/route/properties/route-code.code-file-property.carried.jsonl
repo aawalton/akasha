@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A route drawing something for a browser is written in TSX."},{"decisionKind":"decision-kind/departure","statement":"A route answering with data alone is written in TypeScript."}]}
+{"definition":"the code a route is"}
+{"extensions":["ts","tsx"]}
+{"id":"01a071dc-83c6-73f2-9948-9d3c5e18ce9f"}
+{"propertySlug":"code"}
+{"slug":"route-code"}
+{"type":"page-type/code-file-property"}
+{"types":"ts"}

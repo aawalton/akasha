@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The XML and the name here are spelled the same way."},{"decisionKind":"decision-kind/departure","statement":"A handler is unset until the widget builds a row."},{"decisionKind":"decision-kind/absence","statement":"A compiler emits nothing from this file."}]}
+{"definition":"the handler names this widget's XML calls the built Lua back through"}
+{"id":"01a06207-bdf6-7c8f-8f0c-3a655587329d"}
+{"slug":"order-list-box-published"}
+{"type":"page-type/type-declaration"}

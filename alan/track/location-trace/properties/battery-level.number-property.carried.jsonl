@@ -1,0 +1,7 @@
+{"definition":"how much charge the device held, as a fraction of full"}
+{"id":"01a06935-68b3-75ae-9b71-1b4d0d344683"}
+{"max":null}
+{"propertySlug":"battery-level"}
+{"slug":"battery-level"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

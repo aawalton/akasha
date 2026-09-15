@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name here keeps the spelling the game gives that name."},{"decisionKind":"decision-kind/departure","statement":"A name the shared game types already declare is left out."},{"decisionKind":"decision-kind/absence","statement":"A compiler emits nothing from this file."}]}
+{"definition":"the game control members and color constants the option widgets reach"}
+{"id":"01a06100-0000-7000-8000-000000000029"}
+{"slug":"addon-menu-eso-controls"}
+{"type":"page-type/type-declaration"}

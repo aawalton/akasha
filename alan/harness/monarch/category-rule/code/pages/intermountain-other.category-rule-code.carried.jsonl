@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcd0-701b-9ce1-3fac867208e8"}
+{"matches":[{"key":"merchant","comparison":"is","values":["intermountain"]},{"key":"sign","comparison":"is-not","values":["negative"]}]}
+{"slug":"intermountain-other"}
+{"title":"Intermountain other"}
+{"type":"page-type/category-rule-code"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One simulator session is open at a time."},{"decisionKind":"decision-kind/departure","statement":"A command driving the simulator attaches to the session already open rather than opening its own."},{"decisionKind":"decision-kind/gap","statement":"The build a command here installs to a simulator is taken by `akasha deploy --simulator`."}]}
+{"definition":"the iOS simulator and what is driven on it"}
+{"id":"01a07bc2-afbe-7db2-96a8-ce71678480ac"}
+{"name":"sim"}
+{"parts":["command/mobile-sim-boot","command/mobile-sim-eval","command/mobile-sim-long-press-drag","command/mobile-sim-open-url","command/mobile-sim-push-tap","command/mobile-sim-screenshot","command/mobile-sim-status","command/mobile-sim-tap","command/mobile-sim-teardown","command/mobile-sim-type"]}
+{"slug":"mobile-sim"}
+{"type":"page-type/namespace"}

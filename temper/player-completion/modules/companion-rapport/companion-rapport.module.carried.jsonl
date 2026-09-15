@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Rapport is held between nothing and its ceiling."}]}
+{"definition":"how fond a companion is of a character, as a raw count and as a tier"}
+{"id":"01a06108-2fea-7e03-804e-71e12bdddd7f"}
+{"slug":"companion-rapport"}
+{"test":"ts"}
+{"type":"page-type/module"}

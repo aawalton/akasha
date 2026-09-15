@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The messages the caller sends before the target answers are held and sent on after."},{"decisionKind":"decision-kind/departure","statement":"Either side closing closes the far side."}]}
+{"definition":"a websocket to the target held open behind the one held to the caller"}
+{"id":"01a06863-8e7c-78f7-8506-2298935c6523"}
+{"slug":"ws-bridge"}
+{"type":"page-type/module"}

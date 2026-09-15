@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The settings are the program's own rather than the cluster's."},{"decisionKind":"decision-kind/departure","statement":"A cluster service the cluster configures through its manifest alone states no config."}]}
+{"definition":"the settings a workload's own program reads"}
+{"extensions":["yaml"]}
+{"id":"01a07c92-3daf-72f1-8010-749415723ba4"}
+{"propertySlug":"config"}
+{"slug":"service-cluster-config"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A category has sub categories that have achievements."},{"decisionKind":"decision-kind/departure","statement":"A general sub category is optional on a category."},{"decisionKind":"decision-kind/departure","statement":"An entry says whether the achievement is earned per character."}]}
+{"definition":"the zod schema reading the achievement catalog out of saved variables"}
+{"id":"01a06076-5ea8-71a8-86ca-b64f4875777a"}
+{"slug":"achievement-catalog-schema"}
+{"type":"page-type/module"}

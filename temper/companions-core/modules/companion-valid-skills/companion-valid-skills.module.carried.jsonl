@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A skill already on the skill bar is excluded."},{"decisionKind":"decision-kind/constraint","statement":"Armor skills match the skill line named for the role armor weight."},{"decisionKind":"decision-kind/departure","statement":"Guild skill lines pass without any further check."}]}
+{"definition":"the set of skill ids a companion build may still slot"}
+{"id":"01a06152-c2d9-7726-830c-2e1d67f493b4"}
+{"slug":"companion-valid-skills"}
+{"type":"page-type/module"}

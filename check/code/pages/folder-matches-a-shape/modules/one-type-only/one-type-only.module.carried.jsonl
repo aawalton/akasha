@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The page type the folders hold is handed in rather than written here."},{"decisionKind":"decision-kind/departure","statement":"The words a refusal is said in are handed in with that page type."},{"decisionKind":"decision-kind/departure","statement":"Each page has a folder to itself."},{"decisionKind":"decision-kind/departure","statement":"A folder with any file of its own is refused."},{"decisionKind":"decision-kind/departure","statement":"Every page in the folder is a part the page above declares."},{"decisionKind":"decision-kind/departure","statement":"A folder above holding no page is asked for no part."},{"decisionKind":"decision-kind/departure","statement":"Whether the page above is asked for that part at all is handed in."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the name of the folder it judges."}]}
+{"definition":"how a folder of page folders of one type is judged"}
+{"id":"01a09c36-f538-72e2-9125-1f0b39671fa5"}
+{"slug":"one-type-only"}
+{"type":"page-type/module"}

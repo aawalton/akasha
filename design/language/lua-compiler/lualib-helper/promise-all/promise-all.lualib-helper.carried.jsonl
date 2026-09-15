@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"one promise answering with every value, or the first rejection"}
+{"id":"01a08c58-c2e0-77f5-962c-680e79b962de"}
+{"luaExport":"__TS__PromiseAll"}
+{"slug":"promise-all"}
+{"type":"page-type/lualib-helper"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a script."}]}
+{"definition":"the script an entry is about"}
+{"id":"01a05fca-cb86-726d-9036-faa9f19d229d"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"script-id"}
+{"slug":"script-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

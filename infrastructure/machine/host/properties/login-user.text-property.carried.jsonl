@@ -1,0 +1,8 @@
+{"definition":"the account a script signs in to the host as"}
+{"id":"01a07c91-865a-7319-9007-975934b929e4"}
+{"maxLength":32}
+{"nameFormat":null}
+{"propertySlug":"login-user"}
+{"slug":"login-user"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

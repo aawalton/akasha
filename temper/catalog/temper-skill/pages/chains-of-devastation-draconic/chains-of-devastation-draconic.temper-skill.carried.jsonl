@@ -1,0 +1,17 @@
+{"baseName":"Chains of Flame"}
+{"description":"\"Lash out with a chain bound in jagged links, pulling yourself to an enemy. The searing metal deals 5412 Flame Damage and applies the Burning status effect.\\n\\nThis attack cannot be dodged or reflected.\\n\\nHitting the target grants you Major Berserk for 6 seconds and Major Evasion for 10 seconds, increasing damage done by 10% reducing damage taken from area attacks by 20%.\""}
+{"esoSkillId":20499}
+{"icon":"/esoui/art/icons/ability_dragonknight_005_b.dds"}
+{"id":"019e6245-a616-77c6-a84d-1f83eb12fbc3"}
+{"isMorph":true}
+{"key":"chains-of-devastation-draconic"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"dragonknight-draconic-power"}
+{"skillType":"active"}
+{"slug":"chains-of-devastation-draconic"}
+{"subcategoryId":"dragonknight-draconic-power"}
+{"title":"Chains of Devastation"}
+{"type":"page-type/temper-skill"}

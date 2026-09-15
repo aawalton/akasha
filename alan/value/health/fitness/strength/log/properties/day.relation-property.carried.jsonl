@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A day counts a set by this edge rather than by matching two dates."},{"decisionKind":"decision-kind/departure","statement":"The day named is the day the set's own date spells."}]}
+{"definition":"the tracked day a set falls on"}
+{"id":"01a077c9-150b-7560-ba89-d3c1c8821d62"}
+{"propertySlug":"day"}
+{"slug":"day"}
+{"targetPageType":"page-type/day"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

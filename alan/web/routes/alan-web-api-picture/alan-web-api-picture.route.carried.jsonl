@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A sender is known by its device secret rather than by a session."},{"decisionKind":"decision-kind/absence","statement":"Nothing but the picture's bytes and the device secret leaves the phone."}]}
+{"definition":"the picture a phone sends in for its person's handler"}
+{"id":"01a09c62-851a-71cc-950c-0d3fe7144579"}
+{"slug":"alan-web-api-picture"}
+{"type":"page-type/route"}
+{"urlPath":"api/picture"}

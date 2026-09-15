@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The purge leaves `.git` and `node_modules` to git and to the package installer."}]}
+{"definition":"the service removing every directory with nothing under Alan's repositories"}
+{"enabled":false}
+{"id":"01a06829-0194-7c17-9a07-d06e04099921"}
+{"slug":"repos-empty-dir-purge"}
+{"systemd":{"schedule":"daily","jitterSeconds":1800,"catchUp":true}}
+{"type":"page-type/service-workstation"}

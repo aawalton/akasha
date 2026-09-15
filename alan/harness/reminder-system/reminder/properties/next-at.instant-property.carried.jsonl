@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The reminders that are due are read from here rather than worked out from the clock alone."},{"decisionKind":"decision-kind/departure","statement":"A page with no such instant has never been armed."}]}
+{"definition":"when a repeating thing next falls due"}
+{"id":"01a05f42-d941-7005-9b78-ea153ee9fc0f"}
+{"propertySlug":"next-at"}
+{"slug":"next-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

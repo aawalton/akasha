@@ -1,0 +1,8 @@
+{"cooldown":10}
+{"effects":"jsonl"}
+{"id":"019e21f7-0f5c-7f12-a7c0-9e4d51f2c0c2"}
+{"key":"ravage-magicka"}
+{"oppositeId":"restore-magicka"}
+{"slug":"ravage-magicka"}
+{"title":"Ravage Magicka"}
+{"type":"page-type/temper-poison-effect"}

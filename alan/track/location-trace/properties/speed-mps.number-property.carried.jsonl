@@ -1,0 +1,7 @@
+{"definition":"how fast the device was moving, in metres a second"}
+{"id":"01a06935-68b5-7fcb-aea6-a3c534c1c03b"}
+{"max":null}
+{"propertySlug":"speed-mps"}
+{"slug":"speed-mps"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

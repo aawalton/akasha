@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A predicate names the edge kinds a closure follows and the way each is followed."},{"decisionKind":"decision-kind/departure","statement":"Which nodes a closure takes in is handed to the ask rather than named here."}]}
+{"definition":"a rule saying which nodes and edges a closure takes in"}
+{"extends":["page-type/domain"]}
+{"id":"01a0a5ba-8fb1-7bbb-ae4e-1c26277c3a4e"}
+{"parts":["graph-predicate/importers","graph-predicate/imports","module/graph-predicate-closure","relation-property/edges","text-property/direction"]}
+{"properties":[{"pageProperty":"relation-property/edges","required":true,"many":true,"maxCount":null},{"pageProperty":"text-property/direction","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"graph-predicate"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

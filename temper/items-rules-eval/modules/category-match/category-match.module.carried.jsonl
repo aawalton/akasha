@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An absent category chain answers unknown rather than answering mismatch."},{"decisionKind":"decision-kind/departure","statement":"A match is plain equality between the rule category id and one node id in the chain."},{"decisionKind":"decision-kind/absence","statement":"Nothing here consults the category tree."}]}
+{"definition":"the answer to whether a compiled rule's category id appears in one item's category chain"}
+{"id":"01a06137-f962-7e16-b493-859ad858c122"}
+{"slug":"category-match"}
+{"type":"page-type/module"}

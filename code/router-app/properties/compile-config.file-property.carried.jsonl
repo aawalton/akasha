@@ -1,0 +1,9 @@
+{"definition":"the TypeScript settings a router app's own compile runs under"}
+{"extensions":["json"]}
+{"fileName":"tsconfig.json"}
+{"id":"01a07332-f5be-7b44-8a0a-e0d49f66e942"}
+{"propertySlug":"compile-config"}
+{"slug":"compile-config"}
+{"toolResolvesPaths":true}
+{"type":"page-type/file-property"}
+{"types":"ts"}

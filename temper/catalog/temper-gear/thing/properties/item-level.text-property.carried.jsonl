@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A level reading Scaled follows the character with the item."}]}
+{"definition":"the character level an item is made for"}
+{"id":"01a05fcc-41f3-75f3-b81e-993d8b24e369"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"level"}
+{"slug":"item-level"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

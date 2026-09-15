@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Live gear is read where the chosen companion is summoned and saved gear otherwise."}]}
+{"definition":"filling the companion equipment panel from live gear or from a saved build"}
+{"id":"01a0611d-84d7-7825-a380-e661d8b35a05"}
+{"slug":"companions-equipment-refresh"}
+{"type":"page-type/module"}

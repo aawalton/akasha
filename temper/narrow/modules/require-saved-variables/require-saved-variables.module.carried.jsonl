@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A read before the session opens the table is a refusal rather than an empty table."}]}
+{"definition":"the add-on's saved table, or a refusal where no session has opened it yet"}
+{"id":"01a08e11-e16f-78aa-8cc2-9f44f46d50cf"}
+{"slug":"require-saved-variables"}
+{"type":"page-type/module"}

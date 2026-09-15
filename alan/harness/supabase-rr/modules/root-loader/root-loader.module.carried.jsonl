@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The nonce goes back with the headers the guard worked out."}]}
+{"definition":"what a root route answers once its request is guarded"}
+{"id":"01a08e19-0b33-7af0-8d2b-7653014c38dc"}
+{"slug":"root-loader"}
+{"type":"page-type/module"}

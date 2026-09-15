@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This code is written out from the race pages rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"A race's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A race moved to another place breaks every build hash saved."}]}
+{"definition":"every playable race with its Elder Scrolls Online race id and its alternate name"}
+{"id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
+{"slug":"races"}
+{"type":"page-type/module"}

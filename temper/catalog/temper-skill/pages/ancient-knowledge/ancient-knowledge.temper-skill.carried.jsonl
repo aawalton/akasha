@@ -1,0 +1,19 @@
+{"baseName":"Ancient Knowledge"}
+{"description":"\"Inferno Staves increases your damage done with damage over time and Status Effects by 12%.\\n\\nLightning Staves increases your damage done with direct damage and channeled effects by 12%.\\n\\nEquipping an Ice Staff reduces the cost of blocking by 36% and increases the amount of damage you block by 20%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45513}
+{"icon":"/esoui/art/icons/ability_weapon_003.dds"}
+{"id":"019e6226-00d0-7a62-9c9b-0e03c068d57b"}
+{"isMorph":false}
+{"key":"ancient-knowledge"}
+{"learnedLevel":46}
+{"lineRankNeeded":46}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"passive"}
+{"slug":"ancient-knowledge"}
+{"status":"supported"}
+{"subcategoryId":"weapon-destruction-staff"}
+{"title":"Ancient Knowledge"}
+{"type":"page-type/temper-skill"}

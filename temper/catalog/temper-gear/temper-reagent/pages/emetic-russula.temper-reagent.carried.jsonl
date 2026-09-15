@@ -1,0 +1,8 @@
+{"alchemyEffects":["ravage-health","ravage-magicka","ravage-stamina","entrapment"]}
+{"icon":"resources/emetic_russula_r1.png"}
+{"id":"019e21f7-3b18-7e6e-835c-7568dfe11ec9"}
+{"itemId":30151}
+{"key":"emetic-russula"}
+{"slug":"emetic-russula"}
+{"title":"Emetic Russula"}
+{"type":"page-type/temper-reagent"}

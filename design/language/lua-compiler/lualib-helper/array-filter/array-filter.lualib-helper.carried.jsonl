@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the array with each element of an array that passes a test"}
+{"id":"01a081e7-49c9-75a8-8305-399f0c7bbdf0"}
+{"luaExport":"__TS__ArrayFilter"}
+{"slug":"array-filter"}
+{"type":"page-type/lualib-helper"}

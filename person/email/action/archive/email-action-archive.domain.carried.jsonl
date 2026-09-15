@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Mail is archived and never deleted."}]}
+{"definition":"taking mail out of a person's inbox"}
+{"id":"01a0675b-16e2-769a-9b2a-c1b1edede150"}
+{"slug":"email-action-archive"}
+{"type":"page-type/domain"}

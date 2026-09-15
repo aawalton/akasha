@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Enfeebling Shadow"}
+{"description":"\"Infuse your weapon with sinister shadow and stab an enemy, dealing |cffffff5565|r Magic Damage and applying Major Maim to them for |cffffff6|r seconds, reducing their damage done by |cffffff10|r%.\""}
+{"esoSkillId":237700}
+{"icon":"/esoui/art/icons/achievement_thievesguild_040.dds"}
+{"id":"019e6f53-a8fe-74d9-8b69-dce2d83efeea"}
+{"isMorph":false}
+{"key":"vengeance-enfeebling-shadow"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-nightblade-shadow"}
+{"skillType":"active"}
+{"slug":"vengeance-enfeebling-shadow"}
+{"subcategoryId":"vengeance-nightblade-shadow"}
+{"title":"Vengeance Enfeebling Shadow"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A book of scripture is named by the key its passages are reached under."}]}
+{"definition":"a book of scripture Alan reads chapters of"}
+{"extends":["page-type/collection-external"]}
+{"id":"01a06807-be66-7003-aba8-347b1f0d9f84"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"text-property/external-id","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"scripture-collection"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

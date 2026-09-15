@@ -1,0 +1,18 @@
+{"baseName":"Persistence"}
+{"description":"\"After blocking an attack, your next Health, Magicka, or Stamina ability costs 18% less.\""}
+{"esoSkillId":45165}
+{"icon":"/esoui/art/icons/ability_sorcerer_054.dds"}
+{"id":"019e6245-a6e0-7b4a-9ec9-3c0a02fef55c"}
+{"isMorph":false}
+{"key":"persistence"}
+{"learnedLevel":36}
+{"lineRankNeeded":36}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"sorcerer-dark-magic"}
+{"skillType":"passive"}
+{"slug":"persistence"}
+{"status":"unsupported"}
+{"subcategoryId":"sorcerer-dark-magic"}
+{"title":"Persistence"}
+{"type":"page-type/temper-skill"}

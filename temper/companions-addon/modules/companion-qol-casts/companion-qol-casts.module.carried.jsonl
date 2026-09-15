@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value of the wrong kind reads back as the fallback rather than raising."}]}
+{"definition":"reading a value of a known kind out of a saved variables table"}
+{"id":"01a0611d-84c4-7502-90cd-7bbaa684cb7d"}
+{"slug":"companion-qol-casts"}
+{"type":"page-type/module"}

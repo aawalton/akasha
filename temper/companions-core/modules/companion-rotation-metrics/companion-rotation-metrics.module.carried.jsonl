@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Buff uptime scales each damage multiplier additively rather than compounding."},{"decisionKind":"decision-kind/constraint","statement":"The light-attack skill id is skipped in both the dps and the tps pass."},{"decisionKind":"decision-kind/gap","statement":"A missing metric value falls back to a hardcoded two thousand or thirty thousand."}]}
+{"definition":"derivation of dps, hps, sps and tps metric entries from a simulated companion rotation"}
+{"id":"01a06152-c2cf-78e0-86fc-3c00f49037b8"}
+{"slug":"companion-rotation-metrics"}
+{"type":"page-type/module"}

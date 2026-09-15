@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An edge followed to the node it reaches is followed out."},{"decisionKind":"decision-kind/departure","statement":"An edge followed to the node it comes from is followed in."}]}
+{"definition":"the way along an edge a predicate follows that edge"}
+{"id":"01a0a5e2-270a-7e0a-8a1d-0d7ae58c26f5"}
+{"maxLength":3}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"direction"}
+{"slug":"direction"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

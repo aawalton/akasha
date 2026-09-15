@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcd0-7024-b4da-60178114cd87"}
+{"matches":[{"key":"merchant","comparison":"is","values":["mom's fixed expenses"]},{"key":"account","comparison":"is-not","values":["Personal Profile"]}]}
+{"slug":"moms-fixed-expenses-other-account"}
+{"title":"Moms fixed expenses other account"}
+{"type":"page-type/category-rule-code"}

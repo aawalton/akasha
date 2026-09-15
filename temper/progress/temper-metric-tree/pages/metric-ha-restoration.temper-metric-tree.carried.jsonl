@@ -1,0 +1,8 @@
+{"displayOrder":6}
+{"id":"019e2fcd-59c4-7e4a-9aa6-411eea3abbbe"}
+{"nodeId":"ha-restoration"}
+{"nodeType":"metric"}
+{"parent":"subcategory-ha-damage"}
+{"slug":"metric-ha-restoration"}
+{"title":"Ha Restoration"}
+{"type":"page-type/temper-metric-tree"}

@@ -1,0 +1,17 @@
+{"baseName":"Vengeance-Bearer's Inspiration"}
+{"description":"\"Etch a series of runes onto your weapon that pulse with power, generating a Crux if you have none while granting you Minor Force for |cffffff20|r seconds, increasing your Critical Damage done by |cffffff10|r%.\\n\\nWhile slotted on either ability bar, gain Major Prophecy and Savagery, increasing your Spell and Weapon Critical rating by |cffffff2629|r.\""}
+{"esoSkillId":238191}
+{"icon":"/esoui/art/icons/ability_arcanist_005.dds"}
+{"id":"019e6f53-a8bb-70a7-a3f2-18ad52599186"}
+{"isMorph":false}
+{"key":"vengeance-bearer-s-inspiration"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-arcanist-herald-of-the-tome"}
+{"skillType":"active"}
+{"slug":"vengeance-bearer-s-inspiration"}
+{"subcategoryId":"vengeance-arcanist-herald-of-the-tome"}
+{"title":"Vengeance-Bearer's Inspiration"}
+{"type":"page-type/temper-skill"}

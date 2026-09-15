@@ -1,0 +1,17 @@
+{"baseName":"Gourmand"}
+{"description":"\"Adds 20 minutes to the duration of any eaten food.\""}
+{"esoSkillId":44610}
+{"icon":"/esoui/art/icons/ability_provisioner_004.dds"}
+{"id":"019e6224-cc97-7030-bd4c-ce81fe02eade"}
+{"isMorph":false}
+{"key":"gourmand"}
+{"learnedLevel":1}
+{"lineRankNeeded":3}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-provisioning"}
+{"skillType":"passive"}
+{"slug":"gourmand"}
+{"subcategoryId":"craft-provisioning"}
+{"title":"Gourmand"}
+{"type":"page-type/temper-skill"}

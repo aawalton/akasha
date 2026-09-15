@@ -1,0 +1,27 @@
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Dynamic_Chest_Stretch"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dynamic_Chest_Stretch"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"pull"}
+{"gripDemand":"low"}
+{"id":"019ebc77-2c74-7e34-a229-fa89068d277f"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dynamic_Chest_Stretch/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dynamic_Chest_Stretch/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"mobility"}
+{"muscleFocus":"push"}
+{"primaryMuscles":["chest"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["middle-back"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"dynamic-chest-stretch"}
+{"title":"Dynamic Chest Stretch"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

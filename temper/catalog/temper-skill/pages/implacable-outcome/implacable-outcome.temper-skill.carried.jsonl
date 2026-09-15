@@ -1,0 +1,18 @@
+{"baseName":"Implacable Outcome"}
+{"description":"\"The will of an Arcanist is absolute. When you consume Crux, gain 4 Ultimate. This effect can occur once every 8 seconds.\""}
+{"esoSkillId":185058}
+{"icon":"/esoui/art/icons/passive_arcanist_08.dds"}
+{"id":"019e6245-a6b1-74e9-9dfa-89614414ec6c"}
+{"isMorph":false}
+{"key":"implacable-outcome"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"arcanist-soldier-of-apocrypha"}
+{"skillType":"passive"}
+{"slug":"implacable-outcome"}
+{"status":"unsupported"}
+{"subcategoryId":"arcanist-soldier-of-apocrypha"}
+{"title":"Implacable Outcome"}
+{"type":"page-type/temper-skill"}

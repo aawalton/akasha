@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A source is named by the identifier the game knows that source by."},{"decisionKind":"decision-kind/absence","statement":"Nothing here counts the skill points a character has earned."}]}
+{"definition":"every place in The Elder Scrolls Online hands a character a skill point"}
+{"id":"01a060ec-5851-77ac-a8f1-6163b058a0b4"}
+{"slug":"skill-point-sources"}
+{"type":"page-type/module"}

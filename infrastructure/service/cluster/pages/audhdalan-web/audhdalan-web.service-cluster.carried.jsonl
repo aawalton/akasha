@@ -1,0 +1,11 @@
+{"containerPort":3000}
+{"definition":"what serves the site Alan's neurodiversity writing is published on"}
+{"id":"01a05b26-f8b6-702c-863b-08d754492dee"}
+{"image":"registry.registry.svc.cluster.local:5000/cluster/bun-git:latest"}
+{"manifest":["manifest/audhdalan-web-manifests"]}
+{"namespace":"audhdalan"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"web"}
+{"slug":"audhdalan-web"}
+{"type":"page-type/service-cluster"}

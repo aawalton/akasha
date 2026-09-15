@@ -1,0 +1,6 @@
+{"definition":"whether the device judged itself in motion"}
+{"id":"01a06935-68b4-7f5d-893a-b0b243026714"}
+{"propertySlug":"is-moving"}
+{"slug":"is-moving"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

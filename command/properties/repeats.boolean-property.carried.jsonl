@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An entry stating nothing here says its argument once."},{"decisionKind":"decision-kind/departure","statement":"A repeating argument gathers its values in the order the values are said."},{"decisionKind":"decision-kind/departure","statement":"An argument that does not repeat is refused where one call says it twice."}]}
+{"definition":"whether one call says an argument more than once"}
+{"id":"01a093fd-5112-7f98-883b-01d434b2b228"}
+{"propertySlug":"repeats"}
+{"slug":"repeats"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

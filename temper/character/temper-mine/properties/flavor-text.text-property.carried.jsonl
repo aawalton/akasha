@@ -1,0 +1,8 @@
+{"definition":"the lore line printed on an item"}
+{"id":"01a05fcd-f54e-776c-b0e8-56c34894de30"}
+{"maxLength":1000}
+{"nameFormat":null}
+{"propertySlug":"flavor-text"}
+{"slug":"flavor-text"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

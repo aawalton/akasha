@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An error last seen before its addon was mended is left behind."},{"decisionKind":"decision-kind/departure","statement":"An error unseen for longer than the staleness allowed is left behind."},{"decisionKind":"decision-kind/departure","statement":"A mend weighs ahead of recency."},{"decisionKind":"decision-kind/departure","statement":"An addon outside the repository is judged by recency alone."},{"decisionKind":"decision-kind/departure","statement":"The addon owning an error is read off the first traceback frame."},{"decisionKind":"decision-kind/absence","statement":"Nothing here opens a file."}]}
+{"definition":"whether an error is still happening or was left behind by a mend"}
+{"id":"01a060cd-5651-794e-9cb4-d37959543fd2"}
+{"slug":"errors-liveness"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Bone Armor"}
+{"description":"\"Wrap yourself in hardened bone, granting you Major Resolve, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\\n\\nYou also count as a corpse, up to once every |cffffff10|r seconds.\""}
+{"esoSkillId":246025}
+{"icon":"/esoui/art/icons/ability_necromancer_008.dds"}
+{"id":"019e6f53-a8c7-7c43-a8ef-035b2ad88dbd"}
+{"isMorph":false}
+{"key":"vengeance-bone-armor"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-necromancer-bone-tyrant"}
+{"skillType":"active"}
+{"slug":"vengeance-bone-armor"}
+{"subcategoryId":"vengeance-necromancer-bone-tyrant"}
+{"title":"Vengeance Bone Armor"}
+{"type":"page-type/temper-skill"}

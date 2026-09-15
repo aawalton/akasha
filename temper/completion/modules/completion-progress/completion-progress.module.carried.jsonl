@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A collectibles capture arriving keyed rather than listed is read as the values under those keys."}]}
+{"definition":"how far along one part of the game a player is"}
+{"id":"01a0607a-9cbc-7106-abcd-353786bf9f09"}
+{"slug":"completion-progress"}
+{"type":"page-type/module"}

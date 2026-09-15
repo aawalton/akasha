@@ -1,0 +1,7 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The segment in the url is the page type's slug."},{"decisionKind":"decision-kind/departure","statement":"A slug reaching no page type is answered 404."}]}
+{"definition":"the pages of one page type, drawn as a list"}
+{"id":"01a0883c-86f0-7495-92b2-1e1957b490a8"}
+{"slug":"atlas-page-listing"}
+{"type":"page-type/route"}
+{"urlPath":":pageTypeSlug"}

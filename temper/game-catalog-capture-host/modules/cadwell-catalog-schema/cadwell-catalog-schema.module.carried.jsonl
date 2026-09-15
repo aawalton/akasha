@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A level has zones that have points of interest."},{"decisionKind":"decision-kind/departure","statement":"A zone has an order number."},{"decisionKind":"decision-kind/departure","statement":"A point of interest has an order number."}]}
+{"definition":"the zod schema reading the Cadwell completion catalog out of saved variables"}
+{"id":"01a06076-5ea8-75f8-9c02-0071e3b7330b"}
+{"slug":"cadwell-catalog-schema"}
+{"type":"page-type/module"}

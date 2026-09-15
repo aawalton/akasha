@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"picks the reader that suits a writ and scans the bags for more"}
+{"id":"01a061c7-e8a5-751f-9b60-ec7a0b21525a"}
+{"slug":"writ-parser-dispatch"}
+{"type":"page-type/module"}

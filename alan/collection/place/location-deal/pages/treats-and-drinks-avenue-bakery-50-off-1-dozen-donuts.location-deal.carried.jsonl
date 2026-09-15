@@ -1,0 +1,13 @@
+{"collection":"location-collection/starving-student-card"}
+{"dealKey":"ssc:treats-and-drinks:avenue-bakery:50-off-1-dozen-donuts"}
+{"id":"019f322c-b090-7c49-a20b-b0419048fd8e"}
+{"locations":["location/avenue-bakery-utah-county"]}
+{"offerText":"50% OFF! 1 Dozen Donuts!"}
+{"offerType":"percent-off"}
+{"section":"Treats & Drinks"}
+{"slug":"treats-and-drinks-avenue-bakery-50-off-1-dozen-donuts"}
+{"struckOut":false}
+{"title":"Avenue Bakery — 50% OFF! 1 Dozen Donuts!"}
+{"type":"page-type/location-deal"}
+{"useLimit":"3"}
+{"usesUsed":0}

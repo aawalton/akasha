@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rate is read off the gold price of an item that currency buys."},{"decisionKind":"decision-kind/departure","statement":"Gold is worth one gold."},{"decisionKind":"decision-kind/departure","statement":"A currency with no priced item has no rate."}]}
+{"definition":"what a telvar stone, an alliance point and a writ voucher are worth in gold"}
+{"id":"01a0609b-e59f-7b46-be31-61f15235677d"}
+{"slug":"currency-price-lookup"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here is exported."}]}
+{"definition":"the entry the game loads the library through"}
+{"id":"01a06069-f8c4-7b14-aede-050c4b2d0c98"}
+{"slug":"media-main"}
+{"type":"page-type/module"}

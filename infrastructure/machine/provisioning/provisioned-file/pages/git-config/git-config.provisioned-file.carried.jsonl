@@ -1,0 +1,8 @@
+{"content":"conf"}
+{"definition":"who Alan commits as and where git keeps its credentials"}
+{"id":"01a06862-af5c-7957-b120-09572c2c7b4c"}
+{"installPath":"~/.gitconfig"}
+{"onlyOn":"any"}
+{"placedBy":"link"}
+{"slug":"git-config"}
+{"type":"page-type/provisioned-file"}

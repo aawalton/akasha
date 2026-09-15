@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is the add-on's own source rather than a derivation."}]}
+{"definition":"the achievement and collectible ids the destination rows name"}
+{"id":"01a06269-29ee-7dd4-9b42-a7cf0a83ea00"}
+{"slug":"destinations-shared-data-ids"}
+{"type":"page-type/module"}

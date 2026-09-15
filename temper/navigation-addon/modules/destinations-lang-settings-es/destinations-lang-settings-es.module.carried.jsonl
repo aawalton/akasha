@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is the runs joined in order."}]}
+{"definition":"the destinations settings strings in Spanish, joined from its runs"}
+{"id":"01a06269-2a0a-7f11-aece-8c8c65acfad1"}
+{"slug":"destinations-lang-settings-es"}
+{"type":"page-type/module"}

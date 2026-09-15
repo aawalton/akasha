@@ -1,0 +1,11 @@
+{"description":"Grants Restore Stamina, Speed, Lingering Health."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_003_type_005.dds"}
+{"id":"019e21f6-4053-7b01-941e-60c44e62ed2c"}
+{"key":"endurance-expedition-health-restore-stamina-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Blessed Thistle","Dragon's Blood","Powdered Mother of Pearl"]},{"names":["Blessed Thistle","Dragon's Blood","Scrib Jelly"]}]}
+{"seconds":47}
+{"slug":"endurance-expedition-health-restore-stamina-restore"}
+{"title":"Essence of Stamina"}
+{"type":"page-type/temper-potion-crafted"}

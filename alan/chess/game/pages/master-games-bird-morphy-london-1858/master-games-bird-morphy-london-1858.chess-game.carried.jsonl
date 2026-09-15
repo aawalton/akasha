@@ -1,0 +1,20 @@
+{"black":"Paul Morphy"}
+{"externalId":"master-games_bird-morphy-london-1858"}
+{"handle":"master-games"}
+{"id":"019f1e68-9799-7f36-9f9b-065a9607e6e5"}
+{"openingEco":"C41"}
+{"openingName":"Philidor Defense, Philidor Countergambit"}
+{"pgn":"pgn"}
+{"playedAt":"1858-01-01T00:00:00.000Z"}
+{"ply":58}
+{"rated":false}
+{"result":"0-1"}
+{"slug":"master-games-bird-morphy-london-1858"}
+{"source":"master-games"}
+{"sourceGameId":"bird-morphy-london-1858"}
+{"speed":"classical"}
+{"title":"Henry Bird vs Paul Morphy · classical · 1858-01-01"}
+{"type":"page-type/chess-game"}
+{"variant":"standard"}
+{"white":"Henry Bird"}
+{"winner":"black"}

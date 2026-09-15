@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rating is Alan's own score rather than anyone else's."},{"decisionKind":"decision-kind/departure","statement":"A book Alan has not scored states no rating."}]}
+{"definition":"what Alan scored a book out of ten"}
+{"id":"01a06741-dd0f-7004-9b9b-26579c448c7b"}
+{"max":10}
+{"propertySlug":"rating"}
+{"slug":"rating"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

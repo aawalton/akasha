@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the call a callback is made on with no delay"}
+{"id":"01a081d1-2285-75ce-b055-c42140dc668d"}
+{"luaExport":"__TS__QueueMicrotask"}
+{"slug":"queue-microtask"}
+{"type":"page-type/lualib-helper"}

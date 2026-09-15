@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Earthspike Mantle"}
+{"description":"\"Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r for |cffffff30|r seconds.\""}
+{"esoSkillId":237630}
+{"icon":"/esoui/art/icons/ability_dragonknight_007.dds"}
+{"id":"019e6f53-a8f8-7a90-a46a-f2be9bcb2f17"}
+{"isMorph":false}
+{"key":"vengeance-earthspike-mantle"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-dragonknight-earthen-heart"}
+{"skillType":"active"}
+{"slug":"vengeance-earthspike-mantle"}
+{"subcategoryId":"vengeance-dragonknight-earthen-heart"}
+{"title":"Vengeance Earthspike Mantle"}
+{"type":"page-type/temper-skill"}

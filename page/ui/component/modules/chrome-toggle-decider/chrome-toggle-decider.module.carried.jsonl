@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"Decides whether a tap toggles chrome, rejecting desktop, text selections, and interactive targets."}
+{"id":"01a05c3b-4fc2-770c-8ff5-04a5100e82b0"}
+{"slug":"chrome-toggle-decider"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The caller states which shape a value with a name is."},{"decisionKind":"decision-kind/constraint","statement":"A completion record is stored in a fuller shape or in a terser shape."}]}
+{"definition":"whether a stored completion value is the fuller shape with a name"}
+{"id":"01a06130-9e3a-7f50-9d58-465202494493"}
+{"slug":"completion-named-shape"}
+{"type":"page-type/module"}

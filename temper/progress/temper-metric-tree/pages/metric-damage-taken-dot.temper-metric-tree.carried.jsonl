@@ -1,0 +1,8 @@
+{"displayOrder":0}
+{"id":"019e2fcd-5a3c-7bab-8eda-dee5cefa863d"}
+{"nodeId":"damage-taken-dot"}
+{"nodeType":"metric"}
+{"parent":"subcategory-damage-taken-by-type"}
+{"slug":"metric-damage-taken-dot"}
+{"title":"Damage Taken Dot"}
+{"type":"page-type/temper-metric-tree"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A place in this table is the number a saved build hash has."}]}
+{"definition":"each potion's item id and packed effects against its place in a build hash"}
+{"id":"01a0616b-4d67-7eae-a7e9-5dba894d679f"}
+{"slug":"character-capture-potion-map"}
+{"type":"page-type/module"}

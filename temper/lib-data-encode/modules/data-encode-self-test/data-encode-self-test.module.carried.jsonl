@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The test table has a value of every kind the encoder handles."},{"decisionKind":"decision-kind/departure","statement":"The test runs once for each way a dictionary may be given."},{"decisionKind":"decision-kind/departure","statement":"Two numbers are judged equal by the text the game gives for the two numbers."},{"decisionKind":"decision-kind/departure","statement":"The outcome is logged rather than raised."}]}
+{"definition":"a table encoded and decoded again to prove the two halves agree"}
+{"id":"01a06061-96a1-75e4-ac25-398ca505ef1b"}
+{"slug":"data-encode-self-test"}
+{"type":"page-type/module"}

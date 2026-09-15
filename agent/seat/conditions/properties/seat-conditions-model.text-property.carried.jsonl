@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A subagent naming no model of its own answers on this model too."}]}
+{"definition":"the model a seat's agent answers on"}
+{"id":"01a0687a-3d99-79f8-990a-c6349cc5ffba"}
+{"maxLength":40}
+{"nameFormat":null}
+{"propertySlug":"model"}
+{"slug":"seat-conditions-model"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

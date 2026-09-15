@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reading naming no slug reaches every inference service."},{"decisionKind":"decision-kind/departure","statement":"A slug no page is filed under is refused by name."},{"decisionKind":"decision-kind/departure","statement":"A page that will not load refuses rather than reading as no service."},{"decisionKind":"decision-kind/departure","statement":"A page missing a value a service needs refuses rather than reading as a service."},{"decisionKind":"decision-kind/departure","statement":"One page that refuses refuses the whole reading."},{"decisionKind":"decision-kind/departure","statement":"The folder handed to the host is the folder the named script sits in."},{"decisionKind":"decision-kind/departure","statement":"A page naming a script no page is filed under is refused by name."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches a host."}]}
+{"definition":"the inference service a page states, read from the index and the page"}
+{"id":"01a090a6-f40b-7abe-a439-ebc9274ece2a"}
+{"slug":"inference-reading"}
+{"test":"ts"}
+{"type":"page-type/module"}

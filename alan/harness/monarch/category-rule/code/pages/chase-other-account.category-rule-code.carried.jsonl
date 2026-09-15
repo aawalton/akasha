@@ -1,0 +1,5 @@
+{"id":"01a0655b-fccf-7015-9c01-bac72d41c9e7"}
+{"matches":[{"key":"merchant","comparison":"is","values":["chase"]},{"key":"account","comparison":"is-not","values":["7882"]}]}
+{"slug":"chase-other-account"}
+{"title":"Chase other account"}
+{"type":"page-type/category-rule-code"}

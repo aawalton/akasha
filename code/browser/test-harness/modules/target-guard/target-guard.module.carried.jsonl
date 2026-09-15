@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A localhost target is never warned about."}]}
+{"definition":"the warning that a deployed target does not carry this branch's commits"}
+{"id":"01a05ca9-d804-71ee-aeea-ce444d2f6275"}
+{"slug":"target-guard"}
+{"type":"page-type/module"}

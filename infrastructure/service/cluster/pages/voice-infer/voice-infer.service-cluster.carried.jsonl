@@ -1,0 +1,12 @@
+{"containerPort":8080}
+{"definition":"the workload turning speech into text and text into speech"}
+{"id":"01a06815-9efd-701d-91e7-8ab2fb023fc4"}
+{"image":"registry.registry.svc.cluster.local:5000/cluster/voice-infer-cu121"}
+{"manifest":["manifest/voice-infer"]}
+{"namespace":"voice"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"voice-infer"}
+{"secrets":["secret/voice-infer-s3-creds-access-key","secret/voice-infer-s3-creds-secret-key"]}
+{"slug":"voice-infer"}
+{"type":"page-type/service-cluster"}

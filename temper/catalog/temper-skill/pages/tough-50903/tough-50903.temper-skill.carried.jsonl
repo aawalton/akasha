@@ -1,0 +1,17 @@
+{"baseName":"Tough"}
+{"description":"\"Increases your Max Health by |cffffff600|r.\""}
+{"esoSkillId":50903}
+{"icon":"/esoui/art/icons/ability_dragonknight_020.dds"}
+{"id":"019e6f53-a84e-7718-a437-1afdef525150"}
+{"isMorph":false}
+{"key":"tough-50903"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":5}
+{"skillLineId":"racial-imperial-skills"}
+{"skillType":"passive"}
+{"slug":"tough-50903"}
+{"subcategoryId":"racial-imperial-skills"}
+{"title":"Tough"}
+{"type":"page-type/temper-skill"}

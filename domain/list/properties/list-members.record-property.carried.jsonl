@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One list has every member of its set."},{"decisionKind":"decision-kind/departure","statement":"The order the members are in is the order the list means."}]}
+{"definition":"the things a list's subject is a set of, each with its gloss"}
+{"id":"01a06838-7a9e-7730-9e7f-e9d9393fe6ad"}
+{"properties":[{"pageProperty":"text-property/member-name","required":true,"many":false},{"pageProperty":"standard-agent-english-property/definition","required":true,"many":false}]}
+{"propertySlug":"members"}
+{"slug":"list-members"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

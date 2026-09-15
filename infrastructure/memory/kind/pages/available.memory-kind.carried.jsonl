@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Memory that is free is a part of memory that is available."},{"decisionKind":"decision-kind/departure","statement":"Cached memory the kernel would give up counts as available."},{"decisionKind":"decision-kind/departure","statement":"A host with little free memory and much available has nothing wrong with it."},{"decisionKind":"decision-kind/departure","statement":"Whether a host can admit more work is asked in available memory."}]}
+{"definition":"memory a program could take without anything being swapped"}
+{"id":"01a09131-bee0-7f6e-ba6c-4fc1a8e6466b"}
+{"slug":"available"}
+{"type":"page-type/memory-kind"}

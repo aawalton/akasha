@@ -1,0 +1,17 @@
+{"baseName":"Dragon Leap"}
+{"description":"\"Launch yourself at an enemy, dealing |cffffff13129|r Flame Damage to all enemies in the area, knocking players back |cffffff4|r meters and stunning them for |cffffff2|r seconds. If the target is a monster they are instead knocked into the air and stunned for |cffffff3|r seconds.\""}
+{"esoSkillId":29012}
+{"icon":"/esoui/art/icons/ability_dragonknight_009.dds"}
+{"id":"019e6f53-a0e5-7595-ba78-0c8095515409"}
+{"isMorph":false}
+{"key":"dragon-leap"}
+{"learnedLevel":12}
+{"lineRankNeeded":12}
+{"morphIndex":0}
+{"rank":12}
+{"skillLineId":"dragonknight-draconic-power"}
+{"skillType":"ultimate"}
+{"slug":"dragon-leap"}
+{"subcategoryId":"dragonknight-draconic-power"}
+{"title":"Dragon Leap"}
+{"type":"page-type/temper-skill"}

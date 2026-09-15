@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The pin keys here are the keys LibMapPins and the compass are told."}]}
+{"definition":"the addon's own name and version, and the four keys its map pins answer to"}
+{"id":"01a060f9-baca-7e73-b37a-1f69b51ac984"}
+{"slug":"dungeon-champion-names"}
+{"type":"page-type/module"}

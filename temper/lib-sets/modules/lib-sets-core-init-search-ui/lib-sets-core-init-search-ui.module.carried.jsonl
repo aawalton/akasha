@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Nothing here runs before the library reports itself fully loaded."}]}
+{"definition":"the keyboard search window found by name and handed to its initializer"}
+{"id":"01a061fc-ceeb-71e2-af64-075a353ff4c6"}
+{"slug":"lib-sets-core-init-search-ui"}
+{"type":"page-type/module"}

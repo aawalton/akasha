@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path taken away is weighed by the importers of that path as the change leaves the tree."},{"decisionKind":"decision-kind/departure","statement":"A path moved away is weighed as a path taken away is."},{"decisionKind":"decision-kind/departure","statement":"A path written again in the same change is taken away by nothing."},{"decisionKind":"decision-kind/departure","statement":"A path taken away that something still imports is answered as an orphaning."},{"decisionKind":"decision-kind/departure","statement":"A path taken away in the same change as the edits dropping its imports is no orphaning."},{"decisionKind":"decision-kind/departure","statement":"The importers are read through the shadow rather than off the committed index."},{"decisionKind":"decision-kind/departure","statement":"A change taking no path away is weighed without a shadow being worked out."},{"decisionKind":"decision-kind/departure","statement":"The answer names the first few importers and counts the rest."},{"decisionKind":"decision-kind/gap","statement":"A change whose shadow could not be worked out is answered as no orphaning."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes."},{"decisionKind":"decision-kind/absence","statement":"Nothing here refuses a change."}]}
+{"definition":"the importers a change would leave reaching a path that change takes away"}
+{"id":"01a0726f-357a-7a8d-a206-67afe4197ddb"}
+{"slug":"orphaning"}
+{"test":"ts"}
+{"type":"page-type/module"}

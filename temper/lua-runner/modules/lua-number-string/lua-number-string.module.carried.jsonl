@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A whole number is written with no fractional part."},{"decisionKind":"decision-kind/departure","statement":"Every other number is written to fourteen significant digits."},{"decisionKind":"decision-kind/departure","statement":"Seventeen digits are used where fourteen lose the number."},{"decisionKind":"decision-kind/departure","statement":"A trailing zero of a fraction is dropped."},{"decisionKind":"decision-kind/departure","statement":"An exponent is written with a sign and at least two digits."}]}
+{"definition":"a number written the way Lua 5.1 writes that number"}
+{"id":"01a06059-2492-7512-9794-36f5ae797518"}
+{"slug":"lua-number-string"}
+{"test":"ts"}
+{"type":"page-type/module"}

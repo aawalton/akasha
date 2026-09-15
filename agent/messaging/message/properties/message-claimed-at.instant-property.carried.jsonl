@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A message with no such instant is waiting to be read."},{"decisionKind":"decision-kind/departure","statement":"A claim is let go rather than taken back."},{"decisionKind":"decision-kind/departure","statement":"A message whose claim is let go waits again."},{"decisionKind":"decision-kind/departure","statement":"A claim sits outside the commit."},{"decisionKind":"decision-kind/departure","statement":"A claim goes when its message goes."}]}
+{"definition":"when a recipient took a message up to read it"}
+{"id":"01a06818-107b-7004-8256-c637bdc728bd"}
+{"propertySlug":"claimed-at"}
+{"slug":"message-claimed-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

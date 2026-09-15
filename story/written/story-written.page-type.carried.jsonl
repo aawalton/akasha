@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A story written was set down chapter by chapter rather than played or read."},{"decisionKind":"decision-kind/departure","statement":"More than one story written may be of the one world."}]}
+{"definition":"a story written here"}
+{"extends":["page-type/collection"]}
+{"id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/world","required":false,"many":false},{"pageProperty":"file-property/prose","required":false,"many":false}]}
+{"runsTabooCheck":false}
+{"schema":"jsonl"}
+{"slug":"story-written"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A caller with no task of its own runs on the default task."},{"decisionKind":"decision-kind/departure","statement":"The default task cannot be cancelled."},{"decisionKind":"decision-kind/departure","statement":"The default task takes no finally step and no error step."},{"decisionKind":"decision-kind/departure","statement":"A stall threshold set by slash command is bounded at both ends."}]}
+{"definition":"the functions the library hands to every other addon"}
+{"id":"01a0606a-1c53-7ea1-a0eb-d07680c9af9f"}
+{"slug":"async-api"}
+{"type":"page-type/module"}

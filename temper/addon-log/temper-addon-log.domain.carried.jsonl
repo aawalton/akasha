@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Whether an add-on writes these lines is the add-on's own to say."},{"decisionKind":"decision-kind/departure","statement":"An add-on names itself to the log library once."}]}
+{"definition":"the lines an add-on writes about its own working while the game runs"}
+{"id":"01a08e26-d48c-7a39-8610-6270e3e33c8f"}
+{"parts":["module/addon-log","module/library-logger"]}
+{"slug":"temper-addon-log"}
+{"type":"page-type/domain"}

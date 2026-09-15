@@ -1,0 +1,27 @@
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Sit_Squats"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Sit_Squats"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"push"}
+{"gripDemand":"low"}
+{"id":"019ebc78-68d3-7453-aa08-03812c5203b5"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sit_Squats/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sit_Squats/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0.6}
+{"movementPattern":"mobility"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["quadriceps"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["abductors","glutes","hamstrings"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"sit-squats"}
+{"title":"Sit Squats"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

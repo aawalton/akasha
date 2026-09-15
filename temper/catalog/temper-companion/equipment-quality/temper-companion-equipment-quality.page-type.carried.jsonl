@@ -1,0 +1,8 @@
+{"definition":"a grade a piece of companion equipment comes at"}
+{"extends":["page-type/temper-companion-thing"]}
+{"id":"01a05fcd-aed0-75bf-9fe4-d95291c165fb"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"boolean-property/available","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-companion-equipment-quality"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a zone."}]}
+{"definition":"the zones a scribing source is worked in"}
+{"id":"01a05fca-cb88-7387-b51b-731bff669c39"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"zone-slugs"}
+{"slug":"zone-slugs"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the character text holds at an index, or nothing where the index is outside it"}
+{"id":"01a081ed-ab46-7df8-a8b5-2538b0a257df"}
+{"luaExport":"__TS__StringAccess"}
+{"slug":"string-access"}
+{"type":"page-type/lualib-helper"}

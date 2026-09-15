@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat whose page is there has an agent in it and needs no waking."},{"decisionKind":"decision-kind/departure","statement":"An absent seat is revived only where the work matches a wake source that seat states."},{"decisionKind":"decision-kind/departure","statement":"Every decision has the reason that decision was reached for."}]}
+{"definition":"whether inbound work revives an absent seat"}
+{"id":"01a0686d-9d5e-701b-a93a-2cab28c6152b"}
+{"slug":"seat-wake-match-decide"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A priority is written `p` before its number."},{"decisionKind":"decision-kind/departure","statement":"A lower number is wanted sooner."}]}
+{"definition":"how soon a task is wanted against its siblings"}
+{"id":"01a05fc6-81fd-7764-b99b-b35b9b100540"}
+{"maxLength":4}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"priority"}
+{"slug":"priority"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

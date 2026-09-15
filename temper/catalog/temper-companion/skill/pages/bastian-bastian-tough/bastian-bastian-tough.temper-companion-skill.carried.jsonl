@@ -1,0 +1,13 @@
+{"abilityId":157245}
+{"companionId":"bastian"}
+{"description":"Increases Max Health by 3% and increases damage done by 3%."}
+{"icon":"/esoui/art/icons/passive_companion_dragonknight_017.dds"}
+{"id":"019e6484-3854-7de8-b88a-9a80cc6ffa59"}
+{"key":"bastian-tough"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-bastian"}
+{"skillType":"passive"}
+{"slug":"bastian-bastian-tough"}
+{"title":"Tough"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps","tank"]}

@@ -1,0 +1,11 @@
+{"action":"temper-item-action/sell"}
+{"active":false}
+{"categoryId":"trash"}
+{"description":"Sells items categorized as trash. These have no crafting or collectible value."}
+{"displayOrder":36}
+{"goal":"temper-rule-goal/sell"}
+{"id":"019e3104-2624-7509-9de0-8c51f78d2dfa"}
+{"key":"trash-sell"}
+{"slug":"trash-sell"}
+{"title":"Sell trash"}
+{"type":"page-type/temper-rule-template"}

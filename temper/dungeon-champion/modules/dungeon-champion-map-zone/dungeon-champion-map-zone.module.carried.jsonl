@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The zone is read from a texture path rather than asked of the game."}]}
+{"definition":"which zone and subzone the open map shows, read from the map tile texture"}
+{"id":"01a060f9-bac9-786e-a896-0143797eade0"}
+{"slug":"dungeon-champion-map-zone"}
+{"type":"page-type/module"}

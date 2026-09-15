@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A hook states its harness events."},{"decisionKind":"decision-kind/departure","statement":"A hook is registered at the events the hook states here."},{"decisionKind":"decision-kind/departure","statement":"A harness event is written as the harness writes the harness event."}]}
+{"definition":"the harness events at which a hook is called"}
+{"id":"01a04e0a-f8fb-7beb-b0b8-ac268528b27e"}
+{"propertySlug":"runs-at"}
+{"slug":"runs-at"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["PreToolUse","PostToolUse","UserPromptSubmit","Stop","StopFailure","Notification","PermissionRequest","SessionStart","SessionEnd","SubagentStart","SubagentStop","PreCompact","PostCompact"]}

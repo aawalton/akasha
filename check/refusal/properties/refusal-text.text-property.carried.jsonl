@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A hole is marked in braces and filled as the words are printed."},{"decisionKind":"decision-kind/departure","statement":"A hole named in the text and handed no value refuses the printing."}]}
+{"definition":"the words a refusal prints, with holes to fill"}
+{"id":"01a0699d-4001-7b32-8d47-5e19c4a7f003"}
+{"maxLength":2000}
+{"nameFormat":null}
+{"propertySlug":"text"}
+{"slug":"refusal-text"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

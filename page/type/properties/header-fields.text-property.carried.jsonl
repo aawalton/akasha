@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A header naming keys states those keys in the order those keys stand in."}]}
+{"definition":"the keys of the properties standing above the pages a page gathers"}
+{"id":"01a0683a-620a-7905-b43d-ad803b4fae71"}
+{"maxLength":64}
+{"nameFormat":"name-format/lower-camel-case"}
+{"propertySlug":"fields"}
+{"slug":"header-fields"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

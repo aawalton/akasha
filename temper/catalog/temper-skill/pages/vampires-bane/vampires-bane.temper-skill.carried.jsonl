@@ -1,0 +1,17 @@
+{"baseName":"Sun Fire"}
+{"description":"\"Blast an enemy with a charge of radiant heat, dealing 1161 Flame Damage, and an additional 5370 Flame Damage over 30 seconds.\\n\\nUpon activation you gain Major Savagery and Major Prophecy for 30 seconds, increasing your Weapon and Spell Critical rating by 2629.\""}
+{"esoSkillId":24180}
+{"icon":"/esoui/art/icons/ability_templar_vampire_bane.dds"}
+{"id":"019e6245-a75e-7be4-8bee-fe77af884d08"}
+{"isMorph":true}
+{"key":"vampires-bane"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"templar-dawns-wrath"}
+{"skillType":"active"}
+{"slug":"vampires-bane"}
+{"subcategoryId":"templar-dawns-wrath"}
+{"title":"Vampire's Bane"}
+{"type":"page-type/temper-skill"}

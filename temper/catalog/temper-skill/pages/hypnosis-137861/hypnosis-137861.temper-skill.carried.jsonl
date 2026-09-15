@@ -1,0 +1,17 @@
+{"baseName":"Mesmerize"}
+{"description":"\"Subdue enemies around you with your baleful gaze, stunning them for |cffffff5|r seconds if they are facing your direction.\\n\\nThis stun cannot be blocked.\""}
+{"esoSkillId":137861}
+{"icon":"/esoui/art/icons/ability_u26_vampire_04_a.dds"}
+{"id":"019e6f53-a33a-7d91-b6b3-cd97782971fb"}
+{"isMorph":true}
+{"key":"hypnosis-137861"}
+{"learnedLevel":1}
+{"lineRankNeeded":6}
+{"morphIndex":1}
+{"rank":6}
+{"skillLineId":"world-vampire"}
+{"skillType":"active"}
+{"slug":"hypnosis-137861"}
+{"subcategoryId":"world-vampire"}
+{"title":"Hypnosis"}
+{"type":"page-type/temper-skill"}

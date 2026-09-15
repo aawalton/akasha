@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The action set beside the seat names the supervisor-action page it reaches."}]}
+{"definition":"the action asked of a seat's supervisor, set and then waited on until it clears"}
+{"id":"01a069bd-bdc4-7370-ba29-d4c25882427e"}
+{"slug":"seat-action"}
+{"type":"page-type/module"}

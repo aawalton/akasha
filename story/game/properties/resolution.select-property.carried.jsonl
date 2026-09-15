@@ -1,0 +1,7 @@
+{"definition":"how a game settles what an action comes to"}
+{"id":"01a0673c-8e0e-7009-834e-edf6c52bf5fb"}
+{"propertySlug":"resolution"}
+{"slug":"resolution"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["none","formula","hybrid"]}

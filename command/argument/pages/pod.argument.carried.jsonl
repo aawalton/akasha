@@ -1,0 +1,7 @@
+{"id":"01a094eb-2b5e-7dc3-a279-52a2d84c74b3"}
+{"placeholder":"name"}
+{"said":"--pod"}
+{"slug":"pod"}
+{"takes":"the pod name to match as a prefix, read as a literal string"}
+{"type":"page-type/argument"}
+{"value":"text"}

@@ -1,0 +1,8 @@
+{"definition":"a group the skill lines are gathered under"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fca-cb8b-713e-b910-7148de1f3dbd"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-skill-line-category"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

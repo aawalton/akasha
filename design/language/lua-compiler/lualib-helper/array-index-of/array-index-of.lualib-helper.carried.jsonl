@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the index an array first has a value at, from an index onward"}
+{"id":"01a081ed-ab46-73fe-acfc-50f42a5e0313"}
+{"luaExport":"__TS__ArrayIndexOf"}
+{"slug":"array-index-of"}
+{"type":"page-type/lualib-helper"}

@@ -1,0 +1,8 @@
+{"definition":"a weapon a pairing takes in the main hand"}
+{"id":"01a05fcd-aed3-794f-9b17-277957dc2758"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"valid-main-hand-weapon-types"}
+{"slug":"valid-main-hand-weapon-types"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

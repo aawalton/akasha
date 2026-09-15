@@ -1,0 +1,11 @@
+{"accountUuid":"d37503c0-b37e-4b0c-9632-7ca1d7917d79"}
+{"aliasIndex":3}
+{"email":"alan@audhdalan.com"}
+{"id":"019db533-f3b2-7814-a3f7-99f52601a37c"}
+{"provider":"model-provider/anthropic"}
+{"rateLimitTier":"default_claude_max_20x"}
+{"renewalDay":18}
+{"scopes":["user:inference","user:mcp_servers","user:profile","user:sessions:claude_code"]}
+{"slug":"audhdalan"}
+{"subscriptionType":"max"}
+{"type":"page-type/model-account"}

@@ -1,0 +1,6 @@
+{"definition":"an Anthropic subscription put into service or brought back"}
+{"id":"01a07bcb-0b96-7437-a26f-deb498bea34d"}
+{"name":"model-account"}
+{"parts":["command/model-account-add","command/model-account-re-enable"]}
+{"slug":"model-account"}
+{"type":"page-type/namespace"}

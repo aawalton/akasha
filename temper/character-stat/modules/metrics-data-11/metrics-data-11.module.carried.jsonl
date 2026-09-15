@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The stats are named here in the order the gathered table answers its ids in."}]}
+{"definition":"character stats magicka-maximum through movement-walk-speed"}
+{"id":"01a06131-abb5-7ab1-ae64-ff8dbbc7b0f3"}
+{"slug":"metrics-data-11"}
+{"type":"page-type/module"}

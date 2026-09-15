@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches run time."}]}
+{"definition":"the shapes a map ping, a ping handler and the library object take"}
+{"id":"01a0605f-6260-741e-924b-a396ec57c80f"}
+{"slug":"map-ping-types"}
+{"type":"page-type/module"}

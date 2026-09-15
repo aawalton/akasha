@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An anchor the story itself tells names nobody here."}]}
+{"definition":"who in the story said the anchor"}
+{"id":"01a0685e-ef8a-79db-8377-e5f878c0cb0c"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"claimed-by"}
+{"slug":"anchor-claimed-by"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A field is observed rather than set."},{"decisionKind":"decision-kind/departure","statement":"Each value a field has is one observation."},{"decisionKind":"decision-kind/gap","statement":"How a field's values come to exist is a capture the field names."},{"decisionKind":"decision-kind/absence","statement":"No property here declares the capture a field names."}]}
+{"definition":"one aspect of Alan that takes a value each time it is observed"}
+{"extends":["page-type/page-property"]}
+{"id":"01a06827-ec0c-79f7-864d-da0cf491975e"}
+{"schema":"jsonl"}
+{"shapes":"jsonl"}
+{"slug":"tracking-field"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

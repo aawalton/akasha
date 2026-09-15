@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A key named here that the page type has no property for gathers nothing."}]}
+{"definition":"the key whose value gathers a page type's pages into one run"}
+{"id":"01a062de-2001-7001-8470-331eaddff9ce"}
+{"maxLength":64}
+{"nameFormat":"name-format/lower-camel-case"}
+{"propertySlug":"group-by"}
+{"slug":"sequence-group-by"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

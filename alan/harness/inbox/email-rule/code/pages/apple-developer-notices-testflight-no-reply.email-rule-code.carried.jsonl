@@ -1,0 +1,6 @@
+{"filing":"archive"}
+{"id":"01a06860-54a2-70ff-9565-a0c8d958fe8f"}
+{"matches":[{"field":"from","comparison":"is","values":["no_reply@email.apple.com","testflight_no_reply@email.apple.com"]},{"field":"subject","comparison":"contains","values":["completed processing","is now available to test"]},{"field":"from","comparison":"is","values":["testflight_no_reply@email.apple.com"]}]}
+{"slug":"apple-developer-notices-testflight-no-reply"}
+{"title":"Apple developer notices testflight no reply"}
+{"type":"page-type/email-rule-code"}

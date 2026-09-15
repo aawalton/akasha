@@ -1,0 +1,19 @@
+{"baseName":"Blade of Woe"}
+{"description":"\"Call the weapon of the Dark Brotherhood to your hand and deliver a killing blow to an unsuspecting target. Experience from this target is reduced by 75%.\\n\\nThis ability does not work on players or difficult targets.\""}
+{"effects":"jsonl"}
+{"esoSkillId":78219}
+{"icon":"/esoui/art/icons/ability_darkbrotherhood_passive_001.dds"}
+{"id":"019e6238-c29a-7a25-8b47-07dca48a8025"}
+{"isMorph":false}
+{"key":"blade-of-woe"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"guild-dark-brotherhood"}
+{"skillType":"passive"}
+{"slug":"blade-of-woe"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-dark-brotherhood"}
+{"title":"Blade of Woe"}
+{"type":"page-type/temper-skill"}

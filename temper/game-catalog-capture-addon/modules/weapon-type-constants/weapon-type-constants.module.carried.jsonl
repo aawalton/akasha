@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each number is read out of the client rather than written down here."}]}
+{"definition":"the weapon type numbers the game client has, each under the name the client spells it with"}
+{"id":"01a06127-664b-74e0-9590-d80f5209e436"}
+{"slug":"weapon-type-constants"}
+{"type":"page-type/module"}

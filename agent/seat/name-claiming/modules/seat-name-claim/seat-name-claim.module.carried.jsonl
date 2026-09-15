@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One name reaches one seat."},{"decisionKind":"decision-kind/departure","statement":"A name reading as an id is refused."},{"decisionKind":"decision-kind/departure","statement":"A seat retaking the name the seat already has is allowed without any further test."},{"decisionKind":"decision-kind/departure","statement":"A name held by a seat with a process in the seat is refused unless the caller says to take the name."},{"decisionKind":"decision-kind/departure","statement":"A caller whose own seat has the name takes the name back without saying so."},{"decisionKind":"decision-kind/absence","statement":"Whether a name matches a declared shape is not judged here."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes the values a seat states."}]}
+{"definition":"whether a seat may take the name it asks for"}
+{"id":"01a05ded-fa5d-7000-b57d-b4a2a894e5e6"}
+{"slug":"seat-name-claim"}
+{"test":"ts"}
+{"type":"page-type/module"}

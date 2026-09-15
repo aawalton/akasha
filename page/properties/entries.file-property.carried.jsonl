@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A line is appended rather than written over."},{"decisionKind":"decision-kind/departure","statement":"A line names the phase its run was judged at."},{"decisionKind":"decision-kind/departure","statement":"A line has the cost of the child processes a check waited on."},{"decisionKind":"decision-kind/departure","statement":"Memory is read as the high-water mark the run moved."},{"decisionKind":"decision-kind/departure","statement":"A file's fill is read from its size rather than from its text."},{"decisionKind":"decision-kind/departure","statement":"Entries are kept outside the commit."},{"decisionKind":"decision-kind/departure","statement":"No page states its own entries."},{"decisionKind":"decision-kind/absence","statement":"Nothing here judges a run's cost."},{"decisionKind":"decision-kind/absence","statement":"A run that cannot be recorded is not a run that is refused."}]}
+{"definition":"what one run cost, one line appended as that run ends"}
+{"extensions":["jsonl"]}
+{"generated":true}
+{"id":"01a06dc1-5cd2-7bc0-b943-c68e1d872c39"}
+{"keptForHours":24}
+{"propertySlug":"entries"}
+{"slug":"entries"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

@@ -1,0 +1,11 @@
+{"description":"Grants Speed, Restore Magicka, Protection."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_002_type_005.dds"}
+{"id":"019e21f6-406d-7fb4-aaca-8547f12a16b8"}
+{"key":"expedition-intellect-protection-magicka-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Dragon Rheum","Powdered Mother of Pearl","Vile Coagulant"]}]}
+{"seconds":47}
+{"slug":"expedition-intellect-protection-magicka-restore"}
+{"title":"Essence of Magicka"}
+{"type":"page-type/temper-potion-crafted"}

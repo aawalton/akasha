@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"every descriptor an object's own metatable holds"}
+{"id":"01a08c43-53c5-75eb-8555-d0523cfdafb3"}
+{"luaExport":"__TS__ObjectGetOwnPropertyDescriptors"}
+{"slug":"object-get-own-property-descriptors"}
+{"type":"page-type/lualib-helper"}

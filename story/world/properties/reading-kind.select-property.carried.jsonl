@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reading whose kind is `unsure` is a reading nobody has ruled on yet."}]}
+{"definition":"what sort of thing a name in a world's text names"}
+{"id":"01a063ce-6216-7005-95f1-cc6876e8a107"}
+{"propertySlug":"reading-kind"}
+{"slug":"reading-kind"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["aspect","boon","carried-memory","character","class","condition","curse","enchantment","item","legacy","miracle","none","quest","recipe","religion","reputation","skill","song","species","spell","title","unsure"]}

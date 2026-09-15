@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The shell putting these globals on the window is built outside akasha."},{"decisionKind":"decision-kind/departure","statement":"A browser outside that shell carries no such global."}]}
+{"definition":"the Capacitor shell and its push plugin, as a page in that shell finds them"}
+{"id":"01a0881b-03c9-76d7-910e-803dd38e06fa"}
+{"slug":"jenny-capacitor-globals"}
+{"type":"page-type/type-declaration"}

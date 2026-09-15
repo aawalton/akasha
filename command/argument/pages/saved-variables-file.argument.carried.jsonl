@@ -1,0 +1,7 @@
+{"id":"01a094d0-693a-7ef0-af92-ab257f8957a0"}
+{"placeholder":"path"}
+{"said":"--saved-variables-file"}
+{"slug":"saved-variables-file"}
+{"takes":"the file the catalog addon's collected data is read from"}
+{"type":"page-type/argument"}
+{"value":"path"}

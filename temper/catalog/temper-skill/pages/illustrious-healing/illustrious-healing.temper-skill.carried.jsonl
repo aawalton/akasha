@@ -1,0 +1,17 @@
+{"baseName":"Grand Healing"}
+{"description":"\"Summon restoring spirits with your staff, healing you and your allies in the target area for 5486 Health over 15 seconds.\""}
+{"esoSkillId":41255}
+{"icon":"/esoui/art/icons/ability_restorationstaff_004b.dds"}
+{"id":"019e6226-00fb-7c04-9938-19c43d3850cb"}
+{"isMorph":true}
+{"key":"illustrious-healing"}
+{"learnedLevel":2}
+{"lineRankNeeded":2}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"illustrious-healing"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Illustrious Healing"}
+{"type":"page-type/temper-skill"}

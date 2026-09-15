@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An entry stating nothing here states the opposite."}]}
+{"definition":"whether a transaction has yet to clear"}
+{"id":"01a0680b-2b00-7010-8a46-3e9c7b2d2111"}
+{"propertySlug":"pending"}
+{"slug":"pending"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

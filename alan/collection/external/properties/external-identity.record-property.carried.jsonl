@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A collection two providers hold a record of states two of these."},{"decisionKind":"decision-kind/departure","statement":"A provider holds one record of one collection."},{"decisionKind":"decision-kind/departure","statement":"Every one of these names the provider it came from."},{"decisionKind":"decision-kind/departure","statement":"Every one of these states an id or a link."},{"decisionKind":"decision-kind/departure","statement":"A sync reaches only the one naming the provider that answered."},{"decisionKind":"decision-kind/departure","statement":"One never synced states no moment it was synced at."}]}
+{"definition":"one provider's record of a collection, and what that provider calls it"}
+{"id":"01a09ba1-cc57-7d8f-8460-fd32ebb90bef"}
+{"properties":[{"pageProperty":"select-property/source","required":true,"many":false},{"pageProperty":"text-property/external-id","required":false,"many":false},{"pageProperty":"url-property/external-link","required":false,"many":false},{"pageProperty":"calendar-date-property/last-synced-at","required":false,"many":false}]}
+{"propertySlug":"external-identity"}
+{"slug":"external-identity"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

@@ -1,0 +1,19 @@
+{"baseName":"Elemental Explosion"}
+{"description":"Deals 4009 Physical Damage to enemies."}
+{"esoSkillId":229857}
+{"focusScriptId":"physical-damage"}
+{"grimoireId":"elemental-explosion"}
+{"icon":"/esoui/art/icons/ability_grimoire_staffdestro.dds"}
+{"id":"019e6471-15a9-74d5-9de5-94bfb07902bc"}
+{"isMorph":false}
+{"key":"scribed-elemental-explosion-physical-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"scribed-elemental-explosion-physical-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Sundering Explosion"}
+{"type":"page-type/temper-scribed-skill"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A panel under no filter says how many rows the panel drew."},{"decisionKind":"decision-kind/departure","statement":"One row is said in the singular."},{"decisionKind":"decision-kind/departure","statement":"A panel under a filter says the rows that matched of the rows drawn."},{"decisionKind":"decision-kind/departure","statement":"A count of no rows matched is a count."},{"decisionKind":"decision-kind/departure","statement":"A filter matching no row says a count of no rows."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a tree or a panel."}]}
+{"definition":"what a panel says beside its title of how many rows that panel drew"}
+{"id":"01a081eb-4c68-74d1-b315-5777eb9c2046"}
+{"slug":"tree-description"}
+{"test":"ts"}
+{"type":"page-type/module"}

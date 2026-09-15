@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/every-seat","required":true}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The ask is written and the signal sent in one motion."},{"decisionKind":"decision-kind/departure","statement":"A supervisor is signalled only where the start time read now matches the start time held."},{"decisionKind":"decision-kind/departure","statement":"A seat with no readable process is reported rather than signalled."},{"decisionKind":"decision-kind/departure","statement":"A seat whose supervisor is gone is reported rather than signalled."},{"decisionKind":"decision-kind/departure","statement":"A signal that could not be sent is reported against the seat the signal was meant for."},{"decisionKind":"decision-kind/departure","statement":"Every seat is acted on rather than the run stopping at the first that refuses."},{"decisionKind":"decision-kind/departure","statement":"A fleet answered as holding no seat is the pages being wrong."},{"decisionKind":"decision-kind/departure","statement":"A restart reaches every seat."},{"decisionKind":"decision-kind/departure","statement":"The seats reached are the seats the index files, whatever folder they sit in."},{"decisionKind":"decision-kind/departure","statement":"Each seat is named as soon as that seat has been asked and signalled."},{"decisionKind":"decision-kind/departure","statement":"A restart that threw part way names those seats in its refusal."},{"decisionKind":"decision-kind/departure","statement":"The restarting this runs is handed in."},{"decisionKind":"decision-kind/absence","statement":"Nothing here restarts a client."}]}
+{"definition":"the command restarting every seat's supervisor onto the code standing now"}
+{"id":"01a0797a-9a55-76c0-be3e-c9b1dfbef462"}
+{"name":"restart"}
+{"slug":"seat-supervisor-restart"}
+{"test":"ts"}
+{"type":"page-type/command"}

@@ -1,0 +1,7 @@
+{"definition":"the service carrying the surplus hours to the sites that show them"}
+{"enabled":true}
+{"id":"01a05fc3-145a-7083-9cec-6a873c631afe"}
+{"needsSecrets":true}
+{"slug":"surplus-relay-service"}
+{"systemd":{"schedule":"*:2/5","jitterSeconds":30,"startTimeoutSeconds":60,"catchUp":false}}
+{"type":"page-type/service-workstation"}

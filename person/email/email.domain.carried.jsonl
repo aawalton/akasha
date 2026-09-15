@@ -1,0 +1,5 @@
+{"definition":"the email a person sends and receives"}
+{"id":"01a0675b-16e0-7215-9513-396b136194b4"}
+{"parts":["domain/email-action","domain/email-rule-delay","domain/email-rule-match","page-type/email-message","page-type/gmail-mailbox"]}
+{"slug":"email"}
+{"type":"page-type/domain"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The one shape a uuid is written in is 8-4-4-4-12 hex digits."},{"decisionKind":"decision-kind/absence","statement":"Which version or variant a uuid has is not judged here."},{"decisionKind":"decision-kind/absence","statement":"`id-is-a-uuid-version-7` judges which version or variant a uuid has."}]}
+{"definition":"a name format joining hex groups with hyphens, all letters lower"}
+{"id":"01a04eba-7459-7836-ab9f-30dd5c70d710"}
+{"slug":"lower-uuid"}
+{"test":"ts"}
+{"type":"page-type/name-format"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An agent id reaches the page whose readings are that agent's."},{"decisionKind":"decision-kind/departure","statement":"A subagent's agent id joins its seat's id to the id the subagent runs under."},{"decisionKind":"decision-kind/departure","statement":"Two hyphens part the seat's id from the id the subagent runs under."}]}
+{"definition":"the id an agent acts under"}
+{"id":"01a062c8-99b7-7bd3-91ac-676da441cf14"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"agent-id"}
+{"slug":"agent-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

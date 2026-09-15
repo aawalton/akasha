@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the iterator over an array's index and element pairs"}
+{"id":"01a081de-1f79-775e-86d8-21783c2349a9"}
+{"luaExport":"__TS__ArrayEntries"}
+{"slug":"array-entries"}
+{"type":"page-type/lualib-helper"}

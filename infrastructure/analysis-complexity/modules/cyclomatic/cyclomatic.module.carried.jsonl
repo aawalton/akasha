@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A function with no body counts one."},{"decisionKind":"decision-kind/departure","statement":"A branch inside a nested function counts against that function alone."},{"decisionKind":"decision-kind/departure","statement":"An optional chain is a branch."}]}
+{"definition":"the count of independent paths through a function"}
+{"id":"01a0680f-d1b7-75cd-9668-69db68df9b0f"}
+{"slug":"cyclomatic"}
+{"type":"page-type/module"}

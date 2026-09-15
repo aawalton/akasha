@@ -1,0 +1,17 @@
+{"baseName":"Vigor"}
+{"description":"\"Let loose a battle cry, instilling yourself and nearby allies with resolve and healing them for |cffffff10950|r Health over |cffffff10|r seconds.\""}
+{"esoSkillId":61503}
+{"icon":"/esoui/art/icons/ability_ava_vigor.dds"}
+{"id":"019e6f53-a9c4-76c6-8322-fe0d48b51c66"}
+{"isMorph":false}
+{"key":"vigor"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"vigor"}
+{"subcategoryId":"alliance-war-assault"}
+{"title":"Vigor"}
+{"type":"page-type/temper-skill"}

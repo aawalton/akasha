@@ -1,0 +1,17 @@
+{"baseName":"Cripple"}
+{"description":"\"Sap an enemy's agility and wrack them with pain, dealing 4785 Magic Damage over 20 seconds and reducing their Movement Speed by 50% for 4 seconds.\\n\\nThis ability has a higher chance of applying the Overcharged status effect.\""}
+{"esoSkillId":37887}
+{"icon":"/esoui/art/icons/ability_nightblade_006_a.dds"}
+{"id":"019e6245-a646-7e99-8b91-8490561cd1eb"}
+{"isMorph":true}
+{"key":"debilitate"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"nightblade-siphoning"}
+{"skillType":"active"}
+{"slug":"debilitate"}
+{"subcategoryId":"nightblade-siphoning"}
+{"title":"Debilitate"}
+{"type":"page-type/temper-skill"}

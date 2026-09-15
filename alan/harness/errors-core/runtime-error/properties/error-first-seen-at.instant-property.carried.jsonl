@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The moment an error was first met is the moment the error's page was filed."},{"decisionKind":"decision-kind/departure","statement":"The moment an error was first met never moves."},{"decisionKind":"decision-kind/departure","statement":"The moment an error was first met is written into the commit."}]}
+{"definition":"when an error was met for the first time"}
+{"id":"01a05f3f-e3e0-79ae-a33f-a08a9966c72b"}
+{"propertySlug":"first-seen-at"}
+{"slug":"error-first-seen-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

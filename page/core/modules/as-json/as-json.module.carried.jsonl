@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Nothing here reads the value this module renames."},{"decisionKind":"decision-kind/departure","statement":"A caller wanting the value read names `is-json` instead."}]}
+{"definition":"a value called json without being read to see whether it is"}
+{"id":"01a05cc0-fc8b-72c7-b9e9-7a512a9927d8"}
+{"slug":"as-json"}
+{"type":"page-type/module"}

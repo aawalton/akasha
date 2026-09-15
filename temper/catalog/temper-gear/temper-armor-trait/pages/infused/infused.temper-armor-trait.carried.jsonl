@@ -1,0 +1,10 @@
+{"displayOrder":3}
+{"effect":"Increases Armor Enchantment effect"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_ARMOR_INFUSED"}
+{"id":"01a05fb2-1bcf-740b-839d-2f0819a8a7ad"}
+{"key":"infused"}
+{"material":"Bloodstone"}
+{"qualityValues":"jsonl"}
+{"slug":"infused"}
+{"title":"Infused"}
+{"type":"page-type/temper-armor-trait"}

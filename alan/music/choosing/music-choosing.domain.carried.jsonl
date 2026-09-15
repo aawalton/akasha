@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Spotify is reached only through the `spotify` domain."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a page."},{"decisionKind":"decision-kind/absence","statement":"Nothing here commands the player."}]}
+{"definition":"the choice of what Alan hears next"}
+{"id":"01a06281-4d9d-7000-8324-01f8e3c762a1"}
+{"parts":["module/music-exploration","module/rating-ladder","module/track-candidate","module/track-resolving"]}
+{"slug":"music-choosing"}
+{"type":"page-type/domain"}

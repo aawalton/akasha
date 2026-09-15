@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An agent whose processes form one tree has outlived no tree."},{"decisionKind":"decision-kind/departure","statement":"The tree kept is the tree with the stated keeper."},{"decisionKind":"decision-kind/departure","statement":"The tree kept where no keeper is stated is the tree holding the newest process."},{"decisionKind":"decision-kind/departure","statement":"A process the caller is running in is never read as another agent's process."},{"decisionKind":"decision-kind/departure","statement":"The invocation a caller runs inside reaches up to the nearest agent process."}]}
+{"definition":"an agent's processes: which whole trees it has outlived, and which are the caller's own"}
+{"id":"01a0686d-9d5e-700a-b949-3878b576dfa8"}
+{"slug":"agent-proc-tree"}
+{"test":"ts"}
+{"type":"page-type/module"}

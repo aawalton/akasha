@@ -1,0 +1,9 @@
+{"definition":"the eso api tokens chosen to be declared"}
+{"extends":["page-type/domain"]}
+{"id":"01a081b0-6ef0-79f7-8191-4b78fb717423"}
+{"parts":["file-property/tokens"]}
+{"properties":[{"pageProperty":"file-property/tokens","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"eso-opt-in-list"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

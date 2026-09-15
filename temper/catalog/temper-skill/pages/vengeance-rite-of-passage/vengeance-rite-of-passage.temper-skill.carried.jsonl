@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Rite of Passage"}
+{"description":"\"Channel the grace of the gods, healing you or 3 nearby allies for |cffffff12852|r Health every |cffffff1|r second for |cffffff3|r seconds.\\n\\nWhile channeling this ability you gain immunity to all disabling effects.\""}
+{"esoSkillId":237994}
+{"icon":"/esoui/art/icons/ability_templar_rite_of_passage.dds"}
+{"id":"019e6f53-a96a-7fc0-aa51-0d5cb140a513"}
+{"isMorph":false}
+{"key":"vengeance-rite-of-passage"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-templar-restoring-light"}
+{"skillType":"ultimate"}
+{"slug":"vengeance-rite-of-passage"}
+{"subcategoryId":"vengeance-templar-restoring-light"}
+{"title":"Vengeance Rite of Passage"}
+{"type":"page-type/temper-skill"}

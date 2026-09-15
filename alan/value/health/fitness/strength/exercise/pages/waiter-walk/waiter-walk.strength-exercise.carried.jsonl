@@ -1,0 +1,23 @@
+{"equipment":"strength-exercise-implement/kettlebells"}
+{"exerciseCategory":"strength"}
+{"exerciseLevel":"intermediate"}
+{"exerciseSource":"aelwyn-custom"}
+{"force":"static"}
+{"gripDemand":"low"}
+{"id":"019f9756-dcfc-7e43-971c-5ad4fd9130ae"}
+{"implementCount":1}
+{"isBallistic":false}
+{"laterality":"unilateral"}
+{"loadFactor":0}
+{"mechanic":"compound"}
+{"movementPattern":"carry"}
+{"muscleFocus":"push"}
+{"primaryMuscles":["shoulders","forearms"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["traps","abdominals"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"waiter-walk"}
+{"title":"Waiter Walk"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

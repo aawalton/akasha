@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Another add-on reaches this add-on through the global rather than through an import."},{"decisionKind":"decision-kind/departure","statement":"The global has this add-on's name and version and nothing else."},{"decisionKind":"decision-kind/departure","statement":"A tracker's own global is published by that tracker's own package."}]}
+{"definition":"the global another add-on reaches this one by"}
+{"id":"01a0624c-a660-708c-9324-7aa221750530"}
+{"slug":"collections-addon-global"}
+{"type":"page-type/module"}

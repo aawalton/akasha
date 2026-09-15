@@ -1,0 +1,8 @@
+{"definition":"a repository's mirror is missing refs the bare repository has"}
+{"domain":"git-repos"}
+{"id":"01a06755-62f9-7f02-9ed3-856e536f328e"}
+{"runbook":"txt"}
+{"slug":"git-mirror-refs-behind"}
+{"summary":"git mirror for {{ $labels.repo }} is {{ $value }} ref(s) behind its bare repo"}
+{"title":"Git mirror refs behind"}
+{"type":"page-type/alert"}

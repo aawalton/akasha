@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Spirit Mender"}
+{"description":"\"Conjure a ghostly spirit to do your bidding and heal you or an ally for |cffffff24096|r Health over |cffffff5|r seconds.\""}
+{"esoSkillId":238265}
+{"icon":"/esoui/art/icons/ability_necromancer_015.dds"}
+{"id":"019e6f53-a990-7572-943d-6b3d2bb95cb4"}
+{"isMorph":false}
+{"key":"vengeance-spirit-mender"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-necromancer-living-death"}
+{"skillType":"active"}
+{"slug":"vengeance-spirit-mender"}
+{"subcategoryId":"vengeance-necromancer-living-death"}
+{"title":"Vengeance Spirit Mender"}
+{"type":"page-type/temper-skill"}

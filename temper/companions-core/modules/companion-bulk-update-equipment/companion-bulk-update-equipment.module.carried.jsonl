@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The off-hand slot is skipped in the loop and mirrored from main-hand afterward."},{"decisionKind":"decision-kind/constraint","statement":"Mirroring to off-hand is suppressed when the main-hand weapon is two-handed."},{"decisionKind":"decision-kind/gap","statement":"A slot whose current value differs from the old value is left untouched."}]}
+{"definition":"bulk replacement of one trait or quality value across companion equipment slots"}
+{"id":"01a06152-c2c5-7e0c-8688-41d1ac8871ea"}
+{"slug":"companion-bulk-update-equipment"}
+{"type":"page-type/module"}

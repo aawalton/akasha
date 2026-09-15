@@ -1,0 +1,17 @@
+{"baseName":"Farsight"}
+{"description":"\"Claim a line of facets, stretching out from your area of control.\\n\\nConsumes 1 Magicka Charge.\""}
+{"esoSkillId":139309}
+{"icon":"/esoui/art/icons/ability_scrying_03.dds"}
+{"id":"019e6f53-a1e0-707c-8ea3-3986d55cad01"}
+{"isMorph":false}
+{"key":"farsight-139309"}
+{"learnedLevel":1}
+{"lineRankNeeded":6}
+{"morphIndex":0}
+{"rank":6}
+{"skillLineId":"world-scrying"}
+{"skillType":"passive"}
+{"slug":"farsight-139309"}
+{"subcategoryId":"world-scrying"}
+{"title":"Farsight"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"how long a screen waits for the page store to come up before it draws without it"}
+{"id":"01a05c7d-d068-79aa-9ca7-ec600a058f2d"}
+{"slug":"boot-gate"}
+{"type":"page-type/module"}

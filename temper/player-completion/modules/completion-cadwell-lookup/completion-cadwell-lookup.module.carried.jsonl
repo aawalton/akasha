@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The Cadwell catalog arrives as an argument rather than as an imported table."},{"decisionKind":"decision-kind/departure","statement":"A stop is matched by its zone name and its own name taken together."},{"decisionKind":"decision-kind/departure","statement":"A level's tier number is the display order its page states."}]}
+{"definition":"which stop of Cadwell's Almanac a character has finished"}
+{"id":"01a06358-4f7c-7d6d-8881-1e898924e3ff"}
+{"slug":"completion-cadwell-lookup"}
+{"test":"ts"}
+{"type":"page-type/module"}

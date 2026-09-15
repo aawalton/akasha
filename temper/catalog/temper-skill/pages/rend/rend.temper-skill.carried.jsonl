@@ -1,0 +1,17 @@
+{"baseName":"Lacerate"}
+{"description":"\"Slash enemies in front of you, causing them to bleed for 12942 Bleed Damage over 16 seconds and healing you for 50% of the damage done.\\n\\nEach tick applies the Hemorrhaging status effect.\""}
+{"esoSkillId":86393}
+{"icon":"/esoui/art/icons/ability_dualwield_006_a.dds"}
+{"id":"019e6226-010c-7531-90ff-eadbdd8ebe2c"}
+{"isMorph":true}
+{"key":"rend"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"ultimate"}
+{"slug":"rend"}
+{"subcategoryId":"weapon-dual-wield"}
+{"title":"Rend"}
+{"type":"page-type/temper-skill"}

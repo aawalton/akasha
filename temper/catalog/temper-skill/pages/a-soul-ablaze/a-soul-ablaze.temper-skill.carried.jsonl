@@ -1,0 +1,17 @@
+{"baseName":"A Soul Ablaze"}
+{"description":"\"The will to survive burns bright in your chest.\\n\\nIncreases your Healing Taken by |cffffff4|r%.\""}
+{"esoSkillId":29451}
+{"icon":"/esoui/art/icons/ability_weapon_001.dds"}
+{"id":"019e6f53-9e7c-7b80-a32b-a02cf760a80d"}
+{"isMorph":false}
+{"key":"a-soul-ablaze"}
+{"learnedLevel":39}
+{"lineRankNeeded":39}
+{"morphIndex":0}
+{"rank":39}
+{"skillLineId":"dragonknight-ardent-flame"}
+{"skillType":"passive"}
+{"slug":"a-soul-ablaze"}
+{"subcategoryId":"dragonknight-ardent-flame"}
+{"title":"A Soul Ablaze"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,18 @@
+{"baseName":"Hideous Clarity"}
+{"description":"\"You've stared too long into the abyss. When you generate Crux, you restore 225 Magicka and Stamina.\""}
+{"esoSkillId":185243}
+{"icon":"/esoui/art/icons/passive_arcanist_10.dds"}
+{"id":"019e6245-a6a6-701d-810e-ce8c68fde0c3"}
+{"isMorph":false}
+{"key":"hideous-clarity"}
+{"learnedLevel":27}
+{"lineRankNeeded":27}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"arcanist-curative-runeforms"}
+{"skillType":"passive"}
+{"slug":"hideous-clarity"}
+{"status":"unsupported"}
+{"subcategoryId":"arcanist-curative-runeforms"}
+{"title":"Hideous Clarity"}
+{"type":"page-type/temper-skill"}

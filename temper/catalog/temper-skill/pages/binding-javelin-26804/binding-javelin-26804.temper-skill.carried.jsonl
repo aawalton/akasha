@@ -1,0 +1,17 @@
+{"baseName":"Piercing Javelin"}
+{"description":"\"Hurl your spear at an enemy with godlike strength, dealing |cffffff4845|r Physical Damage and stunning them for |cffffff4|r seconds.\\n\\nThis ability ignores the enemy's Resistances and cannot be blocked.\""}
+{"esoSkillId":26804}
+{"icon":"/esoui/art/icons/ability_templar_light_spear.dds"}
+{"id":"019e6f53-9f0b-73bb-acac-d23fe932d176"}
+{"isMorph":true}
+{"key":"binding-javelin-26804"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":4}
+{"skillLineId":"templar-aedric-spear"}
+{"skillType":"active"}
+{"slug":"binding-javelin-26804"}
+{"subcategoryId":"templar-aedric-spear"}
+{"title":"Binding Javelin"}
+{"type":"page-type/temper-skill"}

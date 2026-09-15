@@ -1,0 +1,12 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/move-to"}
+{"active":true}
+{"categoryId":"scrolls"}
+{"conditions":"jsonl"}
+{"destination":"character:8796093022338107"}
+{"displayOrder":0}
+{"id":"01a0728a-f56c-72a8-b208-019bf4973519"}
+{"slug":"rule-52020b3f"}
+{"title":"Scrolls"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-09-12T12:02:38.463Z"}

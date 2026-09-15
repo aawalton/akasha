@@ -1,0 +1,7 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A nav page is drawn as the page that nav item points at."},{"decisionKind":"decision-kind/departure","statement":"A page type reaching no page is looked for again among that type's descendants."}]}
+{"definition":"one page, drawn with its properties"}
+{"id":"01a0883d-a94b-761e-a164-2900c651ecf8"}
+{"slug":"atlas-page-detail"}
+{"type":"page-type/route"}
+{"urlPath":":pageTypeSlug/:pageHrefParam"}

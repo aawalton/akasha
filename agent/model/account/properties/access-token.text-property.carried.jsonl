@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The access token sits in the page's sops file rather than in the page."}]}
+{"definition":"the token a call to Anthropic carries"}
+{"id":"01a054d8-1d39-7ce5-b138-6d39609810b0"}
+{"maxLength":4000}
+{"nameFormat":null}
+{"propertySlug":"access-token"}
+{"slug":"access-token"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

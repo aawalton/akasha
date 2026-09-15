@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Skills are slotted before gear is equipped."}]}
+{"definition":"equipping and slotting a companion to match a target build"}
+{"id":"01a0611d-84cf-76fc-9899-547c8ff795c5"}
+{"slug":"companions-apply-build"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Reaching a function before the library is initialized is an error."}]}
+{"definition":"the coordinate functions the library object carries"}
+{"id":"01a0614d-475f-7750-9fee-976d2964bf0f"}
+{"slug":"gps-api"}
+{"type":"page-type/module"}

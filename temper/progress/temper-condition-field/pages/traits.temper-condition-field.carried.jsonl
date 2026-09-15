@@ -1,0 +1,6 @@
+{"description":"An item's trait number is turned into a temper trait id, which must appear in the list of trait ids stated."}
+{"id":"01a07209-6b53-7da4-a5c6-20b6d00133c6"}
+{"key":"traits"}
+{"slug":"traits"}
+{"title":"Traits"}
+{"type":"page-type/temper-condition-field"}

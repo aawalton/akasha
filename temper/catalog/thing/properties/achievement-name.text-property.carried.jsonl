@@ -1,0 +1,8 @@
+{"definition":"the name an achievement is shown under"}
+{"id":"01a05fca-cb80-7a63-b1f8-d02f76f595f0"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"name"}
+{"slug":"achievement-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

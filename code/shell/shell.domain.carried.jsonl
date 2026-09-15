@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"The native shell an iOS app is built into is not this package."},{"decisionKind":"decision-kind/departure","statement":"A value written into a command is written so the shell reads that value as one word."}]}
+{"definition":"text a POSIX shell reads as a command"}
+{"id":"01a05d9b-277a-7000-be3d-95c4cf94638d"}
+{"parts":["domain/shell-terminal","module/quoting"]}
+{"slug":"shell"}
+{"type":"page-type/domain"}

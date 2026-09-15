@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The stats are named here in the order the gathered table answers its ids in."}]}
+{"definition":"character stats healing-done-single-target through la-flame-spell-damage"}
+{"id":"01a06131-abb4-74d9-a412-b1aedc769695"}
+{"slug":"metrics-data-08"}
+{"type":"page-type/module"}

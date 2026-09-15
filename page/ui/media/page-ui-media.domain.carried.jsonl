@@ -1,0 +1,5 @@
+{"definition":"the sound and picture a page carries"}
+{"id":"01a071d0-4b6a-724c-8d8b-5d9ece92248e"}
+{"parts":["module/is-webkit","module/media-renditions","module/media-src","module/media-token","module/native-tts-adapter","module/page-media-player","module/play-from-sentence","module/playing-session","module/playing-session-chain","module/playing-session-context","module/playing-session-storage","module/resolve-active-sentence","module/sentence-narration-context","module/serve-media","module/transport-selection","module/use-audio-auto-advance","module/use-audio-seek-and-play","module/use-audio-time-subscription","module/use-audio-transport","module/use-cross-mode-position-write","module/use-native-tts-transport","module/use-persist-audio-session","module/use-persistent-audio-container","module/use-shell-media-src","module/use-webkit-read-aloud-ensure"]}
+{"slug":"page-ui-media"}
+{"type":"page-type/domain"}

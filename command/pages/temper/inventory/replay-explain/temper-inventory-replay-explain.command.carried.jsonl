@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/inventory-path"},{"argument":"argument/itemlink"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The trace given back is the trace the addon stored."},{"decisionKind":"decision-kind/departure","statement":"An item link the stored trace does not carry refuses the call."},{"decisionKind":"decision-kind/departure","statement":"The refusal names the item the stored trace has."},{"decisionKind":"decision-kind/absence","statement":"Nothing here evaluates a rule."},{"decisionKind":"decision-kind/gap","statement":"A stored trace carries the junk state the game answered."}]}
+{"definition":"the command giving back the addon's last stored explain trace"}
+{"id":"01a0603c-c1d6-752a-86f1-3c9eca4b7916"}
+{"name":"replay-explain"}
+{"slug":"temper-inventory-replay-explain"}
+{"test":"ts"}
+{"type":"page-type/command"}

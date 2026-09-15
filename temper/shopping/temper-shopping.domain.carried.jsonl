@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A plan here names the listings to buy rather than buying anything."},{"decisionKind":"decision-kind/departure","statement":"A listing at an already chosen kiosk wins a tie on price."},{"decisionKind":"decision-kind/departure","statement":"A budget ceiling rises as the market for an item thins."},{"decisionKind":"decision-kind/absence","statement":"No price here is asked of the game."}]}
+{"definition":"which guild trader listings to buy and how few kiosks that takes"}
+{"id":"01a060cf-b0ae-749c-8084-93aa1e9a4247"}
+{"parts":["module/companion-gear-shopping-bridge","module/shopping-settings","module/ttc-budget-strategy","module/ttc-quality-text-classes","module/ttc-shopping-optimizer","module/ttc-shopping-types"]}
+{"slug":"temper-shopping"}
+{"type":"page-type/domain"}

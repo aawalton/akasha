@@ -1,0 +1,7 @@
+{"definition":"which side Alan played"}
+{"id":"01a06582-bd62-7f64-abc7-2bde8817177b"}
+{"propertySlug":"player-color"}
+{"slug":"player-color"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["white","black"]}

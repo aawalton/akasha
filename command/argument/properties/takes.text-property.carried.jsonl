@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The takes text sits on one line beside the said text."}]}
+{"definition":"what one thing a command takes is for"}
+{"id":"01a05027-c468-7573-9eec-f4d1ecd0bced"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"takes"}
+{"slug":"takes"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

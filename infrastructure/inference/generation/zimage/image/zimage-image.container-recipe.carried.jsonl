@@ -1,0 +1,5 @@
+{"definition":"the image Z-Image runs ComfyUI from on a Blackwell card"}
+{"id":"01a06815-9efd-7031-a984-cc177378d515"}
+{"recipe":"dockerfile"}
+{"slug":"zimage-image"}
+{"type":"page-type/container-recipe"}

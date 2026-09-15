@@ -1,0 +1,21 @@
+{"black":"King (the opposition)"}
+{"collection":"endgame-classics"}
+{"externalId":"master-games_study-kp-opposition"}
+{"fen":"8/8/4k3/8/4K3/4P3/8/8 b - - 0 1"}
+{"handle":"master-games"}
+{"id":"019f248f-e850-7205-8e06-f4cafc478427"}
+{"lesson":"K+P endgame: the opposition - keep your king in front of the pawn, take the opposition, and outflank to force promotion"}
+{"pgn":"pgn"}
+{"playedAt":"1900-01-01T00:00:00.000Z"}
+{"ply":24}
+{"rated":false}
+{"result":"1-0"}
+{"slug":"master-games-study-kp-opposition"}
+{"source":"master-games"}
+{"sourceGameId":"study-kp-opposition"}
+{"speed":"classical"}
+{"title":"King and pawn vs King (the opposition) · classical · 1900-01-01"}
+{"type":"page-type/chess-game"}
+{"variant":"standard"}
+{"white":"King and pawn"}
+{"winner":"white"}

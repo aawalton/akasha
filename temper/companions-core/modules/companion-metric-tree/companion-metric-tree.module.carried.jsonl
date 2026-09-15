@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The metric grouping is a module-level literal rather than data assembled from metric records."},{"decisionKind":"decision-kind/constraint","statement":"An empty role list returns the grouping without an Overall group prepended."},{"decisionKind":"decision-kind/gap","statement":"A role absent from ROLE_TOTAL_METRICS is dropped from the Overall group."}]}
+{"definition":"the fixed grouping of companion metrics into labeled display categories"}
+{"id":"01a06152-c2cd-7151-9afb-057ef756a156"}
+{"slug":"companion-metric-tree"}
+{"type":"page-type/module"}

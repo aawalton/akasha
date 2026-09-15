@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-rename"}
+{"changeTargetSubtype":"change-target-subtype/file-page"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every address handed in is restated over one reading of the bodies."},{"decisionKind":"decision-kind/departure","statement":"The module restating addresses is called rather than reached through a rung."},{"decisionKind":"decision-kind/departure","statement":"That restating comes before any page is renamed."},{"decisionKind":"decision-kind/departure","statement":"Each page's own rename is left to the change renaming one page."},{"decisionKind":"decision-kind/departure","statement":"That change is told the addresses are restated already."},{"decisionKind":"decision-kind/departure","statement":"A page handed in under the slug that page carries has no address restated."},{"decisionKind":"decision-kind/departure","statement":"A page's slug and page type are read from that page's body rather than its name."},{"decisionKind":"decision-kind/departure","statement":"A body that cannot be read refuses the whole answer."},{"decisionKind":"decision-kind/departure","statement":"A call handing in no page is refused."},{"decisionKind":"decision-kind/departure","statement":"The first refusal answers for the whole call."}]}
+{"definition":"many pages renamed over one reading of the bodies naming them"}
+{"id":"01a08335-76fe-7381-bcda-07d2b9c0f3d3"}
+{"slug":"rename-file-pages"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical"}

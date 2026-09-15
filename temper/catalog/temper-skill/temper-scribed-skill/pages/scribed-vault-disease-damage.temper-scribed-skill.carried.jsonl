@@ -1,0 +1,19 @@
+{"baseName":"Vault"}
+{"description":"Deals 1742 Disease Damage to enemies. Beneficial Signature and Affix scripts only apply to you."}
+{"esoSkillId":214960}
+{"focusScriptId":"disease-damage"}
+{"grimoireId":"vault"}
+{"icon":"/esoui/art/icons/ability_grimoire_bow.dds"}
+{"id":"019e6471-15ed-7bb3-ae07-0afe5b5e3694"}
+{"isMorph":false}
+{"key":"scribed-vault-disease-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-bow"}
+{"skillType":"active"}
+{"slug":"scribed-vault-disease-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Pestilent Vault"}
+{"type":"page-type/temper-scribed-skill"}

@@ -1,0 +1,7 @@
+{"description":"Increases healing received and damage shield strength by 6%"}
+{"effects":"jsonl"}
+{"id":"01a05fc5-f6c2-7095-abd0-326f5461266e"}
+{"key":"minor-vitality"}
+{"slug":"minor-vitality"}
+{"title":"Minor Vitality"}
+{"type":"page-type/temper-buff-minor"}

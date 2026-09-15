@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-remove"}
+{"changeTargetSubtype":"change-target-subtype/file-page-type"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every file the page type keeps beside it goes by the change this change reaches."},{"decisionKind":"decision-kind/absence","statement":"Nothing here judges the path handed in."}]}
+{"definition":"one page type taken away with every file that page type keeps beside it"}
+{"id":"01a0821c-f3eb-7546-bbf0-34de118159a5"}
+{"slug":"remove-file-page-type"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical"}

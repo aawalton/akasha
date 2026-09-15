@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here checks a value at run time."}]}
+{"definition":"what an unknown handed to the encoder or read by the decoder is taken as"}
+{"id":"01a06061-96a1-7301-8024-72c93d42cc87"}
+{"slug":"data-encode-casts"}
+{"type":"page-type/module"}

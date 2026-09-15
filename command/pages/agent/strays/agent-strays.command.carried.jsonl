@@ -1,0 +1,9 @@
+{"arguments":[]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One line names each stray process."},{"decisionKind":"decision-kind/departure","statement":"A line names the process, the subagent it acts under and its command line."},{"decisionKind":"decision-kind/departure","statement":"A line names how long the process has run and how much processor it took."},{"decisionKind":"decision-kind/departure","statement":"A process whose times will not be read is named with its times left unsaid."},{"decisionKind":"decision-kind/departure","statement":"A closing line names every subagent the reading could not tell about."},{"decisionKind":"decision-kind/departure","statement":"A reading naming no stray says that nothing is stray."},{"decisionKind":"decision-kind/departure","statement":"The reading and the reader of a process's times are handed in."},{"decisionKind":"decision-kind/absence","statement":"Nothing here signals or ends a process."},{"decisionKind":"decision-kind/absence","statement":"No subagent page is read."}]}
+{"definition":"the command naming every live process left running by a subagent that has returned"}
+{"id":"01a09cd6-14dc-7b7c-830c-2f44dc2f73c3"}
+{"name":"strays"}
+{"slug":"agent-strays"}
+{"test":"ts"}
+{"type":"page-type/command"}

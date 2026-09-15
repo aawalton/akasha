@@ -1,0 +1,11 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page warrants the page property type of every property the page states."},{"decisionKind":"decision-kind/departure","statement":"A page warrants nothing for a property the page does not state."},{"decisionKind":"decision-kind/absence","statement":"`Never Depend On Everything` refuses this warrant a loader edge, which would reach every page."}]}
+{"definition":"what a seat must read for the properties the page states"}
+{"id":"01a04f58-a7ef-7000-90c5-261b47c03601"}
+{"runsOnRead":true}
+{"runsOnWrite":true}
+{"slug":"file-property"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"transitive":false}
+{"type":"page-type/context-warrant"}

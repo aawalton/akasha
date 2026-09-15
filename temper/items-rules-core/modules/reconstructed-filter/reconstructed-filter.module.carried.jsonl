@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the `reconstructed` condition alone."},{"decisionKind":"decision-kind/departure","statement":"A category outside `equipment` is offered no Reconstructed Status condition."}]}
+{"definition":"the Reconstructed Status condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3bf7-7546-86af-79fe6f2c3a83"}
+{"slug":"reconstructed-filter"}
+{"type":"page-type/module"}

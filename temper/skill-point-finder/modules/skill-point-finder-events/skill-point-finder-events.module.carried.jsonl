@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A redraw is asked for by a game event rather than by a timer."}]}
+{"definition":"what the skill point window redraws in answer to"}
+{"id":"01a060ec-583b-7c95-865c-bc8ca2bf1835"}
+{"slug":"skill-point-finder-events"}
+{"type":"page-type/module"}

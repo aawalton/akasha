@@ -1,0 +1,17 @@
+{"baseName":"Controlled Fury"}
+{"description":"\"Reduces the Stamina cost of Dual Wield abilities by |cffffff7|r%.\""}
+{"esoSkillId":30872}
+{"icon":"/esoui/art/icons/ability_weapon_018.dds"}
+{"id":"019e6f53-a021-7cab-9624-71d839d81460"}
+{"isMorph":false}
+{"key":"controlled-fury-30872"}
+{"learnedLevel":1}
+{"lineRankNeeded":25}
+{"morphIndex":0}
+{"rank":25}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"passive"}
+{"slug":"controlled-fury-30872"}
+{"subcategoryId":"weapon-dual-wield"}
+{"title":"Controlled Fury"}
+{"type":"page-type/temper-skill"}

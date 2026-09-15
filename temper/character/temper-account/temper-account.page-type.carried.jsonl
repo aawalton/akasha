@@ -1,0 +1,9 @@
+{"definition":"one Elder Scrolls Online account temper keeps track of"}
+{"extends":["page-type/temper-character-thing"]}
+{"id":"01a05fcd-f547-7f1d-8f1e-1feeb37eebb3"}
+{"parts":["text-property/eso-display-name","text-property/world-name"]}
+{"properties":[{"pageProperty":"text-property/eso-display-name","required":false,"many":false},{"pageProperty":"text-property/world-name","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-account"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

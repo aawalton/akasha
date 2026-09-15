@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An awen game is framed edge to edge and in focus."},{"decisionKind":"decision-kind/departure","statement":"A sheet panel may only ask for reveal keys the code names."}]}
+{"definition":"what a game puts on screen, how often it looks for more, and how it alerts"}
+{"id":"01a05b71-e543-7c87-8c6e-cfaef2c52761"}
+{"slug":"game-schema"}
+{"type":"page-type/module"}

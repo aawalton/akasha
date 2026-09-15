@@ -1,0 +1,13 @@
+{"definition":"the Kokoro voice model, served by mlx-audio"}
+{"enabled":true}
+{"host":"macbook"}
+{"id":"01a090a2-5c24-724d-b01c-a733d03553e2"}
+{"internalPort":18083}
+{"lifecycle":"pool"}
+{"port":8083}
+{"provision":"shell-script/mlx-audio-provision"}
+{"pythonVersion":"3.12"}
+{"runs":["python -m mlx_audio.server --host 127.0.0.1 --port 18083"]}
+{"slug":"kokoro"}
+{"type":"page-type/service-inference"}
+{"workdir":"."}

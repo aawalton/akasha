@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The rescued access token is the token the sops file did not take."}]}
+{"definition":"the access token a rescued credential has"}
+{"id":"01a0637b-78ba-7119-9765-d08c368d42c0"}
+{"maxLength":4000}
+{"nameFormat":null}
+{"propertySlug":"access-token"}
+{"slug":"rescued-access-token"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

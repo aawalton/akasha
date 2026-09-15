@@ -1,0 +1,8 @@
+{"addonManifest":"json"}
+{"bundleEntry":"module/map-data-main"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Where the player is is worked out once per map change rather than on every ask."},{"decisionKind":"decision-kind/departure","statement":"A map is named by tile texture as well as by id."},{"decisionKind":"decision-kind/departure","statement":"The lookups from name back to id are built as the game loads the library."},{"decisionKind":"decision-kind/departure","statement":"An add-on hears about a zone change through a callback rather than by asking."},{"decisionKind":"decision-kind/constraint","statement":"The zone rows are the rows upstream LibMapData v1.21 states."},{"decisionKind":"decision-kind/constraint","statement":"This library needs LibGPS loaded first."}]}
+{"definition":"which map, zone and floor the player is on, and where that falls on Tamriel"}
+{"id":"01a061e1-aeb3-7996-87d0-fffa6b5d33b6"}
+{"parts":["module/map-data-build-tables","module/map-data-casts","module/map-data-constants","module/map-data-events","module/map-data-index","module/map-data-index-00","module/map-data-index-01","module/map-data-index-02","module/map-data-index-03","module/map-data-lib-state","module/map-data-logger","module/map-data-main","module/map-data-pseudo-indices","module/map-data-public-api","module/map-data-queries","module/map-data-table","module/map-data-types","module/map-data-update","module/map-data-zones-00","module/map-data-zones-01","module/map-data-zones-02"]}
+{"slug":"temper-lib-map-data"}
+{"type":"page-type/eso-addon"}

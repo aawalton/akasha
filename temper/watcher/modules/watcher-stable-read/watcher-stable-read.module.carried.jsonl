@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A file is judged settled by its size and its modification time together."},{"decisionKind":"decision-kind/departure","statement":"A file counts as settled only after enough looks agree in a row."},{"decisionKind":"decision-kind/departure","statement":"A run of agreeing looks under the number required never settles a file."},{"decisionKind":"decision-kind/departure","statement":"A file that changed between the settled look and the read is looked at afresh."},{"decisionKind":"decision-kind/departure","statement":"A file that went away while being watched is answered as nothing."},{"decisionKind":"decision-kind/departure","statement":"A file still unsettled at the deadline is answered as nothing."},{"decisionKind":"decision-kind/departure","statement":"A saved-variables file the game finished writing closes with a brace."},{"decisionKind":"decision-kind/absence","statement":"Nothing here parses the file's contents."}]}
+{"definition":"how the watcher waits for the game to finish writing a file before reading it"}
+{"id":"01a0635b-79f7-7b16-a5de-404b96e64447"}
+{"slug":"watcher-stable-read"}
+{"test":"ts"}
+{"type":"page-type/module"}

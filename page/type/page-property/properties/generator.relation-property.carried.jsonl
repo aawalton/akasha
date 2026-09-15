@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A property stating no `generator` is written by hand."},{"decisionKind":"decision-kind/departure","statement":"A page being created that states the property keeps the value the page states."},{"decisionKind":"decision-kind/departure","statement":"A body carried from another path is left as the body stands."},{"decisionKind":"decision-kind/departure","statement":"A move is one page arriving somewhere else rather than a second page."}]}
+{"definition":"how this property's value is worked out when its page is created"}
+{"id":"01a04f17-5b7b-7835-87db-af7b36e912b5"}
+{"propertySlug":"generator"}
+{"slug":"generator"}
+{"targetPageType":"page-type/generator-kind"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

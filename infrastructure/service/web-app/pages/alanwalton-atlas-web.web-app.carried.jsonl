@@ -1,0 +1,10 @@
+{"basePort":3600}
+{"buildCommand":"bun run build"}
+{"definition":"the website drawing Alan's map and taking in the locations his phone sends"}
+{"hostnames":["atlas.alanwalton.com"]}
+{"id":"01a05b26-f8b6-728b-8cfa-601811ce0f90"}
+{"secretResource":"alanwalton-secrets"}
+{"serviceClusters":["service-cluster/alanwalton-atlas"]}
+{"slug":"alanwalton-atlas-web"}
+{"sourceDirectory":"alan/atlas-web"}
+{"type":"page-type/web-app"}

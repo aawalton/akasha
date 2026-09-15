@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"No mined item posted here is kept."},{"decisionKind":"decision-kind/constraint","statement":"A row sits inside a page's body."},{"decisionKind":"decision-kind/constraint","statement":"The store writes a path and a whole body."},{"decisionKind":"decision-kind/departure","statement":"This route answers 503 and says plainly that nothing was kept."}]}
+{"definition":"the mined items the watcher posts"}
+{"id":"01a082a9-b67b-7606-b042-c4f5c9e5d6ac"}
+{"slug":"api-watcher-upsert-mined-items"}
+{"type":"page-type/route"}
+{"urlPath":"api/watcher/upsert-mined-items"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A note is written only where Monarch reports the note empty at that moment."},{"decisionKind":"decision-kind/departure","statement":"Monarch keeps no earlier version."},{"decisionKind":"decision-kind/departure","statement":"A note replaced and a note nobody wrote read the same."}]}
+{"definition":"what somebody wrote on a transaction"}
+{"id":"01a0680b-2b00-7007-9e41-3f7b6c5a2108"}
+{"maxLength":2000}
+{"nameFormat":null}
+{"propertySlug":"transaction-note"}
+{"slug":"transaction-note"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

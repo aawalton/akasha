@@ -1,0 +1,17 @@
+{"baseName":"Stitching"}
+{"description":"\"Reduces research times by 5% and allows the research of two items at once.\""}
+{"esoSkillId":48190}
+{"icon":"/esoui/art/icons/crafting_light_armor_component_004.dds"}
+{"id":"019e6f53-a7be-7042-ab5e-054e84917542"}
+{"isMorph":false}
+{"key":"stitching-48190"}
+{"learnedLevel":1}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":8}
+{"skillLineId":"craft-clothing"}
+{"skillType":"passive"}
+{"slug":"stitching-48190"}
+{"subcategoryId":"craft-clothing"}
+{"title":"Stitching"}
+{"type":"page-type/temper-skill"}

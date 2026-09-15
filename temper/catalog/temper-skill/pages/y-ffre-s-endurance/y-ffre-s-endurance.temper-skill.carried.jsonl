@@ -1,0 +1,17 @@
+{"baseName":"Y'ffre's Endurance"}
+{"description":"\"Increases your Stamina Recovery by |cffffff86|r.\""}
+{"esoSkillId":64279}
+{"icon":"/esoui/art/icons/ability_templar_002.dds"}
+{"id":"019e6f53-aa09-7744-9877-d0d66c08cd19"}
+{"isMorph":false}
+{"key":"y-ffre-s-endurance"}
+{"learnedLevel":1}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":10}
+{"skillLineId":"racial-wood-elf-skills"}
+{"skillType":"passive"}
+{"slug":"y-ffre-s-endurance"}
+{"subcategoryId":"racial-wood-elf-skills"}
+{"title":"Y'ffre's Endurance"}
+{"type":"page-type/temper-skill"}

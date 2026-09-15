@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The addon keeps one explained item at a time."},{"decisionKind":"decision-kind/departure","statement":"A trace for another item is refused rather than answered."},{"decisionKind":"decision-kind/departure","statement":"The refusal says which item the addon does carry."},{"decisionKind":"decision-kind/departure","statement":"The account the trace sits under is found by walking."}]}
+{"definition":"the walk the addon recorded for the last item it explained"}
+{"id":"01a068e2-226f-7a3c-b3d4-e252ba74470d"}
+{"slug":"inventory-parity-trace"}
+{"test":"ts"}
+{"type":"page-type/module"}

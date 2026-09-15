@@ -1,0 +1,19 @@
+{"baseName":"Unflinching Rage"}
+{"description":"\"Increases your Max Health by 1000.\\n\\nWhen you deal damage, you heal for 2125 Health.  This can occur once every 4 seconds.\""}
+{"effects":"jsonl"}
+{"esoSkillId":84672}
+{"icon":"/esoui/art/icons/ability_sorcerer_018.dds"}
+{"id":"019e624a-12e5-7b32-ae3a-936b53bb3044"}
+{"isMorph":false}
+{"key":"unflinching-rage"}
+{"learnedLevel":1}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"racial-orc-skills"}
+{"skillType":"passive"}
+{"slug":"unflinching-rage"}
+{"status":"partially-supported"}
+{"subcategoryId":"racial-orc-skills"}
+{"title":"Unflinching Rage"}
+{"type":"page-type/temper-skill"}

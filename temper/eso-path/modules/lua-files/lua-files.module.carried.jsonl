@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A directory that cannot be read answers with no files."},{"decisionKind":"decision-kind/departure","statement":"An entry that cannot be examined is left out rather than refused."},{"decisionKind":"decision-kind/departure","statement":"A file is answered as the path that file was found at."}]}
+{"definition":"every Lua file under a directory, however deep it sits"}
+{"id":"01a06919-a938-7c99-866b-0f9382740997"}
+{"slug":"lua-files"}
+{"type":"page-type/module"}

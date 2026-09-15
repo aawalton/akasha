@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A role is a file property the page's type declares rather than a word chosen at the file."},{"decisionKind":"decision-kind/departure","statement":"A page's own file states no role."}]}
+{"definition":"the part of a file's name saying what the file is to its page"}
+{"id":"01a04fd0-c6e8-7989-926c-76c5d7b35075"}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"slug":"file-role"}
+{"type":"page-type/name-place"}

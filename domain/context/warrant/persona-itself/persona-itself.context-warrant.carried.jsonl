@@ -1,0 +1,10 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat warrants the persona the seat states."},{"decisionKind":"decision-kind/departure","statement":"A seat stating no persona warrants no persona."},{"decisionKind":"decision-kind/departure","statement":"A persona whose page cannot be found is no warrant."},{"decisionKind":"decision-kind/departure","statement":"Only a seat warrants a persona."},{"decisionKind":"decision-kind/departure","statement":"A persona is named by its slug wherever the seat states the persona under a page type."}]}
+{"definition":"what a seat must read for the persona it states"}
+{"id":"01a05829-80ea-715a-a36e-e239ce488324"}
+{"runsOnRead":true}
+{"runsOnWrite":true}
+{"slug":"persona-itself"}
+{"test":"ts"}
+{"transitive":false}
+{"type":"page-type/context-warrant"}

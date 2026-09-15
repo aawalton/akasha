@@ -1,0 +1,8 @@
+{"definition":"whether a value is said as a whole or as one tick"}
+{"id":"01a06193-6ca0-7dfd-91bc-9bc2c64a4173"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"display-mode"}
+{"slug":"display-mode"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,17 @@
+{"baseName":"Annulment"}
+{"description":"\"Convert a portion of your Magicka into a protective ward, gaining a damage shield that absorbs |cffffff5046|r damage for |cffffff6|r seconds. Damage shield strength capped at |cffffff50|r% of your Max Health.\""}
+{"esoSkillId":29338}
+{"icon":"/esoui/art/icons/ability_armor_003.dds"}
+{"id":"019e6f53-9eb3-739e-843c-030a9097433a"}
+{"isMorph":false}
+{"key":"annulment"}
+{"learnedLevel":1}
+{"lineRankNeeded":22}
+{"morphIndex":0}
+{"rank":22}
+{"skillLineId":"armor-light-armor"}
+{"skillType":"active"}
+{"slug":"annulment"}
+{"subcategoryId":"armor-light-armor"}
+{"title":"Annulment"}
+{"type":"page-type/temper-skill"}

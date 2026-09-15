@@ -1,0 +1,17 @@
+{"baseName":"Core of Flame"}
+{"description":"\"Let the fire within draw heat to your core, restoring |cffffff15|r% of your missing Magicka and Stamina every |cffffff2|r seconds over |cffffff4|r seconds.\\n\\nWhen this ability completes, you release this heat as a blast of fire that deals |cffffff7360|r Flame Damage to nearby enemies.\""}
+{"esoSkillId":31837}
+{"icon":"/esoui/art/icons/ability_dragonknight_012.dds"}
+{"id":"019e6f53-a022-7eb0-81e3-8ef22c2ae44d"}
+{"isMorph":false}
+{"key":"core-of-flame"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":0}
+{"rank":20}
+{"skillLineId":"dragonknight-ardent-flame"}
+{"skillType":"active"}
+{"slug":"core-of-flame"}
+{"subcategoryId":"dragonknight-ardent-flame"}
+{"title":"Core of Flame"}
+{"type":"page-type/temper-skill"}

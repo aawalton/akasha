@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The port is stated on the page rather than written into the code that starts the dev server."},{"decisionKind":"decision-kind/departure","statement":"A hundred ports from the base port belong to the web app stating the base port."}]}
+{"definition":"the port a web app's dev server counts up from"}
+{"id":"01a08cfa-c5f4-7b3f-80e6-1a9623e9954d"}
+{"max":65535}
+{"propertySlug":"base-port"}
+{"slug":"base-port"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

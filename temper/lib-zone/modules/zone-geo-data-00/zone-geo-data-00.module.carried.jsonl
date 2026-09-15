@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"These rows are the rows upstream LibZone v8.98 states."}]}
+{"definition":"part 00 of which point of interest reaches a zone from its geographical parent"}
+{"id":"01a061e7-92f8-798e-bba4-986bf682dc1e"}
+{"slug":"zone-geo-data-00"}
+{"type":"page-type/module"}

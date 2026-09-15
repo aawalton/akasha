@@ -1,0 +1,10 @@
+{"id":"01a06577-2615-700d-ba5e-bde16eef17ea"}
+{"narrows":[{"key":"to-do-completed-at","comparison":"empty","values":["true"]},{"key":"to-do-due-date","comparison":"at-or-after","values":["eso-day-next"]}]}
+{"nav":"nav/tasks"}
+{"pageType":"page-type/to-do"}
+{"slug":"tasks-up-next"}
+{"title":"Up Next"}
+{"type":"page-type/view"}
+{"viewPlace":1}
+{"viewSorts":[{"key":"to-do-due-date","descending":false},{"key":"due-time","descending":false}]}
+{"visibleProperties":["to-do-priority","to-do-due-date","due-time"]}

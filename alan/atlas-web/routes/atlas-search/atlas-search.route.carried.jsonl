@@ -1,0 +1,7 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The looking up and the keeping happen in the browser."},{"decisionKind":"decision-kind/departure","statement":"A place already kept is a link to the location rather than a button."}]}
+{"definition":"the places a reader looks up and keeps"}
+{"id":"01a0883f-0826-7e5c-8e46-5e2a38ee8554"}
+{"slug":"atlas-search"}
+{"type":"page-type/route"}
+{"urlPath":"search"}

@@ -1,0 +1,19 @@
+{"baseName":"Accelerated Growth"}
+{"description":"\"When you heal yourself or an ally under 40% Health with a Green Balance ability you gain Major Mending, increasing your healing done by 16% for 4 seconds.\""}
+{"effects":"jsonl"}
+{"esoSkillId":85883}
+{"icon":"/esoui/art/icons/passive_warden_008.dds"}
+{"id":"019e6245-a5e4-7832-a3c2-c33b06f9349a"}
+{"isMorph":false}
+{"key":"accelerated-growth"}
+{"learnedLevel":18}
+{"lineRankNeeded":18}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"warden-green-balance"}
+{"skillType":"passive"}
+{"slug":"accelerated-growth"}
+{"status":"unsupported"}
+{"subcategoryId":"warden-green-balance"}
+{"title":"Accelerated Growth"}
+{"type":"page-type/temper-skill"}

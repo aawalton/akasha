@@ -1,0 +1,17 @@
+{"baseName":"Excavator's Reserves"}
+{"description":"\"Further increases the amount of time you have available when excavating a dig site.\""}
+{"esoSkillId":139911}
+{"icon":"/esoui/art/icons/u26_ability_digging_05.dds"}
+{"id":"019e6251-4cb1-73f0-9138-564b35d11417"}
+{"isMorph":false}
+{"key":"excavators-reserves"}
+{"learnedLevel":10}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"world-excavation"}
+{"skillType":"passive"}
+{"slug":"excavators-reserves"}
+{"subcategoryId":"world-excavation"}
+{"title":"Excavator's Reserves"}
+{"type":"page-type/temper-skill"}

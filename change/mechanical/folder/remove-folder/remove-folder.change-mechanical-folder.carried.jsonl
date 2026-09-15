@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-remove"}
+{"changeTargetSubtype":"change-target-subtype/folder"}
+{"changeTargetType":"change-target-type/folder"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every file under the folder goes whether or not the index names it."},{"decisionKind":"decision-kind/absence","statement":"No file outside the folder goes."},{"decisionKind":"decision-kind/departure","statement":"A folder with no file is taken away as one path rather than refused."},{"decisionKind":"decision-kind/departure","statement":"One answer states the removal of every file under the folder."},{"decisionKind":"decision-kind/absence","statement":"No change is reached here."},{"decisionKind":"decision-kind/absence","statement":"No body outside the folder is rewritten here."}]}
+{"definition":"one folder and every file under it taken away"}
+{"id":"01a08231-44a2-7e00-bd04-119872f58319"}
+{"slug":"remove-folder"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical-folder"}

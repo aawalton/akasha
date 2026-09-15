@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The window's place and size are kept in the saved variables under searchUI."},{"decisionKind":"decision-kind/constraint","statement":"A saved size is never below the window's minimum width and height."}]}
+{"definition":"what the keyboard search window does when it opens, resets or is moved"}
+{"id":"01a0623e-53a1-77ae-ba00-994d8a505f03"}
+{"slug":"lib-sets-search-ui-keyboard-ui"}
+{"type":"page-type/module"}

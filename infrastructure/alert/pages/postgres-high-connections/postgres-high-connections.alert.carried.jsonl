@@ -1,0 +1,8 @@
+{"definition":"Postgres is holding close to as many connections as it allows"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fb-76c9-beb4-0890595ffdd3"}
+{"runbook":"txt"}
+{"slug":"postgres-high-connections"}
+{"summary":"Postgres {{ $labels.server }} at {{ $value | humanizePercentage }} of its own max_connections"}
+{"title":"Postgres high connections"}
+{"type":"page-type/alert"}

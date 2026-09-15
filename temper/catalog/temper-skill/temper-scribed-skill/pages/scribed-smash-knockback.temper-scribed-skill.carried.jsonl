@@ -1,0 +1,19 @@
+{"baseName":"Smash"}
+{"description":"Deals 1001 Physical Damage to enemies and knocks them back 8 meters and stuns them for 1.8 seconds. Beneficial Signature and Affix scripts only apply to you."}
+{"esoSkillId":219972}
+{"focusScriptId":"knockback"}
+{"grimoireId":"smash"}
+{"icon":"/esoui/art/icons/ability_grimoire_2handed.dds"}
+{"id":"019e6471-15bd-7b4c-9df9-0944efb9528d"}
+{"isMorph":false}
+{"key":"scribed-smash-knockback"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"active"}
+{"slug":"scribed-smash-knockback"}
+{"subcategoryId":"scribed"}
+{"title":"Repelling Smash"}
+{"type":"page-type/temper-scribed-skill"}

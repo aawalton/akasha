@@ -1,0 +1,9 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A day missing any of the six levels reaches no rung."}]}
+{"definition":"which of the four rungs the day's six values reached between them"}
+{"holds":"number"}
+{"id":"01a0721c-f58c-7290-8d4c-25779a5549a0"}
+{"propertySlug":"total-level"}
+{"slug":"total-level"}
+{"type":"page-type/computed-property"}
+{"types":"ts"}

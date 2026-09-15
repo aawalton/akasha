@@ -1,0 +1,7 @@
+{"definition":"how Chou's own system names and numbers a drive"}
+{"id":"01a06756-f604-7da5-89c2-26d073aeedb1"}
+{"properties":[{"pageProperty":"number-property/octalysis-number","required":true,"many":false},{"pageProperty":"text-property/octalysis-name","required":true,"many":false},{"pageProperty":"text-property/octalysis-definition","required":true,"many":false}]}
+{"propertySlug":"octalysis"}
+{"slug":"octalysis"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

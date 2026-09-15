@@ -1,0 +1,12 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/sell"}
+{"active":true}
+{"categoryId":"scripts"}
+{"conditions":"jsonl"}
+{"description":"Dispose of scribing scripts once every character knows them"}
+{"displayOrder":77}
+{"id":"01a0728a-f56f-72eb-8914-32da9b6ac87e"}
+{"slug":"rule-90d1aa3b"}
+{"title":"Sell known scripts"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-09-12T15:33:39.566Z"}

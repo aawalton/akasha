@@ -1,0 +1,11 @@
+{"addonIconsFolder":true}
+{"addonManifest":"json"}
+{"bindings":"xml"}
+{"bundleEntry":"module/collections-addon-entry"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each tracker the add-on ships is a workspace package of its own."},{"decisionKind":"decision-kind/departure","statement":"This add-on starts each tracker and knows nothing else about that tracker."},{"decisionKind":"decision-kind/departure","statement":"A tracker publishes its own global rather than a member of this add-on's."},{"decisionKind":"decision-kind/departure","statement":"The three XML documents load after the Lua bundle."},{"decisionKind":"decision-kind/departure","statement":"The saved variables of all five trackers are named in the one manifest."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the data a tracker keeps."}]}
+{"definition":"the add-on shipping the skyshard, lorebook, treasure, champion and item-set trackers as one"}
+{"id":"01a0624c-a660-70e0-bf26-d959d1027e91"}
+{"interfaces":["eso-interface/lorebooks-report-layout","eso-interface/lost-treasure-map-layout","eso-interface/item-browser-layout"]}
+{"parts":["eso-interface/item-browser-layout","eso-interface/lorebooks-report-layout","eso-interface/lost-treasure-map-layout","module/collections-addon-entry","module/collections-addon-global","module/collections-addon-loaded","module/collections-addon-names","type-declaration/collections-addon-declarations"]}
+{"slug":"temper-collections-addon"}
+{"type":"page-type/eso-addon"}

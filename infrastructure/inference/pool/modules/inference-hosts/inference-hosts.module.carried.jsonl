@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A host asked for by a name nothing declares raises rather than answering."}]}
+{"definition":"the machines inference services are on and how to reach each one"}
+{"id":"01a0685d-4b35-7002-9349-0c26e47c4b8f"}
+{"slug":"inference-hosts"}
+{"type":"page-type/module"}

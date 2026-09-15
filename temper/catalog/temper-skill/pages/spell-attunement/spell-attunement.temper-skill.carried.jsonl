@@ -1,0 +1,19 @@
+{"baseName":"Spell Attunement"}
+{"description":"\"Increases your Spell Resistance by 2310. This effect is doubled if you are afflicted with Burning, Chilled, or Concussed.  \\n\\nIncreases your Magicka Recovery by 130.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45262}
+{"icon":"/esoui/art/icons/ability_sorcerer_013.dds"}
+{"id":"019e624a-12df-7273-9f79-53de6115a3a9"}
+{"isMorph":false}
+{"key":"spell-attunement"}
+{"learnedLevel":40}
+{"lineRankNeeded":40}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"racial-breton-skills"}
+{"skillType":"passive"}
+{"slug":"spell-attunement"}
+{"status":"partially-supported"}
+{"subcategoryId":"racial-breton-skills"}
+{"title":"Spell Attunement"}
+{"type":"page-type/temper-skill"}

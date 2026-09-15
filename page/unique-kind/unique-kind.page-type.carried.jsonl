@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Uniqueness names the pages a value is unique among rather than being yes or no."}]}
+{"definition":"which pages a property's value is unique among"}
+{"extends":["page-type/domain"]}
+{"id":"01a04edd-897d-7e60-9206-d1b3a52bea1f"}
+{"parts":["unique-kind/page","unique-kind/page-property","unique-kind/page-type"]}
+{"schema":"jsonl"}
+{"slug":"unique-kind"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A simulated step changes only the state the simulation has."},{"decisionKind":"decision-kind/absence","statement":"No captured holding is changed by a simulation."}]}
+{"definition":"one character's session run through in advance to see what each step leaves behind"}
+{"id":"01a0615a-a1dc-7109-83cd-300cf2753778"}
+{"slug":"inventory-management-plan-simulation"}
+{"type":"page-type/module"}

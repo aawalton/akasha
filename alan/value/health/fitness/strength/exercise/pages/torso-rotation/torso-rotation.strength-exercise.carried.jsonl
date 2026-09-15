@@ -1,0 +1,27 @@
+{"equipment":"strength-exercise-implement/exercise-ball"}
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Torso_Rotation"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Torso_Rotation"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"pull"}
+{"gripDemand":"low"}
+{"id":"019ebc78-aac7-7795-aa3c-e0c14970a013"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Torso_Rotation/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Torso_Rotation/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"mobility"}
+{"muscleFocus":"core"}
+{"primaryMuscles":["abdominals"]}
+{"scoringMode":"time"}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"torso-rotation"}
+{"title":"Torso Rotation"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

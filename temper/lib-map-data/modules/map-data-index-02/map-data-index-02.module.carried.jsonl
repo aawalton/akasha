@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"These rows are the rows upstream LibMapData v1.21 states."}]}
+{"definition":"part 02 of what each map index names by texture, zone and subzone"}
+{"id":"01a061e1-aea5-7f0d-99ff-9f35b4f83d03"}
+{"slug":"map-data-index-02"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A file missing any field the reader needs is an error rather than a partial read."},{"decisionKind":"decision-kind/departure","statement":"A line with no equals sign is passed over."}]}
+{"definition":"what a backup's own info file states about that backup"}
+{"id":"01a06863-74e6-7d17-b5ef-a299f78c9080"}
+{"slug":"backup-info"}
+{"type":"page-type/module"}

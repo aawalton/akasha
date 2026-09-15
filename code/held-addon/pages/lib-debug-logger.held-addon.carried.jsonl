@@ -1,0 +1,9 @@
+{"addonKind":"library"}
+{"addonName":"LibDebugLogger"}
+{"adjacents":["held-addon/temper-navigation","held-addon/temper-collections","held-addon/temper-crafting","held-addon/lib-addon-menu"]}
+{"esoAddon":"eso-addon/temper-lib-debug-logger"}
+{"heldBy":13215}
+{"id":"01a081a3-78ce-730a-9423-cfbb2836b234"}
+{"slug":"lib-debug-logger"}
+{"tiClean":true}
+{"type":"page-type/held-addon"}

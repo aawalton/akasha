@@ -1,0 +1,17 @@
+{"baseName":"Soul Shred"}
+{"description":"\"Ravage nearby enemies' souls with a night rune, dealing |cffffff12802|r Magic Damage and stunning them for |cffffff4|r seconds. \\n\\nAn ally can target a ravaged enemy and activate the Soul Leech synergy, dealing |cffffff10851|r Magic Damage to them and healing for the damage caused.\""}
+{"esoSkillId":25091}
+{"icon":"/esoui/art/icons/ability_nightblade_018.dds"}
+{"id":"019e6f53-a76b-7d73-9989-2b896c684347"}
+{"isMorph":false}
+{"key":"soul-shred"}
+{"learnedLevel":12}
+{"lineRankNeeded":12}
+{"morphIndex":0}
+{"rank":12}
+{"skillLineId":"nightblade-siphoning"}
+{"skillType":"ultimate"}
+{"slug":"soul-shred"}
+{"subcategoryId":"nightblade-siphoning"}
+{"title":"Soul Shred"}
+{"type":"page-type/temper-skill"}

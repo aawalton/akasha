@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"A loot of nothing or a negative amount is ignored."}]}
+{"definition":"the answer always given to a hireling mail being looted"}
+{"id":"01a062ed-3979-7008-b38a-d2d8bc3af92b"}
+{"slug":"characters-hireling-mail-subscriber"}
+{"type":"page-type/module"}

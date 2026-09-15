@@ -1,0 +1,11 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A dashboard is one page and one layout file."},{"decisionKind":"decision-kind/departure","statement":"A dashboard is found by its page type rather than by its file name."},{"decisionKind":"decision-kind/departure","statement":"A manifest inlines a dashboard rather than a chart server fetching that dashboard."}]}
+{"definition":"what a chart server draws over one subject"}
+{"extends":["page-type/domain"]}
+{"id":"01a07c67-a724-7337-8adc-5a5e3a393057"}
+{"parts":["file-property/dashboard-layout"]}
+{"pluralSlug":"dashboards"}
+{"properties":[{"pageProperty":"file-property/dashboard-layout","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"dashboard"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

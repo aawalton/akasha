@@ -1,0 +1,13 @@
+{"abilityIcon":"/esoui/art/icons/ability_grimoire_soulmagic1.dds"}
+{"affixScripts":"jsonl"}
+{"focusScripts":["bleed-damage","damage-shield","disease-damage","flame-damage","frost-damage","healing","magic-damage","physical-damage","pull","shock-damage","stun"]}
+{"icon":"/esoui/art/icons/item_grimoire_soulmagic1.dds"}
+{"id":"01a05fce-2959-7331-ba75-a2bd0c58545a"}
+{"itemId":204491}
+{"key":"wield-soul"}
+{"signatureScripts":"jsonl"}
+{"skillLineId":"world-soul-magic"}
+{"slug":"wield-soul"}
+{"title":"Wield Soul"}
+{"type":"page-type/temper-grimoire"}
+{"uespId":2}

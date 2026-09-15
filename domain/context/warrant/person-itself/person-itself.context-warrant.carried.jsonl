@@ -1,0 +1,10 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat warrants the person the seat states."},{"decisionKind":"decision-kind/departure","statement":"A seat stating no person warrants no person."},{"decisionKind":"decision-kind/departure","statement":"A person whose page cannot be found is no warrant."},{"decisionKind":"decision-kind/departure","statement":"Only a seat warrants a person."},{"decisionKind":"decision-kind/departure","statement":"A person is named by its slug wherever the seat states the person under a page type."}]}
+{"definition":"what a seat must read for the person it states"}
+{"id":"01a0595f-f1a6-7dc0-bd43-a634801f920a"}
+{"runsOnRead":true}
+{"runsOnWrite":true}
+{"slug":"person-itself"}
+{"test":"ts"}
+{"transitive":false}
+{"type":"page-type/context-warrant"}

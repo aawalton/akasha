@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A date entry counts to the day the entry was written in."}]}
+{"definition":"a tracking entry for something true of a whole day"}
+{"extends":["page-type/tracking-entry"]}
+{"id":"01a06827-ec0c-7939-809f-82468d73e2e6"}
+{"schema":"jsonl"}
+{"slug":"tracking-entry-date"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

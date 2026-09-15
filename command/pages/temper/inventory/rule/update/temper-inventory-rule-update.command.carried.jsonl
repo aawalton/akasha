@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/force"},{"argument":"argument/title"},{"argument":"argument/notes"},{"argument":"argument/goal"},{"argument":"argument/active"},{"argument":"argument/action"},{"argument":"argument/destination"},{"argument":"argument/stock-scope"},{"argument":"argument/category"},{"argument":"argument/conditions"},{"argument":"argument/category-rule-id","required":true,"saidAs":"word"},{"argument":"argument/destination-chain"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A locked category rule is refused unless the call says `--force`."},{"decisionKind":"decision-kind/departure","statement":"A call naming no field to change is refused, naming the fields it changes."},{"decisionKind":"decision-kind/departure","statement":"A field value the rules carry no such name for is refused before any read."},{"decisionKind":"decision-kind/departure","statement":"The act that changes takes the store rather than reaching it."},{"decisionKind":"decision-kind/departure","statement":"A change is named on the caller's list as soon as that write has gone through."},{"decisionKind":"decision-kind/departure","statement":"A change that wrote and then threw names that write in its refusal."},{"decisionKind":"decision-kind/departure","statement":"A rule left unwritten is named nowhere, whether refused or locked."},{"decisionKind":"decision-kind/absence","statement":"Nothing the web alone shows reaches the addon."},{"decisionKind":"decision-kind/departure","statement":"An id no category rule carries refuses the call."}]}
+{"definition":"the command changing the fields of a category rule named by its id"}
+{"id":"01a0603c-c1d9-7f77-bcad-d46ad5150baa"}
+{"name":"update"}
+{"slug":"temper-inventory-rule-update"}
+{"test":"ts"}
+{"type":"page-type/command"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"one promise answering how each of many turned out"}
+{"id":"01a08c58-f256-740f-adb3-d7598ffc807a"}
+{"luaExport":"__TS__PromiseAllSettled"}
+{"slug":"promise-all-settled"}
+{"type":"page-type/lualib-helper"}

@@ -1,0 +1,9 @@
+{"content":"conf"}
+{"definition":"the disk-backed swapfile that cushions the box below zram"}
+{"id":"01a06862-af5d-7c99-ad36-2ecd155d6c75"}
+{"installPath":"/etc/systemd/system/var-swap-swapfile.swap"}
+{"onlyOn":"linux"}
+{"placedBy":"copy"}
+{"reloadWith":"sudo systemctl daemon-reload"}
+{"slug":"swapfile-unit"}
+{"type":"page-type/provisioned-file"}

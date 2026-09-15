@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/file-path"},{"argument":"argument/top"},{"argument":"argument/threshold"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Halstead counts a function's distinct and total operators and operands."},{"decisionKind":"decision-kind/departure","statement":"Volume, difficulty, effort, time and bugs follow from those four counts."},{"decisionKind":"decision-kind/departure","statement":"A type annotation and a comment are outside the counts."},{"decisionKind":"decision-kind/departure","statement":"A row is one function, and the rows are ordered by volume, highest first."},{"decisionKind":"decision-kind/absence","statement":"Nothing here refuses a body for being complex."},{"decisionKind":"decision-kind/departure","statement":"A cutoff keeps the rows whose volume is at or over it."}]}
+{"definition":"the command saying each function's token counts, and the volume, difficulty, effort, time and bugs"}
+{"id":"01a08ccd-7cd6-78a7-b5f2-66cdcd08bc68"}
+{"name":"halstead"}
+{"slug":"measure-complexity-halstead"}
+{"test":"ts"}
+{"type":"page-type/command"}

@@ -1,0 +1,8 @@
+{"definition":"the command a view hands a reordering to"}
+{"id":"01a0680d-4d00-7012-b752-2d9e6a3f4113"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"reorder-command"}
+{"slug":"reorder-command"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

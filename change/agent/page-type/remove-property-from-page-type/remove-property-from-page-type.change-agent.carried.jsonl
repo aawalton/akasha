@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-checked"}
+{"changeMode":"change-mode/change-mode-remove"}
+{"changeTargetSubtype":"change-target-subtype/page-type-page-property"}
+{"changeTargetType":"change-target-type/page-type"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type is handed to the mechanical change taking a property off one."},{"decisionKind":"decision-kind/departure","statement":"The part and the declaration are that change's one answer."},{"decisionKind":"decision-kind/departure","statement":"A property no page type declares after this goes in the same landing."},{"decisionKind":"decision-kind/departure","statement":"A refusal from that change is the refusal this act gives."},{"decisionKind":"decision-kind/departure","statement":"The generator writes the page type's own type again from what this leaves."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the index."},{"decisionKind":"decision-kind/absence","statement":"No change but that one rung is reached."}]}
+{"definition":"one page property taken off one page type"}
+{"id":"01a08287-d90b-7f07-9a9e-bf6209c40126"}
+{"maxCpuSeconds":120}
+{"maxMemoryMb":3072}
+{"slug":"remove-property-from-page-type"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

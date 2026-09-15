@@ -1,0 +1,8 @@
+{"definition":"a pod has stayed unscheduled instead of being placed on a node"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fa-7081-8013-cdfa3b7c5c5b"}
+{"runbook":"txt"}
+{"slug":"pod-pending"}
+{"summary":"Pod {{ $labels.namespace }}/{{ $labels.pod }} stuck Pending > 15m"}
+{"title":"Pod pending"}
+{"type":"page-type/alert"}

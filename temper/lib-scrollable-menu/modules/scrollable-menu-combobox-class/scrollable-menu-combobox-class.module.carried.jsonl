@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An existing combobox is adopted by replacing its metatable in place."},{"decisionKind":"decision-kind/departure","statement":"Sorting is offered only where filtering is also enabled."},{"decisionKind":"decision-kind/departure","statement":"Multi-select bookkeeping walks upward to update every opening control."},{"decisionKind":"decision-kind/constraint","statement":"The visible row count falls back to the library default of ten."}]}
+{"definition":"the subclass a normal dropdown menu on an existing ZO_ComboBox becomes"}
+{"id":"01a06275-c446-70da-9906-1d4292ab215a"}
+{"slug":"scrollable-menu-combobox-class"}
+{"type":"page-type/module"}

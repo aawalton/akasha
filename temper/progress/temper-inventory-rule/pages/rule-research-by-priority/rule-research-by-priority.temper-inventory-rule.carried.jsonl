@@ -1,0 +1,16 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/research"}
+{"active":true}
+{"categoryId":"equipment"}
+{"conditions":"jsonl"}
+{"description":"Routes equipment with researchable traits to the character that needs them most. Characters are checked in priority order using TemperCharacters saved variable data for cross-character trait knowledge. The current character is checked first via the ESO API; others are checked via saved data."}
+{"destination":"character:by-priority"}
+{"displayOrder":42}
+{"fromTemplate":"temper-rule-template/research-by-priority"}
+{"goal":"temper-rule-goal/unlock"}
+{"id":"01a0728b-6d6e-7d08-943c-060decea6265"}
+{"locked":true}
+{"slug":"rule-research-by-priority"}
+{"title":"Research traits"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-05-04T16:05:00.238Z"}

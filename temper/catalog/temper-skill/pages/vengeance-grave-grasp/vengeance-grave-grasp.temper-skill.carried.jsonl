@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Grave Grasp"}
+{"description":"\"Summon three patches of skeletal claws from the ground in front of you to grab up to 3 enemies, immobilizing them for |cffffff3|r seconds and applying Minor Maim for |cffffff10|r seconds, reducing their damage done by |cffffff5|r%.\""}
+{"esoSkillId":253156}
+{"icon":"/esoui/art/icons/ability_necromancer_009.dds"}
+{"id":"019e6f53-a91d-78d8-ba5e-3772c77deef5"}
+{"isMorph":false}
+{"key":"vengeance-grave-grasp"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-necromancer-bone-tyrant"}
+{"skillType":"active"}
+{"slug":"vengeance-grave-grasp"}
+{"subcategoryId":"vengeance-necromancer-bone-tyrant"}
+{"title":"Vengeance Grave Grasp"}
+{"type":"page-type/temper-skill"}

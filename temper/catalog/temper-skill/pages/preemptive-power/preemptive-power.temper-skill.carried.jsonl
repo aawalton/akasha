@@ -1,0 +1,17 @@
+{"baseName":"Preemptive Power"}
+{"description":"\"Start each Scrying attempt with an additional row of facets already claimed.\""}
+{"esoSkillId":139777}
+{"icon":"/esoui/art/icons/ability_scrying_09.dds"}
+{"id":"019e6251-4cd6-7caf-8571-d7534325b082"}
+{"isMorph":false}
+{"key":"preemptive-power"}
+{"learnedLevel":1}
+{"lineRankNeeded":9}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"world-scrying"}
+{"skillType":"passive"}
+{"slug":"preemptive-power"}
+{"subcategoryId":"world-scrying"}
+{"title":"Preemptive Power"}
+{"type":"page-type/temper-skill"}

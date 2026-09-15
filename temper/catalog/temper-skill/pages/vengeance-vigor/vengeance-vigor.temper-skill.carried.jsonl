@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Vigor"}
+{"description":"\"Let loose a battle cry, instilling you with resolve and healing for |cffffff28916|r Health over |cffffff6|r seconds.\""}
+{"esoSkillId":244496}
+{"icon":"/esoui/art/icons/ability_ava_vigor.dds"}
+{"id":"019e6f53-a9aa-758c-9188-57c20df81f2d"}
+{"isMorph":false}
+{"key":"vengeance-vigor"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"vengeance-vigor"}
+{"subcategoryId":"vengeance-alliance-war-assault"}
+{"title":"Vengeance Vigor"}
+{"type":"page-type/temper-skill"}

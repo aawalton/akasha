@@ -1,0 +1,27 @@
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Shoulder_Raise"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Shoulder_Raise"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"pull"}
+{"gripDemand":"low"}
+{"id":"019ebc78-6134-7035-ac2d-516cf410c46d"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Shoulder_Raise/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Shoulder_Raise/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"mobility"}
+{"muscleFocus":"push"}
+{"primaryMuscles":["shoulders"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["lats"]}
+{"sfrScore":3}
+{"skillCost":"low"}
+{"slug":"shoulder-raise"}
+{"title":"Shoulder Raise"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

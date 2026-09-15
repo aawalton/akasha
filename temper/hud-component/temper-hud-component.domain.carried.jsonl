@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A part of the HUD is one fragment or one top-level control."},{"decisionKind":"decision-kind/departure","statement":"The catalog is read out of the game's own scene source rather than hand-written."},{"decisionKind":"decision-kind/departure","statement":"The name and category a person reads are hand-written here."},{"decisionKind":"decision-kind/departure","statement":"The catalog is data alone."},{"decisionKind":"decision-kind/absence","statement":"No game function is called here."}]}
+{"definition":"the parts of the game's HUD, each with the way the game hides that part"}
+{"id":"01a060a4-fa38-742d-9517-977730401b38"}
+{"parts":["module/hud-component-labels","module/hud-component-record","module/hud-controls","module/hud-fragment-group","module/hud-scene-catalog","module/hud-scene-fragments","module/hud-scene-parse","module/hud-scene-source"]}
+{"slug":"temper-hud-component"}
+{"type":"page-type/domain"}

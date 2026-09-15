@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here runs."}]}
+{"definition":"the name of every house the game sells, keyed by its house id"}
+{"id":"01a06113-b7ce-7b9b-af21-351c6f82669b"}
+{"slug":"housing-house-names"}
+{"type":"page-type/module"}

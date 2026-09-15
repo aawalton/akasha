@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-authored"}
+{"changeMode":"change-mode/change-mode-add"}
+{"changeTargetSubtype":"change-target-subtype/file"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The body is handed in whole rather than as a passage."},{"decisionKind":"decision-kind/departure","statement":"The body that body was composed against may be handed in beside it."},{"decisionKind":"decision-kind/departure","statement":"A body handed in that is not the body there refuses the change unwritten."},{"decisionKind":"decision-kind/absence","statement":"A caller handing none in writes over whatever the path holds."},{"decisionKind":"decision-kind/departure","statement":"Writing the body is left to the partial this change runs."},{"decisionKind":"decision-kind/departure","statement":"The checks judge the tree the edits leave."},{"decisionKind":"decision-kind/departure","statement":"The index files a page this change writes."},{"decisionKind":"decision-kind/departure","statement":"A later act in the same change names a page this change wrote."}]}
+{"definition":"one body written at one path, judged by the checks a landing runs"}
+{"id":"01a07813-6e3b-77c3-9c1e-b0c5778fd31b"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":1024}
+{"slug":"add-file"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

@@ -1,0 +1,8 @@
+{"definition":"a mix of parts one companion plays at once"}
+{"extends":["page-type/temper-companion-thing"]}
+{"id":"01a05fcd-41a8-7cf6-b803-033e5142d8cf"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-companion-role"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

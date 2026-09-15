@@ -1,0 +1,12 @@
+{"displayOrder":3}
+{"effect":"Increases Maximum Stamina"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_STAMINA"}
+{"essenceRune":"Deni"}
+{"glyphName":"Glyph of Stamina"}
+{"id":"01a05fd4-d96c-7e66-8940-ca31af8c2c46"}
+{"key":"stamina"}
+{"qualityValues":"jsonl"}
+{"slug":"stamina"}
+{"title":"Stamina"}
+{"type":"page-type/temper-armor-enchant"}

@@ -1,0 +1,11 @@
+{"containerPort":8080}
+{"definition":"the server that publishes the state of the cluster's own objects as metrics"}
+{"id":"01a06812-2380-742f-b9bc-e1bb91eceda6"}
+{"image":"registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0"}
+{"manifest":["manifest/kube-state-metrics"]}
+{"namespace":"prometheus"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"kube-state-metrics"}
+{"slug":"kube-state-metrics"}
+{"type":"page-type/service-cluster"}

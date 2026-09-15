@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The command line names a program on the host and the words handed to it."},{"decisionKind":"decision-kind/absence","statement":"No file of this repository is named here."}]}
+{"definition":"a command line a service starts"}
+{"id":"01a05a3f-b42b-7564-ba54-a63a51342f27"}
+{"maxLength":500}
+{"nameFormat":null}
+{"propertySlug":"runs"}
+{"slug":"runs"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,17 @@
+{"baseName":"World in Ruin"}
+{"description":"\"Dragons leave naught but ash and ruin in their wake.\\n\\nIncreases your damage done with area and over time attacks by |cffffff3|r%.\""}
+{"esoSkillId":29457}
+{"icon":"/esoui/art/icons/ability_sorcerer_010.dds"}
+{"id":"019e6f53-aa00-7cad-ba57-78b0e8c6af0c"}
+{"isMorph":false}
+{"key":"world-in-ruin-29457"}
+{"learnedLevel":14}
+{"lineRankNeeded":14}
+{"morphIndex":0}
+{"rank":14}
+{"skillLineId":"dragonknight-draconic-power"}
+{"skillType":"passive"}
+{"slug":"world-in-ruin-29457"}
+{"subcategoryId":"dragonknight-draconic-power"}
+{"title":"World in Ruin"}
+{"type":"page-type/temper-skill"}

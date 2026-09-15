@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The caller names the string prefix its enumeration answers to."},{"decisionKind":"decision-kind/departure","statement":"A number the client gives no text for is left out."},{"decisionKind":"decision-kind/absence","statement":"Nothing here knows which enumeration the caller handed in."}]}
+{"definition":"the display text the game client gives each number of one enumeration, gathered under that number"}
+{"id":"01a06127-662d-77a9-a9a1-5fcbf970d172"}
+{"slug":"enum-value-labels"}
+{"type":"page-type/module"}

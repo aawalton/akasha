@@ -1,0 +1,8 @@
+{"default":"30"}
+{"id":"01a094c5-c3ee-7ac3-8f46-5d0784dc6218"}
+{"placeholder":"ms"}
+{"said":"--step-ms"}
+{"slug":"step-ms"}
+{"takes":"how long each move of the drag takes, 30 where none is said"}
+{"type":"page-type/argument"}
+{"value":"whole-number"}

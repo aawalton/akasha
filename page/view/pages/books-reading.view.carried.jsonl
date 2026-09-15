@@ -1,0 +1,11 @@
+{"id":"01a06577-2614-700c-9e64-81a8db643cbc"}
+{"layout":"cards"}
+{"narrows":[{"key":"status","comparison":"in","values":["In Progress","Following"]}]}
+{"nav":"nav/books"}
+{"pageType":"page-type/ki-book"}
+{"slug":"books-reading"}
+{"title":"Reading"}
+{"type":"page-type/view"}
+{"viewPlace":0}
+{"viewSorts":[{"key":"title","descending":false}]}
+{"visibleProperties":["status","rating","length"]}

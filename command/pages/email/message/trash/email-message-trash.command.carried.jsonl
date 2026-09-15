@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/message","required":true,"saidAs":"flag-or-word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Trashing is a label rather than a delete."},{"decisionKind":"decision-kind/departure","statement":"The labels the message has after the change come back."},{"decisionKind":"decision-kind/departure","statement":"The message's id and its thread come back beside those labels."},{"decisionKind":"decision-kind/departure","statement":"A trash that threw after Gmail took the change says the message was trashed."},{"decisionKind":"decision-kind/absence","statement":"Nothing here deletes a message for good."}]}
+{"definition":"the command moving one Gmail message to Trash"}
+{"id":"01a06810-cf11-7809-b382-e88022027eb3"}
+{"name":"trash"}
+{"slug":"email-message-trash"}
+{"test":"ts"}
+{"type":"page-type/command"}

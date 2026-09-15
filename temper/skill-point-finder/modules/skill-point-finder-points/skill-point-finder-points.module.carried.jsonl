@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A count is recomputed from the points the game reports rather than accumulated."}]}
+{"definition":"how many skill points a character has earned against how many exist"}
+{"id":"01a060ec-5840-7997-b3de-8ee2e8c8c629"}
+{"slug":"skill-point-finder-points"}
+{"type":"page-type/module"}

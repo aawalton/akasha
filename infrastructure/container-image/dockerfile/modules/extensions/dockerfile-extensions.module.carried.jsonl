@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"No reader here reaches `text-at`, because each answers undefined rather than nothing."},{"decisionKind":"decision-kind/departure","statement":"A reader here keeps empty text as empty text."}]}
+{"definition":"what an image adds to the Dockerfile written for it, read off the file beside it"}
+{"id":"01a06865-abff-7002-982c-70fcb1c90980"}
+{"slug":"dockerfile-extensions"}
+{"type":"page-type/module"}

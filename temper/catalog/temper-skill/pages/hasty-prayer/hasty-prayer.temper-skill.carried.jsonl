@@ -1,0 +1,17 @@
+{"baseName":"Healing Ritual"}
+{"description":"\"Focus your spiritual devotion, healing you and nearby allies for 2614 Health.\\n\\nAffected targets gain Minor Expedition, increasing their Movement Speed by 15% for 10 seconds.\""}
+{"esoSkillId":27376}
+{"icon":"/esoui/art/icons/ability_templar_lingering_ritual.dds"}
+{"id":"019e6245-a69c-7cda-b99d-d640836c3f8a"}
+{"isMorph":true}
+{"key":"hasty-prayer"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"templar-restoring-light"}
+{"skillType":"active"}
+{"slug":"hasty-prayer"}
+{"subcategoryId":"templar-restoring-light"}
+{"title":"Hasty Prayer"}
+{"type":"page-type/temper-skill"}

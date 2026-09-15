@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A fallback font is loaded only where the client runs this language."}]}
+{"definition":"the fallback fonts a Windows or Mac client loads for German"}
+{"id":"01a06069-f8c4-7f77-9415-831c11b81963"}
+{"loadedAs":"PC/backupfont_de.xml"}
+{"markup":"xml"}
+{"slug":"media-pc-backupfont-de"}
+{"type":"page-type/eso-interface"}

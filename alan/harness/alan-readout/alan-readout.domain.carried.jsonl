@@ -1,0 +1,5 @@
+{"definition":"the readouts whose readings reach Alan"}
+{"id":"01a0655b-9cdd-774f-9482-0a29f14e0665"}
+{"parts":["module/day-readout-watching","module/workstation-load-sampling","service-workstation/day-readout-watch-service","service-workstation/workstation-load-sampler"]}
+{"slug":"alan-readout"}
+{"type":"page-type/domain"}

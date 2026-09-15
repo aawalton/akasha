@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This table is ported from the upstream library at a pinned commit."}]}
+{"definition":"the eleven set ids marked blacklisted"}
+{"id":"01a061d7-7bcc-7252-a57f-0353cca7caff"}
+{"slug":"lib-sets-gen-blacklisted-set-ids"}
+{"type":"page-type/module"}

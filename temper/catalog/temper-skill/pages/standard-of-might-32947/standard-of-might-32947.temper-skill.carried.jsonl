@@ -1,0 +1,17 @@
+{"baseName":"Dragonknight Standard"}
+{"description":"\"Call down a battle standard for |cffffff15|r seconds, rallying you and allies inside the area, increasing Weapon and Spell Damage by |cffffff300|r and reducing damage taken by |cffffff10|r%. You gain an additional |cffffff15|r% damage done and reduced damage taken and |cffffff300|r Weapon and Spell Damage.\\n\\nAn ally near the standard can activate the Shackle synergy, dealing |cffffff12393|r Flame Damage to enemies in the area and immobilizing them for |cffffff5|r seconds.\""}
+{"esoSkillId":32947}
+{"icon":"/esoui/art/icons/ability_dragonknight_006_b.dds"}
+{"id":"019e6f53-a7b5-7c30-8df1-8715d51cfe33"}
+{"isMorph":true}
+{"key":"standard-of-might-32947"}
+{"learnedLevel":12}
+{"lineRankNeeded":12}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"dragonknight-ardent-flame"}
+{"skillType":"ultimate"}
+{"slug":"standard-of-might-32947"}
+{"subcategoryId":"dragonknight-ardent-flame"}
+{"title":"Standard of Might"}
+{"type":"page-type/temper-skill"}

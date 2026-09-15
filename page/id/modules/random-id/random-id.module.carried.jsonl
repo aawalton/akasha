@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"No page takes its identity from here."},{"decisionKind":"decision-kind/departure","statement":"A value from here is unpredictable rather than ordered by time."}]}
+{"definition":"the runtime's random uuid, taken as a string"}
+{"id":"01a05c48-deeb-7012-98c6-5d13910416a7"}
+{"slug":"random-id"}
+{"type":"page-type/module"}

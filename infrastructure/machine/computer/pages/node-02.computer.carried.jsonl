@@ -1,0 +1,17 @@
+{"computerStatus":"active"}
+{"cpu":"intel-core-i7-7800x"}
+{"cpuScore":12969}
+{"display":"samsung-s24d300"}
+{"displayRefreshRate":"60-hz"}
+{"displayResolution":"1920x1080"}
+{"formFactor":"desktop"}
+{"gpu":"nvidia-geforce-gtx-1080-ti"}
+{"gpuScore":18604}
+{"gpuSize":"11gb"}
+{"id":"019e8b92-3b99-7f0e-b56f-6b072412828a"}
+{"operatingSystem":"windows-10-home"}
+{"ram":"64gb"}
+{"slug":"node-02"}
+{"ssd":931.5}
+{"title":"node-02"}
+{"type":"page-type/computer"}

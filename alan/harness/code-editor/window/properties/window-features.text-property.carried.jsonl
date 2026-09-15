@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One JSON document holds every feature the window has observed."},{"decisionKind":"decision-kind/departure","statement":"A feature's name names the field that feature's last observation is held under."},{"decisionKind":"decision-kind/departure","statement":"A feature invents the names of the counts that feature keeps."},{"decisionKind":"decision-kind/departure","statement":"The document is read whole, and a reader parses it for itself."},{"decisionKind":"decision-kind/absence","statement":"No question reaches a field inside this document."},{"decisionKind":"decision-kind/departure","statement":"A write replaces the whole document rather than adding to the document."},{"decisionKind":"decision-kind/absence","statement":"No author writes an observation here by hand."}]}
+{"definition":"the document holding what a window last observed of each of its features"}
+{"id":"01a0a158-a6b7-7389-9d78-445ec2c88b62"}
+{"maxLength":20000}
+{"nameFormat":null}
+{"propertySlug":"features"}
+{"slug":"window-features"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

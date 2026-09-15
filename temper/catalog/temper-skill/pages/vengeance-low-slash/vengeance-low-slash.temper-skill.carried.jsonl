@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Low Slash"}
+{"description":"\"Surprise an enemy with a deep lunge, dealing |cffffff6678|r Physical Damage and afflicting them with Minor Maim, reducing their damage done by |cffffff5|r% for |cffffff15|r seconds.\""}
+{"esoSkillId":240558}
+{"icon":"/esoui/art/icons/ability_1handed_001.dds"}
+{"id":"019e6f53-a936-7345-b7fd-66a82b7cdfb6"}
+{"isMorph":false}
+{"key":"vengeance-low-slash"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-one-hand-and-shield"}
+{"skillType":"active"}
+{"slug":"vengeance-low-slash"}
+{"subcategoryId":"vengeance-weapon-one-hand-and-shield"}
+{"title":"Vengeance Low Slash"}
+{"type":"page-type/temper-skill"}

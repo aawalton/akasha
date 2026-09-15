@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rung here answers for every page of the page type at once."},{"decisionKind":"decision-kind/absence","statement":"No rung here moves a file."}]}
+{"definition":"a mechanical change carrying what the pages of one page type hold into another place"}
+{"id":"01a095d0-387a-71fc-ae4e-21406f46f2ec"}
+{"parts":["change-mechanical-page-type/move-property-on-every-page","change-mechanical-page-type/sort-property-values-on-every-page"]}
+{"slug":"change-mechanical-page-type-move"}
+{"type":"page-type/domain"}

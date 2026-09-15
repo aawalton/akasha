@@ -1,0 +1,17 @@
+{"baseName":"Clairvoyance"}
+{"description":"\"Reduces the cost of your Psijic Order abilities by |cffffff8|r%.\""}
+{"esoSkillId":103809}
+{"icon":"/esoui/art/icons/ability_psijic_008.dds"}
+{"id":"019e6f53-9fed-75a0-af11-3bb37855ed38"}
+{"isMorph":false}
+{"key":"clairvoyance-103809"}
+{"learnedLevel":1}
+{"lineRankNeeded":3}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"guild-psijic-order"}
+{"skillType":"passive"}
+{"slug":"clairvoyance-103809"}
+{"subcategoryId":"guild-psijic-order"}
+{"title":"Clairvoyance"}
+{"type":"page-type/temper-skill"}

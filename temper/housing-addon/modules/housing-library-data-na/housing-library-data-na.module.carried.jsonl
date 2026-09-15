@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This code is written out from an upstream library file rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"An entry's place in this list is the place the library tab shows that entry in."},{"decisionKind":"decision-kind/gap","statement":"An entry moved to another place moves the entry every library row shows."}]}
+{"definition":"the houses North American players have shared with the community"}
+{"id":"01a06113-b7d1-7e85-b730-9398c3972952"}
+{"slug":"housing-library-data-na"}
+{"type":"page-type/module"}

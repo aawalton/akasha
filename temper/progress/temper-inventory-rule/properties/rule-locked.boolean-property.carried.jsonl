@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A locked rule is carried through a reset to defaults untouched."},{"decisionKind":"decision-kind/departure","statement":"Whether a rule is locked is stated rather than worked out from where that rule came."}]}
+{"definition":"whether a rule is held back from being edited or deleted"}
+{"id":"01a07283-f293-7fc7-9ed8-4c01ff4038fd"}
+{"propertySlug":"locked"}
+{"slug":"rule-locked"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

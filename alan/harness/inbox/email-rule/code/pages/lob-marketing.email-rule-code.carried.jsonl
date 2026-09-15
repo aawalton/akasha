@@ -1,0 +1,7 @@
+{"actions":["unsubscribe"]}
+{"filing":"archive"}
+{"id":"01a06860-54a2-7978-b9e4-3c0b5fc93368"}
+{"matches":[{"field":"from","comparison":"is","values":["hey@lob.com"]}]}
+{"slug":"lob-marketing"}
+{"title":"Lob marketing"}
+{"type":"page-type/email-rule-code"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path the caller named is answered back unchanged."},{"decisionKind":"decision-kind/departure","statement":"A path answered for no named path is stamped with the second the run was asked at."},{"decisionKind":"decision-kind/departure","statement":"A song is written under `Music/Generated`."},{"decisionKind":"decision-kind/departure","statement":"Everything else is written under `Pictures/Generated`."},{"decisionKind":"decision-kind/departure","statement":"A spoken output is named `.wav` and every other `.png`."},{"decisionKind":"decision-kind/departure","statement":"The folder a path names is made before the file is written."}]}
+{"definition":"where a run's output file is written when the caller named none"}
+{"id":"01a0682d-8ef5-7000-94d2-cb350381788d"}
+{"slug":"inference-output-path"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"definition":"one who wrote what Alan reads"}
+{"extends":["page-type/collection-external"]}
+{"id":"01a06807-be66-7000-b600-748274bb5ac8"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"author"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

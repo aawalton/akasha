@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The game saves the add-on under the name `TemperDataMining_SavedVariables`."},{"decisionKind":"decision-kind/departure","statement":"The defaults name no field."},{"decisionKind":"decision-kind/departure","statement":"The sweep fills each field as the sweep runs."},{"decisionKind":"decision-kind/absence","statement":"No load time is kept."}]}
+{"definition":"the name, version and defaults the mining add-on hands the game to save under"}
+{"id":"01a0608a-15b1-7b7c-a207-279aad7165d2"}
+{"slug":"datamining-descriptor"}
+{"type":"page-type/module"}

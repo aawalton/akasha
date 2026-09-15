@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A service stating false is installed and stopped rather than left uninstalled."}]}
+{"definition":"whether a service is to be running"}
+{"id":"01a05a3f-b42c-74ff-9a06-c83e54d1ff04"}
+{"propertySlug":"enabled"}
+{"slug":"enabled"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

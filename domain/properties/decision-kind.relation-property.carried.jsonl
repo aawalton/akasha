@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The plain word `kind` names the kind of value a property holds rather than the kind of decision."}]}
+{"definition":"which sort of decision one entry is"}
+{"id":"01a04d66-767b-740d-a958-1f84e5858ad0"}
+{"propertySlug":"decision-kind"}
+{"slug":"decision-kind"}
+{"targetPageType":"page-type/decision-kind"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

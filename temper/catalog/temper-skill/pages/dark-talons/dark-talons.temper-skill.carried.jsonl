@@ -1,0 +1,17 @@
+{"baseName":"Dark Talons"}
+{"description":"\"Call forth talons from the ground, dealing |cffffff6400|r Flame Damage to enemies near you and immobilizing them for |cffffff4|r seconds. \\n\\nAn ally near the talons can activate the Ignite synergy, dealing |cffffff10328|r Flame Damage to all enemies held within them.\""}
+{"esoSkillId":20245}
+{"icon":"/esoui/art/icons/ability_dragonknight_010.dds"}
+{"id":"019e6f53-a07f-7496-99f8-e01b32569b04"}
+{"isMorph":false}
+{"key":"dark-talons"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"dragonknight-draconic-power"}
+{"skillType":"active"}
+{"slug":"dark-talons"}
+{"subcategoryId":"dragonknight-draconic-power"}
+{"title":"Dark Talons"}
+{"type":"page-type/temper-skill"}

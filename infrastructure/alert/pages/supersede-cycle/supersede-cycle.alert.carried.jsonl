@@ -1,0 +1,6 @@
+{"definition":"the merge queue keeps superseding batches around one entry and nothing leaves the queue"}
+{"domain":"change-harness"}
+{"id":"01a06755-62fb-7f7f-a95d-62600889e3ec"}
+{"slug":"supersede-cycle"}
+{"title":"Supersede loop"}
+{"type":"page-type/alert"}

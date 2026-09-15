@@ -1,0 +1,11 @@
+{"containerPort":3000}
+{"definition":"the interface the database is read and edited through"}
+{"id":"01a06812-2381-7a04-b2a9-03ddb9048a47"}
+{"image":"supabase/studio:2026.04.08-sha-205cbe7"}
+{"manifest":["manifest/supabase-studio"]}
+{"namespace":"supabase-studio"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"supabase-studio"}
+{"slug":"supabase-studio"}
+{"type":"page-type/service-cluster"}

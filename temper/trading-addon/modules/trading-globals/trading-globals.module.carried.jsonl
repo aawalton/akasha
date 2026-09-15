@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only the names an outside caller needs are reachable."}]}
+{"definition":"the names the add-on hangs off the game's global table"}
+{"id":"01a06160-2a5b-740c-8508-b285f810f373"}
+{"slug":"trading-globals"}
+{"type":"page-type/module"}

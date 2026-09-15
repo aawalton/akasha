@@ -1,0 +1,11 @@
+{"description":"Grants Heroism, Invisible, Speed."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_010_type_005.dds"}
+{"id":"019e21f6-4068-7967-9cc5-1c6a9715eef8"}
+{"key":"expedition-heroism-vanish"}
+{"level":"CP150"}
+{"reagents":[{"names":["Dragon's Bile","Dragon Rheum","Namira's Rot"]}]}
+{"seconds":47}
+{"slug":"expedition-heroism-vanish"}
+{"title":"Essence of Speed"}
+{"type":"page-type/temper-potion-crafted"}

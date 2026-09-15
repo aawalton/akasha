@@ -1,0 +1,7 @@
+{"definition":"how far a part of Alan's chess has come"}
+{"id":"01a06582-bd62-7187-be50-aa4e75fcf746"}
+{"propertySlug":"mastery-level"}
+{"slug":"mastery-level"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["novice","developing","strong","expert"]}

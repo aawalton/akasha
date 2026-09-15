@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A traceback loses its Locals blocks before being kept."},{"decisionKind":"decision-kind/departure","statement":"An error with no visible text is recorded under a sentinel message."},{"decisionKind":"decision-kind/departure","statement":"An error that is not a string is recorded under a sentinel message."},{"decisionKind":"decision-kind/departure","statement":"A sentinel message has the listener's own callstack for want of the origin."}]}
+{"definition":"the message and the callstack read out of what the game hands an error listener"}
+{"id":"01a060d8-0918-794b-b5f8-4d8440ca2d4b"}
+{"slug":"errors-addon-traceback"}
+{"type":"page-type/module"}

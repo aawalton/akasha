@@ -1,0 +1,17 @@
+{"baseName":"Rune Prison"}
+{"description":"\"Imprison an enemy in a constricting sphere of dark magic. After a short duration they are stunned for |cffffff3|r seconds.\\n\\nThis stun cannot be blocked.\""}
+{"esoSkillId":24371}
+{"icon":"/esoui/art/icons/ability_sorcerer_dark_fog.dds"}
+{"id":"019e6f53-a688-7998-b8cb-7280b26aa503"}
+{"isMorph":false}
+{"key":"rune-prison"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":0}
+{"rank":20}
+{"skillLineId":"sorcerer-dark-magic"}
+{"skillType":"active"}
+{"slug":"rune-prison"}
+{"subcategoryId":"sorcerer-dark-magic"}
+{"title":"Rune Prison"}
+{"type":"page-type/temper-skill"}

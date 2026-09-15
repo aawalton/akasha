@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The empty slot sentinel counts toward no skill line."}]}
+{"definition":"what a character's slotted skills and worn armour answer about its passives"}
+{"id":"01a06187-b3a4-7d21-b96e-890c450998e3"}
+{"slug":"passive-queries"}
+{"type":"page-type/module"}

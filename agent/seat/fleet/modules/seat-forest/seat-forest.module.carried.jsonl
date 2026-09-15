@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A row's mode is the mode observed of the supervisor with that seat."},{"decisionKind":"decision-kind/departure","statement":"A seat nothing observed a mode of shows the mode that seat was started in."}]}
+{"definition":"every seat akasha holds, with each seat's principal and parent, as rows"}
+{"id":"01a069bd-bdc5-755e-a5da-244f293078f7"}
+{"slug":"seat-forest"}
+{"type":"page-type/module"}

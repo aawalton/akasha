@@ -1,0 +1,17 @@
+{"baseName":"Magicka Flood"}
+{"description":"\"Increases your Max Magicka and Stamina by |cffffff3|r%.\""}
+{"esoSkillId":36595}
+{"icon":"/esoui/art/icons/passive_sorcerer_008.dds"}
+{"id":"019e6f53-a441-7467-b658-2d034f4d5db2"}
+{"isMorph":false}
+{"key":"magicka-flood-36595"}
+{"learnedLevel":14}
+{"lineRankNeeded":14}
+{"morphIndex":0}
+{"rank":14}
+{"skillLineId":"nightblade-siphoning"}
+{"skillType":"passive"}
+{"slug":"magicka-flood-36595"}
+{"subcategoryId":"nightblade-siphoning"}
+{"title":"Magicka Flood"}
+{"type":"page-type/temper-skill"}

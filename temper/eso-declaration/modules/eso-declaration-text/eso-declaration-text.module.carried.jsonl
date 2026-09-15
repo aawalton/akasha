@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each file opens with a header saying the file was generated."},{"decisionKind":"decision-kind/departure","statement":"A function takes a void `this` before every other parameter."},{"decisionKind":"decision-kind/departure","statement":"Every parameter is declared optional."},{"decisionKind":"decision-kind/departure","statement":"One return is written as the return type and several returns as a tuple."},{"decisionKind":"decision-kind/departure","statement":"A call with variable returns ends its tuple in a rest of the last type."},{"decisionKind":"decision-kind/departure","statement":"An enum is a number type and an enum value a declared number."},{"decisionKind":"decision-kind/departure","statement":"An object with no methods and no parent is an empty type rather than an interface."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a file."}]}
+{"definition":"the TypeScript declaration text a set of selected game tokens is written as"}
+{"id":"01a0673e-3ddf-7003-bbda-94a1b1824f32"}
+{"slug":"eso-declaration-text"}
+{"test":"ts"}
+{"type":"page-type/module"}

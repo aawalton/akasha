@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A declaration narrows the length its property states by stating a shorter length."},{"decisionKind":"decision-kind/departure","statement":"A list holds each entry to the length rather than the entries together."}]}
+{"definition":"the most one value may run to, in characters"}
+{"id":"01a0780a-4fc5-7ef6-8dbb-c783a3f64f6b"}
+{"max":null}
+{"propertySlug":"max-length"}
+{"slug":"max-length"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

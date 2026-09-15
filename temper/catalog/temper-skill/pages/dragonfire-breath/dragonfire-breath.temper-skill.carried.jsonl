@@ -1,0 +1,17 @@
+{"baseName":"Dragonfire Breath"}
+{"description":"\"Exhale a blast of draconic fire in front of you, dealing |cffffff6400|r Flame Damage and an additional |cffffff9515|r Flame Damage over |cffffff10|r seconds to enemies in your path.\""}
+{"esoSkillId":20917}
+{"icon":"/esoui/art/icons/ability_dragonknight_004.dds"}
+{"id":"019e6f53-a0e6-7f97-8dbb-977c423edba3"}
+{"isMorph":false}
+{"key":"dragonfire-breath"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"dragonknight-draconic-power"}
+{"skillType":"active"}
+{"slug":"dragonfire-breath"}
+{"subcategoryId":"dragonknight-draconic-power"}
+{"title":"Dragonfire Breath"}
+{"type":"page-type/temper-skill"}

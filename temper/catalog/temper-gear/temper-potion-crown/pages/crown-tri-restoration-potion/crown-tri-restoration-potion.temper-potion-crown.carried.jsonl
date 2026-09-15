@@ -1,0 +1,14 @@
+{"categoryId":"potions"}
+{"description":"Restore 9206 Health, 7582 Magicka, and 7582 Stamina immediately. Grants Major Fortitude, Major Intellect, and Major Endurance which increase your Health Recovery, Magicka Recovery, and Stamina Recovery by 30% for 36.3 seconds."}
+{"displayOrder":0}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/crownpotion_trires.dds"}
+{"id":"019e21f5-7534-7436-a51b-5d921f4e306f"}
+{"itemId":64710}
+{"key":"crown-tri-restoration-potion"}
+{"level":"Scaled"}
+{"seconds":36.3}
+{"slug":"crown-tri-restoration-potion"}
+{"subcategoryId":"crown"}
+{"title":"Crown Tri-Restoration Potion"}
+{"type":"page-type/temper-potion-crown"}

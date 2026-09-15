@@ -1,0 +1,8 @@
+{"definition":"something a character knows how to make"}
+{"extends":["page-type/world-mechanic"]}
+{"id":"01a06558-a991-7d40-b27c-78cd6a90c073"}
+{"runsTabooCheck":false}
+{"schema":"jsonl"}
+{"slug":"world-recipe"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

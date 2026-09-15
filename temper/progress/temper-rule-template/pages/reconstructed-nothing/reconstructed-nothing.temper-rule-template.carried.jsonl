@@ -1,0 +1,12 @@
+{"action":"temper-item-action/nothing"}
+{"active":false}
+{"categoryId":"equipment"}
+{"conditions":"jsonl"}
+{"description":"Prevents reconstructed equipment from being affected by lower-priority rules. Reconstructed gear costs transmute crystals and set collection knowledge."}
+{"displayOrder":8}
+{"goal":"temper-rule-goal/equip"}
+{"id":"019e3104-260d-7216-94db-9f9abfd643f3"}
+{"key":"reconstructed-nothing"}
+{"slug":"reconstructed-nothing"}
+{"title":"Protect reconstructed gear"}
+{"type":"page-type/temper-rule-template"}

@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"the rewritten source file with unreached re-export declarations removed"}
+{"id":"01a06758-8ed4-7002-8ac7-58ee4df05c7f"}
+{"slug":"transpile-prune-unused-reexports"}
+{"type":"page-type/module"}

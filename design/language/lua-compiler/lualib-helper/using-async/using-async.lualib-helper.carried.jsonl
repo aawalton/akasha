@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"a call whose disposable arguments are disposed of, awaiting the asynchronous ones"}
+{"id":"01a08c41-078a-7bfe-abd3-af93139d0cb2"}
+{"luaExport":"__TS__UsingAsync"}
+{"slug":"using-async"}
+{"type":"page-type/lualib-helper"}

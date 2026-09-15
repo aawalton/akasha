@@ -1,0 +1,6 @@
+{"definition":"the commands Temper is run by"}
+{"id":"01a07c18-53a9-70f9-8d78-f1c36c87af0b"}
+{"name":"temper"}
+{"parts":["command/temper-auto-quest-trace","command/temper-error-list","command/temper-package-typecheck","namespace/temper-addon","namespace/temper-catalog","namespace/temper-community","namespace/temper-eso","namespace/temper-inventory","namespace/temper-upstream","namespace/temper-watcher"]}
+{"slug":"temper"}
+{"type":"page-type/namespace"}

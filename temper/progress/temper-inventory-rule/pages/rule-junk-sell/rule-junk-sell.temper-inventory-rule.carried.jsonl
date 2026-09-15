@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/sell"}
+{"active":true}
+{"categoryId":"junk"}
+{"conditions":"jsonl"}
+{"description":"Sells items in the junk category at a merchant."}
+{"displayOrder":66}
+{"fromTemplate":"temper-rule-template/junk-sell"}
+{"goal":"temper-rule-goal/sell"}
+{"id":"01a0728b-4fbd-7bca-897f-6a7664af3476"}
+{"locked":true}
+{"slug":"rule-junk-sell"}
+{"title":"Sell junk"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-05-04T16:04:31.132Z"}

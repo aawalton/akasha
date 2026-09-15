@@ -1,0 +1,11 @@
+{"enchantmentMultiplier":1}
+{"esoWeaponType":"WEAPONTYPE_BOW"}
+{"id":"019e46b6-4093-7b67-baf3-46ba92124202"}
+{"isTwoHanded":true}
+{"key":"bow"}
+{"skillLineId":"weapon-bow"}
+{"slug":"bow"}
+{"title":"Bow"}
+{"type":"page-type/temper-weapon-type"}
+{"validSlots":["main-hand"]}
+{"weaponPower":1335}

@@ -1,0 +1,6 @@
+{"filing":"archive"}
+{"id":"01a06860-54a2-7a2b-8284-3e37ee4f5fce"}
+{"matches":[{"field":"from","comparison":"ends-with","values":["saraplus.com"]},{"field":"subject","comparison":"contains","values":["at&t order","order summary","order confirmation","your order","recent order"]}]}
+{"slug":"saraplus-akena-att"}
+{"title":"Saraplus akena att"}
+{"type":"page-type/email-rule-code"}

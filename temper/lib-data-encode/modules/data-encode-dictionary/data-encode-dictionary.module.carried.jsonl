@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value already in the global dictionary is left out of the local dictionary."},{"decisionKind":"decision-kind/departure","statement":"A value is counted only from the third time that value is met."},{"decisionKind":"decision-kind/departure","statement":"A whole number between zero and one hundred is too short to be worth an index."},{"decisionKind":"decision-kind/departure","statement":"A string or a number running to two characters at most is too short to be worth an index."},{"decisionKind":"decision-kind/departure","statement":"The dictionary is ordered from the value met most often down to the value met least."},{"decisionKind":"decision-kind/departure","statement":"A key of an array is skipped rather than counted."}]}
+{"definition":"the repeated values of a table gathered so each is written out once"}
+{"id":"01a06061-969f-7e3e-b218-3d402a626bde"}
+{"slug":"data-encode-dictionary"}
+{"type":"page-type/module"}

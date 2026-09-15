@@ -1,0 +1,9 @@
+{"definition":"what a test run loads before the first test"}
+{"extensions":["toml"]}
+{"fileName":"bunfig.toml"}
+{"id":"01a081a7-94db-7f89-b28d-d6b14b0058eb"}
+{"propertySlug":"test-preload"}
+{"slug":"test-preload"}
+{"toolResolvesPaths":true}
+{"type":"page-type/file-property"}
+{"types":"ts"}

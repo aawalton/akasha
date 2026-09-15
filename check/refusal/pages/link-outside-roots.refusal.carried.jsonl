@@ -1,0 +1,5 @@
+{"id":"01a06611-398b-77f2-9c4e-5aa9a9baaf0f"}
+{"slug":"link-outside-roots"}
+{"text":"{where} links `{href}`, which resolves to {resolved}, outside every declared root ({roots}) — a path leaving the roots is reachable on the machine that wrote it and nowhere else, so the link reads as resolved to its author alone."}
+{"title":"Link outside roots"}
+{"type":"page-type/refusal"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An entry naming a metric names no buff."},{"decisionKind":"decision-kind/departure","statement":"An entry naming a metric also has an effect type and an effect value."}]}
+{"definition":"what one set bonus does, a metric or a buff to an entry"}
+{"id":"01a05fd1-d436-73c6-b34e-3d504facf23f"}
+{"properties":[{"pageProperty":"text-property/metric-id","required":false,"many":false},{"pageProperty":"text-property/effect-type","required":false,"many":false},{"pageProperty":"number-property/effect-value","required":false,"many":false},{"pageProperty":"text-property/buff-id","required":false,"many":false}]}
+{"propertySlug":"effects"}
+{"slug":"bonus-effects"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Every persona is counted from 2026-08-08 and from no day earlier."},{"decisionKind":"decision-kind/departure","statement":"The day named is itself left out of the days before that day."},{"decisionKind":"decision-kind/departure","statement":"One day alone is taken by its date whether counting began by then or not."},{"decisionKind":"decision-kind/departure","statement":"A date is compared as text rather than as a date."},{"decisionKind":"decision-kind/departure","statement":"A day with no count of its own is passed over."},{"decisionKind":"decision-kind/departure","statement":"A persona counted on no day is in no total rather than in a total of zero."},{"decisionKind":"decision-kind/absence","statement":"Nothing here turns a count into points."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes."}]}
+{"definition":"how many messages each persona was written over a run of days"}
+{"id":"01a082e7-25cd-7547-840c-7cd58dad9c8c"}
+{"slug":"day-messages-totalling"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-checked"}
+{"changeMode":"change-mode/change-mode-add"}
+{"changeTargetSubtype":"change-target-subtype/file"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The path is handed in and the body is not."},{"decisionKind":"decision-kind/departure","statement":"The body landed is the body the tree holds at that path when the edits land."},{"decisionKind":"decision-kind/departure","statement":"A body of any bytes lands this way, because no argument spells that body."},{"decisionKind":"decision-kind/departure","statement":"A path the tree holds no body at is refused."},{"decisionKind":"decision-kind/departure","statement":"The checks judge the tree the edits leave."},{"decisionKind":"decision-kind/absence","statement":"This change works no body out, so this change reaches no mechanical change."}]}
+{"definition":"one body the tree already holds, landed at the path that body sits at"}
+{"id":"01a09116-8eac-7885-886c-17c41e842516"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":1024}
+{"slug":"add-binary-file"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

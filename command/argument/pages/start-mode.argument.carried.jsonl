@@ -1,0 +1,7 @@
+{"id":"01a094e1-4465-7146-8490-eac1d8e78d76"}
+{"placeholder":"mode"}
+{"said":"--start-mode"}
+{"slug":"start-mode"}
+{"takes":"`interactive` or `headless`, which is whether a terminal is attached"}
+{"type":"page-type/argument"}
+{"value":"text"}

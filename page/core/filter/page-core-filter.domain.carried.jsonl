@@ -1,0 +1,5 @@
+{"definition":"a filter read as a condition"}
+{"id":"01a071c6-08d9-7da0-83a9-8cc992a2b7ea"}
+{"parts":["module/filter-to-condition","module/property-path"]}
+{"slug":"page-core-filter"}
+{"type":"page-type/domain"}

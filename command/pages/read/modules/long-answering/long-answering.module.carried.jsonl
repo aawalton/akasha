@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A run short of the last line answers how far the body reached."},{"decisionKind":"decision-kind/departure","statement":"A run reaching the last line answers that the body was read whole."},{"decisionKind":"decision-kind/departure","statement":"A record naming another body answers nothing already reached."},{"decisionKind":"decision-kind/departure","statement":"A body no line of which fits the room left over answers a refusal, not a run."},{"decisionKind":"decision-kind/departure","statement":"The room left over for a body is never less than nothing."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes to the record of the bodies an agent read."}]}
+{"definition":"the run of lines a body too long for one answer hands back, and how far it reached"}
+{"id":"01a0956d-dad6-7000-bca1-cb148c7ff3f1"}
+{"slug":"long-answering"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/module"}

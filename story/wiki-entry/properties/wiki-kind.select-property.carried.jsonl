@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seed is a thing the story has set up rather than a thing the story has."}]}
+{"definition":"what a wiki entry is about"}
+{"id":"01a06577-f385-7cda-a112-1e8887344a93"}
+{"propertySlug":"kind"}
+{"slug":"wiki-kind"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["character","location","relationship","seed","system"]}

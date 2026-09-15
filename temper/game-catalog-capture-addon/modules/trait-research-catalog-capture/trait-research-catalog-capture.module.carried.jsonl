@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The collector adds itself to the catalog registry as the module loads."},{"decisionKind":"decision-kind/departure","statement":"Research lines are read for the four crafting types with research."},{"decisionKind":"decision-kind/departure","statement":"A trait name is read from the game's string table."}]}
+{"definition":"the smithing research lines and traits, read into the add-on's saved variables"}
+{"id":"01a060e2-3185-7d5b-b999-a74d0bc90882"}
+{"slug":"trait-research-catalog-capture"}
+{"type":"page-type/module"}

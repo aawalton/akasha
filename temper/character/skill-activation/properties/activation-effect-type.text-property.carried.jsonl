@@ -1,0 +1,8 @@
+{"definition":"what firing a skill does to whoever it lands on"}
+{"id":"01a05fcd-f548-7652-9174-37322bc01700"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"effect-type"}
+{"slug":"activation-effect-type"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The parts of a collection are the collections naming that collection here."}]}
+{"definition":"the collections a collection is part of"}
+{"id":"01a063de-2c60-700b-8db4-bed38f86b940"}
+{"propertySlug":"part-of-collections"}
+{"slug":"part-of-collections"}
+{"targetPageType":"page-type/collection"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

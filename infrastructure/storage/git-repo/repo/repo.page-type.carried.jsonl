@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The repository a change lands in settles how that change lands."}]}
+{"definition":"a domain whose subject is one repository"}
+{"extends":["page-type/domain"]}
+{"id":"01a06835-e289-7ce5-b198-71205e81f789"}
+{"parts":["repo/akasha-repo","repo/code-editor-repo"]}
+{"schema":"jsonl"}
+{"slug":"repo"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

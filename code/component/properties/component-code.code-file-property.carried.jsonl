@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This code is written in TSX."}]}
+{"definition":"the code a component is"}
+{"extensions":["tsx"]}
+{"id":"01a071cb-913e-7640-a55f-ecae5999419f"}
+{"propertySlug":"code"}
+{"slug":"component-code"}
+{"type":"page-type/code-file-property"}
+{"types":"ts"}

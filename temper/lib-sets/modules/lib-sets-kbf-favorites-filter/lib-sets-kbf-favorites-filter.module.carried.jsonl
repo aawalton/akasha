@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The first entry of the dropdown covers sets marked with no favourite."}]}
+{"definition":"the dropdown of favourite categories a set can be marked with"}
+{"id":"01a0623e-53a1-7630-820e-af044a097b87"}
+{"slug":"lib-sets-kbf-favorites-filter"}
+{"type":"page-type/module"}

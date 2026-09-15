@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A map the tables know nothing of answers with nothing."}]}
+{"definition":"finding the champions of the open map, by map id first and by zone name second"}
+{"id":"01a060f9-bac8-786f-8c5a-fd4bee1b1d16"}
+{"slug":"dungeon-champion-lookup"}
+{"type":"page-type/module"}

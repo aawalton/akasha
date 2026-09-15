@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The cast asserts the type rather than checking that type."}]}
+{"definition":"an unchecked cast onto an array of DLC entries"}
+{"id":"01a061d7-7bc6-7f09-8a94-7988ce547bf5"}
+{"slug":"lib-sets-const-casts"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Mesmerize"}
+{"description":"\"Subdue enemies in front of you with your baleful gaze, stunning them for |cffffff5|r seconds if they are facing your direction.\\n\\nThis stun cannot be blocked.\\n\\nAfter the stun ends they remain stupefied, reducing their Movement Speed by |cffffff53|r% for |cffffff5|r seconds.\""}
+{"esoSkillId":138097}
+{"icon":"/esoui/art/icons/ability_u26_vampire_04_b.dds"}
+{"id":"019e6f53-a7cf-79f1-ad40-e6d84bfdacda"}
+{"isMorph":true}
+{"key":"stupefy-138097"}
+{"learnedLevel":1}
+{"lineRankNeeded":6}
+{"morphIndex":2}
+{"rank":6}
+{"skillLineId":"world-vampire"}
+{"skillType":"active"}
+{"slug":"stupefy-138097"}
+{"subcategoryId":"world-vampire"}
+{"title":"Stupefy"}
+{"type":"page-type/temper-skill"}

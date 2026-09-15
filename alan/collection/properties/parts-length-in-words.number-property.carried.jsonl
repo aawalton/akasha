@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This value is added up over the collection's parts rather than stated on that collection."},{"decisionKind":"decision-kind/departure","statement":"Each part's own total length in words is added up."},{"decisionKind":"decision-kind/gap","statement":"A formula cannot yet add a property up over the pages a relation reaches."}]}
+{"definition":"how much there is to work through in the collections this one holds, in words"}
+{"id":"01a06959-98a7-7ab5-991b-44150f978745"}
+{"max":null}
+{"propertySlug":"parts-length-in-words"}
+{"slug":"parts-length-in-words"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"id":"01a094db-c07f-7337-86cb-f9ccfc7b5830"}
+{"placeholder":"path"}
+{"said":"--text-file"}
+{"slug":"text-file"}
+{"takes":"the file the text is read from, or `-` for standard input"}
+{"type":"page-type/argument"}
+{"value":"path"}

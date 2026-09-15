@@ -1,0 +1,8 @@
+{"definition":"the account this person signs in with"}
+{"id":"01a06594-c6e2-7a41-b658-712415c18bbe"}
+{"maxLength":50}
+{"nameFormat":null}
+{"propertySlug":"relationship-account-user-id"}
+{"slug":"relationship-account-user-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

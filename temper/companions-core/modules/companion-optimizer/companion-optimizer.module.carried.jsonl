@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The score sums role metrics with tank and support toughness divided by ten."},{"decisionKind":"decision-kind/departure","statement":"The skill bar is sanitized of role-invalid skills before every evaluation."},{"decisionKind":"decision-kind/constraint","statement":"A build with no matching role metric evaluates to zero."}]}
+{"definition":"scores a companion build by summing the metrics the build's roles are judged on"}
+{"id":"01a06152-c2cd-7817-8e93-a08a7fd88008"}
+{"slug":"companion-optimizer"}
+{"type":"page-type/module"}

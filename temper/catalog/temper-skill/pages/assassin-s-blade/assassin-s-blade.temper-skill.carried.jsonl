@@ -1,0 +1,17 @@
+{"baseName":"Assassin's Blade"}
+{"description":"\"Thrust a magic blade with lethal precision to stab an enemy, dealing |cffffff4036|r Magic Damage. Deals |cffffff300|r% more damage to enemies below |cffffff25|r% Health.\""}
+{"esoSkillId":33386}
+{"icon":"/esoui/art/icons/ability_nightblade_017.dds"}
+{"id":"019e6f53-9ecd-7230-9a97-33b99610bbc9"}
+{"isMorph":false}
+{"key":"assassin-s-blade"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":0}
+{"rank":20}
+{"skillLineId":"nightblade-assassination"}
+{"skillType":"active"}
+{"slug":"assassin-s-blade"}
+{"subcategoryId":"nightblade-assassination"}
+{"title":"Assassin's Blade"}
+{"type":"page-type/temper-skill"}

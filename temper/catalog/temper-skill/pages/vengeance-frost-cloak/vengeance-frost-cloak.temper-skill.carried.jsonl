@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Frost Cloak"}
+{"description":"\"Wrap a thick cloak of ice around yourself and up to 2 grouped allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\""}
+{"esoSkillId":238076}
+{"icon":"/esoui/art/icons/ability_warden_001.dds"}
+{"id":"019e6f53-a915-7079-b00f-06b0c44b2551"}
+{"isMorph":false}
+{"key":"vengeance-frost-cloak"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-warden-winters-embrace"}
+{"skillType":"active"}
+{"slug":"vengeance-frost-cloak"}
+{"subcategoryId":"vengeance-warden-winters-embrace"}
+{"title":"Vengeance Frost Cloak"}
+{"type":"page-type/temper-skill"}

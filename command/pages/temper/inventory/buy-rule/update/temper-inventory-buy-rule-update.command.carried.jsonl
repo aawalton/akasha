@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/force"},{"argument":"argument/target-quantity"},{"argument":"argument/title"},{"argument":"argument/notes"},{"argument":"argument/goal"},{"argument":"argument/active"},{"argument":"argument/source"},{"argument":"argument/buy-rule-id","required":true,"saidAs":"word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A locked buy rule is refused unless the call says `--force`."},{"decisionKind":"decision-kind/departure","statement":"A call naming no field to change is refused, naming the fields it changes."},{"decisionKind":"decision-kind/departure","statement":"A source no buy rule buys at is refused before the store is read at all."},{"decisionKind":"decision-kind/departure","statement":"The act that changes takes the store rather than reaching it."},{"decisionKind":"decision-kind/departure","statement":"A change is named on the caller's list as soon as that write has gone through."},{"decisionKind":"decision-kind/departure","statement":"A rule left unwritten is named nowhere, whether refused or locked."},{"decisionKind":"decision-kind/absence","statement":"Nothing the web alone shows reaches the addon."},{"decisionKind":"decision-kind/departure","statement":"An id no buy rule has refuses the call."}]}
+{"definition":"the command changing the fields of a buy rule named by its id"}
+{"id":"01a0603c-c1d1-7778-bcb7-99cee8e25369"}
+{"name":"update"}
+{"slug":"temper-inventory-buy-rule-update"}
+{"test":"ts"}
+{"type":"page-type/command"}

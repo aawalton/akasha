@@ -1,0 +1,7 @@
+{"definition":"the achievements a scribing source's tiers are counted by, one to a line"}
+{"id":"01a05fca-cb88-781e-b113-6703da6a0689"}
+{"properties":[{"pageProperty":"text-property/achievement-name","required":true,"many":false},{"pageProperty":"number-property/achievement-id","required":true,"many":false}]}
+{"propertySlug":"tier-achievements"}
+{"slug":"tier-achievements"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

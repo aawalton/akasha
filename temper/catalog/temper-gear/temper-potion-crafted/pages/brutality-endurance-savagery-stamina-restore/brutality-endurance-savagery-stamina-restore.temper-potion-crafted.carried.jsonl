@@ -1,0 +1,11 @@
+{"description":"Grants Restore Stamina, Increase Weapon Power, Increase Weapon Crit."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_005_type_005.dds"}
+{"id":"019e21f6-4056-7458-a358-6888e3680c5a"}
+{"key":"brutality-endurance-savagery-stamina-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Blessed Thistle","Dragonthorn","Water Hyacinth"]},{"names":["Blessed Thistle","Dragonthorn","Wormwood"]}]}
+{"seconds":47}
+{"slug":"brutality-endurance-savagery-stamina-restore"}
+{"title":"Essence of Weapon Power"}
+{"type":"page-type/temper-potion-crafted"}

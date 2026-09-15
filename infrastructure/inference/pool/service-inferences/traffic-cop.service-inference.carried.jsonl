@@ -1,0 +1,12 @@
+{"definition":"the service settling which model is resident on the machine"}
+{"enabled":true}
+{"host":"macbook"}
+{"id":"01a090a3-49cd-77e0-94ee-65778e11afc4"}
+{"lifecycle":"always-on"}
+{"port":8099}
+{"provision":"shell-script/traffic-cop-provision"}
+{"pythonVersion":"3.12"}
+{"runs":["bun run src/server.ts"]}
+{"slug":"traffic-cop"}
+{"type":"page-type/service-inference"}
+{"workdir":"."}

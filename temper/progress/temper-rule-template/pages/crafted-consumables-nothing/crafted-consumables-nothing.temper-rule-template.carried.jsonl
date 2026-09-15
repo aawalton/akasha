@@ -1,0 +1,12 @@
+{"action":"temper-item-action/nothing"}
+{"active":false}
+{"categoryId":"consumables"}
+{"conditions":"jsonl"}
+{"description":"Prevents crafted food, drink, potions, poisons, and glyphs from being affected by lower-priority rules. Crafted consumables take ingredients and time to make — this keeps them safe from accidental sell or destroy rules."}
+{"displayOrder":7}
+{"goal":"temper-rule-goal/use"}
+{"id":"019e3104-260c-727e-bb79-241dd40a8002"}
+{"key":"crafted-consumables-nothing"}
+{"slug":"crafted-consumables-nothing"}
+{"title":"Protect crafted consumables"}
+{"type":"page-type/temper-rule-template"}

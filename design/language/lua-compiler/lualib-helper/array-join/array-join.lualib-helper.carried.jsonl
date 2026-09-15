@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the text an array's elements make with a separator between them"}
+{"id":"01a081ed-ab46-74e9-a87b-d64376149421"}
+{"luaExport":"__TS__ArrayJoin"}
+{"slug":"array-join"}
+{"type":"page-type/lualib-helper"}

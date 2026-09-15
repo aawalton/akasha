@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An expired pinned account is refused headless and re-authenticated interactively."},{"decisionKind":"decision-kind/departure","statement":"A pinned account with no credential falls back only where that account was not pinned."},{"decisionKind":"decision-kind/departure","statement":"A credential that cannot be read is a fault rather than an account that is absent."},{"decisionKind":"decision-kind/absence","statement":"Nothing here renews a token."}]}
+{"definition":"the account a seat runs under and the credential written for it"}
+{"id":"01a0683e-3dbe-7003-8c74-a74611900fdd"}
+{"slug":"supervisor-agent"}
+{"type":"page-type/module"}

@@ -1,0 +1,9 @@
+{"addonKind":"ported"}
+{"addonName":"TemperNavigation"}
+{"adjacents":["held-addon/temper-collections","held-addon/temper-keybinder","held-addon/lib-map-pins","held-addon/lib-addon-menu","held-addon/lib-gps","held-addon/lib-debug-logger","held-addon/lib-saved-vars","held-addon/lib-notification","held-addon/lib-treasure","held-addon/lib-map-data","held-addon/lib-async"]}
+{"esoAddon":"eso-addon/temper-navigation-addon"}
+{"heldBy":15147}
+{"id":"01a081a2-4c1b-7876-acea-015c2fa8b043"}
+{"slug":"temper-navigation"}
+{"tiClean":true}
+{"type":"page-type/held-addon"}

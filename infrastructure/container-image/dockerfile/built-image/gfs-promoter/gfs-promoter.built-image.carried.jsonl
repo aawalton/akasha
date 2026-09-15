@@ -1,0 +1,7 @@
+{"definition":"the image the backup promoter runs in"}
+{"extensions":"json"}
+{"folder":"infrastructure/storage/backup/retention"}
+{"id":"01a08194-6715-7c46-9a2d-7b4740d6ca3d"}
+{"kind":"bun-service"}
+{"slug":"gfs-promoter"}
+{"type":"page-type/built-image"}

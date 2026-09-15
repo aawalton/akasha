@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the bytes of one page's media in one medium"}
+{"id":"01a082a1-706f-7c11-9472-c75f0339085a"}
+{"slug":"alan-web-api-media"}
+{"type":"page-type/route"}
+{"urlPath":"api/media/:pageId/:medium"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The name starts out empty and the game fills the name from the saved variables file."},{"decisionKind":"decision-kind/departure","statement":"The game loads the file before the compiled add-on rather than compiling the two together."}]}
+{"definition":"the one name the catalog add-on's side file is read back into"}
+{"id":"01a063ba-94e5-7985-98c9-01225f7eeb33"}
+{"loadedAs":"TemperCatalogConfig.lua"}
+{"lua":"lua"}
+{"slug":"catalog-config-file"}
+{"type":"page-type/lua-module"}

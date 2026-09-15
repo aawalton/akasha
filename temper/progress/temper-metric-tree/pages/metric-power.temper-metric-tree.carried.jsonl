@@ -1,0 +1,9 @@
+{"displayOrder":1}
+{"id":"019e2fcd-5962-7a60-a8ac-633ee4efb026"}
+{"includeInChildAggregates":true}
+{"nodeId":"power"}
+{"nodeType":"metric"}
+{"parent":"category-damage"}
+{"slug":"metric-power"}
+{"title":"Power"}
+{"type":"page-type/temper-metric-tree"}

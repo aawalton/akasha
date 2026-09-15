@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The two icons beside the icon-set dropdown are built once the panel exists."},{"decisionKind":"decision-kind/departure","statement":"The control types this panel needs are declared here rather than globally."}]}
+{"definition":"the settings panel a player opens with the slash command"}
+{"id":"01a060f9-bad9-750a-870e-3ac5edb4440c"}
+{"slug":"dungeon-champion-settings"}
+{"type":"page-type/module"}

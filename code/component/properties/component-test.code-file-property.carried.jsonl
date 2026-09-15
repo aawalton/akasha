@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A test proving code written in TSX is written in TSX too."}]}
+{"definition":"what proves a component's code"}
+{"extensions":["tsx"]}
+{"id":"01a071cb-913e-712f-ae34-97ed4fde93c2"}
+{"propertySlug":"test"}
+{"slug":"component-test"}
+{"type":"page-type/code-file-property"}
+{"types":"ts"}

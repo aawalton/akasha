@@ -1,0 +1,17 @@
+{"baseName":"Restoration Expert"}
+{"description":"\"Increases your healing by |cffffff8|r% on allies under |cffffff30|r% Health.\""}
+{"esoSkillId":30980}
+{"icon":"/esoui/art/icons/ability_templar_016.dds"}
+{"id":"019e6f53-a628-71de-a5a7-dbad4b8cc622"}
+{"isMorph":false}
+{"key":"restoration-expert-30980"}
+{"learnedLevel":1}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":10}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"passive"}
+{"slug":"restoration-expert-30980"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Restoration Expert"}
+{"type":"page-type/temper-skill"}

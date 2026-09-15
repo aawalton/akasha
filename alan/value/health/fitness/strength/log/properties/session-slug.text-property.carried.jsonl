@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A bout is the run of sets Alan performed at one sitting."},{"decisionKind":"decision-kind/departure","statement":"Two sets of one day naming two bouts were performed at two sittings."},{"decisionKind":"decision-kind/absence","statement":"A bout is no page."}]}
+{"definition":"the bout of training the set belonged to"}
+{"id":"01a06580-66fd-7412-a20a-d678614e0121"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"session-slug"}
+{"slug":"session-slug"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

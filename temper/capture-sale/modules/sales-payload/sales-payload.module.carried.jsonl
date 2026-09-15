@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A sale is held under the sale id the game gave the sale."},{"decisionKind":"decision-kind/departure","statement":"A sale names the item sold and the quantity of the item."},{"decisionKind":"decision-kind/departure","statement":"A sale names the buyer and the guild the sale went through."},{"decisionKind":"decision-kind/departure","statement":"A sale names the price paid and the tax taken out of the price."},{"decisionKind":"decision-kind/departure","statement":"Every field of a sale may be missing."},{"decisionKind":"decision-kind/departure","statement":"The payload names the account the sales were captured under."},{"decisionKind":"decision-kind/absence","statement":"Nothing here has code that runs."}]}
+{"definition":"the shape one sale through a guild store takes, held under an id of its own"}
+{"id":"01a0608a-15b3-7095-b65b-bb44a69a01c0"}
+{"slug":"sales-payload"}
+{"type":"page-type/module"}

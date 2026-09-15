@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An initiative lists nothing beneath that initiative."},{"decisionKind":"decision-kind/departure","statement":"This edge is read inverted."}]}
+{"definition":"the initiative an initiative sits under"}
+{"id":"01a04e58-5735-7668-9aee-b2da5c7b346a"}
+{"propertySlug":"parent"}
+{"slug":"initiative-parent"}
+{"targetPageType":"page-type/initiative"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

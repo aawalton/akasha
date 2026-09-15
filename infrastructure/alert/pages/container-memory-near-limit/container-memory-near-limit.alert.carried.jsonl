@@ -1,0 +1,8 @@
+{"definition":"a container is using close to all the memory it is allowed"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62f9-7e03-bd69-9caced3fcadb"}
+{"runbook":"txt"}
+{"slug":"container-memory-near-limit"}
+{"summary":"Container {{ $labels.namespace }}/{{ $labels.container }} peaked at {{ $value | humanizePercentage }} of its memory limit"}
+{"title":"Container memory near limit"}
+{"type":"page-type/alert"}

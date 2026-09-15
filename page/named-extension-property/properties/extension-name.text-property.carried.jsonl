@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This extension is the name after the last dot rather than the dot with it."}]}
+{"definition":"the extension the files a property speaks for close with"}
+{"id":"01a09135-a37d-7982-bff1-8c02e2144d5b"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"extension-name"}
+{"slug":"extension-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An exit during a shutdown or a supervisor kill is deliberate rather than a crash."},{"decisionKind":"decision-kind/departure","statement":"An exit status that could not be observed is a crash rather than a clean stop."},{"decisionKind":"decision-kind/departure","statement":"A signal number is named from this host's own signal table."}]}
+{"definition":"what a child's wait status says about how the child stopped"}
+{"id":"01a0683e-3dbe-700e-bc70-8aac8a65c77d"}
+{"slug":"supervisor-child-exit-decide"}
+{"test":"ts"}
+{"type":"page-type/module"}

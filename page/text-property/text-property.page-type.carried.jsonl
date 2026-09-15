@@ -1,0 +1,10 @@
+{"definition":"a page property holding text"}
+{"extends":["page-type/page-property"]}
+{"id":"01a04dff-9d7d-7b50-a58a-419207af8ec0"}
+{"parts":["relation-property/name-format"]}
+{"properties":[{"pageProperty":"number-property/max-length","required":true,"many":false},{"pageProperty":"relation-property/name-format","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"shapes":"jsonl"}
+{"slug":"text-property"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

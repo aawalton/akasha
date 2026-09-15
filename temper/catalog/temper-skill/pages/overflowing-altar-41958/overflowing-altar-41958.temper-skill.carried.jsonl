@@ -1,0 +1,17 @@
+{"baseName":"Blood Altar"}
+{"description":"\"Sacrifice your life essence to conjure a fountain of blood to apply Minor Lifesteal to enemies in the area, healing you and your allies for |cffffff612|r Health every |cffffff1|r second when damaging them.\\n\\nAllies in the area can activate the Blood Feast synergy, healing for |cffffff65|r% of their Max Health.\""}
+{"esoSkillId":41958}
+{"icon":"/esoui/art/icons/ability_undaunted_001_a.dds"}
+{"id":"019e6f53-a4d5-75a9-a688-a27cc50bbcaf"}
+{"isMorph":true}
+{"key":"overflowing-altar-41958"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":2}
+{"rank":1}
+{"skillLineId":"guild-undaunted"}
+{"skillType":"active"}
+{"slug":"overflowing-altar-41958"}
+{"subcategoryId":"guild-undaunted"}
+{"title":"Overflowing Altar"}
+{"type":"page-type/temper-skill"}

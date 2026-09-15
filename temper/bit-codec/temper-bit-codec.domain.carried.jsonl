@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The bit arithmetic goes through the game's own bit functions."},{"decisionKind":"decision-kind/departure","statement":"A game constant is mapped to a small index before the packing."},{"decisionKind":"decision-kind/departure","statement":"The writer and the reader take the bits in the one order."}]}
+{"definition":"packing a build into as few bits as the game allows, and the characters that have them"}
+{"id":"01a060af-255f-7995-9b3e-b6dcbaae7cd7"}
+{"parts":["module/base64url","module/bit-reader","module/bit-writer","module/equipment-mappings"]}
+{"slug":"temper-bit-codec"}
+{"type":"page-type/domain"}

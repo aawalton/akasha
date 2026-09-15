@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name the game reads keeps its upstream spelling on the global table."}]}
+{"definition":"the names the library puts where every other add-on reaches them"}
+{"id":"01a061e1-aeb1-7d98-8492-0c8d3bfad094"}
+{"slug":"map-data-public-api"}
+{"type":"page-type/module"}

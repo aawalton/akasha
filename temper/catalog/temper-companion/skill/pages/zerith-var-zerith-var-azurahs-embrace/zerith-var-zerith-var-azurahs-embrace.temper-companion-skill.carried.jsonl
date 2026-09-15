@@ -1,0 +1,14 @@
+{"abilityId":213162}
+{"castConditions":"jsonl"}
+{"companionId":"zerith-var"}
+{"description":"Your Companion absolves the misdeeds of fallen souls at the target location, healing themselves and their allies for $1 Health and removing up to 3 negative effects."}
+{"icon":"/esoui/art/icons/ability_companion_necromancer_lifeamiddeath.dds"}
+{"id":"019e6484-38ad-783d-9933-9a92a3957728"}
+{"key":"zerith-var-azurahs-embrace"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-zerith-var-remedy-of-atonement"}
+{"skillType":"active"}
+{"slug":"zerith-var-zerith-var-azurahs-embrace"}
+{"title":"Azurah's Embrace"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer"]}

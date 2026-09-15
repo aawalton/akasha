@@ -1,0 +1,19 @@
+{"baseName":"Banner Bearer"}
+{"description":"Increases damage done with area of effect attacks by 6%."}
+{"esoSkillId":217699}
+{"focusScriptId":"multi-target"}
+{"grimoireId":"banner-bearer"}
+{"icon":"/esoui/art/icons/ability_grimoire_support.dds"}
+{"id":"019e6471-159b-78eb-bd7b-bee179530341"}
+{"isMorph":false}
+{"key":"scribed-banner-bearer-multi-target"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"active"}
+{"slug":"scribed-banner-bearer-multi-target"}
+{"subcategoryId":"scribed"}
+{"title":"Shattering Banner"}
+{"type":"page-type/temper-scribed-skill"}

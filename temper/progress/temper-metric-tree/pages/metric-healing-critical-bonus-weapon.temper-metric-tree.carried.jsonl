@@ -1,0 +1,8 @@
+{"displayOrder":1}
+{"id":"019e2fcd-5a66-73f0-8281-2878832a4779"}
+{"nodeId":"healing-critical-bonus-weapon"}
+{"nodeType":"metric"}
+{"parent":"metric-healing-critical-bonus"}
+{"slug":"metric-healing-critical-bonus-weapon"}
+{"title":"Healing Critical Bonus Weapon"}
+{"type":"page-type/temper-metric-tree"}

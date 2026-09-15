@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"How far through a page the reader has come is read off two named properties."}]}
+{"definition":"whether how far through a page the reader has come stands on the screen"}
+{"id":"01a0683a-620a-7829-8dc1-e42dd3e951a8"}
+{"propertySlug":"show-reading-progress"}
+{"slug":"show-reading-progress"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

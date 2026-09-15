@@ -1,0 +1,9 @@
+{"definition":"a mechanical change acting on what a file holds under no narrower reading"}
+{"extends":["page-type/change-mechanical"]}
+{"id":"01a07c97-c872-71a7-8e77-3ba5f2f974e0"}
+{"parts":["change-mechanical-file-content/append-lines","domain/change-mechanical-file-content-add","domain/change-mechanical-file-content-change","domain/change-mechanical-file-content-move","domain/change-mechanical-file-content-remove","domain/change-mechanical-file-content-rename"]}
+{"properties":[]}
+{"schema":"jsonl"}
+{"slug":"change-mechanical-file-content"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

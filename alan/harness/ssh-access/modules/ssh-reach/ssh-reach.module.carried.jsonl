@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The script is handed over standard input rather than written into the command."},{"decisionKind":"decision-kind/departure","statement":"A host key is not checked."},{"decisionKind":"decision-kind/departure","statement":"An exit that is not zero is an operational error rather than a thrown fault."},{"decisionKind":"decision-kind/departure","statement":"That error carries whole what the host printed before the exit that was not zero."},{"decisionKind":"decision-kind/departure","statement":"A reader letting go before the output ends kills the command."}]}
+{"definition":"a script run on another host, its output taken line by line or whole"}
+{"id":"01a05c2f-0f03-7c3a-84db-8888d5bebc83"}
+{"slug":"ssh-reach"}
+{"type":"page-type/module"}

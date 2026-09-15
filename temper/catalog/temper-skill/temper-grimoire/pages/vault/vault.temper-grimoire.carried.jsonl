@@ -1,0 +1,13 @@
+{"abilityIcon":"/esoui/art/icons/ability_grimoire_bow.dds"}
+{"affixScripts":"jsonl"}
+{"focusScripts":["bleed-damage","disease-damage","flame-damage","healing","immobilize","physical-damage","poison-damage","taunt"]}
+{"icon":"/esoui/art/icons/item_grimoire_bow.dds"}
+{"id":"01a05fce-2959-739f-879f-e1dc43900386"}
+{"itemId":204485}
+{"key":"vault"}
+{"signatureScripts":"jsonl"}
+{"skillLineId":"weapon-bow"}
+{"slug":"vault"}
+{"title":"Vault"}
+{"type":"page-type/temper-grimoire"}
+{"uespId":1}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A note is written only where a live read at the moment of writing shows no note."},{"decisionKind":"decision-kind/departure","statement":"A transaction Monarch does not report on the day asked for is refused rather than written blind."},{"decisionKind":"decision-kind/departure","statement":"The standing transaction is returned."},{"decisionKind":"decision-kind/departure","statement":"A caller says which transaction was passed over and why."},{"decisionKind":"decision-kind/departure","statement":"A note written has the tag saying a machine wrote that note."},{"decisionKind":"decision-kind/departure","statement":"Setting tags states the whole list."},{"decisionKind":"decision-kind/departure","statement":"The standing tags are carried rather than replaced."},{"decisionKind":"decision-kind/departure","statement":"Blank space is no note."}]}
+{"definition":"the note and the tags written back onto a Monarch transaction"}
+{"id":"01a06863-ac0c-7d5f-9e84-4f2e2d021b08"}
+{"slug":"monarch-notes-write"}
+{"type":"page-type/module"}

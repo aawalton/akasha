@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A character's metadata and a companion's metadata are read by separate calls."},{"decisionKind":"decision-kind/absence","statement":"Metadata put back on a state leaves every other field of that state alone."}]}
+{"definition":"a build's name, description and roles read off its state and put back on it"}
+{"id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
+{"slug":"build-metadata"}
+{"type":"page-type/module"}

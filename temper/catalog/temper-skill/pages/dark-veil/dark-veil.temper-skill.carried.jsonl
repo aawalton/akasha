@@ -1,0 +1,18 @@
+{"baseName":"Dark Veil"}
+{"description":"\"Increases the duration of your Shadow abilities by 2 seconds.\\n\\nDoes not apply to Shadow Cloak or its morphs.\""}
+{"esoSkillId":45115}
+{"icon":"/esoui/art/icons/ability_sorcerer_036.dds"}
+{"id":"019e6245-a63e-7f58-a664-ade64bd6092d"}
+{"isMorph":false}
+{"key":"dark-veil"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"nightblade-shadow"}
+{"skillType":"passive"}
+{"slug":"dark-veil"}
+{"status":"unsupported"}
+{"subcategoryId":"nightblade-shadow"}
+{"title":"Dark Veil"}
+{"type":"page-type/temper-skill"}

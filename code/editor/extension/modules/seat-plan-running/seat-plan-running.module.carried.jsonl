@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An act invoked on a row that is no seat does nothing."},{"decisionKind":"decision-kind/departure","statement":"The plan is made from the state the row was drawn carrying."},{"decisionKind":"decision-kind/departure","statement":"A prompt is shown as a modal."},{"decisionKind":"decision-kind/departure","statement":"Nothing runs while a prompt is open."},{"decisionKind":"decision-kind/departure","statement":"Anything but the confirming answer leaves the seat untouched."},{"decisionKind":"decision-kind/departure","statement":"A declined act is written to the output rather than passing silently."},{"decisionKind":"decision-kind/departure","statement":"The fleet is read again once the act is done."},{"decisionKind":"decision-kind/absence","statement":"Nothing here knows the work a step does."}]}
+{"definition":"an act taken on a seat, from the row it was invoked on to the read that follows it"}
+{"id":"01a0686b-bfe9-72a1-aae1-064e9d606367"}
+{"slug":"seat-plan-running"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Rapid Maneuver"}
+{"description":"\"Mobilize your forces, granting Major Expedition to up to 3 of you and your group, increasing your Movement Speed by |cffffff30|r% for |cffffff8|r seconds.\""}
+{"esoSkillId":244498}
+{"icon":"/esoui/art/icons/ability_ava_002.dds"}
+{"id":"019e6f53-a95e-7333-808d-61e118acacda"}
+{"isMorph":false}
+{"key":"vengeance-rapid-maneuver"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"vengeance-rapid-maneuver"}
+{"subcategoryId":"vengeance-alliance-war-assault"}
+{"title":"Vengeance Rapid Maneuver"}
+{"type":"page-type/temper-skill"}

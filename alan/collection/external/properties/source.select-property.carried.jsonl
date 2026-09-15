@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A provider is named here before a page may state that provider."}]}
+{"definition":"where a collection was imported from"}
+{"id":"01a063de-2c60-701e-9aed-2067429a2664"}
+{"propertySlug":"source"}
+{"slug":"source"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["kindle","musicbrainz","open-library","royal-road","the-great-courses","the-wandering-inn","tmdb","spotify","trakt","wikipedia","wizarding-world","project-euler"]}

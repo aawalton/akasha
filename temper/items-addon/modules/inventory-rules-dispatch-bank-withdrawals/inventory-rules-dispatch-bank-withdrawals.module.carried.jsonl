@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every slot of one storage sweep shares the claims."},{"decisionKind":"decision-kind/departure","statement":"A second copy of a claimable item goes to a second character."}]}
+{"definition":"withdrawing items from the bank by rule, for this character and for others"}
+{"id":"01a06258-b530-7df4-9831-55755f31aee1"}
+{"slug":"inventory-rules-dispatch-bank-withdrawals"}
+{"type":"page-type/module"}

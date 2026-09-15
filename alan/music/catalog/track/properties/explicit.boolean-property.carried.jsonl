@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This is what the provider says rather than what a listener judges."}]}
+{"definition":"whether a provider marks a recording as explicit"}
+{"id":"01a0a5e0-58f3-740e-9244-3bdebb7ceedb"}
+{"propertySlug":"explicit"}
+{"slug":"explicit"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

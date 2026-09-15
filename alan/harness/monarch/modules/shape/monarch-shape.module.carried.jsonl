@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value that does not match the shape asked for is refused rather than coerced."},{"decisionKind":"decision-kind/departure","statement":"A refusal names the path the value sits at."},{"decisionKind":"decision-kind/departure","statement":"A deep reply says where that reply went wrong."},{"decisionKind":"decision-kind/departure","statement":"A refusal says the shape wanted and the shape that stood there rather than printing the value."},{"decisionKind":"decision-kind/departure","statement":"Null and an array are told apart from an object rather than counted as an object."},{"decisionKind":"decision-kind/departure","statement":"A number that is not finite is no number."},{"decisionKind":"decision-kind/departure","statement":"An absent value and a null value are the same absence to an optional read."},{"decisionKind":"decision-kind/absence","statement":"Nothing here knows the fields Monarch's replies hold."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the network or a file."}]}
+{"definition":"the reader saying what an untyped value is, refusing it by the path it stands at"}
+{"id":"01a0685f-4ed8-7f56-8b0b-c5eb38474e06"}
+{"slug":"monarch-shape"}
+{"test":"ts"}
+{"type":"page-type/module"}

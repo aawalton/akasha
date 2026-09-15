@@ -1,0 +1,17 @@
+{"baseName":"Landslide"}
+{"description":"\"Given time, the smallest rock on the mountain can cascade into pure devastation.\\n\\nWhenever you deal damage you gain a stack of Landslide which increases your damage done by |cffffff1|r% per stack, up to |cffffff10|r times. This effect can occur once every |cffffff10|r seconds.\\n\\nEvery |cffffff2|r seconds you do not deal damage, you lose a stack.\""}
+{"esoSkillId":29463}
+{"icon":"/esoui/art/icons/ability_weapon_005.dds"}
+{"id":"019e6f53-a3ba-73f6-9fd3-638d9df057f8"}
+{"isMorph":false}
+{"key":"landslide"}
+{"learnedLevel":14}
+{"lineRankNeeded":14}
+{"morphIndex":0}
+{"rank":14}
+{"skillLineId":"dragonknight-earthen-heart"}
+{"skillType":"passive"}
+{"slug":"landslide"}
+{"subcategoryId":"dragonknight-earthen-heart"}
+{"title":"Landslide"}
+{"type":"page-type/temper-skill"}

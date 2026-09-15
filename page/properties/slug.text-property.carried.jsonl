@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A slug that cannot become a page's export name is no slug."}]}
+{"definition":"the name a page is reached by"}
+{"id":"01a049b9-856c-7187-96e0-518b0a8c72cb"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"slug"}
+{"slug":"slug"}
+{"type":"page-type/text-property"}
+{"types":"ts"}
+{"unique":"unique-kind/page-type"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The name is the provider's own rather than the name the caller asked for."},{"decisionKind":"decision-kind/departure","statement":"A name of the provider's own is served by that model rather than mapped to one."},{"decisionKind":"decision-kind/departure","statement":"A provider akasha asks for whatever the caller asked for states none."}]}
+{"definition":"the model akasha asks a provider for by the provider's own name"}
+{"id":"01a0a58f-cc4a-7894-a509-4e7368942ded"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"provider-model"}
+{"slug":"provider-model"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

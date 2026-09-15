@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A redirect carries every cookie the import set."},{"decisionKind":"decision-kind/departure","statement":"A redirect is found again rather than moved for good."},{"decisionKind":"decision-kind/absence","statement":"A redirect has no body."}]}
+{"definition":"where a browser is sent after a shared build hash was imported for that browser"}
+{"id":"01a09097-3491-7938-9cab-3a376e69de9f"}
+{"slug":"import-redirect"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A move button is disabled where the picked row cannot go that way."},{"decisionKind":"decision-kind/departure","statement":"The four buttons sit beside the scroll list rather than on a row."}]}
+{"definition":"the four buttons moving the picked row up, down, to the top or to the foot"}
+{"id":"01a06207-bdf5-7fd4-8f0f-16aa4a732fd7"}
+{"slug":"order-list-box-move-buttons"}
+{"type":"page-type/module"}

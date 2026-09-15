@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every site taking error reports over http answers from here rather than from its own copy."},{"decisionKind":"decision-kind/departure","statement":"The origins a site answers cross-origin are passed in rather than written in."},{"decisionKind":"decision-kind/departure","statement":"A site naming no shell origin is answered with no cross-origin headers."},{"decisionKind":"decision-kind/departure","statement":"A report is filed only once the shape it must have has taken it."},{"decisionKind":"decision-kind/departure","statement":"A filing that throws is answered rather than left to the router."}]}
+{"definition":"the answer a site gives a browser reporting one error"}
+{"id":"01a08e53-e866-7aa9-87b1-bfd7879250ca"}
+{"slug":"answer-error-report"}
+{"type":"page-type/module"}

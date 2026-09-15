@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A task resumed is put on the job list."},{"decisionKind":"decision-kind/departure","statement":"A task suspended is taken off the job list."},{"decisionKind":"decision-kind/departure","statement":"A task cancelled keeps a place on the job list while a finally step is set."}]}
+{"definition":"a task and the making, resuming, suspending and cancelling of that task"}
+{"id":"01a0606a-1c58-7ece-b623-19549164bc35"}
+{"slug":"async-task-class"}
+{"type":"page-type/module"}

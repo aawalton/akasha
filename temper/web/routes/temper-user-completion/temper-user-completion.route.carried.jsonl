@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"definition":"one player's completion, read by anyone"}
+{"id":"01a0829b-fcc3-7ae8-b06c-7847fef115dc"}
+{"slug":"temper-user-completion"}
+{"type":"page-type/route"}
+{"urlPath":"completion/u/:userId"}

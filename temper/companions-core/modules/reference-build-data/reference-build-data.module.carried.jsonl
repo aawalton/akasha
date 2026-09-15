@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The build decoder is injected at runtime through registerCompanionDecoder."},{"decisionKind":"decision-kind/constraint","statement":"The reference build code is a fixed literal string."},{"decisionKind":"decision-kind/gap","statement":"Decoding throws when no decoder has been registered."}]}
+{"definition":"lazily decoded reference companion build and its cached support baseline"}
+{"id":"01a06152-c2da-7538-9de2-da50c79de469"}
+{"slug":"reference-build-data"}
+{"type":"page-type/module"}

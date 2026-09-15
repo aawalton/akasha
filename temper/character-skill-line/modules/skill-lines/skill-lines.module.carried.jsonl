@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A skill line's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A skill line moved to another place breaks every build hash saved."}]}
+{"definition":"every skill line indexed by its id and by its category"}
+{"id":"01a0608a-c135-7b83-afde-8d52e111b852"}
+{"slug":"skill-lines"}
+{"type":"page-type/module"}

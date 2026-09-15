@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the coroutine calls a Lua host offers"}
+{"id":"01a081c8-1548-7757-b00e-bb9c24454be6"}
+{"luaExport":"__TS__Coroutines"}
+{"slug":"coroutines"}
+{"type":"page-type/lualib-helper"}

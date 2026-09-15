@@ -1,0 +1,17 @@
+{"baseName":"Shadow Cloak"}
+{"description":"\"Cloak yourself in shadow to become invisible. When moving your Magicka Recovery is disabled and when not moving Shadow Cloak is half cost.\\n\\nWhen Shadow Cloak begins or ends, you gain Born From Shadow for |cffffff10|r seconds, increasing your damage done to monsters by |cffffff10|r%.\\n\\nWhile slotted on either bar, you gain Minor Protection, reducing your damage taken by |cffffff5|r%.\""}
+{"esoSkillId":25375}
+{"icon":"/esoui/art/icons/ability_nightblade_004.dds"}
+{"id":"019e6f53-a6d8-7b4a-b0b6-d7c23d1ac05a"}
+{"isMorph":false}
+{"key":"shadow-cloak"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"nightblade-shadow"}
+{"skillType":"active"}
+{"slug":"shadow-cloak"}
+{"subcategoryId":"nightblade-shadow"}
+{"title":"Shadow Cloak"}
+{"type":"page-type/temper-skill"}

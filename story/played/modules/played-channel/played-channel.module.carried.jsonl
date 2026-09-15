@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A turn's system windows are drawn inside its prose where its game asks for that."},{"decisionKind":"decision-kind/departure","statement":"A ruled line marks the last turn play reached."},{"decisionKind":"decision-kind/departure","statement":"A turn undrawn for want of room is counted above the run."},{"decisionKind":"decision-kind/departure","statement":"A turn is followed by a link to the turn's own page."},{"decisionKind":"decision-kind/departure","statement":"A choice confirmed here is refused, because the play these turns are of is over."},{"decisionKind":"decision-kind/absence","statement":"No session divider is drawn, because no played turn states a session."}]}
+{"definition":"the run play left a story, its turns of prose and the beats under them"}
+{"id":"01a0a162-9b05-7d36-a284-71c3ef40b6d7"}
+{"slug":"played-channel"}
+{"type":"page-type/module"}

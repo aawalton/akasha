@@ -1,0 +1,5 @@
+{"id":"01a0593e-da31-7d51-a695-e32fead3975b"}
+{"pattern":"\\bmints\\b"}
+{"slug":"mints"}
+{"tabooSenses":[{"sense":"starting a pipeline run","instead":"starts"}]}
+{"type":"page-type/taboo-term"}

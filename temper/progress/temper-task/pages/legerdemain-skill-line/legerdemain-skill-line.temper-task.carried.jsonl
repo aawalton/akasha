@@ -1,0 +1,20 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"character":"yvlon-byres"}
+{"completionCardId":"skill-lines"}
+{"completionItemPath":["111"]}
+{"displayOrder":10}
+{"dueDate":"2026-09-15"}
+{"effectiveCharacter":"belavierr"}
+{"esoCharacterId":"8796093038720681"}
+{"id":"019db533-f381-75a0-8217-44d59f3c01b9"}
+{"lastCompletedAt":"2026-09-14T18:55:18.221Z"}
+{"priority":"p2"}
+{"progress":"jsonl"}
+{"progressCurrent":291}
+{"progressTotal":400}
+{"rruleAnchorFromCompletion":false}
+{"rruleRule":"FREQ=DAILY;INTERVAL=1"}
+{"scope":"next_character"}
+{"slug":"legerdemain-skill-line"}
+{"title":"Legerdemain Skill Line"}
+{"type":"page-type/temper-task"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A column set is stated once and shared by every listing that prints that column set."},{"decisionKind":"decision-kind/departure","statement":"An item rule prints the fields its columns name and no other field."},{"decisionKind":"decision-kind/absence","statement":"No rule is read or written here."}]}
+{"definition":"the columns a rule listing prints and the row one item rule prints as"}
+{"id":"01a068f6-dedf-7995-b1bc-45a280695fe1"}
+{"slug":"inventory-rule-rows"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"definition":"the most processor time one run of the file may spend, in seconds"}
+{"id":"01a08790-b6ce-71b1-8fb6-fab655bbd59f"}
+{"max":null}
+{"propertySlug":"max-cpu-seconds"}
+{"slug":"max-cpu-seconds"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

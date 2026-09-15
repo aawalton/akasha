@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type naming no axis has one rendition of each page."}]}
+{"definition":"what a page's audio is rendered once per, so one page has several renditions"}
+{"id":"01a062b8-8775-7005-bf65-1446f2feb5d3"}
+{"maxLength":64}
+{"nameFormat":null}
+{"propertySlug":"variant-axis"}
+{"slug":"media-variant-axis"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

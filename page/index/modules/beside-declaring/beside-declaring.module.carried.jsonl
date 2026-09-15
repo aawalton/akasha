@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A type declares every property every type above that type declares."},{"decisionKind":"decision-kind/departure","statement":"The nearer declaration decides the file a property's declaration defaults."},{"decisionKind":"decision-kind/departure","statement":"Which types declare a secret is answered here rather than by the caller."},{"decisionKind":"decision-kind/departure","statement":"Which types declare a value kept outside the commit is answered the same way."},{"decisionKind":"decision-kind/departure","statement":"A declaration fixing a file property's value declares that file as a default does."},{"decisionKind":"decision-kind/departure","statement":"A declaration naming a file property group declares a file for each member."},{"decisionKind":"decision-kind/departure","statement":"A member is named by the group's slug and then the member's slug."},{"decisionKind":"decision-kind/departure","statement":"A member is kept outside the commit where its own declaration says so or the group's does."},{"decisionKind":"decision-kind/departure","statement":"A page type that is a file property group declares nothing of its own beside its pages."},{"decisionKind":"decision-kind/absence","statement":"Nothing here says where a declared file sits."}]}
+{"definition":"the files a page type declares beside every page of that type"}
+{"id":"01a0a5b6-b8e0-7795-a6eb-c2223e6dd24f"}
+{"slug":"beside-declaring"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/module"}

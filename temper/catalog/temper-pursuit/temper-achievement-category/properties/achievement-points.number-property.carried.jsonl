@@ -1,0 +1,7 @@
+{"definition":"the points the game awards a player for earning an achievement"}
+{"id":"01a06168-7245-7002-89a0-dd15ca1f2c94"}
+{"max":null}
+{"propertySlug":"achievement-points"}
+{"slug":"achievement-points"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

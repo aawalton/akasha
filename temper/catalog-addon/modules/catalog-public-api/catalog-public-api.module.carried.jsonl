@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The global is named for the addon."},{"decisionKind":"decision-kind/departure","statement":"The global has the one reader and nothing more."}]}
+{"definition":"the global another add-on reaches the collected catalog table through"}
+{"id":"01a063ba-94e5-75b2-87c7-9dffc0a06b28"}
+{"slug":"catalog-public-api"}
+{"type":"page-type/module"}

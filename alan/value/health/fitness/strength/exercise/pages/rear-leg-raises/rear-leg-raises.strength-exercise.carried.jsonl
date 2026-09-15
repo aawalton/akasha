@@ -1,0 +1,27 @@
+{"equipment":"strength-exercise-implement/body-only"}
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Rear_Leg_Raises"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rear_Leg_Raises"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"push"}
+{"gripDemand":"none"}
+{"id":"019ebc77-ca94-73e7-a4d3-696eb539d06c"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rear_Leg_Raises/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rear_Leg_Raises/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"mobility"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["quadriceps"]}
+{"scoringMode":"time"}
+{"sfrScore":3}
+{"skillCost":"low"}
+{"slug":"rear-leg-raises"}
+{"title":"Rear Leg Raises"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

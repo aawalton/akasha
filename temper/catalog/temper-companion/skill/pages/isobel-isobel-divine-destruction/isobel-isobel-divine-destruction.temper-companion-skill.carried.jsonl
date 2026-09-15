@@ -1,0 +1,14 @@
+{"abilityId":163564}
+{"castConditions":"jsonl"}
+{"companionId":"isobel"}
+{"description":"Your Companion unleashes a concentrated beam of divine energy at an enemy, dealing $1 Magic Damage over $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_templar_over_exposure.dds"}
+{"id":"019e6484-3871-7070-bb6d-98c87f3d6e85"}
+{"key":"isobel-divine-destruction"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-isobel-blazing-might"}
+{"skillType":"active"}
+{"slug":"isobel-isobel-divine-destruction"}
+{"title":"Divine Destruction"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

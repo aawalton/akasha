@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The /sets and /ls aliases are only taken when no other addon has claimed the aliases."}]}
+{"definition":"the slash commands this library answers to and the chat text each one writes"}
+{"id":"01a06231-8f1d-7ec6-9b08-f776872caaa1"}
+{"slug":"lib-sets-core-lifecycle-slash-command"}
+{"type":"page-type/module"}

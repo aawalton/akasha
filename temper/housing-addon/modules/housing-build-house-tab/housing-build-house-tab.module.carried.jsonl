@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Controls are built once and hidden rather than made again."}]}
+{"definition":"building the controls of the house tab"}
+{"id":"01a06128-d5c3-7317-b94a-8a7fbeb939ac"}
+{"slug":"housing-build-house-tab"}
+{"type":"page-type/module"}

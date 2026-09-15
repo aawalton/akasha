@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An authority's certificate is in a file beside the page."},{"decisionKind":"decision-kind/constraint","statement":"An authority's signing key is never beside its certificate."},{"decisionKind":"decision-kind/departure","statement":"An authority whose key is gone is a new authority rather than the same authority."}]}
+{"definition":"who signs the certificates a set of names is trusted on"}
+{"extends":["page-type/domain"]}
+{"id":"01a0685d-ab5d-7bd4-946d-fa56b367a1a2"}
+{"parts":["file-property/authority-certificate"]}
+{"properties":[{"pageProperty":"file-property/authority-certificate","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"certificate-authority"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

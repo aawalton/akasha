@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Restoring Tether"}
+{"description":"\"Siphon the last remnants of life from a corpse, healing for |cffffff13856|r Health to yourself or up to 3 allies around the corpse after |cffffff1|r second. Heals up to |cffffff100|r% more Health to targets under |cffffff50|r% Health.\""}
+{"esoSkillId":238277}
+{"icon":"/esoui/art/icons/ability_necromancer_017.dds"}
+{"id":"019e6f53-a966-7c05-874a-5491103a7234"}
+{"isMorph":false}
+{"key":"vengeance-restoring-tether"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-necromancer-living-death"}
+{"skillType":"active"}
+{"slug":"vengeance-restoring-tether"}
+{"subcategoryId":"vengeance-necromancer-living-death"}
+{"title":"Vengeance Restoring Tether"}
+{"type":"page-type/temper-skill"}

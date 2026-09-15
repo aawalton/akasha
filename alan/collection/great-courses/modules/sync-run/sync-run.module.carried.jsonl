@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One item failing makes the whole run fail."},{"decisionKind":"decision-kind/stopgap","statement":"No `sync-run` row is opened or settled."},{"decisionKind":"decision-kind/departure","statement":"The run happens and is said aloud rather than refused for holding no row."}]}
+{"definition":"a run of a sync, failing as a unit where any item in the run failed"}
+{"id":"01a06580-196a-7001-8989-3755d6f4c2ed"}
+{"slug":"sync-run"}
+{"type":"page-type/module"}

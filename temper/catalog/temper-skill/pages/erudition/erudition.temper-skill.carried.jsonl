@@ -1,0 +1,19 @@
+{"baseName":"Erudition"}
+{"description":"\"Knowledge is power. Your excessive scholarship increases your Magicka and Stamina Recovery by 18%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":185239}
+{"icon":"/esoui/art/icons/passive_arcanist_11.dds"}
+{"id":"019e6245-a670-76bf-81a8-e6d45cfa391a"}
+{"isMorph":false}
+{"key":"erudition"}
+{"learnedLevel":36}
+{"lineRankNeeded":36}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"arcanist-curative-runeforms"}
+{"skillType":"passive"}
+{"slug":"erudition"}
+{"status":"supported"}
+{"subcategoryId":"arcanist-curative-runeforms"}
+{"title":"Erudition"}
+{"type":"page-type/temper-skill"}

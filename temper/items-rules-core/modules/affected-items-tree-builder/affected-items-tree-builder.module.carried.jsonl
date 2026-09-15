@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A character's worn items are kept apart from that character's backpack."},{"decisionKind":"decision-kind/departure","statement":"A location type with one location is drawn without a level for the location."},{"decisionKind":"decision-kind/departure","statement":"A guild is drawn with its own level even where only one guild has items."}]}
+{"definition":"the items a rule reaches, folded into a tree by type or by where they sit"}
+{"id":"01a06276-e3e7-7896-a7ba-97936d3ea281"}
+{"slug":"affected-items-tree-builder"}
+{"type":"page-type/module"}

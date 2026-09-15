@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value is written in the words the vocabulary has rather than in a title."}]}
+{"definition":"what a clause holds to weigh a transaction against"}
+{"id":"01a0680c-3c00-7002-8e94-3c6a7d1f3103"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"values"}
+{"slug":"match-values"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

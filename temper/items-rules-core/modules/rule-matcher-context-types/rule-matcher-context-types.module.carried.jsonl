@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A matcher reads the account through this context alone."},{"decisionKind":"decision-kind/departure","statement":"A reader absent from the context leaves the matching condition unjudged."}]}
+{"definition":"everything a matcher is given to read about the account before judging an item"}
+{"id":"01a06100-3bfb-733c-9d6f-e271da93d557"}
+{"slug":"rule-matcher-context-types"}
+{"type":"page-type/module"}

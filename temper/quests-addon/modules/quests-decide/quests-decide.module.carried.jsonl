@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An offered quest is accepted before the menu is read."},{"decisionKind":"decision-kind/departure","statement":"A completion the game announced is answered before the menu is read."},{"decisionKind":"decision-kind/departure","statement":"Persuasion and intimidation come ahead of every other option."},{"decisionKind":"decision-kind/departure","statement":"Quest options come ahead of plain talk."},{"decisionKind":"decision-kind/departure","statement":"Plain talk is explored once per option per menu."},{"decisionKind":"decision-kind/departure","statement":"Selecting the same option at the same menu twice running is refused."},{"decisionKind":"decision-kind/departure","statement":"A menu offering a service is left alone until a quest has been acted on."},{"decisionKind":"decision-kind/departure","statement":"Leaving the dialogue forgets the state the dialogue built up."},{"decisionKind":"decision-kind/absence","statement":"Nothing here calls the game."}]}
+{"definition":"which dialogue option to take, worked out from the menu and what came before"}
+{"id":"01a0635f-391c-78a5-84e9-0cc44f22b3f1"}
+{"slug":"quests-decide"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"definition":"Postgres is not answering"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fb-7183-ac82-e937b1aa44d7"}
+{"runbook":"txt"}
+{"slug":"postgres-down"}
+{"summary":"Postgres exporter reports database is down"}
+{"title":"Postgres down"}
+{"type":"page-type/alert"}

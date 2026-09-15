@@ -1,0 +1,13 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/move-to"}
+{"active":true}
+{"categoryId":"potions"}
+{"conditions":"jsonl"}
+{"description":"Gap B1: bank is the deliberate stock home (2-3 chars at a time, manual pulls). Replaces the lock. Must run before f0ce7528."}
+{"destination":"bank"}
+{"displayOrder":17}
+{"id":"01a0728a-f56e-7d26-a297-78f312730d8e"}
+{"slug":"rule-8f35e006"}
+{"title":"Crown tri-pots stay banked"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-07-05T13:20:46.391Z"}

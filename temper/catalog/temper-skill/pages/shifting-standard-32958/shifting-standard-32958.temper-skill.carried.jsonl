@@ -1,0 +1,17 @@
+{"baseName":"Dragonknight Standard"}
+{"description":"\"Call down a battle standard, dealing |cffffff3128|r Flame Damage every |cffffff1|r second for |cffffff25|r seconds to enemies and applying Major Defile to them, reducing their healing received and damage shield strength by |cffffff12|r%. \\n\\nActivating this ability again allows you to move the standard to your location.\\n\\nAn ally near the standard can activate the Shackle synergy, dealing |cffffff12393|r Flame Damage to enemies in the area and immobilizing them for |cffffff5|r seconds.\""}
+{"esoSkillId":32958}
+{"icon":"/esoui/art/icons/ability_dragonknight_006_a.dds"}
+{"id":"019e6f53-a701-7d8a-a465-7521141678ee"}
+{"isMorph":true}
+{"key":"shifting-standard-32958"}
+{"learnedLevel":12}
+{"lineRankNeeded":12}
+{"morphIndex":1}
+{"rank":12}
+{"skillLineId":"dragonknight-ardent-flame"}
+{"skillType":"ultimate"}
+{"slug":"shifting-standard-32958"}
+{"subcategoryId":"dragonknight-ardent-flame"}
+{"title":"Shifting Standard"}
+{"type":"page-type/temper-skill"}

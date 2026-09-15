@@ -1,0 +1,19 @@
+{"baseName":"Soul Burst"}
+{"description":"Deals 1742 Shock Damage to enemies. Beneficial Signature and Affix scripts only apply to you."}
+{"esoSkillId":217459}
+{"focusScriptId":"shock-damage"}
+{"grimoireId":"soul-burst"}
+{"icon":"/esoui/art/icons/ability_grimoire_soulmagic2.dds"}
+{"id":"019e6471-15cc-7744-a5d0-5839f283cf0f"}
+{"isMorph":false}
+{"key":"scribed-soul-burst-shock-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"world-soul-magic"}
+{"skillType":"active"}
+{"slug":"scribed-soul-burst-shock-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Shocking Burst"}
+{"type":"page-type/temper-scribed-skill"}

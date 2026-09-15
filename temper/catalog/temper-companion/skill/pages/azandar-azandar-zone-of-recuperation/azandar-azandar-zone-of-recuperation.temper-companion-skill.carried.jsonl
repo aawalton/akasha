@@ -1,0 +1,14 @@
+{"abilityId":193126}
+{"companionId":"azandar"}
+{"description":"Your Companion outlines a domain of eldritch power, healing them and their allies standing within for $1 Health over $$1 seconds and granting 150 Health, Magicka, and Stamina Recovery."}
+{"icon":"/esoui/art/icons/ability_companion_arcanist_domain.dds"}
+{"id":"019e6484-3845-7a06-872c-e1a6dc8cb1f4"}
+{"key":"azandar-zone-of-recuperation"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-azandar-revitalizing-researcher"}
+{"skillType":"active"}
+{"slug":"azandar-azandar-zone-of-recuperation"}
+{"tags":["ground-effect"]}
+{"title":"Zone of Recuperation"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer","tank"]}

@@ -1,0 +1,15 @@
+{"app":"ios-app/alanwalton"}
+{"caption":"Weekly Usage"}
+{"component":"ios-component/alanwalton-claude-usage-widget"}
+{"definition":"the tile on Alan's phone showing how much of the weekly Claude allowance is spent"}
+{"families":["small","medium"]}
+{"feed":"https://alanwalton.com/api/claude-usage"}
+{"galleryDescription":"Claude account usage and when capacity comes back."}
+{"galleryName":"Claude Usage"}
+{"groups":["readout-group/claude-usage"]}
+{"id":"01a06420-b259-76b1-aba4-b26ab965fb5b"}
+{"kind":"ClaudeUsageWidget"}
+{"opens":"capacitor://localhost/nav/model-accounts-d93b211a#widget=alanwalton-claude-usage"}
+{"place":2}
+{"slug":"alanwalton-claude-usage"}
+{"type":"page-type/readout-widget"}

@@ -1,0 +1,17 @@
+{"baseName":"Soul Trap"}
+{"description":"\"Lay claim to an enemy's soul, dealing |cffffff15224|r Magic Damage over |cffffff20|r seconds.\\n\\nFills an empty Soul Gem if an affected enemy dies.\""}
+{"esoSkillId":26768}
+{"icon":"/esoui/art/icons/ability_otherclass_001.dds"}
+{"id":"019e6f53-a77e-76c3-9370-2e8c20d7a047"}
+{"isMorph":false}
+{"key":"soul-trap"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"world-soul-magic"}
+{"skillType":"active"}
+{"slug":"soul-trap"}
+{"subcategoryId":"world-soul-magic"}
+{"title":"Soul Trap"}
+{"type":"page-type/temper-skill"}

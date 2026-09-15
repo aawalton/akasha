@@ -1,0 +1,7 @@
+{"definition":"every quest a sweep read out of the game, one quest to a line"}
+{"id":"01a05fcd-f553-7ed3-91d3-7f2ba2527f00"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"instant-property/mined-at","required":true,"many":false},{"pageProperty":"number-property/quest-id","required":true,"many":false},{"pageProperty":"number-property/quest-type","required":true,"many":false},{"pageProperty":"number-property/repeatable-type","required":true,"many":false},{"pageProperty":"number-property/zone-id","required":true,"many":false},{"pageProperty":"text-property/zone-name","required":true,"many":false}]}
+{"propertySlug":"quests"}
+{"slug":"quests"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

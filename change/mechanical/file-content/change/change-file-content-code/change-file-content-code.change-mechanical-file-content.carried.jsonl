@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-change"}
+{"changeTargetSubtype":"change-target-subtype/file-content-code"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path under no TypeScript name is refused here."},{"decisionKind":"decision-kind/departure","statement":"The passage is worked by the change this change reaches."},{"decisionKind":"decision-kind/absence","statement":"Nothing here judges the path a passage is worked at."}]}
+{"definition":"one passage of one code body replaced, with the imports that body names judged"}
+{"id":"01a079ac-d401-7d7b-aa1f-45743f81cf73"}
+{"slug":"change-file-content-code"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical-file-content"}

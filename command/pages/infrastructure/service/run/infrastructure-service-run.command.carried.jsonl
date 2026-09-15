@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/workstation-service","required":true,"saidAs":"word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One service is named, and one at a time."},{"decisionKind":"decision-kind/departure","statement":"The code the named service's `running` group holds is what is reached."},{"decisionKind":"decision-kind/departure","statement":"A service page is found through the index rather than by the folder it sits in."},{"decisionKind":"decision-kind/departure","statement":"A slug no service page carries is refused as a fault of the call."},{"decisionKind":"decision-kind/departure","statement":"A service whose running code is not there is refused rather than run."},{"decisionKind":"decision-kind/departure","statement":"A service whose running code exports no `runService` is refused rather than run."},{"decisionKind":"decision-kind/departure","statement":"This is let through the wall clock ceiling once the service's code is reached."},{"decisionKind":"decision-kind/absence","statement":"Systemd is asked nothing."},{"decisionKind":"decision-kind/departure","statement":"A service is handed the list it names what it did into."},{"decisionKind":"decision-kind/departure","statement":"A service that threw part way has what it did named in the refusal."},{"decisionKind":"decision-kind/departure","statement":"A service that did nothing before it threw has nothing named."},{"decisionKind":"decision-kind/departure","statement":"A service that ran through has what it did reported beside the slug it ran."},{"decisionKind":"decision-kind/gap","statement":"A service akasha carries is reached from the cluster."}]}
+{"definition":"the command running one service's own code in this process"}
+{"id":"01a09409-a29d-7ec7-b7aa-eebfad2ce2ad"}
+{"name":"run"}
+{"slug":"infrastructure-service-run"}
+{"test":"ts"}
+{"type":"page-type/command"}

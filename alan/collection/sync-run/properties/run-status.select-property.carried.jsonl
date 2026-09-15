@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A pull left `running` by a process that died is settled as `failed`."}]}
+{"definition":"how a pull ended"}
+{"id":"01a06861-f664-743c-bf6b-31f5403c30b7"}
+{"propertySlug":"run-status"}
+{"slug":"run-status"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["running","success","failed"]}

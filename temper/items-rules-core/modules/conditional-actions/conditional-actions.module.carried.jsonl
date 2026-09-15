@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An action here is written for the addon rather than for the web matcher."}]}
+{"definition":"the actions the game addon takes only where a condition on the item holds"}
+{"id":"01a06100-3be9-7bf7-90df-7f2075a39e68"}
+{"slug":"conditional-actions"}
+{"type":"page-type/module"}

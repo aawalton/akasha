@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the cancelling a delayed call is given by its handle"}
+{"id":"01a081d0-6ee0-7c98-98ce-5974b65ef70b"}
+{"luaExport":"__TS__ClearTimeout"}
+{"slug":"clear-timeout"}
+{"type":"page-type/lualib-helper"}

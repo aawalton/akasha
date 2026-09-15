@@ -1,0 +1,27 @@
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Chin_To_Chest_Stretch"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Chin_To_Chest_Stretch"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"static"}
+{"gripDemand":"low"}
+{"id":"019ebc76-d053-7613-9722-0c3b02a92ab1"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin_To_Chest_Stretch/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin_To_Chest_Stretch/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"mobility"}
+{"muscleFocus":"other"}
+{"primaryMuscles":["neck"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["traps"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"chin-to-chest-stretch"}
+{"title":"Chin To Chest Stretch"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

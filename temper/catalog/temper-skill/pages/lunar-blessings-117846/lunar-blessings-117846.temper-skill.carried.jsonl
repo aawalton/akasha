@@ -1,0 +1,17 @@
+{"baseName":"Lunar Blessings"}
+{"description":"\"Increase your Maximum Health, Magicka, and Stamina by |cffffff305|r.\""}
+{"esoSkillId":117846}
+{"icon":"/esoui/art/icons/passive_khajiit_01.dds"}
+{"id":"019e6f53-a42a-798e-9207-8fda0c9f0ccb"}
+{"isMorph":false}
+{"key":"lunar-blessings-117846"}
+{"learnedLevel":1}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":10}
+{"skillLineId":"racial-khajiit-skills"}
+{"skillType":"passive"}
+{"slug":"lunar-blessings-117846"}
+{"subcategoryId":"racial-khajiit-skills"}
+{"title":"Lunar Blessings"}
+{"type":"page-type/temper-skill"}

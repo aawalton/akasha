@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A run cleans the image up first and refines its skin second."},{"decisionKind":"decision-kind/departure","statement":"The refining stage is skipped where its weights are not on the machine."},{"decisionKind":"decision-kind/constraint","statement":"The upscaling tool answers zero when that tool runs out of memory."},{"decisionKind":"decision-kind/constraint","statement":"The tool's answer is not believed."},{"decisionKind":"decision-kind/departure","statement":"A run goes either to a cluster GPU or to the workstation's own."}]}
+{"definition":"an image remade at a higher resolution than the one it came in at"}
+{"id":"01a06815-9efd-7040-a13c-1048a109ba86"}
+{"parts":["container-recipe/upscale-cluster-image","container-recipe/upscale-image","manifest/upscale-bench-synth","module/upscale-cluster","module/upscale-serving-job","module/upscale-workstation","python-module/upscale-srpo-graph","shell-script/upscale-bench-runner","shell-script/upscale-down","shell-script/upscale-provision","shell-script/upscale-run","shell-script/upscale-seedvr2","shell-script/upscale-srpo","shell-script/upscale-up"]}
+{"slug":"upscale"}
+{"type":"page-type/domain"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The nine option values are client specialized item-type numbers 170 through 178."},{"decisionKind":"decision-kind/absence","statement":"Nothing here narrows the server request."}]}
+{"definition":"the specialized item type of a recipe, narrowed by a multiselect of nine recipe subtypes"}
+{"id":"01a0613a-e0ad-73d1-95f0-27bb2a879d89"}
+{"slug":"search-recipe-subtype-filter"}
+{"type":"page-type/module"}

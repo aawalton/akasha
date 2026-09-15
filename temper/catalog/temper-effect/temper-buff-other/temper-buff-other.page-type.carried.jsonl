@@ -1,0 +1,8 @@
+{"definition":"a helpful effect the game names neither Major nor Minor"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fc5-94cf-702c-9d2a-71e8577501c9"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"text-property/description","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-buff-other"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

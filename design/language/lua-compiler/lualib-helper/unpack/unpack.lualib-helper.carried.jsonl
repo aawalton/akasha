@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"definition":"a list opened out into the many values it holds"}
+{"id":"01a08c5c-8fdc-7ff5-a0c3-f0f2586c5091"}
+{"lua50Code":"ts"}
+{"luaExport":"__TS__Unpack"}
+{"slug":"unpack"}
+{"type":"page-type/lualib-helper"}

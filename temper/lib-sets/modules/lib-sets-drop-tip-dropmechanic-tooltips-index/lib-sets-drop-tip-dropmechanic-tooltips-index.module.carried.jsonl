@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This file has a single import and declares nothing."}]}
+{"definition":"one import that runs the drop mechanic tooltip install"}
+{"id":"01a061d6-3e43-7f81-96b3-af30733ec6c4"}
+{"slug":"lib-sets-drop-tip-dropmechanic-tooltips-index"}
+{"type":"page-type/module"}

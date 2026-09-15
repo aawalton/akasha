@@ -1,0 +1,10 @@
+{"arguments":[{"argument":"argument/paths"},{"argument":"argument/descent"},{"argument":"argument/root-domain","repeats":true},{"argument":"argument/up","repeats":true}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An edge is read off the `parts` of the domain holding it rather than off the domain held."},{"decisionKind":"decision-kind/departure","statement":"`--domain` and `--up` each repeat."},{"decisionKind":"decision-kind/departure","statement":"A slug carrying no domain page refuses the call by name."},{"decisionKind":"decision-kind/departure","statement":"A domain held by several domains is drawn beneath each of them."},{"decisionKind":"decision-kind/departure","statement":"A domain already open further up its own branch is drawn once and marked."},{"decisionKind":"decision-kind/departure","statement":"A page of the `domain` page type alone is read where `--descent` is not said."},{"decisionKind":"decision-kind/departure","statement":"The pages are read from the index, which applies nothing of its own to what a page declares."},{"decisionKind":"decision-kind/departure","statement":"A flag `domain dag` does not take is refused by name."},{"decisionKind":"decision-kind/departure","statement":"A flag wanting a word and handed no word is refused."},{"decisionKind":"decision-kind/departure","statement":"A tree with nothing refuses rather than answering empty."},{"decisionKind":"decision-kind/absence","statement":"A run writes nothing."}]}
+{"definition":"the command drawing the domain tree, each domain under the domain with it"}
+{"id":"01a07c03-8a7b-7661-a70a-f3c561dbfe12"}
+{"name":"dag"}
+{"parts":[]}
+{"slug":"domain-dag"}
+{"test":"ts"}
+{"type":"page-type/command"}

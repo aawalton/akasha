@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat nothing is present in is restarted whatever is recorded under it."},{"decisionKind":"decision-kind/departure","statement":"Every way of restarting a seat asks this before restarting that seat."}]}
+{"definition":"whether a seat may be restarted while subagents are working under it"}
+{"id":"01a09c3b-ef86-751f-a701-2b8b1f05245f"}
+{"slug":"seat-resume-guard"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Runestone Extraction"}
+{"description":"\"Increases the chance of extracting each type of Runestone by 10%.\""}
+{"esoSkillId":46769}
+{"icon":"/esoui/art/icons/ability_enchanter_004.dds"}
+{"id":"019e6224-ccad-7112-acc3-fe8ee46f7bea"}
+{"isMorph":false}
+{"key":"runestone-extraction"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-enchanting"}
+{"skillType":"passive"}
+{"slug":"runestone-extraction"}
+{"subcategoryId":"craft-enchanting"}
+{"title":"Runestone Extraction"}
+{"type":"page-type/temper-skill"}

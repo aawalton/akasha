@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The condition waited for is asked again rather than told."},{"decisionKind":"decision-kind/departure","statement":"Time running out is said as false rather than thrown."},{"decisionKind":"decision-kind/departure","statement":"The condition waited for is asked once more after time is up."}]}
+{"definition":"a test holding on until something running elsewhere has become true"}
+{"id":"01a04ef8-da76-7b5c-a410-29aa2cf260ff"}
+{"slug":"waiting"}
+{"type":"page-type/test-fixture"}

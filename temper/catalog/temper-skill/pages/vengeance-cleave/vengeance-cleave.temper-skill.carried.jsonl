@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Cleave"}
+{"description":"\"Focus your strength into a mighty swing, dealing |cffffff8820|r Physical Damage to up to 3 enemies in front of you.\\n\\nYou also gain a damage shield that absorbs |cffffff9056|r damage for |cffffff6|r seconds.\""}
+{"esoSkillId":240480}
+{"icon":"/esoui/art/icons/ability_2handed_002.dds"}
+{"id":"019e6f53-a8d6-71fc-a283-ba963c468fe8"}
+{"isMorph":false}
+{"key":"vengeance-cleave"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-two-handed"}
+{"skillType":"active"}
+{"slug":"vengeance-cleave"}
+{"subcategoryId":"vengeance-weapon-two-handed"}
+{"title":"Vengeance Cleave"}
+{"type":"page-type/temper-skill"}

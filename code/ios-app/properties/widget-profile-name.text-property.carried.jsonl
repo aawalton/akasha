@@ -1,0 +1,8 @@
+{"definition":"the App Store profile an app's widgets are signed with"}
+{"id":"01a068c9-394b-7587-af7d-e66c162badae"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"widget-profile-name"}
+{"slug":"widget-profile-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,17 @@
+{"baseName":"Runic Jolt"}
+{"description":"\"Craft a defensive Apocryphal rune that deals |cffffff4036|r Magic Damage and applies Minor Maim for |cffffff15|r seconds, reducing their damage done by |cffffff5|r%.\\n\\nThe rune also taunts for |cffffff15|r seconds if it would not cause taunt immunity, and generates Crux. While slotted, damage taken is reduced by |cffffff2|r% per active Crux.\""}
+{"esoSkillId":183165}
+{"icon":"/esoui/art/icons/ability_arcanist_007.dds"}
+{"id":"019e6f53-a69a-7fd2-b012-24afd4b44610"}
+{"isMorph":false}
+{"key":"runic-jolt"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"arcanist-soldier-of-apocrypha"}
+{"skillType":"active"}
+{"slug":"runic-jolt"}
+{"subcategoryId":"arcanist-soldier-of-apocrypha"}
+{"title":"Runic Jolt"}
+{"type":"page-type/temper-skill"}

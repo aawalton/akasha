@@ -1,0 +1,8 @@
+{"definition":"a place on the bar a skill is set into"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fca-cb8b-79ed-ae49-1fdf5f38602a"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-skill-slot"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,19 @@
+{"baseName":"Haggling"}
+{"description":"\"Stolen items sold at a fence are worth 10% more. Does not apply to Laundering.\""}
+{"effects":"jsonl"}
+{"esoSkillId":76461}
+{"icon":"/esoui/art/icons/ability_thievesguild_passive_006.dds"}
+{"id":"019e6238-c2c3-7f38-b608-8815d2949de0"}
+{"isMorph":false}
+{"key":"haggling"}
+{"learnedLevel":1}
+{"lineRankNeeded":3}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"guild-thieves-guild"}
+{"skillType":"passive"}
+{"slug":"haggling"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-thieves-guild"}
+{"title":"Haggling"}
+{"type":"page-type/temper-skill"}

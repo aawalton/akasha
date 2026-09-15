@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The header values are joined and read as one lowercase string."},{"decisionKind":"decision-kind/departure","statement":"The first channel address that string has names the handle."}]}
+{"definition":"which persona's channel a set of recipient headers names"}
+{"id":"01a05bcd-25e3-7b2c-b378-4f00fd2d5eaa"}
+{"slug":"agent-channel"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A zone has completion types that have activities."},{"decisionKind":"decision-kind/departure","statement":"An activity has an id of its own beside its name."},{"decisionKind":"decision-kind/departure","statement":"A completion type has activities and nothing else."}]}
+{"definition":"the zod schema reading the zone completion catalog out of saved variables"}
+{"id":"01a06076-5ea8-74db-9f0e-70749cf99a27"}
+{"slug":"zone-completion-catalog-schema"}
+{"type":"page-type/module"}

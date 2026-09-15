@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A component draws something for a browser."},{"decisionKind":"decision-kind/departure","statement":"A component's code is a page property held in a file beside the page."},{"decisionKind":"decision-kind/departure","statement":"A component's test and the fixtures setting that test up sit beside that code."},{"decisionKind":"decision-kind/departure","statement":"A component is reached by importing that component."}]}
+{"definition":"code drawing something for a browser"}
+{"extends":["page-type/domain"]}
+{"id":"01a071cb-913c-7e3f-9698-f5f4a5019a9c"}
+{"parts":["code-file-property/component-code","code-file-property/component-test","code-file-property/component-test-fixtures"]}
+{"properties":[{"pageProperty":"code-file-property/component-code","required":true,"many":false},{"pageProperty":"code-file-property/component-test","required":false,"many":false},{"pageProperty":"code-file-property/component-test-fixtures","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"component"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

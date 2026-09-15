@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This global is the add-on's own name rather than a name the game owns."}]}
+{"definition":"the three calls this add-on's own markup makes back into it"}
+{"id":"01a06141-8005-7878-9128-a7d186911cfd"}
+{"slug":"lost-treasure-global"}
+{"type":"page-type/module"}

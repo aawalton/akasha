@@ -1,0 +1,21 @@
+{"controlledEntityKind":"single"}
+{"coordinatorAgent":"awen-gm--dragons-and-dungeons"}
+{"currentSession":2}
+{"displayConfig":"json"}
+{"externalId":"dragons-and-dungeons"}
+{"gameEngine":"awen"}
+{"genre":["narrative","ttrpg"]}
+{"gmContext":"json"}
+{"id":"01a0673f-a3d6-7000-abe5-40f31e53a44d"}
+{"mechanicsWeight":"zero"}
+{"narrativeContinuity":"json"}
+{"premise":"Three dragon cousins — Aria (silver, devoted), Ceri (amethyst, aloof), and Mari (black, all appetite) — run a very mature tabletop game for one mortal. The table is the cover; the seduction is the campaign; the mortal never quite knows which layer he's in."}
+{"readerFraming":"First person, from the mortal's perspective."}
+{"resolution":"none"}
+{"slug":"dragons-and-dungeons"}
+{"title":"Dragons & Dungeons"}
+{"tone":"Warm, mischievous, sensual."}
+{"towerSessions":"jsonl"}
+{"turns":"jsonl"}
+{"type":"page-type/game"}
+{"unit":"unit/words"}

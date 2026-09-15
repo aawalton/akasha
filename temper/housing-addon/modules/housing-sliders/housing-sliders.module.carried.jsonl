@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A list shorter than the frame with the list hides the slider."}]}
+{"definition":"scrolling a housing list by its slider and by the mouse wheel"}
+{"id":"01a06128-d5d3-7266-b58c-be10d8a99596"}
+{"slug":"housing-sliders"}
+{"type":"page-type/module"}

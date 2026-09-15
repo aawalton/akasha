@@ -1,0 +1,17 @@
+{"baseName":"Argonian Resistance"}
+{"description":"\"Increases your Max Health by |cffffff333|r and your Disease and Poison Resistance by |cffffff660|r.\""}
+{"esoSkillId":36583}
+{"icon":"/esoui/art/icons/ability_templar_022.dds"}
+{"id":"019e6f53-9ec1-7078-bed8-3cee6b1cbf52"}
+{"isMorph":false}
+{"key":"argonian-resistance-36583"}
+{"learnedLevel":1}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":10}
+{"skillLineId":"racial-argonian-skills"}
+{"skillType":"passive"}
+{"slug":"argonian-resistance-36583"}
+{"subcategoryId":"racial-argonian-skills"}
+{"title":"Argonian Resistance"}
+{"type":"page-type/temper-skill"}

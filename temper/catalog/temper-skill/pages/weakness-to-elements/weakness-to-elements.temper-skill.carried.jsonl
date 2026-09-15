@@ -1,0 +1,17 @@
+{"baseName":"Weakness to Elements"}
+{"description":"\"Send the elements to sap an enemy's defenses and afflict them with Major Breach for |cffffff30|r seconds, reducing their Physical and Spell Resistance by |cffffff5948|r.\""}
+{"esoSkillId":29173}
+{"icon":"/esoui/art/icons/ability_destructionstaff_011.dds"}
+{"id":"019e6f53-a9dd-7aaa-804e-25e64ca348eb"}
+{"isMorph":false}
+{"key":"weakness-to-elements"}
+{"learnedLevel":1}
+{"lineRankNeeded":20}
+{"morphIndex":0}
+{"rank":20}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"weakness-to-elements"}
+{"subcategoryId":"weapon-destruction-staff"}
+{"title":"Weakness to Elements"}
+{"type":"page-type/temper-skill"}

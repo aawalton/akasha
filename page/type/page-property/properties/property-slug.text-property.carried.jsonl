@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A key is unique among the properties one page type carries including the properties inherited."},{"decisionKind":"decision-kind/departure","statement":"A key stands alone among the fields one record property has."},{"decisionKind":"decision-kind/departure","statement":"A slug stands alone among the pages of one property type."},{"decisionKind":"decision-kind/departure","statement":"The key a page has is this slug written in camel."},{"decisionKind":"decision-kind/departure","statement":"Every property states a property slug."},{"decisionKind":"decision-kind/departure","statement":"A key drops the words its declarer's name already says."},{"decisionKind":"decision-kind/departure","statement":"A qualifier only the slug's wider scope needed is not carried into the key."}]}
+{"definition":"the key a page has this property's value under"}
+{"id":"01a0539b-2a0f-7187-ba5a-aa8bff23fe15"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"property-slug"}
+{"slug":"property-slug"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

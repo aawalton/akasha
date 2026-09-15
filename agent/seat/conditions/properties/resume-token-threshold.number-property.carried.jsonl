@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only a headless seat has this threshold."},{"decisionKind":"decision-kind/departure","statement":"A threshold no seat reaches is how the resume menu never appears."}]}
+{"definition":"how many tokens a seat's session has before starting it offers the resume menu"}
+{"id":"01a0687a-3d9d-7913-bd68-1b64d021e9be"}
+{"max":null}
+{"propertySlug":"resume-token-threshold"}
+{"slug":"resume-token-threshold"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

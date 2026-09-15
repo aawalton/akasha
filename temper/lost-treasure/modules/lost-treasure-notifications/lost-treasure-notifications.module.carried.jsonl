@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A notification is offered in three languages alone."}]}
+{"definition":"an offer to report a new dig site, shown in the notification list"}
+{"id":"01a06141-8008-77a8-af65-98ebdb893c22"}
+{"slug":"lost-treasure-notifications"}
+{"type":"page-type/module"}

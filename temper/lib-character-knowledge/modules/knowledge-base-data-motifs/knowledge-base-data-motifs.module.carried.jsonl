@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"These ids are the ids upstream BaseData for API 101050 states."}]}
+{"definition":"the pre-scanned item ids upstream ships for motif books"}
+{"id":"01a0622b-dc54-77f2-87d9-b420778a2255"}
+{"slug":"knowledge-base-data-motifs"}
+{"type":"page-type/module"}

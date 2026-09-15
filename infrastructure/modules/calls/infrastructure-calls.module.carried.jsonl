@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A call here is worked out from the pages rather than spelled as words."},{"decisionKind":"decision-kind/departure","statement":"A level renamed on its page is a call renamed here with no edit."},{"decisionKind":"decision-kind/departure","statement":"A script that runs on a machine reaches its calls here rather than spelling one."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the index or the disk."},{"decisionKind":"decision-kind/absence","statement":"No call here is run from here."},{"decisionKind":"decision-kind/gap","statement":"A level put between two named here is left whole in the call until this names it."}]}
+{"definition":"the calls a provisioning script makes, composed from the pages naming their levels"}
+{"id":"01a0953e-1dc9-7000-bf51-cd67b1cd4894"}
+{"slug":"infrastructure-calls"}
+{"test":"ts"}
+{"type":"page-type/module"}

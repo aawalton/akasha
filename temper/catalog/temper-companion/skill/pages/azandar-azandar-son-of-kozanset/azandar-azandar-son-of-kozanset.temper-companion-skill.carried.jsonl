@@ -1,0 +1,12 @@
+{"abilityId":193971}
+{"companionId":"azandar"}
+{"description":"Increases Max Health by 3% and decreases ability cooldowns by 3%."}
+{"icon":"/esoui/art/icons/ability_companion_arcanist_passive.dds"}
+{"id":"019e6484-383e-7b59-9075-b41bb85d9916"}
+{"key":"azandar-son-of-kozanset"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-azandar"}
+{"skillType":"passive"}
+{"slug":"azandar-azandar-son-of-kozanset"}
+{"title":"Son of Kozanset"}
+{"type":"page-type/temper-companion-skill"}

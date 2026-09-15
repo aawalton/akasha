@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A service stating a schedule is started by a timer rather than kept running."}]}
+{"definition":"the times a unit is started at"}
+{"id":"01a05a3f-b42e-78d1-a00b-e982e5830c5c"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"schedule"}
+{"slug":"schedule"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

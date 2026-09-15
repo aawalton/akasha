@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A heard source is `observed` or `seed-top-tracks` or `seed-rated` or `seed-prior-window`."},{"decisionKind":"decision-kind/stopgap","statement":"The sources a track is heard from are no pages."},{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a heard source."}]}
+{"definition":"where a heard track was learned from"}
+{"id":"01a06240-340f-700e-a486-9e430bc408b2"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"heard-source"}
+{"slug":"heard-source"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This table is written out from the trait pages rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"A trait's place in this table is the index a build hash has."}]}
+{"definition":"every property a piece of player jewelry is worked with, and what each is worth"}
+{"id":"01a0610f-45bb-7e6d-9e65-09ec21c0cff3"}
+{"slug":"jewelry-traits"}
+{"type":"page-type/module"}

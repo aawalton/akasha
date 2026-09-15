@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-remove"}
+{"changeTargetSubtype":"change-target-subtype/file-code"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The file is taken away by the change this change reaches."},{"decisionKind":"decision-kind/absence","statement":"Nothing here judges the path a file is taken away from."}]}
+{"definition":"one code file taken away, with the imports naming that file judged"}
+{"id":"01a07987-afc1-73bf-8a8e-9ba1cc6c5248"}
+{"slug":"remove-file-code"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical"}

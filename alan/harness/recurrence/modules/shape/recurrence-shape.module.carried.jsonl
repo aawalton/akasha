@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The rule a repeating thing has may be absent."},{"decisionKind":"decision-kind/departure","statement":"An advanced due date always names a day."},{"decisionKind":"decision-kind/departure","statement":"An advanced due date names a time only where a time was already held."}]}
+{"definition":"what a repeating thing has, and what advancing it answers"}
+{"id":"01a05c6f-c7c3-732d-8113-3c8b675fd74f"}
+{"slug":"recurrence-shape"}
+{"type":"page-type/module"}

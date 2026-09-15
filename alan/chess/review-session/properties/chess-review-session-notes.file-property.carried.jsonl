@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The notes are the words said at the board rather than a summary written after."}]}
+{"definition":"what the coach said as a game was stepped through"}
+{"extensions":["txt"]}
+{"id":"01a06860-e6f6-7291-9d0a-1f69cadd2a5d"}
+{"propertySlug":"notes"}
+{"slug":"chess-review-session-notes"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

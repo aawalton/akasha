@@ -1,0 +1,11 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A chapter has the prose play made rather than prose anybody wrote."},{"decisionKind":"decision-kind/departure","statement":"A chapter is part of the one story the chapter was played in."}]}
+{"definition":"a chapter of a story nobody wrote"}
+{"extends":["page-type/collection"]}
+{"id":"01a064b4-46c9-7489-9817-d9dae65e7936"}
+{"parts":["relation-property/played-chapter-story"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/played-chapter-story","required":true,"many":false},{"pageProperty":"number-property/own-length","required":true,"many":false},{"pageProperty":"file-property/prose","required":true,"many":false}]}
+{"runsTabooCheck":false}
+{"schema":"jsonl"}
+{"slug":"story-chapter-played"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

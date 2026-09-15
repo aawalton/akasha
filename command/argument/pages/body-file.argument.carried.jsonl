@@ -1,0 +1,7 @@
+{"id":"01a094e3-5fae-7680-82b6-55f4d63533b2"}
+{"placeholder":"path"}
+{"said":"--body-file"}
+{"slug":"body-file"}
+{"takes":"the file the body is read from, or `-` for standard input"}
+{"type":"page-type/argument"}
+{"value":"path"}

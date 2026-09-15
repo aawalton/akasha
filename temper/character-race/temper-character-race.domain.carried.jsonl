@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The race data here is written out from the race pages."},{"decisionKind":"decision-kind/departure","statement":"A race is reached by its own id rather than by the race id the game has."}]}
+{"definition":"the playable races an Elder Scrolls Online character is born into"}
+{"id":"01a0608a-c133-7d7f-96d5-f0070cf3a77a"}
+{"parts":["module/race-icon-url","module/races"]}
+{"slug":"temper-character-race"}
+{"type":"page-type/domain"}

@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-add"}
+{"changeTargetSubtype":"change-target-subtype/file-page-property"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The body is written by the change this change reaches."},{"decisionKind":"decision-kind/absence","statement":"Nothing here judges the path handed in."},{"decisionKind":"decision-kind/absence","statement":"The pages the body names are judged by the change this change reaches."}]}
+{"definition":"one page property written at one path, with the keys that property carries judged"}
+{"id":"01a07984-2e7e-7ced-801b-160efbf7e220"}
+{"slug":"add-file-page-property"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical"}

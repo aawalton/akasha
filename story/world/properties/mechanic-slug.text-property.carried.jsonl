@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/stopgap","statement":"No mechanic has a page of its own."},{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a mechanic."}]}
+{"definition":"the mechanic a reading reaches"}
+{"id":"01a063ce-6216-7007-b529-a31661f9223d"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"mechanic-slug"}
+{"slug":"mechanic-slug"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

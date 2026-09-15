@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Prose is in a file beside its page rather than in the page."},{"decisionKind":"decision-kind/departure","statement":"A page whose text would outrun a description has the text here."}]}
+{"definition":"the text a page carries, however long the text runs"}
+{"extensions":["txt"]}
+{"id":"01a06424-329c-73d2-a881-67d728085a28"}
+{"propertySlug":"prose"}
+{"slug":"prose"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The logger and the chat channel are made as this module loads."},{"decisionKind":"decision-kind/constraint","statement":"LibDebugLogger and LibChatMessage are loaded before this library."}]}
+{"definition":"the library object and the state every other part of it reads"}
+{"id":"01a0614d-4763-71d6-823d-0a023d0ff5b6"}
+{"slug":"gps-lib-state"}
+{"type":"page-type/module"}

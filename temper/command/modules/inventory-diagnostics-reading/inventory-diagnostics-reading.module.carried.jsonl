@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The account the diagnostic sits under is found by walking rather than named by the caller."},{"decisionKind":"decision-kind/departure","statement":"The first account with the diagnostic answers and the rest go unread."},{"decisionKind":"decision-kind/departure","statement":"A file that is absent or unreadable or missing its Default table is refused as data."},{"decisionKind":"decision-kind/departure","statement":"A caller rules on one account's own table rather than on the whole file."},{"decisionKind":"decision-kind/departure","statement":"The refusal names the diagnostic looked for and the reader's steps to make that diagnostic exist."},{"decisionKind":"decision-kind/departure","statement":"A caller wanting absence as an answer picks rather than reads."},{"decisionKind":"decision-kind/departure","statement":"Picking and reading differ in nothing but what an absent diagnostic does."}]}
+{"definition":"one diagnostic the inventory addon left in its saved variables, found by walking the accounts"}
+{"id":"01a06864-aa2b-7000-8543-ad1be36860ed"}
+{"slug":"inventory-diagnostics-reading"}
+{"test":"ts"}
+{"type":"page-type/module"}

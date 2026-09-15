@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here runs."},{"decisionKind":"decision-kind/stopgap","statement":"A cast is how the ported add-on reaches a control the game types loosely."}]}
+{"definition":"the control shapes the housing window builders name"}
+{"id":"01a06113-b7cd-713c-9e44-bec20c408d8d"}
+{"slug":"housing-build-casts"}
+{"type":"page-type/module"}

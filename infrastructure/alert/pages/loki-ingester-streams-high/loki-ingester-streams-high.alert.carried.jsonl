@@ -1,0 +1,8 @@
+{"definition":"a Loki ingester is holding close to as many streams as it can"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fa-714e-a2d1-da3d32e6cde9"}
+{"runbook":"txt"}
+{"slug":"loki-ingester-streams-high"}
+{"summary":"'Loki ingester holds {{ $value | printf \"%.0f\" }} in-memory streams (tenant {{ $labels.tenant }})'"}
+{"title":"Loki ingester streams high"}
+{"type":"page-type/alert"}

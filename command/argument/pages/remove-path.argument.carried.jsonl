@@ -1,0 +1,7 @@
+{"id":"01a094e3-ec05-7056-9b0d-74fecacfd558"}
+{"placeholder":"path"}
+{"said":"--remove"}
+{"slug":"remove-path"}
+{"takes":"a file to take away, said from the repository root"}
+{"type":"page-type/argument"}
+{"value":"path"}

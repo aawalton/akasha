@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A member with neither a mechanic name nor a location name is left out."}]}
+{"definition":"picking the distinct members of a zone group in index order"}
+{"id":"01a06231-8f1e-710c-b8c6-91c1c5518292"}
+{"slug":"lib-sets-tip-drop-mechanic-group-select"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Barrier"}
+{"description":"\"Invoke defensive tactics to protect yourself and nearby group members with wards that each absorb up to |cffffff41192|r damage. \\n\\nEach time a ward dissolves, you restore |cffffff1500|r Magicka.\""}
+{"esoSkillId":40239}
+{"icon":"/esoui/art/icons/ability_ava_006_a.dds"}
+{"id":"019e6f53-a607-7fde-b435-f2084fd48dde"}
+{"isMorph":true}
+{"key":"replenishing-barrier-40239"}
+{"learnedLevel":1}
+{"lineRankNeeded":6}
+{"morphIndex":2}
+{"rank":6}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"ultimate"}
+{"slug":"replenishing-barrier-40239"}
+{"subcategoryId":"alliance-war-support"}
+{"title":"Replenishing Barrier"}
+{"type":"page-type/temper-skill"}

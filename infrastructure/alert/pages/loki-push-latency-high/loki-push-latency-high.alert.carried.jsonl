@@ -1,0 +1,8 @@
+{"definition":"Loki is taking a long time to accept the logs pushed to it"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fa-7ae7-bdf6-d55591a04cae"}
+{"runbook":"txt"}
+{"slug":"loki-push-latency-high"}
+{"summary":"'Loki push p99 latency is {{ $value | printf \"%.2f\" }}s'"}
+{"title":"Loki push latency high"}
+{"type":"page-type/alert"}

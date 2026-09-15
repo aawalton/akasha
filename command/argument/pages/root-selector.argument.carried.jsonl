@@ -1,0 +1,8 @@
+{"default":"main"}
+{"id":"01a094cb-c621-7e98-9170-1cb3be49e71d"}
+{"placeholder":"sel"}
+{"said":"--root-selector"}
+{"slug":"root-selector"}
+{"takes":"the element the render fills, `main` where none is said"}
+{"type":"page-type/argument"}
+{"value":"text"}

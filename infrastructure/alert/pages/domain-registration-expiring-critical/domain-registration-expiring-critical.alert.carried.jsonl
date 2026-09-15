@@ -1,0 +1,8 @@
+{"definition":"a domain name's registration expires so soon that renewal has nearly run out of time"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62f9-74d6-83b8-852ac0c74cc7"}
+{"runbook":"txt"}
+{"slug":"domain-registration-expiring-critical"}
+{"summary":"Domain {{ $labels.domain }} expires in {{ $value | humanizeDuration }} (<7d)"}
+{"title":"Domain registration expiring critical"}
+{"type":"page-type/alert"}

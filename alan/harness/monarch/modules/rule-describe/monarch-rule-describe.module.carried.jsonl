@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rule is described from its clauses rather than from the words its page was written in."},{"decisionKind":"decision-kind/departure","statement":"Alternatives within a clause are joined with `or` and the clauses with `and`."},{"decisionKind":"decision-kind/departure","statement":"A clause excluding several values is joined with `and`."},{"decisionKind":"decision-kind/departure","statement":"A clause that is not stated is not described."},{"decisionKind":"decision-kind/absence","statement":"Nothing here says the decision a rule makes."},{"decisionKind":"decision-kind/absence","statement":"Only the clauses a rule narrows on are said here."}]}
+{"definition":"a rule said back in one line, as the clauses it narrows on"}
+{"id":"01a06865-ecc3-7e80-81ec-7da942f39d07"}
+{"slug":"monarch-rule-describe"}
+{"type":"page-type/module"}

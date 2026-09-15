@@ -1,0 +1,13 @@
+{"abilityId":155326}
+{"castConditions":"jsonl"}
+{"companionId":"all"}
+{"description":"Your Companion rushes an enemy and rams them, stunning them for $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_1handed_003.dds"}
+{"id":"019e668d-c556-7c1b-9e3e-194cd0bcbbec"}
+{"key":"shared-bashing-bulwark"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"weapon-one-hand-shield"}
+{"skillType":"active"}
+{"slug":"all-shared-bashing-bulwark"}
+{"title":"Bashing Bulwark"}
+{"type":"page-type/temper-companion-skill"}

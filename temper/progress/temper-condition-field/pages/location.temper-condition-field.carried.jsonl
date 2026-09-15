@@ -1,0 +1,6 @@
+{"description":"An item's inventory location must appear in the list of location ids stated, covering worn, backpack, bank, craft bag, housing storage, house, companion and guild bank."}
+{"id":"01a07209-6b51-7e18-bdfa-5b44a01a5e32"}
+{"key":"location"}
+{"slug":"location"}
+{"title":"Location"}
+{"type":"page-type/temper-condition-field"}

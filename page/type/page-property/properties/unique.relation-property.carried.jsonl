@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A property stating no `unique` is not unique."}]}
+{"definition":"the pages this property's value is unique among"}
+{"id":"01a04edd-897d-7695-8047-3d1c855b750f"}
+{"propertySlug":"unique"}
+{"slug":"unique"}
+{"targetPageType":"page-type/unique-kind"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

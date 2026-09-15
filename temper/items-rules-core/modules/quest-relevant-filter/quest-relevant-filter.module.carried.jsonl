@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the `questRelevant` condition alone."}]}
+{"definition":"the Quest-Relevant Status condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3bf7-7a6c-b39b-787d502ef6cf"}
+{"slug":"quest-relevant-filter"}
+{"type":"page-type/module"}

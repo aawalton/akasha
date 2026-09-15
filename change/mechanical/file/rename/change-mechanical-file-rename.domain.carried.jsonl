@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A file's rename is that file's move."},{"decisionKind":"decision-kind/absence","statement":"Nothing here renames a file alone."}]}
+{"definition":"a mechanical change restating the slug a page is named by"}
+{"id":"01a08238-cb67-7904-b9fc-479ade8d8cd0"}
+{"parts":["change-mechanical/rename-file-page","change-mechanical/rename-file-page-property","change-mechanical/rename-file-pages"]}
+{"slug":"change-mechanical-file-rename"}
+{"type":"page-type/domain"}

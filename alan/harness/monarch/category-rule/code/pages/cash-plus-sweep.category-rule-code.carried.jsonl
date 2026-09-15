@@ -1,0 +1,6 @@
+{"category":"monarch-category/transfer"}
+{"id":"01a0655b-fccf-7014-bdf3-198339e8db63"}
+{"matches":[{"key":"merchant","comparison":"is","values":["cash plus sweep"]},{"key":"account","comparison":"is","values":["2749"]}]}
+{"slug":"cash-plus-sweep"}
+{"title":"Cash plus sweep"}
+{"type":"page-type/category-rule-code"}

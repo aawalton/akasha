@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This count is written out from the scribing script pages rather than by hand."}]}
+{"definition":"how many scribing scripts the game holds across focus, signature and affix"}
+{"id":"01a060d9-44cc-7857-8133-d0c4c0bfc797"}
+{"slug":"scribing-total-script-count"}
+{"type":"page-type/module"}

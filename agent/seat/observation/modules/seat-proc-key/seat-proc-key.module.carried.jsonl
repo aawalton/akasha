@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A process is present only where the pid is there and its start tick is the tick held."},{"decisionKind":"decision-kind/departure","statement":"A pid the kernel no longer names is absent."},{"decisionKind":"decision-kind/departure","statement":"A pid whose stat file will not read is unknown rather than absent."},{"decisionKind":"decision-kind/departure","statement":"A page naming no process at all is absent rather than unknown."},{"decisionKind":"decision-kind/departure","statement":"Only a process named and unreadable leaves whether an agent is there unknown."},{"decisionKind":"decision-kind/departure","statement":"A key is written as the pid and a hyphen and the start ticks."},{"decisionKind":"decision-kind/departure","statement":"A key is read back across a hyphen or a dot."},{"decisionKind":"decision-kind/departure","statement":"A key stated as anything but two whole numbers is no key."}]}
+{"definition":"a pid held together with the tick its process started at, so a reused pid reads as gone"}
+{"id":"01a068a4-60f0-7000-bffe-694978e0a342"}
+{"slug":"seat-proc-key"}
+{"type":"page-type/module"}

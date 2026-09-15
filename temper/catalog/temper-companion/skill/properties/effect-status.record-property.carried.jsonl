@@ -1,0 +1,7 @@
+{"definition":"the status an effect applies, and how long it holds"}
+{"id":"01a06196-037b-7292-b3da-52c4a6dc68a0"}
+{"properties":[{"pageProperty":"text-property/status-name","required":false,"many":false},{"pageProperty":"number-property/duration","required":false,"many":false},{"pageProperty":"number-property/status-magnitude","required":false,"many":false},{"pageProperty":"number-property/status-distance","required":false,"many":false}]}
+{"propertySlug":"status"}
+{"slug":"effect-status"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

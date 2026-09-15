@@ -1,0 +1,17 @@
+{"baseName":"Transfer"}
+{"description":"\"Casting a Siphoning ability while in combat generates |cffffff1|r Ultimate. This effect can occur once every |cffffff4|r seconds.\""}
+{"esoSkillId":36587}
+{"icon":"/esoui/art/icons/passive_sorcerer_002.dds"}
+{"id":"019e6f53-a85a-7a7b-932d-43c1bd951048"}
+{"isMorph":false}
+{"key":"transfer-36587"}
+{"learnedLevel":39}
+{"lineRankNeeded":39}
+{"morphIndex":0}
+{"rank":39}
+{"skillLineId":"nightblade-siphoning"}
+{"skillType":"passive"}
+{"slug":"transfer-36587"}
+{"subcategoryId":"nightblade-siphoning"}
+{"title":"Transfer"}
+{"type":"page-type/temper-skill"}

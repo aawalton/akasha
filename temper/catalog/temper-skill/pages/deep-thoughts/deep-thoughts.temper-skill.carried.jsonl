@@ -1,0 +1,17 @@
+{"baseName":"Meditate"}
+{"description":"\"Focus your body and mind into a meditative state, healing for 1500 Health and restoring 1900 Magicka and Stamina every 1 second.\\n\\nYou will remain in a meditative state until you toggle this ability off or are interrupted.\""}
+{"esoSkillId":40103652}
+{"icon":"/esoui/art/icons/ability_psijic_004_a.dds"}
+{"id":"019e6238-c2b1-7347-b321-74fa09a497c2"}
+{"isMorph":true}
+{"key":"deep-thoughts"}
+{"learnedLevel":8}
+{"lineRankNeeded":8}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"guild-psijic-order"}
+{"skillType":"active"}
+{"slug":"deep-thoughts"}
+{"subcategoryId":"guild-psijic-order"}
+{"title":"Deep Thoughts"}
+{"type":"page-type/temper-skill"}

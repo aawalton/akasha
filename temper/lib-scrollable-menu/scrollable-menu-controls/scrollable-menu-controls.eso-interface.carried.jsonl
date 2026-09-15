@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One virtual control is declared for each entry type a menu row may take."},{"decisionKind":"decision-kind/departure","statement":"A row handler calls back into the library through the LibScrollableMenu global."}]}
+{"definition":"the row, header and dropdown controls every menu of this library is built from"}
+{"id":"01a06275-c447-7a91-b3a6-e3e6daef8679"}
+{"loadedAs":"XML/LibScrollableMenu.xml"}
+{"markup":"xml"}
+{"slug":"scrollable-menu-controls"}
+{"type":"page-type/eso-interface"}

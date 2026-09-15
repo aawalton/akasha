@@ -1,0 +1,7 @@
+{"definition":"how many times an effect fires before it stops"}
+{"id":"01a06193-6cab-70b7-ab3c-01c5061dbc9e"}
+{"max":null}
+{"propertySlug":"max-occurrences"}
+{"slug":"max-occurrences"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

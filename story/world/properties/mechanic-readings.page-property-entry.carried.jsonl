@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reading names its mechanic unless the reading's kind is `none` or `unsure`."}]}
+{"definition":"how each name a world's text uses is read as a mechanic, one name to a line"}
+{"id":"01a063ce-6216-7002-a04b-18f373a5a1d3"}
+{"properties":[{"pageProperty":"text-property/reading-slug","required":true,"many":false},{"pageProperty":"text-property/reading-name","required":true,"many":false},{"pageProperty":"select-property/reading-kind","required":true,"many":false},{"pageProperty":"text-property/mechanic-slug","required":false,"many":false}]}
+{"propertySlug":"mechanic-readings"}
+{"slug":"mechanic-readings"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

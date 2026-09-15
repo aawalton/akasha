@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The S3 gateway's pod template carries the hash of the seaweedfs-creds secret."},{"decisionKind":"decision-kind/departure","statement":"The key hashed from the seaweedfs-creds secret is s3-config.json."},{"decisionKind":"decision-kind/departure","statement":"The S3 gateway mounts only s3-config.json from that secret."}]}
+{"definition":"the deployment manifests for the master, the volume, the filer and the S3 gateway"}
+{"id":"01a06816-68b0-7032-92cb-02e742a97bc7"}
+{"slug":"seaweedfs-deployments"}
+{"type":"page-type/module"}

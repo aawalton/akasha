@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Scribed skills follow the catalog skills rather than sorting among the catalog skills."},{"decisionKind":"decision-kind/gap","statement":"A skill moved to another place breaks every build hash saved."}]}
+{"definition":"every skill a character may slot, the scribed ones among them"}
+{"id":"01a06187-b3a1-7211-9955-637919a983d5"}
+{"slug":"character-skills"}
+{"type":"page-type/module"}

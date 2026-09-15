@@ -1,0 +1,19 @@
+{"baseName":"Wield Soul"}
+{"description":"Deals 2091 Physical Damage to an enemy. Beneficial Signature and Affix scripts only apply to you."}
+{"esoSkillId":219780}
+{"focusScriptId":"physical-damage"}
+{"grimoireId":"wield-soul"}
+{"icon":"/esoui/art/icons/ability_grimoire_soulmagic1.dds"}
+{"id":"019e6471-15fa-72c6-bd05-1b1d05c03e0d"}
+{"isMorph":false}
+{"key":"scribed-wield-soul-physical-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"world-soul-magic"}
+{"skillType":"active"}
+{"slug":"scribed-wield-soul-physical-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Sundering Soul"}
+{"type":"page-type/temper-scribed-skill"}

@@ -1,0 +1,11 @@
+{"description":"Grants Restore Stamina, Restore Magicka, Heroism."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_002_type_005.dds"}
+{"id":"019e21f6-4063-7fbc-a10b-e986b832e77f"}
+{"key":"endurance-intellect-heroism-magicka-restore-stamina-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Columbine","Dragon's Blood","Dragon Rheum"]}]}
+{"seconds":47}
+{"slug":"endurance-intellect-heroism-magicka-restore-stamina-restore"}
+{"title":"Essence of Magicka"}
+{"type":"page-type/temper-potion-crafted"}

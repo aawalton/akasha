@@ -1,0 +1,13 @@
+{"abilityId":152696}
+{"companionId":"all"}
+{"description":"Your Companion envelops themselves in a ring of floating razors, dealing $1 Physical Damage to nearby enemies every 2 seconds for $$1 seconds. The razors also shield them from attacks, reducing their damage taken by 20%."}
+{"icon":"/esoui/art/icons/ability_companion_dualwield_004.dds"}
+{"id":"019e668d-c554-7ab0-bb25-58496b8ab4e2"}
+{"key":"shared-razor-cape"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"all-shared-razor-cape"}
+{"title":"Razor Cape"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps","tank"]}

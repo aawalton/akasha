@@ -1,0 +1,13 @@
+{"abilityIcon":"/esoui/art/icons/ability_grimoire_1handed.dds"}
+{"affixScripts":"jsonl"}
+{"focusScripts":["frost-damage","immobilize","knockback","magic-damage","multi-target","physical-damage","pull","taunt"]}
+{"icon":"/esoui/art/icons/item_grimoire_1hander.dds"}
+{"id":"01a05fce-2956-7f43-a29a-78ffd8016e8d"}
+{"itemId":204486}
+{"key":"shield-throw"}
+{"signatureScripts":"jsonl"}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"slug":"shield-throw"}
+{"title":"Shield Throw"}
+{"type":"page-type/temper-grimoire"}
+{"uespId":3}

@@ -1,0 +1,9 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"An act named here is refused wherever that act is."},{"decisionKind":"decision-kind/departure","statement":"An act this hook reads as a command word is refused wherever that act is."},{"decisionKind":"decision-kind/departure","statement":"No path narrows the refusal."},{"decisionKind":"decision-kind/departure","statement":"A refusal says the work the call would destroy rather than that the call looks unusual."},{"decisionKind":"decision-kind/departure","statement":"A refusal names the akasha command that does the act asked for or says no akasha command does."},{"decisionKind":"decision-kind/departure","statement":"A prefix that only runs the call behind that prefix does not hide a git act from this hook."},{"decisionKind":"decision-kind/absence","statement":"An act this hook does not name is unexamined rather than safe."},{"decisionKind":"decision-kind/constraint","statement":"Git classifies no act by this hazard."},{"decisionKind":"decision-kind/constraint","statement":"The list here is a sample rather than a set."},{"decisionKind":"decision-kind/gap","statement":"One git call does not take away work another agent has not landed."}]}
+{"definition":"a refusal of the git calls that destroy work a shared worktree holds"}
+{"id":"01a04e16-d380-7002-bd31-c3ca7eb9bdc8"}
+{"overTools":["Bash"]}
+{"runsAt":["PreToolUse"]}
+{"slug":"block-destructive-git"}
+{"test":"ts"}
+{"type":"page-type/agent-hook"}

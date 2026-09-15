@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A capture asked to be short is short by the first book of the first collection."}]}
+{"definition":"a sparse lore library capture a test makes from the real table"}
+{"id":"01a08ee1-1c98-7da2-b6af-8e53c812c8c5"}
+{"slug":"lore-library-sparse-test-utils"}
+{"type":"page-type/test-fixture"}

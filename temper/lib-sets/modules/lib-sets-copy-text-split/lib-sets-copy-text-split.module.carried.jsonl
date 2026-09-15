@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The cut point is nudged forward when the cut point lands inside a multi-byte character."}]}
+{"definition":"cutting a string into fixed-length chunks without breaking a multi-byte character"}
+{"id":"01a0623c-2df8-7447-8782-334bfe087f89"}
+{"slug":"lib-sets-copy-text-split"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"definition":"the machines, the services on them, and what puts code onto them"}
+{"id":"01a082ff-e445-73eb-9403-ca14a339ec8d"}
+{"name":"infrastructure"}
+{"parts":["command/infrastructure-loki","command/infrastructure-shell-init-bash","namespace/infrastructure-dev-server","namespace/infrastructure-service"]}
+{"slug":"infrastructure"}
+{"type":"page-type/namespace"}

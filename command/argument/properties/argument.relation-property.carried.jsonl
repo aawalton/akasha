@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An argument no page names is refused rather than read."}]}
+{"definition":"the argument a command names"}
+{"id":"01a09409-0740-76a5-b194-5aae0e0a6f9b"}
+{"propertySlug":"argument"}
+{"slug":"argument"}
+{"targetPageType":"page-type/argument"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

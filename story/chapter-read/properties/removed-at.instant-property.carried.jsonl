@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The pages akasha has of a collection are kept after the source takes the collection down."}]}
+{"definition":"when the source a collection was read from took the collection down"}
+{"id":"01a06554-d8bd-779b-9fbf-e9e8e3127e1f"}
+{"propertySlug":"removed-at"}
+{"slug":"removed-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

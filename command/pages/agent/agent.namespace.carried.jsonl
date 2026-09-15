@@ -1,0 +1,6 @@
+{"definition":"the agents at work and the pages each one has"}
+{"id":"01a082e0-d19a-7472-8445-857aa2d33d92"}
+{"name":"agent"}
+{"parts":["command/agent-strays","command/agent-subagent-stop","command/agent-subagent-sweep","command/agent-turn-color-list"]}
+{"slug":"agent"}
+{"type":"page-type/namespace"}

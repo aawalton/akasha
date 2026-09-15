@@ -1,0 +1,20 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"character":"ceria-springwater"}
+{"completionCardId":"skill-lines"}
+{"completionItemPath":["117"]}
+{"displayOrder":0}
+{"dueDate":"2026-09-15"}
+{"effectiveCharacter":"belavierr"}
+{"esoCharacterId":"8796093038720681"}
+{"id":"019db533-f381-7548-8695-31e6f53f865d"}
+{"lastCompletedAt":"2026-09-14T18:55:18.531Z"}
+{"priority":"p2"}
+{"progress":"jsonl"}
+{"progressCurrent":186}
+{"progressTotal":240}
+{"rruleAnchorFromCompletion":false}
+{"rruleRule":"FREQ=DAILY;INTERVAL=1"}
+{"scope":"next_character"}
+{"slug":"thieves-guild-skill-line"}
+{"title":"Thieves Guild Skill Line"}
+{"type":"page-type/temper-task"}

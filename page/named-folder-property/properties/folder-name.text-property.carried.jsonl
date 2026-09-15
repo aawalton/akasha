@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This folder name is the whole name rather than a stem."}]}
+{"definition":"the name a property's folder is under"}
+{"id":"01a081cc-3144-7cd7-8de6-3cc3911adc06"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"folder-name"}
+{"slug":"folder-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

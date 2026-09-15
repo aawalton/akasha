@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A set of roots may name a repository the set of roots is under as its target."}]}
+{"definition":"which repository a markdown page is in and where it is inside it"}
+{"id":"01a05cc6-2a1c-738e-8e0d-5b9d45886508"}
+{"slug":"markdown-page-at"}
+{"type":"page-type/module"}

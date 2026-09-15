@@ -1,0 +1,17 @@
+{"baseName":"Shield Charge"}
+{"description":"\"Rush an enemy and ram them, dealing 1393 Physical Damage and stunning them for 4 seconds.\\n\\nStuns up to 50% longer based on the distance traveled.\""}
+{"esoSkillId":41538}
+{"icon":"/esoui/art/icons/ability_1handed_003_b.dds"}
+{"id":"019e6226-00fc-78cb-b65c-bb5bb1ae0028"}
+{"isMorph":true}
+{"key":"invasion"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"active"}
+{"slug":"invasion"}
+{"subcategoryId":"weapon-one-hand-and-shield"}
+{"title":"Invasion"}
+{"type":"page-type/temper-skill"}

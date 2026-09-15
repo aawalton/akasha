@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The engine a game names settles how that game's page draws."}]}
+{"definition":"the engine a game is run on"}
+{"id":"01a0673c-8e0e-7000-9766-2ad03b196843"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"game-engine"}
+{"slug":"game-engine"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

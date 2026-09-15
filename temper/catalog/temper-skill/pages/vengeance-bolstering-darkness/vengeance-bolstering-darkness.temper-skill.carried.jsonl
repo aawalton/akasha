@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Bolstering Darkness"}
+{"description":"\"Conjure concealing shadow around you, granting you and up to 3 nearby allies invisibility for |cffffff4|r seconds and Major Protection for |cffffff10|r seconds, reducing damage taken by |cffffff10|r%.\""}
+{"esoSkillId":237702}
+{"icon":"/esoui/art/icons/ability_nightblade_015.dds"}
+{"id":"019e6f53-a8c4-7f26-bca0-9159abbe253e"}
+{"isMorph":false}
+{"key":"vengeance-bolstering-darkness"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-nightblade-shadow"}
+{"skillType":"ultimate"}
+{"slug":"vengeance-bolstering-darkness"}
+{"subcategoryId":"vengeance-nightblade-shadow"}
+{"title":"Vengeance Bolstering Darkness"}
+{"type":"page-type/temper-skill"}

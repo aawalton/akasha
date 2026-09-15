@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Loading this module is for registering the verb."},{"decisionKind":"decision-kind/departure","statement":"The handler does nothing."},{"decisionKind":"decision-kind/departure","statement":"The registration takes the verb id alone."}]}
+{"definition":"the action verb Temper registers for effects a page declares"}
+{"id":"01a0640f-8510-7199-93a8-3fa778720f68"}
+{"slug":"temper-declared-effects"}
+{"type":"page-type/module"}

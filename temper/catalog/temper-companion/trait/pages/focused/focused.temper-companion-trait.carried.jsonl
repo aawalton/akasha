@@ -1,0 +1,10 @@
+{"description":"Increases companion Critical Strike rating"}
+{"effectType":"integer"}
+{"id":"01a05fce-c4af-7d13-ad7c-a7e9b1934c38"}
+{"isReduction":false}
+{"key":"focused"}
+{"metricId":"companion-critical-chance"}
+{"qualityValues":"jsonl"}
+{"slug":"focused"}
+{"title":"Focused"}
+{"type":"page-type/temper-companion-trait"}

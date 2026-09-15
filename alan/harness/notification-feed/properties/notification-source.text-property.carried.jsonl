@@ -1,0 +1,8 @@
+{"definition":"what pushed a notification"}
+{"id":"01a06861-e7cd-7e4f-abcb-e800a07e4427"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"source"}
+{"slug":"notification-source"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"definition":"the model gateway a seat runs, started, weighed or swapped"}
+{"id":"01a07c0e-f3e6-7abc-9238-d49d16577a96"}
+{"name":"gateway"}
+{"parts":["command/model-gateway-start","command/model-gateway-status","command/model-gateway-swap","module/live-gateway-seat"]}
+{"slug":"model-gateway"}
+{"type":"page-type/namespace"}

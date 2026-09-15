@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A ti-clean addon has no `table.insert` and no `table.remove` call site in its TypeScript."},{"decisionKind":"decision-kind/departure","statement":"The `ti-clean-source-zero` ratchet keeps a ti-clean addon clean."},{"decisionKind":"decision-kind/departure","statement":"An addon saying nothing here is backlog rather than a violation."}]}
+{"definition":"whether an addon's TypeScript source has no raw table call"}
+{"id":"01a0819e-2a48-7266-ba95-cc9be07ddbd5"}
+{"propertySlug":"ti-clean"}
+{"slug":"ti-clean"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

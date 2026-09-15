@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The tables are written onto the library global rather than exported."},{"decisionKind":"decision-kind/gap","statement":"An empty branch sits where the newer API version's entries would go."}]}
+{"definition":"the eight drop mechanic name tables placed on the library under their language codes"}
+{"id":"01a061d6-3e2c-7086-af34-b1aa34b67fc9"}
+{"slug":"lib-sets-drop-name-install-names"}
+{"type":"page-type/module"}

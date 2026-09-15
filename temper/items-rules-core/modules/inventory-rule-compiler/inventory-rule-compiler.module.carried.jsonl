@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rule compiles to one ordered entry."},{"decisionKind":"decision-kind/constraint","statement":"A compiled rule's place in the list is the order the rules are tried in."},{"decisionKind":"decision-kind/gap","statement":"A rule moved to another place changes which rule an item matches first."}]}
+{"definition":"one item rule turned into the compiled form the game addon and the web matcher read"}
+{"id":"01a06100-3bed-7b56-8709-2a82c720204e"}
+{"slug":"inventory-rule-compiler"}
+{"type":"page-type/module"}

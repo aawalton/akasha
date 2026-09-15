@@ -1,0 +1,17 @@
+{"baseName":"Magicka Detonation"}
+{"description":"\"Curse an enemy with a magical bomb that explodes after |cffffff4|r seconds, dealing |cffffff1599|r Magic Damage to all enemies in the area.\\n\\nEach enemy within the bomb's radius increases the damage by |cffffff100|r%, including the original target.\""}
+{"esoSkillId":61487}
+{"icon":"/esoui/art/icons/ability_ava_magicka_detonation.dds"}
+{"id":"019e6f53-a43c-75f8-9413-20a3a0895069"}
+{"isMorph":false}
+{"key":"magicka-detonation"}
+{"learnedLevel":1}
+{"lineRankNeeded":7}
+{"morphIndex":0}
+{"rank":7}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"magicka-detonation"}
+{"subcategoryId":"alliance-war-assault"}
+{"title":"Magicka Detonation"}
+{"type":"page-type/temper-skill"}

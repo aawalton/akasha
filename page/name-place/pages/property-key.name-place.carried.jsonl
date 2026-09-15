@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A key is read in code."},{"decisionKind":"decision-kind/departure","statement":"The property the key names is called by its slug."},{"decisionKind":"decision-kind/departure","statement":"Lowering each capital and setting a dash before that capital gives the slug back."},{"decisionKind":"decision-kind/departure","statement":"The key and the slug are one name in two formats rather than two spellings."}]}
+{"definition":"the key a page has one of its values under"}
+{"id":"01a04fed-2fbf-7545-aff5-168ae23e9052"}
+{"nameFormat":"name-format/lower-camel-case"}
+{"slug":"property-key"}
+{"type":"page-type/name-place"}

@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/inventory-path"},{"argument":"argument/characters-path"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A destination is reported only where the slots needed run past the slots free."},{"decisionKind":"decision-kind/departure","statement":"An overflowing destination names the slots needed and the slots free."},{"decisionKind":"decision-kind/departure","statement":"An overflowing destination names the rules and items the capacity filter dropped."},{"decisionKind":"decision-kind/departure","statement":"A run finding no overflow reports nothing."}]}
+{"definition":"the command naming the destinations whose storage the rules would overflow"}
+{"id":"01a0603c-c1d1-78cf-9174-01514c3d023a"}
+{"name":"capacity-audit"}
+{"slug":"temper-inventory-capacity-audit"}
+{"test":"ts"}
+{"type":"page-type/command"}

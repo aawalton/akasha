@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A trace states the phone the trace came from and the count that phone gave the trace."},{"decisionKind":"decision-kind/departure","statement":"Everything beyond the place and the moment is optional."},{"decisionKind":"decision-kind/absence","statement":"Nothing here exists at runtime."}]}
+{"definition":"what one recorded place carries"}
+{"id":"01a05bc7-9129-700b-ba7b-804847cebb2b"}
+{"slug":"trace-shape"}
+{"type":"page-type/module"}

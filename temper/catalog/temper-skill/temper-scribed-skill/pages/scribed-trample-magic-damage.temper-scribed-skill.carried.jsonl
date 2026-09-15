@@ -1,0 +1,19 @@
+{"baseName":"Trample"}
+{"description":"Deals 2876 Magic Damage to all enemies."}
+{"esoSkillId":220542}
+{"focusScriptId":"magic-damage"}
+{"grimoireId":"trample"}
+{"icon":"/esoui/art/icons/ability_grimoire_assault.dds"}
+{"id":"019e6471-15d8-7c0e-902b-942f9adc9ad6"}
+{"isMorph":false}
+{"key":"scribed-trample-magic-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"scribed-trample-magic-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Magical Trample"}
+{"type":"page-type/temper-scribed-skill"}

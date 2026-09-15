@@ -1,0 +1,19 @@
+{"baseName":"Mender's Bond"}
+{"description":"Restores 225 Magicka and 225 Stamina to the ally and other allies in the link every 1 second."}
+{"esoSkillId":217319}
+{"focusScriptId":"restore-resources"}
+{"grimoireId":"menders-bond"}
+{"icon":"/esoui/art/icons/ability_grimoire_staffresto.dds"}
+{"id":"019e6471-15b2-7aab-b278-4d90fd0cb75e"}
+{"isMorph":false}
+{"key":"scribed-menders-bond-restore-resources"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"scribed-menders-bond-restore-resources"}
+{"subcategoryId":"scribed"}
+{"title":"Restorative Bond"}
+{"type":"page-type/temper-scribed-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Loading twice raises an error rather than replacing the library."}]}
+{"definition":"the one global name the game and other addons reach the library by"}
+{"id":"01a06061-408e-75d3-8681-fc041df27d68"}
+{"slug":"debug-logger-global"}
+{"type":"page-type/module"}

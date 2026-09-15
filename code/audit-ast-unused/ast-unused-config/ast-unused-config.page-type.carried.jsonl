@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The root keeps the name its reader has compiled in rather than taking a page's."}]}
+{"definition":"one file of the curation the ast-unused audit reads its globs from"}
+{"extends":["page-type/domain"]}
+{"id":"01a08198-1060-7b7c-b4d4-b7d8ba41baf1"}
+{"parts":["file-property/curation"]}
+{"properties":[{"pageProperty":"file-property/curation","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"ast-unused-config"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

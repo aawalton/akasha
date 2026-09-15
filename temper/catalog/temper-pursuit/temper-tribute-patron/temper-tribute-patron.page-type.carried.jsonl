@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A patron is reached by the collectible the game grants when the patron is won."}]}
+{"definition":"a patron a Tales of Tribute deck is built around"}
+{"extends":["page-type/temper-pursuit-thing"]}
+{"id":"01a06153-0ea9-7008-ab66-7b7e073ebf51"}
+{"parts":["number-property/card-index","number-property/eso-patron-id","page-property-entry/cards","text-property/base-card-name","text-property/upgrade-card-name"]}
+{"properties":[{"pageProperty":"text-property/category","required":true,"many":false},{"pageProperty":"number-property/eso-patron-id","required":true,"many":false},{"pageProperty":"number-property/eso-collectible-id","required":true,"many":false},{"pageProperty":"page-property-entry/cards","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-tribute-patron"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

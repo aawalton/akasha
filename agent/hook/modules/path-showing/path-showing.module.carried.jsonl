@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path under the root is said relative to the root."},{"decisionKind":"decision-kind/departure","statement":"A path outside the root is said whole."},{"decisionKind":"decision-kind/departure","statement":"The root itself is said whole."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the filesystem."}]}
+{"definition":"a path named for a reader at the root"}
+{"id":"01a04f6a-0db6-72c2-9b05-8e1a84ed9649"}
+{"slug":"path-showing"}
+{"test":"ts"}
+{"type":"page-type/module"}

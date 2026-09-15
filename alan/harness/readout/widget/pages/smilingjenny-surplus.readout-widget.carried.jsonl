@@ -1,0 +1,14 @@
+{"app":"ios-app/smilingjenny"}
+{"caption":"Alan's Surplus"}
+{"component":"ios-component/surplus-ring"}
+{"definition":"the tile on Jenny's phone showing how much of Alan's night the day has left him"}
+{"families":["small"]}
+{"feed":"https://smilingjenny.me/api/surplus"}
+{"galleryDescription":"Hours of sleep left after what Alan's day cost."}
+{"galleryName":"Surplus"}
+{"groups":["readout-group/surplus"]}
+{"id":"01a06420-b259-7376-aefb-fb19cf9d5cd2"}
+{"kind":"SurplusWidget"}
+{"place":3}
+{"slug":"smilingjenny-surplus"}
+{"type":"page-type/readout-widget"}

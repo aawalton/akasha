@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Which of a stored and a freshly read name wins is settled here."}]}
+{"definition":"the freshly read name where the game gave one, and the stored name otherwise"}
+{"id":"01a062ea-5f76-7fa2-a4a3-a8b92e04561d"}
+{"slug":"characters-populated-name"}
+{"type":"page-type/module"}

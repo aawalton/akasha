@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This code is written out from an upstream library file rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"An entry's place in this part is the place the gathered list keeps that entry in."},{"decisionKind":"decision-kind/gap","statement":"An entry moved to another place moves the entry every library row shows."}]}
+{"definition":"part 4 of the houses European players have shared with the community"}
+{"id":"01a06113-b7d0-7732-82d3-d62179d88ccf"}
+{"slug":"housing-library-data-eu-4"}
+{"type":"page-type/module"}

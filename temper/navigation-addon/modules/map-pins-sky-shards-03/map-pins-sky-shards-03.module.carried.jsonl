@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The records here are one unbroken run of the table's order."},{"decisionKind":"decision-kind/departure","statement":"The run is the add-on's own source rather than a derivation."}]}
+{"definition":"one run of the skyshard places by zone"}
+{"id":"01a06269-2af8-7683-9fa5-a64a094570a7"}
+{"slug":"map-pins-sky-shards-03"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Swarm"}
+{"description":"\"Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing |cffffff17010|r Magic Damage over |cffffff6|r seconds.\""}
+{"esoSkillId":238016}
+{"icon":"/esoui/art/icons/ability_warden_014.dds"}
+{"id":"019e6f53-a99b-7d3d-8794-6502eca673d7"}
+{"isMorph":false}
+{"key":"vengeance-swarm"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-warden-animal-companions"}
+{"skillType":"active"}
+{"slug":"vengeance-swarm"}
+{"subcategoryId":"vengeance-warden-animal-companions"}
+{"title":"Vengeance Swarm"}
+{"type":"page-type/temper-skill"}

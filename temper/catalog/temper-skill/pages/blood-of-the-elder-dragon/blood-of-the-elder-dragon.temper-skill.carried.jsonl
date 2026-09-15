@@ -1,0 +1,17 @@
+{"baseName":"Dragon Blood"}
+{"description":"\"Draw on your draconic blood to heal yourself for |cffffff9434|r and nearby allies for |cffffff6288|r Health, increasing by up to |cffffff50|r% additional healing based on missing Health. \\n\\nHealed targets gain Major Fortitude and Minor Courage, increasing Health Recovery by |cffffff30|r% and Weapon and Spell Damage by |cffffff215|r for |cffffff20|r seconds.\""}
+{"esoSkillId":32722}
+{"icon":"/esoui/art/icons/ability_dragonknight_011_a.dds"}
+{"id":"019e6f53-9f51-7a68-a844-7586ca379ab3"}
+{"isMorph":true}
+{"key":"blood-of-the-elder-dragon"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":2}
+{"rank":20}
+{"skillLineId":"dragonknight-draconic-power"}
+{"skillType":"active"}
+{"slug":"blood-of-the-elder-dragon"}
+{"subcategoryId":"dragonknight-draconic-power"}
+{"title":"Blood of the Elder Dragon"}
+{"type":"page-type/temper-skill"}

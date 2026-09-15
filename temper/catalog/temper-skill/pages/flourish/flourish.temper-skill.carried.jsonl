@@ -1,0 +1,19 @@
+{"baseName":"Flourish"}
+{"description":"\"Increases your Magicka and Stamina recovery by 20%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":86067}
+{"icon":"/esoui/art/icons/passive_warden_012.dds"}
+{"id":"019e6245-a687-7a4d-bb7a-b06a04aded2d"}
+{"isMorph":false}
+{"key":"flourish"}
+{"learnedLevel":36}
+{"lineRankNeeded":36}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"warden-animal-companions"}
+{"skillType":"passive"}
+{"slug":"flourish"}
+{"status":"unsupported"}
+{"subcategoryId":"warden-animal-companions"}
+{"title":"Flourish"}
+{"type":"page-type/temper-skill"}

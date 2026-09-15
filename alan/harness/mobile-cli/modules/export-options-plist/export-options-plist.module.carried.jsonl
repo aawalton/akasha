@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The profile uuids and the certificate hash sit in the plist as shell variable names."},{"decisionKind":"decision-kind/absence","statement":"An app stating no widget bundle id gets no second provisioning-profile entry."},{"decisionKind":"decision-kind/departure","statement":"The plist names manual signing rather than automatic."}]}
+{"definition":"the plist that tells Xcode which profile signs which bundle"}
+{"id":"01a05cee-e560-75d1-bc5d-3afdaa86f77d"}
+{"slug":"export-options-plist"}
+{"type":"page-type/module"}

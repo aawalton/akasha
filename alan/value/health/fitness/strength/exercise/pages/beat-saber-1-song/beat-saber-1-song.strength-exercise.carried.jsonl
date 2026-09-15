@@ -1,0 +1,23 @@
+{"equipment":"strength-exercise-implement/other"}
+{"exerciseCategory":"cardio"}
+{"exerciseLevel":"intermediate"}
+{"exerciseSource":"aelwyn-custom"}
+{"force":"pull"}
+{"gripDemand":"low"}
+{"id":"019f0077-1ac6-75b0-9aac-45f4c44ea436"}
+{"implementCount":1}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"mechanic":"compound"}
+{"movementPattern":"conditioning"}
+{"muscleFocus":"push"}
+{"primaryMuscles":["shoulders"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["middle-back","lats","abdominals","biceps","triceps"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"beat-saber-1-song"}
+{"title":"Beat Saber (1 song)"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

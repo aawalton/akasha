@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A movie of Ki's names the franchise that movie belongs to."},{"decisionKind":"decision-kind/departure","statement":"A movie of Ki's belongs to one franchise at most."}]}
+{"definition":"a story Ki watches in one sitting"}
+{"extends":["page-type/ki-collection-template"]}
+{"id":"01a06825-d0ec-7654-8084-1e099d039f38"}
+{"schema":"jsonl"}
+{"slug":"ki-movie"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

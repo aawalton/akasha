@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a to-do."},{"decisionKind":"decision-kind/departure","statement":"A round outlives its to-do."},{"decisionKind":"decision-kind/departure","statement":"A round may name a to-do that is gone."}]}
+{"definition":"the to-do a round finished"}
+{"id":"01a05fd8-c30f-7596-9f3a-87a4dbea614a"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"to-do-slug"}
+{"slug":"to-do-slug"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

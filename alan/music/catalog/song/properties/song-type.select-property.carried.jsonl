@@ -1,0 +1,7 @@
+{"definition":"whether a song is the artist's own composition or a reading of someone else's"}
+{"id":"01a06243-144b-7007-a86b-aaf8bdbc945b"}
+{"propertySlug":"song-type"}
+{"slug":"song-type"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["original","derivative"]}

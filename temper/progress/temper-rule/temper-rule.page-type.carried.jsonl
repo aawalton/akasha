@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A property both a template and a rule in force carries is declared here."},{"decisionKind":"decision-kind/departure","statement":"Only a rule whose action moves an item states a destination."},{"decisionKind":"decision-kind/gap","statement":"A rule's action on an item is done outside these pages."}]}
+{"definition":"what to do with an item that matches a set of tests"}
+{"extends":["page-type/temper-progress-thing"]}
+{"id":"01a0727a-ee24-78ce-96b2-5cd1e1558110"}
+{"parts":["boolean-property/active","page-property-entry/conditions","relation-property/action","relation-property/condition-field","relation-property/goal","select-property/stock-scope","text-property/condition-value","text-property/destination"]}
+{"properties":[{"pageProperty":"relation-property/action","required":false,"many":false},{"pageProperty":"boolean-property/active","required":false,"many":false},{"pageProperty":"relation-property/goal","required":false,"many":false},{"pageProperty":"page-property-entry/conditions","required":false,"many":false},{"pageProperty":"text-property/destination","required":false,"many":false},{"pageProperty":"select-property/stock-scope","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-rule"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"definition":"the company it puts him in"}
+{"id":"01a0658e-c30d-7292-9428-4162d0f20d29"}
+{"propertySlug":"connection-activity-category"}
+{"slug":"connection-activity-category"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["in-person","group","spouse","online-real","parasocial","ai","solo"]}

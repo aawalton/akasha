@@ -1,0 +1,8 @@
+{"definition":"a query has been running for longer than any query is allowed to"}
+{"domain":"query-performance"}
+{"id":"01a06755-62fb-7bbd-8803-3570c74b3247"}
+{"runbook":"txt"}
+{"slug":"query-hard-ceiling-exceeded"}
+{"summary":"'Statement running {{ $value | printf \"%.0f\" }}s (queryid {{ $labels.queryid }}, role {{ $labels.role }}) exceeds the 30s ceiling'"}
+{"title":"Query hard ceiling exceeded"}
+{"type":"page-type/alert"}

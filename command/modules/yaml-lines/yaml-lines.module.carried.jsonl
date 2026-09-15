@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A body is parted at each newline."},{"decisionKind":"decision-kind/departure","statement":"A blank line at the end of a body is dropped."},{"decisionKind":"decision-kind/departure","statement":"A blank line inside a body is kept."}]}
+{"definition":"the lines a YAML body holds, with the blank lines at the end dropped"}
+{"id":"01a07c5c-680a-740f-a3f1-a715427bd81a"}
+{"slug":"yaml-lines"}
+{"test":"ts"}
+{"type":"page-type/module"}

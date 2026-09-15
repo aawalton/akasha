@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The strongest active light attack heal buff is the only buff applied on a swing."},{"decisionKind":"decision-kind/departure","statement":"Expired buffs are pruned from the state as a side effect of reading the buffs."},{"decisionKind":"decision-kind/constraint","statement":"A next-attack damage buff is consumed by the swing the buff lands on."}]}
+{"definition":"how a companion's light attack resolves"}
+{"id":"01a06152-c2ca-7b83-b9c0-91952d593058"}
+{"slug":"companion-light-attack"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the CronJob that writes a whole copy of the database once a year"}
+{"generatedDirectory":true}
+{"id":"01a07386-9539-7f1f-a7a2-0792f83dbd40"}
+{"slug":"postgres-annual-dump-manifests"}
+{"type":"page-type/manifest"}

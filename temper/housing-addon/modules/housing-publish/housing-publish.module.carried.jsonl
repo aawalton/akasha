@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The name and version other add-ons may read are published under one global name."}]}
+{"definition":"the housing add-on's name and version, put where other add-ons read both"}
+{"id":"01a06113-b7d2-7a85-8cd4-cd7db66c98e5"}
+{"slug":"housing-publish"}
+{"type":"page-type/module"}

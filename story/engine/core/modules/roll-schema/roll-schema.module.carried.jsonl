@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A roll's record has the seed the roll was thrown from."},{"decisionKind":"decision-kind/departure","statement":"Kept dice are recorded beside the ones that fell away."}]}
+{"definition":"the dice a game rolls, what they came up, and the record kept of the throw"}
+{"id":"01a05b71-e544-7a26-aad9-f2f5d9f86734"}
+{"slug":"roll-schema"}
+{"type":"page-type/module"}

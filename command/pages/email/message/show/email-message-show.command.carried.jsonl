@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/message","required":true,"saidAs":"flag-or-word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The body taken is the first plain-text part found walking the parts."},{"decisionKind":"decision-kind/departure","statement":"A header is matched without regard to case."},{"decisionKind":"decision-kind/absence","statement":"No attachment's bytes come back here."}]}
+{"definition":"the command fetching one Gmail message whole, its plain-text body decoded"}
+{"id":"01a06810-cf11-79cf-8583-56ab486a6b70"}
+{"name":"show"}
+{"slug":"email-message-show"}
+{"test":"ts"}
+{"type":"page-type/command"}

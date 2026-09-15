@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"`pipeline-orchestrator` is not in the chain."},{"decisionKind":"decision-kind/departure","statement":"`pipeline-orchestrator` ships as steps in the main pipeline's `preparation` workflow."}]}
+{"definition":"bringing an empty cluster up to where the pipeline can run"}
+{"id":"01a0675b-16d9-7eab-a110-f106ca00dad1"}
+{"parts":["certificate-authority/cluster-ca","domain/bootstrap-layer","domain/talos","shell-script/generate-certs"]}
+{"slug":"cluster-provisioning"}
+{"type":"page-type/domain"}

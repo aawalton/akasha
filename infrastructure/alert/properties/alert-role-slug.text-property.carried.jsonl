@@ -1,0 +1,8 @@
+{"definition":"the role an alert is for"}
+{"id":"01a06935-977a-7e91-ae12-88623e6a23ba"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"role-slug"}
+{"slug":"alert-role-slug"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

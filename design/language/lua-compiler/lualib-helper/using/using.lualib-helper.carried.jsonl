@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"a call whose disposable arguments are disposed of once the call is over"}
+{"id":"01a08c3e-f870-73e2-b0c9-0e3b5fbafa3d"}
+{"luaExport":"__TS__Using"}
+{"slug":"using"}
+{"type":"page-type/lualib-helper"}

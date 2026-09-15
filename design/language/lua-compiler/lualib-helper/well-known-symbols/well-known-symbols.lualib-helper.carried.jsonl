@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"definition":"the symbols the language itself names"}
+{"id":"01a081db-2ced-7614-92db-92bfeaaf71f8"}
+{"luaExport":"Symbol"}
+{"luaFeature":"WellKnownSymbols"}
+{"slug":"well-known-symbols"}
+{"type":"page-type/lualib-helper"}

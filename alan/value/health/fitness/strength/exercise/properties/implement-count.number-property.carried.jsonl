@@ -1,0 +1,7 @@
+{"definition":"how many pieces of kit are loaded at once, so a pair of dumbbells counts twice"}
+{"id":"01a0657e-2bbf-72d4-a1ad-9a722f217cab"}
+{"max":null}
+{"propertySlug":"implement-count"}
+{"slug":"implement-count"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

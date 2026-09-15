@@ -1,0 +1,17 @@
+{"baseName":"Hearthfire"}
+{"description":"\"Throw out a kindled flame, filling a large area with warmth for |cffffff15|r seconds. This fire heals you and your allies at the target location for |cffffff1369|r Health every |cffffff1|r second.\\n\\nHealed targets gain Minor Fortitude and Minor Heroism while inside, increasing Health Recovery by |cffffff15|r% and generating |cffffff1|r Ultimate every |cffffff1.5|r seconds.\""}
+{"esoSkillId":29059}
+{"icon":"/esoui/art/icons/ability_dragonknight_016.dds"}
+{"id":"019e6f53-a2fd-71ff-9e5c-fb2b99dcad3a"}
+{"isMorph":false}
+{"key":"hearthfire"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":30}
+{"skillLineId":"dragonknight-ardent-flame"}
+{"skillType":"active"}
+{"slug":"hearthfire"}
+{"subcategoryId":"dragonknight-ardent-flame"}
+{"title":"Hearthfire"}
+{"type":"page-type/temper-skill"}

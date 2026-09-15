@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Text naming no known action reads as nothing."},{"decisionKind":"decision-kind/departure","statement":"Text naming no known destination reads as nothing."}]}
+{"definition":"an action name or a destination read out of the text a saved rule holds"}
+{"id":"01a06100-3bec-7b79-9779-2c42248a315d"}
+{"slug":"inventory-destination-parse"}
+{"type":"page-type/module"}

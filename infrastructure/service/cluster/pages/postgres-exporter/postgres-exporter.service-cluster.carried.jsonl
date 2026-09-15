@@ -1,0 +1,11 @@
+{"containerPort":9187}
+{"definition":"the server that publishes the database's state as metrics"}
+{"id":"01a06812-2380-7259-8296-16b643a8bc64"}
+{"image":"prometheuscommunity/postgres-exporter:v0.15.0"}
+{"manifest":["manifest/postgres-exporter"]}
+{"namespace":"prometheus"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"postgres-exporter"}
+{"slug":"postgres-exporter"}
+{"type":"page-type/service-cluster"}

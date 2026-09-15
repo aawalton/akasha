@@ -1,0 +1,19 @@
+{"baseName":"Expert Summoner"}
+{"description":"\"Increases your Magicka and Stamina by 5%.\\n\\nIncreases your Max Health by 5% if you have a permanent pet active.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45199}
+{"icon":"/esoui/art/icons/ability_sorcerer_019.dds"}
+{"id":"019e6245-a67b-7033-a487-17f458c8f6f0"}
+{"isMorph":false}
+{"key":"expert-summoner"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"sorcerer-daedric-summoning"}
+{"skillType":"passive"}
+{"slug":"expert-summoner"}
+{"status":"partially-supported"}
+{"subcategoryId":"sorcerer-daedric-summoning"}
+{"title":"Expert Summoner"}
+{"type":"page-type/temper-skill"}

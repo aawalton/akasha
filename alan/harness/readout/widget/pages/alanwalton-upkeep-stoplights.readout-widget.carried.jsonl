@@ -1,0 +1,14 @@
+{"app":"ios-app/alanwalton"}
+{"component":"ios-component/alanwalton-upkeep-stoplights-widget"}
+{"definition":"the tile on Alan's phone showing whether his upkeep is working"}
+{"families":["small"]}
+{"feed":"https://alanwalton.com/api/habit-stoplights"}
+{"galleryDescription":"Your four upkeep stoplights, at a glance."}
+{"galleryName":"Upkeep"}
+{"groups":["readout-group/upkeep"]}
+{"id":"01a06420-b259-7c2d-889c-333cb1144c67"}
+{"kind":"HabitStoplightsWidget"}
+{"opens":"capacitor://localhost/nav/tracking-690c624f?tab=20f5f031-8fa1-44d2-be3a-561b457548f1#widget=alanwalton-upkeep-stoplights"}
+{"place":6}
+{"slug":"alanwalton-upkeep-stoplights"}
+{"type":"page-type/readout-widget"}

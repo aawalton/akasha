@@ -1,0 +1,19 @@
+{"baseName":"Daedric Protection"}
+{"description":"\"Reduce your damage taken by 5% while you have a Daedric Summoning ability active.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45200}
+{"icon":"/esoui/art/icons/ability_sorcerer_022.dds"}
+{"id":"019e6245-a632-7d47-8248-e48dd28c0269"}
+{"isMorph":false}
+{"key":"daedric-protection"}
+{"learnedLevel":36}
+{"lineRankNeeded":36}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"sorcerer-daedric-summoning"}
+{"skillType":"passive"}
+{"slug":"daedric-protection"}
+{"status":"partially-supported"}
+{"subcategoryId":"sorcerer-daedric-summoning"}
+{"title":"Daedric Protection"}
+{"type":"page-type/temper-skill"}

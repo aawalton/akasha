@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The result interface is imported from companion-stats-result rather than declared here."},{"decisionKind":"decision-kind/constraint","statement":"Formula metrics are evaluated in topological order of their metric references."},{"decisionKind":"decision-kind/gap","statement":"Six rotation metric ids are held out of the display pass by a hardcoded set."}]}
+{"definition":"the full companion stat calculation pass over sources, formula metrics and rotation"}
+{"id":"01a06152-c2d5-7baf-a9bc-c8933bec82ac"}
+{"slug":"companion-stats-calculator-impl"}
+{"type":"page-type/module"}

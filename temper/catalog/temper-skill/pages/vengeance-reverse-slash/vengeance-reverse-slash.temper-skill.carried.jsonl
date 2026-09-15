@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Reverse Slash"}
+{"description":"\"Spin around and strike an enemy down, dealing |cffffff5565|r Physical Damage. Deals up to |cffffff300|r% more damage to enemies with less than |cffffff50|r% Health.\""}
+{"esoSkillId":240482}
+{"icon":"/esoui/art/icons/ability_2handed_004.dds"}
+{"id":"019e6f53-a969-78da-b3b8-2dafbbae504e"}
+{"isMorph":false}
+{"key":"vengeance-reverse-slash"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-two-handed"}
+{"skillType":"active"}
+{"slug":"vengeance-reverse-slash"}
+{"subcategoryId":"vengeance-weapon-two-handed"}
+{"title":"Vengeance Reverse Slash"}
+{"type":"page-type/temper-skill"}

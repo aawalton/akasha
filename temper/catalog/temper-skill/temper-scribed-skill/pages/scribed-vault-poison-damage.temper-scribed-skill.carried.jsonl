@@ -1,0 +1,19 @@
+{"baseName":"Vault"}
+{"description":"Deals 1742 Poison Damage to enemies. Beneficial Signature and Affix scripts only apply to you."}
+{"esoSkillId":214960}
+{"focusScriptId":"poison-damage"}
+{"grimoireId":"vault"}
+{"icon":"/esoui/art/icons/ability_grimoire_bow.dds"}
+{"id":"019e6471-15f2-7166-97a0-626767b001d8"}
+{"isMorph":false}
+{"key":"scribed-vault-poison-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-bow"}
+{"skillType":"active"}
+{"slug":"scribed-vault-poison-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Venomous Vault"}
+{"type":"page-type/temper-scribed-skill"}

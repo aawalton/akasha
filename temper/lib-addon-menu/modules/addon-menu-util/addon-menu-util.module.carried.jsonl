@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Half-width controls place the label above the container instead of beside the container."},{"decisionKind":"decision-kind/departure","statement":"A help URL becomes a clickable FAQ icon anchored beside the label."},{"decisionKind":"decision-kind/departure","statement":"Controls flagged as requiring reload record their value at creation time."},{"decisionKind":"decision-kind/constraint","statement":"The published util table is filled in at the bottom of the module."}]}
+{"definition":"the widget scaffolding and bookkeeping the library publishes as LAM.util"}
+{"id":"01a06100-0000-7000-8000-000000000012"}
+{"slug":"addon-menu-util"}
+{"type":"page-type/module"}

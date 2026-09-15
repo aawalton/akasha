@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Which repositories are cloned here is asked once and held for the life of the process."},{"decisionKind":"decision-kind/departure","statement":"A root named by the environment is read in a process that has asked nothing yet."},{"decisionKind":"decision-kind/departure","statement":"A seat is found by its id and is a seat by the page type its file name says."}]}
+{"definition":"the subagents standing under a seat, and their pages removed with it"}
+{"id":"01a06983-278f-74cd-aa22-89b32f80e5e4"}
+{"slug":"subagent-page"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/module"}

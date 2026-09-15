@@ -1,0 +1,14 @@
+{"abilityId":154925}
+{"castConditions":"jsonl"}
+{"companionId":"tanlorin"}
+{"description":"Your Companion launches a searing fireball at themselves or an ally to cauterize their wounds, healing for $1 Health."}
+{"icon":"/esoui/art/icons/ability_companion_dragonknight_002_b.dds"}
+{"id":"019e6484-38a7-75c3-a9af-75b71469f204"}
+{"key":"tanlorin-kindle"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-tanlorin-radiating-heart"}
+{"skillType":"active"}
+{"slug":"tanlorin-tanlorin-kindle"}
+{"title":"Kindle"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer"]}

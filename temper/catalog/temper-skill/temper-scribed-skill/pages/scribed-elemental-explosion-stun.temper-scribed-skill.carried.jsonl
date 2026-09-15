@@ -1,0 +1,19 @@
+{"baseName":"Elemental Explosion"}
+{"description":"Stuns enemies for 5 seconds."}
+{"esoSkillId":217228}
+{"focusScriptId":"stun"}
+{"grimoireId":"elemental-explosion"}
+{"icon":"/esoui/art/icons/ability_grimoire_staffdestro.dds"}
+{"id":"019e6471-15ab-7473-89e0-d26cf9c1486e"}
+{"isMorph":false}
+{"key":"scribed-elemental-explosion-stun"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"scribed-elemental-explosion-stun"}
+{"subcategoryId":"scribed"}
+{"title":"Dazing Explosion"}
+{"type":"page-type/temper-scribed-skill"}

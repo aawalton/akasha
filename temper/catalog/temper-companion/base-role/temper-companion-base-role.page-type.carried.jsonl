@@ -1,0 +1,9 @@
+{"definition":"a part a companion is built to play"}
+{"extends":["page-type/temper-companion-thing"]}
+{"id":"01a05fce-1851-7d9f-9f36-f8f9bf8792ea"}
+{"parts":["text-property/abbreviation","text-property/valid-armor-weights","text-property/valid-trait-ids","text-property/valid-weapon-role-ids"]}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"text-property/abbreviation","required":true,"many":false},{"pageProperty":"text-property/description","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false},{"pageProperty":"text-property/valid-armor-weights","required":true,"many":true,"maxCount":null},{"pageProperty":"text-property/valid-trait-ids","required":true,"many":true,"maxCount":null},{"pageProperty":"text-property/valid-weapon-role-ids","required":true,"many":true,"maxCount":null}]}
+{"schema":"jsonl"}
+{"slug":"temper-companion-base-role"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

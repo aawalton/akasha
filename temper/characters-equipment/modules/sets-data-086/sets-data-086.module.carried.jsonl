@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The sets are named here in the order the gathered table answers its ids in."},{"decisionKind":"decision-kind/gap","statement":"A set moved to another place breaks every build hash saved."}]}
+{"definition":"part 086 of the gear set table, seeker-synthesis through senche-rahts-grit"}
+{"id":"01a061a3-6218-74e3-b542-58e4877a896a"}
+{"slug":"sets-data-086"}
+{"type":"page-type/module"}

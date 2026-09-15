@@ -1,0 +1,17 @@
+{"baseName":"Resist Affliction"}
+{"description":"\"Increases your Max Stamina by |cffffff600|r and your Disease and Poison Resistance by |cffffff660|r.\""}
+{"esoSkillId":36011}
+{"icon":"/esoui/art/icons/passive_templar_021.dds"}
+{"id":"019e6f53-a60d-7b4d-9e21-e493c798fd36"}
+{"isMorph":false}
+{"key":"resist-affliction-36011"}
+{"learnedLevel":1}
+{"lineRankNeeded":25}
+{"morphIndex":0}
+{"rank":25}
+{"skillLineId":"racial-wood-elf-skills"}
+{"skillType":"passive"}
+{"slug":"resist-affliction-36011"}
+{"subcategoryId":"racial-wood-elf-skills"}
+{"title":"Resist Affliction"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A decision records both the kind of thing that decided and the one thing that decided."},{"decisionKind":"decision-kind/departure","statement":"A decision naming nothing that decided is refused rather than written."},{"decisionKind":"decision-kind/departure","statement":"A source is programmatic or semantic or manual and is nothing else."},{"decisionKind":"decision-kind/departure","statement":"A name is trimmed."},{"decisionKind":"decision-kind/departure","statement":"Blank space names nothing."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes."},{"decisionKind":"decision-kind/departure","statement":"This module composes the record a writer writes."}]}
+{"definition":"what is written down about who decided a transaction's category"}
+{"id":"01a0685f-4ed9-7719-bfc4-bcec345f8656"}
+{"slug":"monarch-provenance"}
+{"test":"ts"}
+{"type":"page-type/module"}

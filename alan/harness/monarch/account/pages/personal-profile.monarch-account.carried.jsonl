@@ -1,0 +1,12 @@
+{"accountActive":true}
+{"accountDisplayName":"Personal Profile"}
+{"accountHidden":false}
+{"accountType":"depository"}
+{"asset":true}
+{"currentBalance":5.15}
+{"definition":"money the family has, sitting in a checking account"}
+{"id":"01a06559-5ea8-7013-832c-a432c9370260"}
+{"monarchId":"148836305531181242"}
+{"slug":"personal-profile"}
+{"title":"Personal Profile"}
+{"type":"page-type/monarch-account"}

@@ -1,0 +1,17 @@
+{"baseName":"Concentrated Barrier"}
+{"description":"\"While you have a Psijic Order ability slotted and are Bracing, you gain a damage shield that absorbs |cffffff2875|r damage. \\n\\nThis damage shield recharges back to full strength after you spend |cffffff10|r seconds not Bracing.\""}
+{"esoSkillId":103888}
+{"icon":"/esoui/art/icons/ability_psijic_010.dds"}
+{"id":"019e6f53-a00f-7ad2-8cfc-89c66971b0d1"}
+{"isMorph":false}
+{"key":"concentrated-barrier-103888"}
+{"learnedLevel":1}
+{"lineRankNeeded":6}
+{"morphIndex":0}
+{"rank":6}
+{"skillLineId":"guild-psijic-order"}
+{"skillType":"passive"}
+{"slug":"concentrated-barrier-103888"}
+{"subcategoryId":"guild-psijic-order"}
+{"title":"Concentrated Barrier"}
+{"type":"page-type/temper-skill"}

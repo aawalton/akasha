@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"No shared guard is kept for the type each guard here narrows to."}]}
+{"definition":"the main menu rows the interface tweaks change"}
+{"id":"01a06115-1ace-7314-97ba-9bfe3573227e"}
+{"slug":"fco-mainmenu"}
+{"type":"page-type/module"}

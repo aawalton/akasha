@@ -1,0 +1,19 @@
+{"baseName":"Concentration"}
+{"description":"\"Increases your Physical and Spell Penetration by 939 for each piece of Light Armor worn.\\n\\nCurrent bonus: 0\""}
+{"effects":"jsonl"}
+{"esoSkillId":45562}
+{"icon":"/esoui/art/icons/ability_sorcerer_060.dds"}
+{"id":"019e6238-c2ab-7300-a822-caf917244679"}
+{"isMorph":false}
+{"key":"concentration"}
+{"learnedLevel":1}
+{"lineRankNeeded":42}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"armor-light-armor"}
+{"skillType":"passive"}
+{"slug":"concentration"}
+{"status":"supported"}
+{"subcategoryId":"armor-light-armor"}
+{"title":"Concentration"}
+{"type":"page-type/temper-skill"}

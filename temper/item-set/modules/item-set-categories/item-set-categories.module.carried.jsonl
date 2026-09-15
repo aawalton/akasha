@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A set's category is the root of the category chain the client hangs the set under."},{"decisionKind":"decision-kind/departure","statement":"A category the game names as an empty string is no category."},{"decisionKind":"decision-kind/departure","statement":"A set the game hangs under no category has neither name."}]}
+{"definition":"the category and subcategory the game hangs one item set collection under"}
+{"id":"01a090e4-4cd1-7dd9-9df4-7d5cf6c4caed"}
+{"slug":"item-set-categories"}
+{"type":"page-type/module"}

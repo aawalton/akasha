@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path carrying no colon names the code repository."}]}
+{"definition":"where the native shell an app is compiled from is kept"}
+{"id":"01a068c9-394b-7ab1-bae3-1499a45430c5"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"native-shell-repo-path"}
+{"slug":"native-shell-repo-path"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

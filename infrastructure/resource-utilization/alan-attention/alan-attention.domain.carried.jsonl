@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Input Alan sends through Remote Control reaches the agent inside its own process."},{"decisionKind":"decision-kind/absence","statement":"No input Alan sends reaches an agent as keystrokes on a terminal."}]}
+{"definition":"the time Alan can give the system"}
+{"id":"01a0675b-16d4-7fec-97b7-58f61da0a03e"}
+{"slug":"alan-attention"}
+{"type":"page-type/domain"}

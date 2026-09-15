@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name absent here is taken from the English table."}]}
+{"definition":"the German name of each way a gear set drops"}
+{"id":"01a061d6-3e26-74aa-b888-20006a0d5efa"}
+{"slug":"lib-sets-drop-name-names-de"}
+{"type":"page-type/module"}

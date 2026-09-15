@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"definition":"how much of the collection and everything it holds has been worked through"}
+{"holds":"number"}
+{"id":"01a07231-dd66-7e56-b4da-5e16976f160f"}
+{"propertySlug":"total-progress-in-words"}
+{"slug":"total-progress-in-words"}
+{"type":"page-type/computed-property"}
+{"types":"ts"}

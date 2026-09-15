@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A request no newer than the last request seen changes nothing."},{"decisionKind":"decision-kind/departure","statement":"The version applied is written back so the same request is not applied twice."}]}
+{"definition":"carrying a side file's request to collect named catalogs again into the saved table"}
+{"id":"01a063ba-94e5-7e75-aef1-fd5d674e72a9"}
+{"slug":"catalog-invalidations"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"displayOrder":1}
+{"id":"019e2fcd-59cd-7ecf-b5f8-41fc3e79aa5d"}
+{"nodeId":"status-duration"}
+{"nodeType":"metric"}
+{"parent":"subcategory-status-effects"}
+{"slug":"metric-status-duration"}
+{"title":"Status Duration"}
+{"type":"page-type/temper-metric-tree"}

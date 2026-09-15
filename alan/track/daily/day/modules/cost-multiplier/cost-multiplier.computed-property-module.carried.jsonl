@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The gap a cost is read from is the safety level less the difficulty level."},{"decisionKind":"decision-kind/departure","statement":"A stretch a full level inside the safety level costs nothing."},{"decisionKind":"decision-kind/departure","statement":"A stretch at the safety level costs one hour for each hour that stretch ran."},{"decisionKind":"decision-kind/departure","statement":"Each level the gap falls beneath the match roughly doubles the cost."},{"decisionKind":"decision-kind/departure","statement":"A gap is read at the nearest half step."},{"decisionKind":"decision-kind/departure","statement":"A half step is the finest step a level moves in."},{"decisionKind":"decision-kind/departure","statement":"A stretch stating no safety level or no difficulty level costs nothing."}]}
+{"definition":"what an hour of a stretch costs, read off safety against difficulty"}
+{"id":"01a08b93-dab4-777c-bdd0-03ab2b96ccb2"}
+{"slug":"cost-multiplier"}
+{"test":"ts"}
+{"type":"page-type/computed-property-module"}

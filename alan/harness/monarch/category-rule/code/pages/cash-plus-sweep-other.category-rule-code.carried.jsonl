@@ -1,0 +1,5 @@
+{"id":"01a0655b-fccf-7013-9625-3c4c1fc6db75"}
+{"matches":[{"key":"merchant","comparison":"is","values":["cash plus sweep"]},{"key":"account","comparison":"is-not","values":["2749"]}]}
+{"slug":"cash-plus-sweep-other"}
+{"title":"Cash plus sweep other"}
+{"type":"page-type/category-rule-code"}

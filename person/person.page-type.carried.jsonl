@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A person whose body nothing here counts against states no weight."}]}
+{"definition":"a human this system reaches"}
+{"extends":["page-type/domain"]}
+{"id":"01a053e0-6cf7-7062-90af-db1def200572"}
+{"parts":["domain/email","module/device-secret-body","module/device-secret-keeping","module/device-secret-minting","module/device-secret-shape","module/device-token-registration","module/health-samples-body","module/person-enrolment","module/person-reading","module/push-apps","module/push-permission","module/push-register-body","module/push-routing","module/route-access","module/sms-consent","module/sms-opt-in","number-property/bodyweight","page-type/access-kind","page-type/authority-kind","page-type/device-secret","page-type/device-token","page-type/person-access","page-type/person-authority","page-type/sms-consent","person/alan","person/david","person/jenny","person/joseph","person/katara","person/ki","person/lizzy","phone-number-property/phone","relation-property/answered-by","text-property/supabase-auth-user-id"]}
+{"properties":[{"pageProperty":"relation-property/answered-by","required":true,"many":false},{"pageProperty":"phone-number-property/phone","required":false,"many":false},{"pageProperty":"email-address-property/email-address","required":false,"many":false},{"pageProperty":"text-property/supabase-auth-user-id","required":false,"many":false},{"pageProperty":"number-property/bodyweight","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"person"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

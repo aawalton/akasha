@@ -1,0 +1,14 @@
+{"abilityId":153467}
+{"companionId":"all"}
+{"description":"Your Companion slams their staff down to activate its blessings, healing themselves and allies in front of them for $1 Health. The blessing also grants 7000 Spell and Physical Resistance for $$2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_restorationstaff_003.dds"}
+{"id":"019e668d-c558-7ef5-9029-06c6a047be67"}
+{"key":"shared-mending-incantation"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"all-shared-mending-incantation"}
+{"tags":["cone-aoe"]}
+{"title":"Mending Incantation"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer","tank","support"]}

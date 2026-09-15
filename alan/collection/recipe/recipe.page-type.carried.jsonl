@@ -1,0 +1,8 @@
+{"definition":"a dish Alan cooks"}
+{"extends":["page-type/collection"]}
+{"id":"01a06807-be66-700f-92e8-bca7096b21be"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"recipe"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

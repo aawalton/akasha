@@ -1,0 +1,9 @@
+{"definition":"a run of content the scripts are earned from"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fca-cb8a-71bc-bb97-a0f1bb3ac4fb"}
+{"parts":["number-property/achievement-id","page-property-entry/tier-achievements","text-property/script-type","text-property/zone-slugs"]}
+{"properties":[{"pageProperty":"number-property/display-order","required":true,"many":false},{"pageProperty":"text-property/script-type","required":true,"many":false},{"pageProperty":"page-property-entry/tier-achievements","required":true,"many":false},{"pageProperty":"text-property/zone-slugs","required":true,"many":true,"maxCount":null}]}
+{"schema":"jsonl"}
+{"slug":"temper-scribing-source"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

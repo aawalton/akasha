@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each name here is a name the compiler gives a meaning of its own at a call site."}]}
+{"definition":"the extensions the Lua compiler adds to TypeScript"}
+{"id":"01a06c82-21b6-738d-ad4f-7882e176e880"}
+{"slug":"language-extensions"}
+{"type":"page-type/type-declaration"}

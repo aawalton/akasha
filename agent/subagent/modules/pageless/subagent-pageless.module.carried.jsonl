@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"What is at work is asked of the seat's transcript rather than of the page index."},{"decisionKind":"decision-kind/departure","statement":"An index cannot answer for a page that is not in it, which is what is looked for."},{"decisionKind":"decision-kind/constraint","statement":"A compacted transcript names no agent id and so names nothing as at work."},{"decisionKind":"decision-kind/departure","statement":"A transcript naming nothing at work is read as no evidence rather than as none."},{"decisionKind":"decision-kind/constraint","statement":"A subagent whose launch the transcript has not folded yet is named by no agent id."},{"decisionKind":"decision-kind/departure","statement":"A subagent the transcript names by no agent id is counted rather than named."},{"decisionKind":"decision-kind/departure","statement":"A subagent dispatched a moment ago is at work with no page until one lands."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a page, takes a page away, or reads a transcript itself."}]}
+{"definition":"a subagent a seat's transcript names as at work with no page of its own"}
+{"id":"01a0951d-933c-768f-a4e9-51a54ceda87a"}
+{"slug":"subagent-pageless"}
+{"test":"ts"}
+{"type":"page-type/module"}

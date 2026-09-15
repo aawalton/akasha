@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A place in this table is the number a saved build hash has."}]}
+{"definition":"each class's game id against its place in a build hash"}
+{"id":"01a0616b-83c5-7863-8ef6-9a4458d16ae4"}
+{"slug":"character-capture-class-map"}
+{"type":"page-type/module"}

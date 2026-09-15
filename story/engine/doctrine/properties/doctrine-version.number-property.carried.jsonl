@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Changing the doctrine a pack has without raising this number is refused."}]}
+{"definition":"which revision of the doctrine a pack carries"}
+{"id":"01a06590-c57a-7735-8352-d549372de788"}
+{"max":null}
+{"propertySlug":"doctrine-version"}
+{"slug":"doctrine-version"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

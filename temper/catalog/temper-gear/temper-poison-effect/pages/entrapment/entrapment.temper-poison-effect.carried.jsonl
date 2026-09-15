@@ -1,0 +1,8 @@
+{"icon":"resources/crafting_alchemy_trait_stun.png"}
+{"id":"019e21f7-0f73-7ef7-a770-a4c141f2939e"}
+{"isPositive":false}
+{"key":"entrapment"}
+{"oppositeId":"unstoppable"}
+{"slug":"entrapment"}
+{"title":"Entrapment"}
+{"type":"page-type/temper-poison-effect"}

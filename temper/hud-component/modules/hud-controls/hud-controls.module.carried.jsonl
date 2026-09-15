@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A part here is hidden by a method called on the control."},{"decisionKind":"decision-kind/departure","statement":"Every part here belongs to all three HUD scenes."}]}
+{"definition":"the HUD parts that are controls rather than fragments"}
+{"id":"01a060a4-fa3b-745a-a9a7-a90e32641060"}
+{"slug":"hud-controls"}
+{"type":"page-type/module"}

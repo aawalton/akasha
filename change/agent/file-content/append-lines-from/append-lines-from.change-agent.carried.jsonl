@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-authored"}
+{"changeMode":"change-mode/change-mode-append"}
+{"changeTargetSubtype":"change-target-subtype/file-content"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The content is read off a path the tree holds rather than handed in."},{"decisionKind":"decision-kind/departure","statement":"An argument this change was handed no value for is refused by that key."},{"decisionKind":"decision-kind/departure","statement":"A path the tree holds no text at is refused."},{"decisionKind":"decision-kind/departure","statement":"Answering the append is left to the partial this change runs."},{"decisionKind":"decision-kind/departure","statement":"The checks judge the tree the edits leave."},{"decisionKind":"decision-kind/stopgap","statement":"This change goes once the entries it carries have landed."}]}
+{"definition":"content one path holds, put at the end of what another path holds"}
+{"id":"01a09312-fac0-7cab-bb6c-b8e6116903b3"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":1024}
+{"slug":"append-lines-from"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

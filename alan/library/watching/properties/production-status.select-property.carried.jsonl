@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"The values are the ones the record has rather than every value the provider answers with."}]}
+{"definition":"how far along the making of a show or a film is"}
+{"id":"01a06599-ee09-700c-bf83-88a35f46a2d3"}
+{"propertySlug":"production-status"}
+{"slug":"production-status"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["ended","released"]}

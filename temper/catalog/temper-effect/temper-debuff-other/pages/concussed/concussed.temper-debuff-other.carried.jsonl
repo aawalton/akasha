@@ -1,0 +1,7 @@
+{"description":"Applies Minor Vulnerability, increasing damage taken by 5%"}
+{"effects":"jsonl"}
+{"id":"01a05fc6-42c7-73da-830f-9717c9e35d8f"}
+{"key":"concussed"}
+{"slug":"concussed"}
+{"title":"Concussed"}
+{"type":"page-type/temper-debuff-other"}

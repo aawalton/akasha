@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A layout is the JSON a chart server reads."},{"decisionKind":"decision-kind/departure","statement":"A chart server writes this JSON rather than an author."},{"decisionKind":"decision-kind/departure","statement":"The byte ceiling is not judged over a layout."}]}
+{"definition":"the panels and queries a dashboard draws"}
+{"extensions":["json"]}
+{"id":"01a07c67-99f2-750d-ba7b-7eb5c1950ed1"}
+{"propertySlug":"layout"}
+{"runsFileLength":false}
+{"slug":"dashboard-layout"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

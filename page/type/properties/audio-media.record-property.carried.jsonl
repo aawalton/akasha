@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Audio is rendered from one property the page has."},{"decisionKind":"decision-kind/departure","statement":"A page type saying its pages have audio names the property the audio is made from."}]}
+{"definition":"the audio a page type's pages are rendered as, and what it is rendered from"}
+{"id":"01a062b8-8775-7001-8dc5-cf2cfeb779b3"}
+{"properties":[{"pageProperty":"text-property/media-source-property-id","required":true,"many":false},{"pageProperty":"text-property/media-renderer","required":true,"many":false},{"pageProperty":"text-property/media-variant-axis","required":false,"many":false}]}
+{"propertySlug":"audio"}
+{"slug":"audio-media"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

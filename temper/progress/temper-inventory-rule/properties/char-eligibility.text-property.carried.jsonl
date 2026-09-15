@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A leg stating nothing here sends to every character the leg reaches."},{"decisionKind":"decision-kind/departure","statement":"A leg's test of a character is no test an item condition makes."},{"decisionKind":"decision-kind/stopgap","statement":"The test is written here as text whatever shape the test has."},{"decisionKind":"decision-kind/gap","statement":"A character test is a field of its own as an item test is."}]}
+{"definition":"which characters one leg of a destination chain will send an item to"}
+{"id":"01a07283-f298-7cad-8c9f-82f3ca167ff1"}
+{"maxLength":500}
+{"nameFormat":null}
+{"propertySlug":"char-eligibility"}
+{"slug":"char-eligibility"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

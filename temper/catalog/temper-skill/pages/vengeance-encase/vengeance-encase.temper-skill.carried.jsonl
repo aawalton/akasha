@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Encase"}
+{"description":"\"Call forth Daedric shards from the earth to immobilize up to 3 enemies in front of you for |cffffff4|r seconds.\""}
+{"esoSkillId":247103}
+{"icon":"/esoui/art/icons/ability_sorcerer_cyclone.dds"}
+{"id":"019e6f53-a8fc-7cfc-8199-ad8d782d0809"}
+{"isMorph":false}
+{"key":"vengeance-encase"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-sorcerer-dark-magic"}
+{"skillType":"active"}
+{"slug":"vengeance-encase"}
+{"subcategoryId":"vengeance-sorcerer-dark-magic"}
+{"title":"Vengeance Encase"}
+{"type":"page-type/temper-skill"}

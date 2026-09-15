@@ -1,0 +1,19 @@
+{"baseName":"Reach"}
+{"description":"\"Increases the range of long-range abilities by 5 meters while near a keep or outpost.\\n\\nAny ability with a range greater than 28 meters is affected.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45621}
+{"icon":"/esoui/art/icons/ability_weapon_001.dds"}
+{"id":"019e6251-4cdd-7211-b962-975c44e5be5d"}
+{"isMorph":false}
+{"key":"reach"}
+{"learnedLevel":10}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"passive"}
+{"slug":"reach"}
+{"status":"unsupported"}
+{"subcategoryId":"alliance-war-assault"}
+{"title":"Reach"}
+{"type":"page-type/temper-skill"}

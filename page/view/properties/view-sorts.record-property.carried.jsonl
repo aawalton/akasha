@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The keys are weighed in the order the keys are stated."},{"decisionKind":"decision-kind/departure","statement":"A view stating no key draws in whatever order the pages arrive."}]}
+{"definition":"the keys a view orders its pages by, each with the way it runs"}
+{"id":"01a0680d-4d00-7004-a139-6e5c8b2f4105"}
+{"properties":[{"pageProperty":"text-property/sort-key","required":true,"many":false},{"pageProperty":"boolean-property/sort-descending","required":true,"many":false}]}
+{"propertySlug":"view-sorts"}
+{"slug":"view-sorts"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

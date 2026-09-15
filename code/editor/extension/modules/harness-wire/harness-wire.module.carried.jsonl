@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Both ends read the protocol from here rather than from numbers of their own."},{"decisionKind":"decision-kind/departure","statement":"The editor's node host imports this module as the bun server does."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches a Bun global."},{"decisionKind":"decision-kind/departure","statement":"The module has names and numbers alone."},{"decisionKind":"decision-kind/constraint","statement":"A stated lease that is not a positive number is the default."}]}
+{"definition":"the protocol the editor and its bun server speak, and how stale an answer may get"}
+{"id":"01a08b9e-4c10-7c47-9cc1-698db3594c89"}
+{"slug":"harness-wire"}
+{"type":"page-type/module"}

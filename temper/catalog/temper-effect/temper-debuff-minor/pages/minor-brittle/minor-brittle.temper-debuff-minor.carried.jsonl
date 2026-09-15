@@ -1,0 +1,7 @@
+{"description":"Increases Critical Damage taken by 10%"}
+{"effects":"jsonl"}
+{"id":"01a05fc6-42c3-744b-a88f-35d6354c5588"}
+{"key":"minor-brittle"}
+{"slug":"minor-brittle"}
+{"title":"Minor Brittle"}
+{"type":"page-type/temper-debuff-minor"}

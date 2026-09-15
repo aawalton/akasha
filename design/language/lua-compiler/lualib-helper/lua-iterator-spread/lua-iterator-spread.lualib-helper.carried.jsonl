@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the key and value pairs a Lua iterator answers, spread as many values"}
+{"id":"01a081f7-142d-71c5-bd71-a8946abb6106"}
+{"luaExport":"__TS__LuaIteratorSpread"}
+{"slug":"lua-iterator-spread"}
+{"type":"page-type/lualib-helper"}

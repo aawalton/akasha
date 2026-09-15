@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Rune Prison"}
+{"description":"\"Imprison an enemy in a constricting sphere of dark magic. After a short duration they are stunned for |cffffff3|r seconds.\\n\\nThis stun cannot be blocked.\""}
+{"esoSkillId":237803}
+{"icon":"/esoui/art/icons/ability_sorcerer_dark_fog.dds"}
+{"id":"019e6f53-a96d-7e1c-9a4d-9d9abd8e07be"}
+{"isMorph":false}
+{"key":"vengeance-rune-prison"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-sorcerer-dark-magic"}
+{"skillType":"active"}
+{"slug":"vengeance-rune-prison"}
+{"subcategoryId":"vengeance-sorcerer-dark-magic"}
+{"title":"Vengeance Rune Prison"}
+{"type":"page-type/temper-skill"}

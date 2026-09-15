@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every setting has a default stated here."},{"decisionKind":"decision-kind/departure","statement":"A timestamp records when a settings group was last worked out."}]}
+{"definition":"the shape of the inventory settings a player keeps, beside the defaults each falls back on"}
+{"id":"01a06100-3bf0-7056-8b1b-26f75a65bb5f"}
+{"slug":"inventory-settings-types"}
+{"type":"page-type/module"}

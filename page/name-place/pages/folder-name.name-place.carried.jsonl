@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A folder with one page is named for that page's slug."},{"decisionKind":"decision-kind/departure","statement":"A folder with the property pages of a page is named `properties`."},{"decisionKind":"decision-kind/departure","statement":"A folder with many pages of one type is named `pages`."}]}
+{"definition":"the name a folder carries"}
+{"id":"01a04fd0-c6ea-77f5-8c92-d3fab1cd61b5"}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"slug":"folder-name"}
+{"type":"page-type/name-place"}

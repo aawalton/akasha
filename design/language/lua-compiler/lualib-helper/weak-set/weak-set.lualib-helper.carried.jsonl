@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the set with its values weakly, so a value there may still be collected"}
+{"id":"01a08202-0fa9-7cc0-b52f-e81bdc5c27df"}
+{"luaExport":"WeakSet"}
+{"slug":"weak-set"}
+{"type":"page-type/lualib-helper"}

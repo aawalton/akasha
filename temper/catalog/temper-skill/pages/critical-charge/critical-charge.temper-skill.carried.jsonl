@@ -1,0 +1,17 @@
+{"baseName":"Critical Charge"}
+{"description":"\"Launch across the earth and smash an enemy, dealing |cffffff4846|r Physical Damage. \\n\\nThis attack is always a Critical Strike.\""}
+{"esoSkillId":28448}
+{"icon":"/esoui/art/icons/ability_2handed_003.dds"}
+{"id":"019e6f53-a035-7736-8071-908d23594fbe"}
+{"isMorph":false}
+{"key":"critical-charge"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"active"}
+{"slug":"critical-charge"}
+{"subcategoryId":"weapon-two-handed"}
+{"title":"Critical Charge"}
+{"type":"page-type/temper-skill"}

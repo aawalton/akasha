@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A sender is a seat or a persona or a service that has no seat."},{"decisionKind":"decision-kind/gap","statement":"This property is a relation to the sender of the message."}]}
+{"definition":"who a message says sent it"}
+{"id":"01a06818-107b-7001-9459-e63f4dbdd555"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"from"}
+{"slug":"message-from"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

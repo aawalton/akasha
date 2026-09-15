@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A key is written out as text before a row is filed under that key."},{"decisionKind":"decision-kind/departure","statement":"A row the key extractor answers nothing for is left out of the counts."},{"decisionKind":"decision-kind/departure","statement":"The counts keep the order each key was first met in."},{"decisionKind":"decision-kind/departure","statement":"The later of two rows sharing a key is the row filed under that key."}]}
+{"definition":"rows filed under a key, and rows counted by a key"}
+{"id":"01a0609f-53fa-76c3-b842-f36808ca5db3"}
+{"slug":"row-grouping"}
+{"type":"page-type/module"}

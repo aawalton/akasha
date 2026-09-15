@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"This cancel and the one in number-badge close over different setters and are not one rule."}]}
+{"definition":"the text of a rule's filter, edited in place"}
+{"id":"01a0636c-5da1-769b-b67e-b3290a880057"}
+{"slug":"rule-card-filter-text"}
+{"type":"page-type/module"}

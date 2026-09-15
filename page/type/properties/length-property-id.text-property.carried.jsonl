@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page whose length is not known is never recorded as read at its end."}]}
+{"definition":"the key of the property holding how long a page is"}
+{"id":"01a0683a-620a-7c9f-8c62-ed7e2e10a9ca"}
+{"maxLength":64}
+{"nameFormat":"name-format/lower-camel-case"}
+{"propertySlug":"length-property-id"}
+{"slug":"length-property-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

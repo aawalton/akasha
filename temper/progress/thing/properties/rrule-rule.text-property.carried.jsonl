@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A recurrence is written as an RFC 5545 RRULE without its `RRULE:` opener."}]}
+{"definition":"how often a task comes round again"}
+{"id":"01a05fc6-81fd-7f0e-82af-5f52794a8b51"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"rrule-rule"}
+{"slug":"rrule-rule"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

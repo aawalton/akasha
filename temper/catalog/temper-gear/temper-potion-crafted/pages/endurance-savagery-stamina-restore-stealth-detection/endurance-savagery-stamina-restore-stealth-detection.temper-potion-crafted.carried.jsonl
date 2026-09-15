@@ -1,0 +1,11 @@
+{"description":"Grants Restore Stamina, Detection, Increase Weapon Crit."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_012_type_005.dds"}
+{"id":"019e21f6-4063-70f0-b02c-06f7d744ad2c"}
+{"key":"endurance-savagery-stamina-restore-stealth-detection"}
+{"level":"CP150"}
+{"reagents":[{"names":["Chaurus Egg","Dragonthorn","Wormwood"]}]}
+{"seconds":47}
+{"slug":"endurance-savagery-stamina-restore-stealth-detection"}
+{"title":"Essence of Weapon Crit"}
+{"type":"page-type/temper-potion-crafted"}

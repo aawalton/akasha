@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Traffic reaching the container from inside the cluster arrives here."}]}
+{"definition":"the port a workload's container listens on"}
+{"id":"01a05b26-f8b6-79b3-99f7-89dda59659cc"}
+{"max":65535}
+{"propertySlug":"container-port"}
+{"slug":"container-port"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

@@ -1,0 +1,19 @@
+{"baseName":"Resist Flame"}
+{"description":"\"Increases your Flame Resistance by 4620.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45270}
+{"icon":"/esoui/art/icons/ability_sorcerer_010.dds"}
+{"id":"019e624a-12d7-7761-bba1-37580fdf09c4"}
+{"isMorph":false}
+{"key":"resist-flame"}
+{"learnedLevel":40}
+{"lineRankNeeded":40}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"racial-dark-elf-skills"}
+{"skillType":"passive"}
+{"slug":"resist-flame"}
+{"status":"supported"}
+{"subcategoryId":"racial-dark-elf-skills"}
+{"title":"Resist Flame"}
+{"type":"page-type/temper-skill"}

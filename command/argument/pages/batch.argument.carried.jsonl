@@ -1,0 +1,8 @@
+{"default":"1000"}
+{"id":"01a094e6-1e6a-7e90-8d31-575d2caae9e8"}
+{"placeholder":"n"}
+{"said":"--batch"}
+{"slug":"batch"}
+{"takes":"how many readings one write carries, 1 to 1000"}
+{"type":"page-type/argument"}
+{"value":"whole-number"}

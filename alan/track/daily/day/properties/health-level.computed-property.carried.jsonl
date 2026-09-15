@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"definition":"which of the four rungs the day's health points reached"}
+{"holds":"number"}
+{"id":"01a0720f-5ad0-7667-8ad8-69cd26bf585c"}
+{"propertySlug":"health-level"}
+{"slug":"health-level"}
+{"type":"page-type/computed-property"}
+{"types":"ts"}

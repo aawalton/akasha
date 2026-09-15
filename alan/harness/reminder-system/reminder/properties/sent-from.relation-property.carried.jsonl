@@ -1,0 +1,7 @@
+{"definition":"the persona something is sent by"}
+{"id":"01a05f42-d941-7003-93f9-14f2e4d582f1"}
+{"propertySlug":"from"}
+{"slug":"sent-from"}
+{"targetPageType":"page-type/persona"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

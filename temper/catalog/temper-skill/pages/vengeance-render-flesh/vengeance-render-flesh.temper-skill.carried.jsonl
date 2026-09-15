@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Render Flesh"}
+{"description":"\"Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for |cffffff16065|r Health but applying Minor Defile to yourself for |cffffff4|r seconds, reducing your healing received and damage shield strength by |cffffff6|r%.\""}
+{"esoSkillId":238251}
+{"icon":"/esoui/art/icons/ability_necromancer_013.dds"}
+{"id":"019e6f53-a963-7ea8-9173-8a1cce2f2781"}
+{"isMorph":false}
+{"key":"vengeance-render-flesh"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-necromancer-living-death"}
+{"skillType":"active"}
+{"slug":"vengeance-render-flesh"}
+{"subcategoryId":"vengeance-necromancer-living-death"}
+{"title":"Vengeance Render Flesh"}
+{"type":"page-type/temper-skill"}

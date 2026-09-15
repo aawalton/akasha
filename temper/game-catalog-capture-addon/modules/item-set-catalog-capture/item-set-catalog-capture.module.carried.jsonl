@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The collector adds itself to the catalog registry as the module loads."},{"decisionKind":"decision-kind/departure","statement":"Sets are read in batches so the client keeps answering while collection runs."},{"decisionKind":"decision-kind/departure","statement":"A set with no name or no pieces is passed over."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads which pieces the player has collected."}]}
+{"definition":"the game's item sets, with the pieces and category of each, read into the add-on's saved variables"}
+{"id":"01a06127-6644-7d5a-b5dd-845d71c2890e"}
+{"slug":"item-set-catalog-capture"}
+{"type":"page-type/module"}

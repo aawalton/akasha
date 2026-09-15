@@ -1,0 +1,8 @@
+{"definition":"a gift a people or a power grants a character"}
+{"extends":["page-type/world-mechanic"]}
+{"id":"01a06558-a991-7d9a-a1d3-501e6bcb1529"}
+{"runsTabooCheck":false}
+{"schema":"jsonl"}
+{"slug":"world-boon"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

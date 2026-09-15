@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The active search is marked in the bar rather than named elsewhere."}]}
+{"definition":"the bar a player picks a named search from"}
+{"id":"01a06160-2a5c-7023-b9e8-db3415a32e0a"}
+{"slug":"trading-saved-search-bar"}
+{"type":"page-type/module"}

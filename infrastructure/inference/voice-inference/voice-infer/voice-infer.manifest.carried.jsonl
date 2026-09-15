@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The pod template carries the hash of the voice-infer-s3-creds secret."},{"decisionKind":"decision-kind/departure","statement":"The keys hashed from it are access_key and secret_key."}]}
+{"definition":"the speech workload, its namespace and the way in to it"}
+{"generatedDirectory":true}
+{"id":"01a0736f-e7a5-75ee-bda8-4298c8084c5b"}
+{"slug":"voice-infer"}
+{"type":"page-type/manifest"}

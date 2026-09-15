@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reader asks for state and is refused while the window is unopened."}]}
+{"definition":"what the skill point window has between one redraw and the next"}
+{"id":"01a060ec-5845-7183-82f7-c87b4acc65bd"}
+{"slug":"skill-point-finder-state"}
+{"type":"page-type/module"}

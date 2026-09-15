@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A shape here has the one method the mechanism names."},{"decisionKind":"decision-kind/absence","statement":"No shape here is a game global."}]}
+{"definition":"the shapes a HUD part takes where the way to hide the part is a method of its own"}
+{"id":"01a061c5-18dd-7009-859a-31630f29ad1a"}
+{"slug":"hud-addon-hide-targets"}
+{"type":"page-type/module"}

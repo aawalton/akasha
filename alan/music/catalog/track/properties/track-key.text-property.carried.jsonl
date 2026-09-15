@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A track key is the title, then the artists, then the length in milliseconds, parted by `|`."},{"decisionKind":"decision-kind/departure","statement":"The title in a track key has only lowercase letters and digits."},{"decisionKind":"decision-kind/departure","statement":"The artists in a track key are every artist the provider credits, sorted and parted by `,`."},{"decisionKind":"decision-kind/departure","statement":"Two tracks with one track key are one recording carried on two releases."}]}
+{"definition":"the text matching a track to the same track carried on another release"}
+{"id":"01a0a620-826b-7e60-9d85-16c3162b769c"}
+{"maxLength":400}
+{"nameFormat":null}
+{"propertySlug":"track-key"}
+{"slug":"track-key"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

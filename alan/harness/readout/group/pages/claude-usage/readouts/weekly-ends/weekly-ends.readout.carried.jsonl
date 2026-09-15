@@ -1,0 +1,12 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only an account with weekly allowance left to spend is counted."},{"decisionKind":"decision-kind/departure","statement":"The reading is the soonest window still ahead of the moment asked in."},{"decisionKind":"decision-kind/departure","statement":"A window already behind that moment is left out rather than read as zero."},{"decisionKind":"decision-kind/departure","statement":"No account with a window ahead is no reading rather than a wait of zero."},{"decisionKind":"decision-kind/departure","statement":"The color this reading takes is the color the weekly usage reading is shown in."},{"decisionKind":"decision-kind/absence","statement":"Nothing here caches a reading or decides when a reading is taken."}]}
+{"definition":"how long until the weekly allowance window closes"}
+{"drawnAs":"number"}
+{"groups":["readout-group/claude-usage"]}
+{"id":"01a063bd-a526-7623-8e91-2865d3976acc"}
+{"label":"7d ends"}
+{"place":4}
+{"scale":"readout-scale/allowance-hours"}
+{"slug":"weekly-ends"}
+{"type":"page-type/readout"}
+{"unit":"hours"}
+{"wireKey":"weekly-ends"}

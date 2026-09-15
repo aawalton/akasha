@@ -1,0 +1,7 @@
+{"definition":"how settled a part of Alan's chess is"}
+{"id":"01a06582-bd62-79d5-a108-e94ea6a69b8e"}
+{"propertySlug":"status"}
+{"slug":"chess-progress-status"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["unknown","shaky","developing","solid"]}

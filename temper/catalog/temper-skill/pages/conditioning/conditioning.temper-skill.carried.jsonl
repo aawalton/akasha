@@ -1,0 +1,19 @@
+{"baseName":"Conditioning"}
+{"description":"\"Increases your Max Stamina by 2000.\""}
+{"effects":"jsonl"}
+{"esoSkillId":117754}
+{"icon":"/esoui/art/icons/ability_dragonknight_021.dds"}
+{"id":"019e624a-12c2-747f-afa8-a8edb36eb1b9"}
+{"isMorph":false}
+{"key":"conditioning"}
+{"learnedLevel":40}
+{"lineRankNeeded":40}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"racial-redguard-skills"}
+{"skillType":"passive"}
+{"slug":"conditioning"}
+{"status":"supported"}
+{"subcategoryId":"racial-redguard-skills"}
+{"title":"Conditioning"}
+{"type":"page-type/temper-skill"}

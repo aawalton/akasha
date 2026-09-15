@@ -1,0 +1,17 @@
+{"baseName":"Trowel"}
+{"description":"\"Removes |cFFFFFF3|r layers of dirt or rock from a |cFFFFFF1x1|r area.\\n\\nCosts |c19D3FF2 Intuition|r to use.\""}
+{"esoSkillId":139943}
+{"icon":"/esoui/art/icons/u26_ability_digging_01.dds"}
+{"id":"019e6f53-a865-7c83-ae56-49eed68c9c0b"}
+{"isMorph":false}
+{"key":"trowel-139943"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"world-excavation"}
+{"skillType":"passive"}
+{"slug":"trowel-139943"}
+{"subcategoryId":"world-excavation"}
+{"title":"Trowel"}
+{"type":"page-type/temper-skill"}

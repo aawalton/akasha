@@ -1,0 +1,19 @@
+{"baseName":"Cycle of Life"}
+{"description":"\"Your fully-charged Heavy Attacks restore 30% more Magicka.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45520}
+{"icon":"/esoui/art/icons/ability_weapon_004.dds"}
+{"id":"019e6226-00df-7218-bc92-65cc9a98889c"}
+{"isMorph":false}
+{"key":"cycle-of-life"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"passive"}
+{"slug":"cycle-of-life"}
+{"status":"unsupported"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Cycle of Life"}
+{"type":"page-type/temper-skill"}

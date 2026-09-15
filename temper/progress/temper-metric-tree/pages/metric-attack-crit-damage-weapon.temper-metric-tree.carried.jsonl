@@ -1,0 +1,8 @@
+{"displayOrder":1}
+{"id":"019e2fcd-5978-7004-a66b-237dda18d388"}
+{"nodeId":"attack-crit-damage-weapon"}
+{"nodeType":"metric"}
+{"parent":"subcategory-critical-damage"}
+{"slug":"metric-attack-crit-damage-weapon"}
+{"title":"Attack Crit Damage Weapon"}
+{"type":"page-type/temper-metric-tree"}

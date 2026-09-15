@@ -1,0 +1,12 @@
+{"difficulty":"major"}
+{"id":"019db533-f381-76c9-b024-858f4cbd828c"}
+{"slug":"haircut"}
+{"title":"Haircut"}
+{"toDoCategory":"health"}
+{"toDoDueDate":"2026-10-19"}
+{"toDoLastCompletedAt":"2026-09-07T13:09:29.899Z"}
+{"toDoPriority":"p3"}
+{"toDoRecurrence":"FREQ=WEEKLY;INTERVAL=6"}
+{"toDoSortOrder":53}
+{"toDoValue":"value/health"}
+{"type":"page-type/to-do"}

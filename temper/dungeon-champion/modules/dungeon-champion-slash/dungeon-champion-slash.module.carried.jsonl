@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A position prints as hundredths of a percent."}]}
+{"definition":"two slash commands that print where the player is on the open map"}
+{"id":"01a060f9-badb-75b9-a0c4-24413a5ab8d1"}
+{"slug":"dungeon-champion-slash"}
+{"type":"page-type/module"}

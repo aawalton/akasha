@@ -1,0 +1,14 @@
+{"changeKind":"change-kind/change-checked"}
+{"changeMode":"change-mode/change-mode-rename"}
+{"changeTargetSubtype":"change-target-subtype/page-property-property-slug"}
+{"changeTargetType":"change-target-type/page-property"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A count that is no whole number above nothing is refused."},{"decisionKind":"decision-kind/departure","statement":"An argument this change was handed no value for is refused by its key."},{"decisionKind":"decision-kind/departure","statement":"The whole rename is worked out by the one rung this change reaches."},{"decisionKind":"decision-kind/departure","statement":"That rung is reached through the runner rather than by importing that rung's code."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the index."}]}
+{"definition":"one property's key spelled anew on that property's page and on every page with it"}
+{"id":"01a0819e-9047-7f45-850f-d66e47cf03e4"}
+{"maxCpuSeconds":120}
+{"maxMemoryMb":3072}
+{"slug":"rename-page-property-property-slug"}
+{"takesAtMost":true}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

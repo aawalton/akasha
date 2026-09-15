@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This route's action is the only thing this route's code exports."}]}
+{"definition":"the page a reader's browser asks to have written"}
+{"id":"01a0882c-bfbe-7b18-9cbf-ce33bfbb3bce"}
+{"slug":"alan-web-api-page-write"}
+{"type":"page-type/route"}
+{"urlPath":"api/page-write"}

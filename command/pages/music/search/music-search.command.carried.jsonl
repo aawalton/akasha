@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/limit","default":"5"},{"argument":"argument/artist"},{"argument":"argument/query","required":true,"saidAs":"word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An artist named widens the fetch to the most candidates before the filtering."},{"decisionKind":"decision-kind/departure","statement":"A candidate is given with its track name, its artists, its album and its uri."},{"decisionKind":"decision-kind/departure","statement":"An artist named is matched without regard to case."},{"decisionKind":"decision-kind/departure","statement":"An artist named is matched against any part of a candidate's artist."},{"decisionKind":"decision-kind/departure","statement":"Ten is the most candidates fetched."},{"decisionKind":"decision-kind/departure","statement":"A call naming no query is refused."},{"decisionKind":"decision-kind/departure","statement":"A call saying no limit gives back five candidates."},{"decisionKind":"decision-kind/absence","statement":"Nothing here starts playback."}]}
+{"definition":"the command naming the Spotify tracks a query matches, each with its artists"}
+{"id":"01a062f8-ead9-70cb-ae30-58a51b7fc488"}
+{"name":"search"}
+{"slug":"music-search"}
+{"test":"ts"}
+{"type":"page-type/command"}

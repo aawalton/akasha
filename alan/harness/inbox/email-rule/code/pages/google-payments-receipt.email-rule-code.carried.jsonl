@@ -1,0 +1,7 @@
+{"filing":"archive"}
+{"forwardTo":"person/jenny"}
+{"id":"01a06860-54a2-7e49-86d6-d8f59cf70665"}
+{"matches":[{"field":"from","comparison":"is","values":["payments-noreply@google.com"]},{"field":"subject","comparison":"contains","values":["received your payment"]}]}
+{"slug":"google-payments-receipt"}
+{"title":"Google payments receipt"}
+{"type":"page-type/email-rule-code"}

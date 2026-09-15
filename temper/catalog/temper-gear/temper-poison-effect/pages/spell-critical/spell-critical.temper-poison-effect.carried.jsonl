@@ -1,0 +1,9 @@
+{"effects":"jsonl"}
+{"icon":"resources/crafting_alchemy_trait_spellcrit.png"}
+{"id":"019e21f7-0f6e-7a42-931c-f0a5f1850ed0"}
+{"isPositive":true}
+{"key":"spell-critical"}
+{"oppositeId":"uncertainty"}
+{"slug":"spell-critical"}
+{"title":"Spell Critical"}
+{"type":"page-type/temper-poison-effect"}

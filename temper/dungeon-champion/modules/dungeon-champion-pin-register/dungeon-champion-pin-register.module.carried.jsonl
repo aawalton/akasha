@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A compass pin shrinks as the compass pin moves away from the center."}]}
+{"definition":"telling LibMapPins and the compass what a champion pin looks like"}
+{"id":"01a060f9-bacb-7522-90b0-6722aa981410"}
+{"slug":"dungeon-champion-pin-register"}
+{"type":"page-type/module"}

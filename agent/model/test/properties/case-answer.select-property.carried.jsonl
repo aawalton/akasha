@@ -1,0 +1,7 @@
+{"definition":"the answer a case is labelled with"}
+{"id":"01a05f8d-eaa0-7002-a100-b3b93772ca57"}
+{"propertySlug":"answer"}
+{"slug":"case-answer"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["YES","NO"]}

@@ -1,0 +1,18 @@
+{"baseName":"Falcon's Swiftness"}
+{"description":"\"Invoke the spirit of agility to gain Major Expedition for 6 seconds, increasing your Movement Speed by 30%.\\n\\nGain immunity to snares and immobilizations for 4 seconds.\\n\\nWhile slotted you gain Minor Evasion, reducing damage from area attacks by 10%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":86044}
+{"icon":"/esoui/art/icons/ability_warden_016_b.dds"}
+{"id":"019e6245-a648-7ce5-8107-c17b9c3d2ada"}
+{"isMorph":true}
+{"key":"deceptive-predator"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"warden-animal-companions"}
+{"skillType":"active"}
+{"slug":"deceptive-predator"}
+{"subcategoryId":"warden-animal-companions"}
+{"title":"Deceptive Predator"}
+{"type":"page-type/temper-skill"}

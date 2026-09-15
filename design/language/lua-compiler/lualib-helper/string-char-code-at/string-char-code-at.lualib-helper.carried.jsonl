@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the code of the character text holds at an index"}
+{"id":"01a081e7-49c9-7483-8702-12cf5959cc4f"}
+{"luaExport":"__TS__StringCharCodeAt"}
+{"slug":"string-char-code-at"}
+{"type":"page-type/lualib-helper"}

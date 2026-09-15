@@ -1,0 +1,17 @@
+{"baseName":"Arrow Spray"}
+{"description":"\"Fire a burst of arrows in one shot, dealing 1742 Physical Damage to enemies in front of you. \\n\\nEnemies hit are immobilized for 4 seconds.\""}
+{"esoSkillId":40777}
+{"icon":"/esoui/art/icons/ability_bow_005_a.dds"}
+{"id":"019e6226-00d9-76e0-b4e2-cb73c9658313"}
+{"isMorph":true}
+{"key":"bombard"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"weapon-bow"}
+{"skillType":"active"}
+{"slug":"bombard"}
+{"subcategoryId":"weapon-bow"}
+{"title":"Bombard"}
+{"type":"page-type/temper-skill"}

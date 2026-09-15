@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A frame says nothing about the body the frame stands around."},{"decisionKind":"decision-kind/departure","statement":"A page type stating no frame is read in the frame every page is read in."}]}
+{"definition":"how the screen around a page's body behaves while the page is read"}
+{"id":"01a0683a-620a-721f-ac05-27b2bc929afe"}
+{"properties":[{"pageProperty":"boolean-property/frame-edge-to-edge","required":false,"many":false},{"pageProperty":"boolean-property/frame-focus-mode","required":false,"many":false},{"pageProperty":"record-property/frame-auto-scroll","required":false,"many":false}]}
+{"propertySlug":"frame"}
+{"slug":"detail-frame"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A branch created is named for a change or a merge or a project and for a number."},{"decisionKind":"decision-kind/departure","statement":"The number tells a merge branch from the merge queue's own ref."},{"decisionKind":"decision-kind/departure","statement":"A branch already there is updated and deleted freely."},{"decisionKind":"decision-kind/departure","statement":"main is never created and never deleted here."},{"decisionKind":"decision-kind/departure","statement":"main only fast-forwards."},{"decisionKind":"decision-kind/departure","statement":"main only advances onto a commit an admitted branch already holds."},{"decisionKind":"decision-kind/departure","statement":"A branch pushed in the same transaction counts as holding that commit."},{"decisionKind":"decision-kind/departure","statement":"One ref refused refuses the whole push."},{"decisionKind":"decision-kind/absence","statement":"No push gets past this hook."}]}
+{"definition":"a push refused unless it names a change branch or moves main onto one"}
+{"id":"01a06816-2f11-7f55-8c92-79bf5163f688"}
+{"shell":"sh"}
+{"slug":"pre-receive-change-branches"}
+{"sourced":false}
+{"type":"page-type/git-hook"}

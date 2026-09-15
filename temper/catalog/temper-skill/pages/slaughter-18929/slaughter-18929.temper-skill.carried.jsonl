@@ -1,0 +1,17 @@
+{"baseName":"Slaughter"}
+{"description":"\"Increases damage with Dual Wield abilities by |cffffff10|r% against enemies with under |cffffff25|r% Health.\""}
+{"esoSkillId":18929}
+{"icon":"/esoui/art/icons/ability_weapon_019.dds"}
+{"id":"019e6f53-a739-7925-8e69-ed7ef691156b"}
+{"isMorph":false}
+{"key":"slaughter-18929"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":5}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"passive"}
+{"slug":"slaughter-18929"}
+{"subcategoryId":"weapon-dual-wield"}
+{"title":"Slaughter"}
+{"type":"page-type/temper-skill"}

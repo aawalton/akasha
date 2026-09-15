@@ -1,0 +1,13 @@
+{"abilityId":165871}
+{"companionId":"ember"}
+{"description":"Your Companion uses binding magic to immobilize enemies in front of them for $$1 seconds and heal themselves for $1 Health over $$2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_sorcerer_cyclone.dds"}
+{"id":"019e6484-385b-73a0-85be-7f18e0d28b36"}
+{"key":"ember-entomb"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-ember-mischievous-caster"}
+{"skillType":"active"}
+{"slug":"ember-ember-entomb"}
+{"title":"Entomb"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["tank"]}

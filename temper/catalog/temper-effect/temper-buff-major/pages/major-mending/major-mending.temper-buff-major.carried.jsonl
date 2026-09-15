@@ -1,0 +1,7 @@
+{"description":"Increases healing done by 16%"}
+{"effects":"jsonl"}
+{"id":"01a05fc5-f6ba-7eab-aa2e-27f726d0edfd"}
+{"key":"major-mending"}
+{"slug":"major-mending"}
+{"title":"Major Mending"}
+{"type":"page-type/temper-buff-major"}

@@ -1,0 +1,7 @@
+{"definition":"how much of a currency is held"}
+{"id":"01a0675a-f185-7ae5-81fe-f486e2db8460"}
+{"max":null}
+{"propertySlug":"amount"}
+{"slug":"currency-amount"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

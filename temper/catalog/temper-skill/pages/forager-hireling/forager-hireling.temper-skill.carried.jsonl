@@ -1,0 +1,17 @@
+{"baseName":"Forager Hireling"}
+{"description":"\"A hireling will send you even more provisioning ingredients every day. You have a greater chance at better quality ingredients.\""}
+{"esoSkillId":44641}
+{"icon":"/esoui/art/icons/ability_provisioner_007.dds"}
+{"id":"019e6224-cc95-7e6b-bec6-bbb383e0f8f0"}
+{"isMorph":false}
+{"key":"forager-hireling"}
+{"learnedLevel":1}
+{"lineRankNeeded":28}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-provisioning"}
+{"skillType":"passive"}
+{"slug":"forager-hireling"}
+{"subcategoryId":"craft-provisioning"}
+{"title":"Forager Hireling"}
+{"type":"page-type/temper-skill"}

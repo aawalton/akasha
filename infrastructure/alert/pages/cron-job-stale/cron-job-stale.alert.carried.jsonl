@@ -1,0 +1,8 @@
+{"definition":"a cron job has gone longer without completing than its schedule allows"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62f9-79e5-b72f-ae0c7a0bb7ef"}
+{"runbook":"txt"}
+{"slug":"cron-job-stale"}
+{"summary":"CronJob {{ $labels.namespace }}/{{ $labels.cronjob }} has not succeeded within 2x its schedule"}
+{"title":"Cron job stale"}
+{"type":"page-type/alert"}

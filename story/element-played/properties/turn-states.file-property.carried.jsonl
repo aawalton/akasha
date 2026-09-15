@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One row is one json object on one line."},{"decisionKind":"decision-kind/departure","statement":"A row states the same five faculties the element's page states."},{"decisionKind":"decision-kind/departure","statement":"A row's position is the position of the turn the row is the state at."}]}
+{"definition":"what an element was at, turn by turn"}
+{"extensions":["jsonl"]}
+{"id":"01a06828-cb99-70d4-bcad-c28091bb8c4c"}
+{"propertySlug":"turn-states"}
+{"slug":"turn-states"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

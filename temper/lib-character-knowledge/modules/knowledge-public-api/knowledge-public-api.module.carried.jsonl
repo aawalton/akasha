@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name the game reads keeps its upstream spelling on the global table."},{"decisionKind":"decision-kind/constraint","statement":"Whichever copy of a shared library loads first and is newest is the copy the game uses."}]}
+{"definition":"the names the library puts where every other addon reaches them"}
+{"id":"01a0622b-dc5a-7644-abf2-0615e1f975a5"}
+{"slug":"knowledge-public-api"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Lightning Splash"}
+{"description":"\"Create a nexus of storm energy at the target location, dealing 415 Shock Damage to enemies in the area every 1 second for 10 seconds.\\n \\nYou or an ally standing within the nexus can activate the Conduit synergy, dealing 2698 Shock Damage to enemies around them.\""}
+{"esoSkillId":30302}
+{"icon":"/esoui/art/icons/ability_sorcerer_lightning_flood.dds"}
+{"id":"019e6245-a6bc-7da3-8450-59f8487342d2"}
+{"isMorph":true}
+{"key":"lightning-flood"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"sorcerer-storm-calling"}
+{"skillType":"active"}
+{"slug":"lightning-flood"}
+{"subcategoryId":"sorcerer-storm-calling"}
+{"title":"Lightning Flood"}
+{"type":"page-type/temper-skill"}

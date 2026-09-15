@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The optimal column is hidden until a target build is set."}]}
+{"definition":"the panel showing a companion's gear beside the gear a build asks for"}
+{"id":"01a0611d-84d7-75a0-a415-4d8ca122a6b2"}
+{"slug":"companions-equipment-panel"}
+{"type":"page-type/module"}

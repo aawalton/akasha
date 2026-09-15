@@ -1,0 +1,8 @@
+{"definition":"which revision of a design this is"}
+{"id":"01a06577-f385-73b7-96a2-00714e5f5ecd"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"version"}
+{"slug":"design-version"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

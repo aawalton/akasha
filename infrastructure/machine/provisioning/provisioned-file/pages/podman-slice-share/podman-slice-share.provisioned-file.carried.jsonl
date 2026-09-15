@@ -1,0 +1,10 @@
+{"content":"conf"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Podman puts every container it runs rootless in the slice named here."},{"decisionKind":"decision-kind/departure","statement":"The containers hold the same share as the seats and the services."},{"decisionKind":"decision-kind/departure","statement":"A container already running takes the new share without being started again."}]}
+{"definition":"the share the containers hold together against the apps Alan is using"}
+{"id":"01a09311-efdf-7871-b60c-af498677bdde"}
+{"installPath":"~/.config/systemd/user/user.slice.d/10-share.conf"}
+{"onlyOn":"linux"}
+{"placedBy":"link"}
+{"reloadWith":"systemctl --user daemon-reload"}
+{"slug":"podman-slice-share"}
+{"type":"page-type/provisioned-file"}

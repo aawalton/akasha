@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Runic Jolt"}
+{"description":"\"Craft a defensive Apocryphal rune that deals |cffffff5565|r Magic Damage, applies Minor Maim for |cffffff15|r seconds, reducing their damage done by |cffffff5|r%, and generates Crux.\""}
+{"esoSkillId":238238}
+{"icon":"/esoui/art/icons/ability_arcanist_007.dds"}
+{"id":"019e6f53-a975-7338-a928-d9e82e0f8046"}
+{"isMorph":false}
+{"key":"vengeance-runic-jolt"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-arcanist-soldier-of-apocrypha"}
+{"skillType":"active"}
+{"slug":"vengeance-runic-jolt"}
+{"subcategoryId":"vengeance-arcanist-soldier-of-apocrypha"}
+{"title":"Vengeance Runic Jolt"}
+{"type":"page-type/temper-skill"}

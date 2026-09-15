@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This code is written out from the rule-template pages rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"A template's place in this group is the order the rules are tried in."},{"decisionKind":"decision-kind/gap","statement":"A template moved out of this group changes which rule an item matches first."}]}
+{"definition":"the last 24 rule templates, in the order the rules are tried in"}
+{"id":"01a06100-3bfd-794a-abcd-eb17b95c077c"}
+{"slug":"rule-template-table-02"}
+{"type":"page-type/module"}

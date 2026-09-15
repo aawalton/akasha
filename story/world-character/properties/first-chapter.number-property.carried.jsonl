@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A chapter is counted here rather than named."}]}
+{"definition":"the number of the earliest chapter a page draws on"}
+{"id":"01a0657a-9ccd-73d3-80f7-ae7f84d136d4"}
+{"max":null}
+{"propertySlug":"first-chapter"}
+{"slug":"first-chapter"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A bearer token is read before the session cookie, and settles the request alone."},{"decisionKind":"decision-kind/departure","statement":"A request carrying no bearer token falls back to its session cookie."},{"decisionKind":"decision-kind/departure","statement":"A bearer token nobody answers to leaves the request unauthenticated."},{"decisionKind":"decision-kind/departure","statement":"A client scoped to a bearer token reaches only what that token reaches."},{"decisionKind":"decision-kind/departure","statement":"The headers a session refresh asks for are carried on to the answer."}]}
+{"definition":"the client and the user a request is carried out as"}
+{"id":"01a08dfb-590c-781c-8b39-2c8c78aa6740"}
+{"slug":"request-context"}
+{"type":"page-type/module"}

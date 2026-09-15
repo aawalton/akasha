@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-restated"}
+{"changeMode":"change-mode/change-mode-change"}
+{"changeTargetSubtype":"change-target-subtype/file-content-page-property-value-prose"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The property a key names is read from the schema the index has."},{"decisionKind":"decision-kind/departure","statement":"A key naming a text property is handed to the mechanical change stating one key anew."},{"decisionKind":"decision-kind/departure","statement":"A key naming a page type that extends a text property is handed on the same way."},{"decisionKind":"decision-kind/departure","statement":"A key naming any other kind of property is refused."},{"decisionKind":"decision-kind/departure","statement":"That refusal names the kind of property the key names."},{"decisionKind":"decision-kind/departure","statement":"A path the world names no page at is refused."},{"decisionKind":"decision-kind/departure","statement":"A key the page's own page type has no property for is refused."},{"decisionKind":"decision-kind/departure","statement":"The value under the key is stated anew whole rather than a passage of it."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."}]}
+{"definition":"the whole value one text property of one page has, stated anew in other words"}
+{"id":"01a07995-6678-72d8-97ab-a78b836b2f8d"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":1024}
+{"slug":"change-page-page-property-text"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

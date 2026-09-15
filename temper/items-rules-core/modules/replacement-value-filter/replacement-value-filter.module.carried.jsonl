@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the conditions `replacementValue` and `replacementValueOp`."}]}
+{"definition":"the Replacement Value condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3bf8-79b5-9b75-c12a48c6385c"}
+{"slug":"replacement-value-filter"}
+{"type":"page-type/module"}

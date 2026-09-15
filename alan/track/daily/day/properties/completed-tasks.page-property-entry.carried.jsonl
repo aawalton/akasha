@@ -1,0 +1,7 @@
+{"definition":"every round of a to-do finished on a day, one to a line"}
+{"id":"01a05fd8-c30f-72c4-9102-9b3dbc179f51"}
+{"properties":[{"pageProperty":"number-property/seq","required":true,"many":false},{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"instant-property/completed-at","required":true,"many":false},{"pageProperty":"calendar-date-property/due-date","required":false,"many":false},{"pageProperty":"text-property/value-slug","required":false,"many":false},{"pageProperty":"text-property/recurrence","required":false,"many":false},{"pageProperty":"text-property/category","required":false,"many":false},{"pageProperty":"text-property/to-do-slug","required":false,"many":false},{"pageProperty":"text-property/priority","required":false,"many":false},{"pageProperty":"boolean-property/anchored-from-completion","required":false,"many":false},{"pageProperty":"text-property/description","required":false,"many":false}]}
+{"propertySlug":"completed-tasks"}
+{"slug":"completed-tasks"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

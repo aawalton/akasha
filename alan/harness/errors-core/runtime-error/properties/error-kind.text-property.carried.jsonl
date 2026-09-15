@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The kinds a report may have are named by the report shape."},{"decisionKind":"decision-kind/absence","statement":"The kinds are restated nowhere here."}]}
+{"definition":"the way a client came to meet an error"}
+{"id":"01a05f3f-e3e0-70ed-a9ac-229acd8e154c"}
+{"maxLength":32}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"kind"}
+{"slug":"error-kind"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

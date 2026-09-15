@@ -1,0 +1,12 @@
+{"action":"temper-item-action/sell"}
+{"active":false}
+{"categoryId":"food"}
+{"conditions":"jsonl"}
+{"description":"Sells normal (white) quality non-crafted food. Crafted and higher-quality food is kept."}
+{"displayOrder":44}
+{"goal":"temper-rule-goal/sell"}
+{"id":"019e3104-262b-7ed8-9aad-80ace952cc0f"}
+{"key":"food-normal-sell"}
+{"slug":"food-normal-sell"}
+{"title":"Sell basic food"}
+{"type":"page-type/temper-rule-template"}

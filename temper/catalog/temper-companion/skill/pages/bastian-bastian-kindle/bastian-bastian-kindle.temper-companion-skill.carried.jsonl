@@ -1,0 +1,14 @@
+{"abilityId":154925}
+{"castConditions":"jsonl"}
+{"companionId":"bastian"}
+{"description":"Your Companion launches a searing fireball at themselves or an ally to cauterize their wounds, healing for $1 Health."}
+{"icon":"/esoui/art/icons/ability_companion_dragonknight_002_b.dds"}
+{"id":"019e6484-3850-76a5-a8ea-5590c3d81fe7"}
+{"key":"bastian-kindle"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-bastian-radiating-heart"}
+{"skillType":"active"}
+{"slug":"bastian-bastian-kindle"}
+{"title":"Kindle"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer"]}

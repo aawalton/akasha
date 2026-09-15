@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The word `all` asks for every domain."},{"decisionKind":"decision-kind/departure","statement":"An empty request asks for nothing."},{"decisionKind":"decision-kind/departure","statement":"A request naming no known domain comes back as unknown."}]}
+{"definition":"reading what was asked to be cleared into all, one domain, an unknown name, or nothing"}
+{"id":"01a06071-0c78-7d17-86de-fe565133b1ee"}
+{"slug":"clear-target"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A property saying nothing here is judged."},{"decisionKind":"decision-kind/departure","statement":"No file of a property saying false is judged."},{"decisionKind":"decision-kind/departure","statement":"A property exempts every file that property has rather than one file named here."}]}
+{"definition":"whether the byte ceiling is judged over the files a property has"}
+{"id":"01a06cd9-428f-7ffc-bd74-e4f412d578cd"}
+{"propertySlug":"runs-file-length"}
+{"slug":"runs-file-length"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

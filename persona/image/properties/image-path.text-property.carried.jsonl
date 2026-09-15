@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path already absolute is read as that path is rather than against a root."},{"decisionKind":"decision-kind/departure","statement":"A path is written as the file is named rather than as a slug is written."}]}
+{"definition":"where a picture is, read against the root it names"}
+{"id":"01a0655b-4a9b-7000-be1d-ee856388970b"}
+{"maxLength":300}
+{"nameFormat":null}
+{"propertySlug":"image-path"}
+{"slug":"image-path"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

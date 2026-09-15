@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"a property descriptor copied with its absent fields filled in"}
+{"id":"01a08c45-0a63-7f2a-b14a-9b1b9e493efe"}
+{"luaExport":"__TS__CloneDescriptor"}
+{"slug":"clone-descriptor"}
+{"type":"page-type/lualib-helper"}

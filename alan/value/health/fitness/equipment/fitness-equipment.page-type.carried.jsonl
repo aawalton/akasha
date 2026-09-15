@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A piece of kit Alan owns is its own page."},{"decisionKind":"decision-kind/departure","statement":"The kit vocabulary a movement is tagged with is apart from those pages."},{"decisionKind":"decision-kind/departure","statement":"A piece Alan has not bought yet is a page."},{"decisionKind":"decision-kind/departure","statement":"A piece Alan has not bought yet is unavailable."}]}
+{"definition":"a piece of kit Alan can load a movement with"}
+{"extends":["page-type/page"]}
+{"id":"01a06834-ca86-76cb-a54a-6f86a5225afc"}
+{"parts":["boolean-property/fitness-equipment-available","number-property/fitness-equipment-loads","number-property/fitness-equipment-sort-order","relation-property/fitness-equipment-covers","select-property/fitness-equipment-category","select-property/fitness-equipment-configuration","text-property/fitness-equipment-notes"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"select-property/fitness-equipment-category","required":true,"many":false},{"pageProperty":"select-property/fitness-equipment-configuration","required":true,"many":false},{"pageProperty":"boolean-property/fitness-equipment-available","required":true,"many":false},{"pageProperty":"number-property/fitness-equipment-loads","required":false,"many":true,"maxCount":20},{"pageProperty":"text-property/fitness-equipment-notes","required":false,"many":false},{"pageProperty":"number-property/fitness-equipment-sort-order","required":false,"many":false},{"pageProperty":"relation-property/fitness-equipment-covers","required":false,"many":true,"maxCount":null}]}
+{"schema":"jsonl"}
+{"slug":"fitness-equipment"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

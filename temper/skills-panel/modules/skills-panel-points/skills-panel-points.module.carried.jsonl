@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"What an add-on draws is counted afresh before the panel is hooked."},{"decisionKind":"decision-kind/departure","statement":"The panel draws its own points before what an add-on adds is drawn."}]}
+{"definition":"what an add-on draws beside the skill points the skills panel shows"}
+{"id":"01a090b6-8f92-709b-b33e-bb4446b7fe87"}
+{"slug":"skills-panel-points"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"definition":"whether a passive's value counts as a fraction or as a whole number"}
+{"id":"01a06193-6ca0-7c8c-b487-311d4883f9b6"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"modifier-type"}
+{"slug":"modifier-type"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

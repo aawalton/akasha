@@ -1,0 +1,11 @@
+{"description":"Grants Vitality, Lingering Health, Heroism."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_001_type_005.dds"}
+{"id":"019e21f6-4060-715e-abd5-6c4f4f61cd02"}
+{"key":"vitality-heroism-health-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Butterfly Wing","Dragon's Bile","Dragon's Blood"]},{"names":["Dragon's Bile","Dragon's Blood","Powdered Mother of Pearl"]}]}
+{"seconds":47}
+{"slug":"vitality-heroism-health-restore"}
+{"title":"Essence of Vitality"}
+{"type":"page-type/temper-potion-crafted"}

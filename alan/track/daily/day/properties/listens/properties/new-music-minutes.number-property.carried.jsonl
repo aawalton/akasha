@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A play that is no first listen scores no new music minutes."}]}
+{"definition":"the minutes a first play of a track scores"}
+{"id":"01a06240-340f-7006-a08a-3236a3341467"}
+{"max":null}
+{"propertySlug":"new-music-minutes"}
+{"slug":"new-music-minutes"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

@@ -1,0 +1,11 @@
+{"description":"Grants Restore Health, Invisible, Vitality."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_001_type_005.dds"}
+{"id":"019e21f6-4057-77bd-b738-57be814e3db3"}
+{"key":"fortitude-vitality-vanish-health-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Blue Entoloma","Butterfly Wing","Dragon's Bile"]}]}
+{"seconds":47}
+{"slug":"fortitude-vitality-vanish-health-restore"}
+{"title":"Essence of Health"}
+{"type":"page-type/temper-potion-crafted"}

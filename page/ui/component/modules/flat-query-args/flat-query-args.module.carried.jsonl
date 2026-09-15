@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"Builds flat-list query args with a synthetic filter and sort cache key, or none when grouped."}
+{"id":"01a05c3b-4fc4-7e60-929d-25e876de8431"}
+{"slug":"flat-query-args"}
+{"type":"page-type/module"}

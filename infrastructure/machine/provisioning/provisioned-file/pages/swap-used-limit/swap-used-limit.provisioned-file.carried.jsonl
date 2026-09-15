@@ -1,0 +1,9 @@
+{"content":"conf"}
+{"definition":"how much swap is used before oomd starts killing"}
+{"id":"01a06862-af5d-791d-ad26-0e28a693258e"}
+{"installPath":"/etc/systemd/oomd.conf.d/99-swap-used-limit.conf"}
+{"onlyOn":"linux"}
+{"placedBy":"copy"}
+{"reloadWith":"sudo systemctl restart systemd-oomd"}
+{"slug":"swap-used-limit"}
+{"type":"page-type/provisioned-file"}

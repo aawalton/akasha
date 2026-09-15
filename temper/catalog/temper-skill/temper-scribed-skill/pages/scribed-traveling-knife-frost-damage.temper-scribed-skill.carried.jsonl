@@ -1,0 +1,19 @@
+{"baseName":"Traveling Knife"}
+{"description":"Deals 928 Magic Damage to an enemy and 1393 Frost Damage to enemies between you and them on return."}
+{"esoSkillId":50007007}
+{"focusScriptId":"frost-damage"}
+{"grimoireId":"traveling-knife"}
+{"icon":"/esoui/art/icons/ability_grimoire_dualwield.dds"}
+{"id":"019e6471-15dd-784f-a6a0-1e0f49004b9a"}
+{"isMorph":false}
+{"key":"scribed-traveling-knife-frost-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"scribed-traveling-knife-frost-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Chilling Knife"}
+{"type":"page-type/temper-scribed-skill"}

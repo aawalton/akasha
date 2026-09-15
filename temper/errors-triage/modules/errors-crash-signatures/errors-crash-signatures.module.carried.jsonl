@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A signature is matched against the message and the traceback read as one text."},{"decisionKind":"decision-kind/departure","statement":"The first signature that matches names the addon at fault."},{"decisionKind":"decision-kind/departure","statement":"An error matching no signature names no addon."},{"decisionKind":"decision-kind/departure","statement":"An error is keyed with every number in the message written as one mark."},{"decisionKind":"decision-kind/departure","statement":"A key is drawn from the first traceback frame naming an addon folder."}]}
+{"definition":"the known crashes an error is matched against to name the addon at fault"}
+{"id":"01a060cd-5650-7e48-8597-777c84f0ffa4"}
+{"slug":"errors-crash-signatures"}
+{"type":"page-type/module"}

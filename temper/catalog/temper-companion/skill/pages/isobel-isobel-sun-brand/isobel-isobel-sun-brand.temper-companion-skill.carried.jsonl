@@ -1,0 +1,13 @@
+{"abilityId":163452}
+{"companionId":"isobel"}
+{"description":"Your Companion hurls a blazing ball of fire at an enemy, dealing $1 Flame Damage on impact and an additional $2 Flame Damage over $$2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_templar_sun_fire.dds"}
+{"id":"019e6484-387a-7e0a-89b3-06a0f0ad268f"}
+{"key":"isobel-sun-brand"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-isobel-blazing-might"}
+{"skillType":"active"}
+{"slug":"isobel-isobel-sun-brand"}
+{"title":"Sun Brand"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

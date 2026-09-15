@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here knows the thing an identifier this package makes will name."}]}
+{"definition":"how a fresh identifier is made"}
+{"id":"01a05c48-deeb-7011-83b1-73490aa9b3ca"}
+{"parts":["module/random-id","module/uuid-version-7"]}
+{"slug":"id"}
+{"type":"page-type/domain"}

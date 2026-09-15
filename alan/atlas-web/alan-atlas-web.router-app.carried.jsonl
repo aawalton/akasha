@@ -1,0 +1,19 @@
+{"bundleDirectory":true}
+{"compileConfig":"json"}
+{"declarationDirectory":true}
+{"definition":"the routes Alan's map site serves to a browser"}
+{"gitIgnore":"gitignore"}
+{"id":"01a06582-6b30-78d1-8b0b-1d3af65a8bcd"}
+{"parts":["app-routes/alan-atlas-web-routes","manifest/alanwalton-atlas","module/atlas-app-id","module/atlas-app-shell","module/atlas-nav-command","module/atlas-nav-items","module/basemap-range","module/geoapify-search","module/location-batch","module/location-capture","module/location-capture-client","module/location-ingest-context","module/location-map","module/memory-watch","module/pins","module/place-candidate","module/request-log","stylesheet/alan-atlas-web-look"]}
+{"rootRoute":"tsx"}
+{"routeTable":"ts"}
+{"routeTypesDirectory":true}
+{"routerConfig":"ts"}
+{"server":"ts"}
+{"serverEntry":"tsx"}
+{"sidebarBoot":"js"}
+{"slug":"alan-atlas-web"}
+{"toolReached":["react-dom"]}
+{"tunnelRoutes":"ts"}
+{"type":"page-type/router-app"}
+{"viteConfig":"ts"}

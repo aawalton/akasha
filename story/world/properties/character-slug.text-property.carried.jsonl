@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/stopgap","statement":"No character has a page of its own."},{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a character."}]}
+{"definition":"the character a reading reaches"}
+{"id":"01a063ce-6216-7006-8542-b3d67f43dc56"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"character-slug"}
+{"slug":"character-slug"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

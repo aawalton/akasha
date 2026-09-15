@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A service the pool fronts states this port."},{"decisionKind":"decision-kind/absence","statement":"A service nothing fronts states no such port."}]}
+{"definition":"the port a service listens on behind the port it is fronted at"}
+{"id":"01a09095-0971-7e89-b75c-e674e97797c4"}
+{"max":null}
+{"propertySlug":"internal-port"}
+{"slug":"internal-port"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

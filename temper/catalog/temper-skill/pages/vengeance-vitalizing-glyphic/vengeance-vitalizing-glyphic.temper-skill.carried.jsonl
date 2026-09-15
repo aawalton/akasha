@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Vitalizing Glyphic"}
+{"description":"\"Call forth an Apocryphal glyphic for |cffffff6|r seconds, which heals you or up to 3 allies around it for |cffffff9180|r Health every |cffffff1|r second and grants Major Force while in the area, increasing Critical Damage by |cffffff20|r%.\""}
+{"esoSkillId":238549}
+{"icon":"/esoui/art/icons/ability_arcanist_018.dds"}
+{"id":"019e6f53-a9ab-7c6e-b32b-0156061f3f21"}
+{"isMorph":false}
+{"key":"vengeance-vitalizing-glyphic"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-arcanist-curative-runeforms"}
+{"skillType":"ultimate"}
+{"slug":"vengeance-vitalizing-glyphic"}
+{"subcategoryId":"vengeance-arcanist-curative-runeforms"}
+{"title":"Vengeance Vitalizing Glyphic"}
+{"type":"page-type/temper-skill"}

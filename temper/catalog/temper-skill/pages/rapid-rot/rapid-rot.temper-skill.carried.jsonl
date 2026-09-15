@@ -1,0 +1,19 @@
+{"baseName":"Rapid Rot"}
+{"description":"\"Increases your damage done with damage over time effects by 10%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":116201}
+{"icon":"/esoui/art/icons/passive_necromancer_004.dds"}
+{"id":"019e6245-a6fc-7cf8-b258-19abb44a3a67"}
+{"isMorph":false}
+{"key":"rapid-rot"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"necromancer-grave-lord"}
+{"skillType":"passive"}
+{"slug":"rapid-rot"}
+{"status":"supported"}
+{"subcategoryId":"necromancer-grave-lord"}
+{"title":"Rapid Rot"}
+{"type":"page-type/temper-skill"}

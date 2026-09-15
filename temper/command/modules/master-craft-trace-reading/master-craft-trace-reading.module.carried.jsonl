@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every trace names the outcome that ended that trace."},{"decisionKind":"decision-kind/departure","statement":"The traces are read as a list."},{"decisionKind":"decision-kind/departure","statement":"A run that crafted nothing answers empty rather than absent."}]}
+{"definition":"the traces the inventory addon records for each master writ it tries to craft"}
+{"id":"01a06864-aa2b-7003-afed-089f9baeaad7"}
+{"slug":"master-craft-trace-reading"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One line is one bag of one holder."},{"decisionKind":"decision-kind/departure","statement":"A holder with no bag of a kind has no line for that kind."}]}
+{"definition":"how many slots each bag of each holder has, one bag to a line"}
+{"id":"01a0675a-f185-72e7-ad66-35247edba53b"}
+{"properties":[{"pageProperty":"text-property/location-id","required":true,"many":false},{"pageProperty":"number-property/bag","required":true,"many":false},{"pageProperty":"number-property/bag-size","required":true,"many":false}]}
+{"propertySlug":"bag-sizes"}
+{"slug":"bag-sizes"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

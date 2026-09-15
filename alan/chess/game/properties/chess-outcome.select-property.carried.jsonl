@@ -1,0 +1,7 @@
+{"definition":"how a game went for Alan"}
+{"id":"01a06582-bd62-7dba-bf3d-2305634deb70"}
+{"propertySlug":"outcome"}
+{"slug":"chess-outcome"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["win","loss","draw"]}

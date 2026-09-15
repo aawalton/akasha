@@ -1,0 +1,17 @@
+{"baseName":"Feline Ambush"}
+{"description":"\"Increases your Critical Damage and Critical Healing by |cffffff4|r%.\\n\\nDecreases your detection radius in Stealth by |cffffff1|r meter.\""}
+{"esoSkillId":36067}
+{"icon":"/esoui/art/icons/ability_armor_006.dds"}
+{"id":"019e6f53-a1e8-7c54-9978-9e68df0106d3"}
+{"isMorph":false}
+{"key":"feline-ambush-36067"}
+{"learnedLevel":1}
+{"lineRankNeeded":25}
+{"morphIndex":0}
+{"rank":25}
+{"skillLineId":"racial-khajiit-skills"}
+{"skillType":"passive"}
+{"slug":"feline-ambush-36067"}
+{"subcategoryId":"racial-khajiit-skills"}
+{"title":"Feline Ambush"}
+{"type":"page-type/temper-skill"}

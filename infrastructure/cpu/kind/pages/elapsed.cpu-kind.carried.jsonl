@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Elapsed time counts while a program waits as well as while a program runs."},{"decisionKind":"decision-kind/departure","statement":"Elapsed time under burned time means the work ran on more than one processor."},{"decisionKind":"decision-kind/departure","statement":"How long a person waited is asked in elapsed time."},{"decisionKind":"decision-kind/departure","statement":"A ceiling on elapsed time bounds waiting rather than bounding processor time."}]}
+{"definition":"time that went by while a program ran"}
+{"id":"01a0918b-5d77-77e9-9bd0-270d718d0181"}
+{"slug":"elapsed"}
+{"type":"page-type/cpu-kind"}

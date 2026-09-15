@@ -1,0 +1,17 @@
+{"baseName":"Engraver"}
+{"description":"\"Allows the use of Platinum Ounces.\""}
+{"esoSkillId":103636}
+{"icon":"/esoui/art/icons/passive_jewelerengraver.dds"}
+{"id":"019e6224-cc94-7a40-9a5e-dcad1f2978fc"}
+{"isMorph":false}
+{"key":"engraver"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":5}
+{"skillLineId":"craft-jewelry-crafting"}
+{"skillType":"passive"}
+{"slug":"engraver"}
+{"subcategoryId":"craft-jewelry-crafting"}
+{"title":"Engraver"}
+{"type":"page-type/temper-skill"}

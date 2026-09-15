@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Whether the file at a path holds words kept as they were said is answered here."},{"decisionKind":"decision-kind/departure","statement":"The property whose file that is says so, rather than the file's own name."},{"decisionKind":"decision-kind/departure","statement":"A property naming its file is read where a page carrying it sits in that folder."},{"decisionKind":"decision-kind/departure","statement":"A property whose entries sit beside a page is read from the section it names."},{"decisionKind":"decision-kind/departure","statement":"Which sections those are is worked out once for one face."},{"decisionKind":"decision-kind/departure","statement":"A face that will not answer holds no words kept that way rather than refusing."},{"decisionKind":"decision-kind/gap","statement":"Words a page states inside its own file are answered for nowhere here."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a body."},{"decisionKind":"decision-kind/absence","statement":"Nothing here rewrites a body."}]}
+{"definition":"the files whose words are kept as they were said"}
+{"id":"01a0a582-6d44-7000-9ebd-3e0bec1aaca3"}
+{"slug":"quote-holding"}
+{"test":"ts"}
+{"type":"page-type/module"}

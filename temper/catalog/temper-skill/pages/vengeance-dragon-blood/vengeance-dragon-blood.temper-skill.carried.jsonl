@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Dragon Blood"}
+{"description":"\"Draw on your draconic blood to heal for |cffffff5028|r Health, increasing by up to |cffffff50|r% additional healing based on your missing Health. This ability scales off your Max Health.\""}
+{"esoSkillId":237638}
+{"icon":"/esoui/art/icons/ability_dragonknight_011.dds"}
+{"id":"019e6f53-a8f1-7844-8875-25e74a3653be"}
+{"isMorph":false}
+{"key":"vengeance-dragon-blood"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-dragonknight-draconic-power"}
+{"skillType":"active"}
+{"slug":"vengeance-dragon-blood"}
+{"subcategoryId":"vengeance-dragonknight-draconic-power"}
+{"title":"Vengeance Dragon Blood"}
+{"type":"page-type/temper-skill"}

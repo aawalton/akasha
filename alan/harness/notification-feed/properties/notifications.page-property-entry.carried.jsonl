@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A notification pushed at a person sits in that person's feed rather than in a page of its own."},{"decisionKind":"decision-kind/departure","statement":"Notifications sit in the order those notifications were pushed."},{"decisionKind":"decision-kind/departure","statement":"The oldest notification sits first."},{"decisionKind":"decision-kind/absence","statement":"No setting says which notifications reach a person."},{"decisionKind":"decision-kind/departure","statement":"The filters on the unread view are the settings."},{"decisionKind":"decision-kind/departure","statement":"A notification with no instant that notification was read at is unread."},{"decisionKind":"decision-kind/departure","statement":"Every notification deep-links to itself."}]}
+{"definition":"something pushed at a person rather than waiting for them to look"}
+{"id":"019f4a1f-0ecc-7d45-8f43-7b424b5f0477"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"text-property/notification-body","required":false,"many":false},{"pageProperty":"text-property/notification-link","required":false,"many":false},{"pageProperty":"text-property/notification-kind","required":false,"many":false},{"pageProperty":"text-property/notification-source","required":false,"many":false},{"pageProperty":"instant-property/notification-sent-at","required":true,"many":false},{"pageProperty":"instant-property/notification-read-at","required":false,"many":false}]}
+{"propertySlug":"notifications"}
+{"slug":"notifications"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

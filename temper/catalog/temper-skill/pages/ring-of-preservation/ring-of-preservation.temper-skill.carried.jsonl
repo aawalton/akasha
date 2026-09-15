@@ -1,0 +1,17 @@
+{"baseName":"Circle of Protection"}
+{"description":"\"Brand the earth at your location with a rune of protection for 10 seconds. You and your allies in the area gain Minor Protection and Minor Endurance, reducing damage taken by 5% and increasing Stamina Recovery by 15%, and are healed for 435 Health every 1 second.\""}
+{"esoSkillId":42548}
+{"icon":"/esoui/art/icons/ability_fightersguild_001_b.dds"}
+{"id":"019e6238-c304-70c5-b39d-c2179391c1af"}
+{"isMorph":true}
+{"key":"ring-of-preservation"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"guild-fighters-guild"}
+{"skillType":"active"}
+{"slug":"ring-of-preservation"}
+{"subcategoryId":"guild-fighters-guild"}
+{"title":"Ring of Preservation"}
+{"type":"page-type/temper-skill"}

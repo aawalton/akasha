@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An editor builder returns the x offset the next control starts at."},{"decisionKind":"decision-kind/departure","statement":"An emptied editor clears its filter rather than setting an empty value."},{"decisionKind":"decision-kind/departure","statement":"A dropdown has an entry meaning the filter is off."},{"decisionKind":"decision-kind/departure","statement":"An editor registers a reset with the bar context so the clear button can reach that reset."},{"decisionKind":"decision-kind/departure","statement":"A control name is built from the filter id with every non-word character replaced."},{"decisionKind":"decision-kind/absence","statement":"Nothing here places a row within the panel."}]}
+{"definition":"one drawn editor per filter editor kind, laid out left to right"}
+{"id":"01a0614b-6736-7575-aaa0-1766a1adf1a8"}
+{"slug":"filter-bar-controls"}
+{"type":"page-type/module"}

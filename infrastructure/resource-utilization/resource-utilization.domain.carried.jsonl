@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A resource may itself be an assembly line of other resources."},{"decisionKind":"decision-kind/departure","statement":"An assembly line's reading is the highest of its parts' readings."},{"decisionKind":"decision-kind/departure","statement":"A resource is fully utilized once work accumulates in front of that resource."},{"decisionKind":"decision-kind/departure","statement":"Work accumulating while busy time reads under full means another resource is the bottleneck."}]}
+{"definition":"how much of each resource the system runs on is in use rather than idle"}
+{"id":"01a0675b-16f9-7b95-9d7f-cd041a034eab"}
+{"parts":["domain/alan-attention"]}
+{"slug":"resource-utilization"}
+{"type":"page-type/domain"}

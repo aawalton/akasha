@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every field an email rule tests has text."},{"decisionKind":"decision-kind/departure","statement":"A rule's kind is the folder the rule is in rather than a key on the rule."},{"decisionKind":"decision-kind/departure","statement":"The folder a rule is in names the person whose rule that rule is."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a page to learn the fields."}]}
+{"definition":"the fields an email rule tests, and where a person's rules of each kind are"}
+{"id":"01a06871-54e5-7000-b703-1ea0c1101a4d"}
+{"slug":"email-rule-set"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One list has every sense a term keeps."},{"decisionKind":"decision-kind/departure","statement":"A sense a term keeps is not a sense the term bars."},{"decisionKind":"decision-kind/departure","statement":"No two senses one term keeps are the same."},{"decisionKind":"decision-kind/absence","statement":"A kept sense names nothing to write in its place."}]}
+{"definition":"the meanings a word is written in"}
+{"id":"01a05d78-f343-7862-8bea-66d8b696dedb"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"kept-senses"}
+{"slug":"kept-senses"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

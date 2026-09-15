@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rescued pair is preferred over the committed pair by this number alone."}]}
+{"definition":"the milliseconds since the epoch a rescued access token expires at"}
+{"id":"01a0637b-78bb-748c-abf5-487f7793c2a7"}
+{"max":null}
+{"propertySlug":"expires-at-ms"}
+{"slug":"rescued-expires-at-ms"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

@@ -1,0 +1,11 @@
+{"description":"Grants Heroism, Invisible, Lingering Health."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_011_type_005.dds"}
+{"id":"019e21f6-4067-7a27-b972-2d109d92401f"}
+{"key":"heroism-vanish-health-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Dragon's Bile","Dragon's Blood","Spider Egg"]}]}
+{"seconds":47}
+{"slug":"heroism-vanish-health-restore"}
+{"title":"Essence of Invisible"}
+{"type":"page-type/temper-potion-crafted"}

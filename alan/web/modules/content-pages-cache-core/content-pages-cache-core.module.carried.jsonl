@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A chapter is written through the offline writer and read back here in one test."},{"decisionKind":"decision-kind/departure","statement":"That test takes its keys from the writer rather than from a page built to fit."},{"decisionKind":"decision-kind/constraint","statement":"A writer keeping a page here holds only the keys that writer asked the store for."},{"decisionKind":"decision-kind/departure","statement":"`id` is the one key a held page must have."},{"decisionKind":"decision-kind/departure","statement":"Every other page key is optional here and judged only where a held page has that key."},{"decisionKind":"decision-kind/departure","statement":"A key this module names nothing about is handed back to the reader unchanged."},{"decisionKind":"decision-kind/absence","statement":"No key that no writer in the repository produces is required of a held page."}]}
+{"definition":"the shape a held index of content pages is kept in"}
+{"id":"01a0655d-daa6-7fdf-b1e7-5b58892ba09c"}
+{"slug":"content-pages-cache-core"}
+{"test":"ts"}
+{"type":"page-type/module"}

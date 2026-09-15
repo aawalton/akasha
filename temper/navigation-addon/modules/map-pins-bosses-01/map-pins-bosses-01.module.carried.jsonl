@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The records here are one unbroken run of the table's order."},{"decisionKind":"decision-kind/departure","statement":"The run is the add-on's own source rather than a derivation."}]}
+{"definition":"one run of the world boss places by zone"}
+{"id":"01a06269-2a4c-7904-bb13-4bb55ed6047b"}
+{"slug":"map-pins-bosses-01"}
+{"type":"page-type/module"}

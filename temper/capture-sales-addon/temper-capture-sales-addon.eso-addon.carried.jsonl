@@ -1,0 +1,8 @@
+{"addonManifest":"json"}
+{"bundleEntry":"module/sales-addon-entry"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The capture is written to the saved variables the addon manifest names."},{"decisionKind":"decision-kind/departure","statement":"The game loads LibHistoire before this add-on."},{"decisionKind":"decision-kind/departure","statement":"The shape the capture takes is stated in `temper-capture-sales`."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a sale by another seller."}]}
+{"definition":"the add-on capturing the player's own guild store sales for a host to read"}
+{"id":"01a060e2-3181-7c02-be71-c63b5b648d5b"}
+{"parts":["module/sales-addon-entry","module/sales-addon-name","module/sales-capture"]}
+{"slug":"temper-capture-sales-addon"}
+{"type":"page-type/eso-addon"}

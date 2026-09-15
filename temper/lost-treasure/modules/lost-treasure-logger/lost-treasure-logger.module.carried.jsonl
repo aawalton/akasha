@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A log level is the string the logging library uses rather than a number."}]}
+{"definition":"a named log channel for each part of the add-on, over LibDebugLogger"}
+{"id":"01a06141-800b-7606-b3fe-3a8d91998976"}
+{"slug":"lost-treasure-logger"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Loading the library a second time raises an error."}]}
+{"definition":"the name the chat message library puts in the game's global table"}
+{"id":"01a06060-0d18-7688-8eab-91ba2a064865"}
+{"slug":"chat-message-public-api"}
+{"type":"page-type/module"}

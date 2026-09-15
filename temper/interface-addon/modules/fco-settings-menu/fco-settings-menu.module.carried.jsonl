@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"No shared guard is kept for the type each guard here narrows to."}]}
+{"definition":"the settings panel the interface tweaks register"}
+{"id":"01a06115-1ad4-7da9-bc03-79782a698425"}
+{"slug":"fco-settings-menu"}
+{"type":"page-type/module"}

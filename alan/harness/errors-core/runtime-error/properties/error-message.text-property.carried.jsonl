@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A message is kept as the reporting client sent the message."},{"decisionKind":"decision-kind/gap","statement":"A message could have whatever a person typed."},{"decisionKind":"decision-kind/gap","statement":"Nothing here takes a secret out of a message before the message is committed."}]}
+{"definition":"what an error said when a client met the error"}
+{"id":"01a05f3f-e3e0-7450-8ae9-c82bf3ef1359"}
+{"maxLength":2048}
+{"nameFormat":null}
+{"propertySlug":"message"}
+{"slug":"error-message"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

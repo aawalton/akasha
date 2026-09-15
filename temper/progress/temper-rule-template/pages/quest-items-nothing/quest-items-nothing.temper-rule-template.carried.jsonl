@@ -1,0 +1,11 @@
+{"action":"temper-item-action/nothing"}
+{"active":false}
+{"categoryId":"quest-items"}
+{"description":"Prevents quest-related items from being affected by lower-priority rules. Keep them safe until the associated quest is completed."}
+{"displayOrder":25}
+{"goal":"temper-rule-goal/task"}
+{"id":"019e3104-261b-7569-b3d0-250b209440ea"}
+{"key":"quest-items-nothing"}
+{"slug":"quest-items-nothing"}
+{"title":"Protect quest items"}
+{"type":"page-type/temper-rule-template"}

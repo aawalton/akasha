@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The global declared here is implemented by the compiler's own runtime library."}]}
+{"definition":"the clock a compiled program reads the elapsed time from"}
+{"id":"01a06c82-21b6-70be-aed0-9bc2e1d7da47"}
+{"slug":"performance-global"}
+{"type":"page-type/type-declaration"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A marker is exactly the word system in double braces."},{"decisionKind":"decision-kind/departure","statement":"A marker is alone in its own block."},{"decisionKind":"decision-kind/departure","statement":"A block reaching for a marker without being one is refused."},{"decisionKind":"decision-kind/departure","statement":"Neighbouring prose blocks are gathered into one run."}]}
+{"definition":"prose cut into runs at the markers saying where a system card belongs"}
+{"id":"01a05b71-e544-7429-b3f8-5d2560f95738"}
+{"slug":"prose-segments"}
+{"test":"ts"}
+{"type":"page-type/module"}

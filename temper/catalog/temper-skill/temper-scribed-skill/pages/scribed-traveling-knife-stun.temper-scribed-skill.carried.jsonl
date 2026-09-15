@@ -1,0 +1,19 @@
+{"baseName":"Traveling Knife"}
+{"description":"Deals 928 Physical Damage to an enemy and stuns them and enemies between you and them for 3 seconds on return."}
+{"esoSkillId":217872}
+{"focusScriptId":"stun"}
+{"grimoireId":"traveling-knife"}
+{"icon":"/esoui/art/icons/ability_grimoire_dualwield.dds"}
+{"id":"019e6471-15e3-75cb-8962-44bbb56c3b86"}
+{"isMorph":false}
+{"key":"scribed-traveling-knife-stun"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"scribed-traveling-knife-stun"}
+{"subcategoryId":"scribed"}
+{"title":"Dazing Knife"}
+{"type":"page-type/temper-scribed-skill"}

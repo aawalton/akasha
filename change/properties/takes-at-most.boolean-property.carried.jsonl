@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A change saying nothing here acts on every page that change reaches."},{"decisionKind":"decision-kind/departure","statement":"A change saying true takes that ceiling under `at-most`."},{"decisionKind":"decision-kind/departure","statement":"A run handed no ceiling acts on every page the change reaches."}]}
+{"definition":"whether a change takes a ceiling on how many pages one run acts on"}
+{"id":"01a091db-ef1e-7d59-82ae-b2fbcb028c53"}
+{"propertySlug":"takes-at-most"}
+{"slug":"takes-at-most"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

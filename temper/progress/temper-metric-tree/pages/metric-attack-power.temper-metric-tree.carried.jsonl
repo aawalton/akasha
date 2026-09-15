@@ -1,0 +1,8 @@
+{"displayOrder":2}
+{"id":"019e2fcd-5968-718b-872f-252cc0039db4"}
+{"nodeId":"attack-power"}
+{"nodeType":"metric"}
+{"parent":"category-damage"}
+{"slug":"metric-attack-power"}
+{"title":"Attack Power"}
+{"type":"page-type/temper-metric-tree"}

@@ -1,0 +1,17 @@
+{"baseName":"Burnished Scales"}
+{"description":"\"A Dragon's scales will turn aside arrow, fire, and blade.\\n\\nIncreases the amount of damage you block by |cffffff4|r%.\""}
+{"esoSkillId":29455}
+{"icon":"/esoui/art/icons/ability_dragonknight_020.dds"}
+{"id":"019e6f53-9fa6-7400-855c-86ba606dfb23"}
+{"isMorph":false}
+{"key":"burnished-scales"}
+{"learnedLevel":8}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":8}
+{"skillLineId":"dragonknight-draconic-power"}
+{"skillType":"passive"}
+{"slug":"burnished-scales"}
+{"subcategoryId":"dragonknight-draconic-power"}
+{"title":"Burnished Scales"}
+{"type":"page-type/temper-skill"}

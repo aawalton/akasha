@@ -1,0 +1,9 @@
+{"addonKind":"native"}
+{"addonName":"TemperHud"}
+{"adjacents":["held-addon/temper-inventory","held-addon/temper-interface"]}
+{"esoAddon":"eso-addon/temper-hud-addon"}
+{"heldBy":13085}
+{"id":"01a081a1-453c-7b1d-b913-d260d874eae6"}
+{"slug":"temper-hud"}
+{"tiClean":true}
+{"type":"page-type/held-addon"}

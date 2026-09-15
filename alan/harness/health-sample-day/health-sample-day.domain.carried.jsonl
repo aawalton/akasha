@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a reading down."},{"decisionKind":"decision-kind/departure","statement":"A day's sleep is read from the entries beside that day's page."},{"decisionKind":"decision-kind/departure","statement":"A day whose sleep was never recorded is refused an opening rather than given one."}]}
+{"definition":"a day's health readings, counted from the moment that day opened"}
+{"id":"01a05bc7-9129-7007-82af-fd4145203797"}
+{"parts":["module/active-calories","module/opening-window"]}
+{"slug":"health-sample-day"}
+{"type":"page-type/domain"}

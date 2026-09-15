@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A listing older than the expiry is no longer among the guild store's listings."}]}
+{"definition":"dropping the listings that have aged past the expiry"}
+{"id":"01a06160-2a5b-7de7-92b4-c3276f6bde81"}
+{"slug":"trading-prune"}
+{"type":"page-type/module"}

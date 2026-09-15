@@ -1,0 +1,18 @@
+{"baseName":"Veiled Strike"}
+{"description":"\"Slash an enemy, dealing 2556 Magic Damage. \\n\\nIf you strike an enemy from their flank you set them Off Balance.\\n\\nWhen you leave Sneak or invisibility while in combat, increase your damage done with this ability by 10% for 15 seconds.\\n\\nWhile slotted on either bar, you gain Minor Expedition, increasing your Movement Speed by 15%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":36244}
+{"icon":"/esoui/art/icons/ability_nightblade_002_b.dds"}
+{"id":"019e6245-a620-764a-8fd5-0b6ac0822db7"}
+{"isMorph":true}
+{"key":"concealed-weapon"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"nightblade-assassination"}
+{"skillType":"active"}
+{"slug":"concealed-weapon"}
+{"subcategoryId":"nightblade-assassination"}
+{"title":"Concealed Weapon"}
+{"type":"page-type/temper-skill"}

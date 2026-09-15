@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The commit is read back out of the compiled binary with strings."},{"decisionKind":"decision-kind/departure","statement":"A binary with no stamp is refused the same as a binary with a wrong commit."},{"decisionKind":"decision-kind/departure","statement":"Every widget extension under PlugIns is checked beside the app binary."},{"decisionKind":"decision-kind/departure","statement":"Every binary is checked before the gate refuses."},{"decisionKind":"decision-kind/departure","statement":"A passing gate says so by printing one fixed marker line."}]}
+{"definition":"the shell that refuses an upload whose binaries do not have this cut's commit"}
+{"id":"01a05cee-e560-7095-8d3c-c3c7cef4babf"}
+{"slug":"build-stamp-gate"}
+{"test":"ts"}
+{"type":"page-type/module"}

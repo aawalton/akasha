@@ -1,0 +1,17 @@
+{"baseName":"Locksmith"}
+{"description":"\"Improves your chances of forcing locks by |cffffff45|r%.\""}
+{"esoSkillId":63813}
+{"icon":"/esoui/art/icons/ability_legerdemain_lockpick.dds"}
+{"id":"019e6f53-a419-7abc-b0f7-6728891b8602"}
+{"isMorph":false}
+{"key":"locksmith-63813"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":5}
+{"skillLineId":"world-legerdemain"}
+{"skillType":"passive"}
+{"slug":"locksmith-63813"}
+{"subcategoryId":"world-legerdemain"}
+{"title":"Locksmith"}
+{"type":"page-type/temper-skill"}

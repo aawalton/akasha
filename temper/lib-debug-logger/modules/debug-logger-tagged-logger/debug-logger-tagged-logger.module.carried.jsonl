@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A logger has the tag handed in at its making."},{"decisionKind":"decision-kind/departure","statement":"A sub-logger tag is the parent tag and the new tag parted by a slash."},{"decisionKind":"decision-kind/departure","statement":"A logger switched off writes nothing."},{"decisionKind":"decision-kind/departure","statement":"An empty tag is refused."}]}
+{"definition":"a logger object with one tag, its sub-taggings and its level overrides"}
+{"id":"01a06061-4092-7c03-8889-a341e67a2144"}
+{"slug":"debug-logger-tagged-logger"}
+{"type":"page-type/module"}

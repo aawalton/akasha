@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to  a skill type."}]}
+{"definition":"the sort of skill a page is about"}
+{"id":"01a05fba-ce3b-7869-b428-d3dd2f8703d7"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"skill-type"}
+{"slug":"skill-type"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

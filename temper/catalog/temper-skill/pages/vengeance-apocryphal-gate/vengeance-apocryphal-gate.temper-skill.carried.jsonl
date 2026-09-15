@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Apocryphal Gate"}
+{"description":"\"Breach the world walls to create a portal at a target location, teleporting yourself to it immediately and generating Crux.\""}
+{"esoSkillId":238545}
+{"icon":"/esoui/art/icons/ability_arcanist_016.dds"}
+{"id":"019e6f53-a8af-7e35-b7c1-37a9812e054e"}
+{"isMorph":false}
+{"key":"vengeance-apocryphal-gate"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-arcanist-curative-runeforms"}
+{"skillType":"active"}
+{"slug":"vengeance-apocryphal-gate"}
+{"subcategoryId":"vengeance-arcanist-curative-runeforms"}
+{"title":"Vengeance Apocryphal Gate"}
+{"type":"page-type/temper-skill"}

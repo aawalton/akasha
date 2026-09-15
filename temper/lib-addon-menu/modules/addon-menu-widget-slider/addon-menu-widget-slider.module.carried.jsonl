@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Typed input is clamped into range unless clampInput is false."},{"decisionKind":"decision-kind/departure","statement":"The mouse wheel changes the value only while the slider or its box has focus."},{"decisionKind":"decision-kind/departure","statement":"Dragging commits the value on release rather than on every step."},{"decisionKind":"decision-kind/constraint","statement":"Decimal rounding happens before clamping."}]}
+{"definition":"the numeric slider with an editable value box beside or below it"}
+{"id":"01a06100-0000-7000-8000-000000000026"}
+{"slug":"addon-menu-widget-slider"}
+{"type":"page-type/module"}

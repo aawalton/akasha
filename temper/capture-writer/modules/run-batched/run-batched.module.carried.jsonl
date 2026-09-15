@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The caller says how many items go in a batch and how long to wait between."},{"decisionKind":"decision-kind/departure","statement":"The wait is asked of the game's own later-caller."},{"decisionKind":"decision-kind/departure","statement":"The first batch is done before the caller gets control back."},{"decisionKind":"decision-kind/departure","statement":"The closing callback runs once the last item is done."}]}
+{"definition":"a long list of work done a few items at a time so the game keeps its frame rate"}
+{"id":"01a060b5-5ba9-7ee1-a925-9a6bbfd758f4"}
+{"slug":"run-batched"}
+{"type":"page-type/module"}

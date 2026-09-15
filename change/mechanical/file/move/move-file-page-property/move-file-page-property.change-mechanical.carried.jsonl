@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-move"}
+{"changeTargetSubtype":"change-target-subtype/file-page-property"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The move is worked out by the change this change reaches."},{"decisionKind":"decision-kind/absence","statement":"Nothing here judges the path handed in."},{"decisionKind":"decision-kind/departure","statement":"A manifest naming the moved file as a way in is restated by the change reached."}]}
+{"definition":"one page property's own file moved to another path with the files beside it"}
+{"id":"01a08225-2ced-7797-a5ee-3aba1a83c869"}
+{"slug":"move-file-page-property"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical"}

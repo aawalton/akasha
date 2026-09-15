@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A track credits the artists in the order the provider names them."},{"decisionKind":"decision-kind/departure","statement":"A track credits an artist the release that track sits on does not credit."},{"decisionKind":"decision-kind/gap","statement":"An artist credited here is the artist page naming the same provider id."}]}
+{"definition":"an artist a provider credits on a track, as that provider names them"}
+{"id":"01a0a5f1-d12c-7bb8-96c2-10781ad40828"}
+{"properties":[{"pageProperty":"text-property/external-id","required":false,"many":false},{"pageProperty":"text-property/artist-name","required":false,"many":false}]}
+{"propertySlug":"track-artist"}
+{"slug":"track-artist"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

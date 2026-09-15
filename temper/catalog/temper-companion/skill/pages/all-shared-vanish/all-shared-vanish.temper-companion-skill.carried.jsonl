@@ -1,0 +1,14 @@
+{"abilityId":156596}
+{"castConditions":"jsonl"}
+{"companionId":"all"}
+{"description":"Your Companion disappears in a puff of smoke, healing to full Health and becoming invisible for $$2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_armor_medium.dds"}
+{"id":"019e6484-3833-71ac-8a70-d0f4721f424b"}
+{"key":"shared-vanish"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"armor-medium"}
+{"skillType":"active"}
+{"slug":"all-shared-vanish"}
+{"title":"Vanish"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["tank"]}

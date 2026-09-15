@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/stopgap","statement":"The books named here are not pages yet."},{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a book."}]}
+{"definition":"the book a record is kept about"}
+{"id":"01a0657d-b91d-7100-a6a6-4e66e1a75ab3"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"book-slug"}
+{"slug":"record-book-slug"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

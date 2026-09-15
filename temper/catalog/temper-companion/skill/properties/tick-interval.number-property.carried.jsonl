@@ -1,0 +1,7 @@
+{"definition":"how many seconds fall between one tick of an effect and the next"}
+{"id":"01a06193-6ca8-7471-9460-6a7a73360a6e"}
+{"max":null}
+{"propertySlug":"tick-interval"}
+{"slug":"tick-interval"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

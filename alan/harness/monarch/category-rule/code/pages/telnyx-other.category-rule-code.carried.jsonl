@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcda-7007-b5cd-8856c88b19e6"}
+{"matches":[{"key":"merchant","comparison":"is","values":["telnyx"]},{"key":"sign","comparison":"is-not","values":["negative"]}]}
+{"slug":"telnyx-other"}
+{"title":"Telnyx other"}
+{"type":"page-type/category-rule-code"}

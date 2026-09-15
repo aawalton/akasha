@@ -1,0 +1,6 @@
+{"category":"monarch-category/alans-spending"}
+{"id":"01a0655b-fcda-7001-8247-1a8ffd271881"}
+{"matches":[{"key":"merchant","comparison":"is","values":["spotify"]},{"key":"sign","comparison":"is","values":["negative"]},{"key":"date","comparison":"on-or-after","values":["2025-08-08"]}]}
+{"slug":"spotify"}
+{"title":"Spotify"}
+{"type":"page-type/category-rule-code"}

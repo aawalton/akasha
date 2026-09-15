@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This module names the weapon types without naming any order among the weapon types."}]}
+{"definition":"every weapon type a character may hold, from the axe to the restoration staff"}
+{"id":"01a060f0-3eae-7300-a19e-36158f3ca349"}
+{"slug":"weapon-type-ids"}
+{"type":"page-type/module"}

@@ -1,0 +1,11 @@
+{"description":"Grants Restore Stamina, Restore Health, Restore Magicka."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_001_type_005.dds"}
+{"id":"019e21f6-404e-775b-9146-bebdd4e0704b"}
+{"key":"endurance-fortitude-intellect-health-restore-magicka-restore-stamina-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Blessed Thistle","Bugloss","Columbine"]},{"names":["Bugloss","Chaurus Egg","Columbine"]},{"names":["Bugloss","Columbine","Dragon's Blood"]},{"names":["Bugloss","Columbine","Dragonthorn"]},{"names":["Bugloss","Columbine","Mountain Flower"]},{"names":["Columbine","Corn Flower","Mountain Flower"]},{"names":["Columbine","Dragon Rheum","Mountain Flower"]},{"names":["Columbine","Lady's Smock","Mountain Flower"]},{"names":["Columbine","Mountain Flower","Vile Coagulant"]}]}
+{"seconds":47}
+{"slug":"endurance-fortitude-intellect-health-restore-magicka-restore-stamina-restore"}
+{"title":"Essence of Health"}
+{"type":"page-type/temper-potion-crafted"}

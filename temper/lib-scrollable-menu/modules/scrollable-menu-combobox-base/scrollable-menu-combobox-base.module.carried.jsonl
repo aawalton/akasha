@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Screen narration is gated behind two separate accessibility settings."},{"decisionKind":"decision-kind/departure","statement":"The submenu class is created here as a subclass of the base."},{"decisionKind":"decision-kind/departure","statement":"Narration text is queued through a named update handler rather than sent at once."},{"decisionKind":"decision-kind/departure","statement":"Every new instance appends itself to the library's list of live objects."}]}
+{"definition":"the ZO_ComboBox subclass every library menu derives from and its narration plumbing"}
+{"id":"01a06275-c444-7462-9a01-bb0daeb9b5d0"}
+{"slug":"scrollable-menu-combobox-base"}
+{"type":"page-type/module"}

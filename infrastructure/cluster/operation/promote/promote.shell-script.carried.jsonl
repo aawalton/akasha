@@ -1,0 +1,7 @@
+{"definition":"a namespace's Next.js deployment moved to an image tag, rolled back if it fails"}
+{"id":"01a06865-abff-7015-9700-1d0c47fdac9e"}
+{"scripting":{}}
+{"shell":"sh"}
+{"slug":"promote"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

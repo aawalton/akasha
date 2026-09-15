@@ -1,0 +1,7 @@
+{"definition":"what a set gives at each number of pieces worn"}
+{"id":"01a05fcd-f554-73bf-83df-72e8cb8357e3"}
+{"properties":[{"pageProperty":"text-property/description","required":true,"many":false},{"pageProperty":"boolean-property/is-perfected","required":true,"many":false},{"pageProperty":"number-property/num-required","required":true,"many":false}]}
+{"propertySlug":"set-bonuses"}
+{"slug":"set-bonuses"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A render nothing discriminating was asserted over fails."},{"decisionKind":"decision-kind/departure","statement":"A settle that timed out turns a failure into an indeterminate."}]}
+{"definition":"whether a rendered page passed, failed or could not be told apart from an empty shell"}
+{"id":"01a05ca9-d802-795d-ac6f-ca68611372b6"}
+{"slug":"deployed-render-check"}
+{"type":"page-type/module"}

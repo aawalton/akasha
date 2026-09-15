@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-checked"}
+{"changeMode":"change-mode/change-mode-add"}
+{"changeTargetSubtype":"change-target-subtype/page-type-page-property"}
+{"changeTargetType":"change-target-type/page-type"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The pages written are the pages the index names of that page type."},{"decisionKind":"decision-kind/departure","statement":"A page type with no property under the key is refused."},{"decisionKind":"decision-kind/departure","statement":"A key its page type says carries many values is refused."},{"decisionKind":"decision-kind/departure","statement":"A page type no page is of is refused rather than answered as no edit."},{"decisionKind":"decision-kind/departure","statement":"A value that parses as no value is refused."},{"decisionKind":"decision-kind/departure","statement":"The value is written as the caller spells it rather than as text to quote."},{"decisionKind":"decision-kind/departure","statement":"The key is put in where the pages of that page type write that key."},{"decisionKind":"decision-kind/departure","statement":"An `after` the caller states places the key on every page."},{"decisionKind":"decision-kind/departure","statement":"A page the index files no value for gains the key last."},{"decisionKind":"decision-kind/departure","statement":"One page refused refuses the whole change."},{"decisionKind":"decision-kind/departure","statement":"A refusal over a page names that page."},{"decisionKind":"decision-kind/departure","statement":"The edits are worked out by the change reached."},{"decisionKind":"decision-kind/departure","statement":"That change acts on a page type, as this one does."},{"decisionKind":"decision-kind/departure","statement":"That change is reached through the runner rather than by an import."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a page's own body."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the index."}]}
+{"definition":"one value put under one key on every page of one page type"}
+{"id":"01a08177-a04c-7a4b-9516-1d7be9d3f724"}
+{"maxCpuSeconds":120}
+{"maxMemoryMb":3072}
+{"slug":"add-property-to-every-page"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A collection takes its unit from its kind unless the collection states its own."},{"decisionKind":"decision-kind/departure","statement":"A collection's `type` names the kind."},{"decisionKind":"decision-kind/gap","statement":"Six thousand collections of these kinds sit outside akasha and have no page of their own."}]}
+{"definition":"a kind of thing collected, and what one of that kind is measured in"}
+{"extends":["page-type/page"]}
+{"id":"01a0680f-6f00-7001-b374-6d2a9f5c6102"}
+{"parts":["select-property/collection-type-status"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/collection-unit","required":true,"many":false},{"pageProperty":"select-property/collection-type-status","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"collection-type"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

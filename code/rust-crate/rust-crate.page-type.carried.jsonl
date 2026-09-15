@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A crate states what Cargo reads about that crate in a file beside the page."},{"decisionKind":"decision-kind/departure","statement":"A crate names every module that crate compiles."},{"decisionKind":"decision-kind/departure","statement":"A module named by more than one crate is a shared module."},{"decisionKind":"decision-kind/constraint","statement":"A module no crate names is compiled into nothing."},{"decisionKind":"decision-kind/departure","statement":"A crate Cargo prepares states the script Cargo runs first."},{"decisionKind":"decision-kind/departure","statement":"A seam copies a crate's files to the names Cargo reads."},{"decisionKind":"decision-kind/departure","statement":"A crate's icon is carried as text and written out by that same seam."}]}
+{"definition":"one thing Cargo builds"}
+{"extends":["page-type/domain"]}
+{"id":"01a0602d-6ad2-7a2e-8686-1b1cf565107a"}
+{"parts":["code-file-property/cargo-build-script","file-property/cargo-manifest","file-property/crate-icon","relation-property/rust-modules"]}
+{"properties":[{"pageProperty":"file-property/cargo-manifest","required":true,"many":false},{"pageProperty":"relation-property/rust-modules","required":false,"many":true,"maxCount":null},{"pageProperty":"code-file-property/cargo-build-script","required":false,"many":false},{"pageProperty":"file-property/crate-icon","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"rust-crate"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

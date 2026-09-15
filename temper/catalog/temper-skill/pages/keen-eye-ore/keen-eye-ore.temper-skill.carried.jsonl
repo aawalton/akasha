@@ -1,0 +1,17 @@
+{"baseName":"Keen Eye: Ore"}
+{"description":"\"Ore in the world will be easier to see when you are 40 meters or closer.\""}
+{"esoSkillId":47856}
+{"icon":"/esoui/art/icons/ability_smith_002.dds"}
+{"id":"019e6224-cc9b-79ac-a944-00ed82b695bd"}
+{"isMorph":false}
+{"key":"keen-eye-ore"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-blacksmithing"}
+{"skillType":"passive"}
+{"slug":"keen-eye-ore"}
+{"subcategoryId":"craft-blacksmithing"}
+{"title":"Keen Eye: Ore"}
+{"type":"page-type/temper-skill"}

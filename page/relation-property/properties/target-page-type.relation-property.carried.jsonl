@@ -1,0 +1,7 @@
+{"definition":"the page type this relation's value names, or a page type extending it"}
+{"id":"01a04a08-fcf3-7001-9f43-3bfdc57c3676"}
+{"propertySlug":"target-page-type"}
+{"slug":"target-page-type"}
+{"targetPageType":"page-type/page-type"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

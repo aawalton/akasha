@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A fallback font is loaded only where the client runs this language."}]}
+{"definition":"the fallback fonts a console client loads for Japanese"}
+{"id":"01a06069-f8c2-73a3-bccc-0a7f6d8bc712"}
+{"loadedAs":"Console/backupfont_jp.xml"}
+{"markup":"xml"}
+{"slug":"media-console-backupfont-jp"}
+{"type":"page-type/eso-interface"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The outline is the whole of knowledge."},{"decisionKind":"decision-kind/departure","statement":"The files on disk are how far into the outline Ali has got."},{"decisionKind":"decision-kind/departure","statement":"A node's mastery level is judged by hand."},{"decisionKind":"decision-kind/departure","statement":"A node with children is scored at a rung of its own just as a node without children is."},{"decisionKind":"decision-kind/departure","statement":"A node's coverage is worked out from the children beneath the node."},{"decisionKind":"decision-kind/departure","statement":"A topic names the topic above rather than sitting in that topic's folder."},{"decisionKind":"decision-kind/departure","statement":"How far Alan has mastered each part of the map is kept with the part."},{"decisionKind":"decision-kind/departure","statement":"A topic's mastery level is written to that topic's page and never told to Alan in any form."},{"decisionKind":"decision-kind/departure","statement":"The answers Alan got right and the answers Alan got wrong are told to Alan."}]}
+{"definition":"how far into the whole of knowledge Ali has read, node by node"}
+{"description":"<!-- Where his model thins — the edge located by the probe that set D. Becomes next session's bites. -->"}
+{"id":"01a0659d-311d-7001-b736-ae7c499c3bf3"}
+{"parts":["domain/learn-everything-command","module/seeded-draw","module/topic-tree","page-type/learn-everything-topic","page-type/mastery-level"]}
+{"slug":"learn-everything"}
+{"title":"Learn Everything"}
+{"type":"page-type/alan-book"}
+{"unit":"unit/words"}

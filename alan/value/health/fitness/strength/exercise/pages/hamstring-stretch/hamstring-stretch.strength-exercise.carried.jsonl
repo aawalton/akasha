@@ -1,0 +1,27 @@
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Hamstring_Stretch"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hamstring_Stretch"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"static"}
+{"gripDemand":"low"}
+{"id":"019ebc77-4bdb-7075-8ab7-c338f3349cf9"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring_Stretch/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring_Stretch/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"mechanic":"isolation"}
+{"movementPattern":"mobility"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["hamstrings"]}
+{"scoringMode":"time"}
+{"sfrScore":4}
+{"skillCost":"low"}
+{"slug":"hamstring-stretch"}
+{"title":"Hamstring Stretch"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

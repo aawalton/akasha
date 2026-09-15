@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/upkeep","statement":"The generator writes this table outside akasha."}]}
+{"definition":"every glyph a jewelry piece takes, and what each is worth at a quality"}
+{"id":"01a0616f-8e17-7f4a-88b7-d9d36af92429"}
+{"slug":"jewelry-enchants"}
+{"type":"page-type/module"}

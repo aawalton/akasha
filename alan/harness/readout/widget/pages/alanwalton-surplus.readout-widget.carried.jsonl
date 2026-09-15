@@ -1,0 +1,15 @@
+{"app":"ios-app/alanwalton"}
+{"caption":"Surplus"}
+{"component":"ios-component/surplus-ring"}
+{"definition":"the tile on Alan's phone showing how much of his night the day has left him"}
+{"families":["small"]}
+{"feed":"https://alanwalton.com/api/surplus"}
+{"galleryDescription":"Hours of sleep left after what your day cost."}
+{"galleryName":"Surplus"}
+{"groups":["readout-group/surplus"]}
+{"id":"01a06420-b259-7c25-a46d-ddd74b4b9120"}
+{"kind":"SurplusWidget"}
+{"opens":"capacitor://localhost/nav/tracking-690c624f?tab=20f5f031-8fa1-44d2-be3a-561b457548f1#widget=alanwalton-surplus"}
+{"place":10}
+{"slug":"alanwalton-surplus"}
+{"type":"page-type/readout-widget"}

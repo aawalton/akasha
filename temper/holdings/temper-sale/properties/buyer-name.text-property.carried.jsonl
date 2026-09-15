@@ -1,0 +1,8 @@
+{"definition":"the account an item was bought by"}
+{"id":"01a0685d-89aa-7156-8c60-1ac86c89368f"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"buyer-name"}
+{"slug":"buyer-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

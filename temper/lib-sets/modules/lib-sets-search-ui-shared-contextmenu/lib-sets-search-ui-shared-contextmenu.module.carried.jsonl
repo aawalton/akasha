@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"These menus open only when LibScrollableMenu is present."}]}
+{"definition":"the scrollable menus the search window opens away from its result rows"}
+{"id":"01a0623e-53a0-784d-a83c-91ac526137c8"}
+{"slug":"lib-sets-search-ui-shared-contextmenu"}
+{"type":"page-type/module"}

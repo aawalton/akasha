@@ -1,0 +1,17 @@
+{"baseName":"Shield Charge"}
+{"description":"\"Rush an enemy and ram them, dealing 1393 Physical Damage and stunning them for 3 seconds.\\n\\nYou gain a damage shield after the attack, absorbing 5121 damage for 6 seconds. This portion of the ability scales off your Max Health.\""}
+{"esoSkillId":41526}
+{"icon":"/esoui/art/icons/ability_1handed_003_a.dds"}
+{"id":"019e6226-0112-7f37-a7e3-844ecfb5fbf0"}
+{"isMorph":true}
+{"key":"shielded-assault"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"active"}
+{"slug":"shielded-assault"}
+{"subcategoryId":"weapon-one-hand-and-shield"}
+{"title":"Shielded Assault"}
+{"type":"page-type/temper-skill"}

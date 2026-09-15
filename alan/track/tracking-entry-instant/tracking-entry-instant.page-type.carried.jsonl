@@ -1,0 +1,7 @@
+{"definition":"a tracking entry for something that happened at one moment"}
+{"extends":["page-type/tracking-entry"]}
+{"id":"01a06827-ec0c-7d93-8f41-c7d2446c6d54"}
+{"schema":"jsonl"}
+{"slug":"tracking-entry-instant"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

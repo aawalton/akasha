@@ -1,0 +1,10 @@
+{"app":"temper"}
+{"fingerprint":"f1d556dabcbbe4e6"}
+{"firstSeenAt":"2026-09-14T09:56:28.797Z"}
+{"id":"01a09f58-c0c7-7261-b70a-2c8b4be9178b"}
+{"kind":"error"}
+{"message":"[pages-ui-store] page-property-definition went live carrying no pages — the definition tier is empty, so every page type, column and view now resolves against nothing and readiness says otherwise"}
+{"slug":"temper-f1d556dabcbbe4e6"}
+{"type":"page-type/runtime-error"}
+{"url":"https://www.tempereso.com/home"}
+{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"}

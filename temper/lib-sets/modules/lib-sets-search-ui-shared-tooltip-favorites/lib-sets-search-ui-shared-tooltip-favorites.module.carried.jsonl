@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A set's saved favourite categories are added and removed here too."}]}
+{"definition":"the tooltips a result row shows for its set"}
+{"id":"01a0623c-2df8-7a8a-a8eb-08922192505b"}
+{"slug":"lib-sets-search-ui-shared-tooltip-favorites"}
+{"type":"page-type/module"}

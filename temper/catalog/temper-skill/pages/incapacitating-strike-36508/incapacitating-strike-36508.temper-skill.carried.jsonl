@@ -1,0 +1,17 @@
+{"baseName":"Death Stroke"}
+{"description":"\"Ravage an enemy with a swift strike, dealing |cffffff13350|r Disease Damage and causing them to take |cffffff20|r% more damage from your attacks for |cffffff8|r seconds.\\n\\nIf cast with |cffffff126|r or more Ultimate, you instead deal |cffffff14685|r Disease Damage, stun the enemy for |cffffff3|r seconds, and increase the duration of the damage taken effect to |cffffff12|r seconds.\""}
+{"esoSkillId":36508}
+{"icon":"/esoui/art/icons/ability_nightblade_007_a.dds"}
+{"id":"019e6f53-a36c-7bea-95fa-431cf54c5563"}
+{"isMorph":true}
+{"key":"incapacitating-strike-36508"}
+{"learnedLevel":12}
+{"lineRankNeeded":12}
+{"morphIndex":1}
+{"rank":12}
+{"skillLineId":"nightblade-assassination"}
+{"skillType":"ultimate"}
+{"slug":"incapacitating-strike-36508"}
+{"subcategoryId":"nightblade-assassination"}
+{"title":"Incapacitating Strike"}
+{"type":"page-type/temper-skill"}

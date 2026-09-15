@@ -1,0 +1,12 @@
+{"action":"temper-item-action/sell"}
+{"active":false}
+{"categoryId":"treasures"}
+{"conditions":"jsonl"}
+{"description":"Sells treasures up to superior (blue) quality at a merchant. Higher-quality treasures are preserved for banking or guild store listing."}
+{"displayOrder":40}
+{"goal":"temper-rule-goal/sell"}
+{"id":"019e3104-2627-7b26-8ce5-f198e4be0e34"}
+{"key":"treasures-sell"}
+{"slug":"treasures-sell"}
+{"title":"Sell common treasures"}
+{"type":"page-type/temper-rule-template"}

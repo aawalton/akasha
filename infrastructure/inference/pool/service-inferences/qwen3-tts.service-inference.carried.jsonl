@@ -1,0 +1,13 @@
+{"definition":"the Qwen3 voice model, served by mlx-audio"}
+{"enabled":true}
+{"host":"macbook"}
+{"id":"01a090a2-9e6d-7775-b13e-e20d48ca33a2"}
+{"internalPort":18092}
+{"lifecycle":"pool"}
+{"port":8092}
+{"provision":"shell-script/mlx-audio-provision"}
+{"pythonVersion":"3.12"}
+{"runs":["python -m mlx_audio.server --host 127.0.0.1 --port 18092"]}
+{"slug":"qwen3-tts"}
+{"type":"page-type/service-inference"}
+{"workdir":"."}

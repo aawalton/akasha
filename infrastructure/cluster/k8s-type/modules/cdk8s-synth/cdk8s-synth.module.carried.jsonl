@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"a Kubernetes manifest rendered to YAML through a cdk8s chart"}
+{"id":"01a06735-dd9c-7000-93a9-42c5731a8519"}
+{"slug":"cdk8s-synth"}
+{"type":"page-type/module"}

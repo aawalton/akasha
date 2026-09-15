@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A wrapper calls the function the wrapper replaced."},{"decisionKind":"decision-kind/departure","statement":"Clearing a menu releases every pooled row back to its pool."},{"decisionKind":"decision-kind/departure","statement":"A held modifier key turns an inventory context menu into a special menu."}]}
+{"definition":"the game's menu functions wrapped so custom entries survive"}
+{"id":"01a0605a-581e-714a-b5ed-989083626e25"}
+{"slug":"custom-menu-hooks"}
+{"type":"page-type/module"}

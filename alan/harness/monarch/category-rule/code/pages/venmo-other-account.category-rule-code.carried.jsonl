@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcdb-7005-a285-e4482329b9e9"}
+{"matches":[{"key":"merchant","comparison":"is","values":["venmo"]},{"key":"account","comparison":"is-not","values":["4042","7151"]}]}
+{"slug":"venmo-other-account"}
+{"title":"Venmo other account"}
+{"type":"page-type/category-rule-code"}

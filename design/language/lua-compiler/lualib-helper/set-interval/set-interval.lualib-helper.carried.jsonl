@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the handle a call repeated on an interval is known by"}
+{"id":"01a081d0-bc4d-77d2-8ca5-978dfe0e9f35"}
+{"luaExport":"__TS__SetInterval"}
+{"slug":"set-interval"}
+{"type":"page-type/lualib-helper"}

@@ -1,0 +1,13 @@
+{"abilityIcon":"/esoui/art/icons/ability_grimoire_support.dds"}
+{"affixScripts":"jsonl"}
+{"focusScripts":["flame-damage","immobilize","magic-damage","mitigation","multi-target","physical-damage","restore-resources","shock-damage"]}
+{"icon":"/esoui/art/icons/item_grimoire_support.dds"}
+{"id":"01a05fce-2956-7821-86a3-e57677c7496c"}
+{"itemId":204496}
+{"key":"banner-bearer"}
+{"signatureScripts":"jsonl"}
+{"skillLineId":"alliance-war-support"}
+{"slug":"banner-bearer"}
+{"title":"Banner Bearer"}
+{"type":"page-type/temper-grimoire"}
+{"uespId":12}

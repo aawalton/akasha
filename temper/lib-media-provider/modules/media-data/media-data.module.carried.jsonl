@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A font table is chosen by the language the client runs in."},{"decisionKind":"decision-kind/departure","statement":"A font the official language descriptor matches takes the built-in font path."},{"decisionKind":"decision-kind/departure","statement":"A language with no preset takes the vanilla font paths."},{"decisionKind":"decision-kind/departure","statement":"The Japanese and Chinese fonts are added to every language."},{"decisionKind":"decision-kind/departure","statement":"A sound the client does not name is left out rather than added as empty."}]}
+{"definition":"the fonts, backgrounds, borders and sounds the library ships with"}
+{"id":"01a06069-f8c3-778a-b8ba-761dfaf9e630"}
+{"slug":"media-data"}
+{"type":"page-type/module"}

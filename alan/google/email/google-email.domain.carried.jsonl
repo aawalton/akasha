@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A message is reached by the id Gmail gives the message rather than by its Message-ID header."},{"decisionKind":"decision-kind/departure","statement":"A command here is named for the path the old ops command was reached by."},{"decisionKind":"decision-kind/absence","statement":"Nothing here decides the fate of a message that arrives."}]}
+{"definition":"Alan's Gmail mailbox read, written to and kept in order"}
+{"id":"01a05c0e-372c-7620-9bcc-082febbe3f5b"}
+{"parts":["module/compose-input-from-arguments","module/email-command-reading","module/email-message-fetching","module/email-operations","module/email-shapes","module/forwarded-message","module/gmail-attachments","module/gmail-auth","module/gmail-client","module/gmail-credentials","module/gmail-drafts","module/gmail-inbound-adapter","module/gmail-mailbox","module/gmail-messages","module/gmail-schema","module/list-unsubscribe","module/mime-message"]}
+{"slug":"google-email"}
+{"type":"page-type/domain"}

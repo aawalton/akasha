@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is an instant rather than text."}]}
+{"definition":"when a stretch of time ended"}
+{"id":"01a05fd8-c30f-7276-a32d-648df6a73f30"}
+{"maxLength":24}
+{"nameFormat":null}
+{"propertySlug":"end-time"}
+{"slug":"end-time"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

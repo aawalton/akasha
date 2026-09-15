@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This file has a single import and declares nothing."}]}
+{"definition":"one import that runs the later languages' localization install"}
+{"id":"01a061d7-7bc4-7579-be47-b39f086c097f"}
+{"slug":"lib-sets-loc-rest-localization-rest-index"}
+{"type":"page-type/module"}

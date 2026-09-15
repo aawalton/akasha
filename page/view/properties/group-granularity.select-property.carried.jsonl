@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only a view gathering by a date states a granularity."}]}
+{"definition":"how wide a stretch of time one group of a view covers"}
+{"id":"01a0680d-4d00-7009-8c62-3f7a1d5b410a"}
+{"propertySlug":"group-granularity"}
+{"slug":"group-granularity"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["day","week","month","year"]}

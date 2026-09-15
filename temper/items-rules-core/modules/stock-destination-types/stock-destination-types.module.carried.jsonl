@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A stock decision reads holdings through the context handed to the decision."},{"decisionKind":"decision-kind/departure","statement":"The character priority is the order the characters are offered the stock in."}]}
+{"definition":"what a stock-destination decision is given to read about a character's holdings"}
+{"id":"01a060d9-44cd-7492-b42b-190488055dda"}
+{"slug":"stock-destination-types"}
+{"type":"page-type/module"}

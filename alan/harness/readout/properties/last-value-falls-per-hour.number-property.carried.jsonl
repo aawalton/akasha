@@ -1,0 +1,7 @@
+{"definition":"how much the reading last taken loses for each hour of clock"}
+{"id":"01a08c30-b692-794d-b7fa-9af2debfa29c"}
+{"max":null}
+{"propertySlug":"last-value-falls-per-hour"}
+{"slug":"last-value-falls-per-hour"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

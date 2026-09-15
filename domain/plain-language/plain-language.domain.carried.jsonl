@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A sentence a refused shape matches is not plain."},{"decisionKind":"decision-kind/departure","statement":"A sentence refused for a construction Alan calls plain is a gap in the shapes."},{"decisionKind":"decision-kind/departure","statement":"Nothing here states a sentence's meaning."},{"decisionKind":"decision-kind/departure","statement":"A trained model commits to one tree rather than ranking several trees."},{"decisionKind":"decision-kind/gap","statement":"A statement is read alone rather than beside the statements sharing its file."}]}
+{"definition":"whether a sentence is written in plain language"}
+{"id":"01a05d93-dbec-79d5-a299-9264b3de7464"}
+{"parts":["module/dependency-graph","module/onnx-parsing","module/parse-cache","module/shape-predicate","module/shape-reading","module/spelt-scanning","module/word-tokenizing","page-type/parser-model"]}
+{"slug":"plain-language"}
+{"type":"page-type/domain"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the `location` condition alone."}]}
+{"definition":"the Location condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3bf2-77cf-bcc7-b09945beb2f9"}
+{"slug":"location-filter"}
+{"type":"page-type/module"}

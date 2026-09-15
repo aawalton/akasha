@@ -1,0 +1,8 @@
+{"definition":"the addon bundle image an app serves, named by its content hash"}
+{"extensions":["ts"]}
+{"fileName":"deploy/addon-bundle-image.ts"}
+{"id":"01a0817a-a1c9-7577-a1f2-bf5e6c93a43d"}
+{"propertySlug":"addon-bundle-image"}
+{"slug":"addon-bundle-image"}
+{"type":"page-type/code-file-property"}
+{"types":"ts"}

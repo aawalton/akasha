@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Radiant Destruction"}
+{"description":"\"Burn an enemy with a ray of holy fire, dealing |cffffff22260|r Magic Damage over |cffffff4.8|r seconds. Deals up to |cffffff400|r% more damage to enemies below |cffffff33|r% Health.\""}
+{"esoSkillId":237974}
+{"icon":"/esoui/art/icons/ability_templar_over_exposure.dds"}
+{"id":"019e6f53-a95b-751d-915d-c74ec875619d"}
+{"isMorph":false}
+{"key":"vengeance-radiant-destruction"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-templar-dawns-wrath"}
+{"skillType":"active"}
+{"slug":"vengeance-radiant-destruction"}
+{"subcategoryId":"vengeance-templar-dawns-wrath"}
+{"title":"Vengeance Radiant Destruction"}
+{"type":"page-type/temper-skill"}

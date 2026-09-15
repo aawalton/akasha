@@ -1,0 +1,12 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The reading is the reading the tracking day has for the day asked for."},{"decisionKind":"decision-kind/departure","statement":"The sleep a day has is the total of that day's own sleep stretches."},{"decisionKind":"decision-kind/departure","statement":"A sleep given as text is read as the number that text spells."},{"decisionKind":"decision-kind/departure","statement":"No tracking day is no reading rather than a sleep of zero."},{"decisionKind":"decision-kind/departure","statement":"A tracking day with no sleep is no reading rather than a sleep of zero."},{"decisionKind":"decision-kind/departure","statement":"A day with no sleep stretch has no sleep rather than a sleep of zero."},{"decisionKind":"decision-kind/absence","statement":"Nothing here caches a reading or decides when a reading is taken."},{"decisionKind":"decision-kind/absence","statement":"Nothing here turns a sleep into a color."}]}
+{"definition":"how long Alan slept last night"}
+{"groups":["readout-group/upkeep"]}
+{"id":"01a06220-ef8c-700d-ad60-4cf3f17ae1e3"}
+{"label":"Sleep"}
+{"place":6}
+{"reading":{}}
+{"scale":"readout-scale/sleep-hours"}
+{"slug":"upkeep-sleep"}
+{"type":"page-type/readout"}
+{"unit":"hours"}
+{"wireKey":"sleep"}

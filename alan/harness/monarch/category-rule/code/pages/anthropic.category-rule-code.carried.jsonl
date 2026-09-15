@@ -1,0 +1,6 @@
+{"category":"monarch-category/alans-spending"}
+{"id":"01a0655b-fccf-7007-9674-c7560dd74719"}
+{"matches":[{"key":"merchant","comparison":"is","values":["anthropic"]},{"key":"sign","comparison":"is","values":["negative"]}]}
+{"slug":"anthropic"}
+{"title":"Anthropic"}
+{"type":"page-type/category-rule-code"}

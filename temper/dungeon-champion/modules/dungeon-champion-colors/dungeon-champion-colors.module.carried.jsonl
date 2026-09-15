@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A color with no fourth number is fully opaque."}]}
+{"definition":"a four-number color turned into the shapes the game's color picker and textures take"}
+{"id":"01a060f9-babe-7d15-8b17-8c3ff34e4b9a"}
+{"slug":"dungeon-champion-colors"}
+{"type":"page-type/module"}

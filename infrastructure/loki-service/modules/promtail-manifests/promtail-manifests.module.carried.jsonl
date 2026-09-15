@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The pod template carries the hash of the promtail-config configmap."}]}
+{"definition":"the configuration, permissions and daemonset manifests Promtail runs as"}
+{"id":"01a06816-68b1-702f-9567-6866b7d0ae7a"}
+{"slug":"promtail-manifests"}
+{"type":"page-type/module"}

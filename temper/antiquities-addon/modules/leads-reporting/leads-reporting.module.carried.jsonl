@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A location is sent to an external site rather than kept here."},{"decisionKind":"decision-kind/departure","statement":"The player consents to the browser opening before anything is sent."}]}
+{"definition":"the lead last found, and the report of a new location for it"}
+{"id":"01a06274-b08a-73da-8f48-24bcfd5a231a"}
+{"slug":"leads-reporting"}
+{"type":"page-type/module"}

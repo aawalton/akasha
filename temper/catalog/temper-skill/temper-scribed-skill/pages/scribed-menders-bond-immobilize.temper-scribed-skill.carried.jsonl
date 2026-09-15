@@ -1,0 +1,19 @@
+{"baseName":"Mender's Bond"}
+{"description":"Removes and grants immunity to snares and immobilizations for 1 second to the ally and other allies in the link."}
+{"esoSkillId":217257}
+{"focusScriptId":"immobilize"}
+{"grimoireId":"menders-bond"}
+{"icon":"/esoui/art/icons/ability_grimoire_staffresto.dds"}
+{"id":"019e6471-15af-7e1c-b7dd-f17a36d726cf"}
+{"isMorph":false}
+{"key":"scribed-menders-bond-immobilize"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"scribed-menders-bond-immobilize"}
+{"subcategoryId":"scribed"}
+{"title":"Binding Bond"}
+{"type":"page-type/temper-scribed-skill"}

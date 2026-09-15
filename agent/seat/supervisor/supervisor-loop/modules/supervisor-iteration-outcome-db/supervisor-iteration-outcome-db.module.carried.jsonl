@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A caller states the wait a call is given."},{"decisionKind":"decision-kind/departure","statement":"A caller stating no wait gives that call five seconds, and a call past its wait is at fault."},{"decisionKind":"decision-kind/departure","statement":"The fault names the call and the wait the call outlived."},{"decisionKind":"decision-kind/departure","statement":"The timer is unrefed."},{"decisionKind":"decision-kind/departure","statement":"A call being waited on never has the process open."},{"decisionKind":"decision-kind/departure","statement":"The timer is cleared whether the call answered or threw."},{"decisionKind":"decision-kind/departure","statement":"A call that answers after the wait ran out is dropped rather than raced back in."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches a database."},{"decisionKind":"decision-kind/absence","statement":"Only the wait is bounded."}]}
+{"definition":"a call the supervisor gives up waiting on rather than waits out"}
+{"id":"01a06838-5a84-7001-a522-1f0b3c183f21"}
+{"slug":"supervisor-iteration-outcome-db"}
+{"test":"ts"}
+{"type":"page-type/module"}

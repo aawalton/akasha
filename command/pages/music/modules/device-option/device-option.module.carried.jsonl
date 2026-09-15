@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A call naming no device leaves the option empty, so Spotify takes the active one."},{"decisionKind":"decision-kind/departure","statement":"A device named is carried into the option and into what the report says."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches Spotify."}]}
+{"definition":"the Spotify device a music command acts on, as the call names it"}
+{"id":"01a0a01d-7643-7622-9825-c312b57d8474"}
+{"slug":"device-option"}
+{"test":"ts"}
+{"type":"page-type/module"}

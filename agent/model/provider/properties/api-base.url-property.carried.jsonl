@@ -1,0 +1,7 @@
+{"definition":"where a request to a provider is sent"}
+{"id":"01a0a211-d7d7-7a81-84e4-d12435599b73"}
+{"maxLength":200}
+{"propertySlug":"api-base"}
+{"slug":"api-base"}
+{"type":"page-type/url-property"}
+{"types":"ts"}

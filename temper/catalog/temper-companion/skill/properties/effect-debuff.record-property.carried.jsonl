@@ -1,0 +1,7 @@
+{"definition":"the harmful effect an effect lays on, and how long it holds"}
+{"id":"01a06196-037a-7e14-80f7-0ae4cc1593d4"}
+{"properties":[{"pageProperty":"text-property/debuff-name","required":false,"many":false},{"pageProperty":"number-property/duration","required":false,"many":false},{"pageProperty":"number-property/effect-value","required":false,"many":false},{"pageProperty":"text-property/value-type","required":false,"many":false}]}
+{"propertySlug":"debuff"}
+{"slug":"effect-debuff"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

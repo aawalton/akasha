@@ -1,0 +1,7 @@
+{"definition":"how much of a game is decided by its numbers"}
+{"id":"01a0673c-8e0e-7008-975c-8cd78b5fcf4f"}
+{"propertySlug":"mechanics-weight"}
+{"slug":"mechanics-weight"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["zero","medium","heavy"]}

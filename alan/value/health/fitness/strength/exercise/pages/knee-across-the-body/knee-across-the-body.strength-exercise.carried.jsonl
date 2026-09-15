@@ -1,0 +1,27 @@
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Knee_Across_The_Body"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Knee_Across_The_Body"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"static"}
+{"gripDemand":"low"}
+{"id":"019ebc77-872e-7403-9aa8-107aeb9f8c87"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Across_The_Body/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Across_The_Body/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"mobility"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["glutes"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["abductors","lower-back"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"knee-across-the-body"}
+{"title":"Knee Across The Body"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

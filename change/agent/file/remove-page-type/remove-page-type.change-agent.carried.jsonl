@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-checked"}
+{"changeMode":"change-mode/change-mode-remove"}
+{"changeTargetSubtype":"change-target-subtype/file-page-type"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The kind of page is read from the path rather than from the index."},{"decisionKind":"decision-kind/departure","statement":"A path the naming grammar reads as no page file is refused."},{"decisionKind":"decision-kind/departure","statement":"A page that is no page type is refused here."},{"decisionKind":"decision-kind/departure","statement":"The refusal for a page that is no page type names the change taking a page away."},{"decisionKind":"decision-kind/departure","statement":"A page type is handed to the partial change taking a page type away."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."}]}
+{"definition":"one page type taken away, by the partial change taking a page type away"}
+{"id":"01a0783a-11c0-7891-a250-63a80bef1c95"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":3072}
+{"slug":"remove-page-type"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

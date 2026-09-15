@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A body naming no governed namespace is not judged."},{"decisionKind":"decision-kind/constraint","statement":"A body mentioning the namespace a second time is no single dispatch."},{"decisionKind":"decision-kind/constraint","statement":"A body with anything after the closing bracket is no single dispatch."},{"decisionKind":"decision-kind/constraint","statement":"A body starting anywhere but at the namespace is no single dispatch."},{"decisionKind":"decision-kind/constraint","statement":"A handler whose body is blank is not judged."}]}
+{"definition":"whether an inline markup handler's body is one call to a named global and no more"}
+{"id":"01a062a8-e76a-7191-8366-e4e515c97683"}
+{"slug":"addon-inline-handler-dispatch"}
+{"type":"page-type/module"}

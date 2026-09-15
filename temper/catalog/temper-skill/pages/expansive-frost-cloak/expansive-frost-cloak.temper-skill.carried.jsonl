@@ -1,0 +1,17 @@
+{"baseName":"Frost Cloak"}
+{"description":"\"Wrap a thick cloak of ice around you and your grouped allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by 5948 for 20 seconds.\""}
+{"esoSkillId":86129}
+{"icon":"/esoui/art/icons/ability_warden_001_a.dds"}
+{"id":"019e6245-a679-701f-b122-da4f8b4164ef"}
+{"isMorph":true}
+{"key":"expansive-frost-cloak"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"warden-winters-embrace"}
+{"skillType":"active"}
+{"slug":"expansive-frost-cloak"}
+{"subcategoryId":"warden-winters-embrace"}
+{"title":"Expansive Frost Cloak"}
+{"type":"page-type/temper-skill"}

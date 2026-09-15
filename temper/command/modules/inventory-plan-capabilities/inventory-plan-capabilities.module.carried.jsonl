@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The parts a plan run needs are handed over together rather than one by one."},{"decisionKind":"decision-kind/departure","statement":"Each part is handed over on its own so a run may take only the parts that run needs."},{"decisionKind":"decision-kind/absence","statement":"No plan is built here."},{"decisionKind":"decision-kind/absence","statement":"No type is sent on from here."}]}
+{"definition":"what building an inventory management plan is built from"}
+{"id":"01a068f6-dee0-7713-8806-b95995b92fdc"}
+{"slug":"inventory-plan-capabilities"}
+{"test":"ts"}
+{"type":"page-type/module"}

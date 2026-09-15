@@ -1,0 +1,17 @@
+{"baseName":"Potency Improvement"}
+{"description":"\"Allows the use of Rejera, Repora, Jehade, and Itade Potency Runestones to make Glyphs of Champion 150 and 160.\""}
+{"esoSkillId":70045}
+{"icon":"/esoui/art/icons/ability_enchanter_001b.dds"}
+{"id":"019e6224-cca9-71b1-80bb-f053cd78adce"}
+{"isMorph":false}
+{"key":"potency-improvement"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":10}
+{"skillLineId":"craft-enchanting"}
+{"skillType":"passive"}
+{"slug":"potency-improvement"}
+{"subcategoryId":"craft-enchanting"}
+{"title":"Potency Improvement"}
+{"type":"page-type/temper-skill"}

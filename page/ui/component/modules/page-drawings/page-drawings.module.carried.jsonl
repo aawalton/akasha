@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A drawing is found by the page type it sits beside rather than by a registration."},{"decisionKind":"decision-kind/departure","statement":"The bundler reads every drawing in the tree before the code runs."}]}
+{"definition":"the component each page type draws a page of that type with"}
+{"id":"01a0a062-3e90-76ba-8810-aa82e04a0028"}
+{"slug":"page-drawings"}
+{"type":"page-type/module"}

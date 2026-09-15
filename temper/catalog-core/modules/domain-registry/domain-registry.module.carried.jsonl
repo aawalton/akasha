@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Importing a collector's module adds that collector here."},{"decisionKind":"decision-kind/departure","statement":"Collectors are run in the order the collectors were added."},{"decisionKind":"decision-kind/absence","statement":"Nothing here runs a collector."}]}
+{"definition":"the collectors an add-on adds itself to, in the order they were added"}
+{"id":"01a06071-0c79-71aa-8f49-de4128d97c66"}
+{"slug":"domain-registry"}
+{"type":"page-type/module"}

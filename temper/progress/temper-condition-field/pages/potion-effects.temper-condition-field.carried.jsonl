@@ -1,0 +1,6 @@
+{"description":"An item's granted potion effect metric ids must cover the list of effect ids stated, under whichever quantifier `potionEffectsMode` names. The value a rule states is a JSON array of effect ids, and stays an array where one effect is named: `[\"Restore Health\"]` states that one, and bare `Restore Health` states nothing this field takes."}
+{"id":"01a07209-6b52-7fc6-bb71-edad7d1fc8e9"}
+{"key":"potionEffects"}
+{"slug":"potion-effects"}
+{"title":"Potion Effects"}
+{"type":"page-type/temper-condition-field"}

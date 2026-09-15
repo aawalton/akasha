@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A key held in a column of its own is read back under that key."},{"decisionKind":"decision-kind/departure","statement":"A column with nothing is read back as null."},{"decisionKind":"decision-kind/departure","statement":"A key the attributes have is read back under that key."},{"decisionKind":"decision-kind/departure","statement":"The instant a page was marked done is in a column of its own."}]}
+{"definition":"the page keys the store holds in columns of their own"}
+{"id":"01a05bd6-c535-767d-b8ac-7e540084e42d"}
+{"slug":"routing-core"}
+{"test":"ts"}
+{"type":"page-type/module"}

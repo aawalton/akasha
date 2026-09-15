@@ -1,0 +1,27 @@
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Seated_Hamstring"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Hamstring"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"expert"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"static"}
+{"gripDemand":"low"}
+{"id":"019ebc78-5bbf-7709-bf85-11334ae9a9b5"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Hamstring/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Hamstring/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"mobility"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["hamstrings"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["calves"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"seated-hamstring"}
+{"title":"Seated Hamstring"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

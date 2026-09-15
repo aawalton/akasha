@@ -1,0 +1,19 @@
+{"baseName":"Mender's Bond"}
+{"description":"Transfers 1 Ultimate from you to the ally every 1 second."}
+{"esoSkillId":217294}
+{"focusScriptId":"generate-ultimate"}
+{"grimoireId":"menders-bond"}
+{"icon":"/esoui/art/icons/ability_grimoire_staffresto.dds"}
+{"id":"019e6471-15ae-71fb-8f1a-02628563bf2a"}
+{"isMorph":false}
+{"key":"scribed-menders-bond-generate-ultimate"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"scribed-menders-bond-generate-ultimate"}
+{"subcategoryId":"scribed"}
+{"title":"Heroic Bond"}
+{"type":"page-type/temper-scribed-skill"}

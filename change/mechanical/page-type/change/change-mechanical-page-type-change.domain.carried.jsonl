@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rung here answers for every page of the page type at once."},{"decisionKind":"decision-kind/departure","statement":"A rung here writes the declaration, the pages under it, or both."}]}
+{"definition":"a mechanical change stating one property of a page type anew"}
+{"id":"01a09c6e-7c73-7c16-9054-f8d3b748d48c"}
+{"parts":["change-mechanical-page-type/change-calculation-held-type","change-mechanical-page-type/change-property-on-page-type","change-mechanical-page-type/qualify-relation-on-every-page"]}
+{"slug":"change-mechanical-page-type-change"}
+{"type":"page-type/domain"}

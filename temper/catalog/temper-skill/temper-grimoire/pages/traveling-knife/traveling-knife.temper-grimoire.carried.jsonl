@@ -1,0 +1,13 @@
+{"abilityIcon":"/esoui/art/icons/ability_grimoire_dualwield.dds"}
+{"affixScripts":"jsonl"}
+{"focusScripts":["bleed-damage","frost-damage","magic-damage","multi-target","physical-damage","poison-damage","pull","stun"]}
+{"icon":"/esoui/art/icons/item_grimoire_dualwield.dds"}
+{"id":"01a05fce-2958-7007-a7ea-a087ca479f02"}
+{"itemId":204490}
+{"key":"traveling-knife"}
+{"signatureScripts":"jsonl"}
+{"skillLineId":"weapon-dual-wield"}
+{"slug":"traveling-knife"}
+{"title":"Traveling Knife"}
+{"type":"page-type/temper-grimoire"}
+{"uespId":7}

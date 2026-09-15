@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An alias naming an object type answers that type."},{"decisionKind":"decision-kind/departure","statement":"An alias joining types answers the first object type among them."},{"decisionKind":"decision-kind/departure","statement":"An alias of anything else answers nothing."},{"decisionKind":"decision-kind/departure","statement":"A source naming no such alias answers nothing."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the disk."},{"decisionKind":"decision-kind/departure","statement":"A change wanting this type reads it here rather than from another change."}]}
+{"definition":"the object type a named type alias in a source holds"}
+{"id":"01a09b74-c591-7172-9691-ea824ccdda55"}
+{"slug":"type-literal"}
+{"test":"ts"}
+{"type":"page-type/module"}

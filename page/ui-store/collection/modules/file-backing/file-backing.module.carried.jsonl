@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The roster names the page types kept in files and no other page type."},{"decisionKind":"decision-kind/departure","statement":"A page type the roster does not name is answered unknown rather than database."},{"decisionKind":"decision-kind/departure","statement":"A road to a page type's pages is never guessed."},{"decisionKind":"decision-kind/gap","statement":"The backing of a page type the roster leaves out is read from somewhere."}]}
+{"definition":"which page types are kept in files rather than in the database"}
+{"id":"01a05b69-4540-715d-a1fb-2ce95dde8cb6"}
+{"slug":"file-backing"}
+{"type":"page-type/module"}

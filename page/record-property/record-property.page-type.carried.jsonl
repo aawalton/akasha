@@ -1,0 +1,9 @@
+{"definition":"a page property holding named fields"}
+{"extends":["page-type/page-property"]}
+{"id":"01a04dff-9d7d-7801-928a-feeaaaa1c8f0"}
+{"properties":[{"pageProperty":"one-of-property/properties","required":true,"many":true,"maxCount":null}]}
+{"schema":"jsonl"}
+{"shapes":"jsonl"}
+{"slug":"record-property"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

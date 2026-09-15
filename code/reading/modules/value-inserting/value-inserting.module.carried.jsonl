@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The value goes in first in the literal."},{"decisionKind":"decision-kind/departure","statement":"The value goes into the first literal the body declares."},{"decisionKind":"decision-kind/departure","statement":"A body declaring no literal takes no value."},{"decisionKind":"decision-kind/departure","statement":"The rest of the body is left as the body was."},{"decisionKind":"decision-kind/absence","statement":"Nothing here judges the value handed in."}]}
+{"definition":"a value put into the object literal a body declares"}
+{"id":"01a07be9-0fe1-71dc-a802-443ecc56fe31"}
+{"slug":"value-inserting"}
+{"test":"ts"}
+{"type":"page-type/module"}

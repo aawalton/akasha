@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A new entry is refused where the caller's validator rejects the text."},{"decisionKind":"decision-kind/departure","statement":"A removal is confirmed before the entry goes."}]}
+{"definition":"the dialog asking for a new entry and the dialog asking before a removal"}
+{"id":"01a06207-bdf0-770d-80f0-db4744058c0a"}
+{"slug":"order-list-box-dialogs"}
+{"type":"page-type/module"}

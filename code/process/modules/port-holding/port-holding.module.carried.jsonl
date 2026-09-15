@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Both the IPv4 and the IPv6 tables are read."},{"decisionKind":"decision-kind/departure","statement":"Only a socket in the listening state counts."},{"decisionKind":"decision-kind/departure","statement":"A port is matched as the four-digit hexadecimal the kernel writes."},{"decisionKind":"decision-kind/departure","statement":"A table that will not open reads as empty rather than refusing."},{"decisionKind":"decision-kind/departure","statement":"A process whose descriptors will not open is passed over."},{"decisionKind":"decision-kind/departure","statement":"A process with two matching sockets is named once."},{"decisionKind":"decision-kind/absence","statement":"Nothing here signals a process."}]}
+{"definition":"the processes listening on a TCP port, found by socket inode under `/proc`"}
+{"id":"01a0659d-b1ba-7000-ac0a-6643010ea000"}
+{"slug":"port-holding"}
+{"type":"page-type/module"}

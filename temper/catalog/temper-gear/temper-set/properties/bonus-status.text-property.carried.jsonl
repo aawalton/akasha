@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A bonus marked unsupported moves no metric temper counts."}]}
+{"definition":"how far temper models what a set bonus does"}
+{"id":"01a05fd1-d437-73eb-b682-b54edb64a96b"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"status"}
+{"slug":"bonus-status"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

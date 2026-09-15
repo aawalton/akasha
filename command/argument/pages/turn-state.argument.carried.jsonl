@@ -1,0 +1,7 @@
+{"id":"01a094f5-de98-7770-b753-8c3a1f2d843e"}
+{"placeholder":"name"}
+{"said":"--state"}
+{"slug":"turn-state"}
+{"takes":"a turn state to answer for rather than an agent, said once per state"}
+{"type":"page-type/argument"}
+{"value":"text"}

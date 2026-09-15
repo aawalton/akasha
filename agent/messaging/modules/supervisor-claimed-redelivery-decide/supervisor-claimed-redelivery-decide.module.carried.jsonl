@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A message claimed after this process started is still in flight."},{"decisionKind":"decision-kind/departure","statement":"A message still in flight is left alone."},{"decisionKind":"decision-kind/departure","statement":"A message whose transcript could not be read is left alone rather than released."},{"decisionKind":"decision-kind/departure","statement":"A message the seat read for itself is not released."},{"decisionKind":"decision-kind/departure","statement":"A message that reached the seat is not released."},{"decisionKind":"decision-kind/departure","statement":"Every message skipped is reported with the reason that message was skipped for."}]}
+{"definition":"which messages a seat claimed and never consumed are released to be delivered again"}
+{"id":"01a0686d-9d5e-7008-9fde-93e647443261"}
+{"slug":"supervisor-claimed-redelivery-decide"}
+{"test":"ts"}
+{"type":"page-type/module"}

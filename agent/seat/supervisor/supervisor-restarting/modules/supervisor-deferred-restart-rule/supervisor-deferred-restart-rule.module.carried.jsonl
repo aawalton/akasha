@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An unread verdict has the state that verdict was given and does not fire."},{"decisionKind":"decision-kind/departure","statement":"Unread defer windows are null rather than a guess at how long to wait."}]}
+{"definition":"the deferred-restart readings asked of the deciding command"}
+{"id":"01a0683e-3dbe-701e-b307-1df87a9c3fff"}
+{"slug":"supervisor-deferred-restart-rule"}
+{"type":"page-type/module"}

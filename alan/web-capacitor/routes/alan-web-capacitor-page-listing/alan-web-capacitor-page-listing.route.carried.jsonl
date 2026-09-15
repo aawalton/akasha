@@ -1,0 +1,7 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The page types are read in the browser rather than on a server."},{"decisionKind":"decision-kind/departure","statement":"The segment in the url is matched against a page type's slug."}]}
+{"definition":"the pages of one page type, drawn as a list"}
+{"id":"01a08840-980e-747f-9497-1ed8fa4d51f0"}
+{"slug":"alan-web-capacitor-page-listing"}
+{"type":"page-type/route"}
+{"urlPath":":pageTypeSlug"}

@@ -1,0 +1,19 @@
+{"baseName":"Trample"}
+{"description":"Deals 2876 Disease Damage to all enemies."}
+{"esoSkillId":220541}
+{"focusScriptId":"disease-damage"}
+{"grimoireId":"trample"}
+{"icon":"/esoui/art/icons/ability_grimoire_assault.dds"}
+{"id":"019e6471-15d5-7012-8647-c544504cde54"}
+{"isMorph":false}
+{"key":"scribed-trample-disease-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"scribed-trample-disease-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Pestilent Trample"}
+{"type":"page-type/temper-scribed-skill"}

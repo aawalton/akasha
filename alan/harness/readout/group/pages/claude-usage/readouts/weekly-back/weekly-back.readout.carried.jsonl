@@ -1,0 +1,12 @@
+{"colorSlug":"text"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only an account that has spent its whole weekly allowance is counted."},{"decisionKind":"decision-kind/departure","statement":"The reading is the soonest window still ahead of the moment asked in."},{"decisionKind":"decision-kind/departure","statement":"A window already behind that moment is left out rather than read as zero."},{"decisionKind":"decision-kind/departure","statement":"No account with a window ahead is no reading rather than a wait of zero."},{"decisionKind":"decision-kind/absence","statement":"Nothing here caches a reading or decides when a reading is taken."}]}
+{"definition":"how long until a spent weekly allowance returns"}
+{"drawnAs":"number"}
+{"groups":["readout-group/claude-usage"]}
+{"id":"01a063bd-a526-795d-b845-b6fb54c9ef34"}
+{"label":"7d back"}
+{"place":3}
+{"slug":"weekly-back"}
+{"type":"page-type/readout"}
+{"unit":"hours"}
+{"wireKey":"weekly-back"}

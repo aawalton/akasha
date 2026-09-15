@@ -1,0 +1,13 @@
+{"abilityId":154923}
+{"companionId":"bastian"}
+{"description":"Your Companion slashes an enemy with flame, dealing $1 Flame Damage and an additional $2 Flame Damage over $$2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_dragonknight_003.dds"}
+{"id":"019e6484-3851-7f30-8fd9-32c2f824b762"}
+{"key":"bastian-scorching-strike"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-bastian-ardent-warrior"}
+{"skillType":"active"}
+{"slug":"bastian-bastian-scorching-strike"}
+{"title":"Scorching Strike"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

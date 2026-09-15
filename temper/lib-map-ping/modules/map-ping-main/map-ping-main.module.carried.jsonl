@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The global name is put in place before the handler is made."}]}
+{"definition":"the wiring the map ping library does as the game loads it"}
+{"id":"01a0605f-6264-74cf-907a-7a6a66cbae34"}
+{"slug":"map-ping-main"}
+{"type":"page-type/module"}

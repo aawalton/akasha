@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Two hundred calories burned moving is one point."},{"decisionKind":"decision-kind/departure","statement":"The points are the active calories the tracking day carries turned into points."},{"decisionKind":"decision-kind/departure","statement":"A day with no active calories earns nothing rather than an endurance of zero."}]}
+{"definition":"what Alan has built by moving his body"}
+{"id":"01a06841-a16e-7bcb-a31a-fba64ce8de69"}
+{"pointUnit":"200 active calories burned"}
+{"slug":"endurance"}
+{"test":"ts"}
+{"type":"page-type/attribute"}

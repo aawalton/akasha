@@ -1,0 +1,7 @@
+{"filing":"archive"}
+{"forwardTo":"person/jenny"}
+{"id":"01a06860-54a2-7ba4-a60a-621ee362e6b3"}
+{"matches":[{"field":"from","comparison":"is","values":["googleplay-noreply@google.com"]},{"field":"subject","comparison":"contains","values":["your google play order receipt"]}]}
+{"slug":"googleplay-order-receipt"}
+{"title":"Googleplay order receipt"}
+{"type":"page-type/email-rule-code"}

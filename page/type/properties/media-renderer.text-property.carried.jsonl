@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A renderer is named here and reached by the code that knows the name."}]}
+{"definition":"the model that makes a page type's audio or image"}
+{"id":"01a062b8-8775-7003-b1df-c7f935fcacbf"}
+{"maxLength":64}
+{"nameFormat":null}
+{"propertySlug":"renderer"}
+{"slug":"media-renderer"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

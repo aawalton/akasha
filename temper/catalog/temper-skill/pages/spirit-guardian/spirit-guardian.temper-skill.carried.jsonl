@@ -1,0 +1,17 @@
+{"baseName":"Spirit Mender"}
+{"description":"\"Conjure a ghostly spirit to do your bidding and stay by your side for 16 seconds. The spirit heals you or the lowest Health ally around you every 2 seconds, restoring 718 Health.\\n\\nWhile active, 10% of the damage you take is transferred to the spirit instead.\\n\\nCreates a corpse on death if you are in combat.\""}
+{"esoSkillId":40118912}
+{"icon":"/esoui/art/icons/ability_necromancer_015_a.dds"}
+{"id":"019e6245-a73f-73d1-8025-74c46fcb20f5"}
+{"isMorph":true}
+{"key":"spirit-guardian"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"necromancer-living-death"}
+{"skillType":"active"}
+{"slug":"spirit-guardian"}
+{"subcategoryId":"necromancer-living-death"}
+{"title":"Spirit Guardian"}
+{"type":"page-type/temper-skill"}

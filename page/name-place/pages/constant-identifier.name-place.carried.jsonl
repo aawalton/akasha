@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Data is data whether the data is written out or built as the file loads."},{"decisionKind":"decision-kind/departure","statement":"A regular expression is data."},{"decisionKind":"decision-kind/departure","statement":"A set of fixed words is data."},{"decisionKind":"decision-kind/departure","statement":"A plain string is data."},{"decisionKind":"decision-kind/departure","statement":"A name bound to a function or to a thing the file acts on is not data wherever that name sits."}]}
+{"definition":"the name data carries at the top of a file, outside any function"}
+{"id":"01a04fc9-2ad8-7f99-9d3a-bbae29319b17"}
+{"nameFormat":"name-format/upper-snake-case"}
+{"slug":"constant-identifier"}
+{"type":"page-type/name-place"}

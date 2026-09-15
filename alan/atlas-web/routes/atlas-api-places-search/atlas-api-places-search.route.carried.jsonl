@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the places Geoapify offers for what a reader typed"}
+{"id":"01a0883a-9a45-797a-8b58-e67b92e3c969"}
+{"slug":"atlas-api-places-search"}
+{"type":"page-type/route"}
+{"urlPath":"api/alan/collections/places/search"}

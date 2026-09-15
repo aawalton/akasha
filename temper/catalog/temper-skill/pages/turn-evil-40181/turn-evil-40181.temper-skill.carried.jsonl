@@ -1,0 +1,17 @@
+{"baseName":"Circle of Protection"}
+{"description":"\"Brand the earth at your location with a rune of protection for |cffffff20|r seconds. You and your allies in the area gain Minor Protection and Minor Endurance, reducing your damage taken by |cffffff5|r% and increasing your Stamina Recovery by |cffffff15|r%.\\n\\nUpon activation, enemies in the area are feared for |cffffff4|r seconds.\""}
+{"esoSkillId":40181}
+{"icon":"/esoui/art/icons/ability_fightersguild_001_a.dds"}
+{"id":"019e6f53-a869-73f1-b5b6-1557f3aeeec3"}
+{"isMorph":true}
+{"key":"turn-evil-40181"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":4}
+{"skillLineId":"guild-fighters-guild"}
+{"skillType":"active"}
+{"slug":"turn-evil-40181"}
+{"subcategoryId":"guild-fighters-guild"}
+{"title":"Turn Evil"}
+{"type":"page-type/temper-skill"}

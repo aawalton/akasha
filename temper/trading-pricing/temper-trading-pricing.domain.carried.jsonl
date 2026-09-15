@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A price here is the price Tamriel Trade Centre last saw rather than the price the game asks."},{"decisionKind":"decision-kind/departure","statement":"A lookup finding no price answers with nothing rather than with zero."},{"decisionKind":"decision-kind/absence","statement":"No code here reaches the network."}]}
+{"definition":"what Tamriel Trade Centre last saw an item sell for"}
+{"id":"01a0609b-e59c-7c6b-906c-4ab055fc9039"}
+{"parts":["module/companion-gear-ids","module/companion-gear-price-lookup","module/currency-price-lookup","module/is-price-entry","module/kiosk-location-name","module/pricing-types","module/ttc-listing-schema","module/ttc-listing-types","service-workstation/ttc-client"]}
+{"slug":"temper-trading-pricing"}
+{"type":"page-type/domain"}

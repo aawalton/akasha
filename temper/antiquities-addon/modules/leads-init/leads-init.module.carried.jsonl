@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The window is built hidden and shown only when asked for."},{"decisionKind":"decision-kind/constraint","statement":"Every control reached here is declared by the markup rather than by code."}]}
+{"definition":"the lead window's one-time setup"}
+{"id":"01a06274-b08a-713c-8263-d0c81956cd55"}
+{"slug":"leads-init"}
+{"type":"page-type/module"}

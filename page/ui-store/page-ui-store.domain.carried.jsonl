@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A write is shown before the write lands."},{"decisionKind":"decision-kind/departure","statement":"A write is settled once the write lands."},{"decisionKind":"decision-kind/departure","statement":"A query is answered from the rows the browser already has."},{"decisionKind":"decision-kind/departure","statement":"A page type kept in files is read over HTTP rather than subscribed to."},{"decisionKind":"decision-kind/stopgap","statement":"This package reaches the old page store rather than the store akasha holds."},{"decisionKind":"decision-kind/gap","statement":"Nothing here is proved by a test of its own."}]}
+{"definition":"the page rows a browser holds, and the queries and writes run against them"}
+{"id":"01a05b69-455c-7bbd-8f3b-b2c3946559fc"}
+{"parts":["domain/page-ui-store-collection","domain/page-ui-store-optimistic","domain/page-ui-store-query","domain/page-ui-store-realtime","domain/page-ui-store-sql","module/diagnostics","module/report-stall","module/singleton"]}
+{"slug":"page-ui-store"}
+{"type":"page-type/domain"}

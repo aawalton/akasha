@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A refusal answers with the reasons given and reports nothing."},{"decisionKind":"decision-kind/departure","statement":"What was mistaken is said before what was wrong."},{"decisionKind":"decision-kind/departure","statement":"A call with anything mistaken is refused as a fault of the call."},{"decisionKind":"decision-kind/departure","statement":"A fault of the data alone is said as the one line naming it."},{"decisionKind":"decision-kind/departure","statement":"A call wrong with nothing mistaken is refused as a fault of the data."},{"decisionKind":"decision-kind/departure","statement":"Nothing mistaken and nothing wrong is no refusal at all."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out what is mistaken or wrong."},{"decisionKind":"decision-kind/departure","statement":"The answer is built by the one function that builds a command's refusal."},{"decisionKind":"decision-kind/departure","statement":"Each code is read from the page declaring what an exit code means."}]}
+{"definition":"a command's answer where the call is refused"}
+{"id":"01a08cba-d78e-707e-a8b3-0f8748457353"}
+{"slug":"refusing"}
+{"test":"ts"}
+{"type":"page-type/module"}

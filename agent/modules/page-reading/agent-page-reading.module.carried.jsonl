@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A row never names a page that is not there."},{"decisionKind":"decision-kind/departure","statement":"Every path answered here is opened at the moment of answering."},{"decisionKind":"decision-kind/departure","statement":"A page is made to declare the id that page was found under."},{"decisionKind":"decision-kind/departure","statement":"A subagent is keyed off its page rather than off the page's file name."},{"decisionKind":"decision-kind/departure","statement":"A subagent page short of its seat name or its agent id is left out."},{"decisionKind":"decision-kind/departure","statement":"The kind a subagent was dispatched as is read off that subagent's page."},{"decisionKind":"decision-kind/departure","statement":"A subagent page stating no kind answers null for that kind."},{"decisionKind":"decision-kind/departure","statement":"Whether a subagent was stopped from the panel is read from beside its page."}]}
+{"definition":"the akasha page a running agent has, answered only where the file is there"}
+{"id":"01a069c8-313d-7000-a55f-c0982d79ea96"}
+{"slug":"agent-page-reading"}
+{"type":"page-type/module"}

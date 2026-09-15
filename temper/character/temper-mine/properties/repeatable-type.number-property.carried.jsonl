@@ -1,0 +1,7 @@
+{"definition":"how often a quest may be taken again"}
+{"id":"01a05fcd-f553-7f0c-93bb-05bec8327fe5"}
+{"max":null}
+{"propertySlug":"repeatable-type"}
+{"slug":"repeatable-type"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

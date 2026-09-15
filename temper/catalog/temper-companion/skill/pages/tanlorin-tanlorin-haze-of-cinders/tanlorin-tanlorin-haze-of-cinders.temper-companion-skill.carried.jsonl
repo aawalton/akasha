@@ -1,0 +1,13 @@
+{"abilityId":214708}
+{"companionId":"tanlorin"}
+{"description":"Your Companion summons a scorching cloud of ash at the target location for $$1 seconds, reducing enemy Movement Speed by 70% and healing them and their allies for $1 Health every 2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_dragonknight_hazeofcinders.dds"}
+{"id":"019e6484-38a4-75a3-96be-0f4376392195"}
+{"key":"tanlorin-haze-of-cinders"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-tanlorin-radiating-heart"}
+{"skillType":"active"}
+{"slug":"tanlorin-tanlorin-haze-of-cinders"}
+{"title":"Haze of Cinders"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer"]}

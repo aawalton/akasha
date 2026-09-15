@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-checked"}
+{"changeMode":"change-mode/change-mode-rename"}
+{"changeTargetSubtype":"change-target-subtype/file-content-code"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page's own export is refused."},{"decisionKind":"decision-kind/departure","statement":"A type a page's file declares beside that export is renamed here."}]}
+{"definition":"a name a code file declares renamed wherever it reaches, exported or not"}
+{"id":"01a07718-c9b6-7d80-aebd-b1155f08ab77"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":3072}
+{"slug":"rename-code-token"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

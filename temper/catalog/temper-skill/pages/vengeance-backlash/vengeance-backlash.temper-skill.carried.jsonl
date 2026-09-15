@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Backlash"}
+{"description":"\"Summon an expanding beam of pure sunlight to doom an enemy for |cffffff6|r seconds, dealing |cffffff5141|r Magic Damage immediately and |cffffff15423|r Magic Damage after the duration ends.\\n\\nThe final hit of damage cannot be dodged.\""}
+{"esoSkillId":237957}
+{"icon":"/esoui/art/icons/ability_templar_backlash.dds"}
+{"id":"019e6f53-a8b8-73ca-b875-a760df45106f"}
+{"isMorph":false}
+{"key":"vengeance-backlash"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-templar-dawns-wrath"}
+{"skillType":"active"}
+{"slug":"vengeance-backlash"}
+{"subcategoryId":"vengeance-templar-dawns-wrath"}
+{"title":"Vengeance Backlash"}
+{"type":"page-type/temper-skill"}

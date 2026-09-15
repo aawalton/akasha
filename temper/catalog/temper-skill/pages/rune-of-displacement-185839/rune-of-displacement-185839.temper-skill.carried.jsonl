@@ -1,0 +1,17 @@
+{"baseName":"The Imperfect Ring"}
+{"description":"\"Summon a discharging rune under an enemy. After |cffffff2|r seconds the rune pulses, pulling in foes between 2 to 10 meters and etching them with scrawled glyphs that deal |cffffff15730|r Magic Damage over |cffffff18|r seconds.\\n\\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff9914|r Frost Damage to enemies within 7 meters.\""}
+{"esoSkillId":185839}
+{"icon":"/esoui/art/icons/ability_arcanist_004_a.dds"}
+{"id":"019e6f53-a67e-76c5-8811-72e28540b80a"}
+{"isMorph":true}
+{"key":"rune-of-displacement-185839"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":1}
+{"rank":42}
+{"skillLineId":"arcanist-herald-of-the-tome"}
+{"skillType":"active"}
+{"slug":"rune-of-displacement-185839"}
+{"subcategoryId":"arcanist-herald-of-the-tome"}
+{"title":"Rune of Displacement"}
+{"type":"page-type/temper-skill"}

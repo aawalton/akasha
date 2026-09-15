@@ -1,0 +1,17 @@
+{"baseName":"Medicinal Use"}
+{"description":"\"When using potions, resulting effects last 30% longer.\""}
+{"esoSkillId":45573}
+{"icon":"/esoui/art/icons/ability_alchemy_004.dds"}
+{"id":"019e6224-cca2-7b34-8b49-5d7f4eacebf8"}
+{"isMorph":false}
+{"key":"medicinal-use"}
+{"learnedLevel":1}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-alchemy"}
+{"skillType":"passive"}
+{"slug":"medicinal-use"}
+{"subcategoryId":"craft-alchemy"}
+{"title":"Medicinal Use"}
+{"type":"page-type/temper-skill"}

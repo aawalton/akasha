@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An answer opening with yes is a yes."},{"decisionKind":"decision-kind/departure","statement":"An answer whose last line is yes alone is a yes to a caller reading the last line."},{"decisionKind":"decision-kind/departure","statement":"A caller reading the last line takes a line holding anything besides yes as no."},{"decisionKind":"decision-kind/departure","statement":"Everything that is no letter is passed over before the opening is read."},{"decisionKind":"decision-kind/departure","statement":"An answer is read whatever case the answer is written in."},{"decisionKind":"decision-kind/absence","statement":"Nothing here says what a yes means to the caller."}]}
+{"definition":"how a yes or no answer from a model is read"}
+{"id":"01a090e8-1fef-7d6a-a940-542adc23a645"}
+{"slug":"model-answer"}
+{"test":"ts"}
+{"type":"page-type/module"}

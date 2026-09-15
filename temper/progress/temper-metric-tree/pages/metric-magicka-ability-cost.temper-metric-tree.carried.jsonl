@@ -1,0 +1,8 @@
+{"displayOrder":0}
+{"id":"019e2fcd-59f1-7452-9537-bce9ab28492e"}
+{"nodeId":"magicka-ability-cost"}
+{"nodeType":"metric"}
+{"parent":"subcategory-magicka"}
+{"slug":"metric-magicka-ability-cost"}
+{"title":"Magicka Ability Cost"}
+{"type":"page-type/temper-metric-tree"}

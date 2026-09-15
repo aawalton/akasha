@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A stub answers whatever lets the data file finish loading."},{"decisionKind":"decision-kind/departure","statement":"A stub's answer is never read as game data."}]}
+{"definition":"the ESO functions LibZone's data file calls while it loads outside the game"}
+{"id":"01a06038-2cc0-7af6-bdb5-7b41393a4ae3"}
+{"slug":"zone-eso-stubs"}
+{"type":"page-type/module"}

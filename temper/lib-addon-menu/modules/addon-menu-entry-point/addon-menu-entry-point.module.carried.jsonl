@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"No code runs here beyond the import itself."},{"decisionKind":"decision-kind/constraint","statement":"The file is one line long."}]}
+{"definition":"the sole import that names the published surface"}
+{"id":"01a06100-0000-7000-8000-000000000004"}
+{"slug":"addon-menu-entry-point"}
+{"type":"page-type/module"}

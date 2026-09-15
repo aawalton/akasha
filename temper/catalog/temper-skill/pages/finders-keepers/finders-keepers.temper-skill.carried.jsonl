@@ -1,0 +1,19 @@
+{"baseName":"Finders Keepers"}
+{"description":"\"Thieves Troves are caches that are located all over Tamriel. They can only be opened by members of the Thieves Guild.\""}
+{"effects":"jsonl"}
+{"esoSkillId":74580}
+{"icon":"/esoui/art/icons/ability_thievesguild_passive_001.dds"}
+{"id":"019e6238-c2bd-7899-b7db-89380eb3e789"}
+{"isMorph":false}
+{"key":"finders-keepers"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"guild-thieves-guild"}
+{"skillType":"passive"}
+{"slug":"finders-keepers"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-thieves-guild"}
+{"title":"Finders Keepers"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,14 @@
+{"abilityId":163614}
+{"castConditions":"jsonl"}
+{"companionId":"isobel"}
+{"description":"Your Companion sends out a burst of soothing light, healing themselves or a nearby ally for $1 Health, and an additional $2 every 2 seconds for $$2 seconds as the light momentarily lingers."}
+{"icon":"/esoui/art/icons/ability_companion_templar_rushed_ceremony.dds"}
+{"id":"019e6484-386d-7b63-bd18-24844cc552a9"}
+{"key":"isobel-blessed-sacrament"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-isobel-healing-grace"}
+{"skillType":"active"}
+{"slug":"isobel-isobel-blessed-sacrament"}
+{"title":"Blessed Sacrament"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer","tank"]}

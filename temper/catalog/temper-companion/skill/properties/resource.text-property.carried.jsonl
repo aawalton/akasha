@@ -1,0 +1,8 @@
+{"definition":"the pool a companion spends to cast"}
+{"id":"01a06193-6ca1-7202-9bb6-3c173c8c26d5"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"resource"}
+{"slug":"resource"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

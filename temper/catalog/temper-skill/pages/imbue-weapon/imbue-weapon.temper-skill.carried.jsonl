@@ -1,0 +1,17 @@
+{"baseName":"Imbue Weapon"}
+{"description":"\"Infuse your weapon with power, causing your next Light Attack used within |cffffff2|r seconds to deal an additional |cffffff7269|r Physical Damage.\\n\\nIf the power is not consumed in time, you restore |cffffff1506|r Stamina.\""}
+{"esoSkillId":103483}
+{"icon":"/esoui/art/icons/ability_psijic_003.dds"}
+{"id":"019e6f53-a353-7d4e-b18e-aa361c43e328"}
+{"isMorph":false}
+{"key":"imbue-weapon"}
+{"learnedLevel":1}
+{"lineRankNeeded":3}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"guild-psijic-order"}
+{"skillType":"active"}
+{"slug":"imbue-weapon"}
+{"subcategoryId":"guild-psijic-order"}
+{"title":"Imbue Weapon"}
+{"type":"page-type/temper-skill"}

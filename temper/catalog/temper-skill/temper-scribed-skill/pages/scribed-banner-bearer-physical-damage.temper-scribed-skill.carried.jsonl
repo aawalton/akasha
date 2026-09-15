@@ -1,0 +1,19 @@
+{"baseName":"Banner Bearer"}
+{"description":"Increases Martial damage done by 6%."}
+{"esoSkillId":217699}
+{"focusScriptId":"physical-damage"}
+{"grimoireId":"banner-bearer"}
+{"icon":"/esoui/art/icons/ability_grimoire_support.dds"}
+{"id":"019e6471-159d-7dc5-b1b0-e2a913419032"}
+{"isMorph":false}
+{"key":"scribed-banner-bearer-physical-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"active"}
+{"slug":"scribed-banner-bearer-physical-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Sundering Banner"}
+{"type":"page-type/temper-scribed-skill"}

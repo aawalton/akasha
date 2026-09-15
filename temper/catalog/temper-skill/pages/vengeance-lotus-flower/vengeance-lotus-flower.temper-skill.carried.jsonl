@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Lotus Flower"}
+{"description":"\"Embrace the lotus blessing, granting you Major Mending, Prophecy, and Savagery for |cffffff20|r seconds, increasing your healing done by |cffffff16|r% and Spell and Weapon Critical rating by |cffffff2629|r.\""}
+{"esoSkillId":238067}
+{"icon":"/esoui/art/icons/ability_warden_009.dds"}
+{"id":"019e6f53-a934-7c60-8403-bc914c269094"}
+{"isMorph":false}
+{"key":"vengeance-lotus-flower"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-warden-green-balance"}
+{"skillType":"active"}
+{"slug":"vengeance-lotus-flower"}
+{"subcategoryId":"vengeance-warden-green-balance"}
+{"title":"Vengeance Lotus Flower"}
+{"type":"page-type/temper-skill"}

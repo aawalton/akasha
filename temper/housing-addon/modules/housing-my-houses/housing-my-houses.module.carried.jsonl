@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A bought house may be ported to inside or at the front door."}]}
+{"definition":"drawing a row for each house this account has bought"}
+{"id":"01a06128-d5d0-7837-b130-e565c12035cb"}
+{"slug":"housing-my-houses"}
+{"type":"page-type/module"}

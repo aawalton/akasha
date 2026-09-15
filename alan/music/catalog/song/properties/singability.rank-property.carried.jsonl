@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A singability is graded on the ladder a rank is graded on."}]}
+{"definition":"Alan's grade for how well a song sits in his own voice"}
+{"id":"01a06243-144b-700b-83e8-f1b91786511f"}
+{"propertySlug":"singability"}
+{"slug":"singability"}
+{"type":"page-type/rank-property"}
+{"types":"ts"}
+{"values":["F","D-","D","D+","C-","C","C+","B-","B","B+","A-","A","A+","S-","S","S+"]}

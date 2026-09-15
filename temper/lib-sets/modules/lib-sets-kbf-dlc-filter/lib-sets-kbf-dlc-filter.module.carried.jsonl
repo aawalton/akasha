@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter builds its own scrollable menu instead of taking the shared menu."},{"decisionKind":"decision-kind/constraint","statement":"Entries sort by name or by release date according to the saved setting."}]}
+{"definition":"the dropdown of DLCs a set can come from"}
+{"id":"01a0623e-53a1-7955-ac07-165fbac5661b"}
+{"slug":"lib-sets-kbf-dlc-filter"}
+{"type":"page-type/module"}

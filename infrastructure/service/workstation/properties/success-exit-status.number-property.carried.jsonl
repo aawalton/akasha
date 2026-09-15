@@ -1,0 +1,7 @@
+{"definition":"an exit code a unit ending on is counted as a clean stop"}
+{"id":"01a06738-9f12-724d-8c06-c1f4e4e3bc35"}
+{"max":null}
+{"propertySlug":"success-exit-status"}
+{"slug":"success-exit-status"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

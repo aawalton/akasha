@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One file has one thing eaten."},{"decisionKind":"decision-kind/departure","statement":"The day a food entry counts to is worked out from the instant that entry happened at."},{"decisionKind":"decision-kind/absence","statement":"A food entry that contributes no plants has no plant grams rather than a zero."},{"decisionKind":"decision-kind/gap","statement":"Every food entry Alan logs lands in a file."}]}
+{"definition":"one thing Alan ate, written down"}
+{"extends":["page-type/page"]}
+{"id":"01a065a3-6e8b-7516-be17-9b2737f11128"}
+{"parts":["file-property/food-entry-note","instant-property/happened-at","number-property/estimated-calories","number-property/plant-grams"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"instant-property/happened-at","required":true,"many":false},{"pageProperty":"number-property/plant-grams","required":false,"many":false},{"pageProperty":"number-property/estimated-calories","required":false,"many":false},{"pageProperty":"file-property/food-entry-note","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"food-entry"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"HealthKit hides read authorization."},{"decisionKind":"decision-kind/constraint","statement":"An app cannot infer that a read was declined."},{"decisionKind":"decision-kind/constraint","statement":"A refused read comes back empty with a valid anchor and no error as a quiet read does."},{"decisionKind":"decision-kind/departure","statement":"A read that errored hands back the error that ended it."},{"decisionKind":"decision-kind/constraint","statement":"HealthKit's store is shut while the phone is locked."},{"decisionKind":"decision-kind/departure","statement":"A shut store and a refused read are told apart by the error code alone."}]}
+{"definition":"the Swift running one anchored query page and returning its samples, anchor and error"}
+{"id":"01a0595b-ef58-76f8-9419-7a315c06c969"}
+{"shell":"sh"}
+{"slug":"alanwalton-health-anchored-read"}
+{"sourced":true}
+{"type":"page-type/shell-script"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A felt read is Alan's own rather than the persona's reading of Alan."}]}
+{"definition":"how the try landed on Alan wearing it"}
+{"extensions":["txt"]}
+{"id":"01a0685d-b81f-75fb-859d-dbff41d461c4"}
+{"propertySlug":"felt-read"}
+{"slug":"felt-read"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

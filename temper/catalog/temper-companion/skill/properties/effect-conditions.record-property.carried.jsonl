@@ -1,0 +1,7 @@
+{"definition":"what must hold for an effect to count"}
+{"id":"01a06196-037c-761a-88dd-6339c805b996"}
+{"properties":[{"pageProperty":"text-property/condition-kind","required":false,"many":false},{"pageProperty":"number-property/health-below","required":false,"many":false},{"pageProperty":"text-property/target-type","required":false,"many":false},{"pageProperty":"number-property/min-distance","required":false,"many":false},{"pageProperty":"number-property/max-distance","required":false,"many":false},{"pageProperty":"boolean-property/is-casting","required":false,"many":false},{"pageProperty":"text-property/condition-weapon-type","required":false,"many":false},{"pageProperty":"text-property/enemy-types","required":false,"many":true,"maxCount":null}]}
+{"propertySlug":"conditions"}
+{"slug":"effect-conditions"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

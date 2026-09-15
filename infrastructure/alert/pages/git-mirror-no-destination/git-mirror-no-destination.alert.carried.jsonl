@@ -1,0 +1,8 @@
+{"definition":"a repository is served with no mirror destination declared for it"}
+{"domain":"git-repos"}
+{"id":"01a06755-62f9-79f9-bca3-4f9e0f92dfb8"}
+{"runbook":"txt"}
+{"slug":"git-mirror-no-destination"}
+{"summary":"git repo {{ $labels.repo }} declares no mirror destination"}
+{"title":"Git mirror no destination"}
+{"type":"page-type/alert"}

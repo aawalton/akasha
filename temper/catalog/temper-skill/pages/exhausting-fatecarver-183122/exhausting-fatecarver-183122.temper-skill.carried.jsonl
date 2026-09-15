@@ -1,0 +1,17 @@
+{"baseName":"Fatecarver"}
+{"description":"\"Harness pure knowledge into a beam of energy that scars the world in front of you. Channel the beam for up to |cffffff4|r seconds, dealing |cffffff3229|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies and snares them by |cffffff15|r%.\\n\\nCasting Exhausting Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, duration by |cffffff0.3|r seconds, and snare by |cffffff15|r% per Crux spent.\\n\\nThis ability is considered direct damage.\""}
+{"esoSkillId":183122}
+{"icon":"/esoui/art/icons/ability_arcanist_002_a.dds"}
+{"id":"019e6f53-a1bd-78ad-b6c4-02e2a85e32fd"}
+{"isMorph":true}
+{"key":"exhausting-fatecarver-183122"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":4}
+{"skillLineId":"arcanist-herald-of-the-tome"}
+{"skillType":"active"}
+{"slug":"exhausting-fatecarver-183122"}
+{"subcategoryId":"arcanist-herald-of-the-tome"}
+{"title":"Exhausting Fatecarver"}
+{"type":"page-type/temper-skill"}

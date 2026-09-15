@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only gear already in the companion's inventory is offered."}]}
+{"definition":"which slots a companion could improve from what it already holds"}
+{"id":"01a0611d-84e0-75d4-aece-dd01e386f389"}
+{"slug":"companions-scan-upgrades"}
+{"type":"page-type/module"}

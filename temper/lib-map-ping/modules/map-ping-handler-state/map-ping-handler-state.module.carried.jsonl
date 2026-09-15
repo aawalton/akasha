@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A count below zero is clamped to zero."},{"decisionKind":"decision-kind/departure","statement":"A ping state read for the first time is taken from the game."}]}
+{"definition":"the mute, suppress and ping state one map ping key carries"}
+{"id":"01a0605f-6262-75fe-be54-df973258bb60"}
+{"slug":"map-ping-handler-state"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the `targetQuantity` condition alone."},{"decisionKind":"decision-kind/departure","statement":"A rule with the `keep-quantity` condition is offered no Target condition."},{"decisionKind":"decision-kind/departure","statement":"A rule whose action is other than `move-to` is offered no Target condition."}]}
+{"definition":"the Target condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3c00-7f25-8688-74ce5d924b58"}
+{"slug":"target-quantity-filter"}
+{"type":"page-type/module"}

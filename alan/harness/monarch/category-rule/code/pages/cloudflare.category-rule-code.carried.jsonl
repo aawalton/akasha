@@ -1,0 +1,6 @@
+{"category":"monarch-category/alans-spending"}
+{"id":"01a0655b-fcd0-7003-a7a0-b184fef44883"}
+{"matches":[{"key":"merchant","comparison":"is","values":["cloudflare"]},{"key":"sign","comparison":"is","values":["negative"]}]}
+{"slug":"cloudflare"}
+{"title":"Cloudflare"}
+{"type":"page-type/category-rule-code"}

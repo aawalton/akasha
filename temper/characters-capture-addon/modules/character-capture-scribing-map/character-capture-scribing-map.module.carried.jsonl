@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A place in this table is the number a saved build hash has."}]}
+{"definition":"each grimoire and script name against its place in a build hash"}
+{"id":"01a0616b-73d4-7812-9a51-9ac08a5b1406"}
+{"slug":"character-capture-scribing-map"}
+{"type":"page-type/module"}

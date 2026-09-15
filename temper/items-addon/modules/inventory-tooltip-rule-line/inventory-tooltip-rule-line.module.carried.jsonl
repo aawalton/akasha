@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A stocked item names what is held here and what is sent on as two lines."},{"decisionKind":"decision-kind/departure","statement":"A stocked item carrying no more than it holds names nowhere to send the rest."},{"decisionKind":"decision-kind/departure","statement":"What is sent on is reckoned by the rule the bank deposits by."}]}
+{"definition":"the tooltip line naming the rule that matched an item and what it will do"}
+{"id":"01a06258-b534-70ec-b172-fd006cbff261"}
+{"slug":"inventory-tooltip-rule-line"}
+{"type":"page-type/module"}

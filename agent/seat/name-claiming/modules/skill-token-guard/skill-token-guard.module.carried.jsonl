@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A refusal names this module by its slug rather than by its path."}]}
+{"definition":"a prompt opening with a retired slash-skill token, refused"}
+{"id":"01a06983-278f-7783-8ab5-b3999bf58fcb"}
+{"slug":"skill-token-guard"}
+{"type":"page-type/module"}

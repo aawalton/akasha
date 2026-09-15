@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The drop-down choices a player last made are kept in saved variables."}]}
+{"definition":"the drop-downs choosing a library filter, a library sort and a house sort"}
+{"id":"01a06128-d5cb-78a7-84f1-5c476624efdc"}
+{"slug":"housing-dropdowns"}
+{"type":"page-type/module"}

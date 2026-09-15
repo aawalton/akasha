@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/calendar"},{"argument":"argument/send-updates"},{"argument":"argument/summary","required":true},{"argument":"argument/start","required":true},{"argument":"argument/end","required":true},{"argument":"argument/description"},{"argument":"argument/location"},{"argument":"argument/attendees"},{"argument":"argument/timezone"},{"argument":"argument/recurrence","repeats":true}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This reaches the calendar as Alan."},{"decisionKind":"decision-kind/departure","statement":"A start and an end are both a date alone or both a timestamp."},{"decisionKind":"decision-kind/departure","statement":"A start and an end each a date alone is a whole-day event."},{"decisionKind":"decision-kind/departure","statement":"The event this answers with is reported as JSON."},{"decisionKind":"decision-kind/departure","statement":"A whole-day event's end is the day after the last day the event covers."},{"decisionKind":"decision-kind/departure","statement":"A zone is an IANA name rather than a raw offset."},{"decisionKind":"decision-kind/departure","statement":"A whole-day event has no zone."},{"decisionKind":"decision-kind/departure","statement":"A recurrence rule is said once over for each rule rather than parted by commas."},{"decisionKind":"decision-kind/departure","statement":"Everyone attending is emailed unless the call says who to email instead."},{"decisionKind":"decision-kind/departure","statement":"A call that threw after the calendar took the event says the calendar took it."}]}
+{"definition":"the command placing a new event and inviting everyone named on it"}
+{"id":"01a08cf5-d6aa-73ba-98ee-cf689f633831"}
+{"name":"create"}
+{"slug":"google-calendar-event-create"}
+{"test":"ts"}
+{"type":"page-type/command"}

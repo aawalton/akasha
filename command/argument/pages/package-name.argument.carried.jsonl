@@ -1,0 +1,7 @@
+{"id":"01a094da-f59e-7f7d-8040-c50bfd7daabb"}
+{"placeholder":"name"}
+{"said":"--package"}
+{"slug":"package-name"}
+{"takes":"a folder under `temper/` to typecheck, said once per folder"}
+{"type":"page-type/argument"}
+{"value":"text"}

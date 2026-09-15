@@ -1,0 +1,17 @@
+{"baseName":"Sun Fire"}
+{"description":"\"Blast an enemy with a charge of radiant heat, dealing |cffffff4036|r Flame Damage, and an additional |cffffff11420|r Flame Damage over |cffffff20|r seconds.\\n\\nUpon activation you gain Major Savagery and Major Prophecy for |cffffff20|r seconds, increasing your Weapon and Spell Critical rating by |cffffff2629|r.\""}
+{"esoSkillId":21726}
+{"icon":"/esoui/art/icons/ability_templar_sun_fire.dds"}
+{"id":"019e6f53-a7f2-7ff9-882e-8dbf1cd891cb"}
+{"isMorph":false}
+{"key":"sun-fire"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"templar-dawns-wrath"}
+{"skillType":"active"}
+{"slug":"sun-fire"}
+{"subcategoryId":"templar-dawns-wrath"}
+{"title":"Sun Fire"}
+{"type":"page-type/temper-skill"}

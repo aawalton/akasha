@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Wing Buffet"}
+{"description":"\"Flex your scales, reducing your damage taken from projectiles by |cffffff50|r% for |cffffff6|r seconds.\""}
+{"esoSkillId":237639}
+{"icon":"/esoui/art/icons/ability_dragonknight_008.dds"}
+{"id":"019e6f53-a9b4-764c-aef3-7ffdd13f9c4f"}
+{"isMorph":false}
+{"key":"vengeance-wing-buffet"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-dragonknight-draconic-power"}
+{"skillType":"active"}
+{"slug":"vengeance-wing-buffet"}
+{"subcategoryId":"vengeance-dragonknight-draconic-power"}
+{"title":"Vengeance Wing Buffet"}
+{"type":"page-type/temper-skill"}

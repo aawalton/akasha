@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The logger class is ready before anything that makes a logger."},{"decisionKind":"decision-kind/departure","statement":"Nothing here is exported."}]}
+{"definition":"the order the library parts are switched on in"}
+{"id":"01a06061-408f-7340-8c9c-c97f192b2642"}
+{"slug":"debug-logger-main"}
+{"type":"page-type/module"}

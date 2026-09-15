@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A metric is kept for months."},{"decisionKind":"decision-kind/departure","statement":"A metric comes largely from an instrument rather than from the thing measured."}]}
+{"definition":"a number about the system, recorded over time"}
+{"id":"01a0658b-0f02-7858-82a5-11f7915cb90f"}
+{"slug":"metric"}
+{"type":"page-type/domain"}

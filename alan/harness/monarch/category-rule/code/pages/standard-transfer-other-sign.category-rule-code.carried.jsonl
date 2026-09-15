@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcda-7003-97a1-09e9502c4e26"}
+{"matches":[{"key":"merchant","comparison":"is","values":["standard transfer"]},{"key":"account","comparison":"is","values":["Personal Profile"]},{"key":"sign","comparison":"is-not","values":["negative"]}]}
+{"slug":"standard-transfer-other-sign"}
+{"title":"Standard transfer other sign"}
+{"type":"page-type/category-rule-code"}

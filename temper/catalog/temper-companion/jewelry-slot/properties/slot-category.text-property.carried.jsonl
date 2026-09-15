@@ -1,0 +1,8 @@
+{"definition":"the group a jewelry place falls in"}
+{"id":"01a05fcd-aed0-7287-87ee-60a32ae62e26"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"slot-category"}
+{"slug":"slot-category"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

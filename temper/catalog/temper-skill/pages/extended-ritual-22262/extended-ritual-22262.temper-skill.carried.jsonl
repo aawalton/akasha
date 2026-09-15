@@ -1,0 +1,17 @@
+{"baseName":"Cleansing Ritual"}
+{"description":"\"Exalt in the sacred light of the Aedra, cleansing up to |cffffff5|r harmful effects from yourself immediately and healing you and nearby allies for |cffffff2657|r Health every |cffffff2|r seconds for |cffffff30|r seconds.\\n\\nAllies in the area can activate the Purify synergy, cleansing all harmful effects from themselves and healing for |cffffff6012|r Health.\""}
+{"esoSkillId":22262}
+{"icon":"/esoui/art/icons/ability_templar_extended_ritual.dds"}
+{"id":"019e6f53-a1d7-7cad-86de-fa56752c7ada"}
+{"isMorph":true}
+{"key":"extended-ritual-22262"}
+{"learnedLevel":1}
+{"lineRankNeeded":30}
+{"morphIndex":2}
+{"rank":30}
+{"skillLineId":"templar-restoring-light"}
+{"skillType":"active"}
+{"slug":"extended-ritual-22262"}
+{"subcategoryId":"templar-restoring-light"}
+{"title":"Extended Ritual"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Runeblades"}
+{"description":"\"Craft an Apocryphal rune before launching it at a foe, dealing |cffffff10017|r Magic Damage and generating Crux.\""}
+{"esoSkillId":238169}
+{"icon":"/esoui/art/icons/ability_arcanist_001.dds"}
+{"id":"019e6f53-a96f-74eb-8ff6-a01fb5bf6ef6"}
+{"isMorph":false}
+{"key":"vengeance-runeblades"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-arcanist-herald-of-the-tome"}
+{"skillType":"active"}
+{"slug":"vengeance-runeblades"}
+{"subcategoryId":"vengeance-arcanist-herald-of-the-tome"}
+{"title":"Vengeance Runeblades"}
+{"type":"page-type/temper-skill"}

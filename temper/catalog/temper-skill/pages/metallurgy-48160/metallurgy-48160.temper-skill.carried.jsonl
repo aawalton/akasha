@@ -1,0 +1,17 @@
+{"baseName":"Metallurgy"}
+{"description":"\"Reduces research times by 5% and allows the research of two items at once.\""}
+{"esoSkillId":48160}
+{"icon":"/esoui/art/icons/crafting_runecrafter_armor_vendor_component_002.dds"}
+{"id":"019e6f53-a480-72d6-a072-90b55022ee72"}
+{"isMorph":false}
+{"key":"metallurgy-48160"}
+{"learnedLevel":1}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":8}
+{"skillLineId":"craft-blacksmithing"}
+{"skillType":"passive"}
+{"slug":"metallurgy-48160"}
+{"subcategoryId":"craft-blacksmithing"}
+{"title":"Metallurgy"}
+{"type":"page-type/temper-skill"}

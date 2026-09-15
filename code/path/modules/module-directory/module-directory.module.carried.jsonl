@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A module says where that module is by handing in what its runtime states."},{"decisionKind":"decision-kind/departure","statement":"A folder a runtime states outright is taken before any url is read."},{"decisionKind":"decision-kind/departure","statement":"A runtime stating neither a folder nor a url leaves the folder unknown."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the disk."}]}
+{"definition":"the folder a module's own file sits in, as the runtime running it says"}
+{"id":"01a090e7-b183-7f2e-be5d-4b8f5a4f0ab2"}
+{"slug":"module-directory"}
+{"type":"page-type/module"}

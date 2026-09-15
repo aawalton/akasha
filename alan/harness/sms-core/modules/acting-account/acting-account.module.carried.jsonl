@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only the text after the last channel footer is trusted."},{"decisionKind":"decision-kind/departure","statement":"A sender quoting the footer cannot reach past the footer the channel wrote."},{"decisionKind":"decision-kind/departure","statement":"The account is answered in lower case."}]}
+{"definition":"which account a seat is acting for, read back off the surface the channel wrote"}
+{"id":"01a05b6f-999c-79d6-962f-62b580eda479"}
+{"slug":"acting-account"}
+{"test":"ts"}
+{"type":"page-type/module"}

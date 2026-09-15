@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is the runs joined in order."}]}
+{"definition":"the lore book pin places by zone, joined from its runs"}
+{"id":"01a06269-2ade-760e-a9a4-8609443a2be8"}
+{"slug":"map-pins-lorebooks"}
+{"type":"page-type/module"}

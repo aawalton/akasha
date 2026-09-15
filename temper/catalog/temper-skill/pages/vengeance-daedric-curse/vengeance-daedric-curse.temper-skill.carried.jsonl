@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Daedric Curse"}
+{"description":"\"Curse an enemy with a destructive rune, dealing |cffffff16027|r Magic Damage to the target after |cffffff6|r seconds.\\n\\nThis ability cannot be dodged.\""}
+{"esoSkillId":237876}
+{"icon":"/esoui/art/icons/ability_sorcerer_daedric_curse.dds"}
+{"id":"019e6f53-a8e0-7feb-bb73-f400a371d872"}
+{"isMorph":false}
+{"key":"vengeance-daedric-curse"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-sorcerer-daedric-summoning"}
+{"skillType":"active"}
+{"slug":"vengeance-daedric-curse"}
+{"subcategoryId":"vengeance-sorcerer-daedric-summoning"}
+{"title":"Vengeance Daedric Curse"}
+{"type":"page-type/temper-skill"}

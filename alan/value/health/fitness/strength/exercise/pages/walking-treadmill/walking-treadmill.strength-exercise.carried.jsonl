@@ -1,0 +1,27 @@
+{"equipment":"strength-exercise-implement/machine"}
+{"exerciseCategory":"cardio"}
+{"exerciseExternalId":"Walking_Treadmill"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Walking_Treadmill"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"gripDemand":"none"}
+{"id":"019ebc78-b45f-781a-aebf-78dcbe741991"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Walking_Treadmill/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Walking_Treadmill/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"conditioning"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["quadriceps"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["calves","glutes","hamstrings"]}
+{"sfrScore":3}
+{"skillCost":"low"}
+{"slug":"walking-treadmill"}
+{"title":"Walking, Treadmill"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

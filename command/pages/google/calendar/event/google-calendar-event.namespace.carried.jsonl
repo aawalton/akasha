@@ -1,0 +1,6 @@
+{"definition":"an event a calendar holds"}
+{"id":"01a08cf6-9dc4-7aa5-9293-19e026970755"}
+{"name":"event"}
+{"parts":["command/google-calendar-event-create","command/google-calendar-event-delete","command/google-calendar-event-list","command/google-calendar-event-rsvp","command/google-calendar-event-show","command/google-calendar-event-update"]}
+{"slug":"google-calendar-event"}
+{"type":"page-type/namespace"}

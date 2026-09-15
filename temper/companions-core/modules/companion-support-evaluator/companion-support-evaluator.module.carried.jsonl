@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The support damage metric is multiplied by four before that metric is returned."},{"decisionKind":"decision-kind/departure","statement":"The support score weighs toughness at one tenth of damage."},{"decisionKind":"decision-kind/gap","statement":"A stats result without a rotation yields no support metrics."}]}
+{"definition":"assembly of the three support rotation metrics from a companion stats result"}
+{"id":"01a06152-c2d7-79f1-86ad-f183166c0a7e"}
+{"slug":"companion-support-evaluator"}
+{"type":"page-type/module"}

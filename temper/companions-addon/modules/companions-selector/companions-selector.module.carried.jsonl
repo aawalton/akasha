@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The chosen companion is kept between sessions."}]}
+{"definition":"the dropdown choosing which companion every panel is showing"}
+{"id":"01a0611d-84e2-7e9e-843a-d527c9bc4f3c"}
+{"slug":"companions-selector"}
+{"type":"page-type/module"}

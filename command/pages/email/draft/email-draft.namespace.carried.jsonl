@@ -1,0 +1,6 @@
+{"definition":"a message written and not sent"}
+{"id":"01a07bbf-258e-7659-aa34-83d6be87a5d9"}
+{"name":"draft"}
+{"parts":["command/email-draft-create","command/email-draft-list"]}
+{"slug":"email-draft"}
+{"type":"page-type/namespace"}

@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"definition":"how much of the collection and everything it holds is left to work through"}
+{"holds":"number"}
+{"id":"01a07231-dd66-7218-ace3-d6ea466f60de"}
+{"propertySlug":"total-remaining"}
+{"slug":"total-remaining"}
+{"type":"page-type/computed-property"}
+{"types":"ts"}

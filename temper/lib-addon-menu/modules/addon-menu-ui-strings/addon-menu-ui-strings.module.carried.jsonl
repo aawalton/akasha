@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"No translation table exists for any other language."},{"decisionKind":"decision-kind/departure","statement":"The author label is composed from a game string rather than written out."},{"decisionKind":"decision-kind/constraint","statement":"Each string is a plain field on one exported table."}]}
+{"definition":"the English display strings of the library, written out as one table"}
+{"id":"01a06100-0000-7000-8000-000000000011"}
+{"slug":"addon-menu-ui-strings"}
+{"type":"page-type/module"}

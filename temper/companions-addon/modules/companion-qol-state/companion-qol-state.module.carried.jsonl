@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every quality-of-life module reads its settings from this one holder."}]}
+{"definition":"the one holder the companion quality-of-life code keeps its settings in"}
+{"id":"01a0611d-84cd-766a-94cc-4f86cd3cfe46"}
+{"slug":"companion-qol-state"}
+{"type":"page-type/module"}

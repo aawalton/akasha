@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Image width and height are required and are not derived from the file."},{"decisionKind":"decision-kind/absence","statement":"No value is read or written by the texture widget."},{"decisionKind":"decision-kind/departure","statement":"The image is centered in a control that grows to fit the image."}]}
+{"definition":"the fixed-size image widget of the settings panel"}
+{"id":"01a06100-0000-7000-8000-000000000028"}
+{"slug":"addon-menu-widget-texture"}
+{"type":"page-type/module"}

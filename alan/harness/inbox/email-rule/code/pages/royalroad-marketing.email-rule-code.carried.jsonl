@@ -1,0 +1,7 @@
+{"actions":["unsubscribe"]}
+{"filing":"archive"}
+{"id":"01a06860-54a2-7ed1-a11d-0ecb41f0a11d"}
+{"matches":[{"field":"from","comparison":"is","values":["noreply@royalroad.com"]}]}
+{"slug":"royalroad-marketing"}
+{"title":"Royalroad marketing"}
+{"type":"page-type/email-rule-code"}

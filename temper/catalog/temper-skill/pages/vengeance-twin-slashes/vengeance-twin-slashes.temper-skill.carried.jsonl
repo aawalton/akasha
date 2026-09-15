@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Twin Slashes"}
+{"description":"\"Slice an enemy with both weapons to cause deep lacerations, dealing |cffffff8348|r Bleed Damage and causing them to bleed for an additional |cffffff7875|r Bleed Damage over |cffffff5|r seconds.\""}
+{"esoSkillId":240590}
+{"icon":"/esoui/art/icons/ability_dualwield_001.dds"}
+{"id":"019e6f53-a9a3-7227-a0eb-8e47270c068c"}
+{"isMorph":false}
+{"key":"vengeance-twin-slashes"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"vengeance-twin-slashes"}
+{"subcategoryId":"vengeance-weapon-dual-wield"}
+{"title":"Vengeance Twin Slashes"}
+{"type":"page-type/temper-skill"}

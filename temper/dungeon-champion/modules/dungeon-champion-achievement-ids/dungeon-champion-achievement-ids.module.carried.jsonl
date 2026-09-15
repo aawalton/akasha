@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A pin refreshes only for an achievement id named here."}]}
+{"definition":"every achievement id a dungeon champion kill counts toward"}
+{"id":"01a060f9-babd-7a01-b363-d7e4b686ba3b"}
+{"slug":"dungeon-champion-achievement-ids"}
+{"type":"page-type/module"}

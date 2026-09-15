@@ -1,0 +1,9 @@
+{"effects":"jsonl"}
+{"icon":"resources/crafting_alchemy_trait_increasearmor.png"}
+{"id":"019e21f7-0f66-7ae7-8005-0e1df608a596"}
+{"isPositive":true}
+{"key":"increase-armor"}
+{"oppositeId":"fracture"}
+{"slug":"increase-armor"}
+{"title":"Increase Physical Resistance"}
+{"type":"page-type/temper-poison-effect"}

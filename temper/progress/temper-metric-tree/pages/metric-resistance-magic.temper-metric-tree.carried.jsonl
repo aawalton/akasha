@@ -1,0 +1,8 @@
+{"displayOrder":3}
+{"id":"019e2fcd-5a2c-75d8-8f96-e73db7741182"}
+{"nodeId":"resistance-magic"}
+{"nodeType":"metric"}
+{"parent":"metric-resistance-spell"}
+{"slug":"metric-resistance-magic"}
+{"title":"Resistance Magic"}
+{"type":"page-type/temper-metric-tree"}

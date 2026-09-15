@@ -1,0 +1,19 @@
+{"baseName":"Battle Rush"}
+{"description":"\"Increases your Stamina Recovery by 30% for 10 seconds after killing a target.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45448}
+{"icon":"/esoui/art/icons/ability_weapon_021.dds"}
+{"id":"019e6226-00d4-7947-bd31-ad150c9e4805"}
+{"isMorph":false}
+{"key":"battle-rush"}
+{"learnedLevel":1}
+{"lineRankNeeded":41}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"passive"}
+{"slug":"battle-rush"}
+{"status":"unsupported"}
+{"subcategoryId":"weapon-two-handed"}
+{"title":"Battle Rush"}
+{"type":"page-type/temper-skill"}

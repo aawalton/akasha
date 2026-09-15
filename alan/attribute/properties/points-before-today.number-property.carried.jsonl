@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Today's points are no part of this figure."},{"decisionKind":"decision-kind/departure","statement":"This figure and today's points together are the total."},{"decisionKind":"decision-kind/departure","statement":"A rebuild alone moves this figure on."}]}
+{"definition":"the points earned over the days before today"}
+{"id":"01a08205-3006-72d5-930b-892c6e875b17"}
+{"max":null}
+{"propertySlug":"points-before-today"}
+{"slug":"points-before-today"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

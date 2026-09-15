@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"definition":"which of the four rungs the day's wealth points reached"}
+{"holds":"number"}
+{"id":"01a0720f-c6fc-740c-a8ac-1c3dbfad2809"}
+{"propertySlug":"wealth-level"}
+{"slug":"wealth-level"}
+{"type":"page-type/computed-property"}
+{"types":"ts"}

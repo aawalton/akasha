@@ -1,0 +1,17 @@
+{"baseName":"Bone Armor"}
+{"description":"\"Wrap yourself in hardened bone, granting you Major Resolve and Minor Resolve for |cffffff20|r seconds, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r and |cffffff2974|r.\\n\\nIf cast during combat, you can cast a corpse consuming ability on yourself. This effect can occur once every |cffffff10|r seconds.\""}
+{"esoSkillId":115206}
+{"icon":"/esoui/art/icons/ability_necromancer_008.dds"}
+{"id":"019e6f53-9f6f-72a7-acdc-4243995e749e"}
+{"isMorph":false}
+{"key":"bone-armor"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"necromancer-bone-tyrant"}
+{"skillType":"active"}
+{"slug":"bone-armor"}
+{"subcategoryId":"necromancer-bone-tyrant"}
+{"title":"Bone Armor"}
+{"type":"page-type/temper-skill"}

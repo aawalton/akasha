@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/app"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The state compared is taken from origin/main in both repos."},{"decisionKind":"decision-kind/departure","statement":"A cut owed is answered as a fact rather than as a refusal."},{"decisionKind":"decision-kind/departure","statement":"Origin is fetched in both repos before anything is compared."},{"decisionKind":"decision-kind/departure","statement":"A last cut with no build-input hash leaves a cut owed."},{"decisionKind":"decision-kind/departure","statement":"No cut on record leaves a cut owed."},{"decisionKind":"decision-kind/absence","statement":"Nothing here builds or uploads or files anything."},{"decisionKind":"decision-kind/departure","statement":"A refusal names each repo origin was already fetched into."}]}
+{"definition":"the command saying whether a TestFlight cut is owed or the phones are current"}
+{"id":"01a0685d-ceae-7003-b691-5ac97b0f647a"}
+{"name":"status"}
+{"slug":"mobile-cut-status"}
+{"test":"ts"}
+{"type":"page-type/command"}

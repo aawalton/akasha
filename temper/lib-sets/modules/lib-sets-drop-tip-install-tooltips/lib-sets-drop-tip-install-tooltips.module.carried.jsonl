@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The tables are written onto the library global rather than exported."},{"decisionKind":"decision-kind/gap","statement":"An empty branch sits where the newer API version's entries would go."}]}
+{"definition":"the eight drop mechanic tooltip tables placed on the library under their language codes"}
+{"id":"01a061d6-3e42-767a-88d0-cffa37314909"}
+{"slug":"lib-sets-drop-tip-install-tooltips"}
+{"type":"page-type/module"}

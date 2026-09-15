@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Remedy Cascade"}
+{"description":"\"Channel the abyssal sea to coalesce a beam of restorative energy. The beam heals you or up to 3 allies in its path for |cffffff44976|r Health over |cffffff4.5|r seconds.\\n\\nConsume Crux to also restore |cffffff672|r Magicka and Stamina per Crux spent to your allies over |cffffff4.5|r seconds.\""}
+{"esoSkillId":238482}
+{"icon":"/esoui/art/icons/ability_arcanist_014.dds"}
+{"id":"019e6f53-a962-77ff-a81f-f8b4b7ea73e1"}
+{"isMorph":false}
+{"key":"vengeance-remedy-cascade"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-arcanist-curative-runeforms"}
+{"skillType":"active"}
+{"slug":"vengeance-remedy-cascade"}
+{"subcategoryId":"vengeance-arcanist-curative-runeforms"}
+{"title":"Vengeance Remedy Cascade"}
+{"type":"page-type/temper-skill"}

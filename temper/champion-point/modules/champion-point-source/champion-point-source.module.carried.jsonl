@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A champion star's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A champion star moved to another place breaks every build hash saved."}]}
+{"definition":"every champion star a character can earn, gathered into one table"}
+{"id":"01a06076-1b65-7228-8994-fbce92968c6f"}
+{"slug":"champion-point-source"}
+{"type":"page-type/module"}

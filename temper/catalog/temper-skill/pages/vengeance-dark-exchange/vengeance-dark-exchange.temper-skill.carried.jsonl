@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Dark Exchange"}
+{"description":"\"Bargain with darkness to restore |cffffff8160|r Health and |cffffff3600|r Magicka.\""}
+{"esoSkillId":237808}
+{"icon":"/esoui/art/icons/ability_sorcerer_dark_exchange.dds"}
+{"id":"019e6f53-a8e3-7d16-b0d8-8c06c27fd6f9"}
+{"isMorph":false}
+{"key":"vengeance-dark-exchange"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-sorcerer-dark-magic"}
+{"skillType":"active"}
+{"slug":"vengeance-dark-exchange"}
+{"subcategoryId":"vengeance-sorcerer-dark-magic"}
+{"title":"Vengeance Dark Exchange"}
+{"type":"page-type/temper-skill"}

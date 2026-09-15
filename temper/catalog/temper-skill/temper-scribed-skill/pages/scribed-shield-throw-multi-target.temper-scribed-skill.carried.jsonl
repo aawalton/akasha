@@ -1,0 +1,19 @@
+{"baseName":"Shield Throw"}
+{"description":"Deals 1045 Physical Damage to an enemy and bounces up to 2 times to random nearby enemies, dealing 1393 Physical Damage and 1742 Physical Damage."}
+{"esoSkillId":217061}
+{"focusScriptId":"multi-target"}
+{"grimoireId":"shield-throw"}
+{"icon":"/esoui/art/icons/ability_grimoire_1handed.dds"}
+{"id":"019e6471-15b7-751c-ae3d-4d690f7d56be"}
+{"isMorph":false}
+{"key":"scribed-shield-throw-multi-target"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"active"}
+{"slug":"scribed-shield-throw-multi-target"}
+{"subcategoryId":"scribed"}
+{"title":"Shattering Throw"}
+{"type":"page-type/temper-scribed-skill"}

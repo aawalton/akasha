@@ -1,0 +1,11 @@
+{"allowsTmpPaths":true}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A manifest is found by its page type rather than by its file name."},{"decisionKind":"decision-kind/departure","statement":"A manifest's resources are applied to the cluster."},{"decisionKind":"decision-kind/departure","statement":"A manifest is generated into YAML before that manifest is applied."},{"decisionKind":"decision-kind/departure","statement":"A container told to run start runs in a package stating a start script."},{"decisionKind":"decision-kind/upkeep","statement":"A manifest's checksum annotation sums a secret or config that manifest names in a decision."}]}
+{"definition":"the Kubernetes resources a thing is applied as"}
+{"extends":["page-type/domain"]}
+{"id":"01a06da1-b337-78b9-8ad3-556e6b67058e"}
+{"parts":["build-folder-property/generated-directory","code-file-property/manifest-code"]}
+{"properties":[{"pageProperty":"code-file-property/manifest-code","required":true,"many":false},{"pageProperty":"build-folder-property/generated-directory","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"manifest"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

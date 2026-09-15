@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An item with a set id above zero counts as belonging to a gear set."},{"decisionKind":"decision-kind/absence","statement":"No option names an individual gear set."},{"decisionKind":"decision-kind/absence","statement":"Nothing here narrows the server request."}]}
+{"definition":"whether an item belongs to a gear set, narrowed by an in-set or not-in-set toggle"}
+{"id":"01a0613a-e0ae-7974-b12a-1ebb5ce2d7f4"}
+{"slug":"search-set-filter"}
+{"type":"page-type/module"}

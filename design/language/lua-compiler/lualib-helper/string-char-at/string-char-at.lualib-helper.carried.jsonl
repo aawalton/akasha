@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the character text holds at a position, or empty text where there is none"}
+{"id":"01a081ed-ab46-7754-a8f3-22f0685ead07"}
+{"luaExport":"__TS__StringCharAt"}
+{"slug":"string-char-at"}
+{"type":"page-type/lualib-helper"}

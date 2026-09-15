@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here knows the thing the number this package fills out counts."},{"decisionKind":"decision-kind/departure","statement":"The width counts every character a number is written with."},{"decisionKind":"decision-kind/departure","statement":"The width is a contract rather than a courtesy."},{"decisionKind":"decision-kind/departure","statement":"A shorter answer breaks a caller that parses back the answer this package writes."}]}
+{"definition":"a number written to two characters, filled out with a leading zero"}
+{"id":"01a05c8b-6039-7947-8056-77c452128ce1"}
+{"slug":"pad-two"}
+{"type":"page-type/module"}

@@ -1,0 +1,18 @@
+{"baseName":"Catalyst"}
+{"description":"\"After drinking a potion you gain 22 Ultimate.\""}
+{"esoSkillId":45135}
+{"icon":"/esoui/art/icons/passive_sorcerer_046.dds"}
+{"id":"019e6245-a611-7515-be64-f1e3d7d0e883"}
+{"isMorph":false}
+{"key":"catalyst"}
+{"learnedLevel":18}
+{"lineRankNeeded":18}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"nightblade-siphoning"}
+{"skillType":"passive"}
+{"slug":"catalyst"}
+{"status":"unsupported"}
+{"subcategoryId":"nightblade-siphoning"}
+{"title":"Catalyst"}
+{"type":"page-type/temper-skill"}

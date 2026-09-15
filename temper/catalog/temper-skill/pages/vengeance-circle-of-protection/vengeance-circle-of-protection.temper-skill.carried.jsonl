@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Circle of Protection"}
+{"description":"\"Brand the earth at your location with a rune of protection, granting up to 3 of you and your allies Major Protection, reducing their damage taken by |cffffff10|r% for |cffffff10|r seconds.\""}
+{"esoSkillId":246071}
+{"icon":"/esoui/art/icons/ability_fightersguild_001.dds"}
+{"id":"019e6f53-a8d3-72e5-ae20-57e4422b2f1c"}
+{"isMorph":false}
+{"key":"vengeance-circle-of-protection"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-guild-fighters-guild"}
+{"skillType":"active"}
+{"slug":"vengeance-circle-of-protection"}
+{"subcategoryId":"vengeance-guild-fighters-guild"}
+{"title":"Vengeance Circle of Protection"}
+{"type":"page-type/temper-skill"}

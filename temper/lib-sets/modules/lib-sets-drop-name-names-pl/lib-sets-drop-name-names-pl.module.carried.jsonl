@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name absent here is taken from the English table."}]}
+{"definition":"the Polish name of each way a gear set drops"}
+{"id":"01a061d6-3e2a-7620-9c5f-131d729f6153"}
+{"slug":"lib-sets-drop-name-names-pl"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An older caller reaches the same measurements through the older global name."}]}
+{"definition":"the older library object an addon written against LibGPS2 reaches"}
+{"id":"01a0614d-4761-75c9-89fb-cb8e08aac1a0"}
+{"slug":"gps-compatibility"}
+{"type":"page-type/module"}

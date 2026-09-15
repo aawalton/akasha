@@ -1,0 +1,6 @@
+{"definition":"what the fleet of model accounts has spent"}
+{"id":"01a0796e-608f-717c-b6a8-4843088b5a0e"}
+{"name":"model-account"}
+{"parts":["command/measure-model-account-cost","command/measure-model-account-usage"]}
+{"slug":"measure-model-account"}
+{"type":"page-type/namespace"}

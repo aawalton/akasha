@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The grams are read from the food entries the workstation's checkout has."},{"decisionKind":"decision-kind/departure","statement":"The window counted over runs from the hour Alan rose to the hour Alan rises next."},{"decisionKind":"decision-kind/departure","statement":"Every site showing the grams is carried the grams rather than taking the grams."},{"decisionKind":"decision-kind/departure","statement":"A carry that fails to one site does not stop the carry to another site."},{"decisionKind":"decision-kind/departure","statement":"The tile shows the grams Alan's workstation last took."},{"decisionKind":"decision-kind/constraint","statement":"A day begun with nothing eaten is a reading of zero rather than no signal."}]}
+{"definition":"the whole plants Alan has eaten since he rose"}
+{"id":"01a06221-d65f-739e-9acb-74d67bbe92da"}
+{"parts":["module/plants-reading","readout/upkeep-plants","service-workstation/plants-relay-service"]}
+{"slug":"plant"}
+{"type":"page-type/domain"}

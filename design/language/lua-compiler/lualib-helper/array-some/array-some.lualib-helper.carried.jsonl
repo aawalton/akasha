@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the answer whether any element of an array passes a test"}
+{"id":"01a081ed-ab46-7b22-90bc-b9191f7a02f4"}
+{"luaExport":"__TS__ArraySome"}
+{"slug":"array-some"}
+{"type":"page-type/lualib-helper"}

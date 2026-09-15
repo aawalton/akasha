@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"the queue of craft requests, worked one at a time as each craft completes"}
+{"id":"01a06258-b536-712e-9550-52d00f78c679"}
+{"slug":"inventory-writ-crafting-queue"}
+{"type":"page-type/module"}

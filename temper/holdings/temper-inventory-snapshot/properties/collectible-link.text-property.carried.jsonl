@@ -1,0 +1,8 @@
+{"definition":"the string the game writes a collectible's whole state as"}
+{"id":"01a0675a-f185-7b9d-9714-42e1366488ae"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"collectible-link"}
+{"slug":"collectible-link"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

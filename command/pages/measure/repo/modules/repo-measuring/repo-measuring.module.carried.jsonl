@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every file the checkout has is counted."},{"decisionKind":"decision-kind/departure","statement":"A generated file is not counted."},{"decisionKind":"decision-kind/departure","statement":"A file type is the text following the last dot in a name."},{"decisionKind":"decision-kind/departure","statement":"A name with no dot is its own type."},{"decisionKind":"decision-kind/departure","statement":"A name whose only dot opens that name is its own type."},{"decisionKind":"decision-kind/departure","statement":"A file that could not be read is counted with no lines."},{"decisionKind":"decision-kind/departure","statement":"A file that could not be read is named under the total."},{"decisionKind":"decision-kind/departure","statement":"Types are ordered by how many lines each type has."},{"decisionKind":"decision-kind/departure","statement":"The total is every type counted rather than every path git listed."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes."}]}
+{"definition":"how many files of each type the checkout holds, and how many lines those files run to"}
+{"id":"01a05a0e-6376-7000-a013-86be99eb36e0"}
+{"slug":"repo-measuring"}
+{"test":"ts"}
+{"type":"page-type/module"}

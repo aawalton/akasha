@@ -1,0 +1,17 @@
+{"baseName":"Force Shock"}
+{"description":"\"Focus all the elemental energies with your staff and blast an enemy for 696 Flame Damage, 696 Frost Damage, and 696 Shock Damage.\\n\\nEnemies hit while casting are interrupted, set Off Balance, and stunned for 3 seconds.\""}
+{"esoSkillId":48971}
+{"icon":"/esoui/art/icons/ability_destructionstaff_001a.dds"}
+{"id":"019e6226-00de-7523-bff2-1f6feb729813"}
+{"isMorph":true}
+{"key":"crushing-shock"}
+{"learnedLevel":2}
+{"lineRankNeeded":2}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"crushing-shock"}
+{"subcategoryId":"weapon-destruction-staff"}
+{"title":"Crushing Shock"}
+{"type":"page-type/temper-skill"}

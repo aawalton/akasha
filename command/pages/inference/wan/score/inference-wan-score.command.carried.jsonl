@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/frames-dir","required":true},{"argument":"argument/reference","required":true},{"argument":"argument/floor"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every word this takes is a flag or a flag's value."},{"decisionKind":"decision-kind/departure","statement":"A flag this does not take is refused rather than passed over."},{"decisionKind":"decision-kind/departure","statement":"One row is answered for each frame and nothing beside those rows."},{"decisionKind":"decision-kind/departure","statement":"Each row carries its frame's cosine and whether that cosine clears the floor."},{"decisionKind":"decision-kind/departure","statement":"A reference no face is found in is answered against the data rather than the caller."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the GPU."},{"decisionKind":"decision-kind/departure","statement":"A refusal names the `:Z` relabelling podman did to the mounted directories."}]}
+{"definition":"the command measuring each frame's cosine against a reference identity"}
+{"id":"01a093fb-9d2a-7ffc-a042-a59588f4a83d"}
+{"name":"score"}
+{"slug":"inference-wan-score"}
+{"test":"ts"}
+{"type":"page-type/command"}

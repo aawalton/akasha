@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The conditions are read afresh at each ask rather than held from an earlier one."},{"decisionKind":"decision-kind/departure","statement":"A read that refuses reaches whoever asked rather than being waited out here."}]}
+{"definition":"what a seat runs under, read off the one seat-conditions page as text and flags"}
+{"id":"01a069bd-bdc5-709f-ba6f-cf8c3abe15bb"}
+{"slug":"seat-conditions-reading"}
+{"type":"page-type/module"}

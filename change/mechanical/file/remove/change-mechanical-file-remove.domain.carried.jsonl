@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This family has a rung at every file kind the add family has one at."}]}
+{"definition":"a mechanical change taking a file away"}
+{"id":"01a07cbe-1911-72dc-869f-8e733656bc1b"}
+{"parts":["change-mechanical-file/remove-file","change-mechanical-file/remove-file-page","change-mechanical/remove-file-code","change-mechanical/remove-file-of-any-kind","change-mechanical/remove-file-page-property","change-mechanical/remove-file-page-type"]}
+{"slug":"change-mechanical-file-remove"}
+{"type":"page-type/domain"}

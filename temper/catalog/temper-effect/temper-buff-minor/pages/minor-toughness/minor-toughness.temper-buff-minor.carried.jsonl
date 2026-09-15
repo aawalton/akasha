@@ -1,0 +1,7 @@
+{"description":"Increases Max Health by 10%"}
+{"effects":"jsonl"}
+{"id":"01a05fc5-f6c2-7285-b4a6-155081e13cdc"}
+{"key":"minor-toughness"}
+{"slug":"minor-toughness"}
+{"title":"Minor Toughness"}
+{"type":"page-type/temper-buff-minor"}

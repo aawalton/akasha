@@ -1,0 +1,17 @@
+{"baseName":"Executioner"}
+{"description":"\"Your Light and Heavy Attacks against enemies under 25% Health deal 50% more damage. Heavy Attacks that deal a killing blow generate 16 Ultimate.\""}
+{"esoSkillId":45048}
+{"icon":"/esoui/art/icons/passive_nightblade_006.dds"}
+{"id":"019e6245-a6db-76c3-8775-fdfb8d663148"}
+{"isMorph":false}
+{"key":"nightblade-executioner"}
+{"learnedLevel":14}
+{"lineRankNeeded":14}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"nightblade-assassination"}
+{"skillType":"passive"}
+{"slug":"nightblade-executioner"}
+{"subcategoryId":"nightblade-assassination"}
+{"title":"Executioner"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,19 @@
+{"baseName":"Syrabane's Boon"}
+{"description":"\"Increases your Max Magicka by 2000.\""}
+{"effects":"jsonl"}
+{"esoSkillId":117970}
+{"icon":"/esoui/art/icons/ability_armor_004.dds"}
+{"id":"019e624a-12e3-78b0-9135-0d98f7a6a4b4"}
+{"isMorph":false}
+{"key":"syrabanes-boon"}
+{"learnedLevel":40}
+{"lineRankNeeded":40}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"racial-high-elf-skills"}
+{"skillType":"passive"}
+{"slug":"syrabanes-boon"}
+{"status":"supported"}
+{"subcategoryId":"racial-high-elf-skills"}
+{"title":"Syrabane's Boon"}
+{"type":"page-type/temper-skill"}

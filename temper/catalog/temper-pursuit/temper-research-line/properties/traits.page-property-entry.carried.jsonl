@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A trait here is a trait a player researches on the item a line names."}]}
+{"definition":"the traits a research line covers, one trait to a line"}
+{"id":"01a0616b-2cdf-7004-88a2-5ab03de323e8"}
+{"properties":[{"pageProperty":"number-property/trait-index","required":true,"many":false},{"pageProperty":"text-property/trait-name","required":true,"many":false}]}
+{"propertySlug":"traits"}
+{"slug":"traits"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

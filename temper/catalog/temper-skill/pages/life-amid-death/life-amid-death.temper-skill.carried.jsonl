@@ -1,0 +1,17 @@
+{"baseName":"Life amid Death"}
+{"description":"\"Release residual fragments of fallen souls at the target location, healing you and your allies for |cffffff7305|r Health.\\n\\nConsumes a corpse on cast to continue to heal you and your allies in the area for |cffffff7300|r Health over |cffffff5|r seconds.\""}
+{"esoSkillId":115315}
+{"icon":"/esoui/art/icons/ability_necromancer_016.dds"}
+{"id":"019e6f53-a3e1-75ae-9417-cfc79612ead3"}
+{"isMorph":false}
+{"key":"life-amid-death"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":0}
+{"rank":20}
+{"skillLineId":"necromancer-living-death"}
+{"skillType":"active"}
+{"slug":"life-amid-death"}
+{"subcategoryId":"necromancer-living-death"}
+{"title":"Life amid Death"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the phone a trace came from."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a trace back out."},{"decisionKind":"decision-kind/absence","statement":"Nothing here keeps a location trace."}]}
+{"definition":"the shape one recorded place is carried in, and the refusal a batch of places meets"}
+{"id":"01a05bc7-9129-700a-81c5-e2dfa20709ec"}
+{"parts":["module/trace-insert","module/trace-shape"]}
+{"slug":"location-trace-access"}
+{"type":"page-type/domain"}

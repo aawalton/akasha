@@ -1,0 +1,11 @@
+{"alliance":"aldmeri-dominion"}
+{"classPassiveId":"tanlorin-spirited"}
+{"esoCompanionId":12}
+{"icon":"/esoui/art/icons/u44_companion_tanlorin.dds"}
+{"id":"01a05fcf-5920-7f59-aa2c-473354605a90"}
+{"key":"tanlorin"}
+{"passiveEffects":"jsonl"}
+{"slug":"tanlorin"}
+{"subtitle":"The Soulweaver"}
+{"title":"Tanlorin"}
+{"type":"page-type/temper-eso-companion"}

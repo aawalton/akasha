@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A target of `all` is every area there is."},{"decisionKind":"decision-kind/departure","statement":"A target closing with `-*` is every area whose slug opens with the text before the `-*`."}]}
+{"definition":"the area the authority covers"}
+{"id":"01a05430-c0f0-78db-bb0e-ea07c84713f0"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"target"}
+{"slug":"person-authority-target"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

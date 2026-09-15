@@ -1,0 +1,10 @@
+{"basePort":3000}
+{"buildCommand":"bun run build"}
+{"definition":"Alan's command center on the web"}
+{"hostnames":["alanwalton.com","webhook.alanwalton.com","sms.alanwalton.com","idle.alanwalton.com"]}
+{"id":"01a05b26-f8b6-7f72-b1d5-6cc786250efe"}
+{"secretResource":"alanwalton-secrets"}
+{"serviceClusters":["service-cluster/alanwalton-web"]}
+{"slug":"alanwalton-web"}
+{"sourceDirectory":"alan/web"}
+{"type":"page-type/web-app"}

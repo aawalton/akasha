@@ -1,0 +1,10 @@
+{"blackAt":-12}
+{"blueAt":4}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The rungs of this scale run below zero as well as above zero."},{"decisionKind":"decision-kind/departure","statement":"A reading below zero reaches a rung rather than being read as though the scale began at zero."},{"decisionKind":"decision-kind/departure","statement":"A day that has eaten into the night is read against this scale rather than another."}]}
+{"definition":"how much of a night a day has left, counted in hours"}
+{"greenAt":0}
+{"id":"01a05fc3-145a-7dca-83d9-5316786fa83c"}
+{"redAt":-8}
+{"slug":"surplus-hours"}
+{"type":"page-type/readout-scale"}
+{"yellowAt":-4}

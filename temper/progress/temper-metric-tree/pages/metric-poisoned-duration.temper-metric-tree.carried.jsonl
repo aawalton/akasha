@@ -1,0 +1,8 @@
+{"displayOrder":2}
+{"id":"019e2fcd-59ce-7fa7-a05c-55a69e9e04e1"}
+{"nodeId":"poisoned-duration"}
+{"nodeType":"metric"}
+{"parent":"subcategory-status-effects"}
+{"slug":"metric-poisoned-duration"}
+{"title":"Poisoned Duration"}
+{"type":"page-type/temper-metric-tree"}

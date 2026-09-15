@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to  the page above."}]}
+{"definition":"the page a page hangs beneath"}
+{"id":"01a05fba-ce39-70e6-a46f-4b11e5d2a508"}
+{"maxLength":200}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"parent"}
+{"slug":"parent"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

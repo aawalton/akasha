@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A widget's taps are read and written through the page store."},{"decisionKind":"decision-kind/departure","statement":"A caller with a clone of the tree has no index to find a widget's file by."},{"decisionKind":"decision-kind/departure","statement":"A tap never reaches the commit."},{"decisionKind":"decision-kind/departure","statement":"Two taps arriving together cost one tap."},{"decisionKind":"decision-kind/departure","statement":"The moment of the last tap is written beside the count."},{"decisionKind":"decision-kind/departure","statement":"A widget with no count has taken no tap."},{"decisionKind":"decision-kind/departure","statement":"The two keys a tap is counted under are named here alone."},{"decisionKind":"decision-kind/departure","statement":"A count that is no number is refused rather than read as no tap."},{"decisionKind":"decision-kind/departure","statement":"A slug no widget page has answers with nothing."},{"decisionKind":"decision-kind/absence","statement":"Nothing here decides a tap happened."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a link."},{"decisionKind":"decision-kind/gap","statement":"The round trip to the store is proved by a test."}]}
+{"definition":"the taps a widget has taken, counted through the page store"}
+{"id":"01a078a8-b96f-765d-99ff-5703d9b2edd3"}
+{"slug":"widget-tap-counting"}
+{"test":"ts"}
+{"type":"page-type/module"}

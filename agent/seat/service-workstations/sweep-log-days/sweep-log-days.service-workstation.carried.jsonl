@@ -1,0 +1,7 @@
+{"definition":"the service removing every log day past the window a log is kept for"}
+{"enabled":true}
+{"id":"01a03b2f-4e21-7000-b7c5-1d9a4e3f8a60"}
+{"slug":"sweep-log-days"}
+{"systemd":{"schedule":"daily","jitterSeconds":600,"startTimeoutSeconds":900}}
+{"told":false}
+{"type":"page-type/service-workstation"}

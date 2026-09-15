@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One line is one craft of one character."},{"decisionKind":"decision-kind/departure","statement":"A craft a character has not opened still has a line."}]}
+{"definition":"how far each character has come in each craft, one craft to a line"}
+{"id":"01a0675a-f185-75b8-8e9b-97a031246492"}
+{"properties":[{"pageProperty":"text-property/eso-character-id","required":true,"many":false},{"pageProperty":"number-property/craft-type-id","required":true,"many":false},{"pageProperty":"number-property/crafting-level","required":true,"many":false}]}
+{"propertySlug":"crafting-levels"}
+{"slug":"crafting-levels"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

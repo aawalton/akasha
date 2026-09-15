@@ -1,0 +1,11 @@
+{"description":"Grants Increase Physical Resistance, Protection, Increase Spell Resistance."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_007_type_005.dds"}
+{"id":"019e21f6-4040-729a-8efc-1b36559d376f"}
+{"key":"protection-resistance-physical-resistance-spell"}
+{"level":"CP150"}
+{"reagents":[{"names":["Beetle Scuttle","Bugloss","Mudcrab Chitin"]},{"names":["Beetle Scuttle","Clam Gall","Mudcrab Chitin"]},{"names":["Beetle Scuttle","Mudcrab Chitin","White Cap"]}]}
+{"seconds":47}
+{"slug":"protection-resistance-physical-resistance-spell"}
+{"title":"Essence of Physical Resistance"}
+{"type":"page-type/temper-potion-crafted"}

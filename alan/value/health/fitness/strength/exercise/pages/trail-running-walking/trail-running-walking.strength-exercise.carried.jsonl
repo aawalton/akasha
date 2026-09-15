@@ -1,0 +1,26 @@
+{"exerciseCategory":"cardio"}
+{"exerciseExternalId":"Trail_Running_Walking"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Trail_Running_Walking"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"gripDemand":"low"}
+{"id":"019ebc78-ab00-7f28-ba94-a656a15cbb2f"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trail_Running_Walking/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trail_Running_Walking/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"conditioning"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["quadriceps"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["calves","glutes","hamstrings"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"trail-running-walking"}
+{"title":"Trail Running/Walking"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

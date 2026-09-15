@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The guard refuses a build rather than the loading of a config."}]}
+{"definition":"the Supabase settings a client bundle reads, guarded rather than inlined"}
+{"id":"01a05c97-8af9-7918-b589-3367f4e75fba"}
+{"slug":"client-env-guard"}
+{"type":"page-type/module"}

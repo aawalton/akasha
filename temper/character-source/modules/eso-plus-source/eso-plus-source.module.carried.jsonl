@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A ESO Plus row's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A ESO Plus row moved to another place breaks every build hash saved."}]}
+{"definition":"the tenth an ESO Plus subscription adds to what a character earns"}
+{"id":"01a060ea-ac63-7845-9a82-f9f16acf19da"}
+{"slug":"eso-plus-source"}
+{"type":"page-type/module"}

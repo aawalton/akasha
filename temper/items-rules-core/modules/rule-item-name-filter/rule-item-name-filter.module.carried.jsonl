@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the `itemNamePattern` condition alone."}]}
+{"definition":"the Item Name condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3bfb-715d-9402-fe6ea7cf271f"}
+{"slug":"rule-item-name-filter"}
+{"type":"page-type/module"}

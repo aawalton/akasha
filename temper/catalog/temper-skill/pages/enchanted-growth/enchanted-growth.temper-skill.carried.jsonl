@@ -1,0 +1,17 @@
+{"baseName":"Fungal Growth"}
+{"description":"\"Seed a large area of mushrooms in front of you, healing you and your allies for 2700 Health. \\n\\nAny target healed gains Minor Intellect and Minor Endurance, increasing their Magicka and Stamina Recovery by 15% for 20 seconds.\""}
+{"esoSkillId":93774}
+{"icon":"/esoui/art/icons/ability_warden_008_b.dds"}
+{"id":"019e6245-a666-73fd-b18d-ff5a9d3618d9"}
+{"isMorph":true}
+{"key":"enchanted-growth"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"warden-green-balance"}
+{"skillType":"active"}
+{"slug":"enchanted-growth"}
+{"subcategoryId":"warden-green-balance"}
+{"title":"Enchanted Growth"}
+{"type":"page-type/temper-skill"}

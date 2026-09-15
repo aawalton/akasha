@@ -1,0 +1,17 @@
+{"baseName":"Combat Medic"}
+{"description":"\"Increases your healing done by |cffffff10|r% when you are near a Keep.\""}
+{"esoSkillId":39259}
+{"icon":"/esoui/art/icons/ability_sorcerer_045.dds"}
+{"id":"019e6f53-a004-713b-8f5b-ef7c2941065d"}
+{"isMorph":false}
+{"key":"combat-medic-39259"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":5}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"passive"}
+{"slug":"combat-medic-39259"}
+{"subcategoryId":"alliance-war-support"}
+{"title":"Combat Medic"}
+{"type":"page-type/temper-skill"}

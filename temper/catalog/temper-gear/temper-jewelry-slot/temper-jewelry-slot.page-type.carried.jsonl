@@ -1,0 +1,9 @@
+{"definition":"a place on the body a piece of jewelry is worn"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fd1-d432-7a5c-af26-2d6a3db12c15"}
+{"parts":["text-property/jewelry-type-id"]}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false},{"pageProperty":"text-property/icon","required":true,"many":false},{"pageProperty":"text-property/jewelry-type-id","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-jewelry-slot"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

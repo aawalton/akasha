@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A URL's `id` query parameter is read before the id its path has."},{"decisionKind":"decision-kind/departure","statement":"A document Google itself has is told apart by the prefix of its mime type."},{"decisionKind":"decision-kind/departure","statement":"A body Drive answers that is not binary is refused."}]}
+{"definition":"a Drive file found by id or by URL, and its bytes fetched"}
+{"id":"01a05bec-fc0c-717a-b732-43f42f2c02fb"}
+{"slug":"drive-files"}
+{"type":"page-type/module"}

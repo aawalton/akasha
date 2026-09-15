@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Each published name is fixed."},{"decisionKind":"decision-kind/constraint","statement":"The window object is made once on the first initialize event."}]}
+{"definition":"the keyboard top-level window's answers to being created, moved and resized"}
+{"id":"01a0623e-53a2-795c-a58f-b22803610c4d"}
+{"slug":"lib-sets-search-ui-keyboard-search-handlers"}
+{"type":"page-type/module"}

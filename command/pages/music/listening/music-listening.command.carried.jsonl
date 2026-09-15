@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/limit"},{"argument":"argument/window"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The four reads are what is playing now, what was played lately, and the top lists."},{"decisionKind":"decision-kind/departure","statement":"The four reads are made together rather than in turn."},{"decisionKind":"decision-kind/departure","statement":"What was played lately is capped at the fifty Spotify gives back for one page."},{"decisionKind":"decision-kind/departure","statement":"A window Spotify does not carry is refused before any call is made."},{"decisionKind":"decision-kind/departure","statement":"A short word for a window is read as the term Spotify names that window."},{"decisionKind":"decision-kind/departure","statement":"A limit of zero is read as ten rows."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a page."}]}
+{"definition":"the command reading what Alan listens to on Spotify"}
+{"id":"01a062f8-fe5a-7001-ae4a-4ede334b81af"}
+{"name":"listening"}
+{"slug":"music-listening"}
+{"test":"ts"}
+{"type":"page-type/command"}

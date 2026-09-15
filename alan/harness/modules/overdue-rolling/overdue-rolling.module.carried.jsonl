@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A task due before the day now open comes due on that day."},{"decisionKind":"decision-kind/departure","statement":"The day now open is counted from six in the morning in New York."},{"decisionKind":"decision-kind/departure","statement":"A task stating no due date is not moved."},{"decisionKind":"decision-kind/departure","statement":"A task already marked done is not moved."},{"decisionKind":"decision-kind/departure","statement":"The key saying a task is done is read from the page type moved."},{"decisionKind":"decision-kind/departure","statement":"A recurring task is moved as a task happening once is."},{"decisionKind":"decision-kind/departure","statement":"The tasks of one page type are moved in one commit."},{"decisionKind":"decision-kind/departure","statement":"The moving is done by a workstation timer rather than by a browser opening a list."},{"decisionKind":"decision-kind/absence","statement":"A page type whose due date moves on completion alone is moved nowhere here."}]}
+{"definition":"an overdue task moved onto the day now open"}
+{"id":"01a0795a-2cb4-7d47-b7d6-2b120f641fd4"}
+{"slug":"overdue-rolling"}
+{"test":"ts"}
+{"type":"page-type/module"}

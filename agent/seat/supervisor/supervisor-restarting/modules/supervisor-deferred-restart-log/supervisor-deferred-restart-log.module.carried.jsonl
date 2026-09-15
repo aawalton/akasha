@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A busy reason unchanged is repeated only once a throttle window has passed."},{"decisionKind":"decision-kind/departure","statement":"A fire while busy says the whole history of busy signals that preceded that fire."},{"decisionKind":"decision-kind/departure","statement":"Children that could not be enumerated are said as such rather than as no child."}]}
+{"definition":"what a deferred restart says while it waits and when it fires"}
+{"id":"01a0683e-3dbe-701c-bda1-241e26dc0af9"}
+{"slug":"supervisor-deferred-restart-log"}
+{"test":"ts"}
+{"type":"page-type/module"}

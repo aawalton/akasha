@@ -1,0 +1,6 @@
+{"id":"01a06863-fbe9-7521-bad8-0f83083e8cda"}
+{"judgement":"**Accept every invitation Ki Goff sends Alan, then archive it.**\n\nAccepting is reversible, so a yes given in advance commits the default and never the outcome. Jen is invited on her own address and answers for herself. A clash with his calendar goes to him."}
+{"matches":[{"field":"from","comparison":"is","values":["rkigoff@gmail.com"]}]}
+{"slug":"ki-invitations"}
+{"title":"Ki invitations"}
+{"type":"page-type/email-rule-agent"}

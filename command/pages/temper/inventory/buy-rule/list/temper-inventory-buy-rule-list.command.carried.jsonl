@@ -1,0 +1,8 @@
+{"arguments":[{"argument":"argument/json"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each rule has the quantity held now."},{"decisionKind":"decision-kind/departure","statement":"The account the quantity is read from is Alan's unless `USER_ID` names another."},{"decisionKind":"decision-kind/departure","statement":"Each rule has the shortfall against its target."}]}
+{"definition":"the command naming every buy rule beside how far short of its target it falls"}
+{"id":"01a0603c-c1d0-7e92-8585-751f1a226c8f"}
+{"name":"list"}
+{"slug":"temper-inventory-buy-rule-list"}
+{"type":"page-type/command"}

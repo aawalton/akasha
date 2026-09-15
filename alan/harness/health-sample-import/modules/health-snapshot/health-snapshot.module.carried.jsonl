@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A metric with no record is summarised as absent rather than as zero."},{"decisionKind":"decision-kind/departure","statement":"A metric counted over a day is totalled by day before the metric is summarised."},{"decisionKind":"decision-kind/absence","statement":"A snapshot writes nothing to the store."}]}
+{"definition":"a summary of what an export has, and how that summary reads"}
+{"id":"01a05c14-b11a-7001-878a-9f73d85a1b3a"}
+{"slug":"health-snapshot"}
+{"type":"page-type/module"}

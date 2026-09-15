@@ -1,0 +1,15 @@
+{"app":"ios-app/alanwalton"}
+{"caption":"Cost"}
+{"component":"ios-component/alanwalton-cost-widget"}
+{"definition":"the tile on Alan's phone showing what the block he is in costs him each hour"}
+{"families":["small"]}
+{"feed":"https://alanwalton.com/api/cost"}
+{"galleryDescription":"What an hour of the block you are in costs you."}
+{"galleryName":"Cost"}
+{"groups":["readout-group/cost"]}
+{"id":"01a08bb5-da56-760a-869f-9f74dc5bb31f"}
+{"kind":"CostWidget"}
+{"opens":"capacitor://localhost/nav/tracking-690c624f#widget=alanwalton-cost"}
+{"place":12}
+{"slug":"alanwalton-cost"}
+{"type":"page-type/readout-widget"}

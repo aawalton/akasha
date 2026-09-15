@@ -1,0 +1,17 @@
+{"baseName":"Grand Healing"}
+{"description":"\"Summon restoring spirits with your staff, healing you and your allies in the target area for |cffffff14597|r Health over |cffffff10|r seconds.\""}
+{"esoSkillId":28385}
+{"icon":"/esoui/art/icons/ability_restorationstaff_004.dds"}
+{"id":"019e6f53-a29b-7823-b3c7-60e26907800a"}
+{"isMorph":false}
+{"key":"grand-healing"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"grand-healing"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Grand Healing"}
+{"type":"page-type/temper-skill"}

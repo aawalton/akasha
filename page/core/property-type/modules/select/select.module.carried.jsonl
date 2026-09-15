@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The options a property declares are read here rather than by each reader."}]}
+{"definition":"the property type storing a single choice from a list of options"}
+{"id":"01a05b92-a9c7-7a3b-8ead-0439cf3ee357"}
+{"slug":"select"}
+{"type":"page-type/module"}

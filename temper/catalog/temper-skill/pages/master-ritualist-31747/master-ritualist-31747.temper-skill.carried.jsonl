@@ -1,0 +1,17 @@
+{"baseName":"Master Ritualist"}
+{"description":"\"Increases resurrection speed by |cffffff10|r%. \\n\\nResurrected allies return with |cffffff50|r% more Health. \\n\\nGives you a |cffffff50|r% chance to fill an empty Soul Gem after each successful resurrection.\""}
+{"esoSkillId":31747}
+{"icon":"/esoui/art/icons/ability_templar_026.dds"}
+{"id":"019e6f53-a463-7ac3-b580-faa75b08f6e5"}
+{"isMorph":false}
+{"key":"master-ritualist-31747"}
+{"learnedLevel":1}
+{"lineRankNeeded":39}
+{"morphIndex":0}
+{"rank":39}
+{"skillLineId":"templar-restoring-light"}
+{"skillType":"passive"}
+{"slug":"master-ritualist-31747"}
+{"subcategoryId":"templar-restoring-light"}
+{"title":"Master Ritualist"}
+{"type":"page-type/temper-skill"}

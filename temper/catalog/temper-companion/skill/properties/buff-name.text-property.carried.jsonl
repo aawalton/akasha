@@ -1,0 +1,8 @@
+{"definition":"the helpful effect an effect puts on whoever it lands on"}
+{"id":"01a06193-6ca5-7e1f-b411-54b1704f29e2"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"buff"}
+{"slug":"buff-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

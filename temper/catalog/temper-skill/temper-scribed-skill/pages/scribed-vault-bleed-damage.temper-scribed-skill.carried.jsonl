@@ -1,0 +1,19 @@
+{"baseName":"Vault"}
+{"description":"Deals 1742 Bleed Damage to enemies. Beneficial Signature and Affix scripts only apply to you."}
+{"esoSkillId":214960}
+{"focusScriptId":"bleed-damage"}
+{"grimoireId":"vault"}
+{"icon":"/esoui/art/icons/ability_grimoire_bow.dds"}
+{"id":"019e6471-15ec-7cdb-af64-48628132bf0c"}
+{"isMorph":false}
+{"key":"scribed-vault-bleed-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-bow"}
+{"skillType":"active"}
+{"slug":"scribed-vault-bleed-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Bloody Vault"}
+{"type":"page-type/temper-scribed-skill"}

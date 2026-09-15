@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A token is good for an hour."},{"decisionKind":"decision-kind/departure","statement":"A reader who is not signed in is refused before the medium is looked for."}]}
+{"definition":"the token a reader's browser fetches a medium with"}
+{"id":"01a0882f-3b1a-70b3-a4fd-b2024b64f672"}
+{"slug":"alan-web-api-media-token"}
+{"type":"page-type/route"}
+{"urlPath":"api/media/token"}

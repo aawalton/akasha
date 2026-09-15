@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A link of a type no addon registered is rewritten as an unknown link."}]}
+{"definition":"the custom chat links this library rewrites as a message is formatted"}
+{"id":"01a06060-0d16-7826-bea5-a5a6d3a4be60"}
+{"slug":"chat-links"}
+{"type":"page-type/module"}

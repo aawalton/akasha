@@ -1,0 +1,7 @@
+{"id":"01a09484-45c7-7bda-8655-eeb02951efec"}
+{"placeholder":"n"}
+{"said":"--fps"}
+{"slug":"fps"}
+{"takes":"the rate a clip is resampled to, every frame kept where none is said"}
+{"type":"page-type/argument"}
+{"value":"whole-number"}

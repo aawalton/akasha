@@ -1,0 +1,5 @@
+{"id":"01a0593e-da25-7703-adb2-91b00f924fc7"}
+{"pattern":"\\bcut\\b(?!\\s*[-(=<+,)])"}
+{"slug":"cut"}
+{"tabooSenses":[{"sense":"creating anything","instead":"create"}]}
+{"type":"page-type/taboo-term"}

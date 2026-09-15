@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A test names which kind of test the test is."},{"decisionKind":"decision-kind/departure","statement":"Which fields a test carries beyond its kind follows from that kind."},{"decisionKind":"decision-kind/departure","statement":"A test gathering several tests has each gathered test."},{"decisionKind":"decision-kind/constraint","statement":"A skill tested by nothing states no test rather than an empty list."}]}
+{"definition":"what must have before a companion casts a skill, one test to a line"}
+{"id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
+{"properties":[{"pageProperty":"text-property/cast-condition-type","required":true,"many":false},{"pageProperty":"number-property/health-below","required":false,"many":false},{"pageProperty":"text-property/target-type","required":false,"many":false},{"pageProperty":"number-property/min-distance","required":false,"many":false},{"pageProperty":"boolean-property/is-movable","required":false,"many":false},{"pageProperty":"text-property/enemy-types","required":false,"many":true,"maxCount":null},{"pageProperty":"record-property/effect-conditions","required":false,"many":true,"maxCount":null}]}
+{"propertySlug":"cast-conditions"}
+{"slug":"cast-conditions"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

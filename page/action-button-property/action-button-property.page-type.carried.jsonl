@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The value of such a property is the button rather than anything the page holds."}]}
+{"definition":"a page property drawn as a button running a verb over the page"}
+{"extends":["page-type/page-property"]}
+{"id":"01a0a038-58f8-77ef-9a9c-55d8f5e3d9ad"}
+{"schema":"jsonl"}
+{"shapes":"jsonl"}
+{"slug":"action-button-property"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

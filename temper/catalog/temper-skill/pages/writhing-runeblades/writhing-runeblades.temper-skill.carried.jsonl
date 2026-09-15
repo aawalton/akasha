@@ -1,0 +1,17 @@
+{"baseName":"Runeblades"}
+{"description":"\"Craft a series of Apocryphal runes before launching them at a foe, dealing 718 Magic Damage three times and generating Crux. \\n\\nThis ability gains between 1095 and 2191 Weapon and Spell Critical rating and deals 3% increased damage for each active Crux when cast.\""}
+{"esoSkillId":40185803}
+{"icon":"/esoui/art/icons/ability_arcanist_001_a.dds"}
+{"id":"019e6245-a771-7030-8707-e19040574111"}
+{"isMorph":true}
+{"key":"writhing-runeblades"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"arcanist-herald-of-the-tome"}
+{"skillType":"active"}
+{"slug":"writhing-runeblades"}
+{"subcategoryId":"arcanist-herald-of-the-tome"}
+{"title":"Writhing Runeblades"}
+{"type":"page-type/temper-skill"}

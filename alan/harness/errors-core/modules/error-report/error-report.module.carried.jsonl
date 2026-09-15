@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A report naming a key the shape does not have is refused whole."},{"decisionKind":"decision-kind/departure","statement":"Every app that may report is named here."}]}
+{"definition":"the shape a browser's account of one error must have to be taken"}
+{"id":"01a05c48-deeb-7014-9896-b95f9f374200"}
+{"slug":"error-report"}
+{"type":"page-type/module"}

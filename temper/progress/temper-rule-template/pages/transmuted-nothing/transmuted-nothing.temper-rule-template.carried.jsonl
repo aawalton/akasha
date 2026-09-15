@@ -1,0 +1,12 @@
+{"action":"temper-item-action/nothing"}
+{"active":false}
+{"categoryId":"equipment"}
+{"conditions":"jsonl"}
+{"description":"Prevents transmuted equipment from being affected by lower-priority rules. Transmuted gear represents a transmute crystal investment."}
+{"displayOrder":9}
+{"goal":"temper-rule-goal/equip"}
+{"id":"019e3104-260e-71a0-aa4a-5d2e9e076fca"}
+{"key":"transmuted-nothing"}
+{"slug":"transmuted-nothing"}
+{"title":"Protect transmuted gear"}
+{"type":"page-type/temper-rule-template"}

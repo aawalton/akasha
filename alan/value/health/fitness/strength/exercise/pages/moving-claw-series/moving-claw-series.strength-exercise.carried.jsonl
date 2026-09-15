@@ -1,0 +1,27 @@
+{"exerciseCategory":"plyometrics"}
+{"exerciseExternalId":"Moving_Claw_Series"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Moving_Claw_Series"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"gripDemand":"low"}
+{"id":"019ebc77-9cd5-75db-a57d-2851a3cef156"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Moving_Claw_Series/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Moving_Claw_Series/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":true}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"mechanic":"compound"}
+{"movementPattern":"hinge"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["hamstrings"]}
+{"scoringMode":"reps"}
+{"secondaryMuscles":["calves","quadriceps"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"moving-claw-series"}
+{"title":"Moving Claw Series"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

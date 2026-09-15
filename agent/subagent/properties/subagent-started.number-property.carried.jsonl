@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A run beginning writes the moment that run began here."},{"decisionKind":"decision-kind/departure","statement":"A moment later than the stop asked for says the run began again after that stop."},{"decisionKind":"decision-kind/departure","statement":"A page saying nothing here is taken away by the stop asked for."}]}
+{"definition":"the moment a subagent's run last began, in milliseconds"}
+{"id":"01a08e51-10e7-7934-9e6b-b8a1583bd481"}
+{"max":null}
+{"propertySlug":"started"}
+{"slug":"subagent-started"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

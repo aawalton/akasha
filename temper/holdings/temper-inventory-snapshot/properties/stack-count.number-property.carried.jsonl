@@ -1,0 +1,7 @@
+{"definition":"how many of an item a stack has"}
+{"id":"01a06053-b382-7fd6-a97a-e9ff94c0ca37"}
+{"max":null}
+{"propertySlug":"stack-count"}
+{"slug":"stack-count"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

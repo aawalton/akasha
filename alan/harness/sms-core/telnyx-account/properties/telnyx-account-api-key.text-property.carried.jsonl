@@ -1,0 +1,8 @@
+{"definition":"what authorises a send"}
+{"id":"01a06861-e7cd-71da-a17b-26badf17e332"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"api-key"}
+{"slug":"telnyx-account-api-key"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

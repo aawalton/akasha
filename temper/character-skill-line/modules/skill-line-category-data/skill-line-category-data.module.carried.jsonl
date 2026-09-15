@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This code is written out from the skill-line-category pages rather than by hand."}]}
+{"definition":"the ten groupings a skill line falls into, each with its display order"}
+{"id":"01a0608a-c135-7b53-b635-1e9c4d4ba002"}
+{"slug":"skill-line-category-data"}
+{"type":"page-type/module"}

@@ -1,0 +1,22 @@
+{"brand":"dell"}
+{"computerModel":"i3030-7738BLU-PUS"}
+{"computerStatus":"active"}
+{"cost":1070}
+{"cpu":"intel-core-i7-14700f"}
+{"cpuScore":41541}
+{"display":"dell-s3222dgm"}
+{"displayRefreshRate":"60-hz"}
+{"displayResolution":"2560x1440"}
+{"formFactor":"desktop"}
+{"gpu":"nvidia-geforce-rtx-4060"}
+{"gpuScore":19550}
+{"gpuSize":"8gb"}
+{"id":"019e8b92-3ac9-7d38-9957-fe81dda8abbb"}
+{"link":"https://www.amazon.com/Dell-Inspiron-3030-Desktop-Processor/dp/B0CYMTDD9H"}
+{"operatingSystem":"windows-11-home"}
+{"purchaseDate":"2024-09-25"}
+{"ram":"32gb"}
+{"slug":"jens-pc"}
+{"ssd":2000}
+{"title":"Jen’s PC"}
+{"type":"page-type/computer"}

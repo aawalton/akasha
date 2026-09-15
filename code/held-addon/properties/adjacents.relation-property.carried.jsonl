@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Adjacency is written as a bite meets an addon rather than mapped out up front."},{"decisionKind":"decision-kind/departure","statement":"An addon naming no adjacent here has had no bite reach past that addon."}]}
+{"definition":"the addons a bite at this addon reaches"}
+{"id":"01a0819d-cca3-7df9-8049-79ddfe74c1e3"}
+{"propertySlug":"adjacents"}
+{"slug":"adjacents"}
+{"targetPageType":"page-type/held-addon"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

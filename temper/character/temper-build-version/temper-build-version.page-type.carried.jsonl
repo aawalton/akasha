@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A version is kept so an earlier arrangement can be returned to."},{"decisionKind":"decision-kind/departure","statement":"Each version a build takes has the next version number."},{"decisionKind":"decision-kind/departure","statement":"A version with no checkpoint name was taken as the build changed."},{"decisionKind":"decision-kind/departure","statement":"Checkpoints are shown before the versions taken as the build changed."},{"decisionKind":"decision-kind/departure","statement":"A version keeps the build's name, description and roles as declared properties."}]}
+{"definition":"one saved revision of a character's build"}
+{"extends":["page-type/temper-character-thing"]}
+{"id":"019dbb6c-51c0-7b3c-b483-0a739f32d9fb"}
+{"parts":["boolean-property/is-checkpoint","number-property/version-number","text-property/build","text-property/build-hash","text-property/checkpoint-name"]}
+{"properties":[{"pageProperty":"text-property/account-page","required":true,"many":false},{"pageProperty":"text-property/build","required":true,"many":false},{"pageProperty":"number-property/version-number","required":true,"many":false},{"pageProperty":"text-property/build-hash","required":true,"many":false},{"pageProperty":"boolean-property/is-checkpoint","required":false,"many":false},{"pageProperty":"text-property/checkpoint-name","required":false,"many":false},{"pageProperty":"text-property/build-character-name","required":false,"many":false},{"pageProperty":"number-property/build-target-count","required":false,"many":false},{"pageProperty":"relation-property/character-roles","required":false,"many":true,"maxCount":null},{"pageProperty":"select-property/base-roles","required":false,"many":true,"maxCount":null}]}
+{"schema":"jsonl"}
+{"slug":"temper-build-version"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A category is numbered in a key space of its own rather than by zone."}]}
+{"definition":"a grouping the game files antiquity lore under"}
+{"extends":["page-type/temper-pursuit-thing"]}
+{"id":"01a06166-503c-7000-a696-166a5a6ce1df"}
+{"parts":["number-property/eso-antiquity-category-id","number-property/eso-antiquity-id","number-property/eso-antiquity-set-id","number-property/total-lore-entries","page-property-entry/antiquities","text-property/antiquity-name"]}
+{"properties":[{"pageProperty":"number-property/eso-antiquity-category-id","required":true,"many":false},{"pageProperty":"page-property-entry/antiquities","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-antiquity-category"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

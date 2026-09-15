@@ -1,0 +1,6 @@
+{"description":"An item's stack count must reach the item's maximum stack size where the value is `full`, and fall below that size where the value is `partial`."}
+{"id":"01a07209-6b53-718d-9f85-b9e62d85b39d"}
+{"key":"stackFullness"}
+{"slug":"stack-fullness"}
+{"title":"Stack Fullness"}
+{"type":"page-type/temper-condition-field"}

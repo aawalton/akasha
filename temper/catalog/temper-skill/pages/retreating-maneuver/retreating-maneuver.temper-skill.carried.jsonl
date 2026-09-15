@@ -1,0 +1,17 @@
+{"baseName":"Rapid Maneuver"}
+{"description":"\"Mobilize your forces, granting Major Expedition to you and your group, increasing your Movement Speed by 30% for 8 seconds.  Attacks from behind deal 15% less damage while this effect persists.\""}
+{"esoSkillId":46505}
+{"icon":"/esoui/art/icons/ability_ava_002_a.dds"}
+{"id":"019e6251-4ce0-77f4-8909-8b871112cc6e"}
+{"isMorph":true}
+{"key":"retreating-maneuver"}
+{"learnedLevel":5}
+{"lineRankNeeded":5}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"retreating-maneuver"}
+{"subcategoryId":"alliance-war-assault"}
+{"title":"Retreating Maneuver"}
+{"type":"page-type/temper-skill"}

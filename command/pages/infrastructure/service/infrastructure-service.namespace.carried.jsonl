@@ -1,0 +1,6 @@
+{"definition":"akasha's own service units, and the code one of them runs"}
+{"id":"01a0940a-15ff-7e3e-8ad9-8be0509a9a8a"}
+{"name":"service"}
+{"parts":["command/infrastructure-service-restart","command/infrastructure-service-run","command/infrastructure-service-start","command/infrastructure-service-stop","command/infrastructure-service-sweep","module/service-unit-asking"]}
+{"slug":"infrastructure-service"}
+{"type":"page-type/namespace"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An anchor is one place in one chapter rather than a date the chapter has."},{"decisionKind":"decision-kind/departure","statement":"An anchor has the words that date the anchor."},{"decisionKind":"decision-kind/departure","statement":"An anchor naming nobody who claimed that anchor is an anchor the story itself tells."},{"decisionKind":"decision-kind/gap","statement":"Every chapter a world's chronology rests on has its anchors here."}]}
+{"definition":"every place a chapter dates something, one place to a line"}
+{"id":"01a0685e-ef8a-71e6-87f4-7f7e2c65e093"}
+{"properties":[{"pageProperty":"select-property/anchor-kind","required":true,"many":false},{"pageProperty":"select-property/anchor-tier","required":true,"many":false},{"pageProperty":"text-property/anchor-lexeme","required":true,"many":false},{"pageProperty":"text-property/anchor-reference","required":true,"many":false},{"pageProperty":"select-property/anchor-standing","required":true,"many":false},{"pageProperty":"text-property/anchor-chapter","required":true,"many":false},{"pageProperty":"select-property/anchor-direction","required":false,"many":false},{"pageProperty":"text-property/anchor-claimed-by","required":false,"many":false},{"pageProperty":"number-property/anchor-volume","required":false,"many":false},{"pageProperty":"number-property/anchor-beat","required":false,"many":false}]}
+{"propertySlug":"chronology-anchors"}
+{"slug":"chronology-anchors"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Two hundred thousand free inodes is the floor unless the environment names another floor."},{"decisionKind":"decision-kind/departure","statement":"A mount reporting no inodes is left out rather than read as full."},{"decisionKind":"decision-kind/departure","statement":"A mount that cannot be read leaves the whole reading indeterminate."},{"decisionKind":"decision-kind/departure","statement":"An indeterminate reading admits rather than refuses."}]}
+{"definition":"whether the mounts have inodes enough to admit one more process"}
+{"id":"01a05c67-00ad-7fd7-8303-5ff4a8e492b2"}
+{"slug":"inode-guard"}
+{"type":"page-type/module"}

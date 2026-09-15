@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the engine's judgement of a chess position"}
+{"id":"01a08826-0167-7bf5-88aa-a9afad78bc60"}
+{"slug":"alan-web-api-chess-analyze"}
+{"type":"page-type/route"}
+{"urlPath":"api/chess/analyze"}

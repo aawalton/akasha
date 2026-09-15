@@ -1,0 +1,18 @@
+{"baseName":"Burning Light"}
+{"description":"\"When you deal damage you generate a stack of Burning Light for 3 seconds. After reaching 4 stacks, you deal 500 Magic Damage to your target. This effect can stack once every half second and scales off the higher of your Weapon or Spell Damage.\""}
+{"esoSkillId":44730}
+{"icon":"/esoui/art/icons/ability_templar_028.dds"}
+{"id":"019e6245-a60b-7d2a-a217-eb8deed6213a"}
+{"isMorph":false}
+{"key":"burning-light"}
+{"learnedLevel":1}
+{"lineRankNeeded":22}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"templar-aedric-spear"}
+{"skillType":"passive"}
+{"slug":"burning-light"}
+{"status":"unsupported"}
+{"subcategoryId":"templar-aedric-spear"}
+{"title":"Burning Light"}
+{"type":"page-type/temper-skill"}

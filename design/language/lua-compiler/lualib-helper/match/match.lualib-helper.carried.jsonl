@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"definition":"the captures a Lua pattern takes from a string, or the whole match where none"}
+{"id":"01a08c49-3797-73d9-806a-55f3cdc5bfe9"}
+{"lua50Code":"ts"}
+{"luaExport":"__TS__Match"}
+{"slug":"match"}
+{"type":"page-type/lualib-helper"}

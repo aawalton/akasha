@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An agent with no seat name has nothing waiting."},{"decisionKind":"decision-kind/departure","statement":"A message from nobody has a sender of nothing rather than an empty name."}]}
+{"definition":"the unclaimed messages waiting on an agent, each read as one comms input"}
+{"id":"01a0657d-a75e-7002-9ef2-f790d1fe2d24"}
+{"slug":"recipient-resolver-inbound"}
+{"type":"page-type/module"}

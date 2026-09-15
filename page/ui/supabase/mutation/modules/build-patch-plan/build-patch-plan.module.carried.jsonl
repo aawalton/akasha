@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A key the store has in a column of its own is set on that column."},{"decisionKind":"decision-kind/departure","statement":"Every other key is set in the attributes."}]}
+{"definition":"how one page write divides into promoted columns and a JSON patch"}
+{"id":"01a05cb4-fefa-7607-bad3-97aa6193d933"}
+{"slug":"build-patch-plan"}
+{"type":"page-type/module"}

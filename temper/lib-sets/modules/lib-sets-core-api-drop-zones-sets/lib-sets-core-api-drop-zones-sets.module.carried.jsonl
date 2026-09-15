@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"An item id whose link the game cannot name is removed from the cache for this API version."}]}
+{"definition":"which zones and named locations a set drops in, and which sets drop in a given zone"}
+{"id":"01a06231-8f1d-7d70-9ac2-92d18df83cb2"}
+{"slug":"lib-sets-core-api-drop-zones-sets"}
+{"type":"page-type/module"}

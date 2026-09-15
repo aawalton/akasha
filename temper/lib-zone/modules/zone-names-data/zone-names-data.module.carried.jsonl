@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each language has the zone names of that language alone."},{"decisionKind":"decision-kind/departure","statement":"The Japanese and Polish fall back to English once the library loads."}]}
+{"definition":"every zone's name in each language the library has"}
+{"id":"01a061e7-9328-7c3a-ad08-a89ab3827af3"}
+{"slug":"zone-names-data"}
+{"type":"page-type/module"}

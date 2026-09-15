@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A restart already armed is not armed a second time."},{"decisionKind":"decision-kind/departure","statement":"A child whose age went unread is left alone rather than restarted."},{"decisionKind":"decision-kind/departure","statement":"A child younger than the threshold is left alone."},{"decisionKind":"decision-kind/departure","statement":"A restart already deferred or an action already pending holds this restart back."},{"decisionKind":"decision-kind/absence","statement":"Nothing here restarts anything."},{"decisionKind":"decision-kind/departure","statement":"Only the arming is decided here."}]}
+{"definition":"whether to arm a restart before the session reaches its context cliff"}
+{"id":"01a06838-5a84-7003-a0ce-e7e92276f897"}
+{"slug":"supervisor-precliff-restart-decide"}
+{"test":"ts"}
+{"type":"page-type/module"}

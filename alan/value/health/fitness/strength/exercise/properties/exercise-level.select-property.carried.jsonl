@@ -1,0 +1,7 @@
+{"definition":"how much practice the movement takes before it is worth loading"}
+{"id":"01a0657e-2bbf-7f68-a4a5-f41e8a919b89"}
+{"propertySlug":"exercise-level"}
+{"slug":"exercise-level"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["beginner","expert","intermediate"]}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This table is written out from the companion pages rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"A weapon type's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A weapon type moved to another place breaks every build hash saved."}]}
+{"definition":"every weapon a companion may hold, with whether the weapon takes both hands"}
+{"id":"01a06108-0770-70cf-94b7-bd4a064ac2f6"}
+{"slug":"companion-weapon-types"}
+{"type":"page-type/module"}

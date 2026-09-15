@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Fire Rune"}
+{"description":"\"Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm, and blasts up to 3 enemies in the target area for |cffffff11760|r Flame Damage.\""}
+{"esoSkillId":246482}
+{"icon":"/esoui/art/icons/ability_mageguild_001.dds"}
+{"id":"019e6f53-a90c-791b-b45d-6681bca9d963"}
+{"isMorph":false}
+{"key":"vengeance-fire-rune"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-guild-mages-guild"}
+{"skillType":"active"}
+{"slug":"vengeance-fire-rune"}
+{"subcategoryId":"vengeance-guild-mages-guild"}
+{"title":"Vengeance Fire Rune"}
+{"type":"page-type/temper-skill"}

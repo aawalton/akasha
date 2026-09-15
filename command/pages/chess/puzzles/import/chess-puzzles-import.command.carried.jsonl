@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/limit"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The database is read a batch at a time, and each batch becomes rows."},{"decisionKind":"decision-kind/departure","statement":"A row carries an id minted when that row is written."},{"decisionKind":"decision-kind/absence","statement":"A puzzle nobody has answered is written with no answer."},{"decisionKind":"decision-kind/departure","statement":"A run writes the set again, so an answer recorded before is not kept."},{"decisionKind":"decision-kind/departure","statement":"A call naming no limit takes the count the ingest holds."},{"decisionKind":"decision-kind/departure","statement":"A limit under one refuses the call."},{"decisionKind":"decision-kind/departure","statement":"A page is written through the change working out what kind of path it is."},{"decisionKind":"decision-kind/departure","statement":"A file the set no longer fills is taken away in the same landing."},{"decisionKind":"decision-kind/departure","statement":"The writing the rows go through is handed in."},{"decisionKind":"decision-kind/departure","statement":"A run that read before it threw says in its refusal what that run had read."},{"decisionKind":"decision-kind/absence","statement":"No test here reaches the puzzle database."}]}
+{"definition":"the command streaming the Lichess puzzle database into the rows of a puzzle set"}
+{"id":"01a0a054-c910-7cde-b634-a0f85f3d49a6"}
+{"name":"import"}
+{"slug":"chess-puzzles-import"}
+{"test":"ts"}
+{"type":"page-type/command"}

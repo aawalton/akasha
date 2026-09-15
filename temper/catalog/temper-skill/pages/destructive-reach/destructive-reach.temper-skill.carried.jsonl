@@ -1,0 +1,17 @@
+{"baseName":"Destructive Touch"}
+{"description":"\"Devastate an enemy with an enhanced charge from your staff, dealing 1161 Magic Damage and an additional 3470 Magic Damage over 20 seconds.\\n\\nThe initial hit always applies the element's status effect.\""}
+{"esoSkillId":41047}
+{"icon":"/esoui/art/icons/ability_destructionstaff_005_b.dds"}
+{"id":"019e6226-00e5-79ff-b30c-29db3fd45117"}
+{"isMorph":true}
+{"key":"destructive-reach"}
+{"learnedLevel":14}
+{"lineRankNeeded":14}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"destructive-reach"}
+{"subcategoryId":"weapon-destruction-staff"}
+{"title":"Destructive Reach"}
+{"type":"page-type/temper-skill"}

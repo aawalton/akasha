@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the arc tangent Lua answers for two numbers, under whichever name it carries"}
+{"id":"01a081f7-142d-7408-b2d4-7a1080f3be01"}
+{"luaExport":"__TS__MathAtan2"}
+{"slug":"math-atan2"}
+{"type":"page-type/lualib-helper"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The agent harness reads this number as milliseconds."}]}
+{"definition":"how long a seat waits on a tool over the model context protocol before giving up"}
+{"id":"01a0687a-3d9d-7cc0-8dbb-09100312e372"}
+{"max":null}
+{"propertySlug":"tool-timeout"}
+{"slug":"tool-timeout"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

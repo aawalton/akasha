@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A picture that fails to load is replaced rather than left broken."}]}
+{"definition":"the picture that represents one piece of equipment"}
+{"id":"01a06333-1bba-7ed5-888a-b5a3ca70eacf"}
+{"slug":"equipment-icon"}
+{"type":"page-type/module"}

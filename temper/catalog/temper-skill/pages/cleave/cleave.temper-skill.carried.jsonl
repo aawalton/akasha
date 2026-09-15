@@ -1,0 +1,17 @@
+{"baseName":"Cleave"}
+{"description":"\"Focus your strength into a mighty swing, dealing |cffffff6400|r Physical Damage to enemies in front of you.\\n\\nYou also gain a damage shield that absorbs |cffffff6177|r damage for |cffffff6|r seconds.\""}
+{"esoSkillId":20919}
+{"icon":"/esoui/art/icons/ability_2handed_002.dds"}
+{"id":"019e6f53-9ff8-7a2a-a7f2-24ec39b7e91a"}
+{"isMorph":false}
+{"key":"cleave"}
+{"learnedLevel":1}
+{"lineRankNeeded":14}
+{"morphIndex":0}
+{"rank":14}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"active"}
+{"slug":"cleave"}
+{"subcategoryId":"weapon-two-handed"}
+{"title":"Cleave"}
+{"type":"page-type/temper-skill"}

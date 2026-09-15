@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the daemon set offering a node's graphics cards to the cluster as a resource"}
+{"generatedDirectory":true}
+{"id":"01a0738e-7f15-71c0-905e-3746cbb4535e"}
+{"slug":"nvidia-device-plugin"}
+{"type":"page-type/manifest"}

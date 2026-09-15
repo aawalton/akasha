@@ -1,0 +1,17 @@
+{"baseName":"Assassin's Blade"}
+{"description":"\"Throw a magic blade with lethal precision to strike an enemy, dealing |cffffff4038|r Magic Damage. Deals |cffffff330|r% more damage to enemies below |cffffff25|r% Health.\""}
+{"esoSkillId":34851}
+{"icon":"/esoui/art/icons/ability_nightblade_017_b.dds"}
+{"id":"019e6f53-a35a-70f4-81ed-cacc7525ca72"}
+{"isMorph":true}
+{"key":"impale-34851"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":2}
+{"rank":20}
+{"skillLineId":"nightblade-assassination"}
+{"skillType":"active"}
+{"slug":"impale-34851"}
+{"subcategoryId":"nightblade-assassination"}
+{"title":"Impale"}
+{"type":"page-type/temper-skill"}

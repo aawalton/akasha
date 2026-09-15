@@ -1,0 +1,19 @@
+{"baseName":"Forceful"}
+{"description":"\"Your Light and Heavy Attacks damage up to 3 other nearby enemies for 100% of the damage inflicted to the primary target.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45444}
+{"icon":"/esoui/art/icons/ability_weapon_027.dds"}
+{"id":"019e6226-00f4-7674-aba6-38a0517e570b"}
+{"isMorph":false}
+{"key":"forceful"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"passive"}
+{"slug":"forceful"}
+{"status":"unsupported"}
+{"subcategoryId":"weapon-two-handed"}
+{"title":"Forceful"}
+{"type":"page-type/temper-skill"}

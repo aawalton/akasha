@@ -1,0 +1,9 @@
+{"effects":"jsonl"}
+{"icon":"resources/crafting_poison_trait_decreasehealing.png"}
+{"id":"019e21f7-0f7c-7854-a0c1-63580dc90e94"}
+{"isPositive":false}
+{"key":"defile"}
+{"oppositeId":"vitality"}
+{"slug":"defile"}
+{"title":"Defile"}
+{"type":"page-type/temper-poison-effect"}

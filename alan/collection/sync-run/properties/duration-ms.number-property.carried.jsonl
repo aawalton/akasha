@@ -1,0 +1,7 @@
+{"definition":"how long a pull took, in milliseconds"}
+{"id":"01a06861-f664-78b6-bf59-b910c14b945d"}
+{"max":null}
+{"propertySlug":"duration-ms"}
+{"slug":"duration-ms"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

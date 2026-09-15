@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The markup loads after the compiled Lua bundle."}]}
+{"definition":"the window, table rows and tooltips the skill point finder draws into"}
+{"id":"01a062e8-bed7-7011-a36b-31903e5d6972"}
+{"loadedAs":"USPF.xml"}
+{"markup":"xml"}
+{"slug":"skill-point-finder-layout"}
+{"type":"page-type/eso-interface"}

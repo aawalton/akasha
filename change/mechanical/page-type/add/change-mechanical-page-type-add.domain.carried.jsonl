@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rung here answers the whole scope of one act in one answer."},{"decisionKind":"decision-kind/absence","statement":"No rung here takes a key away."}]}
+{"definition":"a mechanical change putting a key on one page type or on every page of it"}
+{"id":"01a09c5c-dc1b-77e2-a464-b112c07559a1"}
+{"parts":["change-mechanical-page-type/add-file-property-extensions","change-mechanical-page-type/add-page-property-types","change-mechanical-page-type/add-page-type-types","change-mechanical-page-type/add-property-to-every-page","change-mechanical-page-type/add-property-to-page-type","change-mechanical-page-type/copy-property-on-every-page"]}
+{"slug":"change-mechanical-page-type-add"}
+{"type":"page-type/domain"}

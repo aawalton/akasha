@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat whose presence cannot be established is taken as present."},{"decisionKind":"decision-kind/departure","statement":"A seat is told about at most once."},{"decisionKind":"decision-kind/departure","statement":"A later tick finding the same seat unrevivable tells nobody again."},{"decisionKind":"decision-kind/departure","statement":"Alan is told where the seat that did not come back is the harness lead itself."},{"decisionKind":"decision-kind/absence","statement":"A dry run tells nobody and marks nothing as told."}]}
+{"definition":"the effects a resolver tick calls: seat lookup, inbound reading, presence, revive and report"}
+{"id":"01a0657d-a75e-7001-8ac5-1d57805bf5ae"}
+{"slug":"recipient-resolver-deps"}
+{"type":"page-type/module"}

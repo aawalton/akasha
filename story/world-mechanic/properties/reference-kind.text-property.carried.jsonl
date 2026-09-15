@@ -1,0 +1,8 @@
+{"definition":"which kind of mechanic a naming reads as"}
+{"id":"01a06558-a991-7715-82b3-ff639c990933"}
+{"maxLength":36}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"kind"}
+{"slug":"reference-kind"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

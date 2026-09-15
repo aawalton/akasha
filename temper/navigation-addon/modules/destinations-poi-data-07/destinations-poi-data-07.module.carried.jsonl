@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The records here are one unbroken run of the table's order."},{"decisionKind":"decision-kind/departure","statement":"The run is the add-on's own source rather than a derivation."}]}
+{"definition":"one run of the keeps, the points of interest by zone and the dungeon item sets"}
+{"id":"01a06269-29ca-7f5e-96ab-973dbbd990d6"}
+{"slug":"destinations-poi-data-07"}
+{"type":"page-type/module"}

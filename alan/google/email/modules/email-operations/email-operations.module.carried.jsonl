@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The operations are loaded when a caller asks rather than at import."},{"decisionKind":"decision-kind/departure","statement":"The seven modules gathered here answer as a single object."},{"decisionKind":"decision-kind/gap","statement":"A caller reaches the operation a caller wants by the way in naming that operation."}]}
+{"definition":"the email operations of this package gathered behind one lazy load"}
+{"id":"01a0658e-2bf5-7001-a81d-b52dcc937d44"}
+{"slug":"email-operations"}
+{"type":"page-type/module"}

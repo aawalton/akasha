@@ -1,0 +1,8 @@
+{"displayOrder":5}
+{"id":"019e2fcd-5ac4-706c-82e6-df145309463e"}
+{"nodeId":"player-effective-level"}
+{"nodeType":"metric"}
+{"parent":"category-other"}
+{"slug":"metric-player-effective-level"}
+{"title":"Player Effective Level"}
+{"type":"page-type/temper-metric-tree"}

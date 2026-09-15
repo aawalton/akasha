@@ -1,0 +1,14 @@
+{"abilityId":157140}
+{"companionId":"all"}
+{"description":"Your Companion slams their staff down to create an elemental wall in front of them, dealing $1 Magic Damage over $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_destructionstaff_002.dds"}
+{"id":"019e668d-c553-7e7c-819d-0fca148827c8"}
+{"key":"shared-elemental-barricade"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"all-shared-elemental-barricade"}
+{"tags":["ground-aoe"]}
+{"title":"Elemental Barricade"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

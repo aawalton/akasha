@@ -1,0 +1,12 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-change"}
+{"changeTargetSubtype":"change-target-subtype/file-content-page-property-value"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page and a parent are named as parts rather than as paths."},{"decisionKind":"decision-kind/departure","statement":"The parent a page has now is read from the index rather than handed in."},{"decisionKind":"decision-kind/departure","statement":"A page no page names among its parts is refused."},{"decisionKind":"decision-kind/departure","statement":"That refusal names the change putting a value into a property."},{"decisionKind":"decision-kind/departure","statement":"A page more than one page names among its parts is refused."},{"decisionKind":"decision-kind/departure","statement":"That refusal names each parent."},{"decisionKind":"decision-kind/departure","statement":"A page already a part of the parent named is refused."},{"decisionKind":"decision-kind/departure","statement":"The new parent gains the spelling the old parent used."},{"decisionKind":"decision-kind/departure","statement":"A parent spelling the page among its parts more than once is refused."},{"decisionKind":"decision-kind/departure","statement":"The mechanical changes take the value out and put the value in."},{"decisionKind":"decision-kind/departure","statement":"Those changes are reached through the runner rather than by an import."},{"decisionKind":"decision-kind/departure","statement":"The mechanical answers are gathered into one answer."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."},{"decisionKind":"decision-kind/departure","statement":"A parent stating no parts gains the list rather than being refused."},{"decisionKind":"decision-kind/departure","statement":"The list is put in by the change putting a key in rather than a value."},{"decisionKind":"decision-kind/departure","statement":"The list gained is written where the pages of the parent's type write that key."}]}
+{"definition":"one page made a part of another page rather than of the page naming it now"}
+{"id":"01a08244-bf2d-7a34-9f71-759e3754a1ed"}
+{"slug":"change-domain-parent"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/change-mechanical-file-content"}

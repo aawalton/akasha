@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The quality filter also adds the selected quality numbers to the server request."},{"decisionKind":"decision-kind/departure","statement":"An empty selection matches every item."},{"decisionKind":"decision-kind/constraint","statement":"The option values are the client quality numbers 0 through 5."}]}
+{"definition":"the item quality, narrowed by a multiselect of the six quality tiers"}
+{"id":"01a0613a-e0ab-7528-b275-c36c451d9da6"}
+{"slug":"search-quality-filter"}
+{"type":"page-type/module"}

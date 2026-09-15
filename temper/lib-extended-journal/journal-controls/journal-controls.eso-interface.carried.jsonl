@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The XML loads before the Lua bundle."}]}
+{"definition":"the fonts, labels and tooltip sections the journal window is drawn from"}
+{"id":"01a0617d-544f-7967-a1b8-c193328aa344"}
+{"loadedAs":"Controls.xml"}
+{"markup":"xml"}
+{"slug":"journal-controls"}
+{"type":"page-type/eso-interface"}

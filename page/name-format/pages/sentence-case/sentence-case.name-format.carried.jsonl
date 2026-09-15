@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Only the opening capital and the single spaces parting the words are judged."},{"decisionKind":"decision-kind/gap","statement":"A proper noun cannot be told from the name."}]}
+{"definition":"a name format separating words with spaces, capitalized as a sentence is"}
+{"id":"01a04eba-7459-7eaf-808c-edc6d257bb1c"}
+{"slug":"sentence-case"}
+{"test":"ts"}
+{"type":"page-type/name-format"}

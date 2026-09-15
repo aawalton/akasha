@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This code is written out from the character pages rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"A curse's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A curse moved to another place breaks every build hash saved."}]}
+{"definition":"the curse a character has, vampire or werewolf or neither"}
+{"id":"01a060ea-ac61-790f-9c2c-5f742647198c"}
+{"slug":"curses"}
+{"type":"page-type/module"}

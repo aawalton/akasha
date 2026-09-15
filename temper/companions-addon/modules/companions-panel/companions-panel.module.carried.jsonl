@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Live rows are hidden while no companion is summoned."}]}
+{"definition":"the panel showing one companion's key and value rows"}
+{"id":"01a0611d-84de-7c65-8411-3dd9d941484a"}
+{"slug":"companions-panel"}
+{"type":"page-type/module"}

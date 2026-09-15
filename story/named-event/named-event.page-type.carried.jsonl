@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An event's own words for itself are its aliases."},{"decisionKind":"decision-kind/departure","statement":"The story names an event by any alias the event has."},{"decisionKind":"decision-kind/departure","statement":"The chapters an event spans bound every date read against that event."},{"decisionKind":"decision-kind/departure","statement":"An event names the world the event happened in."}]}
+{"definition":"something happening once in a story that its people afterwards date other things by"}
+{"extends":["page-type/page"]}
+{"id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
+{"parts":["number-property/event-first-chapter","number-property/event-last-chapter","number-property/evidence-beat","select-property/named-event-kind","text-property/event-aliases","text-property/evidence-chapter","text-property/evidence-note"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"text-property/event-aliases","required":false,"many":true,"maxCount":null},{"pageProperty":"number-property/evidence-beat","required":true,"many":false},{"pageProperty":"text-property/evidence-chapter","required":true,"many":false},{"pageProperty":"text-property/evidence-note","required":true,"many":false},{"pageProperty":"number-property/event-first-chapter","required":false,"many":false},{"pageProperty":"select-property/named-event-kind","required":true,"many":false},{"pageProperty":"number-property/event-last-chapter","required":false,"many":false},{"pageProperty":"number-property/seq","required":true,"many":false},{"pageProperty":"relation-property/world","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"named-event"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

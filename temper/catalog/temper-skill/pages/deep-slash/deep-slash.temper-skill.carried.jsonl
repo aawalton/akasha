@@ -1,0 +1,17 @@
+{"baseName":"Low Slash"}
+{"description":"\"Surprise an enemy with a sweeping lunge, dealing 1799 Physical Damage to them and other nearby enemies, afflicting them with Minor Maim, reducing their damage done by 5% for 15 seconds.\\n\\nEnemies hit also have their Movement Speed reduced by 30% for 4 seconds.\""}
+{"esoSkillId":41403}
+{"icon":"/esoui/art/icons/ability_1handed_001_b.dds"}
+{"id":"019e6226-00e1-795f-966b-c0b5d4009510"}
+{"isMorph":true}
+{"key":"deep-slash"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"active"}
+{"slug":"deep-slash"}
+{"subcategoryId":"weapon-one-hand-and-shield"}
+{"title":"Deep Slash"}
+{"type":"page-type/temper-skill"}

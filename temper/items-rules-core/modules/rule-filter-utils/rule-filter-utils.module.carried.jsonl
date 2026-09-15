@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A threshold named by key is shown beside the number the key resolves to."},{"decisionKind":"decision-kind/departure","statement":"A category is judged by the roots above the category rather than by the category id."}]}
+{"definition":"the two readings every condition filter shares, of a threshold and of a category's roots"}
+{"id":"01a06100-3bfa-7c59-bbd4-bfdee7444bab"}
+{"slug":"rule-filter-utils"}
+{"type":"page-type/module"}

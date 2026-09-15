@@ -1,0 +1,7 @@
+{"definition":"how much memory it carries"}
+{"id":"01a0658c-329a-7300-b922-064842704482"}
+{"propertySlug":"ram"}
+{"slug":"ram"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["64gb","16gb","32gb","12gb"]}

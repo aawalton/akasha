@@ -1,0 +1,14 @@
+{"collection":"location-collection/starving-student-card"}
+{"dealKey":"ssc:restaurants:village-inn:buy-an-entree-get-a-slice-of-pie-free"}
+{"finePrint":"Provo"}
+{"id":"019f322c-ab79-7cee-92c0-53eeb8302fec"}
+{"locations":["location/village-inn-provo"]}
+{"offerText":"Buy an Entree, Get a Slice of Pie FREE!"}
+{"offerType":"free"}
+{"section":"Restaurants"}
+{"slug":"restaurants-village-inn-buy-an-entree-get-a-slice-of-pie-free"}
+{"struckOut":false}
+{"title":"Village Inn — Buy an Entree, Get a Slice of Pie FREE!"}
+{"type":"page-type/location-deal"}
+{"useLimit":"3"}
+{"usesUsed":0}

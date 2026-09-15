@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A field is named as the mail has that field rather than as its own page is slugged."},{"decisionKind":"decision-kind/departure","statement":"Every field here has text."},{"decisionKind":"decision-kind/departure","statement":"Every field takes the same comparisons."},{"decisionKind":"decision-kind/departure","statement":"A field the mail offers sits here whether or not a rule names that field yet."}]}
+{"definition":"what about a piece of mail a clause tests"}
+{"id":"01a06860-549f-7cea-a615-3d15b6c3ddce"}
+{"propertySlug":"field"}
+{"slug":"email-rule-match-field"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["from","to","subject","list"]}

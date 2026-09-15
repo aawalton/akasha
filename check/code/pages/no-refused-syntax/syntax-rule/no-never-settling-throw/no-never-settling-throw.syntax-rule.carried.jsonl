@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only a promise built where that promise is thrown is judged."},{"decisionKind":"decision-kind/departure","statement":"An executor taking no parameter can never settle."},{"decisionKind":"decision-kind/departure","statement":"An executor naming a parameter that executor never reads can never settle."},{"decisionKind":"decision-kind/departure","statement":"An executor whose parameters are not all plain names is left."},{"decisionKind":"decision-kind/departure","statement":"A Promise reached through any object is read as a promise."}]}
+{"definition":"the rule refusing a thrown promise whose executor can never reach resolve or reject"}
+{"id":"01a082d0-eb31-7c7b-922a-bfc7e90577a2"}
+{"slug":"no-never-settling-throw"}
+{"test":"ts"}
+{"type":"page-type/syntax-rule"}

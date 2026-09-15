@@ -1,0 +1,17 @@
+{"baseName":"Resin Expertise"}
+{"description":"\"More than doubles the chances to improve items with resins.\""}
+{"esoSkillId":48177}
+{"icon":"/esoui/art/icons/ability_tradecraft_001.dds"}
+{"id":"019e6224-ccab-7fcd-8779-a90561505b59"}
+{"isMorph":false}
+{"key":"resin-expertise"}
+{"learnedLevel":1}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-woodworking"}
+{"skillType":"passive"}
+{"slug":"resin-expertise"}
+{"subcategoryId":"craft-woodworking"}
+{"title":"Resin Expertise"}
+{"type":"page-type/temper-skill"}

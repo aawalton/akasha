@@ -1,0 +1,7 @@
+{"allowsTmpPaths":true}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The job runs on a node with at least the stated usable video memory."},{"decisionKind":"decision-kind/departure","statement":"The job is never retried."},{"decisionKind":"decision-kind/departure","statement":"A failure is read rather than hidden by a second attempt."},{"decisionKind":"decision-kind/departure","statement":"The weights are cached on the node rather than fetched for each job."},{"decisionKind":"decision-kind/departure","statement":"The image comes in and goes out through the object store rather than through the job's arguments."}]}
+{"definition":"the cluster job one image is upscaled by on a GPU node"}
+{"id":"01a073af-4669-7130-ac05-5cb2a15a6313"}
+{"slug":"upscale-serving-job"}
+{"type":"page-type/module"}

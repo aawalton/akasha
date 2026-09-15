@@ -1,0 +1,11 @@
+{"containerPort":9999}
+{"definition":"the server that issues and refuses the tokens a person is known by"}
+{"id":"01a06812-2380-7106-9c4f-27bad81011ae"}
+{"image":"supabase/auth:v2.188.1"}
+{"manifest":["manifest/gotrue"]}
+{"namespace":"gotrue"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"gotrue"}
+{"slug":"gotrue"}
+{"type":"page-type/service-cluster"}

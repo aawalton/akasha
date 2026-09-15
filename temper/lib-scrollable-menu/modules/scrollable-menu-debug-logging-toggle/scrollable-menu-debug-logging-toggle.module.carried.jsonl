@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The toggle loads the logger on first use rather than at library load."},{"decisionKind":"decision-kind/constraint","statement":"Verbose logging is reported only while plain debugging is on."},{"decisionKind":"decision-kind/absence","statement":"The toggle persists nothing across sessions."}]}
+{"definition":"the flip of the debug and verbose-debug switches on the library debug table"}
+{"id":"01a06275-c447-7d33-a40a-ab1f81aa2b8b"}
+{"slug":"scrollable-menu-debug-logging-toggle"}
+{"type":"page-type/module"}

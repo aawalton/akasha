@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every row's stamp in the trusted window is asked of Monarch and compared with our copy's watermark."},{"decisionKind":"decision-kind/departure","statement":"Only the rows whose stamp has moved are fetched again."},{"decisionKind":"decision-kind/departure","statement":"A minute in which nothing changed costs one call."},{"decisionKind":"decision-kind/absence","statement":"No account is fetched on this path."},{"decisionKind":"decision-kind/departure","statement":"A row naming an account this mirror has not landed is left alone and waits for the daily full run."},{"decisionKind":"decision-kind/departure","statement":"A row naming a category this mirror has not landed keeps the category that row has."},{"decisionKind":"decision-kind/departure","statement":"A row Monarch no longer lists is retired."},{"decisionKind":"decision-kind/departure","statement":"Retirement is judged against the window that was fetched rather than against a single missing id."}]}
+{"definition":"the Monarch rows whose update stamp has moved landed into our copy"}
+{"id":"01a0686a-7a57-7bb9-b422-97270e0fa807"}
+{"slug":"transaction-polling"}
+{"type":"page-type/module"}

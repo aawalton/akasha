@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the page types a reader's browser asks for"}
+{"id":"01a0882c-7e31-7f1b-8bfc-3838aa1845d3"}
+{"slug":"alan-web-api-page-types"}
+{"type":"page-type/route"}
+{"urlPath":"api/page-types"}

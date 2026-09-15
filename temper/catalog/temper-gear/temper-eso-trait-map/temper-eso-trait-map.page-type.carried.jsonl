@@ -1,0 +1,9 @@
+{"definition":"the number the game has for one trait on one kind of piece"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fd1-d431-71e8-91f5-9767d9744dc3"}
+{"parts":["number-property/eso-trait-num","text-property/trait-family","text-property/trait-id"]}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false},{"pageProperty":"text-property/trait-family","required":true,"many":false},{"pageProperty":"text-property/trait-id","required":true,"many":false},{"pageProperty":"number-property/eso-trait-num","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-eso-trait-map"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

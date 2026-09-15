@@ -1,0 +1,19 @@
+{"baseName":"Intricate Runeforms"}
+{"description":"\"Your status as illuminatus reduces the cost and increases the strength of your damage shields by 10%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":185195}
+{"icon":"/esoui/art/icons/passive_arcanist_12.dds"}
+{"id":"019e6245-a6b5-7561-b409-1aeae5fde458"}
+{"isMorph":false}
+{"key":"intricate-runeforms"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"arcanist-curative-runeforms"}
+{"skillType":"passive"}
+{"slug":"intricate-runeforms"}
+{"status":"partially-supported"}
+{"subcategoryId":"arcanist-curative-runeforms"}
+{"title":"Intricate Runeforms"}
+{"type":"page-type/temper-skill"}

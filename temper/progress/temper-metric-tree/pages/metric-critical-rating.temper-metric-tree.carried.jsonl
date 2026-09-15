@@ -1,0 +1,9 @@
+{"displayOrder":3}
+{"id":"019e2fcd-597b-7fa6-9bb4-cfc4646bc4f9"}
+{"includeInChildAggregates":true}
+{"nodeId":"critical-rating"}
+{"nodeType":"metric"}
+{"parent":"subcategory-critical-damage"}
+{"slug":"metric-critical-rating"}
+{"title":"Critical Rating"}
+{"type":"page-type/temper-metric-tree"}

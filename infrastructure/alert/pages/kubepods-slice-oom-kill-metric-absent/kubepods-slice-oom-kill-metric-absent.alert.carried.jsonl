@@ -1,0 +1,8 @@
+{"definition":"nothing is reporting out-of-memory kills in the kubepods cgroup slice"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fa-72b8-b8f2-d882da3e6c54"}
+{"runbook":"txt"}
+{"slug":"kubepods-slice-oom-kill-metric-absent"}
+{"summary":"Kubepods slice-OOM tripwire series is absent — the tripwire is blind"}
+{"title":"Kubepods slice OOM kill metric absent"}
+{"type":"page-type/alert"}

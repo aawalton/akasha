@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the first element of an array that passes a test"}
+{"id":"01a081e7-49c9-7cb3-9938-3449e24ed867"}
+{"luaExport":"__TS__ArrayFind"}
+{"slug":"array-find"}
+{"type":"page-type/lualib-helper"}

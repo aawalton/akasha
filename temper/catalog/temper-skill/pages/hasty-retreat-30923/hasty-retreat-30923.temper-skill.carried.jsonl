@@ -1,0 +1,17 @@
+{"baseName":"Hasty Retreat"}
+{"description":"\"Grants you Major Expedition for |cffffff2|r seconds after you use Roll Dodge.\\n\\nMajor Expedition increases your Movement Speed by |cffffff30|r%.\""}
+{"esoSkillId":30923}
+{"icon":"/esoui/art/icons/ability_dragonknight_029.dds"}
+{"id":"019e6f53-a2d8-7ec6-9990-ab419c7498e5"}
+{"isMorph":false}
+{"key":"hasty-retreat-30923"}
+{"learnedLevel":1}
+{"lineRankNeeded":41}
+{"morphIndex":0}
+{"rank":41}
+{"skillLineId":"weapon-bow"}
+{"skillType":"passive"}
+{"slug":"hasty-retreat-30923"}
+{"subcategoryId":"weapon-bow"}
+{"title":"Hasty Retreat"}
+{"type":"page-type/temper-skill"}

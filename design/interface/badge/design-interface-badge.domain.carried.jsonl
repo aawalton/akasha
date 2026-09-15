@@ -1,0 +1,5 @@
+{"definition":"the badges a browser draws a short value in"}
+{"id":"01a05b55-a539-766c-98d3-a4d3e2fc6c4b"}
+{"parts":["module/badge","module/badge-layout-context","module/badge-toggle-group","module/button-badge","module/checkbox-badge","module/date-badge","module/empty-badge","module/input-badge","module/instant-badge","module/json-badge","module/link-badge","module/number-badge","module/time-badge","module/url-badge"]}
+{"slug":"design-interface-badge"}
+{"type":"page-type/domain"}

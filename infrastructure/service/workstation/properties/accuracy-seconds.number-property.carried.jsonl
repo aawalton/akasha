@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A wider window lets a timer's run fall together with another timer's."}]}
+{"definition":"how far from its scheduled time a timer's run may be started"}
+{"id":"01a06738-9f12-7dcb-b57a-122407b359b5"}
+{"max":null}
+{"propertySlug":"accuracy-seconds"}
+{"slug":"accuracy-seconds"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

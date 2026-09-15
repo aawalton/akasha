@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The first account key beginning with an at sign supplies the characters."},{"decisionKind":"decision-kind/departure","statement":"A character with no build hash is left out."},{"decisionKind":"decision-kind/departure","statement":"A character with no name is named for the game's number for that character."},{"decisionKind":"decision-kind/departure","statement":"A build hash that will not decode is skipped and the rest are still imported."},{"decisionKind":"decision-kind/departure","statement":"A tree with fewer than four slotted champion stars is filled out with its own no-star."},{"decisionKind":"decision-kind/departure","statement":"A skill line the catalog does not name is dropped before the hash is re-encoded."},{"decisionKind":"decision-kind/departure","statement":"Every imported character is re-encoded as having no ESO Plus."},{"decisionKind":"decision-kind/constraint","statement":"The account page is upserted before any character page."},{"decisionKind":"decision-kind/departure","statement":"A saved-variables file naming no character writes no page."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a file."}]}
+{"definition":"the characters a saved-variables file holds, re-encoded onto account character pages"}
+{"id":"01a06381-35cf-7a07-8865-e71df4fc233b"}
+{"slug":"watcher-import-characters"}
+{"test":"ts"}
+{"type":"page-type/module"}

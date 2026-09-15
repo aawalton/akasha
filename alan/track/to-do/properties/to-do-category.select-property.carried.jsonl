@@ -1,0 +1,7 @@
+{"definition":"the list a to-do is filed under in the app"}
+{"id":"01a065a1-49b7-7818-8c36-a35dbf94fcc6"}
+{"propertySlug":"to-do-category"}
+{"slug":"to-do-category"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["faith","health","inbox","love","wealth"]}

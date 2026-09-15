@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A turn has the prose one exchange of play made."},{"decisionKind":"decision-kind/departure","statement":"A turn is part of the one story the turn was played in."},{"decisionKind":"decision-kind/departure","statement":"A turn's slug opens with the story the turn is part of."},{"decisionKind":"decision-kind/gap","statement":"A turn's text is kept here alone rather than also in a game's rows."}]}
+{"definition":"one exchange of a story nobody wrote"}
+{"extends":["page-type/collection"]}
+{"id":"01a064bc-8477-7bac-98ec-152da07077ce"}
+{"properties":[{"pageProperty":"file-property/prose","required":true,"many":false}]}
+{"runsTabooCheck":false}
+{"schema":"jsonl"}
+{"slug":"story-turn-played"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

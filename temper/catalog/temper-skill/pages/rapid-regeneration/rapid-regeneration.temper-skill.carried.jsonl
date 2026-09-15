@@ -1,0 +1,17 @@
+{"baseName":"Regeneration"}
+{"description":"\"Share your staff's life-giving energy, healing you or a nearby ally for 3594 Health over 5 seconds.\\n\\nThe healing increases by up to 50% more on targets under 100% Health.\""}
+{"esoSkillId":41276}
+{"icon":"/esoui/art/icons/ability_restorationstaff_002b.dds"}
+{"id":"019e6226-010a-7b8e-9236-42d4c2df11ad"}
+{"isMorph":true}
+{"key":"rapid-regeneration"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"rapid-regeneration"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Rapid Regeneration"}
+{"type":"page-type/temper-skill"}

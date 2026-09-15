@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A control's change is written as the one value that control names."},{"decisionKind":"decision-kind/departure","statement":"A sort is written as the field and the direction together."},{"decisionKind":"decision-kind/departure","statement":"The field a sort is by is a value handed in rather than a set named here."}]}
+{"definition":"the handler a search box or a sort control hands its change to"}
+{"id":"01a090ec-d6a6-7001-9492-6e84f3f7dfe4"}
+{"slug":"filter-changing"}
+{"type":"page-type/module"}

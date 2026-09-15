@@ -1,0 +1,17 @@
+{"baseName":"Dark Talons"}
+{"description":"\"Call forth talons from the ground, dealing |cffffff6611|r Flame Damage to enemies near you, an additional |cffffff5375|r Flame Damage over |cffffff5|r seconds, and immobilizing them for |cffffff4|r seconds. \\n\\nAn ally near the talons can activate the Ignite synergy, dealing |cffffff10328|r Flame Damage to all enemies held within them.\""}
+{"esoSkillId":20252}
+{"icon":"/esoui/art/icons/ability_dragonknight_010_b.dds"}
+{"id":"019e6f53-9fa4-7c4b-bf88-824e2c4486b5"}
+{"isMorph":true}
+{"key":"burning-talons-20252"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":4}
+{"skillLineId":"dragonknight-draconic-power"}
+{"skillType":"active"}
+{"slug":"burning-talons-20252"}
+{"subcategoryId":"dragonknight-draconic-power"}
+{"title":"Burning Talons"}
+{"type":"page-type/temper-skill"}

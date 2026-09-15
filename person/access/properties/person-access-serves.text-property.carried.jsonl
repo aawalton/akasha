@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A target serves a page type only where that target is a person's own copy of that page type."},{"decisionKind":"decision-kind/stopgap","statement":"No page type served by a target exists as a page."},{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a page type."}]}
+{"definition":"the shared page type the target represents"}
+{"id":"01a05430-c0ef-7fbe-8836-045d9e351ad7"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"serves"}
+{"slug":"person-access-serves"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

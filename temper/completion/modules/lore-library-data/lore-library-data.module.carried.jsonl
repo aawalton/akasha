@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This table is captured from the game rather than written by hand."},{"decisionKind":"decision-kind/constraint","statement":"The game's report order sets a book's place in this table."},{"decisionKind":"decision-kind/gap","statement":"A book moved to another place drifts from the index the game has."}]}
+{"definition":"every Mages Guild lore book, under the collection and the category that have it"}
+{"id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
+{"slug":"lore-library-data"}
+{"type":"page-type/module"}

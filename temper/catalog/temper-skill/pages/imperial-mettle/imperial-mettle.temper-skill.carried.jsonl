@@ -1,0 +1,19 @@
+{"baseName":"Imperial Mettle"}
+{"description":"\"Increases your Max Stamina by 2000.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45280}
+{"icon":"/esoui/art/icons/ability_dragonknight_021.dds"}
+{"id":"019e624a-12cd-79af-8e9a-a879c4c9ea14"}
+{"isMorph":false}
+{"key":"imperial-mettle"}
+{"learnedLevel":40}
+{"lineRankNeeded":40}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"racial-imperial-skills"}
+{"skillType":"passive"}
+{"slug":"imperial-mettle"}
+{"status":"supported"}
+{"subcategoryId":"racial-imperial-skills"}
+{"title":"Imperial Mettle"}
+{"type":"page-type/temper-skill"}

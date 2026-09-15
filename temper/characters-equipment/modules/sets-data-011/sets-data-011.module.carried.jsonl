@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The sets are named here in the order the gathered table answers its ids in."},{"decisionKind":"decision-kind/gap","statement":"A set moved to another place breaks every build hash saved."}]}
+{"definition":"part 011 of the gear set table, battalion-defender through belharzas-band"}
+{"id":"01a0619f-59e7-723e-82ae-4decdc9c6fc4"}
+{"slug":"sets-data-011"}
+{"type":"page-type/module"}

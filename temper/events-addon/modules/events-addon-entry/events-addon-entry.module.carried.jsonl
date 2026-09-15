@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Nothing here runs before the game says this add-on has loaded."}]}
+{"definition":"where the transpiler starts this add-on's one Lua file"}
+{"id":"01a06157-835b-7e24-b78f-3cc7b42cbcf1"}
+{"slug":"events-addon-entry"}
+{"type":"page-type/module"}

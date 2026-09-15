@@ -1,0 +1,12 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/destroy"}
+{"active":true}
+{"categoryId":"food"}
+{"conditions":"jsonl"}
+{"description":"Spine step 6, food parallel to drink (Alan 2026-07-05: food and drink parallel)."}
+{"displayOrder":82}
+{"id":"01a0728a-d6fd-7737-87c7-04ad0183a259"}
+{"slug":"rule-0b8c6920"}
+{"title":"Destroy unsellable low food"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-07-05T13:32:43.766Z"}

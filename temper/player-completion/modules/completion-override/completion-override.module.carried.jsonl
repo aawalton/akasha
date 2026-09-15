@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here runs."}]}
+{"definition":"a floor a player sets by hand under one item of one completion card"}
+{"id":"01a06103-061b-7457-afea-60b18bad59f0"}
+{"slug":"completion-override"}
+{"type":"page-type/module"}

@@ -1,0 +1,19 @@
+{"baseName":"Ulfsild's Contingency"}
+{"description":"Deals 958 Magic Damage to enemies and immobilizes them for 4 seconds. Beneficial Signature and Affix scripts only apply to you."}
+{"esoSkillId":240148}
+{"focusScriptId":"immobilize"}
+{"grimoireId":"ulfsilds-contingency"}
+{"icon":"/esoui/art/icons/ability_grimoire_magesguild.dds"}
+{"id":"019e6471-15e8-7ffd-b9dc-cb84443835ba"}
+{"isMorph":false}
+{"key":"scribed-ulfsilds-contingency-immobilize"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"guild-mages-guild"}
+{"skillType":"active"}
+{"slug":"scribed-ulfsilds-contingency-immobilize"}
+{"subcategoryId":"scribed"}
+{"title":"Binding Contingency"}
+{"type":"page-type/temper-scribed-skill"}

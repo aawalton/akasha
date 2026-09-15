@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"one promise answering with whichever of many settles first"}
+{"id":"01a08c59-57c2-7527-b475-90166b8a3bda"}
+{"luaExport":"__TS__PromiseRace"}
+{"slug":"promise-race"}
+{"type":"page-type/lualib-helper"}

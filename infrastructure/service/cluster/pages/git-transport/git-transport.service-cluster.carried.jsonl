@@ -1,0 +1,11 @@
+{"containerPort":3000}
+{"definition":"what serves the repositories over the network"}
+{"id":"01a06816-2f11-7fe0-b5a2-6c9518d6f0c3"}
+{"image":"registry.registry.svc.cluster.local:5000/cluster/bun-git:latest"}
+{"manifest":["manifest/git-transport-manifests"]}
+{"namespace":"git"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"git-transport"}
+{"slug":"git-transport"}
+{"type":"page-type/service-cluster"}

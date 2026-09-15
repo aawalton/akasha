@@ -1,0 +1,17 @@
+{"baseName":"Radial Sweep"}
+{"description":"\"Swing your Aedric spear around with holy vengeance, dealing |cffffff8814|r Physical Damage to all nearby enemies and an additional |cffffff4038|r Physical Damage every |cffffff2|r seconds for |cffffff10|r seconds. The duration is extended by |cffffff2|r seconds for each enemy hit.\""}
+{"esoSkillId":22144}
+{"icon":"/esoui/art/icons/ability_templar_empowering_sweep.dds"}
+{"id":"019e6f53-a1ab-7dcb-9943-6e8216aaeb87"}
+{"isMorph":true}
+{"key":"everlasting-sweep-22144"}
+{"learnedLevel":1}
+{"lineRankNeeded":12}
+{"morphIndex":1}
+{"rank":12}
+{"skillLineId":"templar-aedric-spear"}
+{"skillType":"ultimate"}
+{"slug":"everlasting-sweep-22144"}
+{"subcategoryId":"templar-aedric-spear"}
+{"title":"Everlasting Sweep"}
+{"type":"page-type/temper-skill"}

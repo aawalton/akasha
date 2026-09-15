@@ -1,0 +1,18 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"completionCardId":"cadwells-almanac"}
+{"displayOrder":13}
+{"dueDate":"2026-09-16"}
+{"effectiveCharacter":"belavierr"}
+{"esoCharacterId":"8796093041077613"}
+{"id":"019db533-f381-7609-8205-f9904634be23"}
+{"lastCompletedAt":"2026-08-19T14:32:40.000Z"}
+{"priority":"p3"}
+{"progress":"jsonl"}
+{"progressCurrent":1536}
+{"progressTotal":1560}
+{"rruleAnchorFromCompletion":false}
+{"rruleRule":"FREQ=DAILY"}
+{"scope":"next_character"}
+{"slug":"cadwell-s-almanac"}
+{"title":"Cadwell's Almanac"}
+{"type":"page-type/temper-task"}

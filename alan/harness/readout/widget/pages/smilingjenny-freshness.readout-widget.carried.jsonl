@@ -1,0 +1,12 @@
+{"app":"ios-app/smilingjenny"}
+{"caption":"Freshness"}
+{"component":"ios-component/freshness-widget"}
+{"definition":"the tile on Jenny's phone saying how old the oldest reading her tiles hold is"}
+{"families":["small"]}
+{"galleryDescription":"How old the oldest reading on your tiles is. Tap to refresh them all."}
+{"galleryName":"Freshness"}
+{"id":"01a09b02-9b2b-7eee-a50d-8964f7922df5"}
+{"kind":"FreshnessWidget"}
+{"place":6}
+{"slug":"smilingjenny-freshness"}
+{"type":"page-type/readout-widget"}

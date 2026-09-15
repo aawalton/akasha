@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A Python module's code is in a file beside the page."},{"decisionKind":"decision-kind/departure","statement":"Python runs where a Python runtime sits rather than where TypeScript runs."},{"decisionKind":"decision-kind/departure","statement":"A Python module reaches its siblings by the name a sibling has where that module runs."},{"decisionKind":"decision-kind/departure","statement":"A carry taking a Python module to where that module runs states the name that module lands under."},{"decisionKind":"decision-kind/absence","statement":"Nothing in akasha imports a Python module."}]}
+{"definition":"code in the Python language"}
+{"extends":["page-type/domain"]}
+{"id":"01a06815-9efd-7001-8696-539b1123a2c0"}
+{"parts":["build-folder-property/bytecode-directory","code-file-property/python"]}
+{"properties":[{"pageProperty":"code-file-property/python","required":true,"many":false},{"pageProperty":"build-folder-property/bytecode-directory","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"python-module"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the function calling another with arguments already given to it"}
+{"id":"01a081f7-142d-77df-a909-6f5bff7f4aea"}
+{"luaExport":"__TS__FunctionBind"}
+{"slug":"function-bind"}
+{"type":"page-type/lualib-helper"}

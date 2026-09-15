@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This code is written out from an upstream library file rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"An entry's place in this list is the place the library tab shows that entry in."},{"decisionKind":"decision-kind/gap","statement":"An entry moved to another place moves the entry every library row shows."}]}
+{"definition":"the European community library, gathered from its six parts in turn"}
+{"id":"01a06113-b7ce-77ca-bda6-f521aa196130"}
+{"slug":"housing-library-data-eu"}
+{"type":"page-type/module"}

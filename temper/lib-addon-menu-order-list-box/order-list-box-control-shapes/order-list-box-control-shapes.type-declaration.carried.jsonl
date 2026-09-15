@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name here is the game's own or another library's and is never renamed."},{"decisionKind":"decision-kind/departure","statement":"A name the shared game types already declare is left out of this file."},{"decisionKind":"decision-kind/absence","statement":"A compiler emits nothing from this file."}]}
+{"definition":"the control and dialog shapes this widget builds that the shared game types leave out"}
+{"id":"01a06207-bdf0-718b-9625-7685969b57ec"}
+{"slug":"order-list-box-control-shapes"}
+{"type":"page-type/type-declaration"}

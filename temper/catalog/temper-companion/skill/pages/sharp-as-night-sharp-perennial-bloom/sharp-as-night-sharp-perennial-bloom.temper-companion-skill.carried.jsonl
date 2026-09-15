@@ -1,0 +1,14 @@
+{"abilityId":186602}
+{"castConditions":"jsonl"}
+{"companionId":"sharp-as-night"}
+{"description":"Your Companion summons a field of blooming flowers, healing you and nearby allies for $1 Health every 2 seconds over $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_warden_healingseed.dds"}
+{"id":"019e6484-389a-7844-81b6-ab0e6c0b23e5"}
+{"key":"sharp-perennial-bloom"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-sharp-as-night-verdant-growth"}
+{"skillType":"active"}
+{"slug":"sharp-as-night-sharp-perennial-bloom"}
+{"title":"Perennial Bloom"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer"]}

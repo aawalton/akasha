@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The checkout is found by walking up from this script to the folder holding akasha's own page."},{"decisionKind":"decision-kind/absence","statement":"No count of folders is written between this script and that root."}]}
+{"definition":"where this checkout is, exported to the shell that sourced this"}
+{"id":"01a0691b-4f65-7e5d-ad7c-a9523f441291"}
+{"shell":"sh"}
+{"slug":"repo-roots"}
+{"sourced":true}
+{"type":"page-type/shell-script"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A refresh returns a numeric code saying which of the two menus was redrawn."},{"decisionKind":"decision-kind/departure","statement":"The main-menu redraw is deferred by fifteen milliseconds through zo_callLater."},{"decisionKind":"decision-kind/departure","statement":"An open context menu is raised back to the top after any refresh."},{"decisionKind":"decision-kind/constraint","statement":"A hidden combobox dropdown is never refreshed."}]}
+{"definition":"the refresh of the current list or the open submenu after an entry changes"}
+{"id":"01a06275-c448-78f2-b90c-8003eddf1e5a"}
+{"slug":"scrollable-menu-dropdown-class-refresh"}
+{"type":"page-type/module"}

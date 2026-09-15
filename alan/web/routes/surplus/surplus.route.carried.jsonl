@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The group of readings served is the one thing named here."},{"decisionKind":"decision-kind/departure","statement":"The readouts the group has are read off the readout pages."},{"decisionKind":"decision-kind/departure","statement":"A readout's label is read off that readout's page."},{"decisionKind":"decision-kind/departure","statement":"A readout's scale is read off that readout's page."},{"decisionKind":"decision-kind/departure","statement":"A reading's color is the rung that reading reaches on the scale."},{"decisionKind":"decision-kind/departure","statement":"The surplus is Alan's sleep less the cost of Alan's day so far."},{"decisionKind":"decision-kind/departure","statement":"The surplus lives in tracking rows no pod can see."},{"decisionKind":"decision-kind/departure","statement":"The reading is carried in rather than taken here."},{"decisionKind":"decision-kind/departure","statement":"A group with nothing carried in answers a stoplight with no figure."},{"decisionKind":"decision-kind/departure","statement":"An empty figure keeps hours Alan does not have off the ring."},{"decisionKind":"decision-kind/departure","statement":"Only a group no readout is left in answers 503."}]}
+{"definition":"Alan's surplus as the color the hours left in his night reach"}
+{"id":"01a07c5c-cffc-7e06-993e-f7b533204f65"}
+{"slug":"surplus"}
+{"test":"ts"}
+{"type":"page-type/route"}
+{"urlPath":"api/surplus"}

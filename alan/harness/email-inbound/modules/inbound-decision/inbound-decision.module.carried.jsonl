@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A message on a persona channel from anyone but the watched account is discarded."},{"decisionKind":"decision-kind/departure","statement":"A message on no persona channel is surfaced."}]}
+{"definition":"what becomes of an arriving email"}
+{"id":"01a05bcd-25e4-7b6c-9b1e-0ebb793da0e0"}
+{"slug":"inbound-decision"}
+{"type":"page-type/module"}

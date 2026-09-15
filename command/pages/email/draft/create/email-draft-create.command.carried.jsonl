@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/to-address","required":true,"repeats":true},{"argument":"argument/subject-file","notWith":["argument/subject"],"oneOf":["argument/subject"]},{"argument":"argument/body-file","notWith":["argument/body"],"oneOf":["argument/body"]},{"argument":"argument/subject"},{"argument":"argument/body"},{"argument":"argument/thread"},{"argument":"argument/reply-to-message"},{"argument":"argument/send-as"},{"argument":"argument/cc","repeats":true},{"argument":"argument/bcc","repeats":true},{"argument":"argument/attach","repeats":true}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A draft is composed from the flags a send is composed from."},{"decisionKind":"decision-kind/departure","statement":"A subject or a body said both inline and in a file is refused."},{"decisionKind":"decision-kind/departure","statement":"`-` names standard input for one flag at most."},{"decisionKind":"decision-kind/departure","statement":"A draft comes back as its own id, its message's id and that message's thread."},{"decisionKind":"decision-kind/departure","statement":"A create that threw after Gmail took the draft says Gmail holds it."},{"decisionKind":"decision-kind/absence","statement":"Nothing here sends the draft."},{"decisionKind":"decision-kind/absence","statement":"Nothing here takes a draft back."},{"decisionKind":"decision-kind/departure","statement":"Every draft names a subject here or at `--subject-file`."},{"decisionKind":"decision-kind/departure","statement":"Every draft names a body here or at `--body-file`."}]}
+{"definition":"the command writing one Gmail draft from the flags a send takes, unsent"}
+{"id":"01a06810-cf11-70dc-9875-5c649a88fe59"}
+{"name":"create"}
+{"slug":"email-draft-create"}
+{"test":"ts"}
+{"type":"page-type/command"}

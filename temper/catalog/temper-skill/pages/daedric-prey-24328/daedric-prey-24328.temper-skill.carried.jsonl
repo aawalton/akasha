@@ -1,0 +1,17 @@
+{"baseName":"Daedric Curse"}
+{"description":"\"Curse an enemy with a destructive rune, dealing |cffffff10668|r Magic Damage to the target and all other nearby enemies after |cffffff6|r seconds.\\n\\nWhile the curse is active, your Daedric Summoning pets prioritize the target and deal an additional |cffffff50|r% damage to them.\\n\\nYou can have only one Daedric Prey active at a time.\""}
+{"esoSkillId":24328}
+{"icon":"/esoui/art/icons/ability_sorcerer_explosive_curse.dds"}
+{"id":"019e6f53-a062-7179-b57f-0eb8f2342e3d"}
+{"isMorph":true}
+{"key":"daedric-prey-24328"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":4}
+{"skillLineId":"sorcerer-daedric-summoning"}
+{"skillType":"active"}
+{"slug":"daedric-prey-24328"}
+{"subcategoryId":"sorcerer-daedric-summoning"}
+{"title":"Daedric Prey"}
+{"type":"page-type/temper-skill"}

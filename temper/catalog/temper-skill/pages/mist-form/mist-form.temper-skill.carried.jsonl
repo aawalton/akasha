@@ -1,0 +1,17 @@
+{"baseName":"Mist Form"}
+{"description":"\"Disperse into a dark mist, causing the next |cffffff3|r projectiles to deal no damage to you for |cffffff1|r second while you dash forward and reappear at your target location after a short duration.\\n\\nCasting again within |cffffff4|r seconds costs |cffffff33|r% more Magicka.\""}
+{"esoSkillId":32986}
+{"icon":"/esoui/art/icons/ability_u26_vampire_05.dds"}
+{"id":"019e6f53-a48e-75cf-8b82-c3930a52319f"}
+{"isMorph":false}
+{"key":"mist-form"}
+{"learnedLevel":1}
+{"lineRankNeeded":9}
+{"morphIndex":0}
+{"rank":9}
+{"skillLineId":"world-vampire"}
+{"skillType":"active"}
+{"slug":"mist-form"}
+{"subcategoryId":"world-vampire"}
+{"title":"Mist Form"}
+{"type":"page-type/temper-skill"}

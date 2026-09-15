@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Reading a chapter here and telling the source so are two moments."},{"decisionKind":"decision-kind/departure","statement":"A collection whose source was never told states no moment of telling."}]}
+{"definition":"when the source a collection was read from was told the collection had been read"}
+{"id":"01a06860-cb0c-7346-bb65-3d5bb4069535"}
+{"propertySlug":"marked-read-at"}
+{"slug":"marked-read-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

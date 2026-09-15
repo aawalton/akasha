@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The source folders copied in are the ones the app's entry files reach."}]}
+{"definition":"the Dockerfile a Next.js app is built from"}
+{"id":"01a06865-abff-7007-901d-2dddbd9755b3"}
+{"slug":"dockerfile-nextjs"}
+{"type":"page-type/module"}

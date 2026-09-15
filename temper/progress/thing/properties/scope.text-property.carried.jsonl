@@ -1,0 +1,8 @@
+{"definition":"how widely a task reaches across an account"}
+{"id":"01a05fc6-81fe-702d-b91e-6a8fb0278170"}
+{"maxLength":20}
+{"nameFormat":"name-format/lower-snake-case"}
+{"propertySlug":"scope"}
+{"slug":"scope"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

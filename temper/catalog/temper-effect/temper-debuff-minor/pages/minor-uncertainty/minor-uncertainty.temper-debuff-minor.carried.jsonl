@@ -1,0 +1,7 @@
+{"description":"Reduces Critical Rating by 1314"}
+{"effects":"jsonl"}
+{"id":"01a05fc6-42c5-7c98-ae4c-e7753e521c32"}
+{"key":"minor-uncertainty"}
+{"slug":"minor-uncertainty"}
+{"title":"Minor Uncertainty"}
+{"type":"page-type/temper-debuff-minor"}

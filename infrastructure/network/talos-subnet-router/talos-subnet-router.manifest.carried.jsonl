@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the deployment carrying private network traffic to the cluster nodes' addresses"}
+{"generatedDirectory":true}
+{"id":"01a07390-b294-7b97-9afc-77a5b8ae3f76"}
+{"slug":"talos-subnet-router"}
+{"type":"page-type/manifest"}

@@ -1,0 +1,17 @@
+{"baseName":"Nature's Grasp"}
+{"description":"\"Launch a vine to swing yourself to an ally, healing you and them for |cffffff11316|r Health over |cffffff10|r seconds. Gain |cffffff3|r Ultimate when either of these effects complete while you are in combat.\""}
+{"esoSkillId":85858}
+{"icon":"/esoui/art/icons/ability_warden_011_b.dds"}
+{"id":"019e6f53-a4ac-7de0-b0b0-62f5f33d3947"}
+{"isMorph":true}
+{"key":"nature-s-embrace"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":2}
+{"rank":42}
+{"skillLineId":"warden-green-balance"}
+{"skillType":"active"}
+{"slug":"nature-s-embrace"}
+{"subcategoryId":"warden-green-balance"}
+{"title":"Nature's Embrace"}
+{"type":"page-type/temper-skill"}

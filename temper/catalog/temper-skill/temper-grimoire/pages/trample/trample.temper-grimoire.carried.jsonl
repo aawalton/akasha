@@ -1,0 +1,13 @@
+{"abilityIcon":"/esoui/art/icons/ability_grimoire_assault.dds"}
+{"affixScripts":"jsonl"}
+{"focusScripts":["dispel","disease-damage","frost-damage","knockback","magic-damage","physical-damage","stun","trauma"]}
+{"icon":"/esoui/art/icons/item_grimoire_assault.dds"}
+{"id":"01a05fce-2958-799a-a288-3c90f810712c"}
+{"itemId":204495}
+{"key":"trample"}
+{"signatureScripts":"jsonl"}
+{"skillLineId":"alliance-war-assault"}
+{"slug":"trample"}
+{"title":"Trample"}
+{"type":"page-type/temper-grimoire"}
+{"uespId":11}

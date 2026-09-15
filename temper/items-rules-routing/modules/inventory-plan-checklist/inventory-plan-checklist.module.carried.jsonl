@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A checklist follows the plan's stops in the order the stops are visited."}]}
+{"definition":"a management plan written out as a checklist a player reads while playing"}
+{"id":"01a0615a-a1dd-7b58-b123-f480b766aed5"}
+{"slug":"inventory-plan-checklist"}
+{"type":"page-type/module"}

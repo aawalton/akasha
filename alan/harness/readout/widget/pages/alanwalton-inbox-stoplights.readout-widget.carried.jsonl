@@ -1,0 +1,14 @@
+{"app":"ios-app/alanwalton"}
+{"component":"ios-component/alanwalton-inbox-stoplights-widget"}
+{"definition":"the tile on Alan's phone showing how much waits in each of his inboxes"}
+{"families":["small"]}
+{"feed":"https://alanwalton.com/api/inbox-stoplights"}
+{"galleryDescription":"Your three inbox stoplights, at a glance."}
+{"galleryName":"Inboxes"}
+{"groups":["readout-group/inboxes"]}
+{"id":"01a06420-b259-7991-800b-7019c1efb1c2"}
+{"kind":"InboxStoplightsWidget"}
+{"opens":"capacitor://localhost/nav/tasks-a7242626#widget=alanwalton-inbox-stoplights"}
+{"place":3}
+{"slug":"alanwalton-inbox-stoplights"}
+{"type":"page-type/readout-widget"}

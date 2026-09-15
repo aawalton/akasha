@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A property saying nothing here has text."},{"decisionKind":"decision-kind/departure","statement":"A property holding bytes is answered as the bytes on disk rather than as text."},{"decisionKind":"decision-kind/departure","statement":"A property exempts every file that property has rather than one file named here."}]}
+{"definition":"whether the files a property has are bytes rather than text"}
+{"id":"01a0783e-bc03-787d-b886-e4476954adbe"}
+{"propertySlug":"holds-bytes"}
+{"slug":"holds-bytes"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every kind of file the watcher knows is remembered from the start."},{"decisionKind":"decision-kind/departure","statement":"Every kind of file begins in the same state."},{"decisionKind":"decision-kind/departure","statement":"A hash never recorded is null rather than an empty string."},{"decisionKind":"decision-kind/departure","statement":"Each kind of file is remembered apart from every other kind."},{"decisionKind":"decision-kind/absence","statement":"Nothing here is kept on disk."}]}
+{"definition":"what the watcher remembers about each file it is watching"}
+{"id":"01a0633f-8d1e-7be2-b34c-1ff9bbfe4907"}
+{"slug":"watcher-state"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Regeneration"}
+{"description":"\"Share your staff's life-giving energy, healing you or up to 3 nearby allies for 3594 over 10 seconds.\""}
+{"esoSkillId":41288}
+{"icon":"/esoui/art/icons/ability_restorationstaff_002a.dds"}
+{"id":"019e6226-0107-756d-ad7c-60b34ff02ea8"}
+{"isMorph":true}
+{"key":"radiating-regeneration"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"radiating-regeneration"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Radiating Regeneration"}
+{"type":"page-type/temper-skill"}

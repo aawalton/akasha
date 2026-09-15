@@ -1,0 +1,19 @@
+{"baseName":"Vault"}
+{"description":"Heals you and your allies for 2614 Health. Beneficial Signature and Affix scripts apply to you and your allies."}
+{"esoSkillId":217777}
+{"focusScriptId":"healing"}
+{"grimoireId":"vault"}
+{"icon":"/esoui/art/icons/ability_grimoire_bow.dds"}
+{"id":"019e6471-15ef-783e-8bc6-1a165a48e037"}
+{"isMorph":false}
+{"key":"scribed-vault-healing"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-bow"}
+{"skillType":"active"}
+{"slug":"scribed-vault-healing"}
+{"subcategoryId":"scribed"}
+{"title":"Healing Vault"}
+{"type":"page-type/temper-scribed-skill"}

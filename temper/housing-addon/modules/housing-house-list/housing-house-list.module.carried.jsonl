@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A house the account has yet to buy is listed but cannot be ported to."}]}
+{"definition":"which houses this account has bought, read from the game's collectibles"}
+{"id":"01a06128-d5cd-7395-81df-8ac14a3b370b"}
+{"slug":"housing-house-list"}
+{"type":"page-type/module"}

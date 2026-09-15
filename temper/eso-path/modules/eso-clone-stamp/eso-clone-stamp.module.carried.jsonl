@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A generated file states the command that regenerates that file."},{"decisionKind":"decision-kind/departure","statement":"A generated file states the API version its source clone was at."},{"decisionKind":"decision-kind/departure","statement":"The clone's API version is read from the documentation's own header line."},{"decisionKind":"decision-kind/departure","statement":"A regenerating command is written on one line."},{"decisionKind":"decision-kind/departure","statement":"Documentation with no header line is refused rather than stamped from."}]}
+{"definition":"the marker a file generated from the game's source clone carries"}
+{"id":"01a06050-639f-76e4-94da-ea05355aa7da"}
+{"slug":"eso-clone-stamp"}
+{"test":"ts"}
+{"type":"page-type/module"}

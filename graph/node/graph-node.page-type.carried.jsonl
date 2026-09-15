@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A node is a path."},{"decisionKind":"decision-kind/departure","statement":"A page is a node with a page type rather than a node of its own."}]}
+{"definition":"a thing the graph can name"}
+{"extends":["page-type/domain"]}
+{"id":"01a04fe8-cebb-7a08-ad56-e698e175e03b"}
+{"parts":["graph-node/file"]}
+{"schema":"jsonl"}
+{"slug":"graph-node"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A device that granted the permission registers."},{"decisionKind":"decision-kind/departure","statement":"A device that has not been asked is asked."},{"decisionKind":"decision-kind/departure","statement":"A device that refused is left without push."},{"decisionKind":"decision-kind/absence","statement":"Nothing here asks the device."}]}
+{"definition":"what the app does about the push permission a device is at"}
+{"id":"01a05b54-a909-7753-8cc3-52b02c145266"}
+{"slug":"push-permission"}
+{"test":"ts"}
+{"type":"page-type/module"}

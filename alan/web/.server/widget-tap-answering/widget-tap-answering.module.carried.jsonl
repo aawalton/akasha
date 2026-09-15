@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The test proving this code sits beside the route serving this code."},{"decisionKind":"decision-kind/constraint","statement":"The `Request` happy-dom builds for a test drops the `Origin` header."},{"decisionKind":"decision-kind/departure","statement":"A tap is admitted on the account the caller is signed in as."},{"decisionKind":"decision-kind/departure","statement":"A caller who is not signed in is refused."},{"decisionKind":"decision-kind/departure","statement":"A body naming no widget is refused."},{"decisionKind":"decision-kind/departure","statement":"A slug no widget page has is answered as no widget rather than as a tap."},{"decisionKind":"decision-kind/departure","statement":"The answer has the count the tap left."},{"decisionKind":"decision-kind/departure","statement":"An answer to the native shell has the cross-origin headers that shell needs."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a link."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the page store."}]}
+{"definition":"what a route answers when the app says a widget was tapped"}
+{"id":"01a078aa-cea1-71ff-8aa2-0b3766623b39"}
+{"slug":"widget-tap-answering"}
+{"type":"page-type/module"}

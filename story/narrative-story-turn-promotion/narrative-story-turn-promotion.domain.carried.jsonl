@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A turn gathered into a chapter is no longer shown to the player as a turn."}]}
+{"definition":"gathering played turns into a chapter"}
+{"id":"01a0675b-16f4-75bf-bef9-7a513c9dd7d7"}
+{"slug":"narrative-story-turn-promotion"}
+{"type":"page-type/domain"}

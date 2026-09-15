@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A log entry is a list rather than a record."},{"decisionKind":"decision-kind/departure","statement":"Every field past the message is optional."}]}
+{"definition":"the shapes a log entry, a logger and the library state take"}
+{"id":"01a06061-4092-742f-b9c5-9cf888d52fd0"}
+{"slug":"debug-logger-types"}
+{"type":"page-type/module"}

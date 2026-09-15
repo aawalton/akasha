@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A companion's index here is the index a saved build hash carries."}]}
+{"definition":"which index the build codec gives each companion the game knows"}
+{"id":"01a0611d-84dd-7991-bda4-54827db48eac"}
+{"slug":"companions-id-map"}
+{"type":"page-type/module"}

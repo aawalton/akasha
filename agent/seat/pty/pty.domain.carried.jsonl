@@ -1,0 +1,5 @@
+{"definition":"a pseudo-terminal a process runs under"}
+{"id":"01a0932f-f8ee-7c96-8069-edc7cda2dc6d"}
+{"parts":["module/bun-pty","module/pty-proxy","module/pty-proxy-detector","module/pty-terminal-death"]}
+{"slug":"pty"}
+{"type":"page-type/domain"}

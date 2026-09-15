@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A type is named for the thing the type has rather than for the file the type is in."},{"decisionKind":"decision-kind/departure","statement":"A type and the value of the same name are parted by their case alone."}]}
+{"definition":"the name a type carries in code"}
+{"id":"01a04fc9-2ad6-7975-b70f-a1d56a933ee6"}
+{"nameFormat":"name-format/upper-camel-case"}
+{"slug":"type-identifier"}
+{"type":"page-type/name-place"}

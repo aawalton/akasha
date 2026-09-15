@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A start is placed by how far into its piece the sentence begins."},{"decisionKind":"decision-kind/departure","statement":"A sentence is taken to run at an even rate across the piece with that sentence."},{"decisionKind":"decision-kind/departure","statement":"As many durations as pieces are given or nothing is answered."},{"decisionKind":"decision-kind/departure","statement":"A sentence starting past the last piece is left unmarked."},{"decisionKind":"decision-kind/departure","statement":"A reading begun partway has the marks of the whole rather than of the part."},{"decisionKind":"decision-kind/departure","statement":"Durations nobody measured are guessed from how many characters a piece holds."},{"decisionKind":"decision-kind/absence","statement":"Nothing here listens to the audio this module marks."}]}
+{"definition":"when each sentence starts, worked out from how long each rendered piece runs"}
+{"id":"01a05b55-e06e-753e-9209-b70e874274d3"}
+{"slug":"estimate-marks"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A worker that exited on its own is spawned again."},{"decisionKind":"decision-kind/departure","statement":"A worker the tray killed is left dead."},{"decisionKind":"decision-kind/departure","statement":"The worker is looked at every five hundred milliseconds."},{"decisionKind":"decision-kind/departure","statement":"The worker runs with no console window of its own."}]}
+{"definition":"the worker process the tray spawns and spawns again"}
+{"id":"01a06034-87f3-7170-a8fa-a5f3354324b8"}
+{"moduleName":"supervisor"}
+{"rust":"rs"}
+{"slug":"watcher-tray-supervisor"}
+{"type":"page-type/rust-module"}

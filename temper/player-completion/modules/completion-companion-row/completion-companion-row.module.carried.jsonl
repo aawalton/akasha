@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here runs."},{"decisionKind":"decision-kind/departure","statement":"A companion row has the same fields a character row has."},{"decisionKind":"decision-kind/departure","statement":"A reader wanting only the companion and its completion takes this row as that row is."}]}
+{"definition":"one companion of a player's roster as the completion store keeps it"}
+{"id":"01a06332-d9df-7ff9-a491-b8f04b2e9e67"}
+{"slug":"completion-companion-row"}
+{"type":"page-type/module"}

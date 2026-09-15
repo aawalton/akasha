@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A grade is marked on the ladder a rank is marked on."}]}
+{"definition":"Alan's mark for how well a picture caught the persona"}
+{"id":"01a0655b-4a9b-7003-a822-f4a3ceda67b2"}
+{"propertySlug":"grade"}
+{"slug":"grade"}
+{"type":"page-type/rank-property"}
+{"types":"ts"}
+{"values":["F","D-","D","D+","C-","C","C+","B-","B","B+","A-","A","A+","S-","S","S+"]}

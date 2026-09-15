@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The file has every refusal the last audit this agent ran answered with."},{"decisionKind":"decision-kind/departure","statement":"One blank line parts two refusals."},{"decisionKind":"decision-kind/departure","statement":"An audit replaces the file rather than appending to the file."},{"decisionKind":"decision-kind/departure","statement":"An audit refusing nothing takes the file away."},{"decisionKind":"decision-kind/departure","statement":"A landing this agent makes leaves the file as the last audit left it."},{"decisionKind":"decision-kind/departure","statement":"The file is kept outside the commit."},{"decisionKind":"decision-kind/departure","statement":"The byte ceiling is judged over no file here."},{"decisionKind":"decision-kind/absence","statement":"No author writes a line here by hand."}]}
+{"definition":"what the last audit an agent ran refused"}
+{"extensions":["txt"]}
+{"generated":true}
+{"id":"01a094bd-e107-7176-9d08-3acf8ccb369a"}
+{"propertySlug":"audit-refusals"}
+{"runsFileLength":false}
+{"slug":"audit-refusals"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

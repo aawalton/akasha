@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The list is rebuilt a fifth of a second after the last keystroke rather than on every keystroke."},{"decisionKind":"decision-kind/departure","statement":"A category whose own name matches is kept whole."},{"decisionKind":"decision-kind/departure","statement":"An uppercased action name is remembered rather than uppercased again."},{"decisionKind":"decision-kind/departure","statement":"Filtering applies only while the master list is being built."}]}
+{"definition":"narrowing the key-bind list to the actions whose names match what was typed"}
+{"id":"01a06381-67c1-70e1-ad09-ace0c705c355"}
+{"slug":"keybinder-filter"}
+{"type":"page-type/module"}

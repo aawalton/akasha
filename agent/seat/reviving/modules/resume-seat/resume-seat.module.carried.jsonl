@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name a live tmux session holds refuses the revive before anything is signalled."},{"decisionKind":"decision-kind/departure","statement":"A seat revived comes back in the mode that seat's page states it starts in."},{"decisionKind":"decision-kind/departure","statement":"A seat whose page states no mode is revived headless."}]}
+{"definition":"a stopped seat relaunched under its own name once nothing live has it"}
+{"id":"01a0695a-d2ea-735a-9483-a00a8cf935b6"}
+{"slug":"resume-seat"}
+{"type":"page-type/module"}

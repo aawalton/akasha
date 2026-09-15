@@ -1,0 +1,24 @@
+{"equipment":"strength-exercise-implement/dumbbell"}
+{"exerciseCategory":"strength"}
+{"exerciseLevel":"intermediate"}
+{"exerciseSource":"aelwyn-custom"}
+{"force":"push"}
+{"gripDemand":"low"}
+{"id":"019ee5fc-593c-74a8-b67c-819340c40397"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"unilateral"}
+{"loadFactor":0}
+{"mechanic":"compound"}
+{"movementPattern":"lunge"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["quadriceps","glutes"]}
+{"scoringMode":"reps"}
+{"secondaryMuscles":["hamstrings","calves","abductors","adductors"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"goblet-bulgarian-split-squat"}
+{"title":"Goblet Bulgarian Split Squat"}
+{"trainsLengthenedRange":true}
+{"type":"page-type/strength-exercise"}

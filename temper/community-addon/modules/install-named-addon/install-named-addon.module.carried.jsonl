@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name is matched against the ESOUI title or against an install folder."},{"decisionKind":"decision-kind/departure","statement":"A name matching nothing on ESOUI is refused as bad input."},{"decisionKind":"decision-kind/departure","statement":"An entry naming no install folder is refused rather than guessed at."},{"decisionKind":"decision-kind/departure","statement":"An entry installing a folder the deploy owns is refused."},{"decisionKind":"decision-kind/departure","statement":"Forcing is consent to install a third-party addon again."},{"decisionKind":"decision-kind/absence","statement":"Forcing is no consent to drop an archive over a folder the deploy owns."},{"decisionKind":"decision-kind/departure","statement":"An addon whose every folder is already there is skipped unless forced."},{"decisionKind":"decision-kind/departure","statement":"An archive with no folder the caller expected is refused."}]}
+{"definition":"one addon named by hand, looked up on ESOUI and laid into the addons directory"}
+{"id":"01a06069-b790-7f2c-a237-0a215f888c46"}
+{"slug":"install-named-addon"}
+{"type":"page-type/module"}

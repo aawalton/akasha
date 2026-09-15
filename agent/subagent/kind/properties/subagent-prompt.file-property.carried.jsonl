@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A prompt sits in its own file rather than in a value beside the page."},{"decisionKind":"decision-kind/absence","statement":"A prompt says nothing about the work one subagent is given."}]}
+{"definition":"what a subagent of one kind is told before its work is handed to it"}
+{"extensions":["md"]}
+{"id":"01a06838-7a9e-7b95-ab3e-f0ad9a5d9095"}
+{"propertySlug":"subagent-prompt"}
+{"slug":"subagent-prompt"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

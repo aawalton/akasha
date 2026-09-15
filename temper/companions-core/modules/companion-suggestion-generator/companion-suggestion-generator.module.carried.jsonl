@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A suggestion is emitted only when the changed build outscores the base build."},{"decisionKind":"decision-kind/constraint","statement":"At most ten suggestions are returned."},{"decisionKind":"decision-kind/departure","statement":"Legendary quality is offered only for the two ring slots."}]}
+{"definition":"ranked single-change suggestions that raise a companion build score"}
+{"id":"01a06152-c2d6-7af6-bf3c-a6d3324e80f0"}
+{"slug":"companion-suggestion-generator"}
+{"type":"page-type/module"}

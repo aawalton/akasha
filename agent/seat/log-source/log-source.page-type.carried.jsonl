@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A source is named for the process writing the lines rather than for the seat."},{"decisionKind":"decision-kind/departure","statement":"One source writes a separate day for each seat."},{"decisionKind":"decision-kind/departure","statement":"A source outlives every day of lines the source wrote."},{"decisionKind":"decision-kind/absence","statement":"A source has nothing but the name the source is reached by."}]}
+{"definition":"a stream of console lines the processes behind a seat write"}
+{"extends":["page-type/page"]}
+{"id":"01a0657c-cb14-7c6f-83df-0d533f4f7821"}
+{"schema":"jsonl"}
+{"slug":"log-source"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

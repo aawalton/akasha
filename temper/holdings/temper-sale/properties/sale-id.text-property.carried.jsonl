@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A sale carrying no sale id is not kept."}]}
+{"definition":"what the game calls one sale"}
+{"id":"01a0685d-89aa-73f0-9b15-bfabe8437be8"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"sale-id"}
+{"slug":"sale-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

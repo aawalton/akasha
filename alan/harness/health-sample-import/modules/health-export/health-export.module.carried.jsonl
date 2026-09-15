@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The export is read a line at a time rather than parsed as a single document."},{"decisionKind":"decision-kind/departure","statement":"A line that is no record is answered as nothing rather than throwing."},{"decisionKind":"decision-kind/departure","statement":"An Apple date has its own offset and is read as the instant that date names."},{"decisionKind":"decision-kind/departure","statement":"The script narrows the export to the metrics asked for before the export leaves the laptop."}]}
+{"definition":"the Apple Health export read off the laptop, and the script fetching it"}
+{"id":"01a05c14-b119-7001-b832-1c3d7e46c281"}
+{"slug":"health-export"}
+{"type":"page-type/module"}

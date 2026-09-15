@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A file with no function measures one hundred."},{"decisionKind":"decision-kind/departure","statement":"An index below zero is answered as zero."},{"decisionKind":"decision-kind/departure","statement":"A source line is a line some token starts on."}]}
+{"definition":"the maintainability index a source file works out to"}
+{"id":"01a0680f-d1b7-7fad-a8e1-931817f12d1a"}
+{"slug":"maintainability"}
+{"type":"page-type/module"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A safety level reads as a number and is written as text."},{"decisionKind":"decision-kind/departure","statement":"A safety level carries forward from the prior stretch of time."}]}
+{"definition":"how safe Alan was over a stretch of time"}
+{"id":"01a05fd8-c30f-757c-bda6-861e73844e8b"}
+{"maxLength":3}
+{"nameFormat":null}
+{"propertySlug":"safety-level"}
+{"slug":"safety-level"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

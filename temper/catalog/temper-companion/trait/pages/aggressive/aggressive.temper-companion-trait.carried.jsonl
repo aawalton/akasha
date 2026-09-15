@@ -1,0 +1,10 @@
+{"description":"Increases companion damage done"}
+{"effectType":"fractional-change"}
+{"id":"01a05fce-c4ae-76d4-b0f2-55ebd7f2e20e"}
+{"isReduction":false}
+{"key":"aggressive"}
+{"metricId":"companion-damage-done"}
+{"qualityValues":"jsonl"}
+{"slug":"aggressive"}
+{"title":"Aggressive"}
+{"type":"page-type/temper-companion-trait"}

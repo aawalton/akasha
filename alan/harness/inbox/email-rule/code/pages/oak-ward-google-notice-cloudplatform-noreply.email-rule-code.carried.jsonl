@@ -1,0 +1,6 @@
+{"filing":"archive"}
+{"id":"01a06860-54a2-734e-b702-ac0d9c338cd3"}
+{"matches":[{"field":"from","comparison":"ends-with","values":["google.com"]},{"field":"subject","comparison":"contains","values":["oak.hills.first.ward.tech"]},{"field":"from","comparison":"is","values":["cloudplatform-noreply@google.com"]},{"field":"subject","comparison":"does-not-contain","values":["transition","deprecat","migrat"]}]}
+{"slug":"oak-ward-google-notice-cloudplatform-noreply"}
+{"title":"Oak ward google notice cloudplatform noreply"}
+{"type":"page-type/email-rule-code"}

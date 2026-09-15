@@ -1,0 +1,11 @@
+{"containerPort":3000}
+{"definition":"what runs Jenny's command center in the cluster"}
+{"id":"01a05b26-f8b6-70f1-b1ef-8cafc8f8b6e6"}
+{"image":"registry.registry.svc.cluster.local:5000/cluster/bun-git:latest"}
+{"manifest":["manifest/smilingjenny-web-manifests"]}
+{"namespace":"smilingjenny"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"web"}
+{"slug":"smilingjenny-web"}
+{"type":"page-type/service-cluster"}

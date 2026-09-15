@@ -1,0 +1,7 @@
+{"definition":"how many times the offer may be claimed"}
+{"id":"01a06585-5fc5-73dd-8b25-bb4b4eaf5918"}
+{"propertySlug":"use-limit"}
+{"slug":"use-limit"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["1","2","3","no-limit"]}

@@ -1,0 +1,19 @@
+{"baseName":"Banner Bearer"}
+{"description":"Increases damage done with direct damage by 6%."}
+{"esoSkillId":217699}
+{"focusScriptId":"shock-damage"}
+{"grimoireId":"banner-bearer"}
+{"icon":"/esoui/art/icons/ability_grimoire_support.dds"}
+{"id":"019e6471-15a0-7bcb-b4de-3195f0ff0fd4"}
+{"isMorph":false}
+{"key":"scribed-banner-bearer-shock-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"active"}
+{"slug":"scribed-banner-bearer-shock-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Shocking Banner"}
+{"type":"page-type/temper-scribed-skill"}

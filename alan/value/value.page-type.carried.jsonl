@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value states in one line the person a life serving that value makes."},{"decisionKind":"decision-kind/departure","statement":"A value has the points earned against the value over the whole record."},{"decisionKind":"decision-kind/departure","statement":"A value names its scale rather than carrying a scale."},{"decisionKind":"decision-kind/departure","statement":"A value has one place whatever groups draw the value."},{"decisionKind":"decision-kind/departure","statement":"A value states one color and is always drawn in that color."},{"decisionKind":"decision-kind/departure","statement":"The points a value has are read from the personas' days rather than declared."},{"decisionKind":"decision-kind/absence","statement":"A value takes no reading of its own."},{"decisionKind":"decision-kind/gap","statement":"Nothing draws a value."}]}
+{"definition":"what a person is spending their life on"}
+{"extends":["page-type/domain"]}
+{"id":"01a06553-f65f-71f6-898f-df18f6561396"}
+{"parts":["relation-property/value-color","value/faith","value/fun","value/health","value/learn","value/love","value/wealth"]}
+{"properties":[{"pageProperty":"text-property/label","required":true,"many":false},{"pageProperty":"relation-property/value-color","required":false,"many":false},{"pageProperty":"number-property/place","required":true,"many":false},{"pageProperty":"text-property/unit","required":false,"many":false},{"pageProperty":"relation-property/scale","required":false,"many":false},{"pageProperty":"relation-property/groups","required":false,"many":true,"maxCount":null},{"pageProperty":"boolean-property/readout-enabled","required":false,"many":false,"default":"true"}]}
+{"schema":"jsonl"}
+{"slug":"value"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A class offers the class lines first while no other slot has a class line."},{"decisionKind":"decision-kind/constraint","statement":"Five pieces of one armour weight open that weight's line."}]}
+{"definition":"which skill lines a character may choose, wear into, or lose on a class change"}
+{"id":"01a06187-b3a4-7f6e-9755-30b39a3b5cfb"}
+{"slug":"skill-line-queries"}
+{"type":"page-type/module"}

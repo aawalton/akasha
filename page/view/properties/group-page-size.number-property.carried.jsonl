@@ -1,0 +1,7 @@
+{"definition":"how many groups a view draws at once"}
+{"id":"01a0680d-4d00-700f-9e48-6b2d7f1a4110"}
+{"max":null}
+{"propertySlug":"group-page-size"}
+{"slug":"group-page-size"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

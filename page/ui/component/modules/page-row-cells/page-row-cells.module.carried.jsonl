@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page no page type above it draws takes the cells beside page."}]}
+{"definition":"the cells one page is shown as in a table, drawn by that page's own page type"}
+{"id":"01a0a104-7afd-734b-8ebb-f7f7d03710d4"}
+{"slug":"page-row-cells"}
+{"type":"page-type/module"}

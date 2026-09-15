@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Base health and weapon damage are literal integers rather than formulas."},{"decisionKind":"decision-kind/constraint","statement":"The single entry companion-base-stats has every base metric effect."}]}
+{"definition":"gatherer data file of the flat base stats every companion starts with"}
+{"id":"01a06152-c2d1-730e-a4ec-8f2ee2d4c798"}
+{"slug":"companions-base-source"}
+{"type":"page-type/module"}

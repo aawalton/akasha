@@ -1,0 +1,7 @@
+{"definition":"a Cloudflare tunnel created and its credentials sealed into the cluster secret"}
+{"id":"01a06865-abff-7013-bd8a-23b0cf633a6f"}
+{"scripting":{}}
+{"shell":"sh"}
+{"slug":"create-tunnel"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

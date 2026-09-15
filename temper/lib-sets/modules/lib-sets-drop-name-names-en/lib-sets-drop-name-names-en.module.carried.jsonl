@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name here may be read from the game's own strings rather than written out."}]}
+{"definition":"the English name of each way a gear set drops"}
+{"id":"01a061d6-3e27-7dcf-aff1-caab31397e85"}
+{"slug":"lib-sets-drop-name-names-en"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The host of a url is read here rather than by each badge showing one."},{"decisionKind":"decision-kind/departure","statement":"Text that is no url is answered with no host and shown as the text it is."}]}
+{"definition":"a badge showing a url's host as a link out"}
+{"id":"01a05b55-a539-7bc7-91a9-d5b91de4f605"}
+{"slug":"url-badge"}
+{"type":"page-type/module"}

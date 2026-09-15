@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The folder a link reaches is the folder holding the page stating this."},{"decisionKind":"decision-kind/departure","statement":"A path opening with a tilde is read under the home of whoever places the link."},{"decisionKind":"decision-kind/departure","statement":"A page states where its folder is reached rather than a script holding a table."}]}
+{"definition":"where outside akasha a link reaches the folder a page owns"}
+{"id":"01a08e0e-63aa-73e3-9073-68366457ff76"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"linked-at"}
+{"slug":"linked-at"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

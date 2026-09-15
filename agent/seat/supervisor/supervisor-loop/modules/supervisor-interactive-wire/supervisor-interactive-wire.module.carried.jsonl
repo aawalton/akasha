@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The pre-cliff monitor is not started where the cliff age could not be read."},{"decisionKind":"decision-kind/departure","statement":"A proxy swap clears the requested action before the swap is triggered."},{"decisionKind":"decision-kind/departure","statement":"A swap does nothing where the agent id handle is empty."},{"decisionKind":"decision-kind/departure","statement":"Settling clears the action handler and cancels the deferred restart."},{"decisionKind":"decision-kind/departure","statement":"Settling stops the pre-cliff monitor that iteration started."},{"decisionKind":"decision-kind/departure","statement":"An exit the rule could not classify is recorded as unexamined rather than guessed."}]}
+{"definition":"the per-iteration wiring of agent actions and the pre-cliff monitor"}
+{"id":"01a06871-3115-7009-a94c-1cccc05f925d"}
+{"slug":"supervisor-interactive-wire"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Tannin Expertise"}
+{"description":"\"More than doubles the chances to improve items with tannins.\""}
+{"esoSkillId":48198}
+{"icon":"/esoui/art/icons/ability_tradecraft_004.dds"}
+{"id":"019e6224-ccb2-760b-823a-deef5566640f"}
+{"isMorph":false}
+{"key":"tannin-expertise"}
+{"learnedLevel":1}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-clothing"}
+{"skillType":"passive"}
+{"slug":"tannin-expertise"}
+{"subcategoryId":"craft-clothing"}
+{"title":"Tannin Expertise"}
+{"type":"page-type/temper-skill"}

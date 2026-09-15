@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The addon is told the things to collect again through a file rather than a call."},{"decisionKind":"decision-kind/departure","statement":"The file is Lua the addon loads as a table."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the game."},{"decisionKind":"decision-kind/absence","statement":"Nothing here opens a file."}]}
+{"definition":"what the catalog addon is told to collect again, written where the addon reads it"}
+{"id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}
+{"parts":["module/catalog-file-paths","module/catalog-side-file"]}
+{"slug":"temper-catalog-side-file"}
+{"type":"page-type/domain"}

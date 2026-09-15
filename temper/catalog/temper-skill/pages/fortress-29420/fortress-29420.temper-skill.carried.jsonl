@@ -1,0 +1,17 @@
+{"baseName":"Fortress"}
+{"description":"\"Reduces the Stamina cost of your One Hand and Shield abilities by |cffffff7|r% and reduces the cost of blocking by |cffffff18|r%.\""}
+{"esoSkillId":29420}
+{"icon":"/esoui/art/icons/ability_weapon_028.dds"}
+{"id":"019e6f53-a233-7cd4-bb7e-77725809a16f"}
+{"isMorph":false}
+{"key":"fortress-29420"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":5}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"passive"}
+{"slug":"fortress-29420"}
+{"subcategoryId":"weapon-one-hand-and-shield"}
+{"title":"Fortress"}
+{"type":"page-type/temper-skill"}

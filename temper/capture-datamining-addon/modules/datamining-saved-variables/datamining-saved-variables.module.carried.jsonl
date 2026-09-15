@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The capture writer hands this module the way in as the addon initializes."},{"decisionKind":"decision-kind/departure","statement":"A read before the capture writer has run is refused."}]}
+{"definition":"the way the mined data is reached where the game keeps saved variables"}
+{"id":"01a06341-d9e8-7003-86e4-05d88c5ad77a"}
+{"slug":"datamining-saved-variables"}
+{"type":"page-type/module"}

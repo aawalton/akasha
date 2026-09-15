@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A leg stating no quantity takes every item reaching that leg."}]}
+{"definition":"how many of an item one leg of a destination chain takes"}
+{"id":"01a07283-f295-7205-a4ef-8820858e243a"}
+{"max":null}
+{"propertySlug":"target-quantity"}
+{"slug":"target-quantity"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

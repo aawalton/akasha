@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A pin type named by a string is looked up in the game's global table."}]}
+{"definition":"the pin type and map filter group lookups the rest of the library reads"}
+{"id":"01a06062-57de-7676-a2c3-268d8233dc41"}
+{"slug":"map-pins-helpers"}
+{"type":"page-type/module"}

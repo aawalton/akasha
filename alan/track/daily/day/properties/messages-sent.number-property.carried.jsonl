@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A message Alan wrote is counted where the message left Alan."},{"decisionKind":"decision-kind/absence","statement":"A message a persona wrote back is counted nowhere."}]}
+{"definition":"how many messages Alan wrote to one persona on one day"}
+{"id":"01a082db-9816-7ab2-b6ed-8a897a78de90"}
+{"max":null}
+{"propertySlug":"sent"}
+{"slug":"messages-sent"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

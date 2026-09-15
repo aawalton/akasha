@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A release known only to the day is written as a day rather than as midnight."}]}
+{"definition":"when a collection was released, to the day or to the moment"}
+{"id":"01a063de-2c60-700f-a1f5-3c8c3ba8a091"}
+{"members":["calendar-date-property/published-day","instant-property/published-at"]}
+{"propertySlug":"published-at"}
+{"slug":"collection-published-at"}
+{"type":"page-type/one-of-property"}
+{"types":"ts"}

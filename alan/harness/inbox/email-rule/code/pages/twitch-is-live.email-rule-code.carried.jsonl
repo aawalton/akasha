@@ -1,0 +1,7 @@
+{"actions":["unsubscribe"]}
+{"filing":"archive"}
+{"id":"01a06860-54a2-74e4-b1de-c25726f6d96a"}
+{"matches":[{"field":"from","comparison":"ends-with","values":["twitch.tv"]},{"field":"subject","comparison":"contains","values":["is live"]}]}
+{"slug":"twitch-is-live"}
+{"title":"Twitch is live"}
+{"type":"page-type/email-rule-code"}

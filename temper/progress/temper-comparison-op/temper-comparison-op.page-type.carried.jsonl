@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The key is the operator an item rule writes."},{"decisionKind":"decision-kind/departure","statement":"The title is the operator a reader is shown."}]}
+{"definition":"a way of comparing a number an item rule reads"}
+{"extends":["page-type/temper-progress-thing"]}
+{"id":"01a05fc9-9a02-7bf9-8334-b9a9baaf4ee4"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-comparison-op"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

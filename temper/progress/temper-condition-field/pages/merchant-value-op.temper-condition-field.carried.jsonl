@@ -1,0 +1,6 @@
+{"description":"The operator named here replaces the default `<=` when an item's merchant sell price is compared against `merchantValue`."}
+{"id":"01a07209-6b52-7581-b013-23e4163221ab"}
+{"key":"merchantValueOp"}
+{"slug":"merchant-value-op"}
+{"title":"Merchant Value Comparison"}
+{"type":"page-type/temper-condition-field"}

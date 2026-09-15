@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A kind is in one group."}]}
+{"definition":"which sort one decision is"}
+{"extends":["page-type/domain"]}
+{"id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}
+{"parts":["decision-kind/absence","decision-kind/constraint","decision-kind/departure","decision-kind/gap","decision-kind/stopgap","decision-kind/upkeep","relation-property/decision-group"]}
+{"properties":[{"pageProperty":"relation-property/decision-group","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"decision-kind"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

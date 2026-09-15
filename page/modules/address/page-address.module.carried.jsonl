@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This module has the union of every address kind."},{"decisionKind":"decision-kind/departure","statement":"A kind left out of the union does not compile."},{"decisionKind":"decision-kind/departure","statement":"Where the index files an address is asked of the kind that address is."},{"decisionKind":"decision-kind/departure","statement":"An address names the property a value is read by."},{"decisionKind":"decision-kind/absence","statement":"No address names a page by a value alone."},{"decisionKind":"decision-kind/departure","statement":"A slug names pages of many types."},{"decisionKind":"decision-kind/departure","statement":"An address is named here as well as read here."},{"decisionKind":"decision-kind/departure","statement":"An address named with a scope reads back as the scoped kind."},{"decisionKind":"decision-kind/absence","statement":"Which scope a page carries is answered by whoever names that page's address."}]}
+{"definition":"what form a relation value takes when it names a page"}
+{"id":"01a04b14-4355-7352-9c98-ad67e309f5f6"}
+{"slug":"page-address"}
+{"test":"ts"}
+{"type":"page-type/module"}

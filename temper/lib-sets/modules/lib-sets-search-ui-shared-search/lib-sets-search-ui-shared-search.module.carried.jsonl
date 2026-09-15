@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A term after a minus sign excludes any set the term matches."},{"decisionKind":"decision-kind/constraint","statement":"A colon in a bonus term limits the match to that bonus line."}]}
+{"definition":"the text matching that decides whether a set answers a typed search"}
+{"id":"01a0623c-2df8-77cc-aa20-7ad23b772da9"}
+{"slug":"lib-sets-search-ui-shared-search"}
+{"type":"page-type/module"}

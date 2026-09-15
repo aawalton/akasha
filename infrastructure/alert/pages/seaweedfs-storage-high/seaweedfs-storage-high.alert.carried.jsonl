@@ -1,0 +1,8 @@
+{"definition":"SeaweedFS is holding close to as much as it has room for"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fb-7a92-a2a3-57bd4c66511a"}
+{"runbook":"txt"}
+{"slug":"seaweedfs-storage-high"}
+{"summary":"'SeaweedFS store on {{ $labels.instance }} is {{ $value | printf \"%.1f\" }}% free'"}
+{"title":"SeaweedFS storage high"}
+{"type":"page-type/alert"}

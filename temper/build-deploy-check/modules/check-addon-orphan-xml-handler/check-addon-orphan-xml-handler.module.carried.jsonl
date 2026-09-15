@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The population the run states is the code and the markup the roster's add-ons hold."},{"decisionKind":"decision-kind/constraint","statement":"Markup held by an add-on publishing no namespace is counted and left unexamined."},{"decisionKind":"decision-kind/constraint","statement":"A member defined only in a machine-written file reads here as defined nowhere."},{"decisionKind":"decision-kind/constraint","statement":"The population the run left unexamined is reported beside the population the run examined."}]}
+{"definition":"the run judging every inline markup handler an add-on on the roster holds"}
+{"id":"01a062a8-e76a-75a7-946b-4bf70079cd3d"}
+{"slug":"check-addon-orphan-xml-handler"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A token carrying no such instant has not been registered again."}]}
+{"definition":"when a device last registered the token it is reached at"}
+{"id":"01a05dc7-77dc-73b5-90f0-3a2845a662e6"}
+{"propertySlug":"last-seen-at"}
+{"slug":"device-token-last-seen-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

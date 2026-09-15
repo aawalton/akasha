@@ -1,0 +1,17 @@
+{"baseName":"Flurry"}
+{"description":"\"Flood an enemy with steel, battering them with four consecutive attacks that each deal |cffffff2398|r Bleed Damage and heal you for |cffffff34|r% of the damage caused.\""}
+{"esoSkillId":38846}
+{"icon":"/esoui/art/icons/ability_dualwield_002_a.dds"}
+{"id":"019e6f53-9f60-781a-9e95-504d0be40aa3"}
+{"isMorph":true}
+{"key":"bloodthirst-38846"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":2}
+{"rank":2}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"bloodthirst-38846"}
+{"subcategoryId":"weapon-dual-wield"}
+{"title":"Bloodthirst"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,19 @@
+{"baseName":"Trample"}
+{"description":"Deals 2876 Frost Damage to all enemies."}
+{"esoSkillId":220542}
+{"focusScriptId":"frost-damage"}
+{"grimoireId":"trample"}
+{"icon":"/esoui/art/icons/ability_grimoire_assault.dds"}
+{"id":"019e6471-15d6-7e1f-b333-6ea99cbd6e76"}
+{"isMorph":false}
+{"key":"scribed-trample-frost-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"scribed-trample-frost-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Chilling Trample"}
+{"type":"page-type/temper-scribed-skill"}

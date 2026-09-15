@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcd0-700c-b2b3-cb24128d5938"}
+{"matches":[{"key":"merchant","comparison":"is","values":["disney plus"]},{"key":"sign","comparison":"is-not","values":["negative"]}]}
+{"slug":"disney-plus-other"}
+{"title":"Disney plus other"}
+{"type":"page-type/category-rule-code"}

@@ -1,0 +1,12 @@
+{"abilityId":165865}
+{"companionId":"ember"}
+{"description":"Your Companion dazzles an enemy in a ball of magic, stunning them for $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_sorcerer_dark_fog.dds"}
+{"id":"019e6484-3868-79e5-b7b4-335bf0e0efda"}
+{"key":"ember-tricksters-trap"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-ember-mischievous-caster"}
+{"skillType":"active"}
+{"slug":"ember-ember-tricksters-trap"}
+{"title":"Trickster's Trap"}
+{"type":"page-type/temper-companion-skill"}

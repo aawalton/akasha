@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The item link builder every other module calls is published from this module."}]}
+{"definition":"the world map opened on a zone or panned to a wayshrine"}
+{"id":"01a061fc-ceed-790c-89ab-adf54c99f601"}
+{"slug":"lib-sets-core-api-nav"}
+{"type":"page-type/module"}

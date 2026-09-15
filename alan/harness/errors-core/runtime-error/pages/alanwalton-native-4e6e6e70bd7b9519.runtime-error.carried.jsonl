@@ -1,0 +1,10 @@
+{"app":"alanwalton-native"}
+{"fingerprint":"4e6e6e70bd7b9519"}
+{"firstSeenAt":"2026-09-13T21:24:07.601Z"}
+{"id":"01a09cad-397d-7675-b47a-40bc09ba3acf"}
+{"kind":"error"}
+{"message":"2026-09-13T20:49:08Z activeEnergy: alanwalton.com could not be reached. Nothing from that point on is lost — the next run sends it again. stepCount: nothing new since the last send, but a direct read of the last 48 hours found 164 samples and sent 164 in 1 batches — 0 the server had not seen."}
+{"slug":"alanwalton-native-4e6e6e70bd7b9519"}
+{"type":"page-type/runtime-error"}
+{"url":"stream-health-samples"}
+{"userAgent":"StreamHealthSamplesIntent/225"}

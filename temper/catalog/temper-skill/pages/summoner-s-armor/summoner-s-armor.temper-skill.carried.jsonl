@@ -1,0 +1,17 @@
+{"baseName":"Bone Armor"}
+{"description":"\"Wrap yourself in hardened bone, granting you Major Resolve and Minor Resolve for |cffffff30|r seconds, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r and |cffffff2974|r.\\n\\nWhile active, reduce the cost of Blastbones, Skeletal Mage, and Spirit Mender by |cffffff15|r%.\\n\\nIf cast during combat, you can cast a corpse consuming ability on yourself. This effect can occur once every |cffffff10|r seconds.\""}
+{"esoSkillId":118244}
+{"icon":"/esoui/art/icons/ability_necromancer_008_b.dds"}
+{"id":"019e6f53-a7ef-79cc-9b2c-47348d17530e"}
+{"isMorph":true}
+{"key":"summoner-s-armor"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":4}
+{"skillLineId":"necromancer-bone-tyrant"}
+{"skillType":"active"}
+{"slug":"summoner-s-armor"}
+{"subcategoryId":"necromancer-bone-tyrant"}
+{"title":"Summoner's Armor"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-checked"}
+{"changeMode":"change-mode/change-mode-move"}
+{"changeTargetSubtype":"change-target-subtype/file-page"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page moved into another folder keeps the slug that page had."},{"decisionKind":"decision-kind/departure","statement":"Every file a page keeps beside that page moves with the page."},{"decisionKind":"decision-kind/departure","statement":"A body naming a path that moved is repointed in the same answer."},{"decisionKind":"decision-kind/departure","statement":"A folder already with a body at a path the move would write is refused."},{"decisionKind":"decision-kind/absence","statement":"Nothing here changes the data a page states."},{"decisionKind":"decision-kind/departure","statement":"The move is left to the mechanical change moving that kind of page."},{"decisionKind":"decision-kind/departure","statement":"That change is reached through the runner rather than by an import."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."}]}
+{"definition":"one page and the files beside that page moved into another folder"}
+{"id":"01a07883-67ee-7249-9045-121a02fac4bf"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":1024}
+{"slug":"move-page"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

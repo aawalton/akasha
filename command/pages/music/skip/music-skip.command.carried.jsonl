@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/device-id"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A device named on the command line is skipped on rather than the active device."},{"decisionKind":"decision-kind/departure","statement":"A call saying `--json` is answered one line of JSON, and one saying nothing words."},{"decisionKind":"decision-kind/departure","statement":"The skip is handed in, so no test of it reaches Spotify."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a page."}]}
+{"definition":"the command carrying Spotify on from the track playing to the one behind it"}
+{"id":"01a0a01b-4ebe-7423-8d37-562cec9b1bc4"}
+{"name":"skip"}
+{"slug":"music-skip"}
+{"test":"ts"}
+{"type":"page-type/command"}

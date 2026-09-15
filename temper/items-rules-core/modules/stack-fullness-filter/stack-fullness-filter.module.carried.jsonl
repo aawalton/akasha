@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the `stackFullness` condition alone."}]}
+{"definition":"the Stack Fullness condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3bfd-71eb-8e28-95fa17ca5dfc"}
+{"slug":"stack-fullness-filter"}
+{"type":"page-type/module"}

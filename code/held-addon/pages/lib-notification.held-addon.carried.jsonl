@@ -1,0 +1,9 @@
+{"addonKind":"library"}
+{"addonName":"LibNotification"}
+{"adjacents":["held-addon/temper-navigation","held-addon/temper-collections"]}
+{"esoAddon":"eso-addon/temper-lib-notification"}
+{"heldBy":13224}
+{"id":"01a081a4-6d91-7385-8091-4ff636e9d49e"}
+{"slug":"lib-notification"}
+{"tiCleanBlockedReason":"member-expr game-table append: providers.ts table.insert(notificationManager.providers, provider) writes game-owned NOTIFICATIONS/GAMEPAD_NOTIFICATIONS providers via a member-expression; .push lowers to the cached-temp form, not byte-equivalent to table.insert — source-zero and strict byte-equivalence mutually exclusive."}
+{"type":"page-type/held-addon"}

@@ -1,0 +1,17 @@
+{"baseName":"Rite of Passage"}
+{"description":"\"Channel the grace of the gods, healing you and nearby allies for |cffffff8768|r Health every |cffffff1|r second for |cffffff4|r seconds.\\n\\nGain Major Protection, reducing damage you take by |cffffff10|r% for |cffffff10|r seconds.\\n\\nYou cannot move while channeling, but you gain immunity to all disabling effects.\""}
+{"esoSkillId":22229}
+{"icon":"/esoui/art/icons/ability_templar_remembrance.dds"}
+{"id":"019e6f53-a5eb-7f5b-8180-bc80d191a79a"}
+{"isMorph":true}
+{"key":"remembrance-22229"}
+{"learnedLevel":1}
+{"lineRankNeeded":12}
+{"morphIndex":1}
+{"rank":12}
+{"skillLineId":"templar-restoring-light"}
+{"skillType":"ultimate"}
+{"slug":"remembrance-22229"}
+{"subcategoryId":"templar-restoring-light"}
+{"title":"Remembrance"}
+{"type":"page-type/temper-skill"}

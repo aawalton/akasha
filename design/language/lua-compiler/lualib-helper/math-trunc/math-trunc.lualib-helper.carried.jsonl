@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"a number with its fractional part dropped, toward zero"}
+{"id":"01a08c42-c217-700a-bc11-3296673ba431"}
+{"luaExport":"__TS__MathTrunc"}
+{"slug":"math-trunc"}
+{"type":"page-type/lualib-helper"}

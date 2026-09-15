@@ -1,0 +1,10 @@
+{"app":"temper"}
+{"fingerprint":"6d646d1d49bb6709"}
+{"firstSeenAt":"2026-09-14T09:56:36.644Z"}
+{"id":"01a09f59-0b25-7465-8fca-0ad7c5df64d9"}
+{"kind":"error"}
+{"message":"[pages-cache] slug 'temper-inventory-chunk' readiness overran 4000ms — degrading to the empty state"}
+{"slug":"temper-6d646d1d49bb6709"}
+{"type":"page-type/runtime-error"}
+{"url":"https://www.tempereso.com/home"}
+{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"}

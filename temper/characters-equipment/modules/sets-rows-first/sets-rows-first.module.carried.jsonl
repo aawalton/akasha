@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The parts are spread in the order their numbers run."},{"decisionKind":"decision-kind/absence","statement":"No row is keyed by its id here."}]}
+{"definition":"the first sixty-two numbered set parts gathered into one list"}
+{"id":"01a08e66-0b80-7e5b-a02a-6ceb5642caab"}
+{"slug":"sets-rows-first"}
+{"type":"page-type/module"}

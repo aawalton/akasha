@@ -1,0 +1,17 @@
+{"baseName":"Low Slash"}
+{"description":"\"Surprise an enemy with a deep lunge, dealing 1438 Physical Damage and afflicting them with Minor Maim, reducing their damage done by 5% for 15 seconds. \\n\\nYou gain Minor Heroism, granting you 1 Ultimate every 1.5 seconds for 15 seconds.\""}
+{"esoSkillId":41414}
+{"icon":"/esoui/art/icons/ability_1handed_001_a.dds"}
+{"id":"019e6226-00fa-7ee6-83ff-916e3c19cfe6"}
+{"isMorph":true}
+{"key":"heroic-slash"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"active"}
+{"slug":"heroic-slash"}
+{"subcategoryId":"weapon-one-hand-and-shield"}
+{"title":"Heroic Slash"}
+{"type":"page-type/temper-skill"}

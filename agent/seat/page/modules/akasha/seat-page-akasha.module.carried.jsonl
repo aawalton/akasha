@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every seat page sits under the folder the index files the seat type's pages in."},{"decisionKind":"decision-kind/departure","statement":"Where that folder is, and what a seat page is named, are answered elsewhere."},{"decisionKind":"decision-kind/departure","statement":"The values written are the bare ones rather than the records those values came in."},{"decisionKind":"decision-kind/departure","statement":"A seat given no parent name takes the name derived from its agent id."},{"decisionKind":"decision-kind/departure","statement":"Removing a seat page requires a reason for the stop."},{"decisionKind":"decision-kind/departure","statement":"A write that was refused has the reason for that refusal as its detail."}]}
+{"definition":"where a seat's page lives in akasha, and the writing or removal of it"}
+{"id":"01a06949-b281-7061-a6d8-d3c8324a028f"}
+{"slug":"seat-page-akasha"}
+{"type":"page-type/module"}

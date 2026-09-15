@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This value is read off the character the task names rather than stated on that task."},{"decisionKind":"decision-kind/departure","statement":"A task falling to no character has no sort order."},{"decisionKind":"decision-kind/gap","statement":"A formula cannot yet read a property off the page a relation reaches."},{"decisionKind":"decision-kind/gap","statement":"No property gives a temper character the sort order this value reads."}]}
+{"definition":"the place the character a task falls to takes in Alan's own order"}
+{"id":"01a06959-98a7-75a1-b25b-ef19416fec86"}
+{"max":null}
+{"propertySlug":"character-sort-order"}
+{"slug":"character-sort-order"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

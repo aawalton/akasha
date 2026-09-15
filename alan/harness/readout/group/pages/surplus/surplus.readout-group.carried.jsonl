@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The reading is the hours the night had less the hours the day spent."}]}
+{"definition":"how much of Alan's night the day has left him"}
+{"id":"01a05fc3-145a-74b9-bd54-23090ceb85d8"}
+{"slug":"surplus"}
+{"type":"page-type/readout-group"}

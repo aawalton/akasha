@@ -1,0 +1,19 @@
+{"baseName":"Everlasting Magic"}
+{"description":"\"Increases the duration of your Mages Guild abilities by 2 seconds.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45602}
+{"icon":"/esoui/art/icons/ability_sorcerer_063.dds"}
+{"id":"019e6238-c2ba-7da4-bdef-eb0303aeb989"}
+{"isMorph":false}
+{"key":"everlasting-magic"}
+{"learnedLevel":7}
+{"lineRankNeeded":7}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"guild-mages-guild"}
+{"skillType":"passive"}
+{"slug":"everlasting-magic"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-mages-guild"}
+{"title":"Everlasting Magic"}
+{"type":"page-type/temper-skill"}

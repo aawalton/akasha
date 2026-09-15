@@ -1,0 +1,19 @@
+{"baseName":"Juggernaut"}
+{"description":"\"Increases your Max Health by 2% for each piece of Heavy Armor equipped.  \\n\\nCurrent bonus: 0%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45546}
+{"icon":"/esoui/art/icons/ability_armor_012.dds"}
+{"id":"019e6238-c2d2-7ed3-9fc3-02945e21f2b6"}
+{"isMorph":false}
+{"key":"juggernaut"}
+{"learnedLevel":1}
+{"lineRankNeeded":14}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"armor-heavy-armor"}
+{"skillType":"passive"}
+{"slug":"juggernaut"}
+{"status":"supported"}
+{"subcategoryId":"armor-heavy-armor"}
+{"title":"Juggernaut"}
+{"type":"page-type/temper-skill"}

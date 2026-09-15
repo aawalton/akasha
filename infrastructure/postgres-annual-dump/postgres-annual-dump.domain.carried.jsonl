@@ -1,0 +1,5 @@
+{"definition":"the yearly whole copy of the database, and what it is taken by"}
+{"id":"01a06865-c012-7000-8a01-503775ee557e"}
+{"parts":["container-recipe/postgres-annual-dump-image","manifest/postgres-annual-dump-manifests","shell-script/annual-dump"]}
+{"slug":"postgres-annual-dump"}
+{"type":"page-type/domain"}

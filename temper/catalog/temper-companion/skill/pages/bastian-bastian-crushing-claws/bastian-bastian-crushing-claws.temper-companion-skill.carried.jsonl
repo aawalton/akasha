@@ -1,0 +1,13 @@
+{"abilityId":153812}
+{"companionId":"bastian"}
+{"description":"Your Companion calls forth talons from the ground, dealing $1 Flame Damage to enemies nearby and immobilizing them for $$2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_dragonknight_010.dds"}
+{"id":"019e6484-384b-7d02-b466-7ef0596869ae"}
+{"key":"bastian-crushing-claws"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-bastian-draconic-armor"}
+{"skillType":"active"}
+{"slug":"bastian-bastian-crushing-claws"}
+{"title":"Crushing Claws"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

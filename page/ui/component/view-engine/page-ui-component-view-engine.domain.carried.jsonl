@@ -1,0 +1,5 @@
+{"definition":"the rows a view draws on screen"}
+{"id":"01a071d3-819f-77d0-818b-e7da6441196a"}
+{"parts":["module/build-page-resolver","module/generate-group-definitions","module/use-page-view","module/use-view-row-aggregates","module/use-view-row-rollups","module/view-row"]}
+{"slug":"page-ui-component-view-engine"}
+{"type":"page-type/domain"}

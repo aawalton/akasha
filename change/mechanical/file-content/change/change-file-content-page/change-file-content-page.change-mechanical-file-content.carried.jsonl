@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-change"}
+{"changeTargetSubtype":"change-target-subtype/file-content-page"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The passage is worked by the change this change reaches."},{"decisionKind":"decision-kind/departure","statement":"The imports the body names after the change are judged by the change reached."},{"decisionKind":"decision-kind/absence","statement":"Nothing here judges the path a passage is worked at."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."}]}
+{"definition":"one passage of one page's body replaced, with what that page states judged"}
+{"id":"01a0826b-01da-7957-9cdb-c75c20bffe8b"}
+{"slug":"change-file-content-page"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical-file-content"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A category no rule reaches is left as that category was."}]}
+{"definition":"what becomes of each item category, worked out from the rules over the category tree"}
+{"id":"01a06100-3bf0-79a0-90a2-4dec665976b8"}
+{"slug":"item-category-actions"}
+{"type":"page-type/module"}

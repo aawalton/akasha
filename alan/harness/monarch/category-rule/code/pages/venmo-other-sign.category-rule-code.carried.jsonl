@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcdb-7006-bb68-0673fa1a2d33"}
+{"matches":[{"key":"merchant","comparison":"is","values":["venmo"]},{"key":"account","comparison":"is","values":["4042","7151"]},{"key":"sign","comparison":"is-not","values":["negative"]}]}
+{"slug":"venmo-other-sign"}
+{"title":"Venmo other sign"}
+{"type":"page-type/category-rule-code"}

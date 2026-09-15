@@ -1,0 +1,13 @@
+{"difficulty":"light"}
+{"id":"019db533-f381-770f-82fe-2cde8c153ec6"}
+{"slug":"shower"}
+{"title":"Shower"}
+{"toDoAnchoredFromCompletion":true}
+{"toDoCategory":"health"}
+{"toDoDueDate":"2026-09-15"}
+{"toDoLastCompletedAt":"2026-09-14T12:31:45.790Z"}
+{"toDoPriority":"p3"}
+{"toDoRecurrence":"FREQ=DAILY"}
+{"toDoSortOrder":46}
+{"toDoValue":"value/health"}
+{"type":"page-type/to-do"}

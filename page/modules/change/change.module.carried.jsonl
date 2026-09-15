@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A change is shown as the body before the change and the body after the change."},{"decisionKind":"decision-kind/departure","statement":"Anything reading only `after` sees a state rather than a change."},{"decisionKind":"decision-kind/departure","statement":"`before` and `after` answer for any path rather than only a path the change has."},{"decisionKind":"decision-kind/departure","statement":"A path the change never touched reads the base commit through `before` and `after`."},{"decisionKind":"decision-kind/departure","statement":"A change names the base commit it is judged against."},{"decisionKind":"decision-kind/departure","statement":"Every reading a judge makes of what the change did not touch is at that commit."},{"decisionKind":"decision-kind/departure","statement":"Audit is a change in which every file is unchanged."},{"decisionKind":"decision-kind/departure","statement":"A change may name files carried into the run beside the files it is judged over."}]}
+{"definition":"a change to files, and the bodies before and after it"}
+{"id":"01a0542d-94cd-7695-b0dc-ad22cad9bdc4"}
+{"slug":"change"}
+{"type":"page-type/module"}

@@ -1,0 +1,11 @@
+{"description":"Grants Vitality, Detection."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_009_type_005.dds"}
+{"id":"019e21f6-4048-78df-a946-724662503ccb"}
+{"key":"vitality-stealth-detection"}
+{"level":"CP150"}
+{"reagents":[{"names":["Beetle Scuttle","Chaurus Egg","Torchbug Thorax"]},{"names":["Beetle Scuttle","Corn Flower","Torchbug Thorax"]},{"names":["Beetle Scuttle","Torchbug Thorax","White Cap"]},{"names":["Beetle Scuttle","Torchbug Thorax","Wormwood"]},{"names":["Butterfly Wing","Chaurus Egg","Torchbug Thorax"]},{"names":["Butterfly Wing","Corn Flower","Torchbug Thorax"]},{"names":["Butterfly Wing","Torchbug Thorax","White Cap"]},{"names":["Butterfly Wing","Torchbug Thorax","Wormwood"]},{"names":["Chaurus Egg","Dragon's Bile","Torchbug Thorax"]},{"names":["Chaurus Egg","Fleshfly Larva","Torchbug Thorax"]},{"names":["Chaurus Egg","Powdered Mother of Pearl","Torchbug Thorax"]},{"names":["Corn Flower","Dragon's Bile","Torchbug Thorax"]},{"names":["Corn Flower","Fleshfly Larva","Torchbug Thorax"]},{"names":["Corn Flower","Powdered Mother of Pearl","Torchbug Thorax"]},{"names":["Dragon's Bile","Torchbug Thorax","White Cap"]},{"names":["Dragon's Bile","Torchbug Thorax","Wormwood"]},{"names":["Fleshfly Larva","Torchbug Thorax","White Cap"]},{"names":["Fleshfly Larva","Torchbug Thorax","Wormwood"]},{"names":["Powdered Mother of Pearl","Torchbug Thorax","White Cap"]},{"names":["Powdered Mother of Pearl","Torchbug Thorax","Wormwood"]}]}
+{"seconds":47}
+{"slug":"vitality-stealth-detection"}
+{"title":"Essence of Detection"}
+{"type":"page-type/temper-potion-crafted"}

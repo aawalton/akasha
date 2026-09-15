@@ -1,0 +1,17 @@
+{"baseName":"Curative Curse"}
+{"description":"\"While you have a negative effect on you, your healing done is increased by |cffffff6|r%.\""}
+{"esoSkillId":116286}
+{"icon":"/esoui/art/icons/passive_necromancer_009.dds"}
+{"id":"019e6f53-a053-744d-a5d6-44c107ed8db9"}
+{"isMorph":false}
+{"key":"curative-curse-116286"}
+{"learnedLevel":8}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":8}
+{"skillLineId":"necromancer-living-death"}
+{"skillType":"passive"}
+{"slug":"curative-curse-116286"}
+{"subcategoryId":"necromancer-living-death"}
+{"title":"Curative Curse"}
+{"type":"page-type/temper-skill"}

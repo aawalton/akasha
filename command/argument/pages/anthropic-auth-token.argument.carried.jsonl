@@ -1,0 +1,7 @@
+{"id":"01a094eb-ec55-71c5-ba64-12d7372a51f1"}
+{"placeholder":"token"}
+{"said":"--anthropic-auth-token"}
+{"slug":"anthropic-auth-token"}
+{"takes":"the token the seat launched here signs in with"}
+{"type":"page-type/argument"}
+{"value":"text"}

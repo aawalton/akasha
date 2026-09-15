@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A checkout root is the folder the lockfile is in."},{"decisionKind":"decision-kind/departure","statement":"A pass either writes or checks."}]}
+{"definition":"every generated manifest in a checkout written or checked against its synth"}
+{"id":"01a06810-0b68-7695-97a7-2d2f26274a9e"}
+{"slug":"synth-manifests"}
+{"type":"page-type/module"}

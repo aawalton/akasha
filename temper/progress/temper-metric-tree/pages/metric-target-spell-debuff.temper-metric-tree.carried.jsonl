@@ -1,0 +1,8 @@
+{"displayOrder":5}
+{"id":"019e2fcd-5aa7-7eac-ba29-6bd1a5d9f00f"}
+{"nodeId":"target-spell-debuff"}
+{"nodeType":"metric"}
+{"parent":"subcategory-target-toughness"}
+{"slug":"metric-target-spell-debuff"}
+{"title":"Target Spell Debuff"}
+{"type":"page-type/temper-metric-tree"}

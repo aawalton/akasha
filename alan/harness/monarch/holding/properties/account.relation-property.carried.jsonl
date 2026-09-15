@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A holding sits under exactly one account."}]}
+{"definition":"the account a holding or a transaction sits under"}
+{"id":"01a0680a-1a00-7010-9e43-7f1d8a5b1110"}
+{"propertySlug":"account"}
+{"slug":"account"}
+{"targetPageType":"page-type/monarch-account"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A trace is read here outside the game rather than inside the game."},{"decisionKind":"decision-kind/absence","statement":"No game function is called here."},{"decisionKind":"decision-kind/departure","statement":"An entry declares its kind before anything else in that entry is read."},{"decisionKind":"decision-kind/departure","statement":"An entry with a field its kind never names is refused."},{"decisionKind":"decision-kind/departure","statement":"A saved-variables table carrying a field beyond the trace is kept as found."},{"decisionKind":"decision-kind/departure","statement":"A trace the addon never wrote reads back as no entries."},{"decisionKind":"decision-kind/departure","statement":"A moment here is the second count the addon wrote."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a file."}]}
+{"definition":"the dialogue choices the quest addon made, read back and checked"}
+{"id":"01a06098-98a3-7c4d-b67f-e657dc450ff5"}
+{"slug":"auto-quest-trace"}
+{"test":"ts"}
+{"type":"page-type/module"}

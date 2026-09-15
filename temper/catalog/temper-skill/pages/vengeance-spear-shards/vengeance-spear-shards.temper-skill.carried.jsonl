@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Spear Shards"}
+{"description":"\"Send your spear into the heavens to bring down a shower of divine wrath, dealing |cffffff8820|r Magic Damage to up to 3 enemies in the area.\""}
+{"esoSkillId":237887}
+{"icon":"/esoui/art/icons/ability_templar_sun_strike.dds"}
+{"id":"019e6f53-a98e-7ec0-b349-68075492af83"}
+{"isMorph":false}
+{"key":"vengeance-spear-shards"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-templar-aedric-spear"}
+{"skillType":"active"}
+{"slug":"vengeance-spear-shards"}
+{"subcategoryId":"vengeance-templar-aedric-spear"}
+{"title":"Vengeance Spear Shards"}
+{"type":"page-type/temper-skill"}

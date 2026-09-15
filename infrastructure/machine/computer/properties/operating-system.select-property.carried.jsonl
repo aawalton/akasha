@@ -1,0 +1,7 @@
+{"definition":"which system it boots"}
+{"id":"01a0658c-329a-7dce-bdbd-00b709366c9f"}
+{"propertySlug":"operating-system"}
+{"slug":"operating-system"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["macos-sequoia","windows-11-home","windows-10-home","windows-11-pro"]}

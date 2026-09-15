@@ -1,0 +1,16 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"character":"erin-solstice"}
+{"completionCardId":"antiquity-leads-motifs"}
+{"displayOrder":0}
+{"dueDate":"2026-09-22"}
+{"effectiveCharacter":"erin-solstice"}
+{"esoCharacterId":"8796093022338107"}
+{"id":"019db533-f381-7514-8ad7-fedbef9c1ee0"}
+{"lastCompletedAt":"2026-09-15T12:06:42.000Z"}
+{"priority":"p2"}
+{"rruleAnchorFromCompletion":false}
+{"rruleRule":"FREQ=WEEKLY;BYDAY=TU"}
+{"scope":"character"}
+{"slug":"antiquity-leads-motifs"}
+{"title":"Antiquity Leads Motifs"}
+{"type":"page-type/temper-task"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The section is `d`."},{"decisionKind":"decision-kind/departure","statement":"TypeScript reads a name ending `.d.ts` as a declaration."},{"decisionKind":"decision-kind/departure","statement":"A compiler emits nothing from the types this file has."},{"decisionKind":"decision-kind/constraint","statement":"A glob never reaches this file, because the page beside it has the same stem."},{"decisionKind":"decision-kind/departure","statement":"Compiler settings meaning to read this file name the file rather than a glob."}]}
+{"definition":"the types a page declares for a compiler to read"}
+{"extensions":["ts"]}
+{"id":"01a0605a-98f3-7ddc-b839-afde87fe7bbf"}
+{"propertySlug":"d"}
+{"runsFileLength":false}
+{"slug":"ambient-types"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

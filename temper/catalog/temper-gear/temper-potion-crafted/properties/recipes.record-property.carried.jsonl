@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every reagent set brews the same drink."}]}
+{"definition":"the reagent sets a drink is brewed from, one set to an entry"}
+{"id":"01a05fd1-d43d-7c95-8ac4-1739e09c409e"}
+{"properties":[{"pageProperty":"text-property/reagent-names","required":true,"many":true,"maxCount":null}]}
+{"propertySlug":"reagents"}
+{"slug":"recipes"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

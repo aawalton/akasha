@@ -1,0 +1,9 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A day's volume is the volume of every set naming that day."},{"decisionKind":"decision-kind/departure","statement":"A set's volume is worked out on the page of the set."},{"decisionKind":"decision-kind/departure","statement":"A day's volume is rounded where a set's volume is not."},{"decisionKind":"decision-kind/departure","statement":"A day no set names is worth nothing rather than no reading."},{"decisionKind":"decision-kind/departure","statement":"A day counts the sets naming that day rather than the sets dated alike."}]}
+{"definition":"the weight Alan moved on one day, in pounds"}
+{"holds":"number"}
+{"id":"01a077d1-f967-7eef-a0ce-7139eaa1b54d"}
+{"propertySlug":"strength-volume"}
+{"slug":"strength-volume"}
+{"type":"page-type/computed-property"}
+{"types":"ts"}

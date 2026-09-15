@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reading slug has the letters its own text uses rather than Latin alone."}]}
+{"definition":"the name a reading is looked up by"}
+{"id":"01a063ce-6216-7003-82e9-30fd6cf9ebfc"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"reading-slug"}
+{"slug":"reading-slug"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

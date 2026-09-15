@@ -1,0 +1,13 @@
+{"abilityId":169465}
+{"companionId":"ember"}
+{"description":"Increases Critical Chance by 3% and damage done by 3%."}
+{"icon":"/esoui/art/icons/ability_companion_sorcerer_enchanted.dds"}
+{"id":"019e6484-3859-79c2-8c47-1308c07b5fcd"}
+{"key":"ember-cunning"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-ember"}
+{"skillType":"passive"}
+{"slug":"ember-ember-cunning"}
+{"title":"Enchanted"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

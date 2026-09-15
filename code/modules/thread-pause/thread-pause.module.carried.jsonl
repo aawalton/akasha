@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The wait reaches no `Bun` global."},{"decisionKind":"decision-kind/departure","statement":"The thread is held rather than a later turn taken."},{"decisionKind":"decision-kind/absence","statement":"How long a caller waits in all is bounded by that caller."}]}
+{"definition":"the thread held still for a number of milliseconds"}
+{"id":"01a08e0b-3619-7b50-b734-15e0787219e1"}
+{"slug":"thread-pause"}
+{"type":"page-type/module"}

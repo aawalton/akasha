@@ -1,0 +1,8 @@
+{"definition":"Prometheus cannot scrape a target it is configured to reach"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fb-7224-9bc4-151ce311e259"}
+{"runbook":"txt"}
+{"slug":"target-down"}
+{"summary":"Scrape target {{ $labels.job }} / {{ $labels.instance }} is down"}
+{"title":"Target down"}
+{"type":"page-type/alert"}

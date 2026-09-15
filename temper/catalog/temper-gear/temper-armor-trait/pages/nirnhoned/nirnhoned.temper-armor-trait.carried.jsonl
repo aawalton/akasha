@@ -1,0 +1,10 @@
+{"displayOrder":5}
+{"effect":"Increases Physical and Spell Resistance"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_ARMOR_NIRNHONED"}
+{"id":"01a05fb2-1bd0-79e8-a878-97f1cb25677d"}
+{"key":"nirnhoned"}
+{"material":"Fortified Nirncrux"}
+{"qualityValues":"jsonl"}
+{"slug":"nirnhoned"}
+{"title":"Nirnhoned"}
+{"type":"page-type/temper-armor-trait"}

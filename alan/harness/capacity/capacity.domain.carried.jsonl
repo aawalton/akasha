@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The capacity is read from the tracking the workstation's checkout carries."},{"decisionKind":"decision-kind/departure","statement":"The capacity is summed over the stretches of the day rather than read off the day."},{"decisionKind":"decision-kind/departure","statement":"Every site showing the capacity is carried the capacity rather than taking that capacity."},{"decisionKind":"decision-kind/departure","statement":"A carry that fails to one site does not stop the carry to another site."},{"decisionKind":"decision-kind/departure","statement":"The tile shows the capacity Alan's workstation last took."},{"decisionKind":"decision-kind/constraint","statement":"A capacity nothing can be read for is shown as no signal rather than as a zero."}]}
+{"definition":"how much stress capacity Alan's day has left him in hand"}
+{"id":"01a06230-614e-7825-b4af-dd84fd42f0ce"}
+{"parts":["module/capacity-reading","readout/upkeep-capacity","service-workstation/capacity-relay-service"]}
+{"slug":"capacity"}
+{"type":"page-type/domain"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The profile is ruled on whole."},{"decisionKind":"decision-kind/departure","statement":"An unknown field refuses the read."},{"decisionKind":"decision-kind/departure","statement":"A bucket the addon left empty is read as an empty list rather than as absent."}]}
+{"definition":"the Lua profile the inventory addon records over a visit to a banker"}
+{"id":"01a06864-aa2b-7001-b025-909d59f3ea04"}
+{"slug":"bank-profile-reading"}
+{"type":"page-type/module"}

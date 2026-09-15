@@ -1,0 +1,5 @@
+{"definition":"which build of the app is running"}
+{"id":"01a071ce-f0cf-7b67-870b-8e95b49f98bf"}
+{"parts":["module/app-version-check","module/use-app-version-check"]}
+{"slug":"page-ui-app-version"}
+{"type":"page-type/domain"}

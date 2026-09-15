@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"These rows are a frozen port of an upstream table."},{"decisionKind":"decision-kind/gap","statement":"No program in this repository rebuilds these rows."}]}
+{"definition":"the last third of the item set rows, in the order upstream wrote them"}
+{"id":"01a06178-371f-75d6-801d-356fb33ed5a5"}
+{"slug":"item-browser-items-3"}
+{"type":"page-type/module"}

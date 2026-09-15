@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The defaults name every field the payload has."},{"decisionKind":"decision-kind/departure","statement":"The game saves the add-on under the name `TemperCatalog_SavedVariables`."},{"decisionKind":"decision-kind/departure","statement":"A load time is kept."}]}
+{"definition":"the name, version and empty defaults the catalog add-on hands the game to save under"}
+{"id":"01a06071-0c77-71fa-866d-8ddbd099aa5c"}
+{"slug":"catalog-descriptor"}
+{"type":"page-type/module"}

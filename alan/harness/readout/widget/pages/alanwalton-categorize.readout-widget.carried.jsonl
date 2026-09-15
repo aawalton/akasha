@@ -1,0 +1,14 @@
+{"app":"ios-app/alanwalton"}
+{"component":"ios-component/categorize-ring"}
+{"definition":"the tile on Alan's phone showing how many transactions are unreviewed"}
+{"families":["small"]}
+{"feed":"https://alanwalton.com/api/categorization"}
+{"galleryDescription":"How many of the past year's transactions Monarch is waiting to have reviewed."}
+{"galleryName":"Left to Review"}
+{"groups":["readout-group/categorization"]}
+{"id":"01a054d1-d1a4-72af-8c87-d77add25efb9"}
+{"kind":"CategorizeWidget"}
+{"opens":"capacitor://monarch-relay#widget=alanwalton-categorize"}
+{"place":7}
+{"slug":"alanwalton-categorize"}
+{"type":"page-type/readout-widget"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the text filled out to a length with other text added at its front"}
+{"id":"01a081f7-142d-7a13-8bc8-1291865192a2"}
+{"luaExport":"__TS__StringPadStart"}
+{"slug":"string-pad-start"}
+{"type":"page-type/lualib-helper"}

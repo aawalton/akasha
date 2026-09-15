@@ -1,0 +1,6 @@
+{"definition":"whether a card's specialisation has been settled and shut"}
+{"id":"01a06596-f0d5-7006-b7ce-ac38a3dd0a68"}
+{"propertySlug":"specialize-locked"}
+{"slug":"specialize-locked"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

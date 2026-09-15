@@ -1,0 +1,6 @@
+{"decisionGroup":"decision-group/design"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Knowing a constraint stops a reader asking for the impossible."}]}
+{"definition":"a limit nobody here chose"}
+{"id":"01a04e11-9f98-7f57-a74d-2bf329d4a0a0"}
+{"slug":"constraint"}
+{"type":"page-type/decision-kind"}

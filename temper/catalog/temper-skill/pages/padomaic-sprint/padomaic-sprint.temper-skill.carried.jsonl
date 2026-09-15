@@ -1,0 +1,19 @@
+{"baseName":"Padomaic Sprint"}
+{"description":"\"Grants Major Expedition, increasing your Movement Speed by 30% for 12 seconds after killing an enemy with Blade of Woe.\""}
+{"effects":"jsonl"}
+{"esoSkillId":79868}
+{"icon":"/esoui/art/icons/ability_darkbrotherhood_passive_004.dds"}
+{"id":"019e6238-c2f4-73d7-a608-d2f032275217"}
+{"isMorph":false}
+{"key":"padomaic-sprint"}
+{"learnedLevel":12}
+{"lineRankNeeded":12}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"guild-dark-brotherhood"}
+{"skillType":"passive"}
+{"slug":"padomaic-sprint"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-dark-brotherhood"}
+{"title":"Padomaic Sprint"}
+{"type":"page-type/temper-skill"}

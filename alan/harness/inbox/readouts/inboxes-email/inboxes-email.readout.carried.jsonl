@@ -1,0 +1,12 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The reading is the count the day's own page has."},{"decisionKind":"decision-kind/departure","statement":"The reading is how near the inbox came to empty rather than where the inbox is."},{"decisionKind":"decision-kind/departure","statement":"No day written down is no reading rather than a count of zero."},{"decisionKind":"decision-kind/departure","statement":"A day with no count is no reading rather than a count of zero."},{"decisionKind":"decision-kind/absence","statement":"Nothing here caches a reading or decides when a reading is taken."},{"decisionKind":"decision-kind/absence","statement":"Nothing here turns a count into a color."}]}
+{"definition":"how near Alan's mail came to empty today"}
+{"groups":["readout-group/inboxes"]}
+{"id":"01a06230-b155-7d69-9e39-eb26b5607d9e"}
+{"label":"Email"}
+{"place":1}
+{"reading":{}}
+{"scale":"readout-scale/lowest-inbox-count"}
+{"slug":"inboxes-email"}
+{"type":"page-type/readout"}
+{"unit":"messages"}
+{"wireKey":"email"}

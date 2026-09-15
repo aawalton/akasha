@@ -1,0 +1,8 @@
+{"definition":"a place a companion wears one piece of armor"}
+{"extends":["page-type/temper-companion-thing"]}
+{"id":"01a05fcd-aece-70c8-8784-e3afaec07950"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"number-property/equip-type","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-companion-armor-slot"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

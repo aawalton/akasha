@@ -1,0 +1,7 @@
+{"definition":"old build tags dropped from the registry and the freed blobs collected"}
+{"id":"01a06865-abff-7016-a63b-674885e86211"}
+{"scripting":{}}
+{"shell":"sh"}
+{"slug":"registry-gc"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

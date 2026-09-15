@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the 4 value conditions named in the code."}]}
+{"definition":"the Market Value condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3bf3-7e98-bc03-434a49553e2c"}
+{"slug":"market-value-filter"}
+{"type":"page-type/module"}

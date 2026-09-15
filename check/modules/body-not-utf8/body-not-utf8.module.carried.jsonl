@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The refusal names the source the command read and how many bytes were there and the leading bytes."}]}
+{"definition":"the words refusing a body whose bytes are not utf8, with what was read of them"}
+{"id":"01a06982-39cd-7000-aaed-afa3d4b4e20b"}
+{"slug":"body-not-utf8"}
+{"type":"page-type/module"}

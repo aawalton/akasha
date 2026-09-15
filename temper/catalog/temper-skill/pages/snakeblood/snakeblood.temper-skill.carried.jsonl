@@ -1,0 +1,17 @@
+{"baseName":"Snakeblood"}
+{"description":"\"Reduces duration of negative effects in potions by 100% when consumed.\""}
+{"esoSkillId":47834}
+{"icon":"/esoui/art/icons/ability_alchemy_005.dds"}
+{"id":"019e6224-ccae-70d5-9930-f5a3a34b2ef5"}
+{"isMorph":false}
+{"key":"snakeblood"}
+{"learnedLevel":43}
+{"lineRankNeeded":43}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-alchemy"}
+{"skillType":"passive"}
+{"slug":"snakeblood"}
+{"subcategoryId":"craft-alchemy"}
+{"title":"Snakeblood"}
+{"type":"page-type/temper-skill"}

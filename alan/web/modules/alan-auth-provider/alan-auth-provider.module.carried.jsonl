@@ -1,0 +1,7 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A session ending clears the account every component below this provider reads."},{"decisionKind":"decision-kind/departure","statement":"A module replaced under test is spelled as the code under test spells it."},{"decisionKind":"decision-kind/departure","statement":"The account is cleared in a render of its own before the route changes."},{"decisionKind":"decision-kind/departure","statement":"Signing out lands on the signed-out route carrying where the person was."}]}
+{"definition":"the signed-in account held for every component below it"}
+{"id":"01a0655d-dab8-75b5-b6b9-521ef16cadd1"}
+{"slug":"alan-auth-provider"}
+{"test":"tsx"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Chef"}
+{"description":"\"Creates 3 extra servings for each food recipe made.\""}
+{"esoSkillId":44619}
+{"icon":"/esoui/art/icons/ability_provisioner_002.dds"}
+{"id":"019e6224-cc8e-720f-b708-89c452c66b15"}
+{"isMorph":false}
+{"key":"chef"}
+{"learnedLevel":1}
+{"lineRankNeeded":7}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-provisioning"}
+{"skillType":"passive"}
+{"slug":"chef"}
+{"subcategoryId":"craft-provisioning"}
+{"title":"Chef"}
+{"type":"page-type/temper-skill"}

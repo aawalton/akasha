@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Rows are made once and reused as the list changes."}]}
+{"definition":"drawing one row for each favourite house in the house tab"}
+{"id":"01a06128-d5cd-747f-9722-dadfc96875d3"}
+{"slug":"housing-favorites-render"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Arctic Wind"}
+{"description":"\"Envelop yourself in winter winds, instantly healing for |cffffff6232|r Health and healing for an additional |cffffff1716|r Health every |cffffff2|r seconds over |cffffff10|r seconds. You also heal a nearby ally for |cffffff4154|r Health. This ability scales off your Max Health.\""}
+{"esoSkillId":86152}
+{"icon":"/esoui/art/icons/ability_warden_003_a.dds"}
+{"id":"019e6f53-a519-7ad8-8f92-ad515d504842"}
+{"isMorph":true}
+{"key":"polar-wind-86152"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":1}
+{"rank":20}
+{"skillLineId":"warden-winters-embrace"}
+{"skillType":"active"}
+{"slug":"polar-wind-86152"}
+{"subcategoryId":"warden-winters-embrace"}
+{"title":"Polar Wind"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the length an array reaches once items are added to its end"}
+{"id":"01a081dd-f309-7cf2-ba7f-c67c0ddec8a9"}
+{"luaExport":"__TS__ArrayPush"}
+{"slug":"array-push"}
+{"type":"page-type/lualib-helper"}

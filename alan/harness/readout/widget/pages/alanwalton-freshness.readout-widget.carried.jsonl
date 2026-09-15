@@ -1,0 +1,12 @@
+{"app":"ios-app/alanwalton"}
+{"caption":"Freshness"}
+{"component":"ios-component/freshness-widget"}
+{"definition":"the tile on Alan's phone saying how old the oldest reading his tiles hold is"}
+{"families":["small"]}
+{"galleryDescription":"How old the oldest reading on your tiles is. Tap to refresh them all."}
+{"galleryName":"Freshness"}
+{"id":"01a09b02-838e-78c6-9f19-32ed032ab747"}
+{"kind":"FreshnessWidget"}
+{"place":13}
+{"slug":"alanwalton-freshness"}
+{"type":"page-type/readout-widget"}

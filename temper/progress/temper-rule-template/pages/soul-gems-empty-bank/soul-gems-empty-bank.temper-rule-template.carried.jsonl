@@ -1,0 +1,13 @@
+{"action":"temper-item-action/move-to"}
+{"active":false}
+{"categoryId":"soul-gems"}
+{"conditions":"jsonl"}
+{"description":"Deposits empty (white quality) soul gems in the bank. Filled and crown soul gems are kept."}
+{"destination":"bank"}
+{"displayOrder":23}
+{"goal":"temper-rule-goal/task"}
+{"id":"019e3104-2619-7c16-a6af-1fd45755e988"}
+{"key":"soul-gems-empty-bank"}
+{"slug":"soul-gems-empty-bank"}
+{"title":"Bank empty soul gems"}
+{"type":"page-type/temper-rule-template"}

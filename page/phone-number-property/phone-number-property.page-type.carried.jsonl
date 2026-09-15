@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A number is written in E.164."},{"decisionKind":"decision-kind/departure","statement":"A number opens with `+`."},{"decisionKind":"decision-kind/departure","statement":"A number has digits alone."},{"decisionKind":"decision-kind/departure","statement":"A number has its own country calling code."},{"decisionKind":"decision-kind/departure","statement":"A number reaching fifteen digits is the longest there is."},{"decisionKind":"decision-kind/departure","statement":"A number states no max."}]}
+{"definition":"a page property with a telephone number"}
+{"extends":["page-type/page-property"]}
+{"id":"01a053e9-5cd1-7137-9fbb-c33920c95575"}
+{"schema":"jsonl"}
+{"shapes":"jsonl"}
+{"slug":"phone-number-property"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

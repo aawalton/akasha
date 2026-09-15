@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A router app's routes are declared here rather than on the router app."},{"decisionKind":"decision-kind/departure","statement":"A page here is slugged the router app's slug followed by `routes`."},{"decisionKind":"decision-kind/departure","statement":"A router app names the page here as a part rather than naming each route."}]}
+{"definition":"the routes one router app serves"}
+{"extends":["page-type/domain"]}
+{"id":"01a08bde-996d-7a1b-9c3e-1dba85f9060d"}
+{"parts":["code-file-property/app-layout"]}
+{"properties":[{"pageProperty":"code-file-property/app-layout","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"app-routes"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

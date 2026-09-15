@@ -1,0 +1,17 @@
+{"baseName":"Remedy Cascade"}
+{"description":"\"Channel the abyssal sea to coalesce a beam that heals you and your allies in its path for |cffffff36764|r Health over |cffffff4.5|r seconds.\\n\\nThe beam heals for up to |cffffff50|r% more in proportion to the severity of the target's wounds as you reweave fate itself.\\n\\nConsume Crux to also restore |cffffff728|r Magicka and Stamina per Crux spent to your allies over |cffffff4.5|r seconds.\""}
+{"esoSkillId":186193}
+{"icon":"/esoui/art/icons/ability_arcanist_014_a.dds"}
+{"id":"019e6f53-9fbd-7a96-833c-0410966f5f59"}
+{"isMorph":true}
+{"key":"cascading-fortune-186193"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":4}
+{"skillLineId":"arcanist-curative-runeforms"}
+{"skillType":"active"}
+{"slug":"cascading-fortune-186193"}
+{"subcategoryId":"arcanist-curative-runeforms"}
+{"title":"Cascading Fortune"}
+{"type":"page-type/temper-skill"}

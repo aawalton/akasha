@@ -1,0 +1,8 @@
+{"definition":"where the number an app's next build takes is kept on the mac"}
+{"id":"01a06289-79d4-743e-a265-9222fcd03283"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"mac-build-number-file"}
+{"slug":"mac-build-number-file"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

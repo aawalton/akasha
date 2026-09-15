@@ -1,0 +1,6 @@
+{"definition":"the process running a seat"}
+{"id":"01a0797a-9a21-7274-b0a9-16a707e7c032"}
+{"name":"supervisor"}
+{"parts":["command/seat-supervisor-restart","command/seat-supervisor-stop"]}
+{"slug":"seat-supervisor"}
+{"type":"page-type/namespace"}

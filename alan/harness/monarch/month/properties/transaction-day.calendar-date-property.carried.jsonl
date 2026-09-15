@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A transaction sits beside the month its day falls in."}]}
+{"definition":"the day money moved"}
+{"id":"01a0680b-2b00-7001-8c63-5f1a9d4b2102"}
+{"propertySlug":"transaction-day"}
+{"slug":"transaction-day"}
+{"type":"page-type/calendar-date-property"}
+{"types":"ts"}

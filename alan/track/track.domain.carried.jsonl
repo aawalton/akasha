@@ -1,1 +1,5 @@
+{"definition":"what is measured about Alan"}
+{"id":"01a062dc-1b7f-7bbe-a348-b71f1bbf4c9c"}
 {"parts":["domain/track-daily","module/track-landing","page-type/food-entry","page-type/location-trace","page-type/rejection","page-type/session-activity","page-type/to-do","page-type/tracking-capture","page-type/tracking-entry","page-type/tracking-entry-date","page-type/tracking-entry-instant","page-type/tracking-entry-session","page-type/tracking-field"]}
+{"slug":"track"}
+{"type":"page-type/domain"}

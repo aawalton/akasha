@@ -1,0 +1,7 @@
+{"definition":"how many items a pull could not take"}
+{"id":"01a06861-f664-79a4-bf61-064bcd7e6204"}
+{"max":null}
+{"propertySlug":"failed-count"}
+{"slug":"failed-count"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

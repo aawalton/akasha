@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Whether a task names a completion card is worked out in one place."}]}
+{"definition":"whether a task names a completion card, and what its item path holds at an index"}
+{"id":"01a062ee-efdd-7065-b808-78f99e6b809a"}
+{"slug":"characters-task-card-match"}
+{"type":"page-type/module"}

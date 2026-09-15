@@ -1,0 +1,17 @@
+{"baseName":"Dive"}
+{"description":"\"Command a cliff racer to dive bomb an enemy, dealing 2160 Magic Damage.\\n\\nIf you are more than 7 meters away from the target, you set them Off Balance for 7 seconds.\\n\\nAfter dealing damage you increase your Weapon and Spell Damage by 100 for 10 seconds, which quadruples after damaging Off Balance enemies.\""}
+{"esoSkillId":86006}
+{"icon":"/esoui/art/icons/ability_warden_013_a.dds"}
+{"id":"019e6245-a726-70ab-acb3-e8f2ba83dd18"}
+{"isMorph":true}
+{"key":"screaming-cliff-racer"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"warden-animal-companions"}
+{"skillType":"active"}
+{"slug":"screaming-cliff-racer"}
+{"subcategoryId":"warden-animal-companions"}
+{"title":"Screaming Cliff Racer"}
+{"type":"page-type/temper-skill"}

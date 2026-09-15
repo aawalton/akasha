@@ -1,0 +1,5 @@
+{"id":"01a06611-398e-78c1-bb84-671b5df5f4f7"}
+{"slug":"page-block-narrowing-unresolved"}
+{"text":"`{path}` states `blocks.{key}.narrows: {narrows}`, and no page type it extends declares `blocks.{key}`.\n\nA narrowing names the declaration it narrows."}
+{"title":"Page block narrowing unresolved"}
+{"type":"page-type/refusal"}

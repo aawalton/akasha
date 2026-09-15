@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The prelude is loaded from the file beside the prelude's own page."},{"decisionKind":"decision-kind/departure","statement":"The prelude file is read once and kept for every VM after the first."},{"decisionKind":"decision-kind/departure","statement":"The banned names are handed over before the prelude loads."},{"decisionKind":"decision-kind/departure","statement":"A seeded value waits until the next source is loaded."},{"decisionKind":"decision-kind/departure","statement":"A seeded value no Lua literal can carry is seeded as a stub instead."},{"decisionKind":"decision-kind/departure","statement":"A seeded function is seeded as a stub."},{"decisionKind":"decision-kind/departure","statement":"Source is handed over as one long literal rather than as an escaped string."}]}
+{"definition":"a Lua VM whose globals answer as the game's globals would"}
+{"id":"01a06059-2493-7f9b-a205-1e78ff949f76"}
+{"slug":"sandboxed-lua-vm"}
+{"type":"page-type/module"}

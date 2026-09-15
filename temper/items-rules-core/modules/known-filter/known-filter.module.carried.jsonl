@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the `known` condition alone."},{"decisionKind":"decision-kind/departure","statement":"A category outside the three roots named in the code is offered no Known Status condition."}]}
+{"definition":"the Known Status condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3bf1-7c10-962d-c2163a907de5"}
+{"slug":"known-filter"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The stats are named here in the order the gathered table answers its ids in."}]}
+{"definition":"character stats ha-restore-shock-staff through healing-done-dot"}
+{"id":"01a06131-abb3-714c-9bd1-ae338762c5ba"}
+{"slug":"metrics-data-07"}
+{"type":"page-type/module"}

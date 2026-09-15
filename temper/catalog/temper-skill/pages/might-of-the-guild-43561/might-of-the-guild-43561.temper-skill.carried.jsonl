@@ -1,0 +1,17 @@
+{"baseName":"Might of the Guild"}
+{"description":"\"Casting a Mages Guild ability grants you Empower, increasing the damage of your Heavy Attacks against monsters by |cffffff70|r% for |cffffff5|r seconds.\""}
+{"esoSkillId":43561}
+{"icon":"/esoui/art/icons/ability_sorcerer_038.dds"}
+{"id":"019e6f53-a487-7f38-a4ba-12ab80600e3d"}
+{"isMorph":false}
+{"key":"might-of-the-guild-43561"}
+{"learnedLevel":1}
+{"lineRankNeeded":9}
+{"morphIndex":0}
+{"rank":9}
+{"skillLineId":"guild-mages-guild"}
+{"skillType":"passive"}
+{"slug":"might-of-the-guild-43561"}
+{"subcategoryId":"guild-mages-guild"}
+{"title":"Might of the Guild"}
+{"type":"page-type/temper-skill"}

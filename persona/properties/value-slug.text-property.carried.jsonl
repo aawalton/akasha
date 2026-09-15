@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/stopgap","statement":"The six values a persona represents are not pages."},{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a value."}]}
+{"definition":"the value a persona represents"}
+{"id":"01a0534e-c7e0-74c3-9eea-499d48af54db"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"value-slug"}
+{"slug":"value-slug"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

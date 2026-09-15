@@ -1,0 +1,9 @@
+{"definition":"the person behind an account, and how that person has asked temper to behave"}
+{"extends":["page-type/temper-character-thing"]}
+{"id":"01a05fcd-f558-7259-93c1-1504762aa59c"}
+{"parts":["file-property/settings","select-property/platform","select-property/server","text-property/completion-visibility","text-property/player-handle"]}
+{"properties":[{"pageProperty":"text-property/completion-visibility","required":true,"many":false},{"pageProperty":"select-property/platform","required":false,"many":false},{"pageProperty":"text-property/player-handle","required":false,"many":false},{"pageProperty":"select-property/server","required":false,"many":false},{"pageProperty":"file-property/settings","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-player"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Lightning Splash"}
+{"description":"\"Create a nexus of storm energy at the target location, dealing |cffffff9701|r Shock Damage to up to 3 enemies in the area.\""}
+{"esoSkillId":237959}
+{"icon":"/esoui/art/icons/ability_sorcerer_lightning_splash.dds"}
+{"id":"019e6f53-a931-7f72-a75b-5d91bde5858a"}
+{"isMorph":false}
+{"key":"vengeance-lightning-splash"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-sorcerer-storm-calling"}
+{"skillType":"active"}
+{"slug":"vengeance-lightning-splash"}
+{"subcategoryId":"vengeance-sorcerer-storm-calling"}
+{"title":"Vengeance Lightning Splash"}
+{"type":"page-type/temper-skill"}

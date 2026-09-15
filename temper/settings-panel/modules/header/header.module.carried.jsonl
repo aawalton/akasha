@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"A header has no setting of its own."}]}
+{"definition":"a line naming the group of settings that follows it"}
+{"id":"01a06053-3637-756b-93c2-519e609ad2d8"}
+{"slug":"header"}
+{"type":"page-type/module"}

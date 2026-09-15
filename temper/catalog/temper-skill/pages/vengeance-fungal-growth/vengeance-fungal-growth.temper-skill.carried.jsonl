@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Fungal Growth"}
+{"description":"\"Seed a large area of mushrooms in front of you, healing up to 3 of you and your allies for |cffffff12048|r Health.\""}
+{"esoSkillId":238054}
+{"icon":"/esoui/art/icons/ability_warden_008.dds"}
+{"id":"019e6f53-a919-74ee-86a4-7e4815371fe2"}
+{"isMorph":false}
+{"key":"vengeance-fungal-growth"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-warden-green-balance"}
+{"skillType":"active"}
+{"slug":"vengeance-fungal-growth"}
+{"subcategoryId":"vengeance-warden-green-balance"}
+{"title":"Vengeance Fungal Growth"}
+{"type":"page-type/temper-skill"}

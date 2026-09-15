@@ -1,0 +1,17 @@
+{"baseName":"Force Shock"}
+{"description":"\"Focus all the elemental energies with your staff and blast an enemy for |cffffff2423|r Flame Damage, |cffffff2423|r Frost Damage, and |cffffff2423|r Shock Damage.\""}
+{"esoSkillId":46340}
+{"icon":"/esoui/art/icons/ability_destructionstaff_001.dds"}
+{"id":"019e6f53-a22a-7169-ba45-ee192e534f73"}
+{"isMorph":false}
+{"key":"force-shock"}
+{"learnedLevel":1}
+{"lineRankNeeded":2}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"force-shock"}
+{"subcategoryId":"weapon-destruction-staff"}
+{"title":"Force Shock"}
+{"type":"page-type/temper-skill"}

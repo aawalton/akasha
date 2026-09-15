@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The progress folded here arrives in one bundle rather than as separate arguments."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a catalog."}]}
+{"definition":"the numbers one character's summary card shows, folded from that character's progress"}
+{"id":"01a063a1-6ec2-7027-8d27-e1641844f7dc"}
+{"slug":"completion-summary"}
+{"type":"page-type/module"}

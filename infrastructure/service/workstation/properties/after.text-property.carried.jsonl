@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A unit named here orders the start without being required to be there."}]}
+{"definition":"a unit this unit starts after"}
+{"id":"01a06738-9f12-7d3a-bae3-9a7bbcd5ba19"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"after"}
+{"slug":"after"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

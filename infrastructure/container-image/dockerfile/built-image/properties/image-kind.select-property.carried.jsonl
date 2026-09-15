@@ -1,0 +1,7 @@
+{"definition":"the sort of Dockerfile written for an image"}
+{"id":"01a08193-7355-71ba-87d6-55a66969775c"}
+{"propertySlug":"kind"}
+{"slug":"image-kind"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["nextjs","bun-service","tool-image"]}

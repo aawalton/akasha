@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A report raised by a server names the server rather than a browser."}]}
+{"definition":"the browser or shell that reported an error"}
+{"id":"01a05f3f-e3e0-7e41-90e7-af904c25308e"}
+{"maxLength":1024}
+{"nameFormat":null}
+{"propertySlug":"user-agent"}
+{"slug":"error-user-agent"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

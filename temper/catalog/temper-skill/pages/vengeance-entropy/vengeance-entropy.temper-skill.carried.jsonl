@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Entropy"}
+{"description":"\"Bind an enemy with chaotic magic, dealing |cffffff16800|r Magic Damage over |cffffff6|r seconds.\""}
+{"esoSkillId":246479}
+{"icon":"/esoui/art/icons/ability_mageguild_004.dds"}
+{"id":"019e6f53-a8ff-7be5-be72-043ce194bde0"}
+{"isMorph":false}
+{"key":"vengeance-entropy"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-guild-mages-guild"}
+{"skillType":"active"}
+{"slug":"vengeance-entropy"}
+{"subcategoryId":"vengeance-guild-mages-guild"}
+{"title":"Vengeance Entropy"}
+{"type":"page-type/temper-skill"}

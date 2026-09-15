@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A brief is written outside the text the brief summarises."},{"decisionKind":"decision-kind/departure","statement":"A brief says the substance of a record rather than repeating the record's text."}]}
+{"definition":"the summary a record carries apart from its text"}
+{"id":"01a0657d-b91d-7300-bbfd-a4142a6e47e4"}
+{"maxLength":500}
+{"nameFormat":null}
+{"propertySlug":"brief"}
+{"slug":"record-brief"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

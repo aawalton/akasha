@@ -1,0 +1,10 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page answers to its type alone."},{"decisionKind":"decision-kind/absence","statement":"A page answers to no type that its type extends."},{"decisionKind":"decision-kind/departure","statement":"The type a page answers to is read before the page is changed."},{"decisionKind":"decision-kind/departure","statement":"Only a page answers to a type."},{"decisionKind":"decision-kind/departure","statement":"A file sitting beside a page by a file property is no page and warrants no type of its own."},{"decisionKind":"decision-kind/departure","statement":"A type whose page cannot be found is no warrant."}]}
+{"definition":"what a seat must read for the type of the page it changes"}
+{"id":"01a04f58-a7f0-7001-8b6e-2d51f0a9c344"}
+{"runsOnRead":true}
+{"runsOnWrite":true}
+{"slug":"file-page-type"}
+{"test":"ts"}
+{"transitive":false}
+{"type":"page-type/context-warrant"}

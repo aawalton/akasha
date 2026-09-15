@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An inner effect names the same kinds an outer effect names."}]}
+{"definition":"the inner effect a delayed or repeating effect carries"}
+{"id":"01a06196-037c-704b-a0d5-349064c3a709"}
+{"properties":[{"pageProperty":"text-property/skill-effect-type","required":false,"many":false},{"pageProperty":"record-property/effect-target","required":false,"many":false},{"pageProperty":"record-property/effect-formula","required":false,"many":false},{"pageProperty":"record-property/effect-status","required":false,"many":false},{"pageProperty":"record-property/effect-conditions","required":false,"many":true,"maxCount":null},{"pageProperty":"text-property/damage-type","required":false,"many":false},{"pageProperty":"number-property/duration","required":false,"many":false},{"pageProperty":"one-of-property/carried-effect","required":false,"many":false}]}
+{"propertySlug":"effect"}
+{"slug":"nested-effect"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

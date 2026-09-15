@@ -1,0 +1,17 @@
+{"baseName":"Trafficker"}
+{"description":"\"Increases the number of fence interactions you can use each day by 180%.\""}
+{"esoSkillId":63810}
+{"icon":"/esoui/art/icons/ability_legerdemain_salesman.dds"}
+{"id":"019e6251-4cf9-7505-bd13-cd37c6fe9348"}
+{"isMorph":false}
+{"key":"trafficker"}
+{"learnedLevel":18}
+{"lineRankNeeded":18}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"world-legerdemain"}
+{"skillType":"passive"}
+{"slug":"trafficker"}
+{"subcategoryId":"world-legerdemain"}
+{"title":"Trafficker"}
+{"type":"page-type/temper-skill"}

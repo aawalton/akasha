@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A tier names where the items go and how many items the tier takes."}]}
+{"definition":"the shape of one tier in a chain of destinations an item cascades down"}
+{"id":"01a06100-3beb-7cbe-8efb-ecf0935f3720"}
+{"slug":"destination-chain-types"}
+{"type":"page-type/module"}

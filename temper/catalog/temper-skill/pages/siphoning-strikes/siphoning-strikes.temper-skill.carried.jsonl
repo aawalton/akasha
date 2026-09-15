@@ -1,0 +1,17 @@
+{"baseName":"Siphoning Strikes"}
+{"description":"\"Channel a portion of your soul to convert Health to |cffffff2000|r Magicka and Stamina.\\n\\nWhile slotted on either bar, your soul yearns for the warmth of life. All damage you deal heals you for |cffffff1275|r Health, up to once every |cffffff1|r second.\""}
+{"esoSkillId":33319}
+{"icon":"/esoui/art/icons/ability_nightblade_003.dds"}
+{"id":"019e6f53-a72b-7db3-8a77-baa696784a26"}
+{"isMorph":false}
+{"key":"siphoning-strikes"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":30}
+{"skillLineId":"nightblade-siphoning"}
+{"skillType":"active"}
+{"slug":"siphoning-strikes"}
+{"subcategoryId":"nightblade-siphoning"}
+{"title":"Siphoning Strikes"}
+{"type":"page-type/temper-skill"}

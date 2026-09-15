@@ -1,0 +1,17 @@
+{"baseName":"Superheated Ward"}
+{"description":"\"Roil the air around you or an ally, granting a damage shield that absorbs up to |cffffff9859|r for |cffffff6|r seconds.\\n\\nThis ability scales off the higher of your Max Magicka or Stamina and is capped at |cffffff50|r% of the target's Max Health.\""}
+{"esoSkillId":29032}
+{"icon":"/esoui/art/icons/ability_dragonknight_013.dds"}
+{"id":"019e6f53-a7f5-7c52-8126-9f39761b6afe"}
+{"isMorph":false}
+{"key":"superheated-ward"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"dragonknight-earthen-heart"}
+{"skillType":"active"}
+{"slug":"superheated-ward"}
+{"subcategoryId":"dragonknight-earthen-heart"}
+{"title":"Superheated Ward"}
+{"type":"page-type/temper-skill"}

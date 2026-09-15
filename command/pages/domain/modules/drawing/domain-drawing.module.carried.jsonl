@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A domain is a page of the `domain` page type rather than a page with a slug."},{"decisionKind":"decision-kind/departure","statement":"An edge is a `domain/<slug>` part named by the domain with that part."},{"decisionKind":"decision-kind/departure","statement":"A root is a domain no domain names as a part."},{"decisionKind":"decision-kind/departure","statement":"A part naming no domain page is drawn and marked rather than passed over."},{"decisionKind":"decision-kind/departure","statement":"A slug named that has no domain page throws."},{"decisionKind":"decision-kind/departure","statement":"A tree or a subject holding nothing throws rather than answering empty."},{"decisionKind":"decision-kind/departure","statement":"A page type is a kind of domain where any type that page type names above that page type is."},{"decisionKind":"decision-kind/departure","statement":"A domain open above the point being drawn is marked rather than drawn again."},{"decisionKind":"decision-kind/absence","statement":"A domain drawn elsewhere is no domain open above the point being drawn."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a command line."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes."}]}
+{"definition":"the domains read off their pages, drawn as a tree or handed over whole"}
+{"id":"01a07c03-68a7-7fca-91e7-b541e1efa8cb"}
+{"slug":"domain-drawing"}
+{"test":"ts"}
+{"type":"page-type/module"}

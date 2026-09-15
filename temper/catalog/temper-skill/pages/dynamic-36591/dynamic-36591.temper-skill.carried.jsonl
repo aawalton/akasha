@@ -1,0 +1,17 @@
+{"baseName":"Dynamic"}
+{"description":"\"Increases your Max Magicka and Max Stamina by |cffffff600|r.\""}
+{"esoSkillId":36591}
+{"icon":"/esoui/art/icons/ability_weapon_023.dds"}
+{"id":"019e6f53-a0fa-73ec-b7aa-900b548fc426"}
+{"isMorph":false}
+{"key":"dynamic-36591"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":5}
+{"skillLineId":"racial-dark-elf-skills"}
+{"skillType":"passive"}
+{"slug":"dynamic-36591"}
+{"subcategoryId":"racial-dark-elf-skills"}
+{"title":"Dynamic"}
+{"type":"page-type/temper-skill"}

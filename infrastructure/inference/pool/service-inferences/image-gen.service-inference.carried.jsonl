@@ -1,0 +1,14 @@
+{"definition":"the Z-Image Turbo picture model, served by mlx-openai-server"}
+{"enabled":true}
+{"host":"macbook"}
+{"id":"01a090a2-e6cb-721a-882d-350f1bbdcced"}
+{"internalPort":18086}
+{"lifecycle":"pool"}
+{"port":8086}
+{"provision":"shell-script/mlx-openai-server-provision"}
+{"pythonVersion":"3.12"}
+{"runs":["mlx-openai-server launch --model-type image-generation --model-path Tongyi-MAI/Z-Image-Turbo --config-name z-image-turbo --quantize 8 --queue-timeout 1800 --host 127.0.0.1 --port 18086"]}
+{"slug":"image-gen"}
+{"type":"page-type/service-inference"}
+{"warm":true}
+{"workdir":"."}

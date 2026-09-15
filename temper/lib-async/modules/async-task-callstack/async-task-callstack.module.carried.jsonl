@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A step called runs before the steps already waiting."},{"decisionKind":"decision-kind/departure","statement":"A step chained runs after the steps already waiting."},{"decisionKind":"decision-kind/departure","statement":"A step added to the running task goes in beside the step now running."}]}
+{"definition":"how a step is put onto a task's callstack"}
+{"id":"01a0606a-1c58-7824-9a32-89e327147359"}
+{"slug":"async-task-callstack"}
+{"type":"page-type/module"}

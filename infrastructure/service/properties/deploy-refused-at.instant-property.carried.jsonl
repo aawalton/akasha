@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A deploy that refused writes this moment and the moment its deploy ended alike."},{"decisionKind":"decision-kind/departure","statement":"A deploy that put up writes the moment it ended and leaves this one behind it."},{"decisionKind":"decision-kind/departure","statement":"The two moments being the same is what says the last deploy refused."},{"decisionKind":"decision-kind/departure","statement":"A service whose last deploy refused waits longer than its own cooldown."},{"decisionKind":"decision-kind/departure","statement":"The moment is kept uncommitted, so no deploy's closure reaches it."}]}
+{"definition":"when the last deploy of a service that refused ended"}
+{"id":"01a095ca-a548-7026-b32c-6fac55373b71"}
+{"propertySlug":"deploy-refused-at"}
+{"slug":"deploy-refused-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

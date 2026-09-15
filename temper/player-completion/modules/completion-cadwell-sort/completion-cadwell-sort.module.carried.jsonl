@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Two entries sharing an order fall by their identifier."}]}
+{"definition":"Cadwell's Almanac sorted into the order the game shows it in"}
+{"id":"01a06108-2feb-7a2d-9ef6-57df269ec508"}
+{"slug":"completion-cadwell-sort"}
+{"test":"ts"}
+{"type":"page-type/module"}

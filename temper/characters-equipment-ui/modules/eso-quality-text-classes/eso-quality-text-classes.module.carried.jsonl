@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A quality is keyed by the number the game gives the quality."},{"decisionKind":"decision-kind/absence","statement":"No class here is named for the lowest quality."}]}
+{"definition":"the text class an in-game item quality is shown in"}
+{"id":"01a06333-1bcc-7c92-9074-8986a87d036f"}
+{"slug":"eso-quality-text-classes"}
+{"type":"page-type/module"}

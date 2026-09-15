@@ -1,0 +1,12 @@
+{"action":"temper-item-action/nothing"}
+{"active":false}
+{"categoryId":"equipment"}
+{"conditions":"jsonl"}
+{"description":"Prevents crafted equipment from being affected by lower-priority rules. Useful for keeping gear you've invested materials into."}
+{"displayOrder":6}
+{"goal":"temper-rule-goal/equip"}
+{"id":"019e3104-260b-72d1-adc2-e89106a13e08"}
+{"key":"crafted-nothing"}
+{"slug":"crafted-nothing"}
+{"title":"Protect crafted gear"}
+{"type":"page-type/temper-rule-template"}

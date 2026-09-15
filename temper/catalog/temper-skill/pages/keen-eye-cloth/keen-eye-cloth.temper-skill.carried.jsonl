@@ -1,0 +1,17 @@
+{"baseName":"Keen Eye: Cloth"}
+{"description":"\"Fibrous plants in the world will be easier to see when you are 40 meters or closer.\""}
+{"esoSkillId":47862}
+{"icon":"/esoui/art/icons/ability_smith_002.dds"}
+{"id":"019e6224-cc99-7448-8f88-582c1d81fc53"}
+{"isMorph":false}
+{"key":"keen-eye-cloth"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-clothing"}
+{"skillType":"passive"}
+{"slug":"keen-eye-cloth"}
+{"subcategoryId":"craft-clothing"}
+{"title":"Keen Eye: Cloth"}
+{"type":"page-type/temper-skill"}

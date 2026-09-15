@@ -1,0 +1,8 @@
+{"displayOrder":6}
+{"id":"019e2fcd-59ff-748e-bfe5-f8f68e1180d8"}
+{"nodeId":"stamina-restore"}
+{"nodeType":"metric"}
+{"parent":"subcategory-stamina"}
+{"slug":"metric-stamina-restore"}
+{"title":"Stamina Restore"}
+{"type":"page-type/temper-metric-tree"}

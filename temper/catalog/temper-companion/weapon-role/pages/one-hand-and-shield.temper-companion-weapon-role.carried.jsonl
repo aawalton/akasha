@@ -1,0 +1,8 @@
+{"id":"01a05fcd-ea72-7bb9-926c-f2d5fe1acf40"}
+{"key":"one-hand-and-shield"}
+{"slug":"one-hand-and-shield"}
+{"title":"One Hand and Shield"}
+{"type":"page-type/temper-companion-weapon-role"}
+{"validMainHandWeaponTypes":["sword","axe","mace","dagger"]}
+{"validOffHandWeaponTypes":["shield"]}
+{"weaponSkillLineId":"weapon-one-hand-shield"}

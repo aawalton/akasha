@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Vampirism and lycanthropy are the two curses this condition asks after."}]}
+{"definition":"the shape of the condition asking that a character be a vampire or a werewolf"}
+{"id":"01a060d9-44cb-78f1-8dc5-2403ee402ba2"}
+{"slug":"required-curse-state-filter-types"}
+{"type":"page-type/module"}

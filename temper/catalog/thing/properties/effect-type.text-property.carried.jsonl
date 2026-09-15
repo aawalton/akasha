@@ -1,0 +1,8 @@
+{"definition":"how an effect's value is read against the metric the effect moves"}
+{"id":"01a05fb0-3cec-7336-a2af-ef2657a47e86"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"type"}
+{"slug":"effect-type"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

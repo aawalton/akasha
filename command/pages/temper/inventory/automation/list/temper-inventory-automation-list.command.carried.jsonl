@@ -1,0 +1,8 @@
+{"arguments":[{"argument":"argument/json"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every scope is reported."},{"decisionKind":"decision-kind/departure","statement":"A scope is the global one, one character or one companion."},{"decisionKind":"decision-kind/absence","statement":"Nothing here changes a toggle."}]}
+{"definition":"the command giving back the automation toggles as they are set"}
+{"id":"01a0603c-c1ce-749d-a434-9035b90e6e37"}
+{"name":"list"}
+{"slug":"temper-inventory-automation-list"}
+{"type":"page-type/command"}

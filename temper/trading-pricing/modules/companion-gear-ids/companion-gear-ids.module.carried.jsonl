@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every id here names one page under `temper-companions`."},{"decisionKind":"decision-kind/gap","statement":"`@akasha/temper-companions-core` has a second table of these same ids."}]}
+{"definition":"the trait and the quality a piece of companion equipment is named by"}
+{"id":"01a060bf-747d-7dee-bf58-1559bc114b90"}
+{"slug":"companion-gear-ids"}
+{"type":"page-type/module"}

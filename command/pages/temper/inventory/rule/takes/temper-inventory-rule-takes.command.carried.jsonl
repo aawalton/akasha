@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/category-rule-id","required":true,"saidAs":"word"},{"argument":"argument/json"},{"argument":"argument/inventory-path"},{"argument":"argument/characters-path"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The items named are the ones the rule takes where every rule above it has run."},{"decisionKind":"decision-kind/departure","statement":"An item the rule would take alone and does not take here is named as shadowed."},{"decisionKind":"decision-kind/departure","statement":"A shadowed item names the first rule above this one that takes it."},{"decisionKind":"decision-kind/departure","statement":"Every item rule is above every ordered rule when the shadow is worked out."},{"decisionKind":"decision-kind/departure","statement":"The items are gathered by the item they are, rather than by the stack."},{"decisionKind":"decision-kind/departure","statement":"An id no rule the addon compiled carries refuses the call."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the rule store, so a rule is named by its id rather than its title."}]}
+{"definition":"the command naming the items one category rule takes and what takes the rest"}
+{"id":"01a0959d-e8ec-72b0-95be-efffc8405b8a"}
+{"name":"takes"}
+{"slug":"temper-inventory-rule-takes"}
+{"test":"ts"}
+{"type":"page-type/command"}

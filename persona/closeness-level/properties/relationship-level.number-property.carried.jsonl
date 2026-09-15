@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A level here is the level a closeness level states."},{"decisionKind":"decision-kind/departure","statement":"A level is read whether that level is stored as a number or as text."},{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a closeness level."}]}
+{"definition":"the rung of the closeness ladder a record is of"}
+{"id":"01a0655b-4a9b-7002-96a4-5f01bb918e88"}
+{"max":null}
+{"propertySlug":"relationship-level"}
+{"slug":"relationship-level"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

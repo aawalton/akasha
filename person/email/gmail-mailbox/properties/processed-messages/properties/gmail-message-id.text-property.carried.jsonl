@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The id is spelled as Gmail spells that id rather than as a slug is spelled."}]}
+{"definition":"the id Gmail gives a message"}
+{"id":"01a06862-a0bc-705a-87c1-fbe2095fdae7"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"message-id"}
+{"slug":"gmail-message-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

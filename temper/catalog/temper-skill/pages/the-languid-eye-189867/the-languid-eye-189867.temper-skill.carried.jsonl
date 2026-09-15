@@ -1,0 +1,17 @@
+{"baseName":"The Unblinking Eye"}
+{"description":"\"Tear open the fabric of the Aurbis to summon a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff6|r seconds that deals |cffffff3876|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds and snares them by |cffffff50|r% for |cffffff3|r seconds. Every |cffffff0.5|r seconds, the beam's damage increases by |cffffff7|r%.\\n\\nThe scion's beam can be repositioned by recasting The Languid Eye.\""}
+{"esoSkillId":189867}
+{"icon":"/esoui/art/icons/ability_arcanist_006_b.dds"}
+{"id":"019e6f53-a831-7c62-8438-269dc71efdb2"}
+{"isMorph":true}
+{"key":"the-languid-eye-189867"}
+{"learnedLevel":12}
+{"lineRankNeeded":12}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"arcanist-herald-of-the-tome"}
+{"skillType":"ultimate"}
+{"slug":"the-languid-eye-189867"}
+{"subcategoryId":"arcanist-herald-of-the-tome"}
+{"title":"The Languid Eye"}
+{"type":"page-type/temper-skill"}

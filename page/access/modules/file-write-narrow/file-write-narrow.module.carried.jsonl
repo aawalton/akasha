@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every condition is lowered or the whole narrow is refused."},{"decisionKind":"decision-kind/absence","statement":"No condition is dropped for being a condition this module cannot have."},{"decisionKind":"decision-kind/departure","statement":"A dropped condition would reach pages the caller never named."},{"decisionKind":"decision-kind/departure","statement":"A value that is no text is lowered as its text."},{"decisionKind":"decision-kind/departure","statement":"A lowered value becomes a test carrying text."},{"decisionKind":"decision-kind/departure","statement":"One key has one test of each name."},{"decisionKind":"decision-kind/departure","statement":"Two tests of different names on one key are carried together."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the service."}]}
+{"definition":"a write's `where` lowered into the tests the service runs, or refused"}
+{"id":"01a07691-e739-761d-a0ad-befe1dac9d94"}
+{"slug":"file-write-narrow"}
+{"test":"ts"}
+{"type":"page-type/module"}

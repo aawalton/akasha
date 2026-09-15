@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The records here are one unbroken run of the table's order."},{"decisionKind":"decision-kind/departure","statement":"The run is the add-on's own source rather than a derivation."}]}
+{"definition":"one run of the shared achievement rows by zone, and the stables, docks and portals"}
+{"id":"01a06269-29e2-76b6-af17-b9c0973267ba"}
+{"slug":"destinations-shared-data-03"}
+{"type":"page-type/module"}

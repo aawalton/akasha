@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here checks a value at run time."}]}
+{"definition":"what an untyped ping value the game hands over is taken to be"}
+{"id":"01a0605f-6260-78c9-885b-2ba545ad7f6f"}
+{"slug":"map-ping-casts"}
+{"type":"page-type/module"}

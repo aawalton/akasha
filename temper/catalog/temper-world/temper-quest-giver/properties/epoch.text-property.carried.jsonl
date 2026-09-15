@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a day rather than text."}]}
+{"definition":"the day a rotation is counted from"}
+{"id":"01a05fc4-7a91-7076-af1b-6ce3e35e4b9a"}
+{"maxLength":10}
+{"nameFormat":null}
+{"propertySlug":"epoch"}
+{"slug":"epoch"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"id":"01a094e4-ed10-7e2d-a4ea-25d7563eaa55"}
+{"placeholder":"text"}
+{"said":"--query"}
+{"slug":"message-query"}
+{"takes":"the run of characters a message's text must hold"}
+{"type":"page-type/argument"}
+{"value":"text"}

@@ -1,0 +1,17 @@
+{"baseName":"Penetrating Magic"}
+{"description":"\"Your Destruction Staff abilities ignore |cffffff1487|r of the enemy's Spell Resistance.\""}
+{"esoSkillId":30957}
+{"icon":"/esoui/art/icons/ability_weapon_008.dds"}
+{"id":"019e6f53-a4e6-73e0-80c9-07f6ca96b14c"}
+{"isMorph":false}
+{"key":"penetrating-magic-30957"}
+{"learnedLevel":1}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":10}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"passive"}
+{"slug":"penetrating-magic-30957"}
+{"subcategoryId":"weapon-destruction-staff"}
+{"title":"Penetrating Magic"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,5 @@
+{"id":"01a0593e-da42-7dfa-8095-c94687e5ffae"}
+{"pattern":"(?<!\\.)\\bverb\\b(?!:)"}
+{"slug":"verb"}
+{"tabooSenses":[{"sense":"an `ops` subcommand","instead":"command"}]}
+{"type":"page-type/taboo-term"}

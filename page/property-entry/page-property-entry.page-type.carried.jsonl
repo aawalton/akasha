@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An entry is one value under a declaration rather than a page."},{"decisionKind":"decision-kind/departure","statement":"An entry shape names the fields every entry under that shape has."},{"decisionKind":"decision-kind/departure","statement":"An entry is reached through the page that has the entry rather than by a slug."},{"decisionKind":"decision-kind/departure","statement":"The values a record property holds inline an entry shape holds in a file of its own."},{"decisionKind":"decision-kind/departure","statement":"A page states this property as the extension the file beside the page carries."},{"decisionKind":"decision-kind/departure","statement":"Every entry is judged against the fields its shape declares."},{"decisionKind":"decision-kind/departure","statement":"Every entry has an id."},{"decisionKind":"decision-kind/departure","statement":"An entry arriving without an id is given an id as the entry lands."},{"decisionKind":"decision-kind/departure","statement":"An entry arriving in a whole body is given that id by the change writing the body."},{"decisionKind":"decision-kind/gap","statement":"An entry appended to the file rather than written with it is given an id too."},{"decisionKind":"decision-kind/departure","statement":"An entry's id is a uuid version 7 as a page's id is."}]}
+{"definition":"a page property whose values are kept one to a line beside the page"}
+{"extends":["page-type/page-property"]}
+{"id":"01a05f80-3969-7000-8ccd-6284909fc036"}
+{"properties":[{"pageProperty":"one-of-property/properties","required":true,"many":true,"maxCount":null}]}
+{"schema":"jsonl"}
+{"shapes":"jsonl"}
+{"slug":"page-property-entry"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

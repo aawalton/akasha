@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The bit arithmetic goes through the operators the language gives."},{"decisionKind":"decision-kind/departure","statement":"The bits go in and come out from the most significant end."},{"decisionKind":"decision-kind/departure","statement":"Text that is no valid encoding is read as nothing rather than as bytes."}]}
+{"definition":"the bits a character build is packed into away from the game, and the text carrying them"}
+{"id":"01a062c4-7811-7457-9a0e-87d4906e32a4"}
+{"parts":["module/build-hash-base64url","module/build-hash-bit-reader","module/build-hash-bit-writer","test-fixture/build-hash-test-utils","module/record-from-keys"]}
+{"slug":"temper-build-hash"}
+{"type":"page-type/domain"}

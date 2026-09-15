@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The build output already written is packed."},{"decisionKind":"decision-kind/departure","statement":"An addon with no build output refuses the pack."},{"decisionKind":"decision-kind/departure","statement":"Every addon on the roster is packed."},{"decisionKind":"decision-kind/departure","statement":"A sibling folder a manifest declares is packed with its addon."},{"decisionKind":"decision-kind/departure","statement":"A dependency the roster does not have is reported rather than packed."},{"decisionKind":"decision-kind/departure","statement":"Entry timestamps are fixed, so two runs over one build output give the same bytes."},{"decisionKind":"decision-kind/absence","statement":"Nothing here compiles an addon."},{"decisionKind":"decision-kind/absence","statement":"Nothing here says what the archive is named by."}]}
+{"definition":"every distributable addon's build output packed into one archive"}
+{"id":"01a090c1-e5c7-7c8e-ba27-38a6f8c8a165"}
+{"slug":"addon-bundling"}
+{"type":"page-type/module"}

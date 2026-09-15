@@ -1,0 +1,12 @@
+{"colorFrom":"readout/weekly-ends"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The reading is the mean across every account the pool has."},{"decisionKind":"decision-kind/departure","statement":"An account with no percent is left out of the mean rather than counted zero."},{"decisionKind":"decision-kind/departure","statement":"No account with a percent is no reading rather than a mean of zero."},{"decisionKind":"decision-kind/departure","statement":"A percent stated as text is read as the number that percent spells."},{"decisionKind":"decision-kind/departure","statement":"The figure is how much of the allowance is spent and the color is how long the allowance has left."},{"decisionKind":"decision-kind/absence","statement":"Nothing here caches a reading or decides when a reading is taken."}]}
+{"definition":"how much of the weekly Claude allowance the pool has spent"}
+{"drawnAs":"number"}
+{"groups":["readout-group/claude-usage"]}
+{"id":"01a063bd-a526-7a12-97a4-531aa40ead14"}
+{"label":"Weekly Usage"}
+{"place":1}
+{"slug":"weekly-usage"}
+{"type":"page-type/readout"}
+{"unit":"percent"}
+{"wireKey":"weekly-usage"}

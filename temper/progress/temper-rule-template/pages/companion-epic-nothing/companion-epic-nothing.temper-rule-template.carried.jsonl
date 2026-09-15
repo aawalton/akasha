@@ -1,0 +1,12 @@
+{"action":"temper-item-action/nothing"}
+{"active":false}
+{"categoryId":"companion"}
+{"conditions":"jsonl"}
+{"description":"Prevents epic (purple) quality or higher companion equipment from being affected by lower-priority rules. Place above sell and deconstruct rules to safeguard your best companion gear."}
+{"displayOrder":4}
+{"goal":"temper-rule-goal/equip"}
+{"id":"019e3104-2609-739b-88ff-73723337601b"}
+{"key":"companion-epic-nothing"}
+{"slug":"companion-epic-nothing"}
+{"title":"Protect epic+ companion gear"}
+{"type":"page-type/temper-rule-template"}

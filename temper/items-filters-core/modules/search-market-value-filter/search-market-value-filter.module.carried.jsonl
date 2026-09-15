@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"The server request takes a price range that the market value filter does not set."},{"decisionKind":"decision-kind/departure","statement":"The operator defaults to <= where the saved value names no operator."}]}
+{"definition":"the market value of an item, narrowed by a range from 0 to 1000000 with a comparison operator"}
+{"id":"01a0613a-e0aa-7ec9-8d23-f17ea1e32d8e"}
+{"slug":"search-market-value-filter"}
+{"type":"page-type/module"}

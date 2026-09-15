@@ -1,0 +1,10 @@
+{"definition":"the sweep that removes stored agent sessions past their age"}
+{"id":"01a06816-68b2-782e-bab4-94b6543bc420"}
+{"image":"rclone/rclone:1.74.3"}
+{"manifest":["manifest/seaweedfs-prune-sessions"]}
+{"namespace":"seaweedfs-prune-sessions"}
+{"resourceKind":"CronJob"}
+{"resourceName":"seaweedfs-prune-sessions"}
+{"schedule":"24 5 * * *"}
+{"slug":"seaweedfs-prune-sessions"}
+{"type":"page-type/service-cluster"}

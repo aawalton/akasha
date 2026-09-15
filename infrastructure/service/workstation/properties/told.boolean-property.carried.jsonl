@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A service stating nothing is told."},{"decisionKind":"decision-kind/departure","statement":"A service stating false is told to nobody, the persona stated instead included."},{"decisionKind":"decision-kind/departure","statement":"A service stating false is looked at and left a verdict as any service is."}]}
+{"definition":"whether a persona is told a service is broken"}
+{"id":"01a0a577-6d6c-764c-9532-d688d37182a7"}
+{"propertySlug":"told"}
+{"slug":"told"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

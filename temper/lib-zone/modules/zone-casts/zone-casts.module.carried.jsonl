@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here checks a value at run time."},{"decisionKind":"decision-kind/departure","statement":"The slash-command library is reached off the global table rather than by its name."}]}
+{"definition":"what an untyped table the game hands over is taken to be"}
+{"id":"01a061e7-92f2-790e-b9b3-5b0d9a77cf73"}
+{"slug":"zone-casts"}
+{"type":"page-type/module"}

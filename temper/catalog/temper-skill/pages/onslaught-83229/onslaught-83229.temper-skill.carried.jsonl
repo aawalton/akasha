@@ -1,0 +1,17 @@
+{"baseName":"Berserker Strike"}
+{"description":"\"Strike at an enemy with a vicious blow, dealing |cffffff12116|r Physical Damage to them and all nearby enemies.\\n\\nThis attack ignores the target's Resistance and grants you Physical and Spell Penetration for direct damage attacks equal to |cffffff100|r% of the amount ignored from the initial target and if Battle Spirit is inactive you gain |cffffff100|r% Critical Chance for |cffffff8|r seconds.\""}
+{"esoSkillId":83229}
+{"icon":"/esoui/art/icons/ability_2handed_006_a.dds"}
+{"id":"019e6f53-a4ce-74c2-8dbf-bad28baabd8d"}
+{"isMorph":true}
+{"key":"onslaught-83229"}
+{"learnedLevel":1}
+{"lineRankNeeded":50}
+{"morphIndex":1}
+{"rank":50}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"ultimate"}
+{"slug":"onslaught-83229"}
+{"subcategoryId":"weapon-two-handed"}
+{"title":"Onslaught"}
+{"type":"page-type/temper-skill"}

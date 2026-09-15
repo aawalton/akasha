@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Renaming a search leaves its place in the list."}]}
+{"definition":"the searches a player named and keeps, and which of them is active"}
+{"id":"01a06160-2a5c-7345-a7bf-ba9b15501951"}
+{"slug":"trading-saved-search-store"}
+{"type":"page-type/module"}

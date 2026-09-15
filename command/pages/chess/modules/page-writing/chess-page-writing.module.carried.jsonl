@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page is written through the change working out what kind of path it is."},{"decisionKind":"decision-kind/departure","statement":"A file the page no longer fills is taken away in the same landing."},{"decisionKind":"decision-kind/departure","statement":"A page that could not be composed is refused as a fault in the data."},{"decisionKind":"decision-kind/absence","statement":"No check runs over a body landed here."}]}
+{"definition":"a chess page composed from the values a command worked out, and landed"}
+{"id":"01a0a053-e4b3-7fe7-9b93-694829c915e5"}
+{"slug":"chess-page-writing"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A type takes its properties from every type this names."},{"decisionKind":"decision-kind/departure","statement":"The nearer type decides where two of the types named declare one property."},{"decisionKind":"decision-kind/departure","statement":"The last named type decides where two types are equally near."},{"decisionKind":"decision-kind/departure","statement":"Reordering the types changes the type's properties."},{"decisionKind":"decision-kind/departure","statement":"A type naming no type states an empty list rather than nothing."}]}
+{"definition":"a type a type takes its properties from"}
+{"id":"01a049b9-856c-78f3-ac14-e3f86c75d104"}
+{"propertySlug":"extends"}
+{"slug":"extends-type"}
+{"targetPageType":"page-type/page-type"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

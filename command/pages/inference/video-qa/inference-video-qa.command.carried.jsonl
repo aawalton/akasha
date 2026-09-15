@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/video","notWith":["argument/frames-dir"],"oneOf":["argument/frames-dir"]},{"argument":"argument/frames-dir"},{"argument":"argument/checklist","notWith":["argument/checklist-file"],"oneOf":["argument/checklist-file"]},{"argument":"argument/checklist-file"},{"argument":"argument/frames"},{"argument":"argument/fps"},{"argument":"argument/timeout"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A clip or a directory of frames is named."},{"decisionKind":"decision-kind/departure","statement":"A clip and a directory of frames are never named together."},{"decisionKind":"decision-kind/departure","statement":"The frames sampled are spread evenly across the ones there are."},{"decisionKind":"decision-kind/departure","statement":"A directory with no frame is a fault rather than an empty answer."},{"decisionKind":"decision-kind/departure","statement":"Frames taken here are taken into a temporary place and cleared afterwards."},{"decisionKind":"decision-kind/departure","statement":"The answer is the model's words."},{"decisionKind":"decision-kind/departure","statement":"The answer is the run row's output."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a clip or a frame the caller keeps."},{"decisionKind":"decision-kind/departure","statement":"The question is said at its own flag or in the file a second flag names."},{"decisionKind":"decision-kind/departure","statement":"A refusal names the ffmpeg run, which clearing the frames away does not undo."}]}
+{"definition":"the command answering a question about a clip from the frames taken out of it"}
+{"id":"01a0685e-fd50-7d17-9486-a30db6114780"}
+{"name":"video-qa"}
+{"slug":"inference-video-qa"}
+{"test":"ts"}
+{"type":"page-type/command"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a completion card."}]}
+{"definition":"the completion card a page counts toward"}
+{"id":"01a05fc6-81fb-7893-8ba7-9e582c0fd637"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"completion-card-id"}
+{"slug":"completion-card-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

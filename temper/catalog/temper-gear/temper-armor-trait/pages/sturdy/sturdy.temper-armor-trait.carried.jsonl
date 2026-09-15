@@ -1,0 +1,11 @@
+{"displayOrder":7}
+{"effect":"Reduces Block cost"}
+{"effects":"jsonl"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_ARMOR_STURDY"}
+{"id":"01a05fb2-1bd1-7a1a-a411-c520da348cc8"}
+{"key":"sturdy"}
+{"material":"Quartz"}
+{"qualityValues":"jsonl"}
+{"slug":"sturdy"}
+{"title":"Sturdy"}
+{"type":"page-type/temper-armor-trait"}

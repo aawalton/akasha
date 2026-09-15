@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A fallback font is loaded only where the client runs this language."}]}
+{"definition":"the fallback fonts a Windows or Mac client loads for Japanese"}
+{"id":"01a06069-f8c5-7f11-bf3d-f45dd3518251"}
+{"loadedAs":"PC/backupfont_jp.xml"}
+{"markup":"xml"}
+{"slug":"media-pc-backupfont-jp"}
+{"type":"page-type/eso-interface"}

@@ -1,0 +1,7 @@
+{"definition":"the score a game finished on"}
+{"id":"01a06582-bd62-7289-adc0-966f26ef44b4"}
+{"propertySlug":"result"}
+{"slug":"chess-result"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["1-0","0-1","1/2-1/2","*"]}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A change saying nothing here writes what is meant to stay."},{"decisionKind":"decision-kind/departure","statement":"What a temporary change writes answers to no page of its own."},{"decisionKind":"decision-kind/departure","statement":"Whoever writes it takes it away again."}]}
+{"definition":"whether what a change writes is meant to be taken away again"}
+{"id":"01a08be4-8304-781b-9ab3-9259cf4cdafd"}
+{"propertySlug":"temporary"}
+{"slug":"temporary"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

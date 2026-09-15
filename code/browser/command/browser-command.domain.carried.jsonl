@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A command here is named for the path the old ops command was reached by."},{"decisionKind":"decision-kind/departure","statement":"A command here drives the harness rather than launching a browser of its own."},{"decisionKind":"decision-kind/departure","statement":"The user a command here signs in as is checked against the protected user."},{"decisionKind":"decision-kind/absence","statement":"Nothing here knows the purpose of any page this package looks at."}]}
+{"definition":"what an agent runs by name over a site it drives a browser against"}
+{"id":"01a06862-06c8-7000-8f27-5543118e4614"}
+{"parts":["module/verify-render-plan"]}
+{"slug":"browser-command"}
+{"type":"page-type/domain"}

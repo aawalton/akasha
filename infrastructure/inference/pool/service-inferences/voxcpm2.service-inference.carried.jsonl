@@ -1,0 +1,13 @@
+{"definition":"the VoxCPM2 voice model, served by mlx-audio"}
+{"enabled":true}
+{"host":"macbook"}
+{"id":"01a090a2-b487-7840-b3dd-d4aec75b2e38"}
+{"internalPort":18095}
+{"lifecycle":"pool"}
+{"port":8095}
+{"provision":"shell-script/mlx-audio-provision"}
+{"pythonVersion":"3.12"}
+{"runs":["python -m mlx_audio.server --host 127.0.0.1 --port 18095"]}
+{"slug":"voxcpm2"}
+{"type":"page-type/service-inference"}
+{"workdir":"."}

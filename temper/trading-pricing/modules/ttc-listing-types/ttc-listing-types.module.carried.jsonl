@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A search asks for one page of listings at a time."},{"decisionKind":"decision-kind/departure","statement":"A field name here keeps Tamriel Trade Centre's spelling."},{"decisionKind":"decision-kind/departure","statement":"A listing older than the age the search names is left out."}]}
+{"definition":"the shape a search of Tamriel Trade Centre listings asks for and answers with"}
+{"id":"01a0609b-e59e-76a0-b95d-824e1ed2c729"}
+{"slug":"ttc-listing-types"}
+{"type":"page-type/module"}

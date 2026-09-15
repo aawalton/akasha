@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A notification the caller gives no source for is credited to this module."},{"decisionKind":"decision-kind/departure","statement":"Alan's person slug is read from here rather than retyped at each caller."},{"decisionKind":"decision-kind/constraint","statement":"A notification is written through the feed rows module rather than to a file."},{"decisionKind":"decision-kind/departure","statement":"A list the caller hands in is handed on, so a notification filed can be named."},{"decisionKind":"decision-kind/absence","statement":"Nothing here chooses which person a notification reaches."},{"decisionKind":"decision-kind/absence","statement":"No reader here crosses a network."},{"decisionKind":"decision-kind/absence","statement":"No type the feed rows module declares is handed on from here."}]}
+{"definition":"sending one person a notification, credited to whoever asked for it"}
+{"id":"01a06a00-6837-71bf-b475-d3320bf5baab"}
+{"slug":"notifying"}
+{"type":"page-type/module"}

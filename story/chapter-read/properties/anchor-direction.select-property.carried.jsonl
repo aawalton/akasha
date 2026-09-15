@@ -1,0 +1,7 @@
+{"definition":"which way an anchor runs from what it is read against"}
+{"id":"01a0685e-ef8a-7e52-9e45-460c839b0933"}
+{"propertySlug":"direction"}
+{"slug":"anchor-direction"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["before","after","simultaneous"]}

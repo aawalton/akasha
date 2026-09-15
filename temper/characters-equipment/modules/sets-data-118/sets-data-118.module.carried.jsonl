@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The sets are named here in the order the gathered table answers its ids in."},{"decisionKind":"decision-kind/gap","statement":"A set moved to another place breaks every build hash saved."}]}
+{"definition":"part 118 of the gear set table, way-of-the-arena through wild-impulse"}
+{"id":"01a061a3-982e-740c-a453-03a0b0823013"}
+{"slug":"sets-data-118"}
+{"type":"page-type/module"}

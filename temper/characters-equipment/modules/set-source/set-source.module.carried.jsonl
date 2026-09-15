@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A source has the bonuses whose piece count the worn count reaches."}]}
+{"definition":"one effect source per gear set and piece count, scaled by the quality of the pieces worn"}
+{"id":"01a061a4-18b1-7a6e-bc9b-94150a72e67b"}
+{"slug":"set-source"}
+{"type":"page-type/module"}

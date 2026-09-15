@@ -1,0 +1,18 @@
+{"baseName":"Expunge"}
+{"description":"\"Embrace the power of death, removing up to 4 negative effects from yourself.\\n\\nWhile slotted, the cost of all your abilities are reduced by 3%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":40117919}
+{"icon":"/esoui/art/icons/ability_necromancer_014_a.dds"}
+{"id":"019e6245-a6a4-7fbc-b1ab-59825e996907"}
+{"isMorph":true}
+{"key":"hexproof"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"necromancer-living-death"}
+{"skillType":"active"}
+{"slug":"hexproof"}
+{"subcategoryId":"necromancer-living-death"}
+{"title":"Hexproof"}
+{"type":"page-type/temper-skill"}

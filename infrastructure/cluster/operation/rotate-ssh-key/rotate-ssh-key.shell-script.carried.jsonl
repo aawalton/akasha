@@ -1,0 +1,7 @@
+{"definition":"a new node keypair minted, distributed to every node and the old one withdrawn"}
+{"id":"01a06865-abff-7019-a82b-2c7579bfe486"}
+{"scripting":{}}
+{"shell":"sh"}
+{"slug":"rotate-ssh-key"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

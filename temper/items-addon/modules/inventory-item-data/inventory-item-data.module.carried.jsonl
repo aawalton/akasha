@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The price source says whether Tamriel Trade Centre holds a price table."},{"decisionKind":"decision-kind/departure","statement":"A source answering with no price table is told apart from no price source."},{"decisionKind":"decision-kind/departure","statement":"The table itself is read rather than the sentence the addon renders about it."},{"decisionKind":"decision-kind/departure","statement":"A slot records whether the game holds the item junk now."},{"decisionKind":"decision-kind/departure","statement":"A slot records whether the game would let the item be marked junk."},{"decisionKind":"decision-kind/departure","statement":"The game is asked about junk rather than the answer being worked out here."}]}
+{"definition":"reading one slot into the saved item shape, with its price source, lock state and junk state"}
+{"id":"01a06258-b52d-7b46-8cda-3be08ef726d7"}
+{"slug":"inventory-item-data"}
+{"type":"page-type/module"}

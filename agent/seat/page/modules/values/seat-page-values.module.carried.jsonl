@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat's values come from akasha with no fallback to the older store."},{"decisionKind":"decision-kind/departure","statement":"A subagent with no values of its own is read from the seat above that subagent."},{"decisionKind":"decision-kind/departure","statement":"The seat above a subagent is found by splitting its id rather than by opening a file."},{"decisionKind":"decision-kind/departure","statement":"An empty text value reads as nothing rather than as an empty string."},{"decisionKind":"decision-kind/departure","statement":"A number held on the page is answered as its text."},{"decisionKind":"decision-kind/departure","statement":"A value is a flag only where the page has exactly true."}]}
+{"definition":"what a seat states now, read from akasha's page for it and from nowhere else"}
+{"id":"01a06949-b281-7930-babe-566948d7b200"}
+{"slug":"seat-page-values"}
+{"type":"page-type/module"}

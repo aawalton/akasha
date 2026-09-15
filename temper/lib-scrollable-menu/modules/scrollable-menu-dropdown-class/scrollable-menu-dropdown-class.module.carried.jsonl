@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"AddItem and AddItems are overridden to raise an error."},{"decisionKind":"decision-kind/departure","statement":"Each custom entry template claims two scroll type ids at once."},{"decisionKind":"decision-kind/departure","statement":"The highlight template of a row is resolved through the owning combobox."},{"decisionKind":"decision-kind/departure","statement":"The dropdown control is created from a virtual template parented to GuiRoot."}]}
+{"definition":"the subclass of ZO_ComboBoxDropdown_Keyboard and its scroll-list construction"}
+{"id":"01a06275-c447-7ccf-b589-958d748292ad"}
+{"slug":"scrollable-menu-dropdown-class"}
+{"type":"page-type/module"}

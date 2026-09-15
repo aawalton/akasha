@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The search history keeps the ten latest entries in a combobox."},{"decisionKind":"decision-kind/departure","statement":"History is offered through ZO_Menu rather than through a library menu."},{"decisionKind":"decision-kind/departure","statement":"Filter text reaches the combobox through a ten millisecond throttle."},{"decisionKind":"decision-kind/departure","statement":"The sort toggle and the edit box and slider change handlers sit alongside."}]}
+{"definition":"the filter edit box of the dropdown header and its saved search history"}
+{"id":"01a06275-c447-7694-bdd6-3f09904c1493"}
+{"slug":"scrollable-menu-dropdown-class-filter"}
+{"type":"page-type/module"}

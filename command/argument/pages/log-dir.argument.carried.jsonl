@@ -1,0 +1,7 @@
+{"id":"01a094cd-d4fe-7ea2-af08-7de1795bb123"}
+{"placeholder":"path"}
+{"said":"--log-dir"}
+{"slug":"log-dir"}
+{"takes":"the directory the watcher's logs are read from"}
+{"type":"page-type/argument"}
+{"value":"path"}

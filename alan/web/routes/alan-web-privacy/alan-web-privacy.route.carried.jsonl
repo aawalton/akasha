@@ -1,0 +1,7 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The page carries verbatim the sentence a carrier requires on mobile information."},{"decisionKind":"decision-kind/departure","statement":"The page names every field the opt-in form writes into a consent page."}]}
+{"definition":"what the Amy messaging service does with a message"}
+{"id":"01a08828-b1a2-7d99-a146-98a87aae6df0"}
+{"slug":"alan-web-privacy"}
+{"type":"page-type/route"}
+{"urlPath":"privacy"}

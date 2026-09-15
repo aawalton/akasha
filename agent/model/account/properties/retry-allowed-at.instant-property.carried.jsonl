@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An upstream `retry-after` header states a length and is added to now to reach this instant."}]}
+{"definition":"when the account may be called again after a refusal"}
+{"id":"01a054d8-1d39-7bdf-8472-b3d6b9b59e9f"}
+{"propertySlug":"retry-allowed-at"}
+{"slug":"retry-allowed-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

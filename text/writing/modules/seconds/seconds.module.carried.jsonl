@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A span is written to the nearest whole second."},{"decisionKind":"decision-kind/departure","statement":"The seconds are followed by an s and nothing else."},{"decisionKind":"decision-kind/departure","statement":"A span under half a second is written as no seconds at all."}]}
+{"definition":"a span of milliseconds written out as whole seconds"}
+{"id":"01a08e0e-2679-7975-bc1c-012c263cbfd2"}
+{"slug":"seconds"}
+{"type":"page-type/module"}

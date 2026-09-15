@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The sets are named here in the order the gathered table answers its ids in."},{"decisionKind":"decision-kind/gap","statement":"A set moved to another place breaks every build hash saved."}]}
+{"definition":"part 082 of the gear set table, renalds-resolve through roaring-opportunist"}
+{"id":"01a061a3-6217-723c-b78e-2769d172c606"}
+{"slug":"sets-data-082"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"definition":"what listens on a port and hands each request to the router"}
+{"extensions":["ts"]}
+{"fileName":"server.ts"}
+{"id":"01a0817a-8b91-73c6-a0bd-8c66940f995b"}
+{"propertySlug":"server"}
+{"slug":"server"}
+{"type":"page-type/code-file-property"}
+{"types":"ts"}

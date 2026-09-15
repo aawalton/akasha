@@ -1,0 +1,17 @@
+{"baseName":"Feral Guardian"}
+{"description":"\"Rouse a grizzly to fight by your side. The grizzly swipes at an enemy, dealing 659 Bleed Damage, and sometimes swipes all enemies in front of it, dealing 2640 Bleed Damage and stunning them for 2 seconds.\\n\\nOnce summoned you can activate Guardian's Savagery for 75 Ultimate, to maul an enemy for 3697 Bleed Damage. Deals 100% more damage to enemies below 25% Health.\\n\\nThe damage has a higher chance to apply the Hemorrhaging status effect.\""}
+{"esoSkillId":85993}
+{"icon":"/esoui/art/icons/ability_warden_018_c.dds"}
+{"id":"019e6245-a76b-77f4-b7fd-d6380cde5a01"}
+{"isMorph":true}
+{"key":"wild-guardian"}
+{"learnedLevel":12}
+{"lineRankNeeded":12}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"warden-animal-companions"}
+{"skillType":"ultimate"}
+{"slug":"wild-guardian"}
+{"subcategoryId":"warden-animal-companions"}
+{"title":"Wild Guardian"}
+{"type":"page-type/temper-skill"}

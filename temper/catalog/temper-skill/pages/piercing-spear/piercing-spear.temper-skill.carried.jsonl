@@ -1,0 +1,19 @@
+{"baseName":"Piercing Spear"}
+{"description":"\"Increases your Critical Damage by 12%. \\n\\nIncreases your damage done to blocking players by 12%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":44046}
+{"icon":"/esoui/art/icons/ability_templar_022.dds"}
+{"id":"019e6245-a6e6-71d7-af84-8e4f6788555b"}
+{"isMorph":false}
+{"key":"piercing-spear"}
+{"learnedLevel":1}
+{"lineRankNeeded":8}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"templar-aedric-spear"}
+{"skillType":"passive"}
+{"slug":"piercing-spear"}
+{"status":"unsupported"}
+{"subcategoryId":"templar-aedric-spear"}
+{"title":"Piercing Spear"}
+{"type":"page-type/temper-skill"}

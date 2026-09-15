@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-authored"}
+{"changeMode":"change-mode/change-mode-change"}
+{"changeTargetSubtype":"change-target-subtype/file-content"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The passage and the replacement are two arguments."},{"decisionKind":"decision-kind/departure","statement":"A passage drops the newline its fence leaves on the last line."},{"decisionKind":"decision-kind/departure","statement":"A body keeps the newline its fence leaves."},{"decisionKind":"decision-kind/departure","statement":"A passage whose fence closed with `no-newline` is left as the caller wrote it."},{"decisionKind":"decision-kind/departure","statement":"A passage ending in a newline is written with a blank line before its fence."},{"decisionKind":"decision-kind/departure","statement":"Working the passage is left to the change reached."},{"decisionKind":"decision-kind/departure","statement":"That change is the one for the kind of body the path has."},{"decisionKind":"decision-kind/departure","statement":"The checks judge the tree the edits leave."},{"decisionKind":"decision-kind/departure","statement":"A path naming a file a machine writes is refused rather than edited."},{"decisionKind":"decision-kind/departure","statement":"That refusal names the code to change where a group writes the file."},{"decisionKind":"decision-kind/departure","statement":"Only the path the caller names here is judged that way."},{"decisionKind":"decision-kind/absence","statement":"No change a mechanism reaches passes through this refusal."},{"decisionKind":"decision-kind/departure","statement":"A passage an earlier `change-file` draft wrote is found, so these stack on one path."},{"decisionKind":"decision-kind/departure","statement":"A passage another kind of act drafted is not found, and that draft is dropped and made again."}]}
+{"definition":"one passage of one body replaced, judged by the checks a landing runs"}
+{"id":"01a07813-6e3d-7d39-a28a-164766ab0fed"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":1024}
+{"slug":"change-file"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

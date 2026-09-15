@@ -1,0 +1,17 @@
+{"baseName":"Path of Darkness"}
+{"description":"\"Create a corridor of shadows for |cffffff10|r seconds, granting you and allies in the area Major Expedition, increasing Movement Speed by |cffffff30|r%. Effect persists for |cffffff4|r seconds after leaving the path.\""}
+{"esoSkillId":33195}
+{"icon":"/esoui/art/icons/ability_nightblade_010.dds"}
+{"id":"019e6f53-a4e3-7179-b932-b126e464d773"}
+{"isMorph":false}
+{"key":"path-of-darkness"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":0}
+{"rank":20}
+{"skillLineId":"nightblade-shadow"}
+{"skillType":"active"}
+{"slug":"path-of-darkness"}
+{"subcategoryId":"nightblade-shadow"}
+{"title":"Path of Darkness"}
+{"type":"page-type/temper-skill"}

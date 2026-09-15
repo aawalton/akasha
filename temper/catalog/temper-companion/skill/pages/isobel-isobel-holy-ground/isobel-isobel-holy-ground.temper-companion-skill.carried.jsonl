@@ -1,0 +1,14 @@
+{"abilityId":163660}
+{"castConditions":"jsonl"}
+{"companionId":"isobel"}
+{"description":"Your Companion consecrates the ground under them for $$1 seconds, healing themselves and nearby allies $1 Health every 2 seconds and snaring enemies by 50%."}
+{"icon":"/esoui/art/icons/ability_companion_templar_cleansing_ritual.dds"}
+{"id":"019e6484-3874-74af-87c2-31b60ccb5492"}
+{"key":"isobel-holy-ground"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-isobel-healing-grace"}
+{"skillType":"active"}
+{"slug":"isobel-isobel-holy-ground"}
+{"title":"Holy Ground"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer","tank"]}

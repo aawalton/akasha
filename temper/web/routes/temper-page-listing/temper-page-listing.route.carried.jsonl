@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"definition":"the pages of one type shown together on a screen"}
+{"id":"01a0829c-7c1f-7e3f-9f2c-c0fbb8fe6a3c"}
+{"slug":"temper-page-listing"}
+{"type":"page-type/route"}
+{"urlPath":":pageTypeSlug"}

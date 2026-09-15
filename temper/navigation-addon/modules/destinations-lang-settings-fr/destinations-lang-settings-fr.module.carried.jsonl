@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is the runs joined in order."}]}
+{"definition":"the destinations settings strings in French, joined from its runs"}
+{"id":"01a06269-2a10-78f6-84dd-4bdeb018225f"}
+{"slug":"destinations-lang-settings-fr"}
+{"type":"page-type/module"}

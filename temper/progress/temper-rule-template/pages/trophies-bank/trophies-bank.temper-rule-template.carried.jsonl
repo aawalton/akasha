@@ -1,0 +1,12 @@
+{"action":"temper-item-action/move-to"}
+{"active":false}
+{"categoryId":"trophies"}
+{"description":"Deposits miscellaneous trophies (keys, key fragments, toys, dungeon buff ingredients, material upgraders) in the bank for safekeeping."}
+{"destination":"bank"}
+{"displayOrder":33}
+{"goal":"temper-rule-goal/hoard"}
+{"id":"019e3104-2621-7ca2-8422-38d1ebaf66d8"}
+{"key":"trophies-bank"}
+{"slug":"trophies-bank"}
+{"title":"Bank trophies"}
+{"type":"page-type/temper-rule-template"}

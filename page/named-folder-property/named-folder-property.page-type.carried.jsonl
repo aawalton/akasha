@@ -1,0 +1,11 @@
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A name here is chosen outside akasha."},{"decisionKind":"decision-kind/departure","statement":"The page states the name its folder is under."},{"decisionKind":"decision-kind/departure","statement":"The folder is found under the folder the page sits in."},{"decisionKind":"decision-kind/departure","statement":"A page claims a folder by stating the property with that folder."},{"decisionKind":"decision-kind/departure","statement":"A page claiming a folder claims every file that folder has."},{"decisionKind":"decision-kind/departure","statement":"A page states whether it has the folder rather than what the folder holds."},{"decisionKind":"decision-kind/departure","statement":"The property speaks for every file the folder holds rather than for one of them."},{"decisionKind":"decision-kind/departure","statement":"A property saying its folder holds bytes says so of every file beneath it."},{"decisionKind":"decision-kind/departure","statement":"A property saying its folder is judged for no length says so of each of them too."}]}
+{"definition":"a page property held in a folder whose name is stated"}
+{"extends":["page-type/true-property"]}
+{"id":"01a081cc-8980-7180-b875-7b4681fea93d"}
+{"parts":["boolean-property/folder-generated","text-property/folder-name"]}
+{"properties":[{"pageProperty":"text-property/folder-name","required":true,"many":false},{"pageProperty":"boolean-property/holds-bytes","required":false,"many":false},{"pageProperty":"boolean-property/runs-file-length","required":false,"many":false},{"pageProperty":"boolean-property/folder-generated","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"shapes":"jsonl"}
+{"slug":"named-folder-property"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

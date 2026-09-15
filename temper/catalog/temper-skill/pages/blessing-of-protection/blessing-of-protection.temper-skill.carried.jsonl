@@ -1,0 +1,17 @@
+{"baseName":"Blessing of Protection"}
+{"description":"\"Slam your staff down to activate its blessings, healing you and your allies in front of you for |cffffff8220|r Health.\\n\\nAlso grants Minor Resolve, increasing you and your allies' Physical Resistance and Spell Resistance by |cffffff2974|r for |cffffff10|r seconds.\""}
+{"esoSkillId":37243}
+{"icon":"/esoui/art/icons/ability_restorationstaff_003.dds"}
+{"id":"019e6f53-9f30-70bb-8995-08c75a464425"}
+{"isMorph":false}
+{"key":"blessing-of-protection"}
+{"learnedLevel":1}
+{"lineRankNeeded":14}
+{"morphIndex":0}
+{"rank":14}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"blessing-of-protection"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Blessing of Protection"}
+{"type":"page-type/temper-skill"}

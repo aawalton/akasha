@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This file name is the whole name rather than an extension."},{"decisionKind":"decision-kind/constraint","statement":"A name here is chosen outside akasha."},{"decisionKind":"decision-kind/departure","statement":"A page claims that file by stating the property with the file."},{"decisionKind":"decision-kind/departure","statement":"The file is found through the page's type rather than through its name."},{"decisionKind":"decision-kind/gap","statement":"A name the naming grammar could build is refused."}]}
+{"definition":"the name a property's file is under"}
+{"id":"01a0585d-233d-7e12-8214-d5f3f602412f"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"file-name"}
+{"slug":"file-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

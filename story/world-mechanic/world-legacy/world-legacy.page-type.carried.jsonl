@@ -1,0 +1,8 @@
+{"definition":"an ability a character inherits from whoever had it before"}
+{"extends":["page-type/world-mechanic"]}
+{"id":"01a06558-a991-7854-b460-869fb15a06b9"}
+{"runsTabooCheck":false}
+{"schema":"jsonl"}
+{"slug":"world-legacy"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

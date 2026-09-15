@@ -1,0 +1,11 @@
+{"containerPort":3080}
+{"definition":"what decides who a request is from before it reaches anything"}
+{"id":"01a06863-8e7c-7a70-a620-0a4edd125d51"}
+{"image":"registry.registry.svc.cluster.local:5000/infra/auth-proxy"}
+{"manifest":["manifest/auth-proxy-manifests"]}
+{"namespace":"auth-proxy"}
+{"replicas":2}
+{"resourceKind":"Deployment"}
+{"resourceName":"auth-proxy"}
+{"slug":"auth-proxy"}
+{"type":"page-type/service-cluster"}

@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A node stating no parent is a root of the tree."},{"decisionKind":"decision-kind/departure","statement":"Every root is named by the tab the root heads."},{"decisionKind":"decision-kind/departure","statement":"A node has the tab of the root the node hangs beneath."}]}
+{"definition":"one node of the tree completion is counted in"}
+{"extends":["page-type/temper-progress-thing"]}
+{"id":"01a05fcb-d657-7209-8fac-d33d57fe464e"}
+{"parts":["text-property/tab"]}
+{"properties":[{"pageProperty":"text-property/node-id","required":true,"many":false},{"pageProperty":"text-property/tab","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-completion-category"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

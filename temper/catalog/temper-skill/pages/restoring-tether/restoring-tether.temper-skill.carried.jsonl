@@ -1,0 +1,17 @@
+{"baseName":"Restoring Tether"}
+{"description":"\"Siphon the last remnants of life from a corpse, healing for |cffffff17514|r Health over |cffffff12|r seconds to yourself and all allies between you and the corpse. \\n\\nWhile slotted, your healing done is increased by |cffffff3|r%.\""}
+{"esoSkillId":115926}
+{"icon":"/esoui/art/icons/ability_necromancer_017.dds"}
+{"id":"019e6f53-a634-7c82-87c8-48a1c66accf4"}
+{"isMorph":false}
+{"key":"restoring-tether"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":0}
+{"rank":42}
+{"skillLineId":"necromancer-living-death"}
+{"skillType":"active"}
+{"slug":"restoring-tether"}
+{"subcategoryId":"necromancer-living-death"}
+{"title":"Restoring Tether"}
+{"type":"page-type/temper-skill"}

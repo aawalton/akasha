@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"definition":"the connection pool exporter's deployment and the way in to it"}
+{"generatedDirectory":true}
+{"id":"01a07395-071f-7a7b-959d-53aefec229ea"}
+{"parts":["module/pgbouncer-exporter-manifests"]}
+{"slug":"pgbouncer-exporter"}
+{"type":"page-type/manifest"}

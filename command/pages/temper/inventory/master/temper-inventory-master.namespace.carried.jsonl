@@ -1,0 +1,6 @@
+{"definition":"the master writs a character holds"}
+{"id":"01a07c17-6b8c-778e-a1bb-83fe9f5fd164"}
+{"name":"master"}
+{"parts":["command/temper-inventory-master-consumable-trace","command/temper-inventory-master-craft-trace","command/temper-inventory-master-writ-probe"]}
+{"slug":"temper-inventory-master"}
+{"type":"page-type/namespace"}

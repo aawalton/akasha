@@ -1,0 +1,19 @@
+{"baseName":"Tri Focus"}
+{"description":"\"Fully-charged Inferno Staff Heavy Attacks deal an additional 4480 Flame Damage over 20 seconds.\\n\\nFully-charged Lightning Staff Heavy Attacks damage nearby enemies for 100% of the damage done.\\n\\nFully-charged Ice Staff Heavy Attacks grant you a damage shield that absorbs 5280 damage. This effect scales off your Max Health.\\n\\nWhile an Ice Staff is equipped, blocking costs Magicka instead of Stamina.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45500}
+{"icon":"/esoui/art/icons/ability_weapon_001.dds"}
+{"id":"019e6226-011b-76c0-ad73-bc007da797cc"}
+{"isMorph":false}
+{"key":"tri-focus"}
+{"learnedLevel":34}
+{"lineRankNeeded":34}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"passive"}
+{"slug":"tri-focus"}
+{"status":"unsupported"}
+{"subcategoryId":"weapon-destruction-staff"}
+{"title":"Tri Focus"}
+{"type":"page-type/temper-skill"}

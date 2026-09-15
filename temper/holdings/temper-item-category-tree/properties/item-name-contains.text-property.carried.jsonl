@@ -1,0 +1,8 @@
+{"definition":"the words an item's name has for the branch to take it"}
+{"id":"01a05fcb-fd32-75de-abbc-161a35a4b1a1"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"item-name-contains"}
+{"slug":"item-name-contains"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

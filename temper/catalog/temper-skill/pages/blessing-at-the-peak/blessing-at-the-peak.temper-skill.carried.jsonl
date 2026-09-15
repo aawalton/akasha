@@ -1,0 +1,17 @@
+{"baseName":"Blessing at the Peak"}
+{"description":"\"Where earth meets sky is a wellspring of power you can tap at will.\\n\\nWhen you cast or deal damage with an Earthen Heart ability in combat you generate |cffffff1|r Ultimate. This effect can occur once every |cffffff6|r seconds.\\n\\nIncreases your Critical Damage by |cffffff5|r%.\""}
+{"esoSkillId":29473}
+{"icon":"/esoui/art/icons/ability_dragonknight_024.dds"}
+{"id":"019e6f53-9f2e-7464-9d24-8832f82790fe"}
+{"isMorph":false}
+{"key":"blessing-at-the-peak"}
+{"learnedLevel":22}
+{"lineRankNeeded":22}
+{"morphIndex":0}
+{"rank":22}
+{"skillLineId":"dragonknight-earthen-heart"}
+{"skillType":"passive"}
+{"slug":"blessing-at-the-peak"}
+{"subcategoryId":"dragonknight-earthen-heart"}
+{"title":"Blessing at the Peak"}
+{"type":"page-type/temper-skill"}

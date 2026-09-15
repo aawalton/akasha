@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Flame Skull"}
+{"description":"\"Lob an explosive skull at an enemy, dealing |cffffff11686|r Flame Damage.\""}
+{"esoSkillId":238081}
+{"icon":"/esoui/art/icons/ability_necromancer_001.dds"}
+{"id":"019e6f53-a90d-7fec-8d9a-5ae055086264"}
+{"isMorph":false}
+{"key":"vengeance-flame-skull"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-necromancer-grave-lord"}
+{"skillType":"active"}
+{"slug":"vengeance-flame-skull"}
+{"subcategoryId":"vengeance-necromancer-grave-lord"}
+{"title":"Vengeance Flame Skull"}
+{"type":"page-type/temper-skill"}

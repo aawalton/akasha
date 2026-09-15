@@ -1,0 +1,7 @@
+{"description":"Reduces Critical Damage done by 20%"}
+{"effects":"jsonl"}
+{"id":"01a05fc6-42c2-7cdc-8de6-8f74de69c848"}
+{"key":"major-enervation"}
+{"slug":"major-enervation"}
+{"title":"Major Enervation"}
+{"type":"page-type/temper-debuff-major"}

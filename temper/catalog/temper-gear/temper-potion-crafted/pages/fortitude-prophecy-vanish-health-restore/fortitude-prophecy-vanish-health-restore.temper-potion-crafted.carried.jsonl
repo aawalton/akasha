@@ -1,0 +1,11 @@
+{"description":"Grants Restore Health, Invisible, Spell Critical."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_013_type_005.dds"}
+{"id":"019e21f6-4058-7b75-838d-c25d8c959044"}
+{"key":"fortitude-prophecy-vanish-health-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Blue Entoloma","Crimson Nirnroot","Namira's Rot"]},{"names":["Blue Entoloma","Namira's Rot","Water Hyacinth"]}]}
+{"seconds":47}
+{"slug":"fortitude-prophecy-vanish-health-restore"}
+{"title":"Essence of Spell Critical"}
+{"type":"page-type/temper-potion-crafted"}

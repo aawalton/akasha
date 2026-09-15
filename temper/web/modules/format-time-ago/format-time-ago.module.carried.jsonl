@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"No instant is written as no words rather than as a phrase."}]}
+{"definition":"an instant written as a phrase saying how long ago it was"}
+{"id":"01a06432-b190-70c7-9a7e-6b7554e6dccf"}
+{"slug":"format-time-ago"}
+{"type":"page-type/module"}

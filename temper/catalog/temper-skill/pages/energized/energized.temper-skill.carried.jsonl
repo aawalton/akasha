@@ -1,0 +1,19 @@
+{"baseName":"Energized"}
+{"description":"\"Increases your Physical and Shock Damage by 5%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45190}
+{"icon":"/esoui/art/icons/ability_sorcerer_015.dds"}
+{"id":"019e6245-a66c-7645-98c7-ca034565b3e1"}
+{"isMorph":false}
+{"key":"energized"}
+{"learnedLevel":27}
+{"lineRankNeeded":27}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"sorcerer-storm-calling"}
+{"skillType":"passive"}
+{"slug":"energized"}
+{"status":"supported"}
+{"subcategoryId":"sorcerer-storm-calling"}
+{"title":"Energized"}
+{"type":"page-type/temper-skill"}

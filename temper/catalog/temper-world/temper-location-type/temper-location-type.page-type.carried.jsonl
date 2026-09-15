@@ -1,0 +1,8 @@
+{"definition":"a sort of place a character's things are held"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fc4-7a8f-792b-b559-e6c98c4ec4bb"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-location-type"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

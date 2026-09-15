@@ -1,0 +1,11 @@
+{"enchantmentMultiplier":0.5}
+{"esoWeaponType":"WEAPONTYPE_DAGGER"}
+{"id":"019e46b6-408c-774e-b328-97c62f8e9d12"}
+{"isTwoHanded":false}
+{"key":"dagger"}
+{"skillLineId":"weapon-one-hand"}
+{"slug":"dagger"}
+{"title":"Dagger"}
+{"type":"page-type/temper-weapon-type"}
+{"validSlots":["main-hand"]}
+{"weaponPower":1335}

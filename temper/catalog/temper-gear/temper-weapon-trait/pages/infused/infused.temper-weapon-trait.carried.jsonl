@@ -1,0 +1,10 @@
+{"displayOrder":4}
+{"effect":"Increases Enchantment Effectiveness"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_WEAPON_INFUSED"}
+{"id":"019e5b8b-e545-787d-9a0a-68e27557df53"}
+{"key":"infused"}
+{"material":"Jade"}
+{"qualityValues":"jsonl"}
+{"slug":"infused"}
+{"title":"Infused"}
+{"type":"page-type/temper-weapon-trait"}

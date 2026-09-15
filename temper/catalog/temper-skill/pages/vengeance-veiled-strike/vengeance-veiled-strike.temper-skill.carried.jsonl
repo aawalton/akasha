@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Veiled Strike"}
+{"description":"\"Slash an enemy, dealing |cffffff11130|r Magic Damage.\""}
+{"esoSkillId":237430}
+{"icon":"/esoui/art/icons/ability_nightblade_002.dds"}
+{"id":"019e6f53-a9a8-7c93-92f2-31e784f575aa"}
+{"isMorph":false}
+{"key":"vengeance-veiled-strike"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-nightblade-assassination"}
+{"skillType":"active"}
+{"slug":"vengeance-veiled-strike"}
+{"subcategoryId":"vengeance-nightblade-assassination"}
+{"title":"Vengeance Veiled Strike"}
+{"type":"page-type/temper-skill"}

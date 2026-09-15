@@ -1,0 +1,8 @@
+{"definition":"a pod is restarting over and over instead of staying up"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fa-7d4b-a0f9-df8ffc17eaf2"}
+{"runbook":"txt"}
+{"slug":"pod-crash-looping"}
+{"summary":"Pod {{ $labels.namespace }}/{{ $labels.pod }} is crash looping"}
+{"title":"Pod crash looping"}
+{"type":"page-type/alert"}

@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Arrow Spray"}
+{"description":"\"Fire a burst of arrows in one shot, dealing |cffffff8820|r Physical Damage to up to 3 enemies in front of you.\""}
+{"esoSkillId":241274}
+{"icon":"/esoui/art/icons/ability_bow_005.dds"}
+{"id":"019e6f53-a8b4-7117-9b37-8e0f361e87ec"}
+{"isMorph":false}
+{"key":"vengeance-arrow-spray"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-bow"}
+{"skillType":"active"}
+{"slug":"vengeance-arrow-spray"}
+{"subcategoryId":"vengeance-weapon-bow"}
+{"title":"Vengeance Arrow Spray"}
+{"type":"page-type/temper-skill"}

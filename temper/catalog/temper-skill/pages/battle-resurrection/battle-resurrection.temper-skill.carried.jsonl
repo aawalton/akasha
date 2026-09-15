@@ -1,0 +1,19 @@
+{"baseName":"Battle Resurrection"}
+{"description":"\"Reduces the time it takes you to resurrect another player by 30% while you are in a PvP area.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45625}
+{"icon":"/esoui/art/icons/ability_sorcerer_018.dds"}
+{"id":"019e6251-4c8a-7763-82ee-84773472435f"}
+{"isMorph":false}
+{"key":"battle-resurrection"}
+{"learnedLevel":10}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"passive"}
+{"slug":"battle-resurrection"}
+{"status":"unsupported"}
+{"subcategoryId":"alliance-war-support"}
+{"title":"Battle Resurrection"}
+{"type":"page-type/temper-skill"}

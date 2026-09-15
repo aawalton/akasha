@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A direction says the things to weigh."},{"decisionKind":"decision-kind/departure","statement":"A direction never says the decision to make."}]}
+{"definition":"what an agent settling a transaction is told to weigh"}
+{"id":"01a0680a-1a00-7018-9b56-4f7a3d8c1118"}
+{"maxLength":1000}
+{"nameFormat":null}
+{"propertySlug":"directs"}
+{"slug":"directs"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

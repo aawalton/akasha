@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A value that is nil ends the call rather than being carried on."}]}
+{"definition":"a value the crafting add-on read that must be there, refused where it is nil"}
+{"id":"01a08de1-2f29-7d20-a437-b66d1cb3ba33"}
+{"slug":"craft-defined"}
+{"type":"page-type/module"}

@@ -1,0 +1,10 @@
+{"displayOrder":2}
+{"effect":"Deals damage over time and returns health (proc-based)"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_ABSORB_HEALTH"}
+{"essenceRune":"Okoma"}
+{"glyphName":"Glyph of Absorb Health"}
+{"id":"019e5c0d-dceb-74ca-8a7f-64f3f44ddae1"}
+{"key":"absorb-health"}
+{"slug":"absorb-health"}
+{"title":"Absorb Health"}
+{"type":"page-type/temper-weapon-enchant"}

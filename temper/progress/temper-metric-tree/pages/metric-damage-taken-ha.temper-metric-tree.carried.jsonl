@@ -1,0 +1,8 @@
+{"displayOrder":2}
+{"id":"019e2fcd-5a3f-70c0-8d43-62cd8e7a9e27"}
+{"nodeId":"damage-taken-ha"}
+{"nodeType":"metric"}
+{"parent":"subcategory-damage-taken-by-type"}
+{"slug":"metric-damage-taken-ha"}
+{"title":"Damage Taken Ha"}
+{"type":"page-type/temper-metric-tree"}

@@ -1,0 +1,11 @@
+{"description":"Grants Spell Critical, Restore Health, Increase Weapon Crit."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_012_type_005.dds"}
+{"id":"019e21f6-4066-7bd8-81d1-7b50e175d27f"}
+{"key":"fortitude-prophecy-savagery-health-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Crimson Nirnroot","Dragonthorn","Water Hyacinth"]},{"names":["Crimson Nirnroot","Water Hyacinth","Wormwood"]}]}
+{"seconds":47}
+{"slug":"fortitude-prophecy-savagery-health-restore"}
+{"title":"Essence of Weapon Crit"}
+{"type":"page-type/temper-potion-crafted"}

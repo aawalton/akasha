@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A restated change owes the reading an authored change owes."},{"decisionKind":"decision-kind/departure","statement":"Every reading of a page a restatement changes answers for the page the restatement leaves."},{"decisionKind":"decision-kind/departure","statement":"A restated change is composed by an agent rather than by a program."},{"decisionKind":"decision-kind/departure","statement":"A restated change leaves a page's meaning unchanged."},{"decisionKind":"decision-kind/departure","statement":"Only the words a page states are changed."},{"decisionKind":"decision-kind/departure","statement":"A rewrite narrowing the claim a statement binds is authored rather than restated."},{"decisionKind":"decision-kind/departure","statement":"Every check an authored change is judged by judges a restated change."},{"decisionKind":"decision-kind/departure","statement":"A restated change moving more than the words a page states is refused."}]}
+{"definition":"a change saying what a page already said in other words"}
+{"id":"01a07245-0dbf-7539-b0dc-ce6281aa96e8"}
+{"readersOweReading":false}
+{"runsChecks":true}
+{"slug":"change-restated"}
+{"type":"page-type/change-kind"}
+{"writerOwesReading":true}

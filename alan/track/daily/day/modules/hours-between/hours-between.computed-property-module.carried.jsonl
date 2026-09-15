@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The hours are the same whichever instant is handed in first."},{"decisionKind":"decision-kind/departure","statement":"An end that is no readable instant is no reading rather than zero."}]}
+{"definition":"the hours from one instant to another"}
+{"id":"01a0821f-8bbc-7772-a9fa-052b5f4ffb2b"}
+{"slug":"hours-between"}
+{"test":"ts"}
+{"type":"page-type/computed-property-module"}

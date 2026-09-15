@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A group is read off the kinds that name the group rather than stored as a list of the kinds."}]}
+{"definition":"the standing a decision has"}
+{"extends":["page-type/domain"]}
+{"id":"01a04e11-9f97-7f42-bb41-d519ae123a65"}
+{"parts":["decision-group/condition","decision-group/design","decision-group/intent"]}
+{"schema":"jsonl"}
+{"slug":"decision-group"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

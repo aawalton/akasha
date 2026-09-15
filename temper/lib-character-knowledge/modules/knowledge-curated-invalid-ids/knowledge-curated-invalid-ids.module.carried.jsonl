@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"An item upstream marks unavailable contributes to no style."}]}
+{"definition":"the items kept out of the style and chapter tables"}
+{"id":"01a0622b-dc57-7c4b-8f62-fa6a29f7844e"}
+{"slug":"knowledge-curated-invalid-ids"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each section is narrowed before the section is read."},{"decisionKind":"decision-kind/departure","statement":"A section that does not narrow reads as its default."},{"decisionKind":"decision-kind/departure","statement":"A write has the whole blob rather than the section that changed."},{"decisionKind":"decision-kind/departure","statement":"These three sections read the copy hooks-inventory-settings has."},{"decisionKind":"decision-kind/departure","statement":"A section this module leaves alone survives a write from this module."}]}
+{"definition":"the logging, safety and shopping settings a player keeps, read and written"}
+{"id":"01a0640f-8510-7ec4-bf91-bd8c41002f73"}
+{"slug":"player-settings"}
+{"type":"page-type/module"}

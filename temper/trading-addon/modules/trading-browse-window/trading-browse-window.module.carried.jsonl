@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The window is built once and refilled rather than rebuilt per search."}]}
+{"definition":"the window a player browses guild store results in"}
+{"id":"01a06160-2a59-7df3-a77c-588f057cc94c"}
+{"slug":"trading-browse-window"}
+{"type":"page-type/module"}

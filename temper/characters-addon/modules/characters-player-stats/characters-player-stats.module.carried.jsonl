@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A character the saved table does not yet hold is given a row rather than skipped."}]}
+{"definition":"the name, build hash and curse of the character now played, read into the saved table"}
+{"id":"01a062ed-3953-7006-94d1-870f11c3c3fc"}
+{"slug":"characters-player-stats"}
+{"type":"page-type/module"}

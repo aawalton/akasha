@@ -1,0 +1,15 @@
+{"controlledEntityKind":"single"}
+{"coordinatorAgent":"awen-gm--the-violet-hour"}
+{"displayConfig":"json"}
+{"entities":"jsonl"}
+{"externalId":"the-violet-hour"}
+{"gameEngine":"awen"}
+{"gmContext":"json"}
+{"id":"01a0673f-a3d8-7000-910a-f80b20ecd496"}
+{"mechanicsWeight":"zero"}
+{"resolution":"none"}
+{"slug":"the-violet-hour"}
+{"title":"The Violet Hour"}
+{"turns":"jsonl"}
+{"type":"page-type/game"}
+{"unit":"unit/words"}

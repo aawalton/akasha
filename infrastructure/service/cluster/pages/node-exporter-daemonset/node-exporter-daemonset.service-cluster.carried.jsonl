@@ -1,0 +1,10 @@
+{"containerPort":9100}
+{"definition":"the daemon publishing each node's processor, memory, disk and network as metrics"}
+{"id":"01a06812-2380-745d-b472-9c01fc3c6797"}
+{"image":"prom/node-exporter:v1.8.2"}
+{"manifest":["manifest/node-exporter-daemonset"]}
+{"namespace":"kube-system"}
+{"resourceKind":"DaemonSet"}
+{"resourceName":"node-exporter"}
+{"slug":"node-exporter-daemonset"}
+{"type":"page-type/service-cluster"}

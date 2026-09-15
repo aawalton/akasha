@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A function assigned to a property is left."},{"decisionKind":"decision-kind/departure","statement":"A function assigned to a property is reached with a dot rather than a colon."},{"decisionKind":"decision-kind/departure","statement":"A method on a class is left."},{"decisionKind":"decision-kind/departure","statement":"The object literal is the only place this shorthand is emitted with a colon call."},{"decisionKind":"decision-kind/departure","statement":"Only `void` is refused."},{"decisionKind":"decision-kind/departure","statement":"A method declaring no `this` parameter is left."},{"decisionKind":"decision-kind/departure","statement":"That the generated call uses a colon is assumed rather than read from the transpiler's settings."},{"decisionKind":"decision-kind/absence","statement":"A method put onto an object after the literal is written is not seen."}]}
+{"definition":"the rule refusing `this: void` on a method written into an object literal"}
+{"id":"01a05031-0197-7c3c-a886-b0297dd3adcf"}
+{"slug":"no-void-self-in-object-method"}
+{"test":"ts"}
+{"type":"page-type/syntax-rule"}

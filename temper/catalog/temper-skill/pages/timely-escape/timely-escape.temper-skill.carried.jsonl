@@ -1,0 +1,19 @@
+{"baseName":"Timely Escape"}
+{"description":"\"When you have Bounty and are in combat, you have a chance to spot a \\\"Footpad\\\" in a town with a Refuge. Interacting with the Footpad will transport the player safely into the nearest Refuge.\""}
+{"effects":"jsonl"}
+{"esoSkillId":76452}
+{"icon":"/esoui/art/icons/ability_thievesguild_passive_004.dds"}
+{"id":"019e6238-c326-7b88-a983-df9b47918b91"}
+{"isMorph":false}
+{"key":"timely-escape"}
+{"learnedLevel":1}
+{"lineRankNeeded":7}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"guild-thieves-guild"}
+{"skillType":"passive"}
+{"slug":"timely-escape"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-thieves-guild"}
+{"title":"Timely Escape"}
+{"type":"page-type/temper-skill"}

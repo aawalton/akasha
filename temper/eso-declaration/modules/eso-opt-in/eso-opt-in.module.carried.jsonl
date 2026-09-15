@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Where the manifest sits is asked of the index rather than spelled."},{"decisionKind":"decision-kind/departure","statement":"A manifest naming no function is refused rather than read as a scope naming no function."}]}
+{"definition":"the manifest naming which eso tokens are declared"}
+{"id":"01a0686c-fd2c-7000-ae86-fd9462cb29d6"}
+{"slug":"eso-opt-in"}
+{"type":"page-type/module"}

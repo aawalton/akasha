@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An eye read is the persona's reading rather than Alan's."}]}
+{"definition":"how the try read to the persona watching it"}
+{"extensions":["txt"]}
+{"id":"01a0685d-b81f-7e55-a063-f0493086a225"}
+{"propertySlug":"eye-read"}
+{"slug":"eye-read"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/move-to"}
+{"active":true}
+{"categoryId":"container-stackable"}
+{"description":"Deposits stackable containers (reward coffers, event boxes, etc.) in the bank. Open them later in bulk or save for events."}
+{"destination":"bank"}
+{"displayOrder":9}
+{"fromTemplate":"temper-rule-template/containers-stackable-bank"}
+{"goal":"temper-rule-goal/hoard"}
+{"id":"01a0728b-10d1-77a7-85d4-209b05b2a2af"}
+{"locked":true}
+{"slug":"rule-containers-stackable-bank"}
+{"title":"Bank stackable containers"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-05-04T16:04:31.132Z"}

@@ -1,0 +1,8 @@
+{"definition":"a shelf of authors Alan keeps together"}
+{"extends":["page-type/collection"]}
+{"id":"01a06807-be66-7001-8727-30e55aa5e73b"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"author-collection"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

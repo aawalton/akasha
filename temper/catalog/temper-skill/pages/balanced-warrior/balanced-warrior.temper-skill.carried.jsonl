@@ -1,0 +1,19 @@
+{"baseName":"Balanced Warrior"}
+{"description":"\"Increases your Weapon Damage, Spell Damage, and Armor by 6%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":44732}
+{"icon":"/esoui/art/icons/ability_templar_032.dds"}
+{"id":"019e6245-a5f1-7d6c-8b13-22bb9774ebb9"}
+{"isMorph":false}
+{"key":"balanced-warrior"}
+{"learnedLevel":1}
+{"lineRankNeeded":39}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"templar-aedric-spear"}
+{"skillType":"passive"}
+{"slug":"balanced-warrior"}
+{"status":"supported"}
+{"subcategoryId":"templar-aedric-spear"}
+{"title":"Balanced Warrior"}
+{"type":"page-type/temper-skill"}

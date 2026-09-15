@@ -1,0 +1,27 @@
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Hug_Knees_To_Chest"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hug_Knees_To_Chest"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"static"}
+{"gripDemand":"low"}
+{"id":"019ebc77-76ff-7491-b195-1306694016e0"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hug_Knees_To_Chest/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hug_Knees_To_Chest/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"mobility"}
+{"muscleFocus":"pull"}
+{"primaryMuscles":["lower-back"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["glutes"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"hug-knees-to-chest"}
+{"title":"Hug Knees To Chest"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

@@ -1,0 +1,6 @@
+{"filing":"archive"}
+{"id":"01a06860-54a2-7647-aa45-3db81337a209"}
+{"matches":[{"field":"from","comparison":"ends-with","values":["oak.hills.first.ward.tech"]}]}
+{"slug":"oak-ward-account-mail"}
+{"title":"Oak ward account mail"}
+{"type":"page-type/email-rule-code"}

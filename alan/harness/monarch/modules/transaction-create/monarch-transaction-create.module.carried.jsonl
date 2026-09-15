@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A transaction of zero is refused."},{"decisionKind":"decision-kind/departure","statement":"A transaction this project creates has the tag saying a machine made that transaction."},{"decisionKind":"decision-kind/departure","statement":"A row created and then refused its tag is refused loudly."},{"decisionKind":"decision-kind/departure","statement":"A transfer is a row out of one category and a row into another category against one account."},{"decisionKind":"decision-kind/departure","statement":"A transfer moves a positive amount."},{"decisionKind":"decision-kind/departure","statement":"A negative amount is refused rather than reversed."},{"decisionKind":"decision-kind/departure","statement":"A transfer from a category to itself is refused."},{"decisionKind":"decision-kind/departure","statement":"The balance is updated unless the caller says otherwise."}]}
+{"definition":"a transaction written into Monarch, and the pair of them a budget transfer is"}
+{"id":"01a06865-ecc3-7529-b7f4-6be99588abe2"}
+{"slug":"monarch-transaction-create"}
+{"type":"page-type/module"}

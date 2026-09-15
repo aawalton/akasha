@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A title is written as the name is written rather than as a slug is written."}]}
+{"definition":"the name a thing is shown under"}
+{"id":"01a05fac-7582-7694-ae1f-480fe66ea27b"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"title"}
+{"slug":"title"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

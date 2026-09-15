@@ -1,0 +1,27 @@
+{"equipment":"strength-exercise-implement/other"}
+{"exerciseCategory":"cardio"}
+{"exerciseExternalId":"Rope_Jumping"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rope_Jumping"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"intermediate"}
+{"exerciseSource":"free-exercise-db"}
+{"gripDemand":"low"}
+{"id":"019ebc77-d25d-7dd1-a226-290cb7e54d01"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":true}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"conditioning"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["quadriceps"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["calves","hamstrings"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"rope-jumping"}
+{"title":"Rope Jumping"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

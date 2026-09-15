@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This route's action is the only thing this route's code exports."}]}
+{"definition":"the page a reader's browser asks to have written"}
+{"id":"01a08838-c84b-70c9-ae34-60620a677571"}
+{"slug":"atlas-api-page-write"}
+{"type":"page-type/route"}
+{"urlPath":"api/page-write"}

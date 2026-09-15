@@ -1,0 +1,17 @@
+{"baseName":"Metallurgy"}
+{"description":"\"Reduces research times by 25%, limits research time to 30 days, and allows the research of three items at once.\""}
+{"esoSkillId":58784}
+{"icon":"/esoui/art/icons/crafting_runecrafter_armor_vendor_component_002.dds"}
+{"id":"019e6224-cca4-78b1-9b24-9538db755ab7"}
+{"isMorph":false}
+{"key":"metallurgy"}
+{"learnedLevel":45}
+{"lineRankNeeded":45}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"craft-blacksmithing"}
+{"skillType":"passive"}
+{"slug":"metallurgy"}
+{"subcategoryId":"craft-blacksmithing"}
+{"title":"Metallurgy"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"description":"A currency rule names the amount to leave behind, turning the compiled action into `keep-floor` where the destination is not a character, and no item condition reads the amount."}
+{"id":"01a07209-6b51-793a-af55-2d7be0fc2b64"}
+{"key":"keepFloor"}
+{"slug":"keep-floor"}
+{"title":"Keep Floor"}
+{"type":"page-type/temper-condition-field"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Settings are brought up before pins are registered."}]}
+{"definition":"bringing the addon up once the game has loaded"}
+{"id":"01a060f9-badc-70b2-a9a4-5672a001af3e"}
+{"slug":"dungeon-champion-start"}
+{"type":"page-type/module"}

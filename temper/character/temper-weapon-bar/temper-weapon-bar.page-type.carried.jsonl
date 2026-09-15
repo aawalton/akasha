@@ -1,0 +1,7 @@
+{"definition":"one of the two rows a character slots weapons into"}
+{"extends":["page-type/temper-character-thing"]}
+{"id":"01a05fcd-f559-7417-aa6b-791718b82ebc"}
+{"schema":"jsonl"}
+{"slug":"temper-weapon-bar"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

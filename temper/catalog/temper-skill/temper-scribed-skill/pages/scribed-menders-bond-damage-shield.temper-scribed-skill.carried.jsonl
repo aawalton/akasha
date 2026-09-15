@@ -1,0 +1,19 @@
+{"baseName":"Mender's Bond"}
+{"description":"Grants the ally and other allies in the link a damage shield that absorbs 667 damage every 1 second."}
+{"esoSkillId":217320}
+{"focusScriptId":"damage-shield"}
+{"grimoireId":"menders-bond"}
+{"icon":"/esoui/art/icons/ability_grimoire_staffresto.dds"}
+{"id":"019e6471-15ad-7273-b0ad-4215c46dffa5"}
+{"isMorph":false}
+{"key":"scribed-menders-bond-damage-shield"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"scribed-menders-bond-damage-shield"}
+{"subcategoryId":"scribed"}
+{"title":"Warding Bond"}
+{"type":"page-type/temper-scribed-skill"}

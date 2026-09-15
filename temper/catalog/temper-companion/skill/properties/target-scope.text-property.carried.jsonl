@@ -1,0 +1,8 @@
+{"definition":"how many the thing an effect lands on covers"}
+{"id":"01a06193-6ca3-7e85-96e0-7cf3c6b79ba2"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"scope"}
+{"slug":"target-scope"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

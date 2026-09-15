@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"An add-on's own code is the module code beside the add-on's own pages."},{"decisionKind":"decision-kind/constraint","statement":"An add-on still outside akasha keeps its code under a `src` folder."},{"decisionKind":"decision-kind/constraint","statement":"A machine-written file is the add-on's own wherever the file sits."},{"decisionKind":"decision-kind/constraint","statement":"A machine-written file counts even where a scan declines to read the file."},{"decisionKind":"decision-kind/constraint","statement":"A type declaration is no code."},{"decisionKind":"decision-kind/constraint","statement":"A test is no code."},{"decisionKind":"decision-kind/constraint","statement":"A file a build wrote is a copy of a file already counted."},{"decisionKind":"decision-kind/constraint","statement":"A file another package owns is no part of the add-on."},{"decisionKind":"decision-kind/departure","statement":"Five checks each had a reading of their own before this module."}]}
+{"definition":"which files under a game add-on's own folder are that add-on's source and markup"}
+{"id":"01a062a8-e76a-7fda-a7db-9dcb0cf64d2f"}
+{"slug":"addon-source-files"}
+{"type":"page-type/module"}

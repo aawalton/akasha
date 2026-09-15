@@ -1,0 +1,17 @@
+{"baseName":"Dive"}
+{"description":"\"Command a cliff racer to dive bomb an enemy, dealing |cffffff7269|r Magic Damage.\\n\\nIf you are more than |cffffff7|r meters away from the target, you set them Off Balance for |cffffff7|r seconds.\""}
+{"esoSkillId":85995}
+{"icon":"/esoui/art/icons/ability_warden_013.dds"}
+{"id":"019e6f53-a0d9-7e2d-8bf4-d2369c20c1c9"}
+{"isMorph":false}
+{"key":"dive"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"warden-animal-companions"}
+{"skillType":"active"}
+{"slug":"dive"}
+{"subcategoryId":"warden-animal-companions"}
+{"title":"Dive"}
+{"type":"page-type/temper-skill"}

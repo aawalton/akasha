@@ -1,0 +1,17 @@
+{"baseName":"Banish the Wicked"}
+{"description":"\"You generate |cffffff1|r Ultimate whenever you kill an enemy.\""}
+{"esoSkillId":35800}
+{"icon":"/esoui/art/icons/ability_dragonknight_034.dds"}
+{"id":"019e6f53-9eea-7a9b-bd7c-21c11175cbe5"}
+{"isMorph":false}
+{"key":"banish-the-wicked-35800"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":5}
+{"skillLineId":"guild-fighters-guild"}
+{"skillType":"passive"}
+{"slug":"banish-the-wicked-35800"}
+{"subcategoryId":"guild-fighters-guild"}
+{"title":"Banish the Wicked"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The library has a single context menu object for the whole session."},{"decisionKind":"decision-kind/departure","statement":"A throttled call is registered as a named update handler that unregisters itself."},{"decisionKind":"decision-kind/departure","statement":"Mixing tables in skips a key the target already has unless an override says so."},{"decisionKind":"decision-kind/departure","statement":"Hiding the context menu also clears the menu items unless a preventer variable blocks the clearing."}]}
+{"definition":"the resolution and teardown of the one context menu the library keeps"}
+{"id":"01a06275-c449-7de1-9732-9875c8e401e9"}
+{"slug":"scrollable-menu-util-menu"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"definition":"which chess a game was played as"}
+{"id":"01a06582-bd62-7e3d-b7b8-4f186da6875b"}
+{"propertySlug":"variant"}
+{"slug":"chess-variant"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["standard","chess960","crazyhouse","antichess","atomic","horde","king-of-the-hill","racing-kings","three-check","from-position"]}

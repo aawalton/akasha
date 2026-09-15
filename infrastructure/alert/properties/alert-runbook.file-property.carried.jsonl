@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A runbook is prose rather than a rule anything runs."},{"decisionKind":"decision-kind/departure","statement":"A runbook outlives the deployment gap the alert that runbook belongs to sits in."}]}
+{"definition":"what to check once an alert is raised"}
+{"extensions":["txt"]}
+{"id":"01a06755-0778-7275-8076-4aec6002693b"}
+{"propertySlug":"runbook"}
+{"slug":"alert-runbook"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

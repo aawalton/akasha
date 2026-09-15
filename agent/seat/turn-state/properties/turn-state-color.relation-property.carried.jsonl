@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This color draws the seat rather than the turn state's own page."}]}
+{"definition":"the color a seat in this turn state is drawn in"}
+{"id":"01a06d7a-e9f9-7644-9ee4-9ddcf6b723ba"}
+{"propertySlug":"color"}
+{"slug":"turn-state-color"}
+{"targetPageType":"page-type/color"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

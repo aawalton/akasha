@@ -1,0 +1,17 @@
+{"baseName":"Dawnbreaker"}
+{"description":"\"Arm yourself with Meridia's sacred sword and dispense her retribution, dealing 3600 Physical Damage to enemies in front of you, an additional 4314 Physical Damage over 6 seconds, and stunning them for 2 seconds.\""}
+{"esoSkillId":42598}
+{"icon":"/esoui/art/icons/ability_fightersguild_005_b.dds"}
+{"id":"019e6238-c2b0-75c0-878f-8421daaec9a2"}
+{"isMorph":true}
+{"key":"dawnbreaker-of-smiting"}
+{"learnedLevel":10}
+{"lineRankNeeded":10}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"guild-fighters-guild"}
+{"skillType":"ultimate"}
+{"slug":"dawnbreaker-of-smiting"}
+{"subcategoryId":"guild-fighters-guild"}
+{"title":"Dawnbreaker of Smiting"}
+{"type":"page-type/temper-skill"}

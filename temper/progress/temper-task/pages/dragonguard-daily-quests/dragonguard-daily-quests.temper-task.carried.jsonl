@@ -1,0 +1,19 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"character":"lyonette-du-marquin"}
+{"completionCardId":"character-achievements"}
+{"completionItemPath":["Dragonhold","Quests","2612"]}
+{"displayOrder":7}
+{"dueDate":"2026-09-16"}
+{"effectiveCharacter":"archmage-amerys"}
+{"id":"019db533-f381-75c3-9780-5890e62c0c88"}
+{"lastCompletedAt":"2026-09-15T14:41:05.000Z"}
+{"priority":"p3"}
+{"progress":"jsonl"}
+{"progressCurrent":327}
+{"progressTotal":600}
+{"rruleAnchorFromCompletion":false}
+{"rruleRule":"FREQ=DAILY"}
+{"scope":"all_characters"}
+{"slug":"dragonguard-daily-quests"}
+{"title":"Dragonguard Daily Quests"}
+{"type":"page-type/temper-task"}

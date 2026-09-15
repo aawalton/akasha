@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A piece with no load at all is configured n-a."}]}
+{"definition":"how many of a piece there are and whether its load moves"}
+{"id":"01a06865-7f45-7b38-8b71-89af2d19a5a6"}
+{"propertySlug":"configuration"}
+{"slug":"fitness-equipment-configuration"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["pair","single","adjustable","n-a"]}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Where the settings page sits is asked of the index rather than spelled."},{"decisionKind":"decision-kind/departure","statement":"The settings body is the file beside that page rather than a second path."}]}
+{"definition":"which tools an agent may reach, read off the tool-access settings page"}
+{"id":"01a06964-d998-7eb2-b409-f7b943e17909"}
+{"slug":"tool-access"}
+{"type":"page-type/module"}

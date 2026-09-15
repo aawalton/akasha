@@ -1,0 +1,10 @@
+{"basePort":3500}
+{"buildCommand":"bun run build"}
+{"definition":"the site published original stories are read on"}
+{"hostnames":["archiveofworlds.app"]}
+{"id":"01a05b26-f8b6-7c8b-8ab2-75fb9e885c54"}
+{"secretResource":"archive-of-worlds-secrets"}
+{"serviceClusters":["service-cluster/archive-of-worlds-web"]}
+{"slug":"archive-of-worlds-web"}
+{"sourceDirectory":"product/archive-of-worlds/web"}
+{"type":"page-type/web-app"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A Lua table hands every key over as text."},{"decisionKind":"decision-kind/departure","statement":"A key that is no number is refused rather than given back as zero."},{"decisionKind":"decision-kind/departure","statement":"The refusal names the key and the label the caller handed in."}]}
+{"definition":"a Lua table key read back as the number the key was written from"}
+{"id":"01a060b6-99a2-762f-9fd9-585495c025f4"}
+{"slug":"require-numeric-key"}
+{"type":"page-type/module"}

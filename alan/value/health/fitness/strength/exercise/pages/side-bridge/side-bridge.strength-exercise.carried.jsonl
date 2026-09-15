@@ -1,0 +1,27 @@
+{"equipment":"strength-exercise-implement/body-only"}
+{"exerciseCategory":"strength"}
+{"exerciseExternalId":"Side_Bridge"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Side_Bridge"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"static"}
+{"gripDemand":"none"}
+{"id":"019ebc78-61f1-7569-92a5-f0695297fd32"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Bridge/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Bridge/0.jpg"}
+{"implementCount":1}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"isolation-other"}
+{"muscleFocus":"core"}
+{"primaryMuscles":["abdominals"]}
+{"scoringMode":"reps"}
+{"secondaryMuscles":["shoulders"]}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"side-bridge"}
+{"title":"Side Bridge"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

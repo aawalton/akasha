@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The stamp and the next due date land in one commit."},{"decisionKind":"decision-kind/departure","statement":"Taking a completion back clears the key that said the task was done."}]}
+{"definition":"Marks one task done in the local store, then sends every key that marking touches as one patch."}
+{"id":"01a07973-368c-72b7-ae79-826c332e348c"}
+{"slug":"use-complete-page-optimistic"}
+{"type":"page-type/module"}

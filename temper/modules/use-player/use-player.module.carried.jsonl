@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A player row is keyed by the user id its title has."},{"decisionKind":"decision-kind/departure","statement":"A player with no row yet is written by upsert rather than patch."},{"decisionKind":"decision-kind/absence","statement":"Profile metadata a player never set has no key."}]}
+{"definition":"the signed-in player's row, read and written"}
+{"id":"01a06354-4b4b-79cd-a3ce-5867c52ff199"}
+{"slug":"use-player"}
+{"type":"page-type/module"}

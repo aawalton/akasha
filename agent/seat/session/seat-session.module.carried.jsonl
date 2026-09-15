@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat's session is read off its page rather than beside the page."},{"decisionKind":"decision-kind/departure","statement":"A seat whose page has gone is read out of the history that seat was committed into."},{"decisionKind":"decision-kind/departure","statement":"A value shaped as anything but a uuid is no session."},{"decisionKind":"decision-kind/departure","statement":"A session cannot be observed again."},{"decisionKind":"decision-kind/departure","statement":"A session is committed with the page."},{"decisionKind":"decision-kind/departure","statement":"Keeping a session does nothing."}]}
+{"definition":"the session a seat is bound to and the transcript that session writes"}
+{"id":"01a06949-b281-709f-96f4-45790933cf1e"}
+{"parts":["module/seat-session-resolve","module/seat-transcript-path","module/seat-transcript-rotation"]}
+{"slug":"seat-session"}
+{"type":"page-type/module"}

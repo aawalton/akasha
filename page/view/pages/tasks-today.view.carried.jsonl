@@ -1,0 +1,15 @@
+{"groupPageSize":6}
+{"hiddenPropertiesOrder":["to-do-category","to-do-sort-order"]}
+{"id":"01a06577-2615-700c-86d0-3503613a322f"}
+{"itemPageSize":12}
+{"layout":"cards"}
+{"narrows":[{"key":"to-do-due-date","comparison":"before","values":["eso-day-next"]}]}
+{"nav":"nav/tasks"}
+{"pageSize":40}
+{"pageType":"page-type/to-do"}
+{"slug":"tasks-today"}
+{"title":"Today"}
+{"type":"page-type/view"}
+{"viewPlace":0}
+{"viewSorts":[{"key":"to-do-priority","descending":false},{"key":"title","descending":false}]}
+{"visibleProperties":["to-do-priority","to-do-due-date","due-time","to-do-value","link","difficulty","to-do-recurrence"]}

@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only the names the code here reaches are declared."},{"decisionKind":"decision-kind/stopgap","statement":"This page restates declarations the game keeps outside akasha."}]}
+{"definition":"the Lua and game names this addon reaches without importing them"}
+{"id":"01a06066-8404-79a4-bfb3-28f543c2cd7a"}
+{"slug":"slash-commander-declarations"}
+{"type":"page-type/type-declaration"}

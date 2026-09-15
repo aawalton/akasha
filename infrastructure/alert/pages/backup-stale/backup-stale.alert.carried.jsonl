@@ -1,0 +1,8 @@
+{"definition":"no backup has completed for longer than is allowed"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62f8-76a9-9ddd-9e1212a02a26"}
+{"runbook":"txt"}
+{"slug":"backup-stale"}
+{"summary":"Backup CronJob {{ $labels.cronjob }} has not succeeded within 1.5x its own schedule"}
+{"title":"Backup stale"}
+{"type":"page-type/alert"}

@@ -1,0 +1,8 @@
+{"default":"16"}
+{"id":"01a09484-3090-7ef6-a37d-c62677bf87df"}
+{"placeholder":"n"}
+{"said":"--frames"}
+{"slug":"frames"}
+{"takes":"how many frames are sampled out of the ones there are"}
+{"type":"page-type/argument"}
+{"value":"whole-number"}

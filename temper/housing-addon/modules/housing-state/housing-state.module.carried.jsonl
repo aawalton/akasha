@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every other module reaches this holder rather than importing a sibling module."},{"decisionKind":"decision-kind/departure","statement":"Reading saved variables before the add-on opens the saved variables raises an error."}]}
+{"definition":"the one holder with the add-on's settings, running state and saved variables"}
+{"id":"01a06113-b7d2-735f-8277-3ecbda9af951"}
+{"slug":"housing-state"}
+{"type":"page-type/module"}

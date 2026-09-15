@@ -1,0 +1,8 @@
+{"definition":"the folder an image is built in"}
+{"id":"01a08193-87a3-7f04-9149-3c34246de4f2"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"folder"}
+{"slug":"image-folder"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

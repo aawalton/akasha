@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A block is found by the key written in brackets and quotes."},{"decisionKind":"decision-kind/departure","statement":"A block runs from its key to the brace closing the block."},{"decisionKind":"decision-kind/departure","statement":"Braces are counted so a nested block does not end the outer block."},{"decisionKind":"decision-kind/departure","statement":"A block already there is replaced in place rather than moved."},{"decisionKind":"decision-kind/departure","statement":"A key absent is inserted before the first sibling key found."},{"decisionKind":"decision-kind/departure","statement":"Siblings are tried in the order the caller named the siblings."},{"decisionKind":"decision-kind/departure","statement":"Content no anchor is found in is handed back unchanged."},{"decisionKind":"decision-kind/departure","statement":"The indent is taken from the key's own line where the key is there."},{"decisionKind":"decision-kind/departure","statement":"The indent falls back to the line of the first sibling found."},{"decisionKind":"decision-kind/departure","statement":"The indent falls back to twelve spaces where no line is found."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads or writes a file."}]}
+{"definition":"how one keyed block is replaced inside a saved-variables file the game wrote"}
+{"id":"01a06367-c4f5-7b19-af43-529bb67df9da"}
+{"slug":"watcher-settings-lua-block"}
+{"test":"ts"}
+{"type":"page-type/module"}

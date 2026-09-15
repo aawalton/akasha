@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rule is matched against an email message."},{"decisionKind":"decision-kind/departure","statement":"One person's rules are a set of their own."},{"decisionKind":"decision-kind/departure","statement":"A rule's kind is the folder the rule is in rather than a key on the rule."}]}
+{"definition":"what to do with some of a person's mail"}
+{"extends":["page-type/page"]}
+{"id":"01a06828-59d3-7486-8463-b59a1768c717"}
+{"parts":["page-type/email-rule-agent","page-type/email-rule-code","record-property/email-rule-matches","select-property/email-rule-match-comparison","select-property/email-rule-match-field","text-property/email-rule-match-values"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"record-property/email-rule-matches","required":true,"many":true,"maxCount":10}]}
+{"schema":"jsonl"}
+{"slug":"email-rule"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

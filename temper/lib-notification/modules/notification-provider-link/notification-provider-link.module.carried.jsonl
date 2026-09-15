@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One link table has the notifications both panels read."},{"decisionKind":"decision-kind/departure","statement":"The keyboard provider is made only where the keyboard panel is loaded."},{"decisionKind":"decision-kind/departure","statement":"The gamepad provider is always made."},{"decisionKind":"decision-kind/departure","statement":"Asking for an update pushes both providers."}]}
+{"definition":"the table a caller puts notifications into and the providers reading that table"}
+{"id":"01a0605a-0515-7dbe-bba3-edd17cf7cb35"}
+{"slug":"notification-provider-link"}
+{"type":"page-type/module"}

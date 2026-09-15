@@ -1,0 +1,19 @@
+{"baseName":"Wellspring of the Abyss"}
+{"description":"\"Apocryphal knowledge bubbles up from the depths of your psyche, increasing your Health, Magicka, and Stamina Recovery by 81 for each Soldier of Apocrypha ability slotted.\\n\\nCurrent bonus: 0.\""}
+{"effects":"jsonl"}
+{"esoSkillId":185036}
+{"icon":"/esoui/art/icons/passive_arcanist_07.dds"}
+{"id":"019e6245-a769-7a21-a053-8299fd9c6c2b"}
+{"isMorph":false}
+{"key":"wellspring-of-the-abyss"}
+{"learnedLevel":27}
+{"lineRankNeeded":27}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"arcanist-soldier-of-apocrypha"}
+{"skillType":"passive"}
+{"slug":"wellspring-of-the-abyss"}
+{"status":"supported"}
+{"subcategoryId":"arcanist-soldier-of-apocrypha"}
+{"title":"Wellspring of the Abyss"}
+{"type":"page-type/temper-skill"}

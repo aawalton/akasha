@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/destroy"}
+{"active":true}
+{"categoryId":"all"}
+{"conditions":"jsonl"}
+{"description":"Destroys normal (white) quality items whose guild store value is at or below zero, which an unknown guild store value satisfies. Merchant value is not consulted. Place at the very bottom — only items not caught by any higher-priority rule are destroyed."}
+{"displayOrder":76}
+{"fromTemplate":"temper-rule-template/worthless-destroy"}
+{"goal":"temper-rule-goal/destroy"}
+{"id":"01a0728b-8ec3-7fdb-ad57-ed1a0510afb2"}
+{"locked":true}
+{"slug":"rule-worthless-destroy"}
+{"title":"Destroy worthless items"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-05-04T16:04:31.132Z"}

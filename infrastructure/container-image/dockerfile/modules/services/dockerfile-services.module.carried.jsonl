@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An image's extensions file is named from the root rather than from its folder."}]}
+{"definition":"which services get a Dockerfile, where each one lives and what type it builds as"}
+{"id":"01a06865-abff-7001-8a02-c6bde79c5252"}
+{"slug":"dockerfile-services"}
+{"test":"ts"}
+{"type":"page-type/module"}

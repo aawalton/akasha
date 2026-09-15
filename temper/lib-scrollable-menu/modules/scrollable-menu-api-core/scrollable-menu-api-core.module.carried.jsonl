@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The supplied container must already have a ZO_ComboBox instance or the call errors."},{"decisionKind":"decision-kind/departure","statement":"Entry validation failures are raised as errors rather than returned as a result."},{"decisionKind":"decision-kind/departure","statement":"Persistent-menu state is a plain field on the library object."},{"decisionKind":"decision-kind/constraint","statement":"A divider entry has its callback discarded."}]}
+{"definition":"the globals that add a scrollable dropdown to a combobox and add one menu entry"}
+{"id":"01a06275-c442-78e9-91db-fd3e3a781bd5"}
+{"slug":"scrollable-menu-api-core"}
+{"type":"page-type/module"}

@@ -1,0 +1,12 @@
+{"abilityId":214685}
+{"companionId":"tanlorin"}
+{"description":"Decreases damage taken by 3% and increases damage done by 3%."}
+{"icon":"/esoui/art/icons/ability_companion_tanlorin_passive.dds"}
+{"id":"019e6484-38a9-7fb5-9cff-d790373b306c"}
+{"key":"tanlorin-spirited"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-tanlorin"}
+{"skillType":"passive"}
+{"slug":"tanlorin-tanlorin-spirited"}
+{"title":"Spirited"}
+{"type":"page-type/temper-companion-skill"}

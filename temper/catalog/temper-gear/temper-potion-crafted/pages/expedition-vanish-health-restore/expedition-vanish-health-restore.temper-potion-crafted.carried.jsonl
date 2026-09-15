@@ -1,0 +1,11 @@
+{"description":"Grants Speed, Invisible, Lingering Health."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_010_type_005.dds"}
+{"id":"019e21f6-406e-7dd6-a6ca-a6252a9bbcfe"}
+{"key":"expedition-vanish-health-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Namira's Rot","Powdered Mother of Pearl","Spider Egg"]},{"names":["Namira's Rot","Scrib Jelly","Spider Egg"]}]}
+{"seconds":47}
+{"slug":"expedition-vanish-health-restore"}
+{"title":"Essence of Speed"}
+{"type":"page-type/temper-potion-crafted"}

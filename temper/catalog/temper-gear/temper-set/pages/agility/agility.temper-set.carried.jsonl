@@ -1,0 +1,10 @@
+{"bonuses":"jsonl"}
+{"esoSetId":206}
+{"icons":"jsonl"}
+{"id":"019e66ec-75ff-77ee-94a0-d4771dbf0c16"}
+{"key":"agility"}
+{"slug":"agility"}
+{"subcategoryId":"pvp"}
+{"title":"Agility"}
+{"type":"page-type/temper-set"}
+{"valid":["weapon:*","jewelry:*"]}

@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here writes to Drive."}]}
+{"definition":"reading a file out of Alan's Google Drive"}
+{"id":"01a05bec-fc09-7a61-8e09-909bc24a66c2"}
+{"parts":["module/drive-auth","module/drive-client","module/drive-credentials","module/drive-file-schema","module/drive-files"]}
+{"slug":"google-drive"}
+{"type":"page-type/domain"}

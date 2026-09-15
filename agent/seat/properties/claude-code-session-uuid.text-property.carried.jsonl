@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The session the seat answered in before is not kept."}]}
+{"definition":"the session an agent in a seat is answering in"}
+{"id":"01a053e4-cf4a-7e0c-a936-1a0a62a7b7e5"}
+{"maxLength":36}
+{"nameFormat":"name-format/lower-uuid"}
+{"propertySlug":"claude-code-session-uuid"}
+{"slug":"claude-code-session-uuid"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

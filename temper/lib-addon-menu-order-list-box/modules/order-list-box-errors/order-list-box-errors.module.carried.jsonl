@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A complaint names the entry index the caller got wrong."},{"decisionKind":"decision-kind/departure","statement":"A complaint reaches the chat window rather than halting the panel."}]}
+{"definition":"the complaints made about entries a caller shaped wrongly"}
+{"id":"01a06207-bdf4-7de2-8e7c-b6bc01888758"}
+{"slug":"order-list-box-errors"}
+{"type":"page-type/module"}

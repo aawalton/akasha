@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value is written as the mail has that value rather than as a title."}]}
+{"definition":"what a clause has to weigh a piece of mail against"}
+{"id":"01a06860-549f-7515-8899-efaf83c51fbe"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"values"}
+{"slug":"email-rule-match-values"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

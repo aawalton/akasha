@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/code-root"},{"argument":"argument/addon-name","required":true,"saidAs":"word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One addon is reached by more than one name."},{"decisionKind":"decision-kind/departure","statement":"A name reaching no addon is refused by name."},{"decisionKind":"decision-kind/departure","statement":"The resolver's answer is checked against the roster before that answer is given."},{"decisionKind":"decision-kind/departure","statement":"A call with no name to resolve is refused."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the game folder."}]}
+{"definition":"the command answering which addon a name reaches"}
+{"id":"01a0603c-c1cb-701c-8c07-d388419d9fed"}
+{"name":"resolve"}
+{"slug":"temper-addon-resolve"}
+{"test":"ts"}
+{"type":"page-type/command"}

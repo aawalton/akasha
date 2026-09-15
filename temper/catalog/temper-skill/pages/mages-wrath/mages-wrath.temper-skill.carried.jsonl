@@ -1,0 +1,17 @@
+{"baseName":"Mages' Fury"}
+{"description":"\"Call down lightning to strike an enemy, dealing 871 Shock Damage.\\n\\nIf the enemy falls to or below 20% Health within 2 seconds of being struck, an explosion deals an additional 3195 Shock Damage to them and all nearby enemies.\""}
+{"esoSkillId":30331}
+{"icon":"/esoui/art/icons/ability_sorcerer_mage_wraith.dds"}
+{"id":"019e6245-a6c4-7105-bb25-54086c8316b8"}
+{"isMorph":true}
+{"key":"mages-wrath"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"sorcerer-storm-calling"}
+{"skillType":"active"}
+{"slug":"mages-wrath"}
+{"subcategoryId":"sorcerer-storm-calling"}
+{"title":"Mages' Wrath"}
+{"type":"page-type/temper-skill"}

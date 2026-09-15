@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/x","required":true},{"argument":"argument/y","required":true},{"argument":"argument/to-x","required":true},{"argument":"argument/to-y","required":true},{"argument":"argument/hold-ms"},{"argument":"argument/drag-steps"},{"argument":"argument/step-ms"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A gesture names where the finger goes down and where that finger ends."},{"decisionKind":"decision-kind/departure","statement":"A hold comes before a drag."},{"decisionKind":"decision-kind/departure","statement":"A drag is made of moves rather than of one jump."},{"decisionKind":"decision-kind/departure","statement":"A drag ending where that drag began is a gesture rather than nothing."},{"decisionKind":"decision-kind/absence","statement":"Nothing here opens a session."},{"decisionKind":"decision-kind/departure","statement":"A refusal names the context switch attaching to the webview already made."},{"decisionKind":"decision-kind/departure","statement":"A press is named as sent before that press goes out."},{"decisionKind":"decision-kind/departure","statement":"A run that threw on the send names that press in its refusal."},{"decisionKind":"decision-kind/departure","statement":"The session and the pressing are handed in."}]}
+{"definition":"the command holding a finger down on the simulator and dragging it somewhere"}
+{"id":"01a0685d-ceae-7008-b721-3b37d87dca97"}
+{"name":"long-press-drag"}
+{"slug":"mobile-sim-long-press-drag"}
+{"test":"ts"}
+{"type":"page-type/command"}

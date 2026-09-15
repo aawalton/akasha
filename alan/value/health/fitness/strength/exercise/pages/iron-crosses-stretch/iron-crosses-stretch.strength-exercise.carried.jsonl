@@ -1,0 +1,27 @@
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Iron_Crosses_stretch"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Iron_Crosses_stretch"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"intermediate"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"pull"}
+{"gripDemand":"low"}
+{"id":"019ebc77-801f-79f4-8c6f-59e767807dee"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iron_Crosses_stretch/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iron_Crosses_stretch/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"mechanic":"compound"}
+{"movementPattern":"mobility"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["quadriceps"]}
+{"scoringMode":"time"}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"iron-crosses-stretch"}
+{"title":"Iron Crosses (stretch)"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

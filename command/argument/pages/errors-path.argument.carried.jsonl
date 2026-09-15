@@ -1,0 +1,7 @@
+{"id":"01a094d0-c7f9-7d85-aa2f-80cb2cd54852"}
+{"placeholder":"path"}
+{"said":"--errors-path"}
+{"slug":"errors-path"}
+{"takes":"the saved-variables file the errors are read from"}
+{"type":"page-type/argument"}
+{"value":"path"}

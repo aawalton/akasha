@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The person a seat is of and the work a seat answers for are two facts."},{"decisionKind":"decision-kind/departure","statement":"A seat assigned to a person states that person in two places."}]}
+{"definition":"the person a page is of"}
+{"id":"01a05390-11db-7a03-ba9c-c7c30248aee3"}
+{"propertySlug":"person"}
+{"slug":"person"}
+{"targetPageType":"page-type/person"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

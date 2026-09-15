@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"a readout request refused unless its device secret and its access both hold"}
+{"id":"01a0655e-d39a-743e-a192-9fef67057d38"}
+{"slug":"readout-guarding"}
+{"type":"page-type/module"}

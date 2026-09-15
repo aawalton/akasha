@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/quest-trace-path"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The trace is read from the addon's saved variables."},{"decisionKind":"decision-kind/departure","statement":"A call naming no path reads the quests addon's capture in the game's live saved variables."},{"decisionKind":"decision-kind/departure","statement":"A file with no trace refuses the call."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the game."}]}
+{"definition":"the command reading the auto-quest debug trace the quests addon captured"}
+{"id":"01a0603c-c1cb-7f65-8427-70fc0c00d3cf"}
+{"name":"auto-quest-trace"}
+{"slug":"temper-auto-quest-trace"}
+{"test":"ts"}
+{"type":"page-type/command"}

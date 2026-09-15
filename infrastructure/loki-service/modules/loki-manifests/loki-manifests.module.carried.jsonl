@@ -1,0 +1,7 @@
+{"allowsTmpPaths":true}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The pod template carries the hash of the loki-s3-creds secret."},{"decisionKind":"decision-kind/departure","statement":"The keys hashed from the loki-s3-creds secret are access_key and secret_key."},{"decisionKind":"decision-kind/departure","statement":"The pod template carries the hash of the loki-config configmap."}]}
+{"definition":"the namespace, configuration, deployment and service manifests Loki runs as"}
+{"id":"01a06816-68b1-7345-a4a7-66ab2bbf829e"}
+{"slug":"loki-manifests"}
+{"type":"page-type/module"}

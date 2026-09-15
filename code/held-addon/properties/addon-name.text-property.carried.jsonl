@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The name is spelled as the addon's own manifest spells it."},{"decisionKind":"decision-kind/departure","statement":"The addon roster answers with this name for the addon."}]}
+{"definition":"the name the game loads an addon under"}
+{"id":"01a0819c-d367-7e7f-bd2f-562afd223044"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"addon-name"}
+{"slug":"addon-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,8 @@
+{"alchemyEffects":["increase-armor","restore-health","maim","restore-stamina"]}
+{"icon":"resources/mountain_flower_r1.png"}
+{"id":"019e21f7-3b1e-73f9-ad0a-84d5d456442b"}
+{"itemId":30163}
+{"key":"mountain-flower"}
+{"slug":"mountain-flower"}
+{"title":"Mountain Flower"}
+{"type":"page-type/temper-reagent"}

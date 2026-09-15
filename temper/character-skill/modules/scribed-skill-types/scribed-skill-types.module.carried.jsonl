@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A scribed skill choice names one grimoire and three scripts."}]}
+{"definition":"the four choices that name one scribed skill a character has made"}
+{"id":"01a06187-b3a2-7407-b074-aff0b3d8c06d"}
+{"slug":"scribed-skill-types"}
+{"type":"page-type/module"}

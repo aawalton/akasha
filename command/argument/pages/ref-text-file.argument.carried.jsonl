@@ -1,0 +1,7 @@
+{"id":"01a094dc-696e-727f-8957-95e69fcf72da"}
+{"placeholder":"path"}
+{"said":"--ref-text-file"}
+{"slug":"ref-text-file"}
+{"takes":"the file the reference clip's transcript is read from, or `-` for standard input"}
+{"type":"page-type/argument"}
+{"value":"path"}

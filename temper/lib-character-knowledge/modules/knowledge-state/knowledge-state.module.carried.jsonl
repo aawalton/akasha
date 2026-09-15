@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The library hangs its work off the two tables this module has."}]}
+{"definition":"the two tables the library keeps everything else on"}
+{"id":"01a06226-4903-78dc-9a7c-de38884ab4ee"}
+{"slug":"knowledge-state"}
+{"type":"page-type/module"}

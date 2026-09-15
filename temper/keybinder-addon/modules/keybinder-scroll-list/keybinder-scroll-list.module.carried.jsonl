@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A row built before the hook was installed is given its checkbox on setup."},{"decisionKind":"decision-kind/departure","statement":"The checkbox reads indeterminate where the saved keys differ from the bound keys."},{"decisionKind":"decision-kind/departure","statement":"Clearing the checkbox drops the action from the account-wide set."}]}
+{"definition":"the account-wide checkbox added to every row of the key-bind list"}
+{"id":"01a06381-67c1-733c-93c4-841be62e7306"}
+{"slug":"keybinder-scroll-list"}
+{"type":"page-type/module"}

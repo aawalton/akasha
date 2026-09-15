@@ -1,0 +1,27 @@
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Pelvic_Tilt_Into_Bridge"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Pelvic_Tilt_Into_Bridge"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"intermediate"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"static"}
+{"gripDemand":"low"}
+{"id":"019ebc77-bfb9-760a-a9b1-3a400de9eef0"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pelvic_Tilt_Into_Bridge/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pelvic_Tilt_Into_Bridge/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"mechanic":"compound"}
+{"movementPattern":"mobility"}
+{"muscleFocus":"pull"}
+{"primaryMuscles":["lower-back"]}
+{"scoringMode":"time"}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"pelvic-tilt-into-bridge"}
+{"title":"Pelvic Tilt Into Bridge"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

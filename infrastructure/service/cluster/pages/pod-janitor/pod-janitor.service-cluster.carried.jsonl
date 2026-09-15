@@ -1,0 +1,10 @@
+{"definition":"the job that removes a failed pod its controller left behind"}
+{"id":"01a06812-2380-7b30-8877-d7c4a1d5411c"}
+{"image":"registry.registry.svc.cluster.local:5000/cluster/ci:latest"}
+{"manifest":["manifest/pod-janitor"]}
+{"namespace":"pod-janitor"}
+{"resourceKind":"CronJob"}
+{"resourceName":"pod-janitor"}
+{"schedule":"0 */6 * * *"}
+{"slug":"pod-janitor"}
+{"type":"page-type/service-cluster"}

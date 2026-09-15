@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the `transmuted` condition alone."},{"decisionKind":"decision-kind/departure","statement":"A category outside `equipment` is offered no Transmuted Status condition."}]}
+{"definition":"the Transmuted Status condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3c00-7289-bd55-ca10e321d94e"}
+{"slug":"transmuted-filter"}
+{"type":"page-type/module"}

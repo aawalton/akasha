@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Puncture"}
+{"description":"\"Thrust your weapon with disciplined precision at an enemy, dealing |cffffff5565|r Physical Damage.\\n\\nAlso inflicts Major Breach on the enemy, reducing their Physical and Spell Resistance by |cffffff5948|r for |cffffff15|r seconds.\""}
+{"esoSkillId":240547}
+{"icon":"/esoui/art/icons/ability_1handed_002.dds"}
+{"id":"019e6f53-a955-7acf-9132-41586df51885"}
+{"isMorph":false}
+{"key":"vengeance-puncture"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-one-hand-and-shield"}
+{"skillType":"active"}
+{"slug":"vengeance-puncture"}
+{"subcategoryId":"vengeance-weapon-one-hand-and-shield"}
+{"title":"Vengeance Puncture"}
+{"type":"page-type/temper-skill"}

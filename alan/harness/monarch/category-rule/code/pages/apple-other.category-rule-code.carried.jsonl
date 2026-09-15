@@ -1,0 +1,5 @@
+{"id":"01a0655b-fccf-7009-ad67-36ad2415b608"}
+{"matches":[{"key":"merchant","comparison":"is","values":["apple"]},{"key":"amount","comparison":"is-not","values":["-106.36"]}]}
+{"slug":"apple-other"}
+{"title":"Apple other"}
+{"type":"page-type/category-rule-code"}

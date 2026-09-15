@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/message","required":true,"saidAs":"flag-or-word"},{"argument":"argument/attachment-id","required":true}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An attachment is reached by its own id rather than by where that attachment sits."},{"decisionKind":"decision-kind/departure","statement":"The bytes are answered base64url-encoded with their size beside those bytes."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes the bytes to a file."}]}
+{"definition":"the command fetching one attachment's bytes by id, with its size beside them"}
+{"id":"01a06810-cf11-75ef-84b0-74beeb5d5383"}
+{"name":"show"}
+{"slug":"email-attachment-show"}
+{"test":"ts"}
+{"type":"page-type/command"}

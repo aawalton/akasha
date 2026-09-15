@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A shortfall draws no larger amount than the open storage tier can give."},{"decisionKind":"decision-kind/departure","statement":"A surplus deposits no more than the open storage tier's cap leaves room for."},{"decisionKind":"decision-kind/departure","statement":"A plan moving zero items names neither withdrawal nor deposit."}]}
+{"definition":"whether a character withdraws or deposits to reach the count it is meant to carry"}
+{"id":"01a060d9-44cd-7adb-a1ad-5ce340c6cd3d"}
+{"slug":"stock-reconcile-plan"}
+{"type":"page-type/module"}

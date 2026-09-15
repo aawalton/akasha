@@ -1,0 +1,8 @@
+{"definition":"the grade a piece is made at"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fd1-d43f-7460-806b-41a2697dcbed"}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"number-property/display-order","required":true,"many":false},{"pageProperty":"boolean-property/available","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-quality"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

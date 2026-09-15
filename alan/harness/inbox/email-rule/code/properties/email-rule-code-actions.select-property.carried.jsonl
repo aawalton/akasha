@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An action sits beside the filing rather than in place of that filing."}]}
+{"definition":"what is done with mail a rule matches, beyond filing it and forwarding it"}
+{"id":"01a06860-54a0-7cf6-aa4f-d2130e8c5b06"}
+{"propertySlug":"actions"}
+{"slug":"email-rule-code-actions"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["notify","unsubscribe"]}

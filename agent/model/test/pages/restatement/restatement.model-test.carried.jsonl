@@ -1,0 +1,9 @@
+{"cases":"jsonl"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A departure obvious from its page is a departure the reader would have guessed."},{"decisionKind":"decision-kind/departure","statement":"Only a departure is judged."},{"decisionKind":"decision-kind/departure","statement":"A gap reads as obvious when the gap is right."},{"decisionKind":"decision-kind/departure","statement":"An absence reads as obvious when the absence is right."},{"decisionKind":"decision-kind/departure","statement":"A page with no definition is judged by nothing here."},{"decisionKind":"decision-kind/constraint","statement":"This test reads the words rather than the meaning a reader would build from the words."}]}
+{"definition":"whether a departure says again what its page's name and definition already say"}
+{"id":"01a05a0b-3a49-7019-a1b3-203a1b2c9625"}
+{"modelFamily":"model-family/haiku"}
+{"prompt":"You are looking at a page named {page} with a definition of \"{definition}\".\n\nIs the following statement obvious from the name and definition? YES/NO\n\n{statement}"}
+{"slug":"restatement"}
+{"type":"page-type/model-test"}

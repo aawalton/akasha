@@ -1,0 +1,19 @@
+{"baseName":"Robustness"}
+{"description":"\"Increases your Health, Magicka, and Stamina Recovery by 90.\""}
+{"effects":"jsonl"}
+{"esoSkillId":70390}
+{"icon":"/esoui/art/icons/ability_sorcerer_018.dds"}
+{"id":"019e624a-12db-7ea4-a62e-b0ccb2882414"}
+{"isMorph":false}
+{"key":"robustness"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"racial-khajiit-skills"}
+{"skillType":"passive"}
+{"slug":"robustness"}
+{"status":"supported"}
+{"subcategoryId":"racial-khajiit-skills"}
+{"title":"Robustness"}
+{"type":"page-type/temper-skill"}

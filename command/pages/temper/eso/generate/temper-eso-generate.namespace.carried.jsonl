@@ -1,0 +1,6 @@
+{"definition":"what is written out from the game's own files"}
+{"id":"01a07c17-20a8-7ecd-bb3f-f70a9f102a4d"}
+{"name":"generate"}
+{"parts":["command/temper-eso-generate-base-game-global","command/temper-eso-generate-chatter-name","command/temper-eso-generate-colon-method","command/temper-eso-generate-declaration","command/temper-eso-generate-hud-scene-catalog"]}
+{"slug":"temper-eso-generate"}
+{"type":"page-type/namespace"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A fable model name opens with `claude-fable-`."},{"decisionKind":"decision-kind/departure","statement":"A request body that is no JSON names no fable model."},{"decisionKind":"decision-kind/departure","statement":"A missing request body names no fable model."},{"decisionKind":"decision-kind/departure","statement":"The model name `claude-fable-` with nothing after names a fable model."},{"decisionKind":"decision-kind/departure","statement":"The prefix match is case sensitive."},{"decisionKind":"decision-kind/departure","statement":"A non-string `model` value names no fable model."},{"decisionKind":"decision-kind/departure","statement":"A body key beside `model` never refuses the parse."},{"decisionKind":"decision-kind/absence","statement":"Nothing here rewrites a request body."},{"decisionKind":"decision-kind/absence","statement":"Nothing here throws."}]}
+{"definition":"whether a request body names a fable model"}
+{"id":"01a0628b-a005-7a3c-a6f6-8e20462f3bb8"}
+{"slug":"fable-fallback"}
+{"test":"ts"}
+{"type":"page-type/module"}

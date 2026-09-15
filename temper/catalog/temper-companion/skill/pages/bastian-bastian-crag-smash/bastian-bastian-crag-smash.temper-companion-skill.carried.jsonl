@@ -1,0 +1,13 @@
+{"abilityId":155186}
+{"companionId":"bastian"}
+{"description":"Your Companion hurls a chunk of rock at an enemy, dealing $1 Physical Damage."}
+{"icon":"/esoui/art/icons/ability_companion_dragonknight_013.dds"}
+{"id":"019e6484-384a-74c6-8e49-515e726ca209"}
+{"key":"bastian-crag-smash"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-bastian-ardent-warrior"}
+{"skillType":"active"}
+{"slug":"bastian-bastian-crag-smash"}
+{"title":"Crag Smash"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

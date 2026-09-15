@@ -1,0 +1,19 @@
+{"baseName":"Elemental Explosion"}
+{"description":"Afflicts enemies with 2004 Healing Absorption for 3 seconds."}
+{"esoSkillId":222313}
+{"focusScriptId":"trauma"}
+{"grimoireId":"elemental-explosion"}
+{"icon":"/esoui/art/icons/ability_grimoire_staffdestro.dds"}
+{"id":"019e6471-15ac-73f1-aff3-6dae761ad6e7"}
+{"isMorph":false}
+{"key":"scribed-elemental-explosion-trauma"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"scribed-elemental-explosion-trauma"}
+{"subcategoryId":"scribed"}
+{"title":"Traumatic Explosion"}
+{"type":"page-type/temper-scribed-skill"}

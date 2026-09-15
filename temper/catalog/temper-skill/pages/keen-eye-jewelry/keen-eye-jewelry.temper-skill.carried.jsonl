@@ -1,0 +1,17 @@
+{"baseName":"Keen Eye: Jewelry"}
+{"description":"\"Jewelry Seams in the world will be easier to see when you are 40 meters or closer.\""}
+{"esoSkillId":103639}
+{"icon":"/esoui/art/icons/ability_smith_002.dds"}
+{"id":"019e6224-cc9a-786c-bc2f-1610906e3645"}
+{"isMorph":false}
+{"key":"keen-eye-jewelry"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-jewelry-crafting"}
+{"skillType":"passive"}
+{"slug":"keen-eye-jewelry"}
+{"subcategoryId":"craft-jewelry-crafting"}
+{"title":"Keen Eye: Jewelry"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,12 @@
+{"containerPort":3000}
+{"definition":"the server that serves the database's tables as an HTTP interface"}
+{"id":"01a06812-2380-7ab2-8db6-0870f27286e6"}
+{"image":"postgrest/postgrest:v12.2.3"}
+{"manifest":["manifest/postgrest"]}
+{"namespace":"postgrest"}
+{"replicas":2}
+{"resourceKind":"Deployment"}
+{"resourceName":"postgrest"}
+{"secrets":["secret/postgrest-secrets-database-url","secret/postgrest-secrets-pgrst-jwt-secret"]}
+{"slug":"postgrest"}
+{"type":"page-type/service-cluster"}

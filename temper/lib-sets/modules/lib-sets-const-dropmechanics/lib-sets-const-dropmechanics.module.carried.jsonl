@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each drop mechanic name is declared as a game global rather than a member of a table."},{"decisionKind":"decision-kind/departure","statement":"The library declares zone ids the game does not have."}]}
+{"definition":"the forty ways a gear set can drop, each given a number"}
+{"id":"01a061d6-3e22-7cb9-b1f5-2605e32ae7a6"}
+{"slug":"lib-sets-const-dropmechanics"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"No shared guard could name the type each guard here narrows to."}]}
+{"definition":"the inventory window behaviour the interface tweaks change"}
+{"id":"01a06115-1aca-79a6-bd65-384d31995db8"}
+{"slug":"fco-inventory"}
+{"type":"page-type/module"}

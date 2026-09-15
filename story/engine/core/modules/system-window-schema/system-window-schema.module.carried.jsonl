@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A window stored as a quest offer reads back as a quest added."}]}
+{"definition":"the typed cards the System voice puts on screen"}
+{"id":"01a05b71-e544-78bb-9313-d10464beea25"}
+{"slug":"system-window-schema"}
+{"type":"page-type/module"}

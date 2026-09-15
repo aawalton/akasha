@@ -1,0 +1,7 @@
+{"actions":["unsubscribe"]}
+{"filing":"archive"}
+{"id":"01a06860-54a2-726f-a1c8-605e69131e95"}
+{"matches":[{"field":"from","comparison":"is","values":["donotreply@tsa.dhs.gov"]},{"field":"subject","comparison":"contains","values":["survey","feedback","by clear"]}]}
+{"slug":"tsa-precheck-clear-promo"}
+{"title":"Tsa precheck clear promo"}
+{"type":"page-type/email-rule-code"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only a call made as Alan himself can answer an invitation."}]}
+{"definition":"the client a calendar call is made through"}
+{"id":"01a05c02-c734-78ed-a826-ea774f206b33"}
+{"slug":"calendar-auth"}
+{"type":"page-type/module"}

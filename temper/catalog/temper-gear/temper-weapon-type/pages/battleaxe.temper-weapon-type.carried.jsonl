@@ -1,0 +1,11 @@
+{"enchantmentMultiplier":1}
+{"esoWeaponType":"WEAPONTYPE_TWO_HANDED_AXE"}
+{"id":"019e46b6-4090-7d4c-a86c-10a0650be267"}
+{"isTwoHanded":true}
+{"key":"battleaxe"}
+{"skillLineId":"weapon-two-handed"}
+{"slug":"battleaxe"}
+{"title":"Battleaxe"}
+{"type":"page-type/temper-weapon-type"}
+{"validSlots":["main-hand"]}
+{"weaponPower":1571}

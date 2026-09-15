@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A protected call is made through the secure wrapper rather than directly."},{"decisionKind":"decision-kind/departure","statement":"A call the game keeps private is not made."},{"decisionKind":"decision-kind/departure","statement":"The add-on does nothing where neither way of binding is open to the add-on."}]}
+{"definition":"binding and unbinding a key, through the secure call where the game protects it"}
+{"id":"01a06381-67c1-70be-89d4-23608f21260c"}
+{"slug":"keybinder-binding-fns"}
+{"type":"page-type/module"}

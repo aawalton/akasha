@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The stolen filter reads the stolen flag through the rule-editor flags checker."},{"decisionKind":"decision-kind/absence","statement":"Nothing here narrows the server request."}]}
+{"definition":"whether an item is stolen, narrowed by an include or exclude toggle"}
+{"id":"01a0613a-e0af-7ce5-8230-7715b4ff868d"}
+{"slug":"search-stolen-filter"}
+{"type":"page-type/module"}

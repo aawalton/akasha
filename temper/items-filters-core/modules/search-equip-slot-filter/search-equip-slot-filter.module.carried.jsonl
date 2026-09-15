@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The equip slot filter also adds the selected slot numbers to the server request."},{"decisionKind":"decision-kind/departure","statement":"An item with no equip type fails a non-empty selection."}]}
+{"definition":"the equip slot an item occupies, narrowed by a multiselect of thirteen slot numbers"}
+{"id":"01a0613a-e0a7-7f9d-b9bd-ff1e3517930d"}
+{"slug":"search-equip-slot-filter"}
+{"type":"page-type/module"}

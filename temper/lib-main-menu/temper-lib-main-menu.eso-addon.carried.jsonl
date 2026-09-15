@@ -1,0 +1,8 @@
+{"addonManifest":"json"}
+{"bundleEntry":"module/main-menu-entry"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An addon reaches this library through a global name rather than by importing."},{"decisionKind":"decision-kind/departure","statement":"The bars this library puts up are built in code rather than declared in XML."},{"decisionKind":"decision-kind/constraint","statement":"A console client is handed no library."},{"decisionKind":"decision-kind/constraint","statement":"Nothing here reaches a Date."}]}
+{"definition":"a shared library adding entries to the game's main menu bar"}
+{"id":"01a0605b-c805-73f4-b1b0-5aa7831a19d4"}
+{"parts":["module/main-menu-casts","module/main-menu-entry","module/main-menu-keyboard","module/main-menu-library","module/main-menu-publish","module/main-menu-setup","module/main-menu-shape","module/main-menu-version"]}
+{"slug":"temper-lib-main-menu"}
+{"type":"page-type/eso-addon"}

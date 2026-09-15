@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-authored"}
+{"changeMode":"change-mode/change-mode-append"}
+{"changeTargetSubtype":"change-target-subtype/file-content"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The content is handed in rather than read off a file."},{"decisionKind":"decision-kind/departure","statement":"An argument this change was handed no value for is refused by that key."},{"decisionKind":"decision-kind/departure","statement":"Answering the append is left to the partial this change runs."},{"decisionKind":"decision-kind/departure","statement":"The checks judge the tree the edits leave."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the body the path holds."}]}
+{"definition":"content put at the end of what one path holds, judged by the checks a landing runs"}
+{"id":"01a08c38-a17c-70de-985a-a097e3dced7d"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":1024}
+{"slug":"append-lines"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

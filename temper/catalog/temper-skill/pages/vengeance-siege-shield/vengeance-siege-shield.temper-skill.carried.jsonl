@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Siege Shield"}
+{"description":"\"Create a protective sphere after a 1 second delay that reduces damage taken from siege weapons by |cffffff50|r% to up to 3 of you and nearby allies for |cffffff10|r seconds.\""}
+{"esoSkillId":244688}
+{"icon":"/esoui/art/icons/ability_ava_004.dds"}
+{"id":"019e6f53-a983-7813-92a1-146affb23ac7"}
+{"isMorph":false}
+{"key":"vengeance-siege-shield"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-alliance-war-support"}
+{"skillType":"active"}
+{"slug":"vengeance-siege-shield"}
+{"subcategoryId":"vengeance-alliance-war-support"}
+{"title":"Vengeance Siege Shield"}
+{"type":"page-type/temper-skill"}

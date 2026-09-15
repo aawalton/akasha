@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A media address whose page id is no uuid is refused ahead of any page read."},{"decisionKind":"decision-kind/departure","statement":"That refusal is cheap rather than the check on who may reach the media."},{"decisionKind":"decision-kind/departure","statement":"A media address carries a page id and no page type."},{"decisionKind":"decision-kind/departure","statement":"The id is looked for under the page types whose media config serves media."}]}
+{"definition":"a page with media, resolved from what a media address names"}
+{"id":"01a0655d-daa7-77e5-94c7-6372a1f52830"}
+{"slug":"media-page"}
+{"type":"page-type/module"}

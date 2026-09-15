@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"These ids are the ids upstream BaseData for API 101050 states."}]}
+{"definition":"the pre-scanned item ids upstream ships for furnishing plans"}
+{"id":"01a0622b-dc53-778f-984b-f2eee085d95d"}
+{"slug":"knowledge-base-data-plans"}
+{"type":"page-type/module"}

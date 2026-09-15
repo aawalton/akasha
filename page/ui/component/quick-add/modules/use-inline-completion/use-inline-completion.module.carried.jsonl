@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"Suggests and applies the most frequent candidate completion for the sigil token at the cursor."}
+{"id":"01a05c40-2196-76a5-86e6-fa407ef6bfdd"}
+{"slug":"use-inline-completion"}
+{"type":"page-type/module"}

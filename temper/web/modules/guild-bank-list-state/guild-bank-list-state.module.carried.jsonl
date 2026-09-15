@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"which of loading, empty, error or a list a guild bank listing is showing"}
+{"id":"01a06432-b190-7990-913e-6f2981cb0cb8"}
+{"slug":"guild-bank-list-state"}
+{"test":"ts"}
+{"type":"page-type/module"}

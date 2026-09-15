@@ -1,0 +1,7 @@
+{"definition":"the manifest number the generator last ran for"}
+{"id":"01a05fc4-7a92-7ab8-b98f-ca40f8af5eb1"}
+{"max":null}
+{"propertySlug":"generator-ran-for-manifest-api-version"}
+{"slug":"generator-ran-for-manifest-api-version"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

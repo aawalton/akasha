@@ -1,0 +1,13 @@
+{"collection":"location-collection/starving-student-card"}
+{"dealKey":"ssc:treats-and-drinks:parlor-doughnuts:buy-1-doughnut-get-1-free"}
+{"id":"019f322c-b133-72c1-a56f-8c12a5c6b3a9"}
+{"locations":["location/parlor-doughnuts-utah-county"]}
+{"offerText":"Buy 1 Doughnut, Get 1 FREE!"}
+{"offerType":"free"}
+{"section":"Treats & Drinks"}
+{"slug":"treats-and-drinks-parlor-doughnuts-buy-1-doughnut-get-1-free"}
+{"struckOut":false}
+{"title":"Parlor Doughnuts — Buy 1 Doughnut, Get 1 FREE!"}
+{"type":"page-type/location-deal"}
+{"useLimit":"3"}
+{"usesUsed":0}

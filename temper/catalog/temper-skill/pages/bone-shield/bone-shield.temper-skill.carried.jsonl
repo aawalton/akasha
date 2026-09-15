@@ -1,0 +1,17 @@
+{"baseName":"Bone Shield"}
+{"description":"\"Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to |cffffff7026|r damage for |cffffff6|r seconds. This ability scales off your Max Health.\\n\\nAn ally near you can activate the Bone Wall synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to |cffffff35|r% of their Max Health for |cffffff6|r seconds.\""}
+{"esoSkillId":39369}
+{"icon":"/esoui/art/icons/ability_undaunted_005.dds"}
+{"id":"019e6f53-9f71-7693-8b74-335f863a0683"}
+{"isMorph":false}
+{"key":"bone-shield"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"guild-undaunted"}
+{"skillType":"active"}
+{"slug":"bone-shield"}
+{"subcategoryId":"guild-undaunted"}
+{"title":"Bone Shield"}
+{"type":"page-type/temper-skill"}

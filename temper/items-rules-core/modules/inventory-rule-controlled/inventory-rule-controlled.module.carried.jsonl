@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A controlled rule is known by the shape of its id."},{"decisionKind":"decision-kind/departure","statement":"A controlled rule is rewritten from the automation settings on every build."},{"decisionKind":"decision-kind/departure","statement":"A saved rule set with an older controlled rule is migrated to the current shape."}]}
+{"definition":"the rules the automation settings write for the player rather than the player writing them"}
+{"id":"01a06100-3bee-7018-bc06-5cbc76e051f4"}
+{"slug":"inventory-rule-controlled"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each value a seat states is answered under the key name the old page used."},{"decisionKind":"decision-kind/departure","statement":"A title is answered as the seat's slug."},{"decisionKind":"decision-kind/departure","statement":"A value naming a page is answered as the slug alone, and an assignment whole."},{"decisionKind":"decision-kind/departure","statement":"A value that is empty or missing is left out rather than answered as null."},{"decisionKind":"decision-kind/departure","statement":"The seats are named by the index."},{"decisionKind":"decision-kind/departure","statement":"No page is opened to find the seats."},{"decisionKind":"decision-kind/departure","statement":"A seat's activity is the moment the values observed of the seat were last written."}]}
+{"definition":"a seat's values read from akasha, answered under the key names the old page used"}
+{"id":"01a06949-b281-701f-825a-4790c9603a69"}
+{"slug":"seat-akasha-read"}
+{"type":"page-type/module"}

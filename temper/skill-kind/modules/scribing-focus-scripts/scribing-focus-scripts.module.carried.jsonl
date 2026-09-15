@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This code is written out from the skill pages rather than by hand."},{"decisionKind":"decision-kind/constraint","statement":"A focus script's place in this table is the index a build hash has."},{"decisionKind":"decision-kind/gap","statement":"A focus script moved to another place breaks every build hash saved."}]}
+{"definition":"the primary scribing scripts, each saying what a grimoire does"}
+{"id":"01a060db-b2bb-7166-ba4a-b183afce5394"}
+{"slug":"scribing-focus-scripts"}
+{"type":"page-type/module"}

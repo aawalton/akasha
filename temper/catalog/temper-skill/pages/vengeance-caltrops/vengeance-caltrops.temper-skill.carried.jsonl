@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Caltrops"}
+{"description":"\"Hurl a ball of caltrops that scatter over the target area, dealing |cffffff7056|r Physical Damage to up to 3 enemies inside, and reducing their Movement Speed by |cffffff50|r% for |cffffff4|r seconds.\""}
+{"esoSkillId":244514}
+{"icon":"/esoui/art/icons/ability_ava_001.dds"}
+{"id":"019e6f53-a8ce-7d07-8ef0-b6cd6e589994"}
+{"isMorph":false}
+{"key":"vengeance-caltrops"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"vengeance-caltrops"}
+{"subcategoryId":"vengeance-alliance-war-assault"}
+{"title":"Vengeance Caltrops"}
+{"type":"page-type/temper-skill"}

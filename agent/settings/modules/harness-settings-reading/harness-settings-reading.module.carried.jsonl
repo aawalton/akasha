@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Where the settings page sits is asked of the index rather than spelled."},{"decisionKind":"decision-kind/departure","statement":"The settings body is the file beside that page rather than a second path."},{"decisionKind":"decision-kind/departure","statement":"A settings page nothing is slugged for refuses, and the refusal says what is unknown for want of it."},{"decisionKind":"decision-kind/departure","statement":"The body is narrowed by the shape its reader hands in rather than by one here."}]}
+{"definition":"the settings body beside one agent-settings page, read and narrowed to its shape"}
+{"id":"01a08e0b-50f6-74fe-b9fc-1347ef93435b"}
+{"slug":"harness-settings-reading"}
+{"type":"page-type/module"}

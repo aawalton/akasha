@@ -1,0 +1,10 @@
+{"audit":{"maxCpuSeconds":15}}
+{"check":{"maxCpuSeconds":10}}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The identifiers judged are the properties declaring a `unique`."},{"decisionKind":"decision-kind/departure","statement":"The identifiers judged are read from the schema."},{"decisionKind":"decision-kind/departure","statement":"How far a value must be alone is the unique kind its property declares."},{"decisionKind":"decision-kind/departure","statement":"The kind `page` is across every page and the kind `page-type` is among the pages of one type."},{"decisionKind":"decision-kind/departure","statement":"A page the change has is read from the change."},{"decisionKind":"decision-kind/departure","statement":"The index is read as this change leaves the index."},{"decisionKind":"decision-kind/departure","statement":"The rule is that the index files one page at a key."},{"decisionKind":"decision-kind/departure","statement":"A page of a page type the change itself adds is judged."},{"decisionKind":"decision-kind/departure","statement":"The schema is read as the change leaves the schema."},{"decisionKind":"decision-kind/departure","statement":"Two pages in one change with one value are refused."},{"decisionKind":"decision-kind/absence","statement":"No page outside the change is opened to be judged."},{"decisionKind":"decision-kind/absence","statement":"Working the index out does open the page type and record property pages that index names."}]}
+{"definition":"the check refusing a page with an identifier another page already has"}
+{"id":"01a04f76-7430-7672-ac69-f8976ad2dc93"}
+{"runsOnAudit":true}
+{"runsOnChange":true}
+{"runsOnDeploy":true}
+{"slug":"identifier-names-one-page"}
+{"type":"page-type/check-code"}

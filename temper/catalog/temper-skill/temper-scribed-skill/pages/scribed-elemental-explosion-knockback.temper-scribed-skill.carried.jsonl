@@ -1,0 +1,19 @@
+{"baseName":"Elemental Explosion"}
+{"description":"Knocks enemies back 10 meters."}
+{"esoSkillId":217228}
+{"focusScriptId":"knockback"}
+{"grimoireId":"elemental-explosion"}
+{"icon":"/esoui/art/icons/ability_grimoire_staffdestro.dds"}
+{"id":"019e6471-15a6-790d-b568-6f6a40c84b90"}
+{"isMorph":false}
+{"key":"scribed-elemental-explosion-knockback"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"scribed-elemental-explosion-knockback"}
+{"subcategoryId":"scribed"}
+{"title":"Repelling Explosion"}
+{"type":"page-type/temper-scribed-skill"}

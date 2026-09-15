@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A process names the agent that process acts under as well as the agent that process runs as."},{"decisionKind":"decision-kind/departure","statement":"A process naming no acting agent carries no acting agent rather than carrying its own."}]}
+{"definition":"every process under /proc with an AGENT_ID, with its command line and its parent"}
+{"id":"01a0695a-d2ea-7a46-91a8-5f8779a67282"}
+{"slug":"proc-scan"}
+{"type":"page-type/module"}

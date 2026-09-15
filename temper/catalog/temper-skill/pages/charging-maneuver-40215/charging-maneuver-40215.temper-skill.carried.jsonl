@@ -1,0 +1,17 @@
+{"baseName":"Rapid Maneuver"}
+{"description":"\"Mobilize your forces, granting Major and Minor Expedition to you and your group, increasing your Movement Speed by |cffffff30|r% and |cffffff15|r% respectively, for |cffffff8|r seconds.\""}
+{"esoSkillId":40215}
+{"icon":"/esoui/art/icons/ability_ava_002_b.dds"}
+{"id":"019e6f53-9fdc-7824-b2b8-a31c73cc505f"}
+{"isMorph":true}
+{"key":"charging-maneuver-40215"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":2}
+{"rank":5}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"charging-maneuver-40215"}
+{"subcategoryId":"alliance-war-assault"}
+{"title":"Charging Maneuver"}
+{"type":"page-type/temper-skill"}

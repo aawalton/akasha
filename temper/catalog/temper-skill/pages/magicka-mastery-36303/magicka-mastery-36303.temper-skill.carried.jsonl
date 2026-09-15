@@ -1,0 +1,17 @@
+{"baseName":"Magicka Mastery"}
+{"description":"\"Reduces the Magicka cost of your abilities by |cffffff2|r%.\""}
+{"esoSkillId":36303}
+{"icon":"/esoui/art/icons/ability_armor_005.dds"}
+{"id":"019e6f53-a444-7efe-bc02-28b520ad2fef"}
+{"isMorph":false}
+{"key":"magicka-mastery-36303"}
+{"learnedLevel":1}
+{"lineRankNeeded":25}
+{"morphIndex":0}
+{"rank":25}
+{"skillLineId":"racial-breton-skills"}
+{"skillType":"passive"}
+{"slug":"magicka-mastery-36303"}
+{"subcategoryId":"racial-breton-skills"}
+{"title":"Magicka Mastery"}
+{"type":"page-type/temper-skill"}

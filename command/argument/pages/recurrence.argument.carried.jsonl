@@ -1,0 +1,7 @@
+{"id":"01a094d8-3406-7617-ab40-c751388da1bd"}
+{"placeholder":"rrule"}
+{"said":"--recurrence"}
+{"slug":"recurrence"}
+{"takes":"one RRULE body, said once over for each rule it carries"}
+{"type":"page-type/argument"}
+{"value":"text"}

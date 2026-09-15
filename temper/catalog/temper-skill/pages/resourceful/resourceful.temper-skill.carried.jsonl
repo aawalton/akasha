@@ -1,0 +1,19 @@
+{"baseName":"Resourceful"}
+{"description":"\"Increases your Max Magicka and Max Stamina by 1000.\\n\\nWhen you drink a potion, you restore 3125 Health, Magicka, and Stamina.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45247}
+{"icon":"/esoui/art/icons/ability_templar_009.dds"}
+{"id":"019e624a-12d9-79f1-9c01-3fe8bf8d527a"}
+{"isMorph":false}
+{"key":"resourceful"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"racial-argonian-skills"}
+{"skillType":"passive"}
+{"slug":"resourceful"}
+{"status":"partially-supported"}
+{"subcategoryId":"racial-argonian-skills"}
+{"title":"Resourceful"}
+{"type":"page-type/temper-skill"}

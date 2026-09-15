@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-checked"}
+{"changeMode":"change-mode/change-mode-change"}
+{"changeTargetSubtype":"change-target-subtype/file-page"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The retype is left to the mechanical change stating a page as another page type."},{"decisionKind":"decision-kind/departure","statement":"That change is reached through the runner rather than by an import."},{"decisionKind":"decision-kind/departure","statement":"The page and the page type it becomes are the two arguments read here."},{"decisionKind":"decision-kind/departure","statement":"The page type a page moves to is named by the path of that page type's page."},{"decisionKind":"decision-kind/departure","statement":"A name a property fixes is chosen outside akasha and carries no page type."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."}]}
+{"definition":"one page stated as another page type, in the data and in every file name"}
+{"id":"01a07883-67ee-73cd-8370-4730fab7c87c"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":3072}
+{"slug":"change-page-page-type"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

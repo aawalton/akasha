@@ -1,0 +1,7 @@
+{"definition":"the page type of the pages a page gathers"}
+{"id":"01a0683a-620a-753d-8ea2-a84aa847d5f4"}
+{"propertySlug":"child-type"}
+{"slug":"child-type"}
+{"targetPageType":"page-type/page-type"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

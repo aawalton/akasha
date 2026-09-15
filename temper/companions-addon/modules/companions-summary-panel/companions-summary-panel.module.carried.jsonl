@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Column positions are fixed numbers rather than measured from content."}]}
+{"definition":"the table of one row per companion the summary tab is drawn from"}
+{"id":"01a0611d-84e5-7467-8cd2-0efd143eb949"}
+{"slug":"companions-summary-panel"}
+{"type":"page-type/module"}

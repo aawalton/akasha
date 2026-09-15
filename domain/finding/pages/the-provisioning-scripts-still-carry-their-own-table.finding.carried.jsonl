@@ -1,0 +1,6 @@
+{"claim":"Every file the workstation is set up with is now a provisioned-file page stating where it goes, but setup-symlinks.sh still spells that table out itself rather than reading it from the pages."}
+{"domain":"domain/provisioning"}
+{"evidence":"The seventeen pages under akasha/infrastructure/machines/provisioning/provisioned-file/pages each carry installPath, placedBy, onlyOn and reloadWith, which is everything the placer needs. The script was left spelling the table because it could not be run to test: a wrong projection breaks the workstation on the next provisioning run, and the block forbade installing or linking anything live. The projection is the remaining half of the adaptation and wants a command beside `service install`, which already projects workstation-service pages into units the same way."}
+{"id":"01a06866-fd54-7c00-ba6c-111c5fd11895"}
+{"slug":"the-provisioning-scripts-still-carry-their-own-table"}
+{"type":"page-type/finding"}

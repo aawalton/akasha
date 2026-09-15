@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The folder is named the plural a page type gathers its pages under."},{"decisionKind":"decision-kind/departure","statement":"A folder named no page type's plural is refused before anything else is read."},{"decisionKind":"decision-kind/departure","statement":"Every page here is of that page type or of a page type extending it."},{"decisionKind":"decision-kind/departure","statement":"Every page here names the page above as the collection holding that page."},{"decisionKind":"decision-kind/departure","statement":"The page above is named by its page type and slug together."},{"decisionKind":"decision-kind/departure","statement":"A folder above holding no page of its own is refused."},{"decisionKind":"decision-kind/departure","statement":"The page above answering with two addresses is held by the one the pages here name."},{"decisionKind":"decision-kind/departure","statement":"A page here carries what that page holds in a file beside it."},{"decisionKind":"decision-kind/departure","statement":"A file that is neither a page nor a file beside one is refused."},{"decisionKind":"decision-kind/departure","statement":"A folder gathering no page at all is refused."},{"decisionKind":"decision-kind/absence","statement":"A folder sitting inside is judged where that folder is."}]}
+{"definition":"the shape of a folder gathering under a plural the parts of the collection above"}
+{"enabled":true}
+{"id":"01a0a5c5-2740-7002-a26e-a1c0c1a39ac1"}
+{"slug":"collection-parts-under-their-plural"}
+{"test":"ts"}
+{"type":"page-type/folder-shape"}

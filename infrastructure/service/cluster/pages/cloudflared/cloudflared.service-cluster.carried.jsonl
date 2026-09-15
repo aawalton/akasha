@@ -1,0 +1,13 @@
+{"config":"yaml"}
+{"containerPort":2000}
+{"definition":"the daemon holding the tunnel traffic reaches the cluster over"}
+{"id":"01a06812-2380-7f97-866f-639c805cd645"}
+{"image":"cloudflare/cloudflared:2026.3.0"}
+{"manifest":["manifest/cloudflared"]}
+{"namespace":"cloudflared"}
+{"replicas":2}
+{"resourceKind":"Deployment"}
+{"resourceName":"cloudflared"}
+{"secrets":["secret/cloudflared-creds-credentials-json"]}
+{"slug":"cloudflared"}
+{"type":"page-type/service-cluster"}

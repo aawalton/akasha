@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The parts an explanation needs are handed over together rather than one by one."},{"decisionKind":"decision-kind/departure","statement":"An item asked for without a character is looked for in the newest place first."},{"decisionKind":"decision-kind/departure","statement":"Every item in every bag is reached with the place that item is held in."},{"decisionKind":"decision-kind/absence","statement":"No rule walk is run here."}]}
+{"definition":"what explaining one item's rule walk is built from"}
+{"id":"01a068f6-dee0-7da2-a584-f25c20a493a6"}
+{"slug":"inventory-explain-capabilities"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"definition":"the tile sizes a widget can be placed at"}
+{"id":"01a05480-1c89-7261-a8c7-0538e7ae019b"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"families"}
+{"slug":"families"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

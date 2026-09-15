@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One script is written for each app whose page names a decode harness program."},{"decisionKind":"decision-kind/departure","statement":"The components the script compiles are those the harness's ios-program page names."},{"decisionKind":"decision-kind/departure","statement":"A file the script names is read from the index rather than spelled here."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches a machine."}]}
+{"definition":"the script that builds an app's decode harness and runs it on a simulator"}
+{"id":"01a0910c-50a4-7b5a-8f18-530ddf42c6ea"}
+{"slug":"decode-harness-script"}
+{"type":"page-type/module"}

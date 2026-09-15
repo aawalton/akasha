@@ -1,0 +1,7 @@
+{"description":"Increases Health Recovery by 15%"}
+{"effects":"jsonl"}
+{"id":"01a05fc5-f6bf-7e18-a218-1d993c45c46a"}
+{"key":"minor-fortitude"}
+{"slug":"minor-fortitude"}
+{"title":"Minor Fortitude"}
+{"type":"page-type/temper-buff-minor"}

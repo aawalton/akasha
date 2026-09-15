@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An amount below zero is money leaving the account."},{"decisionKind":"decision-kind/departure","statement":"An amount is in dollars rather than in cents."}]}
+{"definition":"how much money moved, in dollars"}
+{"id":"01a0680b-2b00-7003-9d28-7b5e1f4c2104"}
+{"max":null}
+{"propertySlug":"amount"}
+{"slug":"amount"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

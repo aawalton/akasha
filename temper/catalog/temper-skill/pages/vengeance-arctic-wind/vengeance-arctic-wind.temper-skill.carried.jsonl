@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Arctic Wind"}
+{"description":"\"Envelop yourself in winter winds, instantly healing for |cffffff16065|r Health.\""}
+{"esoSkillId":238088}
+{"icon":"/esoui/art/icons/ability_warden_003.dds"}
+{"id":"019e6f53-a8b2-7a9f-8fed-d46da8b99a77"}
+{"isMorph":false}
+{"key":"vengeance-arctic-wind"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-warden-winters-embrace"}
+{"skillType":"active"}
+{"slug":"vengeance-arctic-wind"}
+{"subcategoryId":"vengeance-warden-winters-embrace"}
+{"title":"Vengeance Arctic Wind"}
+{"type":"page-type/temper-skill"}

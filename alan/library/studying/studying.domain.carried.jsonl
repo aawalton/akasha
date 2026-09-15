@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A course is counted in the minutes that course runs to."},{"decisionKind":"decision-kind/departure","statement":"A course sits under every shelf that course belongs to rather than under a single shelf."}]}
+{"definition":"the courses Alan is taught by"}
+{"id":"01a06574-0291-7001-9087-db957190cd32"}
+{"parts":["page-type/great-course","page-type/great-courses-collection","page-type/great-courses-subject"]}
+{"slug":"studying"}
+{"type":"page-type/domain"}

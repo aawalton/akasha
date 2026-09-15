@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Only a deliberate read-only opt-in reaches the protected user."},{"decisionKind":"decision-kind/departure","statement":"A path resolving to the protected user without one throws."}]}
+{"definition":"the guard stopping a path from acting as Alan's real account"}
+{"id":"01a05c6d-3509-78ee-a418-3d1217065a1e"}
+{"slug":"protected-user"}
+{"type":"page-type/module"}

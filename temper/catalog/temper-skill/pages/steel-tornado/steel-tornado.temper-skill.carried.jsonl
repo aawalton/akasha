@@ -1,0 +1,17 @@
+{"baseName":"Whirlwind"}
+{"description":"\"Launch yourself into a lethal spin, releasing a flurry of blades around you that deals 1742 Physical Damage to nearby enemies. Deals up to 33% more damage to enemies with less than 50% Health.\""}
+{"esoSkillId":40744}
+{"icon":"/esoui/art/icons/ability_dualwield_005_b.dds"}
+{"id":"019e6226-0117-7f46-ad86-52c3dc11544a"}
+{"isMorph":true}
+{"key":"steel-tornado"}
+{"learnedLevel":14}
+{"lineRankNeeded":14}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"steel-tornado"}
+{"subcategoryId":"weapon-dual-wield"}
+{"title":"Steel Tornado"}
+{"type":"page-type/temper-skill"}

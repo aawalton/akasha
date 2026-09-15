@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"definition":"the many values a sparse array is opened out into, holes and all"}
+{"id":"01a08202-0fa9-7d98-8154-8cf67a486f1c"}
+{"lua50Code":"ts"}
+{"luaExport":"__TS__SparseArraySpread"}
+{"slug":"sparse-array-spread"}
+{"type":"page-type/lualib-helper"}

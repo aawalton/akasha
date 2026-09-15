@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An addon is a folder with an `eso-addon` page and an addon manifest."},{"decisionKind":"decision-kind/departure","statement":"An addon is found by asking the index for every `eso-addon` page."},{"decisionKind":"decision-kind/departure","statement":"A folder the deploy did not write is never deleted on missing evidence."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes to the game's addons folder."}]}
+{"definition":"which addons the repository has and what each addon needs to be built"}
+{"id":"01a06060-ec3c-725c-b37c-206e3c7f7e97"}
+{"parts":["module/addon-json","module/addon-manifest-file","module/addon-roster","module/deployable-addons","module/distributable-set","module/folder-ownership","module/sibling-addons"]}
+{"slug":"temper-addons-resolve"}
+{"type":"page-type/domain"}

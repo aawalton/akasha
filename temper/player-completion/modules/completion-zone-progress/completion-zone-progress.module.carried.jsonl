@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The zone catalog arrives as an argument rather than as an imported table."},{"decisionKind":"decision-kind/departure","statement":"A zone's activities arrive flat rather than nested."},{"decisionKind":"decision-kind/departure","statement":"Every activity names the completion type the activity falls under."},{"decisionKind":"decision-kind/departure","statement":"Completion types come out in the order of the first activity under each type."},{"decisionKind":"decision-kind/departure","statement":"The label of a completion type is taken from that type's first activity."},{"decisionKind":"decision-kind/constraint","statement":"A character read only for roster fields is skipped."},{"decisionKind":"decision-kind/constraint","statement":"An empty catalog answers an empty list."}]}
+{"definition":"how much of a zone a character has completed, completion type by completion type"}
+{"id":"01a06358-4f7c-7012-8bf4-9a1715664de9"}
+{"slug":"completion-zone-progress"}
+{"type":"page-type/module"}

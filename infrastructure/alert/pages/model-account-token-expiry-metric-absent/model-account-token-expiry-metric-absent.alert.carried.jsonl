@@ -1,0 +1,8 @@
+{"definition":"nothing is reporting when the Claude accounts' credentials expire"}
+{"domain":"model-account"}
+{"id":"01a06755-62f9-7592-a5bb-547779652be0"}
+{"runbook":"txt"}
+{"slug":"model-account-token-expiry-metric-absent"}
+{"summary":"model-account token-expiry gauge is absent — auth-death alert path blind"}
+{"title":"Claude account token expiry metric absent"}
+{"type":"page-type/alert"}

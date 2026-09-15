@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A dungeon saying nothing of its difficulty is taken as hard."}]}
+{"definition":"how hard one player alone finds a dungeon"}
+{"id":"01a06031-70e5-71b7-aa04-ac3deb2dfe1c"}
+{"slug":"solo-difficulty"}
+{"type":"page-type/module"}

@@ -1,0 +1,10 @@
+{"definition":"the job that points a public name at the current address"}
+{"id":"01a06812-2380-7daf-80c0-b50676a5feef"}
+{"image":"registry.registry.svc.cluster.local:5000/cluster/ci:latest"}
+{"manifest":["manifest/ddns-headscale"]}
+{"namespace":"ddns-headscale"}
+{"resourceKind":"CronJob"}
+{"resourceName":"ddns-headscale"}
+{"schedule":"*/5 * * * *"}
+{"slug":"ddns-headscale"}
+{"type":"page-type/service-cluster"}

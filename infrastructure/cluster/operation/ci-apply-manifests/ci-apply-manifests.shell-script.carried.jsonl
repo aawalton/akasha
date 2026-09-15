@@ -1,0 +1,6 @@
+{"definition":"the manifests under one directory applied to a namespace, or diffed against it"}
+{"id":"01a06865-abff-7012-a178-ceaa65d5a61f"}
+{"shell":"sh"}
+{"slug":"ci-apply-manifests"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

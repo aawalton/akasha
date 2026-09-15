@@ -1,0 +1,7 @@
+{"filing":"archive"}
+{"forwardTo":"person/jenny"}
+{"id":"01a06860-54a2-743b-8fad-54f58e5a38a8"}
+{"matches":[{"field":"from","comparison":"is","values":["no_reply@email.apple.com"]},{"field":"subject","comparison":"contains","values":["your receipt from apple"]}]}
+{"slug":"apple-receipt"}
+{"title":"Apple receipt"}
+{"type":"page-type/email-rule-code"}

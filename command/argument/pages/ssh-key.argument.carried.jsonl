@@ -1,0 +1,7 @@
+{"id":"01a094e9-3ded-7a54-95f3-aab5f7e53c03"}
+{"placeholder":"path"}
+{"said":"--ssh-key"}
+{"slug":"ssh-key"}
+{"takes":"the private key that user is reached with"}
+{"type":"page-type/argument"}
+{"value":"path"}

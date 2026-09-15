@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the answer whether text holds other text from a position onward"}
+{"id":"01a081f7-142d-7c82-b6b1-3fafadcfc435"}
+{"luaExport":"__TS__StringIncludes"}
+{"slug":"string-includes"}
+{"type":"page-type/lualib-helper"}

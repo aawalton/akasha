@@ -1,0 +1,19 @@
+{"baseName":"Shield Throw"}
+{"description":"Deals 2091 Magic Damage to an enemy."}
+{"esoSkillId":217808}
+{"focusScriptId":"magic-damage"}
+{"grimoireId":"shield-throw"}
+{"icon":"/esoui/art/icons/ability_grimoire_1handed.dds"}
+{"id":"019e6471-15b6-76d0-9d50-f3efc93f6d0f"}
+{"isMorph":false}
+{"key":"scribed-shield-throw-magic-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"active"}
+{"slug":"scribed-shield-throw-magic-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Magical Throw"}
+{"type":"page-type/temper-scribed-skill"}

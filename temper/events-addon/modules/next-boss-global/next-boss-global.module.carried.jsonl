@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A key binding's Lua runs outside the bundle and reaches only a global."}]}
+{"definition":"the name the key bindings reach this tracker's table by"}
+{"id":"01a06157-8357-7112-8787-b5ac39b4f125"}
+{"slug":"next-boss-global"}
+{"type":"page-type/module"}

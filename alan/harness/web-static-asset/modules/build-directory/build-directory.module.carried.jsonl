@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A build told no folder writes into the folder the pod serves."},{"decisionKind":"decision-kind/departure","statement":"A build told a folder writes into that folder."},{"decisionKind":"decision-kind/departure","statement":"A folder named as nothing but blanks is no folder."}]}
+{"definition":"the folder a web tree's build is written into"}
+{"id":"01a08db3-6723-70df-8ccd-9abb25c56c16"}
+{"slug":"build-directory"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A pair is only recorded when both set ids and both zone ids are known."}]}
+{"definition":"which set is the perfected twin of which, and the zone each of the pair drops in"}
+{"id":"01a061fc-ceeb-71fc-bced-c9b4d1f3537a"}
+{"slug":"lib-sets-core-perfected-sets"}
+{"type":"page-type/module"}

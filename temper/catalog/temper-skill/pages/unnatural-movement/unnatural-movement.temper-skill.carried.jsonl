@@ -1,0 +1,18 @@
+{"baseName":"Unnatural Movement"}
+{"description":"\"Reduces the cost of Sprint by 50%.\\n\\nIf you continuously Sprint for 3 seconds you automatically become invisible.\""}
+{"effects":"jsonl"}
+{"esoSkillId":135218}
+{"icon":"/esoui/art/icons/passive_u26_vampire_04.dds"}
+{"id":"019e6251-4cfc-7bd6-b686-d80dfc44c3a1"}
+{"isMorph":false}
+{"key":"unnatural-movement"}
+{"learnedLevel":1}
+{"lineRankNeeded":7}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"world-vampire"}
+{"skillType":"passive"}
+{"slug":"unnatural-movement"}
+{"subcategoryId":"world-vampire"}
+{"title":"Unnatural Movement"}
+{"type":"page-type/temper-skill"}

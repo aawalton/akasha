@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A refund names the order that refund is against and the total and the item that refund is for."},{"decisionKind":"decision-kind/departure","statement":"A mail missing the order number or the total or the returned item is no refund and is passed over."},{"decisionKind":"decision-kind/departure","statement":"The item is known by the ASIN in the link Amazon writes rather than by its title."},{"decisionKind":"decision-kind/departure","statement":"A stated reason for return is kept where Amazon wrote a reason and is null where Amazon did not."},{"decisionKind":"decision-kind/departure","statement":"The refund's day is the day the mail was sent."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches Amazon or Gmail."}]}
+{"definition":"an Amazon refund read out of the refund mail Amazon sends"}
+{"id":"01a06863-ac0c-71ae-9a80-431ca793b133"}
+{"slug":"monarch-amazon-refund"}
+{"type":"page-type/module"}

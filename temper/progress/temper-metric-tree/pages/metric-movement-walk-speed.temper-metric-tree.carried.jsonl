@@ -1,0 +1,8 @@
+{"displayOrder":2}
+{"id":"019e2fcd-5a78-79f2-8821-ab22dcf3d6ba"}
+{"nodeId":"movement-walk-speed"}
+{"nodeType":"metric"}
+{"parent":"metric-movement-speed"}
+{"slug":"metric-movement-walk-speed"}
+{"title":"Movement Walk Speed"}
+{"type":"page-type/temper-metric-tree"}

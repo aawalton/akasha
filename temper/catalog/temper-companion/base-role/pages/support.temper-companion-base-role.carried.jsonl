@@ -1,0 +1,11 @@
+{"abbreviation":"S"}
+{"description":"Focused on buffing allies through offensive and defensive buffs and debuffs"}
+{"displayOrder":3}
+{"id":"01a05fce-c49b-727b-849d-73e52fac2adc"}
+{"key":"support"}
+{"slug":"support"}
+{"title":"Support"}
+{"type":"page-type/temper-companion-base-role"}
+{"validArmorWeights":["light"]}
+{"validTraitIds":["quickened"]}
+{"validWeaponRoleIds":["restoration-staff"]}

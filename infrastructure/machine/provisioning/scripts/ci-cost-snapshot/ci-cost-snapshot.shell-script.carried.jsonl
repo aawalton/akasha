@@ -1,0 +1,9 @@
+{"definition":"what a session has cost, read from the seat page its id names"}
+{"id":"01a06864-40db-77fc-84ff-f16044dcbbc9"}
+{"installPath":"~/.local/bin/ci-cost-snapshot"}
+{"onlyOn":"any"}
+{"scripting":{}}
+{"shell":"sh"}
+{"slug":"ci-cost-snapshot"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

@@ -1,0 +1,10 @@
+{"audit":{"maxCpuSeconds":15}}
+{"check":{"maxCpuSeconds":3}}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Which properties are held in a file is read from the page properties rather than from a list here."},{"decisionKind":"decision-kind/departure","statement":"Presence is the whole test."},{"decisionKind":"decision-kind/absence","statement":"The index files the path a page states whether or not a file stands there."},{"decisionKind":"decision-kind/departure","statement":"A file is present when the change answers with a body for its path."},{"decisionKind":"decision-kind/departure","statement":"A file is absent when the change answers with nothing."},{"decisionKind":"decision-kind/constraint","statement":"The body standing at a path the change does not name is answered by the base commit."},{"decisionKind":"decision-kind/departure","statement":"A file the declaration claiming that file states uncommitted is passed over."},{"decisionKind":"decision-kind/departure","statement":"Which declaration claims a file is read from the page's own type rather than from the property."},{"decisionKind":"decision-kind/departure","statement":"A page named for a page type the change itself has is judged."},{"decisionKind":"decision-kind/departure","statement":"A file property the change introduces is asked for its file."},{"decisionKind":"decision-kind/departure","statement":"A page having a changed path is judged even when the change never names that page."},{"decisionKind":"decision-kind/departure","statement":"Which page has a changed path is composed out of that path's own name."},{"decisionKind":"decision-kind/departure","statement":"A page type the change itself writes names pages here as a landed one does."},{"decisionKind":"decision-kind/departure","statement":"A page the change takes away is passed over."}]}
+{"definition":"the check refusing a page that states a property held in a file it does not have"}
+{"id":"01a04d86-434f-7119-b8cc-858d63edf631"}
+{"runsOnAudit":true}
+{"runsOnChange":true}
+{"runsOnDeploy":true}
+{"slug":"page-property-has-its-file"}
+{"type":"page-type/check-code"}

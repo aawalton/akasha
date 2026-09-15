@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The collector adds itself to the catalog registry as the module loads."},{"decisionKind":"decision-kind/departure","statement":"Zone ids are read in a chain that ends where the game answers zero."},{"decisionKind":"decision-kind/departure","statement":"A zone with no named point of interest is left out."}]}
+{"definition":"the points of interest of every zone story zone, read into the add-on's saved variables"}
+{"id":"01a060e2-3184-76cf-a0d0-62b8d40daca8"}
+{"slug":"poi-catalog-capture"}
+{"type":"page-type/module"}

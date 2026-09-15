@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcd1-7000-a523-8d664f524671"}
+{"matches":[{"key":"merchant","comparison":"is","values":["paramount plus"]},{"key":"sign","comparison":"is-not","values":["negative"]}]}
+{"slug":"paramount-plus-other"}
+{"title":"Paramount plus other"}
+{"type":"page-type/category-rule-code"}

@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/move-to"}
+{"active":true}
+{"categoryId":"treasure-maps"}
+{"description":"Stashes treasure maps in the bank for later use. Treasure maps lead to chests with set gear."}
+{"destination":"bank"}
+{"displayOrder":51}
+{"fromTemplate":"temper-rule-template/treasure-maps-bank"}
+{"goal":"temper-rule-goal/task"}
+{"id":"01a0728b-8ebf-7ddd-8ba9-20cfde237207"}
+{"locked":true}
+{"slug":"rule-treasure-maps-bank"}
+{"title":"Bank treasure maps"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-05-04T16:04:31.132Z"}

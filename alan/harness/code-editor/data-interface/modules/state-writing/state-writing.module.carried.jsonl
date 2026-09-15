@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A file is replaced by writing a second file elsewhere and renaming that second file over."},{"decisionKind":"decision-kind/departure","statement":"The file written first is outside the folder the editor watches."},{"decisionKind":"decision-kind/departure","statement":"The file written first is named for the process writing that file."},{"decisionKind":"decision-kind/absence","statement":"Nothing here holds a picture between one write and the next."},{"decisionKind":"decision-kind/absence","statement":"Nothing here watches a file or reads a clock."},{"decisionKind":"decision-kind/absence","statement":"Nothing here draws a picture, and no landing reaches this."}]}
+{"definition":"what the editor draws written where the editor reads it"}
+{"id":"01a09ca3-cbe9-7489-b97b-135b73b4be8a"}
+{"slug":"state-writing"}
+{"test":"ts"}
+{"type":"page-type/module"}

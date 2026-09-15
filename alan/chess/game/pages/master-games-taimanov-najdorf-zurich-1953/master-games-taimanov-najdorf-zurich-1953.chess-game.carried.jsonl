@@ -1,0 +1,22 @@
+{"black":"Miguel Najdorf"}
+{"collection":"closed-structures"}
+{"externalId":"master-games_taimanov-najdorf-zurich-1953"}
+{"handle":"master-games"}
+{"id":"019f248f-e85f-7b5d-86bc-e24efca32c90"}
+{"lesson":"Closed structures: King's Indian - locked center, race on opposite wings, and the ...g5-g4-g3 kingside pawn storm"}
+{"openingEco":"E99"}
+{"openingName":"King's Indian Defense, Orthodox, Aronin-Taimanov"}
+{"pgn":"pgn"}
+{"playedAt":"1953-09-05T00:00:00.000Z"}
+{"ply":85}
+{"rated":false}
+{"result":"0-1"}
+{"slug":"master-games-taimanov-najdorf-zurich-1953"}
+{"source":"master-games"}
+{"sourceGameId":"taimanov-najdorf-zurich-1953"}
+{"speed":"classical"}
+{"title":"Mark Taimanov vs Miguel Najdorf · classical · 1953-09-05"}
+{"type":"page-type/chess-game"}
+{"variant":"standard"}
+{"white":"Mark Taimanov"}
+{"winner":"black"}

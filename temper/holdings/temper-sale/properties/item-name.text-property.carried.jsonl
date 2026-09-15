@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name is the text one sweep read where a title is the item's name now."},{"decisionKind":"decision-kind/departure","statement":"A name and a title part where a sweep read the item before the item was renamed."}]}
+{"definition":"what a sweep read an item's name as"}
+{"id":"01a06553-ace7-70af-be45-b007740978fa"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"name"}
+{"slug":"item-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

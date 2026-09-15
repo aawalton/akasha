@@ -1,0 +1,19 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"character":"nirayicel"}
+{"completionCardId":"lore-library-character"}
+{"completionItemPath":["1"]}
+{"displayOrder":15}
+{"dueDate":"2026-09-15"}
+{"icon":"file-text"}
+{"id":"019e6a7d-5015-7d30-9bd6-ce0f15540ea0"}
+{"lastCompletedAt":"2026-09-14T18:55:19.663Z"}
+{"priority":"p3"}
+{"progress":"jsonl"}
+{"progressCurrent":394}
+{"progressTotal":580}
+{"rruleAnchorFromCompletion":false}
+{"rruleRule":"FREQ=DAILY"}
+{"scope":"next_character"}
+{"slug":"shalidor-s-library"}
+{"title":"Shalidor's Library"}
+{"type":"page-type/temper-task"}

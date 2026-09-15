@@ -1,0 +1,17 @@
+{"baseName":"Wing Buffet"}
+{"description":"\"Unfurl draconic wings to knock back enemies around you 4 meters and stun them for 1.8 seconds.\\n\\nThe enchanted winds summoned by your wings coalesce around you, reducing your damage taken from projectiles by 50% for 6 seconds, while granting you immunity to snares and immobilizations and Major Expedition for 4 seconds, increasing Movement Speed by 30%.\""}
+{"esoSkillId":21014}
+{"icon":"/esoui/art/icons/ability_dragonknight_008_b.dds"}
+{"id":"019e6245-a686-7996-9d9e-1263bf319fce"}
+{"isMorph":true}
+{"key":"fleetstep-wings"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"dragonknight-draconic-power"}
+{"skillType":"active"}
+{"slug":"fleetstep-wings"}
+{"subcategoryId":"dragonknight-draconic-power"}
+{"title":"Fleetstep Wings"}
+{"type":"page-type/temper-skill"}

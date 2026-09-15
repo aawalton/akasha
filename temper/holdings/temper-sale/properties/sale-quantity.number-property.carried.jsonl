@@ -1,0 +1,7 @@
+{"definition":"how many of an item went in one sale"}
+{"id":"01a0685d-89aa-724b-b85f-0851f02aaa3c"}
+{"max":null}
+{"propertySlug":"quantity"}
+{"slug":"sale-quantity"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

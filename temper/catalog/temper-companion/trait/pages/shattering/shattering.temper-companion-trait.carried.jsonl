@@ -1,0 +1,10 @@
+{"description":"Increases companion Penetration"}
+{"effectType":"integer"}
+{"id":"01a05fce-c4b0-75e4-8085-89376ec1cdf3"}
+{"isReduction":false}
+{"key":"shattering"}
+{"metricId":"companion-penetration"}
+{"qualityValues":"jsonl"}
+{"slug":"shattering"}
+{"title":"Shattering"}
+{"type":"page-type/temper-companion-trait"}

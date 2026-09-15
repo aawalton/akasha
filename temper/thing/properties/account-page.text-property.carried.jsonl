@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to  an account."}]}
+{"definition":"the account a page belongs to"}
+{"id":"01a05fba-ce37-7ab7-ac79-b568699606b3"}
+{"maxLength":36}
+{"nameFormat":"name-format/lower-uuid"}
+{"propertySlug":"account-page"}
+{"slug":"account-page"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

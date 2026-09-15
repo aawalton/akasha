@@ -1,0 +1,10 @@
+{"arguments":[{"argument":"argument/seq","required":true,"saidAs":"flag-or-word"},{"argument":"argument/web-app","required":true},{"argument":"argument/tail"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seq said as a word and after `--seq` is refused."},{"decisionKind":"decision-kind/departure","statement":"The log is answered as the log was when the answer was built."},{"decisionKind":"decision-kind/departure","statement":"A log no file is there for is answered against the data rather than the caller."},{"decisionKind":"decision-kind/absence","statement":"Nothing here follows a log as the log grows."}]}
+{"definition":"the command answering the tail of one dev server's captured output"}
+{"id":"01a09404-76c2-7202-b118-752495e599e2"}
+{"name":"log"}
+{"parts":["module/last-lines"]}
+{"slug":"infrastructure-dev-server-log"}
+{"test":"ts"}
+{"type":"page-type/command"}

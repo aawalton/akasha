@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"elements taken out of an array and others put where they were"}
+{"id":"01a08c5e-5535-7500-b9e2-1574322d0905"}
+{"luaExport":"__TS__ArraySplice"}
+{"slug":"array-splice"}
+{"type":"page-type/lualib-helper"}

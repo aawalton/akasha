@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A row is drawn only for a library entry the current filter admits."}]}
+{"definition":"drawing the community library rows and their port buttons"}
+{"id":"01a06128-d5d0-76b8-ae19-d877e4ff3a33"}
+{"slug":"housing-library-tab"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The catalog files its character-side tree under the `character` category."},{"decisionKind":"decision-kind/departure","statement":"The progress transforms filter on the same word."},{"decisionKind":"decision-kind/departure","statement":"The two catalogs are passed ahead of the account collectibles."},{"decisionKind":"decision-kind/departure","statement":"Every argument to the character transform is written out."},{"decisionKind":"decision-kind/departure","statement":"Misplacing an argument is a type error rather than a silent rebinding."}]}
+{"definition":"each character's progress worked out from the catalogs and the saved data"}
+{"id":"01a06421-f74b-78cf-a4a8-43342bc70016"}
+{"slug":"character-progress"}
+{"type":"page-type/module"}

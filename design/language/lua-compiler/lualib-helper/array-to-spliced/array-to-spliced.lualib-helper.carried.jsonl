@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the copy of an array with elements taken out at an index and others put in"}
+{"id":"01a081ed-ab46-76bb-afbb-558dddf8a9ef"}
+{"luaExport":"__TS__ArrayToSpliced"}
+{"slug":"array-to-spliced"}
+{"type":"page-type/lualib-helper"}

@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The certificate is written in PEM rather than in DER."},{"decisionKind":"decision-kind/departure","statement":"PEM carries a certificate as base64 text."}]}
+{"definition":"the certificate an authority signs with, and is recognised by"}
+{"extensions":["pem"]}
+{"fileName":"ca.crt"}
+{"generated":true}
+{"id":"01a0685e-1c21-7a40-9f3e-2b7c4d51e803"}
+{"propertySlug":"authority-certificate"}
+{"slug":"authority-certificate"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

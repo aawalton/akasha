@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A module no import chain from here reaches is left out of the bundle."},{"decisionKind":"decision-kind/absence","statement":"Nothing is declared here."}]}
+{"definition":"the module a bundle of this addon is gathered from"}
+{"id":"01a0605b-c802-71af-a8cf-d954d41e3520"}
+{"slug":"main-menu-entry"}
+{"type":"page-type/module"}

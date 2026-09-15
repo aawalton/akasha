@@ -1,0 +1,9 @@
+{"displayOrder":1}
+{"id":"019e2fcd-5a1b-7d89-82fe-a072d4e7066f"}
+{"nodeId":"effective-health-spell"}
+{"nodeType":"metric"}
+{"parent":"category-toughness"}
+{"slug":"metric-effective-health-spell"}
+{"title":"Effective Health Spell"}
+{"type":"page-type/temper-metric-tree"}
+{"useAccentColor":true}

@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A saved-variables file is read here without any Lua being run."},{"decisionKind":"decision-kind/departure","statement":"The game is the only writer of a saved-variables file."},{"decisionKind":"decision-kind/constraint","statement":"The file the game wrote is taken as written rather than corrected."},{"decisionKind":"decision-kind/constraint","statement":"A read of a saved-variables file is as old as the game's last write of that file."},{"decisionKind":"decision-kind/constraint","statement":"The game writes a saved-variables file on a reload or a quit rather than as an addon acts."}]}
+{"definition":"the Lua file the game writes an add-on's own state into"}
+{"id":"01a06053-3633-77f0-8acd-df36807c5f6c"}
+{"parts":["module/account-wide","module/lua-array","module/lua-parser","module/lua-serializer"]}
+{"slug":"temper-saved-variable"}
+{"type":"page-type/domain"}

@@ -1,0 +1,19 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"character":"yvlon-byres"}
+{"completionCardId":"skill-lines"}
+{"completionItemPath":["118"]}
+{"displayOrder":11}
+{"dueDate":"2026-09-15"}
+{"effectiveCharacter":"belavierr"}
+{"id":"019db533-f381-75f7-aafa-ced3b56c5229"}
+{"lastCompletedAt":"2026-09-14T18:55:18.057Z"}
+{"priority":"p2"}
+{"progress":"jsonl"}
+{"progressCurrent":151}
+{"progressTotal":240}
+{"rruleAnchorFromCompletion":false}
+{"rruleRule":"FREQ=DAILY;INTERVAL=1"}
+{"scope":"next_character"}
+{"slug":"dark-brotherhood-skill-line"}
+{"title":"Dark Brotherhood Skill Line"}
+{"type":"page-type/temper-task"}

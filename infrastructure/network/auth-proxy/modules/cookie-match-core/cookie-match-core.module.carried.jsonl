@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name with no chunk number is the first chunk."}]}
+{"definition":"a cookie name read as a Supabase auth token chunk"}
+{"id":"01a06863-8e7c-7c09-8de5-7989e7888711"}
+{"slug":"cookie-match-core"}
+{"type":"page-type/module"}

@@ -1,0 +1,17 @@
+{"baseName":"Kickback"}
+{"description":"\"Reduces bounties you willingly pay to guards and fences by |cffffff30|r%.\""}
+{"esoSkillId":63817}
+{"icon":"/esoui/art/icons/ability_legerdemain_sly.dds"}
+{"id":"019e6f53-a3b2-7a57-9bf6-ede1e5b9d4fb"}
+{"isMorph":false}
+{"key":"kickback-63817"}
+{"learnedLevel":1}
+{"lineRankNeeded":6}
+{"morphIndex":0}
+{"rank":6}
+{"skillLineId":"world-legerdemain"}
+{"skillType":"passive"}
+{"slug":"kickback-63817"}
+{"subcategoryId":"world-legerdemain"}
+{"title":"Kickback"}
+{"type":"page-type/temper-skill"}

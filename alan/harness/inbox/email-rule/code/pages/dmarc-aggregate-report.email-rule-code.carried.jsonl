@@ -1,0 +1,6 @@
+{"filing":"archive"}
+{"id":"01a06860-54a2-75dd-8a60-688dd2cc3423"}
+{"matches":[{"field":"from","comparison":"is","values":["noreply-dmarc-support@google.com"]},{"field":"subject","comparison":"contains","values":["report domain"]}]}
+{"slug":"dmarc-aggregate-report"}
+{"title":"Dmarc aggregate report"}
+{"type":"page-type/email-rule-code"}

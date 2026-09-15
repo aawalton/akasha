@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A command here is named for the path the old ops command was reached by."},{"decisionKind":"decision-kind/departure","statement":"A command here acts on a page's files rather than on the values a page states."}]}
+{"definition":"what an agent runs by name over the pages themselves"}
+{"id":"01a06812-3ce8-79c7-b7c0-ca183f330ca5"}
+{"parts":["module/icon-index-rendering","module/page-secret-acting"]}
+{"slug":"page-command"}
+{"type":"page-type/domain"}

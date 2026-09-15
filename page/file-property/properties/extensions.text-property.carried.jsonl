@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An ending is written without the dot joining it to the name."},{"decisionKind":"decision-kind/departure","statement":"A property whose file goes by more than one ending states each of them."},{"decisionKind":"decision-kind/departure","statement":"The type a file property has is the endings that property states."}]}
+{"definition":"the endings a page names this property's file with"}
+{"id":"01a08e1f-408a-7ae7-a4d9-21cdd5a19500"}
+{"maxLength":20}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"extensions"}
+{"slug":"extensions"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

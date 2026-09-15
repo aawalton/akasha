@@ -1,0 +1,8 @@
+{"definition":"the slot in a grimoire a script is set into"}
+{"id":"01a05fca-cb87-767f-90a1-977b2c340bc6"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"slot-type"}
+{"slug":"slot-type"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

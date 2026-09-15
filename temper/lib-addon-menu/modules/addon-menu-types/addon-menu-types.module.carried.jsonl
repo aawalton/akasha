@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Any widget field may be a value or a function returning that value."},{"decisionKind":"decision-kind/departure","statement":"One control interface has the fields of every widget type as optional."},{"decisionKind":"decision-kind/constraint","statement":"Value-bearing widgets require both a getFunc and a setFunc."},{"decisionKind":"decision-kind/absence","statement":"No declaration in this file emits Lua."}]}
+{"definition":"the declared shape of every widget's data table and of the control it becomes"}
+{"id":"01a06100-0000-7000-8000-000000000010"}
+{"slug":"addon-menu-types"}
+{"type":"page-type/module"}

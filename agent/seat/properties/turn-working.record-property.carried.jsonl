@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The answer is read off the seat's transcript rather than off a hook."},{"decisionKind":"decision-kind/departure","statement":"A transcript shorter than the byte read to was replaced."},{"decisionKind":"decision-kind/departure","statement":"A replaced transcript is read again from its first byte."},{"decisionKind":"decision-kind/departure","statement":"The tasks still running are read from the same bytes as the turn."},{"decisionKind":"decision-kind/absence","statement":"New bytes naming no turn of the agent are no answer that the seat is idle."}]}
+{"definition":"whether a seat is mid-turn, the byte read to, and the commands still running"}
+{"id":"01a06c75-5eab-7ec2-b8c4-b25cdb0803ce"}
+{"properties":[{"pageProperty":"boolean-property/active-turn","required":true,"many":false},{"pageProperty":"number-property/scanned-to","required":true,"many":false},{"pageProperty":"text-property/open-shells","required":true,"many":true,"maxCount":null}]}
+{"propertySlug":"turn-working"}
+{"slug":"turn-working"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

@@ -1,0 +1,12 @@
+{"displayOrder":1}
+{"effect":"Increases Weapon and Spell Damage"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_BERSERKER"}
+{"essenceRune":"Okori"}
+{"glyphName":"Glyph of Weapon Damage"}
+{"id":"019e5c0d-dce7-7d85-8573-0a1869cbe34c"}
+{"key":"weapon-damage"}
+{"qualityValues":"jsonl"}
+{"slug":"weapon-damage"}
+{"title":"Weapon Damage"}
+{"type":"page-type/temper-weapon-enchant"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the year, month and day a count of days from the epoch reaches"}
+{"id":"01a09123-7278-7f5e-b815-7f73908d7620"}
+{"luaExport":"__TS__CivilFromDays"}
+{"slug":"civil-from-days"}
+{"type":"page-type/lualib-helper"}

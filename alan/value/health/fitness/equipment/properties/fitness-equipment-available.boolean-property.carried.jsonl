@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A piece Alan means to buy is a page already."},{"decisionKind":"decision-kind/departure","statement":"A piece Alan means to buy is not available."}]}
+{"definition":"whether Alan can load a movement with this piece today"}
+{"id":"01a06865-7f45-728c-9ab5-6435379d69d3"}
+{"propertySlug":"available"}
+{"slug":"fitness-equipment-available"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

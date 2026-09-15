@@ -1,0 +1,17 @@
+{"baseName":"Feral Cruelty"}
+{"description":"\"Lorkh teaches through suffering. So too will your claws.\\n\\nIncreases your Weapon and Spell Damage by |cffffff12|r%, reducing to |cffffff5|r% against targets with Battle Spirit.\\n\\nGrants you Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r.\""}
+{"esoSkillId":32638}
+{"icon":"/esoui/art/icons/ability_werewolf_009.dds"}
+{"id":"019e6f53-a6b8-704a-9e0b-e5ef427a4531"}
+{"isMorph":false}
+{"key":"savage-strength-32638"}
+{"learnedLevel":1}
+{"lineRankNeeded":6}
+{"morphIndex":0}
+{"rank":6}
+{"skillLineId":"world-werewolf"}
+{"skillType":"passive"}
+{"slug":"savage-strength-32638"}
+{"subcategoryId":"world-werewolf"}
+{"title":"Feral Cruelty"}
+{"type":"page-type/temper-skill"}

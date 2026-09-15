@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A character with only roster fields counts as unread."}]}
+{"definition":"whether a character, an account or a companion has been read at all"}
+{"id":"01a06108-2ff2-74de-bd0e-f2cc1d348cce"}
+{"slug":"completion-measured"}
+{"test":"ts"}
+{"type":"page-type/module"}

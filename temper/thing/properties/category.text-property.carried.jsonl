@@ -1,0 +1,8 @@
+{"definition":"the sort of thing a page is about"}
+{"id":"01a05fba-ce38-7d43-8178-11d7822b6825"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"category"}
+{"slug":"category"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

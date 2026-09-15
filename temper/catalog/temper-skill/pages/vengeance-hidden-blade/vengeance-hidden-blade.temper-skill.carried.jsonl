@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Hidden Blade"}
+{"description":"\"Fire a secret dagger from your sleeve at an enemy, dealing |cffffff10017|r Physical Damage.\\n\\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for |cffffff3|r seconds.\""}
+{"esoSkillId":241234}
+{"icon":"/esoui/art/icons/ability_dualwield_003.dds"}
+{"id":"019e6f53-a926-72ac-82c9-bc870e423e84"}
+{"isMorph":false}
+{"key":"vengeance-hidden-blade"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"vengeance-hidden-blade"}
+{"subcategoryId":"vengeance-weapon-dual-wield"}
+{"title":"Vengeance Hidden Blade"}
+{"type":"page-type/temper-skill"}

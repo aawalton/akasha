@@ -1,0 +1,7 @@
+{"definition":"how long changes to one file are collected before that file is written again"}
+{"id":"01a07235-8d03-7f26-ac3e-ac03771b126c"}
+{"max":null}
+{"propertySlug":"cooldown-milliseconds"}
+{"slug":"cooldown-milliseconds"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A sender is known by its device secret rather than by a session."}]}
+{"definition":"the health samples a device sends in"}
+{"id":"01a08835-7148-7ce8-968b-e46434e1f048"}
+{"slug":"alan-web-api-tracking-health-samples"}
+{"type":"page-type/route"}
+{"urlPath":"api/tracking/health-samples"}

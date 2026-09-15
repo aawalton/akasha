@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is the runs joined in order."}]}
+{"definition":"the destinations settings strings in Japanese with English fallbacks, joined from its runs"}
+{"id":"01a06269-2a1d-7acc-b2d8-8693ae37d9d1"}
+{"slug":"destinations-lang-settings-jf"}
+{"type":"page-type/module"}

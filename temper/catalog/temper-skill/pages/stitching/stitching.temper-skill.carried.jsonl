@@ -1,0 +1,17 @@
+{"baseName":"Stitching"}
+{"description":"\"Reduces research times by 25%, limits research time to 30 days, and allows the research of three items at once.\""}
+{"esoSkillId":58782}
+{"icon":"/esoui/art/icons/crafting_light_armor_component_004.dds"}
+{"id":"019e6224-ccaf-7da2-a062-472143fb67fb"}
+{"isMorph":false}
+{"key":"stitching"}
+{"learnedLevel":45}
+{"lineRankNeeded":45}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"craft-clothing"}
+{"skillType":"passive"}
+{"slug":"stitching"}
+{"subcategoryId":"craft-clothing"}
+{"title":"Stitching"}
+{"type":"page-type/temper-skill"}

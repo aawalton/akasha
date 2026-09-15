@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The base is a plain distro rather than an image with NVIDIA libraries."},{"decisionKind":"decision-kind/departure","statement":"The base tag fixes the version of every package from that release pocket."},{"decisionKind":"decision-kind/absence","statement":"No package from the base pocket has a version of its own."},{"decisionKind":"decision-kind/departure","statement":"A version is pinned where the version is a real choice."},{"decisionKind":"decision-kind/departure","statement":"The build proves on disk every file the rig cannot start without."},{"decisionKind":"decision-kind/departure","statement":"The build proves on disk every binary the rig cannot start without."},{"decisionKind":"decision-kind/absence","statement":"No GPU reading is taken at build time."},{"decisionKind":"decision-kind/constraint","statement":"The builder has no card and no injected driver."}]}
+{"definition":"the image an X server, a virtual keyboard and Wine run from on a cluster card"}
+{"id":"01a06866-58f8-7e1d-aa92-5be1e93a86f2"}
+{"recipe":"dockerfile"}
+{"repository":"cluster/eso-rig"}
+{"slug":"eso-rig-image"}
+{"type":"page-type/container-recipe"}

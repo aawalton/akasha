@@ -1,0 +1,19 @@
+{"baseName":"Accuracy"}
+{"description":"\"Increases your Critical Chance rating by 1314.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45492}
+{"icon":"/esoui/art/icons/ability_weapon_024.dds"}
+{"id":"019e6226-00cd-7371-9e5d-f4f306c4a22e"}
+{"isMorph":false}
+{"key":"accuracy"}
+{"learnedLevel":25}
+{"lineRankNeeded":25}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-bow"}
+{"skillType":"passive"}
+{"slug":"accuracy"}
+{"status":"supported"}
+{"subcategoryId":"weapon-bow"}
+{"title":"Accuracy"}
+{"type":"page-type/temper-skill"}

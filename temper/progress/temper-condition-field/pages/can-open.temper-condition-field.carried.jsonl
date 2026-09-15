@@ -1,0 +1,6 @@
+{"description":"The item must be a container whose cooldown group has expired, and a transmute crystal container fails once the held crystal count reaches the cap."}
+{"id":"01a07209-6b50-72dd-a9b2-44554e1af2e7"}
+{"key":"canOpen"}
+{"slug":"can-open"}
+{"title":"Can Open"}
+{"type":"page-type/temper-condition-field"}

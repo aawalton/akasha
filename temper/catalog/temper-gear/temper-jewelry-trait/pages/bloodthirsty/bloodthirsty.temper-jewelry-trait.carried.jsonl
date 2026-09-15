@@ -1,0 +1,10 @@
+{"displayOrder":2}
+{"effect":"Increases Weapon and Spell Damage against enemies under 90% Health (scales with missing health)"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_JEWELRY_BLOODTHIRSTY"}
+{"id":"019e5b97-6d87-7ebe-8b8a-90f7afd5b457"}
+{"key":"bloodthirsty"}
+{"material":"Slaughterstone"}
+{"qualityValues":"jsonl"}
+{"slug":"bloodthirsty"}
+{"title":"Bloodthirsty"}
+{"type":"page-type/temper-jewelry-trait"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Whether the root route shows a stack is read from `import.meta.env`, not from `process.env`."}]}
+{"definition":"the route every other route renders inside"}
+{"extensions":["tsx"]}
+{"fileName":"root.tsx"}
+{"id":"01a063f3-c2ad-7357-b6ab-267960198089"}
+{"propertySlug":"root-route"}
+{"slug":"root-route"}
+{"type":"page-type/code-file-property"}
+{"types":"ts"}

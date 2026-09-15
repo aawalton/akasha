@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An account carrying no reading is left out of the mean."},{"decisionKind":"decision-kind/departure","statement":"A checkout naming no account is refused rather than answered as a fleet."}]}
+{"definition":"what the fleet of model accounts has spent, read off the account pages"}
+{"id":"01a069cf-7042-7002-be6e-85399cf7d1f7"}
+{"slug":"model-account-usage"}
+{"type":"page-type/module"}

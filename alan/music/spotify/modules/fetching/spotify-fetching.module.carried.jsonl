@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A test that reaches the live Spotify API risks the ban an unpaced sweep earns."},{"decisionKind":"decision-kind/departure","statement":"The call a request is made over is passed in by the caller."},{"decisionKind":"decision-kind/departure","statement":"A caller passing no call is answered over HTTP."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a Spotify URL."},{"decisionKind":"decision-kind/absence","statement":"Nothing here is kept between one call and the next."}]}
+{"definition":"the network call every Spotify request is made over"}
+{"id":"01a06261-dc1d-700f-a5c9-3bfc9c2b5371"}
+{"slug":"spotify-fetching"}
+{"test":"ts"}
+{"type":"page-type/module"}

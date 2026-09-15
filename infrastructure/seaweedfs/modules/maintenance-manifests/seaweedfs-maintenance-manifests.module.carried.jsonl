@@ -1,0 +1,6 @@
+{"allowsTmpPaths":true}
+{"code":"ts"}
+{"definition":"the manifests setting the bucket quotas and vacuuming the volumes"}
+{"id":"01a06816-68b1-7dc6-9dfb-e7b1ad628ddc"}
+{"slug":"seaweedfs-maintenance-manifests"}
+{"type":"page-type/module"}

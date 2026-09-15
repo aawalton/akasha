@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/scope","required":true},{"argument":"argument/toggle","required":true},{"argument":"argument/value","required":true},{"argument":"argument/toggle-target"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One call sets one toggle."},{"decisionKind":"decision-kind/departure","statement":"The act that sets takes the settings it writes through rather than reaching it."},{"decisionKind":"decision-kind/departure","statement":"The scope, the toggle and the value are read before the settings are."},{"decisionKind":"decision-kind/departure","statement":"A refusal says the settings would not take the change and no more than that."},{"decisionKind":"decision-kind/departure","statement":"A null value takes the entry away."},{"decisionKind":"decision-kind/departure","statement":"A global toggle carried by both interfaces needs a target."},{"decisionKind":"decision-kind/departure","statement":"A toggle no interface carries refuses the call."}]}
+{"definition":"the command setting or clearing one automation toggle"}
+{"id":"01a0603c-c1ce-7042-a37c-880bfd4380f9"}
+{"name":"set"}
+{"slug":"temper-inventory-automation-set"}
+{"test":"ts"}
+{"type":"page-type/command"}

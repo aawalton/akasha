@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A puzzle is a row here rather than a page of its own."},{"decisionKind":"decision-kind/absence","statement":"A row nobody has answered has no answer."},{"decisionKind":"decision-kind/absence","statement":"A row is taken from the set's source rather than composed here."},{"decisionKind":"decision-kind/departure","statement":"A row is keyed on the id its source gives the puzzle."}]}
+{"definition":"every puzzle a set has, one to a line"}
+{"id":"01a06582-bd62-7cb1-8ecf-f95e81141aa9"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"text-property/puzzle-id","required":true,"many":false},{"pageProperty":"text-property/fen","required":true,"many":false},{"pageProperty":"text-property/puzzle-moves","required":true,"many":false},{"pageProperty":"number-property/puzzle-rating","required":true,"many":false},{"pageProperty":"number-property/rating-deviation","required":true,"many":false},{"pageProperty":"number-property/popularity","required":true,"many":false},{"pageProperty":"number-property/nb-plays","required":true,"many":false},{"pageProperty":"text-property/puzzle-themes","required":true,"many":true,"maxCount":null},{"pageProperty":"url-property/game-url","required":true,"many":false},{"pageProperty":"text-property/puzzle-license","required":true,"many":false},{"pageProperty":"select-property/solver-color","required":true,"many":false},{"pageProperty":"text-property/opening-tags","required":false,"many":true,"maxCount":null},{"pageProperty":"boolean-property/solved","required":false,"many":false}]}
+{"propertySlug":"puzzles"}
+{"slug":"puzzles"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

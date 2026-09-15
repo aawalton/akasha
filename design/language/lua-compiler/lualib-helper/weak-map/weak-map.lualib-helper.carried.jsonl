@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the map with its keys weakly, so a key there may still be collected"}
+{"id":"01a08202-0fa9-7dae-887e-8517eee988cc"}
+{"luaExport":"WeakMap"}
+{"slug":"weak-map"}
+{"type":"page-type/lualib-helper"}

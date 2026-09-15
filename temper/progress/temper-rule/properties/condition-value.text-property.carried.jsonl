@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/stopgap","statement":"A number or a list is written here as text whatever kind the test wants."}]}
+{"definition":"what one condition of a rule tests against"}
+{"id":"01a05fd0-3aa5-7e12-bb0a-a40ab13f2405"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"condition-value"}
+{"slug":"condition-value"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

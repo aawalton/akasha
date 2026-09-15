@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path component naming a folder every synth sits under names no package."},{"decisionKind":"decision-kind/departure","statement":"The code file of every `manifest` page the index holds is a synth file."},{"decisionKind":"decision-kind/departure","statement":"A manifest page's synth file is the file that page states its code under."},{"decisionKind":"decision-kind/absence","statement":"No folder and no file name ending is spelled here."}]}
+{"definition":"the synth files a checkout holds"}
+{"id":"01a06810-0b68-74a9-bfee-d2c6c7d2f2fc"}
+{"slug":"synth-discovery"}
+{"test":"ts"}
+{"type":"page-type/module"}

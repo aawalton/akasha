@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The name starts out empty and the game fills the name from the saved variables file."},{"decisionKind":"decision-kind/departure","statement":"The game loads the file before the compiled add-on rather than compiling the two together."}]}
+{"definition":"the one name the companion add-on's saved variables are read back into"}
+{"id":"01a0611d-84d1-7c75-9512-d3ca1613f0bb"}
+{"loadedAs":"TemperCompanionsConfig.lua"}
+{"lua":"lua"}
+{"slug":"companions-config"}
+{"type":"page-type/lua-module"}

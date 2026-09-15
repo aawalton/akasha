@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Arithmetic nodes are delegated to a shared framework evaluator."},{"decisionKind":"decision-kind/constraint","statement":"An arithmetic node reaching the leaf evaluator throws."},{"decisionKind":"decision-kind/gap","statement":"A metric reference missing from the value map reads as zero."}]}
+{"definition":"the number a companion metric's formula tree works out to"}
+{"id":"01a06152-c2c8-7842-b7a4-49754c4f6418"}
+{"slug":"companion-formula-evaluator"}
+{"type":"page-type/module"}

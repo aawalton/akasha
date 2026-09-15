@@ -1,0 +1,17 @@
+{"baseName":"Surge"}
+{"description":"\"Invoke Meridia's name to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff33|r seconds.\\n\\nWhile active, dealing Critical Damage heals you for |cffffff3366|r Health. This effect can occur once every |cffffff1|r second.\""}
+{"esoSkillId":23678}
+{"icon":"/esoui/art/icons/ability_sorcerer_critical_surge.dds"}
+{"id":"019e6f53-a03d-750f-a516-2ab238e25a2b"}
+{"isMorph":true}
+{"key":"critical-surge-23678"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":2}
+{"rank":30}
+{"skillLineId":"sorcerer-storm-calling"}
+{"skillType":"active"}
+{"slug":"critical-surge-23678"}
+{"subcategoryId":"sorcerer-storm-calling"}
+{"title":"Critical Surge"}
+{"type":"page-type/temper-skill"}

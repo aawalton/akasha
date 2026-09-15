@@ -1,0 +1,11 @@
+{"abbreviation":"H"}
+{"description":"Focused on healing and supporting allies"}
+{"displayOrder":2}
+{"id":"01a05fce-c49b-75a1-9fc2-ec3182e2d2e2"}
+{"key":"healer"}
+{"slug":"healer"}
+{"title":"Healer"}
+{"type":"page-type/temper-companion-base-role"}
+{"validArmorWeights":["light"]}
+{"validTraitIds":["soothing","quickened","focused"]}
+{"validWeaponRoleIds":["restoration-staff"]}

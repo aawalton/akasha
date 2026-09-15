@@ -1,0 +1,23 @@
+{"characters":"jsonl"}
+{"controlledEntityKind":"single"}
+{"coordinatorAgent":"awen-gm--the-tower"}
+{"displayConfig":"json"}
+{"entities":"jsonl"}
+{"externalId":"the-tower"}
+{"gameEngine":"awen"}
+{"genre":["litrpg"]}
+{"gmContext":"json"}
+{"id":"01a0673f-a3d7-7000-afc1-88181be588cb"}
+{"mechanicsWeight":"heavy"}
+{"resolution":"formula"}
+{"resolutionMechanism":"json"}
+{"rolls":"jsonl"}
+{"rulebook":"json"}
+{"slug":"the-tower"}
+{"states":"jsonl"}
+{"title":"The Tower"}
+{"towerFloors":"jsonl"}
+{"towerSessions":"jsonl"}
+{"turns":"jsonl"}
+{"type":"page-type/game"}
+{"unit":"unit/words"}

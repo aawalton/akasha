@@ -1,0 +1,17 @@
+{"baseName":"Fan the Flames"}
+{"description":"\"Tend to your garden of flame, that it may flourish.\\n\\nIncreases your chances of applying the Burning status effect by |cffffff25|r% and its damage done by |cffffff12|r%. These values are influenced by the number of Dragonknight abilities slotted.\""}
+{"esoSkillId":29439}
+{"icon":"/esoui/art/icons/ability_dragonknight_028.dds"}
+{"id":"019e6f53-a1dd-70da-8a44-c5bc310c2585"}
+{"isMorph":false}
+{"key":"fan-the-flames"}
+{"learnedLevel":22}
+{"lineRankNeeded":22}
+{"morphIndex":0}
+{"rank":22}
+{"skillLineId":"dragonknight-ardent-flame"}
+{"skillType":"passive"}
+{"slug":"fan-the-flames"}
+{"subcategoryId":"dragonknight-ardent-flame"}
+{"title":"Fan the Flames"}
+{"type":"page-type/temper-skill"}

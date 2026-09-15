@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A script is delivered under the host's `/var/tmp` rather than its `/tmp`."},{"decisionKind":"decision-kind/departure","statement":"Every connection skips host key verification."},{"decisionKind":"decision-kind/absence","statement":"No known_hosts entry is kept for a host reached this way."},{"decisionKind":"decision-kind/departure","statement":"The delivered script deletes itself through a trap the shell fires on leaving."},{"decisionKind":"decision-kind/departure","statement":"A connection is given up after four missed keepalives fifteen seconds apart."},{"decisionKind":"decision-kind/departure","statement":"The same options are spelled once as argv and once joined into an -e string."}]}
+{"definition":"the ssh wire settings shared by every ssh and rsync call to a host"}
+{"id":"01a05cee-e560-75d3-9a15-b030e7638a12"}
+{"slug":"ssh-delivery"}
+{"test":"ts"}
+{"type":"page-type/module"}

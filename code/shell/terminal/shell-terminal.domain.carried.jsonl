@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A restart of the editor puts every interactive seat back in the terminal tab that seat held."}]}
+{"definition":"the shell an editor terminal runs"}
+{"id":"01a0884d-5f98-745e-bc9f-ced0318936eb"}
+{"parts":["module/document-present","module/terminal-account-launchers","module/terminal-bash","module/terminal-calls","module/terminal-ended","module/terminal-entry-points","module/terminal-reload","module/terminal-seat-launchers","module/terminal-seat-marks","module/terminal-seat-stating"]}
+{"slug":"shell-terminal"}
+{"type":"page-type/domain"}

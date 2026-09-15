@@ -1,0 +1,11 @@
+{"alliance":"ebonheart-pact"}
+{"classPassiveId":"mirri-dynamic"}
+{"esoCompanionId":2}
+{"icon":"/esoui/art/icons/comp_mirri.dds"}
+{"id":"01a05fcf-591f-7e8b-a141-57ddd4ae8373"}
+{"key":"mirri"}
+{"passiveEffects":"jsonl"}
+{"slug":"mirri"}
+{"subtitle":"The Nightblade"}
+{"title":"Mirri Elendis"}
+{"type":"page-type/temper-eso-companion"}

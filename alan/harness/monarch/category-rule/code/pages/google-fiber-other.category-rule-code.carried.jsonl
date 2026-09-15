@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcd0-7015-82b0-ade5f9790629"}
+{"matches":[{"key":"merchant","comparison":"is","values":["google fiber"]},{"key":"sign","comparison":"is-not","values":["negative"]}]}
+{"slug":"google-fiber-other"}
+{"title":"Google fiber other"}
+{"type":"page-type/category-rule-code"}

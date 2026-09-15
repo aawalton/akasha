@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A store no other store rests on is a disk store."},{"decisionKind":"decision-kind/departure","statement":"A volume is not backed up by default."}]}
+{"definition":"a node-pinned filesystem other stores rest on"}
+{"id":"01a0658b-0f02-7435-bfcf-e778c41f839f"}
+{"slug":"disk-store"}
+{"type":"page-type/domain"}

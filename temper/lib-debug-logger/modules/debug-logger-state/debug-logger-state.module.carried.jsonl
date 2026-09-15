@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every module reaches the same two tables."},{"decisionKind":"decision-kind/departure","statement":"A function on the internal table does nothing until a module fills that function in."},{"decisionKind":"decision-kind/departure","statement":"The session start time is the timestamp at load less the game time already run."}]}
+{"definition":"the library table and the internal table every other module reads and fills in"}
+{"id":"01a06061-4092-7326-8928-e32cb0041b24"}
+{"slug":"debug-logger-state"}
+{"type":"page-type/module"}

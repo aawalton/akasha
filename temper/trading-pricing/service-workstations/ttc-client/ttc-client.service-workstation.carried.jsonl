@@ -1,0 +1,7 @@
+{"definition":"the service keeping Tamriel Trade Centre prices current inside the game's prefix"}
+{"enabled":true}
+{"id":"01a06829-0194-7e8a-b87b-1e6e9ea4fe59"}
+{"needsSecrets":false}
+{"slug":"ttc-client"}
+{"systemd":{"after":["graphical-session.target"],"partOf":"graphical-session.target","wantedBy":"graphical-session.target","restart":"on-failure","restartDelaySeconds":10,"stops":["-/usr/bin/systemctl --user stop app-flatpak-com.github.Matoking.protontricks-*.scope"]}}
+{"type":"page-type/service-workstation"}

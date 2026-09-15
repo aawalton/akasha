@@ -1,0 +1,6 @@
+{"definition":"Alan's messages on iMessage"}
+{"id":"01a07962-b0fa-7141-ae89-2d50447947d2"}
+{"name":"imessage"}
+{"parts":["command/imessage-contact-list","command/imessage-recent-list","command/imessage-search","command/imessage-send","command/imessage-unread-list"]}
+{"slug":"imessage"}
+{"type":"page-type/namespace"}

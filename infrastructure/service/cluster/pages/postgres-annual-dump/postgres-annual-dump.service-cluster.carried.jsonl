@@ -1,0 +1,10 @@
+{"definition":"what writes a whole copy of the database once a year"}
+{"id":"01a06865-c012-7a1d-b102-3faf8416b98f"}
+{"image":"registry.registry.svc.cluster.local:5000/cluster/postgres-annual-dump:r1"}
+{"manifest":["manifest/postgres-annual-dump-manifests"]}
+{"namespace":"postgres"}
+{"resourceKind":"CronJob"}
+{"resourceName":"postgres-annual-dump"}
+{"schedule":"13 5 1 1 *"}
+{"slug":"postgres-annual-dump"}
+{"type":"page-type/service-cluster"}

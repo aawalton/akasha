@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the text between two indexes of other text"}
+{"id":"01a081f7-142d-797b-a071-2a09fc798b47"}
+{"luaExport":"__TS__StringSlice"}
+{"slug":"string-slice"}
+{"type":"page-type/lualib-helper"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An addon folder outside akasha states itself in a file named `addon.json`."},{"decisionKind":"decision-kind/departure","statement":"An akasha package states itself in the manifest file beside its own page."},{"decisionKind":"decision-kind/departure","statement":"A folder with both spellings answers with `addon.json`."},{"decisionKind":"decision-kind/departure","statement":"A folder with neither spelling answers that no addon is there."},{"decisionKind":"decision-kind/departure","statement":"A folder with two manifests beside pages is thrown on."},{"decisionKind":"decision-kind/departure","statement":"The page a folder holds is asked of the index rather than read off the folder."},{"decisionKind":"decision-kind/departure","statement":"A page's file is that page's name, a property's slug and the form the page states."},{"decisionKind":"decision-kind/departure","statement":"A folder outside the checkout holds no page, so the game's spelling alone answers."},{"decisionKind":"decision-kind/absence","statement":"No file name ending is spelled here."}]}
+{"definition":"where in an addon's own folder the file the addon states itself in is found"}
+{"id":"01a060e2-4d62-7a26-8c08-d2b7be0f14ff"}
+{"slug":"addon-manifest-file"}
+{"test":"ts"}
+{"type":"page-type/module"}

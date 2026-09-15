@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"an array folded from its end into one value"}
+{"id":"01a08c5d-7e26-7bb8-abac-05805fff764f"}
+{"luaExport":"__TS__ArrayReduceRight"}
+{"slug":"array-reduce-right"}
+{"type":"page-type/lualib-helper"}

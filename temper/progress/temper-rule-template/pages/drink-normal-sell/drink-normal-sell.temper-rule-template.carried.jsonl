@@ -1,0 +1,12 @@
+{"action":"temper-item-action/sell"}
+{"active":false}
+{"categoryId":"drink"}
+{"conditions":"jsonl"}
+{"description":"Sells normal (white) quality non-crafted drinks. Crafted and higher-quality drinks are kept."}
+{"displayOrder":45}
+{"goal":"temper-rule-goal/sell"}
+{"id":"019e3104-262c-7bdc-801a-ba1782a26c77"}
+{"key":"drink-normal-sell"}
+{"slug":"drink-normal-sell"}
+{"title":"Sell basic drinks"}
+{"type":"page-type/temper-rule-template"}

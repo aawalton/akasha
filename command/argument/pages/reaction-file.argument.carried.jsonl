@@ -1,0 +1,7 @@
+{"id":"01a094e5-aa06-7d5d-bda7-1f039460309c"}
+{"placeholder":"file"}
+{"said":"--reaction-file"}
+{"slug":"reaction-file"}
+{"takes":"the file the reaction is read from"}
+{"type":"page-type/argument"}
+{"value":"path"}

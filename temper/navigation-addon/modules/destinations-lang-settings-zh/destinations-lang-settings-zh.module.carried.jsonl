@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The table is the runs joined in order."}]}
+{"definition":"the destinations settings strings in Chinese, joined from its runs"}
+{"id":"01a06269-2a34-7a48-a5be-22ec5b2ffc4b"}
+{"slug":"destinations-lang-settings-zh"}
+{"type":"page-type/module"}

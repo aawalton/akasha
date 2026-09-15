@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rung here answers the whole scope of one act in one call."},{"decisionKind":"decision-kind/departure","statement":"A rung here reads the pages carrying the property from the index once."},{"decisionKind":"decision-kind/absence","statement":"No rung here reaches a rung beneath once for each page."}]}
+{"definition":"a mechanical change acting on a page property and on every page with it"}
+{"id":"01a09c4d-191b-725f-98c4-86303f4147e9"}
+{"parts":["change-mechanical/add-page-property","change-mechanical/remove-page-property","change-mechanical/rename-page-property-property-slug"]}
+{"slug":"change-mechanical-page-property"}
+{"type":"page-type/domain"}

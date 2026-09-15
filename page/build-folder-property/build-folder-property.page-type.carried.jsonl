@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A build folder is outside the commit."},{"decisionKind":"decision-kind/departure","statement":"A build writes a build folder again from the source beside it."},{"decisionKind":"decision-kind/departure","statement":"A build folder has a body that is not text."},{"decisionKind":"decision-kind/departure","statement":"Every folder a build writes is declared by a property of this type."},{"decisionKind":"decision-kind/gap","statement":"A change moving a folder leaves out the folders this property names."},{"decisionKind":"decision-kind/gap","statement":"The paths git is told to ignore are read from this property."}]}
+{"definition":"a page property held in a folder a build writes"}
+{"extends":["page-type/named-folder-property"]}
+{"id":"01a081cd-5b5f-731e-95ed-0ea5ee3b352b"}
+{"schema":"jsonl"}
+{"shapes":"jsonl"}
+{"slug":"build-folder-property"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

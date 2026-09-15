@@ -1,0 +1,11 @@
+{"description":"Grants Speed, Restore Stamina, Increase Weapon Power."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_005_type_005.dds"}
+{"id":"019e21f6-4055-70c3-bd32-673eadc5dbe7"}
+{"key":"brutality-endurance-expedition-stamina-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Blessed Thistle","Dragon Rheum","Dragonthorn"]},{"names":["Blessed Thistle","Dragonthorn","Namira's Rot"]},{"names":["Blessed Thistle","Dragonthorn","Powdered Mother of Pearl"]},{"names":["Blessed Thistle","Dragonthorn","Scrib Jelly"]}]}
+{"seconds":47}
+{"slug":"brutality-endurance-expedition-stamina-restore"}
+{"title":"Essence of Weapon Power"}
+{"type":"page-type/temper-potion-crafted"}

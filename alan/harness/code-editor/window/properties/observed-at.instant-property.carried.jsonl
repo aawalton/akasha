@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The time is the one the observer read off its own clock as it wrote."},{"decisionKind":"decision-kind/departure","statement":"A write that lands nothing new leaves this time where that time was."}]}
+{"definition":"when what a window holds of its features was last observed"}
+{"id":"01a0a147-e5bb-7e9f-8e65-f498b08af58d"}
+{"propertySlug":"observed-at"}
+{"slug":"observed-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

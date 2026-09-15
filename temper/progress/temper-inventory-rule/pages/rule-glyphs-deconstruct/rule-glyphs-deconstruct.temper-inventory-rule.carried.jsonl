@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/deconstruct"}
+{"active":true}
+{"categoryId":"glyphs"}
+{"conditions":"jsonl"}
+{"description":"Deconstructs non-crafted glyphs for enchanting materials. Yields runes that can be reused in crafting."}
+{"displayOrder":56}
+{"fromTemplate":"temper-rule-template/glyphs-deconstruct"}
+{"goal":"temper-rule-goal/hoard"}
+{"id":"01a0728b-4fbc-77ff-8a3c-78b19009ed0e"}
+{"locked":true}
+{"slug":"rule-glyphs-deconstruct"}
+{"title":"Deconstruct glyphs"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-05-04T16:04:31.132Z"}

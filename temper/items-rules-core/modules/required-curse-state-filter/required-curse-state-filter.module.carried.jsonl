@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This filter reads and writes the `requiredCurseState` condition alone."},{"decisionKind":"decision-kind/departure","statement":"A rule whose action is other than `stock` is offered no Required Curse State condition."}]}
+{"definition":"the Required Curse State condition a rule may carry, as the rule editor offers it"}
+{"id":"01a06100-3bf8-73ef-a10e-397900927cf5"}
+{"slug":"required-curse-state-filter"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"definition":"every base image the cluster builds on copied into the local registry"}
+{"id":"01a06865-abff-7014-b7ef-ce7f60e655a8"}
+{"scripting":{}}
+{"shell":"sh"}
+{"slug":"mirror-base-images"}
+{"sourced":false}
+{"type":"page-type/shell-script"}

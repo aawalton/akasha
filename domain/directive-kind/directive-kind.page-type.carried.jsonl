@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every kind of directive is the same four lines and differs in that kind's definition."}]}
+{"definition":"which sort one directive is"}
+{"extends":["page-type/domain"]}
+{"id":"01a04e1f-cbf6-755d-bd7d-e46ba13c0087"}
+{"parts":["directive-kind/principle","directive-kind/rule"]}
+{"schema":"jsonl"}
+{"slug":"directive-kind"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

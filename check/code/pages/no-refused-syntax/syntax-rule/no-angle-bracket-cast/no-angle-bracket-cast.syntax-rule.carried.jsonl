@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The form is found in the parse and never in the text."},{"decisionKind":"decision-kind/departure","statement":"`as` is the spelling an assertion is written in."},{"decisionKind":"decision-kind/departure","statement":"The same characters in a `.tsx` file are read as a tag rather than as an assertion."},{"decisionKind":"decision-kind/departure","statement":"How the assertion is written is judged here rather than the type that assertion asserts."},{"decisionKind":"decision-kind/departure","statement":"One assertion wrapping another assertion is refused once for each assertion."},{"decisionKind":"decision-kind/departure","statement":"A type argument written on a call has the same brackets and is untouched."},{"decisionKind":"decision-kind/absence","statement":"The same assertion written with `as` is left."}]}
+{"definition":"the rule refusing an assertion written as `<Type>value`"}
+{"id":"01a05964-deb4-78ba-943a-0870780ca4d5"}
+{"slug":"no-angle-bracket-cast"}
+{"test":"ts"}
+{"type":"page-type/syntax-rule"}

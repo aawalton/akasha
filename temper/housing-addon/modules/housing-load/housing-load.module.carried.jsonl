@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Loading begins the port-to-friend part and nothing else."}]}
+{"definition":"what the housing add-on does once the game has loaded the add-on"}
+{"id":"01a06129-7a21-7959-af2e-c0db6ac6ac25"}
+{"slug":"housing-load"}
+{"type":"page-type/module"}

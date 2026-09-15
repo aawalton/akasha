@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path is spelled out as far as anything exists on disk and left alone after that point."},{"decisionKind":"decision-kind/departure","statement":"A path that cannot be spelled out at all is answered as that path was given."}]}
+{"definition":"a path spelled out in full, and whether it is inside a repository"}
+{"id":"01a05cc6-2a1c-751d-8813-33c04d9c2005"}
+{"slug":"repo-path"}
+{"type":"page-type/module"}

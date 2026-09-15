@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A table handed back to a caller is a shallow copy rather than the library's own table."}]}
+{"definition":"the small conversions shared across this library, from language choice to guarded chat input"}
+{"id":"01a061fc-cee9-7baa-81aa-c052ca2349fa"}
+{"slug":"lib-sets-core-helpers"}
+{"type":"page-type/module"}

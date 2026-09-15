@@ -1,0 +1,7 @@
+{"definition":"how many days a rotation runs before it comes round again"}
+{"id":"01a05fc4-7a90-760c-b5a4-05db1aebe326"}
+{"max":null}
+{"propertySlug":"cycle-length"}
+{"slug":"cycle-length"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Credentials the environment lacks are named in the refusal rather than left to fail at the store."},{"decisionKind":"decision-kind/departure","statement":"The input is stored before the job is created."},{"decisionKind":"decision-kind/departure","statement":"A job that does not succeed is raised with the tail of its pod's log."}]}
+{"definition":"upscaling one image on a cluster GPU by running a job and reading the object back"}
+{"id":"01a0685d-4b35-7018-b4c3-09ff288b2bf1"}
+{"slug":"upscale-cluster"}
+{"type":"page-type/module"}

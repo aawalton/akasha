@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A length is the collection's own rather than the sum of the parts that collection has."}]}
+{"definition":"how long a collection is, counted in its own unit"}
+{"id":"01a06553-4713-7000-832b-753158e3fec9"}
+{"max":null}
+{"propertySlug":"own-length"}
+{"slug":"own-length"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

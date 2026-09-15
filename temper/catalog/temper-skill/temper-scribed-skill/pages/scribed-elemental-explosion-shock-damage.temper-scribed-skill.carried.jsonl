@@ -1,0 +1,19 @@
+{"baseName":"Elemental Explosion"}
+{"description":"Deals 4009 Shock Damage to enemies."}
+{"esoSkillId":217228}
+{"focusScriptId":"shock-damage"}
+{"grimoireId":"elemental-explosion"}
+{"icon":"/esoui/art/icons/ability_grimoire_staffdestro.dds"}
+{"id":"019e6471-15aa-752b-890d-0c2ed21df9b4"}
+{"isMorph":false}
+{"key":"scribed-elemental-explosion-shock-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"scribed-elemental-explosion-shock-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Shocking Explosion"}
+{"type":"page-type/temper-scribed-skill"}

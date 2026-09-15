@@ -1,0 +1,19 @@
+{"baseName":"Spell Warding"}
+{"description":"\"Increases your Spell Resistance by 726 for each piece of Light Armor equipped. \\n\\nCurrent bonus: 0.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45559}
+{"icon":"/esoui/art/icons/ability_armor_006.dds"}
+{"id":"019e6238-c318-78f3-8e50-aaffd0809693"}
+{"isMorph":false}
+{"key":"spell-warding"}
+{"learnedLevel":1}
+{"lineRankNeeded":14}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"armor-light-armor"}
+{"skillType":"passive"}
+{"slug":"spell-warding"}
+{"status":"supported"}
+{"subcategoryId":"armor-light-armor"}
+{"title":"Spell Warding"}
+{"type":"page-type/temper-skill"}

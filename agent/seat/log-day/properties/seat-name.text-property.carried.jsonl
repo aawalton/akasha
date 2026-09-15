@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This property is text rather than a relation to a seat."},{"decisionKind":"decision-kind/departure","statement":"A day of lines outlives the seat the day names."},{"decisionKind":"decision-kind/departure","statement":"A name here may be a name no seat has now."}]}
+{"definition":"the name of the seat whose processes wrote a day of lines"}
+{"id":"01a0657c-cb14-7705-a95e-4fca37cc48c2"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"seat-name"}
+{"slug":"seat-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,6 @@
+{"definition":"the service writing the calories Alan burned moving onto the days he burned them"}
+{"enabled":true}
+{"id":"01a07724-a486-7717-8141-ae09cdb04434"}
+{"slug":"active-calories-service"}
+{"systemd":{"schedule":"*:0/10","jitterSeconds":30,"startTimeoutSeconds":300,"catchUp":false}}
+{"type":"page-type/service-workstation"}

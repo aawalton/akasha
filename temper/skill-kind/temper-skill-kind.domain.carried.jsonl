@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A skill itself is named outside this folder."},{"decisionKind":"decision-kind/departure","statement":"Every table here is written out from the skill pages rather than by hand."}]}
+{"definition":"the kinds a skill is sorted by and the shapes a skill activation effect is written in"}
+{"id":"01a060db-b2bf-75cc-8809-206da241df83"}
+{"parts":["module/scribing-affix-scripts","module/scribing-focus-scripts","module/scribing-signature-scripts","module/skill-activation-effect-types","module/skill-bars","module/skill-buff-debuff-types","module/skill-slots","module/skill-types","module/skill-value-formulas","module/skills-source","module/special-effect-types","module/status-effect-types","module/target-scopes","module/target-types"]}
+{"slug":"temper-skill-kind"}
+{"type":"page-type/domain"}

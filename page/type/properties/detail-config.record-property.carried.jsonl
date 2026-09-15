@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type states here how a page of that type is laid out on a screen of its own."},{"decisionKind":"decision-kind/departure","statement":"A page type stating no detail config takes the layout the page type above states."},{"decisionKind":"decision-kind/departure","statement":"A page type with no detail config here or above is laid out plainly."},{"decisionKind":"decision-kind/departure","statement":"A page gathering other pages is laid out by the pages that page gathers."}]}
+{"definition":"how one page of a page type is laid out where that page is read on its own"}
+{"id":"01a0683a-620a-7046-8715-e1d2a2aa8586"}
+{"properties":[{"pageProperty":"record-property/detail-frame","required":false,"many":false},{"pageProperty":"text-property/body-property-id","required":false,"many":false},{"pageProperty":"boolean-property/full-bleed","required":false,"many":false},{"pageProperty":"boolean-property/show-reading-progress","required":false,"many":false},{"pageProperty":"boolean-property/mark-read-on-end","required":false,"many":false},{"pageProperty":"text-property/progress-property-id","required":false,"many":false},{"pageProperty":"text-property/length-property-id","required":false,"many":false},{"pageProperty":"record-property/collection-header","required":false,"many":false},{"pageProperty":"record-property/child-collection","required":false,"many":false}]}
+{"propertySlug":"detail-config"}
+{"slug":"detail-config"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

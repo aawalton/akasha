@@ -1,0 +1,8 @@
+{"definition":"the harmful effect an effect puts on whoever it lands on"}
+{"id":"01a06193-6ca5-7924-8fb4-639028413f96"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"debuff"}
+{"slug":"debuff-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

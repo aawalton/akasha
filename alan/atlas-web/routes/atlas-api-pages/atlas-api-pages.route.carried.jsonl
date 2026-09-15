@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the pages of one type a browser asks for"}
+{"id":"01a08298-e950-747c-a370-3573c51ca7ee"}
+{"slug":"atlas-api-pages"}
+{"type":"page-type/route"}
+{"urlPath":"api/pages/:pageTypeSlug"}

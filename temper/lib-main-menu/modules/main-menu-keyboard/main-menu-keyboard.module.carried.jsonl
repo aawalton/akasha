@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The game owns the object reached here."},{"decisionKind":"decision-kind/departure","statement":"Every reach for the game's menu goes through this one module."}]}
+{"definition":"the keyboard main menu object the game itself puts up"}
+{"id":"01a0605b-c803-7076-8256-6e18f678aa85"}
+{"slug":"main-menu-keyboard"}
+{"type":"page-type/module"}

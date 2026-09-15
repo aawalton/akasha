@@ -1,0 +1,8 @@
+{"displayOrder":2}
+{"id":"019e2fcd-59d3-7541-84b0-55fc86ab93c4"}
+{"nodeId":"concussion-damage"}
+{"nodeType":"metric"}
+{"parent":"subcategory-status-damage"}
+{"slug":"metric-concussion-damage"}
+{"title":"Concussion Damage"}
+{"type":"page-type/temper-metric-tree"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"This route exports `action` alone."},{"decisionKind":"decision-kind/constraint","statement":"React Router strips only `loader` and `action` and `middleware` and `headers` from the browser."}]}
+{"definition":"the answer to a question a browser puts"}
+{"id":"01a082a0-4e24-772e-9707-d1ad4af1da6b"}
+{"slug":"api-ask"}
+{"type":"page-type/route"}
+{"urlPath":"api/ask"}

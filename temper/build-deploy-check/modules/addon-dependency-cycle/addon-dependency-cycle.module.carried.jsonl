@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A cycle the search reaches a second time is reported once."},{"decisionKind":"decision-kind/constraint","statement":"A cycle is named from its alphabetically first member."},{"decisionKind":"decision-kind/constraint","statement":"An edge to an add-on outside the roster is no edge."}]}
+{"definition":"the cycles in what a game add-on declares it loads after"}
+{"id":"01a06297-7f6a-7306-9a6f-acca84ccb4b8"}
+{"slug":"addon-dependency-cycle"}
+{"type":"page-type/module"}

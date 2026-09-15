@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page taken away has the uncommitted files beside it taken away as well."},{"decisionKind":"decision-kind/departure","statement":"Which files sit beside a page is read from the page rather than from the folder."},{"decisionKind":"decision-kind/departure","statement":"The page read is the one whose own file the change takes away."},{"decisionKind":"decision-kind/departure","statement":"A path that is no page has nothing swept beside it."},{"decisionKind":"decision-kind/departure","statement":"Only a file whose name says the file is uncommitted is swept."},{"decisionKind":"decision-kind/departure","statement":"A file the change already names is swept by nothing."},{"decisionKind":"decision-kind/departure","statement":"A file the tree holds no body at is swept by nothing."},{"decisionKind":"decision-kind/departure","statement":"A change taking no page away reads no page."},{"decisionKind":"decision-kind/absence","statement":"A page a move carries off is swept by nothing."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes."}]}
+{"definition":"the uncommitted files beside a page, gone with the page rather than left behind"}
+{"id":"01a09497-3f38-7f42-8d3d-b4b296f80bea"}
+{"slug":"beside-sweeping"}
+{"test":"ts"}
+{"type":"page-type/module"}

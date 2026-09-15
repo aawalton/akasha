@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/sell"}
+{"active":true}
+{"categoryId":"poisons"}
+{"conditions":"jsonl"}
+{"description":"Sells normal (white) quality non-crafted poisons. Crafted and higher-quality poisons are kept."}
+{"displayOrder":72}
+{"fromTemplate":"temper-rule-template/poisons-normal-sell"}
+{"goal":"temper-rule-goal/sell"}
+{"id":"01a0728b-6d6d-78ad-89e0-d935fa86f48a"}
+{"locked":true}
+{"slug":"rule-poisons-normal-sell"}
+{"title":"Sell basic poisons"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-05-04T16:04:31.132Z"}

@@ -1,0 +1,12 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/destroy"}
+{"active":true}
+{"categoryId":"containers"}
+{"conditions":"jsonl"}
+{"description":"Destroys known containers (reward already owned) with guild-store value < 5000g. Raised from 1000 to match the uniform 5000g line."}
+{"displayOrder":10}
+{"id":"01a0728a-d6fe-7dbb-9828-69865270334a"}
+{"locked":true}
+{"slug":"rule-3b55dc81"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-06-02T20:49:28.407Z"}

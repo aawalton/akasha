@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A master list is read only while its api matches the client's."}]}
+{"definition":"the pre-scanned master list that spares a fresh install the datamine"}
+{"id":"01a0622b-dc55-7c17-a578-3d9496020824"}
+{"slug":"knowledge-base-data"}
+{"type":"page-type/module"}

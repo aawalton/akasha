@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The root manifest names this entry, so no manifest sits here."},{"decisionKind":"decision-kind/departure","statement":"The editor reaches the repository root by a link and reads the root manifest."},{"decisionKind":"decision-kind/departure","statement":"A panel and a command and a menu and a color are stated in the root manifest."},{"decisionKind":"decision-kind/departure","statement":"The editor reads the manifest before any code here is loaded."},{"decisionKind":"decision-kind/constraint","statement":"The extension host strips the types, so the entry reaches only erasable syntax."},{"decisionKind":"decision-kind/departure","statement":"A panel's code sits in the `extension` domain rather than here."},{"decisionKind":"decision-kind/departure","statement":"The extension is identified as `vscode.akasha` wherever the editor keeps its state."}]}
+{"definition":"the extension this repository gives the editor"}
+{"id":"01a0680b-7175-7002-8feb-84b86f70fc2f"}
+{"parts":["module/extension-entry"]}
+{"slug":"ops-extension"}
+{"type":"page-type/domain"}

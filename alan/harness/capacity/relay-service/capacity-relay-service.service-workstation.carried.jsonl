@@ -1,0 +1,7 @@
+{"definition":"the service carrying the capacity hours to the sites that show them"}
+{"enabled":true}
+{"id":"01a06230-614f-7c7a-b4f2-d985546de7af"}
+{"needsSecrets":true}
+{"slug":"capacity-relay-service"}
+{"systemd":{"schedule":"*:2/5","jitterSeconds":30,"startTimeoutSeconds":60,"catchUp":false}}
+{"type":"page-type/service-workstation"}

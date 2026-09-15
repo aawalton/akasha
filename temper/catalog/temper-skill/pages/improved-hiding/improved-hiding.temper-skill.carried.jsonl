@@ -1,0 +1,19 @@
+{"baseName":"Improved Hiding"}
+{"description":"\"Reduces the cost of Sneak by 40%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":63802}
+{"icon":"/esoui/art/icons/ability_legerdemain_improvedsneak.dds"}
+{"id":"019e6251-4cc6-72b1-bf55-0c8dc32d9e43"}
+{"isMorph":false}
+{"key":"improved-hiding"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"world-legerdemain"}
+{"skillType":"passive"}
+{"slug":"improved-hiding"}
+{"status":"supported"}
+{"subcategoryId":"world-legerdemain"}
+{"title":"Improved Hiding"}
+{"type":"page-type/temper-skill"}

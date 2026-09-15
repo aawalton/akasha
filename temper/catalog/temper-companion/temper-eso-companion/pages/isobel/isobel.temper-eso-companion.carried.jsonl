@@ -1,0 +1,11 @@
+{"alliance":"daggerfall-covenant"}
+{"classPassiveId":"isobel-enchanted"}
+{"esoCompanionId":6}
+{"icon":"/esoui/art/icons/comp_isobel.dds"}
+{"id":"01a05fcf-591f-7d0a-906f-b8555838244f"}
+{"key":"isobel"}
+{"passiveEffects":"jsonl"}
+{"slug":"isobel"}
+{"subtitle":"The Templar"}
+{"title":"Isobel Veloise"}
+{"type":"page-type/temper-eso-companion"}

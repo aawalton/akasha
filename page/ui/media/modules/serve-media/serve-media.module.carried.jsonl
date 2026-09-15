@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"a page's rendered media answered over HTTP, with byte ranges capped"}
+{"id":"01a0629c-1ef6-7464-b843-8fc8bf31770a"}
+{"slug":"serve-media"}
+{"type":"page-type/module"}

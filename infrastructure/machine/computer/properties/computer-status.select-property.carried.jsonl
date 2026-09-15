@@ -1,0 +1,7 @@
+{"definition":"where it is in Alan's hands"}
+{"id":"01a0658c-329a-7a34-a07d-25a81f30954a"}
+{"propertySlug":"computer-status"}
+{"slug":"computer-status"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["active","needs-repair","prepare-to-sell","listed","sold","in-storage","option"]}

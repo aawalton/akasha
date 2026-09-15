@@ -1,0 +1,11 @@
+{"containerPort":3000}
+{"definition":"what serves the parts of Temper that run in a browser"}
+{"id":"01a05b26-f8b6-7b51-a3bf-3c4d1128e7e8"}
+{"image":"registry.registry.svc.cluster.local:5000/cluster/bun-git:latest"}
+{"manifest":["manifest/temper-web-manifests"]}
+{"namespace":"temper"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"web"}
+{"slug":"temper-web"}
+{"type":"page-type/service-cluster"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page recorded as read at its end is recorded as read to its whole length."},{"decisionKind":"decision-kind/departure","statement":"A page already recorded as read is left as that page stands."}]}
+{"definition":"whether coming to the end of a page records that page as read"}
+{"id":"01a0683a-620a-702a-911f-7f996e1b3876"}
+{"propertySlug":"mark-read-on-end"}
+{"slug":"mark-read-on-end"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

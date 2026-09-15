@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This code is written out from the skill pages rather than by hand."}]}
+{"definition":"the twelve status effects a skill puts on what it hits"}
+{"id":"01a060db-b2be-7c53-bc5c-ef2d9e30a4ae"}
+{"slug":"status-effect-types"}
+{"type":"page-type/module"}

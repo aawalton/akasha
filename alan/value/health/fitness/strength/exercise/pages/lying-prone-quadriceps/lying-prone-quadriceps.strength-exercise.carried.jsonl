@@ -1,0 +1,26 @@
+{"equipment":"strength-exercise-implement/body-only"}
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"Lying_Prone_Quadriceps"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Prone_Quadriceps"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"expert"}
+{"exerciseSource":"free-exercise-db"}
+{"gripDemand":"none"}
+{"id":"019ebc77-9874-7e2c-9413-7a2fefe66bfe"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Prone_Quadriceps/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Prone_Quadriceps/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"mobility"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["quadriceps"]}
+{"scoringMode":"time"}
+{"sfrScore":3}
+{"skillCost":"moderate"}
+{"slug":"lying-prone-quadriceps"}
+{"title":"Lying Prone Quadriceps"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

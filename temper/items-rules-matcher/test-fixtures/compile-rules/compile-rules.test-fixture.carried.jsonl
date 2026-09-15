@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each rule compiles on its own."},{"decisionKind":"decision-kind/departure","statement":"The order the rules were given is kept."}]}
+{"definition":"a whole list of saved rules compiled at once for a property test"}
+{"id":"01a06151-370b-7db1-8ce0-836dab4a6093"}
+{"slug":"compile-rules"}
+{"type":"page-type/test-fixture"}

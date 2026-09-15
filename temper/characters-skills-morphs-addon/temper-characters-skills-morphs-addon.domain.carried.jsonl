@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A skill line the game has not shown the character is left unread."},{"decisionKind":"decision-kind/departure","statement":"A rank the game reports is taken beside the saved rank and the larger rank kept."},{"decisionKind":"decision-kind/departure","statement":"A morphed skill is read as having its base at full rank."},{"decisionKind":"decision-kind/departure","statement":"Everything here names the game's own numbers rather than akasha ids."}]}
+{"definition":"the morphs a character has taken, read from the game and shown on that character's tasks"}
+{"id":"01a062ff-2792-7da8-8bfd-3a48ace9bf53"}
+{"parts":["module/skill-morph-strip","module/skill-morph-task-hud","module/skill-morph-task-progress","module/skill-morph-tracking"]}
+{"slug":"temper-characters-skills-morphs-addon"}
+{"type":"page-type/domain"}

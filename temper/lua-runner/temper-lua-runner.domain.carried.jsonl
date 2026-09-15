@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The interpreter is the `lua5.1` binary on the path rather than a binary bundled here."},{"decisionKind":"decision-kind/departure","statement":"One subprocess answers many scripts in turn."},{"decisionKind":"decision-kind/departure","statement":"A value crosses back from Lua as JSON."},{"decisionKind":"decision-kind/departure","statement":"A value crosses into Lua as a Lua literal written out here."},{"decisionKind":"decision-kind/departure","statement":"The Lua the subprocess loads first is a file beside a page rather than a string."},{"decisionKind":"decision-kind/absence","statement":"Nothing here compiles TypeScript to Lua."}]}
+{"definition":"a Lua 5.1 interpreter kept alive in a subprocess and talked to over a pipe"}
+{"id":"01a06059-248e-7afb-9115-253f8636048f"}
+{"parts":["lua-module/eso-sandbox-prelude","lua-module/lua-driver","module/lua-marshal","module/lua-number-string","module/lua-protocol","module/lua-vm","module/persistent-vm","module/sandboxed-lua-vm"]}
+{"slug":"temper-lua-runner"}
+{"type":"page-type/domain"}

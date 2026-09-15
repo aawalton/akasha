@@ -1,0 +1,7 @@
+{"definition":"the service filing each new Wandering Inn chapter as a page"}
+{"enabled":true}
+{"id":"01a06829-0194-7944-8222-878e84344e48"}
+{"needsSecrets":false}
+{"slug":"wandering-inn-sync"}
+{"systemd":{"schedule":"*-*-* 07:40:00","jitterSeconds":300,"catchUp":true,"startTimeoutSeconds":10800}}
+{"type":"page-type/service-workstation"}

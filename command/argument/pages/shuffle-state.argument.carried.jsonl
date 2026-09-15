@@ -1,0 +1,7 @@
+{"id":"01a0a027-e111-7251-a3b3-9db653ec1ed9"}
+{"placeholder":"on|off"}
+{"said":"--shuffle"}
+{"slug":"shuffle-state"}
+{"takes":"whether a device draws its tracks at random or in the order they are queued"}
+{"type":"page-type/argument"}
+{"value":"text"}

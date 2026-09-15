@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The whole read of the game waits three seconds after the player is active."}]}
+{"definition":"what this add-on does as the game loads it"}
+{"id":"01a0632d-cc5a-7037-a4bb-7d5cd7da43f5"}
+{"slug":"characters-entry"}
+{"type":"page-type/module"}

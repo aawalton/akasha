@@ -1,0 +1,9 @@
+{"blackAt":100}
+{"blueAt":0}
+{"definition":"how near an inbox came to empty in a day"}
+{"greenAt":1}
+{"id":"01a06230-b155-759a-8649-ed876a1441e8"}
+{"redAt":20}
+{"slug":"lowest-inbox-count"}
+{"type":"page-type/readout-scale"}
+{"yellowAt":10}

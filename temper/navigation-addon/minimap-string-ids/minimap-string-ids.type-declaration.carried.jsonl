@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A string id here is made at load rather than shipped with the game."},{"decisionKind":"decision-kind/absence","statement":"Nothing here runs."}]}
+{"definition":"the string ids the minimap makes for its settings and key bindings"}
+{"id":"01a06269-2b15-7ed4-828d-87a96fe2a139"}
+{"slug":"minimap-string-ids"}
+{"type":"page-type/type-declaration"}

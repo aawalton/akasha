@@ -1,0 +1,5 @@
+{"definition":"a seat's page in akasha, read and written"}
+{"id":"01a09c49-420c-7e83-819d-68f7d075e037"}
+{"parts":["module/seat-akasha-beside","module/seat-akasha-history","module/seat-akasha-read","module/seat-beside","module/seat-page-akasha","module/seat-page-beat","module/seat-page-history","module/seat-page-values","module/seat-page-writing","module/seat-reading","module/seat-record"]}
+{"slug":"seat-page"}
+{"type":"page-type/domain"}

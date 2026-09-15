@@ -1,0 +1,17 @@
+{"baseName":"Scrier's Patience"}
+{"description":"\"Grants you two additional turns of Scrying.\""}
+{"esoSkillId":139779}
+{"icon":"/esoui/art/icons/ability_scrying_06b.dds"}
+{"id":"019e6251-4ce5-7238-ba7a-e02771800bf0"}
+{"isMorph":false}
+{"key":"scriers-patience"}
+{"learnedLevel":5}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"world-scrying"}
+{"skillType":"passive"}
+{"slug":"scriers-patience"}
+{"subcategoryId":"world-scrying"}
+{"title":"Scrier's Patience"}
+{"type":"page-type/temper-skill"}

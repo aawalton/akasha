@@ -1,0 +1,8 @@
+{"displayOrder":2}
+{"id":"019e2fcd-5a7b-713a-b0ef-e950bf15d3d8"}
+{"nodeId":"movement-sneak-speed"}
+{"nodeType":"metric"}
+{"parent":"category-mobility"}
+{"slug":"metric-movement-sneak-speed"}
+{"title":"Movement Sneak Speed"}
+{"type":"page-type/temper-metric-tree"}

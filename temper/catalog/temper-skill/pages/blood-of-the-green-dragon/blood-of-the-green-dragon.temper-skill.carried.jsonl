@@ -1,0 +1,17 @@
+{"baseName":"Dragon Blood"}
+{"description":"\"Draw on your draconic blood to heal for |cffffff5194|r Health, increasing by up to |cffffff50|r% additional healing based on your missing Health. Heals for an additional |cffffff3220|r Health over |cffffff5|r seconds. This ability scales off your Max Health.\\n\\nYou also gain Major Endurance and Fortitude and Minor Vitality, increasing Health and Stamina Recovery by |cffffff30|r% and increasing healing received and damage shield strength by |cffffff6|r% for |cffffff20|r seconds.\""}
+{"esoSkillId":32744}
+{"icon":"/esoui/art/icons/ability_dragonknight_011_b.dds"}
+{"id":"019e6f53-9f52-7e02-8f76-43a6a09197e4"}
+{"isMorph":true}
+{"key":"blood-of-the-green-dragon"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":1}
+{"rank":20}
+{"skillLineId":"dragonknight-draconic-power"}
+{"skillType":"active"}
+{"slug":"blood-of-the-green-dragon"}
+{"subcategoryId":"dragonknight-draconic-power"}
+{"title":"Blood of the Green Dragon"}
+{"type":"page-type/temper-skill"}

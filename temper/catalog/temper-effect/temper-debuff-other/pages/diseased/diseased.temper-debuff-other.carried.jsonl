@@ -1,0 +1,7 @@
+{"description":"Applies Minor Defile, reducing healing received and damage shield strength by 6%"}
+{"effects":"jsonl"}
+{"id":"01a05fc6-42c7-7c2f-8806-54ed3e556738"}
+{"key":"diseased"}
+{"slug":"diseased"}
+{"title":"Diseased"}
+{"type":"page-type/temper-debuff-other"}

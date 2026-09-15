@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A score is the provider's voters' rather than the person's own rank."},{"decisionKind":"decision-kind/departure","statement":"A collection nobody voted on scores nothing rather than stating no score."}]}
+{"definition":"how the provider's voters scored a collection out of ten"}
+{"id":"01a06599-ee09-700a-8a23-63fc2cc72b2f"}
+{"max":10}
+{"propertySlug":"vote-average"}
+{"slug":"vote-average"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

@@ -1,0 +1,13 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/stock"}
+{"active":true}
+{"categoryId":"potions"}
+{"conditions":"jsonl"}
+{"destinationChain":"jsonl"}
+{"displayOrder":19}
+{"id":"01a0728a-f56e-7a62-b457-c78c5ce41801"}
+{"slug":"rule-905b4b47"}
+{"stockScope":"any-character"}
+{"title":"Stock stamina-restoration potions (white)"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-06-03T05:11:34.381Z"}

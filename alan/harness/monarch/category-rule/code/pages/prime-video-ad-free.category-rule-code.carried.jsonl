@@ -1,0 +1,7 @@
+{"category":"monarch-category/shopping"}
+{"id":"01a0655b-fcd1-7002-b752-1cd4113d2d6b"}
+{"matches":[{"key":"merchant","comparison":"is","values":["digital purchase"]},{"key":"amount","comparison":"is","values":["-5.36"]}]}
+{"ruleNote":"Prime Video Ultra subscription"}
+{"slug":"prime-video-ad-free"}
+{"title":"Prime video ad free"}
+{"type":"page-type/category-rule-code"}

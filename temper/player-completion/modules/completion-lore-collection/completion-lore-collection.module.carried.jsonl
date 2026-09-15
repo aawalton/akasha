@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Collections and books are sorted by name rather than by index."}]}
+{"definition":"the first lore collection a character has yet to read out"}
+{"id":"01a06108-2ff0-7e1d-a87a-92a78e75108a"}
+{"slug":"completion-lore-collection"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A lead spanning two zones is shown under both names joined."},{"decisionKind":"decision-kind/departure","statement":"A zone the game has no id for is named here rather than by the game."}]}
+{"definition":"the name a lead's zone is shown under"}
+{"id":"01a06274-b08a-7546-b923-d5ea415aa870"}
+{"slug":"leads-zone-name"}
+{"type":"page-type/module"}

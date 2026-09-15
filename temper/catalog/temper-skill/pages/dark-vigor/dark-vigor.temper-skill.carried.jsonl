@@ -1,0 +1,19 @@
+{"baseName":"Dark Vigor"}
+{"description":"\"Increases your Max Health by 5% for each Shadow ability slotted.\\n\\nCurrent bonus: 0%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45084}
+{"icon":"/esoui/art/icons/ability_sorcerer_044.dds"}
+{"id":"019e6245-a640-7984-a547-a860a1b1f4b9"}
+{"isMorph":false}
+{"key":"dark-vigor"}
+{"learnedLevel":36}
+{"lineRankNeeded":36}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"nightblade-shadow"}
+{"skillType":"passive"}
+{"slug":"dark-vigor"}
+{"status":"supported"}
+{"subcategoryId":"nightblade-shadow"}
+{"title":"Dark Vigor"}
+{"type":"page-type/temper-skill"}

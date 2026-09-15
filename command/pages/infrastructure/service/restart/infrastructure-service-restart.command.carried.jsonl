@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/dry-run"},{"argument":"argument/workstation-service","required":true,"saidAs":"word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One service is named, and one at a time."},{"decisionKind":"decision-kind/departure","statement":"Only that service's own units are reached."},{"decisionKind":"decision-kind/departure","statement":"A page that will not read stops the call before anything is asked."},{"decisionKind":"decision-kind/absence","statement":"Nothing here is installed for the whole machine."}]}
+{"definition":"the command asking systemd to run one service's unit afresh"}
+{"id":"01a09408-da19-7177-908e-7197c74583a4"}
+{"name":"restart"}
+{"slug":"infrastructure-service-restart"}
+{"test":"ts"}
+{"type":"page-type/command"}

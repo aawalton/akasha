@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A write refused for unread rules is told apart from one that failed to save."},{"decisionKind":"decision-kind/departure","statement":"A reader is told nothing was saved and nothing was lost, rather than to retry."}]}
+{"definition":"the inventory rule settings a reader is editing"}
+{"id":"01a0636c-5da1-7d24-92b7-2d9551ec0065"}
+{"slug":"use-inventory-rules-settings-state"}
+{"type":"page-type/module"}

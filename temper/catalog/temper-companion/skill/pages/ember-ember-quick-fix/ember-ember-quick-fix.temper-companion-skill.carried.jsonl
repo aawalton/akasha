@@ -1,0 +1,14 @@
+{"abilityId":166018}
+{"castConditions":"jsonl"}
+{"companionId":"ember"}
+{"description":"Your Companion patches themselves or an ally with restorative magic, healing for $1 Health."}
+{"icon":"/esoui/art/icons/ability_companion_sorcerer_quickfix.dds"}
+{"id":"019e6484-385e-7e59-ad59-ee3e62563dae"}
+{"key":"ember-quick-fix"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-ember-playful-schemer"}
+{"skillType":"active"}
+{"slug":"ember-ember-quick-fix"}
+{"title":"Quick Fix"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer","tank"]}

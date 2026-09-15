@@ -1,0 +1,11 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The plural of doctrine is doctrine."},{"decisionKind":"decision-kind/departure","statement":"One doctrine is here at a time."},{"decisionKind":"decision-kind/departure","statement":"A doctrine has the revision that doctrine is on."},{"decisionKind":"decision-kind/departure","statement":"Each part of a doctrine is a file beside the doctrine."},{"decisionKind":"decision-kind/departure","statement":"A reader loads only the part the reader asked for."},{"decisionKind":"decision-kind/departure","statement":"The words a doctrine has are the game master's rather than akasha's own."}]}
+{"definition":"the rulings a game master runs every game by"}
+{"extends":["page-type/page"]}
+{"id":"01a0826f-8d12-7268-918c-0b3a3574d5f6"}
+{"parts":["file-property/gate-dimensions","file-property/policies","file-property/sheet-template","file-property/tally-catalog","number-property/doctrine-version"]}
+{"properties":[{"pageProperty":"number-property/doctrine-version","required":true,"many":false},{"pageProperty":"file-property/policies","required":false,"many":false},{"pageProperty":"file-property/gate-dimensions","required":false,"many":false},{"pageProperty":"file-property/sheet-template","required":false,"many":false},{"pageProperty":"file-property/tally-catalog","required":false,"many":false}]}
+{"runsTabooCheck":false}
+{"schema":"jsonl"}
+{"slug":"doctrine"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

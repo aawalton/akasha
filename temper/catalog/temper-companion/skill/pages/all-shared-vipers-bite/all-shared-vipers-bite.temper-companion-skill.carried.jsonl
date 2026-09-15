@@ -1,0 +1,13 @@
+{"abilityId":152863}
+{"companionId":"all"}
+{"description":"Your Companion shoots an arrow covered in Baandari poison at an enemy, dealing $1 Poison Damage and an additional $2 Poison Damage over $$2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_bow_002.dds"}
+{"id":"019e668d-c550-7a2f-b045-155ddce14385"}
+{"key":"shared-vipers-bite"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"weapon-bow"}
+{"skillType":"active"}
+{"slug":"all-shared-vipers-bite"}
+{"title":"Viper's Bite"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

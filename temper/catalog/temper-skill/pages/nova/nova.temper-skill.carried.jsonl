@@ -1,0 +1,17 @@
+{"baseName":"Nova"}
+{"description":"\"Call down a fragment of the sun, dealing |cffffff4036|r Magic Damage every |cffffff1|r second for |cffffff8|r seconds to enemies in the area and afflicting them with Major Maim, reducing their damage done by |cffffff10|r%.\\n\\nAn ally near the fragment can activate the Supernova synergy, dealing |cffffff9576|r Magic Damage to all enemies in the area and stunning them for |cffffff3|r seconds.\""}
+{"esoSkillId":21752}
+{"icon":"/esoui/art/icons/ability_templar_nova.dds"}
+{"id":"019e6f53-a4c6-760c-9fb2-913f087cc408"}
+{"isMorph":false}
+{"key":"nova"}
+{"learnedLevel":1}
+{"lineRankNeeded":12}
+{"morphIndex":0}
+{"rank":12}
+{"skillLineId":"templar-dawns-wrath"}
+{"skillType":"ultimate"}
+{"slug":"nova"}
+{"subcategoryId":"templar-dawns-wrath"}
+{"title":"Nova"}
+{"type":"page-type/temper-skill"}

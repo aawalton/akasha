@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The runs are gathered in the order the whole table names."}]}
+{"definition":"every zone the add-on knows a skyshard in, gathered from three runs in order"}
+{"id":"01a061a8-9c65-7706-be69-f1c06fb7d9c0"}
+{"slug":"skyshards-data"}
+{"type":"page-type/module"}

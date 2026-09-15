@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Dragonfire Breath"}
+{"description":"\"Exhale a flaming blast in front of you, dealing |cffffff8820|r Flame Damage to up to 3 enemies and an additional |cffffff7875|r Flame Damage over |cffffff5|r seconds.\""}
+{"esoSkillId":237615}
+{"icon":"/esoui/art/icons/ability_dragonknight_004.dds"}
+{"id":"019e6f53-a8f4-7495-b62f-0e0e7751297a"}
+{"isMorph":false}
+{"key":"vengeance-dragonfire-breath"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-dragonknight-draconic-power"}
+{"skillType":"active"}
+{"slug":"vengeance-dragonfire-breath"}
+{"subcategoryId":"vengeance-dragonknight-draconic-power"}
+{"title":"Vengeance Dragonfire Breath"}
+{"type":"page-type/temper-skill"}

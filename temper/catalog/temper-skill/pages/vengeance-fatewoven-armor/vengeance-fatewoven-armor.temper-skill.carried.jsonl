@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Fatewoven Armor"}
+{"description":"\"Forge defiant runic armor around you, granting Major Resolve for |cffffff20|r seconds, increasing your Armor by |cffffff5948|r and apply Minor Breach to up to 3 nearby enemies for |cffffff20|r seconds, reducing their Armor by |cffffff2974|r.\""}
+{"esoSkillId":238256}
+{"icon":"/esoui/art/icons/ability_arcanist_009.dds"}
+{"id":"019e6f53-a909-7a44-b1b1-d78183e84e5c"}
+{"isMorph":false}
+{"key":"vengeance-fatewoven-armor"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-arcanist-soldier-of-apocrypha"}
+{"skillType":"active"}
+{"slug":"vengeance-fatewoven-armor"}
+{"subcategoryId":"vengeance-arcanist-soldier-of-apocrypha"}
+{"title":"Vengeance Fatewoven Armor"}
+{"type":"page-type/temper-skill"}

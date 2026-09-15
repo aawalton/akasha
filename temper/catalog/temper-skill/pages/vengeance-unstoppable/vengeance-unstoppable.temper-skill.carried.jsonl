@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Unstoppable"}
+{"description":"\"Intensify your physical presence to gain Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\\n\\nAlso grants you immunity to knockback and disabling effects for |cffffff7|r seconds, but reduces your Movement Speed by |cffffff65|r% for the duration.\""}
+{"esoSkillId":247596}
+{"icon":"/esoui/art/icons/ability_armor_001.dds"}
+{"id":"019e6f53-a9a5-7ec3-843d-41449c695493"}
+{"isMorph":false}
+{"key":"vengeance-unstoppable"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-armor"}
+{"skillType":"active"}
+{"slug":"vengeance-unstoppable"}
+{"subcategoryId":"vengeance-armor"}
+{"title":"Vengeance Unstoppable"}
+{"type":"page-type/temper-skill"}

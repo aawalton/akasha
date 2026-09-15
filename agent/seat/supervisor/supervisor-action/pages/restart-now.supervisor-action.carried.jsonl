@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This action interrupts the agent's turn."}]}
+{"definition":"a seat's agent started again in the same session without waiting for the turn to end"}
+{"id":"01a05edb-0c02-70e7-95e4-6172d7896a80"}
+{"slug":"restart-now"}
+{"type":"page-type/supervisor-action"}

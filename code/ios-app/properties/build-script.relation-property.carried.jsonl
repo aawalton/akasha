@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An app stating no build script is not built by any command."},{"decisionKind":"decision-kind/departure","statement":"Which script builds an app is read from its page rather than walked to."}]}
+{"definition":"the script that builds an app"}
+{"id":"01a059b5-9616-700c-8d3b-e1a440b57051"}
+{"propertySlug":"build-script"}
+{"slug":"build-script"}
+{"targetPageType":"page-type/shell-script"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

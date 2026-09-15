@@ -1,0 +1,13 @@
+{"abilityId":191273}
+{"companionId":"azandar"}
+{"description":"Your Companion crafts a trio of runes before launching them at an enemy, dealing $1 Magic Damage three times."}
+{"icon":"/esoui/art/icons/ability_companion_arcanist_runeblades.dds"}
+{"id":"019e6484-3841-7504-a5c3-3e506776506a"}
+{"key":"azandar-the-triune-word"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-azandar-scholar-of-apocrypha"}
+{"skillType":"active"}
+{"slug":"azandar-azandar-the-triune-word"}
+{"title":"The Triune Word"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

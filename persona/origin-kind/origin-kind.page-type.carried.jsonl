@@ -1,0 +1,8 @@
+{"definition":"where a persona's name comes from"}
+{"extends":["page-type/domain"]}
+{"id":"01a05361-6286-7dcd-a5b1-16a97d9c1932"}
+{"parts":["origin-kind/canon","origin-kind/celtic","origin-kind/greek","origin-kind/hebrew","origin-kind/human","origin-kind/invented","origin-kind/norse","origin-kind/sanskrit","origin-kind/welsh"]}
+{"schema":"jsonl"}
+{"slug":"origin-kind"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

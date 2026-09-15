@@ -1,0 +1,7 @@
+{"definition":"the parts of the graph system, and where each is derived from"}
+{"id":"01a047c8-d165-7dc6-a4d7-12800519c6af"}
+{"parents":["all-about-alan-topic/the-graph-i-built-to-run-my-checks"]}
+{"settled":"It is a whole system now, which is why I call it the graph system: nodes, edges, attributes, producers, queries.\n\nParts of it are derived from pages, parts from the filesystem, parts from code, and parts from other places."}
+{"slug":"what-the-graph-is-made-of"}
+{"title":"What The Graph Is Made Of"}
+{"type":"page-type/all-about-alan-topic"}

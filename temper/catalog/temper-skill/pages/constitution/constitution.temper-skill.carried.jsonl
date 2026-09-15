@@ -1,0 +1,19 @@
+{"baseName":"Constitution"}
+{"description":"\"Increases your Health Recovery by 4% for each piece of Heavy Armor equipped. \\n\\nCurrent bonus: 0%.\\n\\nYou restore 108 Magicka and Stamina when you take damage for each piece of Heavy Armor equipped. This effect can occur once every 4 seconds. \\n\\nCurrent bonus: 0.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45526}
+{"icon":"/esoui/art/icons/ability_armor_014.dds"}
+{"id":"019e6238-c2ad-7ba1-8359-5a75a15d6450"}
+{"isMorph":false}
+{"key":"constitution"}
+{"learnedLevel":1}
+{"lineRankNeeded":6}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"armor-heavy-armor"}
+{"skillType":"passive"}
+{"slug":"constitution"}
+{"status":"partially-supported"}
+{"subcategoryId":"armor-heavy-armor"}
+{"title":"Constitution"}
+{"type":"page-type/temper-skill"}

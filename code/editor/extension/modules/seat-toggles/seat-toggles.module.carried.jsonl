@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A running seat is stopped whatever place that seat has."},{"decisionKind":"decision-kind/departure","statement":"A stopped interactive seat is resumed into a terminal."},{"decisionKind":"decision-kind/departure","statement":"A stopped headless seat is revived without a terminal."},{"decisionKind":"decision-kind/departure","statement":"A reset attaches only where the seat has the interactive place."},{"decisionKind":"decision-kind/constraint","statement":"A name that is no seat name is refused rather than put in a command line."},{"decisionKind":"decision-kind/departure","statement":"A seat name is lower-case letters or digits or hyphens after a letter or digit."},{"decisionKind":"decision-kind/departure","statement":"A row's context value names whether the seat runs and where that seat is."},{"decisionKind":"decision-kind/departure","statement":"A seat row is offered only the menu items the manifest hangs on the agent view."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a notice page or names a notice."},{"decisionKind":"decision-kind/absence","statement":"Nothing here performs a step."}]}
+{"definition":"the steps a run or a reset asks of a seat, and the line a terminal attaches by"}
+{"id":"01a0686b-bfe9-7373-bdd9-fdc5b5f86ce5"}
+{"slug":"seat-toggles"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/module"}

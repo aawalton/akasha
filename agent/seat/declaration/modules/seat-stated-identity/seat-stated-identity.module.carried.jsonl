@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat that stated no attribute and no assignment has nothing to check."},{"decisionKind":"decision-kind/departure","statement":"A stated identity that cannot be checked refuses the start rather than a seat without that identity."},{"decisionKind":"decision-kind/departure","statement":"The caller is told the words the resolving function refused with."}]}
+{"definition":"what a starting seat stated, checked against the pages before the seat boots"}
+{"id":"01a0686d-9d5e-7015-b484-a662b772f104"}
+{"slug":"seat-stated-identity"}
+{"type":"page-type/module"}

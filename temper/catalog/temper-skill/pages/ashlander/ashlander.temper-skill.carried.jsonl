@@ -1,0 +1,18 @@
+{"baseName":"Ashlander"}
+{"description":"\"Increases your experience gain with the Dual Wield skill line by 15%.\\n\\nReduces your damage taken from environmental lava by 50%.\""}
+{"esoSkillId":36588}
+{"icon":"/esoui/art/icons/ability_weapon_016.dds"}
+{"id":"019e624a-12bf-791e-a836-4fd14d94080d"}
+{"isMorph":false}
+{"key":"ashlander"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"racial-dark-elf-skills"}
+{"skillType":"passive"}
+{"slug":"ashlander"}
+{"status":"unsupported"}
+{"subcategoryId":"racial-dark-elf-skills"}
+{"title":"Ashlander"}
+{"type":"page-type/temper-skill"}

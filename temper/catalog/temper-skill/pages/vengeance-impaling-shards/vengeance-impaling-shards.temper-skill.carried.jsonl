@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Impaling Shards"}
+{"description":"\"Conjure icy shards around you to skewer up to 3 enemies in the area, dealing |cffffff8820|r Frost Damage and immobilizing them for |cffffff3|r seconds.\""}
+{"esoSkillId":238079}
+{"icon":"/esoui/art/icons/ability_warden_004.dds"}
+{"id":"019e6f53-a927-7f53-a20c-5d874337e19f"}
+{"isMorph":false}
+{"key":"vengeance-impaling-shards"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-warden-winters-embrace"}
+{"skillType":"active"}
+{"slug":"vengeance-impaling-shards"}
+{"subcategoryId":"vengeance-warden-winters-embrace"}
+{"title":"Vengeance Impaling Shards"}
+{"type":"page-type/temper-skill"}

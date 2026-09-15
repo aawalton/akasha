@@ -1,0 +1,7 @@
+{"definition":"which side won a game"}
+{"id":"01a06582-bd62-73ce-a80f-1a8b7b4ca5ca"}
+{"propertySlug":"winner"}
+{"slug":"chess-winner"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["white","black","draw"]}

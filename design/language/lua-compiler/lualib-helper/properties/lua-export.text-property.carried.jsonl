@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A name here is chosen outside akasha."},{"decisionKind":"decision-kind/departure","statement":"The name is stated rather than worked out from the page's slug."}]}
+{"definition":"the name a compiled helper is reached by in Lua"}
+{"id":"01a08168-a789-7c4b-8c96-68f15749213a"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"lua-export"}
+{"slug":"lua-export"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

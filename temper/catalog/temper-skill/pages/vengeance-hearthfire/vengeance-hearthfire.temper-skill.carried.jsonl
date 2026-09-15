@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Hearthfire"}
+{"description":"\"Tend to a warming tinder that heals up to 3 of you and your allies for |cffffff12048|r Health.\""}
+{"esoSkillId":237788}
+{"icon":"/esoui/art/icons/ability_dragonknight_016.dds"}
+{"id":"019e6f53-a924-79e5-9ad8-8bba3a194f79"}
+{"isMorph":false}
+{"key":"vengeance-hearthfire"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-dragonknight-ardent-flame"}
+{"skillType":"active"}
+{"slug":"vengeance-hearthfire"}
+{"subcategoryId":"vengeance-dragonknight-ardent-flame"}
+{"title":"Vengeance Hearthfire"}
+{"type":"page-type/temper-skill"}

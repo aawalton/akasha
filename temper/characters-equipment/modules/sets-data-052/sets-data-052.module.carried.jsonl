@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The sets are named here in the order the gathered table answers its ids in."},{"decisionKind":"decision-kind/gap","statement":"A set moved to another place breaks every build hash saved."}]}
+{"definition":"part 052 of the gear set table, law-of-julianos through lekis-focus"}
+{"id":"01a061a3-3080-7b8a-b3c0-dd2ccac6ef5b"}
+{"slug":"sets-data-052"}
+{"type":"page-type/module"}

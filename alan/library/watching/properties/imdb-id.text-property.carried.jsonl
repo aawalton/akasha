@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An IMDb id sits beside the id of the provider the page was read from."}]}
+{"definition":"the id IMDb gives a show or a film"}
+{"id":"01a06599-ee09-7007-b8a2-be0208de08b8"}
+{"maxLength":20}
+{"nameFormat":null}
+{"propertySlug":"imdb-id"}
+{"slug":"imdb-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

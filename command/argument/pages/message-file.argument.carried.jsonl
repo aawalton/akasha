@@ -1,0 +1,7 @@
+{"id":"01a094e4-c803-7da2-8da8-4b63ff944755"}
+{"placeholder":"file"}
+{"said":"--message-file"}
+{"slug":"message-file"}
+{"takes":"the file the commit message is read from"}
+{"type":"page-type/argument"}
+{"value":"path"}

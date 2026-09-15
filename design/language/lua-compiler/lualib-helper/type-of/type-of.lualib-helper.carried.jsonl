@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the ECMAScript name for the type a Lua value has"}
+{"id":"01a081f7-142d-760d-b2bb-41b07737e0e7"}
+{"luaExport":"__TS__TypeOf"}
+{"slug":"type-of"}
+{"type":"page-type/lualib-helper"}

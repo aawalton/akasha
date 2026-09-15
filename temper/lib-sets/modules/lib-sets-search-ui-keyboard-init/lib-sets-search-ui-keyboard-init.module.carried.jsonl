@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A keystroke in a search box starts a new search 500 milliseconds later."},{"decisionKind":"decision-kind/constraint","statement":"The window adds itself to the game's keyboard systems under the search UI name."}]}
+{"definition":"what a fresh keyboard search window object is built out of"}
+{"id":"01a0623e-53a1-77aa-a5bb-c695082dd24d"}
+{"slug":"lib-sets-search-ui-keyboard-init"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rule the automation settings control is classed by the id those settings gave."},{"decisionKind":"decision-kind/departure","statement":"A rule equipping a companion belongs on a companion card."},{"decisionKind":"decision-kind/departure","statement":"A rule matching neither character nor companion belongs on a category card."}]}
+{"definition":"whether a rule belongs on a character card, on a companion card or on a category card"}
+{"id":"01a06100-3bec-7153-ba2d-05f05d4385d3"}
+{"slug":"inventory-rule-classify"}
+{"type":"page-type/module"}

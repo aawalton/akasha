@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/stopgap","statement":"No account is a page."},{"decisionKind":"decision-kind/gap","statement":"This property is a relation to an account."}]}
+{"definition":"the account an agent in a seat signs in as"}
+{"id":"01a05397-7f9b-783b-b5ec-f0b163957fdf"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"registration-account"}
+{"slug":"registration-account"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

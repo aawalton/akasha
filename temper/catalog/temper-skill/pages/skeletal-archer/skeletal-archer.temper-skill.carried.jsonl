@@ -1,0 +1,17 @@
+{"baseName":"Skeletal Mage"}
+{"description":"\"Unearth a skeletal archer from the dirt to fight by your side for 20 seconds, while granting you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20%. The archer attacks the closest enemy every 2 seconds, dealing 463 Physical Damage.\\n\\nEach time the archer deals damage, it deals 15% more damage than the previous attack.\\n\\nCreates a corpse on death if you are in combat.\""}
+{"esoSkillId":40118680}
+{"icon":"/esoui/art/icons/ability_necromancer_003_a.dds"}
+{"id":"019e6245-a734-7a61-9189-de56b3b13702"}
+{"isMorph":true}
+{"key":"skeletal-archer"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"necromancer-grave-lord"}
+{"skillType":"active"}
+{"slug":"skeletal-archer"}
+{"subcategoryId":"necromancer-grave-lord"}
+{"title":"Skeletal Archer"}
+{"type":"page-type/temper-skill"}

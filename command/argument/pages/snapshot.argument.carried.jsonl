@@ -1,0 +1,7 @@
+{"id":"01a094cb-f4f8-7109-9fa0-5f342220a31f"}
+{"placeholder":"snapshot"}
+{"said":"--snapshot"}
+{"slug":"snapshot"}
+{"takes":"the snapshot read, by its page id or by its slug"}
+{"type":"page-type/argument"}
+{"value":"text"}

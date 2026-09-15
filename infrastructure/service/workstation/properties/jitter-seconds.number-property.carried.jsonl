@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each timer stating this property starts at its own moment."}]}
+{"definition":"how far past its time a timer may start"}
+{"id":"01a05a3f-b42f-70bd-b842-502dd6568a36"}
+{"max":null}
+{"propertySlug":"jitter-seconds"}
+{"slug":"jitter-seconds"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

@@ -1,0 +1,12 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/destroy"}
+{"active":true}
+{"categoryId":"drink"}
+{"conditions":"jsonl"}
+{"description":"Spine step 6: below-superior drink with no merchant value (event drinks) cannot fall to the sell rules - destroy. Companion to the raised drink sell floor (A5)."}
+{"displayOrder":81}
+{"id":"01a0728b-2e7c-76da-9bb6-376fb646b10a"}
+{"slug":"rule-d5eaa312"}
+{"title":"Destroy unsellable low drinks"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-07-05T13:32:43.468Z"}

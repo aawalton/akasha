@@ -1,0 +1,18 @@
+{"baseName":"Spear Wall"}
+{"description":"\"Gain Minor Berserk and Minor Protection for 6 seconds, increasing damage done and reducing damage taken by 5%.\""}
+{"esoSkillId":44721}
+{"icon":"/esoui/art/icons/ability_templar_027.dds"}
+{"id":"019e6245-a73e-7310-b09d-48560670abaa"}
+{"isMorph":false}
+{"key":"spear-wall"}
+{"learnedLevel":1}
+{"lineRankNeeded":14}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"templar-aedric-spear"}
+{"skillType":"passive"}
+{"slug":"spear-wall"}
+{"status":"unsupported"}
+{"subcategoryId":"templar-aedric-spear"}
+{"title":"Spear Wall"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,19 @@
+{"baseName":"Hunter's Eye"}
+{"description":"\"Increases your Stealth Detection radius by 3 meters.\\n\\nIncreases your Movement Speed by 5% and your Physical and Spell Penetration by 950.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45296}
+{"icon":"/esoui/art/icons/ability_armor_011.dds"}
+{"id":"019e624a-12cc-7792-ae71-457a36e24a28"}
+{"isMorph":false}
+{"key":"hunters-eye"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"racial-wood-elf-skills"}
+{"skillType":"passive"}
+{"slug":"hunters-eye"}
+{"status":"partially-supported"}
+{"subcategoryId":"racial-wood-elf-skills"}
+{"title":"Hunter's Eye"}
+{"type":"page-type/temper-skill"}

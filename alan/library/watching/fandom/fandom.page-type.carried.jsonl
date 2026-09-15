@@ -1,0 +1,8 @@
+{"definition":"a world Alan follows across its shows and films"}
+{"extends":["page-type/collection-external"]}
+{"id":"01a06807-be66-7004-85ae-8df6ba0ad747"}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"fandom"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"definition":"the script naming the turn a scribed skill takes"}
+{"extends":["page-type/temper-script"]}
+{"id":"01a05fca-cb8a-7514-8c96-15d014bc0d9a"}
+{"schema":"jsonl"}
+{"slug":"temper-signature-script"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

@@ -1,0 +1,19 @@
+{"baseName":"Traveling Knife"}
+{"description":"Deals 928 Physical Damage to an enemy and pulls them and enemies between you and them to you on return."}
+{"esoSkillId":232112}
+{"focusScriptId":"pull"}
+{"grimoireId":"traveling-knife"}
+{"icon":"/esoui/art/icons/ability_grimoire_dualwield.dds"}
+{"id":"019e6471-15e2-7420-a2ef-ab24fa489416"}
+{"isMorph":false}
+{"key":"scribed-traveling-knife-pull"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"scribed-traveling-knife-pull"}
+{"subcategoryId":"scribed"}
+{"title":"Leashing Knife"}
+{"type":"page-type/temper-scribed-skill"}

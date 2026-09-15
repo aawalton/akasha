@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A run's cost is appended beside the page of the command that ran."},{"decisionKind":"decision-kind/departure","statement":"Where that command's page sits is asked of the index rather than spelled."},{"decisionKind":"decision-kind/departure","statement":"A slug the index answers nothing for refuses the run rather than recording it."},{"decisionKind":"decision-kind/departure","statement":"A line states what ran and which of the two the run was."},{"decisionKind":"decision-kind/departure","statement":"A change run and the apply following that change run are two runs."},{"decisionKind":"decision-kind/departure","statement":"A run id is minted for each run rather than shared between two runs."},{"decisionKind":"decision-kind/absence","statement":"Nothing here measures or appends."}]}
+{"definition":"what one run of a change or an apply cost, appended beside that command's page"}
+{"id":"01a080c6-8416-7379-b588-57f7c3f59557"}
+{"slug":"change-costing"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The sets are named here in the order the gathered table answers its ids in."},{"decisionKind":"decision-kind/gap","statement":"A set moved to another place breaks every build hash saved."}]}
+{"definition":"part 064 of the gear set table, noxious-boulder through oblivions-foe"}
+{"id":"01a061a3-3083-70ea-81d9-527f65aa52ff"}
+{"slug":"sets-data-064"}
+{"type":"page-type/module"}

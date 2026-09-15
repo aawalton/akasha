@@ -1,0 +1,7 @@
+{"definition":"which side of the body the reading is of"}
+{"id":"01a06558-36e9-7eab-9e75-8ad48e61258a"}
+{"propertySlug":"side"}
+{"slug":"side"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["left","right","n-a"]}

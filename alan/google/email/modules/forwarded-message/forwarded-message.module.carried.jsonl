@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A forward is made of an attribution part and the original's body part."},{"decisionKind":"decision-kind/departure","statement":"A boundary appearing anywhere in the original is minted again."},{"decisionKind":"decision-kind/departure","statement":"The original is read as latin1."},{"decisionKind":"decision-kind/departure","statement":"A header folded over several lines is read as a single header."},{"decisionKind":"decision-kind/departure","statement":"The original's content headers are carried onto the body part."}]}
+{"definition":"the bytes of one email wrapped as a forward of itself"}
+{"id":"01a0657c-604c-7002-a940-7c5975e0d53e"}
+{"slug":"forwarded-message"}
+{"test":"ts"}
+{"type":"page-type/module"}

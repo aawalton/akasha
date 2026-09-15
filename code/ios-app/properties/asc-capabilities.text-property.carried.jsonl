@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A capability is spelled as App Store Connect spells that capability."},{"decisionKind":"decision-kind/departure","statement":"A capability newly enabled remakes every App Store profile for that identifier."},{"decisionKind":"decision-kind/absence","statement":"A widget's own identifier is given no capability here."}]}
+{"definition":"the capabilities Apple enables on an app's identifier"}
+{"id":"01a05f87-1b05-7b14-8908-d107128af1be"}
+{"maxLength":60}
+{"nameFormat":null}
+{"propertySlug":"asc-capabilities"}
+{"slug":"asc-capabilities"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

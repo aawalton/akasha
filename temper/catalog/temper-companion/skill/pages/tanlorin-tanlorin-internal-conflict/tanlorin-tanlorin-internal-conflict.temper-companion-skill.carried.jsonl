@@ -1,0 +1,13 @@
+{"abilityId":214865}
+{"companionId":"tanlorin"}
+{"description":"Your Companion lays claim to an enemy's soul, dealing $1 Magic Damage to their target over $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_tanlorin_internalconflict.dds"}
+{"id":"019e6484-38a6-7733-b11c-8f5fa210973b"}
+{"key":"tanlorin-internal-conflict"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-tanlorin-empathic-fighter"}
+{"skillType":"active"}
+{"slug":"tanlorin-tanlorin-internal-conflict"}
+{"title":"Internal Conflict"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

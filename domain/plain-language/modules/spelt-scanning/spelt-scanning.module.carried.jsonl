@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name inside backticks is read as one word rather than as English."},{"decisionKind":"decision-kind/departure","statement":"The filler runs the length the name ran."},{"decisionKind":"decision-kind/departure","statement":"Every offset after the name holds."},{"decisionKind":"decision-kind/departure","statement":"The backticks themselves are kept."}]}
+{"definition":"a backticked name filled with letters of its own length before a sentence is read"}
+{"id":"01a073e3-354d-7124-8a2c-e116b5340d81"}
+{"slug":"spelt-scanning"}
+{"type":"page-type/module"}

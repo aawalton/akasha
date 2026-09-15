@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A book of scripture is read from one rendering."}]}
+{"definition":"the rendering of scripture a passage is read from"}
+{"id":"01a0658d-fe50-7004-9783-8442718557a7"}
+{"propertySlug":"translation"}
+{"slug":"scripture-translation"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["book-of-mormon","web"]}

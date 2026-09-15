@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A case judging its text against the page the case names states nothing here."}]}
+{"definition":"what a case's text is judged by"}
+{"id":"01a090dc-6a68-7d53-96a4-6a504d4d4e74"}
+{"maxLength":2000}
+{"nameFormat":null}
+{"propertySlug":"against"}
+{"slug":"case-against"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

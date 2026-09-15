@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcd0-7013-91dd-18109b323fb3"}
+{"matches":[{"key":"merchant","comparison":"is","values":["google cloud"]},{"key":"sign","comparison":"is-not","values":["negative"]}]}
+{"slug":"google-cloud-other"}
+{"title":"Google cloud other"}
+{"type":"page-type/category-rule-code"}

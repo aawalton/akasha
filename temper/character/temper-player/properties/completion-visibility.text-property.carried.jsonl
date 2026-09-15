@@ -1,0 +1,8 @@
+{"definition":"who a player lets read what that player has finished"}
+{"id":"01a05fcd-f557-7c35-987a-480c078751bb"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"completion-visibility"}
+{"slug":"completion-visibility"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

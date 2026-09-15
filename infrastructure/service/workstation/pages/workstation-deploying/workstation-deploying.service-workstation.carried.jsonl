@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One kind is put up by this service, and the code beside this page names that kind."},{"decisionKind":"decision-kind/departure","statement":"A tick ends once the deploy it started ends, and the tick after it is skipped meanwhile."},{"decisionKind":"decision-kind/departure","statement":"The deploy runs in a scope of its own, so this service being started again leaves it running."},{"decisionKind":"decision-kind/departure","statement":"The deploy this starts puts this service up too, and starts it again where it changed."},{"decisionKind":"decision-kind/departure","statement":"A tick finding nothing changed starts nothing, so that is no loop without end."}]}
+{"definition":"the service putting the workstation kind up once a commit changes what it is built from"}
+{"enabled":true}
+{"id":"01a09593-7b82-7c95-a865-8a7bfa7f269d"}
+{"slug":"workstation-deploying"}
+{"systemd":{"schedule":"*:*:00","jitterSeconds":10,"startTimeoutSeconds":3900}}
+{"type":"page-type/service-workstation"}

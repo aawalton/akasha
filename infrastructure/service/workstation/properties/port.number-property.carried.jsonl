@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A service listening states its port."},{"decisionKind":"decision-kind/departure","statement":"A service stating no port listens nowhere."}]}
+{"definition":"the port a service listens on"}
+{"id":"01a05a3f-b42c-7733-9676-76de6ffa5b35"}
+{"max":65535}
+{"propertySlug":"port"}
+{"slug":"port"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

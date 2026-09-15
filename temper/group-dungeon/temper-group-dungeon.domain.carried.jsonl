@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A dungeon is reached by its short key rather than by its name."},{"decisionKind":"decision-kind/constraint","statement":"Nothing here reaches a Date."},{"decisionKind":"decision-kind/departure","statement":"Which dungeons and quest givers a reckoning covers is handed in by the caller."},{"decisionKind":"decision-kind/departure","statement":"The dungeon data here is written out from the dungeon pages."}]}
+{"definition":"the group dungeons of Tamriel and the pledges quest givers hand out each day"}
+{"id":"01a06031-70e4-7e81-a058-c2574ec503a7"}
+{"parts":["module/dungeon-data","module/dungeon-registry","module/eso-reset","module/pledge-rotation","module/solo-difficulty"]}
+{"slug":"temper-group-dungeon"}
+{"type":"page-type/domain"}

@@ -1,0 +1,17 @@
+{"baseName":"Encase"}
+{"description":"\"Call forth Daedric shards from the earth to immobilize enemies in front of you for |cffffff4|r seconds.\\n\\nEnemies hit are afflicted with Major Maim, reducing their damage done by |cffffff10|r% for |cffffff10|r seconds.\""}
+{"esoSkillId":28025}
+{"icon":"/esoui/art/icons/ability_sorcerer_cyclone.dds"}
+{"id":"019e6f53-a155-784d-9413-116bddbec291"}
+{"isMorph":false}
+{"key":"encase"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"sorcerer-dark-magic"}
+{"skillType":"active"}
+{"slug":"encase"}
+{"subcategoryId":"sorcerer-dark-magic"}
+{"title":"Encase"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,14 @@
+{"abilityId":153685}
+{"castConditions":"jsonl"}
+{"companionId":"all"}
+{"description":"Your Companion calls on their staff's strength to protect themselves or the lowest health ally around them, granting a damage shield that absorbs $1 damage over $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_restorationstaff_001.dds"}
+{"id":"019e668d-c559-7ab3-b9b8-563364fdc928"}
+{"key":"shared-mystic-fortress"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"all-shared-mystic-fortress"}
+{"title":"Mystic Fortress"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer","tank"]}

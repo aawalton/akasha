@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A kind is spelled as the tool running the kind takes the name."},{"decisionKind":"decision-kind/departure","statement":"A kind states this name and a subagent run as that kind repeats this name."},{"decisionKind":"decision-kind/gap","statement":"This property is a relation to an agent kind."}]}
+{"definition":"the kind of agent a subagent was run as"}
+{"id":"01a05978-f2e3-737b-8b65-7a65013f5626"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"dispatched-as"}
+{"slug":"dispatched-as"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

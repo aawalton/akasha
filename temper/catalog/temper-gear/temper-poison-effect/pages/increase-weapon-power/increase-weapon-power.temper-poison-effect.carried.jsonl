@@ -1,0 +1,9 @@
+{"effects":"jsonl"}
+{"icon":"resources/crafting_alchemy_trait_increaseweaponpower.png"}
+{"id":"019e21f7-0f6c-77a9-a08d-1a513e9fdac0"}
+{"isPositive":true}
+{"key":"increase-weapon-power"}
+{"oppositeId":"maim"}
+{"slug":"increase-weapon-power"}
+{"title":"Increase Weapon Power"}
+{"type":"page-type/temper-poison-effect"}

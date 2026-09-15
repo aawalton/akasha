@@ -1,0 +1,9 @@
+{"effects":"jsonl"}
+{"icon":"resources/crafting_alchemy_trait_speed.png"}
+{"id":"019e21f7-0f76-7c03-b681-748d33683851"}
+{"isPositive":true}
+{"key":"speed"}
+{"oppositeId":"hindrance"}
+{"slug":"speed"}
+{"title":"Speed"}
+{"type":"page-type/temper-poison-effect"}

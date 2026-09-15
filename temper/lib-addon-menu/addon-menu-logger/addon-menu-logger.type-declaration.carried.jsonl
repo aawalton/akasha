@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name here keeps the spelling the game gives that name."},{"decisionKind":"decision-kind/departure","statement":"A name the shared game types already declare is left out."},{"decisionKind":"decision-kind/absence","statement":"A compiler emits nothing from this file."}]}
+{"definition":"the logging surface this library takes from the debug logger library"}
+{"id":"01a06100-0000-7000-8000-000000000033"}
+{"slug":"addon-menu-logger"}
+{"type":"page-type/type-declaration"}

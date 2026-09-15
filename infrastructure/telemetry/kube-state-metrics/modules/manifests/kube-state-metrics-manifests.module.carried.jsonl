@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"the exporter that publishes the cluster's objects as metrics"}
+{"id":"01a073ae-d7ce-7b11-9dd4-8fca7346fe51"}
+{"slug":"kube-state-metrics-manifests"}
+{"type":"page-type/module"}

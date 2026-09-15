@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A finished quest counts as a daily writ only where its type is crafting."}]}
+{"definition":"what this add-on does when the played character's progress in the world changes"}
+{"id":"01a0632d-cc07-702c-b838-1700356d3d00"}
+{"slug":"characters-events-world"}
+{"type":"page-type/module"}

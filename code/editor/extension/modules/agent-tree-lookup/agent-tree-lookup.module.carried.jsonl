@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A row naming no place a seat mode admits is read as interactive."},{"decisionKind":"decision-kind/departure","statement":"A seat is found by name at whatever depth that seat sits."},{"decisionKind":"decision-kind/departure","statement":"A subagent is never found by name."},{"decisionKind":"decision-kind/departure","statement":"Two seats of one name leave the deepest seat found."},{"decisionKind":"decision-kind/departure","statement":"An ancestor trail runs from the row's parent outward to the root."},{"decisionKind":"decision-kind/departure","statement":"A row no root reaches has an empty trail."},{"decisionKind":"decision-kind/absence","statement":"Nothing here composes a row."}]}
+{"definition":"the place each seat has, and what a drawn forest answers about a row in it"}
+{"id":"01a0686b-bfe9-784a-84aa-10a105843c4e"}
+{"slug":"agent-tree-lookup"}
+{"type":"page-type/module"}

@@ -1,0 +1,19 @@
+{"baseName":"Monarch"}
+{"description":"\"Increases your healing received while in your campaign, depending on how many Home Keeps you own.\\n\\n1 or less Keep: 25%\\n2 Keeps: 30%\\n3 Keeps: 35%\\n4 Keeps: 40%\\n5 Keeps: 45%\\n6 Keeps: 50%\""}
+{"effects":"jsonl"}
+{"esoSkillId":39625}
+{"icon":"/esoui/art/icons/ability_sorcerer_060.dds"}
+{"id":"019e6251-4cd1-7e7f-ae85-54034cf01779"}
+{"isMorph":false}
+{"key":"monarch"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"alliance-war-emperor"}
+{"skillType":"passive"}
+{"slug":"monarch"}
+{"status":"unsupported"}
+{"subcategoryId":"alliance-war-emperor"}
+{"title":"Monarch"}
+{"type":"page-type/temper-skill"}

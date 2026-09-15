@@ -1,0 +1,11 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A character belongs to one world."},{"decisionKind":"decision-kind/departure","statement":"A character is the story's account of that character rather than a player's creation."},{"decisionKind":"decision-kind/departure","statement":"The words a character has are the story's rather than akasha's own."},{"decisionKind":"decision-kind/departure","statement":"A world's character readings name the characters of that world."},{"decisionKind":"decision-kind/gap","statement":"Every level a story gives a character is beside that character."}]}
+{"definition":"somebody a world's story follows"}
+{"extends":["page-type/page"]}
+{"id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
+{"parts":["number-property/event-count","number-property/first-chapter","number-property/last-chapter","number-property/max-level"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/world","required":false,"many":false},{"pageProperty":"number-property/max-level","required":false,"many":false},{"pageProperty":"number-property/event-count","required":false,"many":false},{"pageProperty":"number-property/first-chapter","required":false,"many":false},{"pageProperty":"number-property/last-chapter","required":false,"many":false}]}
+{"runsTabooCheck":false}
+{"schema":"jsonl"}
+{"slug":"world-character"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

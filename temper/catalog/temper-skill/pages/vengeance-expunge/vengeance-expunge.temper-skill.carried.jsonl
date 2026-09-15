@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Expunge"}
+{"description":"\"Embrace the power of death, removing up to |cffffff2|r negative effects from yourself.\\n\\nWhile slotted on either bar you gain |cffffff150|r Health, Magicka, and Stamina Recovery.\""}
+{"esoSkillId":238255}
+{"icon":"/esoui/art/icons/ability_necromancer_014.dds"}
+{"id":"019e6f53-a905-7578-8ad7-7e19987a9dc9"}
+{"isMorph":false}
+{"key":"vengeance-expunge"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-necromancer-living-death"}
+{"skillType":"active"}
+{"slug":"vengeance-expunge"}
+{"subcategoryId":"vengeance-necromancer-living-death"}
+{"title":"Vengeance Expunge"}
+{"type":"page-type/temper-skill"}

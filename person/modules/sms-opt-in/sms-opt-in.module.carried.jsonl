@@ -1,0 +1,7 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A person opts in only by checking the box themselves."},{"decisionKind":"decision-kind/departure","statement":"The wording shown beside the box is the whole wording the consent module states."},{"decisionKind":"decision-kind/departure","statement":"A field no person is shown catches a caller filling every field."},{"decisionKind":"decision-kind/departure","statement":"A refusal the route states is shown as the refusal was given."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes the consent down."},{"decisionKind":"decision-kind/departure","statement":"The wording and the links beside the box read as one sentence rather than as a row."},{"decisionKind":"decision-kind/departure","statement":"Each link beside the box reaches a whole document rather than a section here."}]}
+{"definition":"the form a person opts in to text messages through"}
+{"id":"01a05b54-a903-7d92-ba67-13983ceac2c4"}
+{"slug":"sms-opt-in"}
+{"test":"tsx"}
+{"type":"page-type/module"}

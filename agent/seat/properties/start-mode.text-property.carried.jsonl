@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/stopgap","statement":"The modes a seat can start in are no pages."},{"decisionKind":"decision-kind/gap","statement":"This property is a relation to a start mode."},{"decisionKind":"decision-kind/gap","statement":"An agent states the mode the agent works in rather than how the agent was started."}]}
+{"definition":"how an agent in a seat is started"}
+{"id":"01a05395-58a5-760f-a464-178f4d4ebb97"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"start-mode"}
+{"slug":"start-mode"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

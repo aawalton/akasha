@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the icon drawn for a nav entry"}
+{"id":"01a0829c-2416-7e2d-a9f1-7c33b625459e"}
+{"slug":"alan-web-api-nav-icon"}
+{"type":"page-type/route"}
+{"urlPath":"api/nav-icon/:idSuffix"}

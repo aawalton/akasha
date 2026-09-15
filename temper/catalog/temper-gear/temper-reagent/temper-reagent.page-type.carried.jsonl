@@ -1,0 +1,9 @@
+{"definition":"a plant or part brewed into a drink"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fd1-d440-7e50-9ee1-512f735a1900"}
+{"parts":["text-property/alchemy-effects"]}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"text-property/icon","required":true,"many":false},{"pageProperty":"number-property/item-id","required":true,"many":false},{"pageProperty":"text-property/alchemy-effects","required":true,"many":true,"maxCount":null}]}
+{"schema":"jsonl"}
+{"slug":"temper-reagent"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

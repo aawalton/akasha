@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Progress is recorded per companion rather than per character."}]}
+{"definition":"recording a companion's experience, rapport and skill line ranks"}
+{"id":"01a0611d-84de-7012-b6a4-85e9b16fe633"}
+{"slug":"companions-progress"}
+{"type":"page-type/module"}

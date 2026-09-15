@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The checked state is rendered as the uppercase word ON or OFF rather than a box."},{"decisionKind":"decision-kind/departure","statement":"Clicking anywhere on the row toggles the value."},{"decisionKind":"decision-kind/departure","statement":"Label color tracks the value even while the control is enabled."}]}
+{"definition":"the boolean on/off widget of the settings panel"}
+{"id":"01a06100-0000-7000-8000-000000000014"}
+{"slug":"addon-menu-widget-checkbox"}
+{"type":"page-type/module"}

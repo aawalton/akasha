@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here checks a value at run time."}]}
+{"definition":"what an untyped table the game hands over is taken to be"}
+{"id":"01a061d5-d0b3-779c-a12e-41bcbf143e5d"}
+{"slug":"treasure-casts"}
+{"type":"page-type/module"}

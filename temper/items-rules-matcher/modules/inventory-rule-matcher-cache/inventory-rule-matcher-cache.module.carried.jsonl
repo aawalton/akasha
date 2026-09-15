@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rule whose fingerprint changed is matched again from scratch."},{"decisionKind":"decision-kind/departure","statement":"A residue is stored as entries so the cache survives being written out."}]}
+{"definition":"the matched items kept from an earlier run, and the fingerprint saying they still hold"}
+{"id":"01a06151-370c-7bba-9b75-347465f546d7"}
+{"slug":"inventory-rule-matcher-cache"}
+{"type":"page-type/module"}

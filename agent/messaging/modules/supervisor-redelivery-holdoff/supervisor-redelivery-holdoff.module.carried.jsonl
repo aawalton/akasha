@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"how long a claimed message waits before it may be delivered again"}
+{"id":"01a06876-abda-7006-92e7-eb3df9fe91a5"}
+{"slug":"supervisor-redelivery-holdoff"}
+{"type":"page-type/module"}

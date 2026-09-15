@@ -1,0 +1,10 @@
+{"displayOrder":1}
+{"effect":"Increases Mundus Stone effect"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_ARMOR_DIVINES"}
+{"id":"01a05fb2-1bcd-7a96-a41e-bbf2b55ec3ec"}
+{"key":"divines"}
+{"material":"Sapphire"}
+{"qualityValues":"jsonl"}
+{"slug":"divines"}
+{"title":"Divines"}
+{"type":"page-type/temper-armor-trait"}

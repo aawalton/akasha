@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The collector adds itself to the catalog registry as the module loads."},{"decisionKind":"decision-kind/departure","statement":"A patron whose collectible falls under another category is passed over."},{"decisionKind":"decision-kind/departure","statement":"A dock card pair with no upgrade card is passed over."}]}
+{"definition":"the Tales of Tribute patrons and the cards of each patron, read into saved variables"}
+{"id":"01a060e2-3186-7ded-b973-6f823ba7313c"}
+{"slug":"tribute-catalog-capture"}
+{"type":"page-type/module"}

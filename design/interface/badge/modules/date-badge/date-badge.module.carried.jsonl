@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A dashed date is read and written here rather than by each badge showing one."},{"decisionKind":"decision-kind/departure","statement":"A dashed date is read and written in the zone the browser is in."}]}
+{"definition":"a badge showing a date and opening a calendar to change it"}
+{"id":"01a05b55-a539-773f-8b28-749123c7df39"}
+{"slug":"date-badge"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The folder is named `pages`."},{"decisionKind":"decision-kind/departure","statement":"The folder above has one page type."},{"decisionKind":"decision-kind/departure","statement":"That page type says which pages belong here."},{"decisionKind":"decision-kind/departure","statement":"A page sitting in the folder is of that page type."},{"decisionKind":"decision-kind/departure","statement":"The folder has page files alone or page folders alone."},{"decisionKind":"decision-kind/departure","statement":"The folder has no file beside a page file."},{"decisionKind":"decision-kind/absence","statement":"A file held uncommitted beside a page is no file beside that page here."},{"decisionKind":"decision-kind/departure","statement":"Each subfolder has one page of that page type or one page that page type declares a part."},{"decisionKind":"decision-kind/absence","statement":"Anything else a subfolder holds is judged where that subfolder is judged."},{"decisionKind":"decision-kind/departure","statement":"A folder named `pages` above which no page type sits is refused."},{"decisionKind":"decision-kind/departure","statement":"A file that is neither a page nor a file beside a page is refused."}]}
+{"definition":"the shape of a folder named pages with the pages of the page type above it"}
+{"enabled":true}
+{"id":"01a05f26-edf0-78fe-b79b-4b1b278b55f2"}
+{"slug":"pages-of-the-type-above"}
+{"test":"ts"}
+{"type":"page-type/folder-shape"}

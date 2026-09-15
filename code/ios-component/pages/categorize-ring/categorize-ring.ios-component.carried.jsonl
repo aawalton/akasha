@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The ring is drawn whole in one color rather than swept to a fraction."},{"decisionKind":"decision-kind/departure","statement":"The color is the color the feed's scale gives the reading."},{"decisionKind":"decision-kind/departure","statement":"A reading the feed sends no scale for is ringed in the track's own gray."},{"decisionKind":"decision-kind/departure","statement":"The count is drawn in the label's color whatever the ring is."},{"decisionKind":"decision-kind/departure","statement":"A reading of nothing is drawn as the words or the emoji sent for that reading."}]}
+{"definition":"the tile drawing how many transactions are unreviewed"}
+{"id":"01a05482-22db-796e-b0e4-76ec3c1bb83e"}
+{"slug":"categorize-ring"}
+{"swift":"swift"}
+{"type":"page-type/ios-component"}

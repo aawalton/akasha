@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A destination gathering stock is known by the name the destination has."}]}
+{"definition":"whether a destination gathers one thing from every character into one place"}
+{"id":"01a06151-3707-766e-bfa9-91d05b3b9c5c"}
+{"slug":"inventory-consolidate-dest"}
+{"type":"page-type/module"}

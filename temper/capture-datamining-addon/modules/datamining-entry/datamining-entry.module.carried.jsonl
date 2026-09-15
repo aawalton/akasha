@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Neither miner is running when the addon loads."},{"decisionKind":"decision-kind/departure","statement":"A changed game version clears the mined data."},{"decisionKind":"decision-kind/departure","statement":"Mining left unfinished resumes once the player is in the world."},{"decisionKind":"decision-kind/departure","statement":"Every slash command is registered with the hud addon as well."},{"decisionKind":"decision-kind/departure","statement":"A slash command the addon does not know answers with the usage line."}]}
+{"definition":"where the datamining addon starts and what the addon binds on starting"}
+{"id":"01a06341-d9e8-7007-aaa9-235436e7ef16"}
+{"slug":"datamining-entry"}
+{"type":"page-type/module"}

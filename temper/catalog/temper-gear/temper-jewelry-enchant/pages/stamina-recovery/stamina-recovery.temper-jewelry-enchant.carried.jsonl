@@ -1,0 +1,12 @@
+{"displayOrder":4}
+{"effect":"Increases Stamina Recovery"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_STAMINA_REGEN"}
+{"essenceRune":"Denima"}
+{"glyphName":"Glyph of Stamina Recovery"}
+{"id":"019e5c85-d946-7a55-8269-7417f599aa31"}
+{"key":"stamina-recovery"}
+{"qualityValues":"jsonl"}
+{"slug":"stamina-recovery"}
+{"title":"Stamina Recovery"}
+{"type":"page-type/temper-jewelry-enchant"}

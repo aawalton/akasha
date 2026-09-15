@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcda-7000-ac9b-9f92a57f99c1"}
+{"matches":[{"key":"merchant","comparison":"is","values":["spotify"]},{"key":"sign","comparison":"is-not","values":["negative"]}]}
+{"slug":"spotify-other-sign"}
+{"title":"Spotify other sign"}
+{"type":"page-type/category-rule-code"}

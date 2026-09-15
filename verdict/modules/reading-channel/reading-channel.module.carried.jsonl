@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reading's anchored line has no line break."},{"decisionKind":"decision-kind/departure","statement":"A reading's findings are written where a person reads rather than where a caller parses."}]}
+{"definition":"a reading written out as one anchored line, with its findings beside it"}
+{"id":"01a0657e-795b-7000-9fd2-c341fb16005c"}
+{"slug":"reading-channel"}
+{"type":"page-type/module"}

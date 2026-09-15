@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A token count is refilled from the time passed at each read."},{"decisionKind":"decision-kind/departure","statement":"A take succeeds only above a safety threshold."}]}
+{"definition":"the token budget a group ping is spent from"}
+{"id":"01a0605f-6261-7d76-ba42-e30ce5260d08"}
+{"slug":"ping-leaky-bucket"}
+{"type":"page-type/module"}

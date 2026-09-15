@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The order these modules are loaded in is the order their effects happen."}]}
+{"definition":"the ordered side-effect imports of the keyboard filter modules"}
+{"id":"01a0623e-53a2-70b8-a852-0cb34ae8684f"}
+{"slug":"lib-sets-kbf-keyboard-filters-index"}
+{"type":"page-type/module"}

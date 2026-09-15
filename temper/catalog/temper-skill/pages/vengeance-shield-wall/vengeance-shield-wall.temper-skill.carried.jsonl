@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Shield Wall"}
+{"description":"\"Reinforce your shield, allowing you to automatically block all attacks at no cost for |cffffff6|r seconds.\""}
+{"esoSkillId":240572}
+{"icon":"/esoui/art/icons/ability_1handed_006.dds"}
+{"id":"019e6f53-a981-7fc0-8bcc-9a9d6c557e72"}
+{"isMorph":false}
+{"key":"vengeance-shield-wall"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-one-hand-and-shield"}
+{"skillType":"ultimate"}
+{"slug":"vengeance-shield-wall"}
+{"subcategoryId":"vengeance-weapon-one-hand-and-shield"}
+{"title":"Vengeance Shield Wall"}
+{"type":"page-type/temper-skill"}

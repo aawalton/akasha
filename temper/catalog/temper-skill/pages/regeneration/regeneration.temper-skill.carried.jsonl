@@ -1,0 +1,17 @@
+{"baseName":"Regeneration"}
+{"description":"\"Share your staff's life-giving energy, healing you or a nearby ally for |cffffff10950|r Health over |cffffff10|r seconds.\""}
+{"esoSkillId":28536}
+{"icon":"/esoui/art/icons/ability_restorationstaff_002.dds"}
+{"id":"019e6f53-a5df-77e1-9f93-65f0c0f89f45"}
+{"isMorph":false}
+{"key":"regeneration"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":4}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"regeneration"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Regeneration"}
+{"type":"page-type/temper-skill"}

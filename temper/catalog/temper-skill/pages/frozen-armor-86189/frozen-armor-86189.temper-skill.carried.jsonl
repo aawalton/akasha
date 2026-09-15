@@ -1,0 +1,17 @@
+{"baseName":"Frozen Armor"}
+{"description":"\"Increases your Physical and Spell Resistance by |cffffff620|r for each Winter's Embrace ability slotted.\\n\\nCurrent Bonus: |cffffff0|r.\""}
+{"esoSkillId":86189}
+{"icon":"/esoui/art/icons/passive_warden_001.dds"}
+{"id":"019e6f53-a24c-72f6-a413-94dd38802857"}
+{"isMorph":false}
+{"key":"frozen-armor-86189"}
+{"learnedLevel":14}
+{"lineRankNeeded":14}
+{"morphIndex":0}
+{"rank":14}
+{"skillLineId":"warden-winters-embrace"}
+{"skillType":"passive"}
+{"slug":"frozen-armor-86189"}
+{"subcategoryId":"warden-winters-embrace"}
+{"title":"Frozen Armor"}
+{"type":"page-type/temper-skill"}

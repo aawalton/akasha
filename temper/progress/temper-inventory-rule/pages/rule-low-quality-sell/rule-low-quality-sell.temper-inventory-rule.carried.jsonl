@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/sell"}
+{"active":true}
+{"categoryId":"all"}
+{"conditions":"jsonl"}
+{"description":"Sells any sellable item with guild-store value (marketValue) < 5000g to a vendor, excluding legendary (quality 5) items. Value-axis sibling of valuable-nothing (list >= 5000)."}
+{"displayOrder":75}
+{"fromTemplate":"temper-rule-template/low-quality-sell"}
+{"goal":"temper-rule-goal/sell"}
+{"id":"01a0728b-4fbd-73c3-94ce-4ab4d817fb29"}
+{"locked":true}
+{"slug":"rule-low-quality-sell"}
+{"title":"Vendor-sell sub-5000g non-legendary items"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-06-02T20:49:38.124Z"}

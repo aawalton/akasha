@@ -1,0 +1,6 @@
+{"definition":"whether a seat is between a prompt and the end of its answer"}
+{"id":"01a06c75-5eaa-731c-a8c6-a080637acf50"}
+{"propertySlug":"active-turn"}
+{"slug":"active-turn"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

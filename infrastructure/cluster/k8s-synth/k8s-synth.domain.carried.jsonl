@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A generated manifest is written by the synth run rather than committed."},{"decisionKind":"decision-kind/departure","statement":"A synth file is the code file of a `manifest` page the index answers."}]}
+{"definition":"the Kubernetes YAML the synth files in a checkout generate"}
+{"id":"01a06810-0b68-71f7-8b6c-5277128c7a3d"}
+{"parts":["module/generated-file","module/synth-discovery","module/synth-drift","module/synth-loading","module/synth-manifests","module/synth-running"]}
+{"slug":"k8s-synth"}
+{"type":"page-type/domain"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A log line is sent to the debug logger addon where that addon is loaded."},{"decisionKind":"decision-kind/departure","statement":"A log line goes nowhere where the library is not in debug."},{"decisionKind":"decision-kind/stopgap","statement":"Debug is on for a single named account and for no other account."}]}
+{"definition":"whether the library is logging and where a log line is sent"}
+{"id":"01a06061-96a0-7c1f-a7ed-6104c85448b3"}
+{"slug":"data-encode-runtime"}
+{"type":"page-type/module"}

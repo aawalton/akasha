@@ -1,0 +1,8 @@
+{"definition":"the agent running the game master's side"}
+{"id":"01a0673c-8e0e-7001-a960-de2ffa854884"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"coordinator-agent"}
+{"slug":"coordinator-agent"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

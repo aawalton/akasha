@@ -1,0 +1,7 @@
+{"definition":"what the day trains"}
+{"id":"01a0657a-e62d-7b35-94f4-44d27343d54f"}
+{"propertySlug":"focus"}
+{"slug":"focus"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["legs","pull","push","rest"]}

@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Sacrificial Bones"}
+{"description":"\"Dredge up a resentful soul from beneath you to sacrifice as fuel for your attacks, granting you Major Berserk for |cffffff10|r seconds, increasing your damage done by |cffffff10|r%.\\n\\nYou also count as a corpse.\""}
+{"esoSkillId":246057}
+{"icon":"/esoui/art/icons/ability_necromancer_002.dds"}
+{"id":"019e6f53-a978-70fd-8318-53d96b4adbb0"}
+{"isMorph":false}
+{"key":"vengeance-sacrificial-bones"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-necromancer-grave-lord"}
+{"skillType":"active"}
+{"slug":"vengeance-sacrificial-bones"}
+{"subcategoryId":"vengeance-necromancer-grave-lord"}
+{"title":"Vengeance Sacrificial Bones"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An akasha file imports no tracked file from outside the akasha folder."}]}
+{"definition":"one file using what another declares"}
+{"id":"01a049e9-651c-7007-8abb-675c750009bb"}
+{"slug":"type-import"}
+{"type":"page-type/domain"}

@@ -1,0 +1,8 @@
+{"definition":"the digest a token is recognised by without the token being held"}
+{"id":"01a05fd3-4363-7c0f-9df5-69d317e01c6f"}
+{"maxLength":64}
+{"nameFormat":null}
+{"propertySlug":"token-hash"}
+{"slug":"token-hash"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

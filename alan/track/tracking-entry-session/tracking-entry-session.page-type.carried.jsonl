@@ -1,0 +1,7 @@
+{"definition":"a tracking entry for something that ran from one moment to another"}
+{"extends":["page-type/tracking-entry"]}
+{"id":"01a06827-ec0c-7524-b2fe-dacf7e89d157"}
+{"schema":"jsonl"}
+{"slug":"tracking-entry-session"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

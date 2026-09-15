@@ -1,0 +1,7 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A nav page is drawn as the page that nav item points at."},{"decisionKind":"decision-kind/departure","statement":"Every other page is drawn by the component its page type names."},{"decisionKind":"decision-kind/departure","statement":"Asking for properties draws the properties rather than that component."},{"decisionKind":"decision-kind/departure","statement":"A change to the speed or the variant asked for does not load the page again."}]}
+{"definition":"one page, drawn as the kind of page it is"}
+{"id":"01a08833-1672-716a-8f04-9183f3106bcc"}
+{"slug":"alan-web-page-detail"}
+{"type":"page-type/route"}
+{"urlPath":":pageTypeSlug/:pageHrefParam"}

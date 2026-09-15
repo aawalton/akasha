@@ -1,0 +1,8 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/inventory-path"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The capture read is the most recent capture."},{"decisionKind":"decision-kind/departure","statement":"Every step and every condition has the raw fields the game gave."},{"decisionKind":"decision-kind/departure","statement":"A capture is taken in the game by the `/tempermwprobe` slash command."},{"decisionKind":"decision-kind/departure","statement":"A file with no capture refuses the call."},{"decisionKind":"decision-kind/absence","statement":"Nothing here takes a capture."}]}
+{"definition":"the command giving back the addon's last master-writ journal capture"}
+{"id":"01a0603c-c1d5-7ba7-b43c-d88542cae62f"}
+{"name":"writ-probe"}
+{"slug":"temper-inventory-master-writ-probe"}
+{"type":"page-type/command"}

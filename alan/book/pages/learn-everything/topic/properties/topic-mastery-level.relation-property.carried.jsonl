@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A topic is scored at one rung."}]}
+{"definition":"the rung a topic is scored at"}
+{"id":"01a0784a-cdb7-7780-bc90-9d5f5a5cc720"}
+{"propertySlug":"mastery-level"}
+{"slug":"topic-mastery-level"}
+{"targetPageType":"page-type/mastery-level"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

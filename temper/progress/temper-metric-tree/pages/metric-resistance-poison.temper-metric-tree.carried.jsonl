@@ -1,0 +1,8 @@
+{"displayOrder":2}
+{"id":"019e2fcd-5a26-78bc-b4fd-845eb09f7e43"}
+{"nodeId":"resistance-poison"}
+{"nodeType":"metric"}
+{"parent":"metric-resistance-physical"}
+{"slug":"metric-resistance-poison"}
+{"title":"Resistance Poison"}
+{"type":"page-type/temper-metric-tree"}

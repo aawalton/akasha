@@ -1,0 +1,19 @@
+{"baseName":"Strike from the Shadows"}
+{"description":"\"When you leave Sneak, invisibility, or Mist Form your Weapon and Spell Damage is increased by 300 for 6 seconds.\""}
+{"effects":"jsonl"}
+{"esoSkillId":46040}
+{"icon":"/esoui/art/icons/passive_u26_vampire_02.dds"}
+{"id":"019e6251-4cf3-739b-b26e-794a01feb056"}
+{"isMorph":false}
+{"key":"strike-from-the-shadows"}
+{"learnedLevel":1}
+{"lineRankNeeded":4}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"world-vampire"}
+{"skillType":"passive"}
+{"slug":"strike-from-the-shadows"}
+{"status":"unsupported"}
+{"subcategoryId":"world-vampire"}
+{"title":"Strike from the Shadows"}
+{"type":"page-type/temper-skill"}

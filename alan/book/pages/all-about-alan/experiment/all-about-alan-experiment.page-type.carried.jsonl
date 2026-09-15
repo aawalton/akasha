@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An experiment has the material the experiment is run with rather than any topic or finding."},{"decisionKind":"decision-kind/departure","statement":"An experiment finds a topic or a finding."},{"decisionKind":"decision-kind/departure","statement":"An experiment is kept whether or not the experiment has been run yet."}]}
+{"definition":"one measured trial about Alan"}
+{"extends":["page-type/page"]}
+{"id":"01a0657f-a729-7906-84f8-825c8af36228"}
+{"parts":["file-property/line-set"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"standard-agent-english-property/definition","required":true,"many":false},{"pageProperty":"file-property/line-set","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"all-about-alan-experiment"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

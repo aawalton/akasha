@@ -1,0 +1,7 @@
+{"definition":"which day of the rotation the movement belongs to"}
+{"id":"01a0657e-2bc0-7229-8e6a-9937d7e7b16e"}
+{"propertySlug":"muscle-focus"}
+{"slug":"muscle-focus"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["core","legs","other","pull","push"]}

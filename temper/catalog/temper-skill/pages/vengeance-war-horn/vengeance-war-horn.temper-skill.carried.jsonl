@@ -1,0 +1,17 @@
+{"baseName":"Vengeance War Horn"}
+{"description":"\"Sound a war horn to rally your forces, increasing you and up to 5 of your group members' Health, Magicka, and Stamina Recovery by |cffffff2500|r for |cffffff6|r seconds.\""}
+{"esoSkillId":244644}
+{"icon":"/esoui/art/icons/ability_ava_003.dds"}
+{"id":"019e6f53-a9b0-712c-bb88-c3f7402dde77"}
+{"isMorph":false}
+{"key":"vengeance-war-horn"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-alliance-war-assault"}
+{"skillType":"ultimate"}
+{"slug":"vengeance-war-horn"}
+{"subcategoryId":"vengeance-alliance-war-assault"}
+{"title":"Vengeance War Horn"}
+{"type":"page-type/temper-skill"}

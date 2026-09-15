@@ -1,0 +1,17 @@
+{"baseName":"Guard"}
+{"description":"\"Create a lifebond between you and an allied player. While bonded, |cffffff30|r% of the damage they take is instead redistributed to you.\\n\\nThe bond will remain until you recast the spell or move more than |cffffff15|r meters away from your ally.\""}
+{"esoSkillId":61511}
+{"icon":"/esoui/art/icons/ability_ava_guard.dds"}
+{"id":"019e6f53-a2c0-7c00-ba68-ade8f61b0433"}
+{"isMorph":false}
+{"key":"guard"}
+{"learnedLevel":1}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":5}
+{"skillLineId":"alliance-war-support"}
+{"skillType":"active"}
+{"slug":"guard"}
+{"subcategoryId":"alliance-war-support"}
+{"title":"Guard"}
+{"type":"page-type/temper-skill"}

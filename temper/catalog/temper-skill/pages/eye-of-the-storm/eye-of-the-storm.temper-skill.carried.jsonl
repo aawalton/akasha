@@ -1,0 +1,17 @@
+{"baseName":"Elemental Storm"}
+{"description":"\"Create a cataclysmic storm above you that builds for 2 seconds then lays waste to all enemies nearby, dealing 1799 Magic Damage every 1 second for 7 seconds.\""}
+{"esoSkillId":86534}
+{"icon":"/esoui/art/icons/ability_destructionstaff_012_a.dds"}
+{"id":"019e6226-00f0-757f-946c-09d7fdb66aa5"}
+{"isMorph":true}
+{"key":"eye-of-the-storm"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"ultimate"}
+{"slug":"eye-of-the-storm"}
+{"subcategoryId":"weapon-destruction-staff"}
+{"title":"Eye of the Storm"}
+{"type":"page-type/temper-skill"}

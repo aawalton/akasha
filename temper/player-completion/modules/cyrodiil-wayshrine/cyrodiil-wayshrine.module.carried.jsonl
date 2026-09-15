@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Cyrodiil's wayshrines are left out of the points of interest a character is measured on."}]}
+{"definition":"whether a point of interest is a wayshrine of Cyrodiil"}
+{"id":"01a06108-2ff6-7cb8-bd42-e8fcd8be535a"}
+{"slug":"cyrodiil-wayshrine"}
+{"type":"page-type/module"}

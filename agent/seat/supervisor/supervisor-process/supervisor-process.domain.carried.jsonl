@@ -1,0 +1,5 @@
+{"definition":"the program a supervisor runs as"}
+{"id":"01a09c62-651a-7488-a701-7a1b46e37c2d"}
+{"parts":["module/run-supervisor","module/supervisor","module/supervisor-args","module/supervisor-config","module/supervisor-exec","module/supervisor-self-identity","module/supervisor-session-project-dir","module/supervisor-state","module/supervisor-types"]}
+{"slug":"supervisor-process"}
+{"type":"page-type/domain"}

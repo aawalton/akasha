@@ -1,0 +1,8 @@
+{"definition":"which sort of act an authority permits"}
+{"extends":["page-type/domain"]}
+{"id":"01a0542d-0f76-7ac0-97f4-c19e1d035437"}
+{"parts":["authority-kind/domain","authority-kind/feature-approval","authority-kind/feature-request","authority-kind/page-data","authority-kind/page-schema"]}
+{"schema":"jsonl"}
+{"slug":"authority-kind"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

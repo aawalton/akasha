@@ -1,0 +1,11 @@
+{"abbreviation":"D"}
+{"description":"Focused on dealing damage"}
+{"displayOrder":0}
+{"id":"01a05fce-c49a-791b-a58b-9a311f674333"}
+{"key":"dps"}
+{"slug":"dps"}
+{"title":"DPS"}
+{"type":"page-type/temper-companion-base-role"}
+{"validArmorWeights":["medium"]}
+{"validTraitIds":["aggressive","shattering","quickened","focused"]}
+{"validWeaponRoleIds":["dual-wield","two-handed","bow","inferno-staff","ice-staff","lightning-staff"]}

@@ -1,0 +1,6 @@
+{"description":"An item's estimated market value is compared against the number or named constant stated, under `<=` by default, and this field overrides `maxValue` and `minValue` entirely."}
+{"id":"01a07209-6b51-7fca-8a11-730a4bc2f40d"}
+{"key":"marketValue"}
+{"slug":"market-value"}
+{"title":"Market Value"}
+{"type":"page-type/temper-condition-field"}

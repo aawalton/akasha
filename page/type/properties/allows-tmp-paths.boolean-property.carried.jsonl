@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type saying nothing here spells the paths of this workstation."},{"decisionKind":"decision-kind/departure","statement":"A page type says true here where its pages spell the paths inside a container."},{"decisionKind":"decision-kind/departure","statement":"A path inside a container is not a path on this workstation."}]}
+{"definition":"whether the paths a page of this type spells are a container's rather than this machine's"}
+{"id":"01a0722b-2eaf-7edc-9104-bd5677e7020d"}
+{"propertySlug":"allows-tmp-paths"}
+{"slug":"allows-tmp-paths"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

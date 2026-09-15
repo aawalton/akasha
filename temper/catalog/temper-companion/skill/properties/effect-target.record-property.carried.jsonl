@@ -1,0 +1,7 @@
+{"definition":"who an effect lands on and how far it reaches"}
+{"id":"01a06196-0378-75a0-80bb-3aec137ffc83"}
+{"properties":[{"pageProperty":"text-property/target-kind","required":false,"many":false},{"pageProperty":"text-property/target-scope","required":false,"many":false},{"pageProperty":"number-property/target-range","required":false,"many":false},{"pageProperty":"number-property/target-radius","required":false,"many":false},{"pageProperty":"number-property/max-targets","required":false,"many":false}]}
+{"propertySlug":"target"}
+{"slug":"effect-target"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

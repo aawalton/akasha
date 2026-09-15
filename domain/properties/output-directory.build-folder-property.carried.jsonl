@@ -1,0 +1,8 @@
+{"definition":"what a domain's build writes"}
+{"folderName":"dist"}
+{"generated":true}
+{"id":"01a09122-8e2a-7a30-9e08-9d4fe5a01cc9"}
+{"propertySlug":"output-directory"}
+{"slug":"output-directory"}
+{"type":"page-type/build-folder-property"}
+{"types":"ts"}

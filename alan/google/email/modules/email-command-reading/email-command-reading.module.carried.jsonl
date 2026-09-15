@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"What a call said is handed in, read by the one reader every command reads by."},{"decisionKind":"decision-kind/departure","statement":"Text is said at its flag or read from a file."},{"decisionKind":"decision-kind/departure","statement":"Text said both ways is refused."},{"decisionKind":"decision-kind/departure","statement":"A file named `-` is the input."},{"decisionKind":"decision-kind/departure","statement":"One call reads the input once."},{"decisionKind":"decision-kind/departure","statement":"Two flags naming one input are refused."},{"decisionKind":"decision-kind/departure","statement":"Text read whole keeps its line endings and text read as a line loses those line endings."},{"decisionKind":"decision-kind/departure","statement":"A subject read from a file has no line ending."},{"decisionKind":"decision-kind/departure","statement":"A path that is not absolute is read against the repository root."},{"decisionKind":"decision-kind/absence","statement":"No guard is written here."},{"decisionKind":"decision-kind/absence","statement":"Nothing here prints."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches Gmail."}]}
+{"definition":"what an email command reads off its arguments"}
+{"id":"01a06810-cf11-7676-b503-15195a7cff5b"}
+{"slug":"email-command-reading"}
+{"test":"ts"}
+{"type":"page-type/module"}

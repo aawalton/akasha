@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A delay shorter than the minimum runs at once rather than waiting."},{"decisionKind":"decision-kind/departure","statement":"A delayed task is suspended until the game update fires."},{"decisionKind":"decision-kind/departure","statement":"A wait re-runs the same step each frame until the condition answers true."},{"decisionKind":"decision-kind/departure","statement":"A time here is read from the game update rather than from a wall clock."}]}
+{"definition":"the delays and the waits that hold a task back"}
+{"id":"01a0606a-1c59-7cbd-b45b-61c3cf20d13d"}
+{"slug":"async-task-timer"}
+{"type":"page-type/module"}

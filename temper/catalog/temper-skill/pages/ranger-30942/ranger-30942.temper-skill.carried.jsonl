@@ -1,0 +1,17 @@
+{"baseName":"Ranger"}
+{"description":"\"Reduces the Stamina cost of Bow abilities by |cffffff7|r%.\""}
+{"esoSkillId":30942}
+{"icon":"/esoui/art/icons/ability_armor_011.dds"}
+{"id":"019e6f53-a59b-7e2d-9fb7-0900119a60e1"}
+{"isMorph":false}
+{"key":"ranger-30942"}
+{"learnedLevel":1}
+{"lineRankNeeded":17}
+{"morphIndex":0}
+{"rank":17}
+{"skillLineId":"weapon-bow"}
+{"skillType":"passive"}
+{"slug":"ranger-30942"}
+{"subcategoryId":"weapon-bow"}
+{"title":"Ranger"}
+{"type":"page-type/temper-skill"}

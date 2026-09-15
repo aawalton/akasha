@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The alias `c3` opens the account with the alias index 3."},{"decisionKind":"decision-kind/departure","statement":"An index freed by a departing account is not handed to another account."}]}
+{"definition":"the number in the shell alias that opens Claude on this account"}
+{"id":"01a054d8-1d39-7b15-a48d-62c2122c274b"}
+{"max":null}
+{"propertySlug":"alias-index"}
+{"slug":"alias-index"}
+{"type":"page-type/number-property"}
+{"types":"ts"}
+{"unique":"unique-kind/page-type"}

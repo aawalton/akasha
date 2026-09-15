@@ -1,0 +1,7 @@
+{"definition":"how far along a life theme is"}
+{"id":"01a06575-c2c0-7b91-a932-fc1cef6fd656"}
+{"propertySlug":"life-theme-status"}
+{"slug":"life-theme-status"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["up-next","current-focus","in-progress","done"]}

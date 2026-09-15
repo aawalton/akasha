@@ -1,0 +1,9 @@
+{"blackAt":-4}
+{"blueAt":12}
+{"definition":"how much stress capacity a day has left in hand, counted in hours"}
+{"greenAt":8}
+{"id":"01a06230-6146-730d-94a0-813e820d840d"}
+{"redAt":0}
+{"slug":"capacity-hours"}
+{"type":"page-type/readout-scale"}
+{"yellowAt":4}

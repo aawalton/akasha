@@ -1,0 +1,19 @@
+{"baseName":"Refreshing Shadows"}
+{"description":"\"Increases your Health, Stamina, and Magicka Recovery by 15%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45103}
+{"icon":"/esoui/art/icons/ability_sorcerer_038.dds"}
+{"id":"019e6245-a705-7522-b089-d0b86fe22ca9"}
+{"isMorph":false}
+{"key":"refreshing-shadows"}
+{"learnedLevel":18}
+{"lineRankNeeded":18}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"nightblade-shadow"}
+{"skillType":"passive"}
+{"slug":"refreshing-shadows"}
+{"status":"unsupported"}
+{"subcategoryId":"nightblade-shadow"}
+{"title":"Refreshing Shadows"}
+{"type":"page-type/temper-skill"}

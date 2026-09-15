@@ -1,0 +1,7 @@
+{"description":"Reduces damage done by 10%"}
+{"effects":"jsonl"}
+{"id":"01a05fc6-42c2-794d-84af-249d34bd9a2f"}
+{"key":"major-maim"}
+{"slug":"major-maim"}
+{"title":"Major Maim"}
+{"type":"page-type/temper-debuff-major"}

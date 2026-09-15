@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A relationship is named by its id or by the title its page has."},{"decisionKind":"decision-kind/departure","statement":"A relationship reading answers with the ids or with the reasons those ids were refused."},{"decisionKind":"decision-kind/departure","statement":"A title with an alias of a relationship tags the stretch with that relationship."},{"decisionKind":"decision-kind/departure","statement":"A title and an alias are folded by `page-stem` before either is matched."},{"decisionKind":"decision-kind/departure","statement":"An alias more than one relationship has tags the stretch with no relationship."},{"decisionKind":"decision-kind/departure","statement":"A relationship a caller names is kept beside a relationship a title tagged."},{"decisionKind":"decision-kind/departure","statement":"A relationship is read from the index rather than from the text of its page."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a file."}]}
+{"definition":"the relationships a stretch of one of Alan's days is tagged with"}
+{"id":"01a08cad-1eca-7853-9c10-0a4d891fc3d8"}
+{"slug":"session-relationships"}
+{"test":"ts"}
+{"type":"page-type/module"}

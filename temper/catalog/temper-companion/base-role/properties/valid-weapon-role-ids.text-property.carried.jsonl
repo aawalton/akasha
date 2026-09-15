@@ -1,0 +1,8 @@
+{"definition":"a weapon pairing a role is built around"}
+{"id":"01a05fce-1853-73f0-8008-1c06e61a3a04"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"valid-weapon-role-ids"}
+{"slug":"valid-weapon-role-ids"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,8 @@
+{"displayOrder":2}
+{"id":"019e2fcd-59ae-72d9-8d0f-86a5b87a5965"}
+{"nodeId":"ha-frost-spell-damage"}
+{"nodeType":"metric"}
+{"parent":"subcategory-ha-power"}
+{"slug":"metric-ha-frost-spell-damage"}
+{"title":"Ha Frost Spell Damage"}
+{"type":"page-type/temper-metric-tree"}

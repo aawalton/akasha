@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A stop reason the rule and the column disagree on stamps nothing."},{"decisionKind":"decision-kind/departure","statement":"An unread classification is null rather than a guess at how the child stopped."}]}
+{"definition":"the child-exit readings asked of the deciding command"}
+{"id":"01a0683e-3dbe-700f-9725-cda76a9d7b7e"}
+{"slug":"supervisor-child-exit-rule"}
+{"type":"page-type/module"}

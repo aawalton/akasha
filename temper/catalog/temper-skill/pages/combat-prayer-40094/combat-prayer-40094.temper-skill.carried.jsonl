@@ -1,0 +1,17 @@
+{"baseName":"Blessing of Protection"}
+{"description":"\"Slam your staff down to activate its blessings, healing you and your allies in front of you for |cffffff8219|r Health.\\n\\nAlso grants Minor Berserk and Minor Resolve increasing you and your allies' damage done by |cffffff5|r% and Physical Resistance and Spell Resistance by |cffffff2974|r for |cffffff10|r seconds.\""}
+{"esoSkillId":40094}
+{"icon":"/esoui/art/icons/ability_restorationstaff_003_b.dds"}
+{"id":"019e6f53-a007-74d7-9347-971e1d6155d0"}
+{"isMorph":true}
+{"key":"combat-prayer-40094"}
+{"learnedLevel":1}
+{"lineRankNeeded":14}
+{"morphIndex":2}
+{"rank":14}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"combat-prayer-40094"}
+{"subcategoryId":"weapon-restoration-staff"}
+{"title":"Combat Prayer"}
+{"type":"page-type/temper-skill"}

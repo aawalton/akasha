@@ -1,0 +1,19 @@
+{"baseName":"Spectral Assassin"}
+{"description":"\"15% chance to shroud you when using the Blade of Woe, shielding you from being witnessed and receiving a Bounty.\""}
+{"effects":"jsonl"}
+{"esoSkillId":77401}
+{"icon":"/esoui/art/icons/ability_darkbrotherhood_passive_006.dds"}
+{"id":"019e6238-c315-7e75-a06a-ed701d98f617"}
+{"isMorph":false}
+{"key":"spectral-assassin"}
+{"learnedLevel":1}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"guild-dark-brotherhood"}
+{"skillType":"passive"}
+{"slug":"spectral-assassin"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-dark-brotherhood"}
+{"title":"Spectral Assassin"}
+{"type":"page-type/temper-skill"}

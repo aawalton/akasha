@@ -1,0 +1,11 @@
+{"accountUuid":"6153b85a-17f7-4325-98bc-77dd0761463b"}
+{"aliasIndex":5}
+{"email":"alan@clear-the-world.com"}
+{"id":"019f0da9-efcc-7dc6-a794-9d37f79c8f71"}
+{"provider":"model-provider/anthropic"}
+{"rateLimitTier":"default_claude_max_20x"}
+{"renewalDay":28}
+{"scopes":["user:file_upload","user:inference","user:mcp_servers","user:profile","user:sessions:claude_code"]}
+{"slug":"ctw"}
+{"subscriptionType":"max"}
+{"type":"page-type/model-account"}

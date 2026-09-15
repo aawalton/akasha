@@ -1,0 +1,8 @@
+{"definition":"the name a card is shown under once it is upgraded"}
+{"id":"01a06153-0ea9-7006-b19d-80f29674a96e"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"upgrade-card-name"}
+{"slug":"upgrade-card-name"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

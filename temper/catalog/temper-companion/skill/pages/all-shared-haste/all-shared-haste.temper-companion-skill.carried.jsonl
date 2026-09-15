@@ -1,0 +1,12 @@
+{"abilityId":156340}
+{"companionId":"all"}
+{"description":"Your Companion focuses their magical energies inward, resetting the cooldown of all their other abilities."}
+{"icon":"/esoui/art/icons/ability_companion_armor_light.dds"}
+{"id":"019e6484-382e-745b-b03a-6268beb1740c"}
+{"key":"shared-haste"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"armor-light"}
+{"skillType":"active"}
+{"slug":"all-shared-haste"}
+{"title":"Haste"}
+{"type":"page-type/temper-companion-skill"}

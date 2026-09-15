@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The readings put on the window are read by a console rather than by code."}]}
+{"definition":"one page-card edit timed from click through visible, stored and settled"}
+{"id":"01a0610c-430e-758f-9da6-bed7278e0bdb"}
+{"slug":"page-card-perf"}
+{"type":"page-type/module"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"A reminder a seat set for itself is no pending turn start."}]}
+{"definition":"what a seat is waiting on before its turn is done"}
+{"id":"01a0541c-db5f-70d8-a32a-c321eef90312"}
+{"properties":[{"pageProperty":"boolean-property/compacting","required":true,"many":false},{"pageProperty":"boolean-property/live-shell","required":true,"many":false},{"pageProperty":"boolean-property/live-subagent","required":true,"many":false},{"pageProperty":"boolean-property/send-in-flight","required":true,"many":false}]}
+{"propertySlug":"turn-pending"}
+{"slug":"turn-pending"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

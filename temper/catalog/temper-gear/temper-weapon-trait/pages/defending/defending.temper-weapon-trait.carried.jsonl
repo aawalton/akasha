@@ -1,0 +1,11 @@
+{"displayOrder":3}
+{"effect":"Increases Physical and Spell Resistance"}
+{"effects":"jsonl"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_WEAPON_DEFENDING"}
+{"id":"019e5b8b-e543-76d9-9b56-a31dc1c69412"}
+{"key":"defending"}
+{"material":"Turquoise"}
+{"qualityValues":"jsonl"}
+{"slug":"defending"}
+{"title":"Defending"}
+{"type":"page-type/temper-weapon-trait"}

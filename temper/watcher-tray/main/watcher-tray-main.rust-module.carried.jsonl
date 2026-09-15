@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The tray declares every sibling module here."},{"decisionKind":"decision-kind/departure","statement":"A tray that replaced itself exits rather than carrying on."},{"decisionKind":"decision-kind/departure","statement":"A step that failed is logged and the run carries on."}]}
+{"definition":"where the tray program's run begins"}
+{"id":"01a06034-87f2-7fac-8b9d-cf99a6a41d3b"}
+{"moduleName":"main"}
+{"rust":"rs"}
+{"slug":"watcher-tray-main"}
+{"type":"page-type/rust-module"}

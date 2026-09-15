@@ -1,0 +1,8 @@
+{"definition":"Postgres is growing on disk faster than it usually does"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fb-7e54-93df-01d88f7d9d33"}
+{"runbook":"txt"}
+{"slug":"postgres-storage-growth-anomaly"}
+{"summary":"Postgres storage growth rate is abnormally high ({{ $value | humanize }}B/s vs normal)"}
+{"title":"Postgres storage growth anomaly"}
+{"type":"page-type/alert"}

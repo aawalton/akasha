@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The sets are named here in the order the gathered table answers its ids in."},{"decisionKind":"decision-kind/gap","statement":"A set moved to another place breaks every build hash saved."}]}
+{"definition":"part 088 of the gear set table, shacklebreaker through shalidors-curse"}
+{"id":"01a061a3-6219-7419-906f-14895323268f"}
+{"slug":"sets-data-088"}
+{"type":"page-type/module"}

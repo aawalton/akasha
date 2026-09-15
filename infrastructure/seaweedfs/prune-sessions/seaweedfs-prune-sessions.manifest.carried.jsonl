@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the namespace and the cron job removing stored agent sessions past their age"}
+{"generatedDirectory":true}
+{"id":"01a07387-c98a-74f1-a661-245678c39ae4"}
+{"slug":"seaweedfs-prune-sessions"}
+{"type":"page-type/manifest"}

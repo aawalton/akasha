@@ -1,0 +1,7 @@
+{"definition":"where the statement is in being settled"}
+{"id":"01a06575-c2ac-797b-b1d3-d6847cb7c62a"}
+{"propertySlug":"proposition-status"}
+{"slug":"proposition-status"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["open","adopted","proved","parked"]}

@@ -1,0 +1,8 @@
+{"definition":"a node has stopped reporting itself ready to run work"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fa-7984-a4b9-20c29a73e619"}
+{"runbook":"txt"}
+{"slug":"node-not-ready"}
+{"summary":"Node {{ $labels.node }} is NotReady"}
+{"title":"Node not ready"}
+{"type":"page-type/alert"}

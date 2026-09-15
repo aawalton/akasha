@@ -1,0 +1,7 @@
+{"id":"01a094c8-dfc5-7d7f-abf8-6ee4e76c33a4"}
+{"placeholder":"name"}
+{"said":"--community-addon"}
+{"slug":"community-addon"}
+{"takes":"the community addon's name, or one of the folder names it installs"}
+{"type":"page-type/argument"}
+{"value":"text"}

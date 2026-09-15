@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The agent is stated in the environment rather than worked out."},{"decisionKind":"decision-kind/departure","statement":"An environment naming no agent stops the server rather than guessing an agent."}]}
+{"definition":"the agent a message server is running for"}
+{"id":"01a0686c-f06b-700f-b509-474c22d7c815"}
+{"slug":"messages-agent-id"}
+{"type":"page-type/module"}

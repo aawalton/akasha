@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The pod template carries the hash of the buildkit-config configmap."}]}
+{"definition":"the deployment running the builder that turns a Dockerfile into an image"}
+{"generatedDirectory":true}
+{"id":"01a07383-de17-7590-8580-ccd38e33ccd8"}
+{"slug":"buildkit"}
+{"type":"page-type/manifest"}

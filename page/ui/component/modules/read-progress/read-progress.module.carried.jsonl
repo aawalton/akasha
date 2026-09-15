@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"Turns a scroll fraction into a word-count progress, returned only when it advances."}
+{"id":"01a05c3d-a2e5-7e5c-86bc-9dabc556a0d6"}
+{"slug":"read-progress"}
+{"type":"page-type/module"}

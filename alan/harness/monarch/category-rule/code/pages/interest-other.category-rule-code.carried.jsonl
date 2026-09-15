@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcd0-7019-b63f-f09c40357e8e"}
+{"matches":[{"key":"merchant","comparison":"is","values":["interest"]},{"key":"account","comparison":"is-not","values":["2749"]}]}
+{"slug":"interest-other"}
+{"title":"Interest other"}
+{"type":"page-type/category-rule-code"}

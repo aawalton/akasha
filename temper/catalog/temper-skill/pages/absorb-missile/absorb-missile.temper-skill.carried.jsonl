@@ -1,0 +1,17 @@
+{"baseName":"Defensive Posture"}
+{"description":"\"Bolster your defenses, gaining a damage shield that absorbs up to 4958 damage for 6 seconds.  \\n\\nWhile the shield persists, you are healed for 2560 Health the next time a harmful direct damage projectile hits you. This effect can occur once per cast.\\n\\nThis ability scales off your Max Health.\""}
+{"esoSkillId":41380}
+{"icon":"/esoui/art/icons/ability_1handed_004_b.dds"}
+{"id":"019e6226-00cb-76ab-9ada-41c2cc280f2d"}
+{"isMorph":true}
+{"key":"absorb-missile"}
+{"learnedLevel":14}
+{"lineRankNeeded":14}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"active"}
+{"slug":"absorb-missile"}
+{"subcategoryId":"weapon-one-hand-and-shield"}
+{"title":"Absorb Missile"}
+{"type":"page-type/temper-skill"}

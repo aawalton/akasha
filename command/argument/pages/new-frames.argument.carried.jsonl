@@ -1,0 +1,8 @@
+{"default":"16"}
+{"id":"01a094d3-31f6-785c-8671-012f796cfb7d"}
+{"placeholder":"n"}
+{"said":"--new-frames"}
+{"slug":"new-frames"}
+{"takes":"how many frames this asks to generate"}
+{"type":"page-type/argument"}
+{"value":"whole-number"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A run starts as running and ends as completed or failed."},{"decisionKind":"decision-kind/departure","statement":"A parameter the caller left out is left off the record rather than written as absent."},{"decisionKind":"decision-kind/departure","statement":"A record has the versions the service ran at the moment the run ran."},{"decisionKind":"decision-kind/departure","statement":"A record has the command line that asked for the run."},{"decisionKind":"decision-kind/departure","statement":"That command line is the call the command was handed rather than a name its code spells."}]}
+{"definition":"what is written down when a run starts and what is added when it ends"}
+{"id":"01a0685d-4b35-700f-9344-dd7d49bdb87d"}
+{"slug":"inference-run-record"}
+{"type":"page-type/module"}

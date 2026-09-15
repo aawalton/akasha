@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The plain word `frame` names what a screen draws in rather than what a word sits in."},{"decisionKind":"decision-kind/departure","statement":"The frame a pair names is the frame a reader of the sentence's tree answers."}]}
+{"definition":"the construction a replacement pair is written for"}
+{"id":"01a08243-41cd-7873-9af3-308bc9152b5d"}
+{"propertySlug":"frame"}
+{"slug":"prose-frame"}
+{"targetPageType":"page-type/prose-frame"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

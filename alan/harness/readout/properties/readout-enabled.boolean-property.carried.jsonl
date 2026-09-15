@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A readout stating false keeps a page and leaves the strip."},{"decisionKind":"decision-kind/departure","statement":"A stilled readout is no member of the groups the readout names."},{"decisionKind":"decision-kind/departure","statement":"A readout stating nothing is drawn."},{"decisionKind":"decision-kind/departure","statement":"A service has a separate property of the same key."}]}
+{"definition":"whether anything draws a reading"}
+{"id":"01a063bd-a526-7356-a7bd-00f589dcdc18"}
+{"propertySlug":"enabled"}
+{"slug":"readout-enabled"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

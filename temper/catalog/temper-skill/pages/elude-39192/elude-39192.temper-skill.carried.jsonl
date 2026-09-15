@@ -1,0 +1,17 @@
+{"baseName":"Evasion"}
+{"description":"\"Shroud yourself in mist to gain Major Evasion, reducing damage taken from area attacks by |cffffff20|r% for |cffffff38|r seconds.\\n\\nWhile this effect is active, when you take damage from a direct area of effect attack you gain Major Expedition for |cffffff6|r seconds, increasing your Movement Speed by |cffffff30|r%. \\n\\nEach piece of Medium Armor worn increases the duration of this ability.\""}
+{"esoSkillId":39192}
+{"icon":"/esoui/art/icons/ability_armor_002_b.dds"}
+{"id":"019e6f53-a131-7f9c-8bce-56a21f9e74a5"}
+{"isMorph":true}
+{"key":"elude-39192"}
+{"learnedLevel":1}
+{"lineRankNeeded":22}
+{"morphIndex":2}
+{"rank":22}
+{"skillLineId":"armor-medium-armor"}
+{"skillType":"active"}
+{"slug":"elude-39192"}
+{"subcategoryId":"armor-medium-armor"}
+{"title":"Elude"}
+{"type":"page-type/temper-skill"}

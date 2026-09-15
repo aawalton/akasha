@@ -1,0 +1,14 @@
+{"abilityId":155328}
+{"companionId":"all"}
+{"description":"Your Companion bolsters their defenses, granting a damage shield that absorbs up to 25% of their Max Health for $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_1handed_004.dds"}
+{"id":"019e668d-c557-7728-ab3a-ab5815a71312"}
+{"key":"shared-on-guard"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"weapon-one-hand-shield"}
+{"skillType":"active"}
+{"slug":"all-shared-on-guard"}
+{"tags":["max-health-shield-25pct"]}
+{"title":"On Guard"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["tank"]}

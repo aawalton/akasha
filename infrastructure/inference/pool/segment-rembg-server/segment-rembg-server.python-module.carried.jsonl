@@ -1,0 +1,6 @@
+{"bytecodeDirectory":true}
+{"definition":"the server that cuts a subject out of an image"}
+{"id":"01a06815-9efd-7014-a878-84a434393806"}
+{"python":"py"}
+{"slug":"segment-rembg-server"}
+{"type":"page-type/python-module"}

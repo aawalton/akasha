@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Reading an entry makes the entry the newest."},{"decisionKind":"decision-kind/departure","statement":"An entry past its time reads as nothing and is dropped at the reading."}]}
+{"definition":"a store dropping its oldest entry and its expired ones"}
+{"id":"01a06863-8e7c-73b7-9277-f3ce34ede55e"}
+{"slug":"ttl-cache"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"definition":"the service copying the whole of Monarch and comparing the copy against it"}
+{"enabled":true}
+{"id":"01a06829-0194-7976-b3a8-db7df0bae3ef"}
+{"needsSecrets":true}
+{"slug":"monarch-sync"}
+{"systemd":{"schedule":"daily","jitterSeconds":1800,"catchUp":true,"startTimeoutSeconds":3600}}
+{"type":"page-type/service-workstation"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A refresh that fails is written to the warning console rather than thrown."},{"decisionKind":"decision-kind/departure","statement":"The line written carries the message the refresh failed with."},{"decisionKind":"decision-kind/constraint","statement":"A caller hands in the client whose session is refreshed."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the session a refresh answers with."},{"decisionKind":"decision-kind/absence","statement":"Nothing here decides when a session is refreshed."}]}
+{"definition":"the Supabase session a browser holds, refreshed in place"}
+{"id":"01a09099-ea3c-7d5e-a085-0b0c4402eeea"}
+{"slug":"browser-session-refresh"}
+{"type":"page-type/module"}

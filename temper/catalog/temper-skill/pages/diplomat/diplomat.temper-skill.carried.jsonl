@@ -1,0 +1,19 @@
+{"baseName":"Diplomat"}
+{"description":"\"Increases your experience gain with the One Hand and Shield skill line by 15%.\\n\\nIncreases your gold gained by 1%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":36312}
+{"icon":"/esoui/art/icons/ability_templar_027.dds"}
+{"id":"019e624a-12c5-79ba-a5dc-59b38c7d5322"}
+{"isMorph":false}
+{"key":"diplomat"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"racial-imperial-skills"}
+{"skillType":"passive"}
+{"slug":"diplomat"}
+{"status":"supported"}
+{"subcategoryId":"racial-imperial-skills"}
+{"title":"Diplomat"}
+{"type":"page-type/temper-skill"}

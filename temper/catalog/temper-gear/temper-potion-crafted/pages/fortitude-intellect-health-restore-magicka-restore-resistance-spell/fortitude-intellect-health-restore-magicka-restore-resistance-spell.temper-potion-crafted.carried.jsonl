@@ -1,0 +1,11 @@
+{"description":"Grants Increase Spell Resistance, Restore Health, Restore Magicka."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_001_type_005.dds"}
+{"id":"019e21f6-405a-7332-9b71-6af20ac7bfbf"}
+{"key":"fortitude-intellect-health-restore-magicka-restore-resistance-spell"}
+{"level":"CP150"}
+{"reagents":[{"names":["Bugloss","Clam Gall","Columbine"]},{"names":["Bugloss","Columbine","Mudcrab Chitin"]},{"names":["Bugloss","Columbine","White Cap"]}]}
+{"seconds":47}
+{"slug":"fortitude-intellect-health-restore-magicka-restore-resistance-spell"}
+{"title":"Essence of Health"}
+{"type":"page-type/temper-potion-crafted"}

@@ -1,0 +1,8 @@
+{"definition":"the color a category is badged in"}
+{"id":"01a05fc9-9a00-724c-8bd4-be27362863ab"}
+{"maxLength":20}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"badge-variant"}
+{"slug":"badge-variant"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

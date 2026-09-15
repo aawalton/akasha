@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A body with no token is refused."},{"decisionKind":"decision-kind/departure","statement":"The only platform named is iOS."},{"decisionKind":"decision-kind/departure","statement":"A body carrying anything beyond the token and the platform is refused."}]}
+{"definition":"the body the push registration route takes"}
+{"id":"01a05b54-a907-7932-8f8a-8aed5987a345"}
+{"slug":"push-register-body"}
+{"test":"ts"}
+{"type":"page-type/module"}

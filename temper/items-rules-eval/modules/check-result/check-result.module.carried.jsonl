@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A checker's skip kind is distinct from the passing kind."},{"decisionKind":"decision-kind/departure","statement":"A list condition holding what is no list answers the misshapen kind naming what it held."},{"decisionKind":"decision-kind/constraint","statement":"Every non-skip kind comes unchanged from the shared condition result type."}]}
+{"definition":"the result kinds one condition checker may return, being the condition results plus skip"}
+{"id":"01a06137-f968-771f-a84a-6b5df7704c70"}
+{"slug":"check-result"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,13 @@
+{"abilityId":186486}
+{"companionId":"sharp-as-night"}
+{"description":"Your Companion unearths a group of fiery shalk that attack dealing $1 Magic Damage to enemies in front of them. After the shalk complete their attack, they burrow underground for 3 seconds and resurface again, dealing $2 Magic Damage to enemies in front of them."}
+{"icon":"/esoui/art/icons/ability_companion_warden_scorch.dds"}
+{"id":"019e6484-3892-7f34-9e51-49d065626749"}
+{"key":"sharp-char"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-sharp-as-night-beasts-of-the-hunt"}
+{"skillType":"active"}
+{"slug":"sharp-as-night-sharp-char"}
+{"title":"Char"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

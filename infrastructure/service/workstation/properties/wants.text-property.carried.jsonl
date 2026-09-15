@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The unit named failing to start leaves this service starting all the same."}]}
+{"definition":"a unit this unit asks for without depending on"}
+{"id":"01a06738-9f12-7c0b-8ea5-4b76050ff060"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"wants"}
+{"slug":"wants"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

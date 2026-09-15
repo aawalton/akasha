@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The localization table is created here with German and English alone."},{"decisionKind":"decision-kind/departure","statement":"The on and off labels are placed on the fallback language alone."}]}
+{"definition":"the German and English tables made into the library's localization"}
+{"id":"01a061d7-7bb9-7125-b72f-e3bd28b4db73"}
+{"slug":"lib-sets-loc-install-localization"}
+{"type":"page-type/module"}

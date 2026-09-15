@@ -1,0 +1,13 @@
+{"abilityId":166085}
+{"companionId":"ember"}
+{"description":"Your Companion creates a nexus of storm energy at the target location, instantly dealing $1 Shock Damage to all enemies in the area and an additional $2 Shock Damage over $$2 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_sorcerer_lightning_splash.dds"}
+{"id":"019e6484-3865-7439-85bf-da5c12939357"}
+{"key":"ember-shocking-burst"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-ember-lightning-caller"}
+{"skillType":"active"}
+{"slug":"ember-ember-shocking-burst"}
+{"title":"Shocking Burst"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

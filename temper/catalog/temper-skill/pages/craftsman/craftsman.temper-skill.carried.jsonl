@@ -1,0 +1,18 @@
+{"baseName":"Craftsman"}
+{"description":"\"Increases your experience gain with the Heavy Armor skill line by 15%.\\n\\nIncreases your crafting inspiration gained by 10%.\""}
+{"esoSkillId":33293}
+{"icon":"/esoui/art/icons/ability_dragonknight_021.dds"}
+{"id":"019e624a-12c3-7616-9535-00bd1f608e54"}
+{"isMorph":false}
+{"key":"craftsman"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"racial-orc-skills"}
+{"skillType":"passive"}
+{"slug":"craftsman"}
+{"status":"unsupported"}
+{"subcategoryId":"racial-orc-skills"}
+{"title":"Craftsman"}
+{"type":"page-type/temper-skill"}

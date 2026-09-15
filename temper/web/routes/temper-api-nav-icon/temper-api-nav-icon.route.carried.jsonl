@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the icon drawn for a nav entry"}
+{"id":"01a0829a-8f37-7fcf-ad6f-bd2a5be6def4"}
+{"slug":"temper-api-nav-icon"}
+{"type":"page-type/route"}
+{"urlPath":"api/nav-icon/:idSuffix"}

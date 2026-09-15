@@ -1,0 +1,17 @@
+{"baseName":"Amplitude"}
+{"description":"\"Increases your damage done against enemies by |cffffff1|r% for every |cffffff20|r% current Health they have.\""}
+{"esoSkillId":31422}
+{"icon":"/esoui/art/icons/ability_sorcerer_049.dds"}
+{"id":"019e6f53-9eac-7296-a17a-9f2489019f3d"}
+{"isMorph":false}
+{"key":"amplitude-31422"}
+{"learnedLevel":22}
+{"lineRankNeeded":22}
+{"morphIndex":0}
+{"rank":22}
+{"skillLineId":"sorcerer-storm-calling"}
+{"skillType":"passive"}
+{"slug":"amplitude-31422"}
+{"subcategoryId":"sorcerer-storm-calling"}
+{"title":"Amplitude"}
+{"type":"page-type/temper-skill"}

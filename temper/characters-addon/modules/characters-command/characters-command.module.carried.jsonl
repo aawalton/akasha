@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reset empties the saved table before reading the game again."}]}
+{"definition":"the slash commands this add-on answers to"}
+{"id":"01a0632d-cacd-700b-99b3-a58078ae9a53"}
+{"slug":"characters-command"}
+{"type":"page-type/module"}

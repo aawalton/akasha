@@ -1,0 +1,17 @@
+{"baseName":"Fungal Growth"}
+{"description":"\"Seed a large area of mushrooms in front of you, healing you and your allies for |cffffff8489|r Health.\\n\\nHeals for |cffffff15|r% more on allies that are within |cffffff8|r meters of you.\""}
+{"esoSkillId":85863}
+{"icon":"/esoui/art/icons/ability_warden_008_a.dds"}
+{"id":"019e6f53-a75a-7cb2-b546-87d1081a8d3f"}
+{"isMorph":true}
+{"key":"soothing-spores-85863"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":2}
+{"rank":1}
+{"skillLineId":"warden-green-balance"}
+{"skillType":"active"}
+{"slug":"soothing-spores-85863"}
+{"subcategoryId":"warden-green-balance"}
+{"title":"Soothing Spores"}
+{"type":"page-type/temper-skill"}

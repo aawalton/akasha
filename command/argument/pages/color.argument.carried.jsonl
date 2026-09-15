@@ -1,0 +1,8 @@
+{"default":"white"}
+{"id":"01a0a03c-3a43-70c6-bfab-f57c26d395bb"}
+{"placeholder":"side"}
+{"said":"--color"}
+{"slug":"color"}
+{"takes":"the side of the board taken, `white` or `black`"}
+{"type":"page-type/argument"}
+{"value":"text"}

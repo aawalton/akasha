@@ -1,0 +1,10 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page property's file warrants its page and its property's type."},{"decisionKind":"decision-kind/departure","statement":"A property's file warrants its page whatever the file has."}]}
+{"definition":"what a seat must read for a file that is one property's own"}
+{"id":"01a04f58-a7ef-7001-9186-8aa35b0da656"}
+{"runsOnRead":true}
+{"runsOnWrite":true}
+{"slug":"file-property-file"}
+{"test":"ts"}
+{"transitive":false}
+{"type":"page-type/context-warrant"}

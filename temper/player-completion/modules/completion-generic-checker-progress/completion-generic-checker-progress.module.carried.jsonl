@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A total is read from the static catalog rather than from saved data."},{"decisionKind":"decision-kind/departure","statement":"A leaf stating its own numbers is taken over counting that leaf as a single whole."},{"decisionKind":"decision-kind/departure","statement":"A leaf detail is read only where the path is already a leaf."},{"decisionKind":"decision-kind/departure","statement":"A card no checker names returns nothing rather than a count."}]}
+{"definition":"how far along a completion card is, added up over the leaves its picker enumerates"}
+{"id":"01a0640c-1e9b-7ffc-918b-ac7e203ae58d"}
+{"slug":"completion-generic-checker-progress"}
+{"test":"ts"}
+{"type":"page-type/module"}

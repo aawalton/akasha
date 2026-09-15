@@ -1,0 +1,5 @@
+{"definition":"the namespaces, the roles and the operator configuration this cluster is built on"}
+{"id":"01a0a5f0-7889-7744-b2cf-cb0590ba51f9"}
+{"manifest":["manifest/app-namespaces-synth","manifest/cert-manager-synth","manifest/cloudnative-pg-synth","manifest/cluster-reach-synth","manifest/deploy-account","manifest/metallb-synth"]}
+{"slug":"cluster-foundations"}
+{"type":"page-type/cluster-foundation"}

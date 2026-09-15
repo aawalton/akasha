@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The slug is the action an item rule writes."},{"decisionKind":"decision-kind/departure","statement":"The title is the action a reader is shown."}]}
+{"definition":"one thing an item rule does to an item the rule matches"}
+{"extends":["page-type/temper-progress-thing"]}
+{"id":"01a071e1-92d5-7458-b0c0-499ac75aeb8b"}
+{"properties":[{"pageProperty":"text-property/description","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-item-action"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

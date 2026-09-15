@@ -1,0 +1,8 @@
+{"displayOrder":3}
+{"id":"019e2fcd-5993-7430-bd23-6412b58facdf"}
+{"nodeId":"la-frost-weapon-damage"}
+{"nodeType":"metric"}
+{"parent":"subcategory-la-power"}
+{"slug":"metric-la-frost-weapon-damage"}
+{"title":"La Frost Weapon Damage"}
+{"type":"page-type/temper-metric-tree"}

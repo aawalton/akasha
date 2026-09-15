@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The machine is given the ESO stubs the upstream file calls before that file is run."},{"decisionKind":"decision-kind/departure","statement":"The zone names and the zone geography are written as two files from one run."},{"decisionKind":"decision-kind/departure","statement":"A language's zone names have that language's own keys rather than a fallback."},{"decisionKind":"decision-kind/departure","statement":"A run leaving a data table missing is refused rather than written."},{"decisionKind":"decision-kind/departure","statement":"The ported file names the upstream version the data came out of."},{"decisionKind":"decision-kind/departure","statement":"Each of the two files is named to the caller before the other one is worked out."}]}
+{"definition":"the zone names and zone geography upstream LibZone carries, copied out as TypeScript"}
+{"id":"01a0685a-f9b2-7000-8097-747bc58d26f6"}
+{"slug":"zone-upstream-port"}
+{"type":"page-type/module"}

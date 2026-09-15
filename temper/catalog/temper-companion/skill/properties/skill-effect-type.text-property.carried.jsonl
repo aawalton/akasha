@@ -1,0 +1,8 @@
+{"definition":"what one thing a companion's skill does is a case of"}
+{"id":"01a06193-6c9c-7634-848c-8d6bb62228f6"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"type"}
+{"slug":"skill-effect-type"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

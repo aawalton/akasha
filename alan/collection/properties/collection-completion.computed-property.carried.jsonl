@@ -1,0 +1,10 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A collection whose length or progress is absent reads as not started."}]}
+{"definition":"a collection's progress as a stage rather than an amount"}
+{"holds":"text"}
+{"id":"01a07231-dd66-7ecf-a99e-fe95f4120495"}
+{"propertySlug":"completion"}
+{"slug":"collection-completion"}
+{"type":"page-type/computed-property"}
+{"types":"ts"}
+{"values":["completed","in-progress","not-started"]}

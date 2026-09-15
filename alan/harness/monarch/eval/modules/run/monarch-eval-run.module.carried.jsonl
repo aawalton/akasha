@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A run over a file that is already there is refused unless a figure is said to have been seen."},{"decisionKind":"decision-kind/departure","statement":"A run file's path is never defaulted to somewhere plausible."},{"decisionKind":"decision-kind/departure","statement":"The Monarch pages are marked before and after a run."},{"decisionKind":"decision-kind/departure","statement":"A run says whether anything moved under that run."},{"decisionKind":"decision-kind/departure","statement":"Batches are asked four at a time rather than one by one or every batch at once."},{"decisionKind":"decision-kind/departure","statement":"The categories offered and the rows drawn and the proposals and the cost are all kept."},{"decisionKind":"decision-kind/departure","statement":"A stratum that could not fill its draw says so as the run goes."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes to Monarch or to our copy."}]}
+{"definition":"one scored run of the agent over a drawn sample, kept as a file"}
+{"id":"01a06868-1535-7f9d-812e-7f071e571d5b"}
+{"slug":"monarch-eval-run"}
+{"type":"page-type/module"}

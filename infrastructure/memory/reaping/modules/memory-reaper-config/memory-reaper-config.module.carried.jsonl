@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every ceiling is stated in gibibytes and held in kibibytes."},{"decisionKind":"decision-kind/departure","statement":"Every ceiling the environment states as no positive finite number is a default."},{"decisionKind":"decision-kind/departure","statement":"A ceiling is read once at load rather than read again each tick."},{"decisionKind":"decision-kind/departure","statement":"The reaper says every ceiling that reaper is running under before its first tick."}]}
+{"definition":"the ceilings, the headroom margin and the tick the reaper runs under"}
+{"id":"01a0686c-f06b-7007-b2bd-1fadc2d0ea23"}
+{"slug":"memory-reaper-config"}
+{"type":"page-type/module"}

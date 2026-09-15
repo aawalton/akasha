@@ -1,0 +1,5 @@
+{"id":"01a0655b-fcd0-7020-bce5-8bf5f718facf"}
+{"matches":[{"key":"merchant","comparison":"is","values":["lob"]},{"key":"sign","comparison":"is-not","values":["negative"]}]}
+{"slug":"lob-other"}
+{"title":"Lob other"}
+{"type":"page-type/category-rule-code"}

@@ -1,0 +1,8 @@
+{"definition":"an armor weight a role is built around"}
+{"id":"01a05fce-1853-7880-bba6-4f23630e1dbf"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"valid-armor-weights"}
+{"slug":"valid-armor-weights"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

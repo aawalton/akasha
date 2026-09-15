@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Shadow Cloak"}
+{"description":"\"Cloak yourself in shadow to become invisible for |cffffff3|r seconds while immediately healing yourself for |cffffff10710|r Health.\""}
+{"esoSkillId":237640}
+{"icon":"/esoui/art/icons/ability_nightblade_004.dds"}
+{"id":"019e6f53-a97f-71bb-99dd-7d6b4904ee07"}
+{"isMorph":false}
+{"key":"vengeance-shadow-cloak"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-nightblade-shadow"}
+{"skillType":"active"}
+{"slug":"vengeance-shadow-cloak"}
+{"subcategoryId":"vengeance-nightblade-shadow"}
+{"title":"Vengeance Shadow Cloak"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The request has a deadline of its own rather than the runtime's."},{"decisionKind":"decision-kind/departure","statement":"The runtime's own idle timeout is turned off."},{"decisionKind":"decision-kind/departure","statement":"A slow cold model load is waited out."}]}
+{"definition":"the request settings a call through the traffic cop is made with"}
+{"id":"01a0685d-4b35-700d-9c90-fb07ff5e3a7d"}
+{"slug":"cop-fetch"}
+{"type":"page-type/module"}

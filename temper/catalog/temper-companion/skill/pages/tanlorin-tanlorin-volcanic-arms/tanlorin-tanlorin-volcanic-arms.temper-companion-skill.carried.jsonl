@@ -1,0 +1,13 @@
+{"abilityId":214703}
+{"companionId":"tanlorin"}
+{"description":"Your Companion charges their and their grouped allies' weapons with volcanic power to gain Major Brutality and Sorcery, increasing Weapon and Spell Damage by 20% for $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_dragonknight_volcanicarms.dds"}
+{"id":"019e6484-38ab-7217-8c87-e54984d87279"}
+{"key":"tanlorin-volcanic-arms"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-tanlorin-radiating-heart"}
+{"skillType":"active"}
+{"slug":"tanlorin-tanlorin-volcanic-arms"}
+{"title":"Volcanic Arms"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps","support"]}

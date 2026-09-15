@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The deploy job runs as this account."},{"decisionKind":"decision-kind/departure","statement":"This account sits in the namespace the deploy job runs in."},{"decisionKind":"decision-kind/departure","statement":"This account is allowed every action on every object the cluster holds."}]}
+{"definition":"the account the deploy job runs as"}
+{"id":"01a0a162-b114-7eb3-b2ed-f34d8ef02c1d"}
+{"slug":"deploy-account"}
+{"type":"page-type/manifest"}

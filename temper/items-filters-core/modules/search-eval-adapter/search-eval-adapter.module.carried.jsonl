@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A rule-editor checker takes a compiled rule and item facts and an eval context."},{"decisionKind":"decision-kind/departure","statement":"Every environment accessor here throws rather than answering."},{"decisionKind":"decision-kind/departure","statement":"The synthetic rule names the stock action and the category that matches every item."}]}
+{"definition":"the synthetic rule and empty environment that let a filter reuse a rule-editor condition checker"}
+{"id":"01a0613a-e0a7-755c-8441-e2bc847bee09"}
+{"slug":"search-eval-adapter"}
+{"type":"page-type/module"}

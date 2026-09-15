@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One post is in flight at a time."},{"decisionKind":"decision-kind/departure","statement":"An item outside the backpack is never posted."},{"decisionKind":"decision-kind/departure","statement":"The item is set pending before the post is issued."},{"decisionKind":"decision-kind/departure","statement":"The post is issued from the game's pending-item event."},{"decisionKind":"decision-kind/departure","statement":"A caller asking while a post is in flight is answered false."},{"decisionKind":"decision-kind/departure","statement":"A trading house error settles the post as failed."},{"decisionKind":"decision-kind/departure","statement":"Disposal unregisters the three events the flow registered."}]}
+{"definition":"the handshake the game asks for before an item goes up for sale"}
+{"id":"01a060a9-5d59-7ff2-971b-202f4a680195"}
+{"slug":"guild-store-poster"}
+{"type":"page-type/module"}

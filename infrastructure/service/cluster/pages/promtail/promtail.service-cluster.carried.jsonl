@@ -1,0 +1,10 @@
+{"containerPort":3101}
+{"definition":"what collects the logs written on a node and ships them to the store"}
+{"id":"01a06816-68b2-76ca-9850-ba1ff8ecee13"}
+{"image":"grafana/promtail:3.1.0"}
+{"manifest":["manifest/promtail"]}
+{"namespace":"loki"}
+{"resourceKind":"DaemonSet"}
+{"resourceName":"promtail"}
+{"slug":"promtail"}
+{"type":"page-type/service-cluster"}

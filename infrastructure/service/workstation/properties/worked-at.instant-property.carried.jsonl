@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The service doing the work writes the moment."},{"decisionKind":"decision-kind/departure","statement":"Nothing else writes the moment."},{"decisionKind":"decision-kind/departure","statement":"The moment moves only where a round of that work finished."},{"decisionKind":"decision-kind/departure","statement":"A service dying part way through a round leaves the moment unmoved."},{"decisionKind":"decision-kind/departure","statement":"The moment says work landed rather than saying a process is alive."},{"decisionKind":"decision-kind/departure","statement":"A service started over and over without finishing a round never moves the moment."}]}
+{"definition":"when a service last finished a round of its own work"}
+{"id":"01a08caf-449d-7319-acb4-c598e9e345ee"}
+{"propertySlug":"worked-at"}
+{"slug":"worked-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

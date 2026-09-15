@@ -1,0 +1,6 @@
+{"definition":"whether a player made an item"}
+{"id":"01a06053-b37d-7332-a3b0-1ee73f225da9"}
+{"propertySlug":"crafted"}
+{"slug":"crafted"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

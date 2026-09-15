@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"a parameter decorator wrapped as a decorator the legacy run can call"}
+{"id":"01a08c47-4166-72f8-ba80-ce03951cdfda"}
+{"luaExport":"__TS__DecorateParam"}
+{"slug":"decorate-param"}
+{"type":"page-type/lualib-helper"}

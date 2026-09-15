@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The records here are one unbroken run of the table's order."},{"decisionKind":"decision-kind/departure","statement":"The run is the add-on's own source rather than a derivation."}]}
+{"definition":"one run of the destinations settings strings in Russian"}
+{"id":"01a06269-2a2d-79ea-8582-1d0694600244"}
+{"slug":"destinations-lang-settings-ru-02"}
+{"type":"page-type/module"}

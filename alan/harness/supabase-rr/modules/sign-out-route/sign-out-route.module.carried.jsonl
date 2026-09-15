@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reader asking for the sign-out path without posting is sent to the root."}]}
+{"definition":"what ends a reader's session and where that reader is sent"}
+{"id":"01a08e20-a545-7726-8e20-9238b6fd8a89"}
+{"slug":"sign-out-route"}
+{"type":"page-type/module"}

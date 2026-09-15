@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A property saying nothing here holds the files an author writes."},{"decisionKind":"decision-kind/departure","statement":"No author writes such a file by hand."},{"decisionKind":"decision-kind/absence","statement":"Nothing here names the machine that writes the file."}]}
+{"definition":"whether a machine rather than an author writes the files a property has"}
+{"id":"01a06d4d-c32a-73c2-8814-5b8f1754297f"}
+{"propertySlug":"generated"}
+{"slug":"generated"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

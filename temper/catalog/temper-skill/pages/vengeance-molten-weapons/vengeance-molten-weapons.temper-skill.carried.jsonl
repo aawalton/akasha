@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Molten Weapons"}
+{"description":"\"Charge your and up to 2 of your grouped allies' weapons with volcanic power to gain Minor Prophecy and Savagery, increasing your Weapon and Spell Critical by |cffffff1314|r for |cffffff30|r seconds.\""}
+{"esoSkillId":237782}
+{"icon":"/esoui/art/icons/ability_dragonknight_015.dds"}
+{"id":"019e6f53-a940-7223-ae00-4f8d3786e66e"}
+{"isMorph":false}
+{"key":"vengeance-molten-weapons"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-dragonknight-earthen-heart"}
+{"skillType":"active"}
+{"slug":"vengeance-molten-weapons"}
+{"subcategoryId":"vengeance-dragonknight-earthen-heart"}
+{"title":"Vengeance Molten Weapons"}
+{"type":"page-type/temper-skill"}

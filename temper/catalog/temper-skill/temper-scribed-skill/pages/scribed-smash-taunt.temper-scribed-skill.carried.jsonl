@@ -1,0 +1,19 @@
+{"baseName":"Smash"}
+{"description":"Deals 1001 Physical Damage to enemies and taunts the initial target to attack you for 15 seconds. Now requires a target to cast and beneficial Signature and Affix scripts only apply to you."}
+{"esoSkillId":227609}
+{"focusScriptId":"taunt"}
+{"grimoireId":"smash"}
+{"icon":"/esoui/art/icons/ability_grimoire_2handed.dds"}
+{"id":"019e6471-15c2-740a-b681-09445b01a07b"}
+{"isMorph":false}
+{"key":"scribed-smash-taunt"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"active"}
+{"slug":"scribed-smash-taunt"}
+{"subcategoryId":"scribed"}
+{"title":"Goading Smash"}
+{"type":"page-type/temper-scribed-skill"}

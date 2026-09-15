@@ -1,0 +1,7 @@
+{"id":"01a094d1-2bfb-719b-a741-e65918a5419f"}
+{"placeholder":"dir"}
+{"said":"--out-dir"}
+{"slug":"out-dir"}
+{"takes":"where the PNGs are written, a folder beside the clip named for it where none is said"}
+{"type":"page-type/argument"}
+{"value":"path"}

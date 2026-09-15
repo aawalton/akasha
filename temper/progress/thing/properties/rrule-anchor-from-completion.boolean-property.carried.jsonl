@@ -1,0 +1,6 @@
+{"definition":"whether the next occurrence counts from when the task was last done"}
+{"id":"01a05fc6-81fd-71d5-b309-ea22023c9f8d"}
+{"propertySlug":"rrule-anchor-from-completion"}
+{"slug":"rrule-anchor-from-completion"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

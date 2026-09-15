@@ -1,0 +1,19 @@
+{"baseName":"Traveling Knife"}
+{"description":"Deals 928 Physical Damage to an enemy and 1393 Poison Damage to enemies between you and them on return."}
+{"esoSkillId":217359}
+{"focusScriptId":"poison-damage"}
+{"grimoireId":"traveling-knife"}
+{"icon":"/esoui/art/icons/ability_grimoire_dualwield.dds"}
+{"id":"019e6471-15e1-7592-997b-0d4aeb5252ad"}
+{"isMorph":false}
+{"key":"scribed-traveling-knife-poison-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-dual-wield"}
+{"skillType":"active"}
+{"slug":"scribed-traveling-knife-poison-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Venomous Knife"}
+{"type":"page-type/temper-scribed-skill"}

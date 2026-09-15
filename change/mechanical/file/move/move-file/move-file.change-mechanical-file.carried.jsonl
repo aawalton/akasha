@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-move"}
+{"changeTargetSubtype":"change-target-subtype/file"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A move lands as a path moved rather than a body written and a body taken away."},{"decisionKind":"decision-kind/departure","statement":"A path with no body is refused rather than moved."},{"decisionKind":"decision-kind/departure","statement":"A path a body already stands at is refused rather than written over."},{"decisionKind":"decision-kind/absence","statement":"Nothing here rewrites the paths the moved body names."},{"decisionKind":"decision-kind/departure","statement":"The calling change repoints every body naming the path that moved."}]}
+{"definition":"one file moved to another path, with nothing else judged"}
+{"id":"01a07883-67ed-7849-b6e5-e499695cac46"}
+{"slug":"move-file"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical-file"}

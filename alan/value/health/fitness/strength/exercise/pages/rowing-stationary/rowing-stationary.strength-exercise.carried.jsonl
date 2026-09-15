@@ -1,0 +1,27 @@
+{"equipment":"strength-exercise-implement/machine"}
+{"exerciseCategory":"cardio"}
+{"exerciseExternalId":"Rowing_Stationary"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rowing_Stationary"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"intermediate"}
+{"exerciseSource":"free-exercise-db"}
+{"gripDemand":"high"}
+{"id":"019ebc77-d334-7120-9e10-e07b93b85b41"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"movementPattern":"conditioning"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["quadriceps"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["biceps","calves","glutes","hamstrings","lower-back","middle-back"]}
+{"sfrScore":3}
+{"skillCost":"low"}
+{"slug":"rowing-stationary"}
+{"title":"Rowing, Stationary"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

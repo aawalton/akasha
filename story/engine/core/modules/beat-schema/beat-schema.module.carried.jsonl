@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A beat written to the log has the turn the beat belongs to."}]}
+{"definition":"one entry in a game's log, either narrated prose or a system event"}
+{"id":"01a05b71-e543-7506-a57c-cc05b4aa56aa"}
+{"slug":"beat-schema"}
+{"test":"ts"}
+{"type":"page-type/module"}

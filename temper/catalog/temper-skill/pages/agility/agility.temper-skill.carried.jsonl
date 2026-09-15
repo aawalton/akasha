@@ -1,0 +1,19 @@
+{"baseName":"Agility"}
+{"description":"\"Increases your Weapon and Spell Damage by 2% for each piece of Medium Armor worn.\\n\\nCurrent bonus: 0%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45572}
+{"icon":"/esoui/art/icons/ability_armor_010.dds"}
+{"id":"019e6238-c28d-7382-b246-b7cafaa2982c"}
+{"isMorph":false}
+{"key":"agility"}
+{"learnedLevel":1}
+{"lineRankNeeded":38}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"armor-medium-armor"}
+{"skillType":"passive"}
+{"slug":"agility"}
+{"status":"supported"}
+{"subcategoryId":"armor-medium-armor"}
+{"title":"Agility"}
+{"type":"page-type/temper-skill"}

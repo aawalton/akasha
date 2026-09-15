@@ -1,0 +1,12 @@
+{"color":"color/blue"}
+{"definition":"the condition of Alan's body and its upkeep"}
+{"description":"Health represents my care for my physical body, including eat, move, sleep, and hygiene."}
+{"groups":["readout-group/values"]}
+{"id":"019eb7d0-f6ed-73b7-8495-21dfdac80cd2"}
+{"label":"Health"}
+{"parts":["domain/fitness"]}
+{"place":3}
+{"scale":"readout-scale/green-day-units"}
+{"slug":"health"}
+{"type":"page-type/value"}
+{"unit":"green day units"}

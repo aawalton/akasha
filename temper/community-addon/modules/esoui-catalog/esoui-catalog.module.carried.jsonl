@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"ESOUI answers over HTTP as JSON."},{"decisionKind":"decision-kind/departure","statement":"An answer of another shape is refused rather than read past."},{"decisionKind":"decision-kind/departure","statement":"A network error is raised as an operational error naming the address asked."},{"decisionKind":"decision-kind/departure","statement":"A status other than success is raised as an operational error."},{"decisionKind":"decision-kind/departure","statement":"An entry naming no install folder is carried through as naming no folder."},{"decisionKind":"decision-kind/departure","statement":"The first detail record answers for the file asked about."}]}
+{"definition":"what ESOUI answers about the addons ESOUI has"}
+{"id":"01a06069-b78e-7d2b-92aa-b3faa2d1f562"}
+{"slug":"esoui-catalog"}
+{"type":"page-type/module"}

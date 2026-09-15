@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The task class is loaded before any module adding a method to the task class."},{"decisionKind":"decision-kind/departure","statement":"The public name is published last."}]}
+{"definition":"the order the library parts are loaded in"}
+{"id":"01a0606a-1c55-7ece-9605-df5b14cabe22"}
+{"slug":"async-main"}
+{"type":"page-type/module"}

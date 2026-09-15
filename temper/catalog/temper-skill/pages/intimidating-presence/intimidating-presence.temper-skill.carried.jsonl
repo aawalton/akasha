@@ -1,0 +1,19 @@
+{"baseName":"Intimidating Presence"}
+{"description":"\"Allows you to Intimidate NPCs in conversation.\\n\\nReduces the Stamina cost of your Fighters Guild abilities by 15%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":29062}
+{"icon":"/esoui/art/icons/ability_fightersguild_passive_intimidate.dds"}
+{"id":"019e6238-c2cf-7245-b76f-3c3913f4ddc7"}
+{"isMorph":false}
+{"key":"intimidating-presence"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"guild-fighters-guild"}
+{"skillType":"passive"}
+{"slug":"intimidating-presence"}
+{"status":"unsupported"}
+{"subcategoryId":"guild-fighters-guild"}
+{"title":"Intimidating Presence"}
+{"type":"page-type/temper-skill"}

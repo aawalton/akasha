@@ -1,0 +1,19 @@
+{"baseName":"Elemental Explosion"}
+{"description":"Deals 4009 Frost Damage to enemies."}
+{"esoSkillId":217228}
+{"focusScriptId":"frost-damage"}
+{"grimoireId":"elemental-explosion"}
+{"icon":"/esoui/art/icons/ability_grimoire_staffdestro.dds"}
+{"id":"019e6471-15a5-7201-ba29-b51e948d085b"}
+{"isMorph":false}
+{"key":"scribed-elemental-explosion-frost-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-destruction-staff"}
+{"skillType":"active"}
+{"slug":"scribed-elemental-explosion-frost-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Chilling Explosion"}
+{"type":"page-type/temper-scribed-skill"}

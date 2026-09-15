@@ -1,0 +1,8 @@
+{"default":"100"}
+{"id":"01a094b7-52bf-7d29-b278-b640e5d2f5be"}
+{"placeholder":"n"}
+{"said":"--tail"}
+{"slug":"tail"}
+{"takes":"how many trailing lines to answer with"}
+{"type":"page-type/argument"}
+{"value":"whole-number"}

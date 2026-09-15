@@ -1,0 +1,7 @@
+{"id":"01a094e3-4c26-7dc8-a762-277ee4dcc981"}
+{"placeholder":"path"}
+{"said":"--subject-file"}
+{"slug":"subject-file"}
+{"takes":"the file the subject is read from, or `-` for standard input"}
+{"type":"page-type/argument"}
+{"value":"path"}

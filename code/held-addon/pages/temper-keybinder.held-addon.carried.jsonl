@@ -1,0 +1,9 @@
+{"addonKind":"ported"}
+{"addonName":"TemperKeybinder"}
+{"adjacents":["held-addon/temper-crafting","held-addon/temper-navigation","held-addon/lib-addon-keybinds"]}
+{"esoAddon":"eso-addon/temper-keybinder-addon"}
+{"heldBy":13122}
+{"id":"01a081a2-79f6-76bc-bfb3-a0b373f50177"}
+{"slug":"temper-keybinder"}
+{"tiClean":true}
+{"type":"page-type/held-addon"}

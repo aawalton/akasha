@@ -1,0 +1,10 @@
+{"description":"Reduces companion ability cooldowns"}
+{"effectType":"fractional-change"}
+{"id":"01a05fce-c4b0-72a1-9c7b-e63389b0f298"}
+{"isReduction":true}
+{"key":"quickened"}
+{"metricId":"companion-ability-cooldown"}
+{"qualityValues":"jsonl"}
+{"slug":"quickened"}
+{"title":"Quickened"}
+{"type":"page-type/temper-companion-trait"}

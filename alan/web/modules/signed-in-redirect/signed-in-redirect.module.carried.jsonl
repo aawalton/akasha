@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A signed-in reader is sent to the home route."}]}
+{"definition":"where a signed-in reader asking for a signed-out route is sent"}
+{"id":"01a08e1d-f4fb-72e1-9f35-8bab309aa758"}
+{"slug":"signed-in-redirect"}
+{"type":"page-type/module"}

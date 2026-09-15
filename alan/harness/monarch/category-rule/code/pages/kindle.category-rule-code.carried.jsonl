@@ -1,0 +1,7 @@
+{"category":"monarch-category/shopping"}
+{"id":"01a0655b-fcd0-701f-a95d-dbdce01bbfed"}
+{"matches":[{"key":"merchant","comparison":"is","values":["digital purchase"]},{"key":"amount","comparison":"is","values":["-12.88"]}]}
+{"ruleNote":"Kindle subscription"}
+{"slug":"kindle"}
+{"title":"Kindle"}
+{"type":"page-type/category-rule-code"}

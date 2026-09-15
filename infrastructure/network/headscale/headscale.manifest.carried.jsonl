@@ -1,0 +1,8 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The server reads its certificate once as the server starts."},{"decisionKind":"decision-kind/departure","statement":"A renewed certificate reaches the server in a new pod rather than in the running pod."},{"decisionKind":"decision-kind/departure","statement":"The pod template carries the hash of the headscale-tls secret."},{"decisionKind":"decision-kind/departure","statement":"The keys hashed from the headscale-tls secret are tls.crt and tls.key."},{"decisionKind":"decision-kind/departure","statement":"A renewal rolls the pod."},{"decisionKind":"decision-kind/departure","statement":"The pod template carries the hash of the headscale-s3-creds secret."},{"decisionKind":"decision-kind/departure","statement":"The keys hashed from the headscale-s3-creds secret are access_key and secret_key."}]}
+{"definition":"the workload, service and policies running the server that admits machines to the private network"}
+{"generatedDirectory":true}
+{"id":"01a0738c-9157-7c4c-906c-8ff65da0976d"}
+{"parts":["module/headscale-configmaps","module/headscale-network-policies"]}
+{"slug":"headscale"}
+{"type":"page-type/manifest"}

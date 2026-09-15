@@ -1,0 +1,12 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-add"}
+{"changeTargetSubtype":"change-target-subtype/page-type-page-property"}
+{"changeTargetType":"change-target-type/page-type"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every page of that page type is answered in this one answer."},{"decisionKind":"decision-kind/departure","statement":"The pages written are the pages the index names of that page type."},{"decisionKind":"decision-kind/departure","statement":"A page type carrying no property under the key is refused."},{"decisionKind":"decision-kind/departure","statement":"A key the page type says carries many values is refused."},{"decisionKind":"decision-kind/departure","statement":"A page type no page is of is refused rather than answered as no edit."},{"decisionKind":"decision-kind/departure","statement":"A key no page spells is refused."},{"decisionKind":"decision-kind/departure","statement":"A value that parses as no value is refused before any page is read."},{"decisionKind":"decision-kind/departure","statement":"A value naming anything the body would run is no value."},{"decisionKind":"decision-kind/departure","statement":"The value is written as the caller spells it rather than as text to quote."},{"decisionKind":"decision-kind/departure","statement":"An `after` the caller states places the key on every page."},{"decisionKind":"decision-kind/departure","statement":"Where the caller states no `after`, the key lands where the pages of that page type write it."},{"decisionKind":"decision-kind/departure","statement":"Which keys a page writes is read from the value the index files for that page."},{"decisionKind":"decision-kind/departure","statement":"A page the index files no value for gains the key last."},{"decisionKind":"decision-kind/departure","statement":"Every page is placed by the pages as they were before this change ran."},{"decisionKind":"decision-kind/departure","statement":"One page's key comes in by one edit over that page."},{"decisionKind":"decision-kind/departure","statement":"A page stating the key already is refused by its path."},{"decisionKind":"decision-kind/absence","statement":"No rung beneath is reached."}]}
+{"definition":"one value put under one key on every page of one page type"}
+{"id":"01a09c68-3a99-7061-b5bc-e4cbfc109390"}
+{"slug":"add-property-to-every-page"}
+{"test":"ts"}
+{"testFixtures":"ts"}
+{"type":"page-type/change-mechanical-page-type"}

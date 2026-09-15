@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-checked"}
+{"changeMode":"change-mode/change-mode-rename"}
+{"changeTargetSubtype":"change-target-subtype/file-page"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The rename is left to the mechanical change renaming a page."},{"decisionKind":"decision-kind/departure","statement":"The kind of page is read from the path rather than from the index."},{"decisionKind":"decision-kind/departure","statement":"A page type is refused here."},{"decisionKind":"decision-kind/departure","statement":"The refusal names the change renaming a page type."},{"decisionKind":"decision-kind/departure","statement":"That change is reached through the runner rather than by an import."},{"decisionKind":"decision-kind/absence","statement":"Nothing here works out a body of its own."}]}
+{"definition":"a page renamed and carried to where its slug says, in the data and in every name"}
+{"id":"01a07718-c9b6-7e8c-bc13-5927529ac249"}
+{"maxCpuSeconds":30}
+{"maxMemoryMb":3072}
+{"slug":"rename-page"}
+{"test":"ts"}
+{"type":"page-type/change-agent"}

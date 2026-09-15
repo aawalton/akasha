@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This action waits for the end of the agent's turn."}]}
+{"definition":"a seat's agent started again in the same session between turns"}
+{"id":"01a05edb-0c01-7f85-8584-5aee4a6704cb"}
+{"slug":"restart"}
+{"type":"page-type/supervisor-action"}

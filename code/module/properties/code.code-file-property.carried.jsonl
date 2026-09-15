@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Code is written in TypeScript."},{"decisionKind":"decision-kind/departure","statement":"Code drawing something for a browser is written in TSX."},{"decisionKind":"decision-kind/departure","statement":"TSX is TypeScript the parser admits JSX into."}]}
+{"definition":"the code a page is"}
+{"extensions":["ts","tsx"]}
+{"id":"01a04a20-6e04-7e3d-88e8-a8af6fd9c02b"}
+{"propertySlug":"code"}
+{"slug":"code"}
+{"type":"page-type/code-file-property"}
+{"types":"ts"}

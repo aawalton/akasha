@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name a page property has states its format on the property."},{"decisionKind":"decision-kind/departure","statement":"A place is defined whether or not a file in akasha has such a name yet."},{"decisionKind":"decision-kind/departure","statement":"A place stating no format says which in its own decisions."},{"decisionKind":"decision-kind/gap","statement":"A place says in prose where the place holds."}]}
+{"definition":"a place a name appears, and the format it is written in there"}
+{"extends":["page-type/domain"]}
+{"id":"01a04fc9-2ad4-7896-ae44-4569ddae3f7e"}
+{"parts":["name-place/component-identifier","name-place/constant-identifier","name-place/derived-identifier","name-place/environment-variable","name-place/file-name","name-place/file-role","name-place/folder-name","name-place/foreign-name","name-place/function-identifier","name-place/listing-href","name-place/package-name","name-place/page-href","name-place/property-key","name-place/route-parameter","name-place/route-segment","name-place/type-identifier"]}
+{"properties":[{"pageProperty":"relation-property/name-format","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"name-place"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

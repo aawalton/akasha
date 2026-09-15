@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Archiving and skipping exclude each other."},{"decisionKind":"decision-kind/departure","statement":"Every action taken on a piece of mail is recorded with whatever took that action and when."},{"decisionKind":"decision-kind/departure","statement":"A record of an action is written once and never changed."}]}
+{"definition":"something done in response to a piece of mail"}
+{"id":"01a0675b-16e1-7884-8c3c-300e5949ac31"}
+{"parts":["domain/email-action-archive","domain/email-action-forward","domain/email-action-notify","domain/email-action-skip","domain/email-action-unsubscribe"]}
+{"slug":"email-action"}
+{"type":"page-type/domain"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One context-menu object is created at addon load and never replaced."},{"decisionKind":"decision-kind/departure","statement":"Entries are appended to a plain list rather than added through the combobox."},{"decisionKind":"decision-kind/departure","statement":"The menu anchors to the mouse position rather than to a container control."},{"decisionKind":"decision-kind/departure","statement":"Opening while another library menu is visible arms two preventer variables."}]}
+{"definition":"the single context-menu object and the way it opens at the mouse"}
+{"id":"01a06275-c447-7d40-8e68-2f92eea8b96d"}
+{"slug":"scrollable-menu-contextmenu-class"}
+{"type":"page-type/module"}

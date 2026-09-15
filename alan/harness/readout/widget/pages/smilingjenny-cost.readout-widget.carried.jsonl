@@ -1,0 +1,14 @@
+{"app":"ios-app/smilingjenny"}
+{"caption":"Alan's Cost"}
+{"component":"ios-component/smilingjenny-cost-widget"}
+{"definition":"the tile on Jenny's phone showing what the block Alan is in costs him each hour"}
+{"families":["small"]}
+{"feed":"https://smilingjenny.me/api/cost"}
+{"galleryDescription":"What an hour of the block Alan is in costs him."}
+{"galleryName":"Cost"}
+{"groups":["readout-group/cost"]}
+{"id":"01a08bb5-efd9-7b30-b422-c38449b55e6d"}
+{"kind":"CostWidget"}
+{"place":4}
+{"slug":"smilingjenny-cost"}
+{"type":"page-type/readout-widget"}

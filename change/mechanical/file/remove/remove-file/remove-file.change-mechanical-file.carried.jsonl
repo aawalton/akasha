@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-remove"}
+{"changeTargetSubtype":"change-target-subtype/file"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path with no body is refused rather than taken away."},{"decisionKind":"decision-kind/departure","statement":"Nothing here judges whether a file may go."},{"decisionKind":"decision-kind/departure","statement":"The calling change judges whether a file may go."},{"decisionKind":"decision-kind/departure","statement":"A directory is left to the landing rather than taken away here."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the disk or an index."}]}
+{"definition":"one file taken away, with nothing else judged"}
+{"id":"01a07744-1311-748c-a35b-3ebe72349dee"}
+{"slug":"remove-file"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical-file"}

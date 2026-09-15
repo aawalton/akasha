@@ -1,0 +1,18 @@
+{"baseName":"Mending"}
+{"description":"\"Increases your healing done by up to 13%, in proportion to the severity of the target's wounds.\""}
+{"esoSkillId":45206}
+{"icon":"/esoui/art/icons/ability_templar_004.dds"}
+{"id":"019e6245-a6ce-743c-9ea8-579dea937d6e"}
+{"isMorph":false}
+{"key":"mending"}
+{"learnedLevel":18}
+{"lineRankNeeded":18}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"templar-restoring-light"}
+{"skillType":"passive"}
+{"slug":"mending"}
+{"status":"unsupported"}
+{"subcategoryId":"templar-restoring-light"}
+{"title":"Mending"}
+{"type":"page-type/temper-skill"}

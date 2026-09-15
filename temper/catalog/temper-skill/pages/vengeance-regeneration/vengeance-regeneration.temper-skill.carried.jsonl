@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Regeneration"}
+{"description":"\"Share your staff's life-giving energy, healing you or a nearby ally for |cffffff26024|r Health over |cffffff6|r seconds.\""}
+{"esoSkillId":241521}
+{"icon":"/esoui/art/icons/ability_restorationstaff_002.dds"}
+{"id":"019e6f53-a961-7196-9081-f2c598af86c4"}
+{"isMorph":false}
+{"key":"vengeance-regeneration"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"vengeance-regeneration"}
+{"subcategoryId":"vengeance-weapon-restoration-staff"}
+{"title":"Vengeance Regeneration"}
+{"type":"page-type/temper-skill"}

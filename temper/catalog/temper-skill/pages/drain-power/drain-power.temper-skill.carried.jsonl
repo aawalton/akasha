@@ -1,0 +1,17 @@
+{"baseName":"Drain Power"}
+{"description":"\"Siphon the vigor from your enemies' blood, dealing |cffffff6400|r Magic Damage to all nearby enemies.\\n\\nIf an enemy is hit, you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff30|r seconds.\""}
+{"esoSkillId":33316}
+{"icon":"/esoui/art/icons/ability_nightblade_013.dds"}
+{"id":"019e6f53-a0e9-7b9c-8c11-dde553e4b1ec"}
+{"isMorph":false}
+{"key":"drain-power"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":0}
+{"rank":42}
+{"skillLineId":"nightblade-siphoning"}
+{"skillType":"active"}
+{"slug":"drain-power"}
+{"subcategoryId":"nightblade-siphoning"}
+{"title":"Drain Power"}
+{"type":"page-type/temper-skill"}

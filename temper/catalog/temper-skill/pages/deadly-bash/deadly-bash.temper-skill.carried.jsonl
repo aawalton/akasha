@@ -1,0 +1,19 @@
+{"baseName":"Deadly Bash"}
+{"description":"\"Improves your standard Bash attacks, causing them to deal 500 more damage and cost 50% less Stamina.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45469}
+{"icon":"/esoui/art/icons/ability_dragonknight_034.dds"}
+{"id":"019e6226-00df-7f02-9920-43196ff5859c"}
+{"isMorph":false}
+{"key":"deadly-bash"}
+{"learnedLevel":28}
+{"lineRankNeeded":28}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"passive"}
+{"slug":"deadly-bash"}
+{"status":"partially-supported"}
+{"subcategoryId":"weapon-one-hand-and-shield"}
+{"title":"Deadly Bash"}
+{"type":"page-type/temper-skill"}

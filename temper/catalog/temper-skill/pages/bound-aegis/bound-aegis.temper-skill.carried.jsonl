@@ -1,0 +1,18 @@
+{"baseName":"Bound Armor"}
+{"description":"\"Protect yourself with the power of Oblivion, creating a suit of Daedric mail that increases your block mitigation by 50% for 3 seconds. The duration is based on your combined Physical and Spell Resistance.\\n\\nWhen slotted on either bar, you gain Minor Protection and Minor Resolve, reducing your damage taken by 5% and increasing your Armor by 2974.\""}
+{"effects":"jsonl"}
+{"esoSkillId":30445}
+{"icon":"/esoui/art/icons/ability_sorcerer_bound_aegis.dds"}
+{"id":"019e6245-a602-797f-ae20-3a1aea74def8"}
+{"isMorph":true}
+{"key":"bound-aegis"}
+{"learnedLevel":42}
+{"lineRankNeeded":42}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"sorcerer-daedric-summoning"}
+{"skillType":"active"}
+{"slug":"bound-aegis"}
+{"subcategoryId":"sorcerer-daedric-summoning"}
+{"title":"Bound Aegis"}
+{"type":"page-type/temper-skill"}

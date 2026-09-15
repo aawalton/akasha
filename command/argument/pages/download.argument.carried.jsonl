@@ -1,0 +1,7 @@
+{"id":"01a094e7-e785-76b9-ac66-1a902ff40b9d"}
+{"placeholder":"path"}
+{"said":"--download"}
+{"slug":"download"}
+{"takes":"the file to fetch the installer ISO to once it is registered"}
+{"type":"page-type/argument"}
+{"value":"path"}

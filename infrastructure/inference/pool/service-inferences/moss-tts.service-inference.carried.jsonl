@@ -1,0 +1,14 @@
+{"definition":"the MOSS voice model, served by mlx-audio"}
+{"enabled":true}
+{"host":"macbook"}
+{"id":"01a090a1-e663-7f41-809c-ef0e35c0a233"}
+{"internalPort":18093}
+{"lifecycle":"pool"}
+{"port":8093}
+{"provision":"shell-script/mlx-audio-provision"}
+{"pythonVersion":"3.12"}
+{"runs":["python -m mlx_audio.server --host 127.0.0.1 --port 18093"]}
+{"slug":"moss-tts"}
+{"type":"page-type/service-inference"}
+{"warm":true}
+{"workdir":"."}

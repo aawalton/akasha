@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The commit at HEAD is read from git rather than carried by a caller."},{"decisionKind":"decision-kind/departure","statement":"The commit is answered as the hash naming it."}]}
+{"definition":"the commit a checkout's HEAD is at"}
+{"id":"01a0943c-95cf-7202-81cd-88b1efc7c605"}
+{"slug":"head-commit"}
+{"test":"ts"}
+{"type":"page-type/module"}

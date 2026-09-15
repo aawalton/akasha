@@ -1,0 +1,13 @@
+{"abilityId":215001}
+{"companionId":"tanlorin"}
+{"description":"Your Companion burns an enemy from the inside with soulfire, dealing $1 Magic Damage over $$1 seconds. Upon completion, the soulfire overflows and explodes from the enemy, dealing $2 Magic Damage to all enemies near them."}
+{"icon":"/esoui/art/icons/ability_companion_tanlorin_shattersoul.dds"}
+{"id":"019e6484-38a9-7157-a2a3-1c257d3a3e35"}
+{"key":"tanlorin-shattered-spirit"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-tanlorin-empathic-fighter"}
+{"skillType":"active"}
+{"slug":"tanlorin-tanlorin-shattered-spirit"}
+{"title":"Shattered Spirit"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

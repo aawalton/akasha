@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A tick that outruns its ceiling loses the race rather than running on unwatched."},{"decisionKind":"decision-kind/departure","statement":"A ceiling reached is told apart from any other throw by its own error name."},{"decisionKind":"decision-kind/departure","statement":"A tick asked for after the stop was asked is refused before that tick starts."},{"decisionKind":"decision-kind/departure","statement":"A timer left behind holds the process up."},{"decisionKind":"decision-kind/departure","statement":"Every race clears its own timer."},{"decisionKind":"decision-kind/departure","statement":"A listener left on the signal outlives the tick."},{"decisionKind":"decision-kind/departure","statement":"Every race takes its own listener off."}]}
+{"definition":"the ceiling a single tick of a long-running service runs under"}
+{"id":"01a06885-0bab-7000-97bd-58c9925eb768"}
+{"slug":"tick-deadline"}
+{"test":"ts"}
+{"type":"page-type/module"}

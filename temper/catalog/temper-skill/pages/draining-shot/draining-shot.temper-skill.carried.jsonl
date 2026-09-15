@@ -1,0 +1,17 @@
+{"baseName":"Scatter Shot"}
+{"description":"\"Blast an enemy with an enchanted arrow, dealing 1393 Physical Damage and reducing their Movement Speed by 60% for 3 seconds.\\n\\nIf the enemy is hit, you heal for 2399.\""}
+{"esoSkillId":40883}
+{"icon":"/esoui/art/icons/ability_bow_004_a.dds"}
+{"id":"019e6226-00e7-7343-91cf-b4af0658144c"}
+{"isMorph":true}
+{"key":"draining-shot"}
+{"learnedLevel":14}
+{"lineRankNeeded":14}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"weapon-bow"}
+{"skillType":"active"}
+{"slug":"draining-shot"}
+{"subcategoryId":"weapon-bow"}
+{"title":"Draining Shot"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,17 @@
+{"baseName":"Shield Wall"}
+{"description":"\"Reinforce your shield, allowing you to automatically block all attacks at no cost for 8 seconds.\\n\\nYour One Hand and Shield non-Ultimate abilities cost nothing while this effect persists.\""}
+{"esoSkillId":86345}
+{"icon":"/esoui/art/icons/ability_1handed_006_b.dds"}
+{"id":"019e6226-0112-7258-9b80-cb29c645723c"}
+{"isMorph":true}
+{"key":"shield-discipline"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":2}
+{"rank":12}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"ultimate"}
+{"slug":"shield-discipline"}
+{"subcategoryId":"weapon-one-hand-and-shield"}
+{"title":"Shield Discipline"}
+{"type":"page-type/temper-skill"}

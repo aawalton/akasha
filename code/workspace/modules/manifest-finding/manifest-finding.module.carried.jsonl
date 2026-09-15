@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A package's folder is the folder its page sits in."},{"decisionKind":"decision-kind/departure","statement":"A page at the repository root has the root itself for its folder."},{"decisionKind":"decision-kind/departure","statement":"A page type the index files no page under is answered as no packages."},{"decisionKind":"decision-kind/departure","statement":"The name a manifest is held under is asked of the index."},{"decisionKind":"decision-kind/departure","statement":"An index naming no such file throws rather than answering no manifest."}]}
+{"definition":"which manifests are in the tree, and the folder each one sits in"}
+{"id":"01a0a04a-15a8-7799-bdf2-4db67b297cd0"}
+{"slug":"manifest-finding"}
+{"type":"page-type/module"}

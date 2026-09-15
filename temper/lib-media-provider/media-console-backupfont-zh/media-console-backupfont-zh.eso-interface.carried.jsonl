@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A fallback font is loaded only where the client runs this language."}]}
+{"definition":"the fallback fonts a console client loads for Chinese"}
+{"id":"01a06069-f8c2-7d10-a29c-1b650054be54"}
+{"loadedAs":"Console/backupfont_zh.xml"}
+{"markup":"xml"}
+{"slug":"media-console-backupfont-zh"}
+{"type":"page-type/eso-interface"}

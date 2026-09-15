@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A write that threw says why, rather than reading as a write that changed nothing."}]}
+{"definition":"the things a seat may be waiting on, kept beside it in akasha and read back"}
+{"id":"01a0695a-d2ea-7792-be19-da7a851ad311"}
+{"slug":"seat-turn-pending"}
+{"type":"page-type/module"}

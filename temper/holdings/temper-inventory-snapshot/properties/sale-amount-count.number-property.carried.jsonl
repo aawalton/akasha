@@ -1,0 +1,7 @@
+{"definition":"how many of an item the averaged sales covered"}
+{"id":"01a06053-b381-725f-b7e5-12f853fc3295"}
+{"max":null}
+{"propertySlug":"sale-amount-count"}
+{"slug":"sale-amount-count"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

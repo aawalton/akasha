@@ -1,0 +1,17 @@
+{"baseName":"Platings Expertise"}
+{"description":"\"More than doubles the chances of improving items with platings.\""}
+{"esoSkillId":103648}
+{"icon":"/esoui/art/icons/passive_platingexpertise.dds"}
+{"id":"019e6224-cca8-733f-bd8f-74945156235d"}
+{"isMorph":false}
+{"key":"platings-expertise"}
+{"learnedLevel":1}
+{"lineRankNeeded":10}
+{"morphIndex":0}
+{"rank":3}
+{"skillLineId":"craft-jewelry-crafting"}
+{"skillType":"passive"}
+{"slug":"platings-expertise"}
+{"subcategoryId":"craft-jewelry-crafting"}
+{"title":"Platings Expertise"}
+{"type":"page-type/temper-skill"}

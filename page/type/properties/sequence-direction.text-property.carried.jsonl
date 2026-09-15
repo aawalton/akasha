@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type naming no direction has its run sorted upward."},{"decisionKind":"decision-kind/stopgap","statement":"The two directions a run can take do not stand as pages."}]}
+{"definition":"whether a run of pages is sorted upward or downward"}
+{"id":"01a062de-2001-7003-a875-d6a5b29e480d"}
+{"maxLength":4}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"direction"}
+{"slug":"sequence-direction"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

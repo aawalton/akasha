@@ -1,0 +1,7 @@
+{"definition":"how far from the stated position the device thinks the truth could be, in metres"}
+{"id":"01a06935-68b2-7b97-8c49-7df243d3b26a"}
+{"max":null}
+{"propertySlug":"accuracy-m"}
+{"slug":"accuracy-m"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

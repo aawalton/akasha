@@ -1,0 +1,18 @@
+{"baseName":"Prism"}
+{"description":"\"Casting a Dawn's Wrath ability while in combat generates 3 Ultimate. This effect can occur once every 6 seconds.\""}
+{"esoSkillId":45216}
+{"icon":"/esoui/art/icons/ability_templar_031.dds"}
+{"id":"019e6245-a6f1-70c5-9743-f32b22c6e76f"}
+{"isMorph":false}
+{"key":"prism"}
+{"learnedLevel":27}
+{"lineRankNeeded":27}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"templar-dawns-wrath"}
+{"skillType":"passive"}
+{"slug":"prism"}
+{"status":"unsupported"}
+{"subcategoryId":"templar-dawns-wrath"}
+{"title":"Prism"}
+{"type":"page-type/temper-skill"}

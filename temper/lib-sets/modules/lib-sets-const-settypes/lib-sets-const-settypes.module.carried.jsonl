@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each set type name is declared as a game global rather than a member of a table."}]}
+{"definition":"the fifteen kinds a gear set can be, numbered and named in eight languages"}
+{"id":"01a061d6-3e21-7c23-b9d0-2f45a894170f"}
+{"slug":"lib-sets-const-settypes"}
+{"type":"page-type/module"}

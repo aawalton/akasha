@@ -1,0 +1,15 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"action":"temper-item-action/fence-launder"}
+{"active":true}
+{"categoryId":"equipment"}
+{"conditions":"jsonl"}
+{"description":"Launders stolen equipment with a researchable trait so it can be submitted at a crafting station. Place before other research rules."}
+{"displayOrder":40}
+{"fromTemplate":"temper-rule-template/research-stolen"}
+{"goal":"temper-rule-goal/unlock"}
+{"id":"01a0728b-6d6f-78a3-a8ee-4d5c402d674a"}
+{"locked":true}
+{"slug":"rule-research-stolen"}
+{"title":"Launder stolen researchables"}
+{"type":"page-type/temper-inventory-rule"}
+{"updatedAt":"2026-05-04T16:04:31.132Z"}

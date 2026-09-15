@@ -1,0 +1,8 @@
+{"definition":"a domain name's registration is close to expiring"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62f9-72fc-8b06-943ba15ce158"}
+{"runbook":"txt"}
+{"slug":"domain-registration-expiring-soon"}
+{"summary":"Domain {{ $labels.domain }} registration expires in {{ $value | humanizeDuration }}"}
+{"title":"Domain registration expiring soon"}
+{"type":"page-type/alert"}

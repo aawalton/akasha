@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A datamining capture is checked against a zod shape before any reader reads that capture."},{"decisionKind":"decision-kind/absence","statement":"No datamining capture is written here."}]}
+{"definition":"what the datamining addon wrote out, read back and checked"}
+{"id":"01a0609d-90dd-75fe-af4b-e55cf72da4b3"}
+{"parts":["module/mined-data-parse","module/saved-variables-schema"]}
+{"slug":"temper-capture-datamining-reader"}
+{"type":"page-type/domain"}

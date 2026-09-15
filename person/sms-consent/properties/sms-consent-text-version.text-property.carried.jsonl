@@ -1,0 +1,8 @@
+{"definition":"which wording of the agreement the person was shown"}
+{"id":"01a06861-e7cd-7520-8e15-5ac92bd8de01"}
+{"maxLength":50}
+{"nameFormat":null}
+{"propertySlug":"consent-text-version"}
+{"slug":"sms-consent-text-version"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

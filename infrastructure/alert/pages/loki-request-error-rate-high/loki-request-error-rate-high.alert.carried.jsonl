@@ -1,0 +1,8 @@
+{"definition":"Loki is failing a large share of the requests it is given"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62fa-7253-9300-43463c53ede3"}
+{"runbook":"txt"}
+{"slug":"loki-request-error-rate-high"}
+{"summary":"'Loki is returning 5xx on {{ $value | printf \"%.1f\" }}% of requests'"}
+{"title":"Loki request error rate high"}
+{"type":"page-type/alert"}

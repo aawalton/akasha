@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The first step prints a URL and saves a verifier."},{"decisionKind":"decision-kind/departure","statement":"The second step reads that verifier and trades the code for a token."},{"decisionKind":"decision-kind/departure","statement":"The verifier is taken away once the trade is done."},{"decisionKind":"decision-kind/departure","statement":"Alan copies the code off the callback page into the terminal."},{"decisionKind":"decision-kind/departure","statement":"A second step run with no first step throws."},{"decisionKind":"decision-kind/departure","statement":"A challenge is the SHA-256 of the verifier in base64url."},{"decisionKind":"decision-kind/absence","statement":"No server listens for the callback here."},{"decisionKind":"decision-kind/departure","statement":"A run naming no step runs the first step."},{"decisionKind":"decision-kind/departure","statement":"The call each step names is the file running rather than a path spelled here."},{"decisionKind":"decision-kind/absence","statement":"Nothing compares the state the callback gives back, because Alan copies the code by hand."}]}
+{"definition":"the two steps Alan takes at a terminal to authorise this client"}
+{"id":"01a06261-dc1d-700c-a56a-b1a6269144c7"}
+{"slug":"spotify-auth-cli"}
+{"test":"ts"}
+{"type":"page-type/module"}

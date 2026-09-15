@@ -1,0 +1,12 @@
+{"displayOrder":4}
+{"effect":"Increases Maximum Health, Magicka, and Stamina"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_DEFENSE"}
+{"essenceRune":"Hakeijo"}
+{"glyphName":"Glyph of Prismatic Defense"}
+{"id":"01a05fd4-d96c-761c-984c-cf81a1aac8c6"}
+{"key":"prismatic-defense"}
+{"qualityValues":"jsonl"}
+{"slug":"prismatic-defense"}
+{"title":"Prismatic Defense"}
+{"type":"page-type/temper-armor-enchant"}

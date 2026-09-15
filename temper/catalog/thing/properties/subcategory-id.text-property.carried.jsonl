@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"This property is a relation to  a subcategory."}]}
+{"definition":"the narrower group a thing is filed under"}
+{"id":"01a05fba-ce3b-7c4b-adf4-7b752fef3058"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"subcategory-id"}
+{"slug":"subcategory-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

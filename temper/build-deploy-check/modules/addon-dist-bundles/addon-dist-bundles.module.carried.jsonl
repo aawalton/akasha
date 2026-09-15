@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A build output that is no directory is an empty population rather than an error."},{"decisionKind":"decision-kind/constraint","statement":"A gate finding no bundle refuses rather than certifying the add-ons clean."},{"decisionKind":"decision-kind/constraint","statement":"The refusal names the build command that would fill the population."}]}
+{"definition":"the emitted Lua bundles a post-build gate has to examine"}
+{"id":"01a06365-e827-7001-8799-62e2c6d7ba62"}
+{"slug":"addon-dist-bundles"}
+{"type":"page-type/module"}

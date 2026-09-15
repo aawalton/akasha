@@ -1,0 +1,8 @@
+{"displayOrder":8}
+{"id":"019e2fcd-5974-71a3-8297-b3631b07592e"}
+{"nodeId":"damage-done-single-target"}
+{"nodeType":"metric"}
+{"parent":"subcategory-damage-done"}
+{"slug":"metric-damage-done-single-target"}
+{"title":"Damage Done Single Target"}
+{"type":"page-type/temper-metric-tree"}

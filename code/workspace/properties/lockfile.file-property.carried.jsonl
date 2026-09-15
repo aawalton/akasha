@@ -1,0 +1,10 @@
+{"definition":"what the package manager resolved every dependency to"}
+{"extensions":["lock"]}
+{"fileName":"bun.lock"}
+{"generated":true}
+{"id":"01a06cbb-60a1-700e-9f60-bf05f8f24dee"}
+{"propertySlug":"lockfile"}
+{"runsFileLength":false}
+{"slug":"lockfile"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

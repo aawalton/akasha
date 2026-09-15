@@ -1,0 +1,8 @@
+{"definition":"the constant The Elder Scrolls Online names a weapon kind by in its own code"}
+{"id":"01a05fd1-d43b-781e-b83d-8550054c5d2b"}
+{"maxLength":200}
+{"nameFormat":"name-format/upper-snake-case"}
+{"propertySlug":"eso-weapon-type"}
+{"slug":"eso-weapon-type"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

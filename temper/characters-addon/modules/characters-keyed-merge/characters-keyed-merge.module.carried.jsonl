@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"How a stored map of numbered entries takes a freshly read map is settled here."}]}
+{"definition":"a stored map of numbered entries folded with a freshly read one, entry by entry"}
+{"id":"01a062ea-5f64-7fa1-aa0a-0b08766288df"}
+{"slug":"characters-keyed-merge"}
+{"type":"page-type/module"}

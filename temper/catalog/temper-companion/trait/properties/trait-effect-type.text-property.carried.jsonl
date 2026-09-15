@@ -1,0 +1,8 @@
+{"definition":"how a trait's value is read against the metric the trait moves"}
+{"id":"01a08786-5eff-74dc-8463-bba942e61344"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"effect-type"}
+{"slug":"trait-effect-type"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

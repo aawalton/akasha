@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An addon is a page here once the port has taken that addon over."},{"decisionKind":"decision-kind/departure","statement":"An addon the port has not taken over is no page here."},{"decisionKind":"decision-kind/departure","statement":"A key this page type does not declare is refused."},{"decisionKind":"decision-kind/departure","statement":"The name a page here states is judged against the addon manifests the tree has."},{"decisionKind":"decision-kind/gap","statement":"Every addon the temper port has is a page here."}]}
+{"definition":"an addon the temper port has taken over"}
+{"extends":["page-type/page"]}
+{"id":"01a0819e-eab2-7732-96da-90412118ff10"}
+{"parts":["boolean-property/ti-clean","number-property/held-by","relation-property/adjacents","relation-property/eso-addon","select-property/addon-kind","text-property/addon-name","text-property/ti-clean-blocked-reason"]}
+{"properties":[{"pageProperty":"text-property/addon-name","required":true,"many":false},{"pageProperty":"relation-property/eso-addon","required":true,"many":false},{"pageProperty":"select-property/addon-kind","required":true,"many":false},{"pageProperty":"number-property/held-by","required":true,"many":false},{"pageProperty":"relation-property/adjacents","required":false,"many":true,"maxCount":null},{"pageProperty":"boolean-property/ti-clean","required":false,"many":false},{"pageProperty":"text-property/ti-clean-blocked-reason","required":false,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"held-addon"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

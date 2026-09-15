@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each catalog here is a module of its own."},{"decisionKind":"decision-kind/departure","statement":"A completion catalog here is read from a key the game already gives as a number."},{"decisionKind":"decision-kind/departure","statement":"The inferred type is checked against the shape in `temper-capture-shapes`."}]}
+{"definition":"the zod schemas reading every game catalog a capture addon saved"}
+{"id":"01a06084-d418-72e5-b162-3bb5b84f91b3"}
+{"parts":["module/achievement-catalog-schema","module/antiquity-lore-catalog-schema","module/cadwell-catalog-schema","module/collectibles-catalog-schema","module/lore-library-catalog-schema","module/poi-catalog-schema","module/recipe-catalog-schema","module/trait-research-catalog-schema","module/tribute-catalog-schema","module/zone-completion-catalog-schema"]}
+{"slug":"temper-game-catalog-capture-host"}
+{"type":"page-type/domain"}

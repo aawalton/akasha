@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The stats are named here in the order the gathered table answers its ids in."}]}
+{"definition":"character stats defense-physical-dd-mitigation through effective-power"}
+{"id":"01a06131-abb1-7e8a-9e70-a5c7592452d9"}
+{"slug":"metrics-data-04"}
+{"type":"page-type/module"}

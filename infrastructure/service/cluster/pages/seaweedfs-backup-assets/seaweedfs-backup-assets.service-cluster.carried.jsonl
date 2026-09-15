@@ -1,0 +1,10 @@
+{"definition":"what copies the stored assets off to separate storage"}
+{"id":"01a06816-68b2-7119-9839-b6f8439a8555"}
+{"image":"rclone/rclone:1.74.3"}
+{"manifest":["manifest/seaweedfs-backup-assets"]}
+{"namespace":"seaweedfs-backup-assets"}
+{"resourceKind":"CronJob"}
+{"resourceName":"seaweedfs-backup-assets"}
+{"schedule":"5 5 * * *"}
+{"slug":"seaweedfs-backup-assets"}
+{"type":"page-type/service-cluster"}

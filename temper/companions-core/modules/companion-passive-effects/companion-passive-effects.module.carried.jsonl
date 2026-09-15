@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The passive effect's modifier type is carried over as the metric effect type."},{"decisionKind":"decision-kind/constraint","statement":"A skill that is not passive yields no effects."}]}
+{"definition":"the metric effects a companion's passive skill grants"}
+{"id":"01a06152-c2ce-7902-aff0-c78fd3c8b657"}
+{"slug":"companion-passive-effects"}
+{"type":"page-type/module"}

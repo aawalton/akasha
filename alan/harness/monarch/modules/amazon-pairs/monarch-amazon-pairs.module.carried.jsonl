@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An order is a pair only where that order has both a charge and a refund."},{"decisionKind":"decision-kind/departure","statement":"A charge and a refund naming different categories is a divergence."},{"decisionKind":"decision-kind/departure","statement":"A pair where no side names a category is undecided."},{"decisionKind":"decision-kind/departure","statement":"A category of Uncategorized is no category here."},{"decisionKind":"decision-kind/departure","statement":"A fully refunded order nets to zero."},{"decisionKind":"decision-kind/departure","statement":"A pair that does not net to zero is either missing a transaction or holding a transaction twice."},{"decisionKind":"decision-kind/departure","statement":"This module reports and corrects nothing."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes."}]}
+{"definition":"the Amazon charges and refunds standing under one order, and where they disagree"}
+{"id":"01a06866-06f1-75a5-8052-12c391088698"}
+{"slug":"monarch-amazon-pairs"}
+{"type":"page-type/module"}

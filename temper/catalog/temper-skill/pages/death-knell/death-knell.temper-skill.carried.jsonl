@@ -1,0 +1,19 @@
+{"baseName":"Death Knell"}
+{"description":"\"Increases your Critical Strike Chance against enemies under 33% Health by 20%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":116198}
+{"icon":"/esoui/art/icons/passive_necromancer_002.dds"}
+{"id":"019e6245-a645-766b-adc0-bfff3b36d51d"}
+{"isMorph":false}
+{"key":"death-knell"}
+{"learnedLevel":27}
+{"lineRankNeeded":27}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"necromancer-grave-lord"}
+{"skillType":"passive"}
+{"slug":"death-knell"}
+{"status":"unsupported"}
+{"subcategoryId":"necromancer-grave-lord"}
+{"title":"Death Knell"}
+{"type":"page-type/temper-skill"}

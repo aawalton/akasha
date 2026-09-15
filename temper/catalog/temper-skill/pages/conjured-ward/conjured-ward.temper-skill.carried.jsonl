@@ -1,0 +1,17 @@
+{"baseName":"Conjured Ward"}
+{"description":"\"Conjure globes of Daedric energy for protection, granting a damage shield for you and your pets that absorbs |cffffff7728|r damage for |cffffff6|r seconds.\\n\\nThis ability scales off the higher of your Max Health or Magicka and the shield is capped at |cffffff55|r% of your Max Health.\""}
+{"esoSkillId":28418}
+{"icon":"/esoui/art/icons/ability_sorcerer_hurricane.dds"}
+{"id":"019e6f53-a015-7189-a4df-3773295059b5"}
+{"isMorph":false}
+{"key":"conjured-ward"}
+{"learnedLevel":30}
+{"lineRankNeeded":30}
+{"morphIndex":0}
+{"rank":30}
+{"skillLineId":"sorcerer-daedric-summoning"}
+{"skillType":"active"}
+{"slug":"conjured-ward"}
+{"subcategoryId":"sorcerer-daedric-summoning"}
+{"title":"Conjured Ward"}
+{"type":"page-type/temper-skill"}

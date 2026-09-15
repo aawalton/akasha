@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The folder that script sits in is the folder handed to the host."},{"decisionKind":"decision-kind/departure","statement":"Two services provisioned the same way name one script."},{"decisionKind":"decision-kind/departure","statement":"The host runs that script with the service's name, its python and its folder."}]}
+{"definition":"the script that builds the environment a service runs in"}
+{"id":"01a0909f-9ea9-7dba-b8c0-27d20e677a97"}
+{"propertySlug":"provision"}
+{"slug":"provision"}
+{"targetPageType":"page-type/shell-script"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

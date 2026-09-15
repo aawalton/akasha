@@ -1,0 +1,7 @@
+{"definition":"how much it put in"}
+{"id":"01a0658d-16bc-738e-9d2e-3534cd4e99e1"}
+{"propertySlug":"relationship-deposit-size"}
+{"slug":"relationship-deposit-size"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["small","medium","large"]}

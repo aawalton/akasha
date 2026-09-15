@@ -1,0 +1,18 @@
+{"baseName":"Shadow Cloak"}
+{"description":"\"Cloak yourself in shadow to become invisible. When moving your Magicka Recovery is disabled and when not moving Shadowy Disguise is half cost. Your next direct damage attack will Critically Strike.\\n\\nWhen Shadowy Disguise begins or ends, you gain Born From Shadow for 10 seconds, increasing your damage done to monsters by 10%.\\n\\nWhile slotted on either bar, you gain Minor Protection, reducing your damage taken by 5%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":36368}
+{"icon":"/esoui/art/icons/ability_nightblade_004_a.dds"}
+{"id":"019e6245-a72a-7d2a-9c09-8b9adc606736"}
+{"isMorph":true}
+{"key":"shadowy-disguise"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"nightblade-shadow"}
+{"skillType":"active"}
+{"slug":"shadowy-disguise"}
+{"subcategoryId":"nightblade-shadow"}
+{"title":"Shadowy Disguise"}
+{"type":"page-type/temper-skill"}

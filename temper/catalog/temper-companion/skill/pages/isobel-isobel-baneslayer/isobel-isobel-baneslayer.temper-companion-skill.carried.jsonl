@@ -1,0 +1,13 @@
+{"abilityId":163763}
+{"companionId":"isobel"}
+{"description":"Your Companion channels their energy and conjures a weapon made of sunlight before striking downward, dealing $1 Magic Damage to all enemies in front of them. Enemies damaged by Baneslayer have particles remaining on them for $$2 seconds that detonate for $2 Magic Damage when a player deals damage to them."}
+{"icon":"/esoui/art/icons/ability_companion_templar_baneslayer.dds"}
+{"id":"019e6484-386a-748d-bf08-f1ce6e4a560d"}
+{"key":"isobel-baneslayer"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-isobel"}
+{"skillType":"ultimate"}
+{"slug":"isobel-isobel-baneslayer"}
+{"title":"Baneslayer"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["dps"]}

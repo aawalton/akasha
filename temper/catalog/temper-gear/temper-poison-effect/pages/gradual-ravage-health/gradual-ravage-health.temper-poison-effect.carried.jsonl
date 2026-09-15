@@ -1,0 +1,9 @@
+{"effects":"jsonl"}
+{"icon":"resources/crafting_poison_trait_dot.png"}
+{"id":"019e21f7-0f7a-7bb5-9a91-de88e791f918"}
+{"isPositive":false}
+{"key":"gradual-ravage-health"}
+{"oppositeId":"lingering-health"}
+{"slug":"gradual-ravage-health"}
+{"title":"Gradual Ravage Health"}
+{"type":"page-type/temper-poison-effect"}

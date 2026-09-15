@@ -1,0 +1,6 @@
+{"changeTargetType":"change-target-type/file"}
+{"definition":"a file with a page type"}
+{"id":"01a07c70-dd0a-7f9c-bc4a-2604e64246d3"}
+{"parent":"change-target-subtype/file-page"}
+{"slug":"file-page-type"}
+{"type":"page-type/change-target-subtype"}

@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A test proving code written in TSX is written in TSX too."},{"decisionKind":"decision-kind/departure","statement":"This ceiling throttles a test file rather than refusing that file."},{"decisionKind":"decision-kind/departure","statement":"A test file held under the memory it needs pays the reclaim as its own processor time."},{"decisionKind":"decision-kind/departure","statement":"This ceiling is above what a test file loading a parser needs to load it."},{"decisionKind":"decision-kind/gap","statement":"Nothing refuses a test file for the memory that file peaks at."}]}
+{"definition":"what proves a page's code"}
+{"extensions":["ts","tsx"]}
+{"id":"01a04a2e-7e3e-7000-acbe-3a33ab105ce0"}
+{"maxCpuSeconds":5}
+{"maxMemoryMb":512}
+{"propertySlug":"test"}
+{"slug":"test"}
+{"type":"page-type/code-file-property"}
+{"types":"ts"}

@@ -1,0 +1,8 @@
+{"default":"30"}
+{"id":"01a094d6-8a65-704e-82db-62361fbb0956"}
+{"placeholder":"s"}
+{"said":"--duration"}
+{"slug":"duration"}
+{"takes":"how many seconds the song runs for"}
+{"type":"page-type/argument"}
+{"value":"whole-number"}

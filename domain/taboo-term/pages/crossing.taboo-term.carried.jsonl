@@ -1,0 +1,5 @@
+{"id":"01a0593e-da24-7507-89fe-fb1e3c808198"}
+{"pattern":"\\bcrossing\\b"}
+{"slug":"crossing"}
+{"tabooSenses":[{"sense":"a pipeline","instead":"pipeline"},{"sense":"a coupling","instead":"coupling"},{"sense":"a narrowing","instead":"narrowing"},{"sense":"a resolution","instead":"resolution"}]}
+{"type":"page-type/taboo-term"}

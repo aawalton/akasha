@@ -1,0 +1,8 @@
+{"displayOrder":0}
+{"id":"019e2fcd-5a8d-7986-9559-503d062fecfb"}
+{"nodeId":"target-attack-bonus"}
+{"nodeType":"metric"}
+{"parent":"subcategory-target-damage"}
+{"slug":"metric-target-attack-bonus"}
+{"title":"Target Attack Bonus"}
+{"type":"page-type/temper-metric-tree"}

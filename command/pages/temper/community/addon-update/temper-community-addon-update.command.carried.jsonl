@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/code-root"},{"argument":"argument/addons-dir"},{"argument":"argument/force"},{"argument":"argument/only","repeats":true}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A download whose MD5 disagrees with the catalog's is not installed."},{"decisionKind":"decision-kind/departure","statement":"Only the outdated addons are updated unless the call forces every one."},{"decisionKind":"decision-kind/departure","statement":"An `--only` folder that is no installable addon is refused by name."},{"decisionKind":"decision-kind/departure","statement":"One addon that fails does not stop the rest."},{"decisionKind":"decision-kind/departure","statement":"Every addon that failed is named in the refusal rather than counted alone."},{"decisionKind":"decision-kind/departure","statement":"A folder the deploy pipeline owns is never touched."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reports a change without making that change."},{"decisionKind":"decision-kind/departure","statement":"A folder laid down before its group threw is named updated rather than failed."},{"decisionKind":"decision-kind/departure","statement":"A folder the archive carried nothing for is named failed rather than left out."},{"decisionKind":"decision-kind/departure","statement":"A folder cleared whose new one never landed is named gone rather than left as it was."},{"decisionKind":"decision-kind/departure","statement":"A folder that was never cleared is refused as the fault alone."}]}
+{"definition":"the command installing the published updates for the third-party game addons already here"}
+{"id":"01a0603c-c1cd-7290-b641-179d70de4bc2"}
+{"name":"addon-update"}
+{"slug":"temper-community-addon-update"}
+{"test":"ts"}
+{"type":"page-type/command"}

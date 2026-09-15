@@ -1,0 +1,7 @@
+{"category":"monarch-category/transfer"}
+{"counterpartWithinDays":7}
+{"id":"01a0655b-fcd0-7004-a1f9-f1e4c9971491"}
+{"matches":[{"key":"merchant","comparison":"is","values":["card payment","citi"]},{"key":"account","comparison":"is","values":["1425"]},{"key":"sign","comparison":"is","values":["positive"]}]}
+{"slug":"costco-citi-payment"}
+{"title":"Costco citi payment"}
+{"type":"page-type/category-rule-code"}

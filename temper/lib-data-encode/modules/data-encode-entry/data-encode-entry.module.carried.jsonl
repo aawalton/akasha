@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The bundle the transpiler writes starts here."},{"decisionKind":"decision-kind/departure","statement":"The self test runs once the game says this addon has loaded."},{"decisionKind":"decision-kind/departure","statement":"The wait is dropped as soon as the self test has run."}]}
+{"definition":"the global the game reads the encoding library from once the addon loads"}
+{"id":"01a06061-96a2-7ec7-8dd4-d8d8ce2fc3ff"}
+{"slug":"data-encode-entry"}
+{"type":"page-type/module"}

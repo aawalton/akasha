@@ -1,0 +1,8 @@
+{"displayOrder":4}
+{"id":"019e2fcd-5a6b-73b0-9d82-9d020ef4dbbe"}
+{"nodeId":"healing-reduction-base"}
+{"nodeType":"metric"}
+{"parent":"category-healing"}
+{"slug":"metric-healing-reduction-base"}
+{"title":"Healing Reduction Base"}
+{"type":"page-type/temper-metric-tree"}

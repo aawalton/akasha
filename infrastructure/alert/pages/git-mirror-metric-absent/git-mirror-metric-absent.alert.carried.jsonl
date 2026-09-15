@@ -1,0 +1,8 @@
+{"definition":"nothing is reporting whether the repositories are mirrored"}
+{"domain":"git-repos"}
+{"id":"01a06755-62f9-7398-aa41-cb26528ba164"}
+{"runbook":"txt"}
+{"slug":"git-mirror-metric-absent"}
+{"summary":"git mirror gauge is absent"}
+{"title":"Git mirror metric absent"}
+{"type":"page-type/alert"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A plan is settled whole before any process is signalled."},{"decisionKind":"decision-kind/departure","statement":"The reaper never plans a kill that would take the reaper itself."},{"decisionKind":"decision-kind/departure","statement":"A tree with more than one seat is refused."},{"decisionKind":"decision-kind/departure","statement":"The ceiling answers one seat."},{"decisionKind":"decision-kind/departure","statement":"A process inside a tree already planned is covered by that tree's kill."},{"decisionKind":"decision-kind/departure","statement":"A tree planned twice is signalled once."},{"decisionKind":"decision-kind/departure","statement":"A tree under its ceiling once its own over-ceiling processes go is spared and says so."},{"decisionKind":"decision-kind/departure","statement":"A refusal is carried in the plan rather than dropped out of that plan."}]}
+{"definition":"the whole set of kills one tick would signal, and what each of them is refused for"}
+{"id":"01a0686c-f06b-7004-8e58-5c2972baf99d"}
+{"slug":"memory-reaper-plan"}
+{"test":"ts"}
+{"type":"page-type/module"}

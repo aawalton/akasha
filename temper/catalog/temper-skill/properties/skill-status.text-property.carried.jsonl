@@ -1,0 +1,8 @@
+{"definition":"how far temper works out what a skill does"}
+{"id":"01a05fca-cb87-719f-b348-33ad77e63005"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"status"}
+{"slug":"skill-status"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

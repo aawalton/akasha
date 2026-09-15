@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A merchant is Monarch's title for the row rather than the bank's own words."},{"decisionKind":"decision-kind/departure","statement":"How the money moved is a merchant where the row's words name no vendor."}]}
+{"definition":"who or what a transaction was with"}
+{"id":"01a0680b-2b00-7004-a836-4c9d2b7e2105"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"merchant"}
+{"slug":"merchant"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

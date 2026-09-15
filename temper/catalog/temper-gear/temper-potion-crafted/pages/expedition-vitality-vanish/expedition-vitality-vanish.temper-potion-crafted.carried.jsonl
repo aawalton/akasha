@@ -1,0 +1,11 @@
+{"description":"Grants Invisible, Vitality, Speed."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_010_type_005.dds"}
+{"id":"019e21f6-406a-7fbe-ac10-35674cfbae81"}
+{"key":"expedition-vitality-vanish"}
+{"level":"CP150"}
+{"reagents":[{"names":["Dragon's Bile","Namira's Rot","Powdered Mother of Pearl"]}]}
+{"seconds":47}
+{"slug":"expedition-vitality-vanish"}
+{"title":"Essence of Speed"}
+{"type":"page-type/temper-potion-crafted"}

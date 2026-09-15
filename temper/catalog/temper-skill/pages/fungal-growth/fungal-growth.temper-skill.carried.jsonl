@@ -1,0 +1,17 @@
+{"baseName":"Fungal Growth"}
+{"description":"\"Seed a large area of mushrooms in front of you, healing you and your allies for |cffffff8220|r Health.\""}
+{"esoSkillId":85536}
+{"icon":"/esoui/art/icons/ability_warden_008.dds"}
+{"id":"019e6f53-a264-7cbc-813e-58612cf713df"}
+{"isMorph":false}
+{"key":"fungal-growth"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"warden-green-balance"}
+{"skillType":"active"}
+{"slug":"fungal-growth"}
+{"subcategoryId":"warden-green-balance"}
+{"title":"Fungal Growth"}
+{"type":"page-type/temper-skill"}

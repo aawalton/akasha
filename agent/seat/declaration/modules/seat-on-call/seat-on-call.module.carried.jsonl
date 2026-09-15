@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seat is on call only where its page holds true under the on-call key."},{"decisionKind":"decision-kind/departure","statement":"Anything other than true under that key reads as not on call."},{"decisionKind":"decision-kind/departure","statement":"A seat with no page in akasha reads as not on call."}]}
+{"definition":"whether a seat is on call, read off its page"}
+{"id":"01a06949-b281-7ac9-9029-67b66a0efb23"}
+{"slug":"seat-on-call"}
+{"type":"page-type/module"}

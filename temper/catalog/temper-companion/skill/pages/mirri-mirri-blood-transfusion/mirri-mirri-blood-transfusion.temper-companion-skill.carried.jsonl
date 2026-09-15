@@ -1,0 +1,13 @@
+{"abilityId":157287}
+{"companionId":"mirri"}
+{"description":"Your Companion infuses an ally with blood, healing them for $1 Health over $$1 seconds."}
+{"icon":"/esoui/art/icons/ability_companion_nightblade_unique.dds"}
+{"id":"019e6484-387c-7710-aeee-ac5010dab342"}
+{"key":"mirri-blood-transfusion"}
+{"skillEffects":"jsonl"}
+{"skillLineId":"companion-mirri-soul-thief"}
+{"skillType":"active"}
+{"slug":"mirri-mirri-blood-transfusion"}
+{"title":"Blood Transfusion"}
+{"type":"page-type/temper-companion-skill"}
+{"validRoles":["healer"]}

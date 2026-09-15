@@ -1,0 +1,6 @@
+{"d":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A control here is made by the settings library from a reference the destinations menu passes."},{"decisionKind":"decision-kind/absence","statement":"Nothing here runs."}]}
+{"definition":"the dropdown controls the destinations settings name to show an icon beside each texture choice"}
+{"id":"01a06269-2b13-7b9c-8e10-1f913f1e6553"}
+{"slug":"destinations-preview-controls"}
+{"type":"page-type/type-declaration"}

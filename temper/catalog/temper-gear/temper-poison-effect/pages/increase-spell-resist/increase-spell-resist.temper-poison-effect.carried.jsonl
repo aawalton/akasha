@@ -1,0 +1,8 @@
+{"cooldown":10}
+{"effects":"jsonl"}
+{"id":"019e21f7-0f63-77a6-86c5-d670efaa9f65"}
+{"key":"increase-spell-resist"}
+{"oppositeId":"breach"}
+{"slug":"increase-spell-resist"}
+{"title":"Increase Spell Resistance"}
+{"type":"page-type/temper-poison-effect"}

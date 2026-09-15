@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A file whose name ends `test.ts` is of this purpose."},{"decisionKind":"decision-kind/gap","statement":"The ending sits here as prose until a purpose can state an ending as a property."}]}
+{"definition":"a file of TypeScript source holding tests"}
+{"id":"01a06860-a0ef-77a2-b7d4-1fd2a8169652"}
+{"slug":"test-ts"}
+{"type":"page-type/file-purpose"}

@@ -1,0 +1,5 @@
+{"code":"ts"}
+{"definition":"Decides whether a nav item shows a count badge, from its flag and its count."}
+{"id":"01a05c40-2194-7494-a518-786df4acb4e9"}
+{"slug":"nav-count-badge-decider"}
+{"type":"page-type/module"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A judgement opens with the act."},{"decisionKind":"decision-kind/departure","statement":"A judgement then says why that act is worth an agent."}]}
+{"definition":"what an agent catching a transaction is told to do with it"}
+{"id":"01a0680c-3c00-7006-b482-7d1f5a8c3107"}
+{"maxLength":2000}
+{"nameFormat":null}
+{"propertySlug":"judgement"}
+{"slug":"judgement"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

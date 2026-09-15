@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each button's original OnClicked handler is stored and restored on removal."},{"decisionKind":"decision-kind/departure","statement":"A radio button alone has its click handler replaced."},{"decisionKind":"decision-kind/departure","statement":"A bulk check or invert is carried out by driving each button's original handler."},{"decisionKind":"decision-kind/departure","statement":"A click is checked against the context menu before the group handles the click."}]}
+{"definition":"the subclass of ZO_RadioButtonGroup the checkbox and radio rows share"}
+{"id":"01a06275-c443-732e-93a1-d70a36b10e6c"}
+{"slug":"scrollable-menu-buttongroup"}
+{"type":"page-type/module"}

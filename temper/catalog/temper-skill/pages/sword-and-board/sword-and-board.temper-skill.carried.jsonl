@@ -1,0 +1,19 @@
+{"baseName":"Sword and Board"}
+{"description":"\"Increases your Weapon and Spell Damage by 5% and the amount of damage you can block by 20%.\""}
+{"effects":"jsonl"}
+{"esoSkillId":45452}
+{"icon":"/esoui/art/icons/ability_armor_014.dds"}
+{"id":"019e6226-0118-7cbc-9a8b-f9fed24efb10"}
+{"isMorph":false}
+{"key":"sword-and-board"}
+{"learnedLevel":25}
+{"lineRankNeeded":25}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"passive"}
+{"slug":"sword-and-board"}
+{"status":"supported"}
+{"subcategoryId":"weapon-one-hand-and-shield"}
+{"title":"Sword and Board"}
+{"type":"page-type/temper-skill"}

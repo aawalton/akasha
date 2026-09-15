@@ -1,0 +1,11 @@
+{"changeKind":"change-kind/change-mechanical"}
+{"changeMode":"change-mode/change-mode-append"}
+{"changeTargetSubtype":"change-target-subtype/file-content"}
+{"changeTargetType":"change-target-type/file-content"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The content is answered as an append rather than as a whole body."},{"decisionKind":"decision-kind/departure","statement":"Content of many lines is answered as one append rather than as one each."},{"decisionKind":"decision-kind/departure","statement":"The content is answered as the content was handed in."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the body the path holds."},{"decisionKind":"decision-kind/absence","statement":"Nothing here judges what the content spells."}]}
+{"definition":"content put at the end of what one path holds, with nothing else judged"}
+{"id":"01a08c36-f87f-791e-99a3-e195153103fb"}
+{"slug":"append-lines"}
+{"test":"ts"}
+{"type":"page-type/change-mechanical-file-content"}

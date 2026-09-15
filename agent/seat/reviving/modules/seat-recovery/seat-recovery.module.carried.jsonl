@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The process doing the reaping is never among the processes reaped."},{"decisionKind":"decision-kind/departure","statement":"A process tree is found by the agent id its command line has."},{"decisionKind":"decision-kind/departure","statement":"A keeper named by the caller is left standing."},{"decisionKind":"decision-kind/departure","statement":"A sweep that finds nothing says nothing."}]}
+{"definition":"the process trees a restarted seat left behind, reaped before the seat runs again"}
+{"id":"01a0687e-5361-7000-b809-2c591fc15c79"}
+{"slug":"seat-recovery"}
+{"test":"ts"}
+{"type":"page-type/module"}

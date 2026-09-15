@@ -1,0 +1,19 @@
+{"baseName":"Trample"}
+{"description":"Deals 2876 Physical Damage to all enemies."}
+{"esoSkillId":220541}
+{"focusScriptId":"physical-damage"}
+{"grimoireId":"trample"}
+{"icon":"/esoui/art/icons/ability_grimoire_assault.dds"}
+{"id":"019e6471-15d9-7bef-9f70-63075b632837"}
+{"isMorph":false}
+{"key":"scribed-trample-physical-damage"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"alliance-war-assault"}
+{"skillType":"active"}
+{"slug":"scribed-trample-physical-damage"}
+{"subcategoryId":"scribed"}
+{"title":"Sundering Trample"}
+{"type":"page-type/temper-scribed-skill"}

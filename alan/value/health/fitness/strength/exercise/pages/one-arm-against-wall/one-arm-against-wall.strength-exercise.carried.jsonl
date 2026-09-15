@@ -1,0 +1,27 @@
+{"exerciseCategory":"stretching"}
+{"exerciseExternalId":"One_Arm_Against_Wall"}
+{"exerciseExternalLink":"https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One_Arm_Against_Wall"}
+{"exerciseLastSyncedAt":"2026-07-25"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"free-exercise-db"}
+{"force":"static"}
+{"gripDemand":"low"}
+{"id":"019ebc77-b91a-7e5e-8787-3c6be75e8dc9"}
+{"imageEndUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Arm_Against_Wall/1.jpg"}
+{"imageStartUrl":"https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Arm_Against_Wall/0.jpg"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"unilateral"}
+{"loadFactor":0}
+{"mechanic":"isolation"}
+{"movementPattern":"mobility"}
+{"muscleFocus":"pull"}
+{"primaryMuscles":["lats"]}
+{"scoringMode":"time"}
+{"sfrScore":4}
+{"skillCost":"low"}
+{"slug":"one-arm-against-wall"}
+{"title":"One Arm Against Wall"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

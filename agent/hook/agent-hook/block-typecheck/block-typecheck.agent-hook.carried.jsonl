@@ -1,0 +1,9 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"Every `tsc` call is refused whether the call names a file or names no file."},{"decisionKind":"decision-kind/departure","statement":"A `tsc` call in the command word is refused whether it names a file or none."},{"decisionKind":"decision-kind/departure","statement":"A `bun typecheck` and a `bun run typecheck` are refused with `tsc`."},{"decisionKind":"decision-kind/departure","statement":"The refusal names `akasha audit --check typecheck`."},{"decisionKind":"decision-kind/departure","statement":"Tsc reached by a path is the same call and is refused."},{"decisionKind":"decision-kind/departure","statement":"Tsc reached through a runner is the same call and is refused."},{"decisionKind":"decision-kind/departure","statement":"A prefix that only runs the call behind that prefix does not hide a `tsc` from this hook."},{"decisionKind":"decision-kind/departure","statement":"A flag before the script name does not hide a `bun run typecheck`."},{"decisionKind":"decision-kind/constraint","statement":"The repository's own `tsconfig.json` names no file."},{"decisionKind":"decision-kind/constraint","statement":"A `tsc` run at the repository root compiles no file and exits 0."},{"decisionKind":"decision-kind/constraint","statement":"A check reporting success over no file reads exactly like a check that passed."},{"decisionKind":"decision-kind/absence","statement":"A package script reaching a compiler is not read here."},{"decisionKind":"decision-kind/gap","statement":"A compiler under another name is refused as `tsc` under its own name is."}]}
+{"definition":"a refusal of the typecheck calls an agent makes outside the akasha commands"}
+{"id":"01a058d6-293d-7bd0-8774-23b6112680f6"}
+{"overTools":["Bash"]}
+{"runsAt":["PreToolUse"]}
+{"slug":"block-typecheck"}
+{"test":"ts"}
+{"type":"page-type/agent-hook"}

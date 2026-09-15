@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Rules are written in CSS."},{"decisionKind":"decision-kind/departure","statement":"A path in a stylesheet is a specifier a bundler resolves rather than a place."},{"decisionKind":"decision-kind/gap","statement":"A change moving what such a specifier reaches repoints that specifier."}]}
+{"definition":"the rules a browser dresses a thing by"}
+{"extensions":["css"]}
+{"id":"01a05b01-48b2-7b95-9b72-f48b799f4e5c"}
+{"propertySlug":"styles"}
+{"slug":"styles"}
+{"toolResolvesPaths":true}
+{"type":"page-type/file-property"}
+{"types":"ts"}

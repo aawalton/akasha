@@ -1,0 +1,17 @@
+{"baseName":"Shield Wall"}
+{"description":"\"Reinforce your shield, allowing you to automatically block all attacks at no cost and reflect all projectiles cast at you for 7 seconds.\""}
+{"esoSkillId":86333}
+{"icon":"/esoui/art/icons/ability_1handed_006_a.dds"}
+{"id":"019e6226-0116-73b1-8a13-10b5b07e150f"}
+{"isMorph":true}
+{"key":"spell-wall"}
+{"learnedLevel":50}
+{"lineRankNeeded":50}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"ultimate"}
+{"slug":"spell-wall"}
+{"subcategoryId":"weapon-one-hand-and-shield"}
+{"title":"Spell Wall"}
+{"type":"page-type/temper-skill"}

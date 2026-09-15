@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Weapon armor and jewelry each number their traits differently."},{"decisionKind":"decision-kind/departure","statement":"The reverse map is worked out at load rather than written out."}]}
+{"definition":"which numbered Elder Scrolls Online trait a player trait answers to, by gear family"}
+{"id":"01a0610f-45ba-79d3-b258-2e9d709283b7"}
+{"slug":"eso-trait-map"}
+{"type":"page-type/module"}

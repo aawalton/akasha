@@ -1,0 +1,17 @@
+{"baseName":"Scorch"}
+{"description":"\"Stir a group of shalk that attack after 3 seconds, dealing 2591 Poison Damage to enemies in front of you.\\n\\nAfter the shalk complete their attack, they burrow underground for 3 seconds and then resurface again, dealing 2591 Poison Damage to enemies in front of you.\""}
+{"esoSkillId":93791}
+{"icon":"/esoui/art/icons/ability_warden_015_b.dds"}
+{"id":"019e6245-a744-786d-afb2-caea198c3fc7"}
+{"isMorph":true}
+{"key":"subterranean-assault"}
+{"learnedLevel":4}
+{"lineRankNeeded":4}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"warden-animal-companions"}
+{"skillType":"active"}
+{"slug":"subterranean-assault"}
+{"subcategoryId":"warden-animal-companions"}
+{"title":"Subterranean Assault"}
+{"type":"page-type/temper-skill"}

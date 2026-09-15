@@ -1,0 +1,5 @@
+{"id":"01a0593e-da43-7af8-992a-9a0a58be265f"}
+{"pattern":"\\bwak(e|es|ed|ing)\\b|\\bwoken?\\b"}
+{"slug":"wake"}
+{"tabooSenses":[{"sense":"a message that earned the start of a stopped seat","instead":"any message starts one"},{"sense":"the paths a check runs on","instead":"its input"}]}
+{"type":"page-type/taboo-term"}

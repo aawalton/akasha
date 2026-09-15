@@ -1,0 +1,9 @@
+{"definition":"a sort of enemy damage is worked out against"}
+{"extends":["page-type/temper-catalog-thing"]}
+{"id":"01a05fc5-94d1-784f-81dd-52ce5bc412dd"}
+{"parts":["number-property/armor"]}
+{"properties":[{"pageProperty":"text-property/key","required":true,"many":false},{"pageProperty":"number-property/armor","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"temper-target-armor"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

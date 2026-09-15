@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An environment missing a name yields no environment rather than a partial environment."}]}
+{"definition":"the credentials and urls a browser test signs in with, read from the environment"}
+{"id":"01a05ca9-d802-7492-b412-add2b3935750"}
+{"slug":"browser-test-env"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A stamp is written in the same step that skipping the stamp would otherwise hide."},{"decisionKind":"decision-kind/absence","statement":"No flag skips a stamp."},{"decisionKind":"decision-kind/departure","statement":"The app stamp is appended last."},{"decisionKind":"decision-kind/departure","statement":"The app stamp's strip runs to the end of the file."},{"decisionKind":"decision-kind/departure","statement":"The widget stamp is written between the widget source copy and the Xcode project rebuild."},{"decisionKind":"decision-kind/departure","statement":"The Swift a stamp emits is an `@objc` class."},{"decisionKind":"decision-kind/departure","statement":"A marker's spelling is shared with the cut's build-stamp gate."},{"decisionKind":"decision-kind/departure","statement":"A marker and the gate reading that marker move in one commit."}]}
+{"definition":"the commit a binary was built from, put where the upload gate reads it"}
+{"id":"01a05934-fe0c-75ac-a104-88e6686eb2af"}
+{"shell":"sh"}
+{"slug":"build-stamp"}
+{"sourced":true}
+{"type":"page-type/shell-script"}

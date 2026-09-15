@@ -1,0 +1,6 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value handed in from outside remains fixed for the whole of a run."},{"decisionKind":"decision-kind/departure","statement":"A name akasha reads opens with the name of the system that set that name."}]}
+{"definition":"the name a value handed to a process from outside is read under"}
+{"id":"01a04fed-2fc0-7d40-b4e0-e630cdde2957"}
+{"nameFormat":"name-format/upper-snake-case"}
+{"slug":"environment-variable"}
+{"type":"page-type/name-place"}

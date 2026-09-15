@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Healing Seed"}
+{"description":"\"Summon a field of flowers which blooms after |cffffff6|r seconds, healing up to 3 of you and your allies in the area for |cffffff16065|r Health.\""}
+{"esoSkillId":238055}
+{"icon":"/esoui/art/icons/ability_warden_007.dds"}
+{"id":"019e6f53-a923-730d-83a6-59d1c6644fb8"}
+{"isMorph":false}
+{"key":"vengeance-healing-seed"}
+{"learnedLevel":0}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-warden-green-balance"}
+{"skillType":"active"}
+{"slug":"vengeance-healing-seed"}
+{"subcategoryId":"vengeance-warden-green-balance"}
+{"title":"Vengeance Healing Seed"}
+{"type":"page-type/temper-skill"}

@@ -1,0 +1,10 @@
+{"description":"Reduces companion damage taken"}
+{"effectType":"fractional-change"}
+{"id":"01a05fce-c4af-7566-b544-fc48ca193628"}
+{"isReduction":true}
+{"key":"bolstered"}
+{"metricId":"companion-damage-taken"}
+{"qualityValues":"jsonl"}
+{"slug":"bolstered"}
+{"title":"Bolstered"}
+{"type":"page-type/temper-companion-trait"}

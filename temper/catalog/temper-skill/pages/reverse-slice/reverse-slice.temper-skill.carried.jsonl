@@ -1,0 +1,17 @@
+{"baseName":"Reverse Slash"}
+{"description":"\"Spin around and strike an enemy down, dealing 1199 Physical Damage to them and all nearby enemies. Deals up to 300% more damage to enemies with less than 50% Health.\""}
+{"esoSkillId":39942}
+{"icon":"/esoui/art/icons/ability_2handed_004_b.dds"}
+{"id":"019e6226-0110-776e-a7b6-3f7d84607c71"}
+{"isMorph":true}
+{"key":"reverse-slice"}
+{"learnedLevel":20}
+{"lineRankNeeded":20}
+{"morphIndex":1}
+{"rank":8}
+{"skillLineId":"weapon-two-handed"}
+{"skillType":"active"}
+{"slug":"reverse-slice"}
+{"subcategoryId":"weapon-two-handed"}
+{"title":"Reverse Slice"}
+{"type":"page-type/temper-skill"}

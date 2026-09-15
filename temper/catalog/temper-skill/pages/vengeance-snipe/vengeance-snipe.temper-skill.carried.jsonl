@@ -1,0 +1,17 @@
+{"baseName":"Vengeance Snipe"}
+{"description":"\"Plant a masterfully aimed arrow in an enemy's vital spot, dealing |cffffff11519|r Physical Damage.\""}
+{"esoSkillId":241255}
+{"icon":"/esoui/art/icons/ability_bow_001.dds"}
+{"id":"019e6f53-a98a-7b88-bda1-b3a6db46c1a1"}
+{"isMorph":false}
+{"key":"vengeance-snipe"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"vengeance-weapon-bow"}
+{"skillType":"active"}
+{"slug":"vengeance-snipe"}
+{"subcategoryId":"vengeance-weapon-bow"}
+{"title":"Vengeance Snipe"}
+{"type":"page-type/temper-skill"}

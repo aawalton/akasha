@@ -1,0 +1,17 @@
+{"baseName":"Near-Death Experience"}
+{"description":"\"While you have a Living Death ability slotted, your Critical Strike Chance with all healing abilities is increased by up to |cffffff6|r% in proportion to the severity of the target's wounds.\""}
+{"esoSkillId":116273}
+{"icon":"/esoui/art/icons/passive_necromancer_010.dds"}
+{"id":"019e6f53-a4b7-7cfb-ae01-1a004a4ec562"}
+{"isMorph":false}
+{"key":"near-death-experience-116273"}
+{"learnedLevel":14}
+{"lineRankNeeded":14}
+{"morphIndex":0}
+{"rank":14}
+{"skillLineId":"necromancer-living-death"}
+{"skillType":"passive"}
+{"slug":"near-death-experience-116273"}
+{"subcategoryId":"necromancer-living-death"}
+{"title":"Near-Death Experience"}
+{"type":"page-type/temper-skill"}

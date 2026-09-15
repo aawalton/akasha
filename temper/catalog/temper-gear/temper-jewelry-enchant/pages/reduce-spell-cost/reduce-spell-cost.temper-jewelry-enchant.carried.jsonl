@@ -1,0 +1,12 @@
+{"displayOrder":7}
+{"effect":"Reduces Magicka ability cost"}
+{"effects":"jsonl"}
+{"esoEnchantConstantName":"ENCHANTMENT_SEARCH_CATEGORY_REDUCE_SPELL_COST"}
+{"essenceRune":"Makderi"}
+{"glyphName":"Glyph of Reduce Spell Cost"}
+{"id":"019e5c85-d94d-77bd-b10c-f85cf52b46e4"}
+{"key":"reduce-spell-cost"}
+{"qualityValues":"jsonl"}
+{"slug":"reduce-spell-cost"}
+{"title":"Reduce Spell Cost"}
+{"type":"page-type/temper-jewelry-enchant"}

@@ -1,0 +1,7 @@
+{"definition":"the image with kubectl"}
+{"extensions":"json"}
+{"folder":"infrastructure/container-image/dockerfile"}
+{"id":"01a08196-9015-7321-b20c-98d923881057"}
+{"kind":"tool-image"}
+{"slug":"kubectl"}
+{"type":"page-type/built-image"}

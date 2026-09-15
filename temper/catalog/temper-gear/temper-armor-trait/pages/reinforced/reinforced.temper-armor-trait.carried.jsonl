@@ -1,0 +1,10 @@
+{"displayOrder":6}
+{"effect":"Increases Armor value"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_ARMOR_REINFORCED"}
+{"id":"01a05fb2-1bd1-7dba-b5ac-0f28ecbae701"}
+{"key":"reinforced"}
+{"material":"Sardonyx"}
+{"qualityValues":"jsonl"}
+{"slug":"reinforced"}
+{"title":"Reinforced"}
+{"type":"page-type/temper-armor-trait"}

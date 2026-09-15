@@ -1,0 +1,11 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A question asks one open thing."},{"decisionKind":"decision-kind/departure","statement":"A question sits under exactly one topic."},{"decisionKind":"decision-kind/departure","statement":"A question goes once the ask is settled."},{"decisionKind":"decision-kind/departure","statement":"A topic lists no question open on that topic."}]}
+{"definition":"one thing still open about a topic about Alan"}
+{"extends":["page-type/page"]}
+{"id":"01a077d9-ec56-7451-945a-1b2355aa31dc"}
+{"mortal":true}
+{"parts":["relation-property/question-topic","text-property/open-question"]}
+{"properties":[{"pageProperty":"relation-property/question-topic","required":true,"many":false},{"pageProperty":"text-property/open-question","required":true,"many":false}]}
+{"schema":"jsonl"}
+{"slug":"all-about-alan-question"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

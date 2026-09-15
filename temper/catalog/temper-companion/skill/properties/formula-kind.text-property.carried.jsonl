@@ -1,0 +1,8 @@
+{"definition":"how an effect works out the number it has"}
+{"id":"01a06193-6c9e-76cf-becf-954a806b18e9"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"type"}
+{"slug":"formula-kind"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

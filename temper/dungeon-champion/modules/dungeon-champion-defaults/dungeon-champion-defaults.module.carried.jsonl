@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A filter is on until a player turns the filter off."}]}
+{"definition":"what a player who has changed no setting sees"}
+{"id":"01a060f9-babf-7752-94d6-6bcff526e895"}
+{"slug":"dungeon-champion-defaults"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A collection a person follows is never finished while the collection grows."}]}
+{"definition":"whether a person is working through a collection as the collection arrives"}
+{"id":"01a063de-2c60-700a-b99a-430529589ec1"}
+{"propertySlug":"following"}
+{"slug":"following"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type declares the properties the page type adds."},{"decisionKind":"decision-kind/departure","statement":"A page type takes the rest from the type the page type extends."},{"decisionKind":"decision-kind/departure","statement":"Optional becomes required."},{"decisionKind":"decision-kind/departure","statement":"A length only falls."},{"decisionKind":"decision-kind/departure","statement":"A unique kind only narrows."},{"decisionKind":"decision-kind/departure","statement":"A declaration stating no unique kind takes the kind its property states."},{"decisionKind":"decision-kind/departure","statement":"Whether a property is carried once or many times never changes."},{"decisionKind":"decision-kind/departure","statement":"The shape a property has belongs to the property."},{"decisionKind":"decision-kind/departure","statement":"How a property is carried belongs here."},{"decisionKind":"decision-kind/departure","statement":"Which member a declaration is read as is told by the one field parting them."},{"decisionKind":"decision-kind/departure","statement":"A value is committed unless the declaration with that value says that value is not."},{"decisionKind":"decision-kind/departure","statement":"A value is open unless the declaration with that value says that value is not."}]}
+{"definition":"the properties a page type adds, and the inherited properties it narrows"}
+{"id":"01a04df3-6848-7e77-ba2c-9399e3f6a356"}
+{"members":["record-property/many-declaration","record-property/single-declaration"]}
+{"propertySlug":"properties"}
+{"slug":"properties"}
+{"type":"page-type/one-of-property"}
+{"types":"ts"}

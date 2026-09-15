@@ -1,0 +1,19 @@
+{"baseName":"Shield Throw"}
+{"description":"Deals 1045 Physical Damage to an enemy and taunts them for 15 seconds."}
+{"esoSkillId":222966}
+{"focusScriptId":"taunt"}
+{"grimoireId":"shield-throw"}
+{"icon":"/esoui/art/icons/ability_grimoire_1handed.dds"}
+{"id":"019e6471-15ba-71eb-b259-a3fcda755d40"}
+{"isMorph":false}
+{"key":"scribed-shield-throw-taunt"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-one-hand-and-shield"}
+{"skillType":"active"}
+{"slug":"scribed-shield-throw-taunt"}
+{"subcategoryId":"scribed"}
+{"title":"Goading Throw"}
+{"type":"page-type/temper-scribed-skill"}

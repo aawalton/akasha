@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"definition":"the copy of an array with another value at one index"}
+{"id":"01a081ed-ab46-7cf6-912a-dc2ec9cdd263"}
+{"luaExport":"__TS__ArrayWith"}
+{"slug":"array-with"}
+{"type":"page-type/lualib-helper"}

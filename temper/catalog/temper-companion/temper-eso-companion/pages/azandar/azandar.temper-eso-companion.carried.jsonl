@@ -1,0 +1,11 @@
+{"alliance":"daggerfall-covenant"}
+{"classPassiveId":"azandar-son-of-kozanset"}
+{"esoCompanionId":9}
+{"icon":"/esoui/art/icons/companion_azander.dds"}
+{"id":"01a05fcf-591d-727b-bcd4-81688875cb62"}
+{"key":"azandar"}
+{"passiveEffects":"jsonl"}
+{"slug":"azandar"}
+{"subtitle":"The Arcanist"}
+{"title":"Azandar"}
+{"type":"page-type/temper-eso-companion"}

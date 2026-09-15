@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An earned color is a color a rung has."},{"decisionKind":"decision-kind/departure","statement":"A scale states a single earned color whatever readouts are read against that scale."},{"decisionKind":"decision-kind/gap","statement":"The color a scale names is a page rather than a name held as text."}]}
+{"definition":"the color a reading takes when the reading is earned rather than measured"}
+{"id":"01a06230-b155-7e50-83eb-ed2efad60e63"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"earned-color-slug"}
+{"slug":"earned-color-slug"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

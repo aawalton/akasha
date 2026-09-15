@@ -1,0 +1,11 @@
+{"displayOrder":7}
+{"effect":"Increases Maximum Stamina"}
+{"effects":"jsonl"}
+{"esoTraitConstantName":"ITEM_TRAIT_TYPE_JEWELRY_ROBUST"}
+{"id":"019e5b97-6d93-7d2a-a0f9-b218db3d4370"}
+{"key":"robust"}
+{"material":"Zinc"}
+{"qualityValues":"jsonl"}
+{"slug":"robust"}
+{"title":"Robust"}
+{"type":"page-type/temper-jewelry-trait"}

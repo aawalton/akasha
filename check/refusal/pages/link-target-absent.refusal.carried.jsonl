@@ -1,0 +1,5 @@
+{"id":"01a06611-398d-70f0-8ada-582dd41d591a"}
+{"slug":"link-target-absent"}
+{"text":"{where} links `{href}`, which resolves to {resolved}, and nothing is there — the reader is sent to a document that does not exist, and the sentence pointing them at it still reads as though it does."}
+{"title":"Link target absent"}
+{"type":"page-type/refusal"}

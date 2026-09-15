@@ -1,0 +1,9 @@
+{"content":"sh"}
+{"definition":"what an interactive bash shell on a machine of Alan's reads at start"}
+{"filling":{}}
+{"id":"01a06862-af5c-7212-901d-4472fc61079c"}
+{"installPath":"~/.bashrc"}
+{"onlyOn":"any"}
+{"placedBy":"link"}
+{"slug":"bashrc"}
+{"type":"page-type/provisioned-file"}

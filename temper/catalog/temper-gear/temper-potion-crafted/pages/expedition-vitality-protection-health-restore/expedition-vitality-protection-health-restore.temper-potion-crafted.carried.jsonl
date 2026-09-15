@@ -1,0 +1,11 @@
+{"description":"Grants Protection, Vitality, Lingering Health, Speed."}
+{"effects":"jsonl"}
+{"icon":"/esoui/art/icons/consumable_potion_010_type_005.dds"}
+{"id":"019e21f6-404c-7bc2-a0ab-6f4f69d46830"}
+{"key":"expedition-vitality-protection-health-restore"}
+{"level":"CP150"}
+{"reagents":[{"names":["Beetle Scuttle","Powdered Mother of Pearl","Scrib Jelly"]}]}
+{"seconds":47}
+{"slug":"expedition-vitality-protection-health-restore"}
+{"title":"Essence of Speed"}
+{"type":"page-type/temper-potion-crafted"}

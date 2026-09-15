@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Two rules matching the same items have the same fingerprint."},{"decisionKind":"decision-kind/departure","statement":"A filter with no condition on a rule adds nothing to that rule's string."}]}
+{"definition":"one string representing everything a rule matches on"}
+{"id":"01a06276-e3e7-7ec2-b97e-e6c2f4eafda8"}
+{"slug":"rule-fingerprint"}
+{"type":"page-type/module"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The order these modules are loaded in is the order their effects happen."}]}
+{"definition":"the add-on's single entry point"}
+{"id":"01a0623e-53a2-76c1-87da-62ae3b18e16e"}
+{"slug":"lib-sets-main"}
+{"type":"page-type/module"}

@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A cut built from no separate shell leaves this property off rather than repeating its main sha."}]}
+{"definition":"the commit of the app shell a cut was built from"}
+{"id":"01a0685d-b81f-7896-a766-17b1183ecd8e"}
+{"maxLength":40}
+{"nameFormat":null}
+{"propertySlug":"shell-sha"}
+{"slug":"shell-sha"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

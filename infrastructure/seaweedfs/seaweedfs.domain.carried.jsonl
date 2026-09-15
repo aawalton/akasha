@@ -1,0 +1,5 @@
+{"definition":"the manifests the cluster's own object store is applied as"}
+{"id":"01a06816-68b1-73dc-970e-be70fec533a1"}
+{"parts":["manifest/seaweedfs-backup-assets","manifest/seaweedfs-backup-bulk","manifest/seaweedfs-backup-cnpg","manifest/seaweedfs-etcd-snapshot","manifest/seaweedfs-filer","manifest/seaweedfs-maintenance","manifest/seaweedfs-master","manifest/seaweedfs-prune-sessions","manifest/seaweedfs-s3-gateway","manifest/seaweedfs-volume","module/seaweedfs-backup-manifests","module/seaweedfs-constants","module/seaweedfs-deployments","module/seaweedfs-etcd-snapshot-manifests","module/seaweedfs-longtail-assets","module/seaweedfs-maintenance-manifests","module/seaweedfs-namespace","module/seaweedfs-prune-manifests","module/seaweedfs-rclone-env"]}
+{"slug":"seaweedfs"}
+{"type":"page-type/domain"}

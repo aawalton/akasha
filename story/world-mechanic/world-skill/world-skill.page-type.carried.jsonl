@@ -1,0 +1,8 @@
+{"definition":"an ability a character works from the magic within them"}
+{"extends":["page-type/world-mechanic"]}
+{"id":"01a06558-a991-78e4-a48c-b4e64323c76c"}
+{"runsTabooCheck":false}
+{"schema":"jsonl"}
+{"slug":"world-skill"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

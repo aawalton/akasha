@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The library global is created here rather than imported."},{"decisionKind":"decision-kind/departure","statement":"English is the language every other language falls back to."},{"decisionKind":"decision-kind/departure","statement":"Japanese is listed among the languages and marked unsupported."}]}
+{"definition":"the library global as it first exists, before any set data fills it"}
+{"id":"01a061d6-3e1f-78d4-ae78-a17b737f3690"}
+{"slug":"lib-sets-const-base"}
+{"type":"page-type/module"}

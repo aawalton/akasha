@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A record naming a metric that is not stored is rejected rather than dropped in silence."},{"decisionKind":"decision-kind/departure","statement":"A record naming no source is stored under the unattributed source."},{"decisionKind":"decision-kind/departure","statement":"Every record is either converted or counted under the reason the record was refused."}]}
+{"definition":"an exported record turned into a stored sample, and what is counted on the way"}
+{"id":"01a05c14-b11a-7002-a357-a2cd51c9856a"}
+{"slug":"health-import"}
+{"type":"page-type/module"}

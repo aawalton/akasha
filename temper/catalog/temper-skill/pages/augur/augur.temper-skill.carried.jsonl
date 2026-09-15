@@ -1,0 +1,17 @@
+{"baseName":"Augur"}
+{"description":"\"Indicates how near the Antiquity is to the selected location. \\n\\nCan only be used a limited number of times, based on the Antiquity's Difficulty.\\n\\nWorks on the lowest six layers of dirt and rocks. Cannot detect Bonus Loot.\\n\\nUsing Augur does not consume a turn.\""}
+{"esoSkillId":139905}
+{"icon":"/esoui/art/icons/u26_ability_digging_04.dds"}
+{"id":"019e6251-4c87-7844-9c8f-01c37709117b"}
+{"isMorph":false}
+{"key":"augur"}
+{"learnedLevel":5}
+{"lineRankNeeded":5}
+{"morphIndex":0}
+{"rank":2}
+{"skillLineId":"world-excavation"}
+{"skillType":"passive"}
+{"slug":"augur"}
+{"subcategoryId":"world-excavation"}
+{"title":"Augur"}
+{"type":"page-type/temper-skill"}

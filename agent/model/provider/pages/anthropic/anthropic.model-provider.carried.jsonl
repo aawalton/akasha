@@ -1,0 +1,5 @@
+{"apiBase":"https://api.anthropic.com"}
+{"definition":"the provider that serves Claude"}
+{"id":"01a0a217-368a-7225-a40c-e59231bfb52b"}
+{"slug":"anthropic"}
+{"type":"page-type/model-provider"}

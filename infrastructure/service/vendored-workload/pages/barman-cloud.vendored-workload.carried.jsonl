@@ -1,0 +1,8 @@
+{"definition":"what ships Postgres backups and write-ahead logs to object storage"}
+{"id":"01a068e5-527c-7342-9656-a0172825938d"}
+{"namespace":"cnpg-system"}
+{"resourceKind":"Deployment"}
+{"resourceName":"barman-cloud"}
+{"slug":"barman-cloud"}
+{"title":"Barman cloud"}
+{"type":"page-type/vendored-workload"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The recipient resolver sits outside the fleet that resolver serves."},{"decisionKind":"decision-kind/departure","statement":"The armed specs are assembled afresh on every tick rather than fixed at start."},{"decisionKind":"decision-kind/departure","statement":"The specs are the personas enumerated on the tick together with the handlers named outright."},{"decisionKind":"decision-kind/departure","statement":"Each spec's inbound messages are read on every tick."},{"decisionKind":"decision-kind/departure","statement":"A seat is revived only where its page is not there and inbound work matches that seat."},{"decisionKind":"decision-kind/departure","statement":"The recipient resolver's configuration is stated when that resolver starts."},{"decisionKind":"decision-kind/departure","statement":"A tick that throws is reported and the loop goes on."},{"decisionKind":"decision-kind/departure","statement":"The recipient resolver runs until stopped."},{"decisionKind":"decision-kind/departure","statement":"A stop ends the loop at its next boundary."}]}
+{"definition":"an absent seat revived when its work arrives"}
+{"id":"01a0686a-7a57-77d0-b626-30a20097aacc"}
+{"slug":"recipient-resolver-running"}
+{"type":"page-type/module"}

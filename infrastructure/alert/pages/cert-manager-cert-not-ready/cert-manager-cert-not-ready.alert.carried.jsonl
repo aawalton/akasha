@@ -1,0 +1,8 @@
+{"definition":"cert-manager has a certificate it has not been able to make ready"}
+{"domain":"infrastructure"}
+{"id":"01a06755-62f9-760a-9e0d-94a487ad1a93"}
+{"runbook":"txt"}
+{"slug":"cert-manager-cert-not-ready"}
+{"summary":"TLS cert {{ $labels.namespace }}/{{ $labels.name }} is not Ready"}
+{"title":"Cert manager cert not ready"}
+{"type":"page-type/alert"}

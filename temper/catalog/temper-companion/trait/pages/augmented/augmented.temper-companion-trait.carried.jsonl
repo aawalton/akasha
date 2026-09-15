@@ -1,0 +1,10 @@
+{"description":"Increases duration of all companion buffs and debuffs"}
+{"effectType":"fractional-change"}
+{"id":"01a05fce-c4ae-71a9-94bd-92eaf44306b0"}
+{"isReduction":false}
+{"key":"augmented"}
+{"metricId":"companion-buff-duration"}
+{"qualityValues":"jsonl"}
+{"slug":"augmented"}
+{"title":"Augmented"}
+{"type":"page-type/temper-companion-trait"}

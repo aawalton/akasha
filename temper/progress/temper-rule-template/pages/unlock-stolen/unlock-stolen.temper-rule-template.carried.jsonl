@@ -1,0 +1,12 @@
+{"action":"temper-item-action/fence-launder"}
+{"active":false}
+{"categoryId":"knowledge"}
+{"conditions":"jsonl"}
+{"description":"Launders stolen items that can teach something (motifs, recipes, etc.) so they can be used. Place before other unlock rules."}
+{"displayOrder":10}
+{"goal":"temper-rule-goal/unlock"}
+{"id":"019e3104-260f-720f-a4f3-f1fd9c5c717e"}
+{"key":"unlock-stolen"}
+{"slug":"unlock-stolen"}
+{"title":"Launder stolen unlockables"}
+{"type":"page-type/temper-rule-template"}

@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/force"},{"argument":"argument/seq","required":true,"saidAs":"flag-or-word"},{"argument":"argument/web-app","required":true}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seq said as a word and after `--seq` is refused."},{"decisionKind":"decision-kind/departure","statement":"The worktree the seq names is the one `WORKTREE_DIR` states where `WORKTREE_DIR` states one."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes over an `.env.local` already there unless the command is told to."},{"decisionKind":"decision-kind/departure","statement":"A refusal after the `.env.local` was written says that file was written."}]}
+{"definition":"the command writing an app's `.env.local` from the app's secret pages"}
+{"id":"01a09404-cdd0-7681-995a-00232cd57b1c"}
+{"name":"bootstrap"}
+{"slug":"infrastructure-dev-server-bootstrap"}
+{"test":"ts"}
+{"type":"page-type/command"}

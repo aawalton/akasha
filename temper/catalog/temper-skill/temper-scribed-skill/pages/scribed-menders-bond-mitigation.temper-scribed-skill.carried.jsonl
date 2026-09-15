@@ -1,0 +1,19 @@
+{"baseName":"Mender's Bond"}
+{"description":"Transfers 10% of the damage the allied player or companions and other allied players or companions in the link take to you."}
+{"esoSkillId":220747}
+{"focusScriptId":"mitigation"}
+{"grimoireId":"menders-bond"}
+{"icon":"/esoui/art/icons/ability_grimoire_staffresto.dds"}
+{"id":"019e6471-15b1-7af7-91cb-9a1f93da475b"}
+{"isMorph":false}
+{"key":"scribed-menders-bond-mitigation"}
+{"learnedLevel":1}
+{"lineRankNeeded":1}
+{"morphIndex":0}
+{"rank":1}
+{"skillLineId":"weapon-restoration-staff"}
+{"skillType":"active"}
+{"slug":"scribed-menders-bond-mitigation"}
+{"subcategoryId":"scribed"}
+{"title":"Fortifying Bond"}
+{"type":"page-type/temper-scribed-skill"}

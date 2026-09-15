@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Strings are registered at load through ZO_CreateStringId."},{"decisionKind":"decision-kind/absence","statement":"Translations for other client languages are not present."},{"decisionKind":"decision-kind/constraint","statement":"Each string is versioned through SafeAddVersion at version 1."}]}
+{"definition":"the English strings the library registers with the game string table"}
+{"id":"01a06275-c449-7b5d-9a57-12fbd9707620"}
+{"slug":"scrollable-menu-lang"}
+{"type":"page-type/module"}

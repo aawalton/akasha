@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value of the wrong type ends the command."},{"decisionKind":"decision-kind/departure","statement":"A refusal names the place the value is in."}]}
+{"definition":"a value from outside read as the type a command needs"}
+{"id":"01a069da-b9b3-7c68-b5aa-1d269342aa9e"}
+{"slug":"argument-narrowing"}
+{"type":"page-type/module"}

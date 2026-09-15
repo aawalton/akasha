@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A domain naming a parent no row answers to is a root rather than left out."},{"decisionKind":"decision-kind/departure","statement":"A domain naming itself as its parent is a root."},{"decisionKind":"decision-kind/departure","statement":"A parent's sequence places the children that sequence names ahead of the ones the sequence does not."},{"decisionKind":"decision-kind/departure","statement":"A child a second parent also names is hung under the first parent alone."},{"decisionKind":"decision-kind/departure","statement":"A domain no root reaches is named rather than swallowed."},{"decisionKind":"decision-kind/departure","statement":"A node whose descent reaches no persona names no champion rather than an empty champion."},{"decisionKind":"decision-kind/departure","statement":"A child's number is its place among the children rather than its place in the sequence."}]}
+{"definition":"a tree of domain rows, each hung under the domain it names as its parent"}
+{"id":"01a06584-9bf3-7000-a10f-f23c6429fe58"}
+{"slug":"champions-tree"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -1,0 +1,7 @@
+{"definition":"the script naming what a scribed skill does"}
+{"extends":["page-type/temper-script"]}
+{"id":"01a05fca-cb89-7c54-89c6-5392b871f29f"}
+{"schema":"jsonl"}
+{"slug":"temper-focus-script"}
+{"type":"page-type/page-type"}
+{"types":"ts"}

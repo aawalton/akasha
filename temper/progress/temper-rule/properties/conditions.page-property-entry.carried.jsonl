@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A rule stating no condition matches every item of its category."},{"decisionKind":"decision-kind/departure","statement":"A field names a temper-condition-field page with the key the field tests."},{"decisionKind":"decision-kind/departure","statement":"The key a rule engine reads is held by that page rather than written here."},{"decisionKind":"decision-kind/gap","statement":"A field naming a comparison has the key of a temper comparison op."}]}
+{"definition":"what an item must satisfy for a rule to act, one test to a line"}
+{"id":"01a05fd0-3aa4-739a-82b0-6e5a2647ad05"}
+{"properties":[{"pageProperty":"relation-property/condition-field","required":true,"many":false},{"pageProperty":"text-property/condition-value","required":true,"many":false}]}
+{"propertySlug":"conditions"}
+{"slug":"conditions"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}

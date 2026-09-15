@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An error whose loaded build differs from the deployed build came from memory."},{"decisionKind":"decision-kind/departure","statement":"An error whose loaded build matches the deployed build is happening now."},{"decisionKind":"decision-kind/departure","statement":"An error against an addon with no deployed build is judged unknown."},{"decisionKind":"decision-kind/departure","statement":"An addon the game attributed is judged ahead of an addon a signature inferred."},{"decisionKind":"decision-kind/departure","statement":"An error attributed to nothing and inferring nothing is judged unknown."},{"decisionKind":"decision-kind/departure","statement":"A judgement drawn from an inferred addon is named apart from an attributed addon."},{"decisionKind":"decision-kind/absence","statement":"Nothing here opens a file."}]}
+{"definition":"whether an error came from the build now deployed or from one left in memory"}
+{"id":"01a060cd-5652-7220-90d5-d163aee6caa2"}
+{"slug":"errors-triage"}
+{"type":"page-type/module"}

@@ -1,0 +1,11 @@
+{"containerPort":3000}
+{"definition":"what serves the site published original stories are read on"}
+{"id":"01a05b26-f8b6-7d0c-8371-3abedb498e0f"}
+{"image":"registry.registry.svc.cluster.local:5000/cluster/bun-git:latest"}
+{"manifest":["manifest/archive-of-worlds-web-manifests"]}
+{"namespace":"archive-of-worlds"}
+{"replicas":1}
+{"resourceKind":"Deployment"}
+{"resourceName":"web"}
+{"slug":"archive-of-worlds-web"}
+{"type":"page-type/service-cluster"}

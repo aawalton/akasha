@@ -1,0 +1,8 @@
+{"definition":"who settled a transaction's category and on what evidence"}
+{"id":"01a0680b-2b00-7008-a273-8c1e4d9f2109"}
+{"maxLength":2000}
+{"nameFormat":null}
+{"propertySlug":"category-decided-by"}
+{"slug":"category-decided-by"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

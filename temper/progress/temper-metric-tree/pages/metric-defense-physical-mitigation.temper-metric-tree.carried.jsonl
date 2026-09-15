@@ -1,0 +1,8 @@
+{"displayOrder":3}
+{"id":"019e2fcd-5a46-7446-8112-d4cd8210bbdb"}
+{"nodeId":"defense-physical-mitigation"}
+{"nodeType":"metric"}
+{"parent":"subcategory-defense-mitigation"}
+{"slug":"metric-defense-physical-mitigation"}
+{"title":"Defense Physical Mitigation"}
+{"type":"page-type/temper-metric-tree"}
