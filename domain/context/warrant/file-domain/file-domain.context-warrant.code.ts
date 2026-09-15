@@ -13,11 +13,11 @@ import {
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
   everyOfType,
-  idsNaming,
   listedById,
   readingIn,
   valueByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export const WHOLE =

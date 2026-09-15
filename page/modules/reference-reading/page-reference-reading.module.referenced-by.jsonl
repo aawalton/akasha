@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"command/modules/calling/calling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"domain/context/warrant/domain-ancestors/domain-ancestors.context-warrant.code.ts"}
+{"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"domain/context/warrant/file-domain/file-domain.context-warrant.code.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"domain/modules/rows/domain-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"domain/modules/work-initiatives/work-initiatives.module.code.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/index/modules/answering/index-answering.module.code.ts"}
