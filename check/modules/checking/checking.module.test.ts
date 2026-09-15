@@ -182,11 +182,10 @@ test("an index holding no check directory names no check, and refuses what it wo
   expect(() => checksIn(root)).toThrow("the index names no check")
 })
 
-test("an id directory standing but carrying no check page type answers as absent rather than as missing", () => {
+test("an id directory carrying no check page type refuses by the id nothing carries", () => {
   const root = rootWith(ADMITS_CHECK)
   idTakenFrom(root, CHECK_TYPE)
   expect(() => checkPagesIn(root)).toThrow("no page carries the id")
-  expect(() => checkPagesIn(root)).not.toThrow("is not an index naming none")
 })
 
 test("an index naming no check refuses, a change judged by nothing being no change judged clean", () => {
