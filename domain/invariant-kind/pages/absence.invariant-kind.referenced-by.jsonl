@@ -1462,6 +1462,7 @@
 {"propertySlug":"invariant-kind","path":"page/modules/value/page-value.module.ts","id":"01a0592a-2e05-7e6a-941f-9dfd06790615"}
 {"propertySlug":"invariant-kind","path":"page/name-format/modules/name-matching/name-matching.module.ts","id":"01a04eba-7459-7284-8c06-c79e5963387d"}
 {"propertySlug":"invariant-kind","path":"page/name-format/pages/lower-uuid/lower-uuid.name-format.ts","id":"01a04eba-7459-7836-ab9f-30dd5c70d710"}
+{"propertySlug":"invariant-kind","path":"page/named-folder-property/properties/folder-generated.boolean-property.ts","id":"01a0a5c3-393c-7cac-a156-052b3bc74e92"}
 {"propertySlug":"invariant-kind","path":"page/naming/named-for/modules/page-stem/page-stem.module.ts","id":"01a05c53-bc6b-7dba-8a4d-0388f0ff1db2"}
 {"propertySlug":"invariant-kind","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"invariant-kind","path":"page/properties/entries.file-property.ts","id":"01a06dc1-5cd2-7bc0-b943-c68e1d872c39"}

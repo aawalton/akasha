@@ -5,12 +5,13 @@ export const namedFolderProperty = {
   type: "page-type/page-type",
   slug: "named-folder-property",
   definition: "a page property held in a folder whose name is stated",
-  parts: ["text-property/folder-name"],
+  parts: ["boolean-property/folder-generated", "text-property/folder-name"],
   extends: ["page-type/true-property"],
   properties: [
     { pageProperty: "text-property/folder-name", required: true, many: false },
     { pageProperty: "boolean-property/holds-bytes", required: false, many: false },
     { pageProperty: "boolean-property/runs-file-length", required: false, many: false },
+    { pageProperty: "boolean-property/folder-generated", required: false, many: false },
   ],
   invariants: [
     {
