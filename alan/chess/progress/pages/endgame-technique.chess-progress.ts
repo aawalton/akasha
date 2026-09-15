@@ -2,7 +2,7 @@ import type { ChessProgress } from "akasha/alan/chess/progress/chess-progress.pa
 
 export const endgameTechnique = {
   id: "019f06ba-f9d3-773f-8028-f6a85e738f09",
-  type: "chess-progress",
+  type: "page-type/chess-progress",
   slug: "endgame-technique",
   title: "Endgame technique",
   category: "endgame",

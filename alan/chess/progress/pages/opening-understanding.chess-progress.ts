@@ -2,7 +2,7 @@ import type { ChessProgress } from "akasha/alan/chess/progress/chess-progress.pa
 
 export const openingUnderstanding = {
   id: "019f06ba-f888-74c4-bb8a-c02e6cef7203",
-  type: "chess-progress",
+  type: "page-type/chess-progress",
   slug: "opening-understanding",
   title: "Opening understanding",
   category: "opening",

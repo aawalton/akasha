@@ -2,7 +2,7 @@ import type { ChessProgress } from "akasha/alan/chess/progress/chess-progress.pa
 
 export const forkTacticalMotif = {
   id: "019f06ba-f709-79ab-95a1-03c0499dbe31",
-  type: "chess-progress",
+  type: "page-type/chess-progress",
   slug: "fork-tactical-motif",
   title: "Fork (tactical motif)",
   category: "motif",

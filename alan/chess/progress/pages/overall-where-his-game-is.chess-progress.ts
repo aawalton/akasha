@@ -2,7 +2,7 @@ import type { ChessProgress } from "akasha/alan/chess/progress/chess-progress.pa
 
 export const overallWhereHisGameIs = {
   id: "019f06ba-f589-719b-b29d-f2e1cc8efcd0",
-  type: "chess-progress",
+  type: "page-type/chess-progress",
   slug: "overall-where-his-game-is",
   title: "Overall: where his game is",
   category: "overall",
