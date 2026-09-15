@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const seeEctoplasm = {
   id: "01a0657d-02b8-71e2-8195-333e7f46d7c3",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "see-ectoplasm",
   title: "See Ectoplasm",
   world: "world/the-wandering-inn",

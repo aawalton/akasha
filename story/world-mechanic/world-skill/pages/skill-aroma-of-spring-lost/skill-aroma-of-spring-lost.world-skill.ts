@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const skillAromaOfSpringLost = {
   id: "01a0657d-02c5-7aeb-9db8-13170b996624",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "skill-aroma-of-spring-lost",
   title: "Skill – Aroma of Spring Lost.",
   world: "world/the-wandering-inn",

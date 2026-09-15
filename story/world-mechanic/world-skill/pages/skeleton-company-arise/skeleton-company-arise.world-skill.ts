@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const skeletonCompanyArise = {
   id: "01a0657d-02c5-7fd6-98c4-bb6017558f7c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "skeleton-company-arise",
   title: "Skeleton Company, Arise",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const shareCurseMass = {
   id: "01a0657d-02bf-7a56-b10a-a85ee6a5fbed",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "share-curse-mass",
   title: "Share Curse (Mass)",
   world: "world/the-wandering-inn",

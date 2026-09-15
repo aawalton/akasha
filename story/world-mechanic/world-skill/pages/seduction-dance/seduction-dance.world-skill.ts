@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const seductionDance = {
   id: "01a0657d-02b8-74c0-95b3-8c5c950322df",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "seduction-dance",
   title: "Seduction Dance",
   world: "world/the-wandering-inn",

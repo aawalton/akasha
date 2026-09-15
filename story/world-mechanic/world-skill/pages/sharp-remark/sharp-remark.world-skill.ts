@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const sharpRemark = {
   id: "01a0657d-02bf-796b-8867-b7dd626e5cc7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "sharp-remark",
   title: "Sharp Remark",
   world: "world/the-wandering-inn",

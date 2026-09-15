@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const shadowleaping = {
   id: "01a0657d-02bf-7bd1-b14a-7ff4fd877327",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "shadowleaping",
   title: "Shadowleaping",
   world: "world/the-wandering-inn",

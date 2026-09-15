@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const skillImpossibleDodge = {
   id: "01a0657d-02c6-7359-b516-4b7f1cc9503f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "skill-impossible-dodge",
   title: "Skill – Impossible Dodge",
   world: "world/the-wandering-inn",

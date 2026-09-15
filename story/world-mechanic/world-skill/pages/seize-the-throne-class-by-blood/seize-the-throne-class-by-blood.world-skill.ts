@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const seizeTheThroneClassByBlood = {
   id: "01a0657d-02b8-708a-bcdc-fbecf3f79129",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "seize-the-throne-class-by-blood",
   title: "Seize the Throne: Class by Blood",
   world: "world/the-wandering-inn",

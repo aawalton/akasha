@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const selfSlipperyWaxedFloor = {
   id: "01a0657d-02b8-7b9c-af1d-2ad9c858344e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "self-slippery-waxed-floor",
   title: "Self: Slippery Waxed Floor",
   world: "world/the-wandering-inn",

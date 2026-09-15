@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const shadowFamiliar = {
   id: "01a0657d-02bf-7d6d-84fd-32365ef58a50",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "shadow-familiar",
   title: "Shadow Familiar",
   world: "world/the-wandering-inn",

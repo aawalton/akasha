@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const siphonLuck = {
   id: "01a0657d-02c5-7970-952f-a54fe8212e5d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "siphon-luck",
   title: "Siphon Luck",
   world: "world/the-wandering-inn",

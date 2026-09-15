@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const sharpenedEdge = {
   id: "01a0657d-02bf-75ac-9c4d-c3ff3ac4295f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "sharpened-edge",
   title: "Sharpened Edge",
   world: "world/the-wandering-inn",

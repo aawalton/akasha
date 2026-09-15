@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const seithoreBasicHandling = {
   id: "01a0657d-02b8-7bb8-81cc-906f631910ad",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "seithore-basic-handling",
   title: "Seithore Basic Handling",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const skillChangeQuickStepFlashStep = {
   id: "01a0657d-02c6-718e-9c71-7b7488828e75",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "skill-change-quick-step-flash-step",
   title: "Skill Change – Quick Step → Flash Step!",
   world: "world/the-wandering-inn",

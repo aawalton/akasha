@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const shipRammingHull = {
   id: "01a0657d-02c0-7400-9d5c-6caa6b0fb7da",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ship-ramming-hull",
   title: "Ship: Ramming Hull",
   world: "world/the-wandering-inn",

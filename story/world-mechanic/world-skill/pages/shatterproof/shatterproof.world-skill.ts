@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const shatterproof = {
   id: "01a0657d-02bf-7064-b417-ab18f540f3c3",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "shatterproof",
   title: "Shatterproof",
   world: "world/the-wandering-inn",

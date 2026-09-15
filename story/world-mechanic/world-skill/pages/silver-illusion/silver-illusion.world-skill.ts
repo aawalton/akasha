@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const silverIllusion = {
   id: "01a0657d-02c1-7ca2-8868-0351d5ff17d9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "silver-illusion",
   title: "Silver Illusion",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const sharpsoundSlash = {
   id: "01a0657d-02bf-7d6b-a6aa-1b44f34331e1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "sharpsound-slash",
   title: "Sharpsound Slash",
   world: "world/the-wandering-inn",

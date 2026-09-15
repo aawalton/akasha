@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const simpleTrapConstruction = {
   id: "01a0657d-02c5-78bc-888b-0d5c7378052e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "simple-trap-construction",
   title: "Simple Trap Construction",
   world: "world/the-wandering-inn",

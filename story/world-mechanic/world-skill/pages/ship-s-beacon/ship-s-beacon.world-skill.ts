@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const shipSBeacon = {
   id: "01a0657d-02c0-7c99-8109-6136f4f6095e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ship-s-beacon",
   title: "Ship’s Beacon",
   world: "world/the-wandering-inn",

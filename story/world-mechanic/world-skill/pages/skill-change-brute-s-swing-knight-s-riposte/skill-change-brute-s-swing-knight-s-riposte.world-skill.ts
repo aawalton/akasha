@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const skillChangeBruteSSwingKnightSRiposte = {
   id: "01a0657d-02c5-72fc-be0a-f1375e3201b8",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "skill-change-brute-s-swing-knight-s-riposte",
   title: "Skill Change – Brute’s Swing → Knight’s Riposte!",
   world: "world/the-wandering-inn",

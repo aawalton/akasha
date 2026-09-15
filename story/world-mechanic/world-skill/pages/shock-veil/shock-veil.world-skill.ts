@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const shockVeil = {
   id: "01a0657d-02c1-7e7b-be3b-c94a035a1958",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "shock-veil",
   title: "Shock Veil",
   world: "world/the-wandering-inn",

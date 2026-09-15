@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const shareResistanceWind = {
   id: "01a0657d-02bf-7259-8756-c6d737db8c45",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "share-resistance-wind",
   title: "Share Resistance: Wind",
   world: "world/the-wandering-inn",

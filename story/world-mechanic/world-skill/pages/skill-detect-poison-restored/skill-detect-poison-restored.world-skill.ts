@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const skillDetectPoisonRestored = {
   id: "01a0657d-02c6-7a73-93d8-7b9db0702a07",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "skill-detect-poison-restored",
   title: "Skill – Detect Poison restored.",
   world: "world/the-wandering-inn",

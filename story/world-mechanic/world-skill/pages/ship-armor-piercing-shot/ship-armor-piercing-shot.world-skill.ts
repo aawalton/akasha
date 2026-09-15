@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const shipArmorPiercingShot = {
   id: "01a0657d-02c0-749c-bd5f-5b90a77c5ba2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ship-armor-piercing-shot",
   title: "Ship: Armor-piercing Shot",
   world: "world/the-wandering-inn",

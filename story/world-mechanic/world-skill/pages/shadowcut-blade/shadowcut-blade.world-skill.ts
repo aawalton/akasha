@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const shadowcutBlade = {
   id: "01a0657d-02bf-73ad-947d-a6ecf1b57070",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "shadowcut-blade",
   title: "Shadowcut Blade",
   world: "world/the-wandering-inn",

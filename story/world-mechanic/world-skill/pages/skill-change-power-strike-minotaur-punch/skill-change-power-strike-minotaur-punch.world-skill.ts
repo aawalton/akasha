@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const skillChangePowerStrikeMinotaurPunch = {
   id: "01a0657d-02c5-791e-9901-480eab021171",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "skill-change-power-strike-minotaur-punch",
   title: "Skill Change – Power Strike → Minotaur Punch!",
   world: "world/the-wandering-inn",

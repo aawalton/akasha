@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const skillChangeKeenEyesEagleEyes = {
   id: "01a0657d-02c5-7b0b-88f7-265a83be32d7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "skill-change-keen-eyes-eagle-eyes",
   title: "Skill Change – Keen Eyes → Eagle Eyes!",
   world: "world/the-wandering-inn",

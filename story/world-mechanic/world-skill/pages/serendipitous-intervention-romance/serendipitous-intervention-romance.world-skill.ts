@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const serendipitousInterventionRomance = {
   id: "01a0657d-02bf-7a28-be31-786ec50fa813",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "serendipitous-intervention-romance",
   title: "Serendipitous Intervention (Romance)",
   world: "world/the-wandering-inn",

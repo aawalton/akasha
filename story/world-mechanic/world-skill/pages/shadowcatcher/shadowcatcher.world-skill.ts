@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const shadowcatcher = {
   id: "01a0657d-02bf-76e6-88ef-323c29f5ed17",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "shadowcatcher",
   title: "Shadowcatcher",
   world: "world/the-wandering-inn",

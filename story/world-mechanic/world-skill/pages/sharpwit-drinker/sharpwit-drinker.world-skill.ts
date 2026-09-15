@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const sharpwitDrinker = {
   id: "01a0657d-02bf-732b-8929-6672e2c4bc8d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "sharpwit-drinker",
   title: "Sharpwit Drinker",
   world: "world/the-wandering-inn",

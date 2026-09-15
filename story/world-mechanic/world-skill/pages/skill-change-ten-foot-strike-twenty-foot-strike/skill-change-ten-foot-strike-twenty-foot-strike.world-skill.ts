@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const skillChangeTenFootStrikeTwentyFootStrike = {
   id: "01a0657d-02c6-7195-b4a6-77fd95ecc08c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "skill-change-ten-foot-strike-twenty-foot-strike",
   title: "Skill Change – Ten-foot Strike → Twenty-foot Strike!",
   world: "world/the-wandering-inn",
