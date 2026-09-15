@@ -29,22 +29,14 @@ import {
 import { under } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import { shapesAt } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { knownIn, type Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
-import {
-  indexThere,
-  valuesOfType,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { indexThere } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Filing, Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   overlaidOn,
   readingNone,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { ruleIn } from "akasha/page/index/rule/index-rule.index.code.ts"
-import {
-  pageTypeSlugsIn,
-  shapeFiled,
-  shapesFiled,
-  shapesIn,
-} from "akasha/page/index/shapes/index-shapes.index.code.ts"
+import { shapeFiled } from "akasha/page/index/shapes/index-shapes.index.code.ts"
 import { type Rowing, rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import { pageNamed, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
@@ -60,26 +52,8 @@ import {
   sourceIn,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
-const PAGE_TYPE = "page-type"
-
 function keyOf(one: Entry): string {
   return `${one.at} ${one.line}`
-}
-
-function shapesOver(given: Reading): readonly Entry[] {
-  const values = valuesOfType(given, PAGE_TYPE).map((one) => one.value)
-  return shapesFiled(
-    sourceAmong(
-      values,
-      sourceIn(given, () => null)
-    ),
-    shapesAt(given),
-    pageTypeSlugsIn(values)
-  )
-}
-
-function reshaping(values: readonly Value[]): boolean {
-  return pageTypeSlugsIn(values).length > 0 || shapesIn(values).size > 0
 }
 
 export function filingOf(was: readonly Entry[], now: readonly Entry[]): readonly Filing[] {
@@ -249,12 +223,7 @@ export function settlingOver(
     ]
   )
   const wrote = new Map(moving.map((one) => [under(repo, one.path), one.after] as const))
-  const had = new Map(moving.map((one) => [under(repo, one.path), one.before] as const))
   const stepped = overlaidOn(reading, [...imported, ...identity, ...shaping], wrote)
-  const carrying =
-    reshaping(before) || reshaping(left)
-      ? filingOf(shapesOver(overlaidOn(reading, [], had)), shapesOver(stepped))
-      : []
   const wasBody: Body = (at) => {
     const one = carried.get(under(repo, at))
     return one === undefined ? bodyAt(at) : one.before
@@ -348,7 +317,7 @@ export function settlingOver(
     ]
   )
 
-  const filings = [...imported, ...ruled, ...identity, ...edge, ...shaping, ...carrying]
+  const filings = [...imported, ...ruled, ...identity, ...edge, ...shaping]
   return {
     reading: overlaidOn(given, filings, new Map([...wrote, ...bodiesBeside(reading, references)])),
     filings,
