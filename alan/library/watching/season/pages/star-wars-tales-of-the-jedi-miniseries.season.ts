@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const starWarsTalesOfTheJediMiniseries = {
   id: "01a06802-b8bd-7038-a7dd-85b5d90fd128",
-  type: "season",
+  type: "page-type/season",
   slug: "star-wars-tales-of-the-jedi-miniseries",
   title: "Star Wars: Tales of the Jedi Miniseries",
   partOfCollections: ["show/star-wars-tales-of-the-jedi"],

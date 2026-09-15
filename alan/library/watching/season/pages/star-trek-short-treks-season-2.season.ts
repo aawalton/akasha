@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const starTrekShortTreksSeason2 = {
   id: "01a06802-b8bd-7013-8c41-e7a46e54b8ce",
-  type: "season",
+  type: "page-type/season",
   slug: "star-trek-short-treks-season-2",
   title: "Star Trek: Short Treks Season 2",
   partOfCollections: ["show/star-trek-short-treks"],

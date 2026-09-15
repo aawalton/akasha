@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const starWarsTheBadBatchSeason3 = {
   id: "01a06802-b8bd-703b-991b-0afca3f525e3",
-  type: "season",
+  type: "page-type/season",
   slug: "star-wars-the-bad-batch-season-3",
   title: "Star Wars: The Bad Batch Season 3",
   partOfCollections: ["show/star-wars-the-bad-batch"],

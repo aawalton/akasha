@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const starTrekPicardSeason1 = {
   id: "01a06802-b8bd-7009-a860-2a323e18d120",
-  type: "season",
+  type: "page-type/season",
   slug: "star-trek-picard-season-1",
   title: "Star Trek: Picard Season 1",
   partOfCollections: ["show/star-trek-picard"],

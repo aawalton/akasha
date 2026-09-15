@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const swordArtOnlineS03 = {
   id: "019ea442-82c7-7d6f-bde1-3dbd1bc94709",
-  type: "season",
+  type: "page-type/season",
   slug: "sword-art-online-s03",
   title: "Sword Art Online Alicization",
   description:

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const studioCSeason20 = {
   id: "01a06802-b8be-7020-a0df-3236b261ca8c",
-  type: "season",
+  type: "page-type/season",
   slug: "studio-c-season-20",
   title: "Studio C Season 20",
   partOfCollections: ["show/studio-c"],

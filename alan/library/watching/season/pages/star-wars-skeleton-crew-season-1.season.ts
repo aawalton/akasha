@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const starWarsSkeletonCrewSeason1 = {
   id: "01a06802-b8bd-7037-937b-0d59df6ca329",
-  type: "season",
+  type: "page-type/season",
   slug: "star-wars-skeleton-crew-season-1",
   title: "Star Wars: Skeleton Crew Season 1",
   partOfCollections: ["show/skeleton-crew"],

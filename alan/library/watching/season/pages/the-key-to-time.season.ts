@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const theKeyToTime = {
   id: "01a06802-b8bf-7011-9802-c7fe93ca0df8",
-  type: "season",
+  type: "page-type/season",
   slug: "the-key-to-time",
   title: "The Key to Time",
   partOfCollections: ["show/doctor-who-1963-1989"],

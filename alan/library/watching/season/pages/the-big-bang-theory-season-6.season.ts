@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const theBigBangTheorySeason6 = {
   id: "01a06802-b8be-703d-a6fe-8b5b20b32507",
-  type: "season",
+  type: "page-type/season",
   slug: "the-big-bang-theory-season-6",
   title: "The Big Bang Theory Season 6",
   partOfCollections: ["show/the-big-bang-theory"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const talesOfTheTardisSeason1 = {
   id: "01a06802-b8be-7033-a6f6-f247066d7cf5",
-  type: "season",
+  type: "page-type/season",
   slug: "tales-of-the-tardis-season-1",
   title: "Tales of the Tardis Season 1",
   partOfCollections: ["show/tales-of-the-tardis"],

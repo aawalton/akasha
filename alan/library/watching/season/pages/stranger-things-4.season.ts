@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const strangerThings4 = {
   id: "01a06802-b8be-7012-b52c-e1f85e1859d3",
-  type: "season",
+  type: "page-type/season",
   slug: "stranger-things-4",
   title: "Stranger Things 4",
   partOfCollections: ["show/stranger-things"],

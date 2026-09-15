@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const starTrekTheNextGenerationSeason4 = {
   id: "01a06802-b8bd-701d-9fe3-51f9ac2ea012",
-  type: "season",
+  type: "page-type/season",
   slug: "star-trek-the-next-generation-season-4",
   title: "Star Trek: The Next Generation Season 4",
   partOfCollections: ["show/star-trek-the-next-generation"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const stevenUniverseSeason3 = {
   id: "01a06802-b8be-700c-ac39-d36cb7348b5f",
-  type: "season",
+  type: "page-type/season",
   slug: "steven-universe-season-3",
   title: "Steven Universe Season 3",
   partOfCollections: ["show/steven-universe"],

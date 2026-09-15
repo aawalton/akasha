@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const theChosenSeason4 = {
   id: "01a06802-b8bf-7007-a5fc-a03aaa745225",
-  type: "season",
+  type: "page-type/season",
   slug: "the-chosen-season-4",
   title: "The Chosen Season 4",
   partOfCollections: ["show/the-chosen"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const starTrekLowerDecksSeason1 = {
   id: "01a06802-b8bd-7003-af1c-95a5e27bcb23",
-  type: "season",
+  type: "page-type/season",
   slug: "star-trek-lower-decks-season-1",
   title: "Star Trek: Lower Decks Season 1",
   partOfCollections: ["show/star-trek-lower-decks"],

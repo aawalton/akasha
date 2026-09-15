@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const starWarsRebelsSeason4 = {
   id: "01a06802-b8bd-7032-a728-a788edc2be3e",
-  type: "season",
+  type: "page-type/season",
   slug: "star-wars-rebels-season-4",
   title: "Star Wars Rebels Season 4",
   partOfCollections: ["show/star-wars-rebels"],

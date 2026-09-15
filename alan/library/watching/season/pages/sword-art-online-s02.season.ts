@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const swordArtOnlineS02 = {
   id: "019ea442-7c89-7771-b078-7b08ac7b603f",
-  type: "season",
+  type: "page-type/season",
   slug: "sword-art-online-s02",
   title: "Sword Art Online II",
   description:

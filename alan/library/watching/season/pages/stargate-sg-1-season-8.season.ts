@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const stargateSg1Season8 = {
   id: "01a06802-b8be-7004-b82f-a81275c3fe2a",
-  type: "season",
+  type: "page-type/season",
   slug: "stargate-sg-1-season-8",
   title: "Stargate SG-1 Season 8",
   partOfCollections: ["show/stargate-sg-1"],
