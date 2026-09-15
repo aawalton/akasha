@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const spyOfTheCapturedMoment = {
   id: "01a0657e-025e-731f-8f4d-c6c612717a97",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "spy-of-the-captured-moment",
   title: "Spy of the Captured Moment",
   world: "world/the-wandering-inn",

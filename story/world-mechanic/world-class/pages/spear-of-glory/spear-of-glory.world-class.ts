@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const spearOfGlory = {
   id: "01a0657e-025d-795e-b499-d2ccccd0fb94",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "spear-of-glory",
   title: "Spear of Glory",
   world: "world/the-wandering-inn",

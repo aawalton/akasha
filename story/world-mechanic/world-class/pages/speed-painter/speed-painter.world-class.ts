@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const speedPainter = {
   id: "01a0657e-025d-7c6a-b51e-88631390b67e",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "speed-painter",
   title: "Speed Painter",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const stentorianVoiceOfConcerto = {
   id: "01a0657e-025f-7b2d-aa6a-b405f07cf99f",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "stentorian-voice-of-concerto",
   title: "Stentorian Voice of Concerto",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const smithingChieftain = {
   id: "01a06586-0a44-7c51-b2f7-be9c55cacd5d",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "smithing-chieftain",
   title: "Smithing Chieftain",
   world: "world/the-wandering-inn",

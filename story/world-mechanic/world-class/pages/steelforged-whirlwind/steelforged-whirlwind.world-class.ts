@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const steelforgedWhirlwind = {
   id: "01a06586-0a53-7ed5-abcb-834151de80e7",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "steelforged-whirlwind",
   title: "Steelforged Whirlwind",
   world: "world/the-wandering-inn",

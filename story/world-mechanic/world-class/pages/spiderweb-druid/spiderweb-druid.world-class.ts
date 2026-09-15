@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const spiderwebDruid = {
   id: "01a0657e-025e-712f-bb2d-bd9cfee656a2",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "spiderweb-druid",
   title: "Spiderweb Druid",
   world: "world/the-wandering-inn",

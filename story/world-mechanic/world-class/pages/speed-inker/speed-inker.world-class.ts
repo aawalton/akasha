@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const speedInker = {
   id: "01a06586-0a50-7c0a-b829-4e2600240646",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "speed-inker",
   title: "Speed Inker",
   world: "world/the-wandering-inn",

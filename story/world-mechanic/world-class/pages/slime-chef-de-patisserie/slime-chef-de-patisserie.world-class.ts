@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const slimeChefDePatisserie = {
   id: "01a06586-0a43-70c8-94eb-7fc2e61a9551",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "slime-chef-de-patisserie",
   title: "Slime Chef de Patisserie",
   world: "world/the-wandering-inn",
