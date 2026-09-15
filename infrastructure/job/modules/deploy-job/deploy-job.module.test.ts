@@ -82,6 +82,12 @@ test("a job bounds the deploy it carries", () => {
   expect(jobYamlFor(ROOT, SUBJECT, COMMIT, null)).toContain("activeDeadlineSeconds")
 })
 
+test("the key a job decrypts a secret with is handed in from a secret", () => {
+  const said = jobYamlFor(ROOT, SUBJECT, COMMIT, null)
+  expect(said).toContain("SOPS_AGE_KEY")
+  expect(said).not.toContain("AGE-SECRET-KEY")
+})
+
 test("the memory a landing starts on is read from the pod", () => {
   expect(jobYamlFor(ROOT, SUBJECT, COMMIT, null)).toContain("LANDING_MIN_FREE_MEMORY_GB")
 })

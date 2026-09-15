@@ -26,6 +26,10 @@ export const deployJob = {
       statement: "The token a job reads the repository with is handed in from a secret.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement: "The key a job decrypts a secret with is handed in from a secret.",
+    },
+    {
       invariantKind: "invariant-kind/absence",
       statement: "No token is written into the job the cluster is handed.",
     },

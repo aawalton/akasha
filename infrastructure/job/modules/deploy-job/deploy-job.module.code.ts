@@ -29,6 +29,8 @@ const JOB_SECRET = "workers-secrets"
 
 const GIT_TOKEN = "GIT_ACCESS_TOKEN"
 
+const AGE_KEY = "SOPS_AGE_KEY"
+
 const ORIGIN =
   `http://x-access-token:$${GIT_TOKEN}` +
   "@git-transport.git.svc.cluster.local:3000/alan/akasha.git"
@@ -133,6 +135,10 @@ export function jobFor(
                 {
                   name: GIT_TOKEN,
                   valueFrom: { secretKeyRef: { name: JOB_SECRET, key: GIT_TOKEN } },
+                },
+                {
+                  name: AGE_KEY,
+                  valueFrom: { secretKeyRef: { name: JOB_SECRET, key: AGE_KEY } },
                 },
               ],
               volumeMounts: [
