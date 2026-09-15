@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const racialBretonSkills = {
   id: "019e61dc-f1d8-77ef-8feb-06d05f0c8ed1",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "racial-breton-skills",
   title: "Breton Skills",
   key: "racial-breton-skills",

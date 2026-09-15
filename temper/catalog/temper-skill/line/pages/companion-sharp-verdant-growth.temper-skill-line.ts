@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const companionSharpVerdantGrowth = {
   id: "019e61dc-f20f-729b-9b70-78a7e2a05bb8",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "companion-sharp-verdant-growth",
   title: "Verdant Growth",
   key: "companion-sharp-verdant-growth",

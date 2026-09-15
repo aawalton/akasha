@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const vengeanceNightbladeAssassination = {
   id: "019e6f53-86ae-7369-9937-5556b3cdbd1f",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "vengeance-nightblade-assassination",
   title: "Vengeance Assassination",
   key: "vengeance-nightblade-assassination",

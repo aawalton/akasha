@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const vengeanceWeaponOneHandAndShield = {
   id: "019e6f53-86c2-711d-b324-b5ad3e22f37e",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "vengeance-weapon-one-hand-and-shield",
   title: "Vengeance One Hand and Shield",
   key: "vengeance-weapon-one-hand-and-shield",

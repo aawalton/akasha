@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const companionEmberKhajiitSkills = {
   id: "019e61dc-f206-72f5-a358-0557f969f475",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "companion-ember-khajiit-skills",
   title: "Khajiit Skills",
   key: "companion-ember-khajiit-skills",

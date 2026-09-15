@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const companionSharedMagesGuild = {
   id: "019e61dc-f1f5-7cbc-82d2-11acb2804b0a",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "companion-shared-mages-guild",
   title: "Mages Guild",
   key: "companion-shared-mages-guild",

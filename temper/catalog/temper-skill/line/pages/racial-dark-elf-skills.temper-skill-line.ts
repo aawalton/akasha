@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const racialDarkElfSkills = {
   id: "019e61dc-f1d9-76f9-8952-7b62665de0e6",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "racial-dark-elf-skills",
   title: "Dark Elf Skills",
   key: "racial-dark-elf-skills",

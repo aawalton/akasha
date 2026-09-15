@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const worldSoulMagic = {
   id: "019e61dc-f1d1-785d-be2c-8b63937594ad",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "world-soul-magic",
   title: "Soul Magic",
   key: "world-soul-magic",

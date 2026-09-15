@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const guildUndaunted = {
   id: "019e61dc-f1ca-772f-a621-ae41dd793b57",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "guild-undaunted",
   title: "Undaunted",
   key: "guild-undaunted",

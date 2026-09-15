@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const vengeanceNecromancerGraveLord = {
   id: "019e6f53-86ba-7e11-bdd5-fd61856dca7f",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "vengeance-necromancer-grave-lord",
   title: "Vengeance Grave Lord",
   key: "vengeance-necromancer-grave-lord",

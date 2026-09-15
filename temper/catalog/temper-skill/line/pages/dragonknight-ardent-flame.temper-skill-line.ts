@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const dragonknightArdentFlame = {
   id: "019e61dc-f1a2-7df5-8514-9cc4ca92c505",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "dragonknight-ardent-flame",
   title: "Ardent Flame",
   key: "dragonknight-ardent-flame",

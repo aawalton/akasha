@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const companionSharpWintersBite = {
   id: "019e61dc-f20d-7e39-9967-6a31e8f5ba50",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "companion-sharp-winters-bite",
   title: "Winter's Bite",
   key: "companion-sharp-winters-bite",

@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const arcanistSoldierOfApocrypha = {
   id: "019e61dc-f1be-724b-9001-20f67c9409d2",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "arcanist-soldier-of-apocrypha",
   title: "Soldier of Apocrypha",
   key: "arcanist-soldier-of-apocrypha",

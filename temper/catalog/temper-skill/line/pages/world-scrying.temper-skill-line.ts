@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const worldScrying = {
   id: "019e61dc-f1d5-77c4-b3f0-98289f7972e4",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "world-scrying",
   title: "Scrying",
   key: "world-scrying",

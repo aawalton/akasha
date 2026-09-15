@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const companionSharedBow = {
   id: "019e61dc-f1ed-7126-9cc6-5eb5cb1106b1",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "companion-shared-bow",
   title: "Bow",
   key: "companion-shared-bow",

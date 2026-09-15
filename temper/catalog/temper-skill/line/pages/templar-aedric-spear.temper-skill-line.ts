@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const templarAedricSpear = {
   id: "019e61dc-f1b2-7a64-8b8f-0831d59e794a",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "templar-aedric-spear",
   title: "Aedric Spear",
   key: "templar-aedric-spear",

@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const companionIsobelBlazingMight = {
   id: "019e61dc-f207-7767-971c-0b37f010a69c",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "companion-isobel-blazing-might",
   title: "Blazing Might",
   key: "companion-isobel-blazing-might",

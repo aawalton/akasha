@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const companionSharedTwoHanded = {
   id: "019e61dc-f1e9-763c-a9c8-3a5a3d7bad86",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "companion-shared-two-handed",
   title: "Two Handed",
   key: "companion-shared-two-handed",

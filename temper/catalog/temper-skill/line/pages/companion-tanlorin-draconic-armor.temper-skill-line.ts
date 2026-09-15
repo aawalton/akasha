@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const companionTanlorinDraconicArmor = {
   id: "019e61dc-f218-7490-b7d5-8fb0cf3d2fcc",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "companion-tanlorin-draconic-armor",
   title: "Draconic Armor",
   key: "companion-tanlorin-draconic-armor",

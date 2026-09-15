@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const companionTanlorinEmpathicFighter = {
   id: "019e61dc-f219-78df-be84-5865e16b40f6",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "companion-tanlorin-empathic-fighter",
   title: "Empathic Fighter",
   key: "companion-tanlorin-empathic-fighter",

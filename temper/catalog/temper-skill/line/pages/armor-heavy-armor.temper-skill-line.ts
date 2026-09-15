@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const armorHeavyArmor = {
   id: "019e61dc-f1c5-7102-8a97-3f4741348e52",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "armor-heavy-armor",
   title: "Heavy Armor",
   key: "armor-heavy-armor",

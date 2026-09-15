@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const weaponRestorationStaff = {
   id: "019e61dc-f1c4-70d0-b7a5-75f591906775",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "weapon-restoration-staff",
   title: "Restoration Staff",
   key: "weapon-restoration-staff",

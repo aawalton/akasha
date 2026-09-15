@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const companionMirriSoulThief = {
   id: "019e61dc-f1ff-7c7c-834d-1b563b31d122",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "companion-mirri-soul-thief",
   title: "Soul Thief",
   key: "companion-mirri-soul-thief",

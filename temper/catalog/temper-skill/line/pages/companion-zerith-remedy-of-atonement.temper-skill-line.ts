@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const companionZerithRemedyOfAtonement = {
   id: "019e61dc-f21d-7329-97e3-d60b4ca5e92b",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "companion-zerith-remedy-of-atonement",
   title: "Remedy of Atonement",
   key: "companion-zerith-remedy-of-atonement",

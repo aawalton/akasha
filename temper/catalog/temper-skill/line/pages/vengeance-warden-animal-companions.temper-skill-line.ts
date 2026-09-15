@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const vengeanceWardenAnimalCompanions = {
   id: "019e6f53-86b7-7a9a-a6cf-2533710323c7",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "vengeance-warden-animal-companions",
   title: "Vengeance Animal Companions",
   key: "vengeance-warden-animal-companions",

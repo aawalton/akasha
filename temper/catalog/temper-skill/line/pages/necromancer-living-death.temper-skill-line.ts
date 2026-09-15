@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const necromancerLivingDeath = {
   id: "019e61dc-f1ba-7e48-84e1-800197d72a33",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "necromancer-living-death",
   title: "Living Death",
   key: "necromancer-living-death",

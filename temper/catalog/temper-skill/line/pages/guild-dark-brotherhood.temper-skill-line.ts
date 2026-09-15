@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const guildDarkBrotherhood = {
   id: "019e61dc-f1cc-7801-8efa-dc724a1b4803",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "guild-dark-brotherhood",
   title: "Dark Brotherhood",
   key: "guild-dark-brotherhood",

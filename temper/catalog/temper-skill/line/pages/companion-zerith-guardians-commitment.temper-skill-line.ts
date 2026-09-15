@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const companionZerithGuardiansCommitment = {
   id: "019e61dc-f21e-7599-b4e5-c6b4af6d4737",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "companion-zerith-guardians-commitment",
   title: "Guardian's Commitment",
   key: "companion-zerith-guardians-commitment",

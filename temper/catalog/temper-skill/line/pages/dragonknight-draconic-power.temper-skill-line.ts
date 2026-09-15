@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const dragonknightDraconicPower = {
   id: "019e61dc-f1a5-7b3b-846d-fbacc1f092a7",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "dragonknight-draconic-power",
   title: "Draconic Power",
   key: "dragonknight-draconic-power",

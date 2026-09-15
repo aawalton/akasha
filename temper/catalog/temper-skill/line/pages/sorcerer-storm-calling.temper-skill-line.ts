@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const sorcererStormCalling = {
   id: "019e61dc-f1ad-7d43-90cb-a41ab53ca380",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "sorcerer-storm-calling",
   title: "Storm Calling",
   key: "sorcerer-storm-calling",

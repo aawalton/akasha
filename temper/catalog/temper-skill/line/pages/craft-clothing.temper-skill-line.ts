@@ -2,7 +2,7 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/te
 
 export const craftClothing = {
   id: "019e61dc-f1e3-769e-8875-94e3d2b00291",
-  type: "temper-skill-line",
+  type: "page-type/temper-skill-line",
   slug: "craft-clothing",
   title: "Clothing",
   key: "craft-clothing",
