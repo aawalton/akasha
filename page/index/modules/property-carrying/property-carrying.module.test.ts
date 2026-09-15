@@ -22,6 +22,7 @@ import {
   counting,
   DEEPER,
   ENTRIES,
+  facingFoldering,
   facingSaying,
   folderedAt,
   HELD,
@@ -325,25 +326,39 @@ test("what a face says about every file property is worked out once for that fac
   const seen = { reads: 0 }
   const facing = counting(seen)
   expect(generatedIn(facing, "akasha/one.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(3)
+  expect(seen.reads).toBe(4)
   expect(generatedIn(facing, "akasha/two.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(3)
+  expect(seen.reads).toBe(4)
 })
 
 test("a second question asked of one face reads what the first question worked out", () => {
   const seen = { reads: 0 }
   const facing = counting(seen)
   expect(generatedIn(facing, "akasha/one.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(3)
+  expect(seen.reads).toBe(4)
   expect(toolResolvesPathsIn(facing, "akasha/one.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(3)
+  expect(seen.reads).toBe(4)
 })
 
 test("a face built again works out what it says about every file property again", () => {
   const seen = { reads: 0 }
   expect(generatedIn(counting(seen), "akasha/one.thing.entries.jsonl")).toBe(false)
   expect(generatedIn(counting(seen), "akasha/one.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(6)
+  expect(seen.reads).toBe(8)
+})
+
+test("a file under a folder a property says a machine writes is answered generated", () => {
+  const said = { folderName: "Icons", generated: true }
+  expect(generatedIn(facingFoldering(said), "one/Icons/chest.dds")).toBe(true)
+})
+
+test("a file under a folder a property says nothing of a machine is answered no", () => {
+  expect(generatedIn(facingFoldering({ folderName: "Icons" }), "one/Icons/chest.dds")).toBe(false)
+})
+
+test("a file outside the folder a property says a machine writes is answered no", () => {
+  const said = { folderName: "Icons", generated: true }
+  expect(generatedIn(facingFoldering(said), "three/chest.dds")).toBe(false)
 })
 
 function under(path: string, said: Naming): boolean {

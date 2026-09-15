@@ -304,7 +304,8 @@ export function generatedIn(given: Facing, path: string): boolean {
     const held = derivedFor(given)
     if (sectionHeld(path, held.slugs)) return true
     if (writerIn(given, path, held) !== null) return true
-    return heldBeside(path, held.naming, generates, given.carryingOf)
+    if (heldBeside(path, held.naming, generates, given.carryingOf)) return true
+    return heldUnder(path, foldersFor(given), generates, given.carryingOf)
   } catch {
     return false
   }

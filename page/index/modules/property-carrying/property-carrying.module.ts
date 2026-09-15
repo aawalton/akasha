@@ -129,6 +129,11 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement:
+        "A folder property saying its folder is generated says that of every file beneath it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "Which page types carry a property is the question already answered here.",
     },
     {

@@ -88,6 +88,16 @@ export function facingSaying(value: Value | null): Facing {
   }
 }
 
+export function facingFoldering(value: Value | null): Facing {
+  return {
+    kindsUnder: () => ["named-folder-property"],
+    everyOfType: () => [{ path: ICONS.path }],
+    valueAt: () => value,
+    carryingOf: folderedAt,
+    root: NOWHERE,
+  }
+}
+
 export function counting(seen: { reads: number }): Facing {
   return {
     kindsUnder: () => ["file-property"],
