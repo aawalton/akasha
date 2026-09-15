@@ -18,12 +18,25 @@ import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicat
 import { importers } from "akasha/graph/predicate/pages/importers.graph-predicate.ts"
 import { imports } from "akasha/graph/predicate/pages/imports.graph-predicate.ts"
 import { readingLaidOver } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { shadowOnto } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const ENDING = ".ts"
 
 const SIDEWAYS = { ...imports, direction: "sideways" }
 
+const writing = new TextEncoder()
+
 afterAll(scratch.sweep)
+
+function changeAdding(root: string, at: string, body: string): Change {
+  return {
+    root,
+    changed: [at],
+    before: () => null,
+    after: (path) => (path === at ? writing.encode(body) : null),
+  }
+}
 
 test("a predicate followed out answers what the seeds reach through the bodies handed in", () => {
   const root = importWorld()
@@ -167,4 +180,16 @@ test("a closure follows the edges the index handed in answers, and none it does 
     THIRD_AT,
   ])
   expect(closureOf(importers, [FIRST_AT], { index: indexOf(root) })).toEqual([FIRST_AT, SECOND_AT])
+})
+
+test("a closure answers over the shadow a change leaves as well as over the tree there is", () => {
+  const root = importWorld()
+  const cast = shadowOnto(null, changeAdding(root, FIRST_AT, namingBody("./second.page.ts")))
+  if ("refused" in cast) throw new Error(cast.refused)
+  const over = { index: cast.shadow.index, bodyAt: (path: string) => cast.reading.read(path) }
+
+  expect(closureOf(imports, [FIRST_AT], over)).toEqual([FIRST_AT, SECOND_AT])
+  expect(closureOf(imports, [FIRST_AT], { index: indexOf(root), bodyAt: () => null })).toEqual([
+    FIRST_AT,
+  ])
 })
