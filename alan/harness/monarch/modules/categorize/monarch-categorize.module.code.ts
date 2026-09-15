@@ -18,7 +18,10 @@ import {
   withAiTag,
 } from "akasha/alan/harness/monarch/modules/notes-write/monarch-notes-write.module.code.ts"
 import { object, str } from "akasha/alan/harness/monarch/modules/shape/monarch-shape.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+
+const CATEGORY_TYPE = "monarch-category"
 
 const UPDATE_TRANSACTION = `mutation Web_TransactionDrawerUpdateTransaction($input: UpdateTransactionMutationInput!) {
   updateTransaction(input: $input) {
@@ -104,7 +107,7 @@ export async function setCategory(
   await postCategory(auth, transactionMonarchId, categoryMonarchId)
   await setTransactionTags(auth, transactionMonarchId, withAiTag(before.tags))
 
-  const patch = { category: categorySlug, ...recorded }
+  const patch = { category: namedAs(CATEGORY_TYPE, categorySlug, null), ...recorded }
   const touched = await patchTransactionLines(
     new Map([[transactionMonarchId, patch]]),
     `monarch: transaction ${transactionMonarchId} categorized as ${categorySlug}`
