@@ -674,8 +674,6 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/health-samples-import/modules/health-snapshot/health-snapshot.module.ts","id":"01a05c14-b11a-7001-878a-9f73d85a1b3a"}
 {"propertySlug":"invariant-kind","path":"alan/harness/health-samples-import/modules/laptop-host/laptop-host.module.ts","id":"01a05c14-b119-7003-ac6e-29f5219a020b"}
 {"propertySlug":"invariant-kind","path":"alan/harness/health-samples-import/modules/verdict-reading/verdict-reading.module.ts","id":"01a05c14-b119-7000-9120-df7558499051"}
-{"propertySlug":"invariant-kind","path":"alan/harness/icloud-photo/icloud-photo.domain.ts","id":"01a06585-5f39-7952-9837-205f11953eba"}
-{"propertySlug":"invariant-kind","path":"alan/harness/icloud-photo/modules/album-pulling/album-pulling.module.ts","id":"01a06585-5f39-70a6-bafc-9a2c3771bb19"}
 {"propertySlug":"invariant-kind","path":"alan/harness/idle-system/idle-persona-card/idle-persona-card.page-type.ts","id":"01a06596-f0d5-700c-a792-6d23205f3082"}
 {"propertySlug":"invariant-kind","path":"alan/harness/idle-system/idle-persona-card/properties/card-slug.text-property.ts","id":"01a06596-f0d5-7008-953b-4006bde89bad"}
 {"propertySlug":"invariant-kind","path":"alan/harness/idle-system/idle-persona-card/properties/images.text-property.ts","id":"01a06596-f0d5-700a-afd0-623e8cd3d142"}
@@ -743,6 +741,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.ts","id":"01a0611b-8cc6-7a38-9968-530fd511dd04"}
 {"propertySlug":"invariant-kind","path":"alan/harness/mobile-cli/modules/testflight-deploy-script/testflight-deploy-script.module.ts","id":"01a05cee-e560-7155-aa17-bd611c29ba2d"}
 {"propertySlug":"invariant-kind","path":"alan/harness/mobile-cli/modules/testflight-poll/testflight-poll.module.ts","id":"01a05cee-e560-7b4d-8df2-e5be4918211f"}
+{"propertySlug":"invariant-kind","path":"alan/harness/modules/album-pulling/album-pulling.module.ts","id":"01a06585-5f39-70a6-bafc-9a2c3771bb19"}
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/answer-error-report/answer-error-report.module.ts","id":"01a08e53-e866-7aa9-87b1-bfd7879250ca"}
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.ts","id":"01a0795a-2cb4-7d47-b7d6-2b120f641fd4"}
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.ts","id":"01a082eb-4f25-7bd5-b488-a5c24903072e"}

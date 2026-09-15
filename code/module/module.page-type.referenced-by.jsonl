@@ -548,7 +548,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-samples-import/modules/health-snapshot/health-snapshot.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-samples-import/modules/laptop-host/laptop-host.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-samples-import/modules/verdict-reading/verdict-reading.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/icloud-photo/modules/album-pulling/album-pulling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/idle-system/modules/idle-accrual/idle-accrual.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/idle-system/modules/idle-constants/idle-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/idle-system/modules/idle-deriving/idle-deriving.module.ts"}
@@ -602,6 +601,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/testflight-deploy-script/testflight-deploy-script.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/testflight-poll/testflight-poll.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/album-pulling/album-pulling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/answer-error-report/answer-error-report.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.ts"}

@@ -27,7 +27,6 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/google/oauth/modules/oauth-callback/oauth-callback.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/google/oauth/modules/oauth-consent/oauth-consent.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/errors-core/modules/exit-code/exit-code.module.test.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/icloud-photo/modules/album-pulling/album-pulling.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/imessage/modules/remote/imessage-remote.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/inbox/modules/tracking-polling/inbox-tracking-polling.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/mobile-cli/modules/altool/altool.module.code.ts"}
@@ -46,6 +45,7 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/modules/album-pulling/album-pulling.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/ssh-access/modules/ssh-reach/ssh-reach.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/music/choosing/modules/track-resolving/track-resolving.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/track/daily/modules/day-completions/day-completions.module.code.ts"}

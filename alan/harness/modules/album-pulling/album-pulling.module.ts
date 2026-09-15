@@ -8,6 +8,18 @@ export const albumPulling = {
   code: "ts",
   invariants: [
     {
+      invariantKind: "absence",
+      statement: "Nothing here makes a request.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here writes a file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An album is reached by a public token rather than by an account.",
+    },
+    {
       invariantKind: "departure",
       statement: "A request is built without the request being made.",
     },

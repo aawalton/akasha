@@ -295,7 +295,6 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/health-samples-import/modules/export-fetching/export-fetching.module.ts","id":"01a05c14-b11a-7000-a275-a3e0c5949f69"}
 {"propertySlug":"invariant-kind","path":"alan/harness/health-samples-import/modules/health-snapshot/health-snapshot.module.ts","id":"01a05c14-b11a-7001-878a-9f73d85a1b3a"}
 {"propertySlug":"invariant-kind","path":"alan/harness/health-samples-import/modules/verdict-reading/verdict-reading.module.ts","id":"01a05c14-b119-7000-9120-df7558499051"}
-{"propertySlug":"invariant-kind","path":"alan/harness/icloud-photo/icloud-photo.domain.ts","id":"01a06585-5f39-7952-9837-205f11953eba"}
 {"propertySlug":"invariant-kind","path":"alan/harness/imessage/imessage.domain.ts","id":"01a05bc9-4308-7007-a8cc-e8f6c025c81e"}
 {"propertySlug":"invariant-kind","path":"alan/harness/imessage/modules/chat-db/chat-db.module.ts","id":"01a05bc9-4308-7004-be2b-a24f942f8823"}
 {"propertySlug":"invariant-kind","path":"alan/harness/imessage/modules/command-reading/imessage-command-reading.module.ts","id":"01a0685f-c8ed-7000-adfa-6dd4db0e10c3"}
@@ -320,6 +319,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.ts","id":"01a05cee-e560-74ed-a1cf-c9f340983fda"}
 {"propertySlug":"invariant-kind","path":"alan/harness/mobile-cli/modules/ssh-delivery/ssh-delivery.module.ts","id":"01a05cee-e560-75d3-9a15-b030e7638a12"}
 {"propertySlug":"invariant-kind","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.ts","id":"01a0611b-8cc6-7a38-9968-530fd511dd04"}
+{"propertySlug":"invariant-kind","path":"alan/harness/modules/album-pulling/album-pulling.module.ts","id":"01a06585-5f39-70a6-bafc-9a2c3771bb19"}
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.ts","id":"01a0795a-2cb4-7d47-b7d6-2b120f641fd4"}
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.ts","id":"01a082eb-4f25-7bd5-b488-a5c24903072e"}
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/stale-folders/stale-folders.module.ts","id":"01a0683d-3c17-7dd8-991b-d05270ddec1f"}
