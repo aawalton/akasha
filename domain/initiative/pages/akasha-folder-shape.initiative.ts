@@ -8,11 +8,6 @@ export const akashaFolderShape = {
   persona: "persona/akasha",
   intentStack: [
     {
-      statement: "Every relation value in akasha is a page address of one of the three kinds.",
-      workingMemory:
-        "Every page states its own `type` as an address, and every other relation was one already. Eight live writers minted a bare type from a constant, invisible to a literal search; the sweep could not converge while they ran. Counting page types off the index rather than my own list found sixty-nine unswept. What remains is the fixtures that mint a bare name on purpose, and `relation-resolves` refusing one in its own judge, not in `reaches`, which the sweep calls to qualify.\n",
-    },
-    {
       statement: "The folder shapes are the fewest patterns that allow every folder in akasha.",
       workingMemory:
         "Thirteen shapes; `the-workspace-root` went into `a-domain-with-its-parts`. Four shared judges carry twelve of them: `one-type-only` three, `property-pages` two, `one-page-only` the four `with-its-parts`, `book-sections` the two `sections`. Each caller hands in what differs, and every refusal reads as it did. The four `with-its-parts` are exclusive by page type since `04d6899` and `7519d65`. `pages-of-the-type-above` is the one judge still alone, and nothing else says what it says.\n",
