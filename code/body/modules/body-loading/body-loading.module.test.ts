@@ -30,6 +30,12 @@ const IMPORTING =
   'import { heldIn as said } from "./body-loading.module.code.ts"\n' +
   "export function heldIn(): string {\n  return said()\n}\n"
 
+const MOVED = "code/body/modules/body-loading/moved/moved.module.code.ts"
+
+const MOVING =
+  `import { heldIn as said } from "akasha/${MOVED}"\n` +
+  "export function heldIn(): string {\n  return said()\n}\n"
+
 const BYTES = new TextEncoder()
 
 function changing(held: Readonly<Record<string, string>>): Change {
@@ -75,6 +81,11 @@ describe("the code loaded at a module path", () => {
   test("a module the code imports is loaded from the body the change leaves there", () => {
     const change = changing({ [AT]: IMPORTING, [BESIDE]: IMPORTED })
     expect(saidBy(heldOver(change, AT, IMPORTING), "heldIn")).toBe(OTHER)
+  })
+
+  test("a module the change carries where the checkout has no such path is loaded all the same", () => {
+    const change = changing({ [AT]: MOVING, [MOVED]: IMPORTED })
+    expect(saidBy(heldOver(change, AT, MOVING), "heldIn")).toBe(OTHER)
   })
 
   test("the checkout's code is loaded at that path once the body is gone", () => {

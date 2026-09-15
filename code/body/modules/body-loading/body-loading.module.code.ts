@@ -1,10 +1,14 @@
-import { readFileSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
 const LOADER = "ts"
+
+const PACKAGE = "akasha/"
+
+const CARRIED = "akasha-carried"
 
 const SPECIAL = /[.*+?^${}()|[\]\\]/g
 
@@ -62,17 +66,30 @@ function forgottenUnder(root: string): undefined {
   }
 }
 
-function claiming(full: string): undefined {
+function anchored(one: string): RegExp {
+  return new RegExp("^" + one.replace(SPECIAL, "\\$&") + "$")
+}
+
+function heldAt(args: { readonly path: string }): {
+  readonly contents: string
+  readonly loader: "ts"
+} {
+  return { contents: bodyHeld.get(args.path) ?? readFileSync(args.path, "utf8"), loader: LOADER }
+}
+
+function claiming(root: string, full: string): undefined {
   if (claimed.has(full)) return
   claimed.add(full)
-  const filter = new RegExp("^" + full.replace(SPECIAL, "\\$&") + "$")
+  const filter = anchored(full)
+  const opened = anchored(`${PACKAGE}${full.slice(root.length + 1)}`)
+  const there = existsSync(full)
   Bun.plugin({
     name: full,
     setup: (build) => {
-      build.onLoad({ filter }, (args) => ({
-        contents: bodyHeld.get(args.path) ?? readFileSync(args.path, "utf8"),
-        loader: LOADER,
-      }))
+      build.onLoad({ filter }, heldAt)
+      if (there) return
+      build.onResolve({ filter: opened }, () => ({ path: full, namespace: CARRIED }))
+      build.onLoad({ filter, namespace: CARRIED }, heldAt)
     },
   })
 }
@@ -81,7 +98,7 @@ function loadedOver(root: string, full: string, bodies: ReadonlyMap<string, stri
   if (typeof Bun === "undefined") throw new Error(NO_PLUGIN)
   for (const [path, body] of bodies) {
     bodyHeld.set(path, body)
-    claiming(path)
+    claiming(root, path)
   }
   forgottenUnder(root)
   try {

@@ -37,6 +37,16 @@ export const bodyLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A module the change carries at a path the checkout has not is loaded from that body all the same.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Such a module is reached by the specifier `akasha/` opens, not by a relative one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path the change carries no code for is loaded off the checkout.",
     },
     {
