@@ -5265,6 +5265,7 @@
 {"propertySlug":"invariant-kind","path":"util/modules/during-call/during-call.module.ts","id":"01a05cb3-7cca-7613-8b60-5d8a19e74370"}
 {"propertySlug":"invariant-kind","path":"util/modules/pad-two/pad-two.module.ts","id":"01a05c8b-6039-7947-8056-77c452128ce1"}
 {"propertySlug":"invariant-kind","path":"util/modules/sha256-hex/sha256-hex.module.ts","id":"01a08ef4-823c-79ae-8b62-4de2fcf1a1b5"}
+{"propertySlug":"invariant-kind","path":"util/modules/thread-pause/thread-pause.module.ts","id":"01a08e0b-3619-7b50-b734-15e0787219e1"}
 {"propertySlug":"invariant-kind","path":"util/narrow/modules/as-record/as-record.module.ts","id":"01a05c94-2bfb-7908-974d-2bd990ac9a56"}
 {"propertySlug":"invariant-kind","path":"util/narrow/modules/base64-url/base64-url.module.ts","id":"01a08dda-ba3d-7b5a-9512-e8a36162fba1"}
 {"propertySlug":"invariant-kind","path":"util/narrow/modules/bits-needed/bits-needed.module.ts","id":"01a08deb-5f4a-73ea-bf9a-4cd5d1172729"}
@@ -5314,7 +5315,6 @@
 {"propertySlug":"invariant-kind","path":"util/timing/modules/armed-timer/armed-timer.module.ts","id":"01a090ab-acc0-7541-a3a9-a1241d1ee505"}
 {"propertySlug":"invariant-kind","path":"util/timing/util-timing.domain.ts","id":"01a090ac-e14d-7590-abfd-665fd9dc0024"}
 {"propertySlug":"invariant-kind","path":"util/util.domain.ts","id":"01a0827a-166b-7a7c-9b60-e90209b46c46"}
-{"propertySlug":"invariant-kind","path":"util/waiting/modules/thread-pause/thread-pause.module.ts","id":"01a08e0b-3619-7b50-b734-15e0787219e1"}
 {"propertySlug":"invariant-kind","path":"verdict/modules/reading-channel/reading-channel.module.ts","id":"01a0657e-795b-7000-9fd2-c341fb16005c"}
 {"propertySlug":"invariant-kind","path":"verdict/modules/text/verdict-text.module.ts","id":"01a05c87-a162-7009-8991-e7d36b476492"}
 {"propertySlug":"invariant-kind","path":"verdict/verdict.domain.ts","id":"01a05c87-a15f-79e8-9268-c8bf1735c3e6"}

@@ -16,10 +16,10 @@ export const util = {
     "domain/util-system",
     "domain/util-text",
     "domain/util-timing",
-    "domain/util-waiting",
     "module/during-call",
     "module/pad-two",
     "module/sha256-hex",
+    "module/thread-pause",
   ],
   invariants: [
     {
