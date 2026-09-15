@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const measureComplexity = {
   id: "01a08cce-0b4d-7802-b83a-87270e77b815",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "measure-complexity",
   definition: "how complex each function and file of a checkout's TypeScript is",
   parts: [

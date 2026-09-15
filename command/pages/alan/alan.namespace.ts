@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const alan = {
   id: "01a082fd-068b-7435-8084-4831d4e3370a",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "alan",
   definition: "Alan's own days, what he eats and what he is learning",
   parts: [

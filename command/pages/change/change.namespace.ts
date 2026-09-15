@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const change = {
   id: "01a0814e-a6ed-7570-b81f-ebad640d95f2",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "change",
   definition: "the edits an agent keeps, and what becomes of them",
   parts: [

@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const seat = {
   id: "01a0797a-9a06-74a3-9d34-57124a4d5b45",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "seat",
   definition: "the seats akasha carries and what runs them",
   parts: [

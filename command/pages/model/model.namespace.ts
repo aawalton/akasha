@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const model = {
   id: "01a09176-eab2-78d7-8a49-90f03d3713d9",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "model",
   definition: "what is put to a model and what comes back",
   parts: ["command/model-test", "namespace/model-gateway"],

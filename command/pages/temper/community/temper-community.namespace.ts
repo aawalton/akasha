@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const temperCommunity = {
   id: "01a07c17-fe1d-7ad9-b3a5-9bea441bd023",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "temper-community",
   definition: "an addon somebody outside Temper wrote",
   parts: [

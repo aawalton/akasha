@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const infrastructureService = {
   id: "01a0940a-15ff-7e3e-8ad9-8be0509a9a8a",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "infrastructure-service",
   definition: "akasha's own service units, and the code one of them runs",
   name: "service",

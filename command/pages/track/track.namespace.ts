@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const track = {
   id: "01a07979-7d2b-70bb-babc-f9bd625aca32",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "track",
   definition: "what one of Alan's days held, written down",
   parts: [

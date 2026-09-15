@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const refresh = {
   id: "01a08209-80a1-7e1a-9c9e-2adeb0bbc194",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "refresh",
   definition: "what a page carries, worked out again from where it came",
   parts: ["command/refresh-attribute", "command/refresh-message", "command/refresh-persona"],

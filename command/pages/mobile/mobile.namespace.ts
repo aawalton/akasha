@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const mobile = {
   id: "01a07bc2-afbe-7a85-ba01-366f93a9c7a1",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "mobile",
   definition: "the simulator an iOS app is driven on, and what is known of the builds Apple holds",
   parts: ["command/mobile-testflight-status", "namespace/mobile-cut", "namespace/mobile-sim"],

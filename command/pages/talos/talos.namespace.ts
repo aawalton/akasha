@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const talos = {
   id: "01a07bc6-efe9-76cc-91ba-f1df9bbe9e0a",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "talos",
   definition: "the operating system the cluster's machines run",
   parts: [

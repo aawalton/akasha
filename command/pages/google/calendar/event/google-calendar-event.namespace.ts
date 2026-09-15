@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const googleCalendarEvent = {
   id: "01a08cf6-9dc4-7aa5-9293-19e026970755",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "google-calendar-event",
   definition: "an event a calendar holds",
   parts: [

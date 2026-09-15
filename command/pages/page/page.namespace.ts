@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const page = {
   id: "01a07bc6-efea-7015-b052-b4eab209b1ae",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "page",
   definition: "the pages themselves, reached as pages rather than as what they are about",
   parts: ["command/page-icon-search-index-generate", "command/page-tree", "namespace/page-secret"],

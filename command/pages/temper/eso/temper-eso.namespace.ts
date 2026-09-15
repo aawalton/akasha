@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const temperEso = {
   id: "01a07c17-d4ab-71b4-868e-9f52fbed6b03",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "temper-eso",
   definition: "the game's own files, read and written out from",
   parts: ["namespace/temper-eso-generate"],

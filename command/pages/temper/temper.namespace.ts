@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const temper = {
   id: "01a07c18-53a9-70f9-8d78-f1c36c87af0b",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "temper",
   definition: "the commands Temper is run by",
   parts: [

@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const music = {
   id: "01a07bbf-258e-7f64-8bc2-f340c44e592e",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "music",
   definition: "the music playing now and what Alan says about it",
   parts: [

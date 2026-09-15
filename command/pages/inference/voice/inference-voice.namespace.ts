@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const inferenceVoice = {
   id: "01a07bc2-afbd-7714-895f-af8d84c2bc6d",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "inference-voice",
   definition: "a voice copied from a recording or drawn up from a description",
   parts: ["command/inference-voice-clone", "command/inference-voice-design"],

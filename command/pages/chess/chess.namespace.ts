@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const chess = {
   id: "01a0a040-5c4d-721b-9a58-8152382ae8f2",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "chess",
   definition: "the games Alan plays out against a model and the puzzles kept beside them",
   parts: ["command/chess-play", "module/chess-page-writing", "namespace/chess-puzzles"],

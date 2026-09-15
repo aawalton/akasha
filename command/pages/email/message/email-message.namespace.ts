@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const emailMessage = {
   id: "01a07bbf-258e-734c-970f-75a18de63e76",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "email-message",
   definition: "a message in Alan's mailbox",
   parts: [

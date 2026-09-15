@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const agent = {
   id: "01a082e0-d19a-7472-8445-857aa2d33d92",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "agent",
   definition: "the agents at work and the pages each one has",
   parts: [

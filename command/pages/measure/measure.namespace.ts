@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const measure = {
   id: "01a0796e-6072-74f0-b75e-599b54481bb7",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "measure",
   definition: "what a thing spends of what that thing is allowed, and what a run measures",
   parts: [

@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const changeSubagent = {
   id: "01a09c36-a09c-75e0-ab57-9febb4e5a990",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "change-subagent",
   definition: "the records a seat keeps for the subagents under it",
   parts: [

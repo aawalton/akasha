@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const infrastructureDevServer = {
   id: "01a09406-1772-7273-b7a0-e3d2563134c0",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "infrastructure-dev-server",
   definition: "one app's dev server in a branch's worktree",
   name: "dev-server",

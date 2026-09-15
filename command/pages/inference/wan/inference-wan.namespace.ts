@@ -2,7 +2,7 @@ import type { Namespace } from "akasha/command/namespace/namespace.page-type.typ
 
 export const inferenceWan = {
   id: "01a093fb-ba5e-7535-a5b3-40b902e37bc8",
-  type: "namespace",
+  type: "page-type/namespace",
   slug: "inference-wan",
   definition: "Wan video clips and the frames taken out of them",
   parts: [
