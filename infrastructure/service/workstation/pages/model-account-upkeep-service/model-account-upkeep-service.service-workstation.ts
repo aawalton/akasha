@@ -9,4 +9,5 @@ export const modelAccountUpkeepService = {
   systemd: {
     restartDelaySeconds: 10,
   },
+  told: false,
 } as const satisfies ServiceWorkstation

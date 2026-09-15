@@ -10,6 +10,7 @@ export const recipientResolver = {
   systemd: {
     restartDelaySeconds: 5,
   },
+  told: false,
   invariants: [
     {
       invariantKind: "invariant-kind/gap",

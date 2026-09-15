@@ -11,6 +11,7 @@ export const sweepSubagentPages = {
     jitterSeconds: 60,
     startTimeoutSeconds: 420,
   },
+  told: false,
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

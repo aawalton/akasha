@@ -10,4 +10,5 @@ export const maintainSeatPending = {
   systemd: {
     restartDelaySeconds: 10,
   },
+  told: false,
 } as const satisfies ServiceWorkstation

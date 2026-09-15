@@ -9,4 +9,5 @@ export const memoryReaper = {
   systemd: {
     restartDelaySeconds: 5,
   },
+  told: false,
 } as const satisfies ServiceWorkstation

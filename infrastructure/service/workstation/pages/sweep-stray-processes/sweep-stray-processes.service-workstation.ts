@@ -11,6 +11,7 @@ export const sweepStrayProcesses = {
     jitterSeconds: 5,
     startTimeoutSeconds: 300,
   },
+  told: false,
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

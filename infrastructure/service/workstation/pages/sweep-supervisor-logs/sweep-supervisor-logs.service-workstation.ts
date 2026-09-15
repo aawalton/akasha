@@ -11,4 +11,5 @@ export const sweepSupervisorLogs = {
     jitterSeconds: 600,
     startTimeoutSeconds: 900,
   },
+  told: false,
 } as const satisfies ServiceWorkstation

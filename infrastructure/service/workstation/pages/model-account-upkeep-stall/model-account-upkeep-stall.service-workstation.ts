@@ -11,4 +11,5 @@ export const modelAccountUpkeepStall = {
     catchUp: true,
     startTimeoutSeconds: 120,
   },
+  told: false,
 } as const satisfies ServiceWorkstation
