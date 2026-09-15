@@ -69,7 +69,8 @@ export function seatProcKeyPresence(key: SeatProcKey, procRoot: string = PROC): 
 }
 
 export function statedProcessPresence(stated: unknown, procRoot: string = PROC): SeatPresence {
-  if (typeof stated !== "string" || stated === "") return "unknown"
+  if (stated === null || stated === undefined || stated === "") return "absent"
+  if (typeof stated !== "string") return "unknown"
   const key = parseSeatProcKey(stated)
   return key === null ? "unknown" : seatProcKeyPresence(key, procRoot)
 }

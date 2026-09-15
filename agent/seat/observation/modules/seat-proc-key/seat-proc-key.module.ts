@@ -23,6 +23,14 @@ export const seatProcKey = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A page naming no process at all is absent rather than unknown.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Only a process named and unreadable leaves whether an agent is there unknown.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A key is written as the pid and a hyphen and the start ticks.",
     },
     {
