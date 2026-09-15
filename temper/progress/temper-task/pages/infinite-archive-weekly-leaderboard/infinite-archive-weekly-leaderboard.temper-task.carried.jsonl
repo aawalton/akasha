@@ -1,11 +1,11 @@
 {"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
 {"character":"erin-solstice"}
 {"displayOrder":14}
-{"dueDate":"2026-09-15"}
+{"dueDate":"2026-09-22"}
 {"effectiveCharacter":"erin-solstice"}
 {"esoCharacterId":"8796093022338107"}
 {"id":"019db533-f381-75b1-ae47-75a551046ec2"}
-{"lastCompletedAt":"2026-09-10T20:54:05.421Z"}
+{"lastCompletedAt":"2026-09-15T22:23:13.410Z"}
 {"priority":"p2"}
 {"rruleAnchorFromCompletion":false}
 {"rruleRule":"FREQ=WEEKLY;BYDAY=TU"}
