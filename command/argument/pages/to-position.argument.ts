@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const toPosition = {
   id: "01a09513-aee8-75a1-8762-46065da7b633",
-  type: "argument",
+  type: "page-type/argument",
   slug: "to-position",
   said: "--to",
   takes: "the position the rule moves to, counted over the rules a person wrote",

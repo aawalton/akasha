@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const warm = {
   id: "01a094c7-5a34-7d70-ae76-35c857588d17",
-  type: "argument",
+  type: "page-type/argument",
   slug: "warm",
   said: "--warm",
   takes: "leave the app running, so the tap measures a warm open rather than a cold one",

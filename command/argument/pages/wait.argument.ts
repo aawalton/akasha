@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const wait = {
   id: "01a094c7-eac4-7a5e-ba34-2098bfa5071d",
-  type: "argument",
+  type: "page-type/argument",
   slug: "wait",
   said: "--wait",
   takes: "hold until the build is valid or has failed rather than answering once",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const toX = {
   id: "01a094c5-73ab-7665-a39c-b9a5c09c89c8",
-  type: "argument",
+  type: "page-type/argument",
   slug: "to-x",
   said: "--to-x",
   takes: "how far across the viewport the finger ends",

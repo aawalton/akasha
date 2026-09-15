@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const window = {
   id: "01a094ca-0e3f-78d7-aa87-5585e3f433f0",
-  type: "argument",
+  type: "page-type/argument",
   slug: "window",
   said: "--window",
   takes: "the window the top lists are counted over, medium where none is said",

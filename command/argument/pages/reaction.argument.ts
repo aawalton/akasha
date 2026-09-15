@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const reaction = {
   id: "01a094ef-4167-7524-963f-db43ef2f1b87",
-  type: "argument",
+  type: "page-type/argument",
   slug: "reaction",
   said: "--reaction",
   takes: "what Alan said about an artist",

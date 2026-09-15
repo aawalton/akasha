@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const reference = {
   id: "01a094d2-10df-7a75-be29-43169fc495e0",
-  type: "argument",
+  type: "page-type/argument",
   slug: "reference",
   said: "--reference",
   takes: "the identity each frame is measured against",

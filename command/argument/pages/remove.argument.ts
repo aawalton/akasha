@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const remove = {
   id: "01a094ed-cfd7-72bf-b667-e9c1230a7a65",
-  type: "argument",
+  type: "page-type/argument",
   slug: "remove",
   said: "--remove",
   takes: "take away the pages this run judged stale",

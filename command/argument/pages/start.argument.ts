@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const start = {
   id: "01a094d7-b51e-7b69-8f12-12780bb549db",
-  type: "argument",
+  type: "page-type/argument",
   slug: "start",
   said: "--start",
   takes: "when the event opens, as a timestamp or as a date alone",

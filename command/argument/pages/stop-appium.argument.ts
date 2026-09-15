@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const stopAppium = {
   id: "01a094c4-10e3-7bc4-90cd-1c63e9ce7a33",
-  type: "argument",
+  type: "page-type/argument",
   slug: "stop-appium",
   said: "--stop-appium",
   takes: "stop the mac's Appium server as well as ending the session",

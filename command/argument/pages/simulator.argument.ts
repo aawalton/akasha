@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const simulator = {
   id: "01a09501-4e8d-7c82-9bd0-9faf0428e620",
-  type: "argument",
+  type: "page-type/argument",
   slug: "simulator",
   said: "--simulator",
   takes: "install an ios app on a simulator rather than hand it to Apple",

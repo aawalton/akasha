@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const outdated = {
   id: "01a094ce-e05d-7620-a728-702cafe320ca",
-  type: "argument",
+  type: "page-type/argument",
   slug: "outdated",
   said: "--outdated",
   takes: "name only the addons an update is published for",

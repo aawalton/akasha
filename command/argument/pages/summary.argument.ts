@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const summary = {
   id: "01a094d7-9f86-7db8-8562-a2847b750e91",
-  type: "argument",
+  type: "page-type/argument",
   slug: "summary",
   said: "--summary",
   takes: "the event's title",

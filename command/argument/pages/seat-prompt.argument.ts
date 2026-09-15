@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const seatPrompt = {
   id: "01a094e3-6f6e-77ef-85d6-24e27342dcad",
-  type: "argument",
+  type: "page-type/argument",
   slug: "seat-prompt",
   said: "--prompt",
   takes: "the text of the first turn the seat takes up",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const questTracePath = {
   id: "01a094db-86da-7d18-8462-06319328edfa",
-  type: "argument",
+  type: "page-type/argument",
   slug: "quest-trace-path",
   said: "--file-path",
   takes: "the saved-variables file the auto-quest trace is read from",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const principal = {
   id: "01a094e7-9750-7bc2-b8ba-a2f51692d826",
-  type: "argument",
+  type: "page-type/argument",
   slug: "principal",
   said: "--principal",
   takes: "who this seat's output is for — a person, or `agent` for the fleet",

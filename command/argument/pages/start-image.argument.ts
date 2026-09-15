@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const startImage = {
   id: "01a094d4-3536-7aff-9a39-8bee6d7fdb67",
-  type: "argument",
+  type: "page-type/argument",
   slug: "start-image",
   said: "--start-image",
   takes: "the first frame the clip is conditioned on",

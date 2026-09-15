@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const outDir = {
   id: "01a094d1-2bfb-719b-a741-e65918a5419f",
-  type: "argument",
+  type: "page-type/argument",
   slug: "out-dir",
   said: "--out-dir",
   takes: "where the PNGs are written, a folder beside the clip named for it where none is said",

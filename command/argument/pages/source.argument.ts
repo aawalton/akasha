@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const source = {
   id: "01a094bc-3867-7b07-95f7-dc34cb18277f",
-  type: "argument",
+  type: "page-type/argument",
   slug: "source",
   said: "--source",
   takes: "where the item is bought from",

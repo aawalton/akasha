@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const time = {
   id: "01a094e1-b6fe-78c5-bd7f-0ebd19bdf096",
-  type: "argument",
+  type: "page-type/argument",
   slug: "time",
   said: "--time",
   takes: "the Mountain wall clock the act happened at, read on that date",

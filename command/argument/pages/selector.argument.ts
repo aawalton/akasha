@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const selector = {
   id: "01a094be-8dda-7ea7-8078-15f8dfa360d7",
-  type: "argument",
+  type: "page-type/argument",
   slug: "selector",
   said: "--selector",
   takes: "the element found by CSS in the webview",

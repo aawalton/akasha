@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const seconds = {
   id: "01a094fe-e741-7b86-9e13-769de787681c",
-  type: "argument",
+  type: "page-type/argument",
   slug: "seconds",
   said: "--seconds",
   takes: "a number of seconds",

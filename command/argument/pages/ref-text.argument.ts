@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const refText = {
   id: "01a094ea-4eec-77c6-a6bb-26648e06e57a",
-  type: "argument",
+  type: "page-type/argument",
   slug: "ref-text",
   said: "--ref-text",
   takes: "what the reference clip says",

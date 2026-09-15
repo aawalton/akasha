@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const subagent = {
   id: "01a09c5e-fffb-70f6-b8cd-1a9460f4a318",
-  type: "argument",
+  type: "page-type/argument",
   slug: "subagent",
   said: "--subagent",
   takes: "the subagent acted on, named as that subagent's page is named",

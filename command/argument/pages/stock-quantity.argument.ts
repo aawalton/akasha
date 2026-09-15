@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const stockQuantity = {
   id: "01a094bd-dc11-762c-ae74-a7780cab7372",
-  type: "argument",
+  type: "page-type/argument",
   slug: "stock-quantity",
   said: "--stock-quantity",
   takes: "how many the destination is stocked up to",

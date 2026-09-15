@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const scope = {
   id: "01a094d1-f4bb-7584-b51f-de1319713109",
-  type: "argument",
+  type: "page-type/argument",
   slug: "scope",
   said: "--scope",
   takes: "the scope set, as `global`, `character:<id>` or `companion:<id>`",

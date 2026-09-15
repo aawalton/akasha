@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const service = {
   id: "01a094ba-8e6b-7e12-9509-79544461b132",
-  type: "argument",
+  type: "page-type/argument",
   slug: "service",
   said: "--service",
   takes: "the service the work goes through",

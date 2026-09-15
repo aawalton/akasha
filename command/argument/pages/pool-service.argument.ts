@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const poolService = {
   id: "01a094d0-2403-77e8-8038-ac828f3a9005",
-  type: "argument",
+  type: "page-type/argument",
   slug: "pool-service",
   said: "--pool-service",
   takes: "the pool service made resident",

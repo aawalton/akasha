@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const path = {
   id: "01a094cb-9e61-71c3-973d-452271b79ba4",
-  type: "argument",
+  type: "page-type/argument",
   slug: "path",
   said: "--path",
   takes: "the path fetched under the origin",

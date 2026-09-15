@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const refs = {
   id: "01a094d5-1f1a-73b2-8877-299ebc88874d",
-  type: "argument",
+  type: "page-type/argument",
   slug: "refs",
   said: "--refs",
   takes: "further images the edit refers to, named as one comma list",

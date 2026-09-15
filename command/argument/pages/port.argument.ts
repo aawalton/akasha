@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const port = {
   id: "01a094b6-d2b1-7253-87f7-c740f5e38f74",
-  type: "argument",
+  type: "page-type/argument",
   slug: "port",
   said: "--port",
   takes: "the port to run on, replacing the one the base port and the seq work out",

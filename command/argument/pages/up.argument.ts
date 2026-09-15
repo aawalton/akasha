@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const up = {
   id: "01a094f7-6a09-7a03-9661-2eb69c53f9e6",
-  type: "argument",
+  type: "page-type/argument",
   slug: "up",
   said: "--up",
   takes: "the domain to draw ABOVE instead of below, up to the roots, said once per domain",

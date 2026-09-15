@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const persona = {
   id: "01a094e6-8876-7cae-8b02-756067b8f04b",
-  type: "argument",
+  type: "page-type/argument",
   slug: "persona",
   said: "--persona",
   takes: "who this seat is, filling the role and the domain neither of which is said",

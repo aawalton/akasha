@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const value = {
   id: "01a094d2-b84b-7a84-9539-056b16902312",
-  type: "argument",
+  type: "page-type/argument",
   slug: "value",
   said: "--value",
   takes: "what the toggle becomes, where `null` takes the entry away",

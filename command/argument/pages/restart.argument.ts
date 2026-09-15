@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const restart = {
   id: "01a094e6-82a2-7c28-8dbb-4993c43e4e8d",
-  type: "argument",
+  type: "page-type/argument",
   slug: "restart",
   said: "--restart",
   takes: "begin at the head of the export rather than where an earlier run ended",

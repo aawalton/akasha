@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const top = {
   id: "01a094ca-f89b-7b31-a741-7c522f77a2aa",
-  type: "argument",
+  type: "page-type/argument",
   slug: "top",
   said: "--top",
   takes: "how many rows are in the answer, worst first",

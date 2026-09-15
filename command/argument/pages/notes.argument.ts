@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const notes = {
   id: "01a094b1-ddaa-74d6-99db-1b3de6167fde",
-  type: "argument",
+  type: "page-type/argument",
   slug: "notes",
   said: "--notes",
   takes: "a note the web shows",

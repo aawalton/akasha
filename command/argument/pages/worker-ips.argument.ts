@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const workerIps = {
   id: "01a094e7-6fab-7d05-87bb-fa13560bd609",
-  type: "argument",
+  type: "page-type/argument",
   slug: "worker-ips",
   said: "--worker-ips",
   takes: "every worker's address, where the cluster has workers",

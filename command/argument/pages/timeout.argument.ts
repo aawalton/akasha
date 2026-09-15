@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const timeout = {
   id: "01a09484-58e2-7701-bb2c-09511000f548",
-  type: "argument",
+  type: "page-type/argument",
   slug: "timeout",
   said: "--timeout",
   takes: "how many seconds the wait runs for",

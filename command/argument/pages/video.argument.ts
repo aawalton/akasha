@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const video = {
   id: "01a09483-e0b0-7f37-b9c8-a1736711d61d",
-  type: "argument",
+  type: "page-type/argument",
   slug: "video",
   said: "--video",
   takes: "the clip read, whose frames are taken here",

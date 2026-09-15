@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const rating = {
   id: "01a094db-fb21-793e-8145-27473c5a789e",
-  type: "argument",
+  type: "page-type/argument",
   slug: "rating",
   said: "--rating",
   takes: "the grade, a rung on the ladder from `F` up to `S+`",

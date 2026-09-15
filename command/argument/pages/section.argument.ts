@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const section = {
   id: "01a094d3-1a03-7453-8604-f877b283c861",
-  type: "argument",
+  type: "page-type/argument",
   slug: "section",
   said: "--section",
   takes: "which section is given back: rules, item-rules, consumables, priority, divergence or all",

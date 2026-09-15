@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const open = {
   id: "01a094df-a489-7d5d-94ca-6c2966028139",
-  type: "argument",
+  type: "page-type/argument",
   slug: "open",
   said: "--open",
   takes: "the stretch to act on, which is the one that is open",

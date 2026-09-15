@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const size = {
   id: "01a094b8-ec4d-7422-a38e-351bb5a46bbe",
-  type: "argument",
+  type: "page-type/argument",
   slug: "size",
   said: "--size",
   takes: "the size the render is fixed to",

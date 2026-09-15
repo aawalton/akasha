@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const toggle = {
   id: "01a094d2-57a9-7f52-a06e-4355f1af02ea",
-  type: "argument",
+  type: "page-type/argument",
   slug: "toggle",
   said: "--toggle",
   takes: "the automation toggle set",

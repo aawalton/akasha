@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const plantGrams = {
   id: "01a094e1-7cfd-7b8c-9ece-7f6820a07730",
-  type: "argument",
+  type: "page-type/argument",
   slug: "plant-grams",
   said: "--plant-grams",
   takes: "grams of whole plants in the food",

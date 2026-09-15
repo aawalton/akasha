@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const subjectFile = {
   id: "01a094e3-4c26-7dc8-a762-277ee4dcc981",
-  type: "argument",
+  type: "page-type/argument",
   slug: "subject-file",
   said: "--subject-file",
   takes: "the file the subject is read from, or `-` for standard input",

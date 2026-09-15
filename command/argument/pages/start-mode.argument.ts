@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const startMode = {
   id: "01a094e1-4465-7146-8490-eac1d8e78d76",
-  type: "argument",
+  type: "page-type/argument",
   slug: "start-mode",
   said: "--start-mode",
   takes: "`interactive` or `headless`, which is whether a terminal is attached",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const personalConnections = {
   id: "01a094ef-b8b9-7ad4-8d0a-e32ccbed3722",
-  type: "argument",
+  type: "page-type/argument",
   slug: "personal-connections",
   said: "--personal-connections",
   takes: "what a song is tied to in Alan's own life",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const snapshot = {
   id: "01a094cb-f4f8-7109-9fa0-5f342220a31f",
-  type: "argument",
+  type: "page-type/argument",
   slug: "snapshot",
   said: "--snapshot",
   takes: "the snapshot read, by its page id or by its slug",

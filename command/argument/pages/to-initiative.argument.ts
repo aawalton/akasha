@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const toInitiative = {
   id: "01a094d3-2ba3-728c-a3f2-2f70b7d47c35",
-  type: "argument",
+  type: "page-type/argument",
   slug: "to-initiative",
   said: "--to",
   takes: "the initiative taking the intent",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const y = {
   id: "01a094be-0267-779c-9015-eee7c1ad3a48",
-  type: "argument",
+  type: "page-type/argument",
   slug: "y",
   said: "--y",
   takes: "how far down the viewport the point is",

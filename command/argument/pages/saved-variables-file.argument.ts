@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const savedVariablesFile = {
   id: "01a094d0-693a-7ef0-af92-ab257f8957a0",
-  type: "argument",
+  type: "page-type/argument",
   slug: "saved-variables-file",
   said: "--saved-variables-file",
   takes: "the file the catalog addon's collected data is read from",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const status = {
   id: "01a094db-478a-771e-af44-9edcd2777680",
-  type: "argument",
+  type: "page-type/argument",
   slug: "status",
   said: "--status",
   takes: "the response to set, of `accepted`, `declined` and `tentative`",

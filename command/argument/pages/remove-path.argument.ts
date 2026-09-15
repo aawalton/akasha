@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const removePath = {
   id: "01a094e3-ec05-7056-9b0d-74fecacfd558",
-  type: "argument",
+  type: "page-type/argument",
   slug: "remove-path",
   said: "--remove",
   takes: "a file to take away, said from the repository root",

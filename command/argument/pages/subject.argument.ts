@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const subject = {
   id: "01a094ee-e072-7374-bdb6-8402911d235b",
-  type: "argument",
+  type: "page-type/argument",
   slug: "subject",
   said: "--subject",
   takes: "the subject line",

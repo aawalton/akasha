@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const safety = {
   id: "01a094af-8c1d-74a1-98aa-4e845dc40cae",
-  type: "argument",
+  type: "page-type/argument",
   slug: "safety",
   said: "--safety",
   takes: "how safe Alan was over the stretch, from -2 to 5 in half steps",

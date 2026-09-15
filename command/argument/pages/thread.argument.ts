@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const thread = {
   id: "01a094ef-17b6-77d7-b778-986a50768909",
-  type: "argument",
+  type: "page-type/argument",
   slug: "thread",
   said: "--thread",
   takes: "the thread the message joins",

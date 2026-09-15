@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const stretchEnd = {
   id: "01a094e4-8c76-7a61-a0c5-e11237059e74",
-  type: "argument",
+  type: "page-type/argument",
   slug: "stretch-end",
   said: "--end",
   takes: "the wall time the stretch ended",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const seatDomain = {
   id: "01a094e7-3ac9-7a8b-846c-76e703cc0f1f",
-  type: "argument",
+  type: "page-type/argument",
   slug: "seat-domain",
   said: "--domain",
   takes: "where this seat works, outranking the persona's own domain",

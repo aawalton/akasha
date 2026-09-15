@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const stepMs = {
   id: "01a094c5-c3ee-7ac3-8f46-5d0784dc6218",
-  type: "argument",
+  type: "page-type/argument",
   slug: "step-ms",
   said: "--step-ms",
   takes: "how long each move of the drag takes, 30 where none is said",

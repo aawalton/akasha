@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const tail = {
   id: "01a094b7-52bf-7d29-b278-b640e5d2f5be",
-  type: "argument",
+  type: "page-type/argument",
   slug: "tail",
   said: "--tail",
   takes: "how many trailing lines to answer with",

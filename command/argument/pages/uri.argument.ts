@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const uri = {
   id: "01a094c1-0a79-73c5-896c-20b74bcce59f",
-  type: "argument",
+  type: "page-type/argument",
   slug: "uri",
   said: "--uri",
   takes: "the exact track played, which searches for nothing",

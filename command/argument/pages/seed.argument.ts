@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const seed = {
   id: "01a094b5-8477-7a82-a2c5-f4a757ff07cb",
-  type: "argument",
+  type: "page-type/argument",
   slug: "seed",
   said: "--seed",
   takes: "the sampler seed",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const typedText = {
   id: "01a094c4-f465-77b6-bc25-489201f3cbc0",
-  type: "argument",
+  type: "page-type/argument",
   slug: "typed-text",
   said: "--text",
   takes: "the text typed, `-` reading it from what is piped in",

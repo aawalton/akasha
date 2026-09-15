@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const width = {
   id: "01a094d8-c4a8-7d58-8f2e-449cbf97da17",
-  type: "argument",
+  type: "page-type/argument",
   slug: "width",
   said: "--width",
   takes: "how wide the image is rendered",

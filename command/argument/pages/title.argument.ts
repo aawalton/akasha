@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const title = {
   id: "01a094b0-c2a4-71d7-ae22-2df174cac987",
-  type: "argument",
+  type: "page-type/argument",
   slug: "title",
   said: "--title",
   takes: "a title a person reads",

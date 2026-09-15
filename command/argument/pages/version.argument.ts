@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const version = {
   id: "01a094fd-ff99-7622-a23e-6315c3169512",
-  type: "argument",
+  type: "page-type/argument",
   slug: "version",
   said: "--version",
   takes: "the version the boot environment carries",

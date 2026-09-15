@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const play = {
   id: "01a0a02c-92a8-791e-afac-5a8d5aed051e",
-  type: "argument",
+  type: "page-type/argument",
   slug: "play",
   said: "--play",
   takes: "start the device moved to rather than leaving it as it was",

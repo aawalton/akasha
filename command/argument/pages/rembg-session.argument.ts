@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const rembgSession = {
   id: "01a09506-6bd7-7fd0-9a35-1080466bbab0",
-  type: "argument",
+  type: "page-type/argument",
   slug: "rembg-session",
   said: "--model",
   takes: "the rembg session the matte is cut with",

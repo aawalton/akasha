@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const windowFrom = {
   id: "01a094eb-b6ce-76c3-b0b6-358320f7c664",
-  type: "argument",
+  type: "page-type/argument",
   slug: "window-from",
   said: "--from",
   takes: "where the window opens",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const personalConnectionsFile = {
   id: "01a094e5-bce6-7760-8053-279c4f482aae",
-  type: "argument",
+  type: "page-type/argument",
   slug: "personal-connections-file",
   said: "--personal-connections-file",
   takes: "the file the personal connections are read from",

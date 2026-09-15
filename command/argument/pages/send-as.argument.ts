@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const sendAs = {
   id: "01a094ef-3f92-7f52-a054-194b031edc9d",
-  type: "argument",
+  type: "page-type/argument",
   slug: "send-as",
   said: "--from",
   takes: "a verified send-as alias to send the mail from",

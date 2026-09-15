@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const sshKey = {
   id: "01a094e9-3ded-7a54-95f3-aab5f7e53c03",
-  type: "argument",
+  type: "page-type/argument",
   slug: "ssh-key",
   said: "--ssh-key",
   takes: "the private key that user is reached with",
