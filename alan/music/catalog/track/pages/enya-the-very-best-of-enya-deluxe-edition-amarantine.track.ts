@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheVeryBestOfEnyaDeluxeEditionAmarantine = {
   id: "01a0a5b0-2771-7fd6-a92a-baf274aeed8d",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-very-best-of-enya-deluxe-edition-amarantine",
   ownLength: 3.192,
   ownProgress: 0,

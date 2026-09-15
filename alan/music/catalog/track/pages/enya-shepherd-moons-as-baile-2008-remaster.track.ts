@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaShepherdMoonsAsBaile2008Remaster = {
   id: "01a0a5b0-1c8b-74f5-8794-0c03885817a1",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-shepherd-moons-as-baile-2008-remaster",
   ownLength: 4.102666666666667,
   ownProgress: 0,

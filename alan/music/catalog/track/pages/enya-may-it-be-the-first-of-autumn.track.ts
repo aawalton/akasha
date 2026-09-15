@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaMayItBeTheFirstOfAutumn = {
   id: "01a0a5b0-2321-7c1f-8e05-36064e872d24",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-may-it-be-the-first-of-autumn",
   ownLength: 3.15155,
   ownProgress: 0,

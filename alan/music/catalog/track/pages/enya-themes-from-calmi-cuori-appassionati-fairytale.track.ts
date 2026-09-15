@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaThemesFromCalmiCuoriAppassionatiFairytale = {
   id: "01a0a5b0-149e-7ba6-a046-ece192adf795",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-themes-from-calmi-cuori-appassionati-fairytale",
   ownLength: 3.10555,
   ownProgress: 0,

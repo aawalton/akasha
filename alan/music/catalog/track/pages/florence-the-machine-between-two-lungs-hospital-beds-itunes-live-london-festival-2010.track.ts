@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineBetweenTwoLungsHospitalBedsItunesLiveLondonFestival2010 = {
   id: "01a0a5cd-6caa-7c6b-8056-5a68d8abbe9a",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-hospital-beds-itunes-live-london-festival-2010",
   ownLength: 2.2868833333333334,
   ownProgress: 0,

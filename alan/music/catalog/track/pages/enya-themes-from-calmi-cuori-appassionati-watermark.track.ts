@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaThemesFromCalmiCuoriAppassionatiWatermark = {
   id: "01a0a5b0-13d3-7c0c-a15b-571751c1017f",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-themes-from-calmi-cuori-appassionati-watermark",
   ownLength: 2.423983333333333,
   ownProgress: 0,

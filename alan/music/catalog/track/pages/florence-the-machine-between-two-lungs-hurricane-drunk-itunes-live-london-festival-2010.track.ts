@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineBetweenTwoLungsHurricaneDrunkItunesLiveLondonFestival2010 = {
   id: "01a0a5cd-6c0e-735c-abcc-7f67a9bb0b8c",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-hurricane-drunk-itunes-live-london-festival-2010",
   ownLength: 3.56155,
   ownProgress: 0,

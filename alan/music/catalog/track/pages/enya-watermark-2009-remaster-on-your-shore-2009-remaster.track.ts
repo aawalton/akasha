@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaWatermark2009RemasterOnYourShore2009Remaster = {
   id: "01a0a5b0-1d1a-7222-b4f1-cdcebd40c020",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-watermark-2009-remaster-on-your-shore-2009-remaster",
   ownLength: 3.9982166666666665,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheMemoryOfTreesPaxDeorum2009Remaster = {
   id: "01a0a5b0-191f-7045-85d6-656113540cdf",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-memory-of-trees-pax-deorum-2009-remaster",
   ownLength: 4.991766666666667,
   ownProgress: 0,

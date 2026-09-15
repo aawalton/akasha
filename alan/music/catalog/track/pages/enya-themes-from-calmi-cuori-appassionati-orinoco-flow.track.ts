@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaThemesFromCalmiCuoriAppassionatiOrinocoFlow = {
   id: "01a0a5b0-13f0-7bf2-9d18-34276e1ca1cd",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-themes-from-calmi-cuori-appassionati-orinoco-flow",
   ownLength: 4.4371,
   ownProgress: 0,

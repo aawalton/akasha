@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaWatermarkOrinocoFlow = {
   id: "01a0a5b0-1f48-7902-81aa-c09e843817ec",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-watermark-orinoco-flow",
   ownLength: 4.438883333333333,
   ownProgress: 0,

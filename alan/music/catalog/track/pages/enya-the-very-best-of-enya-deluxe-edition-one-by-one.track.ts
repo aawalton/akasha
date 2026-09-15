@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheVeryBestOfEnyaDeluxeEditionOneByOne = {
   id: "01a0a5b0-2799-7ff0-b1cf-183ce45de3f3",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-very-best-of-enya-deluxe-edition-one-by-one",
   ownLength: 3.9444333333333335,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaStarsHopeHasAPlace = {
   id: "01a0a5b0-184a-7af6-974f-d98b456041ea",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-stars-hope-has-a-place",
   ownLength: 4.747766666666666,
   ownProgress: 0,

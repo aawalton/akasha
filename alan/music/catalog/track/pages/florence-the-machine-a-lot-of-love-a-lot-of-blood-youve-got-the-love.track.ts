@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineALotOfLoveALotOfBloodYouveGotTheLove = {
   id: "01a0a5cd-8222-7a69-8892-386dbb0594a6",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-a-lot-of-love-a-lot-of-blood-youve-got-the-love",
   ownLength: 2.8111,
   ownProgress: 0,

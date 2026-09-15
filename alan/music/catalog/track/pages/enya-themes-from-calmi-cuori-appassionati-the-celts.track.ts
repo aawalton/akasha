@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaThemesFromCalmiCuoriAppassionatiTheCelts = {
   id: "01a0a5b0-1413-7c91-be73-a3a41f47ed03",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-themes-from-calmi-cuori-appassionati-the-celts",
   ownLength: 2.92555,
   ownProgress: 0,

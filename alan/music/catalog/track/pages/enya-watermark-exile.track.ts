@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaWatermarkExile = {
   id: "01a0a5b0-1f0b-7c46-8567-63ab5d64b858",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-watermark-exile",
   ownLength: 4.362666666666667,
   ownProgress: 0,

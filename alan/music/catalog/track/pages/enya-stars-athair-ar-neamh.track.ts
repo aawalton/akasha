@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaStarsAthairArNeamh = {
   id: "01a0a5b0-171e-79a1-80c3-faf4cff4c64b",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-stars-athair-ar-neamh",
   ownLength: 3.7022166666666667,
   ownProgress: 0,

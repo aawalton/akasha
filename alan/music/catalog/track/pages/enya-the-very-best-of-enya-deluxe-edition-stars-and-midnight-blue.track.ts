@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheVeryBestOfEnyaDeluxeEditionStarsAndMidnightBlue = {
   id: "01a0a5b0-2870-7203-af3d-c48b5cd973be",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-very-best-of-enya-deluxe-edition-stars-and-midnight-blue",
   ownLength: 3.14555,
   ownProgress: 0,

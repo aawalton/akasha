@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaOceansPaxDeorum = {
   id: "01a0a5b0-2d12-7692-b13d-5eb7dac1124b",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-oceans-pax-deorum",
   ownLength: 4.906,
   ownProgress: 0,

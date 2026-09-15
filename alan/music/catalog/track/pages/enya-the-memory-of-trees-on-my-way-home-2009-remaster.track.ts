@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheMemoryOfTreesOnMyWayHome2009Remaster = {
   id: "01a0a5b0-1a76-7f4d-ae10-7f1bc4d33667",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-memory-of-trees-on-my-way-home-2009-remaster",
   ownLength: 3.6351,
   ownProgress: 0,

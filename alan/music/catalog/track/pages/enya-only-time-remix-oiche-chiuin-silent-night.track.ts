@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaOnlyTimeRemixOicheChiuinSilentNight = {
   id: "01a0a5b0-236e-7a4f-af56-589999dedae1",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-only-time-remix-oiche-chiuin-silent-night",
   ownLength: 3.8044333333333333,
   ownProgress: 0,

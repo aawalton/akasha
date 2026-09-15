@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaShepherdMoonsMarbleHalls2009Remaster = {
   id: "01a0a5b0-1bfe-760b-8abe-56275b5c6c7d",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-shepherd-moons-marble-halls-2009-remaster",
   ownLength: 3.9164333333333334,
   ownProgress: 0,

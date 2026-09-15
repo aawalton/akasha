@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineBetweenTwoLungsHurricaneDrunk = {
   id: "01a0a5cd-6a53-7a21-8fd2-d12726164171",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-hurricane-drunk",
   ownLength: 3.2224333333333335,
   ownProgress: 0,

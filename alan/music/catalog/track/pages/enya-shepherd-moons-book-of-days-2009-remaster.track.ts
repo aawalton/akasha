@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaShepherdMoonsBookOfDays2009Remaster = {
   id: "01a0a5b0-1b94-7659-82cb-426ee0d3a487",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-shepherd-moons-book-of-days-2009-remaster",
   ownLength: 2.92955,
   ownProgress: 0,

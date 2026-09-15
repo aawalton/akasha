@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaWatermarkNaLaethaGealMoige = {
   id: "01a0a5b0-1fcd-7d1d-ab6f-fd2ac049990f",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-watermark-na-laetha-geal-moige",
   ownLength: 3.9448833333333333,
   ownProgress: 0,

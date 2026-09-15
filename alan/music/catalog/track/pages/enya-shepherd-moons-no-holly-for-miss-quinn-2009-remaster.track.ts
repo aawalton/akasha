@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaShepherdMoonsNoHollyForMissQuinn2009Remaster = {
   id: "01a0a5b0-1b6a-74bf-9ed8-445b2b6c6da8",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-shepherd-moons-no-holly-for-miss-quinn-2009-remaster",
   ownLength: 2.7244333333333333,
   ownProgress: 0,

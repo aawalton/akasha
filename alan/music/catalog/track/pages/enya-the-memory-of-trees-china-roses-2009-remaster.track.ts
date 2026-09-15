@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheMemoryOfTreesChinaRoses2009Remaster = {
   id: "01a0a5b0-1986-767e-b03c-3804e9540580",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-memory-of-trees-china-roses-2009-remaster",
   ownLength: 4.831766666666667,
   ownProgress: 0,

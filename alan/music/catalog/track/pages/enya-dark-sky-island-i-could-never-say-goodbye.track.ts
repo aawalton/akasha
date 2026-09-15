@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaDarkSkyIslandICouldNeverSayGoodbye = {
   id: "01a0a5b0-0ba9-7fdd-8af6-6ce4e2f3420b",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-dark-sky-island-i-could-never-say-goodbye",
   ownLength: 3.4991,
   ownProgress: 0,

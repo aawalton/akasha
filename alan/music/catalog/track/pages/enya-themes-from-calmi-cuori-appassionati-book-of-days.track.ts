@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaThemesFromCalmiCuoriAppassionatiBookOfDays = {
   id: "01a0a5b0-138d-740f-bfe5-1b09739d54f7",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-themes-from-calmi-cuori-appassionati-book-of-days",
   ownLength: 2.94155,
   ownProgress: 0,

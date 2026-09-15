@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheVeryBestOfEnyaDeluxeEditionIfICouldBeWhereYouAre = {
   id: "01a0a5b0-281a-7418-88d8-ace4f2677a5b",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-very-best-of-enya-deluxe-edition-if-i-could-be-where-you-are",
   ownLength: 4.021766666666666,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaThemesFromCalmiCuoriAppassionatiTriadStPatrickCuChulainnOisin = {
   id: "01a0a5b0-1458-7160-84a8-ed319efb2447",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-themes-from-calmi-cuori-appassionati-triad-st-patrick-cu-chulainn-oisin",
   ownLength: 4.432216666666666,
   ownProgress: 0,

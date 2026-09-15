@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheMemoryOfTreesLaSonadora2009Remaster = {
   id: "01a0a5b0-1a10-78df-8d12-6ab8261240b0",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-memory-of-trees-la-sonadora-2009-remaster",
   ownLength: 3.64,
   ownProgress: 0,

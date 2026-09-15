@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaOnlyTimeRemixWillowsOnTheWater = {
   id: "01a0a5b0-2398-747f-b2f0-e6a23ccd9963",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-only-time-remix-willows-on-the-water",
   ownLength: 3.033333333333333,
   ownProgress: 0,

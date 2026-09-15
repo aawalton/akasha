@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineBetweenTwoLungsSwimmingLiveFromHammersmithApollo2010 = {
   id: "01a0a5cd-6b6a-70e6-b47f-6c41ad78bc67",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-swimming-live-from-hammersmith-apollo-2010",
   ownLength: 3.5166666666666666,
   ownProgress: 0,

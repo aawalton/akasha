@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheMemoryOfTreesTeaHouseMoonInstrumental2009Remaster = {
   id: "01a0a5b0-19cb-79eb-9da0-c19db3024930",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-memory-of-trees-tea-house-moon-instrumental-2009-remaster",
   ownLength: 2.728666666666667,
   ownProgress: 0,

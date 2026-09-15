@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaStarsAldebaran = {
   id: "01a0a5b0-1762-7234-8522-5a62154cf98d",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-stars-aldebaran",
   ownLength: 3.0933333333333333,
   ownProgress: 0,

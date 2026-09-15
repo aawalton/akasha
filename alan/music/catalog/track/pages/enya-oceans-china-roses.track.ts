@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaOceansChinaRoses = {
   id: "01a0a5b0-2cca-79f0-b109-e85291453316",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-oceans-china-roses",
   ownLength: 4.786216666666666,
   ownProgress: 0,

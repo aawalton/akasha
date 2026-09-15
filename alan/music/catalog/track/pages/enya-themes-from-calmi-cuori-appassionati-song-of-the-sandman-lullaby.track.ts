@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaThemesFromCalmiCuoriAppassionatiSongOfTheSandmanLullaby = {
   id: "01a0a5b0-14e4-7c3b-993f-1aecb3b9fbe9",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-themes-from-calmi-cuori-appassionati-song-of-the-sandman-lullaby",
   ownLength: 3.6999833333333334,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheVeryBestOfEnyaDeluxeEditionWatermark2009Remaster = {
   id: "01a0a5b0-2699-7583-ae89-25bee1e75d5e",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-very-best-of-enya-deluxe-edition-watermark-2009-remaster",
   ownLength: 2.4288833333333333,
   ownProgress: 0,

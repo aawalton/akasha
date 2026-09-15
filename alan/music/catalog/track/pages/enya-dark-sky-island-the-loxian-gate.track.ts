@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaDarkSkyIslandTheLoxianGate = {
   id: "01a0a5b0-0c2d-7462-b747-247b792a210c",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-dark-sky-island-the-loxian-gate",
   ownLength: 3.5813333333333333,
   ownProgress: 0,

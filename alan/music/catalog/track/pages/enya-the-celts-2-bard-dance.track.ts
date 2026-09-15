@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheCelts2BardDance = {
   id: "01a0a5b0-21c2-7d2f-a40a-b42e7338f2fc",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-celts-2-bard-dance",
   ownLength: 1.4151,
   ownProgress: 0,

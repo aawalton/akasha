@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheCeltsSFagaimMoBhaile = {
   id: "01a0a5b0-24ed-730b-9019-acce63c95be6",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-celts-s-fagaim-mo-bhaile",
   ownLength: 3.989333333333333,
   ownProgress: 0,

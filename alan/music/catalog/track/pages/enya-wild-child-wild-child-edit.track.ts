@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaWildChildWildChildEdit = {
   id: "01a0a5b0-23e6-7a3d-99d4-1e666275b882",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-wild-child-wild-child-edit",
   ownLength: 3.562666666666667,
   ownProgress: 0,

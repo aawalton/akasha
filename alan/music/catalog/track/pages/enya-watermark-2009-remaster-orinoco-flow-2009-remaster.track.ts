@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaWatermark2009RemasterOrinocoFlow2009Remaster = {
   id: "01a0a5b0-1d9e-764d-898a-c1db141d8e8a",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-watermark-2009-remaster-orinoco-flow-2009-remaster",
   ownLength: 4.4366666666666665,
   ownProgress: 0,

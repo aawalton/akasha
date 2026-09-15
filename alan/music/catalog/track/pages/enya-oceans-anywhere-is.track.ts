@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaOceansAnywhereIs = {
   id: "01a0a5b0-2c0c-70c9-bb91-1e30431ecf07",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-oceans-anywhere-is",
   ownLength: 3.744883333333333,
   ownProgress: 0,

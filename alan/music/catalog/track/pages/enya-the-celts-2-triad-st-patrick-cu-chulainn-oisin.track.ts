@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheCelts2TriadStPatrickCuChulainnOisin = {
   id: "01a0a5b0-2153-7b57-9be6-d27d28a20b64",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-celts-2-triad-st-patrick-cu-chulainn-oisin",
   ownLength: 4.4211,
   ownProgress: 0,

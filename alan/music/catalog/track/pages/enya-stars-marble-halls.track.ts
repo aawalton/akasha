@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaStarsMarbleHalls = {
   id: "01a0a5b0-1829-75f0-b665-1fadd837aa31",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-stars-marble-halls",
   ownLength: 3.9033333333333333,
   ownProgress: 0,

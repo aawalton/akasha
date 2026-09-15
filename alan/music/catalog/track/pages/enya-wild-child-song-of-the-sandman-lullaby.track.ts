@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaWildChildSongOfTheSandmanLullaby = {
   id: "01a0a5b0-2433-774f-b5ab-418b95c66dc6",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-wild-child-song-of-the-sandman-lullaby",
   ownLength: 3.6611,
   ownProgress: 0,

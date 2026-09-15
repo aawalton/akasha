@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaStormsInAfricaPtIi2009RemasterOrinocoFlowSailAwaySingleVersion = {
   id: "01a0a5b0-25bf-7681-a33c-f937dcfb16c9",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-storms-in-africa-pt-ii-2009-remaster-orinoco-flow-sail-away-single-version",
   ownLength: 3.764,
   ownProgress: 0,

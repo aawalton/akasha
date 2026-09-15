@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheVeryBestOfEnyaDeluxeEditionOrinocoFlow2009Remaster = {
   id: "01a0a5b0-2643-7029-9f39-f8a3484d9cb7",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-very-best-of-enya-deluxe-edition-orinoco-flow-2009-remaster",
   ownLength: 4.476,
   ownProgress: 0,

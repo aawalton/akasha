@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineBetweenTwoLungsMyBoyBuildsCoffinsItunesLiveLondonFestival2010 = {
   id: "01a0a5cd-6c75-71ff-9c4f-16d85d9cb517",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-my-boy-builds-coffins-itunes-live-london-festival-2010",
   ownLength: 2.78755,
   ownProgress: 0,

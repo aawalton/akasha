@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineBetweenTwoLungsDogDaysAreOverItunesLiveLondonFestival2010 = {
   id: "01a0a5cd-6c43-72c2-91e9-78f5b7b37d21",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-dog-days-are-over-itunes-live-london-festival-2010",
   ownLength: 4.25155,
   ownProgress: 0,

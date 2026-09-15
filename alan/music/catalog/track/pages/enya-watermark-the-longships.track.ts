@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaWatermarkTheLongships = {
   id: "01a0a5b0-1fac-7218-907b-30106ac20e19",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-watermark-the-longships",
   ownLength: 3.65555,
   ownProgress: 0,

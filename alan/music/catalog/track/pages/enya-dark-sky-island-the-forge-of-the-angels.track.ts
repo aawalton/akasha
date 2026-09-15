@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaDarkSkyIslandTheForgeOfTheAngels = {
   id: "01a0a5b0-0b68-71d6-861d-02205dc469c8",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-dark-sky-island-the-forge-of-the-angels",
   ownLength: 5.236666666666666,
   ownProgress: 0,

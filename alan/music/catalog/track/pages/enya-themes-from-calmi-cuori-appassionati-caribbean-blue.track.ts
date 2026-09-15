@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaThemesFromCalmiCuoriAppassionatiCaribbeanBlue = {
   id: "01a0a5b0-136c-7612-b8d1-43d14ede2d9c",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-themes-from-calmi-cuori-appassionati-caribbean-blue",
   ownLength: 3.97665,
   ownProgress: 0,

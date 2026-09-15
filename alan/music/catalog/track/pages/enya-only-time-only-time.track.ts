@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaOnlyTimeOnlyTime = {
   id: "01a0a5b0-245a-7e2b-8176-5c512e15234e",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-only-time-only-time",
   ownLength: 3.628,
   ownProgress: 0,

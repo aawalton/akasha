@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTrainsAndWinterRainsTrainsAndWinterRains = {
   id: "01a0a5b0-2251-7054-8204-691616bf1279",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-trains-and-winter-rains-trains-and-winter-rains",
   ownLength: 3.7218333333333335,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaMayItBeMayItBe = {
   id: "01a0a5b0-22dc-77de-bb62-2b3228b5c5d2",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-may-it-be-may-it-be",
   ownLength: 3.5177666666666667,
   ownProgress: 0,

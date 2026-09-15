@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineBetweenTwoLungsDrummingSongItunesLiveLondonFestival2010 = {
   id: "01a0a5cd-6bb3-78b3-a58c-eb0f827c896e",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-drumming-song-itunes-live-london-festival-2010",
   ownLength: 4.690216666666666,
   ownProgress: 0,

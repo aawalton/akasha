@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheVeryBestOfEnyaDeluxeEditionAthairArNeamh2009Remaster = {
   id: "01a0a5b0-28a1-7d74-b8c2-9bdf44e63d9a",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-very-best-of-enya-deluxe-edition-athair-ar-neamh-2009-remaster",
   ownLength: 3.7026666666666666,
   ownProgress: 0,

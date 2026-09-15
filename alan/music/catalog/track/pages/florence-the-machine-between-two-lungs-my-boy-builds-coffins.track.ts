@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineBetweenTwoLungsMyBoyBuildsCoffins = {
   id: "01a0a5cd-6a2b-72d8-859b-e30f32546126",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-my-boy-builds-coffins",
   ownLength: 2.94555,
   ownProgress: 0,

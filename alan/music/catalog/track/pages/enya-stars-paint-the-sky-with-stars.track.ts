@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaStarsPaintTheSkyWithStars = {
   id: "01a0a5b0-16db-719d-b08b-4ec00591c26c",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-stars-paint-the-sky-with-stars",
   ownLength: 4.2251,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineBetweenTwoLungsYouveGotTheDirteeLoveLiveAtTheBritAwards2010 = {
   id: "01a0a5cd-6afd-77d6-aae6-6e9dad6c325a",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-youve-got-the-dirtee-love-live-at-the-brit-awards-2010",
   ownLength: 3.6844333333333332,
   ownProgress: 0,

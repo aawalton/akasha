@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaTheMemoryOfTreesOnceYouHadGold2009Remaster = {
   id: "01a0a5b0-19ee-7875-8ad7-5d53cd46f7bc",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-the-memory-of-trees-once-you-had-gold-2009-remaster",
   ownLength: 3.2997666666666667,
   ownProgress: 0,

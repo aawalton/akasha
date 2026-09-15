@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaOceansOnlyIf = {
   id: "01a0a5b0-2c2f-7184-8d9d-38c7eea6eee8",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-oceans-only-if",
   ownLength: 3.330433333333333,
   ownProgress: 0,
