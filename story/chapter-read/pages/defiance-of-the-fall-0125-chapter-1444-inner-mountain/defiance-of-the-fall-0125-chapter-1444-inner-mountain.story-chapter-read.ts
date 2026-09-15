@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0125Chapter1444InnerMountain = {
   id: "01a06731-adb5-7000-9024-c3a413ddc1da",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0125-chapter-1444-inner-mountain",
   title: "Chapter 1,444 - Inner Mountain",
   story: "story-read/defiance-of-the-fall",

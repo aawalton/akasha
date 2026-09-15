@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0123Chapter1442TimeAndSpace = {
   id: "01a06731-adb4-7001-aeb6-73e55b243f61",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0123-chapter-1442-time-and-space",
   title: "Chapter 1,442 - Time and Space",
   story: "story-read/defiance-of-the-fall",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0096Chapter1416LordOfTheUnderworld = {
   id: "01a06731-ad9e-7000-8b55-e8a4fa5b96da",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0096-chapter-1416-lord-of-the-underworld",
   title: "Chapter 1,416 - Lord of the Underworld",
   story: "story-read/defiance-of-the-fall",

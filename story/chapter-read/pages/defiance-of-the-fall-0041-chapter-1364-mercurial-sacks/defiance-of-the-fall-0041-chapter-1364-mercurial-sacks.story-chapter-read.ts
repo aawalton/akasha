@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0041Chapter1364MercurialSacks = {
   id: "01a06591-3c6f-79aa-aacd-d42226bdbe1e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0041-chapter-1364-mercurial-sacks",
   title: "Chapter 1,364 - Mercurial Sacks",
   story: "story-read/defiance-of-the-fall",

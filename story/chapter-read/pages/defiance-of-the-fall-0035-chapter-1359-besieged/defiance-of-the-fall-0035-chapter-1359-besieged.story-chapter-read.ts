@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0035Chapter1359Besieged = {
   id: "01a06591-3c6f-7068-9e87-390aea6ad448",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0035-chapter-1359-besieged",
   title: "Chapter 1,359 - Besieged",
   story: "story-read/defiance-of-the-fall",

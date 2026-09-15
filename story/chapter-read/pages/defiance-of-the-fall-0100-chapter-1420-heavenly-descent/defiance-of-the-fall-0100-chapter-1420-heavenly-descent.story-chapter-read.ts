@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0100Chapter1420HeavenlyDescent = {
   id: "01a06731-ada2-7000-ab17-b4791a8e74cf",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0100-chapter-1420-heavenly-descent",
   title: "Chapter 1,420 - Heavenly Descent",
   story: "story-read/defiance-of-the-fall",

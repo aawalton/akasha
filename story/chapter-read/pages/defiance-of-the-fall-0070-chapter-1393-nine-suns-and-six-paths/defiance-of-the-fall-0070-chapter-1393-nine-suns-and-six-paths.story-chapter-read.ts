@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0070Chapter1393NineSunsAndSixPaths = {
   id: "01a06591-3c75-7aea-9482-739acdd2a795",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0070-chapter-1393-nine-suns-and-six-paths",
   title: "Chapter 1,393 - Nine Suns and Six Paths",
   story: "story-read/defiance-of-the-fall",

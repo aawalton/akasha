@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0114Chapter1434Fuxi = {
   id: "01a06731-adad-7001-b10d-f0862e2b7fb3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0114-chapter-1434-fuxi",
   title: "Chapter 1,434 - Fuxi",
   story: "story-read/defiance-of-the-fall",

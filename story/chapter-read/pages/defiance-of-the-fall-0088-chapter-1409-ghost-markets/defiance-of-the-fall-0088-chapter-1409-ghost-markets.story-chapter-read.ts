@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0088Chapter1409GhostMarkets = {
   id: "01a06731-ad92-7000-827b-2a34c12ed719",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0088-chapter-1409-ghost-markets",
   title: "Chapter 1,409 - Ghost Markets",
   story: "story-read/defiance-of-the-fall",

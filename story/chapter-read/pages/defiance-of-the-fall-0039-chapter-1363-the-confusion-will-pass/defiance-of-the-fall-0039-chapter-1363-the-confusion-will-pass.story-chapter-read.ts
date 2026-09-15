@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0039Chapter1363TheConfusionWillPass = {
   id: "01a06591-3c6f-711b-948e-591d185d6f7f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0039-chapter-1363-the-confusion-will-pass",
   title: "Chapter 1,363 - The Confusion Will Pass",
   story: "story-read/defiance-of-the-fall",

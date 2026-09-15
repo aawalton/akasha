@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0138Chapter1457GrandUnity = {
   id: "01a08230-8764-7b8f-8f91-48e86812b35a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0138-chapter-1457-grand-unity",
   story: "story-read/defiance-of-the-fall",
   position: 138,

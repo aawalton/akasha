@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0044Chapter1367SecondSingularity = {
   id: "01a06591-3c70-7671-a74c-d07c5fca8604",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0044-chapter-1367-second-singularity",
   title: "Chapter 1,367 - Second Singularity",
   story: "story-read/defiance-of-the-fall",

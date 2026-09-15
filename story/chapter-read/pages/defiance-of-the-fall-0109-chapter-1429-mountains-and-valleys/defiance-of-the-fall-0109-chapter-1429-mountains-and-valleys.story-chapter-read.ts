@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0109Chapter1429MountainsAndValleys = {
   id: "01a06731-adab-7000-91b2-51c7d77845df",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0109-chapter-1429-mountains-and-valleys",
   title: "Chapter 1,429 - Mountains and Valleys",
   story: "story-read/defiance-of-the-fall",

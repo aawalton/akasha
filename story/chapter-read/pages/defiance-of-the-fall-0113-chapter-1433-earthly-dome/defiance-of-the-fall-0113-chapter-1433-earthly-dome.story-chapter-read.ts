@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0113Chapter1433EarthlyDome = {
   id: "01a06731-adad-7000-b977-0951607294e7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0113-chapter-1433-earthly-dome",
   title: "Chapter 1,433 - Earthly Dome",
   story: "story-read/defiance-of-the-fall",

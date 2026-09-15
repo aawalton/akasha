@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0140Chapter1459CultivationIdiot = {
   id: "01a09bf2-0227-7112-85ab-b0d3c497bfb4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0140-chapter-1459-cultivation-idiot",
   position: 140,
   publishedAt: "2026-09-13",

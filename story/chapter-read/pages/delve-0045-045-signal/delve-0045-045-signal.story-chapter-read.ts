@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delve0045045Signal = {
   id: "01a06731-add0-7001-a7e7-edae8ccfffaa",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delve-0045-045-signal",
   title: "045: Signal",
   story: "story-read/delve",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delve0005005Alone = {
   id: "01a06731-ad6c-7000-963a-d6000c9c1fa5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delve-0005-005-alone",
   title: "005: Alone",
   story: "story-read/delve",

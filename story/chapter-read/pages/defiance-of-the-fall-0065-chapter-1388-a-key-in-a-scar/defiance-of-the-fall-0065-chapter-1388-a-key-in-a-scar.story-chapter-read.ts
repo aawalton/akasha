@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0065Chapter1388AKeyInAScar = {
   id: "01a06591-3c74-7811-9582-3e42a7c86255",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0065-chapter-1388-a-key-in-a-scar",
   title: "Chapter 1,388 - A Key in a Scar",
   story: "story-read/defiance-of-the-fall",

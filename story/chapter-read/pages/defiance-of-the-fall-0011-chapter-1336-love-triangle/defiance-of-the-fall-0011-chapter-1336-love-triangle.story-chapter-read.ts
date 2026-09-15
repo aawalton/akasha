@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0011Chapter1336LoveTriangle = {
   id: "01a06591-3c69-71b5-8f89-cbacf69dd7d7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0011-chapter-1336-love-triangle",
   title: "Chapter 1,336 - Love Triangle",
   story: "story-read/defiance-of-the-fall",

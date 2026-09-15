@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0097Chapter1417Interment = {
   id: "01a06731-ad9f-7000-8871-3d27546dc8c7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0097-chapter-1417-interment",
   title: "Chapter 1,417 - Interment",
   story: "story-read/defiance-of-the-fall",

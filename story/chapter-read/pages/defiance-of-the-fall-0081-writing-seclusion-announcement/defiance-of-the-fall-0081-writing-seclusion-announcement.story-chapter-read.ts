@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0081WritingSeclusionAnnouncement = {
   id: "01a06591-3c77-7712-8665-6547cf0d783b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0081-writing-seclusion-announcement",
   title: "Writing Seclusion Announcement",
   story: "story-read/defiance-of-the-fall",

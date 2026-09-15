@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0073Chapter1395RiversAndMoons = {
   id: "01a06591-3c75-7423-9269-e550bc47cc28",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0073-chapter-1395-rivers-and-moons",
   title: "Chapter 1,395 - Rivers and Moons",
   story: "story-read/defiance-of-the-fall",

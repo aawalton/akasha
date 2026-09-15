@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0049Chapter1372PoisedMeadows = {
   id: "01a06591-3c71-7026-bcef-d6fe3261b9ba",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0049-chapter-1372-poised-meadows",
   title: "Chapter 1,372 - Poised Meadows",
   story: "story-read/defiance-of-the-fall",

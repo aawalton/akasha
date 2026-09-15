@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0095Chapter1415TheLastRayOfHope = {
   id: "01a06731-ad9d-7001-8a07-f5d47be87679",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0095-chapter-1415-the-last-ray-of-hope",
   title: "Chapter 1,415 - The Last Ray of Hope",
   story: "story-read/defiance-of-the-fall",

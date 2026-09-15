@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const defianceOfTheFall0080Chapter1402InexorableFate = {
   id: "01a06591-3c77-7a3f-bf4b-205fe9a1c089",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "defiance-of-the-fall-0080-chapter-1402-inexorable-fate",
   title: "Chapter 1,402 - Inexorable Fate",
   story: "story-read/defiance-of-the-fall",

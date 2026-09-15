@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delve0038038Geography = {
   id: "01a06731-adbf-7000-80d9-488f51e0bb2d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delve-0038-038-geography",
   title: "038: Geography",
   story: "story-read/delve",
