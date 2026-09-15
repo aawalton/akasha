@@ -66,16 +66,12 @@ function applyPlan(collection: Collection<PageRow, string>, plan: PagesMutationP
       return
     case "patch":
       if (collection.has(plan.rowId)) {
-        collection.update(plan.rowId, (draft: WritableDeep<PageRow>) =>
-          applyOverlay(draft, plan.overlay)
-        )
+        collection.update(plan.rowId, (draft) => applyOverlay(draft, plan.overlay))
       }
       return
     case "upsert":
       if (collection.has(plan.rowId)) {
-        collection.update(plan.rowId, (draft: WritableDeep<PageRow>) =>
-          applyOverlay(draft, plan.overlay)
-        )
+        collection.update(plan.rowId, (draft) => applyOverlay(draft, plan.overlay))
       } else {
         collection.insert(plan.row)
       }
