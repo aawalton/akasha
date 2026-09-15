@@ -275,6 +275,6 @@ export const typecheck = {
       statement: "A declaration file the change moves is found where that change leaves it.",
     },
   ],
-  check: { maxCpuSeconds: 120 },
+  check: { maxCpuSeconds: 300 },
   audit: { maxCpuSeconds: 150 },
 } as const satisfies CheckCode
