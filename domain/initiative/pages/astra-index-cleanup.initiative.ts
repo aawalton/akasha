@@ -33,7 +33,7 @@ export const astraIndexCleanup = {
       statement:
         "The edge and import indexes go, what references a page being read from the file beside it.",
       workingMemory:
-        "Every reader is migrated but `idsNaming`, which is in hand, and the import index has no reader left. What remains: the edge index's writers in `index-settling`, `relationFiled` in the reading fixtures, `index/index-edge` in this page type's parts, and the `index:` relation on the two graph edge pages. `index-answers-are-level-with-the-change` judges only an index stating `tracked: true`, so once the edge index goes one index alone is judged, and nothing judges the files beside pages.",
+        "The import index is gone whole, and the edge index has no reader left. What remains: its writers in `index-settling` and `indexing`, `relationFiled` in the reading fixtures, `index/index-edge` in this page type's parts, four invariants here written about the import index, and the `index` property on `graph-edge` with the three invariants around it. `.index/edge/` is 108,664 tracked files and 12.4 MB of paths against a 2 MB argument ceiling, so no change can land its removal.\n",
     },
   ],
 } as const satisfies Initiative
