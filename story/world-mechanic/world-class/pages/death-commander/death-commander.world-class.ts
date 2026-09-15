@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const deathCommander = {
   id: "01a0657e-01ce-7306-9f07-e7d46a830f7d",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "death-commander",
   title: "Death Commander",
   world: "world/the-wandering-inn",

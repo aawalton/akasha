@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const councilorOfStates = {
   id: "01a0657e-134f-7bb7-a20f-5e02dd89dd55",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "councilor-of-states",
   title: "Councilor of States",
   world: "world/the-wandering-inn",

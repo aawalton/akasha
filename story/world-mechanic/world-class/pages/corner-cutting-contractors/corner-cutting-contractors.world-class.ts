@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const cornerCuttingContractors = {
   id: "01a0657e-01c9-7182-a382-73facac00149",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "corner-cutting-contractors",
   title: "Corner Cutting Contractors",
   world: "world/the-wandering-inn",

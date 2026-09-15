@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const corruptAccountant = {
   id: "01a0657e-01ca-7260-a3e8-5e918e0bc012",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "corrupt-accountant",
   title: "Corrupt Accountant",
   world: "world/the-wandering-inn",
