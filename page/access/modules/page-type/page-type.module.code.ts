@@ -38,7 +38,6 @@ export type CreatePageTypeArgs = {
 
 export async function createPageType(args: CreatePageTypeArgs): Promise<Page> {
   validateSlugReserved(args.properties.slug, "slug")
-  validateSlugReserved(args.properties.pluralSlug, "pluralSlug")
   validateTemperTitlePrefix(args.properties.slug, args.properties.title)
   await requirePageTypeOnFiles()
   return createFilePage(
@@ -56,7 +55,6 @@ export type PatchPageTypeByIdArgs = {
 
 export async function patchPageTypeById(args: PatchPageTypeByIdArgs): Promise<Page | null> {
   validateSlugReserved(args.set.slug, "slug")
-  validateSlugReserved(args.set.pluralSlug, "pluralSlug")
   await requirePageTypeOnFiles()
   refuseJsonPatch("patchPageTypeById", PAGE_TYPE_SLUG, args.patch)
   const patched = await patchFilePages(
@@ -101,15 +99,6 @@ async function pageTypeFromFiles(where: string, key: string, value: string): Pro
     if (got.rows.length === 1) return got.rows[0] ?? null
   }
   return null
-}
-
-export async function getPageTypeByPluralSlug(pluralSlug: string): Promise<Page | null> {
-  const onFile = await pageTypeFromFiles("getPageTypeByPluralSlug", "pluralSlug", pluralSlug)
-  if (onFile !== null) return onFile
-  const bySlug = await getPageTypeBySlug(pluralSlug)
-  if (bySlug === null) return null
-  const stated = bySlug.pluralSlug
-  return stated == null || stated === "" ? bySlug : null
 }
 
 export async function getPageTypeBySlug(slug: string): Promise<Page | null> {

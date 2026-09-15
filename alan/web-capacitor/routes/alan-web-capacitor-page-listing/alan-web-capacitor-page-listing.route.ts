@@ -14,11 +14,7 @@ export const alanWebCapacitorPageListing = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The segment in the url is matched against a plural slug.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A segment matching no plural slug is matched against a slug.",
+      statement: "The segment in the url is matched against a page type's slug.",
     },
   ],
 } as const satisfies Route

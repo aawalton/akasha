@@ -11,22 +11,16 @@ const PAGE_TYPE_SLUG = "page-type"
 
 export default function CapacitorPageListing() {
   const params = useParams()
-  const pluralParam = params.pageTypeSlug ?? ""
+  const slugParam = params.pageTypeSlug ?? ""
   const [searchParams] = useSearchParams()
 
   const { pages: pageTypes, isLoading } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
 
   const resolvedSlug = useMemo(() => {
-    const byPlural = pageTypes.find((pt) => pt.properties?.pluralSlug === pluralParam)
-    if (byPlural && typeof byPlural.properties?.slug === "string") return byPlural.properties.slug
-    const byBareSlug = pageTypes.find(
-      (pt) => pt.properties?.pluralSlug == null && pt.properties?.slug === pluralParam
-    )
-    if (byBareSlug && typeof byBareSlug.properties?.slug === "string") {
-      return byBareSlug.properties.slug
-    }
+    const match = pageTypes.find((pt) => pt.properties?.slug === slugParam)
+    if (match && typeof match.properties?.slug === "string") return match.properties.slug
     return null
-  }, [pageTypes, pluralParam])
+  }, [pageTypes, slugParam])
 
   const parsedSearchParams = useMemo(() => {
     const record: Record<string, string> = {}

@@ -1,5 +1,5 @@
 import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
-import { getPageTypeByPluralSlug } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
+import { getPageTypeBySlug } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
 import { PagesFilteredContent } from "akasha/page/ui/components/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { Suspense } from "react"
@@ -7,10 +7,10 @@ import { data } from "react-router"
 import type { Route } from "./+types/archive-of-worlds-page-listing.route.code"
 
 export async function loader({ params, request }: Route.LoaderArgs) {
-  const pluralSlug = params.pageTypeSlug
+  const pageTypeSlug = params.pageTypeSlug
 
   const { headers } = createServerClient(request)
-  const pageType = await getPageTypeByPluralSlug(pluralSlug)
+  const pageType = await getPageTypeBySlug(pageTypeSlug)
   if (!pageType || typeof pageType.slug !== "string") {
     throw new Response("Not Found", { status: 404 })
   }

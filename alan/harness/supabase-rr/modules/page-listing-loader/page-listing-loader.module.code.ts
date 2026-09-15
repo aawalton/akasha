@@ -1,10 +1,10 @@
 import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
-import { getPageTypeByPluralSlug } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
+import { getPageTypeBySlug } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
 import { data } from "react-router"
 
-export async function pageListingData(request: Request, pluralSlug: string) {
+export async function pageListingData(request: Request, slug: string) {
   const { headers } = createServerClient(request)
-  const pageType = await getPageTypeByPluralSlug(pluralSlug)
+  const pageType = await getPageTypeBySlug(slug)
   if (!pageType || typeof pageType.slug !== "string") {
     throw new Response("Not Found", { status: 404 })
   }
