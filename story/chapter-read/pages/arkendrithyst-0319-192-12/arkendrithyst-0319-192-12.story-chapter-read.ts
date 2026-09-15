@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const arkendrithyst031919212 = {
   id: "01a08394-8dbb-7292-8235-e2ac370e098c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "arkendrithyst-0319-192-12",
   story: "story-read/arkendrithyst",
   position: 319,

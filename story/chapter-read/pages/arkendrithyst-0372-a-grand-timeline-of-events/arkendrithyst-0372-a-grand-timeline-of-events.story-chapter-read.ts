@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const arkendrithyst0372AGrandTimelineOfEvents = {
   id: "01a0672c-ec53-7000-a3e2-538733634476",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "arkendrithyst-0372-a-grand-timeline-of-events",
   title: "A Grand Timeline of Events",
   story: "story-read/arkendrithyst",
