@@ -46,6 +46,7 @@ import {
   shut,
 } from "akasha/agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"
 import {
+  ANTHROPIC,
   everyAccountStateIn,
   rescuedIn,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
@@ -329,7 +330,7 @@ test("a push that threw after it committed names that commit and rescues the pai
 test("pushing one account's credential opens that account's page and no other page", async () => {
   const root = worldMade()
   for (const one of ["aine", "aow"]) shut(root, one)
-  expect([...everyAccountStateIn(root).keys()]).toEqual(["ctw"])
+  expect([...everyAccountStateIn(root, ANTHROPIC).keys()]).toEqual(["ctw"])
   expect((await pushed(root, credentialOf("ctw"), sopsIn().doors)).kind).toBe("pushed")
 })
 

@@ -1,5 +1,6 @@
 import { UPKEEP_PERIOD_MS } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
 import {
+  ANTHROPIC,
   everyAccountStateIn,
   lastWindowTriggerAcross,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
@@ -24,7 +25,7 @@ const MS_A_SECOND = 1000
 
 async function computeStartupDelayMs(root: string): Promise<number> {
   try {
-    const lastTriggerMs = lastWindowTriggerAcross(everyAccountStateIn(root).values())
+    const lastTriggerMs = lastWindowTriggerAcross(everyAccountStateIn(root, ANTHROPIC).values())
     if (lastTriggerMs === null) return 0
     if (!Number.isFinite(lastTriggerMs)) return 0
     const msSince = Date.now() - lastTriggerMs

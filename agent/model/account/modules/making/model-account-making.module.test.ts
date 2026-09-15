@@ -80,7 +80,7 @@ describe("accountPageAt", () => {
 })
 
 describe("accountPageText", () => {
-  test("an account states its id, its page type, its slug, its address and its alias slot", () => {
+  test("an account states its id, page type, slug, provider, address and alias slot", () => {
     const text = accountPageText(
       { slug: "c-seven", email: "seven@example.com", aliasIndex: 7, id: ID },
       HERE
@@ -92,6 +92,7 @@ export const cSeven = {
   id: "01a06400-0000-7000-8000-000000000000",
   type: "model-account",
   slug: "c-seven",
+  provider: "model-provider/anthropic",
   email: "seven@example.com",
   aliasIndex: 7,
 } as const satisfies ModelAccount

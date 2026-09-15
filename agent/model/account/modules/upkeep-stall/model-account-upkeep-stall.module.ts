@@ -75,6 +75,10 @@ export const modelAccountUpkeepStall = {
         "An account whose beside would not read is answered on its own rather than refusing the listing.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement: "An account held with a provider the upkeep never reaches is not judged here.",
+    },
+    {
       invariantKind: "invariant-kind/constraint",
       statement: "Every instant a verdict is judged against is handed in by the caller.",
     },

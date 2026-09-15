@@ -1,4 +1,8 @@
-import { aliasIndexesIn } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
+import {
+  ANTHROPIC,
+  aliasIndexesIn,
+  everyAccountSlugOfIn,
+} from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import type { AliasEntry } from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"
 import { generateBashInit } from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
@@ -17,7 +21,9 @@ const NO_ACCOUNT =
   "the shell keeps the definitions it started with rather than losing them silently"
 
 function accountsIn(root: string): readonly AliasEntry[] {
+  const launched = new Set(everyAccountSlugOfIn(root, ANTHROPIC))
   return [...aliasIndexesIn(root)]
+    .filter(([account]) => launched.has(account))
     .map(([account, aliasIndex]) => ({ account, aliasIndex }))
     .sort((a, b) => a.aliasIndex - b.aliasIndex)
 }

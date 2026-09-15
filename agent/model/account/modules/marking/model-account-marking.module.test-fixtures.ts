@@ -11,6 +11,7 @@ import {
   sortedFrom,
   type Usage,
 } from "akasha/agent/model/account/modules/marking/model-account-marking.module.code.ts"
+import { ANTHROPIC } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import type { PageOf } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {
   listedFiled,
@@ -243,7 +244,13 @@ function accountWritten(
   slug: string,
   beside: Record<string, unknown> | null
 ): undefined {
-  const value = { id: idFor(slug), pageTypeSlug: "model-account", slug, email: `${slug}@a.test` }
+  const value = {
+    id: idFor(slug),
+    pageTypeSlug: "model-account",
+    slug,
+    provider: ANTHROPIC,
+    email: `${slug}@a.test`,
+  }
   writing(root, pageAt(slug), bodied(slug, value))
   if (beside !== null) writing(root, besideAt(slug), bodied("held", beside))
   listedFiled(root, "model-account", slug, [{ path: pageAt(slug), id: idFor(slug) }])

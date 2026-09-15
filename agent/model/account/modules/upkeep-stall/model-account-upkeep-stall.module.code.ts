@@ -3,8 +3,9 @@ import {
   UPKEEP_RENEWAL_MARGIN_MS,
 } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
 import {
+  ANTHROPIC,
   accountBesideIn,
-  everyAccountIn,
+  everyAccountOfIn,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
@@ -170,7 +171,7 @@ export function stallLines(stall: UpkeepStall): readonly string[] {
 }
 
 export function readingsIn(root: string): readonly AccountReading[] {
-  return everyAccountIn(root).map((one) => {
+  return everyAccountOfIn(root, ANTHROPIC).map((one) => {
     try {
       const beside = accountBesideIn(root, one.slug)
       if (beside === null || Object.keys(beside).length === 0) {

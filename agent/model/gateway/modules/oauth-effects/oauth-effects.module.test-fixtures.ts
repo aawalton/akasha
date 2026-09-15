@@ -1,6 +1,7 @@
 import { mkdirSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { bodied } from "akasha/agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"
+import { ANTHROPIC } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import type {
   Doors,
   UsageRead,
@@ -149,6 +150,7 @@ export function accountWritten(
     id: idFor(slug),
     pageTypeSlug: "model-account",
     slug,
+    provider: ANTHROPIC,
     email: `${slug}@a.test`,
     ...stated,
   }

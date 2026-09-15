@@ -10,7 +10,7 @@ export const modelAccountMeasuring = {
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Every account with a page is answered.",
+      statement: "Every Anthropic account with a page is answered.",
     },
     {
       invariantKind: "invariant-kind/departure",

@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  ANTHROPIC,
   accountBesideIn,
   accountPathIn,
   accountStateIn,
@@ -11,6 +12,7 @@ import {
   credentialFrom,
   credentialIn,
   everyAccountSlugIn,
+  everyAccountSlugOfIn,
   everyAccountStateIn,
   everyCredentialIn,
   lastWindowTriggerAcross,
@@ -77,7 +79,13 @@ function idFor(slug: string): string {
 
 function accountWritten(root: string, slug: string, stated: Held, beside: Held | null): undefined {
   const at = pageAt(slug)
-  const value = { id: idFor(slug), pageTypeSlug: "model-account", slug, ...stated }
+  const value = {
+    id: idFor(slug),
+    pageTypeSlug: "model-account",
+    slug,
+    provider: ANTHROPIC,
+    ...stated,
+  }
   mkdirSync(join(root, `${PAGES_AT}/${slug}`), { recursive: true })
   writeFileSync(join(root, at), bodied(slug, value))
   if (beside !== null) {
@@ -271,7 +279,7 @@ test("a rescued pair missing a token is read as none", () => {
 test("the fleet is read as every account filed", () => {
   const root = worldMade()
   expect(everyAccountSlugIn(root)).toEqual(["aine", "aow", "ctw"])
-  const states = everyAccountStateIn(root)
+  const states = everyAccountStateIn(root, ANTHROPIC)
   expect([...states.keys()]).toEqual(["aine", "aow", "ctw"])
   expect(states.get("ctw")?.accessTokenExpiresAtMs).toBe(Date.parse("2026-09-03T00:00:00.000Z"))
   expect(lastWindowTriggerAcross(states.values())).toBe(Date.parse("2026-09-01T20:00:00.000Z"))
@@ -284,9 +292,28 @@ test("the fleet is read as every account filed", () => {
     ["aine", "uuid-aine"],
     ["ctw", "uuid-ctw"],
   ])
-  const credentials = everyCredentialIn(root, secretsFake)
+  const credentials = everyCredentialIn(root, secretsFake, ANTHROPIC)
   expect([...credentials.keys()]).toEqual(["aine", "aow", "ctw"])
   expect(credentials.get("aow")?.kind).toBe("absent")
+})
+
+test("a fleet answer narrowed to one provider leaves out every account held elsewhere", () => {
+  const root = worldMade()
+  accountWritten(
+    root,
+    "deepseek",
+    { email: "deepseek@example.test", aliasIndex: 4, provider: "model-provider/deepseek" },
+    null
+  )
+  expect(everyAccountSlugIn(root)).toEqual(["aine", "aow", "ctw", "deepseek"])
+  expect(everyAccountSlugOfIn(root, ANTHROPIC)).toEqual(["aine", "aow", "ctw"])
+  expect(everyAccountSlugOfIn(root, "model-provider/deepseek")).toEqual(["deepseek"])
+  expect([...everyAccountStateIn(root, ANTHROPIC).keys()]).toEqual(["aine", "aow", "ctw"])
+  expect([...everyCredentialIn(root, secretsFake, ANTHROPIC).keys()]).toEqual([
+    "aine",
+    "aow",
+    "ctw",
+  ])
 })
 
 test("a root filing no model-account index is refused rather than read as an empty fleet", () => {
@@ -323,7 +350,7 @@ test("reading one account opens no other account's page", () => {
   for (const slug of ["aow", "ctw"]) {
     shut(join(root, pageAt(slug)))
   }
-  expect([...everyAccountStateIn(root).keys()]).toEqual(["aine"])
+  expect([...everyAccountStateIn(root, ANTHROPIC).keys()]).toEqual(["aine"])
   const state = accountStateIn(root, "aine")
   expect(state?.sevenDayPercentUsed).toBe(40)
   const held = credentialIn(root, "aine", secretsFake)

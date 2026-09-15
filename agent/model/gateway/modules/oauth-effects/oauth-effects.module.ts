@@ -20,7 +20,7 @@ export const oauthEffects = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The best credential is chosen from every account filed under the root.",
+      statement: "The best credential is chosen from every Anthropic account filed under the root.",
     },
     {
       invariantKind: "invariant-kind/departure",

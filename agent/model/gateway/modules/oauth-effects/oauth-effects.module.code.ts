@@ -19,6 +19,7 @@ import { hoursUntilReset } from "akasha/agent/model/account/modules/pacing/model
 import {
   type AccountCredential,
   type AccountState as AccountReading,
+  ANTHROPIC,
   credentialIn,
   everyAccountStateIn,
   everyCredentialIn,
@@ -160,7 +161,7 @@ export function pacingOf(one: AccountReading): AccountState {
 
 export function pacingIn(root: string): ReadonlyMap<string, AccountState> {
   const found = new Map<string, AccountState>()
-  for (const [slug, one] of everyAccountStateIn(root)) found.set(slug, pacingOf(one))
+  for (const [slug, one] of everyAccountStateIn(root, ANTHROPIC)) found.set(slug, pacingOf(one))
   return found
 }
 
@@ -192,7 +193,7 @@ export function bestCredentialIn(
   try {
     const states = pacingIn(root)
     const found: Candidate[] = []
-    for (const [slug, held] of everyCredentialIn(root, doors.secretsRead)) {
+    for (const [slug, held] of everyCredentialIn(root, doors.secretsRead, ANTHROPIC)) {
       if (held.kind === "absent") {
         doors.warned(`${logPrefix} ${slug} could not be read off its page: ${held.why}`)
         continue

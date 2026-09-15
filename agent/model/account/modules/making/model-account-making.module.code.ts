@@ -1,4 +1,5 @@
 import {
+  ANTHROPIC,
   accountPathIn,
   everyAccountIn,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
@@ -108,6 +109,7 @@ export function accountPageText(
     `  id: ${saidAs(given.id)},`,
     `  type: ${saidAs(PAGE_TYPE_SLUG)},`,
     `  slug: ${saidAs(given.slug)},`,
+    `  provider: ${saidAs(ANTHROPIC)},`,
     `  email: ${saidAs(given.email)},`,
     `  aliasIndex: ${String(given.aliasIndex)},`,
     `} as const satisfies ${named}`,

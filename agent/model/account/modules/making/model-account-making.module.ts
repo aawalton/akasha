@@ -23,7 +23,7 @@ export const modelAccountMaking = {
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "An account states its id and its page type and its slug and its address and its alias slot.",
+        "An account states its id and page type and slug and provider and address and alias slot.",
     },
     {
       invariantKind: "invariant-kind/departure",

@@ -11,7 +11,7 @@ export const infrastructureShellInitBash = {
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "One `c<N>` launcher is composed for each model account page.",
+      statement: "One `c<N>` launcher is composed for each Anthropic model account page.",
     },
     {
       invariantKind: "invariant-kind/departure",

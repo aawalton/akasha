@@ -32,6 +32,10 @@ export const modelAccountReading = {
       invariantKind: "invariant-kind/departure",
       statement: "An account's slug is read off the name of that account's page file.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A fleet answer narrowed to one provider leaves out every account held elsewhere.",
+    },
 
     {
       invariantKind: "invariant-kind/departure",

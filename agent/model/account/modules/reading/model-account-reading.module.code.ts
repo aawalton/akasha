@@ -27,6 +27,10 @@ const RESCUED_EXPIRES = "expiresAtMs"
 
 const RESCUED_EXPIRES_KEBAB = "expires-at-ms"
 
+const PROVIDER = "provider"
+
+export const ANTHROPIC = "model-provider/anthropic"
+
 const ACCOUNT_UUID = "accountUuid"
 
 const ALIAS_INDEX = "aliasIndex"
@@ -296,11 +300,25 @@ export function everyAccountSlugIn(given: string | Reading): readonly string[] {
   return everyAccountIn(given).map((one) => one.slug)
 }
 
-export function everyAccountStateIn(root: string): ReadonlyMap<string, AccountState> {
+export function everyAccountOfIn(root: string, provider: string): readonly ListedAccount[] {
+  return everyAccountIn(root).filter(
+    (one) => textIn(valueAt(one.path, root), PROVIDER) === provider
+  )
+}
+
+export function everyAccountSlugOfIn(root: string, provider: string): readonly string[] {
+  return everyAccountOfIn(root, provider).map((one) => one.slug)
+}
+
+export function everyAccountStateIn(
+  root: string,
+  provider: string
+): ReadonlyMap<string, AccountState> {
   const found = new Map<string, AccountState>()
   for (const one of everyAccountIn(root)) {
     const stated = valueAt(one.path, root)
     if (stated === null) continue
+    if (textIn(stated, PROVIDER) !== provider) continue
     found.set(one.slug, stateFrom(one.slug, stated, uncommittedIn(root, one.path)))
   }
   return found
@@ -308,10 +326,11 @@ export function everyAccountStateIn(root: string): ReadonlyMap<string, AccountSt
 
 export function everyCredentialIn(
   root: string,
-  secretsRead: SecretsRead
+  secretsRead: SecretsRead,
+  provider: string
 ): ReadonlyMap<string, CredentialRead> {
   const found = new Map<string, CredentialRead>()
-  for (const one of everyAccountIn(root)) {
+  for (const one of everyAccountOfIn(root, provider)) {
     found.set(one.slug, credentialAt(root, one.slug, one.path, secretsRead))
   }
   return found

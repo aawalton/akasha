@@ -4,8 +4,9 @@ import {
   usageFrom,
 } from "akasha/agent/model/account/modules/marking/model-account-marking.module.code.ts"
 import {
+  ANTHROPIC,
   credentialIn,
-  everyAccountSlugIn,
+  everyAccountSlugOfIn,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import { usageFetched } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -70,7 +71,7 @@ async function refreshOne(root: string, account: string, now: number): Promise<R
 
 export async function refreshAll(root: string, now: number): Promise<readonly Refreshing[]> {
   const found: Refreshing[] = []
-  for (const account of everyAccountSlugIn(root)) {
+  for (const account of everyAccountSlugOfIn(root, ANTHROPIC)) {
     found.push(await refreshOne(root, account, now))
   }
   return found

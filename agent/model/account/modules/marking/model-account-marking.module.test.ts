@@ -59,6 +59,7 @@ import {
   worldMade,
 } from "akasha/agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"
 import {
+  ANTHROPIC,
   everyAccountSlugIn,
   everyAccountStateIn,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
@@ -255,7 +256,7 @@ test("writing beside a page answers with why rather than throwing", () => {
 
 test("marking one account opens no other account's page", () => {
   const root = shutWorld()
-  expect([...everyAccountStateIn(root).keys()]).toEqual(["ctw"])
+  expect([...everyAccountStateIn(root, ANTHROPIC).keys()]).toEqual(["ctw"])
   expect(heldIn(root, "ctw", { retryAllowedAt: RESETS_AT })["retryAllowedAt"]).toBe(RESETS_AT)
 })
 

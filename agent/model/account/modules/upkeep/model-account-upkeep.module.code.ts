@@ -20,8 +20,9 @@ import {
   USAGE_URL,
 } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
 import {
+  ANTHROPIC,
   credentialIn,
-  everyAccountSlugIn,
+  everyAccountSlugOfIn,
   type SecretsRead,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import { renewedIn } from "akasha/agent/model/account/modules/renewing/model-account-renewing.module.code.ts"
@@ -319,10 +320,10 @@ export async function upkeepPassIn(args: {
 }): Promise<undefined> {
   const { root, doors } = args
   const logPrefix = args.logPrefix ?? DEFAULT_LOG_PREFIX
-  const every = inAccountOrder(everyAccountSlugIn(root).map((slug) => ({ slug })))
+  const every = inAccountOrder(everyAccountSlugOfIn(root, ANTHROPIC).map((slug) => ({ slug })))
   if (every.length === 0) {
     throw new Error(
-      `no model-account page exists under ${root}, and renewing a token happens here and ` +
+      `no Anthropic model-account page exists under ${root}, and renewing a token happens here and ` +
         "nowhere else, so a pass over none of them renews nothing in the whole fleet — " +
         "answering that as a done tick would read healthy while every token ages out"
     )

@@ -10,7 +10,7 @@ export const modelAccountUpkeep = {
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Every account with a page is reached in turn.",
+      statement: "Every Anthropic account with a page is reached in turn.",
     },
     {
       invariantKind: "invariant-kind/departure",

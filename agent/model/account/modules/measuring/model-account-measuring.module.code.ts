@@ -1,4 +1,5 @@
 import { fiveHourResetIn } from "akasha/agent/model/account/modules/five-hour-reset/five-hour-reset.computed-property-module.code.ts"
+import { ANTHROPIC } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import {
   everyOfType,
   typeSlugOf,
@@ -50,6 +51,7 @@ export function readingsIn(root: string): readonly Reading[] {
     const whole = wholeValue(root, one.path, stated)
     const account = textAt(whole, "slug")
     if (account === null) continue
+    if (textAt(whole, "provider") !== ANTHROPIC) continue
     found.push({
       account,
       aliasIndex: numberIn(whole, "aliasIndex"),
