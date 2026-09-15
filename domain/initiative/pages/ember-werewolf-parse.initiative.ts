@@ -20,6 +20,11 @@ export const emberWerewolfParse = {
         "The chest, hands, waist, legs and feet are Ancestor Silk at CP160 in Divines, crafted at the Steadfast Hammer and Saw on High Isle and improved with Dreugh Wax. No Light Order's Wrath piece is on the account, and every Order's Wrath armour piece held is a Medium head or shoulder, so all five are made from nothing.",
     },
     {
+      statement: "Three-Color Stalker's parse gear is enchanted.",
+      workingMemory:
+        "The seven armour pieces each take a gold Glyph of Stamina. The Savage Werewolf necklace and ring each take a gold Glyph of Increase Physical Harm. The main-hand mace takes a Glyph of Poison and the off-hand mace a Glyph of Flame. The Shattered Paths Signet is a mythic in Triune and is worn as it is.",
+    },
+    {
       statement: "Three-Color Stalker wears the full Update 50 Savage Werewolf parse setup.",
       workingMemory:
         "Shoulders, necklace and ring are farmed. One one-handed weapon is still owed; the second is reconstructed from the set collection rather than farmed, reconstruction being per weapon type. The gold Medium Divines Slimecraw head and the Shattered Paths Signet are in the bank. Five Order's Wrath Light body pieces are crafted at Steadfast Hammer and Saw on High Isle. Armour is Divines with Stamina glyphs, jewellery Infused with Increase Physical Harm, weapons Charged with Poison and Flame.",
@@ -33,11 +38,6 @@ export const emberWerewolfParse = {
       statement: "Three-Color Stalker parses 135,000 or more on the trials dummy.",
       workingMemory:
         "The Update 50 figures on the 21 million Iron Atronach are 176.7k for this setup and 150.4k for crafted-only, both on Nightblade, the strongest werewolf class. They come from a simulator assuming every light attack lands and bash weaving, so a real parse falls short, and the margin over 135k is why the farmed setup is worth the runs. Food is Braised Rabbit with Spring Vegetables, and potions are Armor from Bugloss, Mountain Flower and Mudcrab Chitin.",
-    },
-    {
-      statement: "Three-Color Stalker's parse gear is enchanted.",
-      workingMemory:
-        "The seven armour pieces each take a gold Glyph of Stamina. The Savage Werewolf necklace and ring each take a gold Glyph of Increase Physical Harm. The main-hand mace takes a Glyph of Poison and the off-hand mace a Glyph of Flame. The Shattered Paths Signet is a mythic in Triune and is worn as it is.",
     },
   ],
   constraints: [
