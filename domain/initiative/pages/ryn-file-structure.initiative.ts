@@ -16,11 +16,6 @@ export const rynFileStructure = {
         "Alan narrowed this intent to the pages that own a structural folder. The 1513 module slugs ending in a plural `s` stay as they are. 85 domain slugs and 6 page-type slugs end that way. Some of those read as singular already and stay: mathematics, talos, seaweedfs, util-fs, great-courses, visual-arts, book-series, ki-book-series, world-species. Renaming a domain renames the folder that domain names, so this intent and the folder one land in one motion.\n",
     },
     {
-      statement: "A domain wrapping one page and that page are one page.",
-      workingMemory:
-        "43 are folded and 34 wrappers stay. Fold only where the wrapper and its one part say one concern twice, as util-hashing and sha256-hex did; the module or change page survives, since both extend domain, so no domain is lost. The 34 fail that: the wrapper names an area, its one part is one thing inside, and folding would destroy a definition. They are 10 module, 11 domain, 1 change-agent-prose, 8 page type, 2 manifest and 2 router-app. The intent wants narrowing to that test before it can be met.\n",
-    },
-    {
       statement:
         "A page sits under the page naming it a part rather than in a registry of its own kind.",
       workingMemory:
