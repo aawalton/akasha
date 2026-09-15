@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const bannerGeneral = {
   id: "01a0657e-1339-71b8-b64c-a550fa7cee44",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "banner-general",
   title: "Banner General",
   world: "world/the-wandering-inn",

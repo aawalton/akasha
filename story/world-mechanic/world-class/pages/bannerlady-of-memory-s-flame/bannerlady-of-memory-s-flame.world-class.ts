@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const bannerladyOfMemorySFlame = {
   id: "01a0657e-1339-7280-baf5-37469e1121c8",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "bannerlady-of-memory-s-flame",
   title: "Bannerlady of Memory’s Flame",
   world: "world/the-wandering-inn",
