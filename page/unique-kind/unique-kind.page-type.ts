@@ -9,7 +9,7 @@ export const uniqueKind = {
   extends: ["page-type/domain"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Uniqueness names the pages a value is unique among rather than being yes or no.",
     },
   ],

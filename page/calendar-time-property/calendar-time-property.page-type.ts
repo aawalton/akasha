@@ -8,19 +8,19 @@ export const calendarTimeProperty = {
   extends: ["page-type/page-property"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A time of day is written as an ISO 8601 wall time to the minute.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A time of day has no day.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A time of day has no zone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A moment on a stated day is an instant property rather than a calendar time property.",
     },

@@ -33,15 +33,15 @@ export const personaCraftDay = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The persona named here did the crafting.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The personas crafted are named apart from the crafter.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A craft day is slugged by the crafter and then the day.",
     },
   ],

@@ -27,26 +27,26 @@ export const temperInventoryRule = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A rule here is a rule a player has adopted rather than a rule offered to a player.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Where a rule falls among the rules settles which rule acts first.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A chain is read ahead of a destination where a rule states a chain and a destination.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "A rule states a destination or a chain of destinations rather than a destination and a chain.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A rule adopted from a template and later edited says the changes that rule made.",
     },
   ],

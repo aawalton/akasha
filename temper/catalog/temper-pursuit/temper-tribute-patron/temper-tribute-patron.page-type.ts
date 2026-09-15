@@ -21,7 +21,7 @@ export const temperTributePatron = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A patron is reached by the collectible the game grants when the patron is won.",
     },
   ],

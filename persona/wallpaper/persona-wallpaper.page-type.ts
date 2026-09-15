@@ -15,16 +15,16 @@ export const personaWallpaper = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A wallpaper is matched by the persona and the rung together.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A wallpaper's slug joins the persona to the rung and to the moment of the drawing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A description here is the persona's own words about her picture.",
     },
   ],

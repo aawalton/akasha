@@ -26,15 +26,15 @@ export const temperRule = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property both a template and a rule in force carries is declared here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a rule whose action moves an item states a destination.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A rule's action on an item is done outside these pages.",
     },
   ],

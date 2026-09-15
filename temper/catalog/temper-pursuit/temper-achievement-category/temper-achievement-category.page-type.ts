@@ -19,15 +19,15 @@ export const temperAchievementCategory = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A heading stating a parent is a subcategory of the heading the parent names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A heading has the achievements the game files directly under that heading.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The category tells apart the account tally from the character tally.",
     },
   ],

@@ -8,11 +8,11 @@ export const instantProperty = {
   extends: ["page-type/page-property"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An instant is written as ISO 8601 in UTC to the millisecond and closes with `Z`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An instant property's slug closes with `-at`.",
     },
   ],

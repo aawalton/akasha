@@ -17,12 +17,12 @@ export const temperRecipeList = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A list is keyed by the name the game shows rather than by the index the game keeps.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name more than one list carries is made a slug by adding the game's index.",
     },
   ],

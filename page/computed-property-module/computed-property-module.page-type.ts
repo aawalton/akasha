@@ -8,24 +8,24 @@ export const computedPropertyModule = {
   extends: ["page-type/module"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A function more than one calculation runs sits in a computed-property-module.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A calculation reaches such a function by importing that module's code file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "That import is resolved while a calculation's text is run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This module's own code imports types and other computed-property-modules and nothing else.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Code that is no calculation imports this module as that code imports any module.",
     },
   ],

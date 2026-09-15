@@ -10,11 +10,11 @@ export const generatorKind = {
   properties: [{ pageProperty: "boolean-property/after-checks", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "When a generated value is worked out is stated by its kind.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A generator waiting for the checks works out a value no check sees.",
     },
   ],

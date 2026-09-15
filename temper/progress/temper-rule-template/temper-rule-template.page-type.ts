@@ -17,7 +17,7 @@ export const temperRuleTemplate = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A template is offered to a reader rather than acted on where the template is off.",
     },

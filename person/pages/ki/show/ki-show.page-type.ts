@@ -8,11 +8,11 @@ export const kiShow = {
   extends: ["page-type/ki-collection-template"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A show of Ki's names the seasons that show has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A show of Ki's names the franchise that show belongs to.",
     },
   ],

@@ -23,23 +23,23 @@ export const temperBuildVersion = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A version is kept so an earlier arrangement can be returned to.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each version a build takes has the next version number.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A version with no checkpoint name was taken as the build changed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Checkpoints are shown before the versions taken as the build changed.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The build metadata a version keeps is no declared property.",
     },
   ],

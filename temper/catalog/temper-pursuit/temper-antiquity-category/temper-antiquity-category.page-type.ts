@@ -20,7 +20,7 @@ export const temperAntiquityCategory = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A category is numbered in a key space of its own rather than by zone.",
     },
   ],

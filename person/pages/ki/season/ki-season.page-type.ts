@@ -8,20 +8,20 @@ export const kiSeason = {
   extends: ["page-type/ki-collection-template"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A season of Ki's names the show that season is part of.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A season of Ki's names the episodes that season has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A season of Ki's has its length summed from its episodes rather than written on that season.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A season of Ki's has its progress summed from its episodes rather than written on that season.",
     },

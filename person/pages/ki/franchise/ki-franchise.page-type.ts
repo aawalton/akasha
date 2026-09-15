@@ -8,15 +8,15 @@ export const kiFranchise = {
   extends: ["page-type/ki-collection-template"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A franchise of Ki's names the shows that franchise takes in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A franchise of Ki's names the movies that franchise takes in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A show or movie named by a franchise of Ki's names that franchise back.",
     },
   ],

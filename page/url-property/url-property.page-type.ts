@@ -9,11 +9,11 @@ export const urlProperty = {
   properties: [{ pageProperty: "number-property/max-length", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A web address has the scheme the address is reached over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A web address is followed rather than read.",
     },
   ],

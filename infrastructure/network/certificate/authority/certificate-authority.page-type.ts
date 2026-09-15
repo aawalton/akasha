@@ -12,15 +12,15 @@ export const certificateAuthority = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An authority's certificate is in a file beside the page.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An authority's signing key is never beside its certificate.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An authority whose key is gone is a new authority rather than the same authority.",
     },

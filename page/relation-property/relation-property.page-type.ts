@@ -10,28 +10,28 @@ export const relationProperty = {
   properties: [{ pageProperty: "relation-property/target-page-type", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A relation is the edge rather than the page the edge reaches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Two edges meaning different things are two relations though each edge reaches one type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A relation's type is a slug rather than a union of the pages its target holds.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No relation property's name ends in `slug`.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No relation value lands that akasha cannot key to one page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A page a relation names is drawn as a chip by the page type that relation reaches.",
     },

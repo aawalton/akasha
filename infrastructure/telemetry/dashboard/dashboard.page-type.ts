@@ -10,15 +10,15 @@ export const dashboard = {
   properties: [{ pageProperty: "file-property/dashboard-layout", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A dashboard is one page and one layout file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A dashboard is found by its page type rather than by its file name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A manifest inlines a dashboard rather than a chart server fetching that dashboard.",
     },

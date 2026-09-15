@@ -34,11 +34,11 @@ export const temperWorldZone = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A zone states an eso zone id only where the capture reports an id for that zone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A zone states an entry property only where the zone has rows under that property.",
     },

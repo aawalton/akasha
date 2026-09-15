@@ -22,11 +22,11 @@ export const temperCompletionOverride = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A count the game reports above the floor is taken as the game reports.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One override answers one item of one card for one character.",
     },
   ],

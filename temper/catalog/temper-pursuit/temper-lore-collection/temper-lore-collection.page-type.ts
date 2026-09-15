@@ -20,12 +20,12 @@ export const temperLoreCollection = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A collection is numbered inside its lore category rather than across all the lore categories.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Shalidor's Library is lore category 1.",
     },
   ],

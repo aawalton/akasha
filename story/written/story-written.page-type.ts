@@ -14,12 +14,12 @@ export const storyWritten = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A story written was set down chapter by chapter rather than played or read.",
     },
 
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "More than one story written may be of the one world.",
     },
   ],

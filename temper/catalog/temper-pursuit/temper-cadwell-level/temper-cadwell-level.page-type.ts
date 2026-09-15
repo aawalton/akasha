@@ -17,7 +17,7 @@ export const temperCadwellLevel = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A level's display order is the tier number Cadwell gives the level.",
     },
   ],

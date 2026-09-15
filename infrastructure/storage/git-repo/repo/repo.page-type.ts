@@ -9,7 +9,7 @@ export const repo = {
   parts: ["repo/akasha-repo", "repo/code-editor-repo"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The repository a change lands in settles how that change lands.",
     },
   ],

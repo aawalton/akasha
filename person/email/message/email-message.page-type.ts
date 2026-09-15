@@ -8,19 +8,19 @@ export const emailMessage = {
   extends: ["page-type/page"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An email rule is matched against a message.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message belongs to the one account that message arrived in.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No message is written to a file of its own.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The fields a message has are yet to exist as properties.",
     },
   ],

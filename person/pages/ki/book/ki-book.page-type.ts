@@ -15,11 +15,11 @@ export const kiBook = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book of Ki's names the one author credited first.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book of Ki's names everyone else credited with writing the book.",
     },
   ],

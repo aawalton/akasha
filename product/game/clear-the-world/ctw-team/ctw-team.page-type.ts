@@ -22,15 +22,15 @@ export const ctwTeam = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A team is a real demining organisation.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The four counts are the team's running totals across every player.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hex is the color the team is drawn in.",
     },
   ],

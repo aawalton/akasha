@@ -75,11 +75,11 @@ export const temperItemCategoryTree = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A branch takes an item that answers to every test the branch states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A branch naming no parent is a root.",
     },
   ],

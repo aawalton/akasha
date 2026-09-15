@@ -8,15 +8,15 @@ export const temperTaskProgress = {
   extends: ["page-type/page-property-entry"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A line counts from the fields ending in current and total.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A line is labelled by that line's one text field.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Lines are ordered by display-order.",
     },
   ],

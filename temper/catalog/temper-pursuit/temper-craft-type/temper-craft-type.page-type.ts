@@ -10,7 +10,7 @@ export const temperCraftType = {
   properties: [{ pageProperty: "number-property/eso-craft-type-id", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A craft type gathers the research lines one crafting skill covers.",
     },
   ],

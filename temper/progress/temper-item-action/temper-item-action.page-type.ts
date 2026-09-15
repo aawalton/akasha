@@ -9,11 +9,11 @@ export const temperItemAction = {
   properties: [{ pageProperty: "text-property/description", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The slug is the action an item rule writes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The title is the action a reader is shown.",
     },
   ],

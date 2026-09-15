@@ -48,7 +48,7 @@ export const temperCatalogThing = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A thing's effect is stated in one shape whatever kind of thing has the effect.",
     },
   ],

@@ -8,15 +8,15 @@ export const kiBookSeries = {
   extends: ["page-type/ki-collection-template"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A series of Ki's has nothing of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A series of Ki's names no book.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The books a series of Ki's holds are the books naming that series.",
     },
   ],

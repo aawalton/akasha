@@ -13,7 +13,7 @@ export const temperCharacterThing = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A completion file is kept word for word as the game handed the file over.",
     },
   ],

@@ -13,7 +13,7 @@ export const temperHoldingsThing = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading states an account's worth at one moment.",
     },
   ],

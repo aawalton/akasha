@@ -39,11 +39,11 @@ export const temperProgressThing = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page here names a thing Alan has done or a thing Alan has left to do.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property more than one progress page type has is declared here.",
     },
   ],

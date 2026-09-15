@@ -14,7 +14,7 @@ export const temperResearchLine = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A research line hangs beneath the craft type the line is researched under.",
     },
   ],

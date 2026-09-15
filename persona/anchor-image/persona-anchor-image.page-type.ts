@@ -10,11 +10,11 @@ export const personaAnchorImage = {
   properties: [{ pageProperty: "rank-property/grade", required: false, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An anchor is matched by the persona alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A persona has one anchor.",
     },
   ],

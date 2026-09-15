@@ -17,15 +17,15 @@ export const temperCollectibleCategory = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A category stating no parent has the category index the game gives.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A category stating a parent hangs beneath the category the parent names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collectible a category has is a line of the file beside the page.",
     },
   ],

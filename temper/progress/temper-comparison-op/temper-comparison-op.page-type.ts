@@ -9,11 +9,11 @@ export const temperComparisonOp = {
   properties: [{ pageProperty: "text-property/key", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The key is the operator an item rule writes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The title is the operator a reader is shown.",
     },
   ],

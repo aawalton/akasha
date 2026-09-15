@@ -14,15 +14,15 @@ export const gmailMailbox = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A mailbox is named for the account rather than for the address.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every message a mailbox has been through sits beside that mailbox.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "The address sits under the address a person sends and receives at rather than a key of its own.",
     },

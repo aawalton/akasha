@@ -12,15 +12,15 @@ export const temperRuleGoal = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The slug is the goal an item rule writes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A goal earlier in the display order wins where two goals want one item.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A rule wanting the item for nothing states no goal.",
     },
   ],

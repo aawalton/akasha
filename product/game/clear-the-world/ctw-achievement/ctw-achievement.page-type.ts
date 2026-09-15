@@ -16,19 +16,19 @@ export const ctwAchievement = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An achievement is earned when its metric reaches its threshold.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A scope says whose count the metric is read from.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A description tells the real mine action the mark is named for.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The prose here is quoted from the world rather than written to the taboo terms.",
     },
   ],

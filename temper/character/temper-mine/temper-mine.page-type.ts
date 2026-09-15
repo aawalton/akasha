@@ -52,15 +52,15 @@ export const temperMine = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The items a sweep read are kept in numbered parts beside the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row a sweep read is judged against the fields its entry shape declares.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sweep's rows run past the byte ceiling one file has.",
     },
   ],

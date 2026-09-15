@@ -20,11 +20,11 @@ export const storyChapterPlayed = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chapter has the prose play made rather than prose anybody wrote.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chapter is part of the one story the chapter was played in.",
     },
   ],

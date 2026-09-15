@@ -8,11 +8,11 @@ export const kiMovie = {
   extends: ["page-type/ki-collection-template"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A movie of Ki's names the franchise that movie belongs to.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A movie of Ki's belongs to one franchise at most.",
     },
   ],

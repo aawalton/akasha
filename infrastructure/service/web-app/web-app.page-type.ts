@@ -40,24 +40,24 @@ export const webApp = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A web app's page states everything a deploy of the web app needs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The workload the cluster runs for a web app is stated on the cluster service's page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A web app is named by the slug its page carries.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A web app states nothing of the build representing the web app now.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The tunnel is routed from the host names stated here.",
     },
   ],

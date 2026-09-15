@@ -25,7 +25,7 @@ export const temperAccountCharacter = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character is named by the account the character was rolled on.",
     },
   ],

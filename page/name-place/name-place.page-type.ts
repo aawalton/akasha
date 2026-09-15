@@ -27,19 +27,19 @@ export const namePlace = {
   properties: [{ pageProperty: "relation-property/name-format", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name a page property has states its format on the property.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A place is defined whether or not a file in akasha has such a name yet.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A place stating no format says which in its own invariants.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A place says in prose where the place holds.",
     },
   ],

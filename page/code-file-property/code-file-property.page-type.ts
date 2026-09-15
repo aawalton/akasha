@@ -18,11 +18,11 @@ export const codeFileProperty = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property stating no ceiling holds no run.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "A run of a code file property's file is stopped at the ceilings that property states.",
     },

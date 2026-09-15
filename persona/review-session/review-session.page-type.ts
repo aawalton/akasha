@@ -16,26 +16,26 @@ export const reviewSession = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A persona looking on a day has a single review session.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A session names the persona who looked rather than the part of Alan's life that persona looked at.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A session's slug joins the part of Alan's life looked over to the day of the looking.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A session's notes are a file beside the session rather than inside the session page.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A session names the part of Alan's life the session passed over.",
     },
   ],

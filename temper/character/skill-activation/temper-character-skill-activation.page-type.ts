@@ -21,7 +21,7 @@ export const temperCharacterSkillActivation = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The slug of an activation is the skill the activation is of.",
     },
   ],

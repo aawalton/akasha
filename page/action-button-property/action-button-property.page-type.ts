@@ -8,7 +8,7 @@ export const actionButtonProperty = {
   extends: ["page-type/page-property"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The value of such a property is the button rather than anything the page holds.",
     },
   ],

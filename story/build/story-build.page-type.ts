@@ -19,15 +19,15 @@ export const storyBuild = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build is true as of the chapter the build names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build has the rules a reader reads the build against.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The words a build carries are the story's rather than akasha's own.",
     },
   ],

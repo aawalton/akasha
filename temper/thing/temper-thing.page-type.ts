@@ -32,7 +32,7 @@ export const temperThing = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Every page type temper carries extends temper-thing or a page type extending temper-thing.",
     },

@@ -27,19 +27,19 @@ export const vendoredWorkload = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A vendored workload is one resource with a pod template.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A vendored workload's manifests come from outside this repository.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A vendored workload names no image and no manifest code.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A workload this repository emits manifests for is a cluster service rather than a vendored workload.",
     },

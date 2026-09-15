@@ -26,11 +26,11 @@ export const temperGearThing = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key two gear page types carry is declared here rather than in each page type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Which buff a drink grants is a field of the shared effect shape rather than a key here.",
     },

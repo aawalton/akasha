@@ -12,15 +12,15 @@ export const audhdalanSubscriber = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subscriber is slugged from the address the subscriber gave.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The same address given again reaches the subscriber already filed here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subscriber arrives from the subscribe form audhdalan.com serves.",
     },
   ],

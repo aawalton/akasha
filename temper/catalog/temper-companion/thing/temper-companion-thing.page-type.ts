@@ -10,7 +10,7 @@ export const temperCompanionThing = {
   properties: [{ pageProperty: "number-property/equip-type", required: false, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every place a companion wears a thing is named by one number.",
     },
   ],

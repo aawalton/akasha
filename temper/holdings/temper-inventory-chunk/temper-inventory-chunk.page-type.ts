@@ -19,19 +19,19 @@ export const temperInventoryChunk = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pieces of one reading rejoin in the order the chunk indexes give.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A piece is divided on a byte count rather than on a JSON boundary.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The file a piece names has that piece's whole byte count.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bytes a page here counts are in the reading's own data file.",
     },
   ],

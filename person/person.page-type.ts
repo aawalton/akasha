@@ -51,7 +51,7 @@ export const person = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A person whose body nothing here counts against states no weight.",
     },
   ],

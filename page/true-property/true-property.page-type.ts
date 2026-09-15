@@ -8,15 +8,15 @@ export const trueProperty = {
   extends: ["page-type/boolean-property"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page stating a property of this kind states true.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The type written for such a property is the literal rather than a boolean.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A record telling itself from a sibling by one field states that field here.",
     },
   ],

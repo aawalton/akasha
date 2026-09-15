@@ -35,11 +35,11 @@ export const temperWatcherEnrolment = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call is recognised by the digest rather than by the token being held here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An enrolment withdrawn is deleted rather than marked withdrawn.",
     },
   ],

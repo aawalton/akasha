@@ -24,15 +24,15 @@ export const temperMetricTree = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A node stating no parent is a root of the tree.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A node of type `metric` is the metric the catalog names by `metric-id`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The slug is the node type and the node id joined by a hyphen.",
     },
   ],

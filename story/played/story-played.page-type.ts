@@ -30,11 +30,11 @@ export const storyPlayed = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A story played was made in play rather than written before the play.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A story played heads its page with its title, over the run play left it.",
     },
   ],

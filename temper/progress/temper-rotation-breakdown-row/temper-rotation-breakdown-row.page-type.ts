@@ -14,7 +14,7 @@ export const temperRotationBreakdownRow = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The title is the short name a narrow column is headed by.",
     },
   ],

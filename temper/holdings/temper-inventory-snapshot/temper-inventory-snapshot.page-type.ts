@@ -77,11 +77,11 @@ export const temperInventorySnapshot = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A slug opens with `at-` ahead of the moment the reading was taken.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One JSON document is written across every chunk a snapshot counts.",
     },
   ],

@@ -14,15 +14,15 @@ export const temperCompletionCategory = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A node stating no parent is a root of the tree.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every root is named by the tab the root heads.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A node has the tab of the root the node hangs beneath.",
     },
   ],

@@ -17,20 +17,20 @@ export const storyWikiEntry = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An entry says the truths the story has established rather than the truths the design intends.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry is true as of the chapter the entry names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry about a setup not yet paid off is a seed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The words an entry has are the story's rather than akasha's own.",
     },
   ],
