@@ -1,17 +1,17 @@
 "use client"
 
 import { BadgeLayoutProvider } from "akasha/design/interface/badge/modules/badge-layout-context/badge-layout-context.module.code.tsx"
+import { InlineEditableText } from "akasha/design/interface/form/modules/inline-editable-text/inline-editable-text.module.code.tsx"
+import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
+import { PAGE_TITLE_CLASSES } from "akasha/design/interface/layout/modules/page-layout-data/page-layout-data.module.code.ts"
+import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import {
   Empty,
   EmptyDescription,
   EmptyHeader,
   EmptyTitle,
-} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
-import { IconPicker } from "akasha/design/interface/design-interfaces-patterns/modules/icon-picker/icon-picker.module.code.tsx"
-import { InlineEditableText } from "akasha/design/interface/form/modules/inline-editable-text/inline-editable-text.module.code.tsx"
-import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
-import { PAGE_TITLE_CLASSES } from "akasha/design/interface/layout/modules/page-layout-data/page-layout-data.module.code.ts"
-import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+} from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
+import { IconPicker } from "akasha/design/interface/pattern/modules/icon-picker/icon-picker.module.code.tsx"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { BlockEditor } from "akasha/page/ui/block-editor/modules/block-editor/block-editor.module.code.tsx"
 import { MultiRelationPropertyBadge } from "akasha/page/ui/component/modules/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"

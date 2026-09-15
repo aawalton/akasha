@@ -1,4 +1,4 @@
-import { StatRow } from "akasha/design/interface/design-interfaces-patterns/modules/stat-row/stat-row.module.code.tsx"
+import { StatRow } from "akasha/design/interface/pattern/modules/stat-row/stat-row.module.code.tsx"
 import {
   isMetricNode,
   isSubcategoryNode,

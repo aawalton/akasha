@@ -4,17 +4,17 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { AddFilterButton } from "akasha/design/interface/design-interfaces-patterns/modules/add-filter-button/add-filter-button.module.code.tsx"
-import { addFilterId } from "akasha/design/interface/design-interfaces-patterns/modules/add-filter-id/add-filter-id.module.code.ts"
-import { FilterButton } from "akasha/design/interface/design-interfaces-patterns/modules/filter-button/filter-button.module.code.tsx"
-import { FilterGroup } from "akasha/design/interface/design-interfaces-patterns/modules/filter-group/filter-group.module.code.tsx"
-import { SearchButton } from "akasha/design/interface/design-interfaces-patterns/modules/search-button/search-button.module.code.tsx"
-import { SearchSortFilterRow } from "akasha/design/interface/design-interfaces-patterns/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
-import { SortButton } from "akasha/design/interface/design-interfaces-patterns/modules/sort-button/sort-button.module.code.tsx"
+import { AddFilterButton } from "akasha/design/interface/pattern/modules/add-filter-button/add-filter-button.module.code.tsx"
+import { addFilterId } from "akasha/design/interface/pattern/modules/add-filter-id/add-filter-id.module.code.ts"
+import { FilterButton } from "akasha/design/interface/pattern/modules/filter-button/filter-button.module.code.tsx"
+import { FilterGroup } from "akasha/design/interface/pattern/modules/filter-group/filter-group.module.code.tsx"
+import { SearchButton } from "akasha/design/interface/pattern/modules/search-button/search-button.module.code.tsx"
+import { SearchSortFilterRow } from "akasha/design/interface/pattern/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
+import { SortButton } from "akasha/design/interface/pattern/modules/sort-button/sort-button.module.code.tsx"
 import type {
   SortDirection,
   SortOption,
-} from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
+} from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { targetArmor } from "akasha/temper/character-source/modules/target-armors/target-armors.module.code.ts"
 import { companions } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"

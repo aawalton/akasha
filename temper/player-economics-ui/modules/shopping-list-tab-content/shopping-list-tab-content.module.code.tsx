@@ -2,14 +2,6 @@
 
 import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
 import {
-  Empty,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
-import { ItemRow } from "akasha/design/interface/design-interfaces-patterns/modules/item-row/item-row.module.code.tsx"
-import {
   AlertDialog,
   AlertDialogAction,
   AlertDialogCancel,
@@ -30,6 +22,14 @@ import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-h
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
+import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-row.module.code.tsx"
 import { formatGold } from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import {
   buildCategoryGroups,

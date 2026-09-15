@@ -1,11 +1,11 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { buildNodePath } from "akasha/design/interface/design-interfaces-patterns/modules/path/path.module.code.ts"
-import type { SortDirection } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
-import { StatRow } from "akasha/design/interface/design-interfaces-patterns/modules/stat-row/stat-row.module.code.tsx"
-import { useSetToggle } from "akasha/design/interface/design-interfaces-patterns/modules/use-set-toggle/use-set-toggle.module.code.ts"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { buildNodePath } from "akasha/design/interface/pattern/modules/path/path.module.code.ts"
+import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import { StatRow } from "akasha/design/interface/pattern/modules/stat-row/stat-row.module.code.tsx"
+import { useSetToggle } from "akasha/design/interface/pattern/modules/use-set-toggle/use-set-toggle.module.code.ts"
 import {
   ACTIVITY_CATEGORIES,
   type ActivityCategoryId,

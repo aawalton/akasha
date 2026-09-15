@@ -7,8 +7,6 @@
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/web/routes/alan-web-services/alan-web-services.route.code.tsx"}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/web/routes/alan-web-sms/alan-web-sms.route.code.tsx"}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/web/routes/alan-web-terms/alan-web-terms.route.code.tsx"}
-{"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/auth-page-content/auth-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/input-panel-card/input-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/design-interfaces-system/modules/borders/borders.module.code.tsx"}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/design-interfaces-system/modules/brand-heart/brand-heart.module.code.tsx"}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/design-interfaces-system/modules/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"}
@@ -40,6 +38,8 @@
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/design-interfaces-system/modules/typography/typography.module.code.tsx"}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/design-interfaces-system/modules/ui-application-rules/ui-application-rules.module.code.tsx"}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/design-interfaces-system/modules/visual-identity/visual-identity.module.code.tsx"}
+{"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/pattern/modules/auth-page-content/auth-page-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/pattern/modules/input-panel-card/input-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"temper/player-economics-ui/modules/companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"temper/player-economics-ui/modules/companion-gear-by-price-panel-card/companion-gear-by-price-panel-card.module.code.tsx"}

@@ -1,8 +1,8 @@
 "use client"
 
-import { AddFilterButton } from "akasha/design/interface/design-interfaces-patterns/modules/add-filter-button/add-filter-button.module.code.tsx"
-import { FilterButton } from "akasha/design/interface/design-interfaces-patterns/modules/filter-button/filter-button.module.code.tsx"
-import { FilterGroup } from "akasha/design/interface/design-interfaces-patterns/modules/filter-group/filter-group.module.code.tsx"
+import { AddFilterButton } from "akasha/design/interface/pattern/modules/add-filter-button/add-filter-button.module.code.tsx"
+import { FilterButton } from "akasha/design/interface/pattern/modules/filter-button/filter-button.module.code.tsx"
+import { FilterGroup } from "akasha/design/interface/pattern/modules/filter-group/filter-group.module.code.tsx"
 import type { ViewFilter } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import type { PageFilterDimension } from "akasha/page/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
 import { OperatorFilterControl } from "akasha/page/ui/component/modules/operator-filter-control/operator-filter-control.module.code.tsx"

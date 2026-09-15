@@ -1,8 +1,8 @@
 "use client"
 
-import { useScrollRestoration } from "akasha/design/interface/design-interfaces-patterns/modules/use-scroll-restoration/use-scroll-restoration.module.code.ts"
 import { ListContentSkeleton } from "akasha/design/interface/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import { scrollToCard } from "akasha/design/interface/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"
+import { useScrollRestoration } from "akasha/design/interface/pattern/modules/use-scroll-restoration/use-scroll-restoration.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"

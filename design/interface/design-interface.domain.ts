@@ -9,7 +9,7 @@ export const designInterface = {
     "domain/design-interface-badge",
     "domain/design-interface-form",
     "domain/design-interface-layout",
-    "domain/design-interfaces-patterns",
+    "domain/design-interface-pattern",
     "domain/design-interfaces-primitives",
     "domain/design-interfaces-system",
     "domain/design-interface-token",

@@ -1,4 +1,4 @@
-import type { SortDirection } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
+import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { getRacialSkillLineIdForRace } from "akasha/temper/character-skill/modules/passive-queries/passive-queries.module.code.ts"
 import { skillLineCategoriesSorted } from "akasha/temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {

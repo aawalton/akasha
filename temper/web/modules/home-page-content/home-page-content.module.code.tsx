@@ -1,14 +1,5 @@
 "use client"
 
-import {
-  Empty,
-  EmptyContent,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
-import { QueryErrorBoundary } from "akasha/design/interface/design-interfaces-patterns/modules/query-error-boundary/query-error-boundary.module.code.tsx"
 import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import { ListContentSkeleton } from "akasha/design/interface/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import {
@@ -18,6 +9,15 @@ import {
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+import {
+  Empty,
+  EmptyContent,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
+import { QueryErrorBoundary } from "akasha/design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.code.tsx"
 import {
   PagesUILink as Link,
   usePagesUIRouter,

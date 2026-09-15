@@ -1,9 +1,3 @@
-import {
-  PageTabsTrigger,
-  Tabs,
-  TabsContent,
-  TabsList,
-} from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
 import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
 import {
   PageLayout,
@@ -12,6 +6,12 @@ import {
 import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import {
+  PageTabsTrigger,
+  Tabs,
+  TabsContent,
+  TabsList,
+} from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { List } from "lucide-react"
 
 export function meta() {

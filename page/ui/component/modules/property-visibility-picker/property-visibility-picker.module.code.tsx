@@ -11,13 +11,13 @@ import {
 } from "@dnd-kit/core"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext } from "@dnd-kit/sortable"
-import {
-  letGo,
-  tookHold,
-} from "akasha/design/interface/design-interfaces-patterns/modules/drag-hold/drag-hold.module.code.ts"
 import { FilterTextField } from "akasha/design/interface/design-interfaces-primitives/modules/filterable-list/filterable-list.module.code.tsx"
 import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
 import { SubView } from "akasha/design/interface/design-interfaces-primitives/modules/sub-view/sub-view.module.code.tsx"
+import {
+  letGo,
+  tookHold,
+} from "akasha/design/interface/pattern/modules/drag-hold/drag-hold.module.code.ts"
 import type {
   PropertyVisibilityMode,
   VisibilityChange,

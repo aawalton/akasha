@@ -1,13 +1,5 @@
 "use client"
 
-import { QueryErrorBoundary } from "akasha/design/interface/design-interfaces-patterns/modules/query-error-boundary/query-error-boundary.module.code.tsx"
-import type { SortDirection } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
-import {
-  PageTabsTrigger,
-  Tabs,
-  TabsList,
-} from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
-import { useFilterPersistence } from "akasha/design/interface/design-interfaces-patterns/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import { ListContentSkeleton } from "akasha/design/interface/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import {
@@ -15,6 +7,14 @@ import {
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { listPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+import { QueryErrorBoundary } from "akasha/design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.code.tsx"
+import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import {
+  PageTabsTrigger,
+  Tabs,
+  TabsList,
+} from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
+import { useFilterPersistence } from "akasha/design/interface/pattern/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import {
   isValidTab,

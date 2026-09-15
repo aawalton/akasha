@@ -1,8 +1,8 @@
 "use client"
 
-import { Icon } from "akasha/design/interface/design-interfaces-patterns/modules/lucide-icon/lucide-icon.module.code.tsx"
 import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
 import { TableCell } from "akasha/design/interface/design-interfaces-primitives/modules/table/table.module.code.tsx"
+import { Icon } from "akasha/design/interface/pattern/modules/lucide-icon/lucide-icon.module.code.tsx"
 import { readsAsDone } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { orderTableColumns } from "akasha/page/ui/component/modules/card-property-columns/card-property-columns.module.code.ts"

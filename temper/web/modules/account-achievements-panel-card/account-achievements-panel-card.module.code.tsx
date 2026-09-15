@@ -1,4 +1,4 @@
-import type { SortDirection } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
+import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import {
   ACHIEVEMENT_CATEGORY_ACTIVITY,

@@ -1,10 +1,10 @@
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"code/router-app/modules/router-context-adapters/router-context-adapters.module.code.tsx"}
-{"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"}
-{"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/use-filter-persistence/use-filter-persistence.module.code.ts"}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"design/interface/layout/modules/app-shell-bottom-nav/app-shell-bottom-nav.module.code.tsx"}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"design/interface/layout/modules/app-shell-more-drawer/app-shell-more-drawer.module.code.tsx"}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"design/interface/layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"design/interface/layout/modules/app-shell/app-shell.module.code.tsx"}
+{"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"design/interface/pattern/modules/tabs/tabs.module.code.tsx"}
+{"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"design/interface/pattern/modules/use-filter-persistence/use-filter-persistence.module.code.ts"}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"temper/player-inventory-management-ui/modules/inventory-location-data-content/inventory-location-data-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"temper/player-inventory-management-ui/modules/inventory-rules-tab/inventory-rules-tab.module.code.tsx"}

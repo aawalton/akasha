@@ -1,18 +1,18 @@
 "use client"
 
 import {
-  Empty,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
-import {
   PanelToggleContext,
   PanelToggleLocalContext,
   type PanelToggleSignal,
 } from "akasha/design/interface/layout/modules/panel-toggle-context/panel-toggle-context.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { METRIC_TREE } from "akasha/temper/character-stat/modules/metric-tree-data/metric-tree-data.module.code.ts"
 import {

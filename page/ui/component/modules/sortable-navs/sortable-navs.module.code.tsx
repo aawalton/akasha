@@ -11,7 +11,6 @@ import {
 } from "@dnd-kit/core"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext, useSortable } from "@dnd-kit/sortable"
-import { tookHold } from "akasha/design/interface/design-interfaces-patterns/modules/drag-hold/drag-hold.module.code.ts"
 import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
 import {
   Popover,
@@ -23,6 +22,7 @@ import { navLinkClass } from "akasha/design/interface/layout/modules/app-shell-s
 import type { AppNavItem } from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
 import { SidebarNavGroup } from "akasha/design/interface/layout/modules/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
 import { useSidebarState } from "akasha/design/interface/layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
+import { tookHold } from "akasha/design/interface/pattern/modules/drag-hold/drag-hold.module.code.ts"
 import {
   type DropZoneInfo,
   findDropZone,

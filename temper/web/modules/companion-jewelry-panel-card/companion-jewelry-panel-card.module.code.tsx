@@ -1,7 +1,6 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { ItemCard } from "akasha/design/interface/design-interfaces-patterns/modules/item-card/item-card.module.code.tsx"
 import { HorizontalScrollFade } from "akasha/design/interface/design-interfaces-primitives/modules/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
 import {
   Select,
@@ -11,6 +10,7 @@ import {
   SelectValue,
 } from "akasha/design/interface/design-interfaces-primitives/modules/select-control/select-control.module.code.tsx"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { ItemCard } from "akasha/design/interface/pattern/modules/item-card/item-card.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import { getCompanionJewelryIcon } from "akasha/temper/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"

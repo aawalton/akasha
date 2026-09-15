@@ -1,6 +1,5 @@
 "use client"
 
-import { TabsContent } from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
 import { ComponentsCompoundNavPanels } from "akasha/design/interface/design-interfaces-system/modules/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"
 import { ComponentsCompoundPanels } from "akasha/design/interface/design-interfaces-system/modules/components-compound-panels/components-compound-panels.module.code.tsx"
 import { ComponentsCorePanels } from "akasha/design/interface/design-interfaces-system/modules/components-core-panels/components-core-panels.module.code.tsx"
@@ -17,6 +16,7 @@ import { ComponentsSortFilterPanels } from "akasha/design/interface/design-inter
 import { ComponentsTextDisplayPanels } from "akasha/design/interface/design-interfaces-system/modules/components-text-display-panels/components-text-display-panels.module.code.tsx"
 import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import { TabsContent } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 
 export function ComponentsTabContent() {
   return (

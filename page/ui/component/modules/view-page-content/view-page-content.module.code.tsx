@@ -1,8 +1,8 @@
 "use client"
 
-import { TabsContent } from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
 import { PageTitleBadges } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { useLayoutSearchParams } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
+import { TabsContent } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { parseNavConfig } from "akasha/page/core/schema/modules/nav-config/nav-config.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"

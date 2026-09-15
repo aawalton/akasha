@@ -3,7 +3,6 @@
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
 import { NumberBadge } from "akasha/design/interface/badge/modules/number-badge/number-badge.module.code.tsx"
-import { ItemCard } from "akasha/design/interface/design-interfaces-patterns/modules/item-card/item-card.module.code.tsx"
 import {
   AlertDialog,
   AlertDialogAction,
@@ -25,6 +24,7 @@ import { surfaceClass } from "akasha/design/interface/design-interfaces-primitiv
 import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
 import { InlineEditableText } from "akasha/design/interface/form/modules/inline-editable-text/inline-editable-text.module.code.tsx"
+import { ItemCard } from "akasha/design/interface/pattern/modules/item-card/item-card.module.code.tsx"
 import type { BuyRule } from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import { RuleNotesDialog } from "akasha/temper/player-inventory-management-ui/modules/rule-notes-dialog/rule-notes-dialog.module.code.tsx"
 import { EllipsisVertical, Info, ShoppingCart } from "lucide-react"

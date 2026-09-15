@@ -1,7 +1,7 @@
 "use client"
 
-import { TabsContent } from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+import { TabsContent } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import type { SkillLineCategoryId } from "akasha/temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"

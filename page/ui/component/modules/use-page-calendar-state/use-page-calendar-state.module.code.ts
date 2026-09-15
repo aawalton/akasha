@@ -6,7 +6,7 @@ import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/e
 import {
   letGo,
   tookHold,
-} from "akasha/design/interface/design-interfaces-patterns/modules/drag-hold/drag-hold.module.code.ts"
+} from "akasha/design/interface/pattern/modules/drag-hold/drag-hold.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { pageDayKey } from "akasha/page/core/view/modules/calendar-date-to-value/calendar-date-to-value.module.code.ts"
 import {

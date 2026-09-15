@@ -1,10 +1,6 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { Chip } from "akasha/design/interface/design-interfaces-patterns/modules/chip/chip.module.code.tsx"
-import { ChipList } from "akasha/design/interface/design-interfaces-patterns/modules/chip-list/chip-list.module.code.tsx"
-import { ItemCard } from "akasha/design/interface/design-interfaces-patterns/modules/item-card/item-card.module.code.tsx"
-import { ItemRow } from "akasha/design/interface/design-interfaces-patterns/modules/item-row/item-row.module.code.tsx"
 import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
 import { HorizontalScrollFade } from "akasha/design/interface/design-interfaces-primitives/modules/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
@@ -14,6 +10,10 @@ import {
 } from "akasha/design/interface/design-interfaces-primitives/modules/scroll-area/scroll-area.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { Chip } from "akasha/design/interface/pattern/modules/chip/chip.module.code.tsx"
+import { ChipList } from "akasha/design/interface/pattern/modules/chip-list/chip-list.module.code.tsx"
+import { ItemCard } from "akasha/design/interface/pattern/modules/item-card/item-card.module.code.tsx"
+import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-row.module.code.tsx"
 import { useState } from "react"
 
 export function ComponentsItemDisplayPanels() {

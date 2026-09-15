@@ -1,19 +1,19 @@
 "use client"
 
-import { QueryErrorBoundary } from "akasha/design/interface/design-interfaces-patterns/modules/query-error-boundary/query-error-boundary.module.code.tsx"
-import {
-  PageTabsTrigger,
-  Tabs,
-  TabsContent,
-  TabsList,
-} from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
-import { useFilterPersistence } from "akasha/design/interface/design-interfaces-patterns/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { ListContentSkeleton } from "akasha/design/interface/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import {
   PageLayout,
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+import { QueryErrorBoundary } from "akasha/design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.code.tsx"
+import {
+  PageTabsTrigger,
+  Tabs,
+  TabsContent,
+  TabsList,
+} from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
+import { useFilterPersistence } from "akasha/design/interface/pattern/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,

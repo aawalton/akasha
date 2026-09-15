@@ -14,6 +14,11 @@ import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,
 } from "akasha/code/router-app/modules/router-context-adapters/router-context-adapters.module.code.tsx"
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
+import { CommandPalette } from "akasha/design/interface/design-interfaces-primitives/modules/command-palette/command-palette.module.code.tsx"
+import { ShortcutSheet } from "akasha/design/interface/design-interfaces-primitives/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
+import { Toaster } from "akasha/design/interface/design-interfaces-primitives/modules/sonner/sonner.module.code.tsx"
+import { SurfaceProvider } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import {
   Empty,
   EmptyContent,
@@ -21,12 +26,7 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
-import { CommandPalette } from "akasha/design/interface/design-interfaces-primitives/modules/command-palette/command-palette.module.code.tsx"
-import { ShortcutSheet } from "akasha/design/interface/design-interfaces-primitives/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
-import { Toaster } from "akasha/design/interface/design-interfaces-primitives/modules/sonner/sonner.module.code.tsx"
-import { SurfaceProvider } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
+} from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import { TriangleAlert } from "lucide-react"
 import { type ReactNode, useEffect } from "react"

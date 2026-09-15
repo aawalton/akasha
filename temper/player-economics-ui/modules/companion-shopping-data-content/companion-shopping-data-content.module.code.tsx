@@ -4,18 +4,6 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { AddFilterButton } from "akasha/design/interface/design-interfaces-patterns/modules/add-filter-button/add-filter-button.module.code.tsx"
-import { addFilterId } from "akasha/design/interface/design-interfaces-patterns/modules/add-filter-id/add-filter-id.module.code.ts"
-import {
-  Empty,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
-import { FilterButton } from "akasha/design/interface/design-interfaces-patterns/modules/filter-button/filter-button.module.code.tsx"
-import { FilterGroup } from "akasha/design/interface/design-interfaces-patterns/modules/filter-group/filter-group.module.code.tsx"
-import { SearchSortFilterRow } from "akasha/design/interface/design-interfaces-patterns/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import {
   Card,
   CardContent,
@@ -23,6 +11,18 @@ import {
 import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import { AddFilterButton } from "akasha/design/interface/pattern/modules/add-filter-button/add-filter-button.module.code.tsx"
+import { addFilterId } from "akasha/design/interface/pattern/modules/add-filter-id/add-filter-id.module.code.ts"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
+import { FilterButton } from "akasha/design/interface/pattern/modules/filter-button/filter-button.module.code.tsx"
+import { FilterGroup } from "akasha/design/interface/pattern/modules/filter-group/filter-group.module.code.tsx"
+import { SearchSortFilterRow } from "akasha/design/interface/pattern/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,

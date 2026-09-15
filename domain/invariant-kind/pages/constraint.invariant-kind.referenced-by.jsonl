@@ -261,7 +261,7 @@
 {"propertySlug":"invariant-kind","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.ts","id":"01a0603c-c1cb-7d74-ac42-cf9ae26b02f5"}
 {"propertySlug":"invariant-kind","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts","id":"01a0685d-f8fa-7755-9f01-412ee9b28025"}
 {"propertySlug":"invariant-kind","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.ts","id":"01a09f61-ca3e-75ea-9e65-23af74517db1"}
-{"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-patterns/modules/query-error-boundary/query-error-boundary.module.ts","id":"01a061ed-653b-73ef-8556-969d798ee2a5"}
+{"propertySlug":"invariant-kind","path":"design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.ts","id":"01a061ed-653b-73ef-8556-969d798ee2a5"}
 {"propertySlug":"invariant-kind","path":"design/language/design-language.domain.ts","id":"01a06600-0000-7000-8000-000000000003"}
 {"propertySlug":"invariant-kind","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts","id":"01a0816a-91f6-79d0-8293-0fb65177f129"}
 {"propertySlug":"invariant-kind","path":"design/language/lua-compiler/lualib-helper/properties/lua-export.text-property.ts","id":"01a08168-a789-7c4b-8c96-68f15749213a"}

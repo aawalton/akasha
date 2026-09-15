@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"button-badge.module.code.tsx","path":"design/interface/badge/modules/date-badge/date-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"button-badge.module.code.tsx","path":"design/interface/badge/modules/link-badge/link-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"button-badge.module.code.tsx","path":"design/interface/badge/modules/number-badge/number-badge.module.code.tsx"}
-{"propertySlug":"import","fileName":"button-badge.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/add-filter-button/add-filter-button.module.code.tsx"}
-{"propertySlug":"import","fileName":"button-badge.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/add-sort-button/add-sort-button.module.code.tsx"}
+{"propertySlug":"import","fileName":"button-badge.module.code.tsx","path":"design/interface/pattern/modules/add-filter-button/add-filter-button.module.code.tsx"}
+{"propertySlug":"import","fileName":"button-badge.module.code.tsx","path":"design/interface/pattern/modules/add-sort-button/add-sort-button.module.code.tsx"}
 {"propertySlug":"import","fileName":"button-badge.module.code.tsx","path":"page/action-button-property/action-button-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"button-badge.module.code.tsx","path":"page/page.page-type.page-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"button-badge.module.code.tsx","path":"page/ui/component/modules/date-time-filter-inputs/date-time-filter-inputs.module.code.tsx"}

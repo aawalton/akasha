@@ -1,4 +1,4 @@
-import { StatRow } from "akasha/design/interface/design-interfaces-patterns/modules/stat-row/stat-row.module.code.tsx"
+import { StatRow } from "akasha/design/interface/pattern/modules/stat-row/stat-row.module.code.tsx"
 import type { MetricTreeNode } from "akasha/temper/character-stat/modules/metric-tree-types/metric-tree-types.module.code.ts"
 import type { MetricValue } from "akasha/temper/character-stat/modules/metric-value/metric-value.module.code.ts"
 import {

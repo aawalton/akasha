@@ -1,10 +1,10 @@
 {"propertySlug":"import","fileName":"input.module.code.tsx","path":"design/interface/badge/modules/time-badge/time-badge.module.code.tsx"}
-{"propertySlug":"import","fileName":"input.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/auth-page-content/auth-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"input.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/icon-picker/icon-picker.module.code.tsx"}
 {"propertySlug":"import","fileName":"input.module.code.tsx","path":"design/interface/design-interfaces-system/modules/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"input.module.code.tsx","path":"design/interface/design-interfaces-system/modules/components-compound-panels/components-compound-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"input.module.code.tsx","path":"design/interface/design-interfaces-system/modules/components-input-panels/components-input-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"input.module.code.tsx","path":"design/interface/form/modules/input-group/input-group.module.code.tsx"}
+{"propertySlug":"import","fileName":"input.module.code.tsx","path":"design/interface/pattern/modules/auth-page-content/auth-page-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"input.module.code.tsx","path":"design/interface/pattern/modules/icon-picker/icon-picker.module.code.tsx"}
 {"propertySlug":"import","fileName":"input.module.code.tsx","path":"page/ui/component/modules/create-view-popover/create-view-popover.module.code.tsx"}
 {"propertySlug":"import","fileName":"input.module.code.tsx","path":"page/ui/component/modules/page-cover/page-cover.module.code.tsx"}
 {"propertySlug":"import","fileName":"input.module.code.tsx","path":"page/ui/component/modules/quick-add-form/quick-add-form.module.code.tsx"}

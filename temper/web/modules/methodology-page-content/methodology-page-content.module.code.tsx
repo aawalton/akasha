@@ -1,18 +1,5 @@
 "use client"
 
-import {
-  Empty,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
-import {
-  PageTabsTrigger,
-  Tabs,
-  TabsContent,
-  TabsList,
-} from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import {
   PageLayout,
@@ -21,6 +8,19 @@ import {
 import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
+import {
+  PageTabsTrigger,
+  Tabs,
+  TabsContent,
+  TabsList,
+} from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { COMPANION_ENGINE_METHODOLOGY_PANELS } from "akasha/temper/web/modules/companion-engine-methodology/companion-engine-methodology.module.code.tsx"
 import { KNOWN_ISSUES_METHODOLOGY_PANELS } from "akasha/temper/web/modules/known-issues-methodology/known-issues-methodology.module.code.tsx"

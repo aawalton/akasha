@@ -1,6 +1,5 @@
 "use client"
 
-import { TabsContent } from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
 import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
@@ -19,6 +18,7 @@ import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-h
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { useColumnCount } from "akasha/design/interface/layout/modules/use-column-count/use-column-count.module.code.tsx"
+import { TabsContent } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 
 export function LayoutTabContent() {
   const columnCount = useColumnCount()

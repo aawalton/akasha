@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"alan/web/routes/alan-web-services/alan-web-services.route.code.tsx"}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"alan/web/routes/alan-web-sms/alan-web-sms.route.code.tsx"}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"alan/web/routes/alan-web-terms/alan-web-terms.route.code.tsx"}
-{"propertySlug":"import","fileName":"heading.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/filter-group/filter-group.module.code.tsx"}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"design/interface/design-interfaces-primitives/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"design/interface/design-interfaces-primitives/modules/sub-view/sub-view.module.code.tsx"}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"design/interface/design-interfaces-system/modules/borders/borders.module.code.tsx"}
@@ -29,6 +28,7 @@
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"design/interface/design-interfaces-system/modules/text-colors/text-colors.module.code.tsx"}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"design/interface/design-interfaces-system/modules/ui-application-rules/ui-application-rules.module.code.tsx"}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"design/interface/design-interfaces-system/modules/visual-identity/visual-identity.module.code.tsx"}
+{"propertySlug":"import","fileName":"heading.module.code.tsx","path":"design/interface/pattern/modules/filter-group/filter-group.module.code.tsx"}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"page/ui/component/modules/group-by-picker/group-by-picker.module.code.tsx"}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"page/ui/component/modules/page-board/page-board.module.code.tsx"}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"page/ui/component/modules/page-calendar/page-calendar.module.code.tsx"}

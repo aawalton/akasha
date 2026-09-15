@@ -2,19 +2,6 @@
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import {
-  Empty,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
-import {
-  searchChanging,
-  sortChanging,
-} from "akasha/design/interface/design-interfaces-patterns/modules/filter-changing/filter-changing.module.code.ts"
-import type { SortDirection } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
-import { useScrollRestoration } from "akasha/design/interface/design-interfaces-patterns/modules/use-scroll-restoration/use-scroll-restoration.module.code.ts"
-import {
   Card,
   CardContent,
 } from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
@@ -23,6 +10,19 @@ import {
   PageTabHeader,
   PageTabTitleBadges,
 } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
+import {
+  searchChanging,
+  sortChanging,
+} from "akasha/design/interface/pattern/modules/filter-changing/filter-changing.module.code.ts"
+import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import { useScrollRestoration } from "akasha/design/interface/pattern/modules/use-scroll-restoration/use-scroll-restoration.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"

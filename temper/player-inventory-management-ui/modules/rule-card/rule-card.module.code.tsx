@@ -1,6 +1,6 @@
 "use client"
 
-import { ItemCard } from "akasha/design/interface/design-interfaces-patterns/modules/item-card/item-card.module.code.tsx"
+import { ItemCard } from "akasha/design/interface/pattern/modules/item-card/item-card.module.code.tsx"
 import type { ControlledRule } from "akasha/temper/items-rules-core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"

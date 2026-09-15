@@ -1,22 +1,22 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { AddFilterButton } from "akasha/design/interface/design-interfaces-patterns/modules/add-filter-button/add-filter-button.module.code.tsx"
-import { AddSortButton } from "akasha/design/interface/design-interfaces-patterns/modules/add-sort-button/add-sort-button.module.code.tsx"
-import { FilterButton } from "akasha/design/interface/design-interfaces-patterns/modules/filter-button/filter-button.module.code.tsx"
-import { FilterGroup } from "akasha/design/interface/design-interfaces-patterns/modules/filter-group/filter-group.module.code.tsx"
-import { SearchSortFilterRow } from "akasha/design/interface/design-interfaces-patterns/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
-import { SortButton } from "akasha/design/interface/design-interfaces-patterns/modules/sort-button/sort-button.module.code.tsx"
-import { SortGroup } from "akasha/design/interface/design-interfaces-patterns/modules/sort-group/sort-group.module.code.tsx"
-import type {
-  SortDirection,
-  SortEntry,
-  SortOption,
-} from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
 import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { AddFilterButton } from "akasha/design/interface/pattern/modules/add-filter-button/add-filter-button.module.code.tsx"
+import { AddSortButton } from "akasha/design/interface/pattern/modules/add-sort-button/add-sort-button.module.code.tsx"
+import { FilterButton } from "akasha/design/interface/pattern/modules/filter-button/filter-button.module.code.tsx"
+import { FilterGroup } from "akasha/design/interface/pattern/modules/filter-group/filter-group.module.code.tsx"
+import { SearchSortFilterRow } from "akasha/design/interface/pattern/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
+import { SortButton } from "akasha/design/interface/pattern/modules/sort-button/sort-button.module.code.tsx"
+import { SortGroup } from "akasha/design/interface/pattern/modules/sort-group/sort-group.module.code.tsx"
+import type {
+  SortDirection,
+  SortEntry,
+  SortOption,
+} from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { useState } from "react"
 
 const SORT_OPTIONS: SortOption[] = [

@@ -1,7 +1,6 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { ItemCard } from "akasha/design/interface/design-interfaces-patterns/modules/item-card/item-card.module.code.tsx"
 import {
   Select,
   SelectContent,
@@ -9,6 +8,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/design-interfaces-primitives/modules/select-control/select-control.module.code.tsx"
+import { ItemCard } from "akasha/design/interface/pattern/modules/item-card/item-card.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import {
   convertIconPathToUrl,

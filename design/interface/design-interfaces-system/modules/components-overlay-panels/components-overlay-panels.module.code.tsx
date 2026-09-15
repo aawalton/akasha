@@ -1,11 +1,5 @@
 "use client"
 
-import {
-  Tabs,
-  TabsContent,
-  TabsList,
-  TabsTrigger,
-} from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
 import {
@@ -51,6 +45,12 @@ import {
   TableValue,
 } from "akasha/design/interface/design-interfaces-primitives/modules/table/table.module.code.tsx"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import {
+  Tabs,
+  TabsContent,
+  TabsList,
+  TabsTrigger,
+} from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 
 export function ComponentsOverlayPanels() {
   return (

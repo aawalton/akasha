@@ -1,12 +1,6 @@
 "use client"
 
 import type { BadgeToggleGroupItem } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import type { SortDirection } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
-import {
-  PageTabsTrigger,
-  Tabs,
-  TabsList,
-} from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import { useDebouncedValue } from "akasha/design/interface/design-interfaces-primitives/modules/use-debounced-value/use-debounced-value.module.code.ts"
 import { useKeyboardBinding } from "akasha/design/interface/design-interfaces-primitives/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
@@ -18,6 +12,12 @@ import {
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { scrollToCard } from "akasha/design/interface/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"
 import { tabbedPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import {
+  PageTabsTrigger,
+  Tabs,
+  TabsList,
+} from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import {
   ACTIVITY_CATEGORIES,

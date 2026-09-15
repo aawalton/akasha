@@ -1,15 +1,15 @@
 "use client"
 
 import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
+import { CardTitleBadges } from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import {
   Empty,
   EmptyDescription,
   EmptyHeader,
   EmptyTitle,
-} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
-import { CardTitleBadges } from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+} from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {

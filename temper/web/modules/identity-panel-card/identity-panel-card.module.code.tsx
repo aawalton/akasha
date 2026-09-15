@@ -1,6 +1,5 @@
 "use client"
 
-import { InputPanelCard } from "akasha/design/interface/design-interfaces-patterns/modules/input-panel-card/input-panel-card.module.code.tsx"
 import {
   Select,
   SelectContent,
@@ -8,6 +7,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/design-interfaces-primitives/modules/select-control/select-control.module.code.tsx"
+import { InputPanelCard } from "akasha/design/interface/pattern/modules/input-panel-card/input-panel-card.module.code.tsx"
 import { getRaceSourceById } from "akasha/temper/character-build/modules/race-source/race-source.module.code.ts"
 import type { RaceId } from "akasha/temper/character-race/modules/races/races.module.code.ts"
 import {

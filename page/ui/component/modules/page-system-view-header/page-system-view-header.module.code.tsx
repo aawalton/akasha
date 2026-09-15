@@ -1,10 +1,10 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { SearchButton } from "akasha/design/interface/design-interfaces-patterns/modules/search-button/search-button.module.code.tsx"
-import { SearchSortFilterRow } from "akasha/design/interface/design-interfaces-patterns/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
-import { SortButton } from "akasha/design/interface/design-interfaces-patterns/modules/sort-button/sort-button.module.code.tsx"
 import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
+import { SearchButton } from "akasha/design/interface/pattern/modules/search-button/search-button.module.code.tsx"
+import { SearchSortFilterRow } from "akasha/design/interface/pattern/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
+import { SortButton } from "akasha/design/interface/pattern/modules/sort-button/sort-button.module.code.tsx"
 import type {
   ViewConfig,
   ViewFilter,

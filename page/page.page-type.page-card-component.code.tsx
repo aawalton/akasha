@@ -1,7 +1,5 @@
 "use client"
 
-import { IconPicker } from "akasha/design/interface/design-interfaces-patterns/modules/icon-picker/icon-picker.module.code.tsx"
-import { Icon } from "akasha/design/interface/design-interfaces-patterns/modules/lucide-icon/lucide-icon.module.code.tsx"
 import {
   Card,
   CardContent,
@@ -12,6 +10,8 @@ import { cn } from "akasha/design/interface/design-interfaces-primitives/modules
 import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/interface/layout/modules/panel-card-data/panel-card-data.module.code.ts"
+import { IconPicker } from "akasha/design/interface/pattern/modules/icon-picker/icon-picker.module.code.tsx"
+import { Icon } from "akasha/design/interface/pattern/modules/lucide-icon/lucide-icon.module.code.tsx"
 import { readsAsDone } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { PageActionsMenu } from "akasha/page/ui/component/modules/page-actions-menu/page-actions-menu.module.code.tsx"

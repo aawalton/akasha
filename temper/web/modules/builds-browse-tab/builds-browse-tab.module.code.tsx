@@ -1,5 +1,11 @@
 "use client"
 
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
+import {
+  Card,
+  CardContent,
+} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
+import { PaginatedCardGrid } from "akasha/design/interface/layout/modules/paginated-card-grid/paginated-card-grid.module.code.tsx"
 import {
   Empty,
   EmptyContent,
@@ -7,13 +13,7 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
-import {
-  Card,
-  CardContent,
-} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
-import { PaginatedCardGrid } from "akasha/design/interface/layout/modules/paginated-card-grid/paginated-card-grid.module.code.tsx"
+} from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { getRoleName } from "akasha/temper/character-source/modules/character-roles/character-roles.module.code.ts"
 import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"

@@ -1,10 +1,5 @@
 "use client"
 
-import {
-  PageTabsTrigger,
-  Tabs,
-  TabsList,
-} from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
 import { BrandTabContent } from "akasha/design/interface/design-interfaces-system/modules/brand-tab/brand-tab.module.code.tsx"
 import { ComponentsTabContent } from "akasha/design/interface/design-interfaces-system/modules/components-tab/components-tab.module.code.tsx"
 import { LayoutTabContent } from "akasha/design/interface/design-interfaces-system/modules/layout-tab/layout-tab.module.code.tsx"
@@ -15,6 +10,11 @@ import {
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+import {
+  PageTabsTrigger,
+  Tabs,
+  TabsList,
+} from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { BookOpen, Component, LayoutGrid, Palette, Puzzle } from "lucide-react"
 
 interface DesignSystemPageContentProps {
