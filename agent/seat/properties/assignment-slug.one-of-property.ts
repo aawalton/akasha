@@ -2,7 +2,7 @@ import type { OneOfProperty } from "akasha/page/one-of-property/one-of-property.
 
 export const assignmentSlug = {
   id: "01a053a2-d0e7-7948-a966-74efed3c62f0",
-  type: "one-of-property",
+  type: "page-type/one-of-property",
   slug: "assignment-slug",
   propertySlug: "assignment-slug",
   definition: "the domain or initiative whose work a seat answers to",

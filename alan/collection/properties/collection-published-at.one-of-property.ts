@@ -2,7 +2,7 @@ import type { OneOfProperty } from "akasha/page/one-of-property/one-of-property.
 
 export const collectionPublishedAt = {
   id: "01a063de-2c60-700f-a1f5-3c8c3ba8a091",
-  type: "one-of-property",
+  type: "page-type/one-of-property",
   slug: "collection-published-at",
   propertySlug: "published-at",
   definition: "when a collection was released, to the day or to the moment",

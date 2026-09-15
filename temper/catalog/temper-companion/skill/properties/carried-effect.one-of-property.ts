@@ -2,7 +2,7 @@ import type { OneOfProperty } from "akasha/page/one-of-property/one-of-property.
 
 export const carriedEffect = {
   id: "01a08ece-d396-7735-b4e0-bbe153126211",
-  type: "one-of-property",
+  type: "page-type/one-of-property",
   slug: "carried-effect",
   propertySlug: "effect",
   definition: "what an effect carries, as an inner effect or as a named act",

@@ -2,7 +2,7 @@ import type { OneOfProperty } from "akasha/page/one-of-property/one-of-property.
 
 export const properties = {
   id: "01a04df3-6848-7e77-ba2c-9399e3f6a356",
-  type: "one-of-property",
+  type: "page-type/one-of-property",
   slug: "properties",
   propertySlug: "properties",
   definition: "the properties a page type adds, and the inherited properties it narrows",
