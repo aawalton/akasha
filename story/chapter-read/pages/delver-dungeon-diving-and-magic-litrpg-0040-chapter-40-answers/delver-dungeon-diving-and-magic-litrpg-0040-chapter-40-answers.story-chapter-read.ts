@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delverDungeonDivingAndMagicLitrpg0040Chapter40Answers = {
   id: "01a06731-af10-7009-97ac-c0bd10fab657",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0040-chapter-40-answers",
   title: "Chapter 40: Answers",
   story: "story-read/delver-dungeon-diving-and-magic-litrpg",

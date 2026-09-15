@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delverDungeonDivingAndMagicLitrpg0039Chapter39StrongholdDeragun = {
   id: "01a06731-af10-7008-975d-f409d48e8d1e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0039-chapter-39-stronghold-deragun",
   title: "Chapter 39: Stronghold Deragun",
   story: "story-read/delver-dungeon-diving-and-magic-litrpg",

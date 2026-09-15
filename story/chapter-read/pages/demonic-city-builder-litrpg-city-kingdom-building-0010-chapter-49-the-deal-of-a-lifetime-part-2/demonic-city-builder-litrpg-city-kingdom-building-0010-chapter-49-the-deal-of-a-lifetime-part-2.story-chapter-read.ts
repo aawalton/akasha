@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0010Chapter49TheDealOfALifetimePart2 = {
   id: "01a06731-ae73-7000-8cbe-669ebb1ec833",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0010-chapter-49-the-deal-of-a-lifetime-part-2",
   title: "Chapter 49 - The Deal of a Lifetime - Part 2",
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",

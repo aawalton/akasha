@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delverDungeonDivingAndMagicLitrpg0058Chapter56TheCouncilOfDralk = {
   id: "01a06731-af11-7005-8521-22a1b14ade58",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0058-chapter-56-the-council-of-dralk",
   title: "Chapter 56: The Council Of Dralk",
   story: "story-read/delver-dungeon-diving-and-magic-litrpg",

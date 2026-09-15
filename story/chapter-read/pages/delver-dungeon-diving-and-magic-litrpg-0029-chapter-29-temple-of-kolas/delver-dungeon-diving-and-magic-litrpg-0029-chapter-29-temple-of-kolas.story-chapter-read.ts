@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delverDungeonDivingAndMagicLitrpg0029Chapter29TempleOfKolas = {
   id: "01a06731-af0f-7014-854c-c22013db4238",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0029-chapter-29-temple-of-kolas",
   title: "Chapter 29: Temple Of Kolas",
   story: "story-read/delver-dungeon-diving-and-magic-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delverDungeonDivingAndMagicLitrpg0009Chapter9UniqueClass = {
   id: "01a06731-af0f-7000-ab82-4af5024816c8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0009-chapter-9-unique-class",
   title: "Chapter 9: Unique Class",
   story: "story-read/delver-dungeon-diving-and-magic-litrpg",

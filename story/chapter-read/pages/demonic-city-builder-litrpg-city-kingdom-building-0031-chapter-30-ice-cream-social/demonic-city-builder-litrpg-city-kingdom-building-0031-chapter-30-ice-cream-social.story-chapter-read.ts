@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0031Chapter30IceCreamSocial = {
   id: "01a06731-ae84-7001-a9e6-6959d00e799b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0031-chapter-30-ice-cream-social",
   title: "Chapter 30 - Ice Cream Social",
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",

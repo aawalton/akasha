@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delve0270270Bottleneck = {
   id: "01a06731-afe5-7001-ac83-9332215e797e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delve-0270-270-bottleneck",
   title: "270: Bottleneck",
   story: "story-read/delve",

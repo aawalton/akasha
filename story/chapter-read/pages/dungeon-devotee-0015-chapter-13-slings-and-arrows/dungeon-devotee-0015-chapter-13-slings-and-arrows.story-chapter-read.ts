@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonDevotee0015Chapter13SlingsAndArrows = {
   id: "01a06731-b0f7-7000-b63d-eb4658d33ae8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-devotee-0015-chapter-13-slings-and-arrows",
   title: "Chapter 13: Slings and Arrows",
   story: "story-read/dungeon-devotee",

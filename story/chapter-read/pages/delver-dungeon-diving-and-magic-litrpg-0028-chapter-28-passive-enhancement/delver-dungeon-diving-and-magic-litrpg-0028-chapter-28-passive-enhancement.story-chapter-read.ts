@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delverDungeonDivingAndMagicLitrpg0028Chapter28PassiveEnhancement = {
   id: "01a06731-af0f-7013-a6d8-84a3f71549b0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0028-chapter-28-passive-enhancement",
   title: "Chapter 28: Passive Enhancement",
   story: "story-read/delver-dungeon-diving-and-magic-litrpg",

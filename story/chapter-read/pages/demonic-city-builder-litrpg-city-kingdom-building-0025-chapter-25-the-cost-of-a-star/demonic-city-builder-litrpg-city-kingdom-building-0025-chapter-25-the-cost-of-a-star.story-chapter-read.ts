@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0025Chapter25TheCostOfAStar = {
   id: "01a06731-ae80-7002-9b1a-ef02992c7ac6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0025-chapter-25-the-cost-of-a-star",
   title: "Chapter 25 - The Cost Of A Star",
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",

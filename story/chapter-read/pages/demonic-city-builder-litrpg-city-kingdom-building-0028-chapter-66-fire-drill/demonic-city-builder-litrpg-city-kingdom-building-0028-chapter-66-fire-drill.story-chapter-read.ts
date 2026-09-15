@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0028Chapter66FireDrill = {
   id: "01a08946-1557-7a46-bb13-d701fdc07bb7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0028-chapter-66-fire-drill",
   position: 28,
   publishedAt: "2026-09-10",

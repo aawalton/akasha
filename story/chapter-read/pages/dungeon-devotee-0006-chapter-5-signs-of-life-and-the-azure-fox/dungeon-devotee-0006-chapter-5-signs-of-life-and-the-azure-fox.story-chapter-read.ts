@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonDevotee0006Chapter5SignsOfLifeAndTheAzureFox = {
   id: "01a06731-b0e3-7000-98f4-6bd5df194cfd",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-devotee-0006-chapter-5-signs-of-life-and-the-azure-fox",
   title: "Chapter 5: Signs of Life and the Azure Fox",
   story: "story-read/dungeon-devotee",

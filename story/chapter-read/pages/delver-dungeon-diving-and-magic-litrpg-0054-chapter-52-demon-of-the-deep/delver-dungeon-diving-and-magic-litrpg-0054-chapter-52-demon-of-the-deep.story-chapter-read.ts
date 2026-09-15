@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delverDungeonDivingAndMagicLitrpg0054Chapter52DemonOfTheDeep = {
   id: "01a06731-af11-7001-b645-0f4e3631e91c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0054-chapter-52-demon-of-the-deep",
   title: "Chapter 52: Demon Of The Deep",
   story: "story-read/delver-dungeon-diving-and-magic-litrpg",

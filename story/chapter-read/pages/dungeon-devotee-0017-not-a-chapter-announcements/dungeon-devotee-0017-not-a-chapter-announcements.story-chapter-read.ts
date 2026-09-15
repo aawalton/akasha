@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonDevotee0017NotAChapterAnnouncements = {
   id: "01a06731-b0fe-7000-8075-abc2beaf63ac",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-devotee-0017-not-a-chapter-announcements",
   title: "[Not a chapter] Announcements! ",
   story: "story-read/dungeon-devotee",

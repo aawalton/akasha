@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0003Chapter3MiddleManagement = {
   id: "01a06731-ae70-7002-8e3b-602b85088065",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0003-chapter-3-middle-management",
   title: "Chapter 3 - Middle Management",
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",

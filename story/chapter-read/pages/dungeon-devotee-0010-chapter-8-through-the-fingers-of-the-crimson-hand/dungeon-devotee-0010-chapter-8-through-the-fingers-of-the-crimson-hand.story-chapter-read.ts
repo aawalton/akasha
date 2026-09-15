@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonDevotee0010Chapter8ThroughTheFingersOfTheCrimsonHand = {
   id: "01a06731-b0ea-7000-9813-19e1fa1b83b5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-devotee-0010-chapter-8-through-the-fingers-of-the-crimson-hand",
   title: "Chapter 8: Through the Fingers of the Crimson Hand",
   story: "story-read/dungeon-devotee",

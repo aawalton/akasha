@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonDevotee0001Chapter0DeadliestDay = {
   id: "01a06731-b0df-7007-8816-896cbef4150d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-devotee-0001-chapter-0-deadliest-day",
   title: "Chapter 0: Deadliest Day",
   story: "story-read/dungeon-devotee",

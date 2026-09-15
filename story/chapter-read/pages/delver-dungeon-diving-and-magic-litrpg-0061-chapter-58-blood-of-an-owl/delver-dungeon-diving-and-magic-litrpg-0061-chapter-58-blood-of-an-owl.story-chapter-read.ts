@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delverDungeonDivingAndMagicLitrpg0061Chapter58BloodOfAnOwl = {
   id: "01a06731-af11-7008-825c-121b2d49c734",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0061-chapter-58-blood-of-an-owl",
   title: "Chapter 58: Blood Of An Owl",
   story: "story-read/delver-dungeon-diving-and-magic-litrpg",

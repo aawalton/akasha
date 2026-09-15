@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0022Chapter22Autonomy = {
   id: "01a06731-ae7e-7000-92ec-8e841d969c44",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0022-chapter-22-autonomy",
   title: "Chapter 22 - Autonomy",
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",

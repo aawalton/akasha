@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0012Chapter12ReturnOnInvestment = {
   id: "01a06731-ae74-7000-8298-3bc9d6a7db48",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0012-chapter-12-return-on-investment",
   title: "Chapter 12 - Return On Investment",
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",

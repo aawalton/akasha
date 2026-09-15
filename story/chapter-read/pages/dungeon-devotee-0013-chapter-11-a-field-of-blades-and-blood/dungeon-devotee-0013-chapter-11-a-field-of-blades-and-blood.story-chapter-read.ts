@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonDevotee0013Chapter11AFieldOfBladesAndBlood = {
   id: "01a06731-b0ef-7000-a50b-d9ee85e57779",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-devotee-0013-chapter-11-a-field-of-blades-and-blood",
   title: "Chapter 11: A Field of Blades and Blood",
   story: "story-read/dungeon-devotee",

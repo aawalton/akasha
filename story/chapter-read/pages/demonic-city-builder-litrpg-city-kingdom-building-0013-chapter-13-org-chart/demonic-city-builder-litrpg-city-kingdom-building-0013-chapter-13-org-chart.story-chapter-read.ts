@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0013Chapter13OrgChart = {
   id: "01a06731-ae74-7002-8578-6c70d913a492",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0013-chapter-13-org-chart",
   title: "Chapter 13 - Org Chart",
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",

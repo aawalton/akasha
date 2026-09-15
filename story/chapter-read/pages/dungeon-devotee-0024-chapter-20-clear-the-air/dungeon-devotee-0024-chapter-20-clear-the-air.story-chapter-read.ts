@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonDevotee0024Chapter20ClearTheAir = {
   id: "01a06731-b105-7000-8555-21de72742d5a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-devotee-0024-chapter-20-clear-the-air",
   title: "Chapter 20: Clear the Air",
   story: "story-read/dungeon-devotee",

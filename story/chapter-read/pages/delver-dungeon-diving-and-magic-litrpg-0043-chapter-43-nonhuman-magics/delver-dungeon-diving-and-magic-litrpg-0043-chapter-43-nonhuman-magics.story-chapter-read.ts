@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delverDungeonDivingAndMagicLitrpg0043Chapter43NonhumanMagics = {
   id: "01a06731-af10-700c-9531-5c88c707827c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0043-chapter-43-nonhuman-magics",
   title: "Chapter 43: Nonhuman Magics",
   story: "story-read/delver-dungeon-diving-and-magic-litrpg",

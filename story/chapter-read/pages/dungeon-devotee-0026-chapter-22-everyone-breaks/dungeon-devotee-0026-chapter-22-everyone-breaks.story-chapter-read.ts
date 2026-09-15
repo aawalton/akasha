@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonDevotee0026Chapter22EveryoneBreaks = {
   id: "01a06731-b109-7000-8f87-d3e89e410250",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-devotee-0026-chapter-22-everyone-breaks",
   title: "Chapter 22: Everyone Breaks",
   story: "story-read/dungeon-devotee",

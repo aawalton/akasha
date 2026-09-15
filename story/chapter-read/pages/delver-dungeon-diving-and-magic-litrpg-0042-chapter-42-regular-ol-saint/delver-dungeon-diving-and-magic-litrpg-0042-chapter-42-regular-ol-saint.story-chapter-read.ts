@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delverDungeonDivingAndMagicLitrpg0042Chapter42RegularOlSaint = {
   id: "01a06731-af10-700b-8b64-ff15869af0f5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0042-chapter-42-regular-ol-saint",
   title: "Chapter 42: Regular Ol' Saint",
   story: "story-read/delver-dungeon-diving-and-magic-litrpg",

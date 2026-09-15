@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0014Chapter14CapitalExpenditure = {
   id: "01a06731-ae74-7004-8808-51c75012e66d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0014-chapter-14-capital-expenditure",
   title: "Chapter 14 - Capital Expenditure",
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",

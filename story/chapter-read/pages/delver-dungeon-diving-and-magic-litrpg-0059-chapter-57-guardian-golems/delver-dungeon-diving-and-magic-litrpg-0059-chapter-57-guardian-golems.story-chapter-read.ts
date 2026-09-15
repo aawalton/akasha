@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delverDungeonDivingAndMagicLitrpg0059Chapter57GuardianGolems = {
   id: "01a06731-af11-7006-a84e-1c88e62e8456",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0059-chapter-57-guardian-golems",
   title: "Chapter 57: Guardian Golems",
   story: "story-read/delver-dungeon-diving-and-magic-litrpg",

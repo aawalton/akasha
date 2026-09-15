@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonDevotee0022Chapter18AcrossTheFrozenLake = {
   id: "01a06731-b102-7000-8d5f-52dc5038fe7e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-devotee-0022-chapter-18-across-the-frozen-lake",
   title: "Chapter 18: Across the Frozen Lake",
   story: "story-read/dungeon-devotee",
