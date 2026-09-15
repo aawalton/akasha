@@ -237,17 +237,6 @@ export const checkCode = {
       ],
     },
     {
-      directiveKind: "directive-kind/rule",
-      name: "Fail Closed",
-      act: "Fail a check that could not run.",
-      warrant:
-        "A check that could not look verified nothing, so passing it lets a change land unjudged.",
-      aids: [
-        "A check that threw could not run.",
-        "Never answer for a check by catching its error.",
-      ],
-    },
-    {
       directiveKind: "directive-kind/principle",
       name: "Change Reach",
       act: "Limit what a check measures to what the provisional change could invalidate.",
