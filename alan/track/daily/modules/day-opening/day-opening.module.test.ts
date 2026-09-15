@@ -4,7 +4,6 @@ import { dirname, join } from "node:path"
 import {
   openedDayOf,
   openedDayWindow,
-  openingInstantOn,
 } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
@@ -71,7 +70,7 @@ function sleptWorld(name: string): Roots {
 }
 
 test("a day opens where the sleep recorded beside its page began", () => {
-  expect(openingInstantOn(sleptWorld("akasha-opened-began-"), SLEPT)).toBe(
+  expect(openedDayWindow(sleptWorld("akasha-opened-began-"), SLEPT).from).toBe(
     "2026-07-04T04:00:00.000Z"
   )
 })
@@ -101,13 +100,13 @@ test("an instant after its own day opened counts to that day", () => {
 test("a day holding no sleep opens at six the previous evening in Utah", () => {
   const root = scratch.rootFor("akasha-opened-nosleep-")
   dayFiled(root, SLEPT, [WORK])
-  expect(openingInstantOn(rootsNamed({ [AKASHA]: root }, AKASHA), SLEPT)).toBe(
+  expect(openedDayWindow(rootsNamed({ [AKASHA]: root }, AKASHA), SLEPT).from).toBe(
     "2026-07-04T00:00:00.000Z"
   )
 })
 
 test("a day no page is filed for opens at six the previous evening in Utah", () => {
-  expect(openingInstantOn(sleptWorld("akasha-opened-unfiled-"), "2026-01-01")).toBe(
+  expect(openedDayWindow(sleptWorld("akasha-opened-unfiled-"), "2026-01-01").from).toBe(
     "2026-01-01T01:00:00.000Z"
   )
 })
