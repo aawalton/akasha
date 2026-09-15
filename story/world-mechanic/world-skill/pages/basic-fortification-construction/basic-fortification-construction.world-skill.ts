@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const basicFortificationConstruction = {
   id: "01a06575-97f3-77ed-979d-e84a61834e22",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "basic-fortification-construction",
   title: "Basic Fortification Construction",
   world: "world/the-wandering-inn",

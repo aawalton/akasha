@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const assignRareQuests = {
   id: "01a06575-97ee-7ac4-91a6-2ac4b3d3bf5a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "assign-rare-quests",
   title: "Assign Rare Quests",
   world: "world/the-wandering-inn",

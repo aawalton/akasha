@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bansheeSVoice = {
   id: "01a06575-97f2-7c43-b031-cadf56eacf89",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "banshee-s-voice",
   title: "Banshee’s Voice",
   world: "world/the-wandering-inn",

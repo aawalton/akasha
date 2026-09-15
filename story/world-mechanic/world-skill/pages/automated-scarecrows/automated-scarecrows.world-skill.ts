@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const automatedScarecrows = {
   id: "01a06575-97f0-7511-8ed7-61e9ab49db97",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "automated-scarecrows",
   title: "Automated Scarecrows",
   world: "world/the-wandering-inn",

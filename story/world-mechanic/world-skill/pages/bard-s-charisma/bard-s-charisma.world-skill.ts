@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bardSCharisma = {
   id: "01a06575-97f3-733e-908e-bff0a148827d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bard-s-charisma",
   title: "Bard’s Charisma",
   world: "world/the-wandering-inn",

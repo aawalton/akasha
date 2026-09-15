@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const balladOfTheCourierOfIzril = {
   id: "01a06575-97f2-77ef-9cc9-c8658d2512c9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ballad-of-the-courier-of-izril",
   title: "Ballad of the Courier of Izril",
   world: "world/the-wandering-inn",

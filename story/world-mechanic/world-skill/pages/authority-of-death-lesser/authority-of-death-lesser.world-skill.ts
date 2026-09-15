@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const authorityOfDeathLesser = {
   id: "01a06575-97f0-74fc-b883-ac17962bbe9e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "authority-of-death-lesser",
   title: "Authority of Death (Lesser)",
   world: "world/the-wandering-inn",

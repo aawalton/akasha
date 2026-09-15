@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const automaticRecitationLiterature = {
   id: "01a06575-97f0-7e84-8c5e-1ec5afe42228",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "automatic-recitation-literature",
   title: "Automatic Recitation: Literature",
   world: "world/the-wandering-inn",

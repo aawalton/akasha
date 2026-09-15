@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const assertAuthority = {
   id: "01a06575-97ee-78ea-8e50-8481f614e49f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "assert-authority",
   title: "Assert Authority",
   world: "world/the-wandering-inn",

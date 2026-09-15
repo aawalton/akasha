@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const arrowOfRegret = {
   id: "01a06575-97ed-7e1e-bc4d-56ac25941cc0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "arrow-of-regret",
   title: "Arrow of Regret",
   world: "world/the-wandering-inn",

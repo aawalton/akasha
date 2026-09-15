@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const armyDuplicateProjectiles = {
   id: "01a06575-97ed-7069-87d0-c4fff1341862",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "army-duplicate-projectiles",
   title: "Army: Duplicate Projectiles",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const awakenHeartsOfStone = {
   id: "01a06575-97f2-710c-baa6-1c60256cab6a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "awaken-hearts-of-stone",
   title: "Awaken, Hearts of Stone",
   world: "world/the-wandering-inn",

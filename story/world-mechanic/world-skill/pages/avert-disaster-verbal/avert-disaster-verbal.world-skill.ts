@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const avertDisasterVerbal = {
   id: "01a06575-97f1-724c-906d-1151225cad91",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "avert-disaster-verbal",
   title: "Avert Disaster (Verbal)",
   world: "world/the-wandering-inn",

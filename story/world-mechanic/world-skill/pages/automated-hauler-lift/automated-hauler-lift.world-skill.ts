@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const automatedHaulerLift = {
   id: "01a06575-97f0-737f-8dd2-dcb5a6628e55",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "automated-hauler-lift",
   title: "Automated Hauler Lift",
   world: "world/the-wandering-inn",

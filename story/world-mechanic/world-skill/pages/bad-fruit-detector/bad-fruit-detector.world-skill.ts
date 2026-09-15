@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const badFruitDetector = {
   id: "01a06575-97f2-74c1-b25b-3adc0309e873",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bad-fruit-detector",
   title: "Bad Fruit Detector",
   world: "world/the-wandering-inn",

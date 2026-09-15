@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const barSelectiveAdmission = {
   id: "01a06575-97f3-79dd-8d1f-557e0e5e2e9c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bar-selective-admission",
   title: "Bar: Selective Admission",
   world: "world/the-wandering-inn",

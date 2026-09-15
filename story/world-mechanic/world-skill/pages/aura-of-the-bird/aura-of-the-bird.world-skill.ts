@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const auraOfTheBird = {
   id: "01a06575-97ef-75c3-9243-7dc4bdfe5083",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "aura-of-the-bird",
   title: "Aura of the Bird",
   world: "world/the-wandering-inn",

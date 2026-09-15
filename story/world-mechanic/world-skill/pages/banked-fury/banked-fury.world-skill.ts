@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bankedFury = {
   id: "01a06575-97f2-7ea7-a98f-fae329a01284",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "banked-fury",
   title: "Banked Fury",
   world: "world/the-wandering-inn",

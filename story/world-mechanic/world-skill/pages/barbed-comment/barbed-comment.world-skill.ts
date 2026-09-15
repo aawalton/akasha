@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const barbedComment = {
   id: "01a06575-97f3-710b-9520-ae48ffc31b1e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "barbed-comment",
   title: "Barbed Comment",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const autoSpell = {
   id: "01a06575-97f0-7308-92f1-32131c363869",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "auto-spell",
   title: "Auto Spell",
   world: "world/the-wandering-inn",

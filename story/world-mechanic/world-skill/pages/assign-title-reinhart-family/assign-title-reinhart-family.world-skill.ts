@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const assignTitleReinhartFamily = {
   id: "01a06575-97ee-7b23-b634-f3269df3c47e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "assign-title-reinhart-family",
   title: "Assign Title (Reinhart Family)",
   world: "world/the-wandering-inn",

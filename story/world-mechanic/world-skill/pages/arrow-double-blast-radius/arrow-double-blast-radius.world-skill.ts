@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const arrowDoubleBlastRadius = {
   id: "01a06575-97ed-767b-aecc-d9240bf7ba3c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "arrow-double-blast-radius",
   title: "Arrow: Double Blast Radius",
   world: "world/the-wandering-inn",

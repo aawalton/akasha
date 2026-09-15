@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const auraOfSpring = {
   id: "01a06575-97ef-7075-a42e-53b2ea7a42ab",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "aura-of-spring",
   title: "Aura of Spring",
   world: "world/the-wandering-inn",

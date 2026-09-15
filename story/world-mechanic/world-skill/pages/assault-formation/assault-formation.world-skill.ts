@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const assaultFormation = {
   id: "01a06575-97ee-716f-b96e-7966ef5bd4c1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "assault-formation",
   title: "Assault Formation",
   world: "world/the-wandering-inn",

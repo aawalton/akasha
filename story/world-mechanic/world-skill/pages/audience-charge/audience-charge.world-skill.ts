@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const audienceCharge = {
   id: "01a06575-97ee-77c2-b455-e0039210849c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "audience-charge",
   title: "Audience Charge",
   world: "world/the-wandering-inn",

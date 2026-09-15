@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const barbedCharge = {
   id: "01a06575-97f3-7150-b248-f995c9d7c176",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "barbed-charge",
   title: "Barbed Charge",
   world: "world/the-wandering-inn",

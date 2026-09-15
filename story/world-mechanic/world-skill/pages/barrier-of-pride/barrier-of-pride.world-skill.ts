@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const barrierOfPride = {
   id: "01a06575-97f3-7686-8627-697467c4504e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "barrier-of-pride",
   title: "Barrier of Pride",
   world: "world/the-wandering-inn",

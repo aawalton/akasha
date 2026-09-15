@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const aspectOfTheInnPavilionOfSecrets = {
   id: "01a06575-97ee-746e-8939-f2d61668b349",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "aspect-of-the-inn-pavilion-of-secrets",
   title: "Aspect of the Inn: Pavilion of Secrets",
   world: "world/the-wandering-inn",

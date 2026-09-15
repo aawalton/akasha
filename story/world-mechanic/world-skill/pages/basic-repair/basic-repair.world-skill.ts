@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const basicRepair = {
   id: "01a06575-97f4-73d8-8f2e-2898f9137532",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "basic-repair",
   title: "Basic Repair",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const auraOfTheEmissary = {
   id: "01a06575-97f0-7a06-9c16-cb290364a63e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "aura-of-the-emissary",
   title: "Aura of the Emissary",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const avertMortalBlow = {
   id: "01a06575-97f2-787c-892a-8444b6e952af",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "avert-mortal-blow",
   title: "Avert Mortal Blow",
   world: "world/the-wandering-inn",

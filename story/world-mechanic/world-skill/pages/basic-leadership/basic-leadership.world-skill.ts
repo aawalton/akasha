@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const basicLeadership = {
   id: "01a06575-97f3-7e59-953a-a521b512f34a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "basic-leadership",
   title: "Basic Leadership",
   world: "world/the-wandering-inn",

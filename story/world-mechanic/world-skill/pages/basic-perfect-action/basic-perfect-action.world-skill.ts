@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const basicPerfectAction = {
   id: "01a06575-97f4-7d46-90c0-ccbb6527aba5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "basic-perfect-action",
   title: "Basic Perfect Action",
   world: "world/the-wandering-inn",

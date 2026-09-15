@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const assignBasicQuests = {
   id: "01a06575-97ee-793b-b93c-9a8dbaa75e4c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "assign-basic-quests",
   title: "Assign Basic Quests",
   world: "world/the-wandering-inn",

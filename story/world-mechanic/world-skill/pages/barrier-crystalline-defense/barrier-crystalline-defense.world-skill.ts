@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const barrierCrystallineDefense = {
   id: "01a06575-97f3-7848-8136-583f7e04d572",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "barrier-crystalline-defense",
   title: "Barrier: Crystalline Defense",
   world: "world/the-wandering-inn",

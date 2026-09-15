@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const basicProficiencySeafaring = {
   id: "01a06575-97f4-7249-83b6-c440714774d2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "basic-proficiency-seafaring",
   title: "Basic Proficiency: Seafaring",
   world: "world/the-wandering-inn",

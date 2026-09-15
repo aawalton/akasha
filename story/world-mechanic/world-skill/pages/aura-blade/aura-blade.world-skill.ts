@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const auraBlade = {
   id: "01a06575-97ee-76da-a446-ed46fb90f02f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "aura-blade",
   title: "Aura Blade",
   world: "world/the-wandering-inn",

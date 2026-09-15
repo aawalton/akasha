@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const battalionArcsOfTheSwallow = {
   id: "01a06575-97f4-781f-8943-1bc1cd9db94b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "battalion-arcs-of-the-swallow",
   title: "Battalion: Arcs of the Swallow",
   world: "world/the-wandering-inn",

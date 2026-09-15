@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const armyPatchUpThoseWoundsCleansing = {
   id: "01a06575-97ed-7bbf-8edc-41a50d5fdc9e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "army-patch-up-those-wounds-cleansing",
   title: "Army: Patch Up Those Wounds (Cleansing)",
   world: "world/the-wandering-inn",

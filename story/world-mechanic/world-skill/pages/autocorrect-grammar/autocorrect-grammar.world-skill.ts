@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const autocorrectGrammar = {
   id: "01a06575-97f0-7c26-b50c-63d5cf20947e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "autocorrect-grammar",
   title: "Autocorrect Grammar",
   world: "world/the-wandering-inn",

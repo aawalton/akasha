@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const autocasting = {
   id: "01a06575-97f0-7d14-b0ff-b35a72ca43be",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "autocasting",
   title: "Autocasting",
   world: "world/the-wandering-inn",

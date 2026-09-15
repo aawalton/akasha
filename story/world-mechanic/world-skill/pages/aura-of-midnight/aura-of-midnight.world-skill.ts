@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const auraOfMidnight = {
   id: "01a06575-97ef-7008-b98e-d88f6507e4a2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "aura-of-midnight",
   title: "Aura of Midnight",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const armyCharredSpellcasting = {
   id: "01a06575-97ec-7534-b609-1e597fe1ca8f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "army-charred-spellcasting",
   title: "Army: Charred Spellcasting",
   world: "world/the-wandering-inn",

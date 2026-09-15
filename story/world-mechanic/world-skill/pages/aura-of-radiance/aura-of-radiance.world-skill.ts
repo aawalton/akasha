@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const auraOfRadiance = {
   id: "01a06575-97ef-78ce-a4ff-12cff59149fe",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "aura-of-radiance",
   title: "Aura of Radiance",
   world: "world/the-wandering-inn",
