@@ -18,7 +18,7 @@ export const alanHarness = {
     "domain/email-inbound",
     "domain/email-routing",
     "domain/email-watch",
-    "domain/error-report-answers",
+    "domain/error-report-answer",
     "domain/errors-client",
     "domain/errors-core",
     "domain/geo-io",

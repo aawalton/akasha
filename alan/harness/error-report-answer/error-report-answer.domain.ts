@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const errorReportAnswers = {
+export const errorReportAnswer = {
   id: "01a08e53-fd2d-75d9-9028-e41da4c81f57",
   type: "domain",
-  slug: "error-report-answers",
+  slug: "error-report-answer",
   definition: "what a site answers a browser reporting an error with",
   parts: ["module/answer-error-report"],
   invariants: [

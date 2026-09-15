@@ -521,7 +521,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-watch/modules/inbox-pass/inbox-pass.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-watch/modules/inbox-run/inbox-run.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-watch/modules/inbox-watching/inbox-watching.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/error-report-answers/modules/answer-error-report/answer-error-report.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/error-report-answer/modules/answer-error-report/answer-error-report.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-client/modules/error-capture-installer/error-capture-installer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-client/modules/error-reporting/error-reporting.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-client/modules/global-error-capture/global-error-capture.module.ts"}
