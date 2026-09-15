@@ -1,5 +1,5 @@
-import { synthOne } from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
-import { synthNamespaceCronjob } from "akasha/infrastructure/cluster/k8s-types/modules/manifest-composing/manifest-composing.module.code.ts"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { synthNamespaceCronjob } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
 
 const NAMESPACE = "ddns-headscale"
 const APP_NAME = "ddns-headscale"

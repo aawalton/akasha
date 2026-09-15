@@ -4,12 +4,12 @@ import { deploy } from "akasha/command/pages/deploy/deploy.command.ts"
 import {
   type ApiObjectManifest,
   synthOne,
-} from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
-import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-types/modules/hostnames/hostnames.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import {
   ORCHESTRATOR_CACHE_MOUNT_PATH,
   ORCHESTRATOR_CACHE_REPO_PATH,
-} from "akasha/infrastructure/cluster/k8s-types/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { ci } from "akasha/infrastructure/container-image/dockerfiles/built-image/ci/ci.built-image.ts"
 import { refFor } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { deployAccount } from "akasha/infrastructure/job/deploy-account/deploy-account.manifest.ts"

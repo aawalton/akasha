@@ -1,6 +1,6 @@
-import { synthOne } from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
-import { secretEnv } from "akasha/infrastructure/cluster/k8s-types/modules/k8s-secret-env/k8s-secret-env.module.code.ts"
-import { kubernetesLabels } from "akasha/infrastructure/cluster/k8s-types/modules/labels/labels.module.code.ts"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { secretEnv } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-secret-env/k8s-secret-env.module.code.ts"
+import { kubernetesLabels } from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
 import {
   NAMESPACE,
   S3_GATEWAY_HTTP_PORT,

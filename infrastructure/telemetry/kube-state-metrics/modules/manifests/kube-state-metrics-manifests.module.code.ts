@@ -1,8 +1,8 @@
 import {
   synthMulti,
   synthOne,
-} from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
-import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-types/modules/hostnames/hostnames.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import {
   KUBE_STATE_METRICS_IMAGE,
   KUBE_STATE_METRICS_LABELS,

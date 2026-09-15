@@ -1,4 +1,4 @@
-import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifest/manifest.page-type.types.ts"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/manifest.page-type.types.ts"
 
 export const cloudnativePgSynth = {
   id: "01a06810-1262-73a0-9da5-97719150b83d",

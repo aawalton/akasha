@@ -1,7 +1,7 @@
 import {
   kubernetesLabels,
   selectorOf,
-} from "akasha/infrastructure/cluster/k8s-types/modules/labels/labels.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
 
 export const NAMESPACE = "prometheus"
 export const KUBE_SYSTEM_NAMESPACE = "kube-system"

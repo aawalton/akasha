@@ -1,4 +1,4 @@
-import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifest/manifest.page-type.types.ts"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/manifest.page-type.types.ts"
 
 export const postgresCnpg = {
   id: "01a07391-2c99-7cff-92b8-d47c1f7bc114",

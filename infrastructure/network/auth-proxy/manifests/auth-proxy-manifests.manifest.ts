@@ -1,4 +1,4 @@
-import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifest/manifest.page-type.types.ts"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/manifest.page-type.types.ts"
 
 export const authProxyManifests = {
   id: "01a07383-6af4-7b2a-9679-bdc53aceb125",

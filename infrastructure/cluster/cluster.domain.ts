@@ -11,7 +11,7 @@ export const cluster = {
     "domain/cluster-operations",
     "domain/cluster-provisioning",
     "domain/k8s-synth",
-    "domain/k8s-types",
+    "domain/k8s-type",
   ],
   invariants: [
     {

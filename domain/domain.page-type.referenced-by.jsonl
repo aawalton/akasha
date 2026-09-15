@@ -61,7 +61,7 @@
 {"propertySlug":"extends-type","path":"graph/attribute/graph-attribute.page-type.ts","id":"01a04fe8-cec0-78cc-85d5-3ca1e47761ce"}
 {"propertySlug":"extends-type","path":"graph/edge/graph-edge.page-type.ts","id":"01a04fe8-cebd-71d5-a040-d50b202e6eb1"}
 {"propertySlug":"extends-type","path":"graph/node/graph-node.page-type.ts","id":"01a04fe8-cebb-7a08-ad56-e698e175e03b"}
-{"propertySlug":"extends-type","path":"infrastructure/cluster/k8s-types/manifest/manifest.page-type.ts","id":"01a06da1-b337-78b9-8ad3-556e6b67058e"}
+{"propertySlug":"extends-type","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.ts","id":"01a06da1-b337-78b9-8ad3-556e6b67058e"}
 {"propertySlug":"extends-type","path":"infrastructure/container-image/dockerfiles/built-image/built-image.page-type.ts","id":"01a08193-c20c-7525-aced-8d801a2e9cd6"}
 {"propertySlug":"extends-type","path":"infrastructure/cpu/kind/cpu-kind.page-type.ts","id":"01a09185-edee-760c-88ee-bd4e0bbbcef7"}
 {"propertySlug":"extends-type","path":"infrastructure/machines/host/host.page-type.ts","id":"01a06590-e94f-7d6f-a415-867286e194a2"}
@@ -376,8 +376,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/api/cluster-api.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/cluster.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/k8s-synth/k8s-synth.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/k8s-types/k8s-types.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/k8s-types/manifest/manifest.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/k8s-type/k8s-type.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/manifests/cluster-manifests.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/operations/cluster-operations.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/provisioning/bootstrap-layer/bootstrap-layer.domain.ts"}

@@ -1,4 +1,4 @@
-import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifest/manifest.page-type.types.ts"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/manifest.page-type.types.ts"
 
 export const voiceInfer = {
   id: "01a0736f-e7a5-75ee-bda8-4298c8084c5b",

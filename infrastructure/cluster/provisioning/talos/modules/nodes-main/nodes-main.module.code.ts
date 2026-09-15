@@ -2,8 +2,8 @@ import {
   capabilitySelector,
   gpuHardwareLabels,
   workloadClassMemberSelector,
-} from "akasha/infrastructure/cluster/k8s-types/modules/hostnames/hostnames.module.code.ts"
-import { ciEnrollmentCandidateLabel } from "akasha/infrastructure/cluster/k8s-types/modules/hostnames-ci-enrollment/hostnames-ci-enrollment.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
+import { ciEnrollmentCandidateLabel } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames-ci-enrollment/hostnames-ci-enrollment.module.code.ts"
 import type { NodeIntent } from "akasha/infrastructure/cluster/provisioning/talos/modules/schema/schema.module.code.ts"
 
 export const MAIN_NODES: Readonly<Record<string, NodeIntent>> = {

@@ -1,4 +1,4 @@
-import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifest/manifest.page-type.types.ts"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/manifest.page-type.types.ts"
 
 export const registryGc = {
   id: "01a0738b-7f1f-7b3e-9dfb-d5f74f87561c",

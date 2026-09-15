@@ -1,4 +1,4 @@
-import { synthMulti } from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { synthMulti } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { deployAccount } from "akasha/infrastructure/job/deploy-account/deploy-account.manifest.ts"
 import { JOB_NAMESPACE } from "akasha/infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"
 

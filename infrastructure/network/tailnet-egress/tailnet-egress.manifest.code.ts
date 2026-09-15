@@ -1,12 +1,12 @@
 import {
   synthMulti,
   synthOne,
-} from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import {
   kubernetesLabels,
   selectorOf,
-} from "akasha/infrastructure/cluster/k8s-types/modules/labels/labels.module.code.ts"
-import { synthNamespaceNetworkPolicyDeploymentService } from "akasha/infrastructure/cluster/k8s-types/modules/manifest-composing/manifest-composing.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
+import { synthNamespaceNetworkPolicyDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
 
 const NAMESPACE = "tailnet-egress"
 const APP_NAME = "tailnet-egress"

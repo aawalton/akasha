@@ -1,8 +1,0 @@
-import type { Domain } from "akasha/domain/domain.page-type.types.ts"
-import type { GeneratedDirectory } from "akasha/infrastructure/cluster/k8s-types/manifest/properties/generated-directory.build-folder-property.types.ts"
-import type { ManifestCode } from "akasha/infrastructure/cluster/k8s-types/manifest/properties/manifest-code.code-file-property.types.ts"
-
-export type Manifest = Domain & {
-  code: ManifestCode
-  generatedDirectory?: GeneratedDirectory
-}

@@ -2,9 +2,9 @@ import {
   type ApiObjectManifest,
   synthMulti,
   synthOne,
-} from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
-import { HOSTNAME_KEY } from "akasha/infrastructure/cluster/k8s-types/modules/hostnames/hostnames.module.code.ts"
-import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/modules/k8s-namespace/k8s-namespace.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { HOSTNAME_KEY } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
+import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import { cnpgClusterYaml } from "akasha/infrastructure/storage/database/postgres-cnpg/modules/cnpg-cluster/cnpg-cluster.module.code.ts"
 import { objectStoreYaml } from "akasha/infrastructure/storage/database/postgres-cnpg/modules/cnpg-object-store/cnpg-object-store.module.code.ts"
 import { scheduledBackupYaml } from "akasha/infrastructure/storage/database/postgres-cnpg/modules/cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts"

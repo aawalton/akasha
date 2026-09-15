@@ -1,22 +1,22 @@
-import { synthOne } from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
-import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-types/modules/hostnames/hostnames.module.code.ts"
-import { webServiceYaml } from "akasha/infrastructure/cluster/k8s-types/modules/k8s-web-service/k8s-web-service.module.code.ts"
-import { synthWebDeploymentService } from "akasha/infrastructure/cluster/k8s-types/modules/manifest-composing/manifest-composing.module.code.ts"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
+import { webServiceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-web-service/k8s-web-service.module.code.ts"
+import { synthWebDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
 import {
   orchestratorCacheChownInitContainer,
   orchestratorCacheInitContainer,
   orchestratorCacheSyncSidecar,
-} from "akasha/infrastructure/cluster/k8s-types/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import {
   orchestratorCacheEntrypointPath,
   orchestratorCacheVolumeMounts,
   orchestratorCacheVolumes,
-} from "akasha/infrastructure/cluster/k8s-types/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
 import {
   ARCHIVE_OF_WORLDS_WEB_CACHE,
   BUN_RUNTIME_IMAGE,
   ORCHESTRATOR_CACHE_REPO_PATH,
-} from "akasha/infrastructure/cluster/k8s-types/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 
 const NAMESPACE = "archive-of-worlds"
 const APP_NAME = "web"
