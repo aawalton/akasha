@@ -2,7 +2,7 @@ import type { CheckModel } from "akasha/check/model/check-model.page-type.types.
 
 export const invariantEarnsItsPlace = {
   id: "01a05a0b-3a49-7d40-9dae-f16b21c7ffe2",
-  type: "check-model",
+  type: "page-type/check-model",
   slug: "invariant-earns-its-place",
   definition: "whether a departure a change writes earns its place",
   modelTests: ["model-test/restatement"],
