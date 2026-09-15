@@ -2,7 +2,7 @@ import type { TemperCompanionWeaponType } from "akasha/temper/catalog/temper-com
 
 export const noType = {
   id: "01a05fcd-ea6f-73bf-b668-ede30ae3533e",
-  type: "temper-companion-weapon-type",
+  type: "page-type/temper-companion-weapon-type",
   slug: "no-type",
   key: "no-type",
   title: "No Weapon",

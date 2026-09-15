@@ -2,7 +2,7 @@ import type { TemperCompanionWeaponType } from "akasha/temper/catalog/temper-com
 
 export const shield = {
   id: "01a05fcd-ea70-706d-82b2-f64fc815bb91",
-  type: "temper-companion-weapon-type",
+  type: "page-type/temper-companion-weapon-type",
   slug: "shield",
   key: "shield",
   title: "Shield",

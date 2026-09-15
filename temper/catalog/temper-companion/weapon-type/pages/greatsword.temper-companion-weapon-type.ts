@@ -2,7 +2,7 @@ import type { TemperCompanionWeaponType } from "akasha/temper/catalog/temper-com
 
 export const greatsword = {
   id: "01a05fcd-ea6e-7bb6-9628-5a72f8697fa5",
-  type: "temper-companion-weapon-type",
+  type: "page-type/temper-companion-weapon-type",
   slug: "greatsword",
   key: "greatsword",
   title: "Greatsword",

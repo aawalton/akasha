@@ -2,7 +2,7 @@ import type { TemperCompanionWeaponType } from "akasha/temper/catalog/temper-com
 
 export const battleaxe = {
   id: "01a05fcd-ea6c-7761-a6b6-2c3c70368794",
-  type: "temper-companion-weapon-type",
+  type: "page-type/temper-companion-weapon-type",
   slug: "battleaxe",
   key: "battleaxe",
   title: "Battleaxe",
