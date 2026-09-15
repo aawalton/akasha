@@ -90,9 +90,15 @@ function landingsIn(change: Change): readonly string[] {
   return held.sort()
 }
 
-export function reachedBy(change: Change, index: Answering): readonly string[] {
+export function reachedBy(change: Change, shadow: Shadow): readonly string[] {
   const seeds = [...change.changed, ...landingsIn(change)]
-  return closureOf(importers, seeds, { index, through: compiled })
+  const found = new Set(closureOf(importers, seeds, { index: shadow.index, through: compiled }))
+  const gone = change.changed.filter((one) => compiled(one) && change.after(one) === null)
+  if (gone.length === 0) return [...found].sort()
+  for (const one of closureOf(importers, gone, { index: shadow.before(), through: compiled })) {
+    found.add(one)
+  }
+  return [...found].sort()
 }
 
 export function reachesTypegen(path: string, text: string): boolean {
@@ -103,9 +109,9 @@ function generatedRoutes(path: string): boolean {
   return path.includes(GENERATED_AT)
 }
 
-export function rootsOf(change: Change, index: Answering): readonly string[] {
+export function rootsOf(change: Change, shadow: Shadow): readonly string[] {
   const found: string[] = []
-  for (const one of reachedBy(change, index)) {
+  for (const one of reachedBy(change, shadow)) {
     const bytes = change.after(one)
     if (bytes === null) continue
     if (generatedRoutes(one)) continue
@@ -281,7 +287,7 @@ export function claimedIn(change: Change, index: Answering): (path: string) => b
 
 async function foundIn(given: Change, shadow: Shadow): Promise<readonly Found[]> {
   const change = holdingOver(given)
-  const reached = rootsOf(change, shadow.index)
+  const reached = rootsOf(change, shadow)
   const orphaned = orphanedIn(change, shadow.index)
   if (reached.length === 0 && orphaned.length === 0) return []
   const claimed = claimedIn(change, shadow.index)

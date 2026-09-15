@@ -282,6 +282,15 @@ export const typecheck = {
       decisionKind: "decision-kind/departure",
       statement: "A diagnostic landing on those types is dropped rather than reported.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file the change takes away is reached from what imported that file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What imported a file the change takes away is read from the index before the change.",
+    },
   ],
   check: { maxCpuSeconds: 300 },
   audit: { maxCpuSeconds: 150 },

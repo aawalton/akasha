@@ -205,6 +205,21 @@ test("a page the change does not carry is read from the tree the change would la
   expect(cast.shadow.pageOf(at)?.["slug"]).toBe("b")
 })
 
+test("a shadow answers the index the change started from as well as the index it leaves", () => {
+  const repo = seeded()
+  const cast = shadowFor(changeOver(repo, [aChange("b.domain.ts", null)]))
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(cast.shadow.index.listedAt("domain", "b")).toEqual([])
+  expect(cast.shadow.before().listedAt("domain", "b")).toHaveLength(1)
+})
+
+test("the index a change started from is worked out at the first ask and held", () => {
+  const repo = seeded()
+  const cast = shadowFor(changeOver(repo, [aChange("b.domain.ts", null)]))
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(cast.shadow.before()).toBe(cast.shadow.before())
+})
+
 test("a body the change only carries elsewhere is at the path it came from", () => {
   const repo = seeded()
   expect(codeOf(shadowFor(carriedOver(repo)))(MOVED_TO)).toBe(CODE_AT)

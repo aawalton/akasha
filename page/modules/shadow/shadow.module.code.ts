@@ -24,6 +24,7 @@ import type { Value } from "akasha/page/modules/value-reading/page-value-reading
 export type Shadow = {
   readonly root: string
   readonly index: Answering
+  readonly before: () => Answering
   readonly filed: () => ReadonlyMap<string, string | null>
   readonly holds: (path: string) => boolean
   readonly listed: (folder?: string) => readonly string[]
@@ -206,9 +207,11 @@ function shadowOver(
   held: Remembered = remembered()
 ): Shadow {
   const pageOf = remembering(bodyOf, held.values)
+  const index = answeringOver(reading, pageOf)
   return {
     root,
-    index: answeringOver(reading, pageOf),
+    index,
+    before: () => index,
     filed: () => new Map(),
     holds: (path) => reading.read(path) !== null,
     listed: listingIn(root, null),
@@ -258,9 +261,15 @@ function castFrom(was: Reading, change: Change, held: Remembered): Cast {
     }
     const left = leftOver(settled.refusedBefore, settled.refused)
     const refusals = (): readonly string[] => left
+    let had: Answering | null = null
+    const before = (): Answering => {
+      if (had === null) had = answeringOver(was, beneath)
+      return had
+    }
     const shadow: Shadow = {
       root: change.root,
       index,
+      before,
       filed,
       holds: (path) => reading.read(path) !== null,
       listed: listingIn(change.root, change),
@@ -325,6 +334,7 @@ export function shadowAsked(change: Change): Shadow {
   return {
     root: change.root,
     index: answeringOver(reading, pageOf),
+    before: () => worked().shadow.before(),
     filed: () => worked().shadow.filed(),
     holds: (path) => reading.read(path) !== null,
     listed: listingIn(change.root, change),

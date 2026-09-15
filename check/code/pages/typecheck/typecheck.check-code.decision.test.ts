@@ -97,7 +97,7 @@ test("a page the change takes away leaves what its page type says loads it uncom
   const gone = change(root, { [LOADED_AT]: null })
   const cast = shadowFor(gone)
   if ("refused" in cast) throw new Error(cast.refused)
-  expect(rootsOf(gone, cast.shadow.index)).toEqual([])
+  expect(rootsOf(gone, cast.shadow)).toEqual([])
   expect(await refusalsOver(gone, cast.shadow)).toEqual([])
 })
 
@@ -322,10 +322,7 @@ test("a shadow asked for a change reaches the importers the change itself reache
   const root = pairing()
   const held = change(root, { "akasha/one.module.ts": "export const one = 2\n" })
   expect(reached(held)).toEqual(["akasha/one.module.ts", "akasha/two.ts"])
-  expect(reachedBy(held, shadowAsked(held).index)).toEqual([
-    "akasha/one.module.ts",
-    "akasha/two.ts",
-  ])
+  expect(reachedBy(held, shadowAsked(held))).toEqual(["akasha/one.module.ts", "akasha/two.ts"])
   expect((await judged(held)).map((one) => one.path)).toEqual(["akasha/two.ts"])
 })
 

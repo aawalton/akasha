@@ -31,7 +31,7 @@ export async function judged(one: Change): Promise<readonly Judged[]> {
 export function reached(one: Change): readonly string[] {
   const cast = shadowFor(one)
   if ("refused" in cast) throw new Error(cast.refused)
-  return reachedBy(one, cast.shadow.index)
+  return reachedBy(one, cast.shadow)
 }
 
 export async function over(

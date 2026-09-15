@@ -279,5 +279,14 @@ export const shadow = {
       decisionKind: "decision-kind/gap",
       statement: "A page the shadow's index names is a page the change answers a body for.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A shadow answers the index the change started from as well as the index it leaves.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The index a change started from is worked out at the first ask and held.",
+    },
   ],
 } as const satisfies Module
