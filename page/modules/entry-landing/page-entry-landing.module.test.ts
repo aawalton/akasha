@@ -11,11 +11,13 @@ import { join } from "node:path"
 import { readBack } from "akasha/page/modules/entries/page-entries.module.test-fixtures.ts"
 import {
   type Filling,
-  landedLinesAt,
   openedAt,
   rolledInto,
 } from "akasha/page/modules/entry-landing/page-entry-landing.module.code.ts"
-import { landedAt } from "akasha/page/modules/entry-landing/page-entry-landing.module.test-fixtures.ts"
+import {
+  landedAt,
+  landedLinesAt,
+} from "akasha/page/modules/entry-landing/page-entry-landing.module.test-fixtures.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"

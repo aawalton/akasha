@@ -104,8 +104,13 @@ export const pageEntryLanding = {
       statement: "Nothing here has a lock against another writer of the same file.",
     },
     {
-      invariantKind: "invariant-kind/absence",
-      statement: "Nothing but this module's own test lands a property's values whole.",
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "Landing a property's values whole is this module's test fixtures rather than code.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "That landing is the oracle an appending writer's rolling is proved against.",
     },
   ],
 } as const satisfies Module

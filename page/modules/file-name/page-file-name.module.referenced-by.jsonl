@@ -205,6 +205,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/beside/page-beside.module.test.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/entries/page-entries.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/entry-landing/page-entry-landing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/entry-landing/page-entry-landing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/entry-writing/page-entry-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/export-name/modules/export-spelling/export-spelling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/file-body/page-file-body.module.code.ts"}
