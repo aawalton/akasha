@@ -2,7 +2,7 @@ import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const shockDamage = {
   id: "01a05fce-2954-76fc-b4b7-83e6b975b207",
-  type: "temper-focus-script",
+  type: "page-type/temper-focus-script",
   slug: "shock-damage",
   title: "Shock Damage",
   key: "shock-damage",

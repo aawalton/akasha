@@ -2,7 +2,7 @@ import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const pull = {
   id: "01a05fce-2954-737d-8009-230ad25c42ac",
-  type: "temper-focus-script",
+  type: "page-type/temper-focus-script",
   slug: "pull",
   title: "Pull",
   key: "pull",

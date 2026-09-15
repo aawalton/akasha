@@ -2,7 +2,7 @@ import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const stun = {
   id: "01a05fce-2955-7763-98fa-53c47538540c",
-  type: "temper-focus-script",
+  type: "page-type/temper-focus-script",
   slug: "stun",
   title: "Stun",
   key: "stun",

@@ -2,7 +2,7 @@ import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const magicDamage = {
   id: "01a05fce-2952-7294-8df6-659bb955a6df",
-  type: "temper-focus-script",
+  type: "page-type/temper-focus-script",
   slug: "magic-damage",
   title: "Magic Damage",
   key: "magic-damage",

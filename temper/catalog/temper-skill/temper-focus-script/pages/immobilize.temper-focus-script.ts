@@ -2,7 +2,7 @@ import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const immobilize = {
   id: "01a05fce-2952-78e9-98d0-98408c0e9369",
-  type: "temper-focus-script",
+  type: "page-type/temper-focus-script",
   slug: "immobilize",
   title: "Immobilize",
   key: "immobilize",
