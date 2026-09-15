@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression009493MonsterSlayer = {
   id: "01a06731-ae12-7008-be0e-ab2f20f78486",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0094-93-monster-slayer",
   title: "93 - Monster Slayer",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

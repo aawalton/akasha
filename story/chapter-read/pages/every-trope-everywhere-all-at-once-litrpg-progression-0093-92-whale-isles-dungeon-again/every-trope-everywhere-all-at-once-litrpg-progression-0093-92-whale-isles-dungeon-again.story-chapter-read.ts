@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression009392WhaleIslesDungeonAgain = {
   id: "01a06731-ae12-7007-976a-55f40f796270",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0093-92-whale-isles-dungeon-again",
   title: "92 - Whale Isle's Dungeon... Again",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

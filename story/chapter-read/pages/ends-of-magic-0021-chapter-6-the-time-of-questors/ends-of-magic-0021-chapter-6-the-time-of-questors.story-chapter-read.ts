@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0021Chapter6TheTimeOfQuestors = {
   id: "01a06731-adce-7000-8b6d-ae4068f54a2e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0021-chapter-6-the-time-of-questors",
   title: "Chapter 6: The Time of Questors",
   story: "story-read/ends-of-magic",

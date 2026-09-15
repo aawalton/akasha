@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression001919DonTLetThemKnow = {
   id: "01a06731-ae0d-7001-b69d-960620028592",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0019-19-don-t-let-them-know",
   title: "19 - Don't Let Them Know",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

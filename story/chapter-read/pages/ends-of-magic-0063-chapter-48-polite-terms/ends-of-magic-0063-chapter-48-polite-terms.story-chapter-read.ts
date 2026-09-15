@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0063Chapter48PoliteTerms = {
   id: "01a06731-adfc-7000-9847-e1cac254d170",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0063-chapter-48-polite-terms",
   title: "Chapter 48: Polite Terms",
   story: "story-read/ends-of-magic",

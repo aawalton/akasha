@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression007776MyMilkshakeBringsAllThe = {
   id: "01a06731-ae11-7006-8677-80380f5e2bfe",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0077-76-my-milkshake-brings-all-the",
   title: "76 - My Milkshake Brings All The...",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

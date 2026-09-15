@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0065Chapter50AShowOfVanity = {
   id: "01a06731-adfe-7000-83d5-43f8027d5b54",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0065-chapter-50-a-show-of-vanity",
   title: "Chapter 50: A Show of Vanity",
   story: "story-read/ends-of-magic",

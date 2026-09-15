@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression006666Hostage = {
   id: "01a06731-ae10-7009-a0b0-ea2a91aca4d6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0066-66-hostage",
   title: "66 - Hostage",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

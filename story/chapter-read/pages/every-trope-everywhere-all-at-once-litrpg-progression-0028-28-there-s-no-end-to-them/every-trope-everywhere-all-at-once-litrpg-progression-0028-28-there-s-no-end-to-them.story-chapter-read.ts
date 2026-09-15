@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression002828ThereSNoEndToThem = {
   id: "01a06731-ae0d-700a-9a72-95f279868d74",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0028-28-there-s-no-end-to-them",
   title: "28 - There’s No End to Them",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

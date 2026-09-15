@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression007978LuckyBreak = {
   id: "01a06731-ae11-7008-aa18-7157933a307b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0079-78-lucky-break",
   title: "78 - Lucky Break",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

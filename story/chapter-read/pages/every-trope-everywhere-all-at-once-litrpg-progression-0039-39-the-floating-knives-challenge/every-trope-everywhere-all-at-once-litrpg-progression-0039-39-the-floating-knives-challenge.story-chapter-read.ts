@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression003939TheFloatingKnivesChallenge = {
   id: "01a06731-ae0e-7008-a7d7-8794eee2d377",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0039-39-the-floating-knives-challenge",
   title: "39 - The Floating Knives' Challenge",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

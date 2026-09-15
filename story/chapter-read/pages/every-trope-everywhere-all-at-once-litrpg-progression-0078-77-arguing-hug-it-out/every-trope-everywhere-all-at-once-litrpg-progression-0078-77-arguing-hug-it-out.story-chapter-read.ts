@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression007877ArguingHugItOut = {
   id: "01a06731-ae11-7007-8da7-4341c4e9aa05",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0078-77-arguing-hug-it-out",
   title: "77 - Arguing? Hug It Out",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

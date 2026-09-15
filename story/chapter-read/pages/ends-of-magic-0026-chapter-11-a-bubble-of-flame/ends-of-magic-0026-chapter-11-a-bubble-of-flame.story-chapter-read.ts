@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0026Chapter11ABubbleOfFlame = {
   id: "01a06731-add2-7000-91c0-29e5178e8a36",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0026-chapter-11-a-bubble-of-flame",
   title: "Chapter 11: A Bubble of Flame",
   story: "story-read/ends-of-magic",

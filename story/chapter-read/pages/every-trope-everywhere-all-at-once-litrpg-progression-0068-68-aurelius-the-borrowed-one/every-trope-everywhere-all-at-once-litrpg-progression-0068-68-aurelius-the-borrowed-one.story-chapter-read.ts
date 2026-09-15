@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression006868AureliusTheBorrowedOne = {
   id: "01a06731-ae10-700b-b774-539ccea95916",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0068-68-aurelius-the-borrowed-one",
   title: "68 - Aurelius, the Borrowed One",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

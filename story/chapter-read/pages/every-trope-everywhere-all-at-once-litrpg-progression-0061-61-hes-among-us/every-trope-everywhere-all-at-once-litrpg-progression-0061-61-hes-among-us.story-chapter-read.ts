@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression006161HesAmongUs = {
   id: "01a06731-ae10-7004-b97d-5c1a0a12e552",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0061-61-hes-among-us",
   title: "61 - He's Among Us",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

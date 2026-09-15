@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression008382CorrectingTheMentor = {
   id: "01a06731-ae11-700c-ba22-48892bf54dd2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0083-82-correcting-the-mentor",
   title: "82 - Correcting the Mentor",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

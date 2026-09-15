@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0016Chapter1ALightAndFriendlyChat = {
   id: "01a06731-adc7-7002-b4eb-49e5ad0abdf3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0016-chapter-1-a-light-and-friendly-chat",
   title: "Chapter 1: A Light and Friendly Chat",
   story: "story-read/ends-of-magic",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression005151ItIsnTOver = {
   id: "01a06731-ae0f-7009-877b-6cd20a08dc95",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0051-51-it-isn-t-over",
   title: "51 - It isn't Over",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

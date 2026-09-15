@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0081Chapter66ReignOfJustice = {
   id: "01a06731-ae0e-7000-9422-f982a9b10f6c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0081-chapter-66-reign-of-justice",
   title: "Chapter 66: Reign of Justice",
   story: "story-read/ends-of-magic",

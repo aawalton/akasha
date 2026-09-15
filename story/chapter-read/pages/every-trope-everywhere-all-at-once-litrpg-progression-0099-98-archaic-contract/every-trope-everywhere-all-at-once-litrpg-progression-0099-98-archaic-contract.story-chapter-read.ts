@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression009998ArchaicContract = {
   id: "01a06743-b3b0-7004-8d99-fb247dc49e73",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0099-98-archaic-contract",
   title: "98 - Archaic Contract",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

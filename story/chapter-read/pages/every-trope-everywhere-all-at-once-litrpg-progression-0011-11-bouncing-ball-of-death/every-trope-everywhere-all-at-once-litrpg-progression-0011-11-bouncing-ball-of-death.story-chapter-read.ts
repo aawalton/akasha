@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression001111BouncingBallOfDeath = {
   id: "01a06731-ae0c-7000-b5a7-65a7da9ac8c1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0011-11-bouncing-ball-of-death",
   title: "11 - Bouncing Ball of Death",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression006767TheMentor = {
   id: "01a06731-ae10-700a-b7b2-17afe635d779",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0067-67-the-mentor",
   title: "67 - The Mentor",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

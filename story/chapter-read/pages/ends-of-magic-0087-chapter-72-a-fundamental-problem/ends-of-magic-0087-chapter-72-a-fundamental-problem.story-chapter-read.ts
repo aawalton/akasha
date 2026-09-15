@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0087Chapter72AFundamentalProblem = {
   id: "01a06731-ae13-7000-8416-d5b50b4b27ff",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0087-chapter-72-a-fundamental-problem",
   title: "Chapter 72: A Fundamental Problem",
   story: "story-read/ends-of-magic",

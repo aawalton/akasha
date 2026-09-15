@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression009089TheUltimateFlexOff = {
   id: "01a06731-ae12-7004-8ba3-bf71faaa7288",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0090-89-the-ultimate-flex-off",
   title: "89 - The Ultimate Flex Off",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

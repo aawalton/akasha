@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0083Chapter68TyrantSFall = {
   id: "01a06731-ae0f-7001-8648-882888e6b956",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0083-chapter-68-tyrant-s-fall",
   title: "Chapter 68: Tyrant’s Fall",
   story: "story-read/ends-of-magic",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression009594Quack = {
   id: "01a06743-b3b0-7000-8699-a07591cb8db5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0095-94-quack",
   title: "94 - Quack",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression006262TenRings = {
   id: "01a06731-ae10-7005-ba5c-1768e77df99c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0062-62-ten-rings",
   title: "62 - Ten Rings",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

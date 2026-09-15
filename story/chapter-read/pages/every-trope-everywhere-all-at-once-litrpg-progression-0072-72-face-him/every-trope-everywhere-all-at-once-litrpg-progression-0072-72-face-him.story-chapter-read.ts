@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression007272FaceHim = {
   id: "01a06731-ae11-7001-a552-5fdeb571ed9d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0072-72-face-him",
   title: "72 - Face Him",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

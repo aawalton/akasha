@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression0108107TheProtagonistsSecrets = {
   id: "01a090ca-1b0a-7fd2-991a-772fe0176f36",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0108-107-the-protagonists-secrets",
   position: 108,
   publishedAt: "2026-09-11",

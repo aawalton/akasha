@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression009897Galmeth = {
   id: "01a06743-b3b0-7003-980c-bb91d5a08deb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0098-97-galmeth",
   title: "97 - Gal'Meth",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

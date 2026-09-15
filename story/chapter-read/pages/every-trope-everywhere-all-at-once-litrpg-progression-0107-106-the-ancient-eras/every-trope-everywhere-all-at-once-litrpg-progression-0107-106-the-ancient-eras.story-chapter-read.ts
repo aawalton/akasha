@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression0107106TheAncientEras = {
   id: "01a090ca-19be-76c5-b5e5-321609014030",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0107-106-the-ancient-eras",
   position: 107,
   publishedAt: "2026-09-11",

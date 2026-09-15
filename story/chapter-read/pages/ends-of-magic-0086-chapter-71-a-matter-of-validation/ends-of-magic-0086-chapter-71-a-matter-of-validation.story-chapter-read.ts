@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0086Chapter71AMatterOfValidation = {
   id: "01a06731-ae11-7000-9af1-5c533aa2e0ea",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0086-chapter-71-a-matter-of-validation",
   title: "Chapter 71: A Matter of Validation",
   story: "story-read/ends-of-magic",

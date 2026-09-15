@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0041Chapter26ALongDistanceChase = {
   id: "01a06731-addf-7000-9f63-4ec98fbf3177",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0041-chapter-26-a-long-distance-chase",
   title: "Chapter 26: A long-distance chase",
   story: "story-read/ends-of-magic",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression010099ARealmOfSouls = {
   id: "01a07252-32ec-7047-add3-853e744feccf",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0100-99-a-realm-of-souls",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 100,

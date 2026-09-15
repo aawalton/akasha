@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression001818WelcomeToTheSkycurrentFestival = {
   id: "01a06731-ae0d-7000-bcb8-bd1d24ffcd30",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0018-18-welcome-to-the-skycurrent-festival",
   title: "18 - Welcome to the Skycurrent Festival",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

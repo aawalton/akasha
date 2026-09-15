@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0022Chapter7ADutifulDeparture = {
   id: "01a06731-adce-7001-9310-568e3878213e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0022-chapter-7-a-dutiful-departure",
   title: "Chapter 7: A Dutiful Departure",
   story: "story-read/ends-of-magic",

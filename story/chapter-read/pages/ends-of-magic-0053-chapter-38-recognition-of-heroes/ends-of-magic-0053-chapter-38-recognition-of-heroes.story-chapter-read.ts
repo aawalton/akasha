@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0053Chapter38RecognitionOfHeroes = {
   id: "01a06731-adee-7000-a85c-39e815669dcc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0053-chapter-38-recognition-of-heroes",
   title: "Chapter 38: Recognition of Heroes",
   story: "story-read/ends-of-magic",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression004646JustAPinch = {
   id: "01a06731-ae0f-7004-9b39-4d6fcea663af",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0046-46-just-a-pinch",
   title: "46 - Just a Pinch!",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

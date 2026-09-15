@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0066Chapter51AMeetingOfPowers = {
   id: "01a06731-adff-7000-8005-b058514257c0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0066-chapter-51-a-meeting-of-powers",
   title: "Chapter 51: A Meeting of Powers",
   story: "story-read/ends-of-magic",

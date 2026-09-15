@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0031Chapter16SpringingTheTrap = {
   id: "01a06731-add9-7000-8be4-4ad5d86745eb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0031-chapter-16-springing-the-trap",
   title: "Chapter 16: Springing the Trap",
   story: "story-read/ends-of-magic",

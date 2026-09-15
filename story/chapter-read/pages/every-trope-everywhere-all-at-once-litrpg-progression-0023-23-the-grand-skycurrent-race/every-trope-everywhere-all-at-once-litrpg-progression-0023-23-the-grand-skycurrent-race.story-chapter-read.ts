@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression002323TheGrandSkycurrentRace = {
   id: "01a06731-ae0d-7005-89d0-4c5d486dbc7f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0023-23-the-grand-skycurrent-race",
   title: "23 - The Grand Skycurrent Race",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

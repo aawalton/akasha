@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression002727TheSuspiciouslyEmptySky = {
   id: "01a06731-ae0d-7009-8594-8ab4a982c486",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0027-27-the-suspiciously-empty-sky",
   title: "27 - The Suspiciously Empty Sky",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

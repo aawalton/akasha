@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression005959MissingArm = {
   id: "01a06731-ae10-7002-b5f5-0c39363bc9af",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0059-59-missing-arm",
   title: "59 - Missing Arm",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0023Chapter8CalmSeas = {
   id: "01a06731-add0-7000-835e-5a2755ec620b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0023-chapter-8-calm-seas",
   title: "Chapter 8: Calm Seas",
   story: "story-read/ends-of-magic",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression002424VictorsOfTheRace = {
   id: "01a06731-ae0d-7006-bd4f-6f6f36c4d1b9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0024-24-victors-of-the-race",
   title: "24 - Victors of the Race",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

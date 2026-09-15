@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression002525DrunkenFestival = {
   id: "01a06731-ae0d-7007-89b9-4f48c6488178",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0025-25-drunken-festival",
   title: "25 - Drunken Festival",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

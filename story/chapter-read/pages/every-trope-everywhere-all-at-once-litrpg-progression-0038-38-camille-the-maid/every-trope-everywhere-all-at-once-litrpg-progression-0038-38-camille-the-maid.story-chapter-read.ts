@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression003838CamilleTheMaid = {
   id: "01a06731-ae0e-7007-b996-175ee31266f5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0038-38-camille-the-maid",
   title: "38 - Camille the Maid",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

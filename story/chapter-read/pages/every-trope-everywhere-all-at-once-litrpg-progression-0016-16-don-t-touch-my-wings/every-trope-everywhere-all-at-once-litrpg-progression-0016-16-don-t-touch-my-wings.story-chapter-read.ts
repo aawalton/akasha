@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression001616DonTTouchMyWings = {
   id: "01a06731-ae0c-7005-b00a-abbe870733ad",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0016-16-don-t-touch-my-wings",
   title: "16 - Don't Touch My Wings!",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

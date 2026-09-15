@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression006464WhatDidYouTellHim = {
   id: "01a06731-ae10-7007-a65c-25065492422b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0064-64-what-did-you-tell-him",
   title: "64 - What Did You Tell Him?",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

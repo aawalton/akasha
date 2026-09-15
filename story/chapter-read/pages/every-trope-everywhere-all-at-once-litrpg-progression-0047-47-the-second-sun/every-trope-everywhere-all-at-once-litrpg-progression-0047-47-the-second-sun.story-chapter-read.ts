@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression004747TheSecondSun = {
   id: "01a06731-ae0f-7005-90d5-fc4ea9dab212",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0047-47-the-second-sun",
   title: "47 - The Second Sun",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

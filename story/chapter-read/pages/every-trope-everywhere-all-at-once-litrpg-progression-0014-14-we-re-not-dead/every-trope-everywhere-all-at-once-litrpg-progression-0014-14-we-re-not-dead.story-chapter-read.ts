@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression001414WeReNotDead = {
   id: "01a06731-ae0c-7003-ad5c-065fe0b49b47",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0014-14-we-re-not-dead",
   title: "14 - We're Not Dead",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

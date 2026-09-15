@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0074Chapter59DawnSConcord = {
   id: "01a06731-ae0a-7000-b93a-87e881c1d87f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0074-chapter-59-dawn-s-concord",
   title: "Chapter 59: Dawn’s Concord",
   story: "story-read/ends-of-magic",

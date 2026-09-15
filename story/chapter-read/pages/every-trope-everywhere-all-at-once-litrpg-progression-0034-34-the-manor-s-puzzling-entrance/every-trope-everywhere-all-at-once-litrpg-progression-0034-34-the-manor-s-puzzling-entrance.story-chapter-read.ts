@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression003434TheManorSPuzzlingEntrance = {
   id: "01a06731-ae0e-7003-958f-b4f897ad728c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0034-34-the-manor-s-puzzling-entrance",
   title: "34 - The Manor's Puzzling Entrance",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

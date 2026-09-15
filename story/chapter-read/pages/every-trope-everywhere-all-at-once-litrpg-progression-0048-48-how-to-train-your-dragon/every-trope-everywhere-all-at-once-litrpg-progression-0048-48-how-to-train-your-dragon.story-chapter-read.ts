@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression004848HowToTrainYourDragon = {
   id: "01a06731-ae0f-7006-9de0-5f20edfc0162",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0048-48-how-to-train-your-dragon",
   title: "48 - How to Train Your Dragon",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression001717ThereSOnlyOneBed = {
   id: "01a06731-ae0c-7006-81b0-416627d80f75",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0017-17-there-s-only-one-bed",
   title: "17 - There's Only One Bed",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

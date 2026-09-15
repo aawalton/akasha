@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0051Chapter36HeartsOfDarkness = {
   id: "01a06731-aded-7000-948a-3e5591576de2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0051-chapter-36-hearts-of-darkness",
   title: "Chapter 36: Hearts of Darkness",
   story: "story-read/ends-of-magic",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression005353TheShackledGiant = {
   id: "01a06731-ae0f-700b-82f8-d082e1687a35",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0053-53-the-shackled-giant",
   title: "53 - The Shackled Giant",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

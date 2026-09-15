@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression00022TheBossThatShouldVeKilledMe = {
   id: "01a06731-ae07-7001-9034-808396e65cd7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0002-2-the-boss-that-should-ve-killed-me",
   title: "2 - The Boss That Should’ve Killed Me",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

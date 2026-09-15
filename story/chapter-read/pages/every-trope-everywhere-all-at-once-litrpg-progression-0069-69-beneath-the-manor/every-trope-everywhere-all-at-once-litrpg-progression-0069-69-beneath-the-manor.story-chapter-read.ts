@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression006969BeneathTheManor = {
   id: "01a06731-ae10-700c-996c-efb8d57da28e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0069-69-beneath-the-manor",
   title: "69 - Beneath the Manor",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

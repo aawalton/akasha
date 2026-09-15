@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0008Book2PrologueAMeetingMostMonotonous = {
   id: "01a06731-adc3-7000-b45a-ca599fd4ada2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0008-book-2-prologue-a-meeting-most-monotonous",
   title: "Book 2 Prologue: A meeting most monotonous ",
   story: "story-read/ends-of-magic",

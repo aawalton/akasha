@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0017Chapter2ManifestDecisions = {
   id: "01a06731-adca-7000-abfb-81781641cea5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0017-chapter-2-manifest-decisions",
   title: "Chapter 2: Manifest Decisions",
   story: "story-read/ends-of-magic",

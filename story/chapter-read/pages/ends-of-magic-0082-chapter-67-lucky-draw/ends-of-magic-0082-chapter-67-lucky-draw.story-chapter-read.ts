@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0082Chapter67LuckyDraw = {
   id: "01a06731-ae0f-7000-9872-929cb3e5c561",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0082-chapter-67-lucky-draw",
   title: "Chapter 67: Lucky Draw",
   story: "story-read/ends-of-magic",

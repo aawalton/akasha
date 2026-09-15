@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0018Chapter3AncientInsights = {
   id: "01a06731-adca-7001-bac4-f833a131fe30",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0018-chapter-3-ancient-insights",
   title: "Chapter 3: Ancient Insights",
   story: "story-read/ends-of-magic",

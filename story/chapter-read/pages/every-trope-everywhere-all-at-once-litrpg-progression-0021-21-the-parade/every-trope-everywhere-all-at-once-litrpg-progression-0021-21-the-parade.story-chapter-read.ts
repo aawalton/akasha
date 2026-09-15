@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression002121TheParade = {
   id: "01a06731-ae0d-7003-9031-836925e151c2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0021-21-the-parade",
   title: "21 - The Parade",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression007574Paradox = {
   id: "01a06731-ae11-7004-bd64-f1895c1f68a7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0075-74-paradox",
   title: "74 - Paradox",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

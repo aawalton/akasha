@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression00011UnfortunatelyIMTheProtagonist = {
   id: "01a06731-ae07-7000-9b65-e4c106c8e825",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0001-1-unfortunately-i-m-the-protagonist",
   title: "1 - Unfortunately, I'm the Protagonist",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

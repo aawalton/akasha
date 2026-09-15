@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression008079CantSleepEither = {
   id: "01a06731-ae11-7009-9300-0fe628122800",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0080-79-cant-sleep-either",
   title: "79 - Can't Sleep Either?",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

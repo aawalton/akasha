@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression003737TheManorSStoneAngels = {
   id: "01a06731-ae0e-7006-8e0d-2e2258274a82",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0037-37-the-manor-s-stone-angels",
   title: "37 - The Manor's Stone Angels",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

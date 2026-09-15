@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression008180ItsHaunted = {
   id: "01a06731-ae11-700a-a328-9594292f9374",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0081-80-its-haunted",
   title: "80 - It's Haunted",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

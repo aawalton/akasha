@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0054Chapter39IntroductionsToQuestorPolitics = {
   id: "01a06731-adef-7000-b7f4-7a4fe56d9065",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0054-chapter-39-introductions-to-questor-politics",
   title: "Chapter 39: Introductions to Questor Politics",
   story: "story-read/ends-of-magic",

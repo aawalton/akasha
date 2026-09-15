@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression003333DuelOfTheAspiringMagicKnights = {
   id: "01a06731-ae0e-7002-a2ad-9973c6a76b7b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0033-33-duel-of-the-aspiring-magic-knights",
   title: "33 - Duel of the Aspiring Magic Knights",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

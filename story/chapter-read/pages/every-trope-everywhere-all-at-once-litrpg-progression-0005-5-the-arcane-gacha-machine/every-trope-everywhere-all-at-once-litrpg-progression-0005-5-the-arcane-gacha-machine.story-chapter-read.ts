@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression00055TheArcaneGachaMachine = {
   id: "01a06731-ae09-7002-a74c-869488f7515d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0005-5-the-arcane-gacha-machine",
   title: "5 - The Arcane Gacha Machine",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

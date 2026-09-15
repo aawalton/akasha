@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0011BookFourEpilogueTheFallOfAGiant = {
   id: "01a06731-adc3-7003-a0a3-9da81e738382",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0011-book-four-epilogue-the-fall-of-a-giant",
   title: "Book Four Epilogue: The Fall of a Giant",
   story: "story-read/ends-of-magic",

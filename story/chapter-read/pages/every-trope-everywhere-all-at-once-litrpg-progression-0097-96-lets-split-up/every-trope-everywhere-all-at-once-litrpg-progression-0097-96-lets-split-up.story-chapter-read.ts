@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression009796LetsSplitUp = {
   id: "01a06743-b3b0-7002-92ef-8cad3634f4b9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0097-96-lets-split-up",
   title: "96 - Let's Split Up",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",

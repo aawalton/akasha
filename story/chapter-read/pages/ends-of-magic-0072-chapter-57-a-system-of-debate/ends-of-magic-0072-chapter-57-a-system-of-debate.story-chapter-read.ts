@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0072Chapter57ASystemOfDebate = {
   id: "01a06731-ae06-7000-b00b-3b9b401861c8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0072-chapter-57-a-system-of-debate",
   title: "Chapter 57: A System of Debate ",
   story: "story-read/ends-of-magic",

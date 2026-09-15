@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const endsOfMagic0030Chapter15VaultOfAdamant = {
   id: "01a06731-add8-7001-b814-79f097af3f07",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0030-chapter-15-vault-of-adamant",
   title: "Chapter 15: Vault of Adamant",
   story: "story-read/ends-of-magic",

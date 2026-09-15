@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression005656SilasAndCael = {
   id: "01a06731-ae0f-700e-b33c-dafc2a7691b9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0056-56-silas-and-cael",
   title: "56 - Silas and Cael",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
