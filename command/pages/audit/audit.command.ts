@@ -41,19 +41,19 @@ export const audit = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A run naming no check asks the audit service for a round.",
+      statement: "Every run asks the audit service for a round.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A run naming checks judges those checks in the calling process.",
+      statement: "A run naming checks asks the audit service for those checks and no others.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "No run judges a check in the calling process.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A run judging in the calling process asks the audit service for nothing.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A run judging in the calling process writes no verdict.",
+      statement: "A check a round underway answers is waited for rather than asked for again.",
     },
     {
       invariantKind: "invariant-kind/absence",

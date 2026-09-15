@@ -173,6 +173,5 @@
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/modules/router-app-code/router-app-code.module.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/test/fixture/bodying/bodying.test-fixture.code.ts"}
-{"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"command/pages/audit/audit.command.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.test-fixtures.ts","path":"check/modules/change-walking/change-walking.module.test.ts"}
 {"propertySlug":"parts","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}
