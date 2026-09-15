@@ -12,7 +12,6 @@ export const index = {
     "index/index-edge",
     "index/index-rule",
     "index/index-shapes",
-    "index/index-value",
     "module/beside-turning",
     "module/extension-carrying",
     "module/file-appending",

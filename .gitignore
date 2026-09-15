@@ -18,7 +18,6 @@
 .index/import/
 .index/rule/
 .index/shapes/
-.index/value/
 
 # Installed dependencies and compiled output.
 node_modules/
