@@ -98,7 +98,7 @@ const NAMESPACE_TYPE = "01a06c7c-54b5-712b-b4a2-9ada10279dff"
 
 const INTENT_GROUP = "01a04e11-9f98-71e8-b821-77545c6be68e"
 
-const INVARIANT_GROUP = "invariant-group"
+const DECISION_GROUP = "decision-group"
 
 const CODE = "code"
 
@@ -220,7 +220,7 @@ function rulesAbove(levels: Levels, above: readonly Level[]): readonly string[] 
 function notYetIn(root: string): ReadonlySet<string> {
   const found = new Set<string>()
   if (!indexThere(root)) return found
-  for (const id of idsNaming(root, INTENT_GROUP, INVARIANT_GROUP)) {
+  for (const id of idsNaming(root, INTENT_GROUP, DECISION_GROUP)) {
     const slug = typeSlugById(root, id)
     if (slug !== null) found.add(slug)
   }
