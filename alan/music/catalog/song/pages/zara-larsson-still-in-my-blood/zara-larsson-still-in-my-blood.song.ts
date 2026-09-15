@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonStillInMyBlood = {
   id: "019ea49e-aced-7fff-ab52-fcf41bfc56d6",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-still-in-my-blood",
   title: "Still in My Blood",
   artist: "artist/zara-larsson",

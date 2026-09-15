@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonSheSNotMePt1 = {
   id: "019ea4a0-ffbe-7702-9155-78a8046f46f1",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-she-s-not-me-pt-1",
   title: "She's Not Me, Pt. 1",
   artist: "artist/zara-larsson",

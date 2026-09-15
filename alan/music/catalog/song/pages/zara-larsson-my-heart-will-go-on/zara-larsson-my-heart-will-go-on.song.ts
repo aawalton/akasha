@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonMyHeartWillGoOn = {
   id: "019ea4a0-0eb9-716c-88a7-cecc663ecf98",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-my-heart-will-go-on",
   title: "My Heart Will Go On",
   artist: "artist/zara-larsson",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonWannaBeYourBaby = {
   id: "019ea49f-f4e9-7444-a79f-da86ca60ca16",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-wanna-be-your-baby",
   title: "Wanna Be Your Baby",
   artist: "artist/zara-larsson",

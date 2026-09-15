@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonSagMigVarDuStar = {
   id: "019ea49d-a8e6-7df8-9475-aaaa6fde54f4",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-sag-mig-var-du-star",
   title: "Säg mig var du står",
   artist: "artist/zara-larsson",

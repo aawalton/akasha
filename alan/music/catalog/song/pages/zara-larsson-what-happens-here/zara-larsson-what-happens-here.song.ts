@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonWhatHappensHere = {
   id: "019ea4a0-5996-70f5-94ae-f45bceb398d7",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-what-happens-here",
   title: "What Happens Here",
   artist: "artist/zara-larsson",

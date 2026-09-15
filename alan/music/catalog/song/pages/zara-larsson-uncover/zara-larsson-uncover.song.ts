@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonUncover = {
   id: "019ea4a0-9393-7691-86c8-666e812c8df8",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-uncover",
   title: "Uncover",
   artist: "artist/zara-larsson",

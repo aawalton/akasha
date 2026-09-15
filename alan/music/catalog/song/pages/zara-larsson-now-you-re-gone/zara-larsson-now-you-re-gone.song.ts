@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonNowYouReGone = {
   id: "019ea49f-cffd-72e7-9f1e-eb5c277aa85a",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-now-you-re-gone",
   title: "Now You’re Gone",
   artist: "artist/zara-larsson",
