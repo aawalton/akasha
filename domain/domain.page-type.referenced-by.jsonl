@@ -571,7 +571,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/companions-ui/temper-companions-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/completion-import/temper-completion-import.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/completion/temper-completion.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/dungeon-champions/temper-dungeon-champions.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/dungeon-champion/temper-dungeon-champion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/dungeons/temper-dungeons.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/equipment-kinds/temper-equipment-kinds.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/equipment/temper-equipment.domain.ts"}

@@ -1,0 +1,48 @@
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+
+export const temperDungeonChampion = {
+  id: "01a060f9-bab9-7763-8ceb-8977b0b205de",
+  type: "domain",
+  slug: "temper-dungeon-champion",
+  definition: "the group bosses of the public dungeons and delves of Tamriel, drawn on the map",
+  parts: [
+    "module/dungeon-champion-achievement-ids",
+    "module/dungeon-champion-colors",
+    "module/dungeon-champion-defaults",
+    "module/dungeon-champion-global",
+    "module/dungeon-champion-labels",
+    "module/dungeon-champion-lookup",
+    "module/dungeon-champion-map-zone",
+    "module/dungeon-champion-names",
+    "module/dungeon-champion-pin-register",
+    "module/dungeon-champion-pin-textures",
+    "module/dungeon-champion-pins",
+    "module/dungeon-champion-places",
+    "module/dungeon-champion-places-00",
+    "module/dungeon-champion-places-01",
+    "module/dungeon-champion-saved-vars",
+    "module/dungeon-champion-settings",
+    "module/dungeon-champion-slash",
+    "module/dungeon-champion-start",
+    "type-declaration/dungeon-champion-global-declarations",
+    "type-declaration/dungeon-champion-saved-vars-declarations",
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A champion is found by position rather than by name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a champion is killed is asked of the game each time a pin is drawn.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Nothing here reaches a Date.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The labels here are English alone.",
+    },
+  ],
+} as const satisfies Domain

@@ -90,8 +90,8 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/crafting-addon/writ-mark-decl-writ-worthy/writ-mark-decl-writ-worthy.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/dungeon-champions/dungeon-champion-global-declarations/dungeon-champion-global-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/dungeon-champions/dungeon-champion-saved-vars-declarations/dungeon-champion-saved-vars-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/dungeon-champion/dungeon-champion-global-declarations/dungeon-champion-global-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/dungeon-champion/dungeon-champion-saved-vars-declarations/dungeon-champion-saved-vars-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso-types/eso-addon-list/eso-addon-list.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso-types/eso-addon-manager/eso-addon-manager.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso-types/eso-addon-screen/eso-addon-screen.type-declaration.ts"}

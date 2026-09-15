@@ -52,7 +52,7 @@ export const temper = {
     "domain/temper-companions-ui",
     "domain/temper-completion",
     "domain/temper-completion-import",
-    "domain/temper-dungeon-champions",
+    "domain/temper-dungeon-champion",
     "domain/temper-dungeons",
     "domain/temper-equipment",
     "domain/temper-equipment-kinds",
