@@ -22,7 +22,7 @@ import {
 } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { reachesIn } from "akasha/code/workspace/modules/package-manifest/package-manifest.module.code.ts"
 import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
-import { importers } from "akasha/graph/predicate/pages/importers.graph-predicate.ts"
+import { importers } from "akasha/graph/predicate/pages/importers/importers.graph-predicate.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { waitingKeys } from "akasha/page/index/modules/generated-properties/generated-properties.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"

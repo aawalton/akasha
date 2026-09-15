@@ -4,7 +4,7 @@ import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.modul
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
-import { imports } from "akasha/graph/predicate/pages/imports.graph-predicate.ts"
+import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"

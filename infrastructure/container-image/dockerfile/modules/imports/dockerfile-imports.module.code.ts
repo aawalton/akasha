@@ -1,7 +1,7 @@
 import { existsSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
-import { imports } from "akasha/graph/predicate/pages/imports.graph-predicate.ts"
+import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
 import { bodiesAt } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"

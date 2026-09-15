@@ -8,7 +8,7 @@ import {
   spelledFrom,
 } from "akasha/code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"
 import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
-import { imports } from "akasha/graph/predicate/pages/imports.graph-predicate.ts"
+import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 

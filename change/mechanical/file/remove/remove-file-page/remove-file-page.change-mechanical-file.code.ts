@@ -15,7 +15,7 @@ import {
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { valueRemoved } from "akasha/change/modules/value-removing/value-removing.module.code.ts"
 import { takenIn } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
-import { importers } from "akasha/graph/predicate/pages/importers.graph-predicate.ts"
+import { importers } from "akasha/graph/predicate/pages/importers/importers.graph-predicate.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Named } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 

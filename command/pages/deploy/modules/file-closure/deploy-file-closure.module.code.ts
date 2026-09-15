@@ -9,7 +9,7 @@ import {
 import { bodyAt as bodyInCommit } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
-import { imports } from "akasha/graph/predicate/pages/imports.graph-predicate.ts"
+import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
 import { deployableNamed } from "akasha/infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"
 import { runnerCodeIn } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"

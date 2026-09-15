@@ -22,8 +22,8 @@ import {
   closureOf,
   takenIn,
 } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
-import { importers } from "akasha/graph/predicate/pages/importers.graph-predicate.ts"
-import { imports } from "akasha/graph/predicate/pages/imports.graph-predicate.ts"
+import { importers } from "akasha/graph/predicate/pages/importers/importers.graph-predicate.ts"
+import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
 import { readingLaidOver } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowOnto } from "akasha/page/modules/shadow/shadow.module.code.ts"
