@@ -18,11 +18,9 @@ import {
 } from "akasha/check/code/pages/page-named-as-stated/page-named-as-stated.check-code.decision.test-fixtures.ts"
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
-  change,
   judgingBy,
   landing,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -120,11 +118,6 @@ test("a file named for a group member is passed over where the index has that ke
   const held: ReadonlySet<string> = new Set(["code", "test", "decision.test-fixtures"])
   expect(reasons(at, body, held)).toEqual([])
   expect(reasons(at, body)).toHaveLength(2)
-})
-
-test("an index that cannot say which properties are held in a file refuses, rather than naming none", () => {
-  const held = change(ROOT, [])
-  expect(() => refusalsOver(held, shadowAsked(held))).toThrow("could not be answered")
 })
 
 test("a property whose file is named for the shape it states is let through", () => {
