@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const mirage = {
   id: "019e6245-a6d0-7870-a468-414df82770c1",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "mirage",
   title: "Mirage",
   key: "mirage",

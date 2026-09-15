@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const martialTraining = {
   id: "019e624a-12d1-7e8f-818d-4fed83f345ae",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "martial-training",
   title: "Martial Training",
   key: "martial-training",

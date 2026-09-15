@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const potencyImprovement = {
   id: "019e6224-cca9-71b1-80bb-f053cd78adce",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "potency-improvement",
   title: "Potency Improvement",
   key: "potency-improvement",

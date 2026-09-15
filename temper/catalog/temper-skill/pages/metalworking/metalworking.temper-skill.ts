@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const metalworking = {
   id: "019e6224-cca5-771c-ab95-143208d7cbac",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "metalworking",
   title: "Metalworking",
   key: "metalworking",

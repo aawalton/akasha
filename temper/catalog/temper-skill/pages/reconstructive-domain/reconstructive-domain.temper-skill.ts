@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const reconstructiveDomain = {
   id: "019e6245-a701-7078-a5d8-a363f96d4381",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "reconstructive-domain",
   title: "Reconstructive Domain",
   key: "reconstructive-domain",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const proximityDetonation61500 = {
   id: "019e6f53-a552-7092-a00d-9c2fcabcd5a8",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "proximity-detonation-61500",
   title: "Proximity Detonation",
   key: "proximity-detonation-61500",

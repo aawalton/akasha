@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const maturation85880 = {
   id: "019e6f53-a466-7f0e-aea0-25c290ac524c",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "maturation-85880",
   title: "Maturation",
   key: "maturation-85880",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const metalExtraction = {
   id: "019e6224-cca3-7a12-a2d2-e4db0a2d411d",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "metal-extraction",
   title: "Metal Extraction",
   key: "metal-extraction",

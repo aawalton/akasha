@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const precognition = {
   id: "019e6238-c2f8-7e29-974e-c074c6f686ac",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "precognition",
   title: "Precognition",
   key: "precognition",

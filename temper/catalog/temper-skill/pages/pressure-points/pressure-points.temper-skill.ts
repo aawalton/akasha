@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const pressurePoints = {
   id: "019e6245-a6ef-7e0f-b101-e8d5a095fc75",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "pressure-points",
   title: "Pressure Points",
   key: "pressure-points",

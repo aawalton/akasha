@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const powerOfTheLight = {
   id: "019e6245-a6e9-7650-bc32-b831103350b6",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "power-of-the-light",
   title: "Power of the Light",
   key: "power-of-the-light",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const polarWind86152 = {
   id: "019e6f53-a519-7ad8-8f92-ad515d504842",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "polar-wind-86152",
   title: "Polar Wind",
   key: "polar-wind-86152",

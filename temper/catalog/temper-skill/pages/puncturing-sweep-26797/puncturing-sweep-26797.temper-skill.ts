@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const puncturingSweep26797 = {
   id: "019e6f53-a564-7604-bc31-0edd67e9b314",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "puncturing-sweep-26797",
   title: "Puncturing Sweep",
   key: "puncturing-sweep-26797",

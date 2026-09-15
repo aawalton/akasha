@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const purge = {
   id: "019e6f53-a565-7dc1-a28f-43efe1910a7a",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "purge",
   title: "Purge",
   key: "purge",

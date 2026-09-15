@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const onslaught83229 = {
   id: "019e6f53-a4ce-74c2-8dbf-bad28baabd8d",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "onslaught-83229",
   title: "Onslaught",
   key: "onslaught-83229",

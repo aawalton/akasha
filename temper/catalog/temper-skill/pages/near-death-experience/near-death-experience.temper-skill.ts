@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const nearDeathExperience = {
   id: "019e6245-a6d9-737b-9e20-cde41534d2b2",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "near-death-experience",
   title: "Near-Death Experience",
   key: "near-death-experience",

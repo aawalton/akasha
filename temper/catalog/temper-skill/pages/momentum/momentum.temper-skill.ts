@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const momentum = {
   id: "019e6f53-a497-7626-b486-5f24cb3abb2b",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "momentum",
   title: "Momentum",
   key: "momentum",

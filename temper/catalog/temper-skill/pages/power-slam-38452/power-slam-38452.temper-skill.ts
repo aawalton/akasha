@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const powerSlam38452 = {
   id: "019e6f53-a52e-75f9-9ae4-ebe16abe7ee8",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "power-slam-38452",
   title: "Power Slam",
   key: "power-slam-38452",

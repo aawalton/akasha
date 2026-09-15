@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const necroticPotency = {
   id: "019e6245-a6da-755e-b740-75d4663f5624",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "necrotic-potency",
   title: "Necrotic Potency",
   key: "necrotic-potency",

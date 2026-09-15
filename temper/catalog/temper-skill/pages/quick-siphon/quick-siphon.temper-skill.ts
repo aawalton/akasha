@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const quickSiphon = {
   id: "019e6226-0106-76e9-9869-6e4a7951614d",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "quick-siphon",
   title: "Quick Siphon",
   key: "quick-siphon",

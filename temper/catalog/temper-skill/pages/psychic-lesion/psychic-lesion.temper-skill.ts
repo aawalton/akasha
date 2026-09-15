@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const psychicLesion = {
   id: "019e6245-a6f3-72fc-8dce-37e62a3e03f8",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "psychic-lesion",
   title: "Psychic Lesion",
   key: "psychic-lesion",

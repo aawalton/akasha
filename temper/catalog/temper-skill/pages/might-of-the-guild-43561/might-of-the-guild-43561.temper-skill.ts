@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const mightOfTheGuild43561 = {
   id: "019e6f53-a487-7f38-a4ba-12ab80600e3d",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "might-of-the-guild-43561",
   title: "Might of the Guild",
   key: "might-of-the-guild-43561",

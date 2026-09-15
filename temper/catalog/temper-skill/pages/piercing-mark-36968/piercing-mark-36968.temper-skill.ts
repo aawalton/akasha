@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const piercingMark36968 = {
   id: "019e6f53-a50a-7d5e-a9fc-1fd8a906f8fa",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "piercing-mark-36968",
   title: "Piercing Mark",
   key: "piercing-mark-36968",

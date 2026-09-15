@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const preemptivePower = {
   id: "019e6251-4cd6-7caf-8571-d7534325b082",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "preemptive-power",
   title: "Preemptive Power",
   key: "preemptive-power",

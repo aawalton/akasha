@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const permafrost = {
   id: "019e6245-a6df-7abd-805b-2fca8e513855",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "permafrost",
   title: "Permafrost",
   key: "permafrost",

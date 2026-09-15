@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const mendWounds = {
   id: "019e6f53-a471-737a-a83b-82667198ba8c",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "mend-wounds",
   title: "Mend Wounds",
   key: "mend-wounds",

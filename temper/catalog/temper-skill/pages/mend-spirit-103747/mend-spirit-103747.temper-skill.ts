@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const mendSpirit103747 = {
   id: "019e6f53-a46f-7611-9c86-dafe038f2be9",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "mend-spirit-103747",
   title: "Mend Spirit",
   key: "mend-spirit-103747",

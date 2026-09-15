@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const rapidRegeneration = {
   id: "019e6226-010a-7b8e-9236-42d4c2df11ad",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "rapid-regeneration",
   title: "Rapid Regeneration",
   key: "rapid-regeneration",

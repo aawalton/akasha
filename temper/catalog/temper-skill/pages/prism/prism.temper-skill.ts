@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const prism = {
   id: "019e6245-a6f1-70c5-9743-f32b22c6e76f",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "prism",
   title: "Prism",
   key: "prism",

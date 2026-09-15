@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const razorCaltrops40242 = {
   id: "019e6f53-a5b7-75a2-9ad7-e4123389ac64",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "razor-caltrops-40242",
   title: "Razor Caltrops",
   key: "razor-caltrops-40242",

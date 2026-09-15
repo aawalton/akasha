@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const pulsar = {
   id: "019e6226-0104-7c4e-9ac0-9ac9de69ce63",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "pulsar",
   title: "Pulsar",
   key: "pulsar",

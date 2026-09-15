@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const rally = {
   id: "019e6226-0108-7262-8f47-f52e5498cffa",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "rally",
   title: "Rally",
   key: "rally",

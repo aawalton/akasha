@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const mercilessResolve = {
   id: "019e6245-a6cf-756b-97b6-ba216402bae2",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "merciless-resolve",
   title: "Merciless Resolve",
   key: "merciless-resolve",

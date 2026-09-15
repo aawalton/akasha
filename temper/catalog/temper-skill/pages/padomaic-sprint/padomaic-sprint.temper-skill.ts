@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const padomaicSprint = {
   id: "019e6238-c2f4-73d7-a608-d2f032275217",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "padomaic-sprint",
   title: "Padomaic Sprint",
   key: "padomaic-sprint",

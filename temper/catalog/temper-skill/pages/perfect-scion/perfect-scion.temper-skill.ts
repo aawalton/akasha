@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const perfectScion = {
   id: "019e6251-4cd5-79c6-a7ff-0b802b7de2a0",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "perfect-scion",
   title: "Perfect Scion",
   key: "perfect-scion",

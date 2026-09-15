@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const piercingHowl = {
   id: "019e6f53-a505-7829-a7d7-640a4c94fdff",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "piercing-howl",
   title: "Gnash",
   key: "piercing-howl",

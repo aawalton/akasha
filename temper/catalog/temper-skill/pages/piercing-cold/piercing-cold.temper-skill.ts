@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const piercingCold = {
   id: "019e6245-a6e3-7fbe-81fe-30faad949600",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "piercing-cold",
   title: "Piercing Cold",
   key: "piercing-cold",

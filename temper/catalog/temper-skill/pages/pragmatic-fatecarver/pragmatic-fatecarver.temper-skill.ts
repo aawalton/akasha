@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const pragmaticFatecarver = {
   id: "019e6245-a6ee-7afc-b7b9-715ef9480a4d",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "pragmatic-fatecarver",
   title: "Pragmatic Fatecarver",
   key: "pragmatic-fatecarver",

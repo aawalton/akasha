@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const puncture = {
   id: "019e6f53-a55f-7403-a23c-13c508797884",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "puncture",
   title: "Puncture",
   key: "puncture",

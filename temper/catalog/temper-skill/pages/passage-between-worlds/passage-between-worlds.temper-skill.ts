@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const passageBetweenWorlds = {
   id: "019e6245-a6de-7a73-af15-feee03950e26",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "passage-between-worlds",
   title: "Passage Between Worlds",
   key: "passage-between-worlds",
