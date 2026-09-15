@@ -2,7 +2,7 @@ import type { CollectionType } from "akasha/alan/collection/type/collection-type
 
 export const bookCollection = {
   id: "01a06579-855d-7001-ac63-0eab7a76b0e0",
-  type: "collection-type",
+  type: "page-type/collection-type",
   slug: "book-collection",
   title: "Book Collection",
   unit: "unit/words",

@@ -2,7 +2,7 @@ import type { CollectionType } from "akasha/alan/collection/type/collection-type
 
 export const travelCollection = {
   id: "01a06579-855d-701c-bd66-636fd33e97a8",
-  type: "collection-type",
+  type: "page-type/collection-type",
   slug: "travel-collection",
   title: "Travel Collection",
   unit: "unit/words",

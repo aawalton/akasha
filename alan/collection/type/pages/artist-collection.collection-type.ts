@@ -2,7 +2,7 @@ import type { CollectionType } from "akasha/alan/collection/type/collection-type
 
 export const artistCollection = {
   id: "01a06579-855c-7000-8eee-000c8f802cf9",
-  type: "collection-type",
+  type: "page-type/collection-type",
   slug: "artist-collection",
   title: "Artist Collection",
   unit: "unit/minutes",

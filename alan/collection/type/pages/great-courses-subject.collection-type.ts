@@ -2,7 +2,7 @@ import type { CollectionType } from "akasha/alan/collection/type/collection-type
 
 export const greatCoursesSubject = {
   id: "01a06579-855d-700b-a812-893736784813",
-  type: "collection-type",
+  type: "page-type/collection-type",
   slug: "great-courses-subject",
   title: "Great Courses Subject",
   unit: "unit/minutes",

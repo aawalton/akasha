@@ -2,7 +2,7 @@ import type { CollectionType } from "akasha/alan/collection/type/collection-type
 
 export const restaurants = {
   id: "01a06579-855d-7015-8fbe-5f32399190bf",
-  type: "collection-type",
+  type: "page-type/collection-type",
   slug: "restaurants",
   title: "Restaurants",
   unit: "unit/words",
