@@ -2,7 +2,7 @@ import type { TemperPotionCrown } from "akasha/temper/catalog/temper-gear/temper
 
 export const crownTriRestorationPotion = {
   id: "019e21f5-7534-7436-a51b-5d921f4e306f",
-  type: "temper-potion-crown",
+  type: "page-type/temper-potion-crown",
   slug: "crown-tri-restoration-potion",
   title: "Crown Tri-Restoration Potion",
   key: "crown-tri-restoration-potion",
