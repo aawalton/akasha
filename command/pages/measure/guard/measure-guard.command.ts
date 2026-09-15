@@ -14,10 +14,6 @@ export const measureGuard = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A change guard is another thing under the same word and is counted nowhere here.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "A call naming no argument reads the past twenty-four hours.",
     },
     {
