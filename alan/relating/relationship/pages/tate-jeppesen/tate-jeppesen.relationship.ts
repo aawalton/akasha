@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const tateJeppesen = {
   id: "019db533-f383-77af-9807-8db39fb783ca",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "tate-jeppesen",
   title: "Tate Jeppesen",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/tate-jeppesen",

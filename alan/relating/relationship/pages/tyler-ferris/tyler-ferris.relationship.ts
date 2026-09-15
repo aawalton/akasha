@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const tylerFerris = {
   id: "019db533-f384-7e4d-97fc-4a3dbf9d3135",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "tyler-ferris",
   title: "Tyler Ferris",
   relationshipCommitment: 4,

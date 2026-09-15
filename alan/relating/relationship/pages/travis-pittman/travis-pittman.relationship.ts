@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const travisPittman = {
   id: "019db533-f382-7d21-a898-40a8bf4e11d3",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "travis-pittman",
   title: "Travis Pittman",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/travis-pittman-88b1a620",

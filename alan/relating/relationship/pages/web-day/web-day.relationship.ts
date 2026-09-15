@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const webDay = {
   id: "019db533-f384-7769-9eab-72090f5b6a93",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "web-day",
   title: "Web Day",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/web-day-b1b557149",

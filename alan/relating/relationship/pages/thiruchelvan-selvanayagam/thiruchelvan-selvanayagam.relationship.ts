@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const thiruchelvanSelvanayagam = {
   id: "019db533-f384-77af-8577-943afe2630d8",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "thiruchelvan-selvanayagam",
   title: "Thiruchelvan Selvanayagam",
   relationshipCurrentCircle: "affiliates",

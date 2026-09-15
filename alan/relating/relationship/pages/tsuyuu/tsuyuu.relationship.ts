@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const tsuyuu = {
   id: "019f4d3d-fc82-78f7-8297-4882e1b6822e",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "tsuyuu",
   title: "Tsuyuu",
   relationshipCurrentCircle: "acquaintances",

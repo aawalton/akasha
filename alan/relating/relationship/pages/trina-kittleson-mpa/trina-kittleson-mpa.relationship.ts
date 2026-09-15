@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const trinaKittlesonMpa = {
   id: "019db533-f384-7a31-bac7-e0e2b80e1141",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "trina-kittleson-mpa",
   title: "Trina Kittleson, Mpa",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/trina-kittleson",

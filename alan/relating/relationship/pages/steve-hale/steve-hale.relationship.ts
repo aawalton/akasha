@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const steveHale = {
   id: "019db533-f384-72ac-96b1-691ccd4dd2ae",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "steve-hale",
   title: "Steve Hale",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/steveehale",
