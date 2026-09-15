@@ -1,10 +1,10 @@
-import type { Lualib } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
+import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
 
 export const arrayForEach = {
   id: "01a081e7-49c9-7348-874e-561e3211993a",
-  type: "lualib",
+  type: "lualib-helper",
   slug: "array-for-each",
   definition: "the call a function takes for each element of an array",
   code: "ts",
   luaExport: "__TS__ArrayForEach",
-} as const satisfies Lualib
+} as const satisfies LualibHelper

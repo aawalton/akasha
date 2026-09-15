@@ -2,5 +2,5 @@
 {"path":"design/interfaces/primitives/modules/command-palette/command-palette.module.code.tsx"}
 {"path":"design/interfaces/primitives/modules/shortcut-surfaces/shortcut-surfaces.module.code.ts"}
 {"path":"design/interfaces/primitives/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"}
-{"path":"pages/ui/components/modules/nav-command-bindings/nav-command-bindings.module.code.ts"}
-{"path":"pages/ui/components/modules/use-nav-command-bindings/use-nav-command-bindings.module.code.ts"}
+{"path":"page/ui/components/modules/nav-command-bindings/nav-command-bindings.module.code.ts"}
+{"path":"page/ui/components/modules/use-nav-command-bindings/use-nav-command-bindings.module.code.ts"}

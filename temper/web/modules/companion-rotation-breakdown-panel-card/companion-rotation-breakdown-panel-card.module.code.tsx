@@ -15,7 +15,7 @@ import { getPrimaryRows } from "akasha/temper/web/modules/companion-rotation-bre
 import { deriveCompanionRotationOutcome } from "akasha/temper/web/modules/companion-rotation-outcome/companion-rotation-outcome.module.code.ts"
 import { useCompanion } from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
 import { useCompanionStats } from "akasha/temper/web/modules/use-companion-stats/use-companion-stats.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 interface CompanionRotationBreakdownPanelCardProps {
   className?: string

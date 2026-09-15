@@ -2,4 +2,4 @@
 {"path":"agent/seat/launching/modules/spawn-seat/spawn-seat.module.code.ts"}
 {"path":"agent/seat/name/modules/restate/seat-name-restate.module.code.ts"}
 {"path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-process/modules/run-supervisor/run-supervisor.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-process/modules/run-supervisor/run-supervisor.module.code.ts"}

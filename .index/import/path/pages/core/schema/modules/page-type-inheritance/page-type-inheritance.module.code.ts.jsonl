@@ -1,8 +1,0 @@
-{"path":"pages/access/modules/page-type/page-type.module.code.ts"}
-{"path":"pages/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
-{"path":"pages/ui/components/modules/page-badge/page-badge.module.code.tsx"}
-{"path":"pages/ui/components/modules/page-card/page-card.module.code.tsx"}
-{"path":"pages/ui/components/modules/page-detail-content/page-detail-content.module.code.tsx"}
-{"path":"pages/ui/components/modules/page-row-cells/page-row-cells.module.code.tsx"}
-{"path":"pages/ui/components/modules/use-descendant-pages/use-descendant-pages.module.code.ts"}
-{"path":"pages/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"}

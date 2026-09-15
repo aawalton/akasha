@@ -10,7 +10,7 @@ import type {
   ProcessedFile,
 } from "akasha/design/language/lua-compiler/modules/transpile-emit-file/transpile-emit-file.module.code.ts"
 import type { EmitHost } from "akasha/design/language/lua-compiler/modules/transpile-emit-host/transpile-emit-host.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import * as resolve from "resolve"
 import type * as ts from "typescript"
 

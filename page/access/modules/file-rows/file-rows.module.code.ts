@@ -6,9 +6,9 @@ import {
   idOfFilePage,
   slugOfFilePage,
 } from "akasha/page/identity/modules/file-page/file-page.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
-import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
-import { dashBetweenWords } from "akasha/utils/slug/modules/dash-between-words/dash-between-words.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
+import { camelizeKey } from "akasha/util/slug/modules/camelize-key/camelize-key.module.code.ts"
+import { dashBetweenWords } from "akasha/util/slug/modules/dash-between-words/dash-between-words.module.code.ts"
 import { z } from "zod"
 
 const LIFTED_COLUMN = {

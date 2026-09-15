@@ -105,7 +105,7 @@ export const page = {
     "page-type/url-property",
     "page-type/view",
     "relation-property/page-page-type",
-    "service-workstation/pages-service",
+    "service-workstation/page-service",
     "service-workstation/sweep-cost-records",
     "text-property/cover",
     "text-property/description",

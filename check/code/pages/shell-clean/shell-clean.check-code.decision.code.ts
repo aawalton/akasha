@@ -8,7 +8,7 @@ import {
   textAt,
   textsAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const SH = ".sh"
 

@@ -5,7 +5,7 @@ import {
   isRftwContainer,
 } from "akasha/temper/items-addon/modules/inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
+import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 let cachedCurrentCharKnowsAll: boolean | undefined
 let cachedAllCharsKnowAll: boolean | undefined

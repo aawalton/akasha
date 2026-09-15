@@ -1,1 +1,1 @@
-{"path":"infrastructure/networks/auth-proxy/modules/session-identity/session-identity.module.code.ts","place":12,"name":"validateAccessToken"}
+{"path":"infrastructure/network/auth-proxy/modules/session-identity/session-identity.module.code.ts","place":12,"name":"validateAccessToken"}

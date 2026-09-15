@@ -15,13 +15,13 @@ export const HELD = [
   "pages/hum-formats/modules/hum-matching/hum-matching.module.code.ts",
 ]
 
-export const AT = "check/code/pages/a/a.code-check.code.ts"
+export const AT = "check/code/pages/a/a.check-code.code.ts"
 
 export const reaching = askingOver(HELD, HELD)
 
 export const NAMED = 'const AT = "design/colors"\n'
 
-export const TYPES: ReadonlySet<string> = new Set(["code-check", "color", "module"])
+export const TYPES: ReadonlySet<string> = new Set(["check-code", "color", "module"])
 
 export const naming = namingOver(HELD, TYPES)
 

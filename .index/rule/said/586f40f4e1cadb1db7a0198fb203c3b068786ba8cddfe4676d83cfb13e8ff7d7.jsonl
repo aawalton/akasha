@@ -1,1 +1,1 @@
-{"path":"infrastructure/networks/auth-proxy/modules/session-identity/session-identity.module.code.ts","place":3,"name":"isJwksResponse"}
+{"path":"infrastructure/network/auth-proxy/modules/session-identity/session-identity.module.code.ts","place":3,"name":"isJwksResponse"}

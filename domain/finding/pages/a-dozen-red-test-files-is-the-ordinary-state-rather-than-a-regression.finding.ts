@@ -4,7 +4,7 @@ export const aDozenRedTestFilesIsTheOrdinaryStateRatherThanARegression = {
   id: "01a095d8-87d6-727e-ae8c-3b6ef530cf84",
   type: "finding",
   slug: "a-dozen-red-test-files-is-the-ordinary-state-rather-than-a-regression",
-  domain: "domain/testing-system",
+  domain: "domain/test",
   claim:
     "`tests-pass` red at a dozen or more test files is the swarm's ordinary state rather than one regression. Four consecutive audits on 2026-09-12 each named 13 to 17 failing test files, and the last two consecutive runs shared one file. A shared refusal or a shared reader improves, every caller asserting the whole refusal sentence goes red at once, the batch is mended piecemeal by whoever notices, and a fresh batch replaces it before the next audit. Read as a regression, the count sends a reader looking for a landing that is not there. A fifth round at 58 files traced to one commit shows the count still parts the two: a regression moves it far outside that band.",
   evidence:

@@ -14,7 +14,7 @@ import {
   SEAT_NAMED,
   SUBAGENT_MARK,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const SCRIPT = join(import.meta.dir, "name-subagent.agent-hook.code.ts")
 

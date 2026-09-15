@@ -23,7 +23,7 @@ const DECLARED = ".d.ts"
 
 const RUNTIME_LIBRARY = "lua-runtime-library"
 
-const LUALIB = "lualib"
+const LUALIB_HELPER = "lualib-helper"
 
 type Found = {
   readonly named: string
@@ -105,7 +105,7 @@ function reasonFor(one: Found): string {
 }
 
 function heldByTheRuntimeLibrary(under: readonly string[], path: string): boolean {
-  if (partedIn(path)?.pageType === LUALIB) return true
+  if (partedIn(path)?.pageType === LUALIB_HELPER) return true
   return under.some((one) => path.startsWith(one))
 }
 

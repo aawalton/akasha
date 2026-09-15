@@ -12,7 +12,7 @@ import type { CurseState } from "akasha/temper/character-sources/modules/curses/
 import type { TranslationContext } from "akasha/temper/characters-stats/modules/pipeline-types/pipeline-types.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { SkillLineId } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export interface PassiveEligibilityContext {
   raceId: CharacterState["character"]["race"]

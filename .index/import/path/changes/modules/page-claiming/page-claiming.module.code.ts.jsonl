@@ -1,8 +1,0 @@
-{"path":"changes/guards/pages/claimed-file-not-left-behind/claimed-file-not-left-behind.change-guard.code.ts"}
-{"path":"changes/mechanical/file/change/change-page-page-type/change-page-page-type.change-mechanical.code.ts"}
-{"path":"changes/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.code.ts"}
-{"path":"changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"}
-{"path":"changes/mechanical/page-property/remove/remove-page-property/remove-page-property.change-mechanical.code.ts"}
-{"path":"changes/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.code.ts"}
-{"path":"changes/modules/page-claiming/page-claiming.module.test.ts"}
-{"path":"changes/modules/page-type-renaming/page-type-renaming.module.code.ts"}

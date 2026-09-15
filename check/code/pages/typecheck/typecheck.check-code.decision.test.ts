@@ -137,7 +137,7 @@ test("a file a lua runtime library's config names is compiled by that config rat
   const claimed = claimedIn(held, index)
   const lua = dirname(dirname(index.everyOfType("lua-runtime-library")[0]?.path ?? ""))
   expect(claimed(`${lua}/performance-global/performance-global.type-declaration.d.ts`)).toBe(true)
-  expect(claimed(`${lua}/lualibs/whatever/whatever.lualib.code.ts`)).toBe(true)
+  expect(claimed(`${lua}/lualibs/whatever/whatever.lualib-helper.code.ts`)).toBe(true)
   expect(claimed("humming/humming.hum.code.ts")).toBe(false)
 })
 

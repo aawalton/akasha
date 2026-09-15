@@ -29,8 +29,8 @@ import {
   writeStateFile,
 } from "akasha/infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
 import { resolveWorktreePath } from "akasha/infrastructure/service/web-app/modules/dev-server-worktree/dev-server-worktree.module.code.ts"
-import { errnoCodeOf } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
-import { enforceMemoryGuard } from "akasha/utils/system/modules/memory-guard/memory-guard.module.code.ts"
+import { errnoCodeOf } from "akasha/util/process/modules/pid-signal/pid-signal.module.code.ts"
+import { enforceMemoryGuard } from "akasha/util/system/modules/memory-guard/memory-guard.module.code.ts"
 
 const TERM_POLL_MS = 100
 

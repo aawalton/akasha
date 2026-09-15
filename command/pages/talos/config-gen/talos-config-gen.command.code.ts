@@ -28,7 +28,7 @@ import type {
   ClusterIntent,
   NodeIntent,
 } from "akasha/infrastructure/cluster/provisioning/talos/modules/schema/schema.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const SCHEMATIC_ENV = "TALOS_SCHEMATIC_ID"
 

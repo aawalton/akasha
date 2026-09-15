@@ -37,7 +37,7 @@ import {
 import { InventoryLocationDataContent } from "akasha/temper/player-inventory-management-ui/modules/inventory-location-data-content/inventory-location-data-content.module.code.tsx"
 import { InventoryRulesTab } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-tab/inventory-rules-tab.module.code.tsx"
 import { InventoryTypeDataContent } from "akasha/temper/player-inventory-management-ui/modules/inventory-type-data-content/inventory-type-data-content.module.code.tsx"
-import { isSortDirection } from "akasha/utils/narrow/modules/is-sort-direction/is-sort-direction.module.code.ts"
+import { isSortDirection } from "akasha/util/narrow/modules/is-sort-direction/is-sort-direction.module.code.ts"
 import { LayoutList, MapPin, Scale } from "lucide-react"
 import { Suspense } from "react"
 

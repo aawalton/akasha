@@ -9,7 +9,7 @@ import type {
   ClientStoryTurn,
 } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { composeSessionEnvelope } from "akasha/story/ui/modules/session-envelope/session-envelope.module.code.ts"
-import { asNumber } from "akasha/utils/narrow/modules/as-number/as-number.module.code.ts"
+import { asNumber } from "akasha/util/narrow/modules/as-number/as-number.module.code.ts"
 
 export const PLAYED_CHAPTER_PAGE_TYPE_SLUG = "story-chapter-played"
 

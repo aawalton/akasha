@@ -3,7 +3,7 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 const NESTED_LWW_KEYS: ReadonlySet<string> = new Set(["currentMorph", "unassigned"])
 

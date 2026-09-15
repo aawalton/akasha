@@ -37,7 +37,7 @@ import { recordingRun } from "akasha/story/wandering-inn/modules/sync-run-record
 import {
   daysAgoYYYYMMDD,
   todayYYYYMMDD,
-} from "akasha/utils/sync/modules/today/today.module.code.ts"
+} from "akasha/util/sync/modules/today/today.module.code.ts"
 
 export const SOURCE = "spotify"
 

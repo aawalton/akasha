@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const repositoryIsWrittenByAChange = {
   id: "01a08299-65c2-7c83-9d05-8a3e841dfe48",
-  type: "code-check",
+  type: "check-code",
   slug: "repository-is-written-by-a-change",
   definition: "the check refusing code outside the changes that writes into the repository",
   runsOnChange: true,
@@ -197,4 +197,4 @@ export const repositoryIsWrittenByAChange = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

@@ -1,5 +1,5 @@
 import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 
 export type JsonPatchOp =
   | { op: "replace"; path: string; value: Json }

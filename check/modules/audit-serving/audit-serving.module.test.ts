@@ -29,7 +29,7 @@ import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -49,7 +49,7 @@ const NOTHING: Change = {
 function gathered(slug: string, root: string): Gathered {
   return {
     slug,
-    page: `check/code/pages/${slug}/${slug}.code-check.ts`,
+    page: `check/code/pages/${slug}/${slug}.check-code.ts`,
     root,
     runsOn: ["audit"],
     isInput: null,

@@ -1,1 +1,1 @@
-{"path":"design/language/lua-compiler/lualibs/error/error.lualib.code.ts","place":0,"name":"getErrorStack"}
+{"path":"design/language/lua-compiler/lualib-helper/error/error.lualib-helper.code.ts","place":0,"name":"getErrorStack"}

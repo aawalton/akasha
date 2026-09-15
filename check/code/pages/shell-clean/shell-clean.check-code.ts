@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const shellClean = {
   id: "01a05991-d997-76f5-a619-6ddb7444c34f",
-  type: "code-check",
+  type: "check-code",
   slug: "shell-clean",
   definition: "the check refusing a change shellcheck finds fault in",
   runsOnChange: true,
@@ -112,4 +112,4 @@ export const shellClean = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

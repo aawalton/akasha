@@ -4,7 +4,7 @@ import type {
   CompanionScalingMetricId,
   CompanionValueFormula,
 } from "akasha/temper/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const EQUIPMENT_CATEGORIES = new Set(["companion-armor", "companion-jewelry", "companion-weapons"])
 

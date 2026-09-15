@@ -1,6 +1,0 @@
-{"path":"infrastructure/storage/backups/retention/modules/barman-output/barman-output.module.code.ts"}
-{"path":"infrastructure/storage/backups/retention/modules/barman/barman.module.code.ts"}
-{"path":"infrastructure/storage/backups/retention/modules/copy-longtail/copy-longtail.module.code.ts"}
-{"path":"infrastructure/storage/backups/retention/modules/decide-keeps/decide-keeps.module.code.ts"}
-{"path":"infrastructure/storage/backups/retention/modules/decide-longtail/decide-longtail.module.code.ts"}
-{"path":"infrastructure/storage/backups/retention/modules/promote-keeps/promote-keeps.module.code.ts"}

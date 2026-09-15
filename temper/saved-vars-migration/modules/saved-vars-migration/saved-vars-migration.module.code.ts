@@ -4,7 +4,7 @@ import {
   appendGlobalToTarget,
   renameGlobals,
 } from "akasha/temper/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export type SavedVarsIo = {
   readonly savedVarsDir: string

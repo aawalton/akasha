@@ -27,8 +27,8 @@ import { runClusterUpscale } from "akasha/infrastructure/inference/generation/up
 import { runWorkstationUpscale } from "akasha/infrastructure/inference/generation/upscale/modules/workstation/upscale-workstation.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
-import { sha256Hex } from "akasha/utils/hashing/modules/sha256-hex/sha256-hex.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { sha256Hex } from "akasha/util/hashing/modules/sha256-hex/sha256-hex.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const PAGES = [hostArgument, imageArgument, noPersist, output, resolutionArgument, seedArgument]
 

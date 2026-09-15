@@ -8,7 +8,7 @@ import {
   objectIdAt,
 } from "akasha/alan/harness/mobile-cli/modules/git-tree-hash/git-tree-hash.module.code.ts"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
-import { said } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { said } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const SCRATCH = "/var/tmp"
 

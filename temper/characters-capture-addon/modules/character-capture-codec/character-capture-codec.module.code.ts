@@ -47,7 +47,7 @@ import { getRaceIndex } from "akasha/temper/characters-capture-addon/modules/cha
 import { captureScribingData } from "akasha/temper/characters-capture-addon/modules/character-capture-scribing/character-capture-scribing.module.code.ts"
 import { getPlayerSkillLineIndex } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
 import { getPlayerSkillIndex } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-map/character-capture-skill-map.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/modules/require-at/require-at.module.code.ts"
+import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 
 const CHARACTER_ARMOR_SLOTS = [
   EQUIP_SLOT_HEAD,

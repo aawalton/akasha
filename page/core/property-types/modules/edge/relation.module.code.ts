@@ -4,7 +4,7 @@ import type {
   PropertyTypeOps,
   PropertyValue,
 } from "akasha/page/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 export function readTargetPageTypeId(config: unknown): string | undefined {
   if (!isRecord(config)) return undefined

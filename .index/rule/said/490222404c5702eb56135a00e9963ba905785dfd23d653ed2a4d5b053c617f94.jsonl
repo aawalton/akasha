@@ -1,1 +1,1 @@
-{"path":"infrastructure/storage/backups/retention/modules/copy-longtail/copy-longtail.module.code.ts","place":1,"name":"alertAranyaAndFail"}
+{"path":"infrastructure/storage/backup/retention/modules/copy-longtail/copy-longtail.module.code.ts","place":1,"name":"alertAranyaAndFail"}

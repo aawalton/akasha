@@ -20,7 +20,7 @@ import { cipherFor, type Secrets } from "akasha/page/modules/secret/page-secret.
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { propertiesOf } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const PAGE_TYPE = "type"
 

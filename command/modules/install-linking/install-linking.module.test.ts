@@ -26,7 +26,7 @@ import {
   scratch as worldScratch,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

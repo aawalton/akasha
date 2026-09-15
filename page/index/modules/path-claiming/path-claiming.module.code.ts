@@ -26,7 +26,7 @@ import {
   typeSlugsIn,
   typeValuesIn,
 } from "akasha/page/type/modules/gathering/page-type-gathering.module.code.ts"
-import { dashEachCapital } from "akasha/utils/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
+import { dashEachCapital } from "akasha/util/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

@@ -19,7 +19,7 @@ export const ADMITS_CODE = `export function admits() {
 }
 `
 
-const CHECK = "code-check"
+const CHECK = "check-code"
 
 const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
 

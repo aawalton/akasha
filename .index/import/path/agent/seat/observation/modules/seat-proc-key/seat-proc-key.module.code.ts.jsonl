@@ -12,8 +12,8 @@
 {"path":"agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"}
 {"path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.code.ts"}
 {"path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
-{"path":"alan/harness/code-editor/windows/modules/window-page-sweeping/window-page-sweeping.module.code.ts"}
-{"path":"alan/harness/code-editor/windows/modules/window-page-sweeping/window-page-sweeping.module.test.ts"}
+{"path":"agent/seat/supervisor/supervisor-boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
+{"path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.code.ts"}
+{"path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.test.ts"}

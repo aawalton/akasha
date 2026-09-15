@@ -3,6 +3,6 @@
 {"path":"agent/seat/reviving/modules/seat-recovery/seat-recovery.module.code.ts"}
 {"path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts"}
 {"path":"agent/seat/stopping/modules/takeover-seat/takeover-seat.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-child/modules/spawn/supervisor-child-spawn.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-child/modules/spawn/supervisor-child-spawn.module.code.ts"}
 {"path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
 {"path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}

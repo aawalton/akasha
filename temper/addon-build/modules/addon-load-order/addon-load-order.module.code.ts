@@ -18,8 +18,8 @@ import type { AddonManifest } from "akasha/temper/addons-resolve/modules/addon-j
 import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { safeFolderName } from "akasha/temper/addons-resolve/modules/sibling-addons/sibling-addons.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const BUILD_ID_FILE = "build-id.lua"
 

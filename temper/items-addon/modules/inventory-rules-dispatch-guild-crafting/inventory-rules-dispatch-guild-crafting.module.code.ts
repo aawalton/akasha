@@ -21,7 +21,7 @@ import { runRefinePass } from "akasha/temper/items-addon/modules/inventory-rules
 import { evaluateRules } from "akasha/temper/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import { dispatchWritCrafting } from "akasha/temper/items-addon/modules/inventory-writ-crafting-dispatch/inventory-writ-crafting-dispatch.module.code.ts"
 import type { ItemAction } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/modules/require-at/require-at.module.code.ts"
+import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 
 const MAX_OPS = 50
 

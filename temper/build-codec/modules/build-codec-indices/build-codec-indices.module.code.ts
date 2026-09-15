@@ -30,8 +30,8 @@ import { focusScripts } from "akasha/temper/skill-kinds/modules/scribing-focus-s
 import { signatureScripts } from "akasha/temper/skill-kinds/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 import { skillSlots } from "akasha/temper/skill-kinds/modules/skill-slots/skill-slots.module.code.ts"
 import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
-import { bitsNeeded } from "akasha/utils/narrow/modules/bits-needed/bits-needed.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
+import { bitsNeeded } from "akasha/util/narrow/modules/bits-needed/bits-needed.module.code.ts"
+import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 const classIds = classes.ids
 const raceIds = races.ids

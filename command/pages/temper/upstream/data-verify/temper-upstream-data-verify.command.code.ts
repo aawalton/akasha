@@ -26,7 +26,7 @@ import {
   UPSTREAM_LIBRARIES,
 } from "akasha/temper/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
 import { verifyZone } from "akasha/temper/upstream-data/modules/zone-upstream-verify/zone-upstream-verify.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const RULED_BY: Record<UpstreamLibrary, (addons: string) => Promise<Ruling>> = {
   housing: verifyHousing,

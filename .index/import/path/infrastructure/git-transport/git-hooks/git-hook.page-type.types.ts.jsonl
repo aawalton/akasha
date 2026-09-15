@@ -1,3 +1,0 @@
-{"path":"infrastructure/git-transport/git-hooks/post-receive-mirror/post-receive-mirror.git-hook.ts"}
-{"path":"infrastructure/git-transport/git-hooks/pre-receive-change-branches/pre-receive-change-branches.git-hook.ts"}
-{"path":"infrastructure/git-transport/git-hooks/pre-receive-main-append-only/pre-receive-main-append-only.git-hook.ts"}

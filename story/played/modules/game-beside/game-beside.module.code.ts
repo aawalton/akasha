@@ -10,7 +10,7 @@ import {
   type GameState,
   GameStateSchema,
 } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 import { useEffect, useState } from "react"
 
 const GAME_PAGE_TYPE_SLUG = "game"

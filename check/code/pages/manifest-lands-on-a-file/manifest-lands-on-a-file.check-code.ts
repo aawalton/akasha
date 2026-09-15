@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const manifestLandsOnAFile = {
   id: "01a05d75-de6d-726c-b07d-520ab5bfd098",
-  type: "code-check",
+  type: "check-code",
   slug: "manifest-lands-on-a-file",
   definition: "the check refusing a way into a package that lands where no file is",
   runsOnChange: true,
@@ -65,4 +65,4 @@ export const manifestLandsOnAFile = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

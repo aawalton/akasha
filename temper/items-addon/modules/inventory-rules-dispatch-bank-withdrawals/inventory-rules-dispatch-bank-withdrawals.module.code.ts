@@ -38,7 +38,7 @@ import { isBackpackRequiredAction } from "akasha/temper/items-rules-core/modules
 import { planStockReconcile } from "akasha/temper/items-rules-core/modules/stock-reconcile-plan/stock-reconcile-plan.module.code.ts"
 import type { CharacterId } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { isConsolidateDest } from "akasha/temper/items-rules-routing-core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
+import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 const BANK_CHARACTER_PREFIX = "character:"
 

@@ -10,7 +10,7 @@ import {
   groupSkillsIntoMorphPairs,
   type MorphPair,
 } from "akasha/temper/skill-morphs/modules/morph-pair/morph-pair.module.code.ts"
-import { requireGet } from "akasha/utils/narrow/modules/require-get/require-get.module.code.ts"
+import { requireGet } from "akasha/util/narrow/modules/require-get/require-get.module.code.ts"
 
 interface SkillLineData {
   id: SkillLineId

@@ -12,7 +12,7 @@ import {
   unfit,
   yamlOf,
 } from "akasha/page/modules/secret/page-secret.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

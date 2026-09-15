@@ -37,7 +37,7 @@ const SLUG = "slug"
 const ID = "id"
 
 const NO_WRITE_PATH =
-  "`@akasha/pages-service` writes a page by its page type, its slug and its values, and places the page from the index rather than from a name a caller works out."
+  "`@akasha/page-service` writes a page by its page type, its slug and its values, and places the page from the index rather than from a name a caller works out."
 
 export type FileWriteDeps = {
   readonly ask: (query: Query) => Promise<Asked>

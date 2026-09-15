@@ -8,8 +8,8 @@ import {
   indexAt,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { walkedUnder } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
-import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
-import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
+import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
+import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
 
 export function wholeOf(lines: readonly string[]): string {
   return `${lines.join("\n")}\n`

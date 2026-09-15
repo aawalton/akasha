@@ -43,7 +43,7 @@ test("a folder wanting a name that cannot be worked out still wants a name", () 
 test("a name the folder does not carry yet is asked against the page above the same way", () => {
   const holds = holding({
     "akasha/pages": ["page", "pages"],
-    "akasha/page/service": ["pages-service"],
+    "akasha/page/service": ["page-service"],
   })
   expect(namingOver(holds, HELD)("akasha/page/service")).toEqual({ name: "service" })
   expect(namedUnder("akasha/page/service", "page-service", holds, HELD)).toBe("service")

@@ -8,7 +8,7 @@ import type {
 } from "akasha/temper/items-addon/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
 import { BROWSER_QUALITY_ANY } from "akasha/temper/items-addon/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
 import { compareStrings } from "akasha/temper/items-core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const ASCII_UPPER_A = 65
 const ASCII_UPPER_Z = 90

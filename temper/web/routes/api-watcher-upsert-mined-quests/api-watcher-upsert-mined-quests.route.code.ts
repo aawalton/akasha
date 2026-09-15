@@ -3,7 +3,7 @@ import {
   MINE_NAME,
   MINED_QUEST_PAGE_TYPE,
 } from "akasha/temper/web/modules/mined-item-rows/mined-item-rows.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 const MAX_QUESTS_PER_REQUEST = 1000
 

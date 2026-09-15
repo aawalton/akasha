@@ -9,8 +9,8 @@ import {
   insideOf,
   mountedOver,
 } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
-import type { Said } from "akasha/utils/run/modules/running/running.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import type { Said } from "akasha/util/run/modules/running/running.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const roots: string[] = []
 

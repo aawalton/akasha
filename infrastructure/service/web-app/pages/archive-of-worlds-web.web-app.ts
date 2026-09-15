@@ -5,7 +5,7 @@ export const archiveOfWorldsWeb = {
   type: "web-app",
   slug: "archive-of-worlds-web",
   definition: "the site published original stories are read on",
-  sourceDirectory: "products/archive-of-worlds/web",
+  sourceDirectory: "product/archive-of-worlds/web",
   buildCommand: "bun run build",
   basePort: 3500,
   secretResource: "archive-of-worlds-secrets",

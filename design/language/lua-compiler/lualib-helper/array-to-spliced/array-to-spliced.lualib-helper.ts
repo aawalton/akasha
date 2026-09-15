@@ -1,10 +1,10 @@
-import type { Lualib } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
+import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
 
 export const arrayToSpliced = {
   id: "01a081ed-ab46-76bb-afbb-558dddf8a9ef",
-  type: "lualib",
+  type: "lualib-helper",
   slug: "array-to-spliced",
   definition: "the copy of an array with elements taken out at an index and others put in",
   code: "ts",
   luaExport: "__TS__ArrayToSpliced",
-} as const satisfies Lualib
+} as const satisfies LualibHelper

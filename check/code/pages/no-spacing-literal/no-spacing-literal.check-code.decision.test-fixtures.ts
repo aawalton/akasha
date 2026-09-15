@@ -8,9 +8,9 @@ import {
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const COMPONENT = "ios-component"
 

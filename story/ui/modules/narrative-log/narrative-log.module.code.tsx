@@ -3,7 +3,7 @@ import { NewestDivider } from "akasha/story/ui/modules/newest-divider/newest-div
 import { SystemCard } from "akasha/story/ui/modules/system-card/system-card.module.code.tsx"
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
 import { SystemWindowCard } from "akasha/story/ui/modules/system-window-card/system-window-card.module.code.tsx"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import type { ReactNode, RefObject } from "react"
 
 type NarrativeClientBeat = Extract<ClientBeat, { type: "narrative" }>

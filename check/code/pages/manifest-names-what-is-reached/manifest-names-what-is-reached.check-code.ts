@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const manifestNamesWhatIsReached = {
   id: "01a0597b-d723-72c8-ab64-118c9e5eb650",
-  type: "code-check",
+  type: "check-code",
   slug: "manifest-names-what-is-reached",
   definition:
     "the check judging a package's dependencies and the packages its own code reaches to be one set",
@@ -187,4 +187,4 @@ export const manifestNamesWhatIsReached = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

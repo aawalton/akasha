@@ -18,8 +18,8 @@
 {"path":"alan/web/routes/alan-web-api-media/alan-web-api-media.route.code.ts"}
 {"path":"alan/web/routes/alan-web-api-property-option/alan-web-api-property-option.route.code.ts"}
 {"path":"alan/web/routes/alan-web-home/alan-web-home.route.code.tsx"}
-{"path":"products/archive-of-worlds/web/routes/_app-layout.tsx"}
-{"path":"products/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts"}
+{"path":"product/archive-of-worlds/web/routes/_app-layout.tsx"}
+{"path":"product/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts"}
 {"path":"temper/web/.server/answer-ask/answer-ask.module.code.ts"}
 {"path":"temper/web/.server/character-import/character-import.module.code.ts"}
 {"path":"temper/web/.server/companion-import/companion-import.module.code.ts"}

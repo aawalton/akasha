@@ -22,7 +22,7 @@ import {
   listedAt,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
+import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
 
 export const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
 

@@ -1,6 +1,0 @@
-{"path":"changes/modules/answer/change-answer.module.code.ts"}
-{"path":"command/modules/calling/calling.module.code.ts"}
-{"path":"command/modules/change-running/change-running.module.code.ts"}
-{"path":"command/modules/flags/command-flags.module.code.ts"}
-{"path":"command/modules/parse-args/parse-args.module.code.ts"}
-{"path":"temper/build-deploy-checks/modules/cli-args/cli-args.module.code.ts"}

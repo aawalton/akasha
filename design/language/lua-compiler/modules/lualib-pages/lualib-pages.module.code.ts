@@ -8,13 +8,13 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const PAGE = ".lualib.ts"
+const PAGE = ".lualib-helper.ts"
 
-const CODE = ".lualib.code.ts"
+const CODE = ".lualib-helper.code.ts"
 
-const LUA50_CODE = ".lualib.lua50-code.ts"
+const LUA50_CODE = ".lualib-helper.lua50-code.ts"
 
-const TYPE = "lualib"
+const TYPE = "lualib-helper"
 
 const PREFIX = "__TS__"
 

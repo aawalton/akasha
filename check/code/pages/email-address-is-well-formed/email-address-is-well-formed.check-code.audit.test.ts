@@ -10,7 +10,7 @@ import {
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const ADDRESS = "email-address-property"
 

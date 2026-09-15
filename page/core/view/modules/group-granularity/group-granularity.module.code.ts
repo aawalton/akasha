@@ -5,8 +5,8 @@ import {
   monthKeyOf,
 } from "akasha/page/core/view/modules/calendar-grid/calendar-grid.module.code.ts"
 import { formatSmartDate } from "akasha/page/core/view/modules/format-smart-date/format-smart-date.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
-import { requireMatchPositional } from "akasha/utils/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
+import { requireMatchPositional } from "akasha/util/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 
 const DAY_RE = /^(\d{4})-(\d{2})-(\d{2})$/

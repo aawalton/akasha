@@ -1,1 +1,1 @@
-{"path":"infrastructure/services/workstations/modules/tick-sleeping/tick-sleeping.module.code.ts","place":3,"name":"stopsOnSignal"}
+{"path":"infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts","place":3,"name":"stopsOnSignal"}

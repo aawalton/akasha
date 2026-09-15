@@ -3,4 +3,4 @@
 {"path":"code/shell/terminal/modules/terminal-calls/terminal-calls.module.test.ts"}
 {"path":"code/shell/terminal/modules/terminal-reload/terminal-reload.module.code.ts"}
 {"path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts"}
-{"path":"infrastructure/machines/provisioning/provisioned-files/pages/bashrc/bashrc.provisioned-file.filling.code.ts"}
+{"path":"infrastructure/machines/provisioning/provisioned-file/pages/bashrc/bashrc.provisioned-file.filling.code.ts"}

@@ -5,7 +5,7 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import { temperAddonList } from "akasha/command/pages/temper/addon/list/temper-addon-list.command.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { manifestFor } from "akasha/temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

@@ -1,8 +1,8 @@
 {"path":"infrastructure/container-image/postgres-cnpg-image/postgres-cnpg-image.container-recipe.composing.test.ts"}
 {"path":"infrastructure/eso-rig/image/eso-rig-image.container-recipe.composing.test.ts"}
-{"path":"infrastructure/inference/generations/upscale/cluster-image/upscale-cluster-image.container-recipe.composing.test.ts"}
-{"path":"infrastructure/inference/generations/upscale/image/upscale-image.container-recipe.composing.test.ts"}
-{"path":"infrastructure/inference/generations/wan/image/wan-image.container-recipe.composing.test.ts"}
-{"path":"infrastructure/inference/generations/zimage/image/zimage-image.container-recipe.composing.test.ts"}
+{"path":"infrastructure/inference/generation/upscale/cluster-image/upscale-cluster-image.container-recipe.composing.test.ts"}
+{"path":"infrastructure/inference/generation/upscale/image/upscale-image.container-recipe.composing.test.ts"}
+{"path":"infrastructure/inference/generation/wan/image/wan-image.container-recipe.composing.test.ts"}
+{"path":"infrastructure/inference/generation/zimage/image/zimage-image.container-recipe.composing.test.ts"}
 {"path":"infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.composing.test.ts"}
 {"path":"infrastructure/postgres-annual-dump/image/postgres-annual-dump-image.container-recipe.composing.test.ts"}

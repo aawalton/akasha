@@ -1,1 +1,1 @@
-{"path":"design/language/lua-compiler/lualibs/json/json.lualib.code.ts","place":1,"name":"isFiniteNumber"}
+{"path":"design/language/lua-compiler/lualib-helper/json/json.lualib-helper.code.ts","place":1,"name":"isFiniteNumber"}

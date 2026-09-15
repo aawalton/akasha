@@ -9,7 +9,7 @@ import {
   typed,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const ONE = "01a04ef8-1a07-7001-8000-000000000001"
 

@@ -1,10 +1,10 @@
-import type { Lualib } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
+import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
 
 export const symbolRegistryFor = {
   id: "01a081d3-02d0-77ec-9273-38bb25147d79",
-  type: "lualib",
+  type: "lualib-helper",
   slug: "symbol-registry-for",
   definition: "the symbol a key is registered against",
   code: "ts",
   luaExport: "__TS__SymbolRegistryFor",
-} as const satisfies Lualib
+} as const satisfies LualibHelper

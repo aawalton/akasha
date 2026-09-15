@@ -5,9 +5,9 @@ import {
 } from "akasha/agent/seat/fleet/modules/seat-roster/seat-roster.module.code.ts"
 import { inputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
-import { textIn } from "akasha/utils/narrow/modules/text-in/text-in.module.code.ts"
-import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
+import { textIn } from "akasha/util/narrow/modules/text-in/text-in.module.code.ts"
+import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
+import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const UUID_HEX_LEN = 32
 

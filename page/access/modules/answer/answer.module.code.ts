@@ -12,7 +12,7 @@ import {
 import type { RawPageRow } from "akasha/page/access/modules/raw-page-row/raw-page-row.module.code.ts"
 import type { Asked } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 const LISTING_CEILING = 5_000
 

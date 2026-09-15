@@ -38,7 +38,7 @@ import {
   compositionOf,
   decideSpawnName,
 } from "akasha/agent/seat/name-claiming/modules/seat-spawn-name-decide/seat-spawn-name-decide.module.code.ts"
-import type { StatedAgentSlots } from "akasha/agent/seat/supervisors/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
+import type { StatedAgentSlots } from "akasha/agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import {
   dataError,
   inputError,
@@ -48,7 +48,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { readStdinOrFile } from "akasha/utils/fs/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts"
+import { readStdinOrFile } from "akasha/util/fs/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 
 export interface StartSeatInput {
   readonly startMode: string

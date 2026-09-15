@@ -1,6 +1,6 @@
 import type { GoogleOauthRefreshCredentials } from "akasha/alan/google/oauth/modules/oauth-client/oauth-client.module.code.ts"
 import { readGoogleOauthCredentials } from "akasha/alan/google/oauth/modules/oauth-refresh-token/oauth-refresh-token.module.code.ts"
-import { requireEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { requireEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 import * as z from "zod"
 
 export const CALENDAR_SCOPE = "https://www.googleapis.com/auth/calendar"

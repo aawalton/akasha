@@ -1,7 +1,7 @@
 {"path":"alan/atlas-web/routes/alan-atlas-web-routes.app-routes.ts"}
 {"path":"alan/web-capacitor/routes/alan-web-capacitor-routes.app-routes.ts"}
 {"path":"alan/web/routes/alan-web-routes.app-routes.ts"}
-{"path":"products/archive-of-worlds/web/routes/archive-of-worlds-web-routes.app-routes.ts"}
-{"path":"products/audhdalan/web/routes/audhdalan-web-routes.app-routes.ts"}
-{"path":"products/smilingjenny/web/routes/smilingjenny-web-routes.app-routes.ts"}
+{"path":"product/archive-of-worlds/web/routes/archive-of-worlds-web-routes.app-routes.ts"}
+{"path":"product/audhdalan/web/routes/audhdalan-web-routes.app-routes.ts"}
+{"path":"product/smilingjenny/web/routes/smilingjenny-web-routes.app-routes.ts"}
 {"path":"temper/web/routes/temper-web-routes.app-routes.ts"}

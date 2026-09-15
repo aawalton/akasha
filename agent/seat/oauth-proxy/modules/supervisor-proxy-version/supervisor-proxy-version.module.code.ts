@@ -8,9 +8,9 @@ import {
   type SpawnOAuthProxyArgs,
   type SupervisorOAuthProxyHandle,
 } from "akasha/agent/seat/oauth-proxy/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
-import { LOG } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
-import { setOAuthProxyHandle } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
-import { pidAliveOrRefuse } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
+import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+import { setOAuthProxyHandle } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
+import { pidAliveOrRefuse } from "akasha/util/process/modules/pid-signal/pid-signal.module.code.ts"
 
 export interface RespawnProxyDeps {
   respawn: (

@@ -46,7 +46,7 @@ import { buildI2vGraph } from "akasha/infrastructure/inference/generation/wan/mo
 import { parseSizeOrNull } from "akasha/infrastructure/inference/generation/wan/modules/size/wan-size.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
-import { sha256Hex } from "akasha/utils/hashing/modules/sha256-hex/sha256-hex.module.code.ts"
+import { sha256Hex } from "akasha/util/hashing/modules/sha256-hex/sha256-hex.module.code.ts"
 
 const SERVICE = "wan-i2v"
 

@@ -9,7 +9,7 @@ import {
   loadedDocumentPathsIn,
   namedFilePathsIn,
 } from "akasha/temper/addon-build/modules/addon-metadata-files/addon-metadata-files.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

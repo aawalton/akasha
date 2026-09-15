@@ -3,7 +3,7 @@ import { join, resolve } from "node:path"
 import { makeSandboxedLuaVm } from "akasha/temper/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"
 import { resolveVerifiedUpstream } from "akasha/temper/upstream-data/modules/libsets-upstream-fetch/libsets-upstream-fetch.module.code.ts"
 import { LIBSETS_UPSTREAM } from "akasha/temper/upstream-data/modules/libsets-upstream-pin/libsets-upstream-pin.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const OUT_DIR_FLAG = "--out-dir"
 

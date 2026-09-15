@@ -18,8 +18,8 @@ import {
   workspaceNaming,
 } from "akasha/agent/seat/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 
 const scratch = scratchWorld()
 

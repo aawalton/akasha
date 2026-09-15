@@ -11,5 +11,5 @@
 {"path":"agent/model/gateway/modules/proxy-start/proxy-start.module.code.ts"}
 {"path":"agent/model/gateway/modules/proxy-start/proxy-start.module.test.ts"}
 {"path":"agent/seat/credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-account/modules/supervisor-agent/supervisor-agent.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-resuming/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-account/modules/supervisor-agent/supervisor-agent.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}

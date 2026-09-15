@@ -1,1 +1,1 @@
-{"path":"infrastructure/services/web-apps/modules/dev-server-stating/dev-server-stating.module.code.ts","place":6,"name":"writeStateFile"}
+{"path":"infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts","place":6,"name":"writeStateFile"}

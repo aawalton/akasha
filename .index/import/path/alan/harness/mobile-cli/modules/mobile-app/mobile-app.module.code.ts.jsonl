@@ -23,4 +23,4 @@
 {"path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"}
 {"path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.test.ts"}
 {"path":"command/pages/mobile/testflight-status/mobile-testflight-status.command.code.ts"}
-{"path":"infrastructure/services/modules/deploy-subject-listing/deploy-subject-listing.module.code.ts"}
+{"path":"infrastructure/service/modules/deploy-subject-listing/deploy-subject-listing.module.code.ts"}

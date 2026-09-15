@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const testsPass = {
   id: "01a04eb6-9214-7000-be71-821a1a582fbe",
-  type: "code-check",
+  type: "check-code",
   slug: "tests-pass",
   definition: "the check refusing a change whose tests do not pass",
   runsOnChange: true,
@@ -341,4 +341,4 @@ export const testsPass = {
   ],
   check: {},
   audit: {},
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

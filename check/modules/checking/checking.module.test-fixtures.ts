@@ -24,9 +24,9 @@ import {
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
-const CHECK = "code-check"
+const CHECK = "check-code"
 
 const PAGE_TYPE = "page-type"
 
@@ -104,7 +104,7 @@ export function rootWith(named: readonly Named[], filedUnder: PageType = CHECK_P
   idFiled(root, CHECK_TYPE, [{ path: filedUnder.at, id: CHECK_TYPE }])
   let minted = 0
   for (const one of named) {
-    const at = `akasha/checks-system/code-check/${one.slug}/${one.slug}.${filedUnder.slug}.ts`
+    const at = `akasha/checks-system/check-code/${one.slug}/${one.slug}.${filedUnder.slug}.ts`
     mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
     writeFileSync(
       join(root, at),
@@ -355,7 +355,7 @@ export function costing(own: number, child: number): Cost {
 }
 
 export function checkAt(slug: string): string {
-  return `akasha/checks-system/code-check/${slug}/${slug}.${CHECK}.ts`
+  return `akasha/checks-system/check-code/${slug}/${slug}.${CHECK}.ts`
 }
 
 export function checkCodeAt(slug: string): string {

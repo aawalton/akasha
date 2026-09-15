@@ -3,7 +3,7 @@ import {
   valueByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { onceInCall } from "akasha/utils/modules/during-call/during-call.module.code.ts"
+import { onceInCall } from "akasha/util/modules/during-call/during-call.module.code.ts"
 
 const ROLE = "role"
 

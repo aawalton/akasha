@@ -12,7 +12,7 @@ import {
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { mintedId } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const AGENT = "01a04e96-c80a-79ef-819f-a455a96a0e54"
 

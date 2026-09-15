@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const folderMatchesAShape = {
   id: "01a04e33-f281-7900-a29d-0b79e444ca98",
-  type: "code-check",
+  type: "check-code",
   slug: "folder-matches-a-shape",
   definition: "the check refusing a folder matching none of the folder shapes",
   parts: [
@@ -229,4 +229,4 @@ export const folderMatchesAShape = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 45 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

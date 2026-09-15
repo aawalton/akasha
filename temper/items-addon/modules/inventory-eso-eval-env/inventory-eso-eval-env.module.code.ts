@@ -16,7 +16,7 @@ import { getTemperCharactersData } from "akasha/temper/items-addon/modules/inven
 import { signatureMatchesItem } from "akasha/temper/items-core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
 import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
-import { asObjectRecord } from "akasha/utils/narrow/modules/as-object-record/as-object-record.module.code.ts"
+import { asObjectRecord } from "akasha/util/narrow/modules/as-object-record/as-object-record.module.code.ts"
 
 function knowsItemKeyForCurrent(itemKey: ItemKey, itemLink: string | undefined): boolean {
   if (itemLink !== undefined && itemLink !== "") {

@@ -19,8 +19,8 @@ import type { EffectSource } from "akasha/temper/formula-framework/modules/effec
 import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 import { sourceCategories } from "akasha/temper/formula-framework/modules/source-category/source-category.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
+import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 interface PlayerFormulaContext {
   metric: Metric

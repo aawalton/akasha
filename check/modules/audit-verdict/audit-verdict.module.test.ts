@@ -14,7 +14,7 @@ import {
   verdictsWrite,
 } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

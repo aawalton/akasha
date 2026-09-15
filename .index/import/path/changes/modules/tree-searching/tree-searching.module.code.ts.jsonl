@@ -1,7 +1,0 @@
-{"path":"changes/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.code.ts"}
-{"path":"changes/mechanical/folder/move/move-folder/move-folder.change-mechanical-folder.code.ts"}
-{"path":"changes/modules/address-restating/address-restating.module.code.ts"}
-{"path":"changes/modules/tree-searching/tree-searching.module.test.ts"}
-{"path":"checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.code.ts"}
-{"path":"checks/code-checks/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.code-check.decision.code.ts"}
-{"path":"pages/modules/shadow/shadow.module.code.ts"}

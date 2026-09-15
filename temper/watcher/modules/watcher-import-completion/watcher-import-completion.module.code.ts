@@ -39,8 +39,8 @@ import {
   noPagePathWhy,
   PAGE_LANDING_WRITER,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import { asRecord } from "akasha/util/narrow/modules/as-record/as-record.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 
 const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
 

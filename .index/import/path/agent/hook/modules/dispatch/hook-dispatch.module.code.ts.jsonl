@@ -1,4 +1,4 @@
 {"path":"agent/hook/modules/dispatch/hook-dispatch.module.test.ts"}
-{"path":"agent/seat/supervisors/supervisor-child/modules/agent-hook-registration/agent-hook-registration.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-child/modules/agent-hook-registration/agent-hook-registration.module.test.ts"}
+{"path":"agent/seat/supervisor/supervisor-child/modules/agent-hook-registration/agent-hook-registration.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-child/modules/agent-hook-registration/agent-hook-registration.module.test.ts"}
 {"path":"command/pages/measure/guard/measure-guard.command.code.ts"}

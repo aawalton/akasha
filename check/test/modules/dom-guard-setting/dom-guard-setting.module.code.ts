@@ -15,7 +15,7 @@ if (componentTestMissingDom(process.argv, typeof globalThis.document !== "undefi
       "  cd <that-dir> && bun test <path-relative-to-that-dir>",
       "",
       "or preload the document registrar explicitly from the root:",
-      "  bun test --preload @akasha/testing-system/modules/dom-registering <path>",
+      "  bun test --preload akasha/check/test/modules/dom-registering <path>",
     ].join("\n")
   )
 }

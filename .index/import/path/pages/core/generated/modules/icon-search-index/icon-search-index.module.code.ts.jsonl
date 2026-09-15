@@ -1,9 +1,0 @@
-{"path":"design/interfaces/patterns/modules/icon-picker/icon-picker.module.code.tsx"}
-{"path":"design/interfaces/patterns/modules/lucide-icon/lucide-icon.module.code.tsx"}
-{"path":"pages/core/modules/icon/icon.module.code.ts"}
-{"path":"pages/ui/components/modules/bare-listing-card/bare-listing-card.module.code.tsx"}
-{"path":"pages/ui/components/modules/page-card-renderer/page-card-renderer.module.code.tsx"}
-{"path":"pages/ui/components/modules/page-card/page-card.module.code.tsx"}
-{"path":"pages/ui/components/modules/use-page-default-content/use-page-default-content.module.code.ts"}
-{"path":"pages/ui/components/modules/use-pages-filtered-mutations/use-pages-filtered-mutations.module.code.ts"}
-{"path":"pages/ui/components/modules/use-view-row-handlers/use-view-row-handlers.module.code.ts"}

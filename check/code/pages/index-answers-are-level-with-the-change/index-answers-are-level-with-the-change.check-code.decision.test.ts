@@ -12,7 +12,7 @@ import {
   shadowOf,
   worldOf,
 } from "akasha/page/index/modules/carrying/index-carrying.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

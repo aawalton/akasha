@@ -1,4 +1,4 @@
-import { instantIn } from "akasha/utils/narrow/modules/instant-in/instant-in.module.code.ts"
+import { instantIn } from "akasha/util/narrow/modules/instant-in/instant-in.module.code.ts"
 
 export function latestFrontierMs(
   rows: readonly Record<string, unknown>[],

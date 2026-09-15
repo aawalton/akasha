@@ -132,9 +132,9 @@ test("two pages naming one lualib feature refuse the build", () => {
 
 test("a page naming no lualib feature either way refuses the build", () => {
   const named: LualibPage = {
-    pagePath: "/lua-compiler/lualibs/nowhere/nowhere.lualib-helper.ts",
+    pagePath: "/lua-compiler/lualib-helper/nowhere/nowhere.lualib-helper.ts",
     luaExport: "NotAFeature",
-    codePath: "/lua-compiler/lualibs/nowhere/nowhere.lualib-helper.code.ts",
+    codePath: "/lua-compiler/lualib-helper/nowhere/nowhere.lualib-helper.code.ts",
     lua50CodePath: null,
   }
   expect(() => sourcesFrom(SCANNED, [named], false)).toThrow(
@@ -156,9 +156,9 @@ test("a page's stated lua feature takes the place of the one its export names", 
 
 test("a page naming a feature the scan found nowhere is added after what the scan found", () => {
   const named: LualibPage = {
-    pagePath: "/lua-compiler/lualibs/await/await.lualib-helper.ts",
+    pagePath: "/lua-compiler/lualib-helper/await/await.lualib-helper.ts",
     luaExport: "Await",
-    codePath: "/lua-compiler/lualibs/await/await.lualib-helper.code.ts",
+    codePath: "/lua-compiler/lualib-helper/await/await.lualib-helper.code.ts",
     lua50CodePath: null,
   }
   const held = sourcesFrom(SCANNED, [named], false)

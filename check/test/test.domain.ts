@@ -5,6 +5,13 @@ export const test = {
   type: "domain",
   slug: "test",
   definition: "a run holding code to what its page says of it",
+  parts: [
+    "module/bodying",
+    "module/dom-guard-setting",
+    "module/dom-guarding",
+    "module/dom-registering",
+    "page-type/test-fixture",
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -87,6 +94,44 @@ export const test = {
       invariantKind: "constraint",
       statement:
         "The DOM shim replaces `Response` with one whose `json()` the runtime refuses to answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Scaffolding a test sets up is not the thing under test.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The scaffolding the tests of more than one system need is here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The scaffolding one module's tests need is in fixtures beside that module.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A fixture beside a module reaches for this scaffolding rather than spelling this scaffolding again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This scaffolding is reached by tests alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A module the running system reaches for belongs to the system that runs the module.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No test is written here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "This scaffolding is set up by the tests that reach for this scaffolding.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A fixture proving itself proves nothing about the system.",
     },
   ],
   directives: [

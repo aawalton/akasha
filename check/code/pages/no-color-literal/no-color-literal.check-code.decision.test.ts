@@ -111,8 +111,8 @@ test("a test body and a generated body are judged by nothing", () => {
 })
 
 test("the check's own home is judged by nothing, so the grants it states are no violation", () => {
-  expect(judgedAt(`${HOME}no-color-literal.code-check.check.code.ts`)).toBe(false)
-  expect(judgedAt(`${HOME}no-color-literal.code-check.decision.code.ts`)).toBe(false)
+  expect(judgedAt(`${HOME}no-color-literal.check-code.check.code.ts`)).toBe(false)
+  expect(judgedAt(`${HOME}no-color-literal.check-code.decision.code.ts`)).toBe(false)
 })
 
 test("every color a body writes out is reported, one reason each", () => {

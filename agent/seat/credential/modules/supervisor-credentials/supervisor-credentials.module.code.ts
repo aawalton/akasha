@@ -22,12 +22,12 @@ import {
   type SupervisorOAuthProxyHandle,
   spawnOrAdoptOAuthProxy,
 } from "akasha/agent/seat/oauth-proxy/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
-import { writePacingSnapshot } from "akasha/agent/seat/supervisors/supervisor-account/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
+import { writePacingSnapshot } from "akasha/agent/seat/supervisor/supervisor-account/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 import {
   configDirForAccount,
   LOG,
-} from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
-import { guardTick } from "akasha/agent/seat/supervisors/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
+} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+import { guardTick } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,

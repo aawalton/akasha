@@ -13,7 +13,7 @@ import {
   mediaTokenSecret,
   verifyMediaToken,
 } from "akasha/page/ui/media/modules/media-token/media-token.module.code.ts"
-import { requireMatchPositional } from "akasha/utils/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
+import { requireMatchPositional } from "akasha/util/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 
 const MEDIA_RANGE_CAP_BYTES = 8 * 1024 * 1024

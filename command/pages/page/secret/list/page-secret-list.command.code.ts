@@ -9,7 +9,7 @@ import {
   targeting,
 } from "akasha/page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"
 import { keysBeside } from "akasha/page/modules/secret/page-secret.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const NOTHING = "nothing"
 

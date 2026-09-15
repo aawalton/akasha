@@ -1,4 +1,4 @@
-import { sweepSupervisorLogs } from "akasha/agent/seat/supervisors/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.code.ts"
+import { sweepSupervisorLogs } from "akasha/agent/seat/supervisor/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.code.ts"
 
 const REMOVE = "--remove"
 

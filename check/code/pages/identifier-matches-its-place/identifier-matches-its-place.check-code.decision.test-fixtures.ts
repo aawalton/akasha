@@ -8,8 +8,8 @@ import { constantIdentifier } from "akasha/page/name-place/pages/constant-identi
 import { derivedIdentifier } from "akasha/page/name-place/pages/derived-identifier.name-place.ts"
 import { functionIdentifier } from "akasha/page/name-place/pages/function-identifier.name-place.ts"
 import { typeIdentifier } from "akasha/page/name-place/pages/type-identifier.name-place.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const FORMAT = "name-format"
 
@@ -47,7 +47,7 @@ const FORMATS: readonly Formatted[] = [
   },
 ]
 
-export const FIXED_AT = "akasha/lualibs/at.lualib.code.ts"
+export const FIXED_AT = "akasha/lualibs/at.lualib-helper.code.ts"
 
 export const FIXED_BODY = "export function __TS__ArrayAt() {}\n"
 

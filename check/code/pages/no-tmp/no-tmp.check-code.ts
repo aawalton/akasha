@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noTmp = {
   id: "01a04ecb-5cd1-7000-8159-83b7e93d72b9",
-  type: "code-check",
+  type: "check-code",
   slug: "no-tmp",
   definition: "the check refusing a reach for /tmp, where no scratch of ours sits",
   runsOnChange: true,
@@ -61,4 +61,4 @@ export const noTmp = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

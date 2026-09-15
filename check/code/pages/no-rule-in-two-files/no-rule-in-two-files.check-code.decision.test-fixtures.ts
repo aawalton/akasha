@@ -11,9 +11,9 @@ import { entriesFiled } from "akasha/page/index/modules/reading/index-reading.mo
 import { readerIn, type Said } from "akasha/page/index/rule/index-rule.index.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export const CAMEL = `function camel(slug: string): string {
   return slug.replace(/-([a-z0-9])/g, (_, first: string) => first.toUpperCase())

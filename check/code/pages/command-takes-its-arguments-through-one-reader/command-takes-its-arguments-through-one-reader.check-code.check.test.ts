@@ -3,7 +3,7 @@ import { commandTakesItsArgumentsThroughOneReader } from "akasha/check/code/page
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { arriving } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const AT = "command/pages/humming/leaf/humming-leaf.command.code.ts"
 

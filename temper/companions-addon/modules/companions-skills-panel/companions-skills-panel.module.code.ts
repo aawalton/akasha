@@ -33,7 +33,7 @@ import {
   isSelectedCompanionActive,
 } from "akasha/temper/companions-addon/modules/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/companions-addon/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/modules/require-at/require-at.module.code.ts"
+import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 
 const MINI_ICON_SIZE = 24
 const MINI_CARD_HEIGHT = 32

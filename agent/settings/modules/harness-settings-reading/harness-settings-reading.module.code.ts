@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import type { Shape } from "akasha/utils/narrow/modules/shape-core/shape-core.module.code.ts"
+import type { Shape } from "akasha/util/narrow/modules/shape-core/shape-core.module.code.ts"
 
 const SETTINGS = "agent-settings"
 

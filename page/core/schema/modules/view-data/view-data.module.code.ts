@@ -6,7 +6,7 @@ import {
   lockedFacetSchema,
 } from "akasha/page/core/schema/modules/view-data-locked/view-data-locked.module.code.ts"
 import type { GalleryCardSize } from "akasha/page/core/view/modules/gallery/gallery.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import * as z from "zod"
 
 export const viewLayoutSchema = z.enum([

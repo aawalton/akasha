@@ -3,7 +3,7 @@ import { mkdirSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
 import { git } from "akasha/git/modules/capping/git-capping.module.code.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

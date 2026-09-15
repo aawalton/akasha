@@ -5,7 +5,7 @@ import {
   foundIn,
   takingFrom,
 } from "akasha/git/modules/store-sweeping/git-store-sweeping.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

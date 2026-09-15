@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { createHmac } from "node:crypto"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 import { z } from "zod"
 
 const REALTIME_URL = z

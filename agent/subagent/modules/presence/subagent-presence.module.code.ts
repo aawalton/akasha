@@ -3,7 +3,7 @@ import { dirname, join } from "node:path"
 import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { akashaHolderPidOf } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
-import { supervisorsRootDir } from "akasha/agent/seat/supervisors/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
+import { supervisorsRootDir } from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 import { bodyOf } from "akasha/agent/subagent/modules/body/subagent-body.module.code.ts"
 import {
   landingAgain,
@@ -46,8 +46,8 @@ import {
   uncommittedIn,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { asNumber } from "akasha/utils/narrow/modules/as-number/as-number.module.code.ts"
-import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
+import { asNumber } from "akasha/util/narrow/modules/as-number/as-number.module.code.ts"
+import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.ts"
 
 export const WRITING = "write"
 

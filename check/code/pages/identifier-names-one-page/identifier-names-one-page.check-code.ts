@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const identifierNamesOnePage = {
   id: "01a04f76-7430-7672-ac69-f8976ad2dc93",
-  type: "code-check",
+  type: "check-code",
   slug: "identifier-names-one-page",
   definition: "the check refusing a page with an identifier another page already has",
   runsOnChange: true,
@@ -62,4 +62,4 @@ export const identifierNamesOnePage = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

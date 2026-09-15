@@ -15,7 +15,7 @@ import {
 import { typedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const PAGE_PROPERTY = "page-property"
 

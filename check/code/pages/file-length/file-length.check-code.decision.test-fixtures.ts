@@ -11,7 +11,7 @@ import {
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const scratch = scratchWorld()
 

@@ -1,0 +1,16 @@
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+
+export const utilProcess = {
+  id: "01a05c4f-6f2b-7cf2-8361-788954595f9a",
+  type: "domain",
+  slug: "util-process",
+  definition: "a process another did not start, read from outside it and ended from outside it",
+  parts: [
+    "module/libc-mapping",
+    "module/pid-signal",
+    "module/port-holding",
+    "module/proc-environ",
+    "module/proc-reading",
+    "module/process-ending",
+  ],
+} as const satisfies Domain

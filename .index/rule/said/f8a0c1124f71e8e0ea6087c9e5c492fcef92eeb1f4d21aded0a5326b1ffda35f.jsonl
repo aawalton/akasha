@@ -1,1 +1,1 @@
-{"path":"infrastructure/networks/auth-proxy/modules/proxy-core/proxy-core.module.code.ts","place":1,"name":"buildBadGatewayResponse"}
+{"path":"infrastructure/network/auth-proxy/modules/proxy-core/proxy-core.module.code.ts","place":1,"name":"buildBadGatewayResponse"}

@@ -1,10 +1,10 @@
-import type { Lualib } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
+import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
 
 export const stringTrimEnd = {
   id: "01a081ed-ab46-7c64-80b0-7dbaa3e6a3ad",
-  type: "lualib",
+  type: "lualib-helper",
   slug: "string-trim-end",
   definition: "the text left once the whitespace at its end is taken away",
   code: "ts",
   luaExport: "__TS__StringTrimEnd",
-} as const satisfies Lualib
+} as const satisfies LualibHelper

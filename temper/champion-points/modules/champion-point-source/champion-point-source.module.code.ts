@@ -6,7 +6,7 @@ import { warfarePassives } from "akasha/temper/champion-points/modules/warfare-p
 import { warfareSlottables } from "akasha/temper/champion-points/modules/warfare-slottables/warfare-slottables.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
-import { createDataFile } from "akasha/utils/narrow/modules/create-data-file/create-data-file.module.code.ts"
+import { createDataFile } from "akasha/util/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 type ChampionPointSubcategoryId =
   | "craft-passives"

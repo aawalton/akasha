@@ -18,7 +18,7 @@ import {
   listedAt,
   readingIn,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { requireMatch } from "akasha/utils/narrow/modules/require-match/require-match.module.code.ts"
+import { requireMatch } from "akasha/util/narrow/modules/require-match/require-match.module.code.ts"
 import { z } from "zod"
 
 const APP = resolveApp("alanwalton")

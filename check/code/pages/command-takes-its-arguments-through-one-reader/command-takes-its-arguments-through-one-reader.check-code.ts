@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const commandTakesItsArgumentsThroughOneReader = {
   id: "01a09518-e34b-711d-97f3-8664b5b48363",
-  type: "code-check",
+  type: "check-code",
   slug: "command-takes-its-arguments-through-one-reader",
   definition: "the check refusing a read of a command's call outside the one reader",
   runsOnChange: true,
@@ -157,4 +157,4 @@ export const commandTakesItsArgumentsThroughOneReader = {
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
   experimental: true,
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

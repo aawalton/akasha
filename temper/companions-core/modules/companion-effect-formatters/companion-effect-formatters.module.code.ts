@@ -5,7 +5,7 @@ import type {
 import { statusEffectTypes } from "akasha/temper/skill-kinds/modules/status-effect-types/status-effect-types.module.code.ts"
 import { targetScopes } from "akasha/temper/skill-kinds/modules/target-scopes/target-scopes.module.code.ts"
 import { targetTypes } from "akasha/temper/skill-kinds/modules/target-types/target-types.module.code.ts"
-import { capitalize } from "akasha/utils/text/modules/capitalize/capitalize.module.code.ts"
+import { capitalize } from "akasha/util/text/modules/capitalize/capitalize.module.code.ts"
 
 export function formatDamageType(type: string): string {
   return capitalize(type)

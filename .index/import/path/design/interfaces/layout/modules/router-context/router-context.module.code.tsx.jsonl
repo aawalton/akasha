@@ -1,11 +1,11 @@
-{"path":"code/router-apps/modules/router-context-adapters/router-context-adapters.module.code.tsx"}
+{"path":"code/router-app/modules/router-context-adapters/router-context-adapters.module.code.tsx"}
 {"path":"design/interfaces/layout/modules/app-shell-bottom-nav/app-shell-bottom-nav.module.code.tsx"}
 {"path":"design/interfaces/layout/modules/app-shell-more-drawer/app-shell-more-drawer.module.code.tsx"}
 {"path":"design/interfaces/layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"}
 {"path":"design/interfaces/layout/modules/app-shell/app-shell.module.code.tsx"}
 {"path":"design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"}
 {"path":"design/interfaces/patterns/modules/use-filter-persistence/use-filter-persistence.module.code.ts"}
-{"path":"pages/ui/components/modules/view-page-content/view-page-content.module.code.tsx"}
+{"path":"page/ui/components/modules/view-page-content/view-page-content.module.code.tsx"}
 {"path":"temper/player-inventory-management-ui/modules/inventory-location-data-content/inventory-location-data-content.module.code.tsx"}
 {"path":"temper/player-inventory-management-ui/modules/inventory-rules-tab/inventory-rules-tab.module.code.tsx"}
 {"path":"temper/player-inventory-management-ui/modules/inventory-type-data-content/inventory-type-data-content.module.code.tsx"}

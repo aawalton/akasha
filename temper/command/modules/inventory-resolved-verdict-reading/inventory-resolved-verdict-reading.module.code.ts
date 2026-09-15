@@ -10,7 +10,7 @@ import {
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/modules/lua-parser/lua-parser.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
+import { asRecord } from "akasha/util/narrow/modules/as-record/as-record.module.code.ts"
 import { z } from "zod"
 
 const VARIABLES_NAME = "TemperInventory_SavedVariables"

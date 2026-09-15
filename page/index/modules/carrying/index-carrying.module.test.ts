@@ -13,7 +13,7 @@ import {
 } from "akasha/page/index/modules/carrying/index-carrying.module.test-fixtures.ts"
 import { indexAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

@@ -3,7 +3,7 @@ import {
   getMessage,
   listMessages,
 } from "akasha/alan/google/email/modules/email-message-fetching/email-message-fetching.module.code.ts"
-import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
+import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
 
 export interface EmailMessage {
   readonly id: string

@@ -1,6 +1,6 @@
-{"path":"alan/collections/syncs/pages/provo-library/provo-library.sync.ts","value":{"id":"01a06861-f664-787c-bb9e-f1ef8f5d25de","type":"sync","slug":"provo-library","syncRuns":"jsonl"}}
-{"path":"alan/collections/syncs/pages/royal-road-backprop/royal-road-backprop.sync.ts","value":{"id":"01a06861-f664-7830-b8d5-cd7e09bb1bde","type":"sync","slug":"royal-road-backprop","syncRuns":"jsonl"}}
-{"path":"alan/collections/syncs/pages/royal-road/royal-road.sync.ts","value":{"id":"01a06861-f664-73fd-a5db-03ac63ef2331","type":"sync","slug":"royal-road","syncRuns":"jsonl"}}
-{"path":"alan/collections/syncs/pages/spotify/spotify.sync.ts","value":{"id":"01a09c83-672c-7d6e-a2bd-3bdfc162b992","type":"sync","slug":"spotify","syncRuns":"jsonl"}}
-{"path":"alan/collections/syncs/pages/the-great-courses/the-great-courses.sync.ts","value":{"id":"01a06861-f664-7a14-8c9d-9c4ffcd6c4ac","type":"sync","slug":"the-great-courses","syncRuns":"jsonl"}}
-{"path":"alan/collections/syncs/pages/wandering-inn/wandering-inn.sync.ts","value":{"id":"01a06861-f664-7405-a6a5-e1fd81cfbcd2","type":"sync","slug":"wandering-inn","syncRuns":"jsonl"}}
+{"path":"alan/collection/sync/pages/provo-library/provo-library.sync.ts","value":{"id":"01a06861-f664-787c-bb9e-f1ef8f5d25de","type":"sync","slug":"provo-library","syncRuns":"jsonl"}}
+{"path":"alan/collection/sync/pages/royal-road-backprop/royal-road-backprop.sync.ts","value":{"id":"01a06861-f664-7830-b8d5-cd7e09bb1bde","type":"sync","slug":"royal-road-backprop","syncRuns":"jsonl"}}
+{"path":"alan/collection/sync/pages/royal-road/royal-road.sync.ts","value":{"id":"01a06861-f664-73fd-a5db-03ac63ef2331","type":"sync","slug":"royal-road","syncRuns":"jsonl"}}
+{"path":"alan/collection/sync/pages/spotify/spotify.sync.ts","value":{"id":"01a09c83-672c-7d6e-a2bd-3bdfc162b992","type":"sync","slug":"spotify","syncRuns":"jsonl"}}
+{"path":"alan/collection/sync/pages/the-great-courses/the-great-courses.sync.ts","value":{"id":"01a06861-f664-7a14-8c9d-9c4ffcd6c4ac","type":"sync","slug":"the-great-courses","syncRuns":"jsonl"}}
+{"path":"alan/collection/sync/pages/wandering-inn/wandering-inn.sync.ts","value":{"id":"01a06861-f664-7405-a6a5-e1fd81cfbcd2","type":"sync","slug":"wandering-inn","syncRuns":"jsonl"}}

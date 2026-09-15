@@ -5,7 +5,7 @@ import type {
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import type { CreateSelectOptionEffect } from "akasha/page/ui/modules/option-create-context/option-create-context.module.code.tsx"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 
 type OptionRow = { id: string; label: string; variant?: string; [k: string]: Json | undefined }
 

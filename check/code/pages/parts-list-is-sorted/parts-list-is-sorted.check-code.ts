@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const partsListIsSorted = {
   id: "01a09558-e9b5-7e59-a4ac-0ca6ead600aa",
-  type: "code-check",
+  type: "check-code",
   slug: "parts-list-is-sorted",
   definition: "the check refusing a page naming its parts out of order",
   runsOnChange: true,
@@ -65,4 +65,4 @@ export const partsListIsSorted = {
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
   experimental: true,
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

@@ -24,7 +24,7 @@ import {
   parseSideFile,
   type SideFile,
 } from "akasha/temper/catalog-side-file/modules/catalog-side-file/catalog-side-file.module.code.ts"
-import { saidBy as messageOf } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy as messageOf } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const NAMED = [json, sideFileArgument, savedVariablesFile]
 

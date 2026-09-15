@@ -11,7 +11,7 @@ import type {
   WatcherRunOperation,
   WatcherRunSummary,
 } from "akasha/temper/web/modules/watcher-run-status/watcher-run-status.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import { AlertTriangle, CheckCircle2, CircleDashed, FileQuestion, HelpCircle } from "lucide-react"
 
 type Presentation = {

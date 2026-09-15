@@ -1,5 +1,5 @@
 import { synthManifests } from "akasha/infrastructure/cluster/k8s-synth/modules/synth-manifests/synth-manifests.module.code.ts"
-import { flagValue } from "akasha/utils/narrow/modules/flag-value/flag-value.module.code.ts"
+import { flagValue } from "akasha/util/narrow/modules/flag-value/flag-value.module.code.ts"
 
 const PREFIX = "[k8s-synth]"
 

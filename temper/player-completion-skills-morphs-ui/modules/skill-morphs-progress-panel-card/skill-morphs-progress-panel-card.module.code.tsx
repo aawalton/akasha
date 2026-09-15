@@ -22,7 +22,7 @@ import type {
   MorphableSkillDetail,
 } from "akasha/temper/skill-morphs/modules/morph-progress-types/morph-progress-types.module.code.ts"
 import { morphableSkillLineIds } from "akasha/temper/skill-morphs/modules/morphable-skills/morphable-skills.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
+import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 interface SkillMorphsProgressPanelCardProps {
   id?: CharacterCardId

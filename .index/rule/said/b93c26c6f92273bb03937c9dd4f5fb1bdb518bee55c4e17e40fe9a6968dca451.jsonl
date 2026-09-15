@@ -1,1 +1,1 @@
-{"path":"infrastructure/services/clusters/modules/loki-log-fetching/loki-log-fetching.module.code.ts","place":4,"name":"findPodNamespaces"}
+{"path":"infrastructure/service/cluster/modules/loki-log-fetching/loki-log-fetching.module.code.ts","place":4,"name":"findPodNamespaces"}

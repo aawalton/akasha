@@ -11,12 +11,12 @@ import {
   numberAt,
   textAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
-import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
+import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
 import {
   errnoCodeOf,
   pidAliveOrRefuse,
-} from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
+} from "akasha/util/process/modules/pid-signal/pid-signal.module.code.ts"
 
 export interface DevServerState {
   readonly pid: number

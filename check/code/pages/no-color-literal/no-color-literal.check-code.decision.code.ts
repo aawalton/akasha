@@ -6,7 +6,7 @@ import {
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { heldPerShadow, type Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export type Grant = {
   readonly pageTypeSlug: string
@@ -25,7 +25,7 @@ const DOMAIN = "domain"
 
 const PALETTE = "design"
 
-const CODE_CHECK = "code-check"
+const CHECK_CODE = "check-code"
 
 const OWN = "no-color-literal"
 
@@ -64,9 +64,9 @@ export function passingIn(shadow: Shadow): Passing {
   if (design === undefined) {
     throw new Error(`the index files no \`${DOMAIN}/${PALETTE}\`, so the palette's home is unknown`)
   }
-  const own = shadow.index.listedAt(CODE_CHECK, OWN)[0]
+  const own = shadow.index.listedAt(CHECK_CODE, OWN)[0]
   if (own === undefined) {
-    throw new Error(`the index files no \`${CODE_CHECK}/${OWN}\`, so this check's home is unknown`)
+    throw new Error(`the index files no \`${CHECK_CODE}/${OWN}\`, so this check's home is unknown`)
   }
   return {
     palette: `${dirname(design.path)}/`,

@@ -4,12 +4,12 @@ import { scanProcEntries } from "akasha/agent/modules/proc-scan/proc-scan.module
 import { seatRecord } from "akasha/agent/seat/fleet/modules/seat-facts/seat-facts.module.code.ts"
 import { resolveSessionIdByAgentId } from "akasha/agent/seat/session/modules/resolve/seat-session-resolve.module.code.ts"
 import { decideKillTarget } from "akasha/agent/seat/stopping/modules/kill-target-plan/kill-target-plan.module.code.ts"
-import { SEAT_START_DIR } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+import { SEAT_START_DIR } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   dataError,
   operationalError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { ending } from "akasha/utils/process/modules/process-ending/process-ending.module.code.ts"
+import { ending } from "akasha/util/process/modules/process-ending/process-ending.module.code.ts"
 
 export interface TakenSeat {
   readonly agentId: string

@@ -19,7 +19,7 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const RECORD = "record-property"
 

@@ -1,10 +1,10 @@
-import type { Lualib } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
+import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
 
 export const stringCharCodeAt = {
   id: "01a081e7-49c9-7483-8702-12cf5959cc4f",
-  type: "lualib",
+  type: "lualib-helper",
   slug: "string-char-code-at",
   definition: "the code of the character text holds at an index",
   code: "ts",
   luaExport: "__TS__StringCharCodeAt",
-} as const satisfies Lualib
+} as const satisfies LualibHelper

@@ -5,7 +5,7 @@ import {
   discoverStaleFolders,
   knownDirsFromFileList,
 } from "akasha/alan/harness/workspace-paths/modules/stale-folders/stale-folders.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

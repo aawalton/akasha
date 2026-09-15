@@ -1,1 +1,1 @@
-{"path":"infrastructure/storage/databases/pgbouncer/pgbouncer.manifest.code.ts","place":1,"name":"deploymentYaml"}
+{"path":"infrastructure/storage/database/pgbouncer/pgbouncer.manifest.code.ts","place":1,"name":"deploymentYaml"}

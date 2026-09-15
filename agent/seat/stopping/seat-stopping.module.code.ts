@@ -31,8 +31,8 @@ import {
   slugAt,
   textAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { procEntries } from "akasha/utils/process/modules/proc-reading/proc-reading.module.code.ts"
-import { ending } from "akasha/utils/process/modules/process-ending/process-ending.module.code.ts"
+import { procEntries } from "akasha/util/process/modules/proc-reading/proc-reading.module.code.ts"
+import { ending } from "akasha/util/process/modules/process-ending/process-ending.module.code.ts"
 
 const SUBAGENT_TYPE = "01a05978-f2e1-78e7-9017-ab14c5c1d79b"
 

@@ -4,7 +4,7 @@ import {
   type RemovedAddonGlobal,
 } from "akasha/temper/build-deploy-checks/modules/addon-removed-refs-manifest/addon-removed-refs-manifest.module.code.ts"
 import { scanningBundleFile } from "akasha/temper/build-deploy-checks/modules/bundle-file-scan/bundle-file-scan.module.code.ts"
-import { escapeRegExp } from "akasha/utils/narrow/modules/escape-reg-exp/escape-reg-exp.module.code.ts"
+import { escapeRegExp } from "akasha/util/narrow/modules/escape-reg-exp/escape-reg-exp.module.code.ts"
 import { z } from "zod"
 
 export interface RemovedRefIssue {

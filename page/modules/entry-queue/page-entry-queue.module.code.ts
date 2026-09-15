@@ -8,7 +8,7 @@ import {
 } from "akasha/page/modules/entry-landing/page-entry-landing.module.code.ts"
 import { lineFor } from "akasha/page/modules/entry-writing/page-entry-writing.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 type Chunk = { path: string; text: string }
 

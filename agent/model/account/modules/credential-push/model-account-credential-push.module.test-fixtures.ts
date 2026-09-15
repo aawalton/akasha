@@ -18,7 +18,7 @@ import type { Asking } from "akasha/change/runner/pages/mechanical-change-runnin
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { secretAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 import { z } from "zod"
 
 export const ACCESS_KEY = "access-token"

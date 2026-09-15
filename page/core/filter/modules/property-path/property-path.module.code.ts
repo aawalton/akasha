@@ -1,4 +1,4 @@
-import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
+import { camelizeKey } from "akasha/util/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 const PART = "."
 

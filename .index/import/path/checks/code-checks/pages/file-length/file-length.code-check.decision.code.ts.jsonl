@@ -1,6 +1,0 @@
-{"path":"agent/messaging/modules/message-file/message-file.module.code.ts"}
-{"path":"checks/code-checks/pages/file-length/file-length.code-check.audit.code.ts"}
-{"path":"checks/code-checks/pages/file-length/file-length.code-check.audit.test.ts"}
-{"path":"checks/code-checks/pages/file-length/file-length.code-check.check.code.ts"}
-{"path":"checks/code-checks/pages/file-length/file-length.code-check.check.test.ts"}
-{"path":"checks/code-checks/pages/file-length/file-length.code-check.decision.test.ts"}

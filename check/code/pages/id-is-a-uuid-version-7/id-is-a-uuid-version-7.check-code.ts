@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const idIsAUuidVersion7 = {
   id: "01a04bcb-c6f6-726e-ad7e-718958087eb4",
-  type: "code-check",
+  type: "check-code",
   slug: "id-is-a-uuid-version-7",
   definition:
     "the check refusing a page whose stated id is not a uuid version 7 written in lower uuid",
@@ -25,4 +25,4 @@ export const idIsAUuidVersion7 = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

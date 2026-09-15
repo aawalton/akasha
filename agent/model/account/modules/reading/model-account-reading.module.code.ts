@@ -8,7 +8,7 @@ import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.co
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 import { z } from "zod"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"

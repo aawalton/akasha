@@ -11,7 +11,7 @@ import {
 import { judging } from "akasha/agent/hook/test-fixtures/judging/hook-judging.test-fixture.code.ts"
 import { payloadOf } from "akasha/agent/hook/test-fixtures/payload/hook-payload.test-fixture.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const SCRIPT = join(import.meta.dir, "block-bun-test.agent-hook.code.ts")
 

@@ -16,8 +16,8 @@ import { offRepo, pathAt } from "akasha/command/modules/said-pathing/said-pathin
 import { gitRestore as page } from "akasha/command/pages/git/restore/git-restore.command.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { anythingThere } from "akasha/utils/fs/modules/anything-there/anything-there.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { anythingThere } from "akasha/util/fs/modules/anything-there/anything-there.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const HEAD = "HEAD"
 

@@ -7,7 +7,7 @@ import {
 import { namedFiled } from "akasha/page/index/modules/filing/index-filing.module.test-fixtures.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

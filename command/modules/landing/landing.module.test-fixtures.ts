@@ -33,8 +33,8 @@ import { textProperty } from "akasha/page/text-property/text-property.page-type.
 import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import { excludingIndex } from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
 import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { said as saying } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { said as saying } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
 

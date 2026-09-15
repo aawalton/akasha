@@ -2,7 +2,7 @@ import { FLEX } from "akasha/agent/seat/name/modules/compose-seat-name/compose-s
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { pageValuesOf } from "akasha/agent/seat/page/modules/values/seat-page-values.module.code.ts"
 import { seatAbove } from "akasha/agent/subagent/modules/naming/subagent-naming.module.code.ts"
-import { firstCapture } from "akasha/utils/narrow/modules/first-capture/first-capture.module.code.ts"
+import { firstCapture } from "akasha/util/narrow/modules/first-capture/first-capture.module.code.ts"
 
 const SPAWNED = "spawned"
 

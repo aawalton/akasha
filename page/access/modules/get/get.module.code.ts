@@ -29,7 +29,7 @@ export type GetPageArgs = {
 }
 
 export function unfiledWhy(op: string, pageTypeSlug: string): string {
-  return `${op}(${pageTypeSlug}): the page types \`@akasha/pages-service\` lists are the page types whose pages it holds as files, and \`${pageTypeSlug}\` is not one of them. Ask for a page type it lists, or give \`${pageTypeSlug}\` a \`page-type\` page of its own.`
+  return `${op}(${pageTypeSlug}): the page types \`@akasha/page-service\` lists are the page types whose pages it holds as files, and \`${pageTypeSlug}\` is not one of them. Ask for a page type it lists, or give \`${pageTypeSlug}\` a \`page-type\` page of its own.`
 }
 
 export async function getPage(args: GetPageArgs): Promise<Page | null> {

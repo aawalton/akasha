@@ -1,5 +1,5 @@
 import type { LatestBuild } from "akasha/alan/harness/mobile-cli/modules/asc-client/asc-client.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 export const POLL_INTERVAL_MS = 30_000
 export const POLL_TIMEOUT_MS = 30 * 60_000

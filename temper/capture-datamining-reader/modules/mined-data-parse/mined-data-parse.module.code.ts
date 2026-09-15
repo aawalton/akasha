@@ -8,7 +8,7 @@ import {
 } from "akasha/temper/capture-datamining-reader/modules/saved-variables-schema/saved-variables-schema.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/modules/lua-parser/lua-parser.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
+import { asRecord } from "akasha/util/narrow/modules/as-record/as-record.module.code.ts"
 import type { z } from "zod"
 
 const SAVED_VARIABLES_NAME = "TemperDataMining_SavedVariables"

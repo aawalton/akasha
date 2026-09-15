@@ -1,5 +1,5 @@
 import type { PageCursor } from "akasha/page/access/modules/types/types.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 import { z } from "zod"
 
 export type CursorPayload = {

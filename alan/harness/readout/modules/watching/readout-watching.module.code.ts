@@ -11,7 +11,7 @@ import {
   statedIn,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
 import { followWithin } from "akasha/infrastructure/service/workstation/modules/file-following/file-following.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 export const SETTLE_MS = 250
 

@@ -45,7 +45,7 @@ import {
   MODELS,
   toModelId,
 } from "akasha/infrastructure/inference/generation/zimage/modules/models/zimage-models.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const DEFAULT_PORT = "8678"
 

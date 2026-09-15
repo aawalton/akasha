@@ -11,7 +11,7 @@ import { decide } from "akasha/alan/harness/email-watch/modules/email-rule-decid
 import type { Rule } from "akasha/alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.code.ts"
 import { rulesOf } from "akasha/alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.code.ts"
 import { personOr } from "akasha/person/modules/reading/person-reading.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 import { z } from "zod"
 
 const STATE_DIR = `${optionalEnv("HOME") ?? "/nonexistent"}/.local/state/alan-email`

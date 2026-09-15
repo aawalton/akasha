@@ -1,9 +1,0 @@
-{"path":"pages/access/modules/file-read/file-read.module.code.ts"}
-{"path":"pages/access/modules/upsert/upsert.module.code.ts"}
-{"path":"pages/core/filter/modules/filter-to-condition/filter-to-condition.module.code.ts"}
-{"path":"pages/core/view-state/modules/reducers/reducers.module.code.ts"}
-{"path":"pages/ui/block-editor/modules/use-block-persistence/use-block-persistence.module.code.ts"}
-{"path":"pages/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"}
-{"path":"pages/ui/supabase/modules/use-view-callbacks/use-view-callbacks.module.code.ts"}
-{"path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts"}
-{"path":"temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts"}

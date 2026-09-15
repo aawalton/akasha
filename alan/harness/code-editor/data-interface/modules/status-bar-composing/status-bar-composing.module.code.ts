@@ -34,7 +34,7 @@ import {
   slugOf,
   slugsIn,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
+import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.ts"
 
 const READOUT = "01a05446-e760-7cb2-848b-4fcfc7ed45d4"
 

@@ -1,5 +1,5 @@
-import { sayingWith } from "akasha/agent/seat/supervisors/supervisor-log/modules/supervisor-saying/supervisor-saying.module.code.ts"
-import { LOG } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+import { sayingWith } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-saying/supervisor-saying.module.code.ts"
+import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   midRefresh,
   REFRESH_WAITED_AT_MOST_MS,

@@ -24,7 +24,7 @@ import type { OAuthCredential } from "akasha/agent/model/gateway/modules/oauth-t
 import type { PageOf } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 import { z } from "zod"
 
 export const CREDENTIAL_FILE_NAME = ".credentials.json"

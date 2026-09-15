@@ -35,7 +35,7 @@ import type {
   WalkTrace,
 } from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const NAMED = [inventoryPathArgument, charactersPathArgument, charArgument, tracedItemIdArgument]
 

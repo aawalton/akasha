@@ -20,7 +20,7 @@ import {
   wholeValue,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const PAGE = "akasha/one/amy.seat.ts"
 

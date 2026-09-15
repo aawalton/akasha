@@ -47,11 +47,11 @@ export const pageAccess = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every page this package reaches is asked of `@akasha/pages-service`.",
+      statement: "Every page this package reaches is asked of `@akasha/page-service`.",
     },
     {
       invariantKind: "gap",
-      statement: "A question `@akasha/pages-service` does not answer refuses here.",
+      statement: "A question `@akasha/page-service` does not answer refuses here.",
     },
     {
       invariantKind: "departure",

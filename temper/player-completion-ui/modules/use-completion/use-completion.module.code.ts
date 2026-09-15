@@ -8,12 +8,12 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
-import { parseNumber } from "akasha/utils/narrow/modules/parse-number/parse-number.module.code.ts"
-import { parseString } from "akasha/utils/narrow/modules/parse-string/parse-string.module.code.ts"
-import { parseTimestamp } from "akasha/utils/narrow/modules/parse-timestamp/parse-timestamp.module.code.ts"
-import { stringIn } from "akasha/utils/narrow/modules/string-in/string-in.module.code.ts"
-import { stringsIn } from "akasha/utils/narrow/modules/strings-in/strings-in.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
+import { parseNumber } from "akasha/util/narrow/modules/parse-number/parse-number.module.code.ts"
+import { parseString } from "akasha/util/narrow/modules/parse-string/parse-string.module.code.ts"
+import { parseTimestamp } from "akasha/util/narrow/modules/parse-timestamp/parse-timestamp.module.code.ts"
+import { stringIn } from "akasha/util/narrow/modules/string-in/string-in.module.code.ts"
+import { stringsIn } from "akasha/util/narrow/modules/strings-in/strings-in.module.code.ts"
 import { useMemo } from "react"
 
 const ACCOUNT_PAGE_TYPE_SLUG = "temper-account"

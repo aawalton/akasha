@@ -23,7 +23,7 @@ import {
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedPartAt } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
 import { pagesAtFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import { sizeOnDisk } from "akasha/utils/fs/modules/file-size/file-size.module.code.ts"
+import { sizeOnDisk } from "akasha/util/fs/modules/file-size/file-size.module.code.ts"
 
 const PUT = `${addFileOfAnyKind.type}/${addFileOfAnyKind.slug}` as const
 

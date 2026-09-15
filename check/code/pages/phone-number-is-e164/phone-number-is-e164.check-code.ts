@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const phoneNumberIsE164 = {
   id: "01a058ff-c2b0-7d9c-814a-e78f75d41f67",
-  type: "code-check",
+  type: "check-code",
   slug: "phone-number-is-e164",
   definition: "the check refusing a phone number that is not written in E.164",
   runsOnChange: true,
@@ -41,4 +41,4 @@ export const phoneNumberIsE164 = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

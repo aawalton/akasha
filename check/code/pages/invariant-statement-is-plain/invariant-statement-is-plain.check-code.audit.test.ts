@@ -3,8 +3,8 @@ import { invariantStatementIsPlain } from "akasha/check/code/pages/invariant-sta
 import { paged } from "akasha/check/code/pages/invariant-statement-is-plain/invariant-statement-is-plain.check-code.decision.test-fixtures.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const AT = "akasha/held.check.ts"
 

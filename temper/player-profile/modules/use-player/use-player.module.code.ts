@@ -8,8 +8,8 @@ import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.mo
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { useOptimisticUpsertPage } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"
 import type { ProfileMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
-import { parseString } from "akasha/utils/narrow/modules/parse-string/parse-string.module.code.ts"
-import { stringIn } from "akasha/utils/narrow/modules/string-in/string-in.module.code.ts"
+import { parseString } from "akasha/util/narrow/modules/parse-string/parse-string.module.code.ts"
+import { stringIn } from "akasha/util/narrow/modules/string-in/string-in.module.code.ts"
 import { useCallback, useMemo } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"

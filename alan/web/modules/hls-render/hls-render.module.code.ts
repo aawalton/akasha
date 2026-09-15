@@ -6,7 +6,7 @@ import {
   hlsSegmentPrefix,
 } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import type { ObjectStore } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
-import { inFlightKeys } from "akasha/utils/narrow/modules/in-flight-keys/in-flight-keys.module.code.ts"
+import { inFlightKeys } from "akasha/util/narrow/modules/in-flight-keys/in-flight-keys.module.code.ts"
 import { z } from "zod"
 
 const KOKORO_VOICE = "af_heart"

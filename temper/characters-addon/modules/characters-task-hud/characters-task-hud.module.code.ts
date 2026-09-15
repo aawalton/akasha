@@ -50,7 +50,7 @@ import {
   getSavedVariables,
   type TaskData,
 } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
+import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 function backpackBufferSlots(): number {
   if (globalThis.TemperInventory?.isSavedVariablesReady() !== true) {

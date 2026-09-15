@@ -7,7 +7,7 @@ import {
   spentBetween,
   underIts,
 } from "akasha/command/modules/change-ceiling/change-ceiling.module.code.ts"
-import { ownAt } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { ownAt } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const HELD = { edits: [{ kind: "add", path: "a/b.ts", content: "" }], refused: null } as const
 

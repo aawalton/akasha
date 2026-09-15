@@ -11,7 +11,7 @@ import {
   readingHeldOn,
   relayedFresh,
 } from "akasha/alan/harness/readout/modules/serving/readout-serving.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const CREDENTIAL = "a-ring-credential-named-only-in-this-test"
 

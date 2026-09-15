@@ -13,7 +13,7 @@ import {
   hasDeviceSecretShape,
 } from "akasha/person/modules/device-secret-shape/device-secret-shape.module.code.ts"
 import { personSlugForAccount } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
-import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
+import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.ts"
 
 export const DEVICE_SECRET_PAGE_TYPE = "device-secret"
 

@@ -8,7 +8,7 @@ import {
   getPlaybackState,
 } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import { search } from "akasha/alan/music/spotify/modules/search/spotify-search.module.code.ts"
-import { requireMatchPositional } from "akasha/utils/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
+import { requireMatchPositional } from "akasha/util/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 
 const SEARCH_LIMIT = 5

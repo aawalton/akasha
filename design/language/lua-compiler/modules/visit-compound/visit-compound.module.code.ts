@@ -12,7 +12,7 @@ import { cannotAssignToNodeOfKind } from "akasha/design/language/lua-compiler/mo
 import { isArrayLength } from "akasha/design/language/lua-compiler/modules/visit-array-length/visit-array-length.module.code.ts"
 import { transformAssignmentWithRightPrecedingStatements } from "akasha/design/language/lua-compiler/modules/visit-assignments/visit-assignments.module.code.ts"
 import { requireTransformBinaryOperation } from "akasha/design/language/lua-compiler/modules/visit-binary-operation-deps/visit-binary-operation-deps.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
 function isLuaExpressionWithSideEffect(expression: luaExpressions.Expression) {

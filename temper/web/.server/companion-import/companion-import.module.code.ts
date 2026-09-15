@@ -12,7 +12,7 @@ import type {
   BuildId,
 } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
+import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 export type ImportCompanionResult =
   | { buildId: BuildId; buildName: string }

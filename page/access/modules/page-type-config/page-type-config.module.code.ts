@@ -7,7 +7,7 @@ import { filePropertyDefinitions } from "akasha/page/access/modules/file-propert
 import type { StorageTier } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { MediaConfig } from "akasha/page/core/schema/modules/media-config/media-config.module.code.ts"
 import type { SequenceConfig } from "akasha/page/core/schema/modules/sequence-config/sequence-config.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 
 export type PropertyDefinition = {
   id: string

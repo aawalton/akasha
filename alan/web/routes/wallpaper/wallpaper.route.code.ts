@@ -7,7 +7,7 @@ import {
   orderedWallpaperSlugs,
   type WallpaperRow,
 } from "akasha/persona/modules/wallpaper-order/wallpaper-order.module.code.ts"
-import { stringIn } from "akasha/utils/narrow/modules/string-in/string-in.module.code.ts"
+import { stringIn } from "akasha/util/narrow/modules/string-in/string-in.module.code.ts"
 
 const PERSONA_PAGE_TYPE_SLUG = "persona"
 

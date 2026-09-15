@@ -3,8 +3,8 @@ import { join } from "node:path"
 import { refusalFor } from "akasha/agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export const scratch = scratchWorld()
 

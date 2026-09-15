@@ -6,7 +6,7 @@ import {
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
 import { pathOf } from "akasha/infrastructure/service/workstation/modules/run-composing/run-composing.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 export type Carry = {
   readonly point: string

@@ -11,7 +11,7 @@ import {
 import { isItemLinkQuestRelevant } from "akasha/temper/items-addon/modules/inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
 import type { MatchContext } from "akasha/temper/items-addon/modules/inventory-rules-conditions-render/inventory-rules-conditions-render.module.code.ts"
 import { inferDeconCraftingType } from "akasha/temper/items-addon/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/modules/require-at/require-at.module.code.ts"
+import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 
 export function buildMatchContext(
   itemLink: string,

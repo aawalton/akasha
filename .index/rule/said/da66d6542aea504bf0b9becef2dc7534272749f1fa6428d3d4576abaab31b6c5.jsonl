@@ -1,1 +1,1 @@
-{"path":"design/language/lua-compiler/lualibs/number-is-nan/number-is-nan.lualib.code.ts","place":0,"name":"__TS__NumberIsNaN"}
+{"path":"design/language/lua-compiler/lualib-helper/number-is-nan/number-is-nan.lualib-helper.code.ts","place":0,"name":"__TS__NumberIsNaN"}

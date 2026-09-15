@@ -8,7 +8,7 @@ import { Heading } from "akasha/design/interfaces/primitives/modules/heading/hea
 import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
 import { ago } from "akasha/temper/web/modules/format-time-ago/format-time-ago.module.code.ts"
 import type { WatcherBuildSummary } from "akasha/temper/web/modules/watcher-build-status/watcher-build-status.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import { AlertTriangle, CheckCircle2, CircleDashed, HelpCircle, Wrench } from "lucide-react"
 
 type Presentation = {

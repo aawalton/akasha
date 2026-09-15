@@ -1,7 +1,0 @@
-{"path":"checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.audit.test.ts"}
-{"path":"checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.check.test.ts"}
-{"path":"checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.decision.test.ts"}
-{"path":"checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.audit.test.ts"}
-{"path":"checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.check.test.ts"}
-{"path":"checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.decision.test-fixtures.ts"}
-{"path":"checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.decision.test.ts"}

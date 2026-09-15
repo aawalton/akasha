@@ -1,10 +1,10 @@
-import type { Lualib } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
+import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
 
 export const json = {
   id: "01a08c56-1588-7ac1-89d9-5c505edc9573",
-  type: "lualib",
+  type: "lualib-helper",
   slug: "json",
   definition: "a value written as JSON text and read back from it",
   code: "ts",
   luaExport: "JSON",
-} as const satisfies Lualib
+} as const satisfies LualibHelper

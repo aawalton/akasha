@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const moduleSitsUnderAModulesFolder = {
   id: "01a095ee-d67a-7507-8e3e-82b54865302b",
-  type: "code-check",
+  type: "check-code",
   slug: "module-sits-under-a-modules-folder",
   definition: "the check refusing a module page whose folder sits under no modules folder",
   runsOnChange: true,
@@ -68,4 +68,4 @@ export const moduleSitsUnderAModulesFolder = {
   ],
   check: { maxCpuSeconds: 5 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

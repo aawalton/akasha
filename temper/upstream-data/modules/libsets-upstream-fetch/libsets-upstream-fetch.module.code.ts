@@ -14,7 +14,7 @@ import {
   type UpstreamProbe,
   verifyUpstream,
 } from "akasha/temper/upstream-data/modules/libsets-upstream-verify/libsets-upstream-verify.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export interface UpstreamPaths {
   readonly checkoutRoot: string

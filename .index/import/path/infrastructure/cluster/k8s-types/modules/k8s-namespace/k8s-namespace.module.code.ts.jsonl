@@ -1,10 +1,10 @@
 {"path":"infrastructure/cluster/k8s-types/modules/manifest-composing/manifest-composing.module.code.ts"}
 {"path":"infrastructure/git-transport/manifests/git-transport-manifests.manifest.code.ts"}
-{"path":"infrastructure/networks/cloudflared/cloudflared.manifest.code.ts"}
-{"path":"infrastructure/networks/headscale/headscale.manifest.code.ts"}
+{"path":"infrastructure/network/cloudflared/cloudflared.manifest.code.ts"}
+{"path":"infrastructure/network/headscale/headscale.manifest.code.ts"}
 {"path":"infrastructure/seaweedfs/master/seaweedfs-master.manifest.code.ts"}
-{"path":"infrastructure/storage/container-registries/registry/registry.manifest.code.ts"}
-{"path":"infrastructure/storage/databases/postgres-cnpg/postgres-cnpg.manifest.code.ts"}
-{"path":"infrastructure/storage/databases/supabase-realtime/supabase-realtime.manifest.code.ts"}
+{"path":"infrastructure/storage/container-registry/registry/registry.manifest.code.ts"}
+{"path":"infrastructure/storage/database/postgres-cnpg/postgres-cnpg.manifest.code.ts"}
+{"path":"infrastructure/storage/database/supabase-realtime/supabase-realtime.manifest.code.ts"}
 {"path":"infrastructure/telemetry/grafana/grafana.manifest.code.ts"}
 {"path":"infrastructure/telemetry/prometheus/prometheus.manifest.code.ts"}

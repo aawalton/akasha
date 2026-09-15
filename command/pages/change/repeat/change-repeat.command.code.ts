@@ -22,7 +22,7 @@ import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const CHANGE_AGENT = "change-agent"
 

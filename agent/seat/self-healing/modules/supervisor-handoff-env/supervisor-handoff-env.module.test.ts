@@ -11,7 +11,7 @@ import {
   parseSupervisorHandoffEnv,
   resolveProxyOwnerAgentId,
 } from "akasha/agent/seat/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import { asPid } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-exec/supervisor-exec.module.code.ts"
+import { asPid } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.code.ts"
 
 const WHOLE = {
   pid: asPid(4242),

@@ -13,7 +13,7 @@ import {
   QUARANTINE_ROOT,
   VENDOR_ROOT,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

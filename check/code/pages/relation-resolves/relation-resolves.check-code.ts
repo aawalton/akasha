@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const relationResolves = {
   id: "01a04d99-71ca-7e06-9f74-3a462cb7d4fb",
-  type: "code-check",
+  type: "check-code",
   slug: "relation-resolves",
   definition:
     "the check refusing a name that reaches no page, and a non-mortal page that names a mortal one",
@@ -93,4 +93,4 @@ export const relationResolves = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 60 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

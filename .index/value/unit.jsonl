@@ -1,5 +1,5 @@
-{"path":"alan/collections/units/pages/hours.unit.ts","value":{"id":"01a063de-2c60-7016-933a-326ac51ec2fe","type":"unit","slug":"hours","definition":"a length counted in hours of time","words":15000}}
-{"path":"alan/collections/units/pages/minutes.unit.ts","value":{"id":"01a063de-2c60-7017-8428-ab78f988cfa3","type":"unit","slug":"minutes","definition":"a length counted in minutes of time","words":250}}
-{"path":"alan/collections/units/pages/moments.unit.ts","value":{"id":"01a063de-2c60-7018-a15a-54588a807789","type":"unit","slug":"moments","definition":"a length counted in the moments an idle game's roster earns","words":1}}
-{"path":"alan/collections/units/pages/seconds.unit.ts","value":{"id":"01a063de-2c60-7019-8d47-ef61c6043e5d","type":"unit","slug":"seconds","definition":"a length counted in seconds of time","words":4.1667}}
-{"path":"alan/collections/units/pages/words.unit.ts","value":{"id":"01a063de-2c60-701a-824c-4edbfa944e6b","type":"unit","slug":"words","definition":"a length counted in words of text","words":1}}
+{"path":"alan/collection/unit/pages/hours.unit.ts","value":{"id":"01a063de-2c60-7016-933a-326ac51ec2fe","type":"unit","slug":"hours","definition":"a length counted in hours of time","words":15000}}
+{"path":"alan/collection/unit/pages/minutes.unit.ts","value":{"id":"01a063de-2c60-7017-8428-ab78f988cfa3","type":"unit","slug":"minutes","definition":"a length counted in minutes of time","words":250}}
+{"path":"alan/collection/unit/pages/moments.unit.ts","value":{"id":"01a063de-2c60-7018-a15a-54588a807789","type":"unit","slug":"moments","definition":"a length counted in the moments an idle game's roster earns","words":1}}
+{"path":"alan/collection/unit/pages/seconds.unit.ts","value":{"id":"01a063de-2c60-7019-8d47-ef61c6043e5d","type":"unit","slug":"seconds","definition":"a length counted in seconds of time","words":4.1667}}
+{"path":"alan/collection/unit/pages/words.unit.ts","value":{"id":"01a063de-2c60-701a-824c-4edbfa944e6b","type":"unit","slug":"words","definition":"a length counted in words of text","words":1}}

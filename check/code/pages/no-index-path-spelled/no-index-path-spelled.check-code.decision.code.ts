@@ -3,7 +3,7 @@ import { spelledIn } from "akasha/code/reading/modules/code-specifier/code-speci
 import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { pageNamed } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { shortened } from "akasha/utils/text/modules/shortened/shortened.module.code.ts"
+import { shortened } from "akasha/util/text/modules/shortened/shortened.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

@@ -1,1 +1,1 @@
-{"path":"design/language/lua-compiler/lualibs/promise/promise.lualib.code.ts","place":2,"name":"isPromiseLike"}
+{"path":"design/language/lua-compiler/lualib-helper/promise/promise.lualib-helper.code.ts","place":2,"name":"isPromiseLike"}

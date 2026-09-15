@@ -12,7 +12,7 @@ import {
   slugsIn,
   textIn,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 export const GROUP = "a-group-named-only-in-this-test"
 

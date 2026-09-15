@@ -77,7 +77,7 @@ import {
 import { putUpEvery } from "akasha/infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.code.ts"
 import { provingFor } from "akasha/infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import { waitedForRoom } from "akasha/utils/system/modules/landing-admission/landing-admission.module.code.ts"
+import { waitedForRoom } from "akasha/util/system/modules/landing-admission/landing-admission.module.code.ts"
 
 const PUT_UP = "deploy"
 const TAKES = [dryRun, deploySubject, noUpload, ref, measured, simulator, device]

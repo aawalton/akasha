@@ -1,3 +1,3 @@
 {"path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts","place":0,"name":"NO_SEATS"}
-{"path":"infrastructure/services/clusters/modules/workload-deploying/workload-deploying.module.code.ts","place":15,"name":"NOTHING_BETWEEN"}
-{"path":"pages/service/modules/page-reading/page-reading.module.test.ts","place":0,"name":"nowhere"}
+{"path":"infrastructure/service/cluster/modules/workload-deploying/workload-deploying.module.code.ts","place":15,"name":"NOTHING_BETWEEN"}
+{"path":"page/service/modules/page-reading/page-reading.module.test.ts","place":0,"name":"nowhere"}

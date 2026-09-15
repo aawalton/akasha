@@ -1,6 +1,6 @@
 import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import { JsonSchema } from "akasha/utils/narrow/modules/json-schema/json-schema.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import { JsonSchema } from "akasha/util/narrow/modules/json-schema/json-schema.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 import { z } from "zod"
 
 const PAGE_WRITE_PATH = "/api/page-write"

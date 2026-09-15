@@ -1,1 +1,1 @@
-{"path":"design/language/lua-compiler/lualibs/error-classing/error-classing.lualib.code.ts","place":0,"name":"initErrorClass"}
+{"path":"design/language/lua-compiler/lualib-helper/error-classing/error-classing.lualib-helper.code.ts","place":0,"name":"initErrorClass"}

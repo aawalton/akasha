@@ -7,4 +7,4 @@
 {"path":"agent/messaging/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.test.ts"}
 {"path":"agent/messaging/recipient-resolving/modules/wake-comms-input/wake-comms-input.module.code.ts"}
 {"path":"agent/seat/observation/seat-turn/modules/wake-armed-specs/wake-armed-specs.module.code.ts"}
-{"path":"personas/modules/targets/persona-targets.module.code.ts"}
+{"path":"persona/modules/targets/persona-targets.module.code.ts"}

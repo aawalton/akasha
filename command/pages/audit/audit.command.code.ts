@@ -21,8 +21,8 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { audit as page } from "akasha/command/pages/audit/audit.command.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { requireEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
-import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
+import { requireEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
+import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
 
 const AUDIT = "audit"
 

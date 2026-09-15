@@ -1,1 +1,1 @@
-{"path":"infrastructure/networks/auth-proxy/modules/session-identity/session-identity.module.code.ts","place":7,"name":"isJwtHeader"}
+{"path":"infrastructure/network/auth-proxy/modules/session-identity/session-identity.module.code.ts","place":7,"name":"isJwtHeader"}

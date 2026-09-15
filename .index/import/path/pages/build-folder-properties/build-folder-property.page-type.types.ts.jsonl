@@ -1,8 +1,0 @@
-{"path":"code/ios-apps/properties/web-directory.build-folder-property.ts"}
-{"path":"code/python-modules/properties/bytecode-directory.build-folder-property.ts"}
-{"path":"code/router-apps/properties/bundle-directory.build-folder-property.ts"}
-{"path":"code/router-apps/properties/declaration-directory.build-folder-property.ts"}
-{"path":"code/router-apps/properties/route-types-directory.build-folder-property.ts"}
-{"path":"code/workspaces/properties/package-directory.build-folder-property.ts"}
-{"path":"domains/properties/output-directory.build-folder-property.ts"}
-{"path":"infrastructure/cluster/k8s-types/manifests/properties/generated-directory.build-folder-property.ts"}

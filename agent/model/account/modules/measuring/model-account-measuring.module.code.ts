@@ -5,8 +5,8 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { wholeValue } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { asInstant } from "akasha/utils/narrow/modules/as-instant/as-instant.module.code.ts"
-import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
+import { asInstant } from "akasha/util/narrow/modules/as-instant/as-instant.module.code.ts"
+import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 

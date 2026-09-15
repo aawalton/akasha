@@ -18,7 +18,7 @@ import {
   mirroredWindow,
 } from "akasha/alan/harness/monarch/modules/reconcile/monarch-reconcile.module.code.ts"
 import { trustedFrom } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
-import { chunk } from "akasha/utils/narrow/modules/chunk/chunk.module.code.ts"
+import { chunk } from "akasha/util/narrow/modules/chunk/chunk.module.code.ts"
 
 export interface PollTally {
   readonly seen: number

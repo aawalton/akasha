@@ -10,10 +10,10 @@ const ABOVE = "akasha/code-checks"
 
 const FOLDER = `${ABOVE}/pages`
 
-const PAGE_TYPES = new Set<string>(["page-type", "code-check", "model-check"])
+const PAGE_TYPES = new Set<string>(["page-type", "check-code", "check-model"])
 
-const CODE_CHECK: Declaring = {
-  slug: "code-check",
+const CHECK_CODE: Declaring = {
+  slug: "check-code",
   pluralSlug: "code-checks",
   propertySlugs: new Set<string>(),
 }
@@ -22,7 +22,7 @@ function over(deep: readonly string[]): (names: readonly string[]) => Standing {
   return folderFrom({
     folder: FOLDER,
     pageTypes: PAGE_TYPES,
-    declaring: (at) => (at === ABOVE ? CODE_CHECK : null),
+    declaring: (at) => (at === ABOVE ? CHECK_CODE : null),
     deep,
   })
 }
@@ -30,14 +30,14 @@ function over(deep: readonly string[]): (names: readonly string[]) => Standing {
 const folder = over([])
 
 test("pages of the type above sitting as flat files take the shape", () => {
-  expect(pagesOfTheTypeAbove(folder(["one.code-check.ts", "two.code-check.ts"]))).toEqual([])
+  expect(pagesOfTheTypeAbove(folder(["one.check-code.ts", "two.check-code.ts"]))).toEqual([])
 })
 
 test("one page of that type to a subfolder takes the shape too", () => {
   const held = over([
-    "one/one.code-check.ts",
-    "one/one.code-check.code.ts",
-    "two/two.code-check.ts",
+    "one/one.check-code.ts",
+    "one/one.check-code.code.ts",
+    "two/two.check-code.ts",
   ])
   expect(pagesOfTheTypeAbove(held([]))).toEqual([])
 })
@@ -47,14 +47,14 @@ test("a folder holding no file at all takes the shape", () => {
 })
 
 test("a page of another page type is refused, and the reason names it", () => {
-  const said = pagesOfTheTypeAbove(folder(["one.code-check.ts", "two.model-check.ts"]))
+  const said = pagesOfTheTypeAbove(folder(["one.check-code.ts", "two.check-model.ts"]))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("not of `code-check`")
-  expect(said[0]).toContain("two.model-check.ts")
+  expect(said[0]).toContain("not of `check-code`")
+  expect(said[0]).toContain("two.check-model.ts")
 })
 
 test("a subfolder holding no page of that type is refused, and the reason names it", () => {
-  const held = over(["one/notes.model-check.ts"])
+  const held = over(["one/notes.check-model.ts"])
   const said = pagesOfTheTypeAbove(held([]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("one")
@@ -64,20 +64,20 @@ function declaring(named: Readonly<Record<string, readonly string[]>>) {
   return folderFrom({
     folder: FOLDER,
     pageTypes: PAGE_TYPES,
-    declaring: (at) => (at === ABOVE ? CODE_CHECK : null),
-    deep: ["one/one.model-check.ts"],
-    holds: (at) => (at === `${FOLDER}/one` ? ["model-check/one"] : []),
+    declaring: (at) => (at === ABOVE ? CHECK_CODE : null),
+    deep: ["one/one.check-model.ts"],
+    holds: (at) => (at === `${FOLDER}/one` ? ["check-model/one"] : []),
     declared: (at) => new Set<string>(named[at] ?? []),
   })
 }
 
 test("a subfolder holding a page that page type declares a part takes the shape", () => {
-  const held = declaring({ [ABOVE]: ["model-check/one"] })
+  const held = declaring({ [ABOVE]: ["check-model/one"] })
   expect(pagesOfTheTypeAbove(held([]))).toEqual([])
 })
 
 test("a subfolder holding a page that page type declares nowhere is refused", () => {
-  const held = declaring({ [ABOVE]: ["model-check/other"] })
+  const held = declaring({ [ABOVE]: ["check-model/other"] })
   const said = pagesOfTheTypeAbove(held([]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("one")
@@ -89,26 +89,26 @@ test("a folder named pages above which no page type sits is refused", () => {
 })
 
 test("a page carrying a file beside it is refused, and the reason names that page", () => {
-  const said = pagesOfTheTypeAbove(folder(["one.code-check.ts", "one.code-check.code.ts"]))
+  const said = pagesOfTheTypeAbove(folder(["one.check-code.ts", "one.check-code.code.ts"]))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("one.code-check")
+  expect(said[0]).toContain("one.check-code")
   expect(said[0]).toContain("a folder of its own")
 })
 
 test("a file held uncommitted beside a page leaves that page taking the shape", () => {
-  const names = ["one.code-check.ts", "one.code-check.test.uncommitted.jsonl"]
+  const names = ["one.check-code.ts", "one.check-code.test.uncommitted.jsonl"]
   expect(pagesOfTheTypeAbove(folder(names))).toEqual([])
 })
 
 test("a page file beside a page folder is refused, and the reason names the file", () => {
-  const held = over(["two/two.code-check.ts"])
-  const said = pagesOfTheTypeAbove(held(["one.code-check.ts"]))
+  const held = over(["two/two.check-code.ts"])
+  const said = pagesOfTheTypeAbove(held(["one.check-code.ts"]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("page files alone or page folders alone")
-  expect(said[0]).toContain("one.code-check.ts")
+  expect(said[0]).toContain("one.check-code.ts")
 })
 
 test("a file that is neither a page nor sits beside one is refused", () => {
-  const said = pagesOfTheTypeAbove(folder(["one.code-check.ts", "notes.txt"]))
+  const said = pagesOfTheTypeAbove(folder(["one.check-code.ts", "notes.txt"]))
   expect(said.some((each) => each.includes("notes.txt"))).toBe(true)
 })

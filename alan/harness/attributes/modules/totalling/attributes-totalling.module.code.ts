@@ -22,7 +22,7 @@ import {
   resolveRoots,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const DAY_PAGE_TYPE = "day"
 

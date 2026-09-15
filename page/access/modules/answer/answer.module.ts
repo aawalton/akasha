@@ -41,7 +41,7 @@ export const answer = {
     },
     {
       invariantKind: "departure",
-      statement: "The roster names every page type `@akasha/pages-service` has pages for.",
+      statement: "The roster names every page type `@akasha/page-service` has pages for.",
     },
     {
       invariantKind: "departure",

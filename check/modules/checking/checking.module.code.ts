@@ -20,7 +20,7 @@ import type {
 } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   type Judgement,
-  modelChecksIn,
+  checkModelsIn,
 } from "akasha/check/modules/model-running/model-running.module.code.ts"
 import {
   diesIn,
@@ -36,7 +36,7 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 export type Phase = "change" | "deploy" | "audit"
 
@@ -266,7 +266,7 @@ export function checkIn(root: string, slug: string): Gathered | null {
     if (partedIn(path)?.slug !== slug) continue
     return gatheredFrom(root, path, slug)
   }
-  for (const one of modelChecksIn(root)) if (one.slug === slug) return modelGathered(root, one)
+  for (const one of checkModelsIn(root)) if (one.slug === slug) return modelGathered(root, one)
   return null
 }
 
@@ -280,7 +280,7 @@ export function checksIn(root: string): readonly Gathered[] {
     const one = gatheredFrom(root, path, said.slug)
     if (one !== null) found.push(one)
   }
-  for (const one of modelChecksIn(root)) found.push(modelGathered(root, one))
+  for (const one of checkModelsIn(root)) found.push(modelGathered(root, one))
   if (found.length === 0) {
     throw new Error(
       "the index names no check, so nothing would judge this change and a clean answer would mean nothing"

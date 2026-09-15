@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noRawNulBytes = {
   id: "01a04bc8-6c71-7973-85d5-6d17ea5fea65",
-  type: "code-check",
+  type: "check-code",
   slug: "no-raw-nul-bytes",
   definition: "the check refusing a file with a raw NUL byte",
   runsOnChange: true,
@@ -92,4 +92,4 @@ export const noRawNulBytes = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

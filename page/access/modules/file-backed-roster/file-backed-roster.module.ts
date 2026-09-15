@@ -10,7 +10,7 @@ export const fileBackedRoster = {
     {
       invariantKind: "departure",
       statement:
-        "Which page types are backed by files is the page types `@akasha/pages-service` lists.",
+        "Which page types are backed by files is the page types `@akasha/page-service` lists.",
     },
     {
       invariantKind: "departure",

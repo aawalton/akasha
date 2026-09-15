@@ -23,7 +23,7 @@ import {
   getSelections,
 } from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 import { updateReport } from "akasha/temper/combat-addon/modules/combat-ui-window/combat-ui-window.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
+import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 function toggleShowIds(this: void): undefined {
   const db = getDb()

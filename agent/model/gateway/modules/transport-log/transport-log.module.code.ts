@@ -6,7 +6,7 @@ import {
   type Queue,
   queueAt,
 } from "akasha/page/modules/entry-queue/page-entry-queue.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 import { z } from "zod"
 
 const TRANSPORT_PROPERTY_SLUG = "transport"

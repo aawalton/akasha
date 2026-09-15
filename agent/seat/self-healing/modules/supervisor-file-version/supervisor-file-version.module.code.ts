@@ -1,12 +1,12 @@
 import { dirname, join, normalize } from "node:path"
-import { AGENT_SETTINGS_PATH } from "akasha/agent/seat/supervisors/supervisor-child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
-import { LOG } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+import { AGENT_SETTINGS_PATH } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
+import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   landingOf,
   type Naming,
 } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { reachesIn } from "akasha/code/workspace/modules/package-manifest/package-manifest.module.code.ts"
-import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
+import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 
 const SPECIFIER = /from\s+"([^"]*)"/g
 

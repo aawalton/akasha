@@ -1,0 +1,9 @@
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+
+export const utilWaiting = {
+  id: "01a08e0b-52e5-7552-bf24-7f06021af9e2",
+  type: "domain",
+  slug: "util-waiting",
+  definition: "the wait a caller takes before trying again",
+  parts: ["module/thread-pause"],
+} as const satisfies Domain

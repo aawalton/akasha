@@ -24,7 +24,7 @@ import {
   type SkillLineId,
   skillLines,
 } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
-import { requireGet } from "akasha/utils/narrow/modules/require-get/require-get.module.code.ts"
+import { requireGet } from "akasha/util/narrow/modules/require-get/require-get.module.code.ts"
 
 export function getAvailableSkillLinesGrouped(
   playerClass: ClassId,

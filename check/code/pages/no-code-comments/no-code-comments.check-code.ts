@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noCodeComments = {
   id: "01a04bc8-6c45-741c-8dfd-0665538af7c4",
-  type: "code-check",
+  type: "check-code",
   slug: "no-code-comments",
   definition: "the check refusing a comment that is none of the code comment forms",
   runsOnChange: true,
@@ -41,4 +41,4 @@ export const noCodeComments = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

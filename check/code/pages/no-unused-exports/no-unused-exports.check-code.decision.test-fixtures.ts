@@ -11,7 +11,7 @@ import {
   pageFilingFrom,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const AT = "akasha/held.module.code.ts"
 
@@ -55,7 +55,7 @@ export const SERVICE_AT = "akasha/held.service-workstation.running.code.ts"
 
 export const SERVICE_TEXT = "export const runService = (): number => 1\n\nexport const spare = 2\n"
 
-export const CHECK_AT = "akasha/held-thing.code-check.check.code.ts"
+export const CHECK_AT = "akasha/held-thing.check-code.check.code.ts"
 
 export const CHECK_TEXT = "export const heldThing = (): number => 1\n\nexport const spare = 2\n"
 
@@ -128,13 +128,13 @@ export const WORK_AT = "akasha/held.computed-property.code.ts"
 
 export const WORK_TEXT = "export const work = (): number => 1\n\nexport const spare = 2\n"
 
-export const LUA_AT = "akasha/held.lualib.code.ts"
+export const LUA_AT = "akasha/held.lualib-helper.code.ts"
 
-const LUA_PAGE_AT = "akasha/held.lualib.ts"
+const LUA_PAGE_AT = "akasha/held.lualib-helper.ts"
 
 const LUA_PAGE_TEXT =
   'export const held = { id: "01a0927a-1000-7001-8000-000000000002",' +
-  ' pageTypeSlug: "lualib", slug: "held", luaExport: "__TS__Held" }\n'
+  ' pageTypeSlug: "lualib-helper", slug: "held", luaExport: "__TS__Held" }\n'
 
 export const LUA_TEXT =
   "export function __TS__Held(): number {\n  return 1\n}\n\nexport const spare = 2\n"
@@ -182,15 +182,15 @@ export function rooted(): string {
   founded(root)
   typed(root, "domain", "page")
   typed(root, "module", "domain")
-  typed(root, "lualib", "domain")
+  typed(root, "lualib-helper", "domain")
   typed(root, "command", "domain", [], "module/calling")
   typed(root, "computed-property", "domain")
   typed(root, "change-guard", "domain")
   typed(root, "service-workstation", "domain")
   typed(root, "test-fixture", "domain")
-  typed(root, "code-check", "domain", [], "module/checking")
-  typed(root, "syntax-rule", "domain", [], "code-check/no-refused-syntax")
-  typed(root, "folder-shape", "domain", [], "code-check/folder-matches-a-shape")
+  typed(root, "check-code", "domain", [], "module/checking")
+  typed(root, "syntax-rule", "domain", [], "check-code/no-refused-syntax")
+  typed(root, "folder-shape", "domain", [], "check-code/folder-matches-a-shape")
   typed(root, "name-format", "domain", [], "module/format-reaching")
   typed(root, "context-warrant", "domain", [], "module/warranting")
   typed(root, "shell-script", "domain")

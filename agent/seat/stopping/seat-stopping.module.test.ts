@@ -31,8 +31,8 @@ import type { Applied } from "akasha/command/modules/applying/applying.module.co
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const SELF = 4242
 

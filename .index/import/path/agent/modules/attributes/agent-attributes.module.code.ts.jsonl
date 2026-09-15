@@ -12,5 +12,5 @@
 {"path":"agent/seat/name/modules/seat-nameable/seat-nameable.module.code.ts"}
 {"path":"agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"}
 {"path":"agent/seat/page/modules/history/seat-page-history.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-child/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-rebinding/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-child/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"}

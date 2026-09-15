@@ -7,7 +7,7 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const DOMAINS = "domains"
 

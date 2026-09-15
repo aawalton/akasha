@@ -11,7 +11,7 @@ import { agentSubagentStop } from "akasha/command/pages/agent/subagent-stop/agen
 import type { RunningSaid } from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
-import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const OWN = "a0123456789abcdef"
 

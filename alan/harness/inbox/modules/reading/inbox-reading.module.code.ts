@@ -12,7 +12,7 @@ import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.t
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const READOUT = "readout"
 

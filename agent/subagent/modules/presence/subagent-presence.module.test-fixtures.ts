@@ -27,12 +27,12 @@ import { said as gitIn } from "akasha/git/modules/running/git-running.module.cod
 import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { refreshedIn } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
-import { keptAt, scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { keptAt, scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 import {
   bodyAt,
   writing,
-} from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
-import { firstCapture } from "akasha/utils/narrow/modules/first-capture/first-capture.module.code.ts"
+} from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { firstCapture } from "akasha/util/narrow/modules/first-capture/first-capture.module.code.ts"
 
 const LANDED = { base: "", landed: [], formatted: [], said: [], wrong: [], commit: null }
 

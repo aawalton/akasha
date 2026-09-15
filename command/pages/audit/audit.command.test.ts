@@ -22,7 +22,7 @@ function gathered(
   return slugs.map(
     (slug): Gathered => ({
       slug,
-      page: `${slug}.code-check.ts`,
+      page: `${slug}.check-code.ts`,
       root: ".",
       runsOn,
       stated,

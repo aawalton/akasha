@@ -9,7 +9,7 @@ import type {
   Query,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
+import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.ts"
 
 const held = new Map<string, Promise<FileReadShape | null>>()
 

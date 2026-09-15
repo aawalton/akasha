@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const typecheck = {
   id: "01a04bcb-dff4-761a-856e-407fb6934b44",
-  type: "code-check",
+  type: "check-code",
   slug: "typecheck",
   definition: "the check refusing TypeScript that does not compile",
   runsOnChange: true,
@@ -277,4 +277,4 @@ export const typecheck = {
   ],
   check: { maxCpuSeconds: 120 },
   audit: { maxCpuSeconds: 150 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

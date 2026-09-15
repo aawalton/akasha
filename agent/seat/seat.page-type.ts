@@ -25,7 +25,7 @@ export const seat = {
     "domain/seat-observation",
     "domain/seat-page",
     "domain/seat-reviving",
-    "domain/seat-supervisors",
+    "domain/seat-supervisor",
     "domain/self-healing",
     "file-property/subagent-edits",
     "file-property/subagent-reads",

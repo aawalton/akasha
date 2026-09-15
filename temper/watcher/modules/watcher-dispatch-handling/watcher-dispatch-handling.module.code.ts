@@ -26,7 +26,7 @@ import {
   type StatSnapshot,
 } from "akasha/temper/watcher/modules/watcher-stable-read/watcher-stable-read.module.code.ts"
 import type { FileState } from "akasha/temper/watcher/modules/watcher-state/watcher-state.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 export const DEBOUNCE_MS = 3000
 

@@ -16,8 +16,8 @@ import {
 import type { Formatting } from "akasha/page/name-format/modules/format-reaching/format-reaching.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export const allows: Formatting = () => (): boolean => true
 

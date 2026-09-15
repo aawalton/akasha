@@ -2,7 +2,7 @@
 
 import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
 import type { PricingSourceNoteKind } from "akasha/temper/player-inventory-management-ui/modules/pricing-source/pricing-source.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"
 
 export function PricingSourceNote({ kind }: { kind: PricingSourceNoteKind }): ReactNode {

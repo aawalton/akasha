@@ -4,7 +4,7 @@ export const aLandingJudgesOnlyWhatThatLandingCarries = {
   id: "01a08dea-fe42-712f-88be-65b324f8c798",
   type: "finding",
   slug: "a-landing-judges-only-what-that-landing-carries",
-  domain: "domain/testing-system",
+  domain: "domain/test",
   claim:
     "A landing runs the tests beside the files that landing carries, so a fault beside a file nothing has touched goes unjudged for as long as nothing touches it.",
   evidence:

@@ -32,7 +32,7 @@ import {
   type PageTypeSlug,
   toPageTypeSlug,
 } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 export function PageDefaultContent({
   pageTypeSlug,

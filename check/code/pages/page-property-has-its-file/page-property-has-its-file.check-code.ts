@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const pagePropertyHasItsFile = {
   id: "01a04d86-434f-7119-b8cc-858d63edf631",
-  type: "code-check",
+  type: "check-code",
   slug: "page-property-has-its-file",
   definition: "the check refusing a page that states a property held in a file it does not have",
   runsOnChange: true,
@@ -72,4 +72,4 @@ export const pagePropertyHasItsFile = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

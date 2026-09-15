@@ -9,8 +9,8 @@ import {
   scanBackpackItems,
   scanGuildBankGroups,
 } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-guild-repack-scan/inventory-rules-dispatch-guild-repack-scan.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/modules/require-at/require-at.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
+import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
+import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 let repackRunning = false
 

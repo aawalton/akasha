@@ -10,7 +10,7 @@ import {
   totalOf,
 } from "akasha/command/pages/measure/model/account/cost/modules/model-account-costing/model-account-costing.module.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

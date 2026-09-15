@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const indexIsLevelWithThePages = {
   id: "01a091e9-689c-7003-b37b-c2bee87ff75b",
-  type: "code-check",
+  type: "check-code",
   slug: "index-is-level-with-the-pages",
   definition: "the check refusing an index entry that differs from what the pages say",
   runsOnChange: false,
@@ -100,4 +100,4 @@ export const indexIsLevelWithThePages = {
     },
   ],
   audit: { maxCpuSeconds: 120 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

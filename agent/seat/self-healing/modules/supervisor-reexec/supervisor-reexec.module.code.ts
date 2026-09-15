@@ -3,15 +3,15 @@ import { getProxyOwnerAgentIdForSelfHeal } from "akasha/agent/seat/self-healing/
 import {
   configDirForAccount,
   LOG,
-} from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   execvpe,
   isProcessAlive,
-} from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-exec/supervisor-exec.module.code.ts"
+} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.code.ts"
 import {
   getInheritedClaude,
   processes,
-} from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
+} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
 
 function collectClaudeHandoff(): {
   pid: number

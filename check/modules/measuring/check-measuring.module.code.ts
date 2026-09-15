@@ -5,7 +5,7 @@ import { everyOfType } from "akasha/page/index/modules/reading/index-reading.mod
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedPartsOf } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
 
-const CHECKED = "code-check"
+const CHECKED = "check-code"
 
 const ENTRIES = "entries"
 

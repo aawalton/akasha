@@ -8,7 +8,7 @@ import {
   parsePgInt,
 } from "akasha/page/core/json-patch/modules/jsonb-ops/jsonb-ops.module.code.ts"
 import type { JsonPatchOp } from "akasha/page/core/view-state/modules/view-state-change/view-state-change.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 
 const SYSTEM_KEYS: ReadonlySet<string> = new Set([
   "id",

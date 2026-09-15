@@ -34,7 +34,7 @@ import type {
 } from "akasha/infrastructure/cluster/provisioning/talos/modules/schema/schema.module.code.ts"
 import { decryptToTmp } from "akasha/infrastructure/cluster/provisioning/talos/modules/sops/sops.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/modules/talosctl/talosctl.module.code.ts"
-import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const CONTROL_PLANE = "controlplane"
 

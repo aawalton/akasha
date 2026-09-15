@@ -1,10 +1,10 @@
-import type { Lualib } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
+import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
 
 export const objectFromEntries = {
   id: "01a081f7-142d-7cbd-8e6e-d97955f7b7c6",
-  type: "lualib",
+  type: "lualib-helper",
   slug: "object-from-entries",
   definition: "the object key and value pairs make",
   code: "ts",
   luaExport: "__TS__ObjectFromEntries",
-} as const satisfies Lualib
+} as const satisfies LualibHelper

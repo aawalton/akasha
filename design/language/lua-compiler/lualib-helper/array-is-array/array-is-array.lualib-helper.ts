@@ -1,10 +1,10 @@
-import type { Lualib } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
+import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
 
 export const arrayIsArray = {
   id: "01a081dd-c59d-70d7-88c8-5724f5705343",
-  type: "lualib",
+  type: "lualib-helper",
   slug: "array-is-array",
   definition: "the answer whether a value is an array",
   code: "ts",
   luaExport: "__TS__ArrayIsArray",
-} as const satisfies Lualib
+} as const satisfies LualibHelper

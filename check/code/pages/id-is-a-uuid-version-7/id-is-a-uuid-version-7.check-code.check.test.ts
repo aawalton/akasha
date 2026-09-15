@@ -3,7 +3,7 @@ import { idIsAUuidVersion7 } from "akasha/check/code/pages/id-is-a-uuid-version-
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { arriving } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const AT = "akasha/held.check.ts"
 

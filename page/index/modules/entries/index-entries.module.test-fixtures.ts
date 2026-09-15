@@ -16,7 +16,7 @@ import { shapeFiled } from "akasha/page/index/shapes/index-shapes.index.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const A = "01a04b79-0000-7000-8000-00000000000a"
 export const B = "01a04b79-0000-7000-8000-00000000000b"

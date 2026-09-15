@@ -35,7 +35,7 @@ import type {
   SlotUpgrade,
   UpgradeScanResult,
 } from "akasha/temper/companions-addon/modules/companions-scan-upgrades/companions-scan-upgrades.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/modules/require-at/require-at.module.code.ts"
+import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 
 let APPLY_GENERATION = 0
 

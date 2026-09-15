@@ -9,7 +9,7 @@ import {
   proposing,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const HELD = "akasha/held.ts"
 

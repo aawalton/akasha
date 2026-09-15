@@ -18,7 +18,7 @@ import type { Carried } from "akasha/page/index/modules/property-carrying/proper
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
 import ts from "typescript"
 
 const LINKED = "linked-at"

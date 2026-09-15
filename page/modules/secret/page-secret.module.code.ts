@@ -5,7 +5,7 @@ import {
   NO_CODE,
   ran as running,
   type Said,
-} from "akasha/utils/run/modules/running/running.module.code.ts"
+} from "akasha/util/run/modules/running/running.module.code.ts"
 
 export type Secrets = ReadonlyMap<string, string>
 

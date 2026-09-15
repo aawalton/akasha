@@ -1,1 +1,1 @@
-{"path":"infrastructure/services/clusters/modules/workload-deploying/workload-deploying.module.code.ts","place":0,"name":"runKubectl"}
+{"path":"infrastructure/service/cluster/modules/workload-deploying/workload-deploying.module.code.ts","place":0,"name":"runKubectl"}

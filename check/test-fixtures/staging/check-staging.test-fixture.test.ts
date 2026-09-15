@@ -16,7 +16,7 @@ import {
   listedAt,
   readingIn,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 afterAll(scratch.sweep)
 

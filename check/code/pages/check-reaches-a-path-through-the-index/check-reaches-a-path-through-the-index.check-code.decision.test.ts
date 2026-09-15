@@ -235,7 +235,7 @@ test("a tail carrying what is no plain segment is no page's name", () => {
 })
 
 test("a page's test listing a folder is not judged by the name it spells", () => {
-  const at = "check/code/pages/a/a.code-check.test.ts"
+  const at = "check/code/pages/a/a.check-code.test.ts"
   const said = reasonsIn(reaching, naming, at, 'const S = ".module.code.ts"\nreaddirSync(root)\n')
   expect(said).toEqual([])
 })
@@ -249,37 +249,37 @@ test("paths are grouped under the last name each path carries", () => {
 })
 
 test("the code of a page whose type the index knows is judged", () => {
-  expect(judgedBy(TYPES)("check/code/pages/a/a.code-check.code.ts")).toBe(true)
+  expect(judgedBy(TYPES)("check/code/pages/a/a.check-code.code.ts")).toBe(true)
 })
 
 test("the test of a page whose type the index knows is judged", () => {
-  expect(judgedBy(TYPES)("check/code/pages/a/a.code-check.test.ts")).toBe(true)
+  expect(judgedBy(TYPES)("check/code/pages/a/a.check-code.test.ts")).toBe(true)
 })
 
 test("a page's own file states no section, so that file is not judged", () => {
-  expect(judgedBy(TYPES)("check/code/pages/a/a.code-check.ts")).toBe(false)
+  expect(judgedBy(TYPES)("check/code/pages/a/a.check-code.ts")).toBe(false)
 })
 
 test("the code of a property group a page carries is judged", () => {
-  expect(judgedBy(TYPES)("check/code/pages/a/a.code-check.decision.code.ts")).toBe(true)
-  expect(judgedBy(TYPES)("check/code/pages/a/a.code-check.check.code.ts")).toBe(true)
-  expect(judgedBy(TYPES)("check/code/pages/a/a.code-check.audit.code.ts")).toBe(true)
+  expect(judgedBy(TYPES)("check/code/pages/a/a.check-code.decision.code.ts")).toBe(true)
+  expect(judgedBy(TYPES)("check/code/pages/a/a.check-code.check.code.ts")).toBe(true)
+  expect(judgedBy(TYPES)("check/code/pages/a/a.check-code.audit.code.ts")).toBe(true)
 })
 
 test("the test of a property group a page carries is judged", () => {
-  expect(judgedBy(TYPES)("check/code/pages/a/a.code-check.decision.test.ts")).toBe(true)
-  expect(judgedBy(TYPES)("check/code/pages/a/a.code-check.check.test.ts")).toBe(true)
-  expect(judgedBy(TYPES)("check/code/pages/a/a.code-check.audit.test.ts")).toBe(true)
+  expect(judgedBy(TYPES)("check/code/pages/a/a.check-code.decision.test.ts")).toBe(true)
+  expect(judgedBy(TYPES)("check/code/pages/a/a.check-code.check.test.ts")).toBe(true)
+  expect(judgedBy(TYPES)("check/code/pages/a/a.check-code.audit.test.ts")).toBe(true)
 })
 
 test("a fixture builds a tree of its own, so a fixtures file is not judged", () => {
-  const beside = "check/code/pages/a/a.code-check.decision.test-fixtures.ts"
-  expect(judgedBy(TYPES)("check/code/pages/a/a.code-check.test-fixtures.ts")).toBe(false)
+  const beside = "check/code/pages/a/a.check-code.decision.test-fixtures.ts"
+  expect(judgedBy(TYPES)("check/code/pages/a/a.check-code.test-fixtures.ts")).toBe(false)
   expect(judgedBy(TYPES)(beside)).toBe(false)
 })
 
 test("a file whose last section is no code and no test is not judged", () => {
-  const logs = "check/code/pages/a/a.code-check.check.logs.uncommitted.jsonl"
+  const logs = "check/code/pages/a/a.check-code.check.logs.uncommitted.jsonl"
   expect(judgedBy(TYPES)(logs)).toBe(false)
 })
 
@@ -292,8 +292,8 @@ test("a page's file that is no TypeScript is judged whatever section names that 
 })
 
 test("a page's TypeScript file is judged only where that file is the code or the test", () => {
-  const beside = "check/code/pages/a/a.code-check.test-fixtures.ts"
-  expect(judgingOver(ASKED)("check/code/pages/a/a.code-check.code.ts")).toBe(true)
+  const beside = "check/code/pages/a/a.check-code.test-fixtures.ts"
+  expect(judgingOver(ASKED)("check/code/pages/a/a.check-code.code.ts")).toBe(true)
   expect(judgingOver(ASKED)(beside)).toBe(false)
 })
 
@@ -310,7 +310,7 @@ test("a file a page property says a tool resolves the paths in is judged by noth
 })
 
 test("a file held uncommitted is judged by nothing", () => {
-  const held = "check/code/pages/a/a.code-check.entries.uncommitted.jsonl"
+  const held = "check/code/pages/a/a.check-code.entries.uncommitted.jsonl"
   expect(judgingOver(ASKED)(held)).toBe(false)
 })
 
@@ -373,7 +373,7 @@ test("a path more than one page ends with is refused wherever that path is spell
 })
 
 test("a literal is named by the page nearest the file that spells that literal", () => {
-  const at = "a/two/code/two.code-check.code.ts"
+  const at = "a/two/code/two.check-code.code.ts"
   const said = reasonsIn(nearer, naming, at, `const AT = "${CONTAINERFILE}"\n`)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain(TWO)

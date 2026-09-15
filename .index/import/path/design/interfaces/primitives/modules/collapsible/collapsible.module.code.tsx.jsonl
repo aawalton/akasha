@@ -1,6 +1,6 @@
 {"path":"design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"}
 {"path":"design/interfaces/patterns/modules/collapsible-group-section/collapsible-group-section.module.code.tsx"}
-{"path":"pages/ui/components/modules/page-detail-sections/page-detail-sections.module.code.tsx"}
+{"path":"page/ui/components/modules/page-detail-sections/page-detail-sections.module.code.tsx"}
 {"path":"temper/web/modules/collapsible-skill-card/collapsible-skill-card.module.code.tsx"}
 {"path":"temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"}
 {"path":"temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.code.tsx"}

@@ -8,8 +8,8 @@ import {
   type Stray,
   strayNow,
 } from "akasha/agent/modules/stray-process/stray-process.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
-import { ending } from "akasha/utils/process/modules/process-ending/process-ending.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
+import { ending } from "akasha/util/process/modules/process-ending/process-ending.module.code.ts"
 
 const SECOND = 1000
 

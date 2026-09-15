@@ -16,8 +16,8 @@ import {
   readSiblingAddonNames,
   siblingDistDir,
 } from "akasha/temper/addons-resolve/modules/sibling-addons/sibling-addons.module.code.ts"
-import { saidBy as messageOf } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { saidBy as messageOf } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const DIST_UNDER = "dist"
 const BUNDLE_SUFFIX = ".lua"

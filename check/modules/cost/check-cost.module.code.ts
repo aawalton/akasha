@@ -4,9 +4,9 @@ import { join } from "node:path"
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
 import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { uncommittedPartAt } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
-import { sizeOnDisk } from "akasha/utils/fs/modules/file-size/file-size.module.code.ts"
-import { textOnDisk } from "akasha/utils/fs/modules/text-on-disk/text-on-disk.module.code.ts"
-import { spentRelaying } from "akasha/utils/run/modules/run-relaying/run-relaying.module.code.ts"
+import { sizeOnDisk } from "akasha/util/fs/modules/file-size/file-size.module.code.ts"
+import { textOnDisk } from "akasha/util/fs/modules/text-on-disk/text-on-disk.module.code.ts"
+import { spentRelaying } from "akasha/util/run/modules/run-relaying/run-relaying.module.code.ts"
 
 const ENTRIES = "entries"
 

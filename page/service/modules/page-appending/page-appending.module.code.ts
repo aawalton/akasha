@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { recorded } from "akasha/check/modules/cost/check-cost.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const ENTRIES = "entries"
 

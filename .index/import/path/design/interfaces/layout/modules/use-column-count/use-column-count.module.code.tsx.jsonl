@@ -2,6 +2,6 @@
 {"path":"design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"}
 {"path":"design/interfaces/layout/modules/virtual-card-grid/virtual-card-grid.module.code.tsx"}
 {"path":"design/interfaces/system/modules/layout-tab/layout-tab.module.code.tsx"}
-{"path":"pages/ui/components/modules/page-card-grid/page-card-grid.module.code.tsx"}
+{"path":"page/ui/components/modules/page-card-grid/page-card-grid.module.code.tsx"}
 {"path":"temper/web/modules/character-editor-content/character-editor-content.module.code.tsx"}
 {"path":"temper/web/modules/companion-editor-content/companion-editor-content.module.code.tsx"}

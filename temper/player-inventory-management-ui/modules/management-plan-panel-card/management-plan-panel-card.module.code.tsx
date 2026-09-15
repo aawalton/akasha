@@ -25,7 +25,7 @@ import {
   type ValueExplanationData,
   ValueExplanationDialog,
 } from "akasha/temper/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.code.tsx"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import { useCallback, useState } from "react"
 
 interface ManagementPlanPanelCardProps extends InventoryReadState {

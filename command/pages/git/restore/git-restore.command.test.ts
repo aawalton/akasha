@@ -5,7 +5,7 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import { gitRestore } from "akasha/command/pages/git/restore/git-restore.command.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const ONE = "akasha/one.ts"
 

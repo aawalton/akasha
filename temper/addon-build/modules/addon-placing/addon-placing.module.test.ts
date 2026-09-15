@@ -4,8 +4,8 @@ import { join } from "node:path"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { placedAddon } from "akasha/temper/addon-build/modules/addon-placing/addon-placing.module.code.ts"
 import { addonBuildOutputRel } from "akasha/temper/addon-build/modules/build-output/build-output.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const scratch = scratchWorld()
 

@@ -4,7 +4,7 @@ export const thirteenFlatPagesFoldersNeedPerPageFoldersAndThreeMoreOnlyLookAsTho
   id: "01a0887c-f198-7151-bd0b-37845f3e4e87",
   type: "finding",
   slug: "thirteen-flat-pages-folders-need-per-page-folders-and-three-more-only-look-as-though-they-do",
-  domain: "code-check/folder-matches-a-shape",
+  domain: "check-code/folder-matches-a-shape",
   claim:
     "Four `pages` folders hold more pages than one and must become one folder to a page, read off the check's own report over the whole tree rather than off a scratch run, as the pages each holds: `alan/harness/errors-core/runtime-error` 10, `infrastructure/service/workstation` 28, `agent/messaging/message` 236, `agent/seat/log-day` 237. Each name leaves off the trailing `/pages`. Twelve of the thirteen this page counted on 2026-09-09 no longer refuse, and the three the report adds were never among them. Three further folders read as members of this class and are not.",
   evidence:

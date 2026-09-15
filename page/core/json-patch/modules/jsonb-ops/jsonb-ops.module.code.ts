@@ -1,5 +1,5 @@
 import { asJson } from "akasha/page/core/modules/as-json/as-json.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 
 export type JsonObject = { [key: string]: Json | undefined }
 

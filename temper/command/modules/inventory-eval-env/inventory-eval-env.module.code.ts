@@ -17,7 +17,7 @@ import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destina
 import type { EvalEnv } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 import { luaStringsOrEmpty } from "akasha/temper/saved-variables/modules/lua-array/lua-array.module.code.ts"
 import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export interface CliEvalEnvDeps {
   readonly charactersById: ReadonlyMap<string, CharacterKnowledge>

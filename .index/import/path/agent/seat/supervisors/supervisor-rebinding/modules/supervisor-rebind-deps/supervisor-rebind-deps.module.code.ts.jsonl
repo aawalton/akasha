@@ -1,9 +1,0 @@
-{"path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-loop/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-process/modules/run-supervisor/run-supervisor.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-rebinding/modules/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-rebinding/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-rebinding/modules/supervisor-rebind/supervisor-rebind.module.code.ts"}

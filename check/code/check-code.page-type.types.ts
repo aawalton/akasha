@@ -7,7 +7,7 @@ import type { RunsOnChange } from "akasha/check/code/properties/runs-on-change.b
 import type { RunsOnDeploy } from "akasha/check/code/properties/runs-on-deploy.boolean-property.types.ts"
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export type CodeCheck = Domain & {
+export type CheckCode = Domain & {
   decision?: Decision
   check?: Check
   audit?: Audit

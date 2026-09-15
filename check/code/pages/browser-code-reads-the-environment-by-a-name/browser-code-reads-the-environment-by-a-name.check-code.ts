@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const browserCodeReadsTheEnvironmentByAName = {
   id: "01a08dbe-1652-7000-bba4-cd7488c7a8ec",
-  type: "code-check",
+  type: "check-code",
   slug: "browser-code-reads-the-environment-by-a-name",
   definition:
     "the check refusing a bundled router app module reaching the environment by a key or a Next name",
@@ -157,4 +157,4 @@ export const browserCodeReadsTheEnvironmentByAName = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

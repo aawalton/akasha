@@ -1,9 +1,9 @@
 import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
-export const lualib = {
+export const lualibHelper = {
   id: "01a0816a-91f6-79d0-8293-0fb65177f129",
   type: "page-type",
-  slug: "lualib",
+  slug: "lualib-helper",
   definition: "one helper a compiler writes into every addon's Lua",
   parts: [
     "code-file-property/compiled-lua",

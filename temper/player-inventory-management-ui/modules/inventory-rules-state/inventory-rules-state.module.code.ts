@@ -11,7 +11,7 @@ import {
   migrateRemoveScopesAndFilters,
   migrateValueFieldNames,
 } from "akasha/temper/player-inventory-management-ui/modules/inventory-rule-migrations/inventory-rule-migrations.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import { type RefObject, useCallback, useMemo, useRef } from "react"
 
 export function preserveLocked<T extends { id: string; locked?: boolean }>(

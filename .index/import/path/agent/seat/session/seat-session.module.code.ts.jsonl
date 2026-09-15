@@ -5,4 +5,4 @@
 {"path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"}
 {"path":"agent/seat/session/modules/resolve/seat-session-resolve.module.code.ts"}
 {"path":"agent/seat/session/modules/seat-rotated-session/seat-rotated-session.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}

@@ -10,7 +10,7 @@ import {
   slugsOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const PERFORMANCE = "performance"
 

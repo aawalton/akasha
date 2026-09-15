@@ -1,5 +1,5 @@
 import type { UpdatableControl } from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
+import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 const SUB_ID_TO_QUALITY: Record<number, number> = {}
 

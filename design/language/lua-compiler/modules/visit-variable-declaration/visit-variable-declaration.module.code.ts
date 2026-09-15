@@ -25,7 +25,7 @@ import {
 } from "akasha/design/language/lua-compiler/modules/visit-function-shape/visit-function-shape.module.code.ts"
 import { transformIdentifier } from "akasha/design/language/lua-compiler/modules/visit-identifier/visit-identifier.module.code.ts"
 import { transformPropertyName } from "akasha/design/language/lua-compiler/modules/visit-property-name/visit-property-name.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
 export function transformArrayBindingElement(

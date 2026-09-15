@@ -22,7 +22,7 @@ import {
   type Enrolment,
   personSlugForAccount,
 } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
 

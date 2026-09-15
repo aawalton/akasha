@@ -14,9 +14,9 @@ import {
   rootsHere,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
-import type { Said } from "akasha/utils/run/modules/running/running.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
+import type { Said } from "akasha/util/run/modules/running/running.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const TS = ".ts"
 

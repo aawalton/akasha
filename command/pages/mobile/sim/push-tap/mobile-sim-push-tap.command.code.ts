@@ -42,7 +42,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mobileSimPushTap as page } from "akasha/command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 import { z } from "zod"
 
 const TAKES = [app, udidArgument, route, warm, title]

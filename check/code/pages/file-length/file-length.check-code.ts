@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const fileLength = {
   id: "01a04bcb-c6e7-7e01-9b01-3cad38df56be",
-  type: "code-check",
+  type: "check-code",
   slug: "file-length",
   definition: "the check refusing a file whose body is over the byte ceiling its kind is held to",
   runsOnChange: true,
@@ -157,4 +157,4 @@ export const fileLength = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

@@ -24,7 +24,7 @@ export const WRAPPED = "services/workstations/service-wrapping/service-wrapping.
 export const WRAPPED_AT =
   "infrastructure/service/workstation/service-wrapping/service-wrapping.module.code.ts"
 
-export const SERVICE = "infrastructure/service/pages/pages-service.service.ts"
+export const SERVICE = "infrastructure/service/pages/page-service.service.ts"
 
 export const CONFIG = "code/editor/extension/tsconfig.json"
 

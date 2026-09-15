@@ -36,7 +36,7 @@ import type {
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const RATE_LIMITED = 429
 

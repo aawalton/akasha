@@ -17,9 +17,9 @@ import {
 import {
   asRecord,
   asRecordOrEmpty,
-} from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
-import { isJson } from "akasha/utils/narrow/modules/is-json/is-json.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+} from "akasha/util/narrow/modules/as-record/as-record.module.code.ts"
+import { isJson } from "akasha/util/narrow/modules/is-json/is-json.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 import { z } from "zod"
 
 const TEMPER_PLAYER_PAGE_TYPE_SLUG = "temper-player"

@@ -15,7 +15,7 @@ import {
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const ROOT = process.cwd()
 

@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const instantPropertySlugClosesWithAt = {
   id: "01a058fe-c486-7dda-9fda-4e08c8681e57",
-  type: "code-check",
+  type: "check-code",
   slug: "instant-property-slug-closes-with-at",
   definition:
     "the check refusing a page standing under `instant-property` whose slug does not close with `-at`",
@@ -36,4 +36,4 @@ export const instantPropertySlugClosesWithAt = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

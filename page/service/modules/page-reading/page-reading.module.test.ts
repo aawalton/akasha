@@ -9,7 +9,7 @@ import {
   reading,
   refusalIn,
 } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

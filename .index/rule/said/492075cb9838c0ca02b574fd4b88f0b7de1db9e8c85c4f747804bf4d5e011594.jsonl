@@ -1,1 +1,1 @@
-{"path":"infrastructure/networks/headscale/headscale.manifest.code.ts","place":0,"name":"statefulsetYaml"}
+{"path":"infrastructure/network/headscale/headscale.manifest.code.ts","place":0,"name":"statefulsetYaml"}

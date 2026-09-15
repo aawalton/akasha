@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const commandTakingTwoWordsIsTestedFromWords = {
   id: "01a0952b-e27f-7c8d-97ee-d208aac7ceb3",
-  type: "code-check",
+  type: "check-code",
   slug: "command-taking-two-words-is-tested-from-words",
   definition: "the check refusing a command whose word order is asserted by no test",
   runsOnChange: false,
@@ -64,4 +64,4 @@ export const commandTakingTwoWordsIsTestedFromWords = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

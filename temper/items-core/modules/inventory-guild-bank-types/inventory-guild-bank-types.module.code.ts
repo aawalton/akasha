@@ -1,4 +1,4 @@
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 export interface ManagedGuildBankSettings {
   managedGuildBanks: readonly string[]

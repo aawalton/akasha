@@ -18,7 +18,7 @@ import {
   ESO_QUALITY_TO_COMPANION_QUALITY,
 } from "akasha/temper/items-core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
-import { capitalize } from "akasha/utils/text/modules/capitalize/capitalize.module.code.ts"
+import { capitalize } from "akasha/util/text/modules/capitalize/capitalize.module.code.ts"
 
 interface GearNeed {
   companionId: CompanionId

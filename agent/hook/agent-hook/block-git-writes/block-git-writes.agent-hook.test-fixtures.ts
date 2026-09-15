@@ -1,7 +1,7 @@
 import { mkdirSync, realpathSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
-import { keptAt } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { keptAt } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const ROOT = "AKASHA_ROOT"
 

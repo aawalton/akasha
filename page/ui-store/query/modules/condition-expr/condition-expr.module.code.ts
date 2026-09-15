@@ -18,7 +18,7 @@ import {
 } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
 import { isPropertyPath } from "akasha/page/core/filter/modules/property-path/property-path.module.code.ts"
 import type { PageConditionLike } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 
 export type BoolExpr = IR.BasicExpression<boolean>
 

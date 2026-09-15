@@ -14,7 +14,7 @@ import {
   namesFor,
   spellersIn,
 } from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const OUTSIDE = ".."
 

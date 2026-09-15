@@ -1,5 +1,5 @@
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { requireMatchPositional } from "akasha/utils/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
+import { requireMatchPositional } from "akasha/util/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 
 const PERFT_LINE = /^([a-h][1-8][a-h][1-8][qrbn]?): \d+$/

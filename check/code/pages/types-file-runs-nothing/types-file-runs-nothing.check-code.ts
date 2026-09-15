@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const typesFileRunsNothing = {
   id: "01a07724-a8ae-7f5e-93f2-c483420afe89",
-  type: "code-check",
+  type: "check-code",
   slug: "types-file-runs-nothing",
   definition: "the check refusing anything but a declaration in a module's types file",
   runsOnChange: true,
@@ -74,4 +74,4 @@ export const typesFileRunsNothing = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

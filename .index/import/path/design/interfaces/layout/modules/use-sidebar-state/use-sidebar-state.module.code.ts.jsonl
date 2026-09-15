@@ -1,6 +1,6 @@
 {"path":"alan/web/modules/alan-app-shell/alan-app-shell.module.code.tsx"}
-{"path":"code/router-apps/modules/auth-footer/auth-footer.module.code.tsx"}
+{"path":"code/router-app/modules/auth-footer/auth-footer.module.code.tsx"}
 {"path":"design/interfaces/layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"}
 {"path":"design/interfaces/layout/modules/app-shell/app-shell.module.code.tsx"}
-{"path":"pages/ui/components/modules/sortable-navs/sortable-navs.module.code.tsx"}
+{"path":"page/ui/components/modules/sortable-navs/sortable-navs.module.code.tsx"}
 {"path":"temper/web/modules/temper-app-shell/temper-app-shell.module.code.tsx"}

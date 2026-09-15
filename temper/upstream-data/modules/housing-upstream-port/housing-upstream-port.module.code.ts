@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { addonsDir } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { makeLuaVm } from "akasha/temper/lua-runner/modules/lua-vm/lua-vm.module.code.ts"
 import { PACKAGE_OF } from "akasha/temper/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
+import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 const UPSTREAM_PATH = join(addonsDir(), "PortToFriendsHouse", "PortToFriendsHouseLibraryData.lua")
 

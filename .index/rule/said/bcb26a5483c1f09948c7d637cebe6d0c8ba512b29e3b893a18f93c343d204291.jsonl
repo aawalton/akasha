@@ -1,1 +1,1 @@
-{"path":"infrastructure/services/clusters/modules/cluster-api-reaching/cluster-api-reaching.module.code.ts","place":2,"name":"k8sFetch"}
+{"path":"infrastructure/service/cluster/modules/cluster-api-reaching/cluster-api-reaching.module.code.ts","place":2,"name":"k8sFetch"}

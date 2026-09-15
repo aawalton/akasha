@@ -391,7 +391,7 @@ export function repoAt(root: string, named: Readonly<Record<string, string>>): s
   git(root, ["commit", "--quiet", "-m", "first"])
   writeFileSync(
     join(root, ".git/info/exclude"),
-    "akasha/*.code-check.ts\nakasha/*.code-check.code.ts\n*.uncommitted.ts\n*.uncommitted.jsonl\n"
+    "akasha/*.check-code.ts\nakasha/*.check-code.code.ts\n*.uncommitted.ts\n*.uncommitted.jsonl\n"
   )
   return pagesRebuilt(root)
 }

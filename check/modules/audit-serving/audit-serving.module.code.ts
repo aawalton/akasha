@@ -41,17 +41,17 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { textOnDisk } from "akasha/utils/fs/modules/text-on-disk/text-on-disk.module.code.ts"
-import { requireEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { textOnDisk } from "akasha/util/fs/modules/text-on-disk/text-on-disk.module.code.ts"
+import { requireEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 import {
   endingOf,
   type Held,
   spawnedHere,
-} from "akasha/utils/run/modules/running/running.module.code.ts"
-import { waitedForRoom } from "akasha/utils/system/modules/landing-admission/landing-admission.module.code.ts"
-import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
+} from "akasha/util/run/modules/running/running.module.code.ts"
+import { waitedForRoom } from "akasha/util/system/modules/landing-admission/landing-admission.module.code.ts"
+import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
 
 const TURNS = ".local/state/workstation-services/audit-turns"
 

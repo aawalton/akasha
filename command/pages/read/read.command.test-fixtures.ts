@@ -27,9 +27,9 @@ import {
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import { mintedId } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
-import { said as saying } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { said as saying } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export const CALLED_AS = "akasha read"
 

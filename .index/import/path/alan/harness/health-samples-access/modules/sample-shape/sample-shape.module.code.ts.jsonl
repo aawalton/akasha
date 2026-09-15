@@ -8,4 +8,4 @@
 {"path":"alan/harness/health-samples-import/modules/health-import-run/health-import-run.module.test.ts"}
 {"path":"alan/harness/health-samples-import/modules/health-import/health-import.module.code.ts"}
 {"path":"alan/web/routes/alan-web-api-tracking-health-samples/alan-web-api-tracking-health-samples.route.code.ts"}
-{"path":"persons/modules/health-samples-body/health-samples-body.module.code.ts"}
+{"path":"person/modules/health-samples-body/health-samples-body.module.code.ts"}

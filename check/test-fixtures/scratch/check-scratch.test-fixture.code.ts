@@ -15,8 +15,8 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
-import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

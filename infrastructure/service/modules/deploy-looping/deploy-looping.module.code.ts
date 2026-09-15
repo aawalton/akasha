@@ -43,9 +43,9 @@ import {
   type Ran,
   systemctl,
 } from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
-import { SERVING_MARKER } from "akasha/utils/run/modules/run-relaying/run-relaying.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
-import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
+import { SERVING_MARKER } from "akasha/util/run/modules/run-relaying/run-relaying.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
+import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
 
 export const SCOPE_LEAD = "akasha-deploy-"
 

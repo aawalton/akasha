@@ -49,7 +49,7 @@ import {
   folderFor,
   namedForThePlural,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import { dashEachCapital } from "akasha/utils/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
+import { dashEachCapital } from "akasha/util/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
 import ts from "typescript"
 
 const TYPED = ".ts"

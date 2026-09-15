@@ -1,1 +1,1 @@
-{"path":"checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.code.ts","place":24,"name":"provesAFixture"}
+{"path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts","place":24,"name":"provesAFixture"}

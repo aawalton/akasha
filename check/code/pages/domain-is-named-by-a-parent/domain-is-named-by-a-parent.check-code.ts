@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const domainIsNamedByAParent = {
   id: "01a04d5f-c731-7000-9066-3abf317a1d58",
-  type: "code-check",
+  type: "check-code",
   slug: "domain-is-named-by-a-parent",
   definition: "the check refusing a domain the whole does not reach by exactly one chain of parts",
   runsOnChange: true,
@@ -92,4 +92,4 @@ export const domainIsNamedByAParent = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

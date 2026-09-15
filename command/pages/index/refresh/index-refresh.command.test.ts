@@ -30,7 +30,7 @@ import {
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
 import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const TREE = "."
 

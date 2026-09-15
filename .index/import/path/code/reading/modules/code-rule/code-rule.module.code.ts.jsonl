@@ -1,5 +1,5 @@
-{"path":"checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.code.ts"}
-{"path":"checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.test-fixtures.ts"}
-{"path":"checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.test.ts"}
+{"path":"check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.decision.code.ts"}
+{"path":"check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.decision.test-fixtures.ts"}
+{"path":"check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.decision.test.ts"}
 {"path":"code/reading/modules/code-rule/code-rule.module.test.ts"}
-{"path":"pages/index/rule/index-rule.index.code.ts"}
+{"path":"page/index/rule/index-rule.index.code.ts"}

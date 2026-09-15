@@ -5,5 +5,5 @@
 {"path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.code.ts"}
 {"path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
 {"path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}

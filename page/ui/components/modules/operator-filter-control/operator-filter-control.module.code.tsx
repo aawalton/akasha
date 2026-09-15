@@ -35,8 +35,8 @@ import {
   SelectBadgePicker,
   TextValueInput,
 } from "akasha/page/ui/components/modules/value-filter-inputs/value-filter-inputs.module.code.tsx"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
+import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 import { Check, ChevronDown } from "lucide-react"
 import { useState } from "react"
 

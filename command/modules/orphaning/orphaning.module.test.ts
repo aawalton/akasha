@@ -8,7 +8,7 @@ import { rowsIn } from "akasha/command/modules/landing/landing.module.test-fixtu
 import { TOGETHER } from "akasha/command/modules/orphaning/orphaning.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

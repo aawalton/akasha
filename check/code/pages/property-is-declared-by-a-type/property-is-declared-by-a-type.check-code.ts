@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const propertyIsDeclaredByAType = {
   id: "01a04ef8-1a07-722c-a247-40e6a9069ce4",
-  type: "code-check",
+  type: "check-code",
   slug: "property-is-declared-by-a-type",
   definition: "the check refusing a page property that no page type declares",
   runsOnChange: true,
@@ -97,4 +97,4 @@ export const propertyIsDeclaredByAType = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

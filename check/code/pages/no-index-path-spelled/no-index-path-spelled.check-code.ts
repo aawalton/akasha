@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noIndexPathSpelled = {
   id: "01a05350-50b5-76df-9760-b09c77c2ee7c",
-  type: "code-check",
+  type: "check-code",
   slug: "no-index-path-spelled",
   definition:
     "the check refusing code outside the index folder that spells a path into the index",
@@ -49,4 +49,4 @@ export const noIndexPathSpelled = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

@@ -56,7 +56,7 @@ const GROUP: Carried = {
   propertySlug: "check",
   key: "check",
   unique: null,
-  declaredBy: "code-check",
+  declaredBy: "check-code",
   required: false,
   many: false,
   maxCount: null,
@@ -66,7 +66,7 @@ const GROUP: Carried = {
 }
 
 function grouped(held: Value): readonly string[] {
-  return reasonsIn(held, [GROUP], HERE, "page-type/code-check", allows, new Set<string>())
+  return reasonsIn(held, [GROUP], HERE, "page-type/check-code", allows, new Set<string>())
 }
 
 test("a group a page states is judged against the members that group declares", () => {

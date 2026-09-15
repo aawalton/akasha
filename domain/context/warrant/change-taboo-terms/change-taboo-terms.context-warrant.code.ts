@@ -16,7 +16,7 @@ import {
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-import { stringsIn } from "akasha/utils/narrow/modules/strings-in/strings-in.module.code.ts"
+import { stringsIn } from "akasha/util/narrow/modules/strings-in/strings-in.module.code.ts"
 
 const TERM = "taboo-term"
 

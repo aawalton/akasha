@@ -1,8 +1,0 @@
-{"path":"command/modules/change-preparing/change-preparing.module.test-fixtures.ts"}
-{"path":"command/modules/change-preparing/change-preparing.module.test.ts"}
-{"path":"command/modules/landing-reading/landing-reading.module.test.ts"}
-{"path":"command/modules/landing/landing.module.test-fixtures.ts"}
-{"path":"command/pages/change/apply/change-apply.command.test.ts"}
-{"path":"command/pages/change/draft/change-draft.command.test.ts"}
-{"path":"command/pages/change/subagent/take/change-subagent-take.command.test.ts"}
-{"path":"testing-system/test-fixtures/repo-seeding/repo-seeding.test-fixture.test.ts"}

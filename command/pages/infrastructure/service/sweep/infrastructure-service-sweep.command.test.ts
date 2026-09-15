@@ -34,9 +34,9 @@ const HERE: Given = {
 }
 
 test("naming a service is refused as the caller's fault", async () => {
-  const answer = await infrastructureServiceSweep(["pages-service"], HERE)
+  const answer = await infrastructureServiceSweep(["page-service"], HERE)
   expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("`pages-service`")
+  expect(answer.refusals[0]).toContain("`page-service`")
   expect(answer.refusals.join("\n")).toContain("every unit akasha owns")
 })
 

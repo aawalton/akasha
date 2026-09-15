@@ -11,7 +11,7 @@ import {
   type RegularResult,
 } from "akasha/page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts"
 import type { UsePagesOptions } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
-import { noOp } from "akasha/utils/narrow/modules/no-op/no-op.module.code.ts"
+import { noOp } from "akasha/util/narrow/modules/no-op/no-op.module.code.ts"
 import { useMemo } from "react"
 
 export type UsePagesResult = {

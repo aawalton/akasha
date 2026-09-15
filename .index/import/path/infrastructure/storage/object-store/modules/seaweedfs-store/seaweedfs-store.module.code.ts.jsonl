@@ -14,8 +14,8 @@
 {"path":"alan/web/routes/alan-web-api-media-marks/alan-web-api-media-marks.route.code.ts"}
 {"path":"command/pages/alan/food/alan-food.command.code.ts"}
 {"path":"command/pages/alan/picture/alan-picture.command.code.ts"}
-{"path":"infrastructure/inference/generations/upscale/modules/cluster/upscale-cluster.module.code.ts"}
-{"path":"infrastructure/inference/runs/modules/persist-audio/persist-audio.module.code.ts"}
-{"path":"infrastructure/inference/runs/modules/persist-image/persist-image.module.code.ts"}
-{"path":"pages/ui/media/modules/media-renditions/media-renditions.module.code.ts"}
-{"path":"pages/ui/media/modules/serve-media/serve-media.module.code.ts"}
+{"path":"infrastructure/inference/generation/upscale/modules/cluster/upscale-cluster.module.code.ts"}
+{"path":"infrastructure/inference/run/modules/persist-audio/persist-audio.module.code.ts"}
+{"path":"infrastructure/inference/run/modules/persist-image/persist-image.module.code.ts"}
+{"path":"page/ui/media/modules/media-renditions/media-renditions.module.code.ts"}
+{"path":"page/ui/media/modules/serve-media/serve-media.module.code.ts"}

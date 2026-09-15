@@ -13,7 +13,7 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { measureTest } from "akasha/command/pages/measure/test/measure-test.command.code.ts"
 import { measureTest as page } from "akasha/command/pages/measure/test/measure-test.command.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const CALLED_AS = "akasha measure test"
 

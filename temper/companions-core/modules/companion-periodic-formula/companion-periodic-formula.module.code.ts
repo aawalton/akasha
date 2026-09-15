@@ -6,7 +6,7 @@ import {
 } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import type { CompanionValueFormula } from "akasha/temper/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
 import { getFormulaCoefficientType } from "akasha/temper/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function evaluatePeriodicTotalPerTick(
   formula: Extract<CompanionValueFormula, { type: "metric-scaling" }>,

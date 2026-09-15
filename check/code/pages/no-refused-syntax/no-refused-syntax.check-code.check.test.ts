@@ -9,7 +9,7 @@ import {
 import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

@@ -10,8 +10,8 @@ import type {
   PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import type { Test } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
-import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
+import { camelizeKey } from "akasha/util/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 export function declaredAs(key: string, definitions: readonly PropertyDefinition[]): string {
   const canonical = camelizeKey(key)

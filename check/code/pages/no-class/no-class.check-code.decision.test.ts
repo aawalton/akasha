@@ -136,7 +136,7 @@ test("a class a declaration file holds is let through, and the same body in a mo
 test("a class the lua runtime library holds is let through, and the same body elsewhere is not", () => {
   const body = "export class Held {}\n"
   const src = `${LIBRARY}src/Held.ts`
-  const page = "design/language/lua-compiler/lualib-helper/held/held.lualib.code.ts"
+  const page = "design/language/lua-compiler/lualib-helper/held/held.lualib-helper.code.ts"
   const builder = "design/language/lua-compiler/modules/lualib-builder/held.ts"
   expect(reasonsIn(src, body)).toEqual([])
   expect(reasonsIn(page, body)).toEqual([])

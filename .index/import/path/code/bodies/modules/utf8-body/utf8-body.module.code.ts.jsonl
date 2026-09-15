@@ -1,6 +1,6 @@
-{"path":"changes/modules/edits-keeping/edits-keeping.module.code.ts"}
-{"path":"checks/modules/body-not-utf8/body-not-utf8.module.code.ts"}
+{"path":"change/modules/edits-keeping/edits-keeping.module.code.ts"}
+{"path":"check/modules/body-not-utf8/body-not-utf8.module.code.ts"}
 {"path":"command/modules/change-running/change-running.module.code.ts"}
 {"path":"command/modules/payload/payload.module.code.ts"}
 {"path":"command/pages/read/read.command.code.ts"}
-{"path":"domains/context/warrants/file-itself/file-itself.context-warrant.code.ts"}
+{"path":"domain/context/warrant/file-itself/file-itself.context-warrant.code.ts"}

@@ -5,7 +5,7 @@ import {
 } from "akasha/temper/companions-addon/modules/companions-constants/companions-constants.module.code.ts"
 import { requireNumericKey } from "akasha/temper/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
 import { requireSavedVariables } from "akasha/temper/narrow/modules/require-saved-variables/require-saved-variables.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
+import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 export interface SavedCompanionEquipmentSlot {
   displayText: string
   qualityColor: [number, number, number]

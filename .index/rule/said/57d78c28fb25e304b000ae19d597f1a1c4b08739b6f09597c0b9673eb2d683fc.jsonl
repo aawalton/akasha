@@ -1,1 +1,1 @@
-{"path":"infrastructure/networks/auth-proxy/modules/session-identity/session-identity.module.code.ts","place":6,"name":"base64UrlDecode"}
+{"path":"infrastructure/network/auth-proxy/modules/session-identity/session-identity.module.code.ts","place":6,"name":"base64UrlDecode"}

@@ -79,7 +79,7 @@ import { said as gitIn } from "akasha/git/modules/running/git-running.module.cod
 import { valueByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 export type Landed = Finished & {
   readonly base: string

@@ -7,7 +7,7 @@ import {
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { shapeAdded } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

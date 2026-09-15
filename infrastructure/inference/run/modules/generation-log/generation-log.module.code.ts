@@ -10,8 +10,8 @@ import {
   readPages,
   writeFiles,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 export function generationLogSlug(): string {
   const stated = optionalEnv("GENERATION_LOG")?.trim()

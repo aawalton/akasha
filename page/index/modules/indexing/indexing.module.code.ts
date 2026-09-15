@@ -52,7 +52,7 @@ import {
   identifyingFrom,
   sourceOver,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-import { textOnDisk } from "akasha/utils/fs/modules/text-on-disk/text-on-disk.module.code.ts"
+import { textOnDisk } from "akasha/util/fs/modules/text-on-disk/text-on-disk.module.code.ts"
 
 type Pending = {
   readonly before: string | null

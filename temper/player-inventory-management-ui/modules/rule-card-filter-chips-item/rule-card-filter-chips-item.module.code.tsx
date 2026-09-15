@@ -20,7 +20,7 @@ import {
   LevelChip,
   QualityChip,
 } from "akasha/temper/player-inventory-management-ui/modules/rule-card-filter-chips-item-threshold-chips/rule-card-filter-chips-item-threshold-chips.module.code.tsx"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"
 
 export function RuleCardFilterChipItem({ id, state }: RuleCardFilterChipItemProps): ReactNode {

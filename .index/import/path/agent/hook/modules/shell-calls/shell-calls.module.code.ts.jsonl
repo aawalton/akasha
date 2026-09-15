@@ -9,8 +9,8 @@
 {"path":"agent/hook/modules/bun-calls/bun-calls.module.code.ts"}
 {"path":"agent/hook/modules/git-calls/git-calls.module.code.ts"}
 {"path":"agent/hook/modules/shell-calls/shell-calls.module.test.ts"}
-{"path":"checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.code.ts"}
-{"path":"checks/code-checks/pages/no-refused-syntax/syntax-rules/no-libc-by-name/no-libc-by-name.syntax-rule.code.ts"}
-{"path":"checks/code-checks/pages/no-refused-syntax/syntax-rules/no-scrub-bash-env-undoes/no-scrub-bash-env-undoes.syntax-rule.code.ts"}
+{"path":"check/code/pages/no-refused-syntax/syntax-rule/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.code.ts"}
+{"path":"check/code/pages/no-refused-syntax/syntax-rule/no-libc-by-name/no-libc-by-name.syntax-rule.code.ts"}
+{"path":"check/code/pages/no-refused-syntax/syntax-rule/no-scrub-bash-env-undoes/no-scrub-bash-env-undoes.syntax-rule.code.ts"}
 {"path":"command/pages/inference/capability-list/inference-capability-list.command.code.ts"}
 {"path":"command/pages/inference/generate/inference-generate.command.code.ts"}

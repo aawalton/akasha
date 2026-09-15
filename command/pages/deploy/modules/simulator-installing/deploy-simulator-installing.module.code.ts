@@ -15,9 +15,9 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
-import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
-import { ran as spawned } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
+import { ran as spawned } from "akasha/util/run/modules/running/running.module.code.ts"
 import { z } from "zod"
 
 const HOST_ENV = "AKASHA_MAC_HOST"

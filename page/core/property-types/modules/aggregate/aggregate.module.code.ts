@@ -14,7 +14,7 @@ import {
   type AggregateFilter,
   aggregateFilterSchema,
 } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export type AggregateFunction = "sum" | "count" | "avg" | "min" | "max" | "first" | "count_distinct"
 

@@ -24,7 +24,7 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const ROOT = process.cwd()
 

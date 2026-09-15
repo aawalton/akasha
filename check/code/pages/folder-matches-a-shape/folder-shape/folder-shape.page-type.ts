@@ -53,7 +53,7 @@ export const folderShape = {
     "folder-shape/test-fixtures-only",
   ],
   extends: ["page-type/module"],
-  loadedBy: "code-check/folder-matches-a-shape",
+  loadedBy: "check-code/folder-matches-a-shape",
   properties: [
     { pageProperty: "code-file-property/test", required: true, many: false },
     { pageProperty: "boolean-property/folder-shape-enabled", required: true, many: false },

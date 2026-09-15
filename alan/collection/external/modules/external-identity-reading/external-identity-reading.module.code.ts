@@ -1,4 +1,4 @@
-import { textIn } from "akasha/utils/narrow/modules/text-in/text-in.module.code.ts"
+import { textIn } from "akasha/util/narrow/modules/text-in/text-in.module.code.ts"
 
 export type ExternalIdentityHeld = {
   readonly source?: unknown

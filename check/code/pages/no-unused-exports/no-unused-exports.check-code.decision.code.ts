@@ -47,7 +47,7 @@ const HELD = "ts"
 
 const ROUTE = "route"
 
-const LUALIB = "lualib"
+const LUALIB_HELPER = "lualib-helper"
 
 const LUA_EXPORT = "luaExport"
 
@@ -63,7 +63,7 @@ const SERVICE = "service-workstation"
 
 const RUN_SERVICE = "runService"
 
-const CHECK = "code-check"
+const CHECK = "check-code"
 
 const MANIFEST = "manifest"
 
@@ -255,7 +255,7 @@ function fixedFor(path: string, said: Parted | null): ReadonlySet<string> | null
 type Bodied = (at: string) => string | null
 
 function luaNamed(path: string, said: Parted, bodyOf: Bodied): string | null {
-  if (said.pageType !== LUALIB || said.sections.length === 0) return null
+  if (said.pageType !== LUALIB_HELPER || said.sections.length === 0) return null
   const text = bodyOf(`${dirname(path)}/${pageOf(said)}.${HELD}`)
   if (text === null) return null
   const held = loadedFrom(text).value

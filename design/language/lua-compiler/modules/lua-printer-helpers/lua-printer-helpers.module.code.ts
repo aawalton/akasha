@@ -4,7 +4,7 @@ import type * as luaExpressions from "akasha/design/language/lua-compiler/module
 import type * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { shouldAllowUnicode } from "akasha/design/language/lua-compiler/modules/safe-names/safe-names.module.code.ts"
 import type { EmitHost } from "akasha/design/language/lua-compiler/modules/transpile-emit-host/transpile-emit-host.module.code.ts"
-import { requireGet } from "akasha/utils/narrow/modules/require-get/require-get.module.code.ts"
+import { requireGet } from "akasha/util/narrow/modules/require-get/require-get.module.code.ts"
 import type { SourceNode } from "source-map"
 import type * as ts from "typescript"
 

@@ -276,13 +276,13 @@ const GROUPED = [
   {
     id: "7",
     pageTypeSlug: "page-type",
-    slug: "code-check",
+    slug: "check-code",
     properties: [{ pageProperty: "module-property-group/audit" }],
   },
 ]
 
 test("a page type declaring a file property group holds every member of that group in a file", () => {
-  expect([...(filePropertiesIn(GROUPED).get("code-check") ?? [])]).toEqual([
+  expect([...(filePropertiesIn(GROUPED).get("check-code") ?? [])]).toEqual([
     ["audit.code", null],
     ["audit.test", null],
     ["audit.logs", null],
@@ -290,7 +290,7 @@ test("a page type declaring a file property group holds every member of that gro
 })
 
 test("a member the group declares uncommitted is kept outside the commit under its group's key", () => {
-  expect([...(uncommittedFiledIn(GROUPED).get("code-check") ?? [])]).toEqual(["audit.logs"])
+  expect([...(uncommittedFiledIn(GROUPED).get("check-code") ?? [])]).toEqual(["audit.logs"])
 })
 
 test("a page type that is a file property group holds nothing of its own in a file", () => {

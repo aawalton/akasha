@@ -1,5 +1,5 @@
 {"path":"alan/harness/alan-readouts/modules/day-readout-watching/day-readout-watching.module.code.ts"}
-{"path":"alan/harness/inboxes/modules/count-writing/inbox-count-writing.module.code.ts"}
+{"path":"alan/harness/inbox/modules/count-writing/inbox-count-writing.module.code.ts"}
 {"path":"alan/track/daily/modules/day-completions/day-completions.module.code.ts"}
 {"path":"alan/track/daily/modules/day-messages/day-messages.module.code.ts"}
 {"path":"alan/track/daily/modules/day-place/day-place.module.test.ts"}

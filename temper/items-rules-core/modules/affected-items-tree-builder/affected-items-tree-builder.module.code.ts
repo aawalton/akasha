@@ -13,7 +13,7 @@ import {
   locationTypes,
 } from "akasha/temper/items-core/modules/location-type-data/location-type-data.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
+import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 function toTypeEntry(affected: AffectedItem, index: number): InventoryTypeEntry {
   const { item, locationKey } = affected

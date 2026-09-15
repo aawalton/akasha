@@ -37,7 +37,7 @@ import {
   partedIn,
   typeSlugIn,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

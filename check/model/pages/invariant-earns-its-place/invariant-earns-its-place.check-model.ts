@@ -1,8 +1,8 @@
-import type { ModelCheck } from "akasha/check/model/check-model.page-type.types.ts"
+import type { CheckModel } from "akasha/check/model/check-model.page-type.types.ts"
 
 export const invariantEarnsItsPlace = {
   id: "01a05a0b-3a49-7d40-9dae-f16b21c7ffe2",
-  type: "model-check",
+  type: "check-model",
   slug: "invariant-earns-its-place",
   definition: "whether a departure a change writes earns its place",
   modelTests: ["model-test/restatement"],
@@ -20,4 +20,4 @@ export const invariantEarnsItsPlace = {
         "A page whose definition a change alters has every departure on that page judged again.",
     },
   ],
-} as const satisfies ModelCheck
+} as const satisfies CheckModel

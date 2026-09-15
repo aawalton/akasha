@@ -19,8 +19,8 @@ import {
   type AddonInfo,
   listAllAddons,
 } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
-import { saidBy as saidOf } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { saidBy as saidOf } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const NAMED = [codeRootArgument]
 

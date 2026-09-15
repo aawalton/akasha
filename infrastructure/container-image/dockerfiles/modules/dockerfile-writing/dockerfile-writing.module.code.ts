@@ -12,8 +12,8 @@ import {
   SERVICES,
 } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-services/dockerfile-services.module.code.ts"
 import { generateToolImageDockerfile } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-tool-image/dockerfile-tool-image.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
+import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 import { z } from "zod"
 
 const JSON_VALUE_SCHEMA = z.unknown()

@@ -25,7 +25,7 @@ import type {
   Manifest,
   Plan,
 } from "akasha/infrastructure/service/cluster/modules/workload-deploying/workload-deploying.module.code.ts"
-import { said as saying } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { said as saying } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const WORLD = seededWorld()
 

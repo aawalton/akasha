@@ -5,7 +5,7 @@ export const audhdalanWeb = {
   type: "web-app",
   slug: "audhdalan-web",
   definition: "the site Alan's neurodiversity writing is published on",
-  sourceDirectory: "products/audhdalan/web",
+  sourceDirectory: "product/audhdalan/web",
   buildCommand: "bun run build",
   basePort: 3100,
   secretResource: "audhdalan-secrets",

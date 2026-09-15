@@ -13,8 +13,8 @@ import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/module
 import {
   asRecord,
   asRecordOrEmpty,
-} from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+} from "akasha/util/narrow/modules/as-record/as-record.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 export type AddonCharacterRecord = { name: string; priorityOrder?: number } & CharacterCompletion
 

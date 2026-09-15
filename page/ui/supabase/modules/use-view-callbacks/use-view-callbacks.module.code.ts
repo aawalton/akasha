@@ -32,9 +32,9 @@ import { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-se
 import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticDeletePage } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
-import { isJson } from "akasha/utils/narrow/modules/is-json/is-json.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
+import { isJson } from "akasha/util/narrow/modules/is-json/is-json.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 import { useCallback, useMemo } from "react"
 
 const VIEW_PAGE_TYPE_SLUG = "view"

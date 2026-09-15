@@ -2,7 +2,7 @@ import type {
   RoutingRule,
   RuleToWrite,
 } from "akasha/alan/harness/email-routing/modules/email-rule-planning/email-rule-planning.module.code.ts"
-import { requireEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { requireEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 import { z } from "zod"
 
 const API = "https://api.cloudflare.com/client/v4"

@@ -1,10 +1,10 @@
-import type { Lualib } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
+import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
 
 export const stringSubstr = {
   id: "01a081f7-142d-79a8-a7a4-9c1b402b6f79",
-  type: "lualib",
+  type: "lualib-helper",
   slug: "string-substr",
   definition: "the text of a length taken from an index of other text",
   code: "ts",
   luaExport: "__TS__StringSubstr",
-} as const satisfies Lualib
+} as const satisfies LualibHelper

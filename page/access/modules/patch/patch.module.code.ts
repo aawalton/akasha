@@ -24,7 +24,7 @@ import {
   type Page,
   type PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 
 const LAST_VIEWED_AT_KEY = "lastViewedAt"
 

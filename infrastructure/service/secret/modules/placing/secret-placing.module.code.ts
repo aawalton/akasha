@@ -10,7 +10,7 @@ import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import { parseAllDocuments, stringify } from "yaml"
 
 export class DeployRefused extends Error {

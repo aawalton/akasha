@@ -1,6 +1,0 @@
-{"path":"alan/harness/readouts/modules/relay-carrying/readout-relay-carrying.module.code.ts"}
-{"path":"alan/harness/readouts/modules/relay-carrying/readout-relay-carrying.module.test.ts"}
-{"path":"infrastructure/services/modules/deploy-looping/deploy-looping.module.code.ts"}
-{"path":"infrastructure/services/workstations/modules/run-composing/run-composing.module.test.ts"}
-{"path":"infrastructure/services/workstations/modules/service-reading/service-reading.module.code.ts"}
-{"path":"infrastructure/services/workstations/pages/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.code.ts"}

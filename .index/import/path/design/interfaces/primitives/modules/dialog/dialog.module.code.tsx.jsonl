@@ -4,9 +4,9 @@
 {"path":"design/interfaces/primitives/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"}
 {"path":"design/interfaces/system/modules/components-overlay-panels/components-overlay-panels.module.code.tsx"}
 {"path":"design/interfaces/system/modules/patterns-visual-panels/patterns-visual-panels.module.code.tsx"}
-{"path":"pages/ui/components/modules/create-page-dialog/create-page-dialog.module.code.tsx"}
-{"path":"pages/ui/components/modules/progress-property-badge/progress-property-badge.module.code.tsx"}
-{"path":"pages/ui/components/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx"}
+{"path":"page/ui/components/modules/create-page-dialog/create-page-dialog.module.code.tsx"}
+{"path":"page/ui/components/modules/progress-property-badge/progress-property-badge.module.code.tsx"}
+{"path":"page/ui/components/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx"}
 {"path":"temper/player-inventory-management-ui/modules/affected-items-dialog/affected-items-dialog.module.code.tsx"}
 {"path":"temper/player-inventory-management-ui/modules/item-search-dialog/item-search-dialog.module.code.tsx"}
 {"path":"temper/player-inventory-management-ui/modules/rule-card-filter-lock/rule-card-filter-lock.module.code.tsx"}

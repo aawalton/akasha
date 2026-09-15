@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const requireImportExtension = {
   id: "01a04bcb-c714-7fdf-aa64-e2ff68d4f69b",
-  type: "code-check",
+  type: "check-code",
   slug: "require-import-extension",
   definition:
     "the check refusing a relative specifier written without the extension of the file it names",
@@ -54,4 +54,4 @@ export const requireImportExtension = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

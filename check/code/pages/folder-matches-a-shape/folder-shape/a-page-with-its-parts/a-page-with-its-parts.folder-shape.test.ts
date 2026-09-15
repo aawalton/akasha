@@ -8,7 +8,7 @@ import type {
 
 const FOLDER = "akasha/code-checks"
 
-const PAGE_TYPES = new Set<string>(["page-type", "domain", "module", "code-check"])
+const PAGE_TYPES = new Set<string>(["page-type", "domain", "module", "check-code"])
 
 const NAMING = new Map<string, Wanted>([[FOLDER, { name: "code-checks" }]])
 
@@ -25,35 +25,35 @@ const folder = over([])
 
 test("one page with the parts it is allowed takes the shape", () => {
   const held = over([
-    "pages/one.code-check.ts",
+    "pages/one.check-code.ts",
     "properties/two.text-property.ts",
     "modules/m/m.module.ts",
     "sections/one.book-section.ts",
   ])
-  expect(aPageWithItsParts(held(["code-check.page-type.ts"]))).toEqual([])
+  expect(aPageWithItsParts(held(["check-code.page-type.ts"]))).toEqual([])
 })
 
 test("a subfolder other than modules, pages, properties or sections is refused, however named", () => {
   const forItsPage = over(["hummings/humming.page-type.ts"])
-  const said = aPageWithItsParts(forItsPage(["code-check.page-type.ts"]))
+  const said = aPageWithItsParts(forItsPage(["check-code.page-type.ts"]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("hummings")
 
   const otherwise = over(["rules/rule.page-type.ts"])
-  const held = aPageWithItsParts(otherwise(["code-check.page-type.ts"]))
+  const held = aPageWithItsParts(otherwise(["check-code.page-type.ts"]))
   expect(held).toHaveLength(1)
   expect(held[0]).toContain("rules")
 })
 
 test("a folder named other than what its page calls it is refused, naming both", () => {
   const held = folderFrom({
-    folder: "akasha/code-check",
+    folder: "akasha/check-code",
     pageTypes: PAGE_TYPES,
     naming: () => ({ name: "code-checks" }),
   })
-  const said = aPageWithItsParts(held(["code-check.page-type.ts"]))
+  const said = aPageWithItsParts(held(["check-code.page-type.ts"]))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`code-check`")
+  expect(said[0]).toContain("`check-code`")
   expect(said[0]).toContain("`code-checks`")
 })
 
@@ -88,16 +88,16 @@ test("a folder holding no page at all is refused", () => {
 })
 
 test("a second page in the folder is refused, and the reason names it", () => {
-  const said = aPageWithItsParts(folder(["code-check.page-type.ts", "one.code-check.ts"]))
-  expect(said.some((each) => each.includes("one.code-check.ts"))).toBe(true)
+  const said = aPageWithItsParts(folder(["check-code.page-type.ts", "one.check-code.ts"]))
+  expect(said.some((each) => each.includes("one.check-code.ts"))).toBe(true)
 })
 
 test("a file the page states no property for is refused, however it is named", () => {
   const beside = aPageWithItsParts(
-    folder(["code-check.page-type.ts", "code-check.page-type.code.ts"])
+    folder(["check-code.page-type.ts", "check-code.page-type.code.ts"])
   )
-  expect(beside.some((each) => each.includes("code-check.page-type.code.ts"))).toBe(true)
-  const loose = aPageWithItsParts(folder(["code-check.page-type.ts", "notes.txt"]))
+  expect(beside.some((each) => each.includes("check-code.page-type.code.ts"))).toBe(true)
+  const loose = aPageWithItsParts(folder(["check-code.page-type.ts", "notes.txt"]))
   expect(loose.some((each) => each.includes("notes.txt"))).toBe(true)
 })
 

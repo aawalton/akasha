@@ -10,8 +10,8 @@ import { bytesOf as bodyOf } from "akasha/check/test/modules/bodying/bodying.mod
 import {
   SCRATCH_AT,
   scratchWorld,
-} from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { said as saying } from "akasha/utils/run/modules/running/running.module.code.ts"
+} from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { said as saying } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const scratch = scratchWorld()
 

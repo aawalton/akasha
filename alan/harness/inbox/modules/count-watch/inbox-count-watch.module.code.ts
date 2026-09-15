@@ -29,7 +29,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 export const SETTLE_MS = 250
 

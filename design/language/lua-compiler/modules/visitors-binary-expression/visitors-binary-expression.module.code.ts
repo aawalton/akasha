@@ -38,7 +38,7 @@ import {
   unwrapCompoundAssignmentToken,
 } from "akasha/design/language/lua-compiler/modules/visit-compound/visit-compound.module.code.ts"
 import { requireTransformTypeOfBinaryExpression } from "akasha/design/language/lua-compiler/modules/visit-typeof-deps/visit-typeof-deps.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
 type ShortCircuitOperator =

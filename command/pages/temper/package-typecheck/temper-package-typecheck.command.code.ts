@@ -15,7 +15,7 @@ import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.
 import { temperPackageTypecheck as page } from "akasha/command/pages/temper/package-typecheck/temper-package-typecheck.command.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { inNameOrder } from "akasha/temper/command/modules/name-ordering/name-ordering.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const NAMED = [codeRootArgument, packageName]
 

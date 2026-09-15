@@ -3,7 +3,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 

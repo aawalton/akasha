@@ -1,6 +1,0 @@
-{"path":"infrastructure/cpu/kinds/pages/burned.cpu-kind.ts"}
-{"path":"infrastructure/cpu/kinds/pages/elapsed.cpu-kind.ts"}
-{"path":"infrastructure/cpu/kinds/pages/load.cpu-kind.ts"}
-{"path":"infrastructure/cpu/kinds/pages/stall.cpu-kind.ts"}
-{"path":"infrastructure/cpu/kinds/pages/throttled.cpu-kind.ts"}
-{"path":"infrastructure/cpu/kinds/pages/utilization.cpu-kind.ts"}

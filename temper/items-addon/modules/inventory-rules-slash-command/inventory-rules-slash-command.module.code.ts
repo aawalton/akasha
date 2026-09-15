@@ -34,7 +34,7 @@ import {
   evaluateRule,
   walkRules,
 } from "akasha/temper/items-rules-eval/modules/evaluator/evaluator.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/modules/require-at/require-at.module.code.ts"
+import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 
 const PREFIX = "[TemperRules]"
 

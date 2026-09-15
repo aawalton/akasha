@@ -4,7 +4,7 @@ import type { RequiredCurseStateCondition } from "akasha/temper/items-rules-core
 import type { RequiredSkillLinesCondition } from "akasha/temper/items-rules-core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
 import { resolveThreshold } from "akasha/temper/items-rules-core/modules/rule-constants/rule-constants.module.code.ts"
 import { QUALITY_OPTIONS } from "akasha/temper/items-rules-core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
+import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 export function deriveConditionValues(conditions: CategoryRule["conditions"]) {
   const qualityValue = conditions?.maxQuality != null ? String(conditions.maxQuality) : "1"

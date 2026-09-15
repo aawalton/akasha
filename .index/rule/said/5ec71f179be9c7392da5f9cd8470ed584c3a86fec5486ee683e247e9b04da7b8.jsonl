@@ -1,4 +1,4 @@
 {"path":"agent/hook/agent-hook/name-session/name-session.agent-hook.test.ts","place":1,"name":"nothing"}
 {"path":"alan/atlas-web/routes/atlas-sign-up/atlas-sign-up.route.code.tsx","place":0,"name":"SignUpRoute"}
 {"path":"alan/web/routes/alan-web-sign-up/alan-web-sign-up.route.code.tsx","place":0,"name":"SignUpRoute"}
-{"path":"checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts","place":10,"name":"gone"}
+{"path":"check/test-fixtures/scratch/check-scratch.test-fixture.code.ts","place":10,"name":"gone"}

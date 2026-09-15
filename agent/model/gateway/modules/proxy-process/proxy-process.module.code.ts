@@ -7,7 +7,7 @@ import type {
   StartOAuthProxyOptions,
 } from "akasha/agent/model/gateway/modules/proxy-start/proxy-start.module.code.ts"
 import type { StoppedSubagents } from "akasha/agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const LOG_PREFIX = "[oauth-proxy]"
 

@@ -1,6 +1,6 @@
 import { textAt } from "akasha/command/modules/body-reaching/body-reaching.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
-import { meantSaid } from "akasha/utils/text/modules/suggest-closest/suggest-closest.module.code.ts"
+import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
+import { meantSaid } from "akasha/util/text/modules/suggest-closest/suggest-closest.module.code.ts"
 
 export const BREAK_GLASS = "--break-the-glass"
 

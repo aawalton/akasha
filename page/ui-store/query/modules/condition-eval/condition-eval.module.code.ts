@@ -15,8 +15,8 @@ import {
   type PageRow,
 } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import type { PageConditionLike } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 
 const MISSING = Symbol("missing")
 

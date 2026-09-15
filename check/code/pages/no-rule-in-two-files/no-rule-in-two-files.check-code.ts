@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noRuleInTwoFiles = {
   id: "01a04ea7-b2ea-7085-ba99-952e24d4a8bb",
-  type: "code-check",
+  type: "check-code",
   slug: "no-rule-in-two-files",
   definition: "the check refusing a function whose rule is spelled in another file as well",
   runsOnChange: true,
@@ -229,4 +229,4 @@ export const noRuleInTwoFiles = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 30 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

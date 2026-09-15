@@ -1,1 +1,1 @@
-{"path":"design/language/lua-compiler/lualibs/queue-microtask/queue-microtask.lualib.code.ts","place":0,"name":"__TS__QueueMicrotask"}
+{"path":"design/language/lua-compiler/lualib-helper/queue-microtask/queue-microtask.lualib-helper.code.ts","place":0,"name":"__TS__QueueMicrotask"}

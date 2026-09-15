@@ -1,10 +1,10 @@
-import type { Lualib } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
+import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"
 
 export const timers = {
   id: "01a081d0-14eb-7f54-855f-49e695769403",
-  type: "lualib",
+  type: "lualib-helper",
   slug: "timers",
   definition: "the handles, cancellations and names the timers share",
   code: "ts",
   luaExport: "__TS__Timers",
-} as const satisfies Lualib
+} as const satisfies LualibHelper

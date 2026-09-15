@@ -5,10 +5,10 @@ import {
   readSessionObject,
   sessionObjectKeyFor,
 } from "akasha/agent/claude-code/session/modules/session-stream/session-stream.module.code.ts"
-import { sessionProjectDir } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"
+import { sessionProjectDir } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"
 import { dataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { seaweedFsMissingEnvVars } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-config/seaweedfs-config.module.code.ts"
-import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
+import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
 
 const SessionIdLine = shape.looseObject({ sessionId: shape.string().optional() })
 

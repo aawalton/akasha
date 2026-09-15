@@ -1,4 +1,4 @@
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const NOTHING_COMMITTED = "nothing was committed — the tree already holds what the change asked for"
 

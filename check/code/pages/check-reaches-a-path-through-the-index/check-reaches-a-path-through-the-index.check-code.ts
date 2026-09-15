@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const checkReachesAPathThroughTheIndex = {
   id: "01a0824b-5ca1-7150-a799-fd2189f44fe4",
-  type: "code-check",
+  type: "check-code",
   slug: "check-reaches-a-path-through-the-index",
   definition: "the check refusing a page file that spells or lists a path the index answers for",
   parts: ["module/specifier-placing"],
@@ -417,4 +417,4 @@ export const checkReachesAPathThroughTheIndex = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 25 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

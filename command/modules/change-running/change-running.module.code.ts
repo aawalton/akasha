@@ -63,8 +63,8 @@ import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
-import { meantSaid } from "akasha/utils/text/modules/suggest-closest/suggest-closest.module.code.ts"
+import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
+import { meantSaid } from "akasha/util/text/modules/suggest-closest/suggest-closest.module.code.ts"
 
 const AT = "at"
 

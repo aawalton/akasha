@@ -13,7 +13,7 @@ import {
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { uncommittedAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
-import { onceInCall } from "akasha/utils/modules/during-call/during-call.module.code.ts"
+import { onceInCall } from "akasha/util/modules/during-call/during-call.module.code.ts"
 
 export type Beside = Record<string, unknown>
 

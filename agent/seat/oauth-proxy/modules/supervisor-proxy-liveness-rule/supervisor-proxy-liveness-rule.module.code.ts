@@ -1,9 +1,9 @@
 import {
   askRule,
   type RuleAnswer,
-} from "akasha/agent/seat/supervisors/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
-import type { AskDecide } from "akasha/agent/seat/supervisors/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
-import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
+} from "akasha/agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
+import type { AskDecide } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
+import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
 
 const RULE = "proxyLivenessRule"
 

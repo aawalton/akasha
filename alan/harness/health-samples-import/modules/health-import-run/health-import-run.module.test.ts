@@ -8,7 +8,7 @@ import {
   NO_LOWER_BOUND,
   runHealthImport,
 } from "akasha/alan/harness/health-samples-import/modules/health-import-run/health-import-run.module.code.ts"
-import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const SOURCE = "/Users/nobody/Downloads/export.zip"
 

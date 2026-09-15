@@ -51,8 +51,8 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
-import { meantSaid } from "akasha/utils/text/modules/suggest-closest/suggest-closest.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
+import { meantSaid } from "akasha/util/text/modules/suggest-closest/suggest-closest.module.code.ts"
 
 export type Kind = {
   readonly slug: string

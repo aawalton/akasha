@@ -1,1 +1,1 @@
-{"path":"agent/seat/supervisors/supervisor-restarting/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts","place":0,"name":"readIdleBounded"}
+{"path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts","place":0,"name":"readIdleBounded"}

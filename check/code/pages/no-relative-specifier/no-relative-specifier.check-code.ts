@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noRelativeSpecifier = {
   id: "01a08dcb-ceb8-77ee-8fe5-5b6e6337e648",
-  type: "code-check",
+  type: "check-code",
   slug: "no-relative-specifier",
   definition: "the check refusing a specifier naming a file by a relative path",
   runsOnChange: true,
@@ -78,4 +78,4 @@ export const noRelativeSpecifier = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 20 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

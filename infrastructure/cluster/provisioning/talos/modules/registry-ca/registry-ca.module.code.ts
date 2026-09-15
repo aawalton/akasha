@@ -4,7 +4,7 @@ import { clusterCa } from "akasha/infrastructure/cluster/provisioning/cluster-ca
 import { authorityCertificate } from "akasha/infrastructure/network/certificate/authority/properties/authority-certificate.file-property.ts"
 import { listedById } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 function certificateUnder(root: string): string {
   const listed = listedById(root, clusterCa.id)

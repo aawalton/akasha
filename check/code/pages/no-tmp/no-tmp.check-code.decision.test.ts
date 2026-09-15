@@ -17,9 +17,9 @@ import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 const HERE = dirname(import.meta.path)
 
 const OWN: readonly string[] = [
-  "no-tmp.code-check.ts",
-  "no-tmp.code-check.decision.code.ts",
-  "no-tmp.code-check.decision.test.ts",
+  "no-tmp.check-code.ts",
+  "no-tmp.check-code.decision.code.ts",
+  "no-tmp.check-code.decision.test.ts",
 ]
 
 afterAll(scratch.sweep)
@@ -111,7 +111,7 @@ test("the check refuses none of its own three files, though each names the path 
   for (const one of OWN) {
     const body = readFileSync(join(HERE, one), "utf8")
     expect(body).toMatch(/\/tmp/)
-    expect(judgedIn(`akasha/checks-system/code-check/no-tmp/${one}`, body, SHADOW)).toEqual([])
+    expect(judgedIn(`akasha/checks-system/check-code/no-tmp/${one}`, body, SHADOW)).toEqual([])
   }
 })
 

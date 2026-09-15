@@ -17,7 +17,7 @@ import {
   composedFor,
   type Put,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
+import { camelizeKey } from "akasha/util/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 export type Values = Readonly<Record<string, unknown>>
 

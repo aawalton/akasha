@@ -1,8 +1,8 @@
-import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noColorLiteral = {
   id: "01a08227-08ad-7b40-b746-98282c6ab4de",
-  type: "code-check",
+  type: "check-code",
   slug: "no-color-literal",
   definition: "the check refusing a color written out rather than taken from a design token",
   runsOnChange: true,
@@ -70,4 +70,4 @@ export const noColorLiteral = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-} as const satisfies CodeCheck
+} as const satisfies CheckCode

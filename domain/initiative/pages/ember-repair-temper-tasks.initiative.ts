@@ -34,7 +34,7 @@ export const emberRepairTemperTasks = {
     },
   ],
   constraints: [
-    "The watcher and the addons count as off-workstation, so they reach pages through pages-service rather than by reading the repository.",
+    "The watcher and the addons count as off-workstation, so they reach pages through page-service rather than by reading the repository.",
     "Supabase is used for auth and for nothing else.",
   ],
 } as const satisfies Initiative

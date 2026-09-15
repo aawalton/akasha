@@ -11,10 +11,10 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
-const MODEL_CHECK_TYPE = "01a05911-aa15-776e-9726-ed4131cd6b51"
+const CHECK_MODEL_TYPE = "01a05911-aa15-776e-9726-ed4131cd6b51"
 
 const ASKER = "module/model-asking"
 
@@ -201,11 +201,11 @@ function runningFor(root: string, slug: string, held: readonly Held[], runs: num
   return Object.assign(run, { isInput: PAGES.isInput })
 }
 
-export function modelChecksIn(root: string): readonly Judgement[] {
+export function checkModelsIn(root: string): readonly Judgement[] {
   let pages: readonly string[]
   try {
     pages = [
-      ...new Set(everyOfType(root, typeSlugOf(root, MODEL_CHECK_TYPE)).map((one) => one.path)),
+      ...new Set(everyOfType(root, typeSlugOf(root, CHECK_MODEL_TYPE)).map((one) => one.path)),
     ]
   } catch {
     return []

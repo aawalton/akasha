@@ -14,7 +14,7 @@ import type {
   EffectCondition,
   TargetType,
 } from "akasha/temper/skill-kinds/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 type EffectTriggerType =
   | "retaliation"

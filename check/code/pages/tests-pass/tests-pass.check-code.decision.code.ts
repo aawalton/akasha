@@ -27,7 +27,7 @@ import {
 import { calledIn } from "akasha/code/workspace/modules/package-manifest/package-manifest.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { endingOf } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { endingOf } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export function testedBeside(path: string, shadow: Shadow): boolean {
   for (const beside of testsBesideOf(path)) {

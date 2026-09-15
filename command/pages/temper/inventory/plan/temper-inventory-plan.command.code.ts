@@ -55,7 +55,7 @@ import type {
   PlanItem,
   VenueStop,
 } from "akasha/temper/items-rules-routing-core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const NAMED = [
   jsonArgument,

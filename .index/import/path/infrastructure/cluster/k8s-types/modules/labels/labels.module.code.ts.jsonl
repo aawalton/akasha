@@ -1,8 +1,8 @@
 {"path":"infrastructure/cluster/manifests/metallb-synth/metallb-synth.manifest.code.ts"}
-{"path":"infrastructure/networks/modules/headscale-constants/headscale-constants.module.code.ts"}
-{"path":"infrastructure/networks/tailnet-egress/tailnet-egress.manifest.code.ts"}
+{"path":"infrastructure/network/modules/headscale-constants/headscale-constants.module.code.ts"}
+{"path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.code.ts"}
 {"path":"infrastructure/seaweedfs/modules/constants/seaweedfs-constants.module.code.ts"}
 {"path":"infrastructure/seaweedfs/modules/etcd-snapshot-manifests/seaweedfs-etcd-snapshot-manifests.module.code.ts"}
-{"path":"infrastructure/storage/databases/pgbouncer/pgbouncer.manifest.code.ts"}
+{"path":"infrastructure/storage/database/pgbouncer/pgbouncer.manifest.code.ts"}
 {"path":"infrastructure/telemetry/modules/prometheus-constants/prometheus-constants.module.code.ts"}
-{"path":"pages/service/page-store/page-store.manifest.code.ts"}
+{"path":"page/service/page-store/page-store.manifest.code.ts"}

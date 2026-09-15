@@ -4,7 +4,7 @@ import { applySelect } from "akasha/page/access/modules/routing-core/routing-cor
 import type { PageSelect } from "akasha/page/access/modules/types/types.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import type { SequenceConfig } from "akasha/page/core/schema/modules/sequence-config/sequence-config.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 
 const SEQUENCE_PAGE_SIZE = 500
 

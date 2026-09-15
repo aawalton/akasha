@@ -13,7 +13,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
-import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
+import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
 
 const ANSWER_CEILING = 28000
 

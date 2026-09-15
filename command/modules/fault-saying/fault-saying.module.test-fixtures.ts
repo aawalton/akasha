@@ -2,7 +2,7 @@ const AT_CP_SYNC = "/repo/akasha/code/running/modules/code-tests/code-tests.modu
 
 const AT_WORLD_OF = "/repo/akasha/code/running/modules/code-tests/code-tests.module.code.ts:244:7"
 
-const AT_CHECK = "/repo/akasha/checks/one.code-check.code.ts:31:3"
+const AT_CHECK = "/repo/akasha/checks/one.check-code.code.ts:31:3"
 
 export const PATHLESS =
   "Error: ENOENT: no such file or directory, open\n" +

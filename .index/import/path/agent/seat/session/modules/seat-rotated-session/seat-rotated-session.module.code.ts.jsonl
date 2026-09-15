@@ -1,4 +1,4 @@
 {"path":"agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"}
 {"path":"agent/seat/page/modules/beat/seat-page-beat.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-rebinding/modules/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-rebinding/modules/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}

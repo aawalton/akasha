@@ -14,7 +14,7 @@ import {
 import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
+import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.ts"
 
 const SUBAGENT = "subagent"
 

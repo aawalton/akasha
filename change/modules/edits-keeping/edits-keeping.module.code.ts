@@ -19,7 +19,7 @@ import {
   uncommittedPartAt,
   uncommittedPartsOf,
 } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
-import { sizeOnDisk } from "akasha/utils/fs/modules/file-size/file-size.module.code.ts"
+import { sizeOnDisk } from "akasha/util/fs/modules/file-size/file-size.module.code.ts"
 
 const SLUG = "edits"
 

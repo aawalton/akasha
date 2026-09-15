@@ -12,7 +12,7 @@ import {
 } from "akasha/agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.test-fixtures.ts"
 import { parseRefusal } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { payloadOf } from "akasha/agent/hook/test-fixtures/payload/hook-payload.test-fixture.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const SCRIPT = join(import.meta.dir, "block-git-writes.agent-hook.code.ts")
 

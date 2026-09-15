@@ -9,7 +9,7 @@ import {
   RELAY_SECRET_NAME,
   relayedIn,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 import type { Route } from "./+types/readout-relay.route.code"
 
 const NO_READING_IN_THE_BODY = {

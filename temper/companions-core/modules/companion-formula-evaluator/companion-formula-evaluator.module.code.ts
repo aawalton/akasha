@@ -5,7 +5,7 @@ import type { CompanionFormulaNode } from "akasha/temper/companions-core/modules
 import { companionMetrics } from "akasha/temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import { evaluateArithmeticNode } from "akasha/temper/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 interface CompanionFormulaContext {
   metricValues: Map<CompanionMetricId, number>

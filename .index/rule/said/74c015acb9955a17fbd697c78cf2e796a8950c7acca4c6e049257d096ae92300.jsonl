@@ -1,1 +1,1 @@
-{"path":"infrastructure/networks/auth-proxy/modules/proxy-core/proxy-core.module.code.ts","place":2,"name":"fetchOrBadGateway"}
+{"path":"infrastructure/network/auth-proxy/modules/proxy-core/proxy-core.module.code.ts","place":2,"name":"fetchOrBadGateway"}

@@ -7,8 +7,8 @@ import {
   type Ran,
   runKubectl,
 } from "akasha/infrastructure/service/cluster/modules/workload-deploying/workload-deploying.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
-import { ran as running } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
+import { ran as running } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const GIT = "git"
 const BUN = "bun"

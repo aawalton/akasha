@@ -12,7 +12,7 @@ import {
 import { answering } from "akasha/page/service/modules/page-serving/page-serving.module.code.ts"
 import { writerFor } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 
-export const SERVICE_SLUG = "pages-service"
+export const SERVICE_SLUG = "page-service"
 export const SERVICE_PAGE_TYPE = "service-workstation"
 export const LOOPBACK = "127.0.0.1"
 export const UNBOUND = "unbound"

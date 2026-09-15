@@ -16,7 +16,7 @@ import { TARGET_QUANTITY_OPTIONS } from "akasha/temper/items-rules-core/modules/
 import { ComparisonOpPicker } from "akasha/temper/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.code.tsx"
 import { EditableTextValue } from "akasha/temper/player-inventory-management-ui/modules/rule-card-filter-text/rule-card-filter-text.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"
 
 type RuleCardState = ReturnType<typeof useRuleCard>

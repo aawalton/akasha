@@ -14,7 +14,7 @@ import { accountPathIn } from "akasha/agent/model/account/modules/reading/model-
 import type { PageOf } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { removeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const PROBE_TIMEOUT_MS = 750
 

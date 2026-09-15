@@ -3,7 +3,7 @@ import type {
   PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import type { Test } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
-import { scalarText } from "akasha/utils/narrow/modules/scalar-text/scalar-text.module.code.ts"
+import { scalarText } from "akasha/util/narrow/modules/scalar-text/scalar-text.module.code.ts"
 
 function textsOf(values: readonly unknown[]): readonly string[] | null {
   const out: string[] = []
@@ -21,7 +21,7 @@ export function loweredFrom(condition: PageCondition): Lowered {
   if ("or" in condition) {
     return {
       refused:
-        "an `or` of conditions, and a question asked of `@akasha/pages-service` tests each key on its own",
+        "an `or` of conditions, and a question asked of `@akasha/page-service` tests each key on its own",
     }
   }
   const key = condition.key
@@ -69,7 +69,7 @@ export function loweredFrom(condition: PageCondition): Lowered {
     return one === null ? noScalar : { key, test: { "at-or-after": one } }
   }
   return {
-    refused: `\`${key}\` is tested by something \`@akasha/pages-service\` runs no test for`,
+    refused: `\`${key}\` is tested by something \`@akasha/page-service\` runs no test for`,
   }
 }
 

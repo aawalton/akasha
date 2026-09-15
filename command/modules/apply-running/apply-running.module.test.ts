@@ -31,8 +31,8 @@ import {
   AKASHA,
   rootEnvName,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { writing as putting } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { writing as putting } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const PAGE = "akasha/agent/seat/pages/tester.seat.ts"
 

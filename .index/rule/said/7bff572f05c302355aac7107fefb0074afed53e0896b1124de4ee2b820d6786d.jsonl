@@ -1,1 +1,1 @@
-{"path":"infrastructure/networks/auth-proxy/modules/cors-core/cors-core.module.code.ts","place":0,"name":"matchesAllowedOrigin"}
+{"path":"infrastructure/network/auth-proxy/modules/cors-core/cors-core.module.code.ts","place":0,"name":"matchesAllowedOrigin"}

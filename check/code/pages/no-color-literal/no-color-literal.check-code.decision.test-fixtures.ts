@@ -8,9 +8,9 @@ import {
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export const HOME = "check/code/pages/no-color-literal/"
 
@@ -36,7 +36,7 @@ export const scratch = scratchWorld()
 
 const DESIGN_AT = "design/design.domain.ts"
 
-const CHECK_AT = `${HOME}no-color-literal.code-check.ts`
+const CHECK_AT = `${HOME}no-color-literal.check-code.ts`
 
 const MAP_AT = "alan/atlas-web/modules/location-map/location-map.module.ts"
 
@@ -70,9 +70,9 @@ export function rooted(
 ): string {
   const root = scratch.rootFor(prefix)
   founded(root)
-  for (const kind of ["domain", "module", "code-check"]) typed(root, kind, "page")
+  for (const kind of ["domain", "module", "check-code"]) typed(root, kind, "page")
   paged(root, "domain", "design", DESIGN_AT, DESIGN_ID, null)
-  paged(root, "code-check", "no-color-literal", CHECK_AT, CHECK_ID, null)
+  paged(root, "check-code", "no-color-literal", CHECK_AT, CHECK_ID, null)
   paged(root, "module", "location-map", MAP_AT, MAP_ID, "tsx")
   for (const [path, body] of Object.entries(files)) writing(root, path, body)
   return root

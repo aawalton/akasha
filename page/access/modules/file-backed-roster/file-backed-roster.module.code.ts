@@ -13,10 +13,10 @@ const PAGE_TYPE = "page-type"
 const ROSTER_HELD_MS = 60_000
 
 const NO_ROSTER =
-  "the page types `@akasha/pages-service` lists are the page types whose pages it holds as files, and that listing did not come back"
+  "the page types `@akasha/page-service` lists are the page types whose pages it holds as files, and that listing did not come back"
 
 const NO_PAGE_TYPE =
-  "`@akasha/pages-service` listed no page type at all, and an empty roster would read as a tree where no page is a file"
+  "`@akasha/page-service` listed no page type at all, and an empty roster would read as a tree where no page is a file"
 
 export class RosterUnreachable extends Error {
   readonly why: string

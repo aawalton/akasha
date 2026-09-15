@@ -9,7 +9,7 @@ import { exportedAs } from "akasha/page/modules/export-name/page-export-name.mod
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
 import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
-import { keptAt, scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { keptAt, scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export type Held = Record<string, unknown>
 

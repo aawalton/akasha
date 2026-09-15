@@ -49,7 +49,7 @@ import {
   summaryState,
 } from "akasha/temper/companions-addon/modules/companions-summary-panel/companions-summary-panel.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/companions-addon/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/modules/require-at/require-at.module.code.ts"
+import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 
 const COLOR_GREEN = GREEN
 const COLOR_GOLD: [number, number, number] = [0.98, 0.86, 0.24]

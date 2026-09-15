@@ -1,8 +1,8 @@
-import { asBoolean } from "akasha/utils/narrow/modules/as-boolean/as-boolean.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
-import { parseNumber } from "akasha/utils/narrow/modules/parse-number/parse-number.module.code.ts"
-import { stringIn } from "akasha/utils/narrow/modules/string-in/string-in.module.code.ts"
+import { asBoolean } from "akasha/util/narrow/modules/as-boolean/as-boolean.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
+import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
+import { parseNumber } from "akasha/util/narrow/modules/parse-number/parse-number.module.code.ts"
+import { stringIn } from "akasha/util/narrow/modules/string-in/string-in.module.code.ts"
 
 const SERVICE_TYPES = ["nextjs", "bun-service", "tool-image"] as const
 export type ServiceType = (typeof SERVICE_TYPES)[number]

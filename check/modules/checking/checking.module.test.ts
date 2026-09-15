@@ -71,13 +71,13 @@ test("a check is found through the index rather than by walking the tree", () =>
   const root = rootWith(ADMITS_CHECK)
   const found = checksIn(root)
   expect(found.map((one) => one.slug)).toEqual(["admits-all"])
-  expect(found[0]?.page).toBe("akasha/checks-system/code-check/admits-all/admits-all.code-check.ts")
+  expect(found[0]?.page).toBe("akasha/checks-system/check-code/admits-all/admits-all.check-code.ts")
 })
 
 test("a check is found by the id its page type carries, whatever slug that page type stands under", () => {
   const root = rootWith(ADMITS_CHECK, { slug: "gate", at: "akasha/gate.page-type.ts" })
   expect(checkPagesIn(root)).toEqual([
-    "akasha/checks-system/code-check/admits-all/admits-all.gate.ts",
+    "akasha/checks-system/check-code/admits-all/admits-all.gate.ts",
   ])
   expect(checksIn(root).map((one) => one.slug)).toEqual(["admits-all"])
 })
@@ -90,10 +90,10 @@ test("a check is run once over the whole change, and never over the rest of the 
 test("a check that threw refuses the change it could not judge, and the refusal names its page", async () => {
   const said = await judgedIn(THROWS_CHECK, [ONE_TS], [ONE_TS])
   expect(said.length).toBe(1)
-  expect(said[0]?.path).toBe("akasha/checks-system/code-check/throws/throws.code-check.ts")
+  expect(said[0]?.path).toBe("akasha/checks-system/check-code/throws/throws.check-code.ts")
   expect(said[0]?.reason).toContain("could not look")
   expect(said[0]?.reason).toMatch(
-    /^the check `throws` threw at \S+\/throws\.code-check\.code\.ts:2:\d+, so it judged nothing — could not look$/
+    /^the check `throws` threw at \S+\/throws\.check-code\.code\.ts:2:\d+, so it judged nothing — could not look$/
   )
 })
 
@@ -102,7 +102,7 @@ test("a fault raised beneath a check names the file and line it was thrown at, a
   const why = said[0]?.reason ?? ""
   expect(why).toContain("could not be made")
   expect(why).toMatch(
-    /threw at \S+\/throws-under\.code-check\.code\.ts:2:\d+, so it judged nothing/
+    /threw at \S+\/throws-under\.check-code\.code\.ts:2:\d+, so it judged nothing/
   )
   expect(why).toMatch(/\(called from 5:\d+, 8:\d+\)$/)
 })

@@ -37,9 +37,9 @@ import {
   minting,
 } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
-export const ADMITS_AT = "akasha/admits.code-check*"
+export const ADMITS_AT = "akasha/admits.check-code*"
 
 export const REPO_AT = rootOf(import.meta.dir)
 

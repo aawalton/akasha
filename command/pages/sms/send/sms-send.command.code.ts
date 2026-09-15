@@ -21,7 +21,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { smsSend as page } from "akasha/command/pages/sms/send/sms-send.command.ts"
-import { requireEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { requireEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const KEY_NAMED = "TELNYX_API_KEY"
 

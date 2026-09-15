@@ -6,7 +6,7 @@ import {
   overwriteTransactionNotes,
   setTransactionTags,
 } from "akasha/alan/harness/monarch/modules/notes-write/monarch-notes-write.module.code.ts"
-import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
+import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
 
 const HOME = shape.string().default("/home/walton").parse(process.env.HOME)
 

@@ -1,4 +1,4 @@
 {"path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts"}
 {"path":"agent/seat/launching/modules/spawn-seat/spawn-seat.module.code.ts"}
 {"path":"agent/seat/name-claiming/modules/seat-parentless-refusal/seat-parentless-refusal.module.test.ts"}
-{"path":"agent/seat/supervisors/supervisor-child/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"}
+{"path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"}

@@ -1,5 +1,5 @@
 import { RosterUnreachable } from "akasha/page/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 export type PageTypeBacking = "file" | "unknown"
 

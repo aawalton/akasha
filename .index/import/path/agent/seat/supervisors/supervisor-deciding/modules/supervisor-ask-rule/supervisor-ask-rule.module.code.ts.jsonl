@@ -1,7 +1,0 @@
-{"path":"agent/seat/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"}
-{"path":"agent/seat/oauth-proxy/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"}
-{"path":"agent/seat/self-healing/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-restarting/modules/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"}

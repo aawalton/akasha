@@ -1,6 +1,0 @@
-{"path":"agent/seat/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-action/modules/supervisor-agent-action-arm/supervisor-agent-action-arm.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-action/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-loop/modules/supervisor-interactive/supervisor-interactive.module.code.ts"}
-{"path":"agent/seat/supervisors/supervisor-restarting/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}

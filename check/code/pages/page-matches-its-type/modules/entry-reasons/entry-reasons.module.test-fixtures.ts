@@ -42,7 +42,7 @@ const GROUP: Carried = {
   propertySlug: "check",
   key: "check",
   unique: null,
-  declaredBy: "code-check",
+  declaredBy: "check-code",
   required: false,
   many: false,
   maxCount: null,

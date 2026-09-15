@@ -5,7 +5,7 @@ import {
   filing,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const ID = "01a04d86-434f-7119-8000-000000000001"
 

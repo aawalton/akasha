@@ -20,7 +20,7 @@ import type {
   Rule,
 } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import { decide } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 async function chosenRule(flags: ReadonlyMap<string, readonly string[]>): Promise<Rule> {
   const candidate = await candidateRule(flags)

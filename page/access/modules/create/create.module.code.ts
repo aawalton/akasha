@@ -21,7 +21,7 @@ import {
   type Page,
   type PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 import { z } from "zod"
 
 export type CreatePageArgs<T extends Record<string, unknown> = Record<string, Json>> = {

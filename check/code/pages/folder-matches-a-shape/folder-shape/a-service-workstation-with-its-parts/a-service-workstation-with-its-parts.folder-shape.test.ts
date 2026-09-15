@@ -6,7 +6,7 @@ const FOLDER = "akasha/page/service/service-workstations"
 
 const PAGE_TYPES = new Set<string>(["service-workstation", "module"])
 
-const ONE = ["pages-service.service-workstation.ts"]
+const ONE = ["page-service.service-workstation.ts"]
 
 function judged(names: readonly string[], deep: readonly string[] = []): readonly string[] {
   const made = folderFrom({ folder: FOLDER, pageTypes: PAGE_TYPES, deep })

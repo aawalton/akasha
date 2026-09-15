@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { errnoCodeOf } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
+import { errnoCodeOf } from "akasha/util/process/modules/pid-signal/pid-signal.module.code.ts"
 
 const STAT_TAIL_START_TIME_INDEX = 19
 

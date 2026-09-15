@@ -23,7 +23,7 @@ import {
   type SignedInReader,
   userIdFor,
 } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import { stringAt } from "akasha/utils/narrow/modules/string-at/string-at.module.code.ts"
+import { stringAt } from "akasha/util/narrow/modules/string-at/string-at.module.code.ts"
 
 export const TASK_PAGE_TYPE_SLUG = "temper-task"
 

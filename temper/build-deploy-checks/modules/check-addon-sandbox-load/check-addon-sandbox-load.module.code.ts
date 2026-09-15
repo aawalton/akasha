@@ -24,7 +24,7 @@ import { errorMessage } from "akasha/temper/build-deploy-checks/modules/error-me
 import { ESO_BASE_GAME_STRING_IDS } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids/eso-base-game-string-ids.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-checks/modules/population-bound/population-bound.module.code.ts"
 import { makeSandboxedLuaVm } from "akasha/temper/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"
-import { errnoCodeOf } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
+import { errnoCodeOf } from "akasha/util/process/modules/pid-signal/pid-signal.module.code.ts"
 
 const ESO_BANNED_GLOBALS = [
   "debug",

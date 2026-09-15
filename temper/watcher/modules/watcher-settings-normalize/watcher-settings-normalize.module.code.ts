@@ -1,5 +1,5 @@
 import { ALL_DESTRUCTIVE_ACTIONS } from "akasha/temper/items-core/modules/inventory-safety-types/inventory-safety-types.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
+import { asRecord } from "akasha/util/narrow/modules/as-record/as-record.module.code.ts"
 
 export type ActionReports = "none" | "minimal" | "verbose"
 

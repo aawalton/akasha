@@ -11,7 +11,7 @@ import {
   type ExpectedMorphableSkill,
   type MorphSkillLineProgressMap,
 } from "akasha/temper/skill-morphs/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
+import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 const baseApplicableEsoLineIds: ReadonlySet<number> = (() => {
   const set = new Set<number>()

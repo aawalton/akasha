@@ -6,7 +6,7 @@ import { resolveBadgeVariant } from "akasha/page/core/modules/resolve-badge-vari
 import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import { textConfigSchema } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/page/ui/components/modules/property-badge/property-badge.module.code.tsx"
-import { scalarText } from "akasha/utils/narrow/modules/scalar-text/scalar-text.module.code.ts"
+import { scalarText } from "akasha/util/narrow/modules/scalar-text/scalar-text.module.code.ts"
 import { useEffect, useState } from "react"
 
 function HeldWhileTyped({

@@ -11,7 +11,7 @@ import { usageFetched } from "akasha/agent/model/gateway/modules/oauth-effects/o
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const LAPSED_WHY = "its access token has lapsed, and renewing one is the upkeep service's alone"
 

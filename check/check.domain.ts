@@ -6,6 +6,7 @@ export const check = {
   slug: "check",
   definition: "how a change is judged against what must be true of it",
   parts: [
+    "domain/test",
     "module/audit-asking",
     "module/audit-child",
     "module/audit-request",
@@ -24,8 +25,8 @@ export const check = {
     "module/refusal-text",
     "module/router-app-code",
     "module/shape-saying",
-    "page-type/code-check",
-    "page-type/model-check",
+    "page-type/check-code",
+    "page-type/check-model",
     "page-type/refusal",
     "service-workstation/audit-running",
     "test-fixture/check-scratch",

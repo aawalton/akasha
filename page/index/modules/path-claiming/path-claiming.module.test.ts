@@ -242,13 +242,13 @@ const GROUPING = [
   {
     id: "3",
     pageTypeSlug: "page-type",
-    slug: "code-check",
+    slug: "check-code",
     properties: [{ pageProperty: "module-property-group/audit" }],
   },
 ]
 
 test("a page type declaring a file property group has a file beside it for every member", () => {
-  expect([...(sidecarsIn(GROUPING).get("code-check")?.besides ?? [])]).toEqual([
+  expect([...(sidecarsIn(GROUPING).get("check-code")?.besides ?? [])]).toEqual([
     ["audit.code", { held: "ts", uncommitted: false }],
     ["audit.test", { held: "ts", uncommitted: false }],
     ["audit.logs", { held: "jsonl", uncommitted: true }],
@@ -259,23 +259,23 @@ test("a page of a file property group page type has no file of its own beside it
   expect([...(sidecarsIn(GROUPING).get("module-property-group")?.besides ?? [])]).toEqual([])
 })
 
-const GROUP_PAGE = "/repo/deep/a.code-check.ts"
+const GROUP_PAGE = "/repo/deep/a.check-code.ts"
 
 const GROUP_KEYS = { "audit.code": null, "audit.test": null, "audit.logs": null }
 
 const GROUP_MEMBERS = [
-  "deep/a.code-check.audit.code.ts",
-  "deep/a.code-check.audit.test.ts",
-  "deep/a.code-check.audit.logs.uncommitted.jsonl",
+  "deep/a.check-code.audit.code.ts",
+  "deep/a.check-code.audit.test.ts",
+  "deep/a.check-code.audit.logs.uncommitted.jsonl",
 ]
 
-const GROUP_OWN = "deep/a.code-check.ts"
+const GROUP_OWN = "deep/a.check-code.ts"
 
-const ONE_MEMBER = "deep/a.code-check.audit.test.ts"
+const ONE_MEMBER = "deep/a.check-code.audit.test.ts"
 
 function groupClaiming(there: (at: string) => boolean = () => false): readonly string[] {
-  const value = { id: A, pageTypeSlug: "code-check", slug: "a" }
-  const filed = filedAs("code-check", GROUP_KEYS)
+  const value = { id: A, pageTypeSlug: "check-code", slug: "a" }
+  const filed = filedAs("check-code", GROUP_KEYS)
   return claimsOf(value, GROUP_PAGE, "/repo", filed, sidecarsIn(GROUPING), new Map(), there)
 }
 

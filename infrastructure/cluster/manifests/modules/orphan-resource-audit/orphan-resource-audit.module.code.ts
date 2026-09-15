@@ -8,7 +8,7 @@ import {
   listLive,
 } from "akasha/infrastructure/cluster/manifests/modules/orphan-resource-listing/orphan-resource-listing.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import { parseAllDocuments } from "yaml"
 
 const MANAGED_BY_A_DEPLOY: ReadonlySet<string> = new Set(["deploy-script", "bootstrap"])

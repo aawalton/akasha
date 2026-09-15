@@ -1,7 +1,7 @@
 import { appendFile, mkdir } from "node:fs/promises"
 import { seatNameForSupervisorPid } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
-import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
-import type { Infer } from "akasha/utils/narrow/modules/shape-core/shape-core.module.code.ts"
+import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
+import type { Infer } from "akasha/util/narrow/modules/shape-core/shape-core.module.code.ts"
 
 const MS_PER_MINUTE = 60_000
 

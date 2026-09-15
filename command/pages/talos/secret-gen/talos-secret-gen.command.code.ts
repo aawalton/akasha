@@ -16,7 +16,7 @@ import { talosSecretGen as page } from "akasha/command/pages/talos/secret-gen/ta
 import { clusterSecretsSopsPath } from "akasha/infrastructure/cluster/provisioning/talos/modules/paths/paths.module.code.ts"
 import { encryptFile } from "akasha/infrastructure/cluster/provisioning/talos/modules/sops/sops.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/modules/talosctl/talosctl.module.code.ts"
-import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export type Named = { readonly cluster: string; readonly force: boolean }
 

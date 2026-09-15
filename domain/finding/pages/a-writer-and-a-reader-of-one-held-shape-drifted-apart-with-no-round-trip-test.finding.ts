@@ -4,7 +4,7 @@ export const aWriterAndAReaderOfOneHeldShapeDriftedApartWithNoRoundTripTest = {
   id: "01a08bd4-b904-7f54-9b00-8f4fa9ae5636",
   type: "finding",
   slug: "a-writer-and-a-reader-of-one-held-shape-drifted-apart-with-no-round-trip-test",
-  domain: "domain/testing-system",
+  domain: "domain/test",
   claim:
     "A writer and a reader of one persisted shape, with no test between them, drifted apart in silence. `loadChapterForOffline` in `alan/library` wrote six keys; the zod shape in `alan/web` required ten, one of which no writer in this repository has ever produced. Every chapter body Alan's phone held failed on read-back, so his whole offline library read as empty, and it had never once worked. Nothing reported it: the reader drops a row it cannot parse, and the downloader asks the index which ids are held rather than asking the bodies, so ids read as held forever and nothing is fetched again. Each down-sync run logged completion. The general shape: a value written in one package and validated in another needs a test running both halves, because a test written against the reader alone is written to fit the reader and proves nothing.",
   evidence:
