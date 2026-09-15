@@ -34,6 +34,7 @@ import {
   seaweedFSObjectStoreFromEnv,
 } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -52,6 +53,8 @@ const NAMED = [
 ] as const
 
 const FOOD_ENTRY_PAGE_TYPE_SLUG = "food-entry"
+
+const PAGE_TYPE = "page-type"
 
 const SLUG_OPENING = `${FOOD_ENTRY_PAGE_TYPE_SLUG}-`
 
@@ -260,7 +263,7 @@ async function logged(read: Logged, given: Given, kept: Kept): Promise<Answer> {
   const foodId = Bun.randomUUIDv7()
   const values: Value = {
     id: foodId,
-    type: FOOD_ENTRY_PAGE_TYPE_SLUG,
+    type: namedAs(PAGE_TYPE, FOOD_ENTRY_PAGE_TYPE_SLUG, null),
     slug,
     title: read.title,
     happenedAt,
