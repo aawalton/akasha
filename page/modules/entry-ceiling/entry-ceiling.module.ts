@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const entryCeiling = {
   id: "01a0680c-5278-7c36-a60c-23134f2fdb94",
-  type: "module",
+  type: "page-type/module",
   slug: "entry-ceiling",
   definition: "the most bytes one file beside a page holds",
   code: "ts",

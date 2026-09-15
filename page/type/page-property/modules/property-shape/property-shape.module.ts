@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const propertyShape = {
   id: "01a0a2b4-adec-7d23-a49b-d0b4eeefdb1f",
-  type: "module",
+  type: "page-type/module",
   slug: "property-shape",
   definition: "what a page property is, as the file beside its page type holds it",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const storeSpelledAsking = {
   id: "01a063ba-dbcd-72dd-9475-fbcddbebcd88",
-  type: "module",
+  type: "page-type/module",
   slug: "store-spelled-asking",
   definition: "a composed query asked of the store in the spelling the store has",
   code: "ts",

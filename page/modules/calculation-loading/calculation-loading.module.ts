@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const calculationLoading = {
   id: "01a071f0-b9d7-754a-83dc-36f3c40b2d10",
-  type: "module",
+  type: "page-type/module",
   slug: "calculation-loading",
   definition: "the function a computed property's code file exports, taken from that file's text",
   code: "ts",

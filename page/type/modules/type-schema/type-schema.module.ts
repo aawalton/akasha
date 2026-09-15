@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const typeSchema = {
   id: "01a0a2b4-aded-7167-889b-86d7006f7237",
-  type: "module",
+  type: "page-type/module",
   slug: "type-schema",
   definition: "everything it takes to work with a page type, as the file beside it holds that",
   code: "ts",

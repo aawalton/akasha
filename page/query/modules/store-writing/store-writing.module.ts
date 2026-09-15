@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const storeWriting = {
   id: "01a05aec-eaaa-7be1-9528-6c84a071ce1c",
-  type: "module",
+  type: "page-type/module",
   slug: "store-writing",
   definition: "a body carried to the store at a path, and the commit it lands as",
   code: "ts",

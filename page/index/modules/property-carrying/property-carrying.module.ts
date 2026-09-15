@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const propertyCarrying = {
   id: "01a058d4-6546-7f65-8b92-9271477f905f",
-  type: "module",
+  type: "page-type/module",
   slug: "property-carrying",
   definition: "the pages a page property reaches, and the record each is reached through",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const recordSweeping = {
   id: "01a09b2f-70d4-7d54-b9cf-7c956b1ce890",
-  type: "module",
+  type: "page-type/module",
   slug: "record-sweeping",
   definition: "every line beside a page past the window its property states taken away",
   code: "ts",

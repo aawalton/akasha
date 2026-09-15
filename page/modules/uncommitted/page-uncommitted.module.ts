@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageUncommitted = {
   id: "01a05010-1cbe-76ec-a6bf-c455bdde23b5",
-  type: "module",
+  type: "page-type/module",
   slug: "page-uncommitted",
   definition: "the values a page carries that the commit does not hold",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const groupKeyToValue = {
   id: "01a05b92-a9c7-7a47-aa34-4d08c086e6e6",
-  type: "module",
+  type: "page-type/module",
   slug: "group-key-to-value",
   definition: "the property value a view's group key represents",
   code: "ts",

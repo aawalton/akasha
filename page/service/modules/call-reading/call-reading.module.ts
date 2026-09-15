@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const callReading = {
   id: "01a0a219-c8cd-7000-b0ba-e52ad338d390",
-  type: "module",
+  type: "page-type/module",
   slug: "call-reading",
   definition: "what a call carries, read off its body into what the pages take",
   code: "ts",

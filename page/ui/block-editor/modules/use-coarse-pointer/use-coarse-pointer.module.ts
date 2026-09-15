@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const useCoarsePointer = {
   id: "01a05c7d-d06a-7c41-94f9-b9cd44eed247",
-  type: "module",
+  type: "page-type/module",
   slug: "use-coarse-pointer",
   definition: "whether the pointer is coarse, as a touch screen's is",
   code: "ts",

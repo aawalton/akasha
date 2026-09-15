@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const indexSurface = {
   id: "01a04f55-919c-7d2a-ab3d-8e6aca34022b",
-  type: "module",
+  type: "page-type/module",
   slug: "index-surface",
   definition:
     "the reads a reading answers, and one reading laid over another so a change is read unwritten",

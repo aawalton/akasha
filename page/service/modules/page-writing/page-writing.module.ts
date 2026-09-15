@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageWriting = {
   id: "01a05abd-fe05-794d-8493-811846971bf6",
-  type: "module",
+  type: "page-type/module",
   slug: "page-writing",
   definition: "a write handed to the pages, and the commit it lands as",
   code: "ts",

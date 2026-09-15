@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const markdownDocument = {
   id: "01a05cc6-2a1c-7052-a972-698c701753b4",
-  type: "module",
+  type: "page-type/module",
   slug: "markdown-document",
   definition: "the shape a markdown page takes once it is parsed",
   code: "ts",

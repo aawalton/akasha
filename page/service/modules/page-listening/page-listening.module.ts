@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageListening = {
   id: "01a05a43-5af9-7b66-ac4c-33e3f06d1c87",
-  type: "module",
+  type: "page-type/module",
   slug: "page-listening",
   definition: "the port a page query arrives on, and what is bound to it",
   code: "ts",

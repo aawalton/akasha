@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const indexIdentifying = {
   id: "01a0a55d-2c78-7d82-a849-3548cc1bb124",
-  type: "module",
+  type: "page-type/module",
   slug: "index-identifying",
   definition: "the identifiers a page states, read once for every index filing them",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const indexFiling = {
   id: "01a08e9f-f494-79ea-9155-8f6f56dbf41c",
-  type: "module",
+  type: "page-type/module",
   slug: "index-filing",
   definition: "the index lines and page bodies a test files into a root of its own",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fileAppending = {
   id: "01a09279-a78b-7751-be07-d9dfc607cbc3",
-  type: "module",
+  type: "page-type/module",
   slug: "file-appending",
   definition: "whether the file at a path is only ever added to at its end",
   code: "ts",

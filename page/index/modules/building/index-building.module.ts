@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const indexBuilding = {
   id: "01a0a120-e0b6-7e06-a347-7282763bf802",
-  type: "module",
+  type: "page-type/module",
   slug: "index-building",
   definition: "the index built for a checkout by running one file",
   code: "ts",

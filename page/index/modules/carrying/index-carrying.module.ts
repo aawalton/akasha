@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const indexCarrying = {
   id: "01a09b7d-f088-7d22-88c5-53f5c0901921",
-  type: "module",
+  type: "page-type/module",
   slug: "index-carrying",
   definition: "the index files a change carries among its own file changes",
   code: "ts",

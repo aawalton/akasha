@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageAppending = {
   id: "01a0a220-998d-7000-b216-e0937326b6fb",
-  type: "module",
+  type: "page-type/module",
   slug: "page-appending",
   definition: "lines added to the end of a file part a page keeps outside the commit",
   code: "ts",

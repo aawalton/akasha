@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const generatedProperties = {
   id: "01a04f2b-3d23-790e-b2f2-a9b1e6846e6f",
-  type: "module",
+  type: "page-type/module",
   slug: "generated-properties",
   definition: "which page properties state a generator, which kind works each out, and when",
   code: "ts",

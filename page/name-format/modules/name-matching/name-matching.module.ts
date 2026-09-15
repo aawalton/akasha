@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const nameMatching = {
   id: "01a04eba-7459-7284-8c06-c79e5963387d",
-  type: "module",
+  type: "page-type/module",
   slug: "name-matching",
   definition: "the one rule by which a name format answers whether a name is written in it",
   code: "ts",

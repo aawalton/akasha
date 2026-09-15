@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const indexEntries = {
   id: "01a04b79-16c5-70d4-884a-66c95ddbec0d",
-  type: "module",
+  type: "page-type/module",
   slug: "index-entries",
   definition: "the entries a page's value implies",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pathNaming = {
   id: "01a06310-8e44-7798-ae4b-af7b4b182be8",
-  type: "module",
+  type: "page-type/module",
   slug: "path-naming",
   definition: "the tracked files that name a path",
   code: "ts",

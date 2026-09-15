@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const applyGroupingSort = {
   id: "01a05b92-a9c7-75fa-8bdd-8973ebcd09fb",
-  type: "module",
+  type: "page-type/module",
   slug: "apply-grouping-sort",
   definition: "the order a view's groups are sorted into",
   code: "ts",

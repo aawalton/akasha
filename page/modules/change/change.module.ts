@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const change = {
   id: "01a0542d-94cd-7695-b0dc-ad22cad9bdc4",
-  type: "module",
+  type: "page-type/module",
   slug: "change",
   definition: "a change to files, and the bodies before and after it",
   code: "ts",

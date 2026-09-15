@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const indexSettling = {
   id: "01a08c06-6aac-7a7a-be73-529b101223b1",
-  type: "module",
+  type: "page-type/module",
   slug: "index-settling",
   definition: "the entries a change files and the reading that change leaves",
   code: "ts",

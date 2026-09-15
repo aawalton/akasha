@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const indexKeeping = {
   id: "01a0584f-30ed-7000-bd17-95f4f41ac634",
-  type: "module",
+  type: "page-type/module",
   slug: "index-keeping",
   definition: "the index reconciled against what the pages say, file by file",
   code: "ts",

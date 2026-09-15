@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageTypeGathering = {
   id: "01a07883-67ee-7be0-9fd1-0df7b1974d3e",
-  type: "module",
+  type: "page-type/module",
   slug: "page-type-gathering",
   definition: "which pages stand as page types, read from the types those pages are",
   code: "ts",

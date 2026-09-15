@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const storeReaching = {
   id: "01a05aec-eaaa-7fea-bdc1-a5818c78d54a",
-  type: "module",
+  type: "page-type/module",
   slug: "store-reaching",
   definition: "where the page store stands, and the POST that carries a body to it",
   code: "ts",

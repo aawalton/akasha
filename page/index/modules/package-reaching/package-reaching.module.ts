@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const packageReaching = {
   id: "01a05ae4-fc70-7001-89b1-ea70915be49e",
-  type: "module",
+  type: "page-type/module",
   slug: "package-reaching",
   definition: "where each specifier naming a package lands, read from the manifests standing",
   code: "ts",

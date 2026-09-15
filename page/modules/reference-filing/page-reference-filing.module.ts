@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageReferenceFiling = {
   id: "01a0a2fd-3d84-72e6-bf95-847df5aa7228",
-  type: "module",
+  type: "page-type/module",
   slug: "page-reference-filing",
   definition: "the lines a page's own body files into the file beside every page it references",
   code: "ts",

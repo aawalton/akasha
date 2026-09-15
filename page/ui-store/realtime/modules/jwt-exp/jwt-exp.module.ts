@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const jwtExp = {
   id: "01a05b69-4554-714f-9eff-377a5483bdac",
-  type: "module",
+  type: "page-type/module",
   slug: "jwt-exp",
   definition: "when a token expires, and how long before that it is refreshed",
   code: "ts",

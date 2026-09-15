@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageReferenceReading = {
   id: "01a0a2f5-8283-7825-bfc3-faab9dc94d51",
-  type: "module",
+  type: "page-type/module",
   slug: "page-reference-reading",
   definition: "what references a page, read from the file beside that page",
   code: "ts",

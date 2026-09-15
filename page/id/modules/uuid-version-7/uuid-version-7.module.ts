@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const uuidVersion7 = {
   id: "01a07be9-0fe1-7ffb-9765-633921d012dd",
-  type: "module",
+  type: "page-type/module",
   slug: "uuid-version-7",
   definition: "a uuid with the moment that uuid was made",
   code: "ts",

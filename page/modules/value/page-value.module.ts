@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageValue = {
   id: "01a0592a-2e05-7e6a-941f-9dfd06790615",
-  type: "module",
+  type: "page-type/module",
   slug: "page-value",
   definition: "the value a page's body declares, and what one of its keys has",
   code: "ts",

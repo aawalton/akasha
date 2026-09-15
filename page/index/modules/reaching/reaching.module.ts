@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const reaching = {
   id: "01a04f4d-00d6-727f-b504-659312870b32",
-  type: "module",
+  type: "page-type/module",
   slug: "reaching",
   definition: "the page a name reaches, and the edges the names in a page imply",
   code: "ts",

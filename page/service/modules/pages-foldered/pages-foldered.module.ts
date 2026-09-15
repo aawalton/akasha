@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pagesFoldered = {
   id: "01a0a5a9-545f-783d-8733-5a27ccc6ba98",
-  type: "module",
+  type: "page-type/module",
   slug: "pages-foldered",
   definition: "whether the pages already in a folder sit as files or in folders of their own",
   code: "ts",

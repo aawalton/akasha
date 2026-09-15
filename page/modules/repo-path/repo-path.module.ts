@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const repoPath = {
   id: "01a05cc6-2a1c-751d-8813-33c04d9c2005",
-  type: "module",
+  type: "page-type/module",
   slug: "repo-path",
   definition: "a path spelled out in full, and whether it is inside a repository",
   code: "ts",

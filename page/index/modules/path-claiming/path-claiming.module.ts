@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pathClaiming = {
   id: "01a08205-e6f0-73c3-9c32-f05a518dd3f3",
-  type: "module",
+  type: "page-type/module",
   slug: "path-claiming",
   definition: "the paths a page's value claims, and the page a path is claimed by",
   code: "ts",

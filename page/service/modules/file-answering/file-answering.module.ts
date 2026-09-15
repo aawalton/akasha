@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fileAnswering = {
   id: "01a0784a-085f-7c1d-aec3-7e04a398f007",
-  type: "module",
+  type: "page-type/module",
   slug: "file-answering",
   definition: "the bytes a page keeps under one file property",
   code: "ts",

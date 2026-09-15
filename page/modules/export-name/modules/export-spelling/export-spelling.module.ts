@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const exportSpelling = {
   id: "01a09413-a04a-7d1a-9b1f-ec1b3e2a3762",
-  type: "module",
+  type: "page-type/module",
   slug: "export-spelling",
   definition: "the exports a page's own files carry under the name that page's slug makes",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const singleton = {
   id: "01a05b69-455a-7d6e-96f9-f114dbc25c52",
-  type: "module",
+  type: "page-type/module",
   slug: "singleton",
   definition: "the one page store a browser tab holds",
   code: "ts",

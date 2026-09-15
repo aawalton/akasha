@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const quoteHolding = {
   id: "01a0a582-6d44-7000-9ebd-3e0bec1aaca3",
-  type: "module",
+  type: "page-type/module",
   slug: "quote-holding",
   definition: "the files whose words are kept as they were said",
   code: "ts",

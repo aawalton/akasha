@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const besideDeclaring = {
   id: "01a0a5b6-b8e0-7795-a6eb-c2223e6dd24f",
-  type: "module",
+  type: "page-type/module",
   slug: "beside-declaring",
   definition: "the files a page type declares beside every page of that type",
   code: "ts",

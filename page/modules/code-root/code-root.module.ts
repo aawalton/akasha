@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const codeRoot = {
   id: "01a0616e-00e1-7000-83c1-f6c571f34b8f",
-  type: "module",
+  type: "page-type/module",
   slug: "code-root",
   definition: "the checkout a run walks",
   code: "ts",

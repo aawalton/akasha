@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const select = {
   id: "01a05b92-a9c7-7a3b-8ead-0439cf3ee357",
-  type: "module",
+  type: "page-type/module",
   slug: "select",
   definition: "the property type storing a single choice from a list of options",
   code: "ts",

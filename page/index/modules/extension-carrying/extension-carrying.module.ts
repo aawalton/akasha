@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const extensionCarrying = {
   id: "01a09147-a806-78c9-8f27-bf82ebbd41f2",
-  type: "module",
+  type: "page-type/module",
   slug: "extension-carrying",
   definition: "the files beside a page a property names by the extension they close with",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const storeSpelling = {
   id: "01a06369-1e85-764a-90a8-c72d834a1882",
-  type: "module",
+  type: "page-type/module",
   slug: "store-spelling",
   definition: "a declared key put into the store's spelling on the way in and answered as both",
   code: "ts",

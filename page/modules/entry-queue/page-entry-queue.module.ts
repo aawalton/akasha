@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageEntryQueue = {
   id: "01a062a1-8add-704d-8a85-01215620ad7a",
-  type: "module",
+  type: "page-type/module",
   slug: "page-entry-queue",
   definition: "entry values reaching the disk after the call handing those values over returns",
   code: "ts",
