@@ -1,5 +1,8 @@
 import { basicAuthHeader } from "akasha/alan/music/spotify/modules/credentials/spotify-credentials.module.code.ts"
-import { fetchSpotify } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
+import {
+  type Fetching,
+  fetchSpotify,
+} from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import {
   readToken,
   type SpotifyToken,
@@ -65,8 +68,11 @@ export function isExpired(token: SpotifyToken, now: number = Date.now()): boolea
   return new Date(token.expiresAt).getTime() - now <= EXPIRY_BUFFER_MS
 }
 
-export function postToken(asked: URLSearchParams): Promise<Response> {
-  return fetchSpotify(TOKEN_URL, {
+export function postToken(
+  asked: URLSearchParams,
+  over: Fetching = fetchSpotify
+): Promise<Response> {
+  return over(TOKEN_URL, {
     method: "POST",
     headers: {
       "Content-Type": "application/x-www-form-urlencoded",
@@ -76,23 +82,24 @@ export function postToken(asked: URLSearchParams): Promise<Response> {
   })
 }
 
-export async function forceRefresh(): Promise<SpotifyToken> {
+export async function forceRefresh(over: Fetching = fetchSpotify): Promise<SpotifyToken> {
   const stored = readToken()
   if (stored == null) throw new Error(NOT_AUTHORIZED)
   const response = await postToken(
     new URLSearchParams({
       grant_type: "refresh_token",
       refresh_token: stored.refreshToken,
-    })
+    }),
+    over
   )
   const data = await parseTokenResponse(response)
   return persistTokenResponse(data, stored.refreshToken, stored.scopes)
 }
 
-export async function getOAuthAccessToken(): Promise<string> {
+export async function getOAuthAccessToken(over: Fetching = fetchSpotify): Promise<string> {
   const stored = readToken()
   if (stored == null) throw new Error(NOT_AUTHORIZED)
   if (!isExpired(stored)) return stored.accessToken
-  const refreshed = await forceRefresh()
+  const refreshed = await forceRefresh(over)
   return refreshed.accessToken
 }
