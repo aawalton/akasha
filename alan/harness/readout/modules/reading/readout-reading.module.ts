@@ -104,6 +104,11 @@ export const readoutReading = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement:
+        "The values a reading is written under are answered here rather than spelled by a writer.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "Values with neither half have no reading.",
     },
     {

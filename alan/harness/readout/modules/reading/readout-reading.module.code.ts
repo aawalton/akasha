@@ -47,6 +47,18 @@ function pageThere(root: string, page: string): undefined {
   )
 }
 
+type Taken = Omit<Reading, "fallsPerHour"> & { readonly fallsPerHour?: number }
+
+export function readingValues(taken: Taken): Record<string, unknown> {
+  return {
+    [LAST_VALUE]: taken.value,
+    [LAST_VALUE_AT]: taken.at,
+    ...(taken.fallsPerHour === undefined
+      ? {}
+      : { [LAST_VALUE_FALLS_PER_HOUR]: taken.fallsPerHour }),
+  }
+}
+
 export function keepReading(
   root: string,
   page: string,
@@ -55,11 +67,7 @@ export function keepReading(
   fallsPerHour?: number
 ): undefined {
   pageThere(root, page)
-  mergeUncommitted(root, page, {
-    [LAST_VALUE]: value,
-    [LAST_VALUE_AT]: at.toISOString(),
-    ...(fallsPerHour === undefined ? {} : { [LAST_VALUE_FALLS_PER_HOUR]: fallsPerHour }),
-  })
+  mergeUncommitted(root, page, readingValues({ value, at: at.toISOString(), fallsPerHour }))
 }
 
 export function readingKept(root: string, page: string): Reading | null {

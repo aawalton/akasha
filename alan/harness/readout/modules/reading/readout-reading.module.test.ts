@@ -4,6 +4,7 @@ import {
   keepSilence,
   readingKept,
   readingOn,
+  readingValues,
   readoutPage,
   WENT_SILENT_AT,
   wentSilentAtKept,
@@ -147,6 +148,31 @@ test("values carrying neither half carry no reading", () => {
 test("values carrying one half alone carry no reading", () => {
   expect(readingOn({ lastValue: 19 })).toBeNull()
   expect(readingOn({ lastValueAt: TAKEN })).toBeNull()
+})
+
+test("the keys a reading is written under are answered rather than spelled by the writer", () => {
+  expect(readingValues({ value: 19, at: TAKEN })).toEqual({ lastValue: 19, lastValueAt: TAKEN })
+})
+
+test("a rate given is written beside the two halves and a rate not given is left out", () => {
+  expect(readingValues({ value: 19, at: TAKEN, fallsPerHour: 2 })).toEqual({
+    lastValue: 19,
+    lastValueAt: TAKEN,
+    lastValueFallsPerHour: 2,
+  })
+  expect(readingValues({ value: 19, at: TAKEN, fallsPerHour: 0 })).toEqual({
+    lastValue: 19,
+    lastValueAt: TAKEN,
+    lastValueFallsPerHour: 0,
+  })
+})
+
+test("a reading written under those keys reads back as the reading it was", () => {
+  expect(readingOn(readingValues({ value: 19, at: TAKEN, fallsPerHour: 2 }))).toEqual({
+    value: 19,
+    at: TAKEN,
+    fallsPerHour: 2,
+  })
 })
 
 test("the key the moment of silence is carried under is named here alone", () => {
