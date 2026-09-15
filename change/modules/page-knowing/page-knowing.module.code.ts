@@ -1,8 +1,5 @@
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import {
-  eachTarget,
-  type Shaped,
-} from "akasha/page/index/modules/reaching/reaching.module.code.ts"
+import { eachTarget, type Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import type { Named } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
