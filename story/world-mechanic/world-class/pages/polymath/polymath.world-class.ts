@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const polymath = {
   id: "01a06586-0a0a-760b-85b1-348e8f5360c4",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "polymath",
   title: "Polymath",
   world: "world/the-wandering-inn",

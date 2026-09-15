@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const policymaker = {
   id: "01a06586-0a0a-76ff-b42f-45b0dd28ff12",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "policymaker",
   title: "Policymaker",
   world: "world/the-wandering-inn",

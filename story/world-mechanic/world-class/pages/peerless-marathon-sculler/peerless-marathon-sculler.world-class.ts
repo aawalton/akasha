@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const peerlessMarathonSculler = {
   id: "01a0657e-13b6-72f6-817b-2bd36f131e53",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "peerless-marathon-sculler",
   title: "Peerless Marathon Sculler",
   world: "world/the-wandering-inn",

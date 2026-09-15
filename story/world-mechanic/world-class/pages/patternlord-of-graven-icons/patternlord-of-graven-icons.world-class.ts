@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const patternlordOfGravenIcons = {
   id: "01a0657e-13b6-7e95-a990-23e3c2f9b8e0",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "patternlord-of-graven-icons",
   title: "Patternlord of Graven Icons",
   world: "world/the-wandering-inn",

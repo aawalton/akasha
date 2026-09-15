@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const pictorialChefDeEntremetier = {
   id: "01a0657e-0237-78c5-89e9-3af9d5f57704",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "pictorial-chef-de-entremetier",
   title: "Pictorial Chef de Entremetier",
   world: "world/the-wandering-inn",

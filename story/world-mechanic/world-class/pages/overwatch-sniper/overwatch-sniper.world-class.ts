@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const overwatchSniper = {
   id: "01a0657e-13b4-7010-bdf1-0d6aa03251ea",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "overwatch-sniper",
   title: "Overwatch Sniper",
   world: "world/the-wandering-inn",

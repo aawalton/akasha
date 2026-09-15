@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const oldbloodFlamebreathWarriorLevel41 = {
   id: "01a0657e-0235-7d44-8434-bc3025d7a3a1",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "oldblood-flamebreath-warrior-level-41",
   title: "Oldblood Flamebreath Warrior Level 41",
   world: "world/the-wandering-inn",

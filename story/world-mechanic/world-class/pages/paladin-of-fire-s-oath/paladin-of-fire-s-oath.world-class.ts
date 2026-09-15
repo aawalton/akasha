@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const paladinOfFireSOath = {
   id: "01a0657e-0236-7730-a627-f44f7e9c4a50",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "paladin-of-fire-s-oath",
   title: "Paladin of Fire’s Oath",
   world: "world/the-wandering-inn",

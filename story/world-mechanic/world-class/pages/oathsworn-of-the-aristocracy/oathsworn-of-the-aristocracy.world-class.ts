@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const oathswornOfTheAristocracy = {
   id: "01a0657e-0235-7f07-bbca-09614f2b105a",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "oathsworn-of-the-aristocracy",
   title: "Oathsworn of the Aristocracy",
   world: "world/the-wandering-inn",

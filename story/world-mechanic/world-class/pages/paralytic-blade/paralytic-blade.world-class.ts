@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const paralyticBlade = {
   id: "01a0657e-0236-7979-bd81-ac289bbffa7d",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "paralytic-blade",
   title: "Paralytic Blade",
   world: "world/the-wandering-inn",

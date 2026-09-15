@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const pageOfMemorySFlame = {
   id: "01a0657e-0235-74c2-ac2e-e428229b730c",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "page-of-memory-s-flame",
   title: "Page of Memory’s Flame",
   world: "world/the-wandering-inn",

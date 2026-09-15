@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const pagesOfGlorySFlame = {
   id: "01a0657e-0235-7887-a879-84e2bbda0f74",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "pages-of-glory-s-flame",
   title: "Pages of Glory’s Flame",
   world: "world/the-wandering-inn",
