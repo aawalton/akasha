@@ -2,7 +2,7 @@ import type { TemperCompanionProgress } from "akasha/temper/character/temper-com
 
 export const zerithVar = {
   id: "019dda20-f573-7169-a65a-edcca64e45ba",
-  type: "temper-companion-progress",
+  type: "page-type/temper-companion-progress",
   slug: "zerith-var",
   title: "Zerith-var",
   companionId: "zerith-var",
