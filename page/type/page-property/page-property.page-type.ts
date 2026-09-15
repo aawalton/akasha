@@ -7,6 +7,7 @@ export const pageProperty = {
   type: "page-type/page-type",
   slug: "page-property",
   definition: "one value a page carries",
+  pluralSlug: "properties",
   parts: [
     "boolean-property/holds-bytes",
     "boolean-property/nullable",

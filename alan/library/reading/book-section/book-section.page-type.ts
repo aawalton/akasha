@@ -5,6 +5,7 @@ export const bookSection = {
   type: "page-type/page-type",
   slug: "book-section",
   definition: "one instalment of a book",
+  pluralSlug: "sections",
   extends: ["page-type/collection"],
   parts: ["file-property/chapter-text", "relation-property/section-of"],
   properties: [

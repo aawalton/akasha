@@ -5,6 +5,7 @@ export const module = {
   type: "page-type/page-type",
   slug: "module",
   definition: "code reached by importing it",
+  pluralSlug: "modules",
   parts: [
     "boolean-property/answers-a-checkout-root",
     "code-file-property/code",

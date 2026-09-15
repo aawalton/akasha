@@ -5,6 +5,7 @@ export const testFixture = {
   type: "page-type/page-type",
   slug: "test-fixture",
   definition: "the world more than one module's tests are set up with",
+  pluralSlug: "test-fixtures",
   parts: [
     "test-fixture/bodying",
     "test-fixture/declaring",

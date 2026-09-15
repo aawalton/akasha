@@ -5,6 +5,7 @@ export const serviceWorkstation = {
   type: "page-type/page-type",
   slug: "service-workstation",
   definition: "a service the workstation runs",
+  pluralSlug: "service-workstations",
   extends: ["page-type/service"],
   parts: [
     "boolean-property/catch-up",

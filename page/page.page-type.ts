@@ -5,6 +5,7 @@ export const page = {
   type: "page-type/page-type",
   slug: "page",
   definition: "all that is kept about one thing",
+  pluralSlug: "pages",
   extends: [],
   properties: [
     { pageProperty: "text-property/id", required: true, many: false },

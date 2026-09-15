@@ -5,6 +5,7 @@ export const shellScript = {
   type: "page-type/page-type",
   slug: "shell-script",
   definition: "code in the shell language",
+  pluralSlug: "scripts",
   parts: [
     "boolean-property/sourced",
     "code-file-property/shell",
