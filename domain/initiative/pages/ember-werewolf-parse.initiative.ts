@@ -8,11 +8,6 @@ export const emberWerewolfParse = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "Three-Color Stalker wears the full Update 50 Savage Werewolf parse setup.",
-      workingMemory:
-        "The twelve slots are a Medium Divines Slimecraw head, Medium Divines Savage Werewolf shoulders, five Light Divines Order's Wrath body pieces, an Infused Savage Werewolf necklace and ring, the Shattered Paths Signet, and two Charged Savage Werewolf maces. The gold Slimecraw mask and the Signet are already in the ESO Plus bank. This is the guide's No Trial Gear variant, which sims 176.7k. An inventory capture after equipping shows this done; the last is from 29 August.\n",
-    },
-    {
       statement: "Three-Color Stalker's bar, masteries and Champion Points are the werewolf setup.",
       workingMemory:
         "One bar and no weapon swap: Feral Carnage, Hircine's Rage, Ferocious Roar, Bloody Gnash and Bloodclaws under Werewolf Berserker. Class Mastery rather than subclassing, taking An Eye for Exploitation and Above and Beyond. Warfare takes Wrathful Strikes, Fighting Finesse, Deadly Aim and Master-at-Arms. Fitness takes Boundless Vitality, Fortified, Rejuvenation and Celerity. The Thief, and 64 Stamina. The bar and Champion Points sit only inside buildHash, which the importer discards.\n",
