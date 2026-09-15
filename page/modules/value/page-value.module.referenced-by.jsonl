@@ -60,6 +60,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"domain/modules/reading/domain-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"domain/modules/work-initiatives/work-initiatives.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/inference/modules/inference-reading/inference-reading.module.code.ts"}

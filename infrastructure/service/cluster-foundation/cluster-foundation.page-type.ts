@@ -6,7 +6,7 @@ export const clusterFoundation = {
   slug: "cluster-foundation",
   definition: "what a cluster is built on, written here and running as no workload of its own",
   extends: ["page-type/service"],
-  parts: ["cluster-foundation/cluster-foundations"],
+  parts: ["cluster-foundation/cluster-foundations", "module/foundation-applying"],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

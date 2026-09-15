@@ -101,7 +101,7 @@ export function servableNamed(root: string, slug: string): Read {
   return { servable: { servicePath, manifestPath, synthPath, workload } }
 }
 
-function appliedSaid(argv: readonly string[]): string {
+export function appliedSaid(argv: readonly string[]): string {
   return `\`kubectl ${argv.join(" ")}\`, applied to the cluster`
 }
 

@@ -52,6 +52,7 @@ import { pushedImage } from "akasha/command/pages/deploy/modules/image-pushing/d
 import { putUpInferenceService } from "akasha/command/pages/deploy/modules/inference-installing/deploy-inference-installing.module.code.ts"
 import { shipIosApp } from "akasha/command/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.code.ts"
 import {
+  CLUSTER_FOUNDATION,
   CLUSTER_SERVICE,
   CONTAINER_RECIPE,
   ESO_ADDON,
@@ -74,6 +75,7 @@ import {
   appliedWorkload,
   servableNamed,
 } from "akasha/infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"
+import { appliedFoundation } from "akasha/infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"
 import { putUpEvery } from "akasha/infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.code.ts"
 import { provingFor } from "akasha/infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
@@ -88,6 +90,7 @@ const NAMED: Readonly<Record<string, string>> = {
   [CONTAINER_RECIPE]: "a container recipe",
   [INFERENCE_SERVICE]: "an inference service",
   [ESO_ADDON]: "an ESO addon",
+  [CLUSTER_FOUNDATION]: "a cluster foundation",
 }
 
 const NOTHING_UP =
@@ -111,6 +114,7 @@ const PINNED: ReadonlySet<string> = new Set([
   CLUSTER_SERVICE,
   WEB_APP,
   ESO_ADDON,
+  CLUSTER_FOUNDATION,
 ])
 
 const RUN_IN_CLUSTER: ReadonlySet<string> = new Set([CLUSTER_SERVICE, CONTAINER_RECIPE, WEB_APP])
@@ -165,6 +169,9 @@ async function putUp(
     return await putUpInferenceService(given.root, slug, false, at, up)
   }
   if (read.kind === ESO_ADDON) return await putUpAddon(at, slug, read.pagePath, false, up)
+  if (read.kind === CLUSTER_FOUNDATION) {
+    return await appliedFoundation(given.root, slug, false, at, up)
+  }
   if (read.kind === CLUSTER_SERVICE) {
     const servable = servableNamed(given.root, slug)
     if ("refused" in servable) return refused(servable.refused, DATA)

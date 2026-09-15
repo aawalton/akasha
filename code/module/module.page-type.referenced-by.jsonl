@@ -1792,6 +1792,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/seaweedfs/modules/namespace/seaweedfs-namespace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/seaweedfs/modules/prune-manifests/seaweedfs-prune-manifests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/seaweedfs/modules/rclone-env/seaweedfs-rclone-env.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/cluster/modules/cluster-api-reaching/cluster-api-reaching.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/cluster/modules/log-bound-saying/log-bound-saying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/cluster/modules/loki-log-fetching/loki-log-fetching.module.ts"}

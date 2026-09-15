@@ -275,6 +275,19 @@ export const deploy = {
       invariantKind: "invariant-kind/departure",
       statement: "A deploy of every other kind runs on the workstation.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A cluster foundation is put up as the manifests its page names and nothing else.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A foundation's deploy runs on the workstation rather than in the cluster.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "The account a cluster run deploys under is part of that foundation, so no cluster run mends it.",
+    },
 
     {
       invariantKind: "invariant-kind/departure",
