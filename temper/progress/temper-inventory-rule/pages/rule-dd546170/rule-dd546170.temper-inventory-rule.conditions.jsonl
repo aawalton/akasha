@@ -1,4 +1,4 @@
-{"id":"01a0963f-56a8-73a2-b97c-4d337e6439f9","conditionField":"can-unlock","conditionValue":"cannot-unlock"}
-{"id":"01a0963f-56a8-7ec5-adef-68a4a5bddecc","conditionField":"market-value","conditionValue":"MIN_LISTING_VALUE"}
-{"id":"01a0963f-56a8-7d7b-937a-13820c4ed38a","conditionField":"market-value-op","conditionValue":"<"}
-{"id":"01a0963f-56a8-7bdf-99d5-60de64eff6c8","conditionField":"merchant-value","conditionValue":"0"}
+{"id":"01a0963f-56a8-73a2-b97c-4d337e6439f9","conditionField":"temper-condition-field/can-unlock","conditionValue":"cannot-unlock"}
+{"id":"01a0963f-56a8-7ec5-adef-68a4a5bddecc","conditionField":"temper-condition-field/market-value","conditionValue":"MIN_LISTING_VALUE"}
+{"id":"01a0963f-56a8-7d7b-937a-13820c4ed38a","conditionField":"temper-condition-field/market-value-op","conditionValue":"<"}
+{"id":"01a0963f-56a8-7bdf-99d5-60de64eff6c8","conditionField":"temper-condition-field/merchant-value","conditionValue":"0"}

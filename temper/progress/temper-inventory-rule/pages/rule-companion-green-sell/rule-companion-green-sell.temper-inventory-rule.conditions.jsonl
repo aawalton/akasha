@@ -1,2 +1,2 @@
-{"id":"01a09b51-dd09-7e7d-9d7b-aa7084379fb7","conditionField":"max-quality","conditionValue":"3"}
-{"id":"01a09b51-dd09-797d-aad8-042f75094bbd","conditionField":"can-sell","conditionValue":"can-sell"}
+{"id":"01a09b51-dd09-7e7d-9d7b-aa7084379fb7","conditionField":"temper-condition-field/max-quality","conditionValue":"3"}
+{"id":"01a09b51-dd09-797d-aad8-042f75094bbd","conditionField":"temper-condition-field/can-sell","conditionValue":"can-sell"}

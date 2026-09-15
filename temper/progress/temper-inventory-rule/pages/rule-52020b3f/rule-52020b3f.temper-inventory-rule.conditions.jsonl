@@ -1,2 +1,2 @@
-{"id":"01a0963e-9a77-70ee-84b6-13a14b43db47","conditionField":"stolen","conditionValue":"not-stolen"}
-{"id":"01a0963e-9a77-7d98-9788-5e02b397c028","conditionField":"item-name-pattern","conditionValue":"Verse"}
+{"id":"01a0963e-9a77-70ee-84b6-13a14b43db47","conditionField":"temper-condition-field/stolen","conditionValue":"not-stolen"}
+{"id":"01a0963e-9a77-7d98-9788-5e02b397c028","conditionField":"temper-condition-field/item-name-pattern","conditionValue":"Verse"}

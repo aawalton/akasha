@@ -1,2 +1,2 @@
-{"id":"01a0963e-c954-7da9-bb77-ecf93305b4ee","conditionField":"can-open","conditionValue":"can-open"}
-{"id":"01a0963e-c954-7c95-9b3d-8641384f2ed9","conditionField":"can-give-max-rewards","conditionValue":"can-give-max-rewards"}
+{"id":"01a0963e-c954-7da9-bb77-ecf93305b4ee","conditionField":"temper-condition-field/can-open","conditionValue":"can-open"}
+{"id":"01a0963e-c954-7c95-9b3d-8641384f2ed9","conditionField":"temper-condition-field/can-give-max-rewards","conditionValue":"can-give-max-rewards"}
