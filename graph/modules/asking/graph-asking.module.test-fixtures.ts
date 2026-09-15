@@ -143,11 +143,6 @@ function bodyBeside(page: string, references: readonly Reference[]): Record<stri
 }
 
 export function importsFiled(root: string, into: string, from: readonly string[]): undefined {
-  filedAll(
-    root,
-    `${IMPORT}/path/${into}.jsonl`,
-    from.map((one) => ({ path: one }))
-  )
   const owner = claimantIn(root, into)
   if (owner === null) return
   besideAdded(root, owner, importReferences(into, from))

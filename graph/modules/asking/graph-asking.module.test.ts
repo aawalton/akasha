@@ -158,11 +158,7 @@ test("a page type stating a loader is answered no differently from one stating n
 
 test("an import edge existing only in the index given is answered, and none without it", () => {
   const root = importWorld(IMPORT)
-  const over = readingLaidOver(
-    root,
-    { [`${IMPORT}/path/${FIRST_AT}.jsonl`]: [{ path: SECOND_AT }] },
-    importsBeside(root, FIRST_AT, [SECOND_AT])
-  )
+  const over = readingLaidOver(root, {}, importsBeside(root, FIRST_AT, [SECOND_AT]))
 
   expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOver(over, bodiesIn(root)))).toEqual([
     { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: { [KNOWN]: BY_REFERENCE } },
@@ -173,11 +169,7 @@ test("an import edge existing only in the index given is answered, and none with
 test("an import edge the index given empties is not answered, and exists without it", () => {
   const root = importWorld(IMPORT)
   importsFiled(root, FIRST_AT, [THIRD_AT])
-  const over = readingLaidOver(
-    root,
-    { [`${IMPORT}/path/${TARGET_AT}.jsonl`]: [] },
-    importsBeside(root, TARGET_AT, [])
-  )
+  const over = readingLaidOver(root, {}, importsBeside(root, TARGET_AT, []))
 
   expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOver(over, bodiesIn(root)))).toEqual([])
   expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
@@ -256,11 +248,7 @@ test("a seed is part of the answer, and a seed the predicate turns away is none 
 
 test("a closure walks the edges the index it was given answers, and none it does not", () => {
   const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
-  const over = readingLaidOver(
-    root,
-    { [`${IMPORT}/path/${SECOND_AT}.jsonl`]: [{ path: THIRD_AT }] },
-    importsBeside(root, SECOND_AT, [THIRD_AT])
-  )
+  const over = readingLaidOver(root, {}, importsBeside(root, SECOND_AT, [THIRD_AT]))
   const every = [FIRST_AT, SECOND_AT, THIRD_AT]
 
   expect(
