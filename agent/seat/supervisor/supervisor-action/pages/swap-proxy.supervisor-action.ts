@@ -2,7 +2,7 @@ import type { SupervisorAction } from "akasha/agent/seat/supervisor/supervisor-a
 
 export const swapProxy = {
   id: "01a05ede-80cc-7266-b628-6fc355977249",
-  type: "supervisor-action",
+  type: "page-type/supervisor-action",
   slug: "swap-proxy",
   definition: "a seat's proxy replaced with one built from current code",
   decisions: [
