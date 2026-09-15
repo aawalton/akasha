@@ -41,6 +41,18 @@ export const auditRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A stop ends the service at once rather than waiting out the round underway.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A round runs far longer than the seconds a stop is given.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A check a stop ended part way has no verdict, so the round after runs it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A round is asked for over HTTP rather than by starting the service.",
     },
     {

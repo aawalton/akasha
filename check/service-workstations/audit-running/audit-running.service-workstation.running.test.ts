@@ -15,14 +15,26 @@ const tick = await import(
   "akasha/infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"
 )
 
+const SETTLED = "settled"
+
+const WAITING = "waiting out the hour to the round after"
+
 mock.module(
   "akasha/infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts",
   () => ({
     ...tick,
-    sleptUntilStopped: () => Promise.resolve(false),
-    stopsOnSignal: () => new AbortController(),
+    sleptUntilStopped: () => new Promise<boolean>(() => {}),
   })
 )
+
+function outcomeOf(run: Promise<never>, ms: number): Promise<string> {
+  return Promise.race([
+    run.then(() => SETTLED),
+    new Promise<string>((say) => {
+      setTimeout(() => say(WAITING), ms)
+    }),
+  ])
+}
 
 mock.module("akasha/check/modules/audit-listening/audit-listening.module.code.ts", () => ({
   ...listening,
@@ -54,13 +66,13 @@ test("the run is the only way into this file, so the service has one entry", () 
 
 test("a run binds through the listening module rather than through servers bound again here", async () => {
   BOUND.length = 0
-  await running.runService()
+  await expect(outcomeOf(running.runService(), 50)).resolves.toBe(WAITING)
   expect(BOUND).toEqual([checkoutAt()])
 })
 
 test("a round opens as the service starts, over every check that runs at audit", async () => {
   RAN.length = 0
-  await running.runService()
+  await expect(outcomeOf(running.runService(), 50)).resolves.toBe(WAITING)
   expect(RAN).toEqual([[]])
 })
 
@@ -71,7 +83,7 @@ test("a round that threw leaves the service listening rather than ending the run
     ...audit,
     roundNow: () => Promise.reject(new Error(THREW)),
   }))
-  await expect(running.runService()).resolves.toBeUndefined()
+  await expect(outcomeOf(running.runService(), 50)).resolves.toBe(WAITING)
 })
 
 test("a host name that would not bind is carried out rather than swallowed, so a failed start is a failed unit", async () => {
