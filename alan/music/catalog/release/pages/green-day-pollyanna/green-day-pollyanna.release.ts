@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayPollyanna = {
   id: "01a0676a-d727-7003-965b-7b5f87bccd29",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-pollyanna",
   title: "Pollyanna",
   partOfCollections: ["artist/green-day"],

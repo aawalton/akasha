@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const gracieAbramsEverywhereEverythingWithGracieAbrams = {
   id: "01a0676a-d71d-7044-a45a-5afdc3103864",
-  type: "release",
+  type: "page-type/release",
   slug: "gracie-abrams-everywhere-everything-with-gracie-abrams",
   title: "Everywhere, Everything (with Gracie Abrams)",
   partOfCollections: ["artist/gracie-abrams"],

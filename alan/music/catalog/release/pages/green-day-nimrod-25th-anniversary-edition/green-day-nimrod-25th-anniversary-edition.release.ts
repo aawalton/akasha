@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayNimrod25thAnniversaryEdition = {
   id: "01a0676a-d725-7060-aad5-68f96a336c3c",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-nimrod-25th-anniversary-edition",
   title: "Nimrod (25th Anniversary Edition)",
   partOfCollections: ["artist/green-day"],

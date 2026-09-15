@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerAwakeMySoulAcoustic = {
   id: "01a0676a-d717-7044-b667-7532a108e581",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-awake-my-soul-acoustic",
   title: "Awake My Soul (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

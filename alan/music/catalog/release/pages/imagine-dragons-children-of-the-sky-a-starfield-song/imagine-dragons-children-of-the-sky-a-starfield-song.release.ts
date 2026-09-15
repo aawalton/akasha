@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsChildrenOfTheSkyAStarfieldSong = {
   id: "01a0676a-d71a-702a-bf78-d28804b24614",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-children-of-the-sky-a-starfield-song",
   title: "Children of the Sky (a Starfield song)",
   partOfCollections: ["artist/imagine-dragons"],

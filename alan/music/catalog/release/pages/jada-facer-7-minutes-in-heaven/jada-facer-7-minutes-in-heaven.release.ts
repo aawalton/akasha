@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacer7MinutesInHeaven = {
   id: "01a0676a-d715-7012-a164-7a7085536146",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-7-minutes-in-heaven",
   title: "7 Minutes In Heaven",
   partOfCollections: ["artist/jada-facer"],

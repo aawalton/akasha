@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsItSTimeCherryCherryBoomBoomRemix = {
   id: "01a0676a-d722-7013-a6fa-8ed61407699e",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-it-s-time-cherry-cherry-boom-boom-remix",
   title: "It's Time (Cherry Cherry Boom Boom Remix)",
   partOfCollections: ["artist/imagine-dragons"],

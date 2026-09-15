@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayFellForYouOtisMix = {
   id: "01a0676a-d71d-7070-904a-616c3893cc24",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-fell-for-you-otis-mix",
   title: "Fell for You (Otis Mix)",
   partOfCollections: ["artist/green-day"],

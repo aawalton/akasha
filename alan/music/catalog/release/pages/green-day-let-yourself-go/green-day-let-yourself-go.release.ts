@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayLetYourselfGo = {
   id: "01a0676a-d723-7027-874f-0f937032fb00",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-let-yourself-go",
   title: "Let Yourself Go",
   partOfCollections: ["artist/green-day"],

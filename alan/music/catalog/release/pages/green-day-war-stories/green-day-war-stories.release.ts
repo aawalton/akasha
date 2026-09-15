@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayWarStories = {
   id: "01a0676a-d730-7017-93fb-ac313723abab",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-war-stories",
   title: "War Stories",
   partOfCollections: ["artist/green-day"],

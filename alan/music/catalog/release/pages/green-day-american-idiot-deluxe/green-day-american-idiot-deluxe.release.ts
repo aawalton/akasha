@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayAmericanIdiotDeluxe = {
   id: "01a0676a-d717-7007-96a0-1a38a6219ec9",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-american-idiot-deluxe",
   title: "American Idiot (Deluxe)",
   partOfCollections: ["artist/green-day"],

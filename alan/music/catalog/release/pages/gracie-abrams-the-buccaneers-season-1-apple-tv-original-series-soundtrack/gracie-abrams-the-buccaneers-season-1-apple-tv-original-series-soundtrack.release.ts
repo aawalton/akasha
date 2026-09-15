@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const gracieAbramsTheBuccaneersSeason1AppleTvOriginalSeriesSoundtrack = {
   id: "01a0676a-d72c-7039-a8c0-fdc01db2a9d0",
-  type: "release",
+  type: "page-type/release",
   slug: "gracie-abrams-the-buccaneers-season-1-apple-tv-original-series-soundtrack",
   title: "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
   partOfCollections: ["artist/gracie-abrams"],

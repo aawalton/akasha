@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayKidsInAmerica = {
   id: "01a0676a-d722-703f-8290-936df04a30d8",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-kids-in-america",
   title: "Kids in America",
   partOfCollections: ["artist/green-day"],

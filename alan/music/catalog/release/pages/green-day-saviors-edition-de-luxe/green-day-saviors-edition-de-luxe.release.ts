@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDaySaviorsEditionDeLuxe = {
   id: "01a0676a-d728-7048-82bf-04a6acf92fe2",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-saviors-edition-de-luxe",
   title: "Saviors (édition de luxe)",
   partOfCollections: ["artist/green-day"],

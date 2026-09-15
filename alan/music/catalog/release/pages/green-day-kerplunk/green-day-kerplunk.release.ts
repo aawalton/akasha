@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayKerplunk = {
   id: "01a0676a-d722-703c-80fb-884acfd5259f",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-kerplunk",
   title: "Kerplunk!",
   partOfCollections: ["artist/green-day"],

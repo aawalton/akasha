@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayStuckWithMeBbcLiveSession = {
   id: "01a0676a-d72a-7034-931e-c034e0f0ea31",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-stuck-with-me-bbc-live-session",
   title: "Stuck with Me (BBC Live Session)",
   partOfCollections: ["artist/green-day"],

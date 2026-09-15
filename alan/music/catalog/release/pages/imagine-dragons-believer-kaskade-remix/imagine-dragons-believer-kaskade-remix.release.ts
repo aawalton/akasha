@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsBelieverKaskadeRemix = {
   id: "01a0676a-d718-703b-9ac6-5117b7febf9f",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-believer-kaskade-remix",
   title: "Believer (Kaskade Remix)",
   partOfCollections: ["artist/imagine-dragons"],

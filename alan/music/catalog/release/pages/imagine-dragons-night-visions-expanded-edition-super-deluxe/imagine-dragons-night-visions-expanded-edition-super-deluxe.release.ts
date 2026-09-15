@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsNightVisionsExpandedEditionSuperDeluxe = {
   id: "01a0676a-d725-705d-8ae1-af973b4e547f",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe",
   title: "Night Visions (Expanded Edition / Super Deluxe)",
   partOfCollections: ["artist/imagine-dragons"],

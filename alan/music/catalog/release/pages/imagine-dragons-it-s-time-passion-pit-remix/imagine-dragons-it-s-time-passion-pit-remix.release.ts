@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsItSTimePassionPitRemix = {
   id: "01a0676a-d722-7015-a8c7-79bfdb3af8d5",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-it-s-time-passion-pit-remix",
   title: "It's Time (Passion Pit Remix)",
   partOfCollections: ["artist/imagine-dragons"],

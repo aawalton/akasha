@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const gracieAbramsDaughterFromHell = {
   id: "01a0a198-87e3-7716-a319-e854710a9112",
-  type: "release",
+  type: "page-type/release",
   slug: "gracie-abrams-daughter-from-hell",
   ownLength: 56.26056666666667,
   ownProgress: 0,

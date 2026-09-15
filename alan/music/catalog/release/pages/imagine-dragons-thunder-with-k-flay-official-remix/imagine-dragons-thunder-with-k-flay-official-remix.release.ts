@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsThunderWithKFlayOfficialRemix = {
   id: "01a0676a-d72e-703d-90d0-a2525c8ed08f",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-thunder-with-k-flay-official-remix",
   title: "Thunder (With K.Flay) [Official Remix]",
   partOfCollections: ["artist/imagine-dragons"],

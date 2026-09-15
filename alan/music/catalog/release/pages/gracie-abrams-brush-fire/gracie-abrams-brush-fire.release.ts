@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const gracieAbramsBrushFire = {
   id: "01a0676a-d719-703e-9901-bf860a4ce982",
-  type: "release",
+  type: "page-type/release",
   slug: "gracie-abrams-brush-fire",
   title: "Brush Fire",
   partOfCollections: ["artist/gracie-abrams"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDay21GunsDmdMaxi = {
   id: "01a0676a-d714-7026-b3a0-1110239ef2fb",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-21-guns-dmd-maxi",
   title: "21 Guns (DMD Maxi)",
   partOfCollections: ["artist/green-day"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayLastNightOnEarthLiveInTokyo = {
   id: "01a0676a-d722-705d-867d-3c1673063aad",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-last-night-on-earth-live-in-tokyo",
   title: "Last Night on Earth (Live in Tokyo)",
   partOfCollections: ["artist/green-day"],

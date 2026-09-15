@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayDookie30thAnniversaryDeluxeEdition = {
   id: "01a0676a-d71c-702c-99d9-9fc89c0a20a4",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-dookie-30th-anniversary-deluxe-edition",
   title: "Dookie (30th Anniversary Deluxe Edition)",
   partOfCollections: ["artist/green-day"],

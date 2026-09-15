@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsHellAndSilenceEp = {
   id: "01a0676a-d720-7028-9735-88d6bf4d3444",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-hell-and-silence-ep",
   title: "Hell And Silence EP",
   partOfCollections: ["artist/imagine-dragons"],

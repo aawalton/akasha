@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDay21stCenturyBreakdown = {
   id: "01a0676a-d715-7004-be20-299f07d6c38d",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-21st-century-breakdown",
   title: "21st Century Breakdown",
   partOfCollections: ["artist/green-day"],

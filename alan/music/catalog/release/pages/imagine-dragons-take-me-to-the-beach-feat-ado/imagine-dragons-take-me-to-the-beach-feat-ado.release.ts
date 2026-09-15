@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsTakeMeToTheBeachFeatAdo = {
   id: "01a0676a-d72b-7014-9ce3-95a506a276a5",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-take-me-to-the-beach-feat-ado",
   title: "Take Me to the Beach (feat. Ado)",
   partOfCollections: ["artist/imagine-dragons"],

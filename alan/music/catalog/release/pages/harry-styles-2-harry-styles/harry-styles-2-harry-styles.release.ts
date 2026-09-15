@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const harryStyles2HarryStyles = {
   id: "01a0676a-d71f-7056-b3b5-b70286899700",
-  type: "release",
+  type: "page-type/release",
   slug: "harry-styles-2-harry-styles",
   title: "Harry Styles",
   partOfCollections: ["artist/harry-styles"],

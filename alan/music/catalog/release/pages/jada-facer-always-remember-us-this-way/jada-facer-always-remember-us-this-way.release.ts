@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerAlwaysRememberUsThisWay = {
   id: "01a0676a-d716-7036-bbd5-33b63f9fdfda",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-always-remember-us-this-way",
   title: "Always Remember Us This Way",
   partOfCollections: ["artist/jada-facer"],

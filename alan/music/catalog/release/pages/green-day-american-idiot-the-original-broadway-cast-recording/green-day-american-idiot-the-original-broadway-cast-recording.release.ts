@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayAmericanIdiotTheOriginalBroadwayCastRecording = {
   id: "01a0676a-d717-7008-9052-12bf42948e2e",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-american-idiot-the-original-broadway-cast-recording",
   title: "American Idiot - The Original Broadway Cast Recording",
   partOfCollections: ["artist/green-day"],

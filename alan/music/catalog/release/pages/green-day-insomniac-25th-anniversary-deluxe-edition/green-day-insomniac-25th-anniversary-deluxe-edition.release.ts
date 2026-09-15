@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayInsomniac25thAnniversaryDeluxeEdition = {
   id: "01a0676a-d721-7077-9f51-b9243a54b7a2",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-insomniac-25th-anniversary-deluxe-edition",
   title: "Insomniac (25th Anniversary Deluxe Edition)",
   partOfCollections: ["artist/green-day"],

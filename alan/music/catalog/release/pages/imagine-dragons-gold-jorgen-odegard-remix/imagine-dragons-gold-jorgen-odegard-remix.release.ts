@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsGoldJorgenOdegardRemix = {
   id: "01a0676a-d71f-7011-9907-866ab38701e4",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-gold-jorgen-odegard-remix",
   title: "Gold (Jorgen Odegard Remix)",
   partOfCollections: ["artist/imagine-dragons"],

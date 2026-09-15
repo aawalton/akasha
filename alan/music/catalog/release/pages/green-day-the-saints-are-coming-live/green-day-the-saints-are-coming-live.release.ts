@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayTheSaintsAreComingLive = {
   id: "01a0676a-d72e-7003-b8a3-1c71a60ad6db",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-the-saints-are-coming-live",
   title: "The Saints Are Coming (Live)",
   partOfCollections: ["artist/green-day"],

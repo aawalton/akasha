@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayNotThatWayAnymore = {
   id: "01a0676a-d725-707c-8475-3f0798b10d6d",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-not-that-way-anymore",
   title: "Not That Way Anymore",
   partOfCollections: ["artist/green-day"],

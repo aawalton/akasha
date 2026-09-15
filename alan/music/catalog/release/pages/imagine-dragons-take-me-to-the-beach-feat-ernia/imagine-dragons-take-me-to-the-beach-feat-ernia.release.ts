@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsTakeMeToTheBeachFeatErnia = {
   id: "01a0676a-d72b-7016-8b28-22d2e20d5ae2",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-take-me-to-the-beach-feat-ernia",
   title: "Take Me to the Beach (feat. Ernia)",
   partOfCollections: ["artist/imagine-dragons"],

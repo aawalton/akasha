@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayCorpusChristi = {
   id: "01a0676a-d71b-702b-adfc-4be41ac04a98",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-corpus-christi",
   title: "Corpus Christi",
   partOfCollections: ["artist/green-day"],

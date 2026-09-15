@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayWaitingBbcLiveSession = {
   id: "01a0676a-d730-700c-91ba-64afb692adaf",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-waiting-bbc-live-session",
   title: "Waiting (BBC Live Session)",
   partOfCollections: ["artist/green-day"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayGreatestHitsGodSFavoriteBand = {
   id: "01a0676a-d71f-702d-876d-907fa066fd64",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-greatest-hits-god-s-favorite-band",
   title: "Greatest Hits: God's Favorite Band",
   partOfCollections: ["artist/green-day"],

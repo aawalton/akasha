@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayNimrod = {
   id: "01a0676a-d725-705f-a223-00e1fce3c547",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-nimrod",
   title: "Nimrod",
   partOfCollections: ["artist/green-day"],

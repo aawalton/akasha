@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerBadLiarAcoustic = {
   id: "01a0676a-d718-700b-b5f2-7d45862855bc",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-bad-liar-acoustic",
   title: "Bad Liar (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

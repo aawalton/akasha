@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayWalkingContradictionBbcLiveSession = {
   id: "01a0676a-d730-7012-b725-3a83222d1d26",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-walking-contradiction-bbc-live-session",
   title: "Walking Contradiction (BBC Live Session)",
   partOfCollections: ["artist/green-day"],

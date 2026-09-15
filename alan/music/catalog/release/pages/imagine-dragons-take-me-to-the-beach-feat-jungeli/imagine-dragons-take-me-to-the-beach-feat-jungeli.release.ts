@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsTakeMeToTheBeachFeatJungeli = {
   id: "01a0676a-d72b-7017-a379-785fe37fe401",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-take-me-to-the-beach-feat-jungeli",
   title: "Take Me to the Beach (feat. Jungeli)",
   partOfCollections: ["artist/imagine-dragons"],

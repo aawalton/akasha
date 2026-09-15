@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const gracieAbramsMinor = {
   id: "01a0676a-d724-706d-80a0-6af788ddda11",
-  type: "release",
+  type: "page-type/release",
   slug: "gracie-abrams-minor",
   title: "minor",
   partOfCollections: ["artist/gracie-abrams"],

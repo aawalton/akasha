@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDay2000LightYearsAwayBbcLiveSession = {
   id: "01a0676a-d714-701f-9dec-a3ef61fee3b5",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-2000-light-years-away-bbc-live-session",
   title: "2000 Light Years Away (BBC Live Session)",
   partOfCollections: ["artist/green-day"],

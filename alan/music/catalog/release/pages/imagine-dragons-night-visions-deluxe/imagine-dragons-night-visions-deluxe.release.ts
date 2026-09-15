@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsNightVisionsDeluxe = {
   id: "01a0676a-d725-705c-9a88-637db926799b",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-night-visions-deluxe",
   title: "Night Visions (Deluxe)",
   partOfCollections: ["artist/imagine-dragons"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsBadLiarStripped = {
   id: "01a0676a-d718-700c-8e14-819deed046a0",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-bad-liar-stripped",
   title: "Bad Liar – Stripped",
   partOfCollections: ["artist/imagine-dragons"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsWhateverItTakesJorgenOdegardRemix = {
   id: "01a0676a-d730-704e-8995-168874e907c8",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-whatever-it-takes-jorgen-odegard-remix",
   title: "Whatever It Takes (Jorgen Odegard Remix)",
   partOfCollections: ["artist/imagine-dragons"],

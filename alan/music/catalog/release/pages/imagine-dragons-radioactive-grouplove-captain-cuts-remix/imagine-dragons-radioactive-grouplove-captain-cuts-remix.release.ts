@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsRadioactiveGrouploveCaptainCutsRemix = {
   id: "01a0676a-d727-7044-81be-6bd3513f7cc8",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-radioactive-grouplove-captain-cuts-remix",
   title: "Radioactive (Grouplove & Captain Cuts Remix)",
   partOfCollections: ["artist/imagine-dragons"],

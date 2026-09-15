@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayJesusOfSuburbia = {
   id: "01a0676a-d722-7024-ba54-ab0b9b13dd6a",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-jesus-of-suburbia",
   title: "Jesus of Suburbia",
   partOfCollections: ["artist/green-day"],

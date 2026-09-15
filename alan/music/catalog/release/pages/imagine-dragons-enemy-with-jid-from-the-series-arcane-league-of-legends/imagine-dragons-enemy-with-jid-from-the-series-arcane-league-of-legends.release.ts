@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsEnemyWithJidFromTheSeriesArcaneLeagueOfLegends = {
   id: "01a0676a-d71d-7016-96ac-f81a6c835bbb",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-enemy-with-jid-from-the-series-arcane-league-of-legends",
   title: "Enemy (with JID) [from the series Arcane League of Legends]",
   partOfCollections: ["artist/imagine-dragons"],

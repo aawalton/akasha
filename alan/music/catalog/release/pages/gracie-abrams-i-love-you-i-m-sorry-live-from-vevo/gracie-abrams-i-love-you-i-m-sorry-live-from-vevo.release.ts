@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const gracieAbramsILoveYouIMSorryLiveFromVevo = {
   id: "01a0676a-d721-702e-95f2-0a53e2f27f1e",
-  type: "release",
+  type: "page-type/release",
   slug: "gracie-abrams-i-love-you-i-m-sorry-live-from-vevo",
   title: "I Love You, I'm Sorry (Live From Vevo)",
   partOfCollections: ["artist/gracie-abrams"],

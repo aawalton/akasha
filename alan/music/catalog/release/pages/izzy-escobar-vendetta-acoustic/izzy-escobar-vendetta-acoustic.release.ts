@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const izzyEscobarVendettaAcoustic = {
   id: "01a0676a-d730-7001-aa59-b1c1d75124e5",
-  type: "release",
+  type: "page-type/release",
   slug: "izzy-escobar-vendetta-acoustic",
   title: "Vendetta (Acoustic)",
   partOfCollections: ["artist/izzy-escobar"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsLoveOfMineNightVisionsDemo = {
   id: "01a0676a-d723-7078-94a6-31bd13f051b9",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-love-of-mine-night-visions-demo",
   title: "Love Of Mine (Night Visions Demo)",
   partOfCollections: ["artist/imagine-dragons"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerBackToYouAcoustic = {
   id: "01a0676a-d718-7000-a1f0-c4f1828b5c7f",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-back-to-you-acoustic",
   title: "Back To You - Acoustic",
   partOfCollections: ["artist/jada-facer"],

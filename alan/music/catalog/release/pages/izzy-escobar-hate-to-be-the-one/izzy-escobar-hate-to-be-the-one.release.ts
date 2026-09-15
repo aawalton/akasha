@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const izzyEscobarHateToBeTheOne = {
   id: "01a0a5ce-2376-7fbc-bbcd-bf22f157695b",
-  type: "release",
+  type: "page-type/release",
   slug: "izzy-escobar-hate-to-be-the-one",
   ownLength: 3.4911,
   ownProgress: 0,

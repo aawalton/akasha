@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayAwesomeAsFuckDeluxe = {
   id: "01a0676a-d717-7047-85b2-309534b6dd70",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-awesome-as-fuck-deluxe",
   title: "Awesome as Fuck (Deluxe)",
   partOfCollections: ["artist/green-day"],

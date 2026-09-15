@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const izzyEscobarHotshotExtraTime = {
   id: "01a0a5ce-22be-7753-8dab-ce916a34e143",
-  type: "release",
+  type: "page-type/release",
   slug: "izzy-escobar-hotshot-extra-time",
   ownLength: 2.3403833333333335,
   ownProgress: 0,

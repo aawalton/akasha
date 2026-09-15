@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayNuclearFamily = {
   id: "01a0676a-d726-7003-9932-a336656fa492",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-nuclear-family",
   title: "Nuclear Family",
   partOfCollections: ["artist/green-day"],

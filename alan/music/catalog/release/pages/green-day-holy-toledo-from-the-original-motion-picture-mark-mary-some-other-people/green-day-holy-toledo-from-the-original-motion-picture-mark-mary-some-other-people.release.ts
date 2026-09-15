@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayHolyToledoFromTheOriginalMotionPictureMarkMarySomeOtherPeople = {
   id: "01a0676a-d720-704f-8278-094aec2f4a8c",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-holy-toledo-from-the-original-motion-picture-mark-mary-some-other-people",
   title: "Holy Toledo! (from the Original Motion Picture “Mark, Mary & Some Other People”)",
   partOfCollections: ["artist/green-day"],

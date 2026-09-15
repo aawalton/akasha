@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsBonesTwocolorsRemix = {
   id: "01a0676a-d719-7021-84dc-1456fd572628",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-bones-twocolors-remix",
   title: "Bones (twocolors Remix)",
   partOfCollections: ["artist/imagine-dragons"],

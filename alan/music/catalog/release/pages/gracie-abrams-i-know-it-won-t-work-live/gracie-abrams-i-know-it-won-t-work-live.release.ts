@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const gracieAbramsIKnowItWonTWorkLive = {
   id: "01a0676a-d721-7025-9731-f28de8dc7f6c",
-  type: "release",
+  type: "page-type/release",
   slug: "gracie-abrams-i-know-it-won-t-work-live",
   title: "I know it won't work (Live)",
   partOfCollections: ["artist/gracie-abrams"],

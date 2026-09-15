@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const greenDayLastOfTheAmericanGirls = {
   id: "01a0676a-d722-705e-9c16-093f5fd6bbaf",
-  type: "release",
+  type: "page-type/release",
   slug: "green-day-last-of-the-american-girls",
   title: "Last of the American Girls",
   partOfCollections: ["artist/green-day"],

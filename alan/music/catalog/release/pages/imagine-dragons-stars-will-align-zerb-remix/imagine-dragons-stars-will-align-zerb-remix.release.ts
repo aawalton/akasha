@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const imagineDragonsStarsWillAlignZerbRemix = {
   id: "01a0676a-d72a-7016-8ee0-72015fd66a26",
-  type: "release",
+  type: "page-type/release",
   slug: "imagine-dragons-stars-will-align-zerb-remix",
   title: "Stars Will Align (Zerb Remix)",
   partOfCollections: ["artist/imagine-dragons"],
