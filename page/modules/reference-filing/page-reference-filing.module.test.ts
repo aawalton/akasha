@@ -36,11 +36,16 @@ const FILED = new Map<string, readonly string[]>([
   [`${AT_MODULES}/b.jsonl`, [`{"path":"${PAGE_AT}","id":"${PAGE_ID}"}`]],
 ])
 
+const BODIES = new Map<string, string>([
+  [TYPE_AT, "export const held = 1\n"],
+  [PAGE_AT, "export const b = 1\n"],
+])
+
 const INDEXED: Reading = {
   holds: (at) => at === "",
   listing: (at) => LISTED.get(at) ?? [],
   lines: (at) => FILED.get(at) ?? [],
-  read: () => null,
+  read: (path) => BODIES.get(path) ?? null,
 }
 
 test("a name reaching a page files a line into the file beside the page named", () => {
@@ -111,7 +116,7 @@ test("an imported file belonging to no page files no line", () => {
   expect(importedFrom(INDEXED, 'import { x } from "./routes.ts"\n', CODE_AT, "")).toEqual([])
 })
 
-test("an imported file named for a page the index does not have files no line", () => {
+test("an imported file named for a page whose file is nowhere files no line", () => {
   const body = 'import type { One } from "./+types/b.module.code"\n'
 
   expect(importedFrom(INDEXED, body, CODE_AT, "")).toEqual([])

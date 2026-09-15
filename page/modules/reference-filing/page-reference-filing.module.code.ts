@@ -17,14 +17,9 @@ import {
   reaches,
   type Shaped,
 } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
-import {
-  everyOfType,
-  heldEach,
-  readingIn,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { heldEach, readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Rowing } from "akasha/page/modules/entries/page-entries.module.code.ts"
-import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   fileNameOf,
   IMPORT,
@@ -48,15 +43,7 @@ function keyOf(one: Entry): string {
   return `${one.at} ${one.line}`
 }
 
-const filedOfType = heldEach(
-  (reading: Reading, pageTypeSlug: string): ReadonlySet<string> =>
-    new Set(everyOfType(reading, pageTypeSlug).map((one) => one.path))
-)
-
-function pageFiled(reading: Reading, path: string): boolean {
-  const said = partedIn(path)
-  return said !== null && filedOfType(reading, said.pageType).has(path)
-}
+const pageThere = heldEach((reading: Reading, path: string): boolean => reading.read(path) !== null)
 
 export function namedFrom(
   value: Value,
@@ -113,7 +100,7 @@ export function importedFrom(
   const already = new Set<string>()
   for (const landed of importsIn(body, from, naming)) {
     const owner = claimantIn(reading, landed)
-    if (owner === null || !pageFiled(reading, owner)) continue
+    if (owner === null || !pageThere(reading, owner)) continue
     const at = referencesAt(owner)
     if (at === null) continue
     const entry = {

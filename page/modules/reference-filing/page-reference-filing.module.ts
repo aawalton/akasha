@@ -27,7 +27,7 @@ export const pageReferenceFiling = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A line is filed only beside a page the index has.",
+      statement: "A line is filed only beside a page whose own file the reading answers for.",
     },
     {
       invariantKind: "invariant-kind/departure",
