@@ -213,7 +213,7 @@ function ignoringRepo(): string {
   return repoWith({ ".gitignore": "*.uncommitted.*\n", "one.txt": "committed" })
 }
 
-function objectsShut(root: string, body: string): undefined {
+export function objectsShut(root: string, body: string): undefined {
   git(root, ["repack", "-a", "-d", "--quiet"])
   const oid = git(root, ["hash-object", "--stdin"], { stdin: bytesOf(body) }).trim()
   writeFileSync(join(root, OBJECTS, oid.slice(0, FANOUT)), "")

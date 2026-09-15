@@ -26,6 +26,7 @@ import {
   landedMoving,
   landedNoting,
   NUL,
+  objectsShut,
   pageLanded,
   pagesRepo,
   pathsSeen,
@@ -47,7 +48,6 @@ import {
 import { readingEnded } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import {
   everythingFiled,
-  fileWhereTheIndexIs,
   identitiesListedIn,
   idFiledIn,
   listedFiledIn,
@@ -248,7 +248,7 @@ test("a change read against a name that names no commit is refused unwritten", a
 
 test("what was written is put back when the landing throws after writing", async () => {
   const root = pagesRepo()
-  fileWhereTheIndexIs(root, "no directory stands here")
+  objectsShut(root, "written over")
   await expect(putBackThrows(root)).rejects.toThrow()
   expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe(A)
   expect(existsSync(join(root, "akasha/b.domain.ts"))).toBe(false)
