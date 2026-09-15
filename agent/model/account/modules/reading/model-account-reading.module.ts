@@ -36,6 +36,15 @@ export const modelAccountReading = {
       invariantKind: "invariant-kind/departure",
       statement: "A fleet answer narrowed to one provider leaves out every account held elsewhere.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "An account whose credential is one key is read as that key rather than as a pair.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A key asked for where the sops file holds none is answered as none.",
+    },
 
     {
       invariantKind: "invariant-kind/departure",

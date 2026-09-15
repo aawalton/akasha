@@ -29,6 +29,8 @@ const RESCUED_EXPIRES_KEBAB = "expires-at-ms"
 
 const PROVIDER = "provider"
 
+const API_KEY = "apiKey"
+
 export const ANTHROPIC = "model-provider/anthropic"
 
 const ACCOUNT_UUID = "accountUuid"
@@ -282,6 +284,19 @@ export function credentialIn(root: string, slug: string, secretsRead: SecretsRea
   const page = accountPathIn(root, slug)
   if (page === null) return { kind: "absent", why: `no page is filed for \`${slug}\`` }
   return credentialAt(root, slug, page, secretsRead)
+}
+
+export function apiKeyIn(root: string, slug: string, secretsRead: SecretsRead): string | null {
+  const page = accountPathIn(root, slug)
+  if (page === null) return null
+  let secrets: ReadonlyMap<string, string> | null
+  try {
+    secrets = secretsRead(root, page)
+  } catch {
+    return null
+  }
+  const said = secrets?.get(API_KEY)
+  return said === undefined || said === "" ? null : said
 }
 
 export function everyAccountIn(given: string | Reading): readonly ListedAccount[] {

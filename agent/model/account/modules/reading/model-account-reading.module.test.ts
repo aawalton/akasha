@@ -9,6 +9,7 @@ import {
   accountUuidsIn,
   accountValuesIn,
   aliasIndexesIn,
+  apiKeyIn,
   credentialFrom,
   credentialIn,
   everyAccountSlugIn,
@@ -314,6 +315,20 @@ test("a fleet answer narrowed to one provider leaves out every account held else
     "aow",
     "ctw",
   ])
+})
+
+test("an account whose credential is one key is read as that key", () => {
+  const root = worldMade()
+  const keyed: SecretsRead = () => new Map([["apiKey", "fake-api-key-for-a-test"]])
+  expect(apiKeyIn(root, "aine", keyed)).toBe("fake-api-key-for-a-test")
+  expect(apiKeyIn(root, "aine", secretsFake)).toBe(null)
+  expect(apiKeyIn(root, "aine", noSecrets)).toBe(null)
+  expect(apiKeyIn(root, "nobody", keyed)).toBe(null)
+  expect(
+    apiKeyIn(root, "aine", () => {
+      throw new Error("no age key reached the machine")
+    })
+  ).toBe(null)
 })
 
 test("a root filing no model-account index is refused rather than read as an empty fleet", () => {
