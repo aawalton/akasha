@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const serviceWatching = {
   id: "01a0821e-fce6-7373-89a1-600a7260bb4f",
-  type: "module",
+  type: "page-type/module",
   slug: "service-watching",
   definition: "the run telling each persona which of the services she answers for is broken",
   code: "ts",

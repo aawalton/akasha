@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const s3Signing = {
   id: "01a05cbb-139f-7e3b-82b4-28ff6d535d46",
-  type: "module",
+  type: "page-type/module",
   slug: "s3-signing",
   definition: "the authorization headers an S3 request is signed with",
   code: "ts",

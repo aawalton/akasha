@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const propertyTypeOps = {
   id: "01a05b92-a9c7-779a-ad93-a77d023426e7",
-  type: "module",
+  type: "page-type/module",
   slug: "property-type-ops",
   definition: "the operations a property type must implement",
   code: "ts",

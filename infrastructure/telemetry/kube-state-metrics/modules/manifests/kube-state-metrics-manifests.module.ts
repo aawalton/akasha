@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const kubeStateMetricsManifests = {
   id: "01a073ae-d7ce-7b11-9dd4-8fca7346fe51",
-  type: "module",
+  type: "page-type/module",
   slug: "kube-state-metrics-manifests",
   definition: "the exporter that publishes the cluster's objects as metrics",
   code: "ts",

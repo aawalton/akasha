@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const serviceBeating = {
   id: "01a08cb0-defb-7ab1-9512-d43812f8fe80",
-  type: "module",
+  type: "page-type/module",
   slug: "service-beating",
   definition: "the moment a service leaves published to say a round of its work landed",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fileWriteMany = {
   id: "01a09b4d-f89b-72e9-89d7-6913bc242d45",
-  type: "module",
+  type: "page-type/module",
   slug: "file-write-many",
   definition: "many file-backed pages upserted together",
   code: "ts",

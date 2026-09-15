@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fileRead = {
   id: "01a05bd6-c530-7caa-8cc1-55059f494d6f",
-  type: "module",
+  type: "page-type/module",
   slug: "file-read",
   definition: "file-backed pages read from the tree",
   code: "ts",

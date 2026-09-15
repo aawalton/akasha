@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const serviceRunning = {
   id: "01a09573-1d3f-7d99-82f9-932723a87bdd",
-  type: "module",
+  type: "page-type/module",
   slug: "service-running",
   definition: "a workstation service reached by its slug and run from the code beside its page",
   code: "ts",

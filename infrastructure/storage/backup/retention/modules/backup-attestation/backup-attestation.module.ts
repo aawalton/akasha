@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const backupAttestation = {
   id: "01a06863-74e5-7f8f-a6d4-4ab66523eedc",
-  type: "module",
+  type: "page-type/module",
   slug: "backup-attestation",
   definition: "the hashes a copied backup is attested by, and the probe proving the hasher works",
   code: "ts",

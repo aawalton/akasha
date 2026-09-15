@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const serviceWellness = {
   id: "01a08c77-e4ed-7a27-8a82-acaacd3068bd",
-  type: "module",
+  type: "page-type/module",
   slug: "service-wellness",
   definition: "what a look at the health of every service leaves published",
   code: "ts",

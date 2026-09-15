@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deploySubjectListing = {
   id: "01a0957b-c2a5-712f-9271-e5ff26a1e3cd",
-  type: "module",
+  type: "page-type/module",
   slug: "deploy-subject-listing",
   definition:
     "every thing of one kind a deploy could be run for, and what each states about being run",

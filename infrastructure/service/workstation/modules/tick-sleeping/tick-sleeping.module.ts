@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const tickSleeping = {
   id: "01a0686a-7a57-7c23-b825-02e6e8625bad",
-  type: "module",
+  type: "page-type/module",
   slug: "tick-sleeping",
   definition: "the wait between one tick of a service that keeps running and the next",
   code: "ts",

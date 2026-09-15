@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deployLooping = {
   id: "01a09586-62c0-7ed5-a9a3-5dbfbfbbabbe",
-  type: "module",
+  type: "page-type/module",
   slug: "deploy-looping",
   definition: "one tick of the loop putting up the service of one kind that is furthest behind",
   code: "ts",

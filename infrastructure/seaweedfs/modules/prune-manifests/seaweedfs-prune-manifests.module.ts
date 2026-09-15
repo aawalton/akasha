@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seaweedfsPruneManifests = {
   id: "01a06816-68b1-78d7-9f5d-eb0a3b7dc03a",
-  type: "module",
+  type: "page-type/module",
   slug: "seaweedfs-prune-manifests",
   definition: "the manifests removing stored agent sessions past their age",
   code: "ts",

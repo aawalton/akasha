@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const propertyPath = {
   id: "01a09c21-fff4-7f57-818b-b875ff41c6ce",
-  type: "module",
+  type: "page-type/module",
   slug: "property-path",
   definition: "the values a dotted key reaches, a list along the way entered one at a time",
   code: "ts",

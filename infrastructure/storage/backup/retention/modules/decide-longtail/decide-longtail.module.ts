@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const decideLongtail = {
   id: "01a06863-74e4-72ed-9169-700d492e6ad5",
-  type: "module",
+  type: "page-type/module",
   slug: "decide-longtail",
   definition: "what the slower store is to have and what it is to let go of",
   code: "ts",

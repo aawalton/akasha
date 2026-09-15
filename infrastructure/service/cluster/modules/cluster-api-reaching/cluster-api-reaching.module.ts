@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const clusterApiReaching = {
   id: "01a06583-0030-7000-94b8-9fa8780482f5",
-  type: "module",
+  type: "page-type/module",
   slug: "cluster-api-reaching",
   definition: "a service behind the Kubernetes API proxy, reached with a service account token",
   code: "ts",

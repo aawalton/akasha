@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inferenceReading = {
   id: "01a090a6-f40b-7abe-a439-ebc9274ece2a",
-  type: "module",
+  type: "page-type/module",
   slug: "inference-reading",
   definition: "the inference service a page states, read from the index and the page",
   code: "ts",

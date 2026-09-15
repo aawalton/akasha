@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const captureError = {
   id: "01a05bd6-c529-7e1b-b455-c42e0f069da5",
-  type: "module",
+  type: "page-type/module",
   slug: "capture-error",
   definition: "an error a client met, filed as a page",
   code: "ts",

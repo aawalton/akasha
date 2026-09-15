@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const serviceLoading = {
   id: "01a09fef-e3b8-7987-8115-0f845edec368",
-  type: "module",
+  type: "page-type/module",
   slug: "service-loading",
   definition: "the file a unit starts, which takes every akasha module from the pages service",
   code: "ts",

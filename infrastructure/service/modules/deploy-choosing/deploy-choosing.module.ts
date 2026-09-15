@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deployChoosing = {
   id: "01a09574-737c-78fd-b3ed-fc94c505577b",
-  type: "module",
+  type: "page-type/module",
   slug: "deploy-choosing",
   definition: "which service a deploy loop puts up next, out of the services wanting a deploy",
   code: "ts",

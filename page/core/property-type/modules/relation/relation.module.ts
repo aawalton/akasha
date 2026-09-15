@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const relation = {
   id: "01a05b92-a9c7-7221-b4c6-4f496623711d",
-  type: "module",
+  type: "page-type/module",
   slug: "relation",
   definition: "the operations a relation property supports",
   code: "ts",

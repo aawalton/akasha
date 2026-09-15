@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const rclone = {
   id: "01a06863-74ea-71ef-b9e2-e47a850c7d47",
-  type: "module",
+  type: "page-type/module",
   slug: "rclone",
   definition: "the rclone commands a store is listed, read, copied and hashed through",
   code: "ts",

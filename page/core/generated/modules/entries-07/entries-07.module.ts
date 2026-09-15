@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const entries07 = {
   id: "01a05b9d-8c48-77b1-bbaf-827dea93e83f",
-  type: "module",
+  type: "page-type/module",
   slug: "entries-07",
   definition: "part 07 of the icons the search index has",
   code: "ts",

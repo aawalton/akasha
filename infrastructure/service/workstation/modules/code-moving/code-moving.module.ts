@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const codeMoving = {
   id: "01a09467-62d1-7e1e-b24d-b6186ad6cf98",
-  type: "module",
+  type: "page-type/module",
   slug: "code-moving",
   definition: "whether the tree a run's code came out of has moved since that run started",
   code: "ts",

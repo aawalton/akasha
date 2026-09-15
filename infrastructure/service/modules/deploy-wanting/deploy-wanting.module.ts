@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deployWanting = {
   id: "01a09583-2ca7-7a92-9597-d7a2e1b8780b",
-  type: "module",
+  type: "page-type/module",
   slug: "deploy-wanting",
   definition: "whether a commit changed what a service is built from since that service was put up",
   code: "ts",

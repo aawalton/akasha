@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageSecretActing = {
   id: "01a06812-3ce8-7ffb-9691-94df69748ba6",
-  type: "module",
+  type: "page-type/module",
   slug: "page-secret-acting",
   definition: "what every act over a page's secrets settles before it acts",
   code: "ts",

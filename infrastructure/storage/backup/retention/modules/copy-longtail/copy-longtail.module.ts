@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const copyLongtail = {
   id: "01a06863-b0ae-7ca1-800b-d4bd20dd7345",
-  type: "module",
+  type: "page-type/module",
   slug: "copy-longtail",
   definition: "one run bringing the slower store to the units the monthly windows say",
   code: "ts",

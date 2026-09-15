@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fileBackedRoster = {
   id: "01a08e9b-1ab8-71a3-8385-f3a640bf34df",
-  type: "module",
+  type: "page-type/module",
   slug: "file-backed-roster",
   definition: "the page types whose pages are held as files",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const devServerEnvWriting = {
   id: "01a06583-0030-7006-a432-522c63fe9935",
-  type: "module",
+  type: "page-type/module",
   slug: "dev-server-env-writing",
   definition: "the `.env.local` an app reads, made from the secret pages placing the app's values",
   code: "ts",

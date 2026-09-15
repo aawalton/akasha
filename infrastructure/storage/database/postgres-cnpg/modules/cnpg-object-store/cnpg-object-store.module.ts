@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const cnpgObjectStore = {
   id: "01a073ae-3c72-7fb3-bb72-0aa14b804175",
-  type: "module",
+  type: "page-type/module",
   slug: "cnpg-object-store",
   definition: "the bucket the database's backups are written to",
   code: "ts",

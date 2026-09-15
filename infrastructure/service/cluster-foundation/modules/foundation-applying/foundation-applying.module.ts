@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const foundationApplying = {
   id: "01a0a5fe-f019-72ee-a92a-9aa03e2494df",
-  type: "module",
+  type: "page-type/module",
   slug: "foundation-applying",
   definition: "the manifests a cluster foundation's page names, put into the cluster",
   code: "ts",

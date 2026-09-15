@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const promoteKeeps = {
   id: "01a06863-74eb-7fce-8275-9b6074382cb4",
-  type: "module",
+  type: "page-type/module",
   slug: "promote-keeps",
   definition: "one run bringing the backup store's keep markings to what the windows say",
   code: "ts",

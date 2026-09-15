@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pathSelect = {
   id: "01a05b92-a9c7-754f-841a-7b3154e215d2",
-  type: "module",
+  type: "page-type/module",
   slug: "path-select",
   definition: "a property value treated as a path of ordered segments",
   code: "ts",

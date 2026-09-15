@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const tickDeadline = {
   id: "01a06885-0bab-7000-97bd-58c9925eb768",
-  type: "module",
+  type: "page-type/module",
   slug: "tick-deadline",
   definition: "the ceiling a single tick of a long-running service runs under",
   code: "ts",

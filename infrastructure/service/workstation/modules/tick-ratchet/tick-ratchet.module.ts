@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const tickRatchet = {
   id: "01a06885-0bab-7001-9235-a701e25dd098",
-  type: "module",
+  type: "page-type/module",
   slug: "tick-ratchet",
   definition: "the run of throws a service that keeps running is allowed before it has to end",
   code: "ts",

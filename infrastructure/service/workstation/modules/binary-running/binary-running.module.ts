@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const binaryRunning = {
   id: "01a091ac-021e-7000-9f2e-0d8a8f5ea712",
-  type: "module",
+  type: "page-type/module",
   slug: "binary-running",
   definition: "a foreign binary run as the whole of a service",
   code: "ts",

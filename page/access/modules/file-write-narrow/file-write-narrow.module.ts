@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fileWriteNarrow = {
   id: "01a07691-e739-761d-a0ad-befe1dac9d94",
-  type: "module",
+  type: "page-type/module",
   slug: "file-write-narrow",
   definition: "a write's `where` lowered into the tests the service runs, or refused",
   code: "ts",
