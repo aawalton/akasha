@@ -2,7 +2,7 @@ import type { AstUnusedConfig } from "akasha/code/audit-ast-unused/ast-unused-co
 
 export const everyWorkspace = {
   id: "01a08198-ecd4-76f3-b8f9-80999a4e0554",
-  type: "ast-unused-config",
+  type: "page-type/ast-unused-config",
   slug: "every-workspace",
   definition: "the root of the ast-unused curation",
   curation: "json",
