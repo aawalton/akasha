@@ -2,7 +2,7 @@ import type { TemperCharacterSkillActivation } from "akasha/temper/character/ski
 
 export const solarPrison = {
   id: "019e646c-c4df-7b45-9afc-9ba7522a425d",
-  type: "temper-character-skill-activation",
+  type: "page-type/temper-character-skill-activation",
   slug: "solar-prison",
   title: "Solar Prison",
   descriptionTemplate:

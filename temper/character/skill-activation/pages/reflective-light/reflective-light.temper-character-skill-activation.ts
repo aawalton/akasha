@@ -2,7 +2,7 @@ import type { TemperCharacterSkillActivation } from "akasha/temper/character/ski
 
 export const reflectiveLight = {
   id: "019e646c-c4dd-719a-a195-98c26384f1a9",
-  type: "temper-character-skill-activation",
+  type: "page-type/temper-character-skill-activation",
   slug: "reflective-light",
   title: "Reflective Light",
   descriptionTemplate:

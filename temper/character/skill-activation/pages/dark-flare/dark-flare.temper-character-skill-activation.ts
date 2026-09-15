@@ -2,7 +2,7 @@ import type { TemperCharacterSkillActivation } from "akasha/temper/character/ski
 
 export const darkFlare = {
   id: "019e646c-c4e9-7d87-8cb4-29b1cb1711e0",
-  type: "temper-character-skill-activation",
+  type: "page-type/temper-character-skill-activation",
   slug: "dark-flare",
   title: "Dark Flare",
   descriptionTemplate:

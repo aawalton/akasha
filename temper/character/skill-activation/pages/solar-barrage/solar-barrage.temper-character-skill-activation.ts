@@ -2,7 +2,7 @@ import type { TemperCharacterSkillActivation } from "akasha/temper/character/ski
 
 export const solarBarrage = {
   id: "019e646c-c4eb-7243-aa0a-27d3366fa972",
-  type: "temper-character-skill-activation",
+  type: "page-type/temper-character-skill-activation",
   slug: "solar-barrage",
   title: "Solar Barrage",
   descriptionTemplate:
