@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const rockyMountainChocolateFactorySpanishFork = {
   id: "019f322c-9b53-7df7-8c6d-49c30b99e6c5",
-  type: "location",
+  type: "page-type/location",
   slug: "rocky-mountain-chocolate-factory-spanish-fork",
   title: "Rocky Mountain Chocolate Factory (Spanish Fork)",
   address: "Spanish Fork, UT",

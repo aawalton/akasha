@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const saffronCircleRiverton = {
   id: "019f1b49-516d-7322-a25c-2f8920b4d5ea",
-  type: "location",
+  type: "page-type/location",
   slug: "saffron-circle-riverton",
   title: "Saffron Circle - Riverton",
   latitude: 34.199581,

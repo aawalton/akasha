@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const professionails = {
   id: "019f1b49-5496-7ac0-986a-5c0171cab3b2",
-  type: "location",
+  type: "page-type/location",
   slug: "professionails",
   title: "ProfessioNails",
   latitude: 36.0183551,

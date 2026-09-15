@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pikePlaceMarket = {
   id: "019f1aec-0ca7-7c18-9fc1-ce44849702c2",
-  type: "location",
+  type: "page-type/location",
   slug: "pike-place-market",
   title: "Pike Place Market",
   latitude: 47.6093968,

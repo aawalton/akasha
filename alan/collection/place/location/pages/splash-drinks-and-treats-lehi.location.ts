@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const splashDrinksAndTreatsLehi = {
   id: "019f322c-9b8d-74fc-9e92-0ccdeb421b0c",
-  type: "location",
+  type: "page-type/location",
   slug: "splash-drinks-and-treats-lehi",
   title: "Splash Drinks and Treats (Lehi)",
   address: "Lehi, UT",

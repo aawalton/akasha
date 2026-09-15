@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const queenMaryTeaRoom = {
   id: "019f1aec-0c9f-7b53-a808-cdbad4a33894",
-  type: "location",
+  type: "page-type/location",
   slug: "queen-mary-tea-room",
   title: "Queen Mary Tea Room",
   latitude: 47.6686231,

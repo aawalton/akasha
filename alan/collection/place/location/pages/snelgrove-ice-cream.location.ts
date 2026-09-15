@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const snelgroveIceCream = {
   id: "019f1b49-55f7-7508-b4fe-91c87ef830b4",
-  type: "location",
+  type: "page-type/location",
   slug: "snelgrove-ice-cream",
   title: "Snelgrove Ice Cream",
   latitude: 40.5373967,

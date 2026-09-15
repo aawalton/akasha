@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pizzaPieCafeOrem = {
   id: "019f322c-9b14-735c-a660-409365159d23",
-  type: "location",
+  type: "page-type/location",
   slug: "pizza-pie-cafe-orem",
   title: "Pizza Pie Café (Orem)",
   address: "Orem, UT",

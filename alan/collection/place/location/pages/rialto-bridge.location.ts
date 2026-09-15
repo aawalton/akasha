@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const rialtoBridge = {
   id: "019f1aec-0e20-705f-88be-ed15c029cb49",
-  type: "location",
+  type: "page-type/location",
   slug: "rialto-bridge",
   title: "Rialto Bridge",
   latitude: 45.4380688,

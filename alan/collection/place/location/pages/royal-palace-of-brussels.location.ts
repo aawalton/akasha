@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const royalPalaceOfBrussels = {
   id: "019f1b49-56fd-7e9d-97ee-c1424bafd90c",
-  type: "location",
+  type: "page-type/location",
   slug: "royal-palace-of-brussels",
   title: "Royal Palace of Brussels",
   latitude: 42.505463,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const silverFallsLoopTrail = {
   id: "019f1aec-0c82-727d-947c-0951e59c9bab",
-  type: "location",
+  type: "page-type/location",
   slug: "silver-falls-loop-trail",
   title: "Silver Falls Loop Trail",
   latitude: 46.7460174,

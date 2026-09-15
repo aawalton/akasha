@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pathways = {
   id: "019f1aec-0f54-7843-b3eb-5d193433e6f9",
-  type: "location",
+  type: "page-type/location",
   slug: "pathways",
   title: "Pathways",
   address: "4304 Hillsboro Pike, Nashville, TN 37215, USA",

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const sazonEmsBrunchCafe = {
   id: "019f1b49-5119-7807-878a-da4db1c92729",
-  type: "location",
+  type: "page-type/location",
   slug: "sazon-ems-brunch-cafe",
   title: "SAZON / EM’s Brunch & Café",
   latitude: 47.084957,

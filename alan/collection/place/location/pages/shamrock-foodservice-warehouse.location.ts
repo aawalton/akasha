@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const shamrockFoodserviceWarehouse = {
   id: "019f1aec-0cd3-787a-bf2c-e838886192a1",
-  type: "location",
+  type: "page-type/location",
   slug: "shamrock-foodservice-warehouse",
   title: "Shamrock Foodservice Warehouse",
   latitude: 40.5431182,

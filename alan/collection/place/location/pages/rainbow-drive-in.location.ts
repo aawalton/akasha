@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const rainbowDriveIn = {
   id: "019f1b49-52ce-7972-987d-423be6b0737b",
-  type: "location",
+  type: "page-type/location",
   slug: "rainbow-drive-in",
   title: "Rainbow Drive-In",
   latitude: 21.317352,

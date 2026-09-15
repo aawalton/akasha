@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const stAngeloBridge = {
   id: "019f1b49-53fa-7bea-bb4b-51f4015b5ae2",
-  type: "location",
+  type: "page-type/location",
   slug: "st-angelo-bridge",
   title: "St. Angelo Bridge",
   latitude: 41.901229,

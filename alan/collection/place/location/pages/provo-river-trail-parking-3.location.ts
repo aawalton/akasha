@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const provoRiverTrailParking3 = {
   id: "019f1b49-52de-72de-8ff0-3fdf06e6aaa4",
-  type: "location",
+  type: "page-type/location",
   slug: "provo-river-trail-parking-3",
   title: "Provo River Trail Parking #3",
   latitude: 39.927076,

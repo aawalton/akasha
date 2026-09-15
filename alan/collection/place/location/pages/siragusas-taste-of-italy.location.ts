@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const siragusasTasteOfItaly = {
   id: "019f1b49-54e2-7754-92b3-ce043e8f7411",
-  type: "location",
+  type: "page-type/location",
   slug: "siragusas-taste-of-italy",
   title: "Siragusa's Taste of Italy",
   latitude: 43.0327715,

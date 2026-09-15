@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const sktPedersBageri = {
   id: "019f1b49-5372-7b4a-922b-e217ae8d46d6",
-  type: "location",
+  type: "page-type/location",
   slug: "skt-peders-bageri",
   title: "Skt. Peders Bageri",
   latitude: 55.2300161,

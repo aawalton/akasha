@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const shriKailasaTempleEllora = {
   id: "019f1b49-5198-78bb-a919-73abe6273d48",
-  type: "location",
+  type: "page-type/location",
   slug: "shri-kailasa-temple-ellora",
   title: "Shri Kailasa Temple, Ellora",
   latitude: 11.2008197,

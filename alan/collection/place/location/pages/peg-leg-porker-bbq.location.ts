@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pegLegPorkerBbq = {
   id: "019f1b49-5466-74e2-b156-9859f7330afb",
-  type: "location",
+  type: "page-type/location",
   slug: "peg-leg-porker-bbq",
   title: "Peg Leg Porker BBQ",
   latitude: 36.151596,

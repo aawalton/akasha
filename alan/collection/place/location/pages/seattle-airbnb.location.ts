@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const seattleAirbnb = {
   id: "019f1aec-0f48-7b7a-b99f-bb69a049859d",
-  type: "location",
+  type: "page-type/location",
   slug: "seattle-airbnb",
   title: "Seattle airbnb",
   address: "7500 11th Ave NW, Seattle, WA 98117, USA",

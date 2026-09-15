@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const splashSummitWaterparkUtahCounty = {
   id: "019f322c-9b91-7c1c-923b-6ef59b42f248",
-  type: "location",
+  type: "page-type/location",
   slug: "splash-summit-waterpark-utah-county",
   title: "Splash Summit Waterpark (Utah County)",
   address: "Utah County, UT",

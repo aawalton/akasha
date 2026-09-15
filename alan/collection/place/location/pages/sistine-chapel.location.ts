@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const sistineChapel = {
   id: "019f1b49-53e7-7c71-820f-99344c5cfce1",
-  type: "location",
+  type: "page-type/location",
   slug: "sistine-chapel",
   title: "Sistine Chapel",
   latitude: 41.901229,

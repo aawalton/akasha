@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const scootsPlayaDelCarmen = {
   id: "019f1aec-0f44-7a1e-bddd-90f916d26f3e",
-  type: "location",
+  type: "page-type/location",
   slug: "scoots-playa-del-carmen",
   title: "Scoots Playa Del Carmen",
   address: "FERRY TO PLAYA DEL CARMEN, Calle 2 Nte 100, Centro, 77600 Cozumel, Q.R., Mexico",

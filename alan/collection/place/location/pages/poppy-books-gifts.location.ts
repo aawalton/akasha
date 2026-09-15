@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const poppyBooksGifts = {
   id: "019f1b49-5169-77c9-9f56-ac6e91dbc697",
-  type: "location",
+  type: "page-type/location",
   slug: "poppy-books-gifts",
   title: "Poppy Books & Gifts",
   latitude: 53.4019881,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const rollUpCrepesOrem = {
   id: "019f322c-9b59-7e9a-a86c-3d6f5f3ca944",
-  type: "location",
+  type: "page-type/location",
   slug: "roll-up-crepes-orem",
   title: "Roll Up Crepes (Orem)",
   address: "Orem, UT",

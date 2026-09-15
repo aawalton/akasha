@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const relaisDeLentrecoteSaintGermain = {
   id: "019f1b49-5439-7036-af43-d1b91bf5b081",
-  type: "location",
+  type: "page-type/location",
   slug: "relais-de-lentrecote-saint-germain",
   title: "Relais de l'Entrecôte Saint-Germain",
   latitude: 48.842534,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const rhynosAxeArcheryUtahCounty = {
   id: "019f322c-9b4a-771e-aba3-3ecec39861cd",
-  type: "location",
+  type: "page-type/location",
   slug: "rhynos-axe-archery-utah-county",
   title: "Rhyno's Axe & Archery (Utah County)",
   address: "Utah County, UT",

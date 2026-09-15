@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const richardWalkersPancakeHouse = {
   id: "019f1aec-0e59-784e-bb8b-b350464afdb1",
-  type: "location",
+  type: "page-type/location",
   slug: "richard-walkers-pancake-house",
   title: "Richard Walker's Pancake House",
   latitude: 32.8463997,

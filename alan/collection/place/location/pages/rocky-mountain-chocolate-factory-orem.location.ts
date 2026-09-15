@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const rockyMountainChocolateFactoryOrem = {
   id: "019f322c-9b50-7dd9-adb6-c39e7dbfbda6",
-  type: "location",
+  type: "page-type/location",
   slug: "rocky-mountain-chocolate-factory-orem",
   title: "Rocky Mountain Chocolate Factory (Orem)",
   address: "Orem, UT",

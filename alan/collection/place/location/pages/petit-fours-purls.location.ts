@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const petitFoursPurls = {
   id: "019f1aec-0ccd-7764-bd35-0f223535cba7",
-  type: "location",
+  type: "page-type/location",
   slug: "petit-fours-purls",
   title: "Petit Fours & Purls",
   latitude: 40.3880838,

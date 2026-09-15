@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const revivePtCryoUtahCounty = {
   id: "019f322c-9b47-7612-87f0-cb46042bb959",
-  type: "location",
+  type: "page-type/location",
   slug: "revive-pt-cryo-utah-county",
   title: "Revive PT Cryo (Utah County)",
   address: "Utah County, UT",

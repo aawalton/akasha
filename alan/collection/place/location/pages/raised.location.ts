@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const raised = {
   id: "019f1aec-0fcc-7fbd-a02f-d3d4f361ebec",
-  type: "location",
+  type: "page-type/location",
   slug: "raised",
   title: "Raised",
   address: "541 S 500 E St, American Fork, UT 84003, United States",

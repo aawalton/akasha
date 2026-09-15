@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pizzaHutUtahCounty = {
   id: "019f322c-9b09-7ea2-91c7-c3982af4ee86",
-  type: "location",
+  type: "page-type/location",
   slug: "pizza-hut-utah-county",
   title: "Pizza Hut (Utah County)",
   address: "Utah County, UT",

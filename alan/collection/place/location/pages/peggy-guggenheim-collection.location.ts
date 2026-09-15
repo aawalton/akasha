@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const peggyGuggenheimCollection = {
   id: "019f1aec-0e1a-76c0-9467-6385ac46db8a",
-  type: "location",
+  type: "page-type/location",
   slug: "peggy-guggenheim-collection",
   title: "Peggy Guggenheim Collection",
   latitude: 41.8534714,

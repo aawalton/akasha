@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const roxberryJuiceCoSpanishFork = {
   id: "019f322c-9b69-7509-ad53-b46177747454",
-  type: "location",
+  type: "page-type/location",
   slug: "roxberry-juice-co-spanish-fork",
   title: "Roxberry Juice Co. (Spanish Fork)",
   address: "Spanish Fork, UT",

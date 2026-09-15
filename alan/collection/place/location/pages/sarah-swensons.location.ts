@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const sarahSwensons = {
   id: "019f1aec-0f57-7d95-babb-56ec6df7b5a2",
-  type: "location",
+  type: "page-type/location",
   slug: "sarah-swensons",
   title: "Sarah Swenson’s",
   address: "471 W Rolling Sage Way, Saratoga Springs, UT 84045, USA",

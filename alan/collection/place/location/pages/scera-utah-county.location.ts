@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const sceraUtahCounty = {
   id: "019f322c-9b75-79b6-ad17-4d96a4a1f6fe",
-  type: "location",
+  type: "page-type/location",
   slug: "scera-utah-county",
   title: "SCERA (Utah County)",
   address: "Utah County, UT",

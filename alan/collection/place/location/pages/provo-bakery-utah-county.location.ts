@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const provoBakeryUtahCounty = {
   id: "019f322c-9b1e-7d18-8ffa-be5b8f719b54",
-  type: "location",
+  type: "page-type/location",
   slug: "provo-bakery-utah-county",
   title: "Provo Bakery (Utah County)",
   address: "Utah County, UT",

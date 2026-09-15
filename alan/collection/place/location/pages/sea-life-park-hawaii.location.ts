@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const seaLifeParkHawaii = {
   id: "019f1b49-52c2-7c03-844c-511411973bfb",
-  type: "location",
+  type: "page-type/location",
   slug: "sea-life-park-hawaii",
   title: "Sea Life Park Hawaii",
   latitude: 34.825195,

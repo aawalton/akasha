@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const rollUpCrepesSpanishFork = {
   id: "019f322c-9b5c-7dbb-b9ff-866dd122fae3",
-  type: "location",
+  type: "page-type/location",
   slug: "roll-up-crepes-spanish-fork",
   title: "Roll Up Crepes (Spanish Fork)",
   address: "Spanish Fork, UT",

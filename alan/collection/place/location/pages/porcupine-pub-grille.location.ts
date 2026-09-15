@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const porcupinePubGrille = {
   id: "019f1b49-54e3-7e24-b9c7-27c0919b412f",
-  type: "location",
+  type: "page-type/location",
   slug: "porcupine-pub-grille",
   title: "Porcupine Pub & Grille",
   latitude: 19.751978,

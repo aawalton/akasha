@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pompanoBeachFisherFamilyPier = {
   id: "019f1b49-5763-7599-b24c-078163567dc6",
-  type: "location",
+  type: "page-type/location",
   slug: "pompano-beach-fisher-family-pier",
   title: "Pompano Beach Fisher Family Pier",
   latitude: 43.077246,

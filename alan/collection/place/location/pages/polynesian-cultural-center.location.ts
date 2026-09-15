@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const polynesianCulturalCenter = {
   id: "019f1b49-52dc-7aee-9957-cd197fd5b267",
-  type: "location",
+  type: "page-type/location",
   slug: "polynesian-cultural-center",
   title: "Polynesian Cultural Center",
   latitude: 21.639168,

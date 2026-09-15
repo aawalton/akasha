@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const saintVincentsBeach = {
   id: "019f1aec-0cf6-7a73-ad24-e1f42ccb52fc",
-  type: "location",
+  type: "page-type/location",
   slug: "saint-vincents-beach",
   title: "Saint Vincent’s Beach",
   latitude: 13.0028989,

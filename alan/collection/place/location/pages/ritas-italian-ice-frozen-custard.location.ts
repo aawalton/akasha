@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const ritasItalianIceFrozenCustard = {
   id: "019f1b49-54d2-726e-8ab6-fab84e709714",
-  type: "location",
+  type: "page-type/location",
   slug: "ritas-italian-ice-frozen-custard",
   title: "Rita's Italian Ice & Frozen Custard",
   latitude: 26.3011313,

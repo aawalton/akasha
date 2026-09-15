@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const spanishSteps = {
   id: "019f1aec-0dac-78a4-b7e7-70a4a89cb474",
-  type: "location",
+  type: "page-type/location",
   slug: "spanish-steps",
   title: "Spanish Steps",
   latitude: 41.9059757,

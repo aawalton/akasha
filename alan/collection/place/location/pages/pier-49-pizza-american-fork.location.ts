@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pier49PizzaAmericanFork = {
   id: "019f322c-9b00-73d3-b518-5ae4b7fcd0e0",
-  type: "location",
+  type: "page-type/location",
   slug: "pier-49-pizza-american-fork",
   title: "Pier 49 Pizza (American Fork)",
   address: "American Fork, UT",

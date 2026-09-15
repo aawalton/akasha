@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const rupesBurgers = {
   id: "019f1b49-57b4-753a-bdff-5e39af8fc86b",
-  type: "location",
+  type: "page-type/location",
   slug: "rupes-burgers",
   title: "Rupe's Burgers",
   latitude: 43.706697,

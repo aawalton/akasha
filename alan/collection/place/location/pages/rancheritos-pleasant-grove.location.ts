@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const rancheritosPleasantGrove = {
   id: "019f322c-9b3e-7309-8f00-a8faa4db22be",
-  type: "location",
+  type: "page-type/location",
   slug: "rancheritos-pleasant-grove",
   title: "Rancherito's (Pleasant Grove)",
   address: "Pleasant Grove, UT",

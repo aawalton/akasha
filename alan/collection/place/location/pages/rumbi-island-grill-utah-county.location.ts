@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const rumbiIslandGrillUtahCounty = {
   id: "019f322c-9b6f-7b8c-9e9e-3002d7d5883e",
-  type: "location",
+  type: "page-type/location",
   slug: "rumbi-island-grill-utah-county",
   title: "Rumbi Island Grill (Utah County)",
   address: "Utah County, UT",

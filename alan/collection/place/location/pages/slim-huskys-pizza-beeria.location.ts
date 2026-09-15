@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const slimHuskysPizzaBeeria = {
   id: "019f1aec-0dde-7da3-9418-75b00885fc87",
-  type: "location",
+  type: "page-type/location",
   slug: "slim-huskys-pizza-beeria",
   title: "Slim & Husky's Pizza Beeria",
   latitude: 36.0484396,

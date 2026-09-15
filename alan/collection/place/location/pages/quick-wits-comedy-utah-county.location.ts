@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const quickWitsComedyUtahCounty = {
   id: "019f322c-9b39-797f-b5d4-ea7fdcb99faa",
-  type: "location",
+  type: "page-type/location",
   slug: "quick-wits-comedy-utah-county",
   title: "Quick Wits Comedy (Utah County)",
   address: "Utah County, UT",

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const romanticRoad = {
   id: "019f1aec-0efa-7137-b5d8-417b996fa55a",
-  type: "location",
+  type: "page-type/location",
   slug: "romantic-road",
   title: "Romantic Road",
   latitude: 49.1677574,

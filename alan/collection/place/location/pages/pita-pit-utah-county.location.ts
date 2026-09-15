@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pitaPitUtahCounty = {
   id: "019f322c-9b06-754b-b98d-9d2bc188ad29",
-  type: "location",
+  type: "page-type/location",
   slug: "pita-pit-utah-county",
   title: "Pita Pit (Utah County)",
   address: "Utah County, UT",

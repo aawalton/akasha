@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const seattleChinatownInternationalDistrict = {
   id: "019f1aec-0c86-7353-b69c-ee13f7bc37b0",
-  type: "location",
+  type: "page-type/location",
   slug: "seattle-chinatown-international-district",
   title: "Seattle Chinatown-International District",
   latitude: 47.5993025,

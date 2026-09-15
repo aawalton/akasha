@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const snoqualmieFalls = {
   id: "019f1aec-0caa-7529-a5c7-406b04cc0ae3",
-  type: "location",
+  type: "page-type/location",
   slug: "snoqualmie-falls",
   title: "Snoqualmie Falls",
   latitude: 47.5416498,

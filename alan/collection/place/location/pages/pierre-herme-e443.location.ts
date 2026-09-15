@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pierreHermeE443 = {
   id: "019f1aec-0dd1-71fa-9775-a01b80a1e443",
-  type: "location",
+  type: "page-type/location",
   slug: "pierre-herme-e443",
   title: "Pierre Hermé",
   latitude: 48.8531774,

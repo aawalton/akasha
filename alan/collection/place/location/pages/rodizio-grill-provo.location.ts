@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const rodizioGrillProvo = {
   id: "019f322c-9b56-7ea0-9120-89a1a0e35339",
-  type: "location",
+  type: "page-type/location",
   slug: "rodizio-grill-provo",
   title: "Rodizio Grill (Provo)",
   address: "Provo, UT",

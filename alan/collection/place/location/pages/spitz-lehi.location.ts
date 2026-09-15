@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const spitzLehi = {
   id: "019f1aec-0cee-7541-8e7c-e0c766a0decc",
-  type: "location",
+  type: "page-type/location",
   slug: "spitz-lehi",
   title: "Spitz - Lehi",
   latitude: 40.4321324,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const saltStraw = {
   id: "019f1aec-0c83-784e-9b46-d44d447e2ef7",
-  type: "location",
+  type: "page-type/location",
   slug: "salt-straw",
   title: "Salt & Straw",
   latitude: 47.6682261,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const squattersRoadhouseGrill = {
   id: "019f1b49-5715-78ac-bcb3-c639d7e9280e",
-  type: "location",
+  type: "page-type/location",
   slug: "squatters-roadhouse-grill",
   title: "Squatters Roadhouse Grill",
   latitude: 40.6609322,

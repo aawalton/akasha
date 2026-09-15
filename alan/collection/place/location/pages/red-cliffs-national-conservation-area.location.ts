@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const redCliffsNationalConservationArea = {
   id: "019f1b49-560c-792f-84e7-f635a639ba40",
-  type: "location",
+  type: "page-type/location",
   slug: "red-cliffs-national-conservation-area",
   title: "Red Cliffs National Conservation Area",
   latitude: 33.542652,

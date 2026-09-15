@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const sarahAndColtsHouse = {
   id: "019f1aec-0f38-7aa1-875d-f929179a4460",
-  type: "location",
+  type: "page-type/location",
   slug: "sarah-and-colts-house",
   title: "Sarah and Colt’s House",
   address: "1776 E 1600 N, Mapleton, UT 84664, United States",

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const senorPolloMexicanGrillOrem = {
   id: "019f1b49-5748-7dbb-85d1-b88ecaee3821",
-  type: "location",
+  type: "page-type/location",
   slug: "senor-pollo-mexican-grill-orem",
   title: "Senor Pollo Mexican Grill orem",
   latitude: 40.6527388,

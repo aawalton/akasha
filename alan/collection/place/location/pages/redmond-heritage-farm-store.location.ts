@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const redmondHeritageFarmStore = {
   id: "019f1aec-0cfc-799c-82d0-920340baaa88",
-  type: "location",
+  type: "page-type/location",
   slug: "redmond-heritage-farm-store",
   title: "Redmond Heritage Farm Store",
   latitude: 40.7228891,

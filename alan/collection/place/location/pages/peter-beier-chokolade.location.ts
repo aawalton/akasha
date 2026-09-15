@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const peterBeierChokolade = {
   id: "019f1aec-0d88-7e2c-9176-cec2fa4abcbd",
-  type: "location",
+  type: "page-type/location",
   slug: "peter-beier-chokolade",
   title: "Peter Beier Chokolade",
   latitude: 55.6290701,

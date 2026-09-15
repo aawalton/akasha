@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const roccosDoughnutCompany = {
   id: "019f1b49-571b-791d-b597-eadb82cc8020",
-  type: "location",
+  type: "page-type/location",
   slug: "roccos-doughnut-company",
   title: "Roccos Doughnut Company",
   latitude: 42.183278,

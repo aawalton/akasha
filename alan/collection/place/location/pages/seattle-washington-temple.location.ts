@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const seattleWashingtonTemple = {
   id: "019f1aec-0cab-7936-ada1-f4f776877474",
-  type: "location",
+  type: "page-type/location",
   slug: "seattle-washington-temple",
   title: "Seattle Washington Temple",
   latitude: 47.5840664,

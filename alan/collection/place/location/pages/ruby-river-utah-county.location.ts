@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const rubyRiverUtahCounty = {
   id: "019f322c-9b6c-7642-b2a0-2dc78998647c",
-  type: "location",
+  type: "page-type/location",
   slug: "ruby-river-utah-county",
   title: "Ruby River (Utah County)",
   address: "Utah County, UT",

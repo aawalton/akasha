@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const stPatricksCathedral = {
   id: "019f1aec-0d61-7d37-8fdd-80d89f24c2d8",
-  type: "location",
+  type: "page-type/location",
   slug: "st-patricks-cathedral",
   title: "St Patrick's Cathedral",
   latitude: 53.3395644,

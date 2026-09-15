@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const raisingCanesChickenFingers = {
   id: "019f1aec-0f95-730d-a629-1eed52a93291",
-  type: "location",
+  type: "page-type/location",
   slug: "raising-canes-chicken-fingers",
   title: "Raising Cane's Chicken Fingers",
   address: "3788 W 11400 S, South Jordan, UT 84095, United States",

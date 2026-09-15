@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const romeItalyTemple = {
   id: "019f1aec-0dbf-711b-868d-ca5d21a14f70",
-  type: "location",
+  type: "page-type/location",
   slug: "rome-italy-temple",
   title: "Rome Italy Temple",
   latitude: 41.9704963,

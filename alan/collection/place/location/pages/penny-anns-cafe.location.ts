@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pennyAnnsCafe = {
   id: "019f1aec-103d-7b2b-ace1-eda606d67e08",
-  type: "location",
+  type: "page-type/location",
   slug: "penny-anns-cafe",
   title: "Penny Ann's Cafe",
   address: "280 E 12300 S #118, Draper, UT 84020, United States",

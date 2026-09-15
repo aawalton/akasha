@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const quarryIndoorClimbingCenterUtahCounty = {
   id: "019f322c-9b2f-7316-80c3-b5c98cf90ad4",
-  type: "location",
+  type: "page-type/location",
   slug: "quarry-indoor-climbing-center-utah-county",
   title: "Quarry Indoor Climbing Center (Utah County)",
   address: "Utah County, UT",

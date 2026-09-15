@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const simplyCheesecake = {
   id: "019f1aec-0fdb-7b5a-ac47-197ccc7dc324",
-  type: "location",
+  type: "page-type/location",
   slug: "simply-cheesecake",
   title: "Simply Cheesecake",
   address: "291 E 300 S, Provo, UT 84606, United States",

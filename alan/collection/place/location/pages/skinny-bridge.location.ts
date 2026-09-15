@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const skinnyBridge = {
   id: "019f1aec-0e40-75fc-a6ec-f4ab56e97570",
-  type: "location",
+  type: "page-type/location",
   slug: "skinny-bridge",
   title: "Skinny Bridge",
   latitude: 52.3635843,

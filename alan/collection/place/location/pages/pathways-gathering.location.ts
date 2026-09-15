@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pathwaysGathering = {
   id: "019f1aec-0f2b-7826-96a2-b4b515d2460b",
-  type: "location",
+  type: "page-type/location",
   slug: "pathways-gathering",
   title: "Pathways Gathering",
   address: "1646 Sunset Rd, Brentwood, TN 37027, USA",

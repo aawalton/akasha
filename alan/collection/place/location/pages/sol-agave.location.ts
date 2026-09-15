@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const solAgave = {
   id: "019f1aec-0e07-7012-bd86-6cc3a52e8023",
-  type: "location",
+  type: "page-type/location",
   slug: "sol-agave",
   title: "Sol Agave",
   latitude: 40.3784904,

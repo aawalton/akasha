@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pier49PizzaProvo = {
   id: "019f322c-9b03-73e7-b994-80747a27bd50",
-  type: "location",
+  type: "page-type/location",
   slug: "pier-49-pizza-provo",
   title: "Pier 49 Pizza (Provo)",
   address: "Provo, UT",

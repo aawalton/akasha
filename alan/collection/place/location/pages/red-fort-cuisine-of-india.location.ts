@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const redFortCuisineOfIndia = {
   id: "019f1b49-54d6-7b18-8e37-f00ae6f72d36",
-  type: "location",
+  type: "page-type/location",
   slug: "red-fort-cuisine-of-india",
   title: "Red Fort Cuisine of India",
   latitude: 37.1057117,

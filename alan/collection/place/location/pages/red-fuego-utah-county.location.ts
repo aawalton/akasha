@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const redFuegoUtahCounty = {
   id: "019f322c-9b41-72e5-b9ab-a850fef8b772",
-  type: "location",
+  type: "page-type/location",
   slug: "red-fuego-utah-county",
   title: "Red Fuego (Utah County)",
   address: "Utah County, UT",

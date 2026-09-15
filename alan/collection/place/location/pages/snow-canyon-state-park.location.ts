@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const snowCanyonStatePark = {
   id: "019f1b49-5606-76d8-9f54-b5b7eae66264",
-  type: "location",
+  type: "page-type/location",
   slug: "snow-canyon-state-park",
   title: "Snow Canyon State Park",
   latitude: -33.960833,

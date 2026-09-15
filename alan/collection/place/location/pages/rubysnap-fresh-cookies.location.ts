@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const rubysnapFreshCookies = {
   id: "019f1b49-54ea-75c9-b642-69b4644733ab",
-  type: "location",
+  type: "page-type/location",
   slug: "rubysnap-fresh-cookies",
   title: "RubySnap Fresh Cookies",
   latitude: 40.7523977,

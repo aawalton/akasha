@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const shopPralusParisRambuteau = {
   id: "019f1b49-5426-7b49-84ff-77b1ec97e9ad",
-  type: "location",
+  type: "page-type/location",
   slug: "shop-pralus-paris-rambuteau",
   title: "Shop Pralus Paris Rambuteau",
   latitude: 48.8667787,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const sonicUtahCounty = {
   id: "019f322c-9b88-7fae-b15e-8b9947745550",
-  type: "location",
+  type: "page-type/location",
   slug: "sonic-utah-county",
   title: "Sonic (Utah County)",
   address: "Utah County, UT",

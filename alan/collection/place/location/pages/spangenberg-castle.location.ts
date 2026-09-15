@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const spangenbergCastle = {
   id: "019f1aec-0ef3-7ab4-a026-cf4458d9d19b",
-  type: "location",
+  type: "page-type/location",
   slug: "spangenberg-castle",
   title: "Spangenberg Castle",
   latitude: 51.119484,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const peaksIceArenaUtahCounty = {
   id: "019f322c-9afd-7396-8235-ff4751946c6e",
-  type: "location",
+  type: "page-type/location",
   slug: "peaks-ice-arena-utah-county",
   title: "Peaks Ice Arena (Utah County)",
   address: "Utah County, UT",

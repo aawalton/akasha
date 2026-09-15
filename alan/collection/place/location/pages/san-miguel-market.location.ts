@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const sanMiguelMarket = {
   id: "019f1b49-533a-7e9a-aff2-92a379bae568",
-  type: "location",
+  type: "page-type/location",
   slug: "san-miguel-market",
   title: "San Miguel Market",
   latitude: 40.38901,

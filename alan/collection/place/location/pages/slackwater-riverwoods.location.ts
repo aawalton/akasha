@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const slackwaterRiverwoods = {
   id: "019f1b49-5167-7e43-9ef2-73b3ba06afdc",
-  type: "location",
+  type: "page-type/location",
   slug: "slackwater-riverwoods",
   title: "Slackwater Riverwoods",
   latitude: 39.98232,

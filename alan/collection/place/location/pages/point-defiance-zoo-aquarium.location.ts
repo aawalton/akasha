@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pointDefianceZooAquarium = {
   id: "019f1aec-0c8e-7a3f-ac78-6e1b3cb5b503",
-  type: "location",
+  type: "page-type/location",
   slug: "point-defiance-zoo-aquarium",
   title: "Point Defiance Zoo & Aquarium",
   latitude: 47.3050982,

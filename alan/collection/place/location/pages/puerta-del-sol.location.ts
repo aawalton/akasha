@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const puertaDelSol = {
   id: "019f1aec-0d6d-7e43-acdf-1c96291bf0c6",
-  type: "location",
+  type: "page-type/location",
   slug: "puerta-del-sol",
   title: "Puerta del Sol",
   latitude: 40.416863,

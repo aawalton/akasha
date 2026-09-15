@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const sabaidee = {
   id: "019f1aec-0cec-7018-9790-9b082cad70e6",
-  type: "location",
+  type: "page-type/location",
   slug: "sabaidee",
   title: "Sabaidee",
   latitude: -33.9719529,

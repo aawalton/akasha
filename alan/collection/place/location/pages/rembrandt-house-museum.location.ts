@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const rembrandtHouseMuseum = {
   id: "019f1aec-0e42-7dac-8ea8-28630762124f",
-  type: "location",
+  type: "page-type/location",
   slug: "rembrandt-house-museum",
   title: "Rembrandt House Museum",
   latitude: 52.3693692,

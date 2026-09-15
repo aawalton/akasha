@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pomodoroRistoranteItaliano = {
   id: "019f1b49-559e-720a-ba7c-ca82aef60bd0",
-  type: "location",
+  type: "page-type/location",
   slug: "pomodoro-ristorante-italiano",
   title: "Pomodoro Ristorante Italiano",
   latitude: 32.519783,

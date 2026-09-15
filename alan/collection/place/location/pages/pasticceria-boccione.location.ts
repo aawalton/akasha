@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pasticceriaBoccione = {
   id: "019f1b49-53c2-76d7-89dc-11f76258d666",
-  type: "location",
+  type: "page-type/location",
   slug: "pasticceria-boccione",
   title: "Pasticceria Boccione",
   latitude: 41.9157862,

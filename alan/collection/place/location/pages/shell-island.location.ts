@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const shellIsland = {
   id: "019f1aec-0ccb-7003-9e3e-1aeed1333fc9",
-  type: "location",
+  type: "page-type/location",
   slug: "shell-island",
   title: "Shell Island",
   latitude: 30.4035731,

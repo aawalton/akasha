@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const picassoMuseum = {
   id: "019f1aec-0e6e-7263-a5cf-0a9792781f07",
-  type: "location",
+  type: "page-type/location",
   slug: "picasso-museum",
   title: "Picasso Museum",
   latitude: 41.3851039,

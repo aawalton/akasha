@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const restaurantTeamMember = {
   id: "019f1b49-5358-7426-92f6-fd6a8f00ed9e",
-  type: "location",
+  type: "page-type/location",
   slug: "restaurant-team-member",
   title: "Restaurant Team Member",
   latitude: 53.8656825,

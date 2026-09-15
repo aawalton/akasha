@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const passionChocolat = {
   id: "019f1aec-0edc-7074-9be2-adfaad01a68c",
-  type: "location",
+  type: "page-type/location",
   slug: "passion-chocolat",
   title: "Passion Chocolat",
   latitude: 50.8476121,

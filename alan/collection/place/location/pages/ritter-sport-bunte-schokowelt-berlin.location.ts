@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const ritterSportBunteSchokoweltBerlin = {
   id: "019f1aec-0d57-77fd-860b-bc4d69ecfa83",
-  type: "location",
+  type: "page-type/location",
   slug: "ritter-sport-bunte-schokowelt-berlin",
   title: "Ritter Sport Bunte Schokowelt Berlin",
   latitude: 52.5161041,

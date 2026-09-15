@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const saintMarksBasilica = {
   id: "019f1b49-5516-798f-8064-d77132656bdc",
-  type: "location",
+  type: "page-type/location",
   slug: "saint-marks-basilica",
   title: "Saint Mark's Basilica",
   latitude: 45.4345,

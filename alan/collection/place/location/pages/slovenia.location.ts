@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const slovenia = {
   id: "019f1aec-0cf7-7dd3-b6b8-c6f8136fe7f1",
-  type: "location",
+  type: "page-type/location",
   slug: "slovenia",
   title: "Slovenia",
   latitude: 46.1199444,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pizzaPastry = {
   id: "019f1aec-0f2e-733b-856f-51efd39ba774",
-  type: "location",
+  type: "page-type/location",
   slug: "pizza-pastry",
   title: "Pizza Pastry",
   address: "Pasticceria Boccione, Via del Portico d'Ottavia, 1, 00186 Roma RM, Italy",

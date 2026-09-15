@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const seasons52 = {
   id: "019f1aec-0eff-76e0-8426-c322105af30f",
-  type: "location",
+  type: "page-type/location",
   slug: "seasons-52",
   title: "Seasons 52",
   latitude: 25.7497009,

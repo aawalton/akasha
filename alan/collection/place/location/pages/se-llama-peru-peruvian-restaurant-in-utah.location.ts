@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const seLlamaPeruPeruvianRestaurantInUtah = {
   id: "019f1aec-1009-7b6a-94b9-b7752813aa5b",
-  type: "location",
+  type: "page-type/location",
   slug: "se-llama-peru-peruvian-restaurant-in-utah",
   title: "Se Llama Perú: Peruvian Restaurant in Utah",
   address: "368 W Center St, Provo, UT 84601, United States",

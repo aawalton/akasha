@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const reedsDairy = {
   id: "019f1aec-0f19-742b-958e-bffb00f72871",
-  type: "location",
+  type: "page-type/location",
   slug: "reeds-dairy",
   title: "Reed's Dairy",
   latitude: 43.4980719,
