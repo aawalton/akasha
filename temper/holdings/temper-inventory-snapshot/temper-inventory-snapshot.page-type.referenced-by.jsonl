@@ -166,5 +166,6 @@
 {"propertySlug":"import","fileName":"temper-inventory-snapshot.page-type.types.ts","path":"temper/holdings/temper-inventory-snapshot/pages/at-2026-09-15-18-54-35/at-2026-09-15-18-54-35.temper-inventory-snapshot.ts"}
 {"propertySlug":"import","fileName":"temper-inventory-snapshot.page-type.types.ts","path":"temper/holdings/temper-inventory-snapshot/pages/at-2026-09-15-19-28-19/at-2026-09-15-19-28-19.temper-inventory-snapshot.ts"}
 {"propertySlug":"import","fileName":"temper-inventory-snapshot.page-type.types.ts","path":"temper/holdings/temper-inventory-snapshot/pages/at-2026-09-15-19-38-55/at-2026-09-15-19-38-55.temper-inventory-snapshot.ts"}
+{"propertySlug":"import","fileName":"temper-inventory-snapshot.page-type.types.ts","path":"temper/holdings/temper-inventory-snapshot/pages/at-2026-09-15-19-57-12/at-2026-09-15-19-57-12.temper-inventory-snapshot.ts"}
 {"propertySlug":"parts","path":"temper/holdings/temper-holdings.domain.ts","id":"01a05fac-7582-7d58-82ce-cb03ba05751f"}
 {"propertySlug":"target-page-type","path":"temper/holdings/temper-inventory-chunk/properties/inventory.relation-property.ts","id":"01a05fcb-fd2e-7b76-8f9e-ab136135d3a5"}
