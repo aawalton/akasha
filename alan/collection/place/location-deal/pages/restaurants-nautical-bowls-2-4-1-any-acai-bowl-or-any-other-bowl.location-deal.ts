@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsNauticalBowls241AnyAcaiBowlOrAnyOtherBowl = {
   id: "019f322c-aa45-7f42-8633-6bc0b0d52d30",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-nautical-bowls-2-4-1-any-acai-bowl-or-any-other-bowl",
   title: "Nautical Bowls — 2-4-1! Any Acai Bowl or Any Other Bowl!",
   collection: "location-collection/starving-student-card",

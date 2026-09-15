@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersOnohsMalasadaCo241AnySandwich = {
   id: "019f322c-afd9-71cf-a847-c29b255bc607",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-onohs-malasada-co-2-4-1-any-sandwich",
   title: "Onoh's Malasada Co — 2-4-1! Any Sandwich!",
   collection: "location-collection/starving-student-card",

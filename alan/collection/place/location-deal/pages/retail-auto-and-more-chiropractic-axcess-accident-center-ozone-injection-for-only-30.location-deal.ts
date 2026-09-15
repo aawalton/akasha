@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreChiropracticAxcessAccidentCenterOzoneInjectionForOnly30 = {
   id: "019f322c-abb6-7541-b69d-85d1561aac52",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-chiropractic-axcess-accident-center-ozone-injection-for-only-30",
   title: "Chiropractic: Axcess Accident Center — Ozone Injection for Only $30!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksBrustersIceCream241WaffleConeAndIceCream = {
   id: "019f322c-b0a3-753b-a89b-a29673a7e42f",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-brusters-ice-cream-2-4-1-waffle-cone-and-ice-cream",
   title: "Bruster's Ice Cream — 2-4-1! Waffle Cone & Ice Cream!",
   collection: "location-collection/starving-student-card",

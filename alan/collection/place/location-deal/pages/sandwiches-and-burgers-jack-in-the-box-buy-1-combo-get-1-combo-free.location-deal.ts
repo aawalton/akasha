@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersJackInTheBoxBuy1ComboGet1ComboFree = {
   id: "019f322c-af51-7b3e-b9d0-d7d48f743d92",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-jack-in-the-box-buy-1-combo-get-1-combo-free",
   title: "Jack in the Box — Buy 1 Combo, Get 1 Combo FREE!",
   collection: "location-collection/starving-student-card",

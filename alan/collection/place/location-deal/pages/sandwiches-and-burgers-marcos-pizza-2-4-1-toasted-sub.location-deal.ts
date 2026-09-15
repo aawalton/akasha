@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersMarcosPizza241ToastedSub = {
   id: "019f322c-afb9-7355-95cc-639a66a3d0b9",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-marcos-pizza-2-4-1-toasted-sub",
   title: "Marco's Pizza — 2-4-1! Toasted Sub!",
   collection: "location-collection/starving-student-card",

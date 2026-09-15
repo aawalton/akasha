@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksJambaJuice50OffAnyMenuItem = {
   id: "019f322c-b10b-779d-a84c-efbb33a396e5",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-jamba-juice-50-off-any-menu-item",
   title: "Jamba Juice — 50% OFF! Any Menu Item!",
   collection: "location-collection/starving-student-card",

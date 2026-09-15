@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersKlucksKrispyChickenBuy1EntreeOrMealGet150Off = {
   id: "019f322c-afb6-73ba-b533-682932775d69",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-klucks-krispy-chicken-buy-1-entree-or-meal-get-1-50-off",
   title: "Klucks Krispy Chicken — Buy 1 Entree or Meal, Get 1 50% OFF!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersZubsPizzaAndSubsBuyAnySubGet1Free = {
   id: "019f322c-b082-7279-96e1-a809001fca0a",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-zubs-pizza-and-subs-buy-any-sub-get-1-free",
   title: "Zub's Pizza & Sub's — Buy Any Sub, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

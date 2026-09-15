@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersCulvers241CulversDeluxe = {
   id: "019f322c-ad68-71b2-804b-0330ced596c5",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-culvers-2-4-1-culvers-deluxe",
   title: "Culver's — 2-4-1! Culver's Deluxe!",
   collection: "location-collection/starving-student-card",

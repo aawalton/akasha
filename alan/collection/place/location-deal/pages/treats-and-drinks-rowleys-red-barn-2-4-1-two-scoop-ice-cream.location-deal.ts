@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksRowleysRedBarn241TwoScoopIceCream = {
   id: "019f322c-b194-7d7f-8b0f-14406feaebe8",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-rowleys-red-barn-2-4-1-two-scoop-ice-cream",
   title: "Rowley's Red Barn — 2-4-1! Two-Scoop Ice Cream!",
   collection: "location-collection/starving-student-card",

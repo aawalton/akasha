@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsFiveSushiBrothers241AnyTempuraFriedRoll = {
   id: "019f322c-a8b5-70c5-9c0b-cc111d6e2d1a",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-five-sushi-brothers-2-4-1-any-tempura-fried-roll",
   title: "Five Sushi Brothers — 2-4-1! Any Tempura-Fried Roll!",
   collection: "location-collection/starving-student-card",

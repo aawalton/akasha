@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreMtechCosmetology4HaircutAndStyle = {
   id: "019f322c-ac3c-76fc-8b65-83e7eb7083ab",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-mtech-cosmetology-4-haircut-and-style",
   title: "MTECH Cosmetology — $4 Haircut & Style!",
   collection: "location-collection/starving-student-card",

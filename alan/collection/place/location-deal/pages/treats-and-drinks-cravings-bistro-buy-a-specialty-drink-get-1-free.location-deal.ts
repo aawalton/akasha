@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksCravingsBistroBuyASpecialtyDrinkGet1Free = {
   id: "019f322c-b0ef-7a5e-9f60-9ac0635689b4",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-cravings-bistro-buy-a-specialty-drink-get-1-free",
   title: "Cravings Bistro — Buy A Specialty Drink, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

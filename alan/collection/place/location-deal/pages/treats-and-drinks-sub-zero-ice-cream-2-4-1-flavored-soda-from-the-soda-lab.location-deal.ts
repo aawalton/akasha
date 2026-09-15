@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksSubZeroIceCream241FlavoredSodaFromTheSodaLab = {
   id: "019f322c-b1b7-7270-8786-472af85a3e52",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-sub-zero-ice-cream-2-4-1-flavored-soda-from-the-soda-lab",
   title: "Sub Zero Ice Cream — 2-4-1! Flavored Soda from the Soda Lab!",
   collection: "location-collection/starving-student-card",

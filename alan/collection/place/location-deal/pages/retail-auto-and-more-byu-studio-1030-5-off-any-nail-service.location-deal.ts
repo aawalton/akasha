@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreByuStudio10305OffAnyNailService = {
   id: "019f322c-ab9e-7f64-93df-46453426ef77",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-byu-studio-1030-5-off-any-nail-service",
   title: "BYU Studio 1030 — $5 OFF! Any Nail Service!",
   collection: "location-collection/starving-student-card",

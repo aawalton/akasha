@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreHavoline25OffEmissions = {
   id: "019f322c-abdc-79e5-b9a2-33250ff2b24c",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-havoline-25-off-emissions",
   title: "Havoline — 25% OFF! Emissions!",
   collection: "location-collection/starving-student-card",

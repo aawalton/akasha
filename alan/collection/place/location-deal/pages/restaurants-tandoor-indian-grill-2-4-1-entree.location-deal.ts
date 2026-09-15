@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsTandoorIndianGrill241Entree = {
   id: "019f322c-ab5d-74cd-a548-58e9f63c8338",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-tandoor-indian-grill-2-4-1-entree",
   title: "Tandoor Indian Grill — 2-4-1! Entree!",
   collection: "location-collection/starving-student-card",

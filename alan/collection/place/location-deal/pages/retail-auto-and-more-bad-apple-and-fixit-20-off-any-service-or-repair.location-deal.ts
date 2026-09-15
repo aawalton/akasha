@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreBadAppleAndFixit20OffAnyServiceOrRepair = {
   id: "019f322c-ab8e-7111-9c26-4853a065ba09",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-bad-apple-and-fixit-20-off-any-service-or-repair",
   title: "Bad Apple & FIXIT — $20 OFF! Any Service or Repair!",
   collection: "location-collection/starving-student-card",

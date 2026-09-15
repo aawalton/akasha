@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksMelty241AnySideOrDessert = {
   id: "019f322c-b112-7f46-826b-2428cf997749",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-melty-2-4-1-any-side-or-dessert",
   title: "Melty — 2-4-1! Any Side or Dessert!",
   collection: "location-collection/starving-student-card",

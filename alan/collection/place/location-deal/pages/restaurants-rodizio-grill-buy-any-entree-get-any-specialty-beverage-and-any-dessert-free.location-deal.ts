@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsRodizioGrillBuyAnyEntreeGetAnySpecialtyBeverageAndAnyDessertFree = {
   id: "019f322c-aaec-7de7-a254-f07fb911c50a",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-rodizio-grill-buy-any-entree-get-any-specialty-beverage-and-any-dessert-free",
   title: "Rodizio Grill — Buy Any Entree, Get Any Specialty Beverage & Any Dessert FREE!",
   collection: "location-collection/starving-student-card",

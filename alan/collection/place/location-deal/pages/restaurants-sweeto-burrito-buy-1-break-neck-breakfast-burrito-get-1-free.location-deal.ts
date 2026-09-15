@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsSweetoBurritoBuy1BreakNeckBreakfastBurritoGet1Free = {
   id: "019f322c-ab0b-7654-8351-ddbd8917661a",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-sweeto-burrito-buy-1-break-neck-breakfast-burrito-get-1-free",
   title: "Sweeto Burrito — Buy 1 Break Neck Breakfast Burrito, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreMandalynAcademy50OffExpressFacial = {
   id: "019f322c-ac34-713d-a795-c474a7c2caa0",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-mandalyn-academy-50-off-express-facial",
   title: "Mandalyn Academy — 50% OFF! Express Facial!",
   collection: "location-collection/starving-student-card",

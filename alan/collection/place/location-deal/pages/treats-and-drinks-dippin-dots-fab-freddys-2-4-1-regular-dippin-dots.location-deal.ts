@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksDippinDotsFabFreddys241RegularDippinDots = {
   id: "019f322c-b0fc-7306-a851-b213fafe6d8d",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-dippin-dots-fab-freddys-2-4-1-regular-dippin-dots",
   title: "Dippin' Dots Fab Freddy's — 2-4-1! Regular Dippin' Dots!",
   collection: "location-collection/starving-student-card",

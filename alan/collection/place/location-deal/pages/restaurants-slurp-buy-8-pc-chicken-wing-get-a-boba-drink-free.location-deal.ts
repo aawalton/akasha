@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsSlurpBuy8PcChickenWingGetABobaDrinkFree = {
   id: "019f322c-ab06-71b1-8f77-81afd05067e2",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-slurp-buy-8-pc-chicken-wing-get-a-boba-drink-free",
   title: "Slurp — Buy 8 pc Chicken Wing, Get a Boba Drink FREE!",
   collection: "location-collection/starving-student-card",

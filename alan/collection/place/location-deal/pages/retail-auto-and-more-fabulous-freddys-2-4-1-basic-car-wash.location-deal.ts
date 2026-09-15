@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreFabulousFreddys241BasicCarWash = {
   id: "019f322c-abc2-7a3f-8faf-ee86d51f767d",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-fabulous-freddys-2-4-1-basic-car-wash",
   title: "Fabulous Freddy's — 2-4-1! Basic Car Wash!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreDurfeyDryCleaners241DryCleanedOrLaunderedItem = {
   id: "019f322c-abbf-7fdc-8c54-2aab86c41bec",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-durfey-dry-cleaners-2-4-1-dry-cleaned-or-laundered-item",
   title: "Durfey Dry Cleaners — 2-4-1! Dry Cleaned or Laundered Item!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsWingNutz241EntreeMaxDiscount15 = {
   id: "019f322c-ab80-723e-87dc-62d5d7db4b93",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-wing-nutz-2-4-1-entree-max-discount-15",
   title: "Wing Nutz — 2-4-1! Entree! Max Discount $15!",
   collection: "location-collection/starving-student-card",

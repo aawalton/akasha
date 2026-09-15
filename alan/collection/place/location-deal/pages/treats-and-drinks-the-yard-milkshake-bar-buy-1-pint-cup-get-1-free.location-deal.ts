@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksTheYardMilkshakeBarBuy1PintCupGet1Free = {
   id: "019f322c-b20b-77b8-983d-dd1a334849fb",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-the-yard-milkshake-bar-buy-1-pint-cup-get-1-free",
   title: "The Yard Milkshake Bar — Buy 1 Pint Cup, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

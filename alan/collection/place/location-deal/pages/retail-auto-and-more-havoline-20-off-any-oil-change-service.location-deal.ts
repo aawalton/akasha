@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreHavoline20OffAnyOilChangeService = {
   id: "019f322c-abd4-7e4b-8ed4-432e1fdf8c8e",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-havoline-20-off-any-oil-change-service",
   title: "Havoline — $20 OFF! Any Oil Change Service!",
   collection: "location-collection/starving-student-card",

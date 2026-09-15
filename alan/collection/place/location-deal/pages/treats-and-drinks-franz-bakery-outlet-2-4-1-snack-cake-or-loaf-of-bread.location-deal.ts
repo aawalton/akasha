@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksFranzBakeryOutlet241SnackCakeOrLoafOfBread = {
   id: "019f322c-b0fe-762f-ac9b-f44ad262dd81",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-franz-bakery-outlet-2-4-1-snack-cake-or-loaf-of-bread",
   title: "Franz Bakery Outlet — 2-4-1! Snack Cake or Loaf of Bread!",
   collection: "location-collection/starving-student-card",

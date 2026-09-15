@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreGreaseMonkey10OffFullServiceOilChange = {
   id: "019f322c-abcc-7bc7-8a45-5b92756160ef",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-grease-monkey-10-off-full-service-oil-change",
   title: "Grease Monkey — $10 OFF! Full Service Oil Change!",
   collection: "location-collection/starving-student-card",

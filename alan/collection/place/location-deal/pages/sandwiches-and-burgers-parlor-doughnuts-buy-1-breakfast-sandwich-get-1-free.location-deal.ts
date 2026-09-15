@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersParlorDoughnutsBuy1BreakfastSandwichGet1Free = {
   id: "019f322c-afdd-71ed-9a26-850d103e736a",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-parlor-doughnuts-buy-1-breakfast-sandwich-get-1-free",
   title: "Parlor Doughnuts — Buy 1 Breakfast Sandwich, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

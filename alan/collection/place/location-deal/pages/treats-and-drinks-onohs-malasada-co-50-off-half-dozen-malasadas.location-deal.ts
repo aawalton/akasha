@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksOnohsMalasadaCo50OffHalfDozenMalasadas = {
   id: "019f322c-b12b-787e-8d16-df74027868dd",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-onohs-malasada-co-50-off-half-dozen-malasadas",
   title: "Onoh's Malasada Co — 50% OFF! Half Dozen Malasadas!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksBobbysBurgersBuyAnyShakeGet1Free = {
   id: "019f322c-b09b-7dcb-9c2c-a758cf4632b2",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-bobbys-burgers-buy-any-shake-get-1-free",
   title: "Bobbys Burgers — Buy Any Shake, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreShinyShellCarwash50OffASingleWash = {
   id: "019f322c-ac99-7135-bb59-e7d4f12fb45d",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-shiny-shell-carwash-50-off-a-single-wash",
   title: "Shiny Shell Carwash — 50% OFF! a Single Wash!",
   collection: "location-collection/starving-student-card",

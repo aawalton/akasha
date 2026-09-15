@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsTamashiRamen241RamenOrSushiEntree = {
   id: "019f322c-ab55-723d-91e5-87f31f6c3760",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-tamashi-ramen-2-4-1-ramen-or-sushi-entree",
   title: "Tamashi Ramen — 2-4-1! Ramen or Sushi Entree!",
   collection: "location-collection/starving-student-card",

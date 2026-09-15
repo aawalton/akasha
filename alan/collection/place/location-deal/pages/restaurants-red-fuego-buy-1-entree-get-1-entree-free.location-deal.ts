@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsRedFuegoBuy1EntreeGet1EntreeFree = {
   id: "019f322c-aaaa-736c-b18b-b8ed31e96469",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-red-fuego-buy-1-entree-get-1-entree-free",
   title: "Red Fuego — Buy 1 Entree, Get 1 Entree FREE!",
   collection: "location-collection/starving-student-card",

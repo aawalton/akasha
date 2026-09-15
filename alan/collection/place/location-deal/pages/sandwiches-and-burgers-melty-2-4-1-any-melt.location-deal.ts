@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersMelty241AnyMelt = {
   id: "019f322c-afcb-7196-a48b-8e4ebf1ff5bc",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-melty-2-4-1-any-melt",
   title: "Melty — 2-4-1! Any Melt!",
   collection: "location-collection/starving-student-card",

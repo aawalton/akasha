@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersDairyQueen2414PieceChickenStripBasket = {
   id: "019f322c-adac-7cc2-b6c2-ec1f882d330b",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-dairy-queen-2-4-1-4-piece-chicken-strip-basket",
   title: "Dairy Queen — 2-4-1! 4-Piece Chicken Strip Basket!",
   collection: "location-collection/starving-student-card",

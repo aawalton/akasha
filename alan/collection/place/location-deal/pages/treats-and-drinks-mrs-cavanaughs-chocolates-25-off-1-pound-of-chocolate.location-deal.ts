@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksMrsCavanaughsChocolates25Off1PoundOfChocolate = {
   id: "019f322c-b121-7d2c-8168-3d2de20b5db6",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-mrs-cavanaughs-chocolates-25-off-1-pound-of-chocolate",
   title: "Mrs. Cavanaugh's Chocolates — 25% OFF! 1 Pound of Chocolate!",
   collection: "location-collection/starving-student-card",

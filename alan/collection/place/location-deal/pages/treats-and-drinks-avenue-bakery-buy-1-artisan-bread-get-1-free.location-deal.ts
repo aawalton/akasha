@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksAvenueBakeryBuy1ArtisanBreadGet1Free = {
   id: "019f322c-b093-742c-bc77-88f37fb8a769",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-avenue-bakery-buy-1-artisan-bread-get-1-free",
   title: "Avenue Bakery — Buy 1 Artisan Bread, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

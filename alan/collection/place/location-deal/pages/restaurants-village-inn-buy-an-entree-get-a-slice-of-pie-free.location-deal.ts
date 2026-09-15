@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsVillageInnBuyAnEntreeGetASliceOfPieFree = {
   id: "019f322c-ab79-7cee-92c0-53eeb8302fec",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-village-inn-buy-an-entree-get-a-slice-of-pie-free",
   title: "Village Inn — Buy an Entree, Get a Slice of Pie FREE!",
   collection: "location-collection/starving-student-card",

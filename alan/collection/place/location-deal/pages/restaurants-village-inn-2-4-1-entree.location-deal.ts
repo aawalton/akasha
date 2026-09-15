@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsVillageInn241Entree = {
   id: "019f322c-ab77-7704-af7f-fe4db9f1616e",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-village-inn-2-4-1-entree",
   title: "Village Inn — 2-4-1! Entree!",
   collection: "location-collection/starving-student-card",

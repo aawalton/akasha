@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksCinnabonBuy1ClassicCinnamonRollGet1Free = {
   id: "019f322c-b0e3-78d7-81ca-5c8504ecd2f2",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-cinnabon-buy-1-classic-cinnamon-roll-get-1-free",
   title: "Cinnabon — Buy 1 Classic Cinnamon Roll, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

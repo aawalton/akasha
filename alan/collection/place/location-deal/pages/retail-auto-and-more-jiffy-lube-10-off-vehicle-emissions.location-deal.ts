@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreJiffyLube10OffVehicleEmissions = {
   id: "019f322c-ac19-7291-8177-37fe1d54fd48",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-jiffy-lube-10-off-vehicle-emissions",
   title: "Jiffy Lube — $10 OFF! Vehicle Emissions!",
   collection: "location-collection/starving-student-card",

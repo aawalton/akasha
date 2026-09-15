@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksCravingsAlishasCupcakesBuyTwoCupcakesGet1Free = {
   id: "019f322c-b0ed-7748-88e6-b2215d9fc90b",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-cravings-alishas-cupcakes-buy-two-cupcakes-get-1-free",
   title: "Cravings Alisha's Cupcakes — Buy Two Cupcakes, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

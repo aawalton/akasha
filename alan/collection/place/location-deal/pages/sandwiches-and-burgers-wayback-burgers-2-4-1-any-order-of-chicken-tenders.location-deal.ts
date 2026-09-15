@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersWaybackBurgers241AnyOrderOfChickenTenders = {
   id: "019f322c-b062-7d2f-9e20-aa7e5b6352d2",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-wayback-burgers-2-4-1-any-order-of-chicken-tenders",
   title: "Wayback Burgers — 2-4-1! Any Order of Chicken Tenders!",
   collection: "location-collection/starving-student-card",

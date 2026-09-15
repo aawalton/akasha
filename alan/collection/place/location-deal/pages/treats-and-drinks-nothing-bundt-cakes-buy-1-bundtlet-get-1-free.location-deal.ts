@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksNothingBundtCakesBuy1BundtletGet1Free = {
   id: "019f322c-b127-7ea0-aa01-c834a70d5ffa",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-nothing-bundt-cakes-buy-1-bundtlet-get-1-free",
   title: "Nothing Bundt Cakes — Buy 1 Bundtlet, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

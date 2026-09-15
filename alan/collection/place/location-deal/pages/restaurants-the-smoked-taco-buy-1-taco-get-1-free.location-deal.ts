@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsTheSmokedTacoBuy1TacoGet1Free = {
   id: "019f322c-ab6d-77ad-9bd1-daf63f7f474f",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-the-smoked-taco-buy-1-taco-get-1-free",
   title: "The Smoked Taco — Buy 1 Taco, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

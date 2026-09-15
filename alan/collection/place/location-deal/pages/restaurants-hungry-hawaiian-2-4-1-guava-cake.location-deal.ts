@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsHungryHawaiian241GuavaCake = {
   id: "019f322c-a9cd-766c-9483-24336eca2830",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-hungry-hawaiian-2-4-1-guava-cake",
   title: "Hungry Hawaiian — 2-4-1! Guava Cake!",
   collection: "location-collection/starving-student-card",

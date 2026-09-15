@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersGreatHarvestBreadCo241BreakfastOrLunchSandwich = {
   id: "019f322c-ae25-77de-812d-4288adfadc60",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-great-harvest-bread-co-2-4-1-breakfast-or-lunch-sandwich",
   title: "Great Harvest Bread Co. — 2-4-1! Breakfast or Lunch Sandwich!",
   collection: "location-collection/starving-student-card",

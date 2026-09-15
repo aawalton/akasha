@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksRollUpCrepes241EntreeUpTo7 = {
   id: "019f322c-b146-7fe5-a06d-bb182e3a6350",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-roll-up-crepes-2-4-1-entree-up-to-7",
   title: "Roll Up Crepes — 2-4-1! Entree! Up to $7!",
   collection: "location-collection/starving-student-card",

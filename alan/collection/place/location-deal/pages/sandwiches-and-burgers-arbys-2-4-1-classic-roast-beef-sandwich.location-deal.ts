@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersArbys241ClassicRoastBeefSandwich = {
   id: "019f322c-ad03-79d1-9655-5e686247eea0",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-arbys-2-4-1-classic-roast-beef-sandwich",
   title: "Arby's — 2-4-1! Classic Roast Beef Sandwich!",
   collection: "location-collection/starving-student-card",

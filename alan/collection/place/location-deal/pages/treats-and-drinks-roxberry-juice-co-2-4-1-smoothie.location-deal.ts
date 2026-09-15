@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksRoxberryJuiceCo241Smoothie = {
   id: "019f322c-b19e-7303-a5c9-b2f62255cecc",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-roxberry-juice-co-2-4-1-smoothie",
   title: "Roxberry Juice Co. — 2-4-1! Smoothie!",
   collection: "location-collection/starving-student-card",

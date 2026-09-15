@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsWallabysBuyAnyPlatterAnd2DrinksGetAnyPlatterFree = {
   id: "019f322c-ab7d-7730-850a-30a622f0aca5",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-wallabys-buy-any-platter-and-2-drinks-get-any-platter-free",
   title: "Wallaby's — Buy Any Platter & 2 Drinks, Get Any Platter FREE!",
   collection: "location-collection/starving-student-card",

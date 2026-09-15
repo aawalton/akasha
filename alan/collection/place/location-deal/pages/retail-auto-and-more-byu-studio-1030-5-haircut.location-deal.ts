@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreByuStudio10305Haircut = {
   id: "019f322c-ab99-7f8e-86b7-f6a4d1753d49",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-byu-studio-1030-5-haircut",
   title: "BYU Studio 1030 — $5 Haircut!",
   collection: "location-collection/starving-student-card",

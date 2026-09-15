@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksBahamaBucksBuy1ShavedIceOrSmoothieGet1Free = {
   id: "019f322c-b095-7f10-a06b-36103c9ec31f",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-bahama-bucks-buy-1-shaved-ice-or-smoothie-get-1-free",
   title: "Bahama Buck's — Buy 1 Shaved Ice or Smoothie, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

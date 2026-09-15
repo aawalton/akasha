@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMorePaulMitchellTheSchoolProvo50OffAManicureOrPedicure = {
   id: "019f322c-ac7d-7700-9858-99883a990cb0",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-paul-mitchell-the-school-provo-50-off-a-manicure-or-pedicure",
   title: "Paul Mitchell the School Provo — 50% OFF! a Manicure or Pedicure!",
   collection: "location-collection/starving-student-card",

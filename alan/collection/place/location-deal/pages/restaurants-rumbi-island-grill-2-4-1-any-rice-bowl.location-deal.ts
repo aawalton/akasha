@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsRumbiIslandGrill241AnyRiceBowl = {
   id: "019f322c-ab00-7107-84bb-2c92117c224f",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-rumbi-island-grill-2-4-1-any-rice-bowl",
   title: "Rumbi Island Grill — 2-4-1! Any Rice Bowl!",
   collection: "location-collection/starving-student-card",

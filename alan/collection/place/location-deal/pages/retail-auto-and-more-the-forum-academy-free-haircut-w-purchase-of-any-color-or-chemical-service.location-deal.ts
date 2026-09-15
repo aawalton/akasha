@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreTheForumAcademyFreeHaircutWPurchaseOfAnyColorOrChemicalService = {
   id: "019f322c-aca4-7a69-b5ed-03cf69d7f770",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-the-forum-academy-free-haircut-w-purchase-of-any-color-or-chemical-service",
   title: "The Forum Academy — FREE! Haircut w/ Purchase of Any Color or Chemical Service!",
   collection: "location-collection/starving-student-card",

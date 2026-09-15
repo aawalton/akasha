@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsOutbackSteakhouseBuyAnyEntreeGetABloominOnionFree = {
   id: "019f322c-aa96-789c-9914-8c440c417389",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-outback-steakhouse-buy-any-entree-get-a-bloomin-onion-free",
   title: "Outback Steakhouse — Buy Any Entree, Get a Bloomin' Onion FREE!",
   collection: "location-collection/starving-student-card",

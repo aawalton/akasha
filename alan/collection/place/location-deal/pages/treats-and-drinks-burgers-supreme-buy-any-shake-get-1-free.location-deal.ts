@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksBurgersSupremeBuyAnyShakeGet1Free = {
   id: "019f322c-b0d1-7265-b095-0b1517a7a817",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-burgers-supreme-buy-any-shake-get-1-free",
   title: "Burgers Supreme — Buy Any Shake, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

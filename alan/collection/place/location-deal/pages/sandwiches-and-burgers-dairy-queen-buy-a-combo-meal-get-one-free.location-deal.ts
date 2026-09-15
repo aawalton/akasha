@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersDairyQueenBuyAComboMealGetOneFree = {
   id: "019f322c-adbc-7719-965b-87080d77ad32",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-dairy-queen-buy-a-combo-meal-get-one-free",
   title: "Dairy Queen — Buy a Combo Meal, Get One FREE!",
   collection: "location-collection/starving-student-card",

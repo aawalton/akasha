@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersJerseyMikesBuy1RegSubGetARegSubFree = {
   id: "019f322c-afa3-7c63-b882-bf7bb3223ce7",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-jersey-mikes-buy-1-reg-sub-get-a-reg-sub-free",
   title: "Jersey Mikes — Buy 1 Reg. Sub, Get a Reg. Sub FREE!",
   collection: "location-collection/starving-student-card",

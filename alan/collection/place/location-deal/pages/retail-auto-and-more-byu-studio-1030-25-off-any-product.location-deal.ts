@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreByuStudio103025OffAnyProduct = {
   id: "019f322c-ab97-794d-9b54-397062d8ba6a",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-byu-studio-1030-25-off-any-product",
   title: "BYU Studio 1030 — 25% OFF! Any Product!",
   collection: "location-collection/starving-student-card",

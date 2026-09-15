@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersGandolfos241BreakfastSandwich = {
   id: "019f322c-ae20-7e59-911e-452e022e62da",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-gandolfos-2-4-1-breakfast-sandwich",
   title: "Gandolfo's — 2-4-1! Breakfast Sandwich!",
   collection: "location-collection/starving-student-card",

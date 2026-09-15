@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksCravingsAlishasCupcakes241UnicornFloat = {
   id: "019f322c-b0eb-73da-a5e5-278f87b9e7a0",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-cravings-alishas-cupcakes-2-4-1-unicorn-float",
   title: "Cravings Alisha's Cupcakes — 2-4-1! Unicorn Float!",
   collection: "location-collection/starving-student-card",

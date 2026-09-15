@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsGaneshIndianCuisineBuy1DinnerEntrEGet150Off = {
   id: "019f322c-a900-7508-9947-1c537dad0d77",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-ganesh-indian-cuisine-buy-1-dinner-entr-e-get-1-50-off",
   title: "Ganesh Indian Cuisine — Buy 1 Dinner Entrée, Get 1 50% OFF!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreGOATHaircuts10OffAnyMensHaircut = {
   id: "019f322c-abca-7137-bcad-3c80dc17c440",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-g-o-a-t-haircuts-10-off-any-mens-haircut",
   title: "G.O.A.T Haircuts — $10 OFF! Any Men's Haircut!",
   collection: "location-collection/starving-student-card",

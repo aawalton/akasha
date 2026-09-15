@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsHungryHawaiian241Entree = {
   id: "019f322c-a980-73b7-9752-cdc8bbcde080",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-hungry-hawaiian-2-4-1-entree",
   title: "Hungry Hawaiian — 2-4-1! Entree!",
   collection: "location-collection/starving-student-card",

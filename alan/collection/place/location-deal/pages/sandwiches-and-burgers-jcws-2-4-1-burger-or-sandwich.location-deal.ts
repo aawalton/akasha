@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersJcws241BurgerOrSandwich = {
   id: "019f322c-af60-7194-853c-43f62937a4f7",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-jcws-2-4-1-burger-or-sandwich",
   title: "JCW's — 2-4-1! Burger or Sandwich!",
   collection: "location-collection/starving-student-card",

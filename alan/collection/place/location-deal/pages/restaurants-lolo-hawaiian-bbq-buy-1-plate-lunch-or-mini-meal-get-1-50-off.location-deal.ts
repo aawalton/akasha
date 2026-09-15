@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsLoloHawaiianBbqBuy1PlateLunchOrMiniMealGet150Off = {
   id: "019f322c-aa34-778d-ba31-8cf5410ccdaa",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-lolo-hawaiian-bbq-buy-1-plate-lunch-or-mini-meal-get-1-50-off",
   title: "LoLo Hawaiian BBQ — Buy 1 Plate Lunch or Mini Meal, Get 1 50% OFF!",
   collection: "location-collection/starving-student-card",

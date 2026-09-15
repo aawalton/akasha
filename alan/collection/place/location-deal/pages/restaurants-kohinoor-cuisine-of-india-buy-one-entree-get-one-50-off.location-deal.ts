@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsKohinoorCuisineOfIndiaBuyOneEntreeGetOne50Off = {
   id: "019f322c-a9d6-7b55-8909-ab56f0e05d0d",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-kohinoor-cuisine-of-india-buy-one-entree-get-one-50-off",
   title: "Kohinoor Cuisine of India — Buy One Entree, Get One 50% OFF!",
   collection: "location-collection/starving-student-card",

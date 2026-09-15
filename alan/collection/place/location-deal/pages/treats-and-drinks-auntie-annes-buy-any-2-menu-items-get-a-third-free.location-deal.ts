@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksAuntieAnnesBuyAny2MenuItemsGetAThirdFree = {
   id: "019f322c-b08b-73f2-9395-7dc4a459ad73",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-auntie-annes-buy-any-2-menu-items-get-a-third-free",
   title: "Auntie Anne's — Buy Any 2 Menu Items, Get a Third FREE!",
   collection: "location-collection/starving-student-card",

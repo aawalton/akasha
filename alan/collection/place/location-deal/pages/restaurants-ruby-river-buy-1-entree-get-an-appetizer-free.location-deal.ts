@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsRubyRiverBuy1EntreeGetAnAppetizerFree = {
   id: "019f322c-aaf7-7f99-b88d-71b9c25eb097",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-ruby-river-buy-1-entree-get-an-appetizer-free",
   title: "Ruby River — Buy 1 Entree, Get an Appetizer FREE!",
   collection: "location-collection/starving-student-card",

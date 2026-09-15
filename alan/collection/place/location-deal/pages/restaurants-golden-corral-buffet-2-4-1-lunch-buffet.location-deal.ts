@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsGoldenCorralBuffet241LunchBuffet = {
   id: "019f322c-a90e-7404-8f71-40e41c9d5938",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-golden-corral-buffet-2-4-1-lunch-buffet",
   title: "Golden Corral Buffet — 2-4-1! Lunch Buffet!",
   collection: "location-collection/starving-student-card",

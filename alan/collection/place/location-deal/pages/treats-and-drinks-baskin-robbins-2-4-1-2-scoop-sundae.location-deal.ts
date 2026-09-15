@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksBaskinRobbins2412ScoopSundae = {
   id: "019f322c-b098-7dcb-b489-9fb6c185a58f",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-baskin-robbins-2-4-1-2-scoop-sundae",
   title: "Baskin Robbins — 2-4-1! 2-Scoop Sundae!",
   collection: "location-collection/starving-student-card",

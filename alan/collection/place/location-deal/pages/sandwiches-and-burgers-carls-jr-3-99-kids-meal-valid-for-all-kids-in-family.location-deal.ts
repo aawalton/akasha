@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const sandwichesAndBurgersCarlsJr399KidsMealValidForAllKidsInFamily = {
   id: "019f322c-ad51-7df8-9a0e-42e071bf5869",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "sandwiches-and-burgers-carls-jr-3-99-kids-meal-valid-for-all-kids-in-family",
   title: "Carl's Jr — $3.99 Kids meal! Valid for All Kids in Family!",
   collection: "location-collection/starving-student-card",

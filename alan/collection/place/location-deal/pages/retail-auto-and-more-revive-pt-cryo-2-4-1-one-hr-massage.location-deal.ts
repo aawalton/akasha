@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const retailAutoAndMoreRevivePtCryo241OneHrMassage = {
   id: "019f322c-ac94-77ab-a0ce-bc9d097ac009",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "retail-auto-and-more-revive-pt-cryo-2-4-1-one-hr-massage",
   title: "Revive PT Cryo — 2-4-1! One Hr Massage!",
   collection: "location-collection/starving-student-card",

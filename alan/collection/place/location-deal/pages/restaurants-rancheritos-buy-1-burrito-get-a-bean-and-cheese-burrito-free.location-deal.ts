@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsRancheritosBuy1BurritoGetABeanAndCheeseBurritoFree = {
   id: "019f322c-aaa5-765e-ba36-75a417fe4d31",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-rancheritos-buy-1-burrito-get-a-bean-and-cheese-burrito-free",
   title: "Rancherito's — Buy 1 Burrito, Get a Bean and Cheese Burrito FREE!",
   collection: "location-collection/starving-student-card",

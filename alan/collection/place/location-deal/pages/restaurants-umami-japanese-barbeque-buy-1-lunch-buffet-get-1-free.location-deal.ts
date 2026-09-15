@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsUmamiJapaneseBarbequeBuy1LunchBuffetGet1Free = {
   id: "019f322c-ab70-7ebe-8923-ee8d1c75f7a2",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-umami-japanese-barbeque-buy-1-lunch-buffet-get-1-free",
   title: "Umami Japanese Barbeque — Buy 1 Lunch Buffet, Get 1 FREE!",
   collection: "location-collection/starving-student-card",
