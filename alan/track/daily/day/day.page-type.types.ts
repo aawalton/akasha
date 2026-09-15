@@ -37,7 +37,7 @@ import type { NutritionPoints } from "akasha/alan/track/daily/day/properties/nut
 import type { PersonaMessages } from "akasha/alan/track/daily/day/properties/persona-messages.record-property.types.ts"
 import type { ProjectHours } from "akasha/alan/track/daily/day/properties/project-hours.computed-property.types.ts"
 import type { SafetyLevel } from "akasha/alan/track/daily/day/properties/safety-level.text-property.types.ts"
-import type { Sessions } from "akasha/alan/track/daily/day/properties/sessions.page-property-entry.types.ts"
+import type { Sessions } from "akasha/alan/track/daily/day/properties/sessions/sessions.page-property-entry.types.ts"
 import type { SleepHours } from "akasha/alan/track/daily/day/properties/sleep-hours.computed-property.types.ts"
 import type { SleepPoints } from "akasha/alan/track/daily/day/properties/sleep-points.number-property.types.ts"
 import type { SpendHours } from "akasha/alan/track/daily/day/properties/spend-hours.computed-property.types.ts"
