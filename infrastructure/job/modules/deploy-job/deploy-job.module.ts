@@ -55,6 +55,14 @@ export const deployJob = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "The deploy a job carries runs under no ceiling of the command's own.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A job bounds the deploy it carries, and nothing inside that deploy does.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "The memory a landing starts on is read from the pod rather than the workstation.",
     },
     {

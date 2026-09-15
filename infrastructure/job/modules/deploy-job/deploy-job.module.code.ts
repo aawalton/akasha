@@ -1,4 +1,5 @@
 import { HOLD } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
+import { measured } from "akasha/command/argument/pages/measured.argument.ts"
 import { ref } from "akasha/command/argument/pages/ref.argument.ts"
 import { deploy } from "akasha/command/pages/deploy/deploy.command.ts"
 import {
@@ -52,6 +53,8 @@ const HELD = "held"
 
 const KEPT_SECONDS = 3600
 
+const DEADLINE_SECONDS = 3600
+
 const MODULE = "module"
 
 const CODE = "code"
@@ -89,7 +92,7 @@ export function scriptFor(
     "git checkout -q FETCH_HEAD",
     "bun install --frozen-lockfile",
     `bun ${buildingIn(given)}`,
-    `bun ${dispatcherIn(given)} ${deploy.name} ${subject} ${ref.said} ${commit}`,
+    `bun ${dispatcherIn(given)} ${deploy.name} ${subject} ${ref.said} ${commit} ${measured.said}`,
   ].join("\n")
 }
 
@@ -105,6 +108,7 @@ export function jobFor(
     metadata: { name: jobNameFor(subject, commit), namespace: NAMESPACE },
     spec: {
       backoffLimit: 0,
+      activeDeadlineSeconds: DEADLINE_SECONDS,
       ttlSecondsAfterFinished: KEPT_SECONDS,
       template: {
         spec: {

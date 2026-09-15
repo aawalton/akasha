@@ -74,6 +74,14 @@ test("a job that failed is not run again by the cluster", () => {
   expect(jobYamlFor(ROOT, SUBJECT, COMMIT, null)).toContain("backoffLimit: 0")
 })
 
+test("the deploy a job carries runs under no ceiling of the command's own", () => {
+  expect(scriptFor(ROOT, SUBJECT, COMMIT, null)).toContain("--measured")
+})
+
+test("a job bounds the deploy it carries", () => {
+  expect(jobYamlFor(ROOT, SUBJECT, COMMIT, null)).toContain("activeDeadlineSeconds")
+})
+
 test("the memory a landing starts on is read from the pod", () => {
   expect(jobYamlFor(ROOT, SUBJECT, COMMIT, null)).toContain("LANDING_MIN_FREE_MEMORY_GB")
 })
