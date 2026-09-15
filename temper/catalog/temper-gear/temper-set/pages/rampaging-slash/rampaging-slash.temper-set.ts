@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const rampagingSlash = {
   id: "019e6484-5fd2-78c7-84d7-27bb6ca4c102",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "rampaging-slash",
   title: "Rampaging Slash",
   key: "rampaging-slash",

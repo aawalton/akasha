@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const songOfLamae = {
   id: "019e668e-9a65-7f1b-9352-4266928a57ff",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "song-of-lamae",
   title: "Song of Lamae",
   key: "song-of-lamae",

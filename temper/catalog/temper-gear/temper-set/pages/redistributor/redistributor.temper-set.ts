@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const redistributor = {
   id: "019e668e-9a5e-7f24-beba-944d62bfc8b4",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "redistributor",
   title: "Redistributor",
   key: "redistributor",

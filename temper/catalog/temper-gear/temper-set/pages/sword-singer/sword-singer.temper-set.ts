@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const swordSinger = {
   id: "019e66e7-6a97-7d21-9698-6f99a08a58fb",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "sword-singer",
   title: "Sword-Singer",
   key: "sword-singer",

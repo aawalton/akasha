@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const sergeantsMail = {
   id: "019e66e6-a0c0-72a3-82d6-fa3100a51eaf",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "sergeants-mail",
   title: "Sergeant's Mail",
   key: "sergeants-mail",

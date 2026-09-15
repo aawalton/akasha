@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const theIceFurnace = {
   id: "019e66e6-a0d3-792c-8798-50e00df7dd30",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "the-ice-furnace",
   title: "The Ice Furnace",
   key: "the-ice-furnace",

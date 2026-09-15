@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedRadialUppercut = {
   id: "019e6484-5fc4-7b10-bb06-b1c412626649",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-radial-uppercut",
   title: "Perfected Radial Uppercut",
   key: "perfected-radial-uppercut",

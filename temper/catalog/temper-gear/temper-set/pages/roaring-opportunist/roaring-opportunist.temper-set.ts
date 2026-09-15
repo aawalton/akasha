@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const roaringOpportunist = {
   id: "019e66ec-7e38-7ff9-aea7-27b17c6ffc59",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "roaring-opportunist",
   title: "Roaring Opportunist",
   key: "roaring-opportunist",

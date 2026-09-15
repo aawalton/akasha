@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const shatteredFate = {
   id: "019e668e-9a64-7254-9bd8-aec8a4da5280",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "shattered-fate",
   title: "Shattered Fate",
   key: "shattered-fate",

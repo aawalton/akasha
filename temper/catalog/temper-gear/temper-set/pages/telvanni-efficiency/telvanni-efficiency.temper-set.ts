@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const telvanniEfficiency = {
   id: "019e668e-9a6a-7a60-bde8-a7289b9c8473",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "telvanni-efficiency",
   title: "Telvanni Efficiency",
   key: "telvanni-efficiency",

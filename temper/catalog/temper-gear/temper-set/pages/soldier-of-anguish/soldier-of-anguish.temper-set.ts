@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const soldierOfAnguish = {
   id: "019e66ec-7939-75d0-aeac-0b692503ac4a",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "soldier-of-anguish",
   title: "Soldier of Anguish",
   key: "soldier-of-anguish",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const shroudOfTheLich = {
   id: "019e66e6-a0c2-7579-8327-b7e4f131c8b8",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "shroud-of-the-lich",
   title: "Shroud of the Lich",
   key: "shroud-of-the-lich",

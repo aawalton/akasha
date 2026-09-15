@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedTitanicCleave = {
   id: "019e6484-5fc8-7e8c-8883-1072d1e9b733",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-titanic-cleave",
   title: "Perfected Titanic Cleave",
   key: "perfected-titanic-cleave",

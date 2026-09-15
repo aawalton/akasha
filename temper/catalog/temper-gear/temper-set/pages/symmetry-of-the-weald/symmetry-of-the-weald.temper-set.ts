@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const symmetryOfTheWeald = {
   id: "019e66e7-6a99-7174-bd3c-5c1808fe4e3d",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "symmetry-of-the-weald",
   title: "Symmetry of the Weald",
   key: "symmetry-of-the-weald",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const reawakenedHierophant = {
   id: "019e6484-5fe6-715e-9531-3de0eb49dcb8",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "reawakened-hierophant",
   title: "Reawakened Hierophant",
   key: "reawakened-hierophant",

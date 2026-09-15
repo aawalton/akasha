@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const robesOfTheWitheredHand = {
   id: "019e66e7-6a80-7f9c-ba84-362951dffef2",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "robes-of-the-withered-hand",
   title: "Robes of the Withered Hand",
   key: "robes-of-the-withered-hand",

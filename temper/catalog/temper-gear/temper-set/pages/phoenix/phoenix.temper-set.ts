@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const phoenix = {
   id: "019e66ec-785d-740d-a4d5-46584fdd03cb",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "phoenix",
   title: "Phoenix",
   key: "phoenix",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const ritemastersBond = {
   id: "019e66e6-a0b7-76d9-b203-e068a1eb7065",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "ritemasters-bond",
   title: "Ritemaster's Bond",
   key: "ritemasters-bond",

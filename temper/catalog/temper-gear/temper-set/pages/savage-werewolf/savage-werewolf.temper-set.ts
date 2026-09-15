@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const savageWerewolf = {
   id: "019e66e6-a0bb-7e39-84b0-d65b08178fe1",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "savage-werewolf",
   title: "Savage Werewolf",
   key: "savage-werewolf",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const seaSerpentsCoil = {
   id: "019e6484-6037-7526-995c-d67f3cf3bc1a",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "sea-serpents-coil",
   title: "Sea-Serpent's Coil",
   key: "sea-serpents-coil",

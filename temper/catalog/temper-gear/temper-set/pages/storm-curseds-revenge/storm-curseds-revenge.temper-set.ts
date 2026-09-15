@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const stormCursedsRevenge = {
   id: "019e66e6-a0ca-7de4-8196-4a35b2002c33",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "storm-curseds-revenge",
   title: "Storm-Cursed's Revenge",
   key: "storm-curseds-revenge",

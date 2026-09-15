@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const spatteringDisjunction = {
   id: "019e6484-5fe8-79a4-818e-81e9de3dfca4",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "spattering-disjunction",
   title: "Spattering Disjunction",
   key: "spattering-disjunction",

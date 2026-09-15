@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const shellSplitter = {
   id: "019e66ec-78f2-7a1c-ad7b-d38c565e7436",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "shell-splitter",
   title: "Shell Splitter",
   key: "shell-splitter",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const spellStrategist = {
   id: "019e66ec-7946-7c36-a19a-cbde43c47c67",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "spell-strategist",
   title: "Spell Strategist",
   key: "spell-strategist",

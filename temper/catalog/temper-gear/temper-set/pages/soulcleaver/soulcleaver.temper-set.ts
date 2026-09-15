@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const soulcleaver = {
   id: "019e6484-5fe7-76bd-ab8e-51aacf69d0cd",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "soulcleaver",
   title: "Soulcleaver",
   key: "soulcleaver",

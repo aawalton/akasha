@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const powerfulAssault = {
   id: "019e66ec-7877-7535-85fb-52bd0274a2be",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "powerful-assault",
   title: "Powerful Assault",
   key: "powerful-assault",

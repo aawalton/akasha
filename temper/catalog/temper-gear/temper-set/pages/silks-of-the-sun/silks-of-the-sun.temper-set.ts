@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const silksOfTheSun = {
   id: "019e66e7-6a8a-7ab7-bbc0-409d33b90761",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "silks-of-the-sun",
   title: "Silks of the Sun",
   key: "silks-of-the-sun",

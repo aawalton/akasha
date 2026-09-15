@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const shieldBreaker = {
   id: "019e66ec-7900-7679-bda1-f878b25f38bb",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "shield-breaker",
   title: "Shield Breaker",
   key: "shield-breaker",

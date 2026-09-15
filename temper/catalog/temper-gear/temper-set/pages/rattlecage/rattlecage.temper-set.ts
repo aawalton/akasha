@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const rattlecage = {
   id: "019e66e6-a0b4-71f8-9be4-c9dc54f1dbb0",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "rattlecage",
   title: "Rattlecage",
   key: "rattlecage",

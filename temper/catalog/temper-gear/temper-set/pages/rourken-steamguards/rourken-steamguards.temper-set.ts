@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const rourkenSteamguards = {
   id: "019e6484-6036-76a2-b352-52d58b516e8a",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "rourken-steamguards",
   title: "Rourken Steamguards",
   key: "rourken-steamguards",

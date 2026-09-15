@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const spinnersGarments = {
   id: "019e66e7-6a8f-7625-96d2-7cc691284ccc",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "spinners-garments",
   title: "Spinner's Garments",
   key: "spinners-garments",

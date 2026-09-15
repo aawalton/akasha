@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const scourgeHarvester = {
   id: "019e6484-6012-7cbf-a3d0-7329da41c373",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "scourge-harvester",
   title: "Scourge Harvester",
   key: "scourge-harvester",

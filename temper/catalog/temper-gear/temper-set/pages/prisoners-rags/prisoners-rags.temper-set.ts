@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const prisonersRags = {
   id: "019e66e7-6a7b-703e-9f22-6987d030e05e",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "prisoners-rags",
   title: "Prisoner's Rags",
   key: "prisoners-rags",

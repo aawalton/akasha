@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const roarOfAlkosh = {
   id: "019e66ec-7e2a-7386-9825-7996114c9bb3",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "roar-of-alkosh",
   title: "Roar of Alkosh",
   key: "roar-of-alkosh",

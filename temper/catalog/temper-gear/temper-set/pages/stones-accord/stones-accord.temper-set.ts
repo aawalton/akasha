@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const stonesAccord = {
   id: "019e66e6-a0c9-7c6d-8936-5c57d3de3f24",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "stones-accord",
   title: "Stone's Accord",
   key: "stones-accord",

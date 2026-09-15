@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const shadowOfTheRedMountain = {
   id: "019e66e7-6a88-7480-bd52-9f7eb52f6a56",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "shadow-of-the-red-mountain",
   title: "Shadow of the Red Mountain",
   key: "shadow-of-the-red-mountain",

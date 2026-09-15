@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedWrathOfElements = {
   id: "019e6484-5fcc-760e-92f3-1d4a3b92749f",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-wrath-of-elements",
   title: "Perfected Wrath of Elements",
   key: "perfected-wrath-of-elements",

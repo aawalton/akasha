@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const stendarrsEmbrace = {
   id: "019e66e7-6a92-7ff0-a3e5-71fd3ad9d72d",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "stendarrs-embrace",
   title: "Stendarr's Embrace",
   key: "stendarrs-embrace",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const rushOfAgony = {
   id: "019e66e6-a0b9-78db-b4f9-b85088c59410",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "rush-of-agony",
   title: "Rush of Agony",
   key: "rush-of-agony",

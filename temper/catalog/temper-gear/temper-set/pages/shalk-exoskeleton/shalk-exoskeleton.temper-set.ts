@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const shalkExoskeleton = {
   id: "019e66e7-6a89-77c5-a272-6b270c3899b5",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "shalk-exoskeleton",
   title: "Shalk Exoskeleton",
   key: "shalk-exoskeleton",

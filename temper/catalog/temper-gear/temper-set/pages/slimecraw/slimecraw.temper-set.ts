@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const slimecraw = {
   id: "019e6484-6017-776b-90d1-aba01af078e1",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "slimecraw",
   title: "Slimecraw",
   key: "slimecraw",

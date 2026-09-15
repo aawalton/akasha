@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const scorionsFeast = {
   id: "019e66e6-a0bf-70ea-af44-fe1ab7fd0a83",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "scorions-feast",
   title: "Scorion's Feast",
   key: "scorions-feast",

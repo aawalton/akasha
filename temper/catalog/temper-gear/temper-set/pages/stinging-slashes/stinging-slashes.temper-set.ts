@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const stingingSlashes = {
   id: "019e6484-5fd5-75d6-b949-b347d26d5ff6",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "stinging-slashes",
   title: "Stinging Slashes",
   key: "stinging-slashes",

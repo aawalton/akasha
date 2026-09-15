@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const sellistrix = {
   id: "019e6484-6014-79e0-91fd-043beb02a7e2",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "sellistrix",
   title: "Sellistrix",
   key: "sellistrix",

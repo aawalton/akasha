@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const selene = {
   id: "019e6484-6013-7b64-9cdc-76a602968d5f",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "selene",
   title: "Selene",
   key: "selene",

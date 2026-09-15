@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const syvarrasScales = {
   id: "019e66e7-6a9d-710d-966e-c48574701466",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "syvarras-scales",
   title: "Syvarra's Scales",
   key: "syvarras-scales",

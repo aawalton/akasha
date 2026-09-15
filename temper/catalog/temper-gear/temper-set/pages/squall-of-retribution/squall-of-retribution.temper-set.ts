@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const squallOfRetribution = {
   id: "019e66e7-6a20-7465-8cba-8ffaf70b87f0",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "squall-of-retribution",
   title: "Squall of Retribution",
   key: "squall-of-retribution",

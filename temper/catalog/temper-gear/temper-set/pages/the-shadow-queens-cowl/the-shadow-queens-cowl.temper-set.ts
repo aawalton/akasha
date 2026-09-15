@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const theShadowQueensCowl = {
   id: "019e6484-603e-7edf-ad1e-77078ad38917",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "the-shadow-queens-cowl",
   title: "The Shadow Queen's Cowl",
   key: "the-shadow-queens-cowl",

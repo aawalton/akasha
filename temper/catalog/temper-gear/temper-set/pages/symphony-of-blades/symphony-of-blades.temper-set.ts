@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const symphonyOfBlades = {
   id: "019e6484-601d-71b7-949b-7e0780f2fae9",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "symphony-of-blades",
   title: "Symphony of Blades",
   key: "symphony-of-blades",

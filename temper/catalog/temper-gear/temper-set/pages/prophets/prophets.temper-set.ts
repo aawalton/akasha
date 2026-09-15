@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const prophets = {
   id: "019e6484-604c-7134-aae2-1ff64635300d",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "prophets",
   title: "Prophet's",
   key: "prophets",

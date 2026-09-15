@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const tavasFavor = {
   id: "019e668e-9a69-7bb9-bb95-82450fde090f",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "tavas-favor",
   title: "Tava's Favor",
   key: "tavas-favor",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const shacklebreaker = {
   id: "019e668e-9a62-76a1-8965-fcbae17e0805",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "shacklebreaker",
   title: "Shacklebreaker",
   key: "shacklebreaker",

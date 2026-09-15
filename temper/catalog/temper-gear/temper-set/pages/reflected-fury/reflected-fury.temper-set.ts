@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const reflectedFury = {
   id: "019e66e6-a0b5-729b-8e76-87488c2141f9",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "reflected-fury",
   title: "Reflected Fury",
   key: "reflected-fury",

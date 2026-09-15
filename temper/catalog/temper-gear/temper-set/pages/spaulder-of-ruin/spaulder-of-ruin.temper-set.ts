@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const spaulderOfRuin = {
   id: "019e6484-603a-72f3-811b-8e500643bc62",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "spaulder-of-ruin",
   title: "Spaulder of Ruin",
   key: "spaulder-of-ruin",

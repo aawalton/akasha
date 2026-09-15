@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedStoneTalkersOath = {
   id: "019e66ec-7d49-7d79-bd6a-3622410cebdd",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-stone-talkers-oath",
   title: "Perfected Stone-Talker's Oath",
   key: "perfected-stone-talkers-oath",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const scathingMage = {
   id: "019e66e6-a0bc-7f4f-b296-9fbda438d9aa",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "scathing-mage",
   title: "Scathing Mage",
   key: "scathing-mage",

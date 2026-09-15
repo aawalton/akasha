@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const seekerSynthesis = {
   id: "019e668e-9a5f-7c09-8ed4-c516626f0923",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "seeker-synthesis",
   title: "Seeker Synthesis",
   key: "seeker-synthesis",

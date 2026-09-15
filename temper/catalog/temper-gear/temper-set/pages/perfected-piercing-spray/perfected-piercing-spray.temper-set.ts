@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedPiercingSpray = {
   id: "019e66ec-7d00-74a8-8fd3-7cdf38792ba0",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-piercing-spray",
   title: "Perfected Piercing Spray",
   key: "perfected-piercing-spray",

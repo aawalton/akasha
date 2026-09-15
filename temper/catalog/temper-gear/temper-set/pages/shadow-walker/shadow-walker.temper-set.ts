@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const shadowWalker = {
   id: "019e66ec-78d7-72fd-8318-6c4500895be1",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "shadow-walker",
   title: "Shadow Walker",
   key: "shadow-walker",

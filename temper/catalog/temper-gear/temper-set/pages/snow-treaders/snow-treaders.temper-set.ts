@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const snowTreaders = {
   id: "019e6484-6039-7275-85f1-2bca337b1477",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "snow-treaders",
   title: "Snow Treaders",
   key: "snow-treaders",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const rallyingCry = {
   id: "019e66ec-7884-74c9-b7ee-06071ca0fe34",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "rallying-cry",
   title: "Rallying Cry",
   key: "rallying-cry",

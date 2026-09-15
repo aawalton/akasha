@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const sanctuary = {
   id: "019e66e6-a0ba-7ca6-80d6-b42b654424df",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "sanctuary",
   title: "Sanctuary",
   key: "sanctuary",

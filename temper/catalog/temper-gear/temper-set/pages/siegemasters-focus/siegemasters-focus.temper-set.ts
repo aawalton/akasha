@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const siegemastersFocus = {
   id: "019e66ec-791d-729e-ac11-d892f1e96511",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "siegemasters-focus",
   title: "Siegemaster's Focus",
   key: "siegemasters-focus",

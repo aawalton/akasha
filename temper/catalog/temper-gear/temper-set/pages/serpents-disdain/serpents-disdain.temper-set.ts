@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const serpentsDisdain = {
   id: "019e668e-9a61-78a0-8943-d12011640a2c",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "serpents-disdain",
   title: "Serpent's Disdain",
   key: "serpents-disdain",

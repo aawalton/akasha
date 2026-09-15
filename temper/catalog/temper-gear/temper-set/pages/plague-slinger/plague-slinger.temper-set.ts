@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const plagueSlinger = {
   id: "019e66e6-a0b0-742d-9af9-a2ac3843ee7d",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "plague-slinger",
   title: "Plague Slinger",
   key: "plague-slinger",

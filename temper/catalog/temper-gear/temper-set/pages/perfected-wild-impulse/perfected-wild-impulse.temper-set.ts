@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedWildImpulse = {
   id: "019e6484-5fcb-78cb-a56a-f87cf46d72c2",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-wild-impulse",
   title: "Perfected Wild Impulse",
   key: "perfected-wild-impulse",

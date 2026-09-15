@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedSaxhleelChampion = {
   id: "019e66ec-7d2b-7a27-9250-6ca86e5c1760",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-saxhleel-champion",
   title: "Perfected Saxhleel Champion",
   key: "perfected-saxhleel-champion",

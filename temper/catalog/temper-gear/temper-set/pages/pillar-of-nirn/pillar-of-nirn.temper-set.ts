@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const pillarOfNirn = {
   id: "019e66e6-a0af-731f-97bc-65da8a8f3c43",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "pillar-of-nirn",
   title: "Pillar of Nirn",
   key: "pillar-of-nirn",

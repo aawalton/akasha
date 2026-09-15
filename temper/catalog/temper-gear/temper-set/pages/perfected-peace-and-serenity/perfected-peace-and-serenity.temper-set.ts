@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedPeaceAndSerenity = {
   id: "019e66ec-7ce3-7679-9f99-9039ed6a3861",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-peace-and-serenity",
   title: "Perfected Peace and Serenity",
   key: "perfected-peace-and-serenity",

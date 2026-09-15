@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const stonekeeper = {
   id: "019e6484-601a-741b-b115-c0a65f331f96",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "stonekeeper",
   title: "Stonekeeper",
   key: "stonekeeper",

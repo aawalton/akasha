@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const shalidorsCurse = {
   id: "019e668e-9a63-73da-bbf2-7a242178937a",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "shalidors-curse",
   title: "Shalidor's Curse",
   key: "shalidors-curse",

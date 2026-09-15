@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const pestilentHost = {
   id: "019e6484-5fce-7134-abc8-d125771447ae",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "pestilent-host",
   title: "Pestilent Host",
   key: "pestilent-host",

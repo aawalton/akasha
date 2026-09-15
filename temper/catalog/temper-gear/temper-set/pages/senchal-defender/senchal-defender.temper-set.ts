@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const senchalDefender = {
   id: "019e66e7-6a83-76a4-b36a-c71c254c02e7",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "senchal-defender",
   title: "Senchal Defender",
   key: "senchal-defender",

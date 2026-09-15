@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const rageOfTheUrsauk = {
   id: "019e66e6-a0b3-7090-9c84-4736a909e410",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "rage-of-the-ursauk",
   title: "Rage of the Ursauk",
   key: "rage-of-the-ursauk",

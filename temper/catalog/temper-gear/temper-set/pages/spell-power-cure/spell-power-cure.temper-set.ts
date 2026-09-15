@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const spellPowerCure = {
   id: "019e66e6-a0c5-78d4-b3b7-3be827a65f27",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "spell-power-cure",
   title: "Spell Power Cure",
   key: "spell-power-cure",

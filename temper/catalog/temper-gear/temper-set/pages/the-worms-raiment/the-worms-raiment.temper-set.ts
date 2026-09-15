@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const theWormsRaiment = {
   id: "019e66e6-a0d4-7a5a-adfe-c995ce7145e1",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "the-worms-raiment",
   title: "The Worm's Raiment",
   key: "the-worms-raiment",

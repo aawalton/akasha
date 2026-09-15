@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const snakeInTheStars = {
   id: "019e66ec-792b-7482-9705-8ec49568aa0c",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "snake-in-the-stars",
   title: "Snake in the Stars",
   key: "snake-in-the-stars",

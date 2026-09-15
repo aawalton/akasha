@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const robesOfDestructionMastery = {
   id: "019e6484-5fd3-7704-bf1b-875b00055bd7",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "robes-of-destruction-mastery",
   title: "Robes of Destruction Mastery",
   key: "robes-of-destruction-mastery",

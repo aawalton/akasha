@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const swarmMother = {
   id: "019e6484-601c-71ec-9044-25babff6b440",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "swarm-mother",
   title: "Swarm Mother",
   key: "swarm-mother",

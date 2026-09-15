@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const soulshine = {
   id: "019e66e7-6a8e-73c4-ad95-063959555e28",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "soulshine",
   title: "Soulshine",
   key: "soulshine",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const stormfist = {
   id: "019e6484-601b-7339-ae53-03e22f3a2469",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "stormfist",
   title: "Stormfist",
   key: "stormfist",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const senchesBite = {
   id: "019e66e7-6a84-7a17-8997-cd3a95c7f098",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "senches-bite",
   title: "Senche's Bite",
   key: "senches-bite",

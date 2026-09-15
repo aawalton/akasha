@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const renaldsResolve = {
   id: "019e66e6-a0b6-7433-b8b0-94ed07600eeb",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "renalds-resolve",
   title: "Renald's Resolve",
   key: "renalds-resolve",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const sharedPain = {
   id: "019e66ec-78e4-7862-ba58-c21ff718831f",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "shared-pain",
   title: "Shared Pain",
   key: "shared-pain",

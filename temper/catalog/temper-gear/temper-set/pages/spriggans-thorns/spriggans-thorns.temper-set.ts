@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const spriggansThorns = {
   id: "019e66e7-6a90-792c-97d5-d5a683132261",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "spriggans-thorns",
   title: "Spriggan's Thorns",
   key: "spriggans-thorns",

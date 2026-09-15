@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const steadfastHero = {
   id: "019e66ec-7954-7143-9f5a-5f10b572d4e3",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "steadfast-hero",
   title: "Steadfast Hero",
   key: "steadfast-hero",

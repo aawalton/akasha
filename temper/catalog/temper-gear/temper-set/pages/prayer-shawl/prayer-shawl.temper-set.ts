@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const prayerShawl = {
   id: "019e66e6-a0b1-7c3b-8884-490d4383b136",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "prayer-shawl",
   title: "Prayer Shawl",
   key: "prayer-shawl",

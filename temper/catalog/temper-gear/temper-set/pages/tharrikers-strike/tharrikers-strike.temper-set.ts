@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const tharrikersStrike = {
   id: "019e668e-9a6b-78e1-b9fe-5f24c50aec4b",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "tharrikers-strike",
   title: "Tharriker's Strike",
   key: "tharrikers-strike",

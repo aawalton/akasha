@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const rangersGait = {
   id: "019e66e7-6a7e-792a-8c2e-b42d51aff518",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "rangers-gait",
   title: "Ranger's Gait",
   key: "rangers-gait",
