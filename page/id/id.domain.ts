@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const id = {
   id: "01a05c48-deeb-7011-83b1-73490aa9b3ca",
-  type: "domain",
+  type: "page-type/domain",
   slug: "id",
   definition: "how a fresh identifier is made",
   parts: ["module/random-id", "module/uuid-version-7"],

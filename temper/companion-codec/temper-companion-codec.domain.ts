@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperCompanionCodec = {
   id: "01a062e7-4dda-7f1d-8fd9-fe2d9062ea42",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-companion-codec",
   definition:
     "packing a companion build into text and reading one back at whichever update wrote it",

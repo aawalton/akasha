@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperErrorsTriage = {
   id: "01a060cd-564e-7685-8e5f-1bf87cbf4467",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-errors-triage",
   definition: "how an error the game reported is judged",
   parts: [

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const infrastructureCommand = {
   id: "01a06809-a024-78cb-a37f-ff53624d76bd",
-  type: "domain",
+  type: "page-type/domain",
   slug: "infrastructure-command",
   definition: "what an agent runs by name over what the system runs on",
   parts: [],

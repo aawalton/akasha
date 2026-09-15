@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const pageCommand = {
   id: "01a06812-3ce8-79c7-b7c0-ca183f330ca5",
-  type: "domain",
+  type: "page-type/domain",
   slug: "page-command",
   definition: "what an agent runs by name over the pages themselves",
   parts: ["module/icon-index-rendering", "module/page-secret-acting"],

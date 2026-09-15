@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const pageUiSupabase = {
   id: "01a071d1-ee27-7b2f-8b21-963e117f2e00",
-  type: "domain",
+  type: "page-type/domain",
   slug: "page-ui-supabase",
   definition: "the store reached over Supabase",
   parts: [

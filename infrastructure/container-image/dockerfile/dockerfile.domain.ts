@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const dockerfile = {
   id: "01a06865-abff-7000-a441-7a4caa49c9d9",
-  type: "domain",
+  type: "page-type/domain",
   slug: "dockerfile",
   definition: "the Dockerfile each service is built from, written from what the service imports",
   parts: [

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const pageStorage = {
   id: "01a06558-53dd-7ac7-8fdc-e45804c712aa",
-  type: "domain",
+  type: "page-type/domain",
   slug: "page-storage",
   definition: "pages kept as files in a git repository",
   invariants: [

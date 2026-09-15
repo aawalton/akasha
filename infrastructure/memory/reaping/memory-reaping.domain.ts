@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const memoryReaping = {
   id: "01a0886f-b428-7780-8b2e-1e374e2ff056",
-  type: "domain",
+  type: "page-type/domain",
   slug: "memory-reaping",
   definition: "a process ended for the memory it takes or the memory its host has left",
   invariants: [

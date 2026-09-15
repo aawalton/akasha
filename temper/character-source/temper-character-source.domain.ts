@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperCharacterSource = {
   id: "01a060ea-ac66-7120-a995-b58614b651f2",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-character-source",
   definition:
     "the effect sources a character build carries beyond its class, race, gear and skills",

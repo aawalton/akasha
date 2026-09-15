@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperItemsCore = {
   id: "01a060bf-747b-7eda-a723-f1700350219d",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-items-core",
   definition: "what an item is, read off what the game hands out about it",
   parts: [

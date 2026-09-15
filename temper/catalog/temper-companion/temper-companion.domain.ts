@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperCompanion = {
   id: "01a05fba-ce3c-7e66-903a-166903fcf181",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-companion",
   definition: "the companions who travel with a character",
   parts: [

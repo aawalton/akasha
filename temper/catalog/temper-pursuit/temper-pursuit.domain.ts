@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperPursuit = {
   id: "01a06153-0ea9-7000-8bea-a58f74ace441",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-pursuit",
   definition: "what the game keeps a tally of a player having sought out",
   parts: [

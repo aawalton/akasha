@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperBuildDeployCheck = {
   id: "01a06287-7841-7e04-b566-2bb1b434877d",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-build-deploy-check",
   definition: "how a game add-on is judged before it is built and shipped",
   parts: [

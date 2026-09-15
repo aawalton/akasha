@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperItemsRulesEval = {
   id: "01a06137-f96e-7a28-9f74-f5d1bea03036",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-items-rules-eval",
   definition:
     "whether a compiled inventory rule matches one item, and where a matching rule sends that item",

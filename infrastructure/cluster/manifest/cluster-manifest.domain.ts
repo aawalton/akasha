@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const clusterManifest = {
   id: "01a06810-1263-7296-86ac-72d2a283e164",
-  type: "domain",
+  type: "page-type/domain",
   slug: "cluster-manifest",
   definition: "the Kubernetes manifests each part of the cluster is applied as",
 

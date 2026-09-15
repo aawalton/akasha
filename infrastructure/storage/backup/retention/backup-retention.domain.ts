@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const backupRetention = {
   id: "01a06863-74df-7622-85ad-e931851aec9d",
-  type: "domain",
+  type: "page-type/domain",
   slug: "backup-retention",
   definition: "what thins the database's backups as the backups age",
 

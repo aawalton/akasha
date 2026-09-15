@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperGameCatalogCaptureHost = {
   id: "01a06084-d418-72e5-b162-3bb5b84f91b3",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-game-catalog-capture-host",
   definition: "the zod schemas reading every game catalog a capture addon saved",
   parts: [

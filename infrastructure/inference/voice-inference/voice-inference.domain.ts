@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const voiceInference = {
   id: "01a06815-9efd-701e-a4d4-a26f49e97554",
-  type: "domain",
+  type: "page-type/domain",
   slug: "voice-inference",
   definition: "speech turned into text and text turned into speech on one card",
   parts: [

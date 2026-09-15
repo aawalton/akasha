@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperCharactersCaptureAddon = {
   id: "01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-characters-capture-addon",
   definition: "what the game answers about the character playing now, read out as a build hash",
   parts: [

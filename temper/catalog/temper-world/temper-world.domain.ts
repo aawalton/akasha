@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperWorld = {
   id: "01a05fba-ce3d-792d-9f9f-937d79f8f4d9",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-world",
   definition: "the places of Tamriel and the people who live in them",
   parts: [

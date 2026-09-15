@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperCatalogCore = {
   id: "01a06071-0c7a-7792-ab3e-69213b5eaf92",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-catalog-core",
   definition: "the shape a capture of the game's reference data takes, and the walk that fills it",
   parts: [

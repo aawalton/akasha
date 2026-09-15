@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const cpu = {
   id: "01a09188-434b-7baf-af6f-d0957f02cb86",
-  type: "domain",
+  type: "page-type/domain",
   slug: "cpu",
   definition: "time on a processor while a program has work to do",
   parts: ["domain/cpu-limit", "page-type/cpu-kind"],

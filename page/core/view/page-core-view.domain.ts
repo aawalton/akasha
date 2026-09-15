@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const pageCoreView = {
   id: "01a071cb-580b-710d-a9ae-c371fe8df6c3",
-  type: "domain",
+  type: "page-type/domain",
   slug: "page-core-view",
   definition: "what a view makes of the rows handed to it",
   parts: [

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const storage = {
   id: "01a0658b-0f02-7644-863a-eb9b17536f55",
-  type: "domain",
+  type: "page-type/domain",
   slug: "storage",
   definition: "where bytes live",
   parts: [

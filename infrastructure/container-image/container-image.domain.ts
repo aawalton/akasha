@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const containerImage = {
   id: "01a0675b-16dc-759d-9b19-cf1118f36276",
-  type: "domain",
+  type: "page-type/domain",
   slug: "container-image",
   definition: "a built copy of everything a program needs to run",
   parts: [

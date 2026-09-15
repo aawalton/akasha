@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const provisioning = {
   id: "01a06861-49aa-7cbb-bded-bbd1af45e1b4",
-  type: "domain",
+  type: "page-type/domain",
   slug: "provisioning",
   definition: "what a machine of Alan's is set up with before it can do work",
   parts: [

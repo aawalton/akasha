@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperAlchemy = {
   id: "01a06076-1b69-7174-a838-dc7b0b111961",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-alchemy",
   definition: "the potions and poisons a character brews from reagents",
   parts: [

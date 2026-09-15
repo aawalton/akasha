@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const emailAction = {
   id: "01a0675b-16e1-7884-8c3c-300e5949ac31",
-  type: "domain",
+  type: "page-type/domain",
   slug: "email-action",
   definition: "something done in response to a piece of mail",
   parts: [

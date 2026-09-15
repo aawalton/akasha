@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const story = {
   id: "01a06d72-54b4-7352-b7db-4c705f35a431",
-  type: "domain",
+  type: "page-type/domain",
   slug: "story",
   definition: "worlds and their stories, kept true to each other",
   parts: [

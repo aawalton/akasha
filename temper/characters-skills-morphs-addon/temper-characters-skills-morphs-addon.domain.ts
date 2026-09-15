@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperCharactersSkillsMorphsAddon = {
   id: "01a062ff-2792-7da8-8bfd-3a48ace9bf53",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-characters-skills-morphs-addon",
   definition:
     "the morphs a character has taken, read from the game and shown on that character's tasks",

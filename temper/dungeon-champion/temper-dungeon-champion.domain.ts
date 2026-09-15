@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperDungeonChampion = {
   id: "01a060f9-bab9-7763-8ceb-8977b0b205de",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-dungeon-champion",
   definition: "the group bosses of the public dungeons and delves of Tamriel, drawn on the map",
   parts: [

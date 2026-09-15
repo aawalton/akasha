@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperItemsRulesCore = {
   id: "01a060d9-44cd-7bbd-88e3-944b7a932e9a",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-items-rules-core",
   definition:
     "the rules saying what becomes of an item and the conditions those rules are written in",

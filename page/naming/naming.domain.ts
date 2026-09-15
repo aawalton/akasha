@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const naming = {
   id: "01a05341-b9a9-7d68-88b3-142e3e3ecd4d",
-  type: "domain",
+  type: "page-type/domain",
   slug: "naming",
   definition: "how one idea's name is chosen",
   parts: ["domain/named-for", "module/folder-named"],

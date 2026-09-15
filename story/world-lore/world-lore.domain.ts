@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const worldLore = {
   id: "01a0673a-bc3a-7004-90d5-e9a0b0103626",
-  type: "domain",
+  type: "page-type/domain",
   slug: "world-lore",
   definition: "what is true in a world that a story has told",
 } as const satisfies Domain

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const memoryLimit = {
   id: "01a09115-8c65-76a6-bdc1-cfddcc4acd88",
-  type: "domain",
+  type: "page-type/domain",
   slug: "memory-limit",
   definition: "the most memory one thing may take, and what happens when it asks for more",
   invariants: [

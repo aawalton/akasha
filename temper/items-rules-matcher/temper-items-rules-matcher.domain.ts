@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperItemsRulesMatcher = {
   id: "01a06151-370e-7f21-be1d-3df9be256684",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-items-rules-matcher",
   definition: "every item the rules affect, found over the captured holdings",
   parts: [

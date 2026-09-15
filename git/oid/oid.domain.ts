@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const oid = {
   id: "01a06815-ceaf-7127-8234-36c9903aec73",
-  type: "domain",
+  type: "page-type/domain",
   slug: "oid",
   definition: "the name git gives what it stores, worked out from the bytes themselves",
   invariants: [

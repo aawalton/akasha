@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperItemsFiltersAddon = {
   id: "01a0614b-6734-767e-be82-2cfd13e1d6a8",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-items-filters-addon",
   definition:
     "the filter panel a player narrows the inventory with, and the binding that narrows the rows",

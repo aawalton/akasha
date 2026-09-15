@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const containerRegistry = {
   id: "01a0658b-0f02-7e11-9293-61be7a832920",
-  type: "domain",
+  type: "page-type/domain",
   slug: "container-registry",
   definition: "the store container images live in",
   parts: ["manifest/registry", "manifest/registry-gc", "module/registry-constants"],

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const pageUiComponent = {
   id: "01a0613d-bbb1-7000-a299-964eee1c712c",
-  type: "domain",
+  type: "page-type/domain",
   slug: "page-ui-component",
   definition: "the parts a page and its listings are drawn from",
 

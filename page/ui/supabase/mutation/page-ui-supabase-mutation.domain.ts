@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const pageUiSupabaseMutation = {
   id: "01a071d2-6ff8-7914-854c-2f159045dd16",
-  type: "domain",
+  type: "page-type/domain",
   slug: "page-ui-supabase-mutation",
   definition: "a write sent through Supabase",
   parts: [

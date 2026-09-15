@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperCatalog = {
   id: "01a05fac-7580-7d88-a660-0f4eff1ab95e",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-catalog",
   definition: "what The Elder Scrolls Online itself has, mirrored",
   parts: [

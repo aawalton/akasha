@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const k8sSynth = {
   id: "01a06810-0b68-71f7-8b6c-5277128c7a3d",
-  type: "domain",
+  type: "page-type/domain",
   slug: "k8s-synth",
   definition: "the Kubernetes YAML the synth files in a checkout generate",
   parts: [

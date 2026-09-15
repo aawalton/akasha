@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const pageCoreGenerated = {
   id: "01a071ca-ec89-7025-aea5-fdec003f5ade",
-  type: "domain",
+  type: "page-type/domain",
   slug: "page-core-generated",
   definition: "code a command writes rather than a person",
   parts: [

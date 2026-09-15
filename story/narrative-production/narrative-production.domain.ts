@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const narrativeProduction = {
   id: "01a0673a-bc3a-7002-900d-98d54a36587e",
-  type: "domain",
+  type: "page-type/domain",
   slug: "narrative-production",
   definition: "turning a story into narration and illustration",
   invariants: [

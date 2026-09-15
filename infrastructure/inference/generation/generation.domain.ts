@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const generation = {
   id: "01a0658b-0f02-7c33-9784-2d0807309315",
-  type: "domain",
+  type: "page-type/domain",
   slug: "generation",
   definition: "images, video, audio or prose made by a model",
   parts: [

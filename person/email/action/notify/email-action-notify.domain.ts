@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const emailActionNotify = {
   id: "01a0675b-16e4-79c5-b78b-e333b399492e",
-  type: "domain",
+  type: "page-type/domain",
   slug: "email-action-notify",
   definition: "telling a person about a piece of their mail",
 } as const satisfies Domain

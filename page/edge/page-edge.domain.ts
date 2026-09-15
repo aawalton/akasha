@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const pageEdge = {
   id: "01a049e9-651c-7005-9845-75ac1a5fb3a0",
-  type: "domain",
+  type: "page-type/domain",
   slug: "page-edge",
   definition: "a reference from one page to another",
   invariants: [

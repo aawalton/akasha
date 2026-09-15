@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const pageUiMedia = {
   id: "01a071d0-4b6a-724c-8d8b-5d9ece92248e",
-  type: "domain",
+  type: "page-type/domain",
   slug: "page-ui-media",
   definition: "the sound and picture a page carries",
   parts: [

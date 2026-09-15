@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperCaptureShape = {
   id: "01a0604d-23a0-70d4-9f11-7c21f7a7d1bc",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-capture-shape",
   definition: "the shape of every catalog the addon captures out of the running game",
   parts: [

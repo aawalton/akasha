@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperGameCatalogCaptureAddon = {
   id: "01a060e2-3185-7405-a79e-40fe38c8220f",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-game-catalog-capture-addon",
   definition:
     "the collectors reading the game's reference catalogs into an add-on's saved variables",

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperItemsFiltersCore = {
   id: "01a0613a-e0b3-78d9-aaac-decd150b1b76",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-items-filters-core",
   definition:
     "the filters a player narrows an item search with, and how a saved search keeps a filter value",

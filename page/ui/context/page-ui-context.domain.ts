@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const pageUiContext = {
   id: "01a071cf-5cb5-7515-985b-9a9999073b99",
-  type: "domain",
+  type: "page-type/domain",
   slug: "page-ui-context",
   definition: "a value a React tree carries down",
   parts: ["module/page-resolver-context", "module/relation-picker-context"],

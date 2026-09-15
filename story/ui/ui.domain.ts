@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const ui = {
   id: "01a0628e-a5db-710f-96c6-55f3f7b2427a",
-  type: "domain",
+  type: "page-type/domain",
   slug: "ui",
   definition: "one game session or one story read, shaped for the browser somebody reads it in",
   parts: [

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const inferenceCommand = {
   id: "01a0685e-fd50-7e21-9c04-6b31a0f2c7de",
-  type: "domain",
+  type: "page-type/domain",
   slug: "inference-command",
   definition: "what an agent runs by name over the models the inference hosts serve",
   parts: ["module/inference-answering"],

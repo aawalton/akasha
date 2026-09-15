@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const talos = {
   id: "01a06813-7b0e-79e0-ae0d-60b8f8c4a138",
-  type: "domain",
+  type: "page-type/domain",
   slug: "talos",
   definition: "the Talos machine configuration a cluster's nodes are declared in",
   parts: [

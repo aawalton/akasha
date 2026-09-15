@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperCompletionImport = {
   id: "01a060d7-c8cc-7e3d-bff7-b5db10d7b35f",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-completion-import",
   definition: "the addon's saved variables read back as what a player has completed",
   parts: ["module/completion-input-schema", "module/completion-saved-variables-parser"],

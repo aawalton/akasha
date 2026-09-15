@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperInventoryAutomation = {
   id: "01a06038-b7a2-7d0b-bbd4-68460f00c22e",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-inventory-automation",
   definition: "what temper keeps up for a character or a companion without being asked",
   parts: [

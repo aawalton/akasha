@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperEffect = {
   id: "01a05fba-ce3c-73cc-87ea-23462f201563",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-effect",
   definition: "what is put on a character for a while, for good or ill",
   parts: [

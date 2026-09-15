@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperCatalogSideFile = {
   id: "01a060ce-b8ca-70c9-aff9-a8d013b9d7e5",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-catalog-side-file",
   definition: "what the catalog addon is told to collect again, written where the addon reads it",
   parts: ["module/catalog-file-paths", "module/catalog-side-file"],

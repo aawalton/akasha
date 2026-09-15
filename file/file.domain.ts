@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const file = {
   id: "01a049e9-651c-7004-a164-c9c8df818b18",
-  type: "domain",
+  type: "page-type/domain",
   slug: "file",
   definition: "a file in the `akasha` folder",
   parts: ["domain/folder-path", "module/exclusive", "module/git-place", "module/lock-holder"],

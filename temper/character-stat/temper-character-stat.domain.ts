@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperCharacterStat = {
   id: "01a0612f-aae6-7c1d-a590-b3004241a082",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-character-stat",
   definition: "the character stats an Elder Scrolls Online build is measured by",
   parts: [

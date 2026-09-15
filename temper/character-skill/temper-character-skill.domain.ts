@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperCharacterSkill = {
   id: "01a0617a-2c72-7654-ad18-45a07d7e27ca",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-character-skill",
   definition: "the skills an Elder Scrolls Online character learns, slots and scribes",
   parts: [

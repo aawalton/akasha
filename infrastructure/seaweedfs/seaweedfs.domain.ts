@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const seaweedfs = {
   id: "01a06816-68b1-73dc-970e-be70fec533a1",
-  type: "domain",
+  type: "page-type/domain",
   slug: "seaweedfs",
   definition: "the manifests the cluster's own object store is applied as",
   parts: [

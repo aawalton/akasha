@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const postgresAnnualDump = {
   id: "01a06865-c012-7000-8a01-503775ee557e",
-  type: "domain",
+  type: "page-type/domain",
   slug: "postgres-annual-dump",
   definition: "the yearly whole copy of the database, and what it is taken by",
   parts: [

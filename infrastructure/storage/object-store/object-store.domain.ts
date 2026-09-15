@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const objectStore = {
   id: "01a05cbb-139c-75e2-a97e-d9467fae14ce",
-  type: "domain",
+  type: "page-type/domain",
   slug: "object-store",
   definition: "bytes kept under a key in a SeaweedFS bucket",
 
