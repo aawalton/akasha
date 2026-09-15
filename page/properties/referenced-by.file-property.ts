@@ -42,6 +42,11 @@ export const referencedBy = {
       invariantKind: "invariant-kind/absence",
       statement: "A page nothing references has no file.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "An import is referenced by the path a specifier reaches rather than by the specifier.",
+    },
   ],
   types: "ts",
 } as const satisfies FileProperty

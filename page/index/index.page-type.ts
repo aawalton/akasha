@@ -166,11 +166,6 @@ export const index = {
       statement: "Nothing in the index differs from the pages.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "An import is referenced by the path a specifier reaches rather than by the specifier.",
-    },
-    {
       invariantKind: "invariant-kind/gap",
       statement: "A fixture files a page into every index a reader reads that page from.",
     },
