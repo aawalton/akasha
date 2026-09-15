@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { mintedId } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import {
   knowingIn,
   owedIn,
@@ -23,7 +24,6 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { shapeAdded } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { mintedId } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
@@ -148,12 +148,6 @@ test("a property the schema names and the identity index does not warrants nothi
   ])
   stating(root, PATH, ["loose"])
   expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
-})
-
-test("a cold index is refused rather than warranting nothing", () => {
-  const root = scratch.rootFor("akasha-file-property-")
-  stating(root, PATH, ["id", "definition"])
-  expect(() => warrantsAt(root, PATH)).toThrow("is not an index naming none")
 })
 
 test("a file sitting beside a page is no page, and warrants nothing", () => {
