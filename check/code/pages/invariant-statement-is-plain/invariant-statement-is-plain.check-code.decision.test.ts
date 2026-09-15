@@ -30,8 +30,8 @@ function paged(...every: readonly string[]): string {
   return ["export const held = {", "  invariants: [", ...held, "  ],", "}", ""].join("\n")
 }
 
-test("a page carrying no invariant is let through", () => {
-  expect(marked(AT, 'export const held = { slug: "held" }\n')).toEqual([])
+test("a page carrying no invariant is let through", async () => {
+  expect(await judged('export const held = { slug: "held" }\n')).toEqual([])
 })
 
 test("one sentence carrying no mark of its own is let through", () => {
@@ -39,11 +39,11 @@ test("one sentence carrying no mark of its own is let through", () => {
   expect(marked(AT, body)).toEqual([])
 })
 
-test("a statement giving its reason is refused and the clause saying why is named", () => {
+test("a statement giving its reason is refused and the clause saying why is named", async () => {
   const body = paged(
     JSON.stringify("A slug becomes an export name because reaching the format is an import.")
   )
-  const said = marked(AT, body)
+  const said = await judged(body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 3")
   expect(said[0]).toContain("states why at `because`")
@@ -51,52 +51,52 @@ test("a statement giving its reason is refused and the clause saying why is name
   expect(said[0]).toContain("cut what only explains")
 })
 
-test("`since` states a reason as `because` does", () => {
+test("`since` states a reason as `because` does", async () => {
   const body = paged(JSON.stringify("A cast is refused since claiming a shape is not proving one."))
-  expect(marked(AT, body)[0]).toContain("states why at `since`")
+  expect((await judged(body))[0]).toContain("states why at `since`")
 })
 
-test("a comma joins a second fact and is refused", () => {
+test("a comma joins a second fact and is refused", async () => {
   const body = paged(
     JSON.stringify("The change phase judges only the paths a change carries, so it is on.")
   )
-  const said = marked(AT, body)
+  const said = await judged(body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 3 joins a second fact at `,`")
   expect(said[0]).toContain("so it is on.")
   expect(said[0]).toContain("cut what only explains or follows from the first")
 })
 
-test("a semicolon joins a second fact as a comma does", () => {
+test("a semicolon joins a second fact as a comma does", async () => {
   const body = paged(
     JSON.stringify("The indexes answer what is there; the graph answers what follows.")
   )
-  const said = marked(AT, body)
+  const said = await judged(body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("joins a second fact at `;`")
   expect(said[0]).toContain("the graph answers what follows.")
 })
 
-test("a colon joins a second fact as a comma does", () => {
+test("a colon joins a second fact as a comma does", async () => {
   const body = paged(JSON.stringify("The rule is plain: a statement says one thing."))
-  expect(marked(AT, body)[0]).toContain("joins a second fact at `:`")
+  expect((await judged(body))[0]).toContain("joins a second fact at `:`")
 })
 
-test("a dash joins a second fact as a comma does", () => {
+test("a dash joins a second fact as a comma does", async () => {
   const body = paged(
     JSON.stringify("A path the index files nothing for is passed over — not thrown on.")
   )
-  const said = marked(AT, body)
+  const said = await judged(body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("joins a second fact at `—`")
   expect(said[0]).toContain("not thrown on.")
 })
 
-test("two sentences in one statement are refused and the second is the one shown", () => {
+test("two sentences in one statement are refused and the second is the one shown", async () => {
   const body = paged(
     JSON.stringify("The place is said here alone. What sits under it is named away.")
   )
-  const said = marked(AT, body)
+  const said = await judged(body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("holds two sentences")
   expect(said[0]).toContain("What sits under it is named away.")
@@ -115,11 +115,11 @@ test("a mark inside a spelt name is no mark of the statement's own", () => {
   expect(marked(AT, body)).toEqual([])
 })
 
-test("a mark outside a spelt name is found where a spelt name is beside it", () => {
+test("a mark outside a spelt name is found where a spelt name is beside it", async () => {
   const body = paged(
     JSON.stringify("A method declaring `this: void` is refused, and nothing else is.")
   )
-  expect(marked(AT, body)[0]).toContain("joins a second fact at `,`")
+  expect((await judged(body))[0]).toContain("joins a second fact at `,`")
 })
 
 test("the earliest mark in a statement is the one named", () => {
@@ -134,9 +134,9 @@ test("the earliest mark in a statement is the one named", () => {
   expect(splitAt({ line: 1, text: "A page is named for its slug." })).toBeNull()
 })
 
-test("a mark a reason follows names the reason rather than the join", () => {
+test("a mark a reason follows names the reason rather than the join", async () => {
   const body = paged(JSON.stringify("A page is named, because the slug says so."))
-  const said = marked(AT, body)
+  const said = await judged(body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("states why at `because`")
 })
@@ -149,7 +149,7 @@ test("a word merely carrying those letters is let through with the word read who
   expect(marked(AT, body)).toEqual([])
 })
 
-test("a statement spelt across lines is read whole and a mark across the join is found", () => {
+test("a statement spelt across lines is read whole and a mark across the join is found", async () => {
   const body = [
     "export const held = {",
     "  invariants: [",
@@ -163,7 +163,7 @@ test("a statement spelt across lines is read whole and a mark across the join is
     "}",
     "",
   ].join("\n")
-  const said = marked(AT, body)
+  const said = await judged(body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 6")
   expect(said[0]).toContain("states why at `because`")
@@ -188,18 +188,18 @@ test("the statement is read from the page rather than from the prose around it",
   expect(marked(AT, body)).toEqual([])
 })
 
-test("an entry stating a kind and no statement is passed over", () => {
-  expect(marked(AT, 'const held = { invariantKind: "gap" }\n')).toEqual([])
+test("an entry stating a kind and no statement is passed over", async () => {
+  expect(await judged('const held = { invariantKind: "gap" }\n')).toEqual([])
 })
 
-test("a statement beside no kind is not an invariant", () => {
+test("a statement beside no kind is not an invariant", async () => {
   const body = 'const held = { statement: "A page is named because the slug says so." }\n'
-  expect(marked(AT, body)).toEqual([])
+  expect(await judged(body)).toEqual([])
 })
 
-test("a statement no reading can settle is passed over rather than guessed at", () => {
+test("a statement no reading can settle is passed over rather than guessed at", async () => {
   const body = paged("`A page is named because ${said}.`", "said")
-  expect(marked(AT, body)).toEqual([])
+  expect(await judged(body)).toEqual([])
   expect(statementsIn(AT, body)).toEqual([])
 })
 
@@ -212,11 +212,11 @@ test("every invariant a page carries is reported and not only the first", () => 
   expect(marked(AT, body)).toHaveLength(2)
 })
 
-test("the check refuses neither of its own code files though each spells the words it refuses", () => {
+test("the check refuses neither of its own code files though each spells the words it refuses", async () => {
   for (const one of OWN) {
     const body = readFileSync(join(HERE, one), "utf8")
     expect(body).toMatch(/because/)
-    expect(marked(AT, body)).toEqual([])
+    expect(await judged(body)).toEqual([])
   }
 })
 
