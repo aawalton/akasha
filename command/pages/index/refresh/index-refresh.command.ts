@@ -39,7 +39,8 @@ export const indexRefresh = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "`--dry-run` says the change the repair would make and writes no file.",
+      statement:
+        "`--dry-run` says the change the repair would make, writing no file and making no commit.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -58,8 +59,20 @@ export const indexRefresh = {
       statement: "The report counts the files under each index the difference falls in.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement: "A refresh commits what git holds of the files that refresh wrote.",
+    },
+    {
       invariantKind: "invariant-kind/absence",
-      statement: "A refresh writes nothing tracked and makes no commit.",
+      statement: "A refresh commits no file git ignores.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A refresh that wrote nothing git holds makes no commit.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "That commit is made under the landing lock the repair is held by.",
     },
     {
       invariantKind: "invariant-kind/gap",

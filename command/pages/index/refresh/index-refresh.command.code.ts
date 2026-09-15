@@ -11,8 +11,11 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { heldBack } from "akasha/command/modules/ignored-pathing/ignored-pathing.module.code.ts"
+import { diskAt } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { indexRefresh as page } from "akasha/command/pages/index/refresh/index-refresh.command.ts"
+import { committed } from "akasha/git/modules/committing/committing.module.code.ts"
 import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
 import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
 import { refreshedWhole } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
@@ -21,6 +24,7 @@ import {
   filedUnder,
 } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
 
 const DOMAIN_AT = "akasha.domain.ts"
@@ -33,9 +37,13 @@ const PART_WAY = "the refresh wrote part of the index before it stopped — run 
 
 const BY_THEN = "what it wrote by then:"
 
+const WROTE = "the index is brought level with the pages"
+
+const NOTHING_HELD = "nothing git holds of what was written differed, so no commit was made"
+
 const COMMITTING = new Map<string, string>([
-  ["--message", "says what a commit is for, and a refresh makes none"],
-  ["--message-file", "says what a commit is for, and a refresh makes none"],
+  ["--message", "says what a commit is for, and a refresh writes its own"],
+  ["--message-file", "says what a commit is for, and a refresh writes its own"],
   ["--break-the-glass", "says why no check runs, and a refresh runs none"],
 ])
 
@@ -89,6 +97,31 @@ function refusing(said: readonly string[], code: number): Answer {
   return refusedBy([...said, UNCHANGED], code)
 }
 
+function pathOf(at: string): string {
+  return referencesFiled(at) ? at : join(indexNamed(), at)
+}
+
+function landed(root: string, drift: Drift): string | null {
+  const took = new Set(drift.went.map(pathOf))
+  const wrote = new Set([...drift.added, ...drift.changed].map(pathOf))
+  const split = heldBack(
+    root,
+    [...wrote, ...took].map((path) => ({ path, body: null }))
+  )
+  const bodies = new Map<string, Uint8Array>()
+  const taken: string[] = []
+  for (const one of split.committing) {
+    if (took.has(one.path)) {
+      taken.push(one.path)
+      continue
+    }
+    const body = diskAt(root, one.path)
+    if (body !== null) bodies.set(one.path, body)
+  }
+  if (bodies.size === 0 && taken.length === 0) return null
+  return committed(root, bodies, taken, WROTE, null)
+}
+
 function refreshing(root: string, read: { dryRun: boolean }, done: string[]): Answer {
   const tree = root
   if (!existsSync(join(tree, DOMAIN_AT))) {
@@ -102,6 +135,7 @@ function refreshing(root: string, read: { dryRun: boolean }, done: string[]): An
     )
   }
   const said = refreshedWhole(root, tree, !read.dryRun, done)
+  const commit = read.dryRun ? null : landed(root, said.drift)
   const report = [
     `the index was brought level with ${root} as it is, at ${head}`,
     `${counted(said.pages, "page")}, ${said.entries} entries, ${said.refused.length} refused`,
@@ -112,6 +146,9 @@ function refreshing(root: string, read: { dryRun: boolean }, done: string[]): An
       ? `nothing was put in place — ${dryRunArgument.said}`
       : `${indexNamed()} was repaired in place, entry by entry`
   )
+  if (!read.dryRun) {
+    report.push(commit === null ? NOTHING_HELD : `what git holds of it was committed at ${commit}`)
+  }
   return answeredWith(
     report,
     said.refused.map((one) => `the index took less than the whole of it — ${one}`),

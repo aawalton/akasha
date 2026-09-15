@@ -131,6 +131,12 @@ function said(answer: { readonly report: readonly string[] }): string {
   return answer.report.join("\n")
 }
 
+function headOf(root: string): string {
+  return git(root, ["rev-parse", "HEAD"]).trim()
+}
+
+const HELD_BY_GIT = ["status", "--porcelain", "--", indexNamed(), "*.referenced-by.jsonl"]
+
 const TAKES = "is no argument `akasha index refresh` takes — it takes `--dry-run`"
 
 test("the word the namespace already carries is no argument this takes", () => {
@@ -317,4 +323,60 @@ test("a refresh that ran through names nothing it wrote in a refusal", () => {
 
   expect(answer.code).toBe(OK)
   expect(answer.refusals).toEqual([])
+})
+
+test("what git holds of what a refresh wrote is committed, and the report names that commit", () => {
+  const root = repoAt()
+  const was = headOf(root)
+
+  const answer = indexRefresh([], givenAt(root))
+
+  expect(answer.code).toBe(OK)
+  expect(headOf(root)).not.toBe(was)
+  expect(git(root, HELD_BY_GIT)).toBe("")
+  expect(said(answer)).toContain(`was committed at ${headOf(root)}`)
+})
+
+test("a refresh takes away what git holds of an entry no page carries", () => {
+  const root = repoAt()
+  indexRefresh([], givenAt(root))
+  listedUnreadableFiled(root, "domain", "gone")
+  indexRefresh([], givenAt(root))
+
+  expect(indexRefresh([], givenAt(root)).code).toBe(OK)
+  expect(git(root, HELD_BY_GIT)).toBe("")
+})
+
+test("`--dry-run` makes no commit", () => {
+  const root = repoAt()
+  seeded(root)
+  const was = headOf(root)
+
+  expect(indexRefresh(["--dry-run"], givenAt(root)).code).toBe(OK)
+
+  expect(headOf(root)).toBe(was)
+})
+
+test("a refresh that wrote nothing git holds makes no commit", () => {
+  const root = repoAt()
+  indexRefresh([], givenAt(root))
+  const was = headOf(root)
+
+  const answer = indexRefresh([], givenAt(root))
+
+  expect(headOf(root)).toBe(was)
+  expect(said(answer)).toContain("no commit was made")
+})
+
+test("an index file git ignores is written and left out of the commit", () => {
+  const root = repoAt()
+  writeFileSync(join(root, ".gitignore"), `${indexNamed()}/\n`)
+  git(root, ["add", ".gitignore"])
+  git(root, ["commit", "--quiet", "-m", "held out"])
+
+  expect(indexRefresh([], givenAt(root)).code).toBe(OK)
+
+  expect(indexThere(root)).toBe(true)
+  expect(git(root, ["ls-files", "--", indexNamed()])).toBe("")
+  expect(git(root, ["ls-files", "--", "*.referenced-by.jsonl"])).not.toBe("")
 })
