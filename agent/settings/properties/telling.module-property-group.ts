@@ -5,7 +5,7 @@ export type Telling = ModulePropertyGroupCeilings
 
 export const telling = {
   id: "01a08df6-4018-7bb3-8b4c-38ed791d69e6",
-  type: "module-property-group",
+  type: "page-type/module-property-group",
   slug: "telling",
   propertySlug: "telling",
   definition: "what writes the settings an agent harness is told",

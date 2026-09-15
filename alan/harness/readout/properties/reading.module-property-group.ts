@@ -5,7 +5,7 @@ export type Reading = ModulePropertyGroupCeilings
 
 export const reading = {
   id: "01a09b3f-922b-7d22-9964-602fe4969e03",
-  type: "module-property-group",
+  type: "page-type/module-property-group",
   slug: "reading",
   propertySlug: "reading",
   definition: "what takes a readout's own reading",

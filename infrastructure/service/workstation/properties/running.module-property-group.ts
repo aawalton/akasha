@@ -5,7 +5,7 @@ export type Running = ModulePropertyGroupCeilings
 
 export const running = {
   id: "01a0917c-bda7-752a-b5cf-3d8419423042",
-  type: "module-property-group",
+  type: "page-type/module-property-group",
   slug: "running",
   propertySlug: "running",
   definition: "the code a workstation service runs",

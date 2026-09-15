@@ -5,7 +5,7 @@ export type Audit = ModulePropertyGroupCeilings
 
 export const audit = {
   id: "01a087bc-a4e8-79e9-aebb-43085dc35075",
-  type: "module-property-group",
+  type: "page-type/module-property-group",
   slug: "audit",
   propertySlug: "audit",
   definition: "what judges the whole repository at once",

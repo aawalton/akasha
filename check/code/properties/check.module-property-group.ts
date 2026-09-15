@@ -5,7 +5,7 @@ export type Check = ModulePropertyGroupCeilings
 
 export const check = {
   id: "01a087bc-94bc-75f5-ba41-03165ee04f85",
-  type: "module-property-group",
+  type: "page-type/module-property-group",
   slug: "check",
   propertySlug: "check",
   definition: "what judges the change a landing carries",
