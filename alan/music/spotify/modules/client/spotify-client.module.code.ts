@@ -214,7 +214,7 @@ export type PageStep<TItem> = {
   readonly next: string | null
 }
 
-export async function followPages<TItem>(
+async function followPages<TItem>(
   firstPath: string,
   stepAt: (path: string) => Promise<PageStep<TItem> | null>,
   options: PaginateOptions = {}
