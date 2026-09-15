@@ -2,7 +2,7 @@ import type { TemperEsoCompanion } from "akasha/temper/catalog/temper-companion/
 
 export const mirri = {
   id: "01a05fcf-591f-7e8b-a141-57ddd4ae8373",
-  type: "temper-eso-companion",
+  type: "page-type/temper-eso-companion",
   slug: "mirri",
   key: "mirri",
   title: "Mirri Elendis",

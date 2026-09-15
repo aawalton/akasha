@@ -2,7 +2,7 @@ import type { TemperEsoCompanion } from "akasha/temper/catalog/temper-companion/
 
 export const azandar = {
   id: "01a05fcf-591d-727b-bcd4-81688875cb62",
-  type: "temper-eso-companion",
+  type: "page-type/temper-eso-companion",
   slug: "azandar",
   key: "azandar",
   title: "Azandar",

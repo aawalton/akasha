@@ -2,7 +2,7 @@ import type { TemperEsoCompanion } from "akasha/temper/catalog/temper-companion/
 
 export const bastian = {
   id: "01a05fcf-591e-7bc4-8cbd-17a4ac12d3bf",
-  type: "temper-eso-companion",
+  type: "page-type/temper-eso-companion",
   slug: "bastian",
   key: "bastian",
   title: "Bastian Hallix",

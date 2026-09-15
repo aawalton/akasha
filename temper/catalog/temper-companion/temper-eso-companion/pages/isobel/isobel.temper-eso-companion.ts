@@ -2,7 +2,7 @@ import type { TemperEsoCompanion } from "akasha/temper/catalog/temper-companion/
 
 export const isobel = {
   id: "01a05fcf-591f-7d0a-906f-b8555838244f",
-  type: "temper-eso-companion",
+  type: "page-type/temper-eso-companion",
   slug: "isobel",
   key: "isobel",
   title: "Isobel Veloise",

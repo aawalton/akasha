@@ -2,7 +2,7 @@ import type { TemperEsoCompanion } from "akasha/temper/catalog/temper-companion/
 
 export const tanlorin = {
   id: "01a05fcf-5920-7f59-aa2c-473354605a90",
-  type: "temper-eso-companion",
+  type: "page-type/temper-eso-companion",
   slug: "tanlorin",
   key: "tanlorin",
   title: "Tanlorin",

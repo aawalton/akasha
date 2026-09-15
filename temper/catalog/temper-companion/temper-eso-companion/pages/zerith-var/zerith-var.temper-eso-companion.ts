@@ -2,7 +2,7 @@ import type { TemperEsoCompanion } from "akasha/temper/catalog/temper-companion/
 
 export const zerithVar = {
   id: "01a05fcf-5921-7f8a-abd6-ebccbdc3b4f3",
-  type: "temper-eso-companion",
+  type: "page-type/temper-eso-companion",
   slug: "zerith-var",
   key: "zerith-var",
   title: "Zerith-var",
