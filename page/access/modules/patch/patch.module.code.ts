@@ -2,7 +2,7 @@ import {
   patchFilePages,
   refuseJsonPatch,
 } from "akasha/page/access/modules/file-write/file-write.module.code.ts"
-import { rejectWholesaleTagsSet } from "akasha/page/access/modules/guards/guards.module.code.ts"
+
 import {
   asPageList,
   overServer,
@@ -34,8 +34,6 @@ async function callPagePatch<T extends Record<string, unknown> = Record<string, 
   args: PatchPageArgs<T>,
   atMostOne = false
 ): Promise<readonly Page[]> {
-  rejectWholesaleTagsSet("patchPage", args.set)
-
   refuseJsonPatch("patchPage", args.pageTypeSlug, args.patch)
   if (writesOverServer()) {
     if (atMostOne) {
@@ -83,8 +81,6 @@ export type PatchPageByIdArgs<T extends Record<string, unknown> = Record<string,
 export async function patchPageById<T extends Record<string, unknown> = Record<string, Json>>(
   args: PatchPageByIdArgs<T>
 ): Promise<Page | null> {
-  rejectWholesaleTagsSet("patchPageById", args.set)
-
   refuseJsonPatch("patchPageById", args.pageTypeSlug, args.patch)
   if (writesOverServer()) {
     const one = await overServer("patchPageById", args)
