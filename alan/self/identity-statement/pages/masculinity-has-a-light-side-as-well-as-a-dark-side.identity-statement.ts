@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const masculinityHasALightSideAsWellAsADarkSide = {
   id: "019ea810-a49b-704e-9024-30dba6c09061",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "masculinity-has-a-light-side-as-well-as-a-dark-side",
   title: "Masculinity has a light side as well as a dark side",
   about: "reality",

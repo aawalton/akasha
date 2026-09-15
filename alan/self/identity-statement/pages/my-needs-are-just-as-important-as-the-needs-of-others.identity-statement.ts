@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const myNeedsAreJustAsImportantAsTheNeedsOfOthers = {
   id: "019ea810-acd0-729a-accf-2b9f548d8d77",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "my-needs-are-just-as-important-as-the-needs-of-others",
   title: "My needs are just as important as the needs of others",
   about: "reality",

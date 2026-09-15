@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const iAmFullyIntegrated = {
   id: "019ea810-a0c2-7f24-8e19-ea2e2cf82da7",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "i-am-fully-integrated",
   title: "I am fully integrated",
   about: "myself",

@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const iDontLikeSugar = {
   id: "019ea810-a224-7f37-8d5d-e5866ea86264",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "i-dont-like-sugar",
   title: "I don’t like sugar",
   identityStatementLevel: 0,

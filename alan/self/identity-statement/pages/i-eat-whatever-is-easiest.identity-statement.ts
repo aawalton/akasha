@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const iEatWhateverIsEasiest = {
   id: "019ea810-af60-773d-8421-d86b003ba5a8",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "i-eat-whatever-is-easiest",
   title: "I eat whatever is easiest",
   about: "myself",

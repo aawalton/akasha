@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const iAmAnOmniSensoryAphant = {
   id: "019ea810-a703-7959-87c5-905cdf66f57b",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "i-am-an-omni-sensory-aphant",
   title: "I am an omni-sensory aphant",
   about: "myself",

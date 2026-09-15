@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const iAmAProlificPolymath = {
   id: "019ea810-a30f-7bbe-bbf1-37ac53f014d6",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "i-am-a-prolific-polymath",
   title: "I am a prolific polymath",
   about: "myself",

@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const iAmFunctionallyStable = {
   id: "019ea810-b048-738b-bd10-7ca0309d68d9",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "i-am-functionally-stable",
   title: "I am functionally stable",
   about: "myself",

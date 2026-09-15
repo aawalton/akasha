@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const iHaveAUniquePerspective = {
   id: "019ea810-ada7-7fa4-840f-9fa05a7bc09b",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "i-have-a-unique-perspective",
   title: "I have a unique perspective",
   about: "myself",

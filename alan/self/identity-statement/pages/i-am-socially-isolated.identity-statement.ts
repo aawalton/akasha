@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const iAmSociallyIsolated = {
   id: "019ea810-aef2-7f07-9d0d-ac0226b92f1d",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "i-am-socially-isolated",
   title: "I am socially isolated",
   about: "myself",

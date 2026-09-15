@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const iValueOthersJustAsMuchAsIValueMyself = {
   id: "019ea810-ac9f-78f1-a8e4-e7fdef658aab",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "i-value-others-just-as-much-as-i-value-myself",
   title: "I value others just as much as I value myself",
   about: "myself",

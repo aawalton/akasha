@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const myPsychologicalGenderIsAutistic = {
   id: "019ea810-b007-769d-9746-767193ca6049",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "my-psychological-gender-is-autistic",
   title: "My psychological gender is autistic",
   about: "myself",

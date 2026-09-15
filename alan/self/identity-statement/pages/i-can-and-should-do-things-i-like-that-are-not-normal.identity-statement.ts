@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const iCanAndShouldDoThingsILikeThatAreNotNormal = {
   id: "019ea810-ac67-7e95-85d2-9b202f1311a2",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "i-can-and-should-do-things-i-like-that-are-not-normal",
   title: "I can and should do things I like that are not normal",
   about: "myself",

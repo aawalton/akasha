@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const iAmConceptuallyAnchored = {
   id: "019ea810-ad3c-752f-a9a1-9420bd9acbbf",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "i-am-conceptually-anchored",
   title: "I am conceptually anchored",
   about: "myself",

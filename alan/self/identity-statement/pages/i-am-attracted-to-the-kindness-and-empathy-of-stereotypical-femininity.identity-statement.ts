@@ -2,7 +2,7 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statement/iden
 
 export const iAmAttractedToTheKindnessAndEmpathyOfStereotypicalFemininity = {
   id: "019ea810-ae1c-7224-9218-cd5ae7dedca8",
-  type: "identity-statement",
+  type: "page-type/identity-statement",
   slug: "i-am-attracted-to-the-kindness-and-empathy-of-stereotypical-femininity",
   title: "I am attracted to the kindness and empathy of stereotypical femininity",
   about: "myself",
