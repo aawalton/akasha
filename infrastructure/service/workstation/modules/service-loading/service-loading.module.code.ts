@@ -64,6 +64,8 @@ const ASK_AGAIN_FOR = 60000
 const FIRST_WAIT = 250
 const LONGEST_WAIT = 2000
 
+process.env["AKASHA_ROOT"] ??= ROOT
+
 const slug = process.argv[2]
 if (slug === undefined) {
   process.stderr.write(SAID + " name the service to run\n")

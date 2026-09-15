@@ -73,6 +73,14 @@ export const serviceLoading = {
     },
     {
       invariantKind: "departure",
+      statement: "The loader states the root, since a body over the wire has no folder of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A root the environment already states is left as it is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A count above nothing is written where the run's own output is read.",
     },
     {

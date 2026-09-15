@@ -38,7 +38,12 @@ export const seatReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The root is the folder the file itself sits in.",
+      statement:
+        "The root is the one the environment states, or the folder the file itself sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file loaded over the wire states its root, since its own path names no folder.",
     },
     {
       invariantKind: "departure",

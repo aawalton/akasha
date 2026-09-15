@@ -1,4 +1,4 @@
-import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { rootIn } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { alive, type Holder } from "akasha/file/modules/lock-holder/lock-holder.module.code.ts"
 import {
   everyOfType,
@@ -39,7 +39,7 @@ const STATED: Readonly<Record<string, string>> = {
 const BARED: readonly string[] = ["persona-slug", "role-slug", "person-slug", "principal-seat-name"]
 
 function seatRoot(): string {
-  return rootOf(import.meta.dir)
+  return rootIn(process.env, import.meta.dir)
 }
 
 export function nameOf(page: string): string {
