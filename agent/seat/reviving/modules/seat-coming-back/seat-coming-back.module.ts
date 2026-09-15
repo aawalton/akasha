@@ -30,6 +30,15 @@ export const seatComingBack = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement:
+        "A seat is found in history by the file its page is rather than by that file's folder.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page comes back to where seat pages sit now rather than to where it sat.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A page coming back lands as a change, so the index carries that page again.",
     },
     {

@@ -24,16 +24,22 @@ const AT = seatPathForName(NAME)
 
 const PUT = "change-mechanical-file/add-file"
 
-function stopped(root: string): string {
+const WAS = `seat-system/seats/pages/${NAME}/${NAME}.seat.ts`
+
+function stoppedAt(root: string, at: string): string {
   said(root, ["init", "--quiet"])
   said(root, ["config", "user.email", "seat@akasha"])
   said(root, ["config", "user.name", "akasha"])
-  writing(root, AT, BODY)
+  writing(root, at, BODY)
   said(root, ["add", "-A"])
   said(root, ["commit", "-q", "-m", `${NAME}: the seat is in akasha as what it states`])
-  said(root, ["rm", "-q", AT])
+  said(root, ["rm", "-q", at])
   said(root, ["commit", "-q", "-m", `${NAME} stopped, deliberate, so its page goes`])
   return said(root, ["rev-parse", "HEAD"]).trim()
+}
+
+function stopped(root: string): string {
+  return stoppedAt(root, AT)
 }
 
 test("a seat comes back as the commit that took its page away left that page", () => {
@@ -41,8 +47,20 @@ test("a seat comes back as the commit that took its page away left that page", (
   try {
     const root = world.rootFor("seat-coming-back-")
     const took = stopped(root)
-    expect(tookAway(root, AT)).toBe(took)
-    expect(heldBefore(root, AT)).toEqual({ at: AT, commit: took, body: BODY })
+    expect(tookAway(root, NAME)).toBe(took)
+    expect(heldBefore(root, NAME)).toEqual({ at: AT, from: AT, commit: took, body: BODY })
+  } finally {
+    world.sweep()
+  }
+})
+
+test("a seat comes back though its page sat in a folder seats have left", () => {
+  const world = scratchWorld()
+  try {
+    const root = world.rootFor("seat-coming-back-")
+    const took = stoppedAt(root, WAS)
+    expect(tookAway(root, NAME)).toBe(took)
+    expect(heldBefore(root, NAME)).toEqual({ at: AT, from: WAS, commit: took, body: BODY })
   } finally {
     world.sweep()
   }
@@ -53,8 +71,8 @@ test("a name no commit took a page away from brings nothing back", () => {
   try {
     const root = world.rootFor("seat-coming-back-")
     stopped(root)
-    expect(tookAway(root, seatPathForName(AWAY))).toBeNull()
-    expect(heldBefore(root, seatPathForName(AWAY))).toBeNull()
+    expect(tookAway(root, AWAY)).toBeNull()
+    expect(heldBefore(root, AWAY)).toBeNull()
   } finally {
     world.sweep()
   }

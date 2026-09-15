@@ -16,8 +16,11 @@ const PUT = "change-mechanical-file/add-file"
 
 const HEAD = "HEAD"
 
+const TAIL = ".seat.ts"
+
 export interface Held {
   readonly at: string
+  readonly from: string
   readonly commit: string
   readonly body: string
 }
@@ -29,17 +32,42 @@ export type Landing = (
   message: string
 ) => ReturnType<typeof landedMechanically>
 
-export function tookAway(root: string, path: string): string | null {
-  const at = told(root, ["log", "--format=%H", "--diff-filter=D", "-1", HEAD, "--", path])
+export function seatFileNamed(name: string): string {
+  return `${name}${TAIL}`
+}
+
+export function tookAway(root: string, name: string): string | null {
+  const glob = `*/${seatFileNamed(name)}`
+  const at = told(root, ["log", "--format=%H", "--diff-filter=D", "-1", HEAD, "--", glob])
   const one = at === null ? "" : at.trim()
   return one === "" ? null : one
 }
 
-export function heldBefore(root: string, path: string): Held | null {
-  const commit = tookAway(root, path)
+export function pathTakenIn(root: string, commit: string, name: string): string | null {
+  const said = told(root, [
+    "diff-tree",
+    "-r",
+    "--no-commit-id",
+    "--name-only",
+    "--diff-filter=D",
+    commit,
+  ])
+  if (said === null) return null
+  const tail = `/${seatFileNamed(name)}`
+  for (const line of said.split("\n")) {
+    if (line.endsWith(tail)) return line
+  }
+  return null
+}
+
+export function heldBefore(root: string, name: string): Held | null {
+  const commit = tookAway(root, name)
   if (commit === null) return null
-  const body = told(root, ["show", `${commit}^:${path}`])
-  return body === null || body === "" ? null : { at: path, commit, body }
+  const from = pathTakenIn(root, commit, name)
+  if (from === null) return null
+  const body = told(root, ["show", `${commit}^:${from}`])
+  if (body === null || body === "") return null
+  return { at: seatPathForName(name), from, commit, body }
 }
 
 export function saidOfBack(name: string, commit: string): string {
@@ -56,9 +84,8 @@ export async function seatBackFromHistory(
   done: string[] = [],
   landing: Landing = landedMechanically
 ): Promise<Held | null> {
-  const at = seatPathForName(name)
-  if (alreadyThere(root, at)) return null
-  const held = heldBefore(root, at)
+  if (alreadyThere(root, seatPathForName(name))) return null
+  const held = heldBefore(root, name)
   if (held === null) return null
   const asked: readonly Asking[] = [{ at: PUT, given: { at: held.at, body: held.body } }]
   const refused = refusalsIn(await landing(done, root, asked, saidOfBack(name, held.commit)))
