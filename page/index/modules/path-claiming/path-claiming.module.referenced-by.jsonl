@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"command/modules/beside-sweeping/beside-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"domain/context/warrant/file-domain/file-domain.context-warrant.code.ts"}
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"graph/modules/asking/graph-asking.module.code.ts"}
+{"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"page/index/edge/index-edge.index.code.ts"}
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"page/index/identity/index-identity.index.code.ts"}
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"page/index/import/index-import.index.code.ts"}

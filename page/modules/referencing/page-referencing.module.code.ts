@@ -1,5 +1,5 @@
-import { basename, dirname, join } from "node:path"
-import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { basename } from "node:path"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   textAt,
   type Value,
@@ -8,8 +8,6 @@ import {
 const SECTION = "referenced-by"
 
 const HOLDS = "jsonl"
-
-const PAGE_HOLDS = ".ts"
 
 const ENDING = `.${SECTION}.${HOLDS}`
 
@@ -28,12 +26,6 @@ export function referencesAt(pagePath: string): string | null {
 
 export function referencesFiled(path: string): boolean {
   return path.endsWith(ENDING)
-}
-
-export function ownerOf(path: string): string | null {
-  const said = partedIn(path)
-  if (said === null) return null
-  return join(dirname(path), `${said.slug}.${said.pageType}${PAGE_HOLDS}`)
 }
 
 export function fileNameOf(path: string): string {

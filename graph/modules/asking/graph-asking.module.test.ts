@@ -161,7 +161,7 @@ test("an import edge existing only in the index given is answered, and none with
   const over = readingLaidOver(
     root,
     { [`${IMPORT}/path/${FIRST_AT}.jsonl`]: [{ path: SECOND_AT }] },
-    importsBeside(FIRST_AT, [SECOND_AT])
+    importsBeside(root, FIRST_AT, [SECOND_AT])
   )
 
   expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOver(over, bodiesIn(root)))).toEqual([
@@ -176,7 +176,7 @@ test("an import edge the index given empties is not answered, and exists without
   const over = readingLaidOver(
     root,
     { [`${IMPORT}/path/${TARGET_AT}.jsonl`]: [] },
-    importsBeside(TARGET_AT, [])
+    importsBeside(root, TARGET_AT, [])
   )
 
   expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOver(over, bodiesIn(root)))).toEqual([])
@@ -259,7 +259,7 @@ test("a closure walks the edges the index it was given answers, and none it does
   const over = readingLaidOver(
     root,
     { [`${IMPORT}/path/${SECOND_AT}.jsonl`]: [{ path: THIRD_AT }] },
-    importsBeside(SECOND_AT, [THIRD_AT])
+    importsBeside(root, SECOND_AT, [THIRD_AT])
   )
   const every = [FIRST_AT, SECOND_AT, THIRD_AT]
 
