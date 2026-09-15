@@ -19,11 +19,11 @@ import "akasha/temper/eso-type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import "akasha/temper/trading-addon/modules/trading-globals/trading-globals.module.code.ts"
 
+import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
 import {
   finishPerfTrace,
   startPerfTrace,
-} from "akasha/temper/capture-perf/modules/perf-trace/perf-trace.module.code.ts"
-import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
+} from "akasha/temper/modules/perf-trace/perf-trace.module.code.ts"
 import { createBrowseEngine } from "akasha/temper/trading-addon/modules/trading-browse-engine/trading-browse-engine.module.code.ts"
 import { createBrowseWindow } from "akasha/temper/trading-addon/modules/trading-browse-window/trading-browse-window.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/trading-addon/modules/trading-constants/trading-constants.module.code.ts"

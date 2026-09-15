@@ -1,9 +1,5 @@
 import "akasha/temper/characters-addon/modules/characters-public-api/characters-public-api.module.code.ts"
 
-import {
-  finishPerfTrace,
-  startPerfTrace,
-} from "akasha/temper/capture-perf/modules/perf-trace/perf-trace.module.code.ts"
 import { collectAchievements } from "akasha/temper/characters-addon/modules/characters-achievements/characters-achievements.module.code.ts"
 import { collectAllianceRank } from "akasha/temper/characters-addon/modules/characters-alliance-rank/characters-alliance-rank.module.code.ts"
 import { collectAntiquityLore } from "akasha/temper/characters-addon/modules/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"
@@ -49,6 +45,10 @@ import {
   saveSkillMorphProgress,
 } from "akasha/temper/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.code.ts"
 import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
+import {
+  finishPerfTrace,
+  startPerfTrace,
+} from "akasha/temper/modules/perf-trace/perf-trace.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { collectMotifKnowledge } from "akasha/temper/player-completion-state/modules/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
 import {

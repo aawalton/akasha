@@ -28,10 +28,6 @@ import "akasha/temper/eso-type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import "akasha/temper/companions-addon/modules/companions-globals/companions-globals.module.code.ts"
 
-import {
-  finishPerfTrace,
-  startPerfTrace,
-} from "akasha/temper/capture-perf/modules/perf-trace/perf-trace.module.code.ts"
 import { initializeFcoCompanion } from "akasha/temper/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"
 import { refreshAllCompanionData } from "akasha/temper/companions-addon/modules/companions-command/companions-command.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/companions-addon/modules/companions-constants/companions-constants.module.code.ts"
@@ -56,6 +52,10 @@ import {
 import { createCompanionSummaryPanel } from "akasha/temper/companions-addon/modules/companions-summary-panel/companions-summary-panel.module.code.ts"
 import { refreshCompanionSummaryPanel } from "akasha/temper/companions-addon/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"
 import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
+import {
+  finishPerfTrace,
+  startPerfTrace,
+} from "akasha/temper/modules/perf-trace/perf-trace.module.code.ts"
 
 function registerCompanionSceneCallbacks(): undefined {
   const companionScenes = [

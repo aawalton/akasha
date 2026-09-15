@@ -9,6 +9,10 @@ export const perfTrace = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A load time is announced only where the saved settings ask.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The clock is the game's own millisecond counter.",
     },
     {

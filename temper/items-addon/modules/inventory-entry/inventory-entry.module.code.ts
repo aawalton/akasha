@@ -1,6 +1,5 @@
 import "akasha/temper/items-addon/modules/inventory-public-api/inventory-public-api.module.code.ts"
 
-import { startPerfTrace } from "akasha/temper/capture-perf/modules/perf-trace/perf-trace.module.code.ts"
 import { initializeInventoryActionPanel } from "akasha/temper/items-addon/modules/inventory-action-panel/inventory-action-panel.module.code.ts"
 import { initializeBankActionPanel } from "akasha/temper/items-addon/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"
 import {
@@ -54,6 +53,7 @@ import { registerTooltipLockIcon } from "akasha/temper/items-addon/modules/inven
 import { registerRuleTooltipHook } from "akasha/temper/items-addon/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.code.ts"
 import { probeMasterWrits } from "akasha/temper/items-addon/modules/inventory-writ-master-probe/inventory-writ-master-probe.module.code.ts"
 import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
+import { startPerfTrace } from "akasha/temper/modules/perf-trace/perf-trace.module.code.ts"
 
 function initialize(): undefined {
   const perfStart = startPerfTrace()
