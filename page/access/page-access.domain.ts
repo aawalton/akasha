@@ -13,7 +13,6 @@ export const pageAccess = {
     "module/create",
     "module/cursor",
     "module/deleting",
-    "module/domain-title-prefix",
     "module/file-backed-roster",
     "module/file-narrow",
     "module/file-page-type-config",
