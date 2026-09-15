@@ -1,3 +1,4 @@
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
@@ -23,7 +24,9 @@ export type Captured = {
   readonly commit: string | null
 }
 
-const PAGE_TYPE = "runtime-error"
+const RUNTIME_ERROR = "runtime-error"
+
+const PAGE_TYPE = "page-type"
 
 const ERROR_CAPTURE_WRITER = "error capture <errors@alanwalton.com>"
 
@@ -33,7 +36,7 @@ export function slugFor(payload: ErrorCapturePayload): string {
 
 export function firstValuesFor(payload: ErrorCapturePayload, at: string): Value {
   const held: Value = {
-    type: PAGE_TYPE,
+    type: namedAs(PAGE_TYPE, RUNTIME_ERROR, null),
     slug: slugFor(payload),
     fingerprint: payload.fingerprint,
     app: payload.app,
@@ -66,7 +69,7 @@ export async function captureError(
   const slug = slugFor(payload)
   const at = new Date().toISOString()
   const asked = await askingFor(
-    { pageTypeSlug: PAGE_TYPE, where: { slug: { is: slug } }, limit: 1 },
+    { pageTypeSlug: RUNTIME_ERROR, where: { slug: { is: slug } }, limit: 1 },
     fetcher,
     naps
   )
@@ -82,7 +85,7 @@ export async function captureError(
       message: row === undefined ? `${slug} was met for the first time` : `${slug} was met again`,
       pages: [
         {
-          pageTypeSlug: PAGE_TYPE,
+          pageTypeSlug: RUNTIME_ERROR,
           slug,
           values: row === undefined ? firstValuesFor(payload, at) : againValuesFor(row, at),
         },
