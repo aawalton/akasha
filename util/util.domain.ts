@@ -15,7 +15,7 @@ export const util = {
     "domain/util-sync",
     "domain/util-system",
     "domain/util-text",
-    "domain/util-timing",
+    "module/armed-timer",
     "module/during-call",
     "module/pad-two",
     "module/sha256-hex",

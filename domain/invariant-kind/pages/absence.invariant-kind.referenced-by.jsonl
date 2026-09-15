@@ -1894,6 +1894,7 @@
 {"propertySlug":"invariant-kind","path":"util/fs/modules/expand-tilde/expand-tilde.module.ts","id":"01a05c4c-9442-70c2-948c-b1d7ad5a033f"}
 {"propertySlug":"invariant-kind","path":"util/fs/modules/file-size/file-size.module.ts","id":"01a08182-0997-7171-8a4f-afaacaf31310"}
 {"propertySlug":"invariant-kind","path":"util/fs/modules/whole-writing/whole-writing.module.ts","id":"01a09429-a77b-7673-8ae4-d384444c7b7a"}
+{"propertySlug":"invariant-kind","path":"util/modules/armed-timer/armed-timer.module.ts","id":"01a090ab-acc0-7541-a3a9-a1241d1ee505"}
 {"propertySlug":"invariant-kind","path":"util/modules/during-call/during-call.module.ts","id":"01a05cb3-7cca-7613-8b60-5d8a19e74370"}
 {"propertySlug":"invariant-kind","path":"util/modules/pad-two/pad-two.module.ts","id":"01a05c8b-6039-7947-8056-77c452128ce1"}
 {"propertySlug":"invariant-kind","path":"util/modules/sha256-hex/sha256-hex.module.ts","id":"01a08ef4-823c-79ae-8b62-4de2fcf1a1b5"}
@@ -1917,8 +1918,6 @@
 {"propertySlug":"invariant-kind","path":"util/text/modules/counted/counted.module.ts","id":"01a08ccc-aca8-7215-b4dd-560d25d104b5"}
 {"propertySlug":"invariant-kind","path":"util/text/modules/name-drawing/name-drawing.module.ts","id":"01a08206-a5c1-75c9-8635-b646938fd3ac"}
 {"propertySlug":"invariant-kind","path":"util/text/modules/one-line/one-line.module.ts","id":"01a095bb-4f52-7988-950f-f29155dd9bb0"}
-{"propertySlug":"invariant-kind","path":"util/timing/modules/armed-timer/armed-timer.module.ts","id":"01a090ab-acc0-7541-a3a9-a1241d1ee505"}
-{"propertySlug":"invariant-kind","path":"util/timing/util-timing.domain.ts","id":"01a090ac-e14d-7590-abfd-665fd9dc0024"}
 {"propertySlug":"invariant-kind","path":"verdict/modules/shape/verdict-shape.module.ts","id":"01a05c87-a161-78d7-afb2-6becb8d2161f"}
 {"propertySlug":"invariant-kind","path":"verdict/verdict.domain.ts","id":"01a05c87-a15f-79e8-9268-c8bf1735c3e6"}
 {"propertySlug":"parts","path":"domain/invariant-kind/invariant-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}

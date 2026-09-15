@@ -6600,6 +6600,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/fs/modules/text-on-disk/text-on-disk.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/fs/modules/text-there/text-there.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/fs/modules/whole-writing/whole-writing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/modules/armed-timer/armed-timer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/modules/during-call/during-call.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/modules/pad-two/pad-two.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/modules/sha256-hex/sha256-hex.module.ts"}
@@ -6689,7 +6690,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/text/modules/seconds/seconds.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/text/modules/shortened/shortened.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/text/modules/suggest-closest/suggest-closest.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/timing/modules/armed-timer/armed-timer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"verdict/modules/reading-channel/reading-channel.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"verdict/modules/shape/verdict-shape.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"verdict/modules/text/verdict-text.module.ts"}

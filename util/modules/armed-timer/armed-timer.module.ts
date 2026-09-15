@@ -10,6 +10,14 @@ export const armedTimer = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "The timers work is scheduled through are handed in so a test needs no wait.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a clock of its own.",
+    },
+    {
+      invariantKind: "departure",
       statement: "At most one timeout is pending at a time.",
     },
     {
