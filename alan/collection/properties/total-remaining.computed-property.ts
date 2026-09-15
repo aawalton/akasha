@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const totalRemaining = {
   id: "01a07231-dd66-7218-ace3-d6ea466f60de",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "total-remaining",
   propertySlug: "total-remaining",
   definition: "how much of the collection and everything it holds is left to work through",

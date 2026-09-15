@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const topicCoverage = {
   id: "01a077f4-79d0-7bb7-8479-4ac07775d561",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "topic-coverage",
   propertySlug: "coverage",
   definition: "how far Alan has got into a topic and all beneath it",

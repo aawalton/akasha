@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const ownLengthInWords = {
   id: "01a07231-dd64-7de6-9bf2-d8ac9ec72972",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "own-length-in-words",
   propertySlug: "own-length-in-words",
   definition: "how much there is to work through on the collection itself, counted in words",

@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const setVolume = {
   id: "01a077cb-d5b9-767f-8668-3cf04e5756fc",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "set-volume",
   propertySlug: "set-volume",
   definition: "the weight one set of work moved, in pounds",

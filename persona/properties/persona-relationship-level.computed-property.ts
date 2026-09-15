@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const personaRelationshipLevel = {
   id: "01a082dd-bbc6-70a8-b7c5-94c16ef56e98",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "persona-relationship-level",
   propertySlug: "relationship-level",
   definition: "the rung of the closeness ladder a persona's points have reached",

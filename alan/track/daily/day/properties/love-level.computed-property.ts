@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const loveLevel = {
   id: "01a07211-0e16-70eb-8fe6-99a139aa72eb",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "love-level",
   propertySlug: "love-level",
   definition: "which of the four rungs the day's love points reached",

@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const funLevel = {
   id: "01a0720f-c6fb-73f1-9066-af41bb900c1c",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "fun-level",
   propertySlug: "fun-level",
   definition: "which of the four rungs the day's fun points reached",

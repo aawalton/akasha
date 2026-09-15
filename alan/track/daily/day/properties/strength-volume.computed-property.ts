@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const strengthVolume = {
   id: "01a077d1-f967-7eef-a0ce-7139eaa1b54d",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "strength-volume",
   propertySlug: "strength-volume",
   definition: "the weight Alan moved on one day, in pounds",

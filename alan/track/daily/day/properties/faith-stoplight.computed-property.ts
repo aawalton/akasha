@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const faithStoplight = {
   id: "01a0721c-6314-7ada-aa29-58838a715a52",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "faith-stoplight",
   propertySlug: "faith-stoplight",
   definition: "the rung the day's faith reached, as one colored light",

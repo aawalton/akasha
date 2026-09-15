@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const effectiveFiveHourUsage = {
   id: "01a07659-1795-7ecf-b6af-a6a32cda7a73",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "effective-five-hour-usage",
   propertySlug: "effective-five-hour-usage",
   definition:

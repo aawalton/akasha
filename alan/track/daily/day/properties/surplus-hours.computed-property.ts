@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const surplusHours = {
   id: "01a072ee-1b88-7b44-a2b4-9cb40106ef0e",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "surplus-hours",
   propertySlug: "surplus-hours",
   definition: "how much of the night's sleep the day has not spent",

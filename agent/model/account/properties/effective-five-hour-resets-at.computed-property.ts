@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const effectiveFiveHourResetsAt = {
   id: "01a0916c-9192-72e8-ab13-1e5f620a30ed",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "effective-five-hour-resets-at",
   propertySlug: "effective-five-hour-resets-at",
   definition: "when the five-hour allowance comes back, a spent week holding that back",

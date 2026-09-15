@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const ownRemainingInWords = {
   id: "01a07231-dd65-7362-baa2-75438c15234d",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "own-remaining-in-words",
   propertySlug: "own-remaining-in-words",
   definition: "how much of the collection itself is left to work through, counted in words",

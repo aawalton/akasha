@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const attributeLevel = {
   id: "01a081cc-5b79-71ea-9492-1757bb05214d",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "attribute-level",
   propertySlug: "level",
   definition: "the level an attribute's total points have climbed to",

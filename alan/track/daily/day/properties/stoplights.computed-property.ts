@@ -2,7 +2,7 @@ import type { ComputedProperty } from "akasha/page/computed-property/computed-pr
 
 export const stoplights = {
   id: "01a07224-bf20-74dd-b1bc-270ef3cf98c8",
-  type: "computed-property",
+  type: "page-type/computed-property",
   slug: "stoplights",
   propertySlug: "stoplights",
   definition: "the rung each of the day's six values reached, as one colored light apiece",
