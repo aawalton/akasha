@@ -2,7 +2,7 @@ import type { ServiceInference } from "akasha/infrastructure/service/inference/s
 
 export const segmentRembg = {
   id: "01a090a2-fddd-7bf0-bfda-019b368cb78b",
-  type: "service-inference",
+  type: "page-type/service-inference",
   slug: "segment-rembg",
   definition: "the model that cuts a subject out of a picture",
   host: "macbook",

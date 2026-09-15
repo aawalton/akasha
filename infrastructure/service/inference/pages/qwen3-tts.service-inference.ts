@@ -2,7 +2,7 @@ import type { ServiceInference } from "akasha/infrastructure/service/inference/s
 
 export const qwen3Tts = {
   id: "01a090a2-9e6d-7775-b13e-e20d48ca33a2",
-  type: "service-inference",
+  type: "page-type/service-inference",
   slug: "qwen3-tts",
   definition: "the Qwen3 voice model, served by mlx-audio",
   host: "macbook",

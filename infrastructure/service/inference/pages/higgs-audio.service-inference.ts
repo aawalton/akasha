@@ -2,7 +2,7 @@ import type { ServiceInference } from "akasha/infrastructure/service/inference/s
 
 export const higgsAudio = {
   id: "01a090a2-4671-73bf-9c7f-1581d427b5b9",
-  type: "service-inference",
+  type: "page-type/service-inference",
   slug: "higgs-audio",
   definition: "the Higgs Audio voice model, served by mlx-audio",
   host: "macbook",

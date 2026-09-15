@@ -2,7 +2,7 @@ import type { ServiceInference } from "akasha/infrastructure/service/inference/s
 
 export const mlxVlm = {
   id: "01a090a3-1740-747a-a45e-2af1a1123204",
-  type: "service-inference",
+  type: "page-type/service-inference",
   slug: "mlx-vlm",
   definition: "the Qwen3-VL model that reads a picture, served by mlx-vlm",
   host: "macbook",

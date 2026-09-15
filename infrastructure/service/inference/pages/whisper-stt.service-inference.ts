@@ -2,7 +2,7 @@ import type { ServiceInference } from "akasha/infrastructure/service/inference/s
 
 export const whisperStt = {
   id: "01a090a2-876d-7ca6-b85d-4fd1d602345f",
-  type: "service-inference",
+  type: "page-type/service-inference",
   slug: "whisper-stt",
   definition: "the Whisper speech-to-text model, served by mlx-audio",
   host: "macbook",

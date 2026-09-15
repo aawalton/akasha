@@ -2,7 +2,7 @@ import type { ServiceInference } from "akasha/infrastructure/service/inference/s
 
 export const voxcpm2 = {
   id: "01a090a2-b487-7840-b3dd-d4aec75b2e38",
-  type: "service-inference",
+  type: "page-type/service-inference",
   slug: "voxcpm2",
   definition: "the VoxCPM2 voice model, served by mlx-audio",
   host: "macbook",

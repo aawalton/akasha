@@ -2,7 +2,7 @@ import type { ServiceInference } from "akasha/infrastructure/service/inference/s
 
 export const mossTts = {
   id: "01a090a1-e663-7f41-809c-ef0e35c0a233",
-  type: "service-inference",
+  type: "page-type/service-inference",
   slug: "moss-tts",
   definition: "the MOSS voice model, served by mlx-audio",
   host: "macbook",
