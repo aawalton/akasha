@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bornForTheApocalypseADaopcalypseLitrpgBook00011DoomsdayPrepperMeetRaisonDtre = {
   id: "01a06731-af06-7001-adce-9efa1b7d6818",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0001-1-doomsday-prepper-meet-raison-dtre",
   title: "1: Doomsday prepper meet Raison d'être",
   story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",

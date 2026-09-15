@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0089Book5Chapter32SeventeenSwordsIi = {
   id: "01a06731-af03-7000-be20-fac869821747",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0089-book-5-chapter-32-seventeen-swords-ii",
   title: "Book 5 - Chapter 32 - Seventeen Swords II",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

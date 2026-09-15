@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0076Book5Chapter19InterludeAvynaAmbitionsEnd = {
   id: "01a06731-aef3-7000-8d69-843cb715dd95",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0076-book-5-chapter-19-interlude-avyna-ambitions-end",
   title: "Book 5 - Chapter 19 - Interlude – Avyna – Ambition’s End",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

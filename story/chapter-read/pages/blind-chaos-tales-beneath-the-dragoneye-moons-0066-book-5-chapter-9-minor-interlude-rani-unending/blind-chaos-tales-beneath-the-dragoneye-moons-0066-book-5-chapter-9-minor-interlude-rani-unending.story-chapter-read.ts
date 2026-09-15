@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0066Book5Chapter9MinorInterludeRaniUnending = {
   id: "01a06731-aeec-7000-976f-6bf674829172",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0066-book-5-chapter-9-minor-interlude-rani-unending",
   title: "Book 5 - Chapter 9 - Minor Interlude – Rani – Unending Pursuit",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

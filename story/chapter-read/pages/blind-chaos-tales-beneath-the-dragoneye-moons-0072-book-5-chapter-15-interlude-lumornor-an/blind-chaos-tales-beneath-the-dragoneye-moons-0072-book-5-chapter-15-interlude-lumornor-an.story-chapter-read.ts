@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0072Book5Chapter15InterludeLumornorAn = {
   id: "01a06731-aef0-7001-87b9-1992f9a64686",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0072-book-5-chapter-15-interlude-lumornor-an",
   title: "Book 5 - Chapter 15 - Interlude – Lumornor – An Unexpectedly Wild Lecture",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

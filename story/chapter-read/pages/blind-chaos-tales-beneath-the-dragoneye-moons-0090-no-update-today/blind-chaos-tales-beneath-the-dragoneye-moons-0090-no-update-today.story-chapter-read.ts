@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0090NoUpdateToday = {
   id: "01a06731-af04-7000-8d65-8b9d3733de50",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0090-no-update-today",
   title: "No Update Today",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bookboundBunny0027B3Chapter23Moons = {
   id: "01a06731-b0cc-700b-9219-aa4a7e17f3b4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bookbound-bunny-0027-b3-chapter-23-moons",
   title: "B3 - Chapter 23 - Moons",
   story: "story-read/bookbound-bunny",

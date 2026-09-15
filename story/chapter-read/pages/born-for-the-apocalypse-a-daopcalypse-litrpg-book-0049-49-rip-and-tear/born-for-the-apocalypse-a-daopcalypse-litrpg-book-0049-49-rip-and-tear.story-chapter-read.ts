@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bornForTheApocalypseADaopcalypseLitrpgBook004949RipAndTear = {
   id: "01a06731-af0a-700c-93b3-0a1bc0819996",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0049-49-rip-and-tear",
   title: "49: Rip and Tear",
   story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",

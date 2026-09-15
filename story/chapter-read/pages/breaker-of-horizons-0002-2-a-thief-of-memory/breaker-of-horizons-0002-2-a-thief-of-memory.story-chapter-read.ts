@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons00022AThiefOfMemory = {
   id: "01a06731-ad99-7001-8c84-8474ef8eeef7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0002-2-a-thief-of-memory",
   title: "2. A Thief of Memory",
   story: "story-read/breaker-of-horizons",

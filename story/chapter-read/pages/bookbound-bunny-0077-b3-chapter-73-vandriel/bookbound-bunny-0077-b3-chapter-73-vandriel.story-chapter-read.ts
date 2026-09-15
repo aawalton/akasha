@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bookboundBunny0077B3Chapter73Vandriel = {
   id: "01a06731-b0d1-7000-ae28-179fdcd11bd5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bookbound-bunny-0077-b3-chapter-73-vandriel",
   title: "B3 - Chapter 73 - Vandriel",
   story: "story-read/bookbound-bunny",

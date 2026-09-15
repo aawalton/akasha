@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0092Book5Chapter34BoundlessExpectations = {
   id: "01a06731-af05-7000-a2b1-9585ee618dac",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0092-book-5-chapter-34-boundless-expectations",
   title: "Book 5 - Chapter 34 - Boundless Expectations",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

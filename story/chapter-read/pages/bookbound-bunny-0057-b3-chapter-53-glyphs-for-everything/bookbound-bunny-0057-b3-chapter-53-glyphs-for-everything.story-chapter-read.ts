@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bookboundBunny0057B3Chapter53GlyphsForEverything = {
   id: "01a06731-b0cf-7001-9892-74f3300bc2f2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bookbound-bunny-0057-b3-chapter-53-glyphs-for-everything",
   title: "B3 - Chapter 53 - Glyphs for Everything",
   story: "story-read/bookbound-bunny",

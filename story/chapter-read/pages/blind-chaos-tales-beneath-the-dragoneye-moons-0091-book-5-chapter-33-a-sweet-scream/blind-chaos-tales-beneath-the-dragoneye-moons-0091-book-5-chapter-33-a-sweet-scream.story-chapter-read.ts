@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0091Book5Chapter33ASweetScream = {
   id: "01a06731-af04-7001-8164-805c3a2b718d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0091-book-5-chapter-33-a-sweet-scream",
   title: "Book 5 - Chapter 33 - A Sweet Scream",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

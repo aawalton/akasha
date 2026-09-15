@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bornForTheApocalypseADaopcalypseLitrpgBook004545StrongerThanCrystal = {
   id: "01a06731-af0a-7008-ad0d-c0574dfb2dd5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0045-45-stronger-than-crystal",
   title: "45: Stronger than crystal",
   story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",

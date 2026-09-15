@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0064Book5Chapter7AsCloseAsShedCome = {
   id: "01a06731-aeea-7001-b2df-107a5aa8abed",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0064-book-5-chapter-7-as-close-as-shed-come",
   title: "Book 5 - Chapter 7 - As Close as She’d Come",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

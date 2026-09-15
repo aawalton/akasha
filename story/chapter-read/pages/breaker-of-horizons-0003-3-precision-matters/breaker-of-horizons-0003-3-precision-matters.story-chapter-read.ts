@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons00033PrecisionMatters = {
   id: "01a06731-ad99-7002-b0ce-eaf075781d06",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0003-3-precision-matters",
   title: "3. Precision Matters",
   story: "story-read/breaker-of-horizons",

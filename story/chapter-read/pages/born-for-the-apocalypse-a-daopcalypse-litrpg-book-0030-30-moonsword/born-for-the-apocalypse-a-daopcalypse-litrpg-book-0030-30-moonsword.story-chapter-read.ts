@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bornForTheApocalypseADaopcalypseLitrpgBook003030Moonsword = {
   id: "01a06731-af09-700d-991a-d395163014a6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0030-30-moonsword",
   title: "30: Moonsword",
   story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",

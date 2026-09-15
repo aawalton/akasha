@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bornForTheApocalypseADaopcalypseLitrpgBook003131BodyRefinementStone = {
   id: "01a06731-af09-700e-8b87-e48c28c06b8e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0031-31-body-refinement-stone",
   title: "31: Body Refinement Stone",
   story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",

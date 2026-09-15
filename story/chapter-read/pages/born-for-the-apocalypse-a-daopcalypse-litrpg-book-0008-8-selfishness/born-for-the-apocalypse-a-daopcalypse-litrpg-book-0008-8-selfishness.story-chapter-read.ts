@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bornForTheApocalypseADaopcalypseLitrpgBook00088Selfishness = {
   id: "01a06731-af08-7003-a61c-4da3c2734ffa",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0008-8-selfishness",
   title: "8: Selfishness",
   story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",

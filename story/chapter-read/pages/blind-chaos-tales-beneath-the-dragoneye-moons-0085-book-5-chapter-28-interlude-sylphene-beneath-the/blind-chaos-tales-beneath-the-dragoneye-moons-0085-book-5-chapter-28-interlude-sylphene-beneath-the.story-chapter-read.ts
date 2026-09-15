@@ -3,7 +3,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 export const blindChaosTalesBeneathTheDragoneyeMoons0085Book5Chapter28InterludeSylpheneBeneathThe =
   {
     id: "01a06731-aefd-7000-b388-933943c86d53",
-    type: "story-chapter-read",
+    type: "page-type/story-chapter-read",
     slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0085-book-5-chapter-28-interlude-sylphene-beneath-the",
     title: "Book 5 - Chapter 28 - Interlude – Sylphene – Beneath the Dragon’s Eye II",
     story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
