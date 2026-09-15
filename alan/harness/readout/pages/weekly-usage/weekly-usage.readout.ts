@@ -2,7 +2,7 @@ import type { Readout } from "akasha/alan/harness/readout/readout.page-type.type
 
 export const weeklyUsage = {
   id: "01a063bd-a526-7a12-97a4-531aa40ead14",
-  type: "readout",
+  type: "page-type/readout",
   slug: "weekly-usage",
   definition: "how much of the weekly Claude allowance the pool has spent",
   label: "Weekly Usage",

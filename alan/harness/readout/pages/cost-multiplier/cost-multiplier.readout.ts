@@ -2,7 +2,7 @@ import type { Readout } from "akasha/alan/harness/readout/readout.page-type.type
 
 export const costMultiplier = {
   id: "01a08b9c-6412-7e0f-8a4e-fc4a180594e6",
-  type: "readout",
+  type: "page-type/readout",
   slug: "cost-multiplier",
   definition: "what an hour of the block Alan is in costs him",
   reading: {},

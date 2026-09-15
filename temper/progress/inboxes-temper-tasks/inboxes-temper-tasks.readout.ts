@@ -2,7 +2,7 @@ import type { Readout } from "akasha/alan/harness/readout/readout.page-type.type
 
 export const inboxesTemperTasks = {
   id: "01a0603b-d45a-7ff5-8a9e-03ecb545e854",
-  type: "readout",
+  type: "page-type/readout",
   slug: "inboxes-temper-tasks",
   definition: "how many game tasks are waiting",
   reading: {},

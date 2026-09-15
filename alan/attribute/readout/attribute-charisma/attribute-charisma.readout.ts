@@ -2,7 +2,7 @@ import type { Readout } from "akasha/alan/harness/readout/readout.page-type.type
 
 export const attributeCharisma = {
   id: "01a06838-950f-7f4c-9f40-60cc35fa63f5",
-  type: "readout",
+  type: "page-type/readout",
   slug: "attribute-charisma",
   definition: "the points Alan earned on a day for the hours with someone that cost him nothing",
   label: "CHA",

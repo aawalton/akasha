@@ -2,7 +2,7 @@ import type { Readout } from "akasha/alan/harness/readout/readout.page-type.type
 
 export const workstationMemory = {
   id: "01a0a065-1fe2-7ef7-8efc-0759f66b9875",
-  type: "readout",
+  type: "page-type/readout",
   slug: "workstation-memory",
   definition: "how much memory the kernel says the workstation still has to give",
   reading: {},

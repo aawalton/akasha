@@ -2,7 +2,7 @@ import type { Readout } from "akasha/alan/harness/readout/readout.page-type.type
 
 export const upkeepSurplus = {
   id: "01a05fc3-145a-78a6-902f-ea39b8165c39",
-  type: "readout",
+  type: "page-type/readout",
   slug: "upkeep-surplus",
   definition: "how much of Alan's night the day has left him",
   reading: {},

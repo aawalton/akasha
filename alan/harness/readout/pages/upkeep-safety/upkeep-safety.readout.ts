@@ -2,7 +2,7 @@ import type { Readout } from "akasha/alan/harness/readout/readout.page-type.type
 
 export const upkeepSafety = {
   id: "01a05f42-92f5-7004-9179-75f0f75b02e9",
-  type: "readout",
+  type: "page-type/readout",
   slug: "upkeep-safety",
   definition: "how safe the place Alan is in",
   reading: {},

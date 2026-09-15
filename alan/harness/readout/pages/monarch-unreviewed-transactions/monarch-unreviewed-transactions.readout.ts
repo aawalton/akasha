@@ -2,7 +2,7 @@ import type { Readout } from "akasha/alan/harness/readout/readout.page-type.type
 
 export const monarchUnreviewedTransactions = {
   id: "01a053aa-fc5a-7708-b1fb-780b2ca58893",
-  type: "readout",
+  type: "page-type/readout",
   slug: "monarch-unreviewed-transactions",
   definition: "how many transactions are unreviewed",
   reading: {},

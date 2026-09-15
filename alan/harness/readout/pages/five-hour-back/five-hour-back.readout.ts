@@ -2,7 +2,7 @@ import type { Readout } from "akasha/alan/harness/readout/readout.page-type.type
 
 export const fiveHourBack = {
   id: "01a063bd-a526-7d2a-b1f5-8375b86d19ff",
-  type: "readout",
+  type: "page-type/readout",
   slug: "five-hour-back",
   definition: "how long until a spent five-hour allowance returns",
   label: "5h back",

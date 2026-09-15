@@ -2,7 +2,7 @@ import type { Readout } from "akasha/alan/harness/readout/readout.page-type.type
 
 export const workstationProcessor = {
   id: "01a0a065-0e31-7af0-bc57-e4bd83656aa1",
-  type: "readout",
+  type: "page-type/readout",
   slug: "workstation-processor",
   definition: "how much of the workstation's processor time is busy",
   reading: {},
