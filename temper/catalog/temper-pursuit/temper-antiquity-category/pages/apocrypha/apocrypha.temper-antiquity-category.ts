@@ -2,7 +2,7 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const apocrypha = {
   id: "01a06166-503e-7006-8734-00f9a545cd05",
-  type: "temper-antiquity-category",
+  type: "page-type/temper-antiquity-category",
   slug: "apocrypha",
   title: "Apocrypha",
   esoAntiquityCategoryId: 52,

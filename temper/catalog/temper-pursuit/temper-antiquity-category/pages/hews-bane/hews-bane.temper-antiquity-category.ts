@@ -2,7 +2,7 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const hewsBane = {
   id: "01a06166-503d-7009-9e13-60efc8cb88bd",
-  type: "temper-antiquity-category",
+  type: "page-type/temper-antiquity-category",
   slug: "hews-bane",
   title: "Hew's Bane",
   esoAntiquityCategoryId: 29,

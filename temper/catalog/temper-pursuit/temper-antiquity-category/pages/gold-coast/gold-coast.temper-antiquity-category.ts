@@ -2,7 +2,7 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const goldCoast = {
   id: "01a06166-503d-700a-aa80-218dbfaf8326",
-  type: "temper-antiquity-category",
+  type: "page-type/temper-antiquity-category",
   slug: "gold-coast",
   title: "Gold Coast",
   esoAntiquityCategoryId: 30,

@@ -2,7 +2,7 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const craglorn = {
   id: "01a06166-503d-7007-9a84-0bd1d4699819",
-  type: "temper-antiquity-category",
+  type: "page-type/temper-antiquity-category",
   slug: "craglorn",
   title: "Craglorn",
   esoAntiquityCategoryId: 26,

@@ -2,7 +2,7 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const betnikh = {
   id: "01a06166-503c-7007-a7d7-4f3e7ff47014",
-  type: "temper-antiquity-category",
+  type: "page-type/temper-antiquity-category",
   slug: "betnikh",
   title: "Betnikh",
   esoAntiquityCategoryId: 8,

@@ -2,7 +2,7 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const alikrDesert = {
   id: "01a06166-503c-7004-855a-5c19f6ad058a",
-  type: "temper-antiquity-category",
+  type: "page-type/temper-antiquity-category",
   slug: "alikr-desert",
   title: "Alik'r Desert",
   esoAntiquityCategoryId: 5,

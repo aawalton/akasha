@@ -2,7 +2,7 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const khenarthisRoost = {
   id: "01a06166-503d-7005-8a63-4fc25e532e63",
-  type: "temper-antiquity-category",
+  type: "page-type/temper-antiquity-category",
   slug: "khenarthis-roost",
   title: "Khenarthi's Roost",
   esoAntiquityCategoryId: 21,

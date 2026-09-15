@@ -2,7 +2,7 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const theDeadlands = {
   id: "01a06166-503e-7002-8278-7bd827a3b168",
-  type: "temper-antiquity-category",
+  type: "page-type/temper-antiquity-category",
   slug: "the-deadlands",
   title: "The Deadlands",
   esoAntiquityCategoryId: 48,

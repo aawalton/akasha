@@ -2,7 +2,7 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const westWeald = {
   id: "01a06166-503e-7007-9983-6876e843845d",
-  type: "temper-antiquity-category",
+  type: "page-type/temper-antiquity-category",
   slug: "west-weald",
   title: "West Weald",
   esoAntiquityCategoryId: 53,

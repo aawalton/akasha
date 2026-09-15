@@ -2,7 +2,7 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const glenumbra = {
   id: "01a06166-503c-7001-8fbd-af63de3dc835",
-  type: "temper-antiquity-category",
+  type: "page-type/temper-antiquity-category",
   slug: "glenumbra",
   title: "Glenumbra",
   esoAntiquityCategoryId: 2,

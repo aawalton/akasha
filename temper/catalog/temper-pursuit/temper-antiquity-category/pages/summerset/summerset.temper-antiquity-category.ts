@@ -2,7 +2,7 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const summerset = {
   id: "01a06166-503d-700d-b98e-6badccf86652",
-  type: "temper-antiquity-category",
+  type: "page-type/temper-antiquity-category",
   slug: "summerset",
   title: "Summerset",
   esoAntiquityCategoryId: 33,

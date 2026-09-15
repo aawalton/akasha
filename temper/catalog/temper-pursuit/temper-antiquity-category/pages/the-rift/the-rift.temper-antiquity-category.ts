@@ -2,7 +2,7 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const theRift = {
   id: "01a06166-503c-700b-a482-831a8c79df6b",
-  type: "temper-antiquity-category",
+  type: "page-type/temper-antiquity-category",
   slug: "the-rift",
   title: "The Rift",
   esoAntiquityCategoryId: 12,
