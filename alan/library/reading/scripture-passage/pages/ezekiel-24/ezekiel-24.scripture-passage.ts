@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const ezekiel24 = {
   id: "01a06804-11ac-704f-973f-5f965ae1a3cf",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "ezekiel-24",
   title: "Ezekiel 24",
   book: "Ezekiel",

@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const colossians2 = {
   id: "01a06804-11ab-701d-8ff2-27d4d9240175",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "colossians-2",
   title: "Colossians 2",
   book: "Colossians",

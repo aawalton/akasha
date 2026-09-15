@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const ecclesiastes9 = {
   id: "01a06804-11ac-7006-bf2d-05140e0ba299",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "ecclesiastes-9",
   title: "Ecclesiastes 9",
   book: "Ecclesiastes",

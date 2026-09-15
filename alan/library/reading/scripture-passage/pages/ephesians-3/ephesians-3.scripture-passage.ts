@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const ephesians3 = {
   id: "01a06804-11ac-7009-abea-216f21fa5d5a",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "ephesians-3",
   title: "Ephesians 3",
   book: "Ephesians",
