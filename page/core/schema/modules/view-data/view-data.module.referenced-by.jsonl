@@ -10,8 +10,6 @@
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/core/view/modules/apply-view/apply-view.module.code.ts"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/core/view/modules/group-granularity/group-granularity.module.code.ts"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui-store/query/modules/view-target-slugs/view-target-slugs.module.code.ts"}
-{"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/components-view-engine/modules/generate-group-definitions/generate-group-definitions.module.code.ts"}
-{"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/components-view-engine/modules/use-page-view/use-page-view.module.code.ts"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/base-conditions/base-conditions.module.code.ts"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/create-view-popover/create-view-popover.module.code.tsx"}
@@ -47,6 +45,8 @@
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/view-settings-options/view-settings-options.module.code.ts"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/view-tabs/view-tabs.module.code.tsx"}
+{"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/view-engine/modules/generate-group-definitions/generate-group-definitions.module.code.ts"}
+{"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/view-engine/modules/use-page-view/use-page-view.module.code.ts"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/mutator/modules/view-callbacks/view-callbacks.module.code.ts"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/supabase/modules/apply-client-view-filters/apply-client-view-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"}

@@ -2,10 +2,10 @@ import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page
 import type { GroupGranularity } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import { GROUP_NONE_KEY } from "akasha/page/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
-import { buildPageResolver } from "akasha/page/ui/component/components-view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts"
-import { getPageGroupDefinition } from "akasha/page/ui/component/components-view-engine/modules/generate-group-definitions/generate-group-definitions.module.code.ts"
 import { toPageDataRecord } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import type { ServerGroupedSection } from "akasha/page/ui/component/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
+import { buildPageResolver } from "akasha/page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts"
+import { getPageGroupDefinition } from "akasha/page/ui/component/view-engine/modules/generate-group-definitions/generate-group-definitions.module.code.ts"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 
 interface GroupedSource {

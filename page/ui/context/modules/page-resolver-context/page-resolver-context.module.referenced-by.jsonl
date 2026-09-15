@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/components-view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts"}
-{"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/components-view-engine/modules/generate-group-definitions/generate-group-definitions.module.code.ts"}
-{"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/components-view-engine/modules/use-page-view/use-page-view.module.code.ts"}
 {"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/modules/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/modules/page-system-view/page-system-view.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/modules/relation-filter-inputs/relation-filter-inputs.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/modules/relation-popover/relation-popover.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts"}
+{"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/view-engine/modules/generate-group-definitions/generate-group-definitions.module.code.ts"}
+{"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/view-engine/modules/use-page-view/use-page-view.module.code.ts"}
 {"propertySlug":"parts","path":"page/ui/contexts/page-ui-contexts.domain.ts","id":"01a071cf-5cb5-7515-985b-9a9999073b99"}

@@ -9,11 +9,11 @@ import {
 } from "akasha/design/interfaces/patterns/modules/drag-hold/drag-hold.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { pageDayKey } from "akasha/page/core/view/modules/calendar-date-to-value/calendar-date-to-value.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import {
   type CalendarCellRect,
   computeCalendarDropDay,
 } from "akasha/page/ui/component/modules/page-calendar-dnd-helpers/page-calendar-dnd-helpers.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 
 export function usePageCalendarState({

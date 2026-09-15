@@ -8,13 +8,13 @@
 {"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts"}
 {"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts"}
 {"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui-store/query/modules/view-target-slugs/view-target-slugs.module.code.ts"}
-{"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui/component/components-view-engine/modules/use-page-view/use-page-view.module.code.ts"}
-{"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui/component/components-view-engine/modules/use-view-row-rollups/use-view-row-rollups.module.code.ts"}
 {"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui/component/modules/base-conditions/base-conditions.module.code.ts"}
 {"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui/component/modules/page-detail-referrers/page-detail-referrers.module.code.tsx"}
 {"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui/component/modules/page-detail-subpages/page-detail-subpages.module.code.tsx"}
 {"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui/component/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"}
 {"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.code.ts"}
+{"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui/component/view-engine/modules/use-page-view/use-page-view.module.code.ts"}
+{"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui/component/view-engine/modules/use-view-row-rollups/use-view-row-rollups.module.code.ts"}
 {"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui/supabase/modules/apply-client-view-filters/apply-client-view-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"rollup.module.code.ts","path":"page/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"}

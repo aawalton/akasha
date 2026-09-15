@@ -1,8 +1,6 @@
 {"propertySlug":"import","fileName":"view-row.module.code.ts","path":"alan/web/modules/idle-card-grouping/idle-card-grouping.module.code.ts"}
 {"propertySlug":"import","fileName":"view-row.module.code.ts","path":"alan/web/modules/idle-card-rows/idle-card-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"view-row.module.code.ts","path":"alan/web/modules/idle-card-view/idle-card-view.module.code.tsx"}
-{"propertySlug":"import","fileName":"view-row.module.code.ts","path":"page/ui/component/components-view-engine/modules/generate-group-definitions/generate-group-definitions.module.code.ts"}
-{"propertySlug":"import","fileName":"view-row.module.code.ts","path":"page/ui/component/components-view-engine/modules/use-page-view/use-page-view.module.code.ts"}
 {"propertySlug":"import","fileName":"view-row.module.code.ts","path":"page/ui/component/modules/bare-listing-card/bare-listing-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"view-row.module.code.ts","path":"page/ui/component/modules/page-board/page-board.module.code.tsx"}
 {"propertySlug":"import","fileName":"view-row.module.code.ts","path":"page/ui/component/modules/page-calendar/page-calendar.module.code.tsx"}
@@ -24,4 +22,6 @@
 {"propertySlug":"import","fileName":"view-row.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts"}
 {"propertySlug":"import","fileName":"view-row.module.code.ts","path":"page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"}
 {"propertySlug":"import","fileName":"view-row.module.code.ts","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.code.tsx"}
-{"propertySlug":"parts","path":"page/ui/component/components-view-engine/components-view-engine.domain.ts","id":"01a071d3-819f-77d0-818b-e7da6441196a"}
+{"propertySlug":"import","fileName":"view-row.module.code.ts","path":"page/ui/component/view-engine/modules/generate-group-definitions/generate-group-definitions.module.code.ts"}
+{"propertySlug":"import","fileName":"view-row.module.code.ts","path":"page/ui/component/view-engine/modules/use-page-view/use-page-view.module.code.ts"}
+{"propertySlug":"parts","path":"page/ui/component/view-engine/page-ui-component-view-engine.domain.ts","id":"01a071d3-819f-77d0-818b-e7da6441196a"}

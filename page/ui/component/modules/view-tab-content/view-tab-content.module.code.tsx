@@ -7,7 +7,6 @@ import {
   type ViewDataJSON,
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/page/core/schema/modules/view-data-locked/view-data-locked.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import { PageCardRenderer } from "akasha/page/ui/component/modules/page-card-renderer/page-card-renderer.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import { PageRowCells } from "akasha/page/ui/component/modules/page-row-cells/page-row-cells.module.code.tsx"
@@ -25,6 +24,7 @@ import {
   buildRowHref,
   readRelationConfig,
 } from "akasha/page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { SupabasePageResolverProvider } from "akasha/page/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"

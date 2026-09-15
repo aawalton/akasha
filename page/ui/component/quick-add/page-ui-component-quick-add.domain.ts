@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const componentsQuickAdd = {
+export const pageUiComponentQuickAdd = {
   id: "01a071d3-63bd-7123-8d21-2d607ec892bb",
   type: "domain",
-  slug: "components-quick-add",
+  slug: "page-ui-component-quick-add",
   definition: "a page made from one line of text",
   parts: [
     "module/compute-quick-add-payload",

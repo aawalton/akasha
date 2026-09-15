@@ -23,10 +23,10 @@ import { useSidebarState } from "akasha/design/interfaces/layout/modules/use-sid
 import { createPage } from "akasha/page/access/modules/create/create.module.code.ts"
 import { NEVER_MATCH_SLUG } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
-import { useActiveQuickAddPageType } from "akasha/page/ui/component/components-quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"
 import { CreatePageDialog } from "akasha/page/ui/component/modules/create-page-dialog/create-page-dialog.module.code.tsx"
 import { SortableNavs } from "akasha/page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx"
 import { useAppNavItems } from "akasha/page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"
+import { useActiveQuickAddPageType } from "akasha/page/ui/component/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"
 import {
   type CreateSelectOptionEffect,
   PagesUIOptionCreateProvider,

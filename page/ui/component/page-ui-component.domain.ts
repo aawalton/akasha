@@ -7,8 +7,8 @@ export const pageUiComponent = {
   definition: "the parts a page and its listings are drawn from",
 
   parts: [
-    "domain/components-quick-add",
-    "domain/components-view-engine",
+    "domain/page-ui-component-quick-add",
+    "domain/page-ui-component-view-engine",
     "module/auth-provider",
     "module/bare-listing-card",
     "module/base-conditions",

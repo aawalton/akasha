@@ -5,8 +5,8 @@
 {"propertySlug":"import","fileName":"apply-grouping-shared.module.code.ts","path":"page/core/view/modules/generate-sort-options/generate-sort-options.module.code.ts"}
 {"propertySlug":"import","fileName":"apply-grouping-shared.module.code.ts","path":"page/core/view/modules/group-key-to-value/group-key-to-value.module.code.ts"}
 {"propertySlug":"import","fileName":"apply-grouping-shared.module.code.ts","path":"page/core/view/modules/sort-accessors/sort-accessors.module.code.ts"}
-{"propertySlug":"import","fileName":"apply-grouping-shared.module.code.ts","path":"page/ui/component/components-view-engine/modules/use-page-view/use-page-view.module.code.ts"}
 {"propertySlug":"import","fileName":"apply-grouping-shared.module.code.ts","path":"page/ui/component/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"}
 {"propertySlug":"import","fileName":"apply-grouping-shared.module.code.ts","path":"page/ui/component/modules/page-system-view-helpers/page-system-view-helpers.module.code.tsx"}
+{"propertySlug":"import","fileName":"apply-grouping-shared.module.code.ts","path":"page/ui/component/view-engine/modules/use-page-view/use-page-view.module.code.ts"}
 {"propertySlug":"import","fileName":"apply-grouping-shared.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"}
 {"propertySlug":"parts","path":"page/core/view/page-core-view.domain.ts","id":"01a071cb-580b-710d-a9ae-c371fe8df6c3"}

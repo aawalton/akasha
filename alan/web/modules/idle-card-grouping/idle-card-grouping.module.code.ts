@@ -1,6 +1,6 @@
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { getPageGroupDefinition } from "akasha/page/core/view/modules/apply-grouping/apply-grouping.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 
 export interface CardGroupSection {
   readonly key: string

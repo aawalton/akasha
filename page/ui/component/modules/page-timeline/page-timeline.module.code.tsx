@@ -1,11 +1,11 @@
 "use client"
 
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import {
   buildTimelineLayout,
   rowsToTimelineInputs,
 } from "akasha/page/ui/component/modules/page-timeline-helpers/page-timeline-helpers.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import type { ReactNode } from "react"
 
 interface PageTimelineProps {

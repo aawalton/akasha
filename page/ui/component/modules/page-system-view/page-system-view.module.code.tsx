@@ -4,7 +4,6 @@ import { PanelToggleProvider } from "akasha/design/interfaces/layout/modules/pan
 import { useCollapsedGroups } from "akasha/design/interfaces/patterns/modules/use-collapsed-groups/use-collapsed-groups.module.code.ts"
 import type { ViewFilter } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import { applySearch } from "akasha/page/core/view/modules/apply-search/apply-search.module.code.ts"
-import { usePageView } from "akasha/page/ui/component/components-view-engine/modules/use-page-view/use-page-view.module.code.ts"
 import {
   buildTableColumns,
   isCardEligibleProperty,
@@ -18,6 +17,7 @@ import { useBoardViewWiring } from "akasha/page/ui/component/modules/use-board-v
 import { useCalendarViewWiring } from "akasha/page/ui/component/modules/use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts"
 import { useTimelineConfig } from "akasha/page/ui/component/modules/use-timeline-config/use-timeline-config.module.code.ts"
 import { useViewLocalConfig } from "akasha/page/ui/component/modules/use-view-local-config/use-view-local-config.module.code.ts"
+import { usePageView } from "akasha/page/ui/component/view-engine/modules/use-page-view/use-page-view.module.code.ts"
 import { usePageResolverOptional } from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 import { useCallback, useEffect, useMemo, useState } from "react"
 

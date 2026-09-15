@@ -12,9 +12,6 @@ import {
   type LockedFacet,
   mergeLockedFacets,
 } from "akasha/page/core/schema/modules/view-data-locked/view-data-locked.module.code.ts"
-import { useViewRowAggregates } from "akasha/page/ui/component/components-view-engine/modules/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"
-import { useViewRowRollups } from "akasha/page/ui/component/components-view-engine/modules/use-view-row-rollups/use-view-row-rollups.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import { buildServerGroupedSections } from "akasha/page/ui/component/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"
 import { toPageDataRecord } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import type { ServerGroupedSection } from "akasha/page/ui/component/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
@@ -24,6 +21,9 @@ import {
   resolveRowPageTypeSlug,
 } from "akasha/page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
 import { selectViewQueryResult } from "akasha/page/ui/component/modules/view-tab-content-results/view-tab-content-results.module.code.ts"
+import { useViewRowAggregates } from "akasha/page/ui/component/view-engine/modules/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"
+import { useViewRowRollups } from "akasha/page/ui/component/view-engine/modules/use-view-row-rollups/use-view-row-rollups.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { useGroupByPaginatedQuery } from "akasha/page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"
 import { useRelatedPages } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePageViewQuery } from "akasha/page/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"

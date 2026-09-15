@@ -37,11 +37,6 @@
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui-store/query/modules/view-target-slugs/view-target-slugs.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/action-verb/modules/action-verb-registry/action-verb-registry.module.code.ts"}
-{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/components-quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"}
-{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/components-view-engine/modules/generate-group-definitions/generate-group-definitions.module.code.ts"}
-{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/components-view-engine/modules/use-page-view/use-page-view.module.code.ts"}
-{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/components-view-engine/modules/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"}
-{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/components-view-engine/modules/use-view-row-rollups/use-view-row-rollups.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/bare-listing-card/bare-listing-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/base-conditions/base-conditions.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"}
@@ -86,6 +81,11 @@
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"}
+{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"}
+{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/view-engine/modules/generate-group-definitions/generate-group-definitions.module.code.ts"}
+{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/view-engine/modules/use-page-view/use-page-view.module.code.ts"}
+{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/view-engine/modules/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"}
+{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/view-engine/modules/use-view-row-rollups/use-view-row-rollups.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/supabase/modules/apply-client-view-filters/apply-client-view-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"}

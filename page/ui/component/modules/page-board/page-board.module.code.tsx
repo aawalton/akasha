@@ -19,12 +19,12 @@ import {
 } from "akasha/design/interfaces/patterns/modules/drag-hold/drag-hold.module.code.ts"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import {
   type BoardColumnRect,
   computeBoardDropColumn,
 } from "akasha/page/ui/component/modules/page-board-dnd-helpers/page-board-dnd-helpers.module.code.ts"
 import type { ServerGroupedSection } from "akasha/page/ui/component/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 
 interface PageBoardProps {

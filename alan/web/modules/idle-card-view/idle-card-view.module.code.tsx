@@ -24,10 +24,10 @@ import { buildRosterViewConfig } from "akasha/alan/web/modules/idle-roster-view-
 import { openRosterGallery } from "akasha/alan/web/modules/roster-gallery-store/roster-gallery-store.module.code.ts"
 import type { GalleryCardSize } from "akasha/page/core/view/modules/gallery/gallery.module.code.ts"
 import { resolveGalleryCardSize } from "akasha/page/core/view/modules/gallery/gallery.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import { PageCardRenderer } from "akasha/page/ui/component/modules/page-card-renderer/page-card-renderer.module.code.tsx"
 import { PageSystemTabContent } from "akasha/page/ui/component/modules/page-system-view/page-system-view.module.code.tsx"
 import { useReorderViewWiring } from "akasha/page/ui/component/modules/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo, useState, useSyncExternalStore } from "react"
 

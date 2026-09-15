@@ -5,7 +5,6 @@ import { LoadMoreButton } from "akasha/design/interfaces/layout/modules/load-mor
 import { ResponsiveColumnsSkeleton } from "akasha/design/interfaces/layout/modules/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
 import { CollapsibleGroupSection } from "akasha/design/interfaces/patterns/modules/collapsible-group-section/collapsible-group-section.module.code.tsx"
 import type { useCollapsedGroups } from "akasha/design/interfaces/patterns/modules/use-collapsed-groups/use-collapsed-groups.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import { PageBoard } from "akasha/page/ui/component/modules/page-board/page-board.module.code.tsx"
 import { PageCalendar } from "akasha/page/ui/component/modules/page-calendar/page-calendar.module.code.tsx"
 import { PageListSection } from "akasha/page/ui/component/modules/page-list-section/page-list-section.module.code.tsx"
@@ -20,6 +19,7 @@ import {
 import type { withColumnWidths } from "akasha/page/ui/component/modules/page-table-widths/page-table-widths.module.code.ts"
 import type { useBoardViewWiring } from "akasha/page/ui/component/modules/use-board-view-wiring/use-board-view-wiring.module.code.ts"
 import type { useCalendarViewWiring } from "akasha/page/ui/component/modules/use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import type { Dispatch, SetStateAction } from "react"
 
 export interface PageSystemViewBodyProps

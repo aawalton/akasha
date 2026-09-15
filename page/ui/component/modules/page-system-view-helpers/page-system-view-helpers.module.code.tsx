@@ -16,9 +16,9 @@ import {
   getDefaultGroupSorts,
   sortGroupedResults,
 } from "akasha/page/core/view/modules/apply-grouping-sort/apply-grouping-sort.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import type { ServerGroupedSection } from "akasha/page/ui/component/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
 import { PageTimeline } from "akasha/page/ui/component/modules/page-timeline/page-timeline.module.code.tsx"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { Plus } from "lucide-react"
 import type { ReactNode } from "react"
 

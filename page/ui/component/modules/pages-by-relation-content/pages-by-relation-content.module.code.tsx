@@ -2,7 +2,6 @@
 
 import { completionShapeOf } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import type { ViewConfig } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import { RenderBareListingCard } from "akasha/page/ui/component/modules/bare-listing-card/bare-listing-card.module.code.tsx"
 import { PageSystemShell } from "akasha/page/ui/component/modules/page-system-shell/page-system-shell.module.code.tsx"
 import { PageSystemTabContent } from "akasha/page/ui/component/modules/page-system-view/page-system-view.module.code.tsx"
@@ -12,6 +11,7 @@ import { useNotesViewProps } from "akasha/page/ui/component/modules/use-notes-vi
 import { usePagesFilteredHrefs } from "akasha/page/ui/component/modules/use-pages-filtered-hrefs/use-pages-filtered-hrefs.module.code.ts"
 import { usePagesFilteredMutations } from "akasha/page/ui/component/modules/use-pages-filtered-mutations/use-pages-filtered-mutations.module.code.ts"
 import { usePagesFilteredQuery } from "akasha/page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { SupabasePageResolverProvider } from "akasha/page/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"

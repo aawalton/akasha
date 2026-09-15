@@ -21,9 +21,6 @@
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/relation-property/relation-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/type/page-property/page-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/block-editor/modules/use-block-persistence/use-block-persistence.module.code.ts"}
-{"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/components-quick-add/modules/compute-quick-add-payload/compute-quick-add-payload.module.code.ts"}
-{"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/components-quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"}
-{"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"}
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/modules/create-page-dialog/create-page-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/modules/date-time-filter-inputs-parse/date-time-filter-inputs-parse.module.code.ts"}
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/modules/date-time-filter-inputs/date-time-filter-inputs.module.code.tsx"}
@@ -42,4 +39,7 @@
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts"}
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/modules/value-filter-inputs/value-filter-inputs.module.code.tsx"}
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/quick-add/modules/compute-quick-add-payload/compute-quick-add-payload.module.code.ts"}
+{"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"}
+{"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"}
 {"propertySlug":"parts","path":"page/core/schema/page-core-schema.domain.ts","id":"01a071cb-3d85-7fcd-8315-90eca5831d35"}

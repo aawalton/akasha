@@ -1,7 +1,7 @@
 "use client"
 
 import { resolveDescendantPageTypeIds } from "akasha/page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
-import { buildPageResolver } from "akasha/page/ui/component/components-view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts"
+import { buildPageResolver } from "akasha/page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts"
 import {
   PageResolverProvider,
   type PageResolverValue,

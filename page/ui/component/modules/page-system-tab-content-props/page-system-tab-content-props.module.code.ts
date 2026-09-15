@@ -7,9 +7,9 @@ import type {
   VisibilityChange,
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import type { GalleryCardSize } from "akasha/page/core/view/modules/gallery/gallery.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import type { ReorderCardsHandler } from "akasha/page/ui/component/modules/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
 import type { PageTypeOption } from "akasha/page/ui/component/modules/view-settings-options/view-settings-options.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import type { ReactNode } from "react"
 
 export interface ServerGroupedSection {

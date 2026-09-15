@@ -5,8 +5,6 @@ import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewFilter } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
-import { useViewRowAggregates } from "akasha/page/ui/component/components-view-engine/modules/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import { buildBaseConditions } from "akasha/page/ui/component/modules/base-conditions/base-conditions.module.code.ts"
 import { buildServerGroupedSections } from "akasha/page/ui/component/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"
 import { buildFlatQueryArgs } from "akasha/page/ui/component/modules/flat-query-args/flat-query-args.module.code.ts"
@@ -18,6 +16,8 @@ import {
 } from "akasha/page/ui/component/modules/synthetic-config/synthetic-config.module.code.ts"
 import { useEffectiveListing } from "akasha/page/ui/component/modules/use-effective-listing/use-effective-listing.module.code.ts"
 import { buildPageTypeSlugMaps } from "akasha/page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
+import { useViewRowAggregates } from "akasha/page/ui/component/view-engine/modules/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { useGroupByPaginatedQuery } from "akasha/page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"
 import {
   useAllPages,

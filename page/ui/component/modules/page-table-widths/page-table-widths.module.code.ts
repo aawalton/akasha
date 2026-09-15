@@ -22,11 +22,11 @@ import {
   selectConfigSchema,
 } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import { formatSmartDate } from "akasha/page/core/view/modules/format-smart-date/format-smart-date.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import {
   type PageTableColumn,
   TITLE_COLUMN_ID,
 } from "akasha/page/ui/component/modules/page-table-shared/page-table-shared.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const TIME_REGEX = /^([01]\d|2[0-3]):[0-5]\d$/

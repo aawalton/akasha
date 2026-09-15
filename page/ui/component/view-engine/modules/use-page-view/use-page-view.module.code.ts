@@ -25,7 +25,7 @@ import {
   generateSortOptions,
   type SortOption,
 } from "akasha/page/core/view/modules/generate-sort-options/generate-sort-options.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { usePageResolverOptional } from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 import { useCallback, useMemo, useRef } from "react"
 

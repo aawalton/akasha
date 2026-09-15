@@ -9,7 +9,6 @@ import {
   TableHeader,
   TableRow,
 } from "akasha/design/interfaces/primitives/modules/table/table.module.code.tsx"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import { PageTableColGroup } from "akasha/page/ui/component/modules/page-table-colgroup/page-table-colgroup.module.code.tsx"
 import { ReorderableColumnTable } from "akasha/page/ui/component/modules/page-table-header/page-table-header.module.code.tsx"
 import {
@@ -17,6 +16,7 @@ import {
   type PageTableColumn,
 } from "akasha/page/ui/component/modules/page-table-shared/page-table-shared.module.code.ts"
 import { tableMinWidthPx } from "akasha/page/ui/component/modules/page-table-widths/page-table-widths.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import type { ReactNode } from "react"
 
 interface PageTableProps {

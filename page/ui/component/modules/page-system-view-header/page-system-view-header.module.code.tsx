@@ -9,12 +9,12 @@ import type {
   ViewConfig,
   ViewFilter,
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
-import type { UsePageViewResult } from "akasha/page/ui/component/components-view-engine/modules/use-page-view/use-page-view.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import { PagesFilterBar } from "akasha/page/ui/component/modules/page-filter-bar/page-filter-bar.module.code.tsx"
 import type { PageSystemTabContentProps } from "akasha/page/ui/component/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
 import { CreatePageButton } from "akasha/page/ui/component/modules/page-system-view-helpers/page-system-view-helpers.module.code.tsx"
 import { ViewSettingsButton } from "akasha/page/ui/component/modules/page-system-view-settings/page-system-view-settings.module.code.tsx"
+import type { UsePageViewResult } from "akasha/page/ui/component/view-engine/modules/use-page-view/use-page-view.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import type { Dispatch, SetStateAction } from "react"
 
 export interface PageSystemViewHeaderProps

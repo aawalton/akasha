@@ -13,13 +13,13 @@ import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page
 import type { PropertyValue } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import type { QuickAddConfig } from "akasha/page/core/schema/modules/quick-add/quick-add.module.code.ts"
-import { computeQuickAddPayload } from "akasha/page/ui/component/components-quick-add/modules/compute-quick-add-payload/compute-quick-add-payload.module.code.ts"
-import { parseInlineTokens } from "akasha/page/ui/component/components-quick-add/modules/parse-inline-tokens/parse-inline-tokens.module.code.ts"
+import { SelectPropertyBadge } from "akasha/page/ui/component/modules/select-property-badge/select-property-badge.module.code.tsx"
+import { computeQuickAddPayload } from "akasha/page/ui/component/quick-add/modules/compute-quick-add-payload/compute-quick-add-payload.module.code.ts"
+import { parseInlineTokens } from "akasha/page/ui/component/quick-add/modules/parse-inline-tokens/parse-inline-tokens.module.code.ts"
 import {
   type InlineCompletionSource,
   useInlineCompletion,
-} from "akasha/page/ui/component/components-quick-add/modules/use-inline-completion/use-inline-completion.module.code.ts"
-import { SelectPropertyBadge } from "akasha/page/ui/component/modules/select-property-badge/select-property-badge.module.code.tsx"
+} from "akasha/page/ui/component/quick-add/modules/use-inline-completion/use-inline-completion.module.code.ts"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useMemo, useRef, useState } from "react"
 

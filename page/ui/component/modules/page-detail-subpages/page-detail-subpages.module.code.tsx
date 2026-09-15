@@ -2,7 +2,6 @@
 
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
-import type { PageRow } from "akasha/page/ui/component/components-view-engine/modules/view-row/view-row.module.code.ts"
 import { buildTableColumns } from "akasha/page/ui/component/modules/card-property-columns/card-property-columns.module.code.ts"
 import {
   pageRowToPageDataJSON,
@@ -13,6 +12,7 @@ import { PageRowCells } from "akasha/page/ui/component/modules/page-row-cells/pa
 import { PageTable } from "akasha/page/ui/component/modules/page-table/page-table.module.code.tsx"
 import { TITLE_COLUMN_ID } from "akasha/page/ui/component/modules/page-table-shared/page-table-shared.module.code.ts"
 import { withColumnWidths } from "akasha/page/ui/component/modules/page-table-widths/page-table-widths.module.code.ts"
+import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { SupabasePageResolverProvider } from "akasha/page/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import {
