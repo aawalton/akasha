@@ -2,7 +2,7 @@ import type { ProcessProperty } from "akasha/page/process-property/process-prope
 
 export const supervisorProcess = {
   id: "01a05407-3d65-7188-930c-3dad28de1d4a",
-  type: "process-property",
+  type: "page-type/process-property",
   slug: "supervisor-process",
   propertySlug: "supervisor-process",
   definition: "the process keeping a seat filled",
