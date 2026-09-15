@@ -8,7 +8,7 @@ export const housingDropdowns = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The drop-down choices a player last made are kept in saved variables.",
     },
   ],

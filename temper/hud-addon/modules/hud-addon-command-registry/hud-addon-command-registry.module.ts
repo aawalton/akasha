@@ -8,11 +8,11 @@ export const hudAddonCommandRegistry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command registered twice under one name replaces the earlier command in place.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command is found by the name that command registered under.",
     },
   ],

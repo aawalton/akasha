@@ -8,20 +8,20 @@ export const errorsTriageGather = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A build id is read from the build-id file the addon build leaves beside an addon.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An addon folder read for one error is not read again for a later error.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An addon folder with no readable build id is remembered as carrying no build id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An error the game attributed reads only the attributed addon's build id.",
     },
   ],

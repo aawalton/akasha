@@ -8,7 +8,7 @@ export const dungeonChampionDefaults = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A filter is on until a player turns the filter off.",
     },
   ],

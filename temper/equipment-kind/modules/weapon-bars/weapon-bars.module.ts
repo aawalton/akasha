@@ -8,11 +8,11 @@ export const weaponBars = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A weapon bar's place in this table is the precedence an addon reads the bar in.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A weapon bar moved to another place changes which bar an addon prefers.",
     },
   ],

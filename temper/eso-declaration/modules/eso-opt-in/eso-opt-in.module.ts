@@ -8,11 +8,11 @@ export const esoOptIn = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Where the manifest sits is asked of the index rather than spelled.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A manifest naming no function is refused rather than read as a scope naming no function.",
     },

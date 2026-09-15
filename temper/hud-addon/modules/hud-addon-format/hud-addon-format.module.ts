@@ -8,11 +8,11 @@ export const hudAddonFormat = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading below zero is shown as zero.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A span under an hour drops the hour.",
     },
   ],

@@ -8,7 +8,7 @@ export const fcoGlobal = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A key on the global table is spelled as the markup that calls the key spells the key.",
     },

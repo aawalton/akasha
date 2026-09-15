@@ -8,7 +8,7 @@ export const itemBrowserGlobal = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This global is the add-on's own name rather than a name the game owns.",
     },
   ],

@@ -8,11 +8,11 @@ export const dungeonChampionLabels = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The labels here are English alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key no label answers to reads back as the empty string.",
     },
   ],

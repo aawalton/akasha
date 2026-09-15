@@ -7,6 +7,9 @@ export const fcoCraftingSmithing = {
   definition: "the smithing creation panel the interface tweaks change",
   code: "ts",
   invariants: [
-    { invariantKind: "absence", statement: "No shared guard stands behind the guards here." },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "No shared guard stands behind the guards here.",
+    },
   ],
 } as const satisfies Module

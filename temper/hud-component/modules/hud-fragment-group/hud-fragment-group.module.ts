@@ -8,11 +8,11 @@ export const hudFragmentGroup = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every part here belongs to all three HUD scenes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A part here is hidden through the fragment group.",
     },
   ],

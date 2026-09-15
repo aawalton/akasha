@@ -8,7 +8,7 @@ export const dungeonChampionPinTextures = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The two icon sets are numbered to match the saved pin texture type.",
     },
   ],

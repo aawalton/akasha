@@ -8,7 +8,7 @@ export const eventsAddonLoaded = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every timer this add-on holds is started from here.",
     },
   ],

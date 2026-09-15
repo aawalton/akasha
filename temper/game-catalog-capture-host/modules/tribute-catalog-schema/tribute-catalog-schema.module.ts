@@ -8,19 +8,19 @@ export const tributeCatalogSchema = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A patron has the cards that patron gives.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A card names its base form and its upgraded form.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A catalog key arrives as text and is coerced to a number.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each level is checked against its shape in `temper-capture-shapes`.",
     },
   ],

@@ -8,11 +8,11 @@ export const housingHolderTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here runs.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "One holder typed in one place is how the ported add-on was written.",
     },
   ],

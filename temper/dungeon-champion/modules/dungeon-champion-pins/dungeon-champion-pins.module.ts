@@ -8,11 +8,11 @@ export const dungeonChampionPins = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Pins asked for before the player is in the world wait for the world.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A champion draws as killed only where the game says the criterion is met.",
     },
   ],

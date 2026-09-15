@@ -8,19 +8,19 @@ export const errorsAddonRecord = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An error whose callstack matches a kept entry raises that entry's count.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A fifty-first distinct error displaces the entry least recently seen.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every entry names the account and the character and the world of that error.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Recording before the add-on has loaded throws.",
     },
   ],

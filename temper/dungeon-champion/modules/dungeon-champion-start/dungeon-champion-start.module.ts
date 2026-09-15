@@ -8,7 +8,7 @@ export const dungeonChampionStart = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Settings are brought up before pins are registered.",
     },
   ],

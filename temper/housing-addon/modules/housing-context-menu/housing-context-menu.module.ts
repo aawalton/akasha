@@ -8,11 +8,11 @@ export const housingContextMenu = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game's own context-menu function is wrapped rather than replaced.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The wrap is put on after a delay the game needs to build a context menu.",
     },
   ],

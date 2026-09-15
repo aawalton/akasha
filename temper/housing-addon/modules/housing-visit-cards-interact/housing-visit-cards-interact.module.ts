@@ -8,7 +8,7 @@ export const housingVisitCardsInteract = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One card is selected at a time.",
     },
   ],

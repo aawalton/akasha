@@ -8,11 +8,11 @@ export const housingUiStrings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A phrase is put on the holder rather than into a game string id.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "English is the only language carried.",
     },
   ],

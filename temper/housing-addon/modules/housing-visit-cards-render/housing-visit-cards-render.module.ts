@@ -8,7 +8,7 @@ export const housingVisitCardsRender = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A received card is kept in saved variables until the player removes that card.",
     },
   ],

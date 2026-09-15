@@ -8,15 +8,15 @@ export const hudAddonPublicApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The global is published as the module is loaded.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The shape of the global is stated in `temper-addon-library-types`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Another add-on reaches the heads-up add-on through the global alone.",
     },
   ],

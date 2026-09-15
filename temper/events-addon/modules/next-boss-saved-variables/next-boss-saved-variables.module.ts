@@ -8,12 +8,12 @@ export const nextBossSavedVariables = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The saved variables are kept for the whole account rather than for one character.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The timers kept are read back only where the campaign is the one those timers were kept under.",
     },

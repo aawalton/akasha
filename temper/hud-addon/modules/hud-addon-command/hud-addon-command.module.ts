@@ -8,16 +8,16 @@ export const hudAddonCommand = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The slash command with no subcommand lists the subcommands registered.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The listing groups the subcommands under the add-on that registered the subcommand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subcommand with no handler is listed and not dispatched to.",
     },
   ],

@@ -8,7 +8,7 @@ export const housingWindowControls = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A scroll frame has a slider the add-on made rather than the game's.",
     },
   ],

@@ -8,7 +8,7 @@ export const housingLoad = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Loading begins the port-to-friend part and nothing else.",
     },
   ],

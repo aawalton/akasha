@@ -8,7 +8,7 @@ export const dungeonChampionSlash = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A position prints as hundredths of a percent.",
     },
   ],

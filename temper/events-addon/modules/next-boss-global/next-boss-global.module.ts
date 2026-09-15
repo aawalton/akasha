@@ -8,7 +8,7 @@ export const nextBossGlobal = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A key binding's Lua runs outside the bundle and reaches only a global.",
     },
   ],

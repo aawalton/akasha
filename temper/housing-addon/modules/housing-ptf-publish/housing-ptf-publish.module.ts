@@ -8,7 +8,7 @@ export const housingPtfPublish = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The keybinds the add-on declares reach the holder by one global name.",
     },
   ],

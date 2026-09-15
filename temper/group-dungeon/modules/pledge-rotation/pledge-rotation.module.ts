@@ -8,15 +8,15 @@ export const pledgeRotation = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rotation is counted in whole days from the giver's own epoch.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day here is the day the game resets on rather than the calendar day.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A giver whose rotation has no dungeon at today's position is refused.",
     },
   ],

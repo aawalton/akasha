@@ -8,20 +8,20 @@ export const nextBossInit = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The string ids are made before a module reads a string id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every module filling in the shared table is loaded before the table is used.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The tracker starts idle and the first zone change decides whether the tracker listens.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A slash command marks a district dead by its number on the round.",
     },
   ],

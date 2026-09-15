@@ -8,7 +8,7 @@ export const nextBossColors = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A district still on its timer is red and a district that is up is green.",
     },
   ],

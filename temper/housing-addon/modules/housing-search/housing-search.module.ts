@@ -8,11 +8,11 @@ export const housingSearch = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Matching begins once the typed text is long enough.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The number of results shown at once is capped.",
     },
   ],

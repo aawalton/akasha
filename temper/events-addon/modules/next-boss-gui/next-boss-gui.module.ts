@@ -8,19 +8,19 @@ export const nextBossGui = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A district's label on the map is found by the district's name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The map's zoom is held still while the timers are drawn over the map.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The timetable window remembers where the player dragged the window to.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The map timers are drawn only on the Imperial City map.",
     },
   ],

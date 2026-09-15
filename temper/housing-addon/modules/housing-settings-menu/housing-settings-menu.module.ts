@@ -8,7 +8,7 @@ export const housingSettingsMenu = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A setting is written to saved variables as the player changes the setting.",
     },
   ],

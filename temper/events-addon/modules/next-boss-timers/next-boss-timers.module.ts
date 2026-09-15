@@ -8,24 +8,24 @@ export const nextBossTimers = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A timer has the second a boss returns rather than the seconds left.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The district with the longest time left is where the round is read from.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The sewers are listed first and the six districts follow in running order.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A timer a player starts is shared with the group and one a group member shares is not.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A time here is a second the game counts rather than a date.",
     },
   ],

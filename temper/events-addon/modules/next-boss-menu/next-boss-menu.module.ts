@@ -8,16 +8,16 @@ export const nextBossMenu = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A setting takes effect the moment that setting changes rather than on the next reload.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The saved variables are read before the panel is built.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The panel names the two authors this tracker was ported from.",
     },
   ],

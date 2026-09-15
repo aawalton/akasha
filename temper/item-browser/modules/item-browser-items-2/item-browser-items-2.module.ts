@@ -8,11 +8,11 @@ export const itemBrowserItems2 = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "These rows are a frozen port of an upstream table.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "No program in this repository rebuilds these rows.",
     },
   ],

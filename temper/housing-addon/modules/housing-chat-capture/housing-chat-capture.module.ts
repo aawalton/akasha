@@ -8,11 +8,11 @@ export const housingChatCapture = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A line is a visit card only when the line has the agreed key word.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which chat channels may have a card is a player setting.",
     },
   ],

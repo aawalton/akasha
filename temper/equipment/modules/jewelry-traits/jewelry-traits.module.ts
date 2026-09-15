@@ -8,11 +8,11 @@ export const jewelryTraits = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This table is written out from the trait pages rather than by hand.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A trait's place in this table is the index a build hash has.",
     },
   ],

@@ -8,15 +8,15 @@ export const itemBrowserItems = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A row's place in this table is the order the set list is built in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "These rows are a frozen port of an upstream table.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "No program in this repository rebuilds these rows.",
     },
   ],

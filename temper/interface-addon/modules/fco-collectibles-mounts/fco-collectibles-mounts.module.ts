@@ -7,6 +7,9 @@ export const fcoCollectiblesMounts = {
   definition: "the mount list the interface tweaks mark favourites in",
   code: "ts",
   invariants: [
-    { invariantKind: "absence", statement: "No shared guard stands behind the table guards here." },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "No shared guard stands behind the table guards here.",
+    },
   ],
 } as const satisfies Module

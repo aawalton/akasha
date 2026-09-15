@@ -8,7 +8,7 @@ export const housingMyHouses = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A bought house may be ported to inside or at the front door.",
     },
   ],

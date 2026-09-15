@@ -8,7 +8,7 @@ export const housingBuildLibraryTab = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Controls are built once and hidden rather than made again.",
     },
   ],

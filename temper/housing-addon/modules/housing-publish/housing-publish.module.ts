@@ -8,7 +8,7 @@ export const housingPublish = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The name and version other add-ons may read are published under one global name.",
     },
   ],

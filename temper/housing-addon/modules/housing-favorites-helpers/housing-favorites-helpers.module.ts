@@ -8,7 +8,7 @@ export const housingFavoritesHelpers = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A favourite's place in the saved list is the number a keybind ports to.",
     },
   ],

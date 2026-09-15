@@ -8,7 +8,7 @@ export const housingBuildWindow = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Where the window sits is kept in saved variables.",
     },
   ],

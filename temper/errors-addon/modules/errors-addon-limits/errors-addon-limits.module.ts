@@ -8,11 +8,11 @@ export const errorsAddonLimits = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Fifty distinct errors are kept.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A callstack beyond 1900 characters ends in an ellipsis.",
     },
   ],

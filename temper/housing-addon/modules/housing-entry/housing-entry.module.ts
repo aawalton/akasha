@@ -8,11 +8,11 @@ export const housingEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every part of the add-on is reached from here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The add-on waits for the game to name the add-on before loading begins.",
     },
   ],

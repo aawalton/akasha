@@ -8,7 +8,7 @@ export const dungeonChampionMapZone = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The zone is read from a texture path rather than asked of the game.",
     },
   ],

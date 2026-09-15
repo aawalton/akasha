@@ -8,19 +8,19 @@ export const errorsAddonTraceback = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A traceback loses its Locals blocks before being kept.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An error with no visible text is recorded under a sentinel message.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An error that is not a string is recorded under a sentinel message.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sentinel message has the listener's own callstack for want of the origin.",
     },
   ],

@@ -8,7 +8,7 @@ export const fcoSkills = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No shared guard could name the type each guard here narrows to.",
     },
   ],

@@ -8,15 +8,15 @@ export const housingPorting = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A port to another player's house needs that player to be a friend or guild mate.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Where a port lands is a player setting rather than a per-house choice.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key bound to a favorite slot holding no house says so.",
     },
   ],

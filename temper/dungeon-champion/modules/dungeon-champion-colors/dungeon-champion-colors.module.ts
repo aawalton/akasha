@@ -9,7 +9,7 @@ export const dungeonChampionColors = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A color with no fourth number is fully opaque.",
     },
   ],

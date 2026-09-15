@@ -8,7 +8,7 @@ export const housingTabs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which tab opens first is a player setting.",
     },
   ],

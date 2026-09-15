@@ -8,15 +8,15 @@ export const errorsAddonBuildIds = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The blamed folder is the earliest callstack folder the build stamp knows.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A callstack naming no add-on folder blames nobody.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No build stamp is needed for an error to be recorded.",
     },
   ],

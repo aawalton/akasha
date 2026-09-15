@@ -8,20 +8,20 @@ export const dungeonChampionPlaces = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The byte ceiling is why the zones arrive in two groups rather than in a single table.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The groups are spread in the order the source table had the zones.",
     },
     {
-      invariantKind: "upkeep",
+      invariantKind: "invariant-kind/upkeep",
       statement: "A zone belongs to one group of places alone.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "A zone named in both groups would lose the earlier group's entries without a word.",
     },

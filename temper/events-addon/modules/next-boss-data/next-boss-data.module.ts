@@ -8,20 +8,20 @@ export const nextBossData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A district is keyed by the name the player reads rather than by a number.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Thirteen bosses are spread across six districts and the sewers.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The round of districts is listed three times over so a reader never runs off its end.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The next district is read from one table clockwise and another counterclockwise.",
     },
   ],

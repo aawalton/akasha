@@ -8,7 +8,7 @@ export const itemBrowserTooltipExtension = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection slot is typed as an id64 here rather than as a number.",
     },
   ],

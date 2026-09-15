@@ -8,19 +8,19 @@ export const nextBossConstants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A district boss returns fifteen minutes after dying.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A district boss returns seven minutes after dying during an event.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The simulacrum of Molag Bal returns five minutes after dying.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Imperial City is two zones and the Imperial Sewers are a third.",
     },
   ],

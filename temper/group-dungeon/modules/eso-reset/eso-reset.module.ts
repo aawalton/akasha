@@ -8,19 +8,19 @@ export const esoReset = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day here turns over at six in the morning in New York.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The saving-time rule of today is applied to every year.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Lua compiled for the game reaches no Date and no clock of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every instant here is a whole second rather than a millisecond.",
     },
   ],

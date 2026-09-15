@@ -8,11 +8,11 @@ export const armorSlots = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An armor slot's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "An armor slot moved to another place breaks every build hash saved.",
     },
   ],

@@ -9,11 +9,11 @@ export const itemFilterTypeConstants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each number is read out of the client rather than written down here.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here turns a number into display text.",
     },
   ],

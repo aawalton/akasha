@@ -8,7 +8,7 @@ export const housingHouseList = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A house the account has yet to buy is listed but cannot be ported to.",
     },
   ],

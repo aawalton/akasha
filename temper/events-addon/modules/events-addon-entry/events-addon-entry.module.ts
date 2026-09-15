@@ -8,7 +8,7 @@ export const eventsAddonEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing here runs before the game says this add-on has loaded.",
     },
   ],

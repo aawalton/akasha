@@ -8,7 +8,7 @@ export const soloDifficulty = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A dungeon saying nothing of its difficulty is taken as hard.",
     },
   ],

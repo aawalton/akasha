@@ -7,6 +7,9 @@ export const fcoMap = {
   definition: "the world map behaviour the interface tweaks change",
   code: "ts",
   invariants: [
-    { invariantKind: "absence", statement: "No shared guard stands behind the table guards here." },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "No shared guard stands behind the table guards here.",
+    },
   ],
 } as const satisfies Module

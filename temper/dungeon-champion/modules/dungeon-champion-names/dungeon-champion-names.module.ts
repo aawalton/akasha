@@ -8,7 +8,7 @@ export const dungeonChampionNames = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The pin keys here are the keys LibMapPins and the compass are told.",
     },
   ],

@@ -8,11 +8,11 @@ export const assistantCollectibles = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An assistant collectible id is the game's own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each id is copied rather than worked out.",
     },
   ],

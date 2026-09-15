@@ -8,11 +8,11 @@ export const hudAddonHideTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A registration says how to reach its part rather than holding the part.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A plan entry has the mechanism the catalog gives its part.",
     },
   ],

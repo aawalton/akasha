@@ -8,7 +8,7 @@ export const housingHover = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A row under the pointer is marked by a backdrop colour rather than by changed text.",
     },

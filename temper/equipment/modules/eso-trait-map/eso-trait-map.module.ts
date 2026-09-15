@@ -8,11 +8,11 @@ export const esoTraitMap = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Weapon armor and jewelry each number their traits differently.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The reverse map is worked out at load rather than written out.",
     },
   ],

@@ -8,11 +8,11 @@ export const hudSceneFragments = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A part here belongs to the one scene adding the part.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A part here is hidden by the scene rather than by the fragment group.",
     },
   ],

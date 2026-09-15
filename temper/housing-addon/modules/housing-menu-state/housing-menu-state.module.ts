@@ -8,7 +8,7 @@ export const housingMenuState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The panel is described before the settings library is there to read the panel.",
     },
   ],

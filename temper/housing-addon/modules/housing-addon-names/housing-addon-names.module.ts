@@ -8,7 +8,7 @@ export const housingAddonNames = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The name here is the folder name the game loads.",
     },
   ],

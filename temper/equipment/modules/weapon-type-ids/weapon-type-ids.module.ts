@@ -8,7 +8,7 @@ export const weaponTypeIds = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This module names the weapon types without naming any order among the weapon types.",
     },

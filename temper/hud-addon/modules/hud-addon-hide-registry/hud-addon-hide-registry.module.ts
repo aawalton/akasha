@@ -9,19 +9,19 @@ export const hudAddonHideRegistry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A part is reached again each time the plan is carried out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A part not answering the mechanism the catalog names is left alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Carrying out the whole plan touches only the parts to be hidden.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A mechanism the catalog gains and the registry does not is refused at compile time.",
     },

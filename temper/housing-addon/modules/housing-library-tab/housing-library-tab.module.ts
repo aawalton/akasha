@@ -8,7 +8,7 @@ export const housingLibraryTab = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row is drawn only for a library entry the current filter admits.",
     },
   ],

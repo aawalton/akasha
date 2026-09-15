@@ -9,7 +9,7 @@ export const armorTypeConstants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each number is read out of the client rather than written down here.",
     },
   ],

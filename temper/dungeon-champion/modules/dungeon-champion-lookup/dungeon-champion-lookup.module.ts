@@ -8,7 +8,7 @@ export const dungeonChampionLookup = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A map the tables know nothing of answers with nothing.",
     },
   ],

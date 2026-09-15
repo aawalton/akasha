@@ -8,11 +8,11 @@ export const dungeonChampionSavedVars = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Settings once kept under a character name are moved to the account id once.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Reading the settings before the settings are brought up throws.",
     },
   ],

@@ -9,15 +9,15 @@ export const hudAddonVisibilityVersion = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The baseline stored the flag each part was hidden by.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The current version stores the flag each part is shown by.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stored value that is not a boolean is left out of the migration.",
     },
   ],

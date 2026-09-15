@@ -8,11 +8,11 @@ export const housingInit = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The window is built as the add-on loads rather than when first shown.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Saved variables missing a field take the field's default.",
     },
   ],

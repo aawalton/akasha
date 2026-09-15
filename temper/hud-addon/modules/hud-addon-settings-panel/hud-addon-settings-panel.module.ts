@@ -8,15 +8,15 @@ export const hudAddonSettingsPanel = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A part sits under the category the catalog gives that part.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The categories appear in the order the catalog first names a category.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A checkbox turned on shows its part.",
     },
   ],

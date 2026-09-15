@@ -8,11 +8,11 @@ export const hudAddonBuiltins = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The session starts again each time the player is activated for the first time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A session that was never started is started as the fields are installed.",
     },
   ],

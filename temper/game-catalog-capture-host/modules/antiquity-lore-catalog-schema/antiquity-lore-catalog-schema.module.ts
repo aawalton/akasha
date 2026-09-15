@@ -8,11 +8,11 @@ export const antiquityLoreCatalogSchema = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A catalog key arrives as text and is coerced to a number.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry with a field the schema does not name is refused.",
     },
   ],

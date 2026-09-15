@@ -8,7 +8,7 @@ export const housingSliders = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A list shorter than the frame with the list hides the slider.",
     },
   ],

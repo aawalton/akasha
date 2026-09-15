@@ -8,7 +8,7 @@ export const housingLibraryLookup = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which library answers is decided by the world the player is on.",
     },
   ],

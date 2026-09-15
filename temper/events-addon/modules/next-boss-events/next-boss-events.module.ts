@@ -8,24 +8,24 @@ export const nextBossEvents = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tracker listens only while the player is inside Imperial City.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The one-second loop keeps running in Cyrodiil so a timer survives a zone change.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A boss counts as dead only where the reticle saw that boss alive in the last minute.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A kill shared with the group has the district rather than the boss.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A group broadcast is sent only where LibGroupBroadcast is loaded.",
     },
   ],

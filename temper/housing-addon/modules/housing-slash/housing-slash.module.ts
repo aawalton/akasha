@@ -8,7 +8,7 @@ export const housingSlash = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A slash command naming no word opens the window.",
     },
   ],

@@ -8,11 +8,11 @@ export const dungeonChampionSettings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The two icons beside the icon-set dropdown are built once the panel exists.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The control types this panel needs are declared here rather than globally.",
     },
   ],

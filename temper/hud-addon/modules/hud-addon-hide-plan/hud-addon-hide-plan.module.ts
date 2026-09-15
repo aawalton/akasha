@@ -8,11 +8,11 @@ export const hudAddonHidePlan = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A registration naming no part in the catalog is left out of the plan.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here touches a game control.",
     },
   ],

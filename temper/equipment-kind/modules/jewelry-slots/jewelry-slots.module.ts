@@ -8,11 +8,11 @@ export const jewelrySlots = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A jewelry slot's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A jewelry slot moved to another place breaks every build hash saved.",
     },
   ],

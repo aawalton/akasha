@@ -8,11 +8,11 @@ export const hudAddonHideTargets = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A shape here has the one method the mechanism names.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No shape here is a game global.",
     },
   ],

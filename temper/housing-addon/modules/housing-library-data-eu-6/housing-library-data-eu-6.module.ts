@@ -8,16 +8,16 @@ export const housingLibraryDataEu6 = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This code is written out from an upstream library file rather than by hand.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "An entry's place in this part is the place the gathered list keeps that entry in.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "An entry moved to another place moves the entry every library row shows.",
     },
   ],

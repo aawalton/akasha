@@ -8,7 +8,7 @@ export const housingConstants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A number saved under a player's settings keeps the meaning that number had.",
     },
   ],

@@ -8,7 +8,7 @@ export const armorWeightIds = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This module names the armor weights without naming any order among the armor weights.",
     },

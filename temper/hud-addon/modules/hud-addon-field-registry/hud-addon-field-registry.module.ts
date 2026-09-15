@@ -8,11 +8,11 @@ export const hudAddonFieldRegistry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field registered twice under one id replaces the earlier field in place.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two fields of one order keep the order the two fields were registered in.",
     },
   ],

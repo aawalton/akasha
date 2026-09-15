@@ -8,11 +8,11 @@ export const errorsAddonEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Listening begins before saved variables are ready.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Saved variables are opened through the capture writer.",
     },
   ],

@@ -8,11 +8,11 @@ export const esoDate = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Lua compiled for the game reaches no Date.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller of this module runs on a host rather than inside the game.",
     },
   ],

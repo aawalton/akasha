@@ -8,7 +8,7 @@ export const assistantEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Keybind names are made again whenever a collectible changes.",
     },
   ],

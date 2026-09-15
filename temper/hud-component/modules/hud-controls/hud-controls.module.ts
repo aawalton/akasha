@@ -8,11 +8,11 @@ export const hudControls = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A part here is hidden by a method called on the control.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every part here belongs to all three HUD scenes.",
     },
   ],

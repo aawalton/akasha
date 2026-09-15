@@ -8,7 +8,7 @@ export const dungeonChampionPinRegister = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A compass pin shrinks as the compass pin moves away from the center.",
     },
   ],

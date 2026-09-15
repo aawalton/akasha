@@ -8,11 +8,11 @@ export const housingState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every other module reaches this holder rather than importing a sibling module.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Reading saved variables before the add-on opens the saved variables raises an error.",
     },

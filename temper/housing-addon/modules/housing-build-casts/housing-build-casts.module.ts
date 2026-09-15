@@ -8,11 +8,11 @@ export const housingBuildCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here runs.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "A cast is how the ported add-on reaches a control the game types loosely.",
     },
   ],

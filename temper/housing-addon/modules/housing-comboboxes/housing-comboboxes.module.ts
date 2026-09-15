@@ -8,7 +8,7 @@ export const housingComboboxes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A favourite chosen in a drop-down ports without a further click.",
     },
   ],

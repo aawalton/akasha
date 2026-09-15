@@ -8,11 +8,11 @@ export const assistantBindings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A keybind name is made only for an assistant already unlocked.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name already carrying text is left alone.",
     },
   ],

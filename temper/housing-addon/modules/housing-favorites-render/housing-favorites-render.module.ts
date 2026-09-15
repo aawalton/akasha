@@ -8,7 +8,7 @@ export const housingFavoritesRender = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Rows are made once and reused as the list changes.",
     },
   ],

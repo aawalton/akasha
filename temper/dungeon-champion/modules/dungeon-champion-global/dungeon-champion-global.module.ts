@@ -8,7 +8,7 @@ export const dungeonChampionGlobal = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This global is the addon's own name rather than a name the game owns.",
     },
   ],
