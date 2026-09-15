@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const libChatMessage = {
   id: "01a081a3-44a8-7c1f-b5b7-20501e303d9a",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "lib-chat-message",
   addonName: "LibChatMessage",
   esoAddon: "eso-addon/temper-lib-chat-message",

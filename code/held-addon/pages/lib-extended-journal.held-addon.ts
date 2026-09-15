@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const libExtendedJournal = {
   id: "01a081a4-4c4e-7b50-9594-8fddefe9187d",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "lib-extended-journal",
   addonName: "LibExtendedJournal",
   esoAddon: "eso-addon/temper-lib-extended-journal",

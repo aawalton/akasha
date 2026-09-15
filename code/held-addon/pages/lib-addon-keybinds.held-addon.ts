@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const libAddonKeybinds = {
   id: "01a081a2-a9d8-7192-a5f9-fc6facd57f99",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "lib-addon-keybinds",
   addonName: "libAddonKeybinds",
   esoAddon: "eso-addon/temper-lib-addon-keybinds",

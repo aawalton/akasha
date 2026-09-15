@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const libCustomMenu = {
   id: "01a081a2-9161-757a-990c-c63b64bbb36d",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "lib-custom-menu",
   addonName: "LibCustomMenu",
   esoAddon: "eso-addon/temper-lib-custom-menu",

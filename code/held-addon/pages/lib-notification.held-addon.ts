@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const libNotification = {
   id: "01a081a4-6d91-7385-8091-4ff636e9d49e",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "lib-notification",
   addonName: "LibNotification",
   esoAddon: "eso-addon/temper-lib-notification",

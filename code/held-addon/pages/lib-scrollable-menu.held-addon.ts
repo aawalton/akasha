@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const libScrollableMenu = {
   id: "01a081a4-c173-778e-863c-84d391133193",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "lib-scrollable-menu",
   addonName: "LibScrollableMenu",
   esoAddon: "eso-addon/temper-lib-scrollable-menu",

@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const libGps = {
   id: "01a081a3-9240-717f-9060-1239ce292038",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "lib-gps",
   addonName: "LibGPS",
   esoAddon: "eso-addon/temper-lib-gps",

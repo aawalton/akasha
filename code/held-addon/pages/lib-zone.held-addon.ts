@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const libZone = {
   id: "01a081a5-6ef3-75e4-b276-15a8136c5adf",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "lib-zone",
   addonName: "LibZone",
   esoAddon: "eso-addon/temper-lib-zone",

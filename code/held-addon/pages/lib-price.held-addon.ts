@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const libPrice = {
   id: "01a081a4-8901-728d-8d00-948d042a65a3",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "lib-price",
   addonName: "LibPrice",
   esoAddon: "eso-addon/temper-lib-price",

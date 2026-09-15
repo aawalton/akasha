@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const libShifterBox = {
   id: "01a081a4-fab1-7deb-909a-b47b041720df",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "lib-shifter-box",
   addonName: "LibShifterBox",
   esoAddon: "eso-addon/temper-lib-shifter-box",

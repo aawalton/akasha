@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const libMapPins = {
   id: "01a081a4-156f-7987-b7f7-d3f571fc27df",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "lib-map-pins",
   addonName: "LibMapPins-1.0",
   esoAddon: "eso-addon/temper-lib-map-pins",

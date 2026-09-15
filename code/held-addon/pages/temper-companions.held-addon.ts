@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const temperCompanions = {
   id: "01a081a0-b067-71a4-aa1c-3509bc37c485",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "temper-companions",
   addonName: "TemperCompanions",
   esoAddon: "eso-addon/temper-companions-addon",

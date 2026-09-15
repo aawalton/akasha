@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const temperTableFunctions = {
   id: "01a081a5-344e-772f-adeb-b75f89d0ee3d",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "temper-table-functions",
   addonName: "TemperTableFunctions",
   esoAddon: "eso-addon/temper-lib-table-functions",

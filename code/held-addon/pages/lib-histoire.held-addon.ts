@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const libHistoire = {
   id: "01a081a3-ab54-7f37-b355-2b890f148f28",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "lib-histoire",
   addonName: "LibHistoire",
   esoAddon: "eso-addon/temper-lib-histoire",

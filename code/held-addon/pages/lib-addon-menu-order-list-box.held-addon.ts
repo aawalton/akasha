@@ -2,7 +2,7 @@ import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.type
 
 export const libAddonMenuOrderListBox = {
   id: "01a081a2-c451-788f-b202-460a68cea4eb",
-  type: "held-addon",
+  type: "page-type/held-addon",
   slug: "lib-addon-menu-order-list-box",
   addonName: "LibAddonMenuOrderListBox",
   esoAddon: "eso-addon/temper-lib-addon-menu-order-list-box",
