@@ -2,7 +2,7 @@ import type { Color } from "akasha/design/interface/color/color.page-type.types.
 
 export const soot = {
   id: "01a0821f-a3c8-76b5-99a4-5d222b936b65",
-  type: "color",
+  type: "page-type/color",
   slug: "soot",
   title: "Soot",
   hex: "#010101",

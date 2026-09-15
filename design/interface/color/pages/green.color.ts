@@ -2,7 +2,7 @@ import type { Color } from "akasha/design/interface/color/color.page-type.types.
 
 export const green = {
   id: "01a00bb6-c14a-7000-8674-f5c1d9db59e5",
-  type: "color",
+  type: "page-type/color",
   slug: "green",
   title: "Green",
   hex: "#2d8c57",

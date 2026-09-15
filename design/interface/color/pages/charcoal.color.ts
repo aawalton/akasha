@@ -2,7 +2,7 @@ import type { Color } from "akasha/design/interface/color/color.page-type.types.
 
 export const charcoal = {
   id: "01a0821f-c73c-76ce-a656-e21cd5cb2279",
-  type: "color",
+  type: "page-type/color",
   slug: "charcoal",
   title: "Charcoal",
   hex: "#141414",

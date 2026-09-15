@@ -2,7 +2,7 @@ import type { Color } from "akasha/design/interface/color/color.page-type.types.
 
 export const chalk = {
   id: "01a08220-322a-7dec-9148-554442d5eb7b",
-  type: "color",
+  type: "page-type/color",
   slug: "chalk",
   title: "Chalk",
   hex: "#d7d7d7",
