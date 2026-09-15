@@ -18,10 +18,6 @@ export const checkStaging = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "What a body the checkout is asked for imports is filed in the import index.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "What a body the checkout is asked for imports is filed beside the page imported.",
     },
     {

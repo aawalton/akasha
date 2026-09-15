@@ -1,7 +1,6 @@
 import { join } from "node:path"
 import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
-import { indexImport } from "akasha/page/index/import/index-import.index.ts"
 import type { Reading, Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   beneath,
@@ -9,7 +8,6 @@ import {
   indexIn,
   readFrom,
   readingAt,
-  readingOf,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { filedFor, type PageAddress } from "akasha/page/modules/address/page-address.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -27,8 +25,6 @@ export type Listed = {
 
 const IDENTITY = indexIdentity.name
 
-const IMPORT = indexImport.name
-
 const EDGE = indexEdge.name
 
 const PROPERTY = "page-property"
@@ -42,8 +38,6 @@ const PAGE = "page"
 const PAGE_TYPE = "page-type"
 
 const ID = "id"
-
-const AT_PATH = "path"
 
 const ROOT = ""
 
@@ -207,25 +201,6 @@ export function listedEvery(given: string | Reading, address: PageAddress): read
 
 export function listedFor(given: string | Reading, address: PageAddress): Listed | null {
   return listedEvery(given, address)[0] ?? null
-}
-
-function pathsIn(reading: Reading, at: string): readonly string[] {
-  const found: string[] = []
-  for (const line of reading.lines(at)) {
-    const said = JSON.parse(line) as { readonly path?: unknown }
-    if (typeof said.path === "string") found.push(said.path)
-  }
-  return found.sort()
-}
-
-export function importersIn(given: string | Reading, path: string): readonly string[] {
-  return pathsIn(readingOf(given), join(IMPORT, AT_PATH, `${path}${ENDING}`))
-}
-
-export function importersOf(path: string, reading: Reading): readonly string[] {
-  return answered(reading, ROOT, `which files import \`${path}\``, (held) =>
-    importersIn(held, path)
-  )
 }
 
 export function everyOfType(given: string | Reading, pageTypeSlug: string): readonly Listed[] {

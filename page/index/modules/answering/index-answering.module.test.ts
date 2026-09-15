@@ -18,7 +18,6 @@ import { knownIn } from "akasha/page/index/modules/reaching/reaching.module.code
 import {
   everyOfType,
   idsNaming,
-  importersOf,
   listedAt,
   listedById,
   listedNamed,
@@ -173,7 +172,6 @@ test("what imports a file is answered as the reader beneath answers it", () => {
   const reading = readingIn(root)
 
   expect(answeringOver(reading, pageOf).importersOf(HELD_AT)).toEqual([TYPE_AT])
-  expect(importersOf(HELD_AT, reading)).toEqual([TYPE_AT])
 })
 
 test("a question is answered from the reading bound rather than from the index at a root", () => {

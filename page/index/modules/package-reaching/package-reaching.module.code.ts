@@ -11,9 +11,8 @@ import {
   under,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import { carryingOf } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
-import { importersIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import { readingOf } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { importersOf } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const WORKSPACE_MANIFEST = "workspace-manifest"
@@ -153,10 +152,9 @@ function landedElsewhere(was: Naming, now: Naming): readonly string[] {
 }
 
 function importersAmong(given: string | Reading, landed: readonly string[]): ReadonlySet<string> {
-  const reading = readingOf(given)
   const said = new Set<string>()
   for (const one of landed) {
-    for (const path of importersIn(reading, one)) said.add(path)
+    for (const path of importersOf(given, one)) said.add(path)
   }
   return said
 }

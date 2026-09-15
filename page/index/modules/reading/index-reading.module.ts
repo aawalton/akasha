@@ -99,15 +99,6 @@ export const indexReading = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "The importers of a file are refused when the index and HEAD differ in a path that makes an edge.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A caller filing a change reads those importers without that refusal.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "A caller filing a change names no root.",
     },
     {

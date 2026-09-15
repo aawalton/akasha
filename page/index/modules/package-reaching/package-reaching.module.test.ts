@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   bodiesAt,
   manifestsAmong,
@@ -35,6 +36,8 @@ const PATHS = [
 
 const BODIES = reading({ "akasha/one/package.json": ONE, "akasha/two/package.json": TWO })
 
+const MODULE_TYPE = "01a05ae4-0000-7000-8000-00000000000a"
+
 function worldAt(): string {
   const root = scratch.rootFor(PREFIX)
   shapeAdded(root, "file-property", "workspace-manifest", [
@@ -46,6 +49,9 @@ function worldAt(): string {
       propertySlug: "workspace-manifest",
       fileName: "package.json",
     },
+  ])
+  listedFiled(root, "page-type", "module", [
+    { path: "akasha/module.page-type.ts", id: MODULE_TYPE },
   ])
   wrote(root, "akasha/one/package.json", ONE)
   wrote(root, "akasha/two/package.json", TWO)

@@ -6,7 +6,6 @@ import {
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   everyOfType,
-  importersOf,
   indexNamed,
   listedById,
   listedFor,
@@ -17,7 +16,6 @@ import {
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
-  importFiled,
   nothingFiled,
   scopedFiled,
   shapeAdded,
@@ -149,41 +147,6 @@ test("a refusal names the directory the reading read from rather than a path und
   const root = rootAt()
 
   expect(() => listedById(root, A)).toThrow(indexIn(root))
-})
-
-test("a path the index carries edges for is answered with every file importing it", () => {
-  const root = rootAt()
-  importFiled(root, "akasha/a.module.code.ts", [
-    { path: "akasha/two.module.code.ts" },
-    { path: "akasha/one.module.code.ts" },
-  ])
-
-  expect(importersOf("akasha/a.module.code.ts", readingIn(root))).toEqual([
-    "akasha/one.module.code.ts",
-    "akasha/two.module.code.ts",
-  ])
-})
-
-test("a path nothing imports is answered with nothing rather than by throwing", () => {
-  const root = rootAt()
-  importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
-
-  expect(importersOf("akasha/nowhere.module.code.ts", readingIn(root))).toEqual([])
-})
-
-test("what imports a file is nothing where the import tree is missing beneath the index", () => {
-  const root = rootAt()
-  nothingFiled(root)
-
-  expect(importersOf("akasha/a.module.code.ts", readingIn(root))).toEqual([])
-})
-
-test("what imports a file is refused where the index itself is not there", () => {
-  const root = rootAt()
-
-  expect(() => importersOf("akasha/a.module.code.ts", readingIn(root))).toThrow(
-    /is not an index naming none/
-  )
 })
 
 test("an index's own place is answered under the index root", () => {

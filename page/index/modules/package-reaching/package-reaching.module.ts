@@ -80,7 +80,8 @@ export const packageReaching = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "An importer is read off the index rather than found by walking the tree.",
+      statement:
+        "An importer is read from beside the page imported rather than sought in the tree.",
     },
     {
       invariantKind: "invariant-kind/departure",
