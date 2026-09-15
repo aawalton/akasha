@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const channeledAcceleration = {
   id: "019e6238-c2a3-7b61-933a-559b1ea8b7ab",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "channeled-acceleration",
   title: "Channeled Acceleration",
   key: "channeled-acceleration",

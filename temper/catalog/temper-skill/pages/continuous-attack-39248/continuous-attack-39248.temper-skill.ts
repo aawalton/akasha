@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const continuousAttack39248 = {
   id: "019e6f53-a01f-7119-9156-c9d9cd60d8d3",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "continuous-attack-39248",
   title: "Continuous Attack",
   key: "continuous-attack-39248",

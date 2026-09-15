@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const cutpurse = {
   id: "019e624a-12c4-7739-87f3-6cc555a094a6",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "cutpurse",
   title: "Cutpurse",
   key: "cutpurse",

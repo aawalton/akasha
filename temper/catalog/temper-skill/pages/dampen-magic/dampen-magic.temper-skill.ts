@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const dampenMagic = {
   id: "019e6238-c2af-770a-a818-9bbc8af0326d",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "dampen-magic",
   title: "Dampen Magic",
   key: "dampen-magic",

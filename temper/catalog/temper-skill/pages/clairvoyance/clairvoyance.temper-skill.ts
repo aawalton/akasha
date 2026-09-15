@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const clairvoyance = {
   id: "019e6238-c2a8-7520-806c-b8816c351370",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "clairvoyance",
   title: "Clairvoyance",
   key: "clairvoyance",

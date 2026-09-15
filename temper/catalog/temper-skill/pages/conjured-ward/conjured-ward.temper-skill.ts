@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const conjuredWard = {
   id: "019e6f53-a015-7189-a4df-3773295059b5",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "conjured-ward",
   title: "Conjured Ward",
   key: "conjured-ward",

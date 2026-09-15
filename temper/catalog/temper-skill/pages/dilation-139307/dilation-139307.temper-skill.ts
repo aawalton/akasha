@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const dilation139307 = {
   id: "019e6f53-a0cf-71f8-a621-c5c36c74ffdf",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "dilation-139307",
   title: "Dilation",
   key: "dilation-139307",

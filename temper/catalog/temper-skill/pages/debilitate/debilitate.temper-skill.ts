@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const debilitate = {
   id: "019e6245-a646-7e99-8b91-8490561cd1eb",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "debilitate",
   title: "Debilitate",
   key: "debilitate",

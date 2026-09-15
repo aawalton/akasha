@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const daedricCurse = {
   id: "019e6f53-a05e-7365-9d9a-13a3b3f0dc3b",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "daedric-curse",
   title: "Daedric Curse",
   key: "daedric-curse",

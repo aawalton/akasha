@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const circumventedFate184930 = {
   id: "019e6f53-9fe8-7eb0-9aeb-81394cb144c9",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "circumvented-fate-184930",
   title: "Circumvented Fate",
   key: "circumvented-fate-184930",

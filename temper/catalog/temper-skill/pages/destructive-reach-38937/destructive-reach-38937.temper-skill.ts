@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const destructiveReach38937 = {
   id: "019e6f53-a0c5-71f5-8273-be2a6e61e162",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "destructive-reach-38937",
   title: "Destructive Reach",
   key: "destructive-reach-38937",

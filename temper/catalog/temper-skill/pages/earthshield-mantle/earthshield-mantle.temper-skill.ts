@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const earthshieldMantle = {
   id: "019e6245-a65d-7e0d-a1b7-7bfc181fbe2d",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "earthshield-mantle",
   title: "Earthshield Mantle",
   key: "earthshield-mantle",

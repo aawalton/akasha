@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const dynamic = {
   id: "019e624a-12c6-7e45-b811-15e2bd1600cd",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "dynamic",
   title: "Dynamic",
   key: "dynamic",

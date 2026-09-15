@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const crystalWeapon46331 = {
   id: "019e6f53-a04c-7b6d-a308-894f759a73ca",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "crystal-weapon-46331",
   title: "Crystal Weapon",
   key: "crystal-weapon-46331",

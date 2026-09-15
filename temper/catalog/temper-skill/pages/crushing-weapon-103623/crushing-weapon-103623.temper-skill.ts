@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const crushingWeapon103623 = {
   id: "019e6f53-a043-773e-acc6-290fcfe54cd3",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "crushing-weapon-103623",
   title: "Crushing Weapon",
   key: "crushing-weapon-103623",

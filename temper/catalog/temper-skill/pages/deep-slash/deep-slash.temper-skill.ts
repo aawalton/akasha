@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const deepSlash = {
   id: "019e6226-00e1-795f-966b-c0b5d4009510",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "deep-slash",
   title: "Deep Slash",
   key: "deep-slash",

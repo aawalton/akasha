@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const clawsOfLife58879 = {
   id: "019e6f53-9ff3-73e4-8617-449c1588832f",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "claws-of-life-58879",
   title: "Bloodclaws",
   key: "claws-of-life-58879",

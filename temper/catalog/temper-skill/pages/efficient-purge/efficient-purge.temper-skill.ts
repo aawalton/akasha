@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const efficientPurge = {
   id: "019e6251-4cad-745c-a800-eed6d61240c0",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "efficient-purge",
   title: "Efficient Purge",
   key: "efficient-purge",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const darkVeil = {
   id: "019e6245-a63e-7f58-a664-ade64bd6092d",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "dark-veil",
   title: "Dark Veil",
   key: "dark-veil",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const controlledFury = {
   id: "019e6226-00dc-7b67-9423-8aa2a95ded69",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "controlled-fury",
   title: "Controlled Fury",
   key: "controlled-fury",

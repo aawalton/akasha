@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const destructiveClench = {
   id: "019e6226-00e4-7c73-af05-33917d8e06d8",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "destructive-clench",
   title: "Destructive Clench",
   key: "destructive-clench",

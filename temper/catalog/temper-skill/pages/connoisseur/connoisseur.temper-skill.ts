@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const connoisseur = {
   id: "019e6224-cc91-7974-8f1c-615c1ec1cd20",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "connoisseur",
   title: "Connoisseur",
   key: "connoisseur",

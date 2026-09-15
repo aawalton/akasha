@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const deadenPain118623 = {
   id: "019e6f53-a08c-7599-adeb-1fe73d4ef237",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "deaden-pain-118623",
   title: "Deaden Pain",
   key: "deaden-pain-118623",

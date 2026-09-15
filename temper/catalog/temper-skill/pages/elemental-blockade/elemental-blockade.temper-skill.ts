@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const elementalBlockade = {
   id: "019e6226-00e8-7de2-bb9b-61ecec9219c6",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "elemental-blockade",
   title: "Elemental Blockade",
   key: "elemental-blockade",

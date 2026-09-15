@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const devour = {
   id: "019e6251-4ca6-7e14-911a-f8adbad41d36",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "devour",
   title: "Insatiable Hunger",
   key: "devour",

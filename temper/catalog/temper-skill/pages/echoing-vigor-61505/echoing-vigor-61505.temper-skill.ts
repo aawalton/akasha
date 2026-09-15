@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const echoingVigor61505 = {
   id: "019e6f53-a102-7bc3-9cb5-de933bdd5c31",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "echoing-vigor-61505",
   title: "Echoing Vigor",
   key: "echoing-vigor-61505",

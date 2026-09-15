@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const crystallizedShield = {
   id: "019e6f53-a04d-7d86-91fe-597e30fe9f8b",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "crystallized-shield",
   title: "Crystallized Shield",
   key: "crystallized-shield",

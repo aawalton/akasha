@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const combatMedic = {
   id: "019e6251-4c9f-7e59-8c08-4a644bccc46d",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "combat-medic",
   title: "Combat Medic",
   key: "combat-medic",

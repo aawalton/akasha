@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const chef = {
   id: "019e6224-cc8e-720f-b708-89c452c66b15",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "chef",
   title: "Chef",
   key: "chef",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const daedricTomb = {
   id: "019e6245-a635-7e9a-af3a-9d52a6fec991",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "daedric-tomb",
   title: "Daedric Tomb",
   key: "daedric-tomb",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const domination = {
   id: "019e6251-4ca9-7658-9a4f-7e06d38645e6",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "domination",
   title: "Domination",
   key: "domination",

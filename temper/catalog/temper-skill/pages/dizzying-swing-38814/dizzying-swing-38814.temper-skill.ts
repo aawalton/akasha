@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const dizzyingSwing38814 = {
   id: "019e6f53-a0df-7c70-bbec-c5911cc86dca",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "dizzying-swing-38814",
   title: "Dizzying Swing",
   key: "dizzying-swing-38814",

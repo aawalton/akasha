@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const concentration = {
   id: "019e6238-c2ab-7300-a822-caf917244679",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "concentration",
   title: "Concentration",
   key: "concentration",

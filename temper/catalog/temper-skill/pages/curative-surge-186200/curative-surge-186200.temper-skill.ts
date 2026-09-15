@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const curativeSurge186200 = {
   id: "019e6f53-a055-7fb6-abc0-0cca9bc92a34",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "curative-surge-186200",
   title: "Curative Surge",
   key: "curative-surge-186200",

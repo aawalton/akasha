@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const deadlyBash = {
   id: "019e6226-00df-7f02-9920-43196ff5859c",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "deadly-bash",
   title: "Deadly Bash",
   key: "deadly-bash",

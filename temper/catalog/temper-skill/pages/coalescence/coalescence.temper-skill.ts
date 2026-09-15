@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const coalescence = {
   id: "019e6251-4c9c-7ec4-b3ad-07230d75a11c",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "coalescence",
   title: "Coalescence",
   key: "coalescence",
