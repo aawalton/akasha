@@ -38,6 +38,7 @@ import {
   readingNone,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 
+import { carryingAt, linesFor } from "akasha/page/modules/carried/page-carried.module.code.ts"
 import { type Rowing, rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import { pageNamed, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
@@ -86,6 +87,19 @@ export function filingOf(was: readonly Entry[], now: readonly Entry[]): readonly
   return said
 }
 
+export function carryingOver(
+  held: readonly { readonly path: string; readonly value: Value | null }[],
+  repo: string
+): readonly Entry[] {
+  return held.flatMap((one) => {
+    const value = one.value
+    if (value === null) return []
+    const at = carryingAt(under(repo, one.path))
+    if (at === null) return []
+    return linesFor(value).map((line) => ({ at, line }))
+  })
+}
+
 function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | null>): boolean {
   const said = partedIn(path)
   if (said === null || said.sections.length > 0) return false
@@ -102,6 +116,7 @@ export type Settling = {
   readonly reading: Reading
   readonly filings: readonly Filing[]
   readonly references: readonly Filing[]
+  readonly carried: readonly Filing[]
   readonly beside: ReadonlyMap<string, string>
   readonly noted: readonly string[]
   readonly refusedBefore: readonly string[]
@@ -323,18 +338,35 @@ export function settlingOver(
     ].filter((one) => !vacated.has(one.at))
   )
 
+  const carrying = filingOf(
+    carryingOver(
+      held.map((one) => ({ path: one.path, value: one.was })),
+      repo
+    ),
+    carryingOver(
+      held.map((one) => ({ path: one.path, value: one.now })),
+      repo
+    )
+  )
+
   const filings = [...identity]
   return {
     reading: shapesLaidOn(
       overlaidOn(
         given,
         filings,
-        new Map<string, string | null>([...wrote, ...bodied, ...bodiesBeside(reading, references)])
+        new Map<string, string | null>([
+          ...wrote,
+          ...bodied,
+          ...bodiesBeside(reading, references),
+          ...bodiesBeside(reading, carrying),
+        ])
       ),
       written.shapes
     ),
     filings,
     references,
+    carried: carrying,
     beside: bodied,
     noted,
     refusedBefore: referencedWas.flatMap((one) => one.refused),

@@ -27,6 +27,7 @@ import {
   filedUnder,
 } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { carriedFiled } from "akasha/page/modules/carried/page-carried.module.code.ts"
 import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
@@ -101,7 +102,7 @@ function refusing(said: readonly string[], code: number): Answer {
 }
 
 function pathOf(at: string): string {
-  return referencesFiled(at) ? at : join(indexNamed(), at)
+  return referencesFiled(at) || carriedFiled(at) ? at : join(indexNamed(), at)
 }
 
 function landed(root: string, said: Refreshed): string | null {

@@ -1,6 +1,7 @@
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { indexAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { carriedFiled } from "akasha/page/modules/carried/page-carried.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
@@ -34,7 +35,8 @@ export function carriedOver(change: Change, shadow: Shadow): Carried {
   const under = heldByGit(shadow).map((one) => `${one}/`)
   const edits: FileChange[] = []
   for (const [path, body] of shadow.filed()) {
-    if (!referencesFiled(path) && !under.some((one) => path.startsWith(one))) continue
+    const beside = referencesFiled(path) || carriedFiled(path)
+    if (!beside && !under.some((one) => path.startsWith(one))) continue
     const was = textOf(change.after(path))
     if (was === body) continue
     if (body === null) {

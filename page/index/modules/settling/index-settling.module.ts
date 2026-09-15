@@ -123,6 +123,18 @@ export const indexSettling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What each page carries is answered apart from the references and the index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page the change writes carries a line for every key that page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page the change takes away is left carrying nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reference filing names a path against the repository rather than the index.",
     },
     {

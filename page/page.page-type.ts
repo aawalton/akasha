@@ -57,6 +57,7 @@ export const page = {
     "module/page-address",
     "module/page-beside",
     "module/page-body",
+    "module/page-carried",
     "module/page-carry",
     "module/page-computing",
     "module/page-entries",

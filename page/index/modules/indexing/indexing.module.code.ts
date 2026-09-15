@@ -29,7 +29,10 @@ import {
 import { under } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import { shapesAmong } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { knownIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
-import { settlingOver } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
+import {
+  carryingOver,
+  settlingOver,
+} from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import type { Filing } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { indexIn, readingAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
@@ -37,6 +40,7 @@ import {
   walkedUnder,
 } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
 
+import { carriedFiled } from "akasha/page/modules/carried/page-carried.module.code.ts"
 import { rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import {
   importedFrom,
@@ -95,15 +99,15 @@ function bodiesUnder(tree: string): readonly Bodied[] {
   return found
 }
 
-function referencesStale(
-  references: readonly Entry[],
+function besideStale(
+  beside: readonly Entry[],
   tree: string,
   repo: string,
   put: boolean
 ): readonly string[] {
-  const wanted = new Set(references.map((one) => one.at))
+  const wanted = new Set(beside.map((one) => one.at))
   const went: string[] = []
-  for (const at of walkedUnder(tree, referencesFiled)) {
+  for (const at of walkedUnder(tree, (name) => referencesFiled(name) || carriedFiled(name))) {
     const path = under(repo, at)
     if (wanted.has(path)) continue
     went.push(path)
@@ -172,12 +176,13 @@ export function refreshedFrom(
     ...referenced.flatMap((one) => one.entries),
     ...walked.flatMap((one) => importedFrom(reading, one.body, one.path, repo, naming)),
   ]
-  drift.push(reconcile(references, repo, put, done))
-  const stale = referencesStale(references, tree, repo, put)
+  const filedBeside = [...references, ...carryingOver(held, repo)]
+  drift.push(reconcile(filedBeside, repo, put, done))
+  const stale = besideStale(filedBeside, tree, repo, put)
   const went = [...takenAway(identity, root, put, done), ...stale]
   return {
     pages: held.length,
-    entries: identity.length + references.length,
+    entries: identity.length + filedBeside.length,
     refused: [...noted, ...referenced.flatMap((one) => one.refused)],
     drift: drifting(drift, went),
     beside: shaped,
@@ -243,6 +248,7 @@ export function indexingAt(root: string, repo: string): Indexing {
       const found = settlingOver(readingAt(root, repo), repo, moving, (path) => valueAt(path, repo))
       filedInto(root, found.filings)
       besideInto(repo, found.references)
+      besideInto(repo, found.carried)
       wholeInto(repo, found.beside, false)
       return [...found.noted, ...found.refusedBefore, ...found.refused]
     },
