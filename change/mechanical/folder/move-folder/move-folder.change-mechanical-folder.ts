@@ -148,6 +148,10 @@ export const moveFolder = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A generated body the move carries is carried and left to its generator.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A body that is not text spells no path that moved.",
     },
   ],

@@ -11,7 +11,11 @@ import {
   namesFor,
   spellersIn,
 } from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
-import { facingOn } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
+import {
+  type Facing,
+  facingOn,
+  generatedIn,
+} from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import { quotedIn } from "akasha/page/index/modules/quote-holding/quote-holding.module.code.ts"
 import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
 
@@ -58,6 +62,7 @@ function searchable(world: World): (path: string) => string | null {
 
 function namingFolder(
   world: World,
+  facing: Facing,
   folder: ReadonlyMap<string, string>,
   known: ReadonlySet<string>
 ): readonly string[] | string {
@@ -68,7 +73,6 @@ function namingFolder(
     const held = cause instanceof Error ? cause.message : String(cause)
     return `${held}, so no folder was carried`
   }
-  const facing = facingOn(world.root)
   const said = found.filter((path) => !quotedIn(facing, path))
   return spellersIn(said, searchable(world), folder, known)
 }
@@ -106,16 +110,18 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if ("refused" in said) return refusing(said.refused)
   const moved = said.moved
   const carried = { from: given.from, to: given.to }
+  const facing = facingOn(world.root)
   const edits: FileChange[] = []
   for (const [one, next] of moved) {
     edits.push({ kind: "move", pathFrom: one, pathTo: next })
+    if (generatedIn(facing, one)) continue
     const answer = repointed(world, { was: one, now: next, carried })
     if (answer.refused !== null) return answer
     edits.push(...answer.edits)
   }
   const folder = new Map([[given.from, given.to]])
   const known = new Set(moved.keys())
-  const spellers = namingFolder(world, folder, known)
+  const spellers = namingFolder(world, facing, folder, known)
   if (typeof spellers === "string") return refusing(spellers)
   for (const path of spellers) {
     const answer = repointed(world, { was: path, now: path, carried })
