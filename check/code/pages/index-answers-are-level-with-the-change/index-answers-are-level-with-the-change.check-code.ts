@@ -49,6 +49,11 @@ export const indexAnswersAreLevelWithTheChange = {
       invariantKind: "invariant-kind/departure",
       statement: "An audit is a change turning nothing, so there is nothing here for it to judge.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A change taking an answer away that the files turn nothing at is sweeping rather than refused.",
+    },
   ],
   check: { maxCpuSeconds: 1 },
 } as const satisfies CheckCode

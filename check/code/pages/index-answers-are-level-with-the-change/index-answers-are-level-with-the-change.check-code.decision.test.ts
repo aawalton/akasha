@@ -33,9 +33,15 @@ test("an answer the files turn that the change lands nothing for refuses the cha
 test("an answer the change lands that the files turn nothing at refuses the change", () => {
   const root = worldHeld({ name: "page", tracked: true })
   const shadow = shadowOf(root, new Map())
-  expect(refusalsOver(changeWith(root, new Map(), [AT]), shadow)).toEqual([
+  expect(refusalsOver(changeWith(root, new Map([[AT, LINE]]), [AT]), shadow)).toEqual([
     { path: AT, reason: UNASKED },
   ])
+})
+
+test("an answer the change takes away that the files turn nothing at is swept rather than refused", () => {
+  const root = worldHeld({ name: "page", tracked: true })
+  const shadow = shadowOf(root, new Map())
+  expect(refusalsOver(changeWith(root, new Map(), [AT]), shadow)).toEqual([])
 })
 
 test("an answer the change lands that its own files turn is let through", () => {

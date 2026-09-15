@@ -27,6 +27,7 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
   }
   for (const path of lands) {
     if (!held(path) || filed.has(path)) continue
+    if (change.after(path) === null) continue
     said.push({ path, reason: UNASKED })
   }
   return said
