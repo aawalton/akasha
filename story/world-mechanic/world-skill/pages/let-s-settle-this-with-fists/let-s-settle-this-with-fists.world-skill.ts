@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const letSSettleThisWithFists = {
   id: "01a06575-9823-7db1-bb48-147b09a08ad0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "let-s-settle-this-with-fists",
   title: "Let’s Settle This With Fists",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const lesserBondUnnamedMossbear = {
   id: "01a06575-9822-7f5d-a90c-c44c975a85d1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lesser-bond-unnamed-mossbear",
   title: "Lesser Bond: Unnamed Mossbear",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const lionformTransformation = {
   id: "01a0657d-0240-71f6-a1ac-d1411cf52801",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lionform-transformation",
   title: "Lionform Transformation",
   world: "world/the-wandering-inn",

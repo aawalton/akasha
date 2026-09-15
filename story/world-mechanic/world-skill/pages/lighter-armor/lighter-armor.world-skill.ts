@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const lighterArmor = {
   id: "01a0657d-023f-75cf-8c26-515bf61f0f19",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lighter-armor",
   title: "Lighter Armor",
   world: "world/the-wandering-inn",

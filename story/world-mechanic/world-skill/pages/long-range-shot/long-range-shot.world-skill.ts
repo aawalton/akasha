@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const longRangeShot = {
   id: "01a0657d-0240-73e1-b7b4-c7ca4742b06f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "long-range-shot",
   title: "Long Range Shot",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const magicPiercingRound = {
   id: "01a0657d-0242-707c-b426-cfef56d2fd8d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "magic-piercing-round",
   title: "Magic-Piercing Round",
   world: "world/the-wandering-inn",

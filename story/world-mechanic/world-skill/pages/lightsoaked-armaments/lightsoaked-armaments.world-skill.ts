@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const lightsoakedArmaments = {
   id: "01a0657d-023f-7411-8b8c-f39d7a4ba5ab",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lightsoaked-armaments",
   title: "Lightsoaked Armaments",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const legSweep = {
   id: "01a06575-9822-7636-bccd-4138c420e252",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "leg-sweep",
   title: "Leg Sweep",
   world: "world/the-wandering-inn",

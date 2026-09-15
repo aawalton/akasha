@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const lockDoor = {
   id: "01a0657d-0240-78f9-9fd4-6bb3a96d78d7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lock-door",
   title: "Lock Door",
   world: "world/the-wandering-inn",

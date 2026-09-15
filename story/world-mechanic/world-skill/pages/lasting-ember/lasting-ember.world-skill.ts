@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const lastingEmber = {
   id: "01a06575-9821-71c6-be73-924cd23b9111",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lasting-ember",
   title: "Lasting Ember",
   world: "world/the-wandering-inn",

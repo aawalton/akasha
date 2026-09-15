@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const limitedRegeneration = {
   id: "01a0657d-023f-7dda-b2c5-c82981558992",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "limited-regeneration",
   title: "Limited Regeneration",
   world: "world/the-wandering-inn",

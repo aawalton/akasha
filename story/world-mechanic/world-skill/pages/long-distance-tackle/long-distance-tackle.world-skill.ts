@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const longDistanceTackle = {
   id: "01a0657d-0240-78ba-a1e3-99a8f1c9afc2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "long-distance-tackle",
   title: "Long-Distance Tackle",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const luckyRound = {
   id: "01a0657d-0241-7917-a351-4310ed772e78",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lucky-round",
   title: "Lucky Round",
   world: "world/the-wandering-inn",

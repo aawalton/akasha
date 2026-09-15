@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const linkedSkillMassedStrikes = {
   id: "01a0657d-0240-7860-a781-5e58ff96950a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "linked-skill-massed-strikes",
   title: "Linked Skill: Massed Strikes",
   world: "world/the-wandering-inn",

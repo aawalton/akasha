@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const magicOfWill = {
   id: "01a0657d-0242-771f-b92d-e90db096f92a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "magic-of-will",
   title: "Magic of Will",
   world: "world/the-wandering-inn",

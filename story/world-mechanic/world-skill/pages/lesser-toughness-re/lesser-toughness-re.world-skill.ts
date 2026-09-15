@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const lesserToughnessRe = {
   id: "01a06575-9823-7841-949d-89f4728ca980",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lesser-toughness-re",
   title: "Lesser Toughness Re",
   world: "world/the-wandering-inn",

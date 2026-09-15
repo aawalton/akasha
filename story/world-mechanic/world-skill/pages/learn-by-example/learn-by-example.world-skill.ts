@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const learnByExample = {
   id: "01a06575-9822-7974-b687-554c7e48bcdb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "learn-by-example",
   title: "Learn by Example",
   world: "world/the-wandering-inn",

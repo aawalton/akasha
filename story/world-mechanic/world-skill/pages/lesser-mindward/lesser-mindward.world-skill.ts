@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const lesserMindward = {
   id: "01a06575-9823-7f4c-803d-e3ec34e8409e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lesser-mindward",
   title: "Lesser Mindward",
   world: "world/the-wandering-inn",

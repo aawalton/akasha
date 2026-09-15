@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const lesserBondBismarck = {
   id: "01a06575-9822-7f9f-897e-a2289ea93164",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lesser-bond-bismarck",
   title: "Lesser Bond: Bismarck",
   world: "world/the-wandering-inn",

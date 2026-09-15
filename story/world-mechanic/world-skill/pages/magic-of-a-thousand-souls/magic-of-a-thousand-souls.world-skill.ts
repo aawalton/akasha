@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const magicOfAThousandSouls = {
   id: "01a0657d-0241-7b09-b498-c87d8b78c6eb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "magic-of-a-thousand-souls",
   title: "Magic of a Thousand Souls",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const leapOfTwinSwallows = {
   id: "01a06575-9822-71de-a19c-9edba3dfb996",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "leap-of-twin-swallows",
   title: "Leap of Twin Swallows",
   world: "world/the-wandering-inn",

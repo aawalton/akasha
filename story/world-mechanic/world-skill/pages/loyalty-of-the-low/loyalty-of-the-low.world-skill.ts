@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const loyaltyOfTheLow = {
   id: "01a0657d-0241-77eb-812e-5d339d264c4e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "loyalty-of-the-low",
   title: "Loyalty of the Low",
   world: "world/the-wandering-inn",

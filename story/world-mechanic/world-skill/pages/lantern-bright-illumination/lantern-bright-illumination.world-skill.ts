@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const lanternBrightIllumination = {
   id: "01a06575-9821-76fa-bbe5-a9629a9fe9a5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lantern-bright-illumination",
   title: "Lantern: Bright Illumination",
   world: "world/the-wandering-inn",

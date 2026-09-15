@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const lesserExplosiveResistance = {
   id: "01a06575-9822-7a2b-98b6-1061029d0867",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lesser-explosive-resistance",
   title: "Lesser Explosive Resistance",
   world: "world/the-wandering-inn",

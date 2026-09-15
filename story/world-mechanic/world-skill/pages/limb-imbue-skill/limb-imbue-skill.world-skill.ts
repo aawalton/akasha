@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const limbImbueSkill = {
   id: "01a0657d-023f-76da-9a53-8c1b75d268f6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "limb-imbue-skill",
   title: "Limb: Imbue Skill",
   world: "world/the-wandering-inn",

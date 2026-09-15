@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const legionsOfSteel = {
   id: "01a06575-9822-7fc5-835f-b68f4d02c292",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "legions-of-steel",
   title: "Legions of Steel",
   world: "world/the-wandering-inn",

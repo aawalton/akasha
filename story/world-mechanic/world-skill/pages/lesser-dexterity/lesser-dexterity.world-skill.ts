@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const lesserDexterity = {
   id: "01a06575-9822-7cd5-858f-78604ed3b542",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lesser-dexterity",
   title: "Lesser Dexterity",
   world: "world/the-wandering-inn",

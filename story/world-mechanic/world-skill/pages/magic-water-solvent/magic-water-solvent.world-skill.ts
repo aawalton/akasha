@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const magicWaterSolvent = {
   id: "01a0657d-0242-777e-a5c8-f5fa742de548",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "magic-water-solvent",
   title: "Magic-Water Solvent",
   world: "world/the-wandering-inn",

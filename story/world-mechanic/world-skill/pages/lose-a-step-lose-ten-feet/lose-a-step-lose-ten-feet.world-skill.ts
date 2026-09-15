@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const loseAStepLoseTenFeet = {
   id: "01a0657d-0241-7137-84b0-79724282b31c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lose-a-step-lose-ten-feet",
   title: "Lose a Step, Lose Ten Feet",
   world: "world/the-wandering-inn",

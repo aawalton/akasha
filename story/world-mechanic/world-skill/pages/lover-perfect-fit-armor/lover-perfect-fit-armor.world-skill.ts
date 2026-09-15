@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const loverPerfectFitArmor = {
   id: "01a0657d-0241-7118-bf27-62afe6be0605",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lover-perfect-fit-armor",
   title: "Lover: Perfect-fit Armor",
   world: "world/the-wandering-inn",

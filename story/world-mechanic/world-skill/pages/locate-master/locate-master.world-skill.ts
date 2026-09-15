@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const locateMaster = {
   id: "01a0657d-0240-7f87-901d-c1a2e5a562d4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "locate-master",
   title: "Locate Master",
   world: "world/the-wandering-inn",

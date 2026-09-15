@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const locateItemScrollOfFeatherfall = {
   id: "01a0657d-0240-721e-b911-fb5795916540",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "locate-item-scroll-of-featherfall",
   title: "Locate Item: Scroll of Featherfall",
   world: "world/the-wandering-inn",

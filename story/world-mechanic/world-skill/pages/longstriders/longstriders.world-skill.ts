@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const longstriders = {
   id: "01a0657d-0241-7580-a8f5-fd88b5cf93c8",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "longstriders",
   title: "Longstriders",
   world: "world/the-wandering-inn",

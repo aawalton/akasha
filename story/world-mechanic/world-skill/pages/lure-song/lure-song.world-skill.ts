@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const lureSong = {
   id: "01a0657d-0241-71bf-8f6e-9cd304ccdf0f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lure-song",
   title: "Lure Song",
   world: "world/the-wandering-inn",

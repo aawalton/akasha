@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const legacyFindTheDragonSGrave = {
   id: "01a06575-9822-7f2b-9c41-a79972ae7e1d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "legacy-find-the-dragon-s-grave",
   title: "Legacy: Find the Dragon’s Grave",
   world: "world/the-wandering-inn",

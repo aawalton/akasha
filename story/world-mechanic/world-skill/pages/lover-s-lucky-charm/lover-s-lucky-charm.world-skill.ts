@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const loverSLuckyCharm = {
   id: "01a0657d-0241-723b-bb09-290e683af0fe",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lover-s-lucky-charm",
   title: "Lover’s Lucky Charm",
   world: "world/the-wandering-inn",
