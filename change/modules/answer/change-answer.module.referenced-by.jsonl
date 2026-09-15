@@ -120,8 +120,8 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.test.ts"}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-property/add/add-page-property/add-page-property.change-mechanical.code.ts"}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-property/add/add-page-property/add-page-property.change-mechanical.test.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-property/add-page-property/add-page-property.change-mechanical.code.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-property/add-page-property/add-page-property.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-property/remove/remove-page-property/remove-page-property.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-property/remove/remove-page-property/remove-page-property.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-property/rename/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.code.ts"}
@@ -333,7 +333,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.code.ts"}
-{"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/page-property/add/add-page-property/add-page-property.change-mechanical.code.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/page-property/add-page-property/add-page-property.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/page-property/remove/remove-page-property/remove-page-property.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/page-property/rename/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/page-property/rename/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.test.ts"}

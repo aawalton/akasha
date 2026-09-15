@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { addPageProperty } from "akasha/change/mechanical/page-property/add/add-page-property/add-page-property.change-mechanical.code.ts"
+import { addPageProperty } from "akasha/change/mechanical/page-property/add-page-property/add-page-property.change-mechanical.code.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
