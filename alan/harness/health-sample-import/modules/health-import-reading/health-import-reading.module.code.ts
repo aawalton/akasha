@@ -1,8 +1,8 @@
-import type { ImportOutcome } from "akasha/alan/harness/health-samples-import/modules/health-import-run/health-import-run.module.code.ts"
+import type { ImportOutcome } from "akasha/alan/harness/health-sample-import/modules/health-import-run/health-import-run.module.code.ts"
 import type {
   Reading,
   VerdictFinding,
-} from "akasha/alan/harness/health-samples-import/modules/verdict-reading/verdict-reading.module.code.ts"
+} from "akasha/alan/harness/health-sample-import/modules/verdict-reading/verdict-reading.module.code.ts"
 
 export type ImportState = "imported" | "lossy" | "unsettled"
 

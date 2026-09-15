@@ -6,7 +6,7 @@ import {
 import type {
   HealthMetric,
   HealthRecord,
-} from "akasha/alan/harness/health-samples-import/modules/health-export/health-export.module.code.ts"
+} from "akasha/alan/harness/health-sample-import/modules/health-export/health-export.module.code.ts"
 
 export const IMPORT_METRICS: readonly HealthMetric[] = ["activeEnergy", "stepCount"]
 

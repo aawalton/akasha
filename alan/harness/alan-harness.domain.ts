@@ -23,7 +23,7 @@ export const alanHarness = {
     "domain/geo-io",
     "domain/health-sample-access",
     "domain/health-sample-day",
-    "domain/health-samples-import",
+    "domain/health-sample-import",
     "domain/idle-system",
     "domain/imessage",
     "domain/inbox",

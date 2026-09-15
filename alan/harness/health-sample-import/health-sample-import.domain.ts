@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const healthSamplesImport = {
+export const healthSampleImport = {
   id: "01a05c14-b11a-7006-9c17-e67776ab45af",
   type: "domain",
-  slug: "health-samples-import",
+  slug: "health-sample-import",
   definition: "health readings taken off a machine of Alan's and brought into the store",
   parts: [
     "module/export-fetching",

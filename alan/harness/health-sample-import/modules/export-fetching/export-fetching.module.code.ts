@@ -4,8 +4,8 @@ import {
   type HealthMetric,
   NO_FILE,
   parseHealthExport,
-} from "akasha/alan/harness/health-samples-import/modules/health-export/health-export.module.code.ts"
-import { MACBOOK } from "akasha/alan/harness/health-samples-import/modules/laptop-host/laptop-host.module.code.ts"
+} from "akasha/alan/harness/health-sample-import/modules/health-export/health-export.module.code.ts"
+import { MACBOOK } from "akasha/alan/harness/health-sample-import/modules/laptop-host/laptop-host.module.code.ts"
 import {
   runSshCapture,
   streamSshLines,

@@ -6,21 +6,21 @@ import type {
 import {
   parseExportDateLine,
   parseRecordLine,
-} from "akasha/alan/harness/health-samples-import/modules/health-export/health-export.module.code.ts"
+} from "akasha/alan/harness/health-sample-import/modules/health-export/health-export.module.code.ts"
 import {
   countConversion,
   emptyTally,
   IMPORT_METRICS,
   type ImportTally,
   toHealthSample,
-} from "akasha/alan/harness/health-samples-import/modules/health-import/health-import.module.code.ts"
+} from "akasha/alan/harness/health-sample-import/modules/health-import/health-import.module.code.ts"
 import {
   checkpointKey,
   checkpointPath,
   clearCheckpoint,
   readCheckpoint,
   writeCheckpoint,
-} from "akasha/alan/harness/health-samples-import/modules/health-import-checkpoint/health-import-checkpoint.module.code.ts"
+} from "akasha/alan/harness/health-sample-import/modules/health-import-checkpoint/health-import-checkpoint.module.code.ts"
 
 export const MAX_IMPORT_BATCH = 1000
 

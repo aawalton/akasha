@@ -3,7 +3,7 @@ import {
   type HealthExport,
   type HealthMetric,
   type HealthRecord,
-} from "akasha/alan/harness/health-samples-import/modules/health-export/health-export.module.code.ts"
+} from "akasha/alan/harness/health-sample-import/modules/health-export/health-export.module.code.ts"
 
 export const SNAPSHOT_METRICS: readonly HealthMetric[] = [
   "hrv",
