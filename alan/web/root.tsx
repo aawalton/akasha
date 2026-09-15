@@ -34,7 +34,7 @@ import "akasha/alan/web/look/alan-web-look.stylesheet.styles.css"
 import "akasha/alan/web/modules/capability-registrations/capability-registrations.module.code.ts"
 import { NavCommands } from "akasha/alan/web/modules/nav-command/nav-command.module.code.tsx"
 import { StatusBarSync } from "akasha/alan/web/modules/status-bar-sync/status-bar-sync.module.code.tsx"
-import { PagesUICapabilityHosts } from "akasha/page/ui/capability/modules/capability-hosts/capability-hosts.module.code.tsx"
+import { PagesUICapabilityHosts } from "akasha/page/ui/modules/capability-hosts/capability-hosts.module.code.tsx"
 
 configurePagesPersistence(isNativeShell() ? createNativeFsPagesPersistence() : null)
 

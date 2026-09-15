@@ -17,8 +17,8 @@ import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/modules/page
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { PagesUICapabilityHosts } from "akasha/page/ui/capability/modules/capability-hosts/capability-hosts.module.code.tsx"
 import { configureLocalPositionReader } from "akasha/page/ui/component/modules/local-position-port/local-position-port.module.code.ts"
+import { PagesUICapabilityHosts } from "akasha/page/ui/modules/capability-hosts/capability-hosts.module.code.tsx"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import {
   configureContentPersistence,

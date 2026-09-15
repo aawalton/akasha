@@ -1,9 +1,0 @@
-import type { Domain } from "akasha/domain/domain.page-type.types.ts"
-
-export const pageUiCapability = {
-  id: "01a071cf-40d3-72d4-b353-ded317e501b6",
-  type: "domain",
-  slug: "page-ui-capability",
-  definition: "what the host a page is drawn in can do",
-  parts: ["module/capability-hosts"],
-} as const satisfies Domain
