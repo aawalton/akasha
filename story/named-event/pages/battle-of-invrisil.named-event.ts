@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const battleOfInvrisil = {
   id: "019f6865-7492-7023-a96e-3cceec435d1a",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "battle-of-invrisil",
   title: "Battle of Invrisil (Zel Shivertail falls)",
   aliases: ["battle-invrisil", "invrisil-battle", "zel-shivertail-death"],

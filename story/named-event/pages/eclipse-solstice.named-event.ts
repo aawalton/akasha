@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const eclipseSolstice = {
   id: "019f6865-737c-75b2-9a27-1401ae0fafe6",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "eclipse-solstice",
   title: "Solar eclipse at the Summer Solstice",
   aliases: ["eclipse", "solar-eclipse"],

@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const battleOfHectval = {
   id: "019f6865-7cc6-781e-a388-1c4538d4abe9",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "battle-of-hectval",
   title: "The big battle at Hectval",
   aliases: ["hextal-major-battle", "hectval-battle"],

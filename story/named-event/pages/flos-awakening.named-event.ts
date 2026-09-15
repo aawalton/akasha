@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const flosAwakening = {
   id: "019f6865-76e9-7585-975b-beda295ae415",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "flos-awakening",
   title: "Flos of Reim awakens (end of the slumber)",
   aliases: ["king-of-destruction-awakes", "king-of-destruction-slumber"],

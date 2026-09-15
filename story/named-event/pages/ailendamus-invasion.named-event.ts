@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const ailendamusInvasion = {
   id: "019f6865-7a3f-735b-a3c5-5a3cda1a2a4b",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "ailendamus-invasion",
   title: "Ailendamus invades (Dawn Concordat war opens)",
   evidenceBeat: 134,

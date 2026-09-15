@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const tiqrFall = {
   id: "019f6865-77be-7f7c-af73-08f45ecc2df6",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "tiqr-fall",
   title: "Fall of Tiqr",
   aliases: ["tiqr-surrender"],

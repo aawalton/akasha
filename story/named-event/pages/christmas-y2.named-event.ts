@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const christmasY2 = {
   id: "019f6865-72a0-73d2-bbbe-52132802a759",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "christmas-y2",
   title: "Christmas (second observed)",
   aliases: ["christmas"],

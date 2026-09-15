@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const goblinKingReturn = {
   id: "019f6865-79a6-7058-88bd-e4b832a0266e",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "goblin-king-return",
   title: "Return of the Goblin King",
   aliases: ["goblin-king", "goblin-king-incident"],

@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const goblinLordFinalBattle = {
   id: "019f6865-78e1-7381-ba3e-cc661c4cd804",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "goblin-lord-final-battle",
   title: "Final battle against the Goblin Lord",
   aliases: ["goblin-lord-attack", "goblin-lord-siege", "goblin-lord-battle"],

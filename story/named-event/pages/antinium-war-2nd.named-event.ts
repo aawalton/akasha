@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const antiniumWar2nd = {
   id: "019f6865-7818-75a2-bd0d-d6d716e5ef93",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "antinium-war-2nd",
   title: "Second Antinium War",
   aliases: ["2nd-antinium-war", "antinium-war", "second-antinium-wars"],

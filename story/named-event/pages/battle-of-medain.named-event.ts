@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const battleOfMedain = {
   id: "019f6865-7ad0-7edd-b2c1-0e46eceffcff",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "battle-of-medain",
   title: "Battle at Medain (multi-faction convergence)",
   aliases: [

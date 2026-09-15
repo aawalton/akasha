@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const winterSolsticeY1 = {
   id: "019f6865-705d-7d59-aa4c-ee81a7a9524f",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "winter-solstice-y1",
   title: "Winter Solstice (first on-page winter)",
   aliases: ["winter-solstice"],

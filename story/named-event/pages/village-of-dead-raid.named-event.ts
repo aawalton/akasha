@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const villageOfDeadRaid = {
   id: "019f6865-7686-73c0-912c-8cbd131df2f2",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "village-of-dead-raid",
   title: "Village of the Dead raid (Horns vanish)",
   aliases: ["horns-death", "horns-vanish", "village-dead-raided"],

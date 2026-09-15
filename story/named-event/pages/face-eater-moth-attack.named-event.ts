@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const faceEaterMothAttack = {
   id: "019f6865-7e27-7329-85ac-bbf4e29869df",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "face-eater-moth-attack",
   title: "Face-Eater Moth attack on Liscor",
   evidenceBeat: 5,

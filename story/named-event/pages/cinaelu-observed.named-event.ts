@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const cinaeluObserved = {
   id: "019f6865-72dd-7c96-97a5-5f0da976e3b1",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "cinaelu-observed",
   title: "Cinaelu (Drake holiday, observed instance)",
   aliases: ["cinaelu"],

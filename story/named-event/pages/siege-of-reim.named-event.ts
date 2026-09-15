@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const siegeOfReim = {
   id: "019f6865-7efb-7514-834b-77036d153cae",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "siege-of-reim",
   title: "Siege of Reim",
   evidenceBeat: 272,

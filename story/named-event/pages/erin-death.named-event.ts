@@ -2,7 +2,7 @@ import type { NamedEvent } from "akasha/story/named-event/named-event.page-type.
 
 export const erinDeath = {
   id: "019f6865-75be-765d-b2f1-c85f26b367b2",
-  type: "named-event",
+  type: "page-type/named-event",
   slug: "erin-death",
   title: "Erin shot / enters stasis",
   aliases: ["erin-stasis", "erins-death", "erin-frozen"],
