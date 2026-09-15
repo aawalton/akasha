@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const sherlockSeason2 = {
   id: "01a06802-b8bc-703a-a41e-7fe1eeaee41c",
-  type: "season",
+  type: "page-type/season",
   slug: "sherlock-season-2",
   title: "Sherlock Season 2",
   partOfCollections: ["show/sherlock"],

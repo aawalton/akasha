@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const marvelSLukeCageSeason2 = {
   id: "01a06802-b8ba-704c-b54b-ca0d0c23023a",
-  type: "season",
+  type: "page-type/season",
   slug: "marvel-s-luke-cage-season-2",
   title: "Marvel's Luke Cage Season 2",
   partOfCollections: ["show/luke-cage"],

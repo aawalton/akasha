@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const ncisLosAngelesSeason13 = {
   id: "01a06802-b8bb-700e-952b-28ebd45a64f0",
-  type: "season",
+  type: "page-type/season",
   slug: "ncis-los-angeles-season-13",
   title: "NCIS: Los Angeles Season 13",
   partOfCollections: ["show/ncis-los-angeles"],

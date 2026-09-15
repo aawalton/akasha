@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const personOfInterestSeason1 = {
   id: "01a06802-b8bc-7012-ad47-17cf4cd08eb0",
-  type: "season",
+  type: "page-type/season",
   slug: "person-of-interest-season-1",
   title: "Person of Interest Season 1",
   partOfCollections: ["show/person-of-interest"],

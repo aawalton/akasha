@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const ruriRocksSpecials = {
   id: "01a06802-b8bc-701f-962d-be393a321abf",
-  type: "season",
+  type: "page-type/season",
   slug: "ruri-rocks-specials",
   title: "Ruri Rocks Specials",
   partOfCollections: ["show/ruri-rocks"],

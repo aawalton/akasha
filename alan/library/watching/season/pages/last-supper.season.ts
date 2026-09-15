@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const lastSupper = {
   id: "01a06802-b8ba-702f-9208-6a3891f5bdd1",
-  type: "season",
+  type: "page-type/season",
   slug: "last-supper",
   title: "Last Supper",
   partOfCollections: ["show/the-chosen"],

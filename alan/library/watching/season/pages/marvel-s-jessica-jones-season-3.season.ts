@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const marvelSJessicaJonesSeason3 = {
   id: "01a06802-b8ba-704a-84e1-f013e3adc5dd",
-  type: "season",
+  type: "page-type/season",
   slug: "marvel-s-jessica-jones-season-3",
   title: "Marvel's Jessica Jones Season 3",
   partOfCollections: ["show/jessica-jones"],

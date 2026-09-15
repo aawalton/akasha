@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const secretInvasionMiniseries = {
   id: "01a06802-b8bc-7032-99b1-1b1d5f77f576",
-  type: "season",
+  type: "page-type/season",
   slug: "secret-invasion-miniseries",
   title: "Secret Invasion Miniseries",
   partOfCollections: ["show/secret-invasion"],

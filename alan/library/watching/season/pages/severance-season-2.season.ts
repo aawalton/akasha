@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const severanceSeason2 = {
   id: "01a06802-b8bc-7034-b0d9-26ecf807562d",
-  type: "season",
+  type: "page-type/season",
   slug: "severance-season-2",
   title: "Severance Season 2",
   partOfCollections: ["show/severance"],

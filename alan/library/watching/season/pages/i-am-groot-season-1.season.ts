@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const iAmGrootSeason1 = {
   id: "01a06802-b8ba-7029-b8a6-906af599bfc8",
-  type: "season",
+  type: "page-type/season",
   slug: "i-am-groot-season-1",
   title: "I Am Groot Season 1",
   partOfCollections: ["show/i-am-groot"],

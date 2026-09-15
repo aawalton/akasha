@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const planetOfTheApesSeason1 = {
   id: "01a06802-b8bc-701a-9495-144b44b0c817",
-  type: "season",
+  type: "page-type/season",
   slug: "planet-of-the-apes-season-1",
   title: "Planet of the Apes Season 1",
   partOfCollections: ["show/planet-of-the-apes-1974"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const miceAndMurder = {
   id: "01a06802-b8bb-7001-8547-99fab3c4c3d4",
-  type: "season",
+  type: "page-type/season",
   slug: "mice-and-murder",
   title: "Mice & Murder",
   partOfCollections: ["show/dimension-20"],

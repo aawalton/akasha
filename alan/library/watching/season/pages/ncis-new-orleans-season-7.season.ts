@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const ncisNewOrleansSeason7 = {
   id: "01a06802-b8bb-701f-a251-5d0b2a3757d8",
-  type: "season",
+  type: "page-type/season",
   slug: "ncis-new-orleans-season-7",
   title: "NCIS: New Orleans Season 7",
   partOfCollections: ["show/ncis-new-orleans"],

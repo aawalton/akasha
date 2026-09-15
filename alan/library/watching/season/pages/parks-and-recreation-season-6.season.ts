@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const parksAndRecreationSeason6 = {
   id: "01a06802-b8bc-700c-91de-8f7d5e389f15",
-  type: "season",
+  type: "page-type/season",
   slug: "parks-and-recreation-season-6",
   title: "Parks and Recreation Season 6",
   partOfCollections: ["show/parks-and-recreation"],

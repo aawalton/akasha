@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const philipKDickSElectricDreamsSeason1 = {
   id: "01a06802-b8bc-7018-8395-c207ac077eb5",
-  type: "season",
+  type: "page-type/season",
   slug: "philip-k-dick-s-electric-dreams-season-1",
   title: "Philip K. Dick's Electric Dreams Season 1",
   partOfCollections: ["show/electric-dreams"],

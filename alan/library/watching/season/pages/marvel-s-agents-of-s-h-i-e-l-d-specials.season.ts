@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const marvelSAgentsOfSHIELDSpecials = {
   id: "01a06802-b8ba-703f-8394-60639b3543fc",
-  type: "season",
+  type: "page-type/season",
   slug: "marvel-s-agents-of-s-h-i-e-l-d-specials",
   title: "Marvel's Agents of S.H.I.E.L.D. Specials",
   partOfCollections: ["show/agents-of-s-h-i-e-l-d"],

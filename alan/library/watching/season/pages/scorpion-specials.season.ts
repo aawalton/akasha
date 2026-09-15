@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const scorpionSpecials = {
   id: "01a06802-b8bc-7031-80d9-2c4854f5c941",
-  type: "season",
+  type: "page-type/season",
   slug: "scorpion-specials",
   title: "Scorpion Specials",
   partOfCollections: ["show/scorpion"],

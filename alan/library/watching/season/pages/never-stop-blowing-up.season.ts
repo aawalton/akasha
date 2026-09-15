@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const neverStopBlowingUp = {
   id: "01a06802-b8bb-703a-a109-2ff9393da0d5",
-  type: "season",
+  type: "page-type/season",
   slug: "never-stop-blowing-up",
   title: "Never Stop Blowing Up",
   partOfCollections: ["show/dimension-20"],

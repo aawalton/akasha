@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const marvelSIronFistSeason1 = {
   id: "01a06802-b8ba-7046-97ca-c0a071674a85",
-  type: "season",
+  type: "page-type/season",
   slug: "marvel-s-iron-fist-season-1",
   title: "Marvel's Iron Fist Season 1",
   partOfCollections: ["show/iron-fist"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const marvelSAgentCarterSeason2 = {
   id: "01a06802-b8ba-7037-be6f-f85b47cc2668",
-  type: "season",
+  type: "page-type/season",
   slug: "marvel-s-agent-carter-season-2",
   title: "Marvel's Agent Carter Season 2",
   partOfCollections: ["show/agent-carter"],

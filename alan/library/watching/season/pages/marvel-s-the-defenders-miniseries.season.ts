@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const marvelSTheDefendersMiniseries = {
   id: "01a06802-b8ba-7050-a759-e10946f26d38",
-  type: "season",
+  type: "page-type/season",
   slug: "marvel-s-the-defenders-miniseries",
   title: "Marvel's The Defenders Miniseries",
   partOfCollections: ["show/the-defenders"],

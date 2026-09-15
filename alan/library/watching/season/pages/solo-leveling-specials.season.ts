@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const soloLevelingSpecials = {
   id: "01a06802-b8bc-7040-9acc-701fc9eaf459",
-  type: "season",
+  type: "page-type/season",
   slug: "solo-leveling-specials",
   title: "Solo Leveling Specials",
   partOfCollections: ["show/solo-leveling"],

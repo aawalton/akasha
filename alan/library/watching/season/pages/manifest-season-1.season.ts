@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const manifestSeason1 = {
   id: "01a06802-b8ba-7032-8936-5e93ad088c49",
-  type: "season",
+  type: "page-type/season",
   slug: "manifest-season-1",
   title: "Manifest Season 1",
   partOfCollections: ["show/manifest"],

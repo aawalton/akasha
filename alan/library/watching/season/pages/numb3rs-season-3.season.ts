@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const numb3rsSeason3 = {
   id: "01a06802-b8bb-703e-8780-417c81135766",
-  type: "season",
+  type: "page-type/season",
   slug: "numb3rs-season-3",
   title: "Numb3rs Season 3",
   partOfCollections: ["show/numb3rs"],

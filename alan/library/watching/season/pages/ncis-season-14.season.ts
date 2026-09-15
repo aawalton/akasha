@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const ncisSeason14 = {
   id: "01a06802-b8bb-7026-b10d-7dc65db5e151",
-  type: "season",
+  type: "page-type/season",
   slug: "ncis-season-14",
   title: "NCIS Season 14",
   partOfCollections: ["show/ncis"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const onePieceSeason20 = {
   id: "01a06802-b8bb-704f-80dd-528df5460247",
-  type: "season",
+  type: "page-type/season",
   slug: "one-piece-season-20",
   title: "One Piece Season 20",
   partOfCollections: ["fandom/one-piece"],

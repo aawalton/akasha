@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const marvelSRunawaysSeason1 = {
   id: "01a06802-b8ba-704d-9623-94e81f77e766",
-  type: "season",
+  type: "page-type/season",
   slug: "marvel-s-runaways-season-1",
   title: "Marvel's Runaways Season 1",
   partOfCollections: ["show/runaways"],
