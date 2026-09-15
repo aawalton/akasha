@@ -89,6 +89,10 @@ export const noRawNulBytes = {
       invariantKind: "invariant-kind/departure",
       statement: "A NUL is counted in the bytes rather than in the decoded text.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file a property declares as bytes is never opened.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },

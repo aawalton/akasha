@@ -128,11 +128,24 @@ export function changesSparing(index: Answering): ReadonlySet<string> {
   return found
 }
 
-export const FILES: Selector<Body> = {
-  named: "files",
-  isInput: () => true,
-  from: (change) => bodiesIn(change),
+export function filesBy(named: string, taken: Input): Selector<Body> {
+  return {
+    named,
+    isInput: taken,
+    from: (change, shadow) => {
+      const found: Body[] = []
+      for (const path of change.changed) {
+        if (!taken(path, shadow)) continue
+        const bytes = change.after(path)
+        if (bytes === null) continue
+        found.push({ root: change.root, path, bytes })
+      }
+      return found
+    },
+  }
 }
+
+export const FILES: Selector<Body> = filesBy("files", () => true)
 
 export function textNamed(path: string): boolean {
   return typeScripted(path)

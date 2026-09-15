@@ -169,5 +169,9 @@ export const changeWalking = {
       statement:
         "The index is no file of the tree's, however git holds it, and is walked by nothing.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A selector over bodies is told the index the change leaves as well as the path.",
+    },
   ],
 } as const satisfies Module

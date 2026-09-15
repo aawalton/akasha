@@ -1,4 +1,8 @@
-import type { Body } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import {
+  type Body,
+  filesBy,
+  type Selector,
+} from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import {
   extensionsFor,
   heldNamed,
@@ -79,6 +83,7 @@ export function exemptIn(path: string, shadow: Shadow): boolean {
   return heldNamed(path, extensionsFor(shadow.index), holdingBytes, carrying)
 }
 
-export function judgedIn(given: Body, shadow: Shadow): readonly string[] {
-  return exemptIn(given.path, shadow) ? [] : reasonsIn(given)
-}
+export const UNEXEMPT: Selector<Body> = filesBy(
+  "files no property declares as bytes",
+  (path, shadow) => !exemptIn(path, shadow)
+)
