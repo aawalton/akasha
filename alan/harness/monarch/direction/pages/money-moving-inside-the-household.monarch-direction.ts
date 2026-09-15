@@ -2,7 +2,7 @@ import type { MonarchDirection } from "akasha/alan/harness/monarch/direction/mon
 
 export const moneyMovingInsideTheHousehold = {
   id: "01a06559-5ea9-700e-9643-a72f5f272746",
-  type: "monarch-direction",
+  type: "page-type/monarch-direction",
   slug: "money-moving-inside-the-household",
   title: "Money Moving Inside The Household",
   definition:
