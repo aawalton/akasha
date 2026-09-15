@@ -131,10 +131,7 @@ export function listedNamed(
   propertySlug: string,
   said: string
 ): readonly Listed[] {
-  return listedIn(
-    readingIn(given),
-    join(uniqueKind, scope, propertySlug, `${said}${ENDING}`)
-  )
+  return listedIn(readingIn(given), join(uniqueKind, scope, propertySlug, `${said}${ENDING}`))
 }
 
 export function listedAt(
