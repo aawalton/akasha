@@ -7,7 +7,7 @@ export const clusterProvisioning = {
   definition: "bringing an empty cluster up to where the pipeline can run",
   parts: [
     "certificate-authority/cluster-ca",
-    "domain/bootstrap-layers",
+    "domain/bootstrap-layer",
     "domain/talos",
     "shell-script/generate-certs",
   ],

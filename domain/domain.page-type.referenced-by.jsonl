@@ -380,7 +380,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/k8s-types/manifest/manifest.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/manifests/cluster-manifests.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/operations/cluster-operations.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/provisioning/bootstrap-layers/bootstrap-layers.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/provisioning/bootstrap-layer/bootstrap-layer.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/provisioning/cluster-provisioning.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/provisioning/talos/talos.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/commands/infrastructure-commands.domain.ts"}

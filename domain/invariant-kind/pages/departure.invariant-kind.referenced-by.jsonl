@@ -2401,7 +2401,7 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/manifests/modules/orphan-sweeping/orphan-sweeping.module.ts","id":"01a0686a-7a57-75d7-a420-ed74ca10393d"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/manifests/modules/tunnel-route-discovery/tunnel-route-discovery.module.ts","id":"01a06810-1262-7570-bae6-93d030d82053"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/operations/deploy-functions/deploy-functions.shell-script.ts","id":"01a06887-6590-7ef6-b6f5-49959a7c99f2"}
-{"propertySlug":"invariant-kind","path":"infrastructure/cluster/provisioning/bootstrap-layers/bootstrap-layers.domain.ts","id":"01a0675b-16d6-7813-8ade-362de2107d1b"}
+{"propertySlug":"invariant-kind","path":"infrastructure/cluster/provisioning/bootstrap-layer/bootstrap-layer.domain.ts","id":"01a0675b-16d6-7813-8ade-362de2107d1b"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/provisioning/cluster-provisioning.domain.ts","id":"01a0675b-16d9-7eab-a110-f106ca00dad1"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/provisioning/talos/modules/build-patch/build-patch.module.ts","id":"01a06813-7b0f-7a67-b8a8-51d1b4874930"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/provisioning/talos/modules/paths/paths.module.ts","id":"01a06813-7b0f-7d70-b1b8-8c7051dcac51"}
