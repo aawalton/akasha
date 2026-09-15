@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const roadToMasteryALitrpgApocalypse0002Chapter2JackVsGoblin = {
   id: "01a0672f-8c2c-7e22-b459-125278e46601",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0002-chapter-2-jack-vs-goblin",
   title: "Chapter 2: Jack vs. Goblin",
   story: "story-read/road-to-mastery-a-litrpg-apocalypse",

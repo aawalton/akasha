@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0116668MysticalAssassinEndOfBook12 = {
   id: "01a06730-4de8-72a1-9e1b-490778ef7d77",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0116-668-mystical-assassin-end-of-book-12",
   title: "668. Mystical Assassin (End of Book 12)",
   story: "story-read/salvos",

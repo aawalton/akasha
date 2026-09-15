@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0072516LordOfLies = {
   id: "01a06730-4de3-71d5-82e9-90d9f412d332",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0072-516-lord-of-lies",
   title: "516. Lord of Lies",
   story: "story-read/salvos",

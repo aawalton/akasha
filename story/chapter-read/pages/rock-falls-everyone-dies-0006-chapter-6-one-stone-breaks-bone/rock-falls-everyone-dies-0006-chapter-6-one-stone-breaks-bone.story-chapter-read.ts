@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rockFallsEveryoneDies0006Chapter6OneStoneBreaksBone = {
   id: "01a0672f-8c2d-7286-af50-8c76af81262c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rock-falls-everyone-dies-0006-chapter-6-one-stone-breaks-bone",
   title: "Chapter 6 – One Stone Breaks Bone",
   story: "story-read/rock-falls-everyone-dies",

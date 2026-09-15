@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0094563FreshmanStartOfBook11 = {
   id: "01a06730-4de7-7112-af5f-9b36b897ff8c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0094-563-freshman-start-of-book-11",
   title: "563. Freshman (Start of Book 11)",
   story: "story-read/salvos",

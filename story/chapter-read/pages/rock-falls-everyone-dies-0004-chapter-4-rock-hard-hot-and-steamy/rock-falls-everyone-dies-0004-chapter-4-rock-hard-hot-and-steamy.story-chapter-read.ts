@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rockFallsEveryoneDies0004Chapter4RockHardHotAndSteamy = {
   id: "01a0672f-8c2d-710a-9e31-7b00e172f6e0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rock-falls-everyone-dies-0004-chapter-4-rock-hard-hot-and-steamy",
   title: "Chapter 4 – Rock Hard; Hot and Steamy",
   story: "story-read/rock-falls-everyone-dies",

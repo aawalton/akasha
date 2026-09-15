@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0010ADemonsPrideSalvosVolume2IsNowLiveOn = {
   id: "01a06730-4dd2-7ad3-97bd-040f5e90c2ce",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0010-a-demons-pride-salvos-volume-2-is-now-live-on",
   title: "A Demon's Pride: Salvos Volume 2 is now live on Amazon!",
   story: "story-read/salvos",

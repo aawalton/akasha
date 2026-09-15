@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0092AfterOverTwoYearsTheSalvosWebcomicIs = {
   id: "01a06730-4de7-77ea-8ad4-f287168bf326",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0092-after-over-two-years-the-salvos-webcomic-is",
   title: "AFTER OVER TWO YEARS, THE SALVOS WEBCOMIC IS FINALLY OUT!",
   story: "story-read/salvos",

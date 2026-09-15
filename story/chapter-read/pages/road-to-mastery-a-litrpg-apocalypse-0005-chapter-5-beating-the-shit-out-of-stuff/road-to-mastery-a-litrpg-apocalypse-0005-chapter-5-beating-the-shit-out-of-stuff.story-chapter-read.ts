@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const roadToMasteryALitrpgApocalypse0005Chapter5BeatingTheShitOutOfStuff = {
   id: "01a0672f-8c2c-7ae6-b6ff-edfdf844fc91",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0005-chapter-5-beating-the-shit-out-of-stuff",
   title: "Chapter 5: Beating the Shit out of Stuff",
   story: "story-read/road-to-mastery-a-litrpg-apocalypse",

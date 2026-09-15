@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos000740SurvivorEndOfVolume1 = {
   id: "01a06730-4dd0-7c4a-90c2-3d14eaa98487",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0007-40-survivor-end-of-volume-1",
   title: "40. Survivor (End of Volume 1)",
   story: "story-read/salvos",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0056391ASneakAmbush = {
   id: "01a06730-4dde-7dac-a751-b0558dcdb2e7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0056-391-a-sneak-ambush",
   title: "391. A Sneak Ambush!",
   story: "story-read/salvos",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0041290InterludeSaffronsSaviorPartOneStartOf = {
   id: "01a06730-4ddb-7e31-beaf-c92d7447c976",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0041-290-interlude-saffrons-savior-part-one-start-of",
   title: "290. Interlude - Saffron's Savior Part One (Start of Volume 5 Part 2)",
   story: "story-read/salvos",

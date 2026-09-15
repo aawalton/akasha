@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rockFallsEveryoneDies0009Chapter85OkMaybeSomethingDidActuallyHappenInThose = {
   id: "01a0672f-8c2d-796a-bea3-115664ad1154",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rock-falls-everyone-dies-0009-chapter-8-5-ok-maybe-something-did-actually-happen-in-those",
   title: "Chapter 8.5 – Ok, Maybe Something Did Actually Happen in Those 500 Years",
   story: "story-read/rock-falls-everyone-dies",

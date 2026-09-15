@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos000841DanielsDilemmaStartOfVolume2 = {
   id: "01a06730-4dd1-759d-9492-4669a3ecdf01",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0008-41-daniels-dilemma-start-of-volume-2",
   title: "41. Daniel's Dilemma (Start of Volume 2)",
   story: "story-read/salvos",

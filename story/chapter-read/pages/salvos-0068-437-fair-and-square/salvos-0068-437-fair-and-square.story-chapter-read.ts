@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0068437FairAndSquare = {
   id: "01a06730-4de1-7d2b-9329-e078defed64e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0068-437-fair-and-square",
   title: "437. Fair and Square",
   story: "story-read/salvos",

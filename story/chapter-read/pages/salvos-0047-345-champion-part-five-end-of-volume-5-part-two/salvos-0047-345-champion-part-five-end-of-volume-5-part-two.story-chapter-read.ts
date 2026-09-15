@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0047345ChampionPartFiveEndOfVolume5PartTwo = {
   id: "01a06730-4ddc-7c14-b324-959a258dd663",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0047-345-champion-part-five-end-of-volume-5-part-two",
   title: "345. Champion Part Five (End of Volume 5 Part Two)",
   story: "story-read/salvos",

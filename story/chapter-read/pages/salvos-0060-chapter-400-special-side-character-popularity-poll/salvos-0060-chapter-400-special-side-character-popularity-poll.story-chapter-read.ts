@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0060Chapter400SpecialSideCharacterPopularityPoll = {
   id: "01a06730-4de0-7804-95e3-d02f4ac63b6a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0060-chapter-400-special-side-character-popularity-poll",
   title: "Chapter 400 Special: Side Character Popularity Poll!",
   story: "story-read/salvos",

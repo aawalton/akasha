@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0028172CosmicCompression = {
   id: "01a06730-4dd9-70b6-859a-fa819b7c5955",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0028-172-cosmic-compression",
   title: "172. Cosmic Compression",
   story: "story-read/salvos",

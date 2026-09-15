@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0079522ThePrimordial = {
   id: "01a06730-4de7-7ae0-8e77-46cf93f03a75",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0079-522-the-primordial",
   title: "522. The Primordial",
   story: "story-read/salvos",

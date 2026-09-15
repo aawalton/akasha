@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rockFallsEveryoneDies0012Chapter11Avalanche = {
   id: "01a0672f-8c2d-7611-8fbd-815fcf9fcd48",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rock-falls-everyone-dies-0012-chapter-11-avalanche",
   title: "Chapter 11 – [Avalanche]",
   story: "story-read/rock-falls-everyone-dies",

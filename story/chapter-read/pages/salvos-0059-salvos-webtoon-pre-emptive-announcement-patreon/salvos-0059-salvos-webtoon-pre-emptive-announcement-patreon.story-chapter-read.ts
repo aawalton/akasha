@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0059SalvosWebtoonPreEmptiveAnnouncementPatreon = {
   id: "01a06730-4de0-7b73-b0d7-2c5ae56128d8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0059-salvos-webtoon-pre-emptive-announcement-patreon",
   title: "SALVOS WEBTOON (pre-emptive) ANNOUNCEMENT + Patreon tier updates",
   story: "story-read/salvos",

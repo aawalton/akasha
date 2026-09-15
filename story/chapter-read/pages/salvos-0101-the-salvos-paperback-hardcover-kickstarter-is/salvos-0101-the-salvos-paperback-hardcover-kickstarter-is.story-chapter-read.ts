@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0101TheSalvosPaperbackHardcoverKickstarterIs = {
   id: "01a06730-4de7-73b1-9d76-850d6bcd2a67",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0101-the-salvos-paperback-hardcover-kickstarter-is",
   title:
     "THE SALVOS PAPERBACK + HARDCOVER KICKSTARTER IS OFFICIALLY OUT! Get a print copy of Salvos!",

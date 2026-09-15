@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0053389SoItBeginsEndOfVolume5Part3 = {
   id: "01a06730-4ddd-7ea8-ad38-1413deafef2a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0053-389-so-it-begins-end-of-volume-5-part-3",
   title: "389. So It Begins (End of Volume 5 Part 3)",
   story: "story-read/salvos",

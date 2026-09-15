@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0039288DespairPartTwo = {
   id: "01a06730-4dda-74e9-b58f-e7d32d1ae669",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0039-288-despair-part-two",
   title: "288. Despair Part Two",
   story: "story-read/salvos",

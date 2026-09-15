@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0085ApparentlyIHaveASalvosWikiComicPreview = {
   id: "01a06730-4de7-7e10-8473-cbbbe24a6b27",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0085-apparently-i-have-a-salvos-wiki-comic-preview",
   title: "Apparently, I have a Salvos wiki + Comic Preview",
   story: "story-read/salvos",

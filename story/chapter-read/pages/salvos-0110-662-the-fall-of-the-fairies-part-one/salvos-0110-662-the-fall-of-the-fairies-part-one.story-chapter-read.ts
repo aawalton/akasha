@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0110662TheFallOfTheFairiesPartOne = {
   id: "01a06730-4de8-726c-808f-8fb4aadf9dfa",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0110-662-the-fall-of-the-fairies-part-one",
   title: "662. The Fall Of The Fairies Part One",
   story: "story-read/salvos",

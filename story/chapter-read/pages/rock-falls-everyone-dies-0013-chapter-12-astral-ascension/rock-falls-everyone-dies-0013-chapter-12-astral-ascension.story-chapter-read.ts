@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rockFallsEveryoneDies0013Chapter12AstralAscension = {
   id: "01a0672f-8c2d-7bdc-bc10-a175222bda02",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rock-falls-everyone-dies-0013-chapter-12-astral-ascension",
   title: "Chapter 12 – Astral Ascension",
   story: "story-read/rock-falls-everyone-dies",

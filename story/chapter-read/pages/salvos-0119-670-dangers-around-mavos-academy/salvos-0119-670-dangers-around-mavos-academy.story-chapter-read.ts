@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const salvos0119670DangersAroundMavosAcademy = {
   id: "01a06730-4de8-76a0-980f-0021c4f6c13a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "salvos-0119-670-dangers-around-mavos-academy",
   title: "670. Dangers Around Mavos Academy",
   story: "story-read/salvos",
