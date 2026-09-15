@@ -2,7 +2,7 @@ import type { TemperCraftType } from "akasha/temper/catalog/temper-pursuit/tempe
 
 export const clothing = {
   id: "01a0616b-2ce0-700e-8ca5-30e7c0ee99b3",
-  type: "temper-craft-type",
+  type: "page-type/temper-craft-type",
   slug: "clothing",
   title: "Clothing",
   esoCraftTypeId: 2,

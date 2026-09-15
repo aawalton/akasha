@@ -2,7 +2,7 @@ import type { TemperCraftType } from "akasha/temper/catalog/temper-pursuit/tempe
 
 export const blacksmithing = {
   id: "01a0616b-2cdf-7006-beaf-bbc543414e00",
-  type: "temper-craft-type",
+  type: "page-type/temper-craft-type",
   slug: "blacksmithing",
   title: "Blacksmithing",
   esoCraftTypeId: 1,
