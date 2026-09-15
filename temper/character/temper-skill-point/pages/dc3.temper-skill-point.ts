@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const dc3 = {
   id: "019e6471-1528-7528-8f8a-8a685a389f3f",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "dc3",
   title: "Rivenspire",
   key: "DC3",

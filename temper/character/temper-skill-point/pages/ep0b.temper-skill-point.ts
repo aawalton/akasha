@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const ep0b = {
   id: "019e6471-152b-7e03-b791-7499835ced5a",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "ep0b",
   title: "Bleakrock Isle",
   key: "EP0b",

@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const level = {
   id: "019e6471-150f-78a2-8678-35004cac8e12",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "level",
   title: "Level",
   key: "level",

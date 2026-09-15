@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const ep4 = {
   id: "019e6471-1532-7a44-944a-3ccae0a54057",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "ep4",
   title: "Eastmarch",
   key: "EP4",

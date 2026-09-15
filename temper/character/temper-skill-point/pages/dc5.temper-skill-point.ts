@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const dc5 = {
   id: "019e6471-152a-7d1c-a515-61c30d6cc623",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "dc5",
   title: "Bangkorai",
   key: "DC5",

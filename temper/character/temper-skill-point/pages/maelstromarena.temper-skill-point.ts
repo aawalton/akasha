@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const maelstromarena = {
   id: "019e6471-1519-7081-b9bf-460bd623f188",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "maelstromarena",
   title: "Maelstrom Arena",
   key: "maelstromArena",

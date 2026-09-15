@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const gc = {
   id: "019e6471-153c-7b18-b0ea-a109356e3927",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "gc",
   title: "Gold Coast",
   key: "GC",

@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const bw = {
   id: "019e6471-1549-734c-bbd4-4ceb979e4243",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "bw",
   title: "Blackwood",
   key: "BW",

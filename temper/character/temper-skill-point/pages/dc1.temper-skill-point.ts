@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const dc1 = {
   id: "019e6471-1525-7fd8-b91e-069228dceca5",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "dc1",
   title: "Glenumbra",
   key: "DC1",

@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const mainquests = {
   id: "019e6471-1511-7b20-aa5c-8bc7c17ffadb",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "mainquests",
   title: "Main Quests",
   key: "mainQuests",

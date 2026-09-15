@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const ad0 = {
   id: "019e6471-151c-7a2e-921c-79b495ac434c",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "ad0",
   title: "Khenarthi's Roost",
   key: "AD0",

@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const cl = {
   id: "019e6471-1537-79a1-94cd-bbe20b48b88c",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "cl",
   title: "Craglorn",
   key: "CL",

@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const dc4 = {
   id: "019e6471-1529-7959-9ffa-f451f0bf651c",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "dc4",
   title: "Alik'r Desert",
   key: "DC4",

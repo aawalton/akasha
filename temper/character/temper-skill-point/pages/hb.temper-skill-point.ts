@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const hb = {
   id: "019e6471-153b-75d0-9ee7-3a6656db0d55",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "hb",
   title: "Hew's Bane",
   key: "HB",

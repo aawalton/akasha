@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const cy = {
   id: "019e6471-1536-7600-93a8-5bef9d916a03",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "cy",
   title: "Cyrodiil",
   key: "CY",

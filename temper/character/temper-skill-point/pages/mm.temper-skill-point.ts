@@ -2,7 +2,7 @@ import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-poin
 
 export const mm = {
   id: "019e6471-1542-7220-afb3-567387235e06",
-  type: "temper-skill-point",
+  type: "page-type/temper-skill-point",
   slug: "mm",
   title: "Murkmire",
   key: "MM",
