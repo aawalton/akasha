@@ -77,7 +77,6 @@ export const temperCompanionsCore = {
     "module/companion-support-contributions",
     "module/companion-support-evaluator",
     "module/companion-support-types",
-    "module/companion-trait-optimizer",
     "module/companion-traits",
     "module/companion-types",
     "module/companion-valid-skills",

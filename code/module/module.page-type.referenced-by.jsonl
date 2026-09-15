@@ -3513,7 +3513,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/companion-support-contributions/companion-support-contributions.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/companion-support-evaluator/companion-support-evaluator.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/companion-support-types/companion-support-types.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/companion-trait-optimizer/companion-trait-optimizer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/companion-traits/companion-traits.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/companion-types/companion-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/companion-valid-skills/companion-valid-skills.module.ts"}

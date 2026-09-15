@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"companion-weapon-slots.module.code.ts","path":"temper/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-weapon-slots.module.code.ts","path":"temper/companions-core/modules/companion-equipment-slots/companion-equipment-slots.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-weapon-slots.module.code.ts","path":"temper/companions-core/modules/companion-suggestion-generator/companion-suggestion-generator.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-weapon-slots.module.code.ts","path":"temper/companions-core/modules/companion-trait-optimizer/companion-trait-optimizer.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-weapon-slots.module.code.ts","path":"temper/companions-core/modules/companion-types/companion-types.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-weapon-slots.module.code.ts","path":"temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-weapon-slots.module.code.ts","path":"temper/web/modules/companion-weapon-bar-panel-card/companion-weapon-bar-panel-card.module.code.tsx"}
