@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldTheShepherdsCrown = {
   id: "019db533-f388-7d5b-8a0c-e214f3a25efe",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-the-shepherds-crown",
   title: "Discworld: The Shepherd's Crown",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldWyrdSisters = {
   id: "019db533-f39a-77e9-adb2-ca6ad968d049",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-wyrd-sisters",
   title: "Discworld: Wyrd Sisters",
   status: "not-started",

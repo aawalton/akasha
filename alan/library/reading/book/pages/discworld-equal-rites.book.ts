@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldEqualRites = {
   id: "019db533-f39b-7080-9393-7bdca0681d95",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-equal-rites",
   title: "Discworld: Equal Rites",
   status: "not-started",

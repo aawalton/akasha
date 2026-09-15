@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const disgardiumOutOfPlay = {
   id: "019db533-f390-7d83-9613-6512bbdb2426",
-  type: "book",
+  type: "page-type/book",
   slug: "disgardium-out-of-play",
   title: "Disgardium: Out of Play",
   status: "not-started",

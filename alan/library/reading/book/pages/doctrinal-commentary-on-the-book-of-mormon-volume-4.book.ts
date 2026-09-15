@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const doctrinalCommentaryOnTheBookOfMormonVolume4 = {
   id: "019db533-f39d-7435-ba24-432e1996a46f",
-  type: "book",
+  type: "page-type/book",
   slug: "doctrinal-commentary-on-the-book-of-mormon-volume-4",
   title: "Doctrinal Commentary on the Book of Mormon Volume 4",
   status: "not-started",

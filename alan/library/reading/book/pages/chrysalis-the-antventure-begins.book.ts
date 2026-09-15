@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const chrysalisTheAntventureBegins = {
   id: "019db533-f390-7ba3-94f6-01fc614d26c4",
-  type: "book",
+  type: "page-type/book",
   slug: "chrysalis-the-antventure-begins",
   title: "Chrysalis: The Antventure Begins",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const documentsVolume14 = {
   id: "019db533-f39d-73eb-a1a3-ba60bb061177",
-  type: "book",
+  type: "page-type/book",
   slug: "documents-volume-14",
   title: "Documents Volume 14",
   status: "not-started",

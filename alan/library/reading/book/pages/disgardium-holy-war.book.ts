@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const disgardiumHolyWar = {
   id: "019db533-f390-7da0-97db-22d842a5c2bd",
-  type: "book",
+  type: "page-type/book",
   slug: "disgardium-holy-war",
   title: "Disgardium: Holy War",
   status: "completed",

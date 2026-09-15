@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const darkOne = {
   id: "019db533-f39d-70bb-995c-aabc3b6a2bf8",
-  type: "book",
+  type: "page-type/book",
   slug: "dark-one",
   title: "Dark One",
   status: "not-started",

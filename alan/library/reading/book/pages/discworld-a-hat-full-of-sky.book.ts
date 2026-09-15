@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldAHatFullOfSky = {
   id: "019db533-f388-7d4f-83c7-581d2ba62f59",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-a-hat-full-of-sky",
   title: "Discworld: A Hat Full of Sky",
   status: "not-started",

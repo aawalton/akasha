@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const cultureConsiderPhlebas = {
   id: "019db533-f39b-72db-bcfe-6bd2995ea7a1",
-  type: "book",
+  type: "page-type/book",
   slug: "culture-consider-phlebas",
   title: "Culture: Consider Phlebas",
   status: "not-started",

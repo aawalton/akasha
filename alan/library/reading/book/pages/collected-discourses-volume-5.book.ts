@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const collectedDiscoursesVolume5 = {
   id: "019db533-f39d-7480-9cc9-51a334d8a7f3",
-  type: "book",
+  type: "page-type/book",
   slug: "collected-discourses-volume-5",
   title: "Collected Discourses Volume 5",
   status: "not-started",

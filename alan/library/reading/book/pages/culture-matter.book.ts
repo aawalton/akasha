@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const cultureMatter = {
   id: "019db533-f39a-7f14-b646-d816225f48d8",
-  type: "book",
+  type: "page-type/book",
   slug: "culture-matter",
   title: "Culture: Matter",
   status: "not-started",

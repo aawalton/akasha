@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const deathOnTheNile = {
   id: "019db533-f399-7d0a-94ad-a0cfdf7243c3",
-  type: "book",
+  type: "page-type/book",
   slug: "death-on-the-nile",
   title: "Death on the Nile",
   status: "not-started",

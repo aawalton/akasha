@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const bunnyGirlEvolutionBook1 = {
   id: "019db533-f38b-7609-8a72-1d2cdd9f4440",
-  type: "book",
+  type: "page-type/book",
   slug: "bunny-girl-evolution-book-1",
   title: "Bunny Girl Evolution",
   status: "completed",

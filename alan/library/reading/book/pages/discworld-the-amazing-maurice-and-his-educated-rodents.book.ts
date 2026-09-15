@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldTheAmazingMauriceAndHisEducatedRodents = {
   id: "019db533-f388-7e3d-b1df-28c2558beb2b",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-the-amazing-maurice-and-his-educated-rodents",
   title: "Discworld: The Amazing Maurice and His Educated Rodents",
   status: "not-started",

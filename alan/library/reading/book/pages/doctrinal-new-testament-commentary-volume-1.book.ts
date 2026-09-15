@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const doctrinalNewTestamentCommentaryVolume1 = {
   id: "019db533-f39d-71d6-a08f-0b6647e4b46d",
-  type: "book",
+  type: "page-type/book",
   slug: "doctrinal-new-testament-commentary-volume-1",
   title: "Doctrinal New Testament Commentary Volume 1",
   status: "paused",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const deathInTheClouds = {
   id: "019db533-f399-7c8a-864c-bf61a4d21755",
-  type: "book",
+  type: "page-type/book",
   slug: "death-in-the-clouds",
   title: "Death in the Clouds",
   status: "not-started",

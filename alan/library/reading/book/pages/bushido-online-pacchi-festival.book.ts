@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const bushidoOnlinePacchiFestival = {
   id: "019db533-f390-7588-aa58-c1eedabcde12",
-  type: "book",
+  type: "page-type/book",
   slug: "bushido-online-pacchi-festival",
   title: "Bushido Online: Pacchi Festival",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const bushidoOnlineTheBattleBegins = {
   id: "019db533-f390-7a51-8036-812d4322c92c",
-  type: "book",
+  type: "page-type/book",
   slug: "bushido-online-the-battle-begins",
   title: "Bushido Online: the Battle Begins",
   status: "completed",

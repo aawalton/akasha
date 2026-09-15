@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const defiant = {
   id: "019db533-f39c-7fff-89d0-2bc7b1b8eb0c",
-  type: "book",
+  type: "page-type/book",
   slug: "defiant",
   title: "Defiant",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldMovingPictures = {
   id: "019db533-f39a-7d89-97b3-3c76d32b77e4",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-moving-pictures",
   title: "Discworld: Moving Pictures",
   status: "not-started",

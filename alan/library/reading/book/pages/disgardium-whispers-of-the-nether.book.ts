@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const disgardiumWhispersOfTheNether = {
   id: "019db533-f390-7d58-9670-da513183e849",
-  type: "book",
+  type: "page-type/book",
   slug: "disgardium-whispers-of-the-nether",
   title: "Disgardium: Whispers of the Nether",
   status: "not-started",

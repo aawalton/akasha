@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const childrenOfTheNameless = {
   id: "019db533-f39d-7600-bfd3-40590965f912",
-  type: "book",
+  type: "page-type/book",
   slug: "children-of-the-nameless",
   title: "Children of the Nameless",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldNightWatch = {
   id: "019db533-f388-7e54-9921-489f4c02ea14",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-night-watch",
   title: "Discworld: Night Watch",
   status: "not-started",

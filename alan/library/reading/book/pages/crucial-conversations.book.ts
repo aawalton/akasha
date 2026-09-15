@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const crucialConversations = {
   id: "019db533-f39e-7215-81a3-a9506067bd0f",
-  type: "book",
+  type: "page-type/book",
   slug: "crucial-conversations",
   title: "Crucial Conversations",
   status: "not-started",

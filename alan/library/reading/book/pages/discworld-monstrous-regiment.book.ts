@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldMonstrousRegiment = {
   id: "019db533-f388-7db9-b03e-57be736bae2c",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-monstrous-regiment",
   title: "Discworld: Monstrous Regiment",
   status: "not-started",

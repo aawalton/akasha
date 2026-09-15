@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldReaperMan = {
   id: "019db533-f39a-7c6f-a955-efa8734936d9",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-reaper-man",
   title: "Discworld: Reaper Man",
   status: "not-started",

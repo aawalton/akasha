@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldWitchesAbroad = {
   id: "019db533-f39a-7822-af09-e51294304f06",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-witches-abroad",
   title: "Discworld: Witches Abroad",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const disgardiumApostleOfTheSleepingGods = {
   id: "019db533-f390-7dce-9613-098be15c6684",
-  type: "book",
+  type: "page-type/book",
   slug: "disgardium-apostle-of-the-sleeping-gods",
   title: "Disgardium: Apostle of the Sleeping Gods",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldSmallGods = {
   id: "019db533-f39a-7c35-b4ed-1721631e7e7c",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-small-gods",
   title: "Discworld: Small Gods",
   status: "not-started",

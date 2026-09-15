@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldEric = {
   id: "019db533-f38a-7eb0-99c2-2dba364db3f6",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-eric",
   title: "Discworld: Eric",
   status: "not-started",

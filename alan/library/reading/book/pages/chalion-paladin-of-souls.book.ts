@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const chalionPaladinOfSouls = {
   id: "019db533-f39a-7c7d-b2c7-bffc2ee465b8",
-  type: "book",
+  type: "page-type/book",
   slug: "chalion-paladin-of-souls",
   title: "Chalion: Paladin of Souls",
   status: "not-started",

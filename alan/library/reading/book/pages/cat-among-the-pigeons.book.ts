@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const catAmongThePigeons = {
   id: "019db533-f399-7d15-8cc2-5a7aca8f8d78",
-  type: "book",
+  type: "page-type/book",
   slug: "cat-among-the-pigeons",
   title: "Cat Among the Pigeons",
   status: "not-started",

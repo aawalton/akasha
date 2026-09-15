@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dragonHeartLandOfPain = {
   id: "019db533-f390-7e46-a7f2-179df3bfa73b",
-  type: "book",
+  type: "page-type/book",
   slug: "dragon-heart-land-of-pain",
   title: "Dragon Heart: Land of Pain",
   status: "completed",

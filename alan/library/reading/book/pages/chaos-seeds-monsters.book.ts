@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const chaosSeedsMonsters = {
   id: "019db533-f390-7a73-b33c-5e4debf6b1b7",
-  type: "book",
+  type: "page-type/book",
   slug: "chaos-seeds-monsters",
   title: "Chaos Seeds: Monsters",
   status: "completed",

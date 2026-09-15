@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const chrysalisAntelligentDesign = {
   id: "019db533-f390-7b8b-a74e-30578550a84d",
-  type: "book",
+  type: "page-type/book",
   slug: "chrysalis-antelligent-design",
   title: "Chrysalis: Antelligent Design",
   status: "completed",

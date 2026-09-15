@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldCarpeJugulum = {
   id: "019db533-f388-7de2-b941-4de56b2edab1",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-carpe-jugulum",
   title: "Discworld: Carpe Jugulum",
   status: "not-started",

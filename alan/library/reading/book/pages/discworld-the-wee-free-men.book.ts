@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldTheWeeFreeMen = {
   id: "019db533-f388-7e78-8af9-3ac0cc476ab0",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-the-wee-free-men",
   title: "Discworld: The Wee Free Men",
   status: "not-started",

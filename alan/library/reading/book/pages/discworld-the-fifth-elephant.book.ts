@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldTheFifthElephant = {
   id: "019db533-f388-7e69-bf74-99838491500b",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-the-fifth-elephant",
   title: "Discworld: The Fifth Elephant",
   status: "not-started",

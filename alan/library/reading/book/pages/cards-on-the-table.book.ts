@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const cardsOnTheTable = {
   id: "019db533-f399-7c95-bcd7-10dc608aed9b",
-  type: "book",
+  type: "page-type/book",
   slug: "cards-on-the-table",
   title: "Cards on the Table",
   status: "not-started",

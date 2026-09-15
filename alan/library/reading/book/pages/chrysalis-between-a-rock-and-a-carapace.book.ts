@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const chrysalisBetweenARockAndACarapace = {
   id: "019db533-f390-7ad5-a54d-b4963cf11543",
-  type: "book",
+  type: "page-type/book",
   slug: "chrysalis-between-a-rock-and-a-carapace",
   title: "Chrysalis: Between a Rock and a Carapace",
   status: "completed",

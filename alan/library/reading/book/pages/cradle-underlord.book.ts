@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const cradleUnderlord = {
   id: "019db533-f390-7c4a-bcbb-0cf3472acdd0",
-  type: "book",
+  type: "page-type/book",
   slug: "cradle-underlord",
   title: "Cradle: Underlord",
   status: "completed",

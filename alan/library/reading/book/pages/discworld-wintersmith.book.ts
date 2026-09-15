@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldWintersmith = {
   id: "019db533-f388-7e8f-82ad-6e1df8ce8f74",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-wintersmith",
   title: "Discworld: Wintersmith",
   status: "not-started",

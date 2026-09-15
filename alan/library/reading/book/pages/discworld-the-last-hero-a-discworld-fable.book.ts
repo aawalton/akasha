@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldTheLastHeroADiscworldFable = {
   id: "019db533-f388-7d7e-b209-db8f5530d8f7",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-the-last-hero-a-discworld-fable",
   title: "Discworld: The Last Hero: A Discworld Fable",
   status: "not-started",

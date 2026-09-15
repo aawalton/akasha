@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const davidAndGoliath = {
   id: "019db533-f39e-71de-b3d4-a75f27ff6f4c",
-  type: "book",
+  type: "page-type/book",
   slug: "david-and-goliath",
   title: "David and Goliath",
   status: "not-started",

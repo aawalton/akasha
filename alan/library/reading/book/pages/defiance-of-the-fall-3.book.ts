@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const defianceOfTheFall3 = {
   id: "019db533-f390-7d0f-af7b-5f5e34115c91",
-  type: "book",
+  type: "page-type/book",
   slug: "defiance-of-the-fall-3",
   title: "Defiance of the Fall 3",
   status: "completed",

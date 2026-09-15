@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const cradleGhostwater = {
   id: "019db533-f390-7c1e-9a45-120237365fb6",
-  type: "book",
+  type: "page-type/book",
   slug: "cradle-ghostwater",
   title: "Cradle: Ghostwater",
   status: "completed",

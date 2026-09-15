@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldSoulMusic = {
   id: "019db533-f39a-7b11-ae36-5390de8f7987",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-soul-music",
   title: "Discworld: Soul Music",
   status: "not-started",

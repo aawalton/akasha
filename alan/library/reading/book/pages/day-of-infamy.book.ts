@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dayOfInfamy = {
   id: "019db533-f39d-7b48-8360-9667f0ba4240",
-  type: "book",
+  type: "page-type/book",
   slug: "day-of-infamy",
   title: "Day of Infamy",
   status: "not-started",

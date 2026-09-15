@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldTheLightFantastic = {
   id: "019db533-f39a-78f7-bae1-f15581d95c39",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-the-light-fantastic",
   title: "Discworld: The Light Fantastic",
   status: "not-started",

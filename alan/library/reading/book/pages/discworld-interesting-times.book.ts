@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldInterestingTimes = {
   id: "019db533-f39b-70bd-b002-d86725d55e6b",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-interesting-times",
   title: "Discworld: Interesting Times",
   status: "not-started",

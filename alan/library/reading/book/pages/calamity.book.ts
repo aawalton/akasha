@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const calamity = {
   id: "019db533-f39d-7040-9846-186c6e877c6e",
-  type: "book",
+  type: "page-type/book",
   slug: "calamity",
   title: "Calamity",
   status: "not-started",

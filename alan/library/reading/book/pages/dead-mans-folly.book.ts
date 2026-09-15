@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const deadMansFolly = {
   id: "019db533-f399-7bf5-8257-24ba995a157d",
-  type: "book",
+  type: "page-type/book",
   slug: "dead-mans-folly",
   title: "Dead Man's Folly",
   status: "not-started",

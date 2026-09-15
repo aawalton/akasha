@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const disgardiumResistance = {
   id: "019db533-f390-7da7-9dad-76feb80b95fb",
-  type: "book",
+  type: "page-type/book",
   slug: "disgardium-resistance",
   title: "Disgardium: Resistance",
   status: "completed",

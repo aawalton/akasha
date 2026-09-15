@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldFeetOfClay = {
   id: "019db533-f39b-708e-a859-ec9ef22812b2",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-feet-of-clay",
   title: "Discworld: Feet of Clay",
   status: "not-started",

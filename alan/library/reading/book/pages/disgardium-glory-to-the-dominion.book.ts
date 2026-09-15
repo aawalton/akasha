@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const disgardiumGloryToTheDominion = {
   id: "019db533-f390-7d67-8d40-050e31c702cc",
-  type: "book",
+  type: "page-type/book",
   slug: "disgardium-glory-to-the-dominion",
   title: "Disgardium: Glory to the Dominion!",
   status: "not-started",

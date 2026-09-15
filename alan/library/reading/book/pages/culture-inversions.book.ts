@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const cultureInversions = {
   id: "019db533-f39a-7f74-aa81-fd55cdbac5c1",
-  type: "book",
+  type: "page-type/book",
   slug: "culture-inversions",
   title: "Culture: Inversions",
   status: "not-started",

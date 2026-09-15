@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldHogfather = {
   id: "019db533-f39b-70ed-9b28-45c4d66aacdf",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-hogfather",
   title: "Discworld: Hogfather",
   status: "not-started",

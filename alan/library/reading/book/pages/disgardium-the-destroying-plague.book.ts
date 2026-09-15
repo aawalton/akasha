@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const disgardiumTheDestroyingPlague = {
   id: "019db533-f390-7dc6-8551-aaeb6cd810cc",
-  type: "book",
+  type: "page-type/book",
   slug: "disgardium-the-destroying-plague",
   title: "Disgardium: The Destroying Plague",
   status: "completed",

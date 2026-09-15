@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const daemonFreedom = {
   id: "019db533-f39b-7087-bf01-6b0092b0d531",
-  type: "book",
+  type: "page-type/book",
   slug: "daemon-freedom",
   title: "Daemon: Freedom",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const butForASmallMoment = {
   id: "019db533-f39d-73bc-b2ab-6637aef9bb2e",
-  type: "book",
+  type: "page-type/book",
   slug: "but-for-a-small-moment",
   title: "But For A Small Moment",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dragonHeartDwarfCity = {
   id: "019db533-f390-7e05-bf3d-c5549aaca910",
-  type: "book",
+  type: "page-type/book",
   slug: "dragon-heart-dwarf-city",
   title: "Dragon Heart: Dwarf City",
   status: "completed",

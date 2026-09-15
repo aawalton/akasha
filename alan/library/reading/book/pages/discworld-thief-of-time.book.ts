@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldThiefOfTime = {
   id: "019db533-f388-7d72-9232-7cf8cfeebbb2",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-thief-of-time",
   title: "Discworld: Thief of Time",
   status: "not-started",

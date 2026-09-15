@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const crystalSinger = {
   id: "019db533-f399-7dd5-bc3f-f10de43d9b55",
-  type: "book",
+  type: "page-type/book",
   slug: "crystal-singer",
   title: "Crystal Singer",
   status: "not-started",

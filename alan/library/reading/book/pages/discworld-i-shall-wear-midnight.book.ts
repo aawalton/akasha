@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const discworldIShallWearMidnight = {
   id: "019db533-f388-7dcc-8379-07616c216cc8",
-  type: "book",
+  type: "page-type/book",
   slug: "discworld-i-shall-wear-midnight",
   title: "Discworld: I Shall Wear Midnight",
   status: "not-started",
