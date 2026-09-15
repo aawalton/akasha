@@ -2,7 +2,7 @@ import type { TemperScribingSource } from "akasha/temper/catalog/temper-skill/te
 
 export const undauntedDelveDailies = {
   id: "019e12b0-85ea-7088-9059-200f16b5ae05",
-  type: "temper-scribing-source",
+  type: "page-type/temper-scribing-source",
   slug: "undaunted-delve-dailies",
   title: "Undaunted Delve Dailies",
   displayOrder: 0,
