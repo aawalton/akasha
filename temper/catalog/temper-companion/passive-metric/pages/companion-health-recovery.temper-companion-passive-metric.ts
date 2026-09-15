@@ -2,7 +2,7 @@ import type { TemperCompanionPassiveMetric } from "akasha/temper/catalog/temper-
 
 export const companionHealthRecovery = {
   id: "01a05fcd-70fa-7b06-ba05-d5a437aade98",
-  type: "temper-companion-passive-metric",
+  type: "page-type/temper-companion-passive-metric",
   slug: "companion-health-recovery",
   key: "companion-health-recovery",
   title: "Health Recovery",
