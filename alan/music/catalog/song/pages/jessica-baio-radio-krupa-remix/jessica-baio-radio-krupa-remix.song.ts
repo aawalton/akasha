@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const jessicaBaioRadioKrupaRemix = {
   id: "019ea4f8-a4d3-71f9-865d-cca02fead284",
-  type: "song",
+  type: "page-type/song",
   slug: "jessica-baio-radio-krupa-remix",
   title: "Radio (Krupa remix)",
   artist: "artist/jessica-baio",

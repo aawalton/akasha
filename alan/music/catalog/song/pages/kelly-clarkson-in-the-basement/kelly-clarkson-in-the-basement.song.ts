@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonInTheBasement = {
   id: "019ea4af-4c9a-72b7-b0ca-9f404c844cec",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-in-the-basement",
   title: "In the Basement",
   artist: "artist/kelly-clarkson",

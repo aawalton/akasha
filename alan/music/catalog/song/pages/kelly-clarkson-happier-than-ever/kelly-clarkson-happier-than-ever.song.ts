@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonHappierThanEver = {
   id: "019ea4aa-e95d-7446-9457-2ab561c8d01d",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-happier-than-ever",
   title: "Happier Than Ever",
   artist: "artist/kelly-clarkson",

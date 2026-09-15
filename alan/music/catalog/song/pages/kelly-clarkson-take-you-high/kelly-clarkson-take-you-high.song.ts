@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonTakeYouHigh = {
   id: "019ea4c1-4846-737f-8674-c0cad012d2df",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-take-you-high",
   title: "Take You High",
   artist: "artist/kelly-clarkson",

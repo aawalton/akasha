@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonAMomentLikeThis = {
   id: "019ea4ad-1289-7e54-9880-93288d8bf355",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-a-moment-like-this",
   title: "A Moment Like This",
   artist: "artist/kelly-clarkson",

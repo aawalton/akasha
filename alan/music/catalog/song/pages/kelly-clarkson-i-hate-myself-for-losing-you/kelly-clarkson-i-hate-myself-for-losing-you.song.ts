@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonIHateMyselfForLosingYou = {
   id: "019ea4ad-6a0b-704c-814b-fab27c523c73",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-i-hate-myself-for-losing-you",
   title: "I Hate Myself for Losing You",
   artist: "artist/kelly-clarkson",

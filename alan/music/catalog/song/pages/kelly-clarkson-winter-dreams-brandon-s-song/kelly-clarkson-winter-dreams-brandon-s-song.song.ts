@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonWinterDreamsBrandonSSong = {
   id: "019ea4b1-cc25-7414-9c9d-82ac954238f6",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-winter-dreams-brandon-s-song",
   title: "Winter Dreams (Brandon's Song)",
   artist: "artist/kelly-clarkson",

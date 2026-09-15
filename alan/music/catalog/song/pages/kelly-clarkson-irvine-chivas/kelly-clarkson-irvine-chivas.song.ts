@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonIrvineChivas = {
   id: "019ea4b0-f7cc-7d1a-a426-7f654b37a55f",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-irvine-chivas",
   title: "Irvine / Chivas",
   artist: "artist/kelly-clarkson",

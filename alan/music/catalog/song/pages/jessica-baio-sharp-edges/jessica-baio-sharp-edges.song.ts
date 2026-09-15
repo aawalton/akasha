@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const jessicaBaioSharpEdges = {
   id: "019ea4f8-d9ab-779b-a007-c7821f4ec2a8",
-  type: "song",
+  type: "page-type/song",
   slug: "jessica-baio-sharp-edges",
   title: "sharp edges",
   artist: "artist/jessica-baio",

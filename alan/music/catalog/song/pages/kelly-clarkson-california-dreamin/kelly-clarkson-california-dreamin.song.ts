@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonCaliforniaDreamin = {
   id: "019ea4ad-6f26-70ce-a3c7-e8d00860edd1",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-california-dreamin",
   title: "California Dreamin’",
   artist: "artist/kelly-clarkson",

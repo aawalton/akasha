@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonYouMakeMeFeelLikeANaturalWoman = {
   id: "019ea4b0-5b32-7d94-8717-1f492d2f408d",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-you-make-me-feel-like-a-natural-woman",
   title: "(You Make Me Feel Like) A Natural Woman",
   artist: "artist/kelly-clarkson",

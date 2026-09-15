@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonDonTWasteYourTime = {
   id: "019ea4ad-779c-7a53-9f3f-f577468b7c14",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-don-t-waste-your-time",
   title: "Don't Waste Your Time",
   artist: "artist/kelly-clarkson",

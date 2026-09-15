@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonDoesHeLoveYou = {
   id: "019ea4ae-bb81-7ef6-ac95-320fbb0ee6cd",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-does-he-love-you",
   title: "Does He Love You",
   artist: "artist/kelly-clarkson",

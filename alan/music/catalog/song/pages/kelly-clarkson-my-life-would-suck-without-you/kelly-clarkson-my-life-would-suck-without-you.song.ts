@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonMyLifeWouldSuckWithoutYou = {
   id: "019ea4ad-b538-7a5c-953b-e4add41c1c5d",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-my-life-would-suck-without-you",
   title: "My Life Would Suck Without You",
   artist: "artist/kelly-clarkson",

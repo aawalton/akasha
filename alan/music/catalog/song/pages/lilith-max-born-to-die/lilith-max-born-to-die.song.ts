@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const lilithMaxBornToDie = {
   id: "019ea4f5-9576-7ef8-b454-c164b1d7188d",
-  type: "song",
+  type: "page-type/song",
   slug: "lilith-max-born-to-die",
   title: "Born to Die",
   artist: "artist/lilith-max",

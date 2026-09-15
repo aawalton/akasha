@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonMyFavoriteThings = {
   id: "019ea4b0-d4f3-7dbd-baf9-2135bef475ad",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-my-favorite-things",
   title: "My Favorite Things",
   artist: "artist/kelly-clarkson",

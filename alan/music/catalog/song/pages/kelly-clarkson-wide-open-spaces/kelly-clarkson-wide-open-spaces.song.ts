@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonWideOpenSpaces = {
   id: "019ea4b2-2b4b-7f95-bc30-c9d3f5b39e60",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-wide-open-spaces",
   title: "Wide Open Spaces",
   artist: "artist/kelly-clarkson",

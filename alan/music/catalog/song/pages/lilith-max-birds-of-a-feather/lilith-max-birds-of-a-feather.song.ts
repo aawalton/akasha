@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const lilithMaxBirdsOfAFeather = {
   id: "019ea4f5-7b25-7710-9127-8c68f77d253c",
-  type: "song",
+  type: "page-type/song",
   slug: "lilith-max-birds-of-a-feather",
   title: "Birds of a Feather",
   artist: "artist/lilith-max",

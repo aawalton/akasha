@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonTieItUp = {
   id: "019ea4c1-7fef-7ded-8a8b-5ec3229c2c1e",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-tie-it-up",
   title: "Tie It Up",
   artist: "artist/kelly-clarkson",

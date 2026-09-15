@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonStrongerWhatDoesnTKillYou = {
   id: "019ea4b2-0167-78cd-ad23-6354ed0cbd55",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-stronger-what-doesn-t-kill-you",
   title: "Stronger (What Doesn't Kill You)",
   artist: "artist/kelly-clarkson",

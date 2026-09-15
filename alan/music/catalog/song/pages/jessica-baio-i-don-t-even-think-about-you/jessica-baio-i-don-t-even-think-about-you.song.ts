@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const jessicaBaioIDonTEvenThinkAboutYou = {
   id: "019ea4f7-caea-7461-8cde-e6e16181acdf",
-  type: "song",
+  type: "page-type/song",
   slug: "jessica-baio-i-don-t-even-think-about-you",
   title: "I Don't Even Think About You",
   artist: "artist/jessica-baio",

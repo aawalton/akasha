@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarkson4Carats = {
   id: "019ea4ae-0523-7b49-9504-8e59103684a7",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-4-carats",
   title: "4 Carats",
   artist: "artist/kelly-clarkson",

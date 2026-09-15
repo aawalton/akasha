@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonCatchMyBreath = {
   id: "019ea4ae-dc91-7f1b-abe7-2e2ec2914695",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-catch-my-breath",
   title: "Catch My Breath",
   artist: "artist/kelly-clarkson",

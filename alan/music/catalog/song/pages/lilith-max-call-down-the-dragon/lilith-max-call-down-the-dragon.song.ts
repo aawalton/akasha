@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const lilithMaxCallDownTheDragon = {
   id: "019ea4f5-a1ce-7a2b-a95a-3b855db848e9",
-  type: "song",
+  type: "page-type/song",
   slug: "lilith-max-call-down-the-dragon",
   title: "Call Down the Dragon",
   artist: "artist/lilith-max",

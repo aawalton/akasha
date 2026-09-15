@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonMerryChristmasToTheOneIUsedToKnow = {
   id: "019ea4b0-e47d-7774-88b5-ce89e8f7632b",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-merry-christmas-to-the-one-i-used-to-know",
   title: "Merry Christmas (to the One I Used to Know)",
   artist: "artist/kelly-clarkson",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonTopOfTheWorld = {
   id: "019ea4b2-200e-752b-81c7-3975bcd2915c",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-top-of-the-world",
   title: "Top of the World",
   artist: "artist/kelly-clarkson",

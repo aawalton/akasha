@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const jessicaBaioWhatAreYouAfraidOf = {
   id: "019ea4f9-18eb-700f-875a-063522c51e76",
-  type: "song",
+  type: "page-type/song",
   slug: "jessica-baio-what-are-you-afraid-of",
   title: "what are you afraid of?",
   artist: "artist/jessica-baio",

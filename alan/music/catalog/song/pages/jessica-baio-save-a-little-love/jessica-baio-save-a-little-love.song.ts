@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const jessicaBaioSaveALittleLove = {
   id: "019ea4f8-c9a4-7419-8187-d2ef949ae65d",
-  type: "song",
+  type: "page-type/song",
   slug: "jessica-baio-save-a-little-love",
   title: "Save a Little Love",
   artist: "artist/jessica-baio",

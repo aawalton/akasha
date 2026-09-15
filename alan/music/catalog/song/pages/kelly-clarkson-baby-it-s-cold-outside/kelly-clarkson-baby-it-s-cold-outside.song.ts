@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonBabyItSColdOutside = {
   id: "019ea4ae-79c9-70b6-8443-ea0c551aa3a8",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-baby-it-s-cold-outside",
   title: "Baby, It’s Cold Outside",
   artist: "artist/kelly-clarkson",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonUnderneathTheTree = {
   id: "019ea4c1-8bc5-7063-bf28-01431d7e0856",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-underneath-the-tree",
   title: "Underneath the Tree",
   artist: "artist/kelly-clarkson",

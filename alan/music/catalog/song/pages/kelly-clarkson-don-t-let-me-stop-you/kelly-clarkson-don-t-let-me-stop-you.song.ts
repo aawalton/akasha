@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonDonTLetMeStopYou = {
   id: "019ea4ad-8d7b-7d23-84b5-baee8bd80db4",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-don-t-let-me-stop-you",
   title: "Don't Let Me Stop You",
   artist: "artist/kelly-clarkson",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonTheTroubleWithLoveIs = {
   id: "019ea4b2-d77c-7669-b475-adaee4ef5312",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-the-trouble-with-love-is",
   title: "The Trouble With Love Is",
   artist: "artist/kelly-clarkson",

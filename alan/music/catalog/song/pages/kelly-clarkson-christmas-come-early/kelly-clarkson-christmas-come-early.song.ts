@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonChristmasComeEarly = {
   id: "019ea4af-10fa-7f31-a20f-7856960ea643",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-christmas-come-early",
   title: "Christmas Come Early",
   artist: "artist/kelly-clarkson",

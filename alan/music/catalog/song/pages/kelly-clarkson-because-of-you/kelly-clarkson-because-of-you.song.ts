@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonBecauseOfYou = {
   id: "019ea4b0-629d-7d14-875b-8b92824532b7",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-because-of-you",
   title: "Because of You",
   artist: "artist/kelly-clarkson",

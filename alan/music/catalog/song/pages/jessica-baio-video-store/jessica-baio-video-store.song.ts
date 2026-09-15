@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const jessicaBaioVideoStore = {
   id: "019ea4f9-1004-7d32-a517-5fd9acadb634",
-  type: "song",
+  type: "page-type/song",
   slug: "jessica-baio-video-store",
   title: "video store",
   artist: "artist/jessica-baio",

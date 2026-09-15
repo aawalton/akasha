@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonTightrope = {
   id: "019ea4b2-7525-76e9-8c14-f93095f3fa9d",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-tightrope",
   title: "Tightrope",
   artist: "artist/kelly-clarkson",

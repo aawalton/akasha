@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const jessicaBaioRadioHeklerRemixExtendedMix = {
   id: "019ea4f8-9bde-729f-b21f-947cd8220898",
-  type: "song",
+  type: "page-type/song",
   slug: "jessica-baio-radio-hekler-remix-extended-mix",
   title: "Radio (Hekler remix, extended mix)",
   artist: "artist/jessica-baio",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonGrownUpChristmasList = {
   id: "019ea4af-7fbf-70de-b554-b92a8ef98667",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-grown-up-christmas-list",
   title: "Grown Up Christmas List",
   artist: "artist/kelly-clarkson",

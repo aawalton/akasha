@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const jessicaBaioRadioSteveAokiCesqeauxRemixExtendedMix = {
   id: "019ea4f8-b650-7d19-a1b9-1d1b8ceca335",
-  type: "song",
+  type: "page-type/song",
   slug: "jessica-baio-radio-steve-aoki-cesqeaux-remix-extended-mix",
   title: "Radio (Steve Aoki & Cesqeaux remix extended mix)",
   artist: "artist/jessica-baio",

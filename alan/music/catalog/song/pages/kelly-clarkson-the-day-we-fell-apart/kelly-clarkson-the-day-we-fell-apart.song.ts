@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonTheDayWeFellApart = {
   id: "019ea4b1-e24e-799b-b76d-037b9e67261b",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-the-day-we-fell-apart",
   title: "The Day We Fell Apart",
   artist: "artist/kelly-clarkson",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonSoftlyAndTenderly = {
   id: "019ea4b2-bcfc-73f7-bc12-ae88ab6e7140",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-softly-and-tenderly",
   title: "Softly and Tenderly",
   artist: "artist/kelly-clarkson",

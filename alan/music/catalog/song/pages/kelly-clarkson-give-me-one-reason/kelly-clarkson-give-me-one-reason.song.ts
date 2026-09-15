@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonGiveMeOneReason = {
   id: "019ea4ae-e5a4-703f-bbb2-3f9e23da15a9",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-give-me-one-reason",
   title: "Give Me One Reason",
   artist: "artist/kelly-clarkson",

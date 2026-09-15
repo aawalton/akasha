@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonBehindTheseHazelEyes = {
   id: "019ea4af-bfe7-78e6-ba4e-a6cd0396b392",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-behind-these-hazel-eyes",
   title: "Behind These Hazel Eyes",
   artist: "artist/kelly-clarkson",

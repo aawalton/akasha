@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonOComeOComeEmmanuel = {
   id: "019ea4b1-4f76-77f9-b8ca-c2984aab8989",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-o-come-o-come-emmanuel",
   title: "O Come, O Come, Emmanuel",
   artist: "artist/kelly-clarkson",

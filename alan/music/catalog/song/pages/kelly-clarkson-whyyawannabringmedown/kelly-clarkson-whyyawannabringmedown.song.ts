@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonWhyyawannabringmedown = {
   id: "019ea4b2-8963-7d05-b824-7a891da559d1",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-whyyawannabringmedown",
   title: "Whyyawannabringmedown",
   artist: "artist/kelly-clarkson",

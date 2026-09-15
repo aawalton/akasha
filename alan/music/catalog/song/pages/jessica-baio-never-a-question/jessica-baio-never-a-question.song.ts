@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const jessicaBaioNeverAQuestion = {
   id: "019ea4f8-49cd-750d-b12d-281a44ffe2a6",
-  type: "song",
+  type: "page-type/song",
   slug: "jessica-baio-never-a-question",
   title: "never a question",
   artist: "artist/jessica-baio",

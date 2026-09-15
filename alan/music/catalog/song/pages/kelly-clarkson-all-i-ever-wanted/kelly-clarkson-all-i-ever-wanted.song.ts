@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonAllIEverWanted = {
   id: "019ea4b0-90b4-71a3-a333-6951673bf2b0",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-all-i-ever-wanted",
   title: "All I Ever Wanted",
   artist: "artist/kelly-clarkson",

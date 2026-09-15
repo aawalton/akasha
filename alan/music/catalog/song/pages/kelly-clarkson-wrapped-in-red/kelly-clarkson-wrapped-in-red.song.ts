@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const kellyClarksonWrappedInRed = {
   id: "019ea4c1-58f8-7297-b214-cc04b2e9e61d",
-  type: "song",
+  type: "page-type/song",
   slug: "kelly-clarkson-wrapped-in-red",
   title: "Wrapped in Red",
   artist: "artist/kelly-clarkson",
