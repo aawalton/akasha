@@ -11,7 +11,7 @@ export const veraGraphCleanup = {
       statement:
         "Every closure over the graph's edges is worked out in the graph rather than by each caller.",
       workingMemory:
-        "Every closure goes through `closureOf` in `graph-predicate-closure`, handed a `graph-predicate` page saying which edge kinds and which way. `graph-asking` answers one edge and closes nothing. Typecheck, deploy, the stylesheet globber, the gateway stamp and `answer-cost` name no edge kind or direction of their own. The only import read outside the graph now is `page-reference-filing.module.code.ts:99`, which writes the edge the graph reads the other way.",
+        "Not met. Six closures outside the graph work out an import edge for themselves: `no-import-cycle` (three, on its own `reachedIn`), `extension-host-reaches-no-bun-code`, `no-refused-syntax`'s `requiringIn`, `supervisor-file-version`'s regex scan, `dockerfile-imports`, and `remove-file-page`'s `importersFirst`. Around fourteen more close over `extends` and seven over `parts`. Both are the `relation` edge, which the graph answers inward only, and no predicate can say which property to follow.\n",
     },
     {
       statement: "Every closure the graph answers is correct.",
