@@ -1,0 +1,7 @@
+{"body":"the audit at b601e0d89e5790bc1d7c5ceca5d2255613bca69b found 2 checks newly refusing.\n`index-is-level-with-the-pages` refused 67735 times:\n  book/pages/all-about-alan/sections/notes/axiomatic-ethics/value-quantities.book-section.carried — the index entry for this file is named by a page and missing from the index\n  book/pages/all-about-alan/sections/notes/ballroom-derived-body-control.book-section.carried — the index entry for this file is named by a page and missing from the index\n  book/pages/all-about-alan/sections/notes/banking.book-section.carried — the index entry for this file is named by a page and missing from the index\n  book/pages/all-about-alan/sections/notes/bedrock.book-section.carried — the index entry for this file is named by a page and missing from the index\n  book/pages/all-about-alan/sections/notes/being-known-cost.book-section.carried — the index entry for this file is named by a page and missing from the index\n`tests-pass` refused 1 time:\n  check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.audit.test.ts — Measured between 2026-09-15T20:37:11.822Z and 2026-09-15T20:42:49.177Z. 5 test files failed: (10899 lines more)\nwhat each of them answered is on the newest row of the audit log beside that check's page.\n"}
+{"from":"audit-running"}
+{"id":"01a0a6cf-6d96-7000-9228-e6bbab12326b"}
+{"slug":"message-e6bbab12326b"}
+{"to":"seat/thea"}
+{"type":"page-type/message"}
+{"warrant":"announce"}
