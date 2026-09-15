@@ -7,8 +7,11 @@ import { readingKept } from "akasha/alan/harness/readout/modules/reading/readout
 import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const TAKEN = new Date("2026-08-31T12:00:00.000Z")
+
+const BODY = 'export const it = { type: "page-type/readout" }\n'
 
 const READOUT = "readout"
 
@@ -24,6 +27,7 @@ function rootFor(): string {
   const root = scratch.rootFor("monarch-reading-")
   nothingFiled(root)
   listedFiled(root, READOUT, READOUT_SLUG, [{ path: READOUT_PAGE, id: READOUT_ID }])
+  writing(root, READOUT_PAGE, BODY)
   return root
 }
 
