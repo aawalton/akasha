@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chloeTheZombieAMonsterEvolutionLitrpg0172172ImpulseBuying = {
   id: "01a06731-ad7f-7000-8540-dd6a1bc81431",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0172-172-impulse-buying",
   title: "172: Impulse Buying",
   story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",

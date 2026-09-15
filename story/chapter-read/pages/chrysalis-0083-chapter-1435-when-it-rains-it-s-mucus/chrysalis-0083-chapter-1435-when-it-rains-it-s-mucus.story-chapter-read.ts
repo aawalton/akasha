@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0083Chapter1435WhenItRainsItSMucus = {
   id: "01a0672c-eb5d-7001-9f70-55cd6c482fc4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0083-chapter-1435-when-it-rains-it-s-mucus",
   title: "Chapter 1435 - When it Rains, It’s Mucus",
   story: "story-read/chrysalis",

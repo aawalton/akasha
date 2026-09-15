@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0151Chapter1503AbsenceMakesTheHeartGrowFonder = {
   id: "01a0672c-eb60-700c-aa4e-329862c2f47e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0151-chapter-1503-absence-makes-the-heart-grow-fonder",
   title: "Chapter 1503 - Absence Makes the Heart Grow Fonder",
   story: "story-read/chrysalis",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0111Chapter1463TheRoyalWeInWuffer = {
   id: "01a0672c-eb5e-700b-ad25-4efcec11f86d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0111-chapter-1463-the-royal-we-in-wuffer",
   title: "Chapter 1463 - The Royal We in Wuffer",
   story: "story-read/chrysalis",

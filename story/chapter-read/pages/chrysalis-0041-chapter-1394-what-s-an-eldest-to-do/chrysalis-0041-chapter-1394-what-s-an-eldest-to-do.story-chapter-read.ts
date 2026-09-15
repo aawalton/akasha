@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0041Chapter1394WhatSAnEldestToDo = {
   id: "01a0672c-eb5b-700f-b5ba-140f4e989ebc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0041-chapter-1394-what-s-an-eldest-to-do",
   title: "Chapter 1394 - What’s An Eldest to Do?",
   story: "story-read/chrysalis",

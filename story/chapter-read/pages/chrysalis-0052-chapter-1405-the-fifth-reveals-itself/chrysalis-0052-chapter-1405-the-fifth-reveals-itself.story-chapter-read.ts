@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0052Chapter1405TheFifthRevealsItself = {
   id: "01a0672c-eb5b-701a-acd9-ef8a3144dbfc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0052-chapter-1405-the-fifth-reveals-itself",
   title: "Chapter 1405 - The Fifth Reveals Itself",
   story: "story-read/chrysalis",

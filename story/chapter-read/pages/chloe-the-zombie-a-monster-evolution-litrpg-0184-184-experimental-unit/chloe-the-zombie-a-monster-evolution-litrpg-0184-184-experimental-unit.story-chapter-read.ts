@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chloeTheZombieAMonsterEvolutionLitrpg0184184ExperimentalUnit = {
   id: "01a06731-ad7f-700c-99b1-7646e22f6cda",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0184-184-experimental-unit",
   title: "184: Experimental Unit",
   story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",

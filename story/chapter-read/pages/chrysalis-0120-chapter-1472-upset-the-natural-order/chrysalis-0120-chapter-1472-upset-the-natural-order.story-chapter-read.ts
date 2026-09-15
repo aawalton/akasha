@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0120Chapter1472UpsetTheNaturalOrder = {
   id: "01a0672c-eb5f-7006-8e38-b6b7df37e3ed",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0120-chapter-1472-upset-the-natural-order",
   title: "Chapter 1472 - Upset the Natural Order",
   story: "story-read/chrysalis",

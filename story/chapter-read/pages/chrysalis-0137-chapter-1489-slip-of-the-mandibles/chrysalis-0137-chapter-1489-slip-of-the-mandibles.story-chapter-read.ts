@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0137Chapter1489SlipOfTheMandibles = {
   id: "01a0672c-eb5f-7017-8b61-42794967ac9f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0137-chapter-1489-slip-of-the-mandibles",
   title: "Chapter 1489 - Slip of the Mandibles",
   story: "story-read/chrysalis",

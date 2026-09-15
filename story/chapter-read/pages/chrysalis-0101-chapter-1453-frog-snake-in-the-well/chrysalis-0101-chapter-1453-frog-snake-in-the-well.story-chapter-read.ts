@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0101Chapter1453FrogSnakeInTheWell = {
   id: "01a0672c-eb5e-7001-b8bb-0bc07932e6fe",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0101-chapter-1453-frog-snake-in-the-well",
   title: "Chapter 1453 - Frog (snake) in the Well",
   story: "story-read/chrysalis",

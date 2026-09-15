@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0060Chapter1412TheEggsThatWereLeftBehind = {
   id: "01a0672c-eb5c-7005-885c-7d9250f7c609",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0060-chapter-1412-the-eggs-that-were-left-behind",
   title: "Chapter 1412 - The Eggs that Were Left Behind",
   story: "story-read/chrysalis",

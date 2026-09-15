@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0104Chapter1456MorreliaAndTheLegion = {
   id: "01a0672c-eb5e-7004-acfd-db80f2d7f133",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0104-chapter-1456-morrelia-and-the-legion",
   title: "Chapter 1456 - Morrelia and the Legion",
   story: "story-read/chrysalis",

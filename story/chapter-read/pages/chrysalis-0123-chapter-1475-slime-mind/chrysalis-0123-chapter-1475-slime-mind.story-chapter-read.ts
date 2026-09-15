@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0123Chapter1475SlimeMind = {
   id: "01a0672c-eb5f-7009-8d69-4ddb6a2fafee",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0123-chapter-1475-slime-mind",
   title: "Chapter 1475 - Slime Mind",
   story: "story-read/chrysalis",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0150Chapter1502ADifferentSortOfTemplar = {
   id: "01a0672c-eb60-700b-83f4-91f2cde6fb91",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0150-chapter-1502-a-different-sort-of-templar",
   title: "Chapter 1502 - A Different Sort of Templar",
   story: "story-read/chrysalis",
