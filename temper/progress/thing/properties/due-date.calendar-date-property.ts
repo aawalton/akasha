@@ -2,7 +2,7 @@ import type { CalendarDateProperty } from "akasha/page/calendar-date-property/ca
 
 export const dueDate = {
   id: "01a0793a-2730-7efc-b4a0-869a6e3af33f",
-  type: "calendar-date-property",
+  type: "page-type/calendar-date-property",
   slug: "due-date",
   propertySlug: "due-date",
   definition: "the day a task is next wanted",

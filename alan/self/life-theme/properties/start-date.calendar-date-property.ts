@@ -2,7 +2,7 @@ import type { CalendarDateProperty } from "akasha/page/calendar-date-property/ca
 
 export const startDate = {
   id: "01a06575-c2c0-7a7a-9050-6651320c7596",
-  type: "calendar-date-property",
+  type: "page-type/calendar-date-property",
   slug: "start-date",
   propertySlug: "start-date",
   definition: "the day a life theme was taken up",

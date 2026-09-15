@@ -2,7 +2,7 @@ import type { CalendarDateProperty } from "akasha/page/calendar-date-property/ca
 
 export const lastAirDate = {
   id: "01a06599-ee09-700d-9b99-fd8bc2af90cc",
-  type: "calendar-date-property",
+  type: "page-type/calendar-date-property",
   slug: "last-air-date",
   propertySlug: "last-air-date",
   definition: "the day a show's last episode aired",
