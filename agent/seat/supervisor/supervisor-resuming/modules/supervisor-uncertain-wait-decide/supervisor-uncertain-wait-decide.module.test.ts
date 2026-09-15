@@ -3,12 +3,11 @@ import {
   decideUncertainBlockBatch,
   decideUncertainBlockEscalation,
   INITIAL_UNCERTAIN_BLOCK_STATE,
-  UNCERTAIN_BLOCK_ESCALATE_MS,
 } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts"
 
 const NOW = 4_000_000
 
-const BOUND = UNCERTAIN_BLOCK_ESCALATE_MS
+const BOUND = 30 * 60_000
 
 test("a seat that is not blocked forgets how long it was blocked for", () => {
   const said = decideUncertainBlockEscalation(
