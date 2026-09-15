@@ -4,7 +4,7 @@ export const trackShape = {
   id: "01a069d7-ba37-75fb-8dbd-6f5be522dda9",
   type: "page-type/module",
   slug: "track-shape",
-  definition: "the names a day page and its two entry sidecars are filed under",
+  definition: "the page type key a day page is filed under",
   code: "ts",
   decisions: [
     {
@@ -13,11 +13,11 @@ export const trackShape = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day's two jsonl sidecars become entry properties beside the day page.",
+      statement: "A day's page type key names the page type this module states.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A day's page type key names the page type this module states.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here names what a day keeps beside its page.",
     },
   ],
 } as const satisfies Module
