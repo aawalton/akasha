@@ -3,7 +3,6 @@ import {
   refuseJsonPatch,
 } from "akasha/page/access/modules/file-write/file-write.module.code.ts"
 import {
-  enforcePipelineScope,
   rejectReadOnlyKeys,
   rejectWholesaleTagsSet,
   requireFileBacked,
@@ -33,7 +32,6 @@ export type PatchPageArgs<T extends Record<string, unknown> = Record<string, Jso
   set: PagePropertiesInput<T>
   patch?: JsonPatch
   select?: PageSelect
-  pipelineScope?: number | string
 }
 
 async function callPagePatch<T extends Record<string, unknown> = Record<string, Json>>(
@@ -42,10 +40,6 @@ async function callPagePatch<T extends Record<string, unknown> = Record<string, 
 ): Promise<readonly Page[]> {
   rejectReadOnlyKeys("patchPage", args.set)
   rejectWholesaleTagsSet("patchPage", args.set)
-  enforcePipelineScope("patchPage", args.pipelineScope, {
-    pageTypeSlug: args.pageTypeSlug,
-    ...args.set,
-  })
   await requireFileBacked("patchPage", args.pageTypeSlug)
   refuseJsonPatch("patchPage", args.pageTypeSlug, args.patch)
   if (writesOverServer()) {
@@ -89,7 +83,6 @@ export type PatchPageByIdArgs<T extends Record<string, unknown> = Record<string,
   set: PagePropertiesInput<T>
   patch?: JsonPatch
   select?: PageSelect
-  pipelineScope?: number | string
 }
 
 export async function patchPageById<T extends Record<string, unknown> = Record<string, Json>>(
@@ -97,10 +90,6 @@ export async function patchPageById<T extends Record<string, unknown> = Record<s
 ): Promise<Page | null> {
   rejectReadOnlyKeys("patchPageById", args.set)
   rejectWholesaleTagsSet("patchPageById", args.set)
-  enforcePipelineScope("patchPageById", args.pipelineScope, {
-    pageTypeSlug: args.pageTypeSlug,
-    ...args.set,
-  })
   await requireFileBacked("patchPageById", args.pageTypeSlug)
   refuseJsonPatch("patchPageById", args.pageTypeSlug, args.patch)
   if (writesOverServer()) {

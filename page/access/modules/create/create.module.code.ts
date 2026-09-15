@@ -3,7 +3,6 @@ import {
   upsertFilePage,
 } from "akasha/page/access/modules/file-write/file-write.module.code.ts"
 import {
-  enforcePipelineScope,
   rejectReadOnlyKeys,
   requireFileBacked,
 } from "akasha/page/access/modules/guards/guards.module.code.ts"
@@ -27,7 +26,6 @@ export type CreatePageArgs<T extends Record<string, unknown> = Record<string, Js
   pageTypeSlug: string
   properties: PagePropertiesInput<T>
   select?: PageSelect
-  pipelineScope?: number | string
   id?: string
 }
 
@@ -35,10 +33,6 @@ export async function createPage<T extends Record<string, unknown> = Record<stri
   args: CreatePageArgs<T>
 ): Promise<Page> {
   rejectReadOnlyKeys("createPage", args.properties)
-  enforcePipelineScope("createPage", args.pipelineScope, {
-    pageTypeSlug: args.pageTypeSlug,
-    ...args.properties,
-  })
   await requireFileBacked("createPage", args.pageTypeSlug)
   if (writesOverServer()) return asPage(await overServer("createPage", args))
   return createFilePage({
@@ -54,7 +48,6 @@ export type CreatePageIfAbsentArgs<T extends Record<string, unknown> = Record<st
   where: PageWhere
   properties: PagePropertiesInput<T>
   select?: PageSelect
-  pipelineScope?: number | string
 }
 
 export type CreatePageIfAbsentResult = {
@@ -68,10 +61,6 @@ export async function createPageIfAbsent<T extends Record<string, unknown> = Rec
   args: CreatePageIfAbsentArgs<T>
 ): Promise<CreatePageIfAbsentResult> {
   rejectReadOnlyKeys("createPageIfAbsent", args.properties)
-  enforcePipelineScope("createPageIfAbsent", args.pipelineScope, {
-    pageTypeSlug: args.pageTypeSlug,
-    ...args.properties,
-  })
   await requireFileBacked("createPageIfAbsent", args.pageTypeSlug)
   if (writesOverServer()) {
     const over = CREATED_OVER_SERVER.parse(await overServer("createPageIfAbsent", args))

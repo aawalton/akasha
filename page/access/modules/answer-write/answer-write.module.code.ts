@@ -79,7 +79,6 @@ const PAGE_WHERE = z.array(PAGE_CONDITION)
 const PAGE_PROPERTIES = z.record(z.string(), JsonSchema)
 const PAGE_BODIES = z.record(z.string(), z.string()).optional()
 const PAGE_SELECT = z.array(z.string()).optional()
-const PIPELINE_SCOPE = z.union([z.number(), z.string()]).optional()
 const PAGE_TYPE_SLUG = z.string().min(1)
 
 const JSON_PATCH = z.array(
@@ -94,7 +93,6 @@ const CREATE_PAGE_ARGS = z.object({
   pageTypeSlug: PAGE_TYPE_SLUG,
   properties: PAGE_PROPERTIES,
   select: PAGE_SELECT,
-  pipelineScope: PIPELINE_SCOPE,
   id: z.string().optional(),
 })
 
@@ -103,7 +101,6 @@ const CREATE_PAGE_IF_ABSENT_ARGS = z.object({
   where: PAGE_WHERE,
   properties: PAGE_PROPERTIES,
   select: PAGE_SELECT,
-  pipelineScope: PIPELINE_SCOPE,
 })
 
 const PATCH_PAGE_ARGS = z.object({
@@ -112,7 +109,6 @@ const PATCH_PAGE_ARGS = z.object({
   set: PAGE_PROPERTIES,
   patch: JSON_PATCH.optional(),
   select: PAGE_SELECT,
-  pipelineScope: PIPELINE_SCOPE,
 })
 
 const UPSERT_PAGE_ARGS = z.object({
@@ -121,14 +117,12 @@ const UPSERT_PAGE_ARGS = z.object({
   set: PAGE_PROPERTIES,
   bodies: PAGE_BODIES,
   select: PAGE_SELECT,
-  pipelineScope: PIPELINE_SCOPE,
 })
 
 const UPSERT_PAGES_ARGS = z.object({
   pageTypeSlug: PAGE_TYPE_SLUG,
   items: z.array(z.object({ where: PAGE_WHERE, set: PAGE_PROPERTIES })),
   select: PAGE_SELECT,
-  pipelineScope: PIPELINE_SCOPE,
 })
 
 const PATCH_PAGE_BY_ID_ARGS = z.object({
@@ -137,7 +131,6 @@ const PATCH_PAGE_BY_ID_ARGS = z.object({
   set: PAGE_PROPERTIES,
   patch: JSON_PATCH.optional(),
   select: PAGE_SELECT,
-  pipelineScope: PIPELINE_SCOPE,
 })
 
 const DELETE_PAGE_BY_ID_ARGS = z.object({
@@ -157,7 +150,6 @@ const BULK_UPSERT_PAGES_ARGS = z.object({
   uniqueAttributeKey: z.string().min(1),
   items: z.array(PAGE_PROPERTIES),
   select: PAGE_SELECT,
-  pipelineScope: PIPELINE_SCOPE,
 })
 
 const DELETE_PAGE_ARGS = z.object({

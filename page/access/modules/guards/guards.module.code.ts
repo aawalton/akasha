@@ -1,16 +1,6 @@
 import { isFileBacked } from "akasha/page/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
 import { isReadOnlyKey } from "akasha/page/access/modules/universal-keys/universal-keys.module.code.ts"
 
-type DefinitionTierSlug = "page-type" | "page-property-definition"
-
-const DEFINITION_TIER_SLUGS: readonly string[] = ["page-type", "page-property-definition"]
-
-function isDefinitionTierSlug(slug: string | undefined): slug is DefinitionTierSlug {
-  return slug !== undefined && DEFINITION_TIER_SLUGS.includes(slug)
-}
-
-type PipelineSeqLike = number | string
-
 class PageTypeNotFileBacked extends Error {
   readonly slug: string
   constructor(op: string, slug: string) {
@@ -57,47 +47,4 @@ class WholesaleTagsSetError extends Error {
 
 export function rejectWholesaleTagsSet(op: string, set: Record<string, unknown>): undefined {
   if (TAGS_KEY in set) throw new WholesaleTagsSetError(op)
-}
-
-class ScopePolicyError extends Error {
-  readonly allowedPipelineSeq: PipelineSeqLike
-  readonly offeredPipelineSeq: PipelineSeqLike | undefined
-  constructor(op: string, allowed: PipelineSeqLike, offered: PipelineSeqLike | undefined) {
-    const offeredText = offered === undefined ? "<missing>" : String(offered)
-    super(
-      `${op}: pipeline scope violation — worker is scoped to pipelineSeq=${String(allowed)} but the write targets pipelineSeq=${offeredText}`
-    )
-    this.name = "ScopePolicyError"
-    this.allowedPipelineSeq = allowed
-    this.offeredPipelineSeq = offered
-  }
-}
-
-export type EnforcePipelineScopeProperties = {
-  pageTypeSlug?: string
-  pipelineSeq?: PipelineSeqLike
-  seq?: PipelineSeqLike
-  [key: string]: unknown
-}
-
-export function enforcePipelineScope(
-  op: string,
-  allowedPipelineSeq: PipelineSeqLike | undefined,
-  properties: EnforcePipelineScopeProperties
-): undefined {
-  if (allowedPipelineSeq === undefined) return
-  if (isDefinitionTierSlug(properties.pageTypeSlug)) return
-  const allowedKey = String(allowedPipelineSeq)
-  if (properties.pipelineSeq !== undefined && String(properties.pipelineSeq) === allowedKey) {
-    return
-  }
-  if (
-    properties.pageTypeSlug === "pipeline" &&
-    properties.seq !== undefined &&
-    String(properties.seq) === allowedKey
-  ) {
-    return
-  }
-  const offered = properties.pipelineSeq ?? properties.seq
-  throw new ScopePolicyError(op, allowedPipelineSeq, offered)
 }
