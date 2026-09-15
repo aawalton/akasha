@@ -8,11 +8,11 @@ export const pageHref = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page is written as a link carrying that address and that page's title.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page with no id is written as no link rather than as a link to nowhere.",
     },
   ],

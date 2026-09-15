@@ -9,15 +9,15 @@ export const voiceSpec = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A voice cloned from a real speaker runs in lane R and no other lane.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A designed voice has the instruction the designed voice was designed by.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every path a spec names is relative to the repo.",
     },
   ],

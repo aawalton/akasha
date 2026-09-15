@@ -9,15 +9,15 @@ export const greenDayFraction = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A read of green-day points off a persona whose page states no figure is refused.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Green-day points at or below zero are refused.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No substitute is scored in place of the green-day points a persona omits.",
     },
   ],

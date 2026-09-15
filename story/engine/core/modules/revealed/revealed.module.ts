@@ -9,11 +9,11 @@ export const revealed = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key the code does not name can never be revealed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Narrowing a sheet is checked against the schema again before the narrowing is handed back.",
     },

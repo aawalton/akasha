@@ -9,11 +9,11 @@ export const drawingsFound = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A drawing's file is named for the page it sits beside and the group it is in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The page type a drawing is for is the part of that name before the first dot.",
     },
   ],

@@ -9,17 +9,17 @@ export const viewDataOfPage = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A narrow comparison other than `in` and `not-in` is given the first value of that narrow's list.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A narrow key holding a dot is spelled one segment at a time, and its dots remain.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The page type a view names reads back as the slug alone.",
     },
   ],

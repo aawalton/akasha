@@ -8,7 +8,7 @@ export const pageCardPerf = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The readings put on the window are read by a console rather than by code.",
     },
   ],

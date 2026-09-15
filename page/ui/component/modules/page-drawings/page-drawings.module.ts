@@ -8,12 +8,12 @@ export const pageDrawings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A drawing is found by the page type it sits beside rather than by a registration.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bundler reads every drawing in the tree before the code runs.",
     },
   ],

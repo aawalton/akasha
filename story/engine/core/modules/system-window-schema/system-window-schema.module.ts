@@ -8,7 +8,7 @@ export const systemWindowSchema = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A window stored as a quest offer reads back as a quest added.",
     },
   ],

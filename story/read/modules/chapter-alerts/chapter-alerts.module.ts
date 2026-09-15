@@ -8,19 +8,19 @@ export const chapterAlerts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A story the person does not follow sounds nothing and asks for no permission.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The first frontier seen is recorded rather than raised as a new chapter.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An alert raises only where the newest chapter differs from the one last seen.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The audio waits for a pointer or a key, because a browser starts it suspended.",
     },
   ],

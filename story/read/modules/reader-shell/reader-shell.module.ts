@@ -9,19 +9,19 @@ export const readerShell = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The chapters drawn are the chapters naming this story and no other.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing is drawn until the chapters of the story have arrived.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A story with no chapter of its own draws nothing at all.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No chapter's prose is fetched here, so the shell costs one row a chapter.",
     },
   ],

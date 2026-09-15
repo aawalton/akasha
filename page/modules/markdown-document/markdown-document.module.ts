@@ -8,15 +8,15 @@ export const markdownDocument = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every part of a parsed document has the span that part was read from.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A part that could not be read is carried as a span rather than dropped.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here parses or judges anything.",
     },
   ],

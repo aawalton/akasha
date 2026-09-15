@@ -8,11 +8,11 @@ export const personaTargets = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No persona page states a rule by which a message starts a seat.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The empty list is the answer the persona pages give rather than a reading that failed.",
     },

@@ -8,20 +8,20 @@ export const codeRoot = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A checkout named in `CODE_ROOT` answers before akasha's own root.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A `CODE_ROOT` naming a directory absent from disk is disregarded rather than honoured.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Walking a tree that is not there reports every check over that tree clean.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "The `code` repository is now part of akasha.",
     },
   ],

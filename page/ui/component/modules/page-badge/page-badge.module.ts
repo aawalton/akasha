@@ -8,7 +8,7 @@ export const pageBadge = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page no page type above it draws takes the chip beside page.",
     },
   ],

@@ -9,7 +9,7 @@ export const storePageAsking = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here has an answer for a later question.",
     },
   ],

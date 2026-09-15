@@ -8,7 +8,7 @@ export const multiSelectProperty = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The options a property declares are read here rather than by each reader.",
     },
   ],

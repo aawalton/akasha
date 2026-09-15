@@ -8,20 +8,20 @@ export const pageCard = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A card whose page type has a completion draws a circle where its icon goes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The keys the circle reads and writes come from the page type rather than the card.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type with no completion draws its icon and no circle.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page no page type above it draws takes the card beside page.",
     },
   ],

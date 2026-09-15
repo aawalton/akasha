@@ -8,7 +8,7 @@ export const pageWithProperties = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The page in a list with a given id is found here rather than by each reader.",
     },
   ],

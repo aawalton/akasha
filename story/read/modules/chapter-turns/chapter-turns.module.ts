@@ -9,24 +9,24 @@ export const chapterTurns = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chapter stating no position sorts after every chapter that states one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chapter counts as read where that chapter states the moment it was completed.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement:
         "A turn carries no prose, because a chapter's prose is read on that chapter's page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The span holds the first chapter that has not been read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A story with every chapter read has its last chapter for a frontier.",
     },
   ],

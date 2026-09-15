@@ -8,11 +8,11 @@ export const useDescendantPages = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The page type is asked once, and each page beneath it comes back once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A gather that goes wrong carries its reason rather than an empty list of pages.",
     },
   ],

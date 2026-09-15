@@ -9,20 +9,20 @@ export const formatReaching = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A format's judgement is loaded from the code file beside the format's own page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The code is loaded from where its body is on disk rather than from where a change leaves that code.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The judgement loaded is the value the slug's export name answers to.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each format is loaded once and held.",
     },
   ],

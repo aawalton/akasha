@@ -8,19 +8,19 @@ export const fileBacking = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The roster names the page types kept in files and no other page type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type the roster does not name is answered unknown rather than database.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A road to a page type's pages is never guessed.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The backing of a page type the roster leaves out is read from somewhere.",
     },
   ],

@@ -8,7 +8,7 @@ export const stateSchema = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "State keeps the keys the schema does not name.",
     },
   ],

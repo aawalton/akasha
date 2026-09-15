@@ -8,7 +8,7 @@ export const markdownPageAt = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A set of roots may name a repository the set of roots is under as its target.",
     },
   ],

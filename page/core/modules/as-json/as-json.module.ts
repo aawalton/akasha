@@ -8,11 +8,11 @@ export const asJson = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing here reads the value this module renames.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller wanting the value read names `is-json` instead.",
     },
   ],

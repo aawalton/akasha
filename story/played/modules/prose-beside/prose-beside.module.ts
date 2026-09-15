@@ -8,19 +8,19 @@ export const proseBeside = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The prose read is the prose of the rows handed here and of no other row.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A prose property answering its own ending rather than a body reads as unread.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row whose prose went unread is left out rather than given empty prose.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A read for one story's rows is dropped where the rows asked for change.",
     },
   ],

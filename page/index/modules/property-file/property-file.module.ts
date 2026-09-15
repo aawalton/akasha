@@ -8,17 +8,17 @@ export const propertyFile = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A property a page type files under a name of its own is that name beside the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Any other property is under the name the page's own value states beside the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type holding that property in no file is refused rather than answered.",
     },
   ],

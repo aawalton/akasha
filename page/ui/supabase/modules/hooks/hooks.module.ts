@@ -9,11 +9,11 @@ export const hooks = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The views a nav item holds are asked for by that nav item's address.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A nav item whose slug went unread narrows the views to none.",
     },
   ],

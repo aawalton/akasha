@@ -8,15 +8,15 @@ export const playedPanels = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A panel is drawn where the game beside the story asks for that panel.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A panel drawn over a state that went unread draws its own empty reading.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pools a hud bars are the pools the game's display names and no other.",
     },
   ],

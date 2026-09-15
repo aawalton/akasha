@@ -9,15 +9,15 @@ export const viewMatch = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A condition on a path holds where some value that path reaches holds it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path reaching no value is weighed as a key the row carries nothing under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A condition on a plain key is weighed against the one value that key holds.",
     },
   ],

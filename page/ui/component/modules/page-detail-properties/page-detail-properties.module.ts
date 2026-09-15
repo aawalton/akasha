@@ -7,11 +7,17 @@ export const pageDetailProperties = {
   definition: "the property rows shown down the side of one page",
   code: "tsx",
   invariants: [
-    { invariantKind: "departure", statement: "The rows are drawn in the order their titles read." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
+      statement: "The rows are drawn in the order their titles read.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "The order a page type declares its properties in is not read here.",
     },
-    { invariantKind: "absence", statement: "No row here is dragged into an order of its own." },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "No row here is dragged into an order of its own.",
+    },
   ],
 } as const satisfies Module

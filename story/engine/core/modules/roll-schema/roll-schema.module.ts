@@ -8,11 +8,11 @@ export const rollSchema = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A roll's record has the seed the roll was thrown from.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Kept dice are recorded beside the ones that fell away.",
     },
   ],

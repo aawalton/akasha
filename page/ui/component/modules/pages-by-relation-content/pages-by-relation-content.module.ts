@@ -8,7 +8,7 @@ export const pagesByRelationContent = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A listing whose filter went unasked says so in place of the pages.",
     },
   ],

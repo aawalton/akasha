@@ -8,20 +8,20 @@ export const consolidationMigrations = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A migration runs only for the addon the migration names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The saved variables of an absorbed addon are appended to the absorbing addon's.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A migration for an addon that only changed name renames the saved variables in place.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Every migration here answers to the type the module applying a migration declares.",
     },

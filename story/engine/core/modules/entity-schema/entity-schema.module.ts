@@ -8,7 +8,7 @@ export const entitySchema = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sheet keeps the keys the schema does not name.",
     },
   ],

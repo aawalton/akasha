@@ -9,11 +9,11 @@ export const auditRecordSchema = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A record has the hash of the record before that record.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The whole rulebook in force is stored inside a resolution record.",
     },
   ],

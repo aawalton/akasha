@@ -8,7 +8,7 @@ export const conditionExpr = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A condition on a path is written as no expression and is weighed over the rows.",
     },
   ],

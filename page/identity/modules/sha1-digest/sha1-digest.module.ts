@@ -9,16 +9,16 @@ export const sha1Digest = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A digest is byte-identical to the digest `node:crypto` answers for the same bytes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A digest is answered rather than promised.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches a crypto library the platform has.",
     },
   ],

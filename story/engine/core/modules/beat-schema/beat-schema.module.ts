@@ -9,7 +9,7 @@ export const beatSchema = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A beat written to the log has the turn the beat belongs to.",
     },
   ],

@@ -8,12 +8,12 @@ export const payloadTranslator = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A page kept as a file carries a sequence number only where its page type numbers its pages.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row stating no sequence number is read rather than throwing its batch away.",
     },
   ],

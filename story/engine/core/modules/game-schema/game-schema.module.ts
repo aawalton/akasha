@@ -8,11 +8,11 @@ export const gameSchema = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An awen game is framed edge to edge and in focus.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sheet panel may only ask for reveal keys the code names.",
     },
   ],

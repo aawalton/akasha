@@ -8,7 +8,7 @@ export const pathSelect = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A property value read as a path of segments is read here rather than by each reader.",
     },

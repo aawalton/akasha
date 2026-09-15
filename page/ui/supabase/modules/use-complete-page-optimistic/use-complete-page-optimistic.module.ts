@@ -9,11 +9,11 @@ export const useCompletePageOptimistic = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The stamp and the next due date land in one commit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Taking a completion back clears the key that said the task was done.",
     },
   ],

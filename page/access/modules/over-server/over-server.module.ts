@@ -8,15 +8,15 @@ export const overServer = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A write sent to the server runs the exported function the store would have run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The guards inside that function judge a write from a browser unchanged.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The roster a guard reads comes from the route the app answers page types on.",
     },
   ],

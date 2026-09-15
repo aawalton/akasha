@@ -10,7 +10,7 @@ export const turnSchema = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A turn counts as unpublished only while the turn is a draft.",
     },
   ],

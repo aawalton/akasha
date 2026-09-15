@@ -9,11 +9,11 @@ export const gameEngine = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An engine name the code does not know draws the plain screen.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An awen game with no external id draws the plain screen.",
     },
   ],

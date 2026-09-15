@@ -8,11 +8,11 @@ export const jennyCapacitorBridge = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A plugin is read back only where the shell has every call this page states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A plugin the shell does not have is read back as null rather than thrown over.",
     },
   ],

@@ -8,7 +8,7 @@ export const questSchema = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quest stored as offered reads back as active.",
     },
   ],

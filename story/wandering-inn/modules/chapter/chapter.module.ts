@@ -8,19 +8,19 @@ export const chapter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A title the page did not give falls back to the title the contents listed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chapter whose title leaves no slug behind is slugged `untitled`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The day a chapter was published is read off the chapter's URL.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The links to the chapters either side are no part of a chapter's prose.",
     },
   ],

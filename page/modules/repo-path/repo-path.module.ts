@@ -8,12 +8,12 @@ export const repoPath = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A path is spelled out as far as anything exists on disk and left alone after that point.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path that cannot be spelled out at all is answered as that path was given.",
     },
   ],

@@ -8,11 +8,11 @@ export const jennyPushRegistrationSync = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A permission refused once is not asked for again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A browser outside the native shell registers nothing.",
     },
   ],

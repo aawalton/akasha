@@ -9,7 +9,7 @@ export const propertyRow = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property no page type above it draws takes the row beside page-property.",
     },
   ],

@@ -8,11 +8,11 @@ export const randomId = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No page takes its identity from here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value from here is unpredictable rather than ordered by time.",
     },
   ],

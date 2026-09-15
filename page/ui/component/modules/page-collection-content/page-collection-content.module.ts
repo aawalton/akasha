@@ -8,11 +8,11 @@ export const pageCollectionContent = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What a caller hands in is drawn between the header and the child collection.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller handing nothing in draws the header and the child collection alone.",
     },
   ],

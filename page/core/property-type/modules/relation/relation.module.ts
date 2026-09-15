@@ -8,7 +8,7 @@ export const relation = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The page type a relation points at is read here rather than by each reader.",
     },
   ],

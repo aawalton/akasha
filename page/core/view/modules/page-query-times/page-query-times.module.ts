@@ -7,17 +7,20 @@ export const pageQueryTimes = {
   definition: "the named moments a page query can resolve to an actual time",
   code: "ts",
   invariants: [
-    { invariantKind: "departure", statement: "Now is the moment the query is answered." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
+      statement: "Now is the moment the query is answered.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "An eso day is counted from six in the morning New York time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The next eso day is the eso day after the eso day the query is answered in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A day is counted from the moment its first sleep after six the evening before began.",
     },
