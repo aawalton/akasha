@@ -75,7 +75,9 @@ function conditionsOf(
 ): CategoryRule["conditions"] {
   if (entries.length === 0) return undefined
   const held: Record<string, unknown> = {}
-  for (const entry of entries) held[keyOf(entry.conditionField)] = spelt(entry.conditionValue)
+  for (const entry of entries) {
+    held[keyOf(slugOf(entry.conditionField))] = spelt(entry.conditionValue)
+  }
   const read = conditionsTaken(held)
   if ("wrong" in read) {
     throw unread(slug, read.wrong.map(saidWrong).join("; "))

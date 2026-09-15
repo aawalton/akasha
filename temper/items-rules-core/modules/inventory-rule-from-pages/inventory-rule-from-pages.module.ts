@@ -50,7 +50,8 @@ export const inventoryRuleFromPages = {
     },
     {
       invariantKind: "departure",
-      statement: "An action and a goal come back as the slug alone, whatever page type names each.",
+      statement:
+        "An action, a goal and a condition field are read as the slug alone, whatever page type names each.",
     },
     {
       invariantKind: "gap",
