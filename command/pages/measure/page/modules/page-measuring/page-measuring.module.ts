@@ -59,10 +59,6 @@ export const pageMeasuring = {
       statement: "What page types there are is read from the index rather than from the names met.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "A checkout with no index throws rather than counting no page.",
-    },
-    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes.",
     },
