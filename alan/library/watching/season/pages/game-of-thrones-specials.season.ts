@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const gameOfThronesSpecials = {
   id: "01a06802-b8ba-701b-bb49-a00d47030303",
-  type: "season",
+  type: "page-type/season",
   slug: "game-of-thrones-specials",
   title: "Game of Thrones Specials",
   partOfCollections: ["show/game-of-thrones"],

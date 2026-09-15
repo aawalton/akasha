@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const accelWorldSeason1 = {
   id: "01a06802-b8b7-700a-bd48-52b37ea2bf54",
-  type: "season",
+  type: "page-type/season",
   slug: "accel-world-season-1",
   title: "Accel World Season 1",
   partOfCollections: ["show/accel-world-2"],

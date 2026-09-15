@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const agathaAllAlongMiniseries = {
   id: "01a06802-b8b7-700c-a9d0-92b7f96bf108",
-  type: "season",
+  type: "page-type/season",
   slug: "agatha-all-along-miniseries",
   title: "Agatha All Along Miniseries",
   partOfCollections: ["show/agatha-all-along"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const babylon5Specials = {
   id: "01a06802-b8b7-7017-9083-6a60b9456d2c",
-  type: "season",
+  type: "page-type/season",
   slug: "babylon-5-specials",
   title: "Babylon 5 Specials",
   partOfCollections: ["show/babylon-5"],

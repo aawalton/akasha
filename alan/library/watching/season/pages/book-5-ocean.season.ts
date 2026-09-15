@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const book5Ocean = {
   id: "01a06802-b8b8-7014-b398-ac5159b19914",
-  type: "season",
+  type: "page-type/season",
   slug: "book-5-ocean",
   title: "Book 5: Ocean",
   partOfCollections: ["show/the-dragon-prince"],

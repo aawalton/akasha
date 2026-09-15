@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const aCourtOfFeyAndFlowers = {
   id: "01a06802-b8b7-7007-91b6-8315bb742bd9",
-  type: "season",
+  type: "page-type/season",
   slug: "a-court-of-fey-and-flowers",
   title: "A Court of Fey & Flowers",
   partOfCollections: ["show/dimension-20"],

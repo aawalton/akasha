@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const fantasyHighJuniorYear = {
   id: "01a06802-b8b9-7045-bdbc-7ef9514e04a7",
-  type: "season",
+  type: "page-type/season",
   slug: "fantasy-high-junior-year",
   title: "Fantasy High: Junior Year",
   partOfCollections: ["show/dimension-20"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const criticalRoleSpecials = {
   id: "01a06802-b8b8-7044-9542-b372c39f0980",
-  type: "season",
+  type: "page-type/season",
   slug: "critical-role-specials",
   title: "Critical Role Specials",
   partOfCollections: ["show/critical-role"],

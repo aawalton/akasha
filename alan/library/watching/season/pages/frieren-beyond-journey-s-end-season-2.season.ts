@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const frierenBeyondJourneySEndSeason2 = {
   id: "01a06802-b8ba-700f-877d-7540b888caaa",
-  type: "season",
+  type: "page-type/season",
   slug: "frieren-beyond-journey-s-end-season-2",
   title: "Frieren: Beyond Journey's End Season 2",
   partOfCollections: ["show/frieren-beyond-journey-s-end-2"],

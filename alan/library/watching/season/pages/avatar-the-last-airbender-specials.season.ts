@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const avatarTheLastAirbenderSpecials = {
   id: "01a06802-b8b7-7013-a4a0-70e00dcd4660",
-  type: "season",
+  type: "page-type/season",
   slug: "avatar-the-last-airbender-specials",
   title: "Avatar: The Last Airbender Specials",
   partOfCollections: ["show/avatar-the-last-airbender"],

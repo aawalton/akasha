@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const doctorWhoSeason52 = {
   id: "01a06802-b8b9-701d-8f73-00222c6b5cff",
-  type: "season",
+  type: "page-type/season",
   slug: "doctor-who-season-5-2",
   title: "Doctor Who Season 5",
   partOfCollections: ["show/doctor-who-1963-1989"],

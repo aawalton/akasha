@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const frankHerbertSDuneMiniseries = {
   id: "01a06802-b8ba-7002-beee-ac3103046081",
-  type: "season",
+  type: "page-type/season",
   slug: "frank-herbert-s-dune-miniseries",
   title: "Frank Herbert's Dune Miniseries",
   partOfCollections: ["show/frank-herbert-s-dune"],

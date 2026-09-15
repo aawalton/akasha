@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const babylon5TheComingOfShadows = {
   id: "01a06802-b8b7-7018-982f-e72c29879eae",
-  type: "season",
+  type: "page-type/season",
   slug: "babylon-5-the-coming-of-shadows",
   title: "Babylon 5 The Coming of Shadows",
   partOfCollections: ["show/babylon-5"],

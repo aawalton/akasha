@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const arcaneSpecials2 = {
   id: "01a06802-b8b7-7012-8c69-4004967a73fb",
-  type: "season",
+  type: "page-type/season",
   slug: "arcane-specials-2",
   title: "Arcane Specials",
   partOfCollections: ["show/arcane"],

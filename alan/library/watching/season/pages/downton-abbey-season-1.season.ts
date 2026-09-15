@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const downtonAbbeySeason1 = {
   id: "01a06802-b8b9-7028-896b-a0d5b75a9d4e",
-  type: "season",
+  type: "page-type/season",
   slug: "downton-abbey-season-1",
   title: "Downton Abbey Season 1",
   partOfCollections: ["show/downton-abbey"],

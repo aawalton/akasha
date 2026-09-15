@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const highPotentialSeason1 = {
   id: "01a06802-b8ba-7025-b088-2d8acf31fbfb",
-  type: "season",
+  type: "page-type/season",
   slug: "high-potential-season-1",
   title: "High Potential Season 1",
   partOfCollections: ["show/high-potential"],

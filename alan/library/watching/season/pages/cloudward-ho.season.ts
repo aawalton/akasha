@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const cloudwardHo = {
   id: "01a06802-b8b8-702f-896d-c9af684ac7ec",
-  type: "season",
+  type: "page-type/season",
   slug: "cloudward-ho",
   title: "Cloudward, Ho!",
   partOfCollections: ["show/dimension-20"],

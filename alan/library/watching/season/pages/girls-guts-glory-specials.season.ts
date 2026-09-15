@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const girlsGutsGlorySpecials = {
   id: "01a06802-b8ba-701f-9fba-902265e2e022",
-  type: "season",
+  type: "page-type/season",
   slug: "girls-guts-glory-specials",
   title: "Girls Guts Glory Specials",
   partOfCollections: ["show/girls-guts-glory"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const bookThreeFire = {
   id: "01a06802-b8b8-701b-838c-94102338ca4f",
-  type: "season",
+  type: "page-type/season",
   slug: "book-three-fire",
   title: "Book Three: Fire",
   partOfCollections: ["show/avatar-the-last-airbender"],

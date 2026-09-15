@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const eurekaSpecials = {
   id: "01a06802-b8b9-7041-8833-3ae7debc5c89",
-  type: "season",
+  type: "page-type/season",
   slug: "eureka-specials",
   title: "Eureka Specials",
   partOfCollections: ["show/eureka"],

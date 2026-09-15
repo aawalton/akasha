@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const campaign1VoxMachina = {
   id: "01a06802-b8b8-701f-b928-c93ee7b5d14b",
-  type: "season",
+  type: "page-type/season",
   slug: "campaign-1-vox-machina",
   title: "Campaign 1: Vox Machina",
   partOfCollections: ["show/critical-role"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const blackMirrorSeason5 = {
   id: "01a06802-b8b8-7007-8796-cc75362fb4d4",
-  type: "season",
+  type: "page-type/season",
   slug: "black-mirror-season-5",
   title: "Black Mirror Season 5",
   partOfCollections: ["show/black-mirror"],

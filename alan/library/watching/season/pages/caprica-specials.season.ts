@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const capricaSpecials = {
   id: "01a06802-b8b8-7024-a2bc-093c94fbd674",
-  type: "season",
+  type: "page-type/season",
   slug: "caprica-specials",
   title: "Caprica Specials",
   partOfCollections: ["show/caprica"],

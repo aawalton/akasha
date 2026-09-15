@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const galactica1980Season1 = {
   id: "01a06802-b8ba-7012-8412-a018dcd0607f",
-  type: "season",
+  type: "page-type/season",
   slug: "galactica-1980-season-1",
   title: "Galactica 1980 Season 1",
   partOfCollections: ["show/galactica-1980"],

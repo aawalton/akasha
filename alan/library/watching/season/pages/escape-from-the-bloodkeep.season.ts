@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const escapeFromTheBloodkeep = {
   id: "01a06802-b8b9-703b-a622-78a431132f08",
-  type: "season",
+  type: "page-type/season",
   slug: "escape-from-the-bloodkeep",
   title: "Escape From The Bloodkeep",
   partOfCollections: ["show/dimension-20"],

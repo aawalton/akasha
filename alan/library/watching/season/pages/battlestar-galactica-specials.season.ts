@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const battlestarGalacticaSpecials = {
   id: "01a06802-b8b8-7002-a97b-c1d7440f42ee",
-  type: "season",
+  type: "page-type/season",
   slug: "battlestar-galactica-specials",
   title: "Battlestar Galactica Specials",
   partOfCollections: ["show/battlestar-galactica-2004"],

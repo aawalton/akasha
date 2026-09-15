@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const frankHerbertSChildrenOfDuneMiniseries = {
   id: "01a06802-b8ba-7000-894c-7c110a459db6",
-  type: "season",
+  type: "page-type/season",
   slug: "frank-herbert-s-children-of-dune-miniseries",
   title: "Frank Herbert's Children of Dune Miniseries",
   partOfCollections: ["show/frank-herbert-s-children-of-dune"],

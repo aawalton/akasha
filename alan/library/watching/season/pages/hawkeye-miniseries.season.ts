@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const hawkeyeMiniseries = {
   id: "01a06802-b8ba-7023-ad8c-2bc62d512325",
-  type: "season",
+  type: "page-type/season",
   slug: "hawkeye-miniseries",
   title: "Hawkeye Miniseries",
   partOfCollections: ["show/hawkeye"],

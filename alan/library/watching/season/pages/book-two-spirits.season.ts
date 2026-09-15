@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const bookTwoSpirits = {
   id: "01a06802-b8b8-701d-8e34-5697eb745b89",
-  type: "season",
+  type: "page-type/season",
   slug: "book-two-spirits",
   title: "Book Two: Spirits",
   partOfCollections: ["show/the-legend-of-korra"],

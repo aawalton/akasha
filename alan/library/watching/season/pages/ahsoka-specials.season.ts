@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const ahsokaSpecials = {
   id: "01a06802-b8b7-700e-8a19-a73bd4c5b494",
-  type: "season",
+  type: "page-type/season",
   slug: "ahsoka-specials",
   title: "Ahsoka Specials",
   partOfCollections: ["show/ahsoka"],

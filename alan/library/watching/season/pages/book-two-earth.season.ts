@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const bookTwoEarth = {
   id: "01a06802-b8b8-701c-9659-f13a7af6c291",
-  type: "season",
+  type: "page-type/season",
   slug: "book-two-earth",
   title: "Book Two: Earth",
   partOfCollections: ["show/avatar-the-last-airbender"],

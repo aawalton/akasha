@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const babylon5PointOfNoReturn = {
   id: "01a06802-b8b7-7015-9eaa-d442214222c3",
-  type: "season",
+  type: "page-type/season",
   slug: "babylon-5-point-of-no-return",
   title: "Babylon 5 Point of No Return",
   partOfCollections: ["show/babylon-5"],

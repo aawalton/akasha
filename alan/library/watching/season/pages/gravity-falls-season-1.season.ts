@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const gravityFallsSeason1 = {
   id: "01a06802-b8ba-7020-a2d6-69249d6b6f79",
-  type: "season",
+  type: "page-type/season",
   slug: "gravity-falls-season-1",
   title: "Gravity Falls Season 1",
   partOfCollections: ["show/gravity-falls"],

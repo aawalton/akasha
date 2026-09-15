@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const ahsokaSeason1 = {
   id: "01a06802-b8b7-700d-b48f-147e9bff9546",
-  type: "season",
+  type: "page-type/season",
   slug: "ahsoka-season-1",
   title: "Ahsoka Season 1",
   partOfCollections: ["show/ahsoka"],

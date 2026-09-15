@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const crusadeSpecials = {
   id: "01a06802-b8b8-7046-8068-e7142b1adfa0",
-  type: "season",
+  type: "page-type/season",
   slug: "crusade-specials",
   title: "Crusade Specials",
   partOfCollections: ["show/crusade"],

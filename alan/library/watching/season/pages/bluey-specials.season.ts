@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const blueySpecials = {
   id: "01a06802-b8b8-700e-86c0-43fa3118d6e0",
-  type: "season",
+  type: "page-type/season",
   slug: "bluey-specials",
   title: "Bluey Specials",
   partOfCollections: ["show/bluey"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const evenGivenTheWorthlessAppraiserClassIMActuallyTheStrongestSe = {
   id: "01a06802-b8b9-7042-a207-6d8dc4737be8",
-  type: "season",
+  type: "page-type/season",
   slug: "even-given-the-worthless-appraiser-class-i-m-actually-the-strongest-se",
   title: 'Even Given the Worthless "Appraiser" Class, I\'m Actually the Strongest Season 1',
   partOfCollections: ["show/even-given-the-worthless-appraiser-class-i-m-actually-the-strongest"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const childrenOfEarth = {
   id: "01a06802-b8b8-702d-a152-d13e31f36f8f",
-  type: "season",
+  type: "page-type/season",
   slug: "children-of-earth",
   title: "Children of Earth",
   partOfCollections: ["show/torchwood"],

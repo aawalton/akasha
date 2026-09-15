@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const friendsSeason6 = {
   id: "01a06802-b8ba-7009-9c39-524118d5ceb1",
-  type: "season",
+  type: "page-type/season",
   slug: "friends-season-6",
   title: "Friends Season 6",
   partOfCollections: ["show/friends"],

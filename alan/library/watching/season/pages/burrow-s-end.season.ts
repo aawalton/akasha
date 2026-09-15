@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const burrowSEnd = {
   id: "01a06802-b8b8-701e-9392-1317715975c5",
-  type: "season",
+  type: "page-type/season",
   slug: "burrow-s-end",
   title: "Burrow's End",
   partOfCollections: ["show/dimension-20"],
