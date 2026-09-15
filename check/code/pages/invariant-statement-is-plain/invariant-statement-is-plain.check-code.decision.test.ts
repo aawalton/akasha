@@ -25,6 +25,13 @@ function judged(body: string): Promise<readonly string[]> {
   return found(REPO_AT, AT, body, shadowAt(REPO_AT).index)
 }
 
+function marksIn(body: string): readonly string[] {
+  return statementsIn(AT, body)
+    .map((one) => splitAt(one))
+    .filter((one) => one !== null)
+    .map((one) => one.mark)
+}
+
 function paged(...every: readonly string[]): string {
   const held = every.map((one) => `    { invariantKind: "departure", statement: ${one} },`)
   return ["export const held = {", "  invariants: [", ...held, "  ],", "}", ""].join("\n")
@@ -103,16 +110,16 @@ test("two sentences in one statement are refused and the second is the one shown
 })
 
 test("a full stop closing the statement is no second sentence", () => {
-  expect(marked(AT, paged(JSON.stringify("A page is one TypeScript file.")))).toEqual([])
+  expect(marksIn(paged(JSON.stringify("A page is one TypeScript file.")))).toEqual([])
 })
 
 test("a full stop inside a spelt name is no second sentence", () => {
-  expect(marked(AT, paged(JSON.stringify("The name `libc.so.6` reaches nothing.")))).toEqual([])
+  expect(marksIn(paged(JSON.stringify("The name `libc.so.6` reaches nothing.")))).toEqual([])
 })
 
 test("a mark inside a spelt name is no mark of the statement's own", () => {
   const body = paged(JSON.stringify("`tmpdir` is refused where it is taken from `node:os`."))
-  expect(marked(AT, body)).toEqual([])
+  expect(marksIn(body)).toEqual([])
 })
 
 test("a mark outside a spelt name is found where a spelt name is beside it", async () => {
@@ -146,7 +153,7 @@ test("a word merely carrying those letters is let through with the word read who
     JSON.stringify("A reading is sincere."),
     JSON.stringify("A file is refused as a stray.")
   )
-  expect(marked(AT, body)).toEqual([])
+  expect(marksIn(body)).toEqual([])
 })
 
 test("a statement spelt across lines is read whole and a mark across the join is found", async () => {
@@ -185,7 +192,7 @@ test("the statement is read from the page rather than from the prose around it",
     "}",
     "",
   ].join("\n")
-  expect(marked(AT, body)).toEqual([])
+  expect(marksIn(body)).toEqual([])
 })
 
 test("an entry stating a kind and no statement is passed over", async () => {
