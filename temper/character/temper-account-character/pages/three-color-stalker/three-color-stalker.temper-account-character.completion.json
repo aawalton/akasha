@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHcorAAIBihYxC4RtQt6rSLWe0i1ntItZ7SLWe0i1ntKF6rSheq1IQA1IGj1WkC56rcAAAAAAAAAAAAAAAAAAAAAAAAgDUEghAGAACQEAAAwAACEAAApwAiAGYABkABCAwsABDJIFAjEAAygAAICAMAHIAAAcAAABA412M-U1IsSZWPJlzS5k2dn0adWvbPoUaVOp4qrI6tebPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mAAAyDCGSTw",
+  "buildHash": "ATQHcorAAIBihYxC4RtQt6rSLWe0i1ntItZ7SLWe0i1ntKF6rSheq1IQA1IGj1WkC56rcAAAAAAAAAAAAAAAAAAAAAAAAgDUEghAWAACQEFAAwAACEAAApwAiAGYABkABCAwsBBDJIFAjEAAygAAICAOAHoAAAcCAABA412M-U1IsSZWPJlzS5k2dn0adWvbPoUaVOp4qrI6tebPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mAAAyDCGSTw",
   "gender": 1,
   "level": 50,
   "classId": 3,
@@ -8598,7 +8598,7 @@
     "groupDungeonTotal": 19,
     "tutorial": 1,
     "skyshardPoints": 184,
-    "unassigned": 194,
+    "unassigned": 180,
     "zoneQuestTotal": 109,
     "publicDungeons": {
       "EP4": 1,
