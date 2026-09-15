@@ -2751,7 +2751,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog-core/modules/domain-keys/domain-keys.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog-core/modules/domain-registry/domain-registry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog-host/modules/saved-variables-reader/saved-variables-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog-side-file/modules/catalog-file-paths/catalog-file-paths.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog-side-file/modules/catalog-side-file/catalog-side-file.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/champion-point/modules/champion-point-source/champion-point-source.module.ts"}
@@ -5502,6 +5501,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/build-metadata/build-metadata.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/descriptor/descriptor.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/narrow/modules/is-callback/is-callback.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/narrow/modules/is-table/is-table.module.ts"}

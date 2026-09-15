@@ -3300,7 +3300,6 @@
 {"propertySlug":"invariant-kind","path":"temper/catalog-core/modules/domain-registry/domain-registry.module.ts","id":"01a06071-0c79-71aa-8f49-de4128d97c66"}
 {"propertySlug":"invariant-kind","path":"temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.ts","id":"01a06071-0c79-73ce-a434-c3b18ac668a1"}
 {"propertySlug":"invariant-kind","path":"temper/catalog-core/temper-catalog-core.domain.ts","id":"01a06071-0c7a-7792-ab3e-69213b5eaf92"}
-{"propertySlug":"invariant-kind","path":"temper/catalog-host/modules/saved-variables-reader/saved-variables-reader.module.ts","id":"01a06084-d41a-7898-b2c6-0be1faa981da"}
 {"propertySlug":"invariant-kind","path":"temper/catalog-side-file/modules/catalog-file-paths/catalog-file-paths.module.ts","id":"01a060ce-b8cc-7704-9bd1-cd4631423a3c"}
 {"propertySlug":"invariant-kind","path":"temper/catalog-side-file/modules/catalog-side-file/catalog-side-file.module.ts","id":"01a060ce-b8cb-776b-b2b7-0589a741c9c4"}
 {"propertySlug":"invariant-kind","path":"temper/catalog-side-file/temper-catalog-side-file.domain.ts","id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}
@@ -4719,6 +4718,7 @@
 {"propertySlug":"invariant-kind","path":"temper/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
 {"propertySlug":"invariant-kind","path":"temper/modules/descriptor/descriptor.module.ts","id":"01a06053-3638-7cb5-b297-d04869965330"}
 {"propertySlug":"invariant-kind","path":"temper/modules/perf-trace/perf-trace.module.ts","id":"01a060a9-5d58-7bc3-a680-2ccdb8dd5bf3"}
+{"propertySlug":"invariant-kind","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts","id":"01a06084-d41a-7898-b2c6-0be1faa981da"}
 {"propertySlug":"invariant-kind","path":"temper/modules/unpack-color/unpack-color.module.ts","id":"01a090aa-4938-7f89-a924-2a3c86c77dd2"}
 {"propertySlug":"invariant-kind","path":"temper/narrow/modules/is-table/is-table.module.ts","id":"01a08e01-6b05-7023-a79d-f39cedee5996"}
 {"propertySlug":"invariant-kind","path":"temper/narrow/modules/parse-lua-capture/parse-lua-capture.module.ts","id":"01a08e0c-2af7-7ac7-841c-ccaa3d4ee31b"}

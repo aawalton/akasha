@@ -8,6 +8,14 @@ export const savedVariablesReader = {
   code: "ts",
   invariants: [
     {
+      invariantKind: "absence",
+      statement: "Nothing here reaches the game.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here opens a file.",
+    },
+    {
       invariantKind: "departure",
       statement: "Text the parser refuses answers an empty list.",
     },

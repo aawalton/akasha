@@ -13,10 +13,6 @@ import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.
 import { temperCatalogStatus as page } from "akasha/command/pages/temper/catalog/status/temper-catalog-status.command.ts"
 import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog-core/modules/domain-keys/domain-keys.module.code.ts"
 import {
-  type AccountSummary,
-  readAccountSummaries,
-} from "akasha/temper/catalog-host/modules/saved-variables-reader/saved-variables-reader.module.code.ts"
-import {
   resolveSavedVariablesPath,
   resolveSideFilePath,
 } from "akasha/temper/catalog-side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"
@@ -24,6 +20,10 @@ import {
   parseSideFile,
   type SideFile,
 } from "akasha/temper/catalog-side-file/modules/catalog-side-file/catalog-side-file.module.code.ts"
+import {
+  type AccountSummary,
+  readAccountSummaries,
+} from "akasha/temper/modules/saved-variables-reader/saved-variables-reader.module.code.ts"
 import { saidBy as messageOf } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const NAMED = [json, sideFileArgument, savedVariablesFile]
