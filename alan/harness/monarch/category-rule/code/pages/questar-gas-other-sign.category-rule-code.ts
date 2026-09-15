@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const questarGasOtherSign = {
   id: "01a0655b-fcd1-7006-98b4-442723a0cd01",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "questar-gas-other-sign",
   title: "Questar gas other sign",
   matches: [

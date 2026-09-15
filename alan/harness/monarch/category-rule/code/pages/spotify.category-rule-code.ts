@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const spotify = {
   id: "01a0655b-fcda-7001-8247-1a8ffd271881",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "spotify",
   title: "Spotify",
   matches: [

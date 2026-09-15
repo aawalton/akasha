@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const appleDeveloperProgram = {
   id: "01a0655b-fccf-7008-ab16-645cc6b24302",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "apple-developer-program",
   title: "Apple developer program",
   matches: [

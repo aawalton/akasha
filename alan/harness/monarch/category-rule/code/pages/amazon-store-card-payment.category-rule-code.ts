@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const amazonStoreCardPayment = {
   id: "01a0655b-fccf-7004-9bc4-26a5a5aab421",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "amazon-store-card-payment",
   title: "Amazon store card payment",
   matches: [

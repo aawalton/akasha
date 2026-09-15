@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const notYetMediaOtherSign = {
   id: "01a0655b-fcd0-702d-92f5-0bca45000569",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "not-yet-media-other-sign",
   title: "Not yet media other sign",
   matches: [

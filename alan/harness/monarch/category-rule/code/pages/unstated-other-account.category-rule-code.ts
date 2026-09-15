@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const unstatedOtherAccount = {
   id: "01a0655b-fcdb-7000-8f2f-924c8ed5c3c2",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "unstated-other-account",
   title: "Unstated other account",
   matches: [

@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const venmoOtherAccount = {
   id: "01a0655b-fcdb-7005-a285-e4482329b9e9",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "venmo-other-account",
   title: "Venmo other account",
   matches: [

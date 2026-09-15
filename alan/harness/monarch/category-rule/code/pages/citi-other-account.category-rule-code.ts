@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const citiOtherAccount = {
   id: "01a0655b-fcd0-7000-8ca2-597e60535892",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "citi-other-account",
   title: "Citi other account",
   matches: [

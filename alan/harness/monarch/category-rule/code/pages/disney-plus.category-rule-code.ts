@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const disneyPlus = {
   id: "01a0655b-fcd0-700d-aecc-086b85c100c2",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "disney-plus",
   title: "Disney plus",
   matches: [

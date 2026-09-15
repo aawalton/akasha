@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const chasePayment = {
   id: "01a0655b-fccf-7017-bd88-57a8b4fffb6b",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "chase-payment",
   title: "Chase payment",
   matches: [

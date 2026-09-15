@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const cashPlusSweepOther = {
   id: "01a0655b-fccf-7013-9625-3c4c1fc6db75",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "cash-plus-sweep-other",
   title: "Cash plus sweep other",
   matches: [

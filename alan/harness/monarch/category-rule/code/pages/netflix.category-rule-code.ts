@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const netflix = {
   id: "01a0655b-fcd0-7028-875b-bda971334f92",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "netflix",
   title: "Netflix",
   matches: [

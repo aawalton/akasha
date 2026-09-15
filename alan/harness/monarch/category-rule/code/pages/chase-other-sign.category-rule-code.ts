@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const chaseOtherSign = {
   id: "01a0655b-fccf-7016-9bf1-c3715968b450",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "chase-other-sign",
   title: "Chase other sign",
   matches: [

@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const midlandNationalPremium = {
   id: "01a0655b-fcd0-7023-8289-288ef490604f",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "midland-national-premium",
   title: "Midland national premium",
   matches: [

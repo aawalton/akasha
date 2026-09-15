@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const spotifyOtherSign = {
   id: "01a0655b-fcda-7000-ac9b-9f92a57f99c1",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "spotify-other-sign",
   title: "Spotify other sign",
   matches: [

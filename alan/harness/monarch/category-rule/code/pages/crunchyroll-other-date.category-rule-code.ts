@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const crunchyrollOtherDate = {
   id: "01a0655b-fcd0-7008-9360-1784a7e7e444",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "crunchyroll-other-date",
   title: "Crunchyroll other date",
   matches: [

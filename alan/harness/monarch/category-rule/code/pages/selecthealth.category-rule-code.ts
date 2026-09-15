@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const selecthealth = {
   id: "01a0655b-fcd1-700b-938e-435597c20230",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "selecthealth",
   title: "Selecthealth",
   matches: [

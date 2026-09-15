@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const questarGasOtherAccount = {
   id: "01a0655b-fcd1-7005-a8e9-e7fe9ca0902d",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "questar-gas-other-account",
   title: "Questar gas other account",
   matches: [

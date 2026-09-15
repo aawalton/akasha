@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const costcoGas = {
   id: "01a0655b-fcd0-7006-895e-7ad731347729",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "costco-gas",
   title: "Costco gas",
   matches: [

@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const lobOther = {
   id: "01a0655b-fcd0-7020-bce5-8bf5f718facf",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "lob-other",
   title: "Lob other",
   matches: [

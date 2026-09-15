@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const googleCloud = {
   id: "01a0655b-fcd0-7014-9f0b-5b48e81dbbb0",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "google-cloud",
   title: "Google cloud",
   matches: [

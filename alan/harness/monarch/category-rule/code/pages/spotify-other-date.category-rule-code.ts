@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const spotifyOtherDate = {
   id: "01a0655b-fcd1-700c-9a2b-8b63dce73aff",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "spotify-other-date",
   title: "Spotify other date",
   matches: [

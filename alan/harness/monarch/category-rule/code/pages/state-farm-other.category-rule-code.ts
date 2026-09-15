@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const stateFarmOther = {
   id: "01a0655b-fcda-7004-ba32-0cda134ea51c",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "state-farm-other",
   title: "State farm other",
   matches: [

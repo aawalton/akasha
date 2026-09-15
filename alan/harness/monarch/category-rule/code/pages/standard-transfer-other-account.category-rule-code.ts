@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const standardTransferOtherAccount = {
   id: "01a0655b-fcda-7002-99e3-28713b21e7ce",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "standard-transfer-other-account",
   title: "Standard transfer other account",
   matches: [

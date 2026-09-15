@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const amazonStoreCardOtherAccount = {
   id: "01a0655b-fccf-7002-ae00-6f6b69d269ee",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "amazon-store-card-other-account",
   title: "Amazon store card other account",
   matches: [

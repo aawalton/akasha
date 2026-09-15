@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const royalRoadJoseph = {
   id: "01a0655b-fcd1-7009-bfe5-693e50a46eca",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "royal-road-joseph",
   title: "Royal road joseph",
   matches: [

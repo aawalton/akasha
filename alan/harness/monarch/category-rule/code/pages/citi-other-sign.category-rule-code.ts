@@ -2,7 +2,7 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const citiOtherSign = {
   id: "01a0655b-fcd0-7001-bb00-0b2a174dbf38",
-  type: "category-rule-code",
+  type: "page-type/category-rule-code",
   slug: "citi-other-sign",
   title: "Citi other sign",
   matches: [
