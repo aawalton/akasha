@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const melodyOfMana0126Chapter113TermsOfAmnesty = {
   id: "01a0672c-ed5f-701b-b3ef-712e66d0c392",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0126-chapter-113-terms-of-amnesty",
   title: "Chapter 113 Terms of Amnesty",
   story: "story-read/melody-of-mana",

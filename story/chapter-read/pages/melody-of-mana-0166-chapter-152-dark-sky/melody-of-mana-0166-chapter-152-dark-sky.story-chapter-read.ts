@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const melodyOfMana0166Chapter152DarkSky = {
   id: "01a06731-ad81-7012-986b-454e91cca84d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0166-chapter-152-dark-sky",
   title: "Chapter 152 Dark Sky",
   story: "story-read/melody-of-mana",

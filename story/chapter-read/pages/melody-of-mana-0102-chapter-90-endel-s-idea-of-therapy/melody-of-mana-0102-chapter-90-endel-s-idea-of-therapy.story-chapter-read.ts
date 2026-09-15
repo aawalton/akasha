@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const melodyOfMana0102Chapter90EndelSIdeaOfTherapy = {
   id: "01a0672c-ed5f-7003-857a-c57815e1cd9f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0102-chapter-90-endel-s-idea-of-therapy",
   title: "Chapter 90 Endel's Idea of Therapy",
   story: "story-read/melody-of-mana",

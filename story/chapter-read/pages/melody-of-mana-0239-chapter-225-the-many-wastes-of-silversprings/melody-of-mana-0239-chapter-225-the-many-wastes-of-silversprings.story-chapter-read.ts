@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const melodyOfMana0239Chapter225TheManyWastesOfSilversprings = {
   id: "01a06731-ad84-700c-b885-cd8d6a7800b2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0239-chapter-225-the-many-wastes-of-silversprings",
   title: "Chapter 225 The Many Wastes of Silversprings",
   story: "story-read/melody-of-mana",

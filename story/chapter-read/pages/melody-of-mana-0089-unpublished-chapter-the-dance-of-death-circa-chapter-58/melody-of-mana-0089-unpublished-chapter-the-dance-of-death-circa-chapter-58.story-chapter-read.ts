@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const melodyOfMana0089UnpublishedChapterTheDanceOfDeathCircaChapter58 = {
   id: "01a0672c-ed5e-7015-a92c-91383af1462b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0089-unpublished-chapter-the-dance-of-death-circa-chapter-58",
   title: "Unpublished chapter The dance of death (Circa chapter 58)",
   story: "story-read/melody-of-mana",

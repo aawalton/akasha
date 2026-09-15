@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const melodyOfMana0108Chapter96LengtheningShadows = {
   id: "01a0672c-ed5f-7009-a151-ce0b193e1d27",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0108-chapter-96-lengthening-shadows",
   title: "Chapter 96 Lengthening Shadows",
   story: "story-read/melody-of-mana",

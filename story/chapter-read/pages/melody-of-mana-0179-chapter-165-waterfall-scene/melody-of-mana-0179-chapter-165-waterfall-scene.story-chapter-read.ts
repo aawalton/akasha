@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const melodyOfMana0179Chapter165WaterfallScene = {
   id: "01a06731-ad82-7003-b7ac-46d72ee9347b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0179-chapter-165-waterfall-scene",
   title: "Chapter 165 Waterfall Scene",
   story: "story-read/melody-of-mana",

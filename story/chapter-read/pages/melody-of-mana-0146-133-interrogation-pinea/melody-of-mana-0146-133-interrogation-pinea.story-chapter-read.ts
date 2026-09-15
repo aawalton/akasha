@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const melodyOfMana0146133InterrogationPinea = {
   id: "01a06731-ad80-700d-9d73-167b146cbb0c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0146-133-interrogation-pinea",
   title: "133 Interrogation (Pinea)",
   story: "story-read/melody-of-mana",

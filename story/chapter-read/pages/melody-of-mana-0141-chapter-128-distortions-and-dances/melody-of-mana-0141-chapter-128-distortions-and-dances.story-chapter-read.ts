@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const melodyOfMana0141Chapter128DistortionsAndDances = {
   id: "01a06731-ad80-7008-a856-dc50632ebdc1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0141-chapter-128-distortions-and-dances",
   title: "Chapter 128 Distortions and Dances",
   story: "story-read/melody-of-mana",
