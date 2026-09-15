@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const healWounds = {
   id: "01a06572-95c8-73db-a02a-a7a648852100",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "heal-wounds",
   title: "Heal Wounds",
   world: "world/the-wandering-inn",

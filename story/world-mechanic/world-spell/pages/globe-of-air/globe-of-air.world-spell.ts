@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const globeOfAir = {
   id: "01a06572-95c6-753f-b08a-5436ec99bbca",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "globe-of-air",
   title: "Globe of Air",
   world: "world/the-wandering-inn",

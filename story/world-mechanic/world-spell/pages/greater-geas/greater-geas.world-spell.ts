@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const greaterGeas = {
   id: "01a06572-95c7-7eb4-a0d8-b0f510e9f031",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "greater-geas",
   title: "Greater Geas",
   world: "world/the-wandering-inn",

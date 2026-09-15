@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const frictionlessSurface = {
   id: "01a06572-95c5-7ede-aad9-b157e347a52e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "frictionless-surface",
   title: "Frictionless Surface",
   world: "world/the-wandering-inn",

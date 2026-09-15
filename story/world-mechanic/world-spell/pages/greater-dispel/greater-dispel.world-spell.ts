@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const greaterDispel = {
   id: "01a06572-95c7-7473-87f2-970637ef0ff2",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "greater-dispel",
   title: "Greater Dispel",
   world: "world/the-wandering-inn",

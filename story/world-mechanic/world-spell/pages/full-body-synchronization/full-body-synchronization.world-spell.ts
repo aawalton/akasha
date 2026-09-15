@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fullBodySynchronization = {
   id: "01a06572-95c6-72a4-928c-c1e6e68b0a99",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "full-body-synchronization",
   title: "Full Body Synchronization",
   world: "world/the-wandering-inn",

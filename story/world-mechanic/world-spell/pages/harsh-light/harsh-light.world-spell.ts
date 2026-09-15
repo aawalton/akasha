@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const harshLight = {
   id: "01a06572-95c8-727d-8f9e-2417b40d88fe",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "harsh-light",
   title: "Harsh Light",
   world: "world/the-wandering-inn",

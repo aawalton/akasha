@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const handOfTheStoneGiant = {
   id: "01a06572-95c8-711c-b63c-43f7ac941a13",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "hand-of-the-stone-giant",
   title: "Hand of the Stone Giant",
   world: "world/the-wandering-inn",

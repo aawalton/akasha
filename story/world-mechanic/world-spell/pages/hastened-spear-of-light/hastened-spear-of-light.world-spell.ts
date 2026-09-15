@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const hastenedSpearOfLight = {
   id: "01a06572-95c8-724f-a727-25111a24fc14",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "hastened-spear-of-light",
   title: "Hastened Spear of Light",
   world: "world/the-wandering-inn",

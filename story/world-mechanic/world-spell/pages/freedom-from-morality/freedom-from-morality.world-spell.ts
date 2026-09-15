@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const freedomFromMorality = {
   id: "01a06572-95c5-7ddf-9207-7f7ad39dbe1f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "freedom-from-morality",
   title: "Freedom From Morality",
   world: "world/the-wandering-inn",

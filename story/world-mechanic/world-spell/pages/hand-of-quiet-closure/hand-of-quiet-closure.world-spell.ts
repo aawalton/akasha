@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const handOfQuietClosure = {
   id: "01a06572-95c8-77b0-99c7-67b5afa47cd0",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "hand-of-quiet-closure",
   title: "Hand of Quiet Closure",
   world: "world/the-wandering-inn",

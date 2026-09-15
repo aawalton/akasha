@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const geomancy = {
   id: "01a06572-95c6-79b4-a1df-da45a5162d71",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "geomancy",
   title: "Geomancy",
   world: "world/the-wandering-inn",

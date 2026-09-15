@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const greaterFrostward = {
   id: "01a06572-95c7-721e-9243-a047142ed73c",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "greater-frostward",
   title: "Greater Frostward",
   world: "world/the-wandering-inn",

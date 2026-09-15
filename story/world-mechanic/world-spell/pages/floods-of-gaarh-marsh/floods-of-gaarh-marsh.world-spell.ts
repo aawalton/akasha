@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const floodsOfGaarhMarsh = {
   id: "01a06572-95c4-7828-b9d7-33f36d1a8f33",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "floods-of-gaarh-marsh",
   title: "Floods of Gaarh Marsh",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const haltMomentum = {
   id: "01a06572-95c8-7ee1-9c87-c9c533d43acb",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "halt-momentum",
   title: "Halt Momentum",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const greaterReanimation = {
   id: "01a06572-95c7-79f0-afb9-218f82f32288",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "greater-reanimation",
   title: "Greater Reanim—",
   world: "world/the-wandering-inn",

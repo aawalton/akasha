@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const frozenHeart = {
   id: "01a06572-95c5-79bb-ba5a-ae31787300d2",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "frozen-heart",
   title: "Frozen Heart",
   world: "world/the-wandering-inn",

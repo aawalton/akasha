@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const formChangeSnowWraith = {
   id: "01a06572-95c5-7243-aa61-b9dbaefadc74",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "form-change-snow-wraith",
   title: "Form Change: Snow Wraith",
   world: "world/the-wandering-inn",

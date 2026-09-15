@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const handOfTheGaleElemental = {
   id: "01a06572-95c8-7d81-a003-6c22d2cff9f9",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "hand-of-the-gale-elemental",
   title: "Hand of the Gale Elemental",
   world: "world/the-wandering-inn",

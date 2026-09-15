@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const gripOfLostSouls = {
   id: "01a06572-95c7-7d0d-8880-72de1243a20d",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "grip-of-lost-souls",
   title: "Grip of Lost Souls",
   world: "world/the-wandering-inn",

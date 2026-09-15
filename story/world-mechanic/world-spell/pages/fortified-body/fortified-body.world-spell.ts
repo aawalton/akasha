@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fortifiedBody = {
   id: "01a06572-95c5-74dc-a1d6-944caf0e080e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "fortified-body",
   title: "Fortified Body",
   world: "world/the-wandering-inn",

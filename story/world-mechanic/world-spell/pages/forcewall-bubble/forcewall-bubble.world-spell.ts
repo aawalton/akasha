@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const forcewallBubble = {
   id: "01a06572-95c5-77a3-a580-171c7b6881f5",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "forcewall-bubble",
   title: "Forcewall: Bubble",
   world: "world/the-wandering-inn",

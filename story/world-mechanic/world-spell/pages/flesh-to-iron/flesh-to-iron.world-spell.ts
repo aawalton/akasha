@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fleshToIron = {
   id: "01a06572-95c4-76d4-b422-9d63dc7cba98",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "flesh-to-iron",
   title: "Flesh to Iron",
   world: "world/the-wandering-inn",

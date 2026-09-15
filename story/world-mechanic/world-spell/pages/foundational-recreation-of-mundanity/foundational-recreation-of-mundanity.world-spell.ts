@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const foundationalRecreationOfMundanity = {
   id: "01a06572-95c5-7ddd-95d0-1e4835ad73e1",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "foundational-recreation-of-mundanity",
   title: "Foundational Recreation of Mundanity",
   world: "world/the-wandering-inn",

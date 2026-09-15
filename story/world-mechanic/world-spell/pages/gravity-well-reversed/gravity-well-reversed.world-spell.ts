@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const gravityWellReversed = {
   id: "01a06572-95c6-7282-b771-e9758aec464c",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "gravity-well-reversed",
   title: "Gravity Well: Reversed",
   world: "world/the-wandering-inn",

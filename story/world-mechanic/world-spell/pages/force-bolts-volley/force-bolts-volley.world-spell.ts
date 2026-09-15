@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const forceBoltsVolley = {
   id: "01a06572-95c4-793f-86ad-625339e1dc76",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "force-bolts-volley",
   title: "Force Bolts – Volley",
   world: "world/the-wandering-inn",

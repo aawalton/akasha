@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const greaterIdentification = {
   id: "01a06572-95c7-7590-8de4-53230a20ab7f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "greater-identification",
   title: "Greater Identification",
   world: "world/the-wandering-inn",

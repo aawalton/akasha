@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const hexOfDamnation = {
   id: "01a06572-95c8-7836-8e69-d2974279c62f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "hex-of-damnation",
   title: "Hex of Damnation",
   world: "world/the-wandering-inn",

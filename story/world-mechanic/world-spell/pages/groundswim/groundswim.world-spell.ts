@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const groundswim = {
   id: "01a06572-95c7-73d3-add8-ef5a19c2fd8a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "groundswim",
   title: "Groundswim",
   world: "world/the-wandering-inn",

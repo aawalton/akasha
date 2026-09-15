@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const flySpeedOfTheSwallow = {
   id: "01a06572-95c4-766b-95db-ab15ef016d3f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "fly-speed-of-the-swallow",
   title: "Fly: Speed of the Swallow",
   world: "world/the-wandering-inn",

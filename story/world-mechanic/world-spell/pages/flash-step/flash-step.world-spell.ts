@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const flashStep = {
   id: "01a06572-95c4-7c41-911b-fa008c8c33bf",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "flash-step",
   title: "Flash Step",
   world: "world/the-wandering-inn",

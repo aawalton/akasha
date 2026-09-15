@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const freedomOfMovement = {
   id: "01a06572-95c5-778b-b28f-63cb8dfca281",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "freedom-of-movement",
   title: "Freedom of Movement",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const flightOfThePhoenixKing = {
   id: "01a06572-95c4-7a72-b688-fbf583e6a43d",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "flight-of-the-phoenix-king",
   title: "Flight of the Phoenix King",
   world: "world/the-wandering-inn",
