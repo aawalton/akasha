@@ -8,19 +8,19 @@ export const recipientResolverTick = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A spec whose work outruns its timeout is abandoned and taken up next tick.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A spec that throws is said aloud.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The specs after a spec that throws are still walked.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An aborted signal ends the run at the next spec boundary.",
     },
   ],
