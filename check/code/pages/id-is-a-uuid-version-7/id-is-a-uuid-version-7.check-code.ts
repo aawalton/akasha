@@ -11,15 +11,15 @@ export const idIsAUuidVersion7 = {
   runsOnAudit: true,
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A file stating no page is not judged.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An id is read from the object literal rather than from the body.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "An id nested deeper in the value is another page's business.",
     },
   ],

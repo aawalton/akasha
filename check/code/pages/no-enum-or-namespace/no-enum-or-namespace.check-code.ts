@@ -10,19 +10,19 @@ export const noEnumOrNamespace = {
   runsOnAudit: true,
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A declaration about a package is left out.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "`declare global` is left alone.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "An enum or a namespace a type declaration holds is left out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An enum and a namespace are one check.",
     },
   ],

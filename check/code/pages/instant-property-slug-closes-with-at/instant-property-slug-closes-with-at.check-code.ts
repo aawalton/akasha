@@ -11,25 +11,25 @@ export const instantPropertySlugClosesWithAt = {
   runsOnAudit: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type the change itself puts under `instant-property` counts.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The slug judged is the slug the page states rather than the slug its file name says.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A file with no page value is not judged.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement:
         "A file whose own name states no page type under `instant-property` is not judged.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement:
         "A file named otherwise than the slug the page states is `page-named-as-stated`'s to refuse.",
     },

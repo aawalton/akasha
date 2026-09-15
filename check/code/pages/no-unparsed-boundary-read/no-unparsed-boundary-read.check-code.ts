@@ -10,102 +10,108 @@ export const noUnparsedBoundaryRead = {
   runsOnAudit: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A read across a boundary is refused where no approved parse follows that read in the same block.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The block is the nearest block or source file or clause with the read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "`JSON.parse` is a read across a boundary rather than a parse.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call to an identifier spelled `parseSomething` is an approved parse.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A write to `process.env` is no read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file named `.d.ts` is passed over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file named `.generated.ts` or `.generated.tsx` is passed over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path with a `__fixtures__` or a `generated` segment is passed over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This rule is a check of its own rather than a sixteenth rule under `no-refused-syntax`.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A syntax rule has no phase of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule landing under `no-refused-syntax` judges every file at change at once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Folding this check into `no-refused-syntax` takes every site repaired and this page taken away.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every site the rule names is repaired.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A parse outside the block the read sits in is not seen.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A read followed through a second variable is not seen.",
     },
-    { invariantKind: "departure", statement: "A call to `firstCapture` is an approved parse." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
+      statement: "A call to `firstCapture` is an approved parse.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A body read from a `fetch` answer is a read across a boundary.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file read through `Bun.file` is a read across a boundary.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file read through `fs` is a read across a boundary.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The standard output of a spawned process is a read across a boundary.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An answer from a named remote procedure is a read across a boundary.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A capture a regular expression took is a read across a boundary.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call to `requireMatch` or `requireMatchPositional` is an approved parse.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call to `requireEnv` or `requireGet` or `requireFirst` is an approved parse.",
     },
-    { invariantKind: "departure", statement: "A file named `.test-fixtures.ts` is passed over." },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file named `.test-fixtures.ts` is passed over.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
