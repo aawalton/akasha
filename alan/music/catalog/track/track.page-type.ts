@@ -38,8 +38,8 @@ export const track = {
       statement: "One recording carried on two releases is two tracks.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The tracks carrying one recording are known to carry one recording.",
+      decisionKind: "decision-kind/departure",
+      statement: "The tracks carrying one recording state one track key.",
     },
     {
       decisionKind: "decision-kind/gap",
