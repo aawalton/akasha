@@ -54,6 +54,10 @@ const HOUR_MS = 3_600_000
 
 const TURN_MS = 5_000
 
+const TOLD_TO_STOP = "SIGTERM"
+
+const STOPPED_EXIT = 1
+
 const PARTS_PROBED = 2
 
 export function windowsIn(given: string | Reading): ReadonlyMap<string, number> {
@@ -297,7 +301,34 @@ export function sweptStream(root: string, one: Stream, nowMs: number): number {
   )
 }
 
-export function sweepRecords(argv: readonly string[]): number {
+export type Swept = {
+  readonly dropped: number
+  readonly swept: number
+  readonly streams: number
+  readonly busy: number
+  readonly reached: number | null
+}
+
+export function reportOf(said: Swept): string {
+  const stopped =
+    said.reached === null
+      ? ""
+      : `told to stop at ${String(said.reached)} of ${String(said.streams)} stream(s), ` +
+        "so lines past the window are still there — "
+  return (
+    `${stopped}dropped ${String(said.dropped)} line(s) past the window from ` +
+    `${String(said.swept)} of ${String(said.streams)} stream(s); ` +
+    `${String(said.busy)} whose turn did not come\n`
+  )
+}
+
+function turned(): Promise<undefined> {
+  return new Promise((go) => {
+    setImmediate(go)
+  })
+}
+
+export async function sweepRecords(argv: readonly string[]): Promise<number> {
   const root = rootFor(resolveRoots(), AKASHA)
   const streams = streamsIn(root, existingIn(root))
   if (!argv.includes("--remove")) {
@@ -314,23 +345,31 @@ export function sweepRecords(argv: readonly string[]): number {
   let dropped = 0
   let swept = 0
   let busy = 0
+  let reached = 0
+  let stopping = false
+  const heard = (): undefined => {
+    stopping = true
+  }
+  process.on(TOLD_TO_STOP, heard)
   for (const one of streams) {
     let took = 0
     try {
       took = sweptStream(root, one, now)
     } catch {
       busy += 1
-      continue
     }
-    if (took === 0) continue
-    dropped += took
-    swept += 1
+    if (took > 0) {
+      dropped += took
+      swept += 1
+    }
+    reached += 1
+    await turned()
+    if (stopping) break
   }
-  process.stderr.write(
-    `dropped ${String(dropped)} line(s) past the window from ${String(swept)} of ` +
-      `${String(streams.length)} stream(s); ${String(busy)} whose turn did not come\n`
-  )
-  return 0
+  process.off(TOLD_TO_STOP, heard)
+  const said = { dropped, swept, streams: streams.length, busy, reached: stopping ? reached : null }
+  process.stderr.write(reportOf(said))
+  return stopping ? STOPPED_EXIT : 0
 }
 
-if (import.meta.main) process.exit(sweepRecords(process.argv.slice(2)))
+if (import.meta.main) process.exit(await sweepRecords(process.argv.slice(2)))

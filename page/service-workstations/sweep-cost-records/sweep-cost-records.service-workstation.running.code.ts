@@ -2,7 +2,7 @@ import { sweepRecords } from "akasha/page/modules/record-sweeping/record-sweepin
 
 const REMOVE = "--remove"
 
-export function runService(): undefined {
-  const code = sweepRecords([REMOVE])
+export async function runService(): Promise<undefined> {
+  const code = await sweepRecords([REMOVE])
   if (code !== 0) process.exit(code)
 }

@@ -3,6 +3,7 @@ import type { Reading } from "akasha/page/index/modules/shape/index-shape.module
 import {
   keptFrom,
   packed,
+  reportOf,
   sectionsOfType,
   streamsIn,
   streamThere,
@@ -196,4 +197,17 @@ test("lines within the ceiling pack into one part", () => {
 test("a line is measured by the bytes it takes rather than by the characters it spells", () => {
   expect(packed("ααα\nααα\n", 14)).toEqual(["ααα\nααα\n"])
   expect(packed("ααα\nααα\n", 13)).toEqual(["ααα\n", "ααα\n"])
+})
+
+test("a sweep that reached every stream reports what it dropped and says nothing of a stop", () => {
+  expect(reportOf({ dropped: 12, swept: 3, streams: 9, busy: 1, reached: null })).toBe(
+    "dropped 12 line(s) past the window from 3 of 9 stream(s); 1 whose turn did not come\n"
+  )
+})
+
+test("a sweep told to stop says where it got to, so a partial run reads as no full sweep", () => {
+  expect(reportOf({ dropped: 12, swept: 3, streams: 9, busy: 1, reached: 4 })).toBe(
+    "told to stop at 4 of 9 stream(s), so lines past the window are still there — " +
+      "dropped 12 line(s) past the window from 3 of 9 stream(s); 1 whose turn did not come\n"
+  )
 })

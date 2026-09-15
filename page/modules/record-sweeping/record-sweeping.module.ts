@@ -106,5 +106,21 @@ export const recordSweeping = {
       decisionKind: "decision-kind/departure",
       statement: "A stream whose turn does not come is left as that stream is and counted.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sweep takes a turn between streams, which is what lets it hear a stop.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sweep told to stop finishes the stream it holds and reaches no further one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sweep told to stop says which stream it got to and refuses.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The refusal is an exit code the unit does not count as success.",
+    },
   ],
 } as const satisfies Module

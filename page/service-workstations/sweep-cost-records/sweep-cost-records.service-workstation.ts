@@ -11,4 +11,19 @@ export const sweepCostRecords = {
     jitterSeconds: 600,
     startTimeoutSeconds: 900,
   },
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run of this service stopped partway is a refusal rather than a run that is done.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The sweep hears the stop itself, because the unit reads a stop alone as success.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The memory reaper stops what it takes before killing it, which is what is heard.",
+    },
+  ],
 } as const satisfies ServiceWorkstation
