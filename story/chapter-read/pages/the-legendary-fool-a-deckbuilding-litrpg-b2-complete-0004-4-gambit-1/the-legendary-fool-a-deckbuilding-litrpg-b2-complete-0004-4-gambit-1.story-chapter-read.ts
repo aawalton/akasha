@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete00044Gambit1 = {
   id: "01a06730-4e2b-7185-a056-6c236452ac6c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0004-4-gambit-1",
   title: "4: Gambit (1)",
   story: "story-read/the-legendary-fool-a-deckbuilding-litrpg-b2-complete",

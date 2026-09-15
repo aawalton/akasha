@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0022Chapter22DraconoidVsBird = {
   id: "01a06730-4fde-73ea-8279-42f67aa56ca1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0022-chapter-22-draconoid-vs-bird",
   title: "Chapter 22 – Draconoid vs Bird",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

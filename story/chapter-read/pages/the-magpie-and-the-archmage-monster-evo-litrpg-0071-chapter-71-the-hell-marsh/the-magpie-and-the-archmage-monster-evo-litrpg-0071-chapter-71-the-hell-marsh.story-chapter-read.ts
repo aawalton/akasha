@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0071Chapter71TheHellMarsh = {
   id: "01a06730-4fe0-7959-a310-b1fa268ad83e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0071-chapter-71-the-hell-marsh",
   title: "Chapter 71 – The Hell Marsh",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0055Chapter55ForestBeneathTheStone = {
   id: "01a06730-4fdf-76ef-9d04-6720084b803f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0055-chapter-55-forest-beneath-the-stone",
   title: "Chapter 55 – Forest Beneath the Stone",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

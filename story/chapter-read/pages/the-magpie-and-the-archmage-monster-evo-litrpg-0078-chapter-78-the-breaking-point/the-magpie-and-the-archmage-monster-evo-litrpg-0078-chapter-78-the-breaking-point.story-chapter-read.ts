@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0078Chapter78TheBreakingPoint = {
   id: "01a06730-4fe0-7b90-9e9c-1495e93f7bf9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0078-chapter-78-the-breaking-point",
   title: "Chapter 78 – The Breaking Point",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

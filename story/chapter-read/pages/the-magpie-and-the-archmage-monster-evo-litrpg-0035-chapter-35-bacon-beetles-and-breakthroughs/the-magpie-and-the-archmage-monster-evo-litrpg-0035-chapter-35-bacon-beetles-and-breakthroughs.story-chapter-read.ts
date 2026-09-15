@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0035Chapter35BaconBeetlesAndBreakthroughs = {
   id: "01a06730-4fdf-798d-a46b-f679f2bb6ebb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0035-chapter-35-bacon-beetles-and-breakthroughs",
   title: "Chapter 35 – Bacon, Beetles, and Breakthroughs",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

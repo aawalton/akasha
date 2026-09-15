@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0047Chapter47UnauthorizedQuesting = {
   id: "01a06730-4fdf-7491-b26d-8c187689bee0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0047-chapter-47-unauthorized-questing",
   title: "Chapter 47 – Unauthorized Questing",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

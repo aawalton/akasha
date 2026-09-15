@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0062Chapter62BullyingTheSystem = {
   id: "01a06730-4fe0-7ff0-8151-3157f6b49723",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0062-chapter-62-bullying-the-system",
   title: "Chapter 62 – Bullying the System",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

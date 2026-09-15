@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0032Chapter32SecondEvolution = {
   id: "01a06730-4fde-736e-88f3-14d02ccfa12c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0032-chapter-32-second-evolution",
   title: "Chapter 32 – Second Evolution",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete000989IBelieveIHaveAClassToGetTo = {
   id: "01a06730-4e2b-72b8-afac-145a3446efb7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0009-89-i-believe-i-have-a-class-to-get-to",
   title: "89: I believe I have a class to get to",
   story: "story-read/the-legendary-fool-a-deckbuilding-litrpg-b2-complete",

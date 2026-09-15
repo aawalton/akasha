@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0048Chapter48GlowshroomCavern = {
   id: "01a06730-4fdf-7afd-bc9d-489d81d5cead",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0048-chapter-48-glowshroom-cavern",
   title: "Chapter 48 – Glowshroom Cavern",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

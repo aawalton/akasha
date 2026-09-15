@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0033Chapter33WaterNymph = {
   id: "01a06730-4fde-7156-a8d8-fdfb10f891aa",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0033-chapter-33-water-nymph",
   title: "Chapter 33 – Water Nymph",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

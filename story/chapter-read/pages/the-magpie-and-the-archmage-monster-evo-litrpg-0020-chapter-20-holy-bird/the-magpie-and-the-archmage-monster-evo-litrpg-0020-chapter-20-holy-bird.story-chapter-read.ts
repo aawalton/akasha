@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0020Chapter20HolyBird = {
   id: "01a06730-4fde-79bf-a3c3-01d39476c6a6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0020-chapter-20-holy-bird",
   title: "Chapter 20 – Holy Bird",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

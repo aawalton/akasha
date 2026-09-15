@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0027Chapter27BeastInTheMist = {
   id: "01a06730-4fde-7d2b-ac78-f8baef2d077c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0027-chapter-27-beast-in-the-mist",
   title: "Chapter 27 – Beast in the Mist",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

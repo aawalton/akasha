@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0014Chapter14Gnoll = {
   id: "01a06730-4fde-7675-a6f4-850466d589b1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0014-chapter-14-gnoll",
   title: "Chapter 14 – Gnoll",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

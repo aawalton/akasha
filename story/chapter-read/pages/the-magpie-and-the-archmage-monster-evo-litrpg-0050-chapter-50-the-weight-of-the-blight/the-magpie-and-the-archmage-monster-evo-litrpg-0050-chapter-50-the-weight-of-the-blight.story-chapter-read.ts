@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0050Chapter50TheWeightOfTheBlight = {
   id: "01a06730-4fdf-706f-9398-151bb12854e2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0050-chapter-50-the-weight-of-the-blight",
   title: "Chapter 50 – The Weight of the Blight",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

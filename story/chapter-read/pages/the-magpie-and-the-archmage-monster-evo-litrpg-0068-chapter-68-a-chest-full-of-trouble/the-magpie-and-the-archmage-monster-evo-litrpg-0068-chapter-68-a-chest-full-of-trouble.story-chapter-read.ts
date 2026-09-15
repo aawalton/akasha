@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0068Chapter68AChestFullOfTrouble = {
   id: "01a06730-4fe0-72db-8363-e073490016fe",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0068-chapter-68-a-chest-full-of-trouble",
   title: "Chapter 68 – A Chest Full of Trouble",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

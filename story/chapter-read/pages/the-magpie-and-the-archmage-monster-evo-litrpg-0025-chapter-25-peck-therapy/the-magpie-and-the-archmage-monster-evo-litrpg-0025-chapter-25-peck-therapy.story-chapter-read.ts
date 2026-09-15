@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0025Chapter25PeckTherapy = {
   id: "01a06730-4fde-763d-860e-3dedcfa1d2dc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0025-chapter-25-peck-therapy",
   title: "Chapter 25 – Peck Therapy",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

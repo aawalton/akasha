@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete001090ProfessorThomasLowe = {
   id: "01a06730-4e2b-740b-9bd1-42dc72a735db",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0010-90-professor-thomas-lowe",
   title: "90: Professor, Thomas Lowe",
   story: "story-read/the-legendary-fool-a-deckbuilding-litrpg-b2-complete",

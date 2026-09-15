@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0082Chapter82FogOfAbylport = {
   id: "01a06730-4fe0-7e9e-a46e-22d451e5e623",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0082-chapter-82-fog-of-abylport",
   title: "Chapter 82 – Fog of Abylport",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

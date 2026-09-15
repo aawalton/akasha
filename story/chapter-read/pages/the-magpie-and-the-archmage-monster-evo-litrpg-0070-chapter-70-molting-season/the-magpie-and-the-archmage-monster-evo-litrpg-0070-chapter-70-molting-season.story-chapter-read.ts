@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0070Chapter70MoltingSeason = {
   id: "01a06730-4fe0-77f2-983e-37c68c23ac14",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0070-chapter-70-molting-season",
   title: "Chapter 70 – Molting Season",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

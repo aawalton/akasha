@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete000787ImpromptuBattle = {
   id: "01a06730-4e2b-7974-9d5b-87636bf94b73",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0007-87-impromptu-battle",
   title: "87: Impromptu Battle",
   story: "story-read/the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
