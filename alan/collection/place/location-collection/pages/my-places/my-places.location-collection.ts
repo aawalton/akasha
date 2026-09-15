@@ -2,7 +2,7 @@ import type { LocationCollection } from "akasha/alan/collection/place/location-c
 
 export const myPlaces = {
   id: "019f1590-46da-7b16-a9ef-e8e25c2f7712",
-  type: "location-collection",
+  type: "page-type/location-collection",
   slug: "my-places",
   title: "My Places",
   locationCollectionDescription: "txt",
