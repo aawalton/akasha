@@ -50,7 +50,7 @@ export const modelTest = {
     },
   ],
   name: "test",
-  timeout: 1800,
+  maxWallSeconds: 1800,
   arguments: [
     { argument: "argument/json" },
     { argument: "argument/model-test", required: true, saidAs: "word" },

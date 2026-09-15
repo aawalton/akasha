@@ -4,7 +4,7 @@ export const timeout = {
   id: "01a0820f-feb2-79e4-8435-06a161f3c6ab",
   type: "number-property",
   slug: "timeout",
-  propertySlug: "timeout",
+  propertySlug: "max-wall-seconds",
   definition: "how many seconds a command may run before the call is stopped",
   nullable: true,
   max: null,

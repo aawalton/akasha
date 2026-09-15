@@ -8,7 +8,7 @@ export const deploy = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  timeout: 600,
+  maxWallSeconds: 600,
   parts: [
     "module/deploy-addon-installing",
     "module/deploy-bundle-publishing",

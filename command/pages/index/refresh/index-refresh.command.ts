@@ -7,7 +7,7 @@ export const indexRefresh = {
   definition: "the command repairing the index against the pages the repository has",
   code: "ts",
   test: "ts",
-  timeout: 600,
+  maxWallSeconds: 600,
   invariants: [
     {
       invariantKind: "invariant-kind/absence",

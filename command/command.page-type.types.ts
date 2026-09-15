@@ -4,7 +4,7 @@ import type { LevelName } from "akasha/command/properties/level-name.text-proper
 import type { Timeout } from "akasha/command/properties/timeout.number-property.types.ts"
 
 export type Command = Module & {
-  timeout?: Timeout
+  maxWallSeconds?: Timeout
   name?: LevelName
   arguments?: CommandArguments
 }

@@ -137,8 +137,8 @@ test("a command's ceiling is the seconds its page allows, and blank where its pa
   const root = rootFor()
   rowsInto(root, INDEX_AT, [{ runId: ONE, ran: "index" }])
   rowsInto(root, READ_AT, [{ runId: TWO, ran: "read" }])
-  commandFiled(root, "index", { timeout: 600 })
-  commandFiled(root, "read", { timeout: null })
+  commandFiled(root, "index", { maxWallSeconds: 600 })
+  commandFiled(root, "read", { maxWallSeconds: null })
   const costs = costsIn(root, NOW, DAY_BACK)
 
   expect(costs.checks.find((one) => one.check === "index")?.limits.wall).toBe(600)

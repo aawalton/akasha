@@ -7,7 +7,7 @@ export const changeDraft = {
   definition: "the command answering one change and keeping its edits rather than landing them",
   code: "ts",
   test: "ts",
-  timeout: 300,
+  maxWallSeconds: 300,
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

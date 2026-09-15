@@ -1,4 +1,4 @@
-const TIMEOUT = "timeout"
+const ALLOWED_SECONDS = "maxWallSeconds"
 
 const SECONDS = 1000
 
@@ -25,7 +25,7 @@ function holder(): Holder {
 }
 
 export function secondsIn(page: Record<string, unknown> | null): number | null {
-  const said = page === null ? undefined : page[TIMEOUT]
+  const said = page === null ? undefined : page[ALLOWED_SECONDS]
   if (said === null) return null
   return typeof said === "number" && said > 0 ? said : ALLOWED
 }

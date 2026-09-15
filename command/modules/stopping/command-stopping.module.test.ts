@@ -15,7 +15,7 @@ const NAMED = "akasha one"
 const SECOND = 1000
 
 test("the seconds a command is allowed are read off that command's own page", () => {
-  expect(secondsIn({ timeout: 5 })).toBe(5)
+  expect(secondsIn({ maxWallSeconds: 5 })).toBe(5)
 })
 
 test("a page stating no seconds is allowed the seconds this module names", () => {
@@ -24,13 +24,13 @@ test("a page stating no seconds is allowed the seconds this module names", () =>
 })
 
 test("a page stating seconds that are neither null nor a number above nothing is allowed the same", () => {
-  expect(secondsIn({ timeout: "5" })).toBe(ALLOWED)
-  expect(secondsIn({ timeout: 0 })).toBe(ALLOWED)
-  expect(secondsIn({ timeout: -1 })).toBe(ALLOWED)
+  expect(secondsIn({ maxWallSeconds: "5" })).toBe(ALLOWED)
+  expect(secondsIn({ maxWallSeconds: 0 })).toBe(ALLOWED)
+  expect(secondsIn({ maxWallSeconds: -1 })).toBe(ALLOWED)
 })
 
 test("a page stating null for its seconds runs under no ceiling", () => {
-  expect(secondsIn({ timeout: null })).toBe(null)
+  expect(secondsIn({ maxWallSeconds: null })).toBe(null)
 })
 
 test("the watch counts the seconds it was allowed as milliseconds", () => {
@@ -114,7 +114,7 @@ type Ran = {
 async function ranOf(stated: string): Promise<Ran> {
   const source =
     `const { secondsIn, watching } = await import(${JSON.stringify(CODE)})\n` +
-    `watching(secondsIn({ timeout: ${stated} }), ${JSON.stringify(NAMED)})\n` +
+    `watching(secondsIn({ maxWallSeconds: ${stated} }), ${JSON.stringify(NAMED)})\n` +
     `await Bun.sleep(${SECOND * 2})\n` +
     `console.log(${JSON.stringify(THROUGH)})\n`
   const kid = Bun.spawn(["bun", "-e", source], { stdin: "ignore", stdout: "pipe", stderr: "pipe" })

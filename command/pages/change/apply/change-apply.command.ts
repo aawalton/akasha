@@ -7,7 +7,7 @@ export const changeApply = {
   definition: "the command landing every edit kept, answering one change first where one is named",
   code: "ts",
   test: "ts",
-  timeout: 900,
+  maxWallSeconds: 900,
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

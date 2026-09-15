@@ -9,7 +9,7 @@ export const audit = {
   code: "ts",
   test: "ts",
 
-  timeout: null,
+  maxWallSeconds: null,
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
