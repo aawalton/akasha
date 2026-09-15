@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The check passes over a value a runner reaches by path rather than by import.",
       workingMemory:
-        "Spared by name: the route names React Router reaches, lualib `lua-export`, computed `work`, guard `runGuard`, service `runService`, manifest `BUILD_ENV`, performance `measured`, generator `generateTypes` and `couldTurn`, tunnel `routes`, rule `mark`, shape `HOLDS`, model test `asking` and `keeping`, `bodyIn` in a group the index says writes a file. The name a page's slug makes is spared in its code where the index says that type names a loader; a check and a model test keep it by hand.",
+        "Spared by name: the route names React Router reaches, lualib `lua-export`, computed `work`, service `runService`, manifest `BUILD_ENV`, performance `measured`, generator `generateTypes` and `couldTurn`, tunnel `routes`, rule `mark`, shape `HOLDS`, model test `asking` and `keeping`, `bodyIn` in a group the index says writes a file. The name a page's slug makes is spared in its code where the index says that type names a loader; a check and a model test keep it by hand.",
     },
     {
       statement: "No module exports a value nothing names.",
