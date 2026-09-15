@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const readingAFilePropertyWithoutFilesAnswersTheEndingAndReadsAsUnset = {
   id: "01a08279-b0b0-7829-8656-8a20ed7ced07",
-  type: "finding",
+  type: "page-type/finding",
   slug: "reading-a-file-property-without-files-answers-the-ending-and-reads-as-unset",
   domain: "service-workstation/page-service",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theStoplightTypeNamesHabitWhileTheInboxesFeedSendsInbox = {
   id: "01a0826d-707a-7c4a-a803-99c6bfa00637",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-stoplight-type-names-habit-while-the-inboxes-feed-sends-inbox",
   domain: "page-type/readout",
   claim:

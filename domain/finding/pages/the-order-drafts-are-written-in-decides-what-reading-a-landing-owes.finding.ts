@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theOrderDraftsAreWrittenInDecidesWhatReadingALandingOwes = {
   id: "01a0882d-265d-70bc-a4d3-dc8e739cd0e9",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-order-drafts-are-written-in-decides-what-reading-a-landing-owes",
   domain: "domain/required-reading",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const usedEvCriteriaUnlisted = {
   id: "01a06555-9f3f-7c1c-9393-33cae2b79328",
-  type: "finding",
+  type: "page-type/finding",
   slug: "used-ev-criteria-unlisted",
   domain: "domain/all-about-alan",
   claim:

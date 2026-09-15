@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const oneReadoutTakeThatThrowsKillsTheOtherElevenMidFlight = {
   id: "01a08c9e-62f7-7a91-bb2b-869a713aa7e6",
-  type: "finding",
+  type: "page-type/finding",
   slug: "one-readout-take-that-throws-kills-the-other-eleven-mid-flight",
   domain: "module/readout-watching",
   claim:

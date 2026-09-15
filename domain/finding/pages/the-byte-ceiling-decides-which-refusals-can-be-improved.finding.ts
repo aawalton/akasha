@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theByteCeilingDecidesWhichRefusalsCanBeImproved = {
   id: "01a095de-6969-7a33-b332-16a71b66618b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-byte-ceiling-decides-which-refusals-can-be-improved",
   domain: "domain/check",
   claim:

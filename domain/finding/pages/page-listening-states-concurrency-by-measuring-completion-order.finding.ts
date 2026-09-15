@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const pageListeningStatesConcurrencyByMeasuringCompletionOrder = {
   id: "01a05d97-6c09-7000-b36d-9171fc5f32c2",
-  type: "finding",
+  type: "page-type/finding",
   slug: "page-listening-states-concurrency-by-measuring-completion-order",
   domain: "service-workstation/page-service",
   claim:

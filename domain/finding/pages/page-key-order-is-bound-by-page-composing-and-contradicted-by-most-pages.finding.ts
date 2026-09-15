@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const pageKeyOrderIsBoundByPageComposingAndContradictedByMostPages = {
   id: "01a08cca-127c-7d7d-9bb3-1dd29c8d3502",
-  type: "finding",
+  type: "page-type/finding",
   slug: "page-key-order-is-bound-by-page-composing-and-contradicted-by-most-pages",
   domain: "service-workstation/page-service",
   claim:

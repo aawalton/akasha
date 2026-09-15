@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theEngineRemovesAnEmptiedFolderAndRefusesTheAgentWhoAsksItTo = {
   id: "01a088a0-1c83-735f-9e38-b9a33b06a767",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-engine-removes-an-emptied-folder-and-refuses-the-agent-who-asks-it-to",
   domain: "page-type/change",
   claim:

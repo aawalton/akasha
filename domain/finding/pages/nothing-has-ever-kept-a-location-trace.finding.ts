@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const nothingHasEverKeptALocationTrace = {
   id: "01a060c1-6704-7000-b68c-9da42e6042d5",
-  type: "finding",
+  type: "page-type/finding",
   slug: "nothing-has-ever-kept-a-location-trace",
   domain: "domain/location-trace-access",
   claim:

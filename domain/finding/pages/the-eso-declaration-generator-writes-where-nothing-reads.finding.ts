@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theEsoDeclarationGeneratorWritesWhereNothingReads = {
   id: "01a081a9-5ff3-7673-9322-73112d9446c5",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-eso-declaration-generator-writes-where-nothing-reads",
   domain: "domain/temper-eso-declaration",
   claim:

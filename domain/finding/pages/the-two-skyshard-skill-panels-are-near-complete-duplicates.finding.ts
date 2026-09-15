@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theTwoSkyshardSkillPanelsAreNearCompleteDuplicates = {
   id: "01a06c31-1b01-7000-b602-000000000002",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-two-skyshard-skill-panels-are-near-complete-duplicates",
   domain: "domain/temper",
   claim:

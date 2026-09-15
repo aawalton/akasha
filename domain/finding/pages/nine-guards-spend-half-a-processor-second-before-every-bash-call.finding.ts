@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const nineGuardsSpendHalfAProcessorSecondBeforeEveryBashCall = {
   id: "01a09226-248e-7ea0-963f-b366cb16dbf1",
-  type: "finding",
+  type: "page-type/finding",
   slug: "nine-guards-spend-half-a-processor-second-before-every-bash-call",
   domain: "domain/cpu-limit",
   claim:

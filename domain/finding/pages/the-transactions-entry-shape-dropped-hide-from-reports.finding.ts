@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theTransactionsEntryShapeDroppedHideFromReports = {
   id: "01a0675e-6da8-7001-b504-77a1c9e27440",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-transactions-entry-shape-dropped-hide-from-reports",
   domain: "domain/monarch",
   claim:

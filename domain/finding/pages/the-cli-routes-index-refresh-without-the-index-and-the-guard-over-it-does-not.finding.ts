@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theCliRoutesIndexRefreshWithoutTheIndexAndTheGuardOverItDoesNot = {
   id: "01a09b41-d132-74fb-8dff-0541d5071b02",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-cli-routes-index-refresh-without-the-index-and-the-guard-over-it-does-not",
   domain: "domain/hook",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const temperProgressNamesNoManifestSoItsReadoutCodeIsUnreachable = {
   id: "01a06230-b156-7bba-923f-09fa6e74fced",
-  type: "finding",
+  type: "page-type/finding",
   slug: "temper-progress-names-no-manifest-so-its-readout-code-is-unreachable",
   domain: "domain/temper-progress",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const serviceWatchingSharesOneLaunchPathWithEveryServiceItReportsOn = {
   id: "01a09b1d-8727-706c-a3dc-317ca8272682",
-  type: "finding",
+  type: "page-type/finding",
   slug: "service-watching-shares-one-launch-path-with-every-service-it-reports-on",
   domain: "page-type/service",
   evidence:

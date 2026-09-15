@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theCommandsPagesFolderIsWrittenByNothingAndRefusedByNothing = {
   id: "01a09c5d-c802-7dda-b708-852e90e767f9",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-commands-pages-folder-is-written-by-nothing-and-refused-by-nothing",
   domain: "page-type/command",
   claim:

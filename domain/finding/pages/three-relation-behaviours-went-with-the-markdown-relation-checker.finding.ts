@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const threeRelationBehavioursWentWithTheMarkdownRelationChecker = {
   id: "01a06864-c80e-798f-be3c-b4247c4cdb48",
-  type: "finding",
+  type: "page-type/finding",
   slug: "three-relation-behaviours-went-with-the-markdown-relation-checker",
   domain: "page-type/page",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theChangeThatWouldPayForARunPerTestFileIsRare = {
   id: "01a0922b-91b8-722a-b47d-a1aed9dce859",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-change-that-would-pay-for-a-run-per-test-file-is-rare",
   domain: "domain/cpu-limit",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theRootTsconfigNamesNoFileAndTheHookGuardingItStillSaysThatRunExitsZero = {
   id: "01a07323-840d-765e-b236-257f922a0d2e",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-root-tsconfig-names-no-file-and-the-hook-guarding-it-still-says-that-run-exits-zero",
   domain: "domain/code",
   claim:

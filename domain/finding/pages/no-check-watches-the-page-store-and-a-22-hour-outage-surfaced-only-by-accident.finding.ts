@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const noCheckWatchesThePageStoreAndA22HourOutageSurfacedOnlyByAccident = {
   id: "01a09622-3d9e-7e51-8a87-6713f2f99b65",
-  type: "finding",
+  type: "page-type/finding",
   slug: "no-check-watches-the-page-store-and-a-22-hour-outage-surfaced-only-by-accident",
   domain: "service-workstation/page-service",
   claim:

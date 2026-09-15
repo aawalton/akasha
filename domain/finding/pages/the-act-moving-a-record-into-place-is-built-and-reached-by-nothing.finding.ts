@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theActMovingARecordIntoPlaceIsBuiltAndReachedByNothing = {
   id: "01a09522-2f78-79d4-a9c9-1b03d84eab85",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-act-moving-a-record-into-place-is-built-and-reached-by-nothing",
   domain: "page-type/change",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const nothingChecksThatAServiceReachesItsOwnPageBySlug = {
   id: "01a076d0-6388-76ee-a590-c8dc854e251d",
-  type: "finding",
+  type: "page-type/finding",
   slug: "nothing-checks-that-a-service-reaches-its-own-page-by-slug",
   domain: "page-type/service",
   claim:

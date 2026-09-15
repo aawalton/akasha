@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const moveCodeExportCarriesTheImportsADeclarationNamesAndNotTheSiblingsItNames = {
   id: "01a08cbf-bb93-7c32-b7ca-04142ca15a28",
-  type: "finding",
+  type: "page-type/finding",
   slug: "move-code-export-carries-the-imports-a-declaration-names-and-not-the-siblings-it-names",
   domain: "page-type/change",
   claim:

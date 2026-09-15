@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const oneAsJsonNowStandsBehindASoundCastAndAnUncheckedOne = {
   id: "01a05ccc-36f0-7adc-a935-fb95531828b9",
-  type: "finding",
+  type: "page-type/finding",
   slug: "one-as-json-now-stands-behind-a-sound-cast-and-an-unchecked-one",
   domain: "domain/page-core",
   claim:

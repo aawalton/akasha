@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const primingGuardsTheFirstCaptureRatherThanTheFirstAfterAGap = {
   id: "01a063cd-1318-796f-98f0-77f3b1df83a2",
-  type: "finding",
+  type: "page-type/finding",
   slug: "priming-guards-the-first-capture-rather-than-the-first-after-a-gap",
   domain: "domain/music-listening",
   claim:

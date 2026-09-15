@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const thirteenFlatPagesFoldersNeedPerPageFoldersAndThreeMoreOnlyLookAsThoughTheyDo = {
   id: "01a0887c-f198-7151-bd0b-37845f3e4e87",
-  type: "finding",
+  type: "page-type/finding",
   slug: "thirteen-flat-pages-folders-need-per-page-folders-and-three-more-only-look-as-though-they-do",
   domain: "check-code/folder-matches-a-shape",
   claim:

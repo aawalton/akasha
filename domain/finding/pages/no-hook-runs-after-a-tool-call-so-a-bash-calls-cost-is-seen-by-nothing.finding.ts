@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const noHookRunsAfterAToolCallSoABashCallsCostIsSeenByNothing = {
   id: "01a0920f-814c-7355-bee6-5ddf829587d4",
-  type: "finding",
+  type: "page-type/finding",
   slug: "no-hook-runs-after-a-tool-call-so-a-bash-calls-cost-is-seen-by-nothing",
   domain: "domain/cpu-limit",
   claim:

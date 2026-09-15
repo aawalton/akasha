@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theOneModuleBuiltSoAnotherProcessCouldFindALandingIsImportedByNothing = {
   id: "01a09671-adba-7172-88bb-0f91057136f3",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-one-module-built-so-another-process-could-find-a-landing-is-imported-by-nothing",
   domain: "page-type/page",
   claim:

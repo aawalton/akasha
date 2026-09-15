@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const noLiveSupervisorMatchesTheSupervisorPredicate = {
   id: "01a07371-81f2-77cf-b789-528e4fdabbd0",
-  type: "finding",
+  type: "page-type/finding",
   slug: "no-live-supervisor-matches-the-supervisor-predicate",
   domain: "domain/seat-supervisor",
 

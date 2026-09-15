@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const oneHundredAndTwentySixAlertFilesDescribeAlertsNothingCanFire = {
   id: "01a0655a-5fb1-7298-b1e8-62b8380ab1d2",
-  type: "finding",
+  type: "page-type/finding",
   slug: "one-hundred-and-twenty-six-alert-files-describe-alerts-nothing-can-fire",
   domain: "page-type/alert",
   claim:

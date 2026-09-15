@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const partsAdmitsOnlyADomainSoAPageTypeCannotDeclareItsOwnPages = {
   id: "01a08807-80b5-7353-b324-c89868fd4333",
-  type: "finding",
+  type: "page-type/finding",
   slug: "parts-admits-only-a-domain-so-a-page-type-cannot-declare-its-own-pages",
   domain: "relation-property/parts",
   claim:

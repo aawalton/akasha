@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theCostRecordsHoldTwoHundredMegabytesAndNothingSweepsThem = {
   id: "01a0922e-c5a4-7166-8083-3a1ce27450e9",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-cost-records-hold-two-hundred-megabytes-and-nothing-sweeps-them",
   domain: "domain/storage",
   claim:

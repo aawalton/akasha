@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const upscaleOnTheClusterNamesAnImageTagTheRegistryNeverGot = {
   id: "01a0961b-78bc-7601-bc92-4d1119bfdd45",
-  type: "finding",
+  type: "page-type/finding",
   slug: "upscale-on-the-cluster-names-an-image-tag-the-registry-never-got",
   domain: "domain/upscale",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theNoSignalRuleIsKeptAtTheReaderAndUnsayableAtTheWriter = {
   id: "01a0676a-4d21-7b3c-9e08-4f2a1c7db550",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-no-signal-rule-is-kept-at-the-reader-and-unsayable-at-the-writer",
   domain: "domain/track-daily",
   claim:

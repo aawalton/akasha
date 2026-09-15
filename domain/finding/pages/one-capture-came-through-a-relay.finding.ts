@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const oneCaptureCameThroughARelay = {
   id: "01a06555-9f3e-797a-ad90-2909b68006ab",
-  type: "finding",
+  type: "page-type/finding",
   slug: "one-capture-came-through-a-relay",
   domain: "domain/all-about-alan",
   claim:

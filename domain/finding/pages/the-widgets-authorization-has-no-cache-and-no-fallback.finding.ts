@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theWidgetsAuthorizationHasNoCacheAndNoFallback = {
   id: "01a05d5b-2c40-7b17-9e42-8a3c61f04d72",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-widgets-authorization-has-no-cache-and-no-fallback",
   domain: "ios-app/alanwalton",
   claim:

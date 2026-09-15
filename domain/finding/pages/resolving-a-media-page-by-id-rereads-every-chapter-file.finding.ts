@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const resolvingAMediaPageByIdRereadsEveryChapterFile = {
   id: "01a05cf4-03d5-76f2-b8eb-e70319d85a54",
-  type: "finding",
+  type: "page-type/finding",
   slug: "resolving-a-media-page-by-id-rereads-every-chapter-file",
   domain: "domain/page-access",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const nothingAssertsAScratchWorldIsCoherent = {
   id: "01a09689-e95a-74c7-adcf-f655afb911ff",
-  type: "finding",
+  type: "page-type/finding",
   slug: "nothing-asserts-a-scratch-world-is-coherent",
   domain: "domain/test",
   claim:

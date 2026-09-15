@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const whichChecksSeeAMechanicalLandingDependsOnWhenItArrivesInTheAuditWindow = {
   id: "01a09579-3bad-7a65-8b31-a694cb720585",
-  type: "finding",
+  type: "page-type/finding",
   slug: "which-checks-see-a-mechanical-landing-depends-on-when-it-arrives-in-the-audit-window",
   domain: "domain/check",
   claim:

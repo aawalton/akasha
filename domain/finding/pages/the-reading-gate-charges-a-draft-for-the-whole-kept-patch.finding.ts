@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theReadingGateChargesADraftForTheWholeKeptPatch = {
   id: "01a0835c-d5ce-7472-a955-d2585332689d",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-reading-gate-charges-a-draft-for-the-whole-kept-patch",
   domain: "domain/required-reading",
   claim:

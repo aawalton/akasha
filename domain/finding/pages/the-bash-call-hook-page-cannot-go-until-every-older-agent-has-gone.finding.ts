@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theBashCallHookPageCannotGoUntilEveryOlderAgentHasGone = {
   id: "01a0960d-1ce9-79ef-97ef-9e9430501237",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-bash-call-hook-page-cannot-go-until-every-older-agent-has-gone",
   domain: "page-type/agent",
   claim:

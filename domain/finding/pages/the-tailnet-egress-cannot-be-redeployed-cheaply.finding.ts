@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theTailnetEgressCannotBeRedeployedCheaply = {
   id: "01a05abf-bf21-7bd3-93e0-e09306a52a3b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-tailnet-egress-cannot-be-redeployed-cheaply",
   domain: "page-type/service-cluster",
   claim:

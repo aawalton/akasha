@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const noMemoryLimitTheWorkstationHoldsIsAPageProperty = {
   id: "01a09183-0019-70d5-a5f9-f17677ae1b79",
-  type: "finding",
+  type: "page-type/finding",
   slug: "no-memory-limit-the-workstation-holds-is-a-page-property",
   domain: "domain/memory-limit",
   claim:

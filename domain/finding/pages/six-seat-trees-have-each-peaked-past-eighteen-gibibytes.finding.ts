@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const sixSeatTreesHaveEachPeakedPastEighteenGibibytes = {
   id: "01a09165-a9ab-76bf-9315-52c26619fe21",
-  type: "finding",
+  type: "page-type/finding",
   slug: "six-seat-trees-have-each-peaked-past-eighteen-gibibytes",
   domain: "domain/memory-limit",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theChurnFilterRestsOnAPathNamingOneOfManyBrokenFiles = {
   id: "01a0a1c9-0304-79d8-aa2c-e6995e0c1bfa",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-churn-filter-rests-on-a-path-naming-one-of-many-broken-files",
   domain: "domain/check",
   claim:

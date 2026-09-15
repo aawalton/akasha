@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theLandingLockRaceStarvesTheUnluckiestCallerUnderSaturation = {
   id: "01a06556-142b-7221-bffd-1449f1536cbe",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-landing-lock-race-starves-the-unluckiest-caller-under-saturation",
   domain: "page-type/change",
   claim:

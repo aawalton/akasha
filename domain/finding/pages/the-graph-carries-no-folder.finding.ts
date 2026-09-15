@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theGraphCarriesNoFolder = {
   id: "01a05047-6045-7290-9b78-252f18c4e51b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-graph-carries-no-folder",
   domain: "domain/graph",
   claim:

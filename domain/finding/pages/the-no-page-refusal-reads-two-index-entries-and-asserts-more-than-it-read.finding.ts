@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theNoPageRefusalReadsTwoIndexEntriesAndAssertsMoreThanItRead = {
   id: "01a09635-8758-7ba1-be72-bdf7c15420bf",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-no-page-refusal-reads-two-index-entries-and-asserts-more-than-it-read",
   domain: "page-type/seat",
   claim:

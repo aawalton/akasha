@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const mostWaysIntoPagesUiComponentsAreTakenOnlyFromInside = {
   id: "01a06243-3095-710f-bb2f-2d677b6ae0d8",
-  type: "finding",
+  type: "page-type/finding",
   slug: "most-ways-into-pages-ui-components-are-taken-only-from-inside",
   domain: "domain/page-ui-component",
   claim:

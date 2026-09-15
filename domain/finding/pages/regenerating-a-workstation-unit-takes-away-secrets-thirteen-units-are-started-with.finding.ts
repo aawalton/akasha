@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const regeneratingAWorkstationUnitTakesAwaySecretsThirteenUnitsAreStartedWith = {
   id: "01a0696a-b614-7a13-b7ee-59739dc8f91c",
-  type: "finding",
+  type: "page-type/finding",
   slug: "regenerating-a-workstation-unit-takes-away-secrets-thirteen-units-are-started-with",
   domain: "page-type/service",
   claim:

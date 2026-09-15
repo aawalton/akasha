@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theByteCeilingForcesTheDivisionThatCorruptsAGeneratedTable = {
   id: "01a060ac-e099-77f1-9fb4-e6519a662b0a",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-byte-ceiling-forces-the-division-that-corrupts-a-generated-table",
   domain: "domain/code",
   claim:

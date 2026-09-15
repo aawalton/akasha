@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theReadRecordSaysABodyWasSentNeverThatABodyArrived = {
   id: "01a061ef-9538-7000-aeee-95f0cd57fa5c",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-read-record-says-a-body-was-sent-never-that-a-body-arrived",
   domain: "domain/required-reading",
   claim:

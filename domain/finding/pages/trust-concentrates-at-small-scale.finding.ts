@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const trustConcentratesAtSmallScale = {
   id: "01a06555-9f3f-79ff-a04c-fe54e50c6187",
-  type: "finding",
+  type: "page-type/finding",
   slug: "trust-concentrates-at-small-scale",
   domain: "domain/all-about-alan",
   claim:

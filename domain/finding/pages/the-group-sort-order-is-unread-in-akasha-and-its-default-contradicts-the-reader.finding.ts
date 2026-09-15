@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theGroupSortOrderIsUnreadInAkashaAndItsDefaultContradictsTheReader = {
   id: "01a0641a-d59b-7c62-8812-dfdd279d6935",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-group-sort-order-is-unread-in-akasha-and-its-default-contradicts-the-reader",
   domain: "page-type/readout",
   claim:

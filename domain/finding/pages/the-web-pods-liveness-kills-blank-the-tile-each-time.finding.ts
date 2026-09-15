@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theWebPodsLivenessKillsBlankTheTileEachTime = {
   id: "01a05e55-75bc-73b7-bc21-39060dfec426",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-web-pods-liveness-kills-blank-the-tile-each-time",
   domain: "service-cluster/alanwalton-web",
   claim:

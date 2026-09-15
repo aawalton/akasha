@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theLandingLockOrdersLandingsAndOrdersNothingAgainstAReader = {
   id: "01a09668-a953-7a56-945c-a6451736b541",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-landing-lock-orders-landings-and-orders-nothing-against-a-reader",
   domain: "domain/git",
   claim:

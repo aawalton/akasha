@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const oneInventoryReadingIsFiledUnderTwoMomentsWithTwoTotals = {
   id: "01a0675d-dda6-7352-b1c5-61ec83c8cb19",
-  type: "finding",
+  type: "page-type/finding",
   slug: "one-inventory-reading-is-filed-under-two-moments-with-two-totals",
   domain: "domain/temper-holdings",
   claim:

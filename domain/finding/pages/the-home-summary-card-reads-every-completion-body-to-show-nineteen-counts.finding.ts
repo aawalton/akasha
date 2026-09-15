@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theHomeSummaryCardReadsEveryCompletionBodyToShowNineteenCounts = {
   id: "01a076d4-25ec-75a9-a5dd-027610a91df4",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-home-summary-card-reads-every-completion-body-to-show-nineteen-counts",
   domain: "router-app/temper-web",
   claim:

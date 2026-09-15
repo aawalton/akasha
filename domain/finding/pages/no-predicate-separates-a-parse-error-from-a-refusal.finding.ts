@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const noPredicateSeparatesAParseErrorFromARefusal = {
   id: "01a073da-e0e6-7fab-a025-66898b63a03a",
-  type: "finding",
+  type: "page-type/finding",
   slug: "no-predicate-separates-a-parse-error-from-a-refusal",
   domain: "domain/plain-language",
   claim:

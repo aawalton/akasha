@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const oneFreshnessRefusalCoversAStaleRecordAndAPartialReadAndNamesOnlyOne = {
   id: "01a068f5-7f47-7ff0-bebd-59b45ef78c63",
-  type: "finding",
+  type: "page-type/finding",
   slug: "one-freshness-refusal-covers-a-stale-record-and-a-partial-read-and-names-only-one",
   domain: "domain/required-reading",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const oneRefusalCoversEveryRedTestFileAndOnlyItsBodyNamesThem = {
   id: "01a09688-2688-78d8-ac80-2771d5331212",
-  type: "finding",
+  type: "page-type/finding",
   slug: "one-refusal-covers-every-red-test-file-and-only-its-body-names-them",
   domain: "domain/check",
   claim:

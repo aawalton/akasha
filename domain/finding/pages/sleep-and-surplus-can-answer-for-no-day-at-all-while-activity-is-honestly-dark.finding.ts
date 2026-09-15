@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const sleepAndSurplusCanAnswerForNoDayAtAllWhileActivityIsHonestlyDark = {
   id: "01a069c1-2d21-77cd-9907-b1be775ad279",
-  type: "finding",
+  type: "page-type/finding",
   slug: "sleep-and-surplus-can-answer-for-no-day-at-all-while-activity-is-honestly-dark",
   domain: "domain/alan-readout",
   claim:

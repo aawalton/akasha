@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const whetherAGrowingFileRollsDependsOnTheKindOfPropertyCarryingIt = {
   id: "01a087eb-5794-7ab8-9be0-9a82fb093616",
-  type: "finding",
+  type: "page-type/finding",
   slug: "whether-a-growing-file-rolls-depends-on-the-kind-of-property-carrying-it",
   domain: "page-type/page",
   claim:

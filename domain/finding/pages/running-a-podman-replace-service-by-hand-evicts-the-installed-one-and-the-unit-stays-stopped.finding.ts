@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const runningAPodmanReplaceServiceByHandEvictsTheInstalledOneAndTheUnitStaysStopped = {
   id: "01a091bd-4ffd-7435-875c-e5862f8ba78c",
-  type: "finding",
+  type: "page-type/finding",
   slug: "running-a-podman-replace-service-by-hand-evicts-the-installed-one-and-the-unit-stays-stopped",
   domain: "page-type/service",
   claim:

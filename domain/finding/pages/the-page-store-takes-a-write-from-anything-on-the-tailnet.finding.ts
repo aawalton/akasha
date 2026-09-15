@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const thePageStoreTakesAWriteFromAnythingOnTheTailnet = {
   id: "01a05aef-b3df-759a-b6d8-394b03016092",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-page-store-takes-a-write-from-anything-on-the-tailnet",
   domain: "page-type/page",
   claim:

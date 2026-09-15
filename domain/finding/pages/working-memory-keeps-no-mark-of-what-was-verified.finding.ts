@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const workingMemoryKeepsNoMarkOfWhatWasVerified = {
   id: "01a08c4c-d366-7217-98f5-79afff984a00",
-  type: "finding",
+  type: "page-type/finding",
   slug: "working-memory-keeps-no-mark-of-what-was-verified",
   domain: "text-property/working-memory",
   claim:

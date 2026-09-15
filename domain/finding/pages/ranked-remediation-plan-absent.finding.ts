@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const rankedRemediationPlanAbsent = {
   id: "01a06555-9f3e-77dd-804a-463563cbac9a",
-  type: "finding",
+  type: "page-type/finding",
   slug: "ranked-remediation-plan-absent",
   domain: "domain/all-about-alan",
   claim:

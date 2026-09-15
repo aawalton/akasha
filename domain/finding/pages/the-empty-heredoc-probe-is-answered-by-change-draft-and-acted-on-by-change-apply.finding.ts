@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theEmptyHeredocProbeIsAnsweredByChangeDraftAndActedOnByChangeApply = {
   id: "01a09669-ab00-7e9a-a75a-e7b84af7e9f4",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-empty-heredoc-probe-is-answered-by-change-draft-and-acted-on-by-change-apply",
   domain: "page-type/command",
   claim:

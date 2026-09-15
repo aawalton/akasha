@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const theFortyEightEsoAddonsArePackagesByThreeMechanismsRatherThanByOneDeclaration = {
   id: "01a08834-91c7-7e6b-8a04-3f9d6e21b57c",
-  type: "finding",
+  type: "page-type/finding",
   slug: "the-forty-eight-eso-addons-are-packages-by-three-mechanisms-rather-than-by-one-declaration",
   domain: "page-type/eso-addon",
   claim:
