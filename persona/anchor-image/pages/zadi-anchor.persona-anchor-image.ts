@@ -2,7 +2,7 @@ import type { PersonaAnchorImage } from "akasha/persona/anchor-image/persona-anc
 
 export const zadiAnchor = {
   id: "019f324d-43ee-7aed-84f9-064a57cb97f7",
-  type: "persona-anchor-image",
+  type: "page-type/persona-anchor-image",
   slug: "zadi-anchor",
   title: "Zadi — anchor",
   persona: "persona/zadi",

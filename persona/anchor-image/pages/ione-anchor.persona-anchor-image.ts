@@ -2,7 +2,7 @@ import type { PersonaAnchorImage } from "akasha/persona/anchor-image/persona-anc
 
 export const ioneAnchor = {
   id: "019f324d-483b-7aa8-8b09-8015890908c9",
-  type: "persona-anchor-image",
+  type: "page-type/persona-anchor-image",
   slug: "ione-anchor",
   title: "Ione — anchor",
   persona: "persona/ione",

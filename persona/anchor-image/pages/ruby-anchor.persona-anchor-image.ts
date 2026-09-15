@@ -2,7 +2,7 @@ import type { PersonaAnchorImage } from "akasha/persona/anchor-image/persona-anc
 
 export const rubyAnchor = {
   id: "019f324d-6ce1-78ae-953e-2af525c890de",
-  type: "persona-anchor-image",
+  type: "page-type/persona-anchor-image",
   slug: "ruby-anchor",
   title: "Ruby — anchor",
   persona: "persona/ruby",

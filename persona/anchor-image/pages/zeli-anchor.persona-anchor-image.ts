@@ -2,7 +2,7 @@ import type { PersonaAnchorImage } from "akasha/persona/anchor-image/persona-anc
 
 export const zeliAnchor = {
   id: "019f324d-45eb-73fa-ab13-e5d6960b6380",
-  type: "persona-anchor-image",
+  type: "page-type/persona-anchor-image",
   slug: "zeli-anchor",
   title: "Zeli — anchor",
   persona: "persona/zeli",

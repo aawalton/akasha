@@ -2,7 +2,7 @@ import type { PersonaAnchorImage } from "akasha/persona/anchor-image/persona-anc
 
 export const theaAnchor = {
   id: "019f324d-8020-7057-a6a4-578e665723fc",
-  type: "persona-anchor-image",
+  type: "page-type/persona-anchor-image",
   slug: "thea-anchor",
   title: "Thea — anchor",
   persona: "persona/thea",
