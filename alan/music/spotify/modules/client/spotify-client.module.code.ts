@@ -2,7 +2,10 @@ import {
   forceRefresh,
   getOAuthAccessToken,
 } from "akasha/alan/music/spotify/modules/auth/spotify-auth.module.code.ts"
-import { fetchSpotify } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
+import {
+  type Fetching,
+  fetchSpotify,
+} from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import { z } from "zod"
 
 const BASE_URL = "https://api.spotify.com/v1"
@@ -85,8 +88,12 @@ export function resolveUrl(endpointOrUrl: string): string {
   return `${BASE_URL}${endpointOrUrl}`
 }
 
-async function performRequest(url: string, options?: RequestOptions): Promise<RawResponse> {
-  const token = await getOAuthAccessToken()
+async function performRequest(
+  url: string,
+  options?: RequestOptions,
+  over: Fetching = fetchSpotify
+): Promise<RawResponse> {
+  const token = await getOAuthAccessToken(over)
   const method = options?.method ?? "GET"
   const hasBody = options?.body !== undefined
   const headers: Record<string, string> = {
@@ -94,7 +101,7 @@ async function performRequest(url: string, options?: RequestOptions): Promise<Ra
     ...(hasBody && { "Content-Type": "application/json" }),
   }
   const body = hasBody ? JSON.stringify(options?.body) : undefined
-  const response = await fetchSpotify(url, { method, headers, ...(hasBody && { body }) })
+  const response = await over(url, { method, headers, ...(hasBody && { body }) })
   return {
     status: response.status,
     headers: response.headers,
@@ -110,10 +117,11 @@ export async function spotifyRequest<T extends z.ZodTypeAny>(
   shape: T,
   options?: RequestOptions,
   authRetries = 0,
-  rateLimitRetries = 0
+  rateLimitRetries = 0,
+  over: Fetching = fetchSpotify
 ): Promise<z.infer<T>> {
   const url = resolveUrl(endpointOrUrl)
-  const result = await enqueue(() => performRequest(url, options))
+  const result = await enqueue(() => performRequest(url, options, over))
 
   if (result.status === 429) {
     const waitMs = retryAfterMs(result.headers.get("Retry-After"))
@@ -131,12 +139,12 @@ export async function spotifyRequest<T extends z.ZodTypeAny>(
       )
     }
     await waiting(waitMs)
-    return spotifyRequest(endpointOrUrl, shape, options, authRetries, rateLimitRetries + 1)
+    return spotifyRequest(endpointOrUrl, shape, options, authRetries, rateLimitRetries + 1, over)
   }
 
   if (result.status === 401 && authRetries < MAX_AUTH_RETRIES) {
-    await forceRefresh()
-    return spotifyRequest(endpointOrUrl, shape, options, authRetries + 1, rateLimitRetries)
+    await forceRefresh(over)
+    return spotifyRequest(endpointOrUrl, shape, options, authRetries + 1, rateLimitRetries, over)
   }
 
   if (result.json === undefined) {
@@ -150,9 +158,10 @@ export async function spotifyRequest<T extends z.ZodTypeAny>(
 
 export function spotifyGet<T extends z.ZodTypeAny>(
   endpointOrUrl: string,
-  shape: T
+  shape: T,
+  over?: Fetching
 ): Promise<z.infer<T>> {
-  return spotifyRequest(endpointOrUrl, shape)
+  return spotifyRequest(endpointOrUrl, shape, undefined, 0, 0, over)
 }
 
 export type OffsetPage<TItem> = {
@@ -236,8 +245,13 @@ async function followPages<TItem>(
 export function paginateOffset<TItem extends z.ZodTypeAny>(
   firstPath: string,
   item: TItem,
-  options: PaginateOptions = {}
+  options: PaginateOptions = {},
+  over?: Fetching
 ): Promise<z.infer<TItem>[]> {
   const shape = offsetPageSchema(item)
-  return followPages<z.infer<TItem>>(firstPath, (path) => spotifyRequest(path, shape), options)
+  return followPages<z.infer<TItem>>(
+    firstPath,
+    (path) => spotifyRequest(path, shape, undefined, 0, 0, over),
+    options
+  )
 }
