@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0144Chapter219MercySPrerequisite = {
   id: "01a06730-4fc8-7be0-b9c9-b5f265eac577",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0144-chapter-219-mercy-s-prerequisite",
   title: "Chapter 219: Mercy’s prerequisite",
   story: "story-read/the-calamitous-bob-stubbed",

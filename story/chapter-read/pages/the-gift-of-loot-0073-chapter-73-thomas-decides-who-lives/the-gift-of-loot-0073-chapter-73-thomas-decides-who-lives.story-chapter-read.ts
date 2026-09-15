@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0073Chapter73ThomasDecidesWhoLives = {
   id: "01a06730-4efb-766e-b5de-e8cc5fa28e75",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0073-chapter-73-thomas-decides-who-lives",
   title: "Chapter 73: Thomas Decides Who Lives",
   story: "story-read/the-gift-of-loot",

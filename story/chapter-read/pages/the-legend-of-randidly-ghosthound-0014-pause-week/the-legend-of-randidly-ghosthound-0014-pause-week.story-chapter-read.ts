@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theLegendOfRandidlyGhosthound0014PauseWeek = {
   id: "01a06730-4e06-713b-98b8-21e8bd85d589",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-legend-of-randidly-ghosthound-0014-pause-week",
   title: "Pause Week",
   story: "story-read/the-legend-of-randidly-ghosthound",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0164NewspapersExtractsFromTheHarrakanGazette127YearsAfte = {
   id: "01a06730-4fdd-79e8-a52c-ff222d51acd4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0164-newspapers-extracts-from-the-harrakan-gazette-127-years-afte",
   title: "Newspapers extracts from the ‘Harrakan Gazette’, 127 years after the rise of New Harrak.",
   story: "story-read/the-calamitous-bob-stubbed",

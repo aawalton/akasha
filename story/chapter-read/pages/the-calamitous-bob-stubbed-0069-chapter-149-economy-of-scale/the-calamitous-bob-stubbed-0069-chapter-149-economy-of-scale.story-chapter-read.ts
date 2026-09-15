@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0069Chapter149EconomyOfScale = {
   id: "01a06730-4f76-76e8-a404-3d7c3c30d805",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0069-chapter-149-economy-of-scale",
   title: "Chapter 149: Economy of Scale",
   story: "story-read/the-calamitous-bob-stubbed",

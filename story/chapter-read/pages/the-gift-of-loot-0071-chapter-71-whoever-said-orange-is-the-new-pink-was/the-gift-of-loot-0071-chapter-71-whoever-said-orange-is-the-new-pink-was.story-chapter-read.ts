@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0071Chapter71WhoeverSaidOrangeIsTheNewPinkWas = {
   id: "01a06730-4efa-7239-bbbf-d4deb669cade",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0071-chapter-71-whoever-said-orange-is-the-new-pink-was",
   title: "Chapter 71: Whoever Said Orange Is The New Pink Was Seriously Disturbed",
   story: "story-read/the-gift-of-loot",

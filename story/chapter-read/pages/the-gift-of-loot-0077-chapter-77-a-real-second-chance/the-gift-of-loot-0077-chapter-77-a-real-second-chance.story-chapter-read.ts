@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0077Chapter77ARealSecondChance = {
   id: "01a07252-32f0-7ab7-8dd9-9066ddb0d8cc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0077-chapter-77-a-real-second-chance",
   story: "story-read/the-gift-of-loot",
   position: 77,

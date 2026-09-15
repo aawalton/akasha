@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0076Chapter76WarCouncil = {
   id: "01a06730-4efc-7031-aebf-c5598ab559bb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0076-chapter-76-war-council",
   title: "Chapter 76: War Council",
   story: "story-read/the-gift-of-loot",

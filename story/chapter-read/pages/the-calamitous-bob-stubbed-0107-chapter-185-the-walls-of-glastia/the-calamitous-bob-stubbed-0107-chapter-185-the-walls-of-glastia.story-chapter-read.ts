@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0107Chapter185TheWallsOfGlastia = {
   id: "01a06730-4fa1-7926-8f8a-e87e6b5e610f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0107-chapter-185-the-walls-of-glastia",
   title: "Chapter 185: The Walls of Glastia",
   story: "story-read/the-calamitous-bob-stubbed",

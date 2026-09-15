@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0018Chapter18ShakingDownTheNationalGuard = {
   id: "01a06730-4ede-7c49-a38f-fbc39d0f7898",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0018-chapter-18-shaking-down-the-national-guard",
   title: "Chapter 18: Shaking Down The National Guard ",
   story: "story-read/the-gift-of-loot",

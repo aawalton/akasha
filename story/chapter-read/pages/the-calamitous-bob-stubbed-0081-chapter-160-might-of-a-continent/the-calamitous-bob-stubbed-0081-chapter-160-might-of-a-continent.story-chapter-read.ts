@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0081Chapter160MightOfAContinent = {
   id: "01a06730-4f84-77aa-afcb-363bebbd7582",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0081-chapter-160-might-of-a-continent",
   title: "Chapter 160: Might of a Continent",
   story: "story-read/the-calamitous-bob-stubbed",

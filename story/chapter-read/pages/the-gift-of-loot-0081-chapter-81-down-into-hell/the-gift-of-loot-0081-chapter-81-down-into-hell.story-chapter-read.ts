@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0081Chapter81DownIntoHell = {
   id: "01a0a116-d02a-70e4-8fa2-9a1997a437a7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0081-chapter-81-down-into-hell",
   position: 81,
   publishedAt: "2026-09-14",

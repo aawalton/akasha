@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0031Chapter31BearMarketBehavior = {
   id: "01a06730-4ee3-7449-a0af-534be1a062d8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0031-chapter-31-bear-market-behavior",
   title: "Chapter 31: Bear Market Behavior",
   story: "story-read/the-gift-of-loot",

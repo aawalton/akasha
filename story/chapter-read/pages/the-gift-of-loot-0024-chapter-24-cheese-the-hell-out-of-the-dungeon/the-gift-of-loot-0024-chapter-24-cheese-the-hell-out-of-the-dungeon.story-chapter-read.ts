@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0024Chapter24CheeseTheHellOutOfTheDungeon = {
   id: "01a06730-4ee0-761f-9773-c915b96cc682",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0024-chapter-24-cheese-the-hell-out-of-the-dungeon",
   title: "Chapter 24: Cheese The Hell Out of the Dungeon",
   story: "story-read/the-gift-of-loot",

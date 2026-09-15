@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0136Chapter211TheyWhoKilledAnEmpire = {
   id: "01a06730-4fbf-7bb8-8cb4-942d76162a66",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0136-chapter-211-they-who-killed-an-empire",
   title: "Chapter 211: They Who Killed an Empire",
   story: "story-read/the-calamitous-bob-stubbed",

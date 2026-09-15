@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0070Chapter70CullSkill = {
   id: "01a06730-4efa-7c53-9702-73d7c84b9d28",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0070-chapter-70-cull-skill",
   title: "Chapter 70: Cull Skill",
   story: "story-read/the-gift-of-loot",

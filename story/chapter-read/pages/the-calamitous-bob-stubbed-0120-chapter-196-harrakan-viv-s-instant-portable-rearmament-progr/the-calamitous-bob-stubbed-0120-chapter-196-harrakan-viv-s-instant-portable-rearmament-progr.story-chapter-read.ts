@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0120Chapter196HarrakanVivSInstantPortableRearmamentProgr = {
   id: "01a06730-4fae-7b7c-b0db-8e6b54a4b82f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0120-chapter-196-harrakan-viv-s-instant-portable-rearmament-progr",
   title: "Chapter 196: Harrakan Viv’s Instant Portable Rearmament Program™",
   story: "story-read/the-calamitous-bob-stubbed",

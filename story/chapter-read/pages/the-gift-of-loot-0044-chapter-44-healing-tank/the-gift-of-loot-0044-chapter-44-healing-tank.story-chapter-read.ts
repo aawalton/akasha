@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0044Chapter44HealingTank = {
   id: "01a06730-4eeb-77a8-8db4-89c8ca0df43f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0044-chapter-44-healing-tank",
   title: "Chapter 44: Healing Tank",
   story: "story-read/the-gift-of-loot",

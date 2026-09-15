@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0061Chapter61ManaTalk = {
   id: "01a06730-4ef6-73c0-a2e0-daf9011c00a2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0061-chapter-61-mana-talk",
   title: "Chapter 61: Mana Talk",
   story: "story-read/the-gift-of-loot",

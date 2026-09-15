@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0118Chapter194TheDarkestSide = {
   id: "01a06730-4fac-7ba5-80d8-126ca5ca463f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0118-chapter-194-the-darkest-side",
   title: "Chapter 194: The Darkest Side",
   story: "story-read/the-calamitous-bob-stubbed",

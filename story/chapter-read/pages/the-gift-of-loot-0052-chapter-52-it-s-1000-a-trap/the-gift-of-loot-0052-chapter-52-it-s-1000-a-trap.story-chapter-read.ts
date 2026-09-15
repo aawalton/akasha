@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0052Chapter52ItS1000ATrap = {
   id: "01a06730-4ef2-74b4-b81c-b2a49991bcea",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0052-chapter-52-it-s-1000-a-trap",
   title: "Chapter 52: It's 1000% a Trap",
   story: "story-read/the-gift-of-loot",

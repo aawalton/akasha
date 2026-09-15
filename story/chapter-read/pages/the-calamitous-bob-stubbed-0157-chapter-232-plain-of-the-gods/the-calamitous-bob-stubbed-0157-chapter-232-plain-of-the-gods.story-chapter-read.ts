@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0157Chapter232PlainOfTheGods = {
   id: "01a06730-4fd5-7ff7-be8d-6755d7314ca1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0157-chapter-232-plain-of-the-gods",
   title: "Chapter 232: Plain of the Gods.",
   story: "story-read/the-calamitous-bob-stubbed",

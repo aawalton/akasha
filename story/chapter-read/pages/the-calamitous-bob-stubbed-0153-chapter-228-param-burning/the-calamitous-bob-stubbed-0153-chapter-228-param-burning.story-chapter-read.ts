@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0153Chapter228ParamBurning = {
   id: "01a06730-4fd1-753f-8574-b2861cdfd554",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0153-chapter-228-param-burning",
   title: "Chapter 228: Param, Burning",
   story: "story-read/the-calamitous-bob-stubbed",

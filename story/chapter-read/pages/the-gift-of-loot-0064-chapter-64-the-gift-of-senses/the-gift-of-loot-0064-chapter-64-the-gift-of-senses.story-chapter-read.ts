@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0064Chapter64TheGiftOfSenses = {
   id: "01a06730-4ef8-7380-ac94-4d88fdd76e9d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0064-chapter-64-the-gift-of-senses",
   title: "Chapter 64: The Gift of Senses",
   story: "story-read/the-gift-of-loot",

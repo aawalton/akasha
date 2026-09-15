@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0049Chapter49TheHardSell = {
   id: "01a06730-4ef0-781b-8017-0ec0a83d382b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0049-chapter-49-the-hard-sell",
   title: "Chapter 49: The Hard Sell",
   story: "story-read/the-gift-of-loot",

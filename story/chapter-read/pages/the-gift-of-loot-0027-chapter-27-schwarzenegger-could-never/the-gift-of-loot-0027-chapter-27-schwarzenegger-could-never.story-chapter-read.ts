@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0027Chapter27SchwarzeneggerCouldNever = {
   id: "01a06730-4ee2-72ea-894c-26272226309c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0027-chapter-27-schwarzenegger-could-never",
   title: "Chapter 27:  Schwarzenegger Could Never ",
   story: "story-read/the-gift-of-loot",

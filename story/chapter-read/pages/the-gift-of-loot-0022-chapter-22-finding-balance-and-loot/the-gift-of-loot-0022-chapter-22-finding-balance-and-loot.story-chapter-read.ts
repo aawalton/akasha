@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0022Chapter22FindingBalanceAndLoot = {
   id: "01a06730-4edf-7546-aaa7-62ac6c3c2ea8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0022-chapter-22-finding-balance-and-loot",
   title: "Chapter 22: Finding Balance (And Loot)",
   story: "story-read/the-gift-of-loot",

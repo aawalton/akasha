@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0034Chapter34GrinAndBearIt = {
   id: "01a06730-4ee4-7ef7-a6c1-ac064ba97472",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0034-chapter-34-grin-and-bear-it",
   title: "Chapter 34: Grin and Bear It",
   story: "story-read/the-gift-of-loot",

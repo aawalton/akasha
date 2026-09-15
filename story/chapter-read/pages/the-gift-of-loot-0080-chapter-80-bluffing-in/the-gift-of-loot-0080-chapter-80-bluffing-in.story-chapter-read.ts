@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0080Chapter80BluffingIn = {
   id: "01a091dd-1821-7260-bc02-c3e1dafdc418",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0080-chapter-80-bluffing-in",
   position: 80,
   publishedAt: "2026-09-11",

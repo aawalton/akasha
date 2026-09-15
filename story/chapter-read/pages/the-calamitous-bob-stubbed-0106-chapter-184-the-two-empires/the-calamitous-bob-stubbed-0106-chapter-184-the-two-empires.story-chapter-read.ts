@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0106Chapter184TheTwoEmpires = {
   id: "01a06730-4fa0-7e9a-913c-b6b3627ac017",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0106-chapter-184-the-two-empires",
   title: "Chapter 184: The Two Empires",
   story: "story-read/the-calamitous-bob-stubbed",

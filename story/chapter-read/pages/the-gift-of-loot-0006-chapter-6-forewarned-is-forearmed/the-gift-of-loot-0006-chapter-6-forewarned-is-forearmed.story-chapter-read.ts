@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0006Chapter6ForewarnedIsForearmed = {
   id: "01a06730-4eda-7f88-ae4a-cd142c40b607",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0006-chapter-6-forewarned-is-forearmed",
   title: "Chapter 6: Forewarned is Forearmed",
   story: "story-read/the-gift-of-loot",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0040Chapter40IntoTheSwamp = {
   id: "01a06730-4ee8-770e-89f7-95a4f455c2fa",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0040-chapter-40-into-the-swamp",
   title: "Chapter 40: Into The Swamp",
   story: "story-read/the-gift-of-loot",

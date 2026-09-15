@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0068Chapter68OneShotTheSubBoss = {
   id: "01a06730-4ef9-7b0d-8e94-834bf8761a06",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0068-chapter-68-one-shot-the-sub-boss",
   title: "Chapter 68: One Shot The Sub-Boss",
   story: "story-read/the-gift-of-loot",

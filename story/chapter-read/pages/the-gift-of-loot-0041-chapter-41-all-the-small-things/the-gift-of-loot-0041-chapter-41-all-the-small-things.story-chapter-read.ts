@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0041Chapter41AllTheSmallThings = {
   id: "01a06730-4ee8-7444-be2d-c4b073713c2e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0041-chapter-41-all-the-small-things",
   title: "Chapter 41: All The Small Things",
   story: "story-read/the-gift-of-loot",

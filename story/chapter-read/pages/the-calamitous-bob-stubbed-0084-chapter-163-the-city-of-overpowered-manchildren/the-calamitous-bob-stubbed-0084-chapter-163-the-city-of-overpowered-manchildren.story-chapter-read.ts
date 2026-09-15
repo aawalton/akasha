@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0084Chapter163TheCityOfOverpoweredManchildren = {
   id: "01a06730-4f87-7e60-a1d3-9fe90d015991",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0084-chapter-163-the-city-of-overpowered-manchildren",
   title: "Chapter 163: The City of Overpowered Manchildren",
   story: "story-read/the-calamitous-bob-stubbed",

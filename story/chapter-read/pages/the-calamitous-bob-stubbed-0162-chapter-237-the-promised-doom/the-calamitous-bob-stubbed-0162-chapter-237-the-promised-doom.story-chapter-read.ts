@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0162Chapter237ThePromisedDoom = {
   id: "01a06730-4fdb-727b-8bbd-104a411c52c6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0162-chapter-237-the-promised-doom",
   title: "Chapter 237: The Promised Doom.",
   story: "story-read/the-calamitous-bob-stubbed",

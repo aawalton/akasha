@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theGiftOfLoot0063Chapter63RegisterAct = {
   id: "01a06730-4ef7-7940-a402-0e44067a0a31",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-gift-of-loot-0063-chapter-63-register-act",
   title: "Chapter 63: REGISTER Act",
   story: "story-read/the-gift-of-loot",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0133Chapter208DiveBombingWithFriends = {
   id: "01a06730-4fba-7fe7-b114-89eebddb1f7e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0133-chapter-208-dive-bombing-with-friends",
   title: "Chapter 208: Dive bombing with friends",
   story: "story-read/the-calamitous-bob-stubbed",
