@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const watchCaptainOfIntegrity = {
   id: "01a0657e-0270-72fe-bbf1-39981efa579d",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "watch-captain-of-integrity",
   title: "Watch Captain of Integrity",
   world: "world/the-wandering-inn",

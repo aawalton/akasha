@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const wartouchedFighterPilot = {
   id: "01a06586-0a75-7cc8-bb92-3ba44e6fc7b8",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "wartouched-fighter-pilot",
   title: "Wartouched Fighter Pilot",
   world: "world/the-wandering-inn",

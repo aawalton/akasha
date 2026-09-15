@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const vicegripWarriors = {
   id: "01a06586-0a70-7021-a677-ff364925789d",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "vicegrip-warriors",
   title: "Vicegrip Warriors",
   world: "world/the-wandering-inn",

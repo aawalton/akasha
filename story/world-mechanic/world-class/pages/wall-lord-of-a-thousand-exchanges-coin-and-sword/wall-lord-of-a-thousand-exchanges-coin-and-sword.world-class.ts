@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const wallLordOfAThousandExchangesCoinAndSword = {
   id: "01a06586-0a71-729f-b6ed-71b020c383b0",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "wall-lord-of-a-thousand-exchanges-coin-and-sword",
   title: "Wall Lord of a Thousand Exchanges, Coin and Sword",
   world: "world/the-wandering-inn",
