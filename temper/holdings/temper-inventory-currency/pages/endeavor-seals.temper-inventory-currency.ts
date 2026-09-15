@@ -2,7 +2,7 @@ import type { TemperInventoryCurrency } from "akasha/temper/holdings/temper-inve
 
 export const endeavorSeals = {
   id: "01a05fcf-26bb-77fb-a365-13a54dbe5b4d",
-  type: "temper-inventory-currency",
+  type: "page-type/temper-inventory-currency",
   slug: "endeavor-seals",
   title: "Endeavor Seals",
   key: "endeavorSeals",

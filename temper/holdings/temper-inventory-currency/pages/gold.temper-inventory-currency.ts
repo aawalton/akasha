@@ -2,7 +2,7 @@ import type { TemperInventoryCurrency } from "akasha/temper/holdings/temper-inve
 
 export const gold = {
   id: "01a05fcf-26bb-757b-9699-47c68673d7b1",
-  type: "temper-inventory-currency",
+  type: "page-type/temper-inventory-currency",
   slug: "gold",
   title: "Gold",
   key: "gold",

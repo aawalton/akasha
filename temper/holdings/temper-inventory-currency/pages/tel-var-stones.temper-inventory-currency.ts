@@ -2,7 +2,7 @@ import type { TemperInventoryCurrency } from "akasha/temper/holdings/temper-inve
 
 export const telVarStones = {
   id: "01a05fcf-26bb-7724-9b33-a0679e8edcd2",
-  type: "temper-inventory-currency",
+  type: "page-type/temper-inventory-currency",
   slug: "tel-var-stones",
   title: "Tel Var Stones",
   key: "telvarStones",

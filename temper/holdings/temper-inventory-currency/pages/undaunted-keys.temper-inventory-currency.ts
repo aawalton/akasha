@@ -2,7 +2,7 @@ import type { TemperInventoryCurrency } from "akasha/temper/holdings/temper-inve
 
 export const undauntedKeys = {
   id: "01a05fcf-26bd-7d73-b337-6a9ddbff750f",
-  type: "temper-inventory-currency",
+  type: "page-type/temper-inventory-currency",
   slug: "undaunted-keys",
   title: "Undaunted Keys",
   key: "undauntedKeys",

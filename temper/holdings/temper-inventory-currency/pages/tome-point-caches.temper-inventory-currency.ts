@@ -2,7 +2,7 @@ import type { TemperInventoryCurrency } from "akasha/temper/holdings/temper-inve
 
 export const tomePointCaches = {
   id: "01a05fcf-26bc-760d-83d4-e0173586a44c",
-  type: "temper-inventory-currency",
+  type: "page-type/temper-inventory-currency",
   slug: "tome-point-caches",
   title: "Tome Point Caches",
   key: "tomePointCaches",
