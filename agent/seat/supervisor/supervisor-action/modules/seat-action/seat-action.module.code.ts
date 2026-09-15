@@ -2,7 +2,10 @@ import {
   controlOf,
   setControl,
 } from "akasha/agent/seat/supervisor/supervisor-action/modules/seat-control/seat-control.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { textIn } from "akasha/util/narrow/modules/text-in/text-in.module.code.ts"
+
+const ACTION_PAGE_TYPE = "supervisor-action"
 
 const DEFAULT_TIMEOUT_MS = 30_000
 
@@ -41,7 +44,7 @@ function buildRequestedActionSet(
   armedAtMs?: number
 ): Record<string, unknown> {
   const set: Record<string, unknown> = {
-    requestedAction: request.action,
+    requestedAction: namedAs(ACTION_PAGE_TYPE, request.action, null),
   }
   if (request.interruptMessage != null) set.interruptMessage = request.interruptMessage
   if (request.action === "restart" && armedAtMs != null) {

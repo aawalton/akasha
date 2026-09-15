@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/subagent/modules/census/subagent-census.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.code.ts"}
