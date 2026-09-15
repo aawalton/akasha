@@ -5,5 +5,5 @@ export const importEdge = {
   type: "page-type/graph-edge",
   slug: "import-edge",
   definition: "one file naming another in its own body",
-  attributes: ["graph-attribute/known"],
+  attributes: ["graph-attribute/known", "graph-attribute/names"],
 } as const satisfies GraphEdge
