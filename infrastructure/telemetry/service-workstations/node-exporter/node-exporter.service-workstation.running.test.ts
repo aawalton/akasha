@@ -18,7 +18,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/service/workstation/pages/node-exporter/node-exporter.service-workstation.running.code.ts"
+  "akasha/infrastructure/telemetry/service-workstations/node-exporter/node-exporter.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {

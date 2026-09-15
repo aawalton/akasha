@@ -15,7 +15,7 @@ mock.module("akasha/alan/harness/monarch/modules/syncing/monarch-syncing.module.
 }))
 
 const running = await import(
-  "akasha/infrastructure/service/workstation/pages/monarch-sync/monarch-sync.service-workstation.running.code.ts"
+  "akasha/alan/harness/monarch/service-workstations/sync/monarch-sync.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {
