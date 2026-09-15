@@ -7,7 +7,7 @@ import {
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
-const SECTION = "carried"
+const SECTION = "schema"
 
 const HOLDS = "jsonl"
 
@@ -33,7 +33,7 @@ export type Carrying = {
   readonly folderName: string | null
 }
 
-export function carriedAt(pageTypePath: string): string | null {
+export function schemaAt(pageTypePath: string): string | null {
   return besideAt(pageTypePath, SECTION, HOLDS)
 }
 

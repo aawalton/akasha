@@ -16,7 +16,7 @@ import {
   type Carrying,
   carryingIn,
   carryingOf,
-} from "akasha/page/type/modules/type-carrying/type-carrying.module.code.ts"
+} from "akasha/page/type/modules/type-schema/type-schema.module.code.ts"
 import { shapedIn } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 
 const SHAPES = indexShapes.name

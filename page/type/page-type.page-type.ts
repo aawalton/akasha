@@ -32,7 +32,7 @@ export const pageType = {
     "module/declared-properties",
     "module/page-type-descent",
     "module/page-type-gathering",
-    "module/type-carrying",
+    "module/type-schema",
     "module/type-generating",
     "module/type-turning",
     "number-property/next-seq",

@@ -3,11 +3,11 @@ import type { Shape } from "akasha/page/index/modules/shape/index-shape.module.c
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import {
   bodyOf,
-  carriedAt,
   carryingEach,
   carryingIn,
   carryingOf,
-} from "akasha/page/type/modules/type-carrying/type-carrying.module.code.ts"
+  schemaAt,
+} from "akasha/page/type/modules/type-schema/type-schema.module.code.ts"
 
 const HOLDER: Carried = {
   key: "holder",
@@ -54,11 +54,11 @@ const SHAPE: Shape = {
 const SHAPES = new Map([["relation-property/holder", SHAPE]])
 
 test("what a page type carries sits beside that page type under the property slug", () => {
-  expect(carriedAt("one/two/three.page-type.ts")).toBe("one/two/three.page-type.carried.jsonl")
+  expect(schemaAt("one/two/three.page-type.ts")).toBe("one/two/three.page-type.schema.jsonl")
 })
 
 test("a path that is no TypeScript file has nothing beside it", () => {
-  expect(carriedAt("one/two/three.page-type.carried.jsonl")).toBeNull()
+  expect(schemaAt("one/two/three.page-type.schema.jsonl")).toBeNull()
 })
 
 test("a line carries what the property's own page says", () => {
