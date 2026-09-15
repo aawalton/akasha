@@ -99,5 +99,9 @@ export const checkScratch = {
       invariantKind: "invariant-kind/departure",
       statement: "A shadow that will not cast throws rather than answering no refusals.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The scratch declares the property descent is walked down.",
+    },
   ],
 } as const satisfies TestFixture

@@ -2,6 +2,7 @@ import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "akasha/check/modules/judging/judging.module.code.ts"
+import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   listedFiled,
@@ -14,7 +15,6 @@ import {
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
@@ -27,6 +27,10 @@ const SLUG = "slug"
 const ID = "id"
 
 const TYPES_AT = "akasha/types"
+
+const EXTENDS = "extends"
+
+const EXTENDS_TYPE = "extends-type"
 
 export const NO_BYTES = new Uint8Array(0)
 
@@ -85,6 +89,7 @@ export type Shape = {
   readonly uniquePropertySlug?: string | null
   readonly fileName?: string | null
   readonly folderName?: string | null
+  readonly propertySlug?: string | null
 }
 
 export function declaring(root: string, slug: string, shape: Shape): undefined {
@@ -95,7 +100,7 @@ export function declaring(root: string, slug: string, shape: Shape): undefined {
       unique: shape.unique ?? null,
       uniquePropertySlug: shape.uniquePropertySlug ?? null,
       slug,
-      propertySlug: slug,
+      propertySlug: shape.propertySlug ?? slug,
       fileName: shape.fileName ?? null,
       folderName: shape.folderName ?? null,
     },
@@ -108,6 +113,11 @@ function identifying(root: string): undefined {
   declaring(root, "page-type-slug", {
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: PAGE_TYPE,
+  })
+  declaring(root, EXTENDS_TYPE, {
+    pageTypeSlug: "relation-property",
+    targetPageTypeSlug: PAGE_TYPE,
+    propertySlug: EXTENDS,
   })
 }
 
