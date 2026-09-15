@@ -2,7 +2,7 @@ import type { CoachingScheduleDay } from "akasha/alan/value/health/fitness/coach
 
 export const pushPullLegs3beb3d9aFriday = {
   id: "019ee083-1b84-7b0d-bfc9-bbbecca20c22",
-  type: "coaching-schedule-day",
+  type: "page-type/coaching-schedule-day",
   slug: "push-pull-legs-3beb3d9a-friday",
   title: "Friday — pull",
   dayOfWeek: "friday",
