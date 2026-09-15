@@ -2,7 +2,7 @@ import type { Host } from "akasha/infrastructure/machine/host/host.page-type.typ
 
 export const macbook = {
   id: "01a06590-e94f-7756-9d6b-824b7b6c9549",
-  type: "host",
+  type: "page-type/host",
   slug: "macbook",
   definition: "Alan's Apple laptop",
   title: "MacBook",
