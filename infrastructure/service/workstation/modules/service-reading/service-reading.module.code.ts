@@ -16,6 +16,7 @@ import {
   everyOfType,
   listedAt,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   textAt,
@@ -23,6 +24,8 @@ import {
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export const SERVICE_PAGE_TYPE = "service-workstation"
+
+const PAGE_TYPE = "page-type"
 
 const RUNNER = "module/service-running"
 
@@ -104,7 +107,7 @@ export function serviceIn(root: string, value: Value, codeAt: string = ""): Star
   const told = value.told
   return {
     id,
-    type: SERVICE_PAGE_TYPE,
+    type: namedAs(PAGE_TYPE, SERVICE_PAGE_TYPE, null),
     slug,
     definition,
     runs,
