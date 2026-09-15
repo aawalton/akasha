@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const workstationDeploying = {
   id: "01a09593-7b82-7c95-a865-8a7bfa7f269d",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "workstation-deploying",
   definition:
     "the service putting the workstation kind up once a commit changes what it is built from",

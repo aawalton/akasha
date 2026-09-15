@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const dayReadoutWatchService = {
   id: "01a08c12-a327-7694-af88-2d20734ad347",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "day-readout-watch-service",
   definition: "the service taking Alan's day readings again the moment his day changes",
   enabled: true,

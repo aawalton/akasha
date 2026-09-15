@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const nodeExporter = {
   id: "01a06829-0194-7b8c-b075-9bab1fe4e693",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "node-exporter",
   definition:
     "the service publishing the workstation's processor, memory, disk and network as metrics",

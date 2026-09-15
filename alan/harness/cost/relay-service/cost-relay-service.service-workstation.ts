@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const costRelayService = {
   id: "01a08b9e-9c00-7973-981e-e586a9afa38d",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "cost-relay-service",
   definition: "the service carrying the cost to the sites that show it",
   enabled: true,

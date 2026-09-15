@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const spotifySync = {
   id: "01a09c84-8cd1-758c-8c48-b28856aa0770",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "spotify-sync",
   definition: "the service filing a release as a page where none represents it",
   enabled: true,

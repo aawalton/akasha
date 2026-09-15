@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const webAppDeploying = {
   id: "01a09645-42d1-7495-89ba-aacde7d16cf8",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "web-app-deploying",
   definition: "the service putting the web app kind up once a commit changes what it is built from",
   enabled: true,

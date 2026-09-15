@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const sweepStrayProcesses = {
   id: "01a09cee-2585-7d35-b95e-24ea1f6ace82",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "sweep-stray-processes",
   definition: "the service ending every process left running by a subagent that has returned",
   enabled: true,

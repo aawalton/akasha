@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const modelAccountUpkeepStall = {
   id: "01a06829-0194-773b-982b-dd8a10714450",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "model-account-upkeep-stall",
   definition: "the service ruling on whether Claude account upkeep has stalled and telling Alan",
   enabled: true,

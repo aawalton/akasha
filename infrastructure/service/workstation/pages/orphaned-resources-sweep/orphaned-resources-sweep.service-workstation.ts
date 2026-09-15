@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const orphanedResourcesSweep = {
   id: "01a06829-0194-7184-8190-2c4c599798bd",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "orphaned-resources-sweep",
   definition: "the service saying which live cluster resources no source manifest accounts for",
   enabled: true,

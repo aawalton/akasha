@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const royalRoadSync = {
   id: "01a06829-0194-78d3-8693-e4cc1c1e6e9a",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "royal-road-sync",
   definition: "the service syncing Royal Road chapters",
   enabled: true,

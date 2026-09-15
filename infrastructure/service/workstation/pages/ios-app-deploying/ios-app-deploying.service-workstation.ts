@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const iosAppDeploying = {
   id: "01a09b1a-31fc-7f84-8e3c-2b931fe57d4e",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "ios-app-deploying",
   definition: "the service putting the ios app kind up once a commit changes what it is built from",
   enabled: true,

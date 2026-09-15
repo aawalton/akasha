@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const recipientResolver = {
   id: "01a06829-0194-7fa2-a0e7-92e073ef2d21",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "recipient-resolver",
   definition:
     "the service resolving each message's recipient and seating an agent in the seat named",

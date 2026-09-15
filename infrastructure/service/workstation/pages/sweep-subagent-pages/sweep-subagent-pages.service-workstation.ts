@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const sweepSubagentPages = {
   id: "01a0a017-3fac-72e3-8c1a-7fdf616e1b16",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "sweep-subagent-pages",
   definition: "the service taking away every subagent page the census judges stale",
   enabled: true,

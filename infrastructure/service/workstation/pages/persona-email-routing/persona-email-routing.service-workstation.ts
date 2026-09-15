@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const personaEmailRouting = {
   id: "01a0a147-4f53-7e7e-8fb1-00a3014534b0",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "persona-email-routing",
   definition: "the service routing a persona's address once her page declares one",
   enabled: true,

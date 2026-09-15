@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const alanEmailWorker = {
   id: "01a06829-0193-7263-a1e4-d14db047d74d",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "alan-email-worker",
   definition: "the service deciding Alan's mail against his email rules",
   enabled: true,

@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const workstationLoadSampler = {
   id: "01a0a069-4cb1-7622-84e2-3275d4863a72",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "workstation-load-sampler",
   definition:
     "the service taking the workstation's processor and memory readings every five seconds",

@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const esoAddonDeploying = {
   id: "01a095be-957a-70aa-93ff-0845e49c8f73",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "eso-addon-deploying",
   definition:
     "the service putting the ESO addon kind up once a commit changes what it is built from",

@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const containerRecipeDeploying = {
   id: "01a0965f-7f5f-73fa-8be8-4758f86ec930",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "container-recipe-deploying",
   definition:
     "the service putting the container recipe kind up once a commit changes what it is built from",

@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const inferenceDeploying = {
   id: "01a09b0e-376c-70a6-9838-96e1f3f656a1",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "inference-deploying",
   definition:
     "the service putting the inference kind up once a commit changes what it is built from",

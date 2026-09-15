@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const inboxCountWatchService = {
   id: "01a079df-057d-7957-b80e-f75d73b1705c",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "inbox-count-watch-service",
   definition: "the service taking the task counts again the moment a page lands",
   enabled: true,

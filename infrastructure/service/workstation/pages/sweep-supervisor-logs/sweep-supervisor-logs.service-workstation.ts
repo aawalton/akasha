@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const sweepSupervisorLogs = {
   id: "01a033a4-98c1-7167-9e3e-387829512ba6",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "sweep-supervisor-logs",
   definition: "the service removing the log directory of every supervisor whose seat is gone",
   enabled: true,

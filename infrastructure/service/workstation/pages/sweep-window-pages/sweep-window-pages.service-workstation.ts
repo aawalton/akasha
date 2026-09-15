@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const sweepWindowPages = {
   id: "01a0a166-9b55-7e8f-89b6-fccdbd5cda2d",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "sweep-window-pages",
   definition: "the service taking away the page of every editor window that is no longer open",
   enabled: true,

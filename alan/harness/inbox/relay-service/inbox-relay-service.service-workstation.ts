@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const inboxRelayService = {
   id: "01a06230-b156-7667-b81e-d7a74183ae8d",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "inbox-relay-service",
   definition: "the service carrying the inbox counts to the site that shows them",
   enabled: true,

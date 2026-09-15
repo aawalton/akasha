@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const activeCaloriesService = {
   id: "01a07724-a486-7717-8141-ae09cdb04434",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "active-calories-service",
   definition: "the service writing the calories Alan burned moving onto the days he burned them",
   enabled: true,

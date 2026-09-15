@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const safetyRelayService = {
   id: "01a05f4d-1a20-7000-9c31-6de0f0f4a1b2",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "safety-relay-service",
   definition: "the service carrying the safety level to the sites that show it",
   enabled: true,

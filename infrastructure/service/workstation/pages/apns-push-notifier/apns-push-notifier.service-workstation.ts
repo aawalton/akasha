@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const apnsPushNotifier = {
   id: "01a06829-0193-7bb7-858d-8cb22b1eb62d",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "apns-push-notifier",
   definition: "the service putting each notification written for Alan on his devices",
   enabled: true,

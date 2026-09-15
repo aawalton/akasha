@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const dcgmExporter = {
   id: "01a06829-0194-7abe-a29a-b073b8c32332",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "dcgm-exporter",
   definition: "the service publishing the workstation GPU as metrics: memory, use, heat and power",
   enabled: true,

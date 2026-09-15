@@ -2,7 +2,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/service/workstati
 
 export const monarchRelayService = {
   id: "01a05b53-8d92-7100-a247-0189479aee94",
-  type: "service-workstation",
+  type: "page-type/service-workstation",
   slug: "monarch-relay-service",
   definition: "the service carrying the unreviewed reading to the sites that show it",
   enabled: true,
