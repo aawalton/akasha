@@ -2,7 +2,7 @@ import type { Seat } from "akasha/agent/seat/seat.page-type.types.ts"
 
 export const vera = {
   id: "01a0a57a-558c-7000-be79-dc1f16c5f0db",
-  type: "seat",
+  type: "page-type/seat",
   slug: "vera",
   persona: "persona/vera",
   assignmentSlug: "initiative/vera-graph-cleanup",
