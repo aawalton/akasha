@@ -136,6 +136,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/page-matches-its-type/page-matches-its-type.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/page-named-as-stated/page-named-as-stated.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts"}

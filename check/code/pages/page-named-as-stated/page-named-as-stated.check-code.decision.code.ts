@@ -12,6 +12,7 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn, sectionedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"
 
 const SLUG = "slug"
@@ -74,7 +75,7 @@ export function pageIn(path: string, text: string): Stated | null {
 }
 
 function extrasSaid(rest: readonly Stated[]): string {
-  return rest.map((one) => `\`${one.pageTypeSlug}/${one.slug}\``).join(", ")
+  return rest.map((one) => `\`${slugOf(one.pageTypeSlug)}/${one.slug}\``).join(", ")
 }
 
 export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readonly string[] {
@@ -95,7 +96,7 @@ export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readon
         "file is named for the slug the page states"
     )
   }
-  if (first.pageTypeSlug !== suffix) {
+  if (slugOf(first.pageTypeSlug) !== suffix) {
     found.push(
       `the page states its page type as \`${first.pageTypeSlug}\`, and its file is named ` +
         `\`${suffix}\` — a page's file is named for the page type the page states`
