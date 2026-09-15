@@ -12,10 +12,7 @@ import { bodiesFrom } from "akasha/page/index/modules/keeping/index-keeping.modu
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { settlingOver } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import {
-  indexIn,
-  readingAt,
-} from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { indexIn, readingAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"

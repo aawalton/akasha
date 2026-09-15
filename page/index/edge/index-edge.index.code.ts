@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { under } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
@@ -9,7 +10,6 @@ import {
   reaches,
   type Shaped,
 } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
-import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import type { Rowing } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import {
   slugOf,

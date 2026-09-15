@@ -4,10 +4,7 @@ import {
   type UpsertPageArgs,
   upsertPage,
 } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
-import type {
-  Page,
-  PageWhere,
-} from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import type { Page, PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import {
   readFiles,
   readPages,
