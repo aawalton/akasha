@@ -3,7 +3,6 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export type Declaring = {
   readonly slug: string
-  readonly pluralSlug: string | null
   readonly propertySlugs: ReadonlySet<string>
 }
 
@@ -126,7 +125,7 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type answers with its slug and its plural slug.",
+      statement: "A page type answers with its slug.",
     },
     {
       invariantKind: "departure",
@@ -156,11 +155,7 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A page gives its folder the plural slug that page states.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page stating no plural slug gives its folder its slug.",
+      statement: "A page gives its folder its slug.",
     },
     {
       invariantKind: "departure",
@@ -200,10 +195,6 @@ export const folderShape = {
     {
       invariantKind: "departure",
       statement: "That second page is a domain of the page type's slug.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page type states the plural slug a folder is named from.",
     },
     {
       invariantKind: "departure",

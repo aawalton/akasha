@@ -72,8 +72,7 @@ export function namingOver(
 ): (folder: string) => Wanted | null {
   return (folder) => {
     if (folder === ROOT) return null
-    const names = holds(folder).names
-    const gives = names[1] ?? names[0]
+    const gives = holds(folder).names[0]
     if (gives === undefined) return null
     const name = namedUnder(folder, gives, holds, held)
     return name === null ? { name: null, gives } : { name }
