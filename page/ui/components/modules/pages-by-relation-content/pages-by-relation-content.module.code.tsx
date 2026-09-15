@@ -44,7 +44,6 @@ export function PagesFilteredContent({
     properties,
     propertiesByPageType,
     pageTypeSlugById,
-    pageTypePluralSlugById,
     pageTypeName,
     baseFilters,
     effectiveConfig,
@@ -78,11 +77,9 @@ export function PagesFilteredContent({
   const handleConfigChange = useCallback(
     (config: ViewConfig) => {
       const params = viewConfigToListingParams(config, searchParams, baseFilters)
-      const rawPluralSlug = targetPageType?.properties?.pluralSlug
-      const pluralSlug = typeof rawPluralSlug === "string" ? rawPluralSlug : pageTypeSlug
-      router.replace(buildPageListingHref({ pluralSlug, query: params }))
+      router.replace(buildPageListingHref({ slug: pageTypeSlug, query: params }))
     },
-    [router, pageTypeSlug, targetPageType, searchParams, baseFilters]
+    [router, pageTypeSlug, searchParams, baseFilters]
   )
 
   const { buildRowHref, pageHrefById, makeRelationHref } = usePagesFilteredHrefs({
@@ -90,7 +87,6 @@ export function PagesFilteredContent({
     allPages,
     relatedPages,
     pageTypeSlugById,
-    pageTypePluralSlugById,
     properties,
   })
 

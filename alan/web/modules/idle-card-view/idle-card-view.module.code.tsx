@@ -32,7 +32,6 @@ import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type
 import { useEffect, useMemo, useState, useSyncExternalStore } from "react"
 
 const EMPTY_AGGREGATES: ReadonlyMap<string, Record<string, number | null>> = new Map()
-const EMPTY_PLURAL_SLUGS: ReadonlyMap<string, string> = new Map()
 const noHref = (): string => ""
 
 const ROW_PAGE_TYPE_SLUG = toPageTypeSlug(IDLE_PERSONA_CARD_PAGE_TYPE_SLUG)
@@ -189,7 +188,6 @@ export function IdleCardView({ view, now }: { view: "lineup" | "roster"; now: nu
             rowAggregates={EMPTY_AGGREGATES}
             pageTypeIconName={IDLE_PERSONA_CARD_ICON}
             pageHrefById={noHref}
-            pageTypePluralSlugById={EMPTY_PLURAL_SLUGS}
           />
         )
       }}

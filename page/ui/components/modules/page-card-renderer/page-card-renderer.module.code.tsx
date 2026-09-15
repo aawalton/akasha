@@ -30,7 +30,7 @@ interface PageCardRendererProps {
   rowAggregates: ReadonlyMap<string, Record<string, number | null>>
   pageTypeIconName: string | null
   pageHrefById: (id: string, opts?: { targetPageTypeId?: string }) => string
-  pageTypePluralSlugById: ReadonlyMap<string, string>
+  pageTypeSlugById?: ReadonlyMap<string, PageTypeSlug>
   onIconChange?: (pageId: string, icon: IconName) => void
   onPropertyChange?: (
     pageId: string,
@@ -63,7 +63,7 @@ export function PageCardRenderer({
   rowAggregates,
   pageTypeIconName,
   pageHrefById,
-  pageTypePluralSlugById,
+  pageTypeSlugById,
   onIconChange,
   onPropertyChange,
   onComplete,
@@ -136,7 +136,7 @@ export function PageCardRenderer({
           target: def ? readRelationConfig(def.config) : undefined,
           rowId: id,
           fallbackHref: rowHref,
-          pluralSlugById: pageTypePluralSlugById,
+          slugById: pageTypeSlugById,
         })
       }}
     />

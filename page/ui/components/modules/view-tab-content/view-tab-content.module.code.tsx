@@ -64,7 +64,7 @@ export function ViewTabContent({
     error,
     totalCount,
     propertiesByPageType,
-    pageTypePluralSlugById,
+    pageTypeSlugById,
     allPages,
     relatedPages,
     rowAggregates,
@@ -243,7 +243,7 @@ export function ViewTabContent({
             rowAggregates={rowAggregates}
             pageTypeIconName={pageTypeIconName}
             pageHrefById={pageHrefById}
-            pageTypePluralSlugById={pageTypePluralSlugById}
+            pageTypeSlugById={pageTypeSlugById}
             onIconChange={isLocked(effectiveConfig, "editRowIcon") ? undefined : handleIconChange}
             onPropertyChange={
               isLocked(effectiveConfig, "editRowValues") ? undefined : handlePropertyChange
@@ -298,7 +298,7 @@ export function ViewTabContent({
                   target: def ? readRelationConfig(def.config) : undefined,
                   rowId: id,
                   fallbackHref: rowHref,
-                  pluralSlugById: pageTypePluralSlugById,
+                  slugById: pageTypeSlugById,
                 })
               }}
             />

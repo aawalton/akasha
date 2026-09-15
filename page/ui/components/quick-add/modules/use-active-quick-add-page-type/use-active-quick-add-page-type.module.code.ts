@@ -50,25 +50,25 @@ export function useActiveQuickAddPageType(): ActiveQuickAddPageType | null {
   return useMemo<ActiveQuickAddPageType | null>(() => {
     if (firstSegment === null) return null
     const row = pageTypes.find((pt) => {
-      const pluralSlug = pt.properties?.pluralSlug
-      return typeof pluralSlug === "string" && pluralSlug === firstSegment
+      const slug = pt.properties?.slug
+      return typeof slug === "string" && slug === firstSegment
     })
     if (row === undefined) return null
 
-    const slug = row.properties?.slug
-    const singularSlug = typeof slug === "string" ? slug : firstSegment
+    const rawSlug = row.properties?.slug
+    const pageTypeSlug = typeof rawSlug === "string" ? rawSlug : firstSegment
     const rawDisplayName = row.properties?.displayName
     const displayName =
       typeof rawDisplayName === "string" && rawDisplayName.length > 0
         ? rawDisplayName
-        : titlecaseFromSlug(singularSlug)
+        : titlecaseFromSlug(pageTypeSlug)
     const quickAdd = parseQuickAddConfig(row.properties?.quickAdd) ?? {
       titlePropertyId: "title",
     }
     const { propertyDefinitions } = parsePageTypeData(row.properties)
 
     return {
-      pageTypeSlug: singularSlug,
+      pageTypeSlug,
       pageTypeId: row._id,
       displayName,
       quickAdd,

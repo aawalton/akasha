@@ -71,7 +71,7 @@ export function usePagesFilteredQuery(args: {
     return map
   }, [pageTypes, lookupOptionList])
 
-  const { slugById: pageTypeSlugById, pluralSlugById: pageTypePluralSlugById } = useMemo(
+  const { slugById: pageTypeSlugById } = useMemo(
     () => buildPageTypeSlugMaps(pageTypes),
     [pageTypes]
   )
@@ -229,7 +229,6 @@ export function usePagesFilteredQuery(args: {
     properties,
     propertiesByPageType,
     pageTypeSlugById,
-    pageTypePluralSlugById,
     pageTypeName,
     baseFilters,
     effectiveConfig,

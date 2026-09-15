@@ -25,17 +25,9 @@ export function usePagesFilteredHrefs(args: {
   allPages: readonly PageWithProperties[]
   relatedPages: readonly PageWithProperties[]
   pageTypeSlugById: ReadonlyMap<string, PageTypeSlug>
-  pageTypePluralSlugById: ReadonlyMap<string, string>
   properties: readonly PropertyDefinition[]
 }): PagesFilteredHrefs {
-  const {
-    pageTypeSlug,
-    allPages,
-    relatedPages,
-    pageTypeSlugById,
-    pageTypePluralSlugById,
-    properties,
-  } = args
+  const { pageTypeSlug, allPages, relatedPages, pageTypeSlugById, properties } = args
 
   const buildRowHref = useCallback(
     (row: PageRow): string => {
@@ -80,10 +72,10 @@ export function usePagesFilteredHrefs(args: {
           target: def ? readRelationConfig(def.config) : undefined,
           rowId,
           fallbackHref: rowHref,
-          pluralSlugById: pageTypePluralSlugById,
+          slugById: pageTypeSlugById,
         })
       },
-    [properties, pageTypePluralSlugById]
+    [properties, pageTypeSlugById]
   )
 
   return {

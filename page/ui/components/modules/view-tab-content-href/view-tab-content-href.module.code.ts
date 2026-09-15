@@ -22,19 +22,13 @@ export function readRelationConfig(
 
 export function buildPageTypeSlugMaps(pageTypes: readonly PageWithProperties[]): {
   slugById: ReadonlyMap<string, PageTypeSlug>
-  pluralSlugById: ReadonlyMap<string, string>
 } {
   const slugById = new Map<string, PageTypeSlug>()
-  const pluralSlugById = new Map<string, string>()
   for (const pt of pageTypes) {
     const slug = pt.properties?.slug
-    const plural = pt.properties?.pluralSlug
-    const hasSlug = typeof slug === "string" && slug.length > 0
-    if (hasSlug) slugById.set(pt._id, toPageTypeSlug(slug))
-    if (typeof plural === "string" && plural.length > 0) pluralSlugById.set(pt._id, plural)
-    else if (hasSlug) pluralSlugById.set(pt._id, slug)
+    if (typeof slug === "string" && slug.length > 0) slugById.set(pt._id, toPageTypeSlug(slug))
   }
-  return { slugById, pluralSlugById }
+  return { slugById }
 }
 
 export function resolveRowPageTypeSlug(
@@ -66,13 +60,13 @@ export function buildRelationBackLinkHref(args: {
   target: { targetPageTypeId: string; backRelationPropertyId: string } | undefined
   rowId: string
   fallbackHref: string
-  pluralSlugById: ReadonlyMap<string, string>
+  slugById: ReadonlyMap<string, PageTypeSlug> | undefined
 }): string {
   if (!args.target) return args.fallbackHref
-  const pluralSlug = args.pluralSlugById.get(args.target.targetPageTypeId)
-  if (pluralSlug == null || pluralSlug.length === 0) return args.fallbackHref
+  const slug = args.slugById?.get(args.target.targetPageTypeId)
+  if (slug == null || slug.length === 0) return args.fallbackHref
   return buildPageListingHref({
-    pluralSlug,
+    slug,
     query: `${args.target.backRelationPropertyId}=${args.rowId}`,
   })
 }

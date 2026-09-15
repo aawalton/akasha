@@ -54,7 +54,7 @@ export interface ViewTabContentData {
   error: Error | null
   totalCount: number | null
   propertiesByPageType: ReadonlyMap<string, readonly PropertyDefinition[]>
-  pageTypePluralSlugById: ReadonlyMap<string, string>
+  pageTypeSlugById: ReadonlyMap<string, PageTypeSlug>
   allPages: readonly PageWithProperties[]
   relatedPages: readonly PageWithProperties[]
   rowAggregates: ReadonlyMap<string, Record<string, number | null>>
@@ -239,7 +239,7 @@ export function useViewTabContentData({
     return map
   }, [pageTypes, lookupOptionList])
 
-  const { slugById: pageTypeSlugById, pluralSlugById: pageTypePluralSlugById } = useMemo(
+  const { slugById: pageTypeSlugById } = useMemo(
     () => buildPageTypeSlugMaps(pageTypes),
     [pageTypes]
   )
@@ -349,7 +349,7 @@ export function useViewTabContentData({
     error,
     totalCount,
     propertiesByPageType,
-    pageTypePluralSlugById,
+    pageTypeSlugById,
     allPages,
     relatedPages,
     rowAggregates,
