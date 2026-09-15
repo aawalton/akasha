@@ -152,6 +152,10 @@ const REPO_VOCABULARY: readonly Named[] = [
   aProperty(idOf("7"), "code", "file-property"),
   aProperty("01a04a4a-0002-7000-8000-000000000007", "test", "file-property"),
   aType(idOf("a"), "relation-property", ["page-type/page-property"]),
+  aProperty("01a04a4a-0002-7000-8000-000000000005", "extends-type", "relation-property", {
+    propertySlug: "extends",
+    targetPageType: "page-type",
+  }),
   aProperty(idOf("b"), "note", "relation-property", { targetPageType: "module" }),
   aProperty(idOf("c"), "part-slugs", "relation-property", { targetPageType: "domain" }),
 ]
