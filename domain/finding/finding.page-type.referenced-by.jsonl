@@ -65,6 +65,7 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-of-a-page-type-introduced-in-one-change-gets-no-minted-id.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-query-holds-the-loop-while-it-reads.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-removal-is-refused-by-the-folder-shape-check-over-a-folder-it-empties.finding.ts"}
+{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-rename-and-the-folder-move-its-slug-asks-for-refuse-apart-and-refuse-together.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-part-of-slug-names-no-page-type-so-two-parents-can-share-it.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-path-composed-from-literals-is-configuration-no-typecheck-reaches.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-path-handed-through-a-heredoc-fence-keeps-its-newline-and-add-file-takes-it.finding.ts"}
