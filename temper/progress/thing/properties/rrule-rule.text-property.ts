@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const rruleRule = {
   id: "01a05fc6-81fd-7f0e-82af-5f52794a8b51",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "rrule-rule",
   propertySlug: "rrule-rule",
   definition: "how often a task comes round again",

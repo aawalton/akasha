@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const externalTags = {
   id: "01a06554-d8bd-7dd9-bc8b-f7015c1af16c",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "external-tags",
   propertySlug: "external-tags",
   definition: "a word the source files a collection under",

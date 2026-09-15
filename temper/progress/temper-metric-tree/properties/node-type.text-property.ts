@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const nodeType = {
   id: "01a05fcb-d655-73ba-a6da-f60c6c48e6b4",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "node-type",
   propertySlug: "node-type",
   definition: "which rank of the metric tree a node sits at",

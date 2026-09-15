@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const checkpointName = {
   id: "01a0685d-89aa-7e0e-87ba-fd8437784410",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "checkpoint-name",
   propertySlug: "checkpoint-name",
   definition: "what a version kept on purpose is called",

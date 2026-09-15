@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const conditionValue = {
   id: "01a05fd0-3aa5-7e12-bb0a-a40ab13f2405",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "condition-value",
   propertySlug: "condition-value",
   definition: "what one condition of a rule tests against",

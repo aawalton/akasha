@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const mechanicSlug = {
   id: "01a063ce-6216-7007-b529-a31661f9223d",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "mechanic-slug",
   propertySlug: "mechanic-slug",
   definition: "the mechanic a reading reaches",

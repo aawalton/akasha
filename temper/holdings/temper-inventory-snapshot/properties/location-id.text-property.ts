@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const locationId = {
   id: "01a06053-b380-7bc6-96e3-52fb477f64ba",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "location-id",
   propertySlug: "location-id",
   definition: "the bag holder a stack sits with, as the game names holders",

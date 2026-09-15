@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const targetScope = {
   id: "01a06193-6ca3-7e85-96e0-7cf3c6b79ba2",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "target-scope",
   propertySlug: "scope",
   definition: "how many the thing an effect lands on covers",

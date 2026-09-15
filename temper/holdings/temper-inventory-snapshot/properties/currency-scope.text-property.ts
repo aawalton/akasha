@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const currencyScope = {
   id: "01a0675a-f185-7129-990f-a2084aecc2dc",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "currency-scope",
   propertySlug: "scope",
   definition: "how widely a purse reaches across an account",

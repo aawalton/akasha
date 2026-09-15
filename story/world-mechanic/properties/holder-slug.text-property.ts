@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const holderSlug = {
   id: "01a06558-a991-7e56-be1b-8a214695c31a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "holder-slug",
   propertySlug: "holder-slug",
   definition: "the character a naming gives the mechanic to",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const resource = {
   id: "01a06193-6ca1-7202-9bb6-3c173c8c26d5",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "resource",
   propertySlug: "resource",
   definition: "the pool a companion spends to cast",

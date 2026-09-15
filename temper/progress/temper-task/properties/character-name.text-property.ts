@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const characterName = {
   id: "01a05fd3-435c-7547-b700-960e8b753707",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "character-name",
   propertySlug: "character-name",
   definition: "the name a character is shown under in the game",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const metricId = {
   id: "01a05fb0-3ced-7636-a899-431b497b3f1f",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "metric-id",
   propertySlug: "metric-id",
   definition: "the number an effect moves",

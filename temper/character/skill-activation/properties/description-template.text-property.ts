@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const descriptionTemplate = {
   id: "01a05fcd-f549-76df-a978-2b95a2597642",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "description-template",
   propertySlug: "description-template",
   definition: "what a skill does, with a slot for each number the game fills in",

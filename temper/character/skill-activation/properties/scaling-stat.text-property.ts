@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const scalingStat = {
   id: "01a05fcd-f54a-75a0-bc25-2cecd3de2578",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "scaling-stat",
   propertySlug: "scaling-stat",
   definition: "the character number an effect is worked out from",

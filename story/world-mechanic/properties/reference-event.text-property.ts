@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const referenceEvent = {
   id: "01a06558-a991-7b74-a9b8-26a430ce7964",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "reference-event",
   propertySlug: "event",
   definition: "what happened to the mechanic where the text named it",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const guildName = {
   id: "01a0685d-89aa-7d2f-948c-fbca509592a2",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "guild-name",
   propertySlug: "guild-name",
   definition: "the guild whose store an item went through",

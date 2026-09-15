@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const key = {
   id: "01a05fac-7582-7040-9ede-eeb380f191f1",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "key",
   propertySlug: "key",
   definition: "the string The Elder Scrolls Online names a thing by",

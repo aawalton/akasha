@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const skillStatus = {
   id: "01a05fca-cb87-719f-b348-33ad77e63005",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "skill-status",
   propertySlug: "status",
   definition: "how far temper works out what a skill does",

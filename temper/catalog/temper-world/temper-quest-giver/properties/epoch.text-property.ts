@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const epoch = {
   id: "01a05fc4-7a91-7076-af1b-6ce3e35e4b9a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "epoch",
   propertySlug: "epoch",
   definition: "the day a rotation is counted from",

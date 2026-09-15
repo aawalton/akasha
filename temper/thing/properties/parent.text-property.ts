@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const parent = {
   id: "01a05fba-ce39-70e6-a46f-4b11e5d2a508",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "parent",
   propertySlug: "parent",
   definition: "the page a page hangs beneath",

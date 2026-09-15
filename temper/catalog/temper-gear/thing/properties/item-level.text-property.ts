@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const itemLevel = {
   id: "01a05fcc-41f3-75f3-b81e-993d8b24e369",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "item-level",
   propertySlug: "level",
   definition: "the character level an item is made for",

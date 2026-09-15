@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const readingSlug = {
   id: "01a063ce-6216-7003-82e9-30fd6cf9ebfc",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "reading-slug",
   propertySlug: "reading-slug",
   definition: "the name a reading is looked up by",

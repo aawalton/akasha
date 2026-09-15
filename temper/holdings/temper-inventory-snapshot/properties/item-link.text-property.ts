@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const itemLink = {
   id: "01a06053-b37e-7d8f-9b54-cc84490468a6",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "item-link",
   propertySlug: "item-link",
   definition: "the string the game writes an item's whole state as",

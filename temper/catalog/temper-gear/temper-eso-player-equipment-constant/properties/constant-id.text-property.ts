@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const constantId = {
   id: "01a05fd1-d438-7e88-83de-053bfdab7fa7",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "constant-id",
   propertySlug: "constant-id",
   definition: "the value within its group a constant answers to",

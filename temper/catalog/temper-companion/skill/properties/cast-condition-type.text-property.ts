@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const castConditionType = {
   id: "01a06193-6c9e-7d3f-8ec8-33900a372658",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "cast-condition-type",
   propertySlug: "type",
   definition: "what one test before a companion casts is a case of",

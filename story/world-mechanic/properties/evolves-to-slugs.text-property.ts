@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const evolvesToSlugs = {
   id: "01a0655d-ac15-78e3-a569-51e32648b88c",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "evolves-to-slugs",
   propertySlug: "evolves-to-slugs",
   definition: "every mechanic this one reaches",

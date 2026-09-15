@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const classId = {
   id: "01a05fca-cb81-7a5f-a2f7-41aefe8c6b62",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "class-id",
   propertySlug: "class-id",
   definition: "the class a script reads differently for",

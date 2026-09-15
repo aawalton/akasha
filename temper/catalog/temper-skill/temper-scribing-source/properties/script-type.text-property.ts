@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const scriptType = {
   id: "01a05fca-cb86-7ada-8ab9-4822a45c4ebf",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "script-type",
   propertySlug: "script-type",
   definition: "which of the three scripts a scribing source yields",

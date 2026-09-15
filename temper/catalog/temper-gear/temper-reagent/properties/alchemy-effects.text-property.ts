@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const alchemyEffects = {
   id: "01a05fd1-d435-7be6-b06d-cee7752f59c6",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "alchemy-effects",
   propertySlug: "alchemy-effects",
   definition: "the four effects a reagent can lend what it is brewed into",

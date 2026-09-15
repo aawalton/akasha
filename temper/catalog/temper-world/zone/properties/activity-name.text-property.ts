@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const activityName = {
   id: "01a06167-3f9b-7009-8c15-e859ba75172d",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "activity-name",
   propertySlug: "activity-name",
   definition: "the name a completion activity is shown under",

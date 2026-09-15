@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const damageType = {
   id: "01a05fcd-f549-776e-8c14-650e3911df93",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "damage-type",
   propertySlug: "damage-type",
   definition: "the flavour of damage an effect deals",

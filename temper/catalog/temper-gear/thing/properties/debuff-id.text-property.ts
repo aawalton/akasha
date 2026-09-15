@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const debuffId = {
   id: "01a05fd1-d439-75b3-92b0-1243e1ad274a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "debuff-id",
   propertySlug: "debuff-id",
   definition: "the harmful effect a thing puts on whoever it is used against",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const lastRunOutcome = {
   id: "01a05fd3-4362-7b80-9591-3e5f58ebfa66",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "last-run-outcome",
   propertySlug: "last-run-outcome",
   definition: "what a watcher reported of the run it made last",

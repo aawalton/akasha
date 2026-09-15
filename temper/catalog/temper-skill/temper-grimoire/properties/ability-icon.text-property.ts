@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const abilityIcon = {
   id: "01a05fca-cb7e-75ad-ab06-6b66e98a41e9",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "ability-icon",
   propertySlug: "ability-icon",
   definition: "the icon the skill a grimoire grants is shown with",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const slotCategory = {
   id: "01a05fcd-aed0-7287-87ee-60a32ae62e26",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "slot-category",
   propertySlug: "slot-category",
   definition: "the group a jewelry place falls in",

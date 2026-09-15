@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const abilityHeader = {
   id: "01a05fcd-f54c-7d17-833b-2cdc7610f956",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "ability-header",
   propertySlug: "ability-header",
   definition: "the line an item's ability is shown under",

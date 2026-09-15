@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const enchantDescription = {
   id: "01a05fcd-f54d-7b3a-87cd-5e3397dc87cb",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "enchant-description",
   propertySlug: "enchant-description",
   definition: "what the enchantment on an item does",

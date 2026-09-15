@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const categoryId = {
   id: "01a05fba-ce38-7da7-8f2a-a30aa8bbacae",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "category-id",
   propertySlug: "category-id",
   definition: "the group a thing is filed under",

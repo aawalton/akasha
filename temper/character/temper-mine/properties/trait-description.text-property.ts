@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const traitDescription = {
   id: "01a05fcd-f555-763a-91b6-6940440fe5ee",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "trait-description",
   propertySlug: "trait-description",
   definition: "what the trait worked into an item does",

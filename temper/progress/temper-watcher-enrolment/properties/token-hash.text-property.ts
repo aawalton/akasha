@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const tokenHash = {
   id: "01a05fd3-4363-7c0f-9df5-69d317e01c6f",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "token-hash",
   propertySlug: "token-hash",
   definition: "the digest a token is recognised by without the token being held",

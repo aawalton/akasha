@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const buffId = {
   id: "01a05fcc-41f1-7e7a-abd6-c8c6650999ad",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "buff-id",
   propertySlug: "buff-id",
   definition: "the helpful effect a thing puts on whoever uses it",

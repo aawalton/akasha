@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const effectType = {
   id: "01a05fb0-3cec-7336-a2af-ef2657a47e86",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "effect-type",
   propertySlug: "type",
   definition: "how an effect's value is read against the metric the effect moves",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const recipeName = {
   id: "01a0626e-c112-7021-824e-6c062090140e",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "recipe-name",
   propertySlug: "recipe-name",
   definition: "the name a craftable recipe is shown under",

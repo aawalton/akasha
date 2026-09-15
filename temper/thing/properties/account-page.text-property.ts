@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const accountPage = {
   id: "01a05fba-ce37-7ab7-ac79-b568699606b3",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "account-page",
   propertySlug: "account-page",
   definition: "the account a page belongs to",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const enchantHeader = {
   id: "01a05fcd-f54d-710a-8023-d540525e87cd",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "enchant-header",
   propertySlug: "enchant-header",
   definition: "the line an item's enchantment is shown under",

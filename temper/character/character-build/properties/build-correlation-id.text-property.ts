@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const buildCorrelationId = {
   id: "01a06862-c4ee-7eb3-a4f2-21c62306945a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "build-correlation-id",
   propertySlug: "correlation-id",
   definition: "the identity the client minted for a build before the build was kept",

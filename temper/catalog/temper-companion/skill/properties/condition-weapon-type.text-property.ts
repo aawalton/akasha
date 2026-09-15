@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const conditionWeaponType = {
   id: "01a06193-6ca6-70c6-badc-b2d8484b5e22",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "condition-weapon-type",
   propertySlug: "weapon-type",
   definition: "the weapon a test holds for",

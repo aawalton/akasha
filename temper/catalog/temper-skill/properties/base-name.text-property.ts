@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const baseName = {
   id: "01a05fca-cb81-77df-9bb1-c81f1135aeb9",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "base-name",
   propertySlug: "base-name",
   definition: "the name a skill's morphs are gathered under",

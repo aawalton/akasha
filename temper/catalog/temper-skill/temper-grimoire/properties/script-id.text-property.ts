@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const scriptId = {
   id: "01a05fca-cb86-726d-9036-faa9f19d229d",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "script-id",
   propertySlug: "script-id",
   definition: "the script an entry is about",

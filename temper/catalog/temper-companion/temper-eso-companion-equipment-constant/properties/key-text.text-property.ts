@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const keyText = {
   id: "01a05fcf-246a-7159-98cc-c6c0ba7abf32",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "key-text",
   propertySlug: "key-text",
   definition: "the name the game spells a constant by",

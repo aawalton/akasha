@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const bonusStatus = {
   id: "01a05fd1-d437-73eb-b682-b54edb64a96b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "bonus-status",
   propertySlug: "status",
   definition: "how far temper models what a set bonus does",

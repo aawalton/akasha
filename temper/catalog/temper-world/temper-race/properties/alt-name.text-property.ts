@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const altName = {
   id: "01a05fc4-7a8f-7317-a065-cf6c35fe2012",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "alt-name",
   propertySlug: "alt-name",
   definition: "the second name a people is known by",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const zoneName = {
   id: "01a05fcd-f557-7382-a41e-b179ecebe6e0",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "zone-name",
   propertySlug: "zone-name",
   definition: "what a zone is called",

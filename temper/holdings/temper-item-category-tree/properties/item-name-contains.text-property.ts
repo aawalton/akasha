@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const itemNameContains = {
   id: "01a05fcb-fd32-75de-abbc-161a35a4b1a1",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "item-name-contains",
   propertySlug: "item-name-contains",
   definition: "the words an item's name has for the branch to take it",

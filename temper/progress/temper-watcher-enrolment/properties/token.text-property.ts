@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const token = {
   id: "01a05fd3-4363-77ab-a93e-a7d269483e69",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "token",
   propertySlug: "token",
   definition: "the secret a watcher signs its calls with",

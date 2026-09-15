@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const soloDifficulty = {
   id: "01a05fc4-7a94-7c7a-a850-0f1b6fb1427d",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "solo-difficulty",
   propertySlug: "solo-difficulty",
   definition: "how hard a dungeon is to get through alone",

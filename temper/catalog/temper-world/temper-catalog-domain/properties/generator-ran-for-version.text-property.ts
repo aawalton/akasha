@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const generatorRanForVersion = {
   id: "01a05fc4-7a92-760e-9d6f-0e6cdd38c794",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "generator-ran-for-version",
   propertySlug: "generator-ran-for-version",
   definition: "the game build the generator last ran for",

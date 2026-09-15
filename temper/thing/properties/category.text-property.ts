@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const category = {
   id: "01a05fba-ce38-7d43-8178-11d7822b6825",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "category",
   propertySlug: "category",
   definition: "the sort of thing a page is about",

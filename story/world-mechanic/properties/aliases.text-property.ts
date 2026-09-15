@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const aliases = {
   id: "01a06558-a991-7721-9c7a-fb59e452d286",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "aliases",
   propertySlug: "aliases",
   definition: "another name the text writes a thing under",

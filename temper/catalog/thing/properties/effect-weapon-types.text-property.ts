@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const effectWeaponTypes = {
   id: "01a05fe0-8428-7862-8b91-5d946d0ec754",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "effect-weapon-types",
   propertySlug: "weapon-types",
   definition: "a weapon an effect holds for",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const constantKind = {
   id: "01a05fcf-246a-7dcf-b177-c235a40a5808",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "constant-kind",
   propertySlug: "kind",
   definition: "the sort of value a game constant holds",

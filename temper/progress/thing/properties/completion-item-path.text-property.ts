@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const completionItemPath = {
   id: "01a05fc6-81fb-729c-8013-4df821b1c2d7",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "completion-item-path",
   propertySlug: "completion-item-path",
   definition: "one step of the way down a completion card to the item counted",

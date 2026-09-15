@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const targetBuildId = {
   id: "01a05fcd-f546-7645-8222-b9d3112c35d8",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "target-build-id",
   propertySlug: "target-build-id",
   definition: "the build a character is working towards",

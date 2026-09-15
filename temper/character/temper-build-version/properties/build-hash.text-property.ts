@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const buildHash = {
   id: "01a0685d-89aa-782d-959a-2f5cebb21882",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "build-hash",
   propertySlug: "build-hash",
   definition: "the arrangement a version holds, written as one string",

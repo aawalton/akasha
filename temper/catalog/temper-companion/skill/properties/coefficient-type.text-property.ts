@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const coefficientType = {
   id: "01a06193-6ca4-7cdd-b848-4ff0537c6bf1",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "coefficient-type",
   propertySlug: "coefficient-type",
   definition: "how often a coefficient counts against the metric it reads",

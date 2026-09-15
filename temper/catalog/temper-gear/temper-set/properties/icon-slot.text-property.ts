@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const iconSlot = {
   id: "01a05fd1-d43b-783e-b447-1fb92ded8285",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "icon-slot",
   propertySlug: "slot",
   definition: "the piece an icon is shown for",

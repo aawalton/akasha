@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const glyphName = {
   id: "01a05fcc-41f3-7fbf-9f03-9633908e93c8",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "glyph-name",
   propertySlug: "glyph-name",
   definition: "what the game calls the glyph an enchant is carried by",

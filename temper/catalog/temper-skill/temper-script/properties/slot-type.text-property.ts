@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const slotType = {
   id: "01a05fca-cb87-767f-90a1-977b2c340bc6",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "slot-type",
   propertySlug: "slot-type",
   definition: "the slot in a grimoire a script is set into",

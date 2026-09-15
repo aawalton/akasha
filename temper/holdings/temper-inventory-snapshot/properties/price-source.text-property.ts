@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const priceSource = {
   id: "01a0675a-f185-7929-9208-3fb95bf5d7a1",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "price-source",
   propertySlug: "price-source",
   definition: "the addon the gold figures on a reading came from",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const setName = {
   id: "01a05fcd-f555-7273-9cc6-e1676adee740",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "set-name",
   propertySlug: "set-name",
   definition: "what the set an item belongs to is called",

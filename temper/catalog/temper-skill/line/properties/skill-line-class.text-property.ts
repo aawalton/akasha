@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const skillLineClass = {
   id: "01a05fca-cb87-7a9a-9dda-95916e9f73d7",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "skill-line-class",
   propertySlug: "class",
   definition: "the class a skill line belongs to",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const subtitle = {
   id: "01a05fcf-2467-75a6-9b17-83afd352a723",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "subtitle",
   propertySlug: "subtitle",
   definition: "the epithet a companion is known by",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const buildCharacterName = {
   id: "01a0a545-7c20-7000-8e8e-c96525a19c3e",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "build-character-name",
   propertySlug: "character-name",
   definition: "the name of the character this build was arranged for",

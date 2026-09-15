@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const tab = {
   id: "01a05fcb-d656-76c2-a3f2-90971971c3c3",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "tab",
   propertySlug: "tab",
   definition: "the tab of the completion view a node is shown under",

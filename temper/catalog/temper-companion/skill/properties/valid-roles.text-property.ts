@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const validRoles = {
   id: "01a05fcf-90fe-7faf-8ab5-b05131821f7e",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "valid-roles",
   propertySlug: "valid-roles",
   definition: "a role a skill suits",

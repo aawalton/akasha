@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const trigger = {
   id: "01a06193-6ca2-78f9-be96-80eb545306ff",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "trigger",
   propertySlug: "trigger",
   definition: "what has to happen before an effect fires",

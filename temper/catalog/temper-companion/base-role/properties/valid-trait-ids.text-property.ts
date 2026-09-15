@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const validTraitIds = {
   id: "01a05fce-1853-7aad-97fd-8d8e8e51af86",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "valid-trait-ids",
   propertySlug: "valid-trait-ids",
   definition: "a trait a role is built around",

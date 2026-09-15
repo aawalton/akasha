@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const essenceRune = {
   id: "01a05fcc-41f2-7de9-816e-7c90d5a24ce7",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "essence-rune",
   propertySlug: "essence-rune",
   definition: "the rune deciding which enchant a glyph carries",

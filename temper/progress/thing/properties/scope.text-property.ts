@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const scope = {
   id: "01a05fc6-81fe-702d-b91e-6a8fb0278170",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "scope",
   propertySlug: "scope",
   definition: "how widely a task reaches across an account",

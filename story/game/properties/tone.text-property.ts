@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const tone = {
   id: "01a0673c-8e0e-7003-b779-4135db93f6ad",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "tone",
   propertySlug: "tone",
   definition: "how a game is meant to feel to play",

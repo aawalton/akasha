@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const holderQuote = {
   id: "01a06558-a991-746b-a038-ee071f220b04",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "holder-quote",
   propertySlug: "holder-quote",
   definition: "the sentence a holder is read out of",

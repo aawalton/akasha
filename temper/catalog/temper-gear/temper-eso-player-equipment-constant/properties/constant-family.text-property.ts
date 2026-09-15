@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const constantFamily = {
   id: "01a05fd1-d438-7600-b72e-b390f2f0dabf",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "constant-family",
   propertySlug: "constant-family",
   definition: "the group of gear values a constant belongs to",

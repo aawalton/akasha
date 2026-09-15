@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const validSlots = {
   id: "01a05fcc-41f4-739e-a73e-ae1c6505faab",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "valid-slots",
   propertySlug: "valid-slots",
   definition: "the slots a piece of this kind goes into",

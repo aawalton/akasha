@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const jewelryTypeId = {
   id: "01a05fd1-d43c-7d49-81c6-a1c0aa409075",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "jewelry-type-id",
   propertySlug: "type-id",
   definition: "the kind of jewelry a slot takes",

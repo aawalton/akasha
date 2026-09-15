@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const worldName = {
   id: "01a0675a-f185-7ba7-85f2-df84ed542a9e",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "world-name",
   propertySlug: "world-name",
   definition: "the megaserver a reading was taken on",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const esoDisplayName = {
   id: "01a0675a-f185-73ed-b7fd-fbb6640a739a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "eso-display-name",
   propertySlug: "display-name",
   definition: "the name The Elder Scrolls Online shows a thing under",

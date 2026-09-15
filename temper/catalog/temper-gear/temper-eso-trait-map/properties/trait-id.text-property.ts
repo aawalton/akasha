@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const traitId = {
   id: "01a05fd1-d43e-71b5-b24b-b39383044c71",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "trait-id",
   propertySlug: "trait-id",
   definition: "the trait a number the game has answers to",

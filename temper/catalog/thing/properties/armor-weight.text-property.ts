@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const armorWeight = {
   id: "01a05fe0-8428-703e-953c-0bf31d04039f",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "armor-weight",
   propertySlug: "armor-weight",
   definition: "how heavy a piece of armor is",

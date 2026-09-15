@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const focusScripts = {
   id: "01a05fca-cb82-7738-87f5-0530f38d10af",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "focus-scripts",
   propertySlug: "focus-scripts",
   definition: "the focus scripts a grimoire takes",

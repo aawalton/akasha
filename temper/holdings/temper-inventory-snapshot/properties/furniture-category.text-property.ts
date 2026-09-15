@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const furnitureCategory = {
   id: "01a06053-b37e-76df-9f89-11a83d5fd1e0",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "furniture-category",
   propertySlug: "furniture-category",
   definition: "the room a furnishing is filed under",

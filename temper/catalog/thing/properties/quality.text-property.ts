@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const quality = {
   id: "01a05fb0-3ced-77db-9e30-4e6234c93115",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "quality",
   propertySlug: "quality",
   definition: "the grade a thing is made at",
