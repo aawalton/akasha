@@ -10,7 +10,10 @@ import {
   relationFiled,
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  slugOf,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const scratch = scratchWorld()
@@ -45,6 +48,8 @@ const WORKSPACE = "workspace"
 
 const DRAFTED = "drafted-file-property"
 
+const EXTENDS_TYPE = "extends-type"
+
 const STEM = "01a06d55-0000-7000-8000-0000000000"
 
 const ABOVE: readonly (readonly [string, string])[] = [
@@ -66,11 +71,15 @@ function bodyAt(root: string, at: string, value: Value): undefined {
 
 function alsoSeeded(root: string): undefined {
   const filing = pageFilingFrom(root, STEM)
+  const held = new Map<string, string>()
   for (const [slug, above] of ABOVE) {
     const value = { pageTypeSlug: PAGE_TYPE, slug, extends: [above] }
     const at = `akasha/${slug}.page-type.ts`
     const id = filing(PAGE_TYPE, slug, at, value)
+    held.set(slug, id)
     bodyAt(root, at, { id, ...value })
+    const over = held.get(slugOf(above))
+    if (over !== undefined) relationFiled(root, over, EXTENDS_TYPE, id, [{ path: at }])
   }
   for (const value of CARRIED) {
     const kind = String(value["pageTypeSlug"])
