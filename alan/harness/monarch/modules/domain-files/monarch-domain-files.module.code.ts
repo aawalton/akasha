@@ -25,6 +25,8 @@ import { pageStem } from "akasha/page/naming/named-for/modules/page-stem/page-st
 
 const MONARCH_ACCOUNT = "monarch-account"
 
+const PAGE_TYPE = "page-type"
+
 export type Value = string | number | boolean
 
 export function slugify(text: string): string {
@@ -78,7 +80,7 @@ function minted(
   return pageText(typesAt, pageTypeSlug, {
     id: Bun.randomUUIDv7(),
     pageTypeSlug,
-    type: pageTypeSlug,
+    type: namedAs(PAGE_TYPE, pageTypeSlug, null),
     slug,
     title: wanted.title,
     ...(defined ? { definition: wanted.definition } : {}),
