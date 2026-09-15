@@ -2,7 +2,7 @@ import type { RestaurantMenuItem } from "akasha/alan/collection/place/restaurant
 
 export const godivaChocolateCheesecake = {
   id: "01a06808-b765-700b-9e98-e46d41ea7f55",
-  type: "restaurant-menu-item",
+  type: "page-type/restaurant-menu-item",
   slug: "godiva-chocolate-cheesecake",
   title: "Godiva Chocolate Cheesecake",
   partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],

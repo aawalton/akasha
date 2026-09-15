@@ -2,7 +2,7 @@ import type { RestaurantMenuItem } from "akasha/alan/collection/place/restaurant
 
 export const chocolateTuxedoCreamCheesecake = {
   id: "01a06808-b765-7004-85a6-ad26a0d8edd3",
-  type: "restaurant-menu-item",
+  type: "page-type/restaurant-menu-item",
   slug: "chocolate-tuxedo-cream-cheesecake",
   title: "Chocolate Tuxedo Cream Cheesecake",
   partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],

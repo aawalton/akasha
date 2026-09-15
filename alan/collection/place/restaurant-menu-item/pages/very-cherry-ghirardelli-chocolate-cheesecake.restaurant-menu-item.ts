@@ -2,7 +2,7 @@ import type { RestaurantMenuItem } from "akasha/alan/collection/place/restaurant
 
 export const veryCherryGhirardelliChocolateCheesecake = {
   id: "01a06808-b765-7020-9238-02f569e02098",
-  type: "restaurant-menu-item",
+  type: "page-type/restaurant-menu-item",
   slug: "very-cherry-ghirardelli-chocolate-cheesecake",
   title: "Very Cherry Ghirardelli Chocolate Cheesecake",
   partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],

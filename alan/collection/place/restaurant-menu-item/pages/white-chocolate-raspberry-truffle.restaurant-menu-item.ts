@@ -2,7 +2,7 @@ import type { RestaurantMenuItem } from "akasha/alan/collection/place/restaurant
 
 export const whiteChocolateRaspberryTruffle = {
   id: "01a06808-b765-7021-8d65-00d807276572",
-  type: "restaurant-menu-item",
+  type: "page-type/restaurant-menu-item",
   slug: "white-chocolate-raspberry-truffle",
   title: "White Chocolate Raspberry Truffle",
   partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],

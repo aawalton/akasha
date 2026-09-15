@@ -2,7 +2,7 @@ import type { RestaurantMenuItem } from "akasha/alan/collection/place/restaurant
 
 export const pineappleUpsideDownCheesecake = {
   id: "01a06808-b765-7016-a8cc-524fb2cb710f",
-  type: "restaurant-menu-item",
+  type: "page-type/restaurant-menu-item",
   slug: "pineapple-upside-down-cheesecake",
   title: "Pineapple Upside-Down Cheesecake",
   partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],

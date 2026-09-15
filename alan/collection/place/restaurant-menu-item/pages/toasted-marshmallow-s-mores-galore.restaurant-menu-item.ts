@@ -2,7 +2,7 @@ import type { RestaurantMenuItem } from "akasha/alan/collection/place/restaurant
 
 export const toastedMarshmallowSMoresGalore = {
   id: "01a06808-b765-701c-943d-49faddaaa260",
-  type: "restaurant-menu-item",
+  type: "page-type/restaurant-menu-item",
   slug: "toasted-marshmallow-s-mores-galore",
   title: "Toasted Marshmallow S'mores Galore",
   partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],

@@ -2,7 +2,7 @@ import type { RestaurantMenuItem } from "akasha/alan/collection/place/restaurant
 
 export const oreoDreamExtremeCheesecake = {
   id: "01a06808-b765-7013-9013-b28eafa2a4f5",
-  type: "restaurant-menu-item",
+  type: "page-type/restaurant-menu-item",
   slug: "oreo-dream-extreme-cheesecake",
   title: "Oreo Dream Extreme Cheesecake",
   partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],

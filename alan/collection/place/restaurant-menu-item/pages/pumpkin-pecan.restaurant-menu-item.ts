@@ -2,7 +2,7 @@ import type { RestaurantMenuItem } from "akasha/alan/collection/place/restaurant
 
 export const pumpkinPecan = {
   id: "01a06808-b765-7018-bae5-de1cc92a2ccc",
-  type: "restaurant-menu-item",
+  type: "page-type/restaurant-menu-item",
   slug: "pumpkin-pecan",
   title: "Pumpkin Pecan",
   partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],

@@ -2,7 +2,7 @@ import type { RestaurantMenuItem } from "akasha/alan/collection/place/restaurant
 
 export const lowLiciousCheesecakeWithStrawberries = {
   id: "01a06808-b765-7011-8fc7-dd3cb2f94fbb",
-  type: "restaurant-menu-item",
+  type: "page-type/restaurant-menu-item",
   slug: "low-licious-cheesecake-with-strawberries",
   title: "Low-Licious Cheesecake with Strawberries",
   partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],

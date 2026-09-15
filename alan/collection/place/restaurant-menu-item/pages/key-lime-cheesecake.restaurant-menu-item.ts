@@ -2,7 +2,7 @@ import type { RestaurantMenuItem } from "akasha/alan/collection/place/restaurant
 
 export const keyLimeCheesecake = {
   id: "01a06808-b765-700d-a332-73b4f2813418",
-  type: "restaurant-menu-item",
+  type: "page-type/restaurant-menu-item",
   slug: "key-lime-cheesecake",
   title: "Key Lime Cheesecake",
   partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],

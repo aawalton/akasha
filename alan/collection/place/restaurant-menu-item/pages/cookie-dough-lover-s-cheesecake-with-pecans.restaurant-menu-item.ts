@@ -2,7 +2,7 @@ import type { RestaurantMenuItem } from "akasha/alan/collection/place/restaurant
 
 export const cookieDoughLoverSCheesecakeWithPecans = {
   id: "01a06808-b765-7007-9d55-d65c4e99f8bd",
-  type: "restaurant-menu-item",
+  type: "page-type/restaurant-menu-item",
   slug: "cookie-dough-lover-s-cheesecake-with-pecans",
   title: "Cookie Dough Lover's Cheesecake with Pecans",
   partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
