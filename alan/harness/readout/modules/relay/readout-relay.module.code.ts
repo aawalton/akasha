@@ -59,17 +59,11 @@ const relayed = z.object({
   fallsPerHour: z.number().finite().default(NOT_FALLING),
 })
 
-const held = new Map<string, Reading>()
-
 export function relayedIn(body: unknown): Relayed | null {
   const parsed = relayed.safeParse(body)
   if (!parsed.success) return null
   if (Number.isNaN(Date.parse(parsed.data.at))) return null
   return parsed.data
-}
-
-export function relayedHeld(readout: string): Reading | null {
-  return held.get(readout) ?? null
 }
 
 export function noReadoutSlugged(readout: string): string {

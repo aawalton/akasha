@@ -4,7 +4,6 @@ import {
   type HeldReading,
   noReading,
   type RingAdmission,
-  readingHeldFor,
   readingHeldOn,
 } from "akasha/alan/harness/readout/modules/serving/readout-serving.module.code.ts"
 import {
@@ -51,12 +50,6 @@ export type Values = Readonly<Record<string, unknown>>
 
 export type ReadingHeld = (row: Values) => HeldReading
 
-export function relayedReading(row: Values): HeldReading {
-  const relayed = readingHeldFor(stated(row.slug) ?? "")
-  if (relayed.held === "fresh") return relayed
-  return readingHeldOn(row)
-}
-
 export function inPlaceOrder(rows: readonly Values[]): readonly Values[] {
   return [...rows].sort((one, two) => (statedAt(one.place) ?? 0) - (statedAt(two.place) ?? 0))
 }
@@ -96,7 +89,7 @@ export function stoplightWith(
   row: Values,
   rungs: readonly Rung[],
   wireKeyName: string = HABIT,
-  readingHeld: ReadingHeld = relayedReading
+  readingHeld: ReadingHeld = readingHeldOn
 ): Stoplight | null {
   const slug = stated(row.slug)
   const label = stated(row.label)
@@ -134,7 +127,7 @@ export function stoplightWith(
 export async function stoplightOf(
   row: Values,
   wireKeyName: string = HABIT,
-  readingHeld: ReadingHeld = relayedReading
+  readingHeld: ReadingHeld = readingHeldOn
 ): Promise<Stoplight | null> {
   const scaleSlug = scaleSlugIn(row)
   if (scaleSlug === undefined) return null
@@ -160,7 +153,7 @@ async function figureOffScaleOf(groupSlug: string): Promise<boolean> {
 export async function stoplightsInGroup(
   groupSlug: string,
   wireKeyName: string = HABIT,
-  readingHeld: ReadingHeld = relayedReading
+  readingHeld: ReadingHeld = readingHeldOn
 ): Promise<readonly Stoplight[]> {
   const asked = await askingFor({
     pageTypeSlug: READOUT,

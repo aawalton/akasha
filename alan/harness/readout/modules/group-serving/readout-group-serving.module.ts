@@ -69,11 +69,6 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A caller handing in nothing has the relay's reading read first and the row's reading second.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A caller wanting the colors without a route asks for the group on its own.",
     },
     {

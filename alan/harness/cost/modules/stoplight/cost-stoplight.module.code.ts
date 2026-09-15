@@ -4,7 +4,6 @@ import {
   HABIT,
   inPlaceOrder,
   type ReadingHeld,
-  relayedReading,
   type Stoplight,
   stilled,
   stoplightOf,
@@ -14,6 +13,7 @@ import { stated } from "akasha/alan/harness/readout/modules/none-left/readout-no
 import {
   noReading,
   type RingAdmission,
+  readingHeldOn,
 } from "akasha/alan/harness/readout/modules/serving/readout-serving.module.code.ts"
 import {
   BELOW_EVERY_RUNG,
@@ -37,7 +37,7 @@ type SurplusNow = {
   readonly hours: number | null
 }
 
-async function surplusNow(readingHeld: ReadingHeld = relayedReading): Promise<SurplusNow | null> {
+async function surplusNow(readingHeld: ReadingHeld = readingHeldOn): Promise<SurplusNow | null> {
   const asked = await askingFor({
     pageTypeSlug: READOUT,
     where: { slug: { is: SURPLUS_READOUT } },
@@ -61,7 +61,7 @@ function countingDown(cost: number, surplus: Stoplight | null): Pick<Stoplight, 
 function costStoplightWith(
   row: Values,
   surplus: SurplusNow | null,
-  readingHeld: ReadingHeld = relayedReading
+  readingHeld: ReadingHeld = readingHeldOn
 ): Stoplight | null {
   const label = stated(row.label)
   const wireKey = stated(row.wireKey)
@@ -88,7 +88,7 @@ function costStoplightWith(
 }
 
 export async function costStoplights(
-  readingHeld: ReadingHeld = relayedReading
+  readingHeld: ReadingHeld = readingHeldOn
 ): Promise<readonly Stoplight[]> {
   const asked = await askingFor({
     pageTypeSlug: READOUT,

@@ -11,7 +11,6 @@ import {
   type Reading,
   readingOn,
 } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
-import { relayedHeld } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
 import { readScale } from "akasha/alan/harness/readout/modules/scale-reading/readout-scale-reading.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
@@ -43,17 +42,8 @@ function heldOf(kept: Reading | null): HeldReading {
   return { held: "fresh", value: kept.value, at: kept.at, fallsPerHour: kept.fallsPerHour }
 }
 
-export function readingHeldFor(readoutSlug: string): HeldReading {
-  return heldOf(relayedHeld(readoutSlug))
-}
-
 export function readingHeldOn(values: Readonly<Record<string, unknown>>): HeldReading {
   return heldOf(readingOn(values))
-}
-
-export function relayedFresh(readoutSlug: string): number | null {
-  const reading = readingHeldFor(readoutSlug)
-  return reading.held === "fresh" ? reading.value : null
 }
 
 export function noReading(): Response {
@@ -80,9 +70,8 @@ export async function answerReadoutAdmittedBy(
   const [row] = asked.rows
   if (row === undefined) return noReading()
 
-  const relayed = relayedFresh(readoutSlug)
   const carried = readingHeldOn(row)
-  const value = relayed ?? (carried.held === "fresh" ? carried.value : null)
+  const value = carried.held === "fresh" ? carried.value : null
   if (value === null) return noReading()
 
   const wireKey = stated(row.wireKey)

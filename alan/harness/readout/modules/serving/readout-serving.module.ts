@@ -35,11 +35,6 @@ export const readoutServing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A reading relayed here and a reading carried on a readout's own row are both read.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
         "A reading held fresh carries the moment it was taken and how fast it falls with the clock.",
     },
     {
@@ -95,11 +90,6 @@ export const readoutServing = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a person or a device.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The reading relayed here is read before the reading carried on the readout's own row.",
     },
     {
       decisionKind: "decision-kind/departure",
