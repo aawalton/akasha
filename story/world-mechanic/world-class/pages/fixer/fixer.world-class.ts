@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const fixer = {
   id: "01a0657e-01dd-7222-81e2-47501c0a8b49",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "fixer",
   title: "Fixer",
   world: "world/the-wandering-inn",

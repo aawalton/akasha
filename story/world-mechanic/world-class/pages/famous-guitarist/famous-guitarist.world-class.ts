@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const famousGuitarist = {
   id: "01a0657e-01da-7125-ac67-fc77b83b5a03",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "famous-guitarist",
   title: "Famous Guitarist",
   world: "world/the-wandering-inn",

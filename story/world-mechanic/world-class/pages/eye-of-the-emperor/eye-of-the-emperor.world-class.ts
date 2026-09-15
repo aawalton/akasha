@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const eyeOfTheEmperor = {
   id: "01a0657e-01d9-7ed6-9db3-7f2b5f757e5d",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "eye-of-the-emperor",
   title: "Eye of the Emperor",
   world: "world/the-wandering-inn",

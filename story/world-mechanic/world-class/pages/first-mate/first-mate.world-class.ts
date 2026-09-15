@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const firstMate = {
   id: "01a0657e-01dc-73ae-96e4-e2a91602fbcc",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "first-mate",
   title: "First Mate",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const fistOfTheEmpyreanSky = {
   id: "01a0657e-1365-74f2-95eb-db161363c507",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "fist-of-the-empyrean-sky",
   title: "Fist of the Empyrean Sky",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const famedMethodActor = {
   id: "01a0657e-1361-713a-a77f-f0639a57c66e",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "famed-method-actor",
   title: "Famed Method Actor",
   world: "world/the-wandering-inn",

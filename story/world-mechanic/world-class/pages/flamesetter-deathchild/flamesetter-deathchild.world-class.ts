@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const flamesetterDeathchild = {
   id: "01a0657e-1365-712c-a447-70b22815cbf7",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "flamesetter-deathchild",
   title: "Flamesetter Deathchild",
   world: "world/the-wandering-inn",

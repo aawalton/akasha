@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const fleshShaper = {
   id: "01a0657e-01dd-7857-b74e-505b12030648",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "flesh-shaper",
   title: "Flesh Shaper",
   world: "world/the-wandering-inn",

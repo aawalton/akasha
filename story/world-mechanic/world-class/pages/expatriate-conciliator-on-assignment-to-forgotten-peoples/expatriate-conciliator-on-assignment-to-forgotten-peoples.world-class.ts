@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const expatriateConciliatorOnAssignmentToForgottenPeoples = {
   id: "01a0657e-1361-73bc-8d56-9fdca3edf830",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "expatriate-conciliator-on-assignment-to-forgotten-peoples",
   title: "Expatriate Conciliator on Assignment to Forgotten Peoples",
   world: "world/the-wandering-inn",

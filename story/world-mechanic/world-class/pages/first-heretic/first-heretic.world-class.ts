@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const firstHeretic = {
   id: "01a0657e-1364-7764-b526-5bf7d8bb9581",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "first-heretic",
   title: "First Heretic",
   world: "world/the-wandering-inn",
