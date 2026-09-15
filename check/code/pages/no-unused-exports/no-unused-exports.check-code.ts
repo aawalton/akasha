@@ -125,14 +125,6 @@ export const noUnusedExports = {
         "A change taking away the last import of a value is judged at audit rather than at change.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "Nothing is judged while this page states `experimental`.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "`experimental` comes off this page where Alan has settled what counts as unused.",
-    },
-    {
       invariantKind: "invariant-kind/upkeep",
       statement:
         "A value this check refuses is taken away only where nothing a person reaches goes with it.",
@@ -287,5 +279,4 @@ export const noUnusedExports = {
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },
-  experimental: true,
 } as const satisfies CheckCode
