@@ -18,7 +18,7 @@ export const rynFileStructure = {
     {
       statement: "A domain wrapping one page and that page are one page.",
       workingMemory:
-        "No slug is held by both a domain page and a page type any more, so the eighteen are landed, and temper-watcher and page-service with them. 62 of the 482 domains still wrap exactly one page, about 45 of those a domain over a single `modules/<one>` folder and the rest a domain over one domain, as `domain/text` sits over `domain/quote`. Four wrap a service-cluster and wait on the registry intent below: git-transport, eso-rig, auth-proxy and postgres-annual-dump.\n",
+        "76 domains wrap one page. 41 wrapped a module and 32 are folded: the module survives, carrying the wrapper's invariants, because a module extends domain, so no domain is lost. Fold only where both definitions say one concern twice, as util-hashing and sha256-hex did. 10 failed that and stay; the tell is wrapper invariants about a class rather than the one part. The 35 left wrap no module: 12 a domain, 11 a change-mechanical, 8 a page type, 2 a manifest, 2 a router-app.\n",
     },
     {
       statement:
