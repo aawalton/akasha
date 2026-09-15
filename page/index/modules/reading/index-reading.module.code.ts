@@ -31,6 +31,8 @@ const PAGE_TYPE = "page-type"
 
 const ID = "id"
 
+const HELD_TS = "ts"
+
 export function indexNamed(): string {
   return INDEX_AT
 }
@@ -244,7 +246,13 @@ export function shapesOfType(
   return shapedOfType(given, pageTypeSlug)
 }
 
+function typeScriptAt(path: string): boolean {
+  const said = partedIn(path)
+  return said !== null && said.held === HELD_TS
+}
+
 const bodied = heldEach((reading: Reading, path: string): Value | null => {
+  if (!typeScriptAt(path)) return null
   const body = reading.read(path)
   return body === null ? null : valueIn(body)
 })

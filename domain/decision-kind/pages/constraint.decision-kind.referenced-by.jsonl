@@ -299,6 +299,7 @@
 {"propertySlug":"decision-kind","path":"page/file-property/properties/file-name.text-property.ts","id":"01a0585d-233d-7e12-8214-d5f3f602412f"}
 {"propertySlug":"decision-kind","path":"page/generator-kind/generator-kind.page-type.ts","id":"01a04f17-5b78-7c66-9145-7a386e55406e"}
 {"propertySlug":"decision-kind","path":"page/index/modules/answering/index-answering.module.ts","id":"01a05eca-0849-789d-8118-1e8d7ae05244"}
+{"propertySlug":"decision-kind","path":"page/index/modules/reading/index-reading.module.ts","id":"01a04bdd-596c-7b76-9978-92ebfa6a20e4"}
 {"propertySlug":"decision-kind","path":"page/modules/body/page-body.module.ts","id":"01a05de5-1c90-7834-a245-bb7748f6f1ea"}
 {"propertySlug":"decision-kind","path":"page/name-format/modules/name-matching/name-matching.module.ts","id":"01a04eba-7459-7284-8c06-c79e5963387d"}
 {"propertySlug":"decision-kind","path":"page/name-format/pages/lower-camel-case/lower-camel-case.name-format.ts","id":"01a04eba-7459-7514-a7a9-88538edfa887"}

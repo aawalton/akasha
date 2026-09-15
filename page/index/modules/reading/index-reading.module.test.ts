@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import {
   idFiled,
   listedFiled,
@@ -12,6 +14,7 @@ import {
   readingIn,
   shapesEvery,
   shapesOfType,
+  valueByPath,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
@@ -277,4 +280,15 @@ test("a page a value is filed for is answered under its page type too", () => {
   ])
 
   expect(everyOfType(root, "module")).toEqual([{ path: "akasha/one/one.module.ts", id: A }])
+})
+
+test("a path whose body is not typescript carries no value, whatever that body holds", () => {
+  const root = rootAt()
+  const body = `export const one = { id: "${A}" } as const\n`
+  mkdirSync(join(root, "akasha/one"), { recursive: true })
+  writeFileSync(join(root, "akasha/one/one.module.held.jsonl"), body)
+  writeFileSync(join(root, "akasha/one/one.module.ts"), body)
+
+  expect(valueByPath(root, "akasha/one/one.module.held.jsonl")).toBe(null)
+  expect(valueByPath(root, "akasha/one/one.module.ts")).toEqual({ id: A })
 })

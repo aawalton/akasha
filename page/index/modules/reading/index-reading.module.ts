@@ -188,6 +188,15 @@ export const indexReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A path whose body is not typescript carries no value, and that body is not read.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Reading a body no typescript parser admits costs the square of how many lines it has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The one page of a page type carrying a slug is answered with the value that page carries.",
     },
