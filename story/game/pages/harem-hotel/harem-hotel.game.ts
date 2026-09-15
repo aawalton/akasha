@@ -2,7 +2,7 @@ import type { Game } from "akasha/story/game/game.page-type.types.ts"
 
 export const haremHotel = {
   id: "01a0673f-a3d6-7001-854b-30d81fd19b31",
-  type: "game",
+  type: "page-type/game",
   slug: "harem-hotel",
   title: "Harem Hotel",
   unit: "unit/words",

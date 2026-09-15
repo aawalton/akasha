@@ -2,7 +2,7 @@ import type { Game } from "akasha/story/game/game.page-type.types.ts"
 
 export const partnersIi = {
   id: "01a0673f-a3d6-7003-8d45-3d6b84fb0b2e",
-  type: "game",
+  type: "page-type/game",
   slug: "partners-ii",
   title: "Partners II",
   unit: "unit/words",
