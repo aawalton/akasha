@@ -11,7 +11,7 @@ export const veraGraphCleanup = {
       statement:
         "Every closure over the graph's edges is worked out in the graph rather than by each caller.",
       workingMemory:
-        "The graph answers `edgesOutOf` and `reachingOutOf` over import edges, reading each body from the reader handed in and only where TypeScript parses it. The deploy closure and the stylesheet globber both ask it, and `reachedFrom` is gone. What is left is the gateway's own walk at `gateway-tree-version.module.code.ts:72-91`, and the relation edge, which is read into a node but not out of one.",
+        "The graph answers `edgesOutOf` and `reachingOutOf` over import edges, reading each body from the reader handed in and only where TypeScript parses it. The deploy closure, the stylesheet globber and the gateway's version stamp all ask it, and both walkers they used are gone. What still reads an import without the graph is one edge rather than a closure: `folder-matches-a-shape.check.code.ts:37`, and `page-reference-filing.module.code.ts:99`, which writes the edge the graph reads the other way.",
     },
     {
       statement:
