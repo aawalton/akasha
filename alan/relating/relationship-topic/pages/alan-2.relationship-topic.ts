@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const alan2 = {
   id: "019db533-f382-73fd-a79c-156165a23c3d",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "alan-2",
   title: "Alan",
   relationshipTopicParent: "relationship-topic/sharing-interests-insights",

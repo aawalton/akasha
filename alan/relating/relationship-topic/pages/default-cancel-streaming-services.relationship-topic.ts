@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const defaultCancelStreamingServices = {
   id: "019db533-f382-7489-97eb-da02c2c0f385",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "default-cancel-streaming-services",
   title: "Default Cancel Streaming Services",
   relationshipTopicParent: "relationship-topic/coordinate-on-family-projects",

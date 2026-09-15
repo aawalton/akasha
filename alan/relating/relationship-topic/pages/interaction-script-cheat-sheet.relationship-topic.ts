@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const interactionScriptCheatSheet = {
   id: "019db533-f382-7455-a5ba-0202ce86db4b",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "interaction-script-cheat-sheet",
   title: "Interaction Script / Cheat Sheet",
   relationshipTopicParent: "relationship-topic/rules-of-engagement",

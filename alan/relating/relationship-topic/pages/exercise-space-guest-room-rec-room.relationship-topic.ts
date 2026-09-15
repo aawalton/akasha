@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const exerciseSpaceGuestRoomRecRoom = {
   id: "019db533-f382-714d-851d-c36ff1de4e52",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "exercise-space-guest-room-rec-room",
   title: "Exercise Space / Guest Room / Rec Room",
   relationshipTopicParent: "relationship-topic/long-term-vision-for-our-home",

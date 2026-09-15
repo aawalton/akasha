@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const shiftingWindowsOfTolerance = {
   id: "019db533-f382-730c-901b-a124260370cb",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "shifting-windows-of-tolerance",
   title: "Shifting Windows Of Tolerance",
   relationshipTopicParent: "relationship-topic/rules-of-engagement",

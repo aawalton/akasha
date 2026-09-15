@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const safetyAsAResourceBar = {
   id: "019db533-f382-7259-bb3a-a952fb7aefd9",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "safety-as-a-resource-bar",
   title: "Safety As A Resource Bar",
   relationshipTopicParent: "relationship-topic/alan-feeling-safe",

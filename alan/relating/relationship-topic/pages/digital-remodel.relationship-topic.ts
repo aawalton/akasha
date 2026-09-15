@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const digitalRemodel = {
   id: "019db533-f382-74ac-9fa8-d1e622ff5e0e",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "digital-remodel",
   title: "Digital Remodel",
   relationshipTopicParent: "relationship-topic/coordinate-on-family-projects",

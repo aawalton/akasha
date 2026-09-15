@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const jenny = {
   id: "019db533-f382-716f-9f82-be5c76041304",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "jenny",
   title: "Jenny",
   relationshipTopicParent: "relationship-topic/interpersonal-pain-points",

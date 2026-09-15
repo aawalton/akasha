@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const redYellowGreenDecisions = {
   id: "019db533-f382-731c-8aff-a509ab7f1649",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "red-yellow-green-decisions",
   title: "Red, Yellow, Green Decisions",
   relationshipTopicParent: "relationship-topic/mental-models",

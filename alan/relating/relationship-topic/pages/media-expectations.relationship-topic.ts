@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const mediaExpectations = {
   id: "019db533-f382-74e1-b0b7-d71e644b6c83",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "media-expectations",
   title: "Media Expectations",
   relationshipTopicParent: "relationship-topic/general",

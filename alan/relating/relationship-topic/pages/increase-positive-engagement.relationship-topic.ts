@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const increasePositiveEngagement = {
   id: "019db533-f382-71ba-84b9-c4b622efbe92",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "increase-positive-engagement",
   title: "Increase Positive Engagement",
   relationshipTopicParent: "relationship-topic/rules-of-engagement",

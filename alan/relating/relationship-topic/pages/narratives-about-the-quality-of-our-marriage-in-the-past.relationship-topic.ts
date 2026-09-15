@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const narrativesAboutTheQualityOfOurMarriageInThePast = {
   id: "019db533-f382-7527-abef-bf50591e775a",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "narratives-about-the-quality-of-our-marriage-in-the-past",
   title: "Narratives About The Quality Of Our Marriage In The Past",
   relationshipTopicParent: "relationship-topic/narratives",

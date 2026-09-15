@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const limitedExpansionGeneralRules = {
   id: "019db533-f382-71e0-9a71-4d6c9b7763f9",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "limited-expansion-general-rules",
   title: "Limited Expansion General Rules",
   relationshipTopicParent: "relationship-topic/whitelist-specific-expansions",

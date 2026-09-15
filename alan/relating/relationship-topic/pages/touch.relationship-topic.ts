@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const touch = {
   id: "019db533-f382-7129-b9a2-4feead8473d2",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "touch",
   title: "Touch",
   relationshipTopicParent: "relationship-topic/being-intentional",

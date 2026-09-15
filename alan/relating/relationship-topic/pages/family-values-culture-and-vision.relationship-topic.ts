@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const familyValuesCultureAndVision = {
   id: "019db533-f382-717c-9212-adf2f77f0ebe",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "family-values-culture-and-vision",
   title: "Family Values, Culture, And Vision",
   relationshipTopicPeople: ["person/jenny"],

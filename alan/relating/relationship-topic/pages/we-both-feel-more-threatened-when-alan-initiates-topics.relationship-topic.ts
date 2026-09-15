@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const weBothFeelMoreThreatenedWhenAlanInitiatesTopics = {
   id: "019db533-f382-7299-a880-265c77b9084b",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "we-both-feel-more-threatened-when-alan-initiates-topics",
   title: "We Both Feel More Threatened When Alan Initiates Topics",
   relationshipTopicParent: "relationship-topic/shared",

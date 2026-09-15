@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const interpersonalPainPoints = {
   id: "019db533-f382-755b-b84b-bc6264d8d7e5",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "interpersonal-pain-points",
   title: "Interpersonal Pain Points",
   relationshipTopicSensitivity: "not-applicable",

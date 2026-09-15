@@ -2,7 +2,7 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topic/
 
 export const rateLimitHardConversations = {
   id: "019db533-f382-72de-8601-98c0945dc2a4",
-  type: "relationship-topic",
+  type: "page-type/relationship-topic",
   slug: "rate-limit-hard-conversations",
   title: "Rate Limit Hard Conversations",
   relationshipTopicParent: "relationship-topic/reducing-jen-s-load-in-2026",
