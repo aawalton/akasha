@@ -146,10 +146,3 @@ export async function filePropertyDefinitions(
   }
   return defs
 }
-
-export async function fileRelationDeclarations(
-  pageTypeSlug: string
-): Promise<readonly Declaration[] | null> {
-  const shape = await shapeAsked(pageTypeSlug).catch(() => null)
-  return shape === null ? null : shape.declarations
-}
