@@ -284,7 +284,6 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/errors-core/runtime-error/runtime-error.page-type.ts","id":"01a05f3f-e3df-76da-ba22-9282e49c2d98"}
 {"propertySlug":"invariant-kind","path":"alan/harness/geo-io/geo-io.domain.ts","id":"01a05c48-deeb-7000-a8e9-296daa14b0c7"}
 {"propertySlug":"invariant-kind","path":"alan/harness/health-samples-access/health-samples-access.domain.ts","id":"01a05bc7-9129-7000-a4ef-ca6a1a3463b1"}
-{"propertySlug":"invariant-kind","path":"alan/harness/health-samples-access/modules/latest-arrival/latest-arrival.module.ts","id":"01a05bc7-9129-7005-b4b8-2f62e20c1b94"}
 {"propertySlug":"invariant-kind","path":"alan/harness/health-samples-access/modules/sample-identity/sample-identity.module.ts","id":"01a05bc7-9129-7002-ab78-700980114edd"}
 {"propertySlug":"invariant-kind","path":"alan/harness/health-samples-access/modules/sample-selecting/sample-selecting.module.ts","id":"01a05bc7-9129-7004-a85c-285fd90a0c08"}
 {"propertySlug":"invariant-kind","path":"alan/harness/health-samples-access/modules/sample-shape/sample-shape.module.ts","id":"01a05bc7-9129-7001-9204-f43ce2046c31"}

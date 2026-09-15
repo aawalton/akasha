@@ -17,7 +17,6 @@ export const googleEmail = {
     "module/gmail-client",
     "module/gmail-credentials",
     "module/gmail-drafts",
-    "module/gmail-history",
     "module/gmail-inbound-adapter",
     "module/gmail-mailbox",
     "module/gmail-messages",

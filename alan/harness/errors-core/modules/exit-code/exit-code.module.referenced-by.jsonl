@@ -21,7 +21,6 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/google/calendar/modules/calendar-events/calendar-events.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/google/calendar/modules/send-updates-narrowing/send-updates-narrowing.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/google/drive/modules/drive-files/drive-files.module.code.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/google/email/modules/gmail-history/gmail-history.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/google/email/modules/list-unsubscribe/list-unsubscribe.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/google/oauth/modules/oauth-callback/oauth-callback.module.code.ts"}

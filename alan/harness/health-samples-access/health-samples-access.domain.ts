@@ -6,7 +6,6 @@ export const healthSamplesAccess = {
   slug: "health-samples-access",
   definition: "step and calorie readings kept on the ESO day each began in",
   parts: [
-    "module/latest-arrival",
     "module/sample-identity",
     "module/sample-rows",
     "module/sample-selecting",
