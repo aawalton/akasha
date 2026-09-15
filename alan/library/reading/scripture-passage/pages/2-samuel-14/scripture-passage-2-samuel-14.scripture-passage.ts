@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const scripturePassage2Samuel14 = {
   id: "01a06804-11aa-7023-b788-66e4c3eb63d8",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "scripture-passage-2-samuel-14",
   title: "2 Samuel 14",
   book: "2 Samuel",

@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const scripturePassage3Nephi10 = {
   id: "019f0977-39ed-7e33-9ef3-9f2e83a402a4",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "scripture-passage-3-nephi-10",
   title: "3 Nephi 10",
   book: "3 Nephi",

@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const acts24 = {
   id: "01a06804-11ab-7006-9b5d-4bdaf3f020d1",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "acts-24",
   title: "Acts 24",
   book: "Acts",

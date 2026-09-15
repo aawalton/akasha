@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const scripturePassage2Timothy4 = {
   id: "01a06804-11aa-703c-89c4-1910c9514d7a",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "scripture-passage-2-timothy-4",
   title: "2 Timothy 4",
   book: "2 Timothy",
