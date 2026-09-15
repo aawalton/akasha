@@ -2,7 +2,7 @@ import type { Attribute } from "akasha/alan/attribute/attribute.page-type.types.
 
 export const intelligence = {
   id: "01a06841-a185-7471-8155-9b91e3f40e35",
-  type: "attribute",
+  type: "page-type/attribute",
   slug: "intelligence",
   definition: "what Alan has built by learning about the world",
   pointUnit: "four learn-everything topics updated",

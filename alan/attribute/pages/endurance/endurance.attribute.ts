@@ -2,7 +2,7 @@ import type { Attribute } from "akasha/alan/attribute/attribute.page-type.types.
 
 export const endurance = {
   id: "01a06841-a16e-7bcb-a31a-fba64ce8de69",
-  type: "attribute",
+  type: "page-type/attribute",
   slug: "endurance",
   definition: "what Alan has built by moving his body",
   pointUnit: "200 active calories burned",

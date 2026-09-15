@@ -2,7 +2,7 @@ import type { Attribute } from "akasha/alan/attribute/attribute.page-type.types.
 
 export const strength = {
   id: "01a06841-a1b4-731f-8d52-fe93c3564922",
-  type: "attribute",
+  type: "page-type/attribute",
   slug: "strength",
   definition: "what Alan has built by lifting weight",
   pointUnit: "1000 kilograms lifted",

@@ -2,7 +2,7 @@ import type { Attribute } from "akasha/alan/attribute/attribute.page-type.types.
 
 export const luck = {
   id: "01a06841-a19b-775f-8183-8af74871a217",
-  type: "attribute",
+  type: "page-type/attribute",
   slug: "luck",
   definition: "what Alan has built by inviting rejection",
   pointUnit: "one rejection attempted",
