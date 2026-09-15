@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0209250MentalWarfare = {
   id: "01a06730-4e99-7f3a-acf2-84b3038e94a0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0209-250-mental-warfare",
   title: "250 Mental Warfare",
   story: "story-read/the-new-world",

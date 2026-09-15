@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0294335ThePrimevalsPowers = {
   id: "01a06730-4ec3-73be-a840-8f33b15dfbb6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0294-335-the-primevals-powers",
   title: "335 The Primevals' Powers",
   story: "story-read/the-new-world",

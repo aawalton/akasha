@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0197238BrimstoneAndSteel = {
   id: "01a06730-4e96-7918-99cf-86ced98fdb35",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0197-238-brimstone-and-steel",
   title: "238 Brimstone and Steel",
   story: "story-read/the-new-world",

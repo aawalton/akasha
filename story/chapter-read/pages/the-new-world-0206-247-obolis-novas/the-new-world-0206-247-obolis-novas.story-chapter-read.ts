@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0206247ObolisNovas = {
   id: "01a06730-4e99-776b-9037-634eb7fc6b6b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0206-247-obolis-novas",
   title: "247 Obolis Novas",
   story: "story-read/the-new-world",

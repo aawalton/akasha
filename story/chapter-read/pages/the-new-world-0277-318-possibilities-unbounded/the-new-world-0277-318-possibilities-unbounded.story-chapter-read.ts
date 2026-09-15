@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0277318PossibilitiesUnbounded = {
   id: "01a06730-4ebf-7068-bb04-6a15e3b606e0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0277-318-possibilities-unbounded",
   title: "318 Possibilities Unbounded",
   story: "story-read/the-new-world",

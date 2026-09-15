@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0295336TheDeathOfAMind = {
   id: "01a06730-4ec3-73b4-adf1-a6a5b0071777",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0295-336-the-death-of-a-mind",
   title: "336 The Death of a Mind",
   story: "story-read/the-new-world",

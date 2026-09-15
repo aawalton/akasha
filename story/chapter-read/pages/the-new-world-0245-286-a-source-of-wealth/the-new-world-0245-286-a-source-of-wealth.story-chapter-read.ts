@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0245286ASourceOfWealth = {
   id: "01a06730-4eae-7c08-bd6f-7cf9878421b4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0245-286-a-source-of-wealth",
   title: "286 A Source of Wealth",
   story: "story-read/the-new-world",

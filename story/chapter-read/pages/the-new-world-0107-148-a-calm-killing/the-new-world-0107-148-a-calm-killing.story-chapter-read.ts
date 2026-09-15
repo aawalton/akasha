@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0107148ACalmKilling = {
   id: "01a06730-4e68-7237-8635-6340bcc3a4ba",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0107-148-a-calm-killing",
   title: "148 A Calm Killing",
   story: "story-read/the-new-world",

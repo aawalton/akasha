@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0185226AgainstTheTide = {
   id: "01a06730-4e92-7645-9f12-50b6fda8786a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0185-226-against-the-tide",
   title: "226 Against the Tide",
   story: "story-read/the-new-world",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0152193AConflictOfInterests = {
   id: "01a06730-4e80-7604-8741-f522b81917f7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0152-193-a-conflict-of-interests",
   title: "193 A Conflict of Interests",
   story: "story-read/the-new-world",

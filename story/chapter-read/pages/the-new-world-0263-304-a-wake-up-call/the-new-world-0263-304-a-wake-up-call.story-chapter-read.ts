@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0263304AWakeUpCall = {
   id: "01a06730-4eba-738d-983f-ecc5b2a2912e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0263-304-a-wake-up-call",
   title: "304 A Wake Up Call",
   story: "story-read/the-new-world",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0174215OutOfFireAndIntoHell = {
   id: "01a06730-4e8a-744f-9e32-7611abaf4275",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0174-215-out-of-fire-and-into-hell",
   title: "215 Out of Fire and Into Hell",
   story: "story-read/the-new-world",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0233274FurnaceAndFire = {
   id: "01a06730-4ea7-7e7c-891d-1048226a0375",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0233-274-furnace-and-fire",
   title: "274 Furnace and Fire",
   story: "story-read/the-new-world",

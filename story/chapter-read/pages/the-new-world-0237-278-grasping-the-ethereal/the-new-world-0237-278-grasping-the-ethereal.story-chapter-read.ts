@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0237278GraspingTheEthereal = {
   id: "01a06730-4eaa-73cc-a993-bb97a465e4ef",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0237-278-grasping-the-ethereal",
   title: "278 Grasping the Ethereal",
   story: "story-read/the-new-world",

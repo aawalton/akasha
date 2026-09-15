@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0298339TheCoreOfTheMatter = {
   id: "01a06730-4ec4-7bac-9fd8-2ea6e320e049",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0298-339-the-core-of-the-matter",
   title: "339 The Core of the Matter",
   story: "story-read/the-new-world",

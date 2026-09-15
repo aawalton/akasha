@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0138179Rivaria = {
   id: "01a06730-4e7b-7635-92aa-cda76635174a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0138-179-rivaria",
   title: "179 Rivaria",
   story: "story-read/the-new-world",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0252293TheSiegeOfSaphigia = {
   id: "01a06730-4eb4-73cb-b3f1-27da6adeb73a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0252-293-the-siege-of-saphigia",
   title: "293 The siege of Saphigia",
   story: "story-read/the-new-world",

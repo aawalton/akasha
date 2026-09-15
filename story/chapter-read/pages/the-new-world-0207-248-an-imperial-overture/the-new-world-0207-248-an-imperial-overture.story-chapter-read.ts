@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0207248AnImperialOverture = {
   id: "01a06730-4e99-7b4a-9701-9cafbb46454d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0207-248-an-imperial-overture",
   title: "248 An Imperial Overture",
   story: "story-read/the-new-world",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0219260ABloodyCompromise = {
   id: "01a06730-4e9d-7cdc-b671-7de75b0a0011",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0219-260-a-bloody-compromise",
   title: "260 A Bloody Compromise",
   story: "story-read/the-new-world",

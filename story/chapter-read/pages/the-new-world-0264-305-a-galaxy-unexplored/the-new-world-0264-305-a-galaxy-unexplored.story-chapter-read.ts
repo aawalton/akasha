@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0264305AGalaxyUnexplored = {
   id: "01a06730-4ebb-74de-8faa-4bc802dcc91e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0264-305-a-galaxy-unexplored",
   title: "305 A Galaxy Unexplored",
   story: "story-read/the-new-world",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0241282BeastsOfBurden = {
   id: "01a06730-4eac-71e7-a6aa-5be614030322",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0241-282-beasts-of-burden",
   title: "282 Beasts of Burden",
   story: "story-read/the-new-world",

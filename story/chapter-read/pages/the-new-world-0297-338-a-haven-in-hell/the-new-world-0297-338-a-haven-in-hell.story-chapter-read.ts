@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0297338AHavenInHell = {
   id: "01a06730-4ec3-7fb0-8582-582c74284374",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0297-338-a-haven-in-hell",
   title: "338 A Haven in Hell",
   story: "story-read/the-new-world",

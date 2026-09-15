@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0270311ACleverBug = {
   id: "01a06730-4ebd-7b46-b526-3f091559f74e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0270-311-a-clever-bug",
   title: "311 A Clever Bug",
   story: "story-read/the-new-world",

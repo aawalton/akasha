@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0154195AProposition = {
   id: "01a06730-4e81-76ae-99c4-2dee34d4e95a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0154-195-a-proposition",
   title: "195 A Proposition",
   story: "story-read/the-new-world",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0221262TheLastDays = {
   id: "01a06730-4e9e-7d51-aa77-0409b0be4c30",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0221-262-the-last-days",
   title: "262 The Last Days",
   story: "story-read/the-new-world",

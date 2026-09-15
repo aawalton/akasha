@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0269310ParsingPiecesOfAPuzzle = {
   id: "01a06730-4ebd-70b3-a3aa-6ff7a1fc870a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0269-310-parsing-pieces-of-a-puzzle",
   title: "310 Parsing Pieces of a Puzzle",
   story: "story-read/the-new-world",

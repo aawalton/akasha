@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0247288ATargetedApproach = {
   id: "01a06730-4eb0-720a-a860-ea3f4f6b9806",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0247-288-a-targeted-approach",
   title: "288 A Targeted Approach",
   story: "story-read/the-new-world",

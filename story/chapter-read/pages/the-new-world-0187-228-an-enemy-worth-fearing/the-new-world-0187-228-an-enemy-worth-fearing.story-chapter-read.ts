@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0187228AnEnemyWorthFearing = {
   id: "01a06730-4e92-7018-9473-c9fff49e8958",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0187-228-an-enemy-worth-fearing",
   title: "228 An Enemy Worth Fearing",
   story: "story-read/the-new-world",

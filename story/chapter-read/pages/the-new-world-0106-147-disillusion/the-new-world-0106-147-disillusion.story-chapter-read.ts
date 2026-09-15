@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0106147Disillusion = {
   id: "01a06730-4e67-7b14-82a7-3486cf8208cb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0106-147-disillusion",
   title: "147 Disillusion",
   story: "story-read/the-new-world",

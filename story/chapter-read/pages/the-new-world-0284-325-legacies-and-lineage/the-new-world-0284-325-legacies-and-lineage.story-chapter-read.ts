@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0284325LegaciesAndLineage = {
   id: "01a06730-4ec0-7dab-9cb6-924bb1814fc6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0284-325-legacies-and-lineage",
   title: "325 Legacies and Lineage",
   story: "story-read/the-new-world",

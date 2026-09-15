@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0271312APieceOfPlazia = {
   id: "01a06730-4ebe-71b7-ac24-fc75ef4a3f60",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0271-312-a-piece-of-plazia",
   title: "312 A Piece of Plazia",
   story: "story-read/the-new-world",

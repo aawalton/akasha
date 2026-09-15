@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0195236BetterThanExpected = {
   id: "01a06730-4e96-7cc9-87ac-31152376be53",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0195-236-better-than-expected",
   title: "236 Better Than Expected",
   story: "story-read/the-new-world",

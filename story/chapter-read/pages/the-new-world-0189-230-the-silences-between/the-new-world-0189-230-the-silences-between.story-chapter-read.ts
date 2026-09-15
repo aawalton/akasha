@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0189230TheSilencesBetween = {
   id: "01a06730-4e93-717c-8c33-93582b9d4c60",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0189-230-the-silences-between",
   title: "230 The Silences Between",
   story: "story-read/the-new-world",

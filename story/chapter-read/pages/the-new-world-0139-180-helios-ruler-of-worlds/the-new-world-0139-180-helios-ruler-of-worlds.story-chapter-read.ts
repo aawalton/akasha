@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0139180HeliosRulerOfWorlds = {
   id: "01a06730-4e7b-791c-9b88-e781d924394e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0139-180-helios-ruler-of-worlds",
   title: "180 Helios, Ruler of Worlds",
   story: "story-read/the-new-world",

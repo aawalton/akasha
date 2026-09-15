@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0179220LayingOutOptions = {
   id: "01a06730-4e8e-7709-82b3-988ef195034d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0179-220-laying-out-options",
   title: "220 Laying Out Options",
   story: "story-read/the-new-world",

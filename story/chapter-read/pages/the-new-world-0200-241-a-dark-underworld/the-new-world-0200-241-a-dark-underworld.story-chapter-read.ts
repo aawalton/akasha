@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0200241ADarkUnderworld = {
   id: "01a06730-4e96-765c-bd06-ccfeb014135d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0200-241-a-dark-underworld",
   title: "241 A Dark Underworld",
   story: "story-read/the-new-world",

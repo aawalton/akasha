@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0215256FeastingAndPlenty = {
   id: "01a06730-4e9b-76d1-a1b3-1ae4f162ca48",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0215-256-feasting-and-plenty",
   title: "256 Feasting and Plenty",
   story: "story-read/the-new-world",

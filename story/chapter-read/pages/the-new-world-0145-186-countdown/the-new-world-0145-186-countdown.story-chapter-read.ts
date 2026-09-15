@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0145186Countdown = {
   id: "01a06730-4e7d-7f2f-a338-95e6cc98671f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0145-186-countdown",
   title: "186 Countdown",
   story: "story-read/the-new-world",

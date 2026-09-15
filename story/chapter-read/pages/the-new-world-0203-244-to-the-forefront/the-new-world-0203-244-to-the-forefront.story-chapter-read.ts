@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0203244ToTheForefront = {
   id: "01a06730-4e98-766e-a582-82fa9bafad00",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0203-244-to-the-forefront",
   title: "244 To the Forefront",
   story: "story-read/the-new-world",

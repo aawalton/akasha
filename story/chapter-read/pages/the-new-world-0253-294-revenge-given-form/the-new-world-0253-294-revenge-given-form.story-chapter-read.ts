@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0253294RevengeGivenForm = {
   id: "01a06730-4eb5-7cf8-8a3a-1671407e87d4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0253-294-revenge-given-form",
   title: "294 Revenge Given Form",
   story: "story-read/the-new-world",

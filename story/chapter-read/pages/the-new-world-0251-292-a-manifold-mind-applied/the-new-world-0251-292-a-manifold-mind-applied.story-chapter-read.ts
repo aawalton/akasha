@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0251292AManifoldMindApplied = {
   id: "01a06730-4eb4-767a-a7b8-e1e3146d1ca4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0251-292-a-manifold-mind-applied",
   title: "292 A Manifold Mind Applied",
   story: "story-read/the-new-world",

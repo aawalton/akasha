@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0136177ToFaceTheDivine = {
   id: "01a06730-4e79-7c37-8186-b40976edf785",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0136-177-to-face-the-divine",
   title: "177 To Face the Divine",
   story: "story-read/the-new-world",

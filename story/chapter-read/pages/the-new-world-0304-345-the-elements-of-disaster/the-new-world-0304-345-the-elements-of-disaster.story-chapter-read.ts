@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0304345TheElementsOfDisaster = {
   id: "01a06730-4ec7-76b5-8a88-eb98479d0dce",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0304-345-the-elements-of-disaster",
   title: "345 The Elements of Disaster",
   story: "story-read/the-new-world",

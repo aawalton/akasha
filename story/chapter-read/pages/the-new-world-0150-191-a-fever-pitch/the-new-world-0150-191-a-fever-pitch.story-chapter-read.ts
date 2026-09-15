@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0150191AFeverPitch = {
   id: "01a06730-4e7f-7e25-920f-9a77f9fe3b96",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0150-191-a-fever-pitch",
   title: "191 A Fever Pitch",
   story: "story-read/the-new-world",

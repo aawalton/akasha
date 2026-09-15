@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0105146AligningTime = {
   id: "01a06730-4e67-7b0d-af08-e80f0e734c26",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0105-146-aligning-time",
   title: "146 Aligning Time",
   story: "story-read/the-new-world",

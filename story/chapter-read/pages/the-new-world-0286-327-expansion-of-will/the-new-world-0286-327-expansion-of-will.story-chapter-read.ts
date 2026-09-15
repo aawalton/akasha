@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0286327ExpansionOfWill = {
   id: "01a06730-4ec1-7597-9652-143d01fb3905",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0286-327-expansion-of-will",
   title: "327  Expansion of Will",
   story: "story-read/the-new-world",
