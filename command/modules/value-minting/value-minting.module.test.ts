@@ -165,7 +165,7 @@ test("a page of a page type landing in the same change is given the value it doe
 
 test("a page carrying the value already keeps the one it carries", () => {
   const root = rooted("uuid-v7")
-  const body = BODY.replace("{ ", `{ id: "${HELD_ID}", `)
+  const body = BODY.replace("one = { ", `one = { id: "${HELD_ID}", `)
   const said = mintingOnto(root, [carrying(body)])
   expect(said.filled).toEqual([])
   expect(said.edits).toEqual([])
