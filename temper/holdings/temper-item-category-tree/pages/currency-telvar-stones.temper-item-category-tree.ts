@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const currencyTelvarStones = {
   id: "01a05fcf-f7d8-7268-a73f-6481ac40ed5e",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "currency-telvar-stones",
   title: "Tel Var Stones",
   parent: "currency",

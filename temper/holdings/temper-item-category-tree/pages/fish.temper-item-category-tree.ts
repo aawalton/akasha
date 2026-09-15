@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const fish = {
   id: "01a05fcf-f7e0-7ead-a121-61b47b4fd2a8",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "fish",
   title: "Fish",
   parent: "fishing",

@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const companionMedium = {
   id: "01a05fcf-f7cd-70db-a3e4-284db40eda7c",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "companion-medium",
   title: "Medium Armor",
   parent: "companion-armor",

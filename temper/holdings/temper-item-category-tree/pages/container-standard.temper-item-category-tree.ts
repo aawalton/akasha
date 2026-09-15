@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const containerStandard = {
   id: "01a05fcf-f7d4-7449-b6b0-842e2895a722",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "container-standard",
   title: "Standard",
   parent: "containers",

@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const foodUnique = {
   id: "01a05fcf-f7e4-70d9-8dc6-b6c9ea581097",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "food-unique",
   title: "Unique",
   parent: "food",

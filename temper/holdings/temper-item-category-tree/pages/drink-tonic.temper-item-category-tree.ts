@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const drinkTonic = {
   id: "01a05fcf-f7dd-7d86-b602-1c9bd8f551d3",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "drink-tonic",
   title: "Tonic",
   parent: "drink",

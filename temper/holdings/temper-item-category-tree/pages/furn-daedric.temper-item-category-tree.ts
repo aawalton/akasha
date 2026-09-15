@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnDaedric = {
   id: "01a05fcf-f7f0-7312-8dca-73a6d8e4d2fd",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-daedric",
   title: "Daedric",
   parent: "furn-pets",

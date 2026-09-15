@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const crownRepairKits = {
   id: "01a05fcf-f7d6-7346-b50a-afc3b7171fb1",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "crown-repair-kits",
   title: "Crown Repair Kits",
   parent: "repair-kits",

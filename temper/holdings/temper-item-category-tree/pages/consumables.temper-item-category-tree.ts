@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const consumables = {
   id: "01a05fcf-f7d2-7001-8585-7bbd91912378",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "consumables",
   title: "Consumables",
   displayOrder: 4,

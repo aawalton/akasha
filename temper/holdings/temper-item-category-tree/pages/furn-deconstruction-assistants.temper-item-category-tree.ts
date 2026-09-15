@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnDeconstructionAssistants = {
   id: "01a05fcf-f7f0-7af3-baaa-57d9e4d418bf",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-deconstruction-assistants",
   title: "Deconstruction Assistants",
   parent: "furn-services",

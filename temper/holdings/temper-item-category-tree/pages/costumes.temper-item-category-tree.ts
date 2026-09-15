@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const costumes = {
   id: "01a05fcf-f7d5-78c6-b782-20d0185e6081",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "costumes",
   title: "Costumes",
   parent: "appearance",

@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnIncense = {
   id: "01a05fcf-f7fc-70a1-806d-4b6c229d2abe",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-incense",
   title: "Incense",
   parent: "furn-undercroft",

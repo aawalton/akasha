@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const companionGirdle = {
   id: "01a05fcf-f7c7-7cdf-9869-ad081cfd7d42",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "companion-girdle",
   title: "Girdle",
   parent: "companion-heavy",

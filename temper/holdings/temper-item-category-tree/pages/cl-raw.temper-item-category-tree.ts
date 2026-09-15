@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const clRaw = {
   id: "01a05fcf-f7c0-71ee-b100-73fae2e15474",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "cl-raw",
   title: "Raw Materials",
   parent: "clothing",

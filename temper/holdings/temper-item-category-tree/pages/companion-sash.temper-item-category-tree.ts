@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const companionSash = {
   id: "01a05fcf-f7d0-7e3f-8675-9e6789b7f388",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "companion-sash",
   title: "Sash",
   parent: "companion-light",

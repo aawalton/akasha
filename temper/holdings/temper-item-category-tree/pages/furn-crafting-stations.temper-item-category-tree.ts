@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnCraftingStations = {
   id: "01a05fcf-f7ee-7d0e-9b4b-c934d6aa527b",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-crafting-stations",
   title: "Crafting Stations",
   parent: "furn-services",

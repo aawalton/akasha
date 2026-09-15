@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const blacksmithing = {
   id: "01a05fcf-f7be-7be7-8236-580a072d8074",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "blacksmithing",
   title: "Blacksmithing",
   parent: "crafting",

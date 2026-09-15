@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnConservatory = {
   id: "01a05fcf-f7ed-7634-9dae-a200cc3c9652",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-conservatory",
   title: "Conservatory",
   parent: "furnishings",

@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const essenceRunestones = {
   id: "01a05fcf-f7e0-744e-8423-766d45f36df6",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "essence-runestones",
   title: "Essence Runestones",
   parent: "enchanting",

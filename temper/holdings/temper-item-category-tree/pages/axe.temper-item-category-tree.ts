@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const axe = {
   id: "01a05fcf-f7bd-7e9c-be75-9b631a734101",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "axe",
   title: "Axe",
   parent: "one-handed",

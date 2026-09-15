@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnDwemerSpiders = {
   id: "01a05fcf-f7f4-7e51-877a-bf9edac55d6c",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-dwemer-spiders",
   title: "Dwemer Spiders",
   parent: "furn-mounts",

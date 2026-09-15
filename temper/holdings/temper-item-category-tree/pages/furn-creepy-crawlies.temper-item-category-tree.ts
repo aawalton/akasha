@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnCreepyCrawlies = {
   id: "01a05fcf-f7ef-76d9-afc6-55c1abbc665c",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-creepy-crawlies",
   title: "Creepy Crawlies",
   parent: "furn-pets",

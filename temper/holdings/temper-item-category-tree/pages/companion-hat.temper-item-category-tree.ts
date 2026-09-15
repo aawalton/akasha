@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const companionHat = {
   id: "01a05fcf-f7c9-7a87-81ac-3fac8b528ac4",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "companion-hat",
   title: "Hat",
   parent: "companion-light",

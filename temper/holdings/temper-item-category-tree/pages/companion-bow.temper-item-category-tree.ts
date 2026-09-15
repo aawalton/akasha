@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const companionBow = {
   id: "01a05fcf-f7c5-7c56-bf15-b138e7133174",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "companion-bow",
   title: "Bow",
   parent: "companion-weapons",

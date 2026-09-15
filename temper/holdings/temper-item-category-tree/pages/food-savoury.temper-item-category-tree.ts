@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const foodSavoury = {
   id: "01a05fcf-f7e4-792a-b20e-4063d71fb9a6",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "food-savoury",
   title: "Savoury",
   parent: "food",

@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnIceSnow = {
   id: "01a05fcf-f7fc-7362-8341-1aaa9c27efc7",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-ice-snow",
   title: "Ice and Snow",
   parent: "furn-conservatory",

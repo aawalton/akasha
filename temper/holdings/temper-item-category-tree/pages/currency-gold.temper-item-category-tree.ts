@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const currencyGold = {
   id: "01a05fcf-f7d7-7ff9-a3f6-6ae7fec57580",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "currency-gold",
   title: "Gold",
   parent: "currency",

@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnHonorsAwards = {
   id: "01a05fcf-f7fa-7c2e-82f4-8494d13a8061",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-honors-awards",
   title: "Honors and Awards",
   parent: "furn-gallery",

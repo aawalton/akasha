@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const companionGloves = {
   id: "01a05fcf-f7c7-774c-90c9-abfc6c553c76",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "companion-gloves",
   title: "Gloves",
   parent: "companion-light",

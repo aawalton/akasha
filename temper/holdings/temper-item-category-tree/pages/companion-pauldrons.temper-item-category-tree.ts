@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const companionPauldrons = {
   id: "01a05fcf-f7ce-7b3d-bf0d-ec6167434a48",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "companion-pauldrons",
   title: "Pauldrons",
   parent: "companion-heavy",

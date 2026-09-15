@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const avaRepairKits = {
   id: "01a05fcf-f7bd-7ff3-be59-f310374cffdf",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "ava-repair-kits",
   title: "Repair Kits",
   parent: "alliance-war",

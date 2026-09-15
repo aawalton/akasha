@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const dagger = {
   id: "01a05fcf-f7d9-7477-9f09-207fb112a961",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "dagger",
   title: "Dagger",
   parent: "one-handed",
