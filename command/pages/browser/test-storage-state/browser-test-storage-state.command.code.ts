@@ -1,12 +1,12 @@
 import { chmodSync, mkdirSync } from "node:fs"
 import { dirname } from "node:path"
 import { playwrightStorageStatePath } from "akasha/agent/seat/supervisor/supervisor-tooling/modules/mcp-registry/mcp-registry.module.code.ts"
+import { createClient } from "akasha/alan/harness/modules/user-client/user-client.module.code.ts"
 import {
   isInvalidCredentialsError,
   signInWithPassword,
 } from "akasha/alan/harness/supabase-auth/modules/auth/auth.module.code.ts"
 import { assertCredentialPathAllowed } from "akasha/alan/harness/supabase-auth/modules/protected-user/protected-user.module.code.ts"
-import { createClient } from "akasha/alan/harness/supabase-client/modules/user-client/user-client.module.code.ts"
 import {
   DEFAULT_THROWAWAY_EMAIL,
   ensureThrowawayUser,

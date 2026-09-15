@@ -8,6 +8,14 @@ export const userClient = {
   code: "ts",
   invariants: [
     {
+      invariantKind: "absence",
+      statement: "No key is here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The client made here reaches only as far as the signed-in person may.",
+    },
+    {
       invariantKind: "departure",
       statement: "The URL and the anonymous key are handed in by the caller.",
     },

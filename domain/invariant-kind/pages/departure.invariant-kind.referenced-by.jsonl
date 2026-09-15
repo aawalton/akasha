@@ -747,6 +747,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/mobile-cli/modules/testflight-poll/testflight-poll.module.ts","id":"01a05cee-e560-7b4d-8df2-e5be4918211f"}
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.ts","id":"01a0795a-2cb4-7d47-b7d6-2b120f641fd4"}
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.ts","id":"01a082eb-4f25-7bd5-b488-a5c24903072e"}
+{"propertySlug":"invariant-kind","path":"alan/harness/modules/user-client/user-client.module.ts","id":"01a05c91-61cd-7ca0-84dc-81d150423884"}
 {"propertySlug":"invariant-kind","path":"alan/harness/monarch/account/monarch-account.page-type.ts","id":"01a0680a-1a00-7008-8d64-7a3b9e1f1109"}
 {"propertySlug":"invariant-kind","path":"alan/harness/monarch/account/properties/account-display-name.text-property.ts","id":"01a0680a-1a00-7002-9c37-8a1d4e6f1103"}
 {"propertySlug":"invariant-kind","path":"alan/harness/monarch/account/properties/account-type.select-property.ts","id":"01a0680a-1a00-7004-8e19-5b2c7d4e1105"}
@@ -937,8 +938,6 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/supabase-auth/modules/claims/claims.module.ts","id":"01a05c6d-3509-7148-94be-e982b26664f6"}
 {"propertySlug":"invariant-kind","path":"alan/harness/supabase-auth/modules/protected-user/protected-user.module.ts","id":"01a05c6d-3509-78ee-a418-3d1217065a1e"}
 {"propertySlug":"invariant-kind","path":"alan/harness/supabase-auth/supabase-auth.domain.ts","id":"01a05c6d-3507-7082-9e71-8c024f532b00"}
-{"propertySlug":"invariant-kind","path":"alan/harness/supabase-client/modules/user-client/user-client.module.ts","id":"01a05c91-61cd-7ca0-84dc-81d150423884"}
-{"propertySlug":"invariant-kind","path":"alan/harness/supabase-client/supabase-client.domain.ts","id":"01a05c91-61cc-7d0c-bbf1-b3f2103ad9d0"}
 {"propertySlug":"invariant-kind","path":"alan/harness/supabase-rr/modules/browser-session-refresh/browser-session-refresh.module.ts","id":"01a09099-ea3c-7d5e-a085-0b0c4402eeea"}
 {"propertySlug":"invariant-kind","path":"alan/harness/supabase-rr/modules/client-env-guard/client-env-guard.module.ts","id":"01a05c97-8af9-7918-b589-3367f4e75fba"}
 {"propertySlug":"invariant-kind","path":"alan/harness/supabase-rr/modules/page-listing-loader/page-listing-loader.module.ts","id":"01a08e24-787c-78b5-a972-ca859eaa4fd8"}

@@ -605,6 +605,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/testflight-poll/testflight-poll.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/user-client/user-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/eval/modules/agent/monarch-eval-agent.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/eval/modules/population/monarch-eval-population.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/eval/modules/run/monarch-eval-run.module.ts"}
@@ -696,7 +697,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-auth/modules/protected-user/protected-user.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-auth/modules/supabase-user/supabase-user.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-auth/modules/user-id/user-id.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-client/modules/user-client/user-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-rr/modules/auth-client/auth-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-rr/modules/auth-guard/auth-guard.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-rr/modules/auth-mode/auth-mode.module.ts"}
