@@ -74,5 +74,30 @@ export const jsonEntries = {
       statement:
         "A passage over an entry is placed against the whole body rather than its own line.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A value under the key named is written anew where the caller states a new spelling for that value.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Only the keys the outermost object of an entry states are reached.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A key of the same name nested inside an entry's value is left as it is.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Each element of a value stated as a list is written anew.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A value stated as neither text nor a list is left as it is.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A value the caller states no new spelling for is left as it is.",
+    },
   ],
 } as const satisfies Module

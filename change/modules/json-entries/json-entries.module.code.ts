@@ -85,3 +85,61 @@ export function keysGoingInEntries(
   }
   return found
 }
+
+function valueAnew(
+  source: ts.JsonSourceFile,
+  said: ts.Expression,
+  values: ReadonlyMap<string, string>
+): Splice | null {
+  if (!ts.isStringLiteral(said)) return null
+  const now = values.get(said.text)
+  if (now === undefined) return null
+  return { from: said.getStart(source), to: said.getEnd(), put: JSON.stringify(now) }
+}
+
+function valuesAnewUnder(
+  source: ts.JsonSourceFile,
+  held: ts.ObjectLiteralExpression,
+  key: string,
+  values: ReadonlyMap<string, string>
+): readonly Splice[] {
+  const spans: Splice[] = []
+  for (const one of held.properties) {
+    if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
+    if (one.name.text !== key) continue
+    const said = one.initializer
+    for (const each of ts.isArrayLiteralExpression(said) ? said.elements : [said]) {
+      const span = valueAnew(source, each, values)
+      if (span !== null) spans.push(span)
+    }
+  }
+  return spans
+}
+
+function valuesWrittenAnew(
+  at: string,
+  text: string,
+  key: string,
+  values: ReadonlyMap<string, string>
+): readonly Splice[] {
+  const source = ts.parseJsonText(at, text)
+  const held = objectOf(source)
+  return held === null ? [] : valuesAnewUnder(source, held, key, values)
+}
+
+export function valuesWrittenAnewInEntries(
+  at: string,
+  text: string,
+  key: string,
+  values: ReadonlyMap<string, string>
+): readonly Splice[] {
+  const found: Splice[] = []
+  let from = 0
+  for (const line of text.split(LINE)) {
+    for (const one of line.trim() === "" ? [] : valuesWrittenAnew(at, line, key, values)) {
+      found.push({ from: from + one.from, to: from + one.to, put: one.put })
+    }
+    from = from + line.length + LINE.length
+  }
+  return found
+}

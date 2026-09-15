@@ -3,6 +3,7 @@ import {
   keysGoingIn,
   keysGoingInEntries,
   objectOf,
+  valuesWrittenAnewInEntries,
 } from "akasha/change/modules/json-entries/json-entries.module.code.ts"
 import ts from "typescript"
 
@@ -77,4 +78,58 @@ test("a passage over an entry is placed against the whole body", () => {
 
 test("a line holding nothing but space is passed over", () => {
   expect(keysGoingInEntries(ROWS_AT, "\n  \n", new Set(["wold"]))).toEqual([])
+})
+
+const SPELLING: ReadonlyMap<string, string> = new Map([
+  ["ts", "typescript"],
+  ["tsx", "typescript-jsx"],
+])
+
+function entriesAnew(text: string, key: string, values: ReadonlyMap<string, string>): string {
+  const spans = valuesWrittenAnewInEntries(ROWS_AT, text, key, values)
+  let said = text
+  for (const one of [...spans].sort((here, there) => there.from - here.from)) {
+    said = said.slice(0, one.from) + one.put + said.slice(one.to)
+  }
+  return said
+}
+
+test("a value stated as text is written anew", () => {
+  expect(entriesAnew('{"id":"a","wold":"ts"}\n', "wold", SPELLING)).toBe(
+    '{"id":"a","wold":"typescript"}\n'
+  )
+})
+
+test("each element of a value stated as a list is written anew", () => {
+  expect(entriesAnew('{"id":"b","wold":["ts","md","tsx"]}\n', "wold", SPELLING)).toBe(
+    '{"id":"b","wold":["typescript","md","typescript-jsx"]}\n'
+  )
+})
+
+const EFFECT_ROWS = [
+  '{"id":"a","type":"apply-buff","effect":"pull-to-caster"}',
+  '{"id":"b","type":"periodic-trigger","effect":{"type":"special","effect":"pull-to-caster"}}',
+  "",
+].join("\n")
+
+const EFFECT_ROWS_ANEW = [
+  '{"id":"a","type":"apply-buff","effect":"pull-to-the-caster"}',
+  '{"id":"b","type":"periodic-trigger","effect":{"type":"special","effect":"pull-to-caster"}}',
+  "",
+].join("\n")
+
+const PULLING: ReadonlyMap<string, string> = new Map([["pull-to-caster", "pull-to-the-caster"]])
+
+test("a key of the same name nested inside an entry's value is left as it is", () => {
+  expect(entriesAnew(EFFECT_ROWS, "effect", PULLING)).toBe(EFFECT_ROWS_ANEW)
+})
+
+const COUNTING: ReadonlyMap<string, string> = new Map([["2", "two"]])
+
+test("a value stated as neither text nor a list is left as it is", () => {
+  expect(valuesWrittenAnewInEntries(ROWS_AT, '{"id":"d","wold":2}\n', "wold", COUNTING)).toEqual([])
+})
+
+test("a value the caller states no new spelling for is left as it is", () => {
+  expect(entriesAnew('{"id":"e","wold":"md"}\n', "wold", SPELLING)).toBe('{"id":"e","wold":"md"}\n')
 })
