@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const temperCommands = {
+export const temperCommand = {
   id: "01a06034-110a-750a-9400-ded12725f5e1",
   type: "domain",
-  slug: "temper-commands",
+  slug: "temper-command",
   definition: "what an agent runs by name over temper",
   parts: [
     "test-fixture/addon-fixture-manifest",
