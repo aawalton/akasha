@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const martialArtistOfTheFoirenStyle = {
   id: "01a0657e-139d-7d8e-befd-514cb590e9cf",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "martial-artist-of-the-foiren-style",
   title: "Martial Artist of the Foiren Style",
   world: "world/the-wandering-inn",

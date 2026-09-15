@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const magicalInnkeeperLevel45ClassRestored = {
   id: "01a0657e-139b-76a7-943b-c2853b2bbb2e",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "magical-innkeeper-level-45-class-restored",
   title: "Magical Innkeeper Level 45 – Class Restored.",
   world: "world/the-wandering-inn",

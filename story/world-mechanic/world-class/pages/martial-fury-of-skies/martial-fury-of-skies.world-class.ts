@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const martialFuryOfSkies = {
   id: "01a0657e-139e-7779-9040-53df0bb97f80",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "martial-fury-of-skies",
   title: "Martial Fury of Skies",
   world: "world/the-wandering-inn",

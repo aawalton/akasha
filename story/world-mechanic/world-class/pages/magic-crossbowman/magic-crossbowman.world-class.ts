@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const magicCrossbowman = {
   id: "01a0657e-022a-773d-a793-f3ab1feab6a9",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "magic-crossbowman",
   title: "Magic Crossbowman",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const martialArtistOfTheShatteringWay = {
   id: "01a0657e-022d-7b8f-9010-9e1c4cf1fc3f",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "martial-artist-of-the-shattering-way",
   title: "Martial Artist of the Shattering Way",
   world: "world/the-wandering-inn",
