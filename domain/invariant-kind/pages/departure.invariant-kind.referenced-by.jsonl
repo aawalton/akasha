@@ -1495,7 +1495,7 @@
 {"propertySlug":"invariant-kind","path":"check/code/pages/typecheck/typecheck.check-code.ts","id":"01a04bcb-dff4-761a-856e-407fb6934b44"}
 {"propertySlug":"invariant-kind","path":"check/code/pages/types-file-runs-nothing/types-file-runs-nothing.check-code.ts","id":"01a07724-a8ae-7f5e-93f2-c483420afe89"}
 {"propertySlug":"invariant-kind","path":"check/model/check-model.page-type.ts","id":"01a05911-aa15-776e-9726-ed4131cd6b51"}
-{"propertySlug":"invariant-kind","path":"check/model/pages/invariant-earns-its-place/invariant-earns-its-place.check-model.ts","id":"01a05a0b-3a49-7d40-9dae-f16b21c7ffe2"}
+{"propertySlug":"invariant-kind","path":"check/model/pages/decision-earns-its-place/decision-earns-its-place.check-model.ts","id":"01a05a0b-3a49-7d40-9dae-f16b21c7ffe2"}
 {"propertySlug":"invariant-kind","path":"check/model/properties/model-tests.relation-property.ts","id":"01a05911-aa17-7af6-9941-6715a1205f25"}
 {"propertySlug":"invariant-kind","path":"check/modules/audit-asking/audit-asking.module.ts","id":"01a09239-89d9-7000-b122-2e19bbb8547e"}
 {"propertySlug":"invariant-kind","path":"check/modules/audit-child/audit-child.module.ts","id":"01a0a064-3e4a-7000-ad1d-00f2d5f33c09"}

@@ -6,7 +6,7 @@ export const checkModel = {
   slug: "check-model",
   definition: "a check judging a change by putting prompts to a model",
   parts: [
-    "check-model/invariant-earns-its-place",
+    "check-model/decision-earns-its-place",
     "number-property/audit-runs",
     "number-property/change-runs",
     "relation-property/model-tests",
