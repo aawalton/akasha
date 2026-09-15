@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const catGirlEvolution005858DangerousRevelationsB1End = {
   id: "01a06731-affe-7001-a532-c651c7faab41",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0058-58-dangerous-revelations-b1-end",
   title: "58 - Dangerous Revelations (B1 End)",
   story: "story-read/cat-girl-evolution",

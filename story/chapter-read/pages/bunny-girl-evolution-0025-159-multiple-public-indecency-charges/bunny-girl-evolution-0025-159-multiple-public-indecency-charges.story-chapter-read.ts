@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0025159MultiplePublicIndecencyCharges = {
   id: "01a06743-b387-7001-bad9-b11007ffded7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0025-159-multiple-public-indecency-charges",
   title: "159 - Multiple Public Indecency Charges",
   story: "story-read/bunny-girl-evolution",

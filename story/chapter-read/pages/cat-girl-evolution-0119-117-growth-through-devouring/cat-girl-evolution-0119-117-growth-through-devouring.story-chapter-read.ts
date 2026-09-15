@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const catGirlEvolution0119117GrowthThroughDevouring = {
   id: "01a06731-b017-7000-aa2a-4553df925a1e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0119-117-growth-through-devouring",
   title: "117 - Growth Through Devouring",
   story: "story-read/cat-girl-evolution",

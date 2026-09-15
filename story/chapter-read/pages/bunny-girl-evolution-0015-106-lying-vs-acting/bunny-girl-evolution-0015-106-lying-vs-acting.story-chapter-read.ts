@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0015106LyingVsActing = {
   id: "01a06743-b372-7000-9d43-af6a5a397292",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0015-106-lying-vs-acting",
   title: "106 - Lying vs Acting",
   story: "story-read/bunny-girl-evolution",

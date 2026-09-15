@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0050182CompensationForYourTrouble = {
   id: "01a06731-ae54-7000-bab2-e3d8ff491bf5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0050-182-compensation-for-your-trouble",
   title: "182 - Compensation For Your Trouble",
   story: "story-read/bunny-girl-evolution",

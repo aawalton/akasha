@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0058190SparringWithTheGiantess = {
   id: "01a06731-ae5c-7000-abf9-b6fc881db7e5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0058-190-sparring-with-the-giantess",
   title: "190 - Sparring with the Giantess",
   story: "story-read/bunny-girl-evolution",

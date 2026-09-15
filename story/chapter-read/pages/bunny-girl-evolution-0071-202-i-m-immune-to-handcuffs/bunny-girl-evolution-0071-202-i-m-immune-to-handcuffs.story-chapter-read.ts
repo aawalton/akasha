@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0071202IMImmuneToHandcuffs = {
   id: "01a06731-ae6e-7000-9ef3-e007d2710987",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0071-202-i-m-immune-to-handcuffs",
   title: "202 - I'm Immune to Handcuffs??",
   story: "story-read/bunny-girl-evolution",

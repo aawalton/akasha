@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0031219BunnysFirstSystemFreeSpell = {
   id: "01a06743-b398-7000-a355-36d9cb036302",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0031-219-bunnys-first-system-free-spell",
   title: "219 - Bunny's First System Free Spell",
   story: "story-read/bunny-girl-evolution",

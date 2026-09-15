@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0043176SuperFunTripsBegin = {
   id: "01a06731-ae4f-7000-8b00-5ccbe30ff60f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0043-176-super-fun-trips-begin",
   title: "176 - Super Fun Trips Begin",
   story: "story-read/bunny-girl-evolution",

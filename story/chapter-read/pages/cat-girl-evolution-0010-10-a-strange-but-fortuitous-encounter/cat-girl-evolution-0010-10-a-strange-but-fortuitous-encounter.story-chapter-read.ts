@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const catGirlEvolution001010AStrangeButFortuitousEncounter = {
   id: "01a06731-afeb-7009-ab6d-85482d8f56e5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0010-10-a-strange-but-fortuitous-encounter",
   title: "10 - A Strange, but Fortuitous Encounter",
   story: "story-read/cat-girl-evolution",

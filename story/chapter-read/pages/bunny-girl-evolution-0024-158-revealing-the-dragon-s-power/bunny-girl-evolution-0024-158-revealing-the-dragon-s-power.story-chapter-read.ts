@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0024158RevealingTheDragonSPower = {
   id: "01a06743-b387-7000-bd5d-9f8a47ed389a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0024-158-revealing-the-dragon-s-power",
   title: "158 - Revealing the Dragon's Power",
   story: "story-read/bunny-girl-evolution",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0049181TheDwarvesAreFine = {
   id: "01a06731-ae53-7000-9df2-711b8d3c661e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0049-181-the-dwarves-are-fine",
   title: "181 - The Dwarves Are Fine",
   story: "story-read/bunny-girl-evolution",

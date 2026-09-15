@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0032166CaveSpiderKillYourself = {
   id: "01a06743-b398-7001-a469-052eebd03d3d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0032-166-cave-spider-kill-yourself",
   title: "166 - Cave Spider, Kill Yourself",
   story: "story-read/bunny-girl-evolution",

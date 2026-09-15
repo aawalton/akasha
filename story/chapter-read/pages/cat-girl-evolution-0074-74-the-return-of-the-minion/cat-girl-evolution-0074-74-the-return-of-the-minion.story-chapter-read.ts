@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const catGirlEvolution007474TheReturnOfTheMinion = {
   id: "01a06731-b005-7002-82c2-b497d8509537",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0074-74-the-return-of-the-minion",
   title: "74 - The Return of the Minion",
   story: "story-read/cat-girl-evolution",

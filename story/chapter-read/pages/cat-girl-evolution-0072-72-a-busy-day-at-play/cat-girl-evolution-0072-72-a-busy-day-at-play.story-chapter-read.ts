@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const catGirlEvolution007272ABusyDayAtPlay = {
   id: "01a06731-b005-7000-869e-ffc582bf713b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0072-72-a-busy-day-at-play",
   title: "72 - A Busy Day at Play",
   story: "story-read/cat-girl-evolution",

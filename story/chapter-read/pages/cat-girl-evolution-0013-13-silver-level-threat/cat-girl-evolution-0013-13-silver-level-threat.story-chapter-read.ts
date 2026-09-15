@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const catGirlEvolution001313SilverLevelThreat = {
   id: "01a06731-afec-7000-b66b-307765404117",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0013-13-silver-level-threat",
   title: "13 - Silver Level Threat",
   story: "story-read/cat-girl-evolution",

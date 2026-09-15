@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const catGirlEvolution001717Lsml = {
   id: "01a06731-afed-7001-93c3-1e893f9acf53",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0017-17-lsml",
   title: "17 - L.S.M.L",
   story: "story-read/cat-girl-evolution",

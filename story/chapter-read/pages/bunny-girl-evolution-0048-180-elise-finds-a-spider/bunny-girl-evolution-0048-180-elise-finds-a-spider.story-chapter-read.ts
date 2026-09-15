@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0048180EliseFindsASpider = {
   id: "01a06731-ae52-7001-8a5c-ec1c804136eb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0048-180-elise-finds-a-spider",
   title: "180 - Elise Finds a Spider",
   story: "story-read/bunny-girl-evolution",

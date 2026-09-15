@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0065197AGameOfSecrets = {
   id: "01a06731-ae66-7000-a477-6b1576711505",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0065-197-a-game-of-secrets",
   title: "197 - A Game of Secrets",
   story: "story-read/bunny-girl-evolution",

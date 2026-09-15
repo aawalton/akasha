@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0035169PreliminaryDungeonCompetitionTeam = {
   id: "01a06743-b3a6-7001-afdc-91f15e5a2e9d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0035-169-preliminary-dungeon-competition-team",
   title: "169 - Preliminary Dungeon Competition Team",
   story: "story-read/bunny-girl-evolution",

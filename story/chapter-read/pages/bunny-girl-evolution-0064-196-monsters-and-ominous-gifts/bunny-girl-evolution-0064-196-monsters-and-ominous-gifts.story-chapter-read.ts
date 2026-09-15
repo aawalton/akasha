@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0064196MonstersAndOminousGifts = {
   id: "01a06731-ae65-7000-961a-a42e238a2fbe",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0064-196-monsters-and-ominous-gifts",
   title: "196 - Monsters and Ominous Gifts",
   story: "story-read/bunny-girl-evolution",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const catGirlEvolution00055Scratch = {
   id: "01a06731-afeb-7004-96f8-3ef521ced853",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0005-5-scratch",
   title: "5 - Scratch",
   story: "story-read/cat-girl-evolution",

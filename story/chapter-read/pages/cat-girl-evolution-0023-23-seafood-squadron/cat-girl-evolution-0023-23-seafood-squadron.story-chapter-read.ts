@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const catGirlEvolution002323SeafoodSquadron = {
   id: "01a06731-afee-7004-bd93-432fd1158449",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0023-23-seafood-squadron",
   title: "23 - Seafood Squadron",
   story: "story-read/cat-girl-evolution",

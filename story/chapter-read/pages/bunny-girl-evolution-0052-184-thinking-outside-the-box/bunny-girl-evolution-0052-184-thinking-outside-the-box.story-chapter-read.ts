@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0052184ThinkingOutsideTheBox = {
   id: "01a06731-ae56-7000-a9b4-77103ec29510",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0052-184-thinking-outside-the-box",
   title: "184 - Thinking Outside the Box",
   story: "story-read/bunny-girl-evolution",

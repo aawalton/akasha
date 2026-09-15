@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0044177CaveSpiderKillingCompetition = {
   id: "01a06731-ae50-7000-8332-ae61f887263d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0044-177-cave-spider-killing-competition",
   title: "177 - Cave Spider Killing Competition",
   story: "story-read/bunny-girl-evolution",

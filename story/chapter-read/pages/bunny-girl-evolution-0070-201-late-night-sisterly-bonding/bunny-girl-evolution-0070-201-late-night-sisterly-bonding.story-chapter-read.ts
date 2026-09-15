@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0070201LateNightSisterlyBonding = {
   id: "01a06731-ae6b-7001-bb78-6679150159e8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0070-201-late-night-sisterly-bonding",
   title: "201 - Late Night Sisterly Bonding",
   story: "story-read/bunny-girl-evolution",

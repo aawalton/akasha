@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0042175BargainOfDivineProportions = {
   id: "01a06731-ae4c-7000-b401-6df6f4b3488a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0042-175-bargain-of-divine-proportions",
   title: "175 - Bargain of Divine Proportions",
   story: "story-read/bunny-girl-evolution",
