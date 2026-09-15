@@ -1,13 +1,19 @@
-import { appendFileSync, existsSync, mkdirSync, writeFileSync } from "node:fs"
+import { appendFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { indexValue } from "akasha/page/index/value/index-value.index.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { slugsIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const ENDING = ".jsonl"
+
+const EXTENDS = "extends"
+
+const EXTENDS_TYPE = "extends-type"
 
 const PAGE = "page"
 
@@ -124,6 +130,42 @@ function listedAlso(
   onceWritten(root, join(indexIdentity.name, PAGE, NO_SCOPE, ID, id), [{ path, id }])
 }
 
+function idCarrying(root: string, pageTypeSlug: string, slug: string): string | null {
+  const path = join(
+    indexIn(root),
+    indexIdentity.name,
+    PAGE_TYPE,
+    pageTypeSlug,
+    SLUG,
+    `${slug}${ENDING}`
+  )
+  if (!existsSync(path)) return null
+  for (const line of readFileSync(path, "utf8").split("\n")) {
+    if (line.trim() === "") continue
+    try {
+      const said = JSON.parse(line) as Record<string, unknown>
+      const id = said[ID]
+      if (typeof id === "string") return id
+    } catch {}
+  }
+  return null
+}
+
+function edgedAlso(
+  root: string,
+  pageTypeSlug: string,
+  path: string,
+  value: Readonly<Record<string, unknown>>
+): undefined {
+  if (pageTypeSlug !== PAGE_TYPE) return
+  const id = idFor(path, value)
+  for (const said of slugsIn(value[EXTENDS])) {
+    const above = idCarrying(root, PAGE_TYPE, said)
+    if (above === null) continue
+    onceWritten(root, join(indexEdge.name, PAGE, ID, above, EXTENDS_TYPE, id), [{ path }])
+  }
+}
+
 export function valueAlsoFiled(
   root: string,
   pageTypeSlug: string,
@@ -136,5 +178,6 @@ export function valueAlsoFiled(
     if (path === null || value === undefined) continue
     bodyWritten(root, path, value)
     listedAlso(root, pageTypeSlug, path, value)
+    edgedAlso(root, pageTypeSlug, path, value)
   }
 }

@@ -27,7 +27,7 @@ export const indexFiling = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a line back.",
+      statement: "A line is read back only to reach the id a slug is already filed under.",
     },
     {
       invariantKind: "departure",
@@ -68,6 +68,11 @@ export const indexFiling = {
     {
       invariantKind: "departure",
       statement: "A roster line already at that path is left as the caller wrote it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page type value naming a type above it files the edge that descent is walked down.",
     },
   ],
 } as const satisfies Module
