@@ -1,11 +1,11 @@
 import type { Initiative } from "akasha/domain/initiative/initiative.page-type.types.ts"
 
-export const aranyaOffloadToCluster = {
+export const dallaOffloadToCluster = {
   id: "01a0a0d3-06ac-76e2-94f9-341e7ce50da4",
   type: "initiative",
-  slug: "aranya-offload-to-cluster",
+  slug: "dalla-offload-to-cluster",
   domain: "domain/infrastructure",
-  persona: "persona/aranya",
+  persona: "persona/dalla",
   intentStack: [{ statement: "Builds and deploys run on the cluster." }],
   constraints: [
     "A cluster service, a container recipe and a web app are put up by a run triggered on the workstation and made nowhere on it.",
