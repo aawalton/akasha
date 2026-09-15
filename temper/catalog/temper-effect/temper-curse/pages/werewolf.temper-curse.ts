@@ -2,7 +2,7 @@ import type { TemperCurse } from "akasha/temper/catalog/temper-effect/temper-cur
 
 export const werewolf = {
   id: "01a05fc5-c92d-7adc-ad4b-ae6284705bc9",
-  type: "temper-curse",
+  type: "page-type/temper-curse",
   slug: "werewolf",
   title: "Werewolf",
   key: "werewolf",

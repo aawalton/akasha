@@ -2,7 +2,7 @@ import type { TemperCurse } from "akasha/temper/catalog/temper-effect/temper-cur
 
 export const noCurse = {
   id: "01a05fc5-c92c-7ab1-8984-15833ef7b81f",
-  type: "temper-curse",
+  type: "page-type/temper-curse",
   slug: "no-curse",
   title: "No Curse",
   key: "no-curse",
