@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { commandTakesItsArgumentsThroughOneReader } from "akasha/check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.audit.code.ts"
 import { treed } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 
 const AT = "command/pages/humming/leaf/humming-leaf.command.code.ts"
 

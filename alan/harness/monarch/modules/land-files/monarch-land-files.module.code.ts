@@ -20,12 +20,12 @@ import {
 } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
+import { isMissing } from "akasha/file/disk/modules/missing/missing.module.code.ts"
 import { typeSlugOf } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { importedFrom } from "akasha/page/modules/body/page-body.module.code.ts"
 import { AKASHA as AKASHA_REPO } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
-import { isMissing } from "akasha/util/fs/modules/missing/missing.module.code.ts"
 
 const PUT = "change-mechanical-file/add-if-not-present-file"
 

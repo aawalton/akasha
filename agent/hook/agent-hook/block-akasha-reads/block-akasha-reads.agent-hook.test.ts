@@ -5,8 +5,8 @@ import {
   refusalIn,
   SCOPE,
 } from "akasha/agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

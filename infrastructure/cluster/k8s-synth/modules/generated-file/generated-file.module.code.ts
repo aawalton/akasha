@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
+import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 
 export function generatedPathFor(synthPath: string, name: string): string {
   return join(dirname(synthPath), "generated", `${name}.generated.yaml`)

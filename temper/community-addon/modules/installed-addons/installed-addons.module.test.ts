@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   parseManifestVersion,
   readInstalledAddons,
 } from "akasha/temper/community-addon/modules/installed-addons/installed-addons.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

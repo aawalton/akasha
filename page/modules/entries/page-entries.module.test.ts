@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   type Entried,
   entriedAmong,
@@ -8,7 +9,6 @@ import {
   entriesAt,
   entriesIn,
 } from "akasha/page/modules/entries/page-entries.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

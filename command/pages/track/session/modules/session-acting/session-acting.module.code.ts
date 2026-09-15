@@ -32,7 +32,7 @@ import {
   relationshipsFor,
   relationshipsIn,
 } from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
-import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 export type Standing = {
   readonly day: string

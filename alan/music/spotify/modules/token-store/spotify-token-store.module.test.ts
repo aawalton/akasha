@@ -8,7 +8,7 @@ import {
   SpotifyTokenSchema,
   writeToken,
 } from "akasha/alan/music/spotify/modules/token-store/spotify-token-store.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 const TOKEN: SpotifyToken = {
   accessToken: "an-access-token",

@@ -1,13 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   alive,
   holderOf,
   markIn,
   startedAt,
 } from "akasha/file/modules/lock-holder/lock-holder.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const UNKNOWN = "-"
 

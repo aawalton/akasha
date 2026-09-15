@@ -6,13 +6,13 @@ import {
   kindsUnderDomain,
   rowsFrom,
 } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { relationFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const ONE = "01a04e9f-1111-7000-8000-00000000000a"
 

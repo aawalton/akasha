@@ -9,8 +9,8 @@ import {
   TWO_NULS,
 } from "akasha/check/code/pages/no-raw-nul-bytes/no-raw-nul-bytes.check-code.decision.test-fixtures.ts"
 import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const HOLDING = letThrough()
 

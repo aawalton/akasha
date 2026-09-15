@@ -14,7 +14,7 @@ import {
 } from "akasha/agent/hook/agent-hook/weigh-bash-call/weigh-bash-call.agent-hook.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The path itself is read rather than whatever a link at it reaches."},{"decisionKind":"decision-kind/departure","statement":"A link reaching nothing is something there."},{"decisionKind":"decision-kind/departure","statement":"A read that throws for any reason answers that nothing is there."}]}
+{"definition":"whether anything at all sits at a path, a link among them"}
+{"id":"01a08e16-6dcf-7030-a111-e379d16e22f5"}
+{"slug":"anything-there"}
+{"type":"page-type/module"}

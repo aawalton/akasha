@@ -7,6 +7,7 @@ import {
   typed,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
@@ -17,7 +18,6 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Formatting } from "akasha/page/name-format/modules/format-reaching/format-reaching.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const allows: Formatting = () => (): boolean => true
 

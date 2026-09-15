@@ -35,7 +35,7 @@ import {
   thinAt,
   UNDER,
 } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

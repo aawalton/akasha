@@ -1,6 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   ASK_AT,
@@ -11,7 +12,6 @@ import type {
   Asked,
   Wrote,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
 

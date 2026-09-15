@@ -11,8 +11,8 @@ import {
   seeded,
 } from "akasha/check/code/pages/file-length/file-length.check-code.decision.test-fixtures.ts"
 import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const HELD = "akasha/held.ts"
 

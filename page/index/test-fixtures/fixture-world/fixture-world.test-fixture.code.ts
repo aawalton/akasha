@@ -2,6 +2,9 @@ import { cpSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node
 import { dirname, join } from "node:path"
 import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
+import { keptAt } from "akasha/file/disk/test-fixtures/kept-scratch/kept-scratch.test-fixture.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { refreshedWhole } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import { shapesAmong } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
@@ -21,9 +24,6 @@ import {
   shapesFiledAt,
   shapesIn,
 } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
-import { keptAt } from "akasha/util/fs/test-fixtures/kept-scratch/kept-scratch.test-fixture.code.ts"
 
 export type Held = Record<string, unknown>
 

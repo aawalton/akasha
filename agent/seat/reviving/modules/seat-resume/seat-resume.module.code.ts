@@ -45,7 +45,7 @@ import {
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import { parseArgs } from "akasha/command/modules/parse-args/parse-args.module.code.ts"
-import { readStdinOrFile } from "akasha/util/fs/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts"
+import { readStdinOrFile } from "akasha/file/disk/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 
 const DEFAULT_VERIFY_GRACE_MS = 30_000
 

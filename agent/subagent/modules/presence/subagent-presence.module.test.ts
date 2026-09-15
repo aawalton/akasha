@@ -74,10 +74,10 @@ import {
   refusalsSaid,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 test("a stamp says the time to the millisecond, carrying the offset it was written at", () => {
   const when = new Date(1788600000123)

@@ -1,5 +1,6 @@
 import { appendFileSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { sidecarsIn } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
 import type {
   FilePropertiesBy,
@@ -12,7 +13,6 @@ import {
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import type { Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import type { Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
@@ -21,7 +21,6 @@ import {
   bodyOf as shapesBodyOf,
   shapesFiledAt,
 } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const A = "01a04b79-0000-7000-8000-00000000000a"
 export const B = "01a04b79-0000-7000-8000-00000000000b"

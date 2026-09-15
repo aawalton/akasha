@@ -6,7 +6,7 @@ export const util = {
   slug: "util",
   definition: "the pieces every domain reaches for and no domain claims",
 
-  parts: ["domain/util-fs", "domain/util-slug"],
+  parts: ["domain/util-slug"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

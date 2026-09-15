@@ -35,10 +35,10 @@ import {
 } from "akasha/command/modules/long-body/long-body.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
 import { textIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
-import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 
 const NO_SUBAGENT = "no subagent said"
 

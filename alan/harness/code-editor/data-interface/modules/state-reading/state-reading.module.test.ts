@@ -6,7 +6,7 @@ import {
   readState,
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 const PAGES_AT = "alan/harness/code-editor/data-interface/pages"
 const SCRATCH_AT = "alan/harness/code-editor/data-interface"

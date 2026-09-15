@@ -4,6 +4,7 @@ import {
   refusalsOver,
   UNASKED,
 } from "akasha/check/code/pages/index-answers-are-level-with-the-change/index-answers-are-level-with-the-change.check-code.decision.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   AT,
   AWAY_AT,
@@ -12,7 +13,6 @@ import {
   shadowOf,
   worldOf,
 } from "akasha/page/index/modules/carrying/index-carrying.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

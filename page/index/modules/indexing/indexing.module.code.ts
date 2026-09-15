@@ -1,6 +1,8 @@
 import { existsSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
+import { textOnDisk } from "akasha/file/disk/modules/text-on-disk/text-on-disk.module.code.ts"
+import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import {
   type Entry,
   fileKeysIn,
@@ -39,7 +41,6 @@ import {
   pagesUnder,
   walkedUnder,
 } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
-
 import { carriedFiled } from "akasha/page/modules/carried/page-carried.module.code.ts"
 import { rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import {
@@ -53,8 +54,6 @@ import {
   identifyingFrom,
   sourceOver,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-import { textOnDisk } from "akasha/util/fs/modules/text-on-disk/text-on-disk.module.code.ts"
-import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 
 type Pending = {
   readonly before: string | null

@@ -4,9 +4,9 @@ import {
   pageInHistory,
   subagentPageInHistory,
 } from "akasha/agent/subagent/modules/page-history/subagent-page-history.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const AT = "agent/subagent/pages/akasha-a38f63805f9b94edf.subagent.ts"
 

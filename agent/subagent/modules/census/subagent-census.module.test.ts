@@ -27,7 +27,7 @@ import {
   takeLine,
   writeLine,
 } from "akasha/agent/subagent/modules/census/subagent-census.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 test("a take-down is read whether or not its line opens with the time it was written", () => {
   const base = world.rootFor("subagent-census-logs-")

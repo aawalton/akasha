@@ -10,9 +10,9 @@ import {
   statedIn,
   tookAway,
 } from "akasha/agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const NAME = "aelwyn"
 

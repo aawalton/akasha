@@ -16,11 +16,11 @@ import {
   type Sent,
   statedIn,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import type {
   Fetcher,
   Sleeper,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const READOUT = "monarch-unreviewed-transactions"
 

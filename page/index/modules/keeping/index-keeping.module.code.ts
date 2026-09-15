@@ -1,11 +1,11 @@
 import { existsSync, mkdirSync, renameSync, rmdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import type { Filing, Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { indexAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { walkedUnder } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
-import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 
 export function wholeOf(lines: readonly string[]): string {
   return `${lines.join("\n")}\n`

@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writingUnder } from "akasha/infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import {
   appliedFoundation,
   foundationNamed,
 } from "akasha/infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const SCRATCH = scratchWorld()
 const ROOT = SCRATCH.rootFor("akasha-foundation-")

@@ -8,11 +8,11 @@ import {
   servedFrom,
 } from "akasha/agent/hook/modules/links/hook-links.module.code.ts"
 import { MOUNTED } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   AKASHA,
   rootEnvName,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const ROOT = "/made-up/checkout"
 

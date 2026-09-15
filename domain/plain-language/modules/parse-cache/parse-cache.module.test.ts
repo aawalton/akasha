@@ -6,7 +6,7 @@ import {
   keyFor,
   makeParseCacheAt,
 } from "akasha/domain/plain-language/modules/parse-cache/parse-cache.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 const MODEL = "abc123"
 const OFF = "AKASHA_PARSE_CACHE_OFF"

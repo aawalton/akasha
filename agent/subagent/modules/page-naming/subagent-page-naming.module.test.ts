@@ -17,7 +17,7 @@ import {
   seatsFiled,
   subagentsFiled,
 } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.test-fixtures.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 
 test("a slug joins the seat's name to the id the subagent runs under", () => {
   expect(slugOf("akasha", OWN)).toBe(`akasha-${OWN}`)

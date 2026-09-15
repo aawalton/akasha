@@ -11,13 +11,13 @@ import { outsideOf, saidOf, unclassifying } from "akasha/command/modules/cli/cli
 import { COMMAND_TYPE_AT } from "akasha/command/modules/cli/cli.module.test-fixtures.ts"
 import { CLAUDE_AUTHOR } from "akasha/command/modules/commit-author/commit-author.module.code.ts"
 import { MARKED } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const COMMAND = "command"
 

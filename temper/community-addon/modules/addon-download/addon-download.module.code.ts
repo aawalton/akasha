@@ -2,8 +2,8 @@ import { createHash } from "node:crypto"
 import { cp, mkdtemp, readdir, rm, writeFile } from "node:fs/promises"
 import { join } from "node:path"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import type { FileDetails } from "akasha/temper/community-addon/modules/esoui-catalog/esoui-catalog.module.code.ts"
-import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 import extract from "extract-zip"
 
 export type InstallResult = {

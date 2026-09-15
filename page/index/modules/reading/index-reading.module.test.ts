@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   idFiled,
   listedFiled,
@@ -24,7 +25,6 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { indexAt, indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { bodyOf } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
 const B = "01a04bdd-0000-7000-8000-00000000000b"

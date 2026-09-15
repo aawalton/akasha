@@ -354,6 +354,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/non-term/standard-agent-english-non-term.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/prose-frame/prose-frame.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/standard-agent-english.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"file/disk/file-disk.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"file/file.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"file/folder-path/folder-path.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"git/git.domain.ts"}
@@ -605,7 +606,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/quote/quote.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/text.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/writing/text-writing.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/fs/util-fs.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/slug/util-slug.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/util.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"verdict/verdict.domain.ts"}

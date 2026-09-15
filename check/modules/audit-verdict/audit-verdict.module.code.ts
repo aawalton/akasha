@@ -6,11 +6,11 @@ import {
   heldTo,
   reasonSaid,
 } from "akasha/check/modules/refusal-holding/refusal-holding.module.code.ts"
+import { textOnDisk } from "akasha/file/disk/modules/text-on-disk/text-on-disk.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
 import { FIRST_PART } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedPartAt } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
-import { textOnDisk } from "akasha/util/fs/modules/text-on-disk/text-on-disk.module.code.ts"
 
 const REFUSAL_CEILING = 4000
 

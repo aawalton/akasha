@@ -12,7 +12,7 @@ import {
   sevenDaySpent,
   takenOf,
 } from "akasha/agent/model/account/modules/measuring/model-account-measuring.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

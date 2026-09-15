@@ -1,4 +1,6 @@
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   idFiled,
   listedFiled,
@@ -10,8 +12,6 @@ import {
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 export const scratch = scratchWorld()
 

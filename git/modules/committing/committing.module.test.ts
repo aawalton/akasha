@@ -8,13 +8,13 @@ import {
   edged,
   rowsIn,
 } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   AUTHOR,
   committed,
   whileIndexFrees,
 } from "akasha/git/modules/committing/committing.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

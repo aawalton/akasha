@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { copyFileSync, existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { gitIn } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import {
   cipherFor,
@@ -12,7 +13,6 @@ import {
   unfit,
   yamlOf,
 } from "akasha/page/modules/secret/page-secret.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   addonBindingsPathIn,
@@ -9,7 +10,6 @@ import {
   loadedDocumentPathsIn,
   namedFilePathsIn,
 } from "akasha/temper/addon-build/modules/addon-metadata-files/addon-metadata-files.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

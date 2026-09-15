@@ -22,6 +22,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { inferenceVoiceClone as page } from "akasha/command/pages/inference/voice/clone/inference-voice-clone.command.ts"
+import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { buildCopFetchInit } from "akasha/infrastructure/inference/client/modules/cop-fetch/cop-fetch.module.code.ts"
 import {
   ensureOutputDir,
@@ -40,7 +41,6 @@ import {
 import { scpUpload } from "akasha/infrastructure/inference/pool/modules/inference-ssh/inference-ssh.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
-import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const PAGES = [
   modeArgument,

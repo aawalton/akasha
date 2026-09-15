@@ -10,8 +10,8 @@ import {
 } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
 import type { Answered } from "akasha/check/modules/audit-calling/audit-calling.module.code.ts"
 import type { Verdict } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

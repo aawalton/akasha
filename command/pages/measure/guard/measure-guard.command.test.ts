@@ -13,12 +13,12 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { measureGuard } from "akasha/command/pages/measure/guard/measure-guard.command.code.ts"
 import { measureGuard as page } from "akasha/command/pages/measure/guard/measure-guard.command.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const CALLED_AS = "akasha measure guard"
 

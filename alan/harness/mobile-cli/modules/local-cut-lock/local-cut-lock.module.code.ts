@@ -4,7 +4,7 @@ import {
   errnoCodeOf,
   pidAliveOrAssumeDead,
 } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
-import { expandTilde } from "akasha/util/fs/modules/expand-tilde/expand-tilde.module.code.ts"
+import { expandTilde } from "akasha/file/disk/modules/expand-tilde/expand-tilde.module.code.ts"
 import { z } from "zod"
 
 export const LOCAL_CUT_LOCK_PATH = "~/.mobile-cut-testflight.lock"

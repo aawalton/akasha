@@ -2,8 +2,8 @@ import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Ran, Spent } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
 import { RUNNING } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const PASSES =
   'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'

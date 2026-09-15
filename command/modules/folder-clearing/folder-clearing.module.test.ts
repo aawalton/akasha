@@ -10,8 +10,8 @@ import {
   isFolder,
   wouldClear,
 } from "akasha/command/modules/folder-clearing/folder-clearing.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { INDEX_AT, indexAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

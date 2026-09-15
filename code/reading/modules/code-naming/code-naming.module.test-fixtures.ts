@@ -10,7 +10,7 @@ import {
   WITHOUT_BROWSER,
   wrote,
 } from "akasha/code/reading/modules/code-typing/code-typing.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import ts from "typescript"
 
 export const KEYS_SAID =

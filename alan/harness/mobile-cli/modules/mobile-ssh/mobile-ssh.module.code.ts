@@ -9,7 +9,7 @@ import {
   rsyncSshTransport,
   sshConnectionOptions,
 } from "akasha/alan/harness/mobile-cli/modules/ssh-delivery/ssh-delivery.module.code.ts"
-import { expandTilde } from "akasha/util/fs/modules/expand-tilde/expand-tilde.module.code.ts"
+import { expandTilde } from "akasha/file/disk/modules/expand-tilde/expand-tilde.module.code.ts"
 
 export interface SshTarget {
   readonly user: string

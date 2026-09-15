@@ -2,9 +2,9 @@ import { afterAll, expect, test } from "bun:test"
 import { handWrittenGlobalIsNoMethod } from "akasha/check/code/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.check-code.audit.code.ts"
 import { DECLARATION } from "akasha/check/code/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.check-code.decision.code.ts"
 import { filing } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const GAME_AT = "akasha/game.type-declaration.ts"
 

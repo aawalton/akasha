@@ -1300,6 +1300,9 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.ts","id":"01a08245-78cc-7f77-96bc-39695e9c2410"}
 {"propertySlug":"decision-kind","path":"domain/taboo-term/properties/kept-senses.text-property.ts","id":"01a05d78-f343-7862-8bea-66d8b696dedb"}
 {"propertySlug":"decision-kind","path":"domain/taboo-term/taboo-term.page-type.ts","id":"01a0592c-2737-7057-aa66-a46141334052"}
+{"propertySlug":"decision-kind","path":"file/disk/modules/expand-tilde/expand-tilde.module.ts","id":"01a05c4c-9442-70c2-948c-b1d7ad5a033f"}
+{"propertySlug":"decision-kind","path":"file/disk/modules/file-size/file-size.module.ts","id":"01a08182-0997-7171-8a4f-afaacaf31310"}
+{"propertySlug":"decision-kind","path":"file/disk/modules/whole-writing/whole-writing.module.ts","id":"01a09429-a77b-7673-8ae4-d384444c7b7a"}
 {"propertySlug":"decision-kind","path":"file/modules/git-place/git-place.module.ts","id":"01a05361-09df-7452-a3cc-9443498c1d89"}
 {"propertySlug":"decision-kind","path":"file/modules/lock-holder/lock-holder.module.ts","id":"01a05231-61c5-7336-8fa7-302f778209a9"}
 {"propertySlug":"decision-kind","path":"git/modules/commit-reading/commit-reading.module.ts","id":"01a0523f-0e48-7c39-8708-125994cc3e59"}
@@ -1922,9 +1925,6 @@
 {"propertySlug":"decision-kind","path":"text/writing/modules/name-drawing/name-drawing.module.ts","id":"01a08206-a5c1-75c9-8635-b646938fd3ac"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/one-line/one-line.module.ts","id":"01a095bb-4f52-7988-950f-f29155dd9bb0"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/pad-two/pad-two.module.ts","id":"01a05c8b-6039-7947-8056-77c452128ce1"}
-{"propertySlug":"decision-kind","path":"util/fs/modules/expand-tilde/expand-tilde.module.ts","id":"01a05c4c-9442-70c2-948c-b1d7ad5a033f"}
-{"propertySlug":"decision-kind","path":"util/fs/modules/file-size/file-size.module.ts","id":"01a08182-0997-7171-8a4f-afaacaf31310"}
-{"propertySlug":"decision-kind","path":"util/fs/modules/whole-writing/whole-writing.module.ts","id":"01a09429-a77b-7673-8ae4-d384444c7b7a"}
 {"propertySlug":"decision-kind","path":"util/slug/modules/camelize-key/camelize-key.module.ts","id":"01a090e5-14b5-76c8-a2aa-3fc1519a8db3"}
 {"propertySlug":"decision-kind","path":"util/slug/modules/dash-between-words/dash-between-words.module.ts","id":"01a08e73-15cd-74c8-9abf-c1974f4b4e89"}
 {"propertySlug":"decision-kind","path":"util/slug/modules/dash-each-capital/dash-each-capital.module.ts","id":"01a08e73-15cb-748d-bb35-86c2741dbde0"}

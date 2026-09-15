@@ -15,8 +15,8 @@ import {
 } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import { type Cost, recordCost } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

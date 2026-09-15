@@ -1,5 +1,7 @@
 import type { Places } from "akasha/check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.code.ts"
 import { filing } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { lowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import { upperCamelCase } from "akasha/page/name-format/pages/upper-camel-case/upper-camel-case.name-format.code.ts"
 import { upperSnakeCase } from "akasha/page/name-format/pages/upper-snake-case/upper-snake-case.name-format.code.ts"
@@ -8,8 +10,6 @@ import { constantIdentifier } from "akasha/page/name-place/pages/constant-identi
 import { derivedIdentifier } from "akasha/page/name-place/pages/derived-identifier.name-place.ts"
 import { functionIdentifier } from "akasha/page/name-place/pages/function-identifier.name-place.ts"
 import { typeIdentifier } from "akasha/page/name-place/pages/type-identifier.name-place.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const FORMAT = "name-format"
 

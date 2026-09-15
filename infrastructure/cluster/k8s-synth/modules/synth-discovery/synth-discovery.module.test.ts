@@ -1,11 +1,11 @@
 import { afterAll, beforeAll, expect, test } from "bun:test"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   discoverSynthFiles,
   manifestCodePaths,
 } from "akasha/infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const MANIFEST = "manifest"
 

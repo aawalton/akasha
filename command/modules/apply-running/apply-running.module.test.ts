@@ -21,6 +21,8 @@ import {
   landingFrom,
 } from "akasha/command/modules/edits-landing/edits-landing.module.code.ts"
 import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { writing as putting } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   listedFiled,
@@ -31,8 +33,6 @@ import {
   AKASHA,
   rootEnvName,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { writing as putting } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const PAGE = "akasha/agent/seat/pages/tester.seat.ts"
 

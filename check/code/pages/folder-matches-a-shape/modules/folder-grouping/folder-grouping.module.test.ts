@@ -5,9 +5,9 @@ import {
   groupedOver,
   holdsNothing,
 } from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

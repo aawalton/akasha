@@ -1,5 +1,5 @@
 import { relative } from "node:path"
-import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
+import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 
 function firstDiffLine(actual: string, expected: string): string {
   const actualLines = actual.split("\n")

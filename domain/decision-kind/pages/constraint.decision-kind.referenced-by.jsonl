@@ -281,6 +281,7 @@
 {"propertySlug":"decision-kind","path":"domain/context/required-reading/required-reading.domain.ts","id":"01a04d97-c600-78b8-b3eb-faf390b009ce"}
 {"propertySlug":"decision-kind","path":"domain/properties/decision-kind.relation-property.ts","id":"01a04d66-767b-740d-a958-1f84e5858ad0"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/term/banned-term/properties/prose-frame.relation-property.ts","id":"01a08243-41cd-7873-9af3-308bc9152b5d"}
+{"propertySlug":"decision-kind","path":"file/disk/modules/atomic-write/atomic-write.module.ts","id":"01a05c4c-9441-7a1c-a7fc-dc1ab3914181"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/manifest/app-namespaces-synth/app-namespaces-synth.manifest.ts","id":"01a06810-1262-75ee-aa84-9009c06798cf"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/manifest/cluster-reach-synth/cluster-reach-synth.manifest.ts","id":"01a091dd-3f89-71f8-8712-76e7c7de9a53"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/provisioning/talos/modules/sops/sops.module.ts","id":"01a06813-7b0f-715d-8205-05e5a2b14b85"}
@@ -1408,5 +1409,4 @@
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.ts","id":"01a082aa-3e30-76e3-bcc6-cec49c69facc"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/temper-api-pages/temper-api-pages.route.ts","id":"01a0829a-13da-798a-a890-b765cf1dc3de"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/suggest-closest/suggest-closest.module.ts","id":"01a06287-7841-7b53-968b-a40343c7aebe"}
-{"propertySlug":"decision-kind","path":"util/fs/modules/atomic-write/atomic-write.module.ts","id":"01a05c4c-9441-7a1c-a7fc-dc1ab3914181"}
 {"propertySlug":"parts","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}

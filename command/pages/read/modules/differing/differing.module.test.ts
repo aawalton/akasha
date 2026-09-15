@@ -11,7 +11,7 @@ import {
 import {
   SCRATCH_AT,
   scratchWorld,
-} from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+} from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

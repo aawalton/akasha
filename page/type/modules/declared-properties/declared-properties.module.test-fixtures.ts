@@ -1,5 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   shapeAdded,
   typeListed,
@@ -12,7 +13,6 @@ import {
   propertiesOf,
   sourceIn,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const scratch = scratchWorld()
 

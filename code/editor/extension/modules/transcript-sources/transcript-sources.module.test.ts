@@ -5,9 +5,9 @@ import {
   readSubagentsIn,
   TRANSCRIPTS_CALL,
 } from "akasha/code/editor/extension/modules/transcript-sources/transcript-sources.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const ROW = {
   agentId: "01a0-aranya",

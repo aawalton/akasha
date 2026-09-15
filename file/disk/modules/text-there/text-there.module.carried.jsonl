@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A read that throws for any reason answers that no text is there."},{"decisionKind":"decision-kind/departure","statement":"A path holding no file and a path that would not open are one answer."}]}
+{"definition":"the text a path holds, or nothing where the read threw for any reason"}
+{"id":"01a08e3b-5dd7-722f-9715-fa8d95ddd1b2"}
+{"slug":"text-there"}
+{"test":"ts"}
+{"type":"page-type/module"}

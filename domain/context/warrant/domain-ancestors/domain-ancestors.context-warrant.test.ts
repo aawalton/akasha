@@ -16,8 +16,8 @@ import {
   ABOVE,
   domainAncestors,
 } from "akasha/domain/context/warrant/domain-ancestors/domain-ancestors.context-warrant.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

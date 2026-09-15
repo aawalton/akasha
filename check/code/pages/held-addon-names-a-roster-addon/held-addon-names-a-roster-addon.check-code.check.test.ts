@@ -10,9 +10,9 @@ import {
   filing,
   shadowed,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const ADDON_PAGE = "akasha/lib-async.eso-addon.ts"
 

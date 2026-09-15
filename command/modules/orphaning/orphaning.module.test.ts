@@ -8,11 +8,11 @@ import type { Landed, Refused } from "akasha/command/modules/landing/landing.mod
 import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import { rowsIn } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { TOGETHER } from "akasha/command/modules/orphaning/orphaning.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

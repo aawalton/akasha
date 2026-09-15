@@ -11,6 +11,7 @@ import type { Applied } from "akasha/command/modules/applying/applying.module.co
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   type Landing,
   landedWith,
@@ -21,7 +22,6 @@ import {
   undeclared,
   valueIn,
 } from "akasha/page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const AT = "akasha/agent/model/account/pages/one.model-account.ts"
 

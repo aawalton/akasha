@@ -2,6 +2,8 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { put, there } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { module as modulePage } from "akasha/code/module/module.page-type.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
@@ -16,8 +18,6 @@ import { importedFrom } from "akasha/page/modules/reference-filing/page-referenc
 import { referencesEach } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { bodyOf } from "akasha/page/modules/referencing/page-referencing.module.test-fixtures.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
 

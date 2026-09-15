@@ -17,7 +17,7 @@ import {
   THREE,
   TWO,
 } from "akasha/command/pages/measure/command/modules/command-measuring/command-measuring.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 const CALLED_AS = "akasha measure command"
 

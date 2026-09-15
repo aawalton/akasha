@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { planFor } from "akasha/code/ios-app/modules/app-building/app-building.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const root = rootOf(import.meta.dir)
 

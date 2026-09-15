@@ -1,5 +1,5 @@
 import { REPO_ROOT } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
-import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 export type SelfHealInstallResult = { ok: true } | { ok: false; stderr: string }
 export type SelfHealRunInstall = (version: string) => Promise<SelfHealInstallResult>

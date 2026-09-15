@@ -3,6 +3,7 @@ import { dirname, join } from "node:path"
 import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 import { admitting } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
+import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   idFiled,
@@ -31,7 +32,6 @@ import {
 } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { bodyOf } from "akasha/page/modules/referencing/page-referencing.module.test-fixtures.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 
 const ENDING = ".jsonl"
 

@@ -1,11 +1,11 @@
 import { existsSync, readdirSync, statSync } from "node:fs"
 import { join } from "node:path"
+import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import type {
   Child,
   Filing,
   Reading,
 } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 
 const ROOT = ""
 

@@ -3,7 +3,7 @@ import { mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { stateAt } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
 import { writeState } from "akasha/alan/harness/code-editor/data-interface/modules/state-writing/state-writing.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 const PAGES_AT = "alan/harness/code-editor/data-interface/pages"
 const SLUG = "domain-tree"

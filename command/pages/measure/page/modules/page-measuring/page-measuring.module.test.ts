@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   countsOver,
   pageTypeLinesOf,
   pageTypeOf,
 } from "akasha/command/pages/measure/page/modules/page-measuring/page-measuring.module.code.ts"
-import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

@@ -15,9 +15,9 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { offRepo, pathAt } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
 import { gitRestore as page } from "akasha/command/pages/git/restore/git-restore.command.ts"
+import { anythingThere } from "akasha/file/disk/modules/anything-there/anything-there.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { anythingThere } from "akasha/util/fs/modules/anything-there/anything-there.module.code.ts"
 
 const HEAD = "HEAD"
 

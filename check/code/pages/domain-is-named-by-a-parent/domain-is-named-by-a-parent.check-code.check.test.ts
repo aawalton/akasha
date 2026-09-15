@@ -13,11 +13,11 @@ import {
   put,
   typed,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { namedUnder } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { shadowAt, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const ONE = "01a04d5f-c731-7001-8000-000000000001"
 

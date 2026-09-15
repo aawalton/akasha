@@ -9,7 +9,7 @@ import {
   readingOf,
   SETTINGS,
 } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import type ts from "typescript"
 
 export const NOWHERE: Placing = new Map()

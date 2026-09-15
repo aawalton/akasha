@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"check/test/fixture/waiting/waiting.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"check/test/fixture/walking/walking.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"code/path/test-fixtures/script-paths/script-paths.test-fixture.ts"}
+{"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"file/disk/test-fixtures/kept-scratch/kept-scratch.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"infrastructure/container-image/test-fixtures/recipe-proving/recipe-proving.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.ts"}
@@ -26,5 +27,4 @@
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/items-rules-routing/test-fixtures/inventory-management-plan-test-utils/inventory-management-plan-test-utils.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/player-completion/test-fixtures/lore-library-sparse-test-utils/lore-library-sparse-test-utils.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/web/test-fixtures/resource-loader-args-test-utils/resource-loader-args-test-utils.test-fixture.ts"}
-{"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"util/fs/test-fixtures/kept-scratch/kept-scratch.test-fixture.ts"}
 {"propertySlug":"parts","path":"check/test/test.domain.ts","id":"01a04f3e-eea5-79ee-8d0b-c822c492a981"}

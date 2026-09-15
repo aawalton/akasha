@@ -12,6 +12,7 @@ import {
   classed,
   indexRefresh,
 } from "akasha/command/pages/index/refresh/index-refresh.command.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   indexNamed,
@@ -29,7 +30,6 @@ import {
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
 import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const TREE = "."
 

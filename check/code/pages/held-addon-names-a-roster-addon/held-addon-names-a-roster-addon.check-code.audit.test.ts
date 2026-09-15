@@ -4,9 +4,9 @@ import {
   heldAddonNamesARosterAddon,
 } from "akasha/check/code/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.check-code.audit.code.ts"
 import { filing } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const ADDON = "eso-addon"
 

@@ -68,7 +68,7 @@
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"domain/context/warrant/persona-itself/persona-itself.context-warrant.test.ts"}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"domain/context/warrant/role-itself/role-itself.context-warrant.test.ts"}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"domain/context/warrant/seat-persona/seat-persona.context-warrant.test.ts"}
-{"propertySlug":"import","fileName":"read-record.module.code.ts","path":"util/fs/modules/scratching/scratching.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"read-record.module.code.ts","path":"file/disk/modules/scratching/scratching.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"read-record.module.test-fixtures.ts","path":"agent/hook/agent-hook/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"read-record.module.test-fixtures.ts","path":"agent/modules/read-record/read-record.module.test.ts"}
 {"propertySlug":"import","fileName":"read-record.module.test-fixtures.ts","path":"agent/seat/stopping/seat-stopping.module.test.ts"}

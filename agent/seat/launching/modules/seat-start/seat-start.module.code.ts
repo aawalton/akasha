@@ -43,12 +43,12 @@ import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { readStdinOrFile } from "akasha/file/disk/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { readStdinOrFile } from "akasha/util/fs/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 
 export interface StartSeatInput {
   readonly startMode: string

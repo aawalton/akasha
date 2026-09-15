@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A path with no file is answered as no bytes."},{"decisionKind":"decision-kind/departure","statement":"A path with an entry that is no file is answered as no bytes."},{"decisionKind":"decision-kind/departure","statement":"A path is read as the caller spelled the path."},{"decisionKind":"decision-kind/absence","statement":"Nothing here throws."}]}
+{"definition":"how many bytes a file has, and none where no file is there"}
+{"id":"01a08182-0997-7171-8a4f-afaacaf31310"}
+{"slug":"file-size"}
+{"test":"ts"}
+{"type":"page-type/module"}

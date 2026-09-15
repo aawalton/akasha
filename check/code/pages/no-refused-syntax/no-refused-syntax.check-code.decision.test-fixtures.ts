@@ -8,6 +8,8 @@ import type {
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Naming } from "akasha/command/modules/walking/command-walking.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   listedFiled,
   valueAlsoFiled,
@@ -18,8 +20,6 @@ import {
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 export const PROBE_AT = "akasha/one/probe.module.code.ts"
 

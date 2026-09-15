@@ -1,4 +1,5 @@
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   type Answering,
   answeringOver,
@@ -18,7 +19,6 @@ import {
 } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { bodyOf } from "akasha/page/modules/referencing/page-referencing.module.test-fixtures.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const GRAPH_EDGE = "graph-edge"
 

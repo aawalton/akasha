@@ -8,6 +8,7 @@ import {
   scratch,
   staged,
 } from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
+import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
 import {
   indexThere,
@@ -15,7 +16,6 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { importersOf as importersBeside } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 afterAll(scratch.sweep)
 

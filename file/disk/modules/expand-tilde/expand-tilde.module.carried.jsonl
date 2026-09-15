@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"A tilde anywhere but the front of a path is left unchanged."}]}
+{"definition":"a path spelled from home read as the path it is at"}
+{"id":"01a05c4c-9442-70c2-948c-b1d7ad5a033f"}
+{"slug":"expand-tilde"}
+{"type":"page-type/module"}

@@ -12,6 +12,7 @@ import {
 import type { Cost } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Judged, Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   idFiled,
   listedFiled,
@@ -24,7 +25,6 @@ import {
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const CHECK = "check-code"
 

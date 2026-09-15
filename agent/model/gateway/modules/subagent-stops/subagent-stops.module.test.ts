@@ -7,8 +7,8 @@ import {
   ownOf,
   stoppedOwnIdsIn,
 } from "akasha/agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"
+import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
-import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const SEAT = "01a09581-cb35-7000-b00f-7156d6b3ce13"
 

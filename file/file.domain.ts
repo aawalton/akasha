@@ -5,7 +5,13 @@ export const file = {
   type: "page-type/domain",
   slug: "file",
   definition: "a file in the `akasha` folder",
-  parts: ["domain/folder-path", "module/exclusive", "module/git-place", "module/lock-holder"],
+  parts: [
+    "domain/file-disk",
+    "domain/folder-path",
+    "module/exclusive",
+    "module/git-place",
+    "module/lock-holder",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

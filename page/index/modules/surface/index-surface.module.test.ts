@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { keepWhole } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import {
   beneath,
@@ -11,7 +12,6 @@ import {
   readingAt,
   readingNone,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

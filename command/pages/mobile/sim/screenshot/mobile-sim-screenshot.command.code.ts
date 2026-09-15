@@ -12,7 +12,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 
 import { mobileSimScreenshot as page } from "akasha/command/pages/mobile/sim/screenshot/mobile-sim-screenshot.command.ts"
-import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 export type Read = {
   readonly output: string

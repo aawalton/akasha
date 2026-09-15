@@ -112,6 +112,7 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"command/pages/talos/remote-install/talos-remote-install.command.test.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"command/pages/talos/secret-gen/talos-secret-gen.command.test.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"command/pages/temper/community/addon-install/temper-community-addon-install.command.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"file/disk/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"git/modules/holding/holding.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"git/modules/holding/holding.module.test.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/analysis-complexity/modules/complexity-rows/complexity-rows.module.code.ts"}
@@ -155,5 +156,4 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/inventory-automation/modules/automation-toggle-change/automation-toggle-change.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/watcher/modules/watcher-daemon/watcher-daemon.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/watcher/modules/watcher-running/watcher-running.module.code.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"util/fs/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts"}
 {"propertySlug":"parts","path":"alan/harness/errors-core/errors-core.domain.ts","id":"01a05c48-deeb-7013-b082-9b135a70f3cc"}
