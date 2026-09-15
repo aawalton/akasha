@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayWishIWasHere = {
   id: "01a0676a-d731-7029-8f0e-fb80905f94b0",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-wish-i-was-here",
   title: "Wish I Was Here",
   partOfCollections: ["artist/coldplay"],

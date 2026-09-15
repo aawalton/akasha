@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonBlameItOnTheMistletoe = {
   id: "01a0676a-d719-7014-8d05-f2811175bc1e",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-blame-it-on-the-mistletoe",
   title: "Blame It On The Mistletoe",
   partOfCollections: ["artist/ella-henderson"],

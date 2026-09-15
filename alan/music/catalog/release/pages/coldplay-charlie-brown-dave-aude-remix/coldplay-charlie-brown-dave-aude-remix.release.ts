@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayCharlieBrownDaveAudeRemix = {
   id: "01a0676a-d71a-701b-a2b3-aba11c501b42",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-charlie-brown-dave-aude-remix",
   title: "Charlie Brown (Dave Audé Remix)",
   partOfCollections: ["artist/coldplay"],

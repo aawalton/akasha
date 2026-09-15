@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayARushOfBloodToTheHead = {
   id: "01a0676a-d715-703d-b121-10d3e8029558",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-a-rush-of-blood-to-the-head",
   title: "A Rush of Blood to the Head",
   partOfCollections: ["artist/coldplay"],

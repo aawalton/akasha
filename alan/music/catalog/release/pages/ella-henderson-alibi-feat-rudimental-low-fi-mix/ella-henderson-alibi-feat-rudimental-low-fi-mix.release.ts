@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonAlibiFeatRudimentalLowFiMix = {
   id: "01a0676a-d716-700a-ab5f-e900597dd754",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-alibi-feat-rudimental-low-fi-mix",
   title: "Alibi (feat. Rudimental) [Low Fi Mix]",
   partOfCollections: ["artist/ella-henderson"],

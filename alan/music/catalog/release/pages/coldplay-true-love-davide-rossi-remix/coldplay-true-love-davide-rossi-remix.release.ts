@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayTrueLoveDavideRossiRemix = {
   id: "01a0676a-d72f-7020-94ab-c63afbe89981",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-true-love-davide-rossi-remix",
   title: "True Love (Davide Rossi Remix)",
   partOfCollections: ["artist/coldplay"],

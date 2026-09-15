@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonBraveLucaSchreinerRemix = {
   id: "01a0676a-d719-7031-becf-e36af0e620c9",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-brave-luca-schreiner-remix",
   title: "Brave (Luca Schreiner Remix)",
   partOfCollections: ["artist/ella-henderson"],

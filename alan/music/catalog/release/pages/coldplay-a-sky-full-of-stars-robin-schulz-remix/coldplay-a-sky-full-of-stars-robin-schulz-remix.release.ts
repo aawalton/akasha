@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayASkyFullOfStarsRobinSchulzRemix = {
   id: "01a0676a-d715-7042-95f1-cdfecf72f5ab",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-a-sky-full-of-stars-robin-schulz-remix",
   title: "A Sky Full of Stars (Robin Schulz Remix)",
   partOfCollections: ["artist/coldplay"],

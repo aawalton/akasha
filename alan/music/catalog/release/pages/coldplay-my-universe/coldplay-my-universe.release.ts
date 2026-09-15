@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayMyUniverse = {
   id: "01a0676a-d725-7037-8ce6-ef50a6855036",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-my-universe",
   title: "My Universe",
   partOfCollections: ["artist/coldplay"],

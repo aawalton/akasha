@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const clairoSling = {
   id: "01a0676a-d729-7022-88e4-7d92cb12c3b1",
-  type: "release",
+  type: "page-type/release",
   slug: "clairo-sling",
   title: "Sling",
   partOfCollections: ["artist/clairo"],

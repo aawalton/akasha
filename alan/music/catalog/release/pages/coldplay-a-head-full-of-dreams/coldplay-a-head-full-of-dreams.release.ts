@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayAHeadFullOfDreams = {
   id: "01a0676a-d715-7029-b888-03c1139a9338",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-a-head-full-of-dreams",
   title: "A Head Full of Dreams",
   partOfCollections: ["artist/coldplay"],

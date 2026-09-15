@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonAllForYouWithEllaHenderson = {
   id: "01a0676a-d716-7018-9dce-b8407b820f0f",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-all-for-you-with-ella-henderson",
   title: "All For You (with Ella Henderson)",
   partOfCollections: ["artist/ella-henderson"],

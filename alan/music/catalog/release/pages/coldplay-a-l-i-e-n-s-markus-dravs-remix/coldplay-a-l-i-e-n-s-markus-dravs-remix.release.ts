@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayALIENSMarkusDravsRemix = {
   id: "01a0676a-d715-702a-8136-b9ba0786876e",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-a-l-i-e-n-s-markus-dravs-remix",
   title: "A L I E N S (Markus Dravs Remix)",
   partOfCollections: ["artist/coldplay"],

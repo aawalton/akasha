@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ejaeDinnerMateOriginalTelevisionSoundtrackPt5 = {
   id: "01a0676a-d71c-7013-a8cb-30ffeea9340f",
-  type: "release",
+  type: "page-type/release",
   slug: "ejae-dinner-mate-original-television-soundtrack-pt-5",
   title: "DINNER MATE (Original Television Soundtrack) Pt.5",
   partOfCollections: ["artist/ejae"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayEveryTeardropIsAWaterfall = {
   id: "01a0676a-d71d-7033-aafd-13ab25efa176",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-every-teardrop-is-a-waterfall",
   title: "Every Teardrop Is a Waterfall",
   partOfCollections: ["artist/coldplay"],

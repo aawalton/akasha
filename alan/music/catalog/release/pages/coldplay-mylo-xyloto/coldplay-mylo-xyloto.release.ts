@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayMyloXyloto = {
   id: "01a0676a-d725-703d-a587-84a390040170",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-mylo-xyloto",
   title: "Mylo Xyloto",
   partOfCollections: ["artist/coldplay"],

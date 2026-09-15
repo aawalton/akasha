@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const clairoBetterSgLewisXClairo = {
   id: "01a0676a-d718-7050-881d-3680070c4ee7",
-  type: "release",
+  type: "page-type/release",
   slug: "clairo-better-sg-lewis-x-clairo",
   title: "Better (SG Lewis x Clairo)",
   partOfCollections: ["artist/clairo"],

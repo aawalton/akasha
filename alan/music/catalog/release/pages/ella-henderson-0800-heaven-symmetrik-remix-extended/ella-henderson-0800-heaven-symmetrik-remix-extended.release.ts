@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHenderson0800HeavenSymmetrikRemixExtended = {
   id: "01a0676a-d714-7005-8292-39e84455215e",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-0800-heaven-symmetrik-remix-extended",
   title: "0800 HEAVEN (Symmetrik Remix) [Extended]",
   partOfCollections: ["artist/ella-henderson"],

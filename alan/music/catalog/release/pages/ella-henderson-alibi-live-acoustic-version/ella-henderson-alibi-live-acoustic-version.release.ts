@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonAlibiLiveAcousticVersion = {
   id: "01a0676a-d716-7010-87ae-dea7b8f418b3",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-alibi-live-acoustic-version",
   title: "Alibi (Live Acoustic Version)",
   partOfCollections: ["artist/ella-henderson"],

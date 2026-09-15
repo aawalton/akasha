@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonDreamOnMePaulWoolfordRemix = {
   id: "01a0676a-d71c-7033-a0a1-fec174a307e2",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-dream-on-me-paul-woolford-remix",
   title: "Dream On Me (Paul Woolford Remix)",
   partOfCollections: ["artist/ella-henderson"],

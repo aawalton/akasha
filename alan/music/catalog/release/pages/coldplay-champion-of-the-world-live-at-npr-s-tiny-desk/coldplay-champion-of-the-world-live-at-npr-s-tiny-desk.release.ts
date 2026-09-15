@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayChampionOfTheWorldLiveAtNprSTinyDesk = {
   id: "01a0676a-d71a-7010-a145-725f2b920476",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-champion-of-the-world-live-at-npr-s-tiny-desk",
   title: "Champion Of The World (Live at NPR's Tiny Desk)",
   partOfCollections: ["artist/coldplay"],

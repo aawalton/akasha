@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayCharlieBrown = {
   id: "01a0676a-d71a-701a-b033-47472563d965",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-charlie-brown",
   title: "Charlie Brown",
   partOfCollections: ["artist/coldplay"],

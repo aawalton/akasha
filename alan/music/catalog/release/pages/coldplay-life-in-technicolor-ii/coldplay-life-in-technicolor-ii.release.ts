@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayLifeInTechnicolorIi = {
   id: "01a0676a-d723-702a-a5db-c1fff6004a75",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-life-in-technicolor-ii",
   title: "Life in Technicolor ii",
   partOfCollections: ["artist/coldplay"],

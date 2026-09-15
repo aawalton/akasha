@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const clairoIDonTThinkICanDoThisAgain = {
   id: "01a0676a-d721-7016-ad21-b77a2fa9c1ab",
-  type: "release",
+  type: "page-type/release",
   slug: "clairo-i-don-t-think-i-can-do-this-again",
   title: "I Don’t Think I Can Do This Again",
   partOfCollections: ["artist/clairo"],

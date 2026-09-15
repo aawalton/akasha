@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayASkyFullOfStarsHardwellRemix = {
   id: "01a0676a-d715-7041-8cd3-af7a6858dfc5",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-a-sky-full-of-stars-hardwell-remix",
   title: "A Sky Full of Stars (Hardwell Remix)",
   partOfCollections: ["artist/coldplay"],

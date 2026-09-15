@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayFlags = {
   id: "01a0676a-d71e-700b-a527-3cd83517f4ec",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-flags",
   title: "Flags",
   partOfCollections: ["artist/coldplay"],

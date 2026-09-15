@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHenderson21ReasonsFeatEllaHendersonAlleFarbenRemix = {
   id: "01a0676a-d714-7029-8538-dfcb90fddcd9",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-21-reasons-feat-ella-henderson-alle-farben-remix",
   title: "21 Reasons (feat. Ella Henderson) [Alle Farben Remix]",
   partOfCollections: ["artist/ella-henderson"],

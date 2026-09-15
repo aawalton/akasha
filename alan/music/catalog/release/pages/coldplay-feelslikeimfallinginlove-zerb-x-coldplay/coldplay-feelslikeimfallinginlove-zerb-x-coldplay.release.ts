@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayFeelslikeimfallinginloveZerbXColdplay = {
   id: "01a0676a-d71d-706f-8ea5-daf26f9928c1",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-feelslikeimfallinginlove-zerb-x-coldplay",
   title: "feelslikeimfallinginlove (Zerb x Coldplay)",
   partOfCollections: ["artist/coldplay"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const clairoBrooklynBabySpotifySingles = {
   id: "01a0676a-d719-703c-a224-9f2fd369f241",
-  type: "release",
+  type: "page-type/release",
   slug: "clairo-brooklyn-baby-spotify-singles",
   title: "Brooklyn Baby - Spotify Singles",
   partOfCollections: ["artist/clairo"],

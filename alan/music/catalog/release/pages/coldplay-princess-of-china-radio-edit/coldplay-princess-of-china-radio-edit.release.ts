@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayPrincessOfChinaRadioEdit = {
   id: "01a0676a-d727-7020-a5f3-65841e2a3164",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-princess-of-china-radio-edit",
   title: "Princess of China [Radio Edit]",
   partOfCollections: ["artist/coldplay"],

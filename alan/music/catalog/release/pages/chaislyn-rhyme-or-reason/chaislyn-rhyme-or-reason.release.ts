@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const chaislynRhymeOrReason = {
   id: "01a0676a-d728-7003-b5e7-3de3a725b9a2",
-  type: "release",
+  type: "page-type/release",
   slug: "chaislyn-rhyme-or-reason",
   title: "rhyme or reason",
   partOfCollections: ["artist/chaislyn"],

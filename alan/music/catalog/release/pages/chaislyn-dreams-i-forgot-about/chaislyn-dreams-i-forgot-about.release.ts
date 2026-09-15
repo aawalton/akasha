@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const chaislynDreamsIForgotAbout = {
   id: "01a0676a-d71c-7039-9feb-bede978e416a",
-  type: "release",
+  type: "page-type/release",
   slug: "chaislyn-dreams-i-forgot-about",
   title: "Dreams I Forgot About",
   partOfCollections: ["artist/chaislyn"],

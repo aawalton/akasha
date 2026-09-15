@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const clairoAfterMidnightFeatClairo = {
   id: "01a0676a-d716-7002-a31b-6b0cd3dfb532",
-  type: "release",
+  type: "page-type/release",
   slug: "clairo-after-midnight-feat-clairo",
   title: "After Midnight (feat. Clairo)",
   partOfCollections: ["artist/clairo"],

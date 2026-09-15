@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayHypnotised = {
   id: "01a0676a-d720-7084-b07d-4a4dbb2b86ee",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-hypnotised",
   title: "Hypnotised",
   partOfCollections: ["artist/coldplay"],

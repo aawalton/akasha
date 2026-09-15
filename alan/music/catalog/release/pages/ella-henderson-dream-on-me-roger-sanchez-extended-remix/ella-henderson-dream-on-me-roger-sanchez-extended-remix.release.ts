@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonDreamOnMeRogerSanchezExtendedRemix = {
   id: "01a0676a-d71c-7034-b60e-575a8ccb1553",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-dream-on-me-roger-sanchez-extended-remix",
   title: "Dream On Me (Roger Sanchez Extended Remix)",
   partOfCollections: ["artist/ella-henderson"],

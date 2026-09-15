@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const chaislynMakeBelieve = {
   id: "01a0676a-d724-702d-b777-43b4c3e49f83",
-  type: "release",
+  type: "page-type/release",
   slug: "chaislyn-make-believe",
   title: "Make Believe",
   partOfCollections: ["artist/chaislyn"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const celticWoman2WaterUnderTheBridge = {
   id: "01a0676a-d730-701d-903b-fb5359e53d4b",
-  type: "release",
+  type: "page-type/release",
   slug: "celtic-woman-2-water-under-the-bridge",
   title: "Water Under the Bridge",
   partOfCollections: ["artist/celtic-woman"],

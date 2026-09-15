@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayWePrayTwiceVersion = {
   id: "01a0676a-d730-7039-b113-ff31a754b3ef",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-we-pray-twice-version",
   title: "WE PRAY (TWICE Version)",
   partOfCollections: ["artist/coldplay"],

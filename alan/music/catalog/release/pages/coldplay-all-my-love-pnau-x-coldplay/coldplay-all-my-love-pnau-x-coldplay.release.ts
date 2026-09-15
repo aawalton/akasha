@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayAllMyLovePnauXColdplay = {
   id: "01a0676a-d716-7022-aa54-961c5adfd22c",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-all-my-love-pnau-x-coldplay",
   title: "ALL MY LOVE (PNAU x Coldplay)",
   partOfCollections: ["artist/coldplay"],

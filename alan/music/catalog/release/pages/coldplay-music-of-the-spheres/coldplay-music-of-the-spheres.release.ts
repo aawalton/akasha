@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayMusicOfTheSpheres = {
   id: "01a0676a-d725-701d-84b5-efcebbf88ce0",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-music-of-the-spheres",
   title: "Music Of The Spheres",
   partOfCollections: ["artist/coldplay"],

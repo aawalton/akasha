@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonAlibiFeatRudimentalJoelCorryRemix = {
   id: "01a0676a-d716-7009-a7e4-464df51d1a24",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-alibi-feat-rudimental-joel-corry-remix",
   title: "Alibi (feat. Rudimental) [Joel Corry Remix]",
   partOfCollections: ["artist/ella-henderson"],

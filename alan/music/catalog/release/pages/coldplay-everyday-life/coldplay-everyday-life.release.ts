@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayEverydayLife = {
   id: "01a0676a-d71d-703a-ade5-0292b88685cc",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-everyday-life",
   title: "Everyday Life",
   partOfCollections: ["artist/coldplay"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayMyUniverseDavidGuettaRemix = {
   id: "01a0676a-d725-7039-b90f-792e7b8416a2",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-my-universe-david-guetta-remix",
   title: "My Universe (David Guetta Remix)",
   partOfCollections: ["artist/coldplay"],

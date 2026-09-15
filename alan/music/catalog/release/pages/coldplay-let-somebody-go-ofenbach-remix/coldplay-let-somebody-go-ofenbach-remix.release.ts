@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayLetSomebodyGoOfenbachRemix = {
   id: "01a0676a-d723-7023-936a-eb63b497ac0f",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-let-somebody-go-ofenbach-remix",
   title: "Let Somebody Go (Ofenbach Remix)",
   partOfCollections: ["artist/coldplay"],

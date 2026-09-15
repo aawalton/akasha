@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const clairoNomad = {
   id: "01a0676a-d725-7074-a160-c71f53928aec",
-  type: "release",
+  type: "page-type/release",
   slug: "clairo-nomad",
   title: "Nomad",
   partOfCollections: ["artist/clairo"],

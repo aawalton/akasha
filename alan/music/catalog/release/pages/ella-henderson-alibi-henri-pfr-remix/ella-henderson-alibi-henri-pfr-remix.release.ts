@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonAlibiHenriPfrRemix = {
   id: "01a0676a-d716-700f-92a0-071c966d5c69",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-alibi-henri-pfr-remix",
   title: "Alibi (Henri PFR Remix)",
   partOfCollections: ["artist/ella-henderson"],

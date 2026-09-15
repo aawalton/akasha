@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayStrawberrySwing = {
   id: "01a0676a-d72a-702d-b629-28f0123d6160",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-strawberry-swing",
   title: "Strawberry Swing",
   partOfCollections: ["artist/coldplay"],

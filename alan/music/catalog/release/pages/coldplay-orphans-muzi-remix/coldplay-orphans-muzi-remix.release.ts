@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayOrphansMuziRemix = {
   id: "01a0676a-d726-704e-ae98-919188f7e9d5",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-orphans-muzi-remix",
   title: "Orphans (Muzi Remix)",
   partOfCollections: ["artist/coldplay"],

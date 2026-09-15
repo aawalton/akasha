@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ejaeInAnotherWorld = {
   id: "01a0676a-d721-7066-bb9a-61fc54a1fdbe",
-  type: "release",
+  type: "page-type/release",
   slug: "ejae-in-another-world",
   title: "In Another World",
   partOfCollections: ["artist/ejae"],

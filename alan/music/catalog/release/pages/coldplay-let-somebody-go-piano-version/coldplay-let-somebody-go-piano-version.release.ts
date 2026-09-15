@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayLetSomebodyGoPianoVersion = {
   id: "01a0676a-d723-7024-a7f4-03ca04634181",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-let-somebody-go-piano-version",
   title: "Let Somebody Go (Piano Version)",
   partOfCollections: ["artist/coldplay"],

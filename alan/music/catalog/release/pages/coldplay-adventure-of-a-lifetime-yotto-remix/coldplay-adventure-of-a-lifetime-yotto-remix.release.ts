@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayAdventureOfALifetimeYottoRemix = {
   id: "01a0676a-d716-7001-a9c9-3c9b9e0fe801",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-adventure-of-a-lifetime-yotto-remix",
   title: "Adventure of a Lifetime (Yotto Remix)",
   partOfCollections: ["artist/coldplay"],

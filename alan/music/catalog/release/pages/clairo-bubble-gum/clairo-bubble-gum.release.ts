@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const clairoBubbleGum = {
   id: "01a0676a-d719-7041-9bfb-dde15865dfef",
-  type: "release",
+  type: "page-type/release",
   slug: "clairo-bubble-gum",
   title: "Bubble Gum",
   partOfCollections: ["artist/clairo"],

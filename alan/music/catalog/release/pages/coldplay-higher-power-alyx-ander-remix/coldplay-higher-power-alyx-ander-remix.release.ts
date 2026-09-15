@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const coldplayHigherPowerAlyxAnderRemix = {
   id: "01a0676a-d720-703d-8f28-a962aaae23d3",
-  type: "release",
+  type: "page-type/release",
   slug: "coldplay-higher-power-alyx-ander-remix",
   title: "Higher Power (Alyx Ander Remix)",
   partOfCollections: ["artist/coldplay"],
