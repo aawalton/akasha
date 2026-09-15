@@ -2,7 +2,7 @@ import type { Index } from "akasha/page/index/index.page-type.types.ts"
 
 export const indexPageProperty = {
   id: "01a0a55d-2c78-7e0a-92df-ff38791c81cb",
-  type: "index",
+  type: "page-type/index",
   slug: "index-page-property",
   definition:
     "an index from an identifier unique among the pages sharing one property's value to the page with it",
