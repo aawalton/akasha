@@ -10,7 +10,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "A refusal from the pages names the file that refusal is about.",
       workingMemory:
-        "page-calling now names the status, the byte count and the parser's own message on a body it cannot read. landedIn now appends the paths a write had. The file-property guard names the page type, the character count, the opening of the body and the 255-byte ceiling. The entry that could not be opened is still unnamed, because keepWhole sits in indexing.module.code.ts, which is 15,810 bytes against a 15,000 ceiling and has comments the no-code-comments check refuses.",
+        "page-calling names the status, the byte count and the parser's message. landedIn appends the paths a write had. An oversized entry value now names the file it was bound for, in entry-writing and in entry-landing. keepWhole has moved to index-keeping, which is short and carries no comment, so that blocker is gone. Left: rowsOver passes over an entry file it cannot parse without a word, so the index drops those references in silence; indexing already carries a `refused` list to name them in.",
     },
     {
       statement: "The watcher updates itself to the source revision it is told to run.",
