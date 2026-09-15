@@ -2,7 +2,7 @@ import type { ChangeTargetSubtype } from "akasha/change/target/subtype/change-ta
 
 export const filePage = {
   id: "01a07c70-bc1d-7011-9766-74cbb066190d",
-  type: "change-target-subtype",
+  type: "page-type/change-target-subtype",
   slug: "file-page",
   definition: "a file with a page",
   changeTargetType: "change-target-type/file",

@@ -2,7 +2,7 @@ import type { ChangeTargetSubtype } from "akasha/change/target/subtype/change-ta
 
 export const fileContentPagePropertyValue = {
   id: "01a07c7a-29b7-70e3-933c-4a654f8a45e4",
-  type: "change-target-subtype",
+  type: "page-type/change-target-subtype",
   slug: "file-content-page-property-value",
   definition: "a body read as the values a page states",
   changeTargetType: "change-target-type/file-content",

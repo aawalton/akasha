@@ -2,7 +2,7 @@ import type { ChangeTargetSubtype } from "akasha/change/target/subtype/change-ta
 
 export const fileCode = {
   id: "01a07c70-afc7-75b7-a1aa-9615a67cf8ce",
-  type: "change-target-subtype",
+  type: "page-type/change-target-subtype",
   slug: "file-code",
   definition: "a file holding code",
   changeTargetType: "change-target-type/file",
