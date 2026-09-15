@@ -2,7 +2,7 @@ import type { TemperWeaponTrait } from "akasha/temper/catalog/temper-gear/temper
 
 export const intricate = {
   id: "019e5b8b-e550-7816-bfce-025ca7c20d3e",
-  type: "temper-weapon-trait",
+  type: "page-type/temper-weapon-trait",
   slug: "intricate",
   title: "Intricate",
   key: "intricate",

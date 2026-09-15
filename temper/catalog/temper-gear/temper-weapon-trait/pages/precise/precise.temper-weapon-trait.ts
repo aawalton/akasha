@@ -2,7 +2,7 @@ import type { TemperWeaponTrait } from "akasha/temper/catalog/temper-gear/temper
 
 export const precise = {
   id: "019e5b8b-e54b-75fa-afc2-cfdd5f966f52",
-  type: "temper-weapon-trait",
+  type: "page-type/temper-weapon-trait",
   slug: "precise",
   title: "Precise",
   key: "precise",

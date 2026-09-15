@@ -2,7 +2,7 @@ import type { TemperWeaponTrait } from "akasha/temper/catalog/temper-gear/temper
 
 export const nirnhoned = {
   id: "019e5b8b-e547-7d4a-8306-4568b26afcec",
-  type: "temper-weapon-trait",
+  type: "page-type/temper-weapon-trait",
   slug: "nirnhoned",
   title: "Nirnhoned",
   key: "nirnhoned",

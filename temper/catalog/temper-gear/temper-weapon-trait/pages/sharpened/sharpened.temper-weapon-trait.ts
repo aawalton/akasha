@@ -2,7 +2,7 @@ import type { TemperWeaponTrait } from "akasha/temper/catalog/temper-gear/temper
 
 export const sharpened = {
   id: "019e5b8b-e54c-7a9d-9b2b-de0c4da3ca56",
-  type: "temper-weapon-trait",
+  type: "page-type/temper-weapon-trait",
   slug: "sharpened",
   title: "Sharpened",
   key: "sharpened",
