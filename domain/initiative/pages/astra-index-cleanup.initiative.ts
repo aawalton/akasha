@@ -12,15 +12,12 @@ export const astraIndexCleanup = {
       workingMemory:
         "`index-answers-are-level-with-the-change` judges at change since `b0bd8841`, both ways, reading `shadow.filed()` against `change.carried`, so nothing is built again. It has refused no landing of mine since. The hazard it does not reach is the one relation carries: a change to a page type turns answers for every page of that type, far outside the files that change has, and those are left out.\n",
     },
-    { statement: "Alan holds the value index's structure correct." },
 
     {
       statement: "A file property declares one extension.",
       workingMemory:
         "A case that diverges splits into its own page type rather than taking a second optional property: a module is `.ts`, a component `.tsx`. Four properties vary today. `code` and `test` on modules and `route-code` on routes run `ts` against `tsx`, and `content` on provisioned files runs `conf`, `sh` and `json`. Of 140 stated properties 136 are constant, and 35 of those reach no path at all, their property page setting a `fileName`.\n",
     },
-    { statement: "Alan holds the import index's structure correct." },
-    { statement: "Alan holds the rule index's structure correct." },
     {
       statement: "Alan holds the parse cache's structure correct.",
       workingMemory:
