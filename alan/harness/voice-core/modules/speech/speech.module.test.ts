@@ -6,7 +6,6 @@ import {
   MAX_SPEECH_CHARS,
   MAX_SPEECH_SEGMENTS,
   packSegments,
-  planSpeechSegments,
   splitSentences,
 } from "akasha/alan/harness/voice-core/modules/speech/speech.module.code.ts"
 import {
@@ -79,24 +78,6 @@ describe("formatForSpeech", () => {
   test("never answers more pieces than the cap", () => {
     const said = formatForSpeech(packedAlphaText().repeat(200))
     expect(said.length).toBeLessThanOrEqual(MAX_SPEECH_SEGMENTS)
-  })
-})
-
-describe("planSpeechSegments", () => {
-  test("names one piece by the message alone", () => {
-    expect(planSpeechSegments("m1", ["only"])).toEqual([
-      { id: "m1", text: "only", label: "message m1" },
-    ])
-  })
-
-  test("numbers several pieces", () => {
-    const planned = planSpeechSegments("m1", ["a", "b"])
-    expect(planned.map((one) => one.id)).toEqual(["m1-seg0", "m1-seg1"])
-    expect(planned[1]?.label).toBe("message m1 segment 2/2")
-  })
-
-  test("passes over an empty piece", () => {
-    expect(planSpeechSegments("m1", ["a", "", "b"]).length).toBe(2)
   })
 })
 

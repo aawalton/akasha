@@ -92,29 +92,6 @@ export function formatForSpeech(
   return segments.slice(0, MAX_SPEECH_SEGMENTS)
 }
 
-export type SegmentPlan = {
-  readonly id: string
-  readonly text: string
-  readonly label: string
-}
-
-export function planSpeechSegments(
-  messageId: string,
-  segments: readonly string[]
-): readonly SegmentPlan[] {
-  const total = segments.length
-  const plans: SegmentPlan[] = []
-  for (let i = 0; i < total; i++) {
-    const text = segments[i] ?? ""
-    if (text.length === 0) continue
-    const id = total === 1 ? messageId : `${messageId}-seg${i}`
-    const label =
-      total === 1 ? `message ${messageId}` : `message ${messageId} segment ${i + 1}/${total}`
-    plans.push({ id, text, label })
-  }
-  return plans
-}
-
 const PARAGRAPH_MARKER_RE = /^\s*\[[a-z][a-z0-9-]*\]\s*/
 
 export function buildKokoroSpeechSegments(
