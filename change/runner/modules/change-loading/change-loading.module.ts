@@ -4,7 +4,7 @@ export const changeLoading = {
   id: "01a08161-d992-7ad5-b5f9-6397f53d2002",
   type: "module",
   slug: "change-loading",
-  definition: "the change filed at an address loaded with the guards that change names",
+  definition: "the change filed at an address, loaded and run for the answer it gives",
   code: "ts",
   test: "ts",
   invariants: [
@@ -71,35 +71,6 @@ export const changeLoading = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A guard is loaded by the slug the change's page names.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "A guard runs over the outermost change's answer rather than over each rung's answer.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A guard a change reached inside names runs at the outermost change.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A guard reached at more than one rung of one composition runs once.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The guards a change runs are the guards that change names and no other guard.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A change naming no guard runs no guard.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "An answer already refused runs no guard.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "An address reaching no page is refused rather than answered with no edits.",
     },
     {
@@ -129,19 +100,6 @@ export const changeLoading = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "A lock a caller has over a store is held while a change reached inside loads.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The guards are loaded alongside the change rather than after the change answers.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The world a guard judges against is read before the outermost change runs.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "The world a guard judges is read whether or not the outermost change names a guard.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -190,7 +148,7 @@ export const changeLoading = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Every answer a change gives is dropped from before that answer is guarded.",
+      statement: "Every answer a change gives is dropped from.",
     },
     {
       invariantKind: "invariant-kind/departure",

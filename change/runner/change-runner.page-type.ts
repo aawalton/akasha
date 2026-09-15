@@ -51,15 +51,6 @@ export const changeRunner = {
       statement: "A runner loads the change's code from the path that page states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "A runner runs the guards that page names and the guards the changes reached inside name.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A guard runs on the outermost change's answer rather than on each rung's answer.",
-    },
-    {
       invariantKind: "invariant-kind/gap",
       statement: "A change reaches another change through a runner rather than through an import.",
     },

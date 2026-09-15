@@ -42,14 +42,6 @@ export const mechanicalChangeRunning = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The guards the changes named reach run once over the answer the fold gathered.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The world a guard judges is read before the first change in the fold runs.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "A change that refuses stops the fold.",
     },
     {
