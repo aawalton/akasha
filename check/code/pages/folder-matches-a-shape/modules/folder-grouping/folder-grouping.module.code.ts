@@ -16,16 +16,6 @@ export function ancestorsOf(path: string): readonly string[] {
   return found
 }
 
-export function reachedFolders(target: string, importer: string): readonly string[] {
-  const found: string[] = []
-  let at = folderOf(target)
-  while (at !== "" && !importer.startsWith(`${at}/`)) {
-    found.push(at)
-    at = folderOf(at)
-  }
-  return found
-}
-
 export type Grouped = {
   readonly at: (folder: string) => readonly string[]
   readonly foldersIn: (folder: string) => readonly string[]

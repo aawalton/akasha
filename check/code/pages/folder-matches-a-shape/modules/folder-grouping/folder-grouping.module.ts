@@ -14,10 +14,6 @@ export const folderGrouping = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A folder an importer sits inside is no folder that import reaches into.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "A folder is read off the disk one folder at a time.",
     },
     {

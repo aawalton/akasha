@@ -1,15 +1,7 @@
 import { expect, test } from "bun:test"
-import {
-  edgesOf,
-  foldersJudgedBy,
-  foldersTouchedBy,
-} from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.check.code.ts"
-import {
-  ancestorsOf,
-  reachedFolders,
-} from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
+import { foldersJudgedBy } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.check.code.ts"
+import { ancestorsOf } from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
-import { NAMING_NONE } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
 const ROOT = "/repo"
@@ -37,60 +29,35 @@ test("every folder above a path is an ancestor, nearest first", () => {
   expect(ancestorsOf("akasha/a/b/one.ts")).toEqual(["akasha/a/b", "akasha/a", "akasha"])
 })
 
-test("an import reaches the folders holding it, stopping where the importer is too", () => {
-  expect(reachedFolders("akasha/c/two.ts", "akasha/a/one.ts")).toEqual(["akasha/c"])
-})
-
-test("an import inside a folder is no entrance to it, so that folder is not reached", () => {
-  expect(reachedFolders("akasha/a/deep/two.ts", "akasha/a/one.ts")).toEqual(["akasha/a/deep"])
-})
-
-test("a relative specifier makes an edge and a package specifier makes none", () => {
-  const body = 'import { one } from "./two.ts"\nimport ts from "typescript"\n'
-  expect([...edgesOf(ROOT, "akasha/a/one.ts", encoder.encode(body))]).toEqual(["akasha/a/two.ts"])
-})
-
-test("a body that is nothing makes no edge", () => {
-  expect([...edgesOf(ROOT, "akasha/a/one.ts", null)]).toEqual([])
-})
-
 test("a changed path carries every folder above it", () => {
-  const said = foldersTouchedBy(change(["akasha/a/b/one.ts"], { "akasha/a/b/one.ts": "" }, {}))
-  expect([...said].sort()).toEqual(["akasha", "akasha/a", "akasha/a/b"])
+  const said = foldersJudgedBy(change(["akasha/a/b/one.ts"], { "akasha/a/b/one.ts": "" }, {}))
+  expect([...said].sort()).toEqual(["", "akasha", "akasha/a", "akasha/a/b"])
 })
 
-test("an import the change adds carries the folder it reaches", () => {
-  const said = foldersTouchedBy(
+test("an import the change adds carries no folder that import reaches", () => {
+  const said = foldersJudgedBy(
     change(
       ["akasha/a/one.ts"],
       { "akasha/a/one.ts": 'import { two } from "../c/two.ts"\n' },
       { "akasha/a/one.ts": "" }
     )
   )
-  expect(said.has("akasha/c")).toBe(true)
+  expect(said.has("akasha/c")).toBe(false)
 })
 
-test("an import the change takes away carries the folder it used to reach", () => {
-  const said = foldersTouchedBy(
+test("an import the change takes away carries no folder that import used to reach", () => {
+  const said = foldersJudgedBy(
     change(
       ["akasha/a/one.ts"],
       { "akasha/a/one.ts": "" },
       { "akasha/a/one.ts": 'import { two } from "../c/two.ts"\n' }
     )
   )
-  expect(said.has("akasha/c")).toBe(true)
-})
-
-test("an import the change leaves unchanged carries no folder of its own", () => {
-  const body = 'import { two } from "../c/two.ts"\n'
-  const said = foldersTouchedBy(
-    change(["akasha/a/one.ts"], { "akasha/a/one.ts": body }, { "akasha/a/one.ts": body })
-  )
   expect(said.has("akasha/c")).toBe(false)
 })
 
 test("a path the change takes away still carries the folders above it", () => {
-  const said = foldersTouchedBy(
+  const said = foldersJudgedBy(
     change(["akasha/a/one.ts"], { "akasha/a/one.ts": null }, { "akasha/a/one.ts": "" })
   )
   expect(said.has("akasha/a")).toBe(true)
@@ -98,21 +65,17 @@ test("a path the change takes away still carries the folders above it", () => {
 
 test("a folder under a changed folder holding no changed path is judged by nothing here", () => {
   const said = foldersJudgedBy(
-    change(["akasha/foo/foo.module.ts"], { "akasha/foo/foo.module.ts": "" }, {}),
-    NAMING_NONE
+    change(["akasha/foo/foo.module.ts"], { "akasha/foo/foo.module.ts": "" }, {})
   )
   expect([...said].sort()).toEqual(["", "akasha", "akasha/foo"])
 })
 
 test("the workspace root is judged by a change carrying a path", () => {
-  const said = foldersJudgedBy(
-    change(["one/one.module.ts"], { "one/one.module.ts": "" }, {}),
-    NAMING_NONE
-  )
+  const said = foldersJudgedBy(change(["one/one.module.ts"], { "one/one.module.ts": "" }, {}))
   expect([...said].sort()).toEqual(["", "one"])
 })
 
 test("a change carrying no path judges no folder at all", () => {
-  const said = foldersJudgedBy(change([], {}, {}), NAMING_NONE)
+  const said = foldersJudgedBy(change([], {}, {}))
   expect([...said]).toEqual([])
 })

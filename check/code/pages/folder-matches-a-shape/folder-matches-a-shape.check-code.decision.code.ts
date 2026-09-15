@@ -77,15 +77,6 @@ const PART_OF_COLLECTIONS = "partOfCollections"
 
 export type Paged = Pick<Answering, "pageByPath">
 
-function enteringOf(shadow: Shadow): (folder: string, path: string) => boolean {
-  return (folder, path) => {
-    for (const one of shadow.index.importersOf(path)) {
-      if (!one.startsWith(`${folder}/`)) return true
-    }
-    return false
-  }
-}
-
 export function namesFiling(
   fileProperties: ReadonlyMap<string, string | null>
 ): ReadonlyMap<string, string> {
@@ -377,7 +368,6 @@ export function judgingOver(given: Reading): Judging {
   )
   const partOf = partOfOver(index)
   const claimed = claimingOver(grouped, pageTypes, fileProperties, parts)
-  const entering = enteringOf(given.shadow)
   const refusalsAt = (folders: Iterable<string>): readonly Judged[] => {
     const found: Judged[] = []
     for (const folder of [...folders].sort()) {
@@ -407,7 +397,6 @@ export function judgingOver(given: Reading): Judging {
         pages: held.filter((one) => one.kind === "page"),
         properties: held.filter((one) => one.kind === "property"),
         strays: held.filter((one) => one.kind === "stray"),
-        entered: (path) => entering(folder, path),
         extending,
         declaring,
         naming: namedFor,

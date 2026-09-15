@@ -136,7 +136,6 @@ export function folderFrom(shaping: Shaping): (names: readonly string[]) => Stan
       pages: held.filter((each) => each.kind === "page"),
       properties: held.filter((each) => each.kind === "property"),
       strays: held.filter((each) => each.kind === "stray"),
-      entered: () => false,
       extending,
       subfolders: grouped.foldersIn(shaping.folder),
       held: shaping.held ?? HELD_IN_TESTS,

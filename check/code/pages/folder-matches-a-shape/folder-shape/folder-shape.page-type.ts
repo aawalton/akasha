@@ -14,7 +14,6 @@ export type Standing = {
   readonly pages: readonly Held[]
   readonly properties: readonly Held[]
   readonly strays: readonly Held[]
-  readonly entered: (path: string) => boolean
   readonly extending: (pageTypeSlug: string, wanted: string) => boolean
   readonly subfolders: readonly string[]
   readonly held: ReadonlySet<string>

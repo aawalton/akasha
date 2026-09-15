@@ -98,15 +98,6 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "A reach spelled as the name a manifest states reaches into the folder that reach lands in.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "Those manifests are read as the change leaves those manifests.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "Every folder above a changed path is judged.",
     },
     {
@@ -128,22 +119,12 @@ export const folderMatchesAShape = {
         "A shape reads the folders under a folder as well as the files sitting in the folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "An import the change adds or takes away is judged at the folder the import reaches.",
+      invariantKind: "invariant-kind/absence",
+      statement: "No shape asks which files reach into the folder that shape judges.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "An import inside a folder is no entrance to the folder.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "Only a TypeScript file is read for the imports that file has.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "An import the change takes away is read from the body the change found rather than from the index.",
+      invariantKind: "invariant-kind/absence",
+      statement: "An import the change adds or takes away widens what this check judges.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -162,10 +143,6 @@ export const folderMatchesAShape = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "A path another landing first carried after that commit sits in no folder here.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "Which files import a path is read from the index as the change leaves the index.",
     },
     {
       invariantKind: "invariant-kind/absence",
