@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const hebrews1 = {
   id: "01a06804-11ad-7047-b6ef-7932a9c49673",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "hebrews-1",
   title: "Hebrews 1",
   book: "Hebrews",

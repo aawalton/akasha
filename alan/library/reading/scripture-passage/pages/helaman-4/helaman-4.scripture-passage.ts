@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const helaman4 = {
   id: "019f0977-282a-7605-8254-76e0ea5e500b",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "helaman-4",
   title: "Helaman 4",
   book: "Helaman",

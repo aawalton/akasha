@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const galatians3 = {
   id: "01a06804-11ad-700c-9b26-7159ab263d24",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "galatians-3",
   title: "Galatians 3",
   book: "Galatians",

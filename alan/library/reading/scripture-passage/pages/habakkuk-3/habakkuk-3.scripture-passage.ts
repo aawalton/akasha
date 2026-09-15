@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const habakkuk3 = {
   id: "01a06804-11ad-7044-b387-9cbb3cdf5fca",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "habakkuk-3",
   title: "Habakkuk 3",
   book: "Habakkuk",

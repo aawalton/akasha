@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const genesis23 = {
   id: "01a06804-11ad-701f-90f6-176bedbf4713",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "genesis-23",
   title: "Genesis 23",
   book: "Genesis",
