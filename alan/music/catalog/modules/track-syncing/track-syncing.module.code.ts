@@ -32,6 +32,21 @@ const NOT_STARTED = "not-started"
 
 const IDENTITY = "externalIdentity"
 
+const APART = "|"
+
+const BETWEEN = ","
+
+const LOOSE = /[^a-z0-9]+/gu
+
+export function trackKeyFor(track: AlbumTrack): string {
+  const title = track.name.normalize("NFKD").toLowerCase().replace(LOOSE, "")
+  const artists = track.artists
+    .map((one) => one.id)
+    .toSorted()
+    .join(BETWEEN)
+  return [title, artists, String(track.duration_ms)].join(APART)
+}
+
 export type Tracked = {
   readonly names: CatalogueNames
   readonly held: ReadonlyMap<string, Value>
@@ -67,6 +82,7 @@ export function trackValues(args: {
     ...(args.was["status"] === undefined ? { status: NOT_STARTED } : {}),
     ...(args.was["ownProgress"] === undefined ? { ownProgress: 0 } : {}),
     title: args.track.name,
+    trackKey: trackKeyFor(args.track),
     partOfCollections: [`${RELEASE}/${args.releaseSlug}`],
     position: args.track.track_number,
     discNumber: args.track.disc_number,

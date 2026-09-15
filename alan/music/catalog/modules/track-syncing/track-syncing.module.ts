@@ -38,6 +38,14 @@ export const trackSyncing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A track states the key matching it to the same track on another release.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That key is the title, the artists and the length in milliseconds together.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The progress and the grade a person gave a track outlive every sweep.",
     },
     {

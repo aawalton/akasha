@@ -3,6 +3,7 @@ import { catalogueNamesFrom } from "akasha/alan/music/catalog/modules/catalogue-
 import {
   type Tracked,
   trackEdits,
+  trackKeyFor,
   trackValues,
 } from "akasha/alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"
 import type { AlbumTrack } from "akasha/alan/music/spotify/modules/releases/spotify-releases.module.code.ts"
@@ -70,6 +71,44 @@ test("a track states every artist the provider credits, in the order given", () 
     { externalId: "sp-artist", artistName: "Sylvia Daley" },
     { externalId: "sp-guest", artistName: "A Guest" },
   ])
+})
+
+test("a track states the key matching it to the same track on another release", () => {
+  const values = trackValues({
+    releaseSlug: "sylvia-daley-pixie",
+    slug: "sylvia-daley-pixie-elf",
+    track: track("t7", "Elf", 90_000, 3),
+    was: {},
+    today: TODAY,
+  })
+  expect(values["trackKey"]).toBe("elf|sp-artist|90000")
+})
+
+test("one recording carried on two releases has one track key", () => {
+  const here = track("t7", "Elf", 90_000, 3)
+  const there = track("t9", "Elf", 90_000, 11, 2)
+  expect(trackKeyFor(there)).toBe(trackKeyFor(here))
+})
+
+test("a track of another length has another track key", () => {
+  const here = track("t7", "Elf", 90_000, 3)
+  const there = track("t9", "Elf", 90_001, 3)
+  expect(trackKeyFor(there)).not.toBe(trackKeyFor(here))
+})
+
+test("a track key drops the case, the marks and everything not a letter or a digit", () => {
+  expect(trackKeyFor(track("t7", "Élan Vital (Live!)", 90_000, 3))).toBe(
+    "elanvitallive|sp-artist|90000"
+  )
+})
+
+test("a track key names the artists in one order however the provider gives them", () => {
+  const one = track("t7", "Elf", 90_000, 3)
+  const guest = { id: "sp-guest", name: "A Guest" }
+  const here = { ...one, artists: [...one.artists, guest] }
+  const there = { ...one, artists: [guest, ...one.artists] }
+  expect(trackKeyFor(there)).toBe(trackKeyFor(here))
+  expect(trackKeyFor(here)).toBe("elf|sp-artist,sp-guest|90000")
 })
 
 test("a track names the one provider it was read from, stamped with the day it was read", () => {
