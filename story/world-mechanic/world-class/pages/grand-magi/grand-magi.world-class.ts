@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const grandMagi = {
   id: "01a0657e-136d-72f4-9325-194f2f890372",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "grand-magi",
   title: "Grand Magi",
   world: "world/the-wandering-inn",

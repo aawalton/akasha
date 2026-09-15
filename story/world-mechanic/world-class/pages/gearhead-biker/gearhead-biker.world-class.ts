@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const gearheadBiker = {
   id: "01a0657e-01df-72bf-a233-9855de8082f9",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "gearhead-biker",
   title: "Gearhead Biker",
   world: "world/the-wandering-inn",

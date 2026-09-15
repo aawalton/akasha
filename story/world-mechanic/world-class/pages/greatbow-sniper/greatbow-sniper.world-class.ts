@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const greatbowSniper = {
   id: "01a0657e-136e-749a-b0cb-8af651da7273",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "greatbow-sniper",
   title: "Greatbow Sniper",
   world: "world/the-wandering-inn",

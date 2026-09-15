@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const grandmasterKnightOfHonorSFlame = {
   id: "01a0657e-01e4-7369-9959-c057dd91cf87",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "grandmaster-knight-of-honor-s-flame",
   title: "Grandmaster Knight of Honor’s Flame",
   world: "world/the-wandering-inn",

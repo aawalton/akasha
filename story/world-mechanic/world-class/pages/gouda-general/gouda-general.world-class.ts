@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const goudaGeneral = {
   id: "01a0657e-01e3-7c35-9303-14626837e614",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "gouda-general",
   title: "Gouda General",
   world: "world/the-wandering-inn",

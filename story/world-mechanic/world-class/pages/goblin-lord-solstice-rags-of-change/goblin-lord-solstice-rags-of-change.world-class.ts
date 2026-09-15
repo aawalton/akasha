@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const goblinLordSolsticeRagsOfChange = {
   id: "01a0657e-01e2-71b2-9852-9cad33a50557",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "goblin-lord-solstice-rags-of-change",
   title: "Goblin Lord (Solstice) – “Rags of Change”",
   world: "world/the-wandering-inn",

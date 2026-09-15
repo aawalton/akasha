@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const generalOfIzrilSLines = {
   id: "01a0657e-01e0-767e-8bfd-41a5bc41cdc6",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "general-of-izril-s-lines",
   title: "General of Izril’s Lines",
   world: "world/the-wandering-inn",

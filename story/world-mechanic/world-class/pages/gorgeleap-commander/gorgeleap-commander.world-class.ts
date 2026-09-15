@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const gorgeleapCommander = {
   id: "01a0657e-01e3-7185-b42b-d1565ecf0485",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "gorgeleap-commander",
   title: "Gorgeleap Commander",
   world: "world/the-wandering-inn",

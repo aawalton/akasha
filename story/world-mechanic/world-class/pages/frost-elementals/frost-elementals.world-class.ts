@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const frostElementals = {
   id: "01a0657e-01de-7c99-bd87-190e80c6f2e5",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "frost-elementals",
   title: "Frost Elementals",
   world: "world/the-wandering-inn",

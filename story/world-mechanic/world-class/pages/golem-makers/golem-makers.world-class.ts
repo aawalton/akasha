@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const golemMakers = {
   id: "01a0657e-01e3-7c3a-9379-c9ea2037e96d",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "golem-makers",
   title: "Golem Makers",
   world: "world/the-wandering-inn",

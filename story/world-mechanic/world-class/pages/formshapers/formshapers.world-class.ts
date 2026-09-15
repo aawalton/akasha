@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const formshapers = {
   id: "01a0657e-01de-7ef3-89fb-cee258265c86",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "formshapers",
   title: "Formshapers",
   world: "world/the-wandering-inn",
