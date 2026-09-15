@@ -381,5 +381,5 @@ const OPTIONS_TABLE: LamControlData[] = [
 ]
 
 export function registerSettings(): Control {
-  return registerPanel(LAM, STATE.Name, PANEL_DATA, OPTIONS_TABLE)
+  return registerPanel(LAM, `${STATE.Name}_LAM`, PANEL_DATA, OPTIONS_TABLE)
 }
