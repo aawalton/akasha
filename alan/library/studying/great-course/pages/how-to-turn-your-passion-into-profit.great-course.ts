@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToTurnYourPassionIntoProfit = {
   id: "019db533-f39e-76d2-8383-4a7640048c10",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-turn-your-passion-into-profit",
   title: "How to Turn Your Passion into Profit",
   status: "not-started",

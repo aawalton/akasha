@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howScienceShapesScienceFiction = {
   id: "019db533-f39f-731d-bc9d-9f10edd056ba",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-science-shapes-science-fiction",
   title: "How Science Shapes Science Fiction",
   status: "not-started",

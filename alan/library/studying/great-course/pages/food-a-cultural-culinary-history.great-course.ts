@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const foodACulturalCulinaryHistory = {
   id: "019db533-f3a0-75ca-941d-ea6475ccc240",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "food-a-cultural-culinary-history",
   title: "Food: A Cultural Culinary History",
   status: "completed",

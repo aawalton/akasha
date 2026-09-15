@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const godAgainstTheGodsTheHistoryOfMonotheismAndPolytheism = {
   id: "019db533-f39e-7ac3-810e-3881821f8c77",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "god-against-the-gods-the-history-of-monotheism-and-polytheism",
   title: "God against the Gods: The History of Monotheism and Polytheism",
   status: "not-started",

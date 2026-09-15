@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const epicEngineeringFailuresAndTheLessonsTheyTeach = {
   id: "019db533-f39f-70ea-b187-1a3cd9c74d82",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "epic-engineering-failures-and-the-lessons-they-teach",
   title: "Epic Engineering Failures and the Lessons They Teach",
   status: "in-progress",

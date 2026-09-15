@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatHeroesAndDiscoveriesOfAstronomy = {
   id: "019db533-f39e-7eb9-b104-9de8d6d4664f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-heroes-and-discoveries-of-astronomy",
   title: "Great Heroes and Discoveries of Astronomy",
   status: "not-started",

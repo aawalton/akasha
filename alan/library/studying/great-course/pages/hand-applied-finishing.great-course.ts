@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const handAppliedFinishing = {
   id: "019db533-f39e-75c2-97e2-2801de8e0653",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "hand-applied-finishing",
   title: "Hand-Applied Finishing",
   status: "completed",

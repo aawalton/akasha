@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToBecomeASuperstarStudent = {
   id: "019db533-f39e-75ab-9ea9-5e96d2cfec60",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-become-a-superstar-student",
   title: "How to Become a SuperStar Student",
   status: "not-started",

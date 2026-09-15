@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const fieldGuideToNorthAmericanWildlife = {
   id: "019db533-f39e-7ea3-9ff8-662c736ebb8c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "field-guide-to-north-american-wildlife",
   title: "Field Guide to North American Wildlife",
   status: "not-started",

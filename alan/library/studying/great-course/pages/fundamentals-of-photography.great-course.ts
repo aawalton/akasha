@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const fundamentalsOfPhotography = {
   id: "019db533-f39f-76a0-9570-95babf1c64f0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "fundamentals-of-photography",
   title: "Fundamentals of Photography",
   status: "completed",

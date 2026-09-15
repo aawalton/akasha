@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToReadAndUnderstandShakespeare = {
   id: "019db533-f39e-7898-99b1-218defca2398",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-read-and-understand-shakespeare",
   title: "How to Read and Understand Shakespeare",
   status: "not-started",

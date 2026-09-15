@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToBuildAThrivingWorkplaceALeaderSGuide = {
   id: "019db533-f39e-75b3-8d21-5a53b413e947",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-build-a-thriving-workplace-a-leader-s-guide",
   title: "How to Build a Thriving Workplace: A Leader’s Guide",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const experiencingHubbleExploringTheMilkyWay = {
   id: "019db533-f39f-7055-8155-37b86503e52d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "experiencing-hubble-exploring-the-milky-way",
   title: "Experiencing Hubble: Exploring the Milky Way",
   status: "not-started",

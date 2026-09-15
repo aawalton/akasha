@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howJesusBecameGod = {
   id: "019db533-f39f-7868-9f07-058dbefd6895",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-jesus-became-god",
   title: "How Jesus Became God",
   status: "completed",

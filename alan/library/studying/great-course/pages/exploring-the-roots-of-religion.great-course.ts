@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const exploringTheRootsOfReligion = {
   id: "019db533-f39e-7ae2-a5b7-090427a24a21",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "exploring-the-roots-of-religion",
   title: "Exploring the Roots of Religion",
   status: "not-started",

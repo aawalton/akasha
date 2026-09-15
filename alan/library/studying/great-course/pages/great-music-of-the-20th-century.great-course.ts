@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatMusicOfThe20thCentury = {
   id: "019db533-f3a0-737d-9ae6-b547a11065a9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-music-of-the-20th-century",
   title: "Great Music of the 20th Century",
   status: "not-started",

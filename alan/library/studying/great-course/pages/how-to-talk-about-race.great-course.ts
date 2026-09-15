@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToTalkAboutRace = {
   id: "019db533-f39e-75bb-b5b4-b1b920a33a55",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-talk-about-race",
   title: "How to Talk about Race",
   status: "not-started",

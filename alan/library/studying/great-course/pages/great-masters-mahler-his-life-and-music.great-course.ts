@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatMastersMahlerHisLifeAndMusic = {
   id: "019db533-f3a0-74c7-bd67-b77185095fd1",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-masters-mahler-his-life-and-music",
   title: "Great Masters: Mahler—His Life and Music",
   status: "not-started",

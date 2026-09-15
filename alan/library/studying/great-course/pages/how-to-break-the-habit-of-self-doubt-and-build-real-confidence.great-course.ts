@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToBreakTheHabitOfSelfDoubtAndBuildRealConfidence = {
   id: "019db533-f39e-770f-9114-29aec435f60e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-break-the-habit-of-self-doubt-and-build-real-confidence",
   title: "How to Break the Habit of Self-Doubt and Build Real Confidence",
   status: "not-started",

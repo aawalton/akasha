@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToSpeakSoThatPeopleWantToListen = {
   id: "019db533-f39e-74c2-9173-04ffb1c5ebee",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-speak-so-that-people-want-to-listen",
   title: "How to Speak So That People Want to Listen",
   status: "not-started",

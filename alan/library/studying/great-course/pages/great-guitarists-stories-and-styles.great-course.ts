@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatGuitaristsStoriesAndStyles = {
   id: "019db533-f3a0-7509-9cbe-284bda0a0cf4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-guitarists-stories-and-styles",
   title: "Great Guitarists' Stories and Styles",
   status: "completed",

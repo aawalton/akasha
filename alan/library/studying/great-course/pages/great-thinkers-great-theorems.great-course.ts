@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatThinkersGreatTheorems = {
   id: "019db533-f3a0-7a2d-98a9-9a2ca25241cc",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-thinkers-great-theorems",
   title: "Great Thinkers, Great Theorems",
   status: "not-started",

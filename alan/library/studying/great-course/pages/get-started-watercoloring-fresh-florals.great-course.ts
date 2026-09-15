@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const getStartedWatercoloringFreshFlorals = {
   id: "019db533-f39f-7696-aa4e-b624b6eea1c4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "get-started-watercoloring-fresh-florals",
   title: "Get Started Watercoloring: Fresh Florals",
   status: "completed",

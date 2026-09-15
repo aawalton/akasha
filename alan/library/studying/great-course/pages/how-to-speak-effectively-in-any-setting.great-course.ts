@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToSpeakEffectivelyInAnySetting = {
   id: "019db533-f39e-78be-8ef3-481fbae05683",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-speak-effectively-in-any-setting",
   title: "How to Speak Effectively in Any Setting",
   status: "not-started",

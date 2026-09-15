@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const everydayEngineeringUnderstandingTheMarvelsOfDailyLife = {
   id: "019db533-f39f-7035-b550-e7f4f20aa70f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "everyday-engineering-understanding-the-marvels-of-daily-life",
   title: "Everyday Engineering: Understanding the Marvels of Daily Life",
   status: "not-started",

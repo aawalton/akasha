@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatIdeasOfClassicalPhysics = {
   id: "019db533-f39f-729e-b9a0-3e7931cb716f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-ideas-of-classical-physics",
   title: "Great Ideas of Classical Physics",
   status: "not-started",

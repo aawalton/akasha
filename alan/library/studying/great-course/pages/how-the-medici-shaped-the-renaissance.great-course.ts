@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howTheMediciShapedTheRenaissance = {
   id: "019db533-f3a0-70a0-9551-0ed4c40efa55",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-the-medici-shaped-the-renaissance",
   title: "How the Medici Shaped the Renaissance",
   status: "completed",

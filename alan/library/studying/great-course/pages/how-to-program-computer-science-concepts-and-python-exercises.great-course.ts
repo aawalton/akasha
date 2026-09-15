@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToProgramComputerScienceConceptsAndPythonExercises = {
   id: "019db533-f39e-7332-a9cf-0e6de2faa839",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-program-computer-science-concepts-and-python-exercises",
   title: "How to Program: Computer Science Concepts and Python Exercises",
   status: "not-started",

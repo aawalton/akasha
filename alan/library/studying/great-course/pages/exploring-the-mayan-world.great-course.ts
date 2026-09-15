@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const exploringTheMayanWorld = {
   id: "019db533-f3a0-74ae-834f-0d3bd9b171a7",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "exploring-the-mayan-world",
   title: "Exploring the Mayan World",
   status: "completed",

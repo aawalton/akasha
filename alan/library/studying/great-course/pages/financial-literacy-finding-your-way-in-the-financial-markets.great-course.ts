@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const financialLiteracyFindingYourWayInTheFinancialMarkets = {
   id: "019db533-f3a0-79c3-89a0-7ab61a660bca",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "financial-literacy-finding-your-way-in-the-financial-markets",
   title: "Financial Literacy: Finding Your Way in the Financial Markets",
   status: "completed",

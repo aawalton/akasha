@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const illustratedNatureJournaling = {
   id: "019db533-f39f-762a-b341-7d91b125f919",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "illustrated-nature-journaling",
   title: "Illustrated Nature Journaling",
   status: "completed",

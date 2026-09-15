@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howTheGreatMigrationChangedAmerica = {
   id: "019db533-f39f-799e-8f80-748153edbb00",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-the-great-migration-changed-america",
   title: "How the Great Migration Changed America",
   status: "not-started",

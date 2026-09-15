@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howTheSpanishCivilWarBecameEuropeSBattlefield = {
   id: "019db533-f3a0-738a-bbe7-b834e2381733",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-the-spanish-civil-war-became-europe-s-battlefield",
   title: "How the Spanish Civil War Became Europe’s Battlefield",
   status: "not-started",

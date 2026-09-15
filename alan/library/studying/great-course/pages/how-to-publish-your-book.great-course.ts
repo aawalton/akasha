@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToPublishYourBook = {
   id: "019db533-f39e-782f-8634-8dc7e2bac458",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-publish-your-book",
   title: "How to Publish Your Book",
   status: "not-started",

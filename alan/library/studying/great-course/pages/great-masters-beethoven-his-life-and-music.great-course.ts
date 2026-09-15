@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatMastersBeethovenHisLifeAndMusic = {
   id: "019db533-f3a0-758a-adde-f3042a1da3d4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-masters-beethoven-his-life-and-music",
   title: "Great Masters: Beethoven—His Life and Music",
   status: "not-started",

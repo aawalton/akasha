@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToBoostYourPhysicalAndMentalEnergy = {
   id: "019db533-f3a0-796e-a0a6-f7920f073052",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-boost-your-physical-and-mental-energy",
   title: "How to Boost Your Physical and Mental Energy",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToDraw = {
   id: "019db533-f39f-79a8-a8af-99ca6bfe922c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-draw",
   title: "How to Draw",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howMusicAndMathematicsRelate = {
   id: "019db533-f3a0-79ed-897f-ec97a5429835",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-music-and-mathematics-relate",
   title: "How Music and Mathematics Relate",
   status: "not-started",

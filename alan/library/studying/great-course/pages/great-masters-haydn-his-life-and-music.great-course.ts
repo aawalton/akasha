@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatMastersHaydnHisLifeAndMusic = {
   id: "019db533-f3a0-75ea-8cc0-d2190aee4477",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-masters-haydn-his-life-and-music",
   title: "Great Masters: Haydn-His Life and Music",
   status: "not-started",

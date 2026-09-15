@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const giftableProjectsZipperedBagsAndPurseOrganizer = {
   id: "019db533-f39e-771f-abd8-cfe5d678fec8",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "giftable-projects-zippered-bags-and-purse-organizer",
   title: "Giftable Projects: Zippered Bags & Purse Organizer",
   status: "completed",

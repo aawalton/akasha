@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToSing = {
   id: "019db533-f3a0-7383-858d-4d0584951414",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-sing",
   title: "How to Sing",
   status: "not-started",

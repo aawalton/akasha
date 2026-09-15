@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const historySGreatMilitaryBlundersAndTheLessonsTheyTeach = {
   id: "019db533-f3a0-7140-81c3-68fc0f83f725",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "history-s-great-military-blunders-and-the-lessons-they-teach",
   title: "History's Great Military Blunders and the Lessons They Teach",
   status: "completed",

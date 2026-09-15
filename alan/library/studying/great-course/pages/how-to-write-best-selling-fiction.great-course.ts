@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToWriteBestSellingFiction = {
   id: "019db533-f39e-7890-be55-a3b4d0121c1e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-write-best-selling-fiction",
   title: "How to Write Best-Selling Fiction",
   status: "not-started",

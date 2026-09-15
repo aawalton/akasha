@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const foodScienceAndTheHumanBody = {
   id: "019db533-f3a0-792f-850b-2de7603300f9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "food-science-and-the-human-body",
   title: "Food, Science, and the Human Body",
   status: "completed",

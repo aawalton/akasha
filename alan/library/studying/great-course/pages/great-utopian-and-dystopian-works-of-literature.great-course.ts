@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatUtopianAndDystopianWorksOfLiterature = {
   id: "019db533-f39e-79d2-a55a-b9244333e2ff",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-utopian-and-dystopian-works-of-literature",
   title: "Great Utopian and Dystopian Works of Literature",
   status: "not-started",

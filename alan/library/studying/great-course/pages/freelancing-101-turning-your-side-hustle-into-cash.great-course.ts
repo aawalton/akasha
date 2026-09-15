@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const freelancing101TurningYourSideHustleIntoCash = {
   id: "019db533-f39e-7309-b963-438ba82e26f7",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "freelancing-101-turning-your-side-hustle-into-cash",
   title: "Freelancing 101: Turning your Side Hustle into Cash",
   status: "archived",

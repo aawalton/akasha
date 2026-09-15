@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatAmericanBestsellersTheBooksThatShapedAmerica = {
   id: "019db533-f39e-76f2-b50d-752622eac09f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-american-bestsellers-the-books-that-shaped-america",
   title: "Great American Bestsellers: The Books That Shaped America",
   status: "not-started",

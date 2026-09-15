@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const europeanHistoryAndEuropeanLives1715To1914 = {
   id: "019db533-f388-70fa-b391-127ff480d0f0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "european-history-and-european-lives-1715-to-1914",
   title: "European History and European Lives: 1715 to 1914",
   status: "not-started",

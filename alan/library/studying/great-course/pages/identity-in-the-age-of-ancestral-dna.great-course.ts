@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const identityInTheAgeOfAncestralDna = {
   id: "019db533-f39e-7d1b-8144-124b48ffb899",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "identity-in-the-age-of-ancestral-dna",
   title: "Identity in the Age of Ancestral DNA",
   status: "not-started",

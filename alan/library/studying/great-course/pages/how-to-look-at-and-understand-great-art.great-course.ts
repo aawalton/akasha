@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToLookAtAndUnderstandGreatArt = {
   id: "019db533-f39f-7615-96d0-87c98b82778f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-look-at-and-understand-great-art",
   title: "How to Look at and Understand Great Art",
   status: "completed",

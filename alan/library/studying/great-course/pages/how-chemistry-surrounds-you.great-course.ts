@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howChemistrySurroundsYou = {
   id: "01a06578-6719-7002-9d6d-364de7881031",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-chemistry-surrounds-you",
   title: "How Chemistry Surrounds You",
   status: "not-started",

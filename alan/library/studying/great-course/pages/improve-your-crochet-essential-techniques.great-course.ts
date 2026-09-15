@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const improveYourCrochetEssentialTechniques = {
   id: "019db533-f39e-7574-98b5-5fa49c386a45",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "improve-your-crochet-essential-techniques",
   title: "Improve Your Crochet: Essential Techniques",
   status: "completed",

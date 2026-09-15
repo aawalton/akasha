@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howHamiltonRevolutionizedTheBroadwayMusical = {
   id: "019db533-f3a0-7350-bd3e-dfcf0b7f536a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-hamilton-revolutionized-the-broadway-musical",
   title: "How Hamilton Revolutionized the Broadway Musical",
   status: "completed",

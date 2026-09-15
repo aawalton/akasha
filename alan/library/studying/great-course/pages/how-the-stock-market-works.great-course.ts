@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howTheStockMarketWorks = {
   id: "019db533-f39e-74b9-9da7-949da690979a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-the-stock-market-works",
   title: "How the Stock Market Works",
   status: "not-started",

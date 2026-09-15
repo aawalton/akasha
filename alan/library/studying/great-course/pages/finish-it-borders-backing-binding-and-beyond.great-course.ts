@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const finishItBordersBackingBindingAndBeyond = {
   id: "019db533-f39e-776c-9d28-d9a503cbb1f2",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "finish-it-borders-backing-binding-and-beyond",
   title: "Finish It! Borders, Backing, Binding & Beyond",
   status: "completed",

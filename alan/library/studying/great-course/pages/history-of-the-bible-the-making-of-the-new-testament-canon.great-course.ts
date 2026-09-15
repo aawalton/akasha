@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const historyOfTheBibleTheMakingOfTheNewTestamentCanon = {
   id: "019db533-f39e-7ad3-b09e-e72c2a9a73e4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "history-of-the-bible-the-making-of-the-new-testament-canon",
   title: "History of the Bible: The Making of the New Testament Canon",
   status: "not-started",

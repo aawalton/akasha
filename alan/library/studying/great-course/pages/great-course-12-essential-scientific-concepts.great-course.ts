@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatCourse12EssentialScientificConcepts = {
   id: "019db533-f39f-7484-9416-047aa74bca71",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-course-12-essential-scientific-concepts",
   title: "12 Essential Scientific Concepts",
   status: "completed",

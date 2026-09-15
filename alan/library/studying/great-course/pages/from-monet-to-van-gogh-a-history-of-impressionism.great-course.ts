@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const fromMonetToVanGoghAHistoryOfImpressionism = {
   id: "019db533-f39f-76cb-86c9-ffd76facc090",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "from-monet-to-van-gogh-a-history-of-impressionism",
   title: "From Monet to Van Gogh: A History of Impressionism",
   status: "completed",

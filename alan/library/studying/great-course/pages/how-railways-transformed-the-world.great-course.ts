@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howRailwaysTransformedTheWorld = {
   id: "019db533-f3a0-70e5-9a13-5c1e457b6950",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-railways-transformed-the-world",
   title: "How Railways Transformed the World",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const experiencingHubbleUnderstandingTheGreatestImagesOfTheUniverse = {
   id: "019db533-f39f-7040-a051-6cfa260e7464",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "experiencing-hubble-understanding-the-greatest-images-of-the-universe",
   title: "Experiencing Hubble: Understanding the Greatest Images of the Universe",
   status: "not-started",

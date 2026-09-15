@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const foundationsOfOrganicChemistry = {
   id: "019db533-f39f-702a-9b48-55480018d5ad",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "foundations-of-organic-chemistry",
   title: "Foundations of Organic Chemistry",
   status: "not-started",

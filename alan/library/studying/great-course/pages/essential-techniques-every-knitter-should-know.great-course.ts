@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const essentialTechniquesEveryKnitterShouldKnow = {
   id: "019db533-f39e-748b-96e4-8856679b7aa6",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "essential-techniques-every-knitter-should-know",
   title: "Essential Techniques Every Knitter Should Know",
   status: "completed",

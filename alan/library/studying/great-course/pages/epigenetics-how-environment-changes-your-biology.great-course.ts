@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const epigeneticsHowEnvironmentChangesYourBiology = {
   id: "019db533-f39f-733c-aa9d-289327b64213",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "epigenetics-how-environment-changes-your-biology",
   title: "Epigenetics: How Environment Changes Your Biology",
   status: "not-started",

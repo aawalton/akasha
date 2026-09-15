@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const geometryAnInteractiveJourneyToMastery = {
   id: "019db533-f3a0-79f8-aec6-91e76dbb988d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "geometry-an-interactive-journey-to-mastery",
   title: "Geometry: An Interactive Journey to Mastery",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const georgeOrwellASageForAllSeasons = {
   id: "019db533-f39e-79e7-adc9-76fa963166dc",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "george-orwell-a-sage-for-all-seasons",
   title: "George Orwell: A Sage for All Seasons",
   status: "completed",

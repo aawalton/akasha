@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howConversationWorks6LessonsForBetterCommunication = {
   id: "019db533-f39e-7881-a6aa-39f67066f9f9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-conversation-works-6-lessons-for-better-communication",
   title: "How Conversation Works: 6 Lessons for Better Communication",
   status: "completed",

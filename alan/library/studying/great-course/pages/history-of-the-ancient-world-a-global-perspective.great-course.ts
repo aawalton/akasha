@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const historyOfTheAncientWorldAGlobalPerspective = {
   id: "019db533-f3a0-7158-8130-796cd42bb93c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "history-of-the-ancient-world-a-global-perspective",
   title: "History of the Ancient World: A Global Perspective",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const freeMotionQuiltedGifts = {
   id: "019db533-f39e-7492-840c-90c2f970fcb4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "free-motion-quilted-gifts",
   title: "Free-Motion Quilted Gifts",
   status: "completed",

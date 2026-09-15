@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatRiversThatShapedHistory = {
   id: "01a06578-671b-7001-a73a-6297cd522904",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-rivers-that-shaped-history",
   title: "Great Rivers That Shaped History",
   status: "not-started",

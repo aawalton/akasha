@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howToDance = {
   id: "019db533-f3a0-73af-8287-d1e79e039460",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-to-dance",
   title: "How to Dance",
   status: "completed",

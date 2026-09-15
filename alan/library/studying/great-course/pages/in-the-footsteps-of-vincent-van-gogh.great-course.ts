@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const inTheFootstepsOfVincentVanGogh = {
   id: "019db533-f39f-752c-9e96-6aa33959def4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "in-the-footsteps-of-vincent-van-gogh",
   title: "In the Footsteps of Vincent van Gogh",
   status: "completed",

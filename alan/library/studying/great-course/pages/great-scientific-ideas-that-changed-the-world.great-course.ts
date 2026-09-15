@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatScientificIdeasThatChangedTheWorld = {
   id: "019db533-f39e-7e59-8e07-c7db21d0f507",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-scientific-ideas-that-changed-the-world",
   title: "Great Scientific Ideas That Changed the World",
   status: "not-started",

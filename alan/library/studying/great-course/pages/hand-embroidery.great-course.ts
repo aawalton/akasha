@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const handEmbroidery = {
   id: "019db533-f39e-7746-b5e4-30a18a126c38",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "hand-embroidery",
   title: "Hand Embroidery",
   status: "completed",

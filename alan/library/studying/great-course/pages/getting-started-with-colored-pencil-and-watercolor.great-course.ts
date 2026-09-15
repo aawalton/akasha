@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const gettingStartedWithColoredPencilAndWatercolor = {
   id: "019db533-f39f-7620-9dbb-8b8c24faadbc",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "getting-started-with-colored-pencil-and-watercolor",
   title: "Getting Started With Colored Pencil & Watercolor",
   status: "completed",

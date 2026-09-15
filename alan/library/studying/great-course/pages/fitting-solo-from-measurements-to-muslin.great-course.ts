@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const fittingSoloFromMeasurementsToMuslin = {
   id: "019db533-f39e-74ea-9348-5b2253beefc2",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "fitting-solo-from-measurements-to-muslin",
   title: "Fitting Solo: From Measurements to Muslin",
   status: "completed",

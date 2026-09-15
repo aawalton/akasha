@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatWorldReligionsChristianity = {
   id: "019db533-f39e-7ce3-a3a6-90867510e34e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-world-religions-christianity",
   title: "Great World Religions: Christianity",
   status: "not-started",

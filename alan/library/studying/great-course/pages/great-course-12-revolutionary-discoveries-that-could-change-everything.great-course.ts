@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatCourse12RevolutionaryDiscoveriesThatCouldChangeEverything = {
   id: "019db533-f39f-7444-99b0-6ee542c5680e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-course-12-revolutionary-discoveries-that-could-change-everything",
   title: "12 Revolutionary Discoveries That Could Change Everything",
   status: "completed",

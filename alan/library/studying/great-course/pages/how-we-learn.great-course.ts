@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howWeLearn = {
   id: "019db533-f39e-7e4e-96cb-f3342ab10cc6",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-we-learn",
   title: "How We Learn",
   status: "not-started",

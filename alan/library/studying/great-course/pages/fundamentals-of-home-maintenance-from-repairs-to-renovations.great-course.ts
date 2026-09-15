@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const fundamentalsOfHomeMaintenanceFromRepairsToRenovations = {
   id: "019db533-f39e-76f9-a8cc-952aacb64273",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "fundamentals-of-home-maintenance-from-repairs-to-renovations",
   title: "Fundamentals of Home Maintenance: From Repairs to Renovations",
   status: "completed",

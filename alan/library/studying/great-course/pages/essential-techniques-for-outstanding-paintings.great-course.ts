@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const essentialTechniquesForOutstandingPaintings = {
   id: "019db533-f398-7412-828a-b685e54bd79e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "essential-techniques-for-outstanding-paintings",
   title: "Essential Techniques for Outstanding Paintings",
   status: "completed",

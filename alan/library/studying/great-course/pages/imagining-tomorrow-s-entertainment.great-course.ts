@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const imaginingTomorrowSEntertainment = {
   id: "019db533-f39e-7593-a7a3-b2d5ce615b35",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "imagining-tomorrow-s-entertainment",
   title: "Imagining Tomorrow’s Entertainment",
   status: "not-started",

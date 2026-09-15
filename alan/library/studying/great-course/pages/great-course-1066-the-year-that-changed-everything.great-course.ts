@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greatCourse1066TheYearThatChangedEverything = {
   id: "019db533-f39f-7ab3-aef0-c862f7e2571f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "great-course-1066-the-year-that-changed-everything",
   title: "1066: The Year That Changed Everything",
   status: "completed",

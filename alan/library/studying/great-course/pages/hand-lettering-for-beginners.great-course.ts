@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const handLetteringForBeginners = {
   id: "019db533-f39f-76ab-86cb-49e982df610f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "hand-lettering-for-beginners",
   title: "Hand-Lettering for Beginners",
   status: "completed",

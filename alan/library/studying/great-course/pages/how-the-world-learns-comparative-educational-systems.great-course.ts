@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const howTheWorldLearnsComparativeEducationalSystems = {
   id: "019db533-f39e-7e63-9a06-bb06df2978ec",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "how-the-world-learns-comparative-educational-systems",
   title: "How the World Learns: Comparative Educational Systems",
   status: "not-started",

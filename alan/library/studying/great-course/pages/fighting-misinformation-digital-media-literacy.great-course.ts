@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const fightingMisinformationDigitalMediaLiteracy = {
   id: "019db533-f39e-749a-a215-a85b34ea485f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "fighting-misinformation-digital-media-literacy",
   title: "Fighting Misinformation: Digital Media Literacy",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const gnosticismFromNagHammadiToTheGospelOfJudas = {
   id: "019db533-f39f-7e97-b6e1-8cbc18750aaf",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "gnosticism-from-nag-hammadi-to-the-gospel-of-judas",
   title: "Gnosticism: From Nag Hammadi to the Gospel of Judas",
   status: "completed",

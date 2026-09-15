@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const greeceRomeAndTheBirthOfWesternPhilosophy = {
   id: "019db533-f398-73a1-be3a-11abd5a61343",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "greece-rome-and-the-birth-of-western-philosophy",
   title: "Greece, Rome, and the Birth of Western Philosophy",
   status: "not-started",

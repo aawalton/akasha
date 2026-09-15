@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const fromYaoToMao5000YearsOfChineseHistory = {
   id: "019db533-f388-70a0-81c0-da986cc3e9b8",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "from-yao-to-mao-5000-years-of-chinese-history",
   title: "From Yao to Mao: 5000 Years of Chinese History",
   status: "not-started",

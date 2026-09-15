@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const improveYourPaintingsLuminousWatercolorMixing = {
   id: "019db533-f39f-7561-ad29-232a5f53ce88",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "improve-your-paintings-luminous-watercolor-mixing",
   title: "Improve Your Paintings: Luminous Watercolor Mixing",
   status: "completed",
