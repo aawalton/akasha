@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const titus1 = {
   id: "01a06804-11b2-7001-90dd-13ee487f6731",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "titus-1",
   title: "Titus 1",
   book: "Titus",

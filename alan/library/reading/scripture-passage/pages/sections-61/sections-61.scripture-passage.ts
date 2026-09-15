@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const sections61 = {
   id: "01a06804-11b1-7098-b02f-a04655afa01a",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "sections-61",
   title: "Sections 61",
   book: "Sections",

@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const zechariah12 = {
   id: "01a06804-11b2-7007-943e-70ad7384d3ba",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "zechariah-12",
   title: "Zechariah 12",
   book: "Zechariah",
