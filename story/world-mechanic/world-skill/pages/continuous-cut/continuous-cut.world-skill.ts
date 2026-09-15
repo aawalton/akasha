@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const continuousCut = {
   id: "01a06575-97fd-7e4e-9eb0-836a34646276",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "continuous-cut",
   title: "Continuous Cut",
   world: "world/the-wandering-inn",

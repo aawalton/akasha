@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bugfriend = {
   id: "01a06575-97f9-72c9-8b66-071a451e6aa5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bugfriend",
   title: "Bugfriend",
   world: "world/the-wandering-inn",

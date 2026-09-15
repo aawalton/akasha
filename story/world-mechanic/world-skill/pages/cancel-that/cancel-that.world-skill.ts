@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const cancelThat = {
   id: "01a06575-97fa-7dcb-b88a-3adef4a41579",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "cancel-that",
   title: "Cancel That",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bulwarkShield = {
   id: "01a06575-97f9-753e-b1f0-57ff14078e67",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bulwark-shield",
   title: "Bulwark Shield",
   world: "world/the-wandering-inn",

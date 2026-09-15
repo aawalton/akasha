@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const canTBeLateForWork = {
   id: "01a06575-97fa-7483-a1d3-c2047a8a0a75",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "can-t-be-late-for-work",
   title: "Can’t Be Late for Work",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const closeTheContractUnreasonableDemands = {
   id: "01a06575-97fb-7dd7-b0b1-13688534ed43",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "close-the-contract-unreasonable-demands",
   title: "Close the Contract: Unreasonable Demands",
   world: "world/the-wandering-inn",

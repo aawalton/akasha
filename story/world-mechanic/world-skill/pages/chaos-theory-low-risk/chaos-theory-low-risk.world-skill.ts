@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const chaosTheoryLowRisk = {
   id: "01a06575-97fa-7179-ade7-250718637596",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "chaos-theory-low-risk",
   title: "Chaos Theory (Low-Risk)",
   world: "world/the-wandering-inn",

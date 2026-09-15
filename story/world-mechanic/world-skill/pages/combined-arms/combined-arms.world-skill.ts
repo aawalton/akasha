@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const combinedArms = {
   id: "01a06575-97fc-76b8-b690-7f2c9faddff0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "combined-arms",
   title: "Combined Arms",
   world: "world/the-wandering-inn",

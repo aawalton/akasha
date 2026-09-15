@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const byAppointmentOnly = {
   id: "01a06575-97f9-7c5d-bfb9-50b148f80bca",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "by-appointment-only",
   title: "By Appointment Only",
   world: "world/the-wandering-inn",

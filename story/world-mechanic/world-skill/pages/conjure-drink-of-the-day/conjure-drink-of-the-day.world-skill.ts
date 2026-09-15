@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const conjureDrinkOfTheDay = {
   id: "01a06575-97fc-7fce-90a6-3ee05b285236",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "conjure-drink-of-the-day",
   title: "Conjure: Drink of the Day",
   world: "world/the-wandering-inn",

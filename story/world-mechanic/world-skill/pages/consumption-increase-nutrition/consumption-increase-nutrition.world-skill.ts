@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const consumptionIncreaseNutrition = {
   id: "01a06575-97fd-79cb-866c-145797459dff",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "consumption-increase-nutrition",
   title: "Consumption: Increase Nutrition",
   world: "world/the-wandering-inn",

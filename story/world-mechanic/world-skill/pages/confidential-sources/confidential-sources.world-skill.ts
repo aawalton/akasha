@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const confidentialSources = {
   id: "01a06575-97fc-71c2-82fd-581800ec5836",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "confidential-sources",
   title: "Confidential Sources",
   world: "world/the-wandering-inn",

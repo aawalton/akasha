@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const continuousRolling = {
   id: "01a06575-97fd-7ea8-9fef-f2353a7be47e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "continuous-rolling",
   title: "Continuous Rolling",
   world: "world/the-wandering-inn",

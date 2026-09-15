@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const combinationAttackLightningTempest = {
   id: "01a06575-97fb-75df-a0a6-d8bd3fa50c9c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "combination-attack-lightning-tempest",
   title: "Combination Attack: Lightning Tempest",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const catchYourself = {
   id: "01a06575-97fa-71a9-92ae-c64382bb1f99",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "catch-yourself",
   title: "Catch Yourself",
   world: "world/the-wandering-inn",

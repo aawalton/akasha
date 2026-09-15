@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const closeCounter = {
   id: "01a06575-97fb-78f0-9098-9bc902896f7f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "close-counter",
   title: "Close Counter",
   world: "world/the-wandering-inn",

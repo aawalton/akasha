@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const companyFreeDodge = {
   id: "01a06575-97fc-7cb8-9357-626d901fd5a0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "company-free-dodge",
   title: "Company: Free Dodge",
   world: "world/the-wandering-inn",

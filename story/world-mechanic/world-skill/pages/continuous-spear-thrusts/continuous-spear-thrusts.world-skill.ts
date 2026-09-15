@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const continuousSpearThrusts = {
   id: "01a06575-97fd-70c5-819f-1053dfc3cc14",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "continuous-spear-thrusts",
   title: "Continuous Spear Thrusts",
   world: "world/the-wandering-inn",

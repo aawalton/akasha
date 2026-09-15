@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const combinedSkillWrathOfTheRighteous = {
   id: "01a06575-97fc-7487-9708-00a8019b5e23",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "combined-skill-wrath-of-the-righteous",
   title: "Combined Skill: Wrath of the Righteous",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const byTheThrone = {
   id: "01a06575-97f9-7283-94b9-69147d742ceb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "by-the-throne",
   title: "By the Throne",
   world: "world/the-wandering-inn",

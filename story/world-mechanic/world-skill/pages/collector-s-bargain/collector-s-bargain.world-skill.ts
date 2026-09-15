@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const collectorSBargain = {
   id: "01a06575-97fb-7b2a-8c29-2a572d0fa8a8",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "collector-s-bargain",
   title: "Collector’s Bargain",
   world: "world/the-wandering-inn",

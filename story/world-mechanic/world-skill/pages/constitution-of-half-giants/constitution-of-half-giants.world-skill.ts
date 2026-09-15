@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const constitutionOfHalfGiants = {
   id: "01a06575-97fd-79fc-9d1d-be94769c02fb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "constitution-of-half-giants",
   title: "Constitution of Half-Giants",
   world: "world/the-wandering-inn",

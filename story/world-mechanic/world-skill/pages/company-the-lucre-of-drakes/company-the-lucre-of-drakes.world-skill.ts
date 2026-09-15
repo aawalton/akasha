@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const companyTheLucreOfDrakes = {
   id: "01a06575-97fc-7ff3-b99e-354a1ce3d37d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "company-the-lucre-of-drakes",
   title: "Company: The Lucre of Drakes",
   world: "world/the-wandering-inn",

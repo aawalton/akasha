@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const compartmentsOfHolding = {
   id: "01a06575-97fc-7d9f-81bc-789a7e81f5d5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "compartments-of-holding",
   title: "Compartments of Holding",
   world: "world/the-wandering-inn",

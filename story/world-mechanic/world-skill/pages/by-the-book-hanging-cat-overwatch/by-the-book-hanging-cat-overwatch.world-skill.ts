@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const byTheBookHangingCatOverwatch = {
   id: "01a06575-97f9-7645-aace-bf57c66ab91a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "by-the-book-hanging-cat-overwatch",
   title: "By the Book: Hanging Cat Overwatch",
   world: "world/the-wandering-inn",

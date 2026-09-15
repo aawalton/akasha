@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const constantFoeUndead = {
   id: "01a06575-97fd-75f6-9783-287a7cff1597",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "constant-foe-undead",
   title: "Constant Foe (Undead)",
   world: "world/the-wandering-inn",

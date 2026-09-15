@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bullSSlap = {
   id: "01a06575-97f9-7baa-83a8-8b58019d270f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bull-s-slap",
   title: "Bull’s Slap",
   world: "world/the-wandering-inn",

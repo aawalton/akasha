@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const combinationSkillTheWebCloses = {
   id: "01a06575-97fb-7ca4-95de-c7642e047798",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "combination-skill-the-web-closes",
   title: "Combination Skill: The Web Closes",
   world: "world/the-wandering-inn",

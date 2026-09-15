@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const coneOfSound = {
   id: "01a06575-97fc-7951-ab25-077a8920d972",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "cone-of-sound",
   title: "Cone of Sound",
   world: "world/the-wandering-inn",

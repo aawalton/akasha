@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const burstOfSpeed = {
   id: "01a06575-97f9-759d-9acc-665a5af524e2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "burst-of-speed",
   title: "Burst of Speed",
   world: "world/the-wandering-inn",

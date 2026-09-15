@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const charmSmile = {
   id: "01a06575-97fa-7ad5-bc00-1ec0fe8c33ec",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "charm-smile",
   title: "Charm Smile",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const checkVibes = {
   id: "01a06575-97fb-794a-b12b-23b017300a1c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "check-vibes",
   title: "Check Vibes",
   world: "world/the-wandering-inn",

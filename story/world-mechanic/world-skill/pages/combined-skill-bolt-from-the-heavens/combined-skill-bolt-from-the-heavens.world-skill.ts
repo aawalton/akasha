@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const combinedSkillBoltFromTheHeavens = {
   id: "01a06575-97fc-7616-a618-d21499b6bdaf",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "combined-skill-bolt-from-the-heavens",
   title: "Combined Skill: Bolt from the Heavens",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const cloudburstTheft = {
   id: "01a06575-97fb-7da7-bb45-18db6fe2dc3f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "cloudburst-theft",
   title: "Cloudburst Theft",
   world: "world/the-wandering-inn",

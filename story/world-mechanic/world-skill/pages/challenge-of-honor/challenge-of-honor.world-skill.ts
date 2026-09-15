@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const challengeOfHonor = {
   id: "01a06575-97fa-77d3-8fea-7cc362e533a4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "challenge-of-honor",
   title: "Challenge of Honor",
   world: "world/the-wandering-inn",

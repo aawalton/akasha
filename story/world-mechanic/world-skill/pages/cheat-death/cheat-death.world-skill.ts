@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const cheatDeath = {
   id: "01a06575-97fb-7228-a63e-7cea1a9aa601",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "cheat-death",
   title: "Cheat Death",
   world: "world/the-wandering-inn",

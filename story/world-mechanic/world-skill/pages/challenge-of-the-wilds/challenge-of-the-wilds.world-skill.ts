@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const challengeOfTheWilds = {
   id: "01a06575-97fa-7c21-8e5c-6ef0d05534a2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "challenge-of-the-wilds",
   title: "Challenge of the Wilds",
   world: "world/the-wandering-inn",
