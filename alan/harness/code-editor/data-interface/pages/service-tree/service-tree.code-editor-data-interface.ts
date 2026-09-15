@@ -2,7 +2,7 @@ import type { CodeEditorDataInterface } from "akasha/alan/harness/code-editor/da
 
 export const serviceTree = {
   id: "01a09baf-7e2d-7f8c-8a5e-ccb539d159b6",
-  type: "code-editor-data-interface",
+  type: "page-type/code-editor-data-interface",
   slug: "service-tree",
   definition: "the rows the services panel draws",
   d: "ts",

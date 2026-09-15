@@ -2,7 +2,7 @@ import type { CodeEditorDataInterface } from "akasha/alan/harness/code-editor/da
 
 export const terminalTabs = {
   id: "01a07235-8d0b-7801-8413-863a7895f0da",
-  type: "code-editor-data-interface",
+  type: "page-type/code-editor-data-interface",
   slug: "terminal-tabs",
   definition: "the name and color each terminal tab draws",
   d: "ts",
