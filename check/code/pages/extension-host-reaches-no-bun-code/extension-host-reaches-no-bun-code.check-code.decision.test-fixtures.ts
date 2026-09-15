@@ -76,6 +76,7 @@ function linkedFiled(root: string): undefined {
     },
   ])
   listedFiled(root, TEXT_PROPERTY, LINKED, [{ path: PROPERTY_AT, id: PROPERTY_ID }])
+  pageFiled(root, PROPERTY_ID, PROPERTY_AT)
   relationFiled(root, PROPERTY_ID, PAGE_PROPERTY, DOMAIN_TYPE_ID, [{ path: DOMAIN_TYPE_AT }])
   pageFiled(root, DOMAIN_TYPE_ID, DOMAIN_TYPE_AT)
   relationFiled(root, DOMAIN_TYPE_ID, EXTENDS_TYPE, PACKAGE_TYPE_ID, [{ path: PACKAGE_TYPE_AT }])
