@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const highlandSentinel = {
   id: "019e668e-9a48-70e0-8b8e-717833a7c680",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "highland-sentinel",
   title: "Highland Sentinel",
   key: "highland-sentinel",

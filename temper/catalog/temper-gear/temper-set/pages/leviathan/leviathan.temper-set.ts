@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const leviathan = {
   id: "019e66e6-a09e-7e77-a4ee-eebf4398b2fa",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "leviathan",
   title: "Leviathan",
   key: "leviathan",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const masterArchitect = {
   id: "019e66ec-7bb5-7eb1-a3f2-47c16c0a6e5c",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "master-architect",
   title: "Master Architect",
   key: "master-architect",

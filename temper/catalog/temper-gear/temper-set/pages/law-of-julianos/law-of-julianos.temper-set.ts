@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const lawOfJulianos = {
   id: "019e668e-9a4e-7fd9-8979-f5c3d2d55924",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "law-of-julianos",
   title: "Law of Julianos",
   key: "law-of-julianos",

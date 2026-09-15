@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const imperialPhysique = {
   id: "019e66ec-7785-70ad-bd7a-7bd02f6eba38",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "imperial-physique",
   title: "Imperial Physique",
   key: "imperial-physique",

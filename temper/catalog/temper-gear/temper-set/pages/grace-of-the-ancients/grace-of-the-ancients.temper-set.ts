@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const graceOfTheAncients = {
   id: "019e66ec-7751-7c04-9a76-1d1ab336223c",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "grace-of-the-ancients",
   title: "Grace of the Ancients",
   key: "grace-of-the-ancients",

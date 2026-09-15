@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const gryphonsFerocity = {
   id: "019e66e7-6a64-7000-aaf3-8090cee05cb1",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "gryphons-ferocity",
   title: "Gryphon's Ferocity",
   key: "gryphons-ferocity",

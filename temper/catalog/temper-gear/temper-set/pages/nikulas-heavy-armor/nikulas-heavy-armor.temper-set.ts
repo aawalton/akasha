@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const nikulasHeavyArmor = {
   id: "019e66e6-a0a7-7a85-989a-f4784908d789",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "nikulas-heavy-armor",
   title: "Nikulas' Heavy Armor",
   key: "nikulas-heavy-armor",

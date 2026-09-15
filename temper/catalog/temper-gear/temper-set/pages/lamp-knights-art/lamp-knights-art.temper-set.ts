@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const lampKnightsArt = {
   id: "019e66e7-6a0e-71af-9fbd-4450e10253dd",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "lamp-knights-art",
   title: "Lamp Knight's Art",
   key: "lamp-knights-art",

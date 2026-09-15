@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const monomythReforged = {
   id: "019e66e7-6a12-7f86-a40a-91390da3f7e2",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "monomyth-reforged",
   title: "Monomyth Reforged",
   key: "monomyth-reforged",

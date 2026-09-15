@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const immolatorCharr = {
   id: "019e6484-5ffc-7f81-a83e-d0c3f81ac2bd",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "immolator-charr",
   title: "Immolator Charr",
   key: "immolator-charr",

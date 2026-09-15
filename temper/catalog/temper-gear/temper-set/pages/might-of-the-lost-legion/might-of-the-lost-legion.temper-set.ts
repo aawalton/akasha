@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const mightOfTheLostLegion = {
   id: "019e668e-9a52-7d49-8c93-aa8005b594f5",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "might-of-the-lost-legion",
   title: "Might of the Lost Legion",
   key: "might-of-the-lost-legion",

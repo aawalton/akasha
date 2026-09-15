@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const peaceAndSerenity = {
   id: "019e66ec-7be1-7705-a3e9-95204cfb9811",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "peace-and-serenity",
   title: "Peace and Serenity",
   key: "peace-and-serenity",

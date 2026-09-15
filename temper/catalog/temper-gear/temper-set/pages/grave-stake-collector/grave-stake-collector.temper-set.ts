@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const graveStakeCollector = {
   id: "019e668e-9a46-75a1-9ad0-14b98eb8bd04",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "grave-stake-collector",
   title: "Grave-Stake Collector",
   key: "grave-stake-collector",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const icyConjurer = {
   id: "019e66e6-a092-7187-b595-ee33333c2071",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "icy-conjurer",
   title: "Icy Conjurer",
   key: "icy-conjurer",

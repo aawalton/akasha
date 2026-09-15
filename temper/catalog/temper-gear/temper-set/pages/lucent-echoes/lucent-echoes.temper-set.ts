@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const lucentEchoes = {
   id: "019e66ec-7b89-755e-a65f-b777f6015ff7",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "lucent-echoes",
   title: "Lucent Echoes",
   key: "lucent-echoes",

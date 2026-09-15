@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedMoraScribesThesis = {
   id: "019e66ec-7cd5-7220-83c1-7a230b46cda5",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-mora-scribes-thesis",
   title: "Perfected Mora Scribe's Thesis",
   key: "perfected-mora-scribes-thesis",

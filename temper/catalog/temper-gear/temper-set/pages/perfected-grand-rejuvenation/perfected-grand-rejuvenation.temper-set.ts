@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedGrandRejuvenation = {
   id: "019e6484-5fbf-7c7d-b856-557791b5018a",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-grand-rejuvenation",
   title: "Perfected Grand Rejuvenation",
   key: "perfected-grand-rejuvenation",

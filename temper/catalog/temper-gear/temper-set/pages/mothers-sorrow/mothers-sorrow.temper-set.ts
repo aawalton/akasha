@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const mothersSorrow = {
   id: "019e66e7-6a72-786b-bfb9-86258a0e4cc4",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "mothers-sorrow",
   title: "Mother's Sorrow",
   key: "mothers-sorrow",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const oblivionsEdge = {
   id: "019e66e6-a0aa-7f0b-a040-70cd77ca65f5",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "oblivions-edge",
   title: "Oblivion's Edge",
   key: "oblivions-edge",

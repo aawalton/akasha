@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedClawOfYolnahkriin = {
   id: "019e66ec-7c46-7d1c-8d0a-fac1c71bdd8e",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-claw-of-yolnahkriin",
   title: "Perfected Claw of Yolnahkriin",
   key: "perfected-claw-of-yolnahkriin",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const infernalGuardian = {
   id: "019e6484-5ffd-7eba-99d5-fbe17911d79c",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "infernal-guardian",
   title: "Infernal Guardian",
   key: "infernal-guardian",

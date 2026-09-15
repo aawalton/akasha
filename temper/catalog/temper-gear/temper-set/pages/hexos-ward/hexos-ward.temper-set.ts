@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const hexosWard = {
   id: "019e66e7-6a66-76ca-9db6-a943c71c9f29",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "hexos-ward",
   title: "Hexos' Ward",
   key: "hexos-ward",

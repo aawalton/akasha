@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const meridiasBlessedArmor = {
   id: "019e66e7-6a71-7586-ac43-819d6cc8b095",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "meridias-blessed-armor",
   title: "Meridia's Blessed Armor",
   key: "meridias-blessed-armor",

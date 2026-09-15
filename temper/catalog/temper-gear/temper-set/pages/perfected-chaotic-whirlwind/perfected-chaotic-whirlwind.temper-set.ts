@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedChaoticWhirlwind = {
   id: "019e66ec-7c38-7b64-bca8-064c6c38377e",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-chaotic-whirlwind",
   title: "Perfected Chaotic Whirlwind",
   key: "perfected-chaotic-whirlwind",

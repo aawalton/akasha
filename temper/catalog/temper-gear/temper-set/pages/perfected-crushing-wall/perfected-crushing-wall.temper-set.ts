@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedCrushingWall = {
   id: "019e6484-5fba-7b2f-9cf2-8108665bbf47",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-crushing-wall",
   title: "Perfected Crushing Wall",
   key: "perfected-crushing-wall",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const hideOfTheWerewolf = {
   id: "019e66e7-6a68-7d59-a4bb-0216587b23f3",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "hide-of-the-werewolf",
   title: "Hide of the Werewolf",
   key: "hide-of-the-werewolf",

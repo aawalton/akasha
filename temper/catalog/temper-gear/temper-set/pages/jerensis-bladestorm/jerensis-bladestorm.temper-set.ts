@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const jerensisBladestorm = {
   id: "019e66e7-6a0b-79cf-bb5f-696b875f5b50",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "jerensis-bladestorm",
   title: "Jerensi's Bladestorm",
   key: "jerensis-bladestorm",

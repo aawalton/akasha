@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const nibenayBayBattlereeve = {
   id: "019e66ec-7835-7f2c-9d40-9a59816a0607",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "nibenay-bay-battlereeve",
   title: "Nibenay Bay Battlereeve",
   key: "nibenay-bay-battlereeve",

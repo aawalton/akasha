@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const judgmentOfAkatosh = {
   id: "019e66ec-77b7-747c-9f0c-cdd5e4c26953",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "judgment-of-akatosh",
   title: "Judgment of Akatosh",
   key: "judgment-of-akatosh",

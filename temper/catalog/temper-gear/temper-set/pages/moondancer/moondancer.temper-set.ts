@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const moondancer = {
   id: "019e66ec-7bc4-79ba-ba61-1550a3721a0f",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "moondancer",
   title: "Moondancer",
   key: "moondancer",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const graveInevitability = {
   id: "019e66e6-a086-7470-a8c2-382fb76395f1",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "grave-inevitability",
   title: "Grave Inevitability",
   key: "grave-inevitability",

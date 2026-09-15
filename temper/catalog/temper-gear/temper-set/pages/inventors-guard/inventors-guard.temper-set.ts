@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const inventorsGuard = {
   id: "019e66ec-7b6b-7879-9f1e-ca815f5825b4",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "inventors-guard",
   title: "Inventor's Guard",
   key: "inventors-guard",

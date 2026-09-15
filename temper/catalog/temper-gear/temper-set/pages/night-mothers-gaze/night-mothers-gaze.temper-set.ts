@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const nightMothersGaze = {
   id: "019e668e-9a56-73f1-8d14-b7e0a72b37db",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "night-mothers-gaze",
   title: "Night Mother's Gaze",
   key: "night-mothers-gaze",

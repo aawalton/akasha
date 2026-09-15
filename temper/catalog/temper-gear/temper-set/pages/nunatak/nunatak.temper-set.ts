@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const nunatak = {
   id: "019e6484-600e-71a5-b264-37fe9c87833a",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "nunatak",
   title: "Nunatak",
   key: "nunatak",

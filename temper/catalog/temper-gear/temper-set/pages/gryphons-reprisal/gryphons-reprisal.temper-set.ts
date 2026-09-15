@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const gryphonsReprisal = {
   id: "019e66e6-a088-76f6-8a79-3a07e066ddac",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "gryphons-reprisal",
   title: "Gryphon's Reprisal",
   key: "gryphons-reprisal",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const noblesConquest = {
   id: "019e668e-9a58-715d-b2f8-c8a5e930f58d",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "nobles-conquest",
   title: "Noble's Conquest",
   key: "nobles-conquest",

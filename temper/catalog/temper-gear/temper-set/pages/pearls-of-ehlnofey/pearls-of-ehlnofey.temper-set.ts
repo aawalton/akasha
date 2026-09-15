@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const pearlsOfEhlnofey = {
   id: "019e6484-6033-7903-b357-f7c7ebebb72a",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "pearls-of-ehlnofey",
   title: "Pearls of Ehlnofey",
   key: "pearls-of-ehlnofey",

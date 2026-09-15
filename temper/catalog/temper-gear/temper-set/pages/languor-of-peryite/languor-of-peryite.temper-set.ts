@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const languorOfPeryite = {
   id: "019e66ec-77dd-7317-bc0f-c0dca97e7171",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "languor-of-peryite",
   title: "Languor of Peryite",
   key: "languor-of-peryite",

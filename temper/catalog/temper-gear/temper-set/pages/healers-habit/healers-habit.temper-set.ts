@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const healersHabit = {
   id: "019e6484-5fb3-787d-a6b4-5f7260be75df",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "healers-habit",
   title: "Healer's Habit",
   key: "healers-habit",

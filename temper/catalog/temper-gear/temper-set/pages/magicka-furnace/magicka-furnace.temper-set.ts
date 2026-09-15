@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const magickaFurnace = {
   id: "019e66e6-a0a1-70bc-9884-1bdf3e1ab117",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "magicka-furnace",
   title: "Magicka Furnace",
   key: "magicka-furnace",

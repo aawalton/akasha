@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedDestructiveImpact = {
   id: "019e6484-5fbb-79a8-a260-9245e3b56d97",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-destructive-impact",
   title: "Perfected Destructive Impact",
   key: "perfected-destructive-impact",

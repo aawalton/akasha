@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const leechingPlate = {
   id: "019e66e6-a09d-7d91-a011-3944309adfd6",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "leeching-plate",
   title: "Leeching Plate",
   key: "leeching-plate",

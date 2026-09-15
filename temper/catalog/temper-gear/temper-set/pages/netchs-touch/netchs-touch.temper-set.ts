@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const netchsTouch = {
   id: "019e66e6-a0a6-7970-a904-f20aec092c31",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "netchs-touch",
   title: "Netch's Touch",
   key: "netchs-touch",

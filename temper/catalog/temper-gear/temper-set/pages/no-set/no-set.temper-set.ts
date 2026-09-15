@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const noSet = {
   id: "019e6459-f96f-7e84-bd52-d3fb388ff0fc",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "no-set",
   title: "No Set",
   key: "no-set",

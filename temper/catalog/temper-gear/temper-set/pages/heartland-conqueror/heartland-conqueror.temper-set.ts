@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const heartlandConqueror = {
   id: "019e668e-9a47-7334-a8fe-0040c5cc9e43",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "heartland-conqueror",
   title: "Heartland Conqueror",
   key: "heartland-conqueror",

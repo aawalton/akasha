@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const lucillasWindshield = {
   id: "019e66e7-6a0f-7595-ac77-99a0b0210393",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "lucillas-windshield",
   title: "Lucilla's Windshield",
   key: "lucillas-windshield",

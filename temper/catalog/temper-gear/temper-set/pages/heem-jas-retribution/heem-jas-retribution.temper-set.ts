@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const heemJasRetribution = {
   id: "019e66e6-a08d-7a90-a05e-a469b383adb5",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "heem-jas-retribution",
   title: "Heem-Jas' Retribution",
   key: "heem-jas-retribution",

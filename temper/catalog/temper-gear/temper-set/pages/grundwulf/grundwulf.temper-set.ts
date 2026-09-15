@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const grundwulf = {
   id: "019e6484-5ffa-7037-9692-7990e6f76f0d",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "grundwulf",
   title: "Grundwulf",
   key: "grundwulf",

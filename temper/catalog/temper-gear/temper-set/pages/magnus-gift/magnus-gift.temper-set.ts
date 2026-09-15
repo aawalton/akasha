@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const magnusGift = {
   id: "019e668e-9a51-71ad-853e-269715af2435",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "magnus-gift",
   title: "Magnus' Gift",
   key: "magnus-gift",

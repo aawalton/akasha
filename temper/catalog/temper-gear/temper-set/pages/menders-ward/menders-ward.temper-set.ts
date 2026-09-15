@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const mendersWard = {
   id: "019e6484-5fb6-7685-a185-bd0a354b1b95",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "menders-ward",
   title: "Mender's Ward",
   key: "menders-ward",

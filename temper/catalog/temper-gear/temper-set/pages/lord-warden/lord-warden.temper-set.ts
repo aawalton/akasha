@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const lordWarden = {
   id: "019e6484-6003-7c47-8bb2-8ca82444783f",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "lord-warden",
   title: "Lord Warden",
   key: "lord-warden",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const pangritDenmother = {
   id: "019e66e6-a0ad-70f9-8137-ffd6f8e9997d",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "pangrit-denmother",
   title: "Pangrit Denmother",
   key: "pangrit-denmother",

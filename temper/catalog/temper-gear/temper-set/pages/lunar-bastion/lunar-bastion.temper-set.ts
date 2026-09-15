@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const lunarBastion = {
   id: "019e66ec-7b97-7c6b-ad88-f60f56c5afd0",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "lunar-bastion",
   title: "Lunar Bastion",
   key: "lunar-bastion",

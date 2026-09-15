@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const jorvuldsGuidance = {
   id: "019e66e6-a097-7515-a54b-c5e1f6270533",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "jorvulds-guidance",
   title: "Jorvuld's Guidance",
   key: "jorvulds-guidance",

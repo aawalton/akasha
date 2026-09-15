@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const knightmare = {
   id: "019e66e6-a09a-7a92-9c53-42cfd1114bf9",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "knightmare",
   title: "Knightmare",
   key: "knightmare",

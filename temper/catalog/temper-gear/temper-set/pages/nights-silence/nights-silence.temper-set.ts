@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const nightsSilence = {
   id: "019e668e-9a57-7218-8780-f2b6d6eaff72",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "nights-silence",
   title: "Night's Silence",
   key: "nights-silence",

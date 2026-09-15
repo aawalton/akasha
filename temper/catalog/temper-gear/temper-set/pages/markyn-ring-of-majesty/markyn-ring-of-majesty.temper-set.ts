@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const markynRingOfMajesty = {
   id: "019e6484-6030-7be9-a8fb-89597d47ce9a",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "markyn-ring-of-majesty",
   title: "Markyn Ring of Majesty",
   key: "markyn-ring-of-majesty",

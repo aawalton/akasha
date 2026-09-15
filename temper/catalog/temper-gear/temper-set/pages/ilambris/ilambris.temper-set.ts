@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const ilambris = {
   id: "019e6484-5ffb-7fb2-b363-b681369b1a02",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "ilambris",
   title: "Ilambris",
   key: "ilambris",

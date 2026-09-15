@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const malacathsBandOfBrutality = {
   id: "019e6484-602f-7d64-9c2b-b0bf96c3f038",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "malacaths-band-of-brutality",
   title: "Malacath's Band of Brutality",
   key: "malacaths-band-of-brutality",

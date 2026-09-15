@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedDolorousArena = {
   id: "019e66e7-6a16-79e0-bf75-75f2c4f7be3e",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-dolorous-arena",
   title: "Perfected Dolorous Arena",
   key: "perfected-dolorous-arena",

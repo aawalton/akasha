@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const havenOfUrsus = {
   id: "019e66e6-a08c-79e8-bc3c-68956a7fa46a",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "haven-of-ursus",
   title: "Haven of Ursus",
   key: "haven-of-ursus",

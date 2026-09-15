@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const monolithOfStorms = {
   id: "019e6484-5fe3-7102-acad-95bab72dbb1c",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "monolith-of-storms",
   title: "Monolith of Storms",
   key: "monolith-of-storms",

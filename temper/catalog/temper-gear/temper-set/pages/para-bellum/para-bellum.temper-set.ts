@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const paraBellum = {
   id: "019e6484-5fb8-7204-85d9-e817937fbfe0",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "para-bellum",
   title: "Para Bellum",
   key: "para-bellum",

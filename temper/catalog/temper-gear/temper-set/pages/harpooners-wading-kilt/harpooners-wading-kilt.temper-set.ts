@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const harpoonersWadingKilt = {
   id: "019e6484-602e-7043-895a-166b947d21e2",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "harpooners-wading-kilt",
   title: "Harpooner's Wading Kilt",
   key: "harpooners-wading-kilt",

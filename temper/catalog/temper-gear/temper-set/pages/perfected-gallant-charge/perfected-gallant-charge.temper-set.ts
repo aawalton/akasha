@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedGallantCharge = {
   id: "019e6484-5fbe-7d9b-9c75-e249417f0362",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-gallant-charge",
   title: "Perfected Gallant Charge",
   key: "perfected-gallant-charge",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedExecutionersBlade = {
   id: "019e6484-5fbc-76be-9478-521e7cb7b8ce",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-executioners-blade",
   title: "Perfected Executioner's Blade",
   key: "perfected-executioners-blade",

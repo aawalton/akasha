@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const mawOfTheInfernal = {
   id: "019e6484-6006-7c48-95bd-4005c07e2f46",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "maw-of-the-infernal",
   title: "Maw of the Infernal",
   key: "maw-of-the-infernal",

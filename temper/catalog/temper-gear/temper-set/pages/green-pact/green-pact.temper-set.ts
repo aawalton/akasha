@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const greenPact = {
   id: "019e66e7-6a62-7c22-b914-0f105e1e4e51",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "green-pact",
   title: "Green Pact",
   key: "green-pact",

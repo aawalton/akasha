@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const motherCiannait = {
   id: "019e6484-6009-7c9a-9003-5c0c9b71c946",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "mother-ciannait",
   title: "Mother Ciannait",
   key: "mother-ciannait",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const nazaray = {
   id: "019e6484-600a-7e09-95b2-cca3c0806806",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "nazaray",
   title: "Nazaray",
   key: "nazaray",

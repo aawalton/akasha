@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const hewAndSunder = {
   id: "019e66ec-776b-7853-90da-0eae67b58a4e",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "hew-and-sunder",
   title: "Hew and Sunder",
   key: "hew-and-sunder",

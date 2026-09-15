@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const hatchlingsShell = {
   id: "019e66e7-6a65-738c-9f4e-d94461f7fc4b",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "hatchlings-shell",
   title: "Hatchling's Shell",
   key: "hatchlings-shell",

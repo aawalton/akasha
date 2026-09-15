@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const joltingArms = {
   id: "019e66e6-a096-731b-bea0-3dda054ba36b",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "jolting-arms",
   title: "Jolting Arms",
   key: "jolting-arms",

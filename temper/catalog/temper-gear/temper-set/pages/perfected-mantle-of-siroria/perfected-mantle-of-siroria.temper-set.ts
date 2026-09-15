@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const perfectedMantleOfSiroria = {
   id: "019e66ec-7cc6-7e88-9866-53bb1738d29c",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "perfected-mantle-of-siroria",
   title: "Perfected Mantle of Siroria",
   key: "perfected-mantle-of-siroria",

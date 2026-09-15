@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const pelinalsWrath = {
   id: "019e668e-9a5d-73a2-b718-53571d92ebe6",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "pelinals-wrath",
   title: "Pelinal's Wrath",
   key: "pelinals-wrath",

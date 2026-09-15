@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const marasBalm = {
   id: "019e66ec-7802-7ef2-8558-b166c472f418",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "maras-balm",
   title: "Mara's Balm",
   key: "maras-balm",

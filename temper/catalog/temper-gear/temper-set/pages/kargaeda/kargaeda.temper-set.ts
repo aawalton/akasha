@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const kargaeda = {
   id: "019e6484-5ffe-7d77-a538-74be1fae7ce4",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "kargaeda",
   title: "Kargaeda",
   key: "kargaeda",

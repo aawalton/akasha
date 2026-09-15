@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const ironblood = {
   id: "019e66e6-a093-728e-8676-d4ef1d9ee1bc",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "ironblood",
   title: "Ironblood",
   key: "ironblood",

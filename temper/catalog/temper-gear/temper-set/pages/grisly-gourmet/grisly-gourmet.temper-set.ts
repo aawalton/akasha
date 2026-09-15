@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const grislyGourmet = {
   id: "019e66e6-a087-7567-98a1-8d730dbbf9d0",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "grisly-gourmet",
   title: "Grisly Gourmet",
   key: "grisly-gourmet",

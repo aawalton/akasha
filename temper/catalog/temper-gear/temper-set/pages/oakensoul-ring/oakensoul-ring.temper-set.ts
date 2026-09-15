@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const oakensoulRing = {
   id: "019e6484-6032-7931-99f1-cb62879e7663",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "oakensoul-ring",
   title: "Oakensoul Ring",
   key: "oakensoul-ring",

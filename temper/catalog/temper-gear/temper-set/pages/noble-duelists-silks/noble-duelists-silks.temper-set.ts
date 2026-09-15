@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const nobleDuelistsSilks = {
   id: "019e66e6-a0a9-7d4e-9eba-17e903746126",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "noble-duelists-silks",
   title: "Noble Duelist's Silks",
   key: "noble-duelists-silks",

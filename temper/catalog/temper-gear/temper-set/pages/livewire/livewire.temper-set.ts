@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const livewire = {
   id: "019e66e7-6a6b-7503-ba5d-dc13eeda4594",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "livewire",
   title: "Livewire",
   key: "livewire",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const necropotence = {
   id: "019e66e7-6a73-7bbc-86bc-b8e13d1c522a",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "necropotence",
   title: "Necropotence",
   key: "necropotence",
