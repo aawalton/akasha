@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryCharacterPriority = {
   id: "01a06258-b52a-7104-847d-223bd0edb59d",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-character-priority",
   definition: "the order of characters the compiled rules hand items to",
   code: "ts",

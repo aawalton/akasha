@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const hudSceneParse = {
   id: "01a060a4-fa3a-750c-9ca2-1bb7318f8b00",
-  type: "module",
+  type: "page-type/module",
   slug: "hud-scene-parse",
   definition: "the HUD parts read out of the game's own scene source",
   code: "ts",

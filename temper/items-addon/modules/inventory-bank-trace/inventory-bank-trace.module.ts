@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryBankTrace = {
   id: "01a06258-b528-744f-9bd2-f905f500edb0",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-bank-trace",
   definition: "the timing traces kept over recent visits to a venue, phase by phase",
   code: "ts",

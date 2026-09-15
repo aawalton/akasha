@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const assistantCollectibles = {
   id: "01a060e7-1beb-7c7c-8f92-e0f5d84c2110",
-  type: "module",
+  type: "page-type/module",
   slug: "assistant-collectibles",
   definition: "the collectible ids of every personal assistant the player may summon",
   code: "ts",

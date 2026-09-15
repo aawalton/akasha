@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryBankPlan = {
   id: "01a06258-b527-70e5-bb07-c8089c31f94d",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-bank-plan",
   definition: "a tally of what the bank holds for each character",
   code: "ts",

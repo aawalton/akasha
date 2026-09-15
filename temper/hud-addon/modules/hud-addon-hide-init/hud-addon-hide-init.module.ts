@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const hudAddonHideInit = {
   id: "01a061c5-18dd-700d-bb0a-48630caac89d",
-  type: "module",
+  type: "page-type/module",
   slug: "hud-addon-hide-init",
   definition:
     "the registration of every catalog part as hideable under the player's stored setting",

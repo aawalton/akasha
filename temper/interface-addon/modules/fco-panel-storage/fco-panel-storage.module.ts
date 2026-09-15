@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fcoPanelStorage = {
   id: "01a06115-1ad3-7950-a503-c509665b731c",
-  type: "module",
+  type: "page-type/module",
   slug: "fco-panel-storage",
   definition: "the settings rows covering storage",
   code: "ts",

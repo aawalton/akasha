@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const quietListProvider = {
   id: "01a060f1-691f-7655-950a-8c9728855629",
-  type: "module",
+  type: "page-type/module",
   slug: "quiet-list-provider",
   definition: "the shape a notification provider takes where it is hooked",
   code: "ts",

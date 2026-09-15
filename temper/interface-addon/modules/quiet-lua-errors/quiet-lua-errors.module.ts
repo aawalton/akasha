@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const quietLuaErrors = {
   id: "01a060f1-6926-7808-b998-73b9f56ae138",
-  type: "module",
+  type: "page-type/module",
   slug: "quiet-lua-errors",
   definition: "the Lua error notification the add-on hides",
   code: "ts",

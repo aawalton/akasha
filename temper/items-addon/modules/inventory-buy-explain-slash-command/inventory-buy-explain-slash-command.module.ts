@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryBuyExplainSlashCommand = {
   id: "01a06258-b52a-749d-a3ac-297ef704c9e4",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-buy-explain-slash-command",
   definition: "the chat command that explains why a buy rule did or did not fire",
   code: "ts",

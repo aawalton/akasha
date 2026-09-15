@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const hudAddonVisibilityVersion = {
   id: "01a061c5-18dd-7002-98bb-12e2b151ea28",
-  type: "module",
+  type: "page-type/module",
   slug: "hud-addon-visibility-version",
   definition:
     "which version the stored HUD visibility is at and how an older version is brought forward",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fcoSkills = {
   id: "01a06115-1ad6-704a-ac3c-88cccb76abc5",
-  type: "module",
+  type: "page-type/module",
   slug: "fco-skills",
   definition: "the skills window the interface tweaks change",
   code: "ts",

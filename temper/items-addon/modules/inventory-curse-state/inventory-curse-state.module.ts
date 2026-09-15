@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryCurseState = {
   id: "01a06258-b52a-79d5-b4a4-393072202853",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-curse-state",
   definition: "whether a character is a vampire or a werewolf, for the rules that ask",
   code: "ts",

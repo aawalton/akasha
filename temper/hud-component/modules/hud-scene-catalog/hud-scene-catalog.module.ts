@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const hudSceneCatalog = {
   id: "01a060a4-fa3b-751a-8639-e3b67666c6b8",
-  type: "module",
+  type: "page-type/module",
   slug: "hud-scene-catalog",
   definition: "every part of the game's HUD, in the order the reading finds each part",
   code: "ts",

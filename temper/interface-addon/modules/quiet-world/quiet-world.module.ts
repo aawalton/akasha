@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const quietWorld = {
   id: "01a060f1-6951-7177-beb5-37bc81e3da8e",
-  type: "module",
+  type: "page-type/module",
   slug: "quiet-world",
   definition: "the world interactions the add-on changes",
   code: "ts",

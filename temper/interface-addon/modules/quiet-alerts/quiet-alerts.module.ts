@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const quietAlerts = {
   id: "01a060f1-690b-7fc1-8e15-08f2f0506b39",
-  type: "module",
+  type: "page-type/module",
   slug: "quiet-alerts",
   definition: "the alert texts the add-on holds back",
   code: "ts",

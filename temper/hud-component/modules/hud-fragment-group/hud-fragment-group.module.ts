@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const hudFragmentGroup = {
   id: "01a060a4-fa3a-751e-a08d-fa06474540f8",
-  type: "module",
+  type: "page-type/module",
   slug: "hud-fragment-group",
   definition: "the HUD parts the game's own fragment group holds",
   code: "ts",

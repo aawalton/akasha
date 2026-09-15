@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fcoSettingsMenu = {
   id: "01a06115-1ad4-7da9-bc03-79782a698425",
-  type: "module",
+  type: "page-type/module",
   slug: "fco-settings-menu",
   definition: "the settings panel the interface tweaks register",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fcoCraftingSmithing = {
   id: "01a06115-1ac7-7093-bdbd-2f2d354a8b32",
-  type: "module",
+  type: "page-type/module",
   slug: "fco-crafting-smithing",
   definition: "the smithing creation panel the interface tweaks change",
   code: "ts",

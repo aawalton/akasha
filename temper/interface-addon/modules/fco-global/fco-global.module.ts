@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fcoGlobal = {
   id: "01a06115-1ac8-7d12-a18b-e1aa7e8aafeb",
-  type: "module",
+  type: "page-type/module",
   slug: "fco-global",
   definition: "the global table other add-ons reach the interface tweaks through",
   code: "ts",

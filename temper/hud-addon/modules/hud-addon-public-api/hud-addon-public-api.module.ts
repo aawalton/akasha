@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const hudAddonPublicApi = {
   id: "01a061c5-18dd-700f-96b2-7a0b4a1f8e37",
-  type: "module",
+  type: "page-type/module",
   slug: "hud-addon-public-api",
   definition: "the global another add-on reaches the bar, the commands and the hiding through",
   code: "ts",

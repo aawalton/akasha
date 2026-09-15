@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const quietGuildRoster = {
   id: "01a060f1-691c-7d16-83c4-15a07a34f67f",
-  type: "module",
+  type: "page-type/module",
   slug: "quiet-guild-roster",
   definition: "the guild roster alerts the add-on has back",
   code: "ts",

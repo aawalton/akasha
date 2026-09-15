@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fcoPanelBattleground = {
   id: "01a06115-1ad0-7fa4-bb2c-998d63755b19",
-  type: "module",
+  type: "page-type/module",
   slug: "fco-panel-battleground",
   definition: "the settings rows covering battlegrounds",
   code: "ts",

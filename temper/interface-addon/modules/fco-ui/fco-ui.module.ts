@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fcoUi = {
   id: "01a06115-1ad8-7a5e-a9fb-cd52f4b41690",
-  type: "module",
+  type: "page-type/module",
   slug: "fco-ui",
   definition: "the promotional event tracker the interface tweaks move",
   code: "ts",

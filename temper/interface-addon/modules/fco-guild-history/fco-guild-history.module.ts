@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fcoGuildHistory = {
   id: "01a06115-1ac9-7fb0-8f2d-ffc398b892a8",
-  type: "module",
+  type: "page-type/module",
   slug: "fco-guild-history",
   definition: "the guild history window the interface tweaks page through",
   code: "ts",

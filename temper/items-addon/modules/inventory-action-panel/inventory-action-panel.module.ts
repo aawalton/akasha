@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryActionPanel = {
   id: "01a06258-b52c-7d14-aa57-055429e5b07b",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-action-panel",
   definition: "the small panel shown over the inventory with the counts of pending actions",
   code: "ts",

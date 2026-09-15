@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const interfaceLoad = {
   id: "01a06115-1ada-7ea2-9ac4-ca13ab404a42",
-  type: "module",
+  type: "page-type/module",
   slug: "interface-load",
   definition: "what the interface add-on runs once the game says it is loaded",
   code: "ts",

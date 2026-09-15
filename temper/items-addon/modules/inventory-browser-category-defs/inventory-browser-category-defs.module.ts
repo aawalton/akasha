@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryBrowserCategoryDefs = {
   id: "01a06258-b528-7c65-b79d-9e36f50d9a1d",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-browser-category-defs",
   definition: "the categories and subfilters the cross-character browser offers",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryBrowser = {
   id: "01a06258-b529-7173-963b-f0bcd6b03b82",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-browser",
   definition: "opening, closing and refreshing the cross-character inventory browser",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const quietSettingsGuilds = {
   id: "01a060f1-6940-7b9c-bb15-c607988f171d",
-  type: "module",
+  type: "page-type/module",
   slug: "quiet-settings-guilds",
   definition: "the settings rows covering guilds",
   code: "ts",
