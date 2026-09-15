@@ -3,7 +3,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 export const florenceTheMachineDanceFeverLiveAtMadisonSquareGardenMorningElvisLiveAtMadisonSquare =
   {
     id: "01a0a5cd-545e-7e68-b8ae-2ac49f22ce5c",
-    type: "track",
+    type: "page-type/track",
     slug: "florence-the-machine-dance-fever-live-at-madison-square-garden-morning-elvis-live-at-madison-square",
     ownLength: 3.9360833333333334,
     ownProgress: 0,

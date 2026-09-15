@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineDanceFeverLiveAtMadisonSquareGardenDogDaysAreOverLiveAtMadison = {
   id: "01a0a5cd-5301-7f3d-a832-72293fe6dae3",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-dance-fever-live-at-madison-square-garden-dog-days-are-over-live-at-madison",
   ownLength: 4.947983333333333,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineCeremonialsBedroomHymns = {
   id: "01a0a5cd-6895-789a-a031-b85cf01b1abf",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-ceremonials-bedroom-hymns",
   ownLength: 3.018666666666667,
   ownProgress: 0,

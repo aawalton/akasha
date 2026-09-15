@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineCeremonialsBreakingDown = {
   id: "01a0a5cd-66d4-77e9-bf12-9699081994e6",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-ceremonials-breaking-down",
   ownLength: 3.8177666666666665,
   ownProgress: 0,

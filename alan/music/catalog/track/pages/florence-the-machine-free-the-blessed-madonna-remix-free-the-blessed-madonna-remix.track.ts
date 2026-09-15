@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineFreeTheBlessedMadonnaRemixFreeTheBlessedMadonnaRemix = {
   id: "01a0a5cd-7a59-7288-8b89-97e69df31794",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-free-the-blessed-madonna-remix-free-the-blessed-madonna-remix",
   ownLength: 4.3962,
   ownProgress: 0,

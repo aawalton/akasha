@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineDanceFeverDeluxeKing = {
   id: "01a0a5cd-5678-7524-8cd6-7c1b9699daf6",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-dance-fever-deluxe-king",
   ownLength: 4.668833333333334,
   ownProgress: 0,

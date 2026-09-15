@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineEverybodyScreamChamberVersionMusicByMen = {
   id: "01a0a5cd-4772-70ed-9825-8b88f21e0c47",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-everybody-scream-chamber-version-music-by-men",
   ownLength: 4.5234,
   ownProgress: 0,

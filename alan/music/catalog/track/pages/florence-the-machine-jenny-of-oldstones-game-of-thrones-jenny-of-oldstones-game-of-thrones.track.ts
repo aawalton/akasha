@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineJennyOfOldstonesGameOfThronesJennyOfOldstonesGameOfThrones = {
   id: "01a0a5cd-7ce8-7c54-a8db-ba82604375a7",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-jenny-of-oldstones-game-of-thrones-jenny-of-oldstones-game-of-thrones",
   ownLength: 3.1439666666666666,
   ownProgress: 0,

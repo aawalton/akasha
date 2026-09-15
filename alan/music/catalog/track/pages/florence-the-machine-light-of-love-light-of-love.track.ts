@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLightOfLoveLightOfLove = {
   id: "01a0a5cd-7ba2-7c7d-9a47-ca39ceedf2a4",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-light-of-love-light-of-love",
   ownLength: 4.012,
   ownProgress: 0,

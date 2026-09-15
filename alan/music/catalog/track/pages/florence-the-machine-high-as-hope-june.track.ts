@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineHighAsHopeJune = {
   id: "01a0a5cd-5c8d-73d3-bfd7-2ea13e4ccc6e",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-high-as-hope-june",
   ownLength: 3.69955,
   ownProgress: 0,

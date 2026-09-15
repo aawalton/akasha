@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungs10thAnniversaryEditionOhDarlingLiveAtAbbeyRoadUk2009 = {
   id: "01a0a5cd-710b-76c5-88e9-bde0704de996",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-10th-anniversary-edition-oh-darling-live-at-abbey-road-uk-2009",
   ownLength: 3.316666666666667,
   ownProgress: 0,

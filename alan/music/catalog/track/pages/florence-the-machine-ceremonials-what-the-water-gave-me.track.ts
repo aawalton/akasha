@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineCeremonialsWhatTheWaterGaveMe = {
   id: "01a0a5cd-667f-7427-a344-9a23f393e160",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-ceremonials-what-the-water-gave-me",
   ownLength: 5.557766666666667,
   ownProgress: 0,

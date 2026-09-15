@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineHeavenIsHereIdlesRemixHeavenIsHereIdlesRemix = {
   id: "01a0a5cd-79b2-72f0-ac2b-ccfc87de13a3",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-heaven-is-here-idles-remix-heaven-is-here-idles-remix",
   ownLength: 4.135116666666667,
   ownProgress: 0,

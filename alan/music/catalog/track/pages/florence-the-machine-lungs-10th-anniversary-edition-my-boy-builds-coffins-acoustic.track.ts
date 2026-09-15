@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungs10thAnniversaryEditionMyBoyBuildsCoffinsAcoustic = {
   id: "01a0a5cd-6f42-780c-a2c5-4c8027296c6c",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-10th-anniversary-edition-my-boy-builds-coffins-acoustic",
   ownLength: 2.8491,
   ownProgress: 0,

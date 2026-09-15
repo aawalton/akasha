@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineHungerHunger = {
   id: "01a0a5cd-7e06-712b-bab0-3c9beb477193",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-hunger-hunger",
   ownLength: 3.5777666666666668,
   ownProgress: 0,

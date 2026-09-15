@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineBigGodBigGod = {
   id: "01a0a5cd-7dda-7bed-b61b-de0b8e43fa37",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-big-god-big-god",
   ownLength: 4.029333333333334,
   ownProgress: 0,

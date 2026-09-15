@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineCeremonialsOnlyIfForANight = {
   id: "01a0a5cd-6627-7181-863e-6c402fe94284",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-ceremonials-only-if-for-a-night",
   ownLength: 4.972216666666666,
   ownProgress: 0,

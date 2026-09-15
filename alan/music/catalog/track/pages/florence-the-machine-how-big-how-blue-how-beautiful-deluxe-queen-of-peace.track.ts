@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineHowBigHowBlueHowBeautifulDeluxeQueenOfPeace = {
   id: "01a0a5cd-6014-77f9-b48e-2257f2c6f900",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-how-big-how-blue-how-beautiful-deluxe-queen-of-peace",
   ownLength: 5.12245,
   ownProgress: 0,

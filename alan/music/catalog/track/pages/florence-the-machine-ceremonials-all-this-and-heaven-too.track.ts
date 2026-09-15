@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineCeremonialsAllThisAndHeavenToo = {
   id: "01a0a5cd-67c9-7c94-996c-c53ec97e12f6",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-ceremonials-all-this-and-heaven-too",
   ownLength: 4.098216666666667,
   ownProgress: 0,

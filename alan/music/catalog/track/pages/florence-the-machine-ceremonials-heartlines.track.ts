@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineCeremonialsHeartlines = {
   id: "01a0a5cd-676f-732c-a75d-ea88d76e5234",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-ceremonials-heartlines",
   ownLength: 5.02555,
   ownProgress: 0,

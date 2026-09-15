@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineDanceFeverCompleteEditionChoreomania = {
   id: "01a0a5cd-4e6a-7070-98fa-4dc575ab56e8",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-dance-fever-complete-edition-choreomania",
   ownLength: 3.5517,
   ownProgress: 0,

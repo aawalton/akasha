@@ -3,7 +3,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 export const florenceTheMachineLoverToLoverCeremonialsTourVersionLoverToLoverCeremonialsTourVersion =
   {
     id: "01a0a5cd-8009-74e6-8c90-200964f10394",
-    type: "track",
+    type: "page-type/track",
     slug: "florence-the-machine-lover-to-lover-ceremonials-tour-version-lover-to-lover-ceremonials-tour-version",
     ownLength: 3.7270833333333333,
     ownProgress: 0,

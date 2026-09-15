@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineCeremonialsNeverLetMeGo = {
   id: "01a0a5cd-66a9-776d-b008-983cefd46997",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-ceremonials-never-let-me-go",
   ownLength: 4.516883333333333,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineEverybodyScreamYouCanHaveItAll = {
   id: "01a0a5cd-4a79-7504-b0b2-71deec0bbdb2",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-everybody-scream-you-can-have-it-all",
   ownLength: 3.99935,
   ownProgress: 0,

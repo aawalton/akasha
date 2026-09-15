@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungs10thAnniversaryEditionGirlWithOneEye = {
   id: "01a0a5cd-6db6-7214-9597-acc7046f5b5e",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-10th-anniversary-edition-girl-with-one-eye",
   ownLength: 3.625766666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineDrummingSongRabbitHeartRaiseItUpAcoustic = {
   id: "01a0a5cd-832f-7099-b6dd-1ea957ac2aaa",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-drumming-song-rabbit-heart-raise-it-up-acoustic",
   ownLength: 3.8786666666666667,
   ownProgress: 0,

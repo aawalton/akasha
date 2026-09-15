@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungs10thAnniversaryEditionHospitalBeds = {
   id: "01a0a5cd-6fc1-7c23-8520-55fab47402b9",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-10th-anniversary-edition-hospital-beds",
   ownLength: 2.2386666666666666,
   ownProgress: 0,

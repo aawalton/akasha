@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungs10thAnniversaryEditionDrummingSong = {
   id: "01a0a5cd-6de1-7f1a-8b20-fee0f622a42d",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-10th-anniversary-edition-drumming-song",
   ownLength: 3.7222166666666667,
   ownProgress: 0,

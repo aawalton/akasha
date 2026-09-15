@@ -3,7 +3,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 export const florenceTheMachineDanceFeverLiveAtMadisonSquareGardenMyLoveLiveAtMadisonSquareGarden =
   {
     id: "01a0a5cd-5573-7856-9660-15e8a6e68b0e",
-    type: "track",
+    type: "page-type/track",
     slug: "florence-the-machine-dance-fever-live-at-madison-square-garden-my-love-live-at-madison-square-garden",
     ownLength: 4.8872,
     ownProgress: 0,

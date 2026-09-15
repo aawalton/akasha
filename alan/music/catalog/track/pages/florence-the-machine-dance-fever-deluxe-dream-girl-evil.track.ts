@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineDanceFeverDeluxeDreamGirlEvil = {
   id: "01a0a5cd-575c-7f47-b9d2-8f5c21f58ffa",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-dance-fever-deluxe-dream-girl-evil",
   ownLength: 3.7895666666666665,
   ownProgress: 0,

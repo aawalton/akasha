@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineCeremonialsStrangenessAndCharm = {
   id: "01a0a5cd-6863-7708-ad16-97397be68468",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-ceremonials-strangeness-and-charm",
   ownLength: 5.25755,
   ownProgress: 0,

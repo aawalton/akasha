@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineDanceFeverCompleteEditionHeavenIsHere = {
   id: "01a0a5cd-4fda-7e70-b7d7-785b2fdfd2ab",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-dance-fever-complete-edition-heaven-is-here",
   ownLength: 1.8547166666666666,
   ownProgress: 0,

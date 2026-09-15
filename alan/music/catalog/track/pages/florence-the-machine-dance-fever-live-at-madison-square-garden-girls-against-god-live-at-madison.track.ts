@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineDanceFeverLiveAtMadisonSquareGardenGirlsAgainstGodLiveAtMadison = {
   id: "01a0a5cd-534d-7b13-a402-0fbe323d0efa",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-dance-fever-live-at-madison-square-garden-girls-against-god-live-at-madison",
   ownLength: 4.338816666666666,
   ownProgress: 0,

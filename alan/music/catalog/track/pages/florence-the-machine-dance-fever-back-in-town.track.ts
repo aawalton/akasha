@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineDanceFeverBackInTown = {
   id: "01a0a5cd-5ad2-70a9-b1f3-5fd88263ac0f",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-dance-fever-back-in-town",
   ownLength: 3.931,
   ownProgress: 0,

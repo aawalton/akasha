@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineDanceFeverCompleteEditionGirlsAgainstGod = {
   id: "01a0a5cd-4ee6-7b07-853c-6330aa1fb032",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-dance-fever-complete-edition-girls-against-god",
   ownLength: 4.67425,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineILoveYouAllTheTimePlayItForwardCampaignFeatTheMaccabeesILoveYou = {
   id: "01a0a5cd-7f06-7325-b5d8-e3f12bf8f08b",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-i-love-you-all-the-time-play-it-forward-campaign-feat-the-maccabees-i-love-you",
   ownLength: 3.31015,
   ownProgress: 0,

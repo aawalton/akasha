@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineCeremonialsSpectrumSayMyName = {
   id: "01a0a5cd-67a0-738c-9a66-53fa097a55ce",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-ceremonials-spectrum-say-my-name",
   ownLength: 5.19355,
   ownProgress: 0,

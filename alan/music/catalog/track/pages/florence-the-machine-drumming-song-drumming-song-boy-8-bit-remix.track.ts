@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineDrummingSongDrummingSongBoy8BitRemix = {
   id: "01a0a5cd-82dc-706a-b34f-7ffab3d4435d",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-drumming-song-drumming-song-boy-8-bit-remix",
   ownLength: 6.51955,
   ownProgress: 0,

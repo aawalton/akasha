@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineDelilahGalantisRemixEditDelilahGalantisRemixEdit = {
   id: "01a0a5cd-7f2d-775e-a7e4-378a20a20a0d",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-delilah-galantis-remix-edit-delilah-galantis-remix-edit",
   ownLength: 3.7076333333333333,
   ownProgress: 0,

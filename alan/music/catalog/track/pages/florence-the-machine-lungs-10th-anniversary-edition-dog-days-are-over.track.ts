@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungs10thAnniversaryEditionDogDaysAreOver = {
   id: "01a0a5cd-6cda-75b6-901e-876ee6bac7e4",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-10th-anniversary-edition-dog-days-are-over",
   ownLength: 4.180666666666666,
   ownProgress: 0,
