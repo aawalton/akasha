@@ -1,5 +1,11 @@
+import { importsIn } from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
+import type { Naming } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import type { Known } from "akasha/graph/attribute/pages/known.graph-attribute.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import {
+  type Body,
+  reachingOf,
+} from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import {
   claimantOf,
   type Paging,
@@ -27,6 +33,8 @@ const APART = "\n"
 
 const BY_REFERENCE: Known = "reference"
 
+const BY_DECLARATION: Known = "declaration"
+
 export type Edge = {
   readonly kind: string
   readonly from: string
@@ -39,8 +47,16 @@ export type Asking = {
   readonly attributes: readonly string[]
 }
 
+function namedIn(kinds: readonly string[]): string {
+  return [...new Set(kinds)].sort().join(", ")
+}
+
 function askedFor(path: string, kinds: readonly string[]): string {
-  return `what reaches \`${path}\` as ${[...new Set(kinds)].sort().join(", ")}`
+  return `what reaches \`${path}\` as ${namedIn(kinds)}`
+}
+
+function reachedFor(path: string, kinds: readonly string[]): string {
+  return `what \`${path}\` reaches as ${namedIn(kinds)}`
 }
 
 type Held = {
@@ -95,6 +111,28 @@ function importsInto(
     from,
     to: path,
     attrs: { [attribute]: BY_REFERENCE },
+  }))
+}
+
+function namingFor(index: Answering, bodyAt: Body): Naming {
+  return reachingOf(index.manifestsBeside(index.fileKeysAt()), bodyAt)
+}
+
+function importsOutOf(
+  path: string,
+  asking: Asking,
+  asked: string,
+  bodyAt: Body,
+  naming: Naming
+): readonly Edge[] {
+  const attribute = attributeFor(asking, asked)
+  const body = bodyAt(path)
+  if (body === null) return []
+  return importsIn(body, path, naming).map((to) => ({
+    kind: asking.kind,
+    from: path,
+    to,
+    attrs: { [attribute]: BY_DECLARATION },
   }))
 }
 
@@ -156,6 +194,33 @@ function keyOf(one: Edge): string {
   return [one.kind, one.from, one.to, JSON.stringify(one.attrs)].join(APART)
 }
 
+function settledOf(found: readonly Edge[]): readonly Edge[] {
+  const kept = new Map<string, Edge>()
+  for (const one of found) kept.set(keyOf(one), one)
+  return [...kept.values()].sort((one, two) => {
+    const here = keyOf(one)
+    const there = keyOf(two)
+    return here < there ? -1 : here > there ? 1 : 0
+  })
+}
+
+function closedOver(
+  paths: readonly string[],
+  through: (path: string) => boolean,
+  stepping: (path: string) => readonly string[]
+): readonly string[] {
+  const found = new Set(paths.filter((one) => through(one)))
+  const waiting = [...found]
+  for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
+    for (const next of stepping(one)) {
+      if (found.has(next) || !through(next)) continue
+      found.add(next)
+      waiting.push(next)
+    }
+  }
+  return [...found].sort()
+}
+
 export function edgesInto(
   path: string,
   kinds: readonly string[],
@@ -174,13 +239,39 @@ export function edgesInto(
       )
     }
   }
-  const kept = new Map<string, Edge>()
-  for (const one of found) kept.set(keyOf(one), one)
-  return [...kept.values()].sort((one, two) => {
-    const here = keyOf(one)
-    const there = keyOf(two)
-    return here < there ? -1 : here > there ? 1 : 0
-  })
+  return settledOf(found)
+}
+
+function edgesOut(
+  path: string,
+  kinds: readonly string[],
+  index: Answering,
+  bodyAt: Body,
+  naming: Naming
+): readonly Edge[] {
+  if (kinds.length === 0) return []
+  const asked = reachedFor(path, kinds)
+  const found: Edge[] = []
+  for (const kind of new Set(kinds)) {
+    const asking = askingFor(index, kind, asked)
+    if (kind === IMPORT_EDGE) found.push(...importsOutOf(path, asking, asked, bodyAt, naming))
+    else {
+      throw new Error(
+        `the \`${kind}\` edge is not yet read out of a node, so ${asked} could not be answered`
+      )
+    }
+  }
+  return settledOf(found)
+}
+
+export function edgesOutOf(
+  path: string,
+  kinds: readonly string[],
+  index: Answering,
+  bodyAt: Body
+): readonly Edge[] {
+  if (kinds.length === 0) return []
+  return edgesOut(path, kinds, index, bodyAt, namingFor(index, bodyAt))
 }
 
 export function reachingInto(
@@ -189,14 +280,18 @@ export function reachingInto(
   index: Answering,
   through: (path: string) => boolean = () => true
 ): readonly string[] {
-  const found = new Set(paths.filter((one) => through(one)))
-  const waiting = [...found]
-  for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
-    for (const edge of edgesInto(one, kinds, index)) {
-      if (found.has(edge.from) || !through(edge.from)) continue
-      found.add(edge.from)
-      waiting.push(edge.from)
-    }
-  }
-  return [...found].sort()
+  return closedOver(paths, through, (one) => edgesInto(one, kinds, index).map((edge) => edge.from))
+}
+
+export function reachingOutOf(
+  paths: readonly string[],
+  kinds: readonly string[],
+  index: Answering,
+  bodyAt: Body,
+  through: (path: string) => boolean = () => true
+): readonly string[] {
+  const naming = namingFor(index, bodyAt)
+  return closedOver(paths, through, (one) =>
+    edgesOut(one, kinds, index, bodyAt, naming).map((edge) => edge.to)
+  )
 }

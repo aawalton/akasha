@@ -1,9 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
 import { relative } from "node:path"
+import { filesOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { edgesInto, reachingInto } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
+import {
+  edgesInto,
+  edgesOutOf,
+  reachingInto,
+  reachingOutOf,
+} from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import {
   APART_AT,
+  BY_DECLARATION,
   BY_REFERENCE,
   EDGE_AT,
   EDGE_ID,
@@ -24,6 +31,7 @@ import {
   loadingWorld,
   MODULE,
   namedBeside,
+  namingBody,
   PART,
   PROPERTY,
   RELATION,
@@ -260,4 +268,94 @@ test("a module no page type names as its loader is answered with no page of any 
   const root = loaderWorld(false)
 
   expect(edgesInto(LOADER_AT, [RELATION], indexOf(root))).toEqual([])
+})
+
+test("an empty kind list answers nothing going out", () => {
+  const root = importWorld()
+
+  expect(edgesOutOf(FIRST_AT, [], indexOf(root), filesOf({}))).toEqual([])
+})
+
+test("a file is answered with what its own body names, and each says a declaration knew it", () => {
+  const root = importWorld()
+  const bodies = filesOf({ [FIRST_AT]: namingBody("./second.page.ts") })
+
+  expect(edgesOutOf(FIRST_AT, [IMPORT_EDGE], indexOf(root), bodies)).toEqual([
+    { kind: IMPORT_EDGE, from: FIRST_AT, to: SECOND_AT, attrs: { [KNOWN]: BY_DECLARATION } },
+  ])
+})
+
+test("a file the reader of bodies answers nothing for is answered with no edge going out", () => {
+  const root = importWorld()
+
+  expect(edgesOutOf(FIRST_AT, [IMPORT_EDGE], indexOf(root), filesOf({}))).toEqual([])
+})
+
+test("a kind not yet read out of a node is refused rather than answered with nothing", () => {
+  const root = relationWorld(1)
+
+  expect(() => edgesOutOf(TARGET_AT, [RELATION], indexOf(root), filesOf({}))).toThrow(
+    /`relation`.*could not be answered/
+  )
+})
+
+test("a file three deep in what it names is reached, so the closure going out closes", () => {
+  const root = importWorld()
+  const bodies = filesOf({
+    [FIRST_AT]: namingBody("./second.page.ts"),
+    [SECOND_AT]: namingBody("./third.page.ts"),
+  })
+
+  expect(reachingOutOf([FIRST_AT], [IMPORT_EDGE], indexOf(root), bodies)).toEqual([
+    FIRST_AT,
+    SECOND_AT,
+    THIRD_AT,
+  ])
+})
+
+test("a cycle going out is walked once, so an answer comes back rather than a run that does not end", () => {
+  const root = importWorld()
+  const bodies = filesOf({
+    [FIRST_AT]: namingBody("./second.page.ts"),
+    [SECOND_AT]: namingBody("./first.page.ts"),
+  })
+
+  expect(reachingOutOf([FIRST_AT], [IMPORT_EDGE], indexOf(root), bodies)).toEqual([
+    FIRST_AT,
+    SECOND_AT,
+  ])
+})
+
+test("a closure going out reads the bodies handed in rather than the bodies beneath them", () => {
+  const root = importWorld()
+  const bodies = filesOf({ [FIRST_AT]: namingBody("./second.page.ts") })
+
+  expect(reachingOutOf([FIRST_AT], [IMPORT_EDGE], indexOf(root), bodies)).toEqual([
+    FIRST_AT,
+    SECOND_AT,
+  ])
+  expect(reachingOutOf([FIRST_AT], [IMPORT_EDGE], indexOf(root), () => null)).toEqual([FIRST_AT])
+})
+
+test("a node the predicate turns away going out is left out, and what is behind it is not reached", () => {
+  const root = importWorld()
+  const bodies = filesOf({
+    [FIRST_AT]: namingBody("./apart.page.txt"),
+    [APART_AT]: namingBody("./third.page.ts"),
+  })
+
+  expect(
+    reachingOutOf([FIRST_AT], [IMPORT_EDGE], indexOf(root), bodies, (one) => one.endsWith(ENDING))
+  ).toEqual([FIRST_AT])
+})
+
+test("a closure going out and one coming in answer the same pair of files", () => {
+  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
+  const bodies = filesOf({ [SECOND_AT]: namingBody("./first.page.ts") })
+
+  expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([FIRST_AT, SECOND_AT])
+  expect(reachingOutOf([SECOND_AT], [IMPORT_EDGE], indexOf(root), bodies)).toEqual([
+    FIRST_AT,
+    SECOND_AT,
+  ])
 })

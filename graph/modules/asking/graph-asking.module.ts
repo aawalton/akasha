@@ -37,6 +37,15 @@ export const graphAsking = {
         "A page body an answer rests on is read through the index handed in rather than off the working tree.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A file body an edge going out is read from comes from the reader handed in rather than from disk.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A closure going out reads the specifiers of each body it reaches again.",
+    },
+    {
       invariantKind: "invariant-kind/absence",
       statement: "The folder an index is in is spelled by the indexes rather than here.",
     },

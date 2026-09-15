@@ -90,4 +90,5 @@
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/slug-renaming/slug-renaming.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/tree-searching/tree-searching.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/value-carrying/value-carrying.module.test.ts"}
+{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"graph/modules/asking/graph-asking.module.test.ts"}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

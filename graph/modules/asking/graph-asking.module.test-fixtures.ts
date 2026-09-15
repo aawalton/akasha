@@ -44,6 +44,8 @@ export const KNOWN = "known"
 
 export const BY_REFERENCE = "reference"
 
+export const BY_DECLARATION = "declaration"
+
 export const PART = "part-slugs"
 
 export const LOADED_BY = "loaded-by"
@@ -150,6 +152,10 @@ export function namedBeside(
   id: string
 ): Record<string, string> {
   return bodyBeside(page, [{ propertySlug, fileName: null, path: from, id }])
+}
+
+export function namingBody(from: string): string {
+  return `import { held } from "${from}"\n`
 }
 
 export function edgeFiledAt(kind: string): string {
