@@ -2,7 +2,7 @@ import type { TemperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/tem
 
 export const qualityEpic = {
   id: "01a05fd7-41c0-7501-be05-778a13e823d7",
-  type: "temper-eso-player-equipment-constant",
+  type: "page-type/temper-eso-player-equipment-constant",
   slug: "quality-epic",
   title: "Quality Epic",
   key: "quality:epic",

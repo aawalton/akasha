@@ -2,7 +2,7 @@ import type { TemperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/tem
 
 export const weaponTypeBattleaxe = {
   id: "01a05fd7-41c2-7314-84cb-9ea8657a4095",
-  type: "temper-eso-player-equipment-constant",
+  type: "page-type/temper-eso-player-equipment-constant",
   slug: "weapon-type-battleaxe",
   title: "Weapon Type Battleaxe",
   key: "weapon-type:battleaxe",

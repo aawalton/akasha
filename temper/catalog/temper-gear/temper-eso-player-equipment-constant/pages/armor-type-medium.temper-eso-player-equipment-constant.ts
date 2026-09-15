@@ -2,7 +2,7 @@ import type { TemperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/tem
 
 export const armorTypeMedium = {
   id: "01a05fd7-41be-7672-9a75-7d7f70c43e72",
-  type: "temper-eso-player-equipment-constant",
+  type: "page-type/temper-eso-player-equipment-constant",
   slug: "armor-type-medium",
   title: "Armor Type Medium",
   key: "armor-type:medium",

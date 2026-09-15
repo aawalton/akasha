@@ -2,7 +2,7 @@ import type { TemperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/tem
 
 export const weaponTypeDagger = {
   id: "01a05fd7-41c3-7c0a-8cd8-876074a5e433",
-  type: "temper-eso-player-equipment-constant",
+  type: "page-type/temper-eso-player-equipment-constant",
   slug: "weapon-type-dagger",
   title: "Weapon Type Dagger",
   key: "weapon-type:dagger",

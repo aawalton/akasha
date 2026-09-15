@@ -2,7 +2,7 @@ import type { TemperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/tem
 
 export const qualityNormal = {
   id: "01a05fd7-41c1-7e43-9244-096fda627b2d",
-  type: "temper-eso-player-equipment-constant",
+  type: "page-type/temper-eso-player-equipment-constant",
   slug: "quality-normal",
   title: "Quality Normal",
   key: "quality:normal",
