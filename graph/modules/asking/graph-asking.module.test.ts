@@ -349,6 +349,20 @@ test("a node the predicate turns away going out is left out, and what is behind 
   ).toEqual([FIRST_AT])
 })
 
+test("a file TypeScript does not parse is reached going out and nothing is read out of it", () => {
+  const root = importWorld()
+  const bodies = filesOf({
+    [FIRST_AT]: namingBody("./apart.page.txt"),
+    [APART_AT]: namingBody("./third.page.ts"),
+  })
+
+  expect(edgesOutOf(APART_AT, [IMPORT_EDGE], indexOf(root), bodies)).toEqual([])
+  expect(reachingOutOf([FIRST_AT], [IMPORT_EDGE], indexOf(root), bodies)).toEqual([
+    APART_AT,
+    FIRST_AT,
+  ])
+})
+
 test("a closure going out and one coming in answer the same pair of files", () => {
   const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
   const bodies = filesOf({ [SECOND_AT]: namingBody("./first.page.ts") })

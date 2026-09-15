@@ -1,3 +1,4 @@
+import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { importsIn } from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
 import type { Naming } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import type { Known } from "akasha/graph/attribute/pages/known.graph-attribute.ts"
@@ -126,6 +127,7 @@ function importsOutOf(
   naming: Naming
 ): readonly Edge[] {
   const attribute = attributeFor(asking, asked)
+  if (!typeScripted(path)) return []
   const body = bodyAt(path)
   if (body === null) return []
   return importsIn(body, path, naming).map((to) => ({

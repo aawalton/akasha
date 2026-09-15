@@ -46,6 +46,14 @@ export const graphAsking = {
       statement: "A closure going out reads the specifiers of each body it reaches again.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement: "An edge going out is read only from a file TypeScript parses.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file no edge is read out of is still reached by an edge going out.",
+    },
+    {
       invariantKind: "invariant-kind/absence",
       statement: "The folder an index is in is spelled by the indexes rather than here.",
     },
