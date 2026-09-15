@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { noneOfTypeFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
@@ -26,6 +27,7 @@ function folderHolding(slugs: readonly string[], names: readonly string[] = []):
   const root = SCRATCH.rootFor("temper-addon-manifest-")
   const dir = join(root, UNDER)
   mkdirSync(dir, { recursive: true })
+  noneOfTypeFiled(root, ESO_ADDON)
   for (const name of names) writeFileSync(join(dir, name), "{}")
   valueAlsoFiled(
     root,
