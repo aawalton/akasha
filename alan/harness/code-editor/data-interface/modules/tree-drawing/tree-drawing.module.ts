@@ -114,5 +114,14 @@ export const treeDrawing = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here folds a transcript for the subagents a seat is running.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A tree made from pages alone is drawn from the repository root or from a reading of the index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row names a document under the root whatever reading the tree was drawn from.",
+    },
   ],
 } as const satisfies Module

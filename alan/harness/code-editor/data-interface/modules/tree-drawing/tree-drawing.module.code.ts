@@ -24,6 +24,7 @@ import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent
 import { treeIn } from "akasha/command/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
 import { pageAnswers } from "akasha/command/pages/page/tree/page-tree.command.code.ts"
 import { domainRowsIn } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 
 function wholePath(root: string, at: string | null | undefined): string | null {
   if (at === undefined || at === null || at === "") return null
@@ -97,8 +98,8 @@ function domainRow(root: string, node: DomainNode): DomainTreeRow {
   }
 }
 
-export function domainTreeLine(root: string): string {
-  const built = championTree(domainRowsIn(root))
+export function domainTreeLine(root: string, given: string | Reading = root): string {
+  const built = championTree(domainRowsIn(given))
   return JSON.stringify({
     roots: built.roots.map((node) => domainRow(root, node as DomainNode)),
     unreached: built.unreached,
@@ -124,8 +125,8 @@ function pageRow(root: string, node: PageNode): PageTreeRow {
   }
 }
 
-export function pageTreeLine(root: string): string {
-  const built = assemblePageTree(pageAnswers(root), root)
+export function pageTreeLine(root: string, given: string | Reading = root): string {
+  const built = assemblePageTree(pageAnswers(given), root)
   return JSON.stringify({
     roots: built.roots.map((node) => pageRow(root, node as PageNode)),
     unreached: built.unreached,
@@ -249,8 +250,8 @@ function commandRow(root: string, node: CommandNode): CommandTreeRow {
   }
 }
 
-export function commandTreeLine(root: string): string {
-  const built = assembleCommandTree(root)
+export function commandTreeLine(root: string, given: string | Reading = root): string {
+  const built = assembleCommandTree(given)
   const under = built.roots.map((node) => commandRow(root, node))
   const roots: readonly CommandTreeRow[] = [
     {
