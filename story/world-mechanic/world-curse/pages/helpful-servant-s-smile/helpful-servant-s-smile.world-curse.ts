@@ -2,7 +2,7 @@ import type { WorldCurse } from "akasha/story/world-mechanic/world-curse/world-c
 
 export const helpfulServantSSmile = {
   id: "01a0655a-0687-72cd-8749-da6001290f06",
-  type: "world-curse",
+  type: "page-type/world-curse",
   slug: "helpful-servant-s-smile",
   title: "Helpful Servant’s Smile",
   world: "world/the-wandering-inn",
