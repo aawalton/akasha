@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const lanceOfFire = {
   id: "01a06572-95cc-77f1-8ccc-135adeb15b76",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "lance-of-fire",
   title: "Lance of Fire—",
   world: "world/the-wandering-inn",

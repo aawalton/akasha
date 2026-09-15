@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const lightfoldBarrier = {
   id: "01a06572-95cf-7293-b58d-7adda630147e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "lightfold-barrier",
   title: "Lightfold Barrier",
   world: "world/the-wandering-inn",

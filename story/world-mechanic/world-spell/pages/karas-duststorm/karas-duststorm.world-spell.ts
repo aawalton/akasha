@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const karasDuststorm = {
   id: "01a06572-95cc-7cf1-b9b5-72565165c4a6",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "karas-duststorm",
   title: "Karas Duststorm",
   world: "world/the-wandering-inn",

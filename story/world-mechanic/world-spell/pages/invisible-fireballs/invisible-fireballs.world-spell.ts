@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const invisibleFireballs = {
   id: "01a06572-95cc-7f38-a290-249739c9f936",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "invisible-fireballs",
   title: "Invisible Fireballs",
   world: "world/the-wandering-inn",

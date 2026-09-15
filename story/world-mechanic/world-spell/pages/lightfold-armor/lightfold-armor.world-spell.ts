@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const lightfoldArmor = {
   id: "01a06572-95cf-741e-b784-0ad2492a45aa",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "lightfold-armor",
   title: "Lightfold Armor",
   world: "world/the-wandering-inn",

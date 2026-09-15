@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const lawOfTheLucifenPunishArrows = {
   id: "01a06572-95cc-7b0d-b32a-d23c073dc6a7",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "law-of-the-lucifen-punish-arrows",
   title: "Law of the Lucifen: Punish Arrows",
   world: "world/the-wandering-inn",

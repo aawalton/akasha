@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const longRangeTeleportation = {
   id: "01a06572-95d0-784b-891b-1b34dac12b89",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "long-range-teleportation",
   title: "Long-range Teleportation",
   world: "world/the-wandering-inn",

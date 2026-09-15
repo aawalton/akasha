@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const implodeHead = {
   id: "01a06572-95cb-7d5d-8547-1e68a7872565",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "implode-head",
   title: "Implode Head",
   world: "world/the-wandering-inn",

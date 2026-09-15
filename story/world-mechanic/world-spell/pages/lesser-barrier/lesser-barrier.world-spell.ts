@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const lesserBarrier = {
   id: "01a06572-95cc-7968-a49f-d21ef2f976d5",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "lesser-barrier",
   title: "Lesser Barrier",
   world: "world/the-wandering-inn",

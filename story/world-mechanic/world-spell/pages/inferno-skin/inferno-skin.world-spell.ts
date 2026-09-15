@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const infernoSkin = {
   id: "01a06572-95cb-7503-92ad-ec66f4d24b04",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "inferno-skin",
   title: "Inferno Skin",
   world: "world/the-wandering-inn",

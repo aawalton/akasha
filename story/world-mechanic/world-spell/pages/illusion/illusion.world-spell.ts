@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const illusion = {
   id: "01a06572-95cb-7052-b551-f797fc5f0445",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "illusion",
   title: "Illusion",
   world: "world/the-wandering-inn",

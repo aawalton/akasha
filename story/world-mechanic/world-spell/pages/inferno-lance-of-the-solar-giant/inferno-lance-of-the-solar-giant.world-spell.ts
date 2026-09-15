@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const infernoLanceOfTheSolarGiant = {
   id: "01a06572-95cb-7b7e-9e8b-e5011cde925e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "inferno-lance-of-the-solar-giant",
   title: "Inferno-Lance of the Solar Giant",
   world: "world/the-wandering-inn",

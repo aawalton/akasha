@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const kelpicRegrowth = {
   id: "01a06572-95cc-7990-bc3f-8f6a26c89185",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "kelpic-regrowth",
   title: "Kelpic Regrowth",
   world: "world/the-wandering-inn",

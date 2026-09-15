@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const lowLevitation = {
   id: "01a06572-95d0-7696-8cf8-e58fbca35c15",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "low-levitation",
   title: "Low Levitation",
   world: "world/the-wandering-inn",

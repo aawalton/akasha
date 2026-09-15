@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const intensiveAppraisal = {
   id: "01a06572-95cb-7856-8061-ad5ce676a7cd",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "intensive-appraisal",
   title: "Intensive Appraisal",
   world: "world/the-wandering-inn",

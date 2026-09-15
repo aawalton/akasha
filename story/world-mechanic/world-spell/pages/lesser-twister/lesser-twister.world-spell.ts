@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const lesserTwister = {
   id: "01a06572-95cd-7e75-a612-eb85b0d0312d",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "lesser-twister",
   title: "Lesser Twister",
   world: "world/the-wandering-inn",

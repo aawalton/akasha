@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const lightningMeteorSwarm = {
   id: "01a06572-95d0-701f-8c70-b79742f50e06",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "lightning-meteor-swarm",
   title: "Lightning Meteor Swarm",
   world: "world/the-wandering-inn",

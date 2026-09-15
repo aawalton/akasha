@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const illusionPurge = {
   id: "01a06572-95cb-7126-b07c-b0c834ce8cea",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "illusion-purge",
   title: "Illusion Purge",
   world: "world/the-wandering-inn",

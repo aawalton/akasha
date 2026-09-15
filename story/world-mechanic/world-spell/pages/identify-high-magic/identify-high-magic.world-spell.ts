@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const identifyHighMagic = {
   id: "01a06572-95cb-78eb-a126-4b040e40d1bc",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "identify-high-magic",
   title: "Identify High Magic",
   world: "world/the-wandering-inn",

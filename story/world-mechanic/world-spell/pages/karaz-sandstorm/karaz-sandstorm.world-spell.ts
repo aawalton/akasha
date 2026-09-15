@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const karazSandstorm = {
   id: "01a06572-95cc-7df9-8688-27ba9eee8cd7",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "karaz-sandstorm",
   title: "Karaz Sandstorm",
   world: "world/the-wandering-inn",

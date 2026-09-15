@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const immaterialRoomOfForce = {
   id: "01a06572-95cb-74cb-bd60-65fcb1ff299a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "immaterial-room-of-force",
   title: "Immaterial Room of Force",
   world: "world/the-wandering-inn",

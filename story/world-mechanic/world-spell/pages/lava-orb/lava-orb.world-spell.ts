@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const lavaOrb = {
   id: "01a06572-95cc-70ba-925f-de8d475f9315",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "lava-orb",
   title: "Lava Orb",
   world: "world/the-wandering-inn",

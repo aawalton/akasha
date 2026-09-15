@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const hiccupRemoval = {
   id: "01a06572-95c8-794e-9a1c-bc104e163f18",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "hiccup-removal",
   title: "Hiccup Removal",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const ichorBurst = {
   id: "01a06572-95ca-7fd0-b8f9-cd8214c8ef36",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "ichor-burst",
   title: "Ichor Burst",
   world: "world/the-wandering-inn",

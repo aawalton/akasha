@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const invisibleArrow = {
   id: "01a06572-95cc-73b5-a1a1-5f154d02b9cf",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "invisible-arrow",
   title: "Invisible Arrow",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const intangibleSnatch = {
   id: "01a06572-95cb-7e08-9ecf-53a85b0e77b6",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "intangible-snatch",
   title: "Intangible Snatch",
   world: "world/the-wandering-inn",

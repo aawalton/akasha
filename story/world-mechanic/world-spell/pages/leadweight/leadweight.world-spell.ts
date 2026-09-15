@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const leadweight = {
   id: "01a06572-95cc-7824-af82-b3c20eb6c646",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "leadweight",
   title: "Leadweight",
   world: "world/the-wandering-inn",

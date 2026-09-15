@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const imperialSoulCage = {
   id: "01a06572-95cb-7ee8-89f6-44c41c8b7842",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "imperial-soul-cage",
   title: "Imperial Soul Cage",
   world: "world/the-wandering-inn",

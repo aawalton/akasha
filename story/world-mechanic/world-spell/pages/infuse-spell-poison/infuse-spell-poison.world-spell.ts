@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const infuseSpellPoison = {
   id: "01a06572-95cb-7698-ab2f-6e284ab63fda",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "infuse-spell-poison",
   title: "Infuse Spell: Poison",
   world: "world/the-wandering-inn",
