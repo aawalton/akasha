@@ -42,6 +42,19 @@ test("a value stating everything a service needs is read as one", () => {
   expect(service?.enabled).toBe(true)
 })
 
+test("whether a service is told is read from its page", () => {
+  expect(serviceIn(ROOT, { ...WHOLE })?.told).toBe(undefined)
+  expect(serviceIn(ROOT, { ...WHOLE, told: false })?.told).toBe(false)
+  expect(serviceIn(ROOT, { ...WHOLE, told: "no" })?.told).toBe(undefined)
+})
+
+test("a service whose page states it is not told is read that way", () => {
+  const read = readFor(ROOT, "memory-reaper")
+  expect("refused" in read || "unnamed" in read).toBe(false)
+  if ("refused" in read || "unnamed" in read) return
+  expect(read.services[0]?.service.told).toBe(false)
+})
+
 test("a value missing what a service needs is read as none", () => {
   for (const key of ["id", "slug", "definition", "enabled"]) {
     const held: Record<string, unknown> = { ...WHOLE }

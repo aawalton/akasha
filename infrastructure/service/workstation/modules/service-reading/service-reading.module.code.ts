@@ -101,6 +101,7 @@ export function serviceIn(root: string, value: Value, codeAt: string = ""): Star
   const needsSecrets = value.needsSecrets
   const port = value.port
   const worksWithinSeconds = value.worksWithinSeconds
+  const told = value.told
   return {
     id,
     type: SERVICE_PAGE_TYPE,
@@ -112,6 +113,7 @@ export function serviceIn(root: string, value: Value, codeAt: string = ""): Star
     ...(typeof needsSecrets === "boolean" ? { needsSecrets } : {}),
     ...(typeof port === "number" ? { port } : {}),
     ...(typeof worksWithinSeconds === "number" ? { worksWithinSeconds } : {}),
+    ...(typeof told === "boolean" ? { told } : {}),
   }
 }
 

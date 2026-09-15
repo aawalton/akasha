@@ -34,6 +34,10 @@ export const serviceReading = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "Whether a service is told is read from that service's page.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "An option this system does not have is dropped rather than carried through.",
     },
     {
