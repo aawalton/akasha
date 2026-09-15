@@ -252,7 +252,12 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The largest peak the total says is the largest peak any one run reached.",
+      statement: "The largest peak the total says is the largest peak any one record reached.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "The most time the total says is what one whole run took rather than what one record took.",
     },
   ],
 } as const satisfies Module

@@ -258,6 +258,16 @@ export function costOf(check: string, runs: readonly Run[]): CheckCost {
   }
 }
 
+function wholeRuns(runs: readonly Run[], what: (one: Run) => number): readonly number[] {
+  const found = new Map<string, number>()
+  const loose: number[] = []
+  for (const one of runs) {
+    if (one.runId === null) loose.push(what(one))
+    else found.set(one.runId, (found.get(one.runId) ?? 0) + what(one))
+  }
+  return [...found.values(), ...loose]
+}
+
 export function totalOf(runs: readonly Run[]): Total {
   const count = latestOf(runs).size
   const shared = (what: (one: Run) => number): number | null =>
@@ -265,9 +275,9 @@ export function totalOf(runs: readonly Run[]): Total {
   return {
     runs: count,
     cpu: shared((one) => one.cpu),
-    cpuMost: mostOf(runs.map((one) => one.cpu)),
+    cpuMost: mostOf(wholeRuns(runs, (one) => one.cpu)),
     wall: shared((one) => one.wall),
-    wallMost: mostOf(runs.map((one) => one.wall)),
+    wallMost: mostOf(wholeRuns(runs, (one) => one.wall)),
     memMost: mostOf(memoryOf(runs)),
   }
 }

@@ -216,7 +216,7 @@ test("one run's runs are the runs of every check that run judged", () => {
   const costs = costsIn(root, NOW, LAST_RUN)
 
   expect(costs.checks.map((one) => one.check)).toEqual(["two", "one"])
-  expect(costs.total).toEqual({ runs: 1, cpu: 5, cpuMost: 3, wall: 0, wallMost: 0, memMost: 0 })
+  expect(costs.total).toEqual({ runs: 1, cpu: 5, cpuMost: 5, wall: 0, wallMost: 0, memMost: 0 })
 })
 
 test("the total shares the processor and the elapsed time over the distinct runs read", () => {
@@ -231,15 +231,16 @@ test("the total shares the processor and the elapsed time over the distinct runs
   expect([total.runs, total.cpu, total.wall]).toEqual([2, 5, 5])
 })
 
-test("the total says the most any one run took and the largest peak any one reached", () => {
+test("the most the total says of a time is what one whole run took", () => {
   const total = totalOf(
     runsOf([
       { phase: "change", runId: ONE, cpuSeconds: 3, wallMs: 1000, peakAddedBytes: 2048 },
-      { phase: "change", runId: TWO, cpuSeconds: 8, wallMs: 4000, peakAddedBytes: 512 },
+      { phase: "change", runId: ONE, cpuSeconds: 4, wallMs: 2000, peakAddedBytes: 512 },
+      { phase: "change", runId: TWO, cpuSeconds: 5, wallMs: 2500, peakAddedBytes: 99 },
     ])
   )
 
-  expect([total.cpuMost, total.wallMost, total.memMost]).toEqual([8, 4, 2048])
+  expect([total.cpuMost, total.wallMost, total.memMost]).toEqual([7, 3, 2048])
 })
 
 test("no run at all totals no processor time rather than a time of zero", () => {
