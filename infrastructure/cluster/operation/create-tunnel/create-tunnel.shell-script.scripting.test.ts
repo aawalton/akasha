@@ -7,7 +7,7 @@ import {
   credsPageIn,
   sourcedIn,
   tunnelConfigIn,
-} from "akasha/infrastructure/cluster/operations/create-tunnel/create-tunnel.shell-script.scripting.code.ts"
+} from "akasha/infrastructure/cluster/operation/create-tunnel/create-tunnel.shell-script.scripting.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()

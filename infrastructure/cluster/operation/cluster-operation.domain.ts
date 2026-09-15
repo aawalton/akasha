@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const clusterOperations = {
+export const clusterOperation = {
   id: "01a06865-abff-7010-adce-58aea93b2f89",
   type: "domain",
-  slug: "cluster-operations",
+  slug: "cluster-operation",
   definition: "the cluster tended by hand from the workstation",
   parts: [
     "shell-script/bootstrap-namespace",

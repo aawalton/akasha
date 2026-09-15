@@ -4,16 +4,16 @@ import { dirname, join } from "node:path"
 import {
   bodyIn,
   sourcedIn,
-} from "akasha/infrastructure/cluster/operations/registry-gc/registry-gc.shell-script.scripting.code.ts"
+} from "akasha/infrastructure/cluster/operation/rotate-age-key/rotate-age-key.shell-script.scripting.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 
 const HERE = dirname(import.meta.path)
 
-const SCRIPT = "registry-gc.shell-script.shell.sh"
+const SCRIPT = "rotate-age-key.shell-script.shell.sh"
 
-const OWN = "registry-gc.shell-script.scripting.code.ts"
+const OWN = "rotate-age-key.shell-script.scripting.code.ts"
 
 const SPELT = "operations"
 

@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import {
   bodyIn,
   libraryAt,
-} from "akasha/infrastructure/cluster/operations/rotate-cf-token/rotate-cf-token.shell-script.scripting.code.ts"
+} from "akasha/infrastructure/cluster/operation/rotate-cf-token/rotate-cf-token.shell-script.scripting.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()

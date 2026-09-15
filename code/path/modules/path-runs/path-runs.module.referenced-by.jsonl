@@ -2,5 +2,5 @@
 {"propertySlug":"import","fileName":"path-runs.module.code.ts","path":"change/modules/import-repointing/import-repointing.module.code.ts"}
 {"propertySlug":"import","fileName":"path-runs.module.code.ts","path":"check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"path-runs.module.code.ts","path":"code/path/modules/path-runs/path-runs.module.test.ts"}
-{"propertySlug":"import","fileName":"path-runs.module.code.ts","path":"infrastructure/cluster/operations/promote/promote.shell-script.scripting.test.ts"}
+{"propertySlug":"import","fileName":"path-runs.module.code.ts","path":"infrastructure/cluster/operation/promote/promote.shell-script.scripting.test.ts"}
 {"propertySlug":"parts","path":"code/path/code-path.domain.ts","id":"01a09b2a-d60f-7700-b4b4-7b97bc6ba190"}

@@ -6,7 +6,7 @@ import {
   dnsBesideIn,
   nodesBesideIn,
   ownShellIn,
-} from "akasha/infrastructure/cluster/operations/deploy-functions/deploy-functions.shell-script.scripting.code.ts"
+} from "akasha/infrastructure/cluster/operation/deploy-functions/deploy-functions.shell-script.scripting.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()

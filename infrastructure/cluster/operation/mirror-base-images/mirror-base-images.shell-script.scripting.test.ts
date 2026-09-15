@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import {
   bodyIn,
   rootsShellIn,
-} from "akasha/infrastructure/cluster/operations/mirror-base-images/mirror-base-images.shell-script.scripting.code.ts"
+} from "akasha/infrastructure/cluster/operation/mirror-base-images/mirror-base-images.shell-script.scripting.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()

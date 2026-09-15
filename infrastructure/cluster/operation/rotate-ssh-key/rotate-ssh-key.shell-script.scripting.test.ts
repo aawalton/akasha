@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import {
   bodyIn,
   sourcedIn,
-} from "akasha/infrastructure/cluster/operations/rotate-ssh-key/rotate-ssh-key.shell-script.scripting.code.ts"
+} from "akasha/infrastructure/cluster/operation/rotate-ssh-key/rotate-ssh-key.shell-script.scripting.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
