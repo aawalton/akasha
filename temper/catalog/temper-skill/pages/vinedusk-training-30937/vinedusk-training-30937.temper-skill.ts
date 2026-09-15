@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vineduskTraining30937 = {
   id: "019e6f53-a9c8-71c8-bd02-105803ecce08",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vinedusk-training-30937",
   title: "Vinedusk Training",
   key: "vinedusk-training-30937",

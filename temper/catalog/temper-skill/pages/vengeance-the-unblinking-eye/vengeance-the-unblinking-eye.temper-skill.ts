@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceTheUnblinkingEye = {
   id: "019e6f53-a9a0-747a-92ee-9351aeae8d9f",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-the-unblinking-eye",
   title: "Vengeance The Unblinking Eye",
   key: "vengeance-the-unblinking-eye",

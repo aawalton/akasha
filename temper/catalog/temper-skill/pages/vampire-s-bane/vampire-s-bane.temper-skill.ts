@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vampireSBane = {
   id: "019e6f53-a8a1-7067-abcd-2fb4c471f908",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vampire-s-bane",
   title: "Vampire's Bane",
   key: "vampire-s-bane",

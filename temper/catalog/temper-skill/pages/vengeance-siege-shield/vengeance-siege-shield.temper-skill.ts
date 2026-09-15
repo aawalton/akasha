@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceSiegeShield = {
   id: "019e6f53-a983-7813-92a1-146affb23ac7",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-siege-shield",
   title: "Vengeance Siege Shield",
   key: "vengeance-siege-shield",

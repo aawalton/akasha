@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceCriticalCharge = {
   id: "019e6f53-a8dc-7c38-b41a-b2f3a5404341",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-critical-charge",
   title: "Vengeance Critical Charge",
   key: "vengeance-critical-charge",

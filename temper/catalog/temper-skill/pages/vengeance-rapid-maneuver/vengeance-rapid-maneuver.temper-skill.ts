@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceRapidManeuver = {
   id: "019e6f53-a95e-7333-808d-61e118acacda",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-rapid-maneuver",
   title: "Vengeance Rapid Maneuver",
   key: "vengeance-rapid-maneuver",

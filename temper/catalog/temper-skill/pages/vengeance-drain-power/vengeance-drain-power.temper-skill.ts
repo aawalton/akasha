@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceDrainPower = {
   id: "019e6f53-a8f7-73dd-accf-012d9f9ae628",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-drain-power",
   title: "Vengeance Drain Power",
   key: "vengeance-drain-power",

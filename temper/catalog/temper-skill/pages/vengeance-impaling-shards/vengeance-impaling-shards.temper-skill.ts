@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceImpalingShards = {
   id: "019e6f53-a927-7f53-a20c-5d874337e19f",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-impaling-shards",
   title: "Vengeance Impaling Shards",
   key: "vengeance-impaling-shards",

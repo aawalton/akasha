@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceObsidianShield = {
   id: "019e6f53-a947-7403-ab57-50503d247a5b",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-obsidian-shield",
   title: "Vengeance Obsidian Shield",
   key: "vengeance-obsidian-shield",

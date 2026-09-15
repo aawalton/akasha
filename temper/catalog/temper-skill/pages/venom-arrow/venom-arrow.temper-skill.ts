@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const venomArrow = {
   id: "019e6226-011d-7ec5-80f5-518c45102e32",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "venom-arrow",
   title: "Venom Arrow",
   key: "venom-arrow",

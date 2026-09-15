@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeancePowerBash = {
   id: "019e6f53-a954-741f-827a-6e96344e451c",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-power-bash",
   title: "Vengeance Power Bash",
   key: "vengeance-power-bash",

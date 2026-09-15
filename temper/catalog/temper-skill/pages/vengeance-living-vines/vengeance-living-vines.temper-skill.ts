@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceLivingVines = {
   id: "019e6f53-a933-7590-9f9a-008fde8c1d88",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-living-vines",
   title: "Vengeance Living Vines",
   key: "vengeance-living-vines",

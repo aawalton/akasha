@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceBlessingOfProtection = {
   id: "019e6f53-a8c2-711f-80a4-665743139c87",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-blessing-of-protection",
   title: "Vengeance Blessing of Protection",
   key: "vengeance-blessing-of-protection",

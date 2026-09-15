@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceNegateMagic = {
   id: "019e6f53-a944-7759-b0d5-3a89b285c80c",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-negate-magic",
   title: "Vengeance Negate Magic",
   key: "vengeance-negate-magic",

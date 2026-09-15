@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceRestoringTether = {
   id: "019e6f53-a966-7c05-874a-5491103a7234",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-restoring-tether",
   title: "Vengeance Restoring Tether",
   key: "vengeance-restoring-tether",

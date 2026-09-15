@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceCaltrops = {
   id: "019e6f53-a8ce-7d07-8ef0-b6cd6e589994",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-caltrops",
   title: "Vengeance Caltrops",
   key: "vengeance-caltrops",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceRunicDefense = {
   id: "019e6f53-a973-7c1f-b5d8-6fe939e23dc6",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-runic-defense",
   title: "Vengeance Runic Defense",
   key: "vengeance-runic-defense",

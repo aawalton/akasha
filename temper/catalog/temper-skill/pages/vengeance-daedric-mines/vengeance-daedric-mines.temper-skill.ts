@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceDaedricMines = {
   id: "019e6f53-a8e2-76cb-b62a-10fc81bb0b61",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-daedric-mines",
   title: "Vengeance Daedric Mines",
   key: "vengeance-daedric-mines",

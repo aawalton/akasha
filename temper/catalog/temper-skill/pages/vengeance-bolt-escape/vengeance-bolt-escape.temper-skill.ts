@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceBoltEscape = {
   id: "019e6f53-a8c6-7610-8f34-2e711258ccf7",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-bolt-escape",
   title: "Vengeance Bolt Escape",
   key: "vengeance-bolt-escape",

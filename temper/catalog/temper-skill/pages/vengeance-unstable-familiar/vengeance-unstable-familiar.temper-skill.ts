@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceUnstableFamiliar = {
   id: "019e6f53-a9a4-7810-bb4b-b509096df346",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-unstable-familiar",
   title: "Vengeance Unstable Familiar",
   key: "vengeance-unstable-familiar",

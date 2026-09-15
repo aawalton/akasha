@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeancePathOfDarkness = {
   id: "019e6f53-a94e-7477-b9a5-3528612e2893",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-path-of-darkness",
   title: "Vengeance Path of Darkness",
   key: "vengeance-path-of-darkness",

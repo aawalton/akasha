@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceDestructiveTouch = {
   id: "019e6f53-a8ec-7f4b-8e6f-dcae9a1ba714",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-destructive-touch",
   title: "Vengeance Destructive Touch",
   key: "vengeance-destructive-touch",

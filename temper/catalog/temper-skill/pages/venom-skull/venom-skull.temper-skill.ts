@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const venomSkull = {
   id: "019e6245-a761-73c9-87da-42524cdef78a",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "venom-skull",
   title: "Venom Skull",
   key: "venom-skull",

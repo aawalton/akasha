@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceVitalizingGlyphic = {
   id: "019e6f53-a9ab-7c6e-b32b-0156061f3f21",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-vitalizing-glyphic",
   title: "Vengeance Vitalizing Glyphic",
   key: "vengeance-vitalizing-glyphic",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceEntropy = {
   id: "019e6f53-a8ff-7be5-be72-043ce194bde0",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-entropy",
   title: "Vengeance Entropy",
   key: "vengeance-entropy",

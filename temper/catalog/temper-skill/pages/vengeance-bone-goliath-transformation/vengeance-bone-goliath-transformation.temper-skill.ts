@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceBoneGoliathTransformation = {
   id: "019e6f53-a8c9-71da-8f8b-19cd8e9af490",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-bone-goliath-transformation",
   title: "Vengeance Bone Goliath Transformation",
   key: "vengeance-bone-goliath-transformation",

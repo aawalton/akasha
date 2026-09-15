@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceEncase = {
   id: "019e6f53-a8fc-7cfc-8199-ad8d782d0809",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-encase",
   title: "Vengeance Encase",
   key: "vengeance-encase",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceFocusedCharge = {
   id: "019e6f53-a910-7c8e-a2f1-e172dd1aa376",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-focused-charge",
   title: "Vengeance Focused Charge",
   key: "vengeance-focused-charge",

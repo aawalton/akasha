@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceWeaknessToElements = {
   id: "019e6f53-a9b1-792a-856a-8297683583ae",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-weakness-to-elements",
   title: "Vengeance Weakness to Elements",
   key: "vengeance-weakness-to-elements",

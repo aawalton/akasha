@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceFatewovenArmor = {
   id: "019e6f53-a909-7a44-b1b1-d78183e84e5c",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "vengeance-fatewoven-armor",
   title: "Vengeance Fatewoven Armor",
   key: "vengeance-fatewoven-armor",
