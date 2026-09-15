@@ -36,4 +36,12 @@ export const clusterFoundation = {
   ],
   types: "ts",
   schema: "jsonl",
+  properties: [
+    {
+      pageProperty: "relation-property/service-manifest",
+      required: true,
+      many: true,
+      maxCount: null,
+    },
+  ],
 } as const satisfies PageType
