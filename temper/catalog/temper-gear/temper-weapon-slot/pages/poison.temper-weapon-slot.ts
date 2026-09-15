@@ -2,7 +2,7 @@ import type { TemperWeaponSlot } from "akasha/temper/catalog/temper-gear/temper-
 
 export const poison = {
   id: "019e4caa-ef02-779e-b5ad-800828d05231",
-  type: "temper-weapon-slot",
+  type: "page-type/temper-weapon-slot",
   slug: "poison",
   title: "Poison",
   key: "poison",
