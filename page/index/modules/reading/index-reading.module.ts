@@ -228,5 +228,13 @@ export const indexReading = {
       invariantKind: "departure",
       statement: "A fixture files no shape for a page stating no property slug.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A fixture files a relation beside the page named as well as in the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The naming page's id in that line is the one the index path is keyed by.",
+    },
   ],
 } as const satisfies Module

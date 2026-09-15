@@ -284,7 +284,7 @@ export function relationFiled(
   besideAdded(
     root,
     named.path,
-    pathedIn(lines).map((one) => ({ propertySlug, fileName: null, path: one.path, id: one.id }))
+    pathedIn(lines).map((one) => ({ propertySlug, fileName: null, path: one.path, id: from }))
   )
 }
 
