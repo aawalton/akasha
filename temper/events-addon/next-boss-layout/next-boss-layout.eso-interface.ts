@@ -2,7 +2,7 @@ import type { EsoInterface } from "akasha/code/eso-interface/eso-interface.page-
 
 export const nextBossLayout = {
   id: "01a06157-835b-7886-981b-c885f8cbe8e7",
-  type: "eso-interface",
+  type: "page-type/eso-interface",
   slug: "next-boss-layout",
   definition: "the timetable window and the district labels drawn over the Imperial City map",
   markup: "xml",

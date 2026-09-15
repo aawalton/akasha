@@ -2,7 +2,7 @@ import type { EsoInterface } from "akasha/code/eso-interface/eso-interface.page-
 
 export const itemBrowserLayout = {
   id: "01a0624c-a660-7557-96b8-3a4e90b786d8",
-  type: "eso-interface",
+  type: "page-type/eso-interface",
   slug: "item-browser-layout",
   definition: "the item-set browser frame with its sortable headings and its list row template",
   markup: "xml",

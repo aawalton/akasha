@@ -2,7 +2,7 @@ import type { EsoInterface } from "akasha/code/eso-interface/eso-interface.page-
 
 export const scrollableMenuControls = {
   id: "01a06275-c447-7a91-b3a6-e3e6daef8679",
-  type: "eso-interface",
+  type: "page-type/eso-interface",
   slug: "scrollable-menu-controls",
   definition: "the row, header and dropdown controls every menu of this library is built from",
   markup: "xml",

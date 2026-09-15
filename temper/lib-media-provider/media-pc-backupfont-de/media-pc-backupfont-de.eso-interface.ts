@@ -2,7 +2,7 @@ import type { EsoInterface } from "akasha/code/eso-interface/eso-interface.page-
 
 export const mediaPcBackupfontDe = {
   id: "01a06069-f8c4-7f77-9415-831c11b81963",
-  type: "eso-interface",
+  type: "page-type/eso-interface",
   slug: "media-pc-backupfont-de",
   definition: "the fallback fonts a Windows or Mac client loads for German",
   markup: "xml",

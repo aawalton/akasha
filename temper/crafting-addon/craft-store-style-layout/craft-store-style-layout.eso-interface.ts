@@ -2,7 +2,7 @@ import type { EsoInterface } from "akasha/code/eso-interface/eso-interface.page-
 
 export const craftStoreStyleLayout = {
   id: "01a061c7-e8c3-74e6-b11d-43519918ae62",
-  type: "eso-interface",
+  type: "page-type/eso-interface",
   slug: "craft-store-style-layout",
   definition: "the motif window and its style grid",
   markup: "xml",

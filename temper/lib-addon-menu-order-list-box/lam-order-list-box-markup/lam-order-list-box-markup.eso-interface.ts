@@ -2,7 +2,7 @@ import type { EsoInterface } from "akasha/code/eso-interface/eso-interface.page-
 
 export const lamOrderListBoxMarkup = {
   id: "01a06207-bdeb-77bc-a92f-e711237f036c",
-  type: "eso-interface",
+  type: "page-type/eso-interface",
   slug: "lam-order-list-box-markup",
   definition: "the row, the button and the pointer label an order list box is built out of",
   markup: "xml",

@@ -2,7 +2,7 @@ import type { EsoInterface } from "akasha/code/eso-interface/eso-interface.page-
 
 export const craftStoreFonts = {
   id: "01a061c7-e8c0-7c94-9c43-2face07e8a6c",
-  type: "eso-interface",
+  type: "page-type/eso-interface",
   slug: "craft-store-fonts",
   definition: "the fonts the crafting windows are written in",
   markup: "xml",

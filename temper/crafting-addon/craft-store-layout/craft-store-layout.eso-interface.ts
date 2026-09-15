@@ -2,7 +2,7 @@ import type { EsoInterface } from "akasha/code/eso-interface/eso-interface.page-
 
 export const craftStoreLayout = {
   id: "01a061c7-e8c1-7978-81b3-f8b93588d643",
-  type: "eso-interface",
+  type: "page-type/eso-interface",
   slug: "craft-store-layout",
   definition:
     "the main crafting panel: its buttons, its character rows and the windows behind them",

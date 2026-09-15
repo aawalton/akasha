@@ -2,7 +2,7 @@ import type { EsoInterface } from "akasha/code/eso-interface/eso-interface.page-
 
 export const mediaConsoleBackupfontJp = {
   id: "01a06069-f8c2-73a3-bccc-0a7f6d8bc712",
-  type: "eso-interface",
+  type: "page-type/eso-interface",
   slug: "media-console-backupfont-jp",
   definition: "the fallback fonts a console client loads for Japanese",
   markup: "xml",

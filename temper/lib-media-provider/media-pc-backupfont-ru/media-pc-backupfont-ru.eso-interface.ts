@@ -2,7 +2,7 @@ import type { EsoInterface } from "akasha/code/eso-interface/eso-interface.page-
 
 export const mediaPcBackupfontRu = {
   id: "01a06069-f8c6-7ccd-b0fc-60b97479efa5",
-  type: "eso-interface",
+  type: "page-type/eso-interface",
   slug: "media-pc-backupfont-ru",
   definition: "the fallback fonts a Windows or Mac client loads for Russian",
   markup: "xml",
