@@ -2544,7 +2544,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon-build/modules/consolidation-migrations/consolidation-migrations.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon-build/modules/global-name-dependents/global-name-dependents.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon-build/modules/lua-build-command/lua-build-command.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon-color/modules/unpack-color/unpack-color.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon-log/modules/addon-log/addon-log.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon-log/modules/library-logger/library-logger.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addons-resolve/modules/addon-json/addon-json.module.ts"}
@@ -5503,6 +5502,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/lua-runner/modules/persistent-vm/persistent-vm.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/addon-init/addon-init.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/narrow/modules/is-callback/is-callback.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/narrow/modules/is-table/is-table.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/narrow/modules/lua-string-contains/lua-string-contains.module.ts"}

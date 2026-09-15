@@ -1,4 +1,4 @@
-import { unpackRgba } from "akasha/temper/addon-color/modules/unpack-color/unpack-color.module.code.ts"
+import { unpackRgba } from "akasha/temper/modules/unpack-color/unpack-color.module.code.ts"
 import {
   DEST_PIN_TINT_OTHER,
   DEST_PIN_TINT_OTHER_DONE,

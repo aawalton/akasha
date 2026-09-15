@@ -1,4 +1,3 @@
-import { unpackRgba } from "akasha/temper/addon-color/modules/unpack-color/unpack-color.module.code.ts"
 import {
   newColorDef,
   setTextureColor,
@@ -18,6 +17,7 @@ import {
   PIN_TEXTURES,
 } from "akasha/temper/dungeon-champion/modules/dungeon-champion-pin-textures/dungeon-champion-pin-textures.module.code.ts"
 import { getSavedVariables } from "akasha/temper/dungeon-champion/modules/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"
+import { unpackRgba } from "akasha/temper/modules/unpack-color/unpack-color.module.code.ts"
 import { dropdown } from "akasha/temper/settings-panel/modules/dropdown/dropdown.module.code.ts"
 import { header } from "akasha/temper/settings-panel/modules/header/header.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
