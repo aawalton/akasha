@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"name-drawing.module.code.ts","path":"command/modules/flags/command-flags.module.code.ts"}
 {"propertySlug":"import","fileName":"name-drawing.module.code.ts","path":"command/pages/domain/declaration-list/domain-declaration-list.command.code.ts"}
 {"propertySlug":"import","fileName":"name-drawing.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.code.ts"}
+{"propertySlug":"import","fileName":"name-drawing.module.code.ts","path":"command/pages/measure/closure/measure-closure.command.code.ts"}
 {"propertySlug":"import","fileName":"name-drawing.module.code.ts","path":"command/pages/measure/performance/measure-performance.command.code.ts"}
 {"propertySlug":"import","fileName":"name-drawing.module.code.ts","path":"command/pages/page/secret/list/page-secret-list.command.code.ts"}
 {"propertySlug":"import","fileName":"name-drawing.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}

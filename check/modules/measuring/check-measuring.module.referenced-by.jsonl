@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"check-measuring.module.code.ts","path":"command/pages/measure/change/modules/change-measuring/change-measuring.module.code.ts"}
 {"propertySlug":"import","fileName":"check-measuring.module.code.ts","path":"command/pages/measure/change/modules/change-measuring/change-measuring.module.test.ts"}
 {"propertySlug":"import","fileName":"check-measuring.module.code.ts","path":"command/pages/measure/check/measure-check.command.code.ts"}
+{"propertySlug":"import","fileName":"check-measuring.module.code.ts","path":"command/pages/measure/closure/measure-closure.command.code.ts"}
 {"propertySlug":"import","fileName":"check-measuring.module.code.ts","path":"command/pages/measure/command/measure-command.command.code.ts"}
 {"propertySlug":"import","fileName":"check-measuring.module.code.ts","path":"command/pages/measure/command/modules/command-measuring/command-measuring.module.code.ts"}
 {"propertySlug":"import","fileName":"check-measuring.module.code.ts","path":"command/pages/measure/command/modules/command-measuring/command-measuring.module.test.ts"}

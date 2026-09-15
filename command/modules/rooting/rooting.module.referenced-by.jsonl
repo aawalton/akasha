@@ -81,6 +81,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/measure/call/measure-call.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/measure/change/measure-change.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/measure/check/measure-check.command.test.ts"}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/measure/closure/measure-closure.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/measure/command/measure-command.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/measure/complexity/halstead/measure-complexity-halstead.command.test.ts"}

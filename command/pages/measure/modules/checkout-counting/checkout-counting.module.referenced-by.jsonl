@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"checkout-counting.module.code.ts","path":"check/modules/measuring/check-measuring.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-counting.module.code.ts","path":"command/pages/measure/closure/measure-closure.command.code.ts"}
 {"propertySlug":"import","fileName":"checkout-counting.module.code.ts","path":"command/pages/measure/modules/checkout-counting/checkout-counting.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-counting.module.code.ts","path":"command/pages/measure/page/modules/page-measuring/page-measuring.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-counting.module.code.ts","path":"command/pages/measure/repo/modules/repo-measuring/repo-measuring.module.code.ts"}

@@ -183,6 +183,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/measure/call/measure-call.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/measure/change/measure-change.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/measure/check/measure-check.command.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/measure/closure/measure-closure.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/measure/command/measure-command.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/measure/deploy/measure-deploy.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/measure/guard/measure-guard.command.code.ts"}

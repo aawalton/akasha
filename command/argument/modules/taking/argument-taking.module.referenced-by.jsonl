@@ -104,6 +104,7 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/measure/call/measure-call.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/measure/change/measure-change.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/measure/check/measure-check.command.code.ts"}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/measure/closure/measure-closure.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/measure/command/measure-command.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/measure/complexity/halstead/measure-complexity-halstead.command.code.ts"}
