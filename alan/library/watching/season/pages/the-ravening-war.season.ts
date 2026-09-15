@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const theRaveningWar = {
   id: "01a06802-b8bf-702e-955a-4c71c47d18a6",
-  type: "season",
+  type: "page-type/season",
   slug: "the-ravening-war",
   title: "The Ravening War",
   partOfCollections: ["show/dimension-20"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const titanTakedown = {
   id: "01a06802-b8c0-7006-843d-482c7789dc73",
-  type: "season",
+  type: "page-type/season",
   slug: "titan-takedown",
   title: "Titan Takedown",
   partOfCollections: ["show/dimension-20"],

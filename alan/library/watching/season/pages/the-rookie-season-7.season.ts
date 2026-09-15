@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const theRookieSeason7 = {
   id: "01a06802-b8bf-7035-ad30-2f39d90ea69e",
-  type: "season",
+  type: "page-type/season",
   slug: "the-rookie-season-7",
   title: "The Rookie Season 7",
   partOfCollections: ["show/the-rookie"],

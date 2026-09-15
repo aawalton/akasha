@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const theMentalistSpecials = {
   id: "01a06802-b8bf-7023-828e-0925dce21d89",
-  type: "season",
+  type: "page-type/season",
   slug: "the-mentalist-specials",
   title: "The Mentalist Specials",
   partOfCollections: ["show/the-mentalist"],

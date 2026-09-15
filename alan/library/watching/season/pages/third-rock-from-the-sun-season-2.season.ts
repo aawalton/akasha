@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const thirdRockFromTheSunSeason2 = {
   id: "01a06802-b8b7-7001-bba0-1ee957c908d4",
-  type: "season",
+  type: "page-type/season",
   slug: "third-rock-from-the-sun-season-2",
   title: "3rd Rock from the Sun Season 2",
   partOfCollections: ["show/third-rock-from-the-sun"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const torchwoodSeason2 = {
   id: "01a06802-b8c0-7008-9c14-4b138beac981",
-  type: "season",
+  type: "page-type/season",
   slug: "torchwood-season-2",
   title: "Torchwood Season 2",
   partOfCollections: ["show/torchwood"],

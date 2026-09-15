@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const theOfficeSeason6 = {
   id: "01a06802-b8bf-7029-85ac-de379e9d5412",
-  type: "season",
+  type: "page-type/season",
   slug: "the-office-season-6",
   title: "The Office Season 6",
   partOfCollections: ["show/the-office"],

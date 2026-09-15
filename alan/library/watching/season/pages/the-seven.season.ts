@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const theSeven = {
   id: "01a06802-b8bf-703c-b9d2-bee9f8c2474e",
-  type: "season",
+  type: "page-type/season",
   slug: "the-seven",
   title: "The Seven",
   partOfCollections: ["show/dimension-20"],

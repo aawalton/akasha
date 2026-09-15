@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const theSarahJaneAdventuresSeason5 = {
   id: "01a06802-b8bf-703a-bc1d-95d13af680f7",
-  type: "season",
+  type: "page-type/season",
   slug: "the-sarah-jane-adventures-season-5",
   title: "The Sarah Jane Adventures Season 5",
   partOfCollections: ["show/the-sarah-jane-adventures"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const theTwilightZoneSeason3 = {
   id: "01a06802-b8bf-7045-b282-54f847b65f0d",
-  type: "season",
+  type: "page-type/season",
   slug: "the-twilight-zone-season-3",
   title: "The Twilight Zone Season 3",
   partOfCollections: ["show/the-twilight-zone-1985"],

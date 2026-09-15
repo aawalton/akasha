@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const wandavisionSpecials = {
   id: "01a06802-b8c0-700f-b630-9d1ea3f0dc87",
-  type: "season",
+  type: "page-type/season",
   slug: "wandavision-specials",
   title: "WandaVision Specials",
   partOfCollections: ["show/wandavision"],

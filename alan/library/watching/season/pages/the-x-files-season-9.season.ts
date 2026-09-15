@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const theXFilesSeason9 = {
   id: "01a06802-b8c0-7003-80db-efbbbf23cf8b",
-  type: "season",
+  type: "page-type/season",
   slug: "the-x-files-season-9",
   title: "The X-Files Season 9",
   partOfCollections: ["show/the-x-files-1993-2002"],

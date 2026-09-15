@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const wednesdaySeason2 = {
   id: "01a06802-b8c0-7017-be2c-cdc7ee24d7ea",
-  type: "season",
+  type: "page-type/season",
   slug: "wednesday-season-2",
   title: "Wednesday Season 2",
   partOfCollections: ["show/wednesday"],

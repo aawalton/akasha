@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const uploadSeason1 = {
   id: "01a06802-b8c0-700a-b94e-6dfd23b8c276",
-  type: "season",
+  type: "page-type/season",
   slug: "upload-season-1",
   title: "Upload Season 1",
   partOfCollections: ["show/upload"],

@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const whatIfSeason3 = {
   id: "01a06802-b8c0-701a-8f60-41ee66bf4541",
-  type: "season",
+  type: "page-type/season",
   slug: "what-if-season-3",
   title: "What If...? Season 3",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

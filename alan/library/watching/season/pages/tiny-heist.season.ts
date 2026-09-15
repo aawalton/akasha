@@ -2,7 +2,7 @@ import type { Season } from "akasha/alan/library/watching/season/season.page-typ
 
 export const tinyHeist = {
   id: "01a06802-b8c0-7005-b84d-7c6830308a02",
-  type: "season",
+  type: "page-type/season",
   slug: "tiny-heist",
   title: "Tiny Heist",
   partOfCollections: ["show/dimension-20"],
