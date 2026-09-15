@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftBlankSpace = {
   id: "019ea416-0298-7727-96de-056ed3e397b8",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-blank-space",
   title: "Blank Space",
   artist: "artist/taylor-swift",

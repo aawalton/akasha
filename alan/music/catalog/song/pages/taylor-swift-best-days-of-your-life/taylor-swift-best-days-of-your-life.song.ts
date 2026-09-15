@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftBestDaysOfYourLife = {
   id: "019ea416-146c-75ff-bcae-3520d4523e44",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-best-days-of-your-life",
   title: "Best Days of Your Life",
   artist: "artist/taylor-swift",

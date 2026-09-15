@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftConeyIsland = {
   id: "019ea416-037c-79d3-a4cd-545884fab647",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-coney-island",
   title: "coney island",
   artist: "artist/taylor-swift",

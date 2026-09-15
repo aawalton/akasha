@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaWelcomeToTheWonderfulWorldOf = {
   id: "019ea4cd-7899-7e9e-b148-ff833161991c",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-welcome-to-the-wonderful-world-of",
   title: "Welcome to the Wonderful World Of",
   artist: "artist/sia",

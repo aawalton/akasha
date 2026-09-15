@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftHysteria = {
   id: "019ea416-2bbd-7418-8c9d-6f99f131cf29",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-hysteria",
   title: "Hysteria",
   artist: "artist/taylor-swift",

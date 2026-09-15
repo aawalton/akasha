@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftFortnight = {
   id: "019ea416-25f3-7554-ad69-20b644de7bc2",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-fortnight",
   title: "Fortnight",
   artist: "artist/taylor-swift",

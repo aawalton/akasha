@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftActingLikeABoy = {
   id: "019ea416-0d5a-79d1-a09f-693664af39d2",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-acting-like-a-boy",
   title: "Acting Like a Boy",
   artist: "artist/taylor-swift",

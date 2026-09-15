@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftGuiltyAsSin = {
   id: "019ea416-1e43-75a4-9e7a-e137f7100f59",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-guilty-as-sin",
   title: "Guilty as Sin?",
   artist: "artist/taylor-swift",

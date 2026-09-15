@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftLavenderHaze = {
   id: "019ea416-1e10-75c4-bb8c-63e01cc2ae8c",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-lavender-haze",
   title: "Lavender Haze",
   artist: "artist/taylor-swift",

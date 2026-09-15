@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftFearless = {
   id: "019ea416-1e78-7915-a213-4e0496f203fa",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-fearless",
   title: "Fearless",
   artist: "artist/taylor-swift",

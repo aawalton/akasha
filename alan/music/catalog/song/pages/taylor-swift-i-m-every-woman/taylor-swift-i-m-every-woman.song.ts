@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftIMEveryWoman = {
   id: "019ea416-1b78-726a-aa87-ab27d2879237",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-i-m-every-woman",
   title: "I’m Every Woman",
   artist: "artist/taylor-swift",

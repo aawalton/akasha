@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftAPerfectlyGoodHeart = {
   id: "019ea416-1306-7f3f-8315-2787b145240c",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-a-perfectly-good-heart",
   title: "A Perfectly Good Heart",
   artist: "artist/taylor-swift",

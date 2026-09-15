@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftDramaQueen = {
   id: "019ea416-0ec8-73a6-b603-df45762a96ac",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-drama-queen",
   title: "Drama Queen",
   artist: "artist/taylor-swift",

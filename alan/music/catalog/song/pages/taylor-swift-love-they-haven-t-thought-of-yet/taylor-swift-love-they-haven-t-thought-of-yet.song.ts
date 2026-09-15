@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftLoveTheyHavenTThoughtOfYet = {
   id: "019ea416-2203-750f-a88c-fd98bc97ed3e",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-love-they-haven-t-thought-of-yet",
   title: "Love They Haven't Thought Of Yet",
   artist: "artist/taylor-swift",

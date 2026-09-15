@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftItSTimeToGo = {
   id: "019ea416-2b25-7388-bfad-de2c3e59ae6b",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-it-s-time-to-go",
   title: "it’s time to go",
   artist: "artist/taylor-swift",

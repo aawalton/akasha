@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftIDidSomethingBad = {
   id: "019ea416-2ac0-7b2a-b930-c5bd91375d90",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-i-did-something-bad",
   title: "I Did Something Bad",
   artist: "artist/taylor-swift",

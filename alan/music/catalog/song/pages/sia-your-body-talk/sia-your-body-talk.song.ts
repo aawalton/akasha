@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaYourBodyTalk = {
   id: "019ea4ca-90aa-7b19-8a11-6fcb0388b608",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-your-body-talk",
   title: "Your Body Talk",
   artist: "artist/sia",

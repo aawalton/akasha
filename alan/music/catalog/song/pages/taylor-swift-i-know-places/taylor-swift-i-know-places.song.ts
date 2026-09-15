@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftIKnowPlaces = {
   id: "019ea416-2b8a-775e-9fd5-3b53c64d0eb6",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-i-know-places",
   title: "I Know Places",
   artist: "artist/taylor-swift",

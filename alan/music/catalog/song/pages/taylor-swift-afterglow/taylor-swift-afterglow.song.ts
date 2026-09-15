@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftAfterglow = {
   id: "019ea416-1164-73ac-9224-9b8106bba941",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-afterglow",
   title: "Afterglow",
   artist: "artist/taylor-swift",

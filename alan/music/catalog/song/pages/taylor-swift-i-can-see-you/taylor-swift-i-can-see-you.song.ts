@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftICanSeeYou = {
   id: "019ea416-22de-7d3e-b2a8-a0ae55bb30fa",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-i-can-see-you",
   title: "I Can See You",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftEvermore = {
   id: "019ea416-0555-7b7a-ac17-0202e8b1e550",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-evermore",
   title: "evermore",
   artist: "artist/taylor-swift",

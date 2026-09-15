@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftHowYouGetTheGirl = {
   id: "019ea416-195e-779d-a672-62c42bec1ba7",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-how-you-get-the-girl",
   title: "How You Get the Girl",
   artist: "artist/taylor-swift",

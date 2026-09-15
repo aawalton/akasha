@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftGoldRush = {
   id: "019ea416-1a34-7263-a338-b5c3776d5710",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-gold-rush",
   title: "gold rush",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftIWishYouWould = {
   id: "019ea416-2052-7448-88b1-4361f2076ac7",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-i-wish-you-would",
   title: "I Wish You Would",
   artist: "artist/taylor-swift",

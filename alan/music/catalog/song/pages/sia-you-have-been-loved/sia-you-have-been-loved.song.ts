@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaYouHaveBeenLoved = {
   id: "019ea4ce-0e3f-7213-94bf-c8645fc41714",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-you-have-been-loved",
   title: "You Have Been Loved",
   artist: "artist/sia",

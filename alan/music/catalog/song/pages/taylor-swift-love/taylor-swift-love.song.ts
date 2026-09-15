@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftLove = {
   id: "019ea416-1a85-7538-a7c9-c1c3cf00b89d",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-love",
   title: "Love",
   artist: "artist/taylor-swift",

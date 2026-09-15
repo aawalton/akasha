@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftClothesFromMissMabel = {
   id: "019ea416-0cf1-7101-9601-658c61beb4d1",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-clothes-from-miss-mabel",
   title: "Clothes From Miss Mabel",
   artist: "artist/taylor-swift",

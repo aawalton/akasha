@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftForeverAlways = {
   id: "019ea416-1ddf-7421-ae69-caaec616ca50",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-forever-always",
   title: "Forever & Always",
   artist: "artist/taylor-swift",

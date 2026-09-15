@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftIAmEveryShellWashedUponTheShore = {
   id: "019ea416-2bf0-74b0-91e1-513e4ad7ed43",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-i-am-every-shell-washed-upon-the-shore",
   title: "I Am Every Shell Washed Upon the Shore",
   artist: "artist/taylor-swift",

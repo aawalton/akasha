@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftJumpThenFall = {
   id: "019ea416-2161-70cc-9793-f98d5f143883",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-jump-then-fall",
   title: "Jump Then Fall",
   artist: "artist/taylor-swift",

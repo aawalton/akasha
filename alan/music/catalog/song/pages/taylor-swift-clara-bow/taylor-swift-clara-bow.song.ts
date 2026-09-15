@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftClaraBow = {
   id: "019ea416-0cb9-755b-9eb7-fa233bfa866e",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-clara-bow",
   title: "Clara Bow",
   artist: "artist/taylor-swift",

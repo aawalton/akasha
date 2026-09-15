@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftBothOfUs = {
   id: "019ea416-10f0-7771-ba66-efeb5c3db614",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-both-of-us",
   title: "Both of Us",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftEndGame = {
   id: "019ea416-1781-75b9-8354-124de46224fe",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-end-game",
   title: "End Game",
   artist: "artist/taylor-swift",

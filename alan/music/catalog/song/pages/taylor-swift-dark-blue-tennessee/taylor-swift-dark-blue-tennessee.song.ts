@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftDarkBlueTennessee = {
   id: "019ea416-136d-7c7e-aa15-08f98a30268c",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-dark-blue-tennessee",
   title: "Dark Blue Tennessee",
   artist: "artist/taylor-swift",

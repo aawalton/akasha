@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftHighInfidelity = {
   id: "019ea416-2821-7c4b-a4df-ba180341d7b6",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-high-infidelity",
   title: "High Infidelity",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftLoverRemix = {
   id: "019ea416-1826-7675-8ba0-c87092e7852c",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-lover-remix",
   title: "Lover (remix)",
   artist: "artist/taylor-swift",

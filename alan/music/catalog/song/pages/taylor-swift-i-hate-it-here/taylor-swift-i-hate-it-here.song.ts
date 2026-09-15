@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftIHateItHere = {
   id: "019ea416-2b57-7b22-8a9b-4e5f4b9dccfc",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-i-hate-it-here",
   title: "I Hate It Here",
   artist: "artist/taylor-swift",

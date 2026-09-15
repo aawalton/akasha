@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftLongLive2 = {
   id: "019ea416-27ee-7ce7-8892-2ac28ebb6d7d",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-long-live-2",
   title: "Long Live",
   artist: "artist/taylor-swift",

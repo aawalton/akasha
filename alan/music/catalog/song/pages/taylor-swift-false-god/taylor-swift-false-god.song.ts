@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftFalseGod = {
   id: "019ea416-255a-78b7-8db2-c4c0c34bd4b7",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-false-god",
   title: "False God",
   artist: "artist/taylor-swift",

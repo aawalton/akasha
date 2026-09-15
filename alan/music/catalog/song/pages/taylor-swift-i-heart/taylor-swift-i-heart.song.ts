@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftIHeart = {
   id: "019ea416-20f0-7bed-be51-b483fa92fa50",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-i-heart",
   title: "I Heart ?",
   artist: "artist/taylor-swift",

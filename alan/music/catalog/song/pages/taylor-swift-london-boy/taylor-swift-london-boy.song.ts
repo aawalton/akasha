@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftLondonBoy = {
   id: "019ea416-1be4-7b6a-a754-5a1085508d96",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-london-boy",
   title: "London Boy",
   artist: "artist/taylor-swift",

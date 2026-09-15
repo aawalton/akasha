@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftHoHey = {
   id: "019ea416-1b0b-7b7a-80a1-40baee9d2f4a",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-ho-hey",
   title: "Ho Hey",
   artist: "artist/taylor-swift",

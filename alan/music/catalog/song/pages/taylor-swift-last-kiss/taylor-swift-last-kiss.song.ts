@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftLastKiss = {
   id: "019ea416-2924-746d-9e74-730991c9e505",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-last-kiss",
   title: "Last Kiss",
   artist: "artist/taylor-swift",

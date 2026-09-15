@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftDonTYou = {
   id: "019ea416-1198-7f71-8441-fd481dac8692",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-don-t-you",
   title: "Don’t You",
   artist: "artist/taylor-swift",

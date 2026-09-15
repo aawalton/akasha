@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftBetterMan = {
   id: "019ea416-08a5-7fef-bbed-efa47d750123",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-better-man",
   title: "Better Man",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftHaunted = {
   id: "019ea416-1fb3-7271-a0d8-87e6cb12ac01",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-haunted",
   title: "Haunted",
   artist: "artist/taylor-swift",

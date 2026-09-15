@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftAPlaceInThisWorld = {
   id: "019ea416-133a-7a88-8de0-71f90ffc0e84",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-a-place-in-this-world",
   title: "A Place in This World",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftKingOfMyHeart = {
   id: "019ea416-2a28-7165-99be-eeb6370d702f",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-king-of-my-heart",
   title: "King of My Heart",
   artist: "artist/taylor-swift",

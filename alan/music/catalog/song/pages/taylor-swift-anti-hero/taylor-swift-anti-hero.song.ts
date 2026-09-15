@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftAntiHero = {
   id: "019ea416-1124-7288-b7b9-f3c095e333b7",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-anti-hero",
   title: "Anti‐Hero",
   artist: "artist/taylor-swift",

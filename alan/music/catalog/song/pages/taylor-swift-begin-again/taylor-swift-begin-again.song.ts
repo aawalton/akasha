@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftBeginAgain = {
   id: "019ea416-15a8-7168-9d4c-63d90bbe19d8",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-begin-again",
   title: "Begin Again",
   artist: "artist/taylor-swift",

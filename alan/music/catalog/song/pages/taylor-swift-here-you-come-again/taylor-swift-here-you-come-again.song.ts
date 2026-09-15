@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftHereYouComeAgain = {
   id: "019ea416-18c1-78dc-9a1f-898beb11f437",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-here-you-come-again",
   title: "Here You Come Again",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftFreshOutTheSlammer = {
   id: "019ea416-1c16-7aaa-aa6d-3ade7d51823d",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-fresh-out-the-slammer",
   title: "Fresh Out the Slammer",
   artist: "artist/taylor-swift",

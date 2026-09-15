@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftDropsOfJupiter = {
   id: "019ea416-150a-775f-9de8-cac316cc4929",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-drops-of-jupiter",
   title: "Drops of Jupiter",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftCallItWhatYouWant = {
   id: "019ea416-14d8-7a33-a8d3-1bbde2664f4a",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-call-it-what-you-want",
   title: "Call It What You Want",
   artist: "artist/taylor-swift",

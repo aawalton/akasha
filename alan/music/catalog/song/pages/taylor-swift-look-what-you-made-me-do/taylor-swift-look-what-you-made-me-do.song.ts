@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftLookWhatYouMadeMeDo = {
   id: "019ea416-2271-75ba-a645-5e0d530aebca",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-look-what-you-made-me-do",
   title: "Look What You Made Me Do",
   artist: "artist/taylor-swift",

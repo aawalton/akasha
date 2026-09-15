@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftAllNightDiner = {
   id: "019ea416-16ab-72db-92f6-1a9e0b810b6a",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-all-night-diner",
   title: "All Night Diner",
   artist: "artist/taylor-swift",

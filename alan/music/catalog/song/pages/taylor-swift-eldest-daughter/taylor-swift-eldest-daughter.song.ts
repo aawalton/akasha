@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftEldestDaughter = {
   id: "019ea416-0efc-7213-b32f-654eaab8e452",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-eldest-daughter",
   title: "Eldest Daughter",
   artist: "artist/taylor-swift",

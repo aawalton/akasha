@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftBeautifulEyes = {
   id: "019ea416-0a1f-79ab-b324-dc2c4d1d5f2b",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-beautiful-eyes",
   title: "Beautiful Eyes",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftForeverWinter = {
   id: "019ea416-2788-7c07-a873-84fd6d4df077",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-forever-winter",
   title: "Forever Winter",
   artist: "artist/taylor-swift",

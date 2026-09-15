@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftChristmasesWhenYouWereMine = {
   id: "019ea416-07fe-75aa-8a5f-72be85e2a8f7",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-christmases-when-you-were-mine",
   title: "Christmases When You Were Mine",
   artist: "artist/taylor-swift",

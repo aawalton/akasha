@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftIKnewItIKnewYou = {
   id: "019ea416-27bb-7a46-8a89-b77c34aa503b",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-i-knew-it-i-knew-you",
   title: "I Knew It, I Knew You",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftCassandra = {
   id: "019ea416-0517-7818-8f3c-d402efdede1b",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-cassandra",
   title: "Cassandra",
   artist: "artist/taylor-swift",

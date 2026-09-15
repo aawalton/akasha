@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftIfThisWasAMovie = {
   id: "019ea416-26ed-7b5b-8224-97c1f1773ef3",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-if-this-was-a-movie",
   title: "If This Was a Movie",
   artist: "artist/taylor-swift",

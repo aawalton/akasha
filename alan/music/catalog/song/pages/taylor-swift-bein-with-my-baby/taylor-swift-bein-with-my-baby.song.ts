@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftBeinWithMyBaby = {
   id: "019ea416-0fd0-7715-9d41-4160de49d4ae",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-bein-with-my-baby",
   title: "Bein’ With My Baby",
   artist: "artist/taylor-swift",

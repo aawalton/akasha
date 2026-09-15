@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftActuallyRomantic = {
   id: "019ea416-0abe-77e3-99b3-367dc4845257",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-actually-romantic",
   title: "Actually Romantic",
   artist: "artist/taylor-swift",

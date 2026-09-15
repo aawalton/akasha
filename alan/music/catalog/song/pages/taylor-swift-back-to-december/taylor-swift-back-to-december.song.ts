@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftBackToDecember = {
   id: "019ea416-0460-7fe0-a279-ea4d2edf91b0",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-back-to-december",
   title: "Back to December",
   artist: "artist/taylor-swift",

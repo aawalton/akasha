@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftIForgotThatYouExisted = {
   id: "019ea416-2cc7-7ccf-a2f7-dddb4618e9c3",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-i-forgot-that-you-existed",
   title: "I Forgot That You Existed",
   artist: "artist/taylor-swift",

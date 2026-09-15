@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftGetawayCar = {
   id: "019ea416-1ee1-714f-9760-f05a767d1962",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-getaway-car",
   title: "Getaway Car",
   artist: "artist/taylor-swift",

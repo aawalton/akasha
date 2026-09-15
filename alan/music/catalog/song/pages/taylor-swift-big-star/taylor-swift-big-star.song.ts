@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftBigStar = {
   id: "019ea416-0c47-79e3-a65c-651f6e4d73d0",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-big-star",
   title: "Big Star",
   artist: "artist/taylor-swift",

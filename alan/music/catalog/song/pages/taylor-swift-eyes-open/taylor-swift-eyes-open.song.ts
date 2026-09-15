@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftEyesOpen = {
   id: "019ea416-1dac-7916-9bb7-5c9c5ad81df0",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-eyes-open",
   title: "Eyes Open",
   artist: "artist/taylor-swift",

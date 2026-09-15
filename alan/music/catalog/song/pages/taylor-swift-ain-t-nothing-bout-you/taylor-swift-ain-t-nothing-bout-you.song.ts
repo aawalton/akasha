@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftAinTNothingBoutYou = {
   id: "019ea416-139d-7ec4-86fc-c6f91793a265",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-ain-t-nothing-bout-you",
   title: "Ain’t Nothing ’bout You",
   artist: "artist/taylor-swift",

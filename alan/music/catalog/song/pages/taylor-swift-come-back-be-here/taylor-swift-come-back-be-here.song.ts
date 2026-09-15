@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftComeBackBeHere = {
   id: "019ea416-17ed-764e-9fa3-83c9e508f290",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-come-back-be-here",
   title: "Come Back… Be Here",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftAllYouHadToDoWasStay = {
   id: "019ea416-0c11-740e-b4e7-209d2de3da22",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-all-you-had-to-do-was-stay",
   title: "All You Had to Do Was Stay",
   artist: "artist/taylor-swift",

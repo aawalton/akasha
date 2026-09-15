@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftIDonTWannaLiveForever = {
   id: "019ea416-2a8e-73c6-8264-d8b40c10b832",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-i-don-t-wanna-live-forever",
   title: "I Don’t Wanna Live Forever",
   artist: "artist/taylor-swift",

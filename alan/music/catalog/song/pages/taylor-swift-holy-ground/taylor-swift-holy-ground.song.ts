@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftHolyGround = {
   id: "019ea416-268a-7981-af4e-abafa98e318c",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-holy-ground",
   title: "Holy Ground",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftComeInWithTheRain = {
   id: "019ea416-0b6e-731e-8508-68100e47dfc2",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-come-in-with-the-rain",
   title: "Come In With the Rain",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftAllOfTheGirlsYouLovedBefore = {
   id: "019ea416-03eb-7d00-9f5f-e10a64b78e60",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-all-of-the-girls-you-loved-before",
   title: "All of the Girls You Loved Before",
   artist: "artist/taylor-swift",

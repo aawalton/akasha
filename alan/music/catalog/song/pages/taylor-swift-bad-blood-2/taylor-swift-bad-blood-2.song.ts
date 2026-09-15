@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftBadBlood2 = {
   id: "019ea416-160e-73e8-a107-8ca2b92b4358",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-bad-blood-2",
   title: "Bad Blood",
   artist: "artist/taylor-swift",

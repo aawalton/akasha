@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftAllTooWell = {
   id: "019ea416-04da-7a02-9f6f-a41d50337755",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-all-too-well",
   title: "All Too Well",
   artist: "artist/taylor-swift",

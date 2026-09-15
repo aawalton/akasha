@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftBiggerThanTheWholeSky = {
   id: "019ea416-049d-7128-84ec-d9ac056475be",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-bigger-than-the-whole-sky",
   title: "Bigger Than the Whole Sky",
   artist: "artist/taylor-swift",

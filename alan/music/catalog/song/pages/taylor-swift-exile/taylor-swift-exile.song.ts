@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftExile = {
   id: "019ea416-0e5f-7db8-9ea0-a2ff3b94df04",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-exile",
   title: "exile",
   artist: "artist/taylor-swift",
