@@ -5,3 +5,4 @@
 {"propertySlug":"image-persona","path":"persona/wallpaper/pages/athena-l05-20260730t113020z.persona-wallpaper.ts","id":"019fb2ca-271d-74c9-83c7-d2e01382b9c1"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"personas-crafted","path":"persona/craft-day/pages/sophia-2026-07-02.persona-craft-day.ts","id":"019f2306-5f52-7eda-9346-dcdeb0a1e350"}
+{"propertySlug":"seat-persona","path":"agent/seat/pages/athena/athena.seat.ts","id":"01a0a5d5-1168-7000-a4e8-3c3acb52c92e"}
