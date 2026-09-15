@@ -16,7 +16,7 @@ export const veraGraphCleanup = {
     {
       statement: "Every closure the graph answers is correct.",
       workingMemory:
-        "Proven in `graph-predicate-closure.module.test.ts`: a closure three deep closes, a cycle closes once, a node the gate turns away leaves what is behind it unreached, a seed the gate turns away is none of the answer, and a closure going out and one coming in answer the same pair. `graph-asking` proves the single edge each way. Nothing yet proves the two directions agree over the whole tree.",
+        "Proven in `graph-predicate-closure.module.test.ts`: three deep closes, a cycle closes once, a gate leaves what is behind it unreached, and out and in answer the same pair. The two directions are not one relation read two ways: out is every import a body names, in is only those whose target a page claims and whose claimant page is there, gated at `page-reference-filing.module.code.ts:117`. Typecheck reaches what to compile through `importers`.",
     },
     {
       statement:
