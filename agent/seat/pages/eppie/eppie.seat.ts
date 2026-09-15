@@ -2,7 +2,7 @@ import type { Seat } from "akasha/agent/seat/seat.page-type.types.ts"
 
 export const eppie = {
   id: "01a0a53a-5c89-7000-b144-3df1c7e52a08",
-  type: "seat",
+  type: "page-type/seat",
   slug: "eppie",
   persona: "persona/eppie",
   assignmentSlug: "initiative/eppie-music-improvements",
