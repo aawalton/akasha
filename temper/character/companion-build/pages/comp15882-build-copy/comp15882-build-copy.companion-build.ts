@@ -2,7 +2,7 @@ import type { CompanionBuild } from "akasha/temper/character/companion-build/com
 
 export const comp15882BuildCopy = {
   id: "01a06862-a02e-7ed3-b879-658317455017",
-  type: "companion-build",
+  type: "page-type/companion-build",
   slug: "comp15882-build-copy",
   title: "Comp15882 Build (Copy)",
   buildHash: "AjEIJzHMcxzHMcxzExMTAzGzAAAAAAMI",

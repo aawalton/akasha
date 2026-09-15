@@ -2,7 +2,7 @@ import type { CompanionBuild } from "akasha/temper/character/companion-build/com
 
 export const healerBuild = {
   id: "01a06862-a02e-71c5-8609-ba751a8c445b",
-  type: "companion-build",
+  type: "page-type/companion-build",
   slug: "healer-build",
   title: "Healer Build",
   buildHash: "AjEIcxDEMQxDEMQxERERGRARAAAAAAa4",

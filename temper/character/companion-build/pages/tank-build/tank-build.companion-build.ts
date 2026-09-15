@@ -2,7 +2,7 @@ import type { CompanionBuild } from "akasha/temper/character/companion-build/com
 
 export const tankBuild = {
   id: "019f9609-8e9d-7910-ab89-d90c22ef3ba8",
-  type: "companion-build",
+  type: "page-type/companion-build",
   slug: "tank-build",
   title: "Tank Build",
   buildHash: "AjEINzHMcxzHMcxzExMTAzGzAAAAAAHI",

@@ -2,7 +2,7 @@ import type { CompanionBuild } from "akasha/temper/character/companion-build/com
 
 export const sweepTestComp = {
   id: "01a06862-a02e-708e-b1e4-b792a623c517",
-  type: "companion-build",
+  type: "page-type/companion-build",
   slug: "sweep-test-comp",
   title: "sweep-test-comp",
   buildHash: "AjEIExDEMQxDEMQxERERGRARAAAAAAFo",
