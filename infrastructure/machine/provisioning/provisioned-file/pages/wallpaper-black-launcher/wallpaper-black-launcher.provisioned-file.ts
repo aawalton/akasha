@@ -2,7 +2,7 @@ import type { ProvisionedFile } from "akasha/infrastructure/machine/provisioning
 
 export const wallpaperBlackLauncher = {
   id: "01a06862-af5c-7292-a50e-3a0578b78d6c",
-  type: "provisioned-file",
+  type: "page-type/provisioned-file",
   slug: "wallpaper-black-launcher",
   definition: "the desktop entry KDE binds ScrollLock to",
   content: "conf",

@@ -2,7 +2,7 @@ import type { ProvisionedFile } from "akasha/infrastructure/machine/provisioning
 
 export const backgroundSliceShare = {
   id: "01a0930e-6612-7563-a508-b6695086c8cb",
-  type: "provisioned-file",
+  type: "page-type/provisioned-file",
   slug: "background-slice-share",
   definition: "the share the services hold together against the apps Alan is using",
   content: "conf",

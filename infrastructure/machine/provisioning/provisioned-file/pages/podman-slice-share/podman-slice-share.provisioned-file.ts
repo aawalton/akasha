@@ -2,7 +2,7 @@ import type { ProvisionedFile } from "akasha/infrastructure/machine/provisioning
 
 export const podmanSliceShare = {
   id: "01a09311-efdf-7871-b60c-af498677bdde",
-  type: "provisioned-file",
+  type: "page-type/provisioned-file",
   slug: "podman-slice-share",
   definition: "the share the containers hold together against the apps Alan is using",
   content: "conf",

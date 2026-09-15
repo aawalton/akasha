@@ -2,7 +2,7 @@ import type { ProvisionedFile } from "akasha/infrastructure/machine/provisioning
 
 export const tmuxScopeSlice = {
   id: "01a0927d-1cbd-780f-aff8-2bacc9b0c011",
-  type: "provisioned-file",
+  type: "page-type/provisioned-file",
   slug: "tmux-scope-slice",
   definition: "which slice every scope tmux makes for a seat is put in",
   content: "conf",

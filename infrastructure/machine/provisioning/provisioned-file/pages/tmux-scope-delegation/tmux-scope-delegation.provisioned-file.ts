@@ -2,7 +2,7 @@ import type { ProvisionedFile } from "akasha/infrastructure/machine/provisioning
 
 export const tmuxScopeDelegation = {
   id: "01a0931d-840e-7dbe-a5f7-5bc1b4c375ea",
-  type: "provisioned-file",
+  type: "page-type/provisioned-file",
   slug: "tmux-scope-delegation",
   definition: "whether a seat manages the control groups inside its own scope",
   content: "conf",

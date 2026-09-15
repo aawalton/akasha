@@ -2,7 +2,7 @@ import type { ProvisionedFile } from "akasha/infrastructure/machine/provisioning
 
 export const swapUsedLimit = {
   id: "01a06862-af5d-791d-ad26-0e28a693258e",
-  type: "provisioned-file",
+  type: "page-type/provisioned-file",
   slug: "swap-used-limit",
   definition: "how much swap is used before oomd starts killing",
   content: "conf",

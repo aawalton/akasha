@@ -2,7 +2,7 @@ import type { ProvisionedFile } from "akasha/infrastructure/machine/provisioning
 
 export const macbookBrewfile = {
   id: "01a06862-af5d-7854-a522-5fc67800a13d",
-  type: "provisioned-file",
+  type: "page-type/provisioned-file",
   slug: "macbook-brewfile",
   definition: "the brew formulae and casks the MacBook's dev parity is",
   content: "conf",

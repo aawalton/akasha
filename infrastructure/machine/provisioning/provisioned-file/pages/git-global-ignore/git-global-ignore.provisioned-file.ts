@@ -2,7 +2,7 @@ import type { ProvisionedFile } from "akasha/infrastructure/machine/provisioning
 
 export const gitGlobalIgnore = {
   id: "01a06862-af5c-7db9-86b1-d4785579006f",
-  type: "provisioned-file",
+  type: "page-type/provisioned-file",
   slug: "git-global-ignore",
   definition: "what git leaves untracked in every repository",
   content: "conf",

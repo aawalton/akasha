@@ -2,7 +2,7 @@ import type { ProvisionedFile } from "akasha/infrastructure/machine/provisioning
 
 export const tmuxConfig = {
   id: "01a06862-af5c-7088-9dca-24a266c87466",
-  type: "provisioned-file",
+  type: "page-type/provisioned-file",
   slug: "tmux-config",
   definition: "how tmux draws and scrolls",
   content: "conf",

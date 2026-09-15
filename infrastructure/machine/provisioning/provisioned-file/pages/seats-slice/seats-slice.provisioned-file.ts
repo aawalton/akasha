@@ -2,7 +2,7 @@ import type { ProvisionedFile } from "akasha/infrastructure/machine/provisioning
 
 export const seatsSlice = {
   id: "01a0927c-ec26-7feb-bbd5-a2754a45f6c0",
-  type: "provisioned-file",
+  type: "page-type/provisioned-file",
   slug: "seats-slice",
   definition: "the share the seats hold together against the apps Alan is using",
   content: "conf",

@@ -2,7 +2,7 @@ import type { ProvisionedFile } from "akasha/infrastructure/machine/provisioning
 
 export const containerShortNames = {
   id: "01a06862-af5c-7f74-8ad4-0444d0757ed5",
-  type: "provisioned-file",
+  type: "page-type/provisioned-file",
   slug: "container-short-names",
   definition: "an image named without its registry resolved without asking",
   content: "conf",
