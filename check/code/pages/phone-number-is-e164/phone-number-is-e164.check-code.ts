@@ -33,6 +33,10 @@ export const phoneNumberIsE164 = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "An audit collects the pages of those types rather than every file in the tree.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A page's value is read through the shadow of the change being judged.",
     },
     {

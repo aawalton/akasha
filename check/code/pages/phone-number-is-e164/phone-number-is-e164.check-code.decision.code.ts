@@ -71,9 +71,9 @@ function keyedIn(pageTypeSlug: string, under: ReadonlySet<string>, shadow: Shado
   return found
 }
 
-function typesCarryingOne(under: ReadonlySet<string>, shadow: Shadow): ReadonlySet<string> {
+export function typesCarryingOne(shadow: Shadow): ReadonlySet<string> {
   const found = new Set<string>()
-  for (const kind of under) {
+  for (const kind of shadow.index.kindsUnder(PHONE_NUMBER)) {
     for (const listed of shadow.index.everyOfType(kind)) {
       for (const one of shadow.index.declaringOf(listed.id)) {
         if (one.kind !== PAGE_TYPE) continue
@@ -86,7 +86,7 @@ function typesCarryingOne(under: ReadonlySet<string>, shadow: Shadow): ReadonlyS
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const under = shadow.index.kindsUnder(PHONE_NUMBER)
-  const carrying = typesCarryingOne(under, shadow)
+  const carrying = typesCarryingOne(shadow)
   const held = new Map<string, Keyed>()
   const keyedBy = (pageTypeSlug: string): Keyed => {
     const found = held.get(pageTypeSlug)

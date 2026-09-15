@@ -186,5 +186,22 @@ export const changeWalking = {
       invariantKind: "invariant-kind/departure",
       statement: "Such a change walks nothing, so a run wanting no walk pays for none.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "The pages of named types are collected by searching for the names those pages have.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "That search is made by ripgrep, which answers the paths git would answer.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A search finding no page answers no path rather than refusing.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Naming no type collects nothing, and asks for no search.",
+    },
   ],
 } as const satisfies Module

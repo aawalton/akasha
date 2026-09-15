@@ -394,6 +394,24 @@ export function nothingIn(root: string): Change {
   return { root, changed: [], before: both, after: both }
 }
 
+const FOUND_NOTHING = 1
+
+function pathsTypedIn(root: string, types: ReadonlySet<string>): readonly string[] {
+  if (types.size === 0) return []
+  const globs = [...types].flatMap((one) => ["--glob", `*.${one}${TS}`])
+  const done = ran(["rg", "--files", "--null", ...globs], { cwd: root })
+  if (done.code === FOUND_NOTHING) return []
+  if (done.code !== 0) {
+    throw new Error(`the tree at ${root} could not be searched — ${done.err.trim()}`)
+  }
+  return done.out.split("\0").filter((one) => one !== "")
+}
+
+export function pagesTypedIn(root: string, types: ReadonlySet<string>): Change {
+  const both = onDisk(root)
+  return { root, changed: pathsTypedIn(root, types), before: both, after: both }
+}
+
 function isFolder(thrown: unknown): boolean {
   if (thrown === null || typeof thrown !== "object" || !("code" in thrown)) return false
   return thrown.code === "EISDIR"
