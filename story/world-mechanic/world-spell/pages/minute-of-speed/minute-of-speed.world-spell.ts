@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const minuteOfSpeed = {
   id: "01a06572-95d9-71ab-ad9d-b7f2d53c69d5",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "minute-of-speed",
   title: "Minute of Speed",
   world: "world/the-wandering-inn",

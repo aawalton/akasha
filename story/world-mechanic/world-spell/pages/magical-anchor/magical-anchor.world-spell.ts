@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const magicalAnchor = {
   id: "01a06572-95d1-7916-b908-b9019d8f933e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "magical-anchor",
   title: "Magical Anchor",
   world: "world/the-wandering-inn",

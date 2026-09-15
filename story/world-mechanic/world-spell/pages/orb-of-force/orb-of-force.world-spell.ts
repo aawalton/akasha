@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const orbOfForce = {
   id: "01a06572-95da-79cd-984c-b0c29d0ec2f6",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "orb-of-force",
   title: "Orb of Force",
   world: "world/the-wandering-inn",

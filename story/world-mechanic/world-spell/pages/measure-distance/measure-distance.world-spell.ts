@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const measureDistance = {
   id: "01a06572-95d2-7d75-9130-3ede1d95349f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "measure-distance",
   title: "Measure Distance",
   world: "world/the-wandering-inn",

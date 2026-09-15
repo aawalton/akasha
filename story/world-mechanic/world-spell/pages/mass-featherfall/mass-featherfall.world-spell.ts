@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const massFeatherfall = {
   id: "01a06572-95d1-72f5-b48d-5489bf6cccf2",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "mass-featherfall",
   title: "Mass Featherfall",
   world: "world/the-wandering-inn",

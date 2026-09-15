@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const millionSigilMagicalArray = {
   id: "01a06572-95d9-7e4a-bbde-4b86cd91ea72",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "million-sigil-magical-array",
   title: "Million Sigil Magical Array",
   world: "world/the-wandering-inn",

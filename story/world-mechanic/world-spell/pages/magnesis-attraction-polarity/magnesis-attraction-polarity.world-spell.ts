@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const magnesisAttractionPolarity = {
   id: "01a06572-95d1-7c9e-ba6c-626741cf6184",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "magnesis-attraction-polarity",
   title: "Magnesis: Attraction Polarity",
   world: "world/the-wandering-inn",

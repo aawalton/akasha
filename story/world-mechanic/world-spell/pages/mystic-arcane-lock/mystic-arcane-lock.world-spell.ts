@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const mysticArcaneLock = {
   id: "01a06572-95d9-73fa-981d-47f175c6c43a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "mystic-arcane-lock",
   title: "Mystic Arcane Lock",
   world: "world/the-wandering-inn",

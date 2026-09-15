@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const mentalClarity = {
   id: "01a06572-95d2-7f3d-8905-3bf7ec9a6086",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "mental-clarity",
   title: "Mental Clarity",
   world: "world/the-wandering-inn",

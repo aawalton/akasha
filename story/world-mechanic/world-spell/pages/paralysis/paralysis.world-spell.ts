@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const paralysis = {
   id: "01a06572-95da-7164-b7a2-d0f3367e2b17",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "paralysis",
   title: "Paralysis",
   world: "world/the-wandering-inn",

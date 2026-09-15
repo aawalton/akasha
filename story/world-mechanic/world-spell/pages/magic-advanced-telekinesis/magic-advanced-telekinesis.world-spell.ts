@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const magicAdvancedTelekinesis = {
   id: "01a06572-95d0-725e-8e07-d6933fcb0da6",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "magic-advanced-telekinesis",
   title: "Magic: Advanced Telekinesis",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const nonlethalLightningBolt = {
   id: "01a06572-95d9-7131-b198-4166dbe40228",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "nonlethal-lightning-bolt",
   title: "Nonlethal Lightning Bolt",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const munizorSMagnificentMansion = {
   id: "01a06572-95d9-7d5c-988f-ad2f10086fe0",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "munizor-s-magnificent-mansion",
   title: "Munizor’s Magnificent Mansion",
   world: "world/the-wandering-inn",

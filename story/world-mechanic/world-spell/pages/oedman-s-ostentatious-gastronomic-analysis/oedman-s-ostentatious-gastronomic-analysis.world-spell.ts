@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const oedmanSOstentatiousGastronomicAnalysis = {
   id: "01a06572-95da-7f87-817d-5fe23f620c72",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "oedman-s-ostentatious-gastronomic-analysis",
   title: "Oedman’s Ostentatious Gastronomic Analysis",
   world: "world/the-wandering-inn",

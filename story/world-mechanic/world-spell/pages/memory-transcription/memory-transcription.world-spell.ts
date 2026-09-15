@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const memoryTranscription = {
   id: "01a06572-95d2-7611-8d7a-d29d1ab87866",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "memory-transcription",
   title: "Memory Transcription",
   world: "world/the-wandering-inn",

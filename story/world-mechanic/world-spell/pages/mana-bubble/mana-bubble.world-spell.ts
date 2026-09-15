@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const manaBubble = {
   id: "01a06572-95d1-7bfc-9a99-bbad5bc465e2",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "mana-bubble",
   title: "Mana Bubble",
   world: "world/the-wandering-inn",

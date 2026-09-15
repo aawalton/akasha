@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const mystikHousekeeping = {
   id: "01a06572-95d9-7586-baa0-55e334473270",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "mystik-housekeeping",
   title: "Mystik Housekeeping",
   world: "world/the-wandering-inn",

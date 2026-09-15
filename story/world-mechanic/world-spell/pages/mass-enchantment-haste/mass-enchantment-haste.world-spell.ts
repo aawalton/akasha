@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const massEnchantmentHaste = {
   id: "01a06572-95d1-7a41-9bd9-33cd546bdd6f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "mass-enchantment-haste",
   title: "Mass Enchantment: Haste",
   world: "world/the-wandering-inn",

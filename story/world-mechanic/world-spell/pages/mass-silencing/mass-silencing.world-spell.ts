@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const massSilencing = {
   id: "01a06572-95d2-7da7-af42-841adb2c320f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "mass-silencing",
   title: "Mass Silencing",
   world: "world/the-wandering-inn",

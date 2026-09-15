@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const mySoulShallForgeNewMagic = {
   id: "01a06572-95d9-747b-b057-a20bbcefc40b",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "my-soul-shall-forge-new-magic",
   title: "My Soul Shall Forge New Magic",
   world: "world/the-wandering-inn",

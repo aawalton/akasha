@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const magmaShower = {
   id: "01a06572-95d1-71b7-964c-caf36877fba8",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "magma-shower",
   title: "Magma Shower",
   world: "world/the-wandering-inn",

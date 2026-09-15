@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const meteorOfExtinction = {
   id: "01a06572-95d8-73b0-a2df-606520692489",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "meteor-of-extinction",
   title: "Meteor of Extinction",
   world: "world/the-wandering-inn",

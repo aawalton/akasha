@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const painNull = {
   id: "01a06572-95da-7ea1-8e36-085e54c43d65",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "pain-null",
   title: "Pain Null",
   world: "world/the-wandering-inn",

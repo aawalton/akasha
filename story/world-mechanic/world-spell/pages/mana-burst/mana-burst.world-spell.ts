@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const manaBurst = {
   id: "01a06572-95d1-764e-8173-ed174c4cd1dd",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "mana-burst",
   title: "Mana Burst",
   world: "world/the-wandering-inn",

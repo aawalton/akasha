@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const outlandishWorldOfWater = {
   id: "01a06572-95da-7524-a9d3-01152f0d27a4",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "outlandish-world-of-water",
   title: "Outlandish World of Water",
   world: "world/the-wandering-inn",

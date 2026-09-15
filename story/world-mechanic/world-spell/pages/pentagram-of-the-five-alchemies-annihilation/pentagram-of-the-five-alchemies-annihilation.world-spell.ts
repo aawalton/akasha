@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const pentagramOfTheFiveAlchemiesAnnihilation = {
   id: "01a06572-95da-7441-95dd-b6f9a53d5f0f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "pentagram-of-the-five-alchemies-annihilation",
   title: "Pentagram of the Five Alchemies: Annihilation",
   world: "world/the-wandering-inn",

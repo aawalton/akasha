@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const mageHand = {
   id: "01a06572-95d0-79e3-9001-b921a8c57306",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "mage-hand",
   title: "Mage Hand",
   world: "world/the-wandering-inn",

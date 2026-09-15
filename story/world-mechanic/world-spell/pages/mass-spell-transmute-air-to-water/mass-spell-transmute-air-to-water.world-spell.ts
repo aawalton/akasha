@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const massSpellTransmuteAirToWater = {
   id: "01a06572-95d2-75b6-9967-16997cfd67c9",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "mass-spell-transmute-air-to-water",
   title: "Mass Spell: Transmute Air to Water",
   world: "world/the-wandering-inn",

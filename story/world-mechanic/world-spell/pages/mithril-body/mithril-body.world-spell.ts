@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const mithrilBody = {
   id: "01a06572-95d9-7633-8183-e921b11ff4e7",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "mithril-body",
   title: "Mithril Body",
   world: "world/the-wandering-inn",
