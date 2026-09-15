@@ -252,6 +252,24 @@ function repointedIn(
   return found
 }
 
+function namingAt(source: ts.SourceFile, of: ReadonlySet<string>): ts.Statement | null {
+  for (const one of source.statements) {
+    if (ts.isImportDeclaration(one)) continue
+    if (namesIn(one).some((named) => of.has(named))) return one
+  }
+  return null
+}
+
+function laidIn(opened: string, given: Asked, written: readonly Going[]): string {
+  const held = joinedOf(written).trimEnd()
+  const source = parsedAs(given.to, opened)
+  const first = namingAt(source, new Set(written.map((one) => one.name)))
+  if (first === null) return `${opened.trimEnd()}${PARTED}${held}${LINE}`
+  const head = opened.slice(0, first.getFullStart()).trimEnd()
+  const laid = `${held}${PARTED}${opened.slice(first.getFullStart()).trimStart()}`
+  return head === "" ? laid : `${head}${PARTED}${laid}`
+}
+
 function ontoFor(
   given: Asked,
   whole: string,
@@ -291,7 +309,7 @@ function ontoFor(
     read = parsedAs(given.to, text)
   }
   const opened = openedIn(text, read, linesOf(taking))
-  return { at: given.to, old: whole, new: `${opened.trimEnd()}${PARTED}${joinedOf(written)}` }
+  return { at: given.to, old: whole, new: laidIn(opened, given, written) }
 }
 
 function namesBack(rest: ts.SourceFile, given: Asked, naming: Naming): boolean {

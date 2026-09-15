@@ -26,6 +26,7 @@ import {
   NAMED,
   NAMED_AT,
   NAMED_USING,
+  NAMES_IT,
   NAMES_LANDING,
   NAMING,
   NEITHER_LEFT,
@@ -143,6 +144,17 @@ test("a landing body already naming that import takes the declaration at its end
   const made = planOf({ [FROM]: VALUED, [TO]: ALREADY }, AT)
 
   expect(wroteAt(made, TO)).toEqual([`${ALREADY}\nexport const AT = join("a", "b")\n`])
+})
+
+test("the declarations land above the first statement the landing body names them in", () => {
+  const made = planOf({ [FROM]: VALUED, [TO]: NAMES_IT }, AT)
+
+  expect(wroteAt(made, TO)).toEqual([
+    `import { join } from "node:path"\n` +
+      `\nexport const AT = join("a", "b")\n` +
+      `\nexport const OTHER = AT\n` +
+      `\nexport const LAST = 1\n`,
+  ])
 })
 
 test("a landing body naming no such import takes the import with the declaration", () => {

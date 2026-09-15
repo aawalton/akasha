@@ -153,7 +153,11 @@ export const codeExportCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A landing path holding a body takes the declarations at the end of that body.",
+      statement: "A declaration lands above the first statement the landing body names it in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A landing body naming none of them takes the declarations at its end.",
     },
     {
       decisionKind: "decision-kind/departure",

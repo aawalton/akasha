@@ -290,6 +290,10 @@ export const IMPORTS_IT = `import { AT } from "./one.held.ts"
 export const OTHER = AT
 `
 
+export const NAMES_IT = `${IMPORTS_IT}
+export const LAST = 1
+`
+
 export const OWN_USING = `import type { Reached } from "../two/two.held.ts"
 
 export function reaches(): Reached {
