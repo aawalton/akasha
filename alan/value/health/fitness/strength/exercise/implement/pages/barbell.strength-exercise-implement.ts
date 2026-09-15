@@ -2,7 +2,7 @@ import type { StrengthExerciseImplement } from "akasha/alan/value/health/fitness
 
 export const barbell = {
   id: "01a09414-2a72-74d4-82d8-2b2d85edb9ed",
-  type: "strength-exercise-implement",
+  type: "page-type/strength-exercise-implement",
   slug: "barbell",
   definition: "a long bar held in both hands and loaded at each end",
 } as const satisfies StrengthExerciseImplement
