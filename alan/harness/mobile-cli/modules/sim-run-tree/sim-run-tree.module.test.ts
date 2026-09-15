@@ -2,7 +2,6 @@ import { describe, expect, test } from "bun:test"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import {
   shellRepoPath,
-  simRunRootRel,
   simRunSharedRepoPaths,
   simRunSourceRepoPaths,
 } from "akasha/alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.code.ts"
@@ -28,13 +27,6 @@ const APP: MobileApp = {
 }
 
 const SHELLLESS: MobileApp = { ...APP, nativeShellRepoPath: null }
-
-describe("simRunRootRel", () => {
-  test("gives each app a run root of its own, named for the app's slug", () => {
-    expect(simRunRootRel(APP)).toBe(".mobile-sim-run/example")
-    expect(simRunRootRel({ ...APP, slug: "other" })).toBe(".mobile-sim-run/other")
-  })
-})
 
 describe("shellRepoPath", () => {
   test("drops the repo prefix and answers the path inside that repo", () => {

@@ -10,10 +10,6 @@ import {
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
-export function simRunRootRel(app: MobileApp): string {
-  return `.mobile-sim-run/${app.slug}`
-}
-
 export function shellRepoPath(app: MobileApp): string {
   if (app.nativeShellRepoPath === null) {
     throw new InputError(
