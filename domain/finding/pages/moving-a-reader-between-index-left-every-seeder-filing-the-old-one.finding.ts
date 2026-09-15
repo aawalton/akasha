@@ -1,6 +1,6 @@
 import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
-export const movingAReaderBetweenIndexesLeftEverySeederFilingTheOldOne = {
+export const movingAReaderBetweenIndexLeftEverySeederFilingTheOldOne = {
   id: "01a076f6-9f6d-7d55-b101-298d9fe4c6cd",
   type: "finding",
   slug: "moving-a-reader-between-index-left-every-seeder-filing-the-old-one",
