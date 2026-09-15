@@ -2,7 +2,7 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const noAffixScript = {
   id: "01a05fce-294b-7d11-8740-ff0aa8cc6fae",
-  type: "temper-affix-script",
+  type: "page-type/temper-affix-script",
   slug: "no-affix-script",
   title: "No Affix Script",
   key: "no-affix-script",

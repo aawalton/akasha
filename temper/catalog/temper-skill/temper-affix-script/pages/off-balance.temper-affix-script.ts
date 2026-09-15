@@ -2,7 +2,7 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const offBalance = {
   id: "01a05fce-294b-77c5-8a11-0cddb2918482",
-  type: "temper-affix-script",
+  type: "page-type/temper-affix-script",
   slug: "off-balance",
   title: "Off Balance",
   key: "off-balance",

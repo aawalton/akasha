@@ -2,7 +2,7 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const cowardice = {
   id: "01a05fce-2946-7867-ae16-433e5a04cf3a",
-  type: "temper-affix-script",
+  type: "page-type/temper-affix-script",
   slug: "cowardice",
   title: "Cowardice",
   key: "cowardice",

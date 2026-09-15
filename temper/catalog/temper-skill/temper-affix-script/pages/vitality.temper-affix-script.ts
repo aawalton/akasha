@@ -2,7 +2,7 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const vitality = {
   id: "01a05fce-294d-7a8c-add3-726775351b58",
-  type: "temper-affix-script",
+  type: "page-type/temper-affix-script",
   slug: "vitality",
   title: "Vitality",
   key: "vitality",

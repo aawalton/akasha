@@ -2,7 +2,7 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const magickasteal = {
   id: "01a05fce-294a-7250-92a8-756e497c0709",
-  type: "temper-affix-script",
+  type: "page-type/temper-affix-script",
   slug: "magickasteal",
   title: "Magickasteal",
   key: "magickasteal",

@@ -2,7 +2,7 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const lifesteal = {
   id: "01a05fce-294a-75c2-8a78-abc3f5175db6",
-  type: "temper-affix-script",
+  type: "page-type/temper-affix-script",
   slug: "lifesteal",
   title: "Lifesteal",
   key: "lifesteal",

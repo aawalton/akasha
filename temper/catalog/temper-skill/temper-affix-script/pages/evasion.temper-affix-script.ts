@@ -2,7 +2,7 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const evasion = {
   id: "01a05fce-2948-7a22-bae9-b44b833f983a",
-  type: "temper-affix-script",
+  type: "page-type/temper-affix-script",
   slug: "evasion",
   title: "Evasion",
   key: "evasion",

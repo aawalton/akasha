@@ -2,7 +2,7 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const maim = {
   id: "01a05fce-294a-7ac3-8c2a-39d8b4336852",
-  type: "temper-affix-script",
+  type: "page-type/temper-affix-script",
   slug: "maim",
   title: "Maim",
   key: "maim",
