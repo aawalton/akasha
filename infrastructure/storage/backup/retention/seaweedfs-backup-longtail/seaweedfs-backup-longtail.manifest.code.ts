@@ -5,11 +5,12 @@ import {
   CONTAINER_TMP_PATH,
   CONTAINER_TMP_VOLUME,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+import { seaweedfsBackupLongtail } from "akasha/infrastructure/service/cluster/pages/seaweedfs-backup-longtail/seaweedfs-backup-longtail.service-cluster.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
-const NAMESPACE = "seaweedfs"
+const NAMESPACE = seaweedfsBackupLongtail.namespace
 
 const MODULE = "module"
 const COPIER = "copy-longtail"
@@ -25,10 +26,10 @@ function copierAt(): string {
   return at
 }
 
-const IMAGE = "registry.registry.svc.cluster.local:5000/cluster/postgres-gfs-promoter:r4"
+const IMAGE = seaweedfsBackupLongtail.image
 
 const LABELS = {
-  "app.kubernetes.io/name": "seaweedfs-backup-longtail",
+  "app.kubernetes.io/name": seaweedfsBackupLongtail.resourceName,
   "app.kubernetes.io/instance": "postgres",
   "app.kubernetes.io/component": "backup-longtail",
   "app.kubernetes.io/part-of": "postgres",
@@ -43,7 +44,7 @@ function cronjobYaml(): string {
     apiVersion: "batch/v1",
     kind: "CronJob",
     metadata: {
-      name: "seaweedfs-backup-longtail",
+      name: seaweedfsBackupLongtail.resourceName,
       namespace: NAMESPACE,
       labels: LABELS,
     },
