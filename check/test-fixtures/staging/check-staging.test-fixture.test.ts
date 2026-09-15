@@ -14,6 +14,7 @@ import {
   listedAt,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { importersOf as importersBeside } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 afterAll(scratch.sweep)
@@ -68,7 +69,7 @@ test("what a body the checkout is asked for imports is filed beside the page imp
 test("the page the import edge is sits in the checkout too", () => {
   const root = staged({})
   for (const one of GRAPHED) {
-    const [listed] = listedAt(root, one.type, one.slug)
+    const [listed] = listedAt(root, slugOf(one.type), one.slug)
     if (listed === undefined) throw new Error(`\`${one.slug}\` is named by nothing there`)
     expect(listed.id).toBe(one.id)
     expect(readFileSync(join(root, listed.path), "utf8")).toBe(bodied(one))

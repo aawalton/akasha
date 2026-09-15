@@ -4,11 +4,18 @@ import { put, there } from "akasha/check/test/fixture/putting/putting.test-fixtu
 import { module as modulePage } from "akasha/code/module/module.page-type.ts"
 import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
-import { idFiled, listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import {
+  idFiled,
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { claimantIn } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { importedFrom } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
 import { referencesEach } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { bodyOf } from "akasha/page/modules/referencing/page-referencing.module.test-fixtures.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 
@@ -29,7 +36,7 @@ export function named(
   slug: string,
   id: string
 ): undefined {
-  listedFiled(root, pageType, slug, [{ path: at, id }])
+  listedFiled(root, slugOf(pageType), slug, [{ path: at, id }])
   idFiled(root, id, [{ path: at, id }])
 }
 
@@ -46,6 +53,17 @@ function besided(root: string, entries: readonly Entry[]): undefined {
     const was = textThere(beside)
     const kept = was === null ? [] : was.split("\n").filter((one) => one !== "")
     writeFileSync(beside, bodyOf(referencesEach([...kept, ...lines])))
+  }
+}
+
+function owned(root: string, files: Readonly<Record<string, string>>): undefined {
+  for (const at of Object.keys(files)) {
+    const owner = claimantIn(root, at)
+    const said = owner === null ? null : partedIn(owner)
+    if (owner === null || said === null) continue
+    valueAlsoFiled(root, said.pageType, [
+      { path: owner, value: { pageTypeSlug: said.pageType, slug: said.slug } },
+    ])
   }
 }
 
@@ -77,6 +95,7 @@ export function staged(files: Readonly<Record<string, string>>): string {
     writeFileSync(join(root, at), body)
   }
   pageTyped(root)
+  owned(root, files)
   reaching(root, files)
   graphed(root)
   return root

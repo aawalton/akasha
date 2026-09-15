@@ -129,6 +129,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/modules/mortal-sparing/mortal-sparing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/modules/shape-saying/shape-saying.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/editor/extension/modules/command-server/command-server.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/ios-app/modules/app-building/app-building.module.code.ts"}
