@@ -46,6 +46,10 @@ export const typecheck = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A router app's generated route types are not judged.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A file under a routes folder importing no generated route types is judged like any other file.",
     },

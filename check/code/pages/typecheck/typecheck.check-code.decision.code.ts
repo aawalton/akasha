@@ -37,6 +37,8 @@ const OMIT = "Omit"
 
 const TYPEGEN = "+types"
 
+const GENERATED_AT = "/.react-router/"
+
 const DECLARED = ".d.ts"
 
 const LIBRARY = "lua-runtime-library"
@@ -97,11 +99,16 @@ export function reachesTypegen(path: string, text: string): boolean {
   return specifiersIn(path, text).some((one) => one.split("/").includes(TYPEGEN))
 }
 
+function generatedRoutes(path: string): boolean {
+  return path.includes(GENERATED_AT)
+}
+
 export function rootsOf(change: Change, index: Answering): readonly string[] {
   const found: string[] = []
   for (const one of reachedBy(change, index)) {
     const bytes = change.after(one)
     if (bytes === null) continue
+    if (generatedRoutes(one)) continue
     if (reachesTypegen(one, textIn(bytes))) continue
     found.push(one)
   }
