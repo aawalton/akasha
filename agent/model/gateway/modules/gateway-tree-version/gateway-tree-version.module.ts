@@ -6,14 +6,27 @@ export const gatewayTreeVersion = {
   slug: "gateway-tree-version",
   definition: "the gateway's own file closure, hashed, so a supervisor can tell its proxy changed",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A specifier is read only where a line opens with an import or an export keyword.",
+      statement: "A specifier is read from a bare import and from what follows `from`.",
     },
     {
       invariantKind: "invariant-kind/departure",
       statement: "A specifier quoted inside a body is no import.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A specifier is read from one line rather than from a run of them.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A specifier opening `akasha/` resolves against the repository root.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Every module the gateway reaches that way is in the closure.",
     },
     {
       invariantKind: "invariant-kind/departure",

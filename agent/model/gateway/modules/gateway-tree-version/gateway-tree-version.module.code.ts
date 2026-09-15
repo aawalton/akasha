@@ -14,15 +14,9 @@ const CODE = "code"
 
 const TS = "ts"
 
-const SPECIFIER = /^[^\S\n]*(?:import|export)\b[^;'"`]*?["']([^"']+)["']/gm
+const SPECIFIER = /(?:\bfrom\s*|^[^\S\n]*import\s*)["']([^"'\n]+)["']/gm
 
-function libDir(): string {
-  return canonicalize(dirname(new URL(import.meta.url).pathname))
-}
-
-function instructionsRoot(): string {
-  return resolve(libDir(), "..", "..", "..", "..", "..", "..")
-}
+const OWN = "akasha/"
 
 export function modelGatewayEntrypoint(): string {
   const root = ownRepoRoot()
@@ -34,8 +28,8 @@ export function modelGatewayEntrypoint(): string {
   return join(root, at)
 }
 
-function isRelative(specifier: string): boolean {
-  return specifier.startsWith("./") || specifier.startsWith("../")
+function isFollowed(specifier: string): boolean {
+  return specifier.startsWith("./") || specifier.startsWith("../") || specifier.startsWith(OWN)
 }
 
 function readSource(absolute: string, reachedFrom: string | null): string {
@@ -61,7 +55,9 @@ function isFileAt(absolute: string): boolean {
 }
 
 function resolveImport(root: string, specifier: string, fromAbsolute: string): string {
-  const at = resolve(dirname(fromAbsolute), specifier)
+  const at = specifier.startsWith(OWN)
+    ? resolve(root, specifier.slice(OWN.length))
+    : resolve(dirname(fromAbsolute), specifier)
   for (const candidate of [at, `${at}.ts`, `${at}/index.ts`]) {
     if (isFileAt(candidate)) return canonicalize(candidate)
   }
@@ -86,7 +82,7 @@ function collectVersionTreeFilesFrom(root: string, entrypoint: string): readonly
     const here = relative(root, next.absolute)
     for (const match of source.matchAll(SPECIFIER)) {
       const specifier = match[1]
-      if (specifier === undefined || !isRelative(specifier)) continue
+      if (specifier === undefined || !isFollowed(specifier)) continue
       const absolute = resolveImport(root, specifier, next.absolute)
       if (!seen.has(absolute)) queue.push({ absolute, reachedFrom: here })
     }
@@ -106,6 +102,10 @@ function computeVersionTreeHashFrom(root: string, entrypoint: string): string {
     .digest("hex")
 }
 
+export function modelGatewayTreeFiles(): readonly string[] {
+  return collectVersionTreeFilesFrom(ownRepoRoot(), modelGatewayEntrypoint())
+}
+
 export function computeModelGatewayTreeVersion(): string {
-  return computeVersionTreeHashFrom(instructionsRoot(), modelGatewayEntrypoint())
+  return computeVersionTreeHashFrom(ownRepoRoot(), modelGatewayEntrypoint())
 }
