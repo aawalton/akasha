@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0103Chapter58HotaruNoHikari2 = {
   id: "01a06731-af01-7001-b50a-54904bf8046a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0103-chapter-58-hotaru-no-hikari-2",
   title: "CHAPTER 58 - Hotaru no Hikari (2) ",
   story: "story-read/metaworld-hopecore",

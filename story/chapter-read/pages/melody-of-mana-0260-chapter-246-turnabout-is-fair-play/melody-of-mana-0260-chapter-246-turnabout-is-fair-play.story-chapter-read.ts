@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const melodyOfMana0260Chapter246TurnaboutIsFairPlay = {
   id: "01a06731-ad85-7006-9e1d-8e17c793dce3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0260-chapter-246-turnabout-is-fair-play",
   title: "Chapter 246 Turnabout is Fair Play",
   story: "story-read/melody-of-mana",

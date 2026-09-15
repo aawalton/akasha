@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const melodyOfMana0280Chapter266BattleOfTheNorth = {
   id: "01a06731-ad86-7000-8e74-c44c0d9e6246",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0280-chapter-266-battle-of-the-north",
   title: "Chapter 266 Battle of the North",
   story: "story-read/melody-of-mana",

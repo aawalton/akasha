@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0092Chapter52MothToAFlame = {
   id: "01a06731-aefa-7000-8a7e-b57aa7f35b4f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0092-chapter-52-moth-to-a-flame",
   title: "CHAPTER 52 - Moth to a Flame",
   story: "story-read/metaworld-hopecore",

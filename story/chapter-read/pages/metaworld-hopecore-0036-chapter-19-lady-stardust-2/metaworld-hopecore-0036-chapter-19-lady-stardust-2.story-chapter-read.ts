@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0036Chapter19LadyStardust2 = {
   id: "01a06731-aeda-7002-9733-16c82c8e97f2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0036-chapter-19-lady-stardust-2",
   title: "CHAPTER 19 — Lady Stardust (2) ",
   story: "story-read/metaworld-hopecore",

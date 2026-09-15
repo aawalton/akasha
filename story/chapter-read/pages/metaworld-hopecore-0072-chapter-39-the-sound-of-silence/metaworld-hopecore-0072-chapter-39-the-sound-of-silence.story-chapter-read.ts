@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0072Chapter39TheSoundOfSilence = {
   id: "01a06731-aeea-7002-be17-61edfc7f82b8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0072-chapter-39-the-sound-of-silence",
   title: "Chapter 39 - The Sound of Silence",
   story: "story-read/metaworld-hopecore",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0107Chapter61JanuaryFriend = {
   id: "01a06731-af08-7000-b085-865aa0d63ab2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0107-chapter-61-january-friend",
   title: "CHAPTER 61 - January Friend",
   story: "story-read/metaworld-hopecore",

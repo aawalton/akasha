@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0098Chapter55UeWoMuiteAruko2 = {
   id: "01a06731-aefe-7000-86ee-b583d1c08779",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0098-chapter-55-ue-wo-muite-aruko-2",
   title: "CHAPTER 55 - Ue wo Muite Arukō (2) ",
   story: "story-read/metaworld-hopecore",

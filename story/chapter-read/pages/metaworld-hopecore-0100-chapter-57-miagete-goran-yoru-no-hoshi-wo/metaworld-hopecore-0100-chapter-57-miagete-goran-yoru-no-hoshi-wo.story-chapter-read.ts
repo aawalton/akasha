@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0100Chapter57MiageteGoranYoruNoHoshiWo = {
   id: "01a06731-af00-7000-9656-2a670d4bfc36",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0100-chapter-57-miagete-goran-yoru-no-hoshi-wo",
   title: "CHAPTER 57 - Miagete Goran Yoru no Hoshi wo",
   story: "story-read/metaworld-hopecore",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0042Chapter22KillingInTheName2 = {
   id: "01a06731-aedd-7002-bd59-e506c4d93785",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0042-chapter-22-killing-in-the-name-2",
   title: "CHAPTER 22 - Killing in the Name (2)",
   story: "story-read/metaworld-hopecore",

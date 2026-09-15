@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0104Chapter59KarmaPolice = {
   id: "01a06731-af05-7000-8ed1-c1d29dc8d293",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0104-chapter-59-karma-police",
   title: "CHAPTER 59 - Karma Police",
   story: "story-read/metaworld-hopecore",

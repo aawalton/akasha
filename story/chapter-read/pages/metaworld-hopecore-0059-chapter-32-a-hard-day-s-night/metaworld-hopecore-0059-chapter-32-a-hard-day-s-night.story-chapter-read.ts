@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0059Chapter32AHardDaySNight = {
   id: "01a06731-aee7-7001-9477-c33e0fe60181",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0059-chapter-32-a-hard-day-s-night",
   title: "Chapter 32 - A Hard Day’s Night",
   story: "story-read/metaworld-hopecore",

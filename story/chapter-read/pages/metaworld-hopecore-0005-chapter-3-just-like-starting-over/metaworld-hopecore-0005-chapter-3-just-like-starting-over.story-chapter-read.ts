@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0005Chapter3JustLikeStartingOver = {
   id: "01a06959-f7c1-7000-9526-eeddf9b568de",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0005-chapter-3-just-like-starting-over",
   title: "Chapter 3 - (Just Like) Starting Over",
   story: "story-read/metaworld-hopecore",

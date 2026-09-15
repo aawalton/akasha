@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const melodyOfMana0312Chapter297LastHurdle = {
   id: "01a06731-ad89-7004-aa0d-201bcd14e498",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0312-chapter-297-last-hurdle",
   title: "Chapter 297 Last Hurdle",
   story: "story-read/melody-of-mana",

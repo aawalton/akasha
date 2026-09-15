@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0031Chapter16LeadBelly2 = {
   id: "01a06731-aed7-7006-a87c-90387959aca7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0031-chapter-16-lead-belly-2",
   title: "CHAPTER 16 - Lead Belly (2) ",
   story: "story-read/metaworld-hopecore",

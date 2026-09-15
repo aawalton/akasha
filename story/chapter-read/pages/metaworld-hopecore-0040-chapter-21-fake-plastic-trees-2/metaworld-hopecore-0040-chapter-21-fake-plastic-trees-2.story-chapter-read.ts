@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0040Chapter21FakePlasticTrees2 = {
   id: "01a06731-aedd-7000-84de-8574638bfe46",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0040-chapter-21-fake-plastic-trees-2",
   title: "CHAPTER 21 - Fake Plastic Trees (2) ",
   story: "story-read/metaworld-hopecore",

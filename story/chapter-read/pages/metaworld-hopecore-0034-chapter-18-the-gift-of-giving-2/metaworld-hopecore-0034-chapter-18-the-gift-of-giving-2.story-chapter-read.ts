@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0034Chapter18TheGiftOfGiving2 = {
   id: "01a06731-aeda-7000-a354-c51fe3f08703",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0034-chapter-18-the-gift-of-giving-2",
   title: "CHAPTER 18 - The Gift of Giving (2) ",
   story: "story-read/metaworld-hopecore",
