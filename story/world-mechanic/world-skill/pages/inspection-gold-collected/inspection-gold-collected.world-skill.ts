@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const inspectionGoldCollected = {
   id: "01a06575-981f-7b2b-af24-8d4481b8d53b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "inspection-gold-collected",
   title: "Inspection: Gold Collected",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const itemLocusOfConnection = {
   id: "01a06575-9820-77fc-b6d4-95dcb7f807cd",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "item-locus-of-connection",
   title: "Item: Locus of Connection",
   world: "world/the-wandering-inn",

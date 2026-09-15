@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const lanceThrust = {
   id: "01a06575-9821-7c0c-ade5-dc2cdb7bbd0f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "lance-thrust",
   title: "Lance Thrust",
   world: "world/the-wandering-inn",

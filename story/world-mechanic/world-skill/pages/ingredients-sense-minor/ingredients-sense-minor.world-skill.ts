@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const ingredientsSenseMinor = {
   id: "01a06575-981e-7f03-83ee-79577c96c5b7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ingredients-sense-minor",
   title: "Ingredients Sense (Minor)",
   world: "world/the-wandering-inn",

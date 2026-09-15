@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const innUnlimitedManaPool = {
   id: "01a06575-981f-7afb-8a32-1077e20c7f3d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "inn-unlimited-mana-pool",
   title: "Inn: Unlimited Mana Pool",
   world: "world/the-wandering-inn",

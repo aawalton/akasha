@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const ironmarrowBones = {
   id: "01a06575-9820-7ee6-8397-178e32f448bf",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ironmarrow-bones",
   title: "Ironmarrow Bones",
   world: "world/the-wandering-inn",

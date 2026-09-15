@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const ironScales = {
   id: "01a06575-9820-747d-b346-831725ec19f3",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "iron-scales",
   title: "Iron Scales",
   world: "world/the-wandering-inn",

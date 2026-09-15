@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const indirectBombardment = {
   id: "01a06575-981e-779c-a232-d1a643bbfbf0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "indirect-bombardment",
   title: "Indirect Bombardment",
   world: "world/the-wandering-inn",

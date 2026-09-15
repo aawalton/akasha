@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const ingredientsCulturalShift = {
   id: "01a06575-981e-7d62-8bbd-a51f6b58d51b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ingredients-cultural-shift",
   title: "Ingredients: Cultural Shift",
   world: "world/the-wandering-inn",

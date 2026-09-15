@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const jabBarrage = {
   id: "01a06575-9820-754f-9e92-6a70c26679e0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "jab-barrage",
   title: "Jab Barrage",
   world: "world/the-wandering-inn",

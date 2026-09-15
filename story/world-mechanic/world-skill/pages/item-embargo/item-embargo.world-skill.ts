@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const itemEmbargo = {
   id: "01a06575-9820-70a9-836e-ef71e1bf9162",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "item-embargo",
   title: "Item Embargo",
   world: "world/the-wandering-inn",

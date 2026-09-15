@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const informationDumpIlvriss = {
   id: "01a06575-981e-7f07-b216-3ee54e84d6a6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "information-dump-ilvriss",
   title: "Information Dump: Ilvriss",
   world: "world/the-wandering-inn",

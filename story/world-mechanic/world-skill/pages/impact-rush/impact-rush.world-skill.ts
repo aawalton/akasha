@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const impactRush = {
   id: "01a06575-981d-7b40-82b1-d9d84c984b49",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "impact-rush",
   title: "Impact Rush",
   world: "world/the-wandering-inn",

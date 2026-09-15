@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const kneaderSGrip = {
   id: "01a06575-9821-76b0-bc0b-03b09ec158f8",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "kneader-s-grip",
   title: "Kneader’s Grip",
   world: "world/the-wandering-inn",

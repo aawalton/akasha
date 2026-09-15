@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const inflictStoredPain = {
   id: "01a06575-981e-7e70-9aa5-080d6a139d48",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "inflict-stored-pain",
   title: "Inflict Stored Pain",
   world: "world/the-wandering-inn",

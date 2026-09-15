@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const invisibleAppearingRock = {
   id: "01a06575-9820-768b-914f-24f2f74ed230",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "invisible-appearing-rock",
   title: "Invisible Appearing Rock",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const kithAndKinOfGoblins = {
   id: "01a06575-9821-7132-a38b-2b8024e26d42",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "kith-and-kin-of-goblins",
   title: "Kith and Kin of Goblins",
   world: "world/the-wandering-inn",

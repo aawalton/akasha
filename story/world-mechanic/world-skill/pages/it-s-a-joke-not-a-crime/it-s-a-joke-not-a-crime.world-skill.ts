@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const itSAJokeNotACrime = {
   id: "01a06575-9820-7904-b45d-de427eba3806",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "it-s-a-joke-not-a-crime",
   title: "It’s a Joke, Not a Crime",
   world: "world/the-wandering-inn",

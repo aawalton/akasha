@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const jetfireJump = {
   id: "01a06575-9820-71e8-a435-e6fc1e4115c9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "jetfire-jump",
   title: "Jetfire Jump",
   world: "world/the-wandering-inn",

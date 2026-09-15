@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const incisiveComment = {
   id: "01a06575-981e-79c2-a1a0-5186f445753f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "incisive-comment",
   title: "Incisive Comment",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const impalingLunge = {
   id: "01a06575-981d-7e1e-b001-0af98bebedc7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "impaling-lunge",
   title: "Impaling Lunge",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const knucklesOfIron = {
   id: "01a06575-9821-7e36-b810-3764fc96c24a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "knuckles-of-iron",
   title: "Knuckles of Iron",
   world: "world/the-wandering-inn",

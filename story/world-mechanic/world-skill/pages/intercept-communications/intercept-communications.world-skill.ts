@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const interceptCommunications = {
   id: "01a06575-9820-7d9e-bfe9-8e21a0d8401f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "intercept-communications",
   title: "Intercept Communications",
   world: "world/the-wandering-inn",

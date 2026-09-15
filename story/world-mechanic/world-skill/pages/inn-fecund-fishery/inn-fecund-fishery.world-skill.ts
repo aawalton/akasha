@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const innFecundFishery = {
   id: "01a06575-981e-7772-8511-d0db78418bd7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "inn-fecund-fishery",
   title: "Inn: Fecund Fishery",
   world: "world/the-wandering-inn",

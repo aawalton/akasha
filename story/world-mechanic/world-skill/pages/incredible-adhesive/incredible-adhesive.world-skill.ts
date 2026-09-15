@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const incredibleAdhesive = {
   id: "01a06575-981e-7fdb-bf17-de3eb61651a9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "incredible-adhesive",
   title: "Incredible Adhesive",
   world: "world/the-wandering-inn",

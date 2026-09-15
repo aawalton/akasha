@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const invisibleCast = {
   id: "01a06575-9820-788f-a074-0e772d15a22b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "invisible-cast",
   title: "Invisible Cast",
   world: "world/the-wandering-inn",

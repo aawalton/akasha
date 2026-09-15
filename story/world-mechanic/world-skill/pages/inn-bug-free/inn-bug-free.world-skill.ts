@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const innBugFree = {
   id: "01a06575-981e-71bd-a0c7-ccb024c19f97",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "inn-bug-free",
   title: "Inn: Bug Free",
   world: "world/the-wandering-inn",

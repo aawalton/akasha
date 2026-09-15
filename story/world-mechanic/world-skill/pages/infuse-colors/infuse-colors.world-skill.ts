@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const infuseColors = {
   id: "01a06575-981e-729f-bbec-9ce1703b9d39",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "infuse-colors",
   title: "Infuse Colors",
   world: "world/the-wandering-inn",

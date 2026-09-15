@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const killerFishiesAttack = {
   id: "01a06575-9821-7881-b469-694f27b36f6d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "killer-fishies-attack",
   title: "Killer Fishies Attack",
   world: "world/the-wandering-inn",

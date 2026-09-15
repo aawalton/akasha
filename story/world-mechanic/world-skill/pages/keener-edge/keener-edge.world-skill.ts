@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const keenerEdge = {
   id: "01a06575-9821-7ef9-b0da-5990fe91ddb2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "keener-edge",
   title: "Keener Edge",
   world: "world/the-wandering-inn",

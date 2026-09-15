@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const inklessPen = {
   id: "01a06575-981e-759e-85c1-ec88b26c0bf9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "inkless-pen",
   title: "Inkless Pen",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const judgeOfNobility = {
   id: "01a06575-9821-7ffb-bc87-0dd24512ed0a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "judge-of-nobility",
   title: "Judge of Nobility",
   world: "world/the-wandering-inn",

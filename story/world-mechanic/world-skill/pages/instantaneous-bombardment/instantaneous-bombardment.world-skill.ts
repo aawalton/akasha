@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const instantaneousBombardment = {
   id: "01a06575-981f-7233-8543-909c09a89705",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "instantaneous-bombardment",
   title: "Instantaneous Bombardment",
   world: "world/the-wandering-inn",

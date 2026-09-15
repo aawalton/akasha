@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const kingslayerRounds = {
   id: "01a06575-9821-743b-81f5-6ba0a6c5dff0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "kingslayer-rounds",
   title: "Kingslayer Rounds",
   world: "world/the-wandering-inn",
