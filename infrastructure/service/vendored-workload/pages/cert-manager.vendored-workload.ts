@@ -2,7 +2,7 @@ import type { VendoredWorkload } from "akasha/infrastructure/service/vendored-wo
 
 export const certManager = {
   id: "01a068e5-527c-7785-80d9-e385e21d4690",
-  type: "vendored-workload",
+  type: "page-type/vendored-workload",
   slug: "cert-manager",
   title: "Cert manager",
   definition: "what issues and renews the TLS certificates the cluster serves",

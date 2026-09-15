@@ -2,7 +2,7 @@ import type { VendoredWorkload } from "akasha/infrastructure/service/vendored-wo
 
 export const certManagerCainjector = {
   id: "01a068e5-527c-73ac-8664-2c8bb2697205",
-  type: "vendored-workload",
+  type: "page-type/vendored-workload",
   slug: "cert-manager-cainjector",
   title: "Cert manager cainjector",
   definition: "what copies a CA bundle into the resources that must trust it",

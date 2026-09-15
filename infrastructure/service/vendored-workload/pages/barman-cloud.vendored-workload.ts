@@ -2,7 +2,7 @@ import type { VendoredWorkload } from "akasha/infrastructure/service/vendored-wo
 
 export const barmanCloud = {
   id: "01a068e5-527c-7342-9656-a0172825938d",
-  type: "vendored-workload",
+  type: "page-type/vendored-workload",
   slug: "barman-cloud",
   title: "Barman cloud",
   definition: "what ships Postgres backups and write-ahead logs to object storage",

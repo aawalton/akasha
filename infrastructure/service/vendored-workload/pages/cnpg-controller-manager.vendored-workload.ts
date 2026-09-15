@@ -2,7 +2,7 @@ import type { VendoredWorkload } from "akasha/infrastructure/service/vendored-wo
 
 export const cnpgControllerManager = {
   id: "01a068e5-527c-75fd-b83c-9d21a07b4077",
-  type: "vendored-workload",
+  type: "page-type/vendored-workload",
   slug: "cnpg-controller-manager",
   title: "CNPG controller manager",
   definition: "what runs the Postgres clusters the CloudNativePG resources describe",

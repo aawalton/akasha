@@ -2,7 +2,7 @@ import type { VendoredWorkload } from "akasha/infrastructure/service/vendored-wo
 
 export const metallbController = {
   id: "01a068e5-527c-718d-96eb-f449ce869cd1",
-  type: "vendored-workload",
+  type: "page-type/vendored-workload",
   slug: "metallb-controller",
   title: "MetalLB controller",
   definition: "what hands a load balancer service its external address",

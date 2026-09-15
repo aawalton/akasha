@@ -2,7 +2,7 @@ import type { VendoredWorkload } from "akasha/infrastructure/service/vendored-wo
 
 export const metricsServer = {
   id: "01a068e5-527c-769a-932a-0da336ed9815",
-  type: "vendored-workload",
+  type: "page-type/vendored-workload",
   slug: "metrics-server",
   title: "Metrics server",
   definition: "what collects pod and node resource use for the cluster to read",

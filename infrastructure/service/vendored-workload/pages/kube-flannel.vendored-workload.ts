@@ -2,7 +2,7 @@ import type { VendoredWorkload } from "akasha/infrastructure/service/vendored-wo
 
 export const kubeFlannel = {
   id: "01a068e5-527c-7e51-81d4-b0a4ffe3365e",
-  type: "vendored-workload",
+  type: "page-type/vendored-workload",
   slug: "kube-flannel",
   title: "Kube flannel",
   definition: "what gives every pod an address and carries traffic between nodes",
