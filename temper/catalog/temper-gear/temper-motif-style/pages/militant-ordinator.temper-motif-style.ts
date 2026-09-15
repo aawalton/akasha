@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const militantOrdinator = {
   id: "019e5a46-c3eb-7a23-8fe3-93d31cf81478",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "militant-ordinator",
   title: "Militant Ordinator",
   collectionIndex: 34,

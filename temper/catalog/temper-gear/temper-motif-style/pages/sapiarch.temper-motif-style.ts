@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const sapiarch = {
   id: "019e5a46-c40e-79cb-8aa9-3a4a9eb6fa76",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "sapiarch",
   title: "Sapiarch",
   collectionIndex: 48,

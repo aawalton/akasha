@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const dwemer = {
   id: "019e5a46-c39f-7ccd-a732-c68d4c46f23c",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "dwemer",
   title: "Dwemer",
   collectionIndex: 2,

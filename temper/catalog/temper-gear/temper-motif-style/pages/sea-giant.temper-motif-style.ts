@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const seaGiant = {
   id: "019e5a46-c450-7501-8cd7-48334107bbf8",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "sea-giant",
   title: "Sea Giant",
   collectionIndex: 71,

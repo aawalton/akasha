@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const anequina = {
   id: "019e5a46-c42d-738c-8b4f-d8040ad1285a",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "anequina",
   title: "Anequina",
   collectionIndex: 59,

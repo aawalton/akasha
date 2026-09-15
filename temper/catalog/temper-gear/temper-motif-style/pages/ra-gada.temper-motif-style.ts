@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const raGada = {
   id: "019e5a46-c3c7-7b75-ab61-26370b413a44",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "ra-gada",
   title: "Ra Gada",
   collectionIndex: 17,

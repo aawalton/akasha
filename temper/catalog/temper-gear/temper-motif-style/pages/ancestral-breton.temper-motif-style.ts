@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const ancestralBreton = {
   id: "019e5a46-c465-7f21-8fea-9557d3036b0b",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "ancestral-breton",
   title: "Ancestral Breton",
   collectionIndex: 78,

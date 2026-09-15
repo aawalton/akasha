@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const hazardousAlchemy = {
   id: "019e5a46-c460-7144-a15f-ff50f344df89",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "hazardous-alchemy",
   title: "Hazardous Alchemy",
   collectionIndex: 76,

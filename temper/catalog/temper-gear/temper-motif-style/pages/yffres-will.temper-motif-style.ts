@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const yffresWill = {
   id: "019e5a46-c4a4-76b3-94b4-24b4f908a98f",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "yffres-will",
   title: "Y'ffre's Will",
   collectionIndex: 99,

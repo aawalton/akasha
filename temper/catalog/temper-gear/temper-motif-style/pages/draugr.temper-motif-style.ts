@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const draugr = {
   id: "019e5a46-c3d7-7385-b3ff-c30448a6742a",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "draugr",
   title: "Draugr",
   collectionIndex: 23,

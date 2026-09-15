@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const dreadsails = {
   id: "019e5a46-c495-7d65-bf02-250855e0177b",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "dreadsails",
   title: "Dreadsails",
   collectionIndex: 94,

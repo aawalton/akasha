@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const silverDawn = {
   id: "019e5a46-c419-79ce-9251-5837ba5d4762",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "silver-dawn",
   title: "Silver Dawn",
   collectionIndex: 52,

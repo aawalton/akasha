@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const houseHexos = {
   id: "019e5a46-c474-7a1a-a212-f68cd026535f",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "house-hexos",
   title: "House Hexos",
   collectionIndex: 83,

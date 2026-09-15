@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const ebony = {
   id: "019e5a46-c3cd-72b9-84e4-c5a7620de32c",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "ebony",
   title: "Ebony",
   collectionIndex: 19,

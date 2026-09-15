@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const ancestralReach = {
   id: "019e5a46-c468-7f94-a4ea-ea14ecd2123c",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "ancestral-reach",
   title: "Ancestral Reach",
   collectionIndex: 79,

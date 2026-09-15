@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const kindredsConcord = {
   id: "019e5a46-c4bc-7936-b831-4f23453af471",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "kindreds-concord",
   title: "Kindred's Concord",
   collectionIndex: 107,

@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const systresGuardian = {
   id: "019e5a46-c4a1-795a-aebc-0b489c59ff75",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "systres-guardian",
   title: "Systres Guardian",
   collectionIndex: 98,

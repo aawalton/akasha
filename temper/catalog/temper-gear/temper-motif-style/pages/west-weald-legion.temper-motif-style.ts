@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const westWealdLegion = {
   id: "019e5a46-c4c8-76ef-b6f8-3354743aca60",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "west-weald-legion",
   title: "West Weald Legion",
   collectionIndex: 111,

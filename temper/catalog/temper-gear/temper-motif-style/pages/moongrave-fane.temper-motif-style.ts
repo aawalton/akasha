@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const moongraveFane = {
   id: "019e5a46-c43b-746a-8e9d-a028d713b6e3",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "moongrave-fane",
   title: "Moongrave Fane",
   collectionIndex: 64,

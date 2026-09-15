@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const waywardGuardian = {
   id: "019e5a46-c471-7c69-b208-54b228318bea",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "wayward-guardian",
   title: "Wayward Guardian",
   collectionIndex: 82,

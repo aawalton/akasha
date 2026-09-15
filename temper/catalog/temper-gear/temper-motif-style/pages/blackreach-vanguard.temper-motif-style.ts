@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const blackreachVanguard = {
   id: "019e5a46-c44a-7266-8952-4262d00dd907",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "blackreach-vanguard",
   title: "Blackreach Vanguard",
   collectionIndex: 69,

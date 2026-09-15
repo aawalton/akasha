@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const scalecaller = {
   id: "019e5a46-c409-7451-8a1a-33cff4de4922",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "scalecaller",
   title: "Scalecaller",
   collectionIndex: 46,

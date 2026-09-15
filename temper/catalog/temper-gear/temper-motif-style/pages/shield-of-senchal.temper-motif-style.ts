@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const shieldOfSenchal = {
   id: "019e5a46-c441-72e8-9c91-d0653df36b69",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "shield-of-senchal",
   title: "Shield of Senchal",
   collectionIndex: 66,

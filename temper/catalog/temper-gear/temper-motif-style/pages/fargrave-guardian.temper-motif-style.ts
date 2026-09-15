@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const fargraveGuardian = {
   id: "019e5a46-c492-7d8b-ae8b-91ed4938b8de",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "fargrave-guardian",
   title: "Fargrave Guardian",
   collectionIndex: 93,

@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const shardborn = {
   id: "019e5a46-c4c5-786a-8bc5-de893e45d956",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "shardborn",
   title: "Shardborn",
   collectionIndex: 110,

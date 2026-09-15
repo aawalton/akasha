@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const psijic = {
   id: "019e5a46-c40b-7dc0-a409-6c0d459ed0b7",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "psijic",
   title: "Psijic",
   collectionIndex: 47,

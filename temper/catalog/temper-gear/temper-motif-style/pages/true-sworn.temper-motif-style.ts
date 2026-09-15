@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const trueSworn = {
   id: "019e5a46-c477-7d3b-93d3-6d1141d5ab94",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "true-sworn",
   title: "True-Sworn",
   collectionIndex: 84,

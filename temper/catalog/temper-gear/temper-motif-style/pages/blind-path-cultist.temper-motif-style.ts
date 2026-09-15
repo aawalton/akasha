@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const blindPathCultist = {
   id: "019e5a46-c4c2-76e5-a86d-148489fe3374",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "blind-path-cultist",
   title: "Blind Path Cultist",
   collectionIndex: 109,

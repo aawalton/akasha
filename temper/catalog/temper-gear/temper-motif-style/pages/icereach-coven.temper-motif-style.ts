@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const icereachCoven = {
   id: "019e5a46-c444-73b2-941c-a90eec758e43",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "icereach-coven",
   title: "Icereach Coven",
   collectionIndex: 67,

@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const ebonshadow = {
   id: "019e5a46-c403-7fa5-800f-4f93759d1d2a",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "ebonshadow",
   title: "Ebonshadow",
   collectionIndex: 43,

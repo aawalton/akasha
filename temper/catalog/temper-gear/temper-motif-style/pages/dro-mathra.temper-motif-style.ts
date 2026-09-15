@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const droMathra = {
   id: "019e5a46-c3ca-7434-8ac6-a5daaa81ecfa",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "dro-mathra",
   title: "Dro-m'Athra",
   collectionIndex: 18,

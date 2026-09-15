@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const ascendantOrder = {
   id: "019e5a46-c498-7ba8-9d92-ef354ac992b1",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "ascendant-order",
   title: "Ascendant Order",
   collectionIndex: 95,

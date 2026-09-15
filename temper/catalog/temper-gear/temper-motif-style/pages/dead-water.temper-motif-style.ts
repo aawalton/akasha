@@ -2,7 +2,7 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const deadWater = {
   id: "019e5a46-c422-70ff-b950-b612bc55960a",
-  type: "temper-motif-style",
+  type: "page-type/temper-motif-style",
   slug: "dead-water",
   title: "Dead-Water",
   collectionIndex: 55,
