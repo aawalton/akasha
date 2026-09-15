@@ -29,6 +29,10 @@ export const declaredProperties = {
     },
     {
       invariantKind: "departure",
+      statement: "What one slug is looked up as is read once and held, a slug naming nothing too.",
+    },
+    {
+      invariantKind: "departure",
       statement: "`page-type` is tried before every type descending from `page-type`.",
     },
     {

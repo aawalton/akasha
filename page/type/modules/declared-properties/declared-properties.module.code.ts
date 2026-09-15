@@ -107,13 +107,21 @@ export function sourceIn(given: string | Reading, pageOf: (path: string) => Valu
     if (under === null) under = [...kindsUnder(PAGE_TYPE, given)]
     return under
   }
+  const held = new Map<string, Value | null>()
+  const looked = (slug: string): Value | null => {
+    for (const one of typing()) {
+      const value = pageAt(given, one, slug, pageOf)
+      if (value !== null) return value
+    }
+    return null
+  }
   return {
     pageTypeAt: (slug) => {
-      for (const one of typing()) {
-        const value = pageAt(given, one, slug, pageOf)
-        if (value !== null) return value
-      }
-      return null
+      const found = held.get(slug)
+      if (found !== undefined) return found
+      const made = looked(slug)
+      held.set(slug, made)
+      return made
     },
     schemaFor: (said) => {
       const filed = shapeOf(given, said)
