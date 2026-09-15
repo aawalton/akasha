@@ -36,6 +36,8 @@ const MEMBERS = "members"
 
 const PARTED_BY = "/"
 
+const TYPE = "type"
+
 export const TESTS_RUN: readonly string[] = [
   "is",
   "in",
@@ -279,6 +281,13 @@ function rowOf(value: Value, keys: readonly string[] | undefined): Row {
   return held
 }
 
+function sluggedIn(one: Valued): Valued {
+  const named = textAt(one.value, TYPE)
+  if (named === null) return one
+  const said = slugOf(named)
+  return said === named ? one : { path: one.path, value: { ...one.value, [TYPE]: said } }
+}
+
 function byPath(one: Valued, two: Valued): number {
   return one.path < two.path ? -1 : one.path > two.path ? 1 : 0
 }
@@ -406,7 +415,10 @@ export function asking(root: string, query: Query): Asked {
       query.files ?? [],
       reading,
       entriesWanted(query, worked)
-    )
+    ).map((one) => {
+      const row = sluggedIn(one.row)
+      return row === one.row ? one : { ...one, row }
+    })
     if (narrowsOn(query, worked)) return countedFirst(root, query, counting)
     return narrowedFirst(root, query, counting, carriesWorked(query, worked))
   } catch (thrown) {

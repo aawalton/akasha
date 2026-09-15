@@ -29,6 +29,15 @@ export const pageAsking = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement:
+        "That page type is a slug, however the page spells the address reaching that page type.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A question tests and orders on that slug as a row carries it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "Those pages are read from the index.",
     },
     {
