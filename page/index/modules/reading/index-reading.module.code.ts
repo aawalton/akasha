@@ -352,6 +352,10 @@ export function slugsOfType(given: string | Reading, pageTypeSlug: string): read
   })
 }
 
+export function edgeFiledAt(targetId: string, propertySlug: string, sourceId: string): string {
+  return join(EDGE, PAGE, ID, targetId, propertySlug, `${sourceId}${ENDING}`)
+}
+
 export function idsNaming(
   given: string | Reading,
   id: string,

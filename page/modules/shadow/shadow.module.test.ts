@@ -1,5 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
+import { put, there } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
+  edgeFiledAt,
   everyValue,
   readingIn,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -43,10 +45,6 @@ import {
   unfiled,
 } from "akasha/page/modules/shadow/shadow.module.test-fixtures.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import {
-  put,
-  there,
-} from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -131,7 +129,7 @@ test("a directory the change empties is not listed, and one it fills is", () => 
 
 test("a relation through a property the same change declares is filed, as a landing files it", () => {
   const repo = seeded()
-  const at = `relation/page/id/${idOf("g")}/note/${idOf("b")}.jsonl`
+  const at = edgeFiledAt(idOf("g"), "note", idOf("b"))
   expect(readingIn(repo).holds(at)).toBe(false)
   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
   expect(reading.lines(at)).toEqual(['{"path":"akasha/b.domain.ts"}'])
