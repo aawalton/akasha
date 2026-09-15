@@ -11,7 +11,7 @@ export const veraGraphCleanup = {
       statement:
         "Every closure over the graph's edges is worked out in the graph rather than by each caller.",
       workingMemory:
-        "Every closure goes through `closureOf` in `graph-predicate-closure`, handed a `graph-predicate` page saying which edge kinds and which way. `graph-asking` answers one edge and closes nothing. Typecheck, deploy, the stylesheet globber, the gateway stamp and `answer-cost` name no edge kind or direction of their own. What still reads an import without the graph is one edge rather than a closure: `folder-matches-a-shape.check.code.ts:37` and `page-reference-filing.module.code.ts:99`.",
+        "Every closure goes through `closureOf` in `graph-predicate-closure`, handed a `graph-predicate` page saying which edge kinds and which way. `graph-asking` answers one edge and closes nothing. Typecheck, deploy, the stylesheet globber, the gateway stamp and `answer-cost` name no edge kind or direction of their own. The only import read outside the graph now is `page-reference-filing.module.code.ts:99`, which writes the edge the graph reads the other way.",
     },
     {
       statement:
@@ -23,7 +23,7 @@ export const veraGraphCleanup = {
       statement:
         "The graph answers a closure over the shadow a change leaves as well as over the tree there is.",
       workingMemory:
-        "Proven in `graph-predicate-closure.module.test.ts`: a closure cast over `shadowOnto` sees an edit no commit has, and the same ask over the tree does not. The index and the bodies both come from the cast. Deploy reads out of a commit by design. What is left is `folder-matches-a-shape.check.code.ts:30-38`, which parses its own imports before and after a change rather than asking the graph, and gates on `textNamed` where the graph gates on `typeScripted`.",
+        "Proven in `graph-predicate-closure.module.test.ts`: a closure cast over `shadowOnto` sees an edit no commit has, and the same ask over the tree does not. The index and the bodies both come from the cast. Deploy reads out of a commit by design. Nothing is left that lays a change over an import edge by hand.",
     },
   ],
   constraints: [
