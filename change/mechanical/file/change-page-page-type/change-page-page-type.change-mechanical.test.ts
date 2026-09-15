@@ -100,7 +100,7 @@ test("the page type a page states is restated in the body", async () => {
   const said = await runChange(world, { at: ONE_PAGE, to: SPARE_TYPE })
   const body = bodiesIn(said, world.base).get(ONE_MOVED) ?? ""
 
-  expect(body).toContain(`pageTypeSlug: "spare"`)
+  expect(body).toContain(`pageTypeSlug: "page-type/spare"`)
   expect(body).toContain("satisfies Spare")
   expect(body).toContain(`from "akasha/${SPARE_TYPE}"`)
 })
