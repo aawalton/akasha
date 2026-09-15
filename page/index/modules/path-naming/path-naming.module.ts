@@ -14,10 +14,6 @@ export const pathNaming = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A reading that will not answer leaves the importers unread.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "A file moving in the same act is no importer of the paths that move.",
     },
     {

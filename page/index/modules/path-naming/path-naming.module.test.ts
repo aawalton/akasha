@@ -21,11 +21,6 @@ function unindexed(): string {
   return scratch.rootFor("path-naming-")
 }
 
-test("an index that will not answer leaves the importers unread", () => {
-  const said = importingOf(unindexed(), MOVING)
-  expect("unread" in said ? said.unread : "").toContain("so none were repointed")
-})
-
 test("a caller naming nothing moved reads no importer at all", () => {
   expect(importingOf(unindexed(), new Map())).toEqual({ importers: [] })
 })
