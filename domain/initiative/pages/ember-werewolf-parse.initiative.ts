@@ -8,11 +8,6 @@ export const emberWerewolfParse = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "Three-Color Stalker's bar, masteries and Champion Points are the werewolf setup.",
-      workingMemory:
-        "One bar and no weapon swap: Feral Pounce, Hircine's Rage, Ferocious Roar, Bloody Gnash and Bloodclaws under Werewolf Berserker. The guide calls Feral Pounce by the name Feral Carnage, which the game does not use. Class Mastery rather than subclassing, taking An Eye for Exploitation and Above and Beyond. Warfare takes Wrathful Strikes, Fighting Finesse, Deadly Aim and Master-at-Arms. Fitness takes Boundless Vitality, Fortified, Rejuvenation and Celerity. The Thief, and 64 Stamina.\n",
-    },
-    {
       statement: "Three-Color Stalker parses 135,000 or more on the trials dummy.",
       workingMemory:
         "The Update 50 figures on the 21 million Iron Atronach are 176.7k for this setup and 150.4k for crafted-only, both on Nightblade, the strongest werewolf class. They come from a simulator assuming every light attack lands and bash weaving, so a real parse falls short, and the margin over 135k is why the farmed setup is worth the runs. Food is Braised Rabbit with Spring Vegetables, and potions are Armor from Bugloss, Mountain Flower and Mudcrab Chitin.",
