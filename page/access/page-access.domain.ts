@@ -36,7 +36,6 @@ export const pageAccess = {
     "module/patch",
     "module/property-definition",
     "module/raw-page-row",
-    "module/reserved-slugs",
     "module/routing-core",
     "module/sentinels",
     "module/types",
