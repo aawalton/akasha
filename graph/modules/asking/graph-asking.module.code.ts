@@ -32,6 +32,10 @@ const ID = "id"
 
 const APART = "\n"
 
+const KNOWN = "known"
+
+const PROPERTY = "property"
+
 const BY_REFERENCE: Known = "reference"
 
 const BY_DECLARATION: Known = "declaration"
@@ -90,14 +94,13 @@ function askingFor(index: Answering, kind: string, asked: string): Asking {
   return { kind, attributes: attributesIn(found.value) }
 }
 
-function attributeFor(asking: Asking, asked: string): string {
-  const only = asking.attributes[0]
-  if (asking.attributes.length !== 1 || only === undefined) {
+function attributeNamed(asking: Asking, wanted: string, asked: string): string {
+  if (!asking.attributes.includes(wanted)) {
     throw new Error(
-      `the \`${asking.kind}\` edge carries ${asking.attributes.length} attributes rather than the one it is read by, so ${asked} could not be answered`
+      `the \`${asking.kind}\` edge carries no \`${wanted}\` attribute, so ${asked} could not be answered`
     )
   }
-  return only
+  return wanted
 }
 
 function importsInto(
@@ -106,7 +109,7 @@ function importsInto(
   asking: Asking,
   asked: string
 ): readonly Edge[] {
-  const attribute = attributeFor(asking, asked)
+  const attribute = attributeNamed(asking, KNOWN, asked)
   return index.importersOf(path).map((from) => ({
     kind: asking.kind,
     from,
@@ -126,7 +129,7 @@ function importsOutOf(
   bodyAt: Body,
   naming: Naming
 ): readonly Edge[] {
-  const attribute = attributeFor(asking, asked)
+  const attribute = attributeNamed(asking, KNOWN, asked)
   if (!typeScripted(path)) return []
   const body = bodyAt(path)
   if (body === null) return []
@@ -166,7 +169,7 @@ function relationsInto(
   asking: Asking,
   asked: string
 ): readonly Edge[] {
-  const attribute = attributeFor(asking, asked)
+  const attribute = attributeNamed(asking, PROPERTY, asked)
   const to = claimantOf(
     NOWHERE,
     path,

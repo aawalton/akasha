@@ -74,5 +74,10 @@ export const graphAsking = {
       statement:
         "A path named by a page type rather than by a page is answered here with no edge at all.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An attribute an answer writes is named here, and an edge carrying none of it is refused.",
+    },
   ],
 } as const satisfies Module
