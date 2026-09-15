@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const buildkit = {
   id: "01a07383-de17-7590-8580-ccd38e33ccd8",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "buildkit",
   definition: "the deployment running the builder that turns a Dockerfile into an image",
   code: "ts",

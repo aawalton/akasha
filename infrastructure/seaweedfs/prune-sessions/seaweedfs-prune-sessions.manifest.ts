@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const seaweedfsPruneSessions = {
   id: "01a07387-c98a-74f1-a661-245678c39ae4",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "seaweedfs-prune-sessions",
   definition: "the namespace and the cron job removing stored agent sessions past their age",
   code: "ts",

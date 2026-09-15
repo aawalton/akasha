@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const seaweedfsBackupCnpg = {
   id: "01a07386-60c1-7d78-b901-14160ffce256",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "seaweedfs-backup-cnpg",
   definition:
     "the namespace, the disk and the cron job copying the Postgres backups off to separate storage",

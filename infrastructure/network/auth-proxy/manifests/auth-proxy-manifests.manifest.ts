@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const authProxyManifests = {
   id: "01a07383-6af4-7b2a-9679-bdc53aceb125",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "auth-proxy-manifests",
   definition: "the namespace, the deployment reading a request's session and the way in to it",
   code: "ts",

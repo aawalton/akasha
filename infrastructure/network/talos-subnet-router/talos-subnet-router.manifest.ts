@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const talosSubnetRouter = {
   id: "01a07390-b294-7b97-9afc-77a5b8ae3f76",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "talos-subnet-router",
   definition: "the deployment carrying private network traffic to the cluster nodes' addresses",
   code: "ts",

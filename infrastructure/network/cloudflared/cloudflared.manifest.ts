@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const cloudflared = {
   id: "01a07387-a874-7d57-b61a-8779992b0fe9",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "cloudflared",
   definition:
     "the namespace, config and deployment with the tunnel traffic reaches the cluster over",

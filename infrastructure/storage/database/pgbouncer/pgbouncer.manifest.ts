@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const pgbouncer = {
   id: "01a0738b-94aa-753a-a80d-7381626f3577",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "pgbouncer",
   definition:
     "the namespace, config map, deployment and service of the pooler with the database connections",

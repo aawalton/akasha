@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const postgrest = {
   id: "01a07388-0aab-752f-88b5-67dfc8f38a5c",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "postgrest",
   definition: "the namespace, deployment and service serving the database's tables over HTTP",
   code: "ts",

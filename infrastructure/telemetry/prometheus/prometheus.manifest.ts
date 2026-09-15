@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const prometheus = {
   id: "01a07398-73c3-7425-83fd-0ccdc373d439",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "prometheus",
   definition:
     "the metrics server, its namespace, its access rules, its storage, its configuration and its way in",

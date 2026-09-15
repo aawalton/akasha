@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const metallbSynth = {
   id: "01a06810-1262-7696-970a-91682eb0719b",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "metallb-synth",
   definition: "the address pool a load balancer hands a service an address out of",
   code: "ts",

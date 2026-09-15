@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const promtail = {
   id: "01a0737b-690e-7979-8a39-9a70362ce116",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "promtail",
   definition:
     "the log collector's configuration, its permissions and the daemonset running it on every node",

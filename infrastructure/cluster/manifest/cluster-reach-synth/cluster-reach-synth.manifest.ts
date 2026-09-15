@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const clusterReachSynth = {
   id: "01a091dd-3f89-71f8-8712-76e7c7de9a53",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "cluster-reach-synth",
   definition: "the account a program off the cluster reaches the cluster's API as",
   code: "ts",

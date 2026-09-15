@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const alanwaltonWeb = {
   id: "01a0737e-5eae-7286-97df-40905333f97f",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "alanwalton-web",
   definition: "the deployment and service running Alan's command center",
   code: "ts",

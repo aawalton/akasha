@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const postgresExporter = {
   id: "01a07396-d8bf-7514-af72-2499f6246428",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "postgres-exporter",
   definition: "the database exporter's queries, its deployment and the way in to it",
   parts: [

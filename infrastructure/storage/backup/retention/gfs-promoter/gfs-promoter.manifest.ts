@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const gfsPromoter = {
   id: "01a0737e-ca74-77d1-ad41-f4ccc595aad2",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "gfs-promoter",
   definition: "the scheduled job deciding which Postgres backups are kept and which are released",
   code: "ts",

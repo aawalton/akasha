@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const alanwaltonAtlas = {
   id: "01a07382-cc82-70f9-994d-20709df7bec4",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "alanwalton-atlas",
   definition: "the deployment and service drawing Alan's map and taking in his phone's locations",
   code: "ts",

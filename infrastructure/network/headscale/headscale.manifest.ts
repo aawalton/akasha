@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const headscale = {
   id: "01a0738c-9157-7c4c-906c-8ff65da0976d",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "headscale",
   definition:
     "the workload, service and policies running the server that admits machines to the private network",

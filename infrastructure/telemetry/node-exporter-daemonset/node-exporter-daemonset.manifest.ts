@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const nodeExporterDaemonset = {
   id: "01a07390-ce05-777e-ac13-7b3f78051162",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "node-exporter-daemonset",
   definition:
     "the daemon set publishing each node's processor, memory, disk and network as metrics",

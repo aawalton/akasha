@@ -2,7 +2,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/m
 
 export const buildkitPrune = {
   id: "01a0737c-c2fe-7f6b-8abb-9b394a3320e5",
-  type: "manifest",
+  type: "page-type/manifest",
   slug: "buildkit-prune",
   definition: "the cron job that clears the builder's unused cache",
   code: "ts",
