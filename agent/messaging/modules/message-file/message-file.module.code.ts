@@ -18,10 +18,7 @@ import {
   removeUncommitted,
   uncommittedIn,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
-import {
-  slugAt,
-  textAt,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { slugAt, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   composedFor,
   pagesAtFor,
