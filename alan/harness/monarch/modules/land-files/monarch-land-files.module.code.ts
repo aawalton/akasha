@@ -37,6 +37,8 @@ const CATEGORY_TYPE = "monarch-category"
 
 const TAG_TYPE = "monarch-tag"
 
+const PAGE_TYPE = "page-type"
+
 const MONTH_NAMES = [
   "January",
   "February",
@@ -156,7 +158,7 @@ function monthPage(slug: string): string {
     "",
     `export const ${exportedAs(slug)} = {`,
     `  id: "${Bun.randomUUIDv7()}",`,
-    `  type: "${typeSlug}",`,
+    `  type: "${namedAs(PAGE_TYPE, typeSlug, null)}",`,
     `  slug: "${slug}",`,
     `  title: ${JSON.stringify(name)},`,
     `  startsOn: "${covered}-01",`,
