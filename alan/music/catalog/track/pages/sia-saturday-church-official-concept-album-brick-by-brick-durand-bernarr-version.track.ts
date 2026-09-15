@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSaturdayChurchOfficialConceptAlbumBrickByBrickDurandBernarrVersion = {
   id: "01a0a59b-f74e-773a-be1b-be4c4465c938",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-saturday-church-official-concept-album-brick-by-brick-durand-bernarr-version",
   ownLength: 3.7485833333333334,
   ownProgress: 0,

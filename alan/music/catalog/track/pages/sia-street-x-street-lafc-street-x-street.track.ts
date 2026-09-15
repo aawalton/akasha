@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaStreetXStreetLafcStreetXStreet = {
   id: "01a0a59c-1735-7ca7-95b5-3d2da0e52b26",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-street-x-street-lafc-street-x-street",
   ownLength: 2.8857,
   ownProgress: 0,

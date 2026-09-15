@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaReasonableRemixes1IncredibleAwenRemix = {
   id: "01a0a59c-1e7a-7889-9fb7-38ccc713512e",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-reasonable-remixes-1-incredible-awen-remix",
   ownLength: 5.71875,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaIForgiveYouRemixesIForgiveYouSpencerBrownRemix = {
   id: "01a0a59c-1f83-72b5-9a05-d8f6da4d3dc0",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-i-forgive-you-remixes-i-forgive-you-spencer-brown-remix",
   ownLength: 5.338433333333334,
   ownProgress: 0,

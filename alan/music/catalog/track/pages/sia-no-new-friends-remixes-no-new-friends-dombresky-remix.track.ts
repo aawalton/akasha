@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaNoNewFriendsRemixesNoNewFriendsDombreskyRemix = {
   id: "01a0a59c-313d-7c16-a23b-a93eeaadd849",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-no-new-friends-remixes-no-new-friends-dombresky-remix",
   ownLength: 4.112,
   ownProgress: 0,

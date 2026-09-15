@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaLetSLoveDavidGuettaMortenFutureRaveRemixLetSLoveDavidGuettaMortenFutureRave2 = {
   id: "01a0a59c-2e76-7224-a83d-fba80f37acdd",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-let-s-love-david-guetta-morten-future-rave-remix-let-s-love-david-guetta-morten-future-rave-2",
   ownLength: 4.666616666666667,
   ownProgress: 0,

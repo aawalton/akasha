@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaRhapsodyOriginalsDayTooSoonRhapsodyOriginals = {
   id: "01a0a59c-3d54-7474-8e52-140a7951b495",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-rhapsody-originals-day-too-soon-rhapsody-originals",
   ownLength: 4.32555,
   ownProgress: 0,

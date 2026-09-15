@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaReasonableRemixes2DanceAloneMiaMorettiRemix = {
   id: "01a0a59c-1e39-7282-bb09-37da2a145f59",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-reasonable-remixes-2-dance-alone-mia-moretti-remix",
   ownLength: 5.951333333333333,
   ownProgress: 0,

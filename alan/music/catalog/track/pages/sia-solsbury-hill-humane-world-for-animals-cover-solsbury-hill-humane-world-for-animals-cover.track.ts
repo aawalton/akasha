@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSolsburyHillHumaneWorldForAnimalsCoverSolsburyHillHumaneWorldForAnimalsCover = {
   id: "01a0a59c-1c95-758a-a0b0-dcdfb1e7a8ec",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-solsbury-hill-humane-world-for-animals-cover-solsbury-hill-humane-world-for-animals-cover",
   ownLength: 4.016216666666667,
   ownProgress: 0,

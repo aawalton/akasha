@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaMusicSongsFromAndInspiredByTheMotionPictureCourageToChange = {
   id: "01a0a59c-0221-7903-8805-ff461efaac0a",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-music-songs-from-and-inspired-by-the-motion-picture-courage-to-change",
   ownLength: 4.8776,
   ownProgress: 0,

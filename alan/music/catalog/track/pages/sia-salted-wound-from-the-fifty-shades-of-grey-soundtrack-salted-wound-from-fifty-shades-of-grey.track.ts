@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSaltedWoundFromTheFiftyShadesOfGreySoundtrackSaltedWoundFromFiftyShadesOfGrey = {
   id: "01a0a59c-3b4e-762e-974c-1e36f8d7b6a5",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-salted-wound-from-the-fifty-shades-of-grey-soundtrack-salted-wound-from-fifty-shades-of-grey",
   ownLength: 4.522216666666667,
   ownProgress: 0,

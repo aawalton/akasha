@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaLiveFromSydneySoonWeLlBeFound = {
   id: "01a0a59c-0bb6-7b69-9e0f-3054920d6e21",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-live-from-sydney-soon-we-ll-be-found",
   ownLength: 4.234883333333333,
   ownProgress: 0,

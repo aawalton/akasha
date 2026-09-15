@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaHeyBoyTheRemixesHeyBoyWideboysRemix = {
   id: "01a0a59c-2c26-7887-b145-9be1f2e5507a",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-hey-boy-the-remixes-hey-boy-wideboys-remix",
   ownLength: 2.459016666666667,
   ownProgress: 0,

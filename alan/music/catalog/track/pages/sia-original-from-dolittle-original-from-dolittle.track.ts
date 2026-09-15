@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaOriginalFromDolittleOriginalFromDolittle = {
   id: "01a0a59c-30da-7208-9a31-ceffdc2278e4",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-original-from-dolittle-original-from-dolittle",
   ownLength: 3.5611166666666665,
   ownProgress: 0,

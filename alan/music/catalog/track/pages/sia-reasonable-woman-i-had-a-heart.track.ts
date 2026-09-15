@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaReasonableWomanIHadAHeart = {
   id: "01a0a59b-f8fd-7827-b359-02cd4e398f0a",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-reasonable-woman-i-had-a-heart",
   ownLength: 2.80855,
   ownProgress: 0,

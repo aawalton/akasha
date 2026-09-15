@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSaturdayChurchOfficialConceptAlbumHouseOnFireExtendedClubVersion = {
   id: "01a0a59b-f70e-7a8f-b1cd-749389e72b0b",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-saturday-church-official-concept-album-house-on-fire-extended-club-version",
   ownLength: 5.48925,
   ownProgress: 0,

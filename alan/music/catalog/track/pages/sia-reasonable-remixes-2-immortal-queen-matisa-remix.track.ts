@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaReasonableRemixes2ImmortalQueenMatisaRemix = {
   id: "01a0a59c-1e15-754e-b4a4-6ec035e0576e",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-reasonable-remixes-2-immortal-queen-matisa-remix",
   ownLength: 5.777333333333333,
   ownProgress: 0,

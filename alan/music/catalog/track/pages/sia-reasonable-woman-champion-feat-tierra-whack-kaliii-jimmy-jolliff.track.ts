@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaReasonableWomanChampionFeatTierraWhackKaliiiJimmyJolliff = {
   id: "01a0a59b-f9a0-775f-ac13-55b30256d1ea",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-reasonable-woman-champion-feat-tierra-whack-kaliii-jimmy-jolliff",
   ownLength: 2.678716666666667,
   ownProgress: 0,

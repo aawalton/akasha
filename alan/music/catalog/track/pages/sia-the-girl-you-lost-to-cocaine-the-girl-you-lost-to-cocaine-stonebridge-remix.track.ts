@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaTheGirlYouLostToCocaineTheGirlYouLostToCocaineStonebridgeRemix = {
   id: "01a0a59c-3f43-7de4-a374-a713d3b16d66",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-the-girl-you-lost-to-cocaine-the-girl-you-lost-to-cocaine-stonebridge-remix",
   ownLength: 7.81955,
   ownProgress: 0,

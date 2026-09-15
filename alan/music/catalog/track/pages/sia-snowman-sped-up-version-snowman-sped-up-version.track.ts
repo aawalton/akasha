@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSnowmanSpedUpVersionSnowmanSpedUpVersion = {
   id: "01a0a59c-2794-7e1a-b0c1-eceb48db3d1a",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-snowman-sped-up-version-snowman-sped-up-version",
   ownLength: 2.2929666666666666,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaReasonableWomanGimmeLoveReasonableWomanVersion = {
   id: "01a0a59b-f91c-735f-8ba5-98803827ebf6",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-reasonable-woman-gimme-love-reasonable-woman-version",
   ownLength: 3.5679,
   ownProgress: 0,

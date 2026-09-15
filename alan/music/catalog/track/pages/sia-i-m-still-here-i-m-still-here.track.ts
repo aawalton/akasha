@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaIMStillHereIMStillHere = {
   id: "01a0a59c-31c8-770d-a5a9-25d668a2feee",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-i-m-still-here-i-m-still-here",
   ownLength: 4.031833333333333,
   ownProgress: 0,

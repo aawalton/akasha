@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaReasonableWomanFameWonTLoveYouFeatParisHilton = {
   id: "01a0a59b-fa5e-7152-84f2-f85772ea990d",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-reasonable-woman-fame-won-t-love-you-feat-paris-hilton",
   ownLength: 3.328133333333333,
   ownProgress: 0,

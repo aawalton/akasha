@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaLabrinthSiaDiploPresentLsdWelcomeToTheWonderfulWorldOfFeatSiaDiploAndLabrinth = {
   id: "01a0a59c-02f4-75ae-928b-1293a5062647",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-labrinth-sia-diplo-present-lsd-welcome-to-the-wonderful-world-of-feat-sia-diplo-and-labrinth",
   ownLength: 1.9444333333333332,
   ownProgress: 0,

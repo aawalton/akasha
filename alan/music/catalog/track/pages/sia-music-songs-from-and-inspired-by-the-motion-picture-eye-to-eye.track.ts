@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaMusicSongsFromAndInspiredByTheMotionPictureEyeToEye = {
   id: "01a0a59c-01c5-793c-8f6f-9109e1072f74",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-music-songs-from-and-inspired-by-the-motion-picture-eye-to-eye",
   ownLength: 4.3318666666666665,
   ownProgress: 0,

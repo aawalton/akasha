@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSomersaultSomersaultReworkedByYamWho = {
   id: "01a0a59c-401e-7ef5-b32a-7b57f0a8d85e",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-somersault-somersault-reworked-by-yam-who",
   ownLength: 8.4111,
   ownProgress: 0,

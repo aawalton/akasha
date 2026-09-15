@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActing10thAnniversaryEditionFistFightingASandstorm = {
   id: "01a0a59b-f4fd-7deb-8938-f070114ea4d1",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-10th-anniversary-edition-fist-fighting-a-sandstorm",
   ownLength: 3.79,
   ownProgress: 0,

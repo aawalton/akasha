@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSomersaultSomersaultDangerMouseRemix = {
   id: "01a0a59c-4040-7366-b998-5623beff3825",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-somersault-somersault-danger-mouse-remix",
   ownLength: 3.536233333333333,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaMoveYourBodyMoveYourBodySingleMix = {
   id: "01a0a59c-3590-790b-a14e-79bd39e1d511",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-move-your-body-move-your-body-single-mix",
   ownLength: 4.201333333333333,
   ownProgress: 0,

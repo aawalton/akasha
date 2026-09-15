@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSaturdayChurchOfficialConceptAlbumHouseOnFire = {
   id: "01a0a59b-f631-7af4-97d3-cfcae612a9d2",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-saturday-church-official-concept-album-house-on-fire",
   ownLength: 4.450666666666667,
   ownProgress: 0,

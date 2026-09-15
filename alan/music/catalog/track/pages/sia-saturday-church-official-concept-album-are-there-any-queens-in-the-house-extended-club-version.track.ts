@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSaturdayChurchOfficialConceptAlbumAreThereAnyQueensInTheHouseExtendedClubVersion = {
   id: "01a0a59b-f6f1-79b0-910e-e3a7fd5ca6a2",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-saturday-church-official-concept-album-are-there-any-queens-in-the-house-extended-club-version",
   ownLength: 5.876916666666666,
   ownProgress: 0,

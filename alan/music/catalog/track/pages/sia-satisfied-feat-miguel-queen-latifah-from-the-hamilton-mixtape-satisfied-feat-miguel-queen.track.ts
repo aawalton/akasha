@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSatisfiedFeatMiguelQueenLatifahFromTheHamiltonMixtapeSatisfiedFeatMiguelQueen = {
   id: "01a0a59c-3614-78a3-8529-268f5e6c4006",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-satisfied-feat-miguel-queen-latifah-from-the-hamilton-mixtape-satisfied-feat-miguel-queen",
   ownLength: 5.3065,
   ownProgress: 0,

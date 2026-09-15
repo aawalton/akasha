@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaManchildManchild = {
   id: "01a0a59c-2827-742c-8f4f-7c97142dbb27",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-manchild-manchild",
   ownLength: 3.296666666666667,
   ownProgress: 0,

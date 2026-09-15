@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaReasonableWomanNowhereToBe = {
   id: "01a0a59b-f93b-7d94-a992-ffdb6ebf1b35",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-reasonable-woman-nowhere-to-be",
   ownLength: 3.2734666666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaRhapsodyOriginalsYouHaveBeenLovedRhapsodyOriginals = {
   id: "01a0a59c-3d95-787a-a9a7-8df57b9f863a",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-rhapsody-originals-you-have-been-loved-rhapsody-originals",
   ownLength: 4.618,
   ownProgress: 0,

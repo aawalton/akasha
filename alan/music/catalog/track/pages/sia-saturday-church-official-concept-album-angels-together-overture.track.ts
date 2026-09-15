@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSaturdayChurchOfficialConceptAlbumAngelsTogetherOverture = {
   id: "01a0a59b-f5b4-77a9-a40d-b20ebcd670c9",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-saturday-church-official-concept-album-angels-together-overture",
   ownLength: 2.2349833333333335,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaNumbRemixes1NumbParadiseSoulRemixPt1 = {
   id: "01a0a59c-426c-7387-8587-bc29f392b711",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-numb-remixes-1-numb-paradise-soul-remix-pt-1",
   ownLength: 9.927333333333333,
   ownProgress: 0,

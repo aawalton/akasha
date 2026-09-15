@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSpotifySessionsElasticHeartLiveFromTheVillage = {
   id: "01a0a59c-36a0-7fa0-9559-297ea64871e8",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-spotify-sessions-elastic-heart-live-from-the-village",
   ownLength: 4.445333333333333,
   ownProgress: 0,

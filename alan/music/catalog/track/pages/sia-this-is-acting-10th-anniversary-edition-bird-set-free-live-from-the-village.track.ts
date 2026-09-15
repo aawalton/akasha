@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActing10thAnniversaryEditionBirdSetFreeLiveFromTheVillage = {
   id: "01a0a59b-f53c-7ac3-975f-0465910d9184",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-10th-anniversary-edition-bird-set-free-live-from-the-village",
   ownLength: 5.2271,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaMusicSongsFromAndInspiredByTheMotionPictureOblivionFeatLabrinth = {
   id: "01a0a59c-029e-7e62-a3ba-15b2a5c26e05",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-music-songs-from-and-inspired-by-the-motion-picture-oblivion-feat-labrinth",
   ownLength: 4.23975,
   ownProgress: 0,

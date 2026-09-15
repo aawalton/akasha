@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaRhapsodyOriginalsLittleBlackSandalsRhapsodyOriginals = {
   id: "01a0a59c-3d34-74a2-8de0-4b2195db64b1",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-rhapsody-originals-little-black-sandals-rhapsody-originals",
   ownLength: 4.372216666666667,
   ownProgress: 0,

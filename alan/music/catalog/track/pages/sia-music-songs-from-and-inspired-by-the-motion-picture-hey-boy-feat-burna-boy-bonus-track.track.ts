@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaMusicSongsFromAndInspiredByTheMotionPictureHeyBoyFeatBurnaBoyBonusTrack = {
   id: "01a0a59c-02da-730f-9bd7-9e012a681c38",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-music-songs-from-and-inspired-by-the-motion-picture-hey-boy-feat-burna-boy-bonus-track",
   ownLength: 3.0259,
   ownProgress: 0,

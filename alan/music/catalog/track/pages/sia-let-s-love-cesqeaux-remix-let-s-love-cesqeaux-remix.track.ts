@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaLetSLoveCesqeauxRemixLetSLoveCesqeauxRemix = {
   id: "01a0a59c-2e16-7098-ace1-ef0d4c0a4f60",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-let-s-love-cesqeaux-remix-let-s-love-cesqeaux-remix",
   ownLength: 3.433333333333333,
   ownProgress: 0,

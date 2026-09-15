@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaStepByStepAmazonOriginalStepByStepAmazonOriginal = {
   id: "01a0a59c-31e5-70a1-b40d-d98f65de0c51",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-step-by-step-amazon-original-step-by-step-amazon-original",
   ownLength: 4.155716666666667,
   ownProgress: 0,

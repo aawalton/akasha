@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaMusicSongsFromAndInspiredByTheMotionPictureHeyBoy = {
   id: "01a0a59c-016d-7894-b45e-83ff56ffe4c8",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-music-songs-from-and-inspired-by-the-motion-picture-hey-boy",
   ownLength: 2.49115,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSomePeopleHaveRealProblemsYouHaveBeenLoved = {
   id: "01a0a59c-0c95-7649-9cff-0f7db11d2b51",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-some-people-have-real-problems-you-have-been-loved",
   ownLength: 4.387766666666667,
   ownProgress: 0,

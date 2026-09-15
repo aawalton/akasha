@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaIForgiveYouRemixesIForgiveYouLuziTudorRemix = {
   id: "01a0a59c-1efb-729a-a01d-9fe7bf263bae",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-i-forgive-you-remixes-i-forgive-you-luzi-tudor-remix",
   ownLength: 4.66875,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSaturdayChurchOfficialConceptAlbumDoorToTheDanceFloor = {
   id: "01a0a59b-f5ee-71a0-8361-baad76d6e626",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-saturday-church-official-concept-album-door-to-the-dance-floor",
   ownLength: 4.253316666666667,
   ownProgress: 0,

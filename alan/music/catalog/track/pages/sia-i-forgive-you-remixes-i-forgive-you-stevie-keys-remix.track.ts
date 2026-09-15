@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaIForgiveYouRemixesIForgiveYouStevieKeysRemix = {
   id: "01a0a59c-1f5b-7088-b634-b5bfcb8a45d3",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-i-forgive-you-remixes-i-forgive-you-stevie-keys-remix",
   ownLength: 4.10955,
   ownProgress: 0,

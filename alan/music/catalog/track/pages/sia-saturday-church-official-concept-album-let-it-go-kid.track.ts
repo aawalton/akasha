@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSaturdayChurchOfficialConceptAlbumLetItGoKid = {
   id: "01a0a59b-f68f-702e-b4b5-4eae0f48e3d4",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-saturday-church-official-concept-album-let-it-go-kid",
   ownLength: 2.6281,
   ownProgress: 0,

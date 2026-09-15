@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaLadyCroissantLiveBlowItAllAwayLive = {
   id: "01a0a59c-0e3c-76e7-a22e-47102cd8e204",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-lady-croissant-live-blow-it-all-away-live",
   ownLength: 5.324333333333334,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSaturdayChurchOfficialConceptAlbumSundayExtendedClubVersion = {
   id: "01a0a59b-f6cf-7cdc-85b0-c2a8fb939655",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-saturday-church-official-concept-album-sunday-extended-club-version",
   ownLength: 6.231816666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaMtgDaSiaAngelByTheWingsMtgDaSiaAngelByTheWings = {
   id: "01a0a59c-201b-7d62-9728-4151027343c7",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-mtg-da-sia-angel-by-the-wings-mtg-da-sia-angel-by-the-wings",
   ownLength: 2.0531166666666665,
   ownProgress: 0,

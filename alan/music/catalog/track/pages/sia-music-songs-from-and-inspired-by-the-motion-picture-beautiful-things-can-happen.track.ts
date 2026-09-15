@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaMusicSongsFromAndInspiredByTheMotionPictureBeautifulThingsCanHappen = {
   id: "01a0a59c-0260-7396-a5b7-e6fc38717d5f",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-music-songs-from-and-inspired-by-the-motion-picture-beautiful-things-can-happen",
   ownLength: 2.8361666666666667,
   ownProgress: 0,

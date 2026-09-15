@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaImmortalQueenFeatChakaKhanEveImmortalQueenFeatChakaKhanEve = {
   id: "01a0a59c-1ffe-79c7-b995-841665d9d2b6",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-immortal-queen-feat-chaka-khan-eve-immortal-queen-feat-chaka-khan-eve",
   ownLength: 3.535,
   ownProgress: 0,

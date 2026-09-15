@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaPerfectPerfectWithSia = {
   id: "01a0a59c-1c34-7291-a8db-f4b695fd9d85",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-perfect-perfect-with-sia",
   ownLength: 3.4814166666666666,
   ownProgress: 0,

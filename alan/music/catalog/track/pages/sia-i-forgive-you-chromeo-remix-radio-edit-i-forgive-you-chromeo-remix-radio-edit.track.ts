@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaIForgiveYouChromeoRemixRadioEditIForgiveYouChromeoRemixRadioEdit = {
   id: "01a0a59c-1fa3-7531-af61-354b14bc8b93",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-i-forgive-you-chromeo-remix-radio-edit-i-forgive-you-chromeo-remix-radio-edit",
   ownLength: 3.35205,
   ownProgress: 0,

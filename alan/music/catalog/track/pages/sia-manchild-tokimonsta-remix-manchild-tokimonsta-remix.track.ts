@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaManchildTokimonstaRemixManchildTokimonstaRemix = {
   id: "01a0a59c-27ea-7f4e-bfe7-ff76005d4d40",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-manchild-tokimonsta-remix-manchild-tokimonsta-remix",
   ownLength: 2.95365,
   ownProgress: 0,

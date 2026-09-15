@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaTheGirlYouLostToCocaineTheGirlYouLostToCocaineSanderVanDoornRemix = {
   id: "01a0a59c-3f6a-74f6-81cd-3a998e6d830f",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-the-girl-you-lost-to-cocaine-the-girl-you-lost-to-cocaine-sander-van-doorn-remix",
   ownLength: 7.066883333333333,
   ownProgress: 0,

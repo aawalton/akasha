@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSaturdayChurchOfficialConceptAlbumBlindedByLove = {
   id: "01a0a59b-f671-7f6b-bdf7-7bf84773e262",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-saturday-church-official-concept-album-blinded-by-love",
   ownLength: 3.56495,
   ownProgress: 0,

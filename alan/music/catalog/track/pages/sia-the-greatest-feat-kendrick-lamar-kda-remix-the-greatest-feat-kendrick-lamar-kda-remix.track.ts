@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaTheGreatestFeatKendrickLamarKdaRemixTheGreatestFeatKendrickLamarKdaRemix = {
   id: "01a0a59c-35b1-7850-a408-ede007e874a4",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-the-greatest-feat-kendrick-lamar-kda-remix-the-greatest-feat-kendrick-lamar-kda-remix",
   ownLength: 3.6848833333333335,
   ownProgress: 0,

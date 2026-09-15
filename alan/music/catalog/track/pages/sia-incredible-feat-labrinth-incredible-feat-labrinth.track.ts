@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaIncredibleFeatLabrinthIncredibleFeatLabrinth = {
   id: "01a0a59c-2154-7ea5-a9e4-3088b0289391",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-incredible-feat-labrinth-incredible-feat-labrinth",
   ownLength: 3.5605333333333333,
   ownProgress: 0,

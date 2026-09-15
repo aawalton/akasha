@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaRidingOnMyBikeFromAtHomeWithTheKidsRidingOnMyBike = {
   id: "01a0a59c-2ef7-7db0-8e12-346839a3f487",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-riding-on-my-bike-from-at-home-with-the-kids-riding-on-my-bike",
   ownLength: 1.784,
   ownProgress: 0,

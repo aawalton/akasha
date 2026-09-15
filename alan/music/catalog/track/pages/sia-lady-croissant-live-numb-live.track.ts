@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaLadyCroissantLiveNumbLive = {
   id: "01a0a59c-0e79-71dd-af18-5da2f151a35b",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-lady-croissant-live-numb-live",
   ownLength: 4.437766666666667,
   ownProgress: 0,

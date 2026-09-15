@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaLabrinthSiaDiploPresentLsdItSTimeFeatSiaDiploAndLabrinth = {
   id: "01a0a59c-03c5-7784-a121-7dcb002000c7",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-labrinth-sia-diplo-present-lsd-it-s-time-feat-sia-diplo-and-labrinth",
   ownLength: 3.4951,
   ownProgress: 0,

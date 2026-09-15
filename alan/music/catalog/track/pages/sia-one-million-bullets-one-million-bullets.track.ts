@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaOneMillionBulletsOneMillionBullets = {
   id: "01a0a59c-3922-747d-920e-e1974c4f5314",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-one-million-bullets-one-million-bullets",
   ownLength: 4.182883333333334,
   ownProgress: 0,

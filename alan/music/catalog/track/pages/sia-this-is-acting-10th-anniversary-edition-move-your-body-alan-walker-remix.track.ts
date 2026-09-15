@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActing10thAnniversaryEditionMoveYourBodyAlanWalkerRemix = {
   id: "01a0a59b-f57f-7fd9-b8d2-8ca12f6db24e",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-10th-anniversary-edition-move-your-body-alan-walker-remix",
   ownLength: 3.6317666666666666,
   ownProgress: 0,

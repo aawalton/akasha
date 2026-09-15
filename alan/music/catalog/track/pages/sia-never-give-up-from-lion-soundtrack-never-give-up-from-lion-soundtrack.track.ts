@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaNeverGiveUpFromLionSoundtrackNeverGiveUpFromLionSoundtrack = {
   id: "01a0a59c-35f2-79f3-aba5-ef6da2463e9b",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-never-give-up-from-lion-soundtrack-never-give-up-from-lion-soundtrack",
   ownLength: 3.6997666666666666,
   ownProgress: 0,

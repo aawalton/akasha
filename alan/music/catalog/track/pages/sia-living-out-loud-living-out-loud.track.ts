@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaLivingOutLoudLivingOutLoud = {
   id: "01a0a59c-356e-7182-aeeb-f1fb2b146df0",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-living-out-loud-living-out-loud",
   ownLength: 3.9906,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSaturdayChurchOfficialConceptAlbumSunday = {
   id: "01a0a59b-f5ce-719f-96a1-449b23a36b6b",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-saturday-church-official-concept-album-sunday",
   ownLength: 4.60705,
   ownProgress: 0,

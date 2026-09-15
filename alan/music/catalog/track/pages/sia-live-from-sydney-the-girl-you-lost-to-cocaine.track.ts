@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaLiveFromSydneyTheGirlYouLostToCocaine = {
   id: "01a0a59c-0c21-7280-be56-27b5a3ce8541",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-live-from-sydney-the-girl-you-lost-to-cocaine",
   ownLength: 2.8971,
   ownProgress: 0,

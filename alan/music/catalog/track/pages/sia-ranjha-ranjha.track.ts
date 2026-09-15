@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaRanjhaRanjha = {
   id: "01a0a59b-f2d7-7ccd-bcbc-18ca5a7e94d3",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-ranjha-ranjha",
   ownLength: 3.067633333333333,
   ownProgress: 0,

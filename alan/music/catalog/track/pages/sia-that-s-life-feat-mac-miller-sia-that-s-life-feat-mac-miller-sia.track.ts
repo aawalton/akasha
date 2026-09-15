@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThatSLifeFeatMacMillerSiaThatSLifeFeatMacMillerSia = {
   id: "01a0a59c-30fb-7d9c-99d4-6a39d4f1b093",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-that-s-life-feat-mac-miller-sia-that-s-life-feat-mac-miller-sia",
   ownLength: 3.3731666666666666,
   ownProgress: 0,

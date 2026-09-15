@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaIForgiveYouRemixesIForgiveYouMaherDanielRemix = {
   id: "01a0a59c-1f3c-777c-a144-98f25be3d143",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-i-forgive-you-remixes-i-forgive-you-maher-daniel-remix",
   ownLength: 4.818433333333333,
   ownProgress: 0,

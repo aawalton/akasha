@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaIForgiveYouIForgiveYou = {
   id: "01a0a59c-20d0-78f1-94f1-edd677a01908",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-i-forgive-you-i-forgive-you",
   ownLength: 4.3317,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaSomePeopleHaveRealProblemsLentil = {
   id: "01a0a59c-0c59-79ce-ba01-7388249689f8",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-some-people-have-real-problems-lentil",
   ownLength: 4.4491,
   ownProgress: 0,

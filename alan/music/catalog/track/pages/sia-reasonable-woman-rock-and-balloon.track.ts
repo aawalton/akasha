@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaReasonableWomanRockAndBalloon = {
   id: "01a0a59b-faa5-717a-b583-6ecad2f0ff2b",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-reasonable-woman-rock-and-balloon",
   ownLength: 4.002833333333333,
   ownProgress: 0,
