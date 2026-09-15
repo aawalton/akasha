@@ -61,6 +61,10 @@ export const fileIsOwnedByAPage = {
       invariantKind: "invariant-kind/absence",
       statement: "No list in this check names a file let through.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page a change adds owns the files that same change gives that page.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
