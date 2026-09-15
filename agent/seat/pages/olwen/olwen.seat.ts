@@ -2,7 +2,7 @@ import type { Seat } from "akasha/agent/seat/seat.page-type.types.ts"
 
 export const olwen = {
   id: "01a09c5a-5d65-7000-a802-ca13fcc51fb2",
-  type: "seat",
+  type: "page-type/seat",
   slug: "olwen",
   persona: "persona/olwen",
   assignmentSlug: "initiative/olwen-pages-system-display",
