@@ -2,7 +2,7 @@ import type { TemperTargetArmor } from "akasha/temper/catalog/temper-effect/temp
 
 export const dungeon = {
   id: "019e21f4-76c0-70a4-8a3e-9fffe01c90a8",
-  type: "temper-target-armor",
+  type: "page-type/temper-target-armor",
   slug: "dungeon",
   title: "Dungeon",
   key: "dungeon",
