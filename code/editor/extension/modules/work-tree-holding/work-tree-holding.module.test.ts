@@ -1,9 +1,11 @@
 import { expect, test } from "bun:test"
 import {
   agreementOf,
+  colorIn,
   drawnAs,
   type Holding,
   heldAnswered,
+  heldColored,
   heldGone,
   heldMoved,
   heldWithout,
@@ -11,26 +13,16 @@ import {
   movedLabels,
   settledOver,
 } from "akasha/code/editor/extension/modules/work-tree-holding/work-tree-holding.module.code.ts"
-import { rowOf } from "akasha/code/editor/extension/modules/work-tree-holding/work-tree-holding.module.test-fixtures.ts"
-
-const TREE: readonly WorkTreeRow[] = [
-  {
-    ...rowOf("initiative", "held", "held"),
-    children: [
-      rowOf("intent", "held#1", "first"),
-      rowOf("intent", "held#2", "second"),
-      rowOf("intent", "held#3", "third"),
-      rowOf("initiative", "below", "below"),
-    ],
-  },
-  rowOf("initiative", "other", "other"),
-]
-
-function holding(labels: readonly string[], without: readonly string[] = [], waiting = 1): Holding {
-  return { kind: "intents", labels, without, waiting }
-}
-
-const GONE = heldGone(undefined)
+import {
+  colored,
+  deleting,
+  fileColored,
+  fileOf,
+  GONE,
+  holding,
+  rowOf,
+  TREE,
+} from "akasha/code/editor/extension/modules/work-tree-holding/work-tree-holding.module.test-fixtures.ts"
 
 test("the intents an initiative holds answer their statements in order", () => {
   expect(intentLabelsIn(TREE, "held")).toEqual(["first", "second", "third"])
@@ -164,26 +156,6 @@ test("a statement no intent states, at either end, holds nothing", () => {
   expect(heldMoved(undefined, ["a", "b"], "a", "a")).toBe(null)
   expect(heldMoved(undefined, null, "a", "b")).toBe(null)
 })
-
-function fileOf(labels: readonly string[]): readonly WorkTreeRow[] {
-  return [
-    {
-      ...rowOf("initiative", "held", "held"),
-      children: labels.map((label, at) => rowOf("intent", `held#${String(at + 1)}`, label)),
-    },
-    rowOf("initiative", "other", "other"),
-  ]
-}
-
-function deleting(
-  holds: Map<string, Holding>,
-  shown: readonly WorkTreeRow[],
-  statement: string
-): undefined {
-  const left = heldWithout(holds.get("held"), intentLabelsIn(shown, "held"), statement)
-  if (left !== null) holds.set("held", left)
-  return undefined
-}
 
 test("two intents deleted one after the other are both left out at once", () => {
   const holds = new Map<string, Holding>()
@@ -351,5 +323,76 @@ test("a hold outlives no landing it was made for", () => {
 
   const later = settledOver(file, holds)
   expect(intentLabelsIn(later, "held")).toEqual(["a", "b", "c"])
+  expect(holds.has("held")).toBe(false)
+})
+
+test("the color an initiative is drawn in is read off that initiative's row", () => {
+  expect(colorIn(fileColored("green"), "held")).toBe("green")
+  expect(colorIn(fileColored(null), "held")).toBe(null)
+  expect(colorIn(fileColored("green"), "elsewhere")).toBe(null)
+})
+
+test("a file drawing the initiative in the color held agrees", () => {
+  expect(agreementOf([], colored("green"), "green")).toBe("agrees")
+})
+
+test("a file drawing the initiative in another color or none is stale", () => {
+  expect(agreementOf([], colored("green"), "blue")).toBe("stale")
+  expect(agreementOf([], colored("green"), null)).toBe("stale")
+})
+
+test("an initiative out of the file while held to have a color is gone", () => {
+  expect(agreementOf(null, colored("green"), "green")).toBe("gone")
+})
+
+test("an initiative held to have a color is drawn in that color", () => {
+  const shown = drawnAs(TREE, "held", colored("green"))
+  expect(shown[0]?.color).toBe("green")
+  expect(shown[1]?.color).toBe(null)
+  expect(intentLabelsIn(shown, "held")).toEqual(["first", "second", "third"])
+})
+
+test("an initiative nested beneath a row is drawn in the color held for it", () => {
+  const shown = drawnAs(TREE, "below", colored("green"))
+  expect(shown[0]?.children.map((child) => child.color)).toEqual([null, null, null, "green"])
+})
+
+test("a color held names the seat that color is the turn color of", () => {
+  expect(heldColored(undefined, "green", "amy")).toEqual(colored("green"))
+})
+
+test("a color held over a hold already there counts one landing more", () => {
+  expect(heldColored(colored("green"), "blue", "amy")).toEqual(colored("blue", 2))
+  expect(heldColored(holding(["a"], [], 1), "blue", "amy")).toEqual(colored("blue", 2))
+})
+
+test("a landing answering counts a color hold one less", () => {
+  expect(heldAnswered(colored("green", 2))).toEqual(colored("green", 1))
+  expect(heldAnswered(colored("green", 0))).toEqual(colored("green", 0))
+})
+
+test("an initiative is drawn in the color held until the file draws it so", () => {
+  const holds = new Map<string, Holding>([["held", colored("green")]])
+
+  let shown = settledOver(fileColored(null), holds)
+  expect(colorIn(shown, "held")).toBe("green")
+  expect(holds.has("held")).toBe(true)
+
+  shown = settledOver(fileColored("green"), holds)
+  expect(colorIn(shown, "held")).toBe("green")
+  expect(holds.has("held")).toBe(false)
+})
+
+test("a color hold waiting on no landing is let go however the file reads", () => {
+  const holds = new Map<string, Holding>([["held", colored("green", 0)]])
+  const shown = settledOver(fileColored(null), holds)
+  expect(colorIn(shown, "held")).toBe(null)
+  expect(holds.has("held")).toBe(false)
+})
+
+test("a color held for an initiative the file lost is let go", () => {
+  const holds = new Map<string, Holding>([["held", colored("green")]])
+  const shown = settledOver([rowOf("initiative", "other", "other")], holds)
+  expect(shown.map((row) => row.key)).toEqual(["other"])
   expect(holds.has("held")).toBe(false)
 })

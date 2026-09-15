@@ -24,6 +24,14 @@ export const workTreeHolding = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A hold for an initiative is the color that initiative is drawn in.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A hold naming a color names the seat whose turn color that is.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A hold names the intents held to be going as well as the intents left.",
     },
     {
@@ -45,6 +53,15 @@ export const workTreeHolding = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "An initiative held to be gone is left out of the rows drawn.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "An initiative held to have a color is drawn in that color wherever that initiative sits.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The rows beneath that initiative keep the colors those rows have.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -77,6 +94,23 @@ export const workTreeHolding = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "A file with an initiative held to be gone is stale rather than gone.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file drawing an initiative in the color held for it agrees.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A file drawing that initiative in another color or none is stale rather than gone.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file without an initiative held to have a color is gone rather than stale.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The intents an initiative held to have a color holds are read by nothing here.",
     },
     {
       invariantKind: "invariant-kind/departure",

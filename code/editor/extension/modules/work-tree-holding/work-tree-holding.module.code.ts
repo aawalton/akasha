@@ -8,6 +8,12 @@ export type Holding =
       readonly waiting: number
     }
   | { readonly kind: "nothing"; readonly waiting: number }
+  | {
+      readonly kind: "color"
+      readonly color: string
+      readonly seat: string
+      readonly waiting: number
+    }
 
 export type Agreement = "agrees" | "stale" | "gone"
 
@@ -27,6 +33,10 @@ export function intentLabelsIn(
   const row = initiativeIn(roots, slug)
   if (row === null) return null
   return row.children.filter((child) => child.kind === "intent").map((child) => child.label)
+}
+
+export function colorIn(roots: readonly WorkTreeRow[], slug: string): string | null {
+  return initiativeIn(roots, slug)?.color ?? null
 }
 
 export function movedLabels(
@@ -53,9 +63,14 @@ function within(one: readonly string[], other: readonly string[]): boolean {
   return true
 }
 
-export function agreementOf(there: readonly string[] | null, held: Holding): Agreement {
+export function agreementOf(
+  there: readonly string[] | null,
+  held: Holding,
+  color: string | null = null
+): Agreement {
   if (held.kind === "nothing") return there === null ? "agrees" : "stale"
   if (there === null) return "gone"
+  if (held.kind === "color") return color === held.color ? "agrees" : "stale"
   if (
     there.length === held.labels.length &&
     there.every((label, at) => label === held.labels[at])
@@ -76,6 +91,10 @@ function waitingOf(held: Holding | undefined): number {
 
 export function heldGone(held: Holding | undefined): Holding {
   return { kind: "nothing", waiting: waitingOf(held) + 1 }
+}
+
+export function heldColored(held: Holding | undefined, color: string, seat: string): Holding {
+  return { kind: "color", color, seat, waiting: waitingOf(held) + 1 }
 }
 
 export function heldAnswered(held: Holding | undefined): Holding | null {
@@ -154,12 +173,24 @@ function withoutInitiative(roots: readonly WorkTreeRow[], slug: string): readonl
     .map((row) => ({ ...row, children: withoutInitiative(row.children, slug) }))
 }
 
+function coloredTo(
+  roots: readonly WorkTreeRow[],
+  slug: string,
+  color: string
+): readonly WorkTreeRow[] {
+  return roots.map((row) => {
+    if (row.kind === "initiative" && row.key === slug) return { ...row, color }
+    return { ...row, children: coloredTo(row.children, slug, color) }
+  })
+}
+
 export function drawnAs(
   roots: readonly WorkTreeRow[],
   slug: string,
   held: Holding
 ): readonly WorkTreeRow[] {
   if (held.kind === "nothing") return withoutInitiative(roots, slug)
+  if (held.kind === "color") return coloredTo(roots, slug, held.color)
   return reorderedTo(roots, slug, held.labels)
 }
 
@@ -169,7 +200,8 @@ export function settledOver(
 ): readonly WorkTreeRow[] {
   let rows = roots
   for (const [slug, held] of [...holding]) {
-    if (held.waiting > 0 && agreementOf(intentLabelsIn(rows, slug), held) === "stale") {
+    const agreement = agreementOf(intentLabelsIn(rows, slug), held, colorIn(rows, slug))
+    if (held.waiting > 0 && agreement === "stale") {
       rows = drawnAs(rows, slug, held)
       continue
     }
