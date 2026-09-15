@@ -23,7 +23,7 @@ export const veraGraphCleanup = {
       statement:
         "The graph answers a closure over the shadow a change leaves as well as over the tree there is.",
       workingMemory:
-        "The seam is already there: `graph-asking` reads every body through the `Answering` index handed in rather than off the working tree, and the typecheck decision hands it an index laid over a change. Deploy's closure cannot do this — `bodyInCommit` at `deploy-file-closure.module.code.ts:35-41` reads out of a commit, so no uncommitted edit is visible to it. `folder-matches-a-shape` lays a pending change over the import edge by hand because no layer beneath it will.",
+        "Proven in `graph-predicate-closure.module.test.ts`: a closure cast over `shadowOnto` sees an edit no commit has, and the same ask over the tree does not. The index and the bodies both come from the cast. Deploy reads out of a commit by design. What is left is `folder-matches-a-shape.check.code.ts:30-38`, which parses its own imports before and after a change rather than asking the graph, and gates on `textNamed` where the graph gates on `typeScripted`.",
     },
   ],
   constraints: [
