@@ -4,7 +4,7 @@ import { join } from "node:path"
 import {
   parseManifestVersion,
   readInstalledAddons,
-} from "akasha/temper/community-addons/modules/installed-addons/installed-addons.module.code.ts"
+} from "akasha/temper/community-addon/modules/installed-addons/installed-addons.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

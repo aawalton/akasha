@@ -5,8 +5,8 @@ import {
   OPERATIONAL,
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import type { Laying } from "akasha/temper/community-addons/modules/addon-download/addon-download.module.code.ts"
-import { layEach } from "akasha/temper/community-addons/modules/addon-download/addon-download.module.code.ts"
+import type { Laying } from "akasha/temper/community-addon/modules/addon-download/addon-download.module.code.ts"
+import { layEach } from "akasha/temper/community-addon/modules/addon-download/addon-download.module.code.ts"
 
 const AT = "/nowhere/addons"
 

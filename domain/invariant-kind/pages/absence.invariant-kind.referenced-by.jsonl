@@ -1607,7 +1607,7 @@
 {"propertySlug":"invariant-kind","path":"temper/command/modules/name-ordering/name-ordering.module.ts","id":"01a07c93-d1ce-7d75-844c-a9a61f0601d8"}
 {"propertySlug":"invariant-kind","path":"temper/command/modules/venue-trace-saying/venue-trace-saying.module.ts","id":"01a09b2e-baec-7b08-bcf7-07f61d70d416"}
 {"propertySlug":"invariant-kind","path":"temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.ts","id":"01a07c93-f240-7b33-9d06-f8459b129064"}
-{"propertySlug":"invariant-kind","path":"temper/community-addons/modules/install-named-addon/install-named-addon.module.ts","id":"01a06069-b790-7f2c-a237-0a215f888c46"}
+{"propertySlug":"invariant-kind","path":"temper/community-addon/modules/install-named-addon/install-named-addon.module.ts","id":"01a06069-b790-7f2c-a237-0a215f888c46"}
 {"propertySlug":"invariant-kind","path":"temper/companions-addon/modules/companion-qol-types/companion-qol-types.module.ts","id":"01a0611d-84ce-7b51-8ddf-74ea1f57955c"}
 {"propertySlug":"invariant-kind","path":"temper/companions-addon/temper-companions-addon.eso-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"invariant-kind","path":"temper/companions-core/modules/companion-metrics/companion-metrics.module.ts","id":"01a06152-c2cb-7faa-af35-b220143e5186"}

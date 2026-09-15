@@ -10,8 +10,8 @@ import {
 import {
   clearedSaid,
   laidSaid,
-} from "akasha/temper/community-addons/modules/addon-download/addon-download.module.code.ts"
-import type { PlannedAddon } from "akasha/temper/community-addons/modules/addon-update-plan/addon-update-plan.module.code.ts"
+} from "akasha/temper/community-addon/modules/addon-download/addon-download.module.code.ts"
+import type { PlannedAddon } from "akasha/temper/community-addon/modules/addon-update-plan/addon-update-plan.module.code.ts"
 
 const AT = "/nowhere/addons"
 

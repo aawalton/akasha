@@ -3399,11 +3399,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/master-writ-probe-reading/master-writ-probe-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/name-ordering/name-ordering.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/venue-trace-saying/venue-trace-saying.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/community-addons/modules/addon-download/addon-download.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/community-addons/modules/addon-update-plan/addon-update-plan.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/community-addons/modules/esoui-catalog/esoui-catalog.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/community-addons/modules/install-named-addon/install-named-addon.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/community-addons/modules/installed-addons/installed-addons.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/community-addon/modules/addon-download/addon-download.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/community-addon/modules/addon-update-plan/addon-update-plan.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/community-addon/modules/esoui-catalog/esoui-catalog.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/community-addon/modules/install-named-addon/install-named-addon.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/community-addon/modules/installed-addons/installed-addons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companion-codec/modules/companion-codec/companion-codec.module.ts"}

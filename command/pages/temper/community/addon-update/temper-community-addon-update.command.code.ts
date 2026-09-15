@@ -19,19 +19,19 @@ import {
   clearedSaid,
   downloadAndInstall,
   laidSaid,
-} from "akasha/temper/community-addons/modules/addon-download/addon-download.module.code.ts"
+} from "akasha/temper/community-addon/modules/addon-download/addon-download.module.code.ts"
 import {
   distinctUids,
   type PlannedAddon,
   planUpdates,
   selectTargets,
   unknownOnlyDirs,
-} from "akasha/temper/community-addons/modules/addon-update-plan/addon-update-plan.module.code.ts"
+} from "akasha/temper/community-addon/modules/addon-update-plan/addon-update-plan.module.code.ts"
 import {
   fetchCatalog,
   fetchFileDetails,
-} from "akasha/temper/community-addons/modules/esoui-catalog/esoui-catalog.module.code.ts"
-import { readInstalledAddons } from "akasha/temper/community-addons/modules/installed-addons/installed-addons.module.code.ts"
+} from "akasha/temper/community-addon/modules/esoui-catalog/esoui-catalog.module.code.ts"
+import { readInstalledAddons } from "akasha/temper/community-addon/modules/installed-addons/installed-addons.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { saidBy as messageOf } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 

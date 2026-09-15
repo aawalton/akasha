@@ -46,7 +46,7 @@ export const temper = {
     "domain/temper-chat-entry",
     "domain/temper-character-class",
     "domain/temper-command",
-    "domain/temper-community-addons",
+    "domain/temper-community-addon",
     "domain/temper-companion-codec",
     "domain/temper-companions-core",
     "domain/temper-companions-ui",
