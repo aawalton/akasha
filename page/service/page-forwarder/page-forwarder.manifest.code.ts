@@ -7,17 +7,18 @@ import {
   selectorOf,
 } from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
 import { synthNamespaceNetworkPolicyDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { pageForwarder } from "akasha/infrastructure/service/cluster/pages/page-forwarder/page-forwarder.service-cluster.ts"
 
-const NAMESPACE = "page-forwarder"
-const APP_NAME = "page-forwarder"
-const INSTANCE_NAME = "page-forwarder"
-const COMPONENT = "page-forwarder"
-const PART_OF = "page-forwarder"
+const NAMESPACE = pageForwarder.namespace
+const APP_NAME = pageForwarder.resourceName
+const INSTANCE_NAME = pageForwarder.resourceName
+const COMPONENT = pageForwarder.slug
+const PART_OF = pageForwarder.slug
 const MANAGED_BY = "deploy-script"
 
-const SOCAT_IMAGE = "alpine/socat:1.8.0.3"
+const SOCAT_IMAGE = pageForwarder.image
 
-const FORWARDER_PORT = 8787
+const FORWARDER_PORT = pageForwarder.containerPort
 
 const WORKSTATION_HOST = "workstation.alanwalton.ts.net"
 
@@ -64,12 +65,12 @@ function deploymentYaml(): string {
     apiVersion: "apps/v1",
     kind: "Deployment",
     metadata: {
-      name: "page-forwarder",
+      name: pageForwarder.resourceName,
       namespace: NAMESPACE,
       labels: DEPLOYMENT_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: pageForwarder.replicas,
       selector: { matchLabels: DEPLOYMENT_SELECTOR_LABELS },
       template: {
         metadata: { labels: DEPLOYMENT_LABELS },
@@ -81,7 +82,7 @@ function deploymentYaml(): string {
               image: SOCAT_IMAGE,
               command: ["socat"],
               args: ["-d", "-d", LISTEN_ADDRESS, DIAL_ADDRESS],
-              ports: [{ name: "page-forwarder", containerPort: FORWARDER_PORT, protocol: "TCP" }],
+              ports: [{ name: APP_NAME, containerPort: FORWARDER_PORT, protocol: "TCP" }],
               readinessProbe: {
                 exec: { command: READINESS_COMMAND },
                 initialDelaySeconds: 2,
@@ -114,7 +115,7 @@ function serviceYaml(): string {
     apiVersion: "v1",
     kind: "Service",
     metadata: {
-      name: "page-forwarder",
+      name: pageForwarder.resourceName,
       namespace: NAMESPACE,
       labels: DEPLOYMENT_LABELS,
     },
@@ -123,7 +124,7 @@ function serviceYaml(): string {
       selector: DEPLOYMENT_SELECTOR_LABELS,
       ports: [
         {
-          name: "page-forwarder",
+          name: APP_NAME,
           port: FORWARDER_PORT,
           targetPort: FORWARDER_PORT,
           protocol: "TCP",
