@@ -89,7 +89,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/inference/generation/log/properties/generation-audios.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/inference/generation/log/properties/generation-images.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/inference/generation/log/properties/generation-runs.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/machines/provisioning/provisioned-file/properties/content.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/content.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/network/certificate/authority/properties/authority-certificate.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/service/cluster/properties/service-cluster-config.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/telemetry/dashboard/properties/dashboard-layout.file-property.ts"}

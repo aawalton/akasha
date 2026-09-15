@@ -1,0 +1,9 @@
+{"propertySlug":"import","fileName":"host.page-type.types.ts","path":"infrastructure/machine/host/pages/macbook.host.ts"}
+{"propertySlug":"import","fileName":"host.page-type.types.ts","path":"infrastructure/machine/host/pages/node-01.host.ts"}
+{"propertySlug":"import","fileName":"host.page-type.types.ts","path":"infrastructure/machine/host/pages/node-02.host.ts"}
+{"propertySlug":"import","fileName":"host.page-type.types.ts","path":"infrastructure/machine/host/pages/node-03.host.ts"}
+{"propertySlug":"import","fileName":"host.page-type.types.ts","path":"infrastructure/machine/host/pages/node-04.host.ts"}
+{"propertySlug":"import","fileName":"host.page-type.types.ts","path":"infrastructure/machine/host/pages/node-05.host.ts"}
+{"propertySlug":"import","fileName":"host.page-type.types.ts","path":"infrastructure/machine/host/pages/node-06.host.ts"}
+{"propertySlug":"import","fileName":"host.page-type.types.ts","path":"infrastructure/machine/host/pages/workstation.host.ts"}
+{"propertySlug":"parts","path":"infrastructure/machine/machine.domain.ts","id":"01a06596-0000-7000-8000-000000000301"}

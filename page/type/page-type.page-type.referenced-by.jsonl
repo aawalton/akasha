@@ -228,9 +228,9 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/inference/generation/image/image.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/inference/generation/log/generation-log.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/inference/run/inference-run.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/machines/computer/computer.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/machines/host/host.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/machines/provisioning/provisioned-file/provisioned-file.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/machine/computer/computer.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/machine/host/host.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/memory/kind/memory-kind.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/network/certificate/authority/certificate-authority.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/cluster/service-cluster.page-type.ts"}

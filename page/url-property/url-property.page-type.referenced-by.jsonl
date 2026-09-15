@@ -8,5 +8,5 @@
 {"propertySlug":"import","fileName":"url-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/exercise-external-link.url-property.ts"}
 {"propertySlug":"import","fileName":"url-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/image-end-url.url-property.ts"}
 {"propertySlug":"import","fileName":"url-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/image-start-url.url-property.ts"}
-{"propertySlug":"import","fileName":"url-property.page-type.types.ts","path":"infrastructure/machines/computer/properties/computer-link.url-property.ts"}
+{"propertySlug":"import","fileName":"url-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/computer-link.url-property.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

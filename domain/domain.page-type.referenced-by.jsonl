@@ -64,8 +64,8 @@
 {"propertySlug":"extends-type","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.ts","id":"01a06da1-b337-78b9-8ad3-556e6b67058e"}
 {"propertySlug":"extends-type","path":"infrastructure/container-image/dockerfile/built-image/built-image.page-type.ts","id":"01a08193-c20c-7525-aced-8d801a2e9cd6"}
 {"propertySlug":"extends-type","path":"infrastructure/cpu/kind/cpu-kind.page-type.ts","id":"01a09185-edee-760c-88ee-bd4e0bbbcef7"}
-{"propertySlug":"extends-type","path":"infrastructure/machines/host/host.page-type.ts","id":"01a06590-e94f-7d6f-a415-867286e194a2"}
-{"propertySlug":"extends-type","path":"infrastructure/machines/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}
+{"propertySlug":"extends-type","path":"infrastructure/machine/host/host.page-type.ts","id":"01a06590-e94f-7d6f-a415-867286e194a2"}
+{"propertySlug":"extends-type","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}
 {"propertySlug":"extends-type","path":"infrastructure/memory/kind/memory-kind.page-type.ts","id":"01a0912d-e1a4-76ac-8b44-8632c97fc053"}
 {"propertySlug":"extends-type","path":"infrastructure/network/certificate/authority/certificate-authority.page-type.ts","id":"01a0685d-ab5d-7bd4-946d-fa56b367a1a2"}
 {"propertySlug":"extends-type","path":"infrastructure/service/service.page-type.ts","id":"01a05a3c-caff-7656-b00d-cbde9f3cf324"}
@@ -406,10 +406,10 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/infrastructure.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/job/job.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/loki-service/loki-service.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/machines/host/host.page-type.types.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/machines/machines.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/machines/provisioning/provisioned-file/provisioned-file.page-type.types.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/machines/provisioning/provisioning.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/machine/host/host.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/machine/machine.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioning.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/memory/kind/memory-kind.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/memory/limit/memory-limit.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/memory/memory.domain.ts"}

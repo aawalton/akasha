@@ -1763,7 +1763,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/loki-service/modules/loki-constants/loki-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/loki-service/modules/loki-manifests/loki-manifests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/loki-service/modules/promtail-manifests/promtail-manifests.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/machines/host/modules/cluster-nodes/cluster-nodes.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/machine/host/modules/cluster-nodes/cluster-nodes.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-config/memory-reaper-config.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-global/memory-reaper-global.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-kill/memory-reaper-kill.module.ts"}

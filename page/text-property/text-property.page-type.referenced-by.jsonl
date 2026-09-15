@@ -267,11 +267,11 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/alert/properties/alert-summary.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-folder.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-repository.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machines/computer/properties/computer-model.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machines/host/properties/host-address.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machines/host/properties/login-user.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machines/provisioning/provisioned-file/properties/install-path.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machines/provisioning/provisioned-file/properties/reload-with.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/computer-model.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machine/host/properties/host-address.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machine/host/properties/login-user.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/install-path.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/reload-with.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/cluster/properties/image.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/cluster/properties/namespace.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/cluster/properties/resource-kind.text-property.ts"}
