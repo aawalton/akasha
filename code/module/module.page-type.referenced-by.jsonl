@@ -244,6 +244,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/pty/modules/terminal-death/pty-terminal-death.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/reviving/modules/resume-verify/resume-verify.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/reviving/modules/seat-recovery/seat-recovery.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.ts"}

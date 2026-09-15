@@ -297,6 +297,7 @@
 {"propertySlug":"invariant-kind","path":"agent/seat/properties/transcript-path.text-property.ts","id":"01a053f0-366d-7612-bbb6-6be4383f12b7"}
 {"propertySlug":"invariant-kind","path":"agent/seat/properties/turn-working.record-property.ts","id":"01a06c75-5eab-7ec2-b8c4-b25cdb0803ce"}
 {"propertySlug":"invariant-kind","path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.ts","id":"01a0695a-d2ea-735a-9483-a00a8cf935b6"}
+{"propertySlug":"invariant-kind","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.ts","id":"01a0a502-1586-777f-84c7-0d2a1f147ede"}
 {"propertySlug":"invariant-kind","path":"agent/seat/reviving/modules/seat-recovery/seat-recovery.module.ts","id":"01a0687e-5361-7000-b809-2c591fc15c79"}
 {"propertySlug":"invariant-kind","path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.ts","id":"01a0686d-9d5e-7010-afb5-aba89bff0cd0"}
 {"propertySlug":"invariant-kind","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.ts","id":"01a069cb-0380-715a-9d83-e8177fb074e2"}

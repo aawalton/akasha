@@ -8,6 +8,7 @@ export const seatReviving = {
   parts: [
     "module/resume-seat",
     "module/resume-verify",
+    "module/seat-coming-back",
     "module/seat-recovery",
     "module/seat-relaunch-target",
     "module/seat-reset",
