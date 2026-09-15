@@ -14,4 +14,5 @@ export const actionButtonProperty = {
   ],
   types: "ts",
   schema: "jsonl",
+  shapes: "jsonl",
 } as const satisfies PageType

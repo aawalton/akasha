@@ -38,4 +38,5 @@ export const emailAddressProperty = {
   ],
   types: "ts",
   schema: "jsonl",
+  shapes: "jsonl",
 } as const satisfies PageType

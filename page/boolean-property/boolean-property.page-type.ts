@@ -8,4 +8,5 @@ export const booleanProperty = {
   extends: ["page-type/page-property"],
   types: "ts",
   schema: "jsonl",
+  shapes: "jsonl",
 } as const satisfies PageType

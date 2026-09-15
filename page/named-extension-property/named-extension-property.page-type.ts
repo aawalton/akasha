@@ -36,4 +36,5 @@ export const namedExtensionProperty = {
   ],
   types: "ts",
   schema: "jsonl",
+  shapes: "jsonl",
 } as const satisfies PageType

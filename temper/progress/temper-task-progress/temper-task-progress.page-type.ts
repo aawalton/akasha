@@ -22,4 +22,5 @@ export const temperTaskProgress = {
   ],
   types: "ts",
   schema: "jsonl",
+  shapes: "jsonl",
 } as const satisfies PageType

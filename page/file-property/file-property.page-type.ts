@@ -61,4 +61,5 @@ export const fileProperty = {
   ],
   types: "ts",
   schema: "jsonl",
+  shapes: "jsonl",
 } as const satisfies PageType

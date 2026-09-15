@@ -32,7 +32,11 @@ export const shapes = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type no page property is of states this property not at all.",
+      statement: "Every page type extending `page-property` states this property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type no page property is of holds a file with no line.",
     },
     {
       invariantKind: "departure",

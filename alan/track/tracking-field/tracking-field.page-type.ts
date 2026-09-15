@@ -26,4 +26,5 @@ export const trackingField = {
   ],
   types: "ts",
   schema: "jsonl",
+  shapes: "jsonl",
 } as const satisfies PageType
