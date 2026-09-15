@@ -256,13 +256,6 @@ export function worldOver(world: World, said: Answer): World {
   }
 }
 
-export type Peeked = {
-  readonly said: Answer
-  readonly was: Answer
-  readonly reading: Reading | null
-  readonly made: Made
-}
-
 export type Kept = {
   readonly root: string
   readonly base: BodyOf
@@ -276,7 +269,6 @@ export type Kept = {
   index: Answering | null
   naming: Naming | null
   shadow: Shadow | null
-  peeked: Peeked | null
 }
 
 export type Ledger = World & { readonly kept: Kept }
@@ -334,7 +326,6 @@ export function ledgerAt(
     index: null,
     naming: null,
     shadow: null,
-    peeked: null,
   }
   const asked = (): Answering => {
     if (kept.index === null) kept.index = settledIn(kept)
@@ -371,22 +362,10 @@ export function ledgerAt(
   }
 }
 
-function alreadyPeeked(kept: Kept, said: Answer): Made | null {
-  const peeked = kept.peeked
-  if (peeked === null || peeked.said !== said) return null
-  if (peeked.was !== kept.fresh || peeked.reading !== kept.reading) return null
-  return peeked.made
-}
-
 export function addedTo(ledger: Ledger, said: Answer): Ledger {
   const kept = ledger.kept
-  const landing = alreadyPeeked(kept, said)
-  kept.peeked = null
   const fresh = said.edits.filter((one) => !kept.held.has(one))
-  if (fresh.length === 0) {
-    if (landing !== null) kept.index = landedIn(kept, kept.fresh, landing).index
-    return ledger
-  }
+  if (fresh.length === 0) return ledger
   const adding: Answer = { edits: fresh, refused: null }
   const over = gathered([kept.over, adding])
   if (over.refused !== null) throw new Error(over.refused)
@@ -401,6 +380,6 @@ export function addedTo(ledger: Ledger, said: Answer): Ledger {
   kept.fresh = settling
   kept.naming = null
   kept.shadow = null
-  kept.index = landing === null ? null : landedIn(kept, settling, landing).index
+  kept.index = null
   return ledger
 }
