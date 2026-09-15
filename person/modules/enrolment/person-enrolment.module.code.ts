@@ -6,7 +6,7 @@ import {
 
 const PERSON_PAGE_TYPE = "person"
 
-export const ACCOUNT_KEY = "supabaseAuthUserId"
+const ACCOUNT_KEY = "supabaseAuthUserId"
 
 export type Enrolment =
   | { readonly ok: true; readonly personSlug: string }
