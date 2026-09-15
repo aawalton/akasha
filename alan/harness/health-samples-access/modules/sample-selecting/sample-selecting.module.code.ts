@@ -25,7 +25,7 @@ const DAY_MS = 86400000
 
 const SAMPLE_ROW = z.record(z.string(), z.unknown())
 
-export function checkoutRoot(): string {
+function checkoutRoot(): string {
   const roots = resolveRoots()
   const target = roots.target
   const at = target === undefined ? undefined : roots[target]
@@ -51,7 +51,7 @@ export function sampleRowsIn(day: string): string {
   return beside
 }
 
-export function sampleRowsAt(root: string, day: string): string {
+function sampleRowsAt(root: string, day: string): string {
   return `${root}/${sampleRowsIn(day)}`
 }
 
