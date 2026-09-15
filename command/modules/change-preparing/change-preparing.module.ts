@@ -185,5 +185,9 @@ export const changePreparing = {
       statement:
         "The index answers the change carries are worked out before the hold is taken alongside those six.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Those answers are worked out over a change carrying every generated body.",
+    },
   ],
 } as const satisfies Module

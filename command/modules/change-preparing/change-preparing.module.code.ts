@@ -141,15 +141,16 @@ export function preparing(
   const globbed = globbedFor(change)
   const typed = typesFor(change)
   const written = bodiesFor(change)
-  const carried = filingsFor(change)
-  const added = [
+  const made = [
     ...locking.edits,
     ...stepped.edits,
     ...globbed.edits,
     ...typed.edits,
     ...written.edits,
-    ...carried.edits,
   ]
+  const whole = made.length === 0 ? change : changeOf(root, base, [...rows, ...made])
+  const carried = filingsFor(whole)
+  const added = [...made, ...carried.edits]
   return {
     formatting,
     authored: rows,
