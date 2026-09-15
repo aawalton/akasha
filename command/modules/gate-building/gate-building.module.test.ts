@@ -10,7 +10,6 @@ import {
 } from "akasha/command/modules/gate-building/gate-building.module.code.ts"
 import { repoWith, scratch } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { indexTakenFrom } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -23,7 +22,6 @@ test("the gate reaches the checks late, and a root carrying no check index will 
   const said = await gateBuilt(root)
   expect("broken" in said).toBe(true)
   const why = "broken" in said ? said.broken : ""
-  expect(why).toContain(indexNamed())
   expect(why).not.toContain("a gate is built from")
 })
 

@@ -131,7 +131,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/modules/change-costing/change-costing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/modules/cli/cli.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/modules/editor-state-landing/editor-state-landing.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/modules/gate-building/gate-building.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/modules/install-linking/install-linking.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/modules/install-linking/install-linking.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/modules/landing/landing.module.code.ts"}
