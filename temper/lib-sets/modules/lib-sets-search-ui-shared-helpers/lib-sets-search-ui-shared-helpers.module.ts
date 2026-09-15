@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsSearchUiSharedHelpers = {
   id: "01a0623c-2df8-7e9e-914b-b335605e5366",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-search-ui-shared-helpers",
   definition: "the odd jobs the shared search window keeps outside its class",
   code: "ts",

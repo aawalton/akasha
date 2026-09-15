@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCoreApiWayshrineDlcSettype = {
   id: "01a06231-8f1c-7200-9fb9-2df4b2450fce",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-core-api-wayshrine-dlc-settype",
   definition: "a set's wayshrines, its zones, the DLC it arrived with and the type it is",
   code: "ts",

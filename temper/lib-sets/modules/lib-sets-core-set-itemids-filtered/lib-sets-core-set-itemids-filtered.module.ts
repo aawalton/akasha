@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCoreSetItemidsFiltered = {
   id: "01a061fc-ceec-7456-9d7d-84602a2f2336",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-core-set-itemids-filtered",
   definition: "keeping only the item ids of a set that match the equip, trait or enchant asked for",
   code: "ts",

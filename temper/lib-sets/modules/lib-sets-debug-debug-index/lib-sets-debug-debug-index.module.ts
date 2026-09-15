@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsDebugDebugIndex = {
   id: "01a0623c-2df8-74ef-9c3b-b2e335ab7b97",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-debug-debug-index",
   definition: "the order the debug modules are loaded in",
   code: "ts",

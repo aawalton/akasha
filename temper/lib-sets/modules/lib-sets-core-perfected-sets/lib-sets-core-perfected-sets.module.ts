@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCorePerfectedSets = {
   id: "01a061fc-ceeb-71fc-bced-c9b4d1f3537a",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-core-perfected-sets",
   definition: "which set is the perfected twin of which, and the zone each of the pair drops in",
   code: "ts",

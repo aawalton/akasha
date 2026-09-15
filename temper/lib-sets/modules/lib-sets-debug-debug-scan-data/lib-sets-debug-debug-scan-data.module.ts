@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsDebugDebugScanData = {
   id: "01a0623c-2df7-7141-bcb8-855dfaac258d",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-debug-debug-scan-data",
   definition:
     "the zone, map and wayshrine tables read from the client and the reset that clears them",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsSetTextSetTextFields = {
   id: "01a06231-8f1f-73ea-b8fc-4fb6e3b80305",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-set-text-set-text-fields",
   definition: "which pieces of a set's text are worth computing and the computing of them",
   code: "ts",

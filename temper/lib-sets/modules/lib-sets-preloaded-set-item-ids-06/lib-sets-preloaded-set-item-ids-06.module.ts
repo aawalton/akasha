@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsPreloadedSetItemIds06 = {
   id: "01a061dd-1559-7090-8765-368fefa1f3fb",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-preloaded-set-item-ids-06",
   definition: "LibSets setItemIds item id lists keyed by set id — keys 190 through 230.",
   code: "ts",

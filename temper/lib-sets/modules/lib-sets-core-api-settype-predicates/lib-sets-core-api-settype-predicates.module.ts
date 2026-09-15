@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCoreApiSettypePredicates = {
   id: "01a061fc-ceed-70bc-8b87-41bc7b863155",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-core-api-settype-predicates",
   definition:
     "which of the library's set categories a given set falls into, asked one category at a time",

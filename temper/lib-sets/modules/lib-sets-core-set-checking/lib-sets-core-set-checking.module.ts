@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCoreSetChecking = {
   id: "01a061fc-ceeb-7357-a58d-cb080d3977c2",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-core-set-checking",
   definition: "whether a set id still exists in the game at the API version now running",
   code: "ts",

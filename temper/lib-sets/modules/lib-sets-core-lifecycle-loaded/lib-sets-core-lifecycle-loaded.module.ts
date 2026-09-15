@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCoreLifecycleLoaded = {
   id: "01a06231-8f1e-7030-91dc-f0bb68a1c8eb",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-core-lifecycle-loaded",
   definition: "what happens once the game announces this add-on has loaded",
   code: "ts",

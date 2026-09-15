@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsLocLocalizationIndex = {
   id: "01a061d7-7bba-7684-b634-224b2592273f",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-loc-localization-index",
   definition: "one import that runs the first languages' localization install",
   code: "ts",

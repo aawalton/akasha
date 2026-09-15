@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsLocLanguageCodes = {
   id: "01a061d7-7bb5-7d37-88c2-14c6837393ea",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-loc-language-codes",
   definition: "the eight language codes the localization tables are keyed by",
   code: "ts",

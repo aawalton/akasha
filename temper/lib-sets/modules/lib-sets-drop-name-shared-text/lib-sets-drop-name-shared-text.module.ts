@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsDropNameSharedText = {
   id: "01a061d6-3e25-79a5-bb84-0caf92581407",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-drop-name-shared-text",
   definition:
     "the library handle, the API version check, the collectible name call and a shared phrase",

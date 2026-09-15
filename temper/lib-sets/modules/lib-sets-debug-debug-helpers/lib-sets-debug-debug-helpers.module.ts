@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsDebugDebugHelpers = {
   id: "01a0623c-2df7-7868-8d71-09bd658923d5",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-debug-debug-helpers",
   definition: "the set ids missing from the preloaded tables and the squeeze on item id lists",
   code: "ts",

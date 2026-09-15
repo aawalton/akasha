@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCoreTextures = {
   id: "01a061fc-ceea-7feb-ba96-4aea2c1aee0c",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-core-textures",
   definition: "the icon for an equip slot, weapon type, armor type or set type",
   code: "ts",

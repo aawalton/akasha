@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCoreCasts = {
   id: "01a061fc-cee9-75c5-a75c-0036c8d4c7a8",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-core-casts",
   definition: "the narrowings for the slots and set-keyed tables hung on the LibSets global",
   code: "ts",

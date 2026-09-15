@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsPreloadedSetsWeaponTypes10 = {
   id: "01a061d8-e481-7f0b-afc8-0bc42ad898be",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-preloaded-sets-weapon-types-10",
   definition: "LibSets setsWeaponTypes maps keyed by weapon type — keys 12 through 12.",
   code: "ts",

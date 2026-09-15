@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsSearchUiKeyboardClass = {
   id: "01a0623e-53a0-7c7c-9ac1-5e5f85c57505",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-search-ui-keyboard-class",
   definition: "the class the keyboard search window's objects are made from",
   code: "ts",

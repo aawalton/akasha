@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsSearchUiSharedClass = {
   id: "01a0623c-2df8-793e-9947-dbed82a8c7c5",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-search-ui-shared-class",
   definition: "the class both search windows take their shared behaviour from",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsSearchUiSharedUi = {
   id: "01a0623c-2df8-7100-80db-d50fc719e34f",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-search-ui-shared-ui",
   definition: "what any search window does when it is shown, hidden or reset",
   code: "ts",

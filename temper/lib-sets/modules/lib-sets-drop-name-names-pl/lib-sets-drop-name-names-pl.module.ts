@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsDropNameNamesPl = {
   id: "01a061d6-3e2a-7620-9c5f-131d729f6153",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-drop-name-names-pl",
   definition: "the Polish name of each way a gear set drops",
   code: "ts",

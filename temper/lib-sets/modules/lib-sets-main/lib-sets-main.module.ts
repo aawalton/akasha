@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsMain = {
   id: "01a0623e-53a2-76c1-87da-62ae3b18e16e",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-main",
   definition: "the add-on's single entry point",
   code: "ts",

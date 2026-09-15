@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsSearchUiSharedSearch = {
   id: "01a0623c-2df8-77cc-aa20-7ad23b772da9",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-search-ui-shared-search",
   definition: "the text matching that decides whether a set answers a typed search",
   code: "ts",

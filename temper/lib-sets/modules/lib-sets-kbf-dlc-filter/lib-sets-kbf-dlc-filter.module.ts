@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsKbfDlcFilter = {
   id: "01a0623e-53a1-7955-ac07-165fbac5661b",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-kbf-dlc-filter",
   definition: "the dropdown of DLCs a set can come from",
   code: "ts",

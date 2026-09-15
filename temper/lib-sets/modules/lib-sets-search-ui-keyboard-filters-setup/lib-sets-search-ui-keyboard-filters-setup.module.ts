@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsSearchUiKeyboardFiltersSetup = {
   id: "01a0623e-53a1-71e5-8547-9eccb2b6b04b",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-search-ui-keyboard-filters-setup",
   definition: "the shared build steps behind every keyboard filter dropdown",
   code: "ts",

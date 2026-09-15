@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsGenSetInfo = {
   id: "01a061fc-cee5-75d4-9e8c-3b140c7e89cc",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-gen-set-info",
   definition: "The whole LibSets SET_INFO table gathered from its 12 set id range parts.",
   decisions: [

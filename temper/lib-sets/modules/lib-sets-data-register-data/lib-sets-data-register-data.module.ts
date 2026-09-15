@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsDataRegisterData = {
   id: "01a061fc-cee8-7e0a-a57e-257c1300fc25",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-data-register-data",
   definition: "the generated set tables placed onto the library global",
   code: "ts",

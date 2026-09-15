@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCoreLifecycleUiButtons = {
   id: "01a06231-8f1d-713c-8f02-82ee12f29b49",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-core-lifecycle-ui-buttons",
   definition: "the extra button added to the set collections book's filter row",
   code: "ts",

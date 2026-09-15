@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCoreSavedVariables = {
   id: "01a061fc-ceea-76dd-8b6b-a1e1f14f9219",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-core-saved-variables",
   definition: "the account-wide settings this library remembers between sessions",
   code: "ts",

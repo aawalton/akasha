@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsSearchUiXmlApi = {
   id: "01a0623e-53a0-708b-a8c0-947cba1427e9",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-search-ui-xml-api",
   definition: "the width a control takes from the width of the window with it",
   code: "ts",

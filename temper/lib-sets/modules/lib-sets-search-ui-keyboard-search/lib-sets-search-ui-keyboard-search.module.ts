@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsSearchUiKeyboardSearch = {
   id: "01a0623e-53a2-77b1-bac5-30921369d712",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-search-ui-keyboard-search",
   definition: "the search terms gathered from the keyboard window's dropdowns and text boxes",
   code: "ts",
