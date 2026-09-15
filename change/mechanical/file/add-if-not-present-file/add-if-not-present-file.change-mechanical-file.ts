@@ -12,6 +12,10 @@ export const addIfNotPresentFile = {
   test: "ts",
   invariants: [
     {
+      invariantKind: "invariant-kind/absence",
+      statement: "Nothing here reads a path as a page.",
+    },
+    {
       invariantKind: "invariant-kind/departure",
       statement: "A path with no body is written as an addition.",
     },

@@ -1,0 +1,14 @@
+{"propertySlug":"change-target-subtype","path":"change/agent/file/add-binary-file/add-binary-file.change-agent.ts","id":"01a09116-8eac-7885-886c-17c41e842516"}
+{"propertySlug":"change-target-subtype","path":"change/agent/file/add-file/add-file.change-agent.ts","id":"01a07813-6e3b-77c3-9c1e-b0c5778fd31b"}
+{"propertySlug":"change-target-subtype","path":"change/agent/file/remove-file/remove-file.change-agent.ts","id":"01a07991-8989-7000-8e13-06e6791ebefb"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts","id":"01a08188-1037-7ddd-b5cb-c727ac6ef590"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts","id":"01a081bf-3f33-77ca-96cc-29ff7017f563"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts","id":"01a07810-4657-7cb0-8eff-29902c541102"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.ts","id":"01a0820e-a259-7563-85dc-3e3730e22c06"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts","id":"01a07883-67ed-7849-b6e5-e499695cac46"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/file/move/move-files/move-files.change-mechanical.ts","id":"01a09230-ff9c-7e79-9c45-3d0b77f13b11"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.ts","id":"01a08221-da77-7ee4-a3c3-f3e1be5655e3"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts","id":"01a07744-1311-748c-a35b-3ebe72349dee"}
+{"propertySlug":"change-target-subtype-parent","path":"change/target/subtype/pages/file-code.change-target-subtype.ts","id":"01a07c70-afc7-75b7-a1aa-9615a67cf8ce"}
+{"propertySlug":"change-target-subtype-parent","path":"change/target/subtype/pages/file-manifest.change-target-subtype.ts","id":"01a09b64-cd05-71e5-a322-6bbfabfdb478"}
+{"propertySlug":"parts","path":"change/target/subtype/change-target-subtype.page-type.ts","id":"01a07c71-2924-76f9-b37f-a239b7b97045"}

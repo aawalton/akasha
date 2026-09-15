@@ -7,8 +7,8 @@ export const changeMechanicalFile = {
   definition: "a mechanical change acting on where a file sits rather than on what that file holds",
   extends: ["page-type/change-mechanical"],
   parts: [
+    "change-mechanical-file/add-if-not-present-file",
     "domain/change-mechanical-file-add",
-    "domain/change-mechanical-file-add-if-not-present",
     "domain/change-mechanical-file-change",
     "domain/change-mechanical-file-divide",
     "domain/change-mechanical-file-move",

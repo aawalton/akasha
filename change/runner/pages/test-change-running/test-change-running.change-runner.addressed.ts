@@ -225,7 +225,7 @@ export type Changes = {
     typeof import("akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/add-if-not-present-file": Parameters<
-    typeof import("akasha/change/mechanical/file/add-if-not-present/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.code.ts")["runChange"]
+    typeof import("akasha/change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/move-file": Parameters<
     typeof import("akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts")["runChange"]

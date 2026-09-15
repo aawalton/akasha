@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { runChange } from "akasha/change/mechanical/file/add-if-not-present/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.code.ts"
+import { runChange } from "akasha/change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.code.ts"
 import { worldOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const AT = "akasha/one.held.ts"
