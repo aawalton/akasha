@@ -8,23 +8,23 @@ export const recipientResolverRevive = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A revive outrunning the timeout is left running and read as benign.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The resume is called as a function rather than spawned as a command.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A revive that outran the timeout is tried again at the next tick.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A revive that did not verify is a seat that was not revived.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A dry run revives nothing.",
     },
   ],
