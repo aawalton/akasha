@@ -72,8 +72,8 @@ test("the page and every file beside the page are carried together", async () =>
   const said = await runChange(worldIn(indexedRepo()), { from: HELD_PAGE, to: INTO })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
-    [HELD_PAGE, CARRIED_PAGE],
     [HELD_CODE, CARRIED_CODE],
+    [HELD_PAGE, CARRIED_PAGE],
   ])
 })
 

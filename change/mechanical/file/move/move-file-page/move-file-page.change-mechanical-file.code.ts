@@ -24,6 +24,10 @@ export function landingFor(one: string, to: string): string {
   return join(dirname(to), basename(one))
 }
 
+export function pageLast(beside: readonly string[], page: string): readonly string[] {
+  return [...beside.filter((one) => one !== page), ...beside.filter((one) => one === page)]
+}
+
 function besideIn(world: World, at: string): readonly string[] | string {
   try {
     const value = pageIn(world, at)
@@ -43,7 +47,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (typeof beside === "string") return refusing(beside)
   const carried: Answer[] = []
   let seen = world
-  for (const one of beside) {
+  for (const one of pageLast(beside, given.from)) {
     if (seen.bodyOf(one) === null) continue
     const said = await reach(seen, addressFor(one), { from: one, to: landingFor(one, given.to) })
     if (said.said.refused !== null) return said.said

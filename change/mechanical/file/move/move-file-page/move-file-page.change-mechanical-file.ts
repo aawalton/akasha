@@ -26,6 +26,14 @@ export const moveFilePage = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "The page's own file is carried after every file the page keeps beside it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file is asked which bodies import it while the page owning it is still there.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement:
         "Which files sit beside a page is read from the index rather than from the folder.",
     },
