@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0071Chapter1199UnexplainableMotivesAndCulprits = {
   id: "01a06730-4df0-7493-bce9-8ba029b0d2ff",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0071-chapter-1199-unexplainable-motives-and-culprits",
   title: "Chapter 1199 - Unexplainable Motives & Culprits",
   story: "story-read/the-primal-hunter",

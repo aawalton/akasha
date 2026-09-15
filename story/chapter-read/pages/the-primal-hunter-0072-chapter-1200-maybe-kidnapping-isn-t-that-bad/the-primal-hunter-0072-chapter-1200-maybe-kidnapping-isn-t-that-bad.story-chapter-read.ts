@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0072Chapter1200MaybeKidnappingIsnTThatBad = {
   id: "01a06730-4df0-7e90-b4cd-b0bdf98ab196",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0072-chapter-1200-maybe-kidnapping-isn-t-that-bad",
   title: "Chapter 1200 - Maybe Kidnapping Isn't That Bad",
   story: "story-read/the-primal-hunter",

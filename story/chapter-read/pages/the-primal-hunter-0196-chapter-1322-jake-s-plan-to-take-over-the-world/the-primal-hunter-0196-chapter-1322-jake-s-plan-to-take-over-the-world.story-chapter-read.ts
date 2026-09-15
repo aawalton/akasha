@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0196Chapter1322JakeSPlanToTakeOverTheWorld = {
   id: "01a06730-4e2d-7f18-8fcd-8654699f6909",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0196-chapter-1322-jake-s-plan-to-take-over-the-world",
   title: "Chapter 1322 - Jake's Plan To Take Over the World",
   story: "story-read/the-primal-hunter",

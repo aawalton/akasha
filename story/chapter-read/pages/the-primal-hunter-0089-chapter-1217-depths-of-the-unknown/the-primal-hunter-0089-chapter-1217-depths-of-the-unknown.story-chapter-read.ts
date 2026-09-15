@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0089Chapter1217DepthsOfTheUnknown = {
   id: "01a06730-4df8-7717-9c32-eaeff9afe134",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0089-chapter-1217-depths-of-the-unknown",
   title: "Chapter 1217 - Depths of the Unknown",
   story: "story-read/the-primal-hunter",

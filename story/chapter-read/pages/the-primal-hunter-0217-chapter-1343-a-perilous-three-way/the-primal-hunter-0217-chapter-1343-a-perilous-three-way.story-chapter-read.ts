@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0217Chapter1343APerilousThreeWay = {
   id: "01a06730-4e37-7391-a9f7-5e3442a59650",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0217-chapter-1343-a-perilous-three-way",
   title: "Chapter 1343 - A Perilous Three-way",
   story: "story-read/the-primal-hunter",

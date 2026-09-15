@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0142Chapter1269TakingStockOneLastTime = {
   id: "01a06730-4e12-729d-832c-88106775c246",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0142-chapter-1269-taking-stock-one-last-time",
   title: "Chapter 1269 - Taking Stock One Last Time",
   story: "story-read/the-primal-hunter",

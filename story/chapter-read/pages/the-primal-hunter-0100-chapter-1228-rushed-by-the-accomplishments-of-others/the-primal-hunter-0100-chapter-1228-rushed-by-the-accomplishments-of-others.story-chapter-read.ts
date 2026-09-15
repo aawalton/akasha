@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0100Chapter1228RushedByTheAccomplishmentsOfOthers = {
   id: "01a06730-4dfd-7a27-8454-95b449e73834",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0100-chapter-1228-rushed-by-the-accomplishments-of-others",
   title: "Chapter 1228 - Rushed By The Accomplishments of Others",
   story: "story-read/the-primal-hunter",

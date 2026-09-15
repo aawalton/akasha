@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0214Chapter1340APeacefulFaction = {
   id: "01a06730-4e36-7dfb-aa4f-3574852bef1b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0214-chapter-1340-a-peaceful-faction",
   title: "Chapter 1340 - A Peaceful Faction",
   story: "story-read/the-primal-hunter",

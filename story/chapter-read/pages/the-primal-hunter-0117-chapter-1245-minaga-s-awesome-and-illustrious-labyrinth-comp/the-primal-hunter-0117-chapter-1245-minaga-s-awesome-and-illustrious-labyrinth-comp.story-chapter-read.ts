@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0117Chapter1245MinagaSAwesomeAndIllustriousLabyrinthComp = {
   id: "01a06730-4e08-75bd-8421-2d4b2b5b98a8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0117-chapter-1245-minaga-s-awesome-and-illustrious-labyrinth-comp",
   title: "Chapter 1245 - Minaga’s Awesome and Illustrious Labyrinth Complex Dungeon-5",
   story: "story-read/the-primal-hunter",

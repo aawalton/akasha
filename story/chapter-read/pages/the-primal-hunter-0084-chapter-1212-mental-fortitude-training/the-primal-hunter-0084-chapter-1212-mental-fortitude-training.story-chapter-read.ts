@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0084Chapter1212MentalFortitudeTraining = {
   id: "01a06730-4df5-7a9a-aff2-7837d280033b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0084-chapter-1212-mental-fortitude-training",
   title: "Chapter 1212 - Mental Fortitude Training",
   story: "story-read/the-primal-hunter",

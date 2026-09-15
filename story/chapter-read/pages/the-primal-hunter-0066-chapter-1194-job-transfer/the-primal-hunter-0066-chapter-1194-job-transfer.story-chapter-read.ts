@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0066Chapter1194JobTransfer = {
   id: "01a06730-4dee-7357-a18d-f4d94dfb957e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0066-chapter-1194-job-transfer",
   title: "Chapter 1194 - Job Transfer",
   story: "story-read/the-primal-hunter",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0090Chapter1218AMarchThroughNothingness = {
   id: "01a06730-4df9-772b-a64c-986fab93b965",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0090-chapter-1218-a-march-through-nothingness",
   title: "Chapter 1218 - A March Through Nothingness",
   story: "story-read/the-primal-hunter",

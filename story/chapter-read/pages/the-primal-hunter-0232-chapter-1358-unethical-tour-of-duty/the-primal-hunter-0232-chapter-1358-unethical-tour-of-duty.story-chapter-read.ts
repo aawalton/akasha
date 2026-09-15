@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0232Chapter1358UnethicalTourOfDuty = {
   id: "01a06730-4e41-789b-8f8e-9ad966b44442",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0232-chapter-1358-unethical-tour-of-duty",
   title: "Chapter 1358 - Unethical Tour of Duty",
   story: "story-read/the-primal-hunter",

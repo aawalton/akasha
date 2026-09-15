@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0222Chapter1348ExtinguishedFlame = {
   id: "01a06730-4e39-7eaf-b6bb-5ce5c682fbf4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0222-chapter-1348-extinguished-flame",
   title: "Chapter 1348 - Extinguished Flame",
   story: "story-read/the-primal-hunter",

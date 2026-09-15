@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0115Chapter1243TooEasilyDistracted = {
   id: "01a06730-4e08-7e31-9349-1598f216dda8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0115-chapter-1243-too-easily-distracted",
   title: "Chapter 1243 - Too Easily Distracted",
   story: "story-read/the-primal-hunter",

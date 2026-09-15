@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0179Chapter1305ABriefTutorialAndATunnelMound = {
   id: "01a06730-4e26-762b-a324-8c855b899754",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0179-chapter-1305-a-brief-tutorial-and-a-tunnel-mound",
   title: "Chapter 1305 - A Brief Tutorial & A Tunnel Mound",
   story: "story-read/the-primal-hunter",

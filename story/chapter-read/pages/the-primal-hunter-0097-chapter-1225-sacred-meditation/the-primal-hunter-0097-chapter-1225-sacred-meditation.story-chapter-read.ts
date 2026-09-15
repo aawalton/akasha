@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0097Chapter1225SacredMeditation = {
   id: "01a06730-4dfc-7cd1-a2dd-b82d2bba2722",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0097-chapter-1225-sacred-meditation",
   title: "Chapter 1225 - Sacred Meditation",
   story: "story-read/the-primal-hunter",

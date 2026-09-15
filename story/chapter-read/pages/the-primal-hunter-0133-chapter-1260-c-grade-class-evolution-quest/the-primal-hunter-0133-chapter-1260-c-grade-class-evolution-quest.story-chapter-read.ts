@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0133Chapter1260CGradeClassEvolutionQuest = {
   id: "01a06730-4e0e-7337-991d-97ea6d179cc4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0133-chapter-1260-c-grade-class-evolution-quest",
   title: "Chapter 1260 - C-grade Class Evolution Quest",
   story: "story-read/the-primal-hunter",

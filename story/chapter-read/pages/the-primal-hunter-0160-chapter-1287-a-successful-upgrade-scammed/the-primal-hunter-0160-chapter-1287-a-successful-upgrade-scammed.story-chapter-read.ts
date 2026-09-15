@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0160Chapter1287ASuccessfulUpgradeScammed = {
   id: "01a06730-4e19-7532-a89c-3ea7961251db",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0160-chapter-1287-a-successful-upgrade-scammed",
   title: "Chapter 1287 - A Successful Upgrade = Scammed (?)",
   story: "story-read/the-primal-hunter",

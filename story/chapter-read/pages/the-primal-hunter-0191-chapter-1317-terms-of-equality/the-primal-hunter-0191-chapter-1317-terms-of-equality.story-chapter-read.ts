@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0191Chapter1317TermsOfEquality = {
   id: "01a06730-4e2a-7c3c-b688-31825f4f8593",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0191-chapter-1317-terms-of-equality",
   title: 'Chapter 1317 - Terms of "Equality"',
   story: "story-read/the-primal-hunter",

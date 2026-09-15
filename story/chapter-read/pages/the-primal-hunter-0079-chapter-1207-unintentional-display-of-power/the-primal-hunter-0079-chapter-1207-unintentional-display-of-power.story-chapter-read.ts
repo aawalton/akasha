@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0079Chapter1207UnintentionalDisplayOfPower = {
   id: "01a06730-4df3-721f-af2a-b2b1a998d142",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0079-chapter-1207-unintentional-display-of-power",
   title: "Chapter 1207 - Unintentional Display of Power",
   story: "story-read/the-primal-hunter",

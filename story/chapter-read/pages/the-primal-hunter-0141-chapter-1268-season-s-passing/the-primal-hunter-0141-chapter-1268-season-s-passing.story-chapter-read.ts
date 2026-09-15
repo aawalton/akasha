@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0141Chapter1268SeasonSPassing = {
   id: "01a06730-4e11-7339-acea-31b3672e1d87",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0141-chapter-1268-season-s-passing",
   title: "Chapter 1268 - Season's Passing",
   story: "story-read/the-primal-hunter",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0134Chapter1261AnEraOfStability = {
   id: "01a06730-4e0e-76b2-a3d0-b7528e72ece0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0134-chapter-1261-an-era-of-stability",
   title: "Chapter 1261 - An Era of Stability",
   story: "story-read/the-primal-hunter",

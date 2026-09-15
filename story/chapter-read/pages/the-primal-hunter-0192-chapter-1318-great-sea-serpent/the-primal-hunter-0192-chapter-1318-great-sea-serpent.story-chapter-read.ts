@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0192Chapter1318GreatSeaSerpent = {
   id: "01a06730-4e2b-7b67-9f26-eccdab2d08ec",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0192-chapter-1318-great-sea-serpent",
   title: "Chapter 1318 - Great Sea Serpent",
   story: "story-read/the-primal-hunter",

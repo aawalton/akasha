@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0160Chapter1363AForgettableTrial = {
   id: "01a06730-4e19-7388-a7df-6f1d04e7869b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0160-chapter-1363-a-forgettable-trial",
   title: "Chapter 1363 - A Forgettable Trial",
   story: "story-read/the-primal-hunter",

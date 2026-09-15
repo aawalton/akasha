@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0200Chapter1326WithGodsLikeTheseWhoNeedsEnemies = {
   id: "01a06730-4e31-7004-b231-d33766070cd5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0200-chapter-1326-with-gods-like-these-who-needs-enemies",
   title: "Chapter 1326 - With Gods Like These, Who Needs Enemies?",
   story: "story-read/the-primal-hunter",

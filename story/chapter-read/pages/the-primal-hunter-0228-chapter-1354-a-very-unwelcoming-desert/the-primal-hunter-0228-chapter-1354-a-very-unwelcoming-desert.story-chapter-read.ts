@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0228Chapter1354AVeryUnwelcomingDesert = {
   id: "01a06730-4e40-7f9f-a300-d38a03185edf",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0228-chapter-1354-a-very-unwelcoming-desert",
   title: "Chapter 1354 - A Very Unwelcoming Desert",
   story: "story-read/the-primal-hunter",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0154Chapter1281ALudicrousSkillForALudicrousExistence = {
   id: "01a06730-4e16-7c92-b80d-4b5ec85a84c8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0154-chapter-1281-a-ludicrous-skill-for-a-ludicrous-existence",
   title: "Chapter 1281 - A Ludicrous Skill For A Ludicrous Existence",
   story: "story-read/the-primal-hunter",

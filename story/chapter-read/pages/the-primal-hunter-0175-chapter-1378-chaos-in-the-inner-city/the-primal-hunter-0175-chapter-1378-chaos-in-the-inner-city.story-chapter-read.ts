@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0175Chapter1378ChaosInTheInnerCity = {
   id: "01a086e8-d8cf-7b56-9de8-9188dacc02f7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0175-chapter-1378-chaos-in-the-inner-city",
   position: 175,
   publishedAt: "2026-09-09",

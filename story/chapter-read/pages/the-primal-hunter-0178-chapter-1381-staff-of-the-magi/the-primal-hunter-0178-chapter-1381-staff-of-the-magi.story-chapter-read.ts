@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0178Chapter1381StaffOfTheMagi = {
   id: "01a0a0ac-adc7-7d8c-a11e-2afe70779fda",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0178-chapter-1381-staff-of-the-magi",
   position: 178,
   publishedAt: "2026-09-14",

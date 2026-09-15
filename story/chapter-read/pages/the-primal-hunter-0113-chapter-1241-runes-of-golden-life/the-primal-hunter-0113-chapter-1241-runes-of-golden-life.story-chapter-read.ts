@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0113Chapter1241RunesOfGoldenLife = {
   id: "01a06730-4e07-71a4-a0ae-2e8945082e08",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0113-chapter-1241-runes-of-golden-life",
   title: "Chapter 1241 - Runes of Golden Life",
   story: "story-read/the-primal-hunter",

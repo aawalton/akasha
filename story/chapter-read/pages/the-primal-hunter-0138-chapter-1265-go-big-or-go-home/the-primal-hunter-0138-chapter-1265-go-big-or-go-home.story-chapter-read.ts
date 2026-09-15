@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0138Chapter1265GoBigOrGoHome = {
   id: "01a06730-4e10-7d4c-94b6-d3163fe6f6a3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0138-chapter-1265-go-big-or-go-home",
   title: "Chapter 1265 - Go Big Or Go Home",
   story: "story-read/the-primal-hunter",

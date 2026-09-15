@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0122Chapter1250FirstPhaseGuards = {
   id: "01a06730-4e0a-7bf4-ae0f-db9d4fc22443",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0122-chapter-1250-first-phase-guards",
   title: "Chapter 1250 - First Phase: Guards",
   story: "story-read/the-primal-hunter",

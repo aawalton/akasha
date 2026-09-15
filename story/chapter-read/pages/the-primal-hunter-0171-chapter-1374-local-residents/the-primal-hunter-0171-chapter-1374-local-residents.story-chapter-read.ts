@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0171Chapter1374LocalResidents = {
   id: "01a07252-4cd5-7bf5-a695-bfadc553931b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0171-chapter-1374-local-residents",
   story: "story-read/the-primal-hunter",
   position: 171,

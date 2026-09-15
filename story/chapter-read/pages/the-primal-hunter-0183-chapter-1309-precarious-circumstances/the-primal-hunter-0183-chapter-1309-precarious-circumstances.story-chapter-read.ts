@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0183Chapter1309PrecariousCircumstances = {
   id: "01a06730-4e27-7a3c-b280-cd7c5dd69997",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0183-chapter-1309-precarious-circumstances",
   title: "Chapter 1309 - Precarious Circumstances",
   story: "story-read/the-primal-hunter",

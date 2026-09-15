@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0176Chapter1302TheNatureOfTheArachnecs = {
   id: "01a06730-4e25-72f0-a669-8d87bf1c57ff",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0176-chapter-1302-the-nature-of-the-arachnecs",
   title: "Chapter 1302 - The Nature of the Arachnecs",
   story: "story-read/the-primal-hunter",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0186Chapter1312HopeAmidstDoubt = {
   id: "01a06730-4e28-7fb1-8f10-ef15f945a343",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0186-chapter-1312-hope-amidst-doubt",
   title: "Chapter 1312 - Hope Amidst Doubt",
   story: "story-read/the-primal-hunter",
