@@ -15,7 +15,7 @@ export const theaChecksSystem = {
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "123 refusals at 343d997bd9a. alan 31, pages 26, agents 16, story 12, infrastructure 8, temper 7, personas 7, commands 4, checks 4, utils 3, testing-system 3, domains 1, changes 1, and the code tree clear. Most sit in modules that are reached, so narrowing those takes no feature away; a file dead whole is where a feature leaves. Another seat's work under page/index raised that tree while every other tree fell.",
+        "67 refusals at 2c98c950dd7. page 19, alan 17, agent 9, temper 5, infrastructure 5, story 4, check 3, util 2, persona 1, command 1, change 1. Most of what is left is held rather than open: a module dead whole is a feature leaving and Alan settles those, and a value meant to be called that never got wired up is repaired rather than removed. What narrowing was open has been done.",
     },
 
     {
