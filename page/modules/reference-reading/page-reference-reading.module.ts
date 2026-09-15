@@ -31,11 +31,7 @@ export const pageReferenceReading = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A reading that answers nothing at all refuses rather than answering none.",
-    },
-    {
-      invariantKind: "invariant-kind/gap",
-      statement: "A body of code belonging to no page refuses rather than answering no importer.",
+      statement: "A reading that answers nothing at all answers none rather than refusing.",
     },
     {
       invariantKind: "invariant-kind/gap",

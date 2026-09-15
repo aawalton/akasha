@@ -1,8 +1,8 @@
 import { claimantIn } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
-  answered,
   heldEach,
   listedById,
+  readingIn,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
@@ -17,8 +17,6 @@ export type Named = {
   readonly path: string
   readonly propertySlug: string
 }
-
-const ROOT = ""
 
 const BLANK = ""
 
@@ -37,10 +35,9 @@ function referencesFor(given: string | Reading, pagePath: string): readonly Refe
 }
 
 function referencesOf(given: string | Reading, id: string): readonly Reference[] {
-  return answered(given, ROOT, `what references \`${id}\``, (reading) => {
-    const listed = listedById(reading, id)
-    return listed === null ? [] : referencesFor(reading, listed.path)
-  })
+  const reading = readingIn(given)
+  const listed = listedById(reading, id)
+  return listed === null ? [] : referencesFor(reading, listed.path)
 }
 
 export function idsNaming(
@@ -65,14 +62,13 @@ export function namersOf(given: string | Reading, id: string): readonly Named[] 
 }
 
 export function importersOf(given: string | Reading, path: string): readonly string[] {
-  return answered(given, ROOT, `which files import \`${path}\``, (reading) => {
-    const owner = claimantIn(reading, path)
-    if (owner === null) return []
-    const name = fileNameOf(path)
-    const found: string[] = []
-    for (const one of referencesFor(reading, owner)) {
-      if (one.propertySlug === IMPORT && one.fileName === name) found.push(one.path)
-    }
-    return found.sort()
-  })
+  const reading = readingIn(given)
+  const owner = claimantIn(reading, path)
+  if (owner === null) return []
+  const name = fileNameOf(path)
+  const found: string[] = []
+  for (const one of referencesFor(reading, owner)) {
+    if (one.propertySlug === IMPORT && one.fileName === name) found.push(one.path)
+  }
+  return found.sort()
 }

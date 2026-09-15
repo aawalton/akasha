@@ -6,7 +6,6 @@ import {
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   everyOfType,
-  indexNamed,
   listedById,
   listedFor,
   listedWithin,
@@ -136,17 +135,13 @@ test("an id directory standing nowhere under a standing index is nothing rather 
   expect(listedById(root, A)).toBe(null)
 })
 
-test("every reader is refused where the index stands nowhere, whatever it was asked", () => {
+test("every reader answers empty where the index holds nothing, whatever it was asked", () => {
   const root = rootAt()
 
-  expect(() => listedById(root, A)).toThrow(indexNamed())
-  expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
-})
-
-test("a refusal names the directory the reading read from rather than a path under a root", () => {
-  const root = rootAt()
-
-  expect(() => listedById(root, A)).toThrow(indexIn(root))
+  expect(listedById(root, A)).toBe(null)
+  expect(everyOfType(root, "module")).toEqual([])
+  expect(shapesOfType(root, "text-property").size).toBe(0)
+  expect(shapesEvery(root).size).toBe(0)
 })
 
 test("an index's own place is answered under the index root", () => {

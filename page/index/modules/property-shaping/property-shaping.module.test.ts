@@ -164,8 +164,10 @@ test("an index filing no shape refuses the name rather than the reading", () => 
   })
 })
 
-test("a name is refused where the index itself is not there", () => {
+test("an index holding nothing at all refuses the name rather than the reading", () => {
   const root = scratch.rootFor("akasha-shaping-cold-")
 
-  expect(() => shapeOf(root, "text-property/foo")).toThrow(/is not an index naming none/)
+  expect(shapeOf(root, "text-property/foo")).toEqual({
+    refused: "no page property carries the slug `foo`",
+  })
 })

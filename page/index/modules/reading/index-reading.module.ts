@@ -63,20 +63,17 @@ export const indexReading = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A question is refused only where the index the question reads is not there.",
+      statement:
+        "A read answers what the index holds rather than asking whether the index is there.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Whether a throw is that refusal is told here rather than by each caller.",
+      statement: "A question the index holds no file for is answered empty.",
     },
     {
       invariantKind: "invariant-kind/departure",
       statement:
         "How long a reader waits on a refresh part way through is said here for every reader.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "Whether the index is there is asked at the root of the index by every read here.",
     },
     {
       invariantKind: "invariant-kind/departure",

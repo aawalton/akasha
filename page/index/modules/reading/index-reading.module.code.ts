@@ -4,7 +4,6 @@ import type { Reading, Shape } from "akasha/page/index/modules/shape/index-shape
 import {
   INDEX_AT,
   indexIn,
-  readFrom,
   readingAt,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { filedFor, type PageAddress } from "akasha/page/modules/address/page-address.module.code.ts"
@@ -35,8 +34,6 @@ const PAGE_TYPE = "page-type"
 
 const ID = "id"
 
-const ROOT = ""
-
 const NAMING_NONE = "an index that is missing is not an index naming none"
 
 export const REFRESH_WAITED_AT_MOST_MS = 120_000
@@ -55,21 +52,6 @@ export function indexThere(given: string | Reading): boolean {
 
 export function readingIn(given: string | Reading): Reading {
   return typeof given === "string" ? readingAt(indexIn(given), given) : given
-}
-
-export function answered<T>(
-  given: string | Reading,
-  at: string,
-  asked: string,
-  said: (reading: Reading) => T
-): T {
-  const reading = readingIn(given)
-  if (!reading.holds(at)) {
-    throw new Error(
-      `\`${join(readFrom(reading), at)}\` is not there, so ${asked} could not be answered — ${NAMING_NONE}`
-    )
-  }
-  return said(reading)
 }
 
 export function heldOnce<T>(asked: (reading: Reading) => T): (given: string | Reading) => T {
@@ -152,12 +134,9 @@ export function listedNamed(
   propertySlug: string,
   said: string
 ): readonly Listed[] {
-  return answered(
-    given,
-    ROOT,
-    `which \`${scope === "" ? uniqueKind : scope}\` carries \`${said}\` as its \`${propertySlug}\``,
-    (reading) =>
-      listedIn(reading, join(IDENTITY, uniqueKind, scope, propertySlug, `${said}${ENDING}`))
+  return listedIn(
+    readingIn(given),
+    join(IDENTITY, uniqueKind, scope, propertySlug, `${said}${ENDING}`)
   )
 }
 
@@ -182,12 +161,7 @@ export function listedWithin(
 }
 
 export function listedById(given: string | Reading, id: string): Listed | null {
-  return answered(
-    given,
-    ROOT,
-    `which page carries \`${id}\``,
-    (reading) => listedIn(reading, join(IDENTITY, PAGE, ID, `${id}${ENDING}`))[0] ?? null
-  )
+  return listedIn(readingIn(given), join(IDENTITY, PAGE, ID, `${id}${ENDING}`))[0] ?? null
 }
 
 export function listedEvery(given: string | Reading, address: PageAddress): readonly Listed[] {
@@ -200,9 +174,7 @@ export function listedFor(given: string | Reading, address: PageAddress): Listed
 }
 
 export function everyOfType(given: string | Reading, pageTypeSlug: string): readonly Listed[] {
-  return answered(given, ROOT, `which pages are \`${pageTypeSlug}\``, (reading) =>
-    rostered(reading, pageTypeSlug)
-  )
+  return rostered(given, pageTypeSlug)
 }
 
 export type Valued = {
@@ -211,13 +183,12 @@ export type Valued = {
 }
 
 export function everyValue(given: string | Reading): ReadonlyMap<string, Value> {
-  return answered(given, ROOT, "what every page carries", (reading) => {
-    const found = new Map<string, Value>()
-    for (const pageTypeSlug of slugsOfType(reading, PAGE_TYPE)) {
-      for (const one of valuesOfType(reading, pageTypeSlug)) found.set(one.path, one.value)
-    }
-    return found
-  })
+  const reading = readingIn(given)
+  const found = new Map<string, Value>()
+  for (const pageTypeSlug of slugsOfType(reading, PAGE_TYPE)) {
+    for (const one of valuesOfType(reading, pageTypeSlug)) found.set(one.path, one.value)
+  }
+  return found
 }
 
 const valued = heldEach((reading: Reading, pageTypeSlug: string): readonly Valued[] => {
@@ -265,9 +236,7 @@ const everyShaped = heldOnce((reading: Reading): ReadonlyMap<string, Shape> => {
 })
 
 export function shapesEvery(given: string | Reading): ReadonlyMap<string, Shape> {
-  return answered(given, ROOT, "what shape every page property has", (reading) =>
-    everyShaped(reading)
-  )
+  return everyShaped(given)
 }
 
 const shapedOfType = heldEach(
@@ -286,12 +255,7 @@ export function shapesOfType(
   given: string | Reading,
   pageTypeSlug: string
 ): ReadonlyMap<string, Shape> {
-  return answered(
-    given,
-    ROOT,
-    `what shape the \`${pageTypeSlug}\` page properties have`,
-    (reading) => shapedOfType(reading, pageTypeSlug)
-  )
+  return shapedOfType(given, pageTypeSlug)
 }
 
 const bodied = heldEach((reading: Reading, path: string): Value | null => {
@@ -316,19 +280,16 @@ export function valuedAt(given: string | Reading, pageTypeSlug: string, slug: st
 }
 
 export function slugFoldersOf(given: string | Reading, pageTypeSlug: string): readonly string[] {
-  return answered(given, ROOT, `where the \`${pageTypeSlug}\` slugs are filed`, (reading) =>
-    slugFolders(reading, pageTypeSlug).map((at) => join(INDEX_AT, at))
-  )
+  return slugFolders(readingIn(given), pageTypeSlug).map((at) => join(INDEX_AT, at))
 }
 
 export function slugsOfType(given: string | Reading, pageTypeSlug: string): readonly string[] {
-  return answered(given, ROOT, `which slugs the \`${pageTypeSlug}\` pages carry`, (reading) => {
-    const found = new Set<string>()
-    for (const at of slugFolders(reading, pageTypeSlug)) {
-      for (const one of endingIn(reading.listing(at))) found.add(one)
-    }
-    return [...found].sort()
-  })
+  const reading = readingIn(given)
+  const found = new Set<string>()
+  for (const at of slugFolders(reading, pageTypeSlug)) {
+    for (const one of endingIn(reading.listing(at))) found.add(one)
+  }
+  return [...found].sort()
 }
 
 function slugOf(standing: Listed | null, id: string): string | null {

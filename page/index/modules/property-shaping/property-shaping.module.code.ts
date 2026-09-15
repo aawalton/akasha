@@ -1,6 +1,6 @@
 import {
-  answered,
   listedAt,
+  readingIn,
   shapesEvery,
   shapesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -158,5 +158,5 @@ function namedIn(reading: Reading, named: string): Shaping {
 }
 
 export function shapeOf(given: string | Reading, named: string): Shaping {
-  return answered(given, "", `what shape \`${named}\` has`, (reading) => namedIn(reading, named))
+  return namedIn(readingIn(given), named)
 }

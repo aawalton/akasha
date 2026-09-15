@@ -1,7 +1,7 @@
 import { join } from "node:path"
 import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import { shapesAt } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
-import { answered, heldOnce } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { heldOnce, readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import {
@@ -150,21 +150,20 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string 
 export type UncommittedBy = ReadonlyMap<string, ReadonlySet<string>>
 
 export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string | null> {
-  return answered(given, "", "which keys any page type holds in a file", (reading) => {
-    const types = typesIn(reading)
-    const above = aboveIn(types)
-    const beside = besidesIn(above)
-    const grouped = reachingIn(above, GROUP)
-    const properties = shapesAt(reading)
-    const found = new Map<string, string | null>()
-    const keyed = keyingBy(types, properties, above, found)
-    for (const held of properties.values()) {
-      if (held.fileName !== null) found.set(held.propertySlug, held.fileName)
-      else if (grouped(held.pageTypeSlug)) keyed(held.propertySlug, held.pageTypeSlug)
-      else if (beside(held.pageTypeSlug)) found.set(held.propertySlug, null)
-    }
-    return found
-  })
+  const reading = readingIn(given)
+  const types = typesIn(reading)
+  const above = aboveIn(types)
+  const beside = besidesIn(above)
+  const grouped = reachingIn(above, GROUP)
+  const properties = shapesAt(reading)
+  const found = new Map<string, string | null>()
+  const keyed = keyingBy(types, properties, above, found)
+  for (const held of properties.values()) {
+    if (held.fileName !== null) found.set(held.propertySlug, held.fileName)
+    else if (grouped(held.pageTypeSlug)) keyed(held.propertySlug, held.pageTypeSlug)
+    else if (beside(held.pageTypeSlug)) found.set(held.propertySlug, null)
+  }
+  return found
 }
 
 export type FilePropertiesBy = ReadonlyMap<string, ReadonlyMap<string, string | null>>
@@ -327,9 +326,7 @@ export function filePropertiesOver(
 }
 
 function carryingAt(given: string | Reading): Carrying {
-  return answered(given, "", "which properties each page type holds in a file", (reading) =>
-    carryingOver(reading, [])
-  )
+  return carryingOver(readingIn(given), [])
 }
 
 export function filePropertiesAt(given: string | Reading): FilePropertiesBy {
