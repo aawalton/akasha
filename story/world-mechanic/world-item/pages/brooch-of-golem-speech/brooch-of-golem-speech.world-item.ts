@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const broochOfGolemSpeech = {
   id: "01a0655a-7b7f-7c9e-b788-c7a70f8ca72f",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "brooch-of-golem-speech",
   title: "Brooch of Golem Speech",
   world: "world/the-wandering-inn",

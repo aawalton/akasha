@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const ringOfHealth = {
   id: "01a0655a-7b7f-784a-b857-114259fbedd1",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "ring-of-health",
   title: "Ring of Health",
   world: "world/the-wandering-inn",

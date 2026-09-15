@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const waterproofFabric = {
   id: "01a0655a-7b80-7192-8358-b677123144af",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "waterproof-fabric",
   title: "Waterproof Fabric",
   world: "world/the-wandering-inn",

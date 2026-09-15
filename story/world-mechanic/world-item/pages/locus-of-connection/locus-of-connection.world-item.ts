@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const locusOfConnection = {
   id: "01a0655a-7b7f-7ef2-a735-6aab859ccff1",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "locus-of-connection",
   title: "Locus of Connection",
   world: "world/the-wandering-inn",

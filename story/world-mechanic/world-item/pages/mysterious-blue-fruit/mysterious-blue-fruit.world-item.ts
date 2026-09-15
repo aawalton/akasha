@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const mysteriousBlueFruit = {
   id: "01a0655a-7b7f-7508-988d-e962bde97929",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "mysterious-blue-fruit",
   title: "Mysterious Blue Fruit",
   world: "world/the-wandering-inn",

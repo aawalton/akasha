@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const stellarIvory = {
   id: "01a0655a-7b7f-7c03-ac69-49d2ce024e18",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "stellar-ivory",
   title: "Stellar Ivory",
   world: "world/the-wandering-inn",

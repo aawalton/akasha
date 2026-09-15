@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const magePicture = {
   id: "01a0655a-7b7f-73c9-b05e-c7dc157884fb",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "mage-picture",
   title: "Mage Picture",
   world: "world/the-wandering-inn",

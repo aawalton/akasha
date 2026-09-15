@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const stickywebs = {
   id: "01a0655a-7b80-7adc-98ce-3d0a6daf2050",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "stickywebs",
   title: "Stickywebs",
   world: "world/the-wandering-inn",

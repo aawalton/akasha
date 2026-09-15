@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const wagon = {
   id: "01a0655a-7b80-7fd2-a093-d0953f96257d",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "wagon",
   title: "Wagon",
   world: "world/the-wandering-inn",

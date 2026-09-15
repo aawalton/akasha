@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const arrowsOfRazzimir = {
   id: "01a0655a-7b7f-7200-b5aa-1760ff733e56",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "arrows-of-razzimir",
   title: "Arrows of Razzimir",
   world: "world/the-wandering-inn",

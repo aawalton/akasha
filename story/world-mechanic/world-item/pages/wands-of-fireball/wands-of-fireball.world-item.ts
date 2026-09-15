@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const wandsOfFireball = {
   id: "01a0655a-7b80-7106-9e88-cf6339ede935",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "wands-of-fireball",
   title: "Wands of Fireball",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const phoenixfireBolt = {
   id: "01a0655a-7b7f-70bc-825c-7e045db96e57",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "phoenixfire-bolt",
   title: "Phoenixfire Bolt",
   world: "world/the-wandering-inn",

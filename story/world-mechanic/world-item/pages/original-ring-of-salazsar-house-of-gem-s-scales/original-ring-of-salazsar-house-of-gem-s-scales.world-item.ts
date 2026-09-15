@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const originalRingOfSalazsarHouseOfGemSScales = {
   id: "01a0655a-7b7f-712b-9685-218182cc632e",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "original-ring-of-salazsar-house-of-gem-s-scales",
   title: "Original Ring of Salazsar (House of Gem’s Scales)",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const runeOfItchyFeet = {
   id: "01a0655a-7b7f-72b1-a72d-76aba6935723",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "rune-of-itchy-feet",
   title: "Rune of Itchy Feet",
   world: "world/the-wandering-inn",

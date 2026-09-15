@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const dispellingFumes = {
   id: "01a0655a-7b7f-72b5-a1f2-6afff5f5f1f7",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "dispelling-fumes",
   title: "Dispelling Fumes",
   world: "world/the-wandering-inn",

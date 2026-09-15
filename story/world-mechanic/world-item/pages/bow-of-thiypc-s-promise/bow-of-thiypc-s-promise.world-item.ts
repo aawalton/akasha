@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const bowOfThiypcSPromise = {
   id: "01a0655a-7b7f-7514-9a57-701b02842dbb",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "bow-of-thiypc-s-promise",
   title: "Bow of Thiypc’s Promise",
   world: "world/the-wandering-inn",

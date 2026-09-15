@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const safetyTalisman = {
   id: "01a0655a-7b7f-774c-bbda-3e8e5764824e",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "safety-talisman",
   title: "Safety Talisman",
   world: "world/the-wandering-inn",

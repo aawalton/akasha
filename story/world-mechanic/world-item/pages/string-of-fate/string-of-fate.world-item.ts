@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const stringOfFate = {
   id: "01a0655a-7b80-7674-9277-eda94ffc896b",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "string-of-fate",
   title: "String of Fate",
   world: "world/the-wandering-inn",

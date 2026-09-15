@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const potionOfHaste = {
   id: "01a0655a-7b7f-732a-b3d7-b47e8bced464",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "potion-of-haste",
   title: "Potion of Haste",
   world: "world/the-wandering-inn",

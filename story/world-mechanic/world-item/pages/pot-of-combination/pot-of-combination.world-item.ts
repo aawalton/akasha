@@ -2,7 +2,7 @@ import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-ite
 
 export const potOfCombination = {
   id: "01a0655a-7b7f-72b1-b4da-51be6e555771",
-  type: "world-item",
+  type: "page-type/world-item",
   slug: "pot-of-combination",
   title: "Pot of Combination",
   world: "world/the-wandering-inn",
