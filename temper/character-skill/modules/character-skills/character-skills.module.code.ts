@@ -1,7 +1,7 @@
 import type { SkillTemplate } from "akasha/temper/character-skill/modules/character-skill-template/character-skill-template.module.code.ts"
 import { skillsFromPages } from "akasha/temper/character-skill/modules/character-skills-from-pages/character-skills-from-pages.module.code.ts"
 import { scribedSkills } from "akasha/temper/character-skill/modules/scribed-skills/scribed-skills.module.code.ts"
-import type { SkillLineId } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
+import type { SkillLineId } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import {
   createDataFile,
   type DataFile,

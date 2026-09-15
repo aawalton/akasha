@@ -49,4 +49,4 @@
 {"propertySlug":"import","fileName":"skill-lines.module.code.ts","path":"temper/web/modules/subclassing-skill-lines-panel-card/subclassing-skill-lines-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"skill-lines.module.code.ts","path":"temper/web/modules/use-character/use-character.module.code.ts"}
 {"propertySlug":"import","fileName":"skill-lines.module.code.ts","path":"temper/web/modules/use-skill-bars/use-skill-bars.module.code.ts"}
-{"propertySlug":"parts","path":"temper/skill-lines/temper-skill-lines.domain.ts","id":"01a0608a-c135-79d5-91c5-4cf48adc59f3"}
+{"propertySlug":"parts","path":"temper/character-skill-line/temper-character-skill-line.domain.ts","id":"01a0608a-c135-79d5-91c5-4cf48adc59f3"}

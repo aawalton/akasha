@@ -7,6 +7,8 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/champion-point/modules/warfare-slottables/warfare-slottables.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-class/modules/character-class/character-class.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-race/modules/races/races.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/character-skills-from-pages/character-skills-from-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/character-skills/character-skills.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/scribed-skills/scribed-skills.module.code.ts"}
@@ -75,7 +77,5 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/skill-kind/modules/status-effect-types/status-effect-types.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/skill-kind/modules/target-scopes/target-scopes.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/skill-kind/modules/target-types/target-types.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/skill-lines/modules/skill-line-category-data/skill-line-category-data.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"util/narrow/modules/get-subcategory/get-subcategory.module.code.ts"}
 {"propertySlug":"parts","path":"util/narrow/util-narrow.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

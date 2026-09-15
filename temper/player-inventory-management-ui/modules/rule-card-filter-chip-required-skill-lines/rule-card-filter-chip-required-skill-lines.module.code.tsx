@@ -18,9 +18,9 @@ import {
   SelectValue,
 } from "akasha/design/interfaces/primitives/modules/select-control/select-control.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
+import { skillLines } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import type { RequiredSkillLinesCondition } from "akasha/temper/items-rules-core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
 import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
-import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import type { ReactNode } from "react"
 
 type RuleCardState = ReturnType<typeof useRuleCard>

@@ -1,10 +1,10 @@
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import type { Skill } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/character-skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
+import type { SkillLineCategoryId } from "akasha/temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import type { AffixScriptId } from "akasha/temper/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import type { FocusScriptId } from "akasha/temper/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import type { SignatureScriptId } from "akasha/temper/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
-import type { SkillLineCategoryId } from "akasha/temper/skill-lines/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 
 export type BarType = "primary" | "backup"
 

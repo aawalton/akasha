@@ -1,3 +1,4 @@
+import { skillLines } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import { companions } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import type {
   AccountCompletion,
@@ -12,7 +13,6 @@ import type { AnyCompletionCardId } from "akasha/temper/player-completion/module
 import { resolveGenericCheckerProgress } from "akasha/temper/player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
 import type { ItemPath } from "akasha/temper/player-completion/modules/completion-item-picker/completion-item-picker.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player-completion/modules/completion-measured/completion-measured.module.code.ts"
-import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import {
   ESO_CLASS_ID_TO_CLASS_ID,
   ESO_RACE_ID_TO_RACE_ID,

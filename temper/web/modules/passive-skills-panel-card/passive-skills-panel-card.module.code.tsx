@@ -18,11 +18,11 @@ import { getWeaponSkillLineIdsForBar } from "akasha/temper/character-skill/modul
 import {
   type SkillLineCategoryId,
   skillLineCategoriesSorted,
-} from "akasha/temper/skill-lines/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
+} from "akasha/temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   type SkillLineId,
   skillLines,
-} from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import { SkillCollapsibleCard } from "akasha/temper/web/modules/skill-collapsible-card/skill-collapsible-card.module.code.tsx"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"

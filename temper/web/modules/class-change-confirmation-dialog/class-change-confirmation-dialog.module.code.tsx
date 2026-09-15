@@ -18,11 +18,11 @@ import {
   getSkillsToRemoveOnClassChange,
   validateSkillLinesForClass,
 } from "akasha/temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
-import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
   type SkillLineId,
   skillLines,
-} from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 
 interface ClassChangeConfirmationDialogProps {
   open: boolean

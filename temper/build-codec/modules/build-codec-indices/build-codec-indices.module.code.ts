@@ -7,6 +7,7 @@ import { skills } from "akasha/temper/character-skill/modules/character-skills/c
 import { getSkillLineCategory } from "akasha/temper/character-skill/modules/passive-queries/passive-queries.module.code.ts"
 import { scribedSkills } from "akasha/temper/character-skill/modules/scribed-skills/scribed-skills.module.code.ts"
 import { grimoires } from "akasha/temper/character-skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
+import { skillLines } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import { alliances } from "akasha/temper/character-source/modules/alliances/alliances.module.code.ts"
 import { curses } from "akasha/temper/character-source/modules/curses/curses.module.code.ts"
 import { esoPlus } from "akasha/temper/character-source/modules/eso-plus-source/eso-plus-source.module.code.ts"
@@ -29,7 +30,6 @@ import { affixScripts } from "akasha/temper/skill-kind/modules/scribing-affix-sc
 import { focusScripts } from "akasha/temper/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import { signatureScripts } from "akasha/temper/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 import { skillSlots } from "akasha/temper/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
-import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import { bitsNeeded } from "akasha/util/narrow/modules/bits-needed/bits-needed.module.code.ts"
 import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 

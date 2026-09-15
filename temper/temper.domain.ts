@@ -99,7 +99,7 @@ export const temper = {
     "domain/temper-settings-panel",
     "domain/temper-shopping",
     "domain/temper-skill-kind",
-    "domain/temper-skill-lines",
+    "domain/temper-character-skill-line",
     "domain/temper-skill-morphs",
     "domain/temper-skill-morphs-access",
     "domain/temper-skill-point-finder",

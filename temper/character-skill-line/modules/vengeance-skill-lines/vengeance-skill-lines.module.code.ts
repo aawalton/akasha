@@ -1,4 +1,4 @@
-import type { SkillLineTemplate } from "akasha/temper/skill-lines/modules/skill-line-template/skill-line-template.module.code.ts"
+import type { SkillLineTemplate } from "akasha/temper/character-skill-line/modules/skill-line-template/skill-line-template.module.code.ts"
 
 export const VENGEANCE_SKILL_LINES = {
   "vengeance-dragonknight-ardent-flame": {

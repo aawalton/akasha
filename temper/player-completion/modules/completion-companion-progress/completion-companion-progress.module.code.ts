@@ -1,3 +1,7 @@
+import {
+  type SkillLineId,
+  skillLines,
+} from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import {
   companions,
@@ -18,10 +22,6 @@ import type {
   CompanionSkillLineProgress,
   CompanionSkillLineProgressEntry,
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
-import {
-  type SkillLineId,
-  skillLines,
-} from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 
 const MAX_COMPANION_LEVEL = 20
 

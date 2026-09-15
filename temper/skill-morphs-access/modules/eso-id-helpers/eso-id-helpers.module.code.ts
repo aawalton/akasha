@@ -1,13 +1,13 @@
 import { classes } from "akasha/temper/character-class/modules/character-class/character-class.module.code.ts"
 import { type RaceId, races } from "akasha/temper/character-race/modules/races/races.module.code.ts"
 import { getRacialSkillLineIdForRace } from "akasha/temper/character-skill/modules/passive-queries/passive-queries.module.code.ts"
-import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
-import { skillLineCategoriesSorted } from "akasha/temper/skill-lines/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
+import { skillLineCategoriesSorted } from "akasha/temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   getSkillLineIdsForClass,
   type SkillLineId,
   skillLines,
-} from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 
 export const ESO_CLASS_ID_TO_CLASS_ID = new Map<number, ClassId>(
   classes.list

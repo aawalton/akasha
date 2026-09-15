@@ -6,6 +6,11 @@ import type {
   SkillBarsState,
   WeaponBarShape,
 } from "akasha/temper/character-skill/modules/query-shapes/query-shapes.module.code.ts"
+import {
+  getSkillLineIdsForClass,
+  type SkillLineId,
+  skillLines,
+} from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import { armorWeights } from "akasha/temper/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import type { ArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
@@ -19,11 +24,6 @@ import {
   type SkillSlotId,
   skillSlots,
 } from "akasha/temper/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
-import {
-  getSkillLineIdsForClass,
-  type SkillLineId,
-  skillLines,
-} from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import { requireGet } from "akasha/util/narrow/modules/require-get/require-get.module.code.ts"
 
 export function getAvailableSkillLinesGrouped(
