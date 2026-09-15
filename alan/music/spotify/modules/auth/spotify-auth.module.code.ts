@@ -68,21 +68,22 @@ export function isExpired(token: SpotifyToken, now: number = Date.now()): boolea
   return new Date(token.expiresAt).getTime() - now <= EXPIRY_BUFFER_MS
 }
 
-export function postToken(
-  asked: URLSearchParams,
-  over: Fetching = fetchSpotify
-): Promise<Response> {
-  return over(TOKEN_URL, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/x-www-form-urlencoded",
-      Authorization: basicAuthHeader(),
+export function postToken(asked: URLSearchParams, over?: Fetching): Promise<Response> {
+  return fetchSpotify(
+    TOKEN_URL,
+    {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded",
+        Authorization: basicAuthHeader(),
+      },
+      body: asked,
     },
-    body: asked,
-  })
+    over
+  )
 }
 
-export async function forceRefresh(over: Fetching = fetchSpotify): Promise<SpotifyToken> {
+export async function forceRefresh(over?: Fetching): Promise<SpotifyToken> {
   const stored = readToken()
   if (stored == null) throw new Error(NOT_AUTHORIZED)
   const response = await postToken(
@@ -96,7 +97,7 @@ export async function forceRefresh(over: Fetching = fetchSpotify): Promise<Spoti
   return persistTokenResponse(data, stored.refreshToken, stored.scopes)
 }
 
-export async function getOAuthAccessToken(over: Fetching = fetchSpotify): Promise<string> {
+export async function getOAuthAccessToken(over?: Fetching): Promise<string> {
   const stored = readToken()
   if (stored == null) throw new Error(NOT_AUTHORIZED)
   if (!isExpired(stored)) return stored.accessToken

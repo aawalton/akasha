@@ -14,15 +14,19 @@ export const spotifyFetching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A call over HTTP is this module's answer until something replaces the answer.",
+      statement: "The call a request is made over is passed in by the caller.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A replacement holds until the call over HTTP is put back.",
+      statement: "A caller passing no call is answered over HTTP.",
     },
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a Spotify URL.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here is kept between one call and the next.",
     },
   ],
 } as const satisfies Module

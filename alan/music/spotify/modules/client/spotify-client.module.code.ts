@@ -91,7 +91,7 @@ export function resolveUrl(endpointOrUrl: string): string {
 async function performRequest(
   url: string,
   options?: RequestOptions,
-  over: Fetching = fetchSpotify
+  over?: Fetching
 ): Promise<RawResponse> {
   const token = await getOAuthAccessToken(over)
   const method = options?.method ?? "GET"
@@ -101,7 +101,7 @@ async function performRequest(
     ...(hasBody && { "Content-Type": "application/json" }),
   }
   const body = hasBody ? JSON.stringify(options?.body) : undefined
-  const response = await over(url, { method, headers, ...(hasBody && { body }) })
+  const response = await fetchSpotify(url, { method, headers, ...(hasBody && { body }) }, over)
   return {
     status: response.status,
     headers: response.headers,
@@ -118,7 +118,7 @@ export async function spotifyRequest<T extends z.ZodTypeAny>(
   options?: RequestOptions,
   authRetries = 0,
   rateLimitRetries = 0,
-  over: Fetching = fetchSpotify
+  over?: Fetching
 ): Promise<z.infer<T>> {
   const url = resolveUrl(endpointOrUrl)
   const result = await enqueue(() => performRequest(url, options, over))
