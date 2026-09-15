@@ -50,10 +50,6 @@ export function childrenOf(sentence: DepSentence, id: number): DepToken[] {
   return sentence.children.get(id) ?? []
 }
 
-export function rootOf(sentence: DepSentence): DepToken | undefined {
-  return sentence.tokens.find((token) => token.head === 0)
-}
-
 export function byId(sentence: DepSentence, id: number): DepToken | undefined {
   const placed = sentence.tokens[id - 1]
   if (placed !== undefined && placed.id === id) return placed
