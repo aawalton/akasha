@@ -81,6 +81,14 @@ export const pageEntries = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A caller handing in a way to be told is told the name of every file passed over.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file that would not open is told apart from a file that holds no JSON object.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement:
         "A caller naming which properties it wants has the files of no other property read.",
     },

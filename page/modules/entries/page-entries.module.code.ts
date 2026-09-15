@@ -88,11 +88,14 @@ export type Rowing = {
 
 export type Beside = (at: string) => string | null
 
+export type Noting = (said: string) => undefined
+
 export function rowsOver(
   page: string,
   value: Value,
   declared: Iterable<Rowed>,
-  bodyAt: Beside
+  bodyAt: Beside,
+  noting: Noting | null = null
 ): readonly Rowing[] {
   const found: Rowing[] = []
   const there = (at: string): boolean => bodyAt(at) !== null
@@ -105,9 +108,16 @@ export function rowsOver(
     const rows: Value[] = []
     for (const at of parts) {
       const body = bodyAt(at)
-      if (body === null) continue
+      if (body === null) {
+        if (noting !== null)
+          noting(`'${at}' is named beside '${page}' and would not open, ${UNKNOWN}`)
+        continue
+      }
       const read = entriesIn(at, body)
-      if ("refused" in read) continue
+      if ("refused" in read) {
+        if (noting !== null) noting(read.refused)
+        continue
+      }
       for (const row of read.entries) rows.push(row)
     }
     if (rows.length > 0) found.push({ slug: one.pagePropertySlug, rows })
