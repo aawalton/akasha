@@ -14,12 +14,18 @@ export function shapesFiledAt(pageTypePath: string): string | null {
   return besideAt(pageTypePath, SECTION, HOLDS)
 }
 
+const ENDING_NAME = "extensionName"
+
+function endingHeld(shape: Shape, extensionName: string | null): Shape {
+  return extensionName === null ? shape : { ...shape, extensionName }
+}
+
 export function shapedIn(value: Value): Shape | null {
   const pageTypeSlug = slugAt(value, "type") ?? slugAt(value, "pageTypeSlug")
   const slug = textAt(value, "slug")
   const propertySlug = textAt(value, "propertySlug")
   if (pageTypeSlug === null || slug === null || propertySlug === null) return null
-  return {
+  const held: Shape = {
     pageTypeSlug,
     targetPageTypeSlug: slugAt(value, "targetPageType"),
     unique: slugAt(value, "unique"),
@@ -30,6 +36,7 @@ export function shapedIn(value: Value): Shape | null {
     folderName: textAt(value, "folderName"),
     sorted: value["sorted"] === true,
   }
+  return endingHeld(held, textAt(value, ENDING_NAME))
 }
 
 export function shapeIn(line: string): Shape | null {
@@ -45,7 +52,7 @@ export function shapeIn(line: string): Shape | null {
   const slug = textAt(held, "slug")
   const propertySlug = textAt(held, "propertySlug")
   if (pageTypeSlug === null || slug === null || propertySlug === null) return null
-  return {
+  const shape: Shape = {
     pageTypeSlug,
     targetPageTypeSlug: textAt(held, "targetPageTypeSlug"),
     unique: textAt(held, "unique"),
@@ -56,6 +63,7 @@ export function shapeIn(line: string): Shape | null {
     folderName: textAt(held, "folderName"),
     sorted: held["sorted"] === true,
   }
+  return endingHeld(shape, textAt(held, ENDING_NAME))
 }
 
 export function shapesIn(body: string): readonly Shape[] {

@@ -10,6 +10,7 @@ export const index = {
     "index/index-page",
     "index/index-page-property",
     "index/index-page-type",
+    "module/beside-declaring",
     "module/beside-turning",
     "module/extension-carrying",
     "module/file-appending",

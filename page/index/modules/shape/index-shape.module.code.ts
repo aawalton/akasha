@@ -26,4 +26,5 @@ export type Shape = {
   readonly fileName: string | null
   readonly folderName: string | null
   readonly sorted: boolean
+  readonly extensionName?: string
 }

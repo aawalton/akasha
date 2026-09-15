@@ -1,4 +1,7 @@
+import { sidecarsIn } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
+import { GROUPING } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.test-fixtures.ts"
 import type {
+  ExtensionsBy,
   FilePropertiesBy,
   FoldersBy,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
@@ -7,29 +10,7 @@ import {
   claimsOf,
   type IsThere,
   type Paging,
-  sidecarsIn,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
-
-export const GROUPING = [
-  { id: "1", pageTypeSlug: "page-type", slug: "file-property-group", properties: [] },
-  {
-    id: "2",
-    pageTypeSlug: "page-type",
-    slug: "module-property-group",
-    extends: ["page-type/file-property-group"],
-    properties: [
-      { pageProperty: "code-file-property/code", fixed: "ts" },
-      { pageProperty: "code-file-property/test", fixed: "ts" },
-      { pageProperty: "file-property/logs", uncommitted: true, default: "jsonl" },
-    ],
-  },
-  {
-    id: "3",
-    pageTypeSlug: "page-type",
-    slug: "check-code",
-    properties: [{ pageProperty: "module-property-group/audit" }],
-  },
-]
 
 const GROUP_PAGE = "/repo/deep/a.check-code.ts"
 
@@ -72,4 +53,10 @@ export function claimantBelow(path: string): string | null {
 
 export function claimantNamed(path: string): string | null {
   return claimantOf(PAGING, path, NO_KINDS, NAMED, NO_FOLDERED)
+}
+
+const ENDED: ExtensionsBy = new Map([["eso-addon", new Map([["addon-dds-file", "dds"]])]])
+
+export function claimantClosing(path: string): string | null {
+  return claimantOf(PAGING, path, NO_KINDS, NO_FILED, FOLDERED, ENDED)
 }

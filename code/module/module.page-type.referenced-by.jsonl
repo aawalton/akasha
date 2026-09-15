@@ -2036,6 +2036,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/identity/modules/sha1-digest/sha1-digest.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/index.page-type.types.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/answering/index-answering.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/beside-declaring/beside-declaring.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/beside-turning/beside-turning.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/building/index-building.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/carrying/index-carrying.module.ts"}

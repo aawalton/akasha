@@ -168,11 +168,14 @@ export type FilePropertiesBy = ReadonlyMap<string, ReadonlyMap<string, string | 
 
 export type FoldersBy = ReadonlyMap<string, ReadonlyMap<string, string>>
 
+export type ExtensionsBy = ReadonlyMap<string, ReadonlyMap<string, string>>
+
 type Held = {
   readonly pageTypeSlug: string
   readonly propertySlug: string
   readonly fileName: string | null
   readonly folderName: string | null
+  readonly extensionName?: string
 }
 
 function bareAmong(properties: ReadonlyMap<string, Held>): ReadonlyMap<string, Held | null> {
@@ -193,7 +196,14 @@ function propertiesAmong(values: Iterable<Value>): ReadonlyMap<string, Held> {
     if (propertySlug === null || slug === null || pageTypeSlug === null) continue
     const fileName = textAt(value, "fileName")
     const folderName = textAt(value, "folderName")
-    found.set(`${pageTypeSlug}/${slug}`, { pageTypeSlug, propertySlug, fileName, folderName })
+    const extensionName = textAt(value, "extensionName") ?? undefined
+    found.set(`${pageTypeSlug}/${slug}`, {
+      pageTypeSlug,
+      propertySlug,
+      fileName,
+      folderName,
+      extensionName,
+    })
   }
   return found
 }
@@ -202,6 +212,7 @@ type Carrying = {
   readonly filed: FilePropertiesBy
   readonly withheld: UncommittedBy
   readonly foldered: FoldersBy
+  readonly ended: ExtensionsBy
 }
 
 type Stated = {
@@ -254,6 +265,7 @@ function carriedBy(
   const filed = new Map<string, ReadonlyMap<string, string | null>>()
   const withheld = new Map<string, ReadonlySet<string>>()
   const foldered = new Map<string, ReadonlyMap<string, string>>()
+  const ended = new Map<string, ReadonlyMap<string, string>>()
   const membered = new Map<string, ReadonlyMap<string, Member>>()
   const membersOf = (named: string): ReadonlyMap<string, Member> => {
     const done = membered.get(named)
@@ -272,10 +284,14 @@ function carriedBy(
     const held = new Map<string, string | null>()
     const outside = new Set<string>()
     const folders = new Map<string, string>()
+    const endings = new Map<string, string>()
     for (const one of grouped(slug) ? [] : statedIn(slug, types, properties, bare, above)) {
       const hit = one.hit
       if (hit.folderName !== null && !folders.has(hit.propertySlug)) {
         folders.set(hit.propertySlug, hit.folderName)
+      }
+      if (hit.extensionName !== undefined && !endings.has(hit.propertySlug)) {
+        endings.set(hit.propertySlug, hit.extensionName)
       }
       if (grouped(hit.pageTypeSlug)) {
         for (const [member, said] of membersOf(hit.pageTypeSlug)) {
@@ -294,8 +310,9 @@ function carriedBy(
     filed.set(slug, held)
     withheld.set(slug, outside)
     foldered.set(slug, folders)
+    ended.set(slug, endings)
   }
-  return { filed, withheld, foldered }
+  return { filed, withheld, foldered, ended }
 }
 
 function filedAmong(given: string | Reading): ReadonlyMap<string, Held> {
@@ -337,6 +354,10 @@ export function uncommittedFiledAt(given: string | Reading): UncommittedBy {
 
 export function folderPropertiesAt(given: string | Reading): FoldersBy {
   return carryingAt(given).foldered
+}
+
+export function extensionPropertiesAt(given: string | Reading): ExtensionsBy {
+  return carryingAt(given).ended
 }
 
 export function entryShapesAt(given: string | Reading): ReadonlySet<string> {

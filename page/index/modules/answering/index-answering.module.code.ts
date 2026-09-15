@@ -1,4 +1,8 @@
 import {
+  type SidecarsBy,
+  sidecarsOver,
+} from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
+import {
   entryShapesAt,
   type FilePropertiesBy,
   type FoldersBy,
@@ -10,10 +14,6 @@ import {
   uncommittedFiledAt,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { manifestsBeside } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
-import {
-  type SidecarsBy,
-  sidecarsOver,
-} from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
   carryingOf,
   type Declaring,

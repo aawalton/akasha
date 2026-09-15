@@ -1,4 +1,9 @@
 import { expect, test } from "bun:test"
+import {
+  type Beside,
+  type SidecarsBy,
+  sidecarsIn,
+} from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
 import type { FilePropertiesBy } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
   A,
@@ -8,20 +13,17 @@ import {
   withholding,
 } from "akasha/page/index/modules/entries/index-entries.module.test-fixtures.ts"
 import {
-  type Beside,
   claimsOf,
   type IsThere,
   pathsOf,
-  type SidecarsBy,
-  sidecarsIn,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
   ADDON,
   claimantBelow,
+  claimantClosing,
   claimantNamed,
   GROUP_MEMBERS,
   GROUP_OWN,
-  GROUPING,
   groupClaiming,
   ONE_MEMBER,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.test-fixtures.ts"
@@ -96,37 +98,6 @@ test("a page carrying both is claimed under the built name and under the stated 
     "deep/a.module.ts",
     "deep/a.module.code.ts",
     "deep/package.json",
-  ])
-})
-
-test("the files beside a page are read from every page type above it", () => {
-  const values = [
-    {
-      id: "1",
-      pageTypeSlug: "page-type",
-      slug: "one",
-      properties: [{ secret: true }, { pagePropertySlug: "patch", default: "one-default" }],
-    },
-    {
-      id: "2",
-      pageTypeSlug: "page-type",
-      slug: "two",
-      properties: [{ uncommitted: true }, { pagePropertySlug: "patch", default: "two-default" }],
-    },
-    {
-      id: "3",
-      pageTypeSlug: "page-type",
-      slug: "both",
-      extends: ["page-type/one", "page-type/two"],
-    },
-  ]
-
-  const said = sidecarsIn(values).get("both")
-
-  expect(said?.secret).toBe(true)
-  expect(said?.uncommitted).toBe(true)
-  expect([...(said?.besides ?? [])]).toEqual([
-    ["patch", { held: "two-default", uncommitted: false }],
   ])
 })
 
@@ -233,18 +204,6 @@ test("that same property is claimed under its plain name where its type holds it
     HELD_PAGE,
     "deep/a.held-type.notes.jsonl",
   ])
-})
-
-test("a page type declaring a file property group has a file beside it for every member", () => {
-  expect([...(sidecarsIn(GROUPING).get("check-code")?.besides ?? [])]).toEqual([
-    ["audit.code", { held: "ts", uncommitted: false }],
-    ["audit.test", { held: "ts", uncommitted: false }],
-    ["audit.logs", { held: "jsonl", uncommitted: true }],
-  ])
-})
-
-test("a page of a file property group page type has no file of its own beside it", () => {
-  expect([...(sidecarsIn(GROUPING).get("module-property-group")?.besides ?? [])]).toEqual([])
 })
 
 test("a page carrying a group claims no member's file that is not there", () => {
@@ -428,4 +387,18 @@ test("a path outside that folder or over no page of that type is claimed by noth
 test("a name a page type declares for a file claims nothing beneath that name", () => {
   expect(claimantNamed("deep/Bindings.xml")).toBe(ADDON)
   expect(claimantNamed("deep/Bindings.xml/one.txt")).toBeNull()
+})
+
+test("a file closing with an extension a page type declares is claimed beside the page", () => {
+  expect(claimantClosing("deep/one.dds")).toBe(ADDON)
+  expect(claimantClosing("deep/Icons/one.dds")).toBe(ADDON)
+})
+
+test("a file closing that way is claimed by no page above the folder holding it", () => {
+  expect(claimantClosing("deep/under/one.dds")).toBeNull()
+  expect(claimantClosing("other/one.dds")).toBeNull()
+})
+
+test("a file closing with an extension no page type declares is claimed by nothing", () => {
+  expect(claimantClosing("deep/one.txt")).toBeNull()
 })

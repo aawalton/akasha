@@ -120,14 +120,7 @@ export const pathClaiming = {
       invariantKind: "invariant-kind/departure",
       statement: "The naming grammar lets no other page claim either file.",
     },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A type declares every property every type above that type declares.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "Which types declare a secret is answered here rather than by the caller.",
-    },
+
     {
       invariantKind: "invariant-kind/departure",
       statement: "A page claims a numbered file of a property only where that file is there.",
@@ -199,6 +192,19 @@ export const pathClaiming = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "A name a page type declares for a file claims nothing beneath that name.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A path closing with an extension a page type declares is claimed by that page beside it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page in a folder above the path claims that path through no extension.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A name or folder a page type declares is read before an extension it declares.",
     },
     {
       invariantKind: "invariant-kind/departure",

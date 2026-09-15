@@ -23,6 +23,7 @@ import {
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import type { SidecarsBy } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
 import type {
   FilePropertiesBy,
   FoldersBy,
@@ -38,7 +39,6 @@ import {
   type IsThere,
   type Paging,
   pagingOf,
-  type SidecarsBy,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import type { Carried } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Known } from "akasha/page/index/modules/reaching/reaching.module.code.ts"

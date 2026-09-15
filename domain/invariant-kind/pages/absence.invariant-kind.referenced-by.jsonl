@@ -1408,6 +1408,7 @@
 {"propertySlug":"invariant-kind","path":"page/identity/modules/sha1-digest/sha1-digest.module.ts","id":"01a05d42-bbcb-7988-8b8e-e0a7b0f48b07"}
 {"propertySlug":"invariant-kind","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}
 {"propertySlug":"invariant-kind","path":"page/index/modules/answering/index-answering.module.ts","id":"01a05eca-0849-789d-8118-1e8d7ae05244"}
+{"propertySlug":"invariant-kind","path":"page/index/modules/beside-declaring/beside-declaring.module.ts","id":"01a0a5b6-b8e0-7795-a6eb-c2223e6dd24f"}
 {"propertySlug":"invariant-kind","path":"page/index/modules/beside-turning/beside-turning.module.ts","id":"01a079a7-c9d9-7936-a9d3-e002d3f8e708"}
 {"propertySlug":"invariant-kind","path":"page/index/modules/building/index-building.module.ts","id":"01a0a120-e0b6-7e06-a347-7282763bf802"}
 {"propertySlug":"invariant-kind","path":"page/index/modules/carrying/index-carrying.module.ts","id":"01a09b7d-f088-7d22-88c5-53f5c0901921"}

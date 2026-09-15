@@ -29,7 +29,7 @@ import { slugRenamed } from "akasha/change/modules/slug-renaming/slug-renaming.m
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { placingOver } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { reachesIn } from "akasha/code/workspace/modules/package-manifest/package-manifest.module.code.ts"
-import type { Beside as Sidecar } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
+import type { Beside as Sidecar } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
 import { importingOf } from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
 import type { Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import { filesIn } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"

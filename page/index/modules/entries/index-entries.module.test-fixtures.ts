@@ -1,5 +1,6 @@
 import { appendFileSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { sidecarsIn } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
 import type {
   FilePropertiesBy,
   UncommittedBy,
@@ -8,7 +9,6 @@ import { lineFiled } from "akasha/page/index/modules/filing/index-filing.module.
 import {
   claimsOf,
   type IsThere,
-  sidecarsIn,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import type { Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import type { Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"

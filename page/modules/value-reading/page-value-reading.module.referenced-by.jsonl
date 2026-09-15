@@ -210,6 +210,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/answering/index-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/beside-declaring/beside-declaring.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/beside-turning/beside-turning.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/entries/index-entries.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/entries/index-entries.module.test-fixtures.ts"}

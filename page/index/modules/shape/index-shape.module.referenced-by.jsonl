@@ -71,6 +71,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/postgres-annual-dump/image/postgres-annual-dump-image.container-recipe.composing.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/modules/answering/index-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/modules/beside-declaring/beside-declaring.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/modules/beside-turning/beside-turning.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/modules/beside-turning/beside-turning.module.test.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/modules/entries/index-entries.module.code.ts"}
