@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const sevenDayStartedAt = {
   id: "01a054d8-1d39-75d7-8137-faece255822a",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "seven-day-started-at",
   propertySlug: "seven-day-started-at",
   definition: "when the seven-day window opened",

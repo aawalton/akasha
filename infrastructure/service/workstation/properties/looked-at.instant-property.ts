@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const lookedAt = {
   id: "01a08c77-9213-76ab-95b0-c5a7ef80750d",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "looked-at",
   propertySlug: "looked-at",
   definition: "when this service last looked at the health of every workstation service",

@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const minedAt = {
   id: "01a05fcd-f552-7078-af6f-196c906a2777",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "mined-at",
   propertySlug: "mined-at",
   definition: "when a sweep read this row out of the game",

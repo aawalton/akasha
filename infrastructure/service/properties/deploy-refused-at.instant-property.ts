@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const deployRefusedAt = {
   id: "01a095ca-a548-7026-b32c-6fac55373b71",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "deploy-refused-at",
   propertySlug: "deploy-refused-at",
   definition: "when the last deploy of a service that refused ended",

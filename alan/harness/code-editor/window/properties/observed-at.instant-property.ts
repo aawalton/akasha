@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const observedAt = {
   id: "01a0a147-e5bb-7e9f-8e65-f498b08af58d",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "observed-at",
   propertySlug: "observed-at",
   definition: "when what a window holds of its features was last observed",

@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const captureThroughAt = {
   id: "01a0659f-93da-7008-a9d9-6730b6c4a787",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "capture-through-at",
   propertySlug: "capture-through-at",
   definition: "the moment a transcript was read through to",

@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const playedAt = {
   id: "01a06240-340f-7003-a499-38bacdc77226",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "played-at",
   propertySlug: "played-at",
   definition: "when a play happened",

@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const notificationReadAt = {
   id: "01a06861-e7cd-7fe3-a9c6-2e3986a6cef9",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "notification-read-at",
   propertySlug: "read-at",
   definition: "when the person opened a notification",

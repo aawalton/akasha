@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const startedAt = {
   id: "01a060fb-040f-70dd-87ef-b0cf1edb41cb",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "started-at",
   propertySlug: "started-at",
   definition: "when the stretch a reading covers began",

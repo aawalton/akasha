@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const deployEndedAt = {
   id: "01a0957d-cd0e-7ca7-a6b4-b04a75b1af4e",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "deploy-ended-at",
   propertySlug: "deploy-ended-at",
   definition: "when the last deploy of a service ended, whether that deploy put up or refused",

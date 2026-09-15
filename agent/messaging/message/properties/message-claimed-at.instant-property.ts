@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const messageClaimedAt = {
   id: "01a06818-107b-7004-8256-c637bdc728bd",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "message-claimed-at",
   propertySlug: "claimed-at",
   definition: "when a recipient took a message up to read it",

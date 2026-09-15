@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const monarchUpdatedAt = {
   id: "01a0680b-2b00-7002-b471-2e8c6a3d2103",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "monarch-updated-at",
   propertySlug: "monarch-updated-at",
   definition: "the moment Monarch last changed a transaction",

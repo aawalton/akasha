@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const cutAt = {
   id: "01a0685d-b81f-7830-bc6d-c93c8deca340",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "cut-at",
   propertySlug: "cut-at",
   definition: "when a cut was taken",

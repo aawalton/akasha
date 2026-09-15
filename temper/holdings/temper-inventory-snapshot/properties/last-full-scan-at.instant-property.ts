@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const lastFullScanAt = {
   id: "01a0675a-f184-78f2-93c4-765d74e25a71",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "last-full-scan-at",
   propertySlug: "last-full-scan-at",
   definition: "when the last sweep of every bag finished",

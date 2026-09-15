@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const capturedAt = {
   id: "01a05fc4-7a90-7e9a-8dd4-57ccc90f06f7",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "captured-at",
   propertySlug: "captured-at",
   definition: "when a capture was taken",

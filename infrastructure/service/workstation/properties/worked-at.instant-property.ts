@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const workedAt = {
   id: "01a08caf-449d-7319-acb4-c598e9e345ee",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "worked-at",
   propertySlug: "worked-at",
   definition: "when a service last finished a round of its own work",

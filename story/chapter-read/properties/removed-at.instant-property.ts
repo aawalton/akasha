@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const removedAt = {
   id: "01a06554-d8bd-779b-9fbf-e9e8e3127e1f",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "removed-at",
   propertySlug: "removed-at",
   definition: "when the source a collection was read from took the collection down",

@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const fiveHourResetsAt = {
   id: "01a054d8-1d39-70e0-9319-6960fba8d2f8",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "five-hour-resets-at",
   propertySlug: "five-hour-resets-at",
   definition: "when the five-hour allowance refills",

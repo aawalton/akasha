@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const nextAt = {
   id: "01a05f42-d941-7005-9b78-ea153ee9fc0f",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "next-at",
   propertySlug: "next-at",
   definition: "when a repeating thing next falls due",

@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const restartArmedAt = {
   id: "01a0542c-d18e-7fcc-af7e-824542ba448e",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "restart-armed-at",
   propertySlug: "armed-at",
   definition: "when a seat's restart was armed to fire on its next idle",

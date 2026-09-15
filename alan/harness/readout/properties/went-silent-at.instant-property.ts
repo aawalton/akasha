@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const wentSilentAt = {
   id: "01a08caf-b3c1-73e9-9237-f5ea2af2731e",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "went-silent-at",
   propertySlug: "went-silent-at",
   definition: "when a readout began answering nothing where a number was asked of it",

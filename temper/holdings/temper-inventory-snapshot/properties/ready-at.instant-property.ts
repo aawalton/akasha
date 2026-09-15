@@ -2,7 +2,7 @@ import type { InstantProperty } from "akasha/page/instant-property/instant-prope
 
 export const readyAt = {
   id: "01a0675a-f185-7db5-b69e-630dd06ad491",
-  type: "instant-property",
+  type: "page-type/instant-property",
   slug: "ready-at",
   propertySlug: "ready-at",
   definition: "when a cooldown comes round again",
