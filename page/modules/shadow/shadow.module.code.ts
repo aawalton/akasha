@@ -1,4 +1,5 @@
-import { dirname } from "node:path"
+import { readFileSync, statSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { pathsListed } from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
 import { textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
 import { digestOf } from "akasha/code/bodies/modules/carried-file/carried-file.module.code.ts"
@@ -164,6 +165,11 @@ function leftOver(before: readonly string[], after: readonly string[]): readonly
   return after.filter((one) => !had.has(one))
 }
 
+function bytesOnDisk(at: string): Uint8Array | null {
+  const found = statSync(at, { throwIfNoEntry: false })
+  return found?.isFile() === true ? readFileSync(at) : null
+}
+
 function codeOver(change: Change): (path: string) => string | null {
   const carried = new Set(change.changed)
   let held: Map<string, string> | null = null
@@ -181,7 +187,10 @@ function codeOver(change: Change): (path: string) => string | null {
     if (!carried.has(path)) return path
     const after = change.after(path)
     if (after === null) return null
-    const moved = before().get(digestOf(after))
+    const wanted = digestOf(after)
+    const disk = bytesOnDisk(join(change.root, path))
+    if (disk !== null && digestOf(disk) === wanted) return path
+    const moved = before().get(wanted)
     if (moved !== undefined) return moved
     return change.before(path) === null ? null : path
   }

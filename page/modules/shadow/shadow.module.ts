@@ -196,6 +196,15 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Which side of the change the checkout holds is read from disk rather than assumed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body the checkout already holds at the change's own path is at that path.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body the change only has elsewhere is at the path the body came from.",
     },
     {

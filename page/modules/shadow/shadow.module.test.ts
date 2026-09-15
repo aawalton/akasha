@@ -27,6 +27,7 @@ import {
   changeOver,
   codeOf,
   committedIn,
+  deployedOver,
   inside,
   landedInto,
   MOVED_TO,
@@ -245,6 +246,11 @@ test("a file the change writes is at its path, and one the change takes away is 
   expect(cast.shadow.holds(CODE_AT)).toBe(false)
   expect(cast.shadow.holds(inside("x.ts"))).toBe(true)
   expect(cast.shadow.holds(inside("nothing.ts"))).toBe(false)
+})
+
+test("a body the checkout already holds at the change's own path is loaded from that path", () => {
+  const repo = seeded()
+  expect(codeOf(shadowFor(deployedOver(repo)))(CODE_AT)).toBe(CODE_AT)
 })
 
 test("a body the change rewrites where the body already was is loaded from that path", () => {
