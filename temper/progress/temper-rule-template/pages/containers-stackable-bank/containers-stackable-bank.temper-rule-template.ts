@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const containersStackableBank = {
   id: "019e3104-2607-7321-96e1-fb18f062084e",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "containers-stackable-bank",
   title: "Bank stackable containers",
   key: "containers-stackable-bank",

@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const allianceWarBank = {
   id: "019e3104-2622-7aa4-88e8-9c5513f4f6e8",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "alliance-war-bank",
   title: "Bank Alliance War items",
   key: "alliance-war-bank",

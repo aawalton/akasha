@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const companionEpicNothing = {
   id: "019e3104-2609-739b-88ff-73723337601b",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "companion-epic-nothing",
   title: "Protect epic+ companion gear",
   key: "companion-epic-nothing",

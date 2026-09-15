@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const treasuresSell = {
   id: "019e3104-2627-7b26-8ce5-f198e4be0e34",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "treasures-sell",
   title: "Sell common treasures",
   key: "treasures-sell",

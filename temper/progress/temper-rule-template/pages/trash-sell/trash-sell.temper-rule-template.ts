@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const trashSell = {
   id: "019e3104-2624-7509-9de0-8c51f78d2dfa",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "trash-sell",
   title: "Sell trash",
   key: "trash-sell",

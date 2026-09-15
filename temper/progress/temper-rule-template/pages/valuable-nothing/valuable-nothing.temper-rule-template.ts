@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const valuableNothing = {
   id: "019e3104-2611-7048-800c-d9e518987d2d",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "valuable-nothing",
   title: "Protect valuable items",
   key: "valuable-nothing",

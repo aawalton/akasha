@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const furnishingsHouseStorage = {
   id: "019e3104-2623-7821-a2ec-6231f73b4a1b",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "furnishings-house-storage",
   title: "Store furniture in housing",
   key: "furnishings-house-storage",

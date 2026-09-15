@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const otherCurrencyBank = {
   id: "019e3104-2606-728c-af2a-44cdb3ecd36c",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "other-currency-bank",
   title: "Bank other currencies",
   key: "other-currency-bank",

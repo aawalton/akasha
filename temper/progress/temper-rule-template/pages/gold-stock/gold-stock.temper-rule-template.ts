@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const goldStock = {
   id: "019e3104-2604-7bfa-b202-1d8e5fce47aa",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "gold-stock",
   title: "Stock gold",
   key: "gold-stock",

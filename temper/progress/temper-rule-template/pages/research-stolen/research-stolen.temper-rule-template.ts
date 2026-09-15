@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const researchStolen = {
   id: "019e3104-2611-7cc5-8947-fe78ebffbff1",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "research-stolen",
   title: "Launder stolen researchables",
   key: "research-stolen",

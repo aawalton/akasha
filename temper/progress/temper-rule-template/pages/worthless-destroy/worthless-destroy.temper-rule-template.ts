@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const worthlessDestroy = {
   id: "019e3104-262e-7641-92a5-c6fd26067689",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "worthless-destroy",
   title: "Destroy worthless items",
   key: "worthless-destroy",

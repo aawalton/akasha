@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const questItemsNothing = {
   id: "019e3104-261b-7569-b3d0-250b209440ea",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "quest-items-nothing",
   title: "Protect quest items",
   key: "quest-items-nothing",

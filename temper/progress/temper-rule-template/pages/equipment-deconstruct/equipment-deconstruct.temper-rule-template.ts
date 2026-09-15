@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const equipmentDeconstruct = {
   id: "019e3104-261c-7239-bced-7a7c2ac03bce",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "equipment-deconstruct",
   title: "Deconstruct leftover equipment",
   key: "equipment-deconstruct",

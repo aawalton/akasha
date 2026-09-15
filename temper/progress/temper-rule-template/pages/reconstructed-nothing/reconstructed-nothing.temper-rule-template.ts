@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const reconstructedNothing = {
   id: "019e3104-260d-7216-94db-9f9abfd643f3",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "reconstructed-nothing",
   title: "Protect reconstructed gear",
   key: "reconstructed-nothing",

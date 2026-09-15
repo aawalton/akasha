@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const treasuresStolenFence = {
   id: "019e3104-2626-7e2a-8df5-d83385768ba5",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "treasures-stolen-fence",
   title: "Fence stolen treasures",
   key: "treasures-stolen-fence",

@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const foodNormalSell = {
   id: "019e3104-262b-7ed8-9aad-80ace952cc0f",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "food-normal-sell",
   title: "Sell basic food",
   key: "food-normal-sell",

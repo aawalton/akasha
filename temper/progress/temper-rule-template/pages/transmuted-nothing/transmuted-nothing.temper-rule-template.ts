@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const transmutedNothing = {
   id: "019e3104-260e-71a0-aa4a-5d2e9e076fca",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "transmuted-nothing",
   title: "Protect transmuted gear",
   key: "transmuted-nothing",

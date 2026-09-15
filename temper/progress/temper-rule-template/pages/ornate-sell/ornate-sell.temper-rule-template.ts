@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const ornateSell = {
   id: "019e3104-2613-7620-a301-5c9e506a7b7a",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "ornate-sell",
   title: "Sell ornate gear",
   key: "ornate-sell",

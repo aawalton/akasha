@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const researchByPriority = {
   id: "019e3104-2612-7978-b397-84d0e1644a40",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "research-by-priority",
   title: "Research traits",
   key: "research-by-priority",

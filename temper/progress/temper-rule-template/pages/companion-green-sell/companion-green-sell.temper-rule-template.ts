@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const companionGreenSell = {
   id: "019e3104-2626-7136-8e6d-b66c7b5b20a6",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "companion-green-sell",
   title: "Sell low-quality companion gear",
   key: "companion-green-sell",

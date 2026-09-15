@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const treasuresEpicStolen = {
   id: "019e3104-261f-7668-98d5-65fc2dc8d58a",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "treasures-epic-stolen",
   title: "Launder epic+ treasures",
   key: "treasures-epic-stolen",

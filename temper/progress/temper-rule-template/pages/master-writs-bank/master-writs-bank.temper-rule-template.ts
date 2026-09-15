@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const masterWritsBank = {
   id: "019e3104-2617-7629-b790-576e7d97a15b",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "master-writs-bank",
   title: "Bank master writs",
   key: "master-writs-bank",

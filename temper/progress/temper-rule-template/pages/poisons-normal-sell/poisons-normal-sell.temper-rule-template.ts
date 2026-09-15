@@ -2,7 +2,7 @@ import type { TemperRuleTemplate } from "akasha/temper/progress/temper-rule-temp
 
 export const poisonsNormalSell = {
   id: "019e3104-262b-7172-acfb-0833ef728080",
-  type: "temper-rule-template",
+  type: "page-type/temper-rule-template",
   slug: "poisons-normal-sell",
   title: "Sell basic poisons",
   key: "poisons-normal-sell",
