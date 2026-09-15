@@ -2,7 +2,7 @@ import type { StoryDesignNote } from "akasha/story/design-note/story-design-note
 
 export const dragonsAndDungeonsOperations = {
   id: "01a0657d-bb98-705c-85d9-7b87f4e74a23",
-  type: "story-design-note",
+  type: "page-type/story-design-note",
   slug: "dragons-and-dungeons-operations",
   title: "Dragons & Dungeons — how this game is stored and played",
   world: "world/personas",

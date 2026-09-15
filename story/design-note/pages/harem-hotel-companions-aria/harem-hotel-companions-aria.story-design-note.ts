@@ -2,7 +2,7 @@ import type { StoryDesignNote } from "akasha/story/design-note/story-design-note
 
 export const haremHotelCompanionsAria = {
   id: "01a0657d-bb98-7590-a2d6-7b351f064de2",
-  type: "story-design-note",
+  type: "page-type/story-design-note",
   slug: "harem-hotel-companions-aria",
   title: "Aria",
   world: "world/personas",

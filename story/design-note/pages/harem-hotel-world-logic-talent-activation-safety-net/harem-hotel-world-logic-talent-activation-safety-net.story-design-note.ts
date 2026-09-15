@@ -2,7 +2,7 @@ import type { StoryDesignNote } from "akasha/story/design-note/story-design-note
 
 export const haremHotelWorldLogicTalentActivationSafetyNet = {
   id: "01a0657d-bb98-7768-bd04-5cd913e01699",
-  type: "story-design-note",
+  type: "page-type/story-design-note",
   slug: "harem-hotel-world-logic-talent-activation-safety-net",
   title: "Talent Activation Safety Net",
   world: "world/personas",

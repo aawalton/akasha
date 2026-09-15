@@ -2,7 +2,7 @@ import type { StoryDesignNote } from "akasha/story/design-note/story-design-note
 
 export const theTowerFleetNotes = {
   id: "01a0657d-bb98-78f9-ad17-3ecf534d2520",
-  type: "story-design-note",
+  type: "page-type/story-design-note",
   slug: "the-tower-fleet-notes",
   title: "Fleet & process notes — iris-manager",
   world: "world/personas",

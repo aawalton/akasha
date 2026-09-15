@@ -2,7 +2,7 @@ import type { StoryDesignNote } from "akasha/story/design-note/story-design-note
 
 export const theTowerFloorsFloor03 = {
   id: "01a0657d-bb98-7075-8b06-658d9abf7cbf",
-  type: "story-design-note",
+  type: "page-type/story-design-note",
   slug: "the-tower-floors-floor-03",
   title: "floor-03",
   world: "world/personas",

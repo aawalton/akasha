@@ -2,7 +2,7 @@ import type { StoryDesignNote } from "akasha/story/design-note/story-design-note
 
 export const theTowerPrepLog = {
   id: "01a0657d-bb98-7d88-b211-c9fe839fa71c",
-  type: "story-design-note",
+  type: "page-type/story-design-note",
   slug: "the-tower-prep-log",
   title: "PREP-LOG — The Tower (prep-helper continuity)",
   world: "world/personas",

@@ -2,7 +2,7 @@ import type { StoryDesignNote } from "akasha/story/design-note/story-design-note
 
 export const theTowerRulebook = {
   id: "01a0657d-bb98-79fe-bfdc-5aefedca7610",
-  type: "story-design-note",
+  type: "page-type/story-design-note",
   slug: "the-tower-rulebook",
   title: "rulebook",
   world: "world/personas",

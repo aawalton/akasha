@@ -2,7 +2,7 @@ import type { StoryDesignNote } from "akasha/story/design-note/story-design-note
 
 export const auraGameDesignIdleGame = {
   id: "01a0657d-bb98-74c0-abec-1683911d6e0e",
-  type: "story-design-note",
+  type: "page-type/story-design-note",
   slug: "aura-game-design-idle-game",
   title: "Aura's Idle Game — the between-turns filler toy (started 2026-06-24)",
   subject: "aura-game-design",

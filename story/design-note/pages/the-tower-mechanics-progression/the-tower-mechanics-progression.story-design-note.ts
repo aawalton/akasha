@@ -2,7 +2,7 @@ import type { StoryDesignNote } from "akasha/story/design-note/story-design-note
 
 export const theTowerMechanicsProgression = {
   id: "01a0657d-bb98-7f35-a6d5-d0afaaa8617f",
-  type: "story-design-note",
+  type: "page-type/story-design-note",
   slug: "the-tower-mechanics-progression",
   title: "Progression ladders — The Tower",
   world: "world/personas",

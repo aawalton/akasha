@@ -2,7 +2,7 @@ import type { StoryDesignNote } from "akasha/story/design-note/story-design-note
 
 export const haremHotelWorldLogicCompanionBind = {
   id: "01a0657d-bb98-7276-aff6-6ec9c74f7085",
-  type: "story-design-note",
+  type: "page-type/story-design-note",
   slug: "harem-hotel-world-logic-companion-bind",
   title: "Companion Bind",
   world: "world/personas",

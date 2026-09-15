@@ -2,7 +2,7 @@ import type { StoryDesignNote } from "akasha/story/design-note/story-design-note
 
 export const theTowerSheetsCompanionAelwyn = {
   id: "01a0657d-bb98-7139-8b4f-743ba6edeca8",
-  type: "story-design-note",
+  type: "page-type/story-design-note",
   slug: "the-tower-sheets-companion-aelwyn",
   title: "companion-aelwyn",
   world: "world/personas",

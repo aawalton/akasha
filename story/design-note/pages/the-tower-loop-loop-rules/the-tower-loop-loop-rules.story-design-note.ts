@@ -2,7 +2,7 @@ import type { StoryDesignNote } from "akasha/story/design-note/story-design-note
 
 export const theTowerLoopLoopRules = {
   id: "01a0657d-bb98-7a2a-9fc0-b708d5097b62",
-  type: "story-design-note",
+  type: "page-type/story-design-note",
   slug: "the-tower-loop-loop-rules",
   title: "THE LOOP — HELD DARK (do not reveal until Alan's first death)",
   world: "world/personas",

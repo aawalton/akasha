@@ -2,7 +2,7 @@ import type { StoryDesignNote } from "akasha/story/design-note/story-design-note
 
 export const theTowerDisplayCraftNotes = {
   id: "01a0657d-bb98-72b4-bc58-dc5b2dac490a",
-  type: "story-design-note",
+  type: "page-type/story-design-note",
   slug: "the-tower-display-craft-notes",
   title: "Tower display — craft notes for a cold successor",
   world: "world/personas",
