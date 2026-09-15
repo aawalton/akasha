@@ -21,7 +21,7 @@ export const UP_AT = "akasha/up.page-type.ts"
 
 const RECORD = "01a04ef8-1a07-7003-8000-000000000003"
 
-const TYPE_AT = "akasha/types/domain.page-type.ts"
+const TYPE_AT = "akasha/domain.page-type.ts"
 
 export const scratch = scratchWorld()
 
@@ -84,6 +84,6 @@ export function rooted(): string {
       },
     },
   ])
-  edging(root, RECORD, "page-property", "id-page-type", "akasha/types/page-type.page-type.ts")
+  edging(root, RECORD, "page-property", "id-page-type", "akasha/page-type.page-type.ts")
   return root
 }

@@ -1,11 +1,14 @@
-import { cpSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { cpSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { refreshedWhole } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
+import { shapesAmong } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { BUILT_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
 import { keptAt, scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
@@ -34,10 +37,29 @@ export function carriedPage(slug: string, id: string): string {
 
 export const scratch = scratchWorld()
 
+const SHAPED = new Map<string, Map<string, Value>>()
+
+function shapesPut(tree: string, at: string, body: string): undefined {
+  if (!at.endsWith(".ts")) return
+  const value = loadedFrom(body).value
+  if (value === null) return
+  const held = SHAPED.get(tree) ?? new Map<string, Value>()
+  SHAPED.set(tree, held)
+  held.set(at, value)
+  const among = [...held].map(([path, one]) => ({ path, value: one }))
+  for (const [beside, whole] of shapesAmong(among)) {
+    const to = join(tree, beside)
+    if (existsSync(to)) continue
+    mkdirSync(dirname(to), { recursive: true })
+    writeFileSync(to, whole)
+  }
+}
+
 export function put(tree: string, at: string, body: string): string {
   const path = join(tree, at)
   mkdirSync(dirname(path), { recursive: true })
   writeFileSync(path, body)
+  shapesPut(tree, at, body)
   return path
 }
 

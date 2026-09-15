@@ -21,6 +21,18 @@ export const fixtureWorld = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A page put into a world writes the shapes beside that page's page type.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A world's shapes are composed from every page put into it so far.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "A shapes file already there is left as the settle that keeps it left it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement:
         "A change's code is reached from the akasha folder above rather than by folders counted up.",
     },

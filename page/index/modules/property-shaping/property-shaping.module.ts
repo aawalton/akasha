@@ -31,6 +31,10 @@ export const propertyShaping = {
     },
     {
       invariantKind: "departure",
+      statement: "A shape whose page type sits nowhere is answered, and its file is not written.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page of one of those kinds stating no property slug carries no shape.",
     },
     {

@@ -91,21 +91,20 @@ export function shapesAmong(
 export function shapesWritten(reading: Reading, moved: readonly Moved[]): Shaping2 {
   const pathOf = pathsOver(reading, moved)
   const touched = new Map<string, Map<string, Shape>>()
-  const opened = (kind: string): Map<string, Shape> | null => {
+  const opened = (kind: string): Map<string, Shape> => {
     const found = touched.get(kind)
     if (found !== undefined) return found
-    if (pathOf(kind) === null) return null
     const made = new Map(shapesOfType(reading, kind))
     touched.set(kind, made)
     return made
   }
   for (const one of moved) {
     const was = one.was === null ? null : shapedIn(one.was)
-    if (was !== null) opened(was.pageTypeSlug)?.delete(was.slug)
+    if (was !== null) opened(was.pageTypeSlug).delete(was.slug)
   }
   for (const one of moved) {
     const now = one.now === null ? null : shapedIn(one.now)
-    if (now !== null) opened(now.pageTypeSlug)?.set(now.slug, now)
+    if (now !== null) opened(now.pageTypeSlug).set(now.slug, now)
   }
   const bodies = new Map<string, string>()
   const shapes = new Map<string, Shape>(shapesAt(reading))

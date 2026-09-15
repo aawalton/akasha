@@ -27,7 +27,7 @@ const SLUG = "slug"
 
 const ID = "id"
 
-const TYPES_AT = "akasha/types"
+const TYPES_AT = "akasha"
 
 const EXTENDS = "extends"
 

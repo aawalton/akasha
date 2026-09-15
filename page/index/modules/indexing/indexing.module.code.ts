@@ -1,4 +1,4 @@
-import { mkdirSync } from "node:fs"
+import { existsSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { edgeIn } from "akasha/page/index/edge/index-edge.index.code.ts"
@@ -198,9 +198,11 @@ function besideInto(repo: string, filings: readonly Filing[]): undefined {
   for (const one of filings) keepDelta(join(repo, one.at), one, repo)
 }
 
-function wholeInto(repo: string, beside: ReadonlyMap<string, string>): undefined {
+function wholeInto(repo: string, beside: ReadonlyMap<string, string>, make = true): undefined {
   for (const [at, whole] of beside) {
-    keepWhole(join(repo, at), whole.split("\n").filter(linesKept), repo)
+    const to = join(repo, at)
+    if (!make && !existsSync(to)) continue
+    keepWhole(to, whole.split("\n").filter(linesKept), repo)
   }
 }
 
@@ -231,7 +233,7 @@ export function indexingAt(root: string, repo: string): Indexing {
       )
       filedInto(root, found.filings)
       besideInto(repo, found.references)
-      wholeInto(repo, found.beside)
+      wholeInto(repo, found.beside, false)
       return [...found.noted, ...found.refusedBefore, ...found.refused]
     },
   }

@@ -10,5 +10,6 @@
 {"propertySlug":"import","fileName":"property-shaping.module.code.ts","path":"page/index/modules/property-shaping/property-shaping.module.test.ts"}
 {"propertySlug":"import","fileName":"property-shaping.module.code.ts","path":"page/index/modules/reaching/reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"property-shaping.module.code.ts","path":"page/index/modules/settling/index-settling.module.code.ts"}
+{"propertySlug":"import","fileName":"property-shaping.module.code.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"property-shaping.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.code.ts"}
 {"propertySlug":"parts","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}

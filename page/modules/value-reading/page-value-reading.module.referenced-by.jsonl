@@ -224,6 +224,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/reading/index-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/reading/index-reading.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/settling/index-settling.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/modules/body/page-body.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/modules/entries/page-entries.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/modules/entries/page-entries.module.test-fixtures.ts"}

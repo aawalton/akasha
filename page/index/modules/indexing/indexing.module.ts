@@ -60,6 +60,18 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
+      statement: "A refresh writes the shapes beside every page type page properties are of.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A settle keeps such a file as the pages leave it and makes no file of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A generator makes that file, so a world with none is a world with none.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That is how a line another checkout's settle left behind is cleared.",
     },
     {

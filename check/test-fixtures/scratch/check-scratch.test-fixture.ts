@@ -67,6 +67,10 @@ export const checkScratch = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A page type sits where the shapes of its page properties are written beside it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A page claimed here has its body written and is filed by its type.",
     },
     {

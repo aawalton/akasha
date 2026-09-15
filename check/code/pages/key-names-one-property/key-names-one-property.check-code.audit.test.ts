@@ -17,7 +17,7 @@ import {
 
 const UNDER = "akasha-keyed-audit-"
 
-const OVER_AT = "akasha/types/over.page-type.ts"
+const OVER_AT = "akasha/over.page-type.ts"
 
 afterAll(scratch.sweep)
 

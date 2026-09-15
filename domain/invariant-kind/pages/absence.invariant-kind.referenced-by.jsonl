@@ -1433,6 +1433,7 @@
 {"propertySlug":"invariant-kind","path":"page/index/modules/shape/index-shape.module.ts","id":"01a05867-bb6d-7a3e-875e-b5a55432fb00"}
 {"propertySlug":"invariant-kind","path":"page/index/modules/surface/index-surface.module.ts","id":"01a04f55-919c-7d2a-ab3d-8e6aca34022b"}
 {"propertySlug":"invariant-kind","path":"page/index/modules/tree-reading/tree-reading.module.ts","id":"01a07220-6ee3-7c98-b086-7e3b497e8b41"}
+{"propertySlug":"invariant-kind","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.ts","id":"01a088b6-9456-73ee-9f1f-a92536a61b7b"}
 {"propertySlug":"invariant-kind","path":"page/modules/address/page-address.module.ts","id":"01a04b14-4355-7352-9c98-ad67e309f5f6"}
 {"propertySlug":"invariant-kind","path":"page/modules/body/page-body.module.ts","id":"01a05de5-1c90-7834-a245-bb7748f6f1ea"}
 {"propertySlug":"invariant-kind","path":"page/modules/calculation-loading/calculation-loading.module.ts","id":"01a071f0-b9d7-754a-83dc-36f3c40b2d10"}

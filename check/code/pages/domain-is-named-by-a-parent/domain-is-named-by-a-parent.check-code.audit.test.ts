@@ -18,7 +18,7 @@ const TWO = "01a04d5f-c731-7002-8000-000000000002"
 
 const UP_AT = "akasha/up.domain.ts"
 
-const TYPE_AT = "akasha/types/domain.page-type.ts"
+const TYPE_AT = "akasha/domain.page-type.ts"
 
 const HELD_AT = pathFor("domain", "held")
 

@@ -153,8 +153,8 @@ test("a page type is judged when the change carries a property it declares", () 
 
 test("a page type under a judged page type is judged as well", () => {
   const root = rooted()
-  const over = "akasha/types/over.page-type.ts"
-  const under = "akasha/types/under.page-type.ts"
+  const over = "akasha/over.page-type.ts"
+  const under = "akasha/under.page-type.ts"
   declaring(root, "held", { pageTypeSlug: NUMBER })
   typed(root, "over", null, ["text-property/held", "number-property/held"])
   typed(root, "under", "over")
