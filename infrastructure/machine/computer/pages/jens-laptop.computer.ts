@@ -2,7 +2,7 @@ import type { Computer } from "akasha/infrastructure/machine/computer/computer.p
 
 export const jensLaptop = {
   id: "019e8b92-3b42-7a76-9760-339f0e983027",
-  type: "computer",
+  type: "page-type/computer",
   slug: "jens-laptop",
   title: "Jen’s Laptop",
   brand: "hp",

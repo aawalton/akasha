@@ -2,7 +2,7 @@ import type { Computer } from "akasha/infrastructure/machine/computer/computer.p
 
 export const node06 = {
   id: "019e8b92-3986-783e-a1fb-0c525265432d",
-  type: "computer",
+  type: "page-type/computer",
   slug: "node-06",
   title: "node-06",
   brand: "corsair",

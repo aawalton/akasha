@@ -2,7 +2,7 @@ import type { Computer } from "akasha/infrastructure/machine/computer/computer.p
 
 export const node03 = {
   id: "019e8b92-3bd4-7ea8-8e55-98c70218c33f",
-  type: "computer",
+  type: "page-type/computer",
   slug: "node-03",
   title: "node-03",
   cpuScore: 16150,

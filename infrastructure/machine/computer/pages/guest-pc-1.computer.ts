@@ -2,7 +2,7 @@ import type { Computer } from "akasha/infrastructure/machine/computer/computer.p
 
 export const guestPc1 = {
   id: "019e8b92-39c3-7177-8c29-25205a430d9a",
-  type: "computer",
+  type: "page-type/computer",
   slug: "guest-pc-1",
   title: "Guest PC 1",
   brand: "msi",
