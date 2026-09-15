@@ -2,7 +2,7 @@ import type { TemperBuffOther } from "akasha/temper/catalog/temper-effect/temper
 
 export const empower = {
   id: "01a05fc5-f6c2-7bab-84a2-3bec7b17121b",
-  type: "temper-buff-other",
+  type: "page-type/temper-buff-other",
   slug: "empower",
   title: "Empower",
   key: "empower",
