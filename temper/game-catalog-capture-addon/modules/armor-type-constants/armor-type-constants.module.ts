@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const armorTypeConstants = {
   id: "01a06127-661f-7ab9-8fd2-c12787790998",
-  type: "module",
+  type: "page-type/module",
   slug: "armor-type-constants",
   definition:
     "the armor weight numbers the game client has, each under the name the client spells it with",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const tributeCatalogCapture = {
   id: "01a060e2-3186-7ded-b973-6f823ba7313c",
-  type: "module",
+  type: "page-type/module",
   slug: "tribute-catalog-capture",
   definition:
     "the Tales of Tribute patrons and the cards of each patron, read into saved variables",

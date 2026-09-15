@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const arithmeticNode = {
   id: "01a06070-82db-7c2d-a42f-2faa0f022ff6",
-  type: "module",
+  type: "page-type/module",
   slug: "arithmetic-node",
   definition: "a stat formula held as a tree of add, multiply, divide, floor, max and min steps",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const housingLibraryDataEu = {
   id: "01a06113-b7ce-77ca-bda6-f521aa196130",
-  type: "module",
+  type: "page-type/module",
   slug: "housing-library-data-eu",
   definition: "the European community library, gathered from its six parts in turn",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const esoOptIn = {
   id: "01a0686c-fd2c-7000-ae86-fd9462cb29d6",
-  type: "module",
+  type: "page-type/module",
   slug: "eso-opt-in",
   definition: "the manifest naming which eso tokens are declared",
   code: "ts",

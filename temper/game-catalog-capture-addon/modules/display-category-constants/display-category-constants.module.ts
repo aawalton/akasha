@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const displayCategoryConstants = {
   id: "01a06127-6628-72fa-ab27-53d7049284ec",
-  type: "module",
+  type: "page-type/module",
   slug: "display-category-constants",
   definition:
     "the display category numbers the game client has, each under the name the client spells it with",

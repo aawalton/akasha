@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const nextBossConstants = {
   id: "01a06157-8356-7a6f-9f7c-8822d3c91088",
-  type: "module",
+  type: "page-type/module",
   slug: "next-boss-constants",
   definition: "the spawn times, zone ids and names this tracker is fixed to",
   code: "ts",

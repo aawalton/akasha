@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pledgeRotation = {
   id: "01a06031-70e5-7122-83f1-7221c174553d",
-  type: "module",
+  type: "page-type/module",
   slug: "pledge-rotation",
   definition: "which dungeon each quest giver asks for on the day an instant falls in",
   code: "ts",

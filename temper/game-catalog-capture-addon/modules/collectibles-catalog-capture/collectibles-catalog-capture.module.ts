@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const collectiblesCatalogCapture = {
   id: "01a060e2-3183-736c-b68e-33f414a5785c",
-  type: "module",
+  type: "page-type/module",
   slug: "collectibles-catalog-capture",
   definition: "the collectibles by category, read in batches into the add-on's saved variables",
   code: "ts",

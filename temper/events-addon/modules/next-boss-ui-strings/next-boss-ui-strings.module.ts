@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const nextBossUiStrings = {
   id: "01a06157-8357-7537-a6bd-307d783c5836",
-  type: "module",
+  type: "page-type/module",
   slug: "next-boss-ui-strings",
   definition: "the words this tracker shows, and the string ids it makes for them",
   code: "ts",

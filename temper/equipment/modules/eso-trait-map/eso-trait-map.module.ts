@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const esoTraitMap = {
   id: "01a0610f-45ba-79d3-b258-2e9d709283b7",
-  type: "module",
+  type: "page-type/module",
   slug: "eso-trait-map",
   definition: "which numbered Elder Scrolls Online trait a player trait answers to, by gear family",
   code: "ts",

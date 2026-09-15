@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const housingSearch = {
   id: "01a06128-d5d1-76dc-adcd-583afb6e89d6",
-  type: "module",
+  type: "page-type/module",
   slug: "housing-search",
   definition: "matching what a player types against the names the add-on has seen",
   code: "ts",

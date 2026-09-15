@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const housingWindowControls = {
   id: "01a06128-d5d7-7454-b0b7-fa5c32e5a1dd",
-  type: "module",
+  type: "page-type/module",
   slug: "housing-window-controls",
   definition: "the search box and scroll frames the housing window is built from",
   code: "ts",

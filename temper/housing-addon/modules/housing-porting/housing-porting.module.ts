@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const housingPorting = {
   id: "01a06128-d5d1-7c25-8c9e-09001f10d091",
-  type: "module",
+  type: "page-type/module",
   slug: "housing-porting",
   definition: "asking the game to travel to a house, inside or at the front door",
   code: "ts",

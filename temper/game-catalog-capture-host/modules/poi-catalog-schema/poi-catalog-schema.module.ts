@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const poiCatalogSchema = {
   id: "01a06084-d419-7e65-9fe0-2100e873d96e",
-  type: "module",
+  type: "page-type/module",
   slug: "poi-catalog-schema",
   definition: "the zod schema reading the points of interest catalog out of saved variables",
   code: "ts",

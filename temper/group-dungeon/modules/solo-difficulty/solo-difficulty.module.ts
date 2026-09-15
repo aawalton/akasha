@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const soloDifficulty = {
   id: "01a06031-70e5-71b7-aa04-ac3deb2dfe1c",
-  type: "module",
+  type: "page-type/module",
   slug: "solo-difficulty",
   definition: "how hard one player alone finds a dungeon",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const traitResearchCatalogSchema = {
   id: "01a06076-5ea9-7eaa-9ac6-2b3b92426d46",
-  type: "module",
+  type: "page-type/module",
   slug: "trait-research-catalog-schema",
   definition: "the zod schema reading the trait research catalog out of saved variables",
   code: "ts",

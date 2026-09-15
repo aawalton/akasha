@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dungeonChampionStart = {
   id: "01a060f9-badc-70b2-a9a4-5672a001af3e",
-  type: "module",
+  type: "page-type/module",
   slug: "dungeon-champion-start",
   definition: "bringing the addon up once the game has loaded",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const nextBossGui = {
   id: "01a06157-8359-7e61-9d80-9e788c9ca1c7",
-  type: "module",
+  type: "page-type/module",
   slug: "next-boss-gui",
   definition: "the timetable window and the timers drawn over the Imperial City map",
   code: "ts",

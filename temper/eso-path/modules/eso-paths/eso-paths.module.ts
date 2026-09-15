@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const esoPaths = {
   id: "01a06050-639f-7d76-bfda-f105e8a7cd3e",
-  type: "module",
+  type: "page-type/module",
   slug: "eso-paths",
   definition: "the directories the game and the game's sources are read from",
   code: "ts",

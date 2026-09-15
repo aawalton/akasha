@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const eventsAddonEntry = {
   id: "01a06157-835b-7e24-b78f-3cc7b42cbcf1",
-  type: "module",
+  type: "page-type/module",
   slug: "events-addon-entry",
   definition: "where the transpiler starts this add-on's one Lua file",
   code: "ts",

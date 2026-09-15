@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dungeonChampionSlash = {
   id: "01a060f9-badb-75b9-a0c4-24413a5ab8d1",
-  type: "module",
+  type: "page-type/module",
   slug: "dungeon-champion-slash",
   definition: "two slash commands that print where the player is on the open map",
   code: "ts",

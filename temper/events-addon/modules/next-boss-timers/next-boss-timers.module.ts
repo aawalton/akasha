@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const nextBossTimers = {
   id: "01a06157-8358-7ee9-8d50-84cac768c2cb",
-  type: "module",
+  type: "page-type/module",
   slug: "next-boss-timers",
   definition: "how long each district has left, and what starts a district's count",
   code: "ts",

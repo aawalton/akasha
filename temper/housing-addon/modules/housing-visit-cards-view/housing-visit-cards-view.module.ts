@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const housingVisitCardsView = {
   id: "01a06113-b7d3-7108-b73c-002d1663f7df",
-  type: "module",
+  type: "page-type/module",
   slug: "housing-visit-cards-view",
   definition: "the control shapes a visit-card row is made of",
   code: "ts",

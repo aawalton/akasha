@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const weaponTypeConstants = {
   id: "01a06127-664b-74e0-9590-d80f5209e436",
-  type: "module",
+  type: "page-type/module",
   slug: "weapon-type-constants",
   definition:
     "the weapon type numbers the game client has, each under the name the client spells it with",

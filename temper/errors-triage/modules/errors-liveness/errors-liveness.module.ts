@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const errorsLiveness = {
   id: "01a060cd-5651-794e-9cb4-d37959543fd2",
-  type: "module",
+  type: "page-type/module",
   slug: "errors-liveness",
   definition: "whether an error is still happening or was left behind by a mend",
   code: "ts",

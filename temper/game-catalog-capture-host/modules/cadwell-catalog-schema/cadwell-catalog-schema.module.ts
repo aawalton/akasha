@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const cadwellCatalogSchema = {
   id: "01a06076-5ea8-75f8-9c02-0071e3b7330b",
-  type: "module",
+  type: "page-type/module",
   slug: "cadwell-catalog-schema",
   definition: "the zod schema reading the Cadwell completion catalog out of saved variables",
   code: "ts",

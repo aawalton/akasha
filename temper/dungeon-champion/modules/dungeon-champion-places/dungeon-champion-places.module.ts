@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dungeonChampionPlaces = {
   id: "01a060f9-bad1-7202-bef3-dc48b30536e9",
-  type: "module",
+  type: "page-type/module",
   slug: "dungeon-champion-places",
   definition: "every champion position gathered, reached by zone name or by map id",
   code: "ts",

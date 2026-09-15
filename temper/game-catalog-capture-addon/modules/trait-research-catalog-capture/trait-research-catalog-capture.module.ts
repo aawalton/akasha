@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const traitResearchCatalogCapture = {
   id: "01a060e2-3185-7d5b-b999-a74d0bc90882",
-  type: "module",
+  type: "page-type/module",
   slug: "trait-research-catalog-capture",
   definition: "the smithing research lines and traits, read into the add-on's saved variables",
   code: "ts",

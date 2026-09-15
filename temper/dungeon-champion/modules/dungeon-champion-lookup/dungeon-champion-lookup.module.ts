@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dungeonChampionLookup = {
   id: "01a060f9-bac8-786f-8c5a-fd4bee1b1d16",
-  type: "module",
+  type: "page-type/module",
   slug: "dungeon-champion-lookup",
   definition: "finding the champions of the open map, by map id first and by zone name second",
   code: "ts",

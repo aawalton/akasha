@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const housingBuildWindow = {
   id: "01a06128-d5c7-7498-8a77-50a630fb18d4",
-  type: "module",
+  type: "page-type/module",
   slug: "housing-build-window",
   definition: "building the housing window itself, with its header and its body",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const poiCatalogCapture = {
   id: "01a060e2-3184-76cf-a0d0-62b8d40daca8",
-  type: "module",
+  type: "page-type/module",
   slug: "poi-catalog-capture",
   definition:
     "the points of interest of every zone story zone, read into the add-on's saved variables",

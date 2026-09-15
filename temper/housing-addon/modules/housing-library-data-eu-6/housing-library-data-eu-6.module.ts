@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const housingLibraryDataEu6 = {
   id: "01a06113-b7d0-70ae-9e5b-3ac403935f5c",
-  type: "module",
+  type: "page-type/module",
   slug: "housing-library-data-eu-6",
   definition: "part 6 of the houses European players have shared with the community",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const armorSlots = {
   id: "01a060b8-08c4-79bd-a673-660169cf2ee9",
-  type: "module",
+  type: "page-type/module",
   slug: "armor-slots",
   definition: "the seven body positions an armor piece is worn at",
   code: "ts",

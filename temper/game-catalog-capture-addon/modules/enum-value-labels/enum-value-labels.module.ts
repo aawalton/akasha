@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const enumValueLabels = {
   id: "01a06127-662d-77a9-a9a1-5fcbf970d172",
-  type: "module",
+  type: "page-type/module",
   slug: "enum-value-labels",
   definition:
     "the display text the game client gives each number of one enumeration, gathered under that number",

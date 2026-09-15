@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const collectiblesCatalogSchema = {
   id: "01a06076-5ea6-7c0b-b801-72a737a925d6",
-  type: "module",
+  type: "page-type/module",
   slug: "collectibles-catalog-schema",
   definition: "the zod schema reading the collectibles catalog out of saved variables",
   code: "ts",

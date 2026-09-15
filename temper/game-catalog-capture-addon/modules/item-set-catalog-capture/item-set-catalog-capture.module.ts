@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const itemSetCatalogCapture = {
   id: "01a06127-6644-7d5a-b5dd-845d71c2890e",
-  type: "module",
+  type: "page-type/module",
   slug: "item-set-catalog-capture",
   definition:
     "the game's item sets, with the pieces and category of each, read into the add-on's saved variables",

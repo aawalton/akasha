@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const eventsAddonLoaded = {
   id: "01a06157-835a-79f6-9dfd-17774a525329",
-  type: "module",
+  type: "page-type/module",
   slug: "events-addon-loaded",
   definition: "what starts once the game says this add-on has loaded",
   code: "ts",

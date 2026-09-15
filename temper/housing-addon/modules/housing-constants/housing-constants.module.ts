@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const housingConstants = {
   id: "01a06113-b7cd-70cb-83dd-840a25b71d13",
-  type: "module",
+  type: "page-type/module",
   slug: "housing-constants",
   definition: "the tab, sort, filter and port-mode numbers the housing window works by",
   code: "ts",

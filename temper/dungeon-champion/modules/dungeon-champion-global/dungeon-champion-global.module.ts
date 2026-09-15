@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dungeonChampionGlobal = {
   id: "01a060f9-bac1-7e35-a978-59c345fb4cb1",
-  type: "module",
+  type: "page-type/module",
   slug: "dungeon-champion-global",
   definition: "the name and version another addon reads off this one",
   code: "ts",

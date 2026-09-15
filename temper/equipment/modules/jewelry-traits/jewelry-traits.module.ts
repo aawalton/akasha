@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const jewelryTraits = {
   id: "01a0610f-45bb-7e6d-9e65-09ec21c0cff3",
-  type: "module",
+  type: "page-type/module",
   slug: "jewelry-traits",
   definition: "every property a piece of player jewelry is worked with, and what each is worth",
   code: "ts",

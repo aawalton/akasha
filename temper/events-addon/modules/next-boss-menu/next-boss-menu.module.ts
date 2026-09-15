@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const nextBossMenu = {
   id: "01a06157-835a-76b0-9eb4-90b8d1db3184",
-  type: "module",
+  type: "page-type/module",
   slug: "next-boss-menu",
   definition: "the settings panel a player turns this tracker's parts on and off from",
   code: "ts",

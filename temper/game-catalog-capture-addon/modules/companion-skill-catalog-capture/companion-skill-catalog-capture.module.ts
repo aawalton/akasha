@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionSkillCatalogCapture = {
   id: "01a060e2-3183-7d2a-a40a-3c845ef259aa",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-skill-catalog-capture",
   definition:
     "the companion skill lines and abilities, read in batches into the add-on's saved variables",

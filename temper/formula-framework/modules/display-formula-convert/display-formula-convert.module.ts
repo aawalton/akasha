@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const displayFormulaConvert = {
   id: "01a06070-82df-7622-bc23-3c2234ce1b90",
-  type: "module",
+  type: "page-type/module",
   slug: "display-formula-convert",
   definition: "a display formula built from an arithmetic tree, with the number that tree comes to",
   code: "ts",

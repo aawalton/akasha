@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const weaponTypeIds = {
   id: "01a060f0-3eae-7300-a19e-36158f3ca349",
-  type: "module",
+  type: "page-type/module",
   slug: "weapon-type-ids",
   definition: "every weapon type a character may hold, from the axe to the restoration staff",
   code: "ts",

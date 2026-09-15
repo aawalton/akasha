@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const housingSettingsMenu = {
   id: "01a06128-d5d2-78a7-baa2-c7e8199cecec",
-  type: "module",
+  type: "page-type/module",
   slug: "housing-settings-menu",
   definition: "the settings panel the housing add-on registers",
   code: "ts",
