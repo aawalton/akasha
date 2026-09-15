@@ -2,7 +2,7 @@ import type { IosComponent } from "akasha/code/ios-component/ios-component.page-
 
 export const smilingjennyUpkeepStoplightsWidget = {
   id: "01a08bf1-5b1b-7c9a-acac-0bce6dc7c0f0",
-  type: "ios-component",
+  type: "page-type/ios-component",
   slug: "smilingjenny-upkeep-stoplights-widget",
   definition: "Jenny's tile for the stoplight on each of Alan's upkeep readings",
   swift: "swift",

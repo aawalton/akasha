@@ -2,7 +2,7 @@ import type { IosComponent } from "akasha/code/ios-component/ios-component.page-
 
 export const tier = {
   id: "01a05482-22df-7a91-9e4d-ba72f93c5851",
-  type: "ios-component",
+  type: "page-type/ios-component",
   slug: "tier",
   definition: "the color a reading has reached",
   swift: "swift",

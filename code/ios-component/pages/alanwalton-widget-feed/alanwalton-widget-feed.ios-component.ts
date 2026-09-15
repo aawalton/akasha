@@ -2,7 +2,7 @@ import type { IosComponent } from "akasha/code/ios-component/ios-component.page-
 
 export const alanwaltonWidgetFeed = {
   id: "01a05835-69d7-777a-9161-494558086ce9",
-  type: "ios-component",
+  type: "page-type/ios-component",
   slug: "alanwalton-widget-feed",
   definition: "the fetch every tile of Alan's app draws from",
   swift: "swift",

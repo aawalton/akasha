@@ -2,7 +2,7 @@ import type { IosComponent } from "akasha/code/ios-component/ios-component.page-
 
 export const alanwaltonCostWidget = {
   id: "01a08bb4-3dee-7e6f-8126-950faba3221d",
-  type: "ios-component",
+  type: "page-type/ios-component",
   slug: "alanwalton-cost-widget",
   definition: "Alan's tile for what the block he is in costs him each hour",
   swift: "swift",

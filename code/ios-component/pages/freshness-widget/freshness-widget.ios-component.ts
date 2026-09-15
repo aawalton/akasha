@@ -2,7 +2,7 @@ import type { IosComponent } from "akasha/code/ios-component/ios-component.page-
 
 export const freshnessWidget = {
   id: "01a09afa-9290-7746-8486-4ef295a76c76",
-  type: "ios-component",
+  type: "page-type/ios-component",
   slug: "freshness-widget",
   definition: "the tile saying how old the oldest reading the other tiles hold is",
   swift: "swift",

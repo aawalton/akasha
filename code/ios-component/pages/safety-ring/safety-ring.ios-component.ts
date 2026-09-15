@@ -2,7 +2,7 @@ import type { IosComponent } from "akasha/code/ios-component/ios-component.page-
 
 export const safetyRing = {
   id: "01a05482-22dd-7359-88a2-113df882eb88",
-  type: "ios-component",
+  type: "page-type/ios-component",
   slug: "safety-ring",
   definition: "the tile drawing where a safety level stands",
   swift: "swift",

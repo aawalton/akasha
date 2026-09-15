@@ -2,7 +2,7 @@ import type { IosComponent } from "akasha/code/ios-component/ios-component.page-
 
 export const freshnessChecks = {
   id: "01a09b4a-75dd-790c-a399-1972b3b8e424",
-  type: "ios-component",
+  type: "page-type/ios-component",
   slug: "freshness-checks",
   definition: "what both harnesses assert of the age and the count the freshness tile works out",
   swift: "swift",

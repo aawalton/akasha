@@ -2,7 +2,7 @@ import type { IosComponent } from "akasha/code/ios-component/ios-component.page-
 
 export const categorizeRing = {
   id: "01a05482-22db-796e-b0e4-76ec3c1bb83e",
-  type: "ios-component",
+  type: "page-type/ios-component",
   slug: "categorize-ring",
   definition: "the tile drawing how many transactions are unreviewed",
   swift: "swift",

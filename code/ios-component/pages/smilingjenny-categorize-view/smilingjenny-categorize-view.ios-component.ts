@@ -2,7 +2,7 @@ import type { IosComponent } from "akasha/code/ios-component/ios-component.page-
 
 export const smilingjennyCategorizeView = {
   id: "01a05835-69dd-7785-922c-62085d151883",
-  type: "ios-component",
+  type: "page-type/ios-component",
   slug: "smilingjenny-categorize-view",
   definition: "the drawing of Jenny's unreviewed transaction reading",
   swift: "swift",

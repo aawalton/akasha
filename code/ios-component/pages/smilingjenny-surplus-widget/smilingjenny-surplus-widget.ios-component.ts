@@ -2,7 +2,7 @@ import type { IosComponent } from "akasha/code/ios-component/ios-component.page-
 
 export const smilingjennySurplusWidget = {
   id: "01a05835-69de-7765-85ea-e7141ffc0105",
-  type: "ios-component",
+  type: "page-type/ios-component",
   slug: "smilingjenny-surplus-widget",
   definition: "Jenny's tile for Alan's surplus",
   swift: "swift",
