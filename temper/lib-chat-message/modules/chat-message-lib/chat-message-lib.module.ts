@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const chatMessageLib = {
   id: "01a06060-0d15-7e8d-81a2-d269b361c55f",
-  type: "module",
+  type: "page-type/module",
   slug: "chat-message-lib",
   definition: "the library object every caller of the chat message library reaches",
   code: "ts",

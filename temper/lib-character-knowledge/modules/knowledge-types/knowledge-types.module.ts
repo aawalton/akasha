@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const knowledgeTypes = {
   id: "01a061fa-8000-7c0b-9c7c-caf0b9d49ffa",
-  type: "module",
+  type: "page-type/module",
   slug: "knowledge-types",
   definition: "the shapes a character, an account and a saved record take",
   code: "ts",

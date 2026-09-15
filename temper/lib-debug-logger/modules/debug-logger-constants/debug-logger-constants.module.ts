@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const debugLoggerConstants = {
   id: "01a06061-408e-7921-b7b9-95d7deb170c4",
-  type: "module",
+  type: "page-type/module",
   slug: "debug-logger-constants",
   definition: "the log levels, entry field positions and callback names the library is built on",
   code: "ts",

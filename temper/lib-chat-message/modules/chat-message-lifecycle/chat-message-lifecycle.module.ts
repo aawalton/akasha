@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const chatMessageLifecycle = {
   id: "01a06060-0d17-7a41-90e4-e85bd3b90570",
-  type: "module",
+  type: "page-type/module",
   slug: "chat-message-lifecycle",
   definition: "the work the chat message library does once the game has loaded it",
   code: "ts",

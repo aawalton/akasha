@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const gpsInitialization = {
   id: "01a0614d-4763-7c62-91c1-1e17aa3b70e1",
-  type: "module",
+  type: "page-type/module",
   slug: "gps-initialization",
   definition: "what the library builds once the game has loaded it",
   code: "ts",

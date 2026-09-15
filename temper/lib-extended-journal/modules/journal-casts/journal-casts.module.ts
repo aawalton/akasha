@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const journalCasts = {
   id: "01a0617d-544d-7f97-9ea4-d789662cd65d",
-  type: "module",
+  type: "page-type/module",
   slug: "journal-casts",
   definition: "what a control or table the game hands over is taken to be",
   code: "ts",

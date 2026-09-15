@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const knowledgePublicCore = {
   id: "01a06227-f593-70f8-920b-1b04aeaca3d6",
-  type: "module",
+  type: "page-type/module",
   slug: "knowledge-public-core",
   definition: "what an addon asks the library about an item",
   code: "ts",

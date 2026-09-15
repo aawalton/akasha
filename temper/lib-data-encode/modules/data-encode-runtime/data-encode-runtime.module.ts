@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dataEncodeRuntime = {
   id: "01a06061-96a0-7c1f-a7ed-6104c85448b3",
-  type: "module",
+  type: "page-type/module",
   slug: "data-encode-runtime",
   definition: "whether the library is logging and where a log line is sent",
   code: "ts",

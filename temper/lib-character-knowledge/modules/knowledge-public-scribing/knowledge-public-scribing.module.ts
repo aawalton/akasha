@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const knowledgePublicScribing = {
   id: "01a06227-f594-7088-90b7-009441ac4ee4",
-  type: "module",
+  type: "page-type/module",
   slug: "knowledge-public-scribing",
   definition: "what an addon asks the library about a grimoire or a script",
   code: "ts",

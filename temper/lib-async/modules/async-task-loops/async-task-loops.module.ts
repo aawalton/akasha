@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const asyncTaskLoops = {
   id: "01a0606a-1c58-7114-8732-db616cf0b69c",
-  type: "module",
+  type: "page-type/module",
   slug: "async-task-loops",
   definition:
     "the numeric loop, the pairs loop and the conditional loop a task runs a step at a time",

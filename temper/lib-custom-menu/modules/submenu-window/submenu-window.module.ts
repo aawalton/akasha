@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const submenuWindow = {
   id: "01a0605a-5820-702f-bd91-46c5fa9263c6",
-  type: "module",
+  type: "page-type/module",
   slug: "submenu-window",
   definition: "the floating window a sub-menu's rows are drawn in",
   code: "ts",

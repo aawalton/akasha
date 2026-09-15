@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonMenuWidgetDropdown = {
   id: "01a06100-0000-7000-8000-000000000019",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-menu-widget-dropdown",
   definition: "the combo box widget, single-select or multi-select, over a fixed list of choices",
   code: "ts",

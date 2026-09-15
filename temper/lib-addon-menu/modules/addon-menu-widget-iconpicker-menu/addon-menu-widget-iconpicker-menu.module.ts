@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonMenuWidgetIconpickerMenu = {
   id: "01a06100-0000-7000-8000-000000000024",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-menu-widget-iconpicker-menu",
   definition: "the pooled grid of selectable icons shown as a floating window",
   code: "ts",

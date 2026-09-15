@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const asyncState = {
   id: "01a0606a-1c57-75ad-a81f-1f1105255842",
-  type: "module",
+  type: "page-type/module",
   slug: "async-state",
   definition: "the library table, the job list and the scheduler counters every module reads",
   code: "ts",

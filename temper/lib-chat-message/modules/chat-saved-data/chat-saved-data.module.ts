@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const chatSavedData = {
   id: "01a06060-0d15-7829-a88a-51a1d1860e21",
-  type: "module",
+  type: "page-type/module",
   slug: "chat-saved-data",
   definition: "how a value too long for one saved variable string is split and rejoined",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const knowledgeCuratedStyleQuality = {
   id: "01a0622b-dc59-7bd2-bd67-d27fe2d4f929",
-  type: "module",
+  type: "page-type/module",
   slug: "knowledge-curated-style-quality",
   definition: "how common each motif style is taken to be",
   code: "ts",

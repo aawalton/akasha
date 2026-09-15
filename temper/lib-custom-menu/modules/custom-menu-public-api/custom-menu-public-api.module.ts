@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const customMenuPublicApi = {
   id: "01a0605a-581f-70cd-a87d-789035bb7e50",
-  type: "module",
+  type: "page-type/module",
   slug: "custom-menu-public-api",
   definition: "the names the custom menu library puts in the game's global table",
   code: "ts",

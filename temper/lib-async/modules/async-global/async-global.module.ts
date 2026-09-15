@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const asyncGlobal = {
   id: "01a0606a-1c55-7f79-8994-453c4b232ba0",
-  type: "module",
+  type: "page-type/module",
   slug: "async-global",
   definition: "the one global name the game and other addons reach the library by",
   code: "ts",

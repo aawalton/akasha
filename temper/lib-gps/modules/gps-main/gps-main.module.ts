@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const gpsMain = {
   id: "01a0614d-4764-7fb9-bcd4-a7fca9ec796d",
-  type: "module",
+  type: "page-type/module",
   slug: "gps-main",
   definition: "the wiring the library does as the game loads it",
   code: "ts",

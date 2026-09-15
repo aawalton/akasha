@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dataEncodeDecoder = {
   id: "01a06061-969f-7339-89aa-da319bf80d6b",
-  type: "module",
+  type: "page-type/module",
   slug: "data-encode-decoder",
   definition: "encoded lines read back into the Lua value the lines were written from",
   code: "ts",

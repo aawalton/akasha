@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const debugLoggerSettings = {
   id: "01a06061-408f-7b57-ae4e-cf8306102001",
-  type: "module",
+  type: "page-type/module",
   slug: "debug-logger-settings",
   definition: "the saved settings and the slash command reading and changing them",
   code: "ts",

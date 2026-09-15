@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const knowledgeMotif = {
   id: "01a06226-4908-7993-9331-9125f712cdc5",
-  type: "module",
+  type: "page-type/module",
   slug: "knowledge-motif",
   definition: "which style and chapter a motif book belongs to",
   code: "ts",

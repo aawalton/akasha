@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const asyncTypes = {
   id: "01a0606a-1c59-7292-9a3b-f5ad9a837532",
-  type: "module",
+  type: "page-type/module",
   slug: "async-types",
   definition: "the shapes a task, the task class and the library table take",
   code: "ts",

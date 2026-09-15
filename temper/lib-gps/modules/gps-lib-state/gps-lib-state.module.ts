@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const gpsLibState = {
   id: "01a0614d-4763-71d6-823d-0a023d0ff5b6",
-  type: "module",
+  type: "page-type/module",
   slug: "gps-lib-state",
   definition: "the library object and the state every other part of it reads",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const customMenuHooks = {
   id: "01a0605a-581e-714a-b5ed-989083626e25",
-  type: "module",
+  type: "page-type/module",
   slug: "custom-menu-hooks",
   definition: "the game's menu functions wrapped so custom entries survive",
   code: "ts",

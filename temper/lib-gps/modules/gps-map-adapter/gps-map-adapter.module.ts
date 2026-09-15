@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const gpsMapAdapter = {
   id: "01a0614d-4764-7590-90c4-082d02d03370",
-  type: "module",
+  type: "page-type/module",
   slug: "gps-map-adapter",
   definition: "the game's map changing functions wrapped so a change can be measured",
   code: "ts",

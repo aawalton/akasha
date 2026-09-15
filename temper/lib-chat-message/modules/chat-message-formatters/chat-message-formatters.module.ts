@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const chatMessageFormatters = {
   id: "01a06060-0d17-74d0-ba57-905b629170b0",
-  type: "module",
+  type: "page-type/module",
   slug: "chat-message-formatters",
   definition: "the game's chat formatters wrapped so a tag and a time prefix are added",
   code: "ts",

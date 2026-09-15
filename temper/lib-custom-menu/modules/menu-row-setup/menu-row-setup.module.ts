@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const menuRowSetup = {
   id: "01a0605a-5821-7f11-b1c6-61c921c020da",
-  type: "module",
+  type: "page-type/module",
   slug: "menu-row-setup",
   definition: "the tooltip, divider and header work one menu row takes",
   code: "ts",

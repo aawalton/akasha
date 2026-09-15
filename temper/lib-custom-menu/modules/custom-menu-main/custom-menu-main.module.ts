@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const customMenuMain = {
   id: "01a0605a-581f-7713-b312-1a2797643fae",
-  type: "module",
+  type: "page-type/module",
   slug: "custom-menu-main",
   definition: "the wiring the custom menu library does as the game loads it",
   code: "ts",

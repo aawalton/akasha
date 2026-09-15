@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const histoireQuickNavigation = {
   id: "01a06197-4c99-7caf-8140-c9ca23195874",
-  type: "module",
+  type: "page-type/module",
   slug: "histoire-quick-navigation",
   definition: "the paging buttons taken over so a page with gaps is found",
   code: "ts",

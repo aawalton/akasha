@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const debugLoggerApi = {
   id: "01a06061-408c-7ae0-8ee1-8ec6defab7e7",
-  type: "module",
+  type: "page-type/module",
   slug: "debug-logger-api",
   definition: "the functions the library hands to every other addon",
   code: "ts",

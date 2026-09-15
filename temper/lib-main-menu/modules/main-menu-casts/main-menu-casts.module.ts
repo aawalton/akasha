@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mainMenuCasts = {
   id: "01a0605b-c801-75ea-bec7-99b3645fcbda",
-  type: "module",
+  type: "page-type/module",
   slug: "main-menu-casts",
   definition: "the narrowings from an untyped game value to a shape this library reads",
   code: "ts",

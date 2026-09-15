@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonMenuWidgetDropdownScroll = {
   id: "01a06100-0000-7000-8000-000000000020",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-menu-widget-dropdown-scroll",
   definition: "the height of a dropdown list computed from its visible row count",
   code: "ts",

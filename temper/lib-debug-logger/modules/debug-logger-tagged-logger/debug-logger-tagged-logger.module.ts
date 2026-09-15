@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const debugLoggerTaggedLogger = {
   id: "01a06061-4092-7c03-8889-a341e67a2144",
-  type: "module",
+  type: "page-type/module",
   slug: "debug-logger-tagged-logger",
   definition: "a logger object with one tag, its sub-taggings and its level overrides",
   code: "ts",
