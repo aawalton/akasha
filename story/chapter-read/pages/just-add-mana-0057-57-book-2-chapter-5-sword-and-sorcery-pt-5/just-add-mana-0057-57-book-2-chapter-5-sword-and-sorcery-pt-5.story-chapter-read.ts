@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana005757Book2Chapter5SwordAndSorceryPt5 = {
   id: "01a06731-adda-7001-a448-b16155b7ee4f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0057-57-book-2-chapter-5-sword-and-sorcery-pt-5",
   title: "57 — Book 2, Chapter 5 — Sword and Sorcery, Pt 5",
   story: "story-read/just-add-mana",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana008787Book2Chapter35TheFirstTimeTheUniverseEnded = {
   id: "01a06731-ae04-7000-b317-c800d220cd1a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0087-87-book-2-chapter-35-the-first-time-the-universe-ended",
   title: "87 — Book 2, Chapter 35 — The First Time the Universe Ended",
   story: "story-read/just-add-mana",

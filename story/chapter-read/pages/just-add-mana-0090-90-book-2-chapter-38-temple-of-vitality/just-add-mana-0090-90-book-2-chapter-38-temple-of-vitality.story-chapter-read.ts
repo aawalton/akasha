@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana009090Book2Chapter38TempleOfVitality = {
   id: "01a06731-ae08-7000-966a-5162a8cb9284",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0090-90-book-2-chapter-38-temple-of-vitality",
   title: "90 — Book 2, Chapter 38 — Temple of Vitality",
   story: "story-read/just-add-mana",

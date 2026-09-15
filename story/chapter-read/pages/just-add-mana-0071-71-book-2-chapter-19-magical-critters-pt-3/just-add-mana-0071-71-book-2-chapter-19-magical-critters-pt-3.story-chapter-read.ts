@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana007171Book2Chapter19MagicalCrittersPt3 = {
   id: "01a06731-aded-7000-a844-5417b6ff6e81",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0071-71-book-2-chapter-19-magical-critters-pt-3",
   title: "71 — Book 2, Chapter 19 — Magical Critters, Pt 3",
   story: "story-read/just-add-mana",

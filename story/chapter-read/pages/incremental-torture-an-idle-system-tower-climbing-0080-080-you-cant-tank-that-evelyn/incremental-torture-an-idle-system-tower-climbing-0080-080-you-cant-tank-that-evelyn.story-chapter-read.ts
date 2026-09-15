@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const incrementalTortureAnIdleSystemTowerClimbing0080080YouCantTankThatEvelyn = {
   id: "01a06731-ae0d-7008-a822-543012490486",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0080-080-you-cant-tank-that-evelyn",
   title: "080: You Can't Tank That, Evelyn!",
   story: "story-read/incremental-torture-an-idle-system-tower-climbing",

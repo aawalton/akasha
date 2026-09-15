@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0103IntermissionRealmwatcherSDiariesOldMagic = {
   id: "01a06731-ae16-7002-aa07-e52f4cd2a140",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0103-intermission-realmwatcher-s-diaries-old-magic",
   title: "INTERMISSION: Realmwatcher's Diaries — Old Magic",
   story: "story-read/just-add-mana",

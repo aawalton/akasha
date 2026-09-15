@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0032Chapter32SecretsAndSorceryPt1 = {
   id: "01a06731-adbb-7000-a2cf-54752141c1c8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0032-chapter-32-secrets-and-sorcery-pt-1",
   title: "Chapter 32 — Secrets and Sorcery, Pt 1",
   story: "story-read/just-add-mana",

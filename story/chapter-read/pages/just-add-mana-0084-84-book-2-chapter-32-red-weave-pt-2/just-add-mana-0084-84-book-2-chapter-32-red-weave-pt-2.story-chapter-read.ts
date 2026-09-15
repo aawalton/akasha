@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana008484Book2Chapter32RedWeavePt2 = {
   id: "01a06731-ae00-7000-b8e0-77e01b078b1f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0084-84-book-2-chapter-32-red-weave-pt-2",
   title: "84 — Book 2, Chapter 32 — Red Weave, Pt 2",
   story: "story-read/just-add-mana",

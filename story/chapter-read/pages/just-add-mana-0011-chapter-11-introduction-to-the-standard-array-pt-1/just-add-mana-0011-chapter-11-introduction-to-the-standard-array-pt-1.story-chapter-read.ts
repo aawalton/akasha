@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0011Chapter11IntroductionToTheStandardArrayPt1 = {
   id: "01a06731-ada2-7000-9743-a096ff667e71",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0011-chapter-11-introduction-to-the-standard-array-pt-1",
   title: "Chapter 11 — Introduction to the Standard Array, Pt 1",
   story: "story-read/just-add-mana",

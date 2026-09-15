@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const incrementalTortureAnIdleSystemTowerClimbing0049049Eruption = {
   id: "01a06731-ae0b-7004-bc5b-74f98ed8157f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0049-049-eruption",
   title: "049: Eruption",
   story: "story-read/incremental-torture-an-idle-system-tower-climbing",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0045Chapter45Escape = {
   id: "01a06731-add1-7000-a10d-553082cdb8d5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0045-chapter-45-escape",
   title: "Chapter 45 — Escape",
   story: "story-read/just-add-mana",

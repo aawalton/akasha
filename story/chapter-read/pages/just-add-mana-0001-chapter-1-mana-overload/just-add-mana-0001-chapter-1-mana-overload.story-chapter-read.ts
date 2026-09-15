@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0001Chapter1ManaOverload = {
   id: "01a06731-ad90-7000-9353-692938a77ebe",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0001-chapter-1-mana-overload",
   title: "Chapter 1 — Mana Overload",
   story: "story-read/just-add-mana",

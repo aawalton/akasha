@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0016Chapter16AlinaTheLunchladyArchdemonOfShelves = {
   id: "01a06731-ada8-7000-b918-f038ec5946aa",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0016-chapter-16-alina-the-lunchlady-archdemon-of-shelves",
   title: "Chapter 16 — Alina the Lunchlady, Archdemon of Shelves",
   story: "story-read/just-add-mana",

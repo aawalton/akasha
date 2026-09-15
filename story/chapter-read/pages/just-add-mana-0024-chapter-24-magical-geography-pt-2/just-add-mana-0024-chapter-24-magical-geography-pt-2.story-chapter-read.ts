@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0024Chapter24MagicalGeographyPt2 = {
   id: "01a06731-adb2-7000-b80a-aa8e95bbfd6e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0024-chapter-24-magical-geography-pt-2",
   title: "Chapter 24 — Magical Geography, Pt 2",
   story: "story-read/just-add-mana",

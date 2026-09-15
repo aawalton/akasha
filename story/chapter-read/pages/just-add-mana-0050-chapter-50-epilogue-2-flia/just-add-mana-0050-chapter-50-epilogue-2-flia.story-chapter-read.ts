@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0050Chapter50Epilogue2Flia = {
   id: "01a06731-add6-7001-a783-67a4dd658f20",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0050-chapter-50-epilogue-2-flia",
   title: "Chapter 50 — Epilogue 2 — Flia",
   story: "story-read/just-add-mana",

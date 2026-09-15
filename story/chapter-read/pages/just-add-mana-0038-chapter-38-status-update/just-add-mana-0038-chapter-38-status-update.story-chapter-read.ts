@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0038Chapter38StatusUpdate = {
   id: "01a06731-adc7-7000-b048-6f841b50d13a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0038-chapter-38-status-update",
   title: "Chapter 38 — Status Update",
   story: "story-read/just-add-mana",

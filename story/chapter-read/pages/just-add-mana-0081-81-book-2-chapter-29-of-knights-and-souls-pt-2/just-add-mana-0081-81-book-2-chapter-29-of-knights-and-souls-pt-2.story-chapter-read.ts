@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana008181Book2Chapter29OfKnightsAndSoulsPt2 = {
   id: "01a06731-adf8-7000-843e-526eafa01d58",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0081-81-book-2-chapter-29-of-knights-and-souls-pt-2",
   title: "81 — Book 2, Chapter 29 — Of Knights and Souls, Pt 2",
   story: "story-read/just-add-mana",

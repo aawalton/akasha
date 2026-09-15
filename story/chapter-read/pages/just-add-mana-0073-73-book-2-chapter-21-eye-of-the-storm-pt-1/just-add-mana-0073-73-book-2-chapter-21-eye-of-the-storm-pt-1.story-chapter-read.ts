@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana007373Book2Chapter21EyeOfTheStormPt1 = {
   id: "01a06731-adee-7000-b69f-c594913d426f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0073-73-book-2-chapter-21-eye-of-the-storm-pt-1",
   title: "73 — Book 2, Chapter 21 — Eye of the Storm, Pt 1",
   story: "story-read/just-add-mana",
