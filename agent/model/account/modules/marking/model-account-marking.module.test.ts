@@ -268,9 +268,7 @@ test("marking one account reads no index the whole fleet is filed in", () => {
   const one = counting(root)
   const said = markedIn(root, "aine", { retryAllowedAt: RESETS_AT }, one.reading, bodiesIn(root))
   expect(said.kind).toBe("held")
-  expect(
-    one.seen.filter((at) => at.startsWith("listing page-type/model-account"))
-  ).toEqual([])
+  expect(one.seen.filter((at) => at.startsWith("listing page-type/model-account"))).toEqual([])
 })
 
 test("marking one account with the routing handed in lists nothing at all", () => {
