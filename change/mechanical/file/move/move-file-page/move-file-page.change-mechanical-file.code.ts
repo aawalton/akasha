@@ -4,6 +4,7 @@ import type { Answer } from "akasha/change/modules/answer/change-answer.module.t
 import { claimedIn } from "akasha/change/modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { referencesAt } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 
 const MOVE_FILE = "change-mechanical-file/move-file"
 
@@ -24,8 +25,13 @@ export function landingFor(one: string, to: string): string {
   return join(dirname(to), basename(one))
 }
 
-export function pageLast(beside: readonly string[], page: string): readonly string[] {
-  return [...beside.filter((one) => one !== page), ...beside.filter((one) => one === page)]
+export function carriedIn(beside: readonly string[], page: string): readonly string[] {
+  const references = referencesAt(page)
+  return [
+    ...beside.filter((one) => one !== page && one !== references),
+    ...beside.filter((one) => one === page),
+    ...beside.filter((one) => one === references),
+  ]
 }
 
 function besideIn(world: World, at: string): readonly string[] | string {
@@ -47,7 +53,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (typeof beside === "string") return refusing(beside)
   const carried: Answer[] = []
   let seen = world
-  for (const one of pageLast(beside, given.from)) {
+  for (const one of carriedIn(beside, given.from)) {
     if (seen.bodyOf(one) === null) continue
     const said = await reach(seen, addressFor(one), { from: one, to: landingFor(one, given.to) })
     if (said.said.refused !== null) return said.said

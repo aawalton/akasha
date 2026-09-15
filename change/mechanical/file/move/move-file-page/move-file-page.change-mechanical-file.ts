@@ -25,7 +25,8 @@ export const moveFilePage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The page's own file is carried after every file the page keeps beside it.",
+      statement:
+        "The page's own file is carried after every file beside it but the one naming its importers.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -63,6 +64,10 @@ export const moveFilePage = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here works out a body of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The file naming what imports the page is carried after every other file.",
     },
   ],
   changeKind: "change-kind/change-mechanical",

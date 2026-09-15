@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  carriedIn,
   landingFor,
   runChange,
 } from "akasha/change/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.code.ts"
@@ -46,6 +47,18 @@ function movesOf(said: Answer): readonly (readonly [string, string])[] {
 
 test("a file beside the page lands under its own name in the folder the page lands in", () => {
   expect(landingFor(HELD_CODE, INTO)).toBe(CARRIED_CODE)
+})
+
+test("the file naming what imports the page is carried after every other file", () => {
+  const references = "akasha/one/held.module.referenced-by.jsonl"
+  const carried = "akasha/one/held.module.carried.jsonl"
+
+  expect(carriedIn([HELD_PAGE, carried, references, HELD_CODE], HELD_PAGE)).toEqual([
+    carried,
+    HELD_CODE,
+    HELD_PAGE,
+    references,
+  ])
 })
 
 test("a landing naming the page anew is refused", async () => {
