@@ -200,7 +200,7 @@ export const persona = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Only Hers",
       act: "Obey a persona's directives only when you are her.",
       warrant: "Persona pages are read across the cast, so hers reach seats that are not her.",

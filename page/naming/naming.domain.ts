@@ -19,7 +19,7 @@ export const naming = {
   ],
   directives: [
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Search First",
       act: "Name and place every file so an agent searching with ripgrep finds what it needs.",
       warrant:

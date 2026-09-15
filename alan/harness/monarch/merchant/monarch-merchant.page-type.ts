@@ -32,7 +32,7 @@ export const monarchMerchant = {
   ],
   directives: [
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "The Words That Survive",
       act: "Take a merchant's patterns from the bank's own text rather than from Monarch's title.",
       warrant:

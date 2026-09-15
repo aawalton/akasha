@@ -55,7 +55,7 @@ export const nameFormat = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Same Words Everywhere",
       act: "Give a name the same words in every place, in the format that place uses.",
       warrant: "The words have the meaning; the format belongs to the place.",

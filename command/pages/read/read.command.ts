@@ -231,7 +231,7 @@ export const read = {
   arguments: [{ argument: "argument/file-path", repeats: true }, { argument: "argument/full" }],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "One Read A Call",
       act: "Run one `akasha read` per shell call rather than chaining several into one.",
       warrant:

@@ -71,7 +71,7 @@ export const blockAkashaEdits = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "The Index Is Akasha",
       act: "Guard the index as the akasha folder is guarded.",
       warrant: "The pages and the index are two halves of one store.",

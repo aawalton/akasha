@@ -33,7 +33,7 @@ export const akasha = {
   ],
   directives: [
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Parsimony",
       act: "Require every piece to earn its place.",
       warrant: "A piece pays off only sometimes and costs always.",
@@ -43,7 +43,7 @@ export const akasha = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Cut The Obvious",
       act: "Keep an instruction only where Opus 5 consistently goes wrong without that instruction.",
       warrant: "A line the model would have obeyed anyway reads exactly like one the model needs.",
@@ -53,7 +53,7 @@ export const akasha = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Cheap To Read",
       act: "Make every sentence cheaper to read, where nothing true and clear is lost.",
       warrant:
@@ -66,7 +66,7 @@ export const akasha = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Plain Or Declared",
       act: "Write the plain phrase; give a word its own sense by declaring it a domain.",
       warrant:
@@ -74,7 +74,7 @@ export const akasha = {
       aids: ["Use a declared word only in its declared sense."],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Ubiquitous Naming",
       act: "Use the same name for a concept in code, data and text.",
       warrant: "A second spelling reads as a second thing, and each layer looks right by itself.",
@@ -84,7 +84,7 @@ export const akasha = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Currency",
       act: "State what is true now, and leave how it became true to git.",
       warrant: "Git has the history, writing it again is a second place that can be wrong.",
@@ -94,14 +94,14 @@ export const akasha = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Alan Over Invariants",
       act: "Change the invariants Alan's instructions contradict.",
       warrant: "An invariant is past thinking, which is updated by current thinking.",
       aids: ["Any invariant can change.", "Changing one needs no approval."],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Trust The Index",
       act: "Read what the index answers. Never check the index is there, and never re-derive the answer.",
       warrant:
@@ -109,7 +109,7 @@ export const akasha = {
       aids: ["A wrong index is a root cause to fix, not a case each reader handles."],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Headroom",
       act: "Never report a file nearing its length ceiling, in your own words or in an instrument's.",
       warrant:
@@ -121,7 +121,7 @@ export const akasha = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Champions Not Owners",
       act: "Change what needs changing in any domain, where you hold what the change takes.",
       warrant: "Every agent has the same base expertise and can access the same context.",
@@ -131,7 +131,7 @@ export const akasha = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Small Changes",
       act: "Make many small, safe changes, and land separately every change that can land separately.",
       warrant:
@@ -143,7 +143,7 @@ export const akasha = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Blame The Mechanism",
       act: "Treat a fault a mechanical change lands as a fault in the program that composed the change.",
       warrant: "Akasha is a database, and no swarm can judge every page the swarm writes.",

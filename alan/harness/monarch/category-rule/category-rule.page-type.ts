@@ -60,7 +60,7 @@ export const categoryRule = {
   ],
   directives: [
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "The Failure Worth Having",
       act: "Prefer the clause that fails by matching nothing to the one that fails by matching wrongly.",
       warrant:
@@ -71,7 +71,7 @@ export const categoryRule = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "The Rows It Will Catch",
       act: "Weigh a rule by the rows it will catch rather than the rows it has caught.",
       warrant:

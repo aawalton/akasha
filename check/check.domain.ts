@@ -153,7 +153,7 @@ export const check = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Do The Work",
       act: "Never add a check for a set of work to be completed; complete the work instead.",
       warrant:
@@ -164,7 +164,7 @@ export const check = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Removal First",
       act: "Establish that a check still earns its place before making it faster or more correct.",
       warrant:
@@ -175,7 +175,7 @@ export const check = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Superseded Reach",
       act: "Weigh a check that duplicates a gate by what that gate does not reach, never by what it repeats.",
       warrant:
@@ -186,7 +186,7 @@ export const check = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Header By Hand",
       act: "Repair a header that has gone false by hand, never by gating prose against the code beneath it.",
       warrant:

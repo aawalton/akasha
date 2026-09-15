@@ -54,7 +54,7 @@ export const code = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Bounded Wait",
       act: "Give every wait a ceiling, and fail at that ceiling with the reason the wait was for.",
       warrant:
@@ -65,7 +65,7 @@ export const code = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Split First",
       act: "Split an authored file too big to read in one answer before you change it, never around it.",
       warrant:
@@ -73,7 +73,7 @@ export const code = {
       aids: ["The split is derived, not authored.", "A part still too big to read is not split."],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "No Code Comments",
       act: "Write a code comment only in one of the code comment forms; delete every other one.",
       warrant:
@@ -84,7 +84,7 @@ export const code = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Real Path",
       act: "Resolve a filesystem path to its real location where the path is made.",
       warrant:

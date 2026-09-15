@@ -77,7 +77,7 @@ export const testFixture = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Carry The Real Page",
       act: "Import the page a fixture needs into the fixture tree rather than restating its values.",
       warrant:

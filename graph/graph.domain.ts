@@ -54,7 +54,7 @@ export const graph = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Alan Approves Kinds",
       act: "Add a node, edge or attribute to the graph only where Alan has approved that kind.",
       warrant:
@@ -65,7 +65,7 @@ export const graph = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Never Depend On Everything",
       act: "Key a question of the pages so a change reaches one key, never the whole table.",
       warrant:

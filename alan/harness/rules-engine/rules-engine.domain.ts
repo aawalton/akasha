@@ -121,7 +121,7 @@ export const rulesEngine = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Ask Before Changing",
       act: "Get approval from the person the rules serve before a change, never after.",
       warrant:

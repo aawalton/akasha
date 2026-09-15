@@ -85,7 +85,7 @@ export const requiredReading = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Route Not Text",
       act: "Name the reading and the route that records it; never hand the agent the text.",
       warrant:
@@ -97,7 +97,7 @@ export const requiredReading = {
     },
 
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Dilution",
       act: "Weigh an instruction against every reader at every boot, never against the one it was written for.",
       warrant:

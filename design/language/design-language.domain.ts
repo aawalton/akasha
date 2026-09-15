@@ -24,7 +24,7 @@ export const designLanguage = {
   ],
   directives: [
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Least Power",
       act: "Give a language the least power that does the job.",
       warrant:
@@ -35,7 +35,7 @@ export const designLanguage = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Reads As It Looks",
       act: "Make a program mean what its reader would take it to mean.",
       warrant:
@@ -46,7 +46,7 @@ export const designLanguage = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Declared Not Guessed",
       act: "Take a value's type from what declared it, never from how it is written.",
       warrant:
@@ -57,7 +57,7 @@ export const designLanguage = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "One Value Model",
       act: "Give a language one set of values, whatever holds them.",
       warrant:
@@ -68,7 +68,7 @@ export const designLanguage = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Caught Early",
       act: "Find a wrong program at the earliest moment it can be found.",
       warrant: "The later a fault is found, the more has been built on it and the less says why.",
@@ -78,7 +78,7 @@ export const designLanguage = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Refuse Not Convert",
       act: "Refuse a value the program cannot use, rather than making one it can.",
       warrant:
@@ -89,7 +89,7 @@ export const designLanguage = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Name The Cause",
       act: "Make a refusal say what was wrong and where, in the terms the program was written in.",
       warrant: "A refusal is the one part of a language its reader meets while already lost.",
@@ -99,7 +99,7 @@ export const designLanguage = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Rewrite Not Widen",
       act: "Change the programs with the language wherever they are all yours.",
       warrant:
@@ -110,7 +110,7 @@ export const designLanguage = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Meaning Outside Code",
       act: "Write what a program means somewhere other than the code that runs it.",
       warrant:
@@ -121,7 +121,7 @@ export const designLanguage = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Held To The Words",
       act: "Hold every implementation to the written meaning, never to another implementation.",
       warrant:

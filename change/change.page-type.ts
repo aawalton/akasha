@@ -136,7 +136,7 @@ export const change = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Correctness In The Writer",
       act: "Build into a mechanical writer every truth a check would have caught.",
       warrant:

@@ -147,7 +147,7 @@ export const alanHarness = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "His Call",
       act: "Enforce the limits Alan set; never veto a choice he made inside them.",
       warrant:

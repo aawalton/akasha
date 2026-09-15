@@ -34,7 +34,7 @@ export const alanHarnessAgent = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Run, Traced Or Relayed",
       act: "Mark every claim to Alan as run, traced or relayed.",
       warrant: "Alan cannot run it, so how you got it is the only evidence Alan has.",

@@ -193,7 +193,7 @@ export const checkCode = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Alan Approves Checks",
       act: "Add a check to akasha only where Alan has approved that check.",
       warrant:
@@ -206,7 +206,7 @@ export const checkCode = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Fail Closed",
       act: "Fail a check that could not run.",
       warrant:
@@ -217,7 +217,7 @@ export const checkCode = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Change Reach",
       act: "Limit what a check measures to what the provisional change could invalidate.",
       warrant:
@@ -228,7 +228,7 @@ export const checkCode = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Dispatch Reach",
       act: "Run a check on every file class a violation it judges can arrive in.",
       warrant: "A check the breaking change never runs is clean on the very commit it exists for.",
@@ -238,7 +238,7 @@ export const checkCode = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Derived Reach",
       act: "Derive a check's reach wherever a new member can arrive, never from a list in the check.",
       warrant:

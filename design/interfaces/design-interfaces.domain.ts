@@ -23,7 +23,7 @@ export const designInterfaces = {
   ],
   directives: [
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Nothing Nearer",
       act: "Let nothing sit nearer a thing than what it belongs with.",
       warrant:
@@ -34,7 +34,7 @@ export const designInterfaces = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Same Kind Same Way",
       act: "Show a thing the way its kind is already shown.",
       warrant:
@@ -45,7 +45,7 @@ export const designInterfaces = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Standardized Palette",
       act: "Reference a design-system token; never write the value it resolves to.",
       warrant:
@@ -56,7 +56,7 @@ export const designInterfaces = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Nothing Unexplained",
       act: "Give every difference a reader can see a reason they can find.",
       warrant:
@@ -67,7 +67,7 @@ export const designInterfaces = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Share An Edge",
       act: "Line each element up with an edge already placed.",
       warrant:
@@ -78,7 +78,7 @@ export const designInterfaces = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Obvious Or None",
       act: "Make a difference obvious, or make none at all.",
       warrant:
@@ -89,7 +89,7 @@ export const designInterfaces = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Color Earns Attention",
       act: "Prefer the uncolored expression of a value unless the color names a semantic category.",
       warrant:
@@ -100,7 +100,7 @@ export const designInterfaces = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Failure Is Boring",
       act: "Render an error at the weight of any other state the reader must act on, never at an alarm's.",
       warrant:

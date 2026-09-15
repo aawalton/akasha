@@ -144,7 +144,7 @@ export const monarch = {
   ],
   directives: [
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Doubt Goes To A Person",
       act: "Leave a category to a person unless something settles it beyond doubt.",
       warrant:

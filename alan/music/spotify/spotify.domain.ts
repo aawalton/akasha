@@ -50,7 +50,7 @@ export const spotify = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Paced Live Sweep",
       act: "Pace and scope every live Spotify exercise run: set `SPOTIFY_RATE_LIMIT_MS=1000` and pass `--only`.",
       warrant:

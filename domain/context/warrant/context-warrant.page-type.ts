@@ -78,7 +78,7 @@ export const contextWarrant = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Alan Approves Warrants",
       act: "Add a warrant to akasha only where Alan has approved that warrant.",
       warrant:

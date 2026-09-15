@@ -34,7 +34,7 @@ export const invariants = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Move When It Turns",
       act: "Move an invariant to the property that fits, or delete it, as soon as its truth changes.",
       warrant:

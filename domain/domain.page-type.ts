@@ -99,7 +99,7 @@ export const domain = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Alan Approves Directives",
       act: "Add a directive to a domain only where Alan has approved that directive.",
       warrant:
@@ -112,7 +112,7 @@ export const domain = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Single Authority",
       act: "Bind each claim from exactly one document.",
       warrant:

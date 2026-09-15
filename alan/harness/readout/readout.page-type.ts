@@ -256,7 +256,7 @@ export const readout = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Field Retirement",
       act: "Drop a field from a readout before its feed stops sending that field.",
       warrant:
@@ -267,7 +267,7 @@ export const readout = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Device Conditions",
       act: "Draw a readout in its instrument under the conditions the device draws that readout under.",
       warrant:

@@ -79,7 +79,7 @@ export const sentenceShape = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Alan Approves Sentence Shapes",
       act: "Set `allowed` true on a sentence shape only where Alan has approved that shape.",
       warrant:
@@ -92,7 +92,7 @@ export const sentenceShape = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "A Simpler Rewrite Refuses",
       act: "Refuse a shape whose sentences can consistently be rewritten simpler, plainer and clearer.",
       warrant:

@@ -136,7 +136,7 @@ export const test = {
   ],
   directives: [
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Nothing Cheaper Catches It",
       act: "Keep a test only where it would catch a defect nothing cheaper would.",
       warrant:
@@ -147,7 +147,7 @@ export const test = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Assert The Invariant",
       act: "Assert an invariant a page states, never a detail of the case at hand.",
       warrant:
@@ -155,7 +155,7 @@ export const test = {
       aids: ["Where no page states it, settle it with Alan.", "Stable so far is not an invariant."],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Write For The Next Change",
       act: "Write a test for what a later change could break, never to confirm the one that wrote it.",
       warrant:
@@ -166,7 +166,7 @@ export const test = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Delete It Now",
       act: "Delete a test the moment the structure makes the defect it catches impossible.",
       warrant:
@@ -177,7 +177,7 @@ export const test = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Delete Rather Than Repair",
       act: "Delete a test that fails while nothing is wrong; never repair it.",
       warrant:
@@ -188,7 +188,7 @@ export const test = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Never Ask The Code",
       act: "Work out a test's expected value yourself, never by running the code under test.",
       warrant:
@@ -199,7 +199,7 @@ export const test = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Green Or Gone",
       act: "Fix or delete a failing test before moving a change forward, whoever caused the failure.",
       warrant:

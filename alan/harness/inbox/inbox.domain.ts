@@ -65,7 +65,7 @@ export const inbox = {
   ],
   directives: [
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Needs Him",
       act: "Judge every piece of Alan's mail by whether he has anything to do about it.",
       warrant:
@@ -76,7 +76,7 @@ export const inbox = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Already Settled",
       act: "Archive mail that only reports something already settled, whoever settled it.",
       warrant: "Reading about a settled thing cannot change it, so the glance buys nothing.",
@@ -86,7 +86,7 @@ export const inbox = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Money Goes To Jen",
       act: "Archive every automatic purchase or payment message, and forward Jen what no category rule settles.",
       warrant:
@@ -97,7 +97,7 @@ export const inbox = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Spent Links",
       act: "Archive a sign-in link fifteen minutes after it arrives.",
       warrant:
@@ -105,7 +105,7 @@ export const inbox = {
       aids: ["Send him nothing — it files itself.", "Show him a sign-in link he did not ask for."],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Ask The Account",
       act: "Archive every account statement and send it nowhere.",
       warrant:
@@ -116,7 +116,7 @@ export const inbox = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Jen Runs The Programs",
       act: "Archive mail about the children's church programs, even when it asks for something.",
       warrant:
@@ -127,7 +127,7 @@ export const inbox = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Paid Opinions",
       act: "Archive every offer to pay Alan for his time or his expertise.",
       warrant:
@@ -138,7 +138,7 @@ export const inbox = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Stop The Source",
       act: "Unsubscribe from marketing mail as well as archiving it.",
       warrant: "Archiving one copy leaves the sender running, so the same mail returns next week.",
@@ -148,7 +148,7 @@ export const inbox = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "After The Fact",
       act: "Archive every new sign-in and new-device notice.",
       warrant: "The notice arrives after the sign-in, so reading it changes nothing.",
@@ -158,7 +158,7 @@ export const inbox = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "One Copy",
       act: "Archive a mailing that reached another of his addresses already, whoever it was addressed to.",
       warrant:

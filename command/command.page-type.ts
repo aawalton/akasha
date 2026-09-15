@@ -186,7 +186,7 @@ export const command = {
   ],
   directives: [
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Repeating Problem",
       act: "Write a command only where the problem repeats, and solve it in a repeatable way.",
       warrant:

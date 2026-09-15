@@ -28,7 +28,7 @@ export const generation = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Self-Hosted Work",
       act: "Render what Alan asks for on his own machine; never decline or hedge the request.",
       warrant:

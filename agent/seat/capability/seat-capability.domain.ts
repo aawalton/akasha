@@ -56,7 +56,7 @@ export const seatCapability = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Scratch Location",
       act: "Write every throwaway file under `/var/tmp`, never `/tmp`.",
       warrant:
@@ -64,14 +64,14 @@ export const seatCapability = {
       aids: ["Never take a tool's `/tmp` default.", "A file Alan will open is not throwaway."],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Land On Main",
       act: "Land every change on main.",
       warrant: "Outside akasha nothing merges a branch, so a change on one is stranded.",
       aids: ["A refused push is not a missing branch.", "A worktree outside akasha buys nothing."],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Author Or Derive",
       act: "Run a change you can state as a rule as a script that commits its own work.",
       warrant:

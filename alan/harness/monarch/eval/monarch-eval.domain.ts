@@ -158,7 +158,7 @@ export const monarchEval = {
   ],
   directives: [
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "A Bought Number Means Nothing",
       act: "Leave a fault in the agent unfixed where the fix writes this history's answers into the prompt.",
       warrant:
