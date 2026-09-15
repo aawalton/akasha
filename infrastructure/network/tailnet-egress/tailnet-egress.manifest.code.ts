@@ -7,17 +7,18 @@ import {
   selectorOf,
 } from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
 import { synthNamespaceNetworkPolicyDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { tailnetEgress } from "akasha/infrastructure/service/cluster/pages/tailnet-egress/tailnet-egress.service-cluster.ts"
 
-const NAMESPACE = "tailnet-egress"
-const APP_NAME = "tailnet-egress"
-const INSTANCE_NAME = "tailnet-egress"
+const NAMESPACE = tailnetEgress.namespace
+const APP_NAME = tailnetEgress.resourceName
+const INSTANCE_NAME = tailnetEgress.resourceName
 const COMPONENT = "egress-proxy"
-const PART_OF = "tailnet-egress"
+const PART_OF = tailnetEgress.slug
 const MANAGED_BY = "deploy-script"
 
-const TAILSCALE_IMAGE = "tailscale/tailscale:v1.98.10"
+const TAILSCALE_IMAGE = tailnetEgress.image
 
-const PROXY_PORT = 1055
+const PROXY_PORT = tailnetEgress.containerPort
 
 const NAMESPACE_LABELS = kubernetesLabels({ name: APP_NAME, managedBy: MANAGED_BY })
 
@@ -38,12 +39,12 @@ function deploymentYaml(): string {
     apiVersion: "apps/v1",
     kind: "Deployment",
     metadata: {
-      name: "tailnet-egress",
+      name: tailnetEgress.resourceName,
       namespace: NAMESPACE,
       labels: DEPLOYMENT_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: tailnetEgress.replicas,
       selector: { matchLabels: DEPLOYMENT_SELECTOR_LABELS },
       template: {
         metadata: { labels: DEPLOYMENT_LABELS },
@@ -113,7 +114,7 @@ function serviceYaml(): string {
     apiVersion: "v1",
     kind: "Service",
     metadata: {
-      name: "tailnet-egress",
+      name: tailnetEgress.resourceName,
       namespace: NAMESPACE,
       labels: DEPLOYMENT_LABELS,
     },
