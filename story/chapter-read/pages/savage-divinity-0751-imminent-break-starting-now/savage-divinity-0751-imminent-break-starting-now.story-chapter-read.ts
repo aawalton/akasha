@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const savageDivinity0751ImminentBreakStartingNow = {
   id: "01a06730-4f68-7ffa-9736-5636b3c5c980",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "savage-divinity-0751-imminent-break-starting-now",
   title: "Imminent Break starting now.",
   story: "story-read/savage-divinity",
