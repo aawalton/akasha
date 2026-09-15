@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const bonnieWallaceCrmp = {
   id: "019db533-f383-7ed4-a09d-2bb1bcbcc580",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "bonnie-wallace-crmp",
   title: "Bonnie Wallace, Crmp",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/bonnie-wallace-crmp-bb568913",

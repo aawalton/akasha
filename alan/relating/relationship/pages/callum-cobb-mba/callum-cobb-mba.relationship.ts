@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const callumCobbMba = {
   id: "019db533-f383-7fc0-a44c-146f264281b2",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "callum-cobb-mba",
   title: "Callum Cobb, Mba",
   relationshipCurrentCircle: "community",

@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const amitPopat = {
   id: "019db533-f383-7f74-a05c-d845b2de4e85",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "amit-popat",
   title: "Amit Popat",
   relationshipCurrentCircle: "acquaintances",

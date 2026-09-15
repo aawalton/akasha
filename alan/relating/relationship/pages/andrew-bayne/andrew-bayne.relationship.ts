@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const andrewBayne = {
   id: "019db533-f383-7674-ac64-c9175c3d1717",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "andrew-bayne",
   title: "Andrew Bayne",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/baynelaw",

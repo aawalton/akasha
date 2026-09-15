@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const brandonCharleson = {
   id: "019db533-f382-7b96-8d58-d5ef8d0ec0f8",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "brandon-charleson",
   title: "Brandon Charleson",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/brandon-charleson",

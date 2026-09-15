@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const bryanWallace = {
   id: "019db533-f383-7592-85b6-30994c1bf1e8",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "bryan-wallace",
   title: "Bryan Wallace",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/bryan-wallace-56251393",

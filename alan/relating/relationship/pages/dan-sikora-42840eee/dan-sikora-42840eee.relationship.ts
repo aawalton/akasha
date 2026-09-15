@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const danSikora42840eee = {
   id: "019db533-f382-7d48-88b3-04af42840eee",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "dan-sikora-42840eee",
   title: "Dan Sikora",
   relationshipCommitment: 3,

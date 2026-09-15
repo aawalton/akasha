@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const chiranjeeviPraveenIkkurthyChcio = {
   id: "019db533-f383-78d1-af04-a5308fd1e46b",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "chiranjeevi-praveen-ikkurthy-chcio",
   title: "Chiranjeevi Praveen Ikkurthy, Chcio",
   relationshipCurrentCircle: "acquaintances",

@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const brianRamos = {
   id: "019db533-f384-741c-8975-c5f6a71942ad",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "brian-ramos",
   title: "Brian Ramos",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/brianrramos",
