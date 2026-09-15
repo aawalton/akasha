@@ -94,11 +94,6 @@ export const indexing = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "A refresh leaves the mark saying the index is whole on from the first file it writes to the last.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "A refresh that stopped part way leaves an index every reader still reads.",
     },
   ],

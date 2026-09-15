@@ -5,7 +5,6 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { refreshedWhole } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import { shapesAmong } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
-import { BUILT_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
@@ -98,7 +97,7 @@ export function put(tree: string, at: string, body: string): string {
 }
 
 export function butTheStamp(found: readonly string[]): readonly string[] {
-  const stamped = ["/stamp.jsonl ", `/${BUILT_AT} `]
+  const stamped = ["/stamp.jsonl "]
   return found.filter((one) => !stamped.some((at) => one.startsWith(at)))
 }
 

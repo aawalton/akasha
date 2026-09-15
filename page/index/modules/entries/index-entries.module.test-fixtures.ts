@@ -5,7 +5,6 @@ import type {
   UncommittedBy,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { lineFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import {
   claimsOf,
   type IsThere,
@@ -258,7 +257,6 @@ export function declaring(
   shapesBeside(index, repo, kept, (path, body) => {
     appendFileSync(path, body, "utf8")
   })
-  keepBuilt(index)
 }
 
 function manifest(slug: string, fileName: string): Value {

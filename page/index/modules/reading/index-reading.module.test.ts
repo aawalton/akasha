@@ -1,6 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { rmSync } from "node:fs"
-import { join } from "node:path"
 import {
   idFiled,
   listedFiled,
@@ -24,11 +22,7 @@ import {
   scopedFiled,
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import {
-  BUILT_AT,
-  indexAt,
-  indexIn,
-} from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { indexAt, indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { bodyOf } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
@@ -148,14 +142,6 @@ test("every reader is refused where the index stands nowhere, whatever it was as
   const root = rootAt()
 
   expect(() => listedById(root, A)).toThrow(indexNamed())
-  expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
-})
-
-test("every reader is refused where the first build of the index never finished", () => {
-  const root = rootAt()
-  idFiled(root, A, [{ path: "akasha/a.module.ts", id: A }])
-  rmSync(join(indexIn(root), BUILT_AT))
-
   expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
 })
 

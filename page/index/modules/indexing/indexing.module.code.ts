@@ -12,7 +12,6 @@ import {
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
   type Drift,
-  keepBuilt,
   keepDelta,
   keepWhole,
   type Laid,
@@ -170,7 +169,6 @@ export function refreshedFrom(
   const stale = referencesStale(references, tree, repo, put)
   const every = [...identity, ...edge, ...imported]
   const went = [...takenAway(every, root, put, done), ...stale]
-  if (put) keepBuilt(root)
   return {
     pages: held.length,
     entries: identity.length + edge.length + imported.length,

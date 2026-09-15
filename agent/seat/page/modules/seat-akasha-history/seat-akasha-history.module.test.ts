@@ -22,8 +22,6 @@ const SEATS_AT = "held/chairs/seats"
 
 const SEATS_BEFORE = "seat-system/seat/pages"
 
-const BUILT_AT = indexAt(".built")
-
 const SEAT_FILED_AT = indexAt("identity", "page-type", "page-type", "slug", "seat.jsonl")
 
 function put(root: string, path: string, body: string): undefined {
@@ -64,7 +62,6 @@ function repoMade(): string {
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
-  put(root, BUILT_AT, "the index this sits in is whole\n")
   put(root, SEAT_FILED_AT, `${JSON.stringify({ path: TYPE_AT, id: "held" })}\n`)
   put(root, TYPE_AT, TYPE)
   landed(root, 1000)

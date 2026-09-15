@@ -15,7 +15,6 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { refreshedFrom } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
-import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { claimantIn } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
   listedById,
@@ -63,7 +62,6 @@ function under(root: string, at: string): string {
 function making(root: string, at: string): string {
   const path = under(root, at)
   mkdirSync(dirname(path), { recursive: true })
-  keepBuilt(indexIn(root))
   return path
 }
 
@@ -86,7 +84,6 @@ function unreadable(root: string, at: string): undefined {
 
 function foldering(root: string, at: string): undefined {
   mkdirSync(under(root, at), { recursive: true })
-  keepBuilt(indexIn(root))
 }
 
 function taking(root: string, at: string): undefined {

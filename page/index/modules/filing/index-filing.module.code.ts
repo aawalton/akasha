@@ -2,7 +2,6 @@ import { appendFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } fr
 import { dirname, join } from "node:path"
 import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
-import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -44,7 +43,6 @@ function filed(root: string, at: string, lines: readonly unknown[], writing: Wri
   const path = join(indexIn(root), `${at}${ENDING}`)
   mkdirSync(dirname(path), { recursive: true })
   writing(path, bodyOf(lines))
-  keepBuilt(indexIn(root))
 }
 
 function written(root: string, at: string, lines: readonly unknown[]): undefined {
@@ -227,5 +225,4 @@ export function lineFiled(root: string, at: string, line: string): undefined {
   const path = join(root, at)
   mkdirSync(dirname(path), { recursive: true })
   writeFileSync(path, `${line}\n`)
-  keepBuilt(root)
 }

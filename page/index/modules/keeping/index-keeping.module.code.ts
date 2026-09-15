@@ -2,11 +2,7 @@ import { existsSync, mkdirSync, renameSync, rmdirSync, rmSync, writeFileSync } f
 import { dirname, join } from "node:path"
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import type { Filing, Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import {
-  BUILT_AT,
-  BUILT_SAID,
-  indexAt,
-} from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { indexAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { walkedUnder } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
 import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
@@ -138,13 +134,6 @@ export function reconcile(
   return { added: added.sort(), changed: changed.sort() }
 }
 
-export function keepBuilt(root: string): undefined {
-  mkdirSync(root, { recursive: true })
-  const near = join(root, `${BUILT_AT}.${process.pid}.part`)
-  writeFileSync(near, BUILT_SAID)
-  renameSync(near, join(root, BUILT_AT))
-}
-
 export function takenAway(
   entries: readonly Entry[],
   root: string,
@@ -157,7 +146,7 @@ export function takenAway(
   let took = 0
   for (const one of existsSync(root) ? walkedUnder(root, () => true) : []) {
     const at = one.slice(root.length + 1)
-    if (at === BUILT_AT || wanted.has(at)) continue
+    if (wanted.has(at)) continue
     went.push(at)
     if (!put) continue
     done[where] = stageSaid(TAKING_AWAY, TAKEN_AWAY, took, at)

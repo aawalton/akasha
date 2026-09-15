@@ -7,7 +7,6 @@ export const indexKeeping = {
   definition: "the index reconciled against what the pages say, file by file",
   code: "ts",
   test: "ts",
-  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
@@ -128,22 +127,6 @@ export const indexKeeping = {
       statement: "A repair writing no file names nothing there.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "A mark at the top of an index says that index is whole.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "That mark goes on once everything the pages no longer imply has been taken away.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "That mark is the one path under an index no entry names and a repair keeps.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A file the pages no longer imply is taken away while that mark stays on.",
-    },
-    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here decides whether a refresh should run.",
     },
@@ -153,7 +136,7 @@ export const indexKeeping = {
     },
     {
       invariantKind: "invariant-kind/absence",
-      statement: "Nothing here takes that mark off an index.",
+      statement: "No mark says an index is whole, and nothing here writes one.",
     },
   ],
 } as const satisfies Module

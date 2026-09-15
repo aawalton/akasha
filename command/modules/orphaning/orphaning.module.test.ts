@@ -10,7 +10,6 @@ import { rowsIn } from "akasha/command/modules/landing/landing.module.test-fixtu
 import { TOGETHER } from "akasha/command/modules/orphaning/orphaning.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
@@ -56,7 +55,7 @@ async function setUp(): Promise<string> {
   pageTyped(root)
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", "first"])
-  keepBuilt(indexIn(root))
+  mkdirSync(indexIn(root), { recursive: true })
   listedFiled(root, modulePage.type, modulePage.slug, [{ path: TYPE_AT, id: modulePage.id }])
   const put = await landing(
     root,

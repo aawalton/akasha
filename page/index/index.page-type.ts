@@ -206,17 +206,12 @@ export const index = {
       statement: "A question answered once over one reading is held rather than worked out again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "An index says whether it is whole, in a mark at the top of that index.",
+      invariantKind: "invariant-kind/absence",
+      statement: "No reader asks whether an index is whole before reading that index.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "An index saying nothing is an index that is missing, however much sits under it.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "A refresh leaves that mark on, so a reader reading while a refresh runs is answered.",
+      statement: "An index is read while a refresh writes that index.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -225,8 +220,7 @@ export const index = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "A refresh takes away every path under the index that the pages do not imply, but for that mark.",
+      statement: "A refresh takes away every path under the index that the pages do not imply.",
     },
     {
       invariantKind: "invariant-kind/departure",

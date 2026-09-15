@@ -20,7 +20,6 @@ import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { refreshedFrom } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
-import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { shapesAmong } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { everythingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
@@ -56,7 +55,7 @@ function seededAt(root: string, named: Readonly<Record<string, string | Uint8Arr
   }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
-  keepBuilt(indexIn(root))
+  mkdirSync(indexIn(root), { recursive: true })
   return root
 }
 

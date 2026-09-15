@@ -11,7 +11,6 @@ import {
   A_WITH_CODE,
   aFileHeldNotLoaded,
   aRefreshBlocked,
-  aRefreshedWorld,
   aSettleWithNoUnique,
   aSource,
   aTarget,
@@ -51,7 +50,6 @@ import {
   wrotePages,
   wroteText,
 } from "akasha/page/index/modules/indexing/indexing.module.test-fixtures.ts"
-import { builtThere } from "akasha/page/index/modules/keeping/index-keeping.module.test-fixtures.ts"
 import {
   aProperty,
   aType,
@@ -324,14 +322,10 @@ test("a unique kind respelled to the scope it already named files nothing for a 
   expect(untouchedAfter("page-type")).toBe(true)
 })
 
-test("a refresh that ran through leaves the index saying it is whole", () => {
-  expect(builtThere(aRefreshedWorld().root)).toBe(true)
-})
-
-test("a refresh that stopped part way leaves the index saying it is whole still", () => {
+test("a refresh that stopped part way leaves an index every reader still reads", () => {
   const { tree, root } = aRefreshBlocked()
 
   expect(() => refreshedFrom(tree, root, tree)).toThrow()
 
-  expect(builtThere(root)).toBe(true)
+  expect(existsSync(idFile(root, A))).toBe(true)
 })
