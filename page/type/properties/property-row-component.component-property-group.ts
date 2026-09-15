@@ -5,7 +5,7 @@ export type PropertyRowComponent = ComponentPropertyGroupStated
 
 export const propertyRowComponent = {
   id: "01a09c8e-de72-7605-a886-1f7e855a63dc",
-  type: "component-property-group",
+  type: "page-type/component-property-group",
   slug: "property-row-component",
   propertySlug: "property-row-component",
   definition:
