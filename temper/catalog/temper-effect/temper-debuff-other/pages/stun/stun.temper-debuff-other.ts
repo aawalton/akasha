@@ -2,7 +2,7 @@ import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effect/temp
 
 export const stun = {
   id: "01a05fc6-42ca-7e93-b928-e3b3aa3cbb42",
-  type: "temper-debuff-other",
+  type: "page-type/temper-debuff-other",
   slug: "stun",
   title: "Stun",
   key: "stun",

@@ -2,7 +2,7 @@ import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effect/temp
 
 export const chilled = {
   id: "01a05fc6-42c6-745f-bbf7-30d7a512a5aa",
-  type: "temper-debuff-other",
+  type: "page-type/temper-debuff-other",
   slug: "chilled",
   title: "Chilled",
   key: "chilled",

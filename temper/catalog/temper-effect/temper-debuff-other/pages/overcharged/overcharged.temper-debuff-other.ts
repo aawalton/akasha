@@ -2,7 +2,7 @@ import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effect/temp
 
 export const overcharged = {
   id: "01a05fc6-42c9-7a91-b98c-6d2ae95129b5",
-  type: "temper-debuff-other",
+  type: "page-type/temper-debuff-other",
   slug: "overcharged",
   title: "Overcharged",
   key: "overcharged",

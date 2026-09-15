@@ -2,7 +2,7 @@ import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effect/temp
 
 export const sundered = {
   id: "01a05fc6-42ca-742d-913c-2ad03d8d5bbc",
-  type: "temper-debuff-other",
+  type: "page-type/temper-debuff-other",
   slug: "sundered",
   title: "Sundered",
   key: "sundered",

@@ -2,7 +2,7 @@ import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effect/temp
 
 export const fear = {
   id: "01a05fc6-42c8-72c5-af3c-e4d6d6faa057",
-  type: "temper-debuff-other",
+  type: "page-type/temper-debuff-other",
   slug: "fear",
   title: "Fear",
   key: "fear",

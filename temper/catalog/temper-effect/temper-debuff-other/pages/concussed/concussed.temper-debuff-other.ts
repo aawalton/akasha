@@ -2,7 +2,7 @@ import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effect/temp
 
 export const concussed = {
   id: "01a05fc6-42c7-73da-830f-9717c9e35d8f",
-  type: "temper-debuff-other",
+  type: "page-type/temper-debuff-other",
   slug: "concussed",
   title: "Concussed",
   key: "concussed",

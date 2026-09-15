@@ -2,7 +2,7 @@ import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effect/temp
 
 export const disorient = {
   id: "01a05fc6-42c8-74d8-adff-dd9f8b368393",
-  type: "temper-debuff-other",
+  type: "page-type/temper-debuff-other",
   slug: "disorient",
   title: "Disorient",
   key: "disorient",

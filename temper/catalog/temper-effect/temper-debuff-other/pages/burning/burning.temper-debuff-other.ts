@@ -2,7 +2,7 @@ import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effect/temp
 
 export const burning = {
   id: "01a05fc6-42c6-72d6-9960-22ff2b7c8456",
-  type: "temper-debuff-other",
+  type: "page-type/temper-debuff-other",
   slug: "burning",
   title: "Burning",
   key: "burning",

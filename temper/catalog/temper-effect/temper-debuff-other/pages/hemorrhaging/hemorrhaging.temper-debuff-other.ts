@@ -2,7 +2,7 @@ import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effect/temp
 
 export const hemorrhaging = {
   id: "01a05fc6-42c8-7451-a9be-d96df440db24",
-  type: "temper-debuff-other",
+  type: "page-type/temper-debuff-other",
   slug: "hemorrhaging",
   title: "Hemorrhaging",
   key: "hemorrhaging",
