@@ -3,4 +3,4 @@
 {"propertySlug":"import","fileName":"descriptor.module.code.ts","path":"temper/capture-sale/modules/sales-descriptor/sales-descriptor.module.code.ts"}
 {"propertySlug":"import","fileName":"descriptor.module.code.ts","path":"temper/capture-writer/modules/capture-writer/capture-writer.module.code.ts"}
 {"propertySlug":"import","fileName":"descriptor.module.code.ts","path":"temper/catalog-core/modules/catalog-descriptor/catalog-descriptor.module.code.ts"}
-{"propertySlug":"parts","path":"temper/capture-descriptor/temper-capture-descriptor.domain.ts","id":"01a06053-3638-7139-bd21-390fdc77e0f0"}
+{"propertySlug":"parts","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}

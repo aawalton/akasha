@@ -9,6 +9,14 @@ export const descriptor = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "The add-on writing a capture and the reader of that capture agree here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reaches the game.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The descriptor states whether a load time is kept.",
     },
     {

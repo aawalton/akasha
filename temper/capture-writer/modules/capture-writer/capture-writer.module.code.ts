@@ -1,13 +1,13 @@
-import type {
-  CaptureDescriptor,
-  PerfSlot,
-} from "akasha/temper/capture-descriptor/modules/descriptor/descriptor.module.code.ts"
 import {
   finishPerfTrace,
   startPerfTrace,
 } from "akasha/temper/capture-perf/modules/perf-trace/perf-trace.module.code.ts"
 import { makeAccountWideSavedVars } from "akasha/temper/capture-writer/modules/account-wide-vars/account-wide-vars.module.code.ts"
 import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
+import type {
+  CaptureDescriptor,
+  PerfSlot,
+} from "akasha/temper/modules/descriptor/descriptor.module.code.ts"
 
 export interface CaptureWriter<T> {
   readonly initializeSavedVariables: (this: void) => T

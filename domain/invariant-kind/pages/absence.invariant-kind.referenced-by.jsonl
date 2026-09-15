@@ -1560,8 +1560,6 @@
 {"propertySlug":"invariant-kind","path":"temper/capture-datamining/modules/datamining-descriptor/datamining-descriptor.module.ts","id":"01a0608a-15b1-7b7c-a207-279aad7165d2"}
 {"propertySlug":"invariant-kind","path":"temper/capture-datamining/modules/datamining-payload/datamining-payload.module.ts","id":"01a0608a-15b1-7c8a-abad-1fed4e8585a6"}
 {"propertySlug":"invariant-kind","path":"temper/capture-datamining/temper-capture-datamining.domain.ts","id":"01a0608a-15b0-78f6-8e8e-282460347005"}
-{"propertySlug":"invariant-kind","path":"temper/capture-descriptor/modules/descriptor/descriptor.module.ts","id":"01a06053-3638-7cb5-b297-d04869965330"}
-{"propertySlug":"invariant-kind","path":"temper/capture-descriptor/temper-capture-descriptor.domain.ts","id":"01a06053-3638-7139-bd21-390fdc77e0f0"}
 {"propertySlug":"invariant-kind","path":"temper/capture-error/modules/errors-descriptor/errors-descriptor.module.ts","id":"01a0608a-15b2-78e5-a967-45a0dec13df1"}
 {"propertySlug":"invariant-kind","path":"temper/capture-error/modules/errors-payload/errors-payload.module.ts","id":"01a0608a-15b2-7682-b22a-9bbc37158e7b"}
 {"propertySlug":"invariant-kind","path":"temper/capture-error/temper-capture-error.domain.ts","id":"01a0608a-15b2-7b81-afe8-cbf9d7803e3f"}
@@ -1783,6 +1781,7 @@
 {"propertySlug":"invariant-kind","path":"temper/lua-runner/modules/lua-protocol/lua-protocol.module.ts","id":"01a06059-2491-7831-9607-9a067a9a884b"}
 {"propertySlug":"invariant-kind","path":"temper/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}
 {"propertySlug":"invariant-kind","path":"temper/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
+{"propertySlug":"invariant-kind","path":"temper/modules/descriptor/descriptor.module.ts","id":"01a06053-3638-7cb5-b297-d04869965330"}
 {"propertySlug":"invariant-kind","path":"temper/navigation-addon/destinations-preview-controls/destinations-preview-controls.type-declaration.ts","id":"01a06269-2b13-7b9c-8e10-1f913f1e6553"}
 {"propertySlug":"invariant-kind","path":"temper/navigation-addon/minimap-string-ids/minimap-string-ids.type-declaration.ts","id":"01a06269-2b15-7ed4-828d-87a96fe2a139"}
 {"propertySlug":"invariant-kind","path":"temper/navigation-addon/modules/minimap-view-types/minimap-view-types.module.ts","id":"01a06269-2b11-7ab4-91ef-f78f20b801bc"}
