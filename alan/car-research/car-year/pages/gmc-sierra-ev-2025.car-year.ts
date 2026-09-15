@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const gmcSierraEv2025 = {
   id: "019e4adf-d39c-7cf6-b342-4ac2d5f94a17",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "gmc-sierra-ev-2025",
   title: "2025",
   modelYear: 2025,

@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const lexusLs2025 = {
   id: "019e4aee-2f47-7422-9c88-8a48c5d324b2",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "lexus-ls-2025",
   title: "2025",
   modelYear: 2025,

@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const lincolnCorsairGrandTouring2025 = {
   id: "019e4ae8-1f5e-775d-8f0e-28cc0bf79f42",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "lincoln-corsair-grand-touring-2025",
   title: "2025",
   modelYear: 2025,

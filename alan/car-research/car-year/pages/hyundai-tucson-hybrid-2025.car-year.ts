@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const hyundaiTucsonHybrid2025 = {
   id: "019e4ae3-24bd-7478-b32a-09c89219bb1f",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "hyundai-tucson-hybrid-2025",
   title: "2025",
   modelYear: 2025,

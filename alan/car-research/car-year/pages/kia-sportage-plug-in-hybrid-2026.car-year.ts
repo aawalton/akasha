@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const kiaSportagePlugInHybrid2026 = {
   id: "019e4aec-0256-7566-8b85-36b844e14e1a",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "kia-sportage-plug-in-hybrid-2026",
   title: "2026",
   modelYear: 2026,

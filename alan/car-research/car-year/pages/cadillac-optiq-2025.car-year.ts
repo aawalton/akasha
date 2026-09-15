@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const cadillacOptiq2025 = {
   id: "019e4ad7-c026-7c2a-9693-8c9690bc2982",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "cadillac-optiq-2025",
   title: "2025",
   modelYear: 2025,

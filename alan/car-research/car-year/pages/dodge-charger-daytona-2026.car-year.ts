@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const dodgeChargerDaytona2026 = {
   id: "019e4ad9-b6f7-7878-a1d9-4fc1cc7211bb",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "dodge-charger-daytona-2026",
   title: "2026",
   modelYear: 2026,

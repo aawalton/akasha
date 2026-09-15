@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const fordMaverickHybrid2026 = {
   id: "019e4adf-57b7-72f3-9fc7-0db2ab207b7c",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "ford-maverick-hybrid-2026",
   title: "2026",
   modelYear: 2026,

@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const kiaNiroHybrid2025 = {
   id: "019e4ae9-0da6-7718-81a5-c33fa6e21a9a",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "kia-niro-hybrid-2025",
   title: "2025",
   modelYear: 2025,

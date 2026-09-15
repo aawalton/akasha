@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const jeepRecon2026 = {
   id: "019e4ae8-4931-7548-80a8-97fc61909526",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "jeep-recon-2026",
   title: "2026",
   modelYear: 2026,

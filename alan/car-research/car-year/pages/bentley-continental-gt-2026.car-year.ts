@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const bentleyContinentalGt2026 = {
   id: "019e4ad7-7775-78c9-8cd4-89c1dafccb6b",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "bentley-continental-gt-2026",
   title: "2026",
   modelYear: 2026,

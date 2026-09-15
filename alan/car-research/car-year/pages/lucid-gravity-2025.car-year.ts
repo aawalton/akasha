@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const lucidGravity2025 = {
   id: "019e4aeb-2124-782f-9ff5-558035973ed4",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "lucid-gravity-2025",
   title: "2025",
   modelYear: 2025,
