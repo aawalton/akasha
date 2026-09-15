@@ -2,7 +2,7 @@ import type { StoryWritten } from "akasha/story/written/story-written.page-type.
 
 export const cornerstone = {
   id: "01a06585-da9a-74f0-a37a-cf7c1bcf0ce9",
-  type: "story-written",
+  type: "page-type/story-written",
   slug: "cornerstone",
   title: "Cornerstone",
   world: "world/cornerstone",

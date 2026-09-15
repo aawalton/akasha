@@ -2,7 +2,7 @@ import type { StoryWritten } from "akasha/story/written/story-written.page-type.
 
 export const comeHere = {
   id: "01a06585-da9a-7b5a-8188-3addd04a2fd6",
-  type: "story-written",
+  type: "page-type/story-written",
   slug: "come-here",
   title: "Come Here",
   world: "world/personas",

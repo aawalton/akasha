@@ -2,7 +2,7 @@ import type { StoryWritten } from "akasha/story/written/story-written.page-type.
 
 export const towerOfNimue = {
   id: "01a06585-da9a-7ffa-b6f2-63ad88a53417",
-  type: "story-written",
+  type: "page-type/story-written",
   slug: "tower-of-nimue",
   title: "The Tower of Nimue",
   world: "world/tower-of-nimue",
