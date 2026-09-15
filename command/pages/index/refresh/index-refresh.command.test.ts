@@ -286,7 +286,9 @@ test("a path belonging to no index is taken away and named", () => {
 
 test("a refresh that stopped part way names the indexes it wrote and the file it had in hand", () => {
   const root = repoAt()
-  mkdirSync(join(root, indexNamed(), "path", "a.domain.ts.jsonl", "inside"), { recursive: true })
+  mkdirSync(join(root, indexNamed(), "import", "path", "a.domain.ts.jsonl", "inside"), {
+    recursive: true,
+  })
 
   const answer = indexRefresh([], givenAt(root))
 
@@ -295,7 +297,7 @@ test("a refresh that stopped part way names the indexes it wrote and the file it
     "the refresh wrote part of the index before it stopped — run it again"
   )
   expect(answer.refusals[2] ?? "").toMatch(
-    /^what it wrote by then: identity — \d+ files written; path — \d+ files? written, `path\/a\.domain\.ts\.jsonl` in hand$/
+    /^what it wrote by then: identity — \d+ files? written; shapes — \d+ files? written; shapes — \d+ files? written; import — \d+ files? written, `import\/path\/a\.domain\.ts\.jsonl` in hand$/
   )
 })
 
