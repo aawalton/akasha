@@ -16,12 +16,13 @@ import {
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
+import { alanwaltonAtlas } from "akasha/infrastructure/service/cluster/pages/alanwalton-atlas/alanwalton-atlas.service-cluster.ts"
 
-const NAMESPACE = "alanwalton"
+const NAMESPACE = alanwaltonAtlas.namespace
 const SECRET_NAME = "alanwalton-secrets"
 const S3_CREDS_SECRET_NAME = "alanwalton-s3-creds"
 
-const APP_NAME = "atlas"
+const APP_NAME = alanwaltonAtlas.resourceName
 
 const GIT_ACCESS_TOKEN_REF = {
   secretName: SECRET_NAME,
@@ -52,7 +53,7 @@ function deploymentYaml(): string {
     kind: "Deployment",
     metadata: { name: APP_NAME, namespace: NAMESPACE, labels },
     spec: {
-      replicas: 1,
+      replicas: alanwaltonAtlas.replicas,
       strategy: {
         type: "RollingUpdate",
         rollingUpdate: { maxSurge: 1, maxUnavailable: 0 },
@@ -85,13 +86,13 @@ function deploymentYaml(): string {
               imagePullPolicy: "IfNotPresent",
               workingDir: orchestratorCacheEntrypointPath("alan/atlas-web"),
               command: ["bun", "run", "server.ts"],
-              ports: [{ containerPort: 3000, protocol: "TCP" }],
+              ports: [{ containerPort: alanwaltonAtlas.containerPort, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],
               env: [
                 { name: "NODE_ENV", value: "production" },
                 { name: "AKASHA_ROOT", value: ORCHESTRATOR_CACHE_REPO_PATH },
                 { name: "HOST", value: "0.0.0.0" },
-                { name: "PORT", value: "3000" },
+                { name: "PORT", value: `${alanwaltonAtlas.containerPort}` },
                 { name: "PAGE_WRITER", value: "atlas-web" },
                 { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
                 { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".alanwalton.com" },
@@ -130,14 +131,14 @@ function deploymentYaml(): string {
                 capabilities: { drop: ["ALL"] },
               },
               livenessProbe: {
-                httpGet: { path: "/api/health", port: 3000 },
+                httpGet: { path: "/api/health", port: alanwaltonAtlas.containerPort },
                 initialDelaySeconds: 15,
                 periodSeconds: 10,
                 failureThreshold: 6,
                 timeoutSeconds: 5,
               },
               readinessProbe: {
-                httpGet: { path: "/api/health", port: 3000 },
+                httpGet: { path: "/api/health", port: alanwaltonAtlas.containerPort },
                 initialDelaySeconds: 5,
                 periodSeconds: 5,
                 failureThreshold: 12,
@@ -165,7 +166,13 @@ function serviceYaml(): string {
     spec: {
       type: "ClusterIP",
       selector: selectorLabels(),
-      ports: [{ port: 3000, targetPort: 3000, protocol: "TCP" }],
+      ports: [
+        {
+          port: alanwaltonAtlas.containerPort,
+          targetPort: alanwaltonAtlas.containerPort,
+          protocol: "TCP",
+        },
+      ],
     },
   })
 }
