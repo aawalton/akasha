@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy0034Chapter32Weak = {
   id: "01a06730-4dde-7f28-b0f8-db3fab1b7b42",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0034-chapter-32-weak",
   title: "Chapter 32: Weak",
   story: "story-read/quiet-life-of-the-mute-archmage-op-archmage-academy",

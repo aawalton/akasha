@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy0033Chapter31TheDescent = {
   id: "01a06730-4ddd-79ef-ad58-099237c9a206",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0033-chapter-31-the-descent",
   title: "Chapter 31: The Descent",
   story: "story-read/quiet-life-of-the-mute-archmage-op-archmage-academy",

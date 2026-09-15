@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0090Chapter566TheCelestialInkDragon = {
   id: "01a06730-4ded-7283-a9a7-26f8c85c0e59",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0090-chapter-566-the-celestial-ink-dragon",
   title: "Chapter 566: The Celestial Ink Dragon",
   story: "story-read/reborn-as-a-demonic-tree",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy0008Chapter8HeartShapedBread = {
   id: "01a06730-4dd6-7e0c-8f7e-f457734886ff",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0008-chapter-8-heart-shaped-bread",
   title: "Chapter 8: Heart Shaped Bread",
   story: "story-read/quiet-life-of-the-mute-archmage-op-archmage-academy",

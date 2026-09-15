@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0086Chapter562TheTessellatePatriarch = {
   id: "01a06730-4deb-7433-a894-4e2b375993ba",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0086-chapter-562-the-tessellate-patriarch",
   title: "Chapter 562: The Tessellate Patriarch",
   story: "story-read/reborn-as-a-demonic-tree",

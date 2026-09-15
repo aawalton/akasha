@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0054Chapter532PrimordialForceOfAbsorption = {
   id: "01a06730-4ddf-7545-84f0-0d7ceadfa1f4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0054-chapter-532-primordial-force-of-absorption",
   title: "Chapter 532: Primordial Force of Absorption",
   story: "story-read/reborn-as-a-demonic-tree",

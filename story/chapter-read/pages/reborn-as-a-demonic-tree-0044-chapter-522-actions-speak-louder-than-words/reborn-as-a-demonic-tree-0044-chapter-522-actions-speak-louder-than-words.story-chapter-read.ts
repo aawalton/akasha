@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0044Chapter522ActionsSpeakLouderThanWords = {
   id: "01a06730-4dd8-70aa-affa-bfa6f1050e0e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0044-chapter-522-actions-speak-louder-than-words",
   title: "Chapter 522: Actions Speak Louder Than Words",
   story: "story-read/reborn-as-a-demonic-tree",

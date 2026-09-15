@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0132Chapter608AshboundOrder = {
   id: "01a06730-4e02-7387-af5a-46c1ba800647",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0132-chapter-608-ashbound-order",
   title: "Chapter 608: Ashbound Order",
   story: "story-read/reborn-as-a-demonic-tree",

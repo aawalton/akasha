@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const ratGirlEvolutionLabRatToUnrivaled00044InTooDeep = {
   id: "01a06730-4dce-7f36-99ff-e6071c4adbff",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0004-4-in-too-deep",
   title: "4: In Too Deep",
   story: "story-read/rat-girl-evolution-lab-rat-to-unrivaled",

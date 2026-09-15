@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy0006Chapter6GrandWyvernSDescent = {
   id: "01a06730-4dd5-7308-831c-b05a08c94fc2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0006-chapter-6-grand-wyvern-s-descent",
   title: "Chapter 6: Grand Wyvern's Descent",
   story: "story-read/quiet-life-of-the-mute-archmage-op-archmage-academy",

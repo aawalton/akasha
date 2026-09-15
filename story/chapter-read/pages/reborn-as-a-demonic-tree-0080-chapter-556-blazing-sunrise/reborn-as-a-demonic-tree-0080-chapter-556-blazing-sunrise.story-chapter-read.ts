@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0080Chapter556BlazingSunrise = {
   id: "01a06730-4dea-7331-bbab-5938d0e3585a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0080-chapter-556-blazing-sunrise",
   title: "Chapter 556: Blazing Sunrise",
   story: "story-read/reborn-as-a-demonic-tree",

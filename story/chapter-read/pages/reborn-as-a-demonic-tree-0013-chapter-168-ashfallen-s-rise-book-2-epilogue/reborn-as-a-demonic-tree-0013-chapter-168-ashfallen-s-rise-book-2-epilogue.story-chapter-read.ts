@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0013Chapter168AshfallenSRiseBook2Epilogue = {
   id: "01a06730-4dc5-7b03-912d-a8dff9255480",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0013-chapter-168-ashfallen-s-rise-book-2-epilogue",
   title: "Chapter 168: Ashfallen's rise [Book 2 Epilogue]",
   story: "story-read/reborn-as-a-demonic-tree",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0026Chapter408InterludeConversingWithAGodTreeStartOfBo = {
   id: "01a06730-4dcc-778b-bcc8-d50994e5de1d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0026-chapter-408-interlude-conversing-with-a-god-tree-start-of-bo",
   title: "Chapter 408: (Interlude) Conversing with a God Tree (Start of Book 7)",
   story: "story-read/reborn-as-a-demonic-tree",

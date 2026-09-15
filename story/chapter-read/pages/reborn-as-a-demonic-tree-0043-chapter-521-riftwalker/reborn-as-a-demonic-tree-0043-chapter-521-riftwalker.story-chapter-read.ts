@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0043Chapter521Riftwalker = {
   id: "01a06730-4dd7-7c28-add0-9f054ac26789",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0043-chapter-521-riftwalker",
   title: "Chapter 521: Riftwalker",
   story: "story-read/reborn-as-a-demonic-tree",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const ratGirlEvolutionLabRatToUnrivaled00077FueledByFlame = {
   id: "01a06730-4dce-7598-b4bf-72e3a63ae2b5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0007-7-fueled-by-flame",
   title: "7: Fueled by Flame",
   story: "story-read/rat-girl-evolution-lab-rat-to-unrivaled",

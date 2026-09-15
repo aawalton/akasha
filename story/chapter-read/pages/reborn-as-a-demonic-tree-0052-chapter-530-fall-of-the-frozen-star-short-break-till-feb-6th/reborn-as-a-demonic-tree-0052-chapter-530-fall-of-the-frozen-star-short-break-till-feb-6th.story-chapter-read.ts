@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0052Chapter530FallOfTheFrozenStarShortBreakTillFeb6th = {
   id: "01a06730-4dde-7c74-a98b-b9f3883a385f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0052-chapter-530-fall-of-the-frozen-star-short-break-till-feb-6th",
   title: "Chapter 530: Fall of the Frozen Star + short break till Feb 6th",
   story: "story-read/reborn-as-a-demonic-tree",

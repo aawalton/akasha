@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0007Chapter6SnacksBeforeWinter = {
   id: "01a06730-4dc4-78e6-a2cc-5ac988a217c4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0007-chapter-6-snacks-before-winter",
   title: "Chapter 6: Snacks Before Winter",
   story: "story-read/reborn-as-a-demonic-tree",

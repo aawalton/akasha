@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy0012WeEnteredTheFrontPageOfRisingStars = {
   id: "01a06730-4dd7-78e4-aedd-86e5c7b6f152",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0012-we-entered-the-front-page-of-rising-stars",
   title: "We entered the front page of Rising Stars in just five days! Thank you very much!!",
   story: "story-read/quiet-life-of-the-mute-archmage-op-archmage-academy",

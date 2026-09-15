@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0119Chapter595StrengthsAndWeaknesses = {
   id: "01a06730-4df7-7c4c-8082-0a71f9dd23f9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0119-chapter-595-strengths-and-weaknesses",
   title: "Chapter 595: Strengths and Weaknesses",
   story: "story-read/reborn-as-a-demonic-tree",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0031Chapter461MeetingDragonsBook8Start = {
   id: "01a06730-4dd2-7949-9866-4318be0eec2d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0031-chapter-461-meeting-dragons-book-8-start",
   title: "Chapter 461: Meeting Dragons (Book 8 Start)",
   story: "story-read/reborn-as-a-demonic-tree",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0004Chapter3AuraOfFear = {
   id: "01a06730-4dc4-7b4f-a73a-a02b8829cca7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0004-chapter-3-aura-of-fear",
   title: "Chapter 3: Aura of Fear",
   story: "story-read/reborn-as-a-demonic-tree",

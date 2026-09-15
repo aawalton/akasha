@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const ratGirlEvolutionLabRatToUnrivaled001010CleanBreaks = {
   id: "01a06730-4dcf-75cd-8c15-8d32a0f7d327",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0010-10-clean-breaks",
   title: "10: Clean Breaks",
   story: "story-read/rat-girl-evolution-lab-rat-to-unrivaled",

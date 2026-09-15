@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0169Chapter169YoNaIsNotHappy = {
   id: "01a06730-4e04-7bdb-ab5d-d32e4b5d0df7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0169-chapter-169-yo-na-is-not-happy",
   title: "Chapter 169: Yo Na is not happy",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

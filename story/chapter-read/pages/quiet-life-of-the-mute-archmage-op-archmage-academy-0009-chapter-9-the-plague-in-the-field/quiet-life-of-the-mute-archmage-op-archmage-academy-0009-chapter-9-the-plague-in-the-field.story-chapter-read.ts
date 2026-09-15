@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy0009Chapter9ThePlagueInTheField = {
   id: "01a06730-4dd6-706e-8697-7e307dc1aa8a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0009-chapter-9-the-plague-in-the-field",
   title: "Chapter 9: The Plague In The Field",
   story: "story-read/quiet-life-of-the-mute-archmage-op-archmage-academy",

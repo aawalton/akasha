@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const rebornAsADemonicTree0113Chapter589FleetCommander = {
   id: "01a06730-4df5-7f48-a07f-cf85338adf0c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0113-chapter-589-fleet-commander",
   title: "Chapter 589: Fleet Commander",
   story: "story-read/reborn-as-a-demonic-tree",
