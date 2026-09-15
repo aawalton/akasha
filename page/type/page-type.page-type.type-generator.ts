@@ -9,6 +9,7 @@ import {
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { slugsIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { bodyOf, schemaAt } from "akasha/page/type/modules/type-schema/type-schema.module.code.ts"
 import { turnedBy } from "akasha/page/type/modules/type-turning/type-turning.module.code.ts"
 
 const PAGE_TYPE = "page-type"
@@ -16,6 +17,10 @@ const PAGE_TYPE = "page-type"
 const SECTION = "types"
 
 const HOLDS = "ts"
+
+const SCHEMA = "schema"
+
+const LINES = "jsonl"
 
 const SLUG = "slug"
 
@@ -174,23 +179,46 @@ export function couldTurn(change: Change): boolean {
   return turnedBy(change)
 }
 
+function typedInto(
+  written: Adding[],
+  shadow: Shadow,
+  path: string,
+  value: Record<string, unknown>,
+  slug: string,
+  resolving: (named: string) => Shape | null
+): undefined {
+  if (value[SECTION] !== HOLDS) return
+  const at = typesAtOf(path)
+  if (at === null) return
+  const parents = parentsFor(shadow, value)
+  const keys = keysFor(shadow, value, resolving)
+  written.push({ kind: "add", path: at, content: bodyFor(slug, parents, keys) })
+}
+
+function schemaInto(
+  written: Adding[],
+  shadow: Shadow,
+  path: string,
+  value: Record<string, unknown>,
+  slug: string
+): undefined {
+  if (value[SCHEMA] !== LINES) return
+  const at = schemaAt(path)
+  if (at === null) return
+  const carried = shadow.index.propertiesIfNamed(slug) ?? []
+  written.push({ kind: "add", path: at, content: bodyOf(carried, shadow.index.shapesAt()) })
+}
+
 export function generateTypes(_root: string, shadow: Shadow): readonly Adding[] {
   const written: Adding[] = []
   const resolving = resolvingIn(shadow)
   for (const listed of shadow.index.everyOfType(PAGE_TYPE)) {
     const value = shadow.pageOf(listed.path)
-    if (value === null || value[SECTION] !== HOLDS) continue
+    if (value === null) continue
     const slug = value[SLUG]
     if (typeof slug !== "string") continue
-    const at = typesAtOf(listed.path)
-    if (at === null) continue
-    const parents = parentsFor(shadow, value)
-    const keys = keysFor(shadow, value, resolving)
-    written.push({
-      kind: "add",
-      path: at,
-      content: bodyFor(slug, parents, keys),
-    })
+    typedInto(written, shadow, listed.path, value, slug, resolving)
+    schemaInto(written, shadow, listed.path, value, slug)
   }
   return written
 }
