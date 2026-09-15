@@ -1,9 +1,7 @@
 import { expect, test } from "bun:test"
 import {
-  APPEND_AT as APPENDS,
   ASK_AT as ASKS,
   ATTEMPTS,
-  appendingFor,
   askingFor,
   backoffFor,
   bytesSaid,
@@ -18,7 +16,6 @@ import {
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
-  APPEND_AT,
   ASK_AT,
   FILE_AT,
   READ_AT,
@@ -232,45 +229,4 @@ test("a file answered badly on the way is asked for again", async () => {
 
 test("the path a file is called at is the path the service answers a file at", () => {
   expect(FILES).toBe(FILE_AT)
-})
-
-const AN_APPEND = { path: "akasha/a-page.module.ts", lines: ["{}"] }
-
-const LANDED_IN = "akasha/a-page.module.entries.uncommitted.jsonl"
-
-test("the path an append is called at is the path the service answers an append at", () => {
-  expect(APPENDS).toBe(APPEND_AT)
-})
-
-test("an append hands over its lines and carries back the file part they landed in", async () => {
-  let sent = ""
-  const said = await appendingFor(
-    AN_APPEND,
-    (_url, init) => {
-      sent = String(init.body)
-      return Promise.resolve(new Response(JSON.stringify({ appended: LANDED_IN })))
-    },
-    neverNaps
-  )
-  expect(JSON.parse(sent).lines).toEqual(["{}"])
-  expect("appended" in said && said.appended).toBe(LANDED_IN)
-})
-
-test("an append the service refuses for its own reasons is not tried again", async () => {
-  const held = counting(answering(400, { refused: "`akasha/a-page.module.ts` names no page here" }))
-  const said = await appendingFor(AN_APPEND, held.fetcher, neverNaps)
-  expect("refused" in said && said.refused).toContain("names no page here")
-  expect(held.spent()).toBe(1)
-})
-
-test("an append that answers nothing is tried again and refused rather than thrown", async () => {
-  const held = counting(() => Promise.reject(new Error("nothing came back")))
-  const said = await appendingFor(AN_APPEND, held.fetcher, neverNaps)
-  expect(held.spent()).toBe(ATTEMPTS)
-  expect("refused" in said && said.refused).toContain(`${ATTEMPTS} attempts`)
-})
-
-test("an append answered naming no file part is refused rather than read on", async () => {
-  const said = await appendingFor(AN_APPEND, answering(200, { held: 1 }), neverNaps)
-  expect("refused" in said && said.refused).toContain("naming no file part")
 })

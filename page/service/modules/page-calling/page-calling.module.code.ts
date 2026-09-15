@@ -1,8 +1,4 @@
 import type {
-  Appended,
-  Appending,
-} from "akasha/page/service/modules/page-appending/page-appending.module.code.ts"
-import type {
   Query,
   Row,
   Asked as Rows,
@@ -29,8 +25,6 @@ const SHAPE_AT = "/shape"
 
 export const FILE_AT = "/file"
 
-export const APPEND_AT = "/append"
-
 const ORIGIN_NAMES: readonly string[] = ["PAGES_SERVICE_ORIGIN", "PAGE_STORE_ORIGIN"]
 
 const OVER_THE_TAILNET = "http://page-store.page-store.svc.cluster.local:8787"
@@ -42,8 +36,6 @@ const ASK_CEILING_MS = 5000
 const WRITE_CEILING_MS = 30000
 
 const FILE_CEILING_MS = 15000
-
-const APPEND_CEILING_MS = 15000
 
 export const ATTEMPTS = 6
 
@@ -270,18 +262,4 @@ export async function writingFor(
     return { refused: "the pages answered a write saying nothing about what it wrote" }
   }
   return held.said as Wrote
-}
-
-export async function appendingFor(
-  asked: Appending,
-  fetcher: Fetcher = fetchThrough,
-  naps: Sleeper = sleep
-): Promise<Appended> {
-  const held = await sentTo(APPEND_AT, asked, APPEND_CEILING_MS, fetcher, naps)
-  if ("refused" in held) return held
-  const said = objectIn(held.said)
-  if (said === null || typeof said.appended !== "string") {
-    return { refused: "the pages answered an append naming no file part" }
-  }
-  return { appended: said.appended }
 }
