@@ -5,7 +5,7 @@ export const eso = {
   type: "domain",
   slug: "eso",
   definition: "Alan's play of The Elder Scrolls Online",
-  parts: ["domain/eso-wallpapers"],
+  parts: ["domain/eso-wallpaper"],
   invariants: [
     {
       invariantKind: "gap",

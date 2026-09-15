@@ -441,8 +441,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/great-courses/modules/sync/sync.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/royal-road/modules/pages/royal-road-pages.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/eso/wallpapers/modules/eso-wallpaper-crop/eso-wallpaper-crop.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/eso/wallpapers/modules/eso-wallpaper-download/eso-wallpaper-download.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/eso/wallpaper/modules/crop/eso-wallpaper-crop.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/eso/wallpaper/modules/download/eso-wallpaper-download.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/google/calendar/modules/calendar-auth/calendar-auth.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/google/calendar/modules/calendar-client/calendar-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/google/calendar/modules/calendar-credentials/calendar-credentials.module.ts"}

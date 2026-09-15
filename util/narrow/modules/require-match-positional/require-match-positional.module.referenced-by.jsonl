@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"alan/chess/modules/uci/chess-uci.module.code.ts"}
-{"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"alan/eso/wallpapers/modules/eso-wallpaper-crop/eso-wallpaper-crop.module.code.ts"}
-{"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"alan/eso/wallpapers/modules/eso-wallpaper-download/eso-wallpaper-download.module.code.ts"}
+{"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"alan/eso/wallpaper/modules/crop/eso-wallpaper-crop.module.code.ts"}
+{"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"alan/eso/wallpaper/modules/download/eso-wallpaper-download.module.code.ts"}
 {"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"alan/google/drive/modules/drive-files/drive-files.module.code.ts"}
 {"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"alan/harness/mobile-cli/modules/altool/altool.module.code.ts"}
 {"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.code.ts"}
