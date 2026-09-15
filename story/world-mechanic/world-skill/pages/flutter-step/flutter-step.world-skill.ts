@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const flutterStep = {
   id: "01a06575-980f-7bbb-984e-9e72974dd099",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "flutter-step",
   title: "Flutter Step",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const flurryOfMotion = {
   id: "01a06575-980f-7862-9542-1d3b2f5261e3",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "flurry-of-motion",
   title: "Flurry of Motion",
   world: "world/the-wandering-inn",

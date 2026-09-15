@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const flashMemorizationLiterature = {
   id: "01a06575-980d-71a4-b1c6-874fd419a57a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "flash-memorization-literature",
   title: "Flash Memorization: Literature",
   world: "world/the-wandering-inn",

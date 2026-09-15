@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const fluffedFur = {
   id: "01a06575-980f-7f08-b2bc-46a24591dd03",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "fluffed-fur",
   title: "Fluffed Fur",
   world: "world/the-wandering-inn",

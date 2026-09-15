@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const forEverySoulIEntertainGoodwillRemains = {
   id: "01a06575-980f-7b0a-86cb-ae5deaca3bcd",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "for-every-soul-i-entertain-goodwill-remains",
   title: "For Every Soul I Entertain, Goodwill Remains",
   world: "world/the-wandering-inn",

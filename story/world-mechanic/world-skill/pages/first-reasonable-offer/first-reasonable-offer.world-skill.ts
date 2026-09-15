@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const firstReasonableOffer = {
   id: "01a06575-980d-755c-9b6a-7d91a829352e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "first-reasonable-offer",
   title: "First Reasonable Offer",
   world: "world/the-wandering-inn",

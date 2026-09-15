@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const flawlessCut = {
   id: "01a06575-980e-7372-a513-36beb9785876",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "flawless-cut",
   title: "Flawless Cut",
   world: "world/the-wandering-inn",

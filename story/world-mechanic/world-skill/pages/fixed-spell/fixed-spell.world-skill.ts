@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const fixedSpell = {
   id: "01a06575-980d-7d12-9a4b-72ca7e3053a0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "fixed-spell",
   title: "Fixed Spell",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const flagInspiringSight = {
   id: "01a06575-980d-7616-9339-3a54f771c0d6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "flag-inspiring-sight",
   title: "Flag: Inspiring Sight",
   world: "world/the-wandering-inn",

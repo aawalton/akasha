@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const fourGoodLies = {
   id: "01a06575-9810-774e-949d-e8dd1a78862e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "four-good-lies",
   title: "Four Good Lies",
   world: "world/the-wandering-inn",

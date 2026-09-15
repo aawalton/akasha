@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const formationOpulenceGuard = {
   id: "01a06575-9810-7ae5-bdbe-d0b7d2a238fd",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "formation-opulence-guard",
   title: "Formation: Opulence Guard",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const fightYouRats = {
   id: "01a06575-980c-7c35-8ab5-2e005b1a213b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "fight-you-rats",
   title: "Fight, You Rats",
   world: "world/the-wandering-inn",

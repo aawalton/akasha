@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const fasterMixing = {
   id: "01a06575-980c-7f13-8d6c-b0be75025f1e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "faster-mixing",
   title: "Faster Mixing",
   world: "world/the-wandering-inn",

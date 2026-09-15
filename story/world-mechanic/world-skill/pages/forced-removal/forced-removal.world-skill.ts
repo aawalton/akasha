@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const forcedRemoval = {
   id: "01a06575-980f-7358-80b4-03435859ffcc",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "forced-removal",
   title: "Forced Removal",
   world: "world/the-wandering-inn",

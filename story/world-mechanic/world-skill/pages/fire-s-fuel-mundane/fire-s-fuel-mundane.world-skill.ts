@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const fireSFuelMundane = {
   id: "01a06575-980c-75c3-b7d9-02e3584f524d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "fire-s-fuel-mundane",
   title: "Fire’s Fuel (Mundane)",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const fleshToStone = {
   id: "01a06575-980e-7aed-83f8-d57c0b9ef38c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "flesh-to-stone",
   title: "Flesh to Stone",
   world: "world/the-wandering-inn",

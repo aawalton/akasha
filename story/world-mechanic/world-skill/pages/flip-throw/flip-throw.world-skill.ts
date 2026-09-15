@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const flipThrow = {
   id: "01a06575-980e-7cd4-b254-1b3a3234498a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "flip-throw",
   title: "Flip Throw",
   world: "world/the-wandering-inn",

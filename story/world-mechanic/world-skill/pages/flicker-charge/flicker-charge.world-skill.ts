@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const flickerCharge = {
   id: "01a06575-980e-760e-ae84-b8ad3ea0915e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "flicker-charge",
   title: "Flicker Charge",
   world: "world/the-wandering-inn",

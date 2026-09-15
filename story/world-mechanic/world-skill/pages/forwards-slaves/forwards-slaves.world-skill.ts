@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const forwardsSlaves = {
   id: "01a06575-9810-72bd-b6f0-f677fb922c31",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "forwards-slaves",
   title: "Forwards, Slaves",
   world: "world/the-wandering-inn",

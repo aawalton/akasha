@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const fourfoldStrike = {
   id: "01a06575-9810-762e-b75a-3972d628b0d4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "fourfold-strike",
   title: "Fourfold Strike",
   world: "world/the-wandering-inn",

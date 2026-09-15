@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const foeSensor = {
   id: "01a06575-980f-7664-b696-1857754cdd7a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "foe-sensor",
   title: "Foe Sensor",
   world: "world/the-wandering-inn",

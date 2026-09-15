@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const forgedByDeed = {
   id: "01a06575-9810-736f-82be-c98ad0c85b83",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "forged-by-deed",
   title: "Forged By Deed",
   world: "world/the-wandering-inn",

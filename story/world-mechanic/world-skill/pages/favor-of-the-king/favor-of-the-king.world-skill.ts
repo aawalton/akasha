@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const favorOfTheKing = {
   id: "01a06575-980c-7999-8bf9-6939b52043f1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "favor-of-the-king",
   title: "Favor of the King",
   world: "world/the-wandering-inn",

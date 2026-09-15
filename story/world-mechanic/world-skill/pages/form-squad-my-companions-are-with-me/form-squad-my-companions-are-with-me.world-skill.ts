@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const formSquadMyCompanionsAreWithMe = {
   id: "01a06575-9810-7180-9b7e-efebe3f2b76a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "form-squad-my-companions-are-with-me",
   title: "Form Squad: My Companions Are With Me",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const foodDangersense = {
   id: "01a06575-980f-726a-a7d7-7f6a60c676c4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "food-dangersense",
   title: "Food Dangersense",
   world: "world/the-wandering-inn",

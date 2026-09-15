@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const freeAscent50Feet = {
   id: "01a06575-9810-7d7e-814b-76e9fd0be007",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "free-ascent-50-feet",
   title: "Free Ascent: 50 Feet",
   world: "world/the-wandering-inn",

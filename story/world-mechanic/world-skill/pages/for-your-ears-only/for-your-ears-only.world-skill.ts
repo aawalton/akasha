@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const forYourEarsOnly = {
   id: "01a06575-980f-7927-9c8d-187ffcbe5f7a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "for-your-ears-only",
   title: "For Your Ears Only",
   world: "world/the-wandering-inn",

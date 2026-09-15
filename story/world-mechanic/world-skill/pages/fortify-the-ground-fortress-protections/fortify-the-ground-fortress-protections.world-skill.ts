@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const fortifyTheGroundFortressProtections = {
   id: "01a06575-9810-7431-86a9-799125f748a4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "fortify-the-ground-fortress-protections",
   title: "Fortify the Ground: Fortress Protections",
   world: "world/the-wandering-inn",

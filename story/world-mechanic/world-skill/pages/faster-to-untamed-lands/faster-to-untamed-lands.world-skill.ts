@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const fasterToUntamedLands = {
   id: "01a06575-980c-7bbd-9bb1-d0dcb4504c98",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "faster-to-untamed-lands",
   title: "Faster to Untamed Lands",
   world: "world/the-wandering-inn",

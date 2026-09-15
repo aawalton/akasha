@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const flurryOfCuts = {
   id: "01a06575-980f-7149-bbea-e5aa3671590c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "flurry-of-cuts",
   title: "Flurry of Cuts",
   world: "world/the-wandering-inn",

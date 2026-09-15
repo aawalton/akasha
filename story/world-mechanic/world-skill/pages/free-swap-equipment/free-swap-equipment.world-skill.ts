@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const freeSwapEquipment = {
   id: "01a06575-9810-7df3-8119-2523ade6e894",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "free-swap-equipment",
   title: "Free Swap: Equipment",
   world: "world/the-wandering-inn",

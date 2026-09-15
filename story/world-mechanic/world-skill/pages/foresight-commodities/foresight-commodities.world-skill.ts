@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const foresightCommodities = {
   id: "01a06575-9810-7597-97c2-554ade63378d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "foresight-commodities",
   title: "Foresight: Commodities",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const flickerTheft = {
   id: "01a06575-980e-7ecb-b7cc-97a1d3b951f3",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "flicker-theft",
   title: "Flicker Theft",
   world: "world/the-wandering-inn",

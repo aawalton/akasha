@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const ferociousCommand = {
   id: "01a06575-980c-75b2-8da3-7b122bcecaef",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ferocious-command",
   title: "Ferocious Command",
   world: "world/the-wandering-inn",
