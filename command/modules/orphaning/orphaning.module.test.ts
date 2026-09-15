@@ -1,13 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
-import { writeFileSync } from "node:fs"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
+import { module as modulePage } from "akasha/code/module/module.page-type.ts"
 import type { Landed, Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import { rowsIn } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { TOGETHER } from "akasha/command/modules/orphaning/orphaning.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
+import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
@@ -18,23 +20,32 @@ afterAll(scratch.sweep)
 
 const ADMITS: Judging = { named: ["admits"], checksFor: () => ["admits"], over: async () => [] }
 
-const A = "akasha/a.ts"
+const TREE = "akasha"
 
-const B = "akasha/b.ts"
+const TYPE_AT = `${TREE}/module.page-type.ts`
 
-const C = "akasha/c.ts"
+const A = "akasha/a.module.ts"
 
-const X = "akasha/x.ts"
+const B = "akasha/b.module.ts"
 
-const Y = "akasha/y.ts"
+const C = "akasha/c.module.ts"
+
+const X = "akasha/x.module.ts"
+
+const Y = "akasha/y.module.ts"
 
 const HELD = "export const a = 1\n"
 
-const IMPORTS = 'import { a } from "./a.ts"\n\nexport const b = a\n'
+const IMPORTS = 'import { a } from "./a.module.ts"\n\nexport const b = a\n'
 
 const ALONE = "export const b = 1\n"
 
-const AGAIN = 'import { a } from "./c.ts"\n\nexport const b = a\n'
+const AGAIN = 'import { a } from "./c.module.ts"\n\nexport const b = a\n'
+
+function pageTyped(root: string): undefined {
+  mkdirSync(join(root, TREE), { recursive: true })
+  writeFileSync(join(root, TYPE_AT), `export const held = ${JSON.stringify(modulePage, null, 2)}\n`)
+}
 
 async function setUp(): Promise<string> {
   const root = scratch.rootFor("akasha-orphaning-")
@@ -42,16 +53,18 @@ async function setUp(): Promise<string> {
   gitIn(root, ["config", "user.email", "held@nowhere"])
   gitIn(root, ["config", "user.name", "Held"])
   writeFileSync(join(root, "seed.txt"), "held\n")
+  pageTyped(root)
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", "first"])
   keepBuilt(indexIn(root))
+  listedFiled(root, modulePage.type, modulePage.slug, [{ path: TYPE_AT, id: modulePage.id }])
   const put = await landing(
     root,
     rowsIn(root, [
       { path: A, body: bytesOf(HELD) },
       { path: B, body: bytesOf(IMPORTS) },
       { path: X, body: bytesOf("export const x = 1\n") },
-      { path: Y, body: bytesOf('import { x } from "./x.ts"\n\nexport const y = x\n') },
+      { path: Y, body: bytesOf('import { x } from "./x.module.ts"\n\nexport const y = x\n') },
     ]),
     "a and b are there, and so is an edge neither of them makes",
     ADMITS
@@ -91,7 +104,7 @@ test("a path carried away that something still imports is refused", async () => 
     root,
     [
       ...rowsIn(root, [{ path: "seed.txt", body: bytesOf("touched\n") }]),
-      { kind: "move", pathFrom: A, pathTo: "akasha/moved.ts" },
+      { kind: "move", pathFrom: A, pathTo: "akasha/moved.module.ts" },
     ],
     "a is carried off",
     ADMITS

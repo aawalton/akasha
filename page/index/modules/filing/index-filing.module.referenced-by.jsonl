@@ -64,6 +64,7 @@
 {"propertySlug":"import","fileName":"index-filing.module.code.ts","path":"command/modules/change-acting/change-acting.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-filing.module.code.ts","path":"command/modules/change-costing/change-costing.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.module.code.ts","path":"command/modules/cli/cli.module.test.ts"}
+{"propertySlug":"import","fileName":"index-filing.module.code.ts","path":"command/modules/orphaning/orphaning.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.module.code.ts","path":"command/modules/value-minting/value-minting.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
