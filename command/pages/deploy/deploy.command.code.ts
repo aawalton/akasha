@@ -2,7 +2,6 @@ import { costRecorded, opening } from "akasha/check/modules/cost/check-cost.modu
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { deploySubject } from "akasha/command/argument/pages/deploy-subject.argument.ts"
 import { device } from "akasha/command/argument/pages/device.argument.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
 import { measured } from "akasha/command/argument/pages/measured.argument.ts"
 import { noUpload } from "akasha/command/argument/pages/no-upload.argument.ts"
 import { ref } from "akasha/command/argument/pages/ref.argument.ts"
@@ -80,7 +79,7 @@ import type { Fetcher } from "akasha/page/service/modules/page-calling/page-call
 import { waitedForRoom } from "akasha/util/system/modules/landing-admission/landing-admission.module.code.ts"
 
 const PUT_UP = "deploy"
-const TAKES = [dryRun, deploySubject, noUpload, ref, measured, simulator, device]
+const TAKES = [deploySubject, noUpload, ref, measured, simulator, device]
 const NAMED: Readonly<Record<string, string>> = {
   [CLUSTER_SERVICE]: "a cluster service",
   [WORKSTATION_SERVICE]: "a workstation service",
@@ -116,7 +115,6 @@ const PINNED: ReadonlySet<string> = new Set([
 const RUN_IN_CLUSTER: ReadonlySet<string> = new Set([CLUSTER_SERVICE, CONTAINER_RECIPE, WEB_APP])
 
 export type Wanted = {
-  readonly dryRun: boolean
   readonly noUpload: boolean
   readonly simulator: boolean
   readonly device: boolean
@@ -126,10 +124,7 @@ export type Wanted = {
 function wrongIn(kind: string, slug: string, wanted: Wanted): string | null {
   const onto = wanted.simulator ? simulator.said : wanted.device ? device.said : null
   if (kind === IOS_APP) {
-    if (onto === null) {
-      if (!wanted.dryRun) return null
-      return `\`${slug}\` names an ios app, which is built and handed to Apple rather than applied to a cluster, so \`${dryRun.said}\` says nothing about it — a build Apple validates and nobody is sent is \`${noUpload.said}\``
-    }
+    if (onto === null) return null
     if (!wanted.noUpload && wanted.ref === null) return null
     return `\`${onto}\` installs the build rather than handing it to Apple, so \`${noUpload.said}\` and \`${ref.said}\` say nothing about it`
   }
@@ -138,7 +133,7 @@ function wrongIn(kind: string, slug: string, wanted: Wanted): string | null {
     return `\`${slug}\` names ${what}, which is put up rather than installed on a phone, so \`${onto}\` says nothing about it`
   }
   if (!wanted.noUpload) return null
-  return `\`${slug}\` names ${what}, which is put up rather than uploaded, so \`${noUpload.said}\` says nothing about it — a run that applies nothing is \`${dryRun.said}\``
+  return `\`${slug}\` names ${what}, which is put up rather than uploaded, so \`${noUpload.said}\` says nothing about it`
 }
 
 async function putUp(
@@ -151,7 +146,6 @@ async function putUp(
   up: string[] = [],
   closures: ReadonlyMap<string, ReadonlySet<string>> | null = null
 ): Promise<Answer> {
-  const dry = wanted.dryRun
   let at = ""
   if (PINNED.has(read.kind)) {
     const pinned = pinnedTree(given.root, read.kind, commit)
@@ -161,25 +155,25 @@ async function putUp(
   if (read.kind === IOS_APP) {
     return shipIosApp(slug, read.pagePath, wanted.noUpload, commit, up)
   }
-  if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, dry, at, up)
+  if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, false, at, up)
   if (read.kind === WORKSTATION_SERVICE) {
     const every = closures ?? new Map<string, ReadonlySet<string>>()
-    return putUpEvery(given.root, dry, restarting ?? new Set<string>(), at, up, every)
+    return putUpEvery(given.root, false, restarting ?? new Set<string>(), at, up, every)
   }
   if (read.kind === INFERENCE_SERVICE) {
-    return await putUpInferenceService(given.root, slug, dry, at, up)
+    return await putUpInferenceService(given.root, slug, false, at, up)
   }
-  if (read.kind === ESO_ADDON) return await putUpAddon(at, slug, read.pagePath, dry, up)
+  if (read.kind === ESO_ADDON) return await putUpAddon(at, slug, read.pagePath, false, up)
   if (read.kind === CLUSTER_SERVICE) {
     const servable = servableNamed(given.root, slug)
     if ("refused" in servable) return refused(servable.refused, DATA)
-    return appliedWorkload(given.root, slug, servable.servable, dry, at, up)
+    return appliedWorkload(given.root, slug, servable.servable, false, at, up)
   }
-  const bundle = await publishedBundleFor(given.root, slug, dry, at, up)
+  const bundle = await publishedBundleFor(given.root, slug, false, at, up)
   if (bundle !== null && bundle.refusals.length > 0) {
     return answeredWith(bundle.lines, bundle.refusals, OPERATIONAL)
   }
-  const web = await putUpWebApp(slug, commit, given, dry, at, up)
+  const web = await putUpWebApp(slug, commit, given, false, at, up)
   if (bundle === null) return web
   return answeredWith([...bundle.lines, ...web.report], web.refusals, web.code)
 }
@@ -202,8 +196,8 @@ export type Dispatching = (root: string, subject: string, commit: string) => End
 const deployedInCluster: Dispatching = (root, subject, commit) =>
   ranInCluster(root, root, subject, commit)
 
-function sentToCluster(kind: string, wanted: Wanted): boolean {
-  if (wanted.dryRun || !RUN_IN_CLUSTER.has(kind)) return false
+function sentToCluster(kind: string): boolean {
+  if (!RUN_IN_CLUSTER.has(kind)) return false
   return (process.env[IN_CLUSTER] ?? "") === ""
 }
 
@@ -232,7 +226,6 @@ export async function deploy(
   if ("refused" in taken) return refusedBy(taken.refused, INPUT)
   const held = taken.taken
   const wanted: Wanted = {
-    dryRun: held.dryRun,
     noUpload: held.noUpload,
     simulator: held.simulator,
     device: held.device,
@@ -248,7 +241,7 @@ export async function deploy(
   if (unfit !== null) return refused(unfit, INPUT)
   if (read.kind === IOS_APP && wanted.device) return await installedOnDevice(slug)
   if (read.kind === IOS_APP && wanted.simulator) return await installedOnSimulator(slug, given)
-  if (sentToCluster(read.kind, wanted)) {
+  if (sentToCluster(read.kind)) {
     const away = await heldWhile(given.root, slug, () =>
       deployInCluster(slug, wanted, given, dispatching)
     )
@@ -285,14 +278,10 @@ async function deployHeld(
     unproven.length > 0
       ? [saidOfUnproven(unproven)]
       : await judgedOnDeploy(given.root, slug, was, commit, built, proving)
-  const dry = wanted.dryRun
-  const noting = async (): Promise<readonly string[]> =>
-    dry
-      ? []
-      : [
-          ...(await recordedRefusal(slug, read.pagePath, commit, recording)),
-          ...(await recordedEnding(slug, read.pagePath, true, new Date(), recording)),
-        ]
+  const noting = async (): Promise<readonly string[]> => [
+    ...(await recordedRefusal(slug, read.pagePath, commit, recording)),
+    ...(await recordedEnding(slug, read.pagePath, true, new Date(), recording)),
+  ]
   if (unjudged.length > 0) {
     return answeredWith([`commit\t${commit}`], [...unjudged, ...(await noting())], DATA)
   }
@@ -302,14 +291,12 @@ async function deployHeld(
   try {
     answer = await putting(read, slug, commit, wanted, given, restarting, up, closures)
   } catch (thrown) {
-    if (!dry) costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, 1)
+    costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, 1)
     const why = [whyOf(thrown), stoppedPartWay(up)]
     const said = [`commit\t${commit}`, ...up.map((one) => `up\t${one}`)]
     return answeredWith(said, [...why, ...(await noting())], OPERATIONAL)
   }
-  if (!dry) {
-    costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, answer.refusals.length)
-  }
+  costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, answer.refusals.length)
   const lines = [`commit\t${commit}`, ...answer.report]
   if (answer.code !== OK || answer.refusals.length > 0) {
     return answeredWith(
@@ -318,7 +305,6 @@ async function deployHeld(
       answer.code
     )
   }
-  if (dry) return answeredWith(lines, answer.refusals, answer.code)
   const wrong = [
     ...(await recordedCommit(slug, read.pagePath, commit, recording)),
     ...(await recordedEnding(slug, read.pagePath, false, new Date(), recording)),

@@ -86,10 +86,7 @@ export const deploy = {
       invariantKind: "departure",
       statement: "A deploy that refused keeps the commit it refused at under its own key.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A dry run keeps no commit beside any page.",
-    },
+
     {
       invariantKind: "departure",
       statement: "What putting a thing up cost is kept beside the page that thing was read from.",
@@ -98,10 +95,7 @@ export const deploy = {
       invariantKind: "departure",
       statement: "What is counted is the putting up rather than the reading and judging before it.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A dry run keeps no cost, since a dry run puts nothing up.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A commit kept here is uncommitted, so no deploy lands a commit of its own.",
@@ -141,18 +135,12 @@ export const deploy = {
       invariantKind: "departure",
       statement: "That refusal names each service, and the checks are run over nothing.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A dry run is judged by those checks as a run that puts up is.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A commit named twice is refused rather than chosen between.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A dry run reports the same plan the run would carry out.",
-    },
+
     {
       invariantKind: "departure",
       statement: "An ios app is put in front of people by this command.",
@@ -161,10 +149,7 @@ export const deploy = {
       invariantKind: "departure",
       statement: "A flag belonging to the other kind of app is refused rather than ignored.",
     },
-    {
-      invariantKind: "departure",
-      statement: "`--dry-run` belongs to every kind but the ios app.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A deploy runs under the ceiling its page states unless the call says otherwise.",
@@ -277,7 +262,7 @@ export const deploy = {
       invariantKind: "departure",
       statement: "A deploy of every other kind runs on the workstation.",
     },
-    { invariantKind: "departure", statement: "A dry run of any kind runs on the workstation." },
+
     {
       invariantKind: "departure",
       statement:
@@ -298,7 +283,6 @@ export const deploy = {
   ],
   name: "deploy",
   arguments: [
-    { argument: "argument/dry-run" },
     { argument: "argument/deploy-subject", required: true, saidAs: "word" },
     { argument: "argument/no-upload" },
     { argument: "argument/ref" },

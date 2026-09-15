@@ -128,15 +128,8 @@ test("a refusal reaching no cluster reports nothing", async () => {
   expect(answer.report).toEqual([])
 })
 
-test("an ios app is handed to the build rather than refused as unbuilt", async () => {
-  const answer = await deploy(["atlas", "--dry-run"], HERE)
-  expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("names an ios app")
-  expect(answer.refusals[0]).toContain("--no-upload")
-})
-
 test("an ios app is found by the short slug its page states", async () => {
-  const answer = await deploy(["atlas-ios", "--dry-run"], HERE)
+  const answer = await deploy(["atlas-ios"], HERE)
   expect(answer.code).toBe(2)
   expect(answer.refusals[0]).toContain("atlas-ios")
 })
@@ -145,7 +138,7 @@ test("a web app is refused the flag belonging to an ios app", async () => {
   const answer = await deploy(["one-web", "--no-upload"], HERE)
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("names a web app")
-  expect(answer.refusals[0]).toContain("--dry-run")
+  expect(answer.refusals[0]).toContain("--no-upload")
 })
 
 test("a web app takes a commit rather than being refused one", async () => {
@@ -161,8 +154,8 @@ test("a commit no checkout holds is refused by the name the call gave", async ()
 
 test("every ios app the mobile commands carry is reached by this command", async () => {
   for (const slug of ["alanwalton", "atlas", "smilingjenny"]) {
-    const answer = await deploy([slug, "--dry-run"], HERE)
-    expect(answer.refusals[0]).toContain("names an ios app")
+    const answer = await deploy([slug, "--ref", "4f2a91c"], HERE)
+    expect(answer.refusals[0]).toContain("4f2a91c")
   }
 })
 
@@ -186,9 +179,8 @@ test("a call naming no commit answers no commit rather than a fixed one", async 
     seen.push(wanted)
     return await Promise.resolve({ report: [], refusals: [], code: OK })
   }
-  await deploy(["one-web", "--dry-run"], given(world.root), putting, NO_WAIT, world.kept)
+  await deploy(["one-web"], given(world.root), putting, NO_WAIT, world.kept)
   expect(seen[0]?.ref).toBeNull()
-  expect(seen[0]?.dryRun).toBe(true)
 })
 
 test("a commit flag with nothing after it is refused rather than read as a flag", async () => {
@@ -320,28 +312,6 @@ test("what the run in the cluster would not do refuses the deploy", async () => 
   )
   expect(answer.code).toBe(OPERATIONAL)
   expect(answer.refusals[0]).toContain("deploy-one-web-0123 failed")
-})
-
-test("a dry run is put up from the workstation rather than sent to the cluster", async () => {
-  const world = pastTheChecks()
-  const seen: Wanted[] = []
-  const putting: PuttingUp = async (_read, _slug, _commit, wanted) => {
-    seen.push(wanted)
-    return await Promise.resolve({ report: [], refusals: [], code: OK })
-  }
-  const answer = await offTheCluster(
-    async () =>
-      await deploy(
-        ["one-web", "--dry-run"],
-        given(world.root),
-        putting,
-        NO_WAIT,
-        world.kept,
-        NO_JOB
-      )
-  )
-  expect(answer.code).toBe(OK)
-  expect(seen[0]?.dryRun).toBe(true)
 })
 
 test("a deploy that is the run in the cluster puts up there rather than sending a second job", async () => {
