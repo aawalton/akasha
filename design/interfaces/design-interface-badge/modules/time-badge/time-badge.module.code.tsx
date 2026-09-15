@@ -5,9 +5,9 @@ import {
   type BadgeVariant,
 } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/interfaces/design-interface-badge/modules/badge-layout-context/badge-layout-context.module.code.tsx"
-import { parseDateExpression } from "akasha/design/interfaces/forms/modules/date-parser/date-parser.module.code.ts"
-import { formatTime12h } from "akasha/design/interfaces/forms/modules/format-time/format-time.module.code.ts"
-import { normalizeBareNumericTime } from "akasha/design/interfaces/forms/modules/normalize-bare-numeric-time/normalize-bare-numeric-time.module.code.ts"
+import { parseDateExpression } from "akasha/design/interfaces/design-interface-form/modules/date-parser/date-parser.module.code.ts"
+import { formatTime12h } from "akasha/design/interfaces/design-interface-form/modules/format-time/format-time.module.code.ts"
+import { normalizeBareNumericTime } from "akasha/design/interfaces/design-interface-form/modules/normalize-bare-numeric-time/normalize-bare-numeric-time.module.code.ts"
 import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
 import {
   Popover,

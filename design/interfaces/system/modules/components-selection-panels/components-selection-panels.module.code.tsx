@@ -7,11 +7,11 @@ import {
 import {
   MultiSelect,
   type MultiSelectItem,
-} from "akasha/design/interfaces/forms/modules/multi-select/multi-select.module.code.tsx"
+} from "akasha/design/interfaces/design-interface-form/modules/multi-select/multi-select.module.code.tsx"
 import {
   SearchMultiSelect,
   type SearchMultiSelectItem,
-} from "akasha/design/interfaces/forms/modules/search-multi-select/search-multi-select.module.code.tsx"
+} from "akasha/design/interfaces/design-interface-form/modules/search-multi-select/search-multi-select.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { SearchButton } from "akasha/design/interfaces/patterns/modules/search-button/search-button.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"

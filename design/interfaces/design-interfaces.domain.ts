@@ -7,7 +7,7 @@ export const designInterfaces = {
   definition: "how a thing is drawn on a screen and worked by hand",
   parts: [
     "domain/design-interface-badge",
-    "domain/design-interfaces-forms",
+    "domain/design-interface-form",
     "domain/design-interfaces-layout",
     "domain/design-interfaces-patterns",
     "domain/design-interfaces-primitives",

@@ -5,7 +5,7 @@ import {
   localDateIn,
   localDateOf,
 } from "akasha/design/interfaces/design-interface-badge/modules/date-badge/date-badge.module.code.tsx"
-import { Calendar } from "akasha/design/interfaces/forms/modules/calendar/calendar.module.code.tsx"
+import { Calendar } from "akasha/design/interfaces/design-interface-form/modules/calendar/calendar.module.code.tsx"
 import {
   Popover,
   PopoverContent,

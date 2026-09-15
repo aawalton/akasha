@@ -3,7 +3,7 @@
 import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interfaces/design-interface-badge/modules/button-badge/button-badge.module.code.tsx"
 import { NumberBadge } from "akasha/design/interfaces/design-interface-badge/modules/number-badge/number-badge.module.code.tsx"
-import { InlineEditableText } from "akasha/design/interfaces/forms/modules/inline-editable-text/inline-editable-text.module.code.tsx"
+import { InlineEditableText } from "akasha/design/interfaces/design-interface-form/modules/inline-editable-text/inline-editable-text.module.code.tsx"
 import { ItemCard } from "akasha/design/interfaces/patterns/modules/item-card/item-card.module.code.tsx"
 import {
   AlertDialog,

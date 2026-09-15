@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"alan/atlas-web/routes/atlas-search/atlas-search.route.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"alan/web/modules/offline-download-button/offline-download-button.module.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"alan/web/modules/universal-title-bar/universal-title-bar.module.code.tsx"}
-{"propertySlug":"import","fileName":"button.module.code.tsx","path":"design/interfaces/forms/modules/calendar/calendar.module.code.tsx"}
-{"propertySlug":"import","fileName":"button.module.code.tsx","path":"design/interfaces/forms/modules/input-group/input-group.module.code.tsx"}
+{"propertySlug":"import","fileName":"button.module.code.tsx","path":"design/interfaces/design-interface-form/modules/calendar/calendar.module.code.tsx"}
+{"propertySlug":"import","fileName":"button.module.code.tsx","path":"design/interfaces/design-interface-form/modules/input-group/input-group.module.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"design/interfaces/layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"design/interfaces/layout/modules/load-more-button/load-more-button.module.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"design/interfaces/patterns/modules/auth-page-content/auth-page-content.module.code.tsx"}

@@ -4,7 +4,7 @@ import { InputBadge } from "akasha/design/interfaces/design-interface-badge/modu
 import {
   SearchMultiSelect,
   type SearchMultiSelectItem,
-} from "akasha/design/interfaces/forms/modules/search-multi-select/search-multi-select.module.code.tsx"
+} from "akasha/design/interfaces/design-interface-form/modules/search-multi-select/search-multi-select.module.code.tsx"
 import { useDebouncedValue } from "akasha/design/interfaces/primitives/modules/use-debounced-value/use-debounced-value.module.code.ts"
 import type { FilterOperator } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
