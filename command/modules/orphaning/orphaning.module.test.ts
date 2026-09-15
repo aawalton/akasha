@@ -11,6 +11,7 @@ import { TOGETHER } from "akasha/command/modules/orphaning/orphaning.module.code
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -56,7 +57,9 @@ async function setUp(): Promise<string> {
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", "first"])
   mkdirSync(indexIn(root), { recursive: true })
-  listedFiled(root, modulePage.type, modulePage.slug, [{ path: TYPE_AT, id: modulePage.id }])
+  listedFiled(root, slugOf(modulePage.type), modulePage.slug, [
+    { path: TYPE_AT, id: modulePage.id },
+  ])
   const put = await landing(
     root,
     rowsIn(root, [
