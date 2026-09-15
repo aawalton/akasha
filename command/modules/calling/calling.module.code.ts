@@ -41,7 +41,6 @@ import {
 } from "akasha/command/modules/walking/command-walking.module.code.ts"
 import { indexRefresh } from "akasha/command/pages/index/refresh/index-refresh.command.code.ts"
 import {
-  idsNaming,
   indexNamed,
   indexThere,
   listedAt,
@@ -51,6 +50,7 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 import { meantSaid } from "akasha/util/text/modules/suggest-closest/suggest-closest.module.code.ts"
 

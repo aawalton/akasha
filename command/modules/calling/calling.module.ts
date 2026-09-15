@@ -173,7 +173,7 @@ export const calling = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Which kinds those are is read off the index rather than spelled here.",
+      statement: "Which kinds those are is read from beside the page rather than spelled here.",
     },
     {
       invariantKind: "invariant-kind/departure",
