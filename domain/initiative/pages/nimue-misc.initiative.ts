@@ -10,7 +10,7 @@ export const nimueMisc = {
     {
       statement: "What a page states as what must be true of it is named a decision.",
       workingMemory:
-        "The concept is spelled invariant today, across the property a page states, the kinds an invariant is one of, the sentence shape an invariant statement takes, the group page type, the code reading the key, the checks, and the prose. Alan wants the frame of a decision made rather than a truth found.",
+        'Landed: `invariant-group` is `decision-group`, folder and relation property with it, and the check `invariant-earns-its-place` with it. Left: `invariant-kind` to `decision-kind` over 5892 files, the keys `invariants` and `invariantKind`, two check pages, and the prose. That draft takes six minutes and its apply runs every test, and other seats move folders repo-wide inside that window, so it lands only in a quiet repository. Bare `"invariant-kind"` in code is reached by no mechanism.\n',
     },
   ],
 } as const satisfies Initiative
