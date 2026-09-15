@@ -95,12 +95,10 @@ export function heldFor(
 export function hooksIn(root: string): readonly Valued[] {
   const found: Valued[] = []
   for (const one of HOOK_TYPES) {
-    try {
-      for (const listed of everyOfType(root, one)) {
-        const value = valueAt(listed.path, root)
-        if (value !== null) found.push({ path: listed.path, value })
-      }
-    } catch {}
+    for (const listed of everyOfType(root, one)) {
+      const value = valueAt(listed.path, root)
+      if (value !== null) found.push({ path: listed.path, value })
+    }
   }
   return found
 }
