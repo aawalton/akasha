@@ -2,7 +2,7 @@ import type { TemperCadwellLevel } from "akasha/temper/catalog/temper-pursuit/te
 
 export const silver = {
   id: "01a0616b-2cde-7003-994a-f2f6d9ab6196",
-  type: "temper-cadwell-level",
+  type: "page-type/temper-cadwell-level",
   slug: "silver",
   title: "Silver",
   displayOrder: 1,
