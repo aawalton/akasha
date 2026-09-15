@@ -1,15 +1,14 @@
 import type { Body } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type {
+  ExtensionsBy,
   FilePropertiesBy,
   FoldersBy,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
-  claimantIn,
   claimantOf,
   type Paging,
   pagingOf,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
-import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { heldPerShadow, type Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
@@ -20,6 +19,7 @@ type Claiming = {
   readonly pageTypes: ReadonlySet<string>
   readonly fileProperties: FilePropertiesBy
   readonly folders: FoldersBy
+  readonly extensions: ExtensionsBy
 }
 
 const claimingIn = heldPerShadow(
@@ -28,15 +28,20 @@ const claimingIn = heldPerShadow(
     pageTypes: shadow.index.pageTypesIn(),
     fileProperties: shadow.index.filePropertiesAt(),
     folders: shadow.index.folderPropertiesAt(),
+    extensions: shadow.index.extensionPropertiesAt(),
   })
 )
 
-const readingOf = heldPerShadow((shadow: Shadow) => readingIn(shadow.root))
-
 export function ownerOf(path: string, shadow: Shadow): string | null {
   const held = claimingIn(shadow)
-  const said = claimantOf(held.paging, path, held.pageTypes, held.fileProperties, held.folders)
-  return said ?? claimantIn(readingOf(shadow), path)
+  return claimantOf(
+    held.paging,
+    path,
+    held.pageTypes,
+    held.fileProperties,
+    held.folders,
+    held.extensions
+  )
 }
 
 export function reasonsFor(path: string, shadow: Shadow): readonly string[] {
