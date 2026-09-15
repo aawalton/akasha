@@ -85,6 +85,10 @@ export const measureCommand = {
       invariantKind: "invariant-kind/departure",
       statement: "A row appended while this reads is read or passed over rather than refusing.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The ceiling drawn is the wall-clock seconds a command's page allows.",
+    },
   ],
   name: "command",
   arguments: [{ argument: "argument/run-window" }],

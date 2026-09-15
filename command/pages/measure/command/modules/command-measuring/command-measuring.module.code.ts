@@ -5,7 +5,9 @@ import {
   type Chosen,
   type Costs,
   costOf,
+  type Limits,
   latestOf,
+  NO_LIMITS,
   type Run,
   rankedOf,
   runningOf,
@@ -14,6 +16,11 @@ import {
   underRan,
   withinOf,
 } from "akasha/check/modules/measuring/check-measuring.module.code.ts"
+import { secondsIn } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
+import {
+  listedAt,
+  valueByPath,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 export const COMMAND = "command"
 
@@ -68,6 +75,12 @@ export function heldIn(root: string): Reading {
   return { runs, unread, torn }
 }
 
+export function limitsFor(root: string, ran: string): Limits {
+  const one = listedAt(root, COMMAND, ran)[0]
+  if (one === undefined) return NO_LIMITS
+  return { cpu: null, wall: secondsIn(valueByPath(root, one.path)), mem: null }
+}
+
 export function costsIn(root: string, now: number, chosen: Chosen): Costs {
   const reading = heldIn(root)
   const held = reading.runs.filter((one) => one.phase === COMMAND)
@@ -75,7 +88,7 @@ export function costsIn(root: string, now: number, chosen: Chosen): Costs {
     chosen.by === "period"
       ? withinOf(held, now, chosen.ms)
       : runningOf(held, rankedOf(latestOf(held), chosen.runs))
-  const checks = [...underRan(within)].map(([ran, runs]) => costOf(ran, runs))
+  const checks = [...underRan(within)].map(([ran, runs]) => costOf(ran, runs, limitsFor(root, ran)))
   return {
     checks: [...checks].sort(byCpu),
     total: totalOf(within),

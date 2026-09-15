@@ -74,6 +74,7 @@
 {"propertySlug":"import","fileName":"index-filing.module.code.ts","path":"command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.module.code.ts","path":"command/pages/measure/call/measure-call.command.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.module.code.ts","path":"command/pages/measure/change/modules/change-measuring/change-measuring.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"index-filing.module.code.ts","path":"command/pages/measure/command/modules/command-measuring/command-measuring.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-filing.module.code.ts","path":"command/pages/measure/deploy/measure-deploy.command.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.module.code.ts","path":"command/pages/measure/guard/measure-guard.command.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.module.code.ts","path":"command/pages/read/read.command.test-fixtures.ts"}

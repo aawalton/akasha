@@ -62,5 +62,17 @@ export const commandMeasuring = {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes a row.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A command's ceiling is the wall-clock seconds that command's page allows.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A command stating no seconds is drawn with the seconds the wrapper allows.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A command stating that it runs under no ceiling is drawn blank.",
+    },
   ],
 } as const satisfies Module

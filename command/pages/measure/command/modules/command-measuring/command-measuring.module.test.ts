@@ -8,12 +8,14 @@ import {
   spacedOnce,
 } from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import { ALLOWED } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import {
   costsIn,
   foundIn,
   heldIn,
 } from "akasha/command/pages/measure/command/modules/command-measuring/command-measuring.module.code.ts"
 import {
+  commandFiled,
   lineOf,
   ONE,
   pageAt,
@@ -129,6 +131,25 @@ test("the runs are gathered under the command that ran", () => {
       .checks.map((one) => one.check)
       .sort()
   ).toEqual(["index", "read"])
+})
+
+test("a command's ceiling is the seconds its page allows, and blank where its page allows none", () => {
+  const root = rootFor()
+  rowsInto(root, INDEX_AT, [{ runId: ONE, ran: "index" }])
+  rowsInto(root, READ_AT, [{ runId: TWO, ran: "read" }])
+  commandFiled(root, "index", { timeout: 600 })
+  commandFiled(root, "read", { timeout: null })
+  const costs = costsIn(root, NOW, DAY_BACK)
+
+  expect(costs.checks.find((one) => one.check === "index")?.limits.wall).toBe(600)
+  expect(costs.checks.find((one) => one.check === "read")?.limits.wall).toBe(null)
+})
+
+test("a command stating no seconds is drawn with the seconds the wrapper allows", () => {
+  const root = rowsInto(rootFor(), INDEX_AT, [{ ran: "index" }])
+  commandFiled(root, "index")
+
+  expect(costsIn(root, NOW, DAY_BACK).checks[0]?.limits.wall).toBe(ALLOWED)
 })
 
 test("a window is chosen by the rule the check measuring chooses one by", () => {

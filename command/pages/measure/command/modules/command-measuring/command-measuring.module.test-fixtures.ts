@@ -1,14 +1,26 @@
-import {
-  agoOf,
-  HOUR,
-} from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
+import { agoOf, HOUR } from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 
 export const ONE = "01a08071-39a4-7000-9c6b-6cee59d30d10"
 
 export const TWO = "01a08071-39a4-7000-9c6b-6cee59d30d20"
 
 export const THREE = "01a08071-39a4-7000-9c6b-6cee59d30d30"
+
+const COMMAND = "command"
+
+export function commandFiled(
+  root: string,
+  slug: string,
+  held: Record<string, unknown> = {}
+): string {
+  const path = `command/pages/${slug}/${slug}.${COMMAND}.ts`
+  valueAlsoFiled(root, COMMAND, [
+    { path, value: { id: THREE, pageTypeSlug: COMMAND, slug, ...held } },
+  ])
+  return root
+}
 
 export function lineOf(one: Record<string, unknown>): string {
   return JSON.stringify({

@@ -149,6 +149,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/measure/call/measure-call.command.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/measure/change/modules/change-measuring/change-measuring.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/measure/command/modules/command-measuring/command-measuring.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/measure/deploy/measure-deploy.command.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/measure/performance/measure-performance.command.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/model-account/add/model-account-add.command.code.ts"}
