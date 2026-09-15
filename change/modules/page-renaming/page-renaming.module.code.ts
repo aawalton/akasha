@@ -207,10 +207,16 @@ function foldedAs(world: World, held: Held, given: Asked, folder: string): strin
   return strippedOf(given.to, above) ?? folderFor(held.pageTypeSlug, given.to)
 }
 
+function namesFolder(world: World, held: Held, folder: string): boolean {
+  const above = namesAbove(world.root, folder, folder, held.slug)
+  return strippedOf(held.slug, above) === basename(folder)
+}
+
 function landingIn(world: World, held: Held, given: Asked): string {
   const name = `${given.to}.${held.pageTypeSlug}${TYPED}`
   const folder = dirname(given.at)
-  if (!ownsIn(filesIn(world.root, folder), held)) return join(folder, name)
+  const owns = ownsIn(filesIn(world.root, folder), held) || namesFolder(world, held, folder)
+  if (!owns) return join(folder, name)
   return join(dirname(folder), foldedAs(world, held, given, folder), name)
 }
 
