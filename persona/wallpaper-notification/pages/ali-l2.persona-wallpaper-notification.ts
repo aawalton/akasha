@@ -2,7 +2,7 @@ import type { PersonaWallpaperNotification } from "akasha/persona/wallpaper-noti
 
 export const aliL2 = {
   id: "019f1f7d-c711-736c-abe6-b70261589fdb",
-  type: "persona-wallpaper-notification",
+  type: "page-type/persona-wallpaper-notification",
   slug: "ali-l2",
   title: "ali L02 wallpaper notified",
   persona: "persona/ali",

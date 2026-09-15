@@ -2,7 +2,7 @@ import type { PersonaWallpaperNotification } from "akasha/persona/wallpaper-noti
 
 export const amyL2 = {
   id: "019f0f65-b2db-7264-be0b-a010fb108528",
-  type: "persona-wallpaper-notification",
+  type: "page-type/persona-wallpaper-notification",
   slug: "amy-l2",
   title: "amy L02 wallpaper notified",
   persona: "persona/amy",

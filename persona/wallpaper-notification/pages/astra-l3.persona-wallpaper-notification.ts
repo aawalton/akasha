@@ -2,7 +2,7 @@ import type { PersonaWallpaperNotification } from "akasha/persona/wallpaper-noti
 
 export const astraL3 = {
   id: "019f1830-6a72-766c-9e84-bf85543da177",
-  type: "persona-wallpaper-notification",
+  type: "page-type/persona-wallpaper-notification",
   slug: "astra-l3",
   title: "astra L03 wallpaper notified",
   persona: "persona/astra",
