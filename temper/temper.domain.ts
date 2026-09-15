@@ -80,7 +80,7 @@ export const temper = {
     "domain/temper-items-rules-routing",
     "domain/temper-items-rules-routing-core",
     "domain/temper-lccc",
-    "domain/temper-lorebooks",
+    "domain/temper-lorebook",
     "domain/temper-lost-treasure",
     "domain/temper-lua-runner",
     "domain/temper-narrow",

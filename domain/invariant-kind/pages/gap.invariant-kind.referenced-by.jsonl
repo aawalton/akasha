@@ -771,7 +771,7 @@
 {"propertySlug":"invariant-kind","path":"temper/lib-sets/modules/lib-sets-gen-set-data-preloaded/lib-sets-gen-set-data-preloaded.module.ts","id":"01a061dd-1562-75b4-97b2-c821be9c1a17"}
 {"propertySlug":"invariant-kind","path":"temper/lib-sets/modules/lib-sets-gen-set-info/lib-sets-gen-set-info.module.ts","id":"01a061fc-cee5-75d4-9e8c-3b140c7e89cc"}
 {"propertySlug":"invariant-kind","path":"temper/lib-treasure/modules/treasure-api/treasure-api.module.ts","id":"01a061d5-d0c0-73e1-8312-b0bc2d8d34a1"}
-{"propertySlug":"invariant-kind","path":"temper/lorebooks/temper-lorebooks.domain.ts","id":"01a06176-9c44-7c00-8a3b-7cf902e62430"}
+{"propertySlug":"invariant-kind","path":"temper/lorebook/temper-lorebook.domain.ts","id":"01a06176-9c44-7c00-8a3b-7cf902e62430"}
 {"propertySlug":"invariant-kind","path":"temper/player-completion/modules/activity-categories/activity-categories.module.ts","id":"01a06108-2fe7-758c-947c-5275babdadb5"}
 {"propertySlug":"invariant-kind","path":"temper/player-completion/modules/completion-account-checkers/completion-account-checkers.module.ts","id":"01a0640c-1e9b-77aa-9215-d1a1abde163f"}
 {"propertySlug":"invariant-kind","path":"temper/player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.ts","id":"01a0641c-83b4-7fba-b338-0d13a366420a"}

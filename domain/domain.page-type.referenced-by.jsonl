@@ -600,7 +600,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-rules-routing-core/temper-items-rules-routing-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-rules-routing/temper-items-rules-routing.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lccc/temper-lccc.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lorebooks/temper-lorebooks.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lorebook/temper-lorebook.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lost-treasure/temper-lost-treasure.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lua-runner/temper-lua-runner.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/narrow/temper-narrow.domain.ts"}

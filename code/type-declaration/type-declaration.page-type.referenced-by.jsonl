@@ -257,9 +257,9 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lib-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lib-slash-commander/slash-commander-declarations/slash-commander-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lib-slash-commander/slash-commander-entry-declarations/slash-commander-entry-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lorebooks/lorebooks-controls/lorebooks-controls.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lorebooks/lorebooks-public-api-declarations/lorebooks-public-api-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lorebooks/lorebooks-string-ids/lorebooks-string-ids.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lorebook/lorebooks-controls/lorebooks-controls.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lorebook/lorebooks-public-api-declarations/lorebooks-public-api-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lost-treasure/lost-treasure-global-declarations/lost-treasure-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lost-treasure/lost-treasure-string-ids/lost-treasure-string-ids.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/navigation-addon/destinations-preview-controls/destinations-preview-controls.type-declaration.ts"}
