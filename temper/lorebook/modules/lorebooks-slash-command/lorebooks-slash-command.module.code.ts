@@ -1,4 +1,3 @@
-import { insertChatText } from "akasha/temper/chat-entry/modules/chat-entry-text/chat-entry-text.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,
@@ -13,6 +12,7 @@ import {
   BOOK_STACK_LOCALIZATION,
 } from "akasha/temper/lorebook/modules/lorebooks-locales/lorebooks-locales.module.code.ts"
 import { STATE } from "akasha/temper/lorebook/modules/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
+import { insertChatText } from "akasha/temper/modules/chat-entry-text/chat-entry-text.module.code.ts"
 
 function asObject(value: unknown): object {
   return value as object

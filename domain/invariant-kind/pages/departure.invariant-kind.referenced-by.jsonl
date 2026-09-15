@@ -3516,8 +3516,6 @@
 {"propertySlug":"invariant-kind","path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.ts","id":"01a0616f-8e18-7979-89eb-61f1621f3cdb"}
 {"propertySlug":"invariant-kind","path":"temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
 {"propertySlug":"invariant-kind","path":"temper/characters-skills-morphs-addon/temper-characters-skills-morphs-addon.domain.ts","id":"01a062ff-2792-7da8-8bfd-3a48ace9bf53"}
-{"propertySlug":"invariant-kind","path":"temper/chat-entry/modules/chat-entry-text/chat-entry-text.module.ts","id":"01a090b3-cd34-73db-8728-72f922749cda"}
-{"propertySlug":"invariant-kind","path":"temper/chat-entry/temper-chat-entry.domain.ts","id":"01a090b3-e1dd-7d60-8166-34e88a0496b5"}
 {"propertySlug":"invariant-kind","path":"temper/collections-addon/item-browser-layout/item-browser-layout.eso-interface.ts","id":"01a0624c-a660-7557-96b8-3a4e90b786d8"}
 {"propertySlug":"invariant-kind","path":"temper/collections-addon/lorebooks-report-layout/lorebooks-report-layout.eso-interface.ts","id":"01a0624c-a660-70e7-ac40-0ff60904655d"}
 {"propertySlug":"invariant-kind","path":"temper/collections-addon/lost-treasure-map-layout/lost-treasure-map-layout.eso-interface.ts","id":"01a0624c-a660-7e1e-90ff-1cb6ff118829"}
@@ -4716,6 +4714,7 @@
 {"propertySlug":"invariant-kind","path":"temper/modules/addon-init/addon-init.module.ts","id":"01a060ae-335f-75cf-867a-8b88bb3db05e"}
 {"propertySlug":"invariant-kind","path":"temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.ts","id":"01a06075-b052-7e77-979b-c9bea93f7ba3"}
 {"propertySlug":"invariant-kind","path":"temper/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
+{"propertySlug":"invariant-kind","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts","id":"01a090b3-cd34-73db-8728-72f922749cda"}
 {"propertySlug":"invariant-kind","path":"temper/modules/descriptor/descriptor.module.ts","id":"01a06053-3638-7cb5-b297-d04869965330"}
 {"propertySlug":"invariant-kind","path":"temper/modules/perf-trace/perf-trace.module.ts","id":"01a060a9-5d58-7bc3-a680-2ccdb8dd5bf3"}
 {"propertySlug":"invariant-kind","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts","id":"01a06084-d41a-7898-b2c6-0be1faa981da"}

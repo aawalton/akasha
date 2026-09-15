@@ -9,6 +9,10 @@ export const chatEntryText = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "The player sends what the box holds, and no add-on sends it for them.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Chat input is opened where the entry box does not already hold the focus.",
     },
     {

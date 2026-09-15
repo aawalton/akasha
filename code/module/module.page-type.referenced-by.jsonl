@@ -3221,7 +3221,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-skills-morphs-addon/modules/skill-morph-task-progress/skill-morph-task-progress.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/chat-entry/modules/chat-entry-text/chat-entry-text.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/collections-addon/modules/collections-addon-entry/collections-addon-entry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/collections-addon/modules/collections-addon-global/collections-addon-global.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/collections-addon/modules/collections-addon-loaded/collections-addon-loaded.module.ts"}
@@ -5499,6 +5498,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/build-metadata/build-metadata.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/character-class/character-class.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/descriptor/descriptor.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts"}

@@ -549,7 +549,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/characters-equipment-ui/temper-characters-equipment-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/characters-equipment/temper-characters-equipment.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/characters-skills-morphs-addon/temper-characters-skills-morphs-addon.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/chat-entry/temper-chat-entry.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/command/temper-command.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/community-addon/temper-community-addon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/companion-codec/temper-companion-codec.domain.ts"}
