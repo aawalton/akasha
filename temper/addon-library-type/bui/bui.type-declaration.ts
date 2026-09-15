@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const bui = {
   id: "01a06090-f5af-7589-9396-3dead4ae4900",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "bui",
   definition: "what the bui library leaves in another add-on's reach",
   d: "ts",

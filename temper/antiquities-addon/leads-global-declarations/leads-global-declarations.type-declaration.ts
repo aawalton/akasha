@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const leadsGlobalDeclarations = {
   id: "01a06274-b08b-7d77-84f1-e4cc639b4458",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "leads-global-declarations",
   definition: "the shape of the table the lead window's markup calls into",
   d: "ts",

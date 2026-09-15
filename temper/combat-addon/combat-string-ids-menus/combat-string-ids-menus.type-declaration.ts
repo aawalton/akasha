@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const combatStringIdsMenus = {
   id: "01a06202-ba7c-7f56-bf96-33ef162a550a",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "combat-string-ids-menus",
   definition: "the string ids the context menus are worded from",
   d: "ts",

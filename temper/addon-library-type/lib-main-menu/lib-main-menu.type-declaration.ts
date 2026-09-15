@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const libMainMenu = {
   id: "01a06090-f5b3-7581-a3be-d7b6c283a077",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "lib-main-menu",
   definition: "what the lib-main-menu library leaves in another add-on's reach",
   d: "ts",

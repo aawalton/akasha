@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoEvents = {
   id: "01a0608f-b083-7ba6-b9a9-9731a6c77f75",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-events",
   definition: "the numbers the game names its events by",
   d: "ts",

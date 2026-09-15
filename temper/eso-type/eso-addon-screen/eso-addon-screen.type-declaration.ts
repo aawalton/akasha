@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoAddonScreen = {
   id: "01a0608f-b07a-79e8-bc5b-aeeddff703fe",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-addon-screen",
   definition: "the controls the add-on screen holds",
   d: "ts",

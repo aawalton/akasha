@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const libUndauntedPledges = {
   id: "01a06090-f5b7-7738-9039-d09ab64d4bfc",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "lib-undaunted-pledges",
   definition: "what the lib-undaunted-pledges library leaves in another add-on's reach",
   d: "ts",

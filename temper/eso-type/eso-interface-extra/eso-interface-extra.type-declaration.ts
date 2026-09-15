@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoInterfaceExtra = {
   id: "01a060f1-6908-71f0-aefc-eab48b0f96d3",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-interface-extra",
   definition: "the game's interface globals the generated typing files leave out",
   d: "ts",

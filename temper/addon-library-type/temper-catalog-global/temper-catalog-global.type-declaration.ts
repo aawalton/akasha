@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const temperCatalogGlobal = {
   id: "01a063ba-94e5-73ea-aa56-00d1e9d6e5b6",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "temper-catalog-global",
   definition: "the global the Temper catalog add-on publishes",
   d: "ts",

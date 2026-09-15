@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const combatControlsPanels = {
   id: "01a06202-ba79-7215-983d-29d50072ef06",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "combat-controls-panels",
   definition:
     "the panel and plot controls the layout defines, named for the code that reaches them",

@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const assistantEntryDeclarations = {
   id: "01a06251-0d2b-7874-832b-98ba2aa53a3f",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "assistant-entry-declarations",
   definition: "the global holding every personal assistant's collectible id",
   d: "ts",

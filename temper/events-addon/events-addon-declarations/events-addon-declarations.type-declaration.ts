@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const eventsAddonDeclarations = {
   id: "01a0624d-eb03-700b-88a1-68a850c564bb",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "events-addon-declarations",
   definition: "the shape of the global table this add-on publishes",
   d: "ts",

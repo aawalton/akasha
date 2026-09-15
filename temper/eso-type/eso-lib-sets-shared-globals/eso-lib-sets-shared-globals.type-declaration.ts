@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoLibSetsSharedGlobals = {
   id: "01a061b9-af7d-7589-8d24-29caecc10ba2",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-lib-sets-shared-globals",
   definition: "four game globals that two packages had each declared privately",
   d: "ts",

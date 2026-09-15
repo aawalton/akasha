@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoLinkHandler = {
   id: "01a0614a-9fde-73bf-84d9-dca1dd2edbe9",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-link-handler",
   definition: "the calls the game makes when a link in chat is clicked",
   d: "ts",

@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const companionsDeclarations = {
   id: "01a06240-f50b-73dd-b3b1-34d6cff1b1ae",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "companions-declarations",
   definition: "the game and sibling add-on names this add-on reaches without importing them",
   d: "ts",

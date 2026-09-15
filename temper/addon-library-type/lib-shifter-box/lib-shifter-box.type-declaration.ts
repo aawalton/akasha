@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const libShifterBox = {
   id: "01a06115-1ac1-7001-91ca-e866a0004eff",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "lib-shifter-box",
   definition: "the two-list shifter box another add-on publishes as a global",
   d: "ts",

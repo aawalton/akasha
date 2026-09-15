@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const combatUiStateDeclarations = {
   id: "01a0625f-6d05-7c12-a403-332f6f9af394",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "combat-ui-state-declarations",
   definition: "the global names the markup gives the report window and its four panels",
   d: "ts",

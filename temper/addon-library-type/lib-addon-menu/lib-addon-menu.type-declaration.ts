@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const libAddonMenu = {
   id: "01a06090-f5b0-7a8e-bf7a-25bad6ce5dae",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "lib-addon-menu",
   definition: "what the lib-addon-menu library leaves in another add-on's reach",
   d: "ts",

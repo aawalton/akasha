@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const jennyCapacitorGlobals = {
   id: "01a0881b-03c9-76d7-910e-803dd38e06fa",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "jenny-capacitor-globals",
   definition: "the Capacitor shell and its push plugin, as a page in that shell finds them",
   d: "ts",

@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoCraftingStringIds = {
   id: "01a0616f-b191-78b5-b0dc-dc46988c7e79",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-crafting-string-ids",
   definition: "the string ids the game gives the crafting systems and the mail bag",
   d: "ts",

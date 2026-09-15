@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const libMapPing = {
   id: "01a06090-f5b3-7701-82bc-8bc23a5fb89b",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "lib-map-ping",
   definition: "what the lib-map-ping library leaves in another add-on's reach",
   d: "ts",

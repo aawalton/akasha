@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const vscodeApi = {
   id: "01a0680b-7175-7001-8191-14c34a59562f",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "vscode-api",
   definition: "the editor api an extension in this tree compiles against",
   d: "ts",

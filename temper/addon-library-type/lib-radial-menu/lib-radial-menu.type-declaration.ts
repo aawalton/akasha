@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const libRadialMenu = {
   id: "01a06090-f5b6-752a-8ee4-788a50d9a66f",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "lib-radial-menu",
   definition: "what the lib-radial-menu library leaves in another add-on's reach",
   d: "ts",

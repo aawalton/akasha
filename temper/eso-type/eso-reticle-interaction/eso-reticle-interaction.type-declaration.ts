@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoReticleInteraction = {
   id: "01a061e6-36ee-7e9a-ab54-a3bacac50e3e",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-reticle-interaction",
   definition: "the reticle the game aims with and the names it calls each interaction by",
   d: "ts",

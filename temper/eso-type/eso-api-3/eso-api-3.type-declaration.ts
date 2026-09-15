@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoApi3 = {
   id: "01a0608f-b07b-7630-a4f4-94b88e0c4663",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-api-3",
   definition: "a third set of the game calls an add-on makes",
   d: "ts",

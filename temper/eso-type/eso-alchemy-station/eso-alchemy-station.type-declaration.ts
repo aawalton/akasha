@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoAlchemyStation = {
   id: "01a0616f-b191-7c8d-a064-60a5d0399e45",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-alchemy-station",
   definition: "the alchemy station the game opens and the announcements it makes",
   d: "ts",

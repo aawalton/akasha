@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoInventoryContainers = {
   id: "01a0608f-b088-7676-b001-694ebc9754b3",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-inventory-containers",
   definition: "the numbers the game names its bags by",
   d: "ts",

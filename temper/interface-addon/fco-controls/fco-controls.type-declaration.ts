@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const fcoControls = {
   id: "01a06115-1abf-786e-b0a3-440e3bad7002",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "fco-controls",
   definition: "the controls this add-on's own XML makes, as the compiler reads them",
   d: "ts",

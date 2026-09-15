@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const furnitureCatalogue = {
   id: "01a0615d-c21d-7f94-9b8f-a87e6b6595dd",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "furniture-catalogue",
   definition: "what the furniture-catalogue library leaves in another add-on's reach",
   d: "ts",

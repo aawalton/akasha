@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const libSavedVars = {
   id: "01a06090-f5b6-71e5-a88f-48a8e7ee503f",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "lib-saved-vars",
   definition: "what the lib-saved-vars library leaves in another add-on's reach",
   d: "ts",

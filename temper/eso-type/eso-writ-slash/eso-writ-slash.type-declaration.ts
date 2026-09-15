@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoWritSlash = {
   id: "01a0608f-b08e-705b-8e88-2a6254343981",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-writ-slash",
   definition: "the slash commands a writ takes",
   d: "ts",

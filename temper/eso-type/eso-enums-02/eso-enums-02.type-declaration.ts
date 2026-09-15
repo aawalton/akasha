@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoEnums02 = {
   id: "01a0608f-b07c-7d8d-9b2a-00bc121f6f49",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-enums-02",
   definition: "one part of the numbers the game names its kinds by",
   d: "ts",

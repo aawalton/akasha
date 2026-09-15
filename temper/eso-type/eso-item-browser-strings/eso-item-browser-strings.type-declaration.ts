@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoItemBrowserStrings = {
   id: "01a0608f-b088-707d-bef8-be580e04e8d8",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-item-browser-strings",
   definition: "the strings an item browser shows",
   d: "ts",

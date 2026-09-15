@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoLibSetsStrings2 = {
   id: "01a061b9-af7e-72ef-8753-4e1254a8f5bf",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-lib-sets-strings-2",
   definition: "more game string ids lib-sets reads that the shared set had not named",
   d: "ts",

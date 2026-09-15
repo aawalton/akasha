@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const libCodesCommonCode = {
   id: "01a06090-f5b1-76b0-b0a3-1058efd70854",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "lib-codes-common-code",
   definition: "what the lib-codes-common-code library leaves in another add-on's reach",
   d: "ts",

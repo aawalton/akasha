@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const combatStringIdsReport = {
   id: "01a06202-ba7b-7d89-9ab5-59443c964262",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "combat-string-ids-report",
   definition: "the string ids the report window is worded from",
   d: "ts",

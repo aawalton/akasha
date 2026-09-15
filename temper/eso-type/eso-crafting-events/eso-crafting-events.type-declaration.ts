@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoCraftingEvents = {
   id: "01a0616f-b191-725a-aa40-82070980a138",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-crafting-events",
   definition: "the enchanting and provisioning tab buttons, and the stack-split window",
   d: "ts",

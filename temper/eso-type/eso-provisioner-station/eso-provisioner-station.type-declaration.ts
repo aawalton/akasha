@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoProvisionerStation = {
   id: "01a0616f-b191-7b36-abc6-49bac5140b22",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-provisioner-station",
   definition: "the provisioning window and the animation manager that slides it",
   d: "ts",

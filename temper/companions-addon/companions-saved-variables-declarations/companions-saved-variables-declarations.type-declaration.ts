@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const companionsSavedVariablesDeclarations = {
   id: "01a06240-f50b-7398-a216-62f4e797415a",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "companions-saved-variables-declarations",
   definition: "the saved table this add-on leaves in the global table",
   d: "ts",

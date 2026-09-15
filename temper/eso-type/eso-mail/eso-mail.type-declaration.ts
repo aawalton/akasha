@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoMail = {
   id: "01a0608f-b089-7127-b7b8-24b0628ff0ea",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-mail",
   definition: "the mail box and the calls reading it",
   d: "ts",

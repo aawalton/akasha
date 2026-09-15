@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const treeRow = {
   id: "01a07254-9a16-7f32-8d54-29daa3227516",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "tree-row",
   definition: "the fields every row of every tree the editor draws carries",
   d: "ts",

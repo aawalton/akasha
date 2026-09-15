@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoLibSetsUi = {
   id: "01a061b9-af7e-743d-a861-4a4e4ddef0a0",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-lib-sets-ui",
   definition: "game windows and helpers lib-sets calls that the shared set had not named",
   d: "ts",

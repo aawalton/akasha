@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoDeconstruction = {
   id: "01a0608f-b07b-73be-ba52-a467fa9b2b8c",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-deconstruction",
   definition: "the deconstruction panel and the calls reading it",
   d: "ts",

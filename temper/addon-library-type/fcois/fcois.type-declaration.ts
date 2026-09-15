@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const fcois = {
   id: "01a06090-f5af-7080-b8fc-01b528ed4009",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "fcois",
   definition: "what the fcois library leaves in another add-on's reach",
   d: "ts",

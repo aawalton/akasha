@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoMainMenuBar = {
   id: "01a061fe-1496-7011-81fe-5f31d724998b",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-main-menu-bar",
   definition: "the bar the game keeps its main menu categories on, and the tables hanging off it",
   d: "ts",

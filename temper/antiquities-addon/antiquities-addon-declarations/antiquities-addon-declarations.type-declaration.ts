@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const antiquitiesAddonDeclarations = {
   id: "01a06274-b08b-7a2a-84db-f4b8db9ddcde",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "antiquities-addon-declarations",
   definition: "the shape of the global table this add-on publishes",
   d: "ts",

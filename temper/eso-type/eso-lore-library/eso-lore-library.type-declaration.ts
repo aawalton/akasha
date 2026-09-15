@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoLoreLibrary = {
   id: "01a0608f-b088-70d6-8f40-a453773a6574",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-lore-library",
   definition: "the lore library and the books it has",
   d: "ts",

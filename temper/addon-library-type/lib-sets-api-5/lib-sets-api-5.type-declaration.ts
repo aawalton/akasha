@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const libSetsApi5 = {
   id: "01a061b8-4f59-7367-b541-c792ff3c8e18",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "lib-sets-api-5",
   definition: "what lib-sets answers about tooltips, debugging and its own search window",
   d: "ts",

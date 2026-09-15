@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const esoSandbox = {
   id: "01a06c82-21b5-74b7-9f92-ab9f244c6e82",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "eso-sandbox",
   definition: "the Lua standard library the game's sandbox leaves in reach",
   d: "ts",
