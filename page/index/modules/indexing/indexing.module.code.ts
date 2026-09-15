@@ -1,7 +1,10 @@
 import { existsSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
-import { identityIn } from "akasha/page/index/identity/index-identity.index.code.ts"
+import {
+  IDENTITIES,
+  identitiesIn,
+} from "akasha/page/index/modules/identities/index-identities.module.code.ts"
 import {
   type Entry,
   fileKeysIn,
@@ -11,6 +14,7 @@ import {
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
   type Drift,
+  filedUnder,
   keepDelta,
   keepWhole,
   type Laid,
@@ -135,8 +139,15 @@ export function refreshedFrom(
   refusingEmpty(unique, held.length)
   const source = sourceOver(values)
   const identifying = identifyingFrom(source)
-  const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
-  const drift = [reconcile(identity, root, put, done)]
+  const identity = held.flatMap((one) => identitiesIn(one.value, one.path, repo, identifying))
+  const drift = IDENTITIES.map((name) =>
+    reconcile(
+      identity.filter((one) => filedUnder(one.at) === name),
+      root,
+      put,
+      done
+    )
+  )
   const shaped = put
     ? wholeInto(repo, shapesAmong(held.map((one) => ({ ...one, path: under(repo, one.path) }))))
     : []

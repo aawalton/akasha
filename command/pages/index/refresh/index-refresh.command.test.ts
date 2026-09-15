@@ -286,7 +286,7 @@ test("a path belonging to no index is taken away and named", () => {
 
 test("a refresh that stopped part way names the indexes it wrote and the file it had in hand", () => {
   const root = repoAt()
-  const blocked = `identity/page/id/${slugPage.id}.jsonl`
+  const blocked = `page/id/${slugPage.id}.jsonl`
   mkdirSync(join(root, indexNamed(), blocked, "inside"), { recursive: true })
 
   const answer = indexRefresh([], givenAt(root))
@@ -296,7 +296,7 @@ test("a refresh that stopped part way names the indexes it wrote and the file it
     "the refresh wrote part of the index before it stopped — run it again"
   )
   expect(answer.refusals[2] ?? "").toMatch(
-    new RegExp(`^what it wrote by then: identity — \\d+ files? written, \`${blocked}\` in hand$`)
+    new RegExp(`^what it wrote by then: page — \\d+ files? written, \`${blocked}\` in hand$`)
   )
 })
 

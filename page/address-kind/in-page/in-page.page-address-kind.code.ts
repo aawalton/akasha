@@ -1,4 +1,4 @@
-import type { Filed } from "akasha/page/index/identity/index-identity.index.code.ts"
+import type { Filed } from "akasha/page/index/modules/identifying/index-identifying.module.code.ts"
 import type { Id } from "akasha/page/properties/id.text-property.types.ts"
 
 const PAGE = "page"

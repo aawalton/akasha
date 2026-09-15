@@ -44,7 +44,7 @@ function filed(root: string, at: string, said: Record<string, unknown>): undefin
 }
 
 function pageFiled(root: string, at: string, id: string): undefined {
-  filed(root, `identity/page/id/${id}.jsonl`, { path: at, id })
+  filed(root, `page/id/${id}.jsonl`, { path: at, id })
 }
 
 function edged(root: string, slug: string, generator: string): undefined {
@@ -67,7 +67,7 @@ function property(
     at,
     `export const held = { id: "${id}", pageTypeSlug: "${SHAPE}", slug: "${slug}", propertySlug: "${propertySlug}"${said} }\n`
   )
-  filed(root, `identity/page-type/${SHAPE}/slug/${slug}.jsonl`, { path: at, id })
+  filed(root, `page-type/${SHAPE}/slug/${slug}.jsonl`, { path: at, id })
   pageFiled(root, at, id)
   if (generator !== null) edged(root, slug, generator)
 }
@@ -80,7 +80,7 @@ function kind(root: string, slug: string, afterChecks: boolean): undefined {
     at,
     `export const held = { id: "${id}", pageTypeSlug: "${KIND}", slug: "${slug}", afterChecks: ${afterChecks} }\n`
   )
-  filed(root, `identity/page-type/${KIND}/slug/${slug}.jsonl`, { path: at, id })
+  filed(root, `page-type/${KIND}/slug/${slug}.jsonl`, { path: at, id })
   pageFiled(root, at, id)
   valueAlsoFiled(root, KIND, [{ path: at, value: { id, pageTypeSlug: KIND, slug, afterChecks } }])
 }
@@ -96,7 +96,7 @@ function typed(
   const carried = declares.map((one) => ({ pageProperty: one, required: false, many: false }))
   const value = { id, pageTypeSlug: "page-type", slug, extends: over, properties: carried }
   put(root, at, `export const held = ${JSON.stringify(value)}\n`)
-  filed(root, `identity/page-type/page-type/slug/${slug}.jsonl`, { path: at, id })
+  filed(root, `page-type/page-type/slug/${slug}.jsonl`, { path: at, id })
   pageFiled(root, at, id)
   valueAlsoFiled(root, "page-type", [{ path: at, value }])
 }

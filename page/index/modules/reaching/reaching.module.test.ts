@@ -55,7 +55,7 @@ function twoParents(): { readonly root: string; readonly repo: string } {
     const path = `${slug}.page-type.ts`
     const value = { id, pageTypeSlug: "page-type", slug, extends: above }
     writeFileSync(join(repo, path), `export const it = ${JSON.stringify(value)}\n`)
-    lineFiled(root, `identity/page-type/page-type/slug/${slug}.jsonl`, JSON.stringify({ path, id }))
+    lineFiled(root, `page-type/page-type/slug/${slug}.jsonl`, JSON.stringify({ path, id }))
     valued.push(JSON.stringify({ path, value }))
   }
   typed("module", ["domain"], "1")
@@ -232,7 +232,7 @@ function entryShapes(): { readonly root: string; readonly repo: string } {
     const type = String(value["pageTypeSlug"])
     kept.set(type, [...(kept.get(type) ?? []), JSON.stringify({ path: at, value })])
     filed(
-      `identity/page-type/${type}/slug/${String(value["slug"])}.jsonl`,
+      `page-type/${type}/slug/${String(value["slug"])}.jsonl`,
       JSON.stringify({ path: at, id: value["id"] })
     )
   }
@@ -290,7 +290,7 @@ function oneOfRecords(): { readonly root: string; readonly repo: string } {
     const type = String(value["pageTypeSlug"])
     kept.set(type, [...(kept.get(type) ?? []), JSON.stringify({ path: at, value })])
     filed(
-      `identity/page-type/${type}/slug/${String(value["slug"])}.jsonl`,
+      `page-type/${type}/slug/${String(value["slug"])}.jsonl`,
       JSON.stringify({ path: at, id: value["id"] })
     )
   }

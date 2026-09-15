@@ -85,7 +85,7 @@ test("a removed page leaves no entry and no empty directory", () => {
 
   expect(existsSync(idFile(root, A))).toBe(false)
   expect(existsSync(slugFile(root, "domain", "a"))).toBe(false)
-  expect(existsSync(join(root, "identity", "page-type", "domain"))).toBe(false)
+  expect(existsSync(join(root, "page-type", "domain"))).toBe(false)
 })
 
 test("two pages carrying one value leave two lines in one file", () => {
@@ -243,7 +243,7 @@ test("a refresh that threw names the stages it finished and the file it had in h
 
   expect(() => refreshedFrom(tree, root, tree, true, done)).toThrow()
 
-  expect(done[0] ?? "").toMatch(/^identity — \d+ files? written$/)
+  expect(done[0] ?? "").toMatch(/^page — \d+ files? written$/)
   expect(done[done.length - 1] ?? "").toMatch(/^deep — \d+ files? written, `\S+` in hand$/)
 })
 

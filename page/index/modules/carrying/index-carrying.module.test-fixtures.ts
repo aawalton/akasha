@@ -16,7 +16,7 @@ const AWAY = "01a09209-0000-7000-8000-00000000000b"
 
 const BYTES = new TextEncoder()
 
-export const AT = indexAt("identity", "page/id/held.jsonl")
+export const AT = indexAt("page", "id/held.jsonl")
 
 export const AWAY_AT = indexAt("path", "akasha/a.domain.ts.jsonl")
 
@@ -30,7 +30,7 @@ function indexPageIn(root: string, slug: string, id: string, value: object): und
 
 export function worldOf(root: string, value: object): string {
   nothingFiled(root)
-  indexPageIn(root, "index-identity", HELD, value)
+  indexPageIn(root, "index-page", HELD, value)
   indexPageIn(root, "index-path", AWAY, { name: "path" })
   return root
 }

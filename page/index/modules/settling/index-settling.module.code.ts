@@ -1,4 +1,4 @@
-import { identityIn } from "akasha/page/index/identity/index-identity.index.code.ts"
+import { identitiesIn } from "akasha/page/index/modules/identities/index-identities.module.code.ts"
 import {
   idsUnnamed,
   pagesElsewhere,
@@ -195,16 +195,16 @@ export function settlingOver(
   const identity = filingOf(
     [
       ...held.flatMap((one) =>
-        one.was === null ? [] : identityIn(one.was, one.path, repo, wasIdentifying)
+        one.was === null ? [] : identitiesIn(one.was, one.path, repo, wasIdentifying)
       ),
-      ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, wasIdentifying, turned)),
-      ...stranded.flatMap((one) => identityIn(one.value, one.path, repo, wasIdentifying)),
+      ...elsewhere.flatMap((one) => identitiesIn(one.value, one.path, repo, wasIdentifying, turned)),
+      ...stranded.flatMap((one) => identitiesIn(one.value, one.path, repo, wasIdentifying)),
     ],
     [
       ...held.flatMap((one) =>
-        one.now === null ? [] : identityIn(one.now, one.path, repo, nowIdentifying)
+        one.now === null ? [] : identitiesIn(one.now, one.path, repo, nowIdentifying)
       ),
-      ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, nowIdentifying, turned)),
+      ...elsewhere.flatMap((one) => identitiesIn(one.value, one.path, repo, nowIdentifying, turned)),
     ]
   )
   const wrote = new Map(moving.map((one) => [under(repo, one.path), one.after] as const))

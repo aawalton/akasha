@@ -312,8 +312,8 @@ export const pagesRepo = (): string =>
   repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
 
 export const filedFor = (id: string): readonly string[] => [
-  `identity/page/id/${id}.jsonl`,
-  "identity/page-type/domain/slug/a.jsonl",
+  `page/id/${id}.jsonl`,
+  "page-type/domain/slug/a.jsonl",
 ]
 
 const VOCABULARY: readonly (readonly [string, string])[] = [
@@ -325,8 +325,10 @@ const VOCABULARY: readonly (readonly [string, string])[] = [
 
 export const LINE = `{"path":"akasha/a.domain.ts","id":"${ID}"}`
 
+const IDENTITY_UNDER: readonly string[] = ["/page/", "/page-property/", "/page-type/"]
+
 const identityAmong = (found: readonly string[]): readonly string[] =>
-  found.filter((one) => one.startsWith("/identity/"))
+  found.filter((one) => IDENTITY_UNDER.some((at) => one.startsWith(at)))
 
 const REAL: readonly Value[] = [textProperty, idPage, slugPage]
 

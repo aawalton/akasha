@@ -180,7 +180,7 @@ test("what imports a file is answered as the reader beneath answers it", () => {
 test("a question is answered from the reading bound rather than from the index at a root", () => {
   const root = seeded()
   const laid = readingLaidOver(root, {
-    "identity/page-type/module/slug/laid.jsonl": [{ path: LAID_AT, id: LAID_ID }],
+    "page-type/module/slug/laid.jsonl": [{ path: LAID_AT, id: LAID_ID }],
   })
   const index = answeringOver(laid, pageOf)
   expect(index.listedAt(MODULE, "laid")).toEqual([{ path: LAID_AT, id: LAID_ID }])

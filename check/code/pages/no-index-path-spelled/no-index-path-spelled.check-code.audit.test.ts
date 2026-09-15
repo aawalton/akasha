@@ -14,7 +14,7 @@ test("a tree spelling no path into the index is let through", () => {
 })
 
 test("a spelling no change names is refused, because an audit reads the whole tree", () => {
-  const root = tracked({ [HELD]: `const at = "${AT}/identity/module/slug"\n` })
+  const root = tracked({ [HELD]: `const at = "${AT}/module/slug"\n` })
   const said = noIndexPathSpelled(root)
   expect(said.map((one) => one.path)).toEqual([HELD])
   expect(said[0]?.reason).toContain("spells a path into the index")

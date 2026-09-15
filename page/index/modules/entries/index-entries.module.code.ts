@@ -1,5 +1,4 @@
 import { join } from "node:path"
-import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import { shapesAt } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { heldOnce, readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -18,8 +17,6 @@ import {
 } from "akasha/page/type/modules/gathering/page-type-gathering.module.code.ts"
 
 const ENDING = ".jsonl"
-
-const IDENTITY = indexIdentity.name
 
 const PAGE_TYPE = "page-type"
 
@@ -41,7 +38,7 @@ export type Entry = {
 function typesFiledIn(reading: Reading): ReadonlySet<string> {
   const found = new Set<string>([PAGE_TYPE])
   for (const one of typeSlugsIn(reading)) {
-    for (const each of reading.listing(join(IDENTITY, PAGE_TYPE, one, "slug"))) {
+    for (const each of reading.listing(join(PAGE_TYPE, one, "slug"))) {
       found.add(each.name.slice(0, -ENDING.length))
     }
   }

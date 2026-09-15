@@ -104,10 +104,10 @@ export function settled(
 }
 
 export const idFile = (root: string, id: string): string =>
-  join(root, `identity/page/id/${id}.jsonl`)
+  join(root, `page/id/${id}.jsonl`)
 
 export const slugFile = (root: string, type: string, slug: string): string =>
-  join(root, `identity/page-type/${type}/slug/${slug}.jsonl`)
+  join(root, `page-type/${type}/slug/${slug}.jsonl`)
 
 export const linesIn = (at: string): readonly string[] =>
   readFileSync(at, "utf8")
@@ -302,7 +302,7 @@ function uniqueKindRespelled(unique: string): readonly string[] {
 }
 
 export const untouchedAfter = (unique: string): boolean =>
-  uniqueKindRespelled(unique).some((one) => one.includes(join("identity", "page", "id", B)))
+  uniqueKindRespelled(unique).some((one) => one.includes(join("page", "id", B)))
 
 export const aTarget = (slug: string): Named => thePage({ id: D, pageTypeSlug: "domain", slug })
 

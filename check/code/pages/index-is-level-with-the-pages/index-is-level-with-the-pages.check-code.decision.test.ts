@@ -21,7 +21,7 @@ test("an entry naming one file is told from one gathering many", () => {
   expect(namesOneFile("import/path/checks/one.ts.jsonl")).toBe(true)
   expect(namesOneFile("value/module.jsonl")).toBe(false)
   expect(namesOneFile("rule/read/at-path.jsonl")).toBe(false)
-  expect(namesOneFile("identity/page-type/module/slug/checking.jsonl")).toBe(false)
+  expect(namesOneFile("page-type/module/slug/checking.jsonl")).toBe(false)
 })
 
 test("an entry naming a file no commit carries is judged by nothing", () => {

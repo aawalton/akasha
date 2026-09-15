@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import type { Filed } from "akasha/page/index/identity/index-identity.index.code.ts"
+import type { Filed } from "akasha/page/index/modules/identifying/index-identifying.module.code.ts"
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 
 const PAGE_PROPERTY = "page-property"

@@ -22,7 +22,7 @@ const SEATS_AT = "held/chairs/seats"
 
 const SEATS_BEFORE = "seat-system/seat/pages"
 
-const SEAT_FILED_AT = indexAt("identity", "page-type", "page-type", "slug", "seat.jsonl")
+const SEAT_FILED_AT = indexAt("page-type", "page-type", "slug", "seat.jsonl")
 
 function put(root: string, path: string, body: string): undefined {
   const at = join(root, path)

@@ -4,7 +4,6 @@ import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.te
 import { admitting } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
-import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import {
   idFiled,
   listedFiled,
@@ -93,7 +92,7 @@ function identityFiled(
   said: string,
   lines: readonly unknown[]
 ): undefined {
-  filing(root, join(indexIdentity.name, uniqueKind, scope, propertySlug, said), lines)
+  filing(root, join(uniqueKind, scope, propertySlug, said), lines)
 }
 
 function identityListed(
@@ -103,7 +102,7 @@ function identityListed(
   propertySlug: string,
   said: string
 ): boolean {
-  const at = join(indexIdentity.name, uniqueKind, scope, propertySlug, `${said}${ENDING}`)
+  const at = join(uniqueKind, scope, propertySlug, `${said}${ENDING}`)
   return existsSync(under(root, at))
 }
 
@@ -125,7 +124,7 @@ export function listedAlsoFiled(
   slug: string,
   lines: readonly unknown[]
 ): undefined {
-  adding(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG, slug), lines)
+  adding(root, join(PAGE_TYPE, pageTypeSlug, SLUG, slug), lines)
 }
 
 export function listedAndValued(
@@ -161,7 +160,7 @@ export function pageFilingFrom(
 }
 
 export function listedUnreadableFiled(root: string, pageTypeSlug: string, slug: string): undefined {
-  unreadable(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG, `${slug}${ENDING}`))
+  unreadable(root, join(PAGE_TYPE, pageTypeSlug, SLUG, `${slug}${ENDING}`))
 }
 
 export function pageFiled(root: string, id: string, path: string): undefined {
@@ -299,7 +298,7 @@ export function nothingFiled(root: string): undefined {
 }
 
 export function noneOfTypeFiled(root: string, pageTypeSlug: string): undefined {
-  foldering(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG))
+  foldering(root, join(PAGE_TYPE, pageTypeSlug, SLUG))
 }
 
 export function linesFiled(root: string, at: string, lines: readonly unknown[]): undefined {
@@ -359,19 +358,19 @@ export function refreshedApart(root: string, tree: string, aside: string): reado
 }
 
 export function listedTakenFrom(root: string, pageTypeSlug: string, slug: string): undefined {
-  taking(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG, `${slug}${ENDING}`))
+  taking(root, join(PAGE_TYPE, pageTypeSlug, SLUG, `${slug}${ENDING}`))
 }
 
 export function identitiesListedIn(root: string, pageTypeSlug: string): boolean {
-  return existsSync(under(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug)))
+  return existsSync(under(root, join(PAGE_TYPE, pageTypeSlug)))
 }
 
 export function idTakenFrom(root: string, id: string): undefined {
-  taking(root, join(indexIdentity.name, PAGE, ID, `${id}${ENDING}`))
+  taking(root, join(PAGE, ID, `${id}${ENDING}`))
 }
 
 export function identitiesTakenFrom(root: string, pageTypeSlug: string): undefined {
-  taking(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug))
+  taking(root, join(PAGE_TYPE, pageTypeSlug))
 }
 
 export function fileWhereTheIndexIs(root: string, text: string): undefined {

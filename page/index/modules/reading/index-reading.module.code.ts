@@ -1,5 +1,4 @@
 import { join } from "node:path"
-import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import type { Reading, Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   INDEX_AT,
@@ -19,8 +18,6 @@ export type Listed = {
   readonly path: string
   readonly id: string
 }
-
-const IDENTITY = indexIdentity.name
 
 const PROPERTY = "page-property"
 
@@ -105,8 +102,8 @@ function endingIn(said: readonly { readonly name: string }[]): readonly string[]
 }
 
 function slugFolders(reading: Reading, pageTypeSlug: string): readonly string[] {
-  const found = [join(IDENTITY, PAGE_TYPE, pageTypeSlug, SLUG)]
-  const scoped = join(IDENTITY, PROPERTY, pageTypeSlug)
+  const found = [join(PAGE_TYPE, pageTypeSlug, SLUG)]
+  const scoped = join(PROPERTY, pageTypeSlug)
   for (const property of reading.listing(scoped)) {
     if (!property.directory) continue
     for (const one of reading.listing(join(scoped, property.name))) {
@@ -136,7 +133,7 @@ export function listedNamed(
 ): readonly Listed[] {
   return listedIn(
     readingIn(given),
-    join(IDENTITY, uniqueKind, scope, propertySlug, `${said}${ENDING}`)
+    join(uniqueKind, scope, propertySlug, `${said}${ENDING}`)
   )
 }
 
@@ -161,7 +158,7 @@ export function listedWithin(
 }
 
 export function listedById(given: string | Reading, id: string): Listed | null {
-  return listedIn(readingIn(given), join(IDENTITY, PAGE, ID, `${id}${ENDING}`))[0] ?? null
+  return listedIn(readingIn(given), join(PAGE, ID, `${id}${ENDING}`))[0] ?? null
 }
 
 export function listedEvery(given: string | Reading, address: PageAddress): readonly Listed[] {

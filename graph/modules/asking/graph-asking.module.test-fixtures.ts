@@ -100,7 +100,7 @@ export const LOADED_CODE_AT = "akasha/held/loaded.held-type.code.ts"
 
 export const LEAF_AT = `${HELD_RELATION}/page/id/${TARGET_ID}/${PART}/${SOURCE_ID}.jsonl`
 
-const TYPE_FILED_AT = `identity/page-type/${PAGE_TYPE}/slug/${HELD_TYPE}.jsonl`
+const TYPE_FILED_AT = `page-type/${PAGE_TYPE}/slug/${HELD_TYPE}.jsonl`
 
 const PAGE = "page"
 
@@ -110,9 +110,9 @@ const PAGE_TYPE_ID = "01a04ff4-0000-7000-8000-000000000013"
 
 const PAGE_TYPE_AT = "akasha/held/page.page-type.ts"
 
-const PAGE_FILED_AT = `identity/page-type/${PAGE_TYPE}/slug/${PAGE}.jsonl`
+const PAGE_FILED_AT = `page-type/${PAGE_TYPE}/slug/${PAGE}.jsonl`
 
-const MODULE_FILED_AT = `identity/page-type/${PAGE_TYPE}/slug/${MODULE}.jsonl`
+const MODULE_FILED_AT = `page-type/${PAGE_TYPE}/slug/${MODULE}.jsonl`
 
 export const scratch = scratchWorld()
 
@@ -171,10 +171,10 @@ export function namedBeside(
   return bodyBeside(page, [{ propertySlug, fileName: null, path: from, id }])
 }
 
-export const INDEX_FILED_AT = `identity/page-type/${INDEX}/slug/${HELD_INDEX}.jsonl`
+export const INDEX_FILED_AT = `page-type/${INDEX}/slug/${HELD_INDEX}.jsonl`
 
 export function edgeFiledAt(kind: string): string {
-  return `identity/page-type/${GRAPH_EDGE}/slug/${kind}.jsonl`
+  return `page-type/${GRAPH_EDGE}/slug/${kind}.jsonl`
 }
 
 function indexed(root: string, indexName: string, exists: boolean): undefined {
@@ -228,7 +228,7 @@ export function relationWorld(lines: number, pagesExist = true): string {
   })
   filed(root, `path/${TARGET_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
   filed(root, `path/${SIDECAR_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
-  filed(root, `identity/page/id/${TARGET_ID}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
+  filed(root, `page/id/${TARGET_ID}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
   if (lines > 0) {
     filedAll(
       root,
@@ -282,7 +282,7 @@ export function loadingWorld(loadedBy: string | null, typeExists = true): string
     definition: "a module a test invented",
     code: "ts",
   })
-  filed(root, `identity/page-type/${MODULE}/slug/${HELD_LOADER}.jsonl`, {
+  filed(root, `page-type/${MODULE}/slug/${HELD_LOADER}.jsonl`, {
     path: LOADER_AT,
     id: LOADER_ID,
   })
@@ -304,7 +304,7 @@ export function loaderWorld(names = true): string {
     loadedBy: `${MODULE}/${HELD_LOADER}`,
   })
   filed(root, `path/${TYPE_AT}.jsonl`, { path: TYPE_AT, id: TYPE_ID })
-  filed(root, `identity/page/id/${TYPE_ID}.jsonl`, { path: TYPE_AT, id: TYPE_ID })
+  filed(root, `page/id/${TYPE_ID}.jsonl`, { path: TYPE_AT, id: TYPE_ID })
   filed(root, TYPE_FILED_AT, { path: TYPE_AT, id: TYPE_ID })
   paged(root, LOADER_AT, {
     id: LOADER_ID,
@@ -314,7 +314,7 @@ export function loaderWorld(names = true): string {
     code: "ts",
   })
   filed(root, `path/${LOADER_AT}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
-  filed(root, `identity/page/id/${LOADER_ID}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
+  filed(root, `page/id/${LOADER_ID}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
   paged(root, MODULE_TYPE_AT, {
     id: MODULE_TYPE_ID,
     pageTypeSlug: PAGE_TYPE,
@@ -324,7 +324,7 @@ export function loaderWorld(names = true): string {
   filed(root, MODULE_FILED_AT, { path: MODULE_TYPE_AT, id: MODULE_TYPE_ID })
   paged(root, LOADED_AT, { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED })
   filed(root, `path/${LOADED_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
-  filed(root, `identity/page-type/${HELD_TYPE}/slug/${LOADED}.jsonl`, {
+  filed(root, `page-type/${HELD_TYPE}/slug/${LOADED}.jsonl`, {
     path: LOADED_AT,
     id: LOADED_ID,
   })

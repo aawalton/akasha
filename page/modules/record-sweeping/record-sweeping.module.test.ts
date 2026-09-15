@@ -18,8 +18,6 @@ type Page = {
 
 const HOURS = 24
 
-const IDENTITY = "identity"
-
 const HOOK = "a/one.hook.ts"
 
 const CHECK = "b/two.check.ts"
@@ -83,7 +81,7 @@ function bodiesIn(): ReadonlyMap<string, string> {
 const BODIES = bodiesIn()
 
 function slugFolder(pageTypeSlug: string): string {
-  return `${IDENTITY}/page-type/${pageTypeSlug}/slug`
+  return `page-type/${pageTypeSlug}/slug`
 }
 
 const READING: Reading = {

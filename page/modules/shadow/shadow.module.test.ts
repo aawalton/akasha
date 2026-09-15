@@ -91,7 +91,7 @@ test("the change really moves the index, so the equality is not an equality of t
 
 test("a slug two pages carry loses only the line of the page taken away", () => {
   const repo = seeded()
-  const at = "identity/page-type/domain/slug/same.jsonl"
+  const at = "page-type/domain/slug/same.jsonl"
   expect(readingIn(repo).lines(at).length).toBe(2)
   expect(shadowOf(shadowFor(changeOver(repo, CHANGES))).lines(at)).toEqual([
     `{"path":"akasha/two/same.domain.ts","id":"${idOf("f")}"}`,
@@ -100,7 +100,7 @@ test("a slug two pages carry loses only the line of the page taken away", () => 
 
 test("a property the change stops making unique loses the identity filed for a page outside it", () => {
   const repo = seededNaming()
-  const at = "identity/page/name/shared.jsonl"
+  const at = "page/name/shared.jsonl"
   expect(readingIn(repo).lines(at)).toEqual([`{"path":"akasha/${SHARED_AT}","id":"${idOf("k")}"}`])
   const reading = shadowOf(shadowFor(changeOver(repo, [aChange(NAME_AT, naming(null))])))
   expect(reading.lines(at)).toEqual([])
@@ -110,10 +110,10 @@ test("a property the change stops making unique loses the identity filed for a p
 test("a directory the change empties is not listed, and one it fills is", () => {
   const repo = seeded()
   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
-  expect(readingIn(repo).holds("identity/page-type/module")).toBe(true)
-  expect(reading.holds("identity/page-type/module")).toBe(false)
-  expect(reading.holds("identity/page-type/tag")).toBe(true)
-  const named = reading.listing("identity/page-type").map((one) => one.name)
+  expect(readingIn(repo).holds("page-type/module")).toBe(true)
+  expect(reading.holds("page-type/module")).toBe(false)
+  expect(reading.holds("page-type/tag")).toBe(true)
+  const named = reading.listing("page-type").map((one) => one.name)
   expect(named).not.toContain("module")
   expect(named).toContain("tag")
 })
@@ -132,7 +132,7 @@ test("a page of a page type the same change declares is in the shadow as it is i
   const repo = seeded()
   const twin = landedInto(repo, CHANGES)
   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
-  const at = "identity/page-type/tag/slug/h.jsonl"
+  const at = "page-type/tag/slug/h.jsonl"
   expect(reading.lines(at)).toEqual(readingIn(twin).lines(at))
 })
 

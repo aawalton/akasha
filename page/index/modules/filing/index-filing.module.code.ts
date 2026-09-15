@@ -1,6 +1,5 @@
 import { appendFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -51,7 +50,7 @@ function identityFiled(
   said: string,
   lines: readonly unknown[]
 ): undefined {
-  written(root, join(indexIdentity.name, uniqueKind, scope, propertySlug, said), lines)
+  written(root, join(uniqueKind, scope, propertySlug, said), lines)
 }
 
 export function listedFiled(
@@ -116,8 +115,8 @@ function listedAlso(
   const id = idFor(path, value)
   const slug = slugFor(path, value)
   if (slug === null) return
-  onceWritten(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG, slug), [{ path, id }])
-  onceWritten(root, join(indexIdentity.name, PAGE, NO_SCOPE, ID, id), [{ path, id }])
+  onceWritten(root, join(PAGE_TYPE, pageTypeSlug, SLUG, slug), [{ path, id }])
+  onceWritten(root, join(PAGE, NO_SCOPE, ID, id), [{ path, id }])
 }
 
 export function valueAlsoFiled(
@@ -135,14 +134,7 @@ export function valueAlsoFiled(
 }
 
 function pathCarrying(root: string, pageTypeSlug: string, slug: string): string | null {
-  const path = join(
-    indexIn(root),
-    indexIdentity.name,
-    PAGE_TYPE,
-    pageTypeSlug,
-    SLUG,
-    `${slug}${ENDING}`
-  )
+  const path = join(indexIn(root), PAGE_TYPE, pageTypeSlug, SLUG, `${slug}${ENDING}`)
   if (!existsSync(path)) return null
   for (const line of readFileSync(path, "utf8").split("\n")) {
     if (line.trim() === "") continue

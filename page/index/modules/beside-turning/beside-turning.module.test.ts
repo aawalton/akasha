@@ -16,9 +16,9 @@ const aType = (slug: string, above: readonly string[], properties: readonly Held
 
 const BLAND = aType("bland", ["base"], [])
 
-const TYPE_SLUGS = "identity/page-type/page-type/slug"
+const TYPE_SLUGS = "page-type/page-type/slug"
 
-const BLAND_SLUGS = "identity/page-type/bland/slug"
+const BLAND_SLUGS = "page-type/bland/slug"
 
 const AT = `${BLAND_SLUGS}/one.jsonl`
 

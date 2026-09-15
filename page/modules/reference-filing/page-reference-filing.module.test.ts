@@ -18,7 +18,7 @@ const TYPE_AT = "akasha/module.page-type.ts"
 
 const TYPE_ID = "01a04b79-0000-7000-8000-00000000000c"
 
-const AT_SLUGS = "identity/page-type/page-type/slug"
+const AT_SLUGS = "page-type/page-type/slug"
 
 const LISTED: readonly Child[] = [{ name: "module.jsonl", directory: false }]
 

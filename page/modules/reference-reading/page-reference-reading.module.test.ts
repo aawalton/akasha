@@ -41,13 +41,13 @@ const SHAPED = `${JSON.stringify({
 })}\n`
 
 const HELD: Record<string, string> = {
-  "identity/page/id/01a0a2e9-c513-7eed-aa47-000000000002.jsonl": `{"path":"${NAMED_AT}","id":"${NAMED_ID}"}`,
-  "identity/page-type/page-type/slug/domain.jsonl":
+  "page/id/01a0a2e9-c513-7eed-aa47-000000000002.jsonl": `{"path":"${NAMED_AT}","id":"${NAMED_ID}"}`,
+  "page-type/page-type/slug/domain.jsonl":
     '{"path":"akasha/domain.page-type.ts","id":"01a0a2e9-c513-7eed-aa47-000000000005"}',
-  "identity/page-type/page-type/slug/module.jsonl":
+  "page-type/page-type/slug/module.jsonl":
     '{"path":"akasha/module.page-type.ts","id":"01a0a2e9-c513-7eed-aa47-000000000006"}',
-  "identity/page-type/page-type/slug/router-app.jsonl": `{"path":"${APP_TYPE_AT}","id":"${APP_TYPE_ID}"}`,
-  "identity/page-type/router-app/slug/held-web.jsonl": `{"path":"${APP_AT}","id":"${APP_ID}"}`,
+  "page-type/page-type/slug/router-app.jsonl": `{"path":"${APP_TYPE_AT}","id":"${APP_TYPE_ID}"}`,
+  "page-type/router-app/slug/held-web.jsonl": `{"path":"${APP_AT}","id":"${APP_ID}"}`,
   [APP_TYPE_AT]: TYPED,
   "akasha/router-app.page-type.shapes.jsonl": SHAPED,
   "akasha/b.domain.referenced-by.jsonl": [

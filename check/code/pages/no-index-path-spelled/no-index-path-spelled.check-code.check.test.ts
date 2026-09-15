@@ -13,7 +13,7 @@ import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 
-const SPELLS = `const at = "${AT}/identity/module/slug"\n`
+const SPELLS = `const at = "${AT}/module/slug"\n`
 
 function judged(root: string, changed: readonly string[]): readonly Judged[] {
   const held = change(root, changed)
@@ -29,6 +29,6 @@ test("a body the change carries spelling a path into the index is refused, namin
 })
 
 test("a page the change carries asks the index nothing, so a page is passed over", () => {
-  const body = `export const held = { evidence: "measured at ${AT}/identity/module/slug" }\n`
+  const body = `export const held = { evidence: "measured at ${AT}/module/slug" }\n`
   expect(judged(rooted({ [PAGE]: body }), [PAGE])).toEqual([])
 })

@@ -15,7 +15,7 @@ import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 afterAll(scratch.sweep)
 
 test("a body spelling a path into the index is refused", () => {
-  const said = reasonsIn(HELD, `const at = "${AT}/identity/check/slug"\n`)
+  const said = reasonsIn(HELD, `const at = "${AT}/check/slug"\n`)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("spells a path into the index")
 })
@@ -40,14 +40,14 @@ test("each spelling is named on its own", () => {
 })
 
 test("a long string carrying the path is shortened where the refusal names it", () => {
-  const why = `nothing at all is under ${AT}/identity/page/id, so the index answered nothing`
+  const why = `nothing at all is under ${AT}/page/id, so the index answered nothing`
   const said = reasonsIn(HELD, `const why = "${why}"\n`)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("…")
 })
 
 test("a name the index folder's name only ends is no path into the index", () => {
-  const body = `const at = "akasha/page/index/identity/index-identity${AT}.code.ts"\n`
+  const body = `const at = "akasha/page/index/page/index-page${AT}.code.ts"\n`
   expect(reasonsIn(HELD, body)).toEqual([])
 })
 
@@ -57,12 +57,12 @@ test("a name carrying the index folder's name inside a word is no path into the 
 })
 
 test("a page asks the index nothing, so a page is passed over", () => {
-  const body = `export const held = {\n  evidence: "measured at ${AT}/identity/module/slug",\n}\n`
+  const body = `export const held = {\n  evidence: "measured at ${AT}/module/slug",\n}\n`
   expect(reasonsIn(PAGE, body)).toEqual([])
 })
 
 test("a file beside a page is judged, so the page alone is passed over", () => {
-  expect(reasonsIn(HELD, `const at = "${AT}/identity/module/slug"\n`)).toHaveLength(1)
+  expect(reasonsIn(HELD, `const at = "${AT}/module/slug"\n`)).toHaveLength(1)
 })
 
 test("where the index folder sits is read from the index rather than spelt here", () => {

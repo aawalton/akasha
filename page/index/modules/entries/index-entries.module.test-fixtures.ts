@@ -78,7 +78,7 @@ function shapesBeside(
     const at = `${kind}.${PAGE_TYPE}.ts`
     lineFiled(
       index,
-      `identity/${PAGE_TYPE}/${PAGE_TYPE}/slug/${kind}.jsonl`,
+      `${PAGE_TYPE}/${PAGE_TYPE}/slug/${kind}.jsonl`,
       JSON.stringify({ path: at, id: kind })
     )
     const beside = shapesFiledAt(at)
@@ -126,8 +126,8 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     slug: "parts",
     properties: [{ pagePropertySlug: "page-property/part-slugs", required: true, many: true }],
   })
-  filed("identity/page-type/page-type/slug/domain.jsonl", '{"path":"domain.page-type.ts","id":"1"}')
-  filed("identity/page-type/page-type/slug/module.jsonl", '{"path":"module.page-type.ts","id":"2"}')
+  filed("page-type/page-type/slug/domain.jsonl", '{"path":"domain.page-type.ts","id":"1"}')
+  filed("page-type/page-type/slug/module.jsonl", '{"path":"module.page-type.ts","id":"2"}')
   page("either.one-of-property.ts", {
     id: "4",
     pageTypeSlug: "one-of-property",
@@ -136,11 +136,11 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     members: ["relation-property/page-domain", "relation-property/note-slug"],
   })
   filed(
-    "identity/page-type/record-property/slug/parts.jsonl",
+    "page-type/record-property/slug/parts.jsonl",
     '{"path":"parts.record-property.ts","id":"3"}'
   )
   filed(
-    "identity/page-type/one-of-property/slug/either.jsonl",
+    "page-type/one-of-property/slug/either.jsonl",
     '{"path":"either.one-of-property.ts","id":"4"}'
   )
   shaping(kept, "file-property", "code", { propertySlug: "code" })
