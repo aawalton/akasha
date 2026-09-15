@@ -2,8 +2,8 @@ import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-s
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { BUN_RUNTIME_IMAGE } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import {
+  JANITOR_LABELS,
   NAMESPACE,
-  RESOURCE_LABELS,
 } from "akasha/infrastructure/git-transport/modules/transport-naming/transport-naming.module.code.ts"
 
 const JANITOR_NAME = "git-transport-janitor"
@@ -46,7 +46,7 @@ function janitorCronjobYaml(): string {
   return synthOne(NAMESPACE, "janitor-cronjob", {
     apiVersion: "batch/v1",
     kind: "CronJob",
-    metadata: { name: JANITOR_NAME, namespace: NAMESPACE, labels: RESOURCE_LABELS },
+    metadata: { name: JANITOR_NAME, namespace: NAMESPACE, labels: JANITOR_LABELS },
     spec: {
       schedule: SCHEDULE,
       concurrencyPolicy: "Forbid",
@@ -56,7 +56,7 @@ function janitorCronjobYaml(): string {
         spec: {
           ttlSecondsAfterFinished: 3600,
           template: {
-            metadata: { labels: RESOURCE_LABELS },
+            metadata: { labels: JANITOR_LABELS },
             spec: {
               nodeSelector: workloadClassMemberSelector("build"),
               restartPolicy: "OnFailure",

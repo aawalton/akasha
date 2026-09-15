@@ -17,3 +17,11 @@ export const SELECTOR_LABELS = {
   "app.kubernetes.io/name": APP_NAME,
   "app.kubernetes.io/instance": INSTANCE_NAME,
 } as const
+
+export const JANITOR_LABELS = {
+  "app.kubernetes.io/name": `${APP_NAME}-janitor`,
+  "app.kubernetes.io/instance": INSTANCE_NAME,
+  "app.kubernetes.io/component": "git-janitor",
+  "app.kubernetes.io/part-of": PART_OF,
+  "app.kubernetes.io/managed-by": MANAGED_BY,
+} as const

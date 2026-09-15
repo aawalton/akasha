@@ -69,5 +69,10 @@ export const gitTransportJanitor = {
       decisionKind: "decision-kind/departure",
       statement: "The free space on the volume is read before each repack.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The sweep carries none of the labels the server is selected by, so no traffic reaches it.",
+    },
   ],
 } as const satisfies Manifest
