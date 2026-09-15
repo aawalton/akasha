@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const omni1 = {
   id: "019f0976-dcbc-705d-8fb9-0b6c8daa9462",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "omni-1",
   title: "Omni 1",
   book: "Omni",

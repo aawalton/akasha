@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const mormon8 = {
   id: "019f0977-50d1-73b6-ada1-15543027e147",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "mormon-8",
   title: "Mormon 8",
   book: "Mormon",

@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const mark16 = {
   id: "01a06804-11af-701f-a862-3b2f9701303b",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "mark-16",
   title: "Mark 16",
   book: "Mark",

@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const nahum2 = {
   id: "01a06804-11af-7054-8879-941480af2715",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "nahum-2",
   title: "Nahum 2",
   book: "Nahum",

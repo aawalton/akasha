@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const matthew22 = {
   id: "01a06804-11af-7036-a4e0-5898955501e4",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "matthew-22",
   title: "Matthew 22",
   book: "Matthew",

@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const officialDeclaration1 = {
   id: "01a06804-11b0-7000-b443-82fdb19c0bba",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "official-declaration-1",
   title: "Official Declaration 1",
   book: "Official Declaration",
