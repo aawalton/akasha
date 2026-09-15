@@ -5504,6 +5504,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/movable-window/movable-window.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/ttc-listing-client/ttc-listing-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/use-player/use-player.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/narrow/modules/is-callback/is-callback.module.ts"}
@@ -6210,7 +6211,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/trading-listing/modules/listing-entry-schema/listing-entry-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/trading-listing/modules/listing-types/listing-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/trading-listing/modules/sell-pricing/sell-pricing.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/trading-pricing-client/modules/ttc-listing-client/ttc-listing-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/trading-pricing/modules/companion-gear-ids/companion-gear-ids.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/trading-pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/trading-pricing/modules/currency-price-lookup/currency-price-lookup.module.ts"}

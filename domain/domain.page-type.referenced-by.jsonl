@@ -602,7 +602,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skyshard/temper-skyshard.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/temper.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/trading-listing/temper-trading-listing.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/trading-pricing-client/temper-trading-pricing-client.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/trading-pricing/temper-trading-pricing.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/ui-reload/temper-ui-reload.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/upstream-data/temper-upstream-data.domain.ts"}

@@ -4718,6 +4718,7 @@
 {"propertySlug":"invariant-kind","path":"temper/modules/movable-window/movable-window.module.ts","id":"01a060c4-17d0-7920-84d6-6391a39d187e"}
 {"propertySlug":"invariant-kind","path":"temper/modules/perf-trace/perf-trace.module.ts","id":"01a060a9-5d58-7bc3-a680-2ccdb8dd5bf3"}
 {"propertySlug":"invariant-kind","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts","id":"01a06084-d41a-7898-b2c6-0be1faa981da"}
+{"propertySlug":"invariant-kind","path":"temper/modules/ttc-listing-client/ttc-listing-client.module.ts","id":"01a0609f-a419-7ed6-80f9-4695f2d6e695"}
 {"propertySlug":"invariant-kind","path":"temper/modules/unpack-color/unpack-color.module.ts","id":"01a090aa-4938-7f89-a924-2a3c86c77dd2"}
 {"propertySlug":"invariant-kind","path":"temper/modules/use-player/use-player.module.ts","id":"01a06354-4b4b-79cd-a3ce-5867c52ff199"}
 {"propertySlug":"invariant-kind","path":"temper/narrow/modules/is-table/is-table.module.ts","id":"01a08e01-6b05-7023-a79d-f39cedee5996"}
@@ -5115,8 +5116,6 @@
 {"propertySlug":"invariant-kind","path":"temper/trading-listing/modules/listing-types/listing-types.module.ts","id":"01a060a7-02f2-7740-a4a8-e0a86342e424"}
 {"propertySlug":"invariant-kind","path":"temper/trading-listing/modules/sell-pricing/sell-pricing.module.ts","id":"01a060c0-0b9f-7135-8c4b-e497247c8a35"}
 {"propertySlug":"invariant-kind","path":"temper/trading-listing/temper-trading-listing.domain.ts","id":"01a060a7-02f1-7930-8d6d-b218c9feb9ff"}
-{"propertySlug":"invariant-kind","path":"temper/trading-pricing-client/modules/ttc-listing-client/ttc-listing-client.module.ts","id":"01a0609f-a419-7ed6-80f9-4695f2d6e695"}
-{"propertySlug":"invariant-kind","path":"temper/trading-pricing-client/temper-trading-pricing-client.domain.ts","id":"01a0609f-a418-7b2b-bf39-1273854058c4"}
 {"propertySlug":"invariant-kind","path":"temper/trading-pricing/modules/companion-gear-ids/companion-gear-ids.module.ts","id":"01a060bf-747d-7dee-bf58-1559bc114b90"}
 {"propertySlug":"invariant-kind","path":"temper/trading-pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.ts","id":"01a060bf-747d-70fa-9173-c60bb80e0400"}
 {"propertySlug":"invariant-kind","path":"temper/trading-pricing/modules/currency-price-lookup/currency-price-lookup.module.ts","id":"01a0609b-e59f-7b46-be31-61f15235677d"}

@@ -9,6 +9,14 @@ export const ttcListingClient = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A listing here is Tamriel Trade Centre's answer right now.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Tamriel Trade Centre is asked no faster than the pace the caller sets.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A search waits its turn before asking.",
     },
     {
