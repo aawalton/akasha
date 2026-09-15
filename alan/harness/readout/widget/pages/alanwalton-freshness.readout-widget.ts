@@ -2,7 +2,7 @@ import type { ReadoutWidget } from "akasha/alan/harness/readout/widget/readout-w
 
 export const alanwaltonFreshness = {
   id: "01a09b02-838e-78c6-9f19-32ed032ab747",
-  type: "readout-widget",
+  type: "page-type/readout-widget",
   slug: "alanwalton-freshness",
   definition: "the tile on Alan's phone saying how old the oldest reading his tiles hold is",
   app: "ios-app/alanwalton",

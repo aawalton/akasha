@@ -2,7 +2,7 @@ import type { ReadoutWidget } from "akasha/alan/harness/readout/widget/readout-w
 
 export const alanwaltonSafetyLevel = {
   id: "01a06420-b259-7d0c-85e8-0e67ee23e107",
-  type: "readout-widget",
+  type: "page-type/readout-widget",
   slug: "alanwalton-safety-level",
   definition: "the tile on Alan's phone showing how safe things are where he is",
   app: "ios-app/alanwalton",

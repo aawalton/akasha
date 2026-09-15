@@ -2,7 +2,7 @@ import type { ReadoutWidget } from "akasha/alan/harness/readout/widget/readout-w
 
 export const smilingjennyCategorize = {
   id: "01a05bc7-0b84-7700-8d53-60de383bacaa",
-  type: "readout-widget",
+  type: "page-type/readout-widget",
   slug: "smilingjenny-categorize",
   definition: "the tile on Jenny's phone showing how many transactions are unreviewed",
   app: "ios-app/smilingjenny",

@@ -2,7 +2,7 @@ import type { ReadoutWidget } from "akasha/alan/harness/readout/widget/readout-w
 
 export const smilingjennySafetyLevel = {
   id: "01a06420-b259-70dc-adcb-88ca53d210cf",
-  type: "readout-widget",
+  type: "page-type/readout-widget",
   slug: "smilingjenny-safety-level",
   definition: "the tile on Jenny's phone showing how safe things are where Alan is",
   app: "ios-app/smilingjenny",
