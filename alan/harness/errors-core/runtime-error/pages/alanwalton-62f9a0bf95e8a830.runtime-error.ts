@@ -12,5 +12,5 @@ export const alanwalton62f9a0bf95e8a830 = {
   url: "https://alanwalton.com/nav/tasks-a7242626",
   userAgent:
     "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
-  firstSeenAt: "2026-09-15T22:28:07.759Z",
+  firstSeenAt: "2026-09-15T22:28:07.719Z",
 } as const satisfies RuntimeError
