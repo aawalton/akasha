@@ -4,10 +4,6 @@ import "akasha/temper/eso-type/eso-objects-02/eso-objects-02.type-declaration.d.
 import "akasha/temper/eso-type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import {
-  createMovableWindow,
-  type WindowPosition,
-} from "akasha/temper/hud-window/modules/movable-window/movable-window.module.code.ts"
 import type { BarContext } from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import {
   buildMultiselectEditor,
@@ -30,6 +26,10 @@ import type {
   FilterGroup,
   FilterId,
 } from "akasha/temper/items-filters-core/modules/search-filter-types/search-filter-types.module.code.ts"
+import {
+  createMovableWindow,
+  type WindowPosition,
+} from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
 
 const PANEL_NAME = "TemperInventoryFilterPanel"
 const PLAN_PANEL_NAME = "TemperInventoryActionPanel"

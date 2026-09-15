@@ -1646,7 +1646,6 @@
 {"propertySlug":"invariant-kind","path":"temper/hud-component/modules/hud-scene-parse/hud-scene-parse.module.ts","id":"01a060a4-fa3a-750c-9ca2-1bb7318f8b00"}
 {"propertySlug":"invariant-kind","path":"temper/hud-component/modules/hud-scene-source/hud-scene-source.module.ts","id":"01a060a4-fa39-75fa-b8ed-cd9e167bd81c"}
 {"propertySlug":"invariant-kind","path":"temper/hud-component/temper-hud-component.domain.ts","id":"01a060a4-fa38-742d-9517-977730401b38"}
-{"propertySlug":"invariant-kind","path":"temper/hud-window/modules/movable-window/movable-window.module.ts","id":"01a060c4-17d0-7920-84d6-6391a39d187e"}
 {"propertySlug":"invariant-kind","path":"temper/interface-addon/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.ts","id":"01a06115-1ac5-7e5c-8d3a-faa3aae9eba1"}
 {"propertySlug":"invariant-kind","path":"temper/interface-addon/modules/fco-crafting-smithing-improve/fco-crafting-smithing-improve.module.ts","id":"01a06115-1ac7-7496-8d0d-86f1548469eb"}
 {"propertySlug":"invariant-kind","path":"temper/interface-addon/modules/fco-crafting-smithing/fco-crafting-smithing.module.ts","id":"01a06115-1ac7-7093-bdbd-2f2d354a8b32"}
@@ -1781,6 +1780,7 @@
 {"propertySlug":"invariant-kind","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts","id":"01a090b3-cd34-73db-8728-72f922749cda"}
 {"propertySlug":"invariant-kind","path":"temper/modules/descriptor/descriptor.module.ts","id":"01a06053-3638-7cb5-b297-d04869965330"}
 {"propertySlug":"invariant-kind","path":"temper/modules/explain-walk/explain-walk.module.ts","id":"01a06036-188c-735e-bae8-be4f3d907a2f"}
+{"propertySlug":"invariant-kind","path":"temper/modules/movable-window/movable-window.module.ts","id":"01a060c4-17d0-7920-84d6-6391a39d187e"}
 {"propertySlug":"invariant-kind","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts","id":"01a06084-d41a-7898-b2c6-0be1faa981da"}
 {"propertySlug":"invariant-kind","path":"temper/navigation-addon/destinations-preview-controls/destinations-preview-controls.type-declaration.ts","id":"01a06269-2b13-7b9c-8e10-1f913f1e6553"}
 {"propertySlug":"invariant-kind","path":"temper/navigation-addon/minimap-string-ids/minimap-string-ids.type-declaration.ts","id":"01a06269-2b15-7ed4-828d-87a96fe2a139"}

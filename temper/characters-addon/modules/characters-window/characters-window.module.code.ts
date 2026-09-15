@@ -1,5 +1,5 @@
 import { initializeTabs } from "akasha/temper/characters-addon/modules/characters-tab-manager/characters-tab-manager.module.code.ts"
-import { createMovableWindow } from "akasha/temper/hud-window/modules/movable-window/movable-window.module.code.ts"
+import { createMovableWindow } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 let window: TopLevelWindow | undefined

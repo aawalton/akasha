@@ -9,6 +9,14 @@ export const movableWindow = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A window here is drawn by the game rather than by the browser.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where a window is kept is the caller's concern rather than this package's.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Dragging the handle moves the whole window.",
     },
     {

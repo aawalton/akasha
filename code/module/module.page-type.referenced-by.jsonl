@@ -4022,7 +4022,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/hud-component/modules/hud-scene-fragments/hud-scene-fragments.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/hud-component/modules/hud-scene-parse/hud-scene-parse.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/hud-component/modules/hud-scene-source/hud-scene-source.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/hud-window/modules/movable-window/movable-window.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/interface-addon/modules/assistant-bindings/assistant-bindings.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/interface-addon/modules/assistant-collectibles/assistant-collectibles.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/interface-addon/modules/assistant-entry/assistant-entry.module.ts"}
@@ -5500,6 +5499,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/descriptor/descriptor.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/explain-walk/explain-walk.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/gamepad-tooltip-style/gamepad-tooltip-style.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/movable-window/movable-window.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}

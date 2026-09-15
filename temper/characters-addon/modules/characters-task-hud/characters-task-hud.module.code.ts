@@ -44,7 +44,7 @@ import {
   isTaskVisible,
 } from "akasha/temper/characters-addon/modules/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
 import { resolveTaskProgress } from "akasha/temper/characters-addon/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"
-import { createMovableWindow } from "akasha/temper/hud-window/modules/movable-window/movable-window.module.code.ts"
+import { createMovableWindow } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
 import { isResettingCard } from "akasha/temper/player-completion/modules/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
 import {
   getSavedVariables,

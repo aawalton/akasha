@@ -2,12 +2,12 @@ import {
   TEXT_PRIMARY,
   TEXT_SECONDARY,
 } from "akasha/design/interfaces/tokens/modules/text-color/text-color.module.code.ts"
+import { getInventoryActionSummary } from "akasha/temper/items-addon/modules/inventory-plan/inventory-plan.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import {
   createMovableWindow,
   type MovableWindowHandle,
-} from "akasha/temper/hud-window/modules/movable-window/movable-window.module.code.ts"
-import { getInventoryActionSummary } from "akasha/temper/items-addon/modules/inventory-plan/inventory-plan.module.code.ts"
-import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+} from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
 
 const PANEL_NAME = "TemperInventoryActionPanel"
 const ANCHOR_TARGET_NAME = "ZO_PlayerInventory"
