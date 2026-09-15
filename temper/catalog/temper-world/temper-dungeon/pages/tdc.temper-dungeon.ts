@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const tdc = {
   id: "01a05fc5-742c-7d60-876a-22458e7b15f5",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "tdc",
   title: "The Dread Cellar",
   key: "TDC",

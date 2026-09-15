@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const ere = {
   id: "01a05fc5-7426-7e01-b5d3-5cc8571c2118",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "ere",
   title: "Earthen Root Enclave",
   key: "ERE",

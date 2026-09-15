@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const icp = {
   id: "01a05fc5-7428-7ef7-b723-7a4d6ffd63cf",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "icp",
   title: "Imperial City Prison",
   key: "ICP",

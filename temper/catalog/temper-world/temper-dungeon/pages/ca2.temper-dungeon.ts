@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const ca2 = {
   id: "01a05fc5-7423-7fb4-a688-20b53df5a54c",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "ca2",
   title: "City of Ash II",
   key: "CA2",

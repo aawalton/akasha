@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const wgt = {
   id: "01a05fc5-742d-7524-b8d1-94ff6e6a6145",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "wgt",
   title: "White-Gold Tower",
   key: "WGT",

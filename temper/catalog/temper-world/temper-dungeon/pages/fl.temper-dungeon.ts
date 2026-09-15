@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const fl = {
   id: "01a05fc5-7427-78d5-8281-698a37adb597",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "fl",
   title: "Fang Lair",
   key: "FL",

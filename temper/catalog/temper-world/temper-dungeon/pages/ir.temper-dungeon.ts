@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const ir = {
   id: "01a05fc5-7428-7353-a313-62c2043f1066",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "ir",
   title: "Icereach",
   key: "IR",

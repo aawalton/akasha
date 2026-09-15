@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const sw = {
   id: "01a05fc5-742c-793b-b807-62e8755aaec4",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "sw",
   title: "Selene's Web",
   key: "SW",

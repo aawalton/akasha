@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const sg = {
   id: "01a05fc5-742b-7361-a38b-010c47385b7c",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "sg",
   title: "Stone Garden",
   key: "SG",

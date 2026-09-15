@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const mos = {
   id: "01a05fc5-7429-7f0b-9cfc-1ae6388f6912",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "mos",
   title: "March of Sacrifices",
   key: "MOS",

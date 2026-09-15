@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const cs = {
   id: "01a05fc5-7423-711f-8589-9a405121b472",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "cs",
   title: "Cradle of Shadows",
   key: "CS",

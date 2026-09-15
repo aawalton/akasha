@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const rpb = {
   id: "01a05fc5-742a-755a-829a-352f4be55a78",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "rpb",
   title: "Red Petal Bastion",
   key: "RPB",

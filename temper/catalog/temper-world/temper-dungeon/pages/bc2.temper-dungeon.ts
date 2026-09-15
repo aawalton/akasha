@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const bc2 = {
   id: "01a05fc5-7420-7b1a-9f98-8f1480068cc8",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "bc2",
   title: "Banished Cells II",
   key: "BC2",

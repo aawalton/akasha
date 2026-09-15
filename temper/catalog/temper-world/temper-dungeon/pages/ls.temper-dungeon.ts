@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const ls = {
   id: "01a05fc5-7429-75b6-8398-66054d131c4e",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "ls",
   title: "Lep Seclusa",
   key: "LS",

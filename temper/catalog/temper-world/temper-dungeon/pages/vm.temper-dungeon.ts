@@ -2,7 +2,7 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const vm = {
   id: "01a05fc5-742d-7142-ad4c-1b3f65a72b0f",
-  type: "temper-dungeon",
+  type: "page-type/temper-dungeon",
   slug: "vm",
   title: "Vaults of Madness",
   key: "VM",
