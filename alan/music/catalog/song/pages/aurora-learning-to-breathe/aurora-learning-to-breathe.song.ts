@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraLearningToBreathe = {
   id: "019ea4a7-81e3-7a95-bdb5-4d3fc9ca9d8d",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-learning-to-breathe",
   title: "Learning to Breathe",
   artist: "artist/aurora",

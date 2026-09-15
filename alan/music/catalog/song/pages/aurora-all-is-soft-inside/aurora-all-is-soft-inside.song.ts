@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraAllIsSoftInside = {
   id: "019ea4a3-cb9c-7c58-98c1-82fc0cd1cd7e",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-all-is-soft-inside",
   title: "All Is Soft Inside",
   artist: "artist/aurora",

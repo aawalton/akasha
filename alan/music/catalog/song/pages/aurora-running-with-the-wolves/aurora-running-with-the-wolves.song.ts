@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraRunningWithTheWolves = {
   id: "019ea4a6-56e8-7944-8fb5-0015f43c3bd1",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-running-with-the-wolves",
   title: "Running with the Wolves",
   artist: "artist/aurora",

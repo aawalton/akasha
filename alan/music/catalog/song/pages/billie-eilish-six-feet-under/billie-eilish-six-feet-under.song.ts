@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishSixFeetUnder = {
   id: "019ea4ab-2ed8-7279-bcba-2d66ce01ccad",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-six-feet-under",
   title: "Six Feet Under",
   artist: "artist/billie-eilish",

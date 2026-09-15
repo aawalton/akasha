@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishTheEndOfTheWorld = {
   id: "019ea4ab-2062-719a-a0dc-f7db0b5759a2",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-the-end-of-the-world",
   title: "The End of the World",
   artist: "artist/billie-eilish",

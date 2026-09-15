@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraInfectionsOfADifferentKind = {
   id: "019ea4a7-47b7-7abe-bada-dc4cf62f8e87",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-infections-of-a-different-kind",
   title: "Infections of a Different Kind",
   artist: "artist/aurora",

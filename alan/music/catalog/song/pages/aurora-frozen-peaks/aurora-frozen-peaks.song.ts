@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraFrozenPeaks = {
   id: "019ea4a4-a4a0-73b6-b803-c9483cf85bc7",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-frozen-peaks",
   title: "Frozen Peaks",
   artist: "artist/aurora",

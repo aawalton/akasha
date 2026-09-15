@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishWhenIWasOlder = {
   id: "019ea4a9-bf31-76bc-ae38-459db8582a67",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-when-i-was-older",
   title: "WHEN I WAS OLDER",
   artist: "artist/billie-eilish",

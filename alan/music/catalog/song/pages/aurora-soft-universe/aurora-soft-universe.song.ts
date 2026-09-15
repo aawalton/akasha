@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraSoftUniverse = {
   id: "019ea4a4-58bc-72a9-907c-88178b31e6fb",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-soft-universe",
   title: "Soft Universe",
   artist: "artist/aurora",

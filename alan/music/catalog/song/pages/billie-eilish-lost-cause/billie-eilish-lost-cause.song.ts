@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishLostCause = {
   id: "019ea4a9-9402-7d2e-bcc7-567f115cb59c",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-lost-cause",
   title: "Lost Cause",
   artist: "artist/billie-eilish",

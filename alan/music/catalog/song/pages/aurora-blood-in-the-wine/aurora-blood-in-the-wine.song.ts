@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraBloodInTheWine = {
   id: "019ea4a5-8cc9-7a02-8ee4-ea9769322aca",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-blood-in-the-wine",
   title: "Blood in the Wine",
   artist: "artist/aurora",

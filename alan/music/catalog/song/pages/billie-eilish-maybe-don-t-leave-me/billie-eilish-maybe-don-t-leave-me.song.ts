@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishMaybeDonTLeaveMe = {
   id: "019ea4ac-49c6-79b8-9818-7415bbec6c50",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-maybe-don-t-leave-me",
   title: "Maybe Don’t Leave Me",
   artist: "artist/billie-eilish",

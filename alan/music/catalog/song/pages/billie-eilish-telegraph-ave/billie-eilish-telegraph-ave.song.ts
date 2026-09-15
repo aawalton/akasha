@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishTelegraphAve = {
   id: "019ea4ab-fa0d-7a3d-b3d0-0f76aa105af4",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-telegraph-ave",
   title: "Telegraph Ave.",
   artist: "artist/billie-eilish",

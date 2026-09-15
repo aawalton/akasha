@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishIlomilo = {
   id: "019ea4aa-1cf0-7ad2-80c7-5e3488602093",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-ilomilo",
   title: "ilomilo",
   artist: "artist/billie-eilish",

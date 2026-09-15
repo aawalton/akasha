@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraYouKeepMeCrawling = {
   id: "019ea4a7-cc72-7343-83e5-58363f2bd12d",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-you-keep-me-crawling",
   title: "You Keep Me Crawling",
   artist: "artist/aurora",

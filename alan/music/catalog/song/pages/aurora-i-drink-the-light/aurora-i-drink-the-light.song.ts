@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraIDrinkTheLight = {
   id: "019ea4a5-2837-7eb8-9719-9a665c4a9c87",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-i-drink-the-light",
   title: "I DRINK THE LIGHT",
   artist: "artist/aurora",

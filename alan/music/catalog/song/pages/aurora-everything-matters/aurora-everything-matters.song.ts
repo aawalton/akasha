@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraEverythingMatters = {
   id: "019ea4a4-02e4-7399-bd6d-a9ecbaf6c94e",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-everything-matters",
   title: "Everything Matters",
   artist: "artist/aurora",

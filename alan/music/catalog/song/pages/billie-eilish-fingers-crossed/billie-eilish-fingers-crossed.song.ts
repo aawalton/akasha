@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishFingersCrossed = {
   id: "019ea4a9-c70c-7ede-94de-90a8f0a403e8",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-fingers-crossed",
   title: "Fingers Crossed",
   artist: "artist/billie-eilish",

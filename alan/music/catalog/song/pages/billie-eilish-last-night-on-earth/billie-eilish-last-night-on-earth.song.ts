@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishLastNightOnEarth = {
   id: "019ea4ac-3bfa-7536-958d-8fdce6387a07",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-last-night-on-earth",
   title: "Last Night on Earth",
   artist: "artist/billie-eilish",

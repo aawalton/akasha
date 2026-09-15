@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraWalkingInTheAir = {
   id: "019ea4a4-ff09-7e83-aec1-e76d03874a16",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-walking-in-the-air",
   title: "Walking in the Air",
   artist: "artist/aurora",

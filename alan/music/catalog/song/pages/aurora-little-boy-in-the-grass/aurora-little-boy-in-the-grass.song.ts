@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraLittleBoyInTheGrass = {
   id: "019ea4a3-faa6-76c9-bbd3-dbeede219a50",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-little-boy-in-the-grass",
   title: "Little Boy in the Grass",
   artist: "artist/aurora",

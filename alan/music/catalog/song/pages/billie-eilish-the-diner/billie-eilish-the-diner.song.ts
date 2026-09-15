@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishTheDiner = {
   id: "019ea4aa-4ea8-73da-ab4d-6352663dd80d",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-the-diner",
   title: "THE DINER",
   artist: "artist/billie-eilish",

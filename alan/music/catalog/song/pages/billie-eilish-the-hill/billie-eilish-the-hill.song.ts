@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishTheHill = {
   id: "019ea4a9-f166-7b84-9c15-63a171aec401",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-the-hill",
   title: "The Hill",
   artist: "artist/billie-eilish",

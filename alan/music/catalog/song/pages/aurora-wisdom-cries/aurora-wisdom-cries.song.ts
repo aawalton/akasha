@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraWisdomCries = {
   id: "019ea4a7-febe-76a1-a416-b21d56743a53",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-wisdom-cries",
   title: "Wisdom Cries",
   artist: "artist/aurora",

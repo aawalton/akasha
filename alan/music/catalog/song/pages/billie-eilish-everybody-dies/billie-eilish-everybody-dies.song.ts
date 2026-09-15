@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishEverybodyDies = {
   id: "019ea4a9-b701-78c1-9064-3ab0e0947159",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-everybody-dies",
   title: "Everybody Dies",
   artist: "artist/billie-eilish",

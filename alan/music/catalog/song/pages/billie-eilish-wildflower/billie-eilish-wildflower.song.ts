@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishWildflower = {
   id: "019ea4aa-03d6-77dc-b5f6-a976c23c4bd5",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-wildflower",
   title: "WILDFLOWER",
   artist: "artist/billie-eilish",

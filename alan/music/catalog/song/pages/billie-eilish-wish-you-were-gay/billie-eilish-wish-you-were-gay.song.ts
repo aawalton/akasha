@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishWishYouWereGay = {
   id: "019ea4aa-2c18-7937-8e41-a63a52096720",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-wish-you-were-gay",
   title: "wish you were gay",
   artist: "artist/billie-eilish",

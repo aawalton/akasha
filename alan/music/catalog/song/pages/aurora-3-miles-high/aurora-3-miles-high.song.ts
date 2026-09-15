@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const aurora3MilesHigh = {
   id: "019ea4a7-a918-7fa9-a13d-f317a4b79127",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-3-miles-high",
   title: "3 Miles High",
   artist: "artist/aurora",

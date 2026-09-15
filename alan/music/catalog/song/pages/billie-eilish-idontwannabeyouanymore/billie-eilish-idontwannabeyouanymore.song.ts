@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishIdontwannabeyouanymore = {
   id: "019ea4a8-9642-70d1-8bd2-dc04be6d71a8",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-idontwannabeyouanymore",
   title: "idontwannabeyouanymore",
   artist: "artist/billie-eilish",

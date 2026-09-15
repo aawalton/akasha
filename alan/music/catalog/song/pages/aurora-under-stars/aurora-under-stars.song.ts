@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraUnderStars = {
   id: "019ea4a3-0db8-7d4b-80b6-a7f4860f11bd",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-under-stars",
   title: "Under Stars",
   artist: "artist/aurora",

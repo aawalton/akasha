@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraTheUniverseSentMe = {
   id: "019ea4a3-d6d2-7f01-8f9e-92f480694e3d",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-the-universe-sent-me",
   title: "The Universe Sent Me",
   artist: "artist/aurora",

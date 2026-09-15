@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraHaveYouSeenMeDanceAlone = {
   id: "019ea4a6-4bda-7033-b68c-c15def1f06c3",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-have-you-seen-me-dance-alone",
   title: "HAVE YOU SEEN ME DANCE ALONE",
   artist: "artist/aurora",

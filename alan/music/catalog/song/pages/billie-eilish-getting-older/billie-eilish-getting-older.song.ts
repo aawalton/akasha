@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishGettingOlder = {
   id: "019ea4a9-870a-798d-af85-ef5955ea122e",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-getting-older",
   title: "Getting Older",
   artist: "artist/billie-eilish",

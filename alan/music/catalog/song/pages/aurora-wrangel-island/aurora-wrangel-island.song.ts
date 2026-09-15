@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraWrangelIsland = {
   id: "019ea4a7-ea60-743b-b52a-2c90667ee78f",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-wrangel-island",
   title: "Wrangel Island",
   artist: "artist/aurora",

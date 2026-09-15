@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishMidnightCity = {
   id: "019ea4aa-7281-7709-862e-577dfbb760fa",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-midnight-city",
   title: "Midnight City",
   artist: "artist/billie-eilish",

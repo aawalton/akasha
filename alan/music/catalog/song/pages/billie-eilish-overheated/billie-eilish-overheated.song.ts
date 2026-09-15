@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishOverheated = {
   id: "019ea4a8-58aa-7ac5-8e77-6e1e92014724",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-overheated",
   title: "OverHeated",
   artist: "artist/billie-eilish",

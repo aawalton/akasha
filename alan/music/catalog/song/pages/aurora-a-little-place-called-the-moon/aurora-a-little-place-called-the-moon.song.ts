@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraALittlePlaceCalledTheMoon = {
   id: "019ea4a7-7b09-7821-b351-66539f4a423a",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-a-little-place-called-the-moon",
   title: "A Little Place Called the Moon",
   artist: "artist/aurora",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishAllTheGoodGirlsGoToHell = {
   id: "019ea4a8-7956-7e87-af31-2e5dee77514a",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-all-the-good-girls-go-to-hell",
   title: "all the good girls go to hell",
   artist: "artist/billie-eilish",

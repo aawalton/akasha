@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishWhatWasIMadeFor = {
   id: "019ea4a8-fc19-7e4e-83a9-51a5347e6c66",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-what-was-i-made-for",
   title: "What Was I Made For?",
   artist: "artist/billie-eilish",

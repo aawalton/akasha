@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraIWentTooFar = {
   id: "019ea4a3-711d-78aa-a126-52d9d5524950",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-i-went-too-far",
   title: "I Went Too Far",
   artist: "artist/aurora",

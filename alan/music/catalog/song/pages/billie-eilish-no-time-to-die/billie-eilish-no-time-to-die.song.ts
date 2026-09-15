@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishNoTimeToDie = {
   id: "019ea4ab-47c2-7a34-b29c-430ecbb7541b",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-no-time-to-die",
   title: "No Time to Die",
   artist: "artist/billie-eilish",

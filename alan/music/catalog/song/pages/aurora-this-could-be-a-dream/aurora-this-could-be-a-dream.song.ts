@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraThisCouldBeADream = {
   id: "019ea4a7-9471-7c85-aca5-da4d2e7d435c",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-this-could-be-a-dream",
   title: "This Could Be a Dream",
   artist: "artist/aurora",

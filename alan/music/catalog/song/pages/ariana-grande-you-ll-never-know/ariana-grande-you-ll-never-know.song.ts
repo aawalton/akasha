@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeYouLlNeverKnow = {
   id: "019ea4e8-b7a6-7042-a133-8baf16221307",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-you-ll-never-know",
   title: "You’ll Never Know",
   artist: "artist/ariana-grande",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishGoldwing = {
   id: "019ea4a9-4afd-769c-b924-137eb4c66f04",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-goldwing",
   title: "GOLDWING",
   artist: "artist/billie-eilish",

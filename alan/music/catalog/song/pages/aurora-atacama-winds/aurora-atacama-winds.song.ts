@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraAtacamaWinds = {
   id: "019ea4a3-a851-77d4-9143-fab7539876fb",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-atacama-winds",
   title: "Atacama Winds",
   artist: "artist/aurora",

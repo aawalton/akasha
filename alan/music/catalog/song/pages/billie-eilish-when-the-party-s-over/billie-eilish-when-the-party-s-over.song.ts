@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishWhenThePartySOver = {
   id: "019ea4ab-8b1c-743c-971f-3a5272b3b7c7",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-when-the-party-s-over",
   title: "when the party’s over",
   artist: "artist/billie-eilish",

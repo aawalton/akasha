@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishBuryAFriend = {
   id: "019ea4aa-165e-7ddc-bcfc-8508b790b9e8",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-bury-a-friend",
   title: "bury a friend",
   artist: "artist/billie-eilish",

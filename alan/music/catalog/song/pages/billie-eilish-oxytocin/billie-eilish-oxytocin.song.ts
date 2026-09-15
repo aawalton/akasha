@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishOxytocin = {
   id: "019ea4ab-3fe3-734d-a757-211ade851628",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-oxytocin",
   title: "Oxytocin",
   artist: "artist/billie-eilish",

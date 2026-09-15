@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraUnderTheWater = {
   id: "019ea4a4-0aca-7217-84f8-726c6e0425bf",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-under-the-water",
   title: "Under the Water",
   artist: "artist/aurora",

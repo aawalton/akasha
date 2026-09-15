@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishNobodyLikeU = {
   id: "019ea4ab-378a-7ca1-8cb0-d0218408a4ba",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-nobody-like-u",
   title: "Nobody Like U",
   artist: "artist/billie-eilish",

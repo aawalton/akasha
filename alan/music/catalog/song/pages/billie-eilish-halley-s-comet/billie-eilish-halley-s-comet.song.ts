@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishHalleySComet = {
   id: "019ea4a9-5dc9-79b8-b964-d7418e8fff57",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-halley-s-comet",
   title: "Halley’s Comet",
   artist: "artist/billie-eilish",

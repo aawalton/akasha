@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const auroraADifferentKindOfHuman = {
   id: "019ea4a7-b727-7264-acc8-a2c20602e65c",
-  type: "song",
+  type: "page-type/song",
   slug: "aurora-a-different-kind-of-human",
   title: "A Different Kind of Human",
   artist: "artist/aurora",

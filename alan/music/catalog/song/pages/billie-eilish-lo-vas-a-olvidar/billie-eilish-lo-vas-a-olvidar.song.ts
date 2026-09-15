@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishLoVasAOlvidar = {
   id: "019ea4ab-bd46-7103-991e-57900a309692",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-lo-vas-a-olvidar",
   title: "Lo vas a olvidar",
   artist: "artist/billie-eilish",
