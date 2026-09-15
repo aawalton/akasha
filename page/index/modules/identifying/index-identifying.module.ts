@@ -7,6 +7,7 @@ export const indexIdentifying = {
   definition: "the identifiers a page states, read once for every index filing them",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

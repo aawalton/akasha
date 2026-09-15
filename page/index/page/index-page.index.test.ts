@@ -1,12 +1,8 @@
 import { expect, test } from "bun:test"
 import type { Identifier } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { A } from "akasha/page/index/modules/entries/index-entries.module.test-fixtures.ts"
+import { identifying } from "akasha/page/index/modules/identifying/index-identifying.module.test-fixtures.ts"
 import { filedByPage, pageIn } from "akasha/page/index/page/index-page.index.code.ts"
-import type { Identifying } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-
-function identifying(held: Record<string, ReadonlyMap<string, Identifier>>): Identifying {
-  return (pageTypeSlug) => held[pageTypeSlug] ?? new Map<string, Identifier>()
-}
 
 const BOTH = new Map<string, Identifier>([
   ["id", { key: "id", uniqueKind: "page" }],
@@ -34,8 +30,9 @@ test("an identifier unique within anything narrower is filed nowhere here", () =
     domain: new Map<string, Identifier>([["slug", { key: "slug", uniqueKind: "page-type" }]]),
   })
 
-  expect(pageIn({ id: A, pageTypeSlug: "domain", slug: "a" }, "/repo/a.domain.ts", "/repo", typed))
-    .toEqual([])
+  expect(
+    pageIn({ id: A, pageTypeSlug: "domain", slug: "a" }, "/repo/a.domain.ts", "/repo", typed)
+  ).toEqual([])
 })
 
 test("a page holding files is filed under no path here, a path being no identifier", () => {
@@ -47,8 +44,9 @@ test("a page holding files is filed under no path here, a path being no identifi
 })
 
 test("a value carrying no identifier at all is filed nowhere", () => {
-  expect(pageIn({ pageTypeSlug: "domain", slug: "a" }, "/repo/a.domain.ts", "/repo", UNIQUE))
-    .toEqual([])
+  expect(
+    pageIn({ pageTypeSlug: "domain", slug: "a" }, "/repo/a.domain.ts", "/repo", UNIQUE)
+  ).toEqual([])
 })
 
 test("only the identifiers named are filed where a set narrows them", () => {

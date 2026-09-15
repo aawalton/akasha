@@ -8,11 +8,7 @@ import {
   lineFor,
   statedOf,
 } from "akasha/page/index/modules/identifying/index-identifying.module.code.ts"
-import type { Identifying } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-
-function identifying(held: Record<string, ReadonlyMap<string, Identifier>>): Identifying {
-  return (pageTypeSlug) => held[pageTypeSlug] ?? new Map<string, Identifier>()
-}
+import { identifying } from "akasha/page/index/modules/identifying/index-identifying.module.test-fixtures.ts"
 
 const BOTH = new Map<string, Identifier>([
   ["id", { key: "id", uniqueKind: "page" }],
@@ -80,8 +76,9 @@ test("an identifier held as neither text nor a number is not read", () => {
     domain: new Map<string, Identifier>([["tally", { key: "tally", uniqueKind: "page-type" }]]),
   })
 
-  expect(identifiedIn({ id: A, pageTypeSlug: "domain", slug: "a", tally: [1] }, keyed)?.stated)
-    .toEqual([])
+  expect(
+    identifiedIn({ id: A, pageTypeSlug: "domain", slug: "a", tally: [1] }, keyed)?.stated
+  ).toEqual([])
 })
 
 test("only the identifiers named are read where a set narrows them", () => {
@@ -115,6 +112,9 @@ test("an entry is filed at the key that answer is found by, closing with `.jsonl
   const line = `{"path":"a.domain.ts","id":"${A}"}`
 
   expect(
-    entriesFor([{ uniqueKind: "page-type", scope: "domain", propertySlug: "slug", said: "a" }], line)
+    entriesFor(
+      [{ uniqueKind: "page-type", scope: "domain", propertySlug: "slug", said: "a" }],
+      line
+    )
   ).toEqual([{ at: "page-type/domain/slug/a.jsonl", line }])
 })

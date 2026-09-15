@@ -49,9 +49,8 @@
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/modules/beside-turning/beside-turning.module.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/modules/identifying/index-identifying.module.code.ts"}
-{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/modules/identifying/index-identifying.module.test.ts"}
+{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/modules/identifying/index-identifying.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/modules/identities/index-identities.module.code.ts"}
-{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/modules/identities/index-identities.module.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/modules/reaching/reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/modules/settling/index-settling.module.code.ts"}
@@ -60,7 +59,6 @@
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/page-type/index-page-type.index.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/page-type/index-page-type.index.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/page/index-page.index.code.ts"}
-{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/page/index-page.index.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/file-answering/file-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/page-asking/page-asking.module.code.ts"}
