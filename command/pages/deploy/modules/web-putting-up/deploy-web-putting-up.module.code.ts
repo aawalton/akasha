@@ -150,18 +150,7 @@ export async function putUpWebApp(
     return told(report)
   }
 
-  let builtNow = false
-  if (target !== null && !isBuilt) {
-    const built = buildInPod(target, sha, resolved, !differs && alreadyUp)
-    for (const one of built.ran) {
-      report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
-    }
-    if (built.why !== null) return answeredWith(report, [built.why], OPERATIONAL)
-    builtNow = true
-    up.push(`${target.packagePath}, built in the pod from ${sha}`)
-  }
-
-  if (differs || !alreadyUp) {
+  const applying = (): readonly string[] => {
     for (const one of writeManifests(given.root, plan)) report.push(`wrote\t${one}`)
     const refusals: string[] = []
     for (const one of putUp(plan)) {
@@ -170,8 +159,34 @@ export async function putUpWebApp(
         refusals.push(`kubectl ${one.argv.join(" ")} exited ${one.code}: ${one.stderr.trim()}`)
       }
     }
+    if (refusals.length === 0) {
+      up.push(`${workload.kind} ${workload.namespace}/${workload.name}, applied to the cluster`)
+    }
+    return refusals
+  }
+
+  let builtNow = false
+  if (target !== null && !isBuilt) {
+    const built = buildInPod(target, sha, resolved, !differs && alreadyUp)
+    for (const one of built.ran) {
+      report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
+    }
+    if (built.why !== null) {
+      if (differs || !alreadyUp) {
+        report.push(
+          "applying\tthe pod would not take the build, so the manifests a pod starts on are applied before this stops"
+        )
+        applying()
+      }
+      return answeredWith(report, [built.why], OPERATIONAL)
+    }
+    builtNow = true
+    up.push(`${target.packagePath}, built in the pod from ${sha}`)
+  }
+
+  if (differs || !alreadyUp) {
+    const refusals = applying()
     if (refusals.length > 0) return answeredWith(report, refusals, OPERATIONAL)
-    up.push(`${workload.kind} ${workload.namespace}/${workload.name}, applied to the cluster`)
   }
 
   if (target !== null && builtNow) {

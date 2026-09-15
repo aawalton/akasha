@@ -87,6 +87,15 @@ export const deployWebPuttingUp = {
       statement: "A manifest moving that package rolls out a pod with no build to start on.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "A build is reached into a pod, so a pod that will not run takes no build.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A build the pod would not take applies the manifests where they differ, so a later build has a pod.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A value the build needs that nothing has is refused before anything is applied.",
     },
