@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0704ChapterSeventySixMaximumClonage = {
   id: "01a06730-4ed6-7d19-b6e0-5a583304686a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0704-chapter-seventy-six-maximum-clonage",
   title: "Chapter Seventy-Six - Maximum Clonage",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

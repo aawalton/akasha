@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0578ChapterSixtyReligiousExemption = {
   id: "01a06730-4ec2-7dd3-b273-9f3d95121351",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0578-chapter-sixty-religious-exemption",
   title: "Chapter Sixty - Religious Exemption",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

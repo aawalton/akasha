@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0694ChapterSixtyEightCharredAsTheWastesOf = {
   id: "01a06730-4ed6-79be-8e49-bcb512973561",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0694-chapter-sixty-eight-charred-as-the-wastes-of",
   title: "Chapter Sixty-Eight - Charred as the Wastes of Ozymandias",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

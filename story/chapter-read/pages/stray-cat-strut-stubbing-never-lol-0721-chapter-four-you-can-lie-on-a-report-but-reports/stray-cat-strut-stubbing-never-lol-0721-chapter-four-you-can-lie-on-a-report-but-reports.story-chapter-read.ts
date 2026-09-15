@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0721ChapterFourYouCanLieOnAReportButReports = {
   id: "01a06730-4ed7-72ff-89a3-22f0ebb9ba11",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0721-chapter-four-you-can-lie-on-a-report-but-reports",
   title: "Chapter Four - You Can Lie on a Report, But Reports Don't Lie",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

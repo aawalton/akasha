@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0534The2024StrayCatStrutFanfictionContest = {
   id: "01a06730-4e8f-7880-93b7-082f904c5e01",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0534-the-2024-stray-cat-strut-fanfiction-contest",
   title: "The 2024 Stray Cat Strut Fanfiction Contest - Reading Phase!",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

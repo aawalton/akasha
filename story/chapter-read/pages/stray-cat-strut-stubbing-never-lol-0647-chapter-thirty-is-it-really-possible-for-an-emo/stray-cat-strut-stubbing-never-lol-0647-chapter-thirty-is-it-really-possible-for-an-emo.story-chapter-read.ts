@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0647ChapterThirtyIsItReallyPossibleForAnEmo = {
   id: "01a06730-4ed3-7b83-97b1-118bf19da622",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0647-chapter-thirty-is-it-really-possible-for-an-emo",
   title:
     "Chapter Thirty - Is It Really Possible for an Emo Girl and a Country Boy to Build a Doomsday Weapon?",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0697TheStrayCatStrutRoleplayingGameKickstarter = {
   id: "01a06730-4ed6-7a2e-8e55-75da6daabfbf",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0697-the-stray-cat-strut-roleplaying-game-kickstarter",
   title: "The Stray Cat Strut Roleplaying Game Kickstarter is Liiiive!",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

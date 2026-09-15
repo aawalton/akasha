@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0544NewsTheContestsGeneralCategoryWinnersHave = {
   id: "01a06730-4e8f-74f2-8b1f-213590c552d7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0544-news-the-contests-general-category-winners-have",
   title: "News: The Contest's General Category Winners have been announced!",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

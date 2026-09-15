@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0586ChapterSixtySixPointsArePreciousBut = {
   id: "01a06730-4ec3-7249-8cc7-d0a92aaa462a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0586-chapter-sixty-six-points-are-precious-but",
   title: "Chapter Sixty-Six - Points Are Precious, But Explosions Are Priceless",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

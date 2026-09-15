@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0684ScsCrossoverFanficContestWinners = {
   id: "01a06730-4ed4-74d0-993b-f75cfc2218d1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0684-scs-crossover-fanfic-contest-winners",
   title: "SCS Crossover Fanfic Contest! Winners!",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0632ChapterSixteenDieWeltIstImWandel = {
   id: "01a06730-4ed3-7af0-99db-e6b2399624c0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0632-chapter-sixteen-die-welt-ist-im-wandel",
   title: "Chapter Sixteen - Die Welt ist im Wandel",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

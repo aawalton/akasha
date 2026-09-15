@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0559StrayCatStrutMusicKillAndBuyKuroP = {
   id: "01a06730-4ec2-749d-ba68-6653413486c3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0559-stray-cat-strut-music-kill-and-buy-kuro-p",
   title: "Stray Cat Strut Music! - Kill and Buy [Kuro-P]",
   story: "story-read/stray-cat-strut-stubbing-never-lol",
