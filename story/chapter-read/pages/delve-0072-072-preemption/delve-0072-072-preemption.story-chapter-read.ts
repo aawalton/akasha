@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delve0072072Preemption = {
   id: "01a06731-ae18-7000-8332-42f919f5ed66",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delve-0072-072-preemption",
   title: "072: Preemption",
   story: "story-read/delve",

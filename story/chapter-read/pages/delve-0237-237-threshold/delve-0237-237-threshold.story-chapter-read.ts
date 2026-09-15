@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delve0237237Threshold = {
   id: "01a06731-afba-7000-9948-4b94f0904f5a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delve-0237-237-threshold",
   title: "237: Threshold",
   story: "story-read/delve",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delve0180180Multitasking = {
   id: "01a06731-af6e-7000-a990-a87b88c84726",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delve-0180-180-multitasking",
   title: "180: Multitasking",
   story: "story-read/delve",

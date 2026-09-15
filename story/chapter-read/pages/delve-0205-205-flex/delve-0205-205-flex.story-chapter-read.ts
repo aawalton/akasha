@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delve0205205Flex = {
   id: "01a06731-af92-7000-bc54-15d678ef9ca2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delve-0205-205-flex",
   title: "205: Flex",
   story: "story-read/delve",

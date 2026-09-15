@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delve0148148Weight = {
   id: "01a06731-af0d-7000-b369-3baf4aadce1d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delve-0148-148-weight",
   title: "148: Weight",
   story: "story-read/delve",

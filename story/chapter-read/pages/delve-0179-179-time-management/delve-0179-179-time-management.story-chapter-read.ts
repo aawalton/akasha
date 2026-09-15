@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delve0179179TimeManagement = {
   id: "01a06731-af6b-7000-bed4-05d6ead2b58d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delve-0179-179-time-management",
   title: "179: Time Management",
   story: "story-read/delve",

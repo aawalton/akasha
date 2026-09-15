@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const delve0152152Compression = {
   id: "01a06731-af1e-7000-82a1-bdb0a293be27",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "delve-0152-152-compression",
   title: "152: Compression",
   story: "story-read/delve",
