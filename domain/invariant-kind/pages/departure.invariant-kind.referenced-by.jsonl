@@ -517,6 +517,7 @@
 {"propertySlug":"invariant-kind","path":"alan/collection/great-courses/modules/sync-outcome/sync-outcome.module.ts","id":"01a06580-196a-7000-9451-e53d200e3e2d"}
 {"propertySlug":"invariant-kind","path":"alan/collection/great-courses/modules/sync-run/sync-run.module.ts","id":"01a06580-196a-7001-8989-3755d6f4c2ed"}
 {"propertySlug":"invariant-kind","path":"alan/collection/great-courses/modules/sync/sync.module.ts","id":"01a06579-f3d9-7007-b519-cafdb2cbafba"}
+{"propertySlug":"invariant-kind","path":"alan/collection/great-courses/service-workstations/sync/great-courses-sync.service-workstation.ts","id":"01a06829-0194-71d6-8b3b-2687352034df"}
 {"propertySlug":"invariant-kind","path":"alan/collection/place/location-collection/location-collection.page-type.ts","id":"01a06589-d12e-7daf-abd1-8fb5c89e9127"}
 {"propertySlug":"invariant-kind","path":"alan/collection/place/location-deal/location-deal.page-type.ts","id":"01a06585-5fc5-715e-850c-9b88e5597728"}
 {"propertySlug":"invariant-kind","path":"alan/collection/place/location/location.page-type.ts","id":"01a06583-acfb-78cd-80a3-4b5b464dc8ff"}
@@ -2632,9 +2633,7 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.ts","id":"01a05a56-b9f1-77a4-8a3d-6e0424952002"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/cluster-deploying/cluster-deploying.service-workstation.ts","id":"01a095f5-2a3a-7cc4-a6d7-44beac4bc49a"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/container-recipe-deploying/container-recipe-deploying.service-workstation.ts","id":"01a0965f-7f5f-73fa-8be8-4758f86ec930"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/desktop-wallpaper-setting/desktop-wallpaper-setting.service-workstation.ts","id":"01a0786c-047b-7863-b793-0ff93be3d895"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/eso-addon-deploying/eso-addon-deploying.service-workstation.ts","id":"01a095be-957a-70aa-93ff-0845e49c8f73"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/great-courses-sync/great-courses-sync.service-workstation.ts","id":"01a06829-0194-71d6-8b3b-2687352034df"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/inference-deploying/inference-deploying.service-workstation.ts","id":"01a09b0e-376c-70a6-9838-96e1f3f656a1"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/ios-app-deploying/ios-app-deploying.service-workstation.ts","id":"01a09b1a-31fc-7f84-8e3c-2b931fe57d4e"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/orphaned-resources-sweep/orphaned-resources-sweep.service-workstation.ts","id":"01a06829-0194-7184-8190-2c4c599798bd"}
@@ -3078,6 +3077,7 @@
 {"propertySlug":"invariant-kind","path":"persona/properties/persona-relationship-level.computed-property.ts","id":"01a082dd-bbc6-70a8-b7c5-94c16ef56e98"}
 {"propertySlug":"invariant-kind","path":"persona/review-session/properties/review-session-notes.file-property.ts","id":"01a06743-d160-7000-a21c-00ed7a409bee"}
 {"propertySlug":"invariant-kind","path":"persona/review-session/review-session.page-type.ts","id":"01a06743-d160-7001-9131-181af10f9b87"}
+{"propertySlug":"invariant-kind","path":"persona/service-workstations/desktop-wallpaper-setting/desktop-wallpaper-setting.service-workstation.ts","id":"01a0786c-047b-7863-b793-0ff93be3d895"}
 {"propertySlug":"invariant-kind","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.ts","id":"01a0655b-4a9b-700d-88c0-5e1a49f13be5"}
 {"propertySlug":"invariant-kind","path":"persona/wallpaper/persona-wallpaper.page-type.ts","id":"01a0655b-4a9b-700c-8243-c78f27e30dd7"}
 {"propertySlug":"invariant-kind","path":"persona/wallpaper/properties/eso-day.text-property.ts","id":"01a060fb-040d-7f7f-bce8-a74c90df15bc"}

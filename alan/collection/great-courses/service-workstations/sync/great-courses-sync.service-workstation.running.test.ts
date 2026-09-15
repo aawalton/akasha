@@ -18,7 +18,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/service/workstation/pages/great-courses-sync/great-courses-sync.service-workstation.running.code.ts"
+  "akasha/alan/collection/great-courses/service-workstations/sync/great-courses-sync.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {

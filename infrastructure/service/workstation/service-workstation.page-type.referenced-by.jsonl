@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/collection/great-courses/service-workstations/sync/great-courses-sync.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/alan-readout/day-readout-watch-service/day-readout-watch-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/alan-readout/workstation-load-sampler/workstation-load-sampler.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/alanwalton-ios-notification/service-workstations/apns-push-notifier/apns-push-notifier.service-workstation.ts"}
@@ -20,9 +21,7 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/cluster-deploying/cluster-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/container-recipe-deploying/container-recipe-deploying.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/desktop-wallpaper-setting/desktop-wallpaper-setting.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/eso-addon-deploying/eso-addon-deploying.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/great-courses-sync/great-courses-sync.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/inbox-tracking-poll/inbox-tracking-poll.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/inference-deploying/inference-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/ios-app-deploying/ios-app-deploying.service-workstation.ts"}
@@ -56,6 +55,7 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/workstation-deploying/workstation-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/telemetry/service-workstations/dcgm-exporter/dcgm-exporter.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"page/service/page-service.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"persona/service-workstations/desktop-wallpaper-setting/desktop-wallpaper-setting.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"temper/watcher/temper-watcher.service-workstation.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-crash-looping-watch-service-reads-as-well.finding.ts","id":"01a08c17-7cf9-77b1-a8f1-3e8340b26b38"}
 {"propertySlug":"parts","path":"infrastructure/service/service.page-type.ts","id":"01a05a3c-caff-7656-b00d-cbde9f3cf324"}
