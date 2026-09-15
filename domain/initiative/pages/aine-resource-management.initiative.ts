@@ -7,7 +7,6 @@ export const aineResourceManagement = {
   domain: "domain/memory",
   persona: "persona/aine",
   intentStack: [
-    { statement: "`no-raw-nul-bytes` runs under a processor ceiling matched to its cost." },
     { statement: "`no-code-comments` runs under a processor ceiling matched to its cost." },
     { statement: "`phone-number-is-e164` runs under a processor ceiling matched to its cost." },
     { statement: "`id-is-a-uuid-version-7` runs under a processor ceiling matched to its cost." },
