@@ -11,7 +11,7 @@ export const fileLength = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every file in the akasha folder is judged.",
+      statement: "Every file a walk over everything names is judged.",
     },
     {
       decisionKind: "decision-kind/departure",
