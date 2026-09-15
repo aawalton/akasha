@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const sylASlimeMonsterEvolutionLitrpg0114Chapter412EternalVigil = {
   id: "01a06730-4e29-7e1e-988f-558a8b99f81c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0114-chapter-412-eternal-vigil",
   title: "Chapter 412 : Eternal Vigil",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",

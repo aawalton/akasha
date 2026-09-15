@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0060Chapter638PerksOfBattleInstinct = {
   id: "01a06730-4fbb-7570-b337-2310b468fbf5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0060-chapter-638-perks-of-battle-instinct",
   title: "Chapter 638: Perks of Battle Instinct",
   story: "story-read/system-change-system-universe",

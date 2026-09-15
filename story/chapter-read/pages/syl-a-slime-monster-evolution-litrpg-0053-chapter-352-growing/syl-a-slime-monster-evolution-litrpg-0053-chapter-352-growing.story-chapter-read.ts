@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const sylASlimeMonsterEvolutionLitrpg0053Chapter352Growing = {
   id: "01a06730-4e1b-72dd-b7cd-ffeaca55b25e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0053-chapter-352-growing",
   title: "Chapter 352 : Growing",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",

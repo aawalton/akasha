@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0032Chapter611TastyElfPerson = {
   id: "01a06730-4fba-7f62-b7c8-477c16ed6f48",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0032-chapter-611-tasty-elf-person",
   title: "Chapter 611: Tasty Elf Person",
   story: "story-read/system-change-system-universe",

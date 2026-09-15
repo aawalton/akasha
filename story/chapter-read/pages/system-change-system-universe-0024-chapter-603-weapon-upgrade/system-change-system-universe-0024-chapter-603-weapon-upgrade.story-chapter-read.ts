@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0024Chapter603WeaponUpgrade = {
   id: "01a06730-4fb9-7ac7-b5fa-371680370ff3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0024-chapter-603-weapon-upgrade",
   title: "Chapter 603: Weapon Upgrade",
   story: "story-read/system-change-system-universe",

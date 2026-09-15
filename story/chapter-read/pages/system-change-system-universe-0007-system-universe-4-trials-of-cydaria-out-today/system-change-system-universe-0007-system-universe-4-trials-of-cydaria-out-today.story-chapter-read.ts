@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0007SystemUniverse4TrialsOfCydariaOutToday = {
   id: "01a06730-4fb7-7a48-b8b7-125fe4fba675",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0007-system-universe-4-trials-of-cydaria-out-today",
   title: "System Universe 4: Trials of Cydaria out today!",
   story: "story-read/system-change-system-universe",

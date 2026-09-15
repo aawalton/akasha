@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0039Chapter618TestingConnectionsAndGathering = {
   id: "01a06730-4fba-7770-b24f-644d83f5104f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0039-chapter-618-testing-connections-and-gathering",
   title: "Chapter 618: Testing Connections and Gathering",
   story: "story-read/system-change-system-universe",

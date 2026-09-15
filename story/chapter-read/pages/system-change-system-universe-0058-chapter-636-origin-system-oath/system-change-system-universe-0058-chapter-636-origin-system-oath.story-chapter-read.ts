@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0058Chapter636OriginSystemOath = {
   id: "01a06730-4fbb-7293-822b-ace14adf03dc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0058-chapter-636-origin-system-oath",
   title: "Chapter 636: Origin System Oath",
   story: "story-read/system-change-system-universe",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0073Chapter651SoYouAgree = {
   id: "01a06730-4fbc-7c08-b093-423d5d81dd09",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0073-chapter-651-so-you-agree",
   title: "Chapter 651: So... You Agree?",
   story: "story-read/system-change-system-universe",

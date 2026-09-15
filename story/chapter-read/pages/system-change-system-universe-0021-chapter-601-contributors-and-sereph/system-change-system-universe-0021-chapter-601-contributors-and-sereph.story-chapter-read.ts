@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0021Chapter601ContributorsAndSereph = {
   id: "01a06730-4fb9-79d9-a890-f6723a597a69",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0021-chapter-601-contributors-and-sereph",
   title: "Chapter 601: Contributors and Sereph",
   story: "story-read/system-change-system-universe",

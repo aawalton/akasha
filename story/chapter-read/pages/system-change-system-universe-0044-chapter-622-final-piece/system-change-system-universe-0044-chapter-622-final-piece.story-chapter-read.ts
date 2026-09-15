@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0044Chapter622FinalPiece = {
   id: "01a06730-4fba-7f0d-944f-f7262f07cd4c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0044-chapter-622-final-piece",
   title: "Chapter 622: Final Piece",
   story: "story-read/system-change-system-universe",

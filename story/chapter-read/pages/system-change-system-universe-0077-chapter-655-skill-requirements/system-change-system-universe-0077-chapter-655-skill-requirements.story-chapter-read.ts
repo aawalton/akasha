@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0077Chapter655SkillRequirements = {
   id: "01a06730-4fbc-77ec-872c-fd5ce33c338b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0077-chapter-655-skill-requirements",
   title: "Chapter 655: Skill Requirements",
   story: "story-read/system-change-system-universe",

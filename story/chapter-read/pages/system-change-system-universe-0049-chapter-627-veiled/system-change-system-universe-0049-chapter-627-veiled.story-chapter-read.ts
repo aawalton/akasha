@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0049Chapter627Veiled = {
   id: "01a06730-4fbb-78a3-96c8-fcd2f2723125",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0049-chapter-627-veiled",
   title: "Chapter 627: Veiled",
   story: "story-read/system-change-system-universe",

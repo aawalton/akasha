@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0028Chapter607Dense = {
   id: "01a06730-4fb9-7a9c-9430-d068434294ec",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0028-chapter-607-dense",
   title: "Chapter 607: Dense",
   story: "story-read/system-change-system-universe",

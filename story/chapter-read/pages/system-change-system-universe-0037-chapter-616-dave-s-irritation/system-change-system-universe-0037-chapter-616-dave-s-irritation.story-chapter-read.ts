@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0037Chapter616DaveSIrritation = {
   id: "01a06730-4fba-7c0c-b55f-59e2742e16c7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0037-chapter-616-dave-s-irritation",
   title: "Chapter 616: Dave’s Irritation",
   story: "story-read/system-change-system-universe",

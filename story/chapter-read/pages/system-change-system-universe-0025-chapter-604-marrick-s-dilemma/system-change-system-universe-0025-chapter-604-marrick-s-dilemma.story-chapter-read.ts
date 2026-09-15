@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0025Chapter604MarrickSDilemma = {
   id: "01a06730-4fb9-76fd-80ca-1198e0c27995",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0025-chapter-604-marrick-s-dilemma",
   title: "Chapter 604: Marrick’s Dilemma",
   story: "story-read/system-change-system-universe",
