@@ -67,7 +67,7 @@ test("a checkout the index answers nothing for is refused rather than answered a
   try {
     const said = underRoot(folder, () => saidBy(notices))
 
-    expect(said).toContain("is not there")
+    expect(said).toContain("files no notice page")
   } finally {
     rmSync(folder, { recursive: true, force: true })
   }
