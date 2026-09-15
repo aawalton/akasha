@@ -1,7 +1,7 @@
 import type { ItemLevel } from "akasha/temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import { getWeaponPowerForLevel } from "akasha/temper/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
-import type { EquipmentQualityId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import type { EquipmentQualityId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   createDataFile,
   type DataFile,

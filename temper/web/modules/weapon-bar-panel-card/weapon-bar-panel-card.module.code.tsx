@@ -35,8 +35,8 @@ import {
   weaponTraitsBuildList,
   weaponTraits as weaponTraitsData,
 } from "akasha/temper/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import { weaponSlots as weaponSlotsData } from "akasha/temper/equipment-kinds/modules/weapon-slots/weapon-slots.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import { weaponSlots as weaponSlotsData } from "akasha/temper/equipment-kind/modules/weapon-slots/weapon-slots.module.code.ts"
 import { BulkEditTag } from "akasha/temper/web/modules/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "akasha/temper/web/modules/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
 import type { EquipmentSectionProps } from "akasha/temper/web/modules/equipment-types/equipment-types.module.code.ts"

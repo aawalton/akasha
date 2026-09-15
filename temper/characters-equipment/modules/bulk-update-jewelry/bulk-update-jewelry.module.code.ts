@@ -4,8 +4,8 @@ import { isSetValidForSlot } from "akasha/temper/characters-equipment/modules/se
 import type { JewelryTraitId } from "akasha/temper/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import type { SetId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import { jewelrySlots } from "akasha/temper/equipment-kinds/modules/jewelry-slots/jewelry-slots.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import { jewelrySlots } from "akasha/temper/equipment-kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 
 export function bulkUpdateJewelryTrait(
   equipment: Loadout,

@@ -1,6 +1,6 @@
 import { setsAll } from "akasha/temper/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import type { SetId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
-import type { EquipmentQualityId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import type { EquipmentQualityId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import { isMetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"

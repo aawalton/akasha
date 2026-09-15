@@ -47,7 +47,7 @@ import type {
   JewelrySlotItem,
   WeaponSlotItem,
 } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
-import type { StandardArmorType } from "akasha/temper/equipment-kinds/modules/armor-types/armor-types.module.code.ts"
+import type { StandardArmorType } from "akasha/temper/equipment-kind/modules/armor-types/armor-types.module.code.ts"
 import {
   buildHash,
   buildId,

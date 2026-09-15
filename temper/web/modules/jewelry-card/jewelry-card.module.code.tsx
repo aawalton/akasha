@@ -34,11 +34,11 @@ import {
 } from "akasha/temper/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   type JewelrySlotId,
   jewelrySlots,
-} from "akasha/temper/equipment-kinds/modules/jewelry-slots/jewelry-slots.module.code.ts"
+} from "akasha/temper/equipment-kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
   getSetById,

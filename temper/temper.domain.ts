@@ -55,7 +55,7 @@ export const temper = {
     "domain/temper-dungeon-champion",
     "domain/temper-group-dungeon",
     "domain/temper-equipment",
-    "domain/temper-equipment-kinds",
+    "domain/temper-equipment-kind",
     "domain/temper-errors-triage",
     "domain/temper-eso-declaration",
     "domain/temper-eso-paths",

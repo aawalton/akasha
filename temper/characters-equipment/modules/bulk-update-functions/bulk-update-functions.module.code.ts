@@ -13,7 +13,7 @@ import {
 import type { Loadout } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import type { SetId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 
 export function bulkUpdateAllSets(
   equipment: Loadout,

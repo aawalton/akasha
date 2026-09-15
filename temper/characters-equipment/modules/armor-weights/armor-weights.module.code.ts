@@ -14,11 +14,11 @@ import type {
 import {
   type ArmorTypeId,
   getArmorMultiplier,
-} from "akasha/temper/equipment-kinds/modules/armor-types/armor-types.module.code.ts"
+} from "akasha/temper/equipment-kind/modules/armor-types/armor-types.module.code.ts"
 import {
   type EquipmentQualityId,
   resolveQuality,
-} from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
+} from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { MetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import {

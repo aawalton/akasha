@@ -12,7 +12,7 @@ import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids
 import {
   type EquipmentQualityId,
   resolveQuality,
-} from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
+} from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { valuesOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
 
 function getSetInfo(

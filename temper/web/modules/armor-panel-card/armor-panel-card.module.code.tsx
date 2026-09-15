@@ -30,8 +30,8 @@ import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids
 import {
   type ArmorSlotId,
   armorSlots,
-} from "akasha/temper/equipment-kinds/modules/armor-slots/armor-slots.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
+} from "akasha/temper/equipment-kind/modules/armor-slots/armor-slots.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { ArmorUpdateParams } from "akasha/temper/web/modules/armor-card/armor-card.module.code.tsx"
 import { ArmorCard } from "akasha/temper/web/modules/armor-card/armor-card.module.code.tsx"
 import { BulkEditTag } from "akasha/temper/web/modules/bulk-edit-tag/bulk-edit-tag.module.code.tsx"

@@ -13,9 +13,9 @@ import { updateWeaponItem } from "akasha/temper/characters-equipment/modules/wea
 import type { SetId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
 import type { WeaponTraitId } from "akasha/temper/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import { weaponBars } from "akasha/temper/equipment-kinds/modules/weapon-bars/weapon-bars.module.code.ts"
-import { weaponSlots } from "akasha/temper/equipment-kinds/modules/weapon-slots/weapon-slots.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import { weaponBars } from "akasha/temper/equipment-kind/modules/weapon-bars/weapon-bars.module.code.ts"
+import { weaponSlots } from "akasha/temper/equipment-kind/modules/weapon-slots/weapon-slots.module.code.ts"
 
 export function bulkUpdateWeaponTrait(
   equipment: Loadout,

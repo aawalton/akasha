@@ -5,7 +5,7 @@ import {
 } from "akasha/temper/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts"
 import { getJewelryTraitEffects } from "akasha/temper/characters-equipment/modules/jewelry-trait-effects/jewelry-trait-effects.module.code.ts"
 import type { JewelryTraitId } from "akasha/temper/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
-import type { JewelryTypeId } from "akasha/temper/equipment-kinds/modules/jewelry-types/jewelry-types.module.code.ts"
+import type { JewelryTypeId } from "akasha/temper/equipment-kind/modules/jewelry-types/jewelry-types.module.code.ts"
 import type {
   Effect,
   MetricEffect,

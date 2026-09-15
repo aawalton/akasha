@@ -3714,7 +3714,7 @@
 {"propertySlug":"invariant-kind","path":"temper/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.ts","id":"01a060f9-bad9-750a-870e-3ac5edb4440c"}
 {"propertySlug":"invariant-kind","path":"temper/dungeon-champion/modules/dungeon-champion-slash/dungeon-champion-slash.module.ts","id":"01a060f9-badb-75b9-a0c4-24413a5ab8d1"}
 {"propertySlug":"invariant-kind","path":"temper/dungeon-champion/temper-dungeon-champion.domain.ts","id":"01a060f9-bab9-7763-8ceb-8977b0b205de"}
-{"propertySlug":"invariant-kind","path":"temper/equipment-kinds/temper-equipment-kinds.domain.ts","id":"01a060b8-08c3-7a47-a8fa-29a32e398b30"}
+{"propertySlug":"invariant-kind","path":"temper/equipment-kind/temper-equipment-kind.domain.ts","id":"01a060b8-08c3-7a47-a8fa-29a32e398b30"}
 {"propertySlug":"invariant-kind","path":"temper/equipment/modules/armor-traits/armor-traits.module.ts","id":"01a0610f-45b9-7cd1-b86c-956394916d9b"}
 {"propertySlug":"invariant-kind","path":"temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.ts","id":"01a060f0-3eac-71f4-ab24-ac7b5ad15139"}
 {"propertySlug":"invariant-kind","path":"temper/equipment/modules/eso-trait-map/eso-trait-map.module.ts","id":"01a0610f-45ba-79d3-b258-2e9d709283b7"}

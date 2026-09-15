@@ -51,12 +51,12 @@ import {
   weaponTraitsBuildList,
 } from "akasha/temper/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import type { WeaponBar } from "akasha/temper/equipment-kinds/modules/weapon-bars/weapon-bars.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import type { WeaponBar } from "akasha/temper/equipment-kind/modules/weapon-bars/weapon-bars.module.code.ts"
 import {
   type WeaponSlot,
   weaponSlots,
-} from "akasha/temper/equipment-kinds/modules/weapon-slots/weapon-slots.module.code.ts"
+} from "akasha/temper/equipment-kind/modules/weapon-slots/weapon-slots.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
   getSetById,

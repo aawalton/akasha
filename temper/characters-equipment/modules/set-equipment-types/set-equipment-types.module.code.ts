@@ -4,11 +4,11 @@ import {
   type ArmorTypeId,
   armorTypes,
   type StandardArmorType,
-} from "akasha/temper/equipment-kinds/modules/armor-types/armor-types.module.code.ts"
+} from "akasha/temper/equipment-kind/modules/armor-types/armor-types.module.code.ts"
 import {
   type JewelryTypeId,
   jewelryTypes,
-} from "akasha/temper/equipment-kinds/modules/jewelry-types/jewelry-types.module.code.ts"
+} from "akasha/temper/equipment-kind/modules/jewelry-types/jewelry-types.module.code.ts"
 export type EquipmentType = WeaponTypeId | JewelryTypeId | ArmorTypeId
 
 export function isStandardArmorType(value: string): value is StandardArmorType {

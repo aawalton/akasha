@@ -40,8 +40,8 @@ import type { SetTemplate as SetsAll } from "akasha/temper/equipment/modules/set
 import {
   type ArmorSlotId,
   armorSlots,
-} from "akasha/temper/equipment-kinds/modules/armor-slots/armor-slots.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
+} from "akasha/temper/equipment-kind/modules/armor-slots/armor-slots.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
   getSetById,
