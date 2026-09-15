@@ -2,7 +2,7 @@ import type { ChangeMechanicalFileContent } from "akasha/change/mechanical/file-
 
 export const removePropertyValue = {
   id: "01a07758-01be-7649-a91a-f8952f0b468e",
-  type: "change-mechanical-file-content",
+  type: "page-type/change-mechanical-file-content",
   slug: "remove-property-value",
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file-content",

@@ -2,7 +2,7 @@ import type { ChangeMechanicalFileContent } from "akasha/change/mechanical/file-
 
 export const changeFileContentCode = {
   id: "01a079ac-d401-7d7b-aa1f-45743f81cf73",
-  type: "change-mechanical-file-content",
+  type: "page-type/change-mechanical-file-content",
   slug: "change-file-content-code",
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",

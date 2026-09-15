@@ -2,7 +2,7 @@ import type { ChangeMechanicalFileContent } from "akasha/change/mechanical/file-
 
 export const renameLocalVariable = {
   id: "01a07718-c9b5-7a1b-822f-308aef9ac22a",
-  type: "change-mechanical-file-content",
+  type: "page-type/change-mechanical-file-content",
   slug: "rename-local-variable",
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file-content",

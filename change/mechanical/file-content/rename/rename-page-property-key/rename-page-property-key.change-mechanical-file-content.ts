@@ -2,7 +2,7 @@ import type { ChangeMechanicalFileContent } from "akasha/change/mechanical/file-
 
 export const renamePagePropertyKey = {
   id: "01a08199-2188-7b83-8ede-a4feb5dd9765",
-  type: "change-mechanical-file-content",
+  type: "page-type/change-mechanical-file-content",
   slug: "rename-page-property-key",
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file-content",

@@ -2,7 +2,7 @@ import type { ChangeMechanicalFileContent } from "akasha/change/mechanical/file-
 
 export const renameEntryKey = {
   id: "01a08763-9f88-79a2-8f08-e50cbca9c517",
-  type: "change-mechanical-file-content",
+  type: "page-type/change-mechanical-file-content",
   slug: "rename-entry-key",
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file-content",
