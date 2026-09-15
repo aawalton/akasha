@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const overdriveTheMarionetteSRebellion = {
   id: "01a0657d-027f-7a27-aa93-c3d4811afbec",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "overdrive-the-marionette-s-rebellion",
   title: "Overdrive: The Marionette’s Rebellion",
   world: "world/the-wandering-inn",

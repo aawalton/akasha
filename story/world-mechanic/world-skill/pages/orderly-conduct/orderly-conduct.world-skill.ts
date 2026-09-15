@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const orderlyConduct = {
   id: "01a0657d-027c-70f0-8546-4868875c598b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "orderly-conduct",
   title: "Orderly Conduct",
   world: "world/the-wandering-inn",

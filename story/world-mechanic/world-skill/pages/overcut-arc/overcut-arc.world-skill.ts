@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const overcutArc = {
   id: "01a0657d-027f-7d36-a2dc-6b130869b283",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "overcut-arc",
   title: "Overcut Arc",
   world: "world/the-wandering-inn",

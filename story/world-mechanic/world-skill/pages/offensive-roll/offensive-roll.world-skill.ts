@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const offensiveRoll = {
   id: "01a0657d-027b-77b0-b109-d8af4406abde",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "offensive-roll",
   title: "Offensive Roll",
   world: "world/the-wandering-inn",

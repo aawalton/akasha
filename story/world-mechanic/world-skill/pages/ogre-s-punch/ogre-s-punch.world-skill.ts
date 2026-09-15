@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const ogreSPunch = {
   id: "01a0657d-027c-77ad-8e95-3f793a2bfe7b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ogre-s-punch",
   title: "Ogre’s Punch",
   world: "world/the-wandering-inn",

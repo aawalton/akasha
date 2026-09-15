@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const orderThouShaltHalt = {
   id: "01a0657d-027c-733b-b8c7-f2f8fdc689d6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "order-thou-shalt-halt",
   title: "Order: Thou Shalt Halt",
   world: "world/the-wandering-inn",

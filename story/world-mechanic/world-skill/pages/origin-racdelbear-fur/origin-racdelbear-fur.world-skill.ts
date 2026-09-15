@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const originRacdelbearFur = {
   id: "01a0657d-027c-7925-8cd8-7fc7c30a18da",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "origin-racdelbear-fur",
   title: "Origin Racdelbear Fur",
   world: "world/the-wandering-inn",

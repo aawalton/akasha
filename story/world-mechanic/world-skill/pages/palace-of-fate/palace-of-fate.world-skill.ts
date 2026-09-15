@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const palaceOfFate = {
   id: "01a0657d-027f-7bda-9720-e14785803eb7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "palace-of-fate",
   title: "Palace of Fate",
   world: "world/the-wandering-inn",

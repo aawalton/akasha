@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const paralysisCut = {
   id: "01a0657d-0286-7193-98e7-3bf211aa7215",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "paralysis-cut",
   title: "Paralysis Cut",
   world: "world/the-wandering-inn",

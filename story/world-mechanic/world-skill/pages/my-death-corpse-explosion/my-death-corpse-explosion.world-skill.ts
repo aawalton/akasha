@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const myDeathCorpseExplosion = {
   id: "01a0657d-0270-789e-9fba-7591bf252570",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "my-death-corpse-explosion",
   title: "My Death: Corpse Explosion",
   world: "world/the-wandering-inn",

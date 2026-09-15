@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const normalizeCondition = {
   id: "01a0657d-027b-7fee-b346-c1e9168ebc32",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "normalize-condition",
   title: "Normalize Condition",
   world: "world/the-wandering-inn",

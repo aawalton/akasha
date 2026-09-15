@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const oneDayBloom = {
   id: "01a0657d-027c-781f-919b-7d8764193322",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "one-day-bloom",
   title: "One Day Bloom",
   world: "world/the-wandering-inn",

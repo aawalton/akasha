@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const noWindEscapesMySails = {
   id: "01a0657d-027b-7143-8fbe-2b9c400d21ca",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "no-wind-escapes-my-sails",
   title: "No Wind Escapes My Sails",
   world: "world/the-wandering-inn",

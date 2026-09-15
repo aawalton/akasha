@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const neverAgainNevermore = {
   id: "01a0657d-027b-7a44-bed0-f4cab597f7f2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "never-again-nevermore",
   title: "Never Again, Nevermore",
   world: "world/the-wandering-inn",

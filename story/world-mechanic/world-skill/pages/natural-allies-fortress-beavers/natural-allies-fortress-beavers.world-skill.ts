@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const naturalAlliesFortressBeavers = {
   id: "01a0657d-0271-75f1-ac53-82c11ee8acdc",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "natural-allies-fortress-beavers",
   title: "Natural Allies: Fortress Beavers",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const partialReconstruction = {
   id: "01a0657d-0287-7492-bc1c-a85bfbd89630",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "partial-reconstruction",
   title: "Partial Reconstruction",
   world: "world/the-wandering-inn",

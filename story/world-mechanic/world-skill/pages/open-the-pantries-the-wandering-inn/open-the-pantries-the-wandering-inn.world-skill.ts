@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const openThePantriesTheWanderingInn = {
   id: "01a0657d-027c-7b49-9175-ae1ec19ef886",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "open-the-pantries-the-wandering-inn",
   title: "Open the Pantries (The Wandering Inn)",
   world: "world/the-wandering-inn",

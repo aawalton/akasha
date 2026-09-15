@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const naturalGiftAshfireBeesFireflightFur = {
   id: "01a0657d-0271-73f1-9b09-a14eb431653b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "natural-gift-ashfire-bees-fireflight-fur",
   title: "Natural Gift (Ashfire Bees): Fireflight Fur",
   world: "world/the-wandering-inn",

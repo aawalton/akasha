@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const overpoweringChop = {
   id: "01a0657d-027f-7118-b0b0-2cb5669e2ff7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "overpowering-chop",
   title: "Overpowering Chop",
   world: "world/the-wandering-inn",

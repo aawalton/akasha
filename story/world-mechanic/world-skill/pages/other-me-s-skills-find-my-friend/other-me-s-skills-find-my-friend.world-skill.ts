@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const otherMeSSkillsFindMyFriend = {
   id: "01a0657d-027c-70c8-9c17-15c1a5331ef4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "other-me-s-skills-find-my-friend",
   title: "Other Me’s Skills – Find My Friend",
   world: "world/the-wandering-inn",

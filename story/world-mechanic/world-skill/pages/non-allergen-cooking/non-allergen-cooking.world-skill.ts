@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const nonAllergenCooking = {
   id: "01a0657d-027b-70f1-86ae-b5ede3d73ca5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "non-allergen-cooking",
   title: "Non-Allergen Cooking",
   world: "world/the-wandering-inn",

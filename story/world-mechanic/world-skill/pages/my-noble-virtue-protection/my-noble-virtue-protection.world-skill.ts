@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const myNobleVirtueProtection = {
   id: "01a0657d-0270-72c4-acdb-d6b31036844c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "my-noble-virtue-protection",
   title: "My Noble Virtue: Protection",
   world: "world/the-wandering-inn",

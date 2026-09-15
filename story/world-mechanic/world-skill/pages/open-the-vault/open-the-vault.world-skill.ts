@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const openTheVault = {
   id: "01a0657d-027c-79b2-ad4e-733562e4fe02",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "open-the-vault",
   title: "Open the Vault",
   world: "world/the-wandering-inn",

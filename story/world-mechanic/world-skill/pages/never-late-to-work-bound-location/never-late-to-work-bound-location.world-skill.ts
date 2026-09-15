@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const neverLateToWorkBoundLocation = {
   id: "01a0657d-027b-712e-af12-f44c0456f316",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "never-late-to-work-bound-location",
   title: "Never Late To Work (Bound Location)",
   world: "world/the-wandering-inn",

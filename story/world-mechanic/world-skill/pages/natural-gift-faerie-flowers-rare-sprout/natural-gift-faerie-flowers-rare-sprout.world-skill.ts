@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const naturalGiftFaerieFlowersRareSprout = {
   id: "01a0657d-0271-70e5-ab35-3b85793e5478",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "natural-gift-faerie-flowers-rare-sprout",
   title: "Natural Gift (Faerie Flowers): Rare Sprout",
   world: "world/the-wandering-inn",

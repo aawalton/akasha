@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const nudgeCustomers = {
   id: "01a0657d-027b-7492-9ea8-4e736ebc2b76",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "nudge-customers",
   title: "Nudge Customers",
   world: "world/the-wandering-inn",
