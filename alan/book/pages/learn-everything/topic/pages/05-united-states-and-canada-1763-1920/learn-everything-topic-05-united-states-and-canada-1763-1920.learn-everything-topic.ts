@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic05UnitedStatesAndCanada17631920 = {
   id: "01a065a7-085a-7011-b714-3b124d06d60b",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-05-united-states-and-canada-1763-1920",
   node: "The History of Mankind › The Modern World to 1920 › United States and Canada 1763–1920",
   masteryLevel: "mastery-level/novice",

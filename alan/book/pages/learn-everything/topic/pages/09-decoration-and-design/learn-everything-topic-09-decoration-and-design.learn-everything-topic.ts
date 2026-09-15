@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic09DecorationAndDesign = {
   id: "01a065a7-0856-700f-bb6b-e6c25ec08be3",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-09-decoration-and-design",
   node: "Art › Particular Arts › Decoration and Design",
   masteryLevel: "mastery-level/novice",

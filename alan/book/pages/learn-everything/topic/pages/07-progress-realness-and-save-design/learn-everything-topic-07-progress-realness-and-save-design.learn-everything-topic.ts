@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic07ProgressRealnessAndSaveDesign = {
   id: "01a065a7-0856-7017-9c62-aefb969ad8f5",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-07-progress-realness-and-save-design",
   node: "Art › Particular Arts › Game Design › Progress Realness and Save Design",
   masteryLevel: "mastery-level/scholar",

@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic05Macroeconomics = {
   id: "01a065a7-0855-7027-b7e9-9addb9e19097",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-05-macroeconomics",
   node: "Human Society › The Production, Distribution, and Utilization of Wealth › Macroeconomics",
   masteryLevel: "mastery-level/novice",

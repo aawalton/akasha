@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic05TheAegeanMinoanAndMycenaean = {
   id: "01a065a7-0857-7010-9e1e-807bd7a4319d",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-05-the-aegean-minoan-and-mycenaean",
   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › The Aegean: Minoan and Mycenaean",
   masteryLevel: "mastery-level/novice",

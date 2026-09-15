@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic07AustraliaAndOceaniaTo1920 = {
   id: "01a065a7-085a-7013-85ff-d9a9fe6603dd",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-07-australia-and-oceania-to-1920",
   node: "The History of Mankind › The Modern World to 1920 › Australia and Oceania to 1920",
   masteryLevel: "mastery-level/novice",

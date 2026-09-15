@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic09NorthAfricaCarthageAndKush = {
   id: "01a065a7-0857-7014-8332-d4f65babe805",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-09-north-africa-carthage-and-kush",
   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › North Africa: Carthage and Kush",
   masteryLevel: "mastery-level/novice",

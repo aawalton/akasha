@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic06TheSocialSciencesPsychologyLinguistics = {
   id: "01a065a7-085b-7013-b77c-85c08e97d31c",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-06-the-social-sciences-psychology-linguistics",
   node: "The Branches of Knowledge › Science › The Social Sciences, Psychology, Linguistics",
   masteryLevel: "mastery-level/novice",

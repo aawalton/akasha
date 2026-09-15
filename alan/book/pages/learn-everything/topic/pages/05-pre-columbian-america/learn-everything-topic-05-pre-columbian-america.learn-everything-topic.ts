@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic05PreColumbianAmerica = {
   id: "01a065a7-085a-7003-946d-0536525cd6a7",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-05-pre-columbian-america",
   node: "The History of Mankind › Pre-Columbian America",
   masteryLevel: "mastery-level/novice",

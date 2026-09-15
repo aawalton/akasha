@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const profile = {
   id: "01a065a7-085b-701e-8335-c90f8b9e72d8",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "profile",
   node: "Everything",
   masteryLevel: "mastery-level/novice",

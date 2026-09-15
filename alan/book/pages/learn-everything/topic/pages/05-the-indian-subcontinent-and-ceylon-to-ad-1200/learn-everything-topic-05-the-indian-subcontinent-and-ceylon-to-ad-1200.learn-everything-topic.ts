@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic05TheIndianSubcontinentAndCeylonToAd1200 = {
   id: "01a065a7-0857-7020-aa77-2635462e7bf1",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-05-the-indian-subcontinent-and-ceylon-to-ad-1200",
   node: "The History of Mankind › East, Central, South, and Southeast Asia › The Indian Subcontinent and Ceylon to AD 1200",
   masteryLevel: "mastery-level/novice",

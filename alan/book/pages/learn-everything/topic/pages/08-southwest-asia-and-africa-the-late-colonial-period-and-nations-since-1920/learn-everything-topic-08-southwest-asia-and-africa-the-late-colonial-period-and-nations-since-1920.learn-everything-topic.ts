@@ -3,7 +3,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 export const learnEverythingTopic08SouthwestAsiaAndAfricaTheLateColonialPeriodAndNationsSince1920 =
   {
     id: "01a065a7-085a-7020-a29c-91bcdd5ccd20",
-    type: "learn-everything-topic",
+    type: "page-type/learn-everything-topic",
     slug: "learn-everything-topic-08-southwest-asia-and-africa-the-late-colonial-period-and-nations-since-1920",
     node: "The History of Mankind › The World Since 1920 › Southwest Asia and Africa: the Late Colonial Period and Nations since 1920",
     masteryLevel: "mastery-level/novice",

@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic06AuthoringAndGmDoctrine = {
   id: "01a065a7-0856-7016-95c7-31fd2b2ce1d6",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-06-authoring-and-gm-doctrine",
   node: "Art › Particular Arts › Game Design › Authoring and GM Doctrine",
   masteryLevel: "mastery-level/scholar",

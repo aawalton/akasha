@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic10GameDesign = {
   id: "01a065a7-0856-7010-921e-6dccfd88bdad",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-10-game-design",
   node: "Art › Particular Arts › Game Design",
   masteryLevel: "mastery-level/scholar",

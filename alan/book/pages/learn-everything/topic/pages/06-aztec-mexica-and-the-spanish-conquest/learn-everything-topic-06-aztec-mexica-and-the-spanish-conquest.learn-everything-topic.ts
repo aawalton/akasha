@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic06AztecMexicaAndTheSpanishConquest = {
   id: "01a065a7-085a-700b-b22f-6f48596df11c",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-06-aztec-mexica-and-the-spanish-conquest",
   node: "The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Aztec/Mexica and the Spanish Conquest",
   masteryLevel: "mastery-level/scholar",

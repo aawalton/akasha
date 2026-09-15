@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic06Judaism = {
   id: "01a065a7-0857-7005-a483-e3b70eddad99",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-06-judaism",
   node: "Religion › Particular Religions › Judaism",
   masteryLevel: "mastery-level/novice",

@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic07TheAchaemenidPersianEmpire = {
   id: "01a065a7-0857-7012-a2d6-de3e1822e31f",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-07-the-achaemenid-persian-empire",
   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › The Achaemenid Persian Empire",
   masteryLevel: "mastery-level/novice",

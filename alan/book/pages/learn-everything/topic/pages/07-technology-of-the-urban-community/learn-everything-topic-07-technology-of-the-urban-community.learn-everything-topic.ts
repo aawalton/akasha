@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic07TechnologyOfTheUrbanCommunity = {
   id: "01a065a7-0856-702a-8655-f667ce2dbe4b",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-07-technology-of-the-urban-community",
   node: "Technology › Fields of Technology › Technology of the Urban Community",
   masteryLevel: "mastery-level/novice",

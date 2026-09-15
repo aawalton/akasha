@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic07ReproductionAndSex = {
   id: "01a065a7-0854-7013-9154-8109897b9c7f",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-07-reproduction-and-sex",
   node: "Life on Earth › The Structures and Functions of Organisms › Reproduction and Sex",
   masteryLevel: "mastery-level/novice",

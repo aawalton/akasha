@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic05TheBiosphere = {
   id: "01a065a7-0855-7000-86b1-fdf80fc20410",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-05-the-biosphere",
   node: "Life on Earth › The Biosphere",
   masteryLevel: "mastery-level/novice",

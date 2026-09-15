@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic06EconomicGrowthAndPlanning = {
   id: "01a065a7-0855-7028-9b58-c3357bb6f931",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-06-economic-growth-and-planning",
   node: "Human Society › The Production, Distribution, and Utilization of Wealth › Economic Growth and Planning",
   masteryLevel: "mastery-level/novice",

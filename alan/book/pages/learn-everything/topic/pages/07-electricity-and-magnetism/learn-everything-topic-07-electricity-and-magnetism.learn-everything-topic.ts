@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic07ElectricityAndMagnetism = {
   id: "01a065a7-084d-700a-b2a0-58384b92013f",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-07-electricity-and-magnetism",
   node: "Matter and Energy › Energy, Radiation, and States of Matter › Electricity and Magnetism",
   masteryLevel: "mastery-level/novice",
