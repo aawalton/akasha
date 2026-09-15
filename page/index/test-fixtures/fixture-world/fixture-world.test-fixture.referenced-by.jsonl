@@ -33,7 +33,7 @@
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.test.ts"}
-{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/folder/remove/remove-folder/remove-folder.change-mechanical-folder.test.ts"}
+{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/page-type/rename/rename-page-type/rename-page-type.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/address-restating/address-restating.module.test.ts"}

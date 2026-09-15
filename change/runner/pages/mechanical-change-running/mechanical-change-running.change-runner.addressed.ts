@@ -90,7 +90,7 @@ export type Changes = {
     typeof import("akasha/change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.code.ts")["runChange"]
   >[1]
   "change-mechanical-folder/remove-folder": Parameters<
-    typeof import("akasha/change/mechanical/folder/remove/remove-folder/remove-folder.change-mechanical-folder.code.ts")["runChange"]
+    typeof import("akasha/change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.code.ts")["runChange"]
   >[1]
   "change-mechanical-page-type/add-file-property-extensions": Parameters<
     typeof import("akasha/change/mechanical/page-type/add/add-file-property-extensions/add-file-property-extensions.change-mechanical-page-type.code.ts")["runChange"]
