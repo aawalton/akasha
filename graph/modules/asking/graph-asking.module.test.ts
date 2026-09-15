@@ -11,11 +11,7 @@ import {
   FIRST_AT,
   HELD,
   HELD_LOADER,
-  IMPORT,
   IMPORT_EDGE,
-  INDEX_AT,
-  INDEX_FILED_AT,
-  INDEX_ID,
   importsBeside,
   importsFiled,
   importWorld,
@@ -85,7 +81,7 @@ test("a relation coming in is read from the file beside the page reached", () =>
 })
 
 test("a file is answered with every file importing it, and each says a reference knew it", () => {
-  const root = importWorld(IMPORT)
+  const root = importWorld()
 
   expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
     { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: { [KNOWN]: BY_REFERENCE } },
@@ -108,7 +104,7 @@ test("a page referenced twice the same way is answered with one edge rather than
   ])
 })
 
-test("an index the answer needs, gone, is answered with nothing rather than refused", () => {
+test("a reference the answer needs, gone, is answered with nothing rather than refused", () => {
   const withEdge = relationWorld(1)
   const gone = relationWorld(0)
 
@@ -156,7 +152,7 @@ test("a page type stating a loader is answered no differently from one stating n
 })
 
 test("an import edge existing only in the index given is answered, and none without it", () => {
-  const root = importWorld(IMPORT)
+  const root = importWorld()
   const over = readingLaidOver(root, {}, importsBeside(root, FIRST_AT, [SECOND_AT]))
 
   expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOver(over, bodiesIn(root)))).toEqual([
@@ -166,7 +162,7 @@ test("an import edge existing only in the index given is answered, and none with
 })
 
 test("an import edge the index given empties is not answered, and exists without it", () => {
-  const root = importWorld(IMPORT)
+  const root = importWorld()
   importsFiled(root, FIRST_AT, [THIRD_AT])
   const over = readingLaidOver(root, {}, importsBeside(root, TARGET_AT, []))
 
@@ -186,11 +182,10 @@ test("a relation edge existing only in the index given is answered, and none wit
   expect(edgesInto(TARGET_AT, [RELATION], indexOf(root))).toEqual([])
 })
 
-test("an edge kind's own pages, existing only in the index given, still answer it", () => {
+test("an edge kind's own page, existing only in the index given, still answers it", () => {
   const root = relationWorld(1, false)
   const over = readingLaidOver(root, {
     [edgeFiledAt(RELATION)]: [{ path: EDGE_AT, id: EDGE_ID }],
-    [INDEX_FILED_AT]: [{ path: INDEX_AT, id: INDEX_ID }],
   })
 
   expect(edgesInto(TARGET_AT, [RELATION], indexOver(over, bodiesIn(root)))).toEqual([

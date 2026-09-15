@@ -16,23 +16,13 @@ const GRAPH_EDGE = "graph-edge"
 
 const GRAPH_ATTRIBUTE = "graph-attribute"
 
-const INDEX = "index"
-
-const HELD_INDEX = "held-index"
-
-const HELD_RELATION = "held-relation"
-
 const HELD_TYPE = "held-type"
 
 const LOADED = "loaded"
 
-const INVENTED = "an index a test invented so that no name could be assumed"
-
 const PREFIX = "graph-asking-"
 
 export const EDGE_ID = "01a04ff4-0000-7000-8000-00000000000e"
-
-export const INDEX_ID = "01a04ff4-0000-7000-8000-00000000000d"
 
 const TARGET_ID = "01a04ff4-0000-7000-8000-00000000000a"
 
@@ -42,9 +32,7 @@ const LOADED_ID = "01a04ff4-0000-7000-8000-000000000011"
 
 export const EDGE_AT = "akasha/held/held.graph-edge.ts"
 
-export const INDEX_AT = "akasha/held/held-index.index.ts"
-
-export const IMPORT = "import"
+const IMPORT = "import"
 
 export const IMPORT_EDGE = "import-edge"
 
@@ -164,21 +152,8 @@ export function namedBeside(
   return bodyBeside(page, [{ propertySlug, fileName: null, path: from, id }])
 }
 
-export const INDEX_FILED_AT = `page-type/${INDEX}/slug/${HELD_INDEX}.jsonl`
-
 export function edgeFiledAt(kind: string): string {
   return `page-type/${GRAPH_EDGE}/slug/${kind}.jsonl`
-}
-
-function indexed(root: string, indexName: string, exists: boolean): undefined {
-  paged(root, INDEX_AT, {
-    id: INDEX_ID,
-    pageTypeSlug: INDEX,
-    slug: HELD_INDEX,
-    definition: INVENTED,
-    name: indexName,
-  })
-  if (exists) filed(root, INDEX_FILED_AT, { path: INDEX_AT, id: INDEX_ID })
 }
 
 function edged(
@@ -192,7 +167,6 @@ function edged(
     pageTypeSlug: GRAPH_EDGE,
     slug: kind,
     definition: "an edge kind a test invented",
-    index: `${INDEX}/${HELD_INDEX}`,
     ...held,
   })
   if (exists) filed(root, edgeFiledAt(kind), { path: EDGE_AT, id: EDGE_ID })
@@ -211,7 +185,6 @@ function pageTyped(root: string): undefined {
 export function relationWorld(lines: number, pagesExist = true): string {
   const root = scratch.rootFor(PREFIX)
   edged(root, RELATION, { attributes: [`${GRAPH_ATTRIBUTE}/${PROPERTY}`] }, pagesExist)
-  indexed(root, HELD_RELATION, pagesExist)
   pageTyped(root)
   paged(root, TARGET_AT, {
     id: TARGET_ID,
@@ -237,30 +210,28 @@ export function relationWorld(lines: number, pagesExist = true): string {
   return root
 }
 
-function worldFor(indexName: string): string {
+function worldFor(): string {
   const root = scratch.rootFor(PREFIX)
   edged(root, IMPORT_EDGE, { attributes: [`${GRAPH_ATTRIBUTE}/${KNOWN}`] }, true)
-  indexed(root, indexName, true)
   pageTyped(root)
   filed(root, `path/${EDGE_AT}.jsonl`, { path: EDGE_AT, id: EDGE_ID })
-  filed(root, `path/${INDEX_AT}.jsonl`, { path: INDEX_AT, id: INDEX_ID })
   return root
 }
 
-export function importWorld(indexName: string): string {
-  const root = worldFor(indexName)
+export function importWorld(): string {
+  const root = worldFor()
   importsFiled(root, TARGET_AT, [SOURCE_AT])
   return root
 }
 
 export function reachingWorld(reaching: Readonly<Record<string, readonly string[]>>): string {
-  const root = worldFor(IMPORT)
+  const root = worldFor()
   for (const [into, from] of Object.entries(reaching)) importsFiled(root, into, from)
   return root
 }
 
 export function loadingWorld(loadedBy: string | null, typeExists = true): string {
-  const root = worldFor(IMPORT)
+  const root = worldFor()
   paged(root, TYPE_AT, {
     id: TYPE_ID,
     pageTypeSlug: PAGE_TYPE,
@@ -290,7 +261,6 @@ export function loadingWorld(loadedBy: string | null, typeExists = true): string
 export function loaderWorld(names = true): string {
   const root = scratch.rootFor(PREFIX)
   edged(root, RELATION, { attributes: [`${GRAPH_ATTRIBUTE}/${PROPERTY}`] }, true)
-  indexed(root, HELD_RELATION, true)
   paged(root, TYPE_AT, {
     id: TYPE_ID,
     pageTypeSlug: PAGE_TYPE,
