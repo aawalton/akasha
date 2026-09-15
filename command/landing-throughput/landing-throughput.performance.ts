@@ -2,7 +2,7 @@ import type { Performance } from "akasha/code/performance/performance.page-type.
 
 export const landingThroughput = {
   id: "01a08789-2005-7546-8b63-bcb5f2322cc7",
-  type: "performance",
+  type: "page-type/performance",
   slug: "landing-throughput",
   definition: "how many landings a second one worktree takes while every lane contends",
   code: "ts",
