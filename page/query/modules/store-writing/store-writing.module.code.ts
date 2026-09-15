@@ -102,23 +102,6 @@ export async function writeFiles(
   return landing(what, body, writer, fetcher, rest)
 }
 
-export async function removeFiles(
-  paths: readonly string[],
-  writer: string,
-  message: string,
-  fetcher: Fetcher = pagesFetcher(),
-  rest: Sleeper = sleep,
-  read: string | null = null
-): Promise<Written> {
-  if (paths.length === 0) return { ok: false, why: "a write carries at least one path" }
-  const what = `a taking of ${paths.join(", ")}`
-  const body =
-    read === null
-      ? { writer, message, removes: [...paths] }
-      : { writer, message, removes: [...paths], read }
-  return landing(what, body, writer, fetcher, rest)
-}
-
 function bodiesIn(body: unknown): Read | null {
   if (typeof body !== "object" || body === null) return null
   const held = body as { at?: unknown; bodies?: unknown; unplaced?: unknown }

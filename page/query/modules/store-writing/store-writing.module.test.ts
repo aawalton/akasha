@@ -4,7 +4,6 @@ import { noNap } from "akasha/page/query/modules/store-reaching/store-reaching.m
 import {
   readFiles,
   readPages,
-  removeFiles,
   writeFiles,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 
@@ -47,13 +46,6 @@ test("a write names a path and the whole body standing at it", async () => {
   expect(held.body.message).toBe("why")
 })
 
-test("a taking names the paths it takes away", async () => {
-  const { fetcher, sent } = recording({ commit: "def456", wrote: [], took: ["akasha/one.txt"] })
-  const written = await removeFiles(["akasha/one.txt"], WRITER, "why", fetcher, noNap)
-  expect(written).toEqual({ ok: true, at: "def456" })
-  expect(sent().body.removes).toEqual(["akasha/one.txt"])
-})
-
 test("a write that committed nothing is answered as not written", async () => {
   const { fetcher } = recording({ commit: null, wrote: [], took: [] })
   const written = await writeFiles(
@@ -90,7 +82,6 @@ test("a writer shaped otherwise is refused before the store is reached", async (
 test("a write carrying no path is refused", async () => {
   const { fetcher } = recording({ commit: "x", wrote: [], took: [] })
   expect((await writeFiles([], WRITER, "why", fetcher, noNap)).ok).toBe(false)
-  expect((await removeFiles([], WRITER, "why", fetcher, noNap)).ok).toBe(false)
 })
 
 test("a refusal the store states is carried back", async () => {
