@@ -2,7 +2,7 @@ import type { TemperClass } from "akasha/temper/catalog/temper-skill/temper-clas
 
 export const necromancer = {
   id: "01a05fce-294e-7418-bd49-e71149ef24ba",
-  type: "temper-class",
+  type: "page-type/temper-class",
   slug: "necromancer",
   title: "Necromancer",
   key: "necromancer",

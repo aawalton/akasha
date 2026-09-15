@@ -2,7 +2,7 @@ import type { TemperClass } from "akasha/temper/catalog/temper-skill/temper-clas
 
 export const dragonknight = {
   id: "01a05fce-294e-756a-9738-748825e471c9",
-  type: "temper-class",
+  type: "page-type/temper-class",
   slug: "dragonknight",
   title: "Dragonknight",
   key: "dragonknight",

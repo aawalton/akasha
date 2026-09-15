@@ -2,7 +2,7 @@ import type { TemperClass } from "akasha/temper/catalog/temper-skill/temper-clas
 
 export const arcanist = {
   id: "01a05fce-294d-703f-b58b-ab87f9e70585",
-  type: "temper-class",
+  type: "page-type/temper-class",
   slug: "arcanist",
   title: "Arcanist",
   key: "arcanist",
