@@ -13,11 +13,6 @@ export const aineResourceManagement = {
         "The commit `commitOf` reads at the start is only the label written onto the verdict. `everythingIn` lists with `git ls-files --cached --others`, the index plus untracked working-tree files, and `onDisk` reads bodies with readFileSync, so an audit judges what the working tree holds when each file is opened. A landing part way through a round moves what a later check sees. Ripgrep cannot read a commit; `git grep <rev>` and `git ls-tree -r <rev>` can.",
     },
     {
-      statement: "The audit tooling builds no whole-tree change for a check.",
-      workingMemory:
-        "`audit.command.code.ts:128` and `audit-child.module.code.ts:16` each call `everythingIn(root)` to hand `judgingBy(...).over(change)` a change, and `auditingOver` then calls the check with the root alone, so that change reaches no audit. It costs about 1.5s a call: two `git ls-files` runs over 285,471 paths, merged and sorted. `over(change)` still wants a change for `checksLeftBy`, `checksFor` and the shadow.",
-    },
-    {
       statement: "Every audit collects the files that audit judges rather than listing the tree.",
       workingMemory:
         "Fifty-five of the sixty-six audit code files call `everythingIn` or an `overEvery` runner themselves, so the tree is walked once for the round and again for each check, about 1.5s each. For `phone-number-is-e164` the case set is 726 paths, which `rg --files` globbed to the five carrying page types answers in 0.135s against 285,471 paths in 0.482s. Ripgrep skips ignored files, and `everyFileInside` adds back the ignored-but-held ones `heldThough` keeps.",
