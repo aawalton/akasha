@@ -75,12 +75,6 @@ function paged(root: string, at: string, held: unknown): undefined {
 }
 
 function pageTyped(root: string): undefined {
-  paged(root, MODULE_TYPE_AT, {
-    id: MODULE_TYPE_ID,
-    type: PAGE_TYPE,
-    slug: MODULE,
-    definition: "the page type the pages in this checkout are",
-  })
   named(root, MODULE_TYPE_AT, PAGE_TYPE, MODULE, MODULE_TYPE_ID)
 }
 

@@ -49,5 +49,10 @@ export const checkStaging = {
       invariantKind: "invariant-kind/absence",
       statement: "No git tree is made here.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "The checkout names the page type its pages are, so what a file belongs to is answered.",
+    },
   ],
 } as const satisfies TestFixture
