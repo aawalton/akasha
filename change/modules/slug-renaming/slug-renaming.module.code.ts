@@ -52,10 +52,6 @@ type Renaming = {
   readonly pageTypeSlug: string
 }
 
-type Reach =
-  | { readonly namers: readonly Named[]; readonly slugs: readonly string[] }
-  | { readonly unread: string }
-
 function readdressed(said: string, one: Renaming): string | null {
   if (said === one.was) return one.now
   return said === `${one.pageTypeSlug}/${one.was}` ? `${one.pageTypeSlug}/${one.now}` : null
@@ -94,15 +90,6 @@ function addressedIn(
   }
   ts.forEachChild(source, walk)
   return found
-}
-
-function reachOf(world: World, id: string, pageTypeSlug: string): Reach {
-  try {
-    return { namers: world.index.namersOf(id), slugs: world.index.slugsOfType(pageTypeSlug) }
-  } catch (cause) {
-    const why = cause instanceof Error ? cause.message : String(cause)
-    return { unread: `${why}, so no slug was restated` }
-  }
 }
 
 function namingIn(namers: readonly Named[]): ReadonlyMap<string, ReadonlySet<string>> {
@@ -144,9 +131,8 @@ export function slugRenamed(world: World, given: Asked): Said {
     )
   }
   if (given.to === slug.text) return refusing(`\`${given.to}\` is the slug it already carries`)
-  const reached = reachOf(world, id.text, pageType.text)
-  if ("unread" in reached) return refusing(reached.unread)
-  if (reached.slugs.includes(given.to)) {
+  const namers = world.index.namersOf(id.text)
+  if (world.index.slugsOfType(pageType.text).includes(given.to)) {
     return refusing(`a \`${pageType.text}\` carries the slug \`${given.to}\` already`)
   }
   const name = said.get(NAME)
@@ -163,7 +149,7 @@ export function slugRenamed(world: World, given: Asked): Said {
   if (name !== undefined && given.name !== undefined && given.name !== name.text) {
     put(given.at, [restatedAt(source, name, given.name)])
   }
-  for (const [path, slugs] of namingIn(reached.namers)) {
+  for (const [path, slugs] of namingIn(namers)) {
     let body = texts.get(path)
     if (body === undefined) {
       const read = world.textOf(path)
