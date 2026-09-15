@@ -64,3 +64,11 @@ test("a run reaches over no line break", () => {
 test("a line is numbered from one", () => {
   expect(runsIn("a/b")[0]?.line).toBe(1)
 })
+
+test("a run a `://` opens is no path", () => {
+  expect(runsIn("see [BlueCruise](https://www.ford.com/technology/bluecruise/) here")).toEqual([])
+})
+
+test("a colon before a run that opens no authority leaves that run a path", () => {
+  expect(runsIn("held: code-system/pages")[0]?.said[0]).toBe("code-system/pages")
+})

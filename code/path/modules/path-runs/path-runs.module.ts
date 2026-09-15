@@ -26,6 +26,10 @@ export const pathRuns = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A run a `://` opens is no path.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A line with no separator holds no run.",
     },
     {

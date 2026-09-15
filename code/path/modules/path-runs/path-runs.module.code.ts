@@ -10,6 +10,10 @@ const UNDER = "/"
 
 const LINES = "\n"
 
+const SCHEME = ":"
+
+const AUTHORITY = "//"
+
 export type Run = {
   readonly line: number
   readonly said: readonly string[]
@@ -33,6 +37,10 @@ function openedIn(line: string): ReadonlySet<number> {
   return found
 }
 
+function schemed(line: string, at: number, run: string): boolean {
+  return run.startsWith(AUTHORITY) && line.slice(0, at).endsWith(SCHEME)
+}
+
 export function runsIn(text: string): readonly Run[] {
   const found: Run[] = []
   const lines = text.split(LINES)
@@ -42,7 +50,7 @@ export function runsIn(text: string): readonly Run[] {
     const opened = openedIn(line)
     for (const one of line.matchAll(PATHED)) {
       const run = one[0]
-      if (!run.includes(UNDER)) continue
+      if (!run.includes(UNDER) || schemed(line, one.index, run)) continue
       found.push({ line: at + 1, said: tailsOf(run), rooted: opened.has(one.index) })
     }
   }

@@ -387,3 +387,9 @@ test("a run that is a path this repository has is left alone though its ending m
     []
   )
 })
+
+test("a URL holding the folder's name is left alone", () => {
+  const text = `export const at = "https://www.ford.com/code-system/one"\n`
+
+  expect(carriedOver(TABLE, text).edits).toEqual([])
+})
