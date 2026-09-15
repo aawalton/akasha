@@ -8,11 +8,11 @@ export const foodOrDrinkSource = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A food or drink's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A food or drink moved to another place breaks every build hash saved.",
     },
   ],

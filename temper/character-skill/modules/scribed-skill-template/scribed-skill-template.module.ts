@@ -8,7 +8,7 @@ export const scribedSkillTemplate = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A scribed skill names one grimoire and one focus script.",
     },
   ],

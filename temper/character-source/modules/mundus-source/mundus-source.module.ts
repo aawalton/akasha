@@ -8,11 +8,11 @@ export const mundusSource = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A mundus stone's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A mundus stone moved to another place breaks every build hash saved.",
     },
   ],

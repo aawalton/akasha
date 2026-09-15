@@ -8,7 +8,7 @@ export const charactersCollectorMerge = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A collector never drops a value an earlier read stored and this read cannot see.",
     },
   ],

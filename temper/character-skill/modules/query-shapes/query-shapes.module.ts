@@ -8,7 +8,7 @@ export const queryShapes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A skill query reads the weight or the weapon type off a slot.",
     },
   ],

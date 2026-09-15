@@ -8,7 +8,7 @@ export const charactersKeyedMerge = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "How a stored map of numbered entries takes a freshly read map is settled here.",
     },
   ],

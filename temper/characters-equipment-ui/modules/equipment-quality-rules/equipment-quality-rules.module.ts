@@ -8,11 +8,11 @@ export const equipmentQualityRules = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quality a reader cannot pick is not offered.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The absence of a quality is shown muted rather than as a quality.",
     },
   ],

@@ -8,7 +8,7 @@ export const charactersEventsBuild = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run of build changes is read once after the run settles.",
     },
   ],

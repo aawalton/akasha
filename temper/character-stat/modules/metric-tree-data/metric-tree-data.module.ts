@@ -8,15 +8,15 @@ export const metricTreeData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This code is written out from the metric-tree pages rather than by hand.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The seven categories are named here in the order the metric-tree pages give.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "The generator for this table reads a row shape the metric-tree pages no longer have.",
     },

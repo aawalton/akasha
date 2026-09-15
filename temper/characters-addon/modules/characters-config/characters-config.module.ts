@@ -8,7 +8,7 @@ export const charactersConfig = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value the Lua table states is preferred to the value the saved table says.",
     },
   ],

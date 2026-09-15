@@ -8,7 +8,7 @@ export const charactersTaskProgressResolver = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Which resolver a completion card is answered by is stated in one place.",
     },
   ],

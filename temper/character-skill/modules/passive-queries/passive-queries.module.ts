@@ -8,7 +8,7 @@ export const passiveQueries = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The empty slot sentinel counts toward no skill line.",
     },
   ],

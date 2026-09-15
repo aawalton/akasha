@@ -9,7 +9,7 @@ export const charactersAntiquityLeadChecks = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A lead is a motif lead where the antiquity's name opens with the style's word.",
     },
   ],

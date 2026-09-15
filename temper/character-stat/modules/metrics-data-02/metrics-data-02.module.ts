@@ -8,7 +8,7 @@ export const metricsData02 = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The stats are named here in the order the gathered table answers its ids in.",
     },
   ],

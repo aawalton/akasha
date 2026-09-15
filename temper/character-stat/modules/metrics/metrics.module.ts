@@ -9,12 +9,12 @@ export const metrics = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "This table is gathered from the sixteen data groups in the order the groups are named.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A stat moved to another group changes the order this table answers its ids in.",
     },
   ],

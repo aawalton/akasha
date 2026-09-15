@@ -8,7 +8,7 @@ export const charactersCommand = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reset empties the saved table before reading the game again.",
     },
   ],

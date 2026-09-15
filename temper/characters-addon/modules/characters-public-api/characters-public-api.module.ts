@@ -8,11 +8,11 @@ export const charactersPublicApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name this table publishes keeps the spelling its readers use.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The table is assigned through a cast rather than a declaration.",
     },
   ],

@@ -8,11 +8,11 @@ export const skillBarFiltering = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A weapon or armour line offers skills only while that line is available.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The werewolf line offers ultimates alone.",
     },
   ],

@@ -8,7 +8,7 @@ export const scribingScriptDescription = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A description joins the skill wording with each chosen script's wording.",
     },
   ],

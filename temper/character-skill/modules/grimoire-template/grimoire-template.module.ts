@@ -8,7 +8,7 @@ export const grimoireTemplate = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A grimoire names every script that may combine into a scribed skill.",
     },
   ],

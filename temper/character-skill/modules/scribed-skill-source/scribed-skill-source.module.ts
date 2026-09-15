@@ -8,11 +8,11 @@ export const scribedSkillSource = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A scribed skill with no matching grimoire and focus answers nothing.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The effects a scribed skill grants are empty here.",
     },
   ],

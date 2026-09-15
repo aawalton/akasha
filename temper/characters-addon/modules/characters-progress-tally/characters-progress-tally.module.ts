@@ -9,7 +9,7 @@ export const charactersProgressTally = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Counting done entries against all the entries is written once.",
     },
   ],

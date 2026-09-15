@@ -8,7 +8,7 @@ export const charactersHirelingMailSubscriber = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A loot of nothing or a negative amount is ignored.",
     },
   ],

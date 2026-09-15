@@ -8,13 +8,13 @@ export const characterSkills = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Scribed skills follow the catalog skills rather than sorting among the catalog skills.",
     },
 
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A skill moved to another place breaks every build hash saved.",
     },
   ],

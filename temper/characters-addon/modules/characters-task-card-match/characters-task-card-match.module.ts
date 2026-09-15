@@ -8,7 +8,7 @@ export const charactersTaskCardMatch = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Whether a task names a completion card is worked out in one place.",
     },
   ],

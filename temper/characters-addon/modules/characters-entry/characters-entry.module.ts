@@ -8,7 +8,7 @@ export const charactersEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The whole read of the game waits three seconds after the player is active.",
     },
   ],

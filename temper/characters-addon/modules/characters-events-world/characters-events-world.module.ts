@@ -8,7 +8,7 @@ export const charactersEventsWorld = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A finished quest counts as a daily writ only where its type is crafting.",
     },
   ],

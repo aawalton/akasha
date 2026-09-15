@@ -8,7 +8,7 @@ export const metricTreeData02 = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This code is written out from the metric-tree pages rather than by hand.",
     },
   ],

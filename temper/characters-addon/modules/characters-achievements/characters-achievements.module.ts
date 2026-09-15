@@ -9,7 +9,7 @@ export const charactersAchievements = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The game says of each achievement whether that achievement is kept per character or per account.",
     },

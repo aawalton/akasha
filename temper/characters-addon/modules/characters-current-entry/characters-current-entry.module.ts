@@ -8,7 +8,7 @@ export const charactersCurrentEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Which row the character now played is kept in is worked out in one place.",
     },
   ],

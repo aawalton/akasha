@@ -8,7 +8,7 @@ export const characterCaptureRaceMap = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A place in this table is the number a saved build hash has.",
     },
   ],

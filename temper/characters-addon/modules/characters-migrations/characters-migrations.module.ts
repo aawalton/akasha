@@ -9,11 +9,11 @@ export const charactersMigrations = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A repair runs once per domain and the version reached is written down.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A domain the saved table gives no version to counts as being at nought.",
     },
   ],

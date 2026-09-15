@@ -9,7 +9,7 @@ export const charactersPlayerStats = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A character the saved table does not yet hold is given a row rather than skipped.",
     },

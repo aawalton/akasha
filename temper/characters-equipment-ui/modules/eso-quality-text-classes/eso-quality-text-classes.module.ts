@@ -8,11 +8,11 @@ export const esoQualityTextClasses = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quality is keyed by the number the game gives the quality.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No class here is named for the lowest quality.",
     },
   ],

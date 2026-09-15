@@ -8,7 +8,7 @@ export const equipmentIcon = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A picture that fails to load is replaced rather than left broken.",
     },
   ],

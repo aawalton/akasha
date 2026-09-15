@@ -8,11 +8,11 @@ export const charactersScribingSources = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The nearest unfinished tier of a source is the only tier that source reports.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The motifs a source drops are not counted.",
     },
   ],

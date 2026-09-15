@@ -9,7 +9,7 @@ export const findSkillById = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The empty slot sentinel answers with no skill.",
     },
   ],

@@ -8,7 +8,7 @@ export const charactersEventsKnowledge = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quest leaving the journal unfinished is read as nothing learned.",
     },
   ],

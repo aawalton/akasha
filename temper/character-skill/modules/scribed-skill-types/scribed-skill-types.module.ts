@@ -8,7 +8,7 @@ export const scribedSkillTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A scribed skill choice names one grimoire and three scripts.",
     },
   ],

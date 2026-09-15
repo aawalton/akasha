@@ -8,11 +8,11 @@ export const setCategories = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This table is written out from the set category pages rather than by hand.",
     },
     {
-      invariantKind: "upkeep",
+      invariantKind: "invariant-kind/upkeep",
       statement: "The generator writes this table outside akasha.",
     },
   ],

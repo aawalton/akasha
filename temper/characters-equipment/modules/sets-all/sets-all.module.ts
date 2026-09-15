@@ -8,15 +8,15 @@ export const setsAll = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A set's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The no-set sentinel is the first row this table answers.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A set moved to another place breaks every build hash saved.",
     },
   ],

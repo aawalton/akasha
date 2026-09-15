@@ -8,15 +8,15 @@ export const charactersTaskAutoComplete = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A task naming no completion card is marked by hand alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A mark made before the day's reset counts as no mark.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A task scoped to every character is marked once every character has its own mark.",
     },

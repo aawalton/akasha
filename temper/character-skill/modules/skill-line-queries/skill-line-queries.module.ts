@@ -8,11 +8,11 @@ export const skillLineQueries = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A class offers the class lines first while no other slot has a class line.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Five pieces of one armour weight open that weight's line.",
     },
   ],

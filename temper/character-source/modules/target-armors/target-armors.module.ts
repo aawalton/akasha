@@ -8,7 +8,7 @@ export const targetArmors = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This code is written out from the character pages rather than by hand.",
     },
   ],

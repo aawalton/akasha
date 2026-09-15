@@ -9,7 +9,7 @@ export const setSelectHelpers = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The no-set choice is the first choice the picker offers.",
     },
   ],

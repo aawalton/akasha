@@ -8,7 +8,7 @@ export const jewelryEnchants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "upkeep",
+      invariantKind: "invariant-kind/upkeep",
       statement: "The generator writes this table outside akasha.",
     },
   ],

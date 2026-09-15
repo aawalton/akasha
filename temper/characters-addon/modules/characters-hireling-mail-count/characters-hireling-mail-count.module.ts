@@ -8,7 +8,7 @@ export const charactersHirelingMailCount = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tally with yesterday's date counts as nothing looted today.",
     },
   ],

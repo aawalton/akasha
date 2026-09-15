@@ -9,7 +9,7 @@ export const setSource = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A source has the bonuses whose piece count the worn count reaches.",
     },
   ],

@@ -8,7 +8,7 @@ export const charactersPopulatedName = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Which of a stored and a freshly read name wins is settled here.",
     },
   ],

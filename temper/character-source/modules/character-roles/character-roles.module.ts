@@ -8,7 +8,7 @@ export const characterRoles = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This code is written out from the character pages rather than by hand.",
     },
   ],

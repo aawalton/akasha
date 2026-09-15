@@ -8,7 +8,7 @@ export const charactersActiveQuests = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A condition the game gives already has its own count in its text.",
     },
   ],

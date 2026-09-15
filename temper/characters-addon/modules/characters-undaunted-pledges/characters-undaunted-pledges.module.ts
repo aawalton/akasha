@@ -8,7 +8,7 @@ export const charactersUndauntedPledges = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A pledge on a dungeon one player cannot finish alone is not offered.",
     },
   ],

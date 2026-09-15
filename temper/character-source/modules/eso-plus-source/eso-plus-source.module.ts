@@ -8,11 +8,11 @@ export const esoPlusSource = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A ESO Plus row's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A ESO Plus row moved to another place breaks every build hash saved.",
     },
   ],
