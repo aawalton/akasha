@@ -2,7 +2,7 @@ import type { AlanBook } from "akasha/alan/book/alan-book.page-type.types.ts"
 
 export const myStrategy = {
   id: "01a0659d-311d-7004-a337-b765b930236a",
-  type: "alan-book",
+  type: "page-type/alan-book",
   slug: "my-strategy",
   definition: "how Alan improves his life with what he has to spend",
   title: "My Strategy",

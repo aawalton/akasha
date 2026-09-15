@@ -2,7 +2,7 @@ import type { AlanBook } from "akasha/alan/book/alan-book.page-type.types.ts"
 
 export const myProjects = {
   id: "01a076df-326f-755b-bb7b-f72b60d566b1",
-  type: "alan-book",
+  type: "page-type/alan-book",
   slug: "my-projects",
   definition: "the undertakings in Alan's life with scope, a decision, or work left",
   title: "My Projects",

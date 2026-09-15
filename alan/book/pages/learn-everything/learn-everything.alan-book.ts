@@ -2,7 +2,7 @@ import type { AlanBook } from "akasha/alan/book/alan-book.page-type.types.ts"
 
 export const learnEverything = {
   id: "01a0659d-311d-7001-b736-ae7c499c3bf3",
-  type: "alan-book",
+  type: "page-type/alan-book",
   slug: "learn-everything",
   definition: "how far into the whole of knowledge Ali has read, node by node",
   parts: [
