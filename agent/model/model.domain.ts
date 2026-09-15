@@ -11,6 +11,7 @@ export const model = {
     "module/model-answer",
     "module/model-asking",
     "module/model-vocab",
+    "page-type/model-account",
     "page-type/model-family",
     "page-type/model-provider",
     "page-type/model-test",
