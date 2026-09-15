@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const characterBlackwoodExploration = {
   id: "01a06168-7251-701c-b6d9-f8a3e4febd80",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "character-blackwood-exploration",
   title: "Exploration",
   category: "character",

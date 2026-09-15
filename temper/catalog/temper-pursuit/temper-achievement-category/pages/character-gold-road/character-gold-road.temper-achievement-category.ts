@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const characterGoldRoad = {
   id: "01a06168-7251-7015-8ab2-05d8e58d6086",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "character-gold-road",
   title: "Gold Road",
   category: "character",

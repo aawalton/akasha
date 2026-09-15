@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const characterArenasMaelstromArena = {
   id: "01a06168-7251-700e-aa20-645a8e0cfbac",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "character-arenas-maelstrom-arena",
   title: "Maelstrom Arena",
   category: "character",

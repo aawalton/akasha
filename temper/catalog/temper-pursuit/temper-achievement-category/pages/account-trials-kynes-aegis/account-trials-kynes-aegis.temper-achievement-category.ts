@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountTrialsKynesAegis = {
   id: "01a06168-724b-7001-9191-a53f5c73a643",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-trials-kynes-aegis",
   title: "Kyne's Aegis",
   category: "account",

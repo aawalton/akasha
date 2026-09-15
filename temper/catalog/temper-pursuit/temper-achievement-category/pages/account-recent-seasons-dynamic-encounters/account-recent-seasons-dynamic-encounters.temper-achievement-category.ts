@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountRecentSeasonsDynamicEncounters = {
   id: "01a06168-7246-7004-891a-9ac49265eade",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-recent-seasons-dynamic-encounters",
   title: "Dynamic Encounters",
   category: "account",

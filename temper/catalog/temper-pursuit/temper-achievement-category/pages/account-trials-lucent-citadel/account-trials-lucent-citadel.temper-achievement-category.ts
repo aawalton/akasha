@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountTrialsLucentCitadel = {
   id: "01a06168-724b-7002-a724-516e95edac65",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-trials-lucent-citadel",
   title: "Lucent Citadel",
   category: "account",

@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const characterOrsiniumGeneral = {
   id: "01a06168-7252-7016-8a86-fd5236aef167",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "character-orsinium-general",
   title: "General",
   category: "character",

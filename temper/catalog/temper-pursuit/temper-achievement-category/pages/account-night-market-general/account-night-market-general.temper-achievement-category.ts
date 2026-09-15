@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountNightMarketGeneral = {
   id: "01a06168-724c-700c-86c4-b8acab195a20",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-night-market-general",
   title: "General",
   category: "account",

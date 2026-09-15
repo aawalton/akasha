@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountSolsticeExploration = {
   id: "01a06168-724d-700c-9daa-dd025c425d33",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-solstice-exploration",
   title: "Exploration",
   category: "account",

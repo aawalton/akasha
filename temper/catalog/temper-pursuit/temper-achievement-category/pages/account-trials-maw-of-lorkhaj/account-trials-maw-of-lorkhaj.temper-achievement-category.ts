@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountTrialsMawOfLorkhaj = {
   id: "01a06168-724b-7003-afa8-3fcca64bc288",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-trials-maw-of-lorkhaj",
   title: "Maw of Lorkhaj",
   category: "account",

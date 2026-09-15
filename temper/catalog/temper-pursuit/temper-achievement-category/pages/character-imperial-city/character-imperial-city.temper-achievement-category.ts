@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const characterImperialCity = {
   id: "01a06168-7252-7018-bfcc-749b06cb58e9",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "character-imperial-city",
   title: "Imperial City",
   category: "character",

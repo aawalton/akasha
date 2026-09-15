@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const characterGreymoor = {
   id: "01a06168-7251-701d-a386-e8eeec46d8b4",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "character-greymoor",
   title: "Greymoor",
   category: "character",

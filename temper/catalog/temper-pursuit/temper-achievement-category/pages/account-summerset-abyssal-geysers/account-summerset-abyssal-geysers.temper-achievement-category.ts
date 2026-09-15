@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountSummersetAbyssalGeysers = {
   id: "01a06168-724f-700d-b975-f66c2715e13a",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-summerset-abyssal-geysers",
   title: "Abyssal Geysers",
   category: "account",
