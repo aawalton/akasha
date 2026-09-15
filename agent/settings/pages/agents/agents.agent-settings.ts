@@ -2,7 +2,7 @@ import type { AgentSettings } from "akasha/agent/settings/agent-settings.page-ty
 
 export const agents = {
   id: "01a0657b-ad40-75af-a0a6-bb09331fb95c",
-  type: "agent-settings",
+  type: "page-type/agent-settings",
   slug: "agents",
   definition: "what every agent on this workstation is spawned with",
   harnessSettings: "json",

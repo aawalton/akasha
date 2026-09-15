@@ -2,7 +2,7 @@ import type { AgentSettings } from "akasha/agent/settings/agent-settings.page-ty
 
 export const launchFlags = {
   id: "01a0657b-ad40-7216-8ef6-8986aaba140c",
-  type: "agent-settings",
+  type: "page-type/agent-settings",
   slug: "launch-flags",
   definition: "the flags the client is launched with",
   harnessSettings: "json",

@@ -2,7 +2,7 @@ import type { AgentSettings } from "akasha/agent/settings/agent-settings.page-ty
 
 export const toolAccess = {
   id: "01a0657b-ad40-7a30-a01e-7d2c05b081b3",
-  type: "agent-settings",
+  type: "page-type/agent-settings",
   slug: "tool-access",
   definition: "which built-in tools an agent may reach",
   harnessSettings: "json",
