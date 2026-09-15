@@ -77,6 +77,7 @@
 {"propertySlug":"invariant-kind","path":"agent/model/gateway/modules/in-flight/in-flight.module.ts","id":"01a06421-4b72-78c7-b4b7-9bbcf4a60b46"}
 {"propertySlug":"invariant-kind","path":"agent/model/gateway/modules/keepalive/keepalive.module.ts","id":"01a06227-7bc1-7404-94dc-9da2da8daa1c"}
 {"propertySlug":"invariant-kind","path":"agent/model/gateway/modules/message-handler/message-handler.module.ts","id":"01a063af-ee63-7ae8-a74d-3b39fec64b65"}
+{"propertySlug":"invariant-kind","path":"agent/model/gateway/modules/model-body/model-body.module.ts","id":"01a0a596-6b4f-7d38-aa50-16012c107a4a"}
 {"propertySlug":"invariant-kind","path":"agent/model/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts","id":"01a0643b-c946-7c01-9657-1bea04a89d30"}
 {"propertySlug":"invariant-kind","path":"agent/model/gateway/modules/model-unavailable/model-unavailable.module.ts","id":"01a0628c-26f7-71b6-893e-e3d3e34bb01f"}
 {"propertySlug":"invariant-kind","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.ts","id":"01a063af-ee62-7b70-928c-682cd8bb780f"}

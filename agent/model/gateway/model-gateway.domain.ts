@@ -27,6 +27,7 @@ export const modelGateway = {
     "module/in-flight",
     "module/keepalive",
     "module/message-handler",
+    "module/model-body",
     "module/model-unavailable",
     "module/model-unavailable-rebind",
     "module/oauth-effects",
