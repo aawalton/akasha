@@ -17,7 +17,7 @@
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"command/modules/file-arguing/file-arguing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"command/pages/measure/page/modules/page-measuring/page-measuring.module.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"domain/context/warrant/file-domain/file-domain.context-warrant.code.ts"}
-{"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"infrastructure/cluster/manifests/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts"}
+{"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/index/modules/answering/index-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/index/modules/entries/index-entries.module.test-fixtures.ts"}

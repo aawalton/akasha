@@ -3,11 +3,11 @@
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/auth/gotrue/gotrue.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/k8s-web-service/k8s-web-service.module.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifests/app-namespaces-synth/app-namespaces-synth.manifest.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifests/cert-manager-synth/cert-manager-synth.manifest.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifests/cloudnative-pg-synth/cloudnative-pg-synth.manifest.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifests/cluster-reach-synth/cluster-reach-synth.manifest.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifests/metallb-synth/metallb-synth.manifest.code.ts"}
+{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifest/app-namespaces-synth/app-namespaces-synth.manifest.code.ts"}
+{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifest/cert-manager-synth/cert-manager-synth.manifest.code.ts"}
+{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifest/cloudnative-pg-synth/cloudnative-pg-synth.manifest.code.ts"}
+{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifest/cluster-reach-synth/cluster-reach-synth.manifest.code.ts"}
+{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifest/metallb-synth/metallb-synth.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/container-image/buildkit-prune/buildkit-prune.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/container-image/buildkit/buildkit.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/eso-rig/manifests/eso-rig-manifests.manifest.code.ts"}

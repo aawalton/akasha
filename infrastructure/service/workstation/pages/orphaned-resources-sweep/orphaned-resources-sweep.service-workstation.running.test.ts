@@ -3,11 +3,11 @@ import { expect, mock, test } from "bun:test"
 const RAN: string[] = []
 
 const sweeping = await import(
-  "akasha/infrastructure/cluster/manifests/modules/orphan-sweeping/orphan-sweeping.module.code.ts"
+  "akasha/infrastructure/cluster/manifest/modules/orphan-sweeping/orphan-sweeping.module.code.ts"
 )
 
 mock.module(
-  "akasha/infrastructure/cluster/manifests/modules/orphan-sweeping/orphan-sweeping.module.code.ts",
+  "akasha/infrastructure/cluster/manifest/modules/orphan-sweeping/orphan-sweeping.module.code.ts",
   () => ({
     ...sweeping,
     runOrphanSweeping: () => {
@@ -40,7 +40,7 @@ test("a sweep that could not run is carried out rather than swallowed", async ()
   RAN.length = 0
   const why = new Error("the sweep could not run")
   mock.module(
-    "akasha/infrastructure/cluster/manifests/modules/orphan-sweeping/orphan-sweeping.module.code.ts",
+    "akasha/infrastructure/cluster/manifest/modules/orphan-sweeping/orphan-sweeping.module.code.ts",
     () => ({
       ...sweeping,
       runOrphanSweeping: () => Promise.reject(why),

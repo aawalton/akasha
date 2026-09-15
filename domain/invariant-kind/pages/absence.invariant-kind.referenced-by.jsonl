@@ -1286,8 +1286,8 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/api/modules/cluster-fetch/cluster-fetch.module.ts","id":"01a068d4-d2aa-7902-bb36-12d037d7ac6b"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.ts","id":"01a06810-0b68-74a9-bfee-d2c6c7d2f2fc"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.ts","id":"01a07c68-0024-7e4f-88e0-70ee0ed9679b"}
-{"propertySlug":"invariant-kind","path":"infrastructure/cluster/manifests/app-namespaces-synth/app-namespaces-synth.manifest.ts","id":"01a06810-1262-75ee-aa84-9009c06798cf"}
-{"propertySlug":"invariant-kind","path":"infrastructure/cluster/manifests/modules/tunnel-route-discovery/tunnel-route-discovery.module.ts","id":"01a06810-1262-7570-bae6-93d030d82053"}
+{"propertySlug":"invariant-kind","path":"infrastructure/cluster/manifest/app-namespaces-synth/app-namespaces-synth.manifest.ts","id":"01a06810-1262-75ee-aa84-9009c06798cf"}
+{"propertySlug":"invariant-kind","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.ts","id":"01a06810-1262-7570-bae6-93d030d82053"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/provisioning/cluster-provisioning.domain.ts","id":"01a0675b-16d9-7eab-a110-f106ca00dad1"}
 {"propertySlug":"invariant-kind","path":"infrastructure/container-image/dockerfile/modules/extensions/dockerfile-extensions.module.ts","id":"01a06865-abff-7002-982c-70fcb1c90980"}
 {"propertySlug":"invariant-kind","path":"infrastructure/container-image/modules/image-build/image-build.module.ts","id":"01a08de8-a521-7517-beff-3c12047e76f9"}

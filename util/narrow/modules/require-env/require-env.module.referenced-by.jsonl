@@ -31,7 +31,7 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/sms/send/sms-send.command.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.code.ts"}
-{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/cluster/manifests/modules/orphan-resource-listing/orphan-resource-listing.module.code.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-resource-listing/orphan-resource-listing.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/cluster/provisioning/talos/modules/registry-ca/registry-ca.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/network/auth-proxy/modules/config/auth-proxy-config.module.code.ts"}

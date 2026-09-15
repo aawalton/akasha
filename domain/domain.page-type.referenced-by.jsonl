@@ -361,7 +361,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/k8s-synth/k8s-synth.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/k8s-type/k8s-type.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.types.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/manifests/cluster-manifests.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/manifest/cluster-manifest.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/operation/cluster-operation.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/provisioning/bootstrap-layer/bootstrap-layer.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/provisioning/cluster-provisioning.domain.ts"}

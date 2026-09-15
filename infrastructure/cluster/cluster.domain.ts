@@ -7,7 +7,7 @@ export const cluster = {
   definition: "the Kubernetes cluster the system's services run on",
   parts: [
     "domain/cluster-api",
-    "domain/cluster-manifests",
+    "domain/cluster-manifest",
     "domain/cluster-operation",
     "domain/cluster-provisioning",
     "domain/k8s-synth",

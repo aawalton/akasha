@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/cluster/manifests/metallb-synth/metallb-synth.manifest.code.ts"}
+{"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/cluster/manifest/metallb-synth/metallb-synth.manifest.code.ts"}
 {"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/network/modules/headscale-constants/headscale-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.code.ts"}
 {"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/seaweedfs/modules/constants/seaweedfs-constants.module.code.ts"}

@@ -15,7 +15,7 @@
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"command/modules/editor-state-landing/editor-state-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"command/modules/install-linking/install-linking.module.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
-{"propertySlug":"import","fileName":"property-file.module.code.ts","path":"infrastructure/cluster/manifests/modules/tunnel-config/tunnel-config.module.code.ts"}
+{"propertySlug":"import","fileName":"property-file.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-config/tunnel-config.module.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"infrastructure/cluster/operation/bootstrap-namespace/bootstrap-namespace.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"infrastructure/cluster/operation/create-tunnel/create-tunnel.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"infrastructure/cluster/operation/deploy-functions/deploy-functions.shell-script.scripting.code.ts"}
