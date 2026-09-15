@@ -2,7 +2,7 @@ import type { WorldBoon } from "akasha/story/world-mechanic/world-boon/world-boo
 
 export const commonfolkSBlessingMinorAFingerSDiscount = {
   id: "01a0655a-0687-7e01-b216-956ad9782dab",
-  type: "world-boon",
+  type: "page-type/world-boon",
   slug: "commonfolk-s-blessing-minor-a-finger-s-discount",
   title: "Commonfolk’s Blessing (Minor) — A Finger’s Discount",
   world: "world/the-wandering-inn",

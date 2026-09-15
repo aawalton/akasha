@@ -2,7 +2,7 @@ import type { WorldBoon } from "akasha/story/world-mechanic/world-boon/world-boo
 
 export const blessingOfFecundity = {
   id: "01a0655a-0687-7757-a896-3f156d62266c",
-  type: "world-boon",
+  type: "page-type/world-boon",
   slug: "blessing-of-fecundity",
   title: "Blessing of Fecundity",
   world: "world/the-wandering-inn",
