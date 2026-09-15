@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0385425AMomentBetween = {
   id: "01a06730-4eef-78e5-9e1c-94556bc64434",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0385-425-a-moment-between",
   title: "425 A Moment Between",
   story: "story-read/the-new-world",

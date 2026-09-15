@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0342382AnEarnedIntermission = {
   id: "01a06730-4ed3-72e5-b97c-099dcaf95178",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0342-382-an-earned-intermission",
   title: "382 An Earned Intermission",
   story: "story-read/the-new-world",

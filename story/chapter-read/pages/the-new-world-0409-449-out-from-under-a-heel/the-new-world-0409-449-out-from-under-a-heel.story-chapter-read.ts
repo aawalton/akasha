@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0409449OutFromUnderAHeel = {
   id: "01a06730-4f04-7581-8d08-db396314d184",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0409-449-out-from-under-a-heel",
   title: "449 Out From Under a Heel",
   story: "story-read/the-new-world",

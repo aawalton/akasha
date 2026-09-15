@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0330371AScarredReturn = {
   id: "01a06730-4ed0-77a0-a62c-3bc476e2aba1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0330-371-a-scarred-return",
   title: "371 A Scarred Return",
   story: "story-read/the-new-world",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0312353AHollowRoar = {
   id: "01a06730-4eca-7fe2-9b07-b347a7475506",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0312-353-a-hollow-roar",
   title: "353 A Hollow Roar",
   story: "story-read/the-new-world",

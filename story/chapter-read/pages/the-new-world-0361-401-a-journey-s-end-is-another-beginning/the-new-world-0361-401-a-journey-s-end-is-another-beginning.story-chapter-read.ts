@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0361401AJourneySEndIsAnotherBeginning = {
   id: "01a06730-4ee0-7cfb-9813-ab188715962f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0361-401-a-journey-s-end-is-another-beginning",
   title: "401 A Journey's End Is Another Beginning",
   story: "story-read/the-new-world",

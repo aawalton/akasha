@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0314355ASeaOfRed = {
   id: "01a06730-4ecb-7841-ac68-be56ab2f6f8c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0314-355-a-sea-of-red",
   title: "355 A Sea of Red",
   story: "story-read/the-new-world",

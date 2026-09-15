@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0344384OfAlphaAndOmega = {
   id: "01a06730-4ed4-756c-b5e4-19b1800016f5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0344-384-of-alpha-and-omega",
   title: "384 Of Alpha and Omega",
   story: "story-read/the-new-world",

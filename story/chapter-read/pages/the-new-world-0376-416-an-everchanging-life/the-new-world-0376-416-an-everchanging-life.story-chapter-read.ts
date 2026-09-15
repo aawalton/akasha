@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0376416AnEverchangingLife = {
   id: "01a06730-4ee9-7834-a2d9-01b03810baad",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0376-416-an-everchanging-life",
   title: "416 An Everchanging Life",
   story: "story-read/the-new-world",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0396436ToForgeForAnEmpire = {
   id: "01a06730-4ef7-77d8-820e-f7149150b7fb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0396-436-to-forge-for-an-empire",
   title: "436 To Forge for an Empire",
   story: "story-read/the-new-world",

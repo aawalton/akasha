@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0382422AChaseAcrossCosmos = {
   id: "01a06730-4eed-7d79-b585-eabc1d2eb3a6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0382-422-a-chase-across-cosmos",
   title: "422 A Chase Across Cosmos",
   story: "story-read/the-new-world",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0363403AHatefulHome = {
   id: "01a06730-4ee1-7b2f-9358-ac77e4ac2f86",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0363-403-a-hateful-home",
   title: "403 A Hateful Home",
   story: "story-read/the-new-world",

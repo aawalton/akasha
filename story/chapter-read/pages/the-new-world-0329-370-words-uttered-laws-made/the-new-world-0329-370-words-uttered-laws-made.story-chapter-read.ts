@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0329370WordsUtteredLawsMade = {
   id: "01a06730-4ecf-7138-839c-859c7c4f41ee",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0329-370-words-uttered-laws-made",
   title: "370 Words Uttered, Laws Made",
   story: "story-read/the-new-world",

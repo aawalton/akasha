@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0420460ForgingPaths = {
   id: "01a06730-4f0b-7353-bae4-9beaae1c13a7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0420-460-forging-paths",
   title: "460 Forging Paths",
   story: "story-read/the-new-world",

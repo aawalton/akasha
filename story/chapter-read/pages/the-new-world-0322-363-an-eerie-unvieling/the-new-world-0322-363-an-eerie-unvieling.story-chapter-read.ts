@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0322363AnEerieUnvieling = {
   id: "01a06730-4ece-7fef-b4b1-b72da558558a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0322-363-an-eerie-unvieling",
   title: "363 An Eerie Unvieling",
   story: "story-read/the-new-world",

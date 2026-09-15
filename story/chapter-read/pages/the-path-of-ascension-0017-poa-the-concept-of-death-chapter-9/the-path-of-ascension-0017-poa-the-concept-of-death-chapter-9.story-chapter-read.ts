@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePathOfAscension0017PoaTheConceptOfDeathChapter9 = {
   id: "01a06730-4ff6-7cd6-887b-dde8aabc9f70",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-path-of-ascension-0017-poa-the-concept-of-death-chapter-9",
   title: "PoA The Concept of Death Chapter 9",
   story: "story-read/the-path-of-ascension",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0413453Shatter = {
   id: "01a06730-4f07-7a3e-a6a9-cd24b21a1ed6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0413-453-shatter",
   title: "453 Shatter",
   story: "story-read/the-new-world",

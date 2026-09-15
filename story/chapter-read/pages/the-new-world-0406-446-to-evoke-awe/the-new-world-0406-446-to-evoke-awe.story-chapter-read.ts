@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0406446ToEvokeAwe = {
   id: "01a06730-4f01-71ae-9ff0-5329289c54a2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0406-446-to-evoke-awe",
   title: "446 To Evoke Awe",
   story: "story-read/the-new-world",

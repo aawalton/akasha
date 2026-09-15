@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0403443FindingAPath = {
   id: "01a06730-4eff-7b6c-839b-8cd23dcfb4ed",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0403-443-finding-a-path",
   title: "443 Finding a Path",
   story: "story-read/the-new-world",

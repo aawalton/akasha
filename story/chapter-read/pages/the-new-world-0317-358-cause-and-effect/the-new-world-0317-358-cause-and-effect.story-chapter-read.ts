@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0317358CauseAndEffect = {
   id: "01a06730-4ecc-7129-ac96-55331f69292a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0317-358-cause-and-effect",
   title: "358 Cause and Effect",
   story: "story-read/the-new-world",

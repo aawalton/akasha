@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0346386AShadowReborn = {
   id: "01a06730-4ed6-7ade-aaf1-40a3bb41ba1d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0346-386-a-shadow-reborn",
   title: "386 A Shadow, Reborn",
   story: "story-read/the-new-world",

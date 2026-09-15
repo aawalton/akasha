@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0358398AHollowInvasion = {
   id: "01a06730-4edc-7fe4-84c5-91c9b8bf33d3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0358-398-a-hollow-invasion",
   title: "398 A Hollow Invasion",
   story: "story-read/the-new-world",

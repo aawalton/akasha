@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0323364AnUncannySilence = {
   id: "01a06730-4ece-7fab-9941-3b3206da9ab4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0323-364-an-uncanny-silence",
   title: "364 An Uncanny Silence",
   story: "story-read/the-new-world",

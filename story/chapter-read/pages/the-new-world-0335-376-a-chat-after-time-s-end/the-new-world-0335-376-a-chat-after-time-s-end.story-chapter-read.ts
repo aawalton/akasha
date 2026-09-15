@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0335376AChatAfterTimeSEnd = {
   id: "01a06730-4ed1-7d26-9893-b22bad20c65d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0335-376-a-chat-after-time-s-end",
   title: "376 A Chat After Time's End",
   story: "story-read/the-new-world",

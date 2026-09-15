@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0366406ToWithholdHumanity = {
   id: "01a06730-4ee3-774f-b01a-ca4b4af808dc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0366-406-to-withhold-humanity",
   title: "406 To Withhold Humanity",
   story: "story-read/the-new-world",

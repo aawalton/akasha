@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0412452ToDevoteEverything = {
   id: "01a06730-4f05-730b-b0de-eaa8802a7cb7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0412-452-to-devote-everything",
   title: "452  To Devote Everything",
   story: "story-read/the-new-world",

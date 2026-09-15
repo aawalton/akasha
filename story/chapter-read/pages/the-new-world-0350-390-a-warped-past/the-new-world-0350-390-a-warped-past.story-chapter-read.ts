@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0350390AWarpedPast = {
   id: "01a06730-4ed7-7082-b355-2b2d6340c0b5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0350-390-a-warped-past",
   title: "390 A Warped Past",
   story: "story-read/the-new-world",

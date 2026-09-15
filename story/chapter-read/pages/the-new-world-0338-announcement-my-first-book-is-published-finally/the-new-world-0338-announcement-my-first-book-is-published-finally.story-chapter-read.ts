@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0338AnnouncementMyFirstBookIsPublishedFinally = {
   id: "01a06730-4ed2-77ed-a71d-803d096878f5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0338-announcement-my-first-book-is-published-finally",
   title: "Announcement: My First Book Is Published. Finally.",
   story: "story-read/the-new-world",

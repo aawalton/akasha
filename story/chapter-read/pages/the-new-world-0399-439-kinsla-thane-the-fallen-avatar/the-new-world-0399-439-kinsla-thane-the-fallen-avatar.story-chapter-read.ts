@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0399439KinslaThaneTheFallenAvatar = {
   id: "01a06730-4efa-727c-a57a-f323d0ecec2c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0399-439-kinsla-thane-the-fallen-avatar",
   title: "439 Kinsla Thane, the Fallen Avatar",
   story: "story-read/the-new-world",

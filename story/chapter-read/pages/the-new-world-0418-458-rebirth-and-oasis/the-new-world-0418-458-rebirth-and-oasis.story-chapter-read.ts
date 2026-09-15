@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0418458RebirthAndOasis = {
   id: "01a06730-4f0b-77d2-9835-5fc3f5a9daef",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0418-458-rebirth-and-oasis",
   title: "458 Rebirth and Oasis",
   story: "story-read/the-new-world",

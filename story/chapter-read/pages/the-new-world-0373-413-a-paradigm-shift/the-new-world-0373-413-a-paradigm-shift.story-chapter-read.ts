@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0373413AParadigmShift = {
   id: "01a06730-4ee7-7dda-be0f-42c5a5af7b30",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0373-413-a-paradigm-shift",
   title: "413 A Paradigm Shift",
   story: "story-read/the-new-world",
