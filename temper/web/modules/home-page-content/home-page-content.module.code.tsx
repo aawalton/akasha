@@ -24,16 +24,16 @@ import {
 } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
-import {
-  applyCharacterMetadata,
-  applyCompanionMetadata,
-} from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { useCharacterList } from "akasha/temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { useCompanionList } from "akasha/temper/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { groupInventoryByType } from "akasha/temper/items-core/modules/inventory-grouping/inventory-grouping.module.code.ts"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import {
+  applyCharacterMetadata,
+  applyCompanionMetadata,
+} from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { useCompletionCharacters } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { useInventory } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
 import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"

@@ -528,7 +528,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/build-codec/temper-build-codec.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/build-deploy-check/temper-build-deploy-check.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/build-hash/temper-build-hash.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/build-metadata/temper-build-metadata.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/build-support/temper-build-support.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture-datamining-reader/temper-capture-datamining-reader.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture-datamining/temper-capture-datamining.domain.ts"}

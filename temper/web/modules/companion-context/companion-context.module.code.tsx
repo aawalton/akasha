@@ -1,10 +1,6 @@
 "use client"
 
 import {
-  applyCompanionMetadata,
-  type CompanionBuildMetadata,
-} from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
-import {
   type BuildVisibility,
   toBuildVisibility,
 } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
@@ -16,6 +12,10 @@ import type { CompanionState } from "akasha/temper/companions-core/modules/compa
 import { useCompanion as useCompanionZero } from "akasha/temper/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import {
+  applyCompanionMetadata,
+  type CompanionBuildMetadata,
+} from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import type { CompanionAction } from "akasha/temper/web/modules/companion-actions/companion-actions.module.code.ts"
 import { COMPANION_ACTIONS } from "akasha/temper/web/modules/companion-actions/companion-actions.module.code.ts"
 import {

@@ -9,14 +9,6 @@ import {
   decodeBuild,
   encodeBuild,
 } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
-import type {
-  CharacterBuildMetadata,
-  CompanionBuildMetadata,
-} from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
-import {
-  applyCharacterMetadata,
-  applyCompanionMetadata,
-} from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { toBuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { createEmptyCharacter } from "akasha/temper/character-build/modules/build-factory/build-factory.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
@@ -31,6 +23,14 @@ import {
   buildHash as toBuildHash,
   buildId as toBuildId,
 } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import type {
+  CharacterBuildMetadata,
+  CompanionBuildMetadata,
+} from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
+import {
+  applyCharacterMetadata,
+  applyCompanionMetadata,
+} from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { CharacterEditor } from "akasha/temper/web/modules/character-editor/character-editor.module.code.tsx"
 import { CompanionEditor } from "akasha/temper/web/modules/companion-editor/companion-editor.module.code.tsx"
 import { useEffect } from "react"

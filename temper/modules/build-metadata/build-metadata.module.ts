@@ -6,4 +6,14 @@ export const buildMetadata = {
   slug: "build-metadata",
   definition: "a build's name, description and roles read off its state and put back on it",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A character's metadata and a companion's metadata are read by separate calls.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Metadata put back on a state leaves every other field of that state alone.",
+    },
+  ],
 } as const satisfies Module

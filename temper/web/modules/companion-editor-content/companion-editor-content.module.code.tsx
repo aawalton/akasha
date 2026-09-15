@@ -15,7 +15,6 @@ import {
 } from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { extractCompanionMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { companionUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
 import { encodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
@@ -24,6 +23,7 @@ import {
   useCompanionList,
 } from "akasha/temper/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { extractCompanionMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/modules/use-player/use-player.module.code.ts"
 import { CompanionAutomationPanelCard } from "akasha/temper/web/modules/companion-automation-panel-card/companion-automation-panel-card.module.code.tsx"

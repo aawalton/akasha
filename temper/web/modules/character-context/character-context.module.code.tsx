@@ -5,10 +5,6 @@ import {
   encodeBuild,
 } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import {
-  applyCharacterMetadata,
-  type CharacterBuildMetadata,
-} from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
-import {
   type BuildVisibility,
   type SettableBuildVisibility,
   toBuildVisibility,
@@ -19,6 +15,10 @@ import { useCharacter as useCharacterZero } from "akasha/temper/characters-chara
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import {
+  applyCharacterMetadata,
+  type CharacterBuildMetadata,
+} from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import type { CharacterAction } from "akasha/temper/web/modules/character-actions/character-actions.module.code.ts"
 import { CHARACTER_ACTIONS } from "akasha/temper/web/modules/character-actions/character-actions.module.code.ts"
 import { characterReducer } from "akasha/temper/web/modules/character-reducer/character-reducer.module.code.ts"

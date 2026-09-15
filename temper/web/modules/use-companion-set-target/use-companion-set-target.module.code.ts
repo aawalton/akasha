@@ -1,9 +1,5 @@
 "use client"
 
-import {
-  applyCompanionMetadata,
-  extractCompanionMetadata,
-} from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { confirmingTarget } from "akasha/temper/build-support/modules/confirm-set-target/confirm-set-target.module.code.ts"
 import {
   decodeCompanion,
@@ -17,6 +13,10 @@ import {
   useCompanionList,
 } from "akasha/temper/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import {
+  applyCompanionMetadata,
+  extractCompanionMetadata,
+} from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/modules/use-player/use-player.module.code.ts"
 import type { SetTargetEntity } from "akasha/temper/web/modules/set-target-dialog/set-target-dialog.module.code.tsx"

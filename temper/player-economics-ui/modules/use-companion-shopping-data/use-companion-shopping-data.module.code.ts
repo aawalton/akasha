@@ -1,6 +1,5 @@
 "use client"
 
-import { applyCompanionMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
@@ -14,6 +13,7 @@ import {
   type CompanionGearNeed,
   computeAllGearNeeds,
 } from "akasha/temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
+import { applyCompanionMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import {
   type BlendedPriceKey,

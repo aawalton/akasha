@@ -4,7 +4,6 @@ import { createPage } from "akasha/page/access/modules/create/create.module.code
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
-import { extractCharacterMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { classes } from "akasha/temper/character-class/modules/character-class/character-class.module.code.ts"
 import { races } from "akasha/temper/character-race/modules/races/races.module.code.ts"
 import type {
@@ -13,6 +12,7 @@ import type {
   EsoCharacterId,
 } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { extractCharacterMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 export type ImportCharacterResult =
   | { buildId: BuildId; buildName: string }
   | { error: "not-authenticated" }

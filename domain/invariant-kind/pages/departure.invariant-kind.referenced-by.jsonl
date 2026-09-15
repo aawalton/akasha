@@ -3246,7 +3246,6 @@
 {"propertySlug":"invariant-kind","path":"temper/build-deploy-check/temper-build-deploy-check.domain.ts","id":"01a06287-7841-7e04-b566-2bb1b434877d"}
 {"propertySlug":"invariant-kind","path":"temper/build-hash/temper-build-hash.domain.ts","id":"01a062c4-7811-7457-9a0e-87d4906e32a4"}
 {"propertySlug":"invariant-kind","path":"temper/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.ts","id":"01a08ed5-cc31-7873-bde1-0132ef1d98b5"}
-{"propertySlug":"invariant-kind","path":"temper/build-metadata/temper-build-metadata.domain.ts","id":"01a061c0-88d8-71f3-9d1b-7474ad4a82e1"}
 {"propertySlug":"invariant-kind","path":"temper/build-support/modules/automation-settings/automation-settings.module.ts","id":"01a0609f-53f9-741e-ad0d-f6c482c8057e"}
 {"propertySlug":"invariant-kind","path":"temper/build-support/modules/build-row/build-row.module.ts","id":"01a08e40-dcf5-7caf-be8f-9ac9935fa409"}
 {"propertySlug":"invariant-kind","path":"temper/build-support/modules/build-url/build-url.module.ts","id":"01a0609f-53f9-74de-9c4c-1475434e5482"}
@@ -4726,6 +4725,7 @@
 {"propertySlug":"invariant-kind","path":"temper/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.ts","id":"01a06059-2493-7f9b-a205-1e78ff949f76"}
 {"propertySlug":"invariant-kind","path":"temper/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}
 {"propertySlug":"invariant-kind","path":"temper/modules/addon-init/addon-init.module.ts","id":"01a060ae-335f-75cf-867a-8b88bb3db05e"}
+{"propertySlug":"invariant-kind","path":"temper/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
 {"propertySlug":"invariant-kind","path":"temper/modules/unpack-color/unpack-color.module.ts","id":"01a090aa-4938-7f89-a924-2a3c86c77dd2"}
 {"propertySlug":"invariant-kind","path":"temper/narrow/modules/is-table/is-table.module.ts","id":"01a08e01-6b05-7023-a79d-f39cedee5996"}
 {"propertySlug":"invariant-kind","path":"temper/narrow/modules/parse-lua-capture/parse-lua-capture.module.ts","id":"01a08e0c-2af7-7ac7-841c-ccaa3d4ee31b"}
