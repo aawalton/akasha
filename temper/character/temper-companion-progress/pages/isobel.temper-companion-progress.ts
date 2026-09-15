@@ -2,7 +2,7 @@ import type { TemperCompanionProgress } from "akasha/temper/character/temper-com
 
 export const isobel = {
   id: "019dda20-e99a-79f8-8c45-d23fbc988e71",
-  type: "temper-companion-progress",
+  type: "page-type/temper-companion-progress",
   slug: "isobel",
   title: "Isobel Veloise",
   companionId: "isobel",
