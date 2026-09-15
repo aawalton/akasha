@@ -4,7 +4,7 @@ export const companionOptimizer = {
   id: "01a06152-c2cd-7817-8e93-a08a7fd88008",
   type: "module",
   slug: "companion-optimizer",
-  definition: "recursive phase search for the highest scoring companion build",
+  definition: "scores a companion build by summing the metrics the build's roles are judged on",
   code: "ts",
   invariants: [
     {
@@ -18,10 +18,6 @@ export const companionOptimizer = {
     {
       invariantKind: "invariant-kind/constraint",
       statement: "A build with no matching role metric evaluates to zero.",
-    },
-    {
-      invariantKind: "invariant-kind/gap",
-      statement: "The quickened trait forces a sweep over every possible slot count.",
     },
   ],
 } as const satisfies Module
