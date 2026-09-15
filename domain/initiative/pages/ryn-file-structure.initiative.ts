@@ -13,7 +13,7 @@ export const rynFileStructure = {
     {
       statement: "No domain or page type slug is plural.",
       workingMemory:
-        "Alan narrowed this intent to the pages that own a structural folder. The 1513 module slugs ending in a plural `s` stay as they are. 85 domain slugs and 6 page-type slugs end that way. Some of those read as singular already and stay: mathematics, talos, seaweedfs, util-fs, great-courses, visual-arts, book-series, ki-book-series, world-species. Renaming a domain renames the folder that domain names, so this intent and the folder one land in one motion.\n",
+        "Alan narrowed this to the pages that own a structural folder; the 1513 module slugs ending in `s` stay. These read as singular already and stay: mathematics, talos, seaweedfs, util-fs, great-courses, visual-arts, book-series, ki-book-series, world-species, temper-holdings. Renaming a domain renames its folder, so this intent and the folder one land in one motion. Only cluster-manifests is left, and moving its folder respells a path inside a recorded model-test case.\n",
     },
     {
       statement:
@@ -30,5 +30,6 @@ export const rynFileStructure = {
     "A part edge is measured over every page whose page type extends domain, not over domain pages alone.",
     "A page type whose one page holds many of a thing keeps that plural in its slug.",
     "A proper name a plural is part of is left as it is spelled outside akasha.",
+    "A plural naming one whole is a collective acting as a singular, because dropping the `s` names something else.",
   ],
 } as const satisfies Initiative
