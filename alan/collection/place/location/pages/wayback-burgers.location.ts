@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const waybackBurgers = {
   id: "019f1aec-0cd9-71a3-b75b-fdc34b9a0717",
-  type: "location",
+  type: "page-type/location",
   slug: "wayback-burgers",
   title: "Wayback Burgers",
   latitude: 53.3215951,

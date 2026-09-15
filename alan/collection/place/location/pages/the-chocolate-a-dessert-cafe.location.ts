@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theChocolateADessertCafe = {
   id: "019f1aec-1006-7d04-9d2c-ec94a809e286",
-  type: "location",
+  type: "page-type/location",
   slug: "the-chocolate-a-dessert-cafe",
   title: "THE CHOCOLATE a dessert cafe",
   address: "212 S State St, Orem, UT 84058, United States",

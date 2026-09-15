@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theDodoRestaurant = {
   id: "019f1aec-0ce6-7051-ba54-fdd956e87788",
-  type: "location",
+  type: "page-type/location",
   slug: "the-dodo-restaurant",
   title: "The Dodo Restaurant",
   latitude: 40.7261685,

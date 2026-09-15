@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const walmart = {
   id: "019f1b49-52c4-729a-8bab-bec7f46cb7a3",
-  type: "location",
+  type: "page-type/location",
   slug: "walmart",
   title: "Walmart",
   latitude: 21.3076625,

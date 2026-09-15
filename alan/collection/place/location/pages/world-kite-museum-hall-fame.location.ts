@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const worldKiteMuseumHallFame = {
   id: "019f1b49-50e3-7cfd-bf6a-3fff9c6e8314",
-  type: "location",
+  type: "page-type/location",
   slug: "world-kite-museum-hall-fame",
   title: "World Kite Museum & Hall-Fame",
   latitude: 31.984532,

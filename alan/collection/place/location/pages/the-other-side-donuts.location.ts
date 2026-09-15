@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theOtherSideDonuts = {
   id: "019f1aec-0d03-7b5b-bf47-82e516d8e5d1",
-  type: "location",
+  type: "page-type/location",
   slug: "the-other-side-donuts",
   title: "The Other Side Donuts",
   latitude: 40.7528667,

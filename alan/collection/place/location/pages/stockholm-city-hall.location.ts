@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const stockholmCityHall = {
   id: "019f1aec-0e10-7d97-96a1-cff0668220b8",
-  type: "location",
+  type: "page-type/location",
   slug: "stockholm-city-hall",
   title: "Stockholm City Hall",
   latitude: 59.3274942,

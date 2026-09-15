@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const universalStudioTour = {
   id: "019f1b49-5791-7f60-9ca8-0bf9d27c95de",
-  type: "location",
+  type: "page-type/location",
   slug: "universal-studio-tour",
   title: "Universal Studio Tour",
   latitude: 32.496321,

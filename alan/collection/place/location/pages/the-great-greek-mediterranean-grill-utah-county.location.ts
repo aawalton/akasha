@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theGreatGreekMediterraneanGrillUtahCounty = {
   id: "019f322c-9bbd-7b4c-a017-9ab0cd2424d4",
-  type: "location",
+  type: "page-type/location",
   slug: "the-great-greek-mediterranean-grill-utah-county",
   title: "The Great Greek Mediterranean Grill (Utah County)",
   address: "Utah County, UT",

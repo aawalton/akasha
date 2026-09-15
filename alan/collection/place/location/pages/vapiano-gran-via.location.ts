@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const vapianoGranVia = {
   id: "019f1aec-0e66-78b9-aeee-d979aeb2b8bc",
-  type: "location",
+  type: "page-type/location",
   slug: "vapiano-gran-via",
   title: "Vapiano Gran Via",
   latitude: 41.388689,

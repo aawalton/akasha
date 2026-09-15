@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const wendysSaratogaSprings = {
   id: "019f322c-9c7e-7967-a39b-b170d036dd98",
-  type: "location",
+  type: "page-type/location",
   slug: "wendys-saratoga-springs",
   title: "Wendy's (Saratoga Springs)",
   address: "Saratoga Springs, UT",

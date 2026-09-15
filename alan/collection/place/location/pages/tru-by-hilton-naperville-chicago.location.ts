@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const truByHiltonNapervilleChicago = {
   id: "019f1b49-54af-7e51-ab33-dee7b4270d1c",
-  type: "location",
+  type: "page-type/location",
   slug: "tru-by-hilton-naperville-chicago",
   title: "Tru by Hilton Naperville Chicago",
   latitude: 43.062366,

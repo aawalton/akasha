@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const vetreriaArtisticaRenoSchiavonSRL = {
   id: "019f1b49-550c-734f-9431-ef96c93cf8a8",
-  type: "location",
+  type: "page-type/location",
   slug: "vetreria-artistica-reno-schiavon-s-r-l",
   title: "Vetreria Artistica Reno Schiavon S.r.l.",
   latitude: 45.452774,

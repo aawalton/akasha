@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const thaiTimeOfProvo = {
   id: "019f1b49-5164-7f61-bdfb-16f86644f162",
-  type: "location",
+  type: "page-type/location",
   slug: "thai-time-of-provo",
   title: "Thai Time of Provo",
   latitude: 40.2392815,

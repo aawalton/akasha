@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const teriyakiGrillParkCity = {
   id: "019f1b49-5712-76c0-8211-1b961265f96b",
-  type: "location",
+  type: "page-type/location",
   slug: "teriyaki-grill-park-city",
   title: "Teriyaki Grill - Park City",
   latitude: 40.6541625,

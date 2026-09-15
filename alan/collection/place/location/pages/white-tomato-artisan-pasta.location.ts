@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const whiteTomatoArtisanPasta = {
   id: "019f1b49-518e-75bc-bac0-18ec91a36158",
-  type: "location",
+  type: "page-type/location",
   slug: "white-tomato-artisan-pasta",
   title: "White Tomato Artisan Pasta",
   latitude: 41.014714,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const treviFountain = {
   id: "019f1aec-0db8-7dcb-9721-cbf2421a9baf",
-  type: "location",
+  type: "page-type/location",
   slug: "trevi-fountain",
   title: "Trevi Fountain",
   latitude: 41.9009778,

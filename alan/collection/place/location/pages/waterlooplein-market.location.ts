@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const waterloopleinMarket = {
   id: "019f1aec-0e41-79a4-a943-a2c1e5c71197",
-  type: "location",
+  type: "page-type/location",
   slug: "waterlooplein-market",
   title: "Waterlooplein Market",
   latitude: 52.368622,

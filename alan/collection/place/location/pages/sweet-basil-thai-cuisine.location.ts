@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const sweetBasilThaiCuisine = {
   id: "019f1b49-5653-7b57-b1c6-4e7d1e072ede",
-  type: "location",
+  type: "page-type/location",
   slug: "sweet-basil-thai-cuisine",
   title: "Sweet Basil Thai Cuisine",
   latitude: 37.6544432,

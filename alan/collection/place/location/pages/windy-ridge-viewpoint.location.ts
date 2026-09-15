@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const windyRidgeViewpoint = {
   id: "019f1aec-0c96-78d9-9630-27609073182e",
-  type: "location",
+  type: "page-type/location",
   slug: "windy-ridge-viewpoint",
   title: "Windy Ridge Viewpoint",
   latitude: 46.2497551,

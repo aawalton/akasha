@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theRuthUtahCounty = {
   id: "019f322c-9bf2-7aad-a3cd-859ed07cc6ea",
-  type: "location",
+  type: "page-type/location",
   slug: "the-ruth-utah-county",
   title: "The Ruth (Utah County)",
   address: "Utah County, UT",

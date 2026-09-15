@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const tommysBurgersUtahCounty = {
   id: "019f322c-9c2f-7f97-98e4-880f4d18b233",
-  type: "location",
+  type: "page-type/location",
   slug: "tommys-burgers-utah-county",
   title: "Tommy's Burgers (Utah County)",
   address: "Utah County, UT",

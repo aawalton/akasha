@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theTacoStand05d4 = {
   id: "019f1aec-0e5a-7e35-a820-93f7f71d05d4",
-  type: "location",
+  type: "page-type/location",
   slug: "the-taco-stand-05d4",
   title: "The Taco Stand",
   address: "3000 Upas St #105, San Diego, CA 92104, United States",

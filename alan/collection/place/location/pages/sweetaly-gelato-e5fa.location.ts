@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const sweetalyGelatoE5fa = {
   id: "019f1aec-0ef2-73c8-8546-13ddc374e5fa",
-  type: "location",
+  type: "page-type/location",
   slug: "sweetaly-gelato-e5fa",
   title: "Sweetaly Gelato",
   address: "2245 E Murray Holladay Rd, Salt Lake City, UT 84117, United States",

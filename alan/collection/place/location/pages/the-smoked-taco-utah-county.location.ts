@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theSmokedTacoUtahCounty = {
   id: "019f322c-9bf7-769b-86d8-e8a1a5efac19",
-  type: "location",
+  type: "page-type/location",
   slug: "the-smoked-taco-utah-county",
   title: "The Smoked Taco (Utah County)",
   address: "Utah County, UT",

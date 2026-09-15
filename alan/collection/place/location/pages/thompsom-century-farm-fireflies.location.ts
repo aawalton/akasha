@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const thompsomCenturyFarmFireflies = {
   id: "019f1b49-5180-7e05-ac74-9344d52f71ad",
-  type: "location",
+  type: "page-type/location",
   slug: "thompsom-century-farm-fireflies",
   title: "Thompsom Century Farm Fireflies",
   latitude: 36.986473,

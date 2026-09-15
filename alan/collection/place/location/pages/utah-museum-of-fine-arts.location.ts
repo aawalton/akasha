@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const utahMuseumOfFineArts = {
   id: "019f1aec-0cc7-7553-8e50-cf23cbccaf0a",
-  type: "location",
+  type: "page-type/location",
   slug: "utah-museum-of-fine-arts",
   title: "Utah Museum of Fine Arts",
   latitude: 40.760243,

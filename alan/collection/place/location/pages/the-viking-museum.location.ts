@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theVikingMuseum = {
   id: "019f1aec-0e08-7434-abb8-d34dff40d026",
-  type: "location",
+  type: "page-type/location",
   slug: "the-viking-museum",
   title: "The Viking Museum",
   latitude: 59.3265806,

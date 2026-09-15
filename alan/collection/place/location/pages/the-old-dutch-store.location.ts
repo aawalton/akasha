@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theOldDutchStore = {
   id: "019f1b49-573f-7c85-87fb-239fa439a266",
-  type: "location",
+  type: "page-type/location",
   slug: "the-old-dutch-store",
   title: "The Old Dutch Store",
   latitude: 40.71313,

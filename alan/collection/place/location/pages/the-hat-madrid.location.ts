@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theHatMadrid = {
   id: "019f1aec-0d70-75dc-b8e3-b7c346442ccd",
-  type: "location",
+  type: "page-type/location",
   slug: "the-hat-madrid",
   title: "The Hat Madrid",
   latitude: 40.4145221,

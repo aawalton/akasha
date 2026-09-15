@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const windSeaRestaurant = {
   id: "019f1b49-5582-7a47-873c-39e8f3e6fd74",
-  type: "location",
+  type: "page-type/location",
   slug: "wind-sea-restaurant",
   title: "Wind & Sea Restaurant",
   latitude: 32.519783,

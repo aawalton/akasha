@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const wallabysUtahCounty = {
   id: "019f322c-9c63-711b-acd1-f795cc00d971",
-  type: "location",
+  type: "page-type/location",
   slug: "wallabys-utah-county",
   title: "Wallaby's (Utah County)",
   address: "Utah County, UT",

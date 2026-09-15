@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theUnlockablesAPuzzleEscapeExperience = {
   id: "019f1b49-558d-75ef-b464-02b625258bf8",
-  type: "location",
+  type: "page-type/location",
   slug: "the-unlockables-a-puzzle-escape-experience",
   title: "The Unlockables: A Puzzle Escape Experience",
   latitude: 32.519783,

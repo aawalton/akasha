@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theHagueNetherlandsTemple = {
   id: "019f1b49-552d-74ea-a55c-5b9827453f7f",
-  type: "location",
+  type: "page-type/location",
   slug: "the-hague-netherlands-temple",
   title: "The Hague Netherlands Temple",
   latitude: 52.0799838,

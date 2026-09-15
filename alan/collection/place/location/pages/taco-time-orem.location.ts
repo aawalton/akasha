@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const tacoTimeOrem = {
   id: "019f322c-9b9f-7eb3-8937-4b2a6384b26f",
-  type: "location",
+  type: "page-type/location",
   slug: "taco-time-orem",
   title: "Taco Time (Orem)",
   address: "Orem, UT",

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theSouthernSteakOyster = {
   id: "019f1aec-0de5-7384-86db-bb6bb6bd794a",
-  type: "location",
+  type: "page-type/location",
   slug: "the-southern-steak-oyster",
   title: "The Southern Steak & Oyster",
   latitude: 36.1297604,

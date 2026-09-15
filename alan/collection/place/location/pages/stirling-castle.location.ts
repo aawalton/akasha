@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const stirlingCastle = {
   id: "019f1aec-0e8a-7fa5-b729-a13ec4c9eed9",
-  type: "location",
+  type: "page-type/location",
   slug: "stirling-castle",
   title: "Stirling Castle",
   latitude: 56.1240308,

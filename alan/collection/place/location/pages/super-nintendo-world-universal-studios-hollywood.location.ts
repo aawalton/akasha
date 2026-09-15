@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const superNintendoWorldUniversalStudiosHollywood = {
   id: "019f1aec-0f61-7197-ba19-1d2f6debc6b6",
-  type: "location",
+  type: "page-type/location",
   slug: "super-nintendo-world-universal-studios-hollywood",
   title: "Super Nintendo World @Universal Studios Hollywood",
   latitude: 34.1410366,

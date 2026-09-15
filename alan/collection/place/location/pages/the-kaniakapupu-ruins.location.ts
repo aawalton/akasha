@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theKaniakapupuRuins = {
   id: "019f1b49-52ac-70aa-8336-844834a52e38",
-  type: "location",
+  type: "page-type/location",
   slug: "the-kaniakapupu-ruins",
   title: "The Kaniakapupu Ruins",
   latitude: 21.3507551,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const tuacahnCenterForTheArts = {
   id: "019f1b49-55f3-7162-96d6-1dbe01c5f3c7",
-  type: "location",
+  type: "page-type/location",
   slug: "tuacahn-center-for-the-arts",
   title: "Tuacahn Center for the Arts",
   latitude: 37.1903374,

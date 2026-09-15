@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const taqueriaLosChachalacos = {
   id: "019f1aec-0d4a-7197-b607-0ef38a97adea",
-  type: "location",
+  type: "page-type/location",
   slug: "taqueria-los-chachalacos",
   title: "Taqueria Los Chachalacos",
   latitude: 21.13022,

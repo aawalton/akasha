@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const waltonCove = {
   id: "019f1aec-0f05-7c98-84aa-9a8838ed2aa8",
-  type: "location",
+  type: "page-type/location",
   slug: "walton-cove",
   title: "Walton Cove",
   latitude: 42.2562791,

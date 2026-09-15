@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const woodmansFoodMarket = {
   id: "019f1aec-0f6c-7ccb-80ee-ea4cf137b801",
-  type: "location",
+  type: "page-type/location",
   slug: "woodmans-food-market",
   title: "Woodman's Food Market",
   latitude: 43.048945,

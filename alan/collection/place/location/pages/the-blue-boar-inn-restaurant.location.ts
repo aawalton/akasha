@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theBlueBoarInnRestaurant = {
   id: "019f1b49-5131-7580-b02b-06f079c054eb",
-  type: "location",
+  type: "page-type/location",
   slug: "the-blue-boar-inn-restaurant",
   title: "The Blue Boar Inn & Restaurant",
   latitude: 29.78642,

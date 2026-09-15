@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const taylorAndrewsAcademyProvo = {
   id: "019f322c-9baf-7d66-810c-544d85a83665",
-  type: "location",
+  type: "page-type/location",
   slug: "taylor-andrews-academy-provo",
   title: "Taylor Andrews Academy (Provo)",
   address: "Provo, UT",

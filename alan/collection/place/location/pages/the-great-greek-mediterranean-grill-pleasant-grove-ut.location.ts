@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theGreatGreekMediterraneanGrillPleasantGroveUt = {
   id: "019f1b49-549a-76c5-aac8-fbd910003fc6",
-  type: "location",
+  type: "page-type/location",
   slug: "the-great-greek-mediterranean-grill-pleasant-grove-ut",
   title: "The Great Greek Mediterranean Grill - Pleasant Grove , UT",
   latitude: 28.3025881,

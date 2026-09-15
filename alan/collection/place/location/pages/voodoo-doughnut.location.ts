@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const voodooDoughnut = {
   id: "019f1aec-0fb9-79da-8df6-fec6dab222ae",
-  type: "location",
+  type: "page-type/location",
   slug: "voodoo-doughnut",
   title: "Voodoo Doughnut",
   address: "6000 Universal Blvd, Orlando, FL 32819, United States",

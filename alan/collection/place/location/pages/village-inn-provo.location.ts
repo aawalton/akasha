@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const villageInnProvo = {
   id: "019f322c-9c5a-755d-ac95-e95eef275dbb",
-  type: "location",
+  type: "page-type/location",
   slug: "village-inn-provo",
   title: "Village Inn (Provo)",
   address: "Provo, UT",

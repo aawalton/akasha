@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const streetsideTacos = {
   id: "019f1b49-50aa-731c-8f4b-8906b8181734",
-  type: "location",
+  type: "page-type/location",
   slug: "streetside-tacos",
   title: "Streetside Tacos",
   latitude: 38.927065,

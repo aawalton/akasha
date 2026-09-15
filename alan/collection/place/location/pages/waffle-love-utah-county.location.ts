@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const waffleLoveUtahCounty = {
   id: "019f322c-9c60-71b3-b488-07ee14aab066",
-  type: "location",
+  type: "page-type/location",
   slug: "waffle-love-utah-county",
   title: "Waffle Love (Utah County)",
   address: "Utah County, UT",

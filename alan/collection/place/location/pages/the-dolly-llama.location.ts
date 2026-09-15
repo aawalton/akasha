@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theDollyLlama = {
   id: "019f1b49-549b-7fa4-a632-f543dffc1009",
-  type: "location",
+  type: "page-type/location",
   slug: "the-dolly-llama",
   title: "The Dolly Llama",
   latitude: 32.799965,

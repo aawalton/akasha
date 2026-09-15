@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const veniceBeach = {
   id: "019f1aec-0f03-745d-a0e5-ef57f99da9a9",
-  type: "location",
+  type: "page-type/location",
   slug: "venice-beach",
   title: "Venice Beach",
   latitude: 27.0999943,

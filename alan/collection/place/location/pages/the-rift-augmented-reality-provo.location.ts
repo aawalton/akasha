@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theRiftAugmentedRealityProvo = {
   id: "019f322c-9bea-7e5b-a492-995e29254c87",
-  type: "location",
+  type: "page-type/location",
   slug: "the-rift-augmented-reality-provo",
   title: "The Rift Augmented Reality (Provo)",
   address: "Provo, UT",

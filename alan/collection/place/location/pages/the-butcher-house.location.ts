@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theButcherHouse = {
   id: "019f1aec-0dbd-7b46-8808-3aca77418b99",
-  type: "location",
+  type: "page-type/location",
   slug: "the-butcher-house",
   title: "The Butcher House",
   latitude: 41.9717404,

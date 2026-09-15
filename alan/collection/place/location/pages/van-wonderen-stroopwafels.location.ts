@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const vanWonderenStroopwafels = {
   id: "019f1aec-0e27-7ad2-b0e5-365d50bd3e7f",
-  type: "location",
+  type: "page-type/location",
   slug: "van-wonderen-stroopwafels",
   title: "van Wonderen Stroopwafels",
   latitude: 52.3721655,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theBayou = {
   id: "019f1aec-0cc6-71fd-8aef-6622006b7170",
-  type: "location",
+  type: "page-type/location",
   slug: "the-bayou",
   title: "The Bayou",
   latitude: 43.92219,

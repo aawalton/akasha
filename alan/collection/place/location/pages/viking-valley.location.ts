@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const vikingValley = {
   id: "019f1aec-0ee7-76af-bad9-33fc5899028d",
-  type: "location",
+  type: "page-type/location",
   slug: "viking-valley",
   title: "Viking Valley",
   latitude: 60.8792298,

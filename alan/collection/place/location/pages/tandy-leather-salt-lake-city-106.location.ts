@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const tandyLeatherSaltLakeCity106 = {
   id: "019f1b49-512d-7e31-955e-c7e3b1555111",
-  type: "location",
+  type: "page-type/location",
   slug: "tandy-leather-salt-lake-city-106",
   title: "Tandy Leather Salt Lake City - 106",
   latitude: 38.8971643,

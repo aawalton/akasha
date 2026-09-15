@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const tandoorIndianGrillUtahCounty = {
   id: "019f322c-9ba6-7660-9dd5-947ac2160779",
-  type: "location",
+  type: "page-type/location",
   slug: "tandoor-indian-grill-utah-county",
   title: "Tandoor Indian Grill (Utah County)",
   address: "Utah County, UT",

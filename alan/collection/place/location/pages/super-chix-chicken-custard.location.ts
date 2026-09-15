@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const superChixChickenCustard = {
   id: "019f1aec-0f7d-722c-8cde-b2f40dd47f0a",
-  type: "location",
+  type: "page-type/location",
   slug: "super-chix-chicken-custard",
   title: "Super Chix - Chicken & Custard",
   address: "422 W Rivers Edge Dr, Provo, UT 84604, United States",

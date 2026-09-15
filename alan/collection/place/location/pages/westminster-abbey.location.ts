@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const westminsterAbbey = {
   id: "019f1aec-0e80-7fcc-b52c-edc63424eb44",
-  type: "location",
+  type: "page-type/location",
   slug: "westminster-abbey",
   title: "Westminster Abbey",
   latitude: 51.499399,

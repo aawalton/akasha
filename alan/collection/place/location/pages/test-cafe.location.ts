@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const testCafe = {
   id: "019f1590-99b1-7afd-8738-e3203ca33e18",
-  type: "location",
+  type: "page-type/location",
   slug: "test-cafe",
   title: "Test Cafe",
   address: "123 Test St",

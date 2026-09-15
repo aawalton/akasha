@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const tram28 = {
   id: "019f1b49-56ca-7a71-8fa8-2982aa5d6513",
-  type: "location",
+  type: "page-type/location",
   slug: "tram-28",
   title: "Tram 28",
   latitude: 38.7057545,

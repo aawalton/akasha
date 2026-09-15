@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const thePicklrBluffdale = {
   id: "019f322c-9bc4-790a-a94d-db174cdd803f",
-  type: "location",
+  type: "page-type/location",
   slug: "the-picklr-bluffdale",
   title: "The Picklr (Bluffdale)",
   address: "Bluffdale, UT",

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const stortorget = {
   id: "019f1aec-0e0a-7c3c-b93e-3985b75f05d7",
-  type: "location",
+  type: "page-type/location",
   slug: "stortorget",
   title: "Stortorget",
   latitude: 59.3249967,

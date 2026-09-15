@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const taylorAndrewsAcademyWestJordan = {
   id: "019f322c-9bb2-7de6-87bf-996a4b945a97",
-  type: "location",
+  type: "page-type/location",
   slug: "taylor-andrews-academy-west-jordan",
   title: "Taylor Andrews Academy (West Jordan)",
   address: "West Jordan, UT",

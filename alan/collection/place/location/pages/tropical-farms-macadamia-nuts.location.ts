@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const tropicalFarmsMacadamiaNuts = {
   id: "019f1b49-52c8-7637-82ce-5e4fc430d681",
-  type: "location",
+  type: "page-type/location",
   slug: "tropical-farms-macadamia-nuts",
   title: "Tropical Farms Macadamia Nuts",
   latitude: 17.841224,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const utahCenterForTheCeramicArtsUtahCounty = {
   id: "019f322c-9c48-73df-8002-0c5ed80d02ce",
-  type: "location",
+  type: "page-type/location",
   slug: "utah-center-for-the-ceramic-arts-utah-county",
   title: "Utah Center for the Ceramic Arts (Utah County)",
   address: "Utah County, UT",

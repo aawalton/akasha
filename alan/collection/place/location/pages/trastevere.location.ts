@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const trastevere = {
   id: "019f1aec-0dbc-7818-ba5e-c14cd25d377e",
-  type: "location",
+  type: "page-type/location",
   slug: "trastevere",
   title: "Trastevere",
   latitude: 41.8911586,

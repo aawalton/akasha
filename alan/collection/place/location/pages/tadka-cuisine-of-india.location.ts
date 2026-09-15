@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const tadkaCuisineOfIndia = {
   id: "019f1aec-0cda-7eb9-bb71-e9960f313df7",
-  type: "location",
+  type: "page-type/location",
   slug: "tadka-cuisine-of-india",
   title: "Tadka Cuisine of India",
   latitude: 40.0442596,

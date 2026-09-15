@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theForumAcademyUtahCounty = {
   id: "019f322c-9bba-7667-8a06-cedb2e352f96",
-  type: "location",
+  type: "page-type/location",
   slug: "the-forum-academy-utah-county",
   title: "The Forum Academy (Utah County)",
   address: "Utah County, UT",

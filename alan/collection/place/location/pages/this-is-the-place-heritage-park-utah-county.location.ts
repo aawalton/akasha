@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const thisIsThePlaceHeritageParkUtahCounty = {
   id: "019f322c-9c26-7f2c-8256-7374006debeb",
-  type: "location",
+  type: "page-type/location",
   slug: "this-is-the-place-heritage-park-utah-county",
   title: "This Is The Place Heritage Park (Utah County)",
   address: "Utah County, UT",

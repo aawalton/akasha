@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const waybackBurgersPleasantGrove = {
   id: "019f322c-9c66-7d7f-8ff2-ad67a327c4b3",
-  type: "location",
+  type: "page-type/location",
   slug: "wayback-burgers-pleasant-grove",
   title: "Wayback Burgers (Pleasant Grove)",
   address: "Pleasant Grove, UT",

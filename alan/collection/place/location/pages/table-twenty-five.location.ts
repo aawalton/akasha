@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const tableTwentyFive = {
   id: "019f1b49-527c-7d82-8272-60e6a03daf35",
-  type: "location",
+  type: "page-type/location",
   slug: "table-twenty-five",
   title: "Table Twenty Five",
   latitude: 51.393311,

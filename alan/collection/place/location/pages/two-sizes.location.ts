@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const twoSizes = {
   id: "019f1aec-0d9d-7ad4-94e7-76b3741ea74c",
-  type: "location",
+  type: "page-type/location",
   slug: "two-sizes",
   title: "Two Sizes",
   latitude: 41.8980059,

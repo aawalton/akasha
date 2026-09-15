@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const wendysLehi = {
   id: "019f322c-9c74-76f9-a23a-f772afd95efb",
-  type: "location",
+  type: "page-type/location",
   slug: "wendys-lehi",
   title: "Wendy's (Lehi)",
   address: "Lehi, UT",

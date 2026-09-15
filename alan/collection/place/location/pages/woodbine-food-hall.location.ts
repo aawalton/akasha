@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const woodbineFoodHall = {
   id: "019f1aec-0d02-78b1-8696-ae198325cb94",
-  type: "location",
+  type: "page-type/location",
   slug: "woodbine-food-hall",
   title: "Woodbine Food Hall",
   latitude: 40.7535628,

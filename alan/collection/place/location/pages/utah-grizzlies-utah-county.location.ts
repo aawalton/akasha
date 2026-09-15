@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const utahGrizzliesUtahCounty = {
   id: "019f322c-9c4e-7571-a263-a92a04b9fda7",
-  type: "location",
+  type: "page-type/location",
   slug: "utah-grizzlies-utah-county",
   title: "Utah Grizzlies (Utah County)",
   address: "Utah County, UT",

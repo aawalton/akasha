@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const stonegroundItalianKitchen = {
   id: "019f1b49-51da-70f6-a9fc-34e6a803a43b",
-  type: "location",
+  type: "page-type/location",
   slug: "stoneground-italian-kitchen",
   title: "Stoneground Italian Kitchen",
   latitude: 40.7609919,

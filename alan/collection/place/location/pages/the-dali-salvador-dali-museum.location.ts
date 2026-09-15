@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theDaliSalvadorDaliMuseum = {
   id: "019f1b49-576e-7904-a8d2-c0aaabf2a7a2",
-  type: "location",
+  type: "page-type/location",
   slug: "the-dali-salvador-dali-museum",
   title: "The Dalí (Salvador Dalí Museum)",
   latitude: 42.2664795,

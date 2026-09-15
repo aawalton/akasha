@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theEscapeGameNashville = {
   id: "019f1aec-0df1-7c82-92dc-15172f9b5f59",
-  type: "location",
+  type: "page-type/location",
   slug: "the-escape-game-nashville",
   title: "The Escape Game Nashville",
   latitude: 36.2053185,

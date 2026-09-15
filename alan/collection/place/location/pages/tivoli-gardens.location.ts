@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const tivoliGardens = {
   id: "019f1aec-0d97-788b-a335-bad500a04fb3",
-  type: "location",
+  type: "page-type/location",
   slug: "tivoli-gardens",
   title: "Tivoli Gardens",
   latitude: 55.6734266,

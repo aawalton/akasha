@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const suuLibrary = {
   id: "019f1aec-0f78-7f39-854a-163e46c1c1f7",
-  type: "location",
+  type: "page-type/location",
   slug: "suu-library",
   title: "SUU Library",
   latitude: 37.675533,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const strget = {
   id: "019f1aec-0d90-7463-b7bc-4b324965ea36",
-  type: "location",
+  type: "page-type/location",
   slug: "strget",
   title: "Strøget",
   latitude: 56.1514968,

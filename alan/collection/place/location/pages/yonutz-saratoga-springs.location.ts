@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const yonutzSaratogaSprings = {
   id: "019f322c-9c96-78ac-b582-43e88423aec6",
-  type: "location",
+  type: "page-type/location",
   slug: "yonutz-saratoga-springs",
   title: "Yonutz (Saratoga Springs)",
   address: "Saratoga Springs, UT",

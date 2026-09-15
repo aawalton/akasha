@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const uvuStoreUtahCounty = {
   id: "019f322c-9c57-763f-8c90-a0c3f6707625",
-  type: "location",
+  type: "page-type/location",
   slug: "uvu-store-utah-county",
   title: "UVU Store (Utah County)",
   address: "Utah County, UT",

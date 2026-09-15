@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theBridgeCafeAndGrill = {
   id: "019f1b49-5710-74a6-8978-1b6caba087f3",
-  type: "location",
+  type: "page-type/location",
   slug: "the-bridge-cafe-and-grill",
   title: "The Bridge Cafe and Grill",
   latitude: 45.500684,

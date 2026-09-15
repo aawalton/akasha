@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theSherlockHolmesMuseum = {
   id: "019f1b49-55df-793b-a2c1-ccf057930b2a",
-  type: "location",
+  type: "page-type/location",
   slug: "the-sherlock-holmes-museum",
   title: "The Sherlock Holmes Museum",
   latitude: 51.5073594,

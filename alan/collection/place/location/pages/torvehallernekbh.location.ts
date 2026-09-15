@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const torvehallernekbh = {
   id: "019f1aec-0d85-7248-a212-d9f978c11e06",
-  type: "location",
+  type: "page-type/location",
   slug: "torvehallernekbh",
   title: "TorvehallerneKBH",
   latitude: 55.684128,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const wendysOrem = {
   id: "019f322c-9c77-79f3-9d08-3d3218da4a26",
-  type: "location",
+  type: "page-type/location",
   slug: "wendys-orem",
   title: "Wendy's (Orem)",
   address: "Orem, UT",

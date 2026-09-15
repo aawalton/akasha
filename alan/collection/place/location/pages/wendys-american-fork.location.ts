@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const wendysAmericanFork = {
   id: "019f322c-9c6d-7f58-9b19-cea5ab4bb5b7",
-  type: "location",
+  type: "page-type/location",
   slug: "wendys-american-fork",
   title: "Wendy's (American Fork)",
   address: "American Fork, UT",

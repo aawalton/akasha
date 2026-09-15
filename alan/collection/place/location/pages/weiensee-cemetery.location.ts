@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const weienseeCemetery = {
   id: "019f1aec-0d5a-7098-8085-8db3e828f6ef",
-  type: "location",
+  type: "page-type/location",
   slug: "weiensee-cemetery",
   title: "Weißensee cemetery",
   latitude: 52.5420587,

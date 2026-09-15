@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theHiveTrampolineParkUtahCounty = {
   id: "019f322c-9bc1-7578-b2b3-652c874e3437",
-  type: "location",
+  type: "page-type/location",
   slug: "the-hive-trampoline-park-utah-county",
   title: "The Hive Trampoline Park (Utah County)",
   address: "Utah County, UT",

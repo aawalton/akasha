@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const toshiosTeriyaki = {
   id: "019f1aec-0c6e-72e4-a8c0-74ca9ffb3a8a",
-  type: "location",
+  type: "page-type/location",
   slug: "toshios-teriyaki",
   title: "Toshio's Teriyaki",
   latitude: 47.5881984,

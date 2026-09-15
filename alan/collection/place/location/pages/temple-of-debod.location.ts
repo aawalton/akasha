@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const templeOfDebod = {
   id: "019f1aec-0d6a-74c6-955a-c34c3d2b1d79",
-  type: "location",
+  type: "page-type/location",
   slug: "temple-of-debod",
   title: "Temple of Debod",
   latitude: 40.4240372,

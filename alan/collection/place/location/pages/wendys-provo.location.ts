@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const wendysProvo = {
   id: "019f322c-9c7a-7d98-8fb8-8ca05cd4c165",
-  type: "location",
+  type: "page-type/location",
   slug: "wendys-provo",
   title: "Wendy's (Provo)",
   address: "Provo, UT",

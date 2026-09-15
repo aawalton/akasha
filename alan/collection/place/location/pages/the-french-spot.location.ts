@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const theFrenchSpot = {
   id: "019f1aec-0ea0-7dff-9e68-9cb8a9c8dc22",
-  type: "location",
+  type: "page-type/location",
   slug: "the-french-spot",
   title: "The French Spot",
   latitude: 37.6766831,

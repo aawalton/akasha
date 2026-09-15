@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const twistedSugarPleasantGrove = {
   id: "019f322c-9c3b-7fb3-ade3-0a060d832d68",
-  type: "location",
+  type: "page-type/location",
   slug: "twisted-sugar-pleasant-grove",
   title: "Twisted Sugar (Pleasant Grove)",
   address: "Pleasant Grove, UT",

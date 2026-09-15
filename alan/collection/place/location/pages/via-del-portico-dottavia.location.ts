@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const viaDelPorticoDottavia = {
   id: "019f1aec-0da6-7564-bbdb-b865d9c48444",
-  type: "location",
+  type: "page-type/location",
   slug: "via-del-portico-dottavia",
   title: "Via del Portico d'Ottavia",
   latitude: 41.8924648,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const stadiumCinemasUtahCounty = {
   id: "019f322c-9b95-72c0-bddb-c96f7cfb94aa",
-  type: "location",
+  type: "page-type/location",
   slug: "stadium-cinemas-utah-county",
   title: "Stadium Cinemas (Utah County)",
   address: "Utah County, UT",

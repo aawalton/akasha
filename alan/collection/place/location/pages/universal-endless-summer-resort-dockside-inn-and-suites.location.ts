@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const universalEndlessSummerResortDocksideInnAndSuites = {
   id: "019f1b49-5760-7440-b387-221702ee616d",
-  type: "location",
+  type: "page-type/location",
   slug: "universal-endless-summer-resort-dockside-inn-and-suites",
   title: "Universal Endless Summer Resort - Dockside Inn and Suites",
   latitude: 33.571087,

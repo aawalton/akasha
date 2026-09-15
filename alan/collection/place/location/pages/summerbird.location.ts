@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const summerbird = {
   id: "019f1aec-0d87-7ac5-93ff-2f854394c45a",
-  type: "location",
+  type: "page-type/location",
   slug: "summerbird",
   title: "Summerbird",
   latitude: 56.149067,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const timeOutMarketLisbon = {
   id: "019f1aec-0ec7-79fd-a843-5bfdf8a88c24",
-  type: "location",
+  type: "page-type/location",
   slug: "time-out-market-lisbon",
   title: "Time Out Market Lisbon",
   latitude: 38.7070934,

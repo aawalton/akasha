@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const utahCountryDanceUtahCounty = {
   id: "019f322c-9c4b-73ef-95b7-d9504236377b",
-  type: "location",
+  type: "page-type/location",
   slug: "utah-country-dance-utah-county",
   title: "Utah Country Dance (Utah County)",
   address: "Utah County, UT",

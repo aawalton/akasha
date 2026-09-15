@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const wariqePeruvianFood = {
   id: "019f1aec-0fd0-70bc-9f03-7be25cfe67d7",
-  type: "location",
+  type: "page-type/location",
   slug: "wariqe-peruvian-food",
   title: "Wariqe Peruvian Food",
   address: "18 N University Ave, Provo, UT 84601, United States",
