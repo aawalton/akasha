@@ -261,7 +261,7 @@ export function filedById(known: Known, id: string): Listed | null {
   return known.filed({ id })[0] ?? null
 }
 
-export type Reached = { readonly id: string } | { readonly refused: string }
+export type Reached = { readonly id: string; readonly path: string } | { readonly refused: string }
 
 function only(found: readonly Listed[]): Listed | null {
   const one = found[0]
@@ -305,9 +305,10 @@ export function reaches(named: string, wanted: Wanted, known: Known): Reached {
   const address = addressIn(named)
   const every = eachTarget(wanted)
   if (address.kind === "id") {
-    return known.filed({ id: address.id }).length === 0
+    const carried = known.filed({ id: address.id })[0]
+    return carried === undefined
       ? { refused: `no page carries the id \`${address.id}\`` }
-      : { id: address.id }
+      : { id: carried.id, path: carried.path }
   }
   if (address.kind === "qualified") {
     const { pageTypeSlug, slug } = address
@@ -316,7 +317,7 @@ export function reaches(named: string, wanted: Wanted, known: Known): Reached {
     }
     const listed = known.filed({ pageTypeSlug, propertySlug: SLUG, value: slug })
     const held = only(listed)
-    if (held !== null) return { id: held.id }
+    if (held !== null) return { id: held.id, path: held.path }
     if (listed.length === 0)
       return { refused: `no \`${pageTypeSlug}\` carries the slug \`${slug}\`` }
     return { refused: among(named, listed) }
@@ -338,7 +339,7 @@ export function reaches(named: string, wanted: Wanted, known: Known): Reached {
             value: slug,
           })
     const kept = only(filed)
-    if (kept !== null) return { id: kept.id }
+    if (kept !== null) return { id: kept.id, path: kept.path }
     if (filed.length === 0) {
       return { refused: `no \`${pageTypeSlug}\` within \`${scope}\` carries the slug \`${slug}\`` }
     }
@@ -357,7 +358,7 @@ export function reaches(named: string, wanted: Wanted, known: Known): Reached {
     )
   )
   const single = only(reached)
-  if (single !== null) return { id: single.id }
+  if (single !== null) return { id: single.id, path: single.path }
   if (reached.length === 0)
     return { refused: `no page admitting ${namesDrawn(every, OR)} carries the slug \`${named}\`` }
   return { refused: among(named, reached) }

@@ -92,6 +92,10 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
+      statement: "A name that reaches a page answers where that page sits beside its id.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Whether a page type is mortal is answered beside the page a name reaches.",
     },
     {

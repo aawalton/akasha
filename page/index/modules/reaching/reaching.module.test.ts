@@ -78,7 +78,10 @@ test("a page type naming two parents admits what either of the two admits", () =
 })
 
 test("a name carrying no page type reaches the one page admitting its property's target", () => {
-  expect(reaches("c", "domain", shaped({ "module/c": C }))).toEqual({ id: C })
+  expect(reaches("c", "domain", shaped({ "module/c": C }))).toEqual({
+    id: C,
+    path: "c.module.ts",
+  })
 })
 
 test("a name carrying no page type and narrowing to two pages is refused rather than resolved", () => {
@@ -88,11 +91,17 @@ test("a name carrying no page type and narrowing to two pages is refused rather 
 })
 
 test("a name carrying its page type reaches that page when the property declares no target", () => {
-  expect(reaches("domain/b", null, shaped({ "domain/b": B }))).toEqual({ id: B })
+  expect(reaches("domain/b", null, shaped({ "domain/b": B }))).toEqual({
+    id: B,
+    path: "b.domain.ts",
+  })
 })
 
 test("a name carrying a page type standing under the target reaches that page", () => {
-  expect(reaches("module/c", "domain", shaped({ "module/c": C }))).toEqual({ id: C })
+  expect(reaches("module/c", "domain", shaped({ "module/c": C }))).toEqual({
+    id: C,
+    path: "c.module.ts",
+  })
 })
 
 test("a name carrying a page type the target does not admit is refused, never resolved", () => {
@@ -110,7 +119,10 @@ test("a property naming members takes the target each of those members declares"
 })
 
 test("a name one member of a one of admits reaches its page through that member", () => {
-  expect(reaches("note/c", ["domain", "note"], shaped({ "note/c": C }))).toEqual({ id: C })
+  expect(reaches("note/c", ["domain", "note"], shaped({ "note/c": C }))).toEqual({
+    id: C,
+    path: "c.note.ts",
+  })
 })
 
 test("a name no member of a one of admits is refused, never resolved", () => {
@@ -122,6 +134,7 @@ test("a name no member of a one of admits is refused, never resolved", () => {
 test("a name two members of a one of reach one page by reaches that page once", () => {
   expect(reaches("b", ["domain", "note"], shaped({ "domain/b": B, "note/b": B }))).toEqual({
     id: B,
+    path: "b.domain.ts",
   })
 })
 
@@ -188,7 +201,10 @@ test("a name stating no page type is mortal only where every target its property
 })
 
 test("a name carrying a page type and a scope reaches the page filed under that scope", () => {
-  expect(reaches("module/held/c", "domain", shaped({ "module/held/c": C }))).toEqual({ id: C })
+  expect(reaches("module/held/c", "domain", shaped({ "module/held/c": C }))).toEqual({
+    id: C,
+    path: "c.module.ts",
+  })
 })
 
 test("a name carrying a scope is not read as the slug it ends with", () => {
