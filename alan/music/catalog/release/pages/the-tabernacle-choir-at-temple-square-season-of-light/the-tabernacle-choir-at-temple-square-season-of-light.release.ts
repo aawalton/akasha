@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareSeasonOfLight = {
   id: "01a0676a-d728-705b-b4c9-a14350f7c1a0",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-season-of-light",
   title: "Season of Light: Christmas with the Tabernacle Choir and Orchestra at Temple Square",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareODivineRedeemerLegacySeries = {
   id: "01a0676a-d726-700e-8a3a-3e48ed07aadb",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-o-divine-redeemer-legacy-series",
   title: "O Divine Redeemer (Legacy Series)",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

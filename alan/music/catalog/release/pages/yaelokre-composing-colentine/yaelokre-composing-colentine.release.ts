@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const yaelokreComposingColentine = {
   id: "01a0676a-d71b-701f-9ad2-227cef220466",
-  type: "release",
+  type: "page-type/release",
   slug: "yaelokre-composing-colentine",
   title: "Composing Colentine",
   partOfCollections: ["artist/yaelokre"],

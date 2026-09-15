@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareDuelOfTheFatesFromStarWarsEpisodeIThePhantomMenace = {
   id: "01a0676a-d71c-7041-a9a4-29cda1d8453b",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-duel-of-the-fates-from-star-wars-episode-i-the-phantom-menace",
   title: 'Duel of the Fates (From "Star Wars Episode I: The Phantom Menace")',
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

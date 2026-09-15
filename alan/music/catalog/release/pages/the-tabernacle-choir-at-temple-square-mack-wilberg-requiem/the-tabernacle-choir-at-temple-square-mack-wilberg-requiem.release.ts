@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareMackWilbergRequiem = {
   id: "01a0676a-d724-7021-90ab-ca5ae563a6e3",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-mack-wilberg-requiem",
   title: "Mack Wilberg: Requiem",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

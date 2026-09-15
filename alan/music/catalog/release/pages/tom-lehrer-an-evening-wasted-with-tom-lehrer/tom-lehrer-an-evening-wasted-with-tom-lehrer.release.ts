@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const tomLehrerAnEveningWastedWithTomLehrer = {
   id: "01a0676a-d717-7010-9ae7-d403e8492317",
-  type: "release",
+  type: "page-type/release",
   slug: "tom-lehrer-an-evening-wasted-with-tom-lehrer",
   title: "An Evening Wasted with Tom Lehrer",
   partOfCollections: ["artist/tom-lehrer"],

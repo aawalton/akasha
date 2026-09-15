@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiSugarStars = {
   id: "01a0676a-d72a-703e-8699-b32f339e1d9d",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-sugar-stars",
   title: "sugar & stars",
   partOfCollections: ["artist/vinny-marchi"],

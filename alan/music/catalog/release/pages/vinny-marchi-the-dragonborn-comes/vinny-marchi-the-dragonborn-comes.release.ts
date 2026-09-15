@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiTheDragonbornComes = {
   id: "01a0676a-d72d-7002-8c2d-23d6efb74d62",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-the-dragonborn-comes",
   title: "The Dragonborn Comes",
   partOfCollections: ["artist/vinny-marchi"],

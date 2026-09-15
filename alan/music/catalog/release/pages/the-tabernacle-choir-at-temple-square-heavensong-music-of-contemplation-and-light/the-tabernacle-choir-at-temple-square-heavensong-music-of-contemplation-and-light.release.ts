@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareHeavensongMusicOfContemplationAndLight = {
   id: "01a0676a-d720-7023-bdf7-2bf937da5243",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-heavensong-music-of-contemplation-and-light",
   title: "Heavensong: Music of Contemplation and Light",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

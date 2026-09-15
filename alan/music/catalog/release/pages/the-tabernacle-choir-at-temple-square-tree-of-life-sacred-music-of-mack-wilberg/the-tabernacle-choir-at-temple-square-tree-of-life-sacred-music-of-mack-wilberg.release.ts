@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareTreeOfLifeSacredMusicOfMackWilberg = {
   id: "01a0676a-d72f-7019-aab9-22ccf4a70db0",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-tree-of-life-sacred-music-of-mack-wilberg",
   title: "Tree of Life: Sacred Music of Mack Wilberg",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

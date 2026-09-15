@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareTheWonderOfChristmas = {
   id: "01a0676a-d72e-7020-b338-1f8a20f9ac43",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-the-wonder-of-christmas",
   title: "The Wonder of Christmas",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

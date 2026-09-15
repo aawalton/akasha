@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareHowCanIKeepFromSinging = {
   id: "01a0676a-d720-706d-a3df-964515156ea8",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-how-can-i-keep-from-singing",
   title: "How Can I Keep from Singing?",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiLovelessAndModernLanguage = {
   id: "01a0676a-d724-7006-9941-fb8e85350834",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-loveless-and-modern-language",
   title: "Loveless and Modern Language",
   partOfCollections: ["artist/vinny-marchi"],

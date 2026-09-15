@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiComeOnComeOn = {
   id: "01a0676a-d71b-7019-ac29-3a0cce4b8eef",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-come-on-come-on",
   title: "Come On! Come On!",
   partOfCollections: ["artist/vinny-marchi"],

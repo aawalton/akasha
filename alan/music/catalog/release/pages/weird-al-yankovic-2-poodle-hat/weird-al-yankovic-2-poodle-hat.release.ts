@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const weirdAlYankovic2PoodleHat = {
   id: "01a0676a-d727-7004-b382-9acad1fae10c",
-  type: "release",
+  type: "page-type/release",
   slug: "weird-al-yankovic-2-poodle-hat",
   title: "Poodle Hat",
   partOfCollections: ["artist/weird-al-yankovic"],

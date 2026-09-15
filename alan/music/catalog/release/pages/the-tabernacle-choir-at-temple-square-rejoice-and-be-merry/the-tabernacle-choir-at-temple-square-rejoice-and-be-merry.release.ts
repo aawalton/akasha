@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareRejoiceAndBeMerry = {
   id: "01a0676a-d727-7062-910f-11bb4ec316f1",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-rejoice-and-be-merry",
   title: "Rejoice and Be Merry!",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const yaelokreAndTheHoundReprise = {
   id: "01a0676a-d717-701a-be3d-bbfa375e2fe7",
-  type: "release",
+  type: "page-type/release",
   slug: "yaelokre-and-the-hound-reprise",
   title: "And the Hound (Reprise)",
   partOfCollections: ["artist/yaelokre"],

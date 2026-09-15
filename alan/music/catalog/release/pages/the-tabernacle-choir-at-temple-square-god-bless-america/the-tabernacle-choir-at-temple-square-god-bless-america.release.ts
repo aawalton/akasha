@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareGodBlessAmerica = {
   id: "01a0676a-d71f-700a-8442-c068cdccccd5",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-god-bless-america",
   title: "God Bless America",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

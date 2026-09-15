@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareComeComeYeSaintsLegacySeries = {
   id: "01a0676a-d71b-7017-8233-4cb9918d746c",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-come-come-ye-saints-legacy-series",
   title: "Come, Come, Ye Saints (Legacy Series)",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

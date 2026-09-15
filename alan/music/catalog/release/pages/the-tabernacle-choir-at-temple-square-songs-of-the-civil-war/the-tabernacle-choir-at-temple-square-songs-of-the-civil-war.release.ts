@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareSongsOfTheCivilWar = {
   id: "01a0676a-d729-706c-9d6c-b9638ad6b27f",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-songs-of-the-civil-war",
   title: "Songs of the Civil War",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiTheHighSong = {
   id: "01a0676a-d72d-7020-ba40-fac65fc22d4a",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-the-high-song",
   title: "The High Song",
   partOfCollections: ["artist/vinny-marchi"],

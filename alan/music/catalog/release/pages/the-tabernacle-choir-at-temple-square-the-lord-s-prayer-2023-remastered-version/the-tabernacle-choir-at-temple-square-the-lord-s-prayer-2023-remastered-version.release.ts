@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareTheLordSPrayer2023RemasteredVersion = {
   id: "01a0676a-d72d-7039-80ba-34a3d2e38b36",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-the-lord-s-prayer-2023-remastered-version",
   title: "The Lord's Prayer (2023 Remastered Version)",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

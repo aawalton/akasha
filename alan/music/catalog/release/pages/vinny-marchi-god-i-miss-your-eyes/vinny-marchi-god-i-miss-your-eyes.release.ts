@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiGodIMissYourEyes = {
   id: "01a0676a-d71f-700b-90ff-74b893bc519b",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-god-i-miss-your-eyes",
   title: "god i miss your eyes",
   partOfCollections: ["artist/vinny-marchi"],

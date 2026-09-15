@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const weirdAlYankovic2LiveInTheMomentWeirdAlYankovicRemix = {
   id: "01a0676a-d723-7053-a457-175db5ffc094",
-  type: "release",
+  type: "page-type/release",
   slug: "weird-al-yankovic-2-live-in-the-moment-weird-al-yankovic-remix",
   title: "Live in the Moment ('Weird Al' Yankovic Remix)",
   partOfCollections: ["artist/weird-al-yankovic"],

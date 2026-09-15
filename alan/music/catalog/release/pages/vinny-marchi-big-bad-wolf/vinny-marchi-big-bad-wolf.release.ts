@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiBigBadWolf = {
   id: "01a0676a-d718-7056-8258-fbf97b748be8",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-big-bad-wolf",
   title: "Big Bad Wolf",
   partOfCollections: ["artist/vinny-marchi"],

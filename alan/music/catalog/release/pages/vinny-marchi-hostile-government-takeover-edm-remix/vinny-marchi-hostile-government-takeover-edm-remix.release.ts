@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiHostileGovernmentTakeoverEdmRemix = {
   id: "01a0676a-d720-705e-b5ca-17a41a2aaaf5",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-hostile-government-takeover-edm-remix",
   title: "Hostile Government Takeover (EDM Remix)",
   partOfCollections: ["artist/vinny-marchi"],

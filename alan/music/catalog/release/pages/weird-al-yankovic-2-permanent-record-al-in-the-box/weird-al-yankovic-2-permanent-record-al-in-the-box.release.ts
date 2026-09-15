@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const weirdAlYankovic2PermanentRecordAlInTheBox = {
   id: "01a0676a-d726-7072-9869-ac829623ace7",
-  type: "release",
+  type: "page-type/release",
   slug: "weird-al-yankovic-2-permanent-record-al-in-the-box",
   title: "Permanent Record: Al In The Box",
   partOfCollections: ["artist/weird-al-yankovic"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareHallelujahGreatChoralClassics = {
   id: "01a0676a-d71f-703e-8216-c194963d58c7",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-hallelujah-great-choral-classics",
   title: "Hallelujah! Great Choral Classics",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

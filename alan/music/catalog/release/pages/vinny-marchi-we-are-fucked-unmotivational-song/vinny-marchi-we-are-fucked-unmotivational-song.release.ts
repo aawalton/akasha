@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiWeAreFuckedUnmotivationalSong = {
   id: "01a0676a-d730-7029-80e7-356df3ddfe7d",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-we-are-fucked-unmotivational-song",
   title: "We Are Fucked (unmotivational song)",
   partOfCollections: ["artist/vinny-marchi"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiTakeTheReins = {
   id: "01a0676a-d72b-701a-ac12-98750c510c5c",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-take-the-reins",
   title: "Take The Reins",
   partOfCollections: ["artist/vinny-marchi"],

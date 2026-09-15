@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareKeepChristmasWithYou = {
   id: "01a0676a-d722-7038-a023-f9e5f5126abc",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-keep-christmas-with-you",
   title: "Keep Christmas With You",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

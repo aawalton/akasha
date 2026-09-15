@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareSpiritOfTheSeason = {
   id: "01a0676a-d729-707e-b3b7-104c1559939d",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-spirit-of-the-season",
   title: "Spirit of the Season",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiMistyMountains = {
   id: "01a0676a-d724-707b-8c6a-fc025034c997",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-misty-mountains",
   title: "Misty Mountains",
   partOfCollections: ["artist/vinny-marchi"],

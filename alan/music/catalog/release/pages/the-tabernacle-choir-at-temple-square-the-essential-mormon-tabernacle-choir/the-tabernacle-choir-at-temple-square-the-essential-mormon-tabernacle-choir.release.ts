@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareTheEssentialMormonTabernacleChoir = {
   id: "01a0676a-d72d-700b-a016-d37511a68c35",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-the-essential-mormon-tabernacle-choir",
   title: "The Essential Mormon Tabernacle Choir",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

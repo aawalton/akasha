@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const weirdAlYankovic2NewYearSEvePolka54321 = {
   id: "01a0676a-d725-7057-94ad-889c3f60611d",
-  type: "release",
+  type: "page-type/release",
   slug: "weird-al-yankovic-2-new-year-s-eve-polka-5-4-3-2-1",
   title: "New Year’s Eve Polka (5-4-3-2-1)",
   partOfCollections: ["artist/weird-al-yankovic"],

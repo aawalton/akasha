@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiTheTaleOfTheLesbianHunter = {
   id: "01a0676a-d72e-7013-b953-74ec14e4a90c",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-the-tale-of-the-lesbian-hunter",
   title: "The Tale of the Lesbian Hunter",
   partOfCollections: ["artist/vinny-marchi"],

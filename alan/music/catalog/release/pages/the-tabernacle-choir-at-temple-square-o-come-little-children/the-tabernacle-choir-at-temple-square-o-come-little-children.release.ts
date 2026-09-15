@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareOComeLittleChildren = {
   id: "01a0676a-d726-700b-a3e0-2eb92254ab11",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-o-come-little-children",
   title: "O Come Little Children",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

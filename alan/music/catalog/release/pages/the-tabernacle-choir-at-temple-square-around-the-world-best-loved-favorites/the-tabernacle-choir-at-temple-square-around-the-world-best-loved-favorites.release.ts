@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareAroundTheWorldBestLovedFavorites = {
   id: "01a0676a-d717-7030-851b-c2743b80e326",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-around-the-world-best-loved-favorites",
   title: "Around the World - Best Loved Favorites",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

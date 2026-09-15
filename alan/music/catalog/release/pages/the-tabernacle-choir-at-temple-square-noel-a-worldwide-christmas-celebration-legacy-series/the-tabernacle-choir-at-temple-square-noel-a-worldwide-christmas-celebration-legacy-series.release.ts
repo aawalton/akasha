@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareNoelAWorldwideChristmasCelebrationLegacySeries = {
   id: "01a0676a-d725-7070-b856-a04b1051a1ec",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-noel-a-worldwide-christmas-celebration-legacy-series",
   title: "Noel: a Worldwide Christmas Celebration (Legacy Series)",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

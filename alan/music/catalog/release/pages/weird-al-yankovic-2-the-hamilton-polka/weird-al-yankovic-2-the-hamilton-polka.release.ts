@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const weirdAlYankovic2TheHamiltonPolka = {
   id: "01a0676a-d72d-701e-8f68-6cb9acbd1240",
-  type: "release",
+  type: "page-type/release",
   slug: "weird-al-yankovic-2-the-hamilton-polka",
   title: "The Hamilton Polka",
   partOfCollections: ["artist/weird-al-yankovic"],

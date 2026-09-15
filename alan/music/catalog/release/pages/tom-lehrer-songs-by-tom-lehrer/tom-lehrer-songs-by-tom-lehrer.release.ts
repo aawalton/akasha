@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const tomLehrerSongsByTomLehrer = {
   id: "01a0676a-d729-7061-9984-10bfee882683",
-  type: "release",
+  type: "page-type/release",
   slug: "tom-lehrer-songs-by-tom-lehrer",
   title: "Songs by Tom Lehrer",
   partOfCollections: ["artist/tom-lehrer"],

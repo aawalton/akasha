@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareBrahmsAGermanRequiem2023RemasteredVersion = {
   id: "01a0676a-d719-702b-af30-f8ce58c28418",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-brahms-a-german-requiem-2023-remastered-version",
   title: "Brahms: A German Requiem (2023 Remastered Version)",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

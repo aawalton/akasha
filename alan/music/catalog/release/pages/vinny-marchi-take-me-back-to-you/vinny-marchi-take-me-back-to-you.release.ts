@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiTakeMeBackToYou = {
   id: "01a0676a-d72b-7013-8add-e71c1cbf38c0",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-take-me-back-to-you",
   title: "Take Me Back To You",
   partOfCollections: ["artist/vinny-marchi"],

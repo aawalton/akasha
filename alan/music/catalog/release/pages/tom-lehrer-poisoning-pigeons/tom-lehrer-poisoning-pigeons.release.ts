@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const tomLehrerPoisoningPigeons = {
   id: "01a0676a-d726-7087-b20a-d9ee569a0a18",
-  type: "release",
+  type: "page-type/release",
   slug: "tom-lehrer-poisoning-pigeons",
   title: "Poisoning Pigeons",
   partOfCollections: ["artist/tom-lehrer"],

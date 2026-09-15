@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareTheGreatThanksgiving = {
   id: "01a0676a-d72d-7016-92ac-cc17c2ae8a33",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-the-great-thanksgiving",
   title: "The Great Thanksgiving - Hymns and Songs of Thanks and Brotherhood",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareSlowDown = {
   id: "01a0676a-d729-7023-9f3c-95345e38e5bb",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-slow-down",
   title: "Slow Down",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const yaelokreHearken = {
   id: "01a0676a-d720-700c-9b93-7e5eae958628",
-  type: "release",
+  type: "page-type/release",
   slug: "yaelokre-hearken",
   title: "Hearken",
   partOfCollections: ["artist/yaelokre"],

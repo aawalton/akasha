@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareGreaterLoveACelebrationOfEaster = {
   id: "01a0676a-d71f-7029-adb1-f23142c9f9d7",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-greater-love-a-celebration-of-easter",
   title: "Greater Love: A Celebration of Easter",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

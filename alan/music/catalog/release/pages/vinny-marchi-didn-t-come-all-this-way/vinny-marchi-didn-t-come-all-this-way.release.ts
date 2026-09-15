@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiDidnTComeAllThisWay = {
   id: "01a0676a-d71c-7011-bf86-bdf0ea52eea3",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-didn-t-come-all-this-way",
   title: "Didn't Come All This Way",
   partOfCollections: ["artist/vinny-marchi"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const vinnyMarchiJonnyRifePulledAKnife = {
   id: "01a0676a-d722-7026-8926-0268ecd1d7df",
-  type: "release",
+  type: "page-type/release",
   slug: "vinny-marchi-jonny-rife-pulled-a-knife",
   title: "Jonny Rife Pulled a Knife",
   partOfCollections: ["artist/vinny-marchi"],

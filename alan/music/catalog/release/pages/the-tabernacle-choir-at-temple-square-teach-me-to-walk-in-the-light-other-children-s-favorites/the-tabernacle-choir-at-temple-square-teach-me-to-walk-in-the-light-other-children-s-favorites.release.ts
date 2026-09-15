@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareTeachMeToWalkInTheLightOtherChildrenSFavorites = {
   id: "01a0676a-d72c-7006-acfc-fcc464e9a898",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-teach-me-to-walk-in-the-light-other-children-s-favorites",
   title: "Teach Me to Walk in the Light & Other Children's Favorites",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

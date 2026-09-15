@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareRockOfAges30FavoriteHymns = {
   id: "01a0676a-d728-7019-9aba-f7fc2dc5384a",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-rock-of-ages-30-favorite-hymns",
   title:
     "Rock of Ages - 30 Favorite Hymns (with The Philadelphia Brass Ensemble & Percussion & Alexander Schreiner)",

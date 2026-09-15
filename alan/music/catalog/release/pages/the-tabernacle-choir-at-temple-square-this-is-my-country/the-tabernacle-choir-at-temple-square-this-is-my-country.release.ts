@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareThisIsMyCountry = {
   id: "01a0676a-d72e-702d-899a-e57f7d801bfd",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-this-is-my-country",
   title:
     "This Is My Country - The World's Great Songs of Patriotism and Brotherhood (2023 Remastered Version)",

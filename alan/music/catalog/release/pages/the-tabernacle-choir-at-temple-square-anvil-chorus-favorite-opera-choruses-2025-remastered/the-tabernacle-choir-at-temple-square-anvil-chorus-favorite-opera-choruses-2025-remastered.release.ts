@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareAnvilChorusFavoriteOperaChoruses2025Remastered = {
   id: "01a0676a-d717-702b-9cbe-5280ef26de50",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-anvil-chorus-favorite-opera-choruses-2025-remastered",
   title: "Anvil Chorus - Favorite Opera Choruses (2025 Remastered)",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

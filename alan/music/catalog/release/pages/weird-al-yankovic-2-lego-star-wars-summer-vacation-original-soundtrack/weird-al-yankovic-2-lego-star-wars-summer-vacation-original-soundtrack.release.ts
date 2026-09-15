@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const weirdAlYankovic2LegoStarWarsSummerVacationOriginalSoundtrack = {
   id: "01a0676a-d722-7074-8776-8f2208e0e1d9",
-  type: "release",
+  type: "page-type/release",
   slug: "weird-al-yankovic-2-lego-star-wars-summer-vacation-original-soundtrack",
   title: "LEGO Star Wars: Summer Vacation (Original Soundtrack)",
   partOfCollections: ["artist/weird-al-yankovic"],
