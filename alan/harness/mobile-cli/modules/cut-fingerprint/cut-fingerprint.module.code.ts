@@ -21,6 +21,8 @@ export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"
 
 const IOS_APP_PAGE_TYPE_SLUG = "ios-app"
 
+const PAGE_TYPE = "page-type"
+
 const PUT = "change-mechanical-file/add-file"
 
 const PAGE_SUFFIX = `.${MOBILE_CUT_PAGE_TYPE_SLUG}.ts`
@@ -155,7 +157,7 @@ export function cutPageBody(appSlug: string, fp: CutFingerprint): string {
     "",
     `export const ${exportedAs(slug)} = {`,
     `  id: "${Bun.randomUUIDv7()}",`,
-    `  type: "${MOBILE_CUT_PAGE_TYPE_SLUG}",`,
+    `  type: "${namedAs(PAGE_TYPE, MOBILE_CUT_PAGE_TYPE_SLUG, null)}",`,
     `  slug: "${slug}",`,
     `  title: ${JSON.stringify(`${appSlug} cut build ${fp.buildNumber}`)},`,
     `  app: ${JSON.stringify(namedAs(IOS_APP_PAGE_TYPE_SLUG, appSlug, null))},`,
