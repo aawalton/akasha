@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const alanwaltonAtlas = {
   id: "01a05b26-f8b6-718d-afa7-a3c62e0a1196",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "alanwalton-atlas",
   definition: "what draws Alan's map and takes in the locations his phone sends",
   resourceKind: "Deployment",
