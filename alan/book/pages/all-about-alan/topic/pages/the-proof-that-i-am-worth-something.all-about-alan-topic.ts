@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theProofThatIAmWorthSomething = {
   id: "01a06559-9d65-7125-b8e8-c324a4da97fa",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-proof-that-i-am-worth-something",
   title: "The Proof That I Am Worth Something",
   definition: "the argument I built for my own worth, and what it does not reach",

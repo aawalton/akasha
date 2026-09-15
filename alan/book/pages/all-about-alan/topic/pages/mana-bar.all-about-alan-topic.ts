@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const manaBar = {
   id: "01a06559-9d65-76ae-bc6b-567b6056571b",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "mana-bar",
   title: "Mana Bar",
   definition: "what my brain has left to start things with",

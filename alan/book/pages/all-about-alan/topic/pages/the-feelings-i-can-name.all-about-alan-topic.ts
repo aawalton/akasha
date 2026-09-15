@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theFeelingsICanName = {
   id: "01a06559-9d65-7456-858a-0d07af3d4653",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-feelings-i-can-name",
   title: "The Feelings I Can Name",
   definition: "which feelings reach me reliably, which only sometimes, and why",

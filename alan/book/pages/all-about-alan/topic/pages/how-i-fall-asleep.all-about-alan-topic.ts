@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howIFallAsleep = {
   id: "01a06559-9d65-7927-97cb-592fbd60332f",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-fall-asleep",
   title: "How I Fall Asleep",
   definition: "what happens between getting into bed and being asleep",

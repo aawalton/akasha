@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theFoodsICanStillManage = {
   id: "01a06559-9d65-7cc2-adc2-4be6e81bc574",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-foods-i-can-still-manage",
   title: "The Foods I Can Still Manage",
   definition: "the small set that holds when all four bars are low",

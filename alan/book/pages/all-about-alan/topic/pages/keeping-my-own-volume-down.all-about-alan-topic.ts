@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const keepingMyOwnVolumeDown = {
   id: "01a06559-9d65-7c52-8d68-f4f91e8a5993",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "keeping-my-own-volume-down",
   title: "Keeping My Own Volume Down",
   definition: "showing little on the outside so the room does not send it back louder",

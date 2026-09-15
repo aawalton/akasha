@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theOddsOfAHardEvening = {
   id: "01a07878-59a9-7673-9d55-b1f11f5e75e1",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-odds-of-a-hard-evening",
   title: "The Odds Of A Hard Evening",
   definition: "how often time with Jen comes in hard, and why I cannot feel the odds",

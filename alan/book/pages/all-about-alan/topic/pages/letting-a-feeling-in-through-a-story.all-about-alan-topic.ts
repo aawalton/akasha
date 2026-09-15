@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const lettingAFeelingInThroughAStory = {
   id: "01a06559-9d65-754b-b0fd-f494f43d0031",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "letting-a-feeling-in-through-a-story",
   title: "Letting A Feeling In Through A Story",
   definition: "cheap fiction as the safe place a backlog of suppressed feeling gets let in",

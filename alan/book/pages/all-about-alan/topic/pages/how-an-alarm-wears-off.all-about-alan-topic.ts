@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howAnAlarmWearsOff = {
   id: "01a06559-9d65-709c-9bb3-fc00feb9f1d7",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-an-alarm-wears-off",
   title: "How An Alarm Wears Off",
   definition: "how a fear my body has learned either fades or gets confirmed",

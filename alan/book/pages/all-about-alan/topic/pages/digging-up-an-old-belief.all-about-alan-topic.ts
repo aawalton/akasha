@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const diggingUpAnOldBelief = {
   id: "01a06559-9d65-7fb1-b3d1-d358ba8362f2",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "digging-up-an-old-belief",
   title: "Digging Up An Old Belief",
   definition:

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const smallBitesOfManyThings = {
   id: "01a06559-9d65-7442-a69f-5e27156e3454",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "small-bites-of-many-things",
   title: "Small Bites Of Many Things",
   definition: "a little of each thing in turn, rather than one thing through to the end",

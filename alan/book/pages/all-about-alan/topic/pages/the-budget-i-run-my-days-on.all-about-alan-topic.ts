@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theBudgetIRunMyDaysOn = {
   id: "01a07817-4699-7f64-86a5-f61640ff2f0b",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-budget-i-run-my-days-on",
   title: "The Budget I Run My Days On",
   definition: "the daily stress spend I hold under, to keep surplus above zero",

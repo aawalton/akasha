@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howStimulatedIAm = {
   id: "01a06559-9d65-7389-a20b-90c051226f6d",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-stimulated-i-am",
   title: "How Stimulated I Am",
   definition: "how wound up or how flat I am, which I keep in a band by hand",

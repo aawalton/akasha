@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howMuchBeingKnownINeed = {
   id: "01a06559-9d65-73e5-a8db-d1a946ee2e67",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-much-being-known-i-need",
   title: "How Much Being Known I Need",
   definition: "the dose that cures the deficiency, rather than a state of being fully known",

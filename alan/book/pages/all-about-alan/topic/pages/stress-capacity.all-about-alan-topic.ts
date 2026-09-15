@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const stressCapacity = {
   id: "01a06559-9d65-78ec-ba0b-8372ba60ca4d",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "stress-capacity",
   title: "Stress Capacity",
   definition: "how much my body has left to handle what comes",

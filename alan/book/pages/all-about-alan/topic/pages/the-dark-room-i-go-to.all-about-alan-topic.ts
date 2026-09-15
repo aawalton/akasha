@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theDarkRoomIGoTo = {
   id: "01a06559-9d65-7570-8401-2689661832f3",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-dark-room-i-go-to",
   title: "The Dark Room I Go To",
   definition: "the near-empty room I lie in when everything has gone past bearing",

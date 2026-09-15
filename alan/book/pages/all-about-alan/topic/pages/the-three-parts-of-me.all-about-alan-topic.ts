@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theThreePartsOfMe = {
   id: "01a06559-9d65-7824-8af1-1939e6705e28",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-three-parts-of-me",
   title: "The Three Parts Of Me",
   definition: "mind, feeling and body, and how far apart mine sit",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howIPractiseMyFaith = {
   id: "01a06559-9d65-7937-b295-a57fbe5f1e09",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-practise-my-faith",
   title: "How I Practise My Faith",
   definition: "prayer, worship, ordinances and attendance, as things I actually do",

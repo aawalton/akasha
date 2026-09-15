@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const showingHerSheComesFirst = {
   id: "01a06559-9d65-7591-8952-1246db36369f",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "showing-her-she-comes-first",
   title: "Showing Her She Comes First",
   definition: "she is ranked first and it does not show, so I say the trade out loud",

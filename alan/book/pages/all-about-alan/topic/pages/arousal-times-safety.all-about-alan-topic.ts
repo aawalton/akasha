@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const arousalTimesSafety = {
   id: "01a06559-9d65-798b-9cae-68c604c962d3",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "arousal-times-safety",
   title: "Arousal Times Safety",
   definition:

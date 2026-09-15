@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howIKnowThings = {
   id: "01a06559-9d65-7aed-971e-6be72faf2b06",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-know-things",
   title: "How I Know Things",
   definition: "keeping the account rather than the events, and testing it by how much it explains",

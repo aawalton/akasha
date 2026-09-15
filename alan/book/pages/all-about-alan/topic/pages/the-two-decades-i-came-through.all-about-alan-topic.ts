@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theTwoDecadesICameThrough = {
   id: "01a06559-9d65-7437-ac75-e9fd5eb91fbb",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-two-decades-i-came-through",
   title: "The Two Decades I Came Through",
   definition: "how far I optimised myself while collapsing, and what it is like to be out of it",

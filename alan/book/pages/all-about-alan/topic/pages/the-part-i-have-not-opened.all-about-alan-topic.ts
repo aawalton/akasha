@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const thePartIHaveNotOpened = {
   id: "01a06559-9d65-74ed-b2ce-d4c011d2c683",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-part-i-have-not-opened",
   title: "The Part I Have Not Opened",
   definition: "the seams in my marriage I have left shut, and the state I would need to open them",

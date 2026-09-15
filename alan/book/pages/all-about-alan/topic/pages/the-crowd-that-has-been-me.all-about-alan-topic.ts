@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theCrowdThatHasBeenMe = {
   id: "01a06559-9d65-7aaa-ae61-37ca72c387db",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-crowd-that-has-been-me",
   title: "The Crowd That Has Been Me",
   definition: "the strangers I have been and will be, and what I feel toward the ones behind me",

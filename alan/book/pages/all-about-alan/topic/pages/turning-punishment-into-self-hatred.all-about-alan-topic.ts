@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const turningPunishmentIntoSelfHatred = {
   id: "01a06559-9d65-7cd5-b84a-8283af358b43",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "turning-punishment-into-self-hatred",
   title: "Turning Punishment Into Self-Hatred",
   definition: "taking what lands on me and making it evidence against myself",

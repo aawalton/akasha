@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const myFaith = {
   id: "01a06559-9d65-7f49-8183-aaece34682ab",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "my-faith",
   title: "My Faith",
   definition: "what I believe about God and the church, and how I hold it",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const safetyLevel = {
   id: "01a06559-9d65-7700-b42c-16b3182c13c6",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "safety-level",
   title: "Safety Level",
   definition: "how settled my body is underneath the day",

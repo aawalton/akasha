@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const playingAgain = {
   id: "01a06559-9d65-7eee-801d-9286163c9d3f",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "playing-again",
   title: "Playing Again",
   definition: "the return of doing things for their own sake, and the ramp that got me there",

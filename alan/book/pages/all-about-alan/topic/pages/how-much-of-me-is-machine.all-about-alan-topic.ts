@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howMuchOfMeIsMachine = {
   id: "01a06559-9d65-7121-8b2c-e6bee036adca",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-much-of-me-is-machine",
   title: "How Much Of Me Is Machine",
   definition: "how close my mind runs to a machine's, and where my body votes the other way",

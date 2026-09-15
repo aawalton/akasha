@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howIKeepUrgencyOut = {
   id: "01a06559-9d65-76f1-a281-131f64e5e546",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-keep-urgency-out",
   title: "How I Keep Urgency Out",
   definition: "taking urgency out of my surroundings instead of trying to resist it",

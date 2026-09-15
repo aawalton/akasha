@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howWarmIRun = {
   id: "01a06559-9d65-7ad9-b0ed-b14779ddf363",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-warm-i-run",
   title: "How Warm I Run",
   definition: "how hot or cold I am, which follows my safety level rather than the room",

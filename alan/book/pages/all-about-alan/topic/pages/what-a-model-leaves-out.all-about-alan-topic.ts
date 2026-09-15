@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatAModelLeavesOut = {
   id: "01a04625-d80c-7458-99ee-30faa32f46f2",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-a-model-leaves-out",
   title: "What A Model Leaves Out",
   definition: "what every model costs to be usable, and where I think the value actually sits",

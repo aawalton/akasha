@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const callingSomethingWeather = {
   id: "01a06559-9d65-778b-9fe5-320ae160ef6f",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "calling-something-weather",
   title: "Calling Something Weather",
   definition: "filing a problem as outside my reach, after which it stops pulling at me at all",

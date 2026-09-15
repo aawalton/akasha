@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const afterSomethingAlarmsMe = {
   id: "01a06559-9d65-7a49-a6f7-443bfca85dc0",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "after-something-alarms-me",
   title: "After Something Alarms Me",
   definition: "what happens to my safety in the days after something frightens me",

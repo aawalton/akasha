@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theBestThreeYears = {
   id: "01a06559-9d65-7b6c-ae0a-70237f9fd825",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-best-three-years",
   title: "The Best Three Years",
   definition: "college at sixteen, run at maximum autonomy, and why I rate it highest",

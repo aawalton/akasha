@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howHardAThingIs = {
   id: "01a06559-9d65-7c0b-aee2-9f2d6f58096c",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-hard-a-thing-is",
   title: "How Hard A Thing Is",
   definition: "how demanding an activity is, as a rung rather than a feeling",

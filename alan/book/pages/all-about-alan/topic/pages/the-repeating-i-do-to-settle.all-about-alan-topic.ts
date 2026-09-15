@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theRepeatingIDoToSettle = {
   id: "01a06559-9d65-771f-9271-27cf7ac918eb",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-repeating-i-do-to-settle",
   title: "The Repeating I Do To Settle",
   definition: "the movements and loops I run to keep my nervous system steady",

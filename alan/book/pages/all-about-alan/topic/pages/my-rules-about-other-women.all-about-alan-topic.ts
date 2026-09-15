@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const myRulesAboutOtherWomen = {
   id: "01a06559-9d65-70e0-ac7b-9cf16c62ab14",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "my-rules-about-other-women",
   title: "My Rules About Other Women",
   definition: "pre-decided lines standing in for a judgment I cannot make in the moment",

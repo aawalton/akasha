@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theColoursIReadMyselfIn = {
   id: "01a06559-9d65-7926-8228-eab7219413b2",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-colours-i-read-myself-in",
   title: "The Colours I Read Myself In",
   definition: "the coarse colour scale I read a resource on before it has numbers",

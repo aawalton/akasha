@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const beingAloneAtTheCentre = {
   id: "01a06559-9d65-74f8-8040-0caed9d71d24",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "being-alone-at-the-centre",
   title: "Being Alone At The Centre",
   definition: "the one place I most need to be known is the one place I least can be",

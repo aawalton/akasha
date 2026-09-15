@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const callingItWhatItWas = {
   id: "01a06559-9d65-7d63-b849-4cb533c1707c",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "calling-it-what-it-was",
   title: "Calling It What It Was",
   definition: "coming to name what happened at home as abuse, and what the naming does",

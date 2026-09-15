@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const gettingConnectionAnotherWay = {
   id: "01a06559-9d65-77c5-9e69-2da0c2cce931",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "getting-connection-another-way",
   title: "Getting Connection Another Way",
   definition: "whether the need for connection can come off the sexual vehicle",

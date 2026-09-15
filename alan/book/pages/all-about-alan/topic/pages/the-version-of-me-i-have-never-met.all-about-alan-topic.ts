@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theVersionOfMeIHaveNeverMet = {
   id: "01a06559-9d65-7702-87bd-86e69261704e",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-version-of-me-i-have-never-met",
   title: "The Version Of Me I Have Never Met",
   definition: "my highest self, reachable only at one remove",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const moneyBar = {
   id: "01a06559-9d65-7ba1-8603-dd6e5ee30ad8",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "money-bar",
   title: "Money Bar",
   definition: "how much money I have",

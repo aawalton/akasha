@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const livingWithJen = {
   id: "01a06559-9d65-7245-981e-7df4a4d1368a",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "living-with-jen",
   title: "Living With Jen",
   definition: "being married to Jen, and what sharing a house asks of each of us",

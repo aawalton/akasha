@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const notReadingCodeAnyMore = {
   id: "01a04615-3061-7648-a7ec-05832d77b1f6",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "not-reading-code-any-more",
   title: "Not Reading Code Any More",
   definition: "what I read now that I do not read code",

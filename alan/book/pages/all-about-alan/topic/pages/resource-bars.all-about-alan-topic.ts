@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const resourceBars = {
   id: "01a06559-9d65-78ba-8142-49ff88480b26",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "resource-bars",
   title: "Resource Bars",
   definition: "how much I have of each thing I run on",

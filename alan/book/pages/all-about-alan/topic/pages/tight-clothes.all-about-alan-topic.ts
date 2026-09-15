@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const tightClothes = {
   id: "01a06559-9d65-722c-9678-d128de1034ed",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "tight-clothes",
   title: "Tight Clothes",
   definition: "tight everything, so I know where my body is and stop noticing fabric",

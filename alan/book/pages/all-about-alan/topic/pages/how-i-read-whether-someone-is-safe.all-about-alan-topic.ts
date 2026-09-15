@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howIReadWhetherSomeoneIsSafe = {
   id: "01a06559-9d65-7a58-9703-2a94d55af4cc",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-read-whether-someone-is-safe",
   title: "How I Read Whether Someone Is Safe",
   definition: "the signals I judge a person on, before I have decided anything",

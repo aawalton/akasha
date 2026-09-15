@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howIWillKnowTheMiddleWorked = {
   id: "01a07884-bdb8-7a4b-a1e0-aaa606caaa64",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-will-know-the-middle-worked",
   title: "How I Will Know The Middle Worked",
   definition: "the test I set for whether overspending on the marriage is paying",

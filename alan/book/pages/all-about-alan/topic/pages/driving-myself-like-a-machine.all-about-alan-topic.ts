@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const drivingMyselfLikeAMachine = {
   id: "01a06559-9d65-7fe8-a64b-c924bb42db34",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "driving-myself-like-a-machine",
   title: "Driving Myself Like A Machine",
   definition: "issuing myself instructions and working my body from outside the feeling",

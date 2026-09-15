@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const blankCheckModeAndRecoveryMode = {
   id: "01a0784f-0bde-7fdb-9262-4615d39727ad",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "blank-check-mode-and-recovery-mode",
   title: "Blank Check Mode And Recovery Mode",
   definition: "the two extremes I have lived at, one paying any cost and one counting every cost",

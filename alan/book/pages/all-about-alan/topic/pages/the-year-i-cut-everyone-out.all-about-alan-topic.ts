@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theYearICutEveryoneOut = {
   id: "01a06559-9d65-7873-99d5-eee7ec71734d",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-year-i-cut-everyone-out",
   title: "The Year I Cut Everyone Out",
   definition: "cutting company to the household and church for a year, and calling it medical",

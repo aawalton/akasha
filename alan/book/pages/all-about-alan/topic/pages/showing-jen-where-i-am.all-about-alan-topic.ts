@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const showingJenWhereIAm = {
   id: "01a06559-9d65-7aee-9d9d-550ad3d542d6",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "showing-jen-where-i-am",
   title: "Showing Jen Where I Am",
   definition: "a widget on her phone with my safety level, so she does not have to ask",

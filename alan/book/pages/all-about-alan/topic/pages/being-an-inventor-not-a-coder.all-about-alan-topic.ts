@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const beingAnInventorNotACoder = {
   id: "01a04615-3063-7254-b8ed-cc437fdfe056",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "being-an-inventor-not-a-coder",
   title: "Being An Inventor Not A Coder",
   definition: "what I actually am, against the trade I was raised into",

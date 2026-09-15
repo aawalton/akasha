@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const warmingUpWhatIWillNeed = {
   id: "01a06559-9d65-704a-b98e-724b5b0be182",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "warming-up-what-i-will-need",
   title: "Warming Up What I Will Need",
   definition: "loading the ideas beforehand so they are cheap to reach when the moment comes",

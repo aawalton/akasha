@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howIEat = {
   id: "01a06559-9d65-75a2-b6e8-06ea0d9867cd",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-eat",
   title: "How I Eat",
   definition: "food as fuel, and why that costs me nothing",

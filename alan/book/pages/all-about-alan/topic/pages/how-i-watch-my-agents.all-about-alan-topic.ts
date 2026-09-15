@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howIWatchMyAgents = {
   id: "01a06559-9d65-7487-b499-ae7beba85dcc",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-watch-my-agents",
   title: "How I Watch My Agents",
   definition: "how I keep eight to twelve going at once and notice which one wants me",

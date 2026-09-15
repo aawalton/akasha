@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const beingKnown = {
   id: "01a06559-9d65-7670-a465-952dfe3ce570",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "being-known",
   title: "Being Known",
   definition: "what it takes for someone to have an accurate model of me, and why so few can",

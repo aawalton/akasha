@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howFarBackIExpectToCome = {
   id: "01a06559-9d65-706c-8860-b679893eaae7",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-far-back-i-expect-to-come",
   title: "How Far Back I Expect To Come",
   definition: "the shape of my recovery, and how little of it I can see ahead",

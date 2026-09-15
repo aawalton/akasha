@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const keepingMyHandsLotioned = {
   id: "01a06559-9d65-7e3b-a5af-690a18c5586a",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "keeping-my-hands-lotioned",
   title: "Keeping My Hands Lotioned",
   definition: "holding a layer on my hands and putting it back whenever it comes off",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const safetyYears = {
   id: "01a06559-9d65-76b8-97c5-e525090bea64",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "safety-years",
   title: "Safety Years",
   definition: "how much safe time I have behind me",

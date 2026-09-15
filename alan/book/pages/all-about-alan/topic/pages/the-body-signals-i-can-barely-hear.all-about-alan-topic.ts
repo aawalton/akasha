@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theBodySignalsICanBarelyHear = {
   id: "01a06559-9d65-7a6a-a5ef-72e27159d195",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-body-signals-i-can-barely-hear",
   title: "The Body Signals I Can Barely Hear",
   definition: "hunger, thirst, heat and the rest arriving too quietly to insist on anything",

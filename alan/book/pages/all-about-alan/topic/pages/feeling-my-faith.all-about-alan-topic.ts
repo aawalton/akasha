@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const feelingMyFaith = {
   id: "01a06559-9d65-7813-8840-85901af16e02",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "feeling-my-faith",
   title: "Feeling My Faith",
   definition: "the devotional side I once had, and lost the live read of around twenty",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theThingsINeverWeigh = {
   id: "01a06559-9d65-79f0-951e-c601ee3c505c",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-things-i-never-weigh",
   title: "The Things I Never Weigh",
   definition: "obligations filed as compulsory, so what they cost never reaches them",

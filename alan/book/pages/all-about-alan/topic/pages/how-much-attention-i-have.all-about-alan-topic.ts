@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howMuchAttentionIHave = {
   id: "01a06559-9d65-7578-bba4-a0c7e7a3691f",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-much-attention-i-have",
   title: "How Much Attention I Have",
   definition: "what is left to spend after the room I am in has taken its share",

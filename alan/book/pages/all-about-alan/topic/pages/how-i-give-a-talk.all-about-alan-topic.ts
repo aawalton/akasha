@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howIGiveATalk = {
   id: "01a06559-9d65-75cf-a1b0-2154ba5ef275",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-give-a-talk",
   title: "How I Give A Talk",
   definition:

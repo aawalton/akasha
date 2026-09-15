@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const gettingMyMeasuresTrustworthyFirst = {
   id: "01a07895-54aa-7c6c-8ee4-72d75a79263e",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "getting-my-measures-trustworthy-first",
   title: "Getting My Measures Trustworthy First",
   definition: "the two levers I work, and why I am not moving their numbers yet",

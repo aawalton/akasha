@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theLowFeelingThatCostsMeALevel = {
   id: "01a04625-d80f-70c0-b8f1-eb0d7e9475db",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-low-feeling-that-costs-me-a-level",
   title: "The Low Feeling That Costs Me A Level",
   definition:

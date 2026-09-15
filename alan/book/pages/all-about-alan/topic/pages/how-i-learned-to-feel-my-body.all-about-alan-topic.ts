@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howILearnedToFeelMyBody = {
   id: "01a06559-9d65-7f83-8767-087c392c8421",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-learned-to-feel-my-body",
   title: "How I Learned To Feel My Body",
   definition: "building by hand the sense of where my body is that other people get for free",

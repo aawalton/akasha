@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howIComeAcross = {
   id: "01a0659e-de90-76d1-8017-021fd529515d",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-come-across",
   title: "How I Come Across",
   definition: "the voice I speak and write in, and the one cost that voice reliably has",

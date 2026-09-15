@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howTheBarsPullOnEachOther = {
   id: "01a06559-9d65-78f3-854a-d7a403a8c74e",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-the-bars-pull-on-each-other",
   title: "How The Bars Pull On Each Other",
   definition: "what being low on one resource does to the others",

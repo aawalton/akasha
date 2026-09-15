@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theCompanyYears = {
   id: "01a06559-9d65-7350-9035-cb7768508c3e",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-company-years",
   title: "The Company Years",
   definition: "the years at the company, which I have called a special kind of hell",

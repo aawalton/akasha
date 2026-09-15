@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const thePlansIOverBuild = {
   id: "01a06559-9d65-71c5-bcb3-efa39f558a58",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-plans-i-over-build",
   title: "The Plans I Over-Build",
   definition: "written plans far past what anyone needs, standing in for planning I cannot hold",

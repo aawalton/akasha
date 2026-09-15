@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const buildingASettingICanBeSafeIn = {
   id: "01a06559-9d65-79b0-9dd9-896a4ac6b4a0",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "building-a-setting-i-can-be-safe-in",
   title: "Building A Setting I Can Be Safe In",
   definition:

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theFourThingsINeedFromPeople = {
   id: "01a06559-9d65-7320-a8f5-908e482b21cc",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-four-things-i-need-from-people",
   title: "The Four Things I Need From People",
   definition: "connection as a requirement, and the four separate tanks it splits into",

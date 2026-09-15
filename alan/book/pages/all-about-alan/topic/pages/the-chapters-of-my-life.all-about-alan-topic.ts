@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theChaptersOfMyLife = {
   id: "01a06559-9d65-7240-86da-528ebdd3bbd7",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-chapters-of-my-life",
   title: "The Chapters Of My Life",
   definition: "my life written as chapters, and how much of it is still only a title",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theCodeInMyFamily = {
   id: "01a04615-3062-77cf-bc5a-0784815ed598",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-code-in-my-family",
   title: "The Code In My Family",
   definition: "the three generations of programmers I come from",

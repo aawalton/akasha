@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theThreeSecondsIAm = {
   id: "01a06559-9d65-78da-952e-e1dda53c757a",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-three-seconds-i-am",
   title: "The Three Seconds I Am",
   definition: "my sense of being one person, only seconds wide and chained rather than felt",

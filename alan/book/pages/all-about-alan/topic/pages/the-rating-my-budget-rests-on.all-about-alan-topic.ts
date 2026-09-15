@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theRatingMyBudgetRestsOn = {
   id: "01a07824-30b9-7011-884c-1d5498be5e6d",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-rating-my-budget-rests-on",
   title: "The Rating My Budget Rests On",
   definition: "the hand-set rating my surplus number is built on, and how I keep the rating true",

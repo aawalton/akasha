@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theValuesIHaveNotPlaced = {
   id: "01a06559-9d65-771d-88e9-f3838e542f98",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-values-i-have-not-placed",
   title: "The Values I Have Not Placed",
   definition:

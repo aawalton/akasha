@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const defaultingToTooMuchProtection = {
   id: "01a06559-9d65-70c5-a4f1-b33387c55edd",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "defaulting-to-too-much-protection",
   title: "Defaulting To Too Much Protection",
   definition: "starting at the protective extreme and easing off from there",

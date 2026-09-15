@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howIRememberAnything = {
   id: "01a06559-9d65-7615-99ee-ddcd2c23191d",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-remember-anything",
   title: "How I Remember Anything",
   definition:

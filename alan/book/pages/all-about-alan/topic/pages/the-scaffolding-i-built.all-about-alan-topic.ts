@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theScaffoldingIBuilt = {
   id: "01a06559-9d65-7ec9-b3bf-87a17dee0c36",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-scaffolding-i-built",
   title: "The Scaffolding I Built",
   definition: "the twenty years of structure I run on, holding what my head cannot",

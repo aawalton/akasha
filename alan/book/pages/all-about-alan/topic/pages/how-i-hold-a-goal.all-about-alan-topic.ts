@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howIHoldAGoal = {
   id: "01a06559-9d65-7097-b8ac-9338dcb3d746",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-hold-a-goal",
   title: "How I Hold A Goal",
   definition: "what a goal is for someone with no future to be pulled toward",

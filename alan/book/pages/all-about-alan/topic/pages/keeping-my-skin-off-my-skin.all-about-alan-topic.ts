@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const keepingMySkinOffMySkin = {
   id: "01a06559-9d65-764f-913c-0ea96194d504",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "keeping-my-skin-off-my-skin",
   title: "Keeping My Skin Off My Skin",
   definition: "putting something between my own surfaces, because the touch registers twice",

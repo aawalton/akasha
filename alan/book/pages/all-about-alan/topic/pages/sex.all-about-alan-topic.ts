@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const sex = {
   id: "01a06559-9d65-7ab9-a2bd-5ec33355bf13",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "sex",
   title: "Sex",
   definition: "the one place my body shouts, and the three things tangled up in the shout",

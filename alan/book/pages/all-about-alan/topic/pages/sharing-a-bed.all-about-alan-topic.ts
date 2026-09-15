@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const sharingABed = {
   id: "01a06559-9d65-795e-a0a9-e70e904f218d",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "sharing-a-bed",
   title: "Sharing A Bed",
   definition: "sleeping next to Jen, and what chasing sleep has cost that",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theProgressIGetToKeep = {
   id: "01a06559-9d65-7c4e-bcb0-7584d4b303c3",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-progress-i-get-to-keep",
   title: "The Progress I Get To Keep",
   definition: "the deepest and steadiest source of permanent progress I have is inside a game",

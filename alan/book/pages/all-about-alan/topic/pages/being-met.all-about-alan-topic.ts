@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const beingMet = {
   id: "01a06559-9d65-7974-8cd3-835ea6fe6c40",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "being-met",
   title: "Being Met",
   definition: "someone oriented toward me, glad that it is me",

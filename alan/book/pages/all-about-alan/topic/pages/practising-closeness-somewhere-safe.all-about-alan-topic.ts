@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const practisingClosenessSomewhereSafe = {
   id: "01a06559-9d65-7185-90f3-dc203dd0e78a",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "practising-closeness-somewhere-safe",
   title: "Practising Closeness Somewhere Safe",
   definition: "drilling the skills of being close where nobody real takes the damage",

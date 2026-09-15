@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const keepingMyWord = {
   id: "01a06559-9d65-7ebe-bb54-20fccae82a51",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "keeping-my-word",
   title: "Keeping My Word",
   definition: "why a commitment of mine never fails without my saying so first",

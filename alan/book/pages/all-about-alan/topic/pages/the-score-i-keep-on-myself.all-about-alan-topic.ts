@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theScoreIKeepOnMyself = {
   id: "01a06559-9d65-7d7b-b045-0acff11e4f98",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-score-i-keep-on-myself",
   title: "The Score I Keep On Myself",
   definition: "points and a light on each of my values, and why that layer is my strongest lever",

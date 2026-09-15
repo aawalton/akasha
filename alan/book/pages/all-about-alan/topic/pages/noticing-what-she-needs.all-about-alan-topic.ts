@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const noticingWhatSheNeeds = {
   id: "01a06559-9d65-77da-96b6-383288fae230",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "noticing-what-she-needs",
   title: "Noticing What She Needs",
   definition: "the doing works, and what fails is seeing that something is wanted",

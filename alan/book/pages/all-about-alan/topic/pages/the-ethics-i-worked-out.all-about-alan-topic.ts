@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theEthicsIWorkedOut = {
   id: "01a06559-9d65-7524-9a5c-6f6ac98e266c",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-ethics-i-worked-out",
   title: "The Ethics I Worked Out",
   definition: "the moral framework I built, and what it still cannot do outside the story",

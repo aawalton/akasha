@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const thePicturesAtTheEdgeOfSleep = {
   id: "01a06559-9d65-7412-a168-d45d54aa37f2",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-pictures-at-the-edge-of-sleep",
   title: "The Pictures At The Edge Of Sleep",
   definition: "the fragments I see as I go under, the one time anything close to picturing happens",

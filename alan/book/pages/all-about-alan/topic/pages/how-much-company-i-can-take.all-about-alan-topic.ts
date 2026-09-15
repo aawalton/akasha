@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howMuchCompanyICanTake = {
   id: "01a06559-9d65-7165-b495-c35f4ece6c27",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-much-company-i-can-take",
   title: "How Much Company I Can Take",
   definition: "the dose of people that pays without crashing the thing that makes it affordable",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const playingTheLongGame = {
   id: "01a06559-9d65-74a4-8e00-75c7a058dad0",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "playing-the-long-game",
   title: "Playing The Long Game",
   definition:

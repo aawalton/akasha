@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howIReadMyself = {
   id: "01a06559-9d65-7cfe-8b44-477d202e7819",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-read-myself",
   title: "How I Read Myself",
   definition: "measuring myself from the outside, because the inside is dark",

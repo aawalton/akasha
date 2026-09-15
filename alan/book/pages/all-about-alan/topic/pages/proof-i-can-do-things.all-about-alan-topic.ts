@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const proofICanDoThings = {
   id: "01a06559-9d65-7ee4-9c61-4d87edae576b",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "proof-i-can-do-things",
   title: "Proof I Can Do Things",
   definition: "the safety I get from evidence that I am capable",

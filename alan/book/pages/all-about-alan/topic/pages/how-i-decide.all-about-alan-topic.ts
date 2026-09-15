@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howIDecide = {
   id: "01a06559-9d65-7446-967f-78677e555d5f",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-decide",
   title: "How I Decide",
   definition: "how I pick what to do, and what stops me picking badly",

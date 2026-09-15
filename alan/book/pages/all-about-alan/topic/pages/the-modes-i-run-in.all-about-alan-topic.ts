@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theModesIRunIn = {
   id: "01a06559-9d65-7612-a8d3-24972f06654d",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-modes-i-run-in",
   title: "The Modes I Run In",
   definition: "the different ways I can run, and what each of them costs to hold",

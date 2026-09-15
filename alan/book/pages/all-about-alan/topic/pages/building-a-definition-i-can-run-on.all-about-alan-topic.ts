@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const buildingADefinitionICanRunOn = {
   id: "01a06559-9d65-73b1-9d60-64d20787d877",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "building-a-definition-i-can-run-on",
   title: "Building A Definition I Can Run On",
   definition: "how I get at a human thing I cannot feel my way into",

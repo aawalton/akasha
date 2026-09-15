@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howICameOutOfComputerScience = {
   id: "01a047c8-d163-726a-89e6-0c342fdaec12",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-i-came-out-of-computer-science",
   title: "How I Came Out Of Computer Science",
   definition: "the trade I trained out of rather than into",

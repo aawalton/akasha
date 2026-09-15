@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howSafetyClimbs = {
   id: "01a06559-9d65-76a1-a749-e49f097efd29",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-safety-climbs",
   title: "How Safety Climbs",
   definition: "what raises my safety, as against what stops it falling",

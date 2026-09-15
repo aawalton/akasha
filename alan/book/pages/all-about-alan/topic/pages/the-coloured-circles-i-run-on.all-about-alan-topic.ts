@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theColouredCirclesIRunOn = {
   id: "01a06559-9d65-7bb9-9f4f-0afda73e1327",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-coloured-circles-i-run-on",
   title: "The Coloured Circles I Run On",
   definition: "colours over the parts of my life, standing in for the prompts I never get",

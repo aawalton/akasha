@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const nothingIDoStartsWithADecision = {
   id: "01a06559-9d65-7521-839e-0c2dbdd01f36",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "nothing-i-do-starts-with-a-decision",
   title: "Nothing I Do Starts With A Decision",
   definition: "acting on what fires rather than on what I resolve to do",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howFarBehindIAmOnPeople = {
   id: "01a06559-9d65-7f8f-a698-bb136cd00e51",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-far-behind-i-am-on-people",
   title: "How Far Behind I Am On People",
   definition: "connection as a debt I carry rather than a tank I refill",

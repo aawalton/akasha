@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const selfImprovement = {
   id: "01a06559-9d65-70b6-855c-8cda636daee2",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "self-improvement",
   title: "Self-Improvement",
   definition: "the one thing everything else I believe compresses down into",

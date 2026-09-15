@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howManyChecksIRun = {
   id: "01a04625-d808-7189-b17c-aebd9448483c",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-many-checks-i-run",
   title: "How Many Checks I Run",
   definition: "how many automatic checks I keep, against what the trade normally keeps",

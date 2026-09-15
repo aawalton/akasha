@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theYearsWithMyParents = {
   id: "01a06559-9d65-7672-88c8-b2eb82240145",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-years-with-my-parents",
   title: "The Years With My Parents",
   definition:

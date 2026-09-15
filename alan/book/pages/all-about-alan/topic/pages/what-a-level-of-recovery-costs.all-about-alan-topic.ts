@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatALevelOfRecoveryCosts = {
   id: "01a06559-9d65-7c84-9dee-d09ecd78b6a5",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-a-level-of-recovery-costs",
   title: "What A Level Of Recovery Costs",
   definition: "the price of a rung in hours, and the fear that price leaves behind",

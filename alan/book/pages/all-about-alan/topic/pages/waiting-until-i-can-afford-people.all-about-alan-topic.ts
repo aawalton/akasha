@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const waitingUntilICanAffordPeople = {
   id: "01a06559-9d65-70d1-8f1b-ace447b8c752",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "waiting-until-i-can-afford-people",
   title: "Waiting Until I Can Afford People",
   definition:

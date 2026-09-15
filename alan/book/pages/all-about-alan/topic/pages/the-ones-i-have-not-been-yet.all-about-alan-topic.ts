@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const theOnesIHaveNotBeenYet = {
   id: "01a06559-9d65-7ce8-bd4e-95ac7352f70b",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "the-ones-i-have-not-been-yet",
   title: "The Ones I Have Not Been Yet",
   definition:

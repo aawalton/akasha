@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const keepingFaithWithMyself = {
   id: "01a06559-9d65-7813-89bc-20f367020a33",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "keeping-faith-with-myself",
   title: "Keeping Faith With Myself",
   definition: "my first value read wide: running true to the me my structures hold",

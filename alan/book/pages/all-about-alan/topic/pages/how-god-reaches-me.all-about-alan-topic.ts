@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const howGodReachesMe = {
   id: "01a06559-9d65-7aa8-841b-ad35e5c83852",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "how-god-reaches-me",
   title: "How God Reaches Me",
   definition: "the right person, book or idea arriving exactly when I needed it",

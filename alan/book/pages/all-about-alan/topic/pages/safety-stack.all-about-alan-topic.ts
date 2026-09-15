@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const safetyStack = {
   id: "01a06559-9d65-746e-904a-971f5291bb0d",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "safety-stack",
   title: "Safety Stack",
   definition: "the layered reading of what I can handle",
