@@ -30,5 +30,15 @@ export const gitPathspec = {
       statement:
         "One run of paths asked of a repository twice is answered without asking git again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Whether a path is ignored is read from the ignore patterns rather than from the git index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A path git tracks that a pattern covers is a fault of the patterns rather than a path held back.",
+    },
   ],
 } as const satisfies Module

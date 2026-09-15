@@ -7,7 +7,7 @@ const HELD = new Map<string, ReadonlySet<string> | null>()
 const APART = "\0"
 
 function ignoring(root: string, paths: readonly string[]): ReadonlySet<string> | null {
-  const proc = ran(root, ["check-ignore", "--stdin", "-z"], {
+  const proc = ran(root, ["check-ignore", "--no-index", "--stdin", "-z"], {
     input: new TextEncoder().encode(paths.join(APART)),
   })
   if (proc.code !== 0 && proc.code !== 1) return null
