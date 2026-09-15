@@ -5,16 +5,17 @@ import { configChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/c
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
+import { grafana } from "akasha/infrastructure/service/cluster/pages/grafana/grafana.service-cluster.ts"
 
-const NAMESPACE = "grafana"
+const NAMESPACE = grafana.namespace
 const SECRETS_NAME = "grafana-secrets"
 const SECRETS_KEYS = ["GRAFANA_ADMIN_PASSWORD", "GRAFANA_DB_RO_PASSWORD"]
-const APP_NAME = "grafana"
-const INSTANCE_NAME = "grafana"
+const APP_NAME = grafana.resourceName
+const INSTANCE_NAME = grafana.resourceName
 const COMPONENT = "visualization"
 const PART_OF = "monitoring"
 const MANAGED_BY = "bootstrap"
-const GRAFANA_IMAGE = "grafana/grafana:11.2.2"
+const GRAFANA_IMAGE = grafana.image
 const INIT_CHOWN_IMAGE = "busybox:1.36"
 
 const NAMESPACE_LABELS = {
@@ -131,12 +132,12 @@ function deploymentYaml(dashboards: Readonly<Record<string, string>>): string {
     apiVersion: "apps/v1",
     kind: "Deployment",
     metadata: {
-      name: "grafana",
+      name: grafana.resourceName,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: grafana.replicas,
       strategy: { type: "Recreate" },
       selector: { matchLabels: SELECTOR_LABELS },
       template: {
@@ -201,7 +202,7 @@ function deploymentYaml(dashboards: Readonly<Record<string, string>>): string {
                   },
                 },
               ],
-              ports: [{ name: "http", containerPort: 3000 }],
+              ports: [{ name: "http", containerPort: grafana.containerPort }],
               resources: {
                 requests: { cpu: "10m", memory: "96Mi" },
                 limits: { memory: "96Mi" },
@@ -214,12 +215,12 @@ function deploymentYaml(dashboards: Readonly<Record<string, string>>): string {
                 readOnlyRootFilesystem: true,
               },
               livenessProbe: {
-                httpGet: { path: "/api/health", port: 3000 },
+                httpGet: { path: "/api/health", port: grafana.containerPort },
                 initialDelaySeconds: 30,
                 periodSeconds: 10,
               },
               readinessProbe: {
-                httpGet: { path: "/api/health", port: 3000 },
+                httpGet: { path: "/api/health", port: grafana.containerPort },
                 initialDelaySeconds: 5,
                 periodSeconds: 5,
               },
@@ -282,7 +283,7 @@ function serviceYaml(): string {
     apiVersion: "v1",
     kind: "Service",
     metadata: {
-      name: "grafana",
+      name: grafana.resourceName,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
@@ -292,7 +293,7 @@ function serviceYaml(): string {
       ports: [
         {
           name: "http",
-          port: 3000,
+          port: grafana.containerPort,
           targetPort: "http",
           protocol: "TCP",
         },
