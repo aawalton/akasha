@@ -33,8 +33,8 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/name/modules/restate/seat-name-restate.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.code.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/observation/seat-turn/modules/seat-pending/pending-from-files/pending-from-files.module.code.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/observation/seat-turn/modules/seat-pending/pending-maintaining/pending-maintaining.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/page/modules/akasha/seat-page-akasha.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/page/modules/beat/seat-page-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/page/modules/history/seat-page-history.module.code.ts"}

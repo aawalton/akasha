@@ -6,7 +6,7 @@ export const seatTurn = {
   slug: "seat-turn",
   definition: "whether an agent in a seat is working",
   parts: [
-    "module/seat-pending",
+    "domain/seat-pending",
     "module/seat-turn-color",
     "module/seat-turn-pending",
     "module/seat-turn-state",

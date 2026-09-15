@@ -1,4 +1,4 @@
-import { runPendingMaintaining } from "akasha/agent/seat/observation/seat-turn/modules/seat-pending/pending-maintaining/pending-maintaining.module.code.ts"
+import { runPendingMaintaining } from "akasha/agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.code.ts"
 
 const NEVER: Promise<never> = new Promise(() => {})
 

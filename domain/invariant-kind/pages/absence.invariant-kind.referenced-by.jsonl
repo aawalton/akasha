@@ -151,9 +151,9 @@
 {"propertySlug":"invariant-kind","path":"agent/seat/oauth-proxy/modules/supervisor-proxy-adoption-decide/supervisor-proxy-adoption-decide.module.ts","id":"01a06838-5a84-7004-bfa3-4f11134ef503"}
 {"propertySlug":"invariant-kind","path":"agent/seat/oauth-proxy/modules/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.ts","id":"01a06838-5a84-7005-8c03-97e98844c99e"}
 {"propertySlug":"invariant-kind","path":"agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.ts","id":"01a06964-d998-7c3e-8f55-91ff918f96ac"}
-{"propertySlug":"invariant-kind","path":"agent/seat/observation/seat-turn/modules/seat-pending/pending-from-files/pending-from-files.module.ts","id":"01a0691b-4f65-762a-b97c-48d97a317e76"}
-{"propertySlug":"invariant-kind","path":"agent/seat/observation/seat-turn/modules/seat-pending/pending-maintaining/pending-maintaining.module.ts","id":"01a0686a-7a57-7e87-825d-ae7e67bf9301"}
 {"propertySlug":"invariant-kind","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.ts","id":"01a0687b-3c85-7000-b60f-9d7b8c037697"}
+{"propertySlug":"invariant-kind","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.ts","id":"01a0691b-4f65-762a-b97c-48d97a317e76"}
+{"propertySlug":"invariant-kind","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.ts","id":"01a0686a-7a57-7e87-825d-ae7e67bf9301"}
 {"propertySlug":"invariant-kind","path":"agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.ts","id":"01a06949-b281-7399-94cc-8935c2846c1f"}
 {"propertySlug":"invariant-kind","path":"agent/seat/page/modules/seat-reading/seat-reading.module.ts","id":"01a05850-0f6a-7ed4-b9e5-6868da68bd0c"}
 {"propertySlug":"invariant-kind","path":"agent/seat/properties/assignment-slug.one-of-property.ts","id":"01a053a2-d0e7-7948-a966-74efed3c62f0"}

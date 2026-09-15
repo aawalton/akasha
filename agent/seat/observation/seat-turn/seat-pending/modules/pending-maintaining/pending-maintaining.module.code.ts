@@ -5,7 +5,7 @@ import { setPending } from "akasha/agent/seat/observation/seat-turn/modules/pend
 import {
   pendingFromFiles,
   type SeatPending,
-} from "akasha/agent/seat/observation/seat-turn/modules/seat-pending/pending-from-files/pending-from-files.module.code.ts"
+} from "akasha/agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.code.ts"
 import { akashaSeatsDirIn } from "akasha/agent/seat/page/modules/akasha/seat-page-akasha.module.code.ts"
 import { akashaSeatsThatExist } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaObservedOf } from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"

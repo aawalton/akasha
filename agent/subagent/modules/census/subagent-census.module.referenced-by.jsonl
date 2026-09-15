@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"agent/seat/observation/seat-turn/modules/seat-pending/pending-from-files/pending-from-files.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"agent/seat/observation/seat-turn/modules/seat-pending/pending-from-files/pending-from-files.module.test.ts"}
+{"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.code.ts"}
+{"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.test.ts"}
 {"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"agent/subagent/modules/census/subagent-census.module.test.ts"}
 {"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"agent/subagent/modules/pageless/subagent-pageless.module.code.ts"}
 {"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"agent/subagent/modules/pageless/subagent-pageless.module.test.ts"}

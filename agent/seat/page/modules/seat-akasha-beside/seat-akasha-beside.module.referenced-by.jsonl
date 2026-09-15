@@ -6,7 +6,7 @@
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/fleet/modules/seat-by-name/seat-by-name.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/fleet/modules/seat-forest/seat-forest.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/observation/seat-turn/modules/seat-pending/pending-maintaining/pending-maintaining.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/page/modules/seat-beside/seat-beside.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/page/modules/writing/seat-page-writing.module.code.ts"}
