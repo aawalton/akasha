@@ -7,7 +7,7 @@ export const collectionPartsUnderTheirPlural = {
   definition: "the shape of a folder gathering under a plural the parts of the collection above",
   code: "ts",
   test: "ts",
-  enabled: false,
+  enabled: true,
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
