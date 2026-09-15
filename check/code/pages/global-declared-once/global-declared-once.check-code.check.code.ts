@@ -4,12 +4,8 @@ import {
   judgedOf,
   SPELT,
 } from "akasha/check/code/pages/global-declared-once/global-declared-once.check-code.decision.code.ts"
-import type {
-  Body,
-  Selector,
-} from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import {
-  FILES,
+  filesBy,
   input,
   textIn,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
@@ -68,10 +64,6 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   return judgedOf(found)
 }
 
-const GLOBALS: Selector<Body> = {
-  named: "the TypeScript akasha compiles",
-  isInput: (path) => compiled(path),
-  from: (change, shadow) => FILES.from(change, shadow).filter((one) => compiled(one.path)),
-}
+const GLOBALS = filesBy("the TypeScript akasha compiles", (path) => compiled(path))
 
 export const globalDeclaredOnce = input(GLOBALS, refusalsIn)

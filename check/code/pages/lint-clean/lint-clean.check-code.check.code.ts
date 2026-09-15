@@ -7,11 +7,7 @@ import {
   skippedIn,
 } from "akasha/check/code/pages/lint-clean/lint-clean.check-code.decision.code.ts"
 import { mirroredOf } from "akasha/check/modules/change-mirror/change-mirror.module.code.ts"
-import type {
-  Body,
-  Selector,
-} from "akasha/check/modules/change-walking/change-walking.module.code.ts"
-import { FILES, input } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { filesBy, input } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { lintedOver } from "akasha/code/running/modules/code-lint/code-lint.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -20,11 +16,7 @@ const IGNORE = ".gitignore"
 
 const CONFIGURED: readonly string[] = [CONFIG, IGNORE]
 
-const LOOKED: Selector<Body> = {
-  named: "the files the linter reads and the configuration naming them",
-  isInput: () => true,
-  from: (change, shadow) => FILES.from(change, shadow),
-}
+const LOOKED = filesBy("the files the linter reads and the configuration naming them", () => true)
 
 function refusalsIn(change: Change): readonly Judged[] {
   const said = change.after(CONFIG)
