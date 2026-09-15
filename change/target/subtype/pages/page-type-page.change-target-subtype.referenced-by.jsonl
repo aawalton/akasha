@@ -1,0 +1,13 @@
+{"propertySlug":"change-target-subtype","path":"change/agent/page-type/add-file-property-extensions/add-file-property-extensions.change-agent.ts","id":"01a08e26-f9a5-707a-9db0-7a5b52d73384"}
+{"propertySlug":"change-target-subtype","path":"change/agent/page-type/add-page-property-types/add-page-property-types.change-agent.ts","id":"01a08d57-ed0e-73b3-b5e9-98cf066c3cc7"}
+{"propertySlug":"change-target-subtype","path":"change/agent/page-type/add-page-type-types/add-page-type-types.change-agent.ts","id":"01a08841-685b-7549-a8a6-d9a63c78b069"}
+{"propertySlug":"change-target-subtype","path":"change/agent/page-type/change-calculation-held-type/change-calculation-held-type.change-agent.ts","id":"01a08e63-dd13-7d9c-b2c7-ac4d653ee737"}
+{"propertySlug":"change-target-subtype","path":"change/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.ts","id":"01a081bd-2930-7f0d-9324-5412a477c845"}
+{"propertySlug":"change-target-subtype","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.ts","id":"01a0828f-8c20-74d5-b11c-d220948452b4"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/page-type/add/add-file-property-extensions/add-file-property-extensions.change-mechanical-page-type.ts","id":"01a09c81-eafc-7383-990d-72343c36051a"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/page-type/add/add-page-property-types/add-page-property-types.change-mechanical-page-type.ts","id":"01a09c87-755c-70d2-9391-9da2c49bcb2b"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/page-type/add/add-page-type-types/add-page-type-types.change-mechanical-page-type.ts","id":"01a09cd3-c095-7c29-9984-4c469f15cc8b"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.ts","id":"01a09c8d-ef19-7434-8f64-db9ac5dcf0e2"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.ts","id":"01a09cce-a06f-7925-9d95-cd27b5141c4e"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.ts","id":"01a0920d-ff8b-71c9-9d19-5de0bfe7f1c1"}
+{"propertySlug":"parts","path":"change/target/subtype/change-target-subtype.page-type.ts","id":"01a07c71-2924-76f9-b37f-a239b7b97045"}

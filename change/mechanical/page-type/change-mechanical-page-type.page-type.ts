@@ -7,11 +7,11 @@ export const changeMechanicalPageType = {
   definition: "a mechanical change acting on a page type and on every page filed under it",
   extends: ["page-type/change-mechanical"],
   parts: [
+    "change-mechanical-page-type/rename-page-type",
     "domain/change-mechanical-page-type-add",
     "domain/change-mechanical-page-type-change",
     "domain/change-mechanical-page-type-move",
     "domain/change-mechanical-page-type-remove",
-    "domain/change-mechanical-page-type-rename",
   ],
   properties: [],
   invariants: [

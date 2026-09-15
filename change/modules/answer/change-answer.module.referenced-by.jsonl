@@ -147,8 +147,8 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-page-type/remove-property-from-page-type.change-mechanical-page-type.code.ts"}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/rename/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts"}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/rename/rename-page-type/rename-page-type.change-mechanical-page-type.test.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/prose/change/change-prose-pattern/change-prose-pattern.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/prose/change/change-prose-pattern/change-prose-pattern.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/address-restating/address-restating.module.code.ts"}
@@ -351,8 +351,8 @@
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/page-type/remove/remove-property-from-page-type/remove-property-from-page-type.change-mechanical-page-type.code.ts"}
-{"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/page-type/rename/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts"}
-{"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/page-type/rename/rename-page-type/rename-page-type.change-mechanical-page-type.test.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/prose/change/change-prose-pattern/change-prose-pattern.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/modules/address-restating/address-restating.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/modules/address-restating/address-restating.module.test.ts"}

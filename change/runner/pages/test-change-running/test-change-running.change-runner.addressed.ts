@@ -285,7 +285,7 @@ export type Changes = {
     typeof import("akasha/change/mechanical/page-type/remove/remove-property-from-page-type/remove-property-from-page-type.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
   "change-mechanical-page-type/rename-page-type": Parameters<
-    typeof import("akasha/change/mechanical/page-type/rename/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts")["runChange"]
+    typeof import("akasha/change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
   "change-mechanical-page-type/sort-property-values-on-every-page": Parameters<
     typeof import("akasha/change/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
