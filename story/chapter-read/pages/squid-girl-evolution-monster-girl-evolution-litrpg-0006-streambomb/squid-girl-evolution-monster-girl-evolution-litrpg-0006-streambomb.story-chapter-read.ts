@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0006Streambomb = {
   id: "01a06730-4fb7-7ae2-ba3e-6b63a0fa2d81",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg-0006-streambomb",
   title: "Streambomb",
   story: "story-read/squid-girl-evolution-monster-girl-evolution-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const speedrunningTheMultiverseComplete0053297FinaleIii = {
   id: "01a06730-4de3-782a-b5c4-836bd0de8978",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0053-297-finale-iii",
   title: "297. Finale (III)",
   story: "story-read/speedrunning-the-multiverse-complete",

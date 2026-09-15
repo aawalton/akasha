@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const speedrunningTheMultiverseComplete00022Plan = {
   id: "01a06730-4de0-7040-bf88-4ec8f59e3539",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0002-2-plan",
   title: "2. Plan",
   story: "story-read/speedrunning-the-multiverse-complete",

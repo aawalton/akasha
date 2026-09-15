@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const speedrunningTheMultiverseComplete0021Book1KindleAudibleLaunch = {
   id: "01a06730-4de0-73f2-9673-4b9afa33f911",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0021-book-1-kindle-audible-launch",
   title: "Book 1 Kindle + Audible Launch!",
   story: "story-read/speedrunning-the-multiverse-complete",

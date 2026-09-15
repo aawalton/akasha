@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0008Fleshmob = {
   id: "01a06730-4fb7-70ce-96f2-f5d03ff22100",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg-0008-fleshmob",
   title: "Fleshmob",
   story: "story-read/squid-girl-evolution-monster-girl-evolution-litrpg",

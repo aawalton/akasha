@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const speedrunningTheMultiverseComplete0050294TheGodOfTime = {
   id: "01a06730-4de3-721d-b3b9-b3b374778862",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0050-294-the-god-of-time",
   title: "294. The God of Time",
   story: "story-read/speedrunning-the-multiverse-complete",

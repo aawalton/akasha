@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const speedrunningTheMultiverseComplete0044288TheChimera = {
   id: "01a06730-4de3-77b0-bd61-2cb52b47d727",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0044-288-the-chimera",
   title: "288. The Chimera",
   story: "story-read/speedrunning-the-multiverse-complete",

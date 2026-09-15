@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const speedrunningTheMultiverseComplete0015260BlackHoleI = {
   id: "01a06730-4de0-7aff-8a7a-3c39bf61f84d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0015-260-black-hole-i",
   title: "260. Black Hole (I) ",
   story: "story-read/speedrunning-the-multiverse-complete",

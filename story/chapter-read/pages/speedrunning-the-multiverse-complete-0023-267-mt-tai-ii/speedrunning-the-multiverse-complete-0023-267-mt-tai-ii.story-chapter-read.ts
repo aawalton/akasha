@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const speedrunningTheMultiverseComplete0023267MtTaiIi = {
   id: "01a06730-4de1-7967-a0b1-1e857ac52000",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0023-267-mt-tai-ii",
   title: "267. Mt. Tai (II) ",
   story: "story-read/speedrunning-the-multiverse-complete",

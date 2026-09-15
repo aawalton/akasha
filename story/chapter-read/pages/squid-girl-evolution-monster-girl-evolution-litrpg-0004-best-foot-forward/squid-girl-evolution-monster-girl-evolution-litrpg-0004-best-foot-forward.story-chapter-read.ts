@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0004BestFootForward = {
   id: "01a06730-4fb6-74e7-a57b-4e51f151a0fd",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg-0004-best-foot-forward",
   title: "Best Foot Forward",
   story: "story-read/squid-girl-evolution-monster-girl-evolution-litrpg",

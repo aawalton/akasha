@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const speedrunningTheMultiverseComplete0038282TheGoddessOfLightIx = {
   id: "01a06730-4de2-7935-bb54-c0b0097ff0ec",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0038-282-the-goddess-of-light-ix",
   title: "282. The Goddess of Light (IX) ",
   story: "story-read/speedrunning-the-multiverse-complete",

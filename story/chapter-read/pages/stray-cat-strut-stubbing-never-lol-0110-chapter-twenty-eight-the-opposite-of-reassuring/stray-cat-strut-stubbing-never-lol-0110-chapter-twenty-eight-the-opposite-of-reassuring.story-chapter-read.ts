@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0110ChapterTwentyEightTheOppositeOfReassuring = {
   id: "01a06730-4e0f-70ad-81fe-d974f788d2b8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0110-chapter-twenty-eight-the-opposite-of-reassuring",
   title: "Chapter Twenty-Eight - The Opposite of Reassuring",
   story: "story-read/stray-cat-strut-stubbing-never-lol",
