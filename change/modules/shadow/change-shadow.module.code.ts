@@ -1,6 +1,5 @@
 import {
   type BodyOf,
-  beyond,
   gathered,
   notText,
   pathsIn,
@@ -33,7 +32,6 @@ import type { Reading } from "akasha/page/index/modules/shape/index-shape.module
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
-  type Cast,
   forgotten,
   type Made,
   type Remembered,
@@ -41,7 +39,6 @@ import {
   type Shadow,
   shadowAsked,
   shadowAt,
-  shadowFor,
   shadowOnto,
 } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
@@ -214,10 +211,6 @@ export function changeOver(root: string, said: Answer, textOf: BodyOf): Change {
   }
 }
 
-function shadowOver(root: string, said: Answer, textOf: BodyOf): Cast {
-  return shadowFor(changeOver(root, said, textOf))
-}
-
 export function worldAt(
   root: string,
   bodyOf: BodyOf,
@@ -290,27 +283,6 @@ export type Ledger = World & { readonly kept: Kept }
 
 export function isLedger(world: World): world is Ledger {
   return "kept" in world
-}
-
-export function worldBefore(world: World): World {
-  if (!isLedger(world)) return world
-  const kept = world.kept
-  const bodies = new Map(kept.bodies)
-  const index = world.index
-  const bodyOf: BodyOf = (path) => (bodies.has(path) ? (bodies.get(path) ?? null) : kept.base(path))
-  return {
-    root: world.root,
-    index,
-    textOf: narrowed(bodyOf),
-    bodyOf,
-    under: world.under,
-    unentered: world.unentered,
-    tracked: world.tracked,
-    names: world.names,
-    base: kept.base,
-    over: kept.over,
-    reaching: world.reaching,
-  }
 }
 
 function beforeIn(kept: Kept): BodyOf {
@@ -431,37 +403,4 @@ export function addedTo(ledger: Ledger, said: Answer): Ledger {
   kept.shadow = null
   kept.index = landing === null ? null : landedIn(kept, settling, landing).index
   return ledger
-}
-
-export type Casting = {
-  readonly whole: Answer
-  readonly base: BodyOf
-  readonly cast: () => Shadow | { readonly refused: string }
-}
-
-function peekedOn(kept: Kept, said: Answer, whole: Answer): Shadow | { readonly refused: string } {
-  const shadow = kept.shadow
-  if (whole.edits.length === 0 && kept.index !== null && shadow !== null) return shadow
-  const made = shadowOnto(
-    kept.reading,
-    changeOver(kept.root, whole, beforeIn(kept)),
-    kept.remembered
-  )
-  if ("refused" in made) return made
-  kept.peeked = { said, was: kept.fresh, reading: kept.reading, made }
-  return made.shadow
-}
-
-export function castingOn(world: World, said: Answer): Casting {
-  if (isLedger(world)) {
-    const kept = world.kept
-    const whole = gathered([kept.fresh, beyond(kept.over, said)])
-    return { whole, base: beforeIn(kept), cast: () => peekedOn(kept, said, whole) }
-  }
-  const whole = gathered([world.over, beyond(world.over, said)])
-  const cast = (): Shadow | { readonly refused: string } => {
-    const made = shadowOver(world.root, whole, world.base)
-    return "refused" in made ? made : made.shadow
-  }
-  return { whole, base: world.base, cast }
 }

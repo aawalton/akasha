@@ -24,10 +24,7 @@ export const changeShadow = {
       invariantKind: "invariant-kind/departure",
       statement: "An edit stating no body leaves that path with nothing after the change.",
     },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A shadow that will not build comes back refused rather than as a shadow.",
-    },
+
     {
       invariantKind: "invariant-kind/departure",
       statement: "A change reads the files and the index through one world.",
@@ -110,18 +107,7 @@ export const changeShadow = {
       invariantKind: "invariant-kind/departure",
       statement: "A ledger has the edits added so far rather than a world for each answer.",
     },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A ledger answers a world reading the ledger as the ledger was at that moment.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "An edit added after that answer leaves that world as that world was.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A world that is no ledger answers itself.",
-    },
+
     {
       invariantKind: "invariant-kind/departure",
       statement: "A ledger reads a path from the edits added to that ledger.",
@@ -168,27 +154,7 @@ export const changeShadow = {
       invariantKind: "invariant-kind/absence",
       statement: "No edit a ledger already settled is settled a second time.",
     },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A world says here how an answer over that world is cast.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A ledger casts such an answer onto the reading that ledger already settled.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "An answer adding no edit to the edits a ledger has is cast as the shadow that ledger answers.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A ledger takes that cast up as its own settle where that answer is added.",
-    },
-    {
-      invariantKind: "invariant-kind/absence",
-      statement: "Nothing such a cast works out reaches the ledger before that answer is added.",
-    },
+
     {
       invariantKind: "invariant-kind/departure",
       statement: "A reach over a ledger adds to that ledger rather than building a second world.",
