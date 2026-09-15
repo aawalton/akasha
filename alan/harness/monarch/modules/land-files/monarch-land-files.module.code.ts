@@ -21,6 +21,7 @@ import {
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import { typeSlugOf } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { importedFrom } from "akasha/page/modules/body/page-body.module.code.ts"
 import { AKASHA as AKASHA_REPO } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
@@ -29,6 +30,12 @@ import { isMissing } from "akasha/util/fs/modules/missing/missing.module.code.ts
 const PUT = "change-mechanical-file/add-if-not-present-file"
 
 const MONARCH_MONTH_TYPE = "01a0680b-2b00-7012-a659-4d8f2c7e2113"
+
+const ACCOUNT_TYPE = "monarch-account"
+
+const CATEGORY_TYPE = "monarch-category"
+
+const TAG_TYPE = "monarch-tag"
 
 const MONTH_NAMES = [
   "January",
@@ -51,12 +58,13 @@ export interface WriteItem {
 }
 
 async function byMonarchId(
-  pages: () => Promise<readonly PageFile[]>
+  pages: () => Promise<readonly PageFile[]>,
+  pageTypeSlug: string
 ): Promise<ReadonlyMap<string, string>> {
   const held = new Map<string, string>()
   for (const page of await pages()) {
     const id = keyOf(page, "monarchId")
-    if (id !== null && id !== "") held.set(id, page.slug)
+    if (id !== null && id !== "") held.set(id, namedAs(pageTypeSlug, page.slug, null))
   }
   return held
 }
@@ -75,10 +83,10 @@ export async function slugMaps(): Promise<SlugMaps> {
     if (id !== null) accountNames.set(id, keyOf(page, "accountDisplayName") ?? page.title)
   }
   return {
-    accounts: await byMonarchId(accountPages),
+    accounts: await byMonarchId(accountPages, ACCOUNT_TYPE),
     accountNames,
-    categories: await byMonarchId(categoryPages),
-    tags: await byMonarchId(tagPages),
+    categories: await byMonarchId(categoryPages, CATEGORY_TYPE),
+    tags: await byMonarchId(tagPages, TAG_TYPE),
   }
 }
 
