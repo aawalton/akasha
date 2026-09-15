@@ -8,23 +8,23 @@ export const pushTapScript = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "simctl push routes by the Simulator Target Bundle key inside the payload.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The payload crosses to the host base64-encoded rather than as literal JSON.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The decoded payload lands at /var/tmp/ops-sim-push-tap.apns on the host.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The deep-link route rides outside `aps` at the payload's top level.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A cold push exits with status 3 when the app is found still running.",
     },
   ],

@@ -9,15 +9,15 @@ export const supervisorGuardTick = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tick that throws and a tick that rejects reach the same handler.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tick never rejects.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The timer that called a tick survives.",
     },
   ],

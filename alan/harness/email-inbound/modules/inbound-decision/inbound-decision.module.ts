@@ -8,11 +8,11 @@ export const inboundDecision = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message on a persona channel from anyone but the watched account is discarded.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message on no persona channel is surfaced.",
     },
   ],

@@ -8,16 +8,16 @@ export const traceShape = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A trace states the phone the trace came from and the count that phone gave the trace.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Everything beyond the place and the moment is optional.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here exists at runtime.",
     },
   ],

@@ -8,15 +8,15 @@ export const healthSnapshot = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A metric with no record is summarised as absent rather than as zero.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A metric counted over a day is totalled by day before the metric is summarised.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A snapshot writes nothing to the store.",
     },
   ],

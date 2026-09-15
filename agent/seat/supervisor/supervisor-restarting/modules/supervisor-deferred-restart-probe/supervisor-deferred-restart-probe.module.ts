@@ -9,11 +9,11 @@ export const supervisorDeferredRestartProbe = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A probe past its tick reads busy rather than holding the tick open.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A probe that faults reads busy rather than idle.",
     },
   ],

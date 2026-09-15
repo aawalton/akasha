@@ -8,15 +8,15 @@ export const sampleShape = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A metric names the unit its readings are counted in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stored reading has the instant the reading arrived on top of the value read.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here exists at runtime beyond the two lists of metrics.",
     },
   ],

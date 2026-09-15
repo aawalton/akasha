@@ -10,16 +10,16 @@ export const supervisorUncertainWaitDecide = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat no longer blocked forgets how long that seat was blocked for.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A block is timed from the first tick that read that block rather than from the seat's start.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One unbroken block escalates once.",
     },
   ],

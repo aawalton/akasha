@@ -8,20 +8,20 @@ export const sampleIdentity = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A reading's identity is its metric with its source and the span the reading covers.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two instants spelled differently for the same moment match.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An instant that will not parse throws rather than counting as nothing.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The value read is no part of a reading's identity.",
     },
   ],

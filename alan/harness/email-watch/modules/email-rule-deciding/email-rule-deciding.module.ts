@@ -8,11 +8,11 @@ export const emailRuleDeciding = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The first rule whose every clause has is the rule that claims the message.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message no rule claims is answered as no rule rather than as a rule.",
     },
   ],

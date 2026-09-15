@@ -8,7 +8,7 @@ export const errorFingerprint = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two faults differing in line numbers or asset hashes alone fingerprint alike.",
     },
   ],

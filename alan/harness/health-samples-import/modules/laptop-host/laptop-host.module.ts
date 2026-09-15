@@ -8,7 +8,7 @@ export const laptopHost = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The laptop is reached at its tailnet address rather than by name.",
     },
   ],

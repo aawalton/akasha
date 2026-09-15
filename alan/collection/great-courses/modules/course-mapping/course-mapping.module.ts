@@ -9,11 +9,11 @@ export const courseMapping = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A course sits on the All Great Courses shelf whatever subjects name that course.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subject shelf the store does not have is warned about rather than refused.",
     },
   ],

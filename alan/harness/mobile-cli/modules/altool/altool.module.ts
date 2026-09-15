@@ -9,25 +9,25 @@ export const altool = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "a non-zero altool exit with no parseable verdict leaves the build unvalidated rather than valid",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Exit code 4 represents a validation that never completed",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Apple error 90683 is the missing NSHealthUpdateUsageDescription rejection",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Apple keys the HealthKit purpose string on the entitlement rather than on the APIs the code calls",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "a step counts as failed when its begin marker appears in the output without its ok marker",
     },

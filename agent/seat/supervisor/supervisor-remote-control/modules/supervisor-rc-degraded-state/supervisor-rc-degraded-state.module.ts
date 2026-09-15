@@ -9,11 +9,11 @@ export const supervisorRcDegradedState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A streak counts degraded readings and healthy readings apart from one another.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A latch with no time is a seat nothing has been alerted about.",
     },
   ],

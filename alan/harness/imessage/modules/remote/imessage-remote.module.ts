@@ -8,15 +8,15 @@ export const imessageRemote = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name is resolved through the address book before any handle is matched.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name matching nobody is a data failure rather than an empty answer.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An address or a number is matched against handles without the address book.",
     },
   ],

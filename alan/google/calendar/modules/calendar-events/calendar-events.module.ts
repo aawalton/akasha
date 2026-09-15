@@ -9,27 +9,27 @@ export const calendarEvents = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A calendar named `primary` means Alan's own calendar.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A write is named as soon as the calendar has taken that write.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A write that emailed the attendees is named as having emailed them.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A delete is named nowhere, because nothing after it can throw.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Answering an invitation the signed-in account is not an attendee on is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A listing is expanded to single events and ordered by start time.",
     },
   ],

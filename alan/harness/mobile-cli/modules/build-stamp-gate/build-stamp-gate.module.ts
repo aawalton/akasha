@@ -9,23 +9,23 @@ export const buildStampGate = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The commit is read back out of the compiled binary with strings.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A binary with no stamp is refused the same as a binary with a wrong commit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every widget extension under PlugIns is checked beside the app binary.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every binary is checked before the gate refuses.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A passing gate says so by printing one fixed marker line.",
     },
   ],

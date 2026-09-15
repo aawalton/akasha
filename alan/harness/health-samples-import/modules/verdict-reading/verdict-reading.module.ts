@@ -8,15 +8,15 @@ export const verdictReading = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading names the subject that reading is of.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A reading never reads as passing or failing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A coverage whose denominator was not worked out says so rather than sitting at zero.",
     },

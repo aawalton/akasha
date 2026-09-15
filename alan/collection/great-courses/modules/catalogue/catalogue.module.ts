@@ -9,15 +9,15 @@ export const catalogue = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One fetch of the listing answers for both the courses and the subjects.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A link leaving the listing's own origin is no course.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A course is identified by the last segment of its own URL.",
     },
   ],

@@ -8,7 +8,7 @@ export const throwableNormalizing = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing thrown is left without a message.",
     },
   ],

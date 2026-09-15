@@ -8,7 +8,7 @@ export const imessageHost = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One machine has the message history every read here goes to.",
     },
   ],

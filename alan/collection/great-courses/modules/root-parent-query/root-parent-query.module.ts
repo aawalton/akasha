@@ -9,15 +9,15 @@ export const rootParentQuery = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A read that failed is refused rather than answered as the sync being due.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Nothing renders a `great-courses-collection` body out of its keys.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "The date the gate reads never moves.",
     },
   ],

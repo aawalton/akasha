@@ -8,7 +8,7 @@ export const driveCredentials = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The scope asked for is read-only.",
     },
   ],

@@ -8,15 +8,15 @@ export const dayString = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A dashed date is read in UTC whatever zone settled the dashed date.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day is stepped from noon rather than from midnight.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day that will not parse is handed back unchanged rather than refused.",
     },
   ],

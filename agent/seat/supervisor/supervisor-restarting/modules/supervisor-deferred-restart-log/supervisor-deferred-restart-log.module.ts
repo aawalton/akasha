@@ -9,16 +9,16 @@ export const supervisorDeferredRestartLog = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A busy reason unchanged is repeated only once a throttle window has passed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A fire while busy says the whole history of busy signals that preceded that fire.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Children that could not be enumerated are said as such rather than as no child.",
     },
   ],

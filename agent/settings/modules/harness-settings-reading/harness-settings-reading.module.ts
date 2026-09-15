@@ -8,20 +8,20 @@ export const harnessSettingsReading = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Where the settings page sits is asked of the index rather than spelled.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The settings body is the file beside that page rather than a second path.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A settings page nothing is slugged for refuses, and the refusal says what is unknown for want of it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The body is narrowed by the shape its reader hands in rather than by one here.",
     },
   ],

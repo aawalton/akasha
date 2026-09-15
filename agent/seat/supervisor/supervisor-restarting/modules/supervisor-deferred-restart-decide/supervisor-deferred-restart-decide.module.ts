@@ -9,15 +9,15 @@ export const supervisorDeferredRestartDecide = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A busy session fires only where the same reason and transcript repeat.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A defer past its ceiling fires however busy the session reads.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An idle streak short of the threshold does not fire.",
     },
   ],

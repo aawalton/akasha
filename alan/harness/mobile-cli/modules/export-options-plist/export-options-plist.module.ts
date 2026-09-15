@@ -8,16 +8,16 @@ export const exportOptionsPlist = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The profile uuids and the certificate hash sit in the plist as shell variable names.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "An app stating no widget bundle id gets no second provisioning-profile entry.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The plist names manual signing rather than automatic.",
     },
   ],

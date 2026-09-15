@@ -9,25 +9,25 @@ export const supervisorArgs = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Parsing stops at the first argument that is not a flag.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A re-exec line has the agent and session that line resumes rather than the old ones.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A resume with a prompt is driven by the prompt rather than by the inbound messages.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A re-exec line has the mode flag the earlier line had.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The headless flag is taken from where the modes are spelled rather than spelled here.",
     },

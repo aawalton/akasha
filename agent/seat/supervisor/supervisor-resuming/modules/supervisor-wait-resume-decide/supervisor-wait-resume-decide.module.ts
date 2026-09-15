@@ -9,15 +9,15 @@ export const supervisorWaitResumeDecide = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A turn that did not end in a death decides nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat that died and was never nudged is nudged without waiting.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The wait doubles with each death past the second and stops at the maximum wait.",
     },
   ],

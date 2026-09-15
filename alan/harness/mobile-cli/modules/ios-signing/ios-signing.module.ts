@@ -10,46 +10,46 @@ export const iosSigning = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The provisioning profile is ensured by ruby embedded in the generated shell script.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "the macbook is assumed to have a ruby with an OpenSSL binding already installed",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "every App Store profile for the bundle id is remade where a capability was just enabled",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "the keychain search list is narrowed to the login keychain alone for the length of the build",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "the App Store Connect .p8 private key is read from the mac's own home directory",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The mac is reached and mended over ssh from the workstation rather than by hand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A signing failure on the mac is the harness's to mend rather than Alan's.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A profile call App Store Connect refuses is no fault of the mac's keychain.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A create App Store Connect answers with a 5xx is asked again three times.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run failing after the delete leaves the bundle no profile until the next run.",
     },
   ],

@@ -9,19 +9,19 @@ export const appiumClient = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "APPIUM_BASE points at the macbook rather than at localhost.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An element reference arrives under the key element-6066-11e4-a52e-4f735466cecf.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "dismissAlert swallows every error dismissAlert meets.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Creating a session is allowed six minutes.",
     },
   ],

@@ -9,32 +9,32 @@ export const esoDay = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day is anchored at noon rather than at the reset that opens the day.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A window's bounds are each worked out against the offset those bounds themselves land in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day that will not parse answers with a window of no length at the epoch.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two days are differenced as calendar days rather than as elapsed hours.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day steps back on the wall clock rather than by a whole day of elapsed time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The reset an instant is counted from is the start of that instant's day window.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A day that will not parse is refused rather than answered with an epoch window.",
     },
   ],

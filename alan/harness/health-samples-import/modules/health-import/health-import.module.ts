@@ -8,16 +8,16 @@ export const healthImport = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A record naming a metric that is not stored is rejected rather than dropped in silence.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A record naming no source is stored under the unattributed source.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Every record is either converted or counted under the reason the record was refused.",
     },

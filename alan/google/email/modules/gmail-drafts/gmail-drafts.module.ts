@@ -9,11 +9,11 @@ export const gmailDrafts = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A draft is built from the same body a sent message would be.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A draft is named as soon as gmail has taken that draft.",
     },
   ],

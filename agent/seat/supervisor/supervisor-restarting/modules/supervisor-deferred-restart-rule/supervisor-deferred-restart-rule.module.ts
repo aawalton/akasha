@@ -8,11 +8,11 @@ export const supervisorDeferredRestartRule = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An unread verdict has the state that verdict was given and does not fire.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Unread defer windows are null rather than a guess at how long to wait.",
     },
   ],

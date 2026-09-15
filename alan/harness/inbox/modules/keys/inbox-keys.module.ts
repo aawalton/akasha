@@ -9,15 +9,15 @@ export const inboxKeys = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every inbox that is counted is named here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An inbox with no key here is written to the day under a rule of its own.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here counts anything or writes anything.",
     },
   ],

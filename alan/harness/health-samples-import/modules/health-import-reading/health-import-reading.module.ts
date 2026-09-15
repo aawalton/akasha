@@ -8,15 +8,15 @@ export const healthImportReading = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run that wrote every record the run read reads as imported.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run that lost records reads as lossy and names the records the run lost.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run that cannot tell which records the run lost reads as unsettled.",
     },
   ],

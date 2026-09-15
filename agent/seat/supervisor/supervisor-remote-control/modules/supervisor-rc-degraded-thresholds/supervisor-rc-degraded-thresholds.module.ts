@@ -10,16 +10,16 @@ export const supervisorRcDegradedThresholds = {
   testFixtures: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The code states the shape, and the fixtures a set of thresholds answering it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The healthy floor is the idle baseline of the connection signature rather than its active start.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A threshold stated in seconds is in milliseconds.",
     },
   ],

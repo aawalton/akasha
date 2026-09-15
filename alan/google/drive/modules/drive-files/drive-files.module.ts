@@ -8,15 +8,15 @@ export const driveFiles = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A URL's `id` query parameter is read before the id its path has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A document Google itself has is told apart by the prefix of its mime type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body Drive answers that is not binary is refused.",
     },
   ],

@@ -8,11 +8,11 @@ export const oauthAppCredentials = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No refresh token is read here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pair is read from the environment at the moment the pair is asked for.",
     },
   ],

@@ -8,15 +8,15 @@ export const gmailHistory = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A starting point Gmail no longer has answers as stale rather than throwing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every page of history is walked before an answer is given.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message named across pages is one message.",
     },
   ],

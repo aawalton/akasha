@@ -8,15 +8,15 @@ export const supervisorMcp = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A dynamic import reaches the browser storage-state export.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tree holding no playwright boots.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A supervisor whose browser MCP cannot be seeded boots without offering that MCP.",
     },
   ],

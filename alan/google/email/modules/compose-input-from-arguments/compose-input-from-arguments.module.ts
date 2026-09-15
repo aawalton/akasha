@@ -8,23 +8,23 @@ export const composeInputFromArguments = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An address list is split on commas as well as on repeated flags.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty address list is left out rather than carried as an empty list.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sender given in angle brackets has the name before the brackets.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Quotation marks around a sender name are dropped.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An attachment is read off the disk before the composition is answered.",
     },
   ],

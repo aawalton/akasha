@@ -9,36 +9,36 @@ export const supervisorRcDegradedDecide = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A tick that read no edge count decides nothing and leaves the streak as that streak was.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A degraded reading alerts only once the degraded streak has reached the debounce streak.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat already latched as alerted is not alerted again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A child younger than the boot settle is given the settle before anything is said about that child.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A child past the settle and under the boot ceiling reads as booting dark rather than as degraded.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A latch clears only once a healthy streak meets the recovery streak and the re-alert cooldown is up.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat resuming quietly for maintenance is not alerted about.",
     },
   ],

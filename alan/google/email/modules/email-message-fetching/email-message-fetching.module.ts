@@ -8,15 +8,15 @@ export const emailMessageFetching = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The Gmail client is made for the call rather than handed in by the caller.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The code that reaches Gmail is loaded when a caller asks rather than at import.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here knows a command line.",
     },
   ],

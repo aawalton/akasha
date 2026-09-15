@@ -8,11 +8,11 @@ export const supervisorConfig = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account's config directory carries symlinks to the shared Claude directories.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A symlink pointing elsewhere is replaced rather than left as the symlink is.",
     },
   ],

@@ -9,24 +9,24 @@ export const supervisorRotationWatch = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An index part way through a refresh leaves the rotation unread rather than unwatched.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A wait on such an index is said once as it opens rather than on every ask.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A wait running past its ceiling gives that round up and says it gave up.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The next ask is scheduled whether or not saying the last one worked.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A throw that is no refresh is said each time it is thrown.",
     },
   ],

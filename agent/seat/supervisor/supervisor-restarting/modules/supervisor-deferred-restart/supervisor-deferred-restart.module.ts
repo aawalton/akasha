@@ -8,23 +8,23 @@ export const supervisorDeferredRestart = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A restart fires once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The timers a restart armed are cleared when that restart fires.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tick still in flight is not joined by the next tick.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A child past the edge cliff overrides busy children rather than deferring on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The ceiling is counted from when the gate was armed rather than from this tick.",
     },
   ],

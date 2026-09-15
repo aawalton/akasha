@@ -8,15 +8,15 @@ export const supervisorResumeNotices = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The notices are composed by the compose module rather than in here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The compose module is imported from beside this module and its function called.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A compose that fails in any way hands back a notice saying so rather than a throw.",
     },

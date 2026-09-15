@@ -8,20 +8,20 @@ export const buildInputSources = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The shell side names the same repo paths the sim run tree delivers to the macbook.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The code side names a fixed path list that no app varies.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The files every shell compiles are handed in rather than looked up here.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads a checkout to find what a build is made from.",
     },
   ],

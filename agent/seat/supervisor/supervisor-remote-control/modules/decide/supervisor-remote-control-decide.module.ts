@@ -9,11 +9,11 @@ export const supervisorRemoteControlDecide = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat is under remote control exactly where that seat is not headless.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A batch answers each seat under its own question and keeps the seat's name.",
     },
   ],

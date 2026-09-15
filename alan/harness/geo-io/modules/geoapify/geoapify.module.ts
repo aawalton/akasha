@@ -8,7 +8,7 @@ export const geoapify = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A url is built without a request being made.",
     },
   ],

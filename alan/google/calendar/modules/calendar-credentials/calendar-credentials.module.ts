@@ -8,11 +8,11 @@ export const calendarCredentials = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service account key arrives with its newlines escaped and is restored here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A default calendar id that is empty counts as no id given.",
     },
   ],

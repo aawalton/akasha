@@ -8,7 +8,7 @@ export const driveFileSchema = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field Drive sends that is not asked for is kept rather than dropped.",
     },
   ],

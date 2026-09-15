@@ -8,15 +8,15 @@ export const emailOperations = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The operations are loaded when a caller asks rather than at import.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The seven modules gathered here answer as a single object.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "A caller reaches the operation a caller wants by the way in naming that operation.",
     },

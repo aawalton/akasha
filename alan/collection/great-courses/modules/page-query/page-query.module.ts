@@ -8,11 +8,11 @@ export const pageQuery = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A truncated population is refused rather than answered as the whole population.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty string held at a key reads as nothing rather than as an empty answer.",
     },
   ],

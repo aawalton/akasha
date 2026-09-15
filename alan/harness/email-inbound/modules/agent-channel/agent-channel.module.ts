@@ -8,11 +8,11 @@ export const agentChannel = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The header values are joined and read as one lowercase string.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The first channel address that string has names the handle.",
     },
   ],

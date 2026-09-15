@@ -8,15 +8,15 @@ export const healthImportCheckpoint = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A checkpoint is keyed by the readings imported rather than by when.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A checkpoint that will not parse is read as no checkpoint.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A finished import clears its checkpoint.",
     },
   ],

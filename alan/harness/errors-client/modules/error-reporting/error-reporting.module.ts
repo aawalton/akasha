@@ -8,7 +8,7 @@ export const errorReporting = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A report that fails to send raises nothing to the caller.",
     },
   ],

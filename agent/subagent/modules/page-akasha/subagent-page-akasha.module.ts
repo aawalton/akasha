@@ -8,7 +8,7 @@ export const subagentPageAkasha = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A sweep of the pages under a seat that was refused answers why those pages did not go.",
     },

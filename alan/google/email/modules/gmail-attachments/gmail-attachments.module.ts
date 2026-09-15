@@ -8,15 +8,15 @@ export const gmailAttachments = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A part is an attachment only where that part has both a filename and an id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nested parts are walked to the bottom.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A part naming no type is treated as a stream of bytes.",
     },
   ],

@@ -8,7 +8,7 @@ export const gmailCredentials = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The scopes asked for allow writing as well as reading.",
     },
   ],

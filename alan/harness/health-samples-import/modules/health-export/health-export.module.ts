@@ -8,19 +8,19 @@ export const healthExport = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The export is read a line at a time rather than parsed as a single document.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A line that is no record is answered as nothing rather than throwing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An Apple date has its own offset and is read as the instant that date names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The script narrows the export to the metrics asked for before the export leaves the laptop.",
     },

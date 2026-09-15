@@ -8,7 +8,7 @@ export const stackNormalizing = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A frame repeated directly after itself is dropped.",
     },
   ],

@@ -8,7 +8,7 @@ export const calendarClient = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The default calendar id is read when the client is made.",
     },
   ],

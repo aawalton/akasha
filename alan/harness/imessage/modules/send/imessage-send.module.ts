@@ -8,27 +8,27 @@ export const imessageSend = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every value the script has is base64 encoded before the shell reads the value.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An attachment is written to a temporary folder the script removes on exit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each send is its own call to osascript rather than a statement sharing one call.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A send that landed is echoed before the next send runs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A send that raised stops the script, so nothing after it is echoed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The words a marker is read as are written here rather than where it is read.",
     },
   ],

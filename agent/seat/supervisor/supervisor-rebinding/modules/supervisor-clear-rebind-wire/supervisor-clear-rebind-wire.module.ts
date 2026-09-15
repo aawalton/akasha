@@ -8,15 +8,15 @@ export const supervisorClearRebindWire = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rotation is claimed once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two watchers cannot rebind onto one session.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A deferred restart still there when a rotation lands is cancelled before the rebind.",
     },

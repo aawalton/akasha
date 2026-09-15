@@ -8,7 +8,7 @@ export const globalErrorCapture = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The handlers are installed once however often this module is called.",
     },
   ],

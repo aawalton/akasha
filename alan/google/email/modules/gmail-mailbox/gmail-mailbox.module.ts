@@ -8,31 +8,31 @@ export const gmailMailbox = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An access token within a minute of expiring is refreshed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A summary has only the seven headers the mailbox asks Gmail for.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A history id Gmail no longer has answers as nothing rather than as a fault.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An unanswered history id is followed by a listing of the whole inbox.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Bytes are sent unchanged rather than built from a composition.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This mailbox and `gmail-client` are the same Gmail client.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Raw message bytes and a raw send are reached through `gmail-messages`.",
     },
   ],

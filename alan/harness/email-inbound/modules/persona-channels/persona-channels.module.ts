@@ -9,11 +9,11 @@ export const personaChannels = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A persona stating no email address is on no channel.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An address is lowercased before anything matches a header against it.",
     },
   ],

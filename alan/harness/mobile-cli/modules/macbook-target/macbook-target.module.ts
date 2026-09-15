@@ -8,15 +8,15 @@ export const macbookTarget = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The host is the fixed address 100.64.0.2 rather than a resolvable name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The key path is held with its leading tilde unexpanded.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No page or flag states a different macbook.",
     },
   ],

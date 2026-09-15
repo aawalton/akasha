@@ -8,19 +8,19 @@ export const oauthRefreshToken = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One consent mints one token, and calendar, drive and mail all read that token.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A token minted for one product alone is read where the shared token is unset.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The token is read from the environment at the moment the token is asked for.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The app's own id and secret are answered beside the token as one credential set.",
     },
   ],

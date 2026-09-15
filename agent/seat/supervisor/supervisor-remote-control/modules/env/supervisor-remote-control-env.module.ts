@@ -8,7 +8,7 @@ export const supervisorRemoteControlEnv = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A spawn that omits remote control says it omitted remote control.",
     },
   ],

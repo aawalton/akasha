@@ -9,23 +9,23 @@ export const localCutLock = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The mac build mutex engages only after script delivery.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The lock sits at a fixed path in the home directory rather than in a repo.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A lock whose holder is no longer alive is stolen rather than waited on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A lock file that will not parse raises rather than being stolen.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The lock is released only by the process whose pid the file names.",
     },
   ],

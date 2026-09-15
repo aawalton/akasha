@@ -8,19 +8,19 @@ export const sync = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A course the collection already has is skipped rather than fetched.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The date is recorded before the summary counting whether the date was recorded.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Failing to record the sync date counts as a failure in the summary.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One course failing does not stop the courses after that course.",
     },
   ],

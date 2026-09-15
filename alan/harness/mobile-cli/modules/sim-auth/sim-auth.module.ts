@@ -9,21 +9,21 @@ export const simAuth = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The email and password come from the environment rather than from a value in this file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The throwaway identity and the real identity read from separate environment variables.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The real identity is admitted only as a deliberate read-only opt-in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "SUPABASE_STORAGE_KEY is the localStorage key the app's supabase client reads.",
     },
   ],

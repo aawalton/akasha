@@ -8,20 +8,20 @@ export const gmailInboundAdapter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The summary the caller already holds is shaped rather than fetched again.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches Gmail.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Whether Alan sent the message is read off the SENT label rather than off the sender.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Both the To and the Cc headers are searched for a persona's channel.",
     },
   ],

@@ -8,7 +8,7 @@ export const courseTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every field the catalogue hands over is read-only.",
     },
   ],

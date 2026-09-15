@@ -8,15 +8,15 @@ export const syncRun = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One item failing makes the whole run fail.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "No `sync-run` row is opened or settled.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The run happens and is said aloud rather than refused for holding no row.",
     },
   ],

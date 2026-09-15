@@ -8,15 +8,15 @@ export const oauthCallback = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A callback URL naming an error is refused rather than read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The redirect URI is rebuilt without the query the callback came back with.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Quotation marks around a pasted URL are dropped before the URL is parsed.",
     },
   ],

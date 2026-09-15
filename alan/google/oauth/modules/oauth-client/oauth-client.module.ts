@@ -8,15 +8,15 @@ export const oauthClient = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The OAuth2 handed in is the type the client comes back as.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No `@googleapis` package is reached from here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The refresh token is set on the client before the client is handed back.",
     },
   ],

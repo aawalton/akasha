@@ -8,7 +8,7 @@ export const calendarAuth = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a call made as Alan himself can answer an invitation.",
     },
   ],

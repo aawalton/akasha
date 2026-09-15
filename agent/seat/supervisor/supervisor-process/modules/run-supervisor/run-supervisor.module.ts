@@ -9,11 +9,11 @@ export const runSupervisor = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat's own scope is opened before that seat's supervisor starts.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat whose scope was opened before is opened again by doing nothing.",
     },
   ],

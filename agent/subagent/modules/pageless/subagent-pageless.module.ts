@@ -9,37 +9,37 @@ export const subagentPageless = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What is at work is asked of the seat's transcript rather than of the page index.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An index cannot answer for a page that is not in it, which is what is looked for.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A compacted transcript names no agent id and so names nothing as at work.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A transcript naming nothing at work is read as no evidence rather than as none.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A subagent whose launch the transcript has not folded yet is named by no agent id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subagent the transcript names by no agent id is counted rather than named.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subagent dispatched a moment ago is at work with no page until one lands.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes a page, takes a page away, or reads a transcript itself.",
     },
   ],

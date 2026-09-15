@@ -8,11 +8,11 @@ export const errorReport = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A report naming a key the shape does not have is refused whole.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every app that may report is named here.",
     },
   ],

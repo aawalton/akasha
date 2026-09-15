@@ -8,11 +8,11 @@ export const sendUpdatesNarrowing = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A send-updates value outside the three is refused rather than defaulted.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Saying nothing about send-updates is not asking for `none`.",
     },
   ],

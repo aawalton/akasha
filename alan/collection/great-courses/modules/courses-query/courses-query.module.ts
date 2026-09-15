@@ -8,7 +8,7 @@ export const coursesQuery = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row holding no id or no slug is left out of the index.",
     },
   ],
