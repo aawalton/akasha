@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixChristmasInTheCity = {
   id: "01a0676a-d71a-703a-8c60-097fa4e01c2a",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-christmas-in-the-city",
   title: "Christmas in the City",
   partOfCollections: ["artist/pentatonix"],

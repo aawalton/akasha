@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixDancingOnMyOwnRobynCover = {
   id: "01a0676a-d71b-7061-82df-28ffcb0dd6ad",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-dancing-on-my-own-robyn-cover",
   title: "Dancing On My Own (Robyn Cover)",
   partOfCollections: ["artist/pentatonix"],

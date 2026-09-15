@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const metallicaRideTheLightningDeluxeRemaster = {
   id: "01a0676a-d728-7004-924d-3292ed32c25e",
-  type: "release",
+  type: "page-type/release",
   slug: "metallica-ride-the-lightning-deluxe-remaster",
   title: "Ride The Lightning (Deluxe Remaster)",
   partOfCollections: ["artist/metallica"],

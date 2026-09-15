@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallShropshireHills = {
   id: "01a0676a-d728-707d-bb73-acdad60eba5f",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-shropshire-hills",
   title: "Shropshire Hills",
   partOfCollections: ["artist/paul-cardall"],

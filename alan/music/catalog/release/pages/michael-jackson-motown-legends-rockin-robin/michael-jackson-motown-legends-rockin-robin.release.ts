@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJacksonMotownLegendsRockinRobin = {
   id: "01a0676a-d725-700c-b141-271511224794",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-motown-legends-rockin-robin",
   title: "Motown Legends: Rockin' Robin",
   partOfCollections: ["artist/michael-jackson"],

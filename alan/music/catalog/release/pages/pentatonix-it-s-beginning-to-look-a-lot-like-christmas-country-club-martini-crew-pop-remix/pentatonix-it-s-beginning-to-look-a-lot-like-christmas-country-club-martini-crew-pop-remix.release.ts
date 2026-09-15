@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixItSBeginningToLookALotLikeChristmasCountryClubMartiniCrewPopRemix = {
   id: "01a0676a-d722-700d-9061-b7c81486ef4a",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-it-s-beginning-to-look-a-lot-like-christmas-country-club-martini-crew-pop-remix",
   title: "It's Beginning To Look A Lot Like Christmas (Country Club Martini Crew Pop Remix)",
   partOfCollections: ["artist/pentatonix"],

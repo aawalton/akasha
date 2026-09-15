@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const nickelCreek2LiveFromTheFoxTheater = {
   id: "01a0676a-d723-704e-ad9c-e7ea38a1d00b",
-  type: "release",
+  type: "page-type/release",
   slug: "nickel-creek-2-live-from-the-fox-theater",
   title: "Live from the Fox Theater",
   partOfCollections: ["artist/nickel-creek"],

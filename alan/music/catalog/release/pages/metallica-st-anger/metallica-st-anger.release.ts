@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const metallicaStAnger = {
   id: "01a0676a-d72a-700e-903c-ef93bae714a5",
-  type: "release",
+  type: "page-type/release",
   slug: "metallica-st-anger",
   title: "St. Anger",
   partOfCollections: ["artist/metallica"],

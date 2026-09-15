@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJacksonLookingBackToYesterday = {
   id: "01a0676a-d723-7062-8605-8b785b2c9d68",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-looking-back-to-yesterday",
   title: "Looking Back To Yesterday",
   partOfCollections: ["artist/michael-jackson"],

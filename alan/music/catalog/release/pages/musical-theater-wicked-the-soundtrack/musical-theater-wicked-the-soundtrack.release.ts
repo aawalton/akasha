@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const musicalTheaterWickedTheSoundtrack = {
   id: "01a0676a-d731-701a-8c19-5277238d1458",
-  type: "release",
+  type: "page-type/release",
   slug: "musical-theater-wicked-the-soundtrack",
   title: "Wicked: The Soundtrack",
   partOfCollections: ["release-collection/musical-theater"],

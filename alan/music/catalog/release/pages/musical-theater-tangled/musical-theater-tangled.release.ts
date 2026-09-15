@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const musicalTheaterTangled = {
   id: "01a0676a-d72c-7002-bacc-04a5342562c3",
-  type: "release",
+  type: "page-type/release",
   slug: "musical-theater-tangled",
   title: "Tangled",
   partOfCollections: ["release-collection/musical-theater"],

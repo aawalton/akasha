@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallTheShoresOfNormandy = {
   id: "01a0676a-d72e-7009-87fc-93946768e747",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-the-shores-of-normandy",
   title: "The Shores of Normandy",
   partOfCollections: ["artist/paul-cardall"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallAllISeeIsSnow = {
   id: "01a0676a-d716-701d-8413-6cf77f32ee94",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-all-i-see-is-snow",
   title: "All I See Is Snow",
   partOfCollections: ["artist/paul-cardall"],

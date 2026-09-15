@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJacksonImmortal = {
   id: "01a0676a-d721-705c-afdc-b01735c8ffe4",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-immortal",
   title: "Immortal",
   partOfCollections: ["artist/michael-jackson"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const nickelCreek2ReasonSWhyTheVeryBest = {
   id: "01a0676a-d727-7053-98ad-ed6385a61fad",
-  type: "release",
+  type: "page-type/release",
   slug: "nickel-creek-2-reason-s-why-the-very-best",
   title: "Reason's Why (The Very Best)",
   partOfCollections: ["artist/nickel-creek"],

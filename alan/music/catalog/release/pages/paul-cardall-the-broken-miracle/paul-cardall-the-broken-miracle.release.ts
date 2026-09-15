@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallTheBrokenMiracle = {
   id: "01a0676a-d72c-7038-a013-6b63371c910b",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-the-broken-miracle",
   title: "The Broken Miracle",
   partOfCollections: ["artist/paul-cardall"],

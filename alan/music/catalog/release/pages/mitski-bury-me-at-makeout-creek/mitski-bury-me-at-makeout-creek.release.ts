@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const mitskiBuryMeAtMakeoutCreek = {
   id: "01a0676a-d719-7046-8add-f1f5cd27162d",
-  type: "release",
+  type: "page-type/release",
   slug: "mitski-bury-me-at-makeout-creek",
   title: "Bury Me At Makeout Creek",
   partOfCollections: ["artist/mitski"],

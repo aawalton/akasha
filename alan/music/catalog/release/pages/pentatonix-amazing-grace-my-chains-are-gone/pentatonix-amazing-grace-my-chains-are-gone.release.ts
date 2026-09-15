@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixAmazingGraceMyChainsAreGone = {
   id: "01a0676a-d717-7000-a8e7-8aefa4f0c9ec",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-amazing-grace-my-chains-are-gone",
   title: "Amazing Grace (My Chains Are Gone)",
   partOfCollections: ["artist/pentatonix"],

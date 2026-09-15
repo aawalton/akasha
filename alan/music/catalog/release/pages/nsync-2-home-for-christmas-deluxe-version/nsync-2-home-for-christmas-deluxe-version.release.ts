@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const nsync2HomeForChristmasDeluxeVersion = {
   id: "01a0676a-d720-7053-a4e1-334115582199",
-  type: "release",
+  type: "page-type/release",
   slug: "nsync-2-home-for-christmas-deluxe-version",
   title: "Home For Christmas (Deluxe Version)",
   partOfCollections: ["artist/nsync"],

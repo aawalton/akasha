@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJacksonThriller = {
   id: "01a0676a-d72e-7034-b98c-ef8a98a7a914",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-thriller",
   title: "Thriller",
   partOfCollections: ["artist/michael-jackson"],

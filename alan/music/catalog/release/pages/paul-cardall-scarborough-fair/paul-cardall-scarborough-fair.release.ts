@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallScarboroughFair = {
   id: "01a0676a-d728-7051-843f-2c249df0b190",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-scarborough-fair",
   title: "Scarborough Fair",
   partOfCollections: ["artist/paul-cardall"],

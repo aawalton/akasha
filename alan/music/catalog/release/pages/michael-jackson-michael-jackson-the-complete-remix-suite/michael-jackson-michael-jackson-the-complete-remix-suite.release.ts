@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJacksonMichaelJacksonTheCompleteRemixSuite = {
   id: "01a0676a-d724-705b-96f2-bc38ebb171d0",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-michael-jackson-the-complete-remix-suite",
   title: "Michael Jackson: The Complete Remix Suite",
   partOfCollections: ["artist/michael-jackson"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const nsync2GreatestHits = {
   id: "01a0676a-d71f-702a-bcfe-96031fac8f4c",
-  type: "release",
+  type: "page-type/release",
   slug: "nsync-2-greatest-hits",
   title: "Greatest Hits",
   partOfCollections: ["artist/nsync"],

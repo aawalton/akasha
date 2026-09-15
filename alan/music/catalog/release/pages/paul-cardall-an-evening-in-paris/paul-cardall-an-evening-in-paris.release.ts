@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallAnEveningInParis = {
   id: "01a0676a-d717-700f-a4c9-e2d9252f84f7",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-an-evening-in-paris",
   title: "An Evening in Paris",
   partOfCollections: ["artist/paul-cardall"],

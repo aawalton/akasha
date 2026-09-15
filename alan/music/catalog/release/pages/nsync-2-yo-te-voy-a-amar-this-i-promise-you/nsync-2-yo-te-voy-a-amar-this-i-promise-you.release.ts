@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const nsync2YoTeVoyAAmarThisIPromiseYou = {
   id: "01a0676a-d732-7000-9c63-a315b899aa7c",
-  type: "release",
+  type: "page-type/release",
   slug: "nsync-2-yo-te-voy-a-amar-this-i-promise-you",
   title: "Yo Te Voy A Amar (This I Promise You)",
   partOfCollections: ["artist/nsync"],

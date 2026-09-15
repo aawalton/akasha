@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallFocusStudyWithPeacefulPianoMusicRemastered2025 = {
   id: "01a0676a-d71e-701a-9354-645e15fa6600",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-focus-study-with-peaceful-piano-music-remastered-2025",
   title: "Focus & Study with Peaceful Piano Music (Remastered 2025)",
   partOfCollections: ["artist/paul-cardall"],

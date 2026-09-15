@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const musicalTheaterFrozenOriginalMotionPictureSoundtrackDeluxeEdition = {
   id: "01a0676a-d71e-7043-9a42-e323cbfd0076",
-  type: "release",
+  type: "page-type/release",
   slug: "musical-theater-frozen-original-motion-picture-soundtrack-deluxe-edition",
   title: "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
   partOfCollections: ["release-collection/musical-theater"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallPeacefulPiano = {
   id: "01a0676a-d726-7068-834f-d3efaec69a3e",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-peaceful-piano",
   title: "Peaceful Piano",
   partOfCollections: ["artist/paul-cardall"],

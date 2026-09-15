@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixEvergreen = {
   id: "01a0676a-d71d-702f-acf4-0be1a1d28114",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-evergreen",
   title: "Evergreen",
   partOfCollections: ["artist/pentatonix"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const mitskiLoveMeMoreClarkRemix = {
   id: "01a0676a-d723-7074-994d-de311f849da6",
-  type: "release",
+  type: "page-type/release",
   slug: "mitski-love-me-more-clark-remix",
   title: "Love Me More (Clark Remix)",
   partOfCollections: ["artist/mitski"],

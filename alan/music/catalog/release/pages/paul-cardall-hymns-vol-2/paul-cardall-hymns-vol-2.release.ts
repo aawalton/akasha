@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallHymnsVol2 = {
   id: "01a0676a-d720-7083-89f6-24bdef534891",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-hymns-vol-2",
   title: "Hymns, Vol. 2",
   partOfCollections: ["artist/paul-cardall"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixBahHumbug = {
   id: "01a0676a-d718-7011-95f1-886e01c381e6",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-bah-humbug",
   title: "Bah Humbug",
   partOfCollections: ["artist/pentatonix"],

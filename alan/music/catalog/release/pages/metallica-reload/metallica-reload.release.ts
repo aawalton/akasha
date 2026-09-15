@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const metallicaReload = {
   id: "01a0676a-d727-7063-b22f-b91d364cb56c",
-  type: "release",
+  type: "page-type/release",
   slug: "metallica-reload",
   title: "Reload",
   partOfCollections: ["artist/metallica"],

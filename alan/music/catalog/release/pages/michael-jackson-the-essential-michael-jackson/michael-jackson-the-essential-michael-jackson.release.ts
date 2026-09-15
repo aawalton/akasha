@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJacksonTheEssentialMichaelJackson = {
   id: "01a0676a-d72d-700a-8d82-3257ee6a7dee",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-the-essential-michael-jackson",
   title: "The Essential Michael Jackson",
   partOfCollections: ["artist/michael-jackson"],

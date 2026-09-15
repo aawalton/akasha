@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallDailyDevotions = {
   id: "01a0676a-d71b-704b-bded-e8ba3a943278",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-daily-devotions",
   title: "Daily Devotions",
   partOfCollections: ["artist/paul-cardall"],

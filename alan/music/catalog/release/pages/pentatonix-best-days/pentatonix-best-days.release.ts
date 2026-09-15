@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixBestDays = {
   id: "01a0676a-d718-7041-bb55-aeffd138e4d2",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-best-days",
   title: "Best Days",
   partOfCollections: ["artist/pentatonix"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixCreep = {
   id: "01a0676a-d71b-703c-a8d0-fcd21cd56736",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-creep",
   ownLength: 2.45,
   ownProgress: 2.45,

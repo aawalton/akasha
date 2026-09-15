@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJacksonHelloWorldTheMotownSoloCollection = {
   id: "01a0676a-d720-702a-bd2b-96bc9b64f7c3",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-hello-world-the-motown-solo-collection",
   title: "Hello World - The Motown Solo Collection",
   partOfCollections: ["artist/michael-jackson"],

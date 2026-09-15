@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJacksonPureMichaelMotownACappella = {
   id: "01a0676a-d727-7034-a64b-11963678b2ab",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-pure-michael-motown-a-cappella",
   title: "Pure Michael: Motown A Cappella",
   partOfCollections: ["artist/michael-jackson"],

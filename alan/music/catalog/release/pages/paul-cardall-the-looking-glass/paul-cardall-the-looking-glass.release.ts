@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallTheLookingGlass = {
   id: "01a0676a-d72d-7035-a618-716eb603f071",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-the-looking-glass",
   title: "The Looking Glass",
   partOfCollections: ["artist/paul-cardall"],

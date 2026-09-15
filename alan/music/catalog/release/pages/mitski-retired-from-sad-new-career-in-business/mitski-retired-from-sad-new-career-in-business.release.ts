@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const mitskiRetiredFromSadNewCareerInBusiness = {
   id: "01a0676a-d727-7070-9c01-77d1fe6efc84",
-  type: "release",
+  type: "page-type/release",
   slug: "mitski-retired-from-sad-new-career-in-business",
   title: "Retired from Sad, New Career in Business",
   partOfCollections: ["artist/mitski"],

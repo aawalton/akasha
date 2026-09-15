@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallAscensusChristiAPianoRhapsody = {
   id: "01a0676a-d717-7037-afe8-b19dad66132a",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-ascensus-christi-a-piano-rhapsody",
   title: "Ascensus Christi: A Piano Rhapsody",
   partOfCollections: ["artist/paul-cardall"],

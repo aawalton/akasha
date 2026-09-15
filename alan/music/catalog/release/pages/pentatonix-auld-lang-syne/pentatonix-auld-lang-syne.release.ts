@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixAuldLangSyne = {
   id: "01a0676a-d717-7040-b704-fa50c06c6ba0",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-auld-lang-syne",
   title: "Auld Lang Syne",
   partOfCollections: ["artist/pentatonix"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const nsync2NSyncUkVersion = {
   id: "01a0676a-d725-703f-855c-121c9e7c4edd",
-  type: "release",
+  type: "page-type/release",
   slug: "nsync-2-n-sync-uk-version",
   title: "'N Sync UK Version",
   partOfCollections: ["artist/nsync"],

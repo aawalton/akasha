@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const metallicaMothIntoFlameLive = {
   id: "01a0676a-d725-7008-bcaa-fa9b1c83a2b5",
-  type: "release",
+  type: "page-type/release",
   slug: "metallica-moth-into-flame-live",
   title: "Moth Into Flame (Live)",
   partOfCollections: ["artist/metallica"],

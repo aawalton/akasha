@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixHappyBirthdayBeautiful = {
   id: "01a0676a-d71f-704a-a617-24bbd8cf7563",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-happy-birthday-beautiful",
   title: "Happy Birthday Beautiful",
   partOfCollections: ["artist/pentatonix"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJackson20thCenturyMastersTheMillenniumCollectionBestOfMichaelJackson = {
   id: "01a0676a-d714-7023-b257-73a64cadfc8f",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-20th-century-masters-the-millennium-collection-best-of-michael-jackson",
   title: "20th Century Masters: The Millennium Collection: Best of Michael Jackson",
   partOfCollections: ["artist/michael-jackson"],

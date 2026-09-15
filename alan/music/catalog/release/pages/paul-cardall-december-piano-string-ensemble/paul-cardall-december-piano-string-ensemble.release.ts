@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallDecemberPianoStringEnsemble = {
   id: "01a0676a-d71c-7000-ac3a-8f3b7656e086",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-december-piano-string-ensemble",
   title: "December (Piano & String Ensemble)",
   partOfCollections: ["artist/paul-cardall"],

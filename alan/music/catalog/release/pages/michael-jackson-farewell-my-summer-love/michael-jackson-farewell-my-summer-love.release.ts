@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJacksonFarewellMySummerLove = {
   id: "01a0676a-d71d-7063-8156-589740d2a1b9",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-farewell-my-summer-love",
   title: "Farewell My Summer Love",
   partOfCollections: ["artist/michael-jackson"],

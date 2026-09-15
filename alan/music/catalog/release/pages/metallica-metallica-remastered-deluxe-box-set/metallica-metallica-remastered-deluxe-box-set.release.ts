@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const metallicaMetallicaRemasteredDeluxeBoxSet = {
   id: "01a0676a-d724-7054-9cf4-c161b637a87b",
-  type: "release",
+  type: "page-type/release",
   slug: "metallica-metallica-remastered-deluxe-box-set",
   title: "Metallica (Remastered Deluxe Box Set)",
   partOfCollections: ["artist/metallica"],

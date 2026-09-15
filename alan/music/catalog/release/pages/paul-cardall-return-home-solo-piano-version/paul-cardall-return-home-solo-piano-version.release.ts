@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallReturnHomeSoloPianoVersion = {
   id: "01a0676a-d727-7072-964a-52fc862427b4",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-return-home-solo-piano-version",
   title: "Return Home (Solo Piano Version)",
   partOfCollections: ["artist/paul-cardall"],

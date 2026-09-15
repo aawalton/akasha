@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallSignOfTheTimes = {
   id: "01a0676a-d729-7007-8a00-6a2bb1582225",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-sign-of-the-times",
   title: "Sign of the Times",
   partOfCollections: ["artist/paul-cardall"],

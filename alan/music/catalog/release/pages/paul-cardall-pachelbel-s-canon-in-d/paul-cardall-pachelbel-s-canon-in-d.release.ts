@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const paulCardallPachelbelSCanonInD = {
   id: "01a0676a-d726-7057-963e-468663da93bb",
-  type: "release",
+  type: "page-type/release",
   slug: "paul-cardall-pachelbel-s-canon-in-d",
   title: "Pachelbel's Canon in D",
   partOfCollections: ["artist/paul-cardall"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJacksonXscapeTrackByTrackCommentary = {
   id: "01a0676a-d731-7044-9933-558248f4cee1",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-xscape-track-by-track-commentary",
   title: "XSCAPE - Track by Track Commentary",
   partOfCollections: ["artist/michael-jackson"],

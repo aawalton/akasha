@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJacksonThrillerSteveAokiMidnightHourRemix = {
   id: "01a0676a-d72e-7037-a54d-f317a89e541c",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-thriller-steve-aoki-midnight-hour-remix",
   title: "Thriller (Steve Aoki Midnight Hour Remix)",
   partOfCollections: ["artist/michael-jackson"],

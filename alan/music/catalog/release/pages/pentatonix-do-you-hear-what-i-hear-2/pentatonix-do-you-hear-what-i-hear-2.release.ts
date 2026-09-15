@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixDoYouHearWhatIHear2 = {
   id: "01a0676a-d71c-701c-b9d8-d0ed245a7f09",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-do-you-hear-what-i-hear-2",
   title: "Do You Hear What I Hear?",
   partOfCollections: ["artist/pentatonix"],

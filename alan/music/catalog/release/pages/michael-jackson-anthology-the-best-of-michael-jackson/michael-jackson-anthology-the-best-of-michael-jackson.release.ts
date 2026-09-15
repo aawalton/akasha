@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJacksonAnthologyTheBestOfMichaelJackson = {
   id: "01a0676a-d717-7025-ac7d-7c480b0da0e4",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-anthology-the-best-of-michael-jackson",
   title: "Anthology: The Best Of Michael Jackson",
   partOfCollections: ["artist/michael-jackson"],

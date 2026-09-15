@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJacksonTheOriginalSoulOfMichaelJackson = {
   id: "01a0676a-d72d-704c-8d10-e877f29a6c5f",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-the-original-soul-of-michael-jackson",
   title: "The Original Soul Of Michael Jackson",
   partOfCollections: ["artist/michael-jackson"],

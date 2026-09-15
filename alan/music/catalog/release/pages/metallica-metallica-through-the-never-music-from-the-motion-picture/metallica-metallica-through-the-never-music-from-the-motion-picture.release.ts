@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const metallicaMetallicaThroughTheNeverMusicFromTheMotionPicture = {
   id: "01a0676a-d724-7055-9fb0-1c8dac5b3083",
-  type: "release",
+  type: "page-type/release",
   slug: "metallica-metallica-through-the-never-music-from-the-motion-picture",
   title: "Metallica Through The Never (Music from the Motion Picture)",
   partOfCollections: ["artist/metallica"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const michaelJacksonHistoryPastPresentAndFutureBookI = {
   id: "01a0676a-d720-7043-9eff-cf5ae0306750",
-  type: "release",
+  type: "page-type/release",
   slug: "michael-jackson-history-past-present-and-future-book-i",
   title: "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
   partOfCollections: ["artist/michael-jackson"],
