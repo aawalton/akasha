@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDungeonsBlackheartHaven = {
   id: "01a06168-7248-7005-a77e-c50341992187",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-dungeons-blackheart-haven",
   title: "Blackheart Haven",
   category: "account",

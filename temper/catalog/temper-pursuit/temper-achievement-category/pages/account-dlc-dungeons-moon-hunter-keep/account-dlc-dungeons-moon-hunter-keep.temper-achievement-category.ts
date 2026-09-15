@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsMoonHunterKeep = {
   id: "01a06168-724a-7003-93fa-fcade27bd3dc",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-dlc-dungeons-moon-hunter-keep",
   title: "Moon Hunter Keep",
   category: "account",

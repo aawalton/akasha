@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsUnhallowedGrave = {
   id: "01a06168-724a-700e-8ca9-f5eafd0c532e",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-dlc-dungeons-unhallowed-grave",
   title: "Unhallowed Grave",
   category: "account",

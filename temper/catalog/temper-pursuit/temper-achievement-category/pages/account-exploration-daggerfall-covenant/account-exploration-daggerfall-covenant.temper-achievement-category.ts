@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountExplorationDaggerfallCovenant = {
   id: "01a06168-724b-7011-8290-888b15f66b5d",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-exploration-daggerfall-covenant",
   title: "Daggerfall Covenant",
   category: "account",

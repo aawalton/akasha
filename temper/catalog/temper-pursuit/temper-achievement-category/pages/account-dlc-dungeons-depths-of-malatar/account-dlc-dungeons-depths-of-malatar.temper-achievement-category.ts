@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsDepthsOfMalatar = {
   id: "01a06168-7249-700d-9499-99a102b9eca3",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-dlc-dungeons-depths-of-malatar",
   title: "Depths of Malatar",
   category: "account",

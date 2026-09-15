@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountExplorationDarkAnchors = {
   id: "01a06168-724b-7016-970c-e7048fde29be",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-exploration-dark-anchors",
   title: "Dark Anchors",
   category: "account",

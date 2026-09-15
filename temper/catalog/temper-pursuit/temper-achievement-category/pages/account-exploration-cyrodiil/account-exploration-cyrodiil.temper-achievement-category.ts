@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountExplorationCyrodiil = {
   id: "01a06168-724b-7015-95ef-f486d7256ce2",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-exploration-cyrodiil",
   title: "Cyrodiil",
   category: "account",

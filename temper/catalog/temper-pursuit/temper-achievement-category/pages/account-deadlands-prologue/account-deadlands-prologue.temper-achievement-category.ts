@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDeadlandsPrologue = {
   id: "01a06168-7250-7003-85df-8807e5020508",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-deadlands-prologue",
   title: "Prologue",
   category: "account",

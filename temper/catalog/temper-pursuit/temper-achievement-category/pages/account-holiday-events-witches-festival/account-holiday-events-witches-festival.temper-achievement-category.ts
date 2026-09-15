@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountHolidayEventsWitchesFestival = {
   id: "01a06168-724d-7008-9e04-07fb81215ea5",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-holiday-events-witches-festival",
   title: "Witches Festival",
   category: "account",

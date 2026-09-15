@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountInfiniteArchiveTalesOfTribute = {
   id: "01a06168-724c-7012-9d29-c9c3f77addcf",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-infinite-archive-tales-of-tribute",
   title: "Tales of Tribute",
   category: "account",

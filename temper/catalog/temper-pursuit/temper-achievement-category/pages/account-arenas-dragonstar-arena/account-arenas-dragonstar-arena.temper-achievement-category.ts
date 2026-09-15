@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountArenasDragonstarArena = {
   id: "01a06168-724b-700b-9abc-291da6090401",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-arenas-dragonstar-arena",
   title: "Dragonstar Arena",
   category: "account",

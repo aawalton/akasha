@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountCharacterWerewolf = {
   id: "01a06168-7246-700d-81bb-e800fd1070c3",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-character-werewolf",
   title: "Werewolf",
   category: "account",

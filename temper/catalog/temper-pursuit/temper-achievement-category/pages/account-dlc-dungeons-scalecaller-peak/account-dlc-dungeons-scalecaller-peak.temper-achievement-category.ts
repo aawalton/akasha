@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsScalecallerPeak = {
   id: "01a06168-724a-7009-b5d0-32597daffc7f",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-dlc-dungeons-scalecaller-peak",
   title: "Scalecaller Peak",
   category: "account",

@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsDreadCellar = {
   id: "01a06168-7249-700e-935d-30da9b448cef",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-dlc-dungeons-dread-cellar",
   title: "Dread Cellar",
   category: "account",

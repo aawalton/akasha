@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsEarthenRootEnclave = {
   id: "01a06168-7249-700f-be5b-055961e2417d",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-dlc-dungeons-earthen-root-enclave",
   title: "Earthen Root Enclave",
   category: "account",

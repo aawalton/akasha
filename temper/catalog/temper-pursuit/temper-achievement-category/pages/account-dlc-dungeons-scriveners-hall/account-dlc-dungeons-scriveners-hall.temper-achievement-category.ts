@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsScrivenersHall = {
   id: "01a06168-724a-700a-a5c5-54552fa7a3bd",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-dlc-dungeons-scriveners-hall",
   title: "Scrivener's Hall",
   category: "account",

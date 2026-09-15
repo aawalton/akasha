@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsExiledRedoubt = {
   id: "01a06168-7249-7010-8005-3d792824ea0e",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-dlc-dungeons-exiled-redoubt",
   title: "Exiled Redoubt",
   category: "account",

@@ -2,7 +2,7 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountMorrowindGeneral = {
   id: "01a06168-724f-700f-ac03-3aeebeff385c",
-  type: "temper-achievement-category",
+  type: "page-type/temper-achievement-category",
   slug: "account-morrowind-general",
   title: "General",
   category: "account",
