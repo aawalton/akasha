@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const archiveOfWorldsSignUp = {
   id: "01a08281-dc96-74ca-a53d-84b7e97dde4a",
-  type: "route",
+  type: "page-type/route",
   slug: "archive-of-worlds-sign-up",
   definition: "where a reader opens an account",
   code: "tsx",

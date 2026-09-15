@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const addonBundleVersion = {
   id: "01a072e1-dbd7-744e-a9b5-617a62ed3cbe",
-  type: "route",
+  type: "page-type/route",
   slug: "addon-bundle-version",
   definition: "the build the addon bundle now offered was packed from",
   code: "ts",

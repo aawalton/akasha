@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const signIn = {
   id: "01a08306-c2ad-71ec-bdd7-449e1708d6ea",
-  type: "route",
+  type: "page-type/route",
   slug: "sign-in",
   definition: "where a player with an account gets back into it",
   code: "tsx",

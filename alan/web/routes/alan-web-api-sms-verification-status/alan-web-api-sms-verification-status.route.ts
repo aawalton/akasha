@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const alanWebApiSmsVerificationStatus = {
   id: "01a090d4-4959-7068-b799-d973b6d7993e",
-  type: "route",
+  type: "page-type/route",
   slug: "alan-web-api-sms-verification-status",
   definition: "the toll-free verification status Telnyx hands this app",
   code: "ts",

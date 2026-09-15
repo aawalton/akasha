@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const jennySafetyLevel = {
   id: "01a0824d-0956-7e7c-8f1c-271aa57e00a8",
-  type: "route",
+  type: "page-type/route",
   slug: "jenny-safety-level",
   definition: "Alan's safety level as the stoplight Jenny's tile draws that level in",
   code: "ts",

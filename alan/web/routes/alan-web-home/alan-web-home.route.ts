@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const alanWebHome = {
   id: "01a08830-7db2-77e4-a5d5-9c29796416ef",
-  type: "route",
+  type: "page-type/route",
   slug: "alan-web-home",
   definition: "the nav item a signed-in reader opens on",
   code: "tsx",

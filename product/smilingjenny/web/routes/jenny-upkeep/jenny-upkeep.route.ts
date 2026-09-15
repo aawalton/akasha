@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const jennyUpkeep = {
   id: "01a08bee-4262-784b-b397-8a5a0ad37433",
-  type: "route",
+  type: "page-type/route",
   slug: "jenny-upkeep",
   definition: "Alan's upkeep as the stoplights Jenny's tile draws those readings in",
   code: "ts",

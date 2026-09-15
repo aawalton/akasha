@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const alanWebApiNavIcon = {
   id: "01a0829c-2416-7e2d-a9f1-7c33b625459e",
-  type: "route",
+  type: "page-type/route",
   slug: "alan-web-api-nav-icon",
   definition: "the icon drawn for a nav entry",
   code: "ts",

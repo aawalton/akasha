@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const alanWebApiMediaHlsSegment = {
   id: "01a082a0-97c1-789d-a1af-a13317edf032",
-  type: "route",
+  type: "page-type/route",
   slug: "alan-web-api-media-hls-segment",
   definition: "one audio segment of a page's HLS playlist",
   code: "ts",

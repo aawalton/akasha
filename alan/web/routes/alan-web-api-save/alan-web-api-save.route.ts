@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const alanWebApiSave = {
   id: "01a08834-2110-7c75-8b49-447fda981ae9",
-  type: "route",
+  type: "page-type/route",
   slug: "alan-web-api-save",
   definition: "the idle save a reader's game is kept as",
   code: "ts",

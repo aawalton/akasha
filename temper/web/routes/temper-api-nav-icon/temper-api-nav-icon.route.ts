@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const temperApiNavIcon = {
   id: "01a0829a-8f37-7fcf-ad6f-bd2a5be6def4",
-  type: "route",
+  type: "page-type/route",
   slug: "temper-api-nav-icon",
   definition: "the icon drawn for a nav entry",
   code: "ts",

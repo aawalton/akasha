@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const alanWebApiDeviceSecretRevoke = {
   id: "01a08835-0ebb-7d95-8b6b-6d1592373149",
-  type: "route",
+  type: "page-type/route",
   slug: "alan-web-api-device-secret-revoke",
   definition: "the taking back of one device's secret",
   code: "ts",

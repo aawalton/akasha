@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const atlasPageDetail = {
   id: "01a0883d-a94b-761e-a164-2900c651ecf8",
-  type: "route",
+  type: "page-type/route",
   slug: "atlas-page-detail",
   definition: "one page, drawn with its properties",
   code: "tsx",

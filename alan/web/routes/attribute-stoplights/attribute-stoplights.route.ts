@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const attributeStoplights = {
   id: "01a06858-8cfa-79e8-a5bc-b735b8f2f652",
-  type: "route",
+  type: "page-type/route",
   slug: "attribute-stoplights",
   definition: "the attributes group answered as the stoplights Alan's tile reads",
   code: "ts",

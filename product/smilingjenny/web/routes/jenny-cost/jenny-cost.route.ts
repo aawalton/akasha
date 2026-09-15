@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const jennyCost = {
   id: "01a08bb2-255f-7fcd-be97-19292bc4115b",
-  type: "route",
+  type: "page-type/route",
   slug: "jenny-cost",
   definition: "Alan's cost as the color Jenny's tile draws that cost in",
   code: "ts",

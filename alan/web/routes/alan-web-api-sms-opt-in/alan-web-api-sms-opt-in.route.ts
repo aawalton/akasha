@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const alanWebApiSmsOptIn = {
   id: "01a08836-b1d8-7284-9c85-85d40203b334",
-  type: "route",
+  type: "page-type/route",
   slug: "alan-web-api-sms-opt-in",
   definition: "the written consent a visitor gives to be texted",
   code: "ts",

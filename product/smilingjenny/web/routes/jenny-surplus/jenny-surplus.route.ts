@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const jennySurplus = {
   id: "01a07c5d-9ae4-79ac-8807-7f63c08e44df",
-  type: "route",
+  type: "page-type/route",
   slug: "jenny-surplus",
   definition: "Alan's surplus as the color Jenny's tile draws that surplus in",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const apiWatcherUpsertMinedItems = {
   id: "01a082a9-b67b-7606-b042-c4f5c9e5d6ac",
-  type: "route",
+  type: "page-type/route",
   slug: "api-watcher-upsert-mined-items",
   definition: "the mined items the watcher posts",
   code: "ts",

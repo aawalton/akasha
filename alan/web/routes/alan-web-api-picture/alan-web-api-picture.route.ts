@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const alanWebApiPicture = {
   id: "01a09c62-851a-71cc-950c-0d3fe7144579",
-  type: "route",
+  type: "page-type/route",
   slug: "alan-web-api-picture",
   definition: "the picture a phone sends in for its person's handler",
   code: "ts",

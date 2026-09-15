@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const temperApiPages = {
   id: "01a0829a-13da-798a-a890-b765cf1dc3de",
-  type: "route",
+  type: "page-type/route",
   slug: "temper-api-pages",
   definition: "the pages of one type a browser asks for",
   code: "ts",

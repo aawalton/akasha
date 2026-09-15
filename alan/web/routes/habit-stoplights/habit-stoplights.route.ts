@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const habitStoplights = {
   id: "01a08244-2b4d-7457-92af-ca9ba4b41c4d",
-  type: "route",
+  type: "page-type/route",
   slug: "habit-stoplights",
   definition: "Alan's upkeep as the colors its readings reach",
   code: "ts",

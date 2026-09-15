@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const atlasSignUp = {
   id: "01a08839-6d65-7391-a8e3-4b6f3b0012b7",
-  type: "route",
+  type: "page-type/route",
   slug: "atlas-sign-up",
   definition: "the redirect from signing up to signing in",
   code: "tsx",

@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const alanWebApiPages = {
   id: "01a0829b-cc74-70fb-9618-e3d4d32044d6",
-  type: "route",
+  type: "page-type/route",
   slug: "alan-web-api-pages",
   definition: "the pages of one type a reader asks for",
   code: "ts",

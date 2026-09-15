@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const atlasApiHealth = {
   id: "01a08837-528b-712b-b76c-93c825c23fc6",
-  type: "route",
+  type: "page-type/route",
   slug: "atlas-api-health",
   definition: "whether the app answers",
   code: "ts",

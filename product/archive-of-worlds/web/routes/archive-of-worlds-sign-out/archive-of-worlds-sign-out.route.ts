@@ -2,7 +2,7 @@ import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
 export const archiveOfWorldsSignOut = {
   id: "01a0827f-df10-7885-ab8c-6377331c0076",
-  type: "route",
+  type: "page-type/route",
   slug: "archive-of-worlds-sign-out",
   definition: "the end of a reader's session",
   code: "ts",
