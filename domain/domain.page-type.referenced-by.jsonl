@@ -517,7 +517,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/wandering-inn/wandering-inn.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/world-lore/world-lore.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/world-mechanic/ability/ability.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"technology/definitions/technology-definitions.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"technology/definition/technology-definition.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"technology/mcp/mcp.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"technology/technology.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-build/temper-addon-build.domain.ts"}
