@@ -2,7 +2,7 @@ import type { ShowCollection } from "akasha/alan/library/watching/show-collectio
 
 export const shows = {
   id: "01a06808-6a77-700e-a079-27189a28901b",
-  type: "show-collection",
+  type: "page-type/show-collection",
   slug: "shows",
   title: "Shows",
   position: 0,

@@ -2,7 +2,7 @@ import type { ShowCollection } from "akasha/alan/library/watching/show-collectio
 
 export const watchWithJoseph = {
   id: "01a06808-6a77-7016-a977-ec5f736bb7d4",
-  type: "show-collection",
+  type: "page-type/show-collection",
   slug: "watch-with-joseph",
   title: "Watch with Joseph",
   partOfCollections: ["show-collection/shows"],

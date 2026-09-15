@@ -2,7 +2,7 @@ import type { ShowCollection } from "akasha/alan/library/watching/show-collectio
 
 export const sitcoms = {
   id: "01a06808-6a77-700f-a93d-6b21007f60d5",
-  type: "show-collection",
+  type: "page-type/show-collection",
   slug: "sitcoms",
   title: "Sitcoms",
   partOfCollections: ["show-collection/shows"],

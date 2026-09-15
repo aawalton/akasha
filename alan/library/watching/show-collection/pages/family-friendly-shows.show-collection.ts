@@ -2,7 +2,7 @@ import type { ShowCollection } from "akasha/alan/library/watching/show-collectio
 
 export const familyFriendlyShows = {
   id: "01a06808-6a77-7007-bb2f-714dadc112de",
-  type: "show-collection",
+  type: "page-type/show-collection",
   slug: "family-friendly-shows",
   title: "Family Friendly Shows",
   partOfCollections: ["show-collection/shows"],

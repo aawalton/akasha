@@ -2,7 +2,7 @@ import type { ShowCollection } from "akasha/alan/library/watching/show-collectio
 
 export const harryPotterMovieSeries = {
   id: "01a06808-6a77-7009-854b-617d54045168",
-  type: "show-collection",
+  type: "page-type/show-collection",
   slug: "harry-potter-movie-series",
   title: "Harry Potter Movie Series",
   partOfCollections: ["show-collection/harry-potter-movies"],

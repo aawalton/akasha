@@ -2,7 +2,7 @@ import type { ShowCollection } from "akasha/alan/library/watching/show-collectio
 
 export const theGodfather2 = {
   id: "01a06808-6a77-7012-8ffc-0af60db64d60",
-  type: "show-collection",
+  type: "page-type/show-collection",
   slug: "the-godfather-2",
   title: "The Godfather",
   partOfCollections: ["show-collection/cultural-literacy"],
