@@ -5,6 +5,7 @@ import {
   buildHarness,
   capacityLimited,
   credentialFor,
+  DEEPSEEK_FALLBACK,
   forcedToolChoiceRefused,
   modelMissing,
   overloaded,
@@ -54,7 +55,9 @@ test("an account with no fresh token is forwarded with no token at all", async (
   const harness = buildHarness({ answers: [ok], freshTokens: async () => null })
   const outcome = await runAccountWalk(harness.argsWith())
   expect(outcome.kind).toBe("served")
-  expect(harness.sent).toEqual([{ account: null, token: null, beta: null, body: null }])
+  expect(harness.sent).toEqual([
+    { account: null, token: null, beta: null, body: null, base: null, key: null },
+  ])
 })
 
 test("a fallthrough with no fresh token names the account that was chosen", async () => {
@@ -241,6 +244,65 @@ test("a 429 with every account exhausted is answered empty naming the trail", as
     kind: "empty-pool",
     reason: "no-viable-account",
     trailDisplay: "alpha→beta",
+  })
+})
+
+test("a pool with no account at all is sent to the fallback provider", async () => {
+  const harness = buildHarness({ answers: [ok], accounts: [], fallback: DEEPSEEK_FALLBACK })
+  const outcome = await runAccountWalk(harness.argsWith())
+  expect(outcome.kind).toBe("served")
+  expect(harness.sent).toEqual([
+    {
+      account: "deepseek",
+      token: null,
+      beta: null,
+      body: null,
+      base: "https://api.deepseek.test/anthropic",
+      key: "fake-deepseek-key",
+    },
+  ])
+  expect(SAID.output.join("\n")).toContain("account=deepseek status=200 fallback=no-viable-account")
+})
+
+test("a 429 with every account exhausted is sent to the fallback provider", async () => {
+  const harness = buildHarness({
+    answers: [capacityLimited, capacityLimited, ok],
+    fallback: DEEPSEEK_FALLBACK,
+  })
+  const outcome = await runAccountWalk(harness.argsWith())
+  if (outcome.kind !== "served") throw new Error("the walk served nothing")
+  expect(await outcome.response.text()).toBe("ok")
+  expect(harness.sent.map((one) => one.account)).toEqual(["alpha", "beta", "deepseek"])
+  expect(harness.sent[2]?.key).toBe("fake-deepseek-key")
+  expect(harness.acts.atLimit).toEqual(["alpha", "beta"])
+})
+
+test("a fallback that refuses is served rather than answered empty", async () => {
+  const harness = buildHarness({
+    answers: [capacityLimited, capacityLimited, () => new Response("no balance", { status: 402 })],
+    fallback: DEEPSEEK_FALLBACK,
+  })
+  const outcome = await runAccountWalk(harness.argsWith())
+  if (outcome.kind !== "served") throw new Error("the walk served nothing")
+  expect(outcome.response.status).toBe(402)
+})
+
+test("a fallback that throws leaves the answer empty", async () => {
+  const harness = buildHarness({
+    answers: [ok],
+    accounts: [],
+    fallback: DEEPSEEK_FALLBACK,
+    seams: {
+      forward: async () => {
+        throw new Error("deepseek went away")
+      },
+    },
+  })
+  const outcome = await runAccountWalk(harness.argsWith())
+  expect(outcome).toEqual({
+    kind: "empty-pool",
+    reason: "no-viable-account",
+    trailDisplay: "-",
   })
 })
 

@@ -11,11 +11,36 @@ export const accountWalk = {
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A pool with no account is answered empty with the trail `-`.",
+      statement:
+        "A pool with no account left is sent to the fallback provider before anything else.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A pool with no account is forwarded nowhere.",
+      statement: "The fallback is reached the moment no account is left rather than after a wait.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A fallback that answers is served, whatever status that answer carries.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A fallback there is none of leaves the answer empty as it was.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A fallback that throws leaves the answer empty rather than answering 502.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A fallback attempt carries no bearer and no account of the pool.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A pool with no account and no fallback is answered empty with the trail `-`.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A pool with no account and no fallback is forwarded nowhere.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -208,6 +233,10 @@ export const accountWalk = {
     {
       invariantKind: "invariant-kind/constraint",
       statement: "A caller hands in the forward every attempt is sent through.",
+    },
+    {
+      invariantKind: "invariant-kind/constraint",
+      statement: "A caller hands in the read answering the fallback provider.",
     },
     {
       invariantKind: "invariant-kind/constraint",

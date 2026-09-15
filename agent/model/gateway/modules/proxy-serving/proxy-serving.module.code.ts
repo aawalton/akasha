@@ -43,6 +43,11 @@ import {
   type QueueOutcome,
   runPreForwardQueue,
 } from "akasha/agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.code.ts"
+import {
+  anthropicBaseIn,
+  type FallbackRead,
+  fallbackReadIn,
+} from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
 import type {
   OAuthProxy,
   StartOAuthProxyOptions,
@@ -56,6 +61,7 @@ import {
   buildShutdownFlushRegistry,
   type TransportLogAt,
 } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
+import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
 import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 import type { Server } from "bun"
 
@@ -99,6 +105,7 @@ export type ServingParts = {
   readonly logPrefix: string
   readonly oauth: OAuthEffects
   readonly forward: Forward
+  readonly fallback: FallbackRead
   readonly holds: HoldRegistry
   readonly pickAccount: PickAccount
   readonly getFreshToken: FreshCredential
@@ -189,6 +196,7 @@ function walkSeamsOf(parts: ServingParts): AccountWalkSeams {
     pickAccount,
     getFreshToken,
     forward: parts.forward,
+    fallback: parts.fallback,
     markAtLimit: async (given): Promise<undefined> => {
       await oauth.markAccountAtLimit(given)
     },
@@ -248,10 +256,13 @@ export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoor
   const holds = buildHoldRegistry()
   const stopped = opts.stopped ?? NONE_HELD
 
+  const fallback = opts.fallback ?? fallbackReadIn(opts.root, secretsIn)
+
   const forward = buildForward({
     idleTimeoutMs: opts.upstreamIdleTimeoutMs ?? 0,
     downstreamKeepaliveMs: opts.downstreamKeepaliveMs ?? 0,
     logPrefix,
+    base: anthropicBaseIn(opts.root),
     logAt: doors.logAt,
     shutdownRegistry,
     now: doors.now,
@@ -281,6 +292,7 @@ export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoor
       logPrefix,
       oauth,
       forward,
+      fallback,
       holds,
       pickAccount,
       getFreshToken,

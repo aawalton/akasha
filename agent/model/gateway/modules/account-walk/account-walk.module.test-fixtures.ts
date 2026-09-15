@@ -5,6 +5,7 @@ import type {
 import type { Forward } from "akasha/agent/model/gateway/modules/forward/forward.module.code.ts"
 import type { OAuthCredential } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
+import type { FallbackRead } from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
 
 export type Said = {
   readonly output: string[]
@@ -24,6 +25,8 @@ export type Sent = {
   readonly token: string | null
   readonly beta: string | null
   readonly body: string | null
+  readonly base: string | null
+  readonly key: string | null
 }
 
 export function credentialFor(account: string): OAuthCredential {
@@ -106,8 +109,20 @@ export type HarnessOptions = {
   readonly accounts?: readonly string[]
   readonly freshTokens?: (account: string) => Promise<OAuthCredential | null>
   readonly originalBody?: ArrayBuffer | null
+  readonly fallback?: FallbackRead
   readonly seams?: Partial<AccountWalkSeams>
 }
+
+export const NO_FALLBACK: FallbackRead = () => null
+
+export const DEEPSEEK_FALLBACK: FallbackRead = () => ({
+  account: "deepseek",
+  upstream: {
+    base: "https://api.deepseek.test/anthropic",
+    header: "x-api-key",
+    value: "fake-deepseek-key",
+  },
+})
 
 export function buildHarness(options: HarnessOptions): WalkHarness {
   const said: Said = { output: [], error: [], warn: [] }
@@ -116,12 +131,21 @@ export function buildHarness(options: HarnessOptions): WalkHarness {
   const accounts = [...(options.accounts ?? ["alpha", "beta"])]
   let answered = 0
 
-  const forward: Forward = async (incoming, accessToken, bodyBuffer, account) => {
+  const forward: Forward = async (
+    incoming,
+    accessToken,
+    bodyBuffer,
+    account,
+    _observerSlot,
+    sentTo
+  ) => {
     sent.push({
       account,
       token: accessToken,
       beta: incoming.headers.get("anthropic-beta"),
       body: bodyBuffer === null ? null : new TextDecoder().decode(bodyBuffer),
+      base: sentTo?.base ?? null,
+      key: sentTo?.value ?? null,
     })
     const answer = options.answers[Math.min(answered, options.answers.length - 1)]
     answered += 1
@@ -143,6 +167,7 @@ export function buildHarness(options: HarnessOptions): WalkHarness {
     },
     getFreshToken: options.freshTokens ?? (async (account) => credentialFor(account)),
     forward,
+    fallback: options.fallback ?? NO_FALLBACK,
     markAtLimit: async ({ account }): Promise<undefined> => {
       acts.atLimit.push(account)
     },

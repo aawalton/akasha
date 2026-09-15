@@ -50,6 +50,10 @@ export const proxyStart = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "The read answering the fallback provider may be handed in.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement:
         "The directory a transport row lands in is handed in as a call rather than a path.",
     },

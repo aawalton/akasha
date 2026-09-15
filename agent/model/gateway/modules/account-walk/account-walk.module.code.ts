@@ -19,6 +19,7 @@ import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-s
 import { peekResponse } from "akasha/agent/model/gateway/modules/peek-response/peek-response.module.code.ts"
 import { attemptPermissionDeniedRebind } from "akasha/agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.code.ts"
 import type { QueueOutcome } from "akasha/agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.code.ts"
+import type { FallbackRead } from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
 import { withTransportRetry } from "akasha/agent/model/gateway/modules/retry/retry.module.code.ts"
 import { attemptServerErrorRetry } from "akasha/agent/model/gateway/modules/server-error-retry/server-error-retry.module.code.ts"
 
@@ -33,6 +34,7 @@ export type AccountWalkSeams = {
   readonly pickAccount: PickAccount
   readonly getFreshToken: (account: string) => Promise<OAuthCredential | null>
   readonly forward: Forward
+  readonly fallback: FallbackRead
   readonly markAtLimit: (args: {
     account: string
     retryAfterHeader: string | null
@@ -66,8 +68,29 @@ export async function runAccountWalk(args: AccountWalkArgs): Promise<QueueOutcom
   let currentReq = req
   let fableMode = isFableRequest(bodyBuffer)
 
+  const servedByFallback = async (why: string): Promise<Response | null> => {
+    const held = seams.fallback()
+    if (held === null) return null
+    try {
+      const res = await withTransportRetry(
+        () => forward(currentReq, null, bodyBuffer, held.account, observerSlot, held.upstream),
+        logPrefix,
+        `${held.account} ${pathname}`
+      )
+      console.log(
+        `${logPrefix} res ${method} ${pathname} account=${held.account} status=${res.status} fallback=${why}`
+      )
+      return res
+    } catch (thrown) {
+      console.error(`${logPrefix} fallback ${held.account} ${pathname} threw`, thrown)
+      return null
+    }
+  }
+
   const firstPick = await pickAccount()
   if (firstPick === null) {
+    const served = await servedByFallback("no-viable-account")
+    if (served !== null) return { kind: "served", response: served }
     return { kind: "empty-pool", reason: "no-viable-account", trailDisplay: "-" }
   }
   const firstAccount = firstPick.account
@@ -284,6 +307,8 @@ export async function runAccountWalk(args: AccountWalkArgs): Promise<QueueOutcom
     const nextAccount = await accountNamed(tried)
     if (nextAccount === null || tried.has(nextAccount)) {
       const reason = nextAccount === null ? "no-viable-account" : "looped"
+      const served = await servedByFallback(reason)
+      if (served !== null) return { kind: "served", response: served }
       return { kind: "empty-pool", reason, trailDisplay: trail.join("→") }
     }
     const nextCred = await getFreshToken(nextAccount)
