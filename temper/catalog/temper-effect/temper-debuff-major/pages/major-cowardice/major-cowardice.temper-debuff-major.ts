@@ -2,7 +2,7 @@ import type { TemperDebuffMajor } from "akasha/temper/catalog/temper-effect/temp
 
 export const majorCowardice = {
   id: "01a05fc6-42c1-76c0-88d6-6d8ca070c380",
-  type: "temper-debuff-major",
+  type: "page-type/temper-debuff-major",
   slug: "major-cowardice",
   title: "Major Cowardice",
   key: "major-cowardice",

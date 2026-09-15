@@ -2,7 +2,7 @@ import type { TemperDebuffMajor } from "akasha/temper/catalog/temper-effect/temp
 
 export const majorDefile = {
   id: "01a05fc6-42c2-78eb-8623-62d8fda44d42",
-  type: "temper-debuff-major",
+  type: "page-type/temper-debuff-major",
   slug: "major-defile",
   title: "Major Defile",
   key: "major-defile",

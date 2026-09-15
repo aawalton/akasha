@@ -2,7 +2,7 @@ import type { TemperDebuffMajor } from "akasha/temper/catalog/temper-effect/temp
 
 export const majorMaim = {
   id: "01a05fc6-42c2-794d-84af-249d34bd9a2f",
-  type: "temper-debuff-major",
+  type: "page-type/temper-debuff-major",
   slug: "major-maim",
   title: "Major Maim",
   key: "major-maim",
