@@ -11,12 +11,9 @@ const AT = "at"
 
 const TO = "to"
 
-const PLURAL = "plural"
-
 export type RenamePageAsked = {
   readonly at: string
   readonly to: string
-  readonly plural?: string
 }
 
 export async function renamePage(world: World, given: RenamePageAsked): Promise<Answer> {
@@ -31,13 +28,12 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
 
 export type Asked = Readonly<Record<string, string>>
 
-export const takes: readonly string[] = [AT, TO, PLURAL]
+export const takes: readonly string[] = [AT, TO]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
   const to = given[TO]
   if (to === undefined) return refusing(missing(TO))
-  const plural = given[PLURAL]
-  return await renamePage(world, plural === undefined ? { at, to } : { at, to, plural })
+  return await renamePage(world, { at, to })
 }

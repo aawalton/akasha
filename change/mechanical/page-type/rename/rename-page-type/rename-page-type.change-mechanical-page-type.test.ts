@@ -93,7 +93,7 @@ const KEPT_ROOT = repoIn()
 
 const KEPT_WORLD = worldAt(KEPT_ROOT, textIn(KEPT_ROOT))
 
-const ASKED = { at: KEPT_TYPE, to: CARRIED, plural: "carrieds" }
+const ASKED = { at: KEPT_TYPE, to: CARRIED }
 
 let kept: Answer | null = null
 
@@ -130,12 +130,11 @@ test("the page type a page states is restated at the path that page landed at", 
   expect(body).toContain("satisfies Carried")
 })
 
-test("the slug and the plural the page type states are restated where it landed", () => {
+test("the slug the page type states is restated where it landed", () => {
   const body = keptBodies().get(TYPE_LANDS) ?? ""
 
   expect(keptSaid().refused).toBe(null)
   expect(body).toContain(`"slug": "${CARRIED}"`)
-  expect(body).toContain(`"pluralSlug": "carrieds"`)
   expect(body).toContain(`export const ${CARRIED} =`)
   expect(body).toContain("export type Carried")
 })
@@ -231,7 +230,7 @@ const OWNED_ROOT = ownedRepo()
 
 const OWNED_WORLD = worldAt(OWNED_ROOT, textIn(OWNED_ROOT))
 
-const OWNED_ASKED = { at: OWNED_TYPE, to: "day", plural: "days" }
+const OWNED_ASKED = { at: OWNED_TYPE, to: "day" }
 
 let owned: Answer | null = null
 
@@ -258,15 +257,8 @@ test("the type a page type's worked file exports is spelled from the new slug", 
 })
 
 test("a page type carrying no page is renamed all the same", () => {
-  const said = renamePageType(KEPT_WORLD, { at: BARE_TYPE, to: "spare", plural: "spares" })
+  const said = renamePageType(KEPT_WORLD, { at: BARE_TYPE, to: "spare" })
 
   expect(said.refused).toBe(null)
   expect(pathsIn(said)).toContain(BARE_LANDS)
-})
-
-test("a page type stating a plural and handed no plural is refused", () => {
-  const said = renamePageType(KEPT_WORLD, { at: BARE_TYPE, to: "spare" })
-
-  expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toMatch(/pluralSlug/)
 })

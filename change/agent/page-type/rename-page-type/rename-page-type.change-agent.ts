@@ -31,14 +31,7 @@ export const renamePageType = {
       invariantKind: "invariant-kind/departure",
       statement: "A page type is handed to the partial change renaming a page type.",
     },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "`plural` is handed on where the caller states `plural`.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "`plural` is left out where the caller states no `plural`.",
-    },
+
     {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here works out a body of its own.",

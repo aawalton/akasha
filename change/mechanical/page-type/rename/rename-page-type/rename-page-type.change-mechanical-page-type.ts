@@ -65,14 +65,7 @@ export const renamePageType = {
       invariantKind: "invariant-kind/departure",
       statement: "The slug the page type states is restated in the body that page type landed in.",
     },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The plural the caller states is restated where the page type states a plural.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A page type stating a plural and handed no plural is refused.",
-    },
+
     {
       invariantKind: "invariant-kind/departure",
       statement: "The name the page type's own body exports is spelled from the new slug.",

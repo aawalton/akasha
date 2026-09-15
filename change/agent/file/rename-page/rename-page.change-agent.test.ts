@@ -24,12 +24,12 @@ test("the whole rename is left to the change reached at its address", async () =
   expect(carried.given).toEqual({ at: AT, to: TO })
 })
 
-test("a plural the act was handed is handed on to that change", async () => {
+test("what the act was handed is handed on to that change", async () => {
   const carried: Carried = { at: "", given: null }
 
-  await runChange(worldRecording(carried), { at: AT, to: TO, plural: "carries" })
+  await runChange(worldRecording(carried), { at: AT, to: TO })
 
-  expect(carried.given).toEqual({ at: AT, to: TO, plural: "carries" })
+  expect(carried.given).toEqual({ at: AT, to: TO })
 })
 
 test("an argument the change was handed no value for is refused by its key", async () => {

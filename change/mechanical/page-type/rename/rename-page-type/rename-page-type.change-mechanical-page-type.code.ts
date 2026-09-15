@@ -51,12 +51,9 @@ const WORKED_NAME = "Worked"
 
 const SLUG = "slug"
 
-const PLURAL_SLUG = "pluralSlug"
-
 export type Asked = {
   readonly at: string
   readonly to: string
-  readonly plural?: string
 }
 
 type Spelling = { readonly at: string; readonly of: string; readonly to: string }
@@ -94,23 +91,9 @@ function ownAnew(world: World, given: Asked, lands: string): readonly FileChange
   const said = statedIn(source)
   const slug = said.get(SLUG)
   if (slug === undefined) return `\`${given.at}\` states no \`${SLUG}\``
-  const plural = said.get(PLURAL_SLUG)
-  if (plural !== undefined && given.plural === undefined) {
-    return `\`${given.at}\` states a \`${PLURAL_SLUG}\`, so the plural it becomes is said`
-  }
-  if (plural === undefined && given.plural !== undefined) {
-    return `\`${given.at}\` states no \`${PLURAL_SLUG}\`, so no plural is said`
-  }
   const spots: Splice[] = [
     { from: slug.getStart(source), to: slug.getEnd(), put: JSON.stringify(given.to) },
   ]
-  if (plural !== undefined && given.plural !== undefined && plural.text !== given.plural) {
-    spots.push({
-      from: plural.getStart(source),
-      to: plural.getEnd(),
-      put: JSON.stringify(given.plural),
-    })
-  }
   return splicedIn(lands, text, spots)
 }
 

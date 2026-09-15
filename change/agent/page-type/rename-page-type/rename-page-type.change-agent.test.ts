@@ -3,10 +3,7 @@ import {
   renamePageType,
   runChange,
 } from "akasha/change/agent/page-type/rename-page-type/rename-page-type.change-agent.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const ASKED = "the world was asked"
 
@@ -69,16 +66,16 @@ test("a page type this change hands on is reached through the runner the world c
   expect(said.refused).toBeNull()
 })
 
-test("a plural the act was handed is handed on to that change", async () => {
+test("what the act was handed is handed on to that change", async () => {
   let handed: unknown = null
   const reaching = (_world: World, _at: string, given: unknown): Promise<typeof NOTHING_OVER> => {
     handed = given
     return Promise.resolve(NOTHING_OVER)
   }
 
-  await runChange({ ...UNASKED, reaching }, { at: A_TYPE, to: TO, plural: "carrieds" })
+  await runChange({ ...UNASKED, reaching }, { at: A_TYPE, to: TO })
 
-  expect(handed).toEqual({ at: A_TYPE, to: TO, plural: "carrieds" })
+  expect(handed).toEqual({ at: A_TYPE, to: TO })
 })
 
 test("an argument the change was handed no value for is refused by its key", async () => {

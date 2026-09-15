@@ -7,8 +7,6 @@ const AT = "at"
 
 const TO = "to"
 
-const PLURAL = "plural"
-
 const PAGE_TYPE = "page-type"
 
 const RENAME_PAGE_TYPE = "change-mechanical-page-type/rename-page-type"
@@ -16,7 +14,6 @@ const RENAME_PAGE_TYPE = "change-mechanical-page-type/rename-page-type"
 export type RenamePageTypeAsked = {
   readonly at: string
   readonly to: string
-  readonly plural?: string
 }
 
 export async function renamePageType(world: World, given: RenamePageTypeAsked): Promise<Answer> {
@@ -34,13 +31,12 @@ export async function renamePageType(world: World, given: RenamePageTypeAsked): 
 
 export type Asked = Readonly<Record<string, string>>
 
-export const takes: readonly string[] = [AT, TO, PLURAL]
+export const takes: readonly string[] = [AT, TO]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
   const to = given[TO]
   if (to === undefined) return refusing(missing(TO))
-  const plural = given[PLURAL]
-  return await renamePageType(world, plural === undefined ? { at, to } : { at, to, plural })
+  return await renamePageType(world, { at, to })
 }
