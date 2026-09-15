@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const stateReading = {
   id: "01a072b8-a766-7b44-b1e8-c0c04920e385",
-  type: "module",
+  type: "page-type/module",
   slug: "state-reading",
   definition: "how a part of the editor reads the one file that part draws",
   code: "ts",

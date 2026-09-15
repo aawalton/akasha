@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const emailRulePlanning = {
   id: "01a0a13e-68ba-75e1-9530-f6b30bf6b3c0",
-  type: "module",
+  type: "page-type/module",
   slug: "email-rule-planning",
   definition:
     "the routing rules a zone is short of, worked out from the addresses the personas declare",

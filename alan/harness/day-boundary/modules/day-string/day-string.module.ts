@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dayString = {
   id: "01a05c77-31e6-7984-b078-7e97cacbeefb",
-  type: "module",
+  type: "page-type/module",
   slug: "day-string",
   definition: "a day written as a dashed date, read back off one, and stepped by one",
   code: "ts",

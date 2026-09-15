@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const sampleShape = {
   id: "01a05bc7-9129-7001-9204-f43ce2046c31",
-  type: "module",
+  type: "page-type/module",
   slug: "sample-shape",
   definition: "what a health reading has, and the metrics one can be",
   code: "ts",

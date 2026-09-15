@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inboxReading = {
   id: "01a069bf-3919-77bc-a8a7-66b02d4185bf",
-  type: "module",
+  type: "page-type/module",
   slug: "inbox-reading",
   definition:
     "the counts on Alan's three inboxes, taken from his day pages and kept on their readouts",

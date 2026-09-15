@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const subagentPageless = {
   id: "01a0951d-933c-768f-a4e9-51a54ceda87a",
-  type: "module",
+  type: "page-type/module",
   slug: "subagent-pageless",
   definition: "a subagent a seat's transcript names as at work with no page of its own",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const usZoneOffset = {
   id: "01a05c77-31e6-7877-b124-3f103fd4ac3d",
-  type: "module",
+  type: "page-type/module",
   slug: "us-zone-offset",
   definition: "how far behind UTC New York and Denver are at one instant",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const workstationLoadSampling = {
   id: "01a0a069-f901-796d-ab48-ba63c80717ec",
-  type: "module",
+  type: "page-type/module",
   slug: "workstation-load-sampling",
   definition:
     "the workstation's processor and memory readings, taken on a beat and kept beside their readouts",

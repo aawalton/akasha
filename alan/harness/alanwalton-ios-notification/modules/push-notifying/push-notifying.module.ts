@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pushNotifying = {
   id: "01a0686a-7a57-739f-880c-5afe3034b05a",
-  type: "module",
+  type: "page-type/module",
   slug: "push-notifying",
   definition: "every notification written for Alan pushed at his devices",
   code: "ts",

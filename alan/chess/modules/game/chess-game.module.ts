@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const chessGame = {
   id: "01a05be1-cb07-7e2a-9cda-3aa3d7c8d59e",
-  type: "module",
+  type: "page-type/module",
   slug: "chess-game",
   definition: "when a chess game is over and how it reads once written down",
   code: "ts",

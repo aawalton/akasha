@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const sampleUpsert = {
   id: "01a05bc7-9129-7006-bbd4-12ab615a3223",
-  type: "module",
+  type: "page-type/module",
   slug: "sample-upsert",
   definition: "health readings landed on the day page for the ESO day each began in",
   code: "ts",

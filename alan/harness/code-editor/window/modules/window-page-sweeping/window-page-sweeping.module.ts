@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const windowPageSweeping = {
   id: "01a0a166-9b55-7421-ab40-928cc3618bd6",
-  type: "module",
+  type: "page-type/module",
   slug: "window-page-sweeping",
   definition: "the page of every editor window that is no longer open taken away",
   code: "ts",

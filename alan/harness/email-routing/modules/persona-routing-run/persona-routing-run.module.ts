@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const personaRoutingRun = {
   id: "01a0a145-492c-7088-9b18-a9912de34fe6",
-  type: "module",
+  type: "page-type/module",
   slug: "persona-routing-run",
   definition: "the run putting a zone's routing rules back in step with the persona pages",
   code: "ts",

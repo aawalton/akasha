@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const royalRoadSyncing = {
   id: "01a0686a-7a57-7b85-b362-7a71277ca88c",
-  type: "module",
+  type: "page-type/module",
   slug: "royal-road-syncing",
   definition: "every chapter royal road lists for a story read and filed under that story",
   code: "ts",

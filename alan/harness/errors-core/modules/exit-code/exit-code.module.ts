@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const exitCode = {
   id: "01a05c48-deeb-7015-8c70-41f6bb46fd62",
-  type: "module",
+  type: "page-type/module",
   slug: "exit-code",
   definition: "the code a command exits with, and the error types that have one",
   code: "ts",

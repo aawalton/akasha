@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const gmailMessages = {
   id: "01a05c0e-372f-7750-8af3-82f43929d034",
-  type: "module",
+  type: "page-type/module",
   slug: "gmail-messages",
   definition: "mail listed, read, sent, relabelled, archived and trashed",
   code: "ts",

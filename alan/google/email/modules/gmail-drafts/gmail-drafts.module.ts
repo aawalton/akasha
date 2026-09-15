@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const gmailDrafts = {
   id: "01a05c0e-3730-79a1-884f-5caf37ea35cf",
-  type: "module",
+  type: "page-type/module",
   slug: "gmail-drafts",
   definition: "a mail written and kept unsent",
   code: "ts",

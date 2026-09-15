@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const costStoplight = {
   id: "01a08baf-2d7b-7409-962f-a47157e07198",
-  type: "module",
+  type: "page-type/module",
   slug: "cost-stoplight",
   definition: "the cost answered as a stoplight, colored with the surplus in hours",
   code: "ts",

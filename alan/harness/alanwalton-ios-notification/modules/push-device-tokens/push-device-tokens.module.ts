@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pushDeviceTokens = {
   id: "01a069b6-bb6b-79f2-adbe-d2024ad66374",
-  type: "module",
+  type: "page-type/module",
   slug: "push-device-tokens",
   definition: "the devices one person is pushed at, read through this workstation's own service",
   code: "ts",

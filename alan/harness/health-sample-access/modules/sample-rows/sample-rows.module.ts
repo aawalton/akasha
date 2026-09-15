@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const sampleRows = {
   id: "01a05bc7-9129-7003-ad69-0d84f3a9d2ea",
-  type: "module",
+  type: "page-type/module",
   slug: "sample-rows",
   definition: "a stored row read back as a health reading",
   code: "ts",

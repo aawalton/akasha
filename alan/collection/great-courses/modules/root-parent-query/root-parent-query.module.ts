@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const rootParentQuery = {
   id: "01a06579-f3d9-7006-8368-78fe6c117de7",
-  type: "module",
+  type: "page-type/module",
   slug: "root-parent-query",
   definition:
     "the date the Great Courses collection root last synced, read as a gate and written back",

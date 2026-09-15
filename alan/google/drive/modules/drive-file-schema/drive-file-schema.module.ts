@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const driveFileSchema = {
   id: "01a05bec-fc0b-71e6-99a6-f877a44350dd",
-  type: "module",
+  type: "page-type/module",
   slug: "drive-file-schema",
   definition: "the shape Drive answers a file's metadata in",
   code: "ts",

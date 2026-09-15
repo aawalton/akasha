@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const subagentPageNaming = {
   id: "01a095ed-9005-70e5-8d03-654f10141de7",
-  type: "module",
+  type: "page-type/module",
   slug: "subagent-page-naming",
   definition: "the slug and path a subagent's page is named by, and the seat a slug is under",
   code: "ts",

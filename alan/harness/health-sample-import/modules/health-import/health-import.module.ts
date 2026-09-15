@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const healthImport = {
   id: "01a05c14-b11a-7002-a357-a2cd51c9856a",
-  type: "module",
+  type: "page-type/module",
   slug: "health-import",
   definition: "an exported record turned into a stored sample, and what is counted on the way",
   code: "ts",

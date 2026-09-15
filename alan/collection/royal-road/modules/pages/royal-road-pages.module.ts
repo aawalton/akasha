@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const royalRoadPages = {
   id: "01a0657f-4492-7001-ad86-00f3e943bd74",
-  type: "module",
+  type: "page-type/module",
   slug: "royal-road-pages",
   definition: "a Royal Road fiction page and chapter page read into values",
   code: "ts",

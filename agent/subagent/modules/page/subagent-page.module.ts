@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const subagentPage = {
   id: "01a06983-278f-74cd-aa22-89b32f80e5e4",
-  type: "module",
+  type: "page-type/module",
   slug: "subagent-page",
   definition: "the subagents standing under a seat, and their pages removed with it",
   code: "ts",

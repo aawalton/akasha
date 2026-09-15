@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const emailZoneReaching = {
   id: "01a0a141-1f7c-70b6-9fb7-3e8b9fc5baba",
-  type: "module",
+  type: "page-type/module",
   slug: "email-zone-reaching",
   definition: "the zone's email routing rules, read from Cloudflare and written back to it",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const stateWriting = {
   id: "01a09ca3-cbe9-7489-b97b-135b73b4be8a",
-  type: "module",
+  type: "page-type/module",
   slug: "state-writing",
   definition: "what the editor draws written where the editor reads it",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const subagentOutliving = {
   id: "01a08ccb-9a38-710f-a8a6-92cf91ee1cfc",
-  type: "module",
+  type: "page-type/module",
   slug: "subagent-outliving",
   definition: "the subagents whose last record predates the start of the client hosting them",
   code: "ts",

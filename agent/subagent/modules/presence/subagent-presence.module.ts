@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const subagentPresence = {
   id: "01a0598f-18dd-77f7-94be-779f0df14af9",
-  type: "module",
+  type: "page-type/module",
   slug: "subagent-presence",
   definition: "a subagent's page put up while it works and taken away when it is done",
   code: "ts",

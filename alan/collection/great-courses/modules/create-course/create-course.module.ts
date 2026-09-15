@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const createCourse = {
   id: "01a06579-f3d9-7005-80a2-939e9bfae257",
-  type: "module",
+  type: "page-type/module",
   slug: "create-course",
   definition: "a course written as a `great-course` page",
   code: "ts",

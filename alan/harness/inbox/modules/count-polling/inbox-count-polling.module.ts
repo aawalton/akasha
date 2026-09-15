@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inboxCountPolling = {
   id: "01a069b6-bb6b-7e55-a1b8-4f2824914c87",
-  type: "module",
+  type: "page-type/module",
   slug: "inbox-count-polling",
   definition: "how many things are waiting in each of Alan's inboxes at this moment",
   code: "ts",

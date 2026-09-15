@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const externalIdentityReading = {
   id: "01a09bf4-84e9-7269-b76b-4b3efbc8d34a",
-  type: "module",
+  type: "page-type/module",
   slug: "external-identity-reading",
   definition: "what one provider calls a collection, read off and folded into its records",
   code: "ts",

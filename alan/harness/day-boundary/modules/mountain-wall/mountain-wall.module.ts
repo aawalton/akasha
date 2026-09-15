@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mountainWall = {
   id: "01a06848-a27e-756a-aff3-a0c8f31695cb",
-  type: "module",
+  type: "page-type/module",
   slug: "mountain-wall",
   definition: "the instant a Mountain wall time names, and the time a Mountain clock reads at one",
   code: "ts",

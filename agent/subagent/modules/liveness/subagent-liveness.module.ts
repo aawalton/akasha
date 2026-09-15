@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const subagentLiveness = {
   id: "01a095c9-cdd5-7d0e-9723-b8cd507adbe8",
-  type: "module",
+  type: "page-type/module",
   slug: "subagent-liveness",
   definition: "what a seat's transcript says of whether a subagent is still running",
   code: "ts",

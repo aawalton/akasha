@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const costColor = {
   id: "01a08b96-95c4-7a57-9ee3-efab04e522fc",
-  type: "module",
+  type: "page-type/module",
   slug: "cost-color",
   definition: "the color a cost multiplier is drawn in, read with the surplus in hours",
   code: "ts",

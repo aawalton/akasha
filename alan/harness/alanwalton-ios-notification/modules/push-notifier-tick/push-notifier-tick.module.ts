@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pushNotifierTick = {
   id: "01a069b6-bb6b-79e0-abb9-81217fe400a3",
-  type: "module",
+  type: "page-type/module",
   slug: "push-notifier-tick",
   definition: "one round of the notifier: read what is new in the feed and push each of it",
   code: "ts",

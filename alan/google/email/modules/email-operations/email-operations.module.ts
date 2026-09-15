@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const emailOperations = {
   id: "01a0658e-2bf5-7001-a81d-b52dcc937d44",
-  type: "module",
+  type: "page-type/module",
   slug: "email-operations",
   definition: "the email operations of this package gathered behind one lazy load",
   code: "ts",

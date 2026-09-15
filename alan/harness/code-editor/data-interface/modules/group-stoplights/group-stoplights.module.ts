@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const groupStoplights = {
   id: "01a064e4-627c-717e-bcf8-2ad1f41c1222",
-  type: "module",
+  type: "page-type/module",
   slug: "group-stoplights",
   definition: "the glyph row and the legend a set of stoplights is drawn as",
   code: "ts",

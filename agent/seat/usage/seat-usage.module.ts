@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatUsage = {
   id: "01a0687b-3c96-7000-be32-deed725bb134",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-usage",
   definition: "what a seat spends while an agent works in it",
   parts: ["module/seat-usage-keep", "module/seat-usage-show", "module/typing-minutes"],

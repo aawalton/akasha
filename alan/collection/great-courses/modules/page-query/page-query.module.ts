@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageQuery = {
   id: "01a06579-f3d9-7000-b770-d76acf7f6945",
-  type: "module",
+  type: "page-type/module",
   slug: "page-query",
   definition: "a page type's rows read from the store, whole or one page found by its title",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const chessPuzzleLichess = {
   id: "01a0657f-4492-7002-a461-7bfd27ac38a4",
-  type: "module",
+  type: "page-type/module",
   slug: "chess-puzzle-lichess",
   definition: "Lichess's puzzle database read row by row into puzzles",
   code: "ts",

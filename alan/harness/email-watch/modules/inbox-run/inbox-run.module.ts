@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inboxRun = {
   id: "01a06596-a92d-7000-8626-c02c9e56a331",
-  type: "module",
+  type: "page-type/module",
   slug: "inbox-run",
   definition: "one run over the inbox carrying out what the rules say, and the claims it keeps",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const calendarEventSchema = {
   id: "01a05c02-c735-7f12-9984-13c4709e141f",
-  type: "module",
+  type: "page-type/module",
   slug: "calendar-event-schema",
   definition: "how a calendar event is read off Google and written back to it",
   code: "ts",

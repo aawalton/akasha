@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const apnsSending = {
   id: "01a069b6-bb6b-7ca0-81b1-b62e52519bbf",
-  type: "module",
+  type: "page-type/module",
   slug: "apns-sending",
   definition: "one alert handed to Apple's push service over a connection kept open",
   code: "ts",

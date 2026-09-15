@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const subagentLandingAgain = {
   id: "01a0950c-f75d-7a61-8566-0fd55b934e22",
-  type: "module",
+  type: "page-type/module",
   slug: "subagent-landing-again",
   definition: "a landing asked for again after a reason that clears while the run waits",
   code: "ts",

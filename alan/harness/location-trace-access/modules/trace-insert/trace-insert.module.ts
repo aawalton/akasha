@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const traceInsert = {
   id: "01a05bc7-9129-700d-9b3a-ba23544a6e88",
-  type: "module",
+  type: "page-type/module",
   slug: "trace-insert",
   definition: "the refusal a batch of recorded places meets",
   code: "ts",

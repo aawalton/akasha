@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inboxWatching = {
   id: "01a0686a-7a57-789b-82d6-c6d715e27ae4",
-  type: "module",
+  type: "page-type/module",
   slug: "inbox-watching",
   definition:
     "alan's mail decided over and over, and each agent told the claims waiting on that agent",

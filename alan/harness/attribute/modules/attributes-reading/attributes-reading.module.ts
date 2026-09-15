@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const attributesReading = {
   id: "01a069bc-1aa3-790c-bb5e-db2397ad19ed",
-  type: "module",
+  type: "page-type/module",
   slug: "attributes-reading",
   definition: "the six attribute points Alan earned today, read and kept on their own readouts",
   code: "ts",

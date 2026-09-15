@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const sender = {
   id: "01a05bcd-25e3-7ad8-94f5-51861579256d",
-  type: "module",
+  type: "page-type/module",
   slug: "sender",
   definition: "the address and domain a From header carries",
   code: "ts",

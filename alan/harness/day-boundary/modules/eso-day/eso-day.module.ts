@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const esoDay = {
   id: "01a05c77-31e6-7a9f-9805-d1c81725dd03",
-  type: "module",
+  type: "page-type/module",
   slug: "eso-day",
   definition: "the day counted from six in the morning in New York, and the span one covers",
   code: "ts",

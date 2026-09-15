@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const appiumClient = {
   id: "01a05cee-e560-73f4-91d5-4cabe49e4d24",
-  type: "module",
+  type: "page-type/module",
   slug: "appium-client",
   definition: "a typed WebDriver client over an Appium server's HTTP endpoints",
   code: "ts",

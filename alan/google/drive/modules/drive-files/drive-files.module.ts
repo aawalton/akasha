@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const driveFiles = {
   id: "01a05bec-fc0c-717a-b732-43f42f2c02fb",
-  type: "module",
+  type: "page-type/module",
   slug: "drive-files",
   definition: "a Drive file found by id or by URL, and its bytes fetched",
   code: "ts",

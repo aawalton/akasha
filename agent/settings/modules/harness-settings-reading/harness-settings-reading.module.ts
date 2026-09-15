@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const harnessSettingsReading = {
   id: "01a08e0b-50f6-74fe-b9fc-1347ef93435b",
-  type: "module",
+  type: "page-type/module",
   slug: "harness-settings-reading",
   definition: "the settings body beside one agent-settings page, read and narrowed to its shape",
   code: "ts",

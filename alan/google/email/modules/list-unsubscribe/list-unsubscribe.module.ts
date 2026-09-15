@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const listUnsubscribe = {
   id: "01a05c0e-3731-779e-88f2-ee109ff37a60",
-  type: "module",
+  type: "page-type/module",
   slug: "list-unsubscribe",
   definition: "getting off a mailing list by the headers the mail has",
   code: "ts",

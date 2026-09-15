@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const serviceTreeAssemble = {
   id: "01a09bb0-6ca4-76db-b1d3-1c5357bd4f81",
-  type: "module",
+  type: "page-type/module",
   slug: "service-tree-assemble",
   definition: "every service there is, gathered under the kind of service each one is",
   code: "ts",

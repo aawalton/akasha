@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const contactsDb = {
   id: "01a05bc9-4308-7003-8ead-78b2057545e5",
-  type: "module",
+  type: "page-type/module",
   slug: "contacts-db",
   definition: "names and the numbers and addresses they answer at, read from the address book",
   code: "ts",

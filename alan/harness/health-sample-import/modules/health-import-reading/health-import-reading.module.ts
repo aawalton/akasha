@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const healthImportReading = {
   id: "01a05c14-b11a-7005-9108-0d098d5f3aa7",
-  type: "module",
+  type: "page-type/module",
   slug: "health-import-reading",
   definition: "what an import run says about itself once it is done",
   code: "ts",

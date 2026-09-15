@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const imessageCommandReading = {
   id: "01a0685f-c8ed-7000-adfa-6dd4db0e10c3",
-  type: "module",
+  type: "page-type/module",
   slug: "imessage-command-reading",
   definition: "the answer an iMessage command builds from the messages it read",
   code: "ts",

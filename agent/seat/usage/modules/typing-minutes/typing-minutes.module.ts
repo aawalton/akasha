@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const typingMinutes = {
   id: "01a0695a-d2ea-7934-8ccb-470e6b1ea2ac",
-  type: "module",
+  type: "page-type/module",
   slug: "typing-minutes",
   definition:
     "each minute a key was struck, spooled to a daily file under the seat the process belongs to",
