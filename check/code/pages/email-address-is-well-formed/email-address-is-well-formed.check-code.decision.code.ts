@@ -2,7 +2,7 @@ import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts
 import { namesIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import {
-  textAt,
+  slugAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -69,7 +69,7 @@ export function keyingIn(under: ReadonlySet<string>, shadow: Shadow): Keying {
 }
 
 export function reasonsIn(path: string, value: Value, keying: Keying): readonly Judged[] {
-  const kind = textAt(value, KIND) ?? textAt(value, WAS_KIND)
+  const kind = slugAt(value, KIND) ?? slugAt(value, WAS_KIND)
   if (kind === null) return []
   const said: Judged[] = []
   for (const one of keying(kind)) {
