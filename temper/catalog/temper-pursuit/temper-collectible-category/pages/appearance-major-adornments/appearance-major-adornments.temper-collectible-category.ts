@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const appearanceMajorAdornments = {
   id: "01a06165-9165-7001-94ba-3b90b180a2ad",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "appearance-major-adornments",
   title: "Major Adornments",
   parent: "appearance",

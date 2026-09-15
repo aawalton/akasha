@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const housingNotableHomes = {
   id: "01a06165-9169-7003-af56-183cc1122a06",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "housing-notable-homes",
   title: "Notable Homes",
   parent: "housing",

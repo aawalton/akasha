@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const mountsMultiRider = {
   id: "01a06165-9169-7013-bce6-70a85faa9f4a",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "mounts-multi-rider",
   title: "Multi-Rider",
   parent: "mounts",

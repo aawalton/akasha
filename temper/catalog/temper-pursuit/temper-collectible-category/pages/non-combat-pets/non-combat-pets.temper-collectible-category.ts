@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const nonCombatPets = {
   id: "01a06165-916a-7009-8ad9-7bd27404cc55",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "non-combat-pets",
   title: "Non-Combat Pets",
   esoCategoryIndex: 12,

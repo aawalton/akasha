@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const toolsGeneral = {
   id: "01a06165-916a-7016-99c2-e67b1f072fd6",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "tools-general",
   title: "General",
   parent: "tools",

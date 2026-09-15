@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const mountsSencheRaht = {
   id: "01a06165-916a-7001-ade1-e66bb1885c14",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "mounts-senche-raht",
   title: "Senche-Raht",
   parent: "mounts",

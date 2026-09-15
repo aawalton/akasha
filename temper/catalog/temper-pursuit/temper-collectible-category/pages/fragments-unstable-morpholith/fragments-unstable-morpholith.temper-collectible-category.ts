@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsUnstableMorpholith = {
   id: "01a06165-9168-7017-ab03-d2b427522536",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "fragments-unstable-morpholith",
   title: "Unstable Morpholith",
   parent: "fragments",

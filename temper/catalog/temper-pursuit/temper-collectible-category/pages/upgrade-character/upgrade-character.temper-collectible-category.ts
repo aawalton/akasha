@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const upgradeCharacter = {
   id: "01a06165-916a-7018-8e8b-52066284e9e6",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "upgrade-character",
   title: "Character",
   parent: "upgrade",

@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const weaponStylesOneHanded = {
   id: "01a06165-916b-7000-8806-eb3bc1ab4951",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "weapon-styles-one-handed",
   title: "One-Handed",
   parent: "weapon-styles",

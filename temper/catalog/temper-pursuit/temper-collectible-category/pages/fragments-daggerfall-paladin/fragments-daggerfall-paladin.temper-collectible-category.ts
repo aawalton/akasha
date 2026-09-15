@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsDaggerfallPaladin = {
   id: "01a06165-9167-700d-a13c-f6686358129b",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "fragments-daggerfall-paladin",
   title: "Daggerfall Paladin",
   parent: "fragments",

@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const weaponStylesBow = {
   id: "01a06165-916a-701f-b616-55da1fb0b725",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "weapon-styles-bow",
   title: "Bow",
   parent: "weapon-styles",

@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const appearance = {
   id: "01a06165-9164-7002-be7d-2923bffef82a",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "appearance",
   title: "Appearance",
   esoCategoryIndex: 4,

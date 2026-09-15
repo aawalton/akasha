@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const mountsCamels = {
   id: "01a06165-9169-700b-85b4-7a047906c0f2",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "mounts-camels",
   title: "Camels",
   parent: "mounts",

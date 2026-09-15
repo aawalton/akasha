@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const mountsGuarKagoutis = {
   id: "01a06165-9169-7010-90ad-5c9091ef7a71",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "mounts-guar-kagoutis",
   title: "Guar & Kagoutis",
   parent: "mounts",

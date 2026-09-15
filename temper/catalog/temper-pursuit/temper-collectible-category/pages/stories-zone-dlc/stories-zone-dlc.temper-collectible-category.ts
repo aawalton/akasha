@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const storiesZoneDlc = {
   id: "01a06165-916a-7014-877e-133970ff8925",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "stories-zone-dlc",
   title: "Zone DLC",
   parent: "stories",

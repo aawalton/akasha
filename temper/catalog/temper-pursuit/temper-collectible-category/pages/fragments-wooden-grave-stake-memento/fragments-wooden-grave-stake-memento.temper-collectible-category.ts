@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsWoodenGraveStakeMemento = {
   id: "01a06165-9168-701a-a674-3613834517b0",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "fragments-wooden-grave-stake-memento",
   title: "Wooden Grave-Stake Memento",
   parent: "fragments",

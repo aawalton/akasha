@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsThornsBiteWithersteed = {
   id: "01a06165-9168-7016-8892-03f03b6ed098",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "fragments-thorns-bite-withersteed",
   title: "Thorn's Bite Withersteed",
   parent: "fragments",

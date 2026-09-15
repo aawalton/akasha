@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const emotes = {
   id: "01a06165-9167-7003-bbbd-b4308347c255",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "emotes",
   title: "Emotes",
   esoCategoryIndex: 14,

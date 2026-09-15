@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsDeadlandsScorcher = {
   id: "01a06165-9167-7011-b7e1-e10c9b56ffee",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "fragments-deadlands-scorcher",
   title: "Deadlands Scorcher",
   parent: "fragments",

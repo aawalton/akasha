@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsMossheartIndrik = {
   id: "01a06165-9168-7002-87a4-273778a1583b",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "fragments-mossheart-indrik",
   title: "Mossheart Indrik",
   parent: "fragments",

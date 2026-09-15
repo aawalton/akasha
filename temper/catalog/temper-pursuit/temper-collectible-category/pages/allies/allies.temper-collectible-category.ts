@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const allies = {
   id: "01a06165-9163-7000-af7b-95bfcd4fa6b6",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "allies",
   title: "Allies",
   esoCategoryIndex: 8,

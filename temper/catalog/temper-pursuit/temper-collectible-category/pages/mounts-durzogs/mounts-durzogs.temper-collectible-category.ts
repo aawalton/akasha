@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const mountsDurzogs = {
   id: "01a06165-9169-700d-b36e-c7a718ef623e",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "mounts-durzogs",
   title: "Durzogs",
   parent: "mounts",

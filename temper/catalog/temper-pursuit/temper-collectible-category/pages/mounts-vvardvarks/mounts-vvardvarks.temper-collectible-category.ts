@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const mountsVvardvarks = {
   id: "01a06165-916a-7006-8c25-0410186b4e75",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "mounts-vvardvarks",
   title: "Vvardvarks",
   parent: "mounts",

@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const customizedActionsMining = {
   id: "01a06165-9166-7006-94ac-b5a271d16ad3",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "customized-actions-mining",
   title: "Mining",
   parent: "customized-actions",

@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const alliesCompanions = {
   id: "01a06165-9164-7001-8025-00652c475341",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "allies-companions",
   title: "Companions",
   parent: "allies",

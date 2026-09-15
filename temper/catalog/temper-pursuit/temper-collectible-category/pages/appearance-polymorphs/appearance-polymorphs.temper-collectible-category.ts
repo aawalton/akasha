@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const appearancePolymorphs = {
   id: "01a06165-9165-7004-b6d9-6be373aa2ec5",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "appearance-polymorphs",
   title: "Polymorphs",
   parent: "appearance",

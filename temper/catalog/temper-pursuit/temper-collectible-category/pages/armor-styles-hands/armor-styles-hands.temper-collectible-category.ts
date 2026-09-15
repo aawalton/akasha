@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const armorStylesHands = {
   id: "01a06165-9166-7000-ae96-d233bca85f60",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "armor-styles-hands",
   title: "Hands",
   parent: "armor-styles",

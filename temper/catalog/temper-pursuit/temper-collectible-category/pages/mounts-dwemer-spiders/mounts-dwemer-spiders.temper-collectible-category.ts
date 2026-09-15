@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const mountsDwemerSpiders = {
   id: "01a06165-9169-700e-bc03-12f9abcb73d1",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "mounts-dwemer-spiders",
   title: "Dwemer Spiders",
   parent: "mounts",

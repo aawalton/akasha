@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const nonCombatPetsExotic = {
   id: "01a06165-916a-700c-8260-c4e511ae3051",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "non-combat-pets-exotic",
   title: "Exotic",
   parent: "non-combat-pets",

@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsAurielicQuasigriff = {
   id: "01a06165-9167-700a-b12e-96bede95694d",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "fragments-aurielic-quasigriff",
   title: "Aurielic Quasigriff",
   parent: "fragments",

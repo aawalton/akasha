@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsPassionDancerGarment = {
   id: "01a06165-9168-7006-8d52-eed671c721a7",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "fragments-passion-dancer-garment",
   title: "Passion Dancer Garment",
   parent: "fragments",

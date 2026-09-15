@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsMeadowbreezeMemories = {
   id: "01a06165-9168-7000-8420-8a731e8380a4",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "fragments-meadowbreeze-memories",
   title: "Meadowbreeze Memories",
   parent: "fragments",

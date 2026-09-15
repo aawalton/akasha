@@ -2,7 +2,7 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const appearanceHats = {
   id: "01a06165-9164-7007-a5c1-d318dffca294",
-  type: "temper-collectible-category",
+  type: "page-type/temper-collectible-category",
   slug: "appearance-hats",
   title: "Hats",
   parent: "appearance",
