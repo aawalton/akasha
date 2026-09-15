@@ -39,7 +39,7 @@ export const deployFileClosure = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A file is reached by following the imports of the code rather than a manifest.",
+      statement: "A file is reached by asking the graph what that file reaches.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -47,15 +47,11 @@ export const deployFileClosure = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A specifier is read through the manifests the tracked files carry.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "A path the imports reach that git does not track is reached by nothing.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A body that is no TypeScript is read for no import.",
+      statement: "A seed is reached whether or not git tracks that seed.",
     },
     {
       invariantKind: "invariant-kind/departure",

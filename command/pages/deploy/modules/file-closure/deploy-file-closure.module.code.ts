@@ -1,7 +1,5 @@
-import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { sharedBuildFiles } from "akasha/code/ios-app/modules/shared-build-files/shared-build-files.module.code.ts"
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
-import { reachedFrom } from "akasha/code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"
 import {
   IOS_APP,
   type Named,
@@ -10,20 +8,20 @@ import {
 } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { bodyAt as bodyInCommit } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
+import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
+import { reachingOutOf } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import { deployableNamed } from "akasha/infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"
 import { runnerCodeIn } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
-import {
-  type Body,
-  manifestsAmong,
-  reachingOf,
-} from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
+import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import type { Body } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import {
   everyOfType,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const MANIFEST = "package.json"
+const IMPORT = importEdge.slug
 
 const APART = "\0"
 
@@ -38,10 +36,6 @@ function bodiesFrom(root: string, commit: string): Body {
     const held = bodyInCommit(root, commit, path)
     return held === null ? null : reading.decode(held)
   }
-}
-
-export function codeBodies(bodyAt: Body): Body {
-  return (path) => (typeScripted(path) ? bodyAt(path) : null)
 }
 
 function memoized(bodyAt: Body): Body {
@@ -60,16 +54,21 @@ export type Reading = {
   readonly over: (seeds: readonly string[]) => ReadonlySet<string>
 }
 
-export function readingOver(tracked: readonly string[], bodyAt: Body): Reading {
+export function readingOver(tracked: readonly string[], bodyAt: Body, index: Answering): Reading {
   const bodies = memoized(bodyAt)
-  const naming = reachingOf(manifestsAmong(tracked, MANIFEST), bodies)
-  const code = codeBodies(bodies)
   const every = new Set(tracked)
-  return { tracked, over: (seeds) => reachedFrom(seeds, code, naming, every) }
+  return {
+    tracked,
+    over: (seeds) => {
+      const seeded = new Set(seeds)
+      const through = (one: string): boolean => seeded.has(one) || every.has(one)
+      return new Set(reachingOutOf(seeds, [IMPORT], index, bodies, through))
+    },
+  }
 }
 
 export function readingAt(root: string, commit: string): Reading {
-  return readingOver(trackedAt(root, commit), bodiesFrom(root, commit))
+  return readingOver(trackedAt(root, commit), bodiesFrom(root, commit), shadowAt(root).index)
 }
 
 export function underFolder(tracked: readonly string[], folder: string): readonly string[] {

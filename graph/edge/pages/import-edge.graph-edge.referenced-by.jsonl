@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"import-edge.graph-edge.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"import-edge.graph-edge.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"import-edge.graph-edge.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.test.ts"}
+{"propertySlug":"import","fileName":"import-edge.graph-edge.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
 {"propertySlug":"parts","path":"graph/edge/graph-edge.page-type.ts","id":"01a04fe8-cebd-71d5-a040-d50b202e6eb1"}

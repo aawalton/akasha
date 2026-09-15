@@ -1,12 +1,14 @@
 import { expect, test } from "bun:test"
 import {
   besideThe,
-  codeBodies,
   kindSeeds,
   readingOver,
   underFolder,
 } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
+import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
+
+const INDEX = shadowAt(codeRoot()).index
 
 const PAGE = "apps/one/one.web-app.ts"
 
@@ -47,25 +49,25 @@ test("a folder handed in answers the tracked files under that folder", () => {
 })
 
 test("a file beside the page that is no code is one the deploy is built from", () => {
-  expect(readingOver(TRACKED, bodyAt).over(SEEDS).has("apps/one/logo.png")).toBe(true)
+  expect(readingOver(TRACKED, bodyAt, INDEX).over(SEEDS).has("apps/one/logo.png")).toBe(true)
 })
 
 test("a file the code beside the page imports is one the deploy is built from", () => {
-  expect(readingOver(TRACKED, bodyAt).over(SEEDS).has("shared/helper.ts")).toBe(true)
+  expect(readingOver(TRACKED, bodyAt, INDEX).over(SEEDS).has("shared/helper.ts")).toBe(true)
 })
 
 test("a file reached through another file reached is reached too", () => {
-  expect(readingOver(TRACKED, bodyAt).over(SEEDS).has("shared/gone.ts")).toBe(true)
+  expect(readingOver(TRACKED, bodyAt, INDEX).over(SEEDS).has("shared/gone.ts")).toBe(true)
 })
 
 test("a file nothing beside the page reaches is no file the deploy is built from", () => {
-  const found = readingOver(TRACKED, bodyAt).over(SEEDS)
+  const found = readingOver(TRACKED, bodyAt, INDEX).over(SEEDS)
   expect(found.has("shared/apart.ts")).toBe(false)
   expect(found.has("apps/two/two.web-app.ts")).toBe(false)
 })
 
 test("a path git does not track is reached by nothing", () => {
-  const found = readingOver([PAGE, "apps/one/main.ts"], bodyAt).over(SEEDS)
+  const found = readingOver([PAGE, "apps/one/main.ts"], bodyAt, INDEX).over(SEEDS)
   expect(found.has("shared/helper.ts")).toBe(false)
 })
 
@@ -79,7 +81,8 @@ test("a kind whose unit names no shared code is seeded with nothing shared", () 
 })
 
 test("a body that is no TypeScript is read for no import", () => {
-  const reading = codeBodies(() => "anything")
-  expect(reading("apps/one/logo.png")).toBe(null)
-  expect(reading("apps/one/main.ts")).toBe("anything")
+  const found = readingOver(TRACKED, () => BODIES["apps/one/main.ts"] ?? "", INDEX).over([
+    "apps/one/logo.png",
+  ])
+  expect(found.has("shared/helper.ts")).toBe(false)
 })
