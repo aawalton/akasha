@@ -1,13 +1,12 @@
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { pageNamed } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { pageNamed, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import {
-  slugAt,
-  type Value,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const PHONE_NUMBER = "phone-number-property"
+
+const PAGE_TYPE = "page-type"
 
 const PLUS = "+"
 
@@ -72,9 +71,22 @@ function keyedIn(pageTypeSlug: string, under: ReadonlySet<string>, shadow: Shado
   return found
 }
 
+function typesCarryingOne(under: ReadonlySet<string>, shadow: Shadow): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const kind of under) {
+    for (const listed of shadow.index.everyOfType(kind)) {
+      for (const one of shadow.index.declaringOf(listed.id)) {
+        if (one.kind !== PAGE_TYPE) continue
+        for (const below of shadow.index.kindsUnder(one.slug)) found.add(below)
+      }
+    }
+  }
+  return found
+}
+
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const under = shadow.index.kindsUnder(PHONE_NUMBER)
-  const pageTypes = shadow.index.pageTypesIn()
+  const carrying = typesCarryingOne(under, shadow)
   const held = new Map<string, Keyed>()
   const keyedBy = (pageTypeSlug: string): Keyed => {
     const found = held.get(pageTypeSlug)
@@ -85,13 +97,13 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
   }
   const judged: Judged[] = []
   for (const path of change.changed) {
-    if (!pageNamed(path, pageTypes)) continue
-    const value = shadow.pageOf(path)
-    if (value === null) continue
-    const pageTypeSlug = slugAt(value, "type") ?? slugAt(value, "pageTypeSlug")
-    if (pageTypeSlug === null) continue
+    if (!pageNamed(path, carrying)) continue
+    const pageTypeSlug = partedIn(path)?.pageType
+    if (pageTypeSlug === undefined) continue
     const keyed = keyedBy(pageTypeSlug)
     if (keyed.size === 0) continue
+    const value = shadow.pageOf(path)
+    if (value === null) continue
     for (const reason of reasonsIn(value, keyed)) judged.push({ path, reason })
   }
   return judged

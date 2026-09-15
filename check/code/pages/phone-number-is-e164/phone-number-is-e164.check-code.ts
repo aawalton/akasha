@@ -16,7 +16,20 @@ export const phoneNumberIsE164 = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement:
+        "The page types that can carry a phone number are read from `phone-number-property` down.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A page type the change itself puts under `phone-number-property` counts.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page's type is read from its file name rather than from its body.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page whose type carries no phone number is never opened.",
     },
     {
       invariantKind: "invariant-kind/departure",

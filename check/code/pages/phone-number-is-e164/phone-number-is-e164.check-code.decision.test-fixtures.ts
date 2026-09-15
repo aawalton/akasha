@@ -1,6 +1,8 @@
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   declaring,
+  edging,
+  filing,
   founded,
   pathFor,
   typed,
@@ -19,6 +21,11 @@ export const KEYED = new Map([["phone", "phone"]])
 
 export const scratch = scratchWorld()
 
+function namedByPerson(root: string, kind: string, slug: string): undefined {
+  filing(root, kind, slug, `id-${slug}`)
+  edging(root, `id-${slug}`, "page-property", "id-person", pathFor("page-type", "person"))
+}
+
 export function rooted(): string {
   const root = scratch.rootFor("akasha-e164-")
   founded(root)
@@ -31,6 +38,9 @@ export function rooted(): string {
   declaring(root, "phone", { pageTypeSlug: "phone-number-property" })
   declaring(root, "note", { pageTypeSlug: "text-property" })
   declaring(root, "mobile", { pageTypeSlug: "mobile-number-property" })
+  namedByPerson(root, "phone-number-property", "phone")
+  namedByPerson(root, "text-property", "note")
+  namedByPerson(root, "mobile-number-property", "mobile")
   return root
 }
 
