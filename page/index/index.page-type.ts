@@ -168,20 +168,7 @@ export const index = {
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "An import edge is keyed by the path a specifier reaches rather than by the specifier.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "A change moving what a specifier reaches refiles every importer of that specifier.",
-    },
-    {
-      invariantKind: "invariant-kind/gap",
-      statement: "Only an importer of a file is refused.",
-    },
-    {
-      invariantKind: "invariant-kind/gap",
-      statement: "Only a path that makes an edge refuses the importers of that path.",
+        "An import is referenced by the path a specifier reaches rather than by the specifier.",
     },
     {
       invariantKind: "invariant-kind/gap",
