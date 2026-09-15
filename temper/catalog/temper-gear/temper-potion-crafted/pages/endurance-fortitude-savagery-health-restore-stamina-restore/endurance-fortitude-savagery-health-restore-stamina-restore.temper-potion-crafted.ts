@@ -2,7 +2,7 @@ import type { TemperPotionCrafted } from "akasha/temper/catalog/temper-gear/temp
 
 export const enduranceFortitudeSavageryHealthRestoreStaminaRestore = {
   id: "019e21f6-4064-7f1a-b15d-8c7656e32d5d",
-  type: "temper-potion-crafted",
+  type: "page-type/temper-potion-crafted",
   slug: "endurance-fortitude-savagery-health-restore-stamina-restore",
   title: "Essence of Weapon Crit",
   key: "endurance-fortitude-savagery-health-restore-stamina-restore",

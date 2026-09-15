@@ -2,7 +2,7 @@ import type { TemperPotionCrafted } from "akasha/temper/catalog/temper-gear/temp
 
 export const protectionResistancePhysicalResistanceSpell = {
   id: "019e21f6-4040-729a-8efc-1b36559d376f",
-  type: "temper-potion-crafted",
+  type: "page-type/temper-potion-crafted",
   slug: "protection-resistance-physical-resistance-spell",
   title: "Essence of Physical Resistance",
   key: "protection-resistance-physical-resistance-spell",

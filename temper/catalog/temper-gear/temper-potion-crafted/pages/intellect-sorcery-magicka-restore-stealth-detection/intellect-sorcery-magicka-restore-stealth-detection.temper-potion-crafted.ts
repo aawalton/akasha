@@ -2,7 +2,7 @@ import type { TemperPotionCrafted } from "akasha/temper/catalog/temper-gear/temp
 
 export const intellectSorceryMagickaRestoreStealthDetection = {
   id: "019e21f6-4061-7f2f-80f6-a8d7e436aefd",
-  type: "temper-potion-crafted",
+  type: "page-type/temper-potion-crafted",
   slug: "intellect-sorcery-magicka-restore-stealth-detection",
   title: "Essence of Spell Power",
   key: "intellect-sorcery-magicka-restore-stealth-detection",

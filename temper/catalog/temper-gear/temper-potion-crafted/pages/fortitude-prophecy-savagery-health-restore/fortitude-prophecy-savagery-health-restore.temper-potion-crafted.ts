@@ -2,7 +2,7 @@ import type { TemperPotionCrafted } from "akasha/temper/catalog/temper-gear/temp
 
 export const fortitudeProphecySavageryHealthRestore = {
   id: "019e21f6-4066-7bd8-81d1-7b50e175d27f",
-  type: "temper-potion-crafted",
+  type: "page-type/temper-potion-crafted",
   slug: "fortitude-prophecy-savagery-health-restore",
   title: "Essence of Weapon Crit",
   key: "fortitude-prophecy-savagery-health-restore",

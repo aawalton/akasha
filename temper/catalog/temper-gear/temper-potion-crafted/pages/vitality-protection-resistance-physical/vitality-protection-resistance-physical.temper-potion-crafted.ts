@@ -2,7 +2,7 @@ import type { TemperPotionCrafted } from "akasha/temper/catalog/temper-gear/temp
 
 export const vitalityProtectionResistancePhysical = {
   id: "019e21f6-4045-7f82-bf12-19cb6068b0b6",
-  type: "temper-potion-crafted",
+  type: "page-type/temper-potion-crafted",
   slug: "vitality-protection-resistance-physical",
   title: "Essence of Vitality",
   key: "vitality-protection-resistance-physical",

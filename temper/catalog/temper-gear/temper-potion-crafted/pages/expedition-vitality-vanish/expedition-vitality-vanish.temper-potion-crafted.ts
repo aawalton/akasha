@@ -2,7 +2,7 @@ import type { TemperPotionCrafted } from "akasha/temper/catalog/temper-gear/temp
 
 export const expeditionVitalityVanish = {
   id: "019e21f6-406a-7fbe-ac10-35674cfbae81",
-  type: "temper-potion-crafted",
+  type: "page-type/temper-potion-crafted",
   slug: "expedition-vitality-vanish",
   title: "Essence of Speed",
   key: "expedition-vitality-vanish",
