@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const pizzaThePlacePizza241AnyPizza = {
   id: "019f322c-a601-756d-bd47-083c097281ea",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "pizza-the-place-pizza-2-4-1-any-pizza",
   title: "The Place Pizza — 2-4-1! Any Pizza!",
   collection: "location-collection/starving-student-card",

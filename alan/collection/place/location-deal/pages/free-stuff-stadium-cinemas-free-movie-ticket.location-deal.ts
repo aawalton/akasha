@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffStadiumCinemasFreeMovieTicket = {
   id: "019f322c-a31f-720e-8e5d-990f4b319e16",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-stadium-cinemas-free-movie-ticket",
   title: "Stadium Cinemas — FREE! Movie Ticket!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentByuBowlingAndGamesCenter241GameOfBowling = {
   id: "019f322c-9ccf-7615-8b6c-494cdee2fe63",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-byu-bowling-and-games-center-2-4-1-game-of-bowling",
   title: "BYU Bowling & Games Center — 2-4-1! Game of Bowling!",
   collection: "location-collection/starving-student-card",

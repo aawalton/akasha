@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentLaserAssault241LaserAssaultGame = {
   id: "019f322c-9e25-775d-807c-b8f08a52af29",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-laser-assault-2-4-1-laser-assault-game",
   title: "Laser Assault — 2-4-1! Laser Assault Game!",
   collection: "location-collection/starving-student-card",

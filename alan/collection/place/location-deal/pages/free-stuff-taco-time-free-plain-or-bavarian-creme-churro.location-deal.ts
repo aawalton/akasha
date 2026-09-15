@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffTacoTimeFreePlainOrBavarianCremeChurro = {
   id: "019f322c-a329-76b1-9e24-115b0a6567a9",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-taco-time-free-plain-or-bavarian-creme-churro",
   title: "Taco Time — FREE! Plain or Bavarian Creme Churro!",
   collection: "location-collection/starving-student-card",

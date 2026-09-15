@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffParlorDoughnutsFreeCarnivalDoughnut = {
   id: "019f322c-a1a7-7d35-a308-ed2460588fee",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-parlor-doughnuts-free-carnival-doughnut",
   title: "Parlor Doughnuts — FREE! Carnival Doughnut!",
   collection: "location-collection/starving-student-card",

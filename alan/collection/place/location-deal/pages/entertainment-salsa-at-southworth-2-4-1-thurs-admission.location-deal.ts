@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentSalsaAtSouthworth241ThursAdmission = {
   id: "019f322c-9e96-736a-b203-1a2120909f52",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-salsa-at-southworth-2-4-1-thurs-admission",
   title: "Salsa at Southworth — 2-4-1! Thurs Admission!",
   collection: "location-collection/starving-student-card",

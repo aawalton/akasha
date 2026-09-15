@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const pizzaRosatisAuthenticChicagoPizza241AnyPizza = {
   id: "019f322c-a5fe-7795-af34-f8720906510b",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "pizza-rosatis-authentic-chicago-pizza-2-4-1-any-pizza",
   title: "Rosati's Authentic Chicago Pizza — 2-4-1! Any Pizza!",
   collection: "location-collection/starving-student-card",

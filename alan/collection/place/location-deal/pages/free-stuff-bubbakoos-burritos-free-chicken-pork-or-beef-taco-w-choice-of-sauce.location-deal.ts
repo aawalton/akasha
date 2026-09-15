@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffBubbakoosBurritosFreeChickenPorkOrBeefTacoWChoiceOfSauce = {
   id: "019f322c-9f68-7211-8cf6-62ba49260e98",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-bubbakoos-burritos-free-chicken-pork-or-beef-taco-w-choice-of-sauce",
   title: "Bubbakoo's Burritos — FREE! Chicken, Pork or Beef Taco w/ Choice of Sauce!",
   collection: "location-collection/starving-student-card",

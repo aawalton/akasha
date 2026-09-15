@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffSplashDrinksAndTreatsFreeConeBagOfCheddarJalapenoOrButterPopcorn = {
   id: "019f322c-a2d7-7487-81f9-207514bdd7eb",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-splash-drinks-and-treats-free-cone-bag-of-cheddar-jalapeno-or-butter-popcorn",
   title: "Splash Drinks and Treats — FREE! Cone Bag of Cheddar, Jalapeno, or Butter Popcorn!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffMandalynAcademyFreeNoseOrEarWax = {
   id: "019f322c-a0e5-7250-a68f-ea11446692bc",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-mandalyn-academy-free-nose-or-ear-wax",
   title: "Mandalyn Academy — FREE! Nose OR Ear Wax!",
   collection: "location-collection/starving-student-card",

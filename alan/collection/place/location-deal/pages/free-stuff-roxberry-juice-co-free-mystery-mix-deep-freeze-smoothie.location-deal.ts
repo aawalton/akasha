@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffRoxberryJuiceCoFreeMysteryMixDeepFreezeSmoothie = {
   id: "019f322c-a279-764d-8db5-18fe8f9e6dae",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-roxberry-juice-co-free-mystery-mix-deep-freeze-smoothie",
   title: "Roxberry Juice Co. — FREE! Mystery Mix Deep-freeze Smoothie!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsChubbysFreeOrderOfSconesWAnyPurchase = {
   id: "019f322c-a71e-76ad-a6e2-fc84396ffd62",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-chubbys-free-order-of-scones-w-any-purchase",
   title: "Chubby's — FREE! Order of Scones w/Any Purchase!",
   collection: "location-collection/starving-student-card",

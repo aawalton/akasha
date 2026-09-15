@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffSplashSummitWaterparkFreeDayPass = {
   id: "019f322c-a2dc-728b-a3ea-3d5e62abb70f",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-splash-summit-waterpark-free-day-pass",
   title: "Splash Summit Waterpark — FREE! Day Pass!",
   collection: "location-collection/starving-student-card",

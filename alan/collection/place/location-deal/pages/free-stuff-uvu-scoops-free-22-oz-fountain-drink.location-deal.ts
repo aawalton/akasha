@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffUvuScoopsFree22OzFountainDrink = {
   id: "019f322c-a3fb-7e7d-9b40-ce7e2051ef6e",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-uvu-scoops-free-22-oz-fountain-drink",
   title: "UVU Scoops — FREE! 22 oz. Fountain Drink!",
   collection: "location-collection/starving-student-card",

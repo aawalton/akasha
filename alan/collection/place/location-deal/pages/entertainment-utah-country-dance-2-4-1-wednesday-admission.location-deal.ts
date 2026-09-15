@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentUtahCountryDance241WednesdayAdmission = {
   id: "019f322c-9f4e-7c03-ae29-0804b280b198",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-utah-country-dance-2-4-1-wednesday-admission",
   title: "Utah Country Dance — 2-4-1! Wednesday Admission!",
   collection: "location-collection/starving-student-card",

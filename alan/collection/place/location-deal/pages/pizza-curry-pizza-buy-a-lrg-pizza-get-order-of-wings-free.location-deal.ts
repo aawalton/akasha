@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const pizzaCurryPizzaBuyALrgPizzaGetOrderOfWingsFree = {
   id: "019f322c-a45f-76e3-9158-1c4f50af5ac4",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "pizza-curry-pizza-buy-a-lrg-pizza-get-order-of-wings-free",
   title: "Curry Pizza — Buy a Lrg Pizza, Get Order of Wings FREE!",
   collection: "location-collection/starving-student-card",

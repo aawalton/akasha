@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentBackNineGolfBuy1HourGet1Free = {
   id: "019f322c-9cca-758b-ac47-183fac052ecc",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-back-nine-golf-buy-1-hour-get-1-free",
   title: "Back Nine Golf — Buy 1 Hour, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

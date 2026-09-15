@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffUtahGrizzliesFreeTicketForUpTo2People = {
   id: "019f322c-a3ec-7b5b-8b4a-f8aa2b37283d",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-utah-grizzlies-free-ticket-for-up-to-2-people",
   title: "Utah Grizzlies — FREE! Ticket for Up to 2 People!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentVoltageEbikeRent1EbikeFor1HrGet2ndEbikeFree = {
   id: "019f322c-9f55-7040-9e7e-cfaad4cd9b74",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-voltage-ebike-rent-1-ebike-for-1-hr-get-2nd-ebike-free",
   title: "Voltage eBike — Rent 1 eBike for 1 Hr, Get 2nd eBike FREE!",
   collection: "location-collection/starving-student-card",

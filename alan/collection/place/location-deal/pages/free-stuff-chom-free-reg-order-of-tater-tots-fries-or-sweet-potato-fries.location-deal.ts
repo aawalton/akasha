@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffChomFreeRegOrderOfTaterTotsFriesOrSweetPotatoFries = {
   id: "019f322c-9fa2-771f-996f-44c1395f2b0a",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-chom-free-reg-order-of-tater-tots-fries-or-sweet-potato-fries",
   title: "CHOM — FREE! Reg Order of Tater Tots, Fries or Sweet Potato Fries!",
   collection: "location-collection/starving-student-card",

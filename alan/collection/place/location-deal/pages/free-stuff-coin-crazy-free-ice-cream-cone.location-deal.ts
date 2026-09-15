@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffCoinCrazyFreeIceCreamCone = {
   id: "019f322c-a004-7709-8aa0-6ea7081f70ba",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-coin-crazy-free-ice-cream-cone",
   title: "Coin Crazy — FREE! Ice Cream Cone!",
   collection: "location-collection/starving-student-card",

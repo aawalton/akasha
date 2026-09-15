@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentHeberHatchets241AxeThrowingUpTo4Throwers = {
   id: "019f322c-9dab-7ae0-abf5-7aa277259a55",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-heber-hatchets-2-4-1-axe-throwing-up-to-4-throwers",
   title: "Heber Hatchets — 2-4-1! Axe Throwing! Up to 4 Throwers.",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffPaulMitchellTheSchoolProvoFreeStraightRazorFaceAndNeckShaveOrBeardTrim = {
   id: "019f322c-a201-74f2-af1e-df1d7f0ca1e9",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-paul-mitchell-the-school-provo-free-straight-razor-face-and-neck-shave-or-beard-trim",
   title: "Paul Mitchell the School Provo — FREE! Straight Razor Face & Neck Shave or Beard Trim!",
   collection: "location-collection/starving-student-card",

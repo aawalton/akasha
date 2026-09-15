@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffBurgersSupremeFreeFlavorBurstIceCreamCone = {
   id: "019f322c-9f6e-7a01-badd-915e96355891",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-burgers-supreme-free-flavor-burst-ice-cream-cone",
   title: "Burgers Supreme — FREE! Flavor Burst Ice Cream Cone!",
   collection: "location-collection/starving-student-card",

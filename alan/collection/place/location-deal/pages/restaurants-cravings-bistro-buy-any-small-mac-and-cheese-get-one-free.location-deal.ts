@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsCravingsBistroBuyAnySmallMacAndCheeseGetOneFree = {
   id: "019f322c-a777-7a90-afea-a6d40021fd75",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-cravings-bistro-buy-any-small-mac-and-cheese-get-one-free",
   title: "Craving's Bistro — Buy Any Small Mac & Cheese, Get One FREE!",
   collection: "location-collection/starving-student-card",

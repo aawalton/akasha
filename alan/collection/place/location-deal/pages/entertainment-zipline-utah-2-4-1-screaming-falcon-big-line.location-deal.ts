@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentZiplineUtah241ScreamingFalconBigLine = {
   id: "019f322c-9f57-765b-b950-65d9f48448df",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-zipline-utah-2-4-1-screaming-falcon-big-line",
   title: "Zipline Utah — 2-4-1! Screaming Falcon Big Line!",
   collection: "location-collection/starving-student-card",

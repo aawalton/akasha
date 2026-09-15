@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentScratchMiniatureGolf241RoundOfMiniGolf = {
   id: "019f322c-9e9d-77ec-a56d-8d763477fd59",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-scratch-miniature-golf-2-4-1-round-of-mini-golf",
   title: "Scratch Miniature Golf — 2-4-1! Round of Mini Golf!",
   collection: "location-collection/starving-student-card",

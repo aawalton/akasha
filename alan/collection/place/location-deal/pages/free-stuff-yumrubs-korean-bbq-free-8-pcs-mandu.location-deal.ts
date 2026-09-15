@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffYumrubsKoreanBbqFree8PcsMandu = {
   id: "019f322c-a409-7632-9149-62b83694a660",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-yumrubs-korean-bbq-free-8-pcs-mandu",
   title: "Yumrub's Korean BBQ — FREE! 8 Pcs Mandu…",
   collection: "location-collection/starving-student-card",

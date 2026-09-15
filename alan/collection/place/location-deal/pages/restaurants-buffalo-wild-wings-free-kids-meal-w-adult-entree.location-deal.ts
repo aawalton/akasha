@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsBuffaloWildWingsFreeKidsMealWAdultEntree = {
   id: "019f322c-a6a1-787a-b5db-e93b64f43562",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-buffalo-wild-wings-free-kids-meal-w-adult-entree",
   title: "Buffalo Wild Wings — FREE! Kids Meal w/ Adult Entree!",
   collection: "location-collection/starving-student-card",

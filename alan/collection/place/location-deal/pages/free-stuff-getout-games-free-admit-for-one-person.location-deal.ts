@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffGetoutGamesFreeAdmitForOnePerson = {
   id: "019f322c-a086-7f5a-a78b-1a4b56f78ead",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-getout-games-free-admit-for-one-person",
   title: "GetOut Games — FREE! Admit for ONE Person!",
   collection: "location-collection/starving-student-card",

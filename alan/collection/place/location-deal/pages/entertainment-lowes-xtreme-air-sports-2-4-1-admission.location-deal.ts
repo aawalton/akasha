@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentLowesXtremeAirSports241Admission = {
   id: "019f322c-9e2c-77a5-a281-2c1344b34e5d",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-lowes-xtreme-air-sports-2-4-1-admission",
   title: "Lowes Xtreme Air Sports — 2-4-1! Admission!",
   collection: "location-collection/starving-student-card",

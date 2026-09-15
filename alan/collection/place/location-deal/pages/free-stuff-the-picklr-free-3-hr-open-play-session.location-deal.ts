@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffThePicklrFree3HrOpenPlaySession = {
   id: "019f322c-a38a-75b1-a788-40ceaaf0fa06",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-the-picklr-free-3-hr-open-play-session",
   title: "The Picklr — FREE! 3 Hr Open Play Session!",
   collection: "location-collection/starving-student-card",

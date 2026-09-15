@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffPaulMitchellTheSchoolProvoFreeHaircut = {
   id: "019f322c-a1f0-7ac4-99e9-4dbace706ae3",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-paul-mitchell-the-school-provo-free-haircut",
   title: "Paul Mitchell the School Provo — FREE! Haircut!",
   collection: "location-collection/starving-student-card",

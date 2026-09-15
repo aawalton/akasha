@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffColorMeMineFreeStudioAdmission = {
   id: "019f322c-a00d-7b5e-a624-ccd8ac332324",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-color-me-mine-free-studio-admission",
   title: "Color Me Mine — FREE! Studio Admission!",
   collection: "location-collection/starving-student-card",

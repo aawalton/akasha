@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentKaraoke38241HourOfKaraoke = {
   id: "019f322c-9dcb-799b-a8a9-cc0addd51e8d",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-karaoke38-2-4-1-hour-of-karaoke",
   title: "Karaoke38 — 2-4-1! Hour of Karaoke!",
   collection: "location-collection/starving-student-card",

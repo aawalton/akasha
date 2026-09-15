@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentDreamwalkParkBuy1AdultTicketGetAChildTicketFree = {
   id: "019f322c-9cfa-7804-ad2e-344497fa57d5",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-dreamwalk-park-buy-1-adult-ticket-get-a-child-ticket-free",
   title: "Dreamwalk Park — Buy 1 Adult Ticket, Get a Child Ticket FREE!",
   collection: "location-collection/starving-student-card",

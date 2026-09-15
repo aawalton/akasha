@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffGameGridFreeMagicTheGatheringBoosterPack = {
   id: "019f322c-a084-79fe-9f52-b00182e972e3",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-game-grid-free-magic-the-gathering-booster-pack",
   title: "Game Grid — FREE! Magic the Gathering Booster Pack!",
   collection: "location-collection/starving-student-card",

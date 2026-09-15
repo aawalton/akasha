@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentHiddenhuntsCom30OffTreasureHuntAdventure = {
   id: "019f322c-9db3-7632-a72b-5d25bd83665c",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-hiddenhunts-com-30-off-treasure-hunt-adventure",
   title: "HiddenHunts.com — 30% OFF! Treasure Hunt Adventure!",
   collection: "location-collection/starving-student-card",

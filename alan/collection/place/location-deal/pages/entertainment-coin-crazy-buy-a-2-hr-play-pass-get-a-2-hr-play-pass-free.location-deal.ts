@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentCoinCrazyBuyA2HrPlayPassGetA2HrPlayPassFree = {
   id: "019f322c-9cf0-70c4-bc0b-6d262a635f6c",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-coin-crazy-buy-a-2-hr-play-pass-get-a-2-hr-play-pass-free",
   title: "Coin Crazy — Buy a 2 hr Play Pass, Get a 2 hr Play Pass FREE!",
   collection: "location-collection/starving-student-card",

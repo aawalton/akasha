@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const pizzaPizzaHutBuyMedOrLrgPizzaGetAMeltFree = {
   id: "019f322c-a5df-724e-afc9-ab33b431efd3",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "pizza-pizza-hut-buy-med-or-lrg-pizza-get-a-melt-free",
   title: "Pizza Hut — Buy Med or Lrg Pizza, Get a Melt FREE!",
   collection: "location-collection/starving-student-card",

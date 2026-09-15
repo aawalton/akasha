@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const bumblebeesKbbqAndGrillKPopFriesKPhillyKNoodlesOrDupBop = {
   id: "019f322c-a703-7af8-9b04-b7c3a3939c9a",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "bumblebees-kbbq-and-grill-k-pop-fries-k-philly-k-noodles-or-dup-bop",
   title:
     "Bumblebees KBBQ & Grill — Buy 1 K-pop Fries, K-Philly, K-Noodles, Or Dup Bop, & 2 Drinks, Get 1 FREE!",

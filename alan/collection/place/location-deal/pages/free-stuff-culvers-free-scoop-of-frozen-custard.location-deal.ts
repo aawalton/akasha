@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffCulversFreeScoopOfFrozenCustard = {
   id: "019f322c-a014-7993-ae2d-fb1c47419533",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-culvers-free-scoop-of-frozen-custard",
   title: "Culver's — FREE! Scoop of Frozen Custard!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const pizzaMidiciTheNeapolitanPizzaCompany241Pizza = {
   id: "019f322c-a523-7e4e-988b-5b4ea0f50acf",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "pizza-midici-the-neapolitan-pizza-company-2-4-1-pizza",
   title: "MidiCi The Neapolitan Pizza Company — 2-4-1! Pizza!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentRowleysRedBarn241AdmissionToCornMazeAndFallFestival = {
   id: "019f322c-9e92-7599-b764-587689a77fb2",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-rowleys-red-barn-2-4-1-admission-to-corn-maze-and-fall-festival",
   title: "Rowley's Red Barn — 2-4-1! Admission to Corn Maze and Fall Festival!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffUtahCountryDanceFreeSaturdayAdmission = {
   id: "019f322c-a3b1-7bed-8077-b52bc0fafdb3",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-utah-country-dance-free-saturday-admission",
   title: "Utah Country Dance — FREE! Saturday Admission!",
   collection: "location-collection/starving-student-card",

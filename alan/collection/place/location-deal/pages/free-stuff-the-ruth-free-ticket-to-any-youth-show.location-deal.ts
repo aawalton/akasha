@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffTheRuthFreeTicketToAnyYouthShow = {
   id: "019f322c-a398-7db2-8ec4-a7cc5e221a10",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-the-ruth-free-ticket-to-any-youth-show",
   title: "The Ruth — FREE! Ticket to Any Youth Show!",
   collection: "location-collection/starving-student-card",

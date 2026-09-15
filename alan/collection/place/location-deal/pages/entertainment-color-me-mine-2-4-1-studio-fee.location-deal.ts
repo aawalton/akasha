@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentColorMeMine241StudioFee = {
   id: "019f322c-9cf2-7637-86a1-7ade55462046",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-color-me-mine-2-4-1-studio-fee",
   title: "Color Me Mine — 2-4-1! Studio Fee!",
   collection: "location-collection/starving-student-card",

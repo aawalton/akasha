@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffTheRiftAugmentedRealityFreeAdmit2ToAnyExperience = {
   id: "019f322c-a393-7388-9e0d-e137adb274bf",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-the-rift-augmented-reality-free-admit-2-to-any-experience",
   title: "The Rift Augmented Reality — FREE! Admit 2 to Any Experience!",
   collection: "location-collection/starving-student-card",

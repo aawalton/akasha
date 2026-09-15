@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffTheGreatGreekMediterraneanGrillFreeFetaFry = {
   id: "019f322c-a380-776d-b330-9236fe038930",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-the-great-greek-mediterranean-grill-free-feta-fry",
   title: "The Great Greek Mediterranean Grill — FREE! Feta Fry!",
   collection: "location-collection/starving-student-card",

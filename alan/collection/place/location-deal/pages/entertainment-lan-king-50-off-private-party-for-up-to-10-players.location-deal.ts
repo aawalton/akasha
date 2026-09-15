@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentLanKing50OffPrivatePartyForUpTo10Players = {
   id: "019f322c-9e1f-7fd6-b3b2-c36f5c145adb",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-lan-king-50-off-private-party-for-up-to-10-players",
   title: "LAN King — 50% OFF! Private Party for Up to 10 Players!",
   collection: "location-collection/starving-student-card",

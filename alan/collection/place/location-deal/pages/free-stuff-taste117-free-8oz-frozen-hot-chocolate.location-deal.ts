@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffTaste117Free8ozFrozenHotChocolate = {
   id: "019f322c-a331-7900-9b83-31947f491870",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-taste117-free-8oz-frozen-hot-chocolate",
   title: "Taste117 — FREE! 8oz. Frozen Hot Chocolate!",
   collection: "location-collection/starving-student-card",

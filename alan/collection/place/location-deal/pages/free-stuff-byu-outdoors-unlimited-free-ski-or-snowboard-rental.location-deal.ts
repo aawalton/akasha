@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffByuOutdoorsUnlimitedFreeSkiOrSnowboardRental = {
   id: "019f322c-9f97-745a-a771-ba26e418f0eb",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-byu-outdoors-unlimited-free-ski-or-snowboard-rental",
   title: "BYU Outdoors Unlimited — FREE! Ski or Snowboard Rental!",
   collection: "location-collection/starving-student-card",

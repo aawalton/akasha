@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffRedlineRacingFreeRace = {
   id: "019f322c-a275-78b3-bafd-bac9a104bf64",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-redline-racing-free-race",
   title: "Redline Racing — FREE! Race!",
   collection: "location-collection/starving-student-card",

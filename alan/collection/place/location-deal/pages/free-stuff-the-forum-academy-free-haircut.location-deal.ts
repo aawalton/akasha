@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffTheForumAcademyFreeHaircut = {
   id: "019f322c-a342-7ce9-90c0-8b95cebe1833",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-the-forum-academy-free-haircut",
   title: "The Forum Academy — FREE! Haircut!",
   collection: "location-collection/starving-student-card",

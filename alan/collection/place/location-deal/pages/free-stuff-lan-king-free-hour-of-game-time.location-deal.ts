@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffLanKingFreeHourOfGameTime = {
   id: "019f322c-a096-713b-b644-e94bfdcf9066",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-lan-king-free-hour-of-game-time",
   title: "LAN King — FREE! Hour of Game Time!",
   collection: "location-collection/starving-student-card",

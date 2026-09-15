@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentGetoutGames50OffGroupAdmissionForOneRoom = {
   id: "019f322c-9d5f-77ef-a96d-ff5dc2808483",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-getout-games-50-off-group-admission-for-one-room",
   title: "GetOut Games — 50% OFF! Group Admission for One Room!",
   collection: "location-collection/starving-student-card",

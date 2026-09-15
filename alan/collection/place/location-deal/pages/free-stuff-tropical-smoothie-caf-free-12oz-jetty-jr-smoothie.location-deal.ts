@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffTropicalSmoothieCafFree12ozJettyJrSmoothie = {
   id: "019f322c-a3aa-7429-af60-e86292c0fd02",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-tropical-smoothie-caf-free-12oz-jetty-jr-smoothie",
   title: "Tropical Smoothie Café — FREE! 12oz. Jetty Jr. Smoothie!",
   collection: "location-collection/starving-student-card",

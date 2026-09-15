@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentPeaksIceArena241RegAdmission = {
   id: "019f322c-9e73-7923-b576-d04126d97205",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-peaks-ice-arena-2-4-1-reg-admission",
   title: "Peaks Ice Arena — 2-4-1! Reg Admission!",
   collection: "location-collection/starving-student-card",

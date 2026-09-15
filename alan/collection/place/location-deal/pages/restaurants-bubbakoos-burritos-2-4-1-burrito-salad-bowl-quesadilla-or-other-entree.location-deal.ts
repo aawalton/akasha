@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsBubbakoosBurritos241BurritoSaladBowlQuesadillaOrOtherEntree = {
   id: "019f322c-a65f-709e-a82b-55fabcdd8609",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-bubbakoos-burritos-2-4-1-burrito-salad-bowl-quesadilla-or-other-entree",
   title: "Bubbakoo's Burritos — 2-4-1! Burrito, Salad, Bowl, Quesadilla or Other Entree!",
   collection: "location-collection/starving-student-card",

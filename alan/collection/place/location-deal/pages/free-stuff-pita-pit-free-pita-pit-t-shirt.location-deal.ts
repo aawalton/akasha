@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffPitaPitFreePitaPitTShirt = {
   id: "019f322c-a20d-74f9-a15f-652e84324456",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-pita-pit-free-pita-pit-t-shirt",
   title: "Pita Pit — FREE! Pita Pit T-Shirt!",
   collection: "location-collection/starving-student-card",

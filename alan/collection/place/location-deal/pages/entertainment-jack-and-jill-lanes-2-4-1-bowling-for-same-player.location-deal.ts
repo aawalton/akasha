@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentJackAndJillLanes241BowlingForSamePlayer = {
   id: "019f322c-9dc2-7ff3-8042-403f97f676f5",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-jack-and-jill-lanes-2-4-1-bowling-for-same-player",
   title: "Jack & Jill Lanes — 2-4-1! Bowling for Same Player!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffDominosFreeOrderOfOvenBakedTwistsAndDip = {
   id: "019f322c-a028-7004-a90d-b8bfa91ba3a2",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-dominos-free-order-of-oven-baked-twists-and-dip",
   title: "Domino's — FREE! Order of Oven-Baked Twists & Dip!",
   collection: "location-collection/starving-student-card",

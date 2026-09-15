@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffMcdonaldsFree12OzFrozenDrink = {
   id: "019f322c-a0e8-7ea4-ad06-1955fbc9929e",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-mcdonalds-free-12-oz-frozen-drink",
   title: "McDonald's — FREE! 12 oz Frozen Drink!",
   collection: "location-collection/starving-student-card",

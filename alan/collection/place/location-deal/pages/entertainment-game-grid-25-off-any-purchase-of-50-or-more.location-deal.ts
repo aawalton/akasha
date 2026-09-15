@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentGameGrid25OffAnyPurchaseOf50OrMore = {
   id: "019f322c-9d58-74b3-ac93-3d32938921c1",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-game-grid-25-off-any-purchase-of-50-or-more",
   title: "Game Grid — $25 OFF! Any Purchase of $50 or More!",
   collection: "location-collection/starving-student-card",

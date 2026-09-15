@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffOnohsMalasadaCoFreeSugarMalasada = {
   id: "019f322c-a1a1-73a1-9de8-7a89b182c799",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-onohs-malasada-co-free-sugar-malasada",
   title: "Onoh's Malasada Co — FREE! Sugar Malasada!",
   collection: "location-collection/starving-student-card",

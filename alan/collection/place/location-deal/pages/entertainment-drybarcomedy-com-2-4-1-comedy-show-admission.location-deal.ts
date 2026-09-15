@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentDrybarcomedyCom241ComedyShowAdmission = {
   id: "019f322c-9cff-7786-803b-b7085f67973c",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-drybarcomedy-com-2-4-1-comedy-show-admission",
   title: "DryBarComedy.com — 2-4-1! Comedy Show Admission!",
   collection: "location-collection/starving-student-card",

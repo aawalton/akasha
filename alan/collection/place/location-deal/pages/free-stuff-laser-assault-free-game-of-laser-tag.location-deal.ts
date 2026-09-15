@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffLaserAssaultFreeGameOfLaserTag = {
   id: "019f322c-a098-75dc-95e4-3a22412417b4",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-laser-assault-free-game-of-laser-tag",
   title: "Laser Assault — FREE! Game of Laser Tag!",
   collection: "location-collection/starving-student-card",

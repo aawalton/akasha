@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffImprovBroadwayOneFreeAdmission = {
   id: "019f322c-a089-77fb-8c7f-98792676bba3",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-improv-broadway-one-free-admission",
   title: "Improv Broadway — One FREE! Admission!",
   collection: "location-collection/starving-student-card",

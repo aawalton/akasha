@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentTheRiftAugmentedReality241AnyExperienceMax8People = {
   id: "019f322c-9eef-7d09-be9e-4cfd3fb83b11",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-the-rift-augmented-reality-2-4-1-any-experience-max-8-people",
   title: "The Rift Augmented Reality — 2-4-1! Any Experience! Max 8 People",
   collection: "location-collection/starving-student-card",

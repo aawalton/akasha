@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffYogurtlandFreeFirst5OuncesOfYogurt = {
   id: "019f322c-a406-742d-ac46-9bdb74255a01",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-yogurtland-free-first-5-ounces-of-yogurt",
   title: "Yogurtland — FREE! First 5 Ounces of Yogurt!",
   collection: "location-collection/starving-student-card",

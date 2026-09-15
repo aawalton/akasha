@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurants5StarBbqBuyAnyMeatPlateGetAOneMeatPlateFree = {
   id: "019f322c-a64c-7b00-9ebb-a2bacd51b6a1",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-5-star-bbq-buy-any-meat-plate-get-a-one-meat-plate-free",
   title: "5 Star BBQ — Buy Any Meat Plate, Get a One-Meat Plate FREE!",
   collection: "location-collection/starving-student-card",

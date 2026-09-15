@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffClasRopesCourseFreeAdmissionToAerialAdventurePark = {
   id: "019f322c-9faa-7726-af2b-fe413d72c3cc",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-clas-ropes-course-free-admission-to-aerial-adventure-park",
   title: "CLAS Ropes Course — FREE! Admission to Aerial Adventure Park!",
   collection: "location-collection/starving-student-card",

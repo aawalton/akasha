@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const pizzaPier49Pizza241AllYouCanEatLunchBuffet = {
   id: "019f322c-a57b-7093-a04e-68920bd0c10f",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "pizza-pier-49-pizza-2-4-1-all-you-can-eat-lunch-buffet",
   title: "Pier 49 Pizza — 2-4-1! All You Can Eat Lunch Buffet!",
   collection: "location-collection/starving-student-card",

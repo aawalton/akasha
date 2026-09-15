@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const pizzaPizzaPieCafFreeKidsBuffetWPayingAdult = {
   id: "019f322c-a5f5-7435-bfa0-a12b1de2c120",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "pizza-pizza-pie-caf-free-kids-buffet-w-paying-adult",
   title: "Pizza Pie Café — FREE! Kid's Buffet w/ Paying Adult!",
   collection: "location-collection/starving-student-card",

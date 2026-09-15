@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentEscapesInTime50OffAnyGroupAdmissionForOneRoom = {
   id: "019f322c-9d02-7df8-b188-4ee1648196a9",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-escapes-in-time-50-off-any-group-admission-for-one-room",
   title: "Escapes In Time — 50% OFF! Any Group Admission for One Room!",
   collection: "location-collection/starving-student-card",

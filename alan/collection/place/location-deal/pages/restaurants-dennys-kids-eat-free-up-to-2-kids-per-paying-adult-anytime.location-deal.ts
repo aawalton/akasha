@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsDennysKidsEatFreeUpTo2KidsPerPayingAdultAnytime = {
   id: "019f322c-a784-7e7c-a52d-f287616b5002",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-dennys-kids-eat-free-up-to-2-kids-per-paying-adult-anytime",
   title: "Dennys — Kids Eat FREE! Up to 2 Kids Per Paying Adult Anytime!",
   collection: "location-collection/starving-student-card",

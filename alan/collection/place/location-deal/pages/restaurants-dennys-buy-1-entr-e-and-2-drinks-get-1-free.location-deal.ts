@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsDennysBuy1EntrEAnd2DrinksGet1Free = {
   id: "019f322c-a77f-74ef-b4f5-41dc1c89d0e1",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-dennys-buy-1-entr-e-and-2-drinks-get-1-free",
   title: "Dennys — Buy 1 Entrée & 2 Drinks, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

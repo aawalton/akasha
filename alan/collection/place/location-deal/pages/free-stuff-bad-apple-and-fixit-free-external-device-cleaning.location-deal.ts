@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffBadAppleAndFixitFreeExternalDeviceCleaning = {
   id: "019f322c-9f63-7b55-a68b-625da18bd05d",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-bad-apple-and-fixit-free-external-device-cleaning",
   title: "Bad Apple & FIXIT — FREE! External Device Cleaning!",
   collection: "location-collection/starving-student-card",

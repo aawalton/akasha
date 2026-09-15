@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const pizzaGurusCafeBuy1PizzaGet1Free = {
   id: "019f322c-a4c8-7288-80ce-87b72d06922d",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "pizza-gurus-cafe-buy-1-pizza-get-1-free",
   title: "Gurus Cafe — Buy 1 Pizza, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

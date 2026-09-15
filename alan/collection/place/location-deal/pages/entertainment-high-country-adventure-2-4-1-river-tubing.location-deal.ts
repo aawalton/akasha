@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentHighCountryAdventure241RiverTubing = {
   id: "019f322c-9db9-76cd-9ae9-c5166e3b45f3",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-high-country-adventure-2-4-1-river-tubing",
   title: "High Country Adventure — 2-4-1! River Tubing!",
   collection: "location-collection/starving-student-card",

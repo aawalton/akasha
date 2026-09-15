@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffTheYardMilkshakeBarFreeCalfCup = {
   id: "019f322c-a3a1-78ca-9492-369e07c90d0b",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-the-yard-milkshake-bar-free-calf-cup",
   title: "The Yard Milkshake Bar — FREE! Calf Cup!",
   collection: "location-collection/starving-student-card",

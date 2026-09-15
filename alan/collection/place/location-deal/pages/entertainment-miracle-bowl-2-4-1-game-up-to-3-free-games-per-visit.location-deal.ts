@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentMiracleBowl241GameUpTo3FreeGamesPerVisit = {
   id: "019f322c-9e2f-7363-9467-c91ed574ce1c",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-miracle-bowl-2-4-1-game-up-to-3-free-games-per-visit",
   title: "Miracle Bowl — 2-4-1! Game! Up to 3 free games per visit!",
   collection: "location-collection/starving-student-card",

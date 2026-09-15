@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsElMolcajeteBuy1EntreeAnd2DrinksGetOneFree = {
   id: "019f322c-a7cc-7a0e-8d1c-55ba47ce2a53",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-el-molcajete-buy-1-entree-and-2-drinks-get-one-free",
   title: "El Molcajete — Buy 1 Entree & 2 Drinks, Get One FREE!",
   collection: "location-collection/starving-student-card",

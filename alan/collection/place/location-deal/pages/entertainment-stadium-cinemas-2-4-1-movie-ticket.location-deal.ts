@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentStadiumCinemas241MovieTicket = {
   id: "019f322c-9edb-7f50-80e2-7581bba62087",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-stadium-cinemas-2-4-1-movie-ticket",
   title: "Stadium Cinemas — 2-4-1 Movie Ticket!",
   collection: "location-collection/starving-student-card",

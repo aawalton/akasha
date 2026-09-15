@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffJerseyMikesFreeChocolateChipCookie = {
   id: "019f322c-a08f-7228-a29e-03cd2f864dbd",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-jersey-mikes-free-chocolate-chip-cookie",
   title: "Jersey Mikes — FREE! Chocolate Chip Cookie!",
   collection: "location-collection/starving-student-card",

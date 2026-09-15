@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffKreativeKilnFreeOpenStudioSession = {
   id: "019f322c-a093-7bcf-90f8-45dbd7927573",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-kreative-kiln-free-open-studio-session",
   title: "Kreative Kiln — FREE! Open Studio Session!",
   collection: "location-collection/starving-student-card",

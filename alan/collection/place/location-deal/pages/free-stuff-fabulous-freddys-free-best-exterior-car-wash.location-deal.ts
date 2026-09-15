@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffFabulousFreddysFreeBestExteriorCarWash = {
   id: "019f322c-a079-7258-8c83-544aefba1585",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-fabulous-freddys-free-best-exterior-car-wash",
   title: "Fabulous Freddy's — FREE! Best Exterior Car Wash!",
   collection: "location-collection/starving-student-card",

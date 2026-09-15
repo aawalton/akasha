@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentClassicFunCenter241SkatingClimbingBouncingOrLaserTag = {
   id: "019f322c-9cea-754b-acb4-d7691c988369",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-classic-fun-center-2-4-1-skating-climbing-bouncing-or-laser-tag",
   title: "Classic Fun Center — 2-4-1! Skating, Climbing, Bouncing or Laser Tag!",
   collection: "location-collection/starving-student-card",

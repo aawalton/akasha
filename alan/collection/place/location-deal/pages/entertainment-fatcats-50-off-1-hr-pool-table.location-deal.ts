@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const entertainmentFatcats50Off1HrPoolTable = {
   id: "019f322c-9d4b-70c3-a5b5-645cfe880bf3",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "entertainment-fatcats-50-off-1-hr-pool-table",
   title: "FatCats — 50% OFF! 1 Hr Pool Table!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const pizzaPizzaPieCafBuy1BuffetAnd2DrinksGet1BuffetFree = {
   id: "019f322c-a5ef-77c0-8d79-dc67ba4bd708",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "pizza-pizza-pie-caf-buy-1-buffet-and-2-drinks-get-1-buffet-free",
   title: "Pizza Pie Café — Buy 1 Buffet and 2 Drinks, Get 1 Buffet FREE!",
   collection: "location-collection/starving-student-card",

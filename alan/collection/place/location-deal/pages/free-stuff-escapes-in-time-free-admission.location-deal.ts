@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const freeStuffEscapesInTimeFreeAdmission = {
   id: "019f322c-a075-7838-bc2a-bb5bcdfe3f8e",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "free-stuff-escapes-in-time-free-admission",
   title: "Escapes In Time — FREE! Admission!",
   collection: "location-collection/starving-student-card",

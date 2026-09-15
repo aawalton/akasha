@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const restaurantsCarrabbasItalianGrillBuy2EntreesGetADessertOrAppetizerFree = {
   id: "019f322c-a70f-7058-ad7e-bcbe64c2aa46",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "restaurants-carrabbas-italian-grill-buy-2-entrees-get-a-dessert-or-appetizer-free",
   title: "Carrabba's Italian Grill — Buy 2 Entrees, Get a Dessert or Appetizer FREE!",
   collection: "location-collection/starving-student-card",
