@@ -1,0 +1,10 @@
+{"propertySlug":"change-target-subtype","path":"change/agent/file-content/append-lines-from/append-lines-from.change-agent.ts","id":"01a09312-fac0-7cab-bb6c-b8e6116903b3"}
+{"propertySlug":"change-target-subtype","path":"change/agent/file-content/append-lines/append-lines.change-agent.ts","id":"01a08c38-a17c-70de-985a-a097e3dced7d"}
+{"propertySlug":"change-target-subtype","path":"change/agent/file-content/change-file/change-file.change-agent.ts","id":"01a07813-6e3d-7d39-a28a-164766ab0fed"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts","id":"01a08c36-f87f-791e-99a3-e195153103fb"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/file-content/change/change-file-content-of-any-kind/change-file-content-of-any-kind.change-mechanical-file-content.ts","id":"01a0826c-1190-79a9-aa7d-6eaf11dec403"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.ts","id":"01a07810-fb33-7e75-8e1e-ce1e302d5668"}
+{"propertySlug":"change-target-subtype-parent","path":"change/target/subtype/pages/file-content-code.change-target-subtype.ts","id":"01a07c7a-1d86-7649-a845-20b1ea1df964"}
+{"propertySlug":"change-target-subtype-parent","path":"change/target/subtype/pages/file-content-entry-key.change-target-subtype.ts","id":"01a09b5c-a94c-7b54-98ae-46591f50d4cb"}
+{"propertySlug":"change-target-subtype-parent","path":"change/target/subtype/pages/file-content-manifest.change-target-subtype.ts","id":"01a07c7a-427b-7571-9ad2-19341455abcb"}
+{"propertySlug":"parts","path":"change/target/subtype/change-target-subtype.page-type.ts","id":"01a07c71-2924-76f9-b37f-a239b7b97045"}

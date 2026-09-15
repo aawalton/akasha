@@ -112,7 +112,7 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.code.ts"}
-{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/append/append-lines/append-lines.change-mechanical-file-content.code.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/change/change-file-content-code/change-file-content-code.change-mechanical-file-content.code.ts"}

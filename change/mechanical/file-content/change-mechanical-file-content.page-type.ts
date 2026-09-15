@@ -6,8 +6,8 @@ export const changeMechanicalFileContent = {
   slug: "change-mechanical-file-content",
   definition: "a mechanical change acting on what a file holds under no narrower reading",
   parts: [
+    "change-mechanical-file-content/append-lines",
     "domain/change-mechanical-file-content-add",
-    "domain/change-mechanical-file-content-append",
     "domain/change-mechanical-file-content-change",
     "domain/change-mechanical-file-content-move",
     "domain/change-mechanical-file-content-remove",

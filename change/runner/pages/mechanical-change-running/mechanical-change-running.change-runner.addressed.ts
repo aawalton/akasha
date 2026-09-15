@@ -12,7 +12,7 @@ export type Changes = {
     typeof import("akasha/change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
   "change-mechanical-file-content/append-lines": Parameters<
-    typeof import("akasha/change/mechanical/file-content/append/append-lines/append-lines.change-mechanical-file-content.code.ts")["runChange"]
+    typeof import("akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
   "change-mechanical-file-content/change-domain-parent": Parameters<
     typeof import("akasha/change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.code.ts")["runChange"]

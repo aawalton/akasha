@@ -1265,7 +1265,7 @@
 {"propertySlug":"invariant-kind","path":"change/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.ts","id":"01a081d9-419a-72bf-ae0b-5318df5fce07"}
 {"propertySlug":"invariant-kind","path":"change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts","id":"01a07932-2568-72a6-8b8e-314ac44c417b"}
 {"propertySlug":"invariant-kind","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.ts","id":"01a081dc-0cef-7d5a-9c4e-daf2ba343c98"}
-{"propertySlug":"invariant-kind","path":"change/mechanical/file-content/append/append-lines/append-lines.change-mechanical-file-content.ts","id":"01a08c36-f87f-791e-99a3-e195153103fb"}
+{"propertySlug":"invariant-kind","path":"change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts","id":"01a08c36-f87f-791e-99a3-e195153103fb"}
 {"propertySlug":"invariant-kind","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.ts","id":"01a08244-bf2d-7a34-9f71-759e3754a1ed"}
 {"propertySlug":"invariant-kind","path":"change/mechanical/file-content/change/change-file-content-code/change-file-content-code.change-mechanical-file-content.ts","id":"01a079ac-d401-7d7b-aa1f-45743f81cf73"}
 {"propertySlug":"invariant-kind","path":"change/mechanical/file-content/change/change-file-content-of-any-kind/change-file-content-of-any-kind.change-mechanical-file-content.ts","id":"01a0826c-1190-79a9-aa7d-6eaf11dec403"}
