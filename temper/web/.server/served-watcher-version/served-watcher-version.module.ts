@@ -6,9 +6,9 @@ export const servedWatcherVersion = {
   slug: "served-watcher-version",
   definition: "the watcher version the server is handing out",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stamp file that is absent or empty reads as no version served.",
     },
   ],

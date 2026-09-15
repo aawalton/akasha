@@ -6,9 +6,9 @@ export const watcherDir = {
   slug: "watcher-dir",
   definition: "the folder the watcher's downloads are served out of",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A folder named relative is taken against the folder the server runs in.",
     },
   ],

@@ -6,13 +6,13 @@ export const supabaseServiceClient = {
   slug: "supabase-service-client",
   definition: "the Supabase client with the service role, made once and held",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The address inside the cluster is taken over the address a browser reaches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The address is read at the first call rather than at load.",
     },
   ],
