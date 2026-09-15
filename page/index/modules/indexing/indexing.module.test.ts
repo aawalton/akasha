@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
 import {
@@ -305,4 +305,14 @@ test("a refresh that stopped part way leaves an index every reader still reads",
   expect(() => refreshedFrom(tree, root, tree)).toThrow()
 
   expect(existsSync(idFile(root, A))).toBe(true)
+})
+
+test("a refresh names the shapes file it wrote and leaves it alone once it says that", () => {
+  const { tree, root } = aWorldWithAnEdge()
+  const at = "text-property.page-type.shapes.jsonl"
+  rmSync(join(tree, at))
+
+  expect(refreshedFrom(tree, root, tree).beside).toEqual([at])
+
+  expect(refreshedFrom(tree, root, tree).beside).toEqual([])
 })

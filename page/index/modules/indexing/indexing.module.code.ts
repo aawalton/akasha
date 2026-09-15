@@ -16,6 +16,7 @@ import {
   type Laid,
   reconcile,
   takenAway,
+  wholeOf,
 } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import {
   bodiesAt,
@@ -48,6 +49,7 @@ import {
   sourceOver,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { textOnDisk } from "akasha/util/fs/modules/text-on-disk/text-on-disk.module.code.ts"
+import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 
 type Pending = {
   readonly before: string | null
@@ -67,6 +69,7 @@ export type Refreshed = {
   readonly entries: number
   readonly refused: readonly string[]
   readonly drift: Drift
+  readonly beside: readonly string[]
 }
 
 function drifting(said: readonly Laid[], went: readonly string[]): Drift {
@@ -130,9 +133,9 @@ export function refreshedFrom(
   const identifying = identifyingFrom(source)
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
   const drift = [reconcile(identity, root, put, done)]
-  if (put) {
-    wholeInto(repo, shapesAmong(held.map((one) => ({ ...one, path: under(repo, one.path) }))))
-  }
+  const shaped = put
+    ? wholeInto(repo, shapesAmong(held.map((one) => ({ ...one, path: under(repo, one.path) }))))
+    : []
   const reading = readingAt(root, repo)
   const known = knownIn(reading, (path) => valueAt(path, repo))
   const beside = bodiesAt(repo)
@@ -171,6 +174,7 @@ export function refreshedFrom(
     entries: identity.length + edge.length,
     refused: filed.flatMap((one) => one.refused),
     drift: drifting(drift, went),
+    beside: shaped,
   }
 }
 
@@ -191,12 +195,21 @@ function besideInto(repo: string, filings: readonly Filing[]): undefined {
   for (const one of filings) keepDelta(join(repo, one.at), one, repo)
 }
 
-function wholeInto(repo: string, beside: ReadonlyMap<string, string>, make = true): undefined {
+function wholeInto(
+  repo: string,
+  beside: ReadonlyMap<string, string>,
+  make = true
+): readonly string[] {
+  const wrote: string[] = []
   for (const [at, whole] of beside) {
     const to = join(repo, at)
     if (!make && !existsSync(to)) continue
-    keepWhole(to, whole.split("\n").filter(linesKept), repo)
+    const lines = whole.split("\n").filter(linesKept)
+    if (textThere(to) === (lines.length === 0 ? null : wholeOf(lines))) continue
+    keepWhole(to, lines, repo)
+    wrote.push(at)
   }
+  return wrote.sort()
 }
 
 export function keepingIn(repo: string): Indexing {

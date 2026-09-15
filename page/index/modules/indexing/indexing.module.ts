@@ -64,6 +64,14 @@ export const indexing = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A shapes file already saying what the pages say is left as it is.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A refresh names the shapes files beside pages whose bodies the refresh wrote.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A settle keeps such a file as the pages leave it and makes no file of its own.",
     },
     {
