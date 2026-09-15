@@ -6,17 +6,17 @@ export const addonsBundleDir = {
   slug: "addons-bundle-dir",
   definition: "the folder the built addon bundles are served out of",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A folder named relative is taken against the folder the server runs in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The folder is read from the environment once when this module loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A change to the environment after this module has loaded does not move the folder.",
     },

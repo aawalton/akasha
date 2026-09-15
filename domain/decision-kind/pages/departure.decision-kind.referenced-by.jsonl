@@ -972,6 +972,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/web-build-version/modules/build-sha/build-sha.module.ts","id":"01a05c48-deeb-700e-a808-4f4784f43278"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-build-version/modules/live-version/live-version.module.ts","id":"01a05c48-deeb-700f-82ef-afcd8de33755"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-build-version/web-build-version.domain.ts","id":"01a05c48-deeb-700d-9df1-fad9c81a0a32"}
+{"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/.server/answer-page-write/answer-page-write.module.ts","id":"01a0640f-8510-7ab5-87bf-f593cb1eb7a7"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/modules/nav-icon-svg/nav-icon-svg.module.ts","id":"01a0640f-8510-721d-88b0-b37b2bda4681"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/web-page-answer.domain.ts","id":"01a0655a-b2a8-78a3-9dec-43e67b15bf10"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-static-asset/modules/build-directory/build-directory.module.ts","id":"01a08db3-6723-70df-8ccd-9abb25c56c16"}
@@ -5184,6 +5185,9 @@
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-version/watcher-version.module.ts","id":"01a06370-eddf-7a1c-97ea-eec451828f6a"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-worker/watcher-worker.module.ts","id":"01a0674e-d7f8-75c9-a6ee-f3a19f736aca"}
 {"propertySlug":"decision-kind","path":"temper/watcher/temper-watcher.service-workstation.ts","id":"01a06039-9c8b-7942-a8fc-234055602831"}
+{"propertySlug":"decision-kind","path":"temper/web/.server/addons-bundle-dir/addons-bundle-dir.module.ts","id":"01a0640f-850f-76fa-aa1c-8817cc184e55"}
+{"propertySlug":"decision-kind","path":"temper/web/.server/answer-ask/answer-ask.module.ts","id":"01a0640f-8510-7705-b1ef-543766ffde5e"}
+{"propertySlug":"decision-kind","path":"temper/web/.server/character-import/character-import.module.ts","id":"01a0640f-8510-7c04-b799-f12ba75125ab"}
 {"propertySlug":"decision-kind","path":"temper/web/.server/companion-import/companion-import.module.ts","id":"01a0640f-8510-72bd-a455-0d889d0077fd"}
 {"propertySlug":"decision-kind","path":"temper/web/.server/served-watcher-version/served-watcher-version.module.ts","id":"01a0640f-850f-75fc-8894-4e1d0d24e30c"}
 {"propertySlug":"decision-kind","path":"temper/web/.server/supabase-service-client/supabase-service-client.module.ts","id":"01a0640f-8510-7fb7-b3bd-04ccc6376a67"}
