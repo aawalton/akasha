@@ -1,4 +1,4 @@
-import { getReorderVerb } from "akasha/page/ui/reorder-verbs/modules/reorder-verb-registry/reorder-verb-registry.module.code.ts"
+import { getReorderVerb } from "akasha/page/ui/reorder-verb/modules/reorder-verb-registry/reorder-verb-registry.module.code.ts"
 import { useMemo } from "react"
 
 export interface ReorderCardsChange {

@@ -19,7 +19,7 @@ export const pageUi = {
     "domain/page-ui-media",
     "domain/page-ui-mutator",
     "domain/page-ui-perf",
-    "domain/page-ui-reorder-verbs",
+    "domain/page-ui-reorder-verb",
     "domain/page-ui-supabase",
     "module/navigation-context",
     "module/option-create-context",

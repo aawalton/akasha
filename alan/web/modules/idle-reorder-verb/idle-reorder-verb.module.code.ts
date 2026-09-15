@@ -4,7 +4,7 @@ import { reorderTeam } from "akasha/alan/web/modules/lineup-slots-draft/lineup-s
 import {
   type ReorderVerbContext,
   registerReorderVerb,
-} from "akasha/page/ui/reorder-verbs/modules/reorder-verb-registry/reorder-verb-registry.module.code.ts"
+} from "akasha/page/ui/reorder-verb/modules/reorder-verb-registry/reorder-verb-registry.module.code.ts"
 
 function reorderLineup(ctx: ReorderVerbContext): undefined {
   const team = idleGameStore.getSnapshot().state?.activeTeam ?? []
