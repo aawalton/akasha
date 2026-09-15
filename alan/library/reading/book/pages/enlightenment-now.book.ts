@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const enlightenmentNow = {
   id: "019db533-f39e-71a5-a9a4-74f149a3e9b5",
-  type: "book",
+  type: "page-type/book",
   slug: "enlightenment-now",
   title: "Enlightenment Now",
   status: "completed",

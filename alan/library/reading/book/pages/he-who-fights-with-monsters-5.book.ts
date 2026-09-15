@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const heWhoFightsWithMonsters5 = {
   id: "019db533-f391-7082-b979-55df05c26972",
-  type: "book",
+  type: "page-type/book",
   slug: "he-who-fights-with-monsters-5",
   title: "He Who Fights with Monsters 5",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const expeditionaryForceZeroHour = {
   id: "019db533-f39a-7847-b018-954cb00db701",
-  type: "book",
+  type: "page-type/book",
   slug: "expeditionary-force-zero-hour",
   title: "Expeditionary Force: Zero Hour",
   status: "not-started",

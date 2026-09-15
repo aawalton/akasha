@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const emotionalSuccess = {
   id: "019db533-f39e-719e-8a8e-c622a20a6456",
-  type: "book",
+  type: "page-type/book",
   slug: "emotional-success",
   title: "Emotional Success",
   status: "not-started",

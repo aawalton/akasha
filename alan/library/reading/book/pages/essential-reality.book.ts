@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const essentialReality = {
   id: "019db533-f39e-71bd-9710-3a75d7814fc6",
-  type: "book",
+  type: "page-type/book",
   slug: "essential-reality",
   title: "Essential Reality",
   status: "completed",

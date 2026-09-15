@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const endsOfMagicAntimage = {
   id: "019db533-f390-7f88-a945-dcadae075e1a",
-  type: "book",
+  type: "page-type/book",
   slug: "ends-of-magic-antimage",
   title: "Ends of Magic: Antimage",
   status: "completed",

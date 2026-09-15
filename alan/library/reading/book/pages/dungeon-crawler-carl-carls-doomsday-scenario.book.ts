@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dungeonCrawlerCarlCarlsDoomsdayScenario = {
   id: "019db533-f390-7ef3-9beb-48307a644839",
-  type: "book",
+  type: "page-type/book",
   slug: "dungeon-crawler-carl-carls-doomsday-scenario",
   title: "Dungeon Crawler Carl: Carl's Doomsday Scenario",
   status: "not-started",

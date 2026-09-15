@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const evilUnderTheSun = {
   id: "019db533-f399-7c35-97c8-f390898a5502",
-  type: "book",
+  type: "page-type/book",
   slug: "evil-under-the-sun",
   title: "Evil Under the Sun",
   status: "not-started",

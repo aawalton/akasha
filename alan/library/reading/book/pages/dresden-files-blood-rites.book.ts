@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dresdenFilesBloodRites = {
   id: "019db533-f39b-7220-b0fe-c8bcff766174",
-  type: "book",
+  type: "page-type/book",
   slug: "dresden-files-blood-rites",
   title: "Dresden Files: Blood Rites",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dresdenFilesChanges = {
   id: "019db533-f39b-72cc-bc91-3130bea505c4",
-  type: "book",
+  type: "page-type/book",
   slug: "dresden-files-changes",
   title: "Dresden Files: Changes",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const expeditionaryForceMatchGame = {
   id: "019db533-f39a-7f4e-98fd-7b71b39e64a3",
-  type: "book",
+  type: "page-type/book",
   slug: "expeditionary-force-match-game",
   title: "Expeditionary Force: Match Game",
   status: "not-started",

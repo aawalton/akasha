@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const galacticEmpireTheCurrentsOfSpace = {
   id: "019db533-f39a-7bb2-9fa2-3dc3056e76f1",
-  type: "book",
+  type: "page-type/book",
   slug: "galactic-empire-the-currents-of-space",
   title: "Galactic Empire: The Currents of Space",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const honorHarringtonAtAllCosts = {
   id: "019db533-f39b-71a1-923a-c6bef8c14b00",
-  type: "book",
+  type: "page-type/book",
   slug: "honor-harrington-at-all-costs",
   title: "Honor Harrington: At All Costs",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const howNotToDie = {
   id: "019db533-f39e-710a-8db9-627ed3254a36",
-  type: "book",
+  type: "page-type/book",
   slug: "how-not-to-die",
   title: "How Not to Die",
   status: "not-started",

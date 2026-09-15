@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dresdenFilesColdDays = {
   id: "019db533-f39b-715e-8dfe-2cc7cdf4b28b",
-  type: "book",
+  type: "page-type/book",
   slug: "dresden-files-cold-days",
   title: "Dresden Files: Cold Days",
   status: "not-started",

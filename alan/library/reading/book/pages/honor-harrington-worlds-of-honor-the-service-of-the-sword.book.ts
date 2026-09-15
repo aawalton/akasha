@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const honorHarringtonWorldsOfHonorTheServiceOfTheSword = {
   id: "019db533-f39a-7a3d-98b0-faa20d615c7d",
-  type: "book",
+  type: "page-type/book",
   slug: "honor-harrington-worlds-of-honor-the-service-of-the-sword",
   title: "Honor Harrington - Worlds of Honor: The Service of the Sword",
   status: "not-started",

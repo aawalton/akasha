@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dresdenFilesTurnCoat = {
   id: "019db533-f39a-791e-aa14-149f27003d62",
-  type: "book",
+  type: "page-type/book",
   slug: "dresden-files-turn-coat",
   title: "Dresden Files: Turn Coat",
   status: "not-started",

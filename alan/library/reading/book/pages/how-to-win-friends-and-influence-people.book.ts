@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const howToWinFriendsAndInfluencePeople = {
   id: "019db533-f39e-71cd-b71f-9326187fc61a",
-  type: "book",
+  type: "page-type/book",
   slug: "how-to-win-friends-and-influence-people",
   title: "How to Win Friends & Influence People",
   status: "not-started",

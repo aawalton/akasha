@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const honorHarringtonARisingThunder = {
   id: "019db533-f39b-7282-947b-4ff496769169",
-  type: "book",
+  type: "page-type/book",
   slug: "honor-harrington-a-rising-thunder",
   title: "Honor Harrington: A Rising Thunder",
   status: "not-started",

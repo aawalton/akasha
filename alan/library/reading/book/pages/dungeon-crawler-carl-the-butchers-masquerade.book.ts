@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dungeonCrawlerCarlTheButchersMasquerade = {
   id: "019db533-f390-7edc-932f-9f8e8e7afa49",
-  type: "book",
+  type: "page-type/book",
   slug: "dungeon-crawler-carl-the-butchers-masquerade",
   title: "Dungeon Crawler Carl: The Butcher's Masquerade",
   status: "not-started",

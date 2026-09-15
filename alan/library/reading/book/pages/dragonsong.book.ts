@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dragonsong = {
   id: "019db533-f399-7dcb-a5c6-af401904d3fa",
-  type: "book",
+  type: "page-type/book",
   slug: "dragonsong",
   title: "Dragonsong",
   status: "not-started",

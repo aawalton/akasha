@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dresdenFilesFoolMoon = {
   id: "019db533-f39b-70f9-8592-a5f8828151df",
-  type: "book",
+  type: "page-type/book",
   slug: "dresden-files-fool-moon",
   title: "Dresden Files: Fool Moon",
   status: "not-started",

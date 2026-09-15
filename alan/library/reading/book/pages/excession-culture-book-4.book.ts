@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const excessionCultureBook4 = {
   id: "019db533-f39b-7024-a0bc-0216922a00ed",
-  type: "book",
+  type: "page-type/book",
   slug: "excession-culture-book-4",
   title: "Excession (Culture Book 4)",
   status: "not-started",

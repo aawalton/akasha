@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dragonHeartWayToTheNorth = {
   id: "019db533-f390-7ddb-a5d2-024363002a64",
-  type: "book",
+  type: "page-type/book",
   slug: "dragon-heart-way-to-the-north",
   title: "Dragon Heart: Way To The North",
   status: "not-started",

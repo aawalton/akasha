@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const honorHarringtonFlagInExile = {
   id: "019db533-f39a-7fb8-a83c-40de65e04b73",
-  type: "book",
+  type: "page-type/book",
   slug: "honor-harrington-flag-in-exile",
   title: "Honor Harrington: Flag in Exile",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const honorHarringtonStarKingdomFriendsIndeed = {
   id: "019db533-f39b-704f-b154-df18a24f7756",
-  type: "book",
+  type: "page-type/book",
   slug: "honor-harrington-star-kingdom-friends-indeed",
   title: "Honor Harrington - Star Kingdom: Friends Indeed",
   status: "not-started",

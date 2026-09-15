@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const harryPotterOriginalSeriesHarryPotterAndTheHalfBloodPrince = {
   id: "019db533-f38a-7ec9-86c8-bc8f142b3897",
-  type: "book",
+  type: "page-type/book",
   slug: "harry-potter-original-series-harry-potter-and-the-half-blood-prince",
   title: "Harry Potter Original Series: Harry Potter and the Half-Blood Prince",
   status: "completed",

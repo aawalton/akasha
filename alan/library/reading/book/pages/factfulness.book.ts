@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const factfulness = {
   id: "019db533-f39e-7187-881e-c6d708b92b6a",
-  type: "book",
+  type: "page-type/book",
   slug: "factfulness",
   title: "Factfulness",
   status: "not-started",

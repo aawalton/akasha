@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dragonHeartSeaOfSand = {
   id: "019db533-f390-7e97-8d8e-d31b4345e42c",
-  type: "book",
+  type: "page-type/book",
   slug: "dragon-heart-sea-of-sand",
   title: "Dragon Heart: Sea of Sand",
   status: "completed",

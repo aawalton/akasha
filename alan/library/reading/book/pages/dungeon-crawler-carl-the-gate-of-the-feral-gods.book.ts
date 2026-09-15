@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dungeonCrawlerCarlTheGateOfTheFeralGods = {
   id: "019db533-f390-7ed1-8b94-2bea6dc051b2",
-  type: "book",
+  type: "page-type/book",
   slug: "dungeon-crawler-carl-the-gate-of-the-feral-gods",
   title: "Dungeon Crawler Carl: The Gate of the Feral Gods",
   status: "not-started",

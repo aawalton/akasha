@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dresdenFilesDeathMasks = {
   id: "019db533-f39b-7131-855a-bbf01e71eb29",
-  type: "book",
+  type: "page-type/book",
   slug: "dresden-files-death-masks",
   title: "Dresden Files: Death Masks",
   status: "not-started",

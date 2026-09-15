@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dresdenFilesWhiteNight = {
   id: "019db533-f39a-77db-af62-984dee1e1aed",
-  type: "book",
+  type: "page-type/book",
   slug: "dresden-files-white-night",
   title: "Dresden Files: White Night",
   status: "not-started",

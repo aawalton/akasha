@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const expeditionaryForceRenegades = {
   id: "019db533-f39a-7c18-90c2-f8de59019640",
-  type: "book",
+  type: "page-type/book",
   slug: "expeditionary-force-renegades",
   title: "Expeditionary Force: Renegades",
   status: "not-started",

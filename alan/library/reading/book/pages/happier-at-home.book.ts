@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const happierAtHome = {
   id: "019db533-f39e-7179-bca8-75088640c788",
-  type: "book",
+  type: "page-type/book",
   slug: "happier-at-home",
   title: "Happier at Home",
   status: "not-started",

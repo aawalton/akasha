@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const forThePowerIsInThem = {
   id: "019db533-f39d-72e2-b5fc-ce7e2fabe245",
-  type: "book",
+  type: "page-type/book",
   slug: "for-the-power-is-in-them",
   title: '"For the Power Is in Them..."',
   status: "completed",

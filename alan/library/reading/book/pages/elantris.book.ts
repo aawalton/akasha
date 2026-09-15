@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const elantris = {
   id: "019db533-f39d-7487-b92e-9435b75e69f0",
-  type: "book",
+  type: "page-type/book",
   slug: "elantris",
   title: "Elantris",
   status: "completed",

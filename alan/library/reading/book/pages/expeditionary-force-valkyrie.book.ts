@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const expeditionaryForceValkyrie = {
   id: "019db533-f39a-7961-bafc-f00087f85242",
-  type: "book",
+  type: "page-type/book",
   slug: "expeditionary-force-valkyrie",
   title: "Expeditionary Force: Valkyrie",
   status: "not-started",

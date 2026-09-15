@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const earthenContendersUnaffiliatedHealer = {
   id: "019db533-f390-7f15-b58b-be9293f3dae1",
-  type: "book",
+  type: "page-type/book",
   slug: "earthen-contenders-unaffiliated-healer",
   title: "Earthen Contenders: Unaffiliated Healer",
   status: "completed",

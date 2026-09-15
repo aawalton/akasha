@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const expeditionaryForceCriticalMass = {
   id: "019db533-f39b-714e-9808-fdc34e90278c",
-  type: "book",
+  type: "page-type/book",
   slug: "expeditionary-force-critical-mass",
   title: "Expeditionary Force: Critical Mass",
   status: "not-started",

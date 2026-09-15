@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const faithRewarded = {
   id: "019db533-f39d-7968-923f-eab655cc7d21",
-  type: "book",
+  type: "page-type/book",
   slug: "faith-rewarded",
   title: "Faith Rewarded",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const expeditionaryForceColumbusDay = {
   id: "019db533-f39b-7290-98e2-17fe8f882757",
-  type: "book",
+  type: "page-type/book",
   slug: "expeditionary-force-columbus-day",
   title: "Expeditionary Force: Columbus Day",
   status: "not-started",

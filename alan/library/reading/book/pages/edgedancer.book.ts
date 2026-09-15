@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const edgedancer = {
   id: "019db533-f39d-7065-9ba7-dbbbb72d001e",
-  type: "book",
+  type: "page-type/book",
   slug: "edgedancer",
   title: "Edgedancer",
   status: "not-started",

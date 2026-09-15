@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dreamer = {
   id: "019db533-f39d-7014-93e5-8f7380fd41fd",
-  type: "book",
+  type: "page-type/book",
   slug: "dreamer",
   title: "Dreamer",
   status: "completed",

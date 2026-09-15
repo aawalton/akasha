@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const everythingIsTuberculosis = {
   id: "019db533-f39e-71e5-8b0b-c8da4c67bd54",
-  type: "book",
+  type: "page-type/book",
   slug: "everything-is-tuberculosis",
   title: "Everything is Tuberculosis",
   status: "completed",

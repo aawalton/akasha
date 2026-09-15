@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const howSuperfoodsWork = {
   id: "019db533-f39e-71d5-90be-16597d28d7bb",
-  type: "book",
+  type: "page-type/book",
   slug: "how-superfoods-work",
   title: "How Superfoods Work",
   status: "not-started",

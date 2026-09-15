@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const herculePoirotsChristmas = {
   id: "019db533-f399-7bc0-9d02-b7cea3822e6c",
-  type: "book",
+  type: "page-type/book",
   slug: "hercule-poirots-christmas",
   title: "Hercule Poirot's Christmas",
   status: "not-started",

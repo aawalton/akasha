@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const honorHarringtonWorldsOfHonorWhatPriceVictory = {
   id: "019db533-f39a-77cb-8f22-d372263b2bf5",
-  type: "book",
+  type: "page-type/book",
   slug: "honor-harrington-worlds-of-honor-what-price-victory",
   title: "Honor Harrington - Worlds of Honor: What Price Victory?",
   status: "not-started",

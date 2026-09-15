@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const guardianOfAsterFallSilverStars = {
   id: "019db533-f390-7ffd-a73e-e2b4e674bc59",
-  type: "book",
+  type: "page-type/book",
   slug: "guardian-of-aster-fall-silver-stars",
   title: "Guardian of Aster Fall: Silver Stars",
   status: "completed",

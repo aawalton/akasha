@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const godelEscherBachAnEternalGoldenBraid = {
   id: "019db533-f39d-79fc-bcb1-58193fb074aa",
-  type: "book",
+  type: "page-type/book",
   slug: "godel-escher-bach-an-eternal-golden-braid",
   title: "Godel, Escher, Bach: an Eternal Golden Braid",
   status: "paused",

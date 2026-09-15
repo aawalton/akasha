@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dragonHeartLastDayOfTheHuman = {
   id: "019db533-f390-7db7-b602-a65668c3b964",
-  type: "book",
+  type: "page-type/book",
   slug: "dragon-heart-last-day-of-the-human",
   title: "Dragon Heart: Last Day Of The Human",
   status: "not-started",

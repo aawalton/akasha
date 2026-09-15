@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const guardianOfAsterFallWorldSeal = {
   id: "019db533-f391-700e-b419-0b766ec2e076",
-  type: "book",
+  type: "page-type/book",
   slug: "guardian-of-aster-fall-world-seal",
   title: "Guardian of Aster Fall: World Seal",
   status: "completed",

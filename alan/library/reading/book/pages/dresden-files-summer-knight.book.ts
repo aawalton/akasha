@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const dresdenFilesSummerKnight = {
   id: "019db533-f39a-7b5d-b098-ca4b04842eaa",
-  type: "book",
+  type: "page-type/book",
   slug: "dresden-files-summer-knight",
   title: "Dresden Files: Summer Knight",
   status: "not-started",

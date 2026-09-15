@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const halloweenParty = {
   id: "019db533-f399-7d55-9367-c86f3e3d323d",
-  type: "book",
+  type: "page-type/book",
   slug: "halloween-party",
   title: "Hallowe'en Party",
   status: "not-started",
