@@ -1,6 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, readFileSync, utimesSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
+import {
+  appendFileSync,
+  existsSync,
+  mkdirSync,
+  readFileSync,
+  utimesSync,
+  writeFileSync,
+} from "node:fs"
+import { dirname, join } from "node:path"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
@@ -43,8 +50,6 @@ const HOLDING_AT = join(import.meta.dir, "holding.module.code.ts")
 const LANDING_AT = landingAt()
 
 const scratch = scratchWorld()
-
-afterAll(scratch.sweep)
 
 function repoWith(named: Readonly<Record<string, string>>): string {
   const root = scratch.rootFor("akasha-holding-")
@@ -123,11 +128,50 @@ async function killed(kid: Bun.Subprocess): Promise<void> {
   await kid.exited
 }
 
+function marked(root: string, mark: string): string {
+  const at = join(root, LOCK_AT)
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, mark)
+  return at
+}
+
+let gone: string | null = null
+
+async function markOfGone(): Promise<string> {
+  if (gone !== null) return gone
+  const root = repoWith({ "one.txt": "committed" })
+  const kid = await heldBy(root)
+  const said = readFileSync(join(root, LOCK_AT), "utf8")
+  await killed(kid)
+  gone = said
+  return said
+}
+
+let sits: { readonly root: string; readonly kid: Bun.Subprocess } | null = null
+
+async function rootHeldLive(): Promise<string> {
+  if (sits !== null) return sits.root
+  const root = repoWith({ "one.txt": "committed" })
+  sits = { root, kid: await heldBy(root) }
+  return root
+}
+
+afterAll(async () => {
+  if (sits !== null) await killed(sits.kid)
+  scratch.sweep()
+})
+
 test("callers asking at once take the hold one at a time, and none overlaps another", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const at = join(root, "witness.txt")
-  const kids = ["a", "b"].map((one) => running(marking(root, at, one)))
-  expect(await Promise.all(kids.map((one) => one.exited))).toEqual([0, 0])
+  const kid = running(marking(root, at, "a"))
+  expect(await until(() => existsSync(join(root, LOCK_AT)))).toBe(true)
+  holding(root, () => {
+    appendFileSync(at, "in b\n")
+    Bun.sleepSync(300)
+    appendFileSync(at, "out b\n")
+  })
+  expect(await kid.exited).toBe(0)
   const said = readFileSync(at, "utf8").trim().split("\n")
   expect(said.length).toBe(4)
   for (let held = 0; held < said.length; held += 2) {
@@ -141,13 +185,21 @@ test("landings at once each land, and none takes another back", async () => {
   await landing(root, CARRIED_IN, "held", ADMITS)
   const was = baseOf(root)
   const go = join(root, "go")
-  const ready = (one: string): string => join(root, `ready-${one}`)
-  const kids = AT_ONCE.map((one) =>
-    running(landsOn(root, `akasha/${one}.domain.ts`, pageOf(one), ready(one), go))
-  )
-  expect(await until(() => AT_ONCE.every((one) => existsSync(ready(one))), 120000)).toBe(true)
+  const ready = join(root, "ready")
+  const theirs = AT_ONCE[0] as string
+  const mine = AT_ONCE[1] as string
+  const kid = running(landsOn(root, `akasha/${theirs}.domain.ts`, pageOf(theirs), ready, go))
+  expect(await until(() => existsSync(ready), 120000)).toBe(true)
   writeFileSync(go, "go")
-  expect(await Promise.all(kids.map((one) => one.exited))).toEqual(AT_ONCE.map(() => 0))
+  const asked = landing(
+    root,
+    [{ kind: "add", path: `akasha/${mine}.domain.ts`, content: pageOf(mine) }],
+    "held",
+    ADMITS
+  )
+  const [code, said] = await Promise.all([kid.exited, asked])
+  expect(code).toBe(0)
+  expect("refusals" in said).toBe(false)
   const carried = CARRIED.map((one) => one.path)
   expect(git(root, ["ls-tree", "--name-only", "-r", "HEAD", "akasha/"]).trim().split("\n")).toEqual(
     [...AT_ONCE.map((one) => `akasha/${one}.domain.ts`), ...carried].sort()
@@ -161,8 +213,7 @@ test("landings at once each land, and none takes another back", async () => {
 
 test("a hold whose holder is gone is taken rather than waited on", async () => {
   const root = repoWith({ "one.txt": "committed" })
-  await killed(await heldBy(root))
-  expect(existsSync(join(root, LOCK_AT))).toBe(true)
+  expect(existsSync(marked(root, await markOfGone()))).toBe(true)
   const from = Date.now()
   expect(holding(root, () => "held", 10000)).toBe("held")
   expect(Date.now() - from).toBeLessThan(2000)
@@ -170,7 +221,7 @@ test("a hold whose holder is gone is taken rather than waited on", async () => {
 
 test("a landing after a holder was killed outright still lands", async () => {
   const root = repoWith({ "one.txt": "committed" })
-  await killed(await heldBy(root))
+  marked(root, await markOfGone())
   const said = await landing(root, PROPOSED, "held", ADMITS)
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, "new.txt"), "utf8")).toBe("proposed")
@@ -178,9 +229,8 @@ test("a landing after a holder was killed outright still lands", async () => {
 })
 
 test("a caller that waits out the hold is refused, and the landing it would have run never runs", async () => {
-  const root = repoWith({ "one.txt": "committed" })
+  const root = await rootHeldLive()
   const was = baseOf(root)
-  const kid = await heldBy(root)
   let ran = false
   let why = ""
   try {
@@ -199,15 +249,12 @@ test("a caller that waits out the hold is refused, and the landing it would have
   expect(ran).toBe(false)
   expect(existsSync(join(root, "new.txt"))).toBe(false)
   expect(baseOf(root)).toBe(was)
-  await killed(kid)
 })
 
 test("a wait that ran out reaches a caller asking for a refusal as a refusal", async () => {
-  const root = repoWith({ "one.txt": "committed" })
-  const kid = await heldBy(root)
+  const root = await rootHeldLive()
   const said = await refusedWhereHeld(() => Promise.resolve(holding(root, () => PROPOSED, 200)))
   expect(said).toEqual({ refusals: [heldSaid(200)], code: EXIT.OPERATIONAL })
-  await killed(kid)
 })
 
 test("an act that failed inside the hold is thrown on rather than answered as a refusal", async () => {
@@ -263,8 +310,7 @@ test("a hold another process took over is not released by the one that lost it",
 
 test("a holder whose pid represents another process than the one that took it is no holder", () => {
   const root = repoWith({ "one.txt": "committed" })
-  mkdirSync(join(root, ".git"), { recursive: true })
-  writeFileSync(join(root, LOCK_AT), `${process.pid} 1`)
+  marked(root, `${process.pid} 1`)
   const from = Date.now()
   expect(holding(root, () => "held", 10000)).toBe("held")
   expect(Date.now() - from).toBeLessThan(2000)
@@ -272,9 +318,7 @@ test("a holder whose pid represents another process than the one that took it is
 
 test("a mark no holder can be read from wedges nothing once it has been there too long", () => {
   const root = repoWith({ "one.txt": "committed" })
-  const at = join(root, LOCK_AT)
-  mkdirSync(join(root, ".git"), { recursive: true })
-  writeFileSync(at, "nothing a holder reads from")
+  const at = marked(root, "nothing a holder reads from")
   const long = new Date(Date.now() - 60000)
   utimesSync(at, long, long)
   const from = Date.now()
