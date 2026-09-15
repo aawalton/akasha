@@ -21,20 +21,20 @@ export const foodEntry = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One file has one thing eaten.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The day a food entry counts to is worked out from the instant that entry happened at.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A food entry that contributes no plants has no plant grams rather than a zero.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every food entry Alan logs lands in a file.",
     },
   ],

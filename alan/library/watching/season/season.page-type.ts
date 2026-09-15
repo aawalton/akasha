@@ -14,15 +14,15 @@ export const season = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The season numbered zero has the episodes sitting outside the run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A season's length is summed from its episodes rather than stated.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A season's number is its position among the seasons of its show.",
     },
   ],

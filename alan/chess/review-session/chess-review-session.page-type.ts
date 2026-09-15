@@ -19,26 +19,26 @@ export const chessReviewSession = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One game stepped through with the coach is one session.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A session names the game stepped through rather than the persona who stepped through that game.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A session's notes are a file beside the session rather than inside the session page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A session is marked at the moment of the stepping through rather than at the day.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A session names the persona who coached that session.",
     },
   ],

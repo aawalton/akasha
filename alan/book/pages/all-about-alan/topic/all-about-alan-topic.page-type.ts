@@ -30,19 +30,19 @@ export const allAboutAlanTopic = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Containment is carried by a topic's parents rather than by folders.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A topic sits under another topic or under no topic.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Exactly one topic sits under no topic.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A topic with no settled text is a title and a definition alone.",
     },
   ],

@@ -19,20 +19,20 @@ export const proposition = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A proposition's statement sits in its own file rather than in a value beside that file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An adopted proposition is chosen rather than proved.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An adopted proposition has no proof.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A proposition names no proof that attempts that proposition.",
     },
   ],

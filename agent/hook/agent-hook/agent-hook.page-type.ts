@@ -44,66 +44,66 @@ export const agentHook = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook is handed the payload the harness sends at its event.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A hook at a tool call answers whether the call may run or hands back the input the call runs with.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook names the tools the hook judges.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook is handed no other calls.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook that judges a call changes nothing but its answer.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A call a hook let through is not a call the hook allowed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook's registration is worked out from this page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No file names a hook by hand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A hook binds an agent from its next spawn after the page lands rather than mid-session.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook's code file answers to `ran`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook's code file run as a program does the same as `ran`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A registration names the path of a hook's code file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The path a registration names is settled at the spawn rather than at the call.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A move that takes a hook's code file rewrites the live settings documents too.",
     },
 
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A call nothing could judge is refused rather than passed.",
     },
   ],

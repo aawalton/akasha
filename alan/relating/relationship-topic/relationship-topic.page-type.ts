@@ -34,15 +34,15 @@ export const relationshipTopic = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A relationship topic is under another relationship topic or under no topic.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A relationship topic names the people that topic is held with.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A person named here is a person the system reaches rather than a relationship.",
     },
   ],

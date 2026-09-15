@@ -56,58 +56,58 @@ export const esoAddon = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An addon states the facts the game reads about that addon in a file beside the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seam writes the manifest the game reads from the manifest beside the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An addon names every Lua module the game loads for that addon.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An addon names every XML document the game loads for that addon.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The modules an addon has are compiled from TypeScript to Lua before a build.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One module an addon has is where the transpiler starts the Lua bundle.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which addons an addon needs loaded first is stated in its manifest.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An addon ships a second addon with a manifest and nothing more.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A second addon shipped inside an addon is versioned with the addon shipping that second addon.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An addon keeps the textures the game draws in a folder the page names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A texture folder is named after the folder the upstream addon already used.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An addon whose upstream kept no texture folder keeps its textures beside the page.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The game reloads an addon only when the whole client reloads.",
     },
   ],

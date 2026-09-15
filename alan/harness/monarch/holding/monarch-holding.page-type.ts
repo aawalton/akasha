@@ -24,16 +24,16 @@ export const monarchHolding = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Monarch reports a holding only for an account that says that account has holdings.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A holding is three figures the daily sync rewrites.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A holding sits in memory.",
     },
   ],

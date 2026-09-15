@@ -24,29 +24,29 @@ export const monarchAccount = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account with no transaction is still an account.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A retirement or brokerage balance moves without a row against that balance.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Monarch reopens a closed account under a second id rather than reviving the first id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two accounts have the same last four digits.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An account named by digits alone takes `account-` ahead of those digits for its slug.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A transaction whose account has no page is dropped by the sync without a word.",
     },
   ],

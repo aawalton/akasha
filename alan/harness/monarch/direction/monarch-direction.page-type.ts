@@ -13,11 +13,11 @@ export const monarchDirection = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A direction has no Monarch identity.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Nothing yet reads a direction.",
     },
   ],

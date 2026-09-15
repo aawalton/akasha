@@ -13,20 +13,20 @@ export const componentPropertyGroup = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A page carrying such a group has code under that group's slug drawing for a browser.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A group of this page type states no members of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page carrying the group states nothing about that file at all.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A component group's code file exports a component named `Drawing`.",
     },
   ],

@@ -24,20 +24,20 @@ export const masteryLevel = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A rung is an observable interview behaviour rather than facts recalled or time spent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An answer Alan produced unaided is evidence of a rung.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "An answer Alan agreed with or picked from a list is no evidence of a rung.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A topic Alan derives from the core Alan has scores whether or not Alan studied that topic.",
     },

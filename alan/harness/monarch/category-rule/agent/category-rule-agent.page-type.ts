@@ -10,11 +10,11 @@ export const categoryRuleAgent = {
   properties: [{ pageProperty: "text-property/judgement", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule of this kind narrows the rows and leaves the answer to a reader.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A handful of rows a year settled by hand is cheaper than a rule overruling the person who knows.",
     },

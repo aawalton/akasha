@@ -18,11 +18,11 @@ export const changeMode = {
   extends: ["page-type/domain"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change states the mode from the verb its slug opens with.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which sort a change is and which act a change makes are two answers.",
     },
   ],

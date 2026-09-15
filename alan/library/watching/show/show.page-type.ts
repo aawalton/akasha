@@ -18,15 +18,15 @@ export const show = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "How many seasons and episodes a show has is counted from its seasons.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A show's day of release is the day its first episode aired.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A show's length is summed from its seasons rather than stated.",
     },
   ],

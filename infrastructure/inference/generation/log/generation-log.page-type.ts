@@ -18,20 +18,20 @@ export const generationLog = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A generation log has its runs and their outputs beside the log rather than in pages of their own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A log is reached by the slug the inference commands are pointed at.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row is landed by appending one line to the file beside the log.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The log reaches as far as the last run an inference command made.",
     },
   ],

@@ -44,19 +44,19 @@ export const locationTrace = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A trace stands as a row on the ESO day the trace was captured in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A trace is kept as the device reported that trace.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing recomputes a trace from its neighbours.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every trace Alan's phone sends is kept.",
     },
   ],

@@ -79,57 +79,57 @@ export const change = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A change the command line reaches reads the arguments handed in rather than trusting the arguments.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An argument such a change was handed no value for is refused by the key naming that argument.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A change's slug names the mode then the thing acted on then the part of that thing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The kind of file a path names is read from `target-kinding` rather than worked out in each change.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The path a change acts on is named `at`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The paths a change moves a thing between are named `from` and `to`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change naming a page rather than a path names it for what the page is here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A change acts only on a target whose kind narrows the subtype that change states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "That subtype is judged before the change runs rather than inside the change.",
     },
     {
-      invariantKind: "upkeep",
+      invariantKind: "invariant-kind/upkeep",
       statement: "Every target type, subtype and mode that together make sense has a change.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Where the pages of a page type sit is no concern of that page type, so no change carries them.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "One root manifest is the only manifest, so no change adds a manifest or a way into one.",
     },

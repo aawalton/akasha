@@ -9,7 +9,7 @@ export const invariantGroup = {
   extends: ["page-type/domain"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A group is read off the kinds that name the group rather than stored as a list of the kinds.",
     },

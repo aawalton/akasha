@@ -20,37 +20,37 @@ export const scripturePassage = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A passage names the book of scripture the passage is in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A passage's verses are a file beside the passage's page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A passage catalogued before its verses arrive has no file yet.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A passage names a rendering only where the record the passage came from names a rendering.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A passage sits in the folder named for the book of scripture the passage is in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A passage opening its name with a chapter number is slugged for its page type first.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A passage takes its unit from its kind rather than stating a unit of its own.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The collection a passage is part of is no page.",
     },
   ],

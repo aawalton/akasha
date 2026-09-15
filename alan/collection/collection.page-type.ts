@@ -110,40 +110,40 @@ export const collection = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book and a course and an album are each one collection.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The parts of a collection are themselves collections.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection is part of more than one collection.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No collection is part of itself however far the chain of parts runs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A collection's position is the same in every collection the collection is part of.",
     },
     {
-      invariantKind: "upkeep",
+      invariantKind: "invariant-kind/upkeep",
       statement: "No collection counts as part of a larger collection twice.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection's own length is counted in the unit the collection names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection with only parts states a length of its own of nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection's own progress never runs past that collection's own length.",
     },
   ],

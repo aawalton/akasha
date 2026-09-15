@@ -18,25 +18,25 @@ export const royalRoadAccount = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account is the sign-in rather than any story reached through that account.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The password authorising an account's sign-in is held as a secret rather than as text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An account is reached by its slug rather than by the address that account signs in as.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The sync signs in as no account and reads only the pages open to anyone.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The address an account signs in as is in the cluster's secrets too.",
     },
   ],

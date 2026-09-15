@@ -9,15 +9,15 @@ export const greatCoursesCollection = {
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The catalogue's root shelf sits under nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A shelf states no length of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The day the catalogue was last read is kept on its root shelf alone.",
     },
   ],

@@ -18,11 +18,11 @@ export const locationCollection = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection lists no place of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A place names the collection that place is in.",
     },
   ],

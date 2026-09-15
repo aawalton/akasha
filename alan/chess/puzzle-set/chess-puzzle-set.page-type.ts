@@ -28,15 +28,15 @@ export const chessPuzzleSet = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A set has its puzzles as rows beside the page rather than as pages.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A puzzle is a row here rather than a page a query may ask of.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A row's position in Forsyth-Edwards notation is the position the solver moves from.",
     },

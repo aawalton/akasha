@@ -10,35 +10,35 @@ export const javascriptModule = {
   properties: [{ pageProperty: "code-file-property/javascript", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A JavaScript module's code is in a file beside the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "JavaScript runs under whatever runtime loads that JavaScript rather than under TypeScript's.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A JavaScript module is written as the runtime loading that module reads that module.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The code carrying a JavaScript module to its runtime states the name that module lands under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A JavaScript module reaches its siblings by the name a sibling has where that sibling runs.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing in akasha imports a JavaScript module.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No check reading TypeScript reads a JavaScript module.",
     },
   ],

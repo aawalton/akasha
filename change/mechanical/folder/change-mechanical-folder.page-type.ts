@@ -10,11 +10,11 @@ export const changeMechanicalFolder = {
   properties: [],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No rung here makes a folder.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No rung here renames a folder.",
     },
   ],

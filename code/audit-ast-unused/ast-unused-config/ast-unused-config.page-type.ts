@@ -10,7 +10,7 @@ export const astUnusedConfig = {
   properties: [{ pageProperty: "file-property/curation", required: false, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The root keeps the name its reader has compiled in rather than taking a page's.",
     },
   ],

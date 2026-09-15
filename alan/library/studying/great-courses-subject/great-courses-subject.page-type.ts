@@ -9,15 +9,15 @@ export const greatCoursesSubject = {
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subject has only courses.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subject states no length of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every subject sits under the shelf the subjects are sorted on.",
     },
   ],

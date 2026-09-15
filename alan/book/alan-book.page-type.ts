@@ -17,19 +17,19 @@ export const alanBook = {
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book Alan is writing is read by nobody else while Alan writes that book.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A book Alan writes states nothing a publisher assigns.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book Alan writes is a domain, and its sections are what that domain holds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A book Alan writes is a collection, and its sections name it as the one they are in.",
     },

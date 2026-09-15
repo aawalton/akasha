@@ -39,11 +39,11 @@ export const relationshipDeposit = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A deposit names the relationship that deposit went into rather than a person.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A deposit names the value that deposit served.",
     },
   ],

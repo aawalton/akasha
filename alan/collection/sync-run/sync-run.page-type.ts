@@ -32,16 +32,16 @@ export const syncRun = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A run sits beside the sync that run was a pull of rather than in a file of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run reporting no counts failed before reaching anything to count.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The runs beside a sync are that sync's entries rather than pages of their own.",
     },
   ],

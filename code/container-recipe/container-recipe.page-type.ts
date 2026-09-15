@@ -19,32 +19,35 @@ export const containerRecipe = {
   loadedBy: "module/group-writing",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A container recipe is in a file beside the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A recipe has one image.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A second image is a second page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path a recipe copies from is read from the folder the build is handed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The folder a build is handed is the package the recipe sits in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A recipe whose image is pushed names the repository it is pushed to.",
     },
-    { invariantKind: "absence", statement: "A recipe nothing pushes names no repository." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/absence",
+      statement: "A recipe nothing pushes names no repository.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement:
         "Every recipe is composed by the group beside its page rather than written by hand.",
     },

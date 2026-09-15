@@ -9,7 +9,7 @@ export const codeEditorGroupTab = {
   mortal: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The next write takes the page of a tab closed while the tab's window is still open.",
     },

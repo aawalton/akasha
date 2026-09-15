@@ -29,19 +29,19 @@ export const notificationFeed = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A feed sits in a place of its own rather than beside the person's page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One person has one feed whatever pushed at that person.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A feed's slug is the slug of the person whose feed that feed is.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The feeds are pages under this type rather than markdown.",
     },
   ],

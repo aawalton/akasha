@@ -34,15 +34,15 @@ export const flexibilityLog = {
   ],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A reading names no session the reading was taken in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading always has a human read of the measurement.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A reading has a number beside its human read where the metric is measured in numbers.",
     },

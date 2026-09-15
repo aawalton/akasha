@@ -17,34 +17,37 @@ export const inferenceRun = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run is opened before the model starts and closed as completed or failed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run records where its output was written rather than the output itself.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run that throws is finished as failed rather than left running.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The media a run made is kept as an object and named from the page that object was made under.",
     },
-    { invariantKind: "absence", statement: "Nothing here reaches a model service." },
-    { invariantKind: "absence", statement: "Nothing here knows which host a service is on." },
+    { invariantKind: "invariant-kind/absence", statement: "Nothing here reaches a model service." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/absence",
+      statement: "Nothing here knows which host a service is on.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A run is recorded as a row beside the generation log that run names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What a recording landed is pushed into the caller's `done` as it lands.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A recording that threw part way names in its refusal what had landed by then.",
     },
   ],

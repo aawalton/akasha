@@ -8,23 +8,23 @@ export const image = {
   extends: ["page-type/page"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image's bytes sit in the object store under the image's own id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image's bytes sit on disk where the image says those bytes were written.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image records where its bytes are rather than the bytes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image made by a run names that run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image catalogued from disk names no run.",
     },
   ],

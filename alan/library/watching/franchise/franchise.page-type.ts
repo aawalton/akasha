@@ -9,11 +9,11 @@ export const franchise = {
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A franchise has a name and the provider the name was read from.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A franchise the provider gives no id to leaves the id unstated.",
     },
   ],

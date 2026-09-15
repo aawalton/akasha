@@ -8,7 +8,7 @@ export const flag = {
   extends: ["page-type/domain"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A flag is read at the moment that flag is needed rather than at start-up.",
     },
   ],

@@ -13,20 +13,20 @@ export const luaRuntimeLibrary = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A source tree here is compiled as one program rather than imported module by module.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A function compiled here takes a hidden receiver.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No config here turns implicit self off.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A callback-typed property here declares its own this parameter.",
     },
   ],

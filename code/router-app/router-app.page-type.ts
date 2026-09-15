@@ -64,32 +64,32 @@ export const routerApp = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One table names every route a router app serves.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A route is reached by the path the table names rather than by its own file name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The names the router fixes are beside the package's manifest.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The tsconfig naming a fixed name gives that name the package's path mappings.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The router bundles to the browser whatever a route module exports beyond its loader and its action.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A route module exports its loader and its action alone.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A request whose method is OPTIONS reaches a route's loader rather than its action.",
     },

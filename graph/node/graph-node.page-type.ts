@@ -9,11 +9,11 @@ export const graphNode = {
   extends: ["page-type/domain"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A node is a path.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page is a node with a page type rather than a node of its own.",
     },
   ],

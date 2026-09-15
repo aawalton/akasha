@@ -30,46 +30,46 @@ export const initiative = {
   mortal: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An initiative sits under another initiative or under no initiative.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An initiative takes each intent off the domain that had the intent and has the intent as its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An intent an initiative meets returns to the domain the intent came from or is deleted.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An intent returning to its domain is a design or condition invariant.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An initiative is not limited to one domain.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An initiative's purpose is done once every intent that initiative has is met.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A state the migration passes through is an initiative.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An initiative dies when the initiative is reached rather than remaining as a domain that is done.",
     },
     {
-      invariantKind: "upkeep",
+      invariantKind: "invariant-kind/upkeep",
       statement: "No initiative has an intent that is met.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "An initiative is read from this definition rather than from the old system's.",
     },
   ],

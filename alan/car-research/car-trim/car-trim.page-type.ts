@@ -10,11 +10,11 @@ export const carTrim = {
   properties: [{ pageProperty: "relation-property/car-year", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A trim names the year above that trim and is the last level of the catalogue.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A trim is a row in its make's file rather than a page filed on its own.",
     },
   ],

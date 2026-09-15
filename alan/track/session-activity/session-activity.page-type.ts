@@ -15,11 +15,11 @@ export const sessionActivity = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A session naming no activity states its own difficulty instead.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An activity is matched to a session by the session's title.",
     },
   ],

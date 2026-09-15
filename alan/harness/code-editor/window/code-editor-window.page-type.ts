@@ -9,19 +9,19 @@ export const codeEditorWindow = {
   mortal: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A window's page is made by the first write of that window.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A closed window's page goes in the hourly sweep rather than at once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A window's page goes by its slug naming a process that is gone.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No page is written for a window's groups or for a window's tabs.",
     },
   ],

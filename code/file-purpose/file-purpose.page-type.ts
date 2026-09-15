@@ -10,20 +10,20 @@ export const filePurpose = {
   properties: [],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A purpose is told from a file's name rather than from the file's body.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A kind says the format a file is written in and a purpose says the use that file is written for.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One file has a kind and a purpose at once.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The ending a purpose claims has no property here yet.",
     },
   ],

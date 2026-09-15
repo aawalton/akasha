@@ -18,7 +18,7 @@ export const inferenceHook = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook here records how far each of its runs got, beside its own page.",
     },
   ],

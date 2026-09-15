@@ -39,19 +39,19 @@ export const changeTargetSubtype = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A target subtype narrows one target type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A target subtype narrowing another target subtype names that one as its parent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A target subtype naming no parent narrows its target type alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A target subtype narrows the target type its parent narrows.",
     },
   ],

@@ -8,15 +8,15 @@ export const idleSave = {
   extends: ["page-type/page"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A player has one save and no second save.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A write replaces the whole save rather than amending part of that save.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tick banks a save on its own cadence whether or not the player is watching.",
     },
   ],

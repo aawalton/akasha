@@ -14,11 +14,11 @@ export const modelProvider = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A provider is a domain whose subject is one outside system.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A gateway sends the Anthropic wire shape, so a provider takes that shape.",
     },
   ],

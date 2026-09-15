@@ -47,16 +47,16 @@ export const location = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Where a place came from is stated by its source rather than by the page type that place is.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A place kept from a map export has the place id that export gave that place.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A place on an itinerary has the hours that place is scheduled between.",
     },
   ],

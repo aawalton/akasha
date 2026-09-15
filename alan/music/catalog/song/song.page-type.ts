@@ -33,7 +33,7 @@ export const song = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A song names one artist.",
     },
   ],

@@ -12,7 +12,7 @@ export const scriptureCollection = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book of scripture is named by the key its passages are reached under.",
     },
   ],

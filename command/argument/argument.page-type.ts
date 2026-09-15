@@ -27,50 +27,53 @@ export const argument = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One page is one argument, and every command taking that argument names the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What an argument carries belongs here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Whether a command needs an argument belongs to that command.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Whether an argument is said at its flag or as a word belongs to the command that takes it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An argument said as a word is typed as a bare value, and its spelling is shown only as a flag.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An argument has two spellings: `said` at its flag, `placeholder` as a word.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What an argument carries where no call and no entry says it belongs here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An argument carrying a default is answered to every command taking it.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every argument a command takes is a page.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A command's code reads its arguments through a type written from these pages.",
     },
-    { invariantKind: "absence", statement: "A key piped into a change is no argument here." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/absence",
+      statement: "A key piped into a change is no argument here.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "How many times a command lets an argument be said belongs to that command.",
     },
   ],

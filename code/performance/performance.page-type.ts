@@ -8,23 +8,23 @@ export const performance = {
   extends: ["page-type/module"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A performance is run by naming that performance rather than by a check.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A performance run reports the measurement rather than refusing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A performance's test judges that performance's code rather than measuring.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One performance is run at a time.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No ceiling on processor time bounds a performance's run.",
     },
   ],

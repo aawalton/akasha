@@ -23,11 +23,11 @@ export const lifeTheme = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A life theme is under one value.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A life theme is under another life theme or under no life theme.",
     },
   ],

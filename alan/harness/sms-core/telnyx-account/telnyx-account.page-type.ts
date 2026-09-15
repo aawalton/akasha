@@ -25,15 +25,15 @@ export const telnyxAccount = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The key is in the sops file beside the page and never in the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The number a text is sent from is on the account rather than in the environment.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The accounts are pages under this type rather than markdown.",
     },
   ],

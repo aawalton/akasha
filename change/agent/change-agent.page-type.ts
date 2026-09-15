@@ -20,15 +20,15 @@ export const changeAgent = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An agent change is reached by name rather than by another change.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An agent change reaches the mechanical changes working its bodies out.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "An agent change names no guard.",
     },
   ],

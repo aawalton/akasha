@@ -21,19 +21,19 @@ export const proof = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A proof names the proposition the proof attempts.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A second attempt at one proposition is a second proof rather than an edit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A proof's derivation is in a file of the derivation's own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A derivation justifies every line the derivation numbers.",
     },
   ],

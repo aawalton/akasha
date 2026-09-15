@@ -30,19 +30,19 @@ export const emailRuleCode = {
   loadedBy: "module/email-rule-reading",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule of this kind is settled by its clauses without anybody reading the mail.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Filing is a key of its own rather than an action.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule forwards by naming who receives the mail.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "There is no forward action.",
     },
   ],

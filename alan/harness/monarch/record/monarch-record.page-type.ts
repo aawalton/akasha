@@ -18,20 +18,20 @@ export const monarchRecord = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A record is the household's copy of the record Monarch holds rather than the original.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A record Monarch renames keeps its slug and takes the new title.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A daily sync rewrites a record's figures and no instruction names the figures.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A title is written as Monarch writes the title.",
     },
   ],

@@ -24,15 +24,15 @@ export const bannedTerm = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A banned term names the term akasha writes in its place.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One word banned in two senses is two pages.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sense this page does not name is a sense akasha still writes.",
     },
   ],

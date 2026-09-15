@@ -44,62 +44,62 @@ export const modelTest = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A test's code puts its prompt together from the inputs the code is handed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A test has no address for a model.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A case has its own text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A test stating no cases is run against the cases of the test it rivals.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Two tests asking one question of one set of cases are weighed against each other.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A run that could not reach a model is a failure of its own rather than a case that passed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A test's code picks what the code judges rather than the prompt saying so.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A prompt is measured against the cases rather than what the cases were mined from.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Most of what read as a judge refusing a clean case was the key naming a breach as clean.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Zero refusals over two runs of 214 clean cases bounds the rate under one in 140, not at zero.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A closed list drops any phrase opening a question, since what is asked decides, not the words.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement:
         "A turn can fail Alan outside all five rules, and no case here names such a failure.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A phrase on a closed list is matched by its opening words unless the prompt bars that.",
     },

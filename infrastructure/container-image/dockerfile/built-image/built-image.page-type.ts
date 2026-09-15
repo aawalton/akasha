@@ -28,24 +28,24 @@ export const builtImage = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An image's Dockerfile is written from the image's stated values rather than kept.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image states the sort of Dockerfile written for that image.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image adding to its Dockerfile keeps the addition beside its own page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image adding nothing states no extensions.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image naming no package installer is built with apk.",
     },
   ],

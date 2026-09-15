@@ -43,27 +43,27 @@ export const toDo = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A recurring to-do earns once a day however many times that to-do is completed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A to-do with no difficulty earns nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A to-do that has not been sorted belongs to no value.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A to-do's body is the work doing that to-do takes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A to-do's completion history is the git history of that to-do's own page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A finished to-do is kept as the same page rather than as a page of its own.",
     },
   ],

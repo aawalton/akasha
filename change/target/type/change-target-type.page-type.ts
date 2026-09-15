@@ -16,11 +16,11 @@ export const changeTargetType = {
   extends: ["page-type/domain"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change states the target type from the thing that change acts on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which act a change makes and which thing a change acts on are two answers.",
     },
   ],

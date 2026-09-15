@@ -31,7 +31,7 @@ export const readoutGroup = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The words a group is drawn under are its definition rather than a label of its own.",
     },

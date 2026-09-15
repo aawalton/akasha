@@ -16,19 +16,19 @@ export const changeMechanicalPageType = {
   properties: [],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung here answers the whole scope of one act in one call.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung here reads the pages of the page type from the index once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung here takes the shortcuts knowing the whole act allows.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No rung here reaches a rung beneath once for each page.",
     },
   ],

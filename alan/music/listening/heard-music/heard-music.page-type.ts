@@ -13,11 +13,11 @@ export const heardMusic = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One person has one heard music page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A track entered into a heard music page is never taken out.",
     },
   ],

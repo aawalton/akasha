@@ -8,19 +8,19 @@ export const standardAgentEnglishProperty = {
   extends: ["page-type/text-property"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property of this page type has a value read as English.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property whose page type extends this page type is judged the same way.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property of any other page type is not judged.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property is moved to this page type rather than named in a list.",
     },
   ],

@@ -14,16 +14,16 @@ export const allAboutAlanExperiment = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An experiment has the material the experiment is run with rather than any topic or finding.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An experiment finds a topic or a finding.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An experiment is kept whether or not the experiment has been run yet.",
     },
   ],

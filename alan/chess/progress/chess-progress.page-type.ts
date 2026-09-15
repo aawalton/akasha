@@ -27,19 +27,19 @@ export const chessProgress = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The prose written about a part of Alan's chess is its description.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page of category `motif` names the motif that page is about.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A motif is named by the Lichess theme the puzzle rows have.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The prose here is Alan's coach writing about Alan rather than akasha's own.",
     },
   ],

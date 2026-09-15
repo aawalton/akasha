@@ -8,11 +8,11 @@ export const strengthExerciseSelectionConstraint = {
   extends: ["page-type/module"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A constraint answers whether one exercise page is left in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A constraint states when that constraint is tested again.",
     },
   ],

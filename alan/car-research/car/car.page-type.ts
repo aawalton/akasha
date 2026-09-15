@@ -15,15 +15,15 @@ export const car = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every page type naming a level of a maker's catalogue builds on this page type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A level names the level above that level and never the levels below.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No page is a car itself.",
     },
   ],

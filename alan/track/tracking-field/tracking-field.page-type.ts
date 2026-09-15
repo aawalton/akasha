@@ -8,19 +8,19 @@ export const trackingField = {
   extends: ["page-type/page-property"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field is observed rather than set.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each value a field has is one observation.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "How a field's values come to exist is a capture the field names.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No property here declares the capture a field names.",
     },
   ],

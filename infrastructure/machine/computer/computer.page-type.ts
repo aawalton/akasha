@@ -51,15 +51,15 @@ export const computer = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A machine stays on the list once sold.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The cost and the replacement of a sold machine are still read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every score a machine has is worked out from its parts rather than written down.",
     },
   ],

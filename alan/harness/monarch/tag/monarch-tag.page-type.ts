@@ -13,11 +13,11 @@ export const monarchTag = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tag is made in Monarch by hand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing here creates a tag.",
     },
   ],

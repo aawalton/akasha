@@ -9,11 +9,11 @@ export const codeEditorTerminal = {
   mortal: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A terminal moves only where Alan's own layout moves that terminal.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A closed terminal's page goes in the hourly sweep rather than as the terminal closes.",
     },

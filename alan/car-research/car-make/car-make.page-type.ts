@@ -32,7 +32,7 @@ export const carMake = {
   ],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A make names no model that make builds.",
     },
   ],

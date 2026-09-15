@@ -23,19 +23,19 @@ export const bookRecord = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One book has more than one record.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A record has the words of the book's keeper rather than akasha's words.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A record is no part of the book the record is kept about.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A record a command generates is written whole rather than edited by hand.",
     },
   ],

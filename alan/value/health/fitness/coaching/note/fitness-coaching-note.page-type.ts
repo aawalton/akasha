@@ -37,7 +37,7 @@ export const fitnessCoachingNote = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A note's words are in a file of their own rather than in a value beside that note.",
     },

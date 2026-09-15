@@ -14,15 +14,15 @@ export const collectionType = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection takes its unit from its kind unless the collection states its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection's `type` names the kind.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "Six thousand collections of these kinds sit outside akasha and have no page of their own.",
     },

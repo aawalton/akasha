@@ -8,7 +8,7 @@ export const trackingEntryDate = {
   extends: ["page-type/tracking-entry"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A date entry counts to the day the entry was written in.",
     },
   ],

@@ -10,15 +10,15 @@ export const appRoutes = {
   properties: [{ pageProperty: "code-file-property/app-layout", required: false, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A router app's routes are declared here rather than on the router app.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page here is slugged the router app's slug followed by `routes`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A router app names the page here as a part rather than naming each route.",
     },
   ],

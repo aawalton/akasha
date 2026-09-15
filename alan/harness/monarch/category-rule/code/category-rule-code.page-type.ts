@@ -8,11 +8,11 @@ export const categoryRuleCode = {
   extends: ["page-type/category-rule"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule of this kind is settled by its clauses without anybody reading the row.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule of this kind naming no category catches a row for a person to settle.",
     },
   ],

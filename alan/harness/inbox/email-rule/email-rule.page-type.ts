@@ -25,15 +25,15 @@ export const emailRule = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule is matched against an email message.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One person's rules are a set of their own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule's kind is the folder the rule is in rather than a key on the rule.",
     },
   ],

@@ -10,48 +10,48 @@ export const stylesheet = {
   properties: [{ pageProperty: "file-property/styles", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stylesheet's rules are a page property held in a file beside the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A stylesheet is its own page rather than a property of the components the stylesheet dresses.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One stylesheet dresses as many components as name the stylesheet's classes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A component is dressed by naming a class rather than by importing a stylesheet.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A component imports a stylesheet only to make a bundler emit the stylesheet.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stylesheet page names the components its rules dress.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stylesheet is formatted and linted by the run that reads a body of code.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stylesheet is held to the same byte ceiling as any other file.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A stylesheet declares nothing a compiler could type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A comment in a stylesheet is refused as prose in code is.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A specifier naming a stylesheet that is not there is refused by the typechecker.",
     },
   ],

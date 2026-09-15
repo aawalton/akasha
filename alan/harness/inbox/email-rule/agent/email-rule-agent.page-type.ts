@@ -11,20 +11,20 @@ export const emailRuleAgent = {
   loadedBy: "module/email-rule-reading",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule of this kind narrows the mail and leaves the answer to an agent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule of this kind states the grounds to weigh rather than the act to take.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Mail nobody has yet understood reaches a rule of this kind rather than being acted on by pattern.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A case an agent comes to understand becomes a code rule and stops reaching an agent rule.",
     },

@@ -14,40 +14,40 @@ export const notice = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A notice arrives as a turn of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A notice's words are written before the moment the notice is sent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A notice is asked for by its slug rather than by a heading inside a document.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One notice is one page rather than one section of a page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A notice the supervisor hands to a respawned seat opens with `[supervisor]`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The fleet's hooks tell a composed prompt from Alan at the keyboard by that opening marker.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A notice that arrives on a message row has no opening marker.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A notice edited here reaches a seat the next time that seat is resumed.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The notices a seat is resumed with exist as pages under this type.",
     },
   ],

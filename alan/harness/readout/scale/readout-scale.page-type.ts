@@ -38,32 +38,32 @@ export const readoutScale = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A scale is named by the readings drawn against that scale and belongs to no reading.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A scale states only the rungs the scale has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Rising numbers make a scale ascend and falling ones descend.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Black is at zero unless a scale moves black.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Orange is a rung a stoplight strip cannot draw.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A scale states the color an earned reading takes rather than a rung.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A scale stating no earned color has no reading earn a color against that scale.",
     },
   ],

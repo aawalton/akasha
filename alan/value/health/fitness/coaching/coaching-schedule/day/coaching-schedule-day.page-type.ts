@@ -14,11 +14,11 @@ export const coachingScheduleDay = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day states the weekday that day falls on and the focus that day trains.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A day names no rotation the day belongs to.",
     },
   ],

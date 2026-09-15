@@ -29,32 +29,32 @@ export const reminder = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reminder names the times for sending as systemd states a calendar.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Systemd is asked when the next sending falls rather than a parser here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reminder first seen is armed rather than sent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A reminder whose sending was missed while nothing ran is caught up rather than dropped.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reminder naming one time is taken away once that reminder has sent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "When a reminder next falls due is held outside the commit.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A reminder says nothing about how the words reach the persona named.",
     },
   ],

@@ -9,19 +9,19 @@ export const logSource = {
   extends: ["page-type/page"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A source is named for the process writing the lines rather than for the seat.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One source writes a separate day for each seat.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A source outlives every day of lines the source wrote.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A source has nothing but the name the source is reached by.",
     },
   ],

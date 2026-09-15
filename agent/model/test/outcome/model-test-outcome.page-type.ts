@@ -15,15 +15,15 @@ export const modelTestOutcome = {
   extends: ["page-type/domain"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A case bad in a way the test does not measure is not a false positive.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a case that is not bad in any way makes a positive false.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An outcome is the finding a reader made rather than the answer the model gave.",
     },
   ],

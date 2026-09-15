@@ -61,98 +61,98 @@ export const readoutWidget = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A widget names the component the widget is drawn in rather than the file's path.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A widget draws groups rather than readings.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tile drawing what the tiles themselves are doing names no feed and no group.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A widget has the words the gallery prints and nothing the tile draws.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The name a placed tile is bound to cannot change without the tile falling off the phone.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A tile is granted forty to seventy reloads a day.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The reloads a tile is granted move with how often that tile is looked at.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Each placed tile is granted reloads of its own rather than reloads an app shares out.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A tile's entries cost that tile nothing and its reloads alone are counted.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A tile is not reloaded twice inside five minutes however near its next entry is.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A reload asked for while the app is in front is not counted against the grant.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A tile asked to reload is not promised a reload.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A push reloading a tile is rationed apart from that tile's own reloads.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Time is the only thing a tile redraws while nothing of the tile's is running.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A tile under WidgetKit developer mode reloads at a rate the phone will not grant.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every tile of an app is reloaded when that app comes forward.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A widget's link names that widget in the link's fragment.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A widget carries how many taps that widget has taken.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A widget carries when that widget was last tapped.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The taps a widget has taken are carried outside the commit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tap is counted by reading the count and writing the count back.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "A tap arriving while another tap is being recorded is lost.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every tap a widget takes is counted.",
     },
   ],

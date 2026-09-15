@@ -22,11 +22,11 @@ export const strengthExerciseImplement = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A movement names one of these rather than naming a piece Alan owns.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A piece Alan owns names the ones that piece answers for.",
     },
   ],

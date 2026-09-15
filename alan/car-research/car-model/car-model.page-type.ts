@@ -31,7 +31,7 @@ export const carModel = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A model names the make above that model and never the years below.",
     },
   ],

@@ -17,11 +17,11 @@ export const movie = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A film states the minutes the film runs to.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A film has no parts.",
     },
   ],

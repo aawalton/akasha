@@ -25,28 +25,28 @@ export const book = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book's own length is counted in the words the book runs to.",
     },
 
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book names the author as the author is written rather than as a page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book states which instalment of its series the book is.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book names every series the book is an instalment of.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book Alan has not graded states no rank.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book opening its name with a number is slugged for its page type first.",
     },
   ],

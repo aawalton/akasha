@@ -9,15 +9,15 @@ export const greatCourse = {
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A course states the minutes the course runs to and the minutes Alan has watched.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A course names every shelf the course sits on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A course Alan has not graded states no rank.",
     },
   ],

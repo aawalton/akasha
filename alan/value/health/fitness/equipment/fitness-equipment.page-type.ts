@@ -41,19 +41,19 @@ export const fitnessEquipment = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A piece of kit Alan owns is its own page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The kit vocabulary a movement is tagged with is apart from those pages.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A piece Alan has not bought yet is a page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A piece Alan has not bought yet is unavailable.",
     },
   ],

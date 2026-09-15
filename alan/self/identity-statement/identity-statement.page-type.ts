@@ -60,12 +60,12 @@ export const identityStatement = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A statement sits at a rank saying how hard the statement is to hold and a level saying the progress.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A supersession is stated on the superseding statement and on the superseded statement.",
     },

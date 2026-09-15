@@ -24,15 +24,15 @@ export const collectionExternal = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field the provider does not answer with is left as the field was.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The values a person records about a collection outlive every sync.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection no provider holds a record of states no record.",
     },
   ],

@@ -34,15 +34,15 @@ export const locationDeal = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A deal names every place the deal is redeemable at.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A deal with no cap on its uses has `no-limit` rather than a count.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A deal struck out on the card is struck out here.",
     },
   ],

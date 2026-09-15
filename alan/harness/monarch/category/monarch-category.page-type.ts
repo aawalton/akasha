@@ -13,24 +13,24 @@ export const monarchCategory = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A category is partly a choice of budget rather than only a fact about the purchase.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An archived category takes no rule.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A category is named as Monarch titles it.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A merge or a rename in Monarch warns nobody here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A category with no group is a category Alan wrote and Monarch never had.",
     },
   ],

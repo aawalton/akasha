@@ -9,15 +9,15 @@ export const fileKindDomain = {
   properties: [],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A kind reaches a file wherever in a repository that file sits.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A kind is told from a file's name rather than from the bytes the file has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "The pattern and the bytes and the splitting a kind states have no property here yet.",
     },

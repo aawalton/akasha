@@ -81,16 +81,16 @@ export const strengthExercise = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "How a movement is performed is in its own file rather than in a value beside that movement.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A movement with an external id was imported and is refreshed from its source.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A movement Alan wrote himself has no field an external source would fill.",
     },
   ],

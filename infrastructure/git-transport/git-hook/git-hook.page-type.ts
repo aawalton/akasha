@@ -13,15 +13,15 @@ export const gitHook = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook's slug opens with the name git runs that hook under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The rest of that slug says which act the hook does.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A repository reaches a hook where the hook sits rather than holding a copy.",
     },
   ],

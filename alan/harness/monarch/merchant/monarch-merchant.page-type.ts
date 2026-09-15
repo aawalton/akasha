@@ -18,15 +18,15 @@ export const monarchMerchant = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "How the money moved is a merchant here for rows whose words name no vendor.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A merchant a rule names is a merchant here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row matching no merchant is read as `unstated`.",
     },
   ],

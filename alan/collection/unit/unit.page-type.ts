@@ -17,11 +17,11 @@ export const unit = {
   properties: [{ pageProperty: "number-property/words", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A unit says its worth in words.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Words are the unit every other unit is weighed against.",
     },
   ],

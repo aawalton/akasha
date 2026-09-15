@@ -42,19 +42,19 @@ export const selectionPolicy = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One page has the numbers and there is never a second page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every number the selector weighs by is on this page rather than in code.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A number missing here stops the selector rather than coming from somewhere else.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each number the selector reads is a property of this page type.",
     },
   ],

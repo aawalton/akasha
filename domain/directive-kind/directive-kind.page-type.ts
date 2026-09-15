@@ -9,7 +9,7 @@ export const directiveKind = {
   extends: ["page-type/domain"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Every kind of directive is the same four lines and differs in that kind's definition.",
     },

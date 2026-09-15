@@ -14,11 +14,11 @@ export const allAboutAlanModel = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A model has the computation rather than the numbers the computation prints.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A topic citing a number cites the model the number came from.",
     },
   ],

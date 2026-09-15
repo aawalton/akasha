@@ -18,7 +18,7 @@ export const carYear = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A year names the model above that year and never the trims below.",
     },
   ],

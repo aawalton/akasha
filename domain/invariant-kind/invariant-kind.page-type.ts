@@ -18,7 +18,7 @@ export const invariantKind = {
   properties: [{ pageProperty: "relation-property/invariant-group", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A kind is in one group.",
     },
   ],

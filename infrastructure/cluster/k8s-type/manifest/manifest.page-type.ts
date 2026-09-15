@@ -14,23 +14,23 @@ export const manifest = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A manifest is found by its page type rather than by its file name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A manifest's resources are applied to the cluster.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A manifest is generated into YAML before that manifest is applied.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A container told to run start runs in a package stating a start script.",
     },
     {
-      invariantKind: "upkeep",
+      invariantKind: "invariant-kind/upkeep",
       statement:
         "A manifest's checksum annotation sums a secret or config that manifest names in an invariant.",
     },
