@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const motherOfLearning0105105IWinIi = {
   id: "01a06731-b0c5-7000-9e49-72c029d8cc94",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mother-of-learning-0105-105-i-win-ii",
   title: "105. I Win (II)",
   story: "story-read/mother-of-learning",

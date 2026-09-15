@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const myLordPleaseACharacterDrivenKingdomBuilding0058Chapter54Threshold = {
   id: "01a06591-3f76-72a6-a67a-2773c6dcc12e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0058-chapter-54-threshold",
   title: "Chapter 54 Threshold",
   story: "story-read/my-lord-please-a-character-driven-kingdom-building",

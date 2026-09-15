@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const myLordPleaseACharacterDrivenKingdomBuilding0137Chapter131Gauge = {
   id: "01a0a151-2cf9-734d-b4ab-c4f4159f6899",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0137-chapter-131-gauge",
   position: 137,
   publishedAt: "2026-09-14",

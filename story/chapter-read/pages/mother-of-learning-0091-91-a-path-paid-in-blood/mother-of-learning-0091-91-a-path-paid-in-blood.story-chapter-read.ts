@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const motherOfLearning009191APathPaidInBlood = {
   id: "01a06731-b0ab-7000-887d-fbb6f03f5056",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mother-of-learning-0091-91-a-path-paid-in-blood",
   title: "91. A Path Paid in Blood",
   story: "story-read/mother-of-learning",

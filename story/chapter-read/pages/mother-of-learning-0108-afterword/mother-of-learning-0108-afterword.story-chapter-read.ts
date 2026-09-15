@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const motherOfLearning0108Afterword = {
   id: "01a06731-b0c9-7000-82b4-afd1ab0792f0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mother-of-learning-0108-afterword",
   title: "Afterword",
   story: "story-read/mother-of-learning",

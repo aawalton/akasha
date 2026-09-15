@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const myLordPleaseACharacterDrivenKingdomBuilding0041Chapter39Breach = {
   id: "01a06591-3f75-7b89-864f-b627c4646bde",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0041-chapter-39-breach",
   title: "Chapter 39 Breach",
   story: "story-read/my-lord-please-a-character-driven-kingdom-building",

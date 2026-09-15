@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0004Chapter20OutOfTheFryingPan = {
   id: "01a06591-3f7f-7414-9248-1cec9db3b697",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0004-chapter-20-out-of-the-frying-pan",
   title: "Chapter 20 - Out Of The Frying Pan",
   story: "story-read/mythrans-master-of-all-continued-completed",

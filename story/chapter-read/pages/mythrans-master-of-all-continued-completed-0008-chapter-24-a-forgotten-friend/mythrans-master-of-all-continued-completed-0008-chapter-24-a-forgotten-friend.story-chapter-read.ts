@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0008Chapter24AForgottenFriend = {
   id: "01a06591-3f80-7a12-993e-6c96afcbcc61",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0008-chapter-24-a-forgotten-friend",
   title: "Chapter 24 - A Forgotten Friend",
   story: "story-read/mythrans-master-of-all-continued-completed",
