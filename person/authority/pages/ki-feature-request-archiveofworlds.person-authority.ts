@@ -2,7 +2,7 @@ import type { PersonAuthority } from "akasha/person/authority/person-authority.p
 
 export const kiFeatureRequestArchiveofworlds = {
   id: "01a05433-f107-75d2-bd48-a5e1960f21e0",
-  type: "person-authority",
+  type: "page-type/person-authority",
   slug: "ki-feature-request-archiveofworlds",
   person: "person/ki",
   authorityKind: "authority-kind/feature-request",
