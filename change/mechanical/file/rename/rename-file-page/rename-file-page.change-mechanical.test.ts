@@ -29,10 +29,7 @@ import {
   WIDE_SESSIONS,
   worldIn,
 } from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts"
-import {
-  addressOf,
-  tailOf,
-} from "akasha/change/modules/page-renaming/page-renaming.module.code.ts"
+import { addressOf, tailOf } from "akasha/change/modules/page-renaming/page-renaming.module.code.ts"
 import {
   bodiesIn,
   ledgerAt,
@@ -74,7 +71,7 @@ const TYPED_SLUG = "typed-one"
 
 const TYPED_PAGE = "akasha/five/typed-one.module.ts"
 
-const TYPED_LANDS = "akasha/five/carried.module.ts"
+const TYPED_LANDS = "akasha/carried/carried.module.ts"
 
 const READER_PAGE = "akasha/six/reader.module.ts"
 
@@ -115,12 +112,15 @@ const SHARED_CODE = "akasha/ten/shared-one.module.code.ts"
 
 const SHARED_BESIDE = "akasha/ten/second-here.module.ts"
 
+const LONE_PAGE = "akasha/eleven/lone-one.module.ts"
+
 const otherAt: string = indexedRepo({
   [OTHER_PAGE]: statedAs(OTHER_VALUE, "otherOne"),
   [OTHER_CODE]: "export const kept = 2\n",
   [SHARED_PAGE]: pageOf({ id: idOf("0"), pageTypeSlug: "module", slug: "shared-one", code: "ts" }),
   [SHARED_CODE]: "export const kept = 9\n",
   [SHARED_BESIDE]: pageOf({ id: idOf("d"), pageTypeSlug: "module", slug: "second-here" }),
+  [LONE_PAGE]: pageOf({ id: idOf("1"), pageTypeSlug: "module", slug: "lone-one" }),
 })
 
 const heldWas = textIn(heldAt)
@@ -303,6 +303,13 @@ test("a page owning its folder carries what sits under that folder, each file on
   ])
 })
 
+test("a page alone in its folder with no file beside it carries that folder too", async () => {
+  const root = otherAt
+  const said = await runChange(worldIn(root, textIn(root)), { at: LONE_PAGE, to: CARRIED })
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([[LONE_PAGE, CARRIED_PAGE]])
+})
+
 test("a page carrying the slug asked for is carried into the folder that slug names", async () => {
   const root = otherAt
   const said = await runChange(worldIn(root, textIn(root)), { at: OTHER_PAGE, to: OTHER_SLUG })
@@ -331,7 +338,7 @@ test("a page exporting a type named from its slug has the const and the type spe
   expect(body).toContain("export type Carried = string")
   expect(body).toContain(`export const ${CARRIED} =`)
   expect(body).not.toContain("TypedOne")
-  expect(bodies.get(READER_CODE)).toBe(readerBody("Carried", `../five/${CARRIED}.module.ts`))
+  expect(bodies.get(READER_CODE)).toBe(readerBody("Carried", `../${CARRIED}/${CARRIED}.module.ts`))
 })
 
 test("a page renamed over a ledger is carried once rather than a second time", async () => {

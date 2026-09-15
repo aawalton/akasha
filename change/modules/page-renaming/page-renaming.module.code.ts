@@ -173,8 +173,7 @@ function underIn(
   return found.sort((one, two) => (one.from < two.from ? -1 : one.from > two.from ? 1 : 0))
 }
 
-function ownsIn(files: readonly string[], held: Held, beside: readonly Beside[]): boolean {
-  if (beside.length === 0) return false
+function ownsIn(files: readonly string[], held: Held): boolean {
   const opening = `${held.slug}.${held.pageTypeSlug}.`
   return files.length > 0 && files.every((one) => basename(one).startsWith(opening))
 }
@@ -191,10 +190,10 @@ function foldedAs(held: Held, given: Asked, folder: string): string {
   return tailOf(held.slug, named, given.to) ?? folderFor(held.pageTypeSlug, given.to)
 }
 
-function landingIn(world: World, held: Held, given: Asked, beside: readonly Beside[]): string {
+function landingIn(world: World, held: Held, given: Asked): string {
   const name = `${given.to}.${held.pageTypeSlug}${TYPED}`
   const folder = dirname(given.at)
-  if (!ownsIn(filesIn(world.root, folder), held, beside)) return join(folder, name)
+  if (!ownsIn(filesIn(world.root, folder), held)) return join(folder, name)
   return join(dirname(folder), foldedAs(held, given, folder), name)
 }
 
@@ -302,7 +301,7 @@ export function pageRenamed(world: World, given: Asked): Answer {
   let beside: readonly Beside[]
   try {
     beside = [...besideIn(world, held), ...reservedIn(world, held, given.at)]
-    lands = landingIn(world, held, given, beside)
+    lands = landingIn(world, held, given)
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
     return refusing(`${why}, so no file was moved`)

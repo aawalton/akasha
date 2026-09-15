@@ -38,6 +38,10 @@ export const pageRenaming = {
     },
     {
       invariantKind: "departure",
+      statement: "A folder holding no file but one page's own is that page's folder.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page in a folder named for what its slug adds keeps a folder named that way.",
     },
     {
