@@ -2,6 +2,7 @@
 
 import { readAllTransactions } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
 import { categoryTitles } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export interface PairRow {
   readonly monarchId: string
@@ -75,7 +76,7 @@ async function pairedRows(): Promise<readonly PairRow[]> {
   for (const row of await readAllTransactions()) {
     const orderNumber = row.amazonOrderNumber
     if (orderNumber === undefined || orderNumber === "") continue
-    const slug = row.category
+    const slug = row.category === undefined ? undefined : slugOf(row.category)
     held.push({
       monarchId: row.monarchId,
       date: row.transactionDay.slice(0, 10),
