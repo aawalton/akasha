@@ -1,8 +1,8 @@
 "use client"
 
-import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import { TokenSwatch } from "akasha/design/interface/design-interfaces-system/modules/token-swatch/token-swatch.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 
 export function SurfaceElevationPanel() {
   return (

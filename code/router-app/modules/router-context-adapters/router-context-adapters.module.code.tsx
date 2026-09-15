@@ -3,7 +3,7 @@ import {
   LayoutLinkProvider,
   type LayoutRouter,
   LayoutRouterProvider,
-} from "akasha/design/interface/design-interfaces-layout/modules/router-context/router-context.module.code.tsx"
+} from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import {
   type PagesUILinkProps,
   PagesUILinkProvider,

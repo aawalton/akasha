@@ -8,7 +8,7 @@ export const designInterface = {
   parts: [
     "domain/design-interface-badge",
     "domain/design-interface-form",
-    "domain/design-interfaces-layout",
+    "domain/design-interface-layout",
     "domain/design-interfaces-patterns",
     "domain/design-interfaces-primitives",
     "domain/design-interfaces-system",

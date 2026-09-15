@@ -1,7 +1,5 @@
 "use client"
 
-import { PageTabHeader } from "akasha/design/interface/design-interfaces-layout/modules/page-tab-header/page-tab-header.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/interface/design-interfaces-layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { TabsContent } from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
 import { BordersPanel } from "akasha/design/interface/design-interfaces-system/modules/borders/borders.module.code.tsx"
 import { GemstoneColorsPanel } from "akasha/design/interface/design-interfaces-system/modules/gemstone-colors/gemstone-colors.module.code.tsx"
@@ -10,6 +8,8 @@ import { StateLayersPanel } from "akasha/design/interface/design-interfaces-syst
 import { SurfaceElevationPanel } from "akasha/design/interface/design-interfaces-system/modules/surface-elevation/surface-elevation.module.code.tsx"
 import { TextColorsPanel } from "akasha/design/interface/design-interfaces-system/modules/text-colors/text-colors.module.code.tsx"
 import { TypographyPanel } from "akasha/design/interface/design-interfaces-system/modules/typography/typography.module.code.tsx"
+import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 
 export function TokensTabContent() {
   return (

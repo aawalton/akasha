@@ -8,7 +8,6 @@
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"alan/web/modules/roster-gallery/roster-gallery.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"alan/web/root.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/badge/modules/badge/badge.module.code.tsx"}
-{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/design-interfaces-layout/modules/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/button-group/button-group.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/chip-list/chip-list.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/chip/chip.module.code.tsx"}
@@ -53,6 +52,7 @@
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/form/modules/input-otp/input-otp.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/form/modules/multi-select/multi-select.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/form/modules/search-multi-select/search-multi-select.module.code.tsx"}
+{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/layout/modules/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"page/page.page-type.page-card-component.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"page/ui/component/modules/date-time-filter-inputs/date-time-filter-inputs.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"page/ui/component/modules/page-card-notes/page-card-notes.module.code.tsx"}

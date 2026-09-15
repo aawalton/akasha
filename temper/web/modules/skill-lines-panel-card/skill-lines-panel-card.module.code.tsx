@@ -1,4 +1,3 @@
-import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
 import {
   Select,
   SelectContent,
@@ -8,6 +7,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/design-interfaces-primitives/modules/select-control/select-control.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import {
   getAvailableSkillLinesGrouped,
   getClassForSkillLine,

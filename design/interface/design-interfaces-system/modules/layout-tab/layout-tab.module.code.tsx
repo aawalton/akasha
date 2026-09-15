@@ -1,11 +1,5 @@
 "use client"
 
-import { COLUMN_WIDTH } from "akasha/design/interface/design-interfaces-layout/modules/layout-data/layout-data.module.code.ts"
-import { getPageWidth } from "akasha/design/interface/design-interfaces-layout/modules/page-layout-data/page-layout-data.module.code.ts"
-import { PageTabHeader } from "akasha/design/interface/design-interfaces-layout/modules/page-tab-header/page-tab-header.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/interface/design-interfaces-layout/modules/responsive-columns/responsive-columns.module.code.tsx"
-import { useColumnCount } from "akasha/design/interface/design-interfaces-layout/modules/use-column-count/use-column-count.module.code.tsx"
 import { TabsContent } from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
 import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
@@ -19,6 +13,12 @@ import {
   TableRow,
 } from "akasha/design/interface/design-interfaces-primitives/modules/table/table.module.code.tsx"
 import { LayoutSpacingPanels } from "akasha/design/interface/design-interfaces-system/modules/layout-spacing-panels/layout-spacing-panels.module.code.tsx"
+import { COLUMN_WIDTH } from "akasha/design/interface/layout/modules/layout-data/layout-data.module.code.ts"
+import { getPageWidth } from "akasha/design/interface/layout/modules/page-layout-data/page-layout-data.module.code.ts"
+import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import { useColumnCount } from "akasha/design/interface/layout/modules/use-column-count/use-column-count.module.code.tsx"
 
 export function LayoutTabContent() {
   const columnCount = useColumnCount()

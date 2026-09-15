@@ -1,4 +1,3 @@
-import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
 import {
   CardContent,
   CardHeader,
@@ -8,6 +7,7 @@ import { Heading } from "akasha/design/interface/design-interfaces-primitives/mo
 import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 
 function InlineCode({ children }: { children: React.ReactNode }) {
   const surface = useSurface()

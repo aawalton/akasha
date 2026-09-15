@@ -1,6 +1,5 @@
 "use client"
 
-import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
 import {
   Kbd,
   KbdGroup,
@@ -26,6 +25,7 @@ import {
 import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
 import { Separator } from "akasha/design/interface/design-interfaces-primitives/modules/separator/separator.module.code.tsx"
 import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 
 const TEXT_VARIANTS = ["description", "hint", "caption", "prose"] as const
 

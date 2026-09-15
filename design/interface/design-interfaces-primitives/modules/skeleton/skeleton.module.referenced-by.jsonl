@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"skeleton.module.code.tsx","path":"design/interface/design-interfaces-layout/modules/app-shell-bottom-nav/app-shell-bottom-nav.module.code.tsx"}
-{"propertySlug":"import","fileName":"skeleton.module.code.tsx","path":"design/interface/design-interfaces-layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"}
-{"propertySlug":"import","fileName":"skeleton.module.code.tsx","path":"design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"}
-{"propertySlug":"import","fileName":"skeleton.module.code.tsx","path":"design/interface/design-interfaces-layout/modules/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"}
-{"propertySlug":"import","fileName":"skeleton.module.code.tsx","path":"design/interface/design-interfaces-layout/modules/skeleton-text/skeleton-text.module.code.tsx"}
 {"propertySlug":"import","fileName":"skeleton.module.code.tsx","path":"design/interface/design-interfaces-system/modules/components-skeleton-panels/components-skeleton-panels.module.code.tsx"}
+{"propertySlug":"import","fileName":"skeleton.module.code.tsx","path":"design/interface/layout/modules/app-shell-bottom-nav/app-shell-bottom-nav.module.code.tsx"}
+{"propertySlug":"import","fileName":"skeleton.module.code.tsx","path":"design/interface/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"}
+{"propertySlug":"import","fileName":"skeleton.module.code.tsx","path":"design/interface/layout/modules/page-layout/page-layout.module.code.tsx"}
+{"propertySlug":"import","fileName":"skeleton.module.code.tsx","path":"design/interface/layout/modules/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"}
+{"propertySlug":"import","fileName":"skeleton.module.code.tsx","path":"design/interface/layout/modules/skeleton-text/skeleton-text.module.code.tsx"}
 {"propertySlug":"import","fileName":"skeleton.module.code.tsx","path":"temper/web/modules/companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"skeleton.module.code.tsx","path":"temper/web/modules/companion-stat-group-panel-card/companion-stat-group-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"skeleton.module.code.tsx","path":"temper/web/modules/inventory-tab/inventory-tab.module.code.tsx"}

@@ -1,7 +1,7 @@
 import {
   PageLayout,
   PageTitle,
-} from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
+} from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 
 export function meta() {
   return [{ title: "Atlas" }]

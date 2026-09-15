@@ -5,9 +5,9 @@ import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,
 } from "akasha/code/router-app/modules/router-context-adapters/router-context-adapters.module.code.tsx"
-import { AppShell as SharedAppShell } from "akasha/design/interface/design-interfaces-layout/modules/app-shell/app-shell.module.code.tsx"
-import type { AppNavConfig } from "akasha/design/interface/design-interfaces-layout/modules/nav-types/nav-types.module.code.ts"
-import { useSidebarState } from "akasha/design/interface/design-interfaces-layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
+import { AppShell as SharedAppShell } from "akasha/design/interface/layout/modules/app-shell/app-shell.module.code.tsx"
+import type { AppNavConfig } from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
+import { useSidebarState } from "akasha/design/interface/layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { useAppVersionCheck } from "akasha/page/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"
 import { SortableNavs } from "akasha/page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx"
 import { useAppNavItems } from "akasha/page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"

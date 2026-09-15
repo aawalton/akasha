@@ -4,7 +4,6 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/interface/design-interfaces-layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { InputPanelCard } from "akasha/design/interface/design-interfaces-patterns/modules/input-panel-card/input-panel-card.module.code.tsx"
 import { Input } from "akasha/design/interface/design-interfaces-primitives/modules/input/input.module.code.tsx"
 import {
@@ -17,6 +16,7 @@ import {
 import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { Switch } from "akasha/design/interface/design-interfaces-primitives/modules/switch-control/switch-control.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import type {
   InventoryLoggingLevel,
   InventoryPerfTracingLevel,

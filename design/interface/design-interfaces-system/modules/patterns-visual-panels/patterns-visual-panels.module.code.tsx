@@ -1,7 +1,6 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
 import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import {
   Dialog,
@@ -22,6 +21,7 @@ import {
   TableHeader,
   TableRow,
 } from "akasha/design/interface/design-interfaces-primitives/modules/table/table.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 
 const PRINCIPLES = [
   {

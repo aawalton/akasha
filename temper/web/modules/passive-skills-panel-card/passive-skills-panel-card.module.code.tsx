@@ -1,12 +1,12 @@
 "use client"
 
-import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
 import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
 } from "akasha/design/interface/design-interfaces-primitives/modules/collapsible/collapsible.module.code.tsx"
 import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import type { Skill } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import { skills } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"

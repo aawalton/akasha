@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"popover.module.code.tsx","path":"design/interface/badge/modules/date-badge/date-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"popover.module.code.tsx","path":"design/interface/badge/modules/time-badge/time-badge.module.code.tsx"}
-{"propertySlug":"import","fileName":"popover.module.code.tsx","path":"design/interface/design-interfaces-layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"}
 {"propertySlug":"import","fileName":"popover.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/chip-list/chip-list.module.code.tsx"}
 {"propertySlug":"import","fileName":"popover.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/filter-button/filter-button.module.code.tsx"}
 {"propertySlug":"import","fileName":"popover.module.code.tsx","path":"design/interface/design-interfaces-patterns/modules/icon-picker/icon-picker.module.code.tsx"}
@@ -10,6 +9,7 @@
 {"propertySlug":"import","fileName":"popover.module.code.tsx","path":"design/interface/design-interfaces-system/modules/components-overlay-panels/components-overlay-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"popover.module.code.tsx","path":"design/interface/form/modules/multi-select/multi-select.module.code.tsx"}
 {"propertySlug":"import","fileName":"popover.module.code.tsx","path":"design/interface/form/modules/search-multi-select/search-multi-select.module.code.tsx"}
+{"propertySlug":"import","fileName":"popover.module.code.tsx","path":"design/interface/layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"}
 {"propertySlug":"import","fileName":"popover.module.code.tsx","path":"page/instant-property/instant-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"popover.module.code.tsx","path":"page/ui/block-editor/modules/slash-menu/slash-menu.module.code.tsx"}
 {"propertySlug":"import","fileName":"popover.module.code.tsx","path":"page/ui/component/modules/create-view-popover/create-view-popover.module.code.tsx"}

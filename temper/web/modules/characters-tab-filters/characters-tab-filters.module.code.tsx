@@ -4,7 +4,6 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { PageTabHeader } from "akasha/design/interface/design-interfaces-layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { AddFilterButton } from "akasha/design/interface/design-interfaces-patterns/modules/add-filter-button/add-filter-button.module.code.tsx"
 import { addFilterId } from "akasha/design/interface/design-interfaces-patterns/modules/add-filter-id/add-filter-id.module.code.ts"
 import { FilterButton } from "akasha/design/interface/design-interfaces-patterns/modules/filter-button/filter-button.module.code.tsx"
@@ -16,6 +15,7 @@ import type {
   SortDirection,
   SortOption,
 } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
+import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import type { CompletionSortMode } from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 import { useState } from "react"
 

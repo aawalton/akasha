@@ -1,7 +1,6 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
 import { Chip } from "akasha/design/interface/design-interfaces-patterns/modules/chip/chip.module.code.tsx"
 import { ChipList } from "akasha/design/interface/design-interfaces-patterns/modules/chip-list/chip-list.module.code.tsx"
 import { ItemCard } from "akasha/design/interface/design-interfaces-patterns/modules/item-card/item-card.module.code.tsx"
@@ -14,6 +13,7 @@ import {
   ScrollBar,
 } from "akasha/design/interface/design-interfaces-primitives/modules/scroll-area/scroll-area.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { useState } from "react"
 
 export function ComponentsItemDisplayPanels() {

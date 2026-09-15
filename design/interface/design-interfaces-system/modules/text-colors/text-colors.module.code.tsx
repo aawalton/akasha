@@ -1,8 +1,8 @@
 "use client"
 
-import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
 import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
 import { TokenSwatch } from "akasha/design/interface/design-interfaces-system/modules/token-swatch/token-swatch.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 
 export function TextColorsPanel() {
   return (

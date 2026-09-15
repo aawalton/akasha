@@ -1,5 +1,5 @@
-import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
 import { StatRow } from "akasha/design/interface/design-interfaces-patterns/modules/stat-row/stat-row.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import type { BuffOrDebuffSource } from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import {
   type EffectSource,

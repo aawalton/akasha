@@ -1,11 +1,6 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { ListContentSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
-import {
-  PageTabHeader,
-  PageTabTitleBadges,
-} from "akasha/design/interface/design-interfaces-layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import {
   Empty,
   EmptyDescription,
@@ -23,6 +18,11 @@ import {
   Card,
   CardContent,
 } from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
+import { ListContentSkeleton } from "akasha/design/interface/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
+import {
+  PageTabHeader,
+  PageTabTitleBadges,
+} from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"

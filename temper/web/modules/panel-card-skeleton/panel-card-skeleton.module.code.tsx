@@ -1,6 +1,5 @@
 "use client"
 
-import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/interface/design-interfaces-layout/modules/panel-card-data/panel-card-data.module.code.ts"
 import {
   Card,
   CardAction,
@@ -10,6 +9,7 @@ import {
 } from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
 import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
 import { Skeleton } from "akasha/design/interface/design-interfaces-primitives/modules/skeleton/skeleton.module.code.tsx"
+import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/interface/layout/modules/panel-card-data/panel-card-data.module.code.ts"
 import { ChevronDown } from "lucide-react"
 
 interface PanelCardSkeletonProps {

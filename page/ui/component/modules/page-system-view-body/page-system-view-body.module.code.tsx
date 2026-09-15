@@ -1,10 +1,10 @@
 "use client"
 
-import { createGenericLayout } from "akasha/design/interface/design-interfaces-layout/modules/column-layout/column-layout.module.code.ts"
-import { LoadMoreButton } from "akasha/design/interface/design-interfaces-layout/modules/load-more-button/load-more-button.module.code.tsx"
-import { ResponsiveColumnsSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
 import { CollapsibleGroupSection } from "akasha/design/interface/design-interfaces-patterns/modules/collapsible-group-section/collapsible-group-section.module.code.tsx"
 import type { useCollapsedGroups } from "akasha/design/interface/design-interfaces-patterns/modules/use-collapsed-groups/use-collapsed-groups.module.code.ts"
+import { createGenericLayout } from "akasha/design/interface/layout/modules/column-layout/column-layout.module.code.ts"
+import { LoadMoreButton } from "akasha/design/interface/layout/modules/load-more-button/load-more-button.module.code.tsx"
+import { ResponsiveColumnsSkeleton } from "akasha/design/interface/layout/modules/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
 import { PageBoard } from "akasha/page/ui/component/modules/page-board/page-board.module.code.tsx"
 import { PageCalendar } from "akasha/page/ui/component/modules/page-calendar/page-calendar.module.code.tsx"
 import { PageListSection } from "akasha/page/ui/component/modules/page-list-section/page-list-section.module.code.tsx"

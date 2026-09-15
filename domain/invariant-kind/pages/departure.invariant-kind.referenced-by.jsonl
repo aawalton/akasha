@@ -2200,7 +2200,6 @@
 {"propertySlug":"invariant-kind","path":"design/interface/badge/modules/url-badge/url-badge.module.ts","id":"01a05b55-a539-7bc7-91a9-d5b91de4f605"}
 {"propertySlug":"invariant-kind","path":"design/interface/color/color.page-type.ts","id":"01a06575-c2a9-766f-8f09-da30cc969637"}
 {"propertySlug":"invariant-kind","path":"design/interface/design-interface.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
-{"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-layout/modules/app-shell-sidebar/app-shell-sidebar.module.ts","id":"01a05b82-8b98-7341-a3de-18953237e37f"}
 {"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-patterns/modules/drag-hold/drag-hold.module.ts","id":"01a09093-a35f-7798-8306-75a6528275cb"}
 {"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-patterns/modules/filter-changing/filter-changing.module.ts","id":"01a090ec-d6a6-7001-9492-6e84f3f7dfe4"}
 {"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-patterns/modules/query-error-boundary/query-error-boundary.module.ts","id":"01a061ed-653b-73ef-8556-969d798ee2a5"}
@@ -2212,6 +2211,7 @@
 {"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-system/ring/ring.domain.ts","id":"01a0655b-9cdd-73ae-8a72-25ca95f9932b"}
 {"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-system/ring/stoplight-ring/stoplight-ring.domain.ts","id":"01a0655b-9cdd-7e6b-ab7d-6c730604d9f4"}
 {"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-system/token-values/token-values.stylesheet.ts","id":"01a05c95-564a-74a9-b2c1-09d527a8f63e"}
+{"propertySlug":"invariant-kind","path":"design/interface/layout/modules/app-shell-sidebar/app-shell-sidebar.module.ts","id":"01a05b82-8b98-7341-a3de-18953237e37f"}
 {"propertySlug":"invariant-kind","path":"design/interface/token/design-interface-token.domain.ts","id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}
 {"propertySlug":"invariant-kind","path":"design/interface/token/modules/color-shape/color-shape.module.ts","id":"01a05c97-5300-76a3-aa25-55af6fe31b6d"}
 {"propertySlug":"invariant-kind","path":"design/interface/token/modules/text-color/text-color.module.ts","id":"01a05c97-5302-71a3-b9f8-f3bbd1c59f22"}

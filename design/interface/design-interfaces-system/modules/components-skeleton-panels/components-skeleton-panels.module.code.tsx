@@ -1,14 +1,14 @@
 "use client"
 
-import { ListContentSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
-import { LoadingContainer } from "akasha/design/interface/design-interfaces-layout/modules/loading-container/loading-container.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
-import { SkeletonText } from "akasha/design/interface/design-interfaces-layout/modules/skeleton-text/skeleton-text.module.code.tsx"
 import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
 import { Skeleton } from "akasha/design/interface/design-interfaces-primitives/modules/skeleton/skeleton.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
+import { ListContentSkeleton } from "akasha/design/interface/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
+import { LoadingContainer } from "akasha/design/interface/layout/modules/loading-container/loading-container.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { SkeletonText } from "akasha/design/interface/layout/modules/skeleton-text/skeleton-text.module.code.tsx"
 import { useState } from "react"
 
 const RADIUS_VARIANTS = ["sm", "md", "lg", "full"] as const

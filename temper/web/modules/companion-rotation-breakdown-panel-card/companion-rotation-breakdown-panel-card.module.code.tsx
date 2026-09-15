@@ -1,8 +1,8 @@
 "use client"
 
-import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
 import { Skeleton } from "akasha/design/interface/design-interfaces-primitives/modules/skeleton/skeleton.module.code.tsx"
 import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import type { CompanionBaseRoleId } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionMetricValue } from "akasha/temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"

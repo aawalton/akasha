@@ -4,7 +4,7 @@ import { readHomeNavItemParam } from "akasha/alan/web/.server/home-dni-param/hom
 import {
   PageLayout,
   PageTitle,
-} from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
+} from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
 import { data, redirect } from "react-router"
 

@@ -14,13 +14,13 @@ import {
   type IdleActions,
   useIdleActions,
 } from "akasha/alan/web/modules/use-idle-actions/use-idle-actions.module.code.ts"
-import { PageLayout } from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
 import {
   Tabs,
   TabsContent,
   TabsList,
   TabsTrigger,
 } from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
+import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import type { FrameConfig } from "akasha/page/core/schema/modules/detail-config/detail-config.module.code.ts"
 import { DisplayFrame } from "akasha/page/ui/frame/modules/display-frame/display-frame.module.code.tsx"
 import { FrameViewPropertiesMenu } from "akasha/page/ui/frame/modules/frame-view-properties-menu/frame-view-properties-menu.module.code.tsx"

@@ -1,4 +1,4 @@
-import { useSidebarState } from "akasha/design/interface/design-interfaces-layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
+import { useSidebarState } from "akasha/design/interface/layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { LogIn, LogOut } from "lucide-react"
 import { Link } from "react-router"
 

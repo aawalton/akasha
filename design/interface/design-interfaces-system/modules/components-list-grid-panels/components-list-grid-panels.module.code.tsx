@@ -1,12 +1,12 @@
 "use client"
 
-import { LoadMoreButton } from "akasha/design/interface/design-interfaces-layout/modules/load-more-button/load-more-button.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
 import {
   Card,
   CardContent,
 } from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
 import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
+import { LoadMoreButton } from "akasha/design/interface/layout/modules/load-more-button/load-more-button.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { useState } from "react"
 
 export function ComponentsListGridPanels() {

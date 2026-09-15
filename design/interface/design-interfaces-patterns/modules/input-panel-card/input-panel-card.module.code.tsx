@@ -1,9 +1,5 @@
 "use client"
 
-import {
-  PanelCard,
-  type PanelCardProps,
-} from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
 import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import { Label } from "akasha/design/interface/design-interfaces-primitives/modules/label/label.module.code.tsx"
 import {
@@ -11,6 +7,10 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
+import {
+  PanelCard,
+  type PanelCardProps,
+} from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { Info } from "lucide-react"
 import type * as React from "react"
 

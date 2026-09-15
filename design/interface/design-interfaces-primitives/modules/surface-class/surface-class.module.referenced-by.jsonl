@@ -7,10 +7,6 @@
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"alan/web/modules/reveal-host/reveal-host.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"alan/web/modules/roster-gallery/roster-gallery.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/badge/modules/badge/badge.module.code.tsx"}
-{"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/design-interfaces-layout/modules/app-shell-bottom-nav/app-shell-bottom-nav.module.code.tsx"}
-{"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/design-interfaces-layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"}
-{"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"}
-{"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/design-interfaces-layout/modules/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/design-interfaces-patterns/modules/auth-page-content/auth-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/design-interfaces-patterns/modules/button-group/button-group.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/design-interfaces-patterns/modules/chip-list/chip-list.module.code.tsx"}
@@ -83,6 +79,10 @@
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/form/modules/input-otp/input-otp.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/form/modules/multi-select/multi-select.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/form/modules/search-multi-select/search-multi-select.module.code.tsx"}
+{"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/layout/modules/app-shell-bottom-nav/app-shell-bottom-nav.module.code.tsx"}
+{"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"}
+{"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/layout/modules/page-layout/page-layout.module.code.tsx"}
+{"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"design/interface/layout/modules/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"page/page.page-type.page-card-component.code.tsx"}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"page/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"page/ui/block-editor/modules/block-accessory-bar/block-accessory-bar.module.code.tsx"}

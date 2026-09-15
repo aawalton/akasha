@@ -1,17 +1,17 @@
 "use client"
 
 import {
-  PageLayout,
-  PageTitle,
-} from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
-import { tabbedPageSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
-import {
   PageTabsTrigger,
   Tabs,
   TabsList,
 } from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
 import { useFilterPersistence } from "akasha/design/interface/design-interfaces-patterns/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
+import {
+  PageLayout,
+  PageTitle,
+} from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
+import { tabbedPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { DungeonsTab } from "akasha/temper/web/modules/dungeons-tab/dungeons-tab.module.code.tsx"
 import { ChevronLeft, Swords } from "lucide-react"

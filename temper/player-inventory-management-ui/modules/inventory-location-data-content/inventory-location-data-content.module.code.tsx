@@ -1,8 +1,5 @@
 "use client"
 
-import { ListContentSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
-import { PageTabHeader } from "akasha/design/interface/design-interfaces-layout/modules/page-tab-header/page-tab-header.module.code.tsx"
-import { LayoutLink } from "akasha/design/interface/design-interfaces-layout/modules/router-context/router-context.module.code.tsx"
 import {
   Empty,
   EmptyContent,
@@ -13,6 +10,9 @@ import {
 } from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
 import type { SortDirection } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
 import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
+import { ListContentSkeleton } from "akasha/design/interface/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
+import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
+import { LayoutLink } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import { usePlayer } from "akasha/temper/modules/use-player/use-player.module.code.ts"

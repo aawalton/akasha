@@ -1,9 +1,5 @@
 import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import {
-  PageLayout,
-  PageTitle,
-} from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
-import {
   Empty,
   EmptyDescription,
   EmptyHeader,
@@ -15,6 +11,10 @@ import {
   ItemDescription,
   ItemTitle,
 } from "akasha/design/interface/design-interfaces-patterns/modules/item/item.module.code.tsx"
+import {
+  PageLayout,
+  PageTitle,
+} from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { getPageByIdSuffix, getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import type { PageOrder, PageSelect } from "akasha/page/access/modules/types/types.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"

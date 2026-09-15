@@ -4,8 +4,6 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/interface/design-interfaces-layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
 import {
   Popover,
@@ -13,6 +11,8 @@ import {
   PopoverTrigger,
 } from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
 import { Switch } from "akasha/design/interface/design-interfaces-primitives/modules/switch-control/switch-control.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import type {
   CharacterAutomationToggles,
   CompanionAutomationToggles,

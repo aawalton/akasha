@@ -1,9 +1,4 @@
 import {
-  PageLayout,
-  PageTitle,
-  PageTitleBadges,
-} from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
-import {
   Empty,
   EmptyDescription,
   EmptyHeader,
@@ -14,6 +9,11 @@ import {
   Card,
   CardContent,
 } from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
+import {
+  PageLayout,
+  PageTitle,
+  PageTitleBadges,
+} from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { Globe } from "lucide-react"
 
 export function CompletionPageEmpty() {

@@ -1,11 +1,6 @@
 "use client"
 
 import {
-  PageLayout,
-  PageTitle,
-} from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
-import { LayoutLink } from "akasha/design/interface/design-interfaces-layout/modules/router-context/router-context.module.code.tsx"
-import {
   Alert,
   AlertDescription,
   AlertTitle,
@@ -19,6 +14,11 @@ import { cn } from "akasha/design/interface/design-interfaces-primitives/modules
 import { Spinner } from "akasha/design/interface/design-interfaces-primitives/modules/spinner/spinner.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
+import {
+  PageLayout,
+  PageTitle,
+} from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
+import { LayoutLink } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { useInventoryImport } from "akasha/temper/player-inventory-management-ui/modules/use-inventory-import/use-inventory-import.module.code.ts"
 import {

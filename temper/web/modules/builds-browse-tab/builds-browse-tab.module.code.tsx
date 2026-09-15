@@ -1,6 +1,5 @@
 "use client"
 
-import { PaginatedCardGrid } from "akasha/design/interface/design-interfaces-layout/modules/paginated-card-grid/paginated-card-grid.module.code.tsx"
 import {
   Empty,
   EmptyContent,
@@ -14,6 +13,7 @@ import {
   Card,
   CardContent,
 } from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
+import { PaginatedCardGrid } from "akasha/design/interface/layout/modules/paginated-card-grid/paginated-card-grid.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { getRoleName } from "akasha/temper/character-source/modules/character-roles/character-roles.module.code.ts"
 import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
