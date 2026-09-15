@@ -2,12 +2,14 @@ import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
+import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import type { Landed, Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import { rowsIn } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { TOGETHER } from "akasha/command/modules/orphaning/orphaning.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
+import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
+import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -42,6 +44,7 @@ async function setUp(): Promise<string> {
   writeFileSync(join(root, "seed.txt"), "held\n")
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", "first"])
+  keepBuilt(indexIn(root))
   const put = await landing(
     root,
     rowsIn(root, [

@@ -146,5 +146,13 @@ export const indexSettling = {
       statement:
         "A settle into an index that is nowhere yet refuses no world for declaring no property unique.",
     },
+    {
+      invariantKind: "absence",
+      statement: "Nothing a settle writes says the index is whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world only a settle has written is read as an index that is missing.",
+    },
   ],
 } as const satisfies Module
