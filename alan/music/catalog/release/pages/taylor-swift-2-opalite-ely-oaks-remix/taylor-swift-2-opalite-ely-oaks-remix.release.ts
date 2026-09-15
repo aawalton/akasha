@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2OpaliteElyOaksRemix = {
   id: "01a0676a-d726-7040-b92c-fb5128f4e114",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-opalite-ely-oaks-remix",
   title: "Opalite (Ely Oaks Remix)",
   partOfCollections: ["artist/taylor-swift"],

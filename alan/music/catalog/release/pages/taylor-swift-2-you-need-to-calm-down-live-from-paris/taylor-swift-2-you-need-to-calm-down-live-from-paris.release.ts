@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2YouNeedToCalmDownLiveFromParis = {
   id: "01a0676a-d732-7011-bdab-05648dc72c88",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-you-need-to-calm-down-live-from-paris",
   title: "You Need To Calm Down (Live From Paris)",
   partOfCollections: ["artist/taylor-swift"],

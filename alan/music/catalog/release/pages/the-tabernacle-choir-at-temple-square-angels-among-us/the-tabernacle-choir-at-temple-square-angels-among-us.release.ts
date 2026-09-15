@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareAngelsAmongUs = {
   id: "01a0676a-d717-701d-ab1d-f6638eeba08d",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-angels-among-us",
   title: "Angels Among Us",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

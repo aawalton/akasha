@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2TaylorSwiftKaraokeReputation = {
   id: "01a0676a-d72c-7005-a874-49897296c1ba",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-taylor-swift-karaoke-reputation",
   title: "Taylor Swift Karaoke: reputation",
   partOfCollections: ["artist/taylor-swift"],

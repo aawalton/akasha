@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2SafeSoundTaylorSVersion = {
   id: "01a0676a-d728-703a-8c80-523d21c4fe3b",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-safe-sound-taylor-s-version",
   title: "Safe & Sound (Taylor's Version)",
   partOfCollections: ["artist/taylor-swift"],

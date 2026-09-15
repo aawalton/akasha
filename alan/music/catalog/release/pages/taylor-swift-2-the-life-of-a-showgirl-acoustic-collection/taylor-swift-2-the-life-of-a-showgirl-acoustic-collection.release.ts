@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2TheLifeOfAShowgirlAcousticCollection = {
   id: "01a0676a-d72d-7033-b6d6-640d89348a3c",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-the-life-of-a-showgirl-acoustic-collection",
   title: "The Life of a Showgirl + Acoustic Collection",
   partOfCollections: ["artist/taylor-swift"],

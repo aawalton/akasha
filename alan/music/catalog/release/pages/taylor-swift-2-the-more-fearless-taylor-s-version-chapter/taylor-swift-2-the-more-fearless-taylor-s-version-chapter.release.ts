@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2TheMoreFearlessTaylorSVersionChapter = {
   id: "01a0676a-d72d-7045-ba0c-5c01c9d63e60",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-the-more-fearless-taylor-s-version-chapter",
   title: "The More Fearless (Taylor’s Version) Chapter",
   partOfCollections: ["artist/taylor-swift"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2TheTorturedPoetsDepartmentTheAnthology = {
   id: "01a0676a-d72e-7017-9f98-efa42800be43",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-the-tortured-poets-department-the-anthology",
   title: "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
   partOfCollections: ["artist/taylor-swift"],

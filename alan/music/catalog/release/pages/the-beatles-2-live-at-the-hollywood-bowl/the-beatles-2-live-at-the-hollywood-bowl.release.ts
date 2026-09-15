@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2LiveAtTheHollywoodBowl = {
   id: "01a0676a-d723-7047-a0a7-8f316785edc2",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-live-at-the-hollywood-bowl",
   title: "Live At The Hollywood Bowl",
   partOfCollections: ["artist/the-beatles"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theHoldernessFamilyHotDadSummer = {
   id: "01a0676a-d720-705f-a761-df0f309088c0",
-  type: "release",
+  type: "page-type/release",
   slug: "the-holderness-family-hot-dad-summer",
   title: "Hot Dad Summer",
   partOfCollections: ["artist/the-holderness-family"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2AbbeyRoadSuperDeluxeEdition = {
   id: "01a0676a-d715-704c-bec3-82ad9a00fed4",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-abbey-road-super-deluxe-edition",
   title: "Abbey Road (Super Deluxe Edition)",
   partOfCollections: ["artist/the-beatles"],

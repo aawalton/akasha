@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3WalkingTheWireLargo = {
   id: "01a0676a-d730-7016-9066-1b203cf983e6",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-walking-the-wire-largo",
   title: "Walking the Wire / Largo",
   partOfCollections: ["artist/the-piano-guys"],

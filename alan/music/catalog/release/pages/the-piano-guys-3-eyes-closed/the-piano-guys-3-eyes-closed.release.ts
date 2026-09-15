@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3EyesClosed = {
   id: "01a0676a-d71d-7056-a0b9-d1c82117f828",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-eyes-closed",
   title: "Eyes Closed",
   partOfCollections: ["artist/the-piano-guys"],

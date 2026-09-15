@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2TodayWasAFairytale = {
   id: "01a0676a-d72f-700b-9a64-086da5664c5f",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-today-was-a-fairytale",
   title: "Today Was A Fairytale",
   partOfCollections: ["artist/taylor-swift"],

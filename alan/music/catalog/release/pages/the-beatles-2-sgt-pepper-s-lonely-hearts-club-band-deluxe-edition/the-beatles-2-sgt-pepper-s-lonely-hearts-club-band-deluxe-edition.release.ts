@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2SgtPepperSLonelyHeartsClubBandDeluxeEdition = {
   id: "01a0676a-d728-7066-88a8-0cf82199ff96",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-sgt-pepper-s-lonely-hearts-club-band-deluxe-edition",
   title: "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
   partOfCollections: ["artist/the-beatles"],

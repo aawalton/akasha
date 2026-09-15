@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2WillowLonelyWitchVersion = {
   id: "01a0676a-d731-7022-9b68-4bf037818eda",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-willow-lonely-witch-version",
   title: "willow (lonely witch version)",
   partOfCollections: ["artist/taylor-swift"],

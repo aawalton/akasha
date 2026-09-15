@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2MrPerfectlyFineTaylorSVersionFromTheVault = {
   id: "01a0676a-d725-7012-9460-8bbb2dfca2c7",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-mr-perfectly-fine-taylor-s-version-from-the-vault",
   title: "Mr. Perfectly Fine (Taylor’s Version) (From The Vault)",
   partOfCollections: ["artist/taylor-swift"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2AHardDaySNightRemastered = {
   id: "01a0676a-d715-7028-a8c5-161e44311eca",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-a-hard-day-s-night-remastered",
   title: "A Hard Day's Night (Remastered)",
   partOfCollections: ["artist/the-beatles"],

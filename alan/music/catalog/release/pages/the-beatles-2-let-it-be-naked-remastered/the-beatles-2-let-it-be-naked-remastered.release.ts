@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2LetItBeNakedRemastered = {
   id: "01a0676a-d723-7007-93bc-85d2f861ab8e",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-let-it-be-naked-remastered",
   title: "Let It Be... Naked (Remastered)",
   partOfCollections: ["artist/the-beatles"],

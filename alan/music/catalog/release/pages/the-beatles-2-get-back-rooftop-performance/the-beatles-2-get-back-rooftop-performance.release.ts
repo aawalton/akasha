@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2GetBackRooftopPerformance = {
   id: "01a0676a-d71e-7052-b6a5-912e25e5f1bf",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-get-back-rooftop-performance",
   title: "Get Back (Rooftop Performance)",
   partOfCollections: ["artist/the-beatles"],

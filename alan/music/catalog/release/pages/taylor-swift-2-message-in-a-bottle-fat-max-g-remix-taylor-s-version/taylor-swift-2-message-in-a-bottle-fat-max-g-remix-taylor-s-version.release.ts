@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2MessageInABottleFatMaxGRemixTaylorSVersion = {
   id: "01a0676a-d724-7051-bfec-f462f3bd82b5",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-message-in-a-bottle-fat-max-g-remix-taylor-s-version",
   title: "Message In A Bottle (Fat Max G Remix) (Taylor’s Version)",
   partOfCollections: ["artist/taylor-swift"],

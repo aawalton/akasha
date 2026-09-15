@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theHoldernessFamilyQuarantineQueen = {
   id: "01a0676a-d727-7036-a9ed-116cdc8cb9f9",
-  type: "release",
+  type: "page-type/release",
   slug: "the-holderness-family-quarantine-queen",
   title: "Quarantine Queen",
   partOfCollections: ["artist/the-holderness-family"],

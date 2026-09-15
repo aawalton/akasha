@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3MainTitleFromJurassicPark = {
   id: "01a0676a-d724-702b-845e-b8c6c71965cd",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-main-title-from-jurassic-park",
   title: 'Main Title (From "Jurassic Park")',
   partOfCollections: ["artist/the-piano-guys"],

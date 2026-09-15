@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2Love = {
   id: "01a0676a-d723-706b-91c5-398afc3f9b73",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-love",
   title: "Love",
   partOfCollections: ["artist/the-beatles"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2TheBeatlesRemastered = {
   id: "01a0676a-d72c-702f-934c-df71cf09ffe4",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-the-beatles-remastered",
   title: "The Beatles (Remastered)",
   partOfCollections: ["artist/the-beatles"],

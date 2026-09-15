@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3LetItSnowWinterWonderland = {
   id: "01a0676a-d723-700b-ad9f-245122c2ecdc",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-let-it-snow-winter-wonderland",
   title: "Let It Snow / Winter Wonderland",
   partOfCollections: ["artist/the-piano-guys"],

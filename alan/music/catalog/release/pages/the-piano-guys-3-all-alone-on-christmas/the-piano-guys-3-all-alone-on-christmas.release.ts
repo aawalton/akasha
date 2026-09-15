@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3AllAloneOnChristmas = {
   id: "01a0676a-d716-7017-aa5a-95e1966820f8",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-all-alone-on-christmas",
   title: "All Alone on Christmas",
   partOfCollections: ["artist/the-piano-guys"],

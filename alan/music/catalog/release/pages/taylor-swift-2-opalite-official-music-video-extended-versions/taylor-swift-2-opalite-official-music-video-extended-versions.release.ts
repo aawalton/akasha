@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2OpaliteOfficialMusicVideoExtendedVersions = {
   id: "01a0676a-d726-7041-9637-c7da36f5eeea",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-opalite-official-music-video-extended-versions",
   title: "Opalite [Official Music Video (Extended Versions)]",
   partOfCollections: ["artist/taylor-swift"],

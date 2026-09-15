@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theHoldernessFamilyInflatablesAnthemOriginalSong = {
   id: "01a0676a-d721-7072-8139-a548f999fc58",
-  type: "release",
+  type: "page-type/release",
   slug: "the-holderness-family-inflatables-anthem-original-song",
   title: "Inflatables Anthem (Original Song)",
   partOfCollections: ["artist/the-holderness-family"],

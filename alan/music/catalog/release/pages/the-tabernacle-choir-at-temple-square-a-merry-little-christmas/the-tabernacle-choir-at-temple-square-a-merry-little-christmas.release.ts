@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theTabernacleChoirAtTempleSquareAMerryLittleChristmas = {
   id: "01a0676a-d715-7031-9297-bbb8f713bdee",
-  type: "release",
+  type: "page-type/release",
   slug: "the-tabernacle-choir-at-temple-square-a-merry-little-christmas",
   title: "A Merry Little Christmas",
   partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],

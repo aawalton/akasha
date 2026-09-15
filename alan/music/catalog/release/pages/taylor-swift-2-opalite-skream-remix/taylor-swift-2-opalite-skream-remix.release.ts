@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2OpaliteSkreamRemix = {
   id: "01a0676a-d726-7042-999b-177605488acf",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-opalite-skream-remix",
   title: "Opalite (Skream Remix)",
   partOfCollections: ["artist/taylor-swift"],

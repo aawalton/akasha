@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3ClassicalLoveRomance = {
   id: "01a0676a-d71a-7057-bcad-c59b7cf0f0c8",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-classical-love-romance",
   title: "Classical Love & Romance",
   partOfCollections: ["artist/the-piano-guys"],

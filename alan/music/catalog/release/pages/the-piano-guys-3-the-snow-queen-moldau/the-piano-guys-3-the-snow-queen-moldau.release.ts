@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3TheSnowQueenMoldau = {
   id: "01a0676a-d72e-700c-94b6-bd480cb52443",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-the-snow-queen-moldau",
   title: "The Snow Queen (Moldau)",
   partOfCollections: ["artist/the-piano-guys"],

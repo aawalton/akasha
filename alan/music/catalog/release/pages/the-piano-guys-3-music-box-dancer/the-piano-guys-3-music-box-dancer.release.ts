@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3MusicBoxDancer = {
   id: "01a0676a-d725-701a-a301-6bf63d00ee4b",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-music-box-dancer",
   title: "Music Box Dancer",
   partOfCollections: ["artist/the-piano-guys"],

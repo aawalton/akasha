@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theHoldernessFamilyIMAdulting = {
   id: "01a0676a-d721-702f-baaa-c0030e0ded41",
-  type: "release",
+  type: "page-type/release",
   slug: "the-holderness-family-i-m-adulting",
   title: "I'm Adulting",
   partOfCollections: ["artist/the-holderness-family"],

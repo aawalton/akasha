@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3WhenYouReGone = {
   id: "01a0676a-d731-7005-96c6-154f3809b84c",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-when-you-re-gone",
   title: "When You're Gone",
   partOfCollections: ["artist/the-piano-guys"],

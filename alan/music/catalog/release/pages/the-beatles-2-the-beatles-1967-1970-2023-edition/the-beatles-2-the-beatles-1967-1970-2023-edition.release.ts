@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2TheBeatles196719702023Edition = {
   id: "01a0676a-d72c-702d-9b90-e72161808979",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-the-beatles-1967-1970-2023-edition",
   title: "The Beatles 1967 – 1970 (2023 Edition)",
   partOfCollections: ["artist/the-beatles"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3DoYouHearWhatIHear = {
   id: "01a0676a-d71c-701d-8019-fb7a693c2f31",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-do-you-hear-what-i-hear",
   title: "Do You Hear What I Hear?",
   partOfCollections: ["artist/the-piano-guys"],

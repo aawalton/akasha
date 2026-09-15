@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2BeatlesForSaleRemastered = {
   id: "01a0676a-d718-7026-b130-45bc9ad8980b",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-beatles-for-sale-remastered",
   title: "Beatles For Sale (Remastered)",
   partOfCollections: ["artist/the-beatles"],

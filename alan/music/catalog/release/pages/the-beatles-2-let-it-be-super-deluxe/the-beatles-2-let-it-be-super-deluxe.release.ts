@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2LetItBeSuperDeluxe = {
   id: "01a0676a-d723-7009-b4e6-562441ccdcc0",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-let-it-be-super-deluxe",
   title: "Let It Be (Super Deluxe)",
   partOfCollections: ["artist/the-beatles"],

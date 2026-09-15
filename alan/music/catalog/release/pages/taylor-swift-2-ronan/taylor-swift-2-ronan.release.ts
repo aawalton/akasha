@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2Ronan = {
   id: "01a0676a-d728-701e-b912-b31650da0eed",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-ronan",
   title: "Ronan",
   partOfCollections: ["artist/taylor-swift"],

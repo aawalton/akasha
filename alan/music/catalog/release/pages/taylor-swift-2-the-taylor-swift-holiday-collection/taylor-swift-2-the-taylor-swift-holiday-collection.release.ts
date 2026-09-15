@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2TheTaylorSwiftHolidayCollection = {
   id: "01a0676a-d72e-7014-91cc-d30a842b7b3b",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-the-taylor-swift-holiday-collection",
   title: "The Taylor Swift Holiday Collection",
   partOfCollections: ["artist/taylor-swift"],

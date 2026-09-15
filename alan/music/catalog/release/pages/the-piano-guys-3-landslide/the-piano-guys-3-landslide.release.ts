@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3Landslide = {
   id: "01a0676a-d722-705a-a243-56c23391117f",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-landslide",
   title: "Landslide",
   partOfCollections: ["artist/the-piano-guys"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theHoldernessFamilyBestOfThe80s = {
   id: "01a0676a-d718-7048-8f9a-c4dc27557ba7",
-  type: "release",
+  type: "page-type/release",
   slug: "the-holderness-family-best-of-the-80s",
   title: "Best of the 80s",
   partOfCollections: ["artist/the-holderness-family"],

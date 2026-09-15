@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3TestDriveFromHowToTrainYourDragon = {
   id: "01a0676a-d72c-700d-86cc-bb3ae7b7f11d",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-test-drive-from-how-to-train-your-dragon",
   title: 'Test Drive (From "How To Train Your Dragon")',
   partOfCollections: ["artist/the-piano-guys"],

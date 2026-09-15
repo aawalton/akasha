@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3BlessTheBrokenRoad = {
   id: "01a0676a-d719-7015-9ea7-cd93c161b671",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-bless-the-broken-road",
   title: "Bless the Broken Road",
   partOfCollections: ["artist/the-piano-guys"],

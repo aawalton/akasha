@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2Reputation = {
   id: "01a0676a-d727-706a-a482-73ccf2287edf",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-reputation",
   title: "reputation",
   partOfCollections: ["artist/taylor-swift"],

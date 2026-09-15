@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2PleasePleaseMeRemastered = {
   id: "01a0676a-d726-7083-8804-2c4e6af74e9d",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-please-please-me-remastered",
   title: "Please Please Me (Remastered)",
   partOfCollections: ["artist/the-beatles"],

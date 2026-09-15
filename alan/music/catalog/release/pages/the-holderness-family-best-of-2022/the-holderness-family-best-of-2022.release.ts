@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theHoldernessFamilyBestOf2022 = {
   id: "01a0676a-d718-7044-bfd8-d7e560767633",
-  type: "release",
+  type: "page-type/release",
   slug: "the-holderness-family-best-of-2022",
   title: "Best of 2022",
   partOfCollections: ["artist/the-holderness-family"],

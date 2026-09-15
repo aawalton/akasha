@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2PastMastersVols12Remastered = {
   id: "01a0676a-d726-7064-a490-4635ba691468",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-past-masters-vols-1-2-remastered",
   title: "Past Masters (Vols. 1 & 2 / Remastered)",
   partOfCollections: ["artist/the-beatles"],

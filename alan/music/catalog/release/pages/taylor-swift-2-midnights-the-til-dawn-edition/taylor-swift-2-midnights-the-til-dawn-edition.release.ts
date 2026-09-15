@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2MidnightsTheTilDawnEdition = {
   id: "01a0676a-d724-7067-a84b-9876c6c50e05",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-midnights-the-til-dawn-edition",
   title: "Midnights (The Til Dawn Edition)",
   partOfCollections: ["artist/taylor-swift"],

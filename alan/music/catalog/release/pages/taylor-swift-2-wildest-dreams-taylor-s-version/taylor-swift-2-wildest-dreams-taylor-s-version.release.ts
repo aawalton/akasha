@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2WildestDreamsTaylorSVersion = {
   id: "01a0676a-d731-701f-ad00-7dd760ee7da1",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-wildest-dreams-taylor-s-version",
   title: "Wildest Dreams (Taylor's Version)",
   partOfCollections: ["artist/taylor-swift"],

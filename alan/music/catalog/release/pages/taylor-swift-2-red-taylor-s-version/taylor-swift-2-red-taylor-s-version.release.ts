@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2RedTaylorSVersion = {
   id: "01a0676a-d727-705f-9a63-c90c8ea35350",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-red-taylor-s-version",
   title: "Red (Taylor's Version)",
   partOfCollections: ["artist/taylor-swift"],

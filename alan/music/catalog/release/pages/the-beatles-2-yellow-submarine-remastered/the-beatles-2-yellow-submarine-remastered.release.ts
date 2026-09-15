@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2YellowSubmarineRemastered = {
   id: "01a0676a-d731-7049-aa87-f7db1e8e06b9",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-yellow-submarine-remastered",
   title: "Yellow Submarine (Remastered)",
   partOfCollections: ["artist/the-beatles"],

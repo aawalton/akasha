@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2TheArcherLiveFromParis = {
   id: "01a0676a-d72c-7025-b6d8-8ad4d0913b2b",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-the-archer-live-from-paris",
   title: "The Archer (Live From Paris)",
   partOfCollections: ["artist/taylor-swift"],

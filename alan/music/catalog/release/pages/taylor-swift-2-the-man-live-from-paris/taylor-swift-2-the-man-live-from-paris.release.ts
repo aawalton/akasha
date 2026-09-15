@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2TheManLiveFromParis = {
   id: "01a0676a-d72d-703f-8cc3-43ab960cc5ff",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-the-man-live-from-paris",
   title: "The Man (Live From Paris)",
   partOfCollections: ["artist/taylor-swift"],

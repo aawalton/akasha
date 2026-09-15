@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3EyeOfTheTiger = {
   id: "01a0676a-d71d-7052-b924-ba4c37c72a31",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-eye-of-the-tiger",
   title: "Eye of the Tiger",
   partOfCollections: ["artist/the-piano-guys"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const thePianoGuys3TuyaEsLaGloriaArrForChoirOrchestraSoloCelloAndPianoByMackWilberg = {
   id: "01a0676a-d72f-7025-96b4-81acc186270e",
-  type: "release",
+  type: "page-type/release",
   slug: "the-piano-guys-3-tuya-es-la-gloria-arr-for-choir-orchestra-solo-cello-and-piano-by-mack-wilberg",
   title: "Tuya Es La Gloria (arr. for Choir, Orchestra, Solo Cello, and Piano by Mack Wilberg)",
   partOfCollections: ["artist/the-piano-guys"],

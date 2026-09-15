@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const theBeatles2OnAirLiveAtTheBbcVol2 = {
   id: "01a0676a-d726-701f-9aea-68c2bd6b8963",
-  type: "release",
+  type: "page-type/release",
   slug: "the-beatles-2-on-air-live-at-the-bbc-vol-2",
   title: "On Air - Live At The BBC (Vol.2)",
   partOfCollections: ["artist/the-beatles"],
