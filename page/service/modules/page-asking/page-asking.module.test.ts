@@ -316,7 +316,7 @@ test("a declared key no page of the type carries is answered rather than refused
 })
 
 test("a key a type above declares is a key of the type below", () => {
-  const keys = ["slug", "definition", "invariantGroup"]
+  const keys = ["slug", "definition", "decisionGroup"]
   expect(rowsOf(asking(root, { pageTypeSlug: "invariant-kind", keys })).length).toBeGreaterThan(0)
 })
 
@@ -343,8 +343,8 @@ test("a property slug is titled with its words spaced and each word opening capi
 test("a declaration is titled by its own property slug rather than by the definition", () => {
   const shaped = shaping(root, "invariant-kind")
   const declarations = "shape" in shaped ? (shaped.shape?.declarations ?? []) : []
-  const found = declarations.find((one) => one.key === "invariant-group")
-  expect(found?.title).toBe("Invariant Group")
+  const found = declarations.find((one) => one.key === "decision-group")
+  expect(found?.title).toBe("Decision Group")
 })
 
 test("a question naming no calculated key takes what the unlimited question takes", () => {
