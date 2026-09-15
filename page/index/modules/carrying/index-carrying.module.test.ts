@@ -74,3 +74,37 @@ test("a change carries nothing where git holds no index at all", () => {
   const shadow = shadowOf(root, new Map([[AT, LINE]]))
   expect(carriedOver(changeWith(root, new Map()), shadow).edits).toEqual([])
 })
+
+const CARRIED_AT = "akasha/a.domain.carried.jsonl"
+
+const MOVED_CARRIED_AT = "akasha/far/a.domain.carried.jsonl"
+
+const CARRIED_LINE = '{"slug":"a"}\n'
+
+test("a page that moves is carried as a removal where it was and an addition where it went", () => {
+  const root = worldWith({ name: "page" })
+  const shadow = shadowOf(
+    root,
+    new Map([
+      [CARRIED_AT, null],
+      [MOVED_CARRIED_AT, CARRIED_LINE],
+    ])
+  )
+  const change = changeWith(root, new Map([[CARRIED_AT, CARRIED_LINE]]))
+
+  expect(carriedOver(change, shadow).edits).toEqual([
+    { kind: "remove", path: CARRIED_AT },
+    { kind: "add", path: MOVED_CARRIED_AT, content: CARRIED_LINE },
+  ])
+})
+
+test("a page stating one more key is carried as a replacement of what that page carries", () => {
+  const root = worldWith({ name: "page" })
+  const now = `${CARRIED_LINE}{"title":"the one"}\n`
+  const shadow = shadowOf(root, new Map([[CARRIED_AT, now]]))
+  const change = changeWith(root, new Map([[CARRIED_AT, CARRIED_LINE]]))
+
+  expect(carriedOver(change, shadow).edits).toEqual([
+    { kind: "replace", path: CARRIED_AT, contentFrom: CARRIED_LINE, contentTo: now },
+  ])
+})
