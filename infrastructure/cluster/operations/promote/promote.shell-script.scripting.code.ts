@@ -1,7 +1,7 @@
 import {
   folderOf,
   relativeBetween,
-} from "akasha/code/paths/modules/code-path-between/code-path-between.module.code.ts"
+} from "akasha/code/path/modules/between/code-path-between.module.code.ts"
 import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"

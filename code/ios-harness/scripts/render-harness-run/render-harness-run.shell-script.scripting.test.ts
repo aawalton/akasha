@@ -7,7 +7,7 @@ import {
   componentSwiftIn,
   harnessSwiftIn,
 } from "akasha/code/ios-harness/scripts/render-harness-run/render-harness-run.shell-script.scripting.code.ts"
-import { namedIn } from "akasha/code/paths/test-fixtures/script-paths/script-paths.test-fixture.code.ts"
+import { namedIn } from "akasha/code/path/test-fixtures/script-paths/script-paths.test-fixture.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()

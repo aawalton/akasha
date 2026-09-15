@@ -8,7 +8,7 @@ import {
   ancestorsOf,
   reachedFolders,
 } from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
-import { folderOf } from "akasha/code/paths/modules/code-path-between/code-path-between.module.code.ts"
+import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
 import { NAMING_NONE } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 

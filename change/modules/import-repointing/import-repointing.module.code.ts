@@ -10,9 +10,9 @@ import type { World } from "akasha/change/modules/shadow/change-shadow.module.co
 import {
   readsRuntimePaths,
   runtimePatches,
-} from "akasha/code/paths/modules/code-runtime-path/code-runtime-path.module.code.ts"
-import { landedAt } from "akasha/code/paths/modules/folder-spelling/folder-spelling.module.code.ts"
-import { runsIn } from "akasha/code/paths/modules/path-runs/path-runs.module.code.ts"
+} from "akasha/code/path/modules/code-runtime-path/code-runtime-path.module.code.ts"
+import { landedAt } from "akasha/code/path/modules/folder-spelling/folder-spelling.module.code.ts"
+import { runsIn } from "akasha/code/path/modules/path-runs/path-runs.module.code.ts"
 import {
   landingOf,
   placedIn,

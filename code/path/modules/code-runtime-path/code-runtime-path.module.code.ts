@@ -1,7 +1,7 @@
 import {
   folderOf,
   relativeBetween,
-} from "akasha/code/paths/modules/code-path-between/code-path-between.module.code.ts"
+} from "akasha/code/path/modules/between/code-path-between.module.code.ts"
 import {
   argumentsOf,
   type Span,

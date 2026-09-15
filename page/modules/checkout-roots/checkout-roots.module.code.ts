@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { dirname, resolve } from "node:path"
-import { dirOfModule } from "akasha/code/paths/modules/module-directory/module-directory.module.code.ts"
+import { dirOfModule } from "akasha/code/path/modules/module-directory/module-directory.module.code.ts"
 import type { Repo } from "akasha/page/modules/markdown-document/markdown-document.module.code.ts"
 import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-at.module.code.ts"
 import { canonicalize } from "akasha/page/modules/repo-path/repo-path.module.code.ts"

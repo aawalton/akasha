@@ -21,7 +21,7 @@ import {
   shapesIn,
 } from "akasha/check/code/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { folderOf } from "akasha/code/paths/modules/code-path-between/code-path-between.module.code.ts"
+import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type {
   FilePropertiesBy,

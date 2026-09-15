@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const codePaths = {
+export const codePath = {
   id: "01a09b2a-d60f-7700-b4b4-7b97bc6ba190",
   type: "domain",
-  slug: "code-paths",
+  slug: "code-path",
   definition: "a path spelled as a string, and where in the tree that spelling lands",
   parts: [
     "module/code-path-between",

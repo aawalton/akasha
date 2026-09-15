@@ -1,6 +1,6 @@
 import { basename } from "node:path"
 import type { Wanted } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
-import { folderOf } from "akasha/code/paths/modules/code-path-between/code-path-between.module.code.ts"
+import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
 import { strippedOf } from "akasha/page/naming/modules/folder-named/folder-named.module.code.ts"
 
 export type Holding = {

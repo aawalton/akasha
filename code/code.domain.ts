@@ -10,7 +10,7 @@ export const code = {
     "domain/audit-ast-unused",
     "domain/browser",
     "domain/code-body",
-    "domain/code-paths",
+    "domain/code-path",
     "domain/code-reading",
     "domain/code-running",
     "domain/editor",

@@ -1,7 +1,7 @@
 import type { Replacing } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
-import { folderOf } from "akasha/code/paths/modules/code-path-between/code-path-between.module.code.ts"
+import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
 import { importsIn } from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
 import type { Naming } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"

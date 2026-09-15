@@ -6,7 +6,7 @@ import {
   componentSwiftIn,
   mainSwiftIn,
 } from "akasha/code/ios-app/pages/smilingjenny/scripts/decode-harness-run/smilingjenny-decode-harness-run.shell-script.scripting.test-fixtures.ts"
-import { namedIn } from "akasha/code/paths/test-fixtures/script-paths/script-paths.test-fixture.code.ts"
+import { namedIn } from "akasha/code/path/test-fixtures/script-paths/script-paths.test-fixture.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
