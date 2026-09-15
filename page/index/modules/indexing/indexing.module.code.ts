@@ -5,6 +5,7 @@ import { edgeIn } from "akasha/page/index/edge/index-edge.index.code.ts"
 import { identityIn } from "akasha/page/index/identity/index-identity.index.code.ts"
 import { importIn } from "akasha/page/index/import/index-import.index.code.ts"
 import {
+  type Entry,
   fileKeysIn,
   filePropertiesIn,
   uniquePropertiesIn,
@@ -14,6 +15,7 @@ import {
   dropBuilt,
   keepBuilt,
   keepDelta,
+  keepWhole,
   type Laid,
   reconcile,
   takenAway,
@@ -44,6 +46,7 @@ import {
   importedFrom,
   namedFrom,
 } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
+import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
@@ -90,6 +93,23 @@ function bodiesUnder(tree: string): readonly Bodied[] {
     if (body !== null) found.push({ path, body })
   }
   return found
+}
+
+function referencesStale(
+  references: readonly Entry[],
+  tree: string,
+  repo: string,
+  put: boolean
+): readonly string[] {
+  const wanted = new Set(references.map((one) => one.at))
+  const went: string[] = []
+  for (const at of walkedUnder(tree, referencesFiled)) {
+    const path = under(repo, at)
+    if (wanted.has(path)) continue
+    went.push(path)
+    if (put) keepWhole(at, [], repo)
+  }
+  return went.sort()
 }
 
 export function refreshedFrom(
@@ -152,8 +172,9 @@ export function refreshedFrom(
     ...walked.flatMap((one) => importedFrom(one.body, one.path, repo, naming)),
   ]
   drift.push(reconcile(references, repo, put, done))
+  const stale = referencesStale(references, tree, repo, put)
   const every = [...identity, ...shaped, ...edge, ...imported, ...ruled]
-  const went = takenAway(every, root, put, done)
+  const went = [...takenAway(every, root, put, done), ...stale]
   if (put) keepBuilt(root)
   return {
     pages: held.length,

@@ -56,6 +56,14 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
+      statement: "A refresh takes away every file beside a page that the pages do not imply.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That is how a line another checkout's settle left behind is cleared.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "What each stage wrote is named onto one list the refresh's caller hands in, stage after stage.",
     },
