@@ -3,6 +3,7 @@ import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { identifierNamesOnePage } from "akasha/check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.check.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   claiming,
   declaring,
@@ -20,7 +21,6 @@ import {
 import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const TEXT = "text-property"

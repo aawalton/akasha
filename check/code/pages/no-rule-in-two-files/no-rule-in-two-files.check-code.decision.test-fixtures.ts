@@ -2,7 +2,7 @@ import type {
   Said,
   Saying,
 } from "akasha/check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.decision.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   arriving,
   carrying,

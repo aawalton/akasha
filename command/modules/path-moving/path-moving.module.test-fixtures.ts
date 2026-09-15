@@ -1,6 +1,7 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
   A,
@@ -15,7 +16,6 @@ import {
 } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { everythingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 
 export const MOVED_BIN = "akasha/one.bin"
 

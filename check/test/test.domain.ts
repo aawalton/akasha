@@ -6,7 +6,6 @@ export const test = {
   slug: "test",
   definition: "a run holding code to what its page says of it",
   parts: [
-    "module/bodying",
     "module/dom-guard-setting",
     "module/dom-guarding",
     "module/dom-registering",

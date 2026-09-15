@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   asideFrom,
   heldBack,
 } from "akasha/command/modules/ignored-pathing/ignored-pathing.module.code.ts"
 import { repoWith, scratch } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)
 

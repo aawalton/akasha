@@ -10,9 +10,9 @@ import {
   scratch,
 } from "akasha/check/code/pages/no-relative-specifier/no-relative-specifier.check-code.decision.test-fixtures.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import { landing } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)
 

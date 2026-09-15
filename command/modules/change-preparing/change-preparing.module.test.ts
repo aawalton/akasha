@@ -2,19 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
-import { applied } from "akasha/command/modules/applying/applying.module.code.ts"
-import type { Running } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
-import { preparing } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
-import {
-  BROKEN,
-  LOOSE,
-  REFUSES_LOOSE,
-  repoWithTheFormatter,
-  TIDY,
-} from "akasha/command/modules/change-preparing/change-preparing.module.test-fixtures.ts"
-import { NO_GATE } from "akasha/command/modules/gate-building/gate-building.module.code.ts"
-import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   AGENT,
@@ -27,6 +15,18 @@ import {
   wrote,
   wroteWith,
 } from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
+import { applied } from "akasha/command/modules/applying/applying.module.code.ts"
+import type { Running } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
+import { preparing } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
+import {
+  BROKEN,
+  LOOSE,
+  REFUSES_LOOSE,
+  repoWithTheFormatter,
+  TIDY,
+} from "akasha/command/modules/change-preparing/change-preparing.module.test-fixtures.ts"
+import { NO_GATE } from "akasha/command/modules/gate-building/gate-building.module.code.ts"
+import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,3 +1,4 @@
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   edging,
   founded,
@@ -10,7 +11,6 @@ import {
   noImportersFiled,
   pageFilingFrom,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const AT = "akasha/held.module.code.ts"

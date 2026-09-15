@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   founded,
   pathFor,
@@ -12,7 +13,6 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 

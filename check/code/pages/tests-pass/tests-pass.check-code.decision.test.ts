@@ -38,17 +38,16 @@ import {
   withGuard,
   withoutGuard,
 } from "akasha/check/code/pages/tests-pass/tests-pass.check-code.decision.test-fixtures.ts"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
+import { typingUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 import {
   change,
   gone,
   landing,
   proposing,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-
 import { repoAt } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { shadowAsked, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
-import { typingUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

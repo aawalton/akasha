@@ -2,11 +2,11 @@ import { afterAll, expect, test } from "bun:test"
 import { readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { bytesOf as bodyOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   bodyRead,
   differenceOf,
 } from "akasha/command/pages/read/modules/differing/differing.module.code.ts"
-import { bytesOf as bodyOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import {
   SCRATCH_AT,
   scratchWorld,

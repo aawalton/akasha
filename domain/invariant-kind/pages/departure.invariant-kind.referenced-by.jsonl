@@ -1537,6 +1537,7 @@
 {"propertySlug":"invariant-kind","path":"check/refusal/refusal.page-type.ts","id":"01a0699d-4000-7a11-9c02-3f61b0d24e77"}
 {"propertySlug":"invariant-kind","path":"check/test-fixtures/scratch/check-scratch.test-fixture.ts","id":"01a04fd0-8a9a-7915-a355-32d5432a7f11"}
 {"propertySlug":"invariant-kind","path":"check/test-fixtures/staging/check-staging.test-fixture.ts","id":"01a08e16-827d-7f4d-bb26-5724ed027608"}
+{"propertySlug":"invariant-kind","path":"check/test/fixture/bodying/bodying.test-fixture.ts","id":"01a04ee7-be07-7a1b-9f3f-f5e6d4693e70"}
 {"propertySlug":"invariant-kind","path":"check/test/fixture/declaring/declaring.test-fixture.ts","id":"01a04f4e-cc2d-7607-9fbc-82d1c0c0d9be"}
 {"propertySlug":"invariant-kind","path":"check/test/fixture/minting/minting.test-fixture.ts","id":"01a04e33-9351-7e79-8041-89abfa036830"}
 {"propertySlug":"invariant-kind","path":"check/test/fixture/page-holding/page-holding.test-fixture.ts","id":"01a07bd7-36a3-7a1c-92e1-95945d838fd0"}
@@ -1545,7 +1546,6 @@
 {"propertySlug":"invariant-kind","path":"check/test/fixture/test-fixture.page-type.ts","id":"01a09c17-9d01-7f25-b06d-5521c1acc95d"}
 {"propertySlug":"invariant-kind","path":"check/test/fixture/waiting/waiting.test-fixture.ts","id":"01a04ef8-da76-7b5c-a410-29aa2cf260ff"}
 {"propertySlug":"invariant-kind","path":"check/test/fixture/walking/walking.test-fixture.ts","id":"01a04ef8-da76-76ad-9345-28b37bd75cdd"}
-{"propertySlug":"invariant-kind","path":"check/test/modules/bodying/bodying.module.ts","id":"01a04ee7-be07-7a1b-9f3f-f5e6d4693e70"}
 {"propertySlug":"invariant-kind","path":"check/test/modules/dom-guard-setting/dom-guard-setting.module.ts","id":"01a06558-bbb0-7003-8022-162ffcc6b8a0"}
 {"propertySlug":"invariant-kind","path":"check/test/modules/dom-guarding/dom-guarding.module.ts","id":"01a06558-bbb0-7000-8634-6cb45e4b961e"}
 {"propertySlug":"invariant-kind","path":"check/test/modules/dom-registering/dom-registering.module.ts","id":"01a06558-bbb0-7002-bf4b-d065ea2a2ada"}

@@ -1,3 +1,4 @@
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   edging,
   filing,
@@ -7,7 +8,6 @@ import {
   typed,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { idFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const ABOVE_ID = "01a0959b-4249-7000-a2fe-000000000001"

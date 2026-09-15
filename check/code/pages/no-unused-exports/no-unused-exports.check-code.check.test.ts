@@ -10,12 +10,12 @@ import {
   rooted,
   scratch,
 } from "akasha/check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.test-fixtures.ts"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   judgingBy,
   landing,
   shadowed,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)
 

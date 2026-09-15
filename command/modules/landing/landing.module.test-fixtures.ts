@@ -3,9 +3,9 @@ import { appendFileSync, cpSync, existsSync, mkdirSync, readFileSync, writeFileS
 import { join } from "node:path"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type { Judged, Judging } from "akasha/check/modules/judging/judging.module.code.ts"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import { excludingIndex } from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
 import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import type { Stated } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
 import {
   NO_TEXT,

@@ -11,11 +11,11 @@ import {
   scratch,
 } from "akasha/check/code/pages/change-reaches-its-own-target-type/change-reaches-its-own-target-type.check-code.decision.test-fixtures.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   landing,
   shadowed,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)
 

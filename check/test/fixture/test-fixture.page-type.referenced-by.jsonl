@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"change/test-fixtures/shadow-world/shadow-world.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"check/test-fixtures/scratch/check-scratch.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.ts"}
+{"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"check/test/fixture/bodying/bodying.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"check/test/fixture/declaring/declaring.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"check/test/fixture/minting/minting.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"check/test/fixture/page-holding/page-holding.test-fixture.ts"}

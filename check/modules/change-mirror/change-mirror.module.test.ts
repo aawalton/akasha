@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { mirroredOf } from "akasha/check/modules/change-mirror/change-mirror.module.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 
 const UNDER = "/var/tmp/"
 

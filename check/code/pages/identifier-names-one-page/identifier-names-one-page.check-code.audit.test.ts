@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { identifierNamesOnePage } from "akasha/check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.audit.code.ts"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   founded,
   put,
@@ -10,7 +11,6 @@ import {
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const CHECK = "check"

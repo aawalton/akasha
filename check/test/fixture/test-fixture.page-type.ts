@@ -6,6 +6,7 @@ export const testFixture = {
   slug: "test-fixture",
   definition: "the world more than one module's tests are set up with",
   parts: [
+    "test-fixture/bodying",
     "test-fixture/declaring",
     "test-fixture/minting",
     "test-fixture/page-holding",

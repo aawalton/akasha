@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { reasonsIn } from "akasha/check/code/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.check-code.check.code.ts"
-import { bodiesAt } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
+import { bodiesAt } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 
 const ROOT = "/repo"
 

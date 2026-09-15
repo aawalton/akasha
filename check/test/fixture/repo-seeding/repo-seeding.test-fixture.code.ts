@@ -2,10 +2,15 @@ import { cpSync, existsSync } from "node:fs"
 import { blobIdOf, recordRead } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type { Phase } from "akasha/check/modules/checking/checking.module.code.ts"
+import { bytesOf as bytes } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
-  answeredWith,
-  OK,
-} from "akasha/command/modules/answering/command-answering.module.code.ts"
+  ADMITS_CODE,
+  MINTED,
+  mintedId,
+  minting,
+} from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import { answeredWith, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { applyWith } from "akasha/command/modules/apply-running/apply-running.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { CHANGE_APPLY_SLUG } from "akasha/command/modules/change-costing/change-costing.module.code.ts"
@@ -29,14 +34,6 @@ import {
   pageFiled,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { bytesOf as bytes } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
-import {
-  ADMITS_CODE,
-  MINTED,
-  mintedId,
-  minting,
-} from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
-import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const ADMITS_AT = "akasha/admits.check-code*"

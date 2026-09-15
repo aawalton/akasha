@@ -15,8 +15,8 @@ import {
   seeded,
   WALLPAPER,
 } from "akasha/check/code/pages/no-raw-nul-bytes/no-raw-nul-bytes.check-code.decision.test-fixtures.ts"
+import { bodiesIn, bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { bodiesIn, bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 
 const ROOT = "/repo"
 

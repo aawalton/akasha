@@ -1,5 +1,6 @@
 import { readlinkSync } from "node:fs"
 import { join } from "node:path"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
   ADMITS,
@@ -8,7 +9,6 @@ import {
   rowsIn,
   scratch,
 } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 
 const LINKED = "01a04e11-0000-7000-8000-000000000003"
 

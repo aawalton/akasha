@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-type.types.ts"
 
 export const bodying = {
   id: "01a04ee7-be07-7a1b-9f3f-f5e6d4693e70",
-  type: "module",
+  type: "test-fixture",
   slug: "bodying",
   definition: "the bytes, and the body at a path, that a test hands to what it tries",
   code: "ts",
@@ -28,4 +28,4 @@ export const bodying = {
       statement: "A test binds the way the test was handed rather than a function of its own.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture

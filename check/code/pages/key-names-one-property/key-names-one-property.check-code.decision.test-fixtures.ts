@@ -5,6 +5,7 @@ import {
 } from "akasha/check/code/pages/key-names-one-property/key-names-one-property.check-code.decision.code.ts"
 import { carriedBy } from "akasha/check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   declaring,
   filing,
@@ -18,7 +19,6 @@ import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.mo
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const PAGE_TYPE = "page-type"
