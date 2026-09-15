@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaGimmeLoveArminVanBuurenRemixGimmeLoveArminVanBuurenRemixClubMix = {
   id: "01a0a59c-25dd-762a-b975-663e0eaadd8d",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-gimme-love-armin-van-buuren-remix-gimme-love-armin-van-buuren-remix-club-mix",
   ownLength: 4.736,
   ownProgress: 0,

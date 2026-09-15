@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaDuskTillDawnTheRemixesFeatSiaDuskTillDawnFeatSiaLucaLushRemix = {
   id: "01a0a59c-34c4-74f1-ac9b-2496ff9b905b",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-dusk-till-dawn-the-remixes-feat-sia-dusk-till-dawn-feat-sia-luca-lush-remix",
   ownLength: 3.4838833333333334,
   ownProgress: 0,

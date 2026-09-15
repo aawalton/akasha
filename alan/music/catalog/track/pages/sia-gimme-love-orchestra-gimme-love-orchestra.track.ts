@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaGimmeLoveOrchestraGimmeLoveOrchestra = {
   id: "01a0a59b-f23f-7bfc-b27b-858c55b2e6cb",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-gimme-love-orchestra-gimme-love-orchestra",
   ownLength: 2.9942,
   ownProgress: 0,

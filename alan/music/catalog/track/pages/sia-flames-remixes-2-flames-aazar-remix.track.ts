@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaFlamesRemixes2FlamesAazarRemix = {
   id: "01a0a59c-3280-78df-988e-21444d4eec2a",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-flames-remixes-2-flames-aazar-remix",
   ownLength: 2.8791166666666665,
   ownProgress: 0,

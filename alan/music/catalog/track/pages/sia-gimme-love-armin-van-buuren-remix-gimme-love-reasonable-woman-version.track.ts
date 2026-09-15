@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaGimmeLoveArminVanBuurenRemixGimmeLoveReasonableWomanVersion = {
   id: "01a0a59c-25fe-7969-ae1e-6950fdb14569",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-gimme-love-armin-van-buuren-remix-gimme-love-reasonable-woman-version",
   ownLength: 3.5679,
   ownProgress: 0,

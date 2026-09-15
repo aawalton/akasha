@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaDynamiteRemixesDynamiteFeatSiaMissLafamiliaBanxNRanxRemix = {
   id: "01a0a59c-2847-746a-a5e3-005196c60637",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-dynamite-remixes-dynamite-feat-sia-miss-lafamilia-banx-n-ranx-remix",
   ownLength: 2.3604833333333333,
   ownProgress: 0,

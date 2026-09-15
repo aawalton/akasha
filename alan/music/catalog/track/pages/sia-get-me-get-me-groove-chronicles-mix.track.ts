@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaGetMeGetMeGrooveChroniclesMix = {
   id: "01a0a59c-4224-7553-b065-796d00421fad",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-get-me-get-me-groove-chronicles-mix",
   ownLength: 5.298666666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaHeyBoyFeatBurnaBoyHeyBoy = {
   id: "01a0a59c-2d36-7541-a57f-20573cf3f659",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-hey-boy-feat-burna-boy-hey-boy",
   ownLength: 2.49115,
   ownProgress: 0,

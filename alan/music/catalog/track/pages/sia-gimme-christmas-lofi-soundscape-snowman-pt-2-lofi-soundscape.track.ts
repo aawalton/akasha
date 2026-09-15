@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaGimmeChristmasLofiSoundscapeSnowmanPt2LofiSoundscape = {
   id: "01a0a59b-fb07-79e2-bb70-fe23583d5a8c",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-gimme-christmas-lofi-soundscape-snowman-pt-2-lofi-soundscape",
   ownLength: 2.99015,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaFloatingThroughSpaceFeatDavidGuettaJimOumaRemixFloatingThroughSpace = {
   id: "01a0a59c-2b5e-7f43-8768-78a35e5d5c1e",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-floating-through-space-feat-david-guetta-jim-ouma-remix-floating-through-space",
   ownLength: 2.9633333333333334,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaEyeToEyeTheRemixesEyeToEyeUpallnightFamousRemixRadioEdit = {
   id: "01a0a59c-2a1b-72eb-ac82-382f9a4c972e",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-eye-to-eye-the-remixes-eye-to-eye-upallnight-famous-remix-radio-edit",
   ownLength: 3.5930333333333335,
   ownProgress: 0,

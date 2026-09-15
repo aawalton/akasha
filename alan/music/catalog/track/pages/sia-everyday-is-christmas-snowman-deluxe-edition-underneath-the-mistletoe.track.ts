@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaEverydayIsChristmasSnowmanDeluxeEditionUnderneathTheMistletoe = {
   id: "01a0a59b-ffa9-7a2f-9e74-28c7c61112dc",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-everyday-is-christmas-snowman-deluxe-edition-underneath-the-mistletoe",
   ownLength: 3.8366,
   ownProgress: 0,

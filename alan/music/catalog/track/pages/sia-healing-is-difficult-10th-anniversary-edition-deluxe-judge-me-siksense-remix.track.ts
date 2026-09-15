@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaHealingIsDifficult10thAnniversaryEditionDeluxeJudgeMeSiksenseRemix = {
   id: "01a0a59c-169c-7a5a-bc9e-6e66ddbaaab6",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-healing-is-difficult-10th-anniversary-edition-deluxe-judge-me-siksense-remix",
   ownLength: 5.590883333333333,
   ownProgress: 0,

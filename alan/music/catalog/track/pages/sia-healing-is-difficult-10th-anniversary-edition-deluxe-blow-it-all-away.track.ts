@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaHealingIsDifficult10thAnniversaryEditionDeluxeBlowItAllAway = {
   id: "01a0a59c-14fe-7c41-a3c2-ba97204e7fde",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-healing-is-difficult-10th-anniversary-edition-deluxe-blow-it-all-away",
   ownLength: 4.67355,
   ownProgress: 0,

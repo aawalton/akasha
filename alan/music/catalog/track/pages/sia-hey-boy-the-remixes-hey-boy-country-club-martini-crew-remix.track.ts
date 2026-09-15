@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaHeyBoyTheRemixesHeyBoyCountryClubMartiniCrewRemix = {
   id: "01a0a59c-2bfd-788a-aed2-ad5b6af351cd",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-hey-boy-the-remixes-hey-boy-country-club-martini-crew-remix",
   ownLength: 3.04915,
   ownProgress: 0,

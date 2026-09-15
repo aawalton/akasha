@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaElasticHeartTheRemixesElasticHeartStevePitronMaxSannaClubMix = {
   id: "01a0a59c-3ad6-71c0-9106-ecf9b8e991f2",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-elastic-heart-the-remixes-elastic-heart-steve-pitron-max-sanna-club-mix",
   ownLength: 7.382216666666666,
   ownProgress: 0,

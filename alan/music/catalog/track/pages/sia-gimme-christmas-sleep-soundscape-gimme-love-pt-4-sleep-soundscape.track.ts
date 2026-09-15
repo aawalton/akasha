@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaGimmeChristmasSleepSoundscapeGimmeLovePt4SleepSoundscape = {
   id: "01a0a59b-fdd6-72ae-8856-4e9d18445965",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-gimme-christmas-sleep-soundscape-gimme-love-pt-4-sleep-soundscape",
   ownLength: 2.98055,
   ownProgress: 0,

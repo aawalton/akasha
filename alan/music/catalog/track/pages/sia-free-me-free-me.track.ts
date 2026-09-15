@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaFreeMeFreeMe = {
   id: "01a0a59c-352b-7272-812a-be868e5e2d7c",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-free-me-free-me",
   ownLength: 4.767816666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaHeavenCanWaitTheAstonShuffleRemixHeavenCanWaitTheAstonShuffleRemix = {
   id: "01a0a59c-311c-7893-97aa-652973302a32",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-heaven-can-wait-the-aston-shuffle-remix-heaven-can-wait-the-aston-shuffle-remix",
   ownLength: 3.63955,
   ownProgress: 0,

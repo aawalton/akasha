@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaGimmeChristmasGimmeLove = {
   id: "01a0a59c-24b5-7ef2-b842-ff4828459e1b",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-gimme-christmas-gimme-love",
   ownLength: 2.96535,
   ownProgress: 0,

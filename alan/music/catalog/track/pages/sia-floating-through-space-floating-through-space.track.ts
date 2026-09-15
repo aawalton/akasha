@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaFloatingThroughSpaceFloatingThroughSpace = {
   id: "01a0a59c-2bd9-73f9-8be1-19dd08d17061",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-floating-through-space-floating-through-space",
   ownLength: 2.9633333333333334,
   ownProgress: 0,

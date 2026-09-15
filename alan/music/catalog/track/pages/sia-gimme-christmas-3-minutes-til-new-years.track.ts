@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaGimmeChristmas3MinutesTilNewYears = {
   id: "01a0a59c-251a-74fc-ba96-5c165a0086ed",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-gimme-christmas-3-minutes-til-new-years",
   ownLength: 3.681433333333333,
   ownProgress: 0,

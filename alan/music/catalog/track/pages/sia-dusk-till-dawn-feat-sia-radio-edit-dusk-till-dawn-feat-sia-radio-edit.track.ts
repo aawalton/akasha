@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaDuskTillDawnFeatSiaRadioEditDuskTillDawnFeatSiaRadioEdit = {
   id: "01a0a59c-3509-75e7-8426-726092e176b3",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-dusk-till-dawn-feat-sia-radio-edit-dusk-till-dawn-feat-sia-radio-edit",
   ownLength: 3.9833333333333334,
   ownProgress: 0,

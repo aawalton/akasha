@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaEverydayIsChristmasSnowmanDeluxeEditionPinDrop = {
   id: "01a0a59c-0062-7e1a-b7c2-2acb7a76db9c",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-everyday-is-christmas-snowman-deluxe-edition-pin-drop",
   ownLength: 3.9846166666666667,
   ownProgress: 0,

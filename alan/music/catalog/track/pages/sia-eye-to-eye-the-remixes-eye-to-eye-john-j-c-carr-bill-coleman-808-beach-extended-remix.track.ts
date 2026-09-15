@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaEyeToEyeTheRemixesEyeToEyeJohnJCCarrBillColeman808BeachExtendedRemix = {
   id: "01a0a59c-2a80-78c9-84fc-a3e30dfca5c3",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-eye-to-eye-the-remixes-eye-to-eye-john-j-c-carr-bill-coleman-808-beach-extended-remix",
   ownLength: 5.634666666666667,
   ownProgress: 0,

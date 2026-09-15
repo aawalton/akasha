@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaFlyMeToTheMoonInspiredByFinalFantasyXivFlyMeToTheMoonInspiredByFinalFantasy = {
   id: "01a0a59c-28ae-7866-b4bd-b551f900cfd4",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-fly-me-to-the-moon-inspired-by-final-fantasy-xiv-fly-me-to-the-moon-inspired-by-final-fantasy",
   ownLength: 2.842216666666667,
   ownProgress: 0,

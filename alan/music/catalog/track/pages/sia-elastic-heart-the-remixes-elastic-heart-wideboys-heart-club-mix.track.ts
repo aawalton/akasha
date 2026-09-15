@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaElasticHeartTheRemixesElasticHeartWideboysHeartClubMix = {
   id: "01a0a59c-3b2d-74dc-a942-ba3a65d59984",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-elastic-heart-the-remixes-elastic-heart-wideboys-heart-club-mix",
   ownLength: 5.784433333333333,
   ownProgress: 0,

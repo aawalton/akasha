@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaEverydayIsChristmasSnowmanDeluxeEditionEverydayIsChristmas = {
   id: "01a0a59b-ffc9-714f-a756-2905797d1c20",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-everyday-is-christmas-snowman-deluxe-edition-everyday-is-christmas",
   ownLength: 3.3943333333333334,
   ownProgress: 0,

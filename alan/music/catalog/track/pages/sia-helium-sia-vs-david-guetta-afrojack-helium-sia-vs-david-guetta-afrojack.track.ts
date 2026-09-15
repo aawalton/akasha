@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaHeliumSiaVsDavidGuettaAfrojackHeliumSiaVsDavidGuettaAfrojack = {
   id: "01a0a59c-3485-7fab-9ee5-455540e39763",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-helium-sia-vs-david-guetta-afrojack-helium-sia-vs-david-guetta-afrojack",
   ownLength: 3.9562,
   ownProgress: 0,

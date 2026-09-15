@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaDistractionsDistractionsFullLength = {
   id: "01a0a59c-417d-7cf8-80f8-0470b98c5e57",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-distractions-distractions-full-length",
   ownLength: 5.307333333333333,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaExhaleFeatSiaHookNSlingRemixExhaleFeatSiaHookNSlingRemix = {
   id: "01a0a59c-2f7c-7133-8939-e5666e60c421",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-exhale-feat-sia-hook-n-sling-remix-exhale-feat-sia-hook-n-sling-remix",
   ownLength: 2.628433333333333,
   ownProgress: 0,

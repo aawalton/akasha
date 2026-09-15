@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaGimmeLoveSofianePamartRemixGimmeLoveSofianePamartRemix = {
   id: "01a0a59c-241f-74ce-9ecf-c28a7bc6c16e",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-gimme-love-sofiane-pamart-remix-gimme-love-sofiane-pamart-remix",
   ownLength: 2.7095,
   ownProgress: 0,

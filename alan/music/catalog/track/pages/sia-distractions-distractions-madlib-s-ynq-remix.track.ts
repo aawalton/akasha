@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaDistractionsDistractionsMadlibSYnqRemix = {
   id: "01a0a59c-41d8-74a6-9e90-f70c15f93136",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-distractions-distractions-madlib-s-ynq-remix",
   ownLength: 5.25955,
   ownProgress: 0,

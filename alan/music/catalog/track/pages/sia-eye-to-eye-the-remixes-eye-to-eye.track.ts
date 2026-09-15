@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaEyeToEyeTheRemixesEyeToEye = {
   id: "01a0a59c-2ae8-7052-b41b-a1d44e845b73",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-eye-to-eye-the-remixes-eye-to-eye",
   ownLength: 4.3318666666666665,
   ownProgress: 0,

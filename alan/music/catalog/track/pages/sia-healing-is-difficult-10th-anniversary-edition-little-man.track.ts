@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaHealingIsDifficult10thAnniversaryEditionLittleMan = {
   id: "01a0a59c-145b-7b61-ab8a-2a0c070ba82e",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-healing-is-difficult-10th-anniversary-edition-little-man",
   ownLength: 6.0751,
   ownProgress: 0,

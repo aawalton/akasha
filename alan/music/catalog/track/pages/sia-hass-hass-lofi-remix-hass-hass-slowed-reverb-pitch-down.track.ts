@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaHassHassLofiRemixHassHassSlowedReverbPitchDown = {
   id: "01a0a59c-2073-7fb6-b48e-a9e0dd9937e6",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-hass-hass-lofi-remix-hass-hass-slowed-reverb-pitch-down",
   ownLength: 3.066666666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaEyeToEyeTheRemixesEyeToEyeSlowzSunriseRemixFeatUltraNate = {
   id: "01a0a59c-29f9-743d-9476-08de273ce16e",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-eye-to-eye-the-remixes-eye-to-eye-slowz-sunrise-remix-feat-ultra-nate",
   ownLength: 4.0945833333333335,
   ownProgress: 0,

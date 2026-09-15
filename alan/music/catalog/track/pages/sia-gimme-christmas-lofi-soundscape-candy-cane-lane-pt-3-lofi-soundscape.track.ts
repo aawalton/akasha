@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaGimmeChristmasLofiSoundscapeCandyCaneLanePt3LofiSoundscape = {
   id: "01a0a59b-fc8a-7251-982d-209b043f2fc2",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-gimme-christmas-lofi-soundscape-candy-cane-lane-pt-3-lofi-soundscape",
   ownLength: 2.949883333333333,
   ownProgress: 0,

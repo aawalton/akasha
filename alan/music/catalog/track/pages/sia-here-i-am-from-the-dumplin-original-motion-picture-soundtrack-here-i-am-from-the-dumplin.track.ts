@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaHereIAmFromTheDumplinOriginalMotionPictureSoundtrackHereIAmFromTheDumplin = {
   id: "01a0a59c-3200-7ed4-a811-8e042c34250c",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-here-i-am-from-the-dumplin-original-motion-picture-soundtrack-here-i-am-from-the-dumplin",
   ownLength: 4.544116666666667,
   ownProgress: 0,

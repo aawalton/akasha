@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaDynamiteRemixesDynamiteFeatSia = {
   id: "01a0a59c-2890-7679-8d9f-b27d5b9d5cc8",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-dynamite-remixes-dynamite-feat-sia",
   ownLength: 3.5444666666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaFlames2FlamesDavidGuettaRemix = {
   id: "01a0a59c-334e-74e6-99c8-2639d3505215",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-flames-2-flames-david-guetta-remix",
   ownLength: 6.135833333333333,
   ownProgress: 0,

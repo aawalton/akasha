@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaEyeOfTheNeedleEyeOfTheNeedle = {
   id: "01a0a59c-3c66-73c4-9b53-a4bb03f58199",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-eye-of-the-needle-eye-of-the-needle",
   ownLength: 4.15755,
   ownProgress: 0,
