@@ -2,7 +2,7 @@ import type { TemperEsoTraitMap } from "akasha/temper/catalog/temper-gear/temper
 
 export const jewelryTriune = {
   id: "01a05fd7-41cd-786a-93bb-eb60822ccf16",
-  type: "temper-eso-trait-map",
+  type: "page-type/temper-eso-trait-map",
   slug: "jewelry-triune",
   title: "Jewelry Triune",
   key: "jewelry:triune",

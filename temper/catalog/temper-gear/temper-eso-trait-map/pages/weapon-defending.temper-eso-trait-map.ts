@@ -2,7 +2,7 @@ import type { TemperEsoTraitMap } from "akasha/temper/catalog/temper-gear/temper
 
 export const weaponDefending = {
   id: "01a05fd7-41ce-714a-b34c-9c58d923bcef",
-  type: "temper-eso-trait-map",
+  type: "page-type/temper-eso-trait-map",
   slug: "weapon-defending",
   title: "Weapon Defending",
   key: "weapon:defending",

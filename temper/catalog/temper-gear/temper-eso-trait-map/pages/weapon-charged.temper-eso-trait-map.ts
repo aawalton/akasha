@@ -2,7 +2,7 @@ import type { TemperEsoTraitMap } from "akasha/temper/catalog/temper-gear/temper
 
 export const weaponCharged = {
   id: "01a05fd7-41cd-712f-a49e-e10992cffdbd",
-  type: "temper-eso-trait-map",
+  type: "page-type/temper-eso-trait-map",
   slug: "weapon-charged",
   title: "Weapon Charged",
   key: "weapon:charged",

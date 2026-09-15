@@ -2,7 +2,7 @@ import type { TemperEsoTraitMap } from "akasha/temper/catalog/temper-gear/temper
 
 export const jewelryRobust = {
   id: "01a05fd7-41cc-7bb6-9026-7601030d4f7d",
-  type: "temper-eso-trait-map",
+  type: "page-type/temper-eso-trait-map",
   slug: "jewelry-robust",
   title: "Jewelry Robust",
   key: "jewelry:robust",

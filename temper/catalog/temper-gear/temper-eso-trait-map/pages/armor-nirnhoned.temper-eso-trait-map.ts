@@ -2,7 +2,7 @@ import type { TemperEsoTraitMap } from "akasha/temper/catalog/temper-gear/temper
 
 export const armorNirnhoned = {
   id: "01a05fd7-41c7-7f43-ab1f-6713025a11a0",
-  type: "temper-eso-trait-map",
+  type: "page-type/temper-eso-trait-map",
   slug: "armor-nirnhoned",
   title: "Armor Nirnhoned",
   key: "armor:nirnhoned",

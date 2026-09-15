@@ -2,7 +2,7 @@ import type { TemperEsoTraitMap } from "akasha/temper/catalog/temper-gear/temper
 
 export const armorWellFitted = {
   id: "01a05fd7-41c9-71c0-a0be-0caa302d9464",
-  type: "temper-eso-trait-map",
+  type: "page-type/temper-eso-trait-map",
   slug: "armor-well-fitted",
   title: "Armor Well-Fitted",
   key: "armor:well-fitted",

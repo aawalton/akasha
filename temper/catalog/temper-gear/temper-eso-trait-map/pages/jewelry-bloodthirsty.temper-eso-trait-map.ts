@@ -2,7 +2,7 @@ import type { TemperEsoTraitMap } from "akasha/temper/catalog/temper-gear/temper
 
 export const jewelryBloodthirsty = {
   id: "01a05fd7-41ca-76b6-b280-2686c963bf06",
-  type: "temper-eso-trait-map",
+  type: "page-type/temper-eso-trait-map",
   slug: "jewelry-bloodthirsty",
   title: "Jewelry Bloodthirsty",
   key: "jewelry:bloodthirsty",
