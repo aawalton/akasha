@@ -2,7 +2,7 @@ import type { Day } from "akasha/alan/track/daily/day/day.page-type.types.ts"
 
 export const day20260614 = {
   id: "019ec593-460a-7f4b-a51c-fad8f2a5c435",
-  type: "day",
+  type: "page-type/day",
   slug: "day-2026-06-14",
   title: "@date:2026-06-14",
   date: "2026-06-14",
