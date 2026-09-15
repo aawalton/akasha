@@ -7,13 +7,13 @@ import {
   type Warrant,
 } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
-  idsNaming,
   type Listed,
   listedAt,
   listedById,
   listedFor,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressedIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
