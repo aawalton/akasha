@@ -21,21 +21,15 @@ import type { WriteItem } from "akasha/alan/harness/monarch/modules/land-files/m
 import { through } from "akasha/alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { bodyOf, importedFrom } from "akasha/page/modules/body/page-body.module.code.ts"
+import { pageStem } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
 
 const MONARCH_ACCOUNT = "monarch-account"
 
 export type Value = string | number | boolean
 
 export function slugify(text: string): string {
-  const parts = text
-    .replace(/\(\.\.\.(\w+)\)/g, " $1")
-    .replace(/&/g, " and ")
-    .replace(/[’']/g, "")
-    .normalize("NFKD")
-    .replace(/[^\w\s-]/g, " ")
-    .toLowerCase()
-    .split(/[\s_-]+/)
-    .filter((part) => part !== "")
+  const said = text.replace(/\(\.\.\.(\w+)\)/g, " $1").replace(/&/g, " and ")
+  const parts = pageStem(said).split("-")
   return parts.filter((part, at) => part !== parts[at - 1]).join("-")
 }
 

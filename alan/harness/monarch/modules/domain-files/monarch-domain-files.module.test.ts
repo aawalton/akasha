@@ -93,6 +93,7 @@ test("a name becomes a slug by its words", () => {
   expect(slugify("1350 E Apple Ave Provo UT 84604")).toBe("1350-e-apple-ave-provo-ut-84604")
   expect(slugify("Food & Dining")).toBe("food-and-dining")
   expect(slugify("Alan’s Card")).toBe("alans-card")
+  expect(slugify("Señor Ceviche")).toBe("senor-ceviche")
 })
 
 test("a word repeated next to itself is said once", () => {

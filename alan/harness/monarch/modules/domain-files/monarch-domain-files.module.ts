@@ -27,6 +27,14 @@ export const monarchDomainFiles = {
       statement: "A page's body is composed by `page-body` rather than composed here.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement: "A row's name is folded into a stem by `page-stem` rather than folded here.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A word repeated next to itself is said once.",
+    },
+    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges a line's width.",
     },
