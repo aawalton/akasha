@@ -1,11 +1,11 @@
 {
-  "buildHash": "ATQHNMTAAIBhxAljE_tYxP7WMmC1DJgtIyYLWMmC1jJgtEGjtRBAq0QQKtJHkx2xEEx1ujIAF4AAhqABNgQwANlMWzoAAgjlUgFAGWpToAIAEaCACEKgJJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRBQdoFZDg4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4Apkx4EEmhDJZwRMYIIYwo2o82PCxWtczDEJPBJGkQA83M2tQ0818llAu",
+  "buildHash": "ATQHNIAAAABiRRNC4RtQsBLULAS1CwEtItxbULcW1C3FtEFxbRBADUQXFtAGgCWgCgBLREEx1sAAAAAAAAAAAAAAAAAAAAAAAAgjkEgBAGCATYAAAAaCACECgIJwg0AHQAjnVVqA4oAADJIBgjIhA4gQASCCc0HKBAAcoFYBA4AAAAAzIsSZWPJllzJs7Po06te2fQo0qdTxVAAAAA2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrAAAAANgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4ABkx4EEmhDJZwRMYIIYwo2o82PCxWtczDEJPBJGkQA83M2tQ0818llAuA",
   "gender": 1,
   "level": 50,
   "classId": 1,
   "allianceId": 1,
   "raceId": 10,
-  "curseState": "vampire",
+  "curseState": "no-curse",
   "className": "Dragonknight",
   "classIcon": "/esoui/art/icons/class/class_dragonknight.dds",
   "companionRapport": {
@@ -3526,7 +3526,7 @@
             "name": "Cleave",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Brawler",
             "rank": 4
@@ -3598,7 +3598,7 @@
             "name": "Critical Charge",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "Critical Rush",
             "rank": 4
@@ -4101,7 +4101,7 @@
             "name": "Searing Strike",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Burning Embers",
             "rank": 4
@@ -4119,7 +4119,7 @@
             "name": "Lava Whip",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Flame Lash",
             "rank": 4
@@ -4137,7 +4137,7 @@
             "name": "Inferno",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Cauterize",
             "rank": 4
@@ -4155,7 +4155,7 @@
             "name": "Dragonknight Standard",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Standard of Might",
             "rank": 4
@@ -4173,7 +4173,7 @@
             "name": "Hearthfire",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Hearth and Home",
             "rank": 4
@@ -4191,7 +4191,7 @@
             "name": "Core of Flame",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Heart of Flame",
             "rank": 4
@@ -4216,7 +4216,7 @@
             "name": "Dark Talons",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "Choking Talons",
             "rank": 4
@@ -4234,7 +4234,7 @@
             "name": "Chains of Flame",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "Chains of Dominance",
             "rank": 4
@@ -4252,7 +4252,7 @@
             "name": "Dragonfire Breath",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Engulfing Dragonfire",
             "rank": 4
@@ -4270,7 +4270,7 @@
             "name": "Wing Buffet",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "Protect the Brood",
             "rank": 4
@@ -4288,7 +4288,7 @@
             "name": "Dragon Blood",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Blood of the Elder Dragon",
             "rank": 4
@@ -4306,7 +4306,7 @@
             "name": "Dragon Leap",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "Ferocious Leap",
             "rank": 4
@@ -4331,7 +4331,7 @@
             "name": "Magma Armor",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "Corrosive Armor",
             "rank": 4
@@ -4349,7 +4349,7 @@
             "name": "Earthspike Mantle",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "Shatterspike Mantle",
             "rank": 4
@@ -4367,7 +4367,7 @@
             "name": "Superheated Ward",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Magma Fist",
             "rank": 4
@@ -4385,7 +4385,7 @@
             "name": "Petrify",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "Shattering Rocks",
             "rank": 4
@@ -4403,7 +4403,7 @@
             "name": "Molten Weapons",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "Molten Armaments",
             "rank": 4
@@ -4421,7 +4421,7 @@
             "name": "Obsidian Shield",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Fragmented Shield",
             "rank": 4
@@ -5136,7 +5136,7 @@
             "name": "Meteor",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Shooting Star",
             "rank": 4
@@ -5330,7 +5330,7 @@
             "name": "Caltrops",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Razor Caltrops",
             "rank": 4
@@ -5402,7 +5402,7 @@
             "name": "Vigor",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "Resolving Vigor",
             "rank": 4
@@ -5675,7 +5675,7 @@
             "name": "Bone Shield",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Bone Surge",
             "rank": 4
@@ -5711,7 +5711,7 @@
             "name": "Inner Fire",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "Inner Beast",
             "rank": 4
@@ -17011,7 +17011,7 @@
     "groupDungeonTotal": 54,
     "tutorial": 0,
     "skyshardPoints": 193,
-    "unassigned": 174,
+    "unassigned": 304,
     "zoneQuestTotal": 164,
     "publicDungeons": {
       "EP4": 1,
