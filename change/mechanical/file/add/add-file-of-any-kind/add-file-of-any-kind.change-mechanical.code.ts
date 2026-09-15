@@ -1,10 +1,7 @@
 import { refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import {
-  kindOf,
-  pagedAt,
-} from "akasha/change/modules/target-kinding/target-kinding.module.code.ts"
+import { kindOf, pagedAt } from "akasha/change/modules/target-kinding/target-kinding.module.code.ts"
 import { insertedInto } from "akasha/code/reading/modules/value-inserting/value-inserting.module.code.ts"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
