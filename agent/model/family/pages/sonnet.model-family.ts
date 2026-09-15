@@ -2,7 +2,7 @@ import type { ModelFamily } from "akasha/agent/model/family/model-family.page-ty
 
 export const sonnet = {
   id: "01a0535c-f2cf-7f23-8d73-f45bff4448f4",
-  type: "model-family",
+  type: "page-type/model-family",
   slug: "sonnet",
   definition: "less expensive, less capable",
   name: "claude-sonnet-5",
