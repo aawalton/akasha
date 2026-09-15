@@ -2,7 +2,7 @@ import type { CarMake } from "akasha/alan/car-research/car-make/car-make.page-ty
 
 export const cadillac = {
   id: "019e4ad5-fa94-7217-9b1f-f07d6db314a1",
-  type: "car-make",
+  type: "page-type/car-make",
   slug: "cadillac",
   title: "Cadillac",
   chargingNetworkAccess:

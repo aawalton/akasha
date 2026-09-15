@@ -2,7 +2,7 @@ import type { CarMake } from "akasha/alan/car-research/car-make/car-make.page-ty
 
 export const lucid = {
   id: "019e4aea-25d9-7113-b0e4-3922f1c54bfc",
-  type: "car-make",
+  type: "page-type/car-make",
   slug: "lucid",
   title: "Lucid",
   chargingNetworkAccess:

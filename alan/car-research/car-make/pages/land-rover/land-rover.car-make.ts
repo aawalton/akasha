@@ -2,7 +2,7 @@ import type { CarMake } from "akasha/alan/car-research/car-make/car-make.page-ty
 
 export const landRover = {
   id: "019e4ae6-ba21-77a8-8272-98b4f26665f6",
-  type: "car-make",
+  type: "page-type/car-make",
   slug: "land-rover",
   title: "Land Rover",
   chargingNetworkAccess:

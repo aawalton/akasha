@@ -2,7 +2,7 @@ import type { CarMake } from "akasha/alan/car-research/car-make/car-make.page-ty
 
 export const vinfast = {
   id: "019e4afa-1f62-712b-8ffd-058e64db9ef7",
-  type: "car-make",
+  type: "page-type/car-make",
   slug: "vinfast",
   title: "VinFast",
   chargingNetworkAccess:
