@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const weWillProveThemHerewith = {
   id: "019db533-f39c-7fd0-b6a0-bca9b3d73edd",
-  type: "book",
+  type: "page-type/book",
   slug: "we-will-prove-them-herewith",
   title: "We Will Prove Them Herewith",
   status: "completed",

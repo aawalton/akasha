@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const weTalkOfChristWeRejoiceInChrist = {
   id: "019db533-f39c-7fa9-8961-6d19d55f140e",
-  type: "book",
+  type: "page-type/book",
   slug: "we-talk-of-christ-we-rejoice-in-christ",
   title: "We Talk of Christ, We Rejoice in Christ",
   status: "completed",

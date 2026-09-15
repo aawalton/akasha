@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const whereforeYeMustPressForward = {
   id: "019db533-f39c-7fba-9cd6-38aab60fc370",
-  type: "book",
+  type: "page-type/book",
   slug: "wherefore-ye-must-press-forward",
   title: "Wherefore, Ye Must Press Forward",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const wheelOfTimeNewSpring = {
   id: "019db533-f38a-7d8e-ad35-b522b583f6c6",
-  type: "book",
+  type: "page-type/book",
   slug: "wheel-of-time-new-spring",
   title: "Wheel of Time: New Spring",
   status: "completed",

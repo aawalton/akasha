@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const ultimateLevel1NewPotential = {
   id: "019db533-f38b-7127-8284-06d347113edf",
-  type: "book",
+  type: "page-type/book",
   slug: "ultimate-level-1-new-potential",
   title: "Ultimate Level 1: New Potential",
   status: "completed",

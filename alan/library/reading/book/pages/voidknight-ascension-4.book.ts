@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const voidknightAscension4 = {
   id: "019db533-f38a-7475-91ce-c2457ddadc94",
-  type: "book",
+  type: "page-type/book",
   slug: "voidknight-ascension-4",
   title: "Voidknight Ascension 4",
   status: "completed",

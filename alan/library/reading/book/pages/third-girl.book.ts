@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const thirdGirl = {
   id: "019db533-f399-7c60-af0d-b54a804a952e",
-  type: "book",
+  type: "page-type/book",
   slug: "third-girl",
   title: "Third Girl",
   status: "not-started",

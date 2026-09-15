@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const whiteSand3 = {
   id: "019db533-f39c-7fa2-8f75-629d82fffb30",
-  type: "book",
+  type: "page-type/book",
   slug: "white-sand-3",
   title: "White Sand 3",
   status: "not-started",

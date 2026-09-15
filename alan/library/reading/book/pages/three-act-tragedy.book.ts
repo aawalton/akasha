@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const threeActTragedy = {
   id: "019db533-f399-7c2a-8633-93ad4508a7b9",
-  type: "book",
+  type: "page-type/book",
   slug: "three-act-tragedy",
   title: "Three Act Tragedy",
   status: "not-started",

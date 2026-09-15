@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theyDoItWithMirrors = {
   id: "019db533-f399-7baa-b8de-d8c412c5c544",
-  type: "book",
+  type: "page-type/book",
   slug: "they-do-it-with-mirrors",
   title: "They Do It with Mirrors",
   status: "not-started",

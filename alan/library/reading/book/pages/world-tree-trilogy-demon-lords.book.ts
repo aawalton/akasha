@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const worldTreeTrilogyDemonLords = {
   id: "019db533-f38b-75ee-940a-a7e192131935",
-  type: "book",
+  type: "page-type/book",
   slug: "world-tree-trilogy-demon-lords",
   title: "World-Tree Trilogy: Demon Lords",
   status: "completed",

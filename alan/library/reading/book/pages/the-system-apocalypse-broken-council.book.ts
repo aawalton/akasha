@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theSystemApocalypseBrokenCouncil = {
   id: "019db533-f391-7b91-9f46-643bf0c6e57b",
-  type: "book",
+  type: "page-type/book",
   slug: "the-system-apocalypse-broken-council",
   title: "The System Apocalypse: Broken Council",
   status: "completed",

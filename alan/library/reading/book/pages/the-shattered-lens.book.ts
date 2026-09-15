@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theShatteredLens = {
   id: "019db533-f39d-70cb-9214-e1d81e7f8684",
-  type: "book",
+  type: "page-type/book",
   slug: "the-shattered-lens",
   title: "The Shattered Lens",
   status: "completed",

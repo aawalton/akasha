@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const warbreaker = {
   id: "019db533-f39d-7337-90d4-df0cb121d663",
-  type: "book",
+  type: "page-type/book",
   slug: "warbreaker",
   title: "Warbreaker",
   status: "not-started",

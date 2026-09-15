@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const wheelOfTimeCrossroadsOfTwilight = {
   id: "019db533-f39b-718b-9dc1-ca5cc1b785fe",
-  type: "book",
+  type: "page-type/book",
   slug: "wheel-of-time-crossroads-of-twilight",
   title: "Wheel of Time: Crossroads of Twilight",
   status: "completed",

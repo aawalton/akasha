@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const vattasWarVictoryConditions = {
   id: "019db533-f39a-7a0c-9ea3-89bdc82ba0bc",
-  type: "book",
+  type: "page-type/book",
   slug: "vattas-war-victory-conditions",
   title: "Vatta's War: Victory Conditions",
   status: "not-started",

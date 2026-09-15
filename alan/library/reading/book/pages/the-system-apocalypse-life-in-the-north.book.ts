@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theSystemApocalypseLifeInTheNorth = {
   id: "019db533-f391-7be7-9a12-48bbc208c292",
-  type: "book",
+  type: "page-type/book",
   slug: "the-system-apocalypse-life-in-the-north",
   title: "The System Apocalypse: Life in the North",
   status: "completed",

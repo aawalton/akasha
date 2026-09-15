@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theWarOfBrokenMirrorsDefyingDestiny = {
   id: "019db533-f39b-731f-b6cb-af7116df10db",
-  type: "book",
+  type: "page-type/book",
   slug: "the-war-of-broken-mirrors-defying-destiny",
   title: "The War of Broken Mirrors: Defying Destiny",
   status: "not-started",

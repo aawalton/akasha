@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const treasuryOfAesopsFables = {
   id: "019db533-f39d-75cf-a90d-813f2a0b0c46",
-  type: "book",
+  type: "page-type/book",
   slug: "treasury-of-aesops-fables",
   title: "Treasury of Aesop's Fables",
   status: "not-started",

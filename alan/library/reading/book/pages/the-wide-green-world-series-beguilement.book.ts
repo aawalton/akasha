@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theWideGreenWorldSeriesBeguilement = {
   id: "019db533-f39b-726c-aab6-81caf8ed7eef",
-  type: "book",
+  type: "page-type/book",
   slug: "the-wide-green-world-series-beguilement",
   title: "The Wide Green World Series: Beguilement",
   status: "not-started",

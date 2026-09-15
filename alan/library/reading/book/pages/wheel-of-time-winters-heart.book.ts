@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const wheelOfTimeWintersHeart = {
   id: "019db533-f39a-7832-85fa-04e4fabef155",
-  type: "book",
+  type: "page-type/book",
   slug: "wheel-of-time-winters-heart",
   title: "Wheel of Time: Winter's Heart",
   status: "completed",

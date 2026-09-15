@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const wheelOfTimeACrownOfSwords = {
   id: "019db533-f39b-73ec-b406-d05c1d5c2063",
-  type: "book",
+  type: "page-type/book",
   slug: "wheel-of-time-a-crown-of-swords",
   title: "Wheel of Time: A Crown of Swords",
   status: "completed",

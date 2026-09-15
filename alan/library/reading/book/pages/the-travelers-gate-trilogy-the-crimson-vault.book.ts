@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theTravelersGateTrilogyTheCrimsonVault = {
   id: "019db533-f39a-7b47-bf6b-c1244a9e3ff5",
-  type: "book",
+  type: "page-type/book",
   slug: "the-travelers-gate-trilogy-the-crimson-vault",
   title: "The Traveler's Gate Trilogy: The Crimson Vault",
   status: "not-started",

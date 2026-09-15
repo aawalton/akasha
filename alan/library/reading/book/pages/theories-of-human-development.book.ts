@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theoriesOfHumanDevelopment = {
   id: "019db533-f39d-7f16-aaa2-14bd1a96d03a",
-  type: "book",
+  type: "page-type/book",
   slug: "theories-of-human-development",
   title: "Theories of Human Development",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const wheelOfTimeAMemoryOfLight = {
   id: "019db533-f39b-7254-9748-1cec5327e17e",
-  type: "book",
+  type: "page-type/book",
   slug: "wheel-of-time-a-memory-of-light",
   title: "Wheel of Time: A Memory of Light",
   status: "completed",

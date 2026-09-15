@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theSpaceTrilogyThatHideousStrength = {
   id: "019db533-f39a-7bbd-9492-c538219ca94d",
-  type: "book",
+  type: "page-type/book",
   slug: "the-space-trilogy-that-hideous-strength",
   title: "The Space Trilogy: That Hideous Strength",
   status: "not-started",

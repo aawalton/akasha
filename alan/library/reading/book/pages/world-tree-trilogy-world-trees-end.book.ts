@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const worldTreeTrilogyWorldTreesEnd = {
   id: "019db533-f38b-75dd-a24a-57e46985e2b3",
-  type: "book",
+  type: "page-type/book",
   slug: "world-tree-trilogy-world-trees-end",
   title: "World-Tree Trilogy: World-Tree's End",
   status: "completed",

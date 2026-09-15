@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theSystemApocalypseWorldUnbound = {
   id: "019db533-f391-7bb0-b66f-cbb2d0facf4e",
-  type: "book",
+  type: "page-type/book",
   slug: "the-system-apocalypse-world-unbound",
   title: "The System Apocalypse: World Unbound",
   status: "completed",

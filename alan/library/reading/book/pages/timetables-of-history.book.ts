@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const timetablesOfHistory = {
   id: "019db533-f39d-75e7-b285-f65a41cd0692",
-  type: "book",
+  type: "page-type/book",
   slug: "timetables-of-history",
   title: "Timetables of History",
   status: "not-started",

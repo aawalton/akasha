@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theWhisperingCrystalsUnnaturalLaws = {
   id: "019db533-f38b-759c-b8ce-5f143b670222",
-  type: "book",
+  type: "page-type/book",
   slug: "the-whispering-crystals-unnatural-laws",
   title: "The Whispering Crystals: Unnatural Laws",
   status: "completed",

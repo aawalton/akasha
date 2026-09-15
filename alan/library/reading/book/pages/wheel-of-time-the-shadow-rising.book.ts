@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const wheelOfTimeTheShadowRising = {
   id: "019db533-f39a-79be-a361-30b772d54a11",
-  type: "book",
+  type: "page-type/book",
   slug: "wheel-of-time-the-shadow-rising",
   title: "Wheel of Time: The Shadow Rising",
   status: "completed",

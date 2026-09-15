@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const thinkingFastAndSlow = {
   id: "019db533-f39d-7e5e-a9e5-c3f01ae2f997",
-  type: "book",
+  type: "page-type/book",
   slug: "thinking-fast-and-slow",
   title: "Thinking, Fast and Slow",
   status: "completed",

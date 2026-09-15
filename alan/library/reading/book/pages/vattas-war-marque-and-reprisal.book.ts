@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const vattasWarMarqueAndReprisal = {
   id: "019db533-f39a-7f64-8143-2de092f4e2f4",
-  type: "book",
+  type: "page-type/book",
   slug: "vattas-war-marque-and-reprisal",
   title: "Vatta's War: Marque and Reprisal",
   status: "not-started",

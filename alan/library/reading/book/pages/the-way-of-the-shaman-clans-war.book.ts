@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theWayOfTheShamanClansWar = {
   id: "019db533-f38b-7574-a8be-ccf5c45e091e",
-  type: "book",
+  type: "page-type/book",
   slug: "the-way-of-the-shaman-clans-war",
   title: "The Way of the Shaman: Clans War",
   status: "completed",

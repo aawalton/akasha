@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theViridianGateArchivesCrimsonAlliance = {
   id: "019db533-f38b-70d9-9662-b5aaa2ac536b",
-  type: "book",
+  type: "page-type/book",
   slug: "the-viridian-gate-archives-crimson-alliance",
   title: "The Viridian Gate Archives: Crimson Alliance",
   status: "completed",

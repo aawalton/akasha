@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theSystemApocalypseCoastOnFire = {
   id: "019db533-f391-7bbf-a963-8886cc91eb11",
-  type: "book",
+  type: "page-type/book",
   slug: "the-system-apocalypse-coast-on-fire",
   title: "The System Apocalypse: Coast on Fire",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theWhisperingCrystalsUnusualEnemies = {
   id: "019db533-f38b-75a4-8457-19d3b54af42e",
-  type: "book",
+  type: "page-type/book",
   slug: "the-whispering-crystals-unusual-enemies",
   title: "The Whispering Crystals: Unusual Enemies",
   status: "completed",

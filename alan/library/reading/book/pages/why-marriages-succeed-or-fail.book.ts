@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const whyMarriagesSucceedOrFail = {
   id: "019db533-f38a-7241-8a68-2eff7a477223",
-  type: "book",
+  type: "page-type/book",
   slug: "why-marriages-succeed-or-fail",
   title: "Why Marriages Succeed or Fail",
   status: "completed",

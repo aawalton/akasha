@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theSpokenMageVoiceOfCommand = {
   id: "019db533-f39a-79fe-9174-1c84e05c5faf",
-  type: "book",
+  type: "page-type/book",
   slug: "the-spoken-mage-voice-of-command",
   title: "The Spoken Mage: Voice of Command",
   status: "not-started",

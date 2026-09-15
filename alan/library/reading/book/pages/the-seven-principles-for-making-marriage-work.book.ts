@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theSevenPrinciplesForMakingMarriageWork = {
   id: "019db533-f38a-71ef-a6bb-da2e7dd15394",
-  type: "book",
+  type: "page-type/book",
   slug: "the-seven-principles-for-making-marriage-work",
   title: "The Seven Principles for Making Marriage Work",
   status: "not-started",

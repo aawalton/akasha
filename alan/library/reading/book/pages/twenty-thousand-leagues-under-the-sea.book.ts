@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const twentyThousandLeaguesUnderTheSea = {
   id: "019db533-f39d-75f6-becd-c9ba8718c6bd",
-  type: "book",
+  type: "page-type/book",
   slug: "twenty-thousand-leagues-under-the-sea",
   title: "Twenty Thousand Leagues Under the Sea",
   status: "not-started",

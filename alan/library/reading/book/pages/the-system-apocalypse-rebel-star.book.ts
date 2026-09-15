@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theSystemApocalypseRebelStar = {
   id: "019db533-f391-7ba0-800b-020bf01f705f",
-  type: "book",
+  type: "page-type/book",
   slug: "the-system-apocalypse-rebel-star",
   title: "The System Apocalypse: Rebel Star",
   status: "completed",

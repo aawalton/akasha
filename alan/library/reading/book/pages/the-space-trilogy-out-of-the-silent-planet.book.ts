@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theSpaceTrilogyOutOfTheSilentPlanet = {
   id: "019db533-f39a-7de9-a334-a69a14de2b1c",
-  type: "book",
+  type: "page-type/book",
   slug: "the-space-trilogy-out-of-the-silent-planet",
   title: "The Space Trilogy: Out of the Silent Planet",
   status: "not-started",

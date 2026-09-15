@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const wutheringHeights = {
   id: "019db533-f39d-75c7-a08f-28e2179f0faa",
-  type: "book",
+  type: "page-type/book",
   slug: "wuthering-heights",
   title: "Wuthering Heights",
   status: "not-started",

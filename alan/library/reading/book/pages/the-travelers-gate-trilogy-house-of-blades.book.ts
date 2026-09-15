@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theTravelersGateTrilogyHouseOfBlades = {
   id: "019db533-f39b-7078-982f-156e44997c3c",
-  type: "book",
+  type: "page-type/book",
   slug: "the-travelers-gate-trilogy-house-of-blades",
   title: "The Traveler's Gate Trilogy: House of Blades",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theSpiritualBrainScienceAndReligiousExperience = {
   id: "019db533-f39d-7e7f-a78b-a0be0386bde5",
-  type: "book",
+  type: "page-type/book",
   slug: "the-spiritual-brain-science-and-religious-experience",
   title: "The Spiritual Brain: Science and Religious Experience",
   status: "not-started",

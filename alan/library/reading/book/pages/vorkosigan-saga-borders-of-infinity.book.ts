@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const vorkosiganSagaBordersOfInfinity = {
   id: "019db533-f39b-7140-b424-72748107a0d4",
-  type: "book",
+  type: "page-type/book",
   slug: "vorkosigan-saga-borders-of-infinity",
   title: "Vorkosigan Saga: Borders of Infinity",
   status: "not-started",

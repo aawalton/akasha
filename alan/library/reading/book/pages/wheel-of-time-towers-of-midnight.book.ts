@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const wheelOfTimeTowersOfMidnight = {
   id: "019db533-f39a-7907-b97a-2eacb42226d5",
-  type: "book",
+  type: "page-type/book",
   slug: "wheel-of-time-towers-of-midnight",
   title: "Wheel of Time: Towers of Midnight",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theWayOfTheShamanShamansRevenge = {
   id: "019db533-f38b-75c1-b4db-bb9a4beffcf9",
-  type: "book",
+  type: "page-type/book",
   slug: "the-way-of-the-shaman-shamans-revenge",
   title: "The Way of the Shaman: Shaman's Revenge",
   status: "completed",

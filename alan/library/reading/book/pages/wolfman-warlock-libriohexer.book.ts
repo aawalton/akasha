@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const wolfmanWarlockLibriohexer = {
   id: "019db533-f38a-742d-baee-22e038ffcb26",
-  type: "book",
+  type: "page-type/book",
   slug: "wolfman-warlock-libriohexer",
   title: "Wolfman Warlock: Libriohexer",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const wheelOfTimeKnifeOfDreams = {
   id: "019db533-f39a-7e94-9ca5-ae1ecff17753",
-  type: "book",
+  type: "page-type/book",
   slug: "wheel-of-time-knife-of-dreams",
   title: "Wheel of Time: Knife of Dreams",
   status: "completed",

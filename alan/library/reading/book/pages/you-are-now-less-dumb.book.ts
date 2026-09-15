@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const youAreNowLessDumb = {
   id: "019db533-f39d-7df7-8fc6-ce34286333da",
-  type: "book",
+  type: "page-type/book",
   slug: "you-are-now-less-dumb",
   title: "You Are Now Less Dumb",
   status: "not-started",

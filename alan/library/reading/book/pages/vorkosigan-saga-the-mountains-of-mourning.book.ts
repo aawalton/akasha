@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const vorkosiganSagaTheMountainsOfMourning = {
   id: "019db533-f39a-795a-9331-2b393247de3d",
-  type: "book",
+  type: "page-type/book",
   slug: "vorkosigan-saga-the-mountains-of-mourning",
   title: "Vorkosigan Saga: The Mountains of Mourning",
   status: "not-started",

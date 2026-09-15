@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const unfair = {
   id: "019db533-f39d-7eb7-bb2a-24f25e2fa5b3",
-  type: "book",
+  type: "page-type/book",
   slug: "unfair",
   title: "Unfair",
   status: "not-started",

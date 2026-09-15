@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const weaponsAndWieldersSoulbrand = {
   id: "019db533-f38a-73a2-b7c9-debf45bb895f",
-  type: "book",
+  type: "page-type/book",
   slug: "weapons-and-wielders-soulbrand",
   title: "Weapons and Wielders: Soulbrand",
   status: "not-started",

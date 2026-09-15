@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const wheelOfTimeTheGreatHunt = {
   id: "019db533-f39a-7a6c-93d9-191ee648fa8e",
-  type: "book",
+  type: "page-type/book",
   slug: "wheel-of-time-the-great-hunt",
   title: "Wheel of Time: The Great Hunt",
   status: "completed",

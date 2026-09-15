@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theTarAiymKrang = {
   id: "019db533-f399-7b15-b6cb-f637b4aee776",
-  type: "book",
+  type: "page-type/book",
   slug: "the-tar-aiym-krang",
   title: "The Tar-Aiym Krang",
   status: "not-started",

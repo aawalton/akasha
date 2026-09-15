@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theSoftwareEngineersGuidebook = {
   id: "019db533-f39d-75b6-89de-30c97b81c405",
-  type: "book",
+  type: "page-type/book",
   slug: "the-software-engineers-guidebook",
   title: "The Software Engineer's Guidebook",
   status: "completed",

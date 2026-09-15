@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const tressOfTheEmeraldSea = {
   id: "019db533-f39d-73dc-a901-480ec54aa67f",
-  type: "book",
+  type: "page-type/book",
   slug: "tress-of-the-emerald-sea",
   title: "Tress of the Emerald Sea",
   status: "not-started",
