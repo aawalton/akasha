@@ -2,7 +2,7 @@ import type { MobileCut } from "akasha/alan/harness/mobile-cli/mobile-cut/mobile
 
 export const smilingjenny28 = {
   id: "01a09b6c-bb3a-7000-b3e1-a1c3eecee446",
-  type: "mobile-cut",
+  type: "page-type/mobile-cut",
   slug: "smilingjenny-28",
   title: "smilingjenny cut build 28",
   app: "ios-app/smilingjenny",

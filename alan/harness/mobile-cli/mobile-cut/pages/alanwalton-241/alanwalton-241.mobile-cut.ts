@@ -2,7 +2,7 @@ import type { MobileCut } from "akasha/alan/harness/mobile-cli/mobile-cut/mobile
 
 export const alanwalton241 = {
   id: "01a0a18e-3dbd-7000-8b78-2ee9f640fc10",
-  type: "mobile-cut",
+  type: "page-type/mobile-cut",
   slug: "alanwalton-241",
   title: "alanwalton cut build 241",
   app: "ios-app/alanwalton",
