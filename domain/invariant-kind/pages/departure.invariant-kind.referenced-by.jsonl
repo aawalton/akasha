@@ -264,6 +264,7 @@
 {"propertySlug":"invariant-kind","path":"agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.ts","id":"01a068a4-60f0-7000-bffe-694978e0a342"}
 {"propertySlug":"invariant-kind","path":"agent/seat/observation/seat-observation.domain.ts","id":"01a0658d-c92f-76f2-abb0-efb387b6515b"}
 {"propertySlug":"invariant-kind","path":"agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.ts","id":"01a06964-d998-7c3e-8f55-91ff918f96ac"}
+{"propertySlug":"invariant-kind","path":"agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.ts","id":"01a0695a-d2ea-7792-be19-da7a851ad311"}
 {"propertySlug":"invariant-kind","path":"agent/seat/observation/seat-turn/modules/seat-pending/pending-from-files/pending-from-files.module.ts","id":"01a0691b-4f65-762a-b97c-48d97a317e76"}
 {"propertySlug":"invariant-kind","path":"agent/seat/observation/seat-turn/modules/seat-pending/pending-maintaining/pending-maintaining.module.ts","id":"01a0686a-7a57-7e87-825d-ae7e67bf9301"}
 {"propertySlug":"invariant-kind","path":"agent/seat/observation/seat-turn/modules/seat-pending/seat-pending.module.ts","id":"01a0657f-4492-7003-914d-556c08c04bef"}
