@@ -2,7 +2,7 @@ import type { PersonAccess } from "akasha/person/access/person-access.page-type.
 
 export const alanRouteDeviceSecretMint = {
   id: "01a05433-f102-7358-8728-dde431b63a93",
-  type: "person-access",
+  type: "page-type/person-access",
   slug: "alan-route-device-secret-mint",
   person: "person/alan",
   accessKind: "access-kind/route",

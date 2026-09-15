@@ -2,7 +2,7 @@ import type { PersonAccess } from "akasha/person/access/person-access.page-type.
 
 export const kiPageTypeKiMovie = {
   id: "01a05433-f104-769b-a1be-2612f5f674a0",
-  type: "person-access",
+  type: "page-type/person-access",
   slug: "ki-page-type-ki-movie",
   person: "person/ki",
   accessKind: "access-kind/page-type",
