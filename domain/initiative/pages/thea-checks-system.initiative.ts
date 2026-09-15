@@ -15,13 +15,13 @@ export const theaChecksSystem = {
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "53 refusals at 2c8507bc95b, of which 19 only Alan can settle. Most of what is left is held rather than open: a module dead whole is a feature leaving and Alan settles those, and a value meant to be called that never got wired up is repaired rather than removed. What narrowing was open has been done.",
+        "44 refusals at cb9b6bfce10. What narrows without a decision is narrowed as it arrives: an export no other file names loses the keyword, and a helper a faster caller replaced goes. What is left is held rather than open, since a module dead whole is a feature leaving and Alan settles those, and a value meant to be called that never got wired up is repaired rather than removed.",
     },
 
     {
       statement: "No arm of the codebase is built and reached by nothing.",
       workingMemory:
-        "Alan is taking these one at a time. Lately gone: the seat pendency verdict, the reaper's redaction half, the rotated session and the supervisor's rebind-on-rotation path, green-day points off 40 persona pages, the ESO companion build search, the page-type writers and the guard naming them, and the guard against a test writing into his own checkout. He wants the generic write path able to write a page-type page. One loose wire is left: the degrading resume notice is unwired.",
+        "Alan is taking these one at a time. Lately gone: the seat pendency verdict, the reaper's redaction half, the supervisor's rebind-on-rotation path, green-day points, the ESO companion build search, the page-type writers and every guard that served them, the guard against a test writing into his own checkout, the wholesale uncommitted write, and the guards on a total nothing totals. He wants the generic write path able to write a page-type page.",
     },
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
