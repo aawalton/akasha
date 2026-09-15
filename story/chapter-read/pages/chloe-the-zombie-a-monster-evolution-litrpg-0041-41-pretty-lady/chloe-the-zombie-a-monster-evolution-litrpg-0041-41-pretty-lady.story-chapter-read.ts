@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chloeTheZombieAMonsterEvolutionLitrpg004141PrettyLady = {
   id: "01a06731-ad70-7005-a67c-e414cb45faac",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0041-41-pretty-lady",
   title: "41: Pretty Lady",
   story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",

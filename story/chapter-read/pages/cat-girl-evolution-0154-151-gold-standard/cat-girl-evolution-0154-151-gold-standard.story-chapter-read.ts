@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const catGirlEvolution0154151GoldStandard = {
   id: "01a06731-b020-7002-83ac-940645143a4b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0154-151-gold-standard",
   title: "151 - Gold Standard",
   story: "story-read/cat-girl-evolution",

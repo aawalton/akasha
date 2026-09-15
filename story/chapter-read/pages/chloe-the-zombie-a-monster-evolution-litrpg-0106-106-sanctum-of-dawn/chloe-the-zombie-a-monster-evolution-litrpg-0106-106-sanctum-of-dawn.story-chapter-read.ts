@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chloeTheZombieAMonsterEvolutionLitrpg0106106SanctumOfDawn = {
   id: "01a06731-ad7b-7011-b2e8-c51b82ec85c9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0106-106-sanctum-of-dawn",
   title: "106: Sanctum of Dawn",
   story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",

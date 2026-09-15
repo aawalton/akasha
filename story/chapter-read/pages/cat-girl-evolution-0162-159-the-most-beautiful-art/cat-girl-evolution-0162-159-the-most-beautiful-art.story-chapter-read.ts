@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const catGirlEvolution0162159TheMostBeautifulArt = {
   id: "01a07ae7-42eb-7de0-abbc-cc949ef2f4db",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0162-159-the-most-beautiful-art",
   story: "story-read/cat-girl-evolution",
   position: 162,

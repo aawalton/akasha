@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chloeTheZombieAMonsterEvolutionLitrpg0151151TooFastTooFurious = {
   id: "01a06731-ad7d-700c-99fc-9b6ec4ec85ff",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0151-151-too-fast-too-furious",
   title: "151: Too Fast, Too Furious",
   story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",

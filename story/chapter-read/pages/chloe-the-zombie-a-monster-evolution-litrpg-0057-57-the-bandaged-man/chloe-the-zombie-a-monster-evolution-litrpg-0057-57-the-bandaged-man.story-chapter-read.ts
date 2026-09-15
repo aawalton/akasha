@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chloeTheZombieAMonsterEvolutionLitrpg005757TheBandagedMan = {
   id: "01a06731-ad79-7001-a0b0-22e11ea185ae",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0057-57-the-bandaged-man",
   title: "57: The Bandaged Man",
   story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",

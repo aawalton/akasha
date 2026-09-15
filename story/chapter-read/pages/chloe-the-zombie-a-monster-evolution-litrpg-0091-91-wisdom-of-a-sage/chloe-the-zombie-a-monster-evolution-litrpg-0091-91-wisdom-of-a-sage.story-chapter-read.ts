@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chloeTheZombieAMonsterEvolutionLitrpg009191WisdomOfASage = {
   id: "01a06731-ad7b-7002-a62d-45caec85ea33",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0091-91-wisdom-of-a-sage",
   title: "91: Wisdom of a Sage",
   story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",

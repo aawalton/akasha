@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chloeTheZombieAMonsterEvolutionLitrpg005959RunningOnWater = {
   id: "01a06731-ad79-7003-aa4a-68e7afd43024",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0059-59-running-on-water",
   title: "59: Running on Water",
   story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const catGirlEvolution0152149TheFrogDilemma = {
   id: "01a06731-b020-7000-966c-a5c8ec7bc972",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0152-149-the-frog-dilemma",
   title: "149 - The Frog Dilemma",
   story: "story-read/cat-girl-evolution",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const catGirlEvolution0144141ThePrePaparazzi = {
   id: "01a06731-b01d-7000-ae90-2d8e1265fc5b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0144-141-the-pre-paparazzi",
   title: "141 - The Pre-Paparazzi",
   story: "story-read/cat-girl-evolution",

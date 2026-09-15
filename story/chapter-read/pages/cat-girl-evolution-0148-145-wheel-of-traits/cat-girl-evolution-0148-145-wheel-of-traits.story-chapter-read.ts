@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const catGirlEvolution0148145WheelOfTraits = {
   id: "01a06731-b01f-7001-9c5e-aad376a1ddae",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0148-145-wheel-of-traits",
   title: "145 - Wheel of Traits!",
   story: "story-read/cat-girl-evolution",

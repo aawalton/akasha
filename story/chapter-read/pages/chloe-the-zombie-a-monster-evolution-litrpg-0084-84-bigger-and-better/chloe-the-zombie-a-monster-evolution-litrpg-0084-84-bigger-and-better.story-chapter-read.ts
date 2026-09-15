@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chloeTheZombieAMonsterEvolutionLitrpg008484BiggerAndBetter = {
   id: "01a06731-ad7a-700f-9467-7bc3d62a305e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0084-84-bigger-and-better",
   title: "84: Bigger and Better",
   story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",

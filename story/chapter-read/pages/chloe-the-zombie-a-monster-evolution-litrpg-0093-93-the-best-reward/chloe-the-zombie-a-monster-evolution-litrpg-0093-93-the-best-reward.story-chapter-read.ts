@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chloeTheZombieAMonsterEvolutionLitrpg009393TheBestReward = {
   id: "01a06731-ad7b-7004-9572-8756dca8bed6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0093-93-the-best-reward",
   title: "93: The Best Reward",
   story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
