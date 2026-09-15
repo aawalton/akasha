@@ -2,7 +2,7 @@ import type { TemperQuestGiver } from "akasha/temper/catalog/temper-world/temper
 
 export const majAlRagath = {
   id: "019e121f-c73f-76be-95c9-9c6cb2ed5191",
-  type: "temper-quest-giver",
+  type: "page-type/temper-quest-giver",
   slug: "maj-al-ragath",
   title: "Maj al-Ragath",
   cycleLength: 12,

@@ -2,7 +2,7 @@ import type { TemperQuestGiver } from "akasha/temper/catalog/temper-world/temper
 
 export const glirionTheRedbeard = {
   id: "019e121f-c742-7892-bd4f-b4fca9ab01b9",
-  type: "temper-quest-giver",
+  type: "page-type/temper-quest-giver",
   slug: "glirion-the-redbeard",
   title: "Glirion the Redbeard",
   cycleLength: 12,
