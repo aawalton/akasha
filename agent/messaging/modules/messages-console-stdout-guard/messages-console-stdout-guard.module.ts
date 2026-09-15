@@ -8,16 +8,16 @@ export const messagesConsoleStdoutGuard = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A log written to standard output goes to standard error instead.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This module is loaded for the effect of loading rather than anything this module exports.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This module is loaded before anything that might log.",
     },
   ],
