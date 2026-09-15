@@ -5,13 +5,9 @@ import {
   THE_WHOLE,
   theWhole,
 } from "akasha/check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.decision.code.ts"
-import type {
-  Paged,
-  Selector,
-} from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import {
   input,
-  PAGES,
+  pagesBy,
   textWas,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
@@ -38,12 +34,7 @@ function underDomain(path: string, shadow: Shadow): boolean {
   return namedUnder(path, kindsFor(shadow)) !== null
 }
 
-const UNDER_DOMAIN: Selector<Paged> = {
-  named: "pages under domain",
-  isInput: (path, shadow) => PAGES.isInput(path, shadow) && underDomain(path, shadow),
-  from: (change, shadow) =>
-    PAGES.from(change, shadow).filter((one) => underDomain(one.path, shadow)),
-}
+const UNDER_DOMAIN = pagesBy("pages under domain", underDomain)
 
 function partsWere(change: Change, path: string): readonly string[] {
   const text = textWas(change, path)
