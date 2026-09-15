@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionAntiquityLoreProgress = {
   id: "01a06358-4f7c-77e7-a32e-20a4046028cd",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-antiquity-lore-progress",
   definition: "how much antiquity lore an account has dug up, category by category",
   code: "ts",

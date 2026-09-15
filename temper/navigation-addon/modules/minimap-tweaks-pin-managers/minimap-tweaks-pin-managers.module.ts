@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const minimapTweaksPinManagers = {
   id: "01a06269-2994-7dda-9980-a3386357cec0",
-  type: "module",
+  type: "page-type/module",
   slug: "minimap-tweaks-pin-managers",
   definition: "the world map's pin refreshes deferred while the minimap runs",
   code: "ts",

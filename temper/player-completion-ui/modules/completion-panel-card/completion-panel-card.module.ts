@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionPanelCard = {
   id: "01a06267-372c-7002-bf32-c613086380b1",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-panel-card",
   definition: "a card telling how far along each branch of a completion tree is",
   code: "tsx",

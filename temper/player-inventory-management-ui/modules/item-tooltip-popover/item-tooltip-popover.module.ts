@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const itemTooltipPopover = {
   id: "01a0636c-5d9b-7fc6-b673-e0db8f050034",
-  type: "module",
+  type: "page-type/module",
   slug: "item-tooltip-popover",
   definition: "the popover an item's tooltip is drawn in",
   code: "tsx",

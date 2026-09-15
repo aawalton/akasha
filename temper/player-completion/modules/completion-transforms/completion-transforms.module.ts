@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionTransforms = {
   id: "01a06358-4f7c-7639-ad48-31e91421605e",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-transforms",
   definition: "one reading of a character roster, gathering the per-character tallies beside it",
   code: "ts",

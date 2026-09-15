@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionNamedShape = {
   id: "01a06130-9e3a-7f50-9d58-465202494493",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-named-shape",
   definition: "whether a stored completion value is the fuller shape with a name",
   code: "ts",

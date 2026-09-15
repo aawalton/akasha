@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const ruleCardControlledContent = {
   id: "01a0636c-5d9b-7c83-ad40-a3f12edc0043",
-  type: "module",
+  type: "page-type/module",
   slug: "rule-card-controlled-content",
   definition: "the whole of a rule card drawn from what it is told",
   code: "tsx",

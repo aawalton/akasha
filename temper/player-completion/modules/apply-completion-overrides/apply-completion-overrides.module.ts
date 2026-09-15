@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const applyCompletionOverrides = {
   id: "01a06108-2fe9-7e94-a80a-0620a87e49b2",
-  type: "module",
+  type: "page-type/module",
   slug: "apply-completion-overrides",
   definition: "raising a character's counted skill points to what a player claims by hand",
   code: "ts",

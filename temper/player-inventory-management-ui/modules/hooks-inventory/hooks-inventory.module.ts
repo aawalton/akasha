@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const hooksInventory = {
   id: "01a0636c-5d97-76ed-b991-13a9b7f8000d",
-  type: "module",
+  type: "page-type/module",
   slug: "hooks-inventory",
   definition: "one player's inventory and its prices, read for a browser",
   code: "ts",

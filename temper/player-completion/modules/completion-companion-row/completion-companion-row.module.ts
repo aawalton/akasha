@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionCompanionRow = {
   id: "01a06332-d9df-7ff9-a491-b8f04b2e9e67",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-companion-row",
   definition: "one companion of a player's roster as the completion store keeps it",
   code: "ts",

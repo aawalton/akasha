@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const minimapSettings = {
   id: "01a06269-299b-7a5e-9715-87ce8d260d61",
-  type: "module",
+  type: "page-type/module",
   slug: "minimap-settings",
   definition: "the order the minimap settings modules load in",
   code: "ts",

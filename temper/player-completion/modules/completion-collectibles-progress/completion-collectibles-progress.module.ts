@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionCollectiblesProgress = {
   id: "01a06358-4f7c-7028-886d-cc701f3aafab",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-collectibles-progress",
   definition: "how many collectibles an account has unlocked, category by category",
   code: "ts",

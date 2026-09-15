@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionRapport = {
   id: "01a06108-2fea-7e03-804e-71e12bdddd7f",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-rapport",
   definition: "how fond a companion is of a character, as a raw count and as a tier",
   code: "ts",

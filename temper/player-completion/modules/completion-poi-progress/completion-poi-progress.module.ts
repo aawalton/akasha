@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionPoiProgress = {
   id: "01a06358-4f7c-7af7-948b-481d215df05c",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-poi-progress",
   definition: "the points of interest a character has found, counted by zone and by kind",
   code: "ts",

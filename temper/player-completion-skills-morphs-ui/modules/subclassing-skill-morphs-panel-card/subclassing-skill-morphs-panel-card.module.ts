@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const subclassingSkillMorphsPanelCard = {
   id: "01a06270-883d-7001-a3e2-19a44697e51c",
-  type: "module",
+  type: "page-type/module",
   slug: "subclassing-skill-morphs-panel-card",
   definition: "how far an account has taken the morphs of the skills subclassing lends out",
   code: "tsx",

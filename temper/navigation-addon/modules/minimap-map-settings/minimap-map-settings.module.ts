@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const minimapMapSettings = {
   id: "01a06269-299d-795a-b6f1-72bde219656b",
-  type: "module",
+  type: "page-type/module",
   slug: "minimap-map-settings",
   definition: "the zoom and offset kept for each map",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const minimapViewTypes = {
   id: "01a06269-2b11-7ab4-91ef-f78f20b801bc",
-  type: "module",
+  type: "page-type/module",
   slug: "minimap-view-types",
   definition: "the minimap's loose views of the game tables the minimap reaches into",
   code: "ts",

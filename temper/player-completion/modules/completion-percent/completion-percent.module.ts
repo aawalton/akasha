@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionPercent = {
   id: "01a06108-2ff5-7b31-8409-2fba1ba0bab8",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-percent",
   definition: "how far along a count is, as a whole number out of a hundred",
   code: "ts",

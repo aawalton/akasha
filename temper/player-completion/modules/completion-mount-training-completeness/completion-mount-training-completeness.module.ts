@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionMountTrainingCompleteness = {
   id: "01a06108-2ff3-7f44-b36b-b96b671954b0",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-mount-training-completeness",
   definition: "whether a character has trained a mount to its limit",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skillPointPublicDungeons = {
   id: "01a06108-2ff9-767b-92d7-7dbd5671e738",
-  type: "module",
+  type: "page-type/module",
   slug: "skill-point-public-dungeons",
   definition: "the one skill point each public dungeon hands a character for its group event",
   code: "ts",

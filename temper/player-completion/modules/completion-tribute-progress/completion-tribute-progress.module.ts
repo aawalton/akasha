@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionTributeProgress = {
   id: "01a06358-4f7c-767d-9800-fc99c1ab7ec7",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-tribute-progress",
   definition:
     "how much of every Tales of Tribute patron deck an account holds, patron by patron and card by card",

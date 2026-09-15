@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skillPointZoneSources = {
   id: "01a06108-2ffa-7ddc-a07c-2ee34cb56f5c",
-  type: "module",
+  type: "page-type/module",
   slug: "skill-point-zone-sources",
   definition: "the skyshards and the quest skill points each zone of Tamriel holds",
   code: "ts",

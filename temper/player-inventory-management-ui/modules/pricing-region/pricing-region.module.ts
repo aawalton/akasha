@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pricingRegion = {
   id: "01a0636c-5d9b-7a3f-ab30-de67bd120038",
-  type: "module",
+  type: "page-type/module",
   slug: "pricing-region",
   definition: "the region a price is read for",
   code: "ts",

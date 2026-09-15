@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionItemSetProgress = {
   id: "01a0632a-9d43-7b8b-9a8d-5a53b8bdb022",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-item-set-progress",
   definition:
     "how many pieces of each item set an account holds, gathered under the set's category",

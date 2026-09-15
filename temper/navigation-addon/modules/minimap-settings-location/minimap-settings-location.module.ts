@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const minimapSettingsLocation = {
   id: "01a06269-29a4-7c37-9474-820b0fc93f11",
-  type: "module",
+  type: "page-type/module",
   slug: "minimap-settings-location",
   definition: "the settings menu section for where the minimap sits",
   code: "ts",

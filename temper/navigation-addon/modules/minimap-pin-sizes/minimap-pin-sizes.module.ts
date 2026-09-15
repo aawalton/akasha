@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const minimapPinSizes = {
   id: "01a06269-299f-7745-be0e-60b28d8229dc",
-  type: "module",
+  type: "page-type/module",
   slug: "minimap-pin-sizes",
   definition: "the size of each pin kind on the minimap",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const shoppingRouteCache = {
   id: "01a063a1-8cc1-700c-8fa5-376eebf6a48b",
-  type: "module",
+  type: "page-type/module",
   slug: "shopping-route-cache",
   definition: "a shopping route kept for one player between visits",
   code: "ts",

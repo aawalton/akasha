@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionScribingProgress = {
   id: "01a06279-3a00-7000-8dbd-521db3a1f3b4",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-scribing-progress",
   definition: "which grimoires and scripts each character has unlocked",
   code: "ts",

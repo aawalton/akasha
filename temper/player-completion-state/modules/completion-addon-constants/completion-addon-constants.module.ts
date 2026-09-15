@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionAddonConstants = {
   id: "01a06253-d28f-7001-a366-62368ebea00f",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-addon-constants",
   definition: "the completion addon's name and the name its saved table is kept under",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const activityCategories = {
   id: "01a06108-2fe7-758c-947c-5275babdadb5",
-  type: "module",
+  type: "page-type/module",
   slug: "activity-categories",
   definition: "the kinds of thing there is to do in The Elder Scrolls Online",
   code: "ts",

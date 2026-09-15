@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionZoneProgress = {
   id: "01a06358-4f7c-7012-8bf4-9a1715664de9",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-zone-progress",
   definition: "how much of a zone a character has completed, completion type by completion type",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionAccountCheckers = {
   id: "01a0640c-1e9b-77aa-9215-d1a1abde163f",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-account-checkers",
   definition: "what answers whether an account has finished each account-wide completion card",
   code: "ts",

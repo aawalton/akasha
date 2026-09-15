@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionCadwellProgress = {
   id: "01a06358-4f7c-7c27-bdbb-10ed9f4e7578",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-cadwell-progress",
   definition:
     "how much of Cadwell's Almanac a character has finished, level by level and zone by zone",

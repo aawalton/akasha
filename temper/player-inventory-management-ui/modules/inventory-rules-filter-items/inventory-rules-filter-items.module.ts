@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryRulesFilterItems = {
   id: "01a0636c-5d9b-73c6-bfb7-eb8dab480021",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-rules-filter-items",
   definition: "the choices the rules filter bar offers",
   code: "tsx",

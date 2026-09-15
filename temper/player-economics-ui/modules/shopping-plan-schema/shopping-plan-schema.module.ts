@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const shoppingPlanSchema = {
   id: "01a063a1-8cc1-700b-9802-5c6240a89c0e",
-  type: "module",
+  type: "page-type/module",
   slug: "shopping-plan-schema",
   definition: "the shape a shopping plan arrives in",
   code: "ts",

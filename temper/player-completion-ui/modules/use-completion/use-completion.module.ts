@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const useCompletion = {
   id: "01a06363-f687-70fb-8023-b311dc463a1b",
-  type: "module",
+  type: "page-type/module",
   slug: "use-completion",
   definition: "the completion a browser reads for one player",
   code: "ts",
