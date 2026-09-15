@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whyIActFast = {
   id: "01a06559-9d65-711c-8f6a-a1ac64d19098",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "why-i-act-fast",
   title: "Why I Act Fast",
   definition: "acting rather than watching, because doing is what buys the truth",

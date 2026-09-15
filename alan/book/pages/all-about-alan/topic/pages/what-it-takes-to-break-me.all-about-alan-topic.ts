@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatItTakesToBreakMe = {
   id: "01a06559-9d65-7a70-ba48-169523af43fb",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-it-takes-to-break-me",
   title: "What It Takes To Break Me",
   definition: "holding while there is no other choice, and going the moment there is one",

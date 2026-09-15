@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whenSomeoneSaysSomethingGood = {
   id: "01a06559-9d65-76bd-98a7-de33a9e84036",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "when-someone-says-something-good",
   title: "When Someone Says Something Good",
   definition: "why praise so rarely lands on me, and what it takes when it does",

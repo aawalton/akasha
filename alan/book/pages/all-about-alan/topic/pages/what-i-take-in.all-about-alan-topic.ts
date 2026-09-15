@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatITakeIn = {
   id: "01a06559-9d65-7672-ae18-b2d30da47387",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-i-take-in",
   title: "What I Take In",
   definition: "reading wide on purpose, because a false model only looks tidy on a narrow set",

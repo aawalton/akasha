@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatTheChannelHasToCarry = {
   id: "01a06559-9d65-708d-be4b-0644fda391fe",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-the-channel-has-to-carry",
   title: "What The Channel Has To Carry",
   definition:

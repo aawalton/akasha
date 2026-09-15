@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatPrayingDoesForMe = {
   id: "01a06559-9d65-7517-b051-37109a3e4cf9",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-praying-does-for-me",
   title: "What Praying Does For Me",
   definition: "the devotional act, and the five things it does for me",

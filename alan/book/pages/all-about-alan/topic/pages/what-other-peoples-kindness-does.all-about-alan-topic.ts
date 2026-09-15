@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatOtherPeoplesKindnessDoes = {
   id: "01a06559-9d65-7758-8059-f2010841618f",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-other-peoples-kindness-does",
   title: "What Other People's Kindness Does",
   definition: "the lift I get from watching anyone at all do the work of caring",

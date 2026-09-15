@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatTheBookOfMeIsFor = {
   id: "01a06559-9d65-7750-a371-4557e3986b92",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-the-book-of-me-is-for",
   title: "What The Book Of Me Is For",
   definition: "the corpus as the what-if engine I cannot run inside my own head",

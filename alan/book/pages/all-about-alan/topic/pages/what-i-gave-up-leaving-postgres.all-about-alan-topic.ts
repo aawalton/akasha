@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatIGaveUpLeavingPostgres = {
   id: "01a04615-305f-7b56-995d-0efcc02c79c6",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-i-gave-up-leaving-postgres",
   title: "What I Gave Up Leaving Postgres",
   definition: "the trade I actually made moving my data out of a database and into files",

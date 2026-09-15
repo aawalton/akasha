@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whyIKeepHardTruthsBack = {
   id: "01a06559-9d65-79d1-8e10-ecd515957640",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "why-i-keep-hard-truths-back",
   title: "Why I Keep Hard Truths Back",
   definition: "a rule against saying what would hurt, and why it only ever tightens",

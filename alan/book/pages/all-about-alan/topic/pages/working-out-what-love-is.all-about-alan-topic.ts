@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const workingOutWhatLoveIs = {
   id: "01a06559-9d65-74f1-9625-8866124a0eb3",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "working-out-what-love-is",
   title: "Working Out What Love Is",
   definition: "building a concept I cannot feel my way into, out of its parts",

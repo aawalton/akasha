@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whyIStoppedWorking = {
   id: "01a06559-9d65-75ec-b0b4-ffbce1261906",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "why-i-stopped-working",
   title: "Why I Stopped Working",
   definition: "the cost of having a job, and what stopping actually bought",

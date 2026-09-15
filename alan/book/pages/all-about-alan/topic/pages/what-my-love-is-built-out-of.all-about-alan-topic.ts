@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatMyLoveIsBuiltOutOf = {
   id: "01a06559-9d65-7549-809d-c0bc8cd55032",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-my-love-is-built-out-of",
   title: "What My Love Is Built Out Of",
   definition: "the three things holding my love up where attachment would be",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatUnderstandingCannotReach = {
   id: "01a06559-9d65-76e8-b876-36e67b383197",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-understanding-cannot-reach",
   title: "What Understanding Cannot Reach",
   definition: "understanding is the only way I grow, so where it stops is where I stop",

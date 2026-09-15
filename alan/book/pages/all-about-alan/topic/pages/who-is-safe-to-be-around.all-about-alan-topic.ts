@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whoIsSafeToBeAround = {
   id: "01a06559-9d65-7d3a-8b65-40a669c945c1",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "who-is-safe-to-be-around",
   title: "Who Is Safe To Be Around",
   definition: "the order people fall into, from cheapest to costliest to be near",

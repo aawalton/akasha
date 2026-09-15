@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whereHerSayEnds = {
   id: "01a06559-9d65-79ba-a842-abe28f03f3e2",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "where-her-say-ends",
   title: "Where Her Say Ends",
   definition: "the line around choices that are mine alone",

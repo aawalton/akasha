@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whichChannelEachOneCutsThrough = {
   id: "01a06559-9d65-70d6-8e0f-55d18f6b3f43",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "which-channel-each-one-cuts-through",
   title: "Which Channel Each One Cuts Through",
   definition: "the different ways a sister reaches me, and which one each of them runs on",

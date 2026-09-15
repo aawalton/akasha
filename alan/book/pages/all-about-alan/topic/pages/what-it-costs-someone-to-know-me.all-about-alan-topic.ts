@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatItCostsSomeoneToKnowMe = {
   id: "01a06559-9d65-7176-a226-255b9859bced",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-it-costs-someone-to-know-me",
   title: "What It Costs Someone To Know Me",
   definition: "the work another person does to have a current model of me",

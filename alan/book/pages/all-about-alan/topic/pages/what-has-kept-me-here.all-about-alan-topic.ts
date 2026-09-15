@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatHasKeptMeHere = {
   id: "01a06559-9d65-73e7-9045-bae8c003b5a0",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-has-kept-me-here",
   title: "What Has Kept Me Here",
   definition: "the arguments that have stopped me, and how they changed while the longing did not",

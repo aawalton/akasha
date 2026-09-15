@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatICannotPlayForward = {
   id: "01a06559-9d65-798d-9778-0ee21ceffde9",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-i-cannot-play-forward",
   title: "What I Cannot Play Forward",
   definition: "the pre-play of what I am not inside, gated off while I am awake",

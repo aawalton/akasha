@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatComesWithIt = {
   id: "01a06559-9d65-70c6-8e31-417f2a1c2ce1",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-comes-with-it",
   title: "What Comes With It",
   definition: "the body-side conditions that ride along with my neurotype",

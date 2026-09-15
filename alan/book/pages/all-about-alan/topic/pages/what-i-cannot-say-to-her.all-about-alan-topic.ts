@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatICannotSayToHer = {
   id: "01a06559-9d65-7c51-98f4-bfb4fc6f710b",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-i-cannot-say-to-her",
   title: "What I Cannot Say To Her",
   definition:

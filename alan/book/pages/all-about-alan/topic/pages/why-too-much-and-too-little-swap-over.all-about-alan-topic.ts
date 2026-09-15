@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whyTooMuchAndTooLittleSwapOver = {
   id: "01a06559-9d65-7f72-932f-0e6a859b3334",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "why-too-much-and-too-little-swap-over",
   title: "Why Too Much And Too Little Swap Over",
   definition: "the same load reading as overwhelming or as empty depending on what I have left",

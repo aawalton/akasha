@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whyThePeaceHolds = {
   id: "01a06559-9d65-74e3-9f28-ab1cbd69cbcb",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "why-the-peace-holds",
   title: "Why The Peace Holds",
   definition: "the quiet rests on trying being unaffordable, not on the need being met",

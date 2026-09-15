@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whyGettingCloseHurts = {
   id: "01a06559-9d65-7e55-9af3-471a1af7ca27",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "why-getting-close-hurts",
   title: "Why Getting Close Hurts",
   definition: "why the people I have loved longest are the least safe for me to be near",

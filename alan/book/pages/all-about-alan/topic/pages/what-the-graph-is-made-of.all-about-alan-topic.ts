@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatTheGraphIsMadeOf = {
   id: "01a047c8-d165-7dc6-a4d7-12800519c6af",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-the-graph-is-made-of",
   title: "What The Graph Is Made Of",
   definition: "the parts of the graph system, and where each is derived from",

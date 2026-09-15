@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatKindOfThingASelfIs = {
   id: "01a06559-9d65-70ee-8e72-7ed66dc4fefc",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-kind-of-thing-a-self-is",
   title: "What Kind Of Thing A Self Is",
   definition: "three selves stacked, one made of my map and two made of the relation between maps",

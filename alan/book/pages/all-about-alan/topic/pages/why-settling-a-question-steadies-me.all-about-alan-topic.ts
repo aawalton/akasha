@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whySettlingAQuestionSteadiesMe = {
   id: "01a06559-9d65-7df9-b365-2b7b5b26bc73",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "why-settling-a-question-steadies-me",
   title: "Why Settling A Question Steadies Me",
   definition: "how settling a foundational question takes weight off my nervous system",

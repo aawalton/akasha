@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatAnActivityCostsMe = {
   id: "01a06559-9d65-74b7-8285-535889f4f996",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-an-activity-costs-me",
   title: "What An Activity Costs Me",
   definition: "what doing a particular thing takes out of me",

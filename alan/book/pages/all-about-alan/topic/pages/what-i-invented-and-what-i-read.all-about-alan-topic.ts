@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatIInventedAndWhatIRead = {
   id: "01a047c8-d168-7d39-8148-fb06ab90c551",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-i-invented-and-what-i-read",
   title: "What I Invented And What I Read",
   definition: "the line between what I took from the literature and what I worked out myself",

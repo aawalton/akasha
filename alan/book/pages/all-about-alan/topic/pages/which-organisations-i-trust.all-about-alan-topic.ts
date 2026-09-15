@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whichOrganisationsITrust = {
   id: "01a06559-9d65-7130-b950-81c0f767d8cd",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "which-organisations-i-trust",
   title: "Which Organisations I Trust",
   definition: "the test an organisation has to pass before I will rely on it",

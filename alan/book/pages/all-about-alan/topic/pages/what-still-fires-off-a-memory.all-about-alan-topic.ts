@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatStillFiresOffAMemory = {
   id: "01a06559-9d65-7310-8ba1-e5448ee4506a",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-still-fires-off-a-memory",
   title: "What Still Fires Off A Memory",
   definition: "the old reflexes a remembered thing still sets off, when nothing else replays",

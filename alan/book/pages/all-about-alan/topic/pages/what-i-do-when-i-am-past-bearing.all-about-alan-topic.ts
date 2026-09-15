@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatIDoWhenIAmPastBearing = {
   id: "01a06559-9d65-7b7a-b12d-63e9b3de5732",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-i-do-when-i-am-past-bearing",
   title: "What I Do When I Am Past Bearing",
   definition: "the five things my body does once the load goes past what it can carry",

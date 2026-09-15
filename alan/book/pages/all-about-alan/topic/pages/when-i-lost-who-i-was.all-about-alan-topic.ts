@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whenILostWhoIWas = {
   id: "01a06559-9d65-79b7-bdcf-301fc7936a79",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "when-i-lost-who-i-was",
   title: "When I Lost Who I Was",
   definition: "the collapse that took most of my identities, and what it left",

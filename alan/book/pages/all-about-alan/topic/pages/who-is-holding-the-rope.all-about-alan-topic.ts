@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whoIsHoldingTheRope = {
   id: "01a06559-9d65-7502-9877-28df5715fdb0",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "who-is-holding-the-rope",
   title: "Who Is Holding The Rope",
   definition: "why my relationships survive only while the other person keeps hold of them",

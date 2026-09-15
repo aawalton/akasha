@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatIThinkTruthIs = {
   id: "01a06559-9d65-7cf7-bbb9-a966ef5af2ed",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-i-think-truth-is",
   title: "What I Think Truth Is",
   definition: "a fixed direction to grow toward, and how I hold every belief against it",

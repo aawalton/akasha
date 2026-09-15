@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const writingANewWantIntoMyself = {
   id: "01a06559-9d65-74be-b4a7-873003992e1b",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "writing-a-new-want-into-myself",
   title: "Writing A New Want Into Myself",
   definition: "the wants I install in myself, as against the ones that came with me",

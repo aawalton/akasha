@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whyIKeepMyDataInFiles = {
   id: "01a04615-305e-763d-b28f-bedf12d64461",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "why-i-keep-my-data-in-files",
   title: "Why I Keep My Data In Files",
   definition: "why my context lives in files an agent can grep rather than in a database",

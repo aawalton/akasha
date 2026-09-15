@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whichLeverReachesAResponse = {
   id: "01a06559-9d65-7874-b618-bc127160feac",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "which-lever-reaches-a-response",
   title: "Which Lever Reaches A Response",
   definition: "the two kinds of learned response in me, and which remedy fits which",

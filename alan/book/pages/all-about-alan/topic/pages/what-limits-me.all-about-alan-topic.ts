@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatLimitsMe = {
   id: "01a06559-9d65-7d23-b40f-0049ff04c4db",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-limits-me",
   title: "What Limits Me",
   definition: "the one resource holding everything else up",

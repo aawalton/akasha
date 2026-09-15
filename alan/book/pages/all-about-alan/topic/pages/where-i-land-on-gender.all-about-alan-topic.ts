@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whereILandOnGender = {
   id: "01a06559-9d65-774c-b1a3-07500f648e22",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "where-i-land-on-gender",
   title: "Where I Land On Gender",
   definition: "male on four layers, and on the one that is meant to feel it, mostly just autistic",

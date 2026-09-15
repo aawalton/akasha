@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whenACompanyChangesHands = {
   id: "01a06559-9d65-7c34-8e9a-706c90c3d819",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "when-a-company-changes-hands",
   title: "When A Company Changes Hands",
   definition: "a trusted organisation changing owners or leaders puts its trust back to zero",

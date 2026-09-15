@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whenSheIsInPain = {
   id: "01a06559-9d65-7fd6-a39c-43310ebbbab7",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "when-she-is-in-pain",
   title: "When She Is In Pain",
   definition: "what happens in me when she is hurting, and what I can do with it",

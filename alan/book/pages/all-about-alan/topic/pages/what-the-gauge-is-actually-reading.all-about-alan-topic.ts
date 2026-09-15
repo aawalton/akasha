@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatTheGaugeIsActuallyReading = {
   id: "01a06559-9d65-760b-8271-dd0d6ba571d5",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-the-gauge-is-actually-reading",
   title: "What The Gauge Is Actually Reading",
   definition:

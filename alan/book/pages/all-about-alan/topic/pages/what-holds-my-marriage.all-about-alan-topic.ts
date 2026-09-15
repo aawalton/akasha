@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatHoldsMyMarriage = {
   id: "01a06559-9d65-71ea-aeea-b27cc873759d",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-holds-my-marriage",
   title: "What Holds My Marriage",
   definition: "commitment rather than attachment, and what standing on that costs both of us",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whenMyDocsAreMyCode = {
   id: "01a04615-3060-7c9d-baa6-90b37783964f",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "when-my-docs-are-my-code",
   title: "When My Docs Are My Code",
   definition: "what changes once my data, my docs and my code are one thing",

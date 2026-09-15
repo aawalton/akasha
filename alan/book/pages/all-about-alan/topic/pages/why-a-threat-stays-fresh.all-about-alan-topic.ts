@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whyAThreatStaysFresh = {
   id: "01a06559-9d65-7e22-baa5-3ec00699f209",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "why-a-threat-stays-fresh",
   title: "Why A Threat Stays Fresh",
   definition: "why something that frightened me keeps its edge for years instead of wearing down",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatMakesMeStartEating = {
   id: "01a06559-9d65-7837-8675-506be4db758e",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-makes-me-start-eating",
   title: "What Makes Me Start Eating",
   definition: "the trigger I built to stand in for a hunger signal that does not arrive",

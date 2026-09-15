@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatCalmsMeDown = {
   id: "01a06559-9d65-7a9a-a3a1-53e9befe9fc1",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-calms-me-down",
   title: "What Calms Me Down",
   definition: "the things that settle my body, and what they have in common",

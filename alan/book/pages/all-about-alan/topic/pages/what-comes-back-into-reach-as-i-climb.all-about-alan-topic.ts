@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatComesBackIntoReachAsIClimb = {
   id: "01a06559-9d65-7e41-820c-5cf9a4c80b03",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-comes-back-into-reach-as-i-climb",
   title: "What Comes Back Into Reach As I Climb",
   definition: "activities coming into and out of reach as my safety level rises",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatMyRecordGivesMeBack = {
   id: "01a04625-d80e-77ab-8ff5-738b70a03458",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-my-record-gives-me-back",
   title: "What My Record Gives Me Back",
   definition: "what reading my own record returns to me, and what it cannot",

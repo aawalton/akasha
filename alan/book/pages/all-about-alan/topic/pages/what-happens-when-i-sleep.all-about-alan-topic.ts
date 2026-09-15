@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatHappensWhenISleep = {
   id: "01a06559-9d65-7648-9913-f37e803dcd34",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-happens-when-i-sleep",
   title: "What Happens When I Sleep",
   definition: "the one state where the whole machine runs, senses and feelings and all",

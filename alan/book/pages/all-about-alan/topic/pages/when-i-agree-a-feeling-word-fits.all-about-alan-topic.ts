@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whenIAgreeAFeelingWordFits = {
   id: "01a06559-9d65-70c8-a743-e43077480c90",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "when-i-agree-a-feeling-word-fits",
   title: "When I Agree A Feeling Word Fits",
   definition: "saying yes, that is the word, and what that yes is actually running on",

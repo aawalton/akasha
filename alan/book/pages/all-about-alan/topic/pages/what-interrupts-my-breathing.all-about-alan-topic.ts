@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatInterruptsMyBreathing = {
   id: "01a06559-9d65-719d-a284-b4d9519e2b51",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-interrupts-my-breathing",
   title: "What Interrupts My Breathing",
   definition: "what stops the breathing practice running",

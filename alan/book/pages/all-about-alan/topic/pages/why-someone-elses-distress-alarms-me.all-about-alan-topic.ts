@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whySomeoneElsesDistressAlarmsMe = {
   id: "01a06559-9d65-767f-b9b3-51b10e4ec341",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "why-someone-elses-distress-alarms-me",
   title: "Why Someone Else's Distress Alarms Me",
   definition: "what fires in me when someone near me is hurting, and what it is actually about",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatWearsMyBodyDown = {
   id: "01a06559-9d65-7a8e-a6aa-de15db324edb",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-wears-my-body-down",
   title: "What Wears My Body Down",
   definition: "the cost of carrying stress over years, and how much of it I can clear",

@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whenSomethingIsFun = {
   id: "01a06559-9d65-7462-a879-a80a8c5a35f4",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "when-something-is-fun",
   title: "When Something Is Fun",
   definition: "what decides whether an activity is fun, and the two stages of it",

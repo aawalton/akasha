@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatILetMyselfTakeOn = {
   id: "01a06559-9d65-7202-898d-51bf99d98056",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-i-let-myself-take-on",
   title: "What I Let Myself Take On",
   definition: "what I will and will not agree to do",

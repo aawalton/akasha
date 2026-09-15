@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whyMyDoingLagsMyBelieving = {
   id: "01a06559-9d65-7c13-8bc4-0032954a2a62",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "why-my-doing-lags-my-believing",
   title: "Why My Doing Lags My Believing",
   definition: "the only two things that can stand between what I understand and what I do",

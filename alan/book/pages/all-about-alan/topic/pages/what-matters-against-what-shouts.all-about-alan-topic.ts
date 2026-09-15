@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatMattersAgainstWhatShouts = {
   id: "01a06559-9d65-757d-aae0-8241e986abc0",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-matters-against-what-shouts",
   title: "What Matters Against What Shouts",
   definition: "steering by how much a thing moves my life rather than how loudly it pulls",

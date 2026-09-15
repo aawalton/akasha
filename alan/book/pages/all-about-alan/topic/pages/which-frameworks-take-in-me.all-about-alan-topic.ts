@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whichFrameworksTakeInMe = {
   id: "01a06559-9d65-75dd-9084-3d069d742af1",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "which-frameworks-take-in-me",
   title: "Which Frameworks Take In Me",
   definition: "why some ways of working install in a single read and others I fight and never keep",

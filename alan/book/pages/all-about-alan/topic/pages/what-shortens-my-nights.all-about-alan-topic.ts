@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whatShortensMyNights = {
   id: "01a06559-9d65-7684-b991-311139eafe41",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "what-shortens-my-nights",
   title: "What Shortens My Nights",
   definition: "what cuts a night short",

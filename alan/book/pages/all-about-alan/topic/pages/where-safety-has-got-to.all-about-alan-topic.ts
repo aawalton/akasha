@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whereSafetyHasGotTo = {
   id: "01a06559-9d65-7bd0-a758-fd91f1a8b218",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "where-safety-has-got-to",
   title: "Where Safety Has Got To",
   definition: "how far my safety level has actually come, and what is holding the climb up",

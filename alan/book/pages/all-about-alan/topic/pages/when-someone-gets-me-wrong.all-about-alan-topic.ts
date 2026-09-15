@@ -2,7 +2,7 @@ import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/to
 
 export const whenSomeoneGetsMeWrong = {
   id: "01a06559-9d65-7f00-a5aa-117353df3e16",
-  type: "all-about-alan-topic",
+  type: "page-type/all-about-alan-topic",
   slug: "when-someone-gets-me-wrong",
   title: "When Someone Gets Me Wrong",
   definition: "the confident model of me other people build and get badly wrong",
