@@ -8,7 +8,7 @@ export const music = {
   parts: [
     "domain/music-catalog",
     "domain/music-choosing",
-    "domain/music-commands",
+    "domain/music-command",
     "domain/music-listening",
     "domain/spotify",
   ],

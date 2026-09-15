@@ -223,7 +223,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/medicine/medicine.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/music/catalog/music-catalog.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/music/choosing/music-choosing.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/music/commands/music-commands.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/music/command/music-command.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/music/listening/music-listening.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/music/music.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/music/spotify/spotify.domain.ts"}
