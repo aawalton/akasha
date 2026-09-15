@@ -2,7 +2,7 @@ import type { ModelProvider } from "akasha/agent/model/provider/model-provider.p
 
 export const deepseek = {
   id: "01a0a21a-3c53-76c5-b51f-a92017d82a1d",
-  type: "model-provider",
+  type: "page-type/model-provider",
   slug: "deepseek",
   definition: "the provider that serves DeepSeek's models",
   apiBase: "https://api.deepseek.com/anthropic",
