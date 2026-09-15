@@ -1814,6 +1814,8 @@
 {"propertySlug":"invariant-kind","path":"command/argument/properties/argument.relation-property.ts","id":"01a09409-0740-76a5-b194-5aae0e0a6f9b"}
 {"propertySlug":"invariant-kind","path":"command/argument/properties/placeholder.text-property.ts","id":"01a093fd-6bbc-77a2-ba27-0fc290cf93b0"}
 {"propertySlug":"invariant-kind","path":"command/argument/properties/repeats.boolean-property.ts","id":"01a093fd-5112-7f98-883b-01d434b2b228"}
+{"propertySlug":"invariant-kind","path":"command/argument/properties/said.text-property.ts","id":"01a05027-c468-7aba-9ec6-e02a71e9af84"}
+{"propertySlug":"invariant-kind","path":"command/argument/properties/takes.text-property.ts","id":"01a05027-c468-7573-9eec-f4d1ecd0bced"}
 {"propertySlug":"invariant-kind","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}
 {"propertySlug":"invariant-kind","path":"command/landing-throughput/landing-throughput.performance.ts","id":"01a08789-2005-7546-8b63-bcb5f2322cc7"}
 {"propertySlug":"invariant-kind","path":"command/modules/answering/command-answering.module.ts","id":"01a07c6e-41a7-7d0a-8e45-27f5fb2e74f2"}
@@ -2193,8 +2195,6 @@
 {"propertySlug":"invariant-kind","path":"command/properties/not-with.relation-property.ts","id":"01a09483-7144-7d5c-a857-085af955734b"}
 {"propertySlug":"invariant-kind","path":"command/properties/one-of.relation-property.ts","id":"01a0954e-097d-7b5d-8207-3b3e29c78819"}
 {"propertySlug":"invariant-kind","path":"command/properties/said-as.select-property.ts","id":"01a09483-5529-7998-ad2c-461a3f347977"}
-{"propertySlug":"invariant-kind","path":"command/properties/said.text-property.ts","id":"01a05027-c468-7aba-9ec6-e02a71e9af84"}
-{"propertySlug":"invariant-kind","path":"command/properties/takes.text-property.ts","id":"01a05027-c468-7573-9eec-f4d1ecd0bced"}
 {"propertySlug":"invariant-kind","path":"command/properties/timeout.number-property.ts","id":"01a0820f-feb2-79e4-8435-06a161f3c6ab"}
 {"propertySlug":"invariant-kind","path":"design/design.domain.ts","id":"01a05b55-a539-7a1c-9bdc-5a459722f028"}
 {"propertySlug":"invariant-kind","path":"design/interfaces/color/color.page-type.ts","id":"01a06575-c2a9-766f-8f09-da30cc969637"}
