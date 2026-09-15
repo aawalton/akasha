@@ -1,8 +1,4 @@
-import {
-  type Body,
-  overEachText,
-  pageTypesFor,
-} from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { pageTypesFor } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import { spelledIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import {
   type Facing,
@@ -54,10 +50,6 @@ export function found(judging: Judging, path: string, text: string): readonly st
     said.push(`\`${one.text}\` spells a page's address as a plain string — ${SAID}`)
   }
   return said
-}
-
-export function reasonsOver(judging: Judging): (given: Body) => readonly string[] {
-  return overEachText((path, text) => found(judging, path, text))
 }
 
 function facingIn(shadow: Shadow): Facing {

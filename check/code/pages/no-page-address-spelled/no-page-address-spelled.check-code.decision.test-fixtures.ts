@@ -1,7 +1,11 @@
 import {
+  found,
   type Judging,
-  reasonsOver,
 } from "akasha/check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.decision.code.ts"
+import {
+  type Body,
+  overEachText,
+} from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import { bodiesIn } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   filing,
@@ -37,6 +41,10 @@ export const JUDGING: Judging = {
 }
 
 export const given = bodiesIn(ROOT)
+
+function reasonsOver(judging: Judging): (body: Body) => readonly string[] {
+  return overEachText((path, text) => found(judging, path, text))
+}
 
 export const reasonsIn = reasonsOver(JUDGING)
 
