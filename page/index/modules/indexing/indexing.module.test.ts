@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
+import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
 import {
   indexingAt,
   refreshedFrom,
@@ -61,7 +62,6 @@ import {
   scratch,
   thePage,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
-import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
 
 afterAll(scratch.sweep, 5000)
 
@@ -256,7 +256,7 @@ test("a refresh that threw names the stages it finished and the file it had in h
   expect(() => refreshedFrom(tree, root, tree, true, done)).toThrow()
 
   expect(done[0] ?? "").toMatch(/^identity — \d+ files? written$/)
-  expect(done[done.length - 1] ?? "").toMatch(/^value — \d+ files? written, `\S+` in hand$/)
+  expect(done[done.length - 1] ?? "").toMatch(/^shapes — \d+ files? written, `\S+` in hand$/)
 })
 
 test("a refresh passes over a file gone before its body is read", () => {

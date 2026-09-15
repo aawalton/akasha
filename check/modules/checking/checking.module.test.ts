@@ -180,7 +180,7 @@ test("a check page stating no phase a runner can honour refuses from itself", as
 
 test("an index holding no check directory names no check, and refuses what it would leave unjudged", () => {
   const root = rootWith(ADMITS_CHECK)
-  checksTakenFrom(root, ADMITS)
+  checksTakenFrom(root)
   expect(checkPagesIn(root)).toEqual([])
   expect(() => checksIn(root)).toThrow("the index names no check")
 })

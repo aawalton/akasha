@@ -1,10 +1,10 @@
-import { appendFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { indexValue } from "akasha/page/index/value/index-value.index.ts"
+
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { slugsIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -40,13 +40,6 @@ function written(root: string, at: string, lines: readonly unknown[]): undefined
   const path = join(indexIn(root), `${at}${ENDING}`)
   mkdirSync(dirname(path), { recursive: true })
   writeFileSync(path, bodyOf(lines))
-  keepBuilt(indexIn(root))
-}
-
-function added(root: string, at: string, lines: readonly unknown[]): undefined {
-  const path = join(indexIn(root), `${at}${ENDING}`)
-  mkdirSync(dirname(path), { recursive: true })
-  appendFileSync(path, bodyOf(lines))
   keepBuilt(indexIn(root))
 }
 
@@ -171,7 +164,6 @@ export function valueAlsoFiled(
   pageTypeSlug: string,
   lines: readonly unknown[]
 ): undefined {
-  added(root, join(indexValue.name, pageTypeSlug), lines)
   for (const one of lines as readonly Carried[]) {
     const path = pagedIn(one)
     const value = one.value

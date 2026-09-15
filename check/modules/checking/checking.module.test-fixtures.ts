@@ -19,7 +19,6 @@ import {
 import {
   identitiesTakenFrom,
   noneOfTypeFiled,
-  valueTakenFrom,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
@@ -183,7 +182,7 @@ const THROWS_UNDER =
 const NAMES_SHADOW =
   "export function namesShadow(change, shadow) {\n" +
   '  const held = shadow !== undefined && typeof shadow.pageOf === "function"\n' +
-  "  return held && shadow.index !== undefined\n" +
+  '  return held && shadow["index"] !== undefined\n' +
   "    ? []\n" +
   '    : [{ path: "shadow", reason: "no shadow was handed over" }]\n' +
   "}\n"
@@ -428,9 +427,8 @@ export async function judgedAsleep(): Promise<Asleep> {
   return said
 }
 
-export function checksTakenFrom(root: string, slug: string): undefined {
+export function checksTakenFrom(root: string): undefined {
   identitiesTakenFrom(root, CHECK)
-  valueTakenFrom(root, CHECK, slug)
 }
 
 const INPUT_ONLY_CHECK = [{ slug: "input-ts", runsOn: ["change"], body: INPUT_TS }]

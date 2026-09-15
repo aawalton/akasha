@@ -1,6 +1,10 @@
-import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { appendFileSync, existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
+import { admitting } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
+import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
+import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import { indexImport } from "akasha/page/index/import/index-import.index.ts"
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
@@ -19,12 +23,7 @@ import {
   indexIn,
   overlaidOn,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
-import { indexValue } from "akasha/page/index/value/index-value.index.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
-import { admitting } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
-import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
 
 const ENDING = ".jsonl"
 
@@ -322,23 +321,6 @@ export function refreshedApart(root: string, tree: string, aside: string): reado
 
 export function listedTakenFrom(root: string, pageTypeSlug: string, slug: string): undefined {
   taking(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG, `${slug}${ENDING}`))
-}
-
-function slugSaid(line: string): unknown {
-  try {
-    return (JSON.parse(line) as { value?: { slug?: unknown } }).value?.slug
-  } catch {
-    return undefined
-  }
-}
-
-export function valueTakenFrom(root: string, pageTypeSlug: string, slug: string): undefined {
-  const at = under(root, `${join(indexValue.name, pageTypeSlug)}${ENDING}`)
-  if (!existsSync(at)) return
-  const kept = readFileSync(at, "utf8")
-    .split("\n")
-    .filter((one) => one !== "" && slugSaid(one) !== slug)
-  writeFileSync(at, kept.map((one) => `${one}\n`).join(""))
 }
 
 export function identitiesListedIn(root: string, pageTypeSlug: string): boolean {

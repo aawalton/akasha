@@ -19,7 +19,7 @@ export const indexSettling = {
     },
     {
       invariantKind: "departure",
-      statement: "The value of every page in a write is settled before any relation is.",
+      statement: "The shape of every page in a write is settled before any relation is.",
     },
     {
       invariantKind: "departure",

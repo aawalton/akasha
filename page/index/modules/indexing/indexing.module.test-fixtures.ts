@@ -15,6 +15,7 @@ import type { Reading } from "akasha/page/index/modules/shape/index-shape.module
 import { readingBuilding } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { walkedUnder } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
 import { pathsRead, readerAt, ruleTrusted } from "akasha/page/index/rule/index-rule.index.code.ts"
+import { shapeFileFor } from "akasha/page/index/shapes/index-shapes.index.code.ts"
 import {
   aProperty,
   aType,
@@ -28,7 +29,6 @@ import {
   thePage,
   VOCABULARY,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
-import { fileFor } from "akasha/page/index/value/index-value.index.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 
@@ -252,7 +252,7 @@ export const NAMES_C_BY_SLUG: Held = {
 
 export const NAMES_C_BY_ID: Held = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: [C] }
 
-const BLOCKED_AT = fileFor("domain")
+const BLOCKED_AT = shapeFileFor("text-property")
 
 export function pathBlocked(root: string): undefined {
   const blocked = join(root, BLOCKED_AT)

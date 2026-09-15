@@ -7,6 +7,7 @@ import {
   landingNaming,
   RETURNED,
 } from "akasha/agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"
+import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   listedFiled,
@@ -15,10 +16,8 @@ import {
 import {
   listedTakenFrom,
   refreshedIn,
-  valueTakenFrom,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as outOf } from "akasha/util/run/modules/running/running.module.code.ts"
 
@@ -82,7 +81,6 @@ export async function tookAway(root: string, seatName: string, own: string): Pro
   const went = await took(root, seatName, own, [], landingNaming([]), null, RETURNED)
   const slug = slugOf(seatName, own)
   listedTakenFrom(root, "subagent", slug)
-  valueTakenFrom(root, "subagent", slug)
   return went
 }
 

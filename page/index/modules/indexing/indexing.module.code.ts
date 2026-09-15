@@ -44,7 +44,7 @@ import {
   shapesFiled,
   shapesIn,
 } from "akasha/page/index/shapes/index-shapes.index.code.ts"
-import { valueIn } from "akasha/page/index/value/index-value.index.code.ts"
+
 import { rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -119,8 +119,6 @@ export function refreshedFrom(
   const identifying = identifyingFrom(source)
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
   const drift = [reconcile(identity, root, put, done)]
-  const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
-  drift.push(reconcile(valued, root, put, done))
   const shaped = values.flatMap((one) => shapeFiled(one))
   drift.push(reconcile(shaped, root, put, done))
   const carrying = shapesFiled(source, shapesIn(values), pageTypeSlugsIn(values))
@@ -144,7 +142,7 @@ export function refreshedFrom(
   drift.push(reconcile(imported, root, put, done))
   const ruled = [...walked.flatMap((one) => ruleIn(one.body, one.path, repo)), readerIn()]
   drift.push(reconcile(ruled, root, put, done))
-  const every = [...identity, ...valued, ...shaped, ...carrying, ...edge, ...imported, ...ruled]
+  const every = [...identity, ...shaped, ...carrying, ...edge, ...imported, ...ruled]
   const went = takenAway(every, root, put, done)
   if (put) keepBuilt(root)
   return {
@@ -154,7 +152,6 @@ export function refreshedFrom(
       edge.length +
       imported.length +
       ruled.length +
-      valued.length +
       shaped.length +
       carrying.length,
     refused: filed.flatMap((one) => one.refused),
