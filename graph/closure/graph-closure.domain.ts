@@ -5,4 +5,5 @@ export const graphClosure = {
   type: "domain",
   slug: "graph-closure",
   definition: "the nodes and edges one predicate takes in from its seeds",
+  parts: ["performance/answer-cost"],
 } as const satisfies Domain

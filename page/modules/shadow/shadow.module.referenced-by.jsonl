@@ -210,6 +210,7 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"graph/closure/answer-cost/answer-cost.performance.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.test.ts"}
