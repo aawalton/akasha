@@ -2,10 +2,10 @@ import { resolve } from "node:path"
 import { SEAT_MODE_HEADLESS } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
 import {
   envScrubArgv,
+  launching,
   launchModeFlags,
   shellQuoted,
   supervisorEntryArgv,
-  underScope,
 } from "akasha/agent/seat/launching/seat-launching.module.code.ts"
 import { removeSubagentPagesOf } from "akasha/agent/subagent/modules/page/subagent-page.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -61,21 +61,6 @@ function buildSupervisorCmd(root: string, opts: LaunchSeatOpts): readonly string
   ]
 }
 
-function buildNewSessionArgs(opts: LaunchSeatOpts, cmd: readonly string[]): readonly string[] {
-  return [
-    "new-session",
-    "-d",
-    "-s",
-    opts.name,
-    "-c",
-    seatStartDir(),
-    "--",
-    ...envScrubArgv(),
-    `AGENT_ID=${opts.agentId}`,
-    ...cmd,
-  ]
-}
-
 async function runBounded(cmd: readonly string[]): Promise<TmuxCall> {
   const proc = Bun.spawn({ cmd: [...cmd], stdout: "pipe", stderr: "pipe", env: process.env })
   const timer = setTimeout(() => {
@@ -101,10 +86,6 @@ async function tmux(args: readonly string[]): Promise<TmuxCall> {
 
 async function sessionHolds(name: string): Promise<boolean> {
   return (await tmux(["has-session", "-t", `=${name}`])).code === 0
-}
-
-async function serverIsUp(): Promise<boolean> {
-  return (await tmux(["list-sessions"])).code === 0
 }
 
 const INTERRUPTS = 2
@@ -213,36 +194,7 @@ export async function launchSeatUnderTmux(opts: LaunchSeatOpts): Promise<LaunchS
 
   await sweepSubagentPagesOf(opts.agentId)
 
-  const scopeUnit = (await serverIsUp()) ? null : `tmux-seat-${name}-${Date.now()}`
-  const cmd = buildSupervisorCmd(akashaRoot(), opts)
-  const launch = underScope(buildNewSessionArgs(opts, cmd), scopeUnit)
-
-  const started = await runBounded(launch)
-  if (started.code !== 0) {
-    throw new Error(
-      `failed to start tmux session '${name}' (exit ${started.code}): ${started.err || started.out}`
-    )
-  }
-
-  const launched = await paneOf(name)
-  if (launched !== null) await tmux(["set-option", "-w", "-t", launched, "remain-on-exit", "on"])
-
-  const pane = await tmux(["display-message", "-p", "-t", name, "#{pane_pid}"])
-  const pid = Number.parseInt(pane.out, 10)
-  if (!Number.isSafeInteger(pid) || pid <= 0) {
-    throw new Error(
-      `tmux session '${name}' started but reported no pane pid ('${pane.out}'), so nothing ` +
-        "could be recorded for the liveness scan to read."
-    )
-  }
-
-  await Bun.sleep(EARLY_EXIT_PROBE_MS)
-  if (!(await sessionHolds(name))) {
-    throw new Error(
-      `seat '${name}' exited immediately on boot — attach with \`tmux attach -t =${name}\` ` +
-        "while it is up to see what it says"
-    )
-  }
-
-  return { pid }
+  const begun = await launching(opts, akashaRoot())
+  if ("refused" in begun) throw new Error(begun.refused)
+  return { pid: begun.launched.pid }
 }
