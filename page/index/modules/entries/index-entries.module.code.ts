@@ -336,29 +336,8 @@ export function filePropertiesAt(given: string | Reading): FilePropertiesBy {
   return carryingAt(given).filed
 }
 
-export function uncommittedFiledIn(values: Iterable<Value>): UncommittedBy {
-  const held = [...values]
-  return carriedBy(propertiesAmong(held), typesAmong(held)).withheld
-}
-
-export function uncommittedFiledOver(
-  given: string | Reading,
-  left: Iterable<Value>
-): UncommittedBy {
-  return carryingOver(given, left).withheld
-}
-
 export function uncommittedFiledAt(given: string | Reading): UncommittedBy {
   return carryingAt(given).withheld
-}
-
-export function folderPropertiesIn(values: Iterable<Value>): FoldersBy {
-  const held = [...values]
-  return carriedBy(propertiesAmong(held), typesAmong(held)).foldered
-}
-
-export function folderPropertiesOver(given: string | Reading, left: Iterable<Value>): FoldersBy {
-  return carryingOver(given, left).foldered
 }
 
 export function folderPropertiesAt(given: string | Reading): FoldersBy {

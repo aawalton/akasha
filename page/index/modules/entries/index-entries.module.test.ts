@@ -5,7 +5,6 @@ import {
   filePropertiesAt,
   filePropertiesIn,
   filePropertiesOver,
-  uncommittedFiledIn,
   uniquePropertiesAt,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
@@ -287,10 +286,6 @@ test("a page type declaring a file property group holds every member of that gro
     ["audit.test", null],
     ["audit.logs", null],
   ])
-})
-
-test("a member the group declares uncommitted is kept outside the commit under its group's key", () => {
-  expect([...(uncommittedFiledIn(GROUPED).get("check-code") ?? [])]).toEqual(["audit.logs"])
 })
 
 test("a page type that is a file property group holds nothing of its own in a file", () => {
