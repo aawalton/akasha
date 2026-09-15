@@ -2,7 +2,7 @@ import type { WorldRecipe } from "akasha/story/world-mechanic/world-recipe/world
 
 export const loafOfLuck = {
   id: "01a0655a-7b80-7227-a457-1d3a3175f0fa",
-  type: "world-recipe",
+  type: "page-type/world-recipe",
   slug: "loaf-of-luck",
   title: "Loaf of Luck",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldRecipe } from "akasha/story/world-mechanic/world-recipe/world
 
 export const poisonBloodOil = {
   id: "01a0655a-7b80-7eee-b83b-d183e23a4b63",
-  type: "world-recipe",
+  type: "page-type/world-recipe",
   slug: "poison-blood-oil",
   title: "Poison Blood Oil",
   world: "world/the-wandering-inn",

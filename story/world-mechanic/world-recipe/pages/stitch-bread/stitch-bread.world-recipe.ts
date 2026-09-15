@@ -2,7 +2,7 @@ import type { WorldRecipe } from "akasha/story/world-mechanic/world-recipe/world
 
 export const stitchBread = {
   id: "01a0655a-7b80-7353-b851-1b4ebc73c378",
-  type: "world-recipe",
+  type: "page-type/world-recipe",
   slug: "stitch-bread",
   title: "Stitch-bread",
   world: "world/the-wandering-inn",

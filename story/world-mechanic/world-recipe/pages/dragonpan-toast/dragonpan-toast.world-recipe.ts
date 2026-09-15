@@ -2,7 +2,7 @@ import type { WorldRecipe } from "akasha/story/world-mechanic/world-recipe/world
 
 export const dragonpanToast = {
   id: "01a0655a-7b80-7ca9-bb9e-76f26fcb9474",
-  type: "world-recipe",
+  type: "page-type/world-recipe",
   slug: "dragonpan-toast",
   title: "Dragonpan Toast",
   world: "world/the-wandering-inn",
