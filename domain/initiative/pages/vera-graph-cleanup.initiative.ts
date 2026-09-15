@@ -11,13 +11,13 @@ export const veraGraphCleanup = {
       statement:
         "Every closure over the graph's edges is worked out in the graph rather than by each caller.",
       workingMemory:
-        "Three walkers work one out today and none is the graph. `deploy-file-closure.module.code.ts` seeds a folder glob and walks forward through `reachedFrom` at `source-globbing.module.code.ts:74-92`, re-parsing each body. `gateway-tree-version.module.code.ts:76-95` walks its own on its own regex and follows only relative specifiers, missing everything under `akasha/`. `graph-asking` walks backward only, over `importersOf`, and its one caller is the typecheck decision.",
+        "The graph answers `edgesOutOf` and `reachingOutOf` over import edges, reading each body from the reader handed in and only where TypeScript parses it. The deploy closure and the stylesheet globber both ask it, and `reachedFrom` is gone. What is left is the gateway's own walk at `gateway-tree-version.module.code.ts:72-91`, and the relation edge, which is read into a node but not out of one.",
     },
     {
       statement:
         "Every closure the graph answers is correct, and quick enough to ask on every landing.",
       workingMemory:
-        "Three walkers disagree today and nothing measures any of them: `gateway-tree-version.module.code.ts:89` follows only relative specifiers, so it misses everything reached through `akasha/`, while deploy's walk resolves through every tracked `package.json`. What correct rests on is one rule used twice. What quick rests on is this domain's caching invariants: an answer keyed by the pages it rests on, marked by the code that made it, learning it is stale by being asked.",
+        "Two walkers are gone into the graph and the third is not: `gateway-tree-version.module.code.ts` reads specifiers with a regex of its own, resolves `.ts` and `index.ts` endings the graph does not, and refuses on a member it cannot read where the graph answers nothing. Nothing measures any closure. What correct rests on is one rule used twice. What quick rests on is this domain's caching invariants: an answer keyed by what it rests on and learning it is stale by being asked.",
     },
     {
       statement:
