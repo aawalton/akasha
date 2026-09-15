@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const pathOfTheDeathlessBook4Completed0469357IGlimpse3396513 = {
   id: "01a06730-4ea8-7e83-9e46-b95885bc9a99",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0469-357-i-glimpse-3396513",
   title: "357 (I) Glimpse",
   story: "story-read/path-of-the-deathless-book-4-completed",

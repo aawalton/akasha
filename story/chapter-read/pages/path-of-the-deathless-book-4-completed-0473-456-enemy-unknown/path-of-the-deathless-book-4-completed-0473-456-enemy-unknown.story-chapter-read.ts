@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const pathOfTheDeathlessBook4Completed0473456EnemyUnknown = {
   id: "01a091dd-1765-78f8-aa92-fd42936a8a5e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0473-456-enemy-unknown",
   position: 473,
   publishedAt: "2026-09-11",

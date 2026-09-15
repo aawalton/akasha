@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const pathOfTheDeathlessBook4Completed0426267IFuryAloneIsButImpotence = {
   id: "01a06730-4e85-711d-a12b-e1d9b7646480",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0426-267-i-fury-alone-is-but-impotence",
   title: "267 (I) “Fury Alone is but Impotence”",
   story: "story-read/path-of-the-deathless-book-4-completed",
