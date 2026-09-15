@@ -5,7 +5,9 @@ import {
   pathFor,
   put,
   typed,
+  wrote,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   importFiled,
   pageFilingFrom,
@@ -253,4 +255,14 @@ export function proving(root: string, text: string): undefined {
 
 export function provingItsOwn(root: string, text: string): undefined {
   put(root, FIXTURES_PROVER, bytesOf(text))
+}
+
+export function landed(root: string, files: Readonly<Record<string, string>> = {}): string {
+  wrote(root, files)
+  git(root, ["init", "--quiet"])
+  git(root, ["config", "user.email", "held@nowhere"])
+  git(root, ["config", "user.name", "Held"])
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "held"])
+  return root
 }

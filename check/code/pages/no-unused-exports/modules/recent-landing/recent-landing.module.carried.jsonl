@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The day is measured back from a `now` the caller states."},{"decisionKind":"decision-kind/departure","statement":"A path git names in a commit inside that day has landed lately."},{"decisionKind":"decision-kind/departure","statement":"A path the head commit holds nowhere has landed never."},{"decisionKind":"decision-kind/departure","statement":"A refusal over a path that landed lately or landed never is dropped."},{"decisionKind":"decision-kind/departure","statement":"Only the paths the refusals name are handed to git."},{"decisionKind":"decision-kind/departure","statement":"Git is asked once for the whole set rather than once for each path."},{"decisionKind":"decision-kind/departure","statement":"A run holding no refusal asks git nothing."},{"decisionKind":"decision-kind/departure","statement":"A tree git answers nothing for keeps every refusal."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a body or reaches the index."}]}
+{"definition":"which of the paths a refusal names landed inside the last day, and which never landed"}
+{"id":"01a0a6a5-eb52-75e5-80e6-26f59f6bee6b"}
+{"slug":"recent-landing"}
+{"test":"ts"}
+{"type":"page-type/module"}

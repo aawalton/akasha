@@ -5,6 +5,7 @@ export const noUnusedExports = {
   type: "page-type/check-code",
   slug: "no-unused-exports",
   definition: "the check refusing a file exporting a value no other file names",
+  parts: ["module/recent-landing"],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -275,6 +276,39 @@ export const noUnusedExports = {
       decisionKind: "decision-kind/departure",
       statement:
         "The `generateTypes` and `couldTurn` a type generator exports are reached by landing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file a commit inside the last day holds is passed over rather than refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file no commit holds at all is passed over rather than refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The day is measured back from a file's last commit rather than from the working tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file last committed before that day is judged as any other file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The change, the deploy and the audit pass over the same files.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only a file a refusal already names is asked after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tree git answers nothing for keeps every refusal.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The ratchet waits on a file until that file's last landing is a day old.",
     },
   ],
   check: { maxCpuSeconds: 30 },
