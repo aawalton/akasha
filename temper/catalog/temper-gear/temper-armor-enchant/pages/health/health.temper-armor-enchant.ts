@@ -2,7 +2,7 @@ import type { TemperArmorEnchant } from "akasha/temper/catalog/temper-gear/tempe
 
 export const health = {
   id: "01a05fd4-d96a-7f26-be77-be4206893578",
-  type: "temper-armor-enchant",
+  type: "page-type/temper-armor-enchant",
   slug: "health",
   title: "Health",
   key: "health",
