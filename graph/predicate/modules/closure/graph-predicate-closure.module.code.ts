@@ -1,7 +1,4 @@
-import {
-  reachingInto,
-  reachingOutOf,
-} from "akasha/graph/modules/asking/graph-asking.module.code.ts"
+import { edgesInto, edgesOutOver } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import type { GraphPredicate } from "akasha/graph/predicate/graph-predicate.page-type.types.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Body } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
@@ -13,6 +10,23 @@ const OUT = "out"
 
 function every(): boolean {
   return true
+}
+
+function closedOver(
+  seeds: readonly string[],
+  through: (path: string) => boolean,
+  stepping: (path: string) => readonly string[]
+): readonly string[] {
+  const found = new Set(seeds.filter((one) => through(one)))
+  const waiting = [...found]
+  for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
+    for (const next of stepping(one)) {
+      if (found.has(next) || !through(next)) continue
+      found.add(next)
+      waiting.push(next)
+    }
+  }
+  return [...found].sort()
 }
 
 export type Asked = {
@@ -28,7 +42,12 @@ export function closureOf(
 ): readonly string[] {
   const kinds = predicate.edges.map(slugOf)
   const through = asked.through ?? every
-  if (predicate.direction === IN) return reachingInto(seeds, kinds, asked.index, through)
+  if (predicate.direction === IN) {
+    const index = asked.index
+    return closedOver(seeds, through, (one) =>
+      edgesInto(one, kinds, index).map((edge) => edge.from)
+    )
+  }
   if (predicate.direction !== OUT) {
     throw new Error(
       `the \`${predicate.slug}\` predicate is followed \`${predicate.direction}\`, which is neither \`${IN}\` nor \`${OUT}\``
@@ -40,5 +59,6 @@ export function closureOf(
       `the \`${predicate.slug}\` predicate is followed out of a body, and this ask hands in no reader of bodies`
     )
   }
-  return reachingOutOf(seeds, kinds, asked.index, bodyAt, through)
+  const stepping = edgesOutOver(kinds, asked.index, bodyAt)
+  return closedOver(seeds, through, (one) => stepping(one).map((edge) => edge.to))
 }

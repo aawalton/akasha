@@ -43,15 +43,19 @@ export const graphAsking = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A closure going out reads the specifiers of each body it reaches again.",
+      statement: "One edge is answered here and a closure over the edges is answered elsewhere.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An edge going out is answered from a step prepared once for many files.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The specifiers a body names are read again for every file that step is asked.",
     },
     {
       invariantKind: "invariant-kind/departure",
       statement: "An edge going out is read only from a file TypeScript parses.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A file no edge is read out of is still reached by an edge going out.",
     },
     {
       invariantKind: "invariant-kind/absence",

@@ -45,8 +45,24 @@ export const graphPredicateClosure = {
       statement: "An ask handing in no reader is refused where its predicate is followed out.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement: "A node already in the closure is stepped from once.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file no edge is read out of is still part of the closure that reached it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The closure comes back sorted, so two asks alike answer alike.",
+    },
+    {
       invariantKind: "invariant-kind/absence",
       statement: "No caller names an edge kind or a direction of its own.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "Nothing here reads an edge, which the graph is asked for.",
     },
   ],
 } as const satisfies Module

@@ -2,12 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { relative } from "node:path"
 import { filesOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import {
-  edgesInto,
-  edgesOutOf,
-  reachingInto,
-  reachingOutOf,
-} from "akasha/graph/modules/asking/graph-asking.module.code.ts"
+import { edgesInto, edgesOutOver } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import {
   APART_AT,
   BY_DECLARATION,
@@ -38,7 +33,6 @@ import {
   PART,
   PROPERTY,
   RELATION,
-  reachingWorld,
   relationWorld,
   SECOND_AT,
   SIDECAR_AT,
@@ -54,8 +48,6 @@ import { readingLaidOver } from "akasha/page/index/modules/reading/index-reading
 const REPO_AT = rootOf(import.meta.dir)
 
 const NAMED = relative(REPO_AT, import.meta.path).replace(".module.test.ts", ".module.ts")
-
-const ENDING = ".ts"
 
 afterAll(scratch.sweep)
 
@@ -187,57 +179,6 @@ test("an edge kind's own page, existing only in the index given, still answers i
   )
 })
 
-test("a file three deep in what imports it is reached, so the closure closes", () => {
-  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [THIRD_AT] })
-
-  expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([
-    FIRST_AT,
-    SECOND_AT,
-    THIRD_AT,
-  ])
-})
-
-test("a cycle is walked once, so an answer comes back rather than a run that does not end", () => {
-  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [FIRST_AT] })
-
-  expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([FIRST_AT, SECOND_AT])
-})
-
-test("a node the predicate turns away is left out, and what is behind it is not reached", () => {
-  const root = reachingWorld({ [FIRST_AT]: [APART_AT], [APART_AT]: [THIRD_AT] })
-
-  const kept = reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root), (one) => one.endsWith(ENDING))
-
-  expect(kept).toEqual([FIRST_AT])
-  expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([
-    APART_AT,
-    FIRST_AT,
-    THIRD_AT,
-  ])
-})
-
-test("a seed is part of the answer, and a seed the predicate turns away is none of it", () => {
-  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
-
-  const kept = reachingInto([FIRST_AT, APART_AT], [IMPORT_EDGE], indexOf(root), (one) =>
-    one.endsWith(ENDING)
-  )
-
-  expect(reachingInto([SECOND_AT], [IMPORT_EDGE], indexOf(root))).toEqual([SECOND_AT])
-  expect(kept).toEqual([FIRST_AT, SECOND_AT])
-})
-
-test("a closure walks the edges the index it was given answers, and none it does not", () => {
-  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
-  const over = readingLaidOver(root, {}, importsBeside(root, SECOND_AT, [THIRD_AT]))
-  const every = [FIRST_AT, SECOND_AT, THIRD_AT]
-
-  expect(
-    reachingInto([FIRST_AT], [IMPORT_EDGE], indexOver(over, bodiesIn(root)), () => true)
-  ).toEqual(every)
-  expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([FIRST_AT, SECOND_AT])
-})
-
 test("a module a page type names as its loader is answered with the pages of that type", () => {
   const root = loaderWorld()
 
@@ -256,14 +197,14 @@ test("a module no page type names as its loader is answered with no page of any 
 test("an empty kind list answers nothing going out", () => {
   const root = importWorld()
 
-  expect(edgesOutOf(FIRST_AT, [], indexOf(root), filesOf({}))).toEqual([])
+  expect(edgesOutOver([], indexOf(root), filesOf({}))(FIRST_AT)).toEqual([])
 })
 
 test("a file is answered with what its own body names, and each says a declaration knew it", () => {
   const root = importWorld()
   const bodies = filesOf({ [FIRST_AT]: namingBody("./second.page.ts") })
 
-  expect(edgesOutOf(FIRST_AT, [IMPORT_EDGE], indexOf(root), bodies)).toEqual([
+  expect(edgesOutOver([IMPORT_EDGE], indexOf(root), bodies)(FIRST_AT)).toEqual([
     { kind: IMPORT_EDGE, from: FIRST_AT, to: SECOND_AT, attrs: { [KNOWN]: BY_DECLARATION } },
   ])
 })
@@ -271,88 +212,40 @@ test("a file is answered with what its own body names, and each says a declarati
 test("a file the reader of bodies answers nothing for is answered with no edge going out", () => {
   const root = importWorld()
 
-  expect(edgesOutOf(FIRST_AT, [IMPORT_EDGE], indexOf(root), filesOf({}))).toEqual([])
+  expect(edgesOutOver([IMPORT_EDGE], indexOf(root), filesOf({}))(FIRST_AT)).toEqual([])
 })
 
 test("a kind not yet read out of a node is refused rather than answered with nothing", () => {
   const root = relationWorld(1)
 
-  expect(() => edgesOutOf(TARGET_AT, [RELATION], indexOf(root), filesOf({}))).toThrow(
+  expect(() => edgesOutOver([RELATION], indexOf(root), filesOf({}))(TARGET_AT)).toThrow(
     /`relation`.*could not be answered/
   )
 })
 
-test("a file three deep in what it names is reached, so the closure going out closes", () => {
+test("one step going out reads each body once for every file that step is asked about", () => {
   const root = importWorld()
+  const read: string[] = []
   const bodies = filesOf({
     [FIRST_AT]: namingBody("./second.page.ts"),
     [SECOND_AT]: namingBody("./third.page.ts"),
   })
-
-  expect(reachingOutOf([FIRST_AT], [IMPORT_EDGE], indexOf(root), bodies)).toEqual([
-    FIRST_AT,
-    SECOND_AT,
-    THIRD_AT,
-  ])
-})
-
-test("a cycle going out is walked once, so an answer comes back rather than a run that does not end", () => {
-  const root = importWorld()
-  const bodies = filesOf({
-    [FIRST_AT]: namingBody("./second.page.ts"),
-    [SECOND_AT]: namingBody("./first.page.ts"),
+  const stepping = edgesOutOver([IMPORT_EDGE], indexOf(root), (path) => {
+    read.push(path)
+    return bodies(path)
   })
 
-  expect(reachingOutOf([FIRST_AT], [IMPORT_EDGE], indexOf(root), bodies)).toEqual([
-    FIRST_AT,
-    SECOND_AT,
-  ])
+  expect(stepping(FIRST_AT).map((edge) => edge.to)).toEqual([SECOND_AT])
+  expect(stepping(SECOND_AT).map((edge) => edge.to)).toEqual([THIRD_AT])
+  expect(read).toEqual([FIRST_AT, SECOND_AT])
 })
 
-test("a closure going out reads the bodies handed in rather than the bodies beneath them", () => {
-  const root = importWorld()
-  const bodies = filesOf({ [FIRST_AT]: namingBody("./second.page.ts") })
-
-  expect(reachingOutOf([FIRST_AT], [IMPORT_EDGE], indexOf(root), bodies)).toEqual([
-    FIRST_AT,
-    SECOND_AT,
-  ])
-  expect(reachingOutOf([FIRST_AT], [IMPORT_EDGE], indexOf(root), () => null)).toEqual([FIRST_AT])
-})
-
-test("a node the predicate turns away going out is left out, and what is behind it is not reached", () => {
+test("a file TypeScript does not parse is answered with no edge read out of it", () => {
   const root = importWorld()
   const bodies = filesOf({
     [FIRST_AT]: namingBody("./apart.page.txt"),
     [APART_AT]: namingBody("./third.page.ts"),
   })
 
-  expect(
-    reachingOutOf([FIRST_AT], [IMPORT_EDGE], indexOf(root), bodies, (one) => one.endsWith(ENDING))
-  ).toEqual([FIRST_AT])
-})
-
-test("a file TypeScript does not parse is reached going out and nothing is read out of it", () => {
-  const root = importWorld()
-  const bodies = filesOf({
-    [FIRST_AT]: namingBody("./apart.page.txt"),
-    [APART_AT]: namingBody("./third.page.ts"),
-  })
-
-  expect(edgesOutOf(APART_AT, [IMPORT_EDGE], indexOf(root), bodies)).toEqual([])
-  expect(reachingOutOf([FIRST_AT], [IMPORT_EDGE], indexOf(root), bodies)).toEqual([
-    APART_AT,
-    FIRST_AT,
-  ])
-})
-
-test("a closure going out and one coming in answer the same pair of files", () => {
-  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
-  const bodies = filesOf({ [SECOND_AT]: namingBody("./first.page.ts") })
-
-  expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([FIRST_AT, SECOND_AT])
-  expect(reachingOutOf([SECOND_AT], [IMPORT_EDGE], indexOf(root), bodies)).toEqual([
-    FIRST_AT,
-    SECOND_AT,
-  ])
+  expect(edgesOutOver([IMPORT_EDGE], indexOf(root), bodies)(APART_AT)).toEqual([])
 })

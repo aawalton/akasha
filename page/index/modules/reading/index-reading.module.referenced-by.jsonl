@@ -371,6 +371,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"git/modules/holding/holding.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"graph/modules/asking/graph-asking.module.test.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/index/modules/carrying/index-carrying.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/index/modules/generated-properties/generated-properties.module.test.ts"}

@@ -2,9 +2,12 @@ import { afterAll, expect, test } from "bun:test"
 import { filesOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import {
   APART_AT,
+  bodiesIn,
   FIRST_AT,
+  importsBeside,
   importWorld,
   indexOf,
+  indexOver,
   namingBody,
   reachingWorld,
   SECOND_AT,
@@ -14,6 +17,7 @@ import {
 import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { importers } from "akasha/graph/predicate/pages/importers.graph-predicate.ts"
 import { imports } from "akasha/graph/predicate/pages/imports.graph-predicate.ts"
+import { readingLaidOver } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 const ENDING = ".ts"
 
@@ -85,4 +89,82 @@ test("a predicate followed neither in nor out is refused rather than answered on
   expect(() => closureOf(SIDEWAYS, [FIRST_AT], { index: indexOf(root) })).toThrow(
     /`imports`.*`sideways`/
   )
+})
+
+test("a cycle coming in is closed once, so an answer comes back rather than a run without end", () => {
+  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [FIRST_AT] })
+
+  expect(closureOf(importers, [FIRST_AT], { index: indexOf(root) })).toEqual([FIRST_AT, SECOND_AT])
+})
+
+test("a cycle going out is closed once, so an answer comes back rather than a run without end", () => {
+  const root = importWorld()
+  const bodyAt = filesOf({
+    [FIRST_AT]: namingBody("./second.page.ts"),
+    [SECOND_AT]: namingBody("./first.page.ts"),
+  })
+
+  expect(closureOf(imports, [FIRST_AT], { index: indexOf(root), bodyAt })).toEqual([
+    FIRST_AT,
+    SECOND_AT,
+  ])
+})
+
+test("a seed the gate turns away is none of the closure, and one it takes in is part of it", () => {
+  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
+  const index = indexOf(root)
+  const through = (one: string): boolean => one.endsWith(ENDING)
+
+  expect(closureOf(importers, [FIRST_AT, APART_AT], { index, through })).toEqual([
+    FIRST_AT,
+    SECOND_AT,
+  ])
+  expect(closureOf(importers, [SECOND_AT], { index })).toEqual([SECOND_AT])
+})
+
+test("a node the gate turns away going out is left out, and what is behind it is not reached", () => {
+  const root = importWorld()
+  const bodyAt = filesOf({
+    [FIRST_AT]: namingBody("./apart.page.txt"),
+    [APART_AT]: namingBody("./third.page.ts"),
+  })
+  const through = (one: string): boolean => one.endsWith(ENDING)
+
+  expect(closureOf(imports, [FIRST_AT], { index: indexOf(root), bodyAt, through })).toEqual([
+    FIRST_AT,
+  ])
+})
+
+test("a closure going out reads the bodies handed in rather than the bodies beneath them", () => {
+  const root = importWorld()
+  const index = indexOf(root)
+  const bodyAt = filesOf({ [FIRST_AT]: namingBody("./second.page.ts") })
+
+  expect(closureOf(imports, [FIRST_AT], { index, bodyAt })).toEqual([FIRST_AT, SECOND_AT])
+  expect(closureOf(imports, [FIRST_AT], { index, bodyAt: () => null })).toEqual([FIRST_AT])
+})
+
+test("a file TypeScript does not parse is reached going out and nothing is read out of it", () => {
+  const root = importWorld()
+  const bodyAt = filesOf({
+    [FIRST_AT]: namingBody("./apart.page.txt"),
+    [APART_AT]: namingBody("./third.page.ts"),
+  })
+
+  expect(closureOf(imports, [FIRST_AT], { index: indexOf(root), bodyAt })).toEqual([
+    APART_AT,
+    FIRST_AT,
+  ])
+})
+
+test("a closure follows the edges the index handed in answers, and none it does not", () => {
+  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
+  const over = readingLaidOver(root, {}, importsBeside(root, SECOND_AT, [THIRD_AT]))
+
+  expect(closureOf(importers, [FIRST_AT], { index: indexOver(over, bodiesIn(root)) })).toEqual([
+    FIRST_AT,
+    SECOND_AT,
+    THIRD_AT,
+  ])
+  expect(closureOf(importers, [FIRST_AT], { index: indexOf(root) })).toEqual([FIRST_AT, SECOND_AT])
 })
