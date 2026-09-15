@@ -12,7 +12,7 @@ import type { FunPoints } from "akasha/alan/track/daily/day/properties/fun-point
 import type { FunStoplight } from "akasha/alan/track/daily/day/properties/fun-stoplight.computed-property.types.ts"
 import type { HealthLevel } from "akasha/alan/track/daily/day/properties/health-level.computed-property.types.ts"
 import type { HealthPoints } from "akasha/alan/track/daily/day/properties/health-points.number-property.types.ts"
-import type { HealthSamples } from "akasha/alan/track/daily/day/properties/health-samples.page-property-entry.types.ts"
+import type { HealthSamples } from "akasha/alan/track/daily/day/properties/health-samples/health-samples.page-property-entry.types.ts"
 import type { HealthStoplight } from "akasha/alan/track/daily/day/properties/health-stoplight.computed-property.types.ts"
 import type { InboxCalendar } from "akasha/alan/track/daily/day/properties/inbox-calendar.number-property.types.ts"
 import type { InboxCalendarClearedToday } from "akasha/alan/track/daily/day/properties/inbox-calendar-cleared-today.boolean-property.types.ts"
