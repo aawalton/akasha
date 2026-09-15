@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const ruriRocks = {
   id: "01a06802-9332-701b-8b42-fb7f4c81a3ac",
-  type: "show",
+  type: "page-type/show",
   slug: "ruri-rocks",
   title: "Ruri Rocks",
   partOfCollections: ["show-collection/watch-with-jen"],

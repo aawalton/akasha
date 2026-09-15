@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const girlsGutsGlory = {
   id: "01a06802-9331-702b-868b-a41e45f94b3e",
-  type: "show",
+  type: "page-type/show",
   slug: "girls-guts-glory",
   title: "Girls Guts Glory",
   partOfCollections: ["show-collection/dungeons-and-dragons-shows"],

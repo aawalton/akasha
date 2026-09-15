@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const manifest = {
   id: "01a06802-9332-7008-be14-d612bae3fa84",
-  type: "show",
+  type: "page-type/show",
   slug: "manifest",
   title: "Manifest",
   partOfCollections: ["show-collection/watch-with-jen"],

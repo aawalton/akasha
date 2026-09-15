@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const swordArtOnlineAlternativeGunGaleOnline = {
   id: "019ea442-8f86-77a0-b42c-4a87cb102fbb",
-  type: "show",
+  type: "page-type/show",
   slug: "sword-art-online-alternative-gun-gale-online",
   title: "Sword Art Online Alternative: Gun Gale Online",
   description:

@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const highPotential = {
   id: "01a06802-9331-702f-919b-f1dfcb4702d7",
-  type: "show",
+  type: "page-type/show",
   slug: "high-potential",
   title: "High Potential",
   partOfCollections: [

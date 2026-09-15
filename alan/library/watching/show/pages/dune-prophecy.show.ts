@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const duneProphecy = {
   id: "01a06802-9331-701e-a037-602c614d3dba",
-  type: "show",
+  type: "page-type/show",
   slug: "dune-prophecy",
   title: "Dune: Prophecy",
   partOfCollections: ["fandom/dune-2"],

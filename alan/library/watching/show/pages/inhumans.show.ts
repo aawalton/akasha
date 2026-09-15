@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const inhumans = {
   id: "01a06802-9332-7002-a616-7758e81e4777",
-  type: "show",
+  type: "page-type/show",
   slug: "inhumans",
   title: "Inhumans",
   partOfCollections: ["fandom/marvel-television"],

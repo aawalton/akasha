@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const starTrekProdigy = {
   id: "01a06802-9332-702c-9bec-661cd67a807c",
-  type: "show",
+  type: "page-type/show",
   slug: "star-trek-prodigy",
   title: "Star Trek: Prodigy",
   partOfCollections: ["fandom/star-trek-3"],

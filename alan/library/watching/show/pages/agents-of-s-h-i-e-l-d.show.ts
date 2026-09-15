@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const agentsOfSHIELD = {
   id: "01a06802-9331-7003-b4c8-5299632445ac",
-  type: "show",
+  type: "page-type/show",
   slug: "agents-of-s-h-i-e-l-d",
   title: "Agents of S.H.I.E.L.D.",
   partOfCollections: ["fandom/marvel-television"],

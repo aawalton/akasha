@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const peacemaker = {
   id: "01a06802-9332-7015-b90c-cf51ff16fd9c",
-  type: "show",
+  type: "page-type/show",
   slug: "peacemaker",
   title: "Peacemaker",
   partOfCollections: ["fandom/dc-universe"],

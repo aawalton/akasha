@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const thePunisher = {
   id: "01a06802-9333-7000-b8a0-89cec056daea",
-  type: "show",
+  type: "page-type/show",
   slug: "the-punisher",
   title: "The Punisher",
   partOfCollections: ["fandom/marvel-television"],

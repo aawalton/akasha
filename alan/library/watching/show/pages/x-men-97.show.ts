@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const xMen97 = {
   id: "01a06802-9333-7010-aff3-98b0600132c8",
-  type: "show",
+  type: "page-type/show",
   slug: "x-men-97",
   title: "X-Men '97",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

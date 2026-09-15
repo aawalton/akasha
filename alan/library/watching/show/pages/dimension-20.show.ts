@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const dimension20 = {
   id: "01a06802-9331-701a-ab01-1f10cfc9a398",
-  type: "show",
+  type: "page-type/show",
   slug: "dimension-20",
   title: "Dimension 20",
   partOfCollections: ["show-collection/dungeons-and-dragons-shows"],

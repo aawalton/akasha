@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const agathaAllAlong = {
   id: "01a06802-9331-7001-97c2-d5d329a17076",
-  type: "show",
+  type: "page-type/show",
   slug: "agatha-all-along",
   title: "Agatha All Along",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

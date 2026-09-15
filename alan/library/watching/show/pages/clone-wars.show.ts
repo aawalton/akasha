@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const cloneWars = {
   id: "01a06802-9331-7012-bb53-8b3246658970",
-  type: "show",
+  type: "page-type/show",
   slug: "clone-wars",
   title: "Clone Wars",
   partOfCollections: ["fandom/star-wars-2"],

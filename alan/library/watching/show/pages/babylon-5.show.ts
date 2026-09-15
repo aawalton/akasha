@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const babylon5 = {
   id: "01a06802-9331-7008-bb33-49c6381eabf6",
-  type: "show",
+  type: "page-type/show",
   slug: "babylon-5",
   title: "Babylon 5",
   partOfCollections: ["fandom/babylon-5-2"],

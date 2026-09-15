@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const runaways = {
   id: "01a06802-9332-701a-896c-0975c653b0e6",
-  type: "show",
+  type: "page-type/show",
   slug: "runaways",
   title: "Runaways",
   partOfCollections: ["fandom/marvel-television"],

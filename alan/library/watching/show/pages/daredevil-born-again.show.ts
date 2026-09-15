@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const daredevilBornAgain = {
   id: "01a06802-9331-7018-8a1b-d262fe2ccc4e",
-  type: "show",
+  type: "page-type/show",
   slug: "daredevil-born-again",
   title: "Daredevil: Born Again",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

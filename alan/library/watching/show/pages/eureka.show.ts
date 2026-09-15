@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const eureka = {
   id: "01a06802-9331-7022-ac66-a13e868ec5b6",
-  type: "show",
+  type: "page-type/show",
   slug: "eureka",
   title: "Eureka",
   partOfCollections: ["show-collection/speculative-antholoagies"],

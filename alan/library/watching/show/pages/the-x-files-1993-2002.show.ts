@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const theXFiles19932002 = {
   id: "01a06802-9333-7009-b8bd-40e766154cf3",
-  type: "show",
+  type: "page-type/show",
   slug: "the-x-files-1993-2002",
   title: "The X-Files (1993-2002)",
   partOfCollections: ["show-collection/x-files"],

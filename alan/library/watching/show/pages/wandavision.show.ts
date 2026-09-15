@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const wandavision = {
   id: "01a06802-9333-700c-9f9d-4e3ed12c2e92",
-  type: "show",
+  type: "page-type/show",
   slug: "wandavision",
   title: "WandaVision",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

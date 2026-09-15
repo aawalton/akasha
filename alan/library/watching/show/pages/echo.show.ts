@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const echo = {
   id: "01a06802-9331-701f-93b2-c8c22ccde51c",
-  type: "show",
+  type: "page-type/show",
   slug: "echo",
   title: "Echo",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

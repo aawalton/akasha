@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const starTrekDeepSpaceNine = {
   id: "01a06802-9332-7027-b141-6c49829dd910",
-  type: "show",
+  type: "page-type/show",
   slug: "star-trek-deep-space-nine",
   title: "Star Trek: Deep Space Nine",
   partOfCollections: ["fandom/star-trek-3"],

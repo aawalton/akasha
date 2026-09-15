@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const crusade = {
   id: "01a06802-9331-7016-9660-5f9b6da966e1",
-  type: "show",
+  type: "page-type/show",
   slug: "crusade",
   title: "Crusade",
   partOfCollections: ["fandom/babylon-5-2"],

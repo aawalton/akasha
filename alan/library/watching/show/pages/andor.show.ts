@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const andor = {
   id: "01a06802-9331-7005-b34b-e628e5eba5a9",
-  type: "show",
+  type: "page-type/show",
   slug: "andor",
   title: "Andor",
   partOfCollections: ["fandom/star-wars-2"],

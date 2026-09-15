@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const starWarsTalesOfTheJedi = {
   id: "01a06802-9332-7034-9508-8522d27666d9",
-  type: "show",
+  type: "page-type/show",
   slug: "star-wars-tales-of-the-jedi",
   title: "Star Wars: Tales of the Jedi",
   partOfCollections: ["fandom/star-wars-2"],

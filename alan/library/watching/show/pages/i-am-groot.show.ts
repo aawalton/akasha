@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const iAmGroot = {
   id: "01a06802-9332-7001-b04f-c284323ae471",
-  type: "show",
+  type: "page-type/show",
   slug: "i-am-groot",
   title: "I Am Groot",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

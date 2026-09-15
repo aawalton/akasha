@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const marvelZombies = {
   id: "01a06802-9332-7009-bfe5-9d16dfa41801",
-  type: "show",
+  type: "page-type/show",
   slug: "marvel-zombies",
   title: "Marvel Zombies",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

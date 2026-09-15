@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const houseOfTheDragon = {
   id: "01a06802-9332-7000-886d-5b74a9c8a6ef",
-  type: "show",
+  type: "page-type/show",
   slug: "house-of-the-dragon",
   title: "House of the Dragon",
   partOfCollections: ["fandom/game-of-thrones-2"],

@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const cloakAndDagger = {
   id: "01a06802-9331-7011-8e99-155246c47b6e",
-  type: "show",
+  type: "page-type/show",
   slug: "cloak-and-dagger",
   title: "Cloak & Dagger",
   partOfCollections: ["fandom/marvel-television"],

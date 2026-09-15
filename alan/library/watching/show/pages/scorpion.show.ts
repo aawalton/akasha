@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const scorpion = {
   id: "01a06802-9332-701e-9723-78bc22667366",
-  type: "show",
+  type: "page-type/show",
   slug: "scorpion",
   title: "Scorpion",
   partOfCollections: ["show-collection/crime-investigation-shows"],

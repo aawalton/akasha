@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const ahsoka = {
   id: "01a06802-9331-7004-bb3e-0cc318b540b4",
-  type: "show",
+  type: "page-type/show",
   slug: "ahsoka",
   title: "Ahsoka",
   partOfCollections: ["fandom/star-wars-2"],

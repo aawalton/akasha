@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const theSarahJaneAdventures = {
   id: "01a06802-9333-7002-baa3-013325e48f15",
-  type: "show",
+  type: "page-type/show",
   slug: "the-sarah-jane-adventures",
   title: "The Sarah Jane Adventures",
   partOfCollections: ["fandom/doctor-who"],

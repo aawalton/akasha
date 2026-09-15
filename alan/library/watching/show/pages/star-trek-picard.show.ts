@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const starTrekPicard = {
   id: "01a06802-9332-702b-82c2-0d21d3814d8d",
-  type: "show",
+  type: "page-type/show",
   slug: "star-trek-picard",
   title: "Star Trek: Picard",
   partOfCollections: ["fandom/star-trek-3"],

@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const theLordOfTheRingsTheRingsOfPower = {
   id: "01a06802-9332-704b-8bd3-6d3b47c20b4f",
-  type: "show",
+  type: "page-type/show",
   slug: "the-lord-of-the-rings-the-rings-of-power",
   title: "The Lord of the Rings: The Rings of Power",
   partOfCollections: ["show-collection/the-lord-of-the-rings-shows"],

@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const downtonAbbey = {
   id: "01a06802-9331-701d-aa44-e374b1434641",
-  type: "show",
+  type: "page-type/show",
   slug: "downton-abbey",
   title: "Downton Abbey",
   partOfCollections: ["show-collection/sitcoms"],

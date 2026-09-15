@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const accelWorld2 = {
   id: "01a06802-9331-7000-857f-7257b49b7619",
-  type: "show",
+  type: "page-type/show",
   slug: "accel-world-2",
   title: "Accel World",
   partOfCollections: ["fandom/accel-world"],

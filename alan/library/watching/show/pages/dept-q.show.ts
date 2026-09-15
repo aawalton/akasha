@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const deptQ = {
   id: "01a06802-9331-7019-b91d-07a999ffa900",
-  type: "show",
+  type: "page-type/show",
   slug: "dept-q",
   title: "Dept. Q",
   partOfCollections: ["show-collection/crime-investigation-shows"],

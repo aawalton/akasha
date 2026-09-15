@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const starTrekTheNextGeneration = {
   id: "01a06802-9332-7030-a2a0-00e89b525515",
-  type: "show",
+  type: "page-type/show",
   slug: "star-trek-the-next-generation",
   title: "Star Trek: The Next Generation",
   partOfCollections: ["fandom/star-trek-3"],

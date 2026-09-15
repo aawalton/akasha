@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const k9 = {
   id: "01a06802-9332-7006-a7c1-5478b0adcc79",
-  type: "show",
+  type: "page-type/show",
   slug: "k-9",
   title: "K-9",
   partOfCollections: ["fandom/doctor-who"],

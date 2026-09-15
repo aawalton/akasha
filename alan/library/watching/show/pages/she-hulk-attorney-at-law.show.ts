@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const sheHulkAttorneyAtLaw = {
   id: "01a06802-9332-7021-a720-a02b3dbf6047",
-  type: "show",
+  type: "page-type/show",
   slug: "she-hulk-attorney-at-law",
   title: "She-Hulk: Attorney at Law",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

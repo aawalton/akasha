@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const starWarsTheBadBatch = {
   id: "01a06802-9332-7035-bff6-868562b45cd1",
-  type: "show",
+  type: "page-type/show",
   slug: "star-wars-the-bad-batch",
   title: "Star Wars: The Bad Batch",
   partOfCollections: ["fandom/star-wars-2"],

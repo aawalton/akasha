@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const parksAndRecreation = {
   id: "01a06802-9332-7014-a430-a9dc9a13d739",
-  type: "show",
+  type: "page-type/show",
   slug: "parks-and-recreation",
   title: "Parks and Recreation",
   partOfCollections: ["show-collection/sitcoms"],

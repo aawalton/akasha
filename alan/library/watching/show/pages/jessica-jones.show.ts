@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const jessicaJones = {
   id: "01a06802-9332-7005-bc03-be4d4adbd25f",
-  type: "show",
+  type: "page-type/show",
   slug: "jessica-jones",
   title: "Jessica Jones",
   partOfCollections: ["fandom/marvel-television"],

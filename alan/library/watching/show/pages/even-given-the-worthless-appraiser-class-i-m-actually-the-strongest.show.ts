@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const evenGivenTheWorthlessAppraiserClassIMActuallyTheStrongest = {
   id: "01a06802-9331-7023-8dd6-5020a3d47aaf",
-  type: "show",
+  type: "page-type/show",
   slug: "even-given-the-worthless-appraiser-class-i-m-actually-the-strongest",
   title: 'Even Given the Worthless "Appraiser" Class, I\'m Actually the Strongest',
   partOfCollections: ["show-collection/anime-shows"],

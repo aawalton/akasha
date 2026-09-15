@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const rwbyFairyTales = {
   id: "01a06802-9332-701d-a571-8e626b7b06b7",
-  type: "show",
+  type: "page-type/show",
   slug: "rwby-fairy-tales",
   title: "RWBY: Fairy Tales",
   partOfCollections: ["fandom/rwby"],

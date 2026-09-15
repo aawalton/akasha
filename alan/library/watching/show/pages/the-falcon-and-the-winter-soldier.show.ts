@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const theFalconAndTheWinterSoldier = {
   id: "01a06802-9332-7048-b921-cc93e922b6ad",
-  type: "show",
+  type: "page-type/show",
   slug: "the-falcon-and-the-winter-soldier",
   title: "The Falcon and the Winter Soldier",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const wednesday = {
   id: "01a06802-9333-700e-9d40-1efa47023a87",
-  type: "show",
+  type: "page-type/show",
   slug: "wednesday",
   title: "Wednesday",
   partOfCollections: ["show-collection/award-winning-shows"],

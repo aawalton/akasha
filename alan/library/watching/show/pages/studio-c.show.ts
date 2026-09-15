@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const studioC = {
   id: "01a06802-9332-703e-bf45-659f474888d4",
-  type: "show",
+  type: "page-type/show",
   slug: "studio-c",
   title: "Studio C",
   partOfCollections: ["show-collection/comedy-shows", "show-collection/watch-with-lizzy"],

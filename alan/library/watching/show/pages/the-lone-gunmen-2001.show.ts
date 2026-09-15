@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const theLoneGunmen2001 = {
   id: "01a06802-9332-704a-8a48-3500c96e9004",
-  type: "show",
+  type: "page-type/show",
   slug: "the-lone-gunmen-2001",
   title: "The Lone Gunmen (2001)",
   partOfCollections: ["show-collection/x-files"],

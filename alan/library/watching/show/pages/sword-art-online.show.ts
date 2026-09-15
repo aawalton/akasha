@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const swordArtOnline = {
   id: "019ea442-6715-7476-b42a-c5104a8d12e5",
-  type: "show",
+  type: "page-type/show",
   slug: "sword-art-online",
   title: "Sword Art Online",
   description:

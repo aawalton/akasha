@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const gravityFalls = {
   id: "01a06802-9331-702c-b050-bde2ea2b2bf2",
-  type: "show",
+  type: "page-type/show",
   slug: "gravity-falls",
   title: "Gravity Falls",
   partOfCollections: ["show-collection/family-friendly-shows"],

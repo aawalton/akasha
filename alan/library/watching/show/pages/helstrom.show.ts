@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const helstrom = {
   id: "01a06802-9331-702e-b4b4-921d71c00856",
-  type: "show",
+  type: "page-type/show",
   slug: "helstrom",
   title: "Helstrom",
   partOfCollections: ["fandom/marvel-television"],

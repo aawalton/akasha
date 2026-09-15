@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const moonKnight = {
   id: "01a06802-9332-700a-a1ac-2bf0213339a9",
-  type: "show",
+  type: "page-type/show",
   slug: "moon-knight",
   title: "Moon Knight",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

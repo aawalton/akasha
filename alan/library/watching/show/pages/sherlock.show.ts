@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const sherlock = {
   id: "01a06802-9332-7022-ab51-34f4a94947dc",
-  type: "show",
+  type: "page-type/show",
   slug: "sherlock",
   title: "Sherlock",
   partOfCollections: ["show-collection/crime-investigation-shows"],

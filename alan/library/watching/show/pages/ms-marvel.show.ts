@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const msMarvel = {
   id: "01a06802-9332-700b-8722-e329ec7e146e",
-  type: "show",
+  type: "page-type/show",
   slug: "ms-marvel",
   title: "Ms. Marvel",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

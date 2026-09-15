@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const stargateSg1 = {
   id: "01a06802-9332-703a-ae25-02697925f8e3",
-  type: "show",
+  type: "page-type/show",
   slug: "stargate-sg-1",
   title: "Stargate SG-1",
   partOfCollections: ["fandom/stargate-2"],

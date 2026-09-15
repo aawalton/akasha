@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const theWheelOfTimeOrigins = {
   id: "01a06802-9333-7008-ba07-5cbeb4405e43",
-  type: "show",
+  type: "page-type/show",
   slug: "the-wheel-of-time-origins",
   title: "The Wheel of Time: Origins",
   partOfCollections: ["fandom/the-wheel-of-time-2"],

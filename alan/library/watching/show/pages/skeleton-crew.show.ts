@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const skeletonCrew = {
   id: "01a06802-9332-7023-b0a7-7e362e47fd14",
-  type: "show",
+  type: "page-type/show",
   slug: "skeleton-crew",
   title: "Skeleton Crew",
   partOfCollections: ["fandom/star-wars-2"],

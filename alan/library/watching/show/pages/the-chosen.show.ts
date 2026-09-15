@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const theChosen = {
   id: "01a06802-9332-7044-ba34-6521f4f44287",
-  type: "show",
+  type: "page-type/show",
   slug: "the-chosen",
   title: "The Chosen",
   partOfCollections: ["show-collection/award-winning-shows"],

@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const hawkeye = {
   id: "01a06802-9331-702d-b007-506640a3957c",
-  type: "show",
+  type: "page-type/show",
   slug: "hawkeye",
   title: "Hawkeye",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

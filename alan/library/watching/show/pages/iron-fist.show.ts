@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const ironFist = {
   id: "01a06802-9332-7003-96d2-c9c78222e785",
-  type: "show",
+  type: "page-type/show",
   slug: "iron-fist",
   title: "Iron Fist",
   partOfCollections: ["fandom/marvel-television"],

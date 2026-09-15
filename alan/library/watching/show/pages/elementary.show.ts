@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const elementary = {
   id: "01a06802-9331-7021-98fc-a4ff176620c5",
-  type: "show",
+  type: "page-type/show",
   slug: "elementary",
   title: "Elementary",
   partOfCollections: ["show-collection/crime-investigation-shows"],

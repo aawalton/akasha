@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const doctorWho2005 = {
   id: "01a06802-9331-701c-84e0-4911261cc004",
-  type: "show",
+  type: "page-type/show",
   slug: "doctor-who-2005",
   title: "Doctor Who (2005)",
   partOfCollections: ["fandom/doctor-who"],

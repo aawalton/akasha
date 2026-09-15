@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const showClass = {
   id: "01a06802-9331-7010-ba51-c0d25803c45e",
-  type: "show",
+  type: "page-type/show",
   slug: "show-class",
   title: "Class",
   partOfCollections: ["fandom/doctor-who"],

@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const upload = {
   id: "01a06802-9333-700b-9e2d-443f54b562cb",
-  type: "show",
+  type: "page-type/show",
   slug: "upload",
   title: "Upload",
   partOfCollections: ["show-collection/science-fiction-shows"],

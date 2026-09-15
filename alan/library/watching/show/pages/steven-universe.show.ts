@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const stevenUniverse = {
   id: "01a06802-9332-703c-8150-160c00975384",
-  type: "show",
+  type: "page-type/show",
   slug: "steven-universe",
   title: "Steven Universe",
   partOfCollections: ["show-collection/cultural-literacy"],

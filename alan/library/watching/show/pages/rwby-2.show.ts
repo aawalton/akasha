@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const rwby2 = {
   id: "01a06802-9332-701c-b9ba-0b05d7b34b33",
-  type: "show",
+  type: "page-type/show",
   slug: "rwby-2",
   title: "RWBY",
   partOfCollections: ["fandom/rwby"],

@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const whiteCollar = {
   id: "01a06802-9333-700f-b80e-6cbe38f0ebda",
-  type: "show",
+  type: "page-type/show",
   slug: "white-collar",
   title: "White Collar",
   partOfCollections: [

@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const battlestarGalactica1978 = {
   id: "01a06802-9331-7009-a6f9-d1d2ee9c7cef",
-  type: "show",
+  type: "page-type/show",
   slug: "battlestar-galactica-1978",
   title: "Battlestar Galactica (1978)",
   partOfCollections: ["fandom/battlestar-galactica"],

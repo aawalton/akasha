@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const starTrekStrangeNewWorlds = {
   id: "01a06802-9332-702e-82d4-997bd82a0e4f",
-  type: "show",
+  type: "page-type/show",
   slug: "star-trek-strange-new-worlds",
   title: "Star Trek: Strange New Worlds",
   partOfCollections: ["fandom/star-trek-3"],

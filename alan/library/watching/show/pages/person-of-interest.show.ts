@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const personOfInterest = {
   id: "01a06802-9332-7016-86c3-6bc4582323ae",
-  type: "show",
+  type: "page-type/show",
   slug: "person-of-interest",
   title: "Person of Interest",
   partOfCollections: ["show-collection/science-fiction-shows"],

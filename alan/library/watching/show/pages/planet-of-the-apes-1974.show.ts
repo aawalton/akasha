@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const planetOfTheApes1974 = {
   id: "01a06802-9332-7017-abbb-01d66280e3ae",
-  type: "show",
+  type: "page-type/show",
   slug: "planet-of-the-apes-1974",
   title: "Planet of the Apes (1974)",
   partOfCollections: ["fandom/planet-of-the-apes-2"],

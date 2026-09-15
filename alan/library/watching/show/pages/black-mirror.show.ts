@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const blackMirror = {
   id: "01a06802-9331-700b-997a-b4fca1a11bde",
-  type: "show",
+  type: "page-type/show",
   slug: "black-mirror",
   title: "Black Mirror",
   partOfCollections: ["show-collection/speculative-antholoagies"],

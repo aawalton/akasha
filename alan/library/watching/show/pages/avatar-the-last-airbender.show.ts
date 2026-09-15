@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const avatarTheLastAirbender = {
   id: "01a06802-9331-7007-95e3-b9560ead3f8a",
-  type: "show",
+  type: "page-type/show",
   slug: "avatar-the-last-airbender",
   title: "Avatar: The Last Airbender",
   partOfCollections: ["show-collection/family-friendly-shows"],

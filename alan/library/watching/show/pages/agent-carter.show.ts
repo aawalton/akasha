@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const agentCarter = {
   id: "01a06802-9331-7002-84e4-94d1056ceb8e",
-  type: "show",
+  type: "page-type/show",
   slug: "agent-carter",
   title: "Agent Carter",
   partOfCollections: ["fandom/marvel-television"],

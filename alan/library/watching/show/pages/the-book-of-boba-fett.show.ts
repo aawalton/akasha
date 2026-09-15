@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const theBookOfBobaFett = {
   id: "01a06802-9332-7043-a5ec-8a5c8e3162a2",
-  type: "show",
+  type: "page-type/show",
   slug: "the-book-of-boba-fett",
   title: "The Book of Boba Fett",
   partOfCollections: ["fandom/star-wars-2"],

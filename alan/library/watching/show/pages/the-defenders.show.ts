@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const theDefenders = {
   id: "01a06802-9332-7045-8b44-b0f22d08a7a8",
-  type: "show",
+  type: "page-type/show",
   slug: "the-defenders",
   title: "The Defenders",
   partOfCollections: ["fandom/marvel-television"],

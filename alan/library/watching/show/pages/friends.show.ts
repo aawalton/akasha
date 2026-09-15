@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const friends = {
   id: "01a06802-9331-7027-a7a5-c33a3e8acd9d",
-  type: "show",
+  type: "page-type/show",
   slug: "friends",
   title: "Friends",
   partOfCollections: ["show-collection/sitcoms"],

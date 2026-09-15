@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const bluey = {
   id: "01a06802-9331-700c-844b-973b801b3349",
-  type: "show",
+  type: "page-type/show",
   slug: "bluey",
   title: "Bluey",
   partOfCollections: ["show-collection/family-friendly-shows"],

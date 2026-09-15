@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const starTrekTheAnimatedSeries = {
   id: "01a06802-9332-702f-9cb5-29fad1a92fae",
-  type: "show",
+  type: "page-type/show",
   slug: "star-trek-the-animated-series",
   title: "Star Trek: The Animated Series",
   partOfCollections: ["fandom/star-trek-3"],

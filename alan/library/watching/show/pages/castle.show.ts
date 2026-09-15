@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const castle = {
   id: "01a06802-9331-700f-9ea8-79acf4cfa58c",
-  type: "show",
+  type: "page-type/show",
   slug: "castle",
   title: "Castle",
   partOfCollections: [

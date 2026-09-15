@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const ironheart = {
   id: "01a06802-9332-7004-b436-5f6a0fdfa1fc",
-  type: "show",
+  type: "page-type/show",
   slug: "ironheart",
   title: "Ironheart",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

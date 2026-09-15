@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const theOffice = {
   id: "01a06802-9332-704e-9a9b-1dd4aa74293f",
-  type: "show",
+  type: "page-type/show",
   slug: "the-office",
   title: "The Office",
   partOfCollections: ["show-collection/sitcoms"],

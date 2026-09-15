@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const soloLeveling = {
   id: "01a06802-9332-7024-9e9e-92e3d89e77c3",
-  type: "show",
+  type: "page-type/show",
   slug: "solo-leveling",
   title: "Solo Leveling",
   partOfCollections: ["show-collection/anime-shows"],

@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const secretInvasion = {
   id: "01a06802-9332-701f-bb5d-f71d5f032575",
-  type: "show",
+  type: "page-type/show",
   slug: "secret-invasion",
   title: "Secret Invasion",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const starWarsResistance = {
   id: "01a06802-9332-7033-93b1-0840063ce7ee",
-  type: "show",
+  type: "page-type/show",
   slug: "star-wars-resistance",
   title: "Star Wars Resistance",
   partOfCollections: ["fandom/star-wars-2"],

@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const squidGame = {
   id: "01a06802-9332-7025-a175-c90f86683f15",
-  type: "show",
+  type: "page-type/show",
   slug: "squid-game",
   title: "Squid Game",
   partOfCollections: ["show-collection/science-fiction-shows"],

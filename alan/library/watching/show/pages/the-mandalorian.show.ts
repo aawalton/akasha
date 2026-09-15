@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const theMandalorian = {
   id: "01a06802-9332-704c-8f8d-c57201f82d6a",
-  type: "show",
+  type: "page-type/show",
   slug: "the-mandalorian",
   title: "The Mandalorian",
   partOfCollections: ["fandom/star-wars-2"],

@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const frankHerbertSDune = {
   id: "01a06802-9331-7026-8d4c-fbf74857c382",
-  type: "show",
+  type: "page-type/show",
   slug: "frank-herbert-s-dune",
   title: "Frank Herbert's Dune",
   partOfCollections: ["fandom/dune-2"],

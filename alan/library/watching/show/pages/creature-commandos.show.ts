@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const creatureCommandos = {
   id: "01a06802-9331-7013-bd23-e5bcbc864db4",
-  type: "show",
+  type: "page-type/show",
   slug: "creature-commandos",
   title: "Creature Commandos",
   partOfCollections: ["fandom/dc-universe"],

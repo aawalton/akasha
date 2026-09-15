@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const ncisOrigins = {
   id: "01a06802-9332-7010-8b0b-c351e681cc37",
-  type: "show",
+  type: "page-type/show",
   slug: "ncis-origins",
   title: "NCIS: Origins",
   partOfCollections: ["show-collection/ncis-2"],

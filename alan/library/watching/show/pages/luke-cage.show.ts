@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const lukeCage = {
   id: "01a06802-9332-7007-8220-a6c45b6077b0",
-  type: "show",
+  type: "page-type/show",
   slug: "luke-cage",
   title: "Luke Cage",
   partOfCollections: ["fandom/marvel-television"],

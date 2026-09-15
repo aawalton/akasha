@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const theAcolyte = {
   id: "01a06802-9332-7041-914f-5b6bcd175b90",
-  type: "show",
+  type: "page-type/show",
   slug: "the-acolyte",
   title: "The Acolyte",
   partOfCollections: ["fandom/star-wars-2"],

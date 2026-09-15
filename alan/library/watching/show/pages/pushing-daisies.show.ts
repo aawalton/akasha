@@ -2,7 +2,7 @@ import type { Show } from "akasha/alan/library/watching/show/show.page-type.type
 
 export const pushingDaisies = {
   id: "01a06802-9332-7018-a2e6-fc08269c1842",
-  type: "show",
+  type: "page-type/show",
   slug: "pushing-daisies",
   title: "Pushing Daisies",
   partOfCollections: [
