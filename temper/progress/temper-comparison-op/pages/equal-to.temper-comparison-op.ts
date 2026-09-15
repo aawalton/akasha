@@ -2,7 +2,7 @@ import type { TemperComparisonOp } from "akasha/temper/progress/temper-compariso
 
 export const equalTo = {
   id: "01a05fc9-c60e-7c90-9eee-7d1daecfb7d8",
-  type: "temper-comparison-op",
+  type: "page-type/temper-comparison-op",
   slug: "equal-to",
   title: "=",
   key: "=",
