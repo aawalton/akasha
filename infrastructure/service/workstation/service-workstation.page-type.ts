@@ -10,6 +10,7 @@ export const serviceWorkstation = {
     "boolean-property/catch-up",
     "boolean-property/enabled",
     "boolean-property/needs-secrets",
+    "boolean-property/told",
     "boolean-property/well",
     "instant-property/looked-at",
     "instant-property/worked-at",
@@ -87,6 +88,7 @@ export const serviceWorkstation = {
       uncommitted: true,
     },
     { pageProperty: "module-property-group/running", required: false, many: false },
+    { pageProperty: "boolean-property/told", required: false, many: false },
   ],
   invariants: [
     {

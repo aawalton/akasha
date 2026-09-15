@@ -121,6 +121,7 @@
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"temporary","propertySlug":"temporary","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"ti-clean","propertySlug":"ti-clean","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"to-do-anchored-from-completion","propertySlug":"to-do-anchored-from-completion","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"told","propertySlug":"told","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"tool-resolves-paths","propertySlug":"tool-resolves-paths","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"trains-lengthened-range","propertySlug":"trains-lengthened-range","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"transitive","propertySlug":"transitive","fileName":null,"folderName":null,"sorted":false}
