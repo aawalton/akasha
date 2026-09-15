@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const suspendedFallout = {
   id: "019ebc78-a782-78d7-acff-ab3f703fefd1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "suspended-fallout",
   title: "Suspended Fallout",
   exerciseCategory: "strength",

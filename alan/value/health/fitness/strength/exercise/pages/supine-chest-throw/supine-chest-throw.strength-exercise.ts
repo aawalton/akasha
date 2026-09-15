@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const supineChestThrow = {
   id: "019ebc78-a6ae-7595-9eef-3272c77b7ff8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "supine-chest-throw",
   title: "Supine Chest Throw",
   exerciseCategory: "plyometrics",

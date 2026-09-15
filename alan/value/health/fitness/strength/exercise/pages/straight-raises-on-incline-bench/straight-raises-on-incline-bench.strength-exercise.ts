@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const straightRaisesOnInclineBench = {
   id: "019ebc78-a522-7884-b8fa-b785b0de48a1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "straight-raises-on-incline-bench",
   title: "Straight Raises on Incline Bench",
   exerciseCategory: "strength",

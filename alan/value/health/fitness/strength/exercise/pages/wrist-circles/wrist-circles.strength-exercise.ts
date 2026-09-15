@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const wristCircles = {
   id: "019ebc78-c270-70dd-8361-1eaf91edd9f0",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "wrist-circles",
   title: "Wrist Circles",
   exerciseCategory: "stretching",

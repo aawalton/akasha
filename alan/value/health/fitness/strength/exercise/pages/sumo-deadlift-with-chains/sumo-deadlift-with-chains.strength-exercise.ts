@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sumoDeadliftWithChains = {
   id: "019ebc78-a629-7869-b099-fe6b022641ed",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "sumo-deadlift-with-chains",
   title: "Sumo Deadlift with Chains",
   exerciseCategory: "powerlifting",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const torsoRotation = {
   id: "019ebc78-aac7-7795-aa3c-e0c14970a013",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "torso-rotation",
   title: "Torso Rotation",
   exerciseCategory: "stretching",

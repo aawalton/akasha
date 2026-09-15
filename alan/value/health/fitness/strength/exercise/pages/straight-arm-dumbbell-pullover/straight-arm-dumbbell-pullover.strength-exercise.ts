@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const straightArmDumbbellPullover = {
   id: "019ebc78-a45f-7cc9-8744-a2d95a77a44d",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "straight-arm-dumbbell-pullover",
   title: "Straight-Arm Dumbbell Pullover",
   exerciseCategory: "strength",

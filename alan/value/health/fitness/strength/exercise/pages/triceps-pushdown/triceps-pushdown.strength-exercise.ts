@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const tricepsPushdown = {
   id: "019ebc78-ac3c-766f-8307-61167a68abba",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "triceps-pushdown",
   title: "Triceps Pushdown",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const tricepsPushdownVBarAttachment = {
   id: "019ebc78-acca-7ad0-95da-b9cd413a9f3f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "triceps-pushdown-v-bar-attachment",
   title: "Triceps Pushdown - V-Bar Attachment",
   exerciseCategory: "strength",

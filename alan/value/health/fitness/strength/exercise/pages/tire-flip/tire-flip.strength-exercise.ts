@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const tireFlip = {
   id: "019ebc78-aa50-7399-9e6e-4ff4e504087f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "tire-flip",
   title: "Tire Flip",
   exerciseCategory: "strongman",

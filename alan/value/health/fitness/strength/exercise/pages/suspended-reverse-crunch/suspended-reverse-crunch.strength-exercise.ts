@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const suspendedReverseCrunch = {
   id: "019ebc78-a80b-7e08-bb4c-e2b4e72bc3de",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "suspended-reverse-crunch",
   title: "Suspended Reverse Crunch",
   exerciseCategory: "strength",

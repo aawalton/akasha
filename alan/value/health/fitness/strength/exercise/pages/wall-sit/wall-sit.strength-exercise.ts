@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const wallSit = {
   id: "019efbfe-eadb-7eee-9280-975810ea4813",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "wall-sit",
   title: "Wall Sit",
   exerciseCategory: "strength",

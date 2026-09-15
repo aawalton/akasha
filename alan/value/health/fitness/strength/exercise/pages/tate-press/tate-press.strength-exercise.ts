@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const tatePress = {
   id: "019ebc78-a950-79ee-93f2-54f59222234f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "tate-press",
   title: "Tate Press",
   exerciseCategory: "strength",

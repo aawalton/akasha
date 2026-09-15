@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const vBarPullup = {
   id: "019ebc78-b3dc-7a1d-bd26-de190a0a5a0e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "v-bar-pullup",
   title: "V-Bar Pullup",
   exerciseCategory: "strength",

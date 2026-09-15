@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const thighAbductor = {
   id: "019ebc78-a9d1-7562-aafa-3bfa475043e7",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "thigh-abductor",
   title: "Thigh Abductor",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const weightedCrunches = {
   id: "019ebc78-b639-7b4c-9d5f-31528e8a086e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "weighted-crunches",
   title: "Weighted Crunches",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const worldsGreatestStretch = {
   id: "019ebc78-c200-7120-8d31-bb685b629d65",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "worlds-greatest-stretch",
   title: "World's Greatest Stretch",
   exerciseCategory: "stretching",

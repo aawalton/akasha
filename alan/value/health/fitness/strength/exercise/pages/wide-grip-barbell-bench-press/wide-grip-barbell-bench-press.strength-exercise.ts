@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const wideGripBarbellBenchPress = {
   id: "019ebc78-b7a6-7a41-b648-d7f56bdb8619",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "wide-grip-barbell-bench-press",
   title: "Wide-Grip Barbell Bench Press",
   exerciseCategory: "strength",

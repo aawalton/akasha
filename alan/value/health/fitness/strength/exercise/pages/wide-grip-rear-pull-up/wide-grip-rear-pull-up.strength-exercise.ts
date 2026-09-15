@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const wideGripRearPullUp = {
   id: "019ebc78-b8da-7a95-a0ed-dd320e6ce4d2",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "wide-grip-rear-pull-up",
   title: "Wide-Grip Rear Pull-Up",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const wideGripStandingBarbellCurl = {
   id: "019ebc78-b91a-7b98-b9bc-5afa3eed5b4f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "wide-grip-standing-barbell-curl",
   title: "Wide-Grip Standing Barbell Curl",
   exerciseCategory: "strength",

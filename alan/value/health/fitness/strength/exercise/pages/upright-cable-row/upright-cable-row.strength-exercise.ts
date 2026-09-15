@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const uprightCableRow = {
   id: "019ebc78-b2c1-7b92-a6cd-fe7679726432",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "upright-cable-row",
   title: "Upright Cable Row",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const underhandCablePulldowns = {
   id: "019ebc78-aee3-7d9c-ba50-850bc3c9e0d9",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "underhand-cable-pulldowns",
   title: "Underhand Cable Pulldowns",
   exerciseCategory: "strength",

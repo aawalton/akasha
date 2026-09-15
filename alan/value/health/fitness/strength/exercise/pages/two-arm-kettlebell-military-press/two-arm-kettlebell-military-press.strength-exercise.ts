@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const twoArmKettlebellMilitaryPress = {
   id: "019ebc78-ae56-7478-83f7-8ca0d5d3e029",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "two-arm-kettlebell-military-press",
   title: "Two-Arm Kettlebell Military Press",
   exerciseCategory: "strength",

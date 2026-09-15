@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const suspendedRow = {
   id: "019ebc78-a84a-7d19-ae49-0f6a81659ef6",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "suspended-row",
   title: "Suspended Row",
   exerciseCategory: "strength",

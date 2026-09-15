@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const suspendedPushUp = {
   id: "019ebc78-a7ca-7bb9-beb1-a49254e0d660",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "suspended-push-up",
   title: "Suspended Push-Up",
   exerciseCategory: "strength",

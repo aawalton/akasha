@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const zercherSquats = {
   id: "019ebc78-c37d-7fb7-92fd-3a6555107872",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "zercher-squats",
   title: "Zercher Squats",
   exerciseCategory: "strength",

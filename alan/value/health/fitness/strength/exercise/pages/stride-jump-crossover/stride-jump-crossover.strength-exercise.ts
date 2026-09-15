@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const strideJumpCrossover = {
   id: "019ebc78-a565-7423-b10c-f812221c569b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "stride-jump-crossover",
   title: "Stride Jump Crossover",
   exerciseCategory: "plyometrics",

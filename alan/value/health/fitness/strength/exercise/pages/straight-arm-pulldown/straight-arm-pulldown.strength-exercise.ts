@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const straightArmPulldown = {
   id: "019ebc78-a4a8-7189-8879-0d3af3bd790e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "straight-arm-pulldown",
   title: "Straight-Arm Pulldown",
   exerciseCategory: "strength",

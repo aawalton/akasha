@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const yokeWalk = {
   id: "019ebc78-c33a-7272-98f6-5780fef3d98c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "yoke-walk",
   title: "Yoke Walk",
   exerciseCategory: "strongman",

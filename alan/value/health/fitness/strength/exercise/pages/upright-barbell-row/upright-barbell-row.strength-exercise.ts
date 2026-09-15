@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const uprightBarbellRow = {
   id: "019ebc78-afa4-7d75-891f-49e0c73170ea",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "upright-barbell-row",
   title: "Upright Barbell Row",
   exerciseCategory: "strength",

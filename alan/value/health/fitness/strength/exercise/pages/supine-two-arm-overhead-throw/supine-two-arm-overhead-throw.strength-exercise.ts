@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const supineTwoArmOverheadThrow = {
   id: "019ebc78-a73c-7b74-9abf-99cc04f60e1e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "supine-two-arm-overhead-throw",
   title: "Supine Two-Arm Overhead Throw",
   exerciseCategory: "plyometrics",

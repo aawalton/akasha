@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const suspendedSplitSquat = {
   id: "019ebc78-a88f-7564-9bb0-ac30161a25ec",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "suspended-split-squat",
   title: "Suspended Split Squat",
   exerciseCategory: "strength",

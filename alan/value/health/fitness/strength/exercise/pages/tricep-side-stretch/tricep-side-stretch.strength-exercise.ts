@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const tricepSideStretch = {
   id: "019ebc78-abb8-7ccb-a105-5be0cd82385c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "tricep-side-stretch",
   title: "Tricep Side Stretch",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const toeTouchers = {
   id: "019ebc78-aa8e-76fa-8473-8f668fbe4e45",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "toe-touchers",
   title: "Toe Touchers",
   exerciseCategory: "stretching",

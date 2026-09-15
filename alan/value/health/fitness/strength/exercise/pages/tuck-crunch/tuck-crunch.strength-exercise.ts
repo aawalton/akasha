@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const tuckCrunch = {
   id: "019ebc78-ad50-719f-89bb-72aabcc1d002",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "tuck-crunch",
   title: "Tuck Crunch",
   exerciseCategory: "strength",

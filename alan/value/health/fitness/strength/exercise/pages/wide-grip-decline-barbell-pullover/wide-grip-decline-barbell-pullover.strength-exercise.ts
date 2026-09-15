@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const wideGripDeclineBarbellPullover = {
   id: "019ebc78-b81f-76f9-ae91-3aa914d94ed6",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "wide-grip-decline-barbell-pullover",
   title: "Wide-Grip Decline Barbell Pullover",
   exerciseCategory: "strength",

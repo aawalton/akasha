@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const stomachVacuum = {
   id: "019ebc78-a421-71d7-8465-7a7c722ad8cd",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "stomach-vacuum",
   title: "Stomach Vacuum",
   exerciseCategory: "stretching",

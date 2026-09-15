@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const windmills = {
   id: "019ebc78-c1c1-7be3-9c98-76f17029a3ae",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "windmills",
   title: "Windmills",
   exerciseCategory: "stretching",

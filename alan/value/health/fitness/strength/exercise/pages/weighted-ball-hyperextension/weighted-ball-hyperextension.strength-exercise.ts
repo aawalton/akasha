@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const weightedBallHyperextension = {
   id: "019ebc78-b50f-78a4-b525-12cc716845bc",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "weighted-ball-hyperextension",
   title: "Weighted Ball Hyperextension",
   exerciseCategory: "strength",

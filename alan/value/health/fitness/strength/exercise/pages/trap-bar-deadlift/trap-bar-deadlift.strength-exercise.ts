@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const trapBarDeadlift = {
   id: "019ebc78-ab38-7cb6-a784-3f5bf34aa51b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "trap-bar-deadlift",
   title: "Trap Bar Deadlift",
   exerciseCategory: "strength",

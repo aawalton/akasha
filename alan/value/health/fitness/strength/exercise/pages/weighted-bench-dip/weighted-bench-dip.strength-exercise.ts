@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const weightedBenchDip = {
   id: "019ebc78-b58f-7964-8b48-fa359d669f66",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "weighted-bench-dip",
   title: "Weighted Bench Dip",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const zottmanCurl = {
   id: "019ebc78-c3bf-71f5-bfc5-3d0bbf81ba3c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "zottman-curl",
   title: "Zottman Curl",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const wideStanceStiffLegs = {
   id: "019ebc78-c148-7587-a279-6fef81e4a2c8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "wide-stance-stiff-legs",
   title: "Wide Stance Stiff Legs",
   exerciseCategory: "olympic-weightlifting",

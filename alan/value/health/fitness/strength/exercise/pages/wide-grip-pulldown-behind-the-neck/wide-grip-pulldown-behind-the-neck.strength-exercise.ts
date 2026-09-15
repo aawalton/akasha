@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const wideGripPulldownBehindTheNeck = {
   id: "019ebc78-b89f-72fb-8e07-02c0902baeab",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "wide-grip-pulldown-behind-the-neck",
   title: "Wide-Grip Pulldown Behind The Neck",
   exerciseCategory: "strength",

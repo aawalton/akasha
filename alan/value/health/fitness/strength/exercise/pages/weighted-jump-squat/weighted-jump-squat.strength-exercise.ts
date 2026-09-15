@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const weightedJumpSquat = {
   id: "019ebc78-b67a-7f11-9aa2-8715ec4357c7",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "weighted-jump-squat",
   title: "Weighted Jump Squat",
   exerciseCategory: "strength",

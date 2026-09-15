@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sumoDeadlift = {
   id: "019ebc78-a5a4-7170-91d3-6675fc37a296",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "sumo-deadlift",
   title: "Sumo Deadlift",
   exerciseCategory: "powerlifting",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const suitcaseCarry = {
   id: "019f9756-d498-791c-a5e1-963d689c2503",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "suitcase-carry",
   title: "Suitcase Carry",
   exerciseCategory: "strength",

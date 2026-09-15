@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const upperBackLegGrab = {
   id: "019ebc78-af23-7eaa-84c5-5644a1990bfd",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "upper-back-leg-grab",
   title: "Upper Back-Leg Grab",
   exerciseCategory: "stretching",

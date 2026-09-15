@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const trailRunningWalking = {
   id: "019ebc78-ab00-7f28-ba94-a656a15cbb2f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "trail-running-walking",
   title: "Trail Running/Walking",
   exerciseCategory: "cardio",

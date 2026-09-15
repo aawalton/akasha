@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const wristRotationsWithStraightBar = {
   id: "019ebc78-c2f3-7386-9d50-23f7cac5682a",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "wrist-rotations-with-straight-bar",
   title: "Wrist Rotations with Straight Bar",
   exerciseCategory: "strength",

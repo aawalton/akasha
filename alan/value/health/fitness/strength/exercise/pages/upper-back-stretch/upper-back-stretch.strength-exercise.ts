@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const upperBackStretch = {
   id: "019ebc78-af60-7ee4-a837-1e57b72b4033",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "upper-back-stretch",
   title: "Upper Back Stretch",
   exerciseCategory: "stretching",

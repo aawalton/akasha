@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const straightBarBenchMidRows = {
   id: "019ebc78-a4e5-7807-a5f3-8ee48f72494f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "straight-bar-bench-mid-rows",
   title: "Straight Bar Bench Mid Rows",
   exerciseCategory: "strength",

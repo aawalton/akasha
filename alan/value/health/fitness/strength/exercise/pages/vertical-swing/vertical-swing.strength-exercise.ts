@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const verticalSwing = {
   id: "019ebc78-b41e-75cc-9d4e-e1075d358857",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "vertical-swing",
   title: "Vertical Swing",
   exerciseCategory: "plyometrics",
