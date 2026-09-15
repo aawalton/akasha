@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaMusicSongsFromAndInspiredByTheMotionPicture = {
   id: "01a0676a-d725-701e-a428-1976ce0d6e0b",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-music-songs-from-and-inspired-by-the-motion-picture",
   title: "Music (Songs From And Inspired By The Motion Picture)",
   partOfCollections: ["artist/sia"],

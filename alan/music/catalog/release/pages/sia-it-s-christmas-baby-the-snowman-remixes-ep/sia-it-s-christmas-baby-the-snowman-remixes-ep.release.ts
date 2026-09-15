@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaItSChristmasBabyTheSnowmanRemixesEp = {
   id: "01a0676a-d722-700f-b1da-fc3bb60481ee",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-it-s-christmas-baby-the-snowman-remixes-ep",
   title: "It's Christmas, Baby (The Snowman Remixes EP)",
   partOfCollections: ["artist/sia"],

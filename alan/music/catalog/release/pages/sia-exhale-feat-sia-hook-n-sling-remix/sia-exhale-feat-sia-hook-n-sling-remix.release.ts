@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaExhaleFeatSiaHookNSlingRemix = {
   id: "01a0676a-d71d-704b-b9cd-1c887e4df01f",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-exhale-feat-sia-hook-n-sling-remix",
   title: "EXHALE (feat. Sia) [Hook N Sling Remix]",
   partOfCollections: ["artist/sia"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaFlyMeToTheMoonInspiredByFinalFantasyXiv = {
   id: "01a0676a-d71e-7018-b5b5-acdb6190da35",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-fly-me-to-the-moon-inspired-by-final-fantasy-xiv",
   title: "Fly Me To The Moon (Inspired By FINAL FANTASY XIV)",
   partOfCollections: ["artist/sia"],

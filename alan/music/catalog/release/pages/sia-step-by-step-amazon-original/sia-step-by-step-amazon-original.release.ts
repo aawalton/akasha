@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaStepByStepAmazonOriginal = {
   id: "01a0676a-d72a-701d-bdb8-cd1ddd895a9a",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-step-by-step-amazon-original",
   title: "Step By Step (Amazon Original)",
   partOfCollections: ["artist/sia"],

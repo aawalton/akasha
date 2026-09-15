@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaRanjha = {
   id: "01a0a59b-f2ac-7d74-9c41-f84186580b70",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-ranjha",
   ownLength: 3.067633333333333,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaSnowmanSlowedDownSnowedInRemix = {
   id: "01a0676a-d729-703f-af47-20ac196ccb43",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-snowman-slowed-down-snowed-in-remix",
   title: "Snowman (Slowed Down & Snowed In Remix)",
   partOfCollections: ["artist/sia"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaNoNewFriendsRemixes = {
   id: "01a0676a-d725-7065-a55e-a893fb4bf6a7",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-no-new-friends-remixes",
   title: "No New Friends (Remixes)",
   partOfCollections: ["artist/sia"],

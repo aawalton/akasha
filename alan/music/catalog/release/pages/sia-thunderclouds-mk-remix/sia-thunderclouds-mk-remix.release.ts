@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaThundercloudsMkRemix = {
   id: "01a0676a-d72e-7040-b05a-27b5f058f9cd",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-thunderclouds-mk-remix",
   title: "Thunderclouds (MK Remix)",
   partOfCollections: ["artist/sia"],

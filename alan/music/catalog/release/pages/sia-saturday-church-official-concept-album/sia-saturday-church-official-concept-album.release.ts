@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaSaturdayChurchOfficialConceptAlbum = {
   id: "01a0676a-d728-7041-a3e7-21cfb85291f4",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-saturday-church-official-concept-album",
   title: "Saturday Church (Official Concept Album)",
   partOfCollections: ["artist/sia"],

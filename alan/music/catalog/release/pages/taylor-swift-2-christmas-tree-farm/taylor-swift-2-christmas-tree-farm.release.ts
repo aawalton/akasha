@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2ChristmasTreeFarm = {
   id: "01a0676a-d71a-7044-9b3c-e111be33f877",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-christmas-tree-farm",
   title: "Christmas Tree Farm",
   partOfCollections: ["artist/taylor-swift"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaGimmeLoveArminVanBuurenRemix = {
   id: "01a0676a-d71e-705f-a8b3-ab2f1ae7f613",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-gimme-love-armin-van-buuren-remix",
   title: "Gimme Love (Armin van Buuren Remix)",
   partOfCollections: ["artist/sia"],

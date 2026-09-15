@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaFloatingThroughSpaceFeatDavidGuettaHexSiaInSpaceMix = {
   id: "01a0676a-d71e-7014-9048-81faac76bbaf",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-floating-through-space-feat-david-guetta-hex-sia-in-space-mix",
   title: "Floating Through Space (feat. David Guetta) [Hex & Sia In Space Mix]",
   partOfCollections: ["artist/sia"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaGeniusBanxRanxRemixes = {
   id: "01a0676a-d71e-7050-8f23-bfe7eea0c9d4",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-genius-banx-ranx-remixes",
   title: "Genius (Banx & Ranx Remixes)",
   partOfCollections: ["artist/sia"],

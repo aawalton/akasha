@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaLetSLoveDavidGuettaMortenFutureRaveRemix = {
   id: "01a0676a-d723-701f-8693-5d295986fd5e",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-let-s-love-david-guetta-morten-future-rave-remix",
   title: "Let's Love (David Guetta & MORTEN Future Rave Remix)",
   partOfCollections: ["artist/sia"],

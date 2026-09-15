@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaOriginalFromDolittle = {
   id: "01a0676a-d726-7047-855b-7f2f94e1796d",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-original-from-dolittle",
   title: "Original (from Dolittle)",
   partOfCollections: ["artist/sia"],

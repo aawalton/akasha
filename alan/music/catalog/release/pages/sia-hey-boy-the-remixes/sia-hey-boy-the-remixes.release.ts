@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaHeyBoyTheRemixes = {
   id: "01a0676a-d720-7036-b0c5-7ea37aee0c20",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-hey-boy-the-remixes",
   title: "Hey Boy (The Remixes)",
   partOfCollections: ["artist/sia"],

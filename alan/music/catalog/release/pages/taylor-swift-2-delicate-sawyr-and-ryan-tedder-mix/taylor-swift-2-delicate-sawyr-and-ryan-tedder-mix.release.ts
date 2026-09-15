@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2DelicateSawyrAndRyanTedderMix = {
   id: "01a0676a-d71c-7004-965c-6b3db5cdb8b4",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-delicate-sawyr-and-ryan-tedder-mix",
   title: "Delicate (Sawyr And Ryan Tedder Mix)",
   partOfCollections: ["artist/taylor-swift"],

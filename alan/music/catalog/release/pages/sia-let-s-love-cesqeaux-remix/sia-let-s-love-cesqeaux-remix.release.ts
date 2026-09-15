@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaLetSLoveCesqeauxRemix = {
   id: "01a0676a-d723-701e-8873-270014a243ed",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-let-s-love-cesqeaux-remix",
   title: "Let's Love (Cesqeaux Remix)",
   partOfCollections: ["artist/sia"],

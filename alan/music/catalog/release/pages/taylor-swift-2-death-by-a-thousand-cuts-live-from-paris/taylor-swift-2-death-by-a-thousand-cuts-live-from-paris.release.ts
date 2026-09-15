@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2DeathByAThousandCutsLiveFromParis = {
   id: "01a0676a-d71b-7071-a635-8693081bd08a",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-death-by-a-thousand-cuts-live-from-paris",
   title: "Death By A Thousand Cuts (Live From Paris)",
   partOfCollections: ["artist/taylor-swift"],

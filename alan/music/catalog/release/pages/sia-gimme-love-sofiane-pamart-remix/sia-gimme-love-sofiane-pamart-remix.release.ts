@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaGimmeLoveSofianePamartRemix = {
   id: "01a0676a-d71e-7062-a650-87a1f4e3c7d1",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-gimme-love-sofiane-pamart-remix",
   title: "Gimme Love (Sofiane Pamart Remix)",
   partOfCollections: ["artist/sia"],

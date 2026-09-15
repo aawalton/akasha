@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2EyesOpenTaylorSVersion = {
   id: "01a0676a-d71d-705a-ae46-bbf012843cb2",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-eyes-open-taylor-s-version",
   title: "Eyes Open (Taylor's Version)",
   partOfCollections: ["artist/taylor-swift"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2LoverRemixFeatShawnMendes = {
   id: "01a0676a-d724-700c-a07d-6f3c352e954b",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-lover-remix-feat-shawn-mendes",
   title: "Lover (Remix) [feat. Shawn Mendes]",
   partOfCollections: ["artist/taylor-swift"],

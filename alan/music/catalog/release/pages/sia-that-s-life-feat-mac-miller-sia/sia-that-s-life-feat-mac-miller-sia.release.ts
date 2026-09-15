@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaThatSLifeFeatMacMillerSia = {
   id: "01a0676a-d72c-7017-893c-ea91d8796fc8",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-that-s-life-feat-mac-miller-sia",
   title: "That's Life (feat. Mac Miller & Sia)",
   partOfCollections: ["artist/sia"],

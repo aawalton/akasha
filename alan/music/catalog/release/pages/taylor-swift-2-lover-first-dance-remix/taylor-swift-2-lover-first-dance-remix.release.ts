@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2LoverFirstDanceRemix = {
   id: "01a0676a-d724-700a-96ff-313a2b774cbd",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-lover-first-dance-remix",
   title: "Lover (First Dance Remix)",
   partOfCollections: ["artist/taylor-swift"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const snailMailPristineEdit = {
   id: "01a0676a-d727-7024-a143-bf70d4c5094f",
-  type: "release",
+  type: "page-type/release",
   slug: "snail-mail-pristine-edit",
   title: "Pristine (Edit)",
   partOfCollections: ["artist/snail-mail"],

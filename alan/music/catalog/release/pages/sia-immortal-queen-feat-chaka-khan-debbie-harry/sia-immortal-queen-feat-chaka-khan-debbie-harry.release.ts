@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaImmortalQueenFeatChakaKhanDebbieHarry = {
   id: "01a0676a-d721-705e-a4fc-a7049f34e347",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-immortal-queen-feat-chaka-khan-debbie-harry",
   title: "Immortal Queen (feat. Chaka Khan & Debbie Harry)",
   partOfCollections: ["artist/sia"],

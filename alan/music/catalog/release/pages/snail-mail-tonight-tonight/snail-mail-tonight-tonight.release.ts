@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const snailMailTonightTonight = {
   id: "01a0676a-d72f-7011-bf9a-bca6b76d5ba8",
-  type: "release",
+  type: "page-type/release",
   slug: "snail-mail-tonight-tonight",
   title: "Tonight, Tonight",
   partOfCollections: ["artist/snail-mail"],

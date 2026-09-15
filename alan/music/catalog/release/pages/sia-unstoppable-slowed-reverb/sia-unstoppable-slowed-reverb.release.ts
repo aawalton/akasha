@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaUnstoppableSlowedReverb = {
   id: "01a0676a-d72f-704f-b0ea-4728205f57af",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-unstoppable-slowed-reverb",
   title: "Unstoppable (Slowed & Reverb)",
   partOfCollections: ["artist/sia"],

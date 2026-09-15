@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2CarolinaFromTheMotionPictureWhereTheCrawdadsSing = {
   id: "01a0676a-d71a-7001-9896-da950bd67b4b",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-carolina-from-the-motion-picture-where-the-crawdads-sing",
   title: "Carolina (From The Motion Picture “Where The Crawdads Sing”)",
   partOfCollections: ["artist/taylor-swift"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2LoveStoryDigitalDogRemix = {
   id: "01a0676a-d724-7000-84cd-5a34f8d5f2ce",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-love-story-digital-dog-remix",
   title: "Love Story (Digital Dog Remix)",
   partOfCollections: ["artist/taylor-swift"],

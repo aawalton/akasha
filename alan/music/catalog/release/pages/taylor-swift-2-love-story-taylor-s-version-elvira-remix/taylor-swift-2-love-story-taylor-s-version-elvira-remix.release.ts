@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2LoveStoryTaylorSVersionElviraRemix = {
   id: "01a0676a-d724-7003-8168-4a69176942bc",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-love-story-taylor-s-version-elvira-remix",
   title: "Love Story (Taylor's Version) [Elvira Remix]",
   partOfCollections: ["artist/taylor-swift"],

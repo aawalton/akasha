@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaGimmeChristmasLofiSoundscape = {
   id: "01a0676a-d71e-705d-ba4a-9e7bef4e2dd1",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-gimme-christmas-lofi-soundscape",
   title: "Gimme Christmas (Lofi Soundscape)",
   partOfCollections: ["artist/sia"],

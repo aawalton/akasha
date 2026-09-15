@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sylviaDaleyRubikSCube = {
   id: "01a0676a-d728-7027-a461-4c697de427cb",
-  type: "release",
+  type: "page-type/release",
   slug: "sylvia-daley-rubik-s-cube",
   title: "Rubik's Cube",
   partOfCollections: ["artist/sylvia-daley"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaGimmeChristmas = {
   id: "01a0676a-d71e-705c-911a-541f12546e94",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-gimme-christmas",
   title: "Gimme Christmas",
   partOfCollections: ["artist/sia"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sylviaDaleySecure = {
   id: "01a0676a-d728-705c-94f7-938b5dbc3ba5",
-  type: "release",
+  type: "page-type/release",
   slug: "sylvia-daley-secure",
   title: "Secure",
   partOfCollections: ["artist/sylvia-daley"],

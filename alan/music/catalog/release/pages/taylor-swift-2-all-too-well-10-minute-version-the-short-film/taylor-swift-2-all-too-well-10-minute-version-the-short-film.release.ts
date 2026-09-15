@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2AllTooWell10MinuteVersionTheShortFilm = {
   id: "01a0676a-d716-7029-91ff-f7f3a9fe73cf",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-all-too-well-10-minute-version-the-short-film",
   title: "All Too Well (10 Minute Version) (The Short Film)",
   partOfCollections: ["artist/taylor-swift"],

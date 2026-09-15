@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaTripleJLiveAtTheWirelessBigDayOut2011 = {
   id: "01a0676a-d72f-701b-8b86-d6b7db85761c",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-triple-j-live-at-the-wireless-big-day-out-2011",
   title: "Triple J Live at the Wireless - Big Day out 2011",
   partOfCollections: ["artist/sia"],

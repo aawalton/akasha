@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaLetSLoveRobinSchulzRemix = {
   id: "01a0676a-d723-7020-946e-2c470ba075d7",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-let-s-love-robin-schulz-remix",
   title: "Let's Love (Robin Schulz Remix)",
   partOfCollections: ["artist/sia"],

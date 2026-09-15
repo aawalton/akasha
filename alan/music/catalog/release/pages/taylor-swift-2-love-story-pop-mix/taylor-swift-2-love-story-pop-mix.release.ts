@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2LoveStoryPopMix = {
   id: "01a0676a-d724-7001-921c-6207b45be06c",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-love-story-pop-mix",
   title: "Love Story (Pop Mix)",
   partOfCollections: ["artist/taylor-swift"],

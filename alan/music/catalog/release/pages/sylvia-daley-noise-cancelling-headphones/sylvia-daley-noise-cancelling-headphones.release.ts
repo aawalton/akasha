@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sylviaDaleyNoiseCancellingHeadphones = {
   id: "01a0676a-d725-7071-bed1-2455be8cdabd",
-  type: "release",
+  type: "page-type/release",
   slug: "sylvia-daley-noise-cancelling-headphones",
   title: "Noise Cancelling Headphones",
   partOfCollections: ["artist/sylvia-daley"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaEyeToEyeTheRemixes = {
   id: "01a0676a-d71d-7054-afb9-a3a5778c4a4f",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-eye-to-eye-the-remixes",
   title: "Eye To Eye (The Remixes)",
   partOfCollections: ["artist/sia"],

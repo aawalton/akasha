@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2FortnightAcousticVersion = {
   id: "01a0676a-d71e-7030-b356-8b19ff8e3e3f",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-fortnight-acoustic-version",
   title: "Fortnight (Acoustic Version)",
   partOfCollections: ["artist/taylor-swift"],

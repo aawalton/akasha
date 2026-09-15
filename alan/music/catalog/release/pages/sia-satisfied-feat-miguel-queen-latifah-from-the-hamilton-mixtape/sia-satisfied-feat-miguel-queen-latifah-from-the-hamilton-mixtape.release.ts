@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaSatisfiedFeatMiguelQueenLatifahFromTheHamiltonMixtape = {
   id: "01a0676a-d728-7040-b5e8-1017c89d59a2",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-satisfied-feat-miguel-queen-latifah-from-the-hamilton-mixtape",
   title: "Satisfied (feat. Miguel & Queen Latifah) [from The Hamilton Mixtape]",
   partOfCollections: ["artist/sia"],

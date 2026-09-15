@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2CorneliaStreetLiveFromParis = {
   id: "01a0676a-d71b-702a-b970-bebe0eaf2027",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-cornelia-street-live-from-paris",
   title: "Cornelia Street (Live From Paris)",
   partOfCollections: ["artist/taylor-swift"],

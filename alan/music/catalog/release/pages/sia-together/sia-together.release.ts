@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaTogether = {
   id: "01a0676a-d72f-700c-aa4e-5312a86b877b",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-together",
   title: "Together",
   partOfCollections: ["artist/sia"],

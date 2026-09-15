@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const snailMailSnailMailOnAudiotreeLive = {
   id: "01a0676a-d729-7038-b193-e30307f5f667",
-  type: "release",
+  type: "page-type/release",
   slug: "snail-mail-snail-mail-on-audiotree-live",
   title: "Snail Mail on Audiotree Live",
   partOfCollections: ["artist/snail-mail"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2LiveFromClearChannelStripped2008 = {
   id: "01a0676a-d723-704b-98a8-4bc9d2410c82",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-live-from-clear-channel-stripped-2008",
   title: "Live From Clear Channel Stripped 2008",
   partOfCollections: ["artist/taylor-swift"],

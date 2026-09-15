@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaEverydayIsChristmasDeluxeEdition = {
   id: "01a0676a-d71d-7038-97d2-5d088740f8fe",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-everyday-is-christmas-deluxe-edition",
   title: "Everyday Is Christmas (Deluxe Edition)",
   partOfCollections: ["artist/sia"],

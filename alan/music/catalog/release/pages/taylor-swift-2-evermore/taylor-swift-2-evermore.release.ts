@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const taylorSwift2Evermore = {
   id: "01a0676a-d71d-7030-8b70-a23295004b6f",
-  type: "release",
+  type: "page-type/release",
   slug: "taylor-swift-2-evermore",
   title: "evermore",
   partOfCollections: ["artist/taylor-swift"],

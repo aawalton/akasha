@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaElasticHeartTheRemixes = {
   id: "01a0676a-d71c-7062-9726-baf9c0dcb4fa",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-elastic-heart-the-remixes",
   title: "Elastic Heart (The Remixes)",
   partOfCollections: ["artist/sia"],

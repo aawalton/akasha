@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaSpotifySessions = {
   id: "01a0676a-d729-707f-aea6-feec2a042cf2",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-spotify-sessions",
   title: "Spotify Sessions",
   partOfCollections: ["artist/sia"],
