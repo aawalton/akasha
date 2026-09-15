@@ -4,7 +4,7 @@ import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declarati
 import type {
   ErrorEntry,
   ErrorsPayload,
-} from "akasha/temper/capture-errors/modules/errors-payload/errors-payload.module.code.ts"
+} from "akasha/temper/capture-error/modules/errors-payload/errors-payload.module.code.ts"
 import type { CaptureWriter } from "akasha/temper/capture-writer/modules/capture-writer/capture-writer.module.code.ts"
 import {
   attributedAddonFolder,

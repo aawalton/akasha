@@ -1,5 +1,5 @@
 import { readFile } from "node:fs/promises"
-import type { ErrorEntry } from "akasha/temper/capture-errors/modules/errors-payload/errors-payload.module.code.ts"
+import type { ErrorEntry } from "akasha/temper/capture-error/modules/errors-payload/errors-payload.module.code.ts"
 import { inferCulpritAddon } from "akasha/temper/errors-triage/modules/errors-crash-signatures/errors-crash-signatures.module.code.ts"
 import {
   classifyTriage,

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { ErrorEntry } from "akasha/temper/capture-errors/modules/errors-payload/errors-payload.module.code.ts"
+import type { ErrorEntry } from "akasha/temper/capture-error/modules/errors-payload/errors-payload.module.code.ts"
 import {
   decideErrorEmissions,
   type EntryVerdict,

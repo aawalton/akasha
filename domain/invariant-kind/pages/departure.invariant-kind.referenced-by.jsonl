@@ -3277,9 +3277,9 @@
 {"propertySlug":"invariant-kind","path":"temper/capture-datamining/temper-capture-datamining.domain.ts","id":"01a0608a-15b0-78f6-8e8e-282460347005"}
 {"propertySlug":"invariant-kind","path":"temper/capture-descriptor/modules/descriptor/descriptor.module.ts","id":"01a06053-3638-7cb5-b297-d04869965330"}
 {"propertySlug":"invariant-kind","path":"temper/capture-descriptor/temper-capture-descriptor.domain.ts","id":"01a06053-3638-7139-bd21-390fdc77e0f0"}
-{"propertySlug":"invariant-kind","path":"temper/capture-errors/modules/errors-descriptor/errors-descriptor.module.ts","id":"01a0608a-15b2-78e5-a967-45a0dec13df1"}
-{"propertySlug":"invariant-kind","path":"temper/capture-errors/modules/errors-payload/errors-payload.module.ts","id":"01a0608a-15b2-7682-b22a-9bbc37158e7b"}
-{"propertySlug":"invariant-kind","path":"temper/capture-errors/temper-capture-errors.domain.ts","id":"01a0608a-15b2-7b81-afe8-cbf9d7803e3f"}
+{"propertySlug":"invariant-kind","path":"temper/capture-error/modules/errors-descriptor/errors-descriptor.module.ts","id":"01a0608a-15b2-78e5-a967-45a0dec13df1"}
+{"propertySlug":"invariant-kind","path":"temper/capture-error/modules/errors-payload/errors-payload.module.ts","id":"01a0608a-15b2-7682-b22a-9bbc37158e7b"}
+{"propertySlug":"invariant-kind","path":"temper/capture-error/temper-capture-error.domain.ts","id":"01a0608a-15b2-7b81-afe8-cbf9d7803e3f"}
 {"propertySlug":"invariant-kind","path":"temper/capture-host/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.ts","id":"01a06075-b052-7e77-979b-c9bea93f7ba3"}
 {"propertySlug":"invariant-kind","path":"temper/capture-host/temper-capture-host.domain.ts","id":"01a06075-b051-757f-99fd-44c2240d028a"}
 {"propertySlug":"invariant-kind","path":"temper/capture-perf/modules/perf-trace/perf-trace.module.ts","id":"01a060a9-5d58-7bc3-a680-2ccdb8dd5bf3"}

@@ -22,7 +22,7 @@ export const temper = {
     "domain/temper-capture-datamining",
     "domain/temper-capture-datamining-reader",
     "domain/temper-capture-descriptor",
-    "domain/temper-capture-errors",
+    "domain/temper-capture-error",
     "domain/temper-capture-host",
     "domain/temper-capture-perf",
     "domain/temper-capture-sales",

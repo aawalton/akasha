@@ -14,7 +14,7 @@ import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.
 import { temperErrorList as page } from "akasha/command/pages/temper/error-list/temper-error-list.command.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
-import type { ErrorEntry } from "akasha/temper/capture-errors/modules/errors-payload/errors-payload.module.code.ts"
+import type { ErrorEntry } from "akasha/temper/capture-error/modules/errors-payload/errors-payload.module.code.ts"
 import {
   collectEntries,
   SAVED_VARIABLES_NAME,
