@@ -2,7 +2,7 @@ import type { TemperSetCategory } from "akasha/temper/catalog/temper-gear/temper
 
 export const trial = {
   id: "019e46b5-0db6-76a8-a3b8-c1c40757631f",
-  type: "temper-set-category",
+  type: "page-type/temper-set-category",
   slug: "trial",
   title: "Trial",
   key: "trial",
