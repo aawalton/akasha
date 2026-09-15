@@ -7,10 +7,10 @@
 {"path":"checks/code-checks/pages/typecheck/typecheck.code-check.decision.test-fixtures.ts"}
 {"path":"checks/modules/change-walking/change-walking.module.code.ts"}
 {"path":"code/running/modules/code-tests/code-tests.module.code.ts"}
-{"path":"commands/modules/landing/landing.module.code.ts"}
-{"path":"commands/modules/landing/landing.module.test-fixtures.ts"}
-{"path":"commands/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"}
-{"path":"commands/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.test.ts"}
+{"path":"command/modules/landing/landing.module.code.ts"}
+{"path":"command/modules/landing/landing.module.test-fixtures.ts"}
+{"path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"}
+{"path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.test.ts"}
 {"path":"pages/index/modules/carrying/index-carrying.module.code.ts"}
 {"path":"pages/index/modules/carrying/index-carrying.module.test-fixtures.ts"}
 {"path":"pages/index/modules/carrying/index-carrying.module.test.ts"}

@@ -14,10 +14,10 @@
 {"path":"alan/track/daily/modules/day-messages-mining/day-messages-mining.module.code.ts"}
 {"path":"alan/track/daily/modules/day-messages/day-messages.module.code.ts"}
 {"path":"alan/track/daily/modules/day-opening/day-opening.module.code.ts"}
-{"path":"commands/pages/music/capture/modules/play-row/play-row.module.code.ts"}
-{"path":"commands/pages/refresh/attribute/refresh-attribute.command.code.ts"}
-{"path":"commands/pages/refresh/persona/refresh-persona.command.code.ts"}
-{"path":"commands/pages/track/modules/session-rows/session-rows.module.code.ts"}
+{"path":"command/pages/music/capture/modules/play-row/play-row.module.code.ts"}
+{"path":"command/pages/refresh/attribute/refresh-attribute.command.code.ts"}
+{"path":"command/pages/refresh/persona/refresh-persona.command.code.ts"}
+{"path":"command/pages/track/modules/session-rows/session-rows.module.code.ts"}
 {"path":"design/interfaces/forms/modules/date-parser/date-parser.module.code.ts"}
 {"path":"pages/core/modules/task-lifecycle/task-lifecycle.module.code.ts"}
 {"path":"pages/core/property-types/modules/date-sentinels/date-sentinels.module.code.ts"}

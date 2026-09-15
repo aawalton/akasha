@@ -1,4 +1,4 @@
 {"path":"alan/attributes/modules/points/attribute-points.module.test.ts"}
 {"path":"alan/harness/attributes/modules/reading/attributes-reading.module.code.ts"}
-{"path":"commands/pages/measure/attribute/measure-attribute.command.code.ts"}
-{"path":"commands/pages/refresh/attribute/refresh-attribute.command.code.ts"}
+{"path":"command/pages/measure/attribute/measure-attribute.command.code.ts"}
+{"path":"command/pages/refresh/attribute/refresh-attribute.command.code.ts"}

@@ -2,4 +2,4 @@
 {"path":"alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.test.ts"}
 {"path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"}
 {"path":"alan/music/catalog/modules/release-syncing/release-syncing.module.test.ts"}
-{"path":"commands/pages/music/import-artist/music-import-artist.command.code.ts"}
+{"path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}

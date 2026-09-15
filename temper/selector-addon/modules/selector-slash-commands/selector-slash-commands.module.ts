@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const selectorSlashCommands = {
-  id: "01a061ef-c8a5-7879-8c99-f702637bbf1e",
-  type: "module",
-  slug: "selector-slash-commands",
-  definition: "the `/temperaddons` command and what each of its verbs does",
-  code: "ts",
-} as const satisfies Module

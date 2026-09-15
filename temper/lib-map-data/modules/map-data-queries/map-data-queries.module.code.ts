@@ -45,13 +45,13 @@ export function initMapQueries(this: void): undefined {
     indexTable: Record<number, number> | undefined
   ): number | undefined {
     if (indexTable === undefined) {
-      INTERNAL.dm("Warn", "ReturnSingleIndex Failed, no index found or table is nil")
+      INTERNAL.dm("Warn", "ReturnSingleIndex Failed, no indexes found or table is nil")
       return undefined
     }
     const count = NonContiguousCount(indexTable)
     if (count === 1) return indexTable[1]
     if (count > 1) {
-      INTERNAL.dm("Warn", "ReturnSingleIndex Failed, multiple index found")
+      INTERNAL.dm("Warn", "ReturnSingleIndex Failed, multiple indexes found")
       return undefined
     }
     return undefined
@@ -97,8 +97,8 @@ export function initMapQueries(this: void): undefined {
   ): boolean {
     if (indexToFind === undefined) return true
     let foundId = false
-    for (const [, index] of pairs(indexTable)) {
-      for (const [, index] of pairs(index)) {
+    for (const [, indexes] of pairs(indexTable)) {
+      for (const [, index] of pairs(indexes)) {
         if (index === indexToFind) foundId = true
       }
     }

@@ -1,4 +1,4 @@
 {"path":"alan/harness/health-samples-import/modules/health-import-reading/health-import-reading.module.code.ts"}
 {"path":"alan/harness/health-samples-import/modules/health-import-run/health-import-run.module.test.ts"}
-{"path":"commands/pages/track/health-import/track-health-import.command.code.ts"}
-{"path":"commands/pages/track/health-import/track-health-import.command.test.ts"}
+{"path":"command/pages/track/health-import/track-health-import.command.code.ts"}
+{"path":"command/pages/track/health-import/track-health-import.command.test.ts"}

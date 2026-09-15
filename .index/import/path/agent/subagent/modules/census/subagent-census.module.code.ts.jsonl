@@ -3,6 +3,6 @@
 {"path":"agent/subagent/modules/census/subagent-census.module.test.ts"}
 {"path":"agent/subagent/modules/pageless/subagent-pageless.module.code.ts"}
 {"path":"agent/subagent/modules/pageless/subagent-pageless.module.test.ts"}
-{"path":"commands/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
-{"path":"commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}
-{"path":"commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.test.ts"}
+{"path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
+{"path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}
+{"path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test.ts"}

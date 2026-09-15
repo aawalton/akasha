@@ -23,7 +23,7 @@ export const temperCharactersAddon = {
     "module/characters-cadwell",
     "module/characters-collectibles",
     "module/characters-collector-merge",
-    "module/characters-commands",
+    "module/characters-command",
     "module/characters-config",
     "module/characters-current-entry",
     "module/characters-daily-writs",

@@ -1,7 +1,7 @@
 {"path":"agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.code.ts"}
-{"path":"commands/pages/deploy/modules/holding/deploy-holding.module.code.ts"}
-{"path":"commands/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"}
-{"path":"commands/pages/git/sweep/git-sweep.command.test.ts"}
+{"path":"command/pages/deploy/modules/holding/deploy-holding.module.code.ts"}
+{"path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"}
+{"path":"command/pages/git/sweep/git-sweep.command.test.ts"}
 {"path":"domains/plain-language/modules/parse-cache/parse-cache.module.code.ts"}
 {"path":"files/modules/git-place/git-place.module.test.ts"}
 {"path":"git/modules/holding/holding.module.code.ts"}

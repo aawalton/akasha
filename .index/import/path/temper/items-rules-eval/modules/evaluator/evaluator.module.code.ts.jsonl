@@ -1,5 +1,5 @@
-{"path":"temper/commands/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"}
-{"path":"temper/commands/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
+{"path":"temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"}
+{"path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
 {"path":"temper/items-addon/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"}
 {"path":"temper/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"}
 {"path":"temper/items-addon/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"}

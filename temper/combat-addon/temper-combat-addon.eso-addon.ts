@@ -115,7 +115,7 @@ export const temperCombatAddon = {
     "module/combat-saved-fights",
     "module/combat-saved-variables",
     "module/combat-selection",
-    "module/combat-slash-commands",
+    "module/combat-slash-command",
     "module/combat-sorted-pairs",
     "module/combat-strings",
     "module/combat-strings-table",

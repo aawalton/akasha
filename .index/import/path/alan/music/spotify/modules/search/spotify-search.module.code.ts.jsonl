@@ -2,5 +2,5 @@
 {"path":"alan/music/choosing/modules/track-candidate/track-candidate.module.test.ts"}
 {"path":"alan/music/choosing/modules/track-resolving/track-resolving.module.code.ts"}
 {"path":"alan/music/spotify/modules/search/spotify-search.module.test.ts"}
-{"path":"commands/pages/music/search/music-search.command.code.ts"}
-{"path":"commands/pages/music/search/music-search.command.test.ts"}
+{"path":"command/pages/music/search/music-search.command.code.ts"}
+{"path":"command/pages/music/search/music-search.command.test.ts"}

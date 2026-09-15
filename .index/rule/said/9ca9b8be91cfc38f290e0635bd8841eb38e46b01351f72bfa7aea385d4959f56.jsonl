@@ -1,2 +1,2 @@
 {"path":"agent/modules/stray-sweeping/stray-sweeping.module.test.ts","place":0,"name":"TIMES"}
-{"path":"commands/pages/agent/strays/agent-strays.command.test.ts","place":0,"name":"TIMES"}
+{"path":"command/pages/agent/strays/agent-strays.command.test.ts","place":0,"name":"TIMES"}

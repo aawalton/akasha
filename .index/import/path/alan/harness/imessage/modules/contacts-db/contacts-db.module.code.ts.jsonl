@@ -2,5 +2,5 @@
 {"path":"alan/harness/imessage/modules/message-lines/message-lines.module.code.ts"}
 {"path":"alan/harness/imessage/modules/message-lines/message-lines.module.test.ts"}
 {"path":"alan/harness/imessage/modules/remote/imessage-remote.module.code.ts"}
-{"path":"commands/pages/imessage/contact-list/imessage-contact-list.command.code.ts"}
-{"path":"commands/pages/imessage/send/imessage-send.command.code.ts"}
+{"path":"command/pages/imessage/contact-list/imessage-contact-list.command.code.ts"}
+{"path":"command/pages/imessage/send/imessage-send.command.code.ts"}

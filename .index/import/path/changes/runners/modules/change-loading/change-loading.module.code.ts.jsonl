@@ -2,7 +2,7 @@
 {"path":"changes/runners/pages/agent-change-running/agent-change-running.change-runner.code.ts"}
 {"path":"changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"}
 {"path":"changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"}
-{"path":"commands/modules/change-running/change-running.module.code.ts"}
-{"path":"commands/modules/change-running/change-running.module.test-fixtures.ts"}
-{"path":"commands/pages/change/apply/change-apply.command.code.ts"}
-{"path":"commands/pages/change/draft/change-draft.command.code.ts"}
+{"path":"command/modules/change-running/change-running.module.code.ts"}
+{"path":"command/modules/change-running/change-running.module.test-fixtures.ts"}
+{"path":"command/pages/change/apply/change-apply.command.code.ts"}
+{"path":"command/pages/change/draft/change-draft.command.code.ts"}

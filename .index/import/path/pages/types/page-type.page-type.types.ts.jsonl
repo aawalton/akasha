@@ -187,9 +187,9 @@
 {"path":"code/stylesheets/stylesheet.page-type.ts"}
 {"path":"code/type-declarations/type-declaration.page-type.ts"}
 {"path":"code/workspaces/workspace.page-type.ts"}
-{"path":"commands/arguments/argument.page-type.ts"}
-{"path":"commands/command.page-type.ts"}
-{"path":"commands/namespaces/namespace.page-type.ts"}
+{"path":"command/arguments/argument.page-type.ts"}
+{"path":"command/command.page-type.ts"}
+{"path":"command/namespaces/namespace.page-type.ts"}
 {"path":"design/games/achievements/achievement.page-type.ts"}
 {"path":"design/games/drives/drive.page-type.ts"}
 {"path":"design/interfaces/colors/color.page-type.ts"}

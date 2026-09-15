@@ -1,4 +1,4 @@
 {"path":"alan/harness/mobile-cli/modules/build-input-sources/build-input-sources.module.code.ts"}
 {"path":"alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.test.ts"}
 {"path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts"}
-{"path":"commands/pages/mobile/cut/status/mobile-cut-status.command.code.ts"}
+{"path":"command/pages/mobile/cut/status/mobile-cut-status.command.code.ts"}

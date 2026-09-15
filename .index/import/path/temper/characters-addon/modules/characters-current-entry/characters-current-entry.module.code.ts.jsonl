@@ -2,7 +2,7 @@
 {"path":"temper/characters-addon/modules/characters-alliance-rank/characters-alliance-rank.module.code.ts"}
 {"path":"temper/characters-addon/modules/characters-bag-size/characters-bag-size.module.code.ts"}
 {"path":"temper/characters-addon/modules/characters-cadwell/characters-cadwell.module.code.ts"}
-{"path":"temper/characters-addon/modules/characters-commands/characters-commands.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-command/characters-command.module.code.ts"}
 {"path":"temper/characters-addon/modules/characters-entry/characters-entry.module.code.ts"}
 {"path":"temper/characters-addon/modules/characters-events-knowledge/characters-events-knowledge.module.code.ts"}
 {"path":"temper/characters-addon/modules/characters-events-world/characters-events-world.module.code.ts"}

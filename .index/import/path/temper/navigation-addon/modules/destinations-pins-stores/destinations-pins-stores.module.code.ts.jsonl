@@ -11,6 +11,6 @@
 {"path":"temper/navigation-addon/modules/destinations-pins-misc-poi-callbacks/destinations-pins-misc-poi-callbacks.module.code.ts"}
 {"path":"temper/navigation-addon/modules/destinations-pins-qol-pins/destinations-pins-qol-pins.module.code.ts"}
 {"path":"temper/navigation-addon/modules/destinations-pins-sets/destinations-pins-sets.module.code.ts"}
-{"path":"temper/navigation-addon/modules/destinations-pins-slash-commands/destinations-pins-slash-commands.module.code.ts"}
+{"path":"temper/navigation-addon/modules/destinations-pins-slash-command/destinations-pins-slash-command.module.code.ts"}
 {"path":"temper/navigation-addon/modules/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"}
 {"path":"temper/navigation-addon/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"}

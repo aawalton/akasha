@@ -8,9 +8,10 @@
 {"path":"checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.decision.code.ts"}
 {"path":"checks/code-checks/pages/shell-clean/shell-clean.code-check.decision.code.ts"}
 {"path":"code/ios-apps/modules/shared-build-files/shared-build-files.module.code.ts"}
-{"path":"commands/modules/beside-sweeping/beside-sweeping.module.code.ts"}
+{"path":"command/modules/beside-sweeping/beside-sweeping.module.code.ts"}
 {"path":"domains/context/warrants/file-domain/file-domain.context-warrant.code.ts"}
 {"path":"graph/modules/asking/graph-asking.module.code.ts"}
+{"path":"pages/index/edge/index-edge.index.code.ts"}
 {"path":"pages/index/identity/index-identity.index.code.ts"}
 {"path":"pages/index/import/index-import.index.code.ts"}
 {"path":"pages/index/modules/answering/index-answering.module.code.ts"}
@@ -21,6 +22,5 @@
 {"path":"pages/index/modules/package-reaching/package-reaching.module.code.ts"}
 {"path":"pages/index/modules/path-claiming/path-claiming.module.test.ts"}
 {"path":"pages/index/modules/settling/index-settling.module.code.ts"}
-{"path":"pages/index/edge/index-edge.index.code.ts"}
 {"path":"pages/index/rule/index-rule.index.code.ts"}
 {"path":"pages/index/value/index-value.index.code.ts"}

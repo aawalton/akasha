@@ -29,7 +29,7 @@
 {"path":"temper/housing-addon/modules/housing-visit-card-send/housing-visit-card-send.module.code.ts"}
 {"path":"temper/housing-addon/modules/housing-visit-cards-interact/housing-visit-cards-interact.module.code.ts"}
 {"path":"temper/housing-addon/modules/housing-window-controls/housing-window-controls.module.code.ts"}
-{"path":"temper/hud-addon/modules/hud-addon-commands/hud-addon-commands.module.code.ts"}
+{"path":"temper/hud-addon/modules/hud-addon-command/hud-addon-command.module.code.ts"}
 {"path":"temper/hud-addon/modules/hud-addon-hide-init/hud-addon-hide-init.module.code.ts"}
 {"path":"temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"}
 {"path":"temper/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"}

@@ -65,7 +65,7 @@ export const temperInterfaceAddon = {
     "module/fco-settings-menu",
     "module/fco-skill-action-bar-timers",
     "module/fco-skills",
-    "module/fco-slash-commands",
+    "module/fco-slash-command",
     "module/fco-sounds",
     "module/fco-stable",
     "module/fco-state",

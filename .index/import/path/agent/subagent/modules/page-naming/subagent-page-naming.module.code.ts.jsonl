@@ -7,6 +7,6 @@
 {"path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"path":"agent/subagent/modules/presence/subagent-presence.module.test.ts"}
-{"path":"commands/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
-{"path":"commands/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts"}
+{"path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
+{"path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts"}
 {"path":"domains/context/modules/warranting/warranting.module.code.ts"}

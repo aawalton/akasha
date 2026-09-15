@@ -1,3 +1,3 @@
-{"path":"commands/pages/inference/activate/inference-activate.command.code.ts"}
-{"path":"commands/pages/inference/activate/inference-activate.command.test.ts"}
-{"path":"commands/pages/inference/active-list/inference-active-list.command.code.ts"}
+{"path":"command/pages/inference/activate/inference-activate.command.code.ts"}
+{"path":"command/pages/inference/activate/inference-activate.command.test.ts"}
+{"path":"command/pages/inference/active-list/inference-active-list.command.code.ts"}

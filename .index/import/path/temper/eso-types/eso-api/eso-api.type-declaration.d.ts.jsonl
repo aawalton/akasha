@@ -3,7 +3,7 @@
 {"path":"temper/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"}
 {"path":"temper/companions-addon/modules/companion-qol-rapport/companion-qol-rapport.module.code.ts"}
 {"path":"temper/companions-addon/modules/companion-qol-saved-variables/companion-qol-saved-variables.module.code.ts"}
-{"path":"temper/companions-addon/modules/companions-commands/companions-commands.module.code.ts"}
+{"path":"temper/companions-addon/modules/companions-command/companions-command.module.code.ts"}
 {"path":"temper/companions-addon/modules/companions-entry/companions-entry.module.code.ts"}
 {"path":"temper/companions-addon/modules/companions-equipment-panel/companions-equipment-panel.module.code.ts"}
 {"path":"temper/companions-addon/modules/companions-equipment-refresh/companions-equipment-refresh.module.code.ts"}

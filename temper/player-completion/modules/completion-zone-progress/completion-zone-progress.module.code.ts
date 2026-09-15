@@ -68,17 +68,17 @@ function completedActivityIndexes(
     const typeLookup = new Map<number, Set<number>>()
 
     for (const [typeStr, rawIndexes] of Object.entries(typeMap)) {
-      const index = new Set<number>()
+      const indexes = new Set<number>()
       if (Array.isArray(rawIndexes)) {
         for (const index of rawIndexes) {
-          if (typeof index === "number") index.add(index)
+          if (typeof index === "number") indexes.add(index)
         }
       } else if (typeof rawIndexes === "object" && rawIndexes !== null) {
         for (const index of Object.values(rawIndexes)) {
-          if (typeof index === "number") index.add(index)
+          if (typeof index === "number") indexes.add(index)
         }
       }
-      typeLookup.set(Number(typeStr), index)
+      typeLookup.set(Number(typeStr), indexes)
     }
 
     lookup.set(Number(zoneIdStr), typeLookup)

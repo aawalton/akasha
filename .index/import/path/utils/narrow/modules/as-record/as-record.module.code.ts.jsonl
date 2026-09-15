@@ -2,7 +2,7 @@
 {"path":"agent/seat/supervisors/supervisor-account/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"}
 {"path":"agent/seat/supervisors/supervisor-child/modules/supervisor-adopt/supervisor-adopt.module.code.ts"}
 {"path":"temper/capture-datamining-reader/modules/mined-data-parse/mined-data-parse.module.code.ts"}
-{"path":"temper/commands/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
+{"path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
 {"path":"temper/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"}
 {"path":"temper/items-core/modules/inventory-parser-account-state/inventory-parser-account-state.module.code.ts"}
 {"path":"temper/items-core/modules/inventory-parser/inventory-parser.module.code.ts"}

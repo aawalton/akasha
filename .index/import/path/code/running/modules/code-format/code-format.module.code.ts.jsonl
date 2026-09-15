@@ -1,6 +1,6 @@
 {"path":"changes/modules/shadow/change-shadow.module.code.ts"}
 {"path":"code/running/modules/code-format/code-format.module.test.ts"}
-{"path":"commands/modules/change-preparing/change-preparing.module.code.ts"}
-{"path":"commands/modules/edits-landing/edits-landing.module.code.ts"}
-{"path":"commands/modules/restating/restating.module.code.ts"}
+{"path":"command/modules/change-preparing/change-preparing.module.code.ts"}
+{"path":"command/modules/edits-landing/edits-landing.module.code.ts"}
+{"path":"command/modules/restating/restating.module.code.ts"}
 {"path":"pages/types/modules/type-generating/type-generating.module.code.ts"}

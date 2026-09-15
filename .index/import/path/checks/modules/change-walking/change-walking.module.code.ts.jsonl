@@ -167,5 +167,5 @@
 {"path":"checks/modules/model-running/model-running.module.code.ts"}
 {"path":"checks/modules/router-app-code/router-app-code.module.code.ts"}
 {"path":"checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
-{"path":"commands/pages/audit/audit.command.code.ts"}
+{"path":"command/pages/audit/audit.command.code.ts"}
 {"path":"testing-system/modules/bodying/bodying.module.code.ts"}

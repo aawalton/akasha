@@ -11,4 +11,4 @@
 {"path":"changes/mechanical/page-type/move/move-property-on-every-page/move-property-on-every-page.change-mechanical-page-type.code.ts"}
 {"path":"changes/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.code.ts"}
 {"path":"changes/modules/value-carrying/value-carrying.module.test.ts"}
-{"path":"commands/pages/change/repeat/change-repeat.command.code.ts"}
+{"path":"command/pages/change/repeat/change-repeat.command.code.ts"}

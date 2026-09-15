@@ -10,4 +10,4 @@
 {"path":"alan/track/daily/modules/day-opening/day-opening.module.test.ts"}
 {"path":"alan/track/daily/modules/nutrition-grams/nutrition-grams.module.code.ts"}
 {"path":"alan/track/daily/modules/topic-words/topic-words.module.code.ts"}
-{"path":"commands/pages/alan/food/alan-food.command.code.ts"}
+{"path":"command/pages/alan/food/alan-food.command.code.ts"}

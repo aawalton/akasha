@@ -3,4 +3,4 @@
 {"path":"temper/combat-addon/modules/combat-lib-death/combat-lib-death.module.code.ts"}
 {"path":"temper/combat-addon/modules/combat-lib-groups-combat/combat-lib-groups-combat.module.code.ts"}
 {"path":"temper/combat-addon/modules/combat-lib-init/combat-lib-init.module.code.ts"}
-{"path":"temper/combat-addon/modules/combat-slash-commands/combat-slash-commands.module.code.ts"}
+{"path":"temper/combat-addon/modules/combat-slash-command/combat-slash-command.module.code.ts"}

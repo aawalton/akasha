@@ -1,5 +1,5 @@
-{"path":"commands/modules/landing/landing.module.test-fixtures.ts"}
-{"path":"commands/pages/index/refresh/index-refresh.command.code.ts"}
+{"path":"command/modules/landing/landing.module.test-fixtures.ts"}
+{"path":"command/pages/index/refresh/index-refresh.command.code.ts"}
 {"path":"pages/index/modules/entries/index-entries.module.test-fixtures.ts"}
 {"path":"pages/index/modules/filing/index-filing.module.code.ts"}
 {"path":"pages/index/modules/filing/index-filing.module.test-fixtures.ts"}

@@ -80,8 +80,8 @@
 {"path":"alan/values/learn/mathematics/propositions/properties/proposition-kind.select-property.ts"}
 {"path":"alan/values/learn/mathematics/propositions/properties/proposition-status.select-property.ts"}
 {"path":"code/held-addons/properties/addon-kind.select-property.ts"}
-{"path":"commands/arguments/properties/argument-value.select-property.ts"}
-{"path":"commands/properties/said-as.select-property.ts"}
+{"path":"command/arguments/properties/argument-value.select-property.ts"}
+{"path":"command/properties/said-as.select-property.ts"}
 {"path":"infrastructure/container-image/dockerfiles/built-images/properties/image-kind.select-property.ts"}
 {"path":"infrastructure/machines/computers/properties/brand.select-property.ts"}
 {"path":"infrastructure/machines/computers/properties/computer-status.select-property.ts"}

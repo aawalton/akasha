@@ -2,8 +2,8 @@
 {"path":"agent/modules/read-record/read-record.module.test.ts"}
 {"path":"agent/seat/stopping/seat-stopping.module.test.ts"}
 {"path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
-{"path":"commands/modules/applying/applying.module.test.ts"}
-{"path":"commands/pages/read/modules/body-owing/body-owing.module.test.ts"}
-{"path":"commands/pages/read/read.command.test-fixtures.ts"}
+{"path":"command/modules/applying/applying.module.test.ts"}
+{"path":"command/pages/read/modules/body-owing/body-owing.module.test.ts"}
+{"path":"command/pages/read/read.command.test-fixtures.ts"}
 {"path":"domains/context/modules/warranting/warranting.module.test-fixtures.ts"}
 {"path":"domains/context/warrants/file-page-type/file-page-type.context-warrant.test.ts"}

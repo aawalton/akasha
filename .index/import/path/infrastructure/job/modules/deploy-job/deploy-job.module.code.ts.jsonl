@@ -1,5 +1,5 @@
-{"path":"commands/pages/deploy/deploy.command.code.ts"}
-{"path":"commands/pages/deploy/deploy.command.test.ts"}
+{"path":"command/pages/deploy/deploy.command.code.ts"}
+{"path":"command/pages/deploy/deploy.command.test.ts"}
 {"path":"infrastructure/job/deploy-account/deploy-account.manifest.code.ts"}
 {"path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"}
 {"path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.test.ts"}

@@ -1,7 +1,0 @@
-{"path":"agent/subagent/modules/landing-again/subagent-landing-again.module.code.ts"}
-{"path":"agent/subagent/modules/landing-again/subagent-landing-again.module.test.ts"}
-{"path":"code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.test.ts"}
-{"path":"code/editor/extension/modules/work-tree-dragging/work-tree-dragging.module.test.ts"}
-{"path":"commands/modules/change-freshness/change-freshness.module.test.ts"}
-{"path":"commands/modules/draft-keeping/draft-keeping.module.code.ts"}
-{"path":"commands/modules/landing/landing.module.code.ts"}

@@ -12,4 +12,4 @@
 {"path":"agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"}
 {"path":"agent/seat/session/seat-session.module.code.ts"}
 {"path":"agent/seat/supervisors/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"}
-{"path":"commands/modules/commit-author/commit-author.module.code.ts"}
+{"path":"command/modules/commit-author/commit-author.module.code.ts"}

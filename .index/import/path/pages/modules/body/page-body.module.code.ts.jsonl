@@ -10,7 +10,7 @@
 {"path":"changes/runners/change-runner.page-type.type-generator.ts"}
 {"path":"code/modules/modules/name-series/name-series.module.code.ts"}
 {"path":"infrastructure/machines/provisioning/scripts/provision-workstation/provision-workstation.shell-script.scripting.code.ts"}
-{"path":"pages/commands/modules/icon-index-rendering/icon-index-rendering.module.code.ts"}
+{"path":"pages/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"}
 {"path":"pages/modules/body/page-body.module.test.ts"}
 {"path":"pages/service/modules/page-composing/page-composing.module.code.ts"}
 {"path":"pages/types/page-properties/page-property.page-type.type-generator.ts"}

@@ -2,4 +2,4 @@
 {"path":"alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"}
 {"path":"alan/harness/supabase-rr/modules/request-session-cache/request-session-cache.module.code.ts"}
 {"path":"code/browser/test-harness/modules/harness-launch/harness-launch.module.code.ts"}
-{"path":"commands/pages/browser/test-storage-state/browser-test-storage-state.command.code.ts"}
+{"path":"command/pages/browser/test-storage-state/browser-test-storage-state.command.code.ts"}

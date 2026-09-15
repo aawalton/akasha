@@ -2,6 +2,6 @@
 {"path":"alan/harness/mobile-cli/modules/build-stamp-gate/build-stamp-gate.module.test.ts"}
 {"path":"alan/harness/mobile-cli/modules/git-tree-hash/git-tree-hash.module.test.ts"}
 {"path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts"}
-{"path":"commands/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.code.ts"}
-{"path":"commands/pages/mobile/cut/status/mobile-cut-status.command.code.ts"}
-{"path":"commands/pages/mobile/cut/status/mobile-cut-status.command.test.ts"}
+{"path":"command/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.code.ts"}
+{"path":"command/pages/mobile/cut/status/mobile-cut-status.command.code.ts"}
+{"path":"command/pages/mobile/cut/status/mobile-cut-status.command.test.ts"}

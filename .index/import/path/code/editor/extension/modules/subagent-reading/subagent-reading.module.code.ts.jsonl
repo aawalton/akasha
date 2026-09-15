@@ -5,5 +5,5 @@
 {"path":"alan/harness/code-editor/data-interfaces/modules/tree-drawing/tree-drawing.module.code.ts"}
 {"path":"code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"}
 {"path":"code/editor/extension/modules/agent-forest/agent-forest.module.test-fixtures.ts"}
-{"path":"commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}
-{"path":"commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
+{"path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}
+{"path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}

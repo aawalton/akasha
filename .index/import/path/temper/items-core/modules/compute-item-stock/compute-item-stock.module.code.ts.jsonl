@@ -1,4 +1,4 @@
-{"path":"commands/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.code.ts"}
-{"path":"temper/commands/modules/inventory-eval-env/inventory-eval-env.module.code.ts"}
+{"path":"command/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.code.ts"}
+{"path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts"}
 {"path":"temper/items-rules-routing/modules/inventory-management-plan-buy/inventory-management-plan-buy.module.code.ts"}
 {"path":"temper/watcher/modules/watcher-settings-consumables/watcher-settings-consumables.module.code.ts"}

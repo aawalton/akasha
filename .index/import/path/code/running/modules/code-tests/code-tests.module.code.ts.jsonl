@@ -2,4 +2,4 @@
 {"path":"checks/code-checks/pages/tests-pass/tests-pass.code-check.decision.test-fixtures.ts"}
 {"path":"code/running/modules/code-tests/code-tests.module.test-fixtures.ts"}
 {"path":"code/running/modules/code-tests/code-tests.module.test.ts"}
-{"path":"commands/modules/applying/applying.module.code.ts"}
+{"path":"command/modules/applying/applying.module.code.ts"}

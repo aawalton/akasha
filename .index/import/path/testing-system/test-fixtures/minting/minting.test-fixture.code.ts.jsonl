@@ -1,7 +1,7 @@
 {"path":"agent/modules/read-record/read-record.module.test-fixtures.ts"}
-{"path":"commands/pages/change/apply/change-apply.command.test.ts"}
-{"path":"commands/pages/change/draft/change-draft.command.test.ts"}
-{"path":"commands/pages/read/read.command.test-fixtures.ts"}
+{"path":"command/pages/change/apply/change-apply.command.test.ts"}
+{"path":"command/pages/change/draft/change-draft.command.test.ts"}
+{"path":"command/pages/read/read.command.test-fixtures.ts"}
 {"path":"domains/context/modules/warranting/warranting.module.test-fixtures.ts"}
 {"path":"domains/context/warrants/file-property-file/file-property-file.context-warrant.test.ts"}
 {"path":"domains/context/warrants/file-property/file-property.context-warrant.test.ts"}

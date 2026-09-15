@@ -13,8 +13,8 @@
 {"path":"agent/seat/supervisors/supervisor-child/modules/spawn/supervisor-child-spawn.module.code.ts"}
 {"path":"agent/seat/supervisors/supervisor-child/modules/spawn/supervisor-child-spawn.module.test.ts"}
 {"path":"agent/subagent/modules/census/subagent-census.module.code.ts"}
-{"path":"commands/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
-{"path":"commands/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts"}
-{"path":"commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}
-{"path":"commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
+{"path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
+{"path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts"}
+{"path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}
+{"path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
 {"path":"infrastructure/memory/reaping/modules/memory-reaper-read/memory-reaper-read.module.code.ts"}

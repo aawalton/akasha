@@ -1,7 +1,7 @@
 {"path":"temper/characters-addon/modules/characters-achievements/characters-achievements.module.code.ts"}
 {"path":"temper/characters-addon/modules/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"}
 {"path":"temper/characters-addon/modules/characters-collectibles/characters-collectibles.module.code.ts"}
-{"path":"temper/characters-addon/modules/characters-commands/characters-commands.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-command/characters-command.module.code.ts"}
 {"path":"temper/characters-addon/modules/characters-config/characters-config.module.code.ts"}
 {"path":"temper/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"}
 {"path":"temper/characters-addon/modules/characters-daily-writs/characters-daily-writs.module.code.ts"}

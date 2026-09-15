@@ -19,8 +19,8 @@
 {"path":"pages/access/modules/file-property-defs/file-property-defs.module.code.ts"}
 {"path":"pages/access/modules/file-rows/file-rows.module.code.ts"}
 {"path":"pages/access/modules/upsert/upsert.module.code.ts"}
-{"path":"pages/core/property-types/modules/progress/progress.module.code.ts"}
 {"path":"pages/core/property-types/modules/edge/relation.module.code.ts"}
+{"path":"pages/core/property-types/modules/progress/progress.module.code.ts"}
 {"path":"pages/core/schema/modules/pages/pages.module.code.ts"}
 {"path":"pages/core/schema/modules/view-data/view-data.module.code.ts"}
 {"path":"pages/core/view-state/modules/reducers/reducers.module.code.ts"}

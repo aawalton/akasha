@@ -11,8 +11,8 @@
 {"path":"checks/code-checks/pages/no-refused-syntax/syntax-rules/no-command-spelling-its-own-call/no-command-spelling-its-own-call.syntax-rule.test.ts","place":0,"name":"NAMES_NOTHING"}
 {"path":"checks/code-checks/pages/no-refused-syntax/syntax-rules/no-command-spelling-its-own-call/no-command-spelling-its-own-call.syntax-rule.test.ts","place":1,"name":"TYPES_NOTHING"}
 {"path":"code/paths/modules/code-runtime-path/code-runtime-path.module.test.ts","place":0,"name":"NOTHING_MOVED"}
-{"path":"commands/pages/agent/strays/agent-strays.command.test.ts","place":1,"name":"NOWHERE"}
-{"path":"commands/pages/read/read.command.test-fixtures.ts","place":3,"name":"SEATLESS"}
+{"path":"command/pages/agent/strays/agent-strays.command.test.ts","place":1,"name":"NOWHERE"}
+{"path":"command/pages/read/read.command.test-fixtures.ts","place":3,"name":"SEATLESS"}
 {"path":"graph/modules/asking/graph-asking.module.code.ts","place":9,"name":"NOWHERE"}
 {"path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.test.ts","place":0,"name":"neverDeployed"}
 {"path":"infrastructure/services/workstations/modules/service-alerting/service-alerting.module.test.ts","place":2,"name":"NOBODY"}

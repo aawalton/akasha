@@ -9,7 +9,7 @@
 {"path":"alan/harness/monarch/category-rules/properties/matches.record-property.ts"}
 {"path":"alan/track/daily/days/properties/persona-messages.record-property.ts"}
 {"path":"code/type-declarations/properties/generated.record-property.ts"}
-{"path":"commands/properties/command-arguments.record-property.ts"}
+{"path":"command/properties/command-arguments.record-property.ts"}
 {"path":"design/games/drives/properties/octalysis.record-property.ts"}
 {"path":"domains/initiatives/properties/intent-stack.record-property.ts"}
 {"path":"domains/lists/properties/list-members.record-property.ts"}

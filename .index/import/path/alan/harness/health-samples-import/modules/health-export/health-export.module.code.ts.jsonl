@@ -2,4 +2,4 @@
 {"path":"alan/harness/health-samples-import/modules/health-import-run/health-import-run.module.code.ts"}
 {"path":"alan/harness/health-samples-import/modules/health-import/health-import.module.code.ts"}
 {"path":"alan/harness/health-samples-import/modules/health-snapshot/health-snapshot.module.code.ts"}
-{"path":"commands/pages/track/health-import/track-health-import.command.code.ts"}
+{"path":"command/pages/track/health-import/track-health-import.command.code.ts"}

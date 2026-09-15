@@ -1,8 +1,8 @@
-{"path":"commands/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.code.ts"}
-{"path":"commands/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.code.ts"}
-{"path":"commands/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.test.ts"}
-{"path":"temper/commands/modules/inventory-settings-access/inventory-settings-access.module.code.ts"}
-{"path":"temper/commands/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"}
+{"path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.code.ts"}
+{"path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.code.ts"}
+{"path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.test.ts"}
+{"path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts"}
+{"path":"temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"}
 {"path":"temper/inventory-automation/modules/automation-settings-shape/automation-settings-shape.module.code.ts"}
 {"path":"temper/inventory-automation/modules/automation-toggle-change/automation-toggle-change.module.code.ts"}
 {"path":"temper/inventory-automation/modules/automation-toggle-change/automation-toggle-change.module.test.ts"}

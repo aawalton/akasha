@@ -8,7 +8,7 @@ import {
   installBuiltinFields,
   resetSession,
 } from "akasha/temper/hud-addon/modules/hud-addon-builtins/hud-addon-builtins.module.code.ts"
-import { initializeTemperCommands } from "akasha/temper/hud-addon/modules/hud-addon-command/hud-addon-commands.module.code.ts"
+import { initializeTemperCommands } from "akasha/temper/hud-addon/modules/hud-addon-command/hud-addon-command.module.code.ts"
 import { initializeComponentHiding } from "akasha/temper/hud-addon/modules/hud-addon-hide-init/hud-addon-hide-init.module.code.ts"
 import { initializeSavedVariables } from "akasha/temper/hud-addon/modules/hud-addon-saved-variables/hud-addon-saved-variables.module.code.ts"
 import { initializeSettingsPanel } from "akasha/temper/hud-addon/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"

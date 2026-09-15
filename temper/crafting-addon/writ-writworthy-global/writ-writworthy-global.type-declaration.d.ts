@@ -92,11 +92,11 @@ interface TemperWritGlobal {
   CanShowCMWDuplicates?: typeof import("akasha/temper/crafting-addon/modules/writ-tooltip-text/writ-tooltip-text.module.code.ts").canShowCMWDuplicates
   KnowDump?: typeof import("akasha/temper/crafting-addon/modules/writ-tooltip/writ-tooltip.module.code.ts").knowDump
 
-  Forget?: typeof import("akasha/temper/crafting-addon/modules/writ-slash-command/writ-slash-commands.module.code.ts").forget
-  ServerName?: typeof import("akasha/temper/crafting-addon/modules/writ-slash-command/writ-slash-commands.module.code.ts").serverName
-  Port?: typeof import("akasha/temper/crafting-addon/modules/writ-slash-command/writ-slash-commands.module.code.ts").port
-  SlashCommand?: typeof import("akasha/temper/crafting-addon/modules/writ-slash-command/writ-slash-commands.module.code.ts").slashCommand
-  RegisterSlashCommands?: typeof import("akasha/temper/crafting-addon/modules/writ-slash-command/writ-slash-commands.module.code.ts").registerSlashCommands
+  Forget?: typeof import("akasha/temper/crafting-addon/modules/writ-slash-command/writ-slash-command.module.code.ts").forget
+  ServerName?: typeof import("akasha/temper/crafting-addon/modules/writ-slash-command/writ-slash-command.module.code.ts").serverName
+  Port?: typeof import("akasha/temper/crafting-addon/modules/writ-slash-command/writ-slash-command.module.code.ts").port
+  SlashCommand?: typeof import("akasha/temper/crafting-addon/modules/writ-slash-command/writ-slash-command.module.code.ts").slashCommand
+  RegisterSlashCommands?: typeof import("akasha/temper/crafting-addon/modules/writ-slash-command/writ-slash-command.module.code.ts").registerSlashCommands
   server_name?: string
   DiscoverI18N?: (this: void) => undefined
   AQAddKeyBind?: unknown

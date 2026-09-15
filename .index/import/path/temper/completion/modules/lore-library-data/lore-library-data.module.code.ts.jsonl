@@ -1,6 +1,6 @@
 {"path":"temper/characters-addon/modules/characters-task-hud-enrichment/characters-task-hud-enrichment.module.code.ts"}
 {"path":"temper/characters-addon/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.test.ts"}
-{"path":"temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"}
+{"path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"}
 {"path":"temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"}
 {"path":"temper/player-completion/modules/completion-account-lore-union/completion-account-lore-union.module.code.ts"}
 {"path":"temper/player-completion/modules/completion-card-checkers/completion-card-checkers.module.code.ts"}

@@ -1,4 +1,4 @@
 {"path":"agent/messaging/notice/modules/compose-notices/compose-notices.module.test.ts"}
 {"path":"agent/seat/supervisors/supervisor-deciding/modules/supervisor-decide/supervisor-decide.module.code.ts"}
 {"path":"agent/seat/supervisors/supervisor-restarting/modules/supervisor-resume-notices/supervisor-resume-notices.module.code.ts"}
-{"path":"commands/pages/seat/resume/seat-resume.command.code.ts"}
+{"path":"command/pages/seat/resume/seat-resume.command.code.ts"}

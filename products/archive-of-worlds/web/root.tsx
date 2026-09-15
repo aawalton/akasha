@@ -9,7 +9,7 @@ import { CommandPalette } from "akasha/design/interfaces/primitives/modules/comm
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
-import { NavCommands } from "akasha/products/archive-of-worlds/web/modules/archive-of-worlds-nav-command/archive-of-worlds-nav-commands.module.code.tsx"
+import { NavCommands } from "akasha/products/archive-of-worlds/web/modules/archive-of-worlds-nav-command/archive-of-worlds-nav-command.module.code.tsx"
 import type React from "react"
 import { useEffect } from "react"
 import {

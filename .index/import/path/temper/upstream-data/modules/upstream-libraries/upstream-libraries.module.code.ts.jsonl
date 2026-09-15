@@ -1,5 +1,5 @@
-{"path":"commands/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts"}
-{"path":"commands/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.code.ts"}
+{"path":"command/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts"}
+{"path":"command/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.code.ts"}
 {"path":"temper/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.code.ts"}
 {"path":"temper/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.code.ts"}
 {"path":"temper/upstream-data/modules/map-data-upstream-port/map-data-upstream-port.module.code.ts"}

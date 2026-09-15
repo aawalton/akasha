@@ -1,8 +1,8 @@
 {"path":"checks/code-checks/pages/index-is-level-with-the-pages/index-is-level-with-the-pages.code-check.audit.code.ts"}
-{"path":"commands/modules/gate-building/gate-building.module.code.ts"}
-{"path":"commands/modules/landing/landing.module.test-fixtures.ts"}
-{"path":"commands/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"}
-{"path":"commands/pages/index/refresh/index-refresh.command.code.ts"}
+{"path":"command/modules/gate-building/gate-building.module.code.ts"}
+{"path":"command/modules/landing/landing.module.test-fixtures.ts"}
+{"path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"}
+{"path":"command/pages/index/refresh/index-refresh.command.code.ts"}
 {"path":"pages/index/modules/building/index-building.module.code.ts"}
 {"path":"pages/index/modules/indexing/indexing.module.test-fixtures.ts"}
 {"path":"pages/index/modules/indexing/indexing.module.test.ts"}

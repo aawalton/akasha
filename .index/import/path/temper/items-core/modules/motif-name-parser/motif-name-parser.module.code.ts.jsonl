@@ -1,5 +1,5 @@
-{"path":"commands/pages/temper/inventory/lookup-item/temper-inventory-lookup-item.command.code.ts"}
-{"path":"temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"}
+{"path":"command/pages/temper/inventory/lookup-item/temper-inventory-lookup-item.command.code.ts"}
+{"path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"}
 {"path":"temper/items-addon/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"}
 {"path":"temper/items-addon/modules/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"}
 {"path":"temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"}

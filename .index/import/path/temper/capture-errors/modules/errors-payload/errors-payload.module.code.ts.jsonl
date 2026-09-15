@@ -1,4 +1,4 @@
-{"path":"commands/pages/temper/error-list/temper-error-list.command.code.ts"}
+{"path":"command/pages/temper/error-list/temper-error-list.command.code.ts"}
 {"path":"temper/capture-errors/modules/errors-descriptor/errors-descriptor.module.code.ts"}
 {"path":"temper/errors-addon/modules/errors-addon-record/errors-addon-record.module.code.ts"}
 {"path":"temper/errors-triage/modules/errors-collect/errors-collect.module.code.ts"}

@@ -160,7 +160,7 @@ export const temperLorebooks = {
     "module/lorebooks-shalidor-locations-16",
     "module/lorebooks-shalidor-locations-17",
     "module/lorebooks-shalidor-locations-18",
-    "module/lorebooks-slash-commands",
+    "module/lorebooks-slash-command",
     "module/lorebooks-types",
     "module/lorebooks-ui-strings",
     "type-declaration/lorebooks-controls",

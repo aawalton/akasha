@@ -4,6 +4,6 @@
 {"path":"agent/seat/stopping/seat-stopping.module.code.ts"}
 {"path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts"}
 {"path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.test.ts"}
-{"path":"commands/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}
-{"path":"commands/pages/seat/supervisor/restart/seat-supervisor-restart.command.test.ts"}
-{"path":"commands/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts"}
+{"path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}
+{"path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.test.ts"}
+{"path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts"}

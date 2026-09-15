@@ -176,7 +176,7 @@ export const temperCraftingAddon = {
     "module/writ-required-skill",
     "module/writ-saved-variables",
     "module/writ-settings-window",
-    "module/writ-slash-commands",
+    "module/writ-slash-command",
     "module/writ-smith-parser",
     "module/writ-smith-parser-ops",
     "module/writ-smith-parser-types",

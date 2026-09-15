@@ -1,7 +1,7 @@
 {"path":"pages/access/modules/answer-write/answer-write.module.code.ts"}
 {"path":"pages/ui/supabase/mutations/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"}
 {"path":"pages/ui/supabase/mutations/modules/use-optimistic-upsert-pages/use-optimistic-upsert-pages.module.code.ts"}
-{"path":"temper/commands/modules/inventory-settings-access/inventory-settings-access.module.code.ts"}
+{"path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts"}
 {"path":"temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"}
 {"path":"temper/player-inventory-management-ui/modules/use-inventory-import/use-inventory-import.module.code.ts"}
 {"path":"temper/player-profile/modules/use-player/use-player.module.code.ts"}

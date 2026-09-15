@@ -46,7 +46,7 @@ export const temperLibSets = {
     "module/lib-sets-core-itemid-decompress",
     "module/lib-sets-core-lifecycle-inventory-contextmenu",
     "module/lib-sets-core-lifecycle-loaded",
-    "module/lib-sets-core-lifecycle-slash-commands",
+    "module/lib-sets-core-lifecycle-slash-command",
     "module/lib-sets-core-lifecycle-ui-buttons",
     "module/lib-sets-core-load-sets",
     "module/lib-sets-core-load-sets-checktype",

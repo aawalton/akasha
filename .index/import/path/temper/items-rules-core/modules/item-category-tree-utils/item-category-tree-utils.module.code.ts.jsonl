@@ -1,4 +1,4 @@
-{"path":"temper/commands/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"}
+{"path":"temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"}
 {"path":"temper/player-inventory-management-ui/modules/inventory-rules-descriptions/inventory-rules-descriptions.module.code.ts"}
 {"path":"temper/player-inventory-management-ui/modules/inventory-rules-filter-predicates/inventory-rules-filter-predicates.module.code.ts"}
 {"path":"temper/player-inventory-management-ui/modules/rule-card-category-row/rule-card-category-row.module.code.tsx"}

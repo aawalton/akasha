@@ -47,10 +47,10 @@
 {"path":"code/ios-apps/modules/decode-harness-script/decode-harness-script.module.code.ts"}
 {"path":"code/ios-apps/pages/alanwalton/scripts/ios-seam/alanwalton-ios-seam.shell-script.scripting.code.ts"}
 {"path":"code/ios-harnesses/scripts/render-harness-run/render-harness-run.shell-script.scripting.code.ts"}
-{"path":"commands/arguments/modules/word-reading/argument-word-reading.module.code.ts"}
-{"path":"commands/modules/calling/calling.module.code.ts"}
-{"path":"commands/modules/calling/calling.module.test-fixtures.ts"}
-{"path":"commands/pages/music/rate/music-rate.command.code.ts"}
+{"path":"command/arguments/modules/word-reading/argument-word-reading.module.code.ts"}
+{"path":"command/modules/calling/calling.module.code.ts"}
+{"path":"command/modules/calling/calling.module.test-fixtures.ts"}
+{"path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"path":"domains/context/modules/agent-stated/agent-stated.module.code.ts"}
 {"path":"domains/context/modules/warranting/warranting.module.code.ts"}
 {"path":"domains/context/modules/warranting/warranting.module.test-fixtures.ts"}

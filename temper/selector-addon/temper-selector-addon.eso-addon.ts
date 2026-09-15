@@ -20,7 +20,7 @@ export const temperSelectorAddon = {
     "module/selector-public-api",
     "module/selector-saved-variables",
     "module/selector-search",
-    "module/selector-slash-commands",
+    "module/selector-slash-command",
     "module/selector-strings",
     "module/selector-types",
     "module/selector-ui-dropdown",

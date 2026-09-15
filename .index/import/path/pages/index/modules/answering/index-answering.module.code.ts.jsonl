@@ -17,7 +17,7 @@
 {"path":"checks/code-checks/pages/typecheck/typecheck.code-check.decision.code.ts"}
 {"path":"checks/modules/change-walking/change-walking.module.test-fixtures.ts"}
 {"path":"code/module-property-groups/modules/group-writing/group-writing.module.code.ts"}
-{"path":"commands/modules/value-minting/value-minting.module.code.ts"}
+{"path":"command/modules/value-minting/value-minting.module.code.ts"}
 {"path":"domains/plain-language/modules/shape-reading/shape-reading.module.code.ts"}
 {"path":"graph/modules/asking/graph-asking.module.code.ts"}
 {"path":"graph/modules/asking/graph-asking.module.test.ts"}

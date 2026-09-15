@@ -1,9 +1,9 @@
-{"path":"commands/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts"}
-{"path":"commands/pages/temper/inventory/parity/temper-inventory-parity.command.code.ts"}
-{"path":"temper/commands/modules/inventory-item-facts/inventory-item-facts.module.code.ts"}
-{"path":"temper/commands/modules/inventory-plan-inputs/inventory-plan-inputs.module.test.ts"}
-{"path":"temper/commands/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
-{"path":"temper/commands/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.test.ts"}
+{"path":"command/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts"}
+{"path":"command/pages/temper/inventory/parity/temper-inventory-parity.command.code.ts"}
+{"path":"temper/command/modules/inventory-item-facts/inventory-item-facts.module.code.ts"}
+{"path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.test.ts"}
+{"path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
+{"path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.test.ts"}
 {"path":"temper/items-addon/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"}
 {"path":"temper/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"}
 {"path":"temper/items-filters-addon/modules/panel-filter-binding/panel-filter-binding.module.code.ts"}

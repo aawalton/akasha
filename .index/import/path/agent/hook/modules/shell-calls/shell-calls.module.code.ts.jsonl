@@ -12,5 +12,5 @@
 {"path":"checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.code.ts"}
 {"path":"checks/code-checks/pages/no-refused-syntax/syntax-rules/no-libc-by-name/no-libc-by-name.syntax-rule.code.ts"}
 {"path":"checks/code-checks/pages/no-refused-syntax/syntax-rules/no-scrub-bash-env-undoes/no-scrub-bash-env-undoes.syntax-rule.code.ts"}
-{"path":"commands/pages/inference/capability-list/inference-capability-list.command.code.ts"}
-{"path":"commands/pages/inference/generate/inference-generate.command.code.ts"}
+{"path":"command/pages/inference/capability-list/inference-capability-list.command.code.ts"}
+{"path":"command/pages/inference/generate/inference-generate.command.code.ts"}

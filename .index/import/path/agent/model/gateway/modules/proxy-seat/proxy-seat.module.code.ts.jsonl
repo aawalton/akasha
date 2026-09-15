@@ -1,3 +1,3 @@
 {"path":"agent/model/gateway/modules/proxy-seat/proxy-seat.module.test.ts"}
-{"path":"commands/pages/model/gateway/modules/live-gateway-seat/live-gateway-seat.module.code.ts"}
-{"path":"commands/pages/model/gateway/status/model-gateway-status.command.code.ts"}
+{"path":"command/pages/model/gateway/modules/live-gateway-seat/live-gateway-seat.module.code.ts"}
+{"path":"command/pages/model/gateway/status/model-gateway-status.command.code.ts"}

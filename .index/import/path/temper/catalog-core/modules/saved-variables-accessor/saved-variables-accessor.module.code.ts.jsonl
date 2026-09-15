@@ -1,6 +1,6 @@
 {"path":"temper/catalog-addon/modules/catalog-auto-collect/catalog-auto-collect.module.code.ts"}
 {"path":"temper/catalog-addon/modules/catalog-collect-adapters/catalog-collect-adapters.module.code.ts"}
-{"path":"temper/catalog-addon/modules/catalog-commands/catalog-commands.module.code.ts"}
+{"path":"temper/catalog-addon/modules/catalog-command/catalog-command.module.code.ts"}
 {"path":"temper/catalog-addon/modules/catalog-entry/catalog-entry.module.code.ts"}
 {"path":"temper/catalog-addon/modules/catalog-invalidations/catalog-invalidations.module.code.ts"}
 {"path":"temper/catalog-addon/modules/catalog-public-api/catalog-public-api.module.code.ts"}

@@ -1,2 +1,2 @@
 {"path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"}
-{"path":"commands/modules/commit-author/commit-author.module.code.ts"}
+{"path":"command/modules/commit-author/commit-author.module.code.ts"}

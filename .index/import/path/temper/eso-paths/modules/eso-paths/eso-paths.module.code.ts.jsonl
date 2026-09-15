@@ -1,7 +1,7 @@
-{"path":"commands/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts"}
-{"path":"commands/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.code.ts"}
-{"path":"commands/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
-{"path":"commands/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"}
+{"path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts"}
+{"path":"command/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.code.ts"}
+{"path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
+{"path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"}
 {"path":"temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"}
 {"path":"temper/eso-paths/modules/eso-paths/eso-paths.module.test.ts"}
 {"path":"temper/upstream-data/modules/libsets-upstream-fetch/libsets-upstream-fetch.module.code.ts"}

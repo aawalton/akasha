@@ -6,9 +6,9 @@
 {"path":"checks/modules/checking/checking.module.code.ts"}
 {"path":"checks/modules/checking/checking.module.test-fixtures.ts"}
 {"path":"checks/modules/cost/check-cost.module.test.ts"}
-{"path":"commands/modules/apply-running/apply-running.module.code.ts"}
-{"path":"commands/modules/calling/calling.module.code.ts"}
-{"path":"commands/modules/change-ceiling/change-ceiling.module.code.ts"}
-{"path":"commands/modules/change-running/change-running.module.code.ts"}
-{"path":"commands/pages/deploy/deploy.command.code.ts"}
+{"path":"command/modules/apply-running/apply-running.module.code.ts"}
+{"path":"command/modules/calling/calling.module.code.ts"}
+{"path":"command/modules/change-ceiling/change-ceiling.module.code.ts"}
+{"path":"command/modules/change-running/change-running.module.code.ts"}
+{"path":"command/pages/deploy/deploy.command.code.ts"}
 {"path":"pages/service/modules/page-appending/page-appending.module.code.ts"}

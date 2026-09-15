@@ -51,9 +51,9 @@
 {"path":"code/modules/properties/reached-by-path.text-property.types.ts"}
 {"path":"code/rust-crates/properties/rust-modules.relation-property.types.ts"}
 {"path":"code/workspaces/properties/tool-reached.text-property.types.ts"}
-{"path":"commands/properties/command-arguments.record-property.types.ts"}
-{"path":"commands/properties/not-with.relation-property.types.ts"}
-{"path":"commands/properties/one-of.relation-property.types.ts"}
+{"path":"command/properties/command-arguments.record-property.types.ts"}
+{"path":"command/properties/not-with.relation-property.types.ts"}
+{"path":"command/properties/one-of.relation-property.types.ts"}
 {"path":"domains/initiatives/properties/constraints.standard-agent-english-property.types.ts"}
 {"path":"domains/initiatives/properties/intent-stack.record-property.types.ts"}
 {"path":"domains/lists/properties/list-members.record-property.types.ts"}

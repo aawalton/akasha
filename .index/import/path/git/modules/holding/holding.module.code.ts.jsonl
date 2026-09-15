@@ -3,9 +3,9 @@
 {"path":"agent/subagent/modules/landing-again/subagent-landing-again.module.test.ts"}
 {"path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"path":"code/editor/extension/modules/harness-call/harness-call.module.test.ts"}
-{"path":"commands/modules/applying/applying.module.code.ts"}
-{"path":"commands/modules/landing/landing.module.code.ts"}
-{"path":"commands/pages/deploy/modules/holding/deploy-holding.module.code.ts"}
-{"path":"commands/pages/deploy/modules/holding/deploy-holding.module.test.ts"}
-{"path":"commands/pages/index/refresh/index-refresh.command.code.ts"}
+{"path":"command/modules/applying/applying.module.code.ts"}
+{"path":"command/modules/landing/landing.module.code.ts"}
+{"path":"command/pages/deploy/modules/holding/deploy-holding.module.code.ts"}
+{"path":"command/pages/deploy/modules/holding/deploy-holding.module.test.ts"}
+{"path":"command/pages/index/refresh/index-refresh.command.code.ts"}
 {"path":"git/modules/holding/holding.module.test.ts"}

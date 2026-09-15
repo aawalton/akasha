@@ -5,6 +5,6 @@
 {"path":"temper/crafting-addon/modules/writ-required-skill/writ-required-skill.module.code.ts"}
 {"path":"temper/crafting-addon/modules/writ-saved-variables/writ-saved-variables.module.code.ts"}
 {"path":"temper/crafting-addon/modules/writ-settings-window/writ-settings-window.module.code.ts"}
-{"path":"temper/crafting-addon/modules/writ-slash-commands/writ-slash-commands.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-slash-command/writ-slash-command.module.code.ts"}
 {"path":"temper/crafting-addon/modules/writ-tooltip-text/writ-tooltip-text.module.code.ts"}
 {"path":"temper/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"}

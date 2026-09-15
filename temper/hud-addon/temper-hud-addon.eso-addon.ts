@@ -13,7 +13,7 @@ export const temperHudAddon = {
     "module/hud-addon-bar",
     "module/hud-addon-builtins",
     "module/hud-addon-command-registry",
-    "module/hud-addon-commands",
+    "module/hud-addon-command",
     "module/hud-addon-entry",
     "module/hud-addon-field-registry",
     "module/hud-addon-format",

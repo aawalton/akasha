@@ -1,6 +1,6 @@
-{"path":"commands/pages/temper/inventory/category-list/temper-inventory-category-list.command.code.ts"}
-{"path":"commands/pages/temper/inventory/category-list/temper-inventory-category-list.command.test.ts"}
-{"path":"temper/commands/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"}
+{"path":"command/pages/temper/inventory/category-list/temper-inventory-category-list.command.code.ts"}
+{"path":"command/pages/temper/inventory/category-list/temper-inventory-category-list.command.test.ts"}
+{"path":"temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"}
 {"path":"temper/items-addon/modules/inventory-category-tree/inventory-category-tree.module.code.ts"}
 {"path":"temper/items-core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"}
 {"path":"temper/items-core/modules/classify-item/classify-item.module.code.ts"}

@@ -13,8 +13,8 @@
 {"path":"checks/code-checks/pages/no-page-address-spelled/no-page-address-spelled.code-check.audit.code.ts"}
 {"path":"checks/code-checks/pages/no-page-address-spelled/no-page-address-spelled.code-check.decision.code.ts"}
 {"path":"checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.decision.code.ts"}
-{"path":"commands/modules/change-freshness/change-freshness.module.code.ts"}
-{"path":"commands/modules/change-freshness/change-freshness.module.test.ts"}
+{"path":"command/modules/change-freshness/change-freshness.module.code.ts"}
+{"path":"command/modules/change-freshness/change-freshness.module.test.ts"}
 {"path":"domains/context/warrants/file-itself/file-itself.context-warrant.code.ts"}
 {"path":"domains/context/warrants/file-itself/file-itself.context-warrant.test.ts"}
 {"path":"pages/index/modules/answering/index-answering.module.code.ts"}

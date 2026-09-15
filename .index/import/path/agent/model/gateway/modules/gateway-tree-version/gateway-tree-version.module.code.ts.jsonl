@@ -3,5 +3,5 @@
 {"path":"agent/seat/oauth-proxy/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"}
 {"path":"agent/seat/supervisors/supervisor-boot/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"}
 {"path":"agent/seat/supervisors/supervisor-boot/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"}
-{"path":"commands/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"}
-{"path":"commands/pages/model/gateway/status/model-gateway-status.command.code.ts"}
+{"path":"command/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"}
+{"path":"command/pages/model/gateway/status/model-gateway-status.command.code.ts"}

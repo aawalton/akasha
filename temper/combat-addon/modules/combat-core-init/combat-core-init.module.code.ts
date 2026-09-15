@@ -23,7 +23,7 @@ import {
   getSvDefaults,
   initializeSavedVariables,
 } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
-import { registerSlashCommands } from "akasha/temper/combat-addon/modules/combat-slash-command/combat-slash-commands.module.code.ts"
+import { registerSlashCommands } from "akasha/temper/combat-addon/modules/combat-slash-command/combat-slash-command.module.code.ts"
 import { initializeUI } from "akasha/temper/combat-addon/modules/combat-ui-window/combat-ui-window.module.code.ts"
 
 export function initializeCore(): undefined {

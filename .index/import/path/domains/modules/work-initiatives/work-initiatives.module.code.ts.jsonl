@@ -1,8 +1,8 @@
 {"path":"agent/seat/declaration/modules/seat-initiative/seat-initiative.module.code.ts"}
-{"path":"commands/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts"}
-{"path":"commands/pages/initiative/delete/initiative-delete.command.code.ts"}
-{"path":"commands/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts"}
-{"path":"commands/pages/initiative/move-intent/initiative-move-intent.command.code.ts"}
-{"path":"commands/pages/initiative/work-tree/initiative-work-tree.command.code.ts"}
-{"path":"commands/pages/initiative/work-tree/initiative-work-tree.command.test.ts"}
+{"path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts"}
+{"path":"command/pages/initiative/delete/initiative-delete.command.code.ts"}
+{"path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts"}
+{"path":"command/pages/initiative/move-intent/initiative-move-intent.command.code.ts"}
+{"path":"command/pages/initiative/work-tree/initiative-work-tree.command.code.ts"}
+{"path":"command/pages/initiative/work-tree/initiative-work-tree.command.test.ts"}
 {"path":"domains/modules/work-initiatives/work-initiatives.module.test.ts"}

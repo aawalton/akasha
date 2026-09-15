@@ -37,14 +37,14 @@
 {"path":"checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.decision.code.ts"}
 {"path":"checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.decision.test-fixtures.ts"}
 {"path":"checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.decision.code.ts"}
-{"path":"commands/pages/music/import-artist/music-import-artist.command.code.ts"}
-{"path":"commands/pages/music/next/music-next.command.code.ts"}
+{"path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
+{"path":"command/pages/music/next/music-next.command.code.ts"}
 {"path":"domains/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.code.ts"}
 {"path":"domains/context/warrants/file-property-file/file-property-file.context-warrant.code.ts"}
 {"path":"domains/context/warrants/file-property/file-property.context-warrant.code.ts"}
 {"path":"domains/standard-agent-english/modules/prose-reach/prose-reach.module.code.ts"}
 {"path":"domains/standard-agent-english/modules/prose-reach/prose-reach.module.test.ts"}
-{"path":"pages/commands/modules/page-secret-acting/page-secret-acting.module.code.ts"}
+{"path":"pages/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}
 {"path":"pages/index/identity/index-identity.index.code.ts"}
 {"path":"pages/index/identity/index-identity.index.test.ts"}
 {"path":"pages/index/modules/answering/index-answering.module.code.ts"}

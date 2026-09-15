@@ -2,5 +2,5 @@
 {"path":"alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"}
 {"path":"alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.test-fixtures.ts"}
 {"path":"alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.test.ts"}
-{"path":"commands/pages/music/import-artist/music-import-artist.command.code.ts"}
-{"path":"commands/pages/music/import-artist/music-import-artist.command.test.ts"}
+{"path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
+{"path":"command/pages/music/import-artist/music-import-artist.command.test.ts"}

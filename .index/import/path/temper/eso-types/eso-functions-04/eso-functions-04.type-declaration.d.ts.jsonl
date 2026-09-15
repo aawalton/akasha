@@ -1,7 +1,7 @@
 {"path":"temper/characters-capture-addon/modules/character-capture-base-ability/character-capture-base-ability.module.code.ts"}
 {"path":"temper/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}
 {"path":"temper/companions-addon/modules/companions-apply-build/companions-apply-build.module.code.ts"}
-{"path":"temper/companions-addon/modules/companions-commands/companions-commands.module.code.ts"}
+{"path":"temper/companions-addon/modules/companions-command/companions-command.module.code.ts"}
 {"path":"temper/companions-addon/modules/companions-entry/companions-entry.module.code.ts"}
 {"path":"temper/companions-addon/modules/companions-events/companions-events.module.code.ts"}
 {"path":"temper/companions-addon/modules/companions-globals/companions-globals.module.code.ts"}

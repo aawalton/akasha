@@ -51,10 +51,10 @@
 {"path":"checks/code-checks/pages/types-file-runs-nothing/types-file-runs-nothing.code-check.decision.test-fixtures.ts"}
 {"path":"checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
 {"path":"code/editor/extension/modules/transcript-sources/transcript-sources.module.test.ts"}
-{"path":"commands/modules/apply-running/apply-running.module.test.ts"}
-{"path":"commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
-{"path":"commands/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.test.ts"}
-{"path":"commands/pages/read/read.command.test-fixtures.ts"}
+{"path":"command/modules/apply-running/apply-running.module.test.ts"}
+{"path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
+{"path":"command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.test.ts"}
+{"path":"command/pages/read/read.command.test-fixtures.ts"}
 {"path":"domains/context/modules/agent-stated/agent-stated.module.test.ts"}
 {"path":"domains/context/modules/warranting/warranting.module.test-fixtures.ts"}
 {"path":"domains/context/modules/warranting/warranting.module.test.ts"}

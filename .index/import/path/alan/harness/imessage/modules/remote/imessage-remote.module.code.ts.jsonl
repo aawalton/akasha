@@ -1,5 +1,5 @@
-{"path":"commands/pages/imessage/contact-list/imessage-contact-list.command.code.ts"}
-{"path":"commands/pages/imessage/recent-list/imessage-recent-list.command.code.ts"}
-{"path":"commands/pages/imessage/search/imessage-search.command.code.ts"}
-{"path":"commands/pages/imessage/send/imessage-send.command.code.ts"}
-{"path":"commands/pages/imessage/unread-list/imessage-unread-list.command.code.ts"}
+{"path":"command/pages/imessage/contact-list/imessage-contact-list.command.code.ts"}
+{"path":"command/pages/imessage/recent-list/imessage-recent-list.command.code.ts"}
+{"path":"command/pages/imessage/search/imessage-search.command.code.ts"}
+{"path":"command/pages/imessage/send/imessage-send.command.code.ts"}
+{"path":"command/pages/imessage/unread-list/imessage-unread-list.command.code.ts"}

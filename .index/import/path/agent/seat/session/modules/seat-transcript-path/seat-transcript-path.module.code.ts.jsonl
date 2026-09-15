@@ -9,4 +9,4 @@
 {"path":"agent/seat/supervisors/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
 {"path":"agent/subagent/modules/liveness/subagent-liveness.module.code.ts"}
 {"path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
-{"path":"commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}
+{"path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}

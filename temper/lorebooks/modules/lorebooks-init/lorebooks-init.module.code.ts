@@ -17,7 +17,7 @@ import {
   createEideticLorebookLocation,
   createFakeEideticLorebookLocation,
   createFakeLorebookPin,
-} from "akasha/temper/lorebooks/modules/lorebooks-slash-command/lorebooks-slash-commands.module.code.ts"
+} from "akasha/temper/lorebooks/modules/lorebooks-slash-command/lorebooks-slash-command.module.code.ts"
 import { registerUiStrings } from "akasha/temper/lorebooks/modules/lorebooks-ui-strings/lorebooks-ui-strings.module.code.ts"
 
 registerUiStrings()

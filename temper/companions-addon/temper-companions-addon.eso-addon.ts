@@ -31,7 +31,7 @@ export const temperCompanionsAddon = {
     "module/companions-apply-build",
     "module/companions-codec",
     "module/companions-codec-constants",
-    "module/companions-commands",
+    "module/companions-command",
     "module/companions-constants",
     "module/companions-decoder",
     "module/companions-display-names",

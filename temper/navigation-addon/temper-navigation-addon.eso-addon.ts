@@ -116,7 +116,7 @@ export const temperNavigationAddon = {
     "module/destinations-pins-poi-types",
     "module/destinations-pins-qol-pins",
     "module/destinations-pins-sets",
-    "module/destinations-pins-slash-commands",
+    "module/destinations-pins-slash-command",
     "module/destinations-pins-stores",
     "module/destinations-pins-tooltips",
     "module/destinations-pins-unknown-pois",

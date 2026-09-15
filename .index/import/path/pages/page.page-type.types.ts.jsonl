@@ -64,7 +64,7 @@
 {"path":"alan/values/learn/mathematics/propositions/proposition.page-type.types.ts"}
 {"path":"checks/refusals/refusal.page-type.types.ts"}
 {"path":"code/held-addons/held-addon.page-type.types.ts"}
-{"path":"commands/arguments/argument.page-type.types.ts"}
+{"path":"command/arguments/argument.page-type.types.ts"}
 {"path":"design/interfaces/colors/color.page-type.types.ts"}
 {"path":"domains/domain.page-type.types.ts"}
 {"path":"domains/findings/finding.page-type.types.ts"}

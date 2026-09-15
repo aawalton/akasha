@@ -174,7 +174,7 @@
 {"path":"code/module-property-groups/properties/group-max-memory-mb.number-property.ts"}
 {"path":"code/module-property-groups/properties/group-max-wall-seconds.number-property.ts"}
 {"path":"code/type-declarations/properties/source-version.number-property.ts"}
-{"path":"commands/properties/timeout.number-property.ts"}
+{"path":"command/properties/timeout.number-property.ts"}
 {"path":"design/games/drives/properties/octalysis-number.number-property.ts"}
 {"path":"infrastructure/machines/computers/properties/cost.number-property.ts"}
 {"path":"infrastructure/machines/computers/properties/cpu-score.number-property.ts"}

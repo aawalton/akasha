@@ -6,6 +6,7 @@
 {"path":"pages/core/property-types/modules/boolean/boolean.module.code.ts"}
 {"path":"pages/core/property-types/modules/calendar-time/calendar-time.module.code.ts"}
 {"path":"pages/core/property-types/modules/date/date.module.code.ts"}
+{"path":"pages/core/property-types/modules/edge/relation.module.code.ts"}
 {"path":"pages/core/property-types/modules/filter-utils/filter-utils.module.code.ts"}
 {"path":"pages/core/property-types/modules/formula/formula.module.code.ts"}
 {"path":"pages/core/property-types/modules/instant/instant.module.code.ts"}
@@ -17,7 +18,6 @@
 {"path":"pages/core/property-types/modules/path-select/path-select.module.code.ts"}
 {"path":"pages/core/property-types/modules/progress/progress.module.code.ts"}
 {"path":"pages/core/property-types/modules/registry/registry.module.code.ts"}
-{"path":"pages/core/property-types/modules/edge/relation.module.code.ts"}
 {"path":"pages/core/property-types/modules/rich-document/rich-document.module.code.ts"}
 {"path":"pages/core/property-types/modules/rollup/rollup.module.code.ts"}
 {"path":"pages/core/property-types/modules/rrule/rrule.module.code.ts"}

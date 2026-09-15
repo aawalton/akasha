@@ -16,7 +16,7 @@
 {"path":"temper/navigation-addon/modules/destinations-pins-language/destinations-pins-language.module.code.ts"}
 {"path":"temper/navigation-addon/modules/destinations-pins-map-filters/destinations-pins-map-filters.module.code.ts"}
 {"path":"temper/navigation-addon/modules/destinations-pins-pin-layouts/destinations-pins-pin-layouts.module.code.ts"}
-{"path":"temper/navigation-addon/modules/destinations-pins-slash-commands/destinations-pins-slash-commands.module.code.ts"}
+{"path":"temper/navigation-addon/modules/destinations-pins-slash-command/destinations-pins-slash-command.module.code.ts"}
 {"path":"temper/navigation-addon/modules/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"}
 {"path":"temper/navigation-addon/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"}
 {"path":"temper/navigation-addon/modules/destinations-settings-achievement-global/destinations-settings-achievement-global.module.code.ts"}

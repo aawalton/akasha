@@ -1,4 +1,4 @@
 {"path":"changes/agent/file-content/change-file/change-file.change-agent.test.ts"}
 {"path":"checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.code.ts"}
 {"path":"code/module-property-groups/modules/group-writing/group-writing.module.test.ts"}
-{"path":"commands/modules/change-preparing/change-preparing.module.code.ts"}
+{"path":"command/modules/change-preparing/change-preparing.module.code.ts"}

@@ -203,9 +203,9 @@
 {"path":"code/module-property-groups/modules/group-writing/group-writing.module.code.ts"}
 {"path":"code/module-property-groups/modules/group-writing/group-writing.module.test.ts"}
 {"path":"code/workspaces/modules/manifest-finding/manifest-finding.module.code.ts"}
-{"path":"commands/modules/orphaning/orphaning.module.code.ts"}
-{"path":"commands/modules/value-minting/value-minting.module.code.ts"}
-{"path":"commands/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
+{"path":"command/modules/orphaning/orphaning.module.code.ts"}
+{"path":"command/modules/value-minting/value-minting.module.code.ts"}
+{"path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
 {"path":"pages/index/modules/carrying/index-carrying.module.code.ts"}
 {"path":"pages/index/modules/carrying/index-carrying.module.test-fixtures.ts"}
 {"path":"pages/index/modules/carrying/index-carrying.module.test.ts"}

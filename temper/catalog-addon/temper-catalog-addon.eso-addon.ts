@@ -15,7 +15,7 @@ export const temperCatalogAddon = {
     "module/catalog-api-test",
     "module/catalog-auto-collect",
     "module/catalog-collect-adapters",
-    "module/catalog-commands",
+    "module/catalog-command",
     "module/catalog-constants",
     "module/catalog-entry",
     "module/catalog-invalidations",

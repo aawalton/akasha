@@ -1,4 +1,4 @@
-{"path":"alan/web/modules/nav-commands/nav-commands.module.code.tsx"}
+{"path":"alan/web/modules/nav-command/nav-command.module.code.tsx"}
 {"path":"design/interfaces/primitives/modules/command-palette/command-palette.module.code.tsx"}
 {"path":"design/interfaces/primitives/modules/shortcut-surfaces/shortcut-surfaces.module.code.ts"}
 {"path":"design/interfaces/primitives/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"}

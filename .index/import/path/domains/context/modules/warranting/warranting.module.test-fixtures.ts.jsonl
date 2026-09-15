@@ -1,4 +1,4 @@
-{"path":"commands/pages/read/read.command.test-fixtures.ts"}
+{"path":"command/pages/read/read.command.test-fixtures.ts"}
 {"path":"domains/context/modules/agent-stated/agent-stated.module.test.ts"}
 {"path":"domains/context/modules/warranting/warranting.module.test.ts"}
 {"path":"domains/context/warrants/agent-akasha/agent-akasha.context-warrant.test.ts"}

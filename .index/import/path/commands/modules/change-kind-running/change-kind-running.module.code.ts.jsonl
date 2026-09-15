@@ -1,9 +1,0 @@
-{"path":"changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"}
-{"path":"commands/modules/apply-running/apply-running.module.code.ts"}
-{"path":"commands/modules/applying/applying.module.code.ts"}
-{"path":"commands/modules/applying/applying.module.test.ts"}
-{"path":"commands/modules/change-kind-running/change-kind-running.module.test-fixtures.ts"}
-{"path":"commands/modules/change-kind-running/change-kind-running.module.test.ts"}
-{"path":"commands/modules/change-preparing/change-preparing.module.test.ts"}
-{"path":"commands/modules/landing-reading/landing-reading.module.code.ts"}
-{"path":"commands/modules/landing-reading/landing-reading.module.test.ts"}

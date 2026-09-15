@@ -207,7 +207,7 @@
 {"path":"code/audit-ast-unused/audit-ast-unused.domain.ts"}
 {"path":"code/bodies/code-bodies.domain.ts"}
 {"path":"code/browser/browser.domain.ts"}
-{"path":"code/browser/commands/browser-commands.domain.ts"}
+{"path":"code/browser/command/browser-commands.domain.ts"}
 {"path":"code/browser/launch-env/browser-launch-env.domain.ts"}
 {"path":"code/browser/test-harness/browser-test-harness.domain.ts"}
 {"path":"code/code.domain.ts"}
@@ -242,7 +242,7 @@
 {"path":"code/stylesheets/stylesheet.page-type.types.ts"}
 {"path":"code/type-declarations/type-declaration.page-type.types.ts"}
 {"path":"code/workspaces/workspace.page-type.types.ts"}
-{"path":"commands/namespaces/namespace.page-type.types.ts"}
+{"path":"command/namespaces/namespace.page-type.types.ts"}
 {"path":"design/design.domain.ts"}
 {"path":"design/games/design-games.domain.ts"}
 {"path":"design/games/drives/drive.page-type.types.ts"}
@@ -307,7 +307,7 @@
 {"path":"infrastructure/inference/clients/inference-clients.domain.ts"}
 {"path":"infrastructure/inference/comfy/comfy.domain.ts"}
 {"path":"infrastructure/inference/comfy/z-image-turbo/z-image-turbo.domain.ts"}
-{"path":"infrastructure/inference/commands/inference-commands.domain.ts"}
+{"path":"infrastructure/inference/command/inference-commands.domain.ts"}
 {"path":"infrastructure/inference/generations/generation.domain.ts"}
 {"path":"infrastructure/inference/generations/upscale/upscale.domain.ts"}
 {"path":"infrastructure/inference/generations/wan/wan.domain.ts"}
@@ -351,7 +351,7 @@
 {"path":"infrastructure/telemetry/metrics/metric.domain.ts"}
 {"path":"infrastructure/telemetry/telemetry.domain.ts"}
 {"path":"pages/access/page-access.domain.ts"}
-{"path":"pages/commands/page-commands.domain.ts"}
+{"path":"pages/command/page-commands.domain.ts"}
 {"path":"pages/core/filter/page-core-filter.domain.ts"}
 {"path":"pages/core/generated/page-core-generated.domain.ts"}
 {"path":"pages/core/json-patch/page-core-json-patch.domain.ts"}
@@ -476,7 +476,7 @@
 {"path":"temper/characters/temper-character.domain.ts"}
 {"path":"temper/chat-entry/temper-chat-entry.domain.ts"}
 {"path":"temper/classes/temper-classes.domain.ts"}
-{"path":"temper/commands/temper-commands.domain.ts"}
+{"path":"temper/command/temper-commands.domain.ts"}
 {"path":"temper/community-addons/temper-community-addons.domain.ts"}
 {"path":"temper/companion-codec/temper-companion-codec.domain.ts"}
 {"path":"temper/companions-core/temper-companions-core.domain.ts"}

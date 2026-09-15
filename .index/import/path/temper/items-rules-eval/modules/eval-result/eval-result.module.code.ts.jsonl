@@ -1,10 +1,10 @@
-{"path":"commands/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts"}
-{"path":"commands/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.test.ts"}
-{"path":"commands/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts"}
-{"path":"commands/pages/temper/inventory/outcome-parity/temper-inventory-outcome-parity.command.code.ts"}
-{"path":"commands/pages/temper/inventory/parity/temper-inventory-parity.command.code.ts"}
-{"path":"commands/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"}
-{"path":"commands/pages/temper/inventory/plan/temper-inventory-plan.command.test.ts"}
+{"path":"command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts"}
+{"path":"command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.test.ts"}
+{"path":"command/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts"}
+{"path":"command/pages/temper/inventory/outcome-parity/temper-inventory-outcome-parity.command.code.ts"}
+{"path":"command/pages/temper/inventory/parity/temper-inventory-parity.command.code.ts"}
+{"path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"}
+{"path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.test.ts"}
 {"path":"temper/items-addon/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"}
 {"path":"temper/items-addon/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"}
 {"path":"temper/items-rules-eval/modules/evaluator/evaluator.module.code.ts"}

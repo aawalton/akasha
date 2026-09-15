@@ -1,4 +1,4 @@
 {"path":"checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.decision.code.ts"}
 {"path":"checks/code-checks/pages/typecheck/typecheck.code-check.decision.code.ts"}
-{"path":"commands/modules/value-minting/value-minting.module.code.ts"}
+{"path":"command/modules/value-minting/value-minting.module.code.ts"}
 {"path":"pages/index/modules/generated-properties/generated-properties.module.test.ts"}

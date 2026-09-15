@@ -81,9 +81,9 @@
 {"path":"code/ios-apps/properties/sync-script.relation-property.ts"}
 {"path":"code/ios-programs/properties/components.relation-property.ts"}
 {"path":"code/rust-crates/properties/rust-modules.relation-property.ts"}
-{"path":"commands/arguments/properties/argument.relation-property.ts"}
-{"path":"commands/properties/not-with.relation-property.ts"}
-{"path":"commands/properties/one-of.relation-property.ts"}
+{"path":"command/arguments/properties/argument.relation-property.ts"}
+{"path":"command/properties/not-with.relation-property.ts"}
+{"path":"command/properties/one-of.relation-property.ts"}
 {"path":"domains/initiatives/properties/initiative-parent.relation-property.ts"}
 {"path":"domains/initiatives/properties/initiative-persona.relation-property.ts"}
 {"path":"domains/initiatives/properties/initiative.relation-property.ts"}

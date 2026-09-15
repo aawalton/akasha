@@ -93,7 +93,7 @@ export const alanWeb = {
     "module/mini-player-bar",
     "module/native-auth-refresh",
     "module/native-auth-refresh-sync",
-    "module/nav-commands",
+    "module/nav-command",
     "module/next-unread",
     "module/offline-cache-fs",
     "module/offline-cache-namespace",

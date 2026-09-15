@@ -2,7 +2,7 @@
 {"path":"alan/atlas-web/modules/atlas-nav-items/atlas-nav-items.module.code.ts"}
 {"path":"alan/web/modules/alan-app-shell/alan-app-shell.module.code.tsx"}
 {"path":"alan/web/modules/alan-nav-items/alan-nav-items.module.code.ts"}
-{"path":"alan/web/modules/nav-commands/nav-commands.module.code.tsx"}
+{"path":"alan/web/modules/nav-command/nav-command.module.code.tsx"}
 {"path":"design/interfaces/layout/modules/app-shell-bottom-nav/app-shell-bottom-nav.module.code.tsx"}
 {"path":"design/interfaces/layout/modules/app-shell-context/app-shell-context.module.code.tsx"}
 {"path":"design/interfaces/layout/modules/app-shell-more-drawer/app-shell-more-drawer.module.code.tsx"}

@@ -1,6 +1,6 @@
-{"path":"commands/pages/temper/inventory/rule/list/temper-inventory-rule-list.command.code.ts"}
-{"path":"temper/commands/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"}
-{"path":"temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"}
+{"path":"command/pages/temper/inventory/rule/list/temper-inventory-rule-list.command.code.ts"}
+{"path":"temper/command/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"}
+{"path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"}
 {"path":"temper/items-rules-core/modules/inventory-rule-classify/inventory-rule-classify.module.code.ts"}
 {"path":"temper/player-inventory-management-ui/modules/inventory-character-rules-panel/inventory-character-rules-panel.module.code.tsx"}
 {"path":"temper/player-inventory-management-ui/modules/inventory-companion-rules-panel/inventory-companion-rules-panel.module.code.tsx"}

@@ -6,8 +6,8 @@
 {"path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"}
 {"path":"alan/track/daily/modules/day-messages-mining/day-messages-mining.module.code.ts"}
 {"path":"code/shell/terminal/modules/document-present/document-present.module.code.ts"}
-{"path":"commands/modules/commit-author/commit-author.module.code.ts"}
-{"path":"commands/pages/measure/persona/measure-persona.command.code.ts"}
-{"path":"commands/pages/seat/messaged/seat-messaged.command.code.ts"}
-{"path":"commands/pages/seat/messaged/seat-messaged.command.test.ts"}
+{"path":"command/modules/commit-author/commit-author.module.code.ts"}
+{"path":"command/pages/measure/persona/measure-persona.command.code.ts"}
+{"path":"command/pages/seat/messaged/seat-messaged.command.code.ts"}
+{"path":"command/pages/seat/messaged/seat-messaged.command.test.ts"}
 {"path":"personas/modules/targets/persona-targets.module.code.ts"}

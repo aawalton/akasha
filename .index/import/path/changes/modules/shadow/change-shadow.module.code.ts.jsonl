@@ -282,6 +282,6 @@
 {"path":"changes/runners/pages/test-change-running/test-change-running.change-runner.test.ts"}
 {"path":"changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"}
 {"path":"checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.code.ts"}
-{"path":"commands/modules/change-acting/change-acting.module.test-fixtures.ts"}
-{"path":"commands/modules/change-running/change-running.module.code.ts"}
-{"path":"commands/modules/change-running/change-running.module.test-fixtures.ts"}
+{"path":"command/modules/change-acting/change-acting.module.test-fixtures.ts"}
+{"path":"command/modules/change-running/change-running.module.code.ts"}
+{"path":"command/modules/change-running/change-running.module.test-fixtures.ts"}

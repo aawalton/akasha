@@ -112,10 +112,10 @@
 {"path":"code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.code.ts"}
 {"path":"code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.test.ts"}
 {"path":"code/shell/terminal/modules/terminal-seat-stating/terminal-seat-stating.module.code.ts"}
-{"path":"commands/modules/apply-running/apply-running.module.test.ts"}
-{"path":"commands/modules/commit-author/commit-author.module.code.ts"}
-{"path":"commands/pages/alan/food/alan-food.command.code.ts"}
-{"path":"commands/pages/page/tree/page-tree.command.code.ts"}
+{"path":"command/modules/apply-running/apply-running.module.test.ts"}
+{"path":"command/modules/commit-author/commit-author.module.code.ts"}
+{"path":"command/pages/alan/food/alan-food.command.code.ts"}
+{"path":"command/pages/page/tree/page-tree.command.code.ts"}
 {"path":"design/language/lua-compiler/modules/lualib-pages/lualib-pages.module.code.ts"}
 {"path":"domains/plain-language/modules/onnx-parsing/onnx-parsing.module.code.ts"}
 {"path":"infrastructure/cluster/manifests/modules/orphan-resource-audit/orphan-resource-audit.module.code.ts"}

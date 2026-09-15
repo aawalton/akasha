@@ -9,4 +9,4 @@
 {"path":"agent/seat/page/modules/values/seat-page-values.module.code.ts"}
 {"path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.code.ts"}
 {"path":"agent/seat/supervisors/supervisor-action/modules/seat-control/seat-control.module.code.ts"}
-{"path":"commands/pages/seat/transcript-list/seat-transcript-list.command.code.ts"}
+{"path":"command/pages/seat/transcript-list/seat-transcript-list.command.code.ts"}

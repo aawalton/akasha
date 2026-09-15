@@ -54,7 +54,7 @@
 {"path":"code/held-addons/properties/ti-clean.boolean-property.ts"}
 {"path":"code/modules/properties/answers-a-checkout-root.boolean-property.ts"}
 {"path":"code/shell-scripts/properties/sourced.boolean-property.ts"}
-{"path":"commands/arguments/properties/repeats.boolean-property.ts"}
+{"path":"command/arguments/properties/repeats.boolean-property.ts"}
 {"path":"domains/context/warrants/properties/runs-on-read.boolean-property.ts"}
 {"path":"domains/context/warrants/properties/runs-on-write.boolean-property.ts"}
 {"path":"domains/context/warrants/properties/transitive.boolean-property.ts"}

@@ -1,4 +1,4 @@
-{"path":"commands/pages/deploy/modules/image-pushing/deploy-image-pushing.module.code.ts"}
+{"path":"command/pages/deploy/modules/image-pushing/deploy-image-pushing.module.code.ts"}
 {"path":"infrastructure/container-image/modules/image-build/image-build.module.test.ts"}
 {"path":"infrastructure/container-image/modules/image-inputs/image-inputs.module.code.ts"}
 {"path":"infrastructure/container-image/modules/image-inputs/image-inputs.module.test.ts"}

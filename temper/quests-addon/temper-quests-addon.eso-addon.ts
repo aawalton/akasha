@@ -18,7 +18,7 @@ export const temperQuestsAddon = {
     "module/quests-entry",
     "module/quests-public-api",
     "module/quests-saved-variables",
-    "module/quests-slash-commands",
+    "module/quests-slash-command",
     "module/quests-trace",
     "module/quests-trace-buffer",
   ],

@@ -1,9 +1,9 @@
-{"path":"commands/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"}
-{"path":"commands/pages/temper/inventory/plan/temper-inventory-plan.command.test.ts"}
-{"path":"commands/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.code.ts"}
-{"path":"commands/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.test.ts"}
-{"path":"temper/commands/modules/inventory-parity-routing/inventory-parity-routing.module.code.ts"}
-{"path":"temper/commands/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"}
+{"path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"}
+{"path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.test.ts"}
+{"path":"command/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.code.ts"}
+{"path":"command/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.test.ts"}
+{"path":"temper/command/modules/inventory-parity-routing/inventory-parity-routing.module.code.ts"}
+{"path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"}
 {"path":"temper/items-rules-core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"}
 {"path":"temper/items-rules-matcher/modules/inventory-item-classifier/inventory-item-classifier.module.code.ts"}
 {"path":"temper/items-rules-matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.code.ts"}

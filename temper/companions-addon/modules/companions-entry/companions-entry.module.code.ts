@@ -34,7 +34,7 @@ import {
   startPerfTrace,
 } from "akasha/temper/capture-perf/modules/perf-trace/perf-trace.module.code.ts"
 import { initializeFcoCompanion } from "akasha/temper/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"
-import { refreshAllCompanionData } from "akasha/temper/companions-addon/modules/companions-command/companions-commands.module.code.ts"
+import { refreshAllCompanionData } from "akasha/temper/companions-addon/modules/companions-command/companions-command.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/companions-addon/modules/companions-constants/companions-constants.module.code.ts"
 import { createCompanionEquipmentPanel } from "akasha/temper/companions-addon/modules/companions-equipment-panel/companions-equipment-panel.module.code.ts"
 import { refreshCompanionEquipmentPanel } from "akasha/temper/companions-addon/modules/companions-equipment-refresh/companions-equipment-refresh.module.code.ts"

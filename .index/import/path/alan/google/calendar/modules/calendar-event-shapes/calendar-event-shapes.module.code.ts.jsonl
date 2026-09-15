@@ -1,5 +1,5 @@
 {"path":"alan/google/calendar/modules/calendar-event-schema/calendar-event-schema.module.code.ts"}
 {"path":"alan/google/calendar/modules/calendar-events/calendar-events.module.code.ts"}
 {"path":"alan/google/calendar/modules/send-updates-narrowing/send-updates-narrowing.module.code.ts"}
-{"path":"commands/modules/calendar-eventing/calendar-eventing.module.code.ts"}
-{"path":"commands/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.test.ts"}
+{"path":"command/modules/calendar-eventing/calendar-eventing.module.code.ts"}
+{"path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.test.ts"}

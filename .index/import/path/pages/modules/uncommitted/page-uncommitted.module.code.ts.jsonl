@@ -23,10 +23,10 @@
 {"path":"alan/track/daily/modules/day-messages-totalling/day-messages-totalling.module.code.ts"}
 {"path":"alan/track/daily/modules/day-messages/day-messages.module.code.ts"}
 {"path":"checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.code.ts"}
-{"path":"commands/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
-{"path":"commands/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts"}
-{"path":"commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
-{"path":"commands/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}
+{"path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
+{"path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts"}
+{"path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
+{"path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}
 {"path":"infrastructure/services/workstations/modules/service-beating/service-beating.module.code.ts"}
 {"path":"infrastructure/services/workstations/modules/service-beating/service-beating.module.test.ts"}
 {"path":"infrastructure/services/workstations/modules/service-health/service-health.module.code.ts"}

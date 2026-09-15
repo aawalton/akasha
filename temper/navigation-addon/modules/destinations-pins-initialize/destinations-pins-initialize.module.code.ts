@@ -1,4 +1,4 @@
-import "akasha/temper/navigation-addon/modules/destinations-pins-slash-command/destinations-pins-slash-commands.module.code.ts"
+import "akasha/temper/navigation-addon/modules/destinations-pins-slash-command/destinations-pins-slash-command.module.code.ts"
 import { registerSettingsStrings } from "akasha/temper/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/navigation-addon/modules/destinations-names/destinations-names.module.code.ts"
 import {

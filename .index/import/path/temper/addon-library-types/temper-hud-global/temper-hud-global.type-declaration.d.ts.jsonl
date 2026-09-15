@@ -1,5 +1,5 @@
 {"path":"temper/hud-addon/modules/hud-addon-public-api/hud-addon-public-api.module.code.ts"}
 {"path":"temper/items-addon/modules/inventory-hud-fields/inventory-hud-fields.module.code.ts"}
-{"path":"temper/quests-addon/modules/quests-slash-commands/quests-slash-commands.module.code.ts"}
-{"path":"temper/selector-addon/modules/selector-slash-commands/selector-slash-commands.module.code.ts"}
+{"path":"temper/quests-addon/modules/quests-slash-command/quests-slash-command.module.code.ts"}
+{"path":"temper/selector-addon/modules/selector-slash-command/selector-slash-command.module.code.ts"}
 {"path":"temper/trading-addon/modules/trading-entry/trading-entry.module.code.ts"}
