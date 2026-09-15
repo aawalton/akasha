@@ -50,7 +50,7 @@ export function bodyOf(
     keys: KEYS,
     values: {
       id: id ?? undefined,
-      type: SUBAGENT,
+      type: namedAs(PAGE_TYPE, SUBAGENT, null),
       slug,
       principalSeatName: namedAs(SEAT, seatName, null),
       assignmentSlug,

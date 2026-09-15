@@ -6,7 +6,7 @@ const HELD_ID = "01a06d00-0000-7000-8000-000000000001"
 const STATES = [
   "import type { Subagent } from",
   "export const akashaAbc = {",
-  'type: "subagent"',
+  'type: "page-type/subagent"',
   'slug: "akasha-abc"',
   'principalSeatName: "seat/akasha"',
   'assignmentSlug: "domain/akasha-system"',
