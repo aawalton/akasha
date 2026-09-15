@@ -1891,11 +1891,11 @@
 {"propertySlug":"invariant-kind","path":"temper/web/modules/companions-filter-types/companions-filter-types.module.ts","id":"01a06421-2527-72cf-81cf-35554408ce56"}
 {"propertySlug":"invariant-kind","path":"temper/web/modules/format-time-ago/format-time-ago.module.ts","id":"01a06432-b190-70c7-9a7e-6b7554e6dccf"}
 {"propertySlug":"invariant-kind","path":"temper/web/modules/watcher-build-status/watcher-build-status.module.ts","id":"01a0640f-8510-74a0-a7e6-a020f4b468ed"}
-{"propertySlug":"invariant-kind","path":"util/digit-padding/digit-padding.domain.ts","id":"01a05c8b-6039-77c9-8131-222d1705c4c3"}
 {"propertySlug":"invariant-kind","path":"util/fs/modules/expand-tilde/expand-tilde.module.ts","id":"01a05c4c-9442-70c2-948c-b1d7ad5a033f"}
 {"propertySlug":"invariant-kind","path":"util/fs/modules/file-size/file-size.module.ts","id":"01a08182-0997-7171-8a4f-afaacaf31310"}
 {"propertySlug":"invariant-kind","path":"util/fs/modules/whole-writing/whole-writing.module.ts","id":"01a09429-a77b-7673-8ae4-d384444c7b7a"}
 {"propertySlug":"invariant-kind","path":"util/modules/during-call/during-call.module.ts","id":"01a05cb3-7cca-7613-8b60-5d8a19e74370"}
+{"propertySlug":"invariant-kind","path":"util/modules/pad-two/pad-two.module.ts","id":"01a05c8b-6039-7947-8056-77c452128ce1"}
 {"propertySlug":"invariant-kind","path":"util/modules/sha256-hex/sha256-hex.module.ts","id":"01a08ef4-823c-79ae-8b62-4de2fcf1a1b5"}
 {"propertySlug":"invariant-kind","path":"util/narrow/modules/escape-reg-exp/escape-reg-exp.module.ts","id":"01a08ddd-31b1-78ff-9e8a-a1d35a2b4530"}
 {"propertySlug":"invariant-kind","path":"util/narrow/modules/record-field/record-field.module.ts","id":"01a08e04-e54a-7ebc-acbf-ba372a5763fe"}

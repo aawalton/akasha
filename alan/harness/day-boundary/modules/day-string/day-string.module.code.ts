@@ -1,4 +1,4 @@
-import { padTwo } from "akasha/util/digit-padding/modules/pad-two/pad-two.module.code.ts"
+import { padTwo } from "akasha/util/modules/pad-two/pad-two.module.code.ts"
 
 export const MS_PER_DAY = 86_400_000
 

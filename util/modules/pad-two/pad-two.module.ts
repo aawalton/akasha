@@ -1,11 +1,11 @@
-import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const digitPadding = {
-  id: "01a05c8b-6039-77c9-8131-222d1705c4c3",
-  type: "domain",
-  slug: "digit-padding",
-  definition: "how a number too short is filled out with leading zeros",
-  parts: ["module/pad-two"],
+export const padTwo = {
+  id: "01a05c8b-6039-7947-8056-77c452128ce1",
+  type: "module",
+  slug: "pad-two",
+  definition: "a number written to two characters, filled out with a leading zero",
+  code: "ts",
   invariants: [
     {
       invariantKind: "absence",
@@ -25,4 +25,4 @@ export const digitPadding = {
         "A shorter answer breaks a caller that parses back the answer this package writes.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies Module

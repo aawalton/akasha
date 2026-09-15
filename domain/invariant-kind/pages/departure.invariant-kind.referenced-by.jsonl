@@ -5256,7 +5256,6 @@
 {"propertySlug":"invariant-kind","path":"text/quote/quote.domain.ts","id":"01a06815-ceaf-7d64-bb5e-3b8a0ff93c0f"}
 {"propertySlug":"invariant-kind","path":"type/import/type-import.domain.ts","id":"01a049e9-651c-7007-8abb-675c750009bb"}
 {"propertySlug":"invariant-kind","path":"type/type.domain.ts","id":"01a049e9-651c-7006-896c-2bffa71e2d0a"}
-{"propertySlug":"invariant-kind","path":"util/digit-padding/digit-padding.domain.ts","id":"01a05c8b-6039-77c9-8131-222d1705c4c3"}
 {"propertySlug":"invariant-kind","path":"util/fs/modules/anything-there/anything-there.module.ts","id":"01a08e16-6dcf-7030-a111-e379d16e22f5"}
 {"propertySlug":"invariant-kind","path":"util/fs/modules/atomic-write/atomic-write.module.ts","id":"01a05c4c-9441-7a1c-a7fc-dc1ab3914181"}
 {"propertySlug":"invariant-kind","path":"util/fs/modules/file-size/file-size.module.ts","id":"01a08182-0997-7171-8a4f-afaacaf31310"}
@@ -5265,6 +5264,7 @@
 {"propertySlug":"invariant-kind","path":"util/fs/modules/text-there/text-there.module.ts","id":"01a08e3b-5dd7-722f-9715-fa8d95ddd1b2"}
 {"propertySlug":"invariant-kind","path":"util/fs/modules/whole-writing/whole-writing.module.ts","id":"01a09429-a77b-7673-8ae4-d384444c7b7a"}
 {"propertySlug":"invariant-kind","path":"util/modules/during-call/during-call.module.ts","id":"01a05cb3-7cca-7613-8b60-5d8a19e74370"}
+{"propertySlug":"invariant-kind","path":"util/modules/pad-two/pad-two.module.ts","id":"01a05c8b-6039-7947-8056-77c452128ce1"}
 {"propertySlug":"invariant-kind","path":"util/modules/sha256-hex/sha256-hex.module.ts","id":"01a08ef4-823c-79ae-8b62-4de2fcf1a1b5"}
 {"propertySlug":"invariant-kind","path":"util/narrow/modules/as-record/as-record.module.ts","id":"01a05c94-2bfb-7908-974d-2bd990ac9a56"}
 {"propertySlug":"invariant-kind","path":"util/narrow/modules/base64-url/base64-url.module.ts","id":"01a08dda-ba3d-7b5a-9512-e8a36162fba1"}

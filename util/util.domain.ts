@@ -7,7 +7,6 @@ export const util = {
   definition: "the pieces every domain reaches for and no domain claims",
 
   parts: [
-    "domain/digit-padding",
     "domain/util-fs",
     "domain/util-narrow",
     "domain/util-process",
@@ -19,6 +18,7 @@ export const util = {
     "domain/util-timing",
     "domain/util-waiting",
     "module/during-call",
+    "module/pad-two",
     "module/sha256-hex",
   ],
   invariants: [

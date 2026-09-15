@@ -26,7 +26,7 @@ import {
   numberAt,
   textIn,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { padTwo } from "akasha/util/digit-padding/modules/pad-two/pad-two.module.code.ts"
+import { padTwo } from "akasha/util/modules/pad-two/pad-two.module.code.ts"
 
 export type LevelsReading =
   | { readonly read: "levels"; readonly levels: { safetyLevel?: string; difficultyLevel?: string } }

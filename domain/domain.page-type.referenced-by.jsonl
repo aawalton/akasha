@@ -614,7 +614,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/text.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"type/import/type-import.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"type/type.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/digit-padding/digit-padding.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/fs/util-fs.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/narrow/util-narrow.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/process/util-process.domain.ts"}
