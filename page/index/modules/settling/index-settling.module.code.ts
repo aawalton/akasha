@@ -48,12 +48,17 @@ import {
 } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
 import { referencesAt } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
-import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  textAt,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   identifyingFrom,
   sourceAmong,
   sourceIn,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+
+const ID = "id"
 
 function keyOf(one: Entry): string {
   return `${one.at} ${one.line}`
@@ -294,12 +299,25 @@ export function settlingOver(
       namedFrom(one.value, one.path, known, repo, rowsFor(one.path, one.value, known, nowBody))
     ),
   ]
-  const vacated = new Set(
-    held.flatMap((one) => {
-      if (one.was === null || one.now !== null) return []
-      const at = referencesAt(under(repo, one.path))
-      return at === null ? [] : [at]
-    })
+  const arrived = new Map<string, string>()
+  for (const one of held) {
+    if (one.now === null) continue
+    const at = referencesAt(under(repo, one.path))
+    const id = textAt(one.now, ID)
+    if (at !== null && id !== null) arrived.set(id, at)
+  }
+  const emptied = held.flatMap((one) => {
+    if (one.was === null || one.now !== null) return []
+    const at = referencesAt(under(repo, one.path))
+    if (at === null) return []
+    const id = textAt(one.was, ID)
+    return [{ at, to: id === null ? undefined : arrived.get(id) }]
+  })
+  const vacated = new Set(emptied.map((one) => one.at))
+  const movedTo = new Map(
+    emptied.flatMap((one) =>
+      one.to === undefined || one.to === one.at ? [] : [[one.at, one.to] as const]
+    )
   )
   const leftBehind = [...vacated].flatMap((at) =>
     (reading.read(at) ?? "")
@@ -307,6 +325,15 @@ export function settlingOver(
       .filter((line) => line !== "")
       .map((line) => ({ at, line }))
   )
+  const refilingAt = new Set(refiling.map((one) => under(repo, one.path)))
+  const carriedOn = leftBehind.flatMap((one) => {
+    const to = movedTo.get(one.at)
+    if (to === undefined) return []
+    const said = JSON.parse(one.line) as { readonly path?: unknown }
+    if (typeof said.path !== "string") return []
+    if (carriedAt.has(said.path) || refilingAt.has(said.path)) return []
+    return [{ at: to, line: one.line }]
+  })
   const references = filingOf(
     [
       ...leftBehind,
@@ -316,6 +343,7 @@ export function settlingOver(
       ),
     ],
     [
+      ...carriedOn,
       ...referencedNow.flatMap((one) => one.entries),
       ...importing.flatMap((one) =>
         one.after === null ? [] : importedFrom(stepped, one.after, one.path, repo, naming)

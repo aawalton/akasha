@@ -140,6 +140,14 @@ export const indexSettling = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A page moving takes to its new place the references it had at its old place.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A reference from a page the settle refiles is left out of what moves that way.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "The reading a settle leaves has the references that settle files.",
     },
     {
