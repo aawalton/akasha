@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const runelordsTheRunelords = {
   id: "019db533-f39a-78a9-a1c1-3f9fd2915763",
-  type: "book",
+  type: "page-type/book",
   slug: "runelords-the-runelords",
   title: "Runelords: The Runelords",
   status: "not-started",

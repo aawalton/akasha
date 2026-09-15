@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const salvosCorruptionAndCentinels = {
   id: "019db533-f391-7601-8786-aae9254d572d",
-  type: "book",
+  type: "page-type/book",
   slug: "salvos-corruption-and-centinels",
   title: "Salvos: Corruption and Centinels",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const somniaOnlineFragments = {
   id: "019db533-f391-764b-bbfb-9769905eb029",
-  type: "book",
+  type: "page-type/book",
   slug: "somnia-online-fragments",
   title: "Somnia Online: Fragments",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const powderMageTheCrimsonCampaign = {
   id: "019db533-f39a-7b1c-98d1-f558280da41e",
-  type: "book",
+  type: "page-type/book",
   slug: "powder-mage-the-crimson-campaign",
   title: "Powder Mage: The Crimson Campaign",
   status: "not-started",

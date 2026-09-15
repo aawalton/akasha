@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const reunion = {
   id: "019db533-f399-7aea-ae40-9b41d16ed02e",
-  type: "book",
+  type: "page-type/book",
   slug: "reunion",
   title: "Reunion",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const robertLangdonTheSecretOfSecrets = {
   id: "019db533-f38b-7169-8844-24b4ce70717f",
-  type: "book",
+  type: "page-type/book",
   slug: "robert-langdon-the-secret-of-secrets",
   title: "Robert Langdon: The Secret of Secrets",
   status: "not-started",

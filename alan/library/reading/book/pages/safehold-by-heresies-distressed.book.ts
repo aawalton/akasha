@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const safeholdByHeresiesDistressed = {
   id: "019db533-f39b-7289-98aa-e53c5a5421c6",
-  type: "book",
+  type: "page-type/book",
   slug: "safehold-by-heresies-distressed",
   title: "Safehold: By Heresies Distressed",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const saintsNoUnhallowedHand = {
   id: "019db533-f39d-7367-865c-e27f11c22f47",
-  type: "book",
+  type: "page-type/book",
   slug: "saints-no-unhallowed-hand",
   title: "Saints: No Unhallowed Hand",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const secondAgeOfRethraTheDesperateQuest = {
   id: "019db533-f38a-7d77-a1e5-f0f681870727",
-  type: "book",
+  type: "page-type/book",
   slug: "second-age-of-rethra-the-desperate-quest",
   title: "Second Age of Rethra: The Desperate Quest",
   status: "completed",

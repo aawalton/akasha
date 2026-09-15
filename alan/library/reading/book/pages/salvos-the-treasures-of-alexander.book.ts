@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const salvosTheTreasuresOfAlexander = {
   id: "019db533-f391-75da-81d4-8bfda3e80a1c",
-  type: "book",
+  type: "page-type/book",
   slug: "salvos-the-treasures-of-alexander",
   title: "Salvos: The Treasures of Alexander",
   status: "not-started",

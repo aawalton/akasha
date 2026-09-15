@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const powderMagePromiseOfBlood = {
   id: "019db533-f39a-7bf8-afcd-f9fea3e7d954",
-  type: "book",
+  type: "page-type/book",
   slug: "powder-mage-promise-of-blood",
   title: "Powder Mage: Promise of Blood",
   status: "not-started",

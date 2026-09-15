@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const sermonsAndWritingsOfPresidentEzraTaftBenson = {
   id: "019db533-f39d-7a32-ba60-ed75de2b930f",
-  type: "book",
+  type: "page-type/book",
   slug: "sermons-and-writings-of-president-ezra-taft-benson",
   title: "Sermons and Writings of President Ezra Taft Benson",
   status: "not-started",

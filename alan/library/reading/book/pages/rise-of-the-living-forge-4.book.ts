@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const riseOfTheLivingForge4 = {
   id: "019db533-f386-772b-aad0-143fecd5ffb9",
-  type: "book",
+  type: "page-type/book",
   slug: "rise-of-the-living-forge-4",
   title: "Rise of the Living Forge 4",
   status: "not-started",

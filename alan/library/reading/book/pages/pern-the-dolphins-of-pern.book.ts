@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const pernTheDolphinsOfPern = {
   id: "019db533-f39a-7af1-9169-da9884e9f83e",
-  type: "book",
+  type: "page-type/book",
   slug: "pern-the-dolphins-of-pern",
   title: "Pern: The Dolphins of Pern",
   status: "not-started",

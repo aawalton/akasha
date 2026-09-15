@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const scientificSecretsForSelfControl = {
   id: "019db533-f39d-7f7b-9770-707fd09d1029",
-  type: "book",
+  type: "page-type/book",
   slug: "scientific-secrets-for-self-control",
   title: "Scientific Secrets for Self-Control",
   status: "completed",

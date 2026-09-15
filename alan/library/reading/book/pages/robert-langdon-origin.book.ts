@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const robertLangdonOrigin = {
   id: "019db533-f39a-7dc9-9ab7-ee61bff9daa5",
-  type: "book",
+  type: "page-type/book",
   slug: "robert-langdon-origin",
   title: "Robert Langdon: Origin",
   status: "not-started",

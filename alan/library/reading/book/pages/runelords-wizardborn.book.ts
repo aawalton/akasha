@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const runelordsWizardborn = {
   id: "019db533-f39a-782b-967b-93f103ccbc1b",
-  type: "book",
+  type: "page-type/book",
   slug: "runelords-wizardborn",
   title: "Runelords: Wizardborn",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const smartChange = {
   id: "019db533-f39e-70ed-ab0c-5d6de0ba48fd",
-  type: "book",
+  type: "page-type/book",
   slug: "smart-change",
   title: "Smart Change",
   status: "not-started",

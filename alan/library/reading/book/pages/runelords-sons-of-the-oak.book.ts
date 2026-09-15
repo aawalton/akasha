@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const runelordsSonsOfTheOak = {
   id: "019db533-f39a-7b68-8284-b9b13a1f78c9",
-  type: "book",
+  type: "page-type/book",
   slug: "runelords-sons-of-the-oak",
   title: "Runelords: Sons of the Oak",
   status: "not-started",

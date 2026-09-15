@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const spaceOdyssey2001ASpaceOdyssey = {
   id: "019db533-f39b-74b0-a87f-527562d3ab67",
-  type: "book",
+  type: "page-type/book",
   slug: "space-odyssey-2001-a-space-odyssey",
   title: "Space Odyssey: 2001: A Space Odyssey",
   status: "not-started",

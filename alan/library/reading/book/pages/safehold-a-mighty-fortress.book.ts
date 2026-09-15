@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const safeholdAMightyFortress = {
   id: "019db533-f39b-72a0-8380-acb6bbe9c4ec",
-  type: "book",
+  type: "page-type/book",
   slug: "safehold-a-mighty-fortress",
   title: "Safehold: A Mighty Fortress",
   status: "not-started",

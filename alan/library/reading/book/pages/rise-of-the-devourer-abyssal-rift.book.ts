@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const riseOfTheDevourerAbyssalRift = {
   id: "019db533-f391-74f2-8dfd-931a0759ffab",
-  type: "book",
+  type: "page-type/book",
   slug: "rise-of-the-devourer-abyssal-rift",
   title: "Rise of the Devourer: Abyssal Rift",
   status: "not-started",

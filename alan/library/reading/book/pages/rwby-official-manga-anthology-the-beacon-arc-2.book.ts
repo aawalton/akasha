@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const rwbyOfficialMangaAnthologyTheBeaconArc2 = {
   id: "019db533-f38b-71b0-948e-efd9a830bf3c",
-  type: "book",
+  type: "page-type/book",
   slug: "rwby-official-manga-anthology-the-beacon-arc-2",
   title: "RWBY: Official Manga Anthology: The Beacon Arc 2",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const rcnSeriesWithTheLightnings = {
   id: "019db533-f39a-781b-a97f-ae8ffb2a90b8",
-  type: "book",
+  type: "page-type/book",
   slug: "rcn-series-with-the-lightnings",
   title: "RCN Series: With the Lightnings",
   status: "not-started",

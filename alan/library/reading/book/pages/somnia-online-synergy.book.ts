@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const somniaOnlineSynergy = {
   id: "019db533-f391-7642-92ed-5c85644048c9",
-  type: "book",
+  type: "page-type/book",
   slug: "somnia-online-synergy",
   title: "Somnia Online: Synergy",
   status: "completed",

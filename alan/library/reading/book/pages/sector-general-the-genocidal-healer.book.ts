@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const sectorGeneralTheGenocidalHealer = {
   id: "019db533-f38b-7182-b206-251465ecc408",
-  type: "book",
+  type: "page-type/book",
   slug: "sector-general-the-genocidal-healer",
   title: "Sector General: The Genocidal Healer",
   status: "not-started",

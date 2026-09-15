@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const pernTheWhiteDragon = {
   id: "019db533-f39a-784e-bff4-916dc351b019",
-  type: "book",
+  type: "page-type/book",
   slug: "pern-the-white-dragon",
   title: "Pern: The White Dragon",
   status: "not-started",

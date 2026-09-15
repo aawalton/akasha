@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const robertLangdonInferno = {
   id: "019db533-f39b-705c-8374-17e2f68b9b6a",
-  type: "book",
+  type: "page-type/book",
   slug: "robert-langdon-inferno",
   title: "Robert Langdon: Inferno",
   status: "not-started",

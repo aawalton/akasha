@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const sectorGeneralHospitalStation = {
   id: "019db533-f38b-73ad-b9ab-1e70af546b2f",
-  type: "book",
+  type: "page-type/book",
   slug: "sector-general-hospital-station",
   title: "Sector General: Hospital Station",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const rcnSeriesToClearAwayTheShadows = {
   id: "019db533-f39a-79eb-a920-935a694b6505",
-  type: "book",
+  type: "page-type/book",
   slug: "rcn-series-to-clear-away-the-shadows",
   title: "RCN Series: To Clear Away the Shadows",
   status: "not-started",

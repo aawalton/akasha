@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const raisingAnEmotionallyIntelligentChild = {
   id: "019db533-f39e-7032-b258-4eeb64ffda8c",
-  type: "book",
+  type: "page-type/book",
   slug: "raising-an-emotionally-intelligent-child",
   title: "Raising an Emotionally Intelligent Child",
   status: "not-started",

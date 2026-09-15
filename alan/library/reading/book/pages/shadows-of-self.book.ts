@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const shadowsOfSelf = {
   id: "019db533-f39d-7216-b217-41d019bc4919",
-  type: "book",
+  type: "page-type/book",
   slug: "shadows-of-self",
   title: "Shadows of Self",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const riseOfTheDevourerDragonsHeart = {
   id: "019db533-f391-74b5-bc94-1deecd202eeb",
-  type: "book",
+  type: "page-type/book",
   slug: "rise-of-the-devourer-dragons-heart",
   title: "Rise of the Devourer: Dragon's Heart",
   status: "not-started",

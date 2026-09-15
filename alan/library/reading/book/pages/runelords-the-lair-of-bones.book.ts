@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const runelordsTheLairOfBones = {
   id: "019db533-f39a-7858-90f9-868f6f51a599",
-  type: "book",
+  type: "page-type/book",
   slug: "runelords-the-lair-of-bones",
   title: "Runelords: The Lair of Bones",
   status: "not-started",

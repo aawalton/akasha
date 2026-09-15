@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const pyresoulsApocalypseFuturesGrave = {
   id: "019db533-f391-743e-8737-ee12c6ccad02",
-  type: "book",
+  type: "page-type/book",
   slug: "pyresouls-apocalypse-futures-grave",
   title: "Pyresouls Apocalypse: Futures Grave",
   status: "completed",

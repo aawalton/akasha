@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const somniaOnlineInitializing = {
   id: "019db533-f391-7661-83da-5620d170f2f8",
-  type: "book",
+  type: "page-type/book",
   slug: "somnia-online-initializing",
   title: "Somnia Online: Initializing",
   status: "completed",

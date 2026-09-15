@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const runelordsWorldbinder = {
   id: "019db533-f39a-77fa-9dca-e6452e993c75",
-  type: "book",
+  type: "page-type/book",
   slug: "runelords-worldbinder",
   title: "Runelords: Worldbinder",
   status: "not-started",

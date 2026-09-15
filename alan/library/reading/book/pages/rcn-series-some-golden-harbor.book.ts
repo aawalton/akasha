@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const rcnSeriesSomeGoldenHarbor = {
   id: "019db533-f39a-7b93-b4bf-5c73626940ca",
-  type: "book",
+  type: "page-type/book",
   slug: "rcn-series-some-golden-harbor",
   title: "RCN Series: Some Golden Harbor",
   status: "not-started",

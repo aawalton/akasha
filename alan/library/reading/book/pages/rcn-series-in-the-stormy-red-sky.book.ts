@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const rcnSeriesInTheStormyRedSky = {
   id: "019db533-f39a-7ffa-874e-3eaa74387831",
-  type: "book",
+  type: "page-type/book",
   slug: "rcn-series-in-the-stormy-red-sky",
   title: "RCN Series: In the Stormy Red Sky",
   status: "not-started",

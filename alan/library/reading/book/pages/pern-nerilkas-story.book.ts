@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const pernNerilkasStory = {
   id: "019db533-f39a-7d7e-99bd-0aef4989d8cf",
-  type: "book",
+  type: "page-type/book",
   slug: "pern-nerilkas-story",
   title: "Pern: Nerilka's Story",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const safeholdThroughFieryTrials = {
   id: "019db533-f39a-78fe-aa42-416288293d14",
-  type: "book",
+  type: "page-type/book",
   slug: "safehold-through-fiery-trials",
   title: "Safehold: Through Fiery Trials",
   status: "not-started",

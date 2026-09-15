@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const sectorGeneralMajorOperation = {
   id: "019db533-f38b-73c5-bb19-e7e556fa4308",
-  type: "book",
+  type: "page-type/book",
   slug: "sector-general-major-operation",
   title: "Sector General: Major Operation",
   status: "not-started",

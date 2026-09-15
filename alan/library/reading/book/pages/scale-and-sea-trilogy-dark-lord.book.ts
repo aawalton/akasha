@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const scaleAndSeaTrilogyDarkLord = {
   id: "019db533-f38a-74a7-b762-b4a436a319c4",
-  type: "book",
+  type: "page-type/book",
   slug: "scale-and-sea-trilogy-dark-lord",
   title: "Scale & Sea Trilogy: Dark Lord",
   status: "completed",

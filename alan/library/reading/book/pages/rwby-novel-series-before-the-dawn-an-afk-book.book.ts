@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const rwbyNovelSeriesBeforeTheDawnAnAfkBook = {
   id: "019db533-f38b-71a6-8f1e-6a21213bb7c0",
-  type: "book",
+  type: "page-type/book",
   slug: "rwby-novel-series-before-the-dawn-an-afk-book",
   title: "RWBY Novel Series: Before the Dawn: An AFK Book",
   status: "not-started",

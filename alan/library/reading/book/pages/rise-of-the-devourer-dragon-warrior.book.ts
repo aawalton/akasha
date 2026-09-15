@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const riseOfTheDevourerDragonWarrior = {
   id: "019db533-f391-74c0-b4ae-5fae470bd92d",
-  type: "book",
+  type: "page-type/book",
   slug: "rise-of-the-devourer-dragon-warrior",
   title: "Rise of the Devourer: Dragon Warrior",
   status: "not-started",

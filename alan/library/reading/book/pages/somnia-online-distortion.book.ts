@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const somniaOnlineDistortion = {
   id: "019db533-f391-7621-9dce-5ca701b81eef",
-  type: "book",
+  type: "page-type/book",
   slug: "somnia-online-distortion",
   title: "Somnia Online: Distortion",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const shatteredLegacyPhantomChamber = {
   id: "019db533-f38a-73dc-b1a7-058c1e3bd183",
-  type: "book",
+  type: "page-type/book",
   slug: "shattered-legacy-phantom-chamber",
   title: "Shattered Legacy: Phantom Chamber",
   status: "not-started",

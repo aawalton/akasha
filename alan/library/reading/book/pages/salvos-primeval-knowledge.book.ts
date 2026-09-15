@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const salvosPrimevalKnowledge = {
   id: "019db533-f391-75e5-bf0b-7016c7fa3cff",
-  type: "book",
+  type: "page-type/book",
   slug: "salvos-primeval-knowledge",
   title: "Salvos: Primeval Knowledge",
   status: "not-started",

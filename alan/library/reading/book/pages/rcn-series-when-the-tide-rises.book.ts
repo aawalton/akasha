@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const rcnSeriesWhenTheTideRises = {
   id: "019db533-f39a-77f2-9926-487e870901e3",
-  type: "book",
+  type: "page-type/book",
   slug: "rcn-series-when-the-tide-rises",
   title: "RCN Series: When the Tide Rises",
   status: "not-started",

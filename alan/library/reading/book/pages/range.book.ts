@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const range = {
   id: "019db533-f39d-7f8a-9d07-9bdd6d3a47db",
-  type: "book",
+  type: "page-type/book",
   slug: "range",
   title: "Range",
   status: "not-started",

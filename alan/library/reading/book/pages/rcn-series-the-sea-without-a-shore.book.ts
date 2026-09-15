@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const rcnSeriesTheSeaWithoutAShore = {
   id: "019db533-f39a-789b-ac93-569289471088",
-  type: "book",
+  type: "page-type/book",
   slug: "rcn-series-the-sea-without-a-shore",
   title: "RCN Series: The Sea Without a Shore",
   status: "not-started",

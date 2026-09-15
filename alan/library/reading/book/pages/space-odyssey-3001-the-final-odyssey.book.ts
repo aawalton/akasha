@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const spaceOdyssey3001TheFinalOdyssey = {
   id: "019db533-f39b-74a8-9124-5eae2f660833",
-  type: "book",
+  type: "page-type/book",
   slug: "space-odyssey-3001-the-final-odyssey",
   title: "Space Odyssey: 3001: The Final Odyssey",
   status: "not-started",

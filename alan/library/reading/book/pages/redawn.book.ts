@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const redawn = {
   id: "019db533-f39c-7fc9-89d8-10cfdc0bd50b",
-  type: "book",
+  type: "page-type/book",
   slug: "redawn",
   title: "ReDawn",
   status: "completed",

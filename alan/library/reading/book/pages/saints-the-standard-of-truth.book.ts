@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const saintsTheStandardOfTruth = {
   id: "019db533-f39d-72ea-a168-706fb553110e",
-  type: "book",
+  type: "page-type/book",
   slug: "saints-the-standard-of-truth",
   title: "Saints: The Standard of Truth",
   status: "not-started",

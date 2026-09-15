@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const safeholdOffArmageddonReef = {
   id: "019db533-f39a-7e09-af64-cb1bdc28e464",
-  type: "book",
+  type: "page-type/book",
   slug: "safehold-off-armageddon-reef",
   title: "Safehold: Off Armageddon Reef",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const runelordsBrotherhoodOfTheWolf = {
   id: "019db533-f39b-716c-bb10-b9cdb7c85bc0",
-  type: "book",
+  type: "page-type/book",
   slug: "runelords-brotherhood-of-the-wolf",
   title: "Runelords: Brotherhood of the Wolf",
   status: "not-started",

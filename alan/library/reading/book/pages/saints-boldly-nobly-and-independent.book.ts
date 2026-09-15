@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const saintsBoldlyNoblyAndIndependent = {
   id: "019db533-f39d-7282-8b97-a32eaa7d7dc8",
-  type: "book",
+  type: "page-type/book",
   slug: "saints-boldly-nobly-and-independent",
   title: "Saints: Boldly, Nobly, and Independent",
   status: "not-started",

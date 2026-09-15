@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const ramaTheGardenOfRama = {
   id: "019db533-f39a-7bea-8861-6bcffc4e0f5e",
-  type: "book",
+  type: "page-type/book",
   slug: "rama-the-garden-of-rama",
   title: "Rama: The Garden of Rama",
   status: "not-started",

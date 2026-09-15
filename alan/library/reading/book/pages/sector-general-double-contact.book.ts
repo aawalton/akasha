@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const sectorGeneralDoubleContact = {
   id: "019db533-f39b-724d-a631-bdc27170412a",
-  type: "book",
+  type: "page-type/book",
   slug: "sector-general-double-contact",
   title: "Sector General: Double Contact",
   status: "not-started",

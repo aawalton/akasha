@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const runningFromTheDeity = {
   id: "019db533-f399-7ac0-b1e3-369e59042fb5",
-  type: "book",
+  type: "page-type/book",
   slug: "running-from-the-deity",
   title: "Running from the Deity",
   status: "not-started",

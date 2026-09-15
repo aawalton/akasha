@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const sermonsNotSpoken = {
   id: "019db533-f39d-7245-8964-260598dcc7a3",
-  type: "book",
+  type: "page-type/book",
   slug: "sermons-not-spoken",
   title: "Sermons Not Spoken",
   status: "completed",

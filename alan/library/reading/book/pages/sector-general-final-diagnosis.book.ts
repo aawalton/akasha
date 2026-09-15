@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const sectorGeneralFinalDiagnosis = {
   id: "019db533-f38b-7171-bdf7-d260718c9460",
-  type: "book",
+  type: "page-type/book",
   slug: "sector-general-final-diagnosis",
   title: "Sector General: Final Diagnosis",
   status: "not-started",

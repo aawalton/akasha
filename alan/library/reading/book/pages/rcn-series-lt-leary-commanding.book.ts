@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const rcnSeriesLtLearyCommanding = {
   id: "019db533-f39a-7f82-bbfe-996476b9f9b5",
-  type: "book",
+  type: "page-type/book",
   slug: "rcn-series-lt-leary-commanding",
   title: "RCN Series: Lt. Leary Commanding",
   status: "not-started",

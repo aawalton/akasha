@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const revelationsAndTranslationsVolume1 = {
   id: "019db533-f39d-73fa-bf2b-546b4fd5a563",
-  type: "book",
+  type: "page-type/book",
   slug: "revelations-and-translations-volume-1",
   title: "Revelations and Translations Volume 1",
   status: "not-started",

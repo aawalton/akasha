@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const rwbyFairyTalesOfRemnantAnAfkBook = {
   id: "019db533-f38b-71f1-a205-1c8433901579",
-  type: "book",
+  type: "page-type/book",
   slug: "rwby-fairy-tales-of-remnant-an-afk-book",
   title: "RWBY: Fairy Tales of Remnant: An AFK Book",
   status: "not-started",

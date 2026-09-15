@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const philosophyOfMindBrainsConsciousnessAndThinkingMachines = {
   id: "019db533-f39d-7ffe-bda8-fdd8d7cb318b",
-  type: "book",
+  type: "page-type/book",
   slug: "philosophy-of-mind-brains-consciousness-and-thinking-machines",
   title: "Philosophy of Mind: Brains, Consciousness, and Thinking Machines",
   status: "not-started",

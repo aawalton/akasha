@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const pernTheChroniclesOfPernFirstFall = {
   id: "019db533-f39a-7b88-bc3f-c427a2602543",
-  type: "book",
+  type: "page-type/book",
   slug: "pern-the-chronicles-of-pern-first-fall",
   title: "Pern: The Chronicles of Pern: First Fall",
   status: "not-started",

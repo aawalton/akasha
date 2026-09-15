@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const slidingScales = {
   id: "019db533-f399-7a8a-b57c-c88ab46e4666",
-  type: "book",
+  type: "page-type/book",
   slug: "sliding-scales",
   title: "Sliding Scales",
   status: "not-started",

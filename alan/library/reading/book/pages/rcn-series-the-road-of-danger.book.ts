@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const rcnSeriesTheRoadOfDanger = {
   id: "019db533-f39a-79cd-a66d-700f6fa62ec6",
-  type: "book",
+  type: "page-type/book",
   slug: "rcn-series-the-road-of-danger",
   title: "RCN Series: The Road of Danger",
   status: "not-started",

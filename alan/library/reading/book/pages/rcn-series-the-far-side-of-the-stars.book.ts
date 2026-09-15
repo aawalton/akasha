@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const rcnSeriesTheFarSideOfTheStars = {
   id: "019db533-f39a-7b06-9160-905be64a2659",
-  type: "book",
+  type: "page-type/book",
   slug: "rcn-series-the-far-side-of-the-stars",
   title: "RCN Series: The Far Side of the Stars",
   status: "not-started",

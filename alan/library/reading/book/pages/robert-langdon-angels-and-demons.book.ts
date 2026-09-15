@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const robertLangdonAngelsAndDemons = {
   id: "019db533-f39b-7210-bda7-f15206d1c22f",
-  type: "book",
+  type: "page-type/book",
   slug: "robert-langdon-angels-and-demons",
   title: "Robert Langdon: Angels & Demons",
   status: "not-started",

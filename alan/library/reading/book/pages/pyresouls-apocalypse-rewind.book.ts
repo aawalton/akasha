@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const pyresoulsApocalypseRewind = {
   id: "019db533-f391-73c8-a976-89951c9ac3b8",
-  type: "book",
+  type: "page-type/book",
   slug: "pyresouls-apocalypse-rewind",
   title: "Pyresouls Apocalypse: Rewind",
   status: "completed",

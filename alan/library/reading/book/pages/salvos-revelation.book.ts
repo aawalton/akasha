@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const salvosRevelation = {
   id: "019db533-f391-758a-8e52-25be0769c51a",
-  type: "book",
+  type: "page-type/book",
   slug: "salvos-revelation",
   title: "Salvos: Revelation",
   status: "not-started",

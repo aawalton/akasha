@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const speedrunningTheMultiverse2 = {
   id: "019db533-f391-7678-8cf5-703906a8e53e",
-  type: "book",
+  type: "page-type/book",
   slug: "speedrunning-the-multiverse-2",
   title: "Speedrunning the Multiverse 2",
   status: "completed",
