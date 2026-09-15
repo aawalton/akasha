@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const stubbornSon = {
   id: "01a06586-0a5d-73dc-a475-7ca372ee2689",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "stubborn-son",
   title: "Stubborn Son",
   world: "world/the-wandering-inn",

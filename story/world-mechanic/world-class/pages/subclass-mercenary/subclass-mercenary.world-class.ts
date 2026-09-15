@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const subclassMercenary = {
   id: "01a0657e-0261-7f30-b5fa-0cc44f0bd544",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "subclass-mercenary",
   title: "Subclass: Mercenary",
   world: "world/the-wandering-inn",

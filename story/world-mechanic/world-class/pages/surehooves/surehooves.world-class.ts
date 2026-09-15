@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const surehooves = {
   id: "01a06586-0a60-786d-91b8-a29e1112e3b8",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "surehooves",
   title: "Surehooves",
   world: "world/the-wandering-inn",

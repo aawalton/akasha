@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const teammate = {
   id: "01a0657e-0269-7e37-bd52-30e81d55aeb2",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "teammate",
   title: "Teammate",
   world: "world/the-wandering-inn",

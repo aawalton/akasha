@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const telepathicHealer = {
   id: "01a0657e-0269-7d43-aa9f-7885e946ba07",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "telepathic-healer",
   title: "Telepathic Healer",
   world: "world/the-wandering-inn",

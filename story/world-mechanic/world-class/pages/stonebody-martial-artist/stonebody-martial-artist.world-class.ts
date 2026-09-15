@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const stonebodyMartialArtist = {
   id: "01a06586-0a54-7b55-90fe-35e72dad904a",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "stonebody-martial-artist",
   title: "Stonebody Martial Artist",
   world: "world/the-wandering-inn",

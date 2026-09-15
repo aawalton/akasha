@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const sunkenAdmiralOfNoSurrender = {
   id: "01a06586-0a5f-7011-8994-c4473a399066",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "sunken-admiral-of-no-surrender",
   title: "Sunken Admiral of No Surrender",
   world: "world/the-wandering-inn",
