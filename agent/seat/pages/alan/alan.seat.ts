@@ -2,7 +2,7 @@ import type { Seat } from "akasha/agent/seat/seat.page-type.types.ts"
 
 export const alan = {
   id: "01a0a4f7-4ec3-7000-b109-cdbf7caf8a0c",
-  type: "seat",
+  type: "page-type/seat",
   slug: "alan",
   persona: "persona/amy",
   assignmentSlug: "domain/alan",
