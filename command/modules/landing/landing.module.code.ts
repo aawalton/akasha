@@ -342,7 +342,18 @@ export async function landing(
     }
   }
   allowedThrough()
-  const keeping = await indexingLoaded()
+  let keeping: Keeping
+  try {
+    keeping = await indexingLoaded()
+  } catch (thrown) {
+    return {
+      refusals: [
+        `the index keeper would not load — ${saidBy(thrown)}`,
+        `nothing was written — ${changes.length} change(s) were asked for and they land together or not at all`,
+      ],
+      code: DATA,
+    }
+  }
   return holding(root, () => {
     const base = baseOf(root)
     const paths = edits.map((one) => one.path)

@@ -315,6 +315,10 @@ export const landing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An index keeper that will not load refuses the change rather than throwing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change naming a page to draft onto is kept there rather than landed.",
     },
     {
