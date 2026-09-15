@@ -615,8 +615,7 @@
 {"propertySlug":"invariant-kind","path":"change/mechanical/page-type/remove/remove-property-from-page-type/remove-property-from-page-type.change-mechanical-page-type.ts","id":"01a09cc4-9e95-7a9b-a741-4be28085d2a1"}
 {"propertySlug":"invariant-kind","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.ts","id":"01a0920d-ff8b-71c9-9d19-5de0bfe7f1c1"}
 {"propertySlug":"invariant-kind","path":"change/mechanical/prose/change-mechanical-prose.domain.ts","id":"01a09c40-a897-7d20-9d17-1f99d21f3ebb"}
-{"propertySlug":"invariant-kind","path":"change/mechanical/prose/change/change-mechanical-prose-change.domain.ts","id":"01a09c40-8b07-77e8-8ea1-cfebf9945c5a"}
-{"propertySlug":"invariant-kind","path":"change/mechanical/prose/change/change-prose-pattern/change-prose-pattern.change-mechanical.ts","id":"01a09c40-46df-7fc1-aa5e-e1da32da2123"}
+{"propertySlug":"invariant-kind","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.ts","id":"01a09c40-46df-7fc1-aa5e-e1da32da2123"}
 {"propertySlug":"invariant-kind","path":"change/modules/address-restating/address-restating.module.ts","id":"01a09c32-ce10-789c-bc0c-792c98ca95e4"}
 {"propertySlug":"invariant-kind","path":"change/modules/answer/change-answer.module.ts","id":"01a07721-531c-732a-a072-2842893f0584"}
 {"propertySlug":"invariant-kind","path":"change/modules/code-export-carrying/code-export-carrying.module.ts","id":"01a09c3d-8d88-7d7f-9070-14c87fa1b4b2"}

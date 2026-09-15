@@ -312,7 +312,7 @@ export type Changes = {
     typeof import("akasha/change/mechanical/file/change/change-page-page-type/change-page-page-type.change-mechanical.code.ts")["runChange"]
   >[1]
   "change-mechanical/change-prose-pattern": Parameters<
-    typeof import("akasha/change/mechanical/prose/change/change-prose-pattern/change-prose-pattern.change-mechanical.code.ts")["runChange"]
+    typeof import("akasha/change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.code.ts")["runChange"]
   >[1]
   "change-mechanical/divide-file-code": Parameters<
     typeof import("akasha/change/mechanical/file/divide/divide-file-code/divide-file-code.change-mechanical.code.ts")["runChange"]

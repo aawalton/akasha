@@ -73,8 +73,8 @@
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.test.ts"}
-{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/prose/change/change-prose-pattern/change-prose-pattern.change-mechanical.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/prose/change/change-prose-pattern/change-prose-pattern.change-mechanical.test.ts"}
+{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/address-restating/address-restating.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/answer/change-answer.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/export-renaming/export-renaming.module.test.ts"}

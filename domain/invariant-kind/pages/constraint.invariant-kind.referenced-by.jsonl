@@ -178,7 +178,7 @@
 {"propertySlug":"invariant-kind","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts","id":"01a0824b-a376-7b9f-a01a-c3a1e81c3286"}
 {"propertySlug":"invariant-kind","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.ts","id":"01a081dc-0cef-7d5a-9c4e-daf2ba343c98"}
 {"propertySlug":"invariant-kind","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.ts","id":"01a09c8d-ef19-7434-8f64-db9ac5dcf0e2"}
-{"propertySlug":"invariant-kind","path":"change/mechanical/prose/change/change-prose-pattern/change-prose-pattern.change-mechanical.ts","id":"01a09c40-46df-7fc1-aa5e-e1da32da2123"}
+{"propertySlug":"invariant-kind","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.ts","id":"01a09c40-46df-7fc1-aa5e-e1da32da2123"}
 {"propertySlug":"invariant-kind","path":"change/modules/import-lines/import-lines.module.ts","id":"01a08cda-348f-7c87-89fb-04be4a6a3124"}
 {"propertySlug":"invariant-kind","path":"change/modules/slug-renaming/slug-renaming.module.ts","id":"01a09c61-7a20-7e53-a461-78bf666a426e"}
 {"propertySlug":"invariant-kind","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.ts","id":"01a08dbe-1652-7000-bba4-cd7488c7a8ec"}

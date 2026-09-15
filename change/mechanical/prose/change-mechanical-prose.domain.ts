@@ -5,7 +5,7 @@ export const changeMechanicalProse = {
   type: "domain",
   slug: "change-mechanical-prose",
   definition: "a mechanical change acting on the English the pages state",
-  parts: ["domain/change-mechanical-prose-change"],
+  parts: ["change-mechanical/change-prose-pattern"],
   invariants: [
     {
       invariantKind: "departure",

@@ -15,6 +15,14 @@ export const changeProsePattern = {
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A passage is restated where a pair says what is written instead.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "Nothing here takes a passage away.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "The spellings and the pairs are handed in rather than read off a page.",
     },
     {

@@ -3,7 +3,7 @@ import {
   changeProsePattern,
   passagesAt,
   spelt,
-} from "akasha/change/mechanical/prose/change/change-prose-pattern/change-prose-pattern.change-mechanical.code.ts"
+} from "akasha/change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.code.ts"
 import {
   BODIES,
   ONE,
@@ -15,7 +15,7 @@ import {
   TWO_AT,
   VALUES,
   worldFor,
-} from "akasha/change/mechanical/prose/change/change-prose-pattern/change-prose-pattern.change-mechanical.test-fixtures.ts"
+} from "akasha/change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.test-fixtures.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
