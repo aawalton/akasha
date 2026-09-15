@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const day = {
   id: "01a077c9-150b-7560-ba89-d3c1c8821d62",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "day",
   propertySlug: "day",
   definition: "the tracked day a set falls on",

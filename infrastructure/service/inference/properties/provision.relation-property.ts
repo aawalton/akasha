@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const provision = {
   id: "01a0909f-9ea9-7dba-b8c0-27d20e677a97",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "provision",
   propertySlug: "provision",
   definition: "the script that builds the environment a service runs in",

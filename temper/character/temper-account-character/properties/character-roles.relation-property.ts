@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const characterRoles = {
   id: "01a076c2-ee95-7043-8326-ee288ac93a97",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "character-roles",
   propertySlug: "roles",
   definition: "a part a character is planned to play",

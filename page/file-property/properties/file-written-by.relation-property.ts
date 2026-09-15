@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const fileWrittenBy = {
   id: "01a08e02-7592-7e87-a191-ee10ed3f6058",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "file-written-by",
   propertySlug: "written-by",
   definition: "the module property group whose code writes a property's file",

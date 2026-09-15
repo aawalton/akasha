@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const esoInterfaces = {
   id: "01a06036-9b78-7e16-a4d4-1b73c48a5c05",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "eso-interfaces",
   propertySlug: "interfaces",
   definition: "the XML documents an addon loads",

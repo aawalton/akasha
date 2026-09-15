@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const playedStory = {
   id: "01a06828-cb98-7a8f-a4fb-4b2676ab5c61",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "played-story",
   propertySlug: "played-story",
   definition: "the story nobody wrote that something is part of",

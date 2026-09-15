@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const oneOf = {
   id: "01a0954e-097d-7b5d-8207-3b3e29c78819",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "one-of",
   propertySlug: "one-of",
   definition: "an argument that answers for this one, where a call says at least one of them",

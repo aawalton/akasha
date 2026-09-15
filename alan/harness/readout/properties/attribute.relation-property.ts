@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const attribute = {
   id: "01a081ef-0b0a-7889-962d-2e766b9aedee",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "attribute",
   propertySlug: "attribute",
   definition: "the attribute whose points a reading counts",

@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const provider = {
   id: "01a0a224-4613-75c9-a6cf-5bdd8111001d",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "provider",
   propertySlug: "provider",
   definition: "the provider an account is held with",

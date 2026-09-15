@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const nav = {
   id: "01a0680d-4d00-7001-8a73-4f2c6d9e4102",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "nav",
   propertySlug: "nav",
   definition: "the nav item a view sits under",

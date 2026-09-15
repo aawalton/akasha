@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const action = {
   id: "01a05fd0-3aa2-7b8c-94d8-d42fee16f415",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "action",
   propertySlug: "action",
   definition: "what a rule does to an item the rule matches",

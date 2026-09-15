@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const notWith = {
   id: "01a09483-7144-7d5c-a857-085af955734b",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "not-with",
   propertySlug: "not-with",
   definition: "an argument one call never says beside this one",

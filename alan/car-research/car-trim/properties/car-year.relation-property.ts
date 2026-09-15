@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const carYear = {
   id: "01a06827-645d-7785-a6e3-9c3c06e799fd",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "car-year",
   propertySlug: "car-year",
   definition: "the model year this trim is sold in",

@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const adjacents = {
   id: "01a0819d-cca3-7df9-8049-79ddfe74c1e3",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "adjacents",
   propertySlug: "adjacents",
   definition: "the addons a bite at this addon reaches",

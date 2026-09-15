@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const esoAddon = {
   id: "01a0819d-6872-7b9e-8c67-c011834d8ab8",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "eso-addon",
   propertySlug: "eso-addon",
   definition: "the addon page the port holds",

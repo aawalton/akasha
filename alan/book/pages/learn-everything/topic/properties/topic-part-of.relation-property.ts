@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const topicPartOf = {
   id: "01a0659f-93da-700f-8f41-8714236db415",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "topic-part-of",
   propertySlug: "part-of",
   definition: "the topics a topic sits under",

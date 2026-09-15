@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const argument = {
   id: "01a09409-0740-76a5-b194-5aae0e0a6f9b",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "argument",
   propertySlug: "argument",
   definition: "the argument a command names",

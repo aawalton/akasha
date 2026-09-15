@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const lifeThemeValue = {
   id: "01a06575-c2c0-7ff7-823d-841339e34481",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "life-theme-value",
   propertySlug: "life-theme-value",
   definition: "the value a life theme is given over to",

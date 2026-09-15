@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const sentTo = {
   id: "01a05f42-d941-7002-b41d-b3dedda83287",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "sent-to",
   propertySlug: "to",
   definition: "the persona something is sent to",

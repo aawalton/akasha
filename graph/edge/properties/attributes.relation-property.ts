@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const attributes = {
   id: "01a04fe8-cebf-728c-90c6-d36708b2a983",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "attributes",
   propertySlug: "attributes",
   definition: "the attributes an edge kind carries",

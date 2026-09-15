@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const initiativeParent = {
   id: "01a04e58-5735-7668-9aee-b2da5c7b346a",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "initiative-parent",
   propertySlug: "parent",
   definition: "the initiative an initiative sits under",

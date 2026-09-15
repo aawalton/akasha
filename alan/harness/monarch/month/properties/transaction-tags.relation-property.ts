@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const transactionTags = {
   id: "01a0680b-2b00-700c-8d95-4f6a1b3c210d",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "transaction-tags",
   propertySlug: "tags",
   definition: "the labels applied to a transaction",

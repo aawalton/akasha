@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const collectionUnit = {
   id: "01a063de-2c60-7013-90a9-52d3c0a8908c",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "collection-unit",
   propertySlug: "unit",
   definition: "what a collection's own lengths are counted in",

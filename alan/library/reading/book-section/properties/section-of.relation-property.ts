@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const sectionOf = {
   id: "01a08189-6150-743e-b860-1baeba37171d",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "section-of",
   propertySlug: "section-of",
   definition: "the collection a section is an instalment of",

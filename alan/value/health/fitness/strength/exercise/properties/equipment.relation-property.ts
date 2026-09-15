@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const equipment = {
   id: "01a0657e-2bbf-71e9-85bc-e347194f49ca",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "equipment",
   propertySlug: "equipment",
   definition: "the kit the movement is loaded with",

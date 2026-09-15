@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const fitnessEquipmentCovers = {
   id: "01a09338-8296-7d00-8ec3-c16e1350135b",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "fitness-equipment-covers",
   propertySlug: "covers",
   definition: "the kit a movement names that this piece answers for",

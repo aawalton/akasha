@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const specialEffect = {
   id: "01a08ece-83bb-74f4-bd4f-f9b0672a0047",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "special-effect",
   propertySlug: "special-effect",
   definition: "the act a skill effect names in place of a number",

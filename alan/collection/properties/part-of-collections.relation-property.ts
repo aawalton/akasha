@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const partOfCollections = {
   id: "01a063de-2c60-700b-8db4-bed38f86b940",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "part-of-collections",
   propertySlug: "part-of-collections",
   definition: "the collections a collection is part of",

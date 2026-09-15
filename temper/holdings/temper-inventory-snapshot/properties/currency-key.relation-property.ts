@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const currencyKey = {
   id: "01a0675a-f185-7f59-addb-d7ce1343c8c9",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "currency-key",
   propertySlug: "currency-key",
   definition: "the currency an amount is held in",

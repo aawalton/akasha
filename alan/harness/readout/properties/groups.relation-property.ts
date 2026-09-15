@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const groups = {
   id: "01a05446-e765-7da7-afdf-68470bd5fc40",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "groups",
   propertySlug: "groups",
   definition: "the groups a reading is drawn in",

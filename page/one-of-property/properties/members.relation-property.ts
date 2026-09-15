@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const members = {
   id: "01a062b2-e0c9-78a5-b56b-6dc7519eded7",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "members",
   propertySlug: "members",
   definition: "a slug naming a property a one-of property admits a value of",

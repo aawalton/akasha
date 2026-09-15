@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const proseFrame = {
   id: "01a08243-41cd-7873-9af3-308bc9152b5d",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "prose-frame",
   propertySlug: "frame",
   definition: "the construction a replacement pair is written for",

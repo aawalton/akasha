@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const syncScript = {
   id: "01a090f2-699c-72b3-bd1c-8131bbdf8613",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "sync-script",
   propertySlug: "sync-script",
   definition: "the script making an app's native sources from its shell",

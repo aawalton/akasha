@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const emailRuleCodeForwardTo = {
   id: "01a06860-54a0-7c31-a1ec-4d13559b970a",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "email-rule-code-forward-to",
   propertySlug: "forward-to",
   definition: "who a piece of mail the rule matches is forwarded to",

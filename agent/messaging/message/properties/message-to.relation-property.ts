@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const messageTo = {
   id: "01a06818-107b-7000-9af9-d98a9e34ceed",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "message-to",
   propertySlug: "to",
   definition: "the seat a message is addressed to",

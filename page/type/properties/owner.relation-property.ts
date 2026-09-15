@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const owner = {
   id: "01a06c50-b15f-7d22-9f4b-7590e602dd05",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "owner",
   propertySlug: "owner",
   definition: "the property naming the account a page belongs to",

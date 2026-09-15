@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const luaModules = {
   id: "01a06036-9b78-76a0-8492-89abe6853e5a",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "lua-modules",
   propertySlug: "lua-modules",
   definition: "the Lua modules an addon loads",

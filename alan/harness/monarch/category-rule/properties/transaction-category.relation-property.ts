@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const transactionCategory = {
   id: "01a0680b-2b00-700b-b148-5a2c9e7d210c",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "transaction-category",
   propertySlug: "category",
   definition: "what a transaction counts as",

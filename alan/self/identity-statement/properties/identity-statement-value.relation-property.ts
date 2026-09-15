@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const identityStatementValue = {
   id: "01a0658a-739f-7952-921f-4eb125f1399c",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "identity-statement-value",
   propertySlug: "identity-statement-value",
   definition: "the value the statement serves",

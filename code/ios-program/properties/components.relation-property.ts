@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const components = {
   id: "01a05821-5723-7bc2-86dc-1b02cd1edded",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "components",
   propertySlug: "components",
   definition: "the components a program compiles",

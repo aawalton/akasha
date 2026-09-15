@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const account = {
   id: "01a0680a-1a00-7010-9e43-7f1d8a5b1110",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "account",
   propertySlug: "account",
   definition: "the account a holding or a transaction sits under",

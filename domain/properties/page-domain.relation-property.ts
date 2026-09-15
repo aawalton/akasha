@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const pageDomain = {
   id: "01a04a08-fcf3-7003-9b33-ccbd3edd35cb",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "page-domain",
   propertySlug: "domain",
   definition: "a slug naming a domain",

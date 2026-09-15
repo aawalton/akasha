@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const alertPersona = {
   id: "01a06935-9779-7dc1-8aa1-cd00a3576c4b",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "alert-persona",
   propertySlug: "persona",
   definition: "the persona an alert is for",

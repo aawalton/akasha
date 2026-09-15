@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const exercise = {
   id: "01a06580-66fd-7e47-b51f-4d1b33a2ba66",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "exercise",
   propertySlug: "exercise",
   definition: "the movement the set was of",

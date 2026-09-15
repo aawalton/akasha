@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const rustModules = {
   id: "01a0602d-6ad1-75bd-afd3-a951482bc17a",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "rust-modules",
   propertySlug: "modules",
   definition: "the modules a crate compiles",

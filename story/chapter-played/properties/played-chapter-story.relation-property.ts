@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const playedChapterStory = {
   id: "01a08421-9d1c-792e-b906-be0d553df679",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "played-chapter-story",
   propertySlug: "story",
   definition: "the story a chapter was played in",

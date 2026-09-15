@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const serviceManifest = {
   id: "01a07317-ae51-7f69-a24e-d94859315637",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "service-manifest",
   propertySlug: "manifest",
   definition: "a manifest a service is applied as",

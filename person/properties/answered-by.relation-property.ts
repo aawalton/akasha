@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const answeredBy = {
   id: "01a053e6-3585-7b1a-86ec-d3f1f6b2169f",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "answered-by",
   propertySlug: "answered-by",
   definition: "the persona a person hears from",

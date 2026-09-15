@@ -2,7 +2,7 @@ import type { RelationProperty } from "akasha/page/relation-property/relation-pr
 
 export const deploysAfter = {
   id: "01a09575-f21d-7413-814c-80ef1a0b4ba9",
-  type: "relation-property",
+  type: "page-type/relation-property",
   slug: "deploys-after",
   propertySlug: "deploys-after",
   definition: "a service this one is never deployed ahead of",
