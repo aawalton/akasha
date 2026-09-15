@@ -3580,7 +3580,6 @@
 {"propertySlug":"invariant-kind","path":"temper/companions-core/modules/companion-armor-slots/companion-armor-slots.module.ts","id":"01a06108-0761-7fc9-97df-bfad364def9c"}
 {"propertySlug":"invariant-kind","path":"temper/companions-core/modules/companion-armor-weights/companion-armor-weights.module.ts","id":"01a06108-0763-7147-bd41-21baa914acb5"}
 {"propertySlug":"invariant-kind","path":"temper/companions-core/modules/companion-base-roles/companion-base-roles.module.ts","id":"01a06108-0764-711e-b931-1a61746c79b0"}
-{"propertySlug":"invariant-kind","path":"temper/companions-core/modules/companion-build-edits/companion-build-edits.module.ts","id":"01a06152-c2c4-7605-8f02-6a19f8f10543"}
 {"propertySlug":"invariant-kind","path":"temper/companions-core/modules/companion-bulk-update-equipment/companion-bulk-update-equipment.module.ts","id":"01a06152-c2c5-7e0c-8688-41d1ac8871ea"}
 {"propertySlug":"invariant-kind","path":"temper/companions-core/modules/companion-effect-sources/companion-effect-sources.module.ts","id":"01a06152-c2c7-7dff-b7bf-68a31c3744ce"}
 {"propertySlug":"invariant-kind","path":"temper/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.ts","id":"01a06152-c2c7-72a3-af73-86de77280931"}

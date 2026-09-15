@@ -12,7 +12,6 @@ export const temperCompanionsCore = {
     "module/companion-armor-slots",
     "module/companion-armor-weights",
     "module/companion-base-roles",
-    "module/companion-build-edits",
     "module/companion-bulk-update-equipment",
     "module/companion-description-utils",
     "module/companion-effect-category",
