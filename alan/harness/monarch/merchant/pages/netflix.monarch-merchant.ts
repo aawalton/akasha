@@ -2,7 +2,7 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchant/monar
 
 export const netflix = {
   id: "01a0655b-fcdc-7021-960b-b4cd683f9daf",
-  type: "monarch-merchant",
+  type: "page-type/monarch-merchant",
   slug: "netflix",
   title: "netflix",
   merchantPatterns: ["netflix"],

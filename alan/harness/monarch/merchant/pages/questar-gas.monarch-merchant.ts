@@ -2,7 +2,7 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchant/monar
 
 export const questarGas = {
   id: "01a0655b-fcdc-7027-8d88-6f6a8e3f1f62",
-  type: "monarch-merchant",
+  type: "page-type/monarch-merchant",
   slug: "questar-gas",
   title: "questar gas",
   merchantPatterns: ["qgc"],

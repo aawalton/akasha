@@ -2,7 +2,7 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchant/monar
 
 export const cardPayment = {
   id: "01a0655b-fcdc-7008-ab46-f56457fe75ef",
-  type: "monarch-merchant",
+  type: "page-type/monarch-merchant",
   slug: "card-payment",
   title: "card payment",
   merchantPatterns: ["automatic payment", "payment thank you", "credit card payment", "autopay"],

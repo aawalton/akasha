@@ -2,7 +2,7 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchant/monar
 
 export const adamProffit = {
   id: "01a0655b-fcdc-7001-9d97-d58897355830",
-  type: "monarch-merchant",
+  type: "page-type/monarch-merchant",
   slug: "adam-proffit",
   title: "adam proffit",
   merchantPatterns: ["adam proffit"],

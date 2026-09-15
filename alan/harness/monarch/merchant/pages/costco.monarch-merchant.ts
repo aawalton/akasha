@@ -2,7 +2,7 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchant/monar
 
 export const costco = {
   id: "01a0655b-fcdc-700e-8204-a1d269634adb",
-  type: "monarch-merchant",
+  type: "page-type/monarch-merchant",
   slug: "costco",
   title: "costco",
   merchantPatterns: ["costco"],

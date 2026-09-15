@@ -2,7 +2,7 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchant/monar
 
 export const cloudflare = {
   id: "01a0655b-fcdc-700d-aa2d-e3be7709b205",
-  type: "monarch-merchant",
+  type: "page-type/monarch-merchant",
   slug: "cloudflare",
   title: "cloudflare",
   merchantPatterns: ["cloudflare"],

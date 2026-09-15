@@ -2,7 +2,7 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchant/monar
 
 export const venmo = {
   id: "01a0655b-fcdc-7030-98f5-ce9756495e03",
-  type: "monarch-merchant",
+  type: "page-type/monarch-merchant",
   slug: "venmo",
   title: "venmo",
   merchantPatterns: ["venmo"],

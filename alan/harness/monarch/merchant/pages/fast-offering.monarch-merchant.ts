@@ -2,7 +2,7 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchant/monar
 
 export const fastOffering = {
   id: "01a0655b-fcdc-7015-ab15-1c285844c462",
-  type: "monarch-merchant",
+  type: "page-type/monarch-merchant",
   slug: "fast-offering",
   title: "fast offering",
   merchantPatterns: ["fast offering"],

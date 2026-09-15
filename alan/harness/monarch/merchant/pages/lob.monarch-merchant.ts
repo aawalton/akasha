@@ -2,7 +2,7 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchant/monar
 
 export const lob = {
   id: "01a0655b-fcdc-701d-a470-063727f71d17",
-  type: "monarch-merchant",
+  type: "page-type/monarch-merchant",
   slug: "lob",
   title: "lob",
   merchantPatterns: ["lob.com"],

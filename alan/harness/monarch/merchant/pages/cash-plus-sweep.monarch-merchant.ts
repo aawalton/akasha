@@ -2,7 +2,7 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchant/monar
 
 export const cashPlusSweep = {
   id: "01a0655b-fcdc-7009-8b3a-efe8f4a6c913",
-  type: "monarch-merchant",
+  type: "page-type/monarch-merchant",
   slug: "cash-plus-sweep",
   title: "cash plus sweep",
   merchantPatterns: ["sweep", "transfer incoming", "transfer outgoing"],

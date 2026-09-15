@@ -2,7 +2,7 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchant/monar
 
 export const walmart = {
   id: "01a0655b-fcdc-7031-8b1e-fd182883ca8c",
-  type: "monarch-merchant",
+  type: "page-type/monarch-merchant",
   slug: "walmart",
   title: "walmart",
   merchantPatterns: ["walmart"],

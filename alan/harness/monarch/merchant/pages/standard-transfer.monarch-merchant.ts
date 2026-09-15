@@ -2,7 +2,7 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchant/monar
 
 export const standardTransfer = {
   id: "01a0655b-fcdc-702a-8578-11de86ca57f0",
-  type: "monarch-merchant",
+  type: "page-type/monarch-merchant",
   slug: "standard-transfer",
   title: "standard transfer",
   merchantPatterns: ["standard transfer"],
