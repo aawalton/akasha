@@ -8,7 +8,7 @@ export const tradingCapture = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A capture replaces the guild's earlier snapshot rather than adding to the snapshot.",
     },

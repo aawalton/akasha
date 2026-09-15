@@ -8,11 +8,11 @@ export const inventoryRulesUnread = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The words shown are the ones the read refused with.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No rule is shown beside them, so none is acted on as if it were whole.",
     },
   ],

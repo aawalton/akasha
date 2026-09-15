@@ -8,7 +8,7 @@ export const skyshardsUiStrings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The text here is English alone.",
     },
   ],

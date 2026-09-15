@@ -9,7 +9,7 @@ export const completionCadwellSort = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two entries sharing an order fall by their identifier.",
     },
   ],

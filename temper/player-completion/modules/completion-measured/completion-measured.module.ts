@@ -9,7 +9,7 @@ export const completionMeasured = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character with only roster fields counts as unread.",
     },
   ],

@@ -8,23 +8,23 @@ export const companionGearShoppingBridge = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The gear a build wants is stated here as the fields this module reads.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Where a gear need is worked out is a package akasha has yet to hold.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Four fields of a need together make the key one recommendation comes back under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A need Tamriel Trade Centre knows no item for answers with nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Armour narrows a search by weight where jewellery and a weapon do not.",
     },
   ],

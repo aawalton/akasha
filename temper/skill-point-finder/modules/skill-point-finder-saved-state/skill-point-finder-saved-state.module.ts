@@ -8,11 +8,11 @@ export const skillPointFinderSavedState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A saved shape from an older version is read forward on load.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The game is the only writer of a saved-variables file.",
     },
   ],

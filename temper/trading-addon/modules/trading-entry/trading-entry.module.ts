@@ -8,7 +8,7 @@ export const tradingEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Expired listings are dropped before anything is captured.",
     },
   ],

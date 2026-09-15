@@ -8,7 +8,7 @@ export const ruleCardFilterText = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement:
         "This cancel and the one in number-badge close over different setters and are not one rule.",
     },

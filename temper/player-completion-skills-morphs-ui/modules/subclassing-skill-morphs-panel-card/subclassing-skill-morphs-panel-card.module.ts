@@ -8,7 +8,7 @@ export const subclassingSkillMorphsPanelCard = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A class line no morph was measured for is left out.",
     },
   ],

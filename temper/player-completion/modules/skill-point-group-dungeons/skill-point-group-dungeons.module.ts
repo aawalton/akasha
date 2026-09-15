@@ -8,7 +8,7 @@ export const skillPointGroupDungeons = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The dungeons and their labels are read off the dungeon data rather than copied.",
     },
   ],

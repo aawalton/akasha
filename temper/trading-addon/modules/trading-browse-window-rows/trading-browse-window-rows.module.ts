@@ -8,7 +8,7 @@ export const tradingBrowseWindowRows = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Row heights and widths are fixed numbers rather than measured from content.",
     },
   ],

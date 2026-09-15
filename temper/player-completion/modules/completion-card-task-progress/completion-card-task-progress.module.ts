@@ -8,23 +8,23 @@ export const completionCardTaskProgress = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A card counted its own way is answered here before the generic count is reached.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A card only a daily task names is unmeasured.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A skill line a character cannot use is unmeasured for that character.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The antiquity-lore catalog is handed in rather than imported.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The antiquity-lore card is unanswered here.",
     },
   ],

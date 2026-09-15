@@ -8,11 +8,11 @@ export const shoppingSettings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item a shopper marked as not available is keyed by the shopping key.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The value against a key is the second the shopper marked the item.",
     },
   ],

@@ -9,7 +9,7 @@ export const completionLoreCollection = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Collections and books are sorted by name rather than by index.",
     },
   ],

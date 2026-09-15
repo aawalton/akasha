@@ -8,11 +8,11 @@ export const skillPointGeneralSources = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This code is written out from the skill-point pages rather than by hand.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A source is named by the key the completion record counts that source under.",
     },
   ],

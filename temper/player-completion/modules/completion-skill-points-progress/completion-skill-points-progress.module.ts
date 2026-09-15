@@ -8,7 +8,7 @@ export const completionSkillPointsProgress = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character with no skill points counted still shows every source at nothing.",
     },
   ],

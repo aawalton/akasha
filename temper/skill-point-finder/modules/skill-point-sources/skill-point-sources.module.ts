@@ -8,11 +8,11 @@ export const skillPointSources = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A source is named by the identifier the game knows that source by.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here counts the skill points a character has earned.",
     },
   ],

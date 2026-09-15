@@ -8,7 +8,7 @@ export const completionAccountLoreUnion = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book read by one character counts as read for the account.",
     },
   ],

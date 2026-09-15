@@ -9,15 +9,15 @@ export const completionCadwellLookup = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The Cadwell catalog arrives as an argument rather than as an imported table.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stop is matched by its zone name and its own name taken together.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A level's tier number is the display order its page states.",
     },
   ],

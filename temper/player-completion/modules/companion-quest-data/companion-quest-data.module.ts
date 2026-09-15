@@ -9,7 +9,7 @@ export const companionQuestData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A quest is named by the number the game knows that quest by.",
     },
   ],

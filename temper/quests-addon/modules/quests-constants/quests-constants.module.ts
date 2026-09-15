@@ -8,11 +8,11 @@ export const questsConstants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The saved-variables name is built from the addon name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The saved-variables layout has the version the layout was written under.",
     },
   ],

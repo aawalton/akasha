@@ -8,23 +8,23 @@ export const completionAccountZonePoiUnion = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A place one character found counts as found for the account.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An activity one character finished counts as finished for the account.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The zone catalog arrives as an argument rather than as an imported table.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The zone completion roll-up takes its shape from the first character given.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An empty list of characters answers an empty progress.",
     },
   ],

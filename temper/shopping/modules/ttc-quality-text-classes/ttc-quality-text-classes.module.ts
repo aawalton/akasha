@@ -8,11 +8,11 @@ export const ttcQualityTextClasses = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quality is keyed by the number Tamriel Trade Centre gives the quality.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No class here is named for the lowest quality.",
     },
   ],

@@ -8,15 +8,15 @@ export const questsSlashCommand = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command is registered with the game whether or not the hud is loaded.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command is announced to the hud only where the hud is loaded.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The hud is told the name of the addon each command belongs to.",
     },
   ],

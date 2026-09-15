@@ -9,7 +9,7 @@ export const completionCardResetBehavior = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "upkeep",
+      invariantKind: "invariant-kind/upkeep",
       statement: "Every completion card is named here.",
     },
   ],

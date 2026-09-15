@@ -9,12 +9,12 @@ export const completionSummary = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The progress folded here arrives in one bundle rather than as separate arguments.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads a catalog.",
     },
   ],

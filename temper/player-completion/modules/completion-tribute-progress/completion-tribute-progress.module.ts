@@ -9,19 +9,19 @@ export const completionTributeProgress = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The patron catalog arrives as an argument rather than as an imported table.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A patron's total counts the patron beside each card the patron has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A card the account never upgraded counts as not upgraded.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An empty catalog answers an empty progress.",
     },
   ],

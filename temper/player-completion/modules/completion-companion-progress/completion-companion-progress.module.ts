@@ -9,7 +9,7 @@ export const completionCompanionProgress = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A companion never met counts as nothing rather than being left out.",
     },
   ],

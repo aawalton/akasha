@@ -8,7 +8,7 @@ export const skillPointFinderState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reader asks for state and is refused while the window is unopened.",
     },
   ],

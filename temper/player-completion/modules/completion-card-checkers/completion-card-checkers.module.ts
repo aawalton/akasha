@@ -8,11 +8,11 @@ export const completionCardCheckers = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A card the registry does not name has no checker and reads as unmeasured.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A card stating no picker is one leaf at the empty path.",
     },
   ],

@@ -8,7 +8,7 @@ export const skillPointFinderApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The window is offered as one global object the game loads.",
     },
   ],

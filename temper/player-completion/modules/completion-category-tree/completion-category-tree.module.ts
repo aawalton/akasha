@@ -8,11 +8,11 @@ export const completionCategoryTree = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This code is written out from the completion-category pages rather than by hand.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement:
         "The achievement children are hung by `completion-category-tree-composed` rather than here.",
     },

@@ -8,7 +8,7 @@ export const skyshardsData2 = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "These zones are one unbroken run of the whole table's order.",
     },
   ],

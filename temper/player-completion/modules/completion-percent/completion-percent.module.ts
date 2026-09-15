@@ -9,7 +9,7 @@ export const completionPercent = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A count part way along never reads as zero.",
     },
   ],

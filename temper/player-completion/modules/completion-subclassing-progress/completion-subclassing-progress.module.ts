@@ -8,7 +8,7 @@ export const completionSubclassingProgress = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Only a skill line under the class heading is reckoned.",
     },
   ],

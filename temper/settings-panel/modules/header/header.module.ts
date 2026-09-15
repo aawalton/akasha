@@ -8,7 +8,7 @@ export const header = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A header has no setting of its own.",
     },
   ],

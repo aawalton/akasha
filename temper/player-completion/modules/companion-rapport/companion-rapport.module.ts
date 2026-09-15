@@ -9,7 +9,7 @@ export const companionRapport = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Rapport is held between nothing and its ceiling.",
     },
   ],

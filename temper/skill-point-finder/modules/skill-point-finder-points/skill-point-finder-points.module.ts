@@ -8,7 +8,7 @@ export const skillPointFinderPoints = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A count is recomputed from the points the game reports rather than accumulated.",
     },
   ],

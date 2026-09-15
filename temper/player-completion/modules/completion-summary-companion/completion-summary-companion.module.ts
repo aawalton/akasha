@@ -9,11 +9,11 @@ export const completionSummaryCompanion = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller naming companions is counted on the companions the caller named.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A companion of no known level counts toward no level total.",
     },
   ],

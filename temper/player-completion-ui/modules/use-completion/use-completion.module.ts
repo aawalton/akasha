@@ -8,12 +8,12 @@ export const useCompletion = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A query not naming `completion` under `files` answers that file's ending rather than its body.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A completion that is not an object reads here as no completion.",
     },
   ],

@@ -9,19 +9,19 @@ export const questsTraceBuffer = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The buffer has the number of entries the cap names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The oldest entry goes first when the buffer is full.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Appending returns a new list rather than changing the list handed in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The shape of an entry is stated where the trace is read back.",
     },
   ],

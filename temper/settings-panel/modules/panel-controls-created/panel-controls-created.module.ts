@@ -8,15 +8,15 @@ export const panelControlsCreated = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The callback manager is handed in rather than reached as a global.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What was handed in runs for the panel it was given and for no other.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A registration is dropped as what was handed in runs.",
     },
   ],

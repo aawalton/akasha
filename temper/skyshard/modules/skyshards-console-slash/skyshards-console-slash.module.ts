@@ -8,7 +8,7 @@ export const skyshardsConsoleSlash = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Both a console and a computer print the player's position from this one rule.",
     },
   ],

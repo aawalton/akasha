@@ -9,11 +9,11 @@ export const completionCompanionQuestActionability = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Companions are gone through in the order of their names.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A quest asking more rapport than a companion holds is not yet takeable.",
     },
   ],

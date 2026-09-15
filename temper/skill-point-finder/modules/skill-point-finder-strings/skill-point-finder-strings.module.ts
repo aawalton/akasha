@@ -8,7 +8,7 @@ export const skillPointFinderStrings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A string is registered under an identifier the markup names.",
     },
   ],

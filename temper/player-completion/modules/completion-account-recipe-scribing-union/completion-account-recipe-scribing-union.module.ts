@@ -8,7 +8,7 @@ export const completionAccountRecipeScribingUnion = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A recipe or a script one character knows counts as known for the account.",
     },
   ],

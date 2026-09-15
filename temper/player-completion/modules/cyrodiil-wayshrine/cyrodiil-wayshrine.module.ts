@@ -8,7 +8,7 @@ export const cyrodiilWayshrine = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Cyrodiil's wayshrines are left out of the points of interest a character is measured on.",
     },

@@ -9,7 +9,7 @@ export const completionCumulativeCards = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here counts the completions a character has earned.",
     },
   ],

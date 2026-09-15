@@ -8,11 +8,11 @@ export const questsPublicApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The global is named for the addon.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The global has the two toggles and nothing more.",
     },
   ],

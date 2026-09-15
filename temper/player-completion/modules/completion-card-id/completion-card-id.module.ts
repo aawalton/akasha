@@ -8,7 +8,7 @@ export const completionCardId = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Five task identifiers are named here that the category tree never holds.",
     },
   ],

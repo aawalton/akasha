@@ -8,11 +8,11 @@ export const skillsPanelPoints = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What an add-on draws is counted afresh before the panel is hooked.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The panel draws its own points before what an add-on adds is drawn.",
     },
   ],

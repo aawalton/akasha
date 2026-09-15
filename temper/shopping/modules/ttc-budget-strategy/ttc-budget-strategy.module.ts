@@ -8,19 +8,19 @@ export const ttcBudgetStrategy = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A market with few entries earns the loosest ceiling.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A narrow spread between the lowest and the highest price earns a tight ceiling.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sale average well under the lowest asking price earns a tight ceiling.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A price the dump says nothing about earns the middle ceiling.",
     },
   ],

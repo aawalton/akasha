@@ -8,7 +8,7 @@ export const tradingBrowseWindow = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The window is built once and refilled rather than rebuilt per search.",
     },
   ],

@@ -8,7 +8,7 @@ export const tradingBrowseEngine = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Results are held as read rather than sorted on arrival.",
     },
   ],

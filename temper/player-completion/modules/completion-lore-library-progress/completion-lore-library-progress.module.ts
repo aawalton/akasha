@@ -9,7 +9,7 @@ export const completionLoreLibraryProgress = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book is keyed by three indexes taken together.",
     },
   ],

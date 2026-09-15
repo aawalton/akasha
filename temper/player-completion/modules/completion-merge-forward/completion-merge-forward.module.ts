@@ -9,11 +9,11 @@ export const completionMergeForward = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A count merged forward never falls.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A handful of fields take the fresh reading whole rather than merging.",
     },
   ],

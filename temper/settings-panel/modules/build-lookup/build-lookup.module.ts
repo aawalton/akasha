@@ -8,11 +8,11 @@ export const buildLookup = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A choice repeated keeps the last place that choice sits at.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A place counts up from the head of the list.",
     },
   ],

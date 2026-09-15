@@ -8,11 +8,11 @@ export const completionAccountCheckers = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The registry is empty and nothing here can fill it.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The registry names every account card the category tree has.",
     },
   ],

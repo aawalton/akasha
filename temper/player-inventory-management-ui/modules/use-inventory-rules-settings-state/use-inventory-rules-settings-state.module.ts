@@ -8,11 +8,11 @@ export const useInventoryRulesSettingsState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A write refused for unread rules is told apart from one that failed to save.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reader is told nothing was saved and nothing was lost, rather than to retry.",
     },
   ],

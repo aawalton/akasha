@@ -8,7 +8,7 @@ export const skillPointFinderMenu = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A setting is held per character rather than per account.",
     },
   ],

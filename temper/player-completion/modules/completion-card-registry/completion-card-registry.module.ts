@@ -8,7 +8,7 @@ export const completionCardRegistry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A card identifier is a literal type read off the category tree.",
     },
   ],

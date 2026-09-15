@@ -9,11 +9,11 @@ export const applyCompletionOverrides = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An override never lowers the points a character already counts.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An override never carries a count past the largest count its source can give.",
     },
   ],

@@ -8,11 +8,11 @@ export const skillMorphsProgressPanelCard = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Choosing no character reckons every character together.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A skill line with no morphable skill is left out.",
     },
   ],

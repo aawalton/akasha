@@ -8,7 +8,7 @@ export const tradingConstants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The add-on name is the one key every event name and every saved variables read is built from.",
     },

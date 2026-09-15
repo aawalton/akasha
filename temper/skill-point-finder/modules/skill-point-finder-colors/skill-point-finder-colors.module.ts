@@ -8,7 +8,7 @@ export const skillPointFinderColors = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A color is written into the text as an inline markup tag.",
     },
   ],

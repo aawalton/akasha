@@ -8,11 +8,11 @@ export const skillPointZoneSources = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This code is written out from the skill-point pages rather than by hand.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A zone is named by the two-letter key the game knows that zone by.",
     },
   ],

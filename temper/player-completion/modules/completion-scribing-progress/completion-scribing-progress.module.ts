@@ -8,11 +8,11 @@ export const completionScribingProgress = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A character no measurement was taken of is left out.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A script with no item id is left out.",
     },
   ],

@@ -8,15 +8,15 @@ export const ttcShoppingTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item to shop for carries the key one recommendation comes back under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A budget strategy is a multiplier over the cheapest price found.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A plan keeps every listing passed over as an alternative.",
     },
   ],

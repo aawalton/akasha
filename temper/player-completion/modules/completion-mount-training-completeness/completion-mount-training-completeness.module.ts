@@ -9,7 +9,7 @@ export const completionMountTrainingCompleteness = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One of the three mount statistics is asked after by naming that statistic.",
     },
   ],

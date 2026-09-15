@@ -9,15 +9,15 @@ export const questsChatterNames = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The map from code to name is built once and kept.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A code the game names nothing for reads back as the code itself.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name the globals do not have is left out of the map.",
     },
   ],

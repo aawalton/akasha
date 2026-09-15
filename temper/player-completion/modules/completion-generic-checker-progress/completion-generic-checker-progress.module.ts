@@ -9,20 +9,20 @@ export const completionGenericCheckerProgress = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A total is read from the static catalog rather than from saved data.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A leaf stating its own numbers is taken over counting that leaf as a single whole.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A leaf detail is read only where the path is already a leaf.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A card no checker names returns nothing rather than a count.",
     },
   ],

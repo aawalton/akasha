@@ -8,19 +8,19 @@ export const completionItemPicker = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A card is walked to whatever depth its picker keeps answering to.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A picker answering null marks a leaf rather than an absent card.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account card takes no character completions to pick over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The levels a card offers are read off the static catalog rather than off saved data.",
     },

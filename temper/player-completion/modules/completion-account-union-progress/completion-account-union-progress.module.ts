@@ -8,7 +8,7 @@ export const completionAccountUnionProgress = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quest finished by one character counts as finished for the account.",
     },
   ],

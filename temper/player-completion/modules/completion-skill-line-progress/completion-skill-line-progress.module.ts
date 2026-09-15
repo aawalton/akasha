@@ -8,11 +8,11 @@ export const completionSkillLineProgress = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A skill line at its last rank reads as a hundred.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A skill line the game gives no rank ceiling is left out.",
     },
   ],

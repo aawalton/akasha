@@ -8,7 +8,7 @@ export const mapPinsPrecursorTooltip = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

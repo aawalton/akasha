@@ -8,27 +8,27 @@ export const questsClassify = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Wording marking persuasion or intimidation settles the option ahead of its code.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An option whose code the game does not name here is plain talk.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A code the game offers a service under is a service.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Persuasion the game has already refused is blocked rather than persuasion.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One quest names a branch chosen by wording rather than by the option's code.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "That branch is read only while the quest naming the branch is in the journal.",
     },
   ],

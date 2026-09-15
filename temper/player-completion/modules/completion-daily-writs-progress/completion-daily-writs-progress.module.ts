@@ -8,7 +8,7 @@ export const completionDailyWritsProgress = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The count shown is the count of today alone.",
     },
   ],

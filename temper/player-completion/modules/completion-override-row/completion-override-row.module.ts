@@ -9,7 +9,7 @@ export const completionOverrideRow = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A row that is not an override reads as nothing rather than throwing.",
     },
   ],

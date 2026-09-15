@@ -8,7 +8,7 @@ export const skillPointFinderCharList = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The character shown is chosen from a list rather than followed from who is played.",
     },

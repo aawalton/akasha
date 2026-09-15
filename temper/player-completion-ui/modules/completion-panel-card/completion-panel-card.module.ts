@@ -8,15 +8,15 @@ export const completionPanelCard = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A row counting nothing is drawn nowhere.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A branch is drawn where any row beneath the branch is drawn.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A search of fewer than three letters narrows nothing.",
     },
   ],

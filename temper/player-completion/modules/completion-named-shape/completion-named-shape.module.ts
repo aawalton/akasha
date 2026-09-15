@@ -8,11 +8,11 @@ export const completionNamedShape = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The caller states which shape a value with a name is.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A completion record is stored in a fuller shape or in a terser shape.",
     },
   ],

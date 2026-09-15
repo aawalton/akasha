@@ -8,7 +8,7 @@ export const skillPointFinderEvents = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A redraw is asked for by a game event rather than by a timer.",
     },
   ],
