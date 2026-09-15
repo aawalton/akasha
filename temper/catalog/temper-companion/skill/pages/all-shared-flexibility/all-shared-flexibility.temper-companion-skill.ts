@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedFlexibility = {
   id: "019e6484-3835-78f0-aac4-b3f011617cbb",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "all-shared-flexibility",
   key: "shared-flexibility",
   title: "Flexibility",

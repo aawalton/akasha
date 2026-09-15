@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedStaggeringSwing = {
   id: "019e668d-c55b-7dbc-83c4-7074c38cf26a",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "all-shared-staggering-swing",
   key: "shared-staggering-swing",
   title: "Staggering Swing",

@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const azandarAzandarZoneOfRecuperation = {
   id: "019e6484-3845-7a06-872c-e1a6dc8cb1f4",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "azandar-azandar-zone-of-recuperation",
   key: "azandar-zone-of-recuperation",
   title: "Zone of Recuperation",

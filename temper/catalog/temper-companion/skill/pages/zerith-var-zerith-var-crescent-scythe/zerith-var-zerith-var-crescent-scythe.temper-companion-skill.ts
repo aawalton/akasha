@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const zerithVarZerithVarCrescentScythe = {
   id: "019e6484-38b0-75eb-a72e-958b5897f7f0",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "zerith-var-zerith-var-crescent-scythe",
   key: "zerith-var-crescent-scythe",
   title: "Crescent Scythe",

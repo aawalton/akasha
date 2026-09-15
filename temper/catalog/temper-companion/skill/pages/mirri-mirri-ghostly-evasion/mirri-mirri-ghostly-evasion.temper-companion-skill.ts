@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const mirriMirriGhostlyEvasion = {
   id: "019e6484-387f-7663-9a4d-31447aeda194",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "mirri-mirri-ghostly-evasion",
   key: "mirri-ghostly-evasion",
   title: "Ghostly Evasion",

@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const sharpAsNightSharpFungalForage = {
   id: "019e6484-3895-7eac-b2bb-26d58c51bdc7",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "sharp-as-night-sharp-fungal-forage",
   key: "sharp-fungal-forage",
   title: "Fungal Forage",

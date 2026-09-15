@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const tanlorinTanlorinHazeOfCinders = {
   id: "019e6484-38a4-75a3-96be-0f4376392195",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "tanlorin-tanlorin-haze-of-cinders",
   key: "tanlorin-haze-of-cinders",
   title: "Haze of Cinders",

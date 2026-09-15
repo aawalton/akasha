@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const isobelIsobelPenetratingStrikes = {
   id: "019e6484-3876-7084-9250-0cf2b301a826",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "isobel-isobel-penetrating-strikes",
   key: "isobel-penetrating-strikes",
   title: "Penetrating Strikes",

@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const sharpAsNightSharpInfest = {
   id: "019e6484-3898-7f67-a1f6-639538025c3e",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "sharp-as-night-sharp-infest",
   key: "sharp-infest",
   title: "Infest",

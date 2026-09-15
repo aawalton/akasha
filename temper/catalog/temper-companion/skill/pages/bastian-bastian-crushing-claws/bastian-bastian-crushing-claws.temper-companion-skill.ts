@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const bastianBastianCrushingClaws = {
   id: "019e6484-384b-7d02-b466-7ef0596869ae",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "bastian-bastian-crushing-claws",
   key: "bastian-crushing-claws",
   title: "Crushing Claws",

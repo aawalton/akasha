@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedRejuvenation = {
   id: "019e668d-c55a-7617-a74d-90aee967042b",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "all-shared-rejuvenation",
   key: "shared-rejuvenation",
   title: "Rejuvenation",

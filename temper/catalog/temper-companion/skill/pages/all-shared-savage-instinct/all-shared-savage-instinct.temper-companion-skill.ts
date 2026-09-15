@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedSavageInstinct = {
   id: "019e6688-86f4-75d4-87ab-23740d103bb9",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "all-shared-savage-instinct",
   key: "shared-savage-instinct",
   title: "Savage Instinct",

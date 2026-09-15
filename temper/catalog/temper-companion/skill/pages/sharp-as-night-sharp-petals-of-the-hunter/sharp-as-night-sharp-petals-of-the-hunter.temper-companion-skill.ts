@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const sharpAsNightSharpPetalsOfTheHunter = {
   id: "019e6484-389b-7e6f-afeb-c65964fc717d",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "sharp-as-night-sharp-petals-of-the-hunter",
   key: "sharp-petals-of-the-hunter",
   title: "Petals of the Hunter",

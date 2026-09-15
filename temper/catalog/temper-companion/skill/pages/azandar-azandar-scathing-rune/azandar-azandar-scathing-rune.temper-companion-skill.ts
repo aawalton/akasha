@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const azandarAzandarScathingRune = {
   id: "019e6484-383b-7cf7-be2d-7d77fc7c221c",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "azandar-azandar-scathing-rune",
   key: "azandar-scathing-rune",
   title: "Scathing Rune",

@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const isobelIsobelDivineDestruction = {
   id: "019e6484-3871-7070-bb6d-98c87f3d6e85",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "isobel-isobel-divine-destruction",
   key: "isobel-divine-destruction",
   title: "Divine Destruction",

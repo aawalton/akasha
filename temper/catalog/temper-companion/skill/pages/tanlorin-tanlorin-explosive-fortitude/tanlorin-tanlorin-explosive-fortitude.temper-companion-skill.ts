@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const tanlorinTanlorinExplosiveFortitude = {
   id: "019e6484-38a2-74a4-bf45-812de424b289",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "tanlorin-tanlorin-explosive-fortitude",
   key: "tanlorin-explosive-fortitude",
   title: "Explosive Fortitude",

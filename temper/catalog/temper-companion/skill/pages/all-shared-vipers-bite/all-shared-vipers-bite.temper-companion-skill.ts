@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedVipersBite = {
   id: "019e668d-c550-7a2f-b045-155ddce14385",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "all-shared-vipers-bite",
   key: "shared-vipers-bite",
   title: "Viper's Bite",

@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedFlow = {
   id: "019e6484-3830-7a11-bb1e-ef64c85fc414",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "all-shared-flow",
   key: "shared-flow",
   title: "Flow",

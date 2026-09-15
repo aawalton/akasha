@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedSwiftAssault = {
   id: "019e668d-c556-70fe-b06b-46a1ea3efd08",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "all-shared-swift-assault",
   key: "shared-swift-assault",
   title: "Swift Assault",

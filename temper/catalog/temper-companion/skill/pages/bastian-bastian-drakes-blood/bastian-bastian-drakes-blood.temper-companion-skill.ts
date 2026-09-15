@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const bastianBastianDrakesBlood = {
   id: "019e6484-384d-75ed-b54f-7a3da4da2ea5",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "bastian-bastian-drakes-blood",
   key: "bastian-drakes-blood",
   title: "Drake's Blood",

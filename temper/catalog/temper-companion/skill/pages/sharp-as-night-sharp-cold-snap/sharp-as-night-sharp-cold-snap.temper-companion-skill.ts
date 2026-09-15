@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const sharpAsNightSharpColdSnap = {
   id: "019e6484-3894-7797-b1cc-dbeb0fbaa368",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "sharp-as-night-sharp-cold-snap",
   key: "sharp-cold-snap",
   title: "Cold Snap",

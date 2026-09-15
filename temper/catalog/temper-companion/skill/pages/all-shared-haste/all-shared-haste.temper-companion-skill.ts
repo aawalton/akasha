@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedHaste = {
   id: "019e6484-382e-745b-b03a-6268beb1740c",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "all-shared-haste",
   key: "shared-haste",
   title: "Haste",

@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const bastianBastianScorchingStrike = {
   id: "019e6484-3851-7f30-8fd9-32c2f824b762",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "bastian-bastian-scorching-strike",
   key: "bastian-scorching-strike",
   title: "Scorching Strike",

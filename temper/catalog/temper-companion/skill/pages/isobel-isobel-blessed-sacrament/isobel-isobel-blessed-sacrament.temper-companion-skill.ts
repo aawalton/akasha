@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const isobelIsobelBlessedSacrament = {
   id: "019e6484-386d-7b63-bd18-24844cc552a9",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "isobel-isobel-blessed-sacrament",
   key: "isobel-blessed-sacrament",
   title: "Blessed Sacrament",

@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedMysticFortress = {
   id: "019e668d-c559-7ab3-b9b8-563364fdc928",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "all-shared-mystic-fortress",
   key: "shared-mystic-fortress",
   title: "Mystic Fortress",

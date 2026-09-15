@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const mirriMirriLifeAbsorption = {
   id: "019e6484-3883-7c4e-aa2f-2a94ca0076cb",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "mirri-mirri-life-absorption",
   key: "mirri-life-absorption",
   title: "Life Absorption",

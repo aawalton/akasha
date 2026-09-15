@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const zerithVarZerithVarThirdMoonsChosen = {
   id: "019e6484-38b7-7438-8c87-ea6e71b14459",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "zerith-var-zerith-var-third-moons-chosen",
   key: "zerith-var-third-moons-chosen",
   title: "Third Moon's Chosen",

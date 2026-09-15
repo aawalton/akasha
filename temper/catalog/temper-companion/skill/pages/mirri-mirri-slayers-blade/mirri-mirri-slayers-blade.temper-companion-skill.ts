@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const mirriMirriSlayersBlade = {
   id: "019e6484-388c-785e-bf0a-bc50bb7c8b92",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "mirri-mirri-slayers-blade",
   key: "mirri-slayers-blade",
   title: "Slayer's Blade",

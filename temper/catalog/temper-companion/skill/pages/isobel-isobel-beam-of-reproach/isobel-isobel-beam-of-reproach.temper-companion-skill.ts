@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const isobelIsobelBeamOfReproach = {
   id: "019e6484-386b-7e0d-b3a8-7b0e6591b10a",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "isobel-isobel-beam-of-reproach",
   key: "isobel-beam-of-reproach",
   title: "Beam of Reproach",

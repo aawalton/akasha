@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedRitualOfSalvation = {
   id: "019e6688-86f3-7a04-b617-8c6c9663ce6a",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "all-shared-ritual-of-salvation",
   key: "shared-ritual-of-salvation",
   title: "Ritual of Salvation",

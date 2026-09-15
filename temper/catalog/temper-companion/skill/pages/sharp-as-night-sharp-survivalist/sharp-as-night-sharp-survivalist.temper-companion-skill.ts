@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const sharpAsNightSharpSurvivalist = {
   id: "019e6484-389f-7385-af6f-a9666f9ad128",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "sharp-as-night-sharp-survivalist",
   key: "sharp-survivalist",
   title: "Survivalist",

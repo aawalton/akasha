@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const isobelIsobelSunBrand = {
   id: "019e6484-387a-7e0a-89b3-06a0f0ad268f",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "isobel-isobel-sun-brand",
   key: "isobel-sun-brand",
   title: "Sun Brand",

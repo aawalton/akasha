@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedParallel = {
   id: "019e6688-86f1-78d9-8364-4fb564175667",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "all-shared-parallel",
   key: "shared-parallel",
   title: "Parallel",

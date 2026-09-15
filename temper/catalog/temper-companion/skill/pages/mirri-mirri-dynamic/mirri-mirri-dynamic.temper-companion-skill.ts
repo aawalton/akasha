@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const mirriMirriDynamic = {
   id: "019e6484-387d-7e76-835a-f1e88c408de4",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "mirri-mirri-dynamic",
   key: "mirri-dynamic",
   title: "Dynamic",

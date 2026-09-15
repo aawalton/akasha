@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const azandarAzandarFateOmensInspiration = {
   id: "019e6484-3838-7b6f-a908-a3e696d8a623",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "azandar-azandar-fate-omens-inspiration",
   key: "azandar-fate-omens-inspiration",
   title: "Fate Omen's Inspiration",

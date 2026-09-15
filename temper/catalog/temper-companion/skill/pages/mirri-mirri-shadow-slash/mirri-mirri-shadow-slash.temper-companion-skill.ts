@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const mirriMirriShadowSlash = {
   id: "019e6484-388a-75ec-b19d-139486755ca1",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "mirri-mirri-shadow-slash",
   key: "mirri-shadow-slash",
   title: "Shadow Slash",

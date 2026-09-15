@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const zerithVarZerithVarPenanceOfLorkhaj = {
   id: "019e6484-38b2-734c-a763-1fecdd14d69f",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "zerith-var-zerith-var-penance-of-lorkhaj",
   key: "zerith-var-penance-of-lorkhaj",
   title: "Penance of Lorkhaj",

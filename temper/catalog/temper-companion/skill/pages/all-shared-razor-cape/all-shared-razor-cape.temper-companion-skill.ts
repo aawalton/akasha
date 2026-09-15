@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedRazorCape = {
   id: "019e668d-c554-7ab0-bb25-58496b8ab4e2",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "all-shared-razor-cape",
   key: "shared-razor-cape",
   title: "Razor Cape",

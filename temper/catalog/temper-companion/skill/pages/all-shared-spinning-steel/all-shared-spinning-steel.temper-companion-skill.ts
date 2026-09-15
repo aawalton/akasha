@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedSpinningSteel = {
   id: "019e668d-c555-75f2-b975-63bd57ee036f",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "all-shared-spinning-steel",
   key: "shared-spinning-steel",
   title: "Spinning Steel",

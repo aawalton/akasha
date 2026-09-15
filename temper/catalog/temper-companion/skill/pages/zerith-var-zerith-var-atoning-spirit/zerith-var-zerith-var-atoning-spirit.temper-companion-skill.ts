@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const zerithVarZerithVarAtoningSpirit = {
   id: "019e6484-38ac-7567-906f-0552a3b42e52",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "zerith-var-zerith-var-atoning-spirit",
   key: "zerith-var-atoning-spirit",
   title: "Atoning Spirit",

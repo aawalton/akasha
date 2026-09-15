@@ -2,7 +2,7 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const emberEmberTrickstersTrap = {
   id: "019e6484-3868-79e5-b7b4-335bf0e0efda",
-  type: "temper-companion-skill",
+  type: "page-type/temper-companion-skill",
   slug: "ember-ember-tricksters-trap",
   key: "ember-tricksters-trap",
   title: "Trickster's Trap",
