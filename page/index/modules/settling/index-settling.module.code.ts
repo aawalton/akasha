@@ -44,7 +44,6 @@ import {
   shapesFiled,
   shapesIn,
 } from "akasha/page/index/shapes/index-shapes.index.code.ts"
-
 import { type Rowing, rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import { pageNamed, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
