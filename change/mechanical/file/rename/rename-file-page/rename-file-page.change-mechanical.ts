@@ -149,11 +149,6 @@ export const renameFilePage = {
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "A file the page claims and the rename leaves behind is refused by the guard named here.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
         "A way's name is restated though the reached move restated that way's path already.",
     },
     {
