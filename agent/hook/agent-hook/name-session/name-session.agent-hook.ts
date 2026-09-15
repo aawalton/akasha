@@ -2,7 +2,7 @@ import type { AgentHook } from "akasha/agent/hook/agent-hook/agent-hook.page-typ
 
 export const nameSession = {
   id: "01a0941d-27f4-781c-aadd-02f86d00139e",
-  type: "agent-hook",
+  type: "page-type/agent-hook",
   slug: "name-session",
   definition: "a naming of a seat's Claude Code session for that seat, as the session ends a turn",
   code: "ts",

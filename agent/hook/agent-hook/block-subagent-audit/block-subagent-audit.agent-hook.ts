@@ -2,7 +2,7 @@ import type { AgentHook } from "akasha/agent/hook/agent-hook/agent-hook.page-typ
 
 export const blockSubagentAudit = {
   id: "01a06906-100c-7bd1-92e8-8157b8483c37",
-  type: "agent-hook",
+  type: "page-type/agent-hook",
   slug: "block-subagent-audit",
   definition:
     "a refusal of an `akasha audit` a subagent narrows, the bare call left through for anyone",

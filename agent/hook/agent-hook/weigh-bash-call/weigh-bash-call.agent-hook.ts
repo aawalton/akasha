@@ -2,7 +2,7 @@ import type { AgentHook } from "akasha/agent/hook/agent-hook/agent-hook.page-typ
 
 export const weighBashCall = {
   id: "01a0925f-7a0c-7b9c-9414-3402ab8afe91",
-  type: "agent-hook",
+  type: "page-type/agent-hook",
   slug: "weigh-bash-call",
   definition:
     "the hook putting a bash call in a group of its own so what that call spends is known",

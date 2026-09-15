@@ -2,7 +2,7 @@ import type { InferenceHook } from "akasha/agent/hook/agent-hook/inference-hook/
 
 export const keepAlanDirectives = {
   id: "01a090e9-b891-780c-ae1c-408119c382ec",
-  type: "inference-hook",
+  type: "page-type/inference-hook",
   slug: "keep-alan-directives",
   definition: "the rule a turn breaks put back to the agent before that turn ends",
   code: "ts",

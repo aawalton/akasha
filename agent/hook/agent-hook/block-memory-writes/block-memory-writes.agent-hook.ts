@@ -2,7 +2,7 @@ import type { AgentHook } from "akasha/agent/hook/agent-hook/agent-hook.page-typ
 
 export const blockMemoryWrites = {
   id: "01a0a0d4-3357-7104-a477-9c33e912a4f6",
-  type: "agent-hook",
+  type: "page-type/agent-hook",
   slug: "block-memory-writes",
   definition: "the hook refusing a shell write onto a filesystem the machine holds in memory",
   code: "ts",

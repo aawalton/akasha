@@ -2,7 +2,7 @@ import type { AgentHook } from "akasha/agent/hook/agent-hook/agent-hook.page-typ
 
 export const blockAkashaReads = {
   id: "01a04eb3-0e18-748c-9e7f-ae84d9254e02",
-  type: "agent-hook",
+  type: "page-type/agent-hook",
   slug: "block-akasha-reads",
   definition: "a refusal of a Read landing inside this checkout, naming the akasha read",
   code: "ts",

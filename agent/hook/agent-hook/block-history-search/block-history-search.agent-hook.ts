@@ -2,7 +2,7 @@ import type { AgentHook } from "akasha/agent/hook/agent-hook/agent-hook.page-typ
 
 export const blockHistorySearch = {
   id: "01a09cad-0b46-7233-a9e6-55c321ffc10b",
-  type: "agent-hook",
+  type: "page-type/agent-hook",
   slug: "block-history-search",
   definition: "a refusal of a search of history for a change to some text",
   code: "ts",

@@ -2,7 +2,7 @@ import type { AgentHook } from "akasha/agent/hook/agent-hook/agent-hook.page-typ
 
 export const blockBiome = {
   id: "01a04edf-d739-7000-8634-f401edc3f875",
-  type: "agent-hook",
+  type: "page-type/agent-hook",
   slug: "block-biome",
   definition: "a refusal of the biome calls an agent makes outside the akasha commands",
   code: "ts",
