@@ -1,11 +1,11 @@
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"alan/atlas-web/routes/atlas-search/atlas-search.route.code.tsx"}
-{"propertySlug":"import","fileName":"card.module.code.tsx","path":"design/interface/design-interfaces-system/modules/components-core-panels/components-core-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"card.module.code.tsx","path":"design/interface/design-interfaces-system/modules/components-list-grid-panels/components-list-grid-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"design/interface/layout/modules/panel-card/panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"design/interface/pattern/modules/auth-page-content/auth-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.code.tsx"}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"design/interface/primitive/modules/alert-dialog/alert-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"design/interface/primitive/modules/dialog/dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"card.module.code.tsx","path":"design/interface/system/modules/components-core-panels/components-core-panels.module.code.tsx"}
+{"propertySlug":"import","fileName":"card.module.code.tsx","path":"design/interface/system/modules/components-list-grid-panels/components-list-grid-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"page/page.page-type.page-card-component.code.tsx"}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"temper/player-economics-ui/modules/companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"temper/player-economics-ui/modules/companion-gear-by-price-panel-card/companion-gear-by-price-panel-card.module.code.tsx"}

@@ -1,10 +1,10 @@
-{"propertySlug":"import","fileName":"label.module.code.tsx","path":"design/interface/design-interfaces-system/modules/components-form-controls-panels/components-form-controls-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"label.module.code.tsx","path":"design/interface/design-interfaces-system/modules/components-input-panels/components-input-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"label.module.code.tsx","path":"design/interface/form/modules/field/field.module.code.tsx"}
 {"propertySlug":"import","fileName":"label.module.code.tsx","path":"design/interface/form/modules/form/form.module.code.tsx"}
 {"propertySlug":"import","fileName":"label.module.code.tsx","path":"design/interface/pattern/modules/auth-page-content/auth-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"label.module.code.tsx","path":"design/interface/pattern/modules/input-panel-card/input-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"label.module.code.tsx","path":"design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"}
+{"propertySlug":"import","fileName":"label.module.code.tsx","path":"design/interface/system/modules/components-form-controls-panels/components-form-controls-panels.module.code.tsx"}
+{"propertySlug":"import","fileName":"label.module.code.tsx","path":"design/interface/system/modules/components-input-panels/components-input-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"label.module.code.tsx","path":"page/ui/component/modules/create-view-popover/create-view-popover.module.code.tsx"}
 {"propertySlug":"import","fileName":"label.module.code.tsx","path":"page/ui/component/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx"}
 {"propertySlug":"import","fileName":"label.module.code.tsx","path":"person/modules/sms-opt-in/sms-opt-in.module.code.tsx"}

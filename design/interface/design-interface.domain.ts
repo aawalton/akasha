@@ -11,7 +11,7 @@ export const designInterface = {
     "domain/design-interface-layout",
     "domain/design-interface-pattern",
     "domain/design-interface-primitive",
-    "domain/design-interfaces-system",
+    "domain/design-interface-system",
     "domain/design-interface-token",
     "page-type/color",
   ],

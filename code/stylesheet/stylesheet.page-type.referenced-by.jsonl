@@ -4,11 +4,11 @@
 {"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"alan/web/idle-look/idle-look.stylesheet.ts"}
 {"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"alan/web/look/alan-web-look.stylesheet.ts"}
 {"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"alan/web/reveal-host-look/reveal-host-look.stylesheet.ts"}
-{"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"design/interface/design-interfaces-system/base-look/base-look.stylesheet.ts"}
-{"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"design/interface/design-interfaces-system/design-look/design-look.stylesheet.ts"}
-{"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"design/interface/design-interfaces-system/motion-look/motion-look.stylesheet.ts"}
-{"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"design/interface/design-interfaces-system/theme-bridge/theme-bridge.stylesheet.ts"}
-{"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"design/interface/design-interfaces-system/token-values/token-values.stylesheet.ts"}
+{"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"design/interface/system/base-look/base-look.stylesheet.ts"}
+{"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"design/interface/system/design-look/design-look.stylesheet.ts"}
+{"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"design/interface/system/motion-look/motion-look.stylesheet.ts"}
+{"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"design/interface/system/theme-bridge/theme-bridge.stylesheet.ts"}
+{"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"design/interface/system/token-values/token-values.stylesheet.ts"}
 {"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"product/archive-of-worlds/web/look/archive-of-worlds-web-look.stylesheet.ts"}
 {"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"product/audhdalan/web/look/audhdalan-web-look.stylesheet.ts"}
 {"propertySlug":"import","fileName":"stylesheet.page-type.types.ts","path":"product/smilingjenny/web/look/smilingjenny-web-look.stylesheet.ts"}

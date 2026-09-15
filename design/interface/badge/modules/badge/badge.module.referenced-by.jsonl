@@ -10,11 +10,11 @@
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/badge/modules/number-badge/number-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/badge/modules/time-badge/time-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/badge/modules/url-badge/url-badge.module.code.tsx"}
-{"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/design-interfaces-system/modules/components-core-panels/components-core-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/design-interfaces-system/modules/components-item-display-panels/components-item-display-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/design-interfaces-system/modules/components-sort-filter-panels/components-sort-filter-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/design-interfaces-system/modules/patterns-visual-panels/patterns-visual-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/pattern/modules/collapsible-group-section/collapsible-group-section.module.code.tsx"}
+{"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/system/modules/components-core-panels/components-core-panels.module.code.tsx"}
+{"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/system/modules/components-item-display-panels/components-item-display-panels.module.code.tsx"}
+{"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/system/modules/components-sort-filter-panels/components-sort-filter-panels.module.code.tsx"}
+{"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/system/modules/patterns-visual-panels/patterns-visual-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"page/calendar-date-property/calendar-date-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"page/calendar-time-property/calendar-time-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"page/instant-property/instant-property.page-type.property-badge-component.code.tsx"}

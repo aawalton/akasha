@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"design/interface/design-interfaces-system/modules/layout-tab/layout-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"design/interface/layout/modules/page-layout/page-layout.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"design/interface/system/modules/layout-tab/layout-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"page/ui/component/modules/editable-title/editable-title.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"page/ui/component/modules/page-default-content/page-default-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"temper/web/modules/character-editor-header/character-editor-header.module.code.tsx"}

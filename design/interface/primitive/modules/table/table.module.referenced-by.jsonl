@@ -1,10 +1,10 @@
-{"propertySlug":"import","fileName":"table.module.code.tsx","path":"design/interface/design-interfaces-system/modules/components-overlay-panels/components-overlay-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"table.module.code.tsx","path":"design/interface/design-interfaces-system/modules/layout-tab/layout-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"table.module.code.tsx","path":"design/interface/design-interfaces-system/modules/patterns-ux-layout-panels/patterns-ux-layout-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"table.module.code.tsx","path":"design/interface/design-interfaces-system/modules/patterns-ux-panels/patterns-ux-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"table.module.code.tsx","path":"design/interface/design-interfaces-system/modules/patterns-visual-panels/patterns-visual-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"table.module.code.tsx","path":"design/interface/design-interfaces-system/modules/personality-tone/personality-tone.module.code.tsx"}
-{"propertySlug":"import","fileName":"table.module.code.tsx","path":"design/interface/design-interfaces-system/modules/strategic-prism/strategic-prism.module.code.tsx"}
+{"propertySlug":"import","fileName":"table.module.code.tsx","path":"design/interface/system/modules/components-overlay-panels/components-overlay-panels.module.code.tsx"}
+{"propertySlug":"import","fileName":"table.module.code.tsx","path":"design/interface/system/modules/layout-tab/layout-tab.module.code.tsx"}
+{"propertySlug":"import","fileName":"table.module.code.tsx","path":"design/interface/system/modules/patterns-ux-layout-panels/patterns-ux-layout-panels.module.code.tsx"}
+{"propertySlug":"import","fileName":"table.module.code.tsx","path":"design/interface/system/modules/patterns-ux-panels/patterns-ux-panels.module.code.tsx"}
+{"propertySlug":"import","fileName":"table.module.code.tsx","path":"design/interface/system/modules/patterns-visual-panels/patterns-visual-panels.module.code.tsx"}
+{"propertySlug":"import","fileName":"table.module.code.tsx","path":"design/interface/system/modules/personality-tone/personality-tone.module.code.tsx"}
+{"propertySlug":"import","fileName":"table.module.code.tsx","path":"design/interface/system/modules/strategic-prism/strategic-prism.module.code.tsx"}
 {"propertySlug":"import","fileName":"table.module.code.tsx","path":"page/page.page-type.page-row-component.code.tsx"}
 {"propertySlug":"import","fileName":"table.module.code.tsx","path":"page/ui/component/modules/page-table-header/page-table-header.module.code.tsx"}
 {"propertySlug":"import","fileName":"table.module.code.tsx","path":"page/ui/component/modules/page-table/page-table.module.code.tsx"}
