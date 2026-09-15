@@ -341,6 +341,7 @@
 {"propertySlug":"invariant-kind","path":"page/index/modules/package-reaching/package-reaching.module.ts","id":"01a05ae4-fc70-7001-89b1-ea70915be49e"}
 {"propertySlug":"invariant-kind","path":"page/index/modules/path-claiming/path-claiming.module.ts","id":"01a08205-e6f0-73c3-9c32-f05a518dd3f3"}
 {"propertySlug":"invariant-kind","path":"page/index/modules/property-carrying/property-carrying.module.ts","id":"01a058d4-6546-7f65-8b92-9271477f905f"}
+{"propertySlug":"invariant-kind","path":"page/index/modules/quote-holding/quote-holding.module.ts","id":"01a0a582-6d44-7000-9ebd-3e0bec1aaca3"}
 {"propertySlug":"invariant-kind","path":"page/index/modules/settling/index-settling.module.ts","id":"01a08c06-6aac-7a7a-be73-529b101223b1"}
 {"propertySlug":"invariant-kind","path":"page/index/properties/index-tracked.boolean-property.ts","id":"01a09b79-526b-785f-9360-742045f67544"}
 {"propertySlug":"invariant-kind","path":"page/modules/entry-landing/page-entry-landing.module.ts","id":"01a062a1-8add-7a0c-ad1f-760fd4c73c13"}

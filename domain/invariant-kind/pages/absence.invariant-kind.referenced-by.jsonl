@@ -1419,6 +1419,7 @@
 {"propertySlug":"invariant-kind","path":"page/index/modules/path-naming/path-naming.module.ts","id":"01a06310-8e44-7798-ae4b-af7b4b182be8"}
 {"propertySlug":"invariant-kind","path":"page/index/modules/property-carrying/property-carrying.module.ts","id":"01a058d4-6546-7f65-8b92-9271477f905f"}
 {"propertySlug":"invariant-kind","path":"page/index/modules/property-shaping/property-shaping.module.ts","id":"01a091e7-e2ef-7749-b938-fe724b6673e5"}
+{"propertySlug":"invariant-kind","path":"page/index/modules/quote-holding/quote-holding.module.ts","id":"01a0a582-6d44-7000-9ebd-3e0bec1aaca3"}
 {"propertySlug":"invariant-kind","path":"page/index/modules/reading/index-reading.module.ts","id":"01a04bdd-596c-7b76-9978-92ebfa6a20e4"}
 {"propertySlug":"invariant-kind","path":"page/index/modules/settling/index-settling.module.ts","id":"01a08c06-6aac-7a7a-be73-529b101223b1"}
 {"propertySlug":"invariant-kind","path":"page/index/modules/shape/index-shape.module.ts","id":"01a05867-bb6d-7a3e-875e-b5a55432fb00"}

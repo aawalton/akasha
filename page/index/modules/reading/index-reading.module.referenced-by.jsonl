@@ -374,6 +374,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/index/modules/package-reaching/package-reaching.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/index/modules/property-carrying/property-carrying.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/index/modules/property-shaping/property-shaping.module.test.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/index/modules/quote-holding/quote-holding.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/index/modules/reading/index-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/modules/shadow/shadow.module.test.ts"}

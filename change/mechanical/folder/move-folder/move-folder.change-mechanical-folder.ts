@@ -74,6 +74,14 @@ export const moveFolder = {
       statement: "A body that would not read names no folder here.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement: "A body holding words kept as they were said names no folder here.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Which bodies those are is answered by the property whose file each body is.",
+    },
+    {
       invariantKind: "invariant-kind/absence",
       statement:
         "No importer is asked of the index, because a body naming a path names the folder.",

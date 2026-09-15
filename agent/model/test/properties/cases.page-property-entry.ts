@@ -6,6 +6,7 @@ export const cases = {
   slug: "cases",
   propertySlug: "cases",
   definition: "the labelled texts a prompt is judged by",
+  quoted: true,
   properties: [
     { pageProperty: "text-property/case-page", required: true, many: false },
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },

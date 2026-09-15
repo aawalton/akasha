@@ -33,6 +33,7 @@ export const index = {
     "module/property-carrying",
     "module/property-file",
     "module/property-shaping",
+    "module/quote-holding",
     "module/reaching",
     "module/tree-reading",
     "test-fixture/fixture-world",

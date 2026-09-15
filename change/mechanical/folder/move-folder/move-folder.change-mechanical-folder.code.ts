@@ -11,6 +11,8 @@ import {
   namesFor,
   spellersIn,
 } from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
+import { facingOn } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
+import { quotedIn } from "akasha/page/index/modules/quote-holding/quote-holding.module.code.ts"
 import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const OUTSIDE = ".."
@@ -66,7 +68,9 @@ function namingFolder(
     const held = cause instanceof Error ? cause.message : String(cause)
     return `${held}, so no folder was carried`
   }
-  return spellersIn(found, searchable(world), folder, known)
+  const facing = facingOn(world.root)
+  const said = found.filter((path) => !quotedIn(facing, path))
+  return spellersIn(said, searchable(world), folder, known)
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {

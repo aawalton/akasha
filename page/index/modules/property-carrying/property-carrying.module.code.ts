@@ -333,10 +333,11 @@ function sectionKey(pageTypeSlug: string, propertySlug: string): string {
 export function slugsWhere(
   given: Kinded,
   wanted: (value: Value) => boolean,
-  carriedBy: (named: string) => Carried
+  carriedBy: (named: string) => Carried,
+  under: string = FILE_PROPERTY
 ): ReadonlySet<string> {
   const made = new Set<string>()
-  for (const kind of given.kindsUnder(FILE_PROPERTY)) {
+  for (const kind of given.kindsUnder(under)) {
     for (const listed of given.everyOfType(kind)) {
       const value = given.valueAt(listed.path)
       if (value === null || !wanted(value)) continue

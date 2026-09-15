@@ -2051,6 +2051,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/property-carrying/property-carrying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/property-file/property-file.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/property-shaping/property-shaping.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/quote-holding/quote-holding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/reaching/reaching.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/reading/index-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/settling/index-settling.module.ts"}
