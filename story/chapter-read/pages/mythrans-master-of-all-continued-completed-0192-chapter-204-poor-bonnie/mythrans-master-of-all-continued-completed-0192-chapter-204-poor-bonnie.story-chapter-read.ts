@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0192Chapter204PoorBonnie = {
   id: "01a0672c-ebc3-7000-86ea-e7828f482f9a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0192-chapter-204-poor-bonnie",
   title: "Chapter 204 - Poor Bonnie",
   story: "story-read/mythrans-master-of-all-continued-completed",

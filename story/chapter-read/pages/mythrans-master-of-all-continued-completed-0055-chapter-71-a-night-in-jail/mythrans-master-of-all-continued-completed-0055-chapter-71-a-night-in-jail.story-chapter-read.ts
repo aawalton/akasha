@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0055Chapter71ANightInJail = {
   id: "01a06591-3f85-7368-bff2-fede280ca64e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0055-chapter-71-a-night-in-jail",
   title: "Chapter 71 - A Night In Jail",
   story: "story-read/mythrans-master-of-all-continued-completed",

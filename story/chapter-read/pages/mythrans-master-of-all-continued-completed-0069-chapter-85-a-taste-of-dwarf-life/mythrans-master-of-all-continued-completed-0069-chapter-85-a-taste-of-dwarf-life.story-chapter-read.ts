@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0069Chapter85ATasteOfDwarfLife = {
   id: "01a0672c-eb1e-7000-af43-950b2e0f22e5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0069-chapter-85-a-taste-of-dwarf-life",
   title: "Chapter 85 - A Taste Of Dwarf Life",
   story: "story-read/mythrans-master-of-all-continued-completed",

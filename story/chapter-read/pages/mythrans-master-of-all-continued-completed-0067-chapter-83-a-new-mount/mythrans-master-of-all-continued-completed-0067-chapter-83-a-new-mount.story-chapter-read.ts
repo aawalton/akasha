@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0067Chapter83ANewMount = {
   id: "01a0672c-eb1a-7001-a6dc-d21f281e0623",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0067-chapter-83-a-new-mount",
   title: "Chapter 83 - A New Mount",
   story: "story-read/mythrans-master-of-all-continued-completed",

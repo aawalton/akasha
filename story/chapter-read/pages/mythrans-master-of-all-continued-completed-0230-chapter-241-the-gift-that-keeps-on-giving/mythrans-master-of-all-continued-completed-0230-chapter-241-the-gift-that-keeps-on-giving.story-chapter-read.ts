@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0230Chapter241TheGiftThatKeepsOnGiving = {
   id: "01a0672c-ebeb-7000-87be-e3d072e94e34",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0230-chapter-241-the-gift-that-keeps-on-giving",
   title: "Chapter 241 - The Gift That Keeps On Giving",
   story: "story-read/mythrans-master-of-all-continued-completed",

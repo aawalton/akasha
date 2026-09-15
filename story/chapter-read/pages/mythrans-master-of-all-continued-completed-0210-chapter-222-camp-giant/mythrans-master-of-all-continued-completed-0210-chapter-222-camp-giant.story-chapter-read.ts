@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0210Chapter222CampGiant = {
   id: "01a0672c-ebd7-7000-a037-6a405105a429",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0210-chapter-222-camp-giant",
   title: "Chapter 222 - Camp Giant",
   story: "story-read/mythrans-master-of-all-continued-completed",

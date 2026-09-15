@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0111Chapter126ALittleTooMuch = {
   id: "01a0672c-eb58-7000-939f-473eeb2b1c04",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0111-chapter-126-a-little-too-much",
   title: "Chapter 126 - A Little Too Much",
   story: "story-read/mythrans-master-of-all-continued-completed",

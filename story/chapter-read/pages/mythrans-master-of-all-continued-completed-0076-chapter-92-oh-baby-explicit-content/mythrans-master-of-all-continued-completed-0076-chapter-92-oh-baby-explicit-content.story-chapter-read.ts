@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0076Chapter92OhBabyExplicitContent = {
   id: "01a0672c-eb25-7001-bbce-5873c509fa64",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0076-chapter-92-oh-baby-explicit-content",
   title: "Chapter 92 - Oh, Baby! (Explicit Content)",
   story: "story-read/mythrans-master-of-all-continued-completed",

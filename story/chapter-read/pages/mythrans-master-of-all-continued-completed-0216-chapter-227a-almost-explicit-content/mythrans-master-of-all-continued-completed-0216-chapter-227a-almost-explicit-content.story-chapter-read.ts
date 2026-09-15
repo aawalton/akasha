@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0216Chapter227aAlmostExplicitContent = {
   id: "01a0672c-ebdc-7000-a77b-d752f3e0bdb5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0216-chapter-227a-almost-explicit-content",
   title: "Chapter 227A - Almost (Explicit Content)",
   story: "story-read/mythrans-master-of-all-continued-completed",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0090Chapter106AGoodDiscovery = {
   id: "01a0672c-eb38-7001-8a4d-e8258e679ea3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0090-chapter-106-a-good-discovery",
   title: "Chapter 106 - A Good Discovery",
   story: "story-read/mythrans-master-of-all-continued-completed",

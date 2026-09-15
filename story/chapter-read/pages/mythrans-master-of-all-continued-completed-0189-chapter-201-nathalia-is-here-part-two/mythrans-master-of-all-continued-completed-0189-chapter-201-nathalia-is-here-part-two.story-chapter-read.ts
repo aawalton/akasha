@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0189Chapter201NathaliaIsHerePartTwo = {
   id: "01a0672c-ebbf-7000-9b72-dfb0fce4f2f8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0189-chapter-201-nathalia-is-here-part-two",
   title: "Chapter 201 - Nathalia Is Here, Part Two",
   story: "story-read/mythrans-master-of-all-continued-completed",

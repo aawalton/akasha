@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0102Chapter117ATheCondomSomeExplicitContent = {
   id: "01a0672c-eb4a-7000-8091-6eaecb581fb9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0102-chapter-117-a-the-condom-some-explicit-content",
   title: "Chapter 117 A - The Condom (Some Explicit Content)",
   story: "story-read/mythrans-master-of-all-continued-completed",

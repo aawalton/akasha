@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0203Chapter215ThePitTrap = {
   id: "01a0672c-ebd0-7000-aa30-ed19c50c04b9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0203-chapter-215-the-pit-trap",
   title: "Chapter 215 - The Pit Trap",
   story: "story-read/mythrans-master-of-all-continued-completed",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0209Chapter221OutOfProportions = {
   id: "01a0672c-ebd6-7000-8eec-54cb84612d97",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0209-chapter-221-out-of-proportions",
   title: "Chapter 221 - Out Of Proportions",
   story: "story-read/mythrans-master-of-all-continued-completed",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0056Chapter72SweetFreedom = {
   id: "01a06591-3f85-7f9c-98a4-9e0dd2317f9f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0056-chapter-72-sweet-freedom",
   title: "Chapter 72 - Sweet Freedom",
   story: "story-read/mythrans-master-of-all-continued-completed",

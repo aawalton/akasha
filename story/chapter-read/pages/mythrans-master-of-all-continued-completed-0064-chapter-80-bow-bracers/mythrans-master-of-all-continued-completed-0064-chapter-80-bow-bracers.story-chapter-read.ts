@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0064Chapter80BowBracers = {
   id: "01a0672c-eb17-7000-8f29-aa960daf71b9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0064-chapter-80-bow-bracers",
   title: "Chapter 80 - Bow Bracers",
   story: "story-read/mythrans-master-of-all-continued-completed",

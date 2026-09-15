@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0232Chapter243TimeAway = {
   id: "01a0672c-ebec-7000-969d-ddfebf0b83ec",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0232-chapter-243-time-away",
   title: "Chapter 243 - Time Away",
   story: "story-read/mythrans-master-of-all-continued-completed",
