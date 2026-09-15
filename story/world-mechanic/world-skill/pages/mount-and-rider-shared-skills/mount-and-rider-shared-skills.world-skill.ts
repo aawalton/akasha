@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const mountAndRiderSharedSkills = {
   id: "01a0657d-026f-7643-9add-6595a17af5ed",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mount-and-rider-shared-skills",
   title: "Mount and Rider: Shared Skills",
   world: "world/the-wandering-inn",

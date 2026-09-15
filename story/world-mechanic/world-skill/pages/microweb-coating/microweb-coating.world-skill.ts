@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const microwebCoating = {
   id: "01a0657d-024d-73f9-bb28-b0f42a1c97c7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "microweb-coating",
   title: "Microweb Coating",
   world: "world/the-wandering-inn",

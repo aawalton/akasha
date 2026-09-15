@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const massRevision = {
   id: "01a0657d-024b-790a-aa33-d59fdd732337",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mass-revision",
   title: "Mass Revision",
   world: "world/the-wandering-inn",

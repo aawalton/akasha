@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const magnifiedTraining = {
   id: "01a0657d-0242-7d12-9215-8185158f4fe6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "magnified-training",
   title: "Magnified Training",
   world: "world/the-wandering-inn",

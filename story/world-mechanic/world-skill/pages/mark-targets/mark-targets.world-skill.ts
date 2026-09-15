@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const markTargets = {
   id: "01a0657d-024b-715a-ac36-448d33e32704",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mark-targets",
   title: "Mark Targets",
   world: "world/the-wandering-inn",

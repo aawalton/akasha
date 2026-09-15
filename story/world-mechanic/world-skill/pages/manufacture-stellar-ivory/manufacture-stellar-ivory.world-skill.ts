@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const manufactureStellarIvory = {
   id: "01a0657d-0242-7bd5-8454-b2e377003a3c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "manufacture-stellar-ivory",
   title: "Manufacture Stellar Ivory",
   world: "world/the-wandering-inn",

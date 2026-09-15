@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const misdirectThoughts = {
   id: "01a0657d-026f-7f8b-9e35-d37e6763cdb2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "misdirect-thoughts",
   title: "Misdirect Thoughts",
   world: "world/the-wandering-inn",

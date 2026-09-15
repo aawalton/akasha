@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const memoFightipilota = {
   id: "01a0657d-024c-77ae-b2e4-4122a7a496e1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "memo-fightipilota",
   title: "Memo: Fightipilota",
   world: "world/the-wandering-inn",

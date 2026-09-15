@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const mightMakesRight = {
   id: "01a0657d-024d-7240-8ccb-756ac3869b23",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "might-makes-right",
   title: "Might Makes Right",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const mightOfTheHomeland = {
   id: "01a0657d-024d-76e3-af23-29ab260a5a97",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "might-of-the-homeland",
   title: "Might of the Homeland",
   world: "world/the-wandering-inn",

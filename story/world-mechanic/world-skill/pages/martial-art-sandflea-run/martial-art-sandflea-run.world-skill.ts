@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const martialArtSandfleaRun = {
   id: "01a0657d-024b-7ad9-bd68-cfb5f6eb0a06",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "martial-art-sandflea-run",
   title: "Martial Art: Sandflea Run",
   world: "world/the-wandering-inn",

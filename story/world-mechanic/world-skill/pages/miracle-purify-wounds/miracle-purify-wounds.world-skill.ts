@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const miraclePurifyWounds = {
   id: "01a0657d-026d-7616-994c-41a778535092",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "miracle-purify-wounds",
   title: "Miracle: Purify Wounds",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const memorizePerformance = {
   id: "01a0657d-024c-79c8-a8df-420edf66dfbe",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "memorize-performance",
   title: "Memorize Performance",
   world: "world/the-wandering-inn",

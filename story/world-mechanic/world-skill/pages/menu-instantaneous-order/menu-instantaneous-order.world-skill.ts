@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const menuInstantaneousOrder = {
   id: "01a0657d-024c-743e-9d28-1f6c50dd8608",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "menu-instantaneous-order",
   title: "Menu: Instantaneous Order",
   world: "world/the-wandering-inn",

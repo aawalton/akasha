@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const minorSafetyTalisman = {
   id: "01a0657d-024d-7f7d-8c21-e9e1841365f0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "minor-safety-talisman",
   title: "Minor Safety Talisman",
   world: "world/the-wandering-inn",

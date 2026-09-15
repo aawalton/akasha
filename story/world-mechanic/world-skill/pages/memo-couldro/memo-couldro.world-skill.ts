@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const memoCouldro = {
   id: "01a0657d-024c-7ef7-8944-f0496bf3dfdb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "memo-couldro",
   title: "Memo: Couldro",
   world: "world/the-wandering-inn",

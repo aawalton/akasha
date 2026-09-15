@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const minotaurPunch = {
   id: "01a0657d-024d-7bf0-96f1-c9ec0f602e19",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "minotaur-punch",
   title: "Minotaur Punch",
   world: "world/the-wandering-inn",

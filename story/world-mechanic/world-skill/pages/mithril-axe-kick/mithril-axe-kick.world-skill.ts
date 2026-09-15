@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const mithrilAxeKick = {
   id: "01a0657d-026f-707f-8755-29051a1469b3",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mithril-axe-kick",
   title: "Mithril Axe Kick",
   world: "world/the-wandering-inn",

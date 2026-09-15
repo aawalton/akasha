@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const mutualBet = {
   id: "01a0657d-0270-7bf2-a4ff-cd0ba07bc1ee",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mutual-bet",
   title: "Mutual Bet",
   world: "world/the-wandering-inn",

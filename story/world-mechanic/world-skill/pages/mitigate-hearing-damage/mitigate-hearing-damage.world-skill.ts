@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const mitigateHearingDamage = {
   id: "01a0657d-026f-7e26-b312-f5b9417348c0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mitigate-hearing-damage",
   title: "Mitigate Hearing Damage",
   world: "world/the-wandering-inn",

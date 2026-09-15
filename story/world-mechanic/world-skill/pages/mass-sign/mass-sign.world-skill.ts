@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const massSign = {
   id: "01a0657d-024b-7619-9a50-bc758541b1dd",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mass-sign",
   title: "Mass Sign",
   world: "world/the-wandering-inn",

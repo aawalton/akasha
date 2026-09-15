@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const masterAllowMe = {
   id: "01a0657d-024b-79d9-9dbd-7c87f3d41c7a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "master-allow-me",
   title: "Master, Allow Me",
   world: "world/the-wandering-inn",

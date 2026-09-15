@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const moraleSergeant = {
   id: "01a0657d-026f-7046-8e5d-2819be047939",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "morale-sergeant",
   title: "Morale Sergeant",
   world: "world/the-wandering-inn",

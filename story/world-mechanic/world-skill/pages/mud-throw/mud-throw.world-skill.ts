@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const mudThrow = {
   id: "01a0657d-0270-7057-be9c-38ad61bad43c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mud-throw",
   title: "Mud Throw",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const minorResistanceSpirits = {
   id: "01a0657d-024d-7e3d-bf9c-c5dfe5349c9d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "minor-resistance-spirits",
   title: "Minor Resistance: Spirits",
   world: "world/the-wandering-inn",

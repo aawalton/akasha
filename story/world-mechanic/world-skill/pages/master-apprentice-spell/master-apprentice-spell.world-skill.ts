@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const masterApprenticeSpell = {
   id: "01a0657d-024b-705e-8b6b-7c8795797ebe",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "master-apprentice-spell",
   title: "Master-Apprentice Spell",
   world: "world/the-wandering-inn",

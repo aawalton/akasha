@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const momentOfStrength = {
   id: "01a0657d-026f-79af-acf9-18a0d2acc8b9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "moment-of-strength",
   title: "Moment of Strength",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const marrowstrike = {
   id: "01a0657d-024b-7a2d-a110-f2e223b71105",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "marrowstrike",
   title: "Marrowstrike",
   world: "world/the-wandering-inn",

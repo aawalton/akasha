@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const measureOfValor = {
   id: "01a0657d-024c-716c-a36b-5331b98f89a4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "measure-of-valor",
   title: "Measure of Valor",
   world: "world/the-wandering-inn",

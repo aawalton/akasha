@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const massSilentSickle = {
   id: "01a0657d-024b-7d9a-a693-3baf822d4cbf",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mass-silent-sickle",
   title: "Mass Silent Sickle",
   world: "world/the-wandering-inn",

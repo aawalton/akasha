@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const massPrayer = {
   id: "01a0657d-024b-7fcf-8c78-a5f7b94a9f25",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mass-prayer",
   title: "Mass Prayer",
   world: "world/the-wandering-inn",

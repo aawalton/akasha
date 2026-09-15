@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const mutualConditionDepravedIntellect = {
   id: "01a0657d-0270-7bec-9653-bf319e7fd4b9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mutual-condition-depraved-intellect",
   title: "Mutual Condition: Depraved Intellect",
   world: "world/the-wandering-inn",

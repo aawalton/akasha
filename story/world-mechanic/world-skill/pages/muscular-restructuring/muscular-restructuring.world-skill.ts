@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const muscularRestructuring = {
   id: "01a0657d-0270-7848-b483-3570598ea9fe",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "muscular-restructuring",
   title: "Muscular Restructuring",
   world: "world/the-wandering-inn",

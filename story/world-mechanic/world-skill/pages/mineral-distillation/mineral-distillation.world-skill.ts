@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const mineralDistillation = {
   id: "01a0657d-024d-742c-86b2-a38d11d68b61",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mineral-distillation",
   title: "Mineral Distillation",
   world: "world/the-wandering-inn",

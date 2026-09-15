@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const manipulateDatastreams = {
   id: "01a0657d-0242-77c0-be6d-597db0461358",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "manipulate-datastreams",
   title: "Manipulate Datastreams",
   world: "world/the-wandering-inn",

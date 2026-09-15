@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const marchOfTheInvincible = {
   id: "01a0657d-0243-7782-a4dd-3f83bf9cd50c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "march-of-the-invincible",
   title: "March of the Invincible",
   world: "world/the-wandering-inn",

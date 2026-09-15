@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const miracleReturnVengeanceToThee = {
   id: "01a0657d-026d-70e4-ae8e-7eaf1b7fbd5c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "miracle-return-vengeance-to-thee",
   title: "Miracle: Return Vengeance to Thee",
   world: "world/the-wandering-inn",

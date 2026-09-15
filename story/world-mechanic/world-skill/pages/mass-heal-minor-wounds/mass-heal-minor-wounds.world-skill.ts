@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const massHealMinorWounds = {
   id: "01a0657d-024b-769a-bbbc-c807dba34bd3",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mass-heal-minor-wounds",
   title: "Mass Heal Minor Wounds",
   world: "world/the-wandering-inn",

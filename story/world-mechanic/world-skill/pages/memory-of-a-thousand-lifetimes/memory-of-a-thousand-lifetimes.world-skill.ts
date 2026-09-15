@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const memoryOfAThousandLifetimes = {
   id: "01a0657d-024c-7cd8-b7d7-1dcb883d8b50",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "memory-of-a-thousand-lifetimes",
   title: "Memory of a Thousand Lifetimes",
   world: "world/the-wandering-inn",

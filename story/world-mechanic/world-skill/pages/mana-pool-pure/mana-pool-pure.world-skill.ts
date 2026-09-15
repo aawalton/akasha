@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const manaPoolPure = {
   id: "01a0657d-0242-76e5-9a77-2bdfa3416c30",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mana-pool-pure",
   title: "Mana Pool (Pure)",
   world: "world/the-wandering-inn",

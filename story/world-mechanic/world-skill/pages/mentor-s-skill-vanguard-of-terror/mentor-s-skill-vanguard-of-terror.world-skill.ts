@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const mentorSSkillVanguardOfTerror = {
   id: "01a0657d-024c-77fd-9faa-86aff2be66a0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mentor-s-skill-vanguard-of-terror",
   title: "Mentor’s Skill – Vanguard of Terror",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const miracleWitnessItTwice = {
   id: "01a0657d-026f-7d24-9b15-bcc78bce6bd6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "miracle-witness-it-twice",
   title: "Miracle: Witness It, Twice",
   world: "world/the-wandering-inn",

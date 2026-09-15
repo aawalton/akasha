@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const mentalCanvas = {
   id: "01a0657d-024c-7fbd-98a5-31c9f65c8435",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "mental-canvas",
   title: "Mental Canvas",
   world: "world/the-wandering-inn",

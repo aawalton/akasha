@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const magicalSpecializationSand = {
   id: "01a0657d-0242-76a3-b7c3-f15ae8bef86f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "magical-specialization-sand",
   title: "Magical Specialization: Sand",
   world: "world/the-wandering-inn",
