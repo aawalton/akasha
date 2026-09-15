@@ -95,7 +95,6 @@ const REMOVE_PAGE: Loaded = {
     given = said as Readonly<Record<string, string>>
     return running(world, REMOVE_PAGE_ADDRESS, said)
   },
-  guards: [],
 }
 
 const REMOVE_PAGE_AT = "akasha/changes/remove-page.change-agent.ts"
@@ -260,7 +259,6 @@ export function drafting(root: string, at: string): Promise<Answer> {
 
 const ANSWERS_NOTHING: Loading = async () => ({
   run: () => ({ edits: [], refused: null }),
-  guards: [],
 })
 
 export async function answeringNothing(root: string, at: string): Promise<Answer> {

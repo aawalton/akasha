@@ -1,17 +1,12 @@
 import { gathered } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { bodyIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
-import { guardedBy } from "akasha/change/modules/guarding/change-guarding.module.code.ts"
 import {
   ledgerAt,
   reach,
   type World,
-  worldBefore,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import {
-  guardsOver,
-  runAt,
-} from "akasha/change/runner/modules/change-loading/change-loading.module.code.ts"
+import { runAt } from "akasha/change/runner/modules/change-loading/change-loading.module.code.ts"
 import type { Changes } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
 import { DATA, INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { type Applied, applied } from "akasha/command/modules/applying/applying.module.code.ts"
@@ -40,7 +35,6 @@ export type Asking = {
 }[keyof Changes]
 
 export async function foldedOver(world: World, asked: readonly Asking[]): Promise<Answer> {
-  const before = worldBefore(world)
   const answers: Answer[] = []
   let seen = world
   for (const one of asked) {
@@ -49,9 +43,7 @@ export async function foldedOver(world: World, asked: readonly Asking[]): Promis
     answers.push(reached.said)
     seen = reached.world
   }
-  const said = gathered(answers)
-  if (said.refused !== null) return said
-  return guardedBy(seen, said, guardsOver(world, []), before)
+  return gathered(answers)
 }
 
 export type Writing = {

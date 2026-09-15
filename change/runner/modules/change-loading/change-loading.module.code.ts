@@ -2,13 +2,7 @@ import { join } from "node:path"
 import { refusing, untaken } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer, Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { dropped } from "akasha/change/modules/edits-dropping/edits-dropping.module.code.ts"
-import { guardedBy } from "akasha/change/modules/guarding/change-guarding.module.code.ts"
-import type { Guard } from "akasha/change/modules/guarding/change-guarding.module.types.ts"
-import {
-  facingHeld,
-  type World,
-  worldBefore,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { facingHeld, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { kindOf } from "akasha/change/modules/target-kinding/target-kinding.module.code.ts"
 import {
   narrows,
@@ -19,9 +13,7 @@ import { stringsIn } from "akasha/util/narrow/modules/strings-in/strings-in.modu
 
 const CODE = "code"
 const TS = "ts"
-const GUARDS = "guards"
 const RUN_CHANGE = "runChange"
-const RUN_GUARD = "runGuard"
 const TAKES = "takes"
 const SUBTYPE = "changeTargetSubtype"
 const FILE = "file"
@@ -58,32 +50,8 @@ function namingNoPage(address: string): string {
   return `\`${address}\` names no page here, so no code is there to load`
 }
 
-function guardsNamedIn(world: World, address: string): readonly string[] {
-  const parts = partsOf(address)
-  if (parts === null) return []
-  const value = world.index.pageAt(parts[0], parts[1])
-  if (value === null) return []
-  const named = value[GUARDS]
-  return Array.isArray(named) ? named.filter((one) => typeof one === "string") : []
-}
-
-async function guardsIn(world: World, address: string): Promise<readonly Guard[] | string> {
-  const found: Guard[] = []
-  for (const slug of guardsNamedIn(world, address)) {
-    const path = codeAt(world, slug)
-    if (path === null) return namingNoPage(slug)
-    const held = await exportedFrom(world, path, RUN_GUARD)
-    if (typeof held !== "function") {
-      return `\`${slug}\` names no guard exporting \`${RUN_GUARD}\`, so the change is not run`
-    }
-    found.push(held as Guard)
-  }
-  return found
-}
-
 export type Loaded = {
   readonly run: (world: World, given: unknown) => Said | Promise<Said>
-  readonly guards: readonly Guard[]
   readonly takes?: readonly string[]
 }
 
@@ -99,31 +67,15 @@ export async function loadedAt(world: World, at: string): Promise<Loaded | strin
   if (typeof run !== "function") {
     return `\`${at}\` reaches no change exporting \`${RUN_CHANGE}\``
   }
-  const guards = await guardsIn(world, at)
-  if (typeof guards === "string") return guards
   const stated = await exportedFrom(world, path, TAKES)
   const takes = stated === null ? null : stringsIn(stated)
   const loaded: Loaded = {
     run: run as (over: World, asked: unknown) => Said | Promise<Said>,
-    guards,
     ...(takes === null ? {} : { takes }),
   }
   if (held === undefined) LOADED.set(world, new Map([[at, loaded]]))
   else held.set(at, loaded)
   return loaded
-}
-
-const REACHED = new WeakMap<World, Guard[]>()
-
-function reachedBy(world: World, guards: readonly Guard[]): undefined {
-  if (guards.length === 0) return undefined
-  const held = REACHED.get(world)
-  if (held === undefined) REACHED.set(world, [...guards])
-  else held.push(...guards)
-}
-
-export function guardsOver(world: World, guards: readonly Guard[]): readonly Guard[] {
-  return [...new Set([...guards, ...(REACHED.get(world) ?? [])])]
 }
 
 function untakenIn(given: unknown, takes: readonly string[] | undefined): string | null {
@@ -170,16 +122,13 @@ export async function ranBy(
   nested = false
 ): Promise<Answer> {
   if (nested) {
-    reachedBy(world, loaded.guards)
     return dropped(facingHeld(world), await loaded.run(world, given))
   }
   const untook = untakenIn(given, loaded.takes)
   if (untook !== null) return refusing(untook)
-  const before = worldBefore(world)
   const ran = await loaded.run(world, given)
   if (ran.refused !== null) return ran
-  const said = dropped(facingHeld(world), ran)
-  return guardedBy(world, said, guardsOver(world, loaded.guards), before)
+  return dropped(facingHeld(world), ran)
 }
 
 function targetIn(given: unknown): string | null {

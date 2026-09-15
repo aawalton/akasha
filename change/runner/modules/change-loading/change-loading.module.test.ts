@@ -1,10 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
-import type { Guard } from "akasha/change/modules/guarding/change-guarding.module.types.ts"
 import {
-  addedTo,
-  isLedger,
   ledgerAt,
   NOTHING_OVER,
   type World,
@@ -21,7 +18,6 @@ import {
   targetRefusal,
 } from "akasha/change/runner/modules/change-loading/change-loading.module.code.ts"
 import {
-  HELD_PAGE,
   indexedRepo,
   scratch,
   textIn,
@@ -98,63 +94,21 @@ test("an address closing with a slash is no address", () => {
 })
 
 test("a change loaded is run over the world handed in and answers its own edits", async () => {
-  const said = await ranBy(worldOf(), { run: () => WROTE, guards: [] }, { at: AT })
+  const said = await ranBy(worldOf(), { run: () => WROTE }, { at: AT })
 
   expect(said).toEqual(WROTE)
 })
 
-test("a change whose run settles later is awaited before its guards run", async () => {
-  const said = await ranBy(worldOf(), { run: () => Promise.resolve(WROTE), guards: [] }, { at: AT })
+test("a change whose run settles later is awaited before its answer is given", async () => {
+  const said = await ranBy(worldOf(), { run: () => Promise.resolve(WROTE) }, { at: AT })
 
   expect(said).toEqual(WROTE)
 })
 
-test("a change that refuses runs no guard", async () => {
-  let ran = 0
-  const said = await ranBy(
-    worldOf(),
-    {
-      run: () => refusing("no"),
-      guards: [
-        () => {
-          ran += 1
-          return null
-        },
-      ],
-    },
-    {}
-  )
+test("a change that refuses answers that refusal", async () => {
+  const said = await ranBy(worldOf(), { run: () => refusing("no") }, {})
 
   expect(said.refused).toBe("no")
-  expect(ran).toBe(0)
-})
-
-const MOVED_PAGE = "akasha/six/held.module.ts"
-
-test("a guard is handed the world the change read before that change answered", async () => {
-  const root = indexedRepo()
-  const carried = moving(HELD_PAGE, MOVED_PAGE)
-  let read: unknown = null
-
-  const said = await ranBy(
-    ledgerAt(root, textIn(root)),
-    {
-      run: (world) => {
-        if (isLedger(world)) addedTo(world, carried)
-        return carried
-      },
-      guards: [
-        (given) => {
-          read = given.before.index.pageByPath(HELD_PAGE)
-          return null
-        },
-      ],
-    },
-    {}
-  )
-
-  expect(said.refused).toBe(null)
-  expect(read).not.toBeNull()
 })
 
 const SUBTYPES: Readonly<Record<string, string>> = {
@@ -314,98 +268,9 @@ test("a call handing in no path has no path judged", () => {
 
 const FRESH = "akasha/one/fresh.module.code.ts"
 
-const MENDED = "akasha/one/mended.module.code.ts"
-
 function adding(path: string): Answer {
   return stating([{ kind: "add", path, content: "held\n" }])
 }
-
-test("a guard the change reached inside names runs at the outermost change", async () => {
-  const root = indexedRepo()
-  const world = ledgerAt(root, textIn(root))
-  const ran: string[] = []
-  const inside = {
-    run: () => adding(FRESH),
-    guards: [
-      () => {
-        ran.push("guard")
-        return null
-      },
-    ],
-  }
-
-  const said = await ranBy(
-    world,
-    {
-      run: async () => {
-        const held = await ranBy(world, inside, {}, true)
-        ran.push("inside answered")
-        return held
-      },
-      guards: [],
-    },
-    {}
-  )
-
-  expect(said.refused).toBe(null)
-  expect(ran).toEqual(["inside answered", "guard"])
-})
-
-test("a guard reached at two rungs of one composition runs once", async () => {
-  const root = indexedRepo()
-  const world = ledgerAt(root, textIn(root))
-  let ran = 0
-  const inside = {
-    run: () => stating([]),
-    guards: [
-      () => {
-        ran += 1
-        return null
-      },
-    ],
-  }
-
-  const said = await ranBy(
-    world,
-    {
-      run: async () => {
-        await ranBy(world, inside, {}, true)
-        await ranBy(world, inside, {}, true)
-        return adding(FRESH)
-      },
-      guards: [],
-    },
-    {}
-  )
-
-  expect(said.refused).toBe(null)
-  expect(ran).toBe(1)
-})
-
-const HALFWAY = `\`${FRESH}\` landed and \`${MENDED}\` did not`
-
-test("a rung a guard would refuse alone is let through where the whole answer is mended", async () => {
-  const root = indexedRepo()
-  const mending: Guard = (given) =>
-    given.said.edits.some((one) => one.kind === "add" && one.path === MENDED) ? null : HALFWAY
-  const inside = { run: () => adding(FRESH), guards: [mending] }
-  const world = ledgerAt(root, textIn(root))
-
-  const said = await ranBy(
-    world,
-    {
-      run: async () => {
-        const held = await ranBy(world, inside, {}, true)
-        return stating([...held.edits, { kind: "add", path: MENDED, content: "held\n" }])
-      },
-      guards: [],
-    },
-    {}
-  )
-
-  expect(said.refused).toBe(null)
-  expect((await ranBy(ledgerAt(root, textIn(root)), inside, {})).refused).toBe(HALFWAY)
-})
 
 test("both spellings of the help flag are told apart from an argument", () => {
   expect(helpAsked("--help\n")).toBe(true)
@@ -451,7 +316,6 @@ test("a key the change does not take is refused before that change runs", async 
         ran += 1
         return WROTE
       },
-      guards: [],
       takes: ["at", "old", "new"],
     },
     { at: AT, pat: "one" }
@@ -464,17 +328,13 @@ test("a key the change does not take is refused before that change runs", async 
 })
 
 test("a key near no argument the change takes is refused with nothing pointed at", async () => {
-  const said = await ranBy(
-    worldOf(),
-    { run: () => WROTE, guards: [], takes: ["at"] },
-    { wherever: "one" }
-  )
+  const said = await ranBy(worldOf(), { run: () => WROTE, takes: ["at"] }, { wherever: "one" })
 
   expect(said.refused).toBe("`wherever` is no argument this change takes — it takes `at`.")
 })
 
 test("a change stating no arguments it takes has no key judged", async () => {
-  const said = await ranBy(worldOf(), { run: () => WROTE, guards: [] }, { at: AT, pat: "one" })
+  const said = await ranBy(worldOf(), { run: () => WROTE }, { at: AT, pat: "one" })
 
   expect(said).toEqual(WROTE)
 })
@@ -483,7 +343,7 @@ test("a change reached by another change has no key judged", async () => {
   const root = indexedRepo()
   const world = ledgerAt(root, textIn(root))
 
-  const said = await ranBy(world, { run: () => adding(FRESH), guards: [], takes: [] }, {}, true)
+  const said = await ranBy(world, { run: () => adding(FRESH), takes: [] }, {}, true)
 
   expect(said.refused).toBeNull()
 })
@@ -497,7 +357,6 @@ test("the arguments reach the change as the caller handed the arguments in", asy
         held = given
         return WROTE
       },
-      guards: [],
     },
     { at: AT, body: "one\ntwo\n" }
   )
