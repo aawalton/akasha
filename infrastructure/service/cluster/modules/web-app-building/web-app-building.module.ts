@@ -18,6 +18,10 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A plan naming no workload names nothing for a pod to build.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "The sha built is the sha the caller names.",
     },
     {

@@ -37,7 +37,7 @@ export interface Manifest {
 }
 
 export interface Plan {
-  readonly workload: Workload
+  readonly workload: Workload | null
   readonly synthPath: string
   readonly manifests: readonly Manifest[]
 }
@@ -89,7 +89,8 @@ export function generatedPathFor(synthPath: string, name: string): string {
   return join(dirname(synthPath), GENERATED, `${name}${GENERATED_SUFFIX}`)
 }
 
-export function carries(manifest: Manifest, workload: Workload): boolean {
+export function carries(manifest: Manifest, workload: Workload | null): boolean {
+  if (workload === null) return false
   return (
     manifest.kind === workload.kind &&
     manifest.resourceName === workload.name &&
@@ -97,14 +98,16 @@ export function carries(manifest: Manifest, workload: Workload): boolean {
   )
 }
 
-export function opensTheNamespace(manifest: Manifest, workload: Workload): boolean {
+export function opensTheNamespace(manifest: Manifest, workload: Workload | null): boolean {
+  if (workload === null) return false
   return manifest.kind === NAMESPACE_KIND && manifest.resourceName === workload.namespace
 }
 
 export function inApplyOrder(
   manifests: readonly Manifest[],
-  workload: Workload
+  workload: Workload | null
 ): readonly Manifest[] {
+  if (workload === null) return manifests
   const opening = manifests.filter((one) => opensTheNamespace(one, workload))
   const carrying = manifests.filter((one) => carries(one, workload))
   const between = manifests.filter((one) => !opening.includes(one) && !carrying.includes(one))
@@ -113,7 +116,7 @@ export function inApplyOrder(
 
 export async function planFor(
   root: string,
-  workload: Workload,
+  workload: Workload | null,
   synthPath: string
 ): Promise<Plan | string> {
   let emitted: unknown
@@ -145,7 +148,7 @@ export async function planFor(
       namespace: found.namespace,
     })
   }
-  if (!manifests.some((one) => carries(one, workload))) {
+  if (workload !== null && !manifests.some((one) => carries(one, workload))) {
     return `${synthPath} emits no ${workload.kind}/${workload.name} in namespace ${workload.namespace}, which is the workload the page names`
   }
   return { workload, synthPath, manifests: inApplyOrder(manifests, workload) }
@@ -169,7 +172,9 @@ export function unfilledOf(plan: Plan): readonly string[] {
 export type Matched = { readonly stands: boolean } | { readonly why: string }
 
 export function placedIn(plan: Plan, manifest: Manifest): readonly string[] {
-  return opensTheNamespace(manifest, plan.workload) ? [] : ["-n", plan.workload.namespace]
+  const workload = plan.workload
+  if (workload === null) return []
+  return opensTheNamespace(manifest, workload) ? [] : ["-n", workload.namespace]
 }
 
 export function appliedOf(plan: Plan, manifest: Manifest): Matched {
@@ -222,13 +227,15 @@ export function applyOf(plan: Plan, manifest: Manifest): readonly string[] {
 }
 
 export function rolloutOf(plan: Plan): readonly string[] | null {
-  if (!ROLLED_OUT.has(plan.workload.kind)) return null
+  const workload = plan.workload
+  if (workload === null) return null
+  if (!ROLLED_OUT.has(workload.kind)) return null
   return [
     "rollout",
     "status",
-    `${plan.workload.kind.toLowerCase()}/${plan.workload.name}`,
+    `${workload.kind.toLowerCase()}/${workload.name}`,
     "-n",
-    plan.workload.namespace,
+    workload.namespace,
     "--timeout",
     ROLLOUT_WAIT,
   ]

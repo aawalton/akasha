@@ -72,5 +72,21 @@ export const workloadDeploying = {
       statement:
         "Asking whether a manifest already matches reaches the namespace the apply reaches.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A plan may name no workload, so what is applied is the manifests alone.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Manifests planned under no workload keep the order the code emitted them in.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A plan naming no workload is placed by each manifest's own body.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A plan naming no workload is waited on by no rollout.",
+    },
   ],
 } as const satisfies Module

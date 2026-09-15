@@ -143,6 +143,36 @@ test("a workload carrying no pod template is waited on by nothing", () => {
   expect(rolloutOf(plan)).toBe(null)
 })
 
+test("a plan naming no workload is waited on by no rollout", () => {
+  const plan = { workload: null, synthPath: SYNTH_AT, manifests: [] }
+  expect(rolloutOf(plan)).toBe(null)
+})
+
+test("a manifest under no workload is applied where its own body places it", () => {
+  const plan = { workload: null, synthPath: SYNTH_AT, manifests: [manifest({})] }
+  expect(placedIn(plan, manifest({}))).toEqual([])
+})
+
+test("manifests under no workload keep the order the code emitted them in", () => {
+  const opening = manifest({ kind: "Namespace", resourceName: "one", namespace: null })
+  const between = manifest({ kind: "Service", resourceName: "web" })
+  const held = [between, opening, manifest({})]
+  expect(inApplyOrder(held, null)).toEqual(held)
+})
+
+test("a manifest carries no workload where there is none", () => {
+  expect(carries(manifest({}), null)).toBe(false)
+  expect(opensTheNamespace(manifest({ kind: "Namespace", resourceName: "one" }), null)).toBe(false)
+})
+
+test("code emitting no workload's resource answers a plan where no workload is named", async () => {
+  const plan = await planFor(WORLD.root, null, SYNTH_AT)
+  expect(typeof plan).not.toBe("string")
+  if (typeof plan === "string") return
+  expect(plan.workload).toBe(null)
+  expect(plan.manifests.map((one) => one.kind)).toEqual(["Service", "Deployment"])
+})
+
 test("code that will not load is refused rather than thrown", async () => {
   const said = await planFor(WORLD.root, WEB, "no/such/code.attachment.ts")
   expect(typeof said).toBe("string")
@@ -219,4 +249,11 @@ test("a put up handed nothing to come between applies every manifest", () => {
   const ran = putUp(PUT_UP_PLAN, undefined, watched(seen))
   expect(seen).toEqual(["namespace", "service", "deployment", "rollout"])
   expect(ran).toHaveLength(4)
+})
+
+test("a plan naming no workload applies every manifest and waits on nothing", () => {
+  const seen: string[] = []
+  const ran = putUp({ ...PUT_UP_PLAN, workload: null }, undefined, watched(seen))
+  expect(seen).toEqual(["namespace", "service", "deployment"])
+  expect(ran).toHaveLength(3)
 })

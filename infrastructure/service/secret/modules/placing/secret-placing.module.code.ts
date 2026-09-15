@@ -173,6 +173,8 @@ export interface Placing {
 export function placeSecrets(akasha: string, plan: Plan): Placing {
   const demands = demandedBy(plan)
   if (demands.length === 0) return { placed: [], unplaced: [], consulted: 0, ran: [] }
+  const workload = plan.workload
+  if (workload === null) return { placed: [], unplaced: demands, consulted: 0, ran: [] }
   const pages = secretPages(akasha)
   const at = placedAt(pages)
 
@@ -204,11 +206,11 @@ export function placeSecrets(akasha: string, plan: Plan): Placing {
     }
     ran.push(
       runKubectlOn(
-        ["apply", "--server-side", "--force-conflicts", "-n", plan.workload.namespace, "-f", "-"],
+        ["apply", "--server-side", "--force-conflicts", "-n", workload.namespace, "-f", "-"],
         stringify({
           apiVersion: "v1",
           kind: "Secret",
-          metadata: { name, namespace: plan.workload.namespace },
+          metadata: { name, namespace: workload.namespace },
           type: "Opaque",
           stringData: values,
         })

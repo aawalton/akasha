@@ -51,16 +51,18 @@ export interface BuildTarget {
 }
 
 export function buildTargetOf(plan: Plan): BuildTarget | null {
-  const carrying = plan.manifests.find((one) => carries(one, plan.workload))
+  const workload = plan.workload
+  if (workload === null) return null
+  const carrying = plan.manifests.find((one) => carries(one, workload))
   if (carrying === undefined) return null
   if (!SYNCS_CODE.test(carrying.yaml)) return null
   for (const found of carrying.yaml.matchAll(WORKING_DIR_AT)) {
     const at = found[1]
     if (at === undefined || !at.startsWith(`${REPO_PATH}/`)) continue
     return {
-      kind: plan.workload.kind,
-      namespace: plan.workload.namespace,
-      workload: plan.workload.name,
+      kind: workload.kind,
+      namespace: workload.namespace,
+      workload: workload.name,
       packagePath: at.slice(REPO_PATH.length + 1),
     }
   }

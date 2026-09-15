@@ -42,6 +42,10 @@ export const secretPlacing = {
       statement: "A manifest asking for a secret no page has is reported rather than passed over.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement: "A plan naming no workload names no namespace to place a secret in, so none is.",
+    },
+    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes a secret page.",
     },
