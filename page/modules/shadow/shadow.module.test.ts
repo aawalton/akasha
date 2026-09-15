@@ -4,7 +4,10 @@ import {
   everyValue,
   readingIn,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { everythingRead } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import {
+  everythingRead,
+  listedUnreadableFiled,
+} from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   bodyOf,
   idOf,
@@ -13,7 +16,7 @@ import {
   scratch as worldScratch,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { NOT_WORKED_OUT, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import {
   aChange,
   basedAside,
@@ -154,6 +157,15 @@ test("an audit leaves everything as it is, so nothing is worked out and no body 
   if ("refused" in cast) throw new Error(cast.refused)
   expect(asked).toBe(0)
   expect(everythingRead(cast.reading)).toEqual(everythingRead(readingIn(repo)))
+})
+
+test("an index line that will not read is refused rather than answered from the committed index", () => {
+  const repo = scratch.rootFor("akasha-broken-")
+  listedUnreadableFiled(repo, "page-type", "domain")
+  const cast = shadowFor(changeOver(repo, [aChange("b.domain.ts", { id: idOf("b") })]))
+  expect("refused" in cast).toBe(true)
+  expect("shadow" in cast).toBe(false)
+  if ("refused" in cast) expect(cast.refused).toContain(NOT_WORKED_OUT)
 })
 
 test("one change is one shadow, so a second check asking works nothing out again", () => {
