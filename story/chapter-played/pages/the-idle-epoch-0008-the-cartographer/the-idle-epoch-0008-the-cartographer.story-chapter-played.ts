@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const theIdleEpoch0008TheCartographer = {
   id: "01a064b4-9ec8-71be-aa92-b05f8d7d0433",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "the-idle-epoch-0008-the-cartographer",
   title: "The Cartographer",
   story: "story-played/the-idle-epoch",

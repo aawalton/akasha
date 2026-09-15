@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const dragonsAndDungeons0012TheWardenOfTheWell = {
   id: "01a064b4-9ec8-7532-9c9f-f3ea833620e4",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "dragons-and-dungeons-0012-the-warden-of-the-well",
   title: "The Warden of the Well",
   story: "story-played/dragons-and-dungeons",

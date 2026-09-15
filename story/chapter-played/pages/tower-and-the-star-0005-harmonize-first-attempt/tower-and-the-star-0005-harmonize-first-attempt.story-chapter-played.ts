@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const towerAndTheStar0005HarmonizeFirstAttempt = {
   id: "01a064b4-9ec8-7cb9-b11e-63ff8c7a4279",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "tower-and-the-star-0005-harmonize-first-attempt",
   title: "Harmonize (First Attempt)",
   story: "story-played/tower-and-the-star",

@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const towerAndTheStar0003SixKillsToTheBonus = {
   id: "01a064b4-9ec8-7a0a-91c5-1ce0302ed9f2",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "tower-and-the-star-0003-six-kills-to-the-bonus",
   title: "Six Kills to the Bonus",
   story: "story-played/tower-and-the-star",

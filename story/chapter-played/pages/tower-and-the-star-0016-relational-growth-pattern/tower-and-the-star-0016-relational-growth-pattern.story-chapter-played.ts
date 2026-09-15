@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const towerAndTheStar0016RelationalGrowthPattern = {
   id: "01a064b4-9ec8-7a36-ab2e-02f7a235041d",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "tower-and-the-star-0016-relational-growth-pattern",
   title: "Relational Growth Pattern",
   story: "story-played/tower-and-the-star",

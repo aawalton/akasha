@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const towerAndTheStar0014FullChord = {
   id: "01a064b4-9ec8-7552-9419-1a1d2678269e",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "tower-and-the-star-0014-full-chord",
   title: "Full Chord",
   story: "story-played/tower-and-the-star",

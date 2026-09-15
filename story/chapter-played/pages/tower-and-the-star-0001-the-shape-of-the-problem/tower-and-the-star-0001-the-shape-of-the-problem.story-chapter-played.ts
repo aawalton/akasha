@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const towerAndTheStar0001TheShapeOfTheProblem = {
   id: "01a064b4-9ec8-7040-b1cc-7370af65f2c6",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "tower-and-the-star-0001-the-shape-of-the-problem",
   title: "The Shape of the Problem",
   story: "story-played/tower-and-the-star",

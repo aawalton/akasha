@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const towerAndTheStar0028TheSameHand = {
   id: "01a064b4-9ec8-75c5-8053-340d35b17f6d",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "tower-and-the-star-0028-the-same-hand",
   title: "The Same Hand",
   story: "story-played/tower-and-the-star",

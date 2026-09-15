@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const dragonsAndDungeons0001Chapter1TheKeyAndTheCollar = {
   id: "01a064b4-9ec8-7269-8040-6a36e1ae4a3b",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "dragons-and-dungeons-0001-chapter-1-the-key-and-the-collar",
   title: "Chapter 1 — The Key and the Collar",
   story: "story-played/dragons-and-dungeons",

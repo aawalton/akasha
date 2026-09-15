@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const breathOfTheWild0005TheKingSLastGift = {
   id: "01a064b4-9ec8-7864-8434-774f6b603c27",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "breath-of-the-wild-0005-the-king-s-last-gift",
   title: "The King's Last Gift",
   story: "story-played/breath-of-the-wild",

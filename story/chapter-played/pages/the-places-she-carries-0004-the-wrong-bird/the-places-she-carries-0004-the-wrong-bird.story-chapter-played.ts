@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const thePlacesSheCarries0004TheWrongBird = {
   id: "01a064b4-9ec8-76bd-87ab-18175c86fcfe",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "the-places-she-carries-0004-the-wrong-bird",
   title: "The Wrong Bird",
   story: "story-played/the-places-she-carries",

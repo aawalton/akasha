@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const towerAndTheStar0027CartographerSTruth = {
   id: "01a064b4-9ec8-7fb7-bfeb-2173c449e5e9",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "tower-and-the-star-0027-cartographer-s-truth",
   title: "Cartographer's Truth",
   story: "story-played/tower-and-the-star",

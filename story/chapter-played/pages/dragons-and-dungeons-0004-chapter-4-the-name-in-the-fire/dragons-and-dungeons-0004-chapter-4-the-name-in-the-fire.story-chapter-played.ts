@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const dragonsAndDungeons0004Chapter4TheNameInTheFire = {
   id: "01a064b4-9ec8-72d9-9325-658eb25d31b1",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "dragons-and-dungeons-0004-chapter-4-the-name-in-the-fire",
   title: "Chapter 4 — The Name in the Fire",
   story: "story-played/dragons-and-dungeons",

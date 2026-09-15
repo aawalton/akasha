@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const towerAndTheStar0031TheFloor21Lock = {
   id: "01a064b4-9ec8-755a-9df1-a5f1775c20be",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "tower-and-the-star-0031-the-floor-21-lock",
   title: "The Floor 21 Lock",
   story: "story-played/tower-and-the-star",

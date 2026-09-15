@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const theIdleEpoch0005TheTheorist = {
   id: "01a064b4-9ec8-7dbf-98b2-3fc6ca29eb49",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "the-idle-epoch-0005-the-theorist",
   title: "The Theorist",
   story: "story-played/the-idle-epoch",

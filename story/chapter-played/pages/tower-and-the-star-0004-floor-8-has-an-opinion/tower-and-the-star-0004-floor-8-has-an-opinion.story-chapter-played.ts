@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const towerAndTheStar0004Floor8HasAnOpinion = {
   id: "01a064b4-9ec8-7e6f-8e69-faa1b929d876",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "tower-and-the-star-0004-floor-8-has-an-opinion",
   title: "Floor 8 Has an Opinion",
   story: "story-played/tower-and-the-star",

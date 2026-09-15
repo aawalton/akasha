@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const towerAndTheStar0013WhatTheProvingGroundsMean = {
   id: "01a064b4-9ec8-7043-95ba-ae00ce498f85",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "tower-and-the-star-0013-what-the-proving-grounds-mean",
   title: "What the Proving Grounds Mean",
   story: "story-played/tower-and-the-star",

@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const towerAndTheStar0017TheBondTrial = {
   id: "01a064b4-9ec8-7f56-b42b-690b5e0aef19",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "tower-and-the-star-0017-the-bond-trial",
   title: "The Bond Trial",
   story: "story-played/tower-and-the-star",

@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const theDungeonOfOneThousandDeaths0008TheLens = {
   id: "01a064b4-9ec8-7799-a2fc-0af091fce2a5",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0008-the-lens",
   title: "The Lens",
   story: "story-played/the-dungeon-of-one-thousand-deaths",

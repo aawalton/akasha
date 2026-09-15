@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const towerAndTheStar0012ClassSelectionAndWhatComesAfter = {
   id: "01a064b4-9ec8-7524-b56d-974c0fb5ed35",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "tower-and-the-star-0012-class-selection-and-what-comes-after",
   title: "Class Selection and What Comes After",
   story: "story-played/tower-and-the-star",

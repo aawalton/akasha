@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const dragonsAndDungeons0002Chapter2IntoTheStorm = {
   id: "01a064b4-9ec8-7867-9ba7-83ad13adb1c5",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "dragons-and-dungeons-0002-chapter-2-into-the-storm",
   title: "Chapter 2 — Into the Storm",
   story: "story-played/dragons-and-dungeons",

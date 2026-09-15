@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const theDungeonOfOneThousandDeaths0003LiraFirstCompelled = {
   id: "01a064b4-9ec8-785c-9aef-db0c7e35fe6b",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0003-lira-first-compelled",
   title: "Lira, First Compelled",
   story: "story-played/the-dungeon-of-one-thousand-deaths",

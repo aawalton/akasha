@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const dragonsAndDungeons0014TheSonInTheIron = {
   id: "01a064b4-9ec8-78e0-a5d6-e449ab4a4a00",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "dragons-and-dungeons-0014-the-son-in-the-iron",
   title: "The Son in the Iron",
   story: "story-played/dragons-and-dungeons",

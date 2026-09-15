@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const thePlacesSheCarries0027TheGroundSpeaksBack = {
   id: "01a064b4-9ec8-7294-bce8-203977b0b6b6",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "the-places-she-carries-0027-the-ground-speaks-back",
   title: "The Ground Speaks Back",
   story: "story-played/the-places-she-carries",

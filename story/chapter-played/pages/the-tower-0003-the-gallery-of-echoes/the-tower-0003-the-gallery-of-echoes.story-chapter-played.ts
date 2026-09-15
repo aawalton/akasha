@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const theTower0003TheGalleryOfEchoes = {
   id: "01a064b4-9ec8-7e64-860c-d6bc9794136e",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "the-tower-0003-the-gallery-of-echoes",
   title: "The Gallery of Echoes",
   story: "story-played/the-tower",

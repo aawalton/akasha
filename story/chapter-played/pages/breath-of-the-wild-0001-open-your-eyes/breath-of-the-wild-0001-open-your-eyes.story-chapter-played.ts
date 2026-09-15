@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const breathOfTheWild0001OpenYourEyes = {
   id: "01a064b4-9ec8-7699-b616-c47d778e7d7b",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "breath-of-the-wild-0001-open-your-eyes",
   title: "Open Your Eyes",
   story: "story-played/breath-of-the-wild",

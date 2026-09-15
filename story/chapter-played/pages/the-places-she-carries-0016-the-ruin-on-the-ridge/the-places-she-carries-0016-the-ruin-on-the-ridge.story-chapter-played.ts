@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const thePlacesSheCarries0016TheRuinOnTheRidge = {
   id: "01a064b4-9ec8-7345-af42-d70e8778cebb",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "the-places-she-carries-0016-the-ruin-on-the-ridge",
   title: "The Ruin on the Ridge",
   story: "story-played/the-places-she-carries",

@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const theIdleEpoch0009IronGrip = {
   id: "01a064b4-9ec8-7f73-a95b-f3212e2cf37d",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "the-idle-epoch-0009-iron-grip",
   title: "Iron Grip",
   story: "story-played/the-idle-epoch",

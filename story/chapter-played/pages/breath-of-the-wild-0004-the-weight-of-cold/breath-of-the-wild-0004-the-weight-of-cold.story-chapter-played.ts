@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const breathOfTheWild0004TheWeightOfCold = {
   id: "01a064b4-9ec8-7dbf-acb2-93f3f8dca8a2",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "breath-of-the-wild-0004-the-weight-of-cold",
   title: "The Weight of Cold",
   story: "story-played/breath-of-the-wild",

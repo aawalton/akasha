@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const theDungeonOfOneThousandDeaths0017TheReach = {
   id: "01a064b4-9ec8-756c-a575-977fdb924046",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0017-the-reach",
   title: "The Reach",
   story: "story-played/the-dungeon-of-one-thousand-deaths",

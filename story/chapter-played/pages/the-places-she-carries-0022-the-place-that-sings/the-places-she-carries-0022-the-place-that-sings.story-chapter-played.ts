@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const thePlacesSheCarries0022ThePlaceThatSings = {
   id: "01a064b4-9ec8-7ccf-8d4a-fb285f7b8d21",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "the-places-she-carries-0022-the-place-that-sings",
   title: "The Place That Sings",
   story: "story-played/the-places-she-carries",

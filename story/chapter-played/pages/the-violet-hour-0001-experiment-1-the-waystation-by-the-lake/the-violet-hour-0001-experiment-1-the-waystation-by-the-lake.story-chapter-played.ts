@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const theVioletHour0001Experiment1TheWaystationByTheLake = {
   id: "01a064b4-9ec8-7b52-a890-399eec4a011b",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "the-violet-hour-0001-experiment-1-the-waystation-by-the-lake",
   title: "Experiment 1 — The Waystation by the Lake",
   story: "story-played/the-violet-hour",

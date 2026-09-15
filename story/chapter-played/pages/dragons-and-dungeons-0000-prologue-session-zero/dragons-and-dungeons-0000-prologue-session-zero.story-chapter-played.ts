@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const dragonsAndDungeons0000PrologueSessionZero = {
   id: "01a064b4-9ec8-7135-83f6-155fd28a74f4",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "dragons-and-dungeons-0000-prologue-session-zero",
   title: "Prologue — Session Zero",
   story: "story-played/dragons-and-dungeons",

@@ -2,7 +2,7 @@ import type { StoryChapterPlayed } from "akasha/story/chapter-played/story-chapt
 
 export const towerAndTheStar0011PhaseThree = {
   id: "01a064b4-9ec8-7b58-a7e8-113ad7e22700",
-  type: "story-chapter-played",
+  type: "page-type/story-chapter-played",
   slug: "tower-and-the-star-0011-phase-three",
   title: "Phase Three",
   story: "story-played/tower-and-the-star",
