@@ -2,6 +2,7 @@ import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { heldByGit } from "akasha/page/index/modules/carrying/index-carrying.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const SLASH = "/"
@@ -14,8 +15,8 @@ export const UNASKED =
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const under = heldByGit(shadow).map((one) => `${one}${SLASH}`)
-  if (under.length === 0) return []
-  const held = (path: string): boolean => under.some((one) => path.startsWith(one))
+  const held = (path: string): boolean =>
+    referencesFiled(path) || under.some((one) => path.startsWith(one))
   const filed = shadow.filed()
   const lands = new Set(change.carried ?? [])
   const said: Judged[] = []

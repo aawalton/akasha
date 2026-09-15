@@ -31,6 +31,10 @@ export const indexAnswersAreLevelWithTheChange = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "The file of references beside a page is judged here as such an index is.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "An answer already holding what the change leaves is judged by nothing here.",
     },
     {
