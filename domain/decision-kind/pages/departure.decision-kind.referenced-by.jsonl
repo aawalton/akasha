@@ -5308,7 +5308,6 @@
 {"propertySlug":"decision-kind","path":"text/writing/modules/seconds/seconds.module.ts","id":"01a08e0e-2679-7975-bc1c-012c263cbfd2"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/shortened/shortened.module.ts","id":"01a0908e-2225-73cf-ab78-93caf2062757"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/suggest-closest/suggest-closest.module.ts","id":"01a06287-7841-7b53-968b-a40343c7aebe"}
-{"propertySlug":"decision-kind","path":"util/util.domain.ts","id":"01a0827a-166b-7a7c-9b60-e90209b46c46"}
 {"propertySlug":"decision-kind","path":"verdict/modules/reading-channel/reading-channel.module.ts","id":"01a0657e-795b-7000-9fd2-c341fb16005c"}
 {"propertySlug":"decision-kind","path":"verdict/modules/text/verdict-text.module.ts","id":"01a05c87-a162-7009-8991-e7d36b476492"}
 {"propertySlug":"decision-kind","path":"verdict/verdict.domain.ts","id":"01a05c87-a15f-79e8-9268-c8bf1735c3e6"}
