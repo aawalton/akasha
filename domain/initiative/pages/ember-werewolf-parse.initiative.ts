@@ -32,7 +32,7 @@ export const emberWerewolfParse = {
     {
       statement: "Three-Color Stalker's bar, masteries and Champion Points are the werewolf setup.",
       workingMemory:
-        "One bar and no weapon swap: Feral Carnage, Hircine's Rage, Ferocious Roar, Bloody Gnash and Bloodclaws under Werewolf Berserker. Class Mastery rather than subclassing, taking An Eye for Exploitation and Above and Beyond over Assassination, Shadow and Siphoning. Warfare takes Wrathful Strikes, Fighting Finesse, Deadly Aim and Master-at-Arms, which the guide sims for Khajiit in place of Backstabber. Fitness takes Boundless Vitality, Fortified, Rejuvenation and Celerity. The Thief, and 64 Stamina.",
+        "One bar and no weapon swap: Feral Carnage, Hircine's Rage, Ferocious Roar, Bloody Gnash and Bloodclaws under Werewolf Berserker. Class Mastery rather than subclassing, taking An Eye for Exploitation and Above and Beyond. Warfare takes Wrathful Strikes, Fighting Finesse, Deadly Aim and Master-at-Arms. Fitness takes Boundless Vitality, Fortified, Rejuvenation and Celerity. The Thief, and 64 Stamina. The bar and Champion Points sit only inside buildHash, which the importer discards.\n",
     },
     {
       statement: "Three-Color Stalker parses 135,000 or more on the trials dummy.",
