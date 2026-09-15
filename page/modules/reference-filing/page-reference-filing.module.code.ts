@@ -5,7 +5,10 @@ import {
 } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
-import { under } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
+import {
+  claimantIn,
+  under,
+} from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
   namesIn,
   namesMortal,
@@ -14,12 +17,13 @@ import {
   reaches,
   type Shaped,
 } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
+import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Rowing } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import {
   fileNameOf,
   IMPORT,
   lineOf,
-  ownerOf,
   referencesAt,
 } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import {
@@ -81,6 +85,7 @@ export function namedFrom(
 }
 
 export function importedFrom(
+  given: string | Reading,
   body: string,
   path: string,
   repo: string,
@@ -88,10 +93,11 @@ export function importedFrom(
 ): readonly Entry[] {
   const from = under(repo, path)
   if (!typed(from)) return []
+  const reading = readingIn(given)
   const found: Entry[] = []
   const already = new Set<string>()
   for (const landed of importsIn(body, from, naming)) {
-    const owner = ownerOf(landed)
+    const owner = claimantIn(reading, landed)
     if (owner === null) continue
     const at = referencesAt(owner)
     if (at === null) continue

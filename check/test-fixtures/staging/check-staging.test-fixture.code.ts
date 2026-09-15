@@ -21,6 +21,14 @@ const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
 
 const INDEX_PAGE_AT = "graph/index-import.index.ts"
 
+const MODULE_TYPE_AT = "akasha/module.page-type.ts"
+
+const MODULE_TYPE_ID = "01a0a3d6-0000-7000-8000-00000000000a"
+
+const PAGE_TYPE = "page-type"
+
+const MODULE = "module"
+
 export const scratch = scratchWorld()
 
 export function bodied(held: unknown): string {
@@ -58,12 +66,22 @@ function reaching(root: string, files: Readonly<Record<string, string>>): undefi
   noImportersFiled(root)
   for (const [at, body] of Object.entries(files)) {
     entriesFiled(root, importIn(body, at, root))
-    besided(root, importedFrom(body, at, root))
+    besided(root, importedFrom(root, body, at, root))
   }
 }
 
 function paged(root: string, at: string, held: unknown): undefined {
   put(root, at, bodied(held))
+}
+
+function pageTyped(root: string): undefined {
+  paged(root, MODULE_TYPE_AT, {
+    id: MODULE_TYPE_ID,
+    type: PAGE_TYPE,
+    slug: MODULE,
+    definition: "the page type the pages in this checkout are",
+  })
+  named(root, MODULE_TYPE_AT, PAGE_TYPE, MODULE, MODULE_TYPE_ID)
 }
 
 function graphed(root: string): undefined {
@@ -80,6 +98,7 @@ export function staged(files: Readonly<Record<string, string>>): string {
     mkdirSync(dirname(join(root, at)), { recursive: true })
     writeFileSync(join(root, at), body)
   }
+  pageTyped(root)
   reaching(root, files)
   graphed(root)
   return root

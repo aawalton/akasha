@@ -203,5 +203,14 @@ export const pathClaiming = {
       statement:
         "The names page types declare are gathered once for a set of types rather than once for each path.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A caller holding a reading asks here for a claimant rather than gathering the answers itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The answers a reading gives for claiming are gathered once for that reading.",
+    },
   ],
 } as const satisfies Module

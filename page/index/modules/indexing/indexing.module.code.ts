@@ -138,7 +138,8 @@ export function refreshedFrom(
   if (put) {
     wholeInto(repo, shapesAmong(held.map((one) => ({ ...one, path: under(repo, one.path) }))))
   }
-  const known = knownIn(readingBuilding(root, repo), (path) => valueAt(path, repo))
+  const reading = readingBuilding(root, repo)
+  const known = knownIn(reading, (path) => valueAt(path, repo))
   const beside = bodiesAt(repo)
   const filed = held.map((one) =>
     edgeIn(
@@ -166,7 +167,7 @@ export function refreshedFrom(
   )
   const references = [
     ...referenced.flatMap((one) => one.entries),
-    ...walked.flatMap((one) => importedFrom(one.body, one.path, repo, naming)),
+    ...walked.flatMap((one) => importedFrom(reading, one.body, one.path, repo, naming)),
   ]
   drift.push(reconcile(references, repo, put, done))
   const stale = referencesStale(references, tree, repo, put)

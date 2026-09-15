@@ -18,7 +18,7 @@ export const pageReferenceReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The page a file belongs to is read from that file's own name.",
+      statement: "The page a file belongs to is asked of the index rather than read from its name.",
     },
     {
       invariantKind: "departure",

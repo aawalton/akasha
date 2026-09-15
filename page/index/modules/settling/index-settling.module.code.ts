@@ -311,13 +311,13 @@ export function settlingOver(
     [
       ...referencedWas.flatMap((one) => one.entries),
       ...importing.flatMap((one) =>
-        one.before === null ? [] : importedFrom(one.before, one.path, repo, wasNaming)
+        one.before === null ? [] : importedFrom(reading, one.before, one.path, repo, wasNaming)
       ),
     ],
     [
       ...referencedNow.flatMap((one) => one.entries),
       ...importing.flatMap((one) =>
-        one.after === null ? [] : importedFrom(one.after, one.path, repo, naming)
+        one.after === null ? [] : importedFrom(stepped, one.after, one.path, repo, naming)
       ),
     ]
   )

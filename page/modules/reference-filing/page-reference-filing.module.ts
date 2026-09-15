@@ -22,7 +22,8 @@ export const pageReferenceFiling = {
     },
     {
       invariantKind: "departure",
-      statement: "The page an imported file belongs to is read from that file's own name.",
+      statement:
+        "The page an imported file belongs to is asked of the index, as the reader beside it asks.",
     },
     {
       invariantKind: "departure",

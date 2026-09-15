@@ -1,9 +1,16 @@
 import { dirname, isAbsolute, join, relative } from "node:path"
-import type {
-  FilePropertiesBy,
-  FoldersBy,
-  UncommittedBy,
+import {
+  type FilePropertiesBy,
+  type FoldersBy,
+  filePropertiesAt,
+  folderPropertiesAt,
+  pageTypesIn,
+  type UncommittedBy,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
+import {
+  everyOfType,
+  heldOnce,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   besideAt,
@@ -411,4 +418,25 @@ export function claimantOf(
     if (folder === "") return null
     folder = folderOf(folder)
   }
+}
+
+type Claiming = {
+  readonly paging: Paging
+  readonly pageTypes: ReadonlySet<string>
+  readonly fileProperties: FilePropertiesBy
+  readonly folders: FoldersBy
+}
+
+const claiming = heldOnce(
+  (reading: Reading): Claiming => ({
+    paging: pagingOf((pageTypeSlug) => everyOfType(reading, pageTypeSlug)),
+    pageTypes: pageTypesIn(reading),
+    fileProperties: filePropertiesAt(reading),
+    folders: folderPropertiesAt(reading),
+  })
+)
+
+export function claimantIn(given: string | Reading, path: string): string | null {
+  const held = claiming(given)
+  return claimantOf(held.paging, path, held.pageTypes, held.fileProperties, held.folders)
 }

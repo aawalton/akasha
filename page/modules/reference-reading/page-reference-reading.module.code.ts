@@ -1,3 +1,4 @@
+import { claimantIn } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
   answered,
   heldEach,
@@ -7,7 +8,6 @@ import type { Reading } from "akasha/page/index/modules/shape/index-shape.module
 import {
   fileNameOf,
   IMPORT,
-  ownerOf,
   type Reference,
   referencesAt,
   referencesEach,
@@ -52,7 +52,7 @@ export function idsNaming(
 
 export function importersOf(given: string | Reading, path: string): readonly string[] {
   return answered(given, ROOT, `which files import \`${path}\``, (reading) => {
-    const owner = ownerOf(path)
+    const owner = claimantIn(reading, path)
     if (owner === null) return []
     const name = fileNameOf(path)
     const found: string[] = []
