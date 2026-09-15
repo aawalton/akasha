@@ -34,6 +34,8 @@ const SHARED_AT = "akasha/shared.type-declaration.d.ts"
 
 const MODULE_AT = "akasha/one.module.code.ts"
 
+const MODULE_PAGE_AT = "akasha/one.module.ts"
+
 const HOLDS_VALUE = "declare const HELD: number\n"
 
 const APART = "declare const OTHER: string\n"
@@ -130,7 +132,7 @@ test("the files read are the ones the index names beside the ones the change car
   const held = globally(indented(HOLDS_VALUE))
   const added = "akasha/two.module.code.ts"
   const given = change(staging(APART, held), { [added]: held })
-  expect(reached(given)).toEqual([MODULE_AT, SHARED_AT, added])
+  expect(reached(given)).toEqual([MODULE_AT, MODULE_PAGE_AT, SHARED_AT, added])
 })
 
 test("a file the change takes away is read no more", () => {
@@ -172,6 +174,7 @@ test("every file the tree holds is read where the change carries a declaration f
     APART_AT,
     FILE_PROPERTY_PAGE_AT,
     MODULE_AT,
+    MODULE_PAGE_AT,
     DECLARES_PAGE_AT,
     SHARED_AT,
     SHARED_PAGE_AT,
