@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const potsContainFaith = {
   id: "01a0657d-0295-7dad-8720-e7337dec87cc",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "pots-contain-faith",
   title: "Pots: Contain Faith",
   world: "world/the-wandering-inn",

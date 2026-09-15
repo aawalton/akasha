@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const preparedSignal = {
   id: "01a0657d-0296-7fa9-a479-0ef9357d4606",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "prepared-signal",
   title: "Prepared Signal",
   world: "world/the-wandering-inn",

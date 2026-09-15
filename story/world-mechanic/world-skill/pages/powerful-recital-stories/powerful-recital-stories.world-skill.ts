@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const powerfulRecitalStories = {
   id: "01a0657d-0296-77db-9957-ba73f623e9c9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "powerful-recital-stories",
   title: "Powerful Recital (Stories)",
   world: "world/the-wandering-inn",

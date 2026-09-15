@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const predictCulturalTrend = {
   id: "01a0657d-0296-7e97-9ad0-67decdf40e67",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "predict-cultural-trend",
   title: "Predict Cultural Trend",
   world: "world/the-wandering-inn",

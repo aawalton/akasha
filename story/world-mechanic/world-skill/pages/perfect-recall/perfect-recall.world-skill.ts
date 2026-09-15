@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const perfectRecall = {
   id: "01a0657d-028f-7d12-ac6f-8a5440c3e6b0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "perfect-recall",
   title: "Perfect Recall",
   world: "world/the-wandering-inn",

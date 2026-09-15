@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const perfectMemoryImagination = {
   id: "01a0657d-028f-7789-ade5-195bce41ee44",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "perfect-memory-imagination",
   title: "Perfect Memory: Imagination",
   world: "world/the-wandering-inn",

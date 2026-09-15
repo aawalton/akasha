@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const peilspearFormation = {
   id: "01a0657d-028e-751d-b5aa-f9d89dcfbdce",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "peilspear-formation",
   title: "Peilspear Formation",
   world: "world/the-wandering-inn",

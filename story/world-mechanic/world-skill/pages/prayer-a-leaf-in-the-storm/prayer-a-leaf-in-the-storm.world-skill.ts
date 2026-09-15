@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const prayerALeafInTheStorm = {
   id: "01a0657d-0296-733b-9630-65a5f418d1a4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "prayer-a-leaf-in-the-storm",
   title: "Prayer: A Leaf in the Storm",
   world: "world/the-wandering-inn",

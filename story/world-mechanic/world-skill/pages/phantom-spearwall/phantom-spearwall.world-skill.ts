@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const phantomSpearwall = {
   id: "01a0657d-0290-709f-8d32-fa43679735b9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "phantom-spearwall",
   title: "Phantom Spearwall",
   world: "world/the-wandering-inn",

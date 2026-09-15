@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const prayerCourageBeyondMeasure = {
   id: "01a0657d-0296-7686-bdd4-9647e8c00c10",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "prayer-courage-beyond-measure",
   title: "Prayer: Courage Beyond Measure",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const preserveMoraleCasualties = {
   id: "01a0657d-0296-7110-8884-cb5bc2cd8f4f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "preserve-morale-casualties",
   title: "Preserve Morale (Casualties)",
   world: "world/the-wandering-inn",

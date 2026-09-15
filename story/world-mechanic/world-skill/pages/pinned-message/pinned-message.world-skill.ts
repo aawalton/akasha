@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const pinnedMessage = {
   id: "01a0657d-0294-72c7-a978-487bb333aca5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "pinned-message",
   title: "Pinned Message",
   world: "world/the-wandering-inn",

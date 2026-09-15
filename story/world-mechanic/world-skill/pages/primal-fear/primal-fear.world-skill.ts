@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const primalFear = {
   id: "01a0657d-0297-7cac-944a-574748017210",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "primal-fear",
   title: "Primal Fear",
   world: "world/the-wandering-inn",

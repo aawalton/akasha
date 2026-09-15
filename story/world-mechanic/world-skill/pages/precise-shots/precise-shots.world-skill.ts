@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const preciseShots = {
   id: "01a0657d-0296-7680-98a9-b5008386e078",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "precise-shots",
   title: "Precise Shots",
   world: "world/the-wandering-inn",

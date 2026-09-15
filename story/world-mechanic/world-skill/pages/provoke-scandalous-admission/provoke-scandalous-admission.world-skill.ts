@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const provokeScandalousAdmission = {
   id: "01a0657d-0297-74bf-9684-8348e6c301ba",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "provoke-scandalous-admission",
   title: "Provoke Scandalous Admission",
   world: "world/the-wandering-inn",

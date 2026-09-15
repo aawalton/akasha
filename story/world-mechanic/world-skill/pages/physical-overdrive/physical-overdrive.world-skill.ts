@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const physicalOverdrive = {
   id: "01a0657d-0290-74cc-b57e-f346ac8c24a9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "physical-overdrive",
   title: "Physical Overdrive",
   world: "world/the-wandering-inn",

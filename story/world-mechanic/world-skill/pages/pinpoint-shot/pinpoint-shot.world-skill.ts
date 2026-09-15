@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const pinpointShot = {
   id: "01a0657d-0294-7cfe-8cc5-cfb6758a2c26",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "pinpoint-shot",
   title: "Pinpoint Shot",
   world: "world/the-wandering-inn",

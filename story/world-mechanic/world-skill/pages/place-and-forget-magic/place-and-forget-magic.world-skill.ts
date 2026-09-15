@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const placeAndForgetMagic = {
   id: "01a0657d-0295-7452-8dda-a46b20da07f2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "place-and-forget-magic",
   title: "Place And Forget Magic",
   world: "world/the-wandering-inn",

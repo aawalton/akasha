@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const pointBlankShot = {
   id: "01a0657d-0295-7bd6-ab55-ca609b3a8cdd",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "point-blank-shot",
   title: "Point-Blank Shot",
   world: "world/the-wandering-inn",

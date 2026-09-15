@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const powerAttack = {
   id: "01a0657d-0295-74d4-9548-76c6cb44774d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "power-attack",
   title: "Power Attack",
   world: "world/the-wandering-inn",

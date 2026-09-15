@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const prolongedNegotiations = {
   id: "01a0657d-0297-7959-bf6b-57cec635de97",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "prolonged-negotiations",
   title: "Prolonged Negotiations",
   world: "world/the-wandering-inn",

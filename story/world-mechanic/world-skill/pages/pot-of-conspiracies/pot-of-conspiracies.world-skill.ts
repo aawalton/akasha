@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const potOfConspiracies = {
   id: "01a0657d-0295-7aae-8c89-0f898bf2805c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "pot-of-conspiracies",
   title: "Pot of Conspiracies",
   world: "world/the-wandering-inn",

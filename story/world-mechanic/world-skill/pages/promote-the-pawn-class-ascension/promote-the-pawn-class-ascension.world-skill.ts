@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const promoteThePawnClassAscension = {
   id: "01a0657d-0297-73d5-a198-2fd5d767177a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "promote-the-pawn-class-ascension",
   title: "Promote the Pawn: Class Ascension",
   world: "world/the-wandering-inn",

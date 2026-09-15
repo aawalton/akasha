@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const prideOfTheArenaYourGreatestBlowWorthless = {
   id: "01a0657d-0297-7fb2-b162-b01a2ab6cb78",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "pride-of-the-arena-your-greatest-blow-worthless",
   title: "Pride of the Arena: Your Greatest Blow, Worthless",
   world: "world/the-wandering-inn",

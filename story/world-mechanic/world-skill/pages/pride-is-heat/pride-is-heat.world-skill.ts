@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const prideIsHeat = {
   id: "01a0657d-0296-7145-bed9-a89115c13465",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "pride-is-heat",
   title: "Pride is Heat",
   world: "world/the-wandering-inn",

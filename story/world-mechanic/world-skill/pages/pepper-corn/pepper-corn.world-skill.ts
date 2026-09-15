@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const pepperCorn = {
   id: "01a0657d-028e-74ec-b5b1-eb8033c77c5b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "pepper-corn",
   title: "Pepper Corn",
   world: "world/the-wandering-inn",

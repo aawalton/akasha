@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const perfectShot = {
   id: "01a0657d-028f-7f33-9cee-9bea610d25ed",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "perfect-shot",
   title: "Perfect Shot",
   world: "world/the-wandering-inn",

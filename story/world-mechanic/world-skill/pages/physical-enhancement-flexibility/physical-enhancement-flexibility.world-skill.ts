@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const physicalEnhancementFlexibility = {
   id: "01a0657d-0290-7acd-a2ad-e9ca11935f72",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "physical-enhancement-flexibility",
   title: "Physical Enhancement: Flexibility",
   world: "world/the-wandering-inn",

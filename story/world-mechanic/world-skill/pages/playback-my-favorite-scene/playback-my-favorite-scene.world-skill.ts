@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const playbackMyFavoriteScene = {
   id: "01a0657d-0295-7ab3-bb7f-1cb8b5c12639",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "playback-my-favorite-scene",
   title: "Playback: My Favorite Scene",
   world: "world/the-wandering-inn",

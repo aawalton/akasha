@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const phantomBladeRitardandoCombo = {
   id: "01a0657d-028f-7afa-90b5-062a576b55f9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "phantom-blade-ritardando-combo",
   title: "Phantom Blade: Ritardando Combo",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const peaceOfTheWild = {
   id: "01a0657d-028e-7050-8db9-6ea8d5446123",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "peace-of-the-wild",
   title: "Peace of the Wild",
   world: "world/the-wandering-inn",

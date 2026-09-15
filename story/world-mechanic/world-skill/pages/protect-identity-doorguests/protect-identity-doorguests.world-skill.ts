@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const protectIdentityDoorguests = {
   id: "01a0657d-0297-7008-a9da-b09bb13d3ecd",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "protect-identity-doorguests",
   title: "Protect Identity: Doorguests",
   world: "world/the-wandering-inn",

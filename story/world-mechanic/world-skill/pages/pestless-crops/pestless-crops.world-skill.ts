@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const pestlessCrops = {
   id: "01a0657d-028f-7481-805e-e1358159fe0e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "pestless-crops",
   title: "Pestless Crops",
   world: "world/the-wandering-inn",

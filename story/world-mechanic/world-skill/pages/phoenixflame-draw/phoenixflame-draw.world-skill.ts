@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const phoenixflameDraw = {
   id: "01a0657d-0290-78d1-8502-9e0ebe9ea415",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "phoenixflame-draw",
   title: "Phoenixflame Draw",
   world: "world/the-wandering-inn",

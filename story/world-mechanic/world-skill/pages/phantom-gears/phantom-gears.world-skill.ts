@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const phantomGears = {
   id: "01a0657d-0290-7c6f-96e1-64f21e8950b0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "phantom-gears",
   title: "Phantom Gears",
   world: "world/the-wandering-inn",

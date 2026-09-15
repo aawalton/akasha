@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const perfectTemperatureControl = {
   id: "01a0657d-028f-7824-9a55-37b2a9365aa1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "perfect-temperature-control",
   title: "Perfect Temperature Control",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const projectionShieldRam = {
   id: "01a0657d-0297-7d8c-8eb0-dfd4d3799104",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "projection-shield-ram",
   title: "Projection: Shield Ram",
   world: "world/the-wandering-inn",

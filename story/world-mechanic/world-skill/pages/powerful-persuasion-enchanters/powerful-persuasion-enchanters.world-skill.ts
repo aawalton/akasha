@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const powerfulPersuasionEnchanters = {
   id: "01a0657d-0296-7593-863e-0acbc011eab8",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "powerful-persuasion-enchanters",
   title: "Powerful Persuasion: Enchanters",
   world: "world/the-wandering-inn",

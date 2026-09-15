@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const perfectCounterattack = {
   id: "01a0657d-028e-7587-bef1-cffa92fa2c79",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "perfect-counterattack",
   title: "Perfect Counterattack",
   world: "world/the-wandering-inn",

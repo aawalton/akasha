@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const phantomTool = {
   id: "01a0657d-0290-7e94-9426-c403fa47179a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "phantom-tool",
   title: "Phantom Tool",
   world: "world/the-wandering-inn",

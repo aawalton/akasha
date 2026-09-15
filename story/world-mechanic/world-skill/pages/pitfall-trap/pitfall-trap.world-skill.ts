@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const pitfallTrap = {
   id: "01a0657d-0295-76d2-909e-34cc6eef1705",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "pitfall-trap",
   title: "Pitfall Trap",
   world: "world/the-wandering-inn",

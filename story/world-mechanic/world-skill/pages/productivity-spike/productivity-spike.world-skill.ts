@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const productivitySpike = {
   id: "01a0657d-0297-71a1-8532-8e6107ec00b4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "productivity-spike",
   title: "Productivity Spike",
   world: "world/the-wandering-inn",
