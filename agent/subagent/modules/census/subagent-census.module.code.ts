@@ -10,10 +10,7 @@ import { LOG_AT } from "akasha/agent/subagent/modules/presence/subagent-presence
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import {
-  slugOf,
-  textAt,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { slugOf, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const SEAT = "principalSeatName"
 
