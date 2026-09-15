@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cableInclinePushdown = {
   id: "019ebc76-b835-7a6d-a016-38b922a8333f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cable-incline-pushdown",
   title: "Cable Incline Pushdown",
   exerciseCategory: "strength",

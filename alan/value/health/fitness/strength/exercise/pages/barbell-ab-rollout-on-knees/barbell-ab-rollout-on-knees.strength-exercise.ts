@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const barbellAbRolloutOnKnees = {
   id: "019ebc76-20d9-7207-b3dc-b08de797a255",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "barbell-ab-rollout-on-knees",
   title: "Barbell Ab Rollout - On Knees",
   exerciseCategory: "strength",

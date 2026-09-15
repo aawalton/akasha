@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const catchAndOverheadThrow = {
   id: "019ebc76-cc6c-7c6e-8ad2-3e3e7b812c05",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "catch-and-overhead-throw",
   title: "Catch and Overhead Throw",
   exerciseCategory: "plyometrics",

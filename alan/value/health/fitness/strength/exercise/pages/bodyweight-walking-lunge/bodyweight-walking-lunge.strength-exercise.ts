@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bodyweightWalkingLunge = {
   id: "019ebc76-a903-7b23-ac74-4f8a49faed92",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bodyweight-walking-lunge",
   title: "Bodyweight Walking Lunge",
   exerciseCategory: "strength",

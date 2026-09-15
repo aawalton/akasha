@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bentKneeHipRaise = {
   id: "019ebc76-a1fe-77be-ba9a-d816d041bd4f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bent-knee-hip-raise",
   title: "Bent-Knee Hip Raise",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const ankleOnTheKnee = {
   id: "019ebc76-183c-7c97-9d5a-f6a2def08cdd",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "ankle-on-the-knee",
   title: "Ankle On The Knee",
   exerciseCategory: "stretching",

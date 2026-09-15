@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const aroundTheWorlds = {
   id: "019ebc76-1a3b-7844-acb1-08a2e1c4fab1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "around-the-worlds",
   title: "Around The Worlds",
   exerciseCategory: "strength",

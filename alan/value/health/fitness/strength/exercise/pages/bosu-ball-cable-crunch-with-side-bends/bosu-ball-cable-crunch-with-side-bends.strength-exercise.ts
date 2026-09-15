@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bosuBallCableCrunchWithSideBends = {
   id: "019ebc76-a943-7c0a-8233-2b2c022ed80c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bosu-ball-cable-crunch-with-side-bends",
   title: "Bosu Ball Cable Crunch With Side Bends",
   exerciseCategory: "strength",

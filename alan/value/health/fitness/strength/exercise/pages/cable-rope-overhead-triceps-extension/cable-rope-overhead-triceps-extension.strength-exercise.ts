@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cableRopeOverheadTricepsExtension = {
   id: "019ebc76-c347-7bdb-8f9d-e5119c006e7d",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cable-rope-overhead-triceps-extension",
   title: "Cable Rope Overhead Triceps Extension",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bandAssistedPullUp = {
   id: "019ebc76-1f1f-7021-b702-050a2d138709",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "band-assisted-pull-up",
   title: "Band Assisted Pull-Up",
   exerciseCategory: "strength",

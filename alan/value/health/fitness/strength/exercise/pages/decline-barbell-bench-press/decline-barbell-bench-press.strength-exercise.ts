@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const declineBarbellBenchPress = {
   id: "019ebc76-e291-7044-8cf6-31dcebd64822",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "decline-barbell-bench-press",
   title: "Decline Barbell Bench Press",
   exerciseCategory: "strength",

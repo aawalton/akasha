@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const crunchHandsOverhead = {
   id: "019ebc76-e090-7ab5-92b2-9da26135f225",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "crunch-hands-overhead",
   title: "Crunch - Hands Overhead",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const alternatingCableShoulderPress = {
   id: "019ebc75-c0ea-7145-b5bc-6ae22d380a29",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "alternating-cable-shoulder-press",
   title: "Alternating Cable Shoulder Press",
   exerciseCategory: "strength",

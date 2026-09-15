@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const alternatingRenegadeRow = {
   id: "019ebc75-c270-712a-bd8e-5edf901e9681",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "alternating-renegade-row",
   title: "Alternating Renegade Row",
   exerciseCategory: "strength",

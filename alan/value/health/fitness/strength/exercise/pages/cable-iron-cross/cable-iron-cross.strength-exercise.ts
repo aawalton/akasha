@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cableIronCross = {
   id: "019ebc76-b8f6-76bb-b275-8aa3fcdd8c65",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cable-iron-cross",
   title: "Cable Iron Cross",
   exerciseCategory: "strength",

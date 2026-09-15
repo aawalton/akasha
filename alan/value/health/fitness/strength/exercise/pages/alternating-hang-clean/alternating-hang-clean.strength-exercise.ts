@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const alternatingHangClean = {
   id: "019ebc75-c1b1-7714-8260-81f8e756fc6c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "alternating-hang-clean",
   title: "Alternating Hang Clean",
   exerciseCategory: "strength",

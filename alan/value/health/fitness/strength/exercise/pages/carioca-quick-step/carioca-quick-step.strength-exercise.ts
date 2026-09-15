@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cariocaQuickStep = {
   id: "019ebc76-cbe1-7044-a957-61c8b26aac9f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "carioca-quick-step",
   title: "Carioca Quick Step",
   exerciseCategory: "plyometrics",

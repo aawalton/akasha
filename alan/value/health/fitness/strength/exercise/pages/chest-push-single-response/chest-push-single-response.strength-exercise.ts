@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const chestPushSingleResponse = {
   id: "019ebc76-cef9-7fe5-a941-c0c0fdda83fc",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "chest-push-single-response",
   title: "Chest Push (single response)",
   exerciseCategory: "plyometrics",

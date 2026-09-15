@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bandSkullCrusher = {
   id: "019ebc76-205e-7533-bd06-be2a5b436c2a",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "band-skull-crusher",
   title: "Band Skull Crusher",
   exerciseCategory: "strength",

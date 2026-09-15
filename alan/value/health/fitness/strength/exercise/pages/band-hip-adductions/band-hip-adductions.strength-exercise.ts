@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bandHipAdductions = {
   id: "019ebc76-1fe0-7232-82e5-83a99c737b45",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "band-hip-adductions",
   title: "Band Hip Adductions",
   exerciseCategory: "strength",

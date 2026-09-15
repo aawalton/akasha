@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cableHammerCurlsRopeAttachment = {
   id: "019ebc76-b7b7-77fa-8451-fe19684fc7a9",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cable-hammer-curls-rope-attachment",
   title: "Cable Hammer Curls - Rope Attachment",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cableInternalRotation = {
   id: "019ebc76-b8b8-7504-a28d-8357beea76b8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cable-internal-rotation",
   title: "Cable Internal Rotation",
   exerciseCategory: "strength",

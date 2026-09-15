@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bodyweightMidRow = {
   id: "019ebc76-a87e-75d8-858e-e70c86ba1961",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bodyweight-mid-row",
   title: "Bodyweight Mid Row",
   exerciseCategory: "strength",

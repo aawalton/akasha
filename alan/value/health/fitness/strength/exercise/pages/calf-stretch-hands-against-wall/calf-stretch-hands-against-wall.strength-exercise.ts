@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const calfStretchHandsAgainstWall = {
   id: "019ebc76-caef-75fe-9f01-017c8f6fcfe9",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "calf-stretch-hands-against-wall",
   title: "Calf Stretch Hands Against Wall",
   exerciseCategory: "stretching",

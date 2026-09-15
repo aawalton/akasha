@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cableReverseCrunch = {
   id: "019ebc76-ba6e-7f8e-99f8-37f58ceffed9",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cable-reverse-crunch",
   title: "Cable Reverse Crunch",
   exerciseCategory: "strength",

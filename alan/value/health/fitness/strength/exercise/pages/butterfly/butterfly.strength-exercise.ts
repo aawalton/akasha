@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const butterfly = {
   id: "019ebc76-b682-7a5a-a9a7-655eb97e3d52",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "butterfly",
   title: "Butterfly",
   exerciseCategory: "strength",

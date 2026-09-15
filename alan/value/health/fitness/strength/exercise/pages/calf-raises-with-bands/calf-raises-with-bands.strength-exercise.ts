@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const calfRaisesWithBands = {
   id: "019ebc76-ca79-729c-a128-8cbe9befe8d7",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "calf-raises-with-bands",
   title: "Calf Raises - With Bands",
   exerciseCategory: "strength",

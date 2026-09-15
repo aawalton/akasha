@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const closeGripEzBarPress = {
   id: "019ebc76-dcfb-7a7a-a149-e31873094282",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "close-grip-ez-bar-press",
   title: "Close-Grip EZ-Bar Press",
   exerciseCategory: "strength",

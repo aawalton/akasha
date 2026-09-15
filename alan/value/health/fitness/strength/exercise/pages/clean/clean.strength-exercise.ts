@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const clean = {
   id: "019ebc76-d9d3-78e7-8f83-f122c59a7f1c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "clean",
   title: "Clean",
   exerciseCategory: "olympic-weightlifting",

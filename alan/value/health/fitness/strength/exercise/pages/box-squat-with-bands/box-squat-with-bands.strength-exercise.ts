@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const boxSquatWithBands = {
   id: "019ebc76-aac8-738c-8196-c3125f00d342",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "box-squat-with-bands",
   title: "Box Squat with Bands",
   exerciseCategory: "powerlifting",

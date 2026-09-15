@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const barbellShrug = {
   id: "019ebc76-97fb-75e9-855e-88bbe16e8aeb",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "barbell-shrug",
   title: "Barbell Shrug",
   exerciseCategory: "strength",

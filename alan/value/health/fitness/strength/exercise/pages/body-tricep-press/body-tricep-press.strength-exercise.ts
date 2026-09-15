@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bodyTricepPress = {
   id: "019ebc76-a7f5-78fd-9010-355da39aa8d8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "body-tricep-press",
   title: "Body Tricep Press",
   exerciseCategory: "strength",

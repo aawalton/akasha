@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const circusBell = {
   id: "019ebc76-d995-7e8b-be5b-dc4ccf57e5f1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "circus-bell",
   title: "Circus Bell",
   exerciseCategory: "strongman",

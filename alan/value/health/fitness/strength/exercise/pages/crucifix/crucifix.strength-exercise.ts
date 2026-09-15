@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const crucifix = {
   id: "019ebc76-e055-758a-b797-9f2722991458",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "crucifix",
   title: "Crucifix",
   exerciseCategory: "strongman",

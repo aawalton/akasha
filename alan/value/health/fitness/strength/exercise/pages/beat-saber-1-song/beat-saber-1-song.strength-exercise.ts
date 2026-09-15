@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const beatSaber1Song = {
   id: "019f0077-1ac6-75b0-9aac-45f4c44ea436",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "beat-saber-1-song",
   title: "Beat Saber (1 song)",
   exerciseCategory: "cardio",

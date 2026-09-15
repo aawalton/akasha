@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const chainPress = {
   id: "019ebc76-cceb-7bb4-a21d-2b067f68bd83",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "chain-press",
   title: "Chain Press",
   exerciseCategory: "powerlifting",

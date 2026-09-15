@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bodyweightReverseLunge = {
   id: "019efbeb-3290-7f24-9fea-5a3c8c91957b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bodyweight-reverse-lunge",
   title: "Bodyweight Reverse Lunge",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const behindHeadChestStretch = {
   id: "019ebc76-9e18-75b9-8d38-53ab9b2b36a0",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "behind-head-chest-stretch",
   title: "Behind Head Chest Stretch",
   exerciseCategory: "stretching",

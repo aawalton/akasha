@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cleanShrug = {
   id: "019ebc76-da94-7c48-a7b5-9081693bbc70",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "clean-shrug",
   title: "Clean Shrug",
   exerciseCategory: "olympic-weightlifting",

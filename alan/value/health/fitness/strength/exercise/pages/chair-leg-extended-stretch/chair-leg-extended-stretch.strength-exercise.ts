@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const chairLegExtendedStretch = {
   id: "019ebc76-cd2a-7aed-9c93-aeb73a7091d2",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "chair-leg-extended-stretch",
   title: "Chair Leg Extended Stretch",
   exerciseCategory: "stretching",

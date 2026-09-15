@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const catStretch = {
   id: "019ebc76-cc22-77f2-90b2-b738b7b66ced",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cat-stretch",
   title: "Cat Stretch",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bentOverTwoDumbbellRow = {
   id: "019ebc76-a633-78ff-b656-eda03a45de61",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bent-over-two-dumbbell-row",
   title: "Bent Over Two-Dumbbell Row",
   exerciseCategory: "strength",

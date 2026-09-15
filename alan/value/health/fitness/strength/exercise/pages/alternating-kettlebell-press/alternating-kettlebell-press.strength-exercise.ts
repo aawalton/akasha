@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const alternatingKettlebellPress = {
   id: "019ebc75-c1f4-770b-a202-899d8dcfb82b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "alternating-kettlebell-press",
   title: "Alternating Kettlebell Press",
   exerciseCategory: "strength",

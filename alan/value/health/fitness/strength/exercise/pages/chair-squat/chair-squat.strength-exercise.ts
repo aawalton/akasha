@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const chairSquat = {
   id: "019ebc76-cdc2-7d90-9cfa-f3e457c3c365",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "chair-squat",
   title: "Chair Squat",
   exerciseCategory: "strength",

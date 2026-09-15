@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const boardPress = {
   id: "019ebc76-a779-7d2a-948f-ed6da49df5b8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "board-press",
   title: "Board Press",
   exerciseCategory: "powerlifting",

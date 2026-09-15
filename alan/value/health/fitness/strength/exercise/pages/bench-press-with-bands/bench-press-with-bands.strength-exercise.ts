@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const benchPressWithBands = {
   id: "019ebc76-9f66-797f-b2b8-e5a8d0b0d474",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bench-press-with-bands",
   title: "Bench Press - With Bands",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const chestPushFrom3PointStance = {
   id: "019ebc76-ce83-7ce2-80cf-92cdf07c9dde",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "chest-push-from-3-point-stance",
   title: "Chest Push from 3 point stance",
   exerciseCategory: "plyometrics",

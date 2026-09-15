@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bicycling = {
   id: "019ebc76-a6ee-7b73-8762-ede5de71d026",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bicycling",
   title: "Bicycling",
   exerciseCategory: "cardio",

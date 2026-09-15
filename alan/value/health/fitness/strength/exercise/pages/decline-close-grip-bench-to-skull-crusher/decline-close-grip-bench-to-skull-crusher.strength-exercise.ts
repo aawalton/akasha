@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const declineCloseGripBenchToSkullCrusher = {
   id: "019ebc76-ee70-74e7-99b5-e0de75d4284c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "decline-close-grip-bench-to-skull-crusher",
   title: "Decline Close-Grip Bench To Skull Crusher",
   exerciseCategory: "strength",

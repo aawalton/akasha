@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const boxJumpMultipleResponse = {
   id: "019ebc76-aa06-7b8c-acc8-2e2f824d8d28",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "box-jump-multiple-response",
   title: "Box Jump (Multiple Response)",
   exerciseCategory: "plyometrics",

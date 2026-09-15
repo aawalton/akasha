@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const closeGripStandingBarbellCurl = {
   id: "019ebc76-de00-7aae-a22a-2852d077f065",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "close-grip-standing-barbell-curl",
   title: "Close-Grip Standing Barbell Curl",
   exerciseCategory: "strength",

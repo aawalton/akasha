@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const chairUpperBodyStretch = {
   id: "019ebc76-ce04-7149-b458-5ba5bc8374fa",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "chair-upper-body-stretch",
   title: "Chair Upper Body Stretch",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const barbellHipThrust = {
   id: "019ebc76-234f-7cf5-b362-dcf5e3354ff1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "barbell-hip-thrust",
   title: "Barbell Hip Thrust",
   exerciseCategory: "powerlifting",

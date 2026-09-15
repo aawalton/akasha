@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const calfPress = {
   id: "019ebc76-c57f-7fe0-b317-19b69480cbb7",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "calf-press",
   title: "Calf Press",
   exerciseCategory: "strength",

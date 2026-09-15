@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const airBike = {
   id: "019ebc75-bf5f-7379-bb3c-34cb0bf73f7b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "air-bike",
   title: "Air Bike",
   exerciseCategory: "strength",

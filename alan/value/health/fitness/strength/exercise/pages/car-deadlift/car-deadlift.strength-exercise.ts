@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const carDeadlift = {
   id: "019ebc76-cb67-7481-a023-74dbf4fee331",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "car-deadlift",
   title: "Car Deadlift",
   exerciseCategory: "strongman",

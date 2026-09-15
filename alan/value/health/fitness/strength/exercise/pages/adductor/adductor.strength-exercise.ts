@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const adductor = {
   id: "019ebc75-7b1f-7c79-bd5e-9b5a9919ce97",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "adductor",
   title: "Adductor",
   exerciseCategory: "stretching",

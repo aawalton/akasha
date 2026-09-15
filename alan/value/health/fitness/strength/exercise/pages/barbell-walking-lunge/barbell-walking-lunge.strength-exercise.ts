@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const barbellWalkingLunge = {
   id: "019ebc76-9d62-78b6-bd85-a5dafbada496",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "barbell-walking-lunge",
   title: "Barbell Walking Lunge",
   exerciseCategory: "strength",

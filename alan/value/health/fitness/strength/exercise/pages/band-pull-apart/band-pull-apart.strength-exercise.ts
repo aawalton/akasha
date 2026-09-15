@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bandPullApart = {
   id: "019ebc76-2022-7521-b369-5fd271f78b00",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "band-pull-apart",
   title: "Band Pull Apart",
   exerciseCategory: "strength",

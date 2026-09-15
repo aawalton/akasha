@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const alternatingDeltoidRaise = {
   id: "019ebc75-c12d-73ff-9a37-0f360286ec6f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "alternating-deltoid-raise",
   title: "Alternating Deltoid Raise",
   exerciseCategory: "strength",

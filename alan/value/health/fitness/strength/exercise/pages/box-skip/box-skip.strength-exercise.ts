@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const boxSkip = {
   id: "019ebc76-aa43-739f-b313-f47f6598659f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "box-skip",
   title: "Box Skip",
   exerciseCategory: "plyometrics",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cableChestPress = {
   id: "019ebc76-b6c1-7925-a80d-8502014a6220",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cable-chest-press",
   title: "Cable Chest Press",
   exerciseCategory: "strength",

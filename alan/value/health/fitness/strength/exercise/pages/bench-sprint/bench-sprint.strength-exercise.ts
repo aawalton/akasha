@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const benchSprint = {
   id: "019ebc76-9fe7-7012-a77c-9f44b698d9fa",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bench-sprint",
   title: "Bench Sprint",
   exerciseCategory: "plyometrics",

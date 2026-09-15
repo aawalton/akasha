@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const chestPushWithRunRelease = {
   id: "019ebc76-cf3f-7dcd-815f-6baf344a6550",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "chest-push-with-run-release",
   title: "Chest Push with Run Release",
   exerciseCategory: "plyometrics",

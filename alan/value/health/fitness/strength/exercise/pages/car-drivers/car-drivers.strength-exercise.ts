@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const carDrivers = {
   id: "019ebc76-cba5-767e-bfc0-ec796f707414",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "car-drivers",
   title: "Car Drivers",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const calfMachineShoulderShrug = {
   id: "019ebc76-c543-755d-8eb2-8bf7be3ffa2d",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "calf-machine-shoulder-shrug",
   title: "Calf-Machine Shoulder Shrug",
   exerciseCategory: "strength",

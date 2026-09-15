@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const barbellRolloutFromBench = {
   id: "019ebc76-972e-7f36-bdec-43cb5efac7a2",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "barbell-rollout-from-bench",
   title: "Barbell Rollout from Bench",
   exerciseCategory: "strength",

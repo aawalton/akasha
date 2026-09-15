@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bodyUp = {
   id: "019ebc76-a7b9-7b03-b28e-b464761efc72",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "body-up",
   title: "Body-Up",
   exerciseCategory: "strength",

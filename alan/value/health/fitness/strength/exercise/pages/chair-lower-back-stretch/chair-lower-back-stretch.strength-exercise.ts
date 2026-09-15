@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const chairLowerBackStretch = {
   id: "019ebc76-cd6f-76ea-acbb-be5a4dbf5b22",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "chair-lower-back-stretch",
   title: "Chair Lower Back Stretch",
   exerciseCategory: "stretching",

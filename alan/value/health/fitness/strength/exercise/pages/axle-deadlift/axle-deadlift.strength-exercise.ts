@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const axleDeadlift = {
   id: "019ebc76-1b11-7791-afc2-5cf5717de4a7",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "axle-deadlift",
   title: "Axle Deadlift",
   exerciseCategory: "strongman",

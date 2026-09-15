@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const ankleCircles = {
   id: "019ebc76-17f9-7603-b412-9bbc84cbc163",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "ankle-circles",
   title: "Ankle Circles",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bandGoodMorning = {
   id: "019ebc76-1f65-7999-8dfa-8903913d9140",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "band-good-morning",
   title: "Band Good Morning",
   exerciseCategory: "powerlifting",

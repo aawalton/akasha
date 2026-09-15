@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const barbellHackSquat = {
   id: "019ebc76-2301-7f39-b6cf-27b56e7c7e0c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "barbell-hack-squat",
   title: "Barbell Hack Squat",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cableRussianTwists = {
   id: "019ebc76-c3c3-7919-a539-dc8e3b3b3508",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cable-russian-twists",
   title: "Cable Russian Twists",
   exerciseCategory: "strength",

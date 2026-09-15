@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const atlasStones = {
   id: "019ebc76-1ac3-771d-87f5-2bcefbcd00ef",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "atlas-stones",
   title: "Atlas Stones",
   exerciseCategory: "strongman",

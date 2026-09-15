@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const barbellSideSplitSquat = {
   id: "019ebc76-9b3d-7e7e-bd0d-d05fef8e8b15",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "barbell-side-split-squat",
   title: "Barbell Side Split Squat",
   exerciseCategory: "strength",

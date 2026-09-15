@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const alternateHammerCurl = {
   id: "019ebc75-bfe8-79be-8424-03a4c89b7274",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "alternate-hammer-curl",
   title: "Alternate Hammer Curl",
   exerciseCategory: "strength",

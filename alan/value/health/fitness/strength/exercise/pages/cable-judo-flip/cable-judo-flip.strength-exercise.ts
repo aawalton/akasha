@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cableJudoFlip = {
   id: "019ebc76-b936-7db7-bea5-c1c3ab06bcc5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cable-judo-flip",
   title: "Cable Judo Flip",
   exerciseCategory: "strength",

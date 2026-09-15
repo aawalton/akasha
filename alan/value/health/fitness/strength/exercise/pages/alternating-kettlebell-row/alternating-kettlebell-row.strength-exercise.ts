@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const alternatingKettlebellRow = {
   id: "019ebc75-c235-7a99-9c31-5153d0998f1d",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "alternating-kettlebell-row",
   title: "Alternating Kettlebell Row",
   exerciseCategory: "strength",

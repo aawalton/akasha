@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const ballPullIn = {
   id: "019ebc77-2fa3-7753-89cb-bf44112719b2",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "ball-pull-in",
   title: "Exercise Ball Pull-In",
   exerciseCategory: "strength",

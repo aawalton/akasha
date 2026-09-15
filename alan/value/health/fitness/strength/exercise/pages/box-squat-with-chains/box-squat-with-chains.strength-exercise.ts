@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const boxSquatWithChains = {
   id: "019ebc76-ab08-7eb1-951b-611fb08ce5e7",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "box-squat-with-chains",
   title: "Box Squat with Chains",
   exerciseCategory: "strength",

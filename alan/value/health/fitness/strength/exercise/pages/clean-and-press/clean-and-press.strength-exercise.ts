@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cleanAndPress = {
   id: "019ebc76-db15-7809-9014-65dac2ae934e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "clean-and-press",
   title: "Clean and Press",
   exerciseCategory: "strength",

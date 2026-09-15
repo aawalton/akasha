@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bradfordRockyPresses = {
   id: "019ebc76-b5c5-752c-980c-bbc4ae65f88f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bradford-rocky-presses",
   title: "Bradford/Rocky Presses",
   exerciseCategory: "strength",

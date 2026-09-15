@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bentOverLowPulleySideLateral = {
   id: "019ebc76-a2c6-79ff-9357-daed96562c88",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bent-over-low-pulley-side-lateral",
   title: "Bent Over Low-Pulley Side Lateral",
   exerciseCategory: "strength",

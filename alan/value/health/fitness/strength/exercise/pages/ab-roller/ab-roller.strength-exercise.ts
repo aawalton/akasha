@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const abRoller = {
   id: "019ebc75-7ad7-7001-acf4-cedee6d5d265",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "ab-roller",
   title: "Ab Roller",
   exerciseCategory: "strength",

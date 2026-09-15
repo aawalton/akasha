@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const barbellGluteBridge = {
   id: "019ebc76-227e-708e-b47d-f180a011ebc3",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "barbell-glute-bridge",
   title: "Barbell Glute Bridge",
   exerciseCategory: "powerlifting",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const childsPose = {
   id: "019ebc76-cfd1-74f5-a9a5-e1b33c9bcbe3",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "childs-pose",
   title: "Child's Pose",
   exerciseCategory: "stretching",

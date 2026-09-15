@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bentArmBarbellPullover = {
   id: "019ebc76-a024-7c93-8e08-19f75f60dd57",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bent-arm-barbell-pullover",
   title: "Bent-Arm Barbell Pullover",
   exerciseCategory: "strength",

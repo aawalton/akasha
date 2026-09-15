@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bentPress = {
   id: "019ebc76-a6b1-71b9-94d3-69754ccd1f54",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bent-press",
   title: "Bent Press",
   exerciseCategory: "strength",

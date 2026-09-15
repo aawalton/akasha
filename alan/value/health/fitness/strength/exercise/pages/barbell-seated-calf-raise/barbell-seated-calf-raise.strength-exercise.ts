@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const barbellSeatedCalfRaise = {
   id: "019ebc76-9771-73e7-a921-dd56e6221e45",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "barbell-seated-calf-raise",
   title: "Barbell Seated Calf Raise",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const anteriorTibialisSmr = {
   id: "019ebc76-189c-74a8-bbe0-7fac833faac8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "anterior-tibialis-smr",
   title: "Anterior Tibialis-SMR",
   exerciseCategory: "stretching",

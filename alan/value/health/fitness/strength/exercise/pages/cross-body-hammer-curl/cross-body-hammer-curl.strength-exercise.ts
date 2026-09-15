@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const crossBodyHammerCurl = {
   id: "019ebc76-dfa4-78f3-96e5-6dd3dc701147",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cross-body-hammer-curl",
   title: "Cross Body Hammer Curl",
   exerciseCategory: "strength",

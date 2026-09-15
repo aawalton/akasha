@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const buttLiftBridge = {
   id: "019ebc76-b644-7637-bade-cbfe46552834",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "butt-lift-bridge",
   title: "Butt Lift (Bridge)",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const clockPushUp = {
   id: "019ebc76-db8e-7d59-ba86-5d75af66f9d5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "clock-push-up",
   title: "Clock Push-Up",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const barbellShoulderPress = {
   id: "019ebc76-97b3-7a52-acce-278cfb686834",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "barbell-shoulder-press",
   title: "Barbell Shoulder Press",
   exerciseCategory: "strength",

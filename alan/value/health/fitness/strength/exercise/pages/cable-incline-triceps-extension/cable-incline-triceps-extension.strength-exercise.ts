@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cableInclineTricepsExtension = {
   id: "019ebc76-b87a-7d6d-8fbe-c310ed760981",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cable-incline-triceps-extension",
   title: "Cable Incline Triceps Extension",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const bentOverOneArmLongBarRow = {
   id: "019ebc76-a305-7c2d-83cc-d48ff5eb8208",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bent-over-one-arm-long-bar-row",
   title: "Bent Over One-Arm Long Bar Row",
   exerciseCategory: "strength",

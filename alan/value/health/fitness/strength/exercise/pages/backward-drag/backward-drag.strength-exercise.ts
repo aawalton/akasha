@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const backwardDrag = {
   id: "019ebc76-1b9f-7039-9684-16652f71b204",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "backward-drag",
   title: "Backward Drag",
   exerciseCategory: "strongman",

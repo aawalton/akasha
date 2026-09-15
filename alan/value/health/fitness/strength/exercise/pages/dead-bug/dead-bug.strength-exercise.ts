@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const deadBug = {
   id: "019ebc76-e1d6-73a8-b3bb-9a966e08033c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dead-bug",
   title: "Dead Bug",
   exerciseCategory: "strength",

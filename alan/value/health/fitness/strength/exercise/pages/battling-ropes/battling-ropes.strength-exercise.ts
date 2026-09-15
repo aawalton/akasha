@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const battlingRopes = {
   id: "019ebc76-9d9f-7133-94ad-4f81903f74d7",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "battling-ropes",
   title: "Battling Ropes",
   exerciseCategory: "strength",

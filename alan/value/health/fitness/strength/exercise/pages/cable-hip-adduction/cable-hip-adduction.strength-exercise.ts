@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cableHipAdduction = {
   id: "019ebc76-b7f5-7cd2-8de5-5038052070d3",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cable-hip-adduction",
   title: "Cable Hip Adduction",
   exerciseCategory: "strength",

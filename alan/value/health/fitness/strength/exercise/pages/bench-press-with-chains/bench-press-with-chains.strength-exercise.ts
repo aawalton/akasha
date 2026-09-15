@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const benchPressWithChains = {
   id: "019ebc76-9fa4-70fd-b318-52b9dec12efa",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "bench-press-with-chains",
   title: "Bench Press with Chains",
   exerciseCategory: "powerlifting",

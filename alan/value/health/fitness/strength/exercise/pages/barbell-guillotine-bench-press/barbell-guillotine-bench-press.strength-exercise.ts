@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const barbellGuillotineBenchPress = {
   id: "019ebc76-22c0-7bab-858f-16c62e37fdd0",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "barbell-guillotine-bench-press",
   title: "Barbell Guillotine Bench Press",
   exerciseCategory: "strength",

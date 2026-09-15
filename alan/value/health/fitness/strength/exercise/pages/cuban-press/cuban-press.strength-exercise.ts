@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cubanPress = {
   id: "019ebc76-e154-7c9d-90cf-5b35e5beca46",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cuban-press",
   title: "Cuban Press",
   exerciseCategory: "strength",

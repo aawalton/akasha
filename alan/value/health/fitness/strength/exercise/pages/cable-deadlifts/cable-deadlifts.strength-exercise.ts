@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cableDeadlifts = {
   id: "019ebc76-b77c-7e46-b95c-b498b108bb68",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cable-deadlifts",
   title: "Cable Deadlifts",
   exerciseCategory: "strength",

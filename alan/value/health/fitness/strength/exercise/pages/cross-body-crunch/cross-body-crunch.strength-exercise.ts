@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const crossBodyCrunch = {
   id: "019ebc76-df69-7cf4-9415-e3fa866a3611",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cross-body-crunch",
   title: "Cross-Body Crunch",
   exerciseCategory: "strength",

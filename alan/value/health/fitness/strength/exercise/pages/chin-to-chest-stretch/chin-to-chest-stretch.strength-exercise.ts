@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const chinToChestStretch = {
   id: "019ebc76-d053-7613-9722-0c3b02a92ab1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "chin-to-chest-stretch",
   title: "Chin To Chest Stretch",
   exerciseCategory: "stretching",

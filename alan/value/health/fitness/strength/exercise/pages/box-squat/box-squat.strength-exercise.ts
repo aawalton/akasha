@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const boxSquat = {
   id: "019ebc76-aa83-7b2c-ba9a-c7960d90c21f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "box-squat",
   title: "Box Squat",
   exerciseCategory: "powerlifting",

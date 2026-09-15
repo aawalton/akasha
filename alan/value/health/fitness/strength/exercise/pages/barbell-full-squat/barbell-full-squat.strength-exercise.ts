@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const barbellFullSquat = {
   id: "019ebc76-223d-73de-ad5c-ad73b44990e7",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "barbell-full-squat",
   title: "Barbell Full Squat",
   exerciseCategory: "strength",

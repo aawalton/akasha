@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const crunchLegsOnExerciseBall = {
   id: "019ebc76-e0ca-7daf-8e97-3d5e5c5e0aa8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "crunch-legs-on-exercise-ball",
   title: "Crunch - Legs On Exercise Ball",
   exerciseCategory: "strength",

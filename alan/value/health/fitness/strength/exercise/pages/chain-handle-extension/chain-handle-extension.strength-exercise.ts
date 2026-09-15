@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const chainHandleExtension = {
   id: "019ebc76-ccab-7227-aad3-771c4e12c211",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "chain-handle-extension",
   title: "Chain Handle Extension",
   exerciseCategory: "powerlifting",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const barbellDeadlift = {
   id: "019ebc76-21f5-7a4d-966d-7b84d8abf48a",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "barbell-deadlift",
   title: "Barbell Deadlift",
   exerciseCategory: "strength",

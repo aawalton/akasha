@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const cableRopeRearDeltRows = {
   id: "019ebc76-c388-7290-85f3-a873c7d66708",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "cable-rope-rear-delt-rows",
   title: "Cable Rope Rear-Delt Rows",
   exerciseCategory: "strength",

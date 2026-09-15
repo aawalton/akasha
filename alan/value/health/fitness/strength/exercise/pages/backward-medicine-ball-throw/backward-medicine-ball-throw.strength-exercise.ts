@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const backwardMedicineBallThrow = {
   id: "019ebc76-1be6-7acd-8065-dacc834d497e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "backward-medicine-ball-throw",
   title: "Backward Medicine Ball Throw",
   exerciseCategory: "plyometrics",

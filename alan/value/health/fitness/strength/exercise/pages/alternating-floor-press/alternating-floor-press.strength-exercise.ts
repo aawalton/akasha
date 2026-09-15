@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const alternatingFloorPress = {
   id: "019ebc75-c172-765b-bb6d-6fe31036bd3b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "alternating-floor-press",
   title: "Alternating Floor Press",
   exerciseCategory: "strength",

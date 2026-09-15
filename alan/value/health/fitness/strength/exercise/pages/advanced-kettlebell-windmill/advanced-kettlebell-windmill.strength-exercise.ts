@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const advancedKettlebellWindmill = {
   id: "019ebc75-bf1f-7673-8fd7-60b2720fd8b3",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "advanced-kettlebell-windmill",
   title: "Advanced Kettlebell Windmill",
   exerciseCategory: "strength",
