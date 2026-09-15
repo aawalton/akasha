@@ -4140,7 +4140,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/item-browser/modules/item-browser-types/item-browser-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/item-browser/modules/item-browser-ui-strings/item-browser-ui-strings.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/item-browser/modules/item-browser-zone-classification/item-browser-zone-classification.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/item-sets/modules/item-set-categories/item-set-categories.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/item-set/modules/item-set-categories/item-set-categories.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-addon/modules/inventory-action-panel/inventory-action-panel.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-addon/modules/inventory-auto-maintenance-engine/inventory-auto-maintenance-engine.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-addon/modules/inventory-auto-maintenance-select/inventory-auto-maintenance-select.module.ts"}

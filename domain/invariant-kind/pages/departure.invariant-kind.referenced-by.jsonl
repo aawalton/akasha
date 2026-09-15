@@ -3918,7 +3918,7 @@
 {"propertySlug":"invariant-kind","path":"temper/item-browser/modules/item-browser-ui-strings/item-browser-ui-strings.module.ts","id":"01a06178-3723-70ca-b442-161406dbdbd6"}
 {"propertySlug":"invariant-kind","path":"temper/item-browser/modules/item-browser-zone-classification/item-browser-zone-classification.module.ts","id":"01a06178-3723-7d81-a3cf-41427a52afb3"}
 {"propertySlug":"invariant-kind","path":"temper/item-browser/temper-item-browser.domain.ts","id":"01a06178-3724-7ee9-b831-46e112ae8a76"}
-{"propertySlug":"invariant-kind","path":"temper/item-sets/modules/item-set-categories/item-set-categories.module.ts","id":"01a090e4-4cd1-7dd9-9df4-7d5cf6c4caed"}
+{"propertySlug":"invariant-kind","path":"temper/item-set/modules/item-set-categories/item-set-categories.module.ts","id":"01a090e4-4cd1-7dd9-9df4-7d5cf6c4caed"}
 {"propertySlug":"invariant-kind","path":"temper/items-addon/inventory-config-file/inventory-config-file.lua-module.ts","id":"01a06258-b536-7417-855d-e9bd5aa14816"}
 {"propertySlug":"invariant-kind","path":"temper/items-addon/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.ts","id":"01a06258-b527-758b-b9d3-f61c61aec470"}
 {"propertySlug":"invariant-kind","path":"temper/items-addon/modules/inventory-bank-trace-fold/inventory-bank-trace-fold.module.ts","id":"01a06258-b528-7c01-a1ff-06f7e3a14a57"}

@@ -70,7 +70,7 @@ export const temper = {
     "domain/temper-hud-window",
     "domain/temper-inventory-automation",
     "domain/temper-item-browser",
-    "domain/temper-item-sets",
+    "domain/temper-item-set",
     "domain/temper-items-core",
     "domain/temper-items-filters-addon",
     "domain/temper-items-filters-core",
