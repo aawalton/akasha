@@ -2,7 +2,7 @@ import type { ReadoutGroup } from "akasha/alan/harness/readout/group/readout-gro
 
 export const workstation = {
   id: "01a0a064-b4d5-73e0-9265-d1b2c0d51ad4",
-  type: "readout-group",
+  type: "page-type/readout-group",
   slug: "workstation",
   definition: "how hard Alan's workstation is working",
   parts: ["readout/workstation-memory", "readout/workstation-processor"],

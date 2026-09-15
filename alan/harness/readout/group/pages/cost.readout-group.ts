@@ -2,7 +2,7 @@ import type { ReadoutGroup } from "akasha/alan/harness/readout/group/readout-gro
 
 export const cost = {
   id: "01a08b9b-fa99-70de-a5e9-aab7a5e793ae",
-  type: "readout-group",
+  type: "page-type/readout-group",
   slug: "cost",
   definition: "what the block Alan is in costs him for each hour it runs",
   invariants: [

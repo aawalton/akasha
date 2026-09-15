@@ -2,7 +2,7 @@ import type { ReadoutGroup } from "akasha/alan/harness/readout/group/readout-gro
 
 export const categorization = {
   id: "01a05455-7631-7e29-b225-b04ee2ae4890",
-  type: "readout-group",
+  type: "page-type/readout-group",
   slug: "categorization",
   definition: "how much of the transaction record is still unreviewed",
   invariants: [

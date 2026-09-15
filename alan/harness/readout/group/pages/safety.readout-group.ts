@@ -2,7 +2,7 @@ import type { ReadoutGroup } from "akasha/alan/harness/readout/group/readout-gro
 
 export const safety = {
   id: "01a05f42-92f5-7003-8df0-f5215872a280",
-  type: "readout-group",
+  type: "page-type/readout-group",
   slug: "safety",
   definition: "how safe things are where Alan is",
   figureOffScale: true,

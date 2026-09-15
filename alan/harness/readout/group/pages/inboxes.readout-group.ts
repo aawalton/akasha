@@ -2,7 +2,7 @@ import type { ReadoutGroup } from "akasha/alan/harness/readout/group/readout-gro
 
 export const inboxes = {
   id: "01a06230-b155-7b8c-9044-28e5319d83e7",
-  type: "readout-group",
+  type: "page-type/readout-group",
   slug: "inboxes",
   definition: "how far each of Alan's inboxes is from empty",
   sortOrder: "place",

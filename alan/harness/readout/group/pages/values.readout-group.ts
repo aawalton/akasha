@@ -2,7 +2,7 @@ import type { ReadoutGroup } from "akasha/alan/harness/readout/group/readout-gro
 
 export const values = {
   id: "01a06553-f660-780a-9cc7-a675d664e202",
-  type: "readout-group",
+  type: "page-type/readout-group",
   slug: "values",
   definition: "how well the day served each of Alan's values",
   sortOrder: "place",
