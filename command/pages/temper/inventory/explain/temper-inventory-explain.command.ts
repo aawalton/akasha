@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperInventoryExplain = {
   id: "01a0603c-c1d2-7c24-8d3d-7d9bb02c2690",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-inventory-explain",
   definition: "the command tracing why an item resolves to the action the rules give it",
   code: "ts",

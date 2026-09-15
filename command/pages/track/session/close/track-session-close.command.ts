@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const trackSessionClose = {
   id: "01a07979-7ead-77a5-955b-3cf604e934c7",
-  type: "command",
+  type: "page-type/command",
   slug: "track-session-close",
   definition: "the command ending the open stretch of a day",
   code: "ts",

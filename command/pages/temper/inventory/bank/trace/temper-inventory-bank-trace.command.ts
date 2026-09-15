@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperInventoryBankTrace = {
   id: "01a0603c-c1cf-7944-91f2-3c13783517fa",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-inventory-bank-trace",
   definition: "the command giving back a timing trace from one of the addon's banking sessions",
   code: "ts",

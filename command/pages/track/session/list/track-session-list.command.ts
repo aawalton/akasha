@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const trackSessionList = {
   id: "01a07979-8035-7a44-ae7e-9077fced1824",
-  type: "command",
+  type: "page-type/command",
   slug: "track-session-list",
   definition: "the command saying the stretches a day has",
   code: "ts",

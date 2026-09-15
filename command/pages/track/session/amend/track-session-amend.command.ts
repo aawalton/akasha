@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const trackSessionAmend = {
   id: "01a07979-7f49-7026-ba5c-99f1601920f2",
-  type: "command",
+  type: "page-type/command",
   slug: "track-session-amend",
   definition: "the command changing a stretch already written",
   code: "ts",

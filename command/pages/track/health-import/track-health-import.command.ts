@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const trackHealthImport = {
   id: "01a0620c-6340-70c9-a176-730aa9470e96",
-  type: "command",
+  type: "page-type/command",
   slug: "track-health-import",
   definition: "the command bringing an Apple Health export into the sample store",
   code: "ts",

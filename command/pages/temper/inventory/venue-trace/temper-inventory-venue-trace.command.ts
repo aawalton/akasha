@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperInventoryVenueTrace = {
   id: "01a09b33-22e4-76f4-8c16-420d5f6923df",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-inventory-venue-trace",
   definition: "the command giving back a timing trace from one of the addon's vendor sessions",
   code: "ts",

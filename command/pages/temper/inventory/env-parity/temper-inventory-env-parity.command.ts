@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperInventoryEnvParity = {
   id: "01a09ced-db9b-74a0-81d3-f99a19727d8a",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-inventory-env-parity",
   definition: "whether the env `explain` runs in and the env `plan` runs in decide an item alike",
   code: "ts",

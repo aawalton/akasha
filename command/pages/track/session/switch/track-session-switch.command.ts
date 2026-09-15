@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const trackSessionSwitch = {
   id: "01a07979-7e5f-7249-9356-fdb1cc6b9acc",
-  type: "command",
+  type: "page-type/command",
   slug: "track-session-switch",
   definition: "the command ending one stretch and beginning the next at one time",
   code: "ts",

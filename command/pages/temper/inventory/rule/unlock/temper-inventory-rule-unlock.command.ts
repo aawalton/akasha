@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperInventoryRuleUnlock = {
   id: "01a0603c-c1d8-788c-b8ed-bed2e9c842df",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-inventory-rule-unlock",
   definition: "the command unlocking a category rule named by its id",
   code: "ts",

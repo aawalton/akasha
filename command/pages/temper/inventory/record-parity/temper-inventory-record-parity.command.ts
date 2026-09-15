@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperInventoryRecordParity = {
   id: "01a09f61-ca3e-75ea-9e65-23af74517db1",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-inventory-record-parity",
   definition: "whether the verdict the addon recorded on an item is what a fresh reading reaches",
   code: "ts",

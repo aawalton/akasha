@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperWatcherLog = {
   id: "01a0603c-c1da-744c-8d22-01ee1ec32945",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-watcher-log",
   definition: "the command reading the workstation watcher's log lines newest first",
   code: "ts",

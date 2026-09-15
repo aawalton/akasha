@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperInventoryDecodeLink = {
   id: "01a0603c-c1d2-7be2-8f61-08de3fd69b48",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-inventory-decode-link",
   definition: "the command reading a game item link into its named fields",
   code: "ts",

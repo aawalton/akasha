@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperInventoryRuleTakes = {
   id: "01a0959d-e8ec-72b0-95be-efffc8405b8a",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-inventory-rule-takes",
   definition: "the command naming the items one category rule takes and what takes the rest",
   code: "ts",

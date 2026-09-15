@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperInventoryOutcomeParity = {
   id: "01a09b55-1b5c-74af-9384-4db91fda4e9b",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-inventory-outcome-parity",
   definition:
     "whether the outcome-only run reaches what the full run reaches, over every item held",

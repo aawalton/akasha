@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperInventoryRuleCreate = {
   id: "01a0603c-c1d6-798f-a6d9-f51d3fc000f9",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-inventory-rule-create",
   definition: "the command adding a category rule",
   code: "ts",

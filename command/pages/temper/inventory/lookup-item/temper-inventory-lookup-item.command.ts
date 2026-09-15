@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperInventoryLookupItem = {
   id: "01a0603c-c1d5-767c-aabb-9b17518fac2a",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-inventory-lookup-item",
   definition: "the command finding an item in the captured holdings and saying what it is",
   code: "ts",

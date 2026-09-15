@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperInventoryCapacityAudit = {
   id: "01a0603c-c1d1-78cf-9174-01514c3d023a",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-inventory-capacity-audit",
   definition: "the command naming the destinations whose storage the rules would overflow",
   code: "ts",
