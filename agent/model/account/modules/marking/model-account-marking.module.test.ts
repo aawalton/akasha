@@ -263,7 +263,7 @@ test("marking one account reads no index the whole fleet is filed in", () => {
   const root = worldMade()
   const fleet = counting(root)
   expect(everyAccountSlugIn(fleet.reading)).toEqual(["aine", "aow", "ctw"])
-  expect(fleet.seen).toContain("listing identity/page-type/model/account/slug")
+  expect(fleet.seen).toContain("listing identity/page-type/model-account/slug")
   const one = counting(root)
   const said = markedIn(root, "aine", { retryAllowedAt: RESETS_AT }, one.reading, bodiesIn(root))
   expect(said.kind).toBe("held")

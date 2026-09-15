@@ -1,43 +1,37 @@
 import {
+  idsNaming,
+  listedAt,
   slugsOfType,
-  valuesOfType,
+  typeSlugById,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import { slugsIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const PAGE = "page"
 
 const PAGE_TYPE = "page-type"
 
-const EXTENDS = "extends"
+const EXTENDS_TYPE = "extends-type"
 
-const SLUG = "slug"
-
-function listedAbove(given: string | Reading): ReadonlyMap<string, readonly string[]> {
-  const above = new Map<string, string[]>()
-  for (const one of valuesOfType(given, PAGE_TYPE)) {
-    const said = one.value[SLUG]
-    const named = slugsIn(one.value[EXTENDS])
-    if (typeof said !== "string" || said === "" || named.length === 0) continue
-    const held = above.get(said)
-    if (held === undefined) above.set(said, [...named])
-    else for (const two of named) if (!held.includes(two)) held.push(two)
-  }
-  return above
+function idsCarrying(given: string | Reading, slug: string): readonly string[] {
+  return listedAt(given, PAGE_TYPE, slug).map((one) => one.id)
 }
 
 export function kindsUnder(slug: string, given: string | Reading): ReadonlySet<string> {
   if (slug === PAGE) return new Set(slugsOfType(given, PAGE_TYPE))
-  const above = listedAbove(given)
   const under = new Set<string>([slug])
-  for (;;) {
-    let grew = false
-    for (const [held, parents] of above) {
-      if (!under.has(held) && parents.some((one) => under.has(one))) {
-        under.add(held)
-        grew = true
+  const walked = new Set<string>()
+  const waiting: string[] = [slug]
+  for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
+    for (const id of idsCarrying(given, one)) {
+      if (walked.has(id)) continue
+      walked.add(id)
+      for (const below of idsNaming(given, id, EXTENDS_TYPE)) {
+        const said = typeSlugById(given, below)
+        if (said === null || under.has(said)) continue
+        under.add(said)
+        waiting.push(said)
       }
     }
-    if (!grew) return under
   }
+  return under
 }
