@@ -2,7 +2,7 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const increaseWeaponCrit = {
   id: "019e21f7-0f70-7d08-ad68-57e21591647b",
-  type: "temper-poison-effect",
+  type: "page-type/temper-poison-effect",
   slug: "increase-weapon-crit",
   title: "Increase Weapon Crit",
   key: "increase-weapon-crit",

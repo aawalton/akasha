@@ -2,7 +2,7 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const maim = {
   id: "019e21f7-0f6d-794e-abbd-a6ffd39e5ef4",
-  type: "temper-poison-effect",
+  type: "page-type/temper-poison-effect",
   slug: "maim",
   title: "Maim",
   key: "maim",

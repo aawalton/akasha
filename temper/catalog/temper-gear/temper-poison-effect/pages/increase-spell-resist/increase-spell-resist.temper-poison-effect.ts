@@ -2,7 +2,7 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const increaseSpellResist = {
   id: "019e21f7-0f63-77a6-86c5-d670efaa9f65",
-  type: "temper-poison-effect",
+  type: "page-type/temper-poison-effect",
   slug: "increase-spell-resist",
   title: "Increase Spell Resistance",
   key: "increase-spell-resist",

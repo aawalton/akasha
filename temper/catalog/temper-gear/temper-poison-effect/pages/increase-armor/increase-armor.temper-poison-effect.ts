@@ -2,7 +2,7 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const increaseArmor = {
   id: "019e21f7-0f66-7ae7-8005-0e1df608a596",
-  type: "temper-poison-effect",
+  type: "page-type/temper-poison-effect",
   slug: "increase-armor",
   title: "Increase Physical Resistance",
   key: "increase-armor",

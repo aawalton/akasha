@@ -2,7 +2,7 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const ravageMagicka = {
   id: "019e21f7-0f5c-7f12-a7c0-9e4d51f2c0c2",
-  type: "temper-poison-effect",
+  type: "page-type/temper-poison-effect",
   slug: "ravage-magicka",
   title: "Ravage Magicka",
   key: "ravage-magicka",

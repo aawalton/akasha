@@ -2,7 +2,7 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const uncertainty = {
   id: "019e21f7-0f6f-7ad0-85d3-ac6bbe655d81",
-  type: "temper-poison-effect",
+  type: "page-type/temper-poison-effect",
   slug: "uncertainty",
   title: "Uncertainty",
   key: "uncertainty",

@@ -2,7 +2,7 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const lingeringHealth = {
   id: "019e21f7-0f79-7f1e-95b6-9ec56dbfc994",
-  type: "temper-poison-effect",
+  type: "page-type/temper-poison-effect",
   slug: "lingering-health",
   title: "Lingering Health",
   key: "lingering-health",

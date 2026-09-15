@@ -2,7 +2,7 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const invisible = {
   id: "019e21f7-0f75-7ecc-b654-68dde11b0d1e",
-  type: "temper-poison-effect",
+  type: "page-type/temper-poison-effect",
   slug: "invisible",
   title: "Invisible",
   key: "invisible",

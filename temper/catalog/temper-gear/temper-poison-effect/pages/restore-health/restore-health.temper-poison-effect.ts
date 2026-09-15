@@ -2,7 +2,7 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const restoreHealth = {
   id: "019e21f7-0f55-711f-bf44-92d60627ffe6",
-  type: "temper-poison-effect",
+  type: "page-type/temper-poison-effect",
   slug: "restore-health",
   title: "Restore Health",
   key: "restore-health",

@@ -2,7 +2,7 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const unstoppable = {
   id: "019e21f7-0f72-7e85-a744-be091c685ded",
-  type: "temper-poison-effect",
+  type: "page-type/temper-poison-effect",
   slug: "unstoppable",
   title: "Unstoppable",
   key: "unstoppable",

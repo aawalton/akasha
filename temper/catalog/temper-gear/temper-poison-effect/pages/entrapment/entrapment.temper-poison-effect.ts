@@ -2,7 +2,7 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const entrapment = {
   id: "019e21f7-0f73-7ef7-a770-a4c141f2939e",
-  type: "temper-poison-effect",
+  type: "page-type/temper-poison-effect",
   slug: "entrapment",
   title: "Entrapment",
   key: "entrapment",
