@@ -4,13 +4,30 @@ export const propertyShaping = {
   id: "01a091e7-e2ef-7749-b938-fe724b6673e5",
   type: "module",
   slug: "property-shaping",
-  definition: "the shape each page property declares, read from where the index filed it",
+  definition: "the shape each page property declares, read from beside that property's page type",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every shape the pages declare is read from the shapes index rather than a page.",
+      statement: "Every shape the pages declare is read from the file beside that property's kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The shapes a change leaves are composed here rather than read after it lands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A kind no page the change carries touches is not composed again.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page property the change takes away is dropped before the change's own are set.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type the change itself carries is found among the change's pages.",
     },
     {
       invariantKind: "departure",

@@ -152,6 +152,14 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "That file sits beside the page type rather than under the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The shape every page property has is that file read for each page type.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The pages of one page type are answered by path as one map.",
     },
     {

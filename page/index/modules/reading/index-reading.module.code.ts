@@ -11,11 +11,14 @@ import {
   readingAt,
   readingOf,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { indexShapes } from "akasha/page/index/shapes/index-shapes.index.ts"
 import { filedFor, type PageAddress } from "akasha/page/modules/address/page-address.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  shapesFiledAt,
+  shapesIn,
+} from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 
 export type Listed = {
   readonly path: string
@@ -27,8 +30,6 @@ const IDENTITY = indexIdentity.name
 const IMPORT = indexImport.name
 
 const EDGE = indexEdge.name
-
-const SHAPES = indexShapes.name
 
 const PROPERTY = "page-property"
 
@@ -274,11 +275,17 @@ export function valuesByPath(
   return pathed(given, pageTypeSlug)
 }
 
+function shapesFiled(reading: Reading, path: string): readonly Shape[] {
+  const at = shapesFiledAt(path)
+  if (at === null) return []
+  const body = reading.read(at)
+  return body === null ? [] : shapesIn(body)
+}
+
 const everyShaped = heldOnce((reading: Reading): ReadonlyMap<string, Shape> => {
   const found = new Map<string, Shape>()
-  for (const one of endingIn(reading.listing(join(SHAPES, PROPERTY)))) {
-    for (const line of reading.lines(join(SHAPES, PROPERTY, `${one}${ENDING}`))) {
-      const held = JSON.parse(line) as Shape
+  for (const listed of rostered(reading, PAGE_TYPE)) {
+    for (const held of shapesFiled(reading, listed.path)) {
       const named = `${held.pageTypeSlug}/${held.slug}`
       if (!found.has(named)) found.set(named, held)
     }
@@ -295,8 +302,9 @@ export function shapesEvery(given: string | Reading): ReadonlyMap<string, Shape>
 const shapedOfType = heldEach(
   (reading: Reading, pageTypeSlug: string): ReadonlyMap<string, Shape> => {
     const found = new Map<string, Shape>()
-    for (const line of reading.lines(join(SHAPES, PROPERTY, `${pageTypeSlug}${ENDING}`))) {
-      const held = JSON.parse(line) as Shape
+    const one = listedAt(reading, PAGE_TYPE, pageTypeSlug)[0]
+    if (one === undefined) return found
+    for (const held of shapesFiled(reading, one.path)) {
       if (!found.has(held.slug)) found.set(held.slug, held)
     }
     return found

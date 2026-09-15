@@ -73,5 +73,17 @@ export const indexFiling = {
       statement:
         "A page type value naming a type above it files the edge that descent is walked down.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A shape filed is written beside its page type as well as under the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where that page type sits is read off the line already filed under its slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape whose page type is filed nowhere is written under the index alone.",
+    },
   ],
 } as const satisfies Module

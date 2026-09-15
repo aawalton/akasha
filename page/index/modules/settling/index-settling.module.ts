@@ -23,6 +23,14 @@ export const indexSettling = {
     },
     {
       invariantKind: "departure",
+      statement: "The shapes a change leaves are read from bodies the settle composes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reading a settle leaves serves those bodies beside the pages the change has.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A relation naming a page of a page type the write has reaches that page type.",
     },
     {

@@ -13,6 +13,7 @@ import type {
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   textAt,
+  typeIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
@@ -40,10 +41,6 @@ export function pagesElsewhere(
     found.push({ path, value })
   }
   return found
-}
-
-function typeIn(value: Value): string | null {
-  return textAt(value, "type") ?? textAt(value, "pageTypeSlug")
 }
 
 function pageValueAt(reading: Reading, at: string, pageTypeSlug: string): Value | null {

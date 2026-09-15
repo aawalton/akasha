@@ -28,6 +28,10 @@ export function numberAt(value: Value, key: string): number | null {
   return typeof held === "number" ? held : null
 }
 
+export function typeIn(value: Value): string | null {
+  return textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+}
+
 export function slugAt(value: Value, key: string): string | null {
   const named = textAt(value, key)
   return named === null ? null : slugOf(named)

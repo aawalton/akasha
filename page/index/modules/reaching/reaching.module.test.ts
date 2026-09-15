@@ -27,7 +27,7 @@ import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 afterAll(scratch.sweep)
 
 function knownAt(root: string, repo: string): Shaped {
-  return knownIn(readingAt(root), (path) => valueAt(path, repo))
+  return knownIn(readingAt(root, repo), (path) => valueAt(path, repo))
 }
 
 test("a property naming many pages takes the target it names itself, and opens no page to do it", () => {
@@ -156,13 +156,19 @@ test("a key one property carries reaches it, and a key no property carries reach
 
 test("a key two properties carry reaches neither where the page's type declares neither", () => {
   const { root, repo } = grounded()
-  declaring(root, "relation-property", "other-slugs", {
-    pageTypeSlug: "relation-property",
-    targetPageTypeSlug: "domain",
-    unique: null,
-    slug: "other-slugs",
-    propertySlug: "part-slugs",
-  })
+  declaring(
+    root,
+    "relation-property",
+    "other-slugs",
+    {
+      pageTypeSlug: "relation-property",
+      targetPageTypeSlug: "domain",
+      unique: null,
+      slug: "other-slugs",
+      propertySlug: "part-slugs",
+    },
+    repo
+  )
   const known = knownAt(root, repo)
 
   expect(known.slugOfKeyIn({ type: "domain" }, "partSlugs")).toBe(null)
@@ -259,7 +265,7 @@ function entryShapes(): { readonly root: string; readonly repo: string } {
   })
   shaping(kept, "text-property", "log-text", { propertySlug: "log-text" })
   propertyKind(kept, "page-property-entry")
-  keptFiled(root, kept)
+  keptFiled(root, kept, repo)
   return { root, repo }
 }
 
@@ -320,7 +326,7 @@ function oneOfRecords(): { readonly root: string; readonly repo: string } {
   })
   propertyKind(kept, "record-property")
   propertyKind(kept, "one-of-property")
-  keptFiled(root, kept)
+  keptFiled(root, kept, repo)
   return { root, repo }
 }
 

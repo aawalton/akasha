@@ -27,7 +27,11 @@ import {
   rereadOver,
 } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import { under } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
-import { shapesAt } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
+import {
+  shapesAt,
+  shapesLaidOn,
+  shapesWritten,
+} from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { knownIn, type Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import { indexThere } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Filing, Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -101,6 +105,7 @@ export type Settling = {
   readonly reading: Reading
   readonly filings: readonly Filing[]
   readonly references: readonly Filing[]
+  readonly beside: ReadonlyMap<string, string>
   readonly noted: readonly string[]
   readonly refusedBefore: readonly string[]
   readonly refused: readonly string[]
@@ -179,7 +184,10 @@ export function settlingOver(
     held.flatMap((one) => (one.was === null ? [] : shapeFiled(one.was))),
     held.flatMap((one) => (one.now === null ? [] : shapeFiled(one.now)))
   )
-  const overShaped = overlaidOn(reading, [...shaping])
+  const written = shapesWritten(reading, held)
+  const bodied = new Map<string, string>()
+  for (const [where, whole] of written.bodies) bodied.set(under(repo, where), whole)
+  const overShaped = shapesLaidOn(overlaidOn(reading, [], bodied), written.shapes)
   const wasUnique = uniquePropertiesAt(reading)
   const unique = uniquePropertiesAt(overShaped)
   if (indexThere(given)) refusingEmpty(unique, held.filter((one) => one.now !== null).length)
@@ -217,7 +225,14 @@ export function settlingOver(
     ]
   )
   const wrote = new Map(moving.map((one) => [under(repo, one.path), one.after] as const))
-  const stepped = overlaidOn(reading, [...imported, ...identity, ...shaping], wrote)
+  const stepped = shapesLaidOn(
+    overlaidOn(
+      reading,
+      [...imported, ...identity, ...shaping],
+      new Map<string, string | null>([...wrote, ...bodied])
+    ),
+    written.shapes
+  )
   const wasBody: Body = (at) => {
     const one = carried.get(under(repo, at))
     return one === undefined ? bodyAt(at) : one.before
@@ -313,9 +328,17 @@ export function settlingOver(
 
   const filings = [...imported, ...identity, ...edge, ...shaping]
   return {
-    reading: overlaidOn(given, filings, new Map([...wrote, ...bodiesBeside(reading, references)])),
+    reading: shapesLaidOn(
+      overlaidOn(
+        given,
+        filings,
+        new Map<string, string | null>([...wrote, ...bodied, ...bodiesBeside(reading, references)])
+      ),
+      written.shapes
+    ),
     filings,
     references,
+    beside: bodied,
     noted,
     refusedBefore: was.flatMap((one) => one.refused),
     refused: now.flatMap((one) => one.refused),

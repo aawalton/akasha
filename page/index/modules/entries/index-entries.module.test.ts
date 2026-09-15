@@ -46,9 +46,9 @@ test("a file property is filed under the key a page carries rather than under it
 })
 
 test("the properties held in a file are read from the schema the index carries", () => {
-  const { root } = grounded()
+  const { root, repo } = grounded()
 
-  expect([...fileKeysAt(readingAt(root))]).toEqual([["code", null]])
+  expect([...fileKeysAt(readingAt(root, repo))]).toEqual([["code", null]])
 })
 
 test("a declared shape saying nothing about unique declares no identifier", () => {
@@ -59,7 +59,7 @@ test("a declared shape saying nothing about unique declares no identifier", () =
     slug: "held",
   })
 
-  expect([...uniquePropertiesAt(readingAt(index)).keys()]).toEqual([])
+  expect([...uniquePropertiesAt(readingAt(index, index)).keys()]).toEqual([])
 })
 
 test("a schema line that does say unique declares it still", () => {
@@ -72,7 +72,7 @@ test("a schema line that does say unique declares it still", () => {
     propertySlug: "id",
   })
 
-  expect([...uniquePropertiesAt(readingAt(index)).entries()]).toEqual([
+  expect([...uniquePropertiesAt(readingAt(index, index)).entries()]).toEqual([
     ["id", { key: "id", uniqueKind: "page" }],
   ])
 })
@@ -87,7 +87,7 @@ test("an identifier is read by the key its property states rather than by its sl
     propertySlug: "named",
   })
 
-  expect([...uniquePropertiesAt(readingAt(index)).entries()]).toEqual([
+  expect([...uniquePropertiesAt(readingAt(index, index)).entries()]).toEqual([
     ["held-name", { key: "named", uniqueKind: "page-type" }],
   ])
 })
@@ -101,7 +101,7 @@ test("a schema line stating no key declares no identifier", () => {
     slug: "id",
   })
 
-  expect([...uniquePropertiesAt(readingAt(index)).keys()]).toEqual([])
+  expect([...uniquePropertiesAt(readingAt(index, index)).keys()]).toEqual([])
 })
 
 test("a schema line stating a file name says the property is held in a file of that name", () => {
@@ -113,7 +113,7 @@ test("a schema line stating a file name says the property is held in a file of t
     fileName: "package.json",
   })
 
-  expect([...fileKeysAt(readingAt(index))]).toEqual([["manifest", "package.json"]])
+  expect([...fileKeysAt(readingAt(index, index))]).toEqual([["manifest", "package.json"]])
 })
 
 test("a stated file name holds a property in a file whatever page type the property is", () => {
@@ -125,7 +125,7 @@ test("a stated file name holds a property in a file whatever page type the prope
     fileName: "package.json",
   })
 
-  expect([...fileKeysAt(readingAt(index))]).toEqual([["manifest", "package.json"]])
+  expect([...fileKeysAt(readingAt(index, index))]).toEqual([["manifest", "package.json"]])
 })
 
 const EXTENDING = [
@@ -210,7 +210,7 @@ test("a declaration naming its page property outright reaches it though the bare
 })
 
 test("a page type the change carries reaches the page properties the index carries", () => {
-  const { root } = grounded()
+  const { root, repo } = grounded()
   const left = [
     {
       id: "9",
@@ -220,20 +220,20 @@ test("a page type the change carries reaches the page properties the index carri
     },
   ]
 
-  expect([...(filePropertiesOver(readingAt(root), left).get("module") ?? [])]).toEqual([
+  expect([...(filePropertiesOver(readingAt(root, repo), left).get("module") ?? [])]).toEqual([
     ["code", null],
   ])
 })
 
 test("a page type no page type page names is answered by nothing rather than by every key", () => {
-  const { root } = grounded()
+  const { root, repo } = grounded()
 
-  expect(filePropertiesOver(readingAt(root), []).get("note")).toBe(undefined)
+  expect(filePropertiesOver(readingAt(root, repo), []).get("note")).toBe(undefined)
 })
 
 test("what each page type holds in a file is answered off the index carrying no change", () => {
-  const { root } = grounded()
-  const reading = readingAt(root)
+  const { root, repo } = grounded()
+  const reading = readingAt(root, repo)
 
   expect(filePropertiesAt(reading)).toEqual(filePropertiesOver(reading, []))
 })

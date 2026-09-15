@@ -21,6 +21,10 @@ export const pageValueReading = {
     },
     {
       invariantKind: "departure",
+      statement: "Which page type a value is, is read here under either key a value states it as.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "One reader here answers empty text as empty text and another answers empty text as nothing.",
     },

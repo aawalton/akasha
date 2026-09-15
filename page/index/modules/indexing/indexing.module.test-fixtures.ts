@@ -7,7 +7,6 @@ import {
   indexingAt,
   refreshedFrom,
 } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
-import { shapesAt } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { settlingOver } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import { readingBuilding } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { shapeFileFor } from "akasha/page/index/shapes/index-shapes.index.code.ts"
@@ -26,6 +25,7 @@ import {
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
+import { shapeIn } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 
 export const A = idOf("a")
 export const B = idOf("b")
@@ -122,8 +122,13 @@ export const linesIn = (at: string): readonly string[] =>
 
 export const said = (at: string): unknown => JSON.parse(linesIn(at)[0] ?? "")
 
-export const shapeFiled = (root: string, pageTypeSlug: string, slug: string): unknown =>
-  shapesAt(readingBuilding(root)).get(`${pageTypeSlug}/${slug}`) ?? null
+export const shapeFiled = (root: string, pageTypeSlug: string, slug: string): unknown => {
+  for (const line of readingBuilding(root).lines(shapeFileFor(pageTypeSlug))) {
+    const held = shapeIn(line)
+    if (held !== null && held.slug === slug) return held
+  }
+  return null
+}
 
 export const noteShaped = (pageTypeSlug: string, targetPageTypeSlug: string | null): unknown => ({
   pageTypeSlug,

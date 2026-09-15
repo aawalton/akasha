@@ -9,6 +9,7 @@ import { indexShapes } from "akasha/page/index/shapes/index-shapes.index.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { slugsIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { shapesFiledAt } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 
 const ENDING = ".jsonl"
 
@@ -27,6 +28,8 @@ const NO_SCOPE = ""
 const ID = "id"
 
 const SLUG = "slug"
+
+const AT_PATH = "path"
 
 const HELD = "held"
 
@@ -190,12 +193,39 @@ export function namedFiled(
   filed(root, join(indexEdge.name, PAGE, ID, id, propertySlug, naming), lines, writeFileSync)
 }
 
+function pathCarrying(root: string, pageTypeSlug: string, slug: string): string | null {
+  const path = join(
+    indexIn(root),
+    indexIdentity.name,
+    PAGE_TYPE,
+    pageTypeSlug,
+    SLUG,
+    `${slug}${ENDING}`
+  )
+  if (!existsSync(path)) return null
+  for (const line of readFileSync(path, "utf8").split("\n")) {
+    if (line.trim() === "") continue
+    try {
+      const said = JSON.parse(line) as Record<string, unknown>
+      const at = said[AT_PATH]
+      if (typeof at === "string") return at
+    } catch {}
+  }
+  return null
+}
+
 export function shapeAlsoFiled(
   root: string,
   pageTypeSlug: string,
   lines: readonly unknown[]
 ): undefined {
   filed(root, join(indexShapes.name, PAGE_PROPERTY, pageTypeSlug), lines, appendFileSync)
+  const page = pathCarrying(root, PAGE_TYPE, pageTypeSlug)
+  const beside = page === null ? null : shapesFiledAt(page)
+  if (beside === null) return
+  const to = join(root, beside)
+  mkdirSync(dirname(to), { recursive: true })
+  appendFileSync(to, bodyOf(lines))
 }
 
 export function lineFiled(root: string, at: string, line: string): undefined {

@@ -24,6 +24,7 @@ import {
   reachingBuilt,
 } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import { under } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
+import { shapesAmong } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { knownIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import {
   refusingEmpty,
@@ -57,6 +58,8 @@ type Pending = {
   readonly before: string | null
   readonly after: string | null
 }
+
+const linesKept = (one: string): boolean => one !== ""
 
 export type Indexing = {
   readonly wrote: (path: string, body: string, before: string | null) => undefined
@@ -134,7 +137,10 @@ export function refreshedFrom(
   const drift = [reconcile(identity, root, put, done)]
   const shaped = values.flatMap((one) => shapeFiled(one))
   drift.push(reconcile(shaped, root, put, done))
-  const known = knownIn(readingBuilding(root), (path) => valueAt(path, repo))
+  if (put) {
+    wholeInto(repo, shapesAmong(held.map((one) => ({ ...one, path: under(repo, one.path) }))))
+  }
+  const known = knownIn(readingBuilding(root, repo), (path) => valueAt(path, repo))
   const beside = bodiesAt(repo)
   const filed = held.map((one) =>
     edgeIn(
@@ -194,6 +200,12 @@ function besideInto(repo: string, filings: readonly Filing[]): undefined {
   for (const one of filings) keepDelta(join(repo, one.at), one, repo)
 }
 
+function wholeInto(repo: string, beside: ReadonlyMap<string, string>): undefined {
+  for (const [at, whole] of beside) {
+    keepWhole(join(repo, at), whole.split("\n").filter(linesKept), repo)
+  }
+}
+
 export function keepingIn(repo: string): Indexing {
   return indexingAt(indexIn(repo), repo)
 }
@@ -221,6 +233,7 @@ export function indexingAt(root: string, repo: string): Indexing {
       )
       filedInto(root, found.filings)
       besideInto(repo, found.references)
+      wholeInto(repo, found.beside)
       return [...found.noted, ...found.refusedBefore, ...found.refused]
     },
   }

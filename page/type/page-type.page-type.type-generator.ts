@@ -11,11 +11,6 @@ import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { slugsIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { bodyOf, schemaAt } from "akasha/page/type/modules/type-schema/type-schema.module.code.ts"
 import { turnedBy } from "akasha/page/type/modules/type-turning/type-turning.module.code.ts"
-import {
-  shapedIn,
-  bodyOf as shapesBodyOf,
-  shapesFiledAt,
-} from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -24,8 +19,6 @@ const SECTION = "types"
 const HOLDS = "ts"
 
 const SCHEMA = "schema"
-
-const SHAPES = "shapes"
 
 const LINES = "jsonl"
 
@@ -216,26 +209,6 @@ function schemaInto(
   written.push({ kind: "add", path: at, content: bodyOf(carried, shadow.index.shapesAt()) })
 }
 
-function shapesInto(
-  written: Adding[],
-  shadow: Shadow,
-  path: string,
-  value: Record<string, unknown>,
-  slug: string
-): undefined {
-  if (value[SHAPES] !== LINES) return
-  const at = shapesFiledAt(path)
-  if (at === null) return
-  const found: Shape[] = []
-  for (const listed of shadow.index.everyOfType(slug)) {
-    const held = shadow.pageOf(listed.path)
-    if (held === null) continue
-    const one = shapedIn(held)
-    if (one !== null) found.push(one)
-  }
-  written.push({ kind: "add", path: at, content: shapesBodyOf(found) })
-}
-
 export function generateTypes(_root: string, shadow: Shadow): readonly Adding[] {
   const written: Adding[] = []
   const resolving = resolvingIn(shadow)
@@ -246,7 +219,6 @@ export function generateTypes(_root: string, shadow: Shadow): readonly Adding[] 
     if (typeof slug !== "string") continue
     typedInto(written, shadow, listed.path, value, slug, resolving)
     schemaInto(written, shadow, listed.path, value, slug)
-    shapesInto(written, shadow, listed.path, value, slug)
   }
   return written
 }
