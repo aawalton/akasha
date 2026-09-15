@@ -329,8 +329,8 @@ export function settlingOver(
   const carriedOn = leftBehind.flatMap((one) => {
     const to = movedTo.get(one.at)
     if (to === undefined) return []
-    const said = JSON.parse(one.line) as { readonly path?: unknown }
-    if (typeof said.path !== "string") return []
+    const said = JSON.parse(one.line) as { readonly path?: unknown; readonly id?: unknown }
+    if (typeof said.path !== "string" || typeof said.id !== "string") return []
     if (carriedAt.has(said.path) || refilingAt.has(said.path)) return []
     return [{ at: to, line: one.line }]
   })

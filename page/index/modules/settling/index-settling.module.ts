@@ -140,11 +140,16 @@ export const indexSettling = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A page moving takes to its new place the references it had at its old place.",
+      statement: "A page moving takes to its new place the names it had at its old place.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A reference from a page the settle refiles is left out of what moves that way.",
+      statement: "A name from a page the settle refiles is left out of what moves that way.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement:
+        "An import is not taken that way, a name reaching a page by id and an import by path.",
     },
     {
       invariantKind: "invariant-kind/departure",
