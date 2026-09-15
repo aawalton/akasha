@@ -10,11 +10,11 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
 const ROOT = "akasha/"
 
-const UNDER = "changes/"
+const UNDER = "change/"
 
 const SPELT = `${ROOT}${UNDER}`
 
-const REACHED = /^akasha\/changes\/(agent|mechanical)\//
+const REACHED = /^akasha\/change\/(agent|mechanical)\//
 
 const CODE = ".code.ts"
 

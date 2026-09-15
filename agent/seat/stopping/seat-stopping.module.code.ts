@@ -159,8 +159,8 @@ export async function took(
   if (here.length === 0) return true
   const changes: readonly Asking[] = here.map((path) => ({ at: TAKE, given: { at: path } }))
   const landed = await landing(done, given.root, changes, message)
-  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  const gone = wrong.length === 0
+  const gone = !("refusals" in landed)
+  if (gone) for (const one of landed.wrong) process.stderr.write(`${one}\n`)
   if (gone) dropReadings(given.root, here)
   return gone
 }

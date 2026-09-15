@@ -188,8 +188,8 @@ export async function statedSeat(
     [{ at: PUT, given }],
     `${seatName}: the seat is in akasha as what it states`
   )
-  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return refusing(wrong, done)
+  const refused = refusalsIn(landed)
+  if (refused.length > 0) return refusing(refused, done)
   return { kind: "wrote" }
 }
 
@@ -200,8 +200,10 @@ export type Landing = (
   message: string
 ) => ReturnType<typeof landedMechanically>
 
-function wrongIn(landed: Awaited<ReturnType<Landing>>): readonly string[] {
-  return "refusals" in landed ? landed.refusals : landed.wrong
+function refusalsIn(landed: Awaited<ReturnType<Landing>>): readonly string[] {
+  if ("refusals" in landed) return landed.refusals
+  for (const one of landed.wrong) process.stderr.write(`${one}\n`)
+  return []
 }
 
 export function unfiled(wrong: readonly string[]): boolean {
@@ -218,11 +220,11 @@ export async function tookSeat(
   if (!existsSync(join(root, page))) return { kind: "unchanged" }
   const message = `${seatName} stopped, ${why}, so its page goes`
   const done: string[] = []
-  const wrong = wrongIn(await landing(done, root, [{ at: TAKE, given: { at: page } }], message))
-  if (wrong.length === 0) return { kind: "took" }
-  if (!unfiled(wrong)) return refusing(wrong, done)
+  const refused = refusalsIn(await landing(done, root, [{ at: TAKE, given: { at: page } }], message))
+  if (refused.length === 0) return { kind: "took" }
+  if (!unfiled(refused)) return refusing(refused, done)
   const taken: readonly Asking[] = [{ at: TAKE_FILE, given: { at: page } }]
-  const left = wrongIn(await landing(done, root, taken, message))
+  const left = refusalsIn(await landing(done, root, taken, message))
   if (left.length > 0) return refusing(left, done)
   return { kind: "took" }
 }

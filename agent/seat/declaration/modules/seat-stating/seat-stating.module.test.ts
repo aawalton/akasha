@@ -320,3 +320,36 @@ test("a seat written where no page is there hands in no body it read", async () 
   expect(asked.length).toBe(1)
   expect(asked[0]?.given).not.toHaveProperty("old")
 })
+
+test("a seat whose landing committed and then found something wrong after it is written", async () => {
+  const landing: Landing = () =>
+    Promise.resolve({
+      base: COMMITTED,
+      landed: [],
+      formatted: [],
+      said: [],
+      wrong: ["no workstation unit was weighed"],
+      commit: COMMITTED,
+    })
+  expect(await statedSeat(ROOT, WHOLE, SITS_NOWHERE, landing)).toEqual({ kind: "wrote" })
+})
+
+test("a stop whose landing committed and then found something wrong after it took the page", async () => {
+  const world = scratchWorld()
+  try {
+    const root = world.rootFor("seat-stating-")
+    writing(root, PAGE_AT, PAGE_BODY)
+    const landing: Landing = () =>
+      Promise.resolve({
+        base: COMMITTED,
+        landed: [],
+        formatted: [],
+        said: [],
+        wrong: ["no workstation unit was weighed"],
+        commit: COMMITTED,
+      })
+    expect(await tookSeat(root, STOPPED, "deliberate", landing)).toEqual({ kind: "took" })
+  } finally {
+    world.sweep()
+  }
+})

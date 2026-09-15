@@ -232,7 +232,7 @@ test("a stylesheet naming a file beside it is respelled from where the body sits
 })
 
 test("a config naming a file by climbing follows that file", () => {
-  const was = "alan/harness/code-editor/data-interface/pages/work-tree/work-tree.d.ts"
+  const was = "alan/harness/code-editor/data-interfaces/pages/work-tree/work-tree.d.ts"
   const now = "alan/harness/code-editor/interfaces/work-tree/work-tree.d.ts"
   const text = `{ "files": ["../../../${was}"] }\n`
 
@@ -248,8 +248,8 @@ test("a run naming as many files that moved as it shares an ending with is left 
 })
 
 test("a run naming a folder rather than a whole path is left alone", () => {
-  const text = `@source "../../../page/ui/**/*.{ts,tsx}";\n`
-  const moved = new Map([["page/ui/held/held.component.code.tsx", "pages/parts/held.code.tsx"]])
+  const text = `@source "../../../pages/ui/**/*.{ts,tsx}";\n`
+  const moved = new Map([["pages/ui/held/held.component.code.tsx", "pages/parts/held.code.tsx"]])
 
   expect(ranOverRuns(LOOK, LOOK, text, moved).edits).toEqual([])
 })
@@ -278,13 +278,13 @@ const STYLES = "held/web/look/held-web-look.stylesheet.styles.css"
 
 const SOURCED = `@source "../../../code-system/router-apps/**/*.{ts,tsx}";\n`
 
-const SOURCED_AT = `@source "../../../code/router-app/**/*.{ts,tsx}";\n`
+const SOURCED_AT = `@source "../../../code/router-apps/**/*.{ts,tsx}";\n`
 
-const SCRIPT = "code/ios-app/scripts/stage.shell-script.sh"
+const SCRIPT = "code/ios-apps/scripts/stage.shell-script.sh"
 
 const RAN = `. "$AKASHA_ROOT/code-system/ios-apps/stage/stage.module.code.ts"\n`
 
-const RAN_AT = `. "$AKASHA_ROOT/code/ios-app/stage/stage.module.code.ts"\n`
+const RAN_AT = `. "$AKASHA_ROOT/code/ios-apps/stage/stage.module.code.ts"\n`
 
 function carriedOver(at: string, text: string): Answer {
   return gathered([repointed(worldOf({ [at]: text }), { was: at, now: at, carried: MOVING })])
@@ -305,7 +305,7 @@ test("a run closing on a separator keeps that separator once the folder moves", 
 test("a name closing on a separator keeps that separator once the folder moves", () => {
   const text = `export const at = "code-system/ios-apps/"\n`
 
-  expect(carriedBody(TABLE, text)).toBe(`export const at = "code/ios-app/"\n`)
+  expect(carriedBody(TABLE, text)).toBe(`export const at = "code/ios-apps/"\n`)
 })
 
 test("a run reached through a shell variable follows the folder that moved", () => {

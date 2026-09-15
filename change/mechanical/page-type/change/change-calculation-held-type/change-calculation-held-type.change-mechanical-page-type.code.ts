@@ -21,7 +21,7 @@ const HOLDS = "ts"
 const SLUG = "slug"
 
 const WORK_FROM =
-  /import type \{[^}]*\} from "akasha\/pages\/computed-properties\/computed-property\.page-type\.ts"/
+  /import type \{[^}]*\} from "akasha\/page\/computed-property\/computed-property\.page-type\.ts"/
 
 const WORKED = /export const work: Work<\s*([\w]+)\s*,\s*([^<>]+?)\s*>/d
 

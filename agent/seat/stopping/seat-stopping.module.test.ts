@@ -239,12 +239,12 @@ test("a reading is kept where the landing refused the page it names", async () =
   world.sweep()
 })
 
-test("a landing answering something wrong leaves the reading where it is", async () => {
+test("a landing that committed and then found something wrong after it still took the page", async () => {
   const { root, oid } = heldIn()
   recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, carriedOid: null })
-  const held = noting([], { ...LANDED, wrong: ["the check refused"] })
-  expect(await took(givenIn(root), [HELD_AT], MESSAGE, [], held)).toBe(false)
-  expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
+  const held = noting([], { ...LANDED, wrong: ["no workstation unit was weighed"] })
+  expect(await took(givenIn(root), [HELD_AT], MESSAGE, [], held)).toBe(true)
+  expect(readingIn(root, AGENT, HELD_AT)).toBe(null)
   world.sweep()
 })
 

@@ -22,9 +22,9 @@ export const TOKENS_IMPORT_AT = `@import "../../tokens/token-values/token-values
 export const WRAPPED = "services/workstations/service-wrapping/service-wrapping.module.code.ts"
 
 export const WRAPPED_AT =
-  "infrastructure/service/workstation/service-wrapping/service-wrapping.module.code.ts"
+  "infrastructure/services/workstations/service-wrapping/service-wrapping.module.code.ts"
 
-export const SERVICE = "infrastructure/service/pages/page-service.service.ts"
+export const SERVICE = "infrastructure/services/pages/pages-service.service.ts"
 
 export const CONFIG = "code/editor/extension/tsconfig.json"
 

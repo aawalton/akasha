@@ -93,7 +93,7 @@ function dashboardsData(): Record<string, string> {
   const data: Record<string, string> = {}
   for (const slug of DASHBOARD_SLUGS) {
     data[`${slug}.json`] = readFileSync(
-      join(import.meta.dir, "..", "dashboards", "pages", slug, `${slug}.dashboard.layout.json`),
+      join(import.meta.dir, "..", "dashboard", "pages", slug, `${slug}.dashboard.layout.json`),
       "utf8"
     )
   }
