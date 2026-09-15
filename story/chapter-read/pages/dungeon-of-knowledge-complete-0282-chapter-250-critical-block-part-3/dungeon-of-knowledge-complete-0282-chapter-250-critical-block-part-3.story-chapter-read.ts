@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0282Chapter250CriticalBlockPart3 = {
   id: "01a0672c-ebdc-7001-87ae-cd9ef64d53f1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0282-chapter-250-critical-block-part-3",
   title: "Chapter 250: Critical Block (Part 3)",
   story: "story-read/dungeon-of-knowledge-complete",

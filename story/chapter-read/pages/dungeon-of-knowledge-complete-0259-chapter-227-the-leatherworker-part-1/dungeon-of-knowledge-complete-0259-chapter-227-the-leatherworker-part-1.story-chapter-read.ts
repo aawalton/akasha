@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0259Chapter227TheLeatherworkerPart1 = {
   id: "01a0672c-ebd4-7000-826c-306d2585dfe5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0259-chapter-227-the-leatherworker-part-1",
   title: "Chapter 227: The Leatherworker (Part 1)",
   story: "story-read/dungeon-of-knowledge-complete",

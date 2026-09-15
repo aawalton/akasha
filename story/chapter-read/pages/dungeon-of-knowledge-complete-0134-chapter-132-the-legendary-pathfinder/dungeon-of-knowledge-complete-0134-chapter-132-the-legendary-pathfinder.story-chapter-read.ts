@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0134Chapter132TheLegendaryPathfinder = {
   id: "01a0672c-eb85-7000-89ba-da1b34ccf2dd",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0134-chapter-132-the-legendary-pathfinder",
   title: "Chapter 132: The Legendary Pathfinder",
   story: "story-read/dungeon-of-knowledge-complete",

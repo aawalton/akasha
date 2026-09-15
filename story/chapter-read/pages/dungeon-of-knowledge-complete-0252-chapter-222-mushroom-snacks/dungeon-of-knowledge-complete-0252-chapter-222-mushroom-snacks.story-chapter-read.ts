@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0252Chapter222MushroomSnacks = {
   id: "01a0672c-ebd1-7006-8861-0dfc9bd6c151",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0252-chapter-222-mushroom-snacks",
   title: "Chapter 222: Mushroom Snacks",
   story: "story-read/dungeon-of-knowledge-complete",

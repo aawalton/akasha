@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0157Chapter154AGiftForAFriend = {
   id: "01a0672c-eb9d-7000-bf92-d6289781f7ef",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0157-chapter-154-a-gift-for-a-friend",
   title: "Chapter 154: A Gift for a Friend",
   story: "story-read/dungeon-of-knowledge-complete",

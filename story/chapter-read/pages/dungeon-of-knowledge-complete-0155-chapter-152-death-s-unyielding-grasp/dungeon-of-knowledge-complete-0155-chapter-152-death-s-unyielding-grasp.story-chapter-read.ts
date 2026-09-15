@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0155Chapter152DeathSUnyieldingGrasp = {
   id: "01a0672c-eb99-7000-8636-7923e9a2516b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0155-chapter-152-death-s-unyielding-grasp",
   title: "Chapter 152: Death’s Unyielding Grasp",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0105Chapter104CalligraphyWorkbook = {
   id: "01a0672c-eb6e-7001-bd24-8c1c2fb9b266",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0105-chapter-104-calligraphy-workbook",
   title: "Chapter 104: Calligraphy Workbook",
   story: "story-read/dungeon-of-knowledge-complete",

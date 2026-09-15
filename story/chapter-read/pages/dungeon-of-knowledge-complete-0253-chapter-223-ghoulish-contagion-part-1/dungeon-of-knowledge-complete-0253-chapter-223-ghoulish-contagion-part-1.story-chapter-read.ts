@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0253Chapter223GhoulishContagionPart1 = {
   id: "01a0672c-ebd2-7000-a6d8-7de4a4309b2e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0253-chapter-223-ghoulish-contagion-part-1",
   title: "Chapter 223: Ghoulish Contagion (Part 1)",
   story: "story-read/dungeon-of-knowledge-complete",

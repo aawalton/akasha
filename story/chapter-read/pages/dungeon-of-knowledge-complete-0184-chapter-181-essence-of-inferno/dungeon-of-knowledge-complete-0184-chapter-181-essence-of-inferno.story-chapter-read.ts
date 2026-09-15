@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0184Chapter181EssenceOfInferno = {
   id: "01a0672c-ebb8-7000-a764-abdbb8bfbcd1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0184-chapter-181-essence-of-inferno",
   title: "Chapter 181: Essence of Inferno",
   story: "story-read/dungeon-of-knowledge-complete",

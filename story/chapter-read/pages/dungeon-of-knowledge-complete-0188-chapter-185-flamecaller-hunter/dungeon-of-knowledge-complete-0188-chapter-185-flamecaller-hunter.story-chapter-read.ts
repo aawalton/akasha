@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0188Chapter185FlamecallerHunter = {
   id: "01a0672c-ebbb-7000-aa3d-09802f48baca",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0188-chapter-185-flamecaller-hunter",
   title: "Chapter 185: Flamecaller Hunter",
   story: "story-read/dungeon-of-knowledge-complete",

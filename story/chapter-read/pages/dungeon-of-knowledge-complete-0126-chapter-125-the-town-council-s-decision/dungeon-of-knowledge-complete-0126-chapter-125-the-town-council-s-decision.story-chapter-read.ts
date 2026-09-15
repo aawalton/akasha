@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0126Chapter125TheTownCouncilSDecision = {
   id: "01a0672c-eb7e-7000-a13b-020e4e0f6817",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0126-chapter-125-the-town-council-s-decision",
   title: "Chapter 125: The Town Council’s Decision",
   story: "story-read/dungeon-of-knowledge-complete",

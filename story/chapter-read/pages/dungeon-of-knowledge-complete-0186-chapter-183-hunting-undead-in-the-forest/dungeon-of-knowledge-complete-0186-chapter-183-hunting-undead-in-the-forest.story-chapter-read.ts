@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0186Chapter183HuntingUndeadInTheForest = {
   id: "01a0672c-ebb9-7000-953a-020a6ead3e60",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0186-chapter-183-hunting-undead-in-the-forest",
   title: "Chapter 183: Hunting Undead in the Forest",
   story: "story-read/dungeon-of-knowledge-complete",

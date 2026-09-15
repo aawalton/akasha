@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0138Chapter136BakahnVillage = {
   id: "01a0672c-eb89-7001-833a-7e39cd163802",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0138-chapter-136-bakahn-village",
   title: "Chapter 136: Bakahn Village",
   story: "story-read/dungeon-of-knowledge-complete",

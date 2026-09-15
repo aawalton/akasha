@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0141Chapter139DeathMagic = {
   id: "01a0672c-eb8d-7000-8bc6-505a73ed49d1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0141-chapter-139-death-magic",
   title: "Chapter 139: Death Magic",
   story: "story-read/dungeon-of-knowledge-complete",

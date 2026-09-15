@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0210Chapter202TheEndInSight2Of2 = {
   id: "01a0672c-ebca-7001-85fd-23d730325128",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0210-chapter-202-the-end-in-sight-2-of-2",
   title: "Chapter 202: The End in Sight (2 of 2)",
   story: "story-read/dungeon-of-knowledge-complete",

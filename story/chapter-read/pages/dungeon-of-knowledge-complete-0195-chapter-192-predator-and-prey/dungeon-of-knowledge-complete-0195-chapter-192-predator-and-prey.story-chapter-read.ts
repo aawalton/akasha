@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0195Chapter192PredatorAndPrey = {
   id: "01a0672c-ebc1-7000-961f-acce824f45ee",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0195-chapter-192-predator-and-prey",
   title: "Chapter 192: Predator and Prey",
   story: "story-read/dungeon-of-knowledge-complete",

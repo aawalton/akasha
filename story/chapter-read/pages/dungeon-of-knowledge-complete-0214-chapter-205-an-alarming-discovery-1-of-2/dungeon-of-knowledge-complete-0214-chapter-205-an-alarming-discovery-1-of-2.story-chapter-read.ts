@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0214Chapter205AnAlarmingDiscovery1Of2 = {
   id: "01a0672c-ebcb-7001-94d7-cd7e85999c61",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0214-chapter-205-an-alarming-discovery-1-of-2",
   title: "Chapter 205: An Alarming Discovery (1 of 2)",
   story: "story-read/dungeon-of-knowledge-complete",

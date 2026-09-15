@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0118Chapter117RageAndLoneliness = {
   id: "01a0672c-eb78-7001-8e02-6f96f47fea78",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0118-chapter-117-rage-and-loneliness",
   title: "Chapter 117: Rage and Loneliness",
   story: "story-read/dungeon-of-knowledge-complete",

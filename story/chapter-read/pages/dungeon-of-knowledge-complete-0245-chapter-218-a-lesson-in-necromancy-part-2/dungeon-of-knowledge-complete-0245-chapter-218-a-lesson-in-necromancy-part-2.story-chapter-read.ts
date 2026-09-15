@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0245Chapter218ALessonInNecromancyPart2 = {
   id: "01a0672c-ebd0-7005-b8d4-da500aeb0012",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0245-chapter-218-a-lesson-in-necromancy-part-2",
   title: "Chapter 218: A Lesson in Necromancy (Part 2)",
   story: "story-read/dungeon-of-knowledge-complete",

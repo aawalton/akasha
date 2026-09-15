@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0172Chapter169MarketForces = {
   id: "01a0672c-ebac-7001-a727-983f6bc425c0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0172-chapter-169-market-forces",
   title: "Chapter 169: Market Forces",
   story: "story-read/dungeon-of-knowledge-complete",

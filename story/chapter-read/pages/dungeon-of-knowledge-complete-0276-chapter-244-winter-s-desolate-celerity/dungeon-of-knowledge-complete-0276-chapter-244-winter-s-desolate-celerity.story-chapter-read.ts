@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0276Chapter244WinterSDesolateCelerity = {
   id: "01a0672c-ebda-7001-9839-87af875d3547",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0276-chapter-244-winter-s-desolate-celerity",
   title: "Chapter 244: Winter’s Desolate Celerity",
   story: "story-read/dungeon-of-knowledge-complete",

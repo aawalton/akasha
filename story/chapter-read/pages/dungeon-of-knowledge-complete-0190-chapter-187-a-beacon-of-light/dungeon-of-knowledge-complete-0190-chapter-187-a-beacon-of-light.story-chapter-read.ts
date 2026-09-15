@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0190Chapter187ABeaconOfLight = {
   id: "01a0672c-ebbc-7001-adc2-8c979a602797",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0190-chapter-187-a-beacon-of-light",
   title: "Chapter 187: A Beacon of Light",
   story: "story-read/dungeon-of-knowledge-complete",

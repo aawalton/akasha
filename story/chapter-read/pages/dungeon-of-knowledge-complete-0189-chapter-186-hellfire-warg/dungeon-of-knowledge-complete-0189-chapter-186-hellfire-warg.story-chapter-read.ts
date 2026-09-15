@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0189Chapter186HellfireWarg = {
   id: "01a0672c-ebbc-7000-b485-63bd25d5ab4f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0189-chapter-186-hellfire-warg",
   title: "Chapter 186: Hellfire Warg",
   story: "story-read/dungeon-of-knowledge-complete",

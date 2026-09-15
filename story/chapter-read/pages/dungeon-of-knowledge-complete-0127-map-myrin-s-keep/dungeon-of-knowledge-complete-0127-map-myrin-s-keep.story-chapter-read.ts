@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0127MapMyrinSKeep = {
   id: "01a0672c-eb81-7000-bd99-b892bcd3ecf6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0127-map-myrin-s-keep",
   title: "Map: Myrin's Keep",
   story: "story-read/dungeon-of-knowledge-complete",

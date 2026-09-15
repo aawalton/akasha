@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0262Chapter230RivalsPart2 = {
   id: "01a0672c-ebd7-7000-ae04-486f9436f190",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0262-chapter-230-rivals-part-2",
   title: "Chapter 230: Rivals (Part 2)",
   story: "story-read/dungeon-of-knowledge-complete",

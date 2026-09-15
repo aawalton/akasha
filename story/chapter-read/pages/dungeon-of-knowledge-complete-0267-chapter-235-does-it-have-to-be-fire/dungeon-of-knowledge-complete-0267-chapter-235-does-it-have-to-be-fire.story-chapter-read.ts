@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0267Chapter235DoesItHaveToBeFire = {
   id: "01a0672c-ebd8-7002-ada5-cd0d53c0719e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0267-chapter-235-does-it-have-to-be-fire",
   title: "Chapter 235: Does It Have To Be Fire?",
   story: "story-read/dungeon-of-knowledge-complete",

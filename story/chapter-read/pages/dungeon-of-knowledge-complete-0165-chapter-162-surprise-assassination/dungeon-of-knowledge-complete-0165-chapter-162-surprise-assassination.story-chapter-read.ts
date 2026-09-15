@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0165Chapter162SurpriseAssassination = {
   id: "01a0672c-eba6-7000-89d7-fe1823afeb17",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0165-chapter-162-surprise-assassination",
   title: "Chapter 162: Surprise Assassination",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0239Chapter216KirMoganPart2 = {
   id: "01a0672c-ebcf-700a-8544-9824af01559e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0239-chapter-216-kir-mogan-part-2",
   title: "Chapter 216: Kir’mogan (Part 2)",
   story: "story-read/dungeon-of-knowledge-complete",

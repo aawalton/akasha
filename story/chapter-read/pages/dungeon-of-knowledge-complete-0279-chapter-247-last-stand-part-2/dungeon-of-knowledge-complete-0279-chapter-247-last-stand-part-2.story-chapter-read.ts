@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0279Chapter247LastStandPart2 = {
   id: "01a0672c-ebdb-7002-a474-6b6c3343850a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0279-chapter-247-last-stand-part-2",
   title: "Chapter 247: Last Stand (Part 2)",
   story: "story-read/dungeon-of-knowledge-complete",

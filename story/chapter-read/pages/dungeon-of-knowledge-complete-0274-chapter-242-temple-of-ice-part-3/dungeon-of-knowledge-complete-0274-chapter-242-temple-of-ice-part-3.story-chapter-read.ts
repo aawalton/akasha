@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0274Chapter242TempleOfIcePart3 = {
   id: "01a0672c-ebd9-7006-b89e-0e7bc3d0d769",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0274-chapter-242-temple-of-ice-part-3",
   title: "Chapter 242: Temple of Ice (Part 3)",
   story: "story-read/dungeon-of-knowledge-complete",

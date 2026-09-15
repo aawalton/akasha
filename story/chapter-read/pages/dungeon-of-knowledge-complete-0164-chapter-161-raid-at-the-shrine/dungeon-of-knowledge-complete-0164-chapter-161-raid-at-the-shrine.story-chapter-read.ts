@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0164Chapter161RaidAtTheShrine = {
   id: "01a0672c-eba5-7000-8c54-d0fa763101e8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0164-chapter-161-raid-at-the-shrine",
   title: "Chapter 161: Raid at the Shrine",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0098Chapter97Naia = {
   id: "01a0672c-eb67-7001-bd3b-ccf597b38871",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0098-chapter-97-naia",
   title: "Chapter 97: Naia",
   story: "story-read/dungeon-of-knowledge-complete",

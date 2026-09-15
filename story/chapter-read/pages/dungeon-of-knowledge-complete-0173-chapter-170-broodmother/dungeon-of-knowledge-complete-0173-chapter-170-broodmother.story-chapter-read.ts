@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0173Chapter170Broodmother = {
   id: "01a0672c-ebad-7000-ae88-67f1c3152316",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0173-chapter-170-broodmother",
   title: "Chapter 170: Broodmother",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0275Chapter243MokFrejaSGlacialOrb = {
   id: "01a0672c-ebda-7000-b055-83f1302191d0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0275-chapter-243-mok-freja-s-glacial-orb",
   title: "Chapter 243: Mok’freja’s Glacial Orb",
   story: "story-read/dungeon-of-knowledge-complete",
