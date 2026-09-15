@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraExistForLoveRemixes = {
   id: "01a0676a-d71d-704e-be4c-3ebf780adff1",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-exist-for-love-remixes",
   title: "Exist for Love (Remixes)",
   partOfCollections: ["artist/aurora"],

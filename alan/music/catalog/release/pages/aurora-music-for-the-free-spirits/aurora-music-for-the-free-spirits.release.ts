@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraMusicForTheFreeSpirits = {
   id: "01a0676a-d725-701c-9ca4-8c6cf4378418",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-music-for-the-free-spirits",
   title: "MUSIC FOR THE FREE SPIRITS",
   partOfCollections: ["artist/aurora"],

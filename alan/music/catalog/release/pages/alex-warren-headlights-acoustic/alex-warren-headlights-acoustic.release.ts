@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const alexWarrenHeadlightsAcoustic = {
   id: "01a0676a-d720-7009-8430-d8d4bdcf3ff7",
-  type: "release",
+  type: "page-type/release",
   slug: "alex-warren-headlights-acoustic",
   title: "Headlights (Acoustic)",
   partOfCollections: ["artist/alex-warren"],

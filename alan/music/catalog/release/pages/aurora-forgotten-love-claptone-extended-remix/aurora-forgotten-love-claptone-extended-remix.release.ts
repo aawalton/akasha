@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraForgottenLoveClaptoneExtendedRemix = {
   id: "01a0676a-d71e-702e-896c-a1300a626c14",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-forgotten-love-claptone-extended-remix",
   title: "Forgotten Love (Claptone Extended Remix)",
   partOfCollections: ["artist/aurora"],

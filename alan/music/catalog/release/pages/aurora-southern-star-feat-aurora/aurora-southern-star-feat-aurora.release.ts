@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraSouthernStarFeatAurora = {
   id: "01a0676a-d729-7070-99e0-03070400ad48",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-southern-star-feat-aurora",
   title: "Southern Star (feat. AURORA)",
   partOfCollections: ["artist/aurora"],

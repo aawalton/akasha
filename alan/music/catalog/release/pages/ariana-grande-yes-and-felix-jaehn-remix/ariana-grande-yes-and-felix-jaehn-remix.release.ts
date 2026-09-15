@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeYesAndFelixJaehnRemix = {
   id: "01a0676a-d731-704d-8c02-bf64c1e473ac",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-yes-and-felix-jaehn-remix",
   title: "yes, and? (Felix Jaehn Remix)",
   partOfCollections: ["artist/ariana-grande"],

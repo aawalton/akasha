@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraAllMyDemonsGreetingMeAsAFriendDeluxe = {
   id: "01a0676a-d716-7020-9d00-0513b4d3998c",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
   title: "All My Demons Greeting Me as a Friend (Deluxe)",
   partOfCollections: ["artist/aurora"],

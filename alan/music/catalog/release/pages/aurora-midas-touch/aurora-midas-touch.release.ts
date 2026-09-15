@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraMidasTouch = {
   id: "01a0676a-d724-705d-906f-e5ee461cfa45",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-midas-touch",
   title: "Midas Touch",
   partOfCollections: ["artist/aurora"],

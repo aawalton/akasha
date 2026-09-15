@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const alexWarrenFeverDream = {
   id: "01a0a59d-ca7e-7077-8c2b-34c72563b8b1",
-  type: "release",
+  type: "page-type/release",
   slug: "alex-warren-fever-dream",
   ownLength: 2.557166666666667,
   ownProgress: 0,

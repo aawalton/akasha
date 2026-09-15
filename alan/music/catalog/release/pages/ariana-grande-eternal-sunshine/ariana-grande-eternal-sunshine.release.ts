@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeEternalSunshine = {
   id: "01a0676a-d71d-7024-9764-ce7e515bb494",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-eternal-sunshine",
   title: "eternal sunshine",
   partOfCollections: ["artist/ariana-grande"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraParamourFeatAurora = {
   id: "01a0676a-d726-705e-8c8a-a8951b099d04",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-paramour-feat-aurora",
   title: "PARAMOUR (feat. AURORA)",
   partOfCollections: ["artist/aurora"],

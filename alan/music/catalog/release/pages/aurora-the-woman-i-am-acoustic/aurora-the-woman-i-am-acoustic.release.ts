@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraTheWomanIAmAcoustic = {
   id: "01a0676a-d72e-701f-aad4-dfe3cd6bd0e2",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-the-woman-i-am-acoustic",
   title: "The Woman I Am (Acoustic)",
   partOfCollections: ["artist/aurora"],

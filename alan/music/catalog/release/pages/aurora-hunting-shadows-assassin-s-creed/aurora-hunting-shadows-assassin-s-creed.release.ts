@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraHuntingShadowsAssassinSCreed = {
   id: "01a0676a-d720-7074-a8f7-ffd8995facac",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-hunting-shadows-assassin-s-creed",
   title: "Hunting Shadows (Assassin's Creed)",
   partOfCollections: ["artist/aurora"],

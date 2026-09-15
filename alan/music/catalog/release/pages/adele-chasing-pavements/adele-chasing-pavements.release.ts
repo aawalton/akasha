@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const adeleChasingPavements = {
   id: "01a0676a-d71a-701e-9e79-5a4e675238b7",
-  type: "release",
+  type: "page-type/release",
   slug: "adele-chasing-pavements",
   title: "Chasing Pavements",
   partOfCollections: ["artist/adele"],

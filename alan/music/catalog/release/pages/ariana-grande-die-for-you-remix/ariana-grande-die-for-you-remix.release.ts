@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeDieForYouRemix = {
   id: "01a0676a-d71c-7012-824c-db9ca1da6fee",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-die-for-you-remix",
   title: "Die For You (Remix)",
   partOfCollections: ["artist/ariana-grande"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeRainOnMePurpleDiscoMachineRemix = {
   id: "01a0676a-d727-7045-8bce-031b17730445",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-rain-on-me-purple-disco-machine-remix",
   title: "Rain On Me (Purple Disco Machine Remix)",
   partOfCollections: ["artist/ariana-grande"],

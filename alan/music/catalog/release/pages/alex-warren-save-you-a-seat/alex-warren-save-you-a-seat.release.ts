@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const alexWarrenSaveYouASeat = {
   id: "01a0676a-d728-7043-b664-1efeb3e78689",
-  type: "release",
+  type: "page-type/release",
   slug: "alex-warren-save-you-a-seat",
   title: "Save You a Seat",
   partOfCollections: ["artist/alex-warren"],

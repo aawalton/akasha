@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const alexWarrenBeforeYouLeaveMeTelykastRemix = {
   id: "01a0676a-d718-7037-a7d8-f7e47a415682",
-  type: "release",
+  type: "page-type/release",
   slug: "alex-warren-before-you-leave-me-telykast-remix",
   title: "Before You Leave Me (TELYKAST Remix)",
   partOfCollections: ["artist/alex-warren"],

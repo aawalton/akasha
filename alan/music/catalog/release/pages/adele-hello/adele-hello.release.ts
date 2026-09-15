@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const adeleHello = {
   id: "01a0676a-d720-7029-ac6e-827796ea3def",
-  type: "release",
+  type: "page-type/release",
   slug: "adele-hello",
   title: "Hello",
   partOfCollections: ["artist/adele"],

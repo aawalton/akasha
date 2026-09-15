@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraTheSeedFeatAnnaLapwoodLiveFromTheRoyalAlbertHall = {
   id: "01a0676a-d72e-7008-9857-95871b6cfb30",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-the-seed-feat-anna-lapwood-live-from-the-royal-albert-hall",
   title: "The Seed (feat. Anna Lapwood) [Live from the Royal Albert Hall]",
   partOfCollections: ["artist/aurora"],

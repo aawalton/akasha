@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeJasonSSongGaveItAway = {
   id: "01a0676a-d722-7021-b9a9-aa168ed15610",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-jason-s-song-gave-it-away",
   title: "Jason's Song (Gave It Away)",
   partOfCollections: ["artist/ariana-grande"],

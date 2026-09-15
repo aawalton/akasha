@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeWickedTheSoundtrack = {
   id: "01a0676a-d731-7019-a6f1-b595fa8757d8",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-wicked-the-soundtrack",
   title: "Wicked: The Soundtrack",
   partOfCollections: ["artist/ariana-grande"],

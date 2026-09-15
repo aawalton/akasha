@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeBreakFree = {
   id: "01a0676a-d719-7032-bb88-d988dd2e3813",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-break-free",
   title: "Break Free",
   partOfCollections: ["artist/ariana-grande"],

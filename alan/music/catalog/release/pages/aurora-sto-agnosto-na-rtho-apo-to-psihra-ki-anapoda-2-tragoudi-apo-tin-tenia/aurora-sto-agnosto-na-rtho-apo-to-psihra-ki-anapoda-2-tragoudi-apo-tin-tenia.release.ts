@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraStoAgnostoNaRthoApoToPsihraKiAnapoda2TragoudiApoTinTenia = {
   id: "01a0676a-d72a-7021-907f-48aa36577615",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-sto-agnosto-na-rtho-apo-to-psihra-ki-anapoda-2-tragoudi-apo-tin-tenia",
   title: 'Sto agnosto na \'rtho (Apo to "Psihra ki Anapoda 2"/Tragoudi apo tin Tenia)',
   partOfCollections: ["artist/aurora"],

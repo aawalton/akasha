@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraSkyConcertInTheLightOriginalGameSoundtrack = {
   id: "01a0676a-d729-701c-a934-9c76018b9d15",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-sky-concert-in-the-light-original-game-soundtrack",
   title: "Sky: Concert in the Light (Original Game Soundtrack)",
   partOfCollections: ["artist/aurora"],

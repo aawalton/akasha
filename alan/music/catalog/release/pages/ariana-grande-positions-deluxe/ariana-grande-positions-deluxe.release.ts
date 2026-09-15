@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandePositionsDeluxe = {
   id: "01a0676a-d727-700c-b606-a36f111a33f6",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-positions-deluxe",
   title: "Positions (Deluxe)",
   partOfCollections: ["artist/ariana-grande"],

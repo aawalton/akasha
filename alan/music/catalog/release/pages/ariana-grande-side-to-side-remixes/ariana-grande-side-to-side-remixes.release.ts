@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeSideToSideRemixes = {
   id: "01a0676a-d729-7001-bc2c-b388752da592",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-side-to-side-remixes",
   title: "Side To Side (Remixes)",
   partOfCollections: ["artist/ariana-grande"],

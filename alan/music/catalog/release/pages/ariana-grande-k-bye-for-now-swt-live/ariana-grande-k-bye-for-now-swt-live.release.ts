@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeKByeForNowSwtLive = {
   id: "01a0676a-d722-7033-a095-f4b50b4148a7",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-k-bye-for-now-swt-live",
   title: "k bye for now (swt live)",
   partOfCollections: ["artist/ariana-grande"],

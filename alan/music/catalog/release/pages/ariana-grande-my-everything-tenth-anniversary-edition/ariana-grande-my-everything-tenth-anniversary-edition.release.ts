@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeMyEverythingTenthAnniversaryEdition = {
   id: "01a0676a-d725-7027-839d-3447657af551",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-my-everything-tenth-anniversary-edition",
   title: "My Everything (Tenth Anniversary Edition)",
   partOfCollections: ["artist/ariana-grande"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const adeleWhenWeWereYoung = {
   id: "01a0676a-d730-705b-b02f-c388c06df215",
-  type: "release",
+  type: "page-type/release",
   slug: "adele-when-we-were-young",
   title: "When We Were Young",
   partOfCollections: ["artist/adele"],

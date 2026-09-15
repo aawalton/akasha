@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeFocus = {
   id: "01a0676a-d71e-7019-baa0-12ddc03d9b26",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-focus",
   title: "Focus",
   partOfCollections: ["artist/ariana-grande"],

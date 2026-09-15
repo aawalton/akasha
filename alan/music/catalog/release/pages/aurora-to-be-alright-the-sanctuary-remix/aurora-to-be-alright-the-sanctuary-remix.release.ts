@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraToBeAlrightTheSanctuaryRemix = {
   id: "01a0676a-d72f-7002-aa44-f7e876e67b6c",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-to-be-alright-the-sanctuary-remix",
   title: "To Be Alright (The Sanctuary Remix)",
   partOfCollections: ["artist/aurora"],

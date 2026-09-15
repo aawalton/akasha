@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraToBeLoved = {
   id: "01a0676a-d72f-7003-abf1-36d94e13d1f3",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-to-be-loved",
   title: "To Be Loved",
   partOfCollections: ["artist/aurora"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraExistForLoveBenjaminMRkAcousticRemix = {
   id: "01a0676a-d71d-704d-868f-ac7e3a76bb73",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-exist-for-love-benjamin-m-rk-acoustic-remix",
   title: "Exist for Love (Benjamin Mørk Acoustic Remix)",
   partOfCollections: ["artist/aurora"],

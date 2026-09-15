@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraCureForMeFeatSilvanaEstradaLive = {
   id: "01a0676a-d71b-7046-8576-663b80e6b21b",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-cure-for-me-feat-silvana-estrada-live",
   title: "Cure For Me (feat. Silvana Estrada) [Live]",
   partOfCollections: ["artist/aurora"],

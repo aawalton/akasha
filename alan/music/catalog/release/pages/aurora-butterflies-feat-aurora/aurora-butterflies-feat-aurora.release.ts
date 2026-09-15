@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraButterfliesFeatAurora = {
   id: "01a0676a-d719-7048-b56b-1e15ca97c979",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-butterflies-feat-aurora",
   title: "Butterflies (feat. AURORA)",
   partOfCollections: ["artist/aurora"],

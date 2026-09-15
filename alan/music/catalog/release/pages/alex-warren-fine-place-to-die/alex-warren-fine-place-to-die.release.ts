@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const alexWarrenFinePlaceToDie = {
   id: "01a0a59d-ca28-73da-a48d-9d3247c99476",
-  type: "release",
+  type: "page-type/release",
   slug: "alex-warren-fine-place-to-die",
   ownLength: 3.1237166666666667,
   ownProgress: 0,

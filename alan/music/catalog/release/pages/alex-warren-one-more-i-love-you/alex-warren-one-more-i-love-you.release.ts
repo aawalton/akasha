@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const alexWarrenOneMoreILoveYou = {
   id: "01a0676a-d726-702f-baff-950cf0e84ced",
-  type: "release",
+  type: "page-type/release",
   slug: "alex-warren-one-more-i-love-you",
   title: "One More I Love You",
   partOfCollections: ["artist/alex-warren"],

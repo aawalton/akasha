@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const adeleMakeYouFeelMyLove = {
   id: "01a0676a-d724-702f-8954-2ca9218e317a",
-  type: "release",
+  type: "page-type/release",
   slug: "adele-make-you-feel-my-love",
   title: "Make You Feel My Love",
   partOfCollections: ["artist/adele"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeIntoYou3lauRemix = {
   id: "01a0676a-d721-707b-877b-6a3a549c4451",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-into-you-3lau-remix",
   title: "Into You (3LAU Remix)",
   partOfCollections: ["artist/ariana-grande"],

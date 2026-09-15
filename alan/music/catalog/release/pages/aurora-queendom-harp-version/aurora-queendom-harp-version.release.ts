@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraQueendomHarpVersion = {
   id: "01a0676a-d727-703a-a3db-d4efc9f742d9",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-queendom-harp-version",
   title: "Queendom (Harp Version)",
   partOfCollections: ["artist/aurora"],

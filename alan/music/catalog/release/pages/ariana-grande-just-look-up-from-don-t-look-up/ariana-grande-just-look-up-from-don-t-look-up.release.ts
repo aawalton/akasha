@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeJustLookUpFromDonTLookUp = {
   id: "01a0676a-d722-7031-8189-93b6aadd2c1b",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-just-look-up-from-don-t-look-up",
   title: "Just Look Up (From Don’t Look Up)",
   partOfCollections: ["artist/ariana-grande"],

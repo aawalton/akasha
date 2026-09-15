@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const alexWarrenYouLlBeAlrightKidChapter1 = {
   id: "01a0676a-d732-700c-ad3c-ee06f9b703d0",
-  type: "release",
+  type: "page-type/release",
   slug: "alex-warren-you-ll-be-alright-kid-chapter-1",
   title: "You'll Be Alright, Kid (Chapter 1)",
   partOfCollections: ["artist/alex-warren"],

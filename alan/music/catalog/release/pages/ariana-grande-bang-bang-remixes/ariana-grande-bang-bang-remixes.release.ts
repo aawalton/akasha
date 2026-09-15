@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeBangBangRemixes = {
   id: "01a0676a-d718-7016-b00d-a43928116d47",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-bang-bang-remixes",
   title: "Bang Bang (Remixes)",
   partOfCollections: ["artist/ariana-grande"],

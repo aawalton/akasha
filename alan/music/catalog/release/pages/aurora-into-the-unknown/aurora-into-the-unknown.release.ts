@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraIntoTheUnknown = {
   id: "01a0676a-d721-707a-b90c-657f37b26c65",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-into-the-unknown",
   title: "Into the Unknown",
   partOfCollections: ["artist/aurora"],

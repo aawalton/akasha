@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeYesAnd = {
   id: "01a0676a-d731-704b-b895-e0f4e3c8fbea",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-yes-and",
   title: "yes, and?",
   partOfCollections: ["artist/ariana-grande"],

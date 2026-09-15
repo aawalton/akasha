@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraRingTheAlarm = {
   id: "01a0676a-d728-700b-a3a2-58da70a3a62f",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-ring-the-alarm",
   title: "RING THE ALARM",
   partOfCollections: ["artist/aurora"],

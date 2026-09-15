@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const alexWarrenScreamingUnderwater = {
   id: "01a0676a-d728-705a-ba19-f42dbf7fe8e2",
-  type: "release",
+  type: "page-type/release",
   slug: "alex-warren-screaming-underwater",
   title: "Screaming Underwater",
   partOfCollections: ["artist/alex-warren"],

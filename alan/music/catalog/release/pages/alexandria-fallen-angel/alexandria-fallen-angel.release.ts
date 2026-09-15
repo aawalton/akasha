@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const alexandriaFallenAngel = {
   id: "01a0676a-d71d-705e-863e-65d5759d7b49",
-  type: "release",
+  type: "page-type/release",
   slug: "alexandria-fallen-angel",
   title: "Fallen Angel",
   partOfCollections: ["artist/alexandria"],

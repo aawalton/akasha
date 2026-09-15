@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeYoursTrulyTenthAnniversaryEdition = {
   id: "01a0676a-d732-7028-af23-b23d0ab534f1",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition",
   title: "Yours Truly (Tenth Anniversary Edition)",
   partOfCollections: ["artist/ariana-grande"],

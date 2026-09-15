@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeIntoYouAlexGheneaRemix = {
   id: "01a0676a-d721-707c-9454-ea1db962075a",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-into-you-alex-ghenea-remix",
   title: "Into You (Alex Ghenea Remix)",
   partOfCollections: ["artist/ariana-grande"],

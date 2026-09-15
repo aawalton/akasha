@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraBringBackTheColorFeatAurora = {
   id: "01a0676a-d719-7039-9b80-7448e3fea8c1",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-bring-back-the-color-feat-aurora",
   title: "BRING BACK THE COLOR (feat. AURORA)",
   partOfCollections: ["artist/aurora"],

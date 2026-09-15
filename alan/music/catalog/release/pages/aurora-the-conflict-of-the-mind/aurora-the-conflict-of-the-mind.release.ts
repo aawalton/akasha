@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraTheConflictOfTheMind = {
   id: "01a0676a-d72c-7044-8a13-f74f8146a3cb",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-the-conflict-of-the-mind",
   title: "The Conflict of the Mind",
   partOfCollections: ["artist/aurora"],

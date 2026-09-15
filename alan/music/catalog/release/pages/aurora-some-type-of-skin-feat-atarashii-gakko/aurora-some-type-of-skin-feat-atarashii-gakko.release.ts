@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraSomeTypeOfSkinFeatAtarashiiGakko = {
   id: "01a0676a-d729-7053-ae0d-078fcea62070",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-some-type-of-skin-feat-atarashii-gakko",
   title: "Some Type Of Skin (feat. ATARASHII GAKKO!)",
   partOfCollections: ["artist/aurora"],

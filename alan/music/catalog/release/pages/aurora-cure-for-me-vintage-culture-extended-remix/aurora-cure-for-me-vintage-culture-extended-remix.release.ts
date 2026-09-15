@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraCureForMeVintageCultureExtendedRemix = {
   id: "01a0676a-d71b-7047-b3e3-2306647f9ceb",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-cure-for-me-vintage-culture-extended-remix",
   title: "Cure For Me (Vintage Culture Extended Remix)",
   partOfCollections: ["artist/aurora"],

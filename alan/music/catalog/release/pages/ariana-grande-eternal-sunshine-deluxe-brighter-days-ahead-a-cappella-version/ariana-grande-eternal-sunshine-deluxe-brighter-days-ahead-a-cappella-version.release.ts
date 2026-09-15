@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersion = {
   id: "01a0676a-d71d-7026-80a4-c82c46194971",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
   title: "eternal sunshine deluxe: brighter days ahead (a cappella version)",
   partOfCollections: ["artist/ariana-grande"],

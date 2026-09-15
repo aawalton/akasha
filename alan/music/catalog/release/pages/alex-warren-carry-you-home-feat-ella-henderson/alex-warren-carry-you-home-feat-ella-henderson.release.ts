@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const alexWarrenCarryYouHomeFeatEllaHenderson = {
   id: "01a0676a-d71a-7003-9500-3e818ab0ca80",
-  type: "release",
+  type: "page-type/release",
   slug: "alex-warren-carry-you-home-feat-ella-henderson",
   title: "Carry You Home (feat. Ella Henderson)",
   partOfCollections: ["artist/alex-warren"],

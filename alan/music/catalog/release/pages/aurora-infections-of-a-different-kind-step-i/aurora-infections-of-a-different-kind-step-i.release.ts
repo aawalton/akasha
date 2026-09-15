@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraInfectionsOfADifferentKindStepI = {
   id: "01a0676a-d721-7070-bf81-0298dc0f5eb0",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-infections-of-a-different-kind-step-i",
   title: "Infections of a Different Kind (Step I)",
   partOfCollections: ["artist/aurora"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const arianaGrandeSomewhereOverTheRainbowLiveFromManchester = {
   id: "01a0676a-d729-7060-852f-dfadf390bd04",
-  type: "release",
+  type: "page-type/release",
   slug: "ariana-grande-somewhere-over-the-rainbow-live-from-manchester",
   title: "Somewhere Over The Rainbow (Live From Manchester)",
   partOfCollections: ["artist/ariana-grande"],

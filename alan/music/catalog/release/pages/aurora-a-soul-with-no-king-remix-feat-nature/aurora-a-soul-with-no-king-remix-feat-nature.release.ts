@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraASoulWithNoKingRemixFeatNature = {
   id: "01a0676a-d715-7043-b6de-7f60fd5ff1a3",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-a-soul-with-no-king-remix-feat-nature",
   title: "A Soul With No King - Remix (feat. NATURE)",
   partOfCollections: ["artist/aurora"],

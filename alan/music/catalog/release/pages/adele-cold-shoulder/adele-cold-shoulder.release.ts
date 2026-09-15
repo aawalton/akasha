@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const adeleColdShoulder = {
   id: "01a0676a-d71b-700b-9443-a2951fb0d20c",
-  type: "release",
+  type: "page-type/release",
   slug: "adele-cold-shoulder",
   title: "Cold Shoulder",
   partOfCollections: ["artist/adele"],

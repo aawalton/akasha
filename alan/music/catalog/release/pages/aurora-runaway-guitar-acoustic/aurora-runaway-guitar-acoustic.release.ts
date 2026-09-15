@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraRunawayGuitarAcoustic = {
   id: "01a0676a-d728-702c-8d78-116b7905522a",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-runaway-guitar-acoustic",
   title: "Runaway (Guitar Acoustic)",
   partOfCollections: ["artist/aurora"],

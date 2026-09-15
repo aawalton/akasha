@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraStarvationAnnaRemix = {
   id: "01a0676a-d72a-7019-97a4-40f02c144442",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-starvation-anna-remix",
   title: "Starvation (ANNA Remix)",
   partOfCollections: ["artist/aurora"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const alexWarrenOrdinaryFeatLukeCombsLiveFromLollapalooza = {
   id: "01a0676a-d726-7045-8ab0-dead09ac88a8",
-  type: "release",
+  type: "page-type/release",
   slug: "alex-warren-ordinary-feat-luke-combs-live-from-lollapalooza",
   title: "Ordinary (feat. Luke Combs) - Live from Lollapalooza",
   partOfCollections: ["artist/alex-warren"],
