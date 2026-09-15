@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingMultivariableCalculusProblemsSolutionsAndTips = {
   id: "019db533-f3a0-7218-8f96-9900dcf07bf8",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-multivariable-calculus-problems-solutions-and-tips",
   title: "Understanding Multivariable Calculus: Problems, Solutions, and Tips",
   status: "not-started",

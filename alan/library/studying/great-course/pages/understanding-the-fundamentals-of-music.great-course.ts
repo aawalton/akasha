@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingTheFundamentalsOfMusic = {
   id: "019db533-f3a0-7201-bb90-a2145dedd00a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-the-fundamentals-of-music",
   title: "Understanding the Fundamentals of Music",
   status: "not-started",

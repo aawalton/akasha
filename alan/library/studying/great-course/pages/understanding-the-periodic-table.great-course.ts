@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingThePeriodicTable = {
   id: "019db533-f39f-709f-9e5e-2624fd586058",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-the-periodic-table",
   title: "Understanding the Periodic Table",
   status: "not-started",

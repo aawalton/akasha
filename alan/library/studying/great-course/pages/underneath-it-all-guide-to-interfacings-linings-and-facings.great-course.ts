@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const underneathItAllGuideToInterfacingsLiningsAndFacings = {
   id: "019db533-f39e-767c-b154-cbee1524d1dd",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "underneath-it-all-guide-to-interfacings-linings-and-facings",
   title: "Underneath It All: Guide to Interfacings, Linings, and Facings",
   status: "completed",

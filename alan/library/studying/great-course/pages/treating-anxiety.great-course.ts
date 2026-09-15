@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const treatingAnxiety = {
   id: "019db533-f3a0-7689-a6e9-ab565d88eaf4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "treating-anxiety",
   title: "Treating Anxiety",
   status: "not-started",

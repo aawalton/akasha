@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const woodturningBasicsSevenHandyKitchenItems = {
   id: "019db533-f39e-7555-abe3-5e5fbd3209b7",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "woodturning-basics-seven-handy-kitchen-items",
   title: "Woodturning Basics: Seven Handy Kitchen Items",
   status: "completed",

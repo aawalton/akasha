@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const yearsThatChangedHistory1776 = {
   id: "01a06578-6719-7000-886c-35c58ce89708",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "years-that-changed-history-1776",
   title: "Years That Changed History: 1776",
   status: "not-started",

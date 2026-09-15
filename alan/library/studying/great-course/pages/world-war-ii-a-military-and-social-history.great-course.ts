@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const worldWarIiAMilitaryAndSocialHistory = {
   id: "019db533-f3a0-7234-8c7f-d5c2d1956868",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "world-war-ii-a-military-and-social-history",
   title: "World War II: A Military and Social History",
   status: "not-started",

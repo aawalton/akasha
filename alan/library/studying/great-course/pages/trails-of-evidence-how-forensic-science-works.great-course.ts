@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const trailsOfEvidenceHowForensicScienceWorks = {
   id: "019db533-f39e-7d87-b0db-9c06ff0e9e76",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "trails-of-evidence-how-forensic-science-works",
   title: "Trails of Evidence: How Forensic Science Works",
   status: "not-started",

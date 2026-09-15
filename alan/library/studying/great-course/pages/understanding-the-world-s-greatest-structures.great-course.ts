@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingTheWorldSGreatestStructures = {
   id: "019db533-f39f-7b5e-b9bf-ff972673d9d8",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-the-world-s-greatest-structures",
   title: "Understanding the World's Greatest Structures",
   status: "completed",

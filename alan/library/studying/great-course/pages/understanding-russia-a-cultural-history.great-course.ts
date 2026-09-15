@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingRussiaACulturalHistory = {
   id: "019db533-f39f-7b48-b045-c37fccc8631f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-russia-a-cultural-history",
   title: "Understanding Russia: A Cultural History",
   status: "not-started",

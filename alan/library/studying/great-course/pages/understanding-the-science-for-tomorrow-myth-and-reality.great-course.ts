@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingTheScienceForTomorrowMythAndReality = {
   id: "019db533-f39e-7d5e-9c27-5c2ad1ded3c9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-the-science-for-tomorrow-myth-and-reality",
   title: "Understanding the Science for Tomorrow: Myth and Reality",
   status: "not-started",

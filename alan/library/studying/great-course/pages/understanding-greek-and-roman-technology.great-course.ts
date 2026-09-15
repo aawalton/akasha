@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingGreekAndRomanTechnology = {
   id: "019db533-f39f-7a88-9c43-8cc15d98a104",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-greek-and-roman-technology",
   title: "Understanding Greek and Roman Technology",
   status: "completed",

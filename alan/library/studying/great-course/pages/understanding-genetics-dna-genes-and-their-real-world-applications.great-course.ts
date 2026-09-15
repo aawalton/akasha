@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingGeneticsDnaGenesAndTheirRealWorldApplications = {
   id: "019db533-f3a0-765e-b6c5-792ff495b9c4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-genetics-dna-genes-and-their-real-world-applications",
   title: "Understanding Genetics: DNA, Genes, and Their Real-World Applications",
   status: "not-started",

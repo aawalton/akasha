@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const yogaForAHealthyMindAndBody = {
   id: "019db533-f3a0-7529-b264-f5116d0341dc",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "yoga-for-a-healthy-mind-and-body",
   title: "Yoga for a Healthy Mind and Body",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const yourDeceptiveMindAScientificGuideToCriticalThinkingSkills = {
   id: "019db533-f39e-7ada-a3cb-8cb537ed451c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "your-deceptive-mind-a-scientific-guide-to-critical-thinking-skills",
   title: "Your Deceptive Mind: A Scientific Guide to Critical Thinking Skills",
   status: "not-started",

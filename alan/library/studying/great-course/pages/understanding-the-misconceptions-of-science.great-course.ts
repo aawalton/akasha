@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingTheMisconceptionsOfScience = {
   id: "019db533-f39e-7db7-88c5-b9686ece4870",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-the-misconceptions-of-science",
   title: "Understanding the Misconceptions of Science",
   status: "not-started",

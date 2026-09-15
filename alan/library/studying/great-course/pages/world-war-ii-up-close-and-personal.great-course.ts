@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const worldWarIiUpCloseAndPersonal = {
   id: "019db533-f3a0-71c7-ab61-f5f7ec0fd339",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "world-war-ii-up-close-and-personal",
   title: "World War II: Up Close and Personal",
   status: "not-started",

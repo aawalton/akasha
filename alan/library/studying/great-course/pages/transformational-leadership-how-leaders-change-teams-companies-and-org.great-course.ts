@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const transformationalLeadershipHowLeadersChangeTeamsCompaniesAndOrg = {
   id: "019db533-f39e-7301-9f63-c1082b57497e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "transformational-leadership-how-leaders-change-teams-companies-and-org",
   title: "Transformational Leadership: How Leaders Change Teams, Companies, and Organizations",
   status: "not-started",

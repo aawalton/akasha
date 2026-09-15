@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingTheUniverseAnIntroductionToAstronomy2ndEdition = {
   id: "019db533-f39f-70c9-af21-e31e7c457642",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-the-universe-an-introduction-to-astronomy-2nd-edition",
   title: "Understanding the Universe: An Introduction to Astronomy, 2nd Edition",
   status: "not-started",

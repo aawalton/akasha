@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingModernElectronics = {
   id: "019db533-f39e-7db1-9fcf-a26f0821db7c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-modern-electronics",
   title: "Understanding Modern Electronics",
   status: "not-started",

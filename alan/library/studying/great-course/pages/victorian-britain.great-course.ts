@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const victorianBritain = {
   id: "019db533-f39f-7b33-a5fe-b74a5d754099",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "victorian-britain",
   title: "Victorian Britain",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const whyEvilExists = {
   id: "019db533-f398-73bc-9077-8d22da68fc34",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "why-evil-exists",
   title: "Why Evil Exists",
   status: "not-started",

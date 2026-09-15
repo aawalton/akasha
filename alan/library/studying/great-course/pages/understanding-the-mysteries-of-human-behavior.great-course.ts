@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingTheMysteriesOfHumanBehavior = {
   id: "019db533-f39f-706a-a60a-c63e70126164",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-the-mysteries-of-human-behavior",
   title: "Understanding the Mysteries of Human Behavior",
   status: "not-started",

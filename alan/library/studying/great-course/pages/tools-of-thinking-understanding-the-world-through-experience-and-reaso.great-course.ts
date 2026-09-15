@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const toolsOfThinkingUnderstandingTheWorldThroughExperienceAndReaso = {
   id: "019db533-f387-7f04-9834-75cd5ba7ae1d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "tools-of-thinking-understanding-the-world-through-experience-and-reaso",
   title: "Tools of Thinking: Understanding the World through Experience and Reason",
   status: "not-started",

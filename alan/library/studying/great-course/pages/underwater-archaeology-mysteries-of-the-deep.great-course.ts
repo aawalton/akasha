@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const underwaterArchaeologyMysteriesOfTheDeep = {
   id: "019db533-f3a0-706f-be87-9390cb627735",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "underwater-archaeology-mysteries-of-the-deep",
   title: "Underwater Archaeology: Mysteries of the Deep",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const trueCrimeDecodingTheEvidence = {
   id: "019db533-f39f-7fc2-8b95-5bca54e52a62",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "true-crime-decoding-the-evidence",
   title: "True Crime: Decoding the Evidence",
   status: "not-started",

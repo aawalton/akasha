@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingNonverbalCommunication = {
   id: "019db533-f39e-72e0-9192-859b07268573",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-nonverbal-communication",
   title: "Understanding Nonverbal Communication",
   status: "not-started",

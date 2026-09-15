@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingTheDarkSideOfHumanNature = {
   id: "019db533-f39e-79f5-b52c-cf038be581f1",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-the-dark-side-of-human-nature",
   title: "Understanding the Dark Side of Human Nature",
   status: "not-started",

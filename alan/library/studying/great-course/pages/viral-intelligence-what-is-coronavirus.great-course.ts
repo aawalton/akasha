@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const viralIntelligenceWhatIsCoronavirus = {
   id: "019db533-f3a0-7708-a336-cca85f97bb62",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "viral-intelligence-what-is-coronavirus",
   title: "Viral Intelligence: What Is Coronavirus?",
   status: "completed",

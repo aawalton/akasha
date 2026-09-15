@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingTheUsGovernment = {
   id: "019db533-f3a0-7052-bfc9-bb44683dce2d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-the-us-government",
   title: "Understanding the US Government",
   status: "not-started",

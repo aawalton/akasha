@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingCognitiveBiases = {
   id: "019db533-f39e-7bf4-9d50-e448405a2c1d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-cognitive-biases",
   title: "Understanding Cognitive Biases",
   status: "not-started",

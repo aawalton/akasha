@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const worldWarIiBattlefieldEurope = {
   id: "019db533-f39f-7fb8-8a87-f7b30230b3bd",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "world-war-ii-battlefield-europe",
   title: "World War II: Battlefield Europe",
   status: "not-started",

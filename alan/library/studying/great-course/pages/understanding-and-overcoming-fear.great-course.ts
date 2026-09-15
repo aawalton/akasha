@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingAndOvercomingFear = {
   id: "019db533-f39e-7d41-a681-b0c98f5269ab",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-and-overcoming-fear",
   title: "Understanding and Overcoming Fear",
   status: "not-started",

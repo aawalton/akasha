@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const whatAmericaSFoundersLearnedFromAntiquity = {
   id: "019db533-f39f-763f-8ccc-a620962166fa",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "what-america-s-founders-learned-from-antiquity",
   title: "What America’s Founders Learned from Antiquity",
   status: "not-started",

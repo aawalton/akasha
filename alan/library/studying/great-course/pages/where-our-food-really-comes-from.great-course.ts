@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const whereOurFoodReallyComesFrom = {
   id: "019db533-f39f-7655-bf4c-d1bac47a0286",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "where-our-food-really-comes-from",
   title: "Where Our Food Really Comes From",
   status: "completed",

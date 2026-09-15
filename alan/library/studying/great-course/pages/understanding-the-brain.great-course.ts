@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingTheBrain = {
   id: "019db533-f39f-7095-b6ad-6a7fecfe4c2b",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-the-brain",
   title: "Understanding the Brain",
   status: "not-started",

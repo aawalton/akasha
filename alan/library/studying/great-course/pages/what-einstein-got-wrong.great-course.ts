@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const whatEinsteinGotWrong = {
   id: "019db533-f39e-7cf2-93eb-d8b68636f4cb",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "what-einstein-got-wrong",
   title: "What Einstein Got Wrong",
   status: "not-started",

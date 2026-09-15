@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const tocquevilleAndTheAmericanExperiment = {
   id: "019db533-f387-7f9b-8400-513bfe8bdeb4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "tocqueville-and-the-american-experiment",
   title: "Tocqueville and the American Experiment",
   status: "not-started",

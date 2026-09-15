@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const travelsWithDarleySeason1 = {
   id: "019db533-f39f-71ca-87ba-7fb83c620292",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "travels-with-darley-season-1",
   title: "Travels with Darley – Season 1",
   status: "completed",

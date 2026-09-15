@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const writingAndCivilizationFromAncientWorldsToModernity = {
   id: "019db533-f39e-77ea-ab4a-10064a540af2",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "writing-and-civilization-from-ancient-worlds-to-modernity",
   title: "Writing and Civilization: From Ancient Worlds to Modernity",
   status: "not-started",

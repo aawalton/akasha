@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingJapanACulturalHistory = {
   id: "019db533-f39f-77fd-8ce3-d2924442dc19",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-japan-a-cultural-history",
   title: "Understanding Japan: A Cultural History",
   status: "completed",

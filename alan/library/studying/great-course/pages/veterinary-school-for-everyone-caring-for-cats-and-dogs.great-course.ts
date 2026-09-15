@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const veterinarySchoolForEveryoneCaringForCatsAndDogs = {
   id: "019db533-f39e-754c-b8c5-78911e2985ad",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "veterinary-school-for-everyone-caring-for-cats-and-dogs",
   title: "Veterinary School for Everyone: Caring for Cats and Dogs",
   status: "not-started",

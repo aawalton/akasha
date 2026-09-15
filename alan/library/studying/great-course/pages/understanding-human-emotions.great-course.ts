@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingHumanEmotions = {
   id: "019db533-f39e-76a4-8767-cf1546e42836",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-human-emotions",
   title: "Understanding Human Emotions",
   status: "not-started",

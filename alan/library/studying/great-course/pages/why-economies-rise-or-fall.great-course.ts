@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const whyEconomiesRiseOrFall = {
   id: "019db533-f39e-7311-a024-18d705298dc0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "why-economies-rise-or-fall",
   title: "Why Economies Rise or Fall",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingEconomicsGameTheory = {
   id: "019db533-f39e-733a-8671-5f8cc6d052b5",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-economics-game-theory",
   title: "Understanding Economics: Game Theory",
   status: "not-started",

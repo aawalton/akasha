@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const understandingTheHumanBodyAnIntroductionToAnatomyAndPhysiology = {
   id: "019db533-f3a0-769e-a215-2eecc3547a5b",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "understanding-the-human-body-an-introduction-to-anatomy-and-physiology",
   title: "Understanding the Human Body: An Introduction to Anatomy and Physiology, 2nd Edition",
   status: "in-progress",

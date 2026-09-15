@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const urbanLegendsExplained = {
   id: "019db533-f398-7381-b91b-99afb7abc36d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "urban-legends-explained",
   title: "Urban Legends Explained",
   status: "not-started",
