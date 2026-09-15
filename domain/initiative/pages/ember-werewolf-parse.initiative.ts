@@ -27,7 +27,7 @@ export const emberWerewolfParse = {
     {
       statement: "Three-Color Stalker wears the full Update 50 Savage Werewolf parse setup.",
       workingMemory:
-        "Shoulders, necklace and ring are farmed. One one-handed weapon is still owed; the second is reconstructed from the set collection rather than farmed, reconstruction being per weapon type. The gold Medium Divines Slimecraw head and the Shattered Paths Signet are in the bank. Five Order's Wrath Light body pieces are crafted at Steadfast Hammer and Saw on High Isle. Armour is Divines with Stamina glyphs, jewellery Infused with Increase Physical Harm, weapons Charged with Poison and Flame.",
+        "The twelve slots are a Medium Divines Slimecraw head, Medium Divines Savage Werewolf shoulders, five Light Divines Order's Wrath body pieces, an Infused Savage Werewolf necklace and ring, the Shattered Paths Signet, and two Charged Savage Werewolf maces. The gold Slimecraw mask and the Signet are already in the ESO Plus bank. This is the guide's No Trial Gear variant, which sims 176.7k. An inventory capture after equipping shows this done; the last is from 29 August.\n",
     },
     {
       statement: "Three-Color Stalker's bar, masteries and Champion Points are the werewolf setup.",
