@@ -7,7 +7,6 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
-  numberAt,
   slugAt,
   textAt,
   type Value,
@@ -31,7 +30,6 @@ export interface Persona {
   readonly origin: string | null
   readonly email: string | null
   readonly championedDomainSlug: string | null
-  readonly greenDayPoints: number | null
   readonly history: string | null
   readonly voiceInstruction: string | null
   readonly voiceReferenceSha256: string | null
@@ -82,7 +80,6 @@ function personaFrom(root: string, listed: Listed): Persona {
     origin: textAt(value, "origin"),
     email: textAt(value, "email"),
     championedDomainSlug: slugAt(value, "championedDomain"),
-    greenDayPoints: numberAt(value, "greenDayPoints"),
     history: textAt(value, "history"),
     voiceInstruction: textAt(value, "voiceInstruction"),
     voiceReferenceSha256: textAt(value, "voiceReferenceSha256"),
