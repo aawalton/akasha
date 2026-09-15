@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theStubbornSkillGrinderInATimeLoopBook0042Chapter111EarningAdmissionFairAndSquare = {
   id: "01a06730-4f46-73c9-b0db-3311b4eccfa7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0042-chapter-111-earning-admission-fair-and-square",
   title: "Chapter 111 - Earning Admission Fair & Square",
   story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",

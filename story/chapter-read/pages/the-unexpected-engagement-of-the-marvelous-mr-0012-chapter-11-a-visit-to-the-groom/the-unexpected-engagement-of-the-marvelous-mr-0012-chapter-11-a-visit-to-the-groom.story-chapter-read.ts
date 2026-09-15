@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theUnexpectedEngagementOfTheMarvelousMr0012Chapter11AVisitToTheGroom = {
   id: "01a06730-4e38-7acf-8362-dfd88e1e04b2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0012-chapter-11-a-visit-to-the-groom",
   title: "Chapter 11 - A Visit to the Groom",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theUnexpectedEngagementOfTheMarvelousMr0043Chapter42TheFavor = {
   id: "01a06730-4e47-7e32-bc5a-b91e2b18d8ef",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0043-chapter-42-the-favor",
   title: "Chapter 42 - The Favor",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theStubbornSkillGrinderInATimeLoopBook0029Chapter100TheDefenseOfAlastaiaPartI = {
   id: "01a06730-4f24-7629-bed4-ddae97884c16",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0029-chapter-100-the-defense-of-alastaia-part-i",
   title: "Chapter 100 - The Defense of Alastaia - Part I",
   story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",

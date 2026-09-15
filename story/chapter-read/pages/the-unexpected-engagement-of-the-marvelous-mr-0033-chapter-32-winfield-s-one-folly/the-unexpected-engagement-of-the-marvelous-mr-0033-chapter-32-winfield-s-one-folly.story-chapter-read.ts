@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theUnexpectedEngagementOfTheMarvelousMr0033Chapter32WinfieldSOneFolly = {
   id: "01a06730-4e40-7928-b1ec-138a54eab60e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0033-chapter-32-winfield-s-one-folly",
   title: "Chapter 32 - Winfield's One Folly",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",

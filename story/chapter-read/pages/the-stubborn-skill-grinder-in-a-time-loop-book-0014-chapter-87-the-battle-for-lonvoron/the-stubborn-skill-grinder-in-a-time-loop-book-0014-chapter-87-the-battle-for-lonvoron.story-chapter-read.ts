@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theStubbornSkillGrinderInATimeLoopBook0014Chapter87TheBattleForLonvoron = {
   id: "01a06730-4f07-7fe7-a07e-c7781e7f2643",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0014-chapter-87-the-battle-for-lonvoron",
   title: "Chapter 87 - The Battle for Lonvoron",
   story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",

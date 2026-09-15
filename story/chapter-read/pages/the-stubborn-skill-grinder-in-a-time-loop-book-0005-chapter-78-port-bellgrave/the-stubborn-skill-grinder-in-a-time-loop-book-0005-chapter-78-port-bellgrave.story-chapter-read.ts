@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theStubbornSkillGrinderInATimeLoopBook0005Chapter78PortBellgrave = {
   id: "01a06730-4ee2-79a7-9948-1bcfbc80cec4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0005-chapter-78-port-bellgrave",
   title: "Chapter 78 - Port Bellgrave",
   story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",

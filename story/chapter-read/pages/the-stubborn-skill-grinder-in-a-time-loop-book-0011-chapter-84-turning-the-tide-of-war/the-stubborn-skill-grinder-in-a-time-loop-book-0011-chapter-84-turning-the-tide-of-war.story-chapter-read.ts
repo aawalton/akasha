@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theStubbornSkillGrinderInATimeLoopBook0011Chapter84TurningTheTideOfWar = {
   id: "01a06730-4efb-75e6-8ade-c1275e5fc285",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0011-chapter-84-turning-the-tide-of-war",
   title: "Chapter 84 - Turning The Tide Of War",
   story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theStubbornSkillGrinderInATimeLoopBook0018Chapter90TheUnintendedConsequencesOfTrue = {
   id: "01a06730-4f0b-7659-8a5d-d40d721b1105",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0018-chapter-90-the-unintended-consequences-of-true",
   title: "Chapter 90 - The Unintended Consequences of True Power",
   story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",

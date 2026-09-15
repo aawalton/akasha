@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theUnexpectedEngagementOfTheMarvelousMr0044Chapter43EleanorWaiting = {
   id: "01a06730-4e47-7df9-866a-daf12ad4827f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0044-chapter-43-eleanor-waiting",
   title: "Chapter 43 - Eleanor Waiting",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",

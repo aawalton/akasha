@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theStubbornSkillGrinderInATimeLoopBook0023Chapter94DiversifyingTheBasicsIii = {
   id: "01a06730-4f15-793d-814e-36c4925f5341",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0023-chapter-94-diversifying-the-basics-iii",
   title: "Chapter 94 - Diversifying the Basics III",
   story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",

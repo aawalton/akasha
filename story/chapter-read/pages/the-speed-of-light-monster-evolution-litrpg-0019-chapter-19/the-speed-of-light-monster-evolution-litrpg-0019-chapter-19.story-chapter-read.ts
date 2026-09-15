@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theSpeedOfLightMonsterEvolutionLitrpg0019Chapter19 = {
   id: "01a06730-4ed5-75ed-af65-f59cff3efb37",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-speed-of-light-monster-evolution-litrpg-0019-chapter-19",
   title: "Chapter 19",
   story: "story-read/the-speed-of-light-monster-evolution-litrpg",

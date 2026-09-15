@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theStubbornSkillGrinderInATimeLoopBook0044Chapter112TheWarCouncilAndFormalDuel = {
   id: "01a06730-4f48-7085-b7bb-a44ba30006e2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0044-chapter-112-the-war-council-and-formal-duel",
   title: "Chapter 112 - The War Council & Formal Duel",
   story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",

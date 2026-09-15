@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theUnexpectedEngagementOfTheMarvelousMr0010Chapter9PennPaysHisRespects = {
   id: "01a06730-4e34-73fd-a306-be6cf4b365e8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0010-chapter-9-penn-pays-his-respects",
   title: "Chapter 9 - Penn Pays His Respects",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theUnexpectedEngagementOfTheMarvelousMr0028Chapter27WhyDidYouRefuseThem = {
   id: "01a06730-4e3d-721a-ac04-1916385e1af9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0028-chapter-27-why-did-you-refuse-them",
   title: "Chapter 27 - Why Did You Refuse Them",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",

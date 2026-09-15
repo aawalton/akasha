@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theStubbornSkillGrinderInATimeLoopBook0016Chapter88PeaceQuietAndConsolidationI = {
   id: "01a06730-4f08-7e4f-b16d-5160fb0a61c0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0016-chapter-88-peace-quiet-and-consolidation-i",
   title: "Chapter 88 - Peace, Quiet & Consolidation I",
   story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",

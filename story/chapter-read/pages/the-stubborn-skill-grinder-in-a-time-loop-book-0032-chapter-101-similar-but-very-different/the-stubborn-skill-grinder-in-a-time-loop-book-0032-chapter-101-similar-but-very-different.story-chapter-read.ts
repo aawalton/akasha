@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theStubbornSkillGrinderInATimeLoopBook0032Chapter101SimilarButVeryDifferent = {
   id: "01a06730-4f2c-70fd-8301-87757fef9d37",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0032-chapter-101-similar-but-very-different",
   title: "Chapter 101 - Similar But Very Different",
   story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",

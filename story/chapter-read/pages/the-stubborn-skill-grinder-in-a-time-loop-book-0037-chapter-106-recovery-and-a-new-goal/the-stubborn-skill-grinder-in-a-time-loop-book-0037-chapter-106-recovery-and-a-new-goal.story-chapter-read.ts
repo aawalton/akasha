@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theStubbornSkillGrinderInATimeLoopBook0037Chapter106RecoveryAndANewGoal = {
   id: "01a06730-4f3a-74f5-ac46-8de90ab2ed43",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0037-chapter-106-recovery-and-a-new-goal",
   title: "Chapter 106 - Recovery & A New Goal",
   story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",

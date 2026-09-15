@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theStubbornSkillGrinderInATimeLoopBook0026Chapter97TrainTeachDieRepeatIii = {
   id: "01a06730-4f1c-791c-8d78-a0be2dd5b5a9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0026-chapter-97-train-teach-die-repeat-iii",
   title: "Chapter 97 - Train. Teach. Die. Repeat. III",
   story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",
