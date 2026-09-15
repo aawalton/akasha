@@ -58,6 +58,15 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A name only a file held uncommitted carries names nothing and is let through.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A judgement here is the same over a checkout and over the overlay a deploy reads.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A name refused already as a path spelled is not refused a second time.",
     },
     {

@@ -12,6 +12,7 @@ import type { Listed } from "akasha/page/index/modules/reading/index-reading.mod
 import {
   partedIn,
   uncommittedHeld,
+  uncommittedSpelled,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { shortened } from "akasha/util/text/modules/shortened/shortened.module.code.ts"
 import ts from "typescript"
@@ -66,6 +67,7 @@ export type Naming = (said: string) => string | null
 function tailsOf(paths: readonly string[], types: ReadonlySet<string>): ReadonlySet<string> {
   const found = new Set<string>()
   for (const one of paths) {
+    if (uncommittedSpelled(one)) continue
     const parts = one.slice(one.lastIndexOf(PARTED_BY) + 1).split(PARTED_AT)
     for (let at = 1; at < parts.length; at += 1) {
       if (types.has(parts[at] ?? "")) found.add(parts.slice(at).join(PARTED_AT))

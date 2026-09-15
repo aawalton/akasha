@@ -21,6 +21,7 @@ import {
   nearer,
   ONE,
   only,
+  onlyUncommitted,
   RESOLVED,
   ran,
   reaching,
@@ -28,6 +29,7 @@ import {
   SWEEPS,
   TWO,
   TYPES,
+  UNCOMMITTED,
   YELLOW,
 } from "akasha/check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.decision.test-fixtures.ts"
 
@@ -228,6 +230,10 @@ test("a name no page type carries is let through however the file lists", () => 
 
 test("a name the index answers no file for is let through", () => {
   expect(only('const SUFFIX = ".module.uncommitted.jsonl"\nreaddirSync(root)\n')).toEqual([])
+})
+
+test("a name only an uncommitted file carries is let through", () => {
+  expect(onlyUncommitted(`const S = "${UNCOMMITTED}"\nreaddirSync(r)\n`)).toEqual([])
 })
 
 test("a tail carrying what is no plain segment is no page's name", () => {

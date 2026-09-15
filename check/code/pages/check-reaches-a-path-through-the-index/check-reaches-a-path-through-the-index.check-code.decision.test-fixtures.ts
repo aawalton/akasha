@@ -29,6 +29,12 @@ export function only(text: string): readonly string[] {
   return reasonsIn(reaching, naming, AT, text)
 }
 
+export const UNCOMMITTED = ".module.a.uncommitted.json"
+
+export function onlyUncommitted(text: string): readonly string[] {
+  return reasonsIn(reaching, namingOver([`a/b${UNCOMMITTED}`], TYPES), AT, text)
+}
+
 export const DOTTED = "../../../../design/colors/pages/yellow.color.ts"
 
 export const SWEEPS = 'const held = said(["git", "-C", root, "ls-files", "-z", "--", "*.ts"])\n'
