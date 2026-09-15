@@ -7,7 +7,12 @@ export const supervisorRcDegradedThresholds = {
   definition:
     "the edge count, streaks and windows a seat's remote control is read as degraded against",
   code: "ts",
+  testFixtures: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The code states the shape, and the fixtures a set of thresholds answering it.",
+    },
     {
       invariantKind: "departure",
       statement:

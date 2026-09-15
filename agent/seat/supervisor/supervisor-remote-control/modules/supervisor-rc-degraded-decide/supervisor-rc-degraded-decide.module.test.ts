@@ -8,7 +8,7 @@ import {
   CLEAR_RC_CONFIRM_LATCH,
   INITIAL_RC_SEAT_STREAK,
 } from "akasha/agent/seat/supervisor/supervisor-remote-control/modules/supervisor-rc-degraded-state/supervisor-rc-degraded-state.module.code.ts"
-import { DEFAULT_RC_DEGRADED_THRESHOLDS } from "akasha/agent/seat/supervisor/supervisor-remote-control/modules/supervisor-rc-degraded-thresholds/supervisor-rc-degraded-thresholds.module.code.ts"
+import { DEFAULT_RC_DEGRADED_THRESHOLDS } from "akasha/agent/seat/supervisor/supervisor-remote-control/modules/supervisor-rc-degraded-thresholds/supervisor-rc-degraded-thresholds.module.test-fixtures.ts"
 
 const T = DEFAULT_RC_DEGRADED_THRESHOLDS
 
