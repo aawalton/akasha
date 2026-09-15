@@ -10,6 +10,7 @@ export const pageProperty = {
   parts: [
     "boolean-property/holds-bytes",
     "boolean-property/nullable",
+    "boolean-property/quoted",
     "boolean-property/runs-file-length",
     "boolean-property/sorted",
     "module/property-shape",
@@ -29,6 +30,7 @@ export const pageProperty = {
     { pageProperty: "file-property/types", required: false, many: false },
     { pageProperty: "boolean-property/nullable", required: false, many: false },
     { pageProperty: "boolean-property/sorted", required: false, many: false },
+    { pageProperty: "boolean-property/quoted", required: false, many: false },
   ],
   invariants: [
     {
