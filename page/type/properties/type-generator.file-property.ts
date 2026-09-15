@@ -10,7 +10,7 @@ export const typeGenerator = {
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A page type stating this states the type that code writes.",
+      statement: "A page type stating this states every file that code writes beside it.",
     },
     {
       invariantKind: "invariant-kind/departure",
