@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0343Chapter306TheBattleForCiradylPart2 = {
   id: "01a0672c-ebea-7001-8c33-c40078d0992c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0343-chapter-306-the-battle-for-ciradyl-part-2",
   title: "Chapter 306: The Battle for Ciradyl (Part 2)",
   story: "story-read/dungeon-of-knowledge-complete",

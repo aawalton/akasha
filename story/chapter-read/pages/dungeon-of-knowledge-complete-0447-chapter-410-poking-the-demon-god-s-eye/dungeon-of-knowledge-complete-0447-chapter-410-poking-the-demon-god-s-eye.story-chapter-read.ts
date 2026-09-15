@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0447Chapter410PokingTheDemonGodSEye = {
   id: "01a0672c-ec0d-7002-8629-37c707ae9a14",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0447-chapter-410-poking-the-demon-god-s-eye",
   title: "Chapter 410: Poking the Demon God’s Eye",
   story: "story-read/dungeon-of-knowledge-complete",

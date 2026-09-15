@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0333Chapter298TheElementalShapeshifter = {
   id: "01a0672c-ebe6-7004-b76d-fe55009743c5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0333-chapter-298-the-elemental-shapeshifter",
   title: "Chapter 298: The Elemental Shapeshifter",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0421Chapter384FromTheBrinkPart1 = {
   id: "01a0672c-ec06-7000-969f-2a7d7a8a0eae",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0421-chapter-384-from-the-brink-part-1",
   title: "Chapter 384: From the Brink (Part 1)",
   story: "story-read/dungeon-of-knowledge-complete",

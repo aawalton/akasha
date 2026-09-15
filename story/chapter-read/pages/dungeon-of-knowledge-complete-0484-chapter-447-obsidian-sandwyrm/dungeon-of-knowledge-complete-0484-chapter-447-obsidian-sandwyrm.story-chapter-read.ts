@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0484Chapter447ObsidianSandwyrm = {
   id: "01a0672c-ec1f-7003-b5f3-d22d101b15f6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0484-chapter-447-obsidian-sandwyrm",
   title: "Chapter 447: Obsidian Sandwyrm",
   story: "story-read/dungeon-of-knowledge-complete",

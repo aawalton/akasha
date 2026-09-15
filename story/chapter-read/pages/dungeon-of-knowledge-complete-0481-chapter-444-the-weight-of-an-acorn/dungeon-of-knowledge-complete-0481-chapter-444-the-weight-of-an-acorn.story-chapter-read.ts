@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0481Chapter444TheWeightOfAnAcorn = {
   id: "01a0672c-ec1f-7000-8510-48d9a47ffb60",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0481-chapter-444-the-weight-of-an-acorn",
   title: "Chapter 444: The Weight of an Acorn",
   story: "story-read/dungeon-of-knowledge-complete",

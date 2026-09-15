@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0417Chapter380TheManaEater = {
   id: "01a0672c-ec03-7000-93a4-42ca6c68b5ba",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0417-chapter-380-the-mana-eater",
   title: "Chapter 380: The Mana Eater",
   story: "story-read/dungeon-of-knowledge-complete",

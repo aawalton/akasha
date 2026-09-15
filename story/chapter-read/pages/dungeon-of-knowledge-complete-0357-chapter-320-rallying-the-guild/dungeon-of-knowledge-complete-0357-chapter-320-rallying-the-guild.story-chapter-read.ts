@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0357Chapter320RallyingTheGuild = {
   id: "01a0672c-ebef-7000-b6d6-4f56e5ec8e65",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0357-chapter-320-rallying-the-guild",
   title: "Chapter 320: Rallying the Guild",
   story: "story-read/dungeon-of-knowledge-complete",

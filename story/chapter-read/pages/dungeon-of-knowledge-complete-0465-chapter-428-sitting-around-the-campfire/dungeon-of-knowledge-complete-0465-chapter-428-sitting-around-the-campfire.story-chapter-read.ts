@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0465Chapter428SittingAroundTheCampfire = {
   id: "01a0672c-ec18-7000-8d0d-071f659be638",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0465-chapter-428-sitting-around-the-campfire",
   title: "Chapter 428: Sitting Around the Campfire",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0409Chapter372TheBattleForLytonRuinsPart4 = {
   id: "01a0672c-ec00-7003-8652-887c9121b859",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0409-chapter-372-the-battle-for-lyton-ruins-part-4",
   title: "Chapter 372: The Battle for Lyton Ruins (Part 4)",
   story: "story-read/dungeon-of-knowledge-complete",

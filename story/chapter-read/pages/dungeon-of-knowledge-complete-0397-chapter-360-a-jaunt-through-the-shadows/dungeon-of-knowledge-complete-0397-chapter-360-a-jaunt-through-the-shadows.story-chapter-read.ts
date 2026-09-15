@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0397Chapter360AJauntThroughTheShadows = {
   id: "01a0672c-ebfd-7000-ab96-7002d69e5764",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0397-chapter-360-a-jaunt-through-the-shadows",
   title: "Chapter 360: A Jaunt Through the Shadows",
   story: "story-read/dungeon-of-knowledge-complete",

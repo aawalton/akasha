@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0401Chapter364ReturnToAmanRak = {
   id: "01a0672c-ebff-7000-b528-6c585fea8905",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0401-chapter-364-return-to-aman-rak",
   title: "Chapter 364: Return to Aman Rak",
   story: "story-read/dungeon-of-knowledge-complete",

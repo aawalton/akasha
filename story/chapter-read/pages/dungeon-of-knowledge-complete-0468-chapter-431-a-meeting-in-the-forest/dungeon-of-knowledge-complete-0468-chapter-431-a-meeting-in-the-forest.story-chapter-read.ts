@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0468Chapter431AMeetingInTheForest = {
   id: "01a0672c-ec19-7001-b393-9d068446e209",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0468-chapter-431-a-meeting-in-the-forest",
   title: "Chapter 431: A Meeting In The Forest ",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0298Chapter266AbundantHealing = {
   id: "01a0672c-ebdf-7001-84bf-d6b3b03de840",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0298-chapter-266-abundant-healing",
   title: "Chapter 266: Abundant Healing",
   story: "story-read/dungeon-of-knowledge-complete",

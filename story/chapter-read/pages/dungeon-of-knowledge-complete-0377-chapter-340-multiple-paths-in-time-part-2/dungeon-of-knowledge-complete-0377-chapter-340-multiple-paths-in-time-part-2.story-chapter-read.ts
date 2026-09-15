@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0377Chapter340MultiplePathsInTimePart2 = {
   id: "01a0672c-ebf5-7000-af00-92f035f5d843",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0377-chapter-340-multiple-paths-in-time-part-2",
   title: "Chapter 340: Multiple Paths in Time (Part 2)",
   story: "story-read/dungeon-of-knowledge-complete",

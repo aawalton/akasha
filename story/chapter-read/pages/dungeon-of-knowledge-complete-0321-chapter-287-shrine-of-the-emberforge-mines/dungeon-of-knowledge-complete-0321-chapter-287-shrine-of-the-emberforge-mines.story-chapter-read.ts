@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0321Chapter287ShrineOfTheEmberforgeMines = {
   id: "01a0672c-ebe3-7009-adf1-5c74d1fbda4f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0321-chapter-287-shrine-of-the-emberforge-mines",
   title: "Chapter 287: Shrine of the Emberforge Mines",
   story: "story-read/dungeon-of-knowledge-complete",

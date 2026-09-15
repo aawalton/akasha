@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0365Chapter328TheWindsOfChange = {
   id: "01a0672c-ebf1-7004-8b60-cf163a9213c5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0365-chapter-328-the-winds-of-change",
   title: "Chapter 328: The Winds of Change",
   story: "story-read/dungeon-of-knowledge-complete",

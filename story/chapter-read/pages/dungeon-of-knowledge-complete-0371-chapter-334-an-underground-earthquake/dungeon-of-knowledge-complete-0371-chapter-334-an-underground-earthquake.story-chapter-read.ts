@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0371Chapter334AnUndergroundEarthquake = {
   id: "01a0672c-ebf3-7001-8d86-a6eeea5d7fa0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0371-chapter-334-an-underground-earthquake",
   title: "Chapter 334: An Underground Earthquake",
   story: "story-read/dungeon-of-knowledge-complete",

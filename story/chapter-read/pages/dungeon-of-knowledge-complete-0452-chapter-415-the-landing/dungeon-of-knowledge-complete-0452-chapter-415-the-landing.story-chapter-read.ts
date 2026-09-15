@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0452Chapter415TheLanding = {
   id: "01a0672c-ec12-7000-b47e-7ecec99ce8e4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0452-chapter-415-the-landing",
   title: "Chapter 415: The Landing",
   story: "story-read/dungeon-of-knowledge-complete",

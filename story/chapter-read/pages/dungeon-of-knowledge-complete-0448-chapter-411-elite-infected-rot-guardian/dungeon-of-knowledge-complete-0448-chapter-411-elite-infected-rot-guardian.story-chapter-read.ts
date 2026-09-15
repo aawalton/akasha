@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0448Chapter411EliteInfectedRotGuardian = {
   id: "01a0672c-ec0d-7003-9bc0-77bac3ff125b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0448-chapter-411-elite-infected-rot-guardian",
   title: "Chapter 411: Elite Infected Rot Guardian",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0398Chapter361ASpotOfShadeForAli = {
   id: "01a0672c-ebfe-7000-bfe9-c0dfee0e978e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0398-chapter-361-a-spot-of-shade-for-ali",
   title: "Chapter 361: A Spot of Shade for Ali",
   story: "story-read/dungeon-of-knowledge-complete",

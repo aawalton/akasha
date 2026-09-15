@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0432Chapter395BaelokDescrier = {
   id: "01a0672c-ec08-7005-8d93-f7524e28fbd4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0432-chapter-395-baelok-descrier",
   title: "Chapter 395: Baelok Descrier",
   story: "story-read/dungeon-of-knowledge-complete",

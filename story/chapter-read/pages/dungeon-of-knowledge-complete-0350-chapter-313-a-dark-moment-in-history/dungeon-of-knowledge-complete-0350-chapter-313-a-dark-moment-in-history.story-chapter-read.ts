@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0350Chapter313ADarkMomentInHistory = {
   id: "01a0672c-ebed-7001-bef5-4d05a02b6012",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0350-chapter-313-a-dark-moment-in-history",
   title: "Chapter 313: A Dark Moment in History",
   story: "story-read/dungeon-of-knowledge-complete",

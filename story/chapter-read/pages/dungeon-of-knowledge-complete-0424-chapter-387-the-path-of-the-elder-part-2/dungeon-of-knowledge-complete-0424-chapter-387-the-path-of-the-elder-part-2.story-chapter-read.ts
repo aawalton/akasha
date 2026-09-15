@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0424Chapter387ThePathOfTheElderPart2 = {
   id: "01a0672c-ec06-7003-a72a-89132602e549",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0424-chapter-387-the-path-of-the-elder-part-2",
   title: "Chapter 387: The Path of the Elder (Part 2)",
   story: "story-read/dungeon-of-knowledge-complete",

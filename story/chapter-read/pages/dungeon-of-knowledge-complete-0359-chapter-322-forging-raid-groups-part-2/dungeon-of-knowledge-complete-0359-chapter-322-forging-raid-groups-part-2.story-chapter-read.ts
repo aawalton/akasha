@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0359Chapter322ForgingRaidGroupsPart2 = {
   id: "01a0672c-ebf0-7000-bc5b-07da1877c50b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0359-chapter-322-forging-raid-groups-part-2",
   title: "Chapter 322: Forging Raid Groups (Part 2)",
   story: "story-read/dungeon-of-knowledge-complete",

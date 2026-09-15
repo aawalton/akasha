@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0405Chapter368ACrazyPlan = {
   id: "01a0672c-ebff-7004-b5a1-cc7c48df2c96",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0405-chapter-368-a-crazy-plan",
   title: "Chapter 368: A Crazy Plan",
   story: "story-read/dungeon-of-knowledge-complete",

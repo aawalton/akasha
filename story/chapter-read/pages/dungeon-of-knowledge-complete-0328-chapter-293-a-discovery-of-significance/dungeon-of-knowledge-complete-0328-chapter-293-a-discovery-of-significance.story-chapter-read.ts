@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0328Chapter293ADiscoveryOfSignificance = {
   id: "01a0672c-ebe5-7003-8e08-93d0af9a0231",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0328-chapter-293-a-discovery-of-significance",
   title: "Chapter 293: A Discovery of Significance",
   story: "story-read/dungeon-of-knowledge-complete",

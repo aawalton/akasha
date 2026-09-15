@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0369Chapter332HeroesOfTheCrimsonBladePart3 = {
   id: "01a0672c-ebf2-7000-8fb4-3ed3c920dd0d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0369-chapter-332-heroes-of-the-crimson-blade-part-3",
   title: "Chapter 332: Heroes of the Crimson Blade (Part 3)",
   story: "story-read/dungeon-of-knowledge-complete",

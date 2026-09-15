@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0341Chapter304TheArchmageSChoice = {
   id: "01a0672c-ebe8-7002-8239-b313b51d45e7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0341-chapter-304-the-archmage-s-choice",
   title: "Chapter 304: The Archmage’s Choice",
   story: "story-read/dungeon-of-knowledge-complete",

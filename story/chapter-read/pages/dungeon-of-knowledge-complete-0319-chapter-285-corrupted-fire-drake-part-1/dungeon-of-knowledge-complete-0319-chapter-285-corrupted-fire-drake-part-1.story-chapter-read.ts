@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0319Chapter285CorruptedFireDrakePart1 = {
   id: "01a0672c-ebe3-7007-97de-ff32a5c4f46d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0319-chapter-285-corrupted-fire-drake-part-1",
   title: "Chapter 285: Corrupted Fire Drake (Part 1)",
   story: "story-read/dungeon-of-knowledge-complete",

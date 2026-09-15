@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0362Chapter325RunicTattoos = {
   id: "01a0672c-ebf1-7001-9dc2-443e137a46eb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0362-chapter-325-runic-tattoos",
   title: "Chapter 325: Runic Tattoos",
   story: "story-read/dungeon-of-knowledge-complete",

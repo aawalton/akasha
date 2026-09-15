@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0437Chapter400AzryetSGift = {
   id: "01a0672c-ec0a-7001-9e0e-d0669d929e54",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0437-chapter-400-azryet-s-gift",
   title: "Chapter 400: Azryet’s Gift",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0297Chapter265SeekerOfTheFirstAge = {
   id: "01a0672c-ebdf-7000-8dfd-92e4fa8ad778",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0297-chapter-265-seeker-of-the-first-age",
   title: "Chapter 265: Seeker of the First Age",
   story: "story-read/dungeon-of-knowledge-complete",

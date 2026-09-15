@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0457Chapter420TheLittlestBerserker = {
   id: "01a0672c-ec14-7001-9fc7-e3fee4acd5ed",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0457-chapter-420-the-littlest-berserker",
   title: "Chapter 420: The Littlest Berserker",
   story: "story-read/dungeon-of-knowledge-complete",

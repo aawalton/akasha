@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0445Chapter408XammathAndTheEye = {
   id: "01a0672c-ec0d-7000-972a-27143f82f10b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0445-chapter-408-xammath-and-the-eye",
   title: "Chapter 408: Xammath and the Eye",
   story: "story-read/dungeon-of-knowledge-complete",

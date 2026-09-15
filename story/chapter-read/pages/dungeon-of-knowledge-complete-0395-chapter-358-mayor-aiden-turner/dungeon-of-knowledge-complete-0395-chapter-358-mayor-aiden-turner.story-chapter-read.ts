@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0395Chapter358MayorAidenTurner = {
   id: "01a0672c-ebf9-7002-9fcf-4042527cc40b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0395-chapter-358-mayor-aiden-turner",
   title: "Chapter 358: Mayor Aiden Turner",
   story: "story-read/dungeon-of-knowledge-complete",

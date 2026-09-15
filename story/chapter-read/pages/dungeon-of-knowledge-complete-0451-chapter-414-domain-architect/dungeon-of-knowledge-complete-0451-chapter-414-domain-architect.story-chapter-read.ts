@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0451Chapter414DomainArchitect = {
   id: "01a0672c-ec11-7000-a753-e80620f3c5f6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0451-chapter-414-domain-architect",
   title: "Chapter 414: Domain Architect",
   story: "story-read/dungeon-of-knowledge-complete",

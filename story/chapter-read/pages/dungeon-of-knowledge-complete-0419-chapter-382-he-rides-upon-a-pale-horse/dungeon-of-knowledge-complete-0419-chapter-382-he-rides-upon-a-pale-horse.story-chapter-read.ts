@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0419Chapter382HeRidesUponAPaleHorse = {
   id: "01a0672c-ec03-7002-8c1b-1b03303c7c5f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0419-chapter-382-he-rides-upon-a-pale-horse",
   title: "Chapter 382: He Rides Upon a Pale Horse",
   story: "story-read/dungeon-of-knowledge-complete",

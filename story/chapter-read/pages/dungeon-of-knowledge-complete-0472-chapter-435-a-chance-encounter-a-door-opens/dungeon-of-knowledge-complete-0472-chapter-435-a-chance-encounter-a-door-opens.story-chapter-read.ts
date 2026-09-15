@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0472Chapter435AChanceEncounterADoorOpens = {
   id: "01a0672c-ec1c-7001-8b68-b8485a6fc1ab",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0472-chapter-435-a-chance-encounter-a-door-opens",
   title: "Chapter 435: A Chance Encounter, A Door Opens",
   story: "story-read/dungeon-of-knowledge-complete",

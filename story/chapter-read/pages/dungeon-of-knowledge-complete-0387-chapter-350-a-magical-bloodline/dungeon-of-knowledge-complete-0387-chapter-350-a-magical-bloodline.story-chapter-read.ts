@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0387Chapter350AMagicalBloodline = {
   id: "01a0672c-ebf7-7003-b44b-87d2219c5f47",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0387-chapter-350-a-magical-bloodline",
   title: "Chapter 350: A Magical Bloodline",
   story: "story-read/dungeon-of-knowledge-complete",

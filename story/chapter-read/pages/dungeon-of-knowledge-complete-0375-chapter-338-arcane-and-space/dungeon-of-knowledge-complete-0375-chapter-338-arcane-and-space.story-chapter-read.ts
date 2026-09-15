@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0375Chapter338ArcaneAndSpace = {
   id: "01a0672c-ebf4-7000-8e3a-dce98f0b7f50",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0375-chapter-338-arcane-and-space",
   title: "Chapter 338: Arcane and Space",
   story: "story-read/dungeon-of-knowledge-complete",

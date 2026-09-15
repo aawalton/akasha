@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0361Chapter324TeharissaEvensong = {
   id: "01a0672c-ebf1-7000-b547-97bde9d6db39",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0361-chapter-324-teharissa-evensong",
   title: "Chapter 324: Teharissa Evensong",
   story: "story-read/dungeon-of-knowledge-complete",

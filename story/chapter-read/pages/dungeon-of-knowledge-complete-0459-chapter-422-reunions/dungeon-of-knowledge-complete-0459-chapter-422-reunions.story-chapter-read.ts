@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0459Chapter422Reunions = {
   id: "01a0672c-ec16-7000-a578-2be850071512",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0459-chapter-422-reunions",
   title: "Chapter 422: Reunions",
   story: "story-read/dungeon-of-knowledge-complete",

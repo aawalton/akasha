@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0486Chapter449SlimeLord = {
   id: "01a0672c-ec20-7000-90d8-36d8ceb380c7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0486-chapter-449-slime-lord",
   title: "Chapter 449: Slime Lord",
   story: "story-read/dungeon-of-knowledge-complete",

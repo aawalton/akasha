@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0393Chapter356TheSpearOfSilentExtinctionPart1 = {
   id: "01a0672c-ebf9-7000-9880-340205185f40",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0393-chapter-356-the-spear-of-silent-extinction-part-1",
   title: "Chapter 356: The Spear of Silent Extinction (Part 1)",
   story: "story-read/dungeon-of-knowledge-complete",

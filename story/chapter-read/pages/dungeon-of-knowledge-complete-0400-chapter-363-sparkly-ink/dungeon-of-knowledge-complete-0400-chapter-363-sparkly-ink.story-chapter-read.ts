@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0400Chapter363SparklyInk = {
   id: "01a0672c-ebfe-7002-a06c-f6cd4f7a7468",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0400-chapter-363-sparkly-ink",
   title: "Chapter 363: Sparkly Ink",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0392Chapter355MithrilBeetle = {
   id: "01a0672c-ebf8-7002-9525-a8f868300ab9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0392-chapter-355-mithril-beetle",
   title: "Chapter 355: Mithril Beetle",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0332Chapter297TheBranchingPathsOfTheDruid = {
   id: "01a0672c-ebe6-7003-9313-c48f271cb39b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0332-chapter-297-the-branching-paths-of-the-druid",
   title: "Chapter 297: The Branching Paths of the Druid",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0399Chapter362JewelryIsADungeonSBestFriend = {
   id: "01a0672c-ebfe-7001-a6d6-461dbf0877bf",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0399-chapter-362-jewelry-is-a-dungeon-s-best-friend",
   title: "Chapter 362: Jewelry is a Dungeon’s Best Friend",
   story: "story-read/dungeon-of-knowledge-complete",

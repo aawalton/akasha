@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0460Chapter423ReturnToTheBloomingRot = {
   id: "01a0672c-ec16-7001-8404-fc281db6f290",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0460-chapter-423-return-to-the-blooming-rot",
   title: "Chapter 423: Return to the Blooming Rot",
   story: "story-read/dungeon-of-knowledge-complete",

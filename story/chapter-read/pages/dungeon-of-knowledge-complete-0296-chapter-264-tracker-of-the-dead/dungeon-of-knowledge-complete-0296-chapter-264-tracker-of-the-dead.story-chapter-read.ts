@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0296Chapter264TrackerOfTheDead = {
   id: "01a0672c-ebde-7004-9916-5e4659dccaba",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0296-chapter-264-tracker-of-the-dead",
   title: "Chapter 264: Tracker of the Dead",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0479Chapter442Clone = {
   id: "01a0672c-ec1e-7001-951a-b2dc909bbc54",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0479-chapter-442-clone",
   title: "Chapter 442: Clone",
   story: "story-read/dungeon-of-knowledge-complete",
