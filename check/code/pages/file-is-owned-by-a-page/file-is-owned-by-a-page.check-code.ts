@@ -5,9 +5,9 @@ export const fileIsOwnedByAPage = {
   type: "check-code",
   slug: "file-is-owned-by-a-page",
   definition: "the check refusing a file that belongs to no page",
-  runsOnChange: false,
+  runsOnChange: true,
   runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
