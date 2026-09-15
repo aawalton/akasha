@@ -142,6 +142,10 @@ export const measureCheck = {
       invariantKind: "invariant-kind/departure",
       statement: "An argument this command does not take is refused.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The ceilings drawn are the ones a check's check group states.",
+    },
   ],
   name: "check",
   arguments: [{ argument: "argument/run-window" }],

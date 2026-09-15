@@ -82,6 +82,10 @@ export const measureChange = {
       invariantKind: "invariant-kind/departure",
       statement: "An argument this command does not take is refused.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The ceilings drawn are the ones the page of the change that ran states.",
+    },
   ],
   name: "change",
   arguments: [{ argument: "argument/run-window" }],

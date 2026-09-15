@@ -138,6 +138,10 @@ export const measureAudit = {
       invariantKind: "invariant-kind/departure",
       statement: "An argument this command does not take is refused.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The ceilings drawn are the ones a check's audit group states.",
+    },
   ],
   name: "audit",
   arguments: [{ argument: "argument/run-window" }],
