@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const loreCollections36 = {
   id: "01a060c0-4131-7af8-9be1-32625fa7a05b",
-  type: "module",
+  type: "page-type/module",
   slug: "lore-collections-36",
   definition: "part 36 of the lore library collections the table holds",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionRotationResults = {
   id: "01a06152-c2cf-7e15-a652-e564d4083d72",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-rotation-results",
   definition: "the totals a finished companion rotation adds up to",
   code: "ts",

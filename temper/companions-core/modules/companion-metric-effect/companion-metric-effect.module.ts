@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionMetricEffect = {
   id: "01a06108-076a-732c-a08f-c97be5fbfaf7",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-metric-effect",
   definition: "the change one source makes to one companion metric",
   code: "ts",

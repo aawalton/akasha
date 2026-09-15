@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionFactory = {
   id: "01a06152-c2c8-7e6d-b07f-b8d4a1e94f30",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-factory",
   definition:
     "factory for new and empty companion build states with role-derived default equipment",

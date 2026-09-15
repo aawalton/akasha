@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const conditionEvaluator = {
   id: "01a06152-c2d9-7bfd-bdcf-e47f851e9b16",
-  type: "module",
+  type: "page-type/module",
   slug: "condition-evaluator",
   definition: "how a companion skill's conditions are resolved during a rotation",
   code: "ts",

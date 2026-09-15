@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionSupportContributions = {
   id: "01a06152-c2d7-7218-a6b1-632b35f18a49",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-support-contributions",
   definition: "support damage and toughness contributions derived from ally-visible buff uptimes",
   code: "ts",

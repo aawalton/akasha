@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionWeaponRoleMatch = {
   id: "01a06152-c2d9-702b-a7bf-5b763c5df9fa",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-weapon-role-match",
   definition: "the pairing of a companion's two equipped weapons with a weapon role",
   code: "ts",

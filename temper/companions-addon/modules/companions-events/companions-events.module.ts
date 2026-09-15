@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionsEvents = {
   id: "01a0611d-84d9-7779-9148-3a4577993184",
-  type: "module",
+  type: "page-type/module",
   slug: "companions-events",
   definition: "the game events the companion add-on listens for",
   code: "ts",

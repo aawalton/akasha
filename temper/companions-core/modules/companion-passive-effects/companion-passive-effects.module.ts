@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionPassiveEffects = {
   id: "01a06152-c2ce-7902-aff0-c78fd3c8b657",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-passive-effects",
   definition: "the metric effects a companion's passive skill grants",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionPeriodicFormula = {
   id: "01a06152-c2ce-7fc4-8e01-f2c9a0d80207",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-periodic-formula",
   definition:
     "the tooltip number a periodic companion effect shows for a tick or for its whole run",

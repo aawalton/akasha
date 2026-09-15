@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionsSkillsPanel = {
   id: "01a0611d-84e4-7331-8c28-29e6c8fced09",
-  type: "module",
+  type: "page-type/module",
   slug: "companions-skills-panel",
   definition: "the panel showing a companion's slotted skills beside the ones a build asks for",
   code: "ts",

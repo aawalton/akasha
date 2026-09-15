@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionsDecoder = {
   id: "01a0611d-84d3-78d6-9380-f8a2bcde377b",
-  type: "module",
+  type: "page-type/module",
   slug: "companions-decoder",
   definition: "turning a companion build hash back into gear and skill indices",
   code: "ts",

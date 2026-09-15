@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const referenceBuildData = {
   id: "01a06152-c2da-7538-9de2-da50c79de469",
-  type: "module",
+  type: "page-type/module",
   slug: "reference-build-data",
   definition: "lazily decoded reference companion build and its cached support baseline",
   code: "ts",

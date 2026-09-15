@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionRotationMetrics = {
   id: "01a06152-c2cf-78e0-86fc-3c00f49037b8",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-rotation-metrics",
   definition:
     "derivation of dps, hps, sps and tps metric entries from a simulated companion rotation",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionsEquipmentFormatters = {
   id: "01a0611d-84d4-73da-a5b9-80d34d8c2696",
-  type: "module",
+  type: "page-type/module",
   slug: "companions-equipment-formatters",
   definition: "one line of text for a companion's armor, jewelry or weapon slot",
   code: "ts",

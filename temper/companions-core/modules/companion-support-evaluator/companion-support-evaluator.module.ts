@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionSupportEvaluator = {
   id: "01a06152-c2d7-79f1-86ad-f183166c0a7e",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-support-evaluator",
   definition: "assembly of the three support rotation metrics from a companion stats result",
   code: "ts",

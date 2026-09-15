@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionSoothingHealing = {
   id: "01a06152-c2d4-7368-9a79-2be1d6ec751f",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-soothing-healing",
   definition: "the healing a companion's soothing-trait gear adds up to",
   code: "ts",

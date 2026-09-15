@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companions = {
   id: "01a06119-5caf-7f14-b426-f5ed8d06b488",
-  type: "module",
+  type: "page-type/module",
   slug: "companions",
   definition: "every companion a player may take along, with the passive each one grants",
   code: "ts",

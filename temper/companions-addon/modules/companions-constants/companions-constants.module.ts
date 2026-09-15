@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionsConstants = {
   id: "01a0611d-84d2-779b-a879-d2363a90342d",
-  type: "module",
+  type: "page-type/module",
   slug: "companions-constants",
   definition: "the add-on's name and the shape its saved variables start out as",
   code: "ts",

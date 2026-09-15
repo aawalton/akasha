@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonDownload = {
   id: "01a06069-b78f-70ea-813a-1ddfccad983a",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-download",
   definition: "an ESOUI archive fetched, proved, unpacked and laid into the addons directory",
   code: "ts",

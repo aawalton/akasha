@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionQolCasts = {
   id: "01a0611d-84c4-7502-90cd-7bbaa684cb7d",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-qol-casts",
   definition: "reading a value of a known kind out of a saved variables table",
   code: "ts",

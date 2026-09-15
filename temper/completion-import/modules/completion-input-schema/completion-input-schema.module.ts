@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionInputSchema = {
   id: "01a060d7-c8ce-7583-8247-676a8ee7d0c5",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-input-schema",
   definition:
     "a tolerant reading of what the addon wrote for an account or a character or a companion",

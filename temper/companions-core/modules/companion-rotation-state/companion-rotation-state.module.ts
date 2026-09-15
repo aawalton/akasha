@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionRotationState = {
   id: "01a06152-c2d0-7500-91c7-dc74d3b1f9e3",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-rotation-state",
   definition: "the starting state a companion rotation is simulated from",
   code: "ts",

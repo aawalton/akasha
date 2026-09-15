@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionSupportBaseline = {
   id: "01a06152-c2d6-735f-b4cd-3686f61269aa",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-support-baseline",
   definition: "reference baseline of buff uptimes and damage multipliers for a companion build",
   code: "ts",

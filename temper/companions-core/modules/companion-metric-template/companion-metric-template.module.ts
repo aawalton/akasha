@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionMetricTemplate = {
   id: "01a06108-076d-7d54-8679-103ed9862380",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-metric-template",
   definition:
     "the shape a companion metric is declared in, and the arithmetic its value is worked out by",

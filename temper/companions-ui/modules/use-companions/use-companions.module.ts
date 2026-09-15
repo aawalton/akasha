@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const useCompanions = {
   id: "01a06360-7480-7003-a85c-d8871a560ac7",
-  type: "module",
+  type: "page-type/module",
   slug: "use-companions",
   definition: "a player's companion builds, read and written",
   code: "ts",

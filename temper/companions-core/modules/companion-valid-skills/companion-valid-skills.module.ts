@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionValidSkills = {
   id: "01a06152-c2d9-7726-830c-2e1d67f493b4",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-valid-skills",
   definition: "the set of skill ids a companion build may still slot",
   code: "ts",

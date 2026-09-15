@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionQolInteractionState = {
   id: "01a0611d-84c9-773b-b409-f70118da30cb",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-qol-interaction-state",
   definition: "when a companion was dismissed for an interaction and whether to bring it back",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionPassiveMetrics = {
   id: "01a06110-abe3-7715-9a32-c5e21285cb2e",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-passive-metrics",
   definition: "the metrics a companion passive raises, each named for what it changes",
   code: "ts",
