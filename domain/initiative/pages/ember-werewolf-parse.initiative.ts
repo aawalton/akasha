@@ -10,7 +10,7 @@ export const emberWerewolfParse = {
     {
       statement: "Three-Color Stalker parses 135,000 or more on the trials dummy.",
       workingMemory:
-        "The Update 50 figure on the 21 million Iron Atronach is 176.7k for this setup on Nightblade. It comes from a simulator assuming every light attack lands and bash weaving, so a real parse falls short. Food is Braised Rabbit with Spring Vegetables. The potion is Essence of Weapon Power from Blessed Thistle, Dragonthorn and Water Hyacinth: the kit carries Major Brutality, Sorcery, Berserk, Courage and Minor Force already, and Major Savagery is the one damage buff left for a potion.\n",
+        "The best parse so far is 128,713 over 2:43 on the 21 million Iron Atronach. Rampage held 61 percent and carries 15 percent damage done, so raising it is most of the gap. Rampage is gated on Fury, which comes from Feral Carnage's ticks, double from Hircine's Rage, and from light attacks, of which that parse landed 113 where a clean weave lands nearer 145. Food is Braised Rabbit with Spring Vegetables. The potion is Essence of Stamina for its Minor Heroism, the skills carrying Major Savagery.\n",
     },
     {
       statement: "An inventory capture reaches akasha again.",
