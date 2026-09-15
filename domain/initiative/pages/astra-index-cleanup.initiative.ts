@@ -8,11 +8,6 @@ export const astraIndexCleanup = {
   persona: "persona/astra",
   intentStack: [
     {
-      statement: "A file property declares one extension.",
-      workingMemory:
-        "A case that diverges splits into its own page type rather than taking a second optional property: a module is `.ts`, a component `.tsx`. Five of 162 file properties vary today: `code`, `test`, `route-code` and `route-test` run `ts` against `tsx`, and `content` on provisioned files runs `sh`, `conf` and `json`. Nothing refuses a second extension, and `extensions.text-property.ts` states an invariant blessing one, so that page turns as well.\n",
-    },
-    {
       statement: "Alan holds the parse cache's structure correct.",
       workingMemory:
         "`.git/cache/parse` holds a folder per model, each sharded into 256 `.jsonl` by the first two characters of a key, the key being a sha256 over the model and the text cut to 32 characters and the line carrying the whole text back to compare. 512 files at 162 MB over two folders, one of them a dead first shape. `domain/plain-language/modules/parse-cache/parse-cache.module.code.ts` writes it.\n",
