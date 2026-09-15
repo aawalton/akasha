@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksTwistedSugar50OffADozenCookies = {
   id: "019f322c-b2be-7a49-b4dd-eb672e0fc3f6",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-twisted-sugar-50-off-a-dozen-cookies",
   title: "Twisted Sugar — 50% OFF! a Dozen Cookies!",
   collection: "location-collection/starving-student-card",

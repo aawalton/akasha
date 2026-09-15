@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksYonutz241SmashedOrSimplySmashedDonut = {
   id: "019f322c-b2e8-76fc-81c3-395b1e8a99d5",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-yonutz-2-4-1-smashed-or-simply-smashed-donut",
   title: "Yonutz — 2-4-1! Smashed or Simply Smashed Donut!",
   collection: "location-collection/starving-student-card",

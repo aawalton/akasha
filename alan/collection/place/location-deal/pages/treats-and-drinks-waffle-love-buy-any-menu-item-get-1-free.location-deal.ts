@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksWaffleLoveBuyAnyMenuItemGet1Free = {
   id: "019f322c-b2d1-792b-a807-97b473042f4a",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-waffle-love-buy-any-menu-item-get-1-free",
   title: "Waffle Love — Buy Any Menu Item, Get 1 FREE!",
   collection: "location-collection/starving-student-card",

@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksUvuScoops241SingleScoopOfIceCream = {
   id: "019f322c-b2ca-72c0-955d-e49a6cdb6633",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-uvu-scoops-2-4-1-single-scoop-of-ice-cream",
   title: "UVU Scoops — 2-4-1! Single Scoop of Ice Cream!",
   collection: "location-collection/starving-student-card",

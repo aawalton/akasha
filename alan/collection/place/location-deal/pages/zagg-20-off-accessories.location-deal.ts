@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const zagg20OffAccessories = {
   id: "019f322c-acf5-7a25-a7b6-0d7c0d27e953",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "zagg-20-off-accessories",
   title:
     "ZAGG — 20% OFF! Any Glass Screen Protection, Phone Case, Headphones, Power Bank or Bluetooth Keyboard!",

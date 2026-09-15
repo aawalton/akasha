@@ -2,7 +2,7 @@ import type { LocationDeal } from "akasha/alan/collection/place/location-deal/lo
 
 export const treatsAndDrinksYogurtland50OffOneYogurt = {
   id: "019f322c-b2e0-7cbe-b36f-6c32d7b3dc2c",
-  type: "location-deal",
+  type: "page-type/location-deal",
   slug: "treats-and-drinks-yogurtland-50-off-one-yogurt",
   title: "Yogurtland — 50% OFF! One Yogurt!",
   collection: "location-collection/starving-student-card",
