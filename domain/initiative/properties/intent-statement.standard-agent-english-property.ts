@@ -2,7 +2,7 @@ import type { StandardAgentEnglishProperty } from "akasha/domain/standard-agent-
 
 export const intentStatement = {
   id: "01a05f19-7b27-7bb1-955d-9086b34c5c30",
-  type: "standard-agent-english-property",
+  type: "page-type/standard-agent-english-property",
   slug: "intent-statement",
   propertySlug: "statement",
   definition: "one sentence saying what an initiative is to make so",

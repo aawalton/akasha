@@ -2,7 +2,7 @@ import type { StandardAgentEnglishProperty } from "akasha/domain/standard-agent-
 
 export const invariantStatement = {
   id: "01a049c8-3ead-7c41-ae0b-d4c110afbc4f",
-  type: "standard-agent-english-property",
+  type: "page-type/standard-agent-english-property",
   slug: "invariant-statement",
   propertySlug: "statement",
   definition: "one sentence an invariant has a page to",
