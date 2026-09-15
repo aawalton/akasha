@@ -673,6 +673,7 @@
 {"propertySlug":"invariant-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts","id":"01a04e33-f280-701e-96a0-859a53ed8298"}
 {"propertySlug":"invariant-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/modules-only/modules-only.folder-shape.ts","id":"01a05f26-edf0-76fc-b2f1-9351eb172aee"}
 {"propertySlug":"invariant-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/pages-of-the-type-above/pages-of-the-type-above.folder-shape.ts","id":"01a05f26-edf0-78fe-b79b-4b1b278b55f2"}
+{"propertySlug":"invariant-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/parts-under-their-plural/parts-under-their-plural.folder-shape.ts","id":"01a0a5c5-2740-7001-863a-0802035387a4"}
 {"propertySlug":"invariant-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/property-pages-only/property-pages-only.folder-shape.ts","id":"01a04e70-3e92-796f-b5e9-ce47ee249c71"}
 {"propertySlug":"invariant-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/scripts-only/scripts-only.folder-shape.ts","id":"01a063e4-5f38-7000-a16b-d956278882ec"}
 {"propertySlug":"invariant-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/test-fixtures-only/test-fixtures-only.folder-shape.ts","id":"01a09c39-04e2-79c7-be33-a7bdb265f7f1"}

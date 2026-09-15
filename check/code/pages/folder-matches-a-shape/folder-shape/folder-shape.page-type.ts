@@ -45,6 +45,7 @@ export const folderShape = {
     "folder-shape/a-service-workstation-with-its-parts",
     "folder-shape/modules-only",
     "folder-shape/pages-of-the-type-above",
+    "folder-shape/parts-under-their-plural",
     "folder-shape/properties-of-the-type-above",
     "folder-shape/property-pages-only",
     "folder-shape/scripts-only",
