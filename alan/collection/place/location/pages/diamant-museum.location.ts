@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const diamantMuseum = {
   id: "019f1b49-5548-75c1-8446-f07a9ec90e97",
-  type: "location",
+  type: "page-type/location",
   slug: "diamant-museum",
   title: "Diamant Museum",
   latitude: 52.3594104,

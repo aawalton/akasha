@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chickFilA = {
   id: "019f1aec-1004-7065-a43f-beacb6eb0235",
-  type: "location",
+  type: "page-type/location",
   slug: "chick-fil-a",
   title: "Chick-fil-A",
   address: "121 N State St, Orem, UT 84057, United States",

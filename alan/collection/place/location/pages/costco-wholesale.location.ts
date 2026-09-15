@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const costcoWholesale = {
   id: "019f1b49-52bd-7241-a24e-97852339d2ae",
-  type: "location",
+  type: "page-type/location",
   slug: "costco-wholesale",
   title: "Costco Wholesale",
   latitude: 21.392327,

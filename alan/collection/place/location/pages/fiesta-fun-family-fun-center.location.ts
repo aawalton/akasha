@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const fiestaFunFamilyFunCenter = {
   id: "019f1b49-5614-7de4-a1a5-10d4c7efe829",
-  type: "location",
+  type: "page-type/location",
   slug: "fiesta-fun-family-fun-center",
   title: "Fiesta Fun Family Fun Center",
   latitude: 48.726631,

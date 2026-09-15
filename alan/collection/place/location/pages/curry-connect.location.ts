@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const curryConnect = {
   id: "019f1aec-0ce9-795e-9711-0bc5ebcbc041",
-  type: "location",
+  type: "page-type/location",
   slug: "curry-connect",
   title: "Curry Connect",
   latitude: 40.5822402,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cravingsBistroUtahCounty = {
   id: "019f322c-944a-74e7-a526-06d58d732440",
-  type: "location",
+  type: "page-type/location",
   slug: "cravings-bistro-utah-county",
   title: "Cravings Bistro (Utah County)",
   address: "Utah County, UT",

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const dippinDotsFabFreddysLehi = {
   id: "019f322c-9484-7401-9e19-9f21101b8e5f",
-  type: "location",
+  type: "page-type/location",
   slug: "dippin-dots-fab-freddys-lehi",
   title: "Dippin' Dots Fab Freddy's (Lehi)",
   address: "Lehi, UT",

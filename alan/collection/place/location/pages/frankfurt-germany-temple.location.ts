@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const frankfurtGermanyTemple = {
   id: "019f1b49-5626-7d83-ac37-1d453c801166",
-  type: "location",
+  type: "page-type/location",
   slug: "frankfurt-germany-temple",
   title: "Frankfurt Germany Temple",
   latitude: 50.123562,

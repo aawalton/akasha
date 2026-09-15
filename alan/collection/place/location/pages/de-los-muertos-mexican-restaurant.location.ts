@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const deLosMuertosMexicanRestaurant = {
   id: "019f1b49-51d8-7968-a06b-c9f4536928f1",
-  type: "location",
+  type: "page-type/location",
   slug: "de-los-muertos-mexican-restaurant",
   title: "De Los Muertos - Mexican Restaurant",
   latitude: 35.523219,

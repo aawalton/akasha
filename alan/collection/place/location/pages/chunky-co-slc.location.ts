@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chunkyCoSlc = {
   id: "019f1b49-5191-7ef1-8863-f8d906002438",
-  type: "location",
+  type: "page-type/location",
   slug: "chunky-co-slc",
   title: "Chunky & Co SLC",
   latitude: 37.77823,

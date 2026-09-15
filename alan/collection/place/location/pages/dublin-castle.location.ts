@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const dublinCastle = {
   id: "019f1aec-0d63-70be-983a-2f23bc8ce575",
-  type: "location",
+  type: "page-type/location",
   slug: "dublin-castle",
   title: "Dublin Castle",
   latitude: 53.3426623,

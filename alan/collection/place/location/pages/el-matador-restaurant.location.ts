@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const elMatadorRestaurant = {
   id: "019f1b49-54dd-71b7-9d9d-59ab834aca3e",
-  type: "location",
+  type: "page-type/location",
   slug: "el-matador-restaurant",
   title: "El Matador Restaurant",
   latitude: 34.9569602,

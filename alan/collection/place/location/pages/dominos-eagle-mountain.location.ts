@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const dominosEagleMountain = {
   id: "019f322c-94af-7adc-983a-2932c2fe1e59",
-  type: "location",
+  type: "page-type/location",
   slug: "dominos-eagle-mountain",
   title: "Domino's (Eagle Mountain)",
   address: "Eagle Mountain, UT",

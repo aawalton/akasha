@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cinnabonOrem = {
   id: "019f322c-9317-7593-82ee-3889e6183994",
-  type: "location",
+  type: "page-type/location",
   slug: "cinnabon-orem",
   title: "Cinnabon (Orem)",
   address: "Orem, UT",

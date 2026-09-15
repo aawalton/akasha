@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chocolatierHenriLeRoux = {
   id: "019f1b49-5430-7db1-864d-bad266afcfdf",
-  type: "location",
+  type: "page-type/location",
   slug: "chocolatier-henri-le-roux",
   title: "Chocolatier Henri Le Roux",
   latitude: 48.878249,

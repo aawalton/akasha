@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const dollarTree = {
   id: "019f1aec-0c7f-724c-83af-160115dbf39a",
-  type: "location",
+  type: "page-type/location",
   slug: "dollar-tree",
   title: "Dollar Tree",
   latitude: 47.6860452,

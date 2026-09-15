@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const fabulososTacosUtahCounty = {
   id: "019f322c-958c-79d9-a0b5-6cc28374f18c",
-  type: "location",
+  type: "page-type/location",
   slug: "fabulosos-tacos-utah-county",
   title: "Fabulosos Tacos (Utah County)",
   address: "Utah County, UT",

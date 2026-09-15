@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const denverBotanicGardens = {
   id: "019f1aec-0d46-78db-9dc9-101b9ff90fa9",
-  type: "location",
+  type: "page-type/location",
   slug: "denver-botanic-gardens",
   title: "Denver Botanic Gardens",
   latitude: 39.7320369,

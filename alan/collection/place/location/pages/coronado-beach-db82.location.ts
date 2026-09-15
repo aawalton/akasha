@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const coronadoBeachDb82 = {
   id: "019f1aec-0f5b-7cf0-9a10-973faabfdb82",
-  type: "location",
+  type: "page-type/location",
   slug: "coronado-beach-db82",
   title: "Coronado Beach",
   latitude: 32.6847742,

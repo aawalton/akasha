@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const fountainOfJustice = {
   id: "019f1b49-5632-78a8-bc47-68a8b077c986",
-  type: "location",
+  type: "page-type/location",
   slug: "fountain-of-justice",
   title: "Fountain of Justice",
   latitude: 50.1106444,

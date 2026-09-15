@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const dairyQueenEagleMountain = {
   id: "019f322c-946e-7245-84a7-2032d3e4a47d",
-  type: "location",
+  type: "page-type/location",
   slug: "dairy-queen-eagle-mountain",
   title: "Dairy Queen (Eagle Mountain)",
   address: "Eagle Mountain, UT",

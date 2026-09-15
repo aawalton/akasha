@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chinatownSupermarket = {
   id: "019f1b49-54ce-7461-963a-0a9395a8dc11",
-  type: "location",
+  type: "page-type/location",
   slug: "chinatown-supermarket",
   title: "Chinatown Supermarket - 中國城超市",
   latitude: 40.713697,

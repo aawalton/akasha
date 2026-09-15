@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const centreComercialDiagonalMar = {
   id: "019f1aec-0e69-710e-b326-efcfa8c6b13c",
-  type: "location",
+  type: "page-type/location",
   slug: "centre-comercial-diagonal-mar",
   title: "Centre Comercial Diagonal Mar",
   latitude: 41.4096735,

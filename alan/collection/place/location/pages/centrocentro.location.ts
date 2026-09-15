@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const centrocentro = {
   id: "019f1aec-0d69-7112-a9c4-b1dd15fe4132",
-  type: "location",
+  type: "page-type/location",
   slug: "centrocentro",
   title: "CentroCentro",
   latitude: 40.4189657,

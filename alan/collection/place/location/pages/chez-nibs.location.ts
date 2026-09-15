@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chezNibs = {
   id: "019f1aec-0ce2-74bb-b170-2a19759ecf93",
-  type: "location",
+  type: "page-type/location",
   slug: "chez-nibs",
   title: "Chez Nibs",
   latitude: 40.7582667,

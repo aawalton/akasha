@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const fkosh = {
   id: "019f1aec-0cb7-7023-9010-96624bf7468d",
-  type: "location",
+  type: "page-type/location",
   slug: "fkosh",
   title: "F'kosh",
   latitude: 40.3879879,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const dennysUtahCounty = {
   id: "019f322c-9480-7d45-9f12-a1c272dd0576",
-  type: "location",
+  type: "page-type/location",
   slug: "dennys-utah-county",
   title: "Dennys (Utah County)",
   address: "Utah County, UT",

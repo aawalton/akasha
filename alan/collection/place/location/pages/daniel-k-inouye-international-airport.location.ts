@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const danielKInouyeInternationalAirport = {
   id: "019f1b49-52d5-7b1e-ad96-31b2ec346abd",
-  type: "location",
+  type: "page-type/location",
   slug: "daniel-k-inouye-international-airport",
   title: "Daniel K. Inouye International Airport",
   latitude: 21.3337782,

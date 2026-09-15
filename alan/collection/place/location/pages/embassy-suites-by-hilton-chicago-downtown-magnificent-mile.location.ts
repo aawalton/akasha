@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const embassySuitesByHiltonChicagoDowntownMagnificentMile = {
   id: "019f1aec-0eb0-7c97-8431-a758a9181feb",
-  type: "location",
+  type: "page-type/location",
   slug: "embassy-suites-by-hilton-chicago-downtown-magnificent-mile",
   title: "Embassy Suites by Hilton Chicago Downtown Magnificent Mile",
   latitude: 41.8915058,

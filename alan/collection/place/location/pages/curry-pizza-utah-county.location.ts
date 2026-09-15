@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const curryPizzaUtahCounty = {
   id: "019f322c-9468-79f8-ad2e-88dd224c8084",
-  type: "location",
+  type: "page-type/location",
   slug: "curry-pizza-utah-county",
   title: "Curry Pizza (Utah County)",
   address: "Utah County, UT",

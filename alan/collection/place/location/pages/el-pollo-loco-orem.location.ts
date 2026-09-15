@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const elPolloLocoOrem = {
   id: "019f322c-9529-7330-8325-32fae6d86ea8",
-  type: "location",
+  type: "page-type/location",
   slug: "el-pollo-loco-orem",
   title: "El Pollo Loco (Orem)",
   address: "Orem, UT",

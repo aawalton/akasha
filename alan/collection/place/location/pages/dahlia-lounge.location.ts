@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const dahliaLounge = {
   id: "019f1aec-0ca6-7884-a497-4782143a93fd",
-  type: "location",
+  type: "page-type/location",
   slug: "dahlia-lounge",
   title: "Dahlia Lounge",
   latitude: 47.6130272,

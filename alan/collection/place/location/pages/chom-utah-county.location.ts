@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chomUtahCounty = {
   id: "019f322c-92c3-7ffd-9730-18e856fae7f5",
-  type: "location",
+  type: "page-type/location",
   slug: "chom-utah-county",
   title: "CHOM (Utah County)",
   address: "Utah County, UT",

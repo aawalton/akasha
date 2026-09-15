@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const esoTavern2026BurgLudwigstein = {
   id: "019f37a9-8480-7a8f-bb43-7370aa9331ed",
-  type: "location",
+  type: "page-type/location",
   slug: "eso-tavern-2026-burg-ludwigstein",
   title: "ESO Tavern 2026 — Burg Ludwigstein",
   collection: "location-collection/europe-trip-2026",

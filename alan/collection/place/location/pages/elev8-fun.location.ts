@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const elev8Fun = {
   id: "019f1aec-0efe-71fc-84c8-f616085bd8ca",
-  type: "location",
+  type: "page-type/location",
   slug: "elev8-fun",
   title: "Elev8 Fun",
   latitude: 28.8035112,

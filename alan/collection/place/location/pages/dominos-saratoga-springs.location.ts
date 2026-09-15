@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const dominosSaratogaSprings = {
   id: "019f322c-94bd-720e-b53d-3de16bc6fc54",
-  type: "location",
+  type: "page-type/location",
   slug: "dominos-saratoga-springs",
   title: "Domino's (Saratoga Springs)",
   address: "Saratoga Springs, UT",

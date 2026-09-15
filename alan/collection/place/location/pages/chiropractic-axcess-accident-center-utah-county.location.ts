@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chiropracticAxcessAccidentCenterUtahCounty = {
   id: "019f322c-92bd-7cd7-b445-8f79c5eca81a",
-  type: "location",
+  type: "page-type/location",
   slug: "chiropractic-axcess-accident-center-utah-county",
   title: "Chiropractic: Axcess Accident Center (Utah County)",
   address: "Utah County, UT",

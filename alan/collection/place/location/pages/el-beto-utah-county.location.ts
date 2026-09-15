@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const elBetoUtahCounty = {
   id: "019f322c-9518-794f-b627-dff961364f95",
-  type: "location",
+  type: "page-type/location",
   slug: "el-beto-utah-county",
   title: "El Beto (Utah County)",
   address: "Utah County, UT",

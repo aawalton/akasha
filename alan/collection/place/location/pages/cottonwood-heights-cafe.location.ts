@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cottonwoodHeightsCafe = {
   id: "019f1b49-54bb-7a80-a249-871ea51808a3",
-  type: "location",
+  type: "page-type/location",
   slug: "cottonwood-heights-cafe",
   title: "Cottonwood Heights Cafe",
   latitude: 40.618873,

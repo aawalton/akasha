@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const danaPointHarbor = {
   id: "019f1b49-558b-7ed8-8756-a0d234496a79",
-  type: "location",
+  type: "page-type/location",
   slug: "dana-point-harbor",
   title: "Dana Point Harbor",
   latitude: 33.45975,

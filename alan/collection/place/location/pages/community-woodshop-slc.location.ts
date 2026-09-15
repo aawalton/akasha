@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const communityWoodshopSlc = {
   id: "019f1b49-512a-75c5-9dc2-23bf33ccb858",
-  type: "location",
+  type: "page-type/location",
   slug: "community-woodshop-slc",
   title: "Community Woodshop SLC",
   latitude: 40.918984,

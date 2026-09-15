@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const changChun = {
   id: "019f1aec-1045-70ee-bb7c-665119966edd",
-  type: "location",
+  type: "page-type/location",
   slug: "chang-chun",
   title: "Chang Chun",
   address: "51 S Main St, Salt Lake City, UT 84144, United States",

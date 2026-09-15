@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const elPolloLocoLehi = {
   id: "019f322c-9523-7509-904d-b6e13131c92e",
-  type: "location",
+  type: "page-type/location",
   slug: "el-pollo-loco-lehi",
   title: "El Pollo Loco (Lehi)",
   address: "Lehi, UT",

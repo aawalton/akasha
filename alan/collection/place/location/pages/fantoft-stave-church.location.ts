@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const fantoftStaveChurch = {
   id: "019f1b49-572d-7f5a-aaa3-32c691eced8e",
-  type: "location",
+  type: "page-type/location",
   slug: "fantoft-stave-church",
   title: "Fantoft Stave Church",
   latitude: 28.3706341,

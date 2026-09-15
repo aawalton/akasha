@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const corvetteDiner = {
   id: "019f1aec-0e5c-742b-841d-1f19f5c4feb0",
-  type: "location",
+  type: "page-type/location",
   slug: "corvette-diner",
   title: "Corvette Diner",
   latitude: 32.7417248,

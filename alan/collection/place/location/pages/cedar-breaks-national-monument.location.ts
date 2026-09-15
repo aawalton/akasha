@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cedarBreaksNationalMonument = {
   id: "019f1b49-5664-7f3a-9bf0-da3d9ee0f42a",
-  type: "location",
+  type: "page-type/location",
   slug: "cedar-breaks-national-monument",
   title: "Cedar Breaks National Monument",
   latitude: 37.6387738,

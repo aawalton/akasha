@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const farini = {
   id: "019f1aec-0e17-796b-af97-f24c1fc34dc3",
-  type: "location",
+  type: "page-type/location",
   slug: "farini",
   title: "Farini",
   latitude: 45.4397725,

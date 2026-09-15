@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const folkehusetAbsalon = {
   id: "019f1aec-0d83-7f18-877d-8d5b35808004",
-  type: "location",
+  type: "page-type/location",
   slug: "folkehuset-absalon",
   title: "Folkehuset Absalon",
   latitude: 55.6653188,

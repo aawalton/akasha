@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const elPatronMexicanGrill = {
   id: "019f1aec-0d3f-7e70-8d6f-a19c20ed1a5b",
-  type: "location",
+  type: "page-type/location",
   slug: "el-patron-mexican-grill",
   title: "El Patron Mexican Grill",
   latitude: 44.0465505,

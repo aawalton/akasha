@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const fivePointsPizzaEast = {
   id: "019f1aec-0deb-7878-9cc5-15b19568f940",
-  type: "location",
+  type: "page-type/location",
   slug: "five-points-pizza-east",
   title: "Five Points Pizza East",
   latitude: 36.1771572,

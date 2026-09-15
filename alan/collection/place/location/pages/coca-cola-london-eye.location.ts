@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cocaColaLondonEye = {
   id: "019f1b49-55e3-73ae-8302-f54e747b23cf",
-  type: "location",
+  type: "page-type/location",
   slug: "coca-cola-london-eye",
   title: "Coca-Cola London Eye",
   latitude: 51.5074456,

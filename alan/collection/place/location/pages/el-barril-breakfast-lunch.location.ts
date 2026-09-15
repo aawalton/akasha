@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const elBarrilBreakfastLunch = {
   id: "019f1b49-5249-7e03-af65-0659b9f9af1c",
-  type: "location",
+  type: "page-type/location",
   slug: "el-barril-breakfast-lunch",
   title: "El Barril Breakfast & Lunch",
   latitude: 42.5898104,

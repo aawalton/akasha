@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const copps = {
   id: "019f1aec-0f6b-788a-a89d-bb765b7d8c59",
-  type: "location",
+  type: "page-type/location",
   slug: "copps",
   title: "Copps",
   latitude: 43.013701,

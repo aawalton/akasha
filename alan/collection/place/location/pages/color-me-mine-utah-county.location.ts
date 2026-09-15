@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const colorMeMineUtahCounty = {
   id: "019f322c-93f5-7cac-a1da-91f8fdaf01a3",
-  type: "location",
+  type: "page-type/location",
   slug: "color-me-mine-utah-county",
   title: "Color Me Mine (Utah County)",
   address: "Utah County, UT",

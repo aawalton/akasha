@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const elBetoProvo = {
   id: "019f322c-9512-700a-adaa-d13f9940bc66",
-  type: "location",
+  type: "page-type/location",
   slug: "el-beto-provo",
   title: "El Beto (Provo)",
   address: "Provo, UT",

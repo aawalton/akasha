@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chanceysHouse = {
   id: "019f1aec-0f47-7676-b0f9-495aa12c8a1f",
-  type: "location",
+  type: "page-type/location",
   slug: "chanceys-house",
   title: "Chancey's House",
   address: "5305 221st Ave NE, Redmond, WA 98053, USA",

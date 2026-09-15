@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const dangerousPretzel = {
   id: "019f1aec-0cf3-70a9-9f4b-dd7aa649d6fb",
-  type: "location",
+  type: "page-type/location",
   slug: "dangerous-pretzel",
   title: "Dangerous Pretzel",
   latitude: 40.7567118,

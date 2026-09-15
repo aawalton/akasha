@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const enricosDeliPizzeria = {
   id: "019f1b49-5140-7ecc-90c1-d7a32407dbc2",
-  type: "location",
+  type: "page-type/location",
   slug: "enricos-deli-pizzeria",
   title: "Enrico's Deli & Pizzeria",
   latitude: 40.6505509,

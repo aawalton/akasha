@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const fossilLakeSafari = {
   id: "019f1b49-5166-772f-81e6-c2f50fa482c6",
-  type: "location",
+  type: "page-type/location",
   slug: "fossil-lake-safari",
   title: "Fossil Lake Safari",
   latitude: 43.32486,

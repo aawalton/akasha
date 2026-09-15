@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const elMolcajeteUtahCounty = {
   id: "019f322c-951d-7672-b7d7-e32a543b7fc9",
-  type: "location",
+  type: "page-type/location",
   slug: "el-molcajete-utah-county",
   title: "El Molcajete (Utah County)",
   address: "Utah County, UT",

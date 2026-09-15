@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const disneylandParis = {
   id: "019f1b49-541b-7e4d-aae7-e3472abdebd1",
-  type: "location",
+  type: "page-type/location",
   slug: "disneyland-paris",
   title: "Disneyland Paris",
   latitude: 48.86272,

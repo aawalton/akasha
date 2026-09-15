@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chihulyBridgeOfGlass = {
   id: "019f1aec-0cae-7187-a764-bdc120a9fd65",
-  type: "location",
+  type: "page-type/location",
   slug: "chihuly-bridge-of-glass",
   title: "Chihuly Bridge of Glass",
   latitude: 47.2455969,

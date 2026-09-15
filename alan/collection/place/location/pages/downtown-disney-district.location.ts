@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const downtownDisneyDistrict = {
   id: "019f1aec-0f5f-7ce0-8f65-081ac52511c4",
-  type: "location",
+  type: "page-type/location",
   slug: "downtown-disney-district",
   title: "Downtown Disney District",
   latitude: 33.8097925,

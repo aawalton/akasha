@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const dairyQueenVineyard = {
   id: "019f322c-9479-793e-9537-0efc16f930c8",
-  type: "location",
+  type: "page-type/location",
   slug: "dairy-queen-vineyard",
   title: "Dairy Queen (Vineyard)",
   address: "Vineyard, UT",

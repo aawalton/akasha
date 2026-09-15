@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const fatamorgana = {
   id: "019f1aec-0da8-7dd5-a2fd-973a5ada7513",
-  type: "location",
+  type: "page-type/location",
   slug: "fatamorgana",
   title: "Fatamorgana",
   latitude: 41.9059887,

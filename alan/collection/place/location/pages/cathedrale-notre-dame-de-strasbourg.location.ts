@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cathedraleNotreDameDeStrasbourg = {
   id: "019f1b49-5408-79dc-9585-2d09dd4ccc97",
-  type: "location",
+  type: "page-type/location",
   slug: "cathedrale-notre-dame-de-strasbourg",
   title: "Cathédrale Notre-Dame-de-Strasbourg",
   latitude: 48.866582,

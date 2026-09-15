@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const dairyQueenSantaquin = {
   id: "019f322c-9475-7e92-8921-f3093bbc6dca",
-  type: "location",
+  type: "page-type/location",
   slug: "dairy-queen-santaquin",
   title: "Dairy Queen (Santaquin)",
   address: "Santaquin, UT",

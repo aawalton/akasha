@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const edleysBarBQue = {
   id: "019f1b49-545f-7794-8250-e878aaf8d4f8",
-  type: "location",
+  type: "page-type/location",
   slug: "edleys-bar-b-que",
   title: "Edley's Bar-B-Que",
   latitude: 36.1622767,

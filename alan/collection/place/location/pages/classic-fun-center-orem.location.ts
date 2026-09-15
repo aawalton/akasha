@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const classicFunCenterOrem = {
   id: "019f322c-937d-70d0-afb7-5674bc078d1c",
-  type: "location",
+  type: "page-type/location",
   slug: "classic-fun-center-orem",
   title: "Classic Fun Center (Orem)",
   address: "Orem, UT",

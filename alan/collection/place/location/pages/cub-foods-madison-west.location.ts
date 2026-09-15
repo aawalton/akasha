@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cubFoodsMadisonWest = {
   id: "019f1aec-0f6a-7420-9399-f21d80c79f66",
-  type: "location",
+  type: "page-type/location",
   slug: "cub-foods-madison-west",
   title: "Cub Foods - Madison West",
   latitude: 43.057851,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const christTheKing = {
   id: "019f1b49-56df-7899-96ee-bf549693cbcc",
-  type: "location",
+  type: "page-type/location",
   slug: "christ-the-king",
   title: "Christ The King",
   latitude: 38.740771,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const fatamorganaChiavari = {
   id: "019f1aec-0da7-7900-87f7-910a0f2a3419",
-  type: "location",
+  type: "page-type/location",
   slug: "fatamorgana-chiavari",
   title: "Fatamorgana Chiavari",
   latitude: 41.8947077,

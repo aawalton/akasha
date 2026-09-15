@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const dugwayGeodeBeds = {
   id: "019f1aec-0cc9-7c24-b9aa-fe63df3da853",
-  type: "location",
+  type: "page-type/location",
   slug: "dugway-geode-beds",
   title: "Dugway Geode Beds",
   latitude: 39.8937102,

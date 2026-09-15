@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const fleaMarket = {
   id: "019f1b49-52e3-7102-af5b-91372aa36da0",
-  type: "location",
+  type: "page-type/location",
   slug: "flea-market",
   title: "Flea Market",
   latitude: 21.1527467,

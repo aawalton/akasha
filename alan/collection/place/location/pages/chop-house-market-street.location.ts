@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chopHouseMarketStreet = {
   id: "019f1aec-0e8c-739c-989f-48db68d42f5d",
-  type: "location",
+  type: "page-type/location",
   slug: "chop-house-market-street",
   title: "Chop House Market Street",
   latitude: 55.9513887,

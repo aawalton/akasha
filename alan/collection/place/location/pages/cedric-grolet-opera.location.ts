@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cedricGroletOpera = {
   id: "019f1aec-0dc1-7898-b7ee-18941385022d",
-  type: "location",
+  type: "page-type/location",
   slug: "cedric-grolet-opera",
   title: "Cédric Grolet Opéra",
   latitude: 48.8679572,

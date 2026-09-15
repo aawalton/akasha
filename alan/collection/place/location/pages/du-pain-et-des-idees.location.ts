@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const duPainEtDesIdees = {
   id: "019f1aec-0dd8-7475-a7ec-42d696e15b2d",
-  type: "location",
+  type: "page-type/location",
   slug: "du-pain-et-des-idees",
   title: "Du Pain et des Idées",
   latitude: 48.8712472,

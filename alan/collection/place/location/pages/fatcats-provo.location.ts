@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const fatcatsProvo = {
   id: "019f322c-9598-78c4-865e-0e1a37cbc017",
-  type: "location",
+  type: "page-type/location",
   slug: "fatcats-provo",
   title: "FatCats (Provo)",
   address: "Provo, UT",

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const edelweissChocolates = {
   id: "019f1aec-0f62-76e4-8dc8-bf86263799c7",
-  type: "location",
+  type: "page-type/location",
   slug: "edelweiss-chocolates",
   title: "Edelweiss Chocolates",
   latitude: 34.0715374,

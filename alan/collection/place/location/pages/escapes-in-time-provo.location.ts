@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const escapesInTimeProvo = {
   id: "019f322c-9570-7a05-a23b-2000383b57b0",
-  type: "location",
+  type: "page-type/location",
   slug: "escapes-in-time-provo",
   title: "Escapes In Time (Provo)",
   address: "Provo, UT",

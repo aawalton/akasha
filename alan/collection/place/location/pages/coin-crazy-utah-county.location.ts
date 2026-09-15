@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const coinCrazyUtahCounty = {
   id: "019f322c-939b-70df-a10a-28358e27938a",
-  type: "location",
+  type: "page-type/location",
   slug: "coin-crazy-utah-county",
   title: "Coin Crazy (Utah County)",
   address: "Utah County, UT",

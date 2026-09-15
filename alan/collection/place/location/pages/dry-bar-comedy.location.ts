@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const dryBarComedy = {
   id: "019f1aec-102f-76a8-8e97-a44262b4777a",
-  type: "location",
+  type: "page-type/location",
   slug: "dry-bar-comedy",
   title: "Dry Bar Comedy",
   address: "295 W Center St, Provo, UT 84601, United States",

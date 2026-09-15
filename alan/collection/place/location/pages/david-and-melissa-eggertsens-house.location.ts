@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const davidAndMelissaEggertsensHouse = {
   id: "019f1aec-0f36-7034-bd9c-e471a8e1083d",
-  type: "location",
+  type: "page-type/location",
   slug: "david-and-melissa-eggertsens-house",
   title: "David and Melissa Eggertsen’s House",
   address: "866 Oxbow Rd, Minneola, FL 34715, USA",

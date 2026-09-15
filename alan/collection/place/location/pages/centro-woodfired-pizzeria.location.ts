@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const centroWoodfiredPizzeria = {
   id: "019f1aec-0ea4-7dab-b574-ed0109e7ba4d",
-  type: "location",
+  type: "page-type/location",
   slug: "centro-woodfired-pizzeria",
   title: "Centro Woodfired Pizzeria",
   latitude: 37.6775787,

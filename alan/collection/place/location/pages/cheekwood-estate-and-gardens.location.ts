@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cheekwoodEstateAndGardens = {
   id: "019f1b49-548e-7b5a-9cd0-08f66ac238f5",
-  type: "location",
+  type: "page-type/location",
   slug: "cheekwood-estate-and-gardens",
   title: "Cheekwood: Estate and Gardens",
   latitude: 36.1622767,

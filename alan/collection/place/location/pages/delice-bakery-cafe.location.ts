@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const deliceBakeryCafe = {
   id: "019f1aec-0d33-760d-82bf-22224107c699",
-  type: "location",
+  type: "page-type/location",
   slug: "delice-bakery-cafe",
   title: "Délice Bakery & Café",
   latitude: -6.9248412,

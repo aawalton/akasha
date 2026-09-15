@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const coldStoneCreamerySpanishFork = {
   id: "019f322c-93e9-71af-9d8e-45f32f2426de",
-  type: "location",
+  type: "page-type/location",
   slug: "cold-stone-creamery-spanish-fork",
   title: "Cold Stone Creamery (Spanish Fork)",
   address: "Spanish Fork, UT",

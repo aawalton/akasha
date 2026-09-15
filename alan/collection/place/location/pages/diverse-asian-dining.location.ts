@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const diverseAsianDining = {
   id: "019f1b49-577a-7180-b28f-ddfe743aaf79",
-  type: "location",
+  type: "page-type/location",
   slug: "diverse-asian-dining",
   title: "Diverse Asian dining",
   latitude: 32.795364,

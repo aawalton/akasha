@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cruiseTerminal10 = {
   id: "019f1b49-534f-7320-8b5b-e1b205985faf",
-  type: "location",
+  type: "page-type/location",
   slug: "cruise-terminal-10",
   title: "Cruise Terminal #10",
   latitude: 50.895488,

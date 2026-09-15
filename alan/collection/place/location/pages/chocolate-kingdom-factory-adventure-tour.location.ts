@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chocolateKingdomFactoryAdventureTour = {
   id: "019f1aec-0f02-7015-830b-62a70cc5aac2",
-  type: "location",
+  type: "page-type/location",
   slug: "chocolate-kingdom-factory-adventure-tour",
   title: "Chocolate Kingdom - Factory Adventure Tour",
   latitude: 28.4237919,

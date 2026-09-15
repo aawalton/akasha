@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const ednasMarketGrille = {
   id: "019f1b49-54a4-7318-ad09-baf0c82d8ea0",
-  type: "location",
+  type: "page-type/location",
   slug: "ednas-market-grille",
   title: "Ednas Market & Grille",
   latitude: 40.233993,

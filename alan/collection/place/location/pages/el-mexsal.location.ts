@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const elMexsal = {
   id: "019f1aec-0d18-7625-bc2a-a821cfad3ed2",
-  type: "location",
+  type: "page-type/location",
   slug: "el-mexsal",
   title: "El Mexsal",
   latitude: 36.8450512,

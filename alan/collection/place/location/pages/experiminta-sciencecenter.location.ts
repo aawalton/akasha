@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const experimintaSciencecenter = {
   id: "019f1b49-5634-7011-98ff-d735c219c350",
-  type: "location",
+  type: "page-type/location",
   slug: "experiminta-sciencecenter",
   title: "EXPERIMINTA ScienceCenter",
   latitude: 50.1106444,

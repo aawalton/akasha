@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const evLodge = {
   id: "019f1aec-0cc8-78a8-b7d6-0eeb63edf7cd",
-  type: "location",
+  type: "page-type/location",
   slug: "ev-lodge",
   title: "Ev Lodge",
   latitude: 52.233333,

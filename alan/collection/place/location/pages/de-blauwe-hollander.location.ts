@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const deBlauweHollander = {
   id: "019f1aec-0e23-7d84-8a9c-b22e7ef7aa0f",
-  type: "location",
+  type: "page-type/location",
   slug: "de-blauwe-hollander",
   title: "De Blauwe Hollander",
   latitude: 52.3635484,

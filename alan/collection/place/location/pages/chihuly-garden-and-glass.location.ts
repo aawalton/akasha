@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chihulyGardenAndGlass = {
   id: "019f1aec-0caf-755d-8fb5-7c90e4ec55d0",
-  type: "location",
+  type: "page-type/location",
   slug: "chihuly-garden-and-glass",
   title: "Chihuly Garden and Glass",
   latitude: 47.6205296,

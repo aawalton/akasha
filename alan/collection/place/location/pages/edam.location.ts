@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const edam = {
   id: "019f1aec-0e2b-78f9-aaaa-0d2c5af8d43d",
-  type: "location",
+  type: "page-type/location",
   slug: "edam",
   title: "Edam",
   latitude: 52.5119116,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const frankfurtAirportFraEuropeEntry = {
   id: "019f37a9-67d8-7994-8f02-5b305de72fd6",
-  type: "location",
+  type: "page-type/location",
   slug: "frankfurt-airport-fra-europe-entry",
   title: "Frankfurt Airport (FRA) — Europe entry",
   collection: "location-collection/europe-trip-2026",

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const classySmilesUtahCounty = {
   id: "019f322c-9391-7453-9619-966a73cf594c",
-  type: "location",
+  type: "page-type/location",
   slug: "classy-smiles-utah-county",
   title: "Classy Smiles (Utah County)",
   address: "Utah County, UT",

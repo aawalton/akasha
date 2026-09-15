@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const clasRopesCourseOrem = {
   id: "019f322c-9330-79b1-bbb5-fda0a94815b7",
-  type: "location",
+  type: "page-type/location",
   slug: "clas-ropes-course-orem",
   title: "CLAS Ropes Course (Orem)",
   address: "Orem, UT",

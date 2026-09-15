@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const curryPizzaLehi = {
   id: "019f322c-9461-7198-b4bd-953c0359b67c",
-  type: "location",
+  type: "page-type/location",
   slug: "curry-pizza-lehi",
   title: "Curry Pizza (Lehi)",
   address: "Lehi, UT",

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chicagoIllinoisTemple = {
   id: "019f1b49-56af-7577-a459-8acbb1391704",
-  type: "location",
+  type: "page-type/location",
   slug: "chicago-illinois-temple",
   title: "Chicago Illinois Temple",
   latitude: 41.8748613,

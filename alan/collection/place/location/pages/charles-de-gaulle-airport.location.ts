@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const charlesDeGaulleAirport = {
   id: "019f1b49-5435-7a79-9631-e7dbb159fb1a",
-  type: "location",
+  type: "page-type/location",
   slug: "charles-de-gaulle-airport",
   title: "Charles de Gaulle Airport",
   latitude: 49.0092286,

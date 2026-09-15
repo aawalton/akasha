@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const drybarcomedyComProvo = {
   id: "019f322c-94d3-71a1-a652-98500a633098",
-  type: "location",
+  type: "page-type/location",
   slug: "drybarcomedy-com-provo",
   title: "DryBarComedy.com (Provo)",
   address: "Provo, UT",

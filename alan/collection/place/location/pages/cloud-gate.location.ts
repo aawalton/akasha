@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cloudGate = {
   id: "019f1aec-0eb4-7cf1-bf24-0f2d8f9c3b03",
-  type: "location",
+  type: "page-type/location",
   slug: "cloud-gate",
   title: "Cloud Gate",
   latitude: 41.8826813,

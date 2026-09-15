@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chefAlfredosRistoranteItaliano = {
   id: "019f1b49-5648-7e06-beb6-bdeb565be35a",
-  type: "location",
+  type: "page-type/location",
   slug: "chef-alfredos-ristorante-italiano",
   title: "Chef Alfredo's Ristorante Italiano",
   latitude: 37.0892734,

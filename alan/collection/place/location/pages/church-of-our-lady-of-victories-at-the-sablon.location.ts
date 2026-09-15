@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const churchOfOurLadyOfVictoriesAtTheSablon = {
   id: "019f1b49-56f4-71e1-83ff-8937465c10a6",
-  type: "location",
+  type: "page-type/location",
   slug: "church-of-our-lady-of-victories-at-the-sablon",
   title: "Church of Our Lady of Victories at the Sablon",
   latitude: 40.5359605,

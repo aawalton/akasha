@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const firebirdPizzaPasta = {
   id: "019f1aec-0d1f-7b66-9086-6b39428eafab",
-  type: "location",
+  type: "page-type/location",
   slug: "firebird-pizza-pasta",
   title: "Firebird Pizza & Pasta",
   latitude: 40.3597853,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const crumbl = {
   id: "019f1aec-0fe0-7c3d-979a-7d231208987f",
-  type: "location",
+  type: "page-type/location",
   slug: "crumbl",
   title: "Crumbl",
   address: "154 W 1230 N St, Provo, UT 84604, United States",

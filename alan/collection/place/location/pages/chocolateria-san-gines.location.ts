@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chocolateriaSanGines = {
   id: "019f1aec-0d71-7c2e-a02c-149ebd724962",
-  type: "location",
+  type: "page-type/location",
   slug: "chocolateria-san-gines",
   title: "Chocolatería San Ginés",
   latitude: 40.4167707,

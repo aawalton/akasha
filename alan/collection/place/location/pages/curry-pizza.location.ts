@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const curryPizza = {
   id: "019f1b49-54bd-7231-844a-acc46b8beefc",
-  type: "location",
+  type: "page-type/location",
   slug: "curry-pizza",
   title: "Curry Pizza",
   latitude: 40.7069106,

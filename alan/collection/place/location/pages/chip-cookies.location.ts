@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const chipCookies = {
   id: "019f1aec-0f87-7da6-b3eb-532cdd9d084a",
-  type: "location",
+  type: "page-type/location",
   slug: "chip-cookies",
   title: "Chip Cookies",
   address: "2340 E 4500 S, Holladay, UT 84117, United States",

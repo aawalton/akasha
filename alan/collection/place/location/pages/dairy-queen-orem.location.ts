@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const dairyQueenOrem = {
   id: "019f322c-9472-71d1-9da2-1c13fcc0b96a",
-  type: "location",
+  type: "page-type/location",
   slug: "dairy-queen-orem",
   title: "Dairy Queen (Orem)",
   address: "Orem, UT",

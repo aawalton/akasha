@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cultivateCraftKitchen = {
   id: "019f1aec-0f9c-7509-b0c0-a9ca68a1bc91",
-  type: "location",
+  type: "page-type/location",
   slug: "cultivate-craft-kitchen",
   title: "Cultivate Craft Kitchen",
   address: "12234 Draper Gate Dr Ste 105, Draper, UT 84020, United States",
