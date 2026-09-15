@@ -2,7 +2,7 @@ import type { MasteryLevel } from "akasha/alan/book/pages/learn-everything/maste
 
 export const novice = {
   id: "01a0784a-cdb9-712b-92b7-870090825441",
-  type: "mastery-level",
+  type: "page-type/mastery-level",
   slug: "novice",
   definition: "no foothold in a field",
   rank: 0,

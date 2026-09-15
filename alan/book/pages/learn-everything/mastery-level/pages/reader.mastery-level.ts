@@ -2,7 +2,7 @@ import type { MasteryLevel } from "akasha/alan/book/pages/learn-everything/maste
 
 export const reader = {
   id: "01a0784a-cdb9-7771-9277-a0697fa6f3aa",
-  type: "mastery-level",
+  type: "page-type/mastery-level",
   slug: "reader",
   definition: "recognition without generation",
   rank: 1,
