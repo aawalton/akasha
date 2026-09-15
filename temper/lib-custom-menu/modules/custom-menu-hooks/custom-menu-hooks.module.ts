@@ -8,15 +8,15 @@ export const customMenuHooks = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A wrapper calls the function the wrapper replaced.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Clearing a menu releases every pooled row back to its pool.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A held modifier key turns an inventory context menu into a special menu.",
     },
   ],

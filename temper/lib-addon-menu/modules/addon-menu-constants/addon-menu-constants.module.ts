@@ -8,15 +8,15 @@ export const addonMenuConstants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each widget type has its own version number.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The library version is split into a major string and a minor number.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Dialog identifiers are literal strings rather than generated names.",
     },
   ],

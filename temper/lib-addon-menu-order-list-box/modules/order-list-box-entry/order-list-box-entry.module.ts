@@ -8,11 +8,11 @@ export const orderListBoxEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A module no import chain from here reaches is left out of the bundle.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing is declared here.",
     },
   ],

@@ -9,19 +9,19 @@ export const keybinderShare = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Synchronising is deferred to the next frame rather than done in place.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An action is rebound only where its keys differ from the saved ones.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The toggle clears the shown actions where those actions are already shared.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hidden action is passed over.",
     },
   ],

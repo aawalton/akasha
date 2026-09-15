@@ -8,11 +8,11 @@ export const keybinderSavedVariables = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bindings are kept per user profile rather than per character.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The add-on is set going once the saved variables are in hand.",
     },
   ],

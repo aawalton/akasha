@@ -8,7 +8,7 @@ export const chatMessageConstants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A time format is named by a short label a player types.",
     },
   ],

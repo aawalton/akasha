@@ -8,11 +8,11 @@ export const mainMenuKeyboard = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The game owns the object reached here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every reach for the game's menu goes through this one module.",
     },
   ],

@@ -8,15 +8,15 @@ export const asyncSchedulerManager = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The scheduler runs on a game update at every frame.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The frame measurement runs on a game update every hundred milliseconds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The scheduler is started again a short delay after the player enters the world.",
     },
   ],

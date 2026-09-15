@@ -8,7 +8,7 @@ export const chatMessagePublicApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Loading the library a second time raises an error.",
     },
   ],

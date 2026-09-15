@@ -8,19 +8,19 @@ export const dataEncodeCharset = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The alphabet has the characters the game carries through a saved string.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The lookup each way is worked out from the alphabet as the module loads.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A control character found in the alphabet raises an error as the module loads.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A control character names the reader for the characters following that character.",
     },

@@ -8,7 +8,7 @@ export const gpsWorldSize = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A world size is written to a string and read back from that string.",
     },
   ],

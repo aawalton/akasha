@@ -8,19 +8,19 @@ export const chatMessageLifecycle = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Saved settings are reconciled against the defaults on every load.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "History is restored one frame after the player enters the world.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "History older than the maximum age is dropped rather than restored.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Settings are saved under the world and display name of the account.",
     },
   ],

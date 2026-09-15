@@ -8,19 +8,19 @@ export const addonMenuWidgetDropdownTooltips = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row's tooltip is read off the data entry the row carries.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The hooks are put on the one keyboard dropdown every combo box shares.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook shows nothing for a row owned by another combo box.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty tooltip opens no window.",
     },
   ],

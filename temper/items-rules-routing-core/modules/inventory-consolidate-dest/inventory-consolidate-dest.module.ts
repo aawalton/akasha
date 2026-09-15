@@ -8,7 +8,7 @@ export const inventoryConsolidateDest = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A destination gathering stock is known by the name the destination has.",
     },
   ],

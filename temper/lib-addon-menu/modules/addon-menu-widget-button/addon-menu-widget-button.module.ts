@@ -8,15 +8,15 @@ export const addonMenuWidgetButton = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A dangerous button asks for confirmation before running its function.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A dangerous button's warning text becomes the confirmation dialog body.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An icon button is a bare 26 by 26 texture rather than a labelled button.",
     },
   ],

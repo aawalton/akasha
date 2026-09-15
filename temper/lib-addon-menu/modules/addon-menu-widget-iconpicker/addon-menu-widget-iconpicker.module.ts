@@ -8,19 +8,19 @@ export const addonMenuWidgetIconpicker = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One icon picker menu is shared by every iconpicker on every panel.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Duplicate texture paths in the choices list are added once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A beforeShow returning true cancels the opening of the menu.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The default icon size is twenty-eight pixels.",
     },
   ],

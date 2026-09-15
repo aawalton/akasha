@@ -8,7 +8,7 @@ export const chatMessageMain = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The public global is put in place before the formatters install.",
     },
   ],

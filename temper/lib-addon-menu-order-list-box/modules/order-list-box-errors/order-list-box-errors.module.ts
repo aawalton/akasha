@@ -8,11 +8,11 @@ export const orderListBoxErrors = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A complaint names the entry index the caller got wrong.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A complaint reaches the chat window rather than halting the panel.",
     },
   ],

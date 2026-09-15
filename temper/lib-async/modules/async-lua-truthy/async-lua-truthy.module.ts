@@ -8,11 +8,11 @@ export const asyncLuaTruthy = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only nil and false are false in Lua.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Zero and the empty string are true.",
     },
   ],

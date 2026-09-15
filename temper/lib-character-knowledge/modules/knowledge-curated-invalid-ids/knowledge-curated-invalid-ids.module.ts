@@ -8,7 +8,7 @@ export const knowledgeCuratedInvalidIds = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An item upstream marks unavailable contributes to no style.",
     },
   ],

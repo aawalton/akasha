@@ -8,15 +8,15 @@ export const asyncTaskClass = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A task resumed is put on the job list.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A task suspended is taken off the job list.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A task cancelled keeps a place on the job list while a finally step is set.",
     },
   ],

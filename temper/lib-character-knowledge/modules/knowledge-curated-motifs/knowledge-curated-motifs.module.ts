@@ -8,7 +8,7 @@ export const knowledgeCuratedMotifs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reading the numbered entries misses the named entry beside the numbered entries.",
     },
   ],

@@ -8,7 +8,7 @@ export const knowledgeState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The library hangs its work off the two tables this module has.",
     },
   ],

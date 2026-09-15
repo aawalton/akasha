@@ -8,11 +8,11 @@ export const orderListBoxEntryMethods = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry is found by its index or by its unique key.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An entry index handed in by a caller starts at the first row rather than at zero.",
     },

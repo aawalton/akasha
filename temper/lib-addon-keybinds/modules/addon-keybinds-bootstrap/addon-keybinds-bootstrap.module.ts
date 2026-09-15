@@ -8,19 +8,19 @@ export const addonKeybindsBootstrap = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A second load returns without touching the library already in place.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The keyboard keybinding manager is preferred over the shared keybinding manager.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A missing keybinding manager is an error rather than a quiet return.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The wait is dropped before being set up again.",
     },
   ],

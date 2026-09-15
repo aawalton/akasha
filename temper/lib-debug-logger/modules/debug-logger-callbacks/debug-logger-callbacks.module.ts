@@ -8,7 +8,7 @@ export const debugLoggerCallbacks = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A callback name is stated once and read from the library table.",
     },
   ],

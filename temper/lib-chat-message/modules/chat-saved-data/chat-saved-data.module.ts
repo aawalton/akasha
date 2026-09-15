@@ -8,11 +8,11 @@ export const chatSavedData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A string over the saved variable limit is split into chunks.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chunked string is rejoined as the string is read back.",
     },
   ],

@@ -8,20 +8,20 @@ export const addonMenuUtil = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Half-width controls place the label above the container instead of beside the container.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A help URL becomes a clickable FAQ icon anchored beside the label.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Controls flagged as requiring reload record their value at creation time.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The published util table is filled in at the bottom of the module.",
     },
   ],

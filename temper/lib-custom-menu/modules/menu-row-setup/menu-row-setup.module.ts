@@ -8,11 +8,11 @@ export const menuRowSetup = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A divider next to another divider is hidden and counted as no height.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A divider's label reports a fixed size rather than measuring its text.",
     },
   ],

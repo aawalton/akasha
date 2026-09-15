@@ -8,7 +8,7 @@ export const gpsCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here checks a value at run time.",
     },
   ],

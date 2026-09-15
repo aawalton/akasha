@@ -8,15 +8,15 @@ export const inventoryManagementPlanRouteVenue = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A venue's place in this list is the order the venues are visited in.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A venue moved to another place sends the player round in a different order.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A location the player cannot reach has no venue.",
     },
   ],

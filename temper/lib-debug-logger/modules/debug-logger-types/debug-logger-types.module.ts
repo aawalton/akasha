@@ -8,11 +8,11 @@ export const debugLoggerTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A log entry is a list rather than a record.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every field past the message is optional.",
     },
   ],

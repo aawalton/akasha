@@ -8,15 +8,15 @@ export const addonMenuWidgetDescription = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Links are inert unless the widget data enables those links.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A supplied link handler replaces the game's default link handling.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The control grows to fit its text rather than holding a fixed height.",
     },
   ],

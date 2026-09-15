@@ -8,11 +8,11 @@ export const keybinderConstants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The saved-variables name is built from the addon name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An action in the default list is shared the first time the add-on runs.",
     },
   ],

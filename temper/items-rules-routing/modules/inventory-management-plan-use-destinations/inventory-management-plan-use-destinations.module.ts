@@ -8,7 +8,7 @@ export const inventoryManagementPlanUseDestinations = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stack is shared out over the characters who do not yet know the item.",
     },
   ],

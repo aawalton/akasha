@@ -8,7 +8,7 @@ export const chatLinks = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A link of a type no addon registered is rewritten as an unknown link.",
     },
   ],

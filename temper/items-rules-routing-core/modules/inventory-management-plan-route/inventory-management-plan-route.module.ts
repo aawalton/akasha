@@ -8,12 +8,12 @@ export const inventoryManagementPlanRoute = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A route is worked out from where the item lies and from where the rule sends that item.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item already where the rule sends that item needs no route.",
     },
   ],

@@ -8,7 +8,7 @@ export const gpsCompatibility = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An older caller reaches the same measurements through the older global name.",
     },
   ],

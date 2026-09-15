@@ -8,11 +8,11 @@ export const mapPingHandlerState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A count below zero is clamped to zero.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A ping state read for the first time is taken from the game.",
     },
   ],

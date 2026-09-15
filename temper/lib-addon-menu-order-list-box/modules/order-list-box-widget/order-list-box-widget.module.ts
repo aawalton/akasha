@@ -8,11 +8,11 @@ export const orderListBoxWidget = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The widget is built from the same data shape every LAM-2.0 widget takes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A panel closing turns off the drag handlers the widget left on.",
     },
   ],

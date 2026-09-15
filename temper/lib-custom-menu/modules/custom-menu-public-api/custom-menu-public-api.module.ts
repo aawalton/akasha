@@ -8,11 +8,11 @@ export const customMenuPublicApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A header entry is added as a label drawn from the header pool.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A checkbox entry is indented by a fixed-width space.",
     },
   ],

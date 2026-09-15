@@ -8,15 +8,15 @@ export const addonMenuWidgetCustom = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Height is bounded by a minimum and by four times that minimum.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The addon's create function runs after the control is registered for refresh.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No value is read or written by the custom widget itself.",
     },
   ],

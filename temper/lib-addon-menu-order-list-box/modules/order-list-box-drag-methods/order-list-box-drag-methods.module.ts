@@ -8,11 +8,11 @@ export const orderListBoxDragMethods = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A drag past the top or the foot of the list scrolls the list.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A mouse up outside the list aborts the drag rather than dropping.",
     },
   ],

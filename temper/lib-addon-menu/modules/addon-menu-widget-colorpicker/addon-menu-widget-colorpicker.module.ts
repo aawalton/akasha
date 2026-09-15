@@ -8,15 +8,15 @@ export const addonMenuWidgetColorpicker = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The swatch hands four separate channel numbers to setFunc rather than a table.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A default color is read from a table of r and g and b and a fields.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Gamepad mode opens a different color picker than keyboard mode.",
     },
   ],

@@ -8,15 +8,15 @@ export const chatMessageLib = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A setting read before the saved settings load falls back to the default.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Registering a custom chat link marks that link type valid for chat.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A custom chat link with no reformatter is rebuilt as a plain game link.",
     },
   ],

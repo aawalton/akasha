@@ -8,7 +8,7 @@ export const submenuItem = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row with a sub-menu shows an arrow at its right edge.",
     },
   ],

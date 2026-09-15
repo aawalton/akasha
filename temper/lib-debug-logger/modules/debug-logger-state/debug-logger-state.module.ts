@@ -8,16 +8,16 @@ export const debugLoggerState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every module reaches the same two tables.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A function on the internal table does nothing until a module fills that function in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The session start time is the timestamp at load less the game time already run.",
     },
   ],

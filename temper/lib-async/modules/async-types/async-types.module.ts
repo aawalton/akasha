@@ -8,11 +8,11 @@ export const asyncTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A task has a callstack rather than a Lua coroutine.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every method on a task answers the task so calls chain.",
     },
   ],

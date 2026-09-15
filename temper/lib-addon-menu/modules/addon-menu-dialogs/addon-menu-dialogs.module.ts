@@ -8,20 +8,20 @@ export const addonMenuDialogs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The panel to reopen is stored in saved variables before the UI reloads.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Discarding restores every reload-flagged control to the value that control had on creation.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Dismissing the reload dialog without choosing discards the changes.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Dialog descriptors are created once and kept in the game's global dialog table.",
     },
   ],

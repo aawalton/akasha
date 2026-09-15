@@ -8,19 +8,19 @@ export const mainMenuSetup = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The category layout is taken by sitting in front of the game's own refresh.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game's refresh is put back before the layout is read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bars this module sets up hang off one top level window.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Leaving secure render mode drops the market category back to inventory.",
     },
   ],

@@ -8,11 +8,11 @@ export const inventoryManagementPlanRouteSteps = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item passing between characters goes through storage each character reaches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hand-off deposits before withdrawing.",
     },
   ],

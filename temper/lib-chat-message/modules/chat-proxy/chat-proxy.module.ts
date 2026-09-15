@@ -8,15 +8,15 @@ export const chatProxy = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tag color is cleared once the tag carrying that color has been built.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Calling the library object itself makes a new proxy.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A disabled proxy prints nothing.",
     },
   ],

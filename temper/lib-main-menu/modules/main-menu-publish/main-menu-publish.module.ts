@@ -8,11 +8,11 @@ export const mainMenuPublish = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A second copy of the library loading later leaves the first copy in place.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A console client is handed nothing.",
     },
   ],

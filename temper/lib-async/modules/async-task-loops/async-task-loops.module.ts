@@ -9,19 +9,19 @@ export const asyncTaskLoops = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A loop is declared by a marker step the body step then replaces.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body without a preceding loop declaration raises an error.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A loop stops early where the body answers the break value.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A numeric loop with a zero step raises an error.",
     },
   ],

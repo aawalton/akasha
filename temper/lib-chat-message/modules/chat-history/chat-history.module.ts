@@ -8,15 +8,15 @@ export const chatHistory = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A timestamp is counted in whole seconds of local time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "History over its maximum length is trimmed from the oldest entry.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A replayed event is stored no second time.",
     },
   ],

@@ -8,7 +8,7 @@ export const keybinderUiStrings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key the table does not have reads as the empty string.",
     },
   ],

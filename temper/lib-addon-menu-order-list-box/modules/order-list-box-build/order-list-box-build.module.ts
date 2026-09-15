@@ -8,11 +8,11 @@ export const orderListBoxBuild = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One scroll list has every row of one order list box.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row has the entry shown rather than the index of the row.",
     },
   ],

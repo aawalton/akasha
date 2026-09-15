@@ -8,7 +8,7 @@ export const knowledgeBaseData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A master list is read only while its api matches the client's.",
     },
   ],

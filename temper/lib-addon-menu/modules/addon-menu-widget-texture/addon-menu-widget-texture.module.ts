@@ -8,15 +8,15 @@ export const addonMenuWidgetTexture = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Image width and height are required and are not derived from the file.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No value is read or written by the texture widget.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The image is centered in a control that grows to fit the image.",
     },
   ],

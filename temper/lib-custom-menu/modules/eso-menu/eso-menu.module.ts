@@ -8,7 +8,7 @@ export const esoMenu = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One control has every context menu the game shows.",
     },
   ],

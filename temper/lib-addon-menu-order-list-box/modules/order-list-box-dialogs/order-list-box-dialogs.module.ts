@@ -8,11 +8,11 @@ export const orderListBoxDialogs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A new entry is refused where the caller's validator rejects the text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A removal is confirmed before the entry goes.",
     },
   ],

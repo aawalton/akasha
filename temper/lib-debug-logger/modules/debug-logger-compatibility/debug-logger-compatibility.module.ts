@@ -8,11 +8,11 @@ export const debugLoggerCompatibility = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The library answers to an older name as well as to the current name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing here is reached by code written against the current names.",
     },
   ],

@@ -8,11 +8,11 @@ export const gpsMapAdapter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game's own function is called first and its result is kept.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A function the game does not define is left unwrapped.",
     },
   ],

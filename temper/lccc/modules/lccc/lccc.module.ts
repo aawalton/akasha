@@ -8,7 +8,7 @@ export const lccc = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A copy already loaded at the same version or newer is left alone.",
     },
   ],

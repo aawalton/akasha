@@ -8,7 +8,7 @@ export const knowledgeRegisterStrings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tongue the library has no text for falls back to English.",
     },
   ],

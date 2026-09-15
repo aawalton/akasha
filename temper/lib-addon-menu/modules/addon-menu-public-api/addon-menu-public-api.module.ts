@@ -9,16 +9,16 @@ export const addonMenuPublicApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every widget module is imported for the side effect of registering its factory.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "An older LibAddonMenu already in memory triggers a one-time compatibility warning.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The two globals are assigned after all imports have run.",
     },
   ],

@@ -8,11 +8,11 @@ export const orderListBoxConstants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A control name is built from a template the widget counter fills.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A language the widget has no words for falls back to English.",
     },
   ],

@@ -8,11 +8,11 @@ export const customMenuMain = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The hooks go in once the first addon that is not the game's own has loaded.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The guild roster is hooked later than the other social lists.",
     },
   ],

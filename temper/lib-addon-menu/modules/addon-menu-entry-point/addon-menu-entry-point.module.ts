@@ -8,11 +8,11 @@ export const addonMenuEntryPoint = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No code runs here beyond the import itself.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The file is one line long.",
     },
   ],

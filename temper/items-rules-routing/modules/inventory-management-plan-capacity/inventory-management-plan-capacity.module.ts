@@ -8,11 +8,11 @@ export const inventoryManagementPlanCapacity = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two stacks of one item merge only where the game lets that item stack.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A place absent from the captured holdings has no free slots.",
     },
   ],

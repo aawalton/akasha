@@ -8,15 +8,15 @@ export const dataEncodeRuntime = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A log line is sent to the debug logger addon where that addon is loaded.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A log line goes nowhere where the library is not in debug.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "Debug is on for a single named account and for no other account.",
     },
   ],

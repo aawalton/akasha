@@ -8,11 +8,11 @@ export const inventoryManagementPlanSimulation = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A simulated step changes only the state the simulation has.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No captured holding is changed by a simulation.",
     },
   ],

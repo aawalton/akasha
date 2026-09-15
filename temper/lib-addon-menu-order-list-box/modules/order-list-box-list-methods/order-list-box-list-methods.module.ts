@@ -8,11 +8,11 @@ export const orderListBoxListMethods = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row's position is read off the list rather than kept on the row.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reordering the rows rewrites the caller's entry list in place.",
     },
   ],

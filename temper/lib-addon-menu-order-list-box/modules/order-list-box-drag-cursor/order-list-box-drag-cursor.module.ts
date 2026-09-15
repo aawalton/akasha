@@ -8,11 +8,11 @@ export const orderListBoxDragCursor = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The dragged row is shown as a label anchored to the pointer.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A drag ending anywhere off the list puts the row back.",
     },
   ],

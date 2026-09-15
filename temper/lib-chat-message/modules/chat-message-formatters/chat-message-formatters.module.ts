@@ -8,19 +8,19 @@ export const chatMessageFormatters = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A wrapper calls the formatter the game registered for the same event.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The wrapped formatter table is in place only while the game formats a message.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An event is stored in history before the event is formatted.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An event with no registered formatter raises an error.",
     },
   ],

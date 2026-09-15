@@ -8,19 +8,19 @@ export const addonMenuWidgetEditbox = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The value is written back when the box loses focus.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An escape press writes the value back rather than discarding the edit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A mouse wheel over a multiline box moves the cursor by whole lines.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Input is capped at three thousand characters when maxChars is absent.",
     },
   ],

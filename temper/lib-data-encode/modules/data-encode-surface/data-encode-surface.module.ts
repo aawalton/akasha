@@ -8,15 +8,15 @@ export const dataEncodeSurface = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The surface names the library and the version of the library.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The alphabet and both lookups are handed out for another addon to read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty table is handed out for another addon to keep working notes in.",
     },
   ],

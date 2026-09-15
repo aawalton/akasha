@@ -8,11 +8,11 @@ export const orderListBoxRowSetup = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row takes the height and the font the caller states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A disabled list takes no drag and no button press.",
     },
   ],

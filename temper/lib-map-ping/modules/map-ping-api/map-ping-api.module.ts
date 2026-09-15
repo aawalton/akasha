@@ -8,7 +8,7 @@ export const mapPingApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A waypoint is set by world location rather than by map position.",
     },
   ],

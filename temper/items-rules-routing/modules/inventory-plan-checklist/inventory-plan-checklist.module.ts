@@ -8,7 +8,7 @@ export const inventoryPlanChecklist = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A checklist follows the plan's stops in the order the stops are visited.",
     },
   ],

@@ -8,15 +8,15 @@ export const keybinderBindingFns = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A protected call is made through the secure wrapper rather than directly.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call the game keeps private is not made.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The add-on does nothing where neither way of binding is open to the add-on.",
     },
   ],

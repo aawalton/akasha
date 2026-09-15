@@ -8,7 +8,7 @@ export const inventoryManagementPlanCollect = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A step is gathered only where the rule's items still need moving.",
     },
   ],

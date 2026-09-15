@@ -8,7 +8,7 @@ export const journalWindow = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The window is built once and kept for as long as the game runs.",
     },
   ],

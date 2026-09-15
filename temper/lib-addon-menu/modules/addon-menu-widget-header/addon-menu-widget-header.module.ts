@@ -8,15 +8,15 @@ export const addonMenuWidgetHeader = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The header has a fixed height of thirty pixels.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No value is read or written by the header.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A help URL anchors its icon at the right edge of the title.",
     },
   ],

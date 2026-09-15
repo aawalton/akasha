@@ -8,7 +8,7 @@ export const gpsPublicApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Loading the library a second time is an error.",
     },
   ],

@@ -8,11 +8,11 @@ export const inventoryManagementPlanBuy = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Buying is planned against a character that is no character.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A buy rule met by the account's holdings adds no errand.",
     },
   ],

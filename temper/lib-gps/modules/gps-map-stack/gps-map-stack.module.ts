@@ -8,7 +8,7 @@ export const gpsMapStack = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A map is pushed with the zoom and offset the map was shown at.",
     },
   ],

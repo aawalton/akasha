@@ -8,11 +8,11 @@ export const orderListBoxPublish = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The widget is offered only after the game reports this addon loaded.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A widget LibAddonMenu-2.0 already has at a higher version is left alone.",
     },
   ],

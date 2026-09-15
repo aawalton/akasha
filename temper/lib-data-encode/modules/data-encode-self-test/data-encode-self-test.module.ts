@@ -8,19 +8,19 @@ export const dataEncodeSelfTest = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The test table has a value of every kind the encoder handles.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The test runs once for each way a dictionary may be given.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two numbers are judged equal by the text the game gives for the two numbers.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The outcome is logged rather than raised.",
     },
   ],

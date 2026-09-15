@@ -8,20 +8,20 @@ export const keybinderFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The list is rebuilt a fifth of a second after the last keystroke rather than on every keystroke.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A category whose own name matches is kept whole.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An uppercased action name is remembered rather than uppercased again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Filtering applies only while the master list is being built.",
     },
   ],

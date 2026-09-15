@@ -9,20 +9,20 @@ export const addonMenuPanelOptions = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Widgets are created twenty at a time with ten milliseconds between batches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A widget that fails to create is reported to chat rather than aborting the panel.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Two consecutive half-width widgets are reparented into a shared twin container.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Setting a handler on a panel prints a warning naming the callback to use instead.",
     },

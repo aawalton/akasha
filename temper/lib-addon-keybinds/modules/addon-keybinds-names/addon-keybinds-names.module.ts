@@ -8,11 +8,11 @@ export const addonKeybindsNames = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The global name is also the name the game event is registered under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row type number is taken from the game's own keybinding list.",
     },
   ],

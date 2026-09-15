@@ -8,11 +8,11 @@ export const asyncMain = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The task class is loaded before any module adding a method to the task class.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The public name is published last.",
     },
   ],

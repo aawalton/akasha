@@ -8,11 +8,11 @@ export const orderListBoxState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every order list box on the panel shares one cursor control.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A widget is counted so each widget is named apart from every other widget.",
     },
   ],

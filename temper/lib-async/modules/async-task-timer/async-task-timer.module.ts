@@ -8,19 +8,19 @@ export const asyncTaskTimer = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A delay shorter than the minimum runs at once rather than waiting.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A delayed task is suspended until the game update fires.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A wait re-runs the same step each frame until the condition answers true.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A time here is read from the game update rather than from a wall clock.",
     },
   ],

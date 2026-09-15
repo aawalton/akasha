@@ -8,19 +8,19 @@ export const addonMenuWidgetIconpickerMenu = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Icon controls are taken from an object pool and released together.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The menu closes after two global mouse-ups outside its own window.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Icon size is never smaller than twenty-eight pixels.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The menu is a top-level window rather than a child of the picker control.",
     },
   ],

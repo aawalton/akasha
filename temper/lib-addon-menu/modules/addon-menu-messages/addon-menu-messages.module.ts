@@ -8,15 +8,15 @@ export const addonMenuMessages = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Messages queue until the chat system has a primary container.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every message printed to chat has a LAM2 prefix.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A missing LibDebugLogger yields a logger whose methods do nothing.",
     },
   ],

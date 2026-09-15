@@ -8,11 +8,11 @@ export const orderListBoxMoveButtons = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A move button is disabled where the picked row cannot go that way.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The four buttons sit beside the scroll list rather than on a row.",
     },
   ],

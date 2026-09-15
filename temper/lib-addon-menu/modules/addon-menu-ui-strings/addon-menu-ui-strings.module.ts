@@ -8,15 +8,15 @@ export const addonMenuUiStrings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No translation table exists for any other language.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The author label is composed from a game string rather than written out.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Each string is a plain field on one exported table.",
     },
   ],

@@ -9,15 +9,15 @@ export const inventoryManagementPlanCapacityFilter = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item dropped for want of room is recorded against the rule sending the item.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An audit names the items dropped as well as the items kept.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item joining a stack already at the destination takes no slot.",
     },
   ],

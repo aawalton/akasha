@@ -8,7 +8,7 @@ export const asyncGlobal = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The library table is published under the addon name.",
     },
   ],

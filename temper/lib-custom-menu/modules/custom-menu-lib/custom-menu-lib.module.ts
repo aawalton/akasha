@@ -8,12 +8,12 @@ export const customMenuLib = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A registered category outside the early to late range is clamped into that range.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A special key context menu is registered under its own key rather than a category.",
     },

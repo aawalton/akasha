@@ -8,7 +8,7 @@ export const debugLoggerGlobal = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Loading twice raises an error rather than replacing the library.",
     },
   ],

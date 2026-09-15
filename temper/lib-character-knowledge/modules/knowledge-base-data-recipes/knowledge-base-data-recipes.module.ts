@@ -8,7 +8,7 @@ export const knowledgeBaseDataRecipes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "These ids are the ids upstream BaseData for API 101050 states.",
     },
   ],

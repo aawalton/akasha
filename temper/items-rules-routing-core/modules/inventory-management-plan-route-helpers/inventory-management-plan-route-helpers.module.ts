@@ -9,11 +9,11 @@ export const inventoryManagementPlanRouteHelpers = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character absent from the captured holdings is named by its id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item with no captured value contributes nothing to a total.",
     },
   ],

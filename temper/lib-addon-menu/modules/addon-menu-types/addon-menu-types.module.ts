@@ -8,19 +8,19 @@ export const addonMenuTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Any widget field may be a value or a function returning that value.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One control interface has the fields of every widget type as optional.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Value-bearing widgets require both a getFunc and a setFunc.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No declaration in this file emits Lua.",
     },
   ],

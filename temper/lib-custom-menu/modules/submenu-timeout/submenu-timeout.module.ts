@@ -8,11 +8,11 @@ export const submenuTimeout = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only one delayed call is armed at a time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each delayed call is registered under a name no earlier call used.",
     },
   ],

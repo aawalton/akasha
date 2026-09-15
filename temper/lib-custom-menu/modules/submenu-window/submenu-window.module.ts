@@ -8,15 +8,15 @@ export const submenuWindow = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sub-menu opens to the right of its parent row unless the screen ends first.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sub-menu is drawn one level above the menu the sub-menu opened from.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sub-menu closes on the second global mouse up outside its own window.",
     },
   ],

@@ -8,11 +8,11 @@ export const keybinderEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing is set going where the game will let neither binding call through.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The global is published as the bundle loads rather than on the loaded event.",
     },
   ],

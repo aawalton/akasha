@@ -8,15 +8,15 @@ export const addonMenuWidgetCheckbox = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The checked state is rendered as the uppercase word ON or OFF rather than a box.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Clicking anywhere on the row toggles the value.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Label color tracks the value even while the control is enabled.",
     },
   ],

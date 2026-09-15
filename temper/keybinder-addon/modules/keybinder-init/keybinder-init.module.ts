@@ -8,15 +8,15 @@ export const keybinderInit = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account with no shared bindings is filled from the defaults on first login.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Synchronising waits until the player is out of combat.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bind button is held enabled so a bound key can be rebound.",
     },
   ],

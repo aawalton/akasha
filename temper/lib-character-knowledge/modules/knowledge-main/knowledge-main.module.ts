@@ -8,7 +8,7 @@ export const knowledgeMain = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The order these modules are loaded in is the order upstream loads those modules.",
     },
   ],

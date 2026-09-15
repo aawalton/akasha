@@ -8,7 +8,7 @@ export const keybinderCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A cast is written here rather than where the value is used.",
     },
   ],

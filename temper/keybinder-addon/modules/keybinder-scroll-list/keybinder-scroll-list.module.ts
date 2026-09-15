@@ -8,16 +8,16 @@ export const keybinderScrollList = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row built before the hook was installed is given its checkbox on setup.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The checkbox reads indeterminate where the saved keys differ from the bound keys.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Clearing the checkbox drops the action from the account-wide set.",
     },
   ],

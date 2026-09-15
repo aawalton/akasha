@@ -8,7 +8,7 @@ export const asyncSavedVars = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An absent saved value takes the default threshold.",
     },
   ],

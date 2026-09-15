@@ -8,7 +8,7 @@ export const gpsApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reaching a function before the library is initialized is an error.",
     },
   ],

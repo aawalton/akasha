@@ -8,19 +8,19 @@ export const addonMenuAddonList = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Search text is escaped for Lua patterns before matching.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Whitespace inside a search term matches any characters between the words.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Row selection survives a rebuild without replaying the selection sound.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The row control factory is replaced after ZO_ScrollList registers the data type.",
     },
   ],

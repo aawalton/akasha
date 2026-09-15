@@ -8,15 +8,15 @@ export const addonMenuWidgetDropdownScroll = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Ten visible rows is the default when scrollable is true without a number.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A list shorter than the visible row count is sized to its own length.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A rounding margin of one hundredth is added to the computed height.",
     },
   ],

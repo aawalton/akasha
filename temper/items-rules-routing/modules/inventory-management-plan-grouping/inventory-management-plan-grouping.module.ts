@@ -8,11 +8,11 @@ export const inventoryManagementPlanGrouping = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A group's total is the sum of the item values the group has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item with no value leaves the group total unknown.",
     },
   ],

@@ -8,11 +8,11 @@ export const gpsLibState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The logger and the chat channel are made as this module loads.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "LibDebugLogger and LibChatMessage are loaded before this library.",
     },
   ],

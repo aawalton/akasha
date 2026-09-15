@@ -8,11 +8,11 @@ export const keybinderSearchBox = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The field collapses to an icon while the field is empty and unfocused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Escape clears the field and gives up focus.",
     },
   ],

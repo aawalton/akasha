@@ -8,7 +8,7 @@ export const gpsMeasurement = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A measurement is taken once for a map and kept.",
     },
   ],

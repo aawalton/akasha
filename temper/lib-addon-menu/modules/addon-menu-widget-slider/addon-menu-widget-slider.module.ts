@@ -8,19 +8,19 @@ export const addonMenuWidgetSlider = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Typed input is clamped into range unless clampInput is false.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The mouse wheel changes the value only while the slider or its box has focus.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Dragging commits the value on release rather than on every step.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Decimal rounding happens before clamping.",
     },
   ],

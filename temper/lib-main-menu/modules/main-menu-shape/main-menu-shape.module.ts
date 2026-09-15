@@ -8,11 +8,11 @@ export const mainMenuShape = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every method here takes the library object as its first argument.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here is code the game runs.",
     },
   ],

@@ -8,15 +8,15 @@ export const addonMenuCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every cast function performs a bare type assertion.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No cast validates the value the cast is handed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Casts are collected in one module rather than written at each call site.",
     },
   ],

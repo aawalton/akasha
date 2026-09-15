@@ -8,11 +8,11 @@ export const inventoryManagementPlanTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A plan is a list of venue stops with the actions taken at that stop.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A character session gathers the venue stops one character makes before the next takes over.",
     },

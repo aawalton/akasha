@@ -8,15 +8,15 @@ export const asyncTaskCallstack = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A step called runs before the steps already waiting.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A step chained runs after the steps already waiting.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A step added to the running task goes in beside the step now running.",
     },
   ],

@@ -8,11 +8,11 @@ export const debugLoggerMain = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The logger class is ready before anything that makes a logger.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing here is exported.",
     },
   ],

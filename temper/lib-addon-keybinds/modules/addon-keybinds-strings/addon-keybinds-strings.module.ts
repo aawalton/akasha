@@ -8,7 +8,7 @@ export const addonKeybindsStrings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The names are English and are not translated.",
     },
   ],

@@ -8,11 +8,11 @@ export const knowledgePublicApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name the game reads keeps its upstream spelling on the global table.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Whichever copy of a shared library loads first and is newest is the copy the game uses.",
     },

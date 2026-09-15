@@ -8,7 +8,7 @@ export const mapPingCompatibility = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An older caller reaches the same handler through the older global name.",
     },
   ],

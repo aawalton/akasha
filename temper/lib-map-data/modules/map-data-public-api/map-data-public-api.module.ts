@@ -8,7 +8,7 @@ export const mapDataPublicApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name the game reads keeps its upstream spelling on the global table.",
     },
   ],

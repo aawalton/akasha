@@ -8,7 +8,7 @@ export const knowledgeLdei = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A share is held to the characters one edit box has.",
     },
   ],

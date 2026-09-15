@@ -8,16 +8,16 @@ export const debugLoggerApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Calling the library table itself makes a logger.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A caller may hand the library table in as the first argument or leave the argument out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The API version this states is two.",
     },
   ],

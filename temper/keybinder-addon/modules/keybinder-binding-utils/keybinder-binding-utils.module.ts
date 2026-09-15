@@ -8,12 +8,12 @@ export const keybinderBindingUtils = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A modifier is reduced to the one key that represents that modifier before comparison.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An action is bound when a binding slot of that action has a key.",
     },
   ],

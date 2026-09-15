@@ -8,16 +8,16 @@ export const addonMenuState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A widget registers only when no equal or newer version of that type exists.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The library object is created empty and filled in by the modules that load after.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Manager handles are captured at load time into two-letter names.",
     },
   ],

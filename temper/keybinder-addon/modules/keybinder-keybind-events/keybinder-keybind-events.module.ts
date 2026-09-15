@@ -8,11 +8,11 @@ export const keybinderKeybindEvents = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change is recorded only while the key-bind window is open.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The add-on synchronises on the frame after the game announces the bindings.",
     },
   ],

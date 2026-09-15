@@ -8,12 +8,12 @@ export const keybinderState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The saved variables replace the account bindings once the game loads the saved variables.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Leaving the key-bind window forgets that the bindings were synchronised.",
     },
   ],

@@ -8,11 +8,11 @@ export const mainMenuVersion = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The name here is the name the game loads the addon under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The build number rises whenever the published shape changes.",
     },
   ],

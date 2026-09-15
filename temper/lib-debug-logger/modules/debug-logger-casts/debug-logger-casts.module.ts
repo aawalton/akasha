@@ -8,7 +8,7 @@ export const debugLoggerCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A cast here changes no value.",
     },
   ],

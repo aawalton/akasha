@@ -8,7 +8,7 @@ export const gpsMain = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The global name is put in place before anything is built.",
     },
   ],

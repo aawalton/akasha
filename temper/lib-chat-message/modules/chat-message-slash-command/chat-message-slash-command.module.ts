@@ -8,11 +8,11 @@ export const chatMessageSlashCommand = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An unrecognized command prints the usage text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command given no argument reports the current setting.",
     },
   ],

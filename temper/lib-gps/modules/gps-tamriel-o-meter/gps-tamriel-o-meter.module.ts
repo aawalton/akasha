@@ -8,11 +8,11 @@ export const gpsTamrielOMeter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A map already measured is not measured again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Measuring moves the shown map and then puts the original map back.",
     },
   ],

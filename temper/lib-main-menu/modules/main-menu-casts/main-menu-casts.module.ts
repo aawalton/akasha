@@ -8,11 +8,11 @@ export const mainMenuCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A narrowing here asserts a shape rather than checking a shape.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller narrowing a game value states which shape the caller expects.",
     },
   ],

@@ -8,20 +8,20 @@ export const debugLoggerLogHandler = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A message repeating the message before that message raises a count rather than adding an entry.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A string longer than the save limit is split into parts.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The log is pruned once that log runs past the threshold.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A failed entry is written as a fallback entry rather than dropped.",
     },
   ],
