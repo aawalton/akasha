@@ -8,23 +8,23 @@ export const cpu = {
   parts: ["domain/cpu-limit", "page-type/cpu-kind"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The processor time a host has is one pool every program on that host draws from.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Processor time one program takes is time no other program can have.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A program given less processor time runs slower rather than failing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Processor time nobody takes in a second is gone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A host short of processor time ends nothing.",
     },
   ],

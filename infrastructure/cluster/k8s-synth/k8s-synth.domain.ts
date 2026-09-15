@@ -15,11 +15,11 @@ export const k8sSynth = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A generated manifest is written by the synth run rather than committed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A synth file is the code file of a `manifest` page the index answers.",
     },
   ],

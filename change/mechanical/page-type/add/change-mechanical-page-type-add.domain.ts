@@ -15,11 +15,11 @@ export const changeMechanicalPageTypeAdd = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung here answers the whole scope of one act in one answer.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No rung here takes a key away.",
     },
   ],

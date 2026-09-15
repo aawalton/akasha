@@ -13,11 +13,11 @@ export const job = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A job that fails leaves its object behind.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A later run succeeding does not remove the object a failed job left.",
     },
   ],

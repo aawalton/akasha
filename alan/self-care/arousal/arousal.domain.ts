@@ -7,15 +7,15 @@ export const arousal = {
   definition: "arousal Alan administers to himself",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Arousal is a way to regulate Alan's nervous system rather than an indulgence.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Prose delivered whole is the main way arousal reaches Alan.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every landed scene has the test the scene made and the read that came back.",
     },
   ],

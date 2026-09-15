@@ -14,19 +14,19 @@ export const changeMechanicalFileContentRename = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung here spells a name anew inside a body the caller names.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No rung here has a file.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No rung here names a guard.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The change composing these rungs judges the edges the whole rename leaves.",
     },
   ],

@@ -7,7 +7,7 @@ export const oid = {
   definition: "the name git gives what it stores, worked out from the bytes themselves",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every name for a git object id is `oid` or a scoped form of `oid`.",
     },
   ],

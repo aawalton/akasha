@@ -8,19 +8,19 @@ export const browserCommand = {
   parts: ["module/verify-render-plan"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command here is named for the path the old ops command was reached by.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command here drives the harness rather than launching a browser of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The user a command here signs in as is checked against the protected user.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here knows the purpose of any page this package looks at.",
     },
   ],

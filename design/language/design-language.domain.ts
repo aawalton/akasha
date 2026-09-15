@@ -8,17 +8,17 @@ export const designLanguage = {
   parts: ["domain/lua-compiler"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A program is found wrong at reading the program or at checking its names or at running the program.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A program that reads and checks and runs can still have a meaning its writer did not intend.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No failure catches a program with a meaning its writer did not intend.",
     },
   ],

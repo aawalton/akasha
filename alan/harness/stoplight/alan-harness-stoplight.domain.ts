@@ -7,11 +7,11 @@ export const alanHarnessStoplight = {
   definition: "how Alan knows what to do next",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every difference between two readouts is written on those readouts.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "No code names a readout or a readout group.",
     },
   ],

@@ -13,16 +13,16 @@ export const relating = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A relationship is Alan's own record of somebody rather than somebody the system reaches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A relationship names a person only where the system reaches that person.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A relationship's circle is Alan's own ladder rather than a rung of closeness.",
     },
   ],

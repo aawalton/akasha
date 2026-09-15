@@ -8,11 +8,11 @@ export const shell = {
   parts: ["domain/shell-terminal", "module/quoting"],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The native shell an iOS app is built into is not this package.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A value written into a command is written so the shell reads that value as one word.",
     },

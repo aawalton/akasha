@@ -8,7 +8,7 @@ export const webStaticAsset = {
   parts: ["module/build-directory", "module/serve-static"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hashed asset is cached for a year and everything else for an hour.",
     },
   ],

@@ -8,7 +8,7 @@ export const technology = {
   parts: ["domain/mcp", "domain/technology-definition"],
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A system's terms change without notice.",
     },
   ],

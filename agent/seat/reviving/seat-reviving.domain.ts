@@ -21,38 +21,38 @@ export const seatReviving = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat whose pane is dead and whose supervisor is gone is revived from here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A supervisor asked to re-exec and gone without a successor leaves a seat to revive.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A seat holding an untaken ask under no live supervisor is told from a seat that is idle.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The ask a seat holds keeps no time of its own.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Something reads which seats hold an untaken ask under no live supervisor.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "A seat found that way is revived rather than left with a pane held open and no process.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A revived seat comes back onto its live tmux session where one holds its name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A revived seat with no such session comes back in the mode its row states, or headless.",
     },

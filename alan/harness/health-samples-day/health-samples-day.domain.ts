@@ -8,15 +8,15 @@ export const healthSamplesDay = {
   parts: ["module/active-calories", "module/opening-window"],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes a reading down.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day's sleep is read from the entries beside that day's page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A day whose sleep was never recorded is refused an opening rather than given one.",
     },

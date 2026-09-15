@@ -18,11 +18,11 @@ export const generation = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Drafts are made with smaller weights than the final render.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A generation run that fails is not retried.",
     },
   ],

@@ -15,15 +15,15 @@ export const temperBuildHash = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bit arithmetic goes through the operators the language gives.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bits go in and come out from the most significant end.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Text that is no valid encoding is read as nothing rather than as bytes.",
     },
   ],

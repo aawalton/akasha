@@ -15,23 +15,23 @@ export const objectStore = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Durability is a property of each bucket.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Durability is a property of each prefix where one bucket's prefixes differ.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Bytes that cannot be remade are copied where nothing deletes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "That copy is bounded by a declared size.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No age rule reaches the copy of bytes that cannot be remade.",
     },
   ],

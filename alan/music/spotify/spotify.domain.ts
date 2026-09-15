@@ -23,30 +23,30 @@ export const spotify = {
   ],
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An unpaced sweep of the Web API bans the account for about a day.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every call to the Web API goes through one paced queue.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The token and the consent handoff are kept outside the repository.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Consent is given once at a terminal rather than by a running callback server.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes a page.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here decides the use made of the Web API's answers.",
     },
-    { invariantKind: "departure", statement: "Every module here has a test." },
+    { invariantKind: "invariant-kind/departure", statement: "Every module here has a test." },
   ],
   directives: [
     {

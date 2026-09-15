@@ -24,15 +24,15 @@ export const musicCatalog = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "MusicBrainz defines a song and an artist.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "LRCLIB states the words of a song.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Spotify states the releases an artist put out.",
     },
   ],

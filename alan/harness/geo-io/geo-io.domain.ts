@@ -8,7 +8,7 @@ export const geoIo = {
   parts: ["module/geoapify"],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here has an api key.",
     },
   ],

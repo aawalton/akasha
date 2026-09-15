@@ -8,19 +8,19 @@ export const temperCaptureWriter = {
   parts: ["module/account-wide-vars", "module/capture-writer", "module/run-batched"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An add-on states the capture in a descriptor and nothing more.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A capture is saved for the whole account rather than for one character.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This code is compiled to Lua and runs inside the game.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads a saved file back.",
     },
   ],

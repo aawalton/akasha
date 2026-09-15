@@ -8,32 +8,32 @@ export const ciBenchmark = {
   parts: ["module/toolchain-manifest"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pod is placed by a hostname nodeSelector rather than by a node name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pod the kubelet rejects is a destroyed run rather than a retried run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The store is empty at the start of every run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The store is independent of the node.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two runs are comparable only where their failures match on name and exit code.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A failure outside the declared set invalidates the run rather than failing that run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The memory request covers the tmpfs size limit as well as the working set.",
     },
   ],

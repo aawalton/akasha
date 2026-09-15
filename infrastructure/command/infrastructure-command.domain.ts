@@ -8,15 +8,15 @@ export const infrastructureCommand = {
   parts: [],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command here is named for the path the old ops command was reached by.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The Talos code a command here works over is in akasha.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The RBAC rules a command here reads are in akasha.",
     },
   ],

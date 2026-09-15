@@ -8,11 +8,11 @@ export const clusterApi = {
   parts: ["module/cluster-fetch", "module/cluster-jobs", "module/cluster-workloads"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every call here goes to the API server directly rather than through a proxy.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The credential is a service account token the environment has.",
     },
   ],

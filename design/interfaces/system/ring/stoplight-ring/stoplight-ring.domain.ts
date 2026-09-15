@@ -7,23 +7,23 @@ export const stoplightRing = {
   definition: "a stoplight drawn with its reading inside and its progress around",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subject with no reading is black.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading below black or above blue keeps its stroke.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading between two rungs draws an arc.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The stroke has the current tier's color and the arc the next one's.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The arc is how far along a reading is toward its next rung rather than on the whole scale.",
     },

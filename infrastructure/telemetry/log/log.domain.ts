@@ -7,7 +7,7 @@ export const log = {
   definition: "the lines a program wrote about what it was doing",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A log is kept for days.",
     },
   ],

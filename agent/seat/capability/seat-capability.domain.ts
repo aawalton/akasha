@@ -7,52 +7,55 @@ export const seatCapability = {
   definition: "what a seat is able to do",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat reads a document without changing the document.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat writes by changing the content a repository has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat runs by making something happen outside the repositories.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat speaks by putting words in front of a person or another seat.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat delegates by making or directing another agent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat states by changing the attributes the seat has about itself.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One read names every document a seat is required to have read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A read names a required document whether or not the record already has that document.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Whether a command's help must be read first depends on how the command fails rather than on danger.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command named inside a string or a heredoc counts as a call.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A live path inside akasha that nothing guards is a gap rather than permission.",
     },
-    { invariantKind: "absence", statement: "Dispatch is never held to avoiding sharing a file." },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "Dispatch is never held to avoiding sharing a file.",
+    },
   ],
   directives: [
     {

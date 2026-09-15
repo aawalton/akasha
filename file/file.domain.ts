@@ -8,23 +8,23 @@ export const file = {
   parts: ["domain/folder-path", "module/exclusive", "module/git-place", "module/lock-holder"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page's file is named for its slug and its page type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page property's file is named for its page and its property.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every file is a page or one page property's own file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file git does not track sits in the folder all the same.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two processes take turns over one file rather than writing it at once.",
     },
   ],

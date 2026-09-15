@@ -8,19 +8,19 @@ export const memory = {
   parts: ["domain/memory-limit", "domain/memory-reaping", "page-type/memory-kind"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The memory a host has is one pool every program on that host draws from.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Memory one program holds is memory no other program can have.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A program is given the memory it asks for before anything weighs the ask.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A host out of memory ends a program rather than refusing the ask.",
     },
   ],

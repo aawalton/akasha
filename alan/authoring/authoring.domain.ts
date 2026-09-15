@@ -8,19 +8,19 @@ export const authoring = {
   parts: ["page-type/book-record"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book here is built in sessions between Alan and a persona.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every page kept here is kept about a book rather than inside the book.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book Alan writes is not a book Alan reads.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The books themselves are outside akasha.",
     },
   ],

@@ -14,7 +14,7 @@ export const googleDrive = {
   ],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes to Drive.",
     },
   ],

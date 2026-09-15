@@ -8,15 +8,15 @@ export const locationTracesAccess = {
   parts: ["module/trace-insert", "module/trace-shape"],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches the phone a trace came from.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads a trace back out.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here keeps a location trace.",
     },
   ],

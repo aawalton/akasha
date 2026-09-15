@@ -14,20 +14,20 @@ export const context = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A warrant applies to the seat changing a file rather than to a seat reading that file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Warrants reach no further than the akasha folder.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every warrant a change owes is stated by a page of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The warrants a change owes are worked out from the warrant pages.",
     },
   ],

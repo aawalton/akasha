@@ -12,29 +12,29 @@ export const plants = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The grams are read from the food entries the workstation's checkout has.",
     },
 
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The window counted over runs from the hour Alan rose to the hour Alan rises next.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every site showing the grams is carried the grams rather than taking the grams.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A carry that fails to one site does not stop the carry to another site.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tile shows the grams Alan's workstation last took.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A day begun with nothing eaten is a reading of zero rather than no signal.",
     },
   ],

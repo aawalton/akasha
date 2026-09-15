@@ -8,7 +8,7 @@ export const id = {
   parts: ["module/random-id", "module/uuid-version-7"],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here knows the thing an identifier this package makes will name.",
     },
   ],

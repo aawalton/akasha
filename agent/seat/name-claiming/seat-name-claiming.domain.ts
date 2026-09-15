@@ -19,11 +19,11 @@ export const seatNameClaiming = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name already on the seat's row is the name that seat comes back under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A revive is refused where the seat's row names that seat nothing.",
     },
   ],

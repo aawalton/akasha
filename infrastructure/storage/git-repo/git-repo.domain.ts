@@ -8,15 +8,15 @@ export const gitRepo = {
   parts: ["domain/dirty", "page-type/repo"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bare repositories sit on one disk.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A mirror to a second host runs after the push returns.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No mirror to a second host runs inside the push.",
     },
   ],

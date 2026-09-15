@@ -12,24 +12,24 @@ export const safety = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The level is read from the tracking the workstation's checkout carries.",
     },
 
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every site showing the level is carried the level rather than taking the level.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A carry that fails to one site does not stop the carry to another site.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tile shows the level Alan's workstation last took.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A level nothing can be read for is shown as no signal rather than as a zero.",
     },
   ],

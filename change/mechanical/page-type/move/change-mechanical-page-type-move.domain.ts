@@ -12,11 +12,11 @@ export const changeMechanicalPageTypeMove = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung here answers for every page of the page type at once.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No rung here moves a file.",
     },
   ],

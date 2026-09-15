@@ -7,11 +7,11 @@ export const narrativeProduction = {
   definition: "turning a story into narration and illustration",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A picture is made for one chapter.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A chapter's picture is rendered from the chapter rather than kept as a page of its own.",
     },

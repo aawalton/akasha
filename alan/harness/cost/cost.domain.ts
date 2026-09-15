@@ -14,20 +14,20 @@ export const cost = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The cost is the multiplier the open block's safety and difficulty price the block at.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A cost of one multiplier is the most Alan can pay all day without draining.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The color a cost takes is read with the surplus rather than from the cost alone.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A cost nothing can be read for is shown as no signal rather than as a zero.",
     },
   ],

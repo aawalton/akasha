@@ -8,11 +8,11 @@ export const temperCaptureDatamining = {
   parts: ["module/datamining-descriptor", "module/datamining-payload"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The mining add-on and every reader of the add-on's capture agree here.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches the game.",
     },
   ],

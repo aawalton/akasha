@@ -16,11 +16,11 @@ export const errorsCore = {
   ],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches a network or a disk.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here decides whether an error is worth reporting.",
     },
   ],

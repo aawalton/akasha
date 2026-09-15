@@ -7,11 +7,11 @@ export const bootstrapLayer = {
   definition: "the ordered stages an empty cluster is brought up in",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The toolchain layer reuses exactly two of `prep.workflow`'s steps.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The private CI image `ci-images` builds does not exist before L3.",
     },
   ],

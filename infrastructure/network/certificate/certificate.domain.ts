@@ -8,15 +8,15 @@ export const certificate = {
   parts: ["page-type/certificate-authority"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A certificate for a public name is issued by an outside authority.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A certificate used inside the cluster is signed by our own authority.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Our own authority's key is not in the repository.",
     },
   ],

@@ -17,19 +17,19 @@ export const imessage = {
   ],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No message body is written to a page or a log from here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every read and every send happens on a mac reached over ssh.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The message store is queried through sqlite3 on that mac.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command here is named for the path the old ops command was reached by.",
     },
   ],

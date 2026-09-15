@@ -11,7 +11,7 @@ export const changeMechanicalFileContentMove = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung here carries a declaration out of one body and into another body.",
     },
   ],

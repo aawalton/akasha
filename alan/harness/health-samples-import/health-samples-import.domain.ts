@@ -18,16 +18,16 @@ export const healthSamplesImport = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A reading is fetched over a shell rather than from anything the machine with the export serves.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An import that stops part way is resumed rather than started again.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here decides the meaning of a reading.",
     },
   ],

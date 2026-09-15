@@ -18,12 +18,12 @@ export const zimage = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Every checkpoint here loads through the stock nodes rather than a quantised loader.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A prompt file may pin the seed the render is drawn with.",
     },
   ],

@@ -8,19 +8,19 @@ export const backup = {
   parts: ["domain/backup-retention"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A backup mirrors its store by default.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A deletion from a store reaches that store's backup.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Backups of the database are thinned as the backups age.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Fewer database backups are kept the further back the backups go.",
     },
   ],

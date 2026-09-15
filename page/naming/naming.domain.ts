@@ -8,12 +8,12 @@ export const naming = {
   parts: ["domain/named-for", "module/folder-named"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A folder's word is true of everything under that folder and of nothing outside that folder.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A word in a folder is paid for by every path under that folder.",
     },
   ],

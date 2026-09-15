@@ -8,7 +8,7 @@ export const design = {
   parts: ["domain/design-game", "domain/design-interfaces", "domain/design-language"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A design package reads the router through a context rather than importing the router.",
     },

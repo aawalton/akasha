@@ -8,19 +8,19 @@ export const resourceUtilization = {
   parts: ["domain/alan-attention"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A resource may itself be an assembly line of other resources.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An assembly line's reading is the highest of its parts' readings.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A resource is fully utilized once work accumulates in front of that resource.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Work accumulating while busy time reads under full means another resource is the bottleneck.",
     },

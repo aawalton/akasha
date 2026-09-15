@@ -22,15 +22,15 @@ export const authProxy = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every request the cluster answers from outside arrives here first.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A host the route map names no target for is refused rather than guessed at.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A session is handed out and ended by the auth server rather than by the proxy.",
     },
   ],

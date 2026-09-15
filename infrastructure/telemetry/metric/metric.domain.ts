@@ -7,11 +7,11 @@ export const metric = {
   definition: "a number about the system, recorded over time",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A metric is kept for months.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A metric comes largely from an instrument rather than from the thing measured.",
     },
   ],

@@ -7,11 +7,11 @@ export const statusBar = {
   definition: "a strip of readings Alan keeps in view while he works",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each item on the strip has its own source.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The status bar counts nothing.",
     },
   ],

@@ -18,11 +18,11 @@ export const browserTestHarness = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The browser this drives is an optional dependency.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here knows the assertion any test the harness has makes.",
     },
   ],

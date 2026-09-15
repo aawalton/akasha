@@ -12,15 +12,15 @@ export const royalRoad = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page written from Royal Road is written by the syncing module.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every reach out to Royal Road goes through this package.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chapter is fetched without the account.",
     },
   ],

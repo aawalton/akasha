@@ -8,11 +8,11 @@ export const temperAddonLog = {
   parts: ["module/addon-log", "module/library-logger"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Whether an add-on writes these lines is the add-on's own to say.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An add-on names itself to the log library once.",
     },
   ],

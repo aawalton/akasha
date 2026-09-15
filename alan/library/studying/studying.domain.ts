@@ -12,11 +12,11 @@ export const studying = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A course is counted in the minutes that course runs to.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A course sits under every shelf that course belongs to rather than under a single shelf.",
     },

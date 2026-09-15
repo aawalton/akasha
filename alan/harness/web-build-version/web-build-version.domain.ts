@@ -8,7 +8,7 @@ export const webBuildVersion = {
   parts: ["module/build-sha", "module/build-sha-define", "module/live-version"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A build that cannot say which commit the build came from says so rather than guessing.",
     },

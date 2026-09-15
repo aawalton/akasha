@@ -12,7 +12,7 @@ export const changeMechanicalPageTypeRemove = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung here answers the whole scope of one act in one answer.",
     },
   ],

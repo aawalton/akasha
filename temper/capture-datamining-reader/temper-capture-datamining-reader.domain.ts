@@ -8,12 +8,12 @@ export const temperCaptureDataminingReader = {
   parts: ["module/mined-data-parse", "module/saved-variables-schema"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A datamining capture is checked against a zod shape before any reader reads that capture.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No datamining capture is written here.",
     },
   ],

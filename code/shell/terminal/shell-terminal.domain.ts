@@ -19,7 +19,7 @@ export const shellTerminal = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A restart of the editor puts every interactive seat back in the terminal tab that seat held.",
     },

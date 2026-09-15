@@ -12,15 +12,15 @@ export const changeMechanicalPageProperty = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung here answers the whole scope of one act in one call.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung here reads the pages carrying the property from the index once.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No rung here reaches a rung beneath once for each page.",
     },
   ],

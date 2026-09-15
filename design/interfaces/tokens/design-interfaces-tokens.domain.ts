@@ -8,19 +8,19 @@ export const designInterfacesTokens = {
   parts: ["module/semantic-color", "module/color-shape", "module/text-color"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every color here is mirrored by a custom property `tokens.css` declares.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every tuple here is worked out from the hex a color page states.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No color is written out here.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here names the use of any color.",
     },
   ],

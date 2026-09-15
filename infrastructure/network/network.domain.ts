@@ -17,24 +17,24 @@ export const network = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Traffic reaches the cluster through a tunnel opened from inside the cluster.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No port is opened to the cluster from outside.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The name a machine joins the private network by answers at the cluster's public address.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A workload in the cluster reaches a machine at that machine's local address.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "No workload reaches a machine by the name that machine joins the private network by.",
     },

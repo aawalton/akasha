@@ -61,86 +61,89 @@ export const alanHarness = {
   ],
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Alan changes often.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Alan's harness is optimized for fast change over stability.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Alan's harness has a footprint in several products.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Everything in Alan's harness changes without a deploy.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A deploy to Alan's harness adds only the things there to change.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A deploy to Alan's harness removes only the things there to change.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A deploy to Alan's harness replaces only the things there to change.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A deploy to Alan's harness does nothing else.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every package Alan's harness is made of is in akasha.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Alan's upkeep widget shows all four stoplights.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Health samples are imported by `akasha track health-import`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Alan's inboxes widget shows all three stoplights.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Alan and Jenny share one widget for Alan's multiplier.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Alan's code editor status line shows workstation load, Claude usage and the three readout groups.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing reads a readout through the markdown engine.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The reading is taken on Alan's workstation rather than by a pod serving a route.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A tile shows its last reading rather than going dark when the taker dies.",
     },
-    { invariantKind: "departure", statement: "Alan's app fills his password in from 1Password." },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/departure",
+      statement: "Alan's app fills his password in from 1Password.",
+    },
+    {
+      invariantKind: "invariant-kind/gap",
       statement: "Alan's phone drains its health samples into akasha every day.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The code editor panel named Page Types is a tree of page types by what each extends.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The code editor panel named Services is a tree of services by the kind each one is.",
     },

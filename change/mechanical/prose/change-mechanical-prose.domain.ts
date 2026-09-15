@@ -8,11 +8,11 @@ export const changeMechanicalProse = {
   parts: ["change-mechanical/change-prose-pattern"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung here answers for every passage the repository states at once.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No rung here reaches a rung beneath once for each passage.",
     },
   ],

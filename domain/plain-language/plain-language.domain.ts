@@ -17,23 +17,23 @@ export const plainLanguage = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sentence a refused shape matches is not plain.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sentence refused for a construction Alan calls plain is a gap in the shapes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing here states a sentence's meaning.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A trained model commits to one tree rather than ranking several trees.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A statement is read alone rather than beside the statements sharing its file.",
     },
   ],

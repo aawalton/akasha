@@ -8,7 +8,7 @@ export const eso = {
   parts: ["domain/eso-wallpaper"],
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A persona answers for this domain.",
     },
   ],

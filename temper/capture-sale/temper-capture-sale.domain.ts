@@ -8,11 +8,11 @@ export const temperCaptureSale = {
   parts: ["module/sales-descriptor", "module/sales-payload"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The sales add-on and every reader of the add-on's capture agree here.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches the game.",
     },
   ],

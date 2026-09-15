@@ -7,11 +7,11 @@ export const budgetRing = {
   definition: "how much of an allowance is spent, colored by how long until it renews",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The arc and the color measure different quantities.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A full ring can be any color.",
     },
   ],

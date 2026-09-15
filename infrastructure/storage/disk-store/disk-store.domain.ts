@@ -7,11 +7,11 @@ export const diskStore = {
   definition: "a node-pinned filesystem other stores rest on",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A store no other store rests on is a disk store.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A volume is not backed up by default.",
     },
   ],

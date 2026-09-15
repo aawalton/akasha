@@ -22,31 +22,31 @@ export const git = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A repository is named to git by `-C` rather than by the folder a caller is in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The folder a checkout's worktrees share is asked of git rather than spelled.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What is under that folder is no page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What akasha left under that folder goes by a sweep rather than by a change.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller wanting a throw and a caller wanting nothing back reach for two names.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "The git this repository has run for years sits outside akasha at `repo/git`.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The code `repo/git` holds beyond running a command belongs here.",
     },
   ],

@@ -23,23 +23,23 @@ export const upscale = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run cleans the image up first and refines its skin second.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The refining stage is skipped where its weights are not on the machine.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The upscaling tool answers zero when that tool runs out of memory.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The tool's answer is not believed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run goes either to a cluster GPU or to the workstation's own.",
     },
   ],

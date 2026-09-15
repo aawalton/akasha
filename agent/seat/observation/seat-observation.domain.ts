@@ -12,31 +12,49 @@ export const seatObservation = {
     "module/seat-proc-key",
   ],
   invariants: [
-    { invariantKind: "departure", statement: "Nobody could have settled an observation." },
-    { invariantKind: "departure", statement: "An observation is whatever happened." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
+      statement: "Nobody could have settled an observation.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An observation is whatever happened.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "An observation holds only while an agent is in the seat.",
     },
-    { invariantKind: "departure", statement: "One run of an agent in a seat is a seat process." },
-    { invariantKind: "departure", statement: "An agent taking a new seat is a presence start." },
-    { invariantKind: "departure", statement: "An agent leaving a seat is a presence stop." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
+      statement: "One run of an agent in a seat is a seat process.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An agent taking a new seat is a presence start.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An agent leaving a seat is a presence stop.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "An agent taking a seat the agent left is a presence resume.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An agent leaving a seat and taking the seat again is a presence restart.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An agent leaving a seat and another agent taking the seat is a presence reset.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An agent leaving a seat without being stopped made an unexpected stop.",
     },
-    { invariantKind: "gap", statement: "A seat states whether an agent is present in the seat." },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "A seat states whether an agent is present in the seat.",
+    },
   ],
 } as const satisfies Domain

@@ -8,23 +8,23 @@ export const containerRegistry = {
   parts: ["manifest/registry", "manifest/registry-gc", "module/registry-constants"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The registry serves plain HTTP.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A node cannot resolve names inside the cluster.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A node reaches the registry at an address rather than by name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only the newest images of each family are kept.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every older image of a family is deleted.",
     },
   ],

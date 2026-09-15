@@ -13,17 +13,17 @@ export const webPageAnswer = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Every site serving pages over http answers from here rather than from its own copy.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The values that differ between two sites are passed in rather than written into a copy.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The three answers reaching a service-role client sit behind a `.server` folder.",
     },
   ],

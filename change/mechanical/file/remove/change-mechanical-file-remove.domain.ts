@@ -15,7 +15,7 @@ export const changeMechanicalFileRemove = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This family has a rung at every file kind the add family has one at.",
     },
   ],

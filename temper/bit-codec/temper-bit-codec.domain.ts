@@ -14,15 +14,15 @@ export const temperBitCodec = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bit arithmetic goes through the game's own bit functions.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A game constant is mapped to a small index before the packing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The writer and the reader take the bits in the one order.",
     },
   ],

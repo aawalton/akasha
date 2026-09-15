@@ -47,7 +47,7 @@ export const code = {
   ],
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A spawned child has the environment its parent started with unless the spawn states `env`.",
     },

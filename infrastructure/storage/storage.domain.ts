@@ -15,11 +15,11 @@ export const storage = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Durability is off by default in every store.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Durability is asked for one thing at a time.",
     },
   ],

@@ -53,15 +53,15 @@ export const designInterfacesSystem = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The space separating a component from its neighbours is written on the parent.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No component takes a prop letting its caller space that component.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The space inside a component is written on the component.",
     },
   ],

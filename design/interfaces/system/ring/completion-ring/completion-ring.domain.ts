@@ -7,45 +7,45 @@ export const completionRing = {
   definition: "how near done a body of work is",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The arc is a full ring less the backlog measured against a recent period's intake.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The arc has no floor.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Anything past empty draws empty.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The color comes from how many items are left against the thresholds the feed sends.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A feed sending no thresholds has the ring colored by the fraction instead.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A ring colored by fraction draws blue at full and green at three quarters.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A ring colored by fraction draws yellow at a half and red at a quarter.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A ring colored by fraction draws black under a quarter.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A backlog of nothing draws an emoji in place of the ring.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The words for nothing left sit beneath that emoji or are left unsaid.",
     },
   ],

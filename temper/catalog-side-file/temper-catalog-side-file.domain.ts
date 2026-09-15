@@ -8,19 +8,19 @@ export const temperCatalogSideFile = {
   parts: ["module/catalog-file-paths", "module/catalog-side-file"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The addon is told the things to collect again through a file rather than a call.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The file is Lua the addon loads as a table.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches the game.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here opens a file.",
     },
   ],

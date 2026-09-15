@@ -8,32 +8,32 @@ export const ring = {
   parts: ["domain/budget-ring", "domain/completion-ring", "domain/stoplight-ring"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A ring is one of two sizes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The small ring is the size three small rings span a small tile at.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The large ring fills a small tile alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every arc starts at twelve o'clock and sweeps clockwise.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The figure sits inside the ring and the label below that ring.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A ring leaves slack above its label rather than taking every point the label does not.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The emoji a ring draws in place of itself is drawn at the size the ring draws rather than is given.",
     },

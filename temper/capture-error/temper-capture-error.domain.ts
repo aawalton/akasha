@@ -8,11 +8,11 @@ export const temperCaptureError = {
   parts: ["module/errors-descriptor", "module/errors-payload"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The error add-on and every reader of the add-on's capture agree here.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches the game.",
     },
   ],

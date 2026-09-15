@@ -31,15 +31,15 @@ export const supabaseRr = {
   ],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No key is here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A session is in cookies on the web and in the device's own store on iOS.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A request has the client and the session the request worked out.",
     },
   ],

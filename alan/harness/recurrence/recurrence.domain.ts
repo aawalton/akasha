@@ -8,16 +8,16 @@ export const recurrence = {
   parts: ["module/recurrence-shape", "module/scheduling"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A recurrence is stored as an rrule string and read back from the rrule string.",
     },
 
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads a clock of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The caller states the current time.",
     },
   ],

@@ -8,11 +8,11 @@ export const storyEngine = {
   parts: ["domain/story-engine-core", "page-type/doctrine"],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No deployed code names one story or one world.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every word a game master is served changes without a deploy.",
     },
   ],

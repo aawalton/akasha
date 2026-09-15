@@ -20,11 +20,11 @@ export const temperAlchemy = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A potion is reached by its kebab id rather than by the game's item number.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The potion and reagent tables here are written out from the temper pages.",
     },
   ],

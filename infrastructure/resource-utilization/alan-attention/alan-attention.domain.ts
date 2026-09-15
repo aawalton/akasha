@@ -7,12 +7,12 @@ export const alanAttention = {
   definition: "the time Alan can give the system",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Input Alan sends through Remote Control reaches the agent inside its own process.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No input Alan sends reaches an agent as keystrokes on a terminal.",
     },
   ],

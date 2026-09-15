@@ -18,7 +18,7 @@ export const model = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A model is a domain whose subject is one trained network.",
     },
   ],

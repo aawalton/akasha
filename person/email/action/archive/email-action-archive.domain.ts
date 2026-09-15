@@ -7,7 +7,7 @@ export const emailActionArchive = {
   definition: "taking mail out of a person's inbox",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Mail is archived and never deleted.",
     },
   ],

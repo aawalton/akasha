@@ -70,11 +70,11 @@ export const designInterfacesPrimitives = {
   ],
   invariants: [
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "This manifest leaves out the seven packages only a `.tsx` module here reaches.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The manifest names every package this package reaches.",
     },
   ],

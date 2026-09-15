@@ -8,7 +8,7 @@ export const clearTheWorld = {
   parts: ["page-type/ctw-achievement", "page-type/ctw-team"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every player clears a single shared minefield.",
     },
   ],

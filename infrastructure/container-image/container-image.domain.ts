@@ -19,7 +19,7 @@ export const containerImage = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An image is tagged with a hash of the image's build inputs rather than a name or version.",
     },

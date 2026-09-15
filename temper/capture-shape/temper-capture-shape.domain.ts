@@ -28,15 +28,15 @@ export const temperCaptureShape = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A catalog here states a shape rather than holding the captured data.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A field name here is the name the addon writes into the saved variables.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Nothing here has code that runs.",
     },
   ],

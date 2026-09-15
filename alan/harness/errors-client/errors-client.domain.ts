@@ -13,7 +13,7 @@ export const errorsClient = {
   ],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here acts where there is no window.",
     },
   ],

@@ -77,23 +77,23 @@ export const temperBuildDeployCheck = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run here reads the game add-on tree rather than the akasha tree.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run states how much of the population the run examined.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A run that could not look reports that the run could not look.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "One module answers which files under an add-on are that add-on's own.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Most code this folder is made of is still outside akasha.",
     },
   ],

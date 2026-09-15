@@ -17,7 +17,7 @@ export const designInterfaces = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every design package is in akasha.",
     },
   ],

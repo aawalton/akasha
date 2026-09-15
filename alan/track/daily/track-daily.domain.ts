@@ -32,15 +32,15 @@ export const trackDaily = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day is the day Alan lives and an ESO day is the day Alan plays.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An ESO day is a boundary rather than a page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An ESO day decides which day a health reading or a listen is filed under.",
     },
   ],

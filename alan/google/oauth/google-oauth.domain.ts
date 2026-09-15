@@ -14,11 +14,11 @@ export const googleOauth = {
   ],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No credential is held here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One consent covers calendar, drive and mail, and one token comes of it.",
     },
   ],

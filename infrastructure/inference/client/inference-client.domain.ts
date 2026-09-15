@@ -20,20 +20,20 @@ export const inferenceClient = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A client speaks one service's own wire shape rather than a shape shared here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A client answers with the bytes the service made rather than a path those bytes were written to.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here keeps a record of the run a client asked for.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here knows which host a service is on.",
     },
   ],

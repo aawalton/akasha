@@ -16,11 +16,11 @@ export const googleCalendar = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An event naming no calendar lands on Alan's own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Attendees are emailed unless the caller says otherwise.",
     },
   ],

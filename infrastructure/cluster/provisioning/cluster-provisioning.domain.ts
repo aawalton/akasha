@@ -13,11 +13,11 @@ export const clusterProvisioning = {
   ],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "`pipeline-orchestrator` is not in the chain.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "`pipeline-orchestrator` ships as steps in the main pipeline's `preparation` workflow.",
     },

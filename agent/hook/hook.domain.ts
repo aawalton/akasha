@@ -21,31 +21,31 @@ export const hook = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook is in the akasha folder and is registered outside the akasha folder.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook is registered by the name its page has rather than by its path.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The path that name reaches is worked out at the call rather than at the spawn.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook is TypeScript rather than a shell script.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook that refuses names the akasha command that does the work asked for.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hook says the calls the hook does not catch when the hook is asked.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A hook over the ways a shell writes a file samples an open world that is too many ways to name.",
     },

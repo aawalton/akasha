@@ -7,31 +7,31 @@ export const zImageTurbo = {
   definition: "Tongyi's distilled model making an image from text",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The model was trained at 1024 pixels square.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A wide frame doubles a dominant figure once the frame is large.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The doubling comes at 3440 pixels across and not at 2048.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A landscape in the same frame is untouched by the doubling.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Naming the content that fills the width prevents the doubling.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Sharpness falls with the longest edge past 2224 pixels.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "That fall answers the longest edge whatever the frame's area or shape.",
     },
   ],

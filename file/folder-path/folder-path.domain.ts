@@ -7,7 +7,7 @@ export const folderPath = {
   definition: "a path saying where a folder is",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every file path begins with a folder path.",
     },
   ],

@@ -12,11 +12,11 @@ export const changeMechanicalPageTypeChange = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung here answers for every page of the page type at once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung here writes the declaration, the pages under it, or both.",
     },
   ],

@@ -12,15 +12,15 @@ export const reminderSystem = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reminder is sent by a clock rather than by the person who wrote the reminder.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reminder is sent as a page in akasha.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The service sending a reminder reads that reminder off the index.",
     },
   ],

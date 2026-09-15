@@ -8,21 +8,21 @@ export const node = {
   parts: ["manifest/nvidia-device-plugin"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A node's configuration is declared in code and applied whole rather than changed on the machine.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A node's disks are matched by each disk's own identity rather than by device path.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The GPU memory a node can use is measured from the card.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The GPU memory a node can use falls short of the card's nominal size.",
     },
   ],

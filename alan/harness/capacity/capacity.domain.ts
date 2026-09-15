@@ -12,30 +12,30 @@ export const capacity = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The capacity is read from the tracking the workstation's checkout carries.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The capacity is summed over the stretches of the day rather than read off the day.",
     },
 
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Every site showing the capacity is carried the capacity rather than taking that capacity.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A carry that fails to one site does not stop the carry to another site.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tile shows the capacity Alan's workstation last took.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A capacity nothing can be read for is shown as no signal rather than as a zero.",
     },
   ],

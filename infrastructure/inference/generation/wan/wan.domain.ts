@@ -19,11 +19,11 @@ export const wan = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A graph is built here and run by the holder of the daemon.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The two experts split one sampling run at the step halfway through.",
     },
   ],

@@ -8,27 +8,27 @@ export const alanHarnessAgent = {
   parts: ["domain/alan-harness-agent-annoyance"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Alan reaches an agent on whatever channel Alan is holding.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Alan answers one item in a message.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A question to Alan is a question only Alan can answer.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every message to Alan is warm.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every message to Alan is feminine.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every message to Alan is enthusiastic.",
     },
   ],

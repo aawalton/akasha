@@ -8,15 +8,15 @@ export const supabaseServer = {
   parts: ["module/service-role", "module/throwaway-user"],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No key is here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The key is read from the environment at the moment a client is made.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing made here is ever handed to a browser.",
     },
   ],

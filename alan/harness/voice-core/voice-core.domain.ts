@@ -8,11 +8,11 @@ export const voiceCore = {
   parts: ["module/estimate-marks", "module/infer-endpoint", "module/mark-schema", "module/speech"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing here reaches a voice.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The same cut serves the browser and the phone alike.",
     },
   ],

@@ -25,7 +25,7 @@ export const seatSupervisor = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each thing a supervisor does is a domain naming the modules that do it.",
     },
   ],

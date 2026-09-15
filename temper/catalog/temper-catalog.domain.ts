@@ -16,11 +16,11 @@ export const temperCatalog = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every page here states a thing the game has for everybody.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page here is replaced by the next capture rather than edited by hand.",
     },
   ],

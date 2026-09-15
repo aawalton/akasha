@@ -16,15 +16,15 @@ export const voiceInference = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Both models are loaded before the workload reports itself healthy.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One inference runs at a time however many callers are waiting.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The card this package runs on takes int8 weights and not float16 ones.",
     },
   ],

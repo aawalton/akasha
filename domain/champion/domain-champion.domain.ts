@@ -7,19 +7,19 @@ export const domainChampion = {
   definition: "one persona answering for one domain",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every domain has a champion.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "No two personas champion one domain.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A domain no persona names takes the champion of the domain above.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Any agent may change a domain without asking that domain's champion.",
     },
   ],

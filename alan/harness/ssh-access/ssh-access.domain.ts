@@ -8,11 +8,11 @@ export const sshAccess = {
   parts: ["module/ssh-reach", "module/ssh-target"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every machine reached from here is reached the one way.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here knows the purpose of any script this package has.",
     },
   ],

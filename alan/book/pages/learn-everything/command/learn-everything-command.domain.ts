@@ -8,11 +8,11 @@ export const learnEverythingCommand = {
   parts: [],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command here reads the topic pages rather than any folder of books on disk.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A topic is named by its slug rather than by a path.",
     },
   ],

@@ -8,11 +8,11 @@ export const pageCommand = {
   parts: ["module/icon-index-rendering", "module/page-secret-acting"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command here is named for the path the old ops command was reached by.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command here acts on a page's files rather than on the values a page states.",
     },
   ],

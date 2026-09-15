@@ -7,7 +7,7 @@ export const domainPurpose = {
   definition: "something a choice is made to serve",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A thing that only helps another purpose is not a purpose.",
     },
   ],

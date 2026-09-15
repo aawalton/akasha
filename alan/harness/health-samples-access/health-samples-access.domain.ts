@@ -15,16 +15,16 @@ export const healthSamplesAccess = {
   ],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches the device a reading came from.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A reading is filed under the ESO day the reading started in rather than the day the reading arrived.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading is read and written as a page akasha has.",
     },
   ],

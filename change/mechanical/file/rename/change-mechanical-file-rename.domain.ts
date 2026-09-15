@@ -12,11 +12,11 @@ export const changeMechanicalFileRename = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file's rename is that file's move.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here renames a file alone.",
     },
   ],

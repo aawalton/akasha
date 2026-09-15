@@ -70,75 +70,78 @@ export const monarch = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The categorization ring reads Monarch directly on Alan's own signed-in browser cookie.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A Monarch session cookie comes only from Alan at a signed-in browser.",
     },
 
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The cookie is only on the workstation that takes the reading.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Every site showing the reading is carried that reading rather than taking that reading.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A carry that fails to one site does not stop the carry to another site.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every tile drawing the reading shows the count Alan's workstation last took.",
     },
 
-    { invariantKind: "absence", statement: "Monarch's own rules engine is never written to." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/absence",
+      statement: "Monarch's own rules engine is never written to.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "Category rules run outside Monarch.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a single transaction update is posted back.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Category rules run without asking on that sync over a window narrower than the copy's.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Transactions are checked every minute.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only changed rows move.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only the daily full run speaks for rows older than the trusted period.",
     },
-    { invariantKind: "departure", statement: "Every monarch page is in a file." },
+    { invariantKind: "invariant-kind/departure", statement: "Every monarch page is in a file." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pages a schedule writes are in memory.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A schedule writing pages in memory is named in the instructions.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A monarch page has the fields its readers name rather than a copy of Monarch's reply.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An errors field in a two-hundred answer is a refusal.",
     },
   ],
