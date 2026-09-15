@@ -2,7 +2,7 @@ import type { FitnessCoachingNote } from "akasha/alan/value/health/fitness/coach
 
 export const gripFreeSpineLightPullAfterTheMarathon20260703 = {
   id: "01a08175-36fa-7fff-ad41-3ca09ef634be",
-  type: "fitness-coaching-note",
+  type: "page-type/fitness-coaching-note",
   slug: "grip-free-spine-light-pull-after-the-marathon-2026-07-03",
   title: "Grip-free, spine-light pull after the marathon",
   active: true,

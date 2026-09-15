@@ -2,7 +2,7 @@ import type { FitnessCoachingNote } from "akasha/alan/value/health/fitness/coach
 
 export const firstPullBackAfterTwoWeeksIll20260619 = {
   id: "01a08174-42c0-7d32-a673-59bcaae0ff60",
-  type: "fitness-coaching-note",
+  type: "page-type/fitness-coaching-note",
   slug: "first-pull-back-after-two-weeks-ill-2026-06-19",
   title: "First pull back after two weeks ill",
   active: true,

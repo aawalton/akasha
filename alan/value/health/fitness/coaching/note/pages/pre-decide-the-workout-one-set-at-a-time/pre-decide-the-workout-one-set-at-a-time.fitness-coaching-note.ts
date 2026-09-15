@@ -2,7 +2,7 @@ import type { FitnessCoachingNote } from "akasha/alan/value/health/fitness/coach
 
 export const preDecideTheWorkoutOneSetAtATime = {
   id: "019f01e1-bbac-7c7e-bec8-7ff35d23236c",
-  type: "fitness-coaching-note",
+  type: "page-type/fitness-coaching-note",
   slug: "pre-decide-the-workout-one-set-at-a-time",
   title: "Pre-decide the workout — one set at a time",
   active: true,

@@ -2,7 +2,7 @@ import type { FitnessCoachingNote } from "akasha/alan/value/health/fitness/coach
 
 export const rowRepPrAndTheBenchBracedPivot20260626 = {
   id: "01a08174-d64e-7bec-bcb3-d6aa7dd2da51",
-  type: "fitness-coaching-note",
+  type: "page-type/fitness-coaching-note",
   slug: "row-rep-pr-and-the-bench-braced-pivot-2026-06-26",
   title: "Row rep-PR and the bench-braced pivot",
   active: true,

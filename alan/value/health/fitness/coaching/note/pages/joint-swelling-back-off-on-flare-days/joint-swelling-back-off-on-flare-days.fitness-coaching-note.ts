@@ -2,7 +2,7 @@ import type { FitnessCoachingNote } from "akasha/alan/value/health/fitness/coach
 
 export const jointSwellingBackOffOnFlareDays = {
   id: "019f01e1-b952-783a-a931-b952d7a3a560",
-  type: "fitness-coaching-note",
+  type: "page-type/fitness-coaching-note",
   slug: "joint-swelling-back-off-on-flare-days",
   title: "Joint swelling — back off on flare days",
   active: true,

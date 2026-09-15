@@ -2,7 +2,7 @@ import type { FitnessCoachingNote } from "akasha/alan/value/health/fitness/coach
 
 export const ankleDorsiflexionIsTheSquatLimiter20260725 = {
   id: "01a08176-6a83-74cd-992e-94936d42aed4",
-  type: "fitness-coaching-note",
+  type: "page-type/fitness-coaching-note",
   slug: "ankle-dorsiflexion-is-the-squat-limiter-2026-07-25",
   title: "Ankle dorsiflexion is the squat limiter",
   active: true,

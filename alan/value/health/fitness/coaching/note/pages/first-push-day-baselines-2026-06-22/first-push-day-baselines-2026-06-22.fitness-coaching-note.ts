@@ -2,7 +2,7 @@ import type { FitnessCoachingNote } from "akasha/alan/value/health/fitness/coach
 
 export const firstPushDayBaselines20260622 = {
   id: "01a08175-926c-7108-a102-644367798754",
-  type: "fitness-coaching-note",
+  type: "page-type/fitness-coaching-note",
   slug: "first-push-day-baselines-2026-06-22",
   title: "First push day — baselines",
   active: true,

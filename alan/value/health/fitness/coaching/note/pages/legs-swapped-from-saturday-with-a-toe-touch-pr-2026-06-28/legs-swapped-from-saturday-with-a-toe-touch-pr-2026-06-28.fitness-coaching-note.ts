@@ -2,7 +2,7 @@ import type { FitnessCoachingNote } from "akasha/alan/value/health/fitness/coach
 
 export const legsSwappedFromSaturdayWithAToeTouchPr20260628 = {
   id: "01a08176-d420-7992-ad14-6a13a7a49eda",
-  type: "fitness-coaching-note",
+  type: "page-type/fitness-coaching-note",
   slug: "legs-swapped-from-saturday-with-a-toe-touch-pr-2026-06-28",
   title: "Legs swapped from Saturday, with a toe-touch PR",
   active: true,

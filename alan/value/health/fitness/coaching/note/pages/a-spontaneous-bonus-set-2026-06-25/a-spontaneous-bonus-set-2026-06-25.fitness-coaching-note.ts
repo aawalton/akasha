@@ -2,7 +2,7 @@ import type { FitnessCoachingNote } from "akasha/alan/value/health/fitness/coach
 
 export const aSpontaneousBonusSet20260625 = {
   id: "01a08177-6309-7b24-82bc-33a720c333c6",
-  type: "fitness-coaching-note",
+  type: "page-type/fitness-coaching-note",
   slug: "a-spontaneous-bonus-set-2026-06-25",
   title: "A spontaneous bonus set",
   active: true,

@@ -2,7 +2,7 @@ import type { FitnessCoachingNote } from "akasha/alan/value/health/fitness/coach
 
 export const horizontalPressingIsElbowSafe = {
   id: "019f01e1-b56f-78a5-af0d-71d5ce0a888f",
-  type: "fitness-coaching-note",
+  type: "page-type/fitness-coaching-note",
   slug: "horizontal-pressing-is-elbow-safe",
   title: "Horizontal pressing is elbow-safe",
   active: true,
