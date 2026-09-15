@@ -2,7 +2,7 @@ import type { TemperSpecialEffectType } from "akasha/temper/catalog/temper-effec
 
 export const createCorpse = {
   id: "019e4ccf-ce40-7027-9b20-91c52ef380a9",
-  type: "temper-special-effect-type",
+  type: "page-type/temper-special-effect-type",
   slug: "create-corpse",
   title: "Create Corpse",
   key: "create-corpse",

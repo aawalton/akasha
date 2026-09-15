@@ -2,7 +2,7 @@ import type { TemperSpecialEffectType } from "akasha/temper/catalog/temper-effec
 
 export const cleanse = {
   id: "019e4ccf-ce41-7491-b90b-7f64035bb545",
-  type: "temper-special-effect-type",
+  type: "page-type/temper-special-effect-type",
   slug: "cleanse",
   title: "Cleanse",
   key: "cleanse",
