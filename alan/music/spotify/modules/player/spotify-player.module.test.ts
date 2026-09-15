@@ -2,10 +2,7 @@ import { afterAll, afterEach, beforeEach, expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { withQuery } from "akasha/alan/music/spotify/modules/client/spotify-client.module.code.ts"
-import {
-  fetchingIs,
-  fetchingIsOverHttp,
-} from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
+import type { Fetching } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import {
   addToQueue,
   getPlaybackState,
@@ -25,14 +22,14 @@ afterAll(() => {
   rmSync(ROOT, { recursive: true, force: true })
 })
 
-function answeringWith(body: unknown): undefined {
-  fetchingIs(async (url, init) => {
+function answeringWith(body: unknown): Fetching {
+  return async (url, init) => {
     calls.push({ url, method: init.method, body: init.body })
     return new Response(JSON.stringify(body), {
       status: 200,
       headers: { "Content-Type": "application/json" },
     })
-  })
+  }
 }
 
 beforeEach(() => {
@@ -49,7 +46,6 @@ beforeEach(() => {
 })
 
 afterEach(() => {
-  fetchingIsOverHttp()
   delete process.env.SPOTIFY_TOKEN_FILE
   delete process.env.SPOTIFY_RATE_LIMIT_MS
 })
@@ -69,41 +65,41 @@ test("a query says false as text rather than dropping it", () => {
 })
 
 test("nothing playing reads as null", async () => {
-  answeringWith(null)
-  expect(await getPlaybackState()).toBe(null)
+  expect(await getPlaybackState(answeringWith(null))).toBe(null)
 })
 
 test("recently played is asked for with its limit and read as a cursor page", async () => {
-  answeringWith({ items: [], limit: 5, next: null, cursors: null })
-  const page = await getRecentlyPlayed({ limit: 5 })
+  const page = await getRecentlyPlayed(
+    { limit: 5 },
+    answeringWith({ items: [], limit: 5, next: null, cursors: null })
+  )
   expect(calls[0]?.url).toBe("https://api.spotify.com/v1/me/player/recently-played?limit=5")
   expect(page.items).toEqual([])
 })
 
 test("a pause is a PUT with no body", async () => {
-  answeringWith(null)
-  await pausePlayback()
+  await pausePlayback({}, answeringWith(null))
   expect(calls[0]?.method).toBe("PUT")
   expect(calls[0]?.body).toBe(undefined)
 })
 
 test("a resume with nothing asked of it sends no body", async () => {
-  answeringWith(null)
-  await startResumePlayback()
+  await startResumePlayback({}, answeringWith(null))
   expect(calls[0]?.url).toBe("https://api.spotify.com/v1/me/player/play")
   expect(calls[0]?.body).toBe(undefined)
 })
 
 test("a resume naming a track sends the uris it was given", async () => {
-  answeringWith(null)
-  await startResumePlayback({ uris: ["spotify:track:one"], deviceId: "a-device" })
+  await startResumePlayback(
+    { uris: ["spotify:track:one"], deviceId: "a-device" },
+    answeringWith(null)
+  )
   expect(calls[0]?.url).toBe("https://api.spotify.com/v1/me/player/play?device_id=a-device")
   expect(calls[0]?.body).toBe(JSON.stringify({ uris: ["spotify:track:one"] }))
 })
 
 test("a queue add is a POST naming the uri", async () => {
-  answeringWith(null)
-  await addToQueue("spotify:track:one")
+  await addToQueue("spotify:track:one", {}, answeringWith(null))
   expect(calls[0]?.method).toBe("POST")
   expect(calls[0]?.url).toBe("https://api.spotify.com/v1/me/player/queue?uri=spotify%3Atrack%3Aone")
 })

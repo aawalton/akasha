@@ -9,10 +9,7 @@ import {
   readCodeFlag,
   runAuthCli,
 } from "akasha/alan/music/spotify/modules/auth-cli/spotify-auth-cli.module.code.ts"
-import {
-  fetchingIs,
-  fetchingIsOverHttp,
-} from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
+import type { Fetching } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import {
   readPkce,
   writePkce,
@@ -38,7 +35,6 @@ beforeEach(() => {
 })
 
 afterEach(() => {
-  fetchingIsOverHttp()
   delete process.env.SPOTIFY_PKCE_FILE
   delete process.env.SPOTIFY_TOKEN_FILE
   delete process.env.SPOTIFY_CLIENT_ID
@@ -89,7 +85,7 @@ test("the second step run with no first step throws", async () => {
 test("the second step saves the token and takes the handoff away", async () => {
   writePkce({ verifier: "a-verifier" })
   let sent: unknown
-  fetchingIs(async (_url, init) => {
+  const answering: Fetching = async (_url, init) => {
     sent = init.body
     return new Response(
       JSON.stringify({
@@ -101,8 +97,8 @@ test("the second step saves the token and takes the handoff away", async () => {
       }),
       { status: 200, headers: { "Content-Type": "application/json" } }
     )
-  })
-  await runAuthCli(["exchange", "--code", "a-code"])
+  }
+  await runAuthCli(["exchange", "--code", "a-code"], answering)
   expect(String(sent)).toContain("code_verifier=a-verifier")
   expect(String(sent)).toContain("grant_type=authorization_code")
   expect(readToken()?.refreshToken).toBe("a-new-refresh-token")
