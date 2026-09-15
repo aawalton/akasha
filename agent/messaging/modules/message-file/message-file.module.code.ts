@@ -24,16 +24,18 @@ import {
   pagesAtFor,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
-const PAGE_TYPE = "message"
+const MESSAGE = "message"
+
+const PAGE_TYPE = "page-type"
 
 const SEAT = "seat"
 
 const WRITER = "message-file-writer"
 
-const PAGE_EXT = `.${PAGE_TYPE}.ts`
+const PAGE_EXT = `.${MESSAGE}.ts`
 
 function pagesAt(): string {
-  return pagesAtFor(akashaRoot(), PAGE_TYPE)
+  return pagesAtFor(akashaRoot(), MESSAGE)
 }
 
 const CLAIMED_AT_KEY = "claimedAt"
@@ -77,7 +79,7 @@ export function messageDirRelPath(_to: string): string {
 }
 
 function messageRelPath(to: string, id: string): string {
-  const stem = id.startsWith(`${PAGE_TYPE}-`) ? id : messageNamed(id)
+  const stem = id.startsWith(`${MESSAGE}-`) ? id : messageNamed(id)
   const found = messagesTo(to).find((one) => one.id === stem)
   return found?.relPath ?? `${pagesAt()}/${stem}${PAGE_EXT}`
 }
@@ -112,11 +114,11 @@ export async function writeMessage(stated: {
   const root = akashaRoot()
   const body = stated.body.endsWith("\n") ? stated.body : `${stated.body}\n`
   const composed = composedFor(root, {
-    pageTypeSlug: PAGE_TYPE,
+    pageTypeSlug: MESSAGE,
     slug,
     values: {
       id,
-      type: PAGE_TYPE,
+      type: namedAs(PAGE_TYPE, MESSAGE, null),
       slug,
       to: namedAs(SEAT, stated.to, null),
       from: stated.from,
@@ -151,9 +153,9 @@ function msOf(said: unknown): number | null {
 
 function pageMessages(): readonly Message[] {
   const root = akashaRoot()
-  const under = `${pagesAtFor(root, PAGE_TYPE)}/`
+  const under = `${pagesAtFor(root, MESSAGE)}/`
   const held: Message[] = []
-  for (const one of valuesOfType(root, PAGE_TYPE)) {
+  for (const one of valuesOfType(root, MESSAGE)) {
     if (!one.path.startsWith(under)) continue
     const slug = textAt(one.value, "slug")
     if (slug === null) continue
