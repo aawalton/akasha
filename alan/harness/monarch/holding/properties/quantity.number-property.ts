@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const quantity = {
   id: "01a0680a-1a00-7013-b452-9d3f7a8c1113",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "quantity",
   propertySlug: "quantity",
   definition: "how many shares of a security an account holds",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const weightFunctionality = {
   id: "01a06865-7f45-7940-abd7-09b6c5b199ce",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "weight-functionality",
   propertySlug: "weight-functionality",
   definition: "how much moving well counts when a movement is weighed",

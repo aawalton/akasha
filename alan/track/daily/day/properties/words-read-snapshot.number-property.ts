@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const wordsReadSnapshot = {
   id: "01a05fd8-c30f-743a-bfc7-4753f6dd4880",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "words-read-snapshot",
   propertySlug: "words-read-snapshot",
   definition: "the lifetime words Alan had read as counted on a day",

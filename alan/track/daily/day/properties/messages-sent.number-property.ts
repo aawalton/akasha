@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const messagesSent = {
   id: "01a082db-9816-7ab2-b6ed-8a897a78de90",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "messages-sent",
   propertySlug: "sent",
   definition: "how many messages Alan wrote to one persona on one day",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const odometerM = {
   id: "01a06935-68b4-7ba8-ae6b-0d71860e38e9",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "odometer-m",
   propertySlug: "odometer-m",
   definition: "how far the device has travelled since it started counting, in metres",

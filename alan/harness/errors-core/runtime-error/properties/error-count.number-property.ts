@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const errorCount = {
   id: "01a05f3f-e3e0-79b8-92d7-8141ecd449e9",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "error-count",
   propertySlug: "count",
   definition: "how many times one error has been met",

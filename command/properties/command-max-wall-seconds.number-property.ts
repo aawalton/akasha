@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const commandMaxWallSeconds = {
   id: "01a0820f-feb2-79e4-8435-06a161f3c6ab",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "command-max-wall-seconds",
   propertySlug: "max-wall-seconds",
   definition: "how many seconds a command may run before the call is stopped",

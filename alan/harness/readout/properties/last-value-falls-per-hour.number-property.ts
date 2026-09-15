@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const lastValueFallsPerHour = {
   id: "01a08c30-b692-794d-b7fa-9af2debfa29c",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "last-value-falls-per-hour",
   propertySlug: "last-value-falls-per-hour",
   definition: "how much the reading last taken loses for each hour of clock",

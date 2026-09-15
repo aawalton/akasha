@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const partsLengthInWords = {
   id: "01a06959-98a7-7ab5-991b-44150f978745",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "parts-length-in-words",
   propertySlug: "parts-length-in-words",
   definition: "how much there is to work through in the collections this one holds, in words",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const intelligenceTopics = {
   id: "01a07888-4add-7d40-bd0c-b16400fe380b",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "intelligence-topics",
   propertySlug: "intelligence-topics",
   definition: "the learn-everything topics a day's commits added or changed",

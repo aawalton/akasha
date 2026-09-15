@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const masteryRank = {
   id: "01a0784a-cdba-7793-b19f-df140bde480c",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "mastery-rank",
   propertySlug: "rank",
   definition: "where a rung sits on the scale, nought to seven",

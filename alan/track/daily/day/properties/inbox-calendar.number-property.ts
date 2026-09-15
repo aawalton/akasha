@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const inboxCalendar = {
   id: "01a05fd8-c30f-7a59-9f28-a980a25644ee",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "inbox-calendar",
   propertySlug: "inbox-calendar",
   definition: "the invitations left unanswered at the end of a day",

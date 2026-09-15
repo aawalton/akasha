@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const amount = {
   id: "01a0680b-2b00-7003-9d28-7b5e1f4c2104",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "amount",
   propertySlug: "amount",
   definition: "how much money moved, in dollars",

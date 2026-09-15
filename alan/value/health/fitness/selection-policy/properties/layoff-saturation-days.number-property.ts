@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const layoffSaturationDays = {
   id: "01a06865-7f46-720e-adae-0de43a7b2070",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "layoff-saturation-days",
   propertySlug: "layoff-saturation-days",
   definition: "how many days off a movement takes before the cut stops growing",

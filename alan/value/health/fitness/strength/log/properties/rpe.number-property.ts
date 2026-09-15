@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const rpe = {
   id: "01a06580-66fd-729a-b332-da7dc2877c22",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "rpe",
   propertySlug: "rpe",
   definition: "how hard the set felt, on the ten-point scale of perceived exertion",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const loadFactor = {
   id: "01a0657e-2bbf-7aaa-8416-91fe9f47a3a9",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "load-factor",
   propertySlug: "load-factor",
   definition: "what share of bodyweight the movement carries, for counting volume",

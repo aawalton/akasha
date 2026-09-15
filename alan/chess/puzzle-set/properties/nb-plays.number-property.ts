@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const nbPlays = {
   id: "01a06582-bd62-7b65-b938-0e6e042909e7",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "nb-plays",
   propertySlug: "nb-plays",
   definition: "how many times a puzzle was played",

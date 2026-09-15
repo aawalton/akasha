@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const connectionActivityAttractiveness = {
   id: "01a0658e-c30d-740b-83cb-22cbfd1294eb",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "connection-activity-attractiveness",
   propertySlug: "connection-activity-attractiveness",
   definition: "how attractive he finds them",

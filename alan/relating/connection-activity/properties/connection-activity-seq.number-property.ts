@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const connectionActivitySeq = {
   id: "01a0658e-c30e-7dff-a22d-3fe7c89f2028",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "connection-activity-seq",
   propertySlug: "connection-activity-seq",
   definition: "where this activity is in the order they are listed",

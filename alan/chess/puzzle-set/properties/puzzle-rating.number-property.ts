@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const puzzleRating = {
   id: "01a06582-bd62-759e-9bb3-b90ae3c064a4",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "puzzle-rating",
   propertySlug: "rating",
   definition: "how hard a puzzle is",

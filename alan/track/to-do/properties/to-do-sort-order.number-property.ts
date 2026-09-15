@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const toDoSortOrder = {
   id: "01a065a1-49b7-786c-882a-8a97ac2930ad",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "to-do-sort-order",
   propertySlug: "to-do-sort-order",
   definition: "where a to-do sits among the others Alan is shown",

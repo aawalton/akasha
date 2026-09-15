@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const containerPort = {
   id: "01a05b26-f8b6-79b3-99f7-89dda59659cc",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "container-port",
   propertySlug: "container-port",
   definition: "the port a workload's container listens on",

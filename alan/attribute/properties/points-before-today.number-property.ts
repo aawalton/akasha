@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const pointsBeforeToday = {
   id: "01a08205-3006-72d5-930b-892c6e875b17",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "points-before-today",
   propertySlug: "points-before-today",
   definition: "the points earned over the days before today",

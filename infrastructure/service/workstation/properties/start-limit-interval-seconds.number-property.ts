@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const startLimitIntervalSeconds = {
   id: "01a06738-9f12-7438-a51b-8c1408e6e9b7",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "start-limit-interval-seconds",
   propertySlug: "start-limit-interval-seconds",
   definition: "the window a unit's repeated starts are counted over",

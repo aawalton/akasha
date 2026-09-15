@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const changeMaxCpuSeconds = {
   id: "01a0914e-bc25-767c-b5aa-e07718e377e5",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "change-max-cpu-seconds",
   propertySlug: "max-cpu-seconds",
   definition: "the most processor time one run of a change may spend, in seconds",

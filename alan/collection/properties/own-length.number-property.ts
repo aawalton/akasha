@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const ownLength = {
   id: "01a06553-4713-7000-832b-753158e3fec9",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "own-length",
   propertySlug: "own-length",
   definition: "how long a collection is, counted in its own unit",

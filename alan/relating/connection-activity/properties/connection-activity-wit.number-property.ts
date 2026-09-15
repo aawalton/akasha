@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const connectionActivityWit = {
   id: "01a0658e-c30e-766e-baf9-28c05102103f",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "connection-activity-wit",
   propertySlug: "connection-activity-wit",
   definition: "how quick they are",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const gbwwPlanYear = {
   id: "01a0659f-93da-7015-a84a-cfc2a413af20",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "gbww-plan-year",
   propertySlug: "plan-year",
   definition: "which of the plan's ten years a reading falls in",

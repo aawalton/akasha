@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const fiveHourPercentUsed = {
   id: "01a054d8-1d39-7bc9-bb38-636d44d7d1fb",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "five-hour-percent-used",
   propertySlug: "five-hour-percent-used",
   definition: "how much of the five-hour allowance is spent",

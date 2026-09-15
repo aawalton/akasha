@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const jitterSeconds = {
   id: "01a05a3f-b42f-70bd-b842-502dd6568a36",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "jitter-seconds",
   propertySlug: "jitter-seconds",
   definition: "how far past its time a timer may start",

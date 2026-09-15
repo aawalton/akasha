@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const setNumber = {
   id: "01a06580-66fd-7ae8-ac42-5007edf1d65b",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "set-number",
   propertySlug: "set-number",
   definition: "where the set fell among the sets of that movement that session",

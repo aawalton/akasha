@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const nutritionPoints = {
   id: "01a05fd8-c30f-7e34-b29c-9dbbb55a41fb",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "nutrition-points",
   propertySlug: "nutrition-points",
   definition: "the grams of whole plants Alan ate on a day",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const autoCompactWindow = {
   id: "01a0687a-3d99-7951-ba5c-41a586269d17",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "auto-compact-window",
   propertySlug: "auto-compact-window",
   definition: "the token count a seat's agent is compacted at",

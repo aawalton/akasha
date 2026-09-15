@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const hdd = {
   id: "01a0658c-329a-733b-bf0c-593a5b368831",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "hdd",
   propertySlug: "hdd",
   definition: "how many gigabytes of spinning disk it holds",

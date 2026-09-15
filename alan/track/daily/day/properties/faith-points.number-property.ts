@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const faithPoints = {
   id: "01a05fd8-c30f-7380-851e-3a3d692c182a",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "faith-points",
   propertySlug: "faith-points",
   definition: "the faith earned on a day",

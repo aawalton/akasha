@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const counterpartWithinDays = {
   id: "01a0680c-3c00-7004-9a36-5b8e2c7f3105",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "counterpart-within-days",
   propertySlug: "counterpart-within-days",
   definition: "how far either way a rule looks for the transaction's other leg",

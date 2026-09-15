@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const position = {
   id: "01a063de-2c60-700c-a15e-6fcb567118c1",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "position",
   propertySlug: "position",
   definition: "where a collection sits among the collections it is part of",

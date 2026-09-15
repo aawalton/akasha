@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const headingDeg = {
   id: "01a06935-68b4-7370-a96d-a05e0ee03b6d",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "heading-deg",
   propertySlug: "heading-deg",
   definition: "which way the device was moving, in degrees clockwise from north",

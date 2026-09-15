@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const seatIndex = {
   id: "01a06596-f0d5-7004-99d9-c7462575a139",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "seat-index",
   propertySlug: "seat-index",
   definition: "where a card sits among the cards a player has out",

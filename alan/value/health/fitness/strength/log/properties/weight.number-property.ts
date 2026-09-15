@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const weight = {
   id: "01a06580-66fd-73f6-b99d-b9315e7fbacd",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "weight",
   propertySlug: "weight",
   definition: "the load on one implement, in pounds",

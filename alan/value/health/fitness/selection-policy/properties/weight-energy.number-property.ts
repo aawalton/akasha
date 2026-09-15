@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const weightEnergy = {
   id: "01a06865-7f45-78ee-92be-b410fe8643ee",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "weight-energy",
   propertySlug: "weight-energy",
   definition: "how much having energy on the day counts when a movement is weighed",

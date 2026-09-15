@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const pointsTotal = {
   id: "01a081cb-66ae-7cee-8e11-431ab034165b",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "points-total",
   propertySlug: "points-total",
   definition: "the points earned since the day counting began",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const cooldownSeconds = {
   id: "01a09575-b92e-7662-9a1d-d8f33a5aa003",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "cooldown-seconds",
   propertySlug: "cooldown-seconds",
   definition: "how long a service waits after a deploy before that service is deployed again",

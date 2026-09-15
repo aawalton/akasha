@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const zone2WeeklyFloor = {
   id: "01a06865-7f46-7263-a6cd-bc4224f0e6ba",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "zone2-weekly-floor",
   propertySlug: "zone2-weekly-floor",
   definition: "how many minutes a week of easy aerobic work Alan is to reach",

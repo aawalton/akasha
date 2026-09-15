@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const capacityRate = {
   id: "01a05fd8-c30f-7486-b22b-7e17134582db",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "capacity-rate",
   propertySlug: "capacity-rate",
   definition: "how much capacity for stress an hour of a stretch gave back or took",

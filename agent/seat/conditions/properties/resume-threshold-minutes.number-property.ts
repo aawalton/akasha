@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const resumeThresholdMinutes = {
   id: "01a0687a-3d9d-7635-aea8-41e35f78143b",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "resume-threshold-minutes",
   propertySlug: "resume-threshold-minutes",
   definition: "how long a seat's session sits idle before starting it offers the resume menu",

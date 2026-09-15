@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const fitnessEquipmentLoads = {
   id: "01a06865-7f45-7d1f-b0db-1e4af78cdf9c",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "fitness-equipment-loads",
   propertySlug: "loads",
   definition: "the weights a piece of kit is available at, in pounds",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const ratingDeviation = {
   id: "01a06582-bd62-7b1e-a035-ca03e3efa174",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "rating-deviation",
   propertySlug: "rating-deviation",
   definition: "how uncertain a puzzle's rating is",

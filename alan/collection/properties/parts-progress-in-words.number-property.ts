@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const partsProgressInWords = {
   id: "01a06959-98a7-7e83-8ec2-6370d810f6b3",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "parts-progress-in-words",
   propertySlug: "parts-progress-in-words",
   definition: "how far through the collections this one has the reading has come, in words",

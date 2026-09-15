@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const proxyPort = {
   id: "01a0540c-dbc1-7e12-97c6-dfe28195841a",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "proxy-port",
   propertySlug: "port",
   definition: "the port a seat reaches its model through",

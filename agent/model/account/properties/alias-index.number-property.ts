@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const aliasIndex = {
   id: "01a054d8-1d39-7b15-a48d-62c2122c274b",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "alias-index",
   propertySlug: "alias-index",
   definition: "the number in the shell alias that opens Claude on this account",

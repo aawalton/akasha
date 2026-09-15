@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const sourceVersion = {
   id: "01a08234-f12b-7ac2-bfbb-0dd5515b7b36",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "source-version",
   propertySlug: "source-version",
   definition: "the version the source was at when a generated declaration was written",

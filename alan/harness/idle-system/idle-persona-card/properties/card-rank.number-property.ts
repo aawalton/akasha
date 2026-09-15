@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const cardRank = {
   id: "01a06596-f0d5-7002-bf2f-b274f9c2f5fe",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "card-rank",
   propertySlug: "rank",
   definition: "how far a card has been ranked up",

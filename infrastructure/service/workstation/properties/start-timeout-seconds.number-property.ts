@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const startTimeoutSeconds = {
   id: "01a05a3f-b42f-74b6-a5ad-699b142a7d0b",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "start-timeout-seconds",
   propertySlug: "start-timeout-seconds",
   definition: "how long a unit is given to finish starting",

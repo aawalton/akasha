@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const weightLongevity = {
   id: "01a06865-7f45-768d-8a08-b541b40a4e9f",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "weight-longevity",
   propertySlug: "weight-longevity",
   definition: "how much staying healthy for decades counts when a movement is weighed",

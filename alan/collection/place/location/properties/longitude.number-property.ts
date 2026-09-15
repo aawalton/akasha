@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const longitude = {
   id: "01a06583-acfb-7221-95f0-7d75e93fc099",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "longitude",
   propertySlug: "longitude",
   definition: "how far east of the prime meridian the place is, in degrees",

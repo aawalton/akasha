@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const groupMaxCpuSeconds = {
   id: "01a08bb3-5e69-75cb-8d94-70b459a24ce7",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "group-max-cpu-seconds",
   propertySlug: "max-cpu-seconds",
   definition: "the most processor time one run of a group's code may spend, in seconds",

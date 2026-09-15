@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const resumeTokenThreshold = {
   id: "01a0687a-3d9d-7913-bd68-1b64d021e9be",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "resume-token-threshold",
   propertySlug: "resume-token-threshold",
   definition: "how many tokens a seat's session has before starting it offers the resume menu",

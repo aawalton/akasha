@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const toolTimeout = {
   id: "01a0687a-3d9d-7cc0-8dbb-09100312e372",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "tool-timeout",
   propertySlug: "tool-timeout",
   definition: "how long a seat waits on a tool over the model context protocol before giving up",

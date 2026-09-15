@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const worksWithinSeconds = {
   id: "01a08caf-5c90-7f52-b4dc-e6e010e9aa46",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "works-within-seconds",
   propertySlug: "works-within-seconds",
   definition: "how long a service may go without a round of its work landing",

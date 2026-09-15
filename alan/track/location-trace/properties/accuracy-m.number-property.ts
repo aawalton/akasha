@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const accuracyM = {
   id: "01a06935-68b2-7b97-8c49-7df243d3b26a",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "accuracy-m",
   propertySlug: "accuracy-m",
   definition: "how far from the stated position the device thinks the truth could be, in metres",

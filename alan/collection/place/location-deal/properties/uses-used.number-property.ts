@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const usesUsed = {
   id: "01a06585-5fc5-7c3b-a2b4-918e5ffce194",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "uses-used",
   propertySlug: "uses-used",
   definition: "how many times the offer has been claimed",

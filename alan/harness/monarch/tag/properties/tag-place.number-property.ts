@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const tagPlace = {
   id: "01a0680a-1a00-700e-b6a2-3c8f1e7d110e",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "tag-place",
   propertySlug: "tag-place",
   definition: "where a tag sits in the order Monarch offers its tags",

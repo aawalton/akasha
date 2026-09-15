@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const inboxTexts = {
   id: "01a05fd8-c30f-7f9d-9c0a-a76cb2d43438",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "inbox-texts",
   propertySlug: "inbox-texts",
   definition: "the texts left unanswered at the end of a day",

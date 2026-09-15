@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const updatedCount = {
   id: "01a06861-f664-74ae-b1d1-834004ff407e",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "updated-count",
   propertySlug: "updated-count",
   definition: "how many pages a pull rewrote",
