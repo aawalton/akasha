@@ -24,15 +24,11 @@ import { shapesAt } from "akasha/page/index/modules/property-shaping/property-sh
 import { knownIn, type Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import {
   everyOfType,
-  idsNaming,
-  importersOf,
   type Listed,
   listedAt,
   listedById,
   listedNamed,
   listedWithin,
-  type Named,
-  namersOf,
   slugsOfType,
   typeSlugById,
   typeSlugOf,
@@ -43,6 +39,12 @@ import type {
   Reading,
 } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { ruleTrusted, type Said, saidOf } from "akasha/page/index/rule/index-rule.index.code.ts"
+import {
+  idsNaming,
+  importersOf,
+  type Named,
+  namersOf,
+} from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   type Carried,
@@ -131,7 +133,7 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     filePropertiesAt: heldOnce(() => filePropertiesAt(reading)),
     folderPropertiesAt: heldOnce(() => folderPropertiesAt(reading)),
     idsNaming: (id, propertySlug) => idsNaming(reading, id, propertySlug),
-    importersOf: (path) => importersOf(path, reading),
+    importersOf: (path) => importersOf(reading, path),
     kindsUnder: (slug) => kindsUnder(slug, reading),
     knownIn: heldOnce(() => knownIn(reading, pageOf)),
     listedAt: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
@@ -142,7 +144,7 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
       listedWithin(reading, pageTypeSlug, scopePropertySlug, scopeValue, propertySlug, said),
     manifestsBeside: (fileProperties) => manifestsBeside(reading, fileProperties),
     membersIfNamed: (pageTypeSlug) => membersIfNamedOf(pageTypeSlug, reading, pageOf),
-    namersOf: (id, indexName) => namersOf(reading, id, indexName),
+    namersOf: (id) => namersOf(reading, id),
     pageAt: (pageTypeSlug, slug) => pageAt(reading, pageTypeSlug, slug, pageOf),
     pageByPath: (path) => pageOf(path),
     pageTypesIn: heldOnce(() => pageTypesIn(reading)),

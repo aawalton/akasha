@@ -16,14 +16,27 @@ import {
 import { shapeAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.test-fixtures.ts"
 import { refreshedFrom } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
-import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  listedById,
+  readingIn,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading, Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   beneath,
   indexIn,
   overlaidOn,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import {
+  bodyOf,
+  fileNameOf,
+  IMPORT,
+  ownerOf,
+  type Reference,
+  referencesAt,
+  referencesEach,
+} from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 
 const ENDING = ".jsonl"
 
@@ -230,6 +243,30 @@ export function shapeAdded(
   }
 }
 
+function besideAdded(root: string, page: string, references: readonly Reference[]): undefined {
+  if (references.length === 0) return
+  const at = referencesAt(page)
+  if (at === null) return
+  const beside = join(root, at)
+  mkdirSync(dirname(beside), { recursive: true })
+  const was = textThere(beside)
+  const held = was === null ? [] : referencesEach(was.split("\n").filter((one) => one !== ""))
+  writeFileSync(beside, bodyOf([...held, ...references]))
+}
+
+function pathedIn(
+  lines: readonly unknown[]
+): readonly { readonly path: string; readonly id: string | null }[] {
+  const found: { readonly path: string; readonly id: string | null }[] = []
+  for (const one of lines) {
+    if (one === null || typeof one !== "object") continue
+    const said = one as { readonly path?: unknown; readonly id?: unknown }
+    if (typeof said.path !== "string") continue
+    found.push({ path: said.path, id: typeof said.id === "string" ? said.id : null })
+  }
+  return found
+}
+
 export function relationFiled(
   root: string,
   id: string,
@@ -238,10 +275,29 @@ export function relationFiled(
   lines: readonly unknown[]
 ): undefined {
   filing(root, join(indexEdge.name, PAGE, ID, id, propertySlug, from), lines)
+  const named = listedById(readingIn(root), id)
+  if (named === null) return
+  besideAdded(
+    root,
+    named.path,
+    pathedIn(lines).map((one) => ({ propertySlug, fileName: null, path: one.path, id: one.id }))
+  )
 }
 
 export function importFiled(root: string, path: string, lines: readonly unknown[]): undefined {
   filing(root, join(indexImport.name, AT_PATH, path), lines)
+  const owner = ownerOf(path)
+  if (owner === null) return
+  besideAdded(
+    root,
+    owner,
+    pathedIn(lines).map((one) => ({
+      propertySlug: IMPORT,
+      fileName: fileNameOf(path),
+      path: one.path,
+      id: null,
+    }))
+  )
 }
 
 export function importUnreadableFiled(root: string, path: string): undefined {
