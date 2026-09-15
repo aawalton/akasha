@@ -14,9 +14,9 @@ export const astraCustomPageParser = {
     },
     {
       statement:
-        "A performance page says the custom parser reads a page body ten times faster than the loader.",
+        "A performance page says what reading a page body costs under each of the two readers.",
       workingMemory:
-        "Nothing measures the loader on its own. One reading of 69,773 pages through `valueAt` took 3,298ms, near 47 microseconds a page, measured by a subagent rather than by me. What a performance page would rest on already runs: `check/modules/cost/check-cost.module.code.ts`, wired into every command at `command/modules/calling/calling.module.code.ts:394`. Ten is a target Alan can move.",
+        "Nothing measures the loader on its own. One reading of 69,773 pages through `valueAt` took 3,298ms, near 47 microseconds a page, measured by a subagent rather than by me. What a performance page would rest on already runs: `check/modules/cost/check-cost.module.code.ts`, wired into every command at `command/modules/calling/calling.module.code.ts:394`. Alan set no figure to reach: the parser is made as fast as it can be made.",
     },
     {
       statement:
