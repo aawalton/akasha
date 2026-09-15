@@ -1,4 +1,4 @@
-import type { JewelryTypeId } from "akasha/temper/catalog/temper-gear/properties/jewelry-type-id.text-property.types.ts"
+import type { JewelryTypeId } from "akasha/temper/catalog/temper-gear/temper-jewelry-slot/properties/jewelry-type-id.text-property.types.ts"
 import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-catalog-thing.page-type.types.ts"
 import type { DisplayOrder } from "akasha/temper/thing/properties/display-order.number-property.types.ts"
 import type { Icon } from "akasha/temper/thing/properties/icon.text-property.types.ts"

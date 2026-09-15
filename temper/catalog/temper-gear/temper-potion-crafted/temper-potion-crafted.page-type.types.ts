@@ -1,5 +1,5 @@
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
-import type { Recipes } from "akasha/temper/catalog/temper-gear/properties/recipes.record-property.types.ts"
+import type { Recipes } from "akasha/temper/catalog/temper-gear/temper-potion-crafted/properties/recipes.record-property.types.ts"
 import type { ItemLevel } from "akasha/temper/catalog/temper-gear/thing/properties/item-level.text-property.types.ts"
 import type { PotionSeconds } from "akasha/temper/catalog/temper-gear/thing/properties/potion-seconds.number-property.types.ts"
 import type { TemperGearThing } from "akasha/temper/catalog/temper-gear/thing/temper-gear-thing.page-type.types.ts"
