@@ -1,2 +1,2 @@
 {"propertySlug":"parts","path":"infrastructure/inference/pool/inference-pool.domain.ts","id":"01a06815-9efd-7015-b82a-e620372e1e32"}
-{"propertySlug":"provision","path":"infrastructure/service/inference/pages/ollama.service-inference.ts","id":"01a090a2-cd03-701a-8161-c9b80aff3edc"}
+{"propertySlug":"provision","path":"infrastructure/inference/pool/service-inferences/ollama.service-inference.ts","id":"01a090a2-cd03-701a-8161-c9b80aff3edc"}
