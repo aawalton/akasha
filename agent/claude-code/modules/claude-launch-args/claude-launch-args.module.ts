@@ -8,20 +8,20 @@ export const claudeLaunchArgs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A child is named on its command line for the seat it answers in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The name a child is started under is the live name and the durable title both.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A child whose remote control is on names its remote control session for the seat.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A remote control session left unnamed is named for the machine and two words.",
     },
   ],
