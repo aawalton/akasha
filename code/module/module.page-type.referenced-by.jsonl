@@ -739,7 +739,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-security-header/modules/security-headers/security-headers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-static-asset/modules/build-directory/build-directory.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-static-asset/modules/serve-static/serve-static.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/workspace-paths/modules/stale-folders/stale-folders.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/workspace-path/modules/stale-folders/stale-folders.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/library/reading/modules/chapter-choosing/chapter-choosing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/library/reading/modules/offline-reading/offline-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/library/reading/modules/resume-chapter/resume-chapter.module.ts"}
