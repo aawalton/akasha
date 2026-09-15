@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const sheWhoSummonsVictory = {
   id: "01a0657e-0254-7105-9410-0998265ee0ae",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "she-who-summons-victory",
   title: "She Who Summons Victory",
   world: "world/the-wandering-inn",

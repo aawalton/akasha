@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const sensorLookout = {
   id: "01a06586-0a2f-78d9-abc1-4fabd1e39d68",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "sensor-lookout",
   title: "Sensor Lookout",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const skyStrikeleader = {
   id: "01a0657e-0256-7462-a119-f2330b5e67b6",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "sky-strikeleader",
   title: "Sky Strikeleader",
   world: "world/the-wandering-inn",

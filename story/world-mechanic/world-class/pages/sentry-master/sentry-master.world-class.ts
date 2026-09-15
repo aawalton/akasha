@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const sentryMaster = {
   id: "01a06586-0a2f-708f-9962-fd38bb5b2b07",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "sentry-master",
   title: "Sentry Master",
   world: "world/the-wandering-inn",

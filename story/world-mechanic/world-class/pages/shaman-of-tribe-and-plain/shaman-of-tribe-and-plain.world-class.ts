@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const shamanOfTribeAndPlain = {
   id: "01a0657e-024d-7576-a21d-aefa7242aa66",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "shaman-of-tribe-and-plain",
   title: "Shaman of Tribe and Plain",
   world: "world/the-wandering-inn",

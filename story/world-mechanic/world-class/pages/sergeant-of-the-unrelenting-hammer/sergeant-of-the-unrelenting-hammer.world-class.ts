@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const sergeantOfTheUnrelentingHammer = {
   id: "01a06586-0a2f-753a-8a25-09db8ddf1108",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "sergeant-of-the-unrelenting-hammer",
   title: "Sergeant of the Unrelenting Hammer",
   world: "world/the-wandering-inn",
