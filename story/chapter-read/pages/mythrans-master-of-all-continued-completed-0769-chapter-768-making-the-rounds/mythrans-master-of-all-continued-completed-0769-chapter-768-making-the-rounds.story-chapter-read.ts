@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0769Chapter768MakingTheRounds = {
   id: "01a0672c-ed95-7000-bf14-f55dcd8dae06",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0769-chapter-768-making-the-rounds",
   title: "Chapter 768 - Making The Rounds",
   story: "story-read/mythrans-master-of-all-continued-completed",

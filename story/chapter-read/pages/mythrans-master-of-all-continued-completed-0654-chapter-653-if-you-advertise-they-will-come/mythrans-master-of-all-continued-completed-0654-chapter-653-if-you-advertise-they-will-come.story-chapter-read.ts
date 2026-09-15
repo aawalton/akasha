@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0654Chapter653IfYouAdvertiseTheyWillCome = {
   id: "01a0672c-ed40-7000-96bb-0f61d33c7d7a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0654-chapter-653-if-you-advertise-they-will-come",
   title: "Chapter 653 - If You Advertise, They Will Come",
   story: "story-read/mythrans-master-of-all-continued-completed",

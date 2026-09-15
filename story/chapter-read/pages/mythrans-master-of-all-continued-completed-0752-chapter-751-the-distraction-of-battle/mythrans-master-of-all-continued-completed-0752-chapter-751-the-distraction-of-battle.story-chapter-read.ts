@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0752Chapter751TheDistractionOfBattle = {
   id: "01a0672c-ed88-7000-879d-8d2e54ad0de0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0752-chapter-751-the-distraction-of-battle",
   title: "Chapter 751 - The Distraction Of Battle",
   story: "story-read/mythrans-master-of-all-continued-completed",

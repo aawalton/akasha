@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0770Chapter769MovingHome = {
   id: "01a0672c-ed96-7000-9628-189b6834d957",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0770-chapter-769-moving-home",
   title: "Chapter 769 - Moving Home",
   story: "story-read/mythrans-master-of-all-continued-completed",

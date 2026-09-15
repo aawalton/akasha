@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0668Chapter667HellHathNoFuryLikeAWomanScorned = {
   id: "01a0672c-ed4b-7000-b757-c9cac8345df8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0668-chapter-667-hell-hath-no-fury-like-a-woman-scorned",
   title: "Chapter 667 - Hell Hath No Fury Like A Woman Scorned",
   story: "story-read/mythrans-master-of-all-continued-completed",

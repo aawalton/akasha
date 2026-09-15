@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0661Chapter660PlaytimeIsOver = {
   id: "01a0672c-ed46-7001-91b1-79301ccc7d2f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0661-chapter-660-playtime-is-over",
   title: "Chapter 660 - Playtime Is Over",
   story: "story-read/mythrans-master-of-all-continued-completed",

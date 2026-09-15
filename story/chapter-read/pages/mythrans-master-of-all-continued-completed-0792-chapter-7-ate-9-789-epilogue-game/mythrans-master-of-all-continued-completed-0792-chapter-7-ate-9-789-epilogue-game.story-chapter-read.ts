@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0792Chapter7Ate9789EpilogueGame = {
   id: "01a0672c-edab-7000-a772-44839cd2237e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0792-chapter-7-ate-9-789-epilogue-game",
   title: "Chapter 7 Ate 9 (789) - Epilogue (Game)",
   story: "story-read/mythrans-master-of-all-continued-completed",

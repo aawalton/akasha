@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0760Chapter759BarbiAndBanter = {
   id: "01a0672c-ed8e-7000-91ca-f51ca13ec559",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0760-chapter-759-barbi-and-banter",
   title: "Chapter 759 - Barbi And Banter",
   story: "story-read/mythrans-master-of-all-continued-completed",

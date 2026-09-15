@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0686Chapter685TimeWaitsForNoOne = {
   id: "01a0672c-ed59-7000-8e64-a98aa603caaa",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0686-chapter-685-time-waits-for-no-one",
   title: "Chapter 685 - Time Waits For No One",
   story: "story-read/mythrans-master-of-all-continued-completed",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0791Chapter788ADelegateBalance = {
   id: "01a0672c-edaa-7000-b770-947261298cc8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0791-chapter-788-a-delegate-balance",
   title: "Chapter 788 - A Delegate Balance",
   story: "story-read/mythrans-master-of-all-continued-completed",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0757Chapter756PublicRelations = {
   id: "01a0672c-ed8b-7001-a5d4-2b366c2f7c66",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0757-chapter-756-public-relations",
   title: "Chapter 756 - Public Relations",
   story: "story-read/mythrans-master-of-all-continued-completed",

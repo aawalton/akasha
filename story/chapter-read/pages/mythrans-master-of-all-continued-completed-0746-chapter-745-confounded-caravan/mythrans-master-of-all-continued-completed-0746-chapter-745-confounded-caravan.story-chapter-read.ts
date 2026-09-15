@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0746Chapter745ConfoundedCaravan = {
   id: "01a0672c-ed84-7001-acf7-b9601cc50461",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0746-chapter-745-confounded-caravan",
   title: "Chapter 745 - Confounded Caravan",
   story: "story-read/mythrans-master-of-all-continued-completed",

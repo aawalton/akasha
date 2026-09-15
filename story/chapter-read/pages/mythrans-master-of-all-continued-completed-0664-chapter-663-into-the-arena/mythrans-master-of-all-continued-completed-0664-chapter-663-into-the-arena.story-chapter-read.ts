@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0664Chapter663IntoTheArena = {
   id: "01a0672c-ed48-7001-ae3a-7b31ccccee01",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0664-chapter-663-into-the-arena",
   title: "Chapter 663 - Into the Arena",
   story: "story-read/mythrans-master-of-all-continued-completed",

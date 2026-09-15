@@ -3,7 +3,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 export const passiveAggressiveReversePortalInvasionLitrpg0027BriefInterruptionExpandingThePatreon =
   {
     id: "01a06730-4dd0-7b29-bf32-ef329601a93c",
-    type: "story-chapter-read",
+    type: "page-type/story-chapter-read",
     slug: "passive-aggressive-reverse-portal-invasion-litrpg-0027-brief-interruption-expanding-the-patreon",
     title: "Brief interruption - 'expanding the Patreon'-update",
     story: "story-read/passive-aggressive-reverse-portal-invasion-litrpg",

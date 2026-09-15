@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0682Chapter681LunchAndDessert = {
   id: "01a0672c-ed55-7000-989b-c719390b52dc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0682-chapter-681-lunch-and-dessert",
   title: "Chapter 681 - Lunch And Dessert",
   story: "story-read/mythrans-master-of-all-continued-completed",

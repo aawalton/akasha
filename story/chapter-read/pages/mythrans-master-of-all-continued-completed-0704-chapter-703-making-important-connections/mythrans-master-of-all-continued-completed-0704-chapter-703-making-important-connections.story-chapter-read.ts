@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0704Chapter703MakingImportantConnections = {
   id: "01a0672c-ed67-7000-8ef1-ab88639f7988",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0704-chapter-703-making-important-connections",
   title: "Chapter 703 - Making Important Connections",
   story: "story-read/mythrans-master-of-all-continued-completed",

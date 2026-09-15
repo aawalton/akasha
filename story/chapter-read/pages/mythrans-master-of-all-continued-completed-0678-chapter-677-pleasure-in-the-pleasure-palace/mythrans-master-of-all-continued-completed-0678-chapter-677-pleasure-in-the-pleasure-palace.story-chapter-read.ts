@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0678Chapter677PleasureInThePleasurePalace = {
   id: "01a0672c-ed53-7000-b74b-404ba1d9fe03",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0678-chapter-677-pleasure-in-the-pleasure-palace",
   title: "Chapter 677 - Pleasure In The Pleasure Palace",
   story: "story-read/mythrans-master-of-all-continued-completed",

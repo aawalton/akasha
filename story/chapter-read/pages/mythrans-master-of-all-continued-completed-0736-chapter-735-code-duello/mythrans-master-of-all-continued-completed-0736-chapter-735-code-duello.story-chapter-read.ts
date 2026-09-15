@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0736Chapter735CodeDuello = {
   id: "01a0672c-ed7d-7000-af54-352d9dcc3a45",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0736-chapter-735-code-duello",
   title: "Chapter 735 - Code Duello",
   story: "story-read/mythrans-master-of-all-continued-completed",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0663Chapter662AFewLastMinuteThings = {
   id: "01a0672c-ed48-7000-abad-33fdc9775691",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0663-chapter-662-a-few-last-minute-things",
   title: "Chapter 662 - A Few Last Minute Things",
   story: "story-read/mythrans-master-of-all-continued-completed",

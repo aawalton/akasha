@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const newGam3Plus0008FriendOrFoe = {
   id: "01a06730-4dcd-7dc4-b564-337e972fa38b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "new-gam3-plus-0008-friend-or-foe",
   title: "Friend or Foe",
   story: "story-read/new-gam3-plus",

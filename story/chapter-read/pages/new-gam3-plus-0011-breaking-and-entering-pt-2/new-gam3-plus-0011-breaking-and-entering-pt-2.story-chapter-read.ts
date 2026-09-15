@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const newGam3Plus0011BreakingAndEnteringPt2 = {
   id: "01a06730-4dcf-7ae9-822c-68759c3213fe",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "new-gam3-plus-0011-breaking-and-entering-pt-2",
   title: "Breaking and Entering, Pt. 2",
   story: "story-read/new-gam3-plus",
