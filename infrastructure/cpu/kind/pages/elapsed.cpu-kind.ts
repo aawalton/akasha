@@ -2,7 +2,7 @@ import type { CpuKind } from "akasha/infrastructure/cpu/kind/cpu-kind.page-type.
 
 export const elapsed = {
   id: "01a0918b-5d77-77e9-9bd0-270d718d0181",
-  type: "cpu-kind",
+  type: "page-type/cpu-kind",
   slug: "elapsed",
   definition: "time that went by while a program ran",
   invariants: [
