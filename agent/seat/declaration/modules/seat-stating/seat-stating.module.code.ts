@@ -122,7 +122,7 @@ export function seatBody(
   const typeSlug = typeSlugOf(root, SEAT_TYPE)
   const from = typedFrom(root, typeSlug)
   if (from === "") return null
-  const named = saidAs(typeSlug)
+  const named = saidAs(namedAs(PAGE_TYPE, typeSlug, null))
   return [
     `import type { Seat } from ${saidAs(from)}`,
     "",
