@@ -2,7 +2,7 @@ import type { FlexibilityLog } from "akasha/alan/value/health/fitness/flexibilit
 
 export const supineSlr20260619Left = {
   id: "019f01e1-c05e-70ef-a211-dc2beadb1f9c",
-  type: "flexibility-log",
+  type: "page-type/flexibility-log",
   slug: "supine-slr-2026-06-19-left",
   title: "supine-slr 2026-06-19 (left)",
   context: "standalone",

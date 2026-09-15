@@ -2,7 +2,7 @@ import type { FlexibilityLog } from "akasha/alan/value/health/fitness/flexibilit
 
 export const wallSlideOverhead20260622 = {
   id: "019f01e1-c1ee-7409-a4e1-38b095c7fd9a",
-  type: "flexibility-log",
+  type: "page-type/flexibility-log",
   slug: "wall-slide-overhead-2026-06-22",
   title: "wall-slide-overhead 2026-06-22",
   context: "standalone",

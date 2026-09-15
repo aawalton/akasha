@@ -2,7 +2,7 @@ import type { FlexibilityLog } from "akasha/alan/value/health/fitness/flexibilit
 
 export const forwardFold20260623 = {
   id: "019f01e1-becf-7c66-9f1a-ab89cf4fa942",
-  type: "flexibility-log",
+  type: "page-type/flexibility-log",
   slug: "forward-fold-2026-06-23",
   title: "forward-fold 2026-06-23",
   context: "cooldown",
