@@ -93,12 +93,16 @@ function flagListItem(
     state = "unknown"
   }
 
-  let indicator = target.GetNamedChild<TextureControl>(ADDON_NAME)
+  let indicator = target.GetNamedChild<TextureControl>(`_${ADDON_NAME}Mark`)
   if (indicator === undefined) {
     if (state === undefined) {
       return undefined
     }
-    indicator = WINDOW_MANAGER.CreateControl(target.GetName() + ADDON_NAME, target, CT_TEXTURE)
+    indicator = WINDOW_MANAGER.CreateControl(
+      `${target.GetName()}_${ADDON_NAME}Mark`,
+      target,
+      CT_TEXTURE
+    )
     indicator.SetDimensions(22, 22)
     indicator.SetInheritScale(false)
     indicator.SetAnchor(TOPRIGHT)
