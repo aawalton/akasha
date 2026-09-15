@@ -2,7 +2,7 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entry/story-wiki-entry.pa
 
 export const theHarvestAndTheConversion = {
   id: "01a0657d-bb98-7638-a452-0b186aa1913f",
-  type: "story-wiki-entry",
+  type: "page-type/story-wiki-entry",
   slug: "the-harvest-and-the-conversion",
   title: "The Harvest & the Conversion (The Dead Are Inventory)",
   world: "world/tower-of-nimue",

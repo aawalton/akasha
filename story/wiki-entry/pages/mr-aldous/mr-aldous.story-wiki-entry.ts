@@ -2,7 +2,7 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entry/story-wiki-entry.pa
 
 export const mrAldous = {
   id: "01a0657d-bb96-7c32-bbda-1f313037ad91",
-  type: "story-wiki-entry",
+  type: "page-type/story-wiki-entry",
   slug: "mr-aldous",
   title: "Mr. Aldous",
   world: "world/the-beholder",

@@ -2,7 +2,7 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entry/story-wiki-entry.pa
 
 export const theLostNamePastLifeMystery = {
   id: "01a0657d-bb96-7df2-bbb9-c70dd59a65d2",
-  type: "story-wiki-entry",
+  type: "page-type/story-wiki-entry",
   slug: "the-lost-name-past-life-mystery",
   title: "The Lost Name (past-life mystery)",
   world: "world/cornerstone",

@@ -2,7 +2,7 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entry/story-wiki-entry.pa
 
 export const theFirstHarvest = {
   id: "01a0657d-bb96-7673-94c9-b754517cd470",
-  type: "story-wiki-entry",
+  type: "page-type/story-wiki-entry",
   slug: "the-first-harvest",
   title: "The First Harvest",
   world: "world/the-beholder",

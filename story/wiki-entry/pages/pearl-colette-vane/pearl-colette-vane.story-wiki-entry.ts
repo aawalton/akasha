@@ -2,7 +2,7 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entry/story-wiki-entry.pa
 
 export const pearlColetteVane = {
   id: "01a0657d-bb96-7bd9-bf93-8a0d231f749f",
-  type: "story-wiki-entry",
+  type: "page-type/story-wiki-entry",
   slug: "pearl-colette-vane",
   title: "Pearl & Colette Vane",
   world: "world/the-beholder",

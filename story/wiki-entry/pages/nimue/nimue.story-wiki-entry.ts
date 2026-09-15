@@ -2,7 +2,7 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entry/story-wiki-entry.pa
 
 export const nimue = {
   id: "01a0657d-bb97-7be4-81e0-56e20296e8b2",
-  type: "story-wiki-entry",
+  type: "page-type/story-wiki-entry",
   slug: "nimue",
   title: "Nimue",
   world: "world/tower-of-nimue",

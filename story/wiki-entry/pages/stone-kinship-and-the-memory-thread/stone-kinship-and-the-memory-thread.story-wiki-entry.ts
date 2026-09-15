@@ -2,7 +2,7 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entry/story-wiki-entry.pa
 
 export const stoneKinshipAndTheMemoryThread = {
   id: "01a0657d-bb95-7a2c-a54d-65e6785f9fc9",
-  type: "story-wiki-entry",
+  type: "page-type/story-wiki-entry",
   slug: "stone-kinship-and-the-memory-thread",
   title: "Stone-Kinship and the Memory-Thread",
   world: "world/cornerstone",

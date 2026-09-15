@@ -2,7 +2,7 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entry/story-wiki-entry.pa
 
 export const slowTread = {
   id: "01a0657d-bb95-791f-a3b7-e4ae2b33bc6d",
-  type: "story-wiki-entry",
+  type: "page-type/story-wiki-entry",
   slug: "slow-tread",
   title: "Slow-Tread",
   world: "world/cornerstone",

@@ -2,7 +2,7 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entry/story-wiki-entry.pa
 
 export const theAshGlutton = {
   id: "01a0657d-bb98-7262-b0fc-900662761703",
-  type: "story-wiki-entry",
+  type: "page-type/story-wiki-entry",
   slug: "the-ash-glutton",
   title: "The Ash-Glutton",
   world: "world/tower-of-nimue",

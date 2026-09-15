@@ -2,7 +2,7 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entry/story-wiki-entry.pa
 
 export const powersTheAwakened = {
   id: "01a0657d-bb96-768f-888c-918c40de6dd2",
-  type: "story-wiki-entry",
+  type: "page-type/story-wiki-entry",
   slug: "powers-the-awakened",
   title: "Powers & the Awakened",
   world: "world/the-beholder",

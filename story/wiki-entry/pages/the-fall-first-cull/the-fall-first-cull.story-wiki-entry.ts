@@ -2,7 +2,7 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entry/story-wiki-entry.pa
 
 export const theFallFirstCull = {
   id: "01a0657d-bb98-719d-a172-eb1f14efc911",
-  type: "story-wiki-entry",
+  type: "page-type/story-wiki-entry",
   slug: "the-fall-first-cull",
   title: "The Fall (First Cull)",
   world: "world/tower-of-nimue",

@@ -2,7 +2,7 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entry/story-wiki-entry.pa
 
 export const theComingWantScarcity = {
   id: "01a0657d-bb95-75b8-b01e-556b55709693",
-  type: "story-wiki-entry",
+  type: "page-type/story-wiki-entry",
   slug: "the-coming-want-scarcity",
   title: "The Coming Want (scarcity)",
   world: "world/cornerstone",

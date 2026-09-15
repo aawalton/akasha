@@ -2,7 +2,7 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entry/story-wiki-entry.pa
 
 export const theFourLaborsTheFoundingFork = {
   id: "01a0657d-bb96-75f3-8e57-29f4d8bc1526",
-  type: "story-wiki-entry",
+  type: "page-type/story-wiki-entry",
   slug: "the-four-labors-the-founding-fork",
   title: "The Four Labors (the founding fork)",
   world: "world/cornerstone",

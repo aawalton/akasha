@@ -2,7 +2,7 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entry/story-wiki-entry.pa
 
 export const theSmallOneTheChild = {
   id: "01a0657d-bb96-7e30-8d1d-4634b3a22e13",
-  type: "story-wiki-entry",
+  type: "page-type/story-wiki-entry",
   slug: "the-small-one-the-child",
   title: "The Small One (the child)",
   world: "world/cornerstone",
