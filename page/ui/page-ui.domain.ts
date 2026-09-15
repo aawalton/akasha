@@ -12,7 +12,7 @@ export const pageUi = {
     "domain/page-ui-app-version",
     "domain/page-ui-block-editor",
     "domain/page-ui-cache",
-    "domain/page-ui-capabilities",
+    "domain/page-ui-capability",
     "domain/page-ui-contexts",
     "domain/page-ui-frame",
     "domain/page-ui-markdown",
