@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0036Chapter36StewAndSuspicion = {
   id: "01a06730-55e4-7381-80dc-ec78095fcf42",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0036-chapter-36-stew-and-suspicion",
   title: "Chapter 36: Stew and Suspicion",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

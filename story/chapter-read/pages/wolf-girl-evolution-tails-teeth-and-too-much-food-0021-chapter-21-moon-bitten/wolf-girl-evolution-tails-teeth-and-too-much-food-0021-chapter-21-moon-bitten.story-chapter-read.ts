@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0021Chapter21MoonBitten = {
   id: "01a06730-55e4-7977-9855-864736b0ba8c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0021-chapter-21-moon-bitten",
   title: "Chapter 21: Moon-Bitten",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

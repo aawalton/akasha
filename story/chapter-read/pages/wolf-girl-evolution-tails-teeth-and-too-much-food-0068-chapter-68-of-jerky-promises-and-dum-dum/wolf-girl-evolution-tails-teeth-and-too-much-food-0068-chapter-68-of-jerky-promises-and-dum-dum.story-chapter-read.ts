@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0068Chapter68OfJerkyPromisesAndDumDum = {
   id: "01a06730-55e6-73ab-a23b-0da21509fb05",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0068-chapter-68-of-jerky-promises-and-dum-dum",
   title: "Chapter 68: Of Jerky Promises and Dum-Dum Diplomacy",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

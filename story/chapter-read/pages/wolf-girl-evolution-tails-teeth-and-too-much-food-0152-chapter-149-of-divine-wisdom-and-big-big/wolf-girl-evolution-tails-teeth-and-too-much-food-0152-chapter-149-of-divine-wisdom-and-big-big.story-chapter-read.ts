@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0152Chapter149OfDivineWisdomAndBigBig = {
   id: "01a06730-5611-7bec-a859-7ee6f40ac1f5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0152-chapter-149-of-divine-wisdom-and-big-big",
   title: "Chapter 149: Of Divine Wisdom and Big Big Plans!",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

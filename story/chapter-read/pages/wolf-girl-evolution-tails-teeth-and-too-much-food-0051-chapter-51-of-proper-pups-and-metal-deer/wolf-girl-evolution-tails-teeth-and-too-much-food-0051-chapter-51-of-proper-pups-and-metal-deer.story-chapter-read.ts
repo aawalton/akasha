@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0051Chapter51OfProperPupsAndMetalDeer = {
   id: "01a06730-55e5-7e48-9cb9-b12d2eb2ce1d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0051-chapter-51-of-proper-pups-and-metal-deer",
   title: "Chapter 51: Of Proper Pups and Metal-Deer Solid",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

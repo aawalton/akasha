@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0041Chapter41TheOgreReturns = {
   id: "01a06730-55e5-77ee-ac1a-571d85eaa27e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0041-chapter-41-the-ogre-returns",
   title: "Chapter 41: The Ogre Returns",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

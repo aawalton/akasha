@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0040Chapter40OldStonesFreshStink = {
   id: "01a06730-55e5-78b4-a731-1d1bf46857e4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0040-chapter-40-old-stones-fresh-stink",
   title: "Chapter 40: Old Stones, Fresh Stink",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

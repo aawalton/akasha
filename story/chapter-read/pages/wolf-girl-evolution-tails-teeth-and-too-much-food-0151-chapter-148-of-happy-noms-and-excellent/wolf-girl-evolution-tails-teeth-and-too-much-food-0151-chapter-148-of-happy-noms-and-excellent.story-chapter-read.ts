@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0151Chapter148OfHappyNomsAndExcellent = {
   id: "01a06730-5611-760f-9f48-c8d7648632c1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0151-chapter-148-of-happy-noms-and-excellent",
   title: "Chapter 148: Of Happy Noms and Excellent Rescue Deals!",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

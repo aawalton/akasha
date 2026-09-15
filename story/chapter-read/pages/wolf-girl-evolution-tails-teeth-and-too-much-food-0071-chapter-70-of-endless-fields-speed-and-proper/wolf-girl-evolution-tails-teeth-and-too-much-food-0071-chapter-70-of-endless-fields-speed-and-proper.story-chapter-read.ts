@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0071Chapter70OfEndlessFieldsSpeedAndProper = {
   id: "01a06730-55e6-79b1-a967-13eb0756f37a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0071-chapter-70-of-endless-fields-speed-and-proper",
   title: "Chapter 70: Of Endless Fields, Speed, and Proper Packs",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

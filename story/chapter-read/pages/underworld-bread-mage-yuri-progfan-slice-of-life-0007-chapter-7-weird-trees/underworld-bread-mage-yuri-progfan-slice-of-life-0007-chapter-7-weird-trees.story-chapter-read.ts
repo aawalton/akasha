@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const underworldBreadMageYuriProgfanSliceOfLife0007Chapter7WeirdTrees = {
   id: "01a06730-4f12-745c-a599-f1fd5df9568e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0007-chapter-7-weird-trees",
   title: "Chapter 7: Weird Trees",
   story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",

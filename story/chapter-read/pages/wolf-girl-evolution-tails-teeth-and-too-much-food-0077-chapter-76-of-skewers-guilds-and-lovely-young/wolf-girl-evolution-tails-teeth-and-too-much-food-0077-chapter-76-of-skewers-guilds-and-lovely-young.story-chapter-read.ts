@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0077Chapter76OfSkewersGuildsAndLovelyYoung = {
   id: "01a06730-55e6-76ae-b2ed-5d09a6bf7d62",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0077-chapter-76-of-skewers-guilds-and-lovely-young",
   title: "Chapter 76: Of Skewers, Guilds, and Lovely Young Ladies",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

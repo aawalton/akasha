@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0085Chapter84OfLunaTrainingAndPackGroaning = {
   id: "01a06730-55e7-74ed-a87c-ac90676caf95",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0085-chapter-84-of-luna-training-and-pack-groaning",
   title: "Chapter 84: Of Luna Training, and Pack Groaning!",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

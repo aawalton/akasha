@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0096Chapter95OfCorrectiveZoomsAndSpeedy = {
   id: "01a06730-55e7-7119-9bb3-ec8ae523c935",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0096-chapter-95-of-corrective-zooms-and-speedy",
   title: "Chapter 95: Of Corrective Zooms and Speedy Luna Motivations",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

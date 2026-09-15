@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const underworldBreadMageYuriProgfanSliceOfLife0030Chapter30SweeterThanHoney = {
   id: "01a06730-4f13-72f1-a614-5600620a3bc0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0030-chapter-30-sweeter-than-honey",
   title: "Chapter 30: Sweeter Than Honey",
   story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",

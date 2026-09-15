@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0135Chapter133OfExtremelyIrritatingTrust = {
   id: "01a06730-5603-7e29-ada9-d90ff28b355d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0135-chapter-133-of-extremely-irritating-trust",
   title: "Chapter 133: Of Extremely Irritating Trust",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

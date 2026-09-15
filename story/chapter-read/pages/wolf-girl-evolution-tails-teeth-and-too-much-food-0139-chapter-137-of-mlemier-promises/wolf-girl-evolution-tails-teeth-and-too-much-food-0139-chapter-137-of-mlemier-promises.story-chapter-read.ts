@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0139Chapter137OfMlemierPromises = {
   id: "01a06730-5606-718d-8440-19414be71005",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0139-chapter-137-of-mlemier-promises",
   title: "Chapter 137: Of Mlemier Promises",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

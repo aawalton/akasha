@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0122Chapter121OfPawsitiveReinforcementAnd = {
   id: "01a06730-55f3-7e06-8062-f7496ef605fa",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0122-chapter-121-of-pawsitive-reinforcement-and",
   title: "Chapter 121: Of Pawsitive Reinforcement, and Towerful Secrets",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

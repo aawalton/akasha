@@ -3,7 +3,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0125Chapter124OfMaliceRevealedAndEscalating =
   {
     id: "01a06730-55f7-7a3b-af5e-8540b360c183",
-    type: "story-chapter-read",
+    type: "page-type/story-chapter-read",
     slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0125-chapter-124-of-malice-revealed-and-escalating",
     title: "Chapter 124: Of Malice Revealed and Escalating Threats",
     story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

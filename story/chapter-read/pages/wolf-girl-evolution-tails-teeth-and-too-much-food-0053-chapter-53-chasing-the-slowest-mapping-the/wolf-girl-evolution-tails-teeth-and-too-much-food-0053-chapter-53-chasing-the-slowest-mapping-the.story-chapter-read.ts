@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0053Chapter53ChasingTheSlowestMappingThe = {
   id: "01a06730-55e5-7e0f-8e3a-efc7d9b9fe60",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0053-chapter-53-chasing-the-slowest-mapping-the",
   title: "Chapter 53: Chasing the Slowest, Mapping the Longest",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

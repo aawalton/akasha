@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0140Chapter138OfMissingBalanceAndGravity = {
   id: "01a06730-5607-7a84-a739-1862b729b708",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0140-chapter-138-of-missing-balance-and-gravity",
   title: "Chapter 138: Of Missing Balance and Gravity Suggestions",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

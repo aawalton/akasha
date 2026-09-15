@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0004Chapter4MeatThiefSkillCreep = {
   id: "01a06730-55e3-7bfc-9da7-d4f730573021",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0004-chapter-4-meat-thief-skill-creep",
   title: "Chapter 4: Meat Thief, Skill Creep",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

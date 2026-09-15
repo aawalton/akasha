@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const underworldBreadMageYuriProgfanSliceOfLife0009Chapter9MayIHaveThisDance = {
   id: "01a06730-4f12-7603-8292-1b76e32001ed",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0009-chapter-9-may-i-have-this-dance",
   title: "Chapter 9: May I Have This Dance?",
   story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0045Chapter45LootLicksAndTheLowerLevels = {
   id: "01a06730-55e5-7b31-80bb-52d3fbefef43",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0045-chapter-45-loot-licks-and-the-lower-levels",
   title: "Chapter 45: Loot, Licks, and the Lower Levels",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

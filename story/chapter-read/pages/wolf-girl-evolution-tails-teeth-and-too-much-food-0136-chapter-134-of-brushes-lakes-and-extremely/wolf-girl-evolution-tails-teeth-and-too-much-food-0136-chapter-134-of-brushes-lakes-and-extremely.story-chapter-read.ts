@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0136Chapter134OfBrushesLakesAndExtremely = {
   id: "01a06730-5604-7e76-981a-1e398fdebae4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0136-chapter-134-of-brushes-lakes-and-extremely",
   title: "Chapter 134: Of Brushes, Lakes, and Extremely Comfortable Wolves",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

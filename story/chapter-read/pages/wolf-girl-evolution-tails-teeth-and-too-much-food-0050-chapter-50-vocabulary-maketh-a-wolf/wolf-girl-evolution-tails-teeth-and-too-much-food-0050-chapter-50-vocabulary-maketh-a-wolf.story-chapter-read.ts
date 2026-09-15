@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0050Chapter50VocabularyMakethAWolf = {
   id: "01a06730-55e5-7b3f-b95f-2ef12df8e48d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0050-chapter-50-vocabulary-maketh-a-wolf",
   title: "Chapter 50: Vocabulary Maketh a Wolf",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

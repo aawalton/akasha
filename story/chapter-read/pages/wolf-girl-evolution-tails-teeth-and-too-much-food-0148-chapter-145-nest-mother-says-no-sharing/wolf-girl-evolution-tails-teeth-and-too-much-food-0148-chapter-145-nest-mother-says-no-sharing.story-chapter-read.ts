@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0148Chapter145NestMotherSaysNoSharing = {
   id: "01a06730-560b-7b51-bc3a-75e02b28a340",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0148-chapter-145-nest-mother-says-no-sharing",
   title: "Chapter 145: Nest Mother Says No Sharing",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

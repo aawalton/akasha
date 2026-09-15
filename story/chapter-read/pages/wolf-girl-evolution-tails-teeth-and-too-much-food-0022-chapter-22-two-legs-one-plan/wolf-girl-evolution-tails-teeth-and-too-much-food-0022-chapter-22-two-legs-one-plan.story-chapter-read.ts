@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0022Chapter22TwoLegsOnePlan = {
   id: "01a06730-55e4-7949-9c60-5b3bf39a4c45",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0022-chapter-22-two-legs-one-plan",
   title: "Chapter 22: Two Legs, One Plan",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0128Chapter127OfReliefRecoveryAndResting = {
   id: "01a06730-55fc-7626-97c8-a8aa2426f211",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0128-chapter-127-of-relief-recovery-and-resting",
   title: "Chapter 127: Of Relief, Recovery, and Resting Reins",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0127Chapter126OfSteelFuryAndUnyieldingWill = {
   id: "01a06730-55fa-726e-ab2a-292a70367176",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0127-chapter-126-of-steel-fury-and-unyielding-will",
   title: "Chapter 126: Of Steel, Fury, and Unyielding Will",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

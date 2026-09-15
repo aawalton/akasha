@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const underworldBreadMageYuriProgfanSliceOfLife0024Chapter24LoveIsAStrongWord = {
   id: "01a06730-4f13-7364-933f-663fd7f7adf9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0024-chapter-24-love-is-a-strong-word",
   title: "Chapter 24: Love is a Strong Word",
   story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const underworldBreadMageYuriProgfanSliceOfLife0006Chapter6Authority = {
   id: "01a06730-4f12-7b1a-9dc7-02a5b96b4864",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0006-chapter-6-authority",
   title: "Chapter 6: Authority",
   story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",

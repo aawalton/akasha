@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0097Chapter96OfFriendsAndFoesAndCarnivores = {
   id: "01a06730-55e7-7902-921d-97b8209a3a0a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0097-chapter-96-of-friends-and-foes-and-carnivores",
   title: "Chapter 96: Of Friends and Foes and Carnivores",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

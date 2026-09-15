@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0089Chapter88LunasPerfectDay = {
   id: "01a06730-55e7-7245-b7fc-48082dfabe85",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0089-chapter-88-lunas-perfect-day",
   title: "Chapter 88: Luna’s Perfect Day!",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

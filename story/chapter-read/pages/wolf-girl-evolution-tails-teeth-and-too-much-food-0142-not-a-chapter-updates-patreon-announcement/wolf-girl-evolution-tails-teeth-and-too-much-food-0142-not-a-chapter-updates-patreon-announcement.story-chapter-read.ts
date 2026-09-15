@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0142NotAChapterUpdatesPatreonAnnouncement = {
   id: "01a06730-5607-7c12-859d-b56a87e20153",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0142-not-a-chapter-updates-patreon-announcement",
   title: "NOT A CHAPTER - Updates & Patreon Announcement",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

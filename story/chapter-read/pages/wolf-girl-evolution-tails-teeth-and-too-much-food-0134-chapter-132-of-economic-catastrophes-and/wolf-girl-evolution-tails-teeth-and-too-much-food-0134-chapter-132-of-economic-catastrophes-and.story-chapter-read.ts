@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0134Chapter132OfEconomicCatastrophesAnd = {
   id: "01a06730-5602-7667-9f5b-e6fc3e38d4b0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0134-chapter-132-of-economic-catastrophes-and",
   title: "Chapter 132: Of Economic Catastrophes and Campfire Logistics",
   story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const underworldBreadMageYuriProgfanSliceOfLife0041Chapter41MeatBalls = {
   id: "01a0a598-d580-7f22-8f0b-26e3bd8ac5ca",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0041-chapter-41-meat-balls",
   position: 41,
   publishedAt: "2026-09-15",

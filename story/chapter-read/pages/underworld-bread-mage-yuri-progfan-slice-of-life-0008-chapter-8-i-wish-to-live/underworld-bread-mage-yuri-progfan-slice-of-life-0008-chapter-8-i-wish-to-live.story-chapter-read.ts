@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const underworldBreadMageYuriProgfanSliceOfLife0008Chapter8IWishToLive = {
   id: "01a06730-4f12-704a-832b-38d5986e3013",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0008-chapter-8-i-wish-to-live",
   title: "Chapter 8: I Wish to Live",
   story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",

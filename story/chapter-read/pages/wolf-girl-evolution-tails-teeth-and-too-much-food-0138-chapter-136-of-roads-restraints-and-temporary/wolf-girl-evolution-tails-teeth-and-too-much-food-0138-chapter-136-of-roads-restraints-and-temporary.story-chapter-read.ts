@@ -3,7 +3,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0138Chapter136OfRoadsRestraintsAndTemporary =
   {
     id: "01a06730-5606-759d-9e10-1ebac09a38a8",
-    type: "story-chapter-read",
+    type: "page-type/story-chapter-read",
     slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0138-chapter-136-of-roads-restraints-and-temporary",
     title: "Chapter 136: Of Roads, Restraints, and Temporary Things",
     story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
