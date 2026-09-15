@@ -2,13 +2,13 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const loreLibrary = {
   id: "01a05fc5-7430-7f7e-8208-2bf680e93a3d",
-  type: "temper-catalog-domain",
+  type: "page-type/temper-catalog-domain",
   slug: "lore-library",
   title: "Lore Library",
   icon: "file-text",
   apiVersion: "eso.live.12.0.8.3288357",
   manifestApiVersion: 101050,
-  capturedAt: "2026-09-15T17:21:37.422Z",
+  capturedAt: "2026-09-15T17:43:38.704Z",
   generatorRanForVersion: "eso.live.12.0.6.3274791",
   generatorRanForManifestApiVersion: 101050,
 } as const satisfies TemperCatalogDomain
