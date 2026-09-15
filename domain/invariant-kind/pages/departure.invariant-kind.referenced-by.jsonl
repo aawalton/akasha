@@ -197,6 +197,7 @@
 {"propertySlug":"invariant-kind","path":"agent/modules/stray-process/stray-process.module.ts","id":"01a09cd4-c1f0-776c-825d-f33fe4f0576c"}
 {"propertySlug":"invariant-kind","path":"agent/modules/stray-sweeping/stray-sweeping.module.ts","id":"01a09ced-1a65-7dd9-a620-2ed6bac65b03"}
 {"propertySlug":"invariant-kind","path":"agent/modules/tool-access/tool-access.module.ts","id":"01a06964-d998-7eb2-b409-f7b943e17909"}
+{"propertySlug":"invariant-kind","path":"agent/properties/assignment-slug.one-of-property.ts","id":"01a053a2-d0e7-7948-a966-74efed3c62f0"}
 {"propertySlug":"invariant-kind","path":"agent/properties/audit-refusals.file-property.ts","id":"01a094bd-e107-7176-9d08-3acf8ccb369a"}
 {"propertySlug":"invariant-kind","path":"agent/properties/edits.file-property.ts","id":"01a07771-c8a1-7ef9-b931-04ce8f6bbc85"}
 {"propertySlug":"invariant-kind","path":"agent/properties/reads.file-property.ts","id":"01a09c31-c3c6-74f8-9064-94c903e1ba85"}
@@ -285,7 +286,6 @@
 {"propertySlug":"invariant-kind","path":"agent/seat/page/modules/seat-reading/seat-reading.module.ts","id":"01a05850-0f6a-7ed4-b9e5-6868da68bd0c"}
 {"propertySlug":"invariant-kind","path":"agent/seat/page/modules/seat-record/seat-record.module.ts","id":"01a06949-b281-7a28-8dc0-ad7ecff7be76"}
 {"propertySlug":"invariant-kind","path":"agent/seat/page/modules/values/seat-page-values.module.ts","id":"01a06949-b281-7930-babe-566948d7b200"}
-{"propertySlug":"invariant-kind","path":"agent/seat/properties/assignment-slug.one-of-property.ts","id":"01a053a2-d0e7-7948-a966-74efed3c62f0"}
 {"propertySlug":"invariant-kind","path":"agent/seat/properties/claude-code-session-uuid.text-property.ts","id":"01a053e4-cf4a-7e0c-a936-1a0a62a7b7e5"}
 {"propertySlug":"invariant-kind","path":"agent/seat/properties/mode.text-property.ts","id":"01a07661-4b8c-7ac8-ba3a-9cbd32e9ae55"}
 {"propertySlug":"invariant-kind","path":"agent/seat/properties/on-call.boolean-property.ts","id":"01a0539b-d9f2-7d0c-80d9-1eabbdc9ec3e"}
@@ -1821,7 +1821,6 @@
 {"propertySlug":"invariant-kind","path":"command/argument/properties/argument-value.select-property.ts","id":"01a093fd-34bc-7502-9460-0a9278a3c9c8"}
 {"propertySlug":"invariant-kind","path":"command/argument/properties/argument.relation-property.ts","id":"01a09409-0740-76a5-b194-5aae0e0a6f9b"}
 {"propertySlug":"invariant-kind","path":"command/argument/properties/placeholder.text-property.ts","id":"01a093fd-6bbc-77a2-ba27-0fc290cf93b0"}
-{"propertySlug":"invariant-kind","path":"command/argument/properties/repeats.boolean-property.ts","id":"01a093fd-5112-7f98-883b-01d434b2b228"}
 {"propertySlug":"invariant-kind","path":"command/argument/properties/said.text-property.ts","id":"01a05027-c468-7aba-9ec6-e02a71e9af84"}
 {"propertySlug":"invariant-kind","path":"command/argument/properties/takes.text-property.ts","id":"01a05027-c468-7573-9eec-f4d1ecd0bced"}
 {"propertySlug":"invariant-kind","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}
@@ -2204,6 +2203,7 @@
 {"propertySlug":"invariant-kind","path":"command/properties/level-name.text-property.ts","id":"01a093f5-ae9f-72c3-876a-43c8d863335d"}
 {"propertySlug":"invariant-kind","path":"command/properties/not-with.relation-property.ts","id":"01a09483-7144-7d5c-a857-085af955734b"}
 {"propertySlug":"invariant-kind","path":"command/properties/one-of.relation-property.ts","id":"01a0954e-097d-7b5d-8207-3b3e29c78819"}
+{"propertySlug":"invariant-kind","path":"command/properties/repeats.boolean-property.ts","id":"01a093fd-5112-7f98-883b-01d434b2b228"}
 {"propertySlug":"invariant-kind","path":"command/properties/said-as.select-property.ts","id":"01a09483-5529-7998-ad2c-461a3f347977"}
 {"propertySlug":"invariant-kind","path":"design/design.domain.ts","id":"01a05b55-a539-7a1c-9bdc-5a459722f028"}
 {"propertySlug":"invariant-kind","path":"design/interface/badge/modules/date-badge/date-badge.module.ts","id":"01a05b55-a539-773f-8b28-749123c7df39"}

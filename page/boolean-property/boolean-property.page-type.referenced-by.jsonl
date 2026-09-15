@@ -56,7 +56,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"code/held-addon/properties/ti-clean.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"code/module/properties/answers-a-checkout-root.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"code/shell-script/properties/sourced.boolean-property.ts"}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"command/argument/properties/repeats.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"command/properties/repeats.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"domain/context/warrant/properties/runs-on-read.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"domain/context/warrant/properties/runs-on-write.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"domain/context/warrant/properties/transitive.boolean-property.ts"}
