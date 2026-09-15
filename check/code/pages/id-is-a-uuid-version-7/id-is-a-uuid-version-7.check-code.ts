@@ -23,6 +23,6 @@ export const idIsAUuidVersion7 = {
       statement: "An id nested deeper in the value is another page's business.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

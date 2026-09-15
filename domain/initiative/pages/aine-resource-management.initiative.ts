@@ -7,7 +7,6 @@ export const aineResourceManagement = {
   domain: "domain/memory",
   persona: "persona/aine",
   intentStack: [
-    { statement: "`id-is-a-uuid-version-7` runs under a processor ceiling matched to its cost." },
     {
       statement: "`page-property-has-its-file` runs under a processor ceiling matched to its cost.",
     },
