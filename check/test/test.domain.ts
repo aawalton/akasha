@@ -148,10 +148,10 @@ export const test = {
     {
       directiveKind: "directive-kind/principle",
       name: "Assert The Decision",
-      act: "Assert an decision a page states, never a detail of the case at hand.",
+      act: "Assert a decision a page states, never a detail of the case at hand.",
       warrant:
         "An assertion about one case breaks while nothing is wrong, and its repair checks nothing.",
-      aids: ["Where no page states it, settle it with Alan.", "Stable so far is not an decision."],
+      aids: ["Where no page states it, settle it with Alan.", "Stable so far is not a decision."],
     },
     {
       directiveKind: "directive-kind/principle",

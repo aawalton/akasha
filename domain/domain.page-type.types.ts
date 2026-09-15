@@ -1,7 +1,7 @@
+import type { Decisions } from "akasha/domain/properties/decisions.record-property.types.ts"
 import type { Definition } from "akasha/domain/properties/definition.standard-agent-english-property.types.ts"
 import type { Directives } from "akasha/domain/properties/directives.record-property.types.ts"
 import type { Expands } from "akasha/domain/properties/expands.boolean-property.types.ts"
-import type { Decisions } from "akasha/domain/properties/decisions.record-property.types.ts"
 import type { LinkedAt } from "akasha/domain/properties/linked-at.text-property.types.ts"
 import type { OutputDirectory } from "akasha/domain/properties/output-directory.build-folder-property.types.ts"
 import type { Parts } from "akasha/domain/properties/parts.relation-property.types.ts"

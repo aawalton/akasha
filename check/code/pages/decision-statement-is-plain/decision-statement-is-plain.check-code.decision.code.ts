@@ -127,15 +127,15 @@ export function splitAt(one: Stated): Split | null {
 function sayingOf(split: Split): string {
   if (split.shape === "why") {
     return (
-      `line ${split.line} states why at \`${split.mark}\` — an decision states what is true and never why\n` +
+      `line ${split.line} states why at \`${split.mark}\` — a decision states what is true and never why\n` +
       `  ${split.second}\n` +
       "  cut what only explains. Split out a fact held in there and keep it."
     )
   }
   const head =
     split.shape === "two"
-      ? `line ${split.line} holds two sentences — an decision states one thing`
-      : `line ${split.line} joins a second fact at \`${split.mark}\` — an decision states one thing`
+      ? `line ${split.line} holds two sentences — a decision states one thing`
+      : `line ${split.line} joins a second fact at \`${split.mark}\` — a decision states one thing`
   return (
     `${head}\n` +
     `  ${split.second}\n` +

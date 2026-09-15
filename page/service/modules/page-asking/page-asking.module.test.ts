@@ -146,9 +146,7 @@ test("rows are ordered by the key the question sorts on", () => {
 })
 
 test("descending turns the order around", () => {
-  const up = rowsOf(
-    asking(root, { pageTypeSlug: "decision-kind", sortBy: "slug", keys: ["slug"] })
-  )
+  const up = rowsOf(asking(root, { pageTypeSlug: "decision-kind", sortBy: "slug", keys: ["slug"] }))
   const down = rowsOf(
     asking(root, {
       pageTypeSlug: "decision-kind",

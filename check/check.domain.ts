@@ -134,7 +134,7 @@ export const check = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No check judges whether a change made an decision on another page false.",
+      statement: "No check judges whether a change made a decision on another page false.",
     },
     {
       decisionKind: "decision-kind/stopgap",

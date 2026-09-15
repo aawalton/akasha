@@ -17,7 +17,7 @@ const ID = "id"
 const PARTED_BY = "/"
 
 const NARROWS =
-  "an decision is restated on a part only to narrow what the page above states, and the same" +
+  "a decision is restated on a part only to narrow what the page above states, and the same" +
   " words on both leave two pages answering for one statement"
 
 export function statementsIn(value: Value | null): readonly string[] {

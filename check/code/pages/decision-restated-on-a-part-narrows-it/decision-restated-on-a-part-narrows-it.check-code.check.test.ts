@@ -27,7 +27,7 @@ test("the check refuses a part the change carries that restates the page above",
   expect(said.map((one) => one.path)).toEqual([BELOW_AT])
 })
 
-test("the check lets through a part stating an decision of its own", () => {
+test("the check lets through a part stating a decision of its own", () => {
   expect(judging(landing(rooted([OTHER], [SHARED]), { [BELOW_AT]: BODY }))).toEqual([])
 })
 

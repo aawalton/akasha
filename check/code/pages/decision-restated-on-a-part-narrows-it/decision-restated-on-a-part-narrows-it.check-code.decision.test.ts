@@ -36,7 +36,7 @@ test("a page holding no decision states nothing", () => {
   expect(statementsIn(null)).toEqual([])
 })
 
-test("an decision holding no statement is passed over", () => {
+test("a decision holding no statement is passed over", () => {
   expect(statementsIn({ decisions: [{ decisionKind: "absence" }, SAID] })).toEqual([SHARED])
 })
 

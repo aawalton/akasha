@@ -26,7 +26,7 @@ export const directives = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A directive needing more aids than that directive may hold has design belonging in an decision.",
+        "A directive needing more aids than that directive may hold has design belonging in a decision.",
     },
   ],
   types: "ts",

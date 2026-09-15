@@ -21,24 +21,24 @@ export const decisions = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An entry that is no decision kind is not an decision.",
+      statement: "An entry that is no decision kind is not a decision.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An decision states a truth rather than a reason.",
+      statement: "A decision states a truth rather than a reason.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An decision true of every page below a domain belongs to the domain.",
+      statement: "A decision true of every page below a domain belongs to the domain.",
     },
   ],
   directives: [
     {
       directiveKind: "directive-kind/rule",
       name: "Move When It Turns",
-      act: "Move an decision to the property that fits, or delete it, as soon as its truth changes.",
+      act: "Move a decision to the property that fits, or delete it, as soon as its truth changes.",
       warrant:
-        "Nothing re-reads an decision, so one filed where it no longer belongs misleads until tested.",
+        "Nothing re-reads a decision, so one filed where it no longer belongs misleads until tested.",
       aids: [
         "Check the whole claim, not just the case you met.",
         "Move it if still meant, delete it if not.",

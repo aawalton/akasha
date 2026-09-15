@@ -32,7 +32,7 @@ export const manifest = {
     {
       decisionKind: "decision-kind/upkeep",
       statement:
-        "A manifest's checksum annotation sums a secret or config that manifest names in an decision.",
+        "A manifest's checksum annotation sums a secret or config that manifest names in a decision.",
     },
   ],
   types: "ts",

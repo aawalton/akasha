@@ -108,7 +108,7 @@ export const domain = {
         "Approving the initiative is not approving a directive.",
         "A directive replacing an old one still needs approval.",
         "Deleting one is changing it.",
-        "A definition or an decision needs none.",
+        "A definition or a decision needs none.",
       ],
     },
     {

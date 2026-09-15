@@ -27,10 +27,7 @@ import {
 } from "akasha/page/service/modules/page-serving/page-serving.module.test-fixtures.ts"
 
 test("a question is answered with rows", async () => {
-  const answered = await answering(
-    GIVEN,
-    asking({ pageTypeSlug: "decision-kind", keys: ["slug"] })
-  )
+  const answered = await answering(GIVEN, asking({ pageTypeSlug: "decision-kind", keys: ["slug"] }))
   expect(answered.status).toBe(200)
   const held = await bodyOf(answered)
   expect(Array.isArray(held.rows)).toBe(true)

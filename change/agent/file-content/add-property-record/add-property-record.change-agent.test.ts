@@ -3,10 +3,7 @@ import {
   addPropertyRecord,
   runChange,
 } from "akasha/change/agent/file-content/add-property-record/add-property-record.change-agent.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   bodyOf,

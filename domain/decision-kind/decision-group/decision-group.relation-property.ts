@@ -5,7 +5,7 @@ export const decisionGroup = {
   type: "page-type/relation-property",
   slug: "decision-group",
   propertySlug: "decision-group",
-  definition: "a slug naming an decision group",
+  definition: "a slug naming a decision group",
   targetPageType: "page-type/decision-group",
   types: "ts",
 } as const satisfies RelationProperty

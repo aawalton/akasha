@@ -4,15 +4,14 @@ export const decisionRestatedOnAPartNarrowsIt = {
   id: "01a0959b-4249-7000-a2fe-cb9db9273952",
   type: "page-type/check-code",
   slug: "decision-restated-on-a-part-narrows-it",
-  definition:
-    "the check refusing an decision a page and one of its parts both state word for word",
+  definition: "the check refusing a decision a page and one of its parts both state word for word",
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: false,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An decision is restated on a part only to narrow what the page above states.",
+      statement: "A decision is restated on a part only to narrow what the page above states.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -53,7 +52,7 @@ export const decisionRestatedOnAPartNarrowsIt = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads what an decision means.",
+      statement: "Nothing here reads what a decision means.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -74,7 +73,7 @@ export const decisionRestatedOnAPartNarrowsIt = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "The kind an decision is stated under is read by nothing here.",
+      statement: "The kind a decision is stated under is read by nothing here.",
     },
   ],
   check: { maxCpuSeconds: 10 },

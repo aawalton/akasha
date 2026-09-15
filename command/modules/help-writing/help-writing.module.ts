@@ -42,7 +42,7 @@ export const helpWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An decision is written down as the statement alone.",
+      statement: "A decision is written down as the statement alone.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -51,7 +51,7 @@ export const helpWriting = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An decision of a kind that does not hold yet is written under a heading saying so.",
+        "A decision of a kind that does not hold yet is written under a heading saying so.",
     },
     {
       decisionKind: "decision-kind/departure",

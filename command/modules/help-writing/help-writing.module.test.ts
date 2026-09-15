@@ -77,7 +77,7 @@ test("the decisions a page states are read as their statements alone", () => {
   })
 })
 
-test("an decision of a kind that does not hold yet is parted from the rest", () => {
+test("a decision of a kind that does not hold yet is parted from the rest", () => {
   const page = {
     decisions: [
       { decisionKind: "departure", statement: "Nothing here writes." },
@@ -118,7 +118,7 @@ test("the decisions are written under the arguments", () => {
   expect(said).toEqual(["akasha held", "", "  <id>  the id", "", "Nothing here writes."])
 })
 
-test("an decision that does not hold yet is written under a heading saying so", () => {
+test("a decision that does not hold yet is written under a heading saying so", () => {
   const said = helpOf(
     "akasha held",
     null,

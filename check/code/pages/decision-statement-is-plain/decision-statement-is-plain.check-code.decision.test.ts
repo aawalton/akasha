@@ -185,7 +185,7 @@ test("the statement is read from the page rather than from the prose around it",
     "  directives: [",
     "    {",
     '      directiveKind: "rule",',
-    '      warrant: "Nothing re-reads an decision, so one filed wrongly misleads.",',
+    '      warrant: "Nothing re-reads a decision, so one filed wrongly misleads.",',
     "    },",
     "  ],",
     "}",
@@ -198,7 +198,7 @@ test("an entry stating a kind and no statement is passed over", async () => {
   expect(await judged('const held = { decisionKind: "gap" }\n')).toEqual([])
 })
 
-test("a statement beside no kind is not an decision", async () => {
+test("a statement beside no kind is not a decision", async () => {
   const body = 'const held = { statement: "A page is named because the slug says so." }\n'
   expect(await judged(body)).toEqual([])
 })
@@ -256,7 +256,7 @@ test("a statement refused for a mark is not judged against the shapes too", asyn
   expect(said[0]).toContain("joins a second fact")
 })
 
-test("a directive is passed over where an decision is judged", async () => {
+test("a directive is passed over where a decision is judged", async () => {
   const body = [
     "export const held = {",
     "  directives: [",

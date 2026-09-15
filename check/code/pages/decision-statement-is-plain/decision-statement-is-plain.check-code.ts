@@ -4,7 +4,7 @@ export const decisionStatementIsPlain = {
   id: "01a05407-306d-7b50-85c4-bf43575aa786",
   type: "page-type/check-code",
   slug: "decision-statement-is-plain",
-  definition: "the check refusing an decision that is not written in plain language",
+  definition: "the check refusing a decision that is not written in plain language",
   runsOnChange: false,
   runsOnDeploy: false,
   runsOnAudit: true,
@@ -16,7 +16,7 @@ export const decisionStatementIsPlain = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An decision is judged here and nothing else a page says.",
+      statement: "A decision is judged here and nothing else a page says.",
     },
     {
       decisionKind: "decision-kind/departure",
