@@ -964,7 +964,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 22,
+            "numCompleted": 23,
             "numRequired": 30
           }
         }
@@ -3080,7 +3080,7 @@
             "name": "Inner Fire",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 2,
           "morph2": {
             "name": "Inner Beast",
             "rank": 1
@@ -13032,7 +13032,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-14"
+    "date": "2026-09-15"
   },
   "dailyWritStates": {
     "completed": {
@@ -13053,7 +13053,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-14"
+    "date": "2026-09-15"
   },
   "motifKnowledge": {
     "1": {

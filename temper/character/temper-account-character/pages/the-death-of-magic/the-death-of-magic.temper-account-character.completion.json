@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHD8TAAIBkyhVi0_lYtP5UMmC1iJgtQuYLUMmC1C5gtEKjtRBAqUQQKlJiTHWxEEx0sAAAHNgAAAcAAAAAAAAAAAAAAgDUUABAGAoTgAIAAQABCGCADJwAzCGVAB2ABCAwIQADJIBAjAxIwgSAQCAMAHIFgBcAAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrGytkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDEEgaw",
+  "buildHash": "ATQHD8TAAIBkyhVi0_lYtP5UMmC1iJgtQuYLUMmC1C5gtEKjtRBAqUQQKlJiTHWxEEx0sAAAHNgAfkgEAAAAAAAAAAAAAgDUUABAGAoTgAIAAQABCGCADJwAzCGVAB2ABCAwIQADJIBAjAxIwgSAQCAMAHIFgBcAAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrGytkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDEEgaw",
   "gender": 1,
   "level": 50,
   "classId": 117,
@@ -1128,7 +1128,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 24,
+            "numCompleted": 26,
             "numRequired": 30
           }
         }
@@ -1993,7 +1993,7 @@
           "abilityIndex": 1,
           "morph1": {
             "name": "Toxic Barrage",
-            "rank": 2
+            "rank": 3
           }
         }
       },
@@ -3263,7 +3263,7 @@
           }
         },
         "38571": {
-          "atMorph": false,
+          "atMorph": true,
           "morph2": {
             "name": "Cleanse",
             "rank": 1
@@ -3277,6 +3277,24 @@
           "abilityIndex": 4,
           "morph1": {
             "name": "Efficient Purge",
+            "rank": 1
+          }
+        },
+        "61511": {
+          "morph2": {
+            "name": "Stalwart Guard",
+            "rank": 1
+          },
+          "isUltimate": false,
+          "base": {
+            "name": "Guard",
+            "rank": 1
+          },
+          "currentMorph": 0,
+          "abilityIndex": 5,
+          "atMorph": false,
+          "morph1": {
+            "name": "Mystic Guard",
             "rank": 1
           }
         }
@@ -4998,7 +5016,7 @@
     "groupDungeonTotal": 0,
     "tutorial": 1,
     "skyshardPoints": 173,
-    "unassigned": 64,
+    "unassigned": 63,
     "zoneQuestTotal": 63,
     "publicDungeons": {
       "EP4": 1,
@@ -12949,7 +12967,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-14"
+    "date": "2026-09-15"
   },
   "dailyWritStates": {
     "completed": {
@@ -12970,7 +12988,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-14"
+    "date": "2026-09-15"
   },
   "motifKnowledge": {
     "4": {
