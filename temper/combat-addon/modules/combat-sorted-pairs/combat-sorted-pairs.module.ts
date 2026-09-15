@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const combatSortedPairs = {
   id: "01a0617f-5850-7959-a89a-59cd0f9d7a74",
-  type: "module",
+  type: "page-type/module",
   slug: "combat-sorted-pairs",
   definition: "iterating a table in an order rather than whatever order the game gives",
   code: "ts",

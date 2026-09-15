@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const bankProfileReading = {
   id: "01a06864-aa2b-7001-b025-909d59f3ea04",
-  type: "module",
+  type: "page-type/module",
   slug: "bank-profile-reading",
   definition: "the Lua profile the inventory addon records over a visit to a banker",
   code: "ts",

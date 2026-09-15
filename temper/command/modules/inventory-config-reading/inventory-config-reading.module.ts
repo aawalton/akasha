@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryConfigReading = {
   id: "01a068e2-2268-7213-9a23-ecfcd6da6b5c",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-config-reading",
   definition: "the compiled rule config the inventory addon wrote into its saved variables",
   code: "ts",

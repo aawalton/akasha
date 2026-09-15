@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryParityCapabilities = {
   id: "01a068f6-dee0-7b32-a3c0-c5218ac18963",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-parity-capabilities",
   definition: "what comparing the addon's routing against the web's is built from",
   code: "ts",

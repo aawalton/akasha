@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const esoColonMethods = {
   id: "01a069cf-7042-7001-90b1-8e56032f7b2d",
-  type: "module",
+  type: "page-type/module",
   slug: "eso-colon-methods",
   definition: "the colon-called method names a Lua source uses",
   code: "ts",

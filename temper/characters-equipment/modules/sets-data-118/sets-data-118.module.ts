@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData118 = {
   id: "01a061a3-982e-740c-a453-03a0b0823013",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-118",
   definition: "part 118 of the gear set table, way-of-the-arena through wild-impulse",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const combatActionCooldown = {
   id: "01a0617f-582d-75ae-a17a-7f5b0e13890c",
-  type: "module",
+  type: "page-type/module",
   slug: "combat-action-cooldown",
   definition: "the sweeping cooldown overlay on one action widget",
   code: "ts",

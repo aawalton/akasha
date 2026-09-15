@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const weaponSource = {
   id: "01a0616f-8e1a-75a8-85c6-c316865f042b",
-  type: "module",
+  type: "page-type/module",
   slug: "weapon-source",
   definition: "the effects a wielded weapon gives a character",
   code: "ts",

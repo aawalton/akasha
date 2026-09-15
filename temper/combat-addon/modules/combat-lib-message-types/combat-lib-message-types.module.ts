@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const combatLibMessageTypes = {
   id: "01a0617f-5849-75c1-84cf-de09a002a3a3",
-  type: "module",
+  type: "page-type/module",
   slug: "combat-lib-message-types",
   definition: "the payload each recorder callback is handed",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const weaponTypesData = {
   id: "01a0616f-8e15-7014-9996-52aebc4519b8",
-  type: "module",
+  type: "page-type/module",
   slug: "weapon-types-data",
   definition:
     "every weapon a character wields, with the power each carries and the hands each takes",

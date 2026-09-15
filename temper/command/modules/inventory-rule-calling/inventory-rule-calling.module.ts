@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryRuleCalling = {
   id: "01a0680b-0616-7b70-8c7d-3bc79e3eec3b",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-rule-calling",
   definition: "what the commands over a temper player's inventory rules read and do alike",
   code: "ts",

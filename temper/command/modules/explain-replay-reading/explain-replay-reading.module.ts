@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const explainReplayReading = {
   id: "01a06864-aa2b-7005-8de7-99cdead2fd47",
-  type: "module",
+  type: "page-type/module",
   slug: "explain-replay-reading",
   definition: "the last rule walk the inventory addon recorded in the game, read back for replay",
   code: "ts",

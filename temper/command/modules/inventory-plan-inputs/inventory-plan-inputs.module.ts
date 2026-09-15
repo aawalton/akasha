@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryPlanInputs = {
   id: "01a068e2-2271-7832-853b-12f5d89083b0",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-plan-inputs",
   definition: "everything a rule walk needs, gathered from the two saved variables files",
   code: "ts",

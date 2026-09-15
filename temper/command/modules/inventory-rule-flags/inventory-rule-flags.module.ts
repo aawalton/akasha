@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryRuleFlags = {
   id: "01a068e2-2269-7419-86a9-56b04e4d4e87",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-rule-flags",
   definition: "what a rule flag said on the command line has to be to be taken",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const combatCoreLog = {
   id: "01a0617f-5840-7b85-892c-ef719382cb35",
-  type: "module",
+  type: "page-type/module",
   slug: "combat-core-log",
   definition: "where this add-on writes its own diagnostics",
   code: "ts",

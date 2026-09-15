@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryRuleRows = {
   id: "01a068f6-dedf-7995-b1bc-45a280695fe1",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-rule-rows",
   definition: "the columns a rule listing prints and the row one item rule prints as",
   code: "ts",

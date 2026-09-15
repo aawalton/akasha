@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryDiagnosticsReading = {
   id: "01a06864-aa2b-7000-8543-ad1be36860ed",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-diagnostics-reading",
   definition:
     "one diagnostic the inventory addon left in its saved variables, found by walking the accounts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const combatActionSlots = {
   id: "01a0617f-5836-751a-9fae-c5eb5a05dc50",
-  type: "module",
+  type: "page-type/module",
   slug: "combat-action-slots",
   definition: "reading the ability sitting in an action bar slot right now",
   code: "ts",

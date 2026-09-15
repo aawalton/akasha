@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const combatActionDisplay = {
   id: "01a0617f-582f-7701-abfa-29295f60397d",
-  type: "module",
+  type: "page-type/module",
   slug: "combat-action-display",
   definition: "the label text and the cooldown geometry a tracked action is drawn with",
   code: "ts",

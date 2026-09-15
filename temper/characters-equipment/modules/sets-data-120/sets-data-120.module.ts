@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData120 = {
   id: "01a061a3-982e-7966-8c94-9c97757c92ca",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-120",
   definition: "part 120 of the gear set table, wise-mage through wrath-of-the-imperium",
   code: "ts",

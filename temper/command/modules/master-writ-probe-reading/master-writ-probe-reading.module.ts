@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const masterWritProbeReading = {
   id: "01a06864-aa2b-7004-b089-84cb8530cec4",
-  type: "module",
+  type: "page-type/module",
   slug: "master-writ-probe-reading",
   definition: "the probe the inventory addon records for the master writs it has",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventorySettingsAccess = {
   id: "01a068e2-226b-7907-a0c2-a9e64c63d2ac",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-settings-access",
   definition: "the inventory and automation settings a command reads and writes for a player",
   code: "ts",

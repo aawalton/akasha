@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const combatEntry = {
   id: "01a0617f-5841-7b61-8875-16069ed038dc",
-  type: "module",
+  type: "page-type/module",
   slug: "combat-entry",
   definition: "the add-on's first module, which starts the recorder and the report",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skillMorphTracking = {
   id: "01a062ff-2792-7582-b726-7dac43699bb1",
-  type: "module",
+  type: "page-type/module",
   slug: "skill-morph-tracking",
   definition:
     "the morphs the game reports for a character's skill lines, written to saved variables",

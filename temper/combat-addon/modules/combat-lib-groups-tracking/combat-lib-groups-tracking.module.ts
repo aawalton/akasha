@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const combatLibGroupsTracking = {
   id: "01a0617f-5847-74d6-805e-8143962322b3",
-  type: "module",
+  type: "page-type/module",
   slug: "combat-lib-groups-tracking",
   definition: "the unit, effect and skill event groups declared to the recorder",
   code: "ts",

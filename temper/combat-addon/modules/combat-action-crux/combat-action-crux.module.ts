@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const combatActionCrux = {
   id: "01a0617f-582e-7cc0-9eac-fc71772d81fa",
-  type: "module",
+  type: "page-type/module",
   slug: "combat-action-crux",
   definition: "the three Arcanist crux actions the engine keeps whether or not they are cast",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryConfigDivergence = {
   id: "01a0964a-e089-7068-b37d-04f4d57c8d1f",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-config-divergence",
   definition:
     "the rules the records compile to, set against the rules the configuration the addon reads holds",

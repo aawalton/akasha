@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const weaponSlotAccess = {
   id: "01a0616f-8e18-7b28-8180-88c556ae463d",
-  type: "module",
+  type: "page-type/module",
   slug: "weapon-slot-access",
   definition: "what a weapon slot has, and whether the slot shows at all",
   code: "ts",
