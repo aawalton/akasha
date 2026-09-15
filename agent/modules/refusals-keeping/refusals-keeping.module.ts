@@ -55,6 +55,14 @@ export const refusalsKeeping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The pointer says every refusal is there rather than that each one is whole.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "An audit's refusals reach here from a row holding each text to a ceiling.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "One wording names that path and that call, wherever a pointer is said.",
     },
     {

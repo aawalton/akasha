@@ -32,7 +32,10 @@ export function fits(refusals: readonly string[]): boolean {
 }
 
 export function pointerFor(at: string): string {
-  return `every refusal is written whole at ${at}, and \`akasha read --file-path ${at}\` opens it`
+  return (
+    `every refusal this found is written at ${at}, ` +
+    `and \`akasha read --file-path ${at}\` opens it`
+  )
 }
 
 export function pointedAt(at: string): readonly string[] {
