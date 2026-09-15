@@ -2,6 +2,7 @@ import type { CollectionExternal } from "akasha/alan/collection/external/collect
 import type { DiscNumber } from "akasha/alan/music/catalog/track/properties/disc-number.number-property.types.ts"
 import type { Explicit } from "akasha/alan/music/catalog/track/properties/explicit.boolean-property.types.ts"
 import type { TrackArtist } from "akasha/alan/music/catalog/track/properties/track-artist.record-property.types.ts"
+import type { TrackKey } from "akasha/alan/music/catalog/track/properties/track-key.text-property.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 
 export type Track = CollectionExternal & {
@@ -9,4 +10,5 @@ export type Track = CollectionExternal & {
   discNumber?: DiscNumber
   explicit?: Explicit
   trackArtist?: TrackArtist
+  trackKey?: TrackKey
 }

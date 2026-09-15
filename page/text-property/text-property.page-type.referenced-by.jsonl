@@ -173,6 +173,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/watching/properties/poster-path.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/artist/properties/artist-genre.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/song/properties/lyrics-source.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/track/properties/track-key.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/tracks/properties/artist-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/tracks/properties/heard-source.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/tracks/properties/spotify-track-id.text-property.ts"}

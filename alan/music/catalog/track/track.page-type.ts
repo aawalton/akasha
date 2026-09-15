@@ -10,6 +10,7 @@ export const track = {
     "boolean-property/explicit",
     "number-property/disc-number",
     "record-property/track-artist",
+    "text-property/track-key",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -21,6 +22,7 @@ export const track = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "text-property/track-key", required: false, many: false },
   ],
   invariants: [
     {
