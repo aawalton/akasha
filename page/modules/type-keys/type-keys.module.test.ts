@@ -68,6 +68,11 @@ test("a composer stating both keys is named by nothing", () => {
   expect(linesComposingOneKey(body)).toEqual([])
 })
 
+test("a composer stating both keys on one line is named by nothing", () => {
+  const body = 'const body = typed(`  pageTypeSlug: "module",\\n  type: "module",\\n`)'
+  expect(linesComposingOneKey(body)).toEqual([])
+})
+
 test("no code in this repository composes a page body stating only the older key", () => {
   const found: string[] = []
   for (const path of codeUnderRoot()) {

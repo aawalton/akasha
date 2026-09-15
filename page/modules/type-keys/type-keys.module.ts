@@ -23,7 +23,8 @@ export const typeKeys = {
     },
     {
       invariantKind: "departure",
-      statement: "The line after the page type line is where the type key is looked for.",
+      statement:
+        "The type key is looked for on the page type line itself and on the line after it.",
     },
     {
       invariantKind: "absence",

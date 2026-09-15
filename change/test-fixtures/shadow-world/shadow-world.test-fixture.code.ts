@@ -407,7 +407,7 @@ export const TYPE_ONLY = typedBody(`  type: "module",\n`)
 
 export const SECOND_TYPE = typedBody(`  type: "command",\n`)
 
-export const SLUG_ONLY = typedBody(`  pageTypeSlug: "module",\n`)
+export const SLUG_ONLY = BOTH_KEYS.replace(`  type: "module",\n`, "")
 
 export const SLUG_UNDER_TYPE = typedBody(`  pageTypeSlug: "command",\n  type: "module",\n`)
 

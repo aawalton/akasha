@@ -17,6 +17,7 @@ export function linesComposingOneKey(body: string): readonly number[] {
   const found: number[] = []
   lines.forEach((line, at) => {
     if (!composesAPageType(line)) return
+    if (statesTheTypeKey(line)) return
     if (!statesTheTypeKey(lines[at + 1] ?? "")) found.push(at + 1)
   })
   return found
