@@ -16,6 +16,7 @@ import {
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { refreshedFrom } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
+import { claimantIn } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
   listedById,
   readingIn,
@@ -29,7 +30,6 @@ import {
 import {
   fileNameOf,
   IMPORT,
-  ownerOf,
   type Reference,
   referencesAt,
   referencesEach,
@@ -290,7 +290,7 @@ export function relationFiled(
 
 export function importFiled(root: string, path: string, lines: readonly unknown[]): undefined {
   filing(root, join(indexImport.name, AT_PATH, path), lines)
-  const owner = ownerOf(path)
+  const owner = claimantIn(root, path)
   if (owner === null) return
   besideAdded(
     root,
