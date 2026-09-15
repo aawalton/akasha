@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0295Chapter1646MolluscMusic = {
   id: "01a0672c-eb65-700d-8720-751e0b759ab2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0295-chapter-1646-mollusc-music",
   title: "Chapter 1646 - Mollusc Music",
   story: "story-read/chrysalis",

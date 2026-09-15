@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0215Chapter1567EndlessSong = {
   id: "01a0672c-eb62-7012-838c-cb89e4126583",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0215-chapter-1567-endless-song",
   title: "Chapter 1567 - Endless Song",
   story: "story-read/chrysalis",

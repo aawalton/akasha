@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0190Chapter1542PowerOfFriendship = {
   id: "01a0672c-eb61-7017-99cf-60507b95d363",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0190-chapter-1542-power-of-friendship",
   title: "Chapter 1542 - Power of Friendship",
   story: "story-read/chrysalis",

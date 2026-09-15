@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0217Chapter1569BalancedOnAKnife = {
   id: "01a0672c-eb62-7014-92a0-1620e9383f08",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0217-chapter-1569-balanced-on-a-knife",
   title: "Chapter 1569 - Balanced on a Knife",
   story: "story-read/chrysalis",

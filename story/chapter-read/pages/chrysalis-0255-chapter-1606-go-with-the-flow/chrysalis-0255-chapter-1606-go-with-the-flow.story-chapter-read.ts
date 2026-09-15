@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0255Chapter1606GoWithTheFlow = {
   id: "01a0672c-eb64-7000-9a67-33819c314087",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0255-chapter-1606-go-with-the-flow",
   title: "Chapter 1606 - Go With The Flow",
   story: "story-read/chrysalis",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0224Chapter1576DealsStruckInTheDark = {
   id: "01a0672c-eb62-701b-9976-7cbf734354d0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0224-chapter-1576-deals-struck-in-the-dark",
   title: "Chapter 1576 - Deals Struck in the Dark",
   story: "story-read/chrysalis",

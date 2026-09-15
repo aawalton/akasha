@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0186Chapter1538HelmSDeepUponTheEldestSHead = {
   id: "01a0672c-eb61-7013-886b-fa09971ecfcd",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0186-chapter-1538-helm-s-deep-upon-the-eldest-s-head",
   title: "Chapter 1538 - Helm’s Deep Upon the Eldest’s Head",
   story: "story-read/chrysalis",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0359Chapter1707AHarderKindOfSale = {
   id: "01a0672c-eb67-7015-b8b8-37735533f242",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0359-chapter-1707-a-harder-kind-of-sale",
   title: "Chapter 1707 - A Harder Kind of Sale",
   story: "story-read/chrysalis",
