@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whoBuildsTheWatcherOnFilings = {
   id: "01a077ee-d27a-7329-94a9-3bfb659ce040",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "who-builds-the-watcher-on-filings",
   topic: "all-about-alan-topic/when-a-company-changes-hands",
   ask: "Nothing tells me a company changed hands but the service getting worse. My framework names a watcher reading filings and governance on a schedule, so who builds that watcher?",

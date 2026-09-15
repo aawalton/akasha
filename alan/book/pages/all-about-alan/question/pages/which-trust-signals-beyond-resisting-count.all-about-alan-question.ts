@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whichTrustSignalsBeyondResistingCount = {
   id: "01a077ef-db06-7b21-bef4-1089497a9aa4",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "which-trust-signals-beyond-resisting-count",
   topic: "all-about-alan-topic/which-organisations-i-trust",
   ask: "Which signals beyond resisting behaviour count, of ownership, worker treatment, transparency and governance?",

@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whoseRecoveriesMyRecoveryFigureRestsOn = {
   id: "01a077e8-d484-7ab1-bfd2-1a4f3f98974d",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whose-recoveries-my-recovery-figure-rests-on",
   topic: "all-about-alan-topic/how-far-back-i-expect-to-come",
   ask: "Whose recoveries does my three-to-five-year figure actually rest on?",

@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whyAGameOutrunsMyHarness = {
   id: "01a077e2-906d-7c16-9539-fe31d07b5832",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "why-a-game-outruns-my-harness",
   topic: "all-about-alan-topic/the-progress-i-get-to-keep",
   ask: "Why is my deepest and most reliable source of permanent progress a game rather than my harness or my notes?",

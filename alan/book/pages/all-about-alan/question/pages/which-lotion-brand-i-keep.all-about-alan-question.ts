@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whichLotionBrandIKeep = {
   id: "01a077e7-2639-79d1-bcf2-485c316e3559",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "which-lotion-brand-i-keep",
   topic: "all-about-alan-topic/keeping-my-hands-lotioned",
   ask: "Which lotion brand do I keep, and what about its texture or its scent makes that brand the one?",
