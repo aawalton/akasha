@@ -25,10 +25,7 @@ import {
   D,
   edgeFile,
   grounded,
-  IMPORTS,
-  IMPORTS_AT,
   idFile,
-  importFile,
   linesIn,
   NAMES_C_BY_ID,
   NAMES_C_BY_SLUG,
@@ -48,7 +45,6 @@ import {
   untouchedAfter,
   worldsApart,
   wrotePages,
-  wroteText,
 } from "akasha/page/index/modules/indexing/indexing.module.test-fixtures.ts"
 import {
   aProperty,
@@ -218,7 +214,7 @@ test("a bare value narrowing to more than one page is refused rather than resolv
 
 test("a refresh from the pages agrees with the index a write left", () => {
   const { landed, rebuilt } = worldsApart()
-  expect(existsSync(importFile(landed, "deep/a.module.ts"))).toBe(true)
+  expect(existsSync(edgeFile(landed, B, "part-slugs", A))).toBe(true)
   expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everyFileUnder(landed)))
 })
 
@@ -268,25 +264,6 @@ test("a refresh takes away an entry no page carries", () => {
 
   expect(existsSync(stale)).toBe(false)
   expect(existsSync(slugFile(root, "domain", "a"))).toBe(true)
-})
-
-test("a body that drops an import loses that edge and keeps the one it kept", () => {
-  const { tree, root } = bare()
-  wroteText(root, tree, IMPORTS_AT, IMPORTS, null)
-  wroteText(root, tree, IMPORTS_AT, 'import { b } from "./b.ts"\n', IMPORTS)
-
-  expect(existsSync(importFile(root, "c.ts"))).toBe(false)
-  expect(linesIn(importFile(root, "d/b.ts"))).toEqual([`{"path":"${IMPORTS_AT}"}`])
-})
-
-test("a file taken away leaves none of the edges it left", () => {
-  const { tree, root } = bare()
-  const at = wroteText(root, tree, IMPORTS_AT, IMPORTS, null)
-  expect(existsSync(importFile(root, "c.ts"))).toBe(true)
-
-  tookAway(root, tree, at, IMPORTS)
-
-  expect(existsSync(join(root, "import"))).toBe(false)
 })
 
 test("a file a page property holds is not loaded, so it is neither run nor read as a page", () => {

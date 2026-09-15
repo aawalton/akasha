@@ -3,7 +3,6 @@ import { join } from "node:path"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { edgeIn } from "akasha/page/index/edge/index-edge.index.code.ts"
 import { identityIn } from "akasha/page/index/identity/index-identity.index.code.ts"
-import { importIn } from "akasha/page/index/import/index-import.index.code.ts"
 import {
   type Entry,
   fileKeysIn,
@@ -150,8 +149,6 @@ export function refreshedFrom(
   drift.push(reconcile(edge, root, put, done))
   const naming = reachingBuilt(held, repo, fileProperties, filedBy)
   const walked = bodiesUnder(tree)
-  const imported = walked.flatMap((one) => importIn(one.body, one.path, repo, naming))
-  drift.push(reconcile(imported, root, put, done))
   const referenced = held.map((one) =>
     namedFrom(
       one.value,
@@ -167,11 +164,11 @@ export function refreshedFrom(
   ]
   drift.push(reconcile(references, repo, put, done))
   const stale = referencesStale(references, tree, repo, put)
-  const every = [...identity, ...edge, ...imported]
+  const every = [...identity, ...edge]
   const went = [...takenAway(every, root, put, done), ...stale]
   return {
     pages: held.length,
-    entries: identity.length + edge.length + imported.length,
+    entries: identity.length + edge.length,
     refused: filed.flatMap((one) => one.refused),
     drift: drifting(drift, went),
   }

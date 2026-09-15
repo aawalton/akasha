@@ -81,10 +81,6 @@ export const indexing = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Each file under the tree is read once, and what that read holds is filed twice.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement:
         "A file listed under the tree and gone by the time it is read is passed over rather than thrown over.",
     },

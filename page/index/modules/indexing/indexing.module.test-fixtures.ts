@@ -47,7 +47,7 @@ export const bare = (): Pair => {
   return { tree, root }
 }
 
-export function wroteText(
+function wroteText(
   root: string,
   tree: string,
   at: string,
@@ -110,9 +110,6 @@ export const slugFile = (root: string, type: string, slug: string): string =>
 
 export const edgeFile = (root: string, target: string, property: string, source: string): string =>
   join(root, indexEdge.name, "page", "id", target, property, `${source}.jsonl`)
-
-export const importFile = (root: string, path: string): string =>
-  join(root, `import/path/${path}.jsonl`)
 
 export const linesIn = (at: string): readonly string[] =>
   readFileSync(at, "utf8")
@@ -304,10 +301,6 @@ export const aSource = (slug: string, names: string): Named =>
 
 const writingTo = (at: string): string =>
   `import { writeFileSync } from "node:fs"\nwriteFileSync("${at}", "x")\nexport const it = { id: "${D}", pageTypeSlug: "domain", slug: "d" }\n`
-
-export const IMPORTS = 'import { b } from "./b.ts"\nimport type { C } from "../c.ts"\n'
-
-export const IMPORTS_AT = "d/a.module.code.ts"
 
 export function retyped(
   root: string,
