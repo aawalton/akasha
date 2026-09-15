@@ -17,7 +17,6 @@ import { shapesAt } from "akasha/page/index/modules/property-shaping/property-sh
 import { knownIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import {
   everyOfType,
-  idsNaming,
   listedAt,
   listedById,
   listedNamed,
@@ -32,7 +31,10 @@ import {
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import { namersOf } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
+import {
+  idsNaming,
+  namersOf,
+} from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   carriedIn,

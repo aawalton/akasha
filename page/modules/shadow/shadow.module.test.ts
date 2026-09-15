@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { put, there } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
-  edgeFiledAt,
   everyValue,
   readingIn,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -90,15 +89,6 @@ test("the change really moves the index, so the equality is not an equality of t
   expect(everythingRead(readingIn(twin))).not.toEqual(everythingRead(readingIn(repo)))
 })
 
-test("an entry file several pages name comes back with every line the landing leaves", () => {
-  const repo = seeded()
-  const at = "import/path/akasha/x.ts.jsonl"
-  expect(readingIn(repo).lines(at).length).toBe(3)
-  const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
-  expect(reading.lines(at)).toEqual(['{"path":"akasha/p.ts"}', '{"path":"akasha/s.ts"}'])
-  expect(reading.lines(at)).toEqual(readingIn(landedInto(repo, CHANGES)).lines(at))
-})
-
 test("a slug two pages carry loses only the line of the page taken away", () => {
   const repo = seeded()
   const at = "identity/page-type/domain/slug/same.jsonl"
@@ -130,11 +120,12 @@ test("a directory the change empties is not listed, and one it fills is", () => 
 
 test("a relation through a property the same change declares is filed, as a landing files it", () => {
   const repo = seeded()
-  const at = edgeFiledAt(idOf("g"), "note", idOf("b"))
-  expect(readingIn(repo).holds(at)).toBe(false)
+  const at = "akasha/g.domain.referenced-by.jsonl"
+  const named = `{"propertySlug":"note","path":"akasha/b.domain.ts","id":"${idOf("b")}"}`
+  expect(readingIn(repo).read(at) ?? "").not.toContain(named)
   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
-  expect(reading.lines(at)).toEqual(['{"path":"akasha/b.domain.ts"}'])
-  expect(reading.lines(at)).toEqual(readingIn(landedInto(repo, CHANGES)).lines(at))
+  expect(reading.read(at) ?? "").toContain(named)
+  expect(reading.read(at)).toEqual(readingIn(landedInto(repo, CHANGES)).read(at))
 })
 
 test("a page of a page type the same change declares is in the shadow as it is in a landing", () => {

@@ -1,5 +1,4 @@
 import { join } from "node:path"
-import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import type { Reading, Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
@@ -23,8 +22,6 @@ export type Listed = {
 }
 
 const IDENTITY = indexIdentity.name
-
-const EDGE = indexEdge.name
 
 const PROPERTY = "page-property"
 
@@ -332,23 +329,6 @@ export function slugsOfType(given: string | Reading, pageTypeSlug: string): read
     }
     return [...found].sort()
   })
-}
-
-export function edgeFiledAt(targetId: string, propertySlug: string, sourceId: string): string {
-  return join(EDGE, PAGE, ID, targetId, propertySlug, `${sourceId}${ENDING}`)
-}
-
-export function idsNaming(
-  given: string | Reading,
-  id: string,
-  propertySlug: string
-): readonly string[] {
-  return answered(
-    given,
-    ROOT,
-    `which pages name \`${id}\` as their \`${propertySlug}\``,
-    (reading) => endingIn(reading.listing(join(EDGE, PAGE, ID, id, propertySlug)))
-  )
 }
 
 function slugOf(standing: Listed | null, id: string): string | null {
