@@ -92,13 +92,6 @@ function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | n
   return fileProperties.get(said.pageType) !== null
 }
 
-const NOTHING_DECLARES =
-  "these pages declare no property carrying a `unique`, so no identity would be filed — the index refuses rather than answering empty"
-
-export function refusingEmpty(unique: ReadonlyMap<string, Identifier>, pages: number): undefined {
-  if (pages > 0 && unique.size === 0) throw new Error(NOTHING_DECLARES)
-}
-
 export type Moving = {
   readonly path: string
   readonly before: string | null
@@ -181,7 +174,6 @@ export function settlingOver(
   const overShaped = shapesLaidOn(overlaidOn(reading, [], bodied), written.shapes)
   const wasUnique = uniquePropertiesAt(reading)
   const unique = uniquePropertiesAt(overShaped)
-  if (indexThere(given)) refusingEmpty(unique, held.filter((one) => one.now !== null).length)
   const turned = turningIn(wasUnique, unique)
   const carried = new Map(held.map((one) => [under(repo, one.path), one]))
   const wasPageOf = (path: string): Value | null => {

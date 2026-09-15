@@ -164,9 +164,13 @@ export const indexSettling = {
       statement: "A file whose lines a filing leaves as they were is not filed.",
     },
     {
+      invariantKind: "invariant-kind/absence",
+      statement: "No settle refuses a world for what the index that settle reads has not filed.",
+    },
+    {
       invariantKind: "invariant-kind/departure",
       statement:
-        "A settle into an index that is nowhere yet refuses no world for declaring no property unique.",
+        "A settle into an index that has filed nothing yet files nothing and refuses none.",
     },
     {
       invariantKind: "invariant-kind/absence",

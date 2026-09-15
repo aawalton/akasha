@@ -6,6 +6,7 @@ import {
   type Entry,
   fileKeysIn,
   filePropertiesIn,
+  type Identifier,
   uniquePropertiesIn,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
@@ -24,10 +25,7 @@ import {
 import { under } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import { shapesAmong } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { knownIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
-import {
-  refusingEmpty,
-  settlingOver,
-} from "akasha/page/index/modules/settling/index-settling.module.code.ts"
+import { settlingOver } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import type { Filing } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { indexIn, readingAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
@@ -108,6 +106,13 @@ function referencesStale(
     if (put) keepWhole(at, [], repo)
   }
   return went.sort()
+}
+
+const NOTHING_DECLARES =
+  "these pages declare no property carrying a `unique`, so no identity would be filed — the index refuses rather than answering empty"
+
+function refusingEmpty(unique: ReadonlyMap<string, Identifier>, pages: number): undefined {
+  if (pages > 0 && unique.size === 0) throw new Error(NOTHING_DECLARES)
 }
 
 export function refreshedFrom(

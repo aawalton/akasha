@@ -11,7 +11,6 @@ import {
   A_WITH_CODE,
   aFileHeldNotLoaded,
   aRefreshBlocked,
-  aSettleWithNoUnique,
   aSource,
   aTarget,
   aWorldDeclaringNothing,
@@ -221,8 +220,14 @@ test("pages carrying no property that declares a unique are refused rather than 
   expect(() => refreshedFrom(tree, root, tree)).toThrow("no property carrying a `unique`")
 })
 
-test("a settle over pages declaring no unique is refused rather than filed empty", () => {
-  expect(() => aSettleWithNoUnique().settle()).toThrow("no property carrying a `unique`")
+test("a settle into an index that has filed nothing yet refuses no page the pages declare", () => {
+  const { tree, root } = aWorldWithAnEdge()
+  const value = { id: D, pageTypeSlug: "domain", slug: "d" }
+  const body = bodyOf(value)
+  const indexing = indexingAt(root, tree)
+  indexing.wrote(put(tree, "d.domain.ts", body), body, null)
+
+  expect(indexing.settle()).toEqual([])
 })
 
 test("a world carrying a page and declaring no property at all is refused", () => {

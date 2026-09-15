@@ -43,7 +43,11 @@ export const indexing = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A world carrying pages and declaring no property unique is refused.",
+      statement: "A refresh over pages carrying no property that declares a unique is refused.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "That refusal weighs the pages against the pages rather than against an index.",
     },
     {
       invariantKind: "invariant-kind/departure",

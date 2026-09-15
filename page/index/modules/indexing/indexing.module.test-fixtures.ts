@@ -263,15 +263,6 @@ export function aRefreshBlocked(): Pair {
   return held
 }
 
-export function aSettleWithNoUnique(): Indexing {
-  const tree = heldAt()
-  const [at, value] = aProperty("8", "note", "text-property")
-  const body = bodyOf(value)
-  const indexing = indexingAt(heldAt(), tree)
-  indexing.wrote(put(tree, at, body), body, null)
-  return indexing
-}
-
 export type FileHeld = {
   readonly indexing: Indexing
   readonly root: string
