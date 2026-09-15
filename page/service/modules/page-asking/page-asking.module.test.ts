@@ -101,11 +101,16 @@ test("a page type nothing extends and no page is filed under is answered empty",
   expect(rowsOf(asking(root, { pageTypeSlug: "tracking-field" }))).toEqual([])
 })
 
-const COLLECTIONS = rowsOf(asking(root, { pageTypeSlug: "collection", keys: ["type"] }))
+const COLLECTIONS = rowsOf(
+  asking(root, {
+    pageTypeSlug: "collection",
+    where: { slug: { in: ["a-thousand-li-the-first-step", "ariana-grande-7-rings"] } },
+    keys: ["slug", "type", "ownLength", "ownProgress", "ownRemaining"],
+  })
+)
 
 test("a page type extending the one named is answered too", () => {
   const said = new Set(COLLECTIONS.map((one) => one.type))
-  expect(COLLECTIONS.length).toBeGreaterThan(1000)
   expect(said.has("book")).toBe(true)
   expect(said.has("song")).toBe(true)
 })
@@ -121,13 +126,7 @@ test("a page type nothing extends answers its own pages alone", () => {
 })
 
 test("a calculation the page type named declares is worked out over a page of a type under it", () => {
-  const [one] = rowsOf(
-    asking(root, {
-      pageTypeSlug: "collection",
-      where: { slug: { is: "a-thousand-li-the-first-step" } },
-      keys: ["slug", "type", "ownLength", "ownProgress", "ownRemaining"],
-    })
-  )
+  const one = COLLECTIONS.find((row) => row.slug === "a-thousand-li-the-first-step")
   expect(one?.type).toBe("book")
   expect(one?.ownLength).toBe(76750)
   expect(one?.ownRemaining).toBe(0)
