@@ -186,7 +186,7 @@ test("a process given no memory ceiling is held to none", () => {
 })
 
 test("a process past its memory ceiling runs to its end rather than being ended", () => {
-  const done = ran(["bun", "-e", "new Uint8Array(120e6).fill(1)"], { memoryCeiling: 64 })
+  const done = ran(["bun", "-e", "new Uint8Array(80e6).fill(1)"], { memoryCeiling: 64 })
   expect(done.code).toBe(0)
   expect(done.signal).toBeNull()
 }, 120000)

@@ -182,6 +182,10 @@ export const running = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The mount every group hangs under is never that ancestor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "An ancestor group is written in only where processor time and memory are delegated to that group.",
     },

@@ -75,7 +75,7 @@ export function delegatedAt(own: string): string | null {
     if (holding(at)) return at
     at = dirname(at)
   }
-  return holding(MOUNT) ? MOUNT : null
+  return null
 }
 
 export function madePid(named: string): number | null {
