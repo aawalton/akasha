@@ -1,5 +1,5 @@
-{"propertySlug":"edges","path":"graph/predicate/pages/importers.graph-predicate.ts","id":"01a0a5ea-c621-7904-9d7e-afad974adfe7"}
-{"propertySlug":"edges","path":"graph/predicate/pages/imports.graph-predicate.ts","id":"01a0a5ea-a68e-7327-abc8-739b3ff5cb50"}
+{"propertySlug":"edges","path":"graph/predicate/pages/importers/importers.graph-predicate.ts","id":"01a0a5ea-c621-7904-9d7e-afad974adfe7"}
+{"propertySlug":"edges","path":"graph/predicate/pages/imports/imports.graph-predicate.ts","id":"01a0a5ea-a68e-7327-abc8-739b3ff5cb50"}
 {"propertySlug":"import","fileName":"import-edge.graph-edge.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"import-edge.graph-edge.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.test.ts"}
 {"propertySlug":"import","fileName":"import-edge.graph-edge.ts","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"}
