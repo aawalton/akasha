@@ -8,15 +8,15 @@ export const messageNaming = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message page is named for the last twelve hex of the message's id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An id is read for its hex alone, whether or not dashes part them.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name opens with the message page type's slug.",
     },
   ],
