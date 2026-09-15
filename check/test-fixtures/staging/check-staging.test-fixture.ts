@@ -34,6 +34,10 @@ export const checkStaging = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A page named in the checkout is answered under its id as well.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement:
         "A change over the checkout reads what it carries, then what it was handed, then the disk.",
     },

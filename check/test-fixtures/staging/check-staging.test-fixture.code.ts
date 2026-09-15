@@ -5,7 +5,7 @@ import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
 import { importIn } from "akasha/page/index/import/index-import.index.code.ts"
 import { indexImport } from "akasha/page/index/import/index-import.index.ts"
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
-import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { idFiled, listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   entriesFiled,
   noImportersFiled,
@@ -37,6 +37,7 @@ export function named(
   id: string
 ): undefined {
   listedFiled(root, pageType, slug, [{ path: at, id }])
+  idFiled(root, id, [{ path: at, id }])
 }
 
 function besided(root: string, entries: readonly Entry[]): undefined {
