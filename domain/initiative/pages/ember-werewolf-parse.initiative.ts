@@ -17,6 +17,11 @@ export const emberWerewolfParse = {
       workingMemory:
         "The Update 50 figures on the 21 million Iron Atronach are 176.7k for this setup and 150.4k for crafted-only, both on Nightblade, the strongest werewolf class. They come from a simulator assuming every light attack lands and bash weaving, so a real parse falls short, and the margin over 135k is why the farmed setup is worth the runs. Food is Braised Rabbit with Spring Vegetables, and potions are Armor from Bugloss, Mountain Flower and Mudcrab Chitin.",
     },
+    {
+      statement: "An inventory capture reaches akasha again.",
+      workingMemory:
+        "The newest inventory snapshot page is at-2026-08-29-20-59-15, and no capture has landed in the seventeen days since, so nothing in akasha shows what a character wears now. Why captures stopped is not yet found. Equipment reaches akasha only through these snapshots: there is no per-character equipment page type, and worn items are the bag 0 rows of a snapshot's stacks file.",
+    },
   ],
   constraints: [
     "Update 50 is live, and Update 51 lands on 28 September 2026 repricing every werewolf ability, so this build shifts under the work.",
