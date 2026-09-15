@@ -49,7 +49,7 @@ export const alanHarness = {
     "domain/voice-core",
     "domain/web-build-version",
     "domain/web-page-answers",
-    "domain/web-security-headers",
+    "domain/web-security-header",
     "domain/web-static-assets",
     "domain/workspace-paths",
     "module/overdue-rolling",

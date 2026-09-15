@@ -968,8 +968,8 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/web-page-answers/.server/answer-page-write/answer-page-write.module.ts","id":"01a0640f-8510-7ab5-87bf-f593cb1eb7a7"}
 {"propertySlug":"invariant-kind","path":"alan/harness/web-page-answers/modules/nav-icon-svg/nav-icon-svg.module.ts","id":"01a0640f-8510-721d-88b0-b37b2bda4681"}
 {"propertySlug":"invariant-kind","path":"alan/harness/web-page-answers/web-page-answers.domain.ts","id":"01a0655a-b2a8-78a3-9dec-43e67b15bf10"}
-{"propertySlug":"invariant-kind","path":"alan/harness/web-security-headers/modules/security-headers/security-headers.module.ts","id":"01a05c48-deeb-7008-8b99-8ccaf9ccafa6"}
-{"propertySlug":"invariant-kind","path":"alan/harness/web-security-headers/web-security-headers.domain.ts","id":"01a05c48-deeb-7007-9fa8-e8205045f0c1"}
+{"propertySlug":"invariant-kind","path":"alan/harness/web-security-header/modules/security-headers/security-headers.module.ts","id":"01a05c48-deeb-7008-8b99-8ccaf9ccafa6"}
+{"propertySlug":"invariant-kind","path":"alan/harness/web-security-header/web-security-header.domain.ts","id":"01a05c48-deeb-7007-9fa8-e8205045f0c1"}
 {"propertySlug":"invariant-kind","path":"alan/harness/web-static-assets/modules/build-directory/build-directory.module.ts","id":"01a08db3-6723-70df-8ccd-9abb25c56c16"}
 {"propertySlug":"invariant-kind","path":"alan/harness/web-static-assets/modules/serve-static/serve-static.module.ts","id":"01a05c48-deeb-7006-8e9c-b8c5539dd296"}
 {"propertySlug":"invariant-kind","path":"alan/harness/web-static-assets/web-static-assets.domain.ts","id":"01a05c48-deeb-7005-87e8-e99206ff06ca"}

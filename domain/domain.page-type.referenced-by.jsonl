@@ -211,7 +211,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/voice-core/voice-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/web-build-version/web-build-version.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/web-page-answers/web-page-answers.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/web-security-headers/web-security-headers.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/web-security-header/web-security-header.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/web-static-assets/web-static-assets.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/workspace-paths/workspace-paths.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/library/library.domain.ts"}
