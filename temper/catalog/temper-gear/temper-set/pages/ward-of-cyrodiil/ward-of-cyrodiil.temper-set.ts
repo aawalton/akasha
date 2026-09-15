@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const wardOfCyrodiil = {
   id: "019e66ec-79de-7618-98ff-fb21dc76f701",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "ward-of-cyrodiil",
   title: "Ward of Cyrodiil",
   key: "ward-of-cyrodiil",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const vestureOfDarlocBrae = {
   id: "019e66e7-6aa7-7456-ba1d-33633a5e6ac4",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "vesture-of-darloc-brae",
   title: "Vesture of Darloc Brae",
   key: "vesture-of-darloc-brae",

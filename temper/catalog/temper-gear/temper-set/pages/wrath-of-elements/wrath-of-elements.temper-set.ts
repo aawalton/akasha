@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const wrathOfElements = {
   id: "019e6484-5fdb-7bcc-afb4-4d41c351d65e",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "wrath-of-elements",
   title: "Wrath of Elements",
   key: "wrath-of-elements",

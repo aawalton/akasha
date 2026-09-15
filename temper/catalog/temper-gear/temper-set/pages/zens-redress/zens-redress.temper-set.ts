@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const zensRedress = {
   id: "019e66e6-a0e9-764e-976e-fa8493df0ea8",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "zens-redress",
   title: "Z'en's Redress",
   key: "zens-redress",

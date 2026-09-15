@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const undauntedBastion = {
   id: "019e66e6-a0e0-7874-bd02-a8b1d11a439b",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "undaunted-bastion",
   title: "Undaunted Bastion",
   key: "undaunted-bastion",

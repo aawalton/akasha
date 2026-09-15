@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const valkynSkoria = {
   id: "019e6484-6021-7dd6-8949-0a91264ce102",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "valkyn-skoria",
   title: "Valkyn Skoria",
   key: "valkyn-skoria",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const trackersLash = {
   id: "019e66ec-7998-7d77-8339-ffe5f60369ec",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "trackers-lash",
   title: "Tracker's Lash",
   key: "trackers-lash",

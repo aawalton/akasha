@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const unflinchingUltimate = {
   id: "019e66e7-6a26-771d-a8dc-dc3ff4b4e5cc",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "unflinching-ultimate",
   title: "Unflinching Ultimate",
   key: "unflinching-ultimate",

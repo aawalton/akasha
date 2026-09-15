@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const zaan = {
   id: "019e6484-6024-7bdf-9c36-548ec92d46ea",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "zaan",
   title: "Zaan",
   key: "zaan",

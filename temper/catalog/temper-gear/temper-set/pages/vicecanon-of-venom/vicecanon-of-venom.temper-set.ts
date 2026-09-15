@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const vicecanonOfVenom = {
   id: "019e66ec-79c1-7ba3-aaea-cc3b891d7534",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "vicecanon-of-venom",
   title: "Vicecanon of Venom",
   key: "vicecanon-of-venom",

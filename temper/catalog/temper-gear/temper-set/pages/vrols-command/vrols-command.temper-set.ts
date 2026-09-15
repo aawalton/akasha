@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const vrolsCommand = {
   id: "019e66ec-7efc-7843-82cc-11bdff707804",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "vrols-command",
   title: "Vrol's Command",
   key: "vrols-command",

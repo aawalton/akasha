@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const vivecsDuality = {
   id: "019e66e7-6aa8-7996-96d5-d7e516b7bf6e",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "vivecs-duality",
   title: "Vivec's Duality",
   key: "vivecs-duality",

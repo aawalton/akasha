@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const umbralEdge = {
   id: "019e6484-5fe9-7a79-8f46-ec9df21a58d5",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "umbral-edge",
   title: "Umbral Edge",
   key: "umbral-edge",

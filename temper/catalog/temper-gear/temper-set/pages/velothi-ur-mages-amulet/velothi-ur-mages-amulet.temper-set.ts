@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const velothiUrMagesAmulet = {
   id: "019e6484-6044-7b18-ab3b-6139519f6ab3",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "velothi-ur-mages-amulet",
   title: "Velothi Ur-Mage's Amulet",
   key: "velothi-ur-mages-amulet",

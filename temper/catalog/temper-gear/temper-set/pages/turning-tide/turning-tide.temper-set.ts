@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const turningTide = {
   id: "019e66e6-a0dd-734c-9ffe-36a1e7edde7c",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "turning-tide",
   title: "Turning Tide",
   key: "turning-tide",

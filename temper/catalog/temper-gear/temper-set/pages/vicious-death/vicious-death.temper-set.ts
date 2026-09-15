@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const viciousDeath = {
   id: "019e66ec-79cf-73fc-aa20-8896ee6a8435",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "vicious-death",
   title: "Vicious Death",
   key: "vicious-death",

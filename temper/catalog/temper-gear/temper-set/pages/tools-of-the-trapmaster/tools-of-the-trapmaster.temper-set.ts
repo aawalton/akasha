@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const toolsOfTheTrapmaster = {
   id: "019e66e7-6a25-72ce-b975-d54a43d19e24",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "tools-of-the-trapmaster",
   title: "Tools of the Trapmaster",
   key: "tools-of-the-trapmaster",

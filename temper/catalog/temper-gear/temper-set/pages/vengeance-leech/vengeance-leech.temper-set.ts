@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const vengeanceLeech = {
   id: "019e66ec-79b4-712e-93a9-8975720bd6d2",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "vengeance-leech",
   title: "Vengeance Leech",
   key: "vengeance-leech",

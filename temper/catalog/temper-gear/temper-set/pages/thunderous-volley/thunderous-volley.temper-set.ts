@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const thunderousVolley = {
   id: "019e6484-5fd6-7375-bd04-32ac6393c747",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "thunderous-volley",
   title: "Thunderous Volley",
   key: "thunderous-volley",

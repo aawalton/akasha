@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const varensLegacy = {
   id: "019e668e-9a72-7b18-b371-4adc22e15d16",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "varens-legacy",
   title: "Varen's Legacy",
   key: "varens-legacy",

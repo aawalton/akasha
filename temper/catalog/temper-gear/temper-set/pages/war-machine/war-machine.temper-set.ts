@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const warMachine = {
   id: "019e66ec-7f0b-7eed-b54a-642ed05a7282",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "war-machine",
   title: "War Machine",
   key: "war-machine",

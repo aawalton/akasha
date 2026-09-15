@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const toothrow = {
   id: "019e66e6-a0d7-7e4b-97ef-dafc54efde95",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "toothrow",
   title: "Toothrow",
   key: "toothrow",

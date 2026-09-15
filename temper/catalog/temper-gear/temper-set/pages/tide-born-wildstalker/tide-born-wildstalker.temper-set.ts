@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const tideBornWildstalker = {
   id: "019e66e7-6a23-7f07-99b2-1c3d7a1bb1ac",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "tide-born-wildstalker",
   title: "Tide-Born Wildstalker",
   key: "tide-born-wildstalker",

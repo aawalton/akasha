@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const whorlOfTheDepths = {
   id: "019e66ec-7f1b-760b-8a0f-17c8d9a8c217",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "whorl-of-the-depths",
   title: "Whorl of the Depths",
   key: "whorl-of-the-depths",

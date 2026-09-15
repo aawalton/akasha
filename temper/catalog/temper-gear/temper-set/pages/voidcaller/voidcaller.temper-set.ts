@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const voidcaller = {
   id: "019e66e7-6aa9-7dcb-8aab-e65afd08ce04",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "voidcaller",
   title: "Voidcaller",
   key: "voidcaller",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const wayOfMartialKnowledge = {
   id: "019e66e7-6ab0-716b-854f-31799b8d75be",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "way-of-martial-knowledge",
   title: "Way of Martial Knowledge",
   key: "way-of-martial-knowledge",

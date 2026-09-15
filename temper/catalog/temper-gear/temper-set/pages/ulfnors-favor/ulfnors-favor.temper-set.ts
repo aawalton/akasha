@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const ulfnorsFavor = {
   id: "019e66e6-a0df-777d-871a-c914dec9c539",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "ulfnors-favor",
   title: "Ulfnor's Favor",
   key: "ulfnors-favor",

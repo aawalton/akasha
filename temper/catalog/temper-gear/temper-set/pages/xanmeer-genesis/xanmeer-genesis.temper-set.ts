@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const xanmeerGenesis = {
   id: "019e66e7-6a2a-70fa-a50d-76c54cb3cc58",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "xanmeer-genesis",
   title: "Xanmeer Genesis",
   key: "xanmeer-genesis",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const willpower = {
   id: "019e66ec-79fc-7049-98d7-ba8363977a09",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "willpower",
   title: "Willpower",
   key: "willpower",

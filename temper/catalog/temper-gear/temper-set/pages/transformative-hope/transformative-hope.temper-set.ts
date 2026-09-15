@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const transformativeHope = {
   id: "019e66ec-7eb0-750d-9172-cbb78f6c7006",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "transformative-hope",
   title: "Transformative Hope",
   key: "transformative-hope",

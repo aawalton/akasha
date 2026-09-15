@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const velidreth = {
   id: "019e6484-6022-7d0b-a062-73b5e900418f",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "velidreth",
   title: "Velidreth",
   key: "velidreth",

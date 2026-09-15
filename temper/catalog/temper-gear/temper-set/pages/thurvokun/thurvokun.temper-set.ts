@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const thurvokun = {
   id: "019e6484-601f-7eae-858b-051b4dcf3674",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "thurvokun",
   title: "Thurvokun",
   key: "thurvokun",

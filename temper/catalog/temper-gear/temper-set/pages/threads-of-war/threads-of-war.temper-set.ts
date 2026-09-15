@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const threadsOfWar = {
   id: "019e668e-9a6c-77dc-95f9-a53aeacba0df",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "threads-of-war",
   title: "Threads of War",
   key: "threads-of-war",

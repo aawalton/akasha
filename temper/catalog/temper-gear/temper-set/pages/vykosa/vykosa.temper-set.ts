@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const vykosa = {
   id: "019e6484-6023-7be5-bdc9-8b82c7dfb234",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "vykosa",
   title: "Vykosa",
   key: "vykosa",

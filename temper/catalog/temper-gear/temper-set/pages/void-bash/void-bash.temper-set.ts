@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const voidBash = {
   id: "019e6484-5fd9-706e-b092-fb9b92bcf419",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "void-bash",
   title: "Void Bash",
   key: "void-bash",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const torugsPact = {
   id: "019e668e-9a6d-75f2-8b1e-40cb8ea21ad4",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "torugs-pact",
   title: "Torug's Pact",
   key: "torugs-pact",

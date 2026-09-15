@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const vanguardsChallenge = {
   id: "019e66ec-79a6-74c2-bf18-d4b4227f5436",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "vanguards-challenge",
   title: "Vanguard's Challenge",
   key: "vanguards-challenge",

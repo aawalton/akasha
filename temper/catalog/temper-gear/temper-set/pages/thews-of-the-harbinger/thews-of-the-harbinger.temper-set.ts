@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const thewsOfTheHarbinger = {
   id: "019e66ec-798b-7286-964a-74be836e8419",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "thews-of-the-harbinger",
   title: "Thews of the Harbinger",
   key: "thews-of-the-harbinger",

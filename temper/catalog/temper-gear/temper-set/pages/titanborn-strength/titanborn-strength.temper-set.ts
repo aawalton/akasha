@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const titanbornStrength = {
   id: "019e66e6-a0d6-7d7f-85a6-2f6ed988f791",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "titanborn-strength",
   title: "Titanborn Strength",
   key: "titanborn-strength",

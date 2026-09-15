@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const twinSisters = {
   id: "019e66e7-6aa0-7cf5-bd2f-9619798b3bf1",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "twin-sisters",
   title: "Twin Sisters",
   key: "twin-sisters",

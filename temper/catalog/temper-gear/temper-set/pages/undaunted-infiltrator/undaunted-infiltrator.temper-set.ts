@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const undauntedInfiltrator = {
   id: "019e66e6-a0e1-7ab2-a4f7-5e8a53903251",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "undaunted-infiltrator",
   title: "Undaunted Infiltrator",
   key: "undaunted-infiltrator",

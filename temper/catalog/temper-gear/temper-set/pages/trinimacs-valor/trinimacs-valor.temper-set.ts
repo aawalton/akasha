@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const trinimacsValor = {
   id: "019e66e7-6a9f-79b3-a491-70e7cafef46a",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "trinimacs-valor",
   title: "Trinimac's Valor",
   key: "trinimacs-valor",

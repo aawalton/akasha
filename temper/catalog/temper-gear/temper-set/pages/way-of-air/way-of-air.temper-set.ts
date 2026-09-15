@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const wayOfAir = {
   id: "019e66e7-6aad-78bb-9970-dd7bb86bab14",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "way-of-air",
   title: "Way of Air",
   key: "way-of-air",

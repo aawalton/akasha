@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const twiceBornStar = {
   id: "019e668e-9a6f-70e0-b6e1-b9a6ea195ed7",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "twice-born-star",
   title: "Twice-Born Star",
   key: "twice-born-star",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const virulentShot = {
   id: "019e6484-5fd8-713a-b04d-e7cc328739d6",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "virulent-shot",
   title: "Virulent Shot",
   key: "virulent-shot",

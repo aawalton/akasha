@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const thunderCaller = {
   id: "019e66e6-a0d5-7bfa-a21b-d1fb43b60a38",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "thunder-caller",
   title: "Thunder Caller",
   key: "thunder-caller",

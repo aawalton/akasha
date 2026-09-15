@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const vampireCloak = {
   id: "019e66e7-6aa3-75db-9d5c-e50988de7fad",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "vampire-cloak",
   title: "Vampire Cloak",
   key: "vampire-cloak",

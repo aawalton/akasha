@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const xanmeerSpellweaver = {
   id: "019e66e7-6a2b-74da-ba9d-9ef177bca14e",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "xanmeer-spellweaver",
   title: "Xanmeer Spellweaver",
   key: "xanmeer-spellweaver",

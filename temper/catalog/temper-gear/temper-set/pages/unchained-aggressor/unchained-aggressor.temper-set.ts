@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const unchainedAggressor = {
   id: "019e668e-9a70-7e07-b644-085ea51b3c74",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "unchained-aggressor",
   title: "Unchained Aggressor",
   key: "unchained-aggressor",

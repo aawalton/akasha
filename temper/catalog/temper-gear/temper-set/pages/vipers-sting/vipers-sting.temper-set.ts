@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const vipersSting = {
   id: "019e66e6-a0e7-7221-ae4d-d6bdffdef2b2",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "vipers-sting",
   title: "Viper's Sting",
   key: "vipers-sting",

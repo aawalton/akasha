@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const timelessBlessing = {
   id: "019e66ec-7e92-74dd-8682-f75ea6d8a384",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "timeless-blessing",
   title: "Timeless Blessing",
   key: "timeless-blessing",

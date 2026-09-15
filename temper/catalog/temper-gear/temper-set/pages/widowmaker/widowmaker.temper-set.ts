@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const widowmaker = {
   id: "019e66e6-a0e8-74f8-9784-48b230f1e17f",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "widowmaker",
   title: "Widowmaker",
   key: "widowmaker",

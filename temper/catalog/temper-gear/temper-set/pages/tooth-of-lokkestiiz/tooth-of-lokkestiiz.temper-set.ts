@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const toothOfLokkestiiz = {
   id: "019e66ec-7ea1-740b-a058-e7bef21bc95c",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "tooth-of-lokkestiiz",
   title: "Tooth of Lokkestiiz",
   key: "tooth-of-lokkestiiz",

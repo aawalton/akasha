@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const wrathsun = {
   id: "019e6484-5fea-7b36-9082-557a40dcbdc5",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "wrathsun",
   title: "Wrathsun",
   key: "wrathsun",

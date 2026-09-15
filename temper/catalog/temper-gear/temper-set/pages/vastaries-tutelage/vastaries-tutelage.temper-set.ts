@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const vastariesTutelage = {
   id: "019e668e-9a73-79c9-b6d2-64bd85a65bfc",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "vastaries-tutelage",
   title: "Vastarie's Tutelage",
   key: "vastaries-tutelage",
