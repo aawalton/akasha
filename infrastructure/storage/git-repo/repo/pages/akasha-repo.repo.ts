@@ -2,7 +2,7 @@ import type { Repo } from "akasha/infrastructure/storage/git-repo/repo/repo.page
 
 export const akashaRepo = {
   id: "01a06975-df76-7185-a7d4-ff026aece45c",
-  type: "repo",
+  type: "page-type/repo",
   slug: "akasha-repo",
   definition: "the repository nothing tracked is outside",
   invariants: [
