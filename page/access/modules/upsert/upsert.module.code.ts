@@ -2,7 +2,6 @@ import { upsertFilePage } from "akasha/page/access/modules/file-write/file-write
 import { upsertFilePages } from "akasha/page/access/modules/file-write-many/file-write-many.module.code.ts"
 import {
   enforcePipelineScope,
-  rejectDefinitionTier,
   rejectReadOnlyKeys,
   requireFileBacked,
 } from "akasha/page/access/modules/guards/guards.module.code.ts"
@@ -52,7 +51,6 @@ export type BulkUpsertPagesArgs<T extends Record<string, unknown> = Record<strin
 export async function upsertPage<T extends Record<string, unknown> = Record<string, Json>>(
   args: UpsertPageArgs<T>
 ): Promise<Page> {
-  rejectDefinitionTier(args.pageTypeSlug, "upsertPage")
   rejectReadOnlyKeys("upsertPage", args.set)
   enforcePipelineScope("upsertPage", args.pipelineScope, {
     pageTypeSlug: args.pageTypeSlug,
@@ -74,7 +72,6 @@ export async function upsertPage<T extends Record<string, unknown> = Record<stri
 export async function upsertPages<T extends Record<string, unknown> = Record<string, Json>>(
   args: UpsertPagesArgs<T>
 ): Promise<readonly Page[]> {
-  rejectDefinitionTier(args.pageTypeSlug, "upsertPages")
   for (const item of args.items) rejectReadOnlyKeys("upsertPages", item.set)
   for (const item of args.items) {
     enforcePipelineScope("upsertPages", args.pipelineScope, {
@@ -94,7 +91,6 @@ export async function upsertPages<T extends Record<string, unknown> = Record<str
 export async function bulkUpsertPages<T extends Record<string, unknown> = Record<string, Json>>(
   args: BulkUpsertPagesArgs<T>
 ): Promise<readonly Page[]> {
-  rejectDefinitionTier(args.pageTypeSlug, "bulkUpsertPages")
   for (const item of args.items) rejectReadOnlyKeys("bulkUpsertPages", item)
   for (const item of args.items) {
     enforcePipelineScope("bulkUpsertPages", args.pipelineScope, {

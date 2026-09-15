@@ -11,23 +11,6 @@ function isDefinitionTierSlug(slug: string | undefined): slug is DefinitionTierS
 
 type PipelineSeqLike = number | string
 
-class DefinitionTierWriteError extends Error {
-  readonly slug: string
-  constructor(slug: string, op: string) {
-    const replacement =
-      slug === "page-type" ? "createPageType or patchPageTypeById" : "patchPropertyDefinitionById"
-    super(
-      `${op}: slug "${slug}" is definition-tier; use ${replacement} from "@akasha/pages-access"`
-    )
-    this.name = "DefinitionTierWriteError"
-    this.slug = slug
-  }
-}
-
-export function rejectDefinitionTier(slug: string, op: string): undefined {
-  if (isDefinitionTierSlug(slug)) throw new DefinitionTierWriteError(slug, op)
-}
-
 class PageTypeNotFileBacked extends Error {
   readonly slug: string
   constructor(op: string, slug: string) {

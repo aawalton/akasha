@@ -4,7 +4,6 @@ import {
 } from "akasha/page/access/modules/file-write/file-write.module.code.ts"
 import {
   enforcePipelineScope,
-  rejectDefinitionTier,
   rejectReadOnlyKeys,
   requireFileBacked,
 } from "akasha/page/access/modules/guards/guards.module.code.ts"
@@ -35,7 +34,6 @@ export type CreatePageArgs<T extends Record<string, unknown> = Record<string, Js
 export async function createPage<T extends Record<string, unknown> = Record<string, Json>>(
   args: CreatePageArgs<T>
 ): Promise<Page> {
-  rejectDefinitionTier(args.pageTypeSlug, "createPage")
   rejectReadOnlyKeys("createPage", args.properties)
   enforcePipelineScope("createPage", args.pipelineScope, {
     pageTypeSlug: args.pageTypeSlug,
@@ -69,7 +67,6 @@ const CREATED_OVER_SERVER = z.looseObject({ page: z.unknown(), created: z.boolea
 export async function createPageIfAbsent<T extends Record<string, unknown> = Record<string, Json>>(
   args: CreatePageIfAbsentArgs<T>
 ): Promise<CreatePageIfAbsentResult> {
-  rejectDefinitionTier(args.pageTypeSlug, "createPageIfAbsent")
   rejectReadOnlyKeys("createPageIfAbsent", args.properties)
   enforcePipelineScope("createPageIfAbsent", args.pipelineScope, {
     pageTypeSlug: args.pageTypeSlug,

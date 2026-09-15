@@ -4,7 +4,6 @@ import {
 } from "akasha/page/access/modules/file-write/file-write.module.code.ts"
 import {
   enforcePipelineScope,
-  rejectDefinitionTier,
   rejectReadOnlyKeys,
   rejectWholesaleTagsSet,
   requireFileBacked,
@@ -41,7 +40,6 @@ async function callPagePatch<T extends Record<string, unknown> = Record<string, 
   args: PatchPageArgs<T>,
   atMostOne = false
 ): Promise<readonly Page[]> {
-  rejectDefinitionTier(args.pageTypeSlug, "patchPage")
   rejectReadOnlyKeys("patchPage", args.set)
   rejectWholesaleTagsSet("patchPage", args.set)
   enforcePipelineScope("patchPage", args.pipelineScope, {
@@ -97,7 +95,6 @@ export type PatchPageByIdArgs<T extends Record<string, unknown> = Record<string,
 export async function patchPageById<T extends Record<string, unknown> = Record<string, Json>>(
   args: PatchPageByIdArgs<T>
 ): Promise<Page | null> {
-  rejectDefinitionTier(args.pageTypeSlug, "patchPageById")
   rejectReadOnlyKeys("patchPageById", args.set)
   rejectWholesaleTagsSet("patchPageById", args.set)
   enforcePipelineScope("patchPageById", args.pipelineScope, {
