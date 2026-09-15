@@ -2,7 +2,7 @@ import type { ContextWarrant } from "akasha/domain/context/warrant/context-warra
 
 export const personItself = {
   id: "01a0595f-f1a6-7dc0-bd43-a634801f920a",
-  type: "context-warrant",
+  type: "page-type/context-warrant",
   slug: "person-itself",
   definition: "what a seat must read for the person it states",
   code: "ts",

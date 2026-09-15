@@ -2,7 +2,7 @@ import type { ContextWarrant } from "akasha/domain/context/warrant/context-warra
 
 export const initiativeAncestors = {
   id: "01a058d6-2843-7000-81b8-b20476cc7fef",
-  type: "context-warrant",
+  type: "page-type/context-warrant",
   slug: "initiative-ancestors",
   definition: "what a seat must read for the initiatives above the one it states",
   code: "ts",

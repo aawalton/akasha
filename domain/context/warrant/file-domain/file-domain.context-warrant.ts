@@ -2,7 +2,7 @@ import type { ContextWarrant } from "akasha/domain/context/warrant/context-warra
 
 export const fileDomain = {
   id: "01a04f58-a7ee-7000-94ad-769aa16fc838",
-  type: "context-warrant",
+  type: "page-type/context-warrant",
   slug: "file-domain",
   definition: "what a seat must read for where the file's page sits",
   code: "ts",
