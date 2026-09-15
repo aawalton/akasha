@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const googleplayPolicyNotices = {
   id: "01a06860-54a2-748f-bea0-ff635bf33388",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "googleplay-policy-notices",
   title: "Googleplay policy notices",
   matches: [

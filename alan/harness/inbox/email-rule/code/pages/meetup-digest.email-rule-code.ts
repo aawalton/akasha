@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const meetupDigest = {
   id: "01a06860-54a2-7b18-b5ac-3b2fc978b9f4",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "meetup-digest",
   title: "Meetup digest",
   matches: [

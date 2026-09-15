@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const crunchyrollNewDevice = {
   id: "01a06860-54a2-7fb2-b0e6-f034557b9bbc",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "crunchyroll-new-device",
   title: "Crunchyroll new device",
   matches: [

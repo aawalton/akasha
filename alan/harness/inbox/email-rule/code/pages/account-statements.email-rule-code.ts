@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const accountStatements = {
   id: "01a06860-54a1-734a-bad3-b2db41a22e61",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "account-statements",
   title: "Account statements",
   matches: [

@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const dmarcAggregateReport = {
   id: "01a06860-54a2-75dd-8a60-688dd2cc3423",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "dmarc-aggregate-report",
   title: "Dmarc aggregate report",
   matches: [

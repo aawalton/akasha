@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const amyMail = {
   id: "01a06860-54a2-75d5-93c3-200f439f4722",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "amy-mail",
   title: "Amy mail",
   matches: [{ field: "from", comparison: "is", values: ["amy@alanwalton.com"] }],

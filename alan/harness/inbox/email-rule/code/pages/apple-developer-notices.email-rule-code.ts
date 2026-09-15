@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const appleDeveloperNotices = {
   id: "01a06860-54a2-7e9e-a022-c0af20204aa9",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "apple-developer-notices",
   title: "Apple developer notices",
   matches: [

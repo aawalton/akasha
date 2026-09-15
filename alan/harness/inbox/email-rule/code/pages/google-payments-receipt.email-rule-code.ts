@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const googlePaymentsReceipt = {
   id: "01a06860-54a2-7e49-86d6-d8f59cf70665",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "google-payments-receipt",
   title: "Google payments receipt",
   matches: [

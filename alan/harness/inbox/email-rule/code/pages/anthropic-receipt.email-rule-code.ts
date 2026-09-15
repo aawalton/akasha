@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const anthropicReceipt = {
   id: "01a06860-54a2-717c-a258-2e8e779167cd",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "anthropic-receipt",
   title: "Anthropic receipt",
   matches: [

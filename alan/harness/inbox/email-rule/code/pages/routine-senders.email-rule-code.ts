@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const routineSenders = {
   id: "01a06860-54a2-768c-8854-85a9250c8498",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "routine-senders",
   title: "Routine senders",
   matches: [

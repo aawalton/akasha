@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const alansOutboundMail = {
   id: "01a06860-54a1-7d94-a4d0-eab66bcd5920",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "alans-outbound-mail",
   title: "Alans outbound mail",
   matches: [

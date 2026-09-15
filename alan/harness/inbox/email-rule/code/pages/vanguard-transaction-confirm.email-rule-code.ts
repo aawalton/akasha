@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const vanguardTransactionConfirm = {
   id: "01a06860-54a2-7564-ae67-fb1830491d30",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "vanguard-transaction-confirm",
   title: "Vanguard transaction confirm",
   matches: [

@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const saraplusAkenaAtt = {
   id: "01a06860-54a2-7a2b-8284-3e37ee4f5fce",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "saraplus-akena-att",
   title: "Saraplus akena att",
   matches: [

@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const twitchIsLive = {
   id: "01a06860-54a2-74e4-b1de-c25726f6d96a",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "twitch-is-live",
   title: "Twitch is live",
   matches: [

@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const steamReceipt = {
   id: "01a06860-54a2-73cf-8ef9-1e19d7e02de7",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "steam-receipt",
   title: "Steam receipt",
   matches: [

@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const expertNetworkCalls = {
   id: "01a06860-54a2-7d3b-b617-9c6662d711e4",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "expert-network-calls",
   title: "Expert network calls",
   matches: [

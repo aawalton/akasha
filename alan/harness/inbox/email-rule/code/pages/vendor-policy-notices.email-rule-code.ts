@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const vendorPolicyNotices = {
   id: "01a06860-54a2-7313-ae40-6920a01f9a87",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "vendor-policy-notices",
   title: "Vendor policy notices",
   matches: [

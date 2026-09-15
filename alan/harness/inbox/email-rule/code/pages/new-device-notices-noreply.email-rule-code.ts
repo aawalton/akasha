@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const newDeviceNoticesNoreply = {
   id: "01a06860-54a2-7f53-b0c4-9f51af66dec3",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "new-device-notices-noreply",
   title: "New device notices noreply",
   matches: [

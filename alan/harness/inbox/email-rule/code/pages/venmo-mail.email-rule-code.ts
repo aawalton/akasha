@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const venmoMail = {
   id: "01a06860-54a2-7303-bc4f-9ece2661fe11",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "venmo-mail",
   title: "Venmo mail",
   matches: [{ field: "from", comparison: "is", values: ["venmo@venmo.com"] }],

@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const tsaPrecheckClearPromo = {
   id: "01a06860-54a2-726f-a1c8-605e69131e95",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "tsa-precheck-clear-promo",
   title: "Tsa precheck clear promo",
   matches: [

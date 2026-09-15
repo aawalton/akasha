@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const xkcdComic = {
   id: "01a06860-54a2-7eec-8732-4dd95d2b7eb1",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "xkcd-comic",
   title: "Xkcd comic",
   matches: [{ field: "from", comparison: "ends-with", values: ["mailing.xkcd.com"] }],

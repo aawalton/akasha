@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const marketingSenders = {
   id: "01a06860-54a2-7b07-8558-6dc9a9684e60",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "marketing-senders",
   title: "Marketing senders",
   matches: [

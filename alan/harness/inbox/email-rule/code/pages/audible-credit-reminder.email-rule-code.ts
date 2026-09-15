@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const audibleCreditReminder = {
   id: "01a06860-54a2-7a46-a89d-68dc139e48b9",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "audible-credit-reminder",
   title: "Audible credit reminder",
   matches: [

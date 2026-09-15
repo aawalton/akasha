@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const churchChildrensPrograms = {
   id: "01a06860-54a2-7f9b-a814-0a6d99e01ae1",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "church-childrens-programs",
   title: "Church childrens programs",
   matches: [

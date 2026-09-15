@@ -2,7 +2,7 @@ import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/em
 
 export const anthropicLoginLinks = {
   id: "01a06860-54a2-7e2e-9af9-a45a3d24e5a1",
-  type: "email-rule-code",
+  type: "page-type/email-rule-code",
   slug: "anthropic-login-links",
   title: "Anthropic login links",
   matches: [
