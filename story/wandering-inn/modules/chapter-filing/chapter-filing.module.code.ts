@@ -1,6 +1,7 @@
 import { linkFrom } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -18,6 +19,7 @@ import {
 } from "akasha/story/wandering-inn/modules/chapter/chapter.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
+const PAGE_TYPE = "page-type"
 const PROSE = "prose"
 const TXT = "txt"
 const WORDS = "unit/words"
@@ -89,7 +91,7 @@ export async function fileChapter(chapter: Filing): Promise<string> {
   const root = akashaRoot()
   const slug = chapterPageSlug(chapter.position, chapterSlugOf(chapter.title))
   const values: Value = {
-    type: CHAPTER_PAGE_TYPE,
+    type: namedAs(PAGE_TYPE, CHAPTER_PAGE_TYPE, null),
     slug,
     title: chapter.title,
     story: STORY_ADDRESS,
