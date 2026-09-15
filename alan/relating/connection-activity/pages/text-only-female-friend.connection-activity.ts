@@ -2,7 +2,7 @@ import type { ConnectionActivity } from "akasha/alan/relating/connection-activit
 
 export const textOnlyFemaleFriend = {
   id: "019e9365-9f8c-7f5c-b8e6-ac4d9064fed3",
-  type: "connection-activity",
+  type: "page-type/connection-activity",
   slug: "text-only-female-friend",
   title: "Text-only — female friend",
   connectionActivityAttn: 1.25,

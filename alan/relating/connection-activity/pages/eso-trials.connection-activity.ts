@@ -2,7 +2,7 @@ import type { ConnectionActivity } from "akasha/alan/relating/connection-activit
 
 export const esoTrials = {
   id: "019e931f-60c5-7219-ae7e-05ae92ac6467",
-  type: "connection-activity",
+  type: "page-type/connection-activity",
   slug: "eso-trials",
   title: "ESO Trials",
   connectionActivityAttn: 1,

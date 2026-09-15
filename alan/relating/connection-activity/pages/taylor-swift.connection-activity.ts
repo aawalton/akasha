@@ -2,7 +2,7 @@ import type { ConnectionActivity } from "akasha/alan/relating/connection-activit
 
 export const taylorSwift = {
   id: "019e931f-6388-78d2-b93f-f722013503c3",
-  type: "connection-activity",
+  type: "page-type/connection-activity",
   slug: "taylor-swift",
   title: "Taylor Swift",
   connectionActivityAttn: 1,

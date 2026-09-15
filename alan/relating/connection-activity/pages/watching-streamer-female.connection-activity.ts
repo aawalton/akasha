@@ -2,7 +2,7 @@ import type { ConnectionActivity } from "akasha/alan/relating/connection-activit
 
 export const watchingStreamerFemale = {
   id: "019e9369-dc46-73aa-88a3-8ab9d3d33971",
-  type: "connection-activity",
+  type: "page-type/connection-activity",
   slug: "watching-streamer-female",
   title: "Watching streamer — female",
   connectionActivityAttn: 1,

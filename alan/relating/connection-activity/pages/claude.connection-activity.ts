@@ -2,7 +2,7 @@ import type { ConnectionActivity } from "akasha/alan/relating/connection-activit
 
 export const claude = {
   id: "019e931f-6225-737c-a5ce-460f9825e21b",
-  type: "connection-activity",
+  type: "page-type/connection-activity",
   slug: "claude",
   title: "Claude",
   connectionActivityAttn: 2,
