@@ -59,6 +59,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { musicImportArtist as page } from "akasha/command/pages/music/import-artist/music-import-artist.command.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
@@ -75,6 +76,8 @@ import { todayYYYYMMDD } from "akasha/util/sync/modules/today/today.module.code.
 const ARTIST = "artist"
 
 const SONG = "song"
+
+const PAGE_TYPE = "page-type"
 
 const TXT = "txt"
 
@@ -232,7 +235,7 @@ async function songLanded(
     {
       ...(catalogue.held.get(slug) ?? {}),
       ...fields,
-      type: SONG,
+      type: namedAs(PAGE_TYPE, SONG, null),
       slug,
     },
     artistKeyIn(source)
@@ -338,7 +341,7 @@ export async function gathered(
           named.was["externalIdentity"],
           mbArtistIdentity({ mbid: found, today })
         ),
-        type: ARTIST,
+        type: namedAs(PAGE_TYPE, ARTIST, null),
         slug: named.slug,
       },
     },
