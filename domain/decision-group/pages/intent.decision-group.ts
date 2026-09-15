@@ -2,7 +2,7 @@ import type { DecisionGroup } from "akasha/domain/decision-group/decision-group.
 
 export const intent = {
   id: "01a04e11-9f98-71e8-b821-77545c6be68e",
-  type: "decision-group",
+  type: "page-type/decision-group",
   slug: "intent",
   definition: "a decision that does not hold yet",
   directives: [

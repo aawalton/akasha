@@ -2,7 +2,7 @@ import type { DecisionGroup } from "akasha/domain/decision-group/decision-group.
 
 export const design = {
   id: "01a04e11-9f97-7f4d-b81a-c47eb0d7d43a",
-  type: "decision-group",
+  type: "page-type/decision-group",
   slug: "design",
   definition: "a decision that holds now",
   directives: [
