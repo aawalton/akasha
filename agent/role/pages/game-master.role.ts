@@ -2,7 +2,7 @@ import type { Role } from "akasha/agent/role/role.page-type.types.ts"
 
 export const gameMaster = {
   id: "01a053c5-8d2a-7358-a19d-f3a1c5da0f75",
-  type: "role",
+  type: "page-type/role",
   slug: "game-master",
   definition: "an agent running a game for the people playing it",
   onCall: false,

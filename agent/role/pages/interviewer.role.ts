@@ -2,7 +2,7 @@ import type { Role } from "akasha/agent/role/role.page-type.types.ts"
 
 export const interviewer = {
   id: "01a053c5-8d2b-7d78-bf41-4e1a994fe61f",
-  type: "role",
+  type: "page-type/role",
   slug: "interviewer",
   definition: "an agent drawing out what one person knows, in their own words",
   onCall: false,
