@@ -22,6 +22,10 @@ export const shadowWorld = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "That world's index names no importer of any path.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement:
         "A world whose index answers what a page type carries is built here rather than by each test.",
     },

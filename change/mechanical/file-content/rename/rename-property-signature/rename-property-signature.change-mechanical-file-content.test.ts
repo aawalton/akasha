@@ -22,6 +22,8 @@ test("a bare name is refused where one file declares one name on two types", () 
   )
 })
 
-test("an index that cannot answer refuses rather than narrowing the reach", () => {
-  expect(whyOf(CODE, "Held.one", "two")).toContain("so none were repointed")
+test("a file declaring no type at all is refused", () => {
+  expect(whyOf(CODE, "Held.one", "two")).toBe(
+    "`akasha/one/held/held.module.code.ts` declares no type `Held`"
+  )
 })

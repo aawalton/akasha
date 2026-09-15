@@ -237,7 +237,11 @@ function namedIn(held: Readonly<Record<string, string>>): (path: string) => bool
 export function worldOf(held: Readonly<Record<string, string>>): World {
   return {
     root: NOWHERE,
-    index: { everyPath: () => Object.keys(held), entryShapesAt: () => NO_SHAPES } as never,
+    index: {
+      everyPath: () => Object.keys(held),
+      entryShapesAt: () => NO_SHAPES,
+      importersOf: () => [],
+    } as never,
     textOf: (path) => held[path] ?? null,
     bodyOf: (path) => held[path] ?? null,
     under: () => [],
