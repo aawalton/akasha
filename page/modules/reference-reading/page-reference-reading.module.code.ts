@@ -3,6 +3,7 @@ import {
   answered,
   heldEach,
   listedById,
+  type Named,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
@@ -48,6 +49,15 @@ export function idsNaming(
     if (one.propertySlug === propertySlug && one.id !== null) found.push(one.id)
   }
   return found.sort()
+}
+
+export function namersOf(given: string | Reading, id: string): readonly Named[] {
+  const found: Named[] = []
+  for (const one of referencesOf(given, id)) {
+    if (one.propertySlug === IMPORT) continue
+    found.push({ path: one.path, propertySlug: one.propertySlug })
+  }
+  return found
 }
 
 export function importersOf(given: string | Reading, path: string): readonly string[] {

@@ -3,6 +3,7 @@ import type { Child, Reading } from "akasha/page/index/modules/shape/index-shape
 import {
   idsNaming,
   importersOf,
+  namersOf,
 } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 
 const NAMED_AT = "akasha/b.domain.ts"
@@ -81,6 +82,10 @@ function worldOf(held: Record<string, string>): Reading {
 test("the pages naming a page through one property are answered by id", () => {
   expect(idsNaming(worldOf(HELD), NAMED_ID, "parts")).toEqual([NAMER_ID])
   expect(idsNaming(worldOf(HELD), NAMED_ID, "domain")).toEqual([])
+})
+
+test("who names a page is answered with the property each name comes through, imports left out", () => {
+  expect(namersOf(worldOf(HELD), NAMED_ID)).toEqual([{ path: NAMER_AT, propertySlug: "parts" }])
 })
 
 test("who imports a file beside a page is read from that page's file", () => {
