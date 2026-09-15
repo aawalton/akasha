@@ -20,7 +20,7 @@ const CLUSTERS: Readonly<Record<string, ClusterIntent>> = {
     registryHosts: [REGISTRY_HOST],
     registryMirrorEndpoints: [
       "http://192.168.68.75:30500",
-      "http://192.168.68.90:30500",
+      "http://192.168.68.61:30500",
       "http://192.168.68.93:30500",
     ],
     etcdQuotaBytes: ETCD_QUOTA_8GIB,
