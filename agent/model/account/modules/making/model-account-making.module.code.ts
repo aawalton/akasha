@@ -13,6 +13,7 @@ import { refusalsIn } from "akasha/command/modules/applying/applying.module.code
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { importedFrom, saidAs } from "akasha/page/modules/body/page-body.module.code.ts"
 import {
   exportedAs,
@@ -107,7 +108,7 @@ export function accountPageText(
     ``,
     `export const ${exportedAs(given.slug)} = {`,
     `  id: ${saidAs(given.id)},`,
-    `  type: ${saidAs(PAGE_TYPE_SLUG)},`,
+    `  type: ${saidAs(namedAs(PAGE_TYPE, PAGE_TYPE_SLUG, null))},`,
     `  slug: ${saidAs(given.slug)},`,
     `  provider: ${saidAs(ANTHROPIC)},`,
     `  email: ${saidAs(given.email)},`,

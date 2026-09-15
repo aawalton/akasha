@@ -90,7 +90,7 @@ describe("accountPageText", () => {
     expect(rest.join("\n")).toBe(`
 export const cSeven = {
   id: "01a06400-0000-7000-8000-000000000000",
-  type: "model-account",
+  type: "page-type/model-account",
   slug: "c-seven",
   provider: "model-provider/anthropic",
   email: "seven@example.com",
