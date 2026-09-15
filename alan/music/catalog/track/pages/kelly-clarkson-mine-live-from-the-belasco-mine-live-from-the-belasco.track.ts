@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonMineLiveFromTheBelascoMineLiveFromTheBelasco = {
   id: "01a0a5ae-cf80-7c41-8596-092d4795d62e",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-mine-live-from-the-belasco-mine-live-from-the-belasco",
   ownLength: 3.3723,
   ownProgress: 0,

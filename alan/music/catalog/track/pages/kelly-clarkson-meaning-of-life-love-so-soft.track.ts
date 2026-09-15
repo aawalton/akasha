@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonMeaningOfLifeLoveSoSoft = {
   id: "01a0a5ae-bc58-74d1-90ef-5ce710f801f3",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-meaning-of-life-love-so-soft",
   ownLength: 2.8737666666666666,
   ownProgress: 0,

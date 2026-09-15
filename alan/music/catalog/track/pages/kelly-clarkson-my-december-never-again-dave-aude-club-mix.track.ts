@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonMyDecemberNeverAgainDaveAudeClubMix = {
   id: "01a0a5ae-cb16-76e5-92ac-430f54ab2c78",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-my-december-never-again-dave-aude-club-mix",
   ownLength: 7.912433333333333,
   ownProgress: 0,

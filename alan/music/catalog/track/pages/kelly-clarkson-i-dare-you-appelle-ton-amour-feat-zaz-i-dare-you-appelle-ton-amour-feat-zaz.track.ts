@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonIDareYouAppelleTonAmourFeatZazIDareYouAppelleTonAmourFeatZaz = {
   id: "01a0a5ae-d4d1-724e-a51f-7f43014d3589",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-i-dare-you-appelle-ton-amour-feat-zaz-i-dare-you-appelle-ton-amour-feat-zaz",
   ownLength: 3.6367666666666665,
   ownProgress: 0,

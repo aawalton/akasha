@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonChemistryRedFlagCollector = {
   id: "01a0a5ae-b9f1-7fc8-885e-752bfe9ac447",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-chemistry-red-flag-collector",
   ownLength: 2.982083333333333,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonIDareYouFeatFaouziaIDareYouFeatFaouzia = {
   id: "01a0a5ae-d4ec-7aa4-a081-bd8e273a2dff",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-i-dare-you-feat-faouzia-i-dare-you-feat-faouzia",
   ownLength: 3.60205,
   ownProgress: 0,

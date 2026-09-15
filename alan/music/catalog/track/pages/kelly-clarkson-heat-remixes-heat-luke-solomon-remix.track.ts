@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonHeatRemixesHeatLukeSolomonRemix = {
   id: "01a0a5ae-d640-7087-9b8c-f6659b52dfbb",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-heat-remixes-heat-luke-solomon-remix",
   ownLength: 3.5224,
   ownProgress: 0,

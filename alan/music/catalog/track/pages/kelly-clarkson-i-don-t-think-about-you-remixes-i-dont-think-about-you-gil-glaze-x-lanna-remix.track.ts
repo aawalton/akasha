@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonIDonTThinkAboutYouRemixesIDontThinkAboutYouGilGlazeXLannaRemix = {
   id: "01a0a5ae-d852-7e9f-bfe0-4876a13529d1",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-i-don-t-think-about-you-remixes-i-dont-think-about-you-gil-glaze-x-lanna-remix",
   ownLength: 3.804866666666667,
   ownProgress: 0,

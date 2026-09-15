@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonDanceVaultMixesSinceUBeenGoneRemixesSinceUBeenGoneJasonNevinsAmbient = {
   id: "01a0a5ae-e73b-7f1c-95b9-12eee8e7545b",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-dance-vault-mixes-since-u-been-gone-remixes-since-u-been-gone-jason-nevins-ambient",
   ownLength: 3.490666666666667,
   ownProgress: 0,

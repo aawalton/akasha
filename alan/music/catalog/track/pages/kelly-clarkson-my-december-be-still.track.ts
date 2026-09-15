@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonMyDecemberBeStill = {
   id: "01a0a5ae-ca29-78cb-9b04-b65753734cf5",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-my-december-be-still",
   ownLength: 3.402,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonLoveMeLikeAManLiveLoveMeLikeAManLive = {
   id: "01a0a5ae-daf1-7c08-b84b-275be7805b94",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-love-me-like-a-man-live-love-me-like-a-man-live",
   ownLength: 3.2367,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonMineTySunderlandRemixMine = {
   id: "01a0a5ae-d0a3-751c-8bf5-d448f34e5de3",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-mine-ty-sunderland-remix-mine",
   ownLength: 3.18345,
   ownProgress: 0,

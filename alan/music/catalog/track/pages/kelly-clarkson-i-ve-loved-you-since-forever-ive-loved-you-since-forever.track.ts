@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonIVeLovedYouSinceForeverIveLovedYouSinceForever = {
   id: "01a0a5ae-d893-7ced-b719-3dfff97f2cd7",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-i-ve-loved-you-since-forever-ive-loved-you-since-forever",
   ownLength: 1.3491166666666667,
   ownProgress: 0,

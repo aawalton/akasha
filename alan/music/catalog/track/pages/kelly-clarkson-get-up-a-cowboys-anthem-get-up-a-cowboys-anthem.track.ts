@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonGetUpACowboysAnthemGetUpACowboysAnthem = {
   id: "01a0a5ae-e0c2-7ba0-87c1-ac9b62b5c3c0",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-get-up-a-cowboys-anthem-get-up-a-cowboys-anthem",
   ownLength: 3.77555,
   ownProgress: 0,

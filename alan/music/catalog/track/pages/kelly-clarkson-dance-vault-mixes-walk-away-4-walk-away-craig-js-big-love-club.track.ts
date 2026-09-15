@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonDanceVaultMixesWalkAway4WalkAwayCraigJsBigLoveClub = {
   id: "01a0a5ae-e34d-7dbc-b0c2-7cb45e952b2c",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-dance-vault-mixes-walk-away-4-walk-away-craig-js-big-love-club",
   ownLength: 6.56355,
   ownProgress: 0,

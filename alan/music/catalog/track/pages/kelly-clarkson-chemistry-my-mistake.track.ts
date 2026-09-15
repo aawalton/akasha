@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonChemistryMyMistake = {
   id: "01a0a5ae-b9cf-7a1c-b38b-1d453049cc7a",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-chemistry-my-mistake",
   ownLength: 3.27705,
   ownProgress: 0,

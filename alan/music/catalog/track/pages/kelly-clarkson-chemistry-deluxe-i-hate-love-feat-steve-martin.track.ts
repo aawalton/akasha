@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonChemistryDeluxeIHateLoveFeatSteveMartin = {
   id: "01a0a5ae-b72c-7c35-9df1-2f9c4e120526",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-i-hate-love-feat-steve-martin",
   ownLength: 3.5567166666666665,
   ownProgress: 0,

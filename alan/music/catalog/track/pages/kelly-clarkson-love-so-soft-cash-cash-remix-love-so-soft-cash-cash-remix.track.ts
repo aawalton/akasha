@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonLoveSoSoftCashCashRemixLoveSoSoftCashCashRemix = {
   id: "01a0a5ae-d9e3-7fa9-b56a-980810fb8710",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-love-so-soft-cash-cash-remix-love-so-soft-cash-cash-remix",
   ownLength: 4.279283333333334,
   ownProgress: 0,

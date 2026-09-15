@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonDanceVaultMixesWalkAway2WalkAwayChrisCoxRadioRemix = {
   id: "01a0a5ae-e2de-790a-ac0c-857e1b6af21c",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-dance-vault-mixes-walk-away-2-walk-away-chris-cox-radio-remix",
   ownLength: 3.5122166666666668,
   ownProgress: 0,

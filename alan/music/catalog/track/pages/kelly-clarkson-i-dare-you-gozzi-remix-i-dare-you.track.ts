@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonIDareYouGozziRemixIDareYou = {
   id: "01a0a5ae-d35b-71e5-b867-ffc9fb844abc",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-i-dare-you-gozzi-remix-i-dare-you",
   ownLength: 3.601783333333333,
   ownProgress: 0,

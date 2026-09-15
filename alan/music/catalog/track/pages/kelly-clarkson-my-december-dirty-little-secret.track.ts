@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonMyDecemberDirtyLittleSecret = {
   id: "01a0a5ae-cad0-7d24-826c-3b030c26591b",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-my-december-dirty-little-secret",
   ownLength: 3.5444333333333335,
   ownProgress: 0,

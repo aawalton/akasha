@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonIDareYouMultiLanguageDuetsIDareYou = {
   id: "01a0a5ae-d428-7e35-be59-71387ffd894d",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-i-dare-you-multi-language-duets-i-dare-you",
   ownLength: 3.601783333333333,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonIDareYouMultiLanguageDuetsIDareYouTrauDichFeatGlasperlenspiel = {
   id: "01a0a5ae-d499-77dc-88b1-192cb5cf9aed",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-i-dare-you-multi-language-duets-i-dare-you-trau-dich-feat-glasperlenspiel",
   ownLength: 3.60205,
   ownProgress: 0,

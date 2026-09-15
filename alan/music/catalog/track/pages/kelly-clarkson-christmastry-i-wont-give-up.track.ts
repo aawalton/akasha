@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonChristmastryIWontGiveUp = {
   id: "01a0a5ae-cedc-78fe-a98f-8615a2ed4d2d",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-christmastry-i-wont-give-up",
   ownLength: 3.482683333333333,
   ownProgress: 0,

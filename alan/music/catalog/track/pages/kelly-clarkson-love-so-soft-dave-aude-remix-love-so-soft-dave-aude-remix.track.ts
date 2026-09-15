@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonLoveSoSoftDaveAudeRemixLoveSoSoftDaveAudeRemix = {
   id: "01a0a5ae-d95d-7304-abb3-27741b030884",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-love-so-soft-dave-aude-remix-love-so-soft-dave-aude-remix",
   ownLength: 3.9461166666666667,
   ownProgress: 0,

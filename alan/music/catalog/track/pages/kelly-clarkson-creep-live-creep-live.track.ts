@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonCreepLiveCreepLive = {
   id: "01a0a5ae-da8f-7176-b7ba-b0253d6f2e9f",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-creep-live-creep-live",
   ownLength: 4.142433333333333,
   ownProgress: 0,

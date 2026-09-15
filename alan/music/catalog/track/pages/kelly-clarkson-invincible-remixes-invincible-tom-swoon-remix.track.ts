@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonInvincibleRemixesInvincibleTomSwoonRemix = {
   id: "01a0a5ae-dc23-7ed9-97c8-3f88120e5603",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-invincible-remixes-invincible-tom-swoon-remix",
   ownLength: 4.9413833333333335,
   ownProgress: 0,

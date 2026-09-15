@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonKellyokeFakePlasticTrees = {
   id: "01a0a5ae-d1f7-70e3-8ec6-08b276d999f6",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-kellyoke-fake-plastic-trees",
   ownLength: 4.475983333333334,
   ownProgress: 0,

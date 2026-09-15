@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonKellyokeQueenOfTheNight = {
   id: "01a0a5ae-d1ae-7fbf-8cee-2cce5f13d580",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-kellyoke-queen-of-the-night",
   ownLength: 3.1752,
   ownProgress: 0,

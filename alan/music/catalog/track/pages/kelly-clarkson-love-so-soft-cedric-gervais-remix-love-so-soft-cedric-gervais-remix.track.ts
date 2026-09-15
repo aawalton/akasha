@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonLoveSoSoftCedricGervaisRemixLoveSoSoftCedricGervaisRemix = {
   id: "01a0a5ae-d93b-7ed3-b787-2def4d3f0ba3",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-love-so-soft-cedric-gervais-remix-love-so-soft-cedric-gervais-remix",
   ownLength: 3.2591666666666668,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonIRunToYouTheVoicePerformanceIRunToYouTheVoicePerformance = {
   id: "01a0a5ae-d3bf-74ef-8185-90455ca6042e",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-i-run-to-you-the-voice-performance-i-run-to-you-the-voice-performance",
   ownLength: 2.8396833333333333,
   ownProgress: 0,

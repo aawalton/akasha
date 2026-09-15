@@ -3,7 +3,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 export const kellyClarksonDanceVaultMixesBehindTheseHazelEyesBehindTheseHazelEyesJoeBermudezJosh5 =
   {
     id: "01a0a5ae-e700-7a02-b539-bdbea6b60edf",
-    type: "track",
+    type: "page-type/track",
     slug: "kelly-clarkson-dance-vault-mixes-behind-these-hazel-eyes-behind-these-hazel-eyes-joe-bermudez-josh-5",
     ownLength: 2.9688833333333333,
     ownProgress: 0,

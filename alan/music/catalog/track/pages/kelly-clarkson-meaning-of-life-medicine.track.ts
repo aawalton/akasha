@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonMeaningOfLifeMedicine = {
   id: "01a0a5ae-bd00-7b4e-93c6-14f014ebb52c",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-meaning-of-life-medicine",
   ownLength: 3.1606666666666667,
   ownProgress: 0,

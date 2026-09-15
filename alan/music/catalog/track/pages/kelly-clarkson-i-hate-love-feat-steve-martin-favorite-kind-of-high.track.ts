@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonIHateLoveFeatSteveMartinFavoriteKindOfHigh = {
   id: "01a0a5ae-cfc1-7d44-9319-8a34a91d7ecf",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-i-hate-love-feat-steve-martin-favorite-kind-of-high",
   ownLength: 2.9207833333333335,
   ownProgress: 0,

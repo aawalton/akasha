@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonDanceVaultMixesWalkAway4WalkAwayRalphiRosarioAcappella = {
   id: "01a0a5ae-e3a0-75ea-ad44-a2620fcf032c",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-dance-vault-mixes-walk-away-4-walk-away-ralphi-rosario-acappella",
   ownLength: 3.4571,
   ownProgress: 0,

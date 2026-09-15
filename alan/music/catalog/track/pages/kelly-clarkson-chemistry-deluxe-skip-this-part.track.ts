@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonChemistryDeluxeSkipThisPart = {
   id: "01a0a5ae-b5ce-77dd-bf35-5c64ca20ecf3",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-skip-this-part",
   ownLength: 3.6262166666666666,
   ownProgress: 0,

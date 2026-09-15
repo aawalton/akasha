@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonIDRatherGoBlindLiveIdRatherGoBlindLive = {
   id: "01a0a5ae-dad1-75e8-924a-37889af5bb81",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-i-d-rather-go-blind-live-id-rather-go-blind-live",
   ownLength: 2.9334166666666666,
   ownProgress: 0,

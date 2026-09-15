@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonFavoriteKindOfHighDavidGuettaRemixFavoriteKindOfHigh = {
   id: "01a0a5ae-d044-7682-8126-951d37b3a758",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-favorite-kind-of-high-david-guetta-remix-favorite-kind-of-high",
   ownLength: 2.9207833333333335,
   ownProgress: 0,

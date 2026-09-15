@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonMeaningOfLifeDontYouPretend = {
   id: "01a0a5ae-bdd1-7163-ab99-2a47ef90a4e2",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-meaning-of-life-dont-you-pretend",
   ownLength: 3.2304333333333335,
   ownProgress: 0,

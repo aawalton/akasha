@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonChemistryDeluxeIWontGiveUp = {
   id: "01a0a5ae-b76a-74a8-b726-353d019a43ef",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-i-wont-give-up",
   ownLength: 3.482683333333333,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonLighthouseMotiRemixLighthouseMotiRemix = {
   id: "01a0a5ae-cdde-735c-a5a5-3302163a5682",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-lighthouse-moti-remix-lighthouse-moti-remix",
   ownLength: 2.914283333333333,
   ownProgress: 0,

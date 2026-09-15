@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonItSQuietUptownItsQuietUptown = {
   id: "01a0a5ae-da6d-7d25-82f5-7695a42225b1",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-it-s-quiet-uptown-its-quiet-uptown",
   ownLength: 4.63145,
   ownProgress: 0,

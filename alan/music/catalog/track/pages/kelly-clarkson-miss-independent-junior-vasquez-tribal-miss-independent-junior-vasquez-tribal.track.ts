@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonMissIndependentJuniorVasquezTribalMissIndependentJuniorVasquezTribal = {
   id: "01a0a5ae-e8e2-76d3-bd3d-443112c4efd4",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-miss-independent-junior-vasquez-tribal-miss-independent-junior-vasquez-tribal",
   ownLength: 9.338216666666666,
   ownProgress: 0,

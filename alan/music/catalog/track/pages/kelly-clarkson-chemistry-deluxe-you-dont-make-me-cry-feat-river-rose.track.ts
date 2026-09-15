@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonChemistryDeluxeYouDontMakeMeCryFeatRiverRose = {
   id: "01a0a5ae-b7a1-790f-9322-e7cf6e00febe",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-you-dont-make-me-cry-feat-river-rose",
   ownLength: 3.4120166666666667,
   ownProgress: 0,

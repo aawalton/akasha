@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonInvincibleRemixesInvincibleTydiRadioMix = {
   id: "01a0a5ae-dc08-7373-b90f-53ec5e486321",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-invincible-remixes-invincible-tydi-radio-mix",
   ownLength: 3.6603833333333333,
   ownProgress: 0,

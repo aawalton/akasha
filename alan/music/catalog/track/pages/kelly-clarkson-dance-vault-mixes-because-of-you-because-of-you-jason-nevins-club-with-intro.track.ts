@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonDanceVaultMixesBecauseOfYouBecauseOfYouJasonNevinsClubWithIntro = {
   id: "01a0a5ae-e59b-752e-a69d-4b1ec67b8644",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-dance-vault-mixes-because-of-you-because-of-you-jason-nevins-club-with-intro",
   ownLength: 6.3411,
   ownProgress: 0,

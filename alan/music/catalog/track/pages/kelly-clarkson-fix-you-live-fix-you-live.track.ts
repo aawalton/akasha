@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonFixYouLiveFixYouLive = {
   id: "01a0a5ae-daaf-774f-b6bc-a65f654df111",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-fix-you-live-fix-you-live",
   ownLength: 4.007866666666667,
   ownProgress: 0,

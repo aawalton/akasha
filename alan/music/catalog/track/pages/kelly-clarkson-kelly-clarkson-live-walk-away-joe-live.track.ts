@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonKellyClarksonLiveWalkAwayJoeLive = {
   id: "01a0a5ae-da28-7ecf-8e0b-d5b72dc3420e",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-kelly-clarkson-live-walk-away-joe-live",
   ownLength: 3.7,
   ownProgress: 0,

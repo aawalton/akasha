@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonLoveSoSoftMrColliparkRemixLoveSoSoftMrColliparkRemix = {
   id: "01a0a5ae-d9a0-7258-97d6-4c24aac8abae",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-love-so-soft-mr-collipark-remix-love-so-soft-mr-collipark-remix",
   ownLength: 2.84,
   ownProgress: 0,

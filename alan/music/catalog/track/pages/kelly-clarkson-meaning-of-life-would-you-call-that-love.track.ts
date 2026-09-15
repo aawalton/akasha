@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonMeaningOfLifeWouldYouCallThatLove = {
   id: "01a0a5ae-bd64-7e1e-aaed-40f512b075b9",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-meaning-of-life-would-you-call-that-love",
   ownLength: 2.9702166666666665,
   ownProgress: 0,

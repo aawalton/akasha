@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonHeartbeatSongTheRemixesHeartbeatSongDidrickRemix = {
   id: "01a0a5ae-dd3f-7697-950b-93b4d0911b25",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-heartbeat-song-the-remixes-heartbeat-song-didrick-remix",
   ownLength: 3.2625,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonCatchMyBreathRemixesCatchMyBreathSupasoundRemix = {
   id: "01a0a5ae-e0a1-7f86-adff-adf50485a5f8",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-catch-my-breath-remixes-catch-my-breath-supasound-remix",
   ownLength: 6.117766666666666,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonLoveSoSoftMarkKnightBenRememberRemixLoveSoSoftMarkKnightBenRemember = {
   id: "01a0a5ae-d97e-77fa-a374-15340c28a74e",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-love-so-soft-mark-knight-ben-remember-remix-love-so-soft-mark-knight-ben-remember",
   ownLength: 6.856,
   ownProgress: 0,

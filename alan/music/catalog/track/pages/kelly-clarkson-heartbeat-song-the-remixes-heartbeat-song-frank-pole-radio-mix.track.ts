@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonHeartbeatSongTheRemixesHeartbeatSongFrankPoleRadioMix = {
   id: "01a0a5ae-dd22-7e53-80f6-5f5ea184b5c4",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-heartbeat-song-the-remixes-heartbeat-song-frank-pole-radio-mix",
   ownLength: 3.406816666666667,
   ownProgress: 0,

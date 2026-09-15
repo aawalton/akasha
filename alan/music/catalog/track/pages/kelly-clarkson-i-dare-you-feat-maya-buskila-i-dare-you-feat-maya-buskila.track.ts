@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonIDareYouFeatMayaBuskilaIDareYouFeatMayaBuskila = {
   id: "01a0a5ae-d53d-7359-8ca3-0abe6c290182",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-i-dare-you-feat-maya-buskila-i-dare-you-feat-maya-buskila",
   ownLength: 3.60205,
   ownProgress: 0,
