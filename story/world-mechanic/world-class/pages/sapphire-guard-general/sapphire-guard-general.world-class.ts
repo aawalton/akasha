@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const sapphireGuardGeneral = {
   id: "01a0657e-024a-7a92-a806-676886bc20bf",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "sapphire-guard-general",
   title: "Sapphire Guard General",
   world: "world/the-wandering-inn",

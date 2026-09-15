@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const seekerOfStoriesClassCancelled = {
   id: "01a0657e-024c-77dc-9bb7-a1f2eb160e18",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "seeker-of-stories-class-cancelled",
   title: "Seeker of Stories class cancelled.",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const riffraff = {
   id: "01a0657e-0246-72f0-9524-e1e26e66c878",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "riffraff",
   title: "Riffraff",
   world: "world/the-wandering-inn",

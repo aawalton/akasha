@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const selphidTelekinetic = {
   id: "01a06586-0a2e-75c1-9d4b-b74f0fa79470",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "selphid-telekinetic",
   title: "Selphid Telekinetic",
   world: "world/the-wandering-inn",
