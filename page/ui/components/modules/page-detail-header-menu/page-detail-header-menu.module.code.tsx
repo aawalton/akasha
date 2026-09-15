@@ -4,7 +4,7 @@ import { deletePage } from "akasha/page/access/modules/deleting/deleting.module.
 import { PageActionsMenu } from "akasha/page/ui/components/modules/page-actions-menu/page-actions-menu.module.code.tsx"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
-import { useOptimisticDeletePage } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
+import { useOptimisticDeletePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
 interface PageDetailHeaderMenuProps {

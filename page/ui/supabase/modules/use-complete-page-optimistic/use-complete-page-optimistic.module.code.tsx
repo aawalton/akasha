@@ -9,7 +9,7 @@ import {
   completionValues,
   uncompletionValues,
 } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
-import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
+import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { useCallback, useMemo } from "react"
 
 interface CompletePageArgs {

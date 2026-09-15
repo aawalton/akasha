@@ -8,7 +8,7 @@ import {
 } from "akasha/design/interfaces/primitives/modules/dropdown-menu/dropdown-menu.module.code.tsx"
 import { deletePage } from "akasha/page/access/modules/deleting/deleting.module.code.ts"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { useOptimisticDeletePage } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
+import { useOptimisticDeletePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { MoreHorizontal, Trash2 } from "lucide-react"
 
 const NAV_SLUG = "nav"

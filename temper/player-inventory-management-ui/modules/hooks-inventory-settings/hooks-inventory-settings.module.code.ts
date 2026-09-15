@@ -8,9 +8,9 @@ import { upsertPage, upsertPages } from "akasha/page/access/modules/upsert/upser
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
-import { useOptimisticDeletePages } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-delete-pages/use-optimistic-delete-pages.module.code.ts"
-import { useOptimisticUpsertPage } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"
-import { useOptimisticUpsertPages } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-upsert-pages/use-optimistic-upsert-pages.module.code.ts"
+import { useOptimisticDeletePages } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-pages/use-optimistic-delete-pages.module.code.ts"
+import { useOptimisticUpsertPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"
+import { useOptimisticUpsertPages } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-upsert-pages/use-optimistic-upsert-pages.module.code.ts"
 import type {
   AutomationSettings,
   CharacterAutomationToggles,

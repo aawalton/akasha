@@ -4,7 +4,7 @@ import { ListContentSkeleton } from "akasha/design/interfaces/layout/modules/lis
 import { scrollToCard } from "akasha/design/interfaces/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"
 import { useScrollRestoration } from "akasha/design/interfaces/patterns/modules/use-scroll-restoration/use-scroll-restoration.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
-import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
+import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { applyCompanionMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import type { CompanionBaseRoleId } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"

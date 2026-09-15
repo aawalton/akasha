@@ -27,7 +27,7 @@ import {
 import { useOptionListLookup } from "akasha/page/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
-import { useOptimisticPatchPropertyDefinition } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-patch-property-definition/use-optimistic-patch-property-definition.module.code.ts"
+import { useOptimisticPatchPropertyDefinition } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-property-definition/use-optimistic-patch-property-definition.module.code.ts"
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import {
   type PageTypeSlug,

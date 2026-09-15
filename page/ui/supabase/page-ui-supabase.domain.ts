@@ -6,7 +6,7 @@ export const pageUiSupabase = {
   slug: "page-ui-supabase",
   definition: "the store reached over Supabase",
   parts: [
-    "domain/page-ui-supabase-mutations",
+    "domain/page-ui-supabase-mutation",
     "module/apply-client-view-filters",
     "module/collect-related-ids",
     "module/compose-content-tier-page",
