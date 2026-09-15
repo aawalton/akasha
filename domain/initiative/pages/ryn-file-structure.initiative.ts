@@ -16,12 +16,12 @@ export const rynFileStructure = {
     {
       statement: "One rename carries every page whose folder name that rename breaks.",
       workingMemory:
-        "Renaming `pages-core` was refused until its seven children renamed too: a child folder's name is its slug stripped of the parent's, and the strip stops working. Nothing states that a child's slug opens with its parent's, so the cascade falls out of the folder-naming rule alone and `rename-page` can derive it from which folders stop matching a shape. A list would be wrong: `day` has 256 prefixed children and rightly cascaded to none. Waits on one spelling of that rule, today written three times.",
+        "Waits on one spelling of the folder-naming rule, today written three times: `module/folder-naming`, stripping the parent's names recursively; `module/page-composing`, stripping the page type's slug one level for a page the index has not got; and `module/page-renaming`, reading the folder's own basename. A rename reaches the third, falls back to the second, and never reaches the first. It carries what sits under the old folder with relative paths kept and re-derives nothing about a child.\n",
     },
     {
       statement: "A domain wrapping one page and that page are one page.",
       workingMemory:
-        "Eighteen slugs were held by both a domain page and a page type; all are landed or in flight. The same shape reaches pages that are no page type. Of 54 service-workstations, 14 already sit alone in their own folder under the a-service-workstation-with-its-parts shape, and 2 carry a wrapper domain: temper-watcher and page-service, both in flight. Four more — git-transport, eso-rig, auth-proxy, postgres-annual-dump — wrap a service-cluster and wait on the registry intent below.\n",
+        "No slug is held by both a domain page and a page type any more, so the eighteen are landed, and temper-watcher and page-service with them. 62 of the 482 domains still wrap exactly one page, about 45 of those a domain over a single `modules/<one>` folder and the rest a domain over one domain, as `domain/text` sits over `domain/quote`. Four wrap a service-cluster and wait on the registry intent below: git-transport, eso-rig, auth-proxy and postgres-annual-dump.\n",
     },
     {
       statement: "A property page sits under the page type declaring that property.",
@@ -32,7 +32,7 @@ export const rynFileStructure = {
       statement:
         "A page sits under the page naming it a part rather than in a registry of its own kind.",
       workingMemory:
-        "About 60 stray part edges. Thirty service-workstations, thirteen service-inferences, thirteen readouts, three dashboards and a repo are owned by a scattered domain but filed centrally where they deploy from. `domain/email-watch` at alan/harness/email-watch names `service-workstation/alan-email-worker` at infrastructure/service/workstation/pages. Whether the owning domain or the deploy tree is the right home is unsettled.",
+        "65 stray part edges: 33 service-workstations, 15 readouts, 13 service-inferences, 3 dashboards and 1 repo, each owned by a scattered domain and filed centrally where it deploys from. `domain/email-watch` names `service-workstation/alan-email-worker` at infrastructure/service/workstation/pages. One page names all 13 inferences and one names all 3 dashboards; the 33 workstations come from 21 namers. Whether the owning domain or the deploy tree is the right home is unsettled, and Alan settles it.\n",
     },
   ],
   constraints: [
