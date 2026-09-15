@@ -77,7 +77,7 @@ test("an empty kind list answers nothing", () => {
   expect(edgesInto(NAMED, [], indexOf(REPO_AT))).toEqual([])
 })
 
-test("the folder a relation is read from is the one the edge kind's index page names", () => {
+test("a relation coming in is read from the file beside the page reached", () => {
   const root = relationWorld(1)
 
   expect(edgesInto(TARGET_AT, [RELATION], indexOf(root))).toEqual([

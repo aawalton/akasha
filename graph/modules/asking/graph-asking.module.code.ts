@@ -5,7 +5,6 @@ import {
   type Paging,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import type { Named } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   slugOf,
   textAt,
@@ -19,10 +18,6 @@ const IMPORT_EDGE = "import-edge"
 const RELATION = "relation"
 
 const LOADED_BY = "loaded-by"
-
-const INDEX = "index"
-
-const INDEX_NAME = "name"
 
 const ATTRIBUTES = "attributes"
 
@@ -41,7 +36,6 @@ export type Edge = {
 
 export type Asking = {
   readonly kind: string
-  readonly indexName: string
   readonly attributes: readonly string[]
 }
 
@@ -52,14 +46,6 @@ function askedFor(path: string, kinds: readonly string[]): string {
 type Held = {
   readonly path: string
   readonly value: Value
-}
-
-function textFor(held: Value, key: string, path: string, asked: string): string {
-  const said = textAt(held, key)
-  if (said === null) {
-    throw new Error(`\`${path}\` says no \`${key}\`, so ${asked} could not be answered`)
-  }
-  return said
 }
 
 function heldFor(index: Answering, pageTypeSlug: string, slug: string, asked: string): Held {
@@ -76,15 +62,6 @@ function heldFor(index: Answering, pageTypeSlug: string, slug: string, asked: st
   return { path: found.path, value }
 }
 
-function indexNameFor(index: Answering, named: string, asked: string): string {
-  const address = addressIn(named)
-  if (address.kind !== "qualified") {
-    throw new Error(`\`${named}\` names no page type, so ${asked} could not be answered`)
-  }
-  const found = heldFor(index, address.pageTypeSlug, address.slug, asked)
-  return textFor(found.value, INDEX_NAME, found.path, asked)
-}
-
 function attributesIn(held: Value): readonly string[] {
   const said = held[ATTRIBUTES]
   if (!Array.isArray(said)) return []
@@ -93,11 +70,7 @@ function attributesIn(held: Value): readonly string[] {
 
 function askingFor(index: Answering, kind: string, asked: string): Asking {
   const found = heldFor(index, GRAPH_EDGE, kind, asked)
-  return {
-    kind,
-    indexName: indexNameFor(index, textFor(found.value, INDEX, found.path, asked), asked),
-    attributes: attributesIn(found.value),
-  }
+  return { kind, attributes: attributesIn(found.value) }
 }
 
 function attributeFor(asking: Asking, asked: string): string {
@@ -166,7 +139,7 @@ function relationsInto(
   const held = value === null ? null : textAt(value, ID)
   if (held === null) return []
   const found: Edge[] = []
-  for (const named of index.namersOf(held, asking.indexName)) {
+  for (const named of index.namersOf(held)) {
     found.push({
       kind: asking.kind,
       from: named.path,

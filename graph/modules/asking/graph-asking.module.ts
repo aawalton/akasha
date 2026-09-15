@@ -12,7 +12,7 @@ export const graphAsking = {
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "An edge going out is read from the body and an edge coming in is read from the index.",
+        "An edge going out is read from the body and an edge coming in from beside the page reached.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -20,11 +20,11 @@ export const graphAsking = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "An import edge exists only where the index answers an import edge.",
+      statement: "An import edge exists only where the file beside the page imported says so.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "The index a question is answered from is named by the caller.",
+      invariantKind: "invariant-kind/absence",
+      statement: "No question here names an index.",
     },
     {
       invariantKind: "invariant-kind/departure",
