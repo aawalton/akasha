@@ -7,7 +7,7 @@ export const graph = {
   definition: "what follows from the pages, and what each answer rests on",
   parts: [
     "domain/graph-closure",
-    "domain/graph-predicate",
+    "page-type/graph-predicate",
     "module/graph-asking",
     "page-type/graph-attribute",
     "page-type/graph-edge",
