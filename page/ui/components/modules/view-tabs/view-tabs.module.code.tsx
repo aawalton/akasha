@@ -30,7 +30,7 @@ import {
   ViewTabContextMenu,
   type ViewTabItem,
 } from "akasha/page/ui/components/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx"
-import type { ViewCallbacks } from "akasha/page/ui/mutators/modules/view-callbacks/view-callbacks.module.code.ts"
+import type { ViewCallbacks } from "akasha/page/ui/mutator/modules/view-callbacks/view-callbacks.module.code.ts"
 import { Ellipsis } from "lucide-react"
 import { type CSSProperties, useCallback, useEffect, useRef, useState } from "react"
 

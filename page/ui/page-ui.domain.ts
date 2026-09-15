@@ -17,7 +17,7 @@ export const pageUi = {
     "domain/page-ui-frame",
     "domain/page-ui-markdown",
     "domain/page-ui-media",
-    "domain/page-ui-mutators",
+    "domain/page-ui-mutator",
     "domain/page-ui-perf",
     "domain/page-ui-reorder-verbs",
     "domain/page-ui-supabase",

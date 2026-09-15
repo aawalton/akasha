@@ -26,7 +26,7 @@ import type {
   ViewEffect,
   ViewRow,
 } from "akasha/page/core/view-state/modules/view-state-change/view-state-change.module.code.ts"
-import type { ViewCallbacks } from "akasha/page/ui/mutators/modules/view-callbacks/view-callbacks.module.code.ts"
+import type { ViewCallbacks } from "akasha/page/ui/mutator/modules/view-callbacks/view-callbacks.module.code.ts"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
