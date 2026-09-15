@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const lilithMaxDoYouBelieve = {
   id: "019ea4f5-faa4-7b7c-8c40-7f260a87a648",
-  type: "song",
+  type: "page-type/song",
   slug: "lilith-max-do-you-believe",
   title: "Do You Believe",
   artist: "artist/lilith-max",

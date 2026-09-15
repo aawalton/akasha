@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaBlackbird = {
   id: "019ea4c4-ad59-7956-a880-a549781ad68c",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-blackbird",
   title: "Blackbird",
   artist: "artist/sia",

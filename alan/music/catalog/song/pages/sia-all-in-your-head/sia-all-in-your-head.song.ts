@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaAllInYourHead = {
   id: "019ea4c4-5b1b-78b3-ab58-4429c0f05b65",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-all-in-your-head",
   title: "All in Your Head",
   artist: "artist/sia",

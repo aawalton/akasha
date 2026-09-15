@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiPinkInTheNight = {
   id: "019f0e9f-70ed-7c63-806a-90e4d5fdb357",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-pink-in-the-night",
   title: "Pink in the Night",
   artist: "artist/mitski",

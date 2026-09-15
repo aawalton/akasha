@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const lilithMaxSacrifice = {
   id: "019ea4f6-31c9-7738-8445-f5702f9754ce",
-  type: "song",
+  type: "page-type/song",
   slug: "lilith-max-sacrifice",
   title: "Sacrifice",
   artist: "artist/lilith-max",

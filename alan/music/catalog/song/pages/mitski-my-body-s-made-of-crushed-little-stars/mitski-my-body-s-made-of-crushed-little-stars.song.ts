@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiMyBodySMadeOfCrushedLittleStars = {
   id: "019f0ea3-9824-71f3-bbe0-76041264f4ae",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-my-body-s-made-of-crushed-little-stars",
   title: "My Body’s Made of Crushed Little Stars",
   artist: "artist/mitski",

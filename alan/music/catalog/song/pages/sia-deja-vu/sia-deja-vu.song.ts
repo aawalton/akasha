@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaDejaVu = {
   id: "019ea4c2-d657-7db2-a9d2-92c8a6bb8ad4",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-deja-vu",
   title: "Déjà Vu",
   artist: "artist/sia",

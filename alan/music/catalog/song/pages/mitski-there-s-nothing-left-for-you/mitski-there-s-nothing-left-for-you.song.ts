@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiThereSNothingLeftForYou = {
   id: "019f0ea4-b0bb-7215-8e55-3c94a85fecaf",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-there-s-nothing-left-for-you",
   title: "There’s Nothing Left for You",
   artist: "artist/mitski",

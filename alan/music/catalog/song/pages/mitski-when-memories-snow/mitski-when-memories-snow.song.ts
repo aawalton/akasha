@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiWhenMemoriesSnow = {
   id: "019f0ea0-2f91-70ae-9149-8e6ca7175251",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-when-memories-snow",
   title: "When Memories Snow",
   artist: "artist/mitski",

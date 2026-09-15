@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiBetweenTheBreaths = {
   id: "019f0e9e-43c4-77d9-85ca-4b4968505bcc",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-between-the-breaths",
   title: "Between the Breaths",
   artist: "artist/mitski",

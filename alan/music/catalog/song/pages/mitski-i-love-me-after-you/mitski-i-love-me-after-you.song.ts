@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiILoveMeAfterYou = {
   id: "019f0ea0-511b-7d7a-9369-38b764f27342",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-i-love-me-after-you",
   title: "I Love Me After You",
   artist: "artist/mitski",

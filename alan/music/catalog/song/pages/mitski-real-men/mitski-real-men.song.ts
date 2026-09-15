@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiRealMen = {
   id: "019f0ea6-7b4b-79aa-a425-433edaf9912e",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-real-men",
   title: "Real Men",
   artist: "artist/mitski",

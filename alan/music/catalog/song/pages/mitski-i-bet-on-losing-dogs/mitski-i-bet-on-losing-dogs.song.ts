@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiIBetOnLosingDogs = {
   id: "019f0ea7-d3d6-7446-a0c5-c1311ff30b05",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-i-bet-on-losing-dogs",
   title: "I Bet on Losing Dogs",
   artist: "artist/mitski",

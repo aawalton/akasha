@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const lilithMaxInMemory = {
   id: "019ea4f6-0adb-70e8-9c72-c798b42637eb",
-  type: "song",
+  type: "page-type/song",
   slug: "lilith-max-in-memory",
   title: "In Memory",
   artist: "artist/lilith-max",

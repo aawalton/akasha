@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiCrackBaby = {
   id: "019f0e9c-35fe-78f6-9a01-032695b07fe2",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-crack-baby",
   title: "Crack Baby",
   artist: "artist/mitski",

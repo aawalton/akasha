@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaCrushMeWithYourLove = {
   id: "019ea4c4-bf45-779e-95fa-ac530395cdaa",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-crush-me-with-your-love",
   title: "Crush Me With Your Love",
   artist: "artist/sia",

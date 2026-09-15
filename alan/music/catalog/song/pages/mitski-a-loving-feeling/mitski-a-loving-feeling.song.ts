@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiALovingFeeling = {
   id: "019f0ea4-6a5f-71fb-8c9c-ff2f286de2cb",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-a-loving-feeling",
   title: "A Loving Feeling",
   artist: "artist/mitski",

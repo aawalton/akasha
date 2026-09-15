@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaBurnThePages = {
   id: "019ea4c5-735b-736d-ba70-8ffb42ed92e8",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-burn-the-pages",
   title: "Burn the Pages",
   artist: "artist/sia",

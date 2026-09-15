@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiBend = {
   id: "019f0ea5-05e3-7bd6-9711-e093e8e87460",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-bend",
   title: "Bend",
   artist: "artist/mitski",

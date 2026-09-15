@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaBlindedByLove = {
   id: "019ea4c4-1b88-77a5-9f8e-c65eb8bda1a5",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-blinded-by-love",
   title: "Blinded by Love",
   artist: "artist/sia",

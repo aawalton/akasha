@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiABurningHill = {
   id: "019f0ea1-ac8e-7c96-b95d-b8386e42da68",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-a-burning-hill",
   title: "A Burning Hill",
   artist: "artist/mitski",

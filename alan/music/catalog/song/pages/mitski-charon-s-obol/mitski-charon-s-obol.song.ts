@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiCharonSObol = {
   id: "019f0e9d-5060-709c-b901-e5788bff94f8",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-charon-s-obol",
   title: "Charon’s Obol",
   artist: "artist/mitski",

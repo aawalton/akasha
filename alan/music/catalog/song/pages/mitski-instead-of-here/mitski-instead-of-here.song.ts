@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiInsteadOfHere = {
   id: "019f0ea4-8561-7cbf-b40a-c2038600bac2",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-instead-of-here",
   title: "Instead of Here",
   artist: "artist/mitski",

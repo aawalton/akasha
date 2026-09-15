@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaBlameItOnTheRadio = {
   id: "019ea4c3-b6a0-7f62-bc24-e2973240e75f",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-blame-it-on-the-radio",
   title: "Blame It on the Radio",
   artist: "artist/sia",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiShame = {
   id: "019f0ea4-2b86-7dde-89a5-a2ee9c6213d9",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-shame",
   title: "Shame",
   artist: "artist/mitski",

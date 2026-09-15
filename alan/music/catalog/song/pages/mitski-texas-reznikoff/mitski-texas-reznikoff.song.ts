@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiTexasReznikoff = {
   id: "019f0e9e-be0d-727c-b4ad-e634cc8bd49f",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-texas-reznikoff",
   title: "Texas Reznikoff",
   artist: "artist/mitski",

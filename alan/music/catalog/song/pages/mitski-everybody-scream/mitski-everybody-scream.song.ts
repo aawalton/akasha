@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiEverybodyScream = {
   id: "019f0ea7-8d23-76b0-81e8-89561d917ea0",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-everybody-scream",
   title: "Everybody Scream",
   artist: "artist/mitski",

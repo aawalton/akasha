@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiCarryMeOut = {
   id: "019f0ea2-131c-7767-b324-ae8b151691ee",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-carry-me-out",
   title: "Carry Me Out",
   artist: "artist/mitski",

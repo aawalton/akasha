@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiFireproof = {
   id: "019f0ea8-6914-7acc-809e-d6631c32438d",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-fireproof",
   title: "Fireproof",
   artist: "artist/mitski",

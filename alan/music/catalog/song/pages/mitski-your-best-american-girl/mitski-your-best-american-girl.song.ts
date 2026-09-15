@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiYourBestAmericanGirl = {
   id: "019f0ea1-252b-75e6-8914-27ba7027411b",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-your-best-american-girl",
   title: "Your Best American Girl",
   artist: "artist/mitski",

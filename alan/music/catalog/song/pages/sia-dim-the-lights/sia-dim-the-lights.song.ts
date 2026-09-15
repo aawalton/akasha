@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaDimTheLights = {
   id: "019ea4c4-9c94-7335-a405-4cbb825bd33f",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-dim-the-lights",
   title: "Dim the Lights",
   artist: "artist/sia",

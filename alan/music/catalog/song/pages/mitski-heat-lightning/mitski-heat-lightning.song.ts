@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiHeatLightning = {
   id: "019f0ea5-d22d-79b6-b27a-d20672f99010",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-heat-lightning",
   title: "Heat Lightning",
   artist: "artist/mitski",

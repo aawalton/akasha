@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaDayTooSoon = {
   id: "019ea4c2-f9e3-71ba-a503-29fba7e439d3",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-day-too-soon",
   title: "Day Too Soon",
   artist: "artist/sia",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiOnceMoreToSeeYou = {
   id: "019f0e9e-f905-7510-9bb9-56095c493f66",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-once-more-to-see-you",
   title: "Once More to See You",
   artist: "artist/mitski",

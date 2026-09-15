@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiBecauseDreamingCostsMoneyMyDear = {
   id: "019f0ea5-aca0-7643-9edd-758bd5385da3",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-because-dreaming-costs-money-my-dear",
   title: "Because Dreaming Costs Money, My Dear",
   artist: "artist/mitski",

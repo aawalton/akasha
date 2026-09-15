@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiLastWordsOfAShootingStar = {
   id: "019f0ea0-0d1f-7222-bd0a-3fd15de5d1eb",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-last-words-of-a-shooting-star",
   title: "Last Words of a Shooting Star",
   artist: "artist/mitski",

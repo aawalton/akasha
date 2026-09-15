@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const lilithMaxStillWithMe = {
   id: "019ea4f6-5e9b-78ab-8519-e8e0ab283e25",
-  type: "song",
+  type: "page-type/song",
   slug: "lilith-max-still-with-me",
   title: "Still with Me",
   artist: "artist/lilith-max",

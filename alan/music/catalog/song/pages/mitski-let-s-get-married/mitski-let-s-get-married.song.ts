@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiLetSGetMarried = {
   id: "019f0e9d-9b04-73f0-be46-ee10bb105a18",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-let-s-get-married",
   title: "Let’s Get Married",
   artist: "artist/mitski",

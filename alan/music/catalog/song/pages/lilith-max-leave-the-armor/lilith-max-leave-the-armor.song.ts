@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const lilithMaxLeaveTheArmor = {
   id: "019ea4f6-11d5-7b77-8dfd-0b5b0a286f42",
-  type: "song",
+  type: "page-type/song",
   slug: "lilith-max-leave-the-armor",
   title: "Leave the Armor",
   artist: "artist/lilith-max",

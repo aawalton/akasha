@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiLiquidSmooth = {
   id: "019f0ea1-3e2c-78d0-a8c4-052aa9172e20",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-liquid-smooth",
   title: "Liquid Smooth",
   artist: "artist/mitski",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const lilithMaxSetInStone = {
   id: "019ea4f6-4114-76d8-ae65-0575c25c9da4",
-  type: "song",
+  type: "page-type/song",
   slug: "lilith-max-set-in-stone",
   title: "Set in Stone",
   artist: "artist/lilith-max",

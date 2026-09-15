@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaBigGirlLittleGirl = {
   id: "019ea4c4-3428-76f2-8235-bec63ca94987",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-big-girl-little-girl",
   title: "Big Girl Little Girl",
   artist: "artist/sia",

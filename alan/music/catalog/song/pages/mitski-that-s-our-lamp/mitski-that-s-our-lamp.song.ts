@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiThatSOurLamp = {
   id: "019f0e9d-3644-7ca3-b813-eb6bb0ceddf0",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-that-s-our-lamp",
   title: "That’s Our Lamp",
   artist: "artist/mitski",

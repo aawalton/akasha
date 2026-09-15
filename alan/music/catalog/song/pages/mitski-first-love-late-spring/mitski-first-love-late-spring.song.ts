@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiFirstLoveLateSpring = {
   id: "019f0ea3-6500-7774-a1f1-561b0dcc4381",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-first-love-late-spring",
   title: "First Love / Late Spring",
   artist: "artist/mitski",

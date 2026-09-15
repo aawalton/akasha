@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaDeerInHeadlights = {
   id: "019ea4c4-7911-7561-9816-12e0c9443493",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-deer-in-headlights",
   title: "Deer in Headlights",
   artist: "artist/sia",

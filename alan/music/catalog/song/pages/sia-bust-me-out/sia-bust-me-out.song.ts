@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaBustMeOut = {
   id: "019ea4c5-4572-7c99-aeb9-0ee7f64c2479",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-bust-me-out",
   title: "Bust Me Out",
   artist: "artist/sia",

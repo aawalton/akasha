@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaDeathByChocolate = {
   id: "019ea4c6-632a-7a7a-a7e8-213906ba96cf",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-death-by-chocolate",
   title: "Death by Chocolate",
   artist: "artist/sia",

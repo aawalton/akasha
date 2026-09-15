@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiTwoSlowDancers = {
   id: "019f0e9c-0a93-7b5a-96a6-9748794a6394",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-two-slow-dancers",
   title: "Two Slow Dancers",
   artist: "artist/mitski",

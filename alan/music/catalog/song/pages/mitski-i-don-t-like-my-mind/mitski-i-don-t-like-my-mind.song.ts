@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const mitskiIDonTLikeMyMind = {
   id: "019f0e9d-e226-7546-94a5-a820e7115a5f",
-  type: "song",
+  type: "page-type/song",
   slug: "mitski-i-don-t-like-my-mind",
   title: "I Don’t Like My Mind",
   artist: "artist/mitski",

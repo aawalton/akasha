@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const lilithMaxSisyphus = {
   id: "019ea4f6-4f61-7e01-8fcc-a766a46fe9bc",
-  type: "song",
+  type: "page-type/song",
   slug: "lilith-max-sisyphus",
   title: "Sisyphus",
   artist: "artist/lilith-max",
