@@ -9,32 +9,32 @@ export const messagesDeliveryWitness = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message is let go only where a transcript has the injection itself.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message shown to be lost is given up on rather than waited on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message whose seat is mid-turn is waited on however long that takes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message nothing can be told about is given up on after a few looks.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message given up on stays claimed rather than being offered again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The transcript the seat has now is read as well as the transcript that seat held then.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A transcript that cannot be read is passed over rather than counted as silence.",
     },
   ],
