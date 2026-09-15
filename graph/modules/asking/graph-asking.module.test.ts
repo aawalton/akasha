@@ -4,7 +4,7 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { edgesInto, reachingInto } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import {
   APART_AT,
-  AT_INDEX,
+  BY_REFERENCE,
   EDGE_AT,
   EDGE_ID,
   edgeFiledAt,
@@ -85,11 +85,11 @@ test("a relation coming in is read from the file beside the page reached", () =>
   ])
 })
 
-test("a file is answered with every file importing it, and each says the index knew it", () => {
+test("a file is answered with every file importing it, and each says a reference knew it", () => {
   const root = importWorld(IMPORT)
 
   expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
-    { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: { [KNOWN]: AT_INDEX } },
+    { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: { [KNOWN]: BY_REFERENCE } },
   ])
 })
 
@@ -137,7 +137,7 @@ test("a page is answered with what imports it and never with the code that loads
   const root = loadingWorld(`${MODULE}/${HELD_LOADER}`)
 
   expect(edgesInto(LOADED_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
-    { kind: IMPORT_EDGE, from: SOURCE_AT, to: LOADED_AT, attrs: { [KNOWN]: AT_INDEX } },
+    { kind: IMPORT_EDGE, from: SOURCE_AT, to: LOADED_AT, attrs: { [KNOWN]: BY_REFERENCE } },
   ])
 })
 
@@ -165,7 +165,7 @@ test("an import edge existing only in the index given is answered, and none with
   )
 
   expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOver(over, bodiesIn(root)))).toEqual([
-    { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: { [KNOWN]: AT_INDEX } },
+    { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: { [KNOWN]: BY_REFERENCE } },
   ])
   expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOf(root))).toEqual([])
 })
@@ -181,7 +181,7 @@ test("an import edge the index given empties is not answered, and exists without
 
   expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOver(over, bodiesIn(root)))).toEqual([])
   expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
-    { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: { [KNOWN]: AT_INDEX } },
+    { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: { [KNOWN]: BY_REFERENCE } },
   ])
 })
 

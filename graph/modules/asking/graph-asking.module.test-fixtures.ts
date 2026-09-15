@@ -54,7 +54,7 @@ export const PROPERTY = "property"
 
 export const KNOWN = "known"
 
-export const AT_INDEX = "index"
+export const BY_REFERENCE = "reference"
 
 export const PART = "part-slugs"
 

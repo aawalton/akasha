@@ -25,7 +25,7 @@ const ID = "id"
 
 const APART = "\n"
 
-const BY_INDEX: Known = "index"
+const BY_REFERENCE: Known = "reference"
 
 export type Edge = {
   readonly kind: string
@@ -94,7 +94,7 @@ function importsInto(
     kind: asking.kind,
     from,
     to: path,
-    attrs: { [attribute]: BY_INDEX },
+    attrs: { [attribute]: BY_REFERENCE },
   }))
 }
 
