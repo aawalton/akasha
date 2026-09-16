@@ -1834,6 +1834,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/run/modules/record/inference-run-record.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/run/modules/services/inference-run-services.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/run/modules/store/inference-run-store.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/kernel/modules/inode-guard/inode-guard.module.ts"}

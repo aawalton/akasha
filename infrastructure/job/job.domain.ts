@@ -8,6 +8,7 @@ export const job = {
   parts: [
     "manifest/deploy-account",
     "manifest/pod-janitor",
+    "module/cluster-running",
     "module/deploy-job",
     "module/deploy-job-running",
   ],

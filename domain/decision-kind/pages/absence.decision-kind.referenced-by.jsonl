@@ -1340,6 +1340,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/modules/comfy-up-guarding/comfy-up-guarding.module.ts","id":"01a0912f-d5ac-748b-919b-23e778a9482c"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/pool/modules/inference-schema/inference-schema.module.ts","id":"01a0685d-4b35-7000-a89c-fa9904f3e21d"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/inference-run.page-type.ts","id":"019ea7d8-5e16-7237-b2e0-4ce47633aa58"}
+{"propertySlug":"decision-kind","path":"infrastructure/job/modules/cluster-running/cluster-running.module.ts","id":"01a0aabf-f39f-7e07-9230-1008e8f32320"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.ts","id":"01a0a102-c51d-75a9-8995-8d088708ee8d"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/modules/deploy-job/deploy-job.module.ts","id":"01a0a0f6-5662-7252-90e8-ea20b000453f"}
 {"propertySlug":"decision-kind","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.ts","id":"01a0a0af-184c-7bcb-bcd1-77847f24260e"}

@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"dockerfile-services.module.code.ts","path":"infrastructure/container-image/modules/image-build/image-build.module.code.ts"}
 {"propertySlug":"import","fileName":"dockerfile-services.module.code.ts","path":"infrastructure/container-image/modules/image-inputs/image-inputs.module.code.ts"}
 {"propertySlug":"import","fileName":"dockerfile-services.module.code.ts","path":"infrastructure/container-image/modules/image-publishing/image-publishing.module.code.ts"}
+{"propertySlug":"import","fileName":"dockerfile-services.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.test.ts"}
 {"propertySlug":"import","fileName":"dockerfile-services.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.test.ts"}
 {"propertySlug":"import","fileName":"dockerfile-services.module.code.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.test.ts"}
 {"propertySlug":"parts","path":"infrastructure/container-image/dockerfile/dockerfile.domain.ts","id":"01a06865-abff-7000-a441-7a4caa49c9d9"}

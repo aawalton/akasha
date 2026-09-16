@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"git-pushing.module.code.ts","path":"command/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.code.ts"}
 {"propertySlug":"import","fileName":"git-pushing.module.code.ts","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"}
 {"propertySlug":"import","fileName":"git-pushing.module.code.ts","path":"command/pages/git/push/git-push.command.code.ts"}
-{"propertySlug":"import","fileName":"git-pushing.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"}
+{"propertySlug":"import","fileName":"git-pushing.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"}
 {"propertySlug":"parts","path":"git/git.domain.ts","id":"01a05d7f-23fc-7000-b2b7-266f4611121a"}

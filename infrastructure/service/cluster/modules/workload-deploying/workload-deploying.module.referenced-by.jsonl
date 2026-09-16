@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"}
-{"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"}
-{"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.test.ts"}
+{"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"}
+{"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"}
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"}
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.test.ts"}

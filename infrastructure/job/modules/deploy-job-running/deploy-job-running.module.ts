@@ -14,31 +14,11 @@ export const deployJobRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A commit origin does not carry is pushed there before the job goes up.",
+      statement: "A deploy's job goes up the way every job this system runs goes up.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The secret the job reads the repository with is placed before the job goes up.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A key no secret page places refuses the run rather than leaving the job to fail.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The run waits for the job to end rather than answering while it runs.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A job that ended either way has its lines read and carried back.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A job that failed refuses the run, and the lines still come back.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A job left running past the wait refuses the run rather than being taken away.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here waits on a job or reads that job's lines.",
     },
     {
       decisionKind: "decision-kind/absence",

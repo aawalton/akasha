@@ -14,10 +14,9 @@ import {
 import { ci } from "akasha/infrastructure/container-image/dockerfile/built-image/ci/ci.built-image.ts"
 import { refFor } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { deployAccount } from "akasha/infrastructure/job/deploy-account/deploy-account.manifest.ts"
+import { JOB_NAMESPACE } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
 import { dispatcherIn } from "akasha/infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-
-export const JOB_NAMESPACE = "workers"
 
 const NAMESPACE = JOB_NAMESPACE
 
