@@ -243,13 +243,13 @@ export const otherAt: string = indexedRepo({
   [HOLDER_KEPT]: pageOf({ id: idOf("4"), pageTypeSlug: "module", slug: "only-one" }),
 })
 
-export const TYPED_SLUG = "typed-one"
+const TYPED_SLUG = "typed-one"
 
 export const TYPED_PAGE = "akasha/five/typed-one.module.ts"
 
 export const TYPED_LANDS = "akasha/carried/carried.module.ts"
 
-export const READER_PAGE = "akasha/six/reader.module.ts"
+const READER_PAGE = "akasha/six/reader.module.ts"
 
 export const READER_CODE = "akasha/six/reader.module.code.ts"
 
