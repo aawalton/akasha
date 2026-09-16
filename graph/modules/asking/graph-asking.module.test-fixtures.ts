@@ -259,6 +259,12 @@ function worldFor(attributes: readonly string[] = CARRIED): string {
   return root
 }
 
+export function heldWorld(): string {
+  const root = scratch.rootFor(PREFIX)
+  edged(root, HELD, { attributes: [] }, true)
+  return root
+}
+
 export function importWorld(attributes: readonly string[] = CARRIED): string {
   const root = worldFor(attributes)
   importsFiled(root, TARGET_AT, [SOURCE_AT])

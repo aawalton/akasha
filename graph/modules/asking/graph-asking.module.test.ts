@@ -17,6 +17,7 @@ import {
   FIRST_AT,
   HELD,
   HELD_LOADER,
+  heldWorld,
   IMPORT_EDGE,
   importsBeside,
   importsFiled,
@@ -51,11 +52,32 @@ import {
   TYPE_AT,
   typingBody,
 } from "akasha/graph/modules/asking/graph-asking.module.test-fixtures.ts"
+import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { readingLaidOver } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
 
 const NAMED = relative(REPO_AT, import.meta.path).replace(".module.test.ts", ".module.ts")
+
+const PREDICATE = "graph-predicate"
+
+const PARENTS = "parents"
+
+const GRAPH_EDGE = "graph-edge"
+
+const EDGES = "edges"
+
+const COMMAND = "command"
+
+const MEASURE_CLOSURE = "measure-closure"
+
+const CALLING = "calling"
+
+function pageAt(index: Answering, pageTypeSlug: string, slug: string): string {
+  const found = index.listedAt(pageTypeSlug, slug)[0]
+  if (found === undefined) throw new Error(`no \`${pageTypeSlug}\` is slugged \`${slug}\``)
+  return found.path
+}
 
 afterAll(scratch.sweep)
 
@@ -266,11 +288,53 @@ test("a file the reader of bodies answers nothing for is answered with no edge g
 })
 
 test("a kind not yet read out of a node is refused rather than answered with nothing", () => {
+  const root = heldWorld()
+
+  expect(() => edgesOutOver([HELD], indexOf(root), filesOf({}))(TARGET_AT)).toThrow(
+    /`held` edge is not yet read out of a node/
+  )
+})
+
+test("a relation going out is read from the page's own body", () => {
+  const index = indexOf(REPO_AT)
+  const from = pageAt(index, PREDICATE, PARENTS)
+  const to = pageAt(index, GRAPH_EDGE, RELATION)
+
+  expect(edgesOutOver([RELATION], index, filesOf({}))(from)).toContainEqual({
+    kind: RELATION,
+    from,
+    to,
+    attrs: { [PROPERTY]: EDGES },
+  })
+})
+
+test("a relation going out is the relation the page it reaches reads coming in", () => {
+  const index = indexOf(REPO_AT)
+  const from = pageAt(index, PREDICATE, PARENTS)
+  const found = edgesOutOver([RELATION], index, filesOf({}))(from)
+
+  expect(found.length).toBeGreaterThan(0)
+  for (const one of found) expect(edgesInto(one.to, [RELATION], index)).toContainEqual(one)
+})
+
+test("a page reaches the module its page type names as that type's loader", () => {
+  const index = indexOf(REPO_AT)
+  const from = pageAt(index, COMMAND, MEASURE_CLOSURE)
+  const to = pageAt(index, MODULE, CALLING)
+
+  expect(edgesOutOver([RELATION], index, filesOf({}))(from)).toContainEqual({
+    kind: RELATION,
+    from,
+    to,
+    attrs: { [PROPERTY]: LOADED_BY },
+  })
+})
+
+test("a relation a sidecar beside a page states is no relation going out of that page", () => {
   const root = relationWorld(1)
 
-  expect(() => edgesOutOver([RELATION], indexOf(root), filesOf({}))(TARGET_AT)).toThrow(
-    /`relation`.*could not be answered/
-  )
+  expect(edgesOutOver([RELATION], indexOf(root), filesOf({}))(TARGET_AT)).toEqual([])
+  expect(edgesInto(TARGET_AT, [RELATION], indexOf(root))).toHaveLength(1)
 })
 
 test("one step going out reads each body once for every file that step is asked about", () => {

@@ -14,8 +14,10 @@ import {
   namesMortal,
   namingsIn,
   namingsInRows,
+  type Reached,
   reaches,
   type Shaped,
+  type Wanted,
 } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import {
   everyOfType,
@@ -59,6 +61,48 @@ const pageThere = heldEach((reading: Reading, path: string): boolean => {
   return said !== null && filedOfType(reading, said.pageType).has(path)
 })
 
+type Reaching = {
+  readonly propertySlug: string
+  readonly said: string
+  readonly named: string
+  readonly wanted: Wanted
+  readonly reached: Reached
+}
+
+function reachingIn(value: Value, known: Shaped, rowing: readonly Rowing[]): readonly Reaching[] {
+  const found: Reaching[] = []
+  for (const one of [...namingsIn(value, known), ...namingsInRows(rowing, known)]) {
+    if (one.identity) continue
+    const wanted = known.targetOf(one.propertySlug)
+    if (wanted === null) continue
+    for (const named of namesIn(one.held)) {
+      found.push({
+        propertySlug: one.propertySlug,
+        said: one.said,
+        named,
+        wanted,
+        reached: reaches(named, wanted, known),
+      })
+    }
+  }
+  return found
+}
+
+export type NamedOut = { readonly propertySlug: string; readonly path: string }
+
+export function namedOut(
+  value: Value,
+  known: Shaped,
+  rowing: readonly Rowing[]
+): readonly NamedOut[] {
+  const found: NamedOut[] = []
+  for (const one of reachingIn(value, known, rowing)) {
+    if ("refused" in one.reached) continue
+    found.push({ propertySlug: one.propertySlug, path: one.reached.path })
+  }
+  return found
+}
+
 export function namedFrom(
   value: Value,
   path: string,
@@ -74,28 +118,22 @@ export function namedFrom(
   const entries: Entry[] = []
   const refused: string[] = []
   const already = new Set<string>()
-  for (const one of [...namingsIn(value, known), ...namingsInRows(rowing, known)]) {
-    if (one.identity) continue
-    const wanted = known.targetOf(one.propertySlug)
-    if (wanted === null) continue
-    for (const named of namesIn(one.held)) {
-      const reached = reaches(named, wanted, known)
-      if ("refused" in reached) {
-        if (!dies && !namesMortal(named, wanted, known)) {
-          refused.push(`${path}: \`${one.said}\` — ${reached.refused}`)
-        }
-        continue
+  for (const one of reachingIn(value, known, rowing)) {
+    if ("refused" in one.reached) {
+      if (!dies && !namesMortal(one.named, one.wanted, known)) {
+        refused.push(`${path}: \`${one.said}\` — ${one.reached.refused}`)
       }
-      const at = referencesAt(reached.path)
-      if (at === null) continue
-      const entry = {
-        at,
-        line: lineOf({ propertySlug: one.propertySlug, fileName: null, path: from, id }),
-      }
-      if (already.has(keyOf(entry))) continue
-      already.add(keyOf(entry))
-      entries.push(entry)
+      continue
     }
+    const at = referencesAt(one.reached.path)
+    if (at === null) continue
+    const entry = {
+      at,
+      line: lineOf({ propertySlug: one.propertySlug, fileName: null, path: from, id }),
+    }
+    if (already.has(keyOf(entry))) continue
+    already.add(keyOf(entry))
+    entries.push(entry)
   }
   return { entries, refused }
 }

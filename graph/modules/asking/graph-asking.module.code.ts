@@ -13,10 +13,12 @@ import {
   claimantOf,
   type Paging,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
+import { namedOut } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
 import type { Named } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import {
   slugOf,
   textAt,
+  typeIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -27,6 +29,10 @@ const IMPORT_EDGE = "import-edge"
 const RELATION = "relation"
 
 const LOADED_BY = "loaded-by"
+
+const PAGE_TYPE = "page-type"
+
+const NO_ROWS = [] as const
 
 const ATTRIBUTES = "attributes"
 
@@ -215,6 +221,42 @@ function relationsInto(
   return found
 }
 
+function loadersOutOf(
+  index: Answering,
+  value: Value,
+  path: string,
+  asking: Asking,
+  attribute: string
+): readonly Edge[] {
+  const own = typeIn(value)
+  const held = own === null ? null : index.pageAt(PAGE_TYPE, own)
+  if (held === null) return []
+  const found: Edge[] = []
+  for (const one of namedOut(held, index.knownIn(), NO_ROWS)) {
+    if (one.propertySlug !== LOADED_BY) continue
+    found.push({ kind: asking.kind, from: path, to: one.path, attrs: { [attribute]: LOADED_BY } })
+  }
+  return found
+}
+
+function relationsOutOf(
+  index: Answering,
+  path: string,
+  asking: Asking,
+  asked: string
+): readonly Edge[] {
+  const attribute = attributeNamed(asking, PROPERTY, asked)
+  const value = index.pageByPath(path)
+  if (value === null) return []
+  const found = namedOut(value, index.knownIn(), NO_ROWS).map((one) => ({
+    kind: asking.kind,
+    from: path,
+    to: one.path,
+    attrs: { [attribute]: one.propertySlug },
+  }))
+  return [...found, ...loadersOutOf(index, value, path, asking, attribute)]
+}
+
 function keyOf(one: Edge): string {
   return [one.kind, one.from, one.to, JSON.stringify(one.attrs)].join(APART)
 }
@@ -252,27 +294,38 @@ export function edgesInto(
 
 type Asked = {
   readonly asking: Asking
-  readonly naming: Naming
+  readonly naming: Naming | null
 }
 
 function askedOut(kinds: readonly string[], index: Answering, bodyAt: Body): readonly Asked[] {
   const asked = `what a file reaches as ${namedIn(kinds)}`
-  const naming = namingFor(index, bodyAt)
-  return [...new Set(kinds)].map((kind) => {
+  const every = [...new Set(kinds)].map((kind) => {
     const asking = askingFor(index, kind, asked)
-    if (kind !== IMPORT_EDGE) {
+    if (kind !== IMPORT_EDGE && kind !== RELATION) {
       throw new Error(
         `the \`${kind}\` edge is not yet read out of a node, so ${asked} could not be answered`
       )
     }
-    return { asking, naming }
+    return asking
   })
+  const naming = every.some((one) => one.kind === IMPORT_EDGE) ? namingFor(index, bodyAt) : null
+  return every.map((asking) => ({ asking, naming }))
 }
 
-function edgesOut(path: string, over: readonly Asked[], bodyAt: Body): readonly Edge[] {
+function edgesOut(
+  index: Answering,
+  path: string,
+  over: readonly Asked[],
+  bodyAt: Body
+): readonly Edge[] {
   const found: Edge[] = []
   for (const one of over) {
     const asked = reachedFor(path, [one.asking.kind])
+    if (one.asking.kind === RELATION) {
+      found.push(...relationsOutOf(index, path, one.asking, asked))
+      continue
+    }
+    if (one.naming === null) continue
     found.push(...importsOutOf(path, one.asking, asked, bodyAt, one.naming))
   }
   return settledOf(found)
@@ -283,5 +336,5 @@ export type Stepping = (path: string) => readonly Edge[]
 export function edgesOutOver(kinds: readonly string[], index: Answering, bodyAt: Body): Stepping {
   if (kinds.length === 0) return () => []
   const over = askedOut(kinds, index, bodyAt)
-  return (path) => edgesOut(path, over, bodyAt)
+  return (path) => edgesOut(index, path, over, bodyAt)
 }

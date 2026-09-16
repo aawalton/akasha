@@ -2,7 +2,7 @@
 {"definition":"a rule saying which nodes and edges a closure takes in"}
 {"extends":["page-type/domain"]}
 {"id":"01a0a5ba-8fb1-7bbb-ae4e-1c26277c3a4e"}
-{"parts":["graph-predicate/at-load-imports","graph-predicate/code-imports","graph-predicate/importers","graph-predicate/imports","graph-predicate/parents","module/graph-predicate-closure","record-property/follows","relation-property/edges","relation-property/followed-attribute","text-property/attribute-value","text-property/direction"]}
+{"parts":["graph-predicate/at-load-imports","graph-predicate/children","graph-predicate/code-imports","graph-predicate/importers","graph-predicate/imports","graph-predicate/parents","module/graph-predicate-closure","record-property/follows","relation-property/edges","relation-property/followed-attribute","text-property/attribute-value","text-property/direction"]}
 {"properties":[{"pageProperty":"relation-property/edges","required":true,"many":true,"maxCount":null},{"pageProperty":"text-property/direction","required":true,"many":false},{"pageProperty":"record-property/follows","required":false,"many":true,"maxCount":null}]}
 {"schema":"jsonl"}
 {"slug":"graph-predicate"}

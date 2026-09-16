@@ -8,6 +8,7 @@ export const graphPredicate = {
   extends: ["page-type/domain"],
   parts: [
     "graph-predicate/at-load-imports",
+    "graph-predicate/children",
     "graph-predicate/code-imports",
     "graph-predicate/importers",
     "graph-predicate/imports",

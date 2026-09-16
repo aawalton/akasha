@@ -4,6 +4,7 @@ import type { Child, Reading } from "akasha/page/index/modules/shape/index-shape
 import {
   importedFrom,
   namedFrom,
+  namedOut,
 } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
 
 const FROM = "akasha/a.domain.ts"
@@ -60,6 +61,20 @@ test("a name reaching a page files a line into the file beside the page named", 
     ],
     refused: [],
   })
+})
+
+test("a name reaching a page is answered as the property said and the page reached", () => {
+  const value = { id: MINE, pageTypeSlug: "domain", partSlugs: ["domain/b"] }
+
+  expect(namedOut(value, shaped({ "domain/b": B }), NO_ROWS)).toEqual([
+    { propertySlug: "part-slugs", path: "b.domain.ts" },
+  ])
+})
+
+test("a name reaching no page is answered with nothing rather than reported", () => {
+  const value = { id: MINE, pageTypeSlug: "domain", partSlugs: ["domain/nowhere"] }
+
+  expect(namedOut(value, shaped({}), NO_ROWS)).toEqual([])
 })
 
 test("a page naming the same page twice through one property files one line", () => {

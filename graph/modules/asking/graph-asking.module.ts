@@ -81,7 +81,7 @@ export const graphAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An edge going out says whether that edge names a type or names code.",
+      statement: "An import edge going out says whether that edge names a type or names code.",
     },
     {
       decisionKind: "decision-kind/gap",
@@ -89,11 +89,29 @@ export const graphAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An edge going out says whether that edge is followed as the file loads or later.",
+      statement:
+        "An import edge going out says whether that edge is followed as the file loads or later.",
     },
     {
       decisionKind: "decision-kind/gap",
       statement: "An edge coming in says whether that edge is followed as the file loads or later.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation edge going out is read from the page's own body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "One reading answers a relation going out and the sidecar naming that relation coming in.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A relation a sidecar row states is no edge going out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page reaches the module its page type names as that type's loader.",
     },
   ],
 } as const satisfies Module
