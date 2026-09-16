@@ -31,7 +31,7 @@ const A_MIB = 1024 * 1024
 
 const SPENT = { cpuSeconds: 0.25, wallSeconds: 0.3, bytes: A_MIB }
 
-const TOOK = { nodes: ["one", "two"], edges: [] }
+const TOOK = { nodes: ["one", "two"], edges: [], stepsTo: new Map([["one", 0]]) }
 
 const closureRefusing = (argv: readonly string[]): readonly string[] => {
   const answer = measureClosure(argv, GIVEN)

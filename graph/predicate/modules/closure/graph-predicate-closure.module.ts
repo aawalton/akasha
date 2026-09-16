@@ -54,7 +54,7 @@ export const graphPredicateClosure = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The closure comes back sorted, so two asks alike answer alike.",
+      statement: "The nodes come back sorted, so two asks alike answer alike.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -94,6 +94,23 @@ export const graphPredicateClosure = {
       decisionKind: "decision-kind/departure",
       statement:
         "An edge carrying none of an attribute a predicate follows is refused rather than dropped.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A closure says how many steps from the seeds each node it took in was reached at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The steps a node is reached at are the fewest edges reaching it from the seeds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seed is reached at no steps from the seeds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The nodes one step out are walked before the nodes two steps out.",
     },
   ],
 } as const satisfies Module

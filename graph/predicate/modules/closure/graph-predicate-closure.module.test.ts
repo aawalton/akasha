@@ -37,6 +37,8 @@ import { shadowOnto } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const ENDING = ".ts"
 
+const NEAR_AT = "akasha/held/near.page.ts"
+
 const SIDEWAYS = { ...imports, direction: "sideways" }
 
 const DECLARED = { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_CODE, [LOADING]: AT_LOAD }
@@ -306,4 +308,38 @@ test("an ask wanting only the nodes is answered only those", () => {
   expect(closureOf(importers, [FIRST_AT], asked)).toEqual(
     takenIn(importers, [FIRST_AT], asked).nodes
   )
+})
+
+test("a seed is no steps from the seeds, and every node taken in is somewhere in the steps", () => {
+  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [THIRD_AT] })
+  const taken = takenIn(importers, [FIRST_AT, THIRD_AT], { index: indexOf(root) })
+
+  expect([...taken.stepsTo.keys()].sort()).toEqual([...taken.nodes])
+  expect(taken.stepsTo.get(FIRST_AT)).toBe(0)
+  expect(taken.stepsTo.get(THIRD_AT)).toBe(0)
+  expect(taken.stepsTo.get(SECOND_AT)).toBe(1)
+})
+
+test("a node is as many steps from the seeds as the edges between it and them", () => {
+  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [THIRD_AT] })
+  const taken = takenIn(importers, [FIRST_AT], { index: indexOf(root) })
+
+  expect(taken.stepsTo.get(FIRST_AT)).toBe(0)
+  expect(taken.stepsTo.get(SECOND_AT)).toBe(1)
+  expect(taken.stepsTo.get(THIRD_AT)).toBe(2)
+})
+
+test("a node two ways reach is at the fewer steps rather than at the way walked first", () => {
+  const root = reachingWorld({
+    [FIRST_AT]: [NEAR_AT, THIRD_AT],
+    [THIRD_AT]: [SECOND_AT],
+    [SECOND_AT]: [APART_AT],
+    [NEAR_AT]: [APART_AT],
+  })
+  const taken = takenIn(importers, [FIRST_AT], { index: indexOf(root) })
+
+  expect(taken.stepsTo.get(NEAR_AT)).toBe(1)
+  expect(taken.stepsTo.get(THIRD_AT)).toBe(1)
+  expect(taken.stepsTo.get(SECOND_AT)).toBe(2)
+  expect(taken.stepsTo.get(APART_AT)).toBe(2)
 })

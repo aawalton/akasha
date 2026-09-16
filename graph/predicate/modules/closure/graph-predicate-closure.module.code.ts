@@ -14,6 +14,8 @@ const IN = "in"
 
 const OUT = "out"
 
+const AT_THE_SEEDS = 0
+
 function every(): boolean {
   return true
 }
@@ -36,6 +38,7 @@ function followed(predicate: GraphPredicate): (edge: Edge) => boolean {
 export type Taken = {
   readonly nodes: readonly string[]
   readonly edges: readonly Edge[]
+  readonly stepsTo: ReadonlyMap<string, number>
 }
 
 function closedOver(
@@ -45,21 +48,25 @@ function closedOver(
   farOf: (edge: Edge) => string,
   follows: (edge: Edge) => boolean
 ): Taken {
-  const found = new Set(seeds.filter((one) => through(one)))
-  const waiting = [...found]
+  const stepsTo = new Map<string, number>()
+  for (const one of seeds) if (through(one)) stepsTo.set(one, AT_THE_SEEDS)
+  const waiting = [...stepsTo.keys()]
   const edges: Edge[] = []
-  for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
+  for (let at = 0; at < waiting.length; at += 1) {
+    const one = waiting[at]
+    if (one === undefined) continue
+    const beyond = (stepsTo.get(one) ?? AT_THE_SEEDS) + 1
     for (const edge of stepping(one)) {
       if (!follows(edge)) continue
       const next = farOf(edge)
       if (!through(next)) continue
       edges.push(edge)
-      if (found.has(next)) continue
-      found.add(next)
+      if (stepsTo.has(next)) continue
+      stepsTo.set(next, beyond)
       waiting.push(next)
     }
   }
-  return { nodes: [...found].sort(), edges: settledOf(edges) }
+  return { nodes: [...stepsTo.keys()].sort(), edges: settledOf(edges), stepsTo }
 }
 
 export type Asked = {
