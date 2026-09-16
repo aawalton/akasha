@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const legacyPerksPanel = {
-  id: "01a0655d-daba-74d9-8be2-7746f39e0dc4",
-  type: "page-type/module",
-  slug: "legacy-perks-panel",
-  definition: "the perks a legacy has bought and the ones it may still buy",
-  code: "tsx",
-} as const satisfies Module

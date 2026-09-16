@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const idlePortrait = {
-  id: "01a0655d-dabf-7c9a-983a-29cc3d7c95ef",
-  type: "page-type/module",
-  slug: "idle-portrait",
-  definition: "the address a persona's portrait is drawn from",
-  code: "ts",
-} as const satisfies Module

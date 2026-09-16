@@ -1145,10 +1145,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/.server/app-layout-loading/app-layout-loading.module.ts","id":"01a0655e-d39b-7415-b913-3146ff8bfa28"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/device-secret-context/device-secret-context.module.ts","id":"01a0655e-d39a-7632-bb48-cb68d5895b87"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/device-token-context/device-token-context.module.ts","id":"01a0655e-d399-7f83-8b69-496707b129e5"}
-{"propertySlug":"decision-kind","path":"alan/web/.server/gacha-draw-context/gacha-draw-context.module.ts","id":"01a0655e-d39a-7d78-92a5-0e8f9375946d"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/home-dni-param/home-dni-param.module.ts","id":"01a0655e-d399-7f57-a5ed-36dc75b69609"}
-{"propertySlug":"decision-kind","path":"alan/web/.server/idle-card-projecting/idle-card-projecting.module.ts","id":"01a0655e-d39a-72dd-abce-5eb2011bcc76"}
-{"propertySlug":"decision-kind","path":"alan/web/.server/idle-saves/idle-saves.module.ts","id":"01a0655e-d39b-7622-a70b-508466de5c7c"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.ts","id":"01a0655e-d39b-7b16-9974-8d43261a1726"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/picture-answering/picture-answering.module.ts","id":"01a09c61-a5d9-766a-9d6d-662757fe1a24"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts","id":"01a078aa-cea1-71ff-8aa2-0b3766623b39"}

@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const apotheosisPanel = {
-  id: "01a0655d-dab9-79d0-9613-c26dde2e7595",
-  type: "page-type/module",
-  slug: "apotheosis-panel",
-  definition: "what an apotheosis costs and what it gives",
-  code: "tsx",
-} as const satisfies Module

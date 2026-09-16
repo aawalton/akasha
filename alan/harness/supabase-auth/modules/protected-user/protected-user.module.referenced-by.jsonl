@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"protected-user.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-auth/sim-auth.module.code.ts"}
 {"propertySlug":"import","fileName":"protected-user.module.code.ts","path":"alan/harness/supabase-server/modules/throwaway-user/throwaway-user.module.code.ts"}
-{"propertySlug":"import","fileName":"protected-user.module.code.ts","path":"alan/web/.server/idle-save-context/idle-save-context.module.code.ts"}
 {"propertySlug":"import","fileName":"protected-user.module.code.ts","path":"code/browser/test-harness/modules/read-only-harness/read-only-harness.module.code.ts"}
 {"propertySlug":"import","fileName":"protected-user.module.code.ts","path":"command/pages/browser/test-storage-state/browser-test-storage-state.command.code.ts"}
 {"propertySlug":"parts","path":"alan/harness/supabase-auth/supabase-auth.domain.ts","id":"01a05c6d-3507-7082-9e71-8c024f532b00"}

@@ -2,9 +2,6 @@
 {"propertySlug":"import","fileName":"api-fetch.module.code.ts","path":"alan/web/modules/deep-link-open-sync/deep-link-open-sync.module.code.tsx"}
 {"propertySlug":"import","fileName":"api-fetch.module.code.ts","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.code.tsx"}
 {"propertySlug":"import","fileName":"api-fetch.module.code.ts","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.test.tsx"}
-{"propertySlug":"import","fileName":"api-fetch.module.code.ts","path":"alan/web/modules/idle-draw-verb/idle-draw-verb.module.code.ts"}
-{"propertySlug":"import","fileName":"api-fetch.module.code.ts","path":"alan/web/modules/idle-game-store/idle-game-store.module.code.ts"}
-{"propertySlug":"import","fileName":"api-fetch.module.code.ts","path":"alan/web/modules/idle-game/idle-game.module.code.tsx"}
 {"propertySlug":"import","fileName":"api-fetch.module.code.ts","path":"alan/web/modules/offline-downloads/offline-downloads.module.code.ts"}
 {"propertySlug":"import","fileName":"api-fetch.module.code.ts","path":"alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx"}
 {"propertySlug":"import","fileName":"api-fetch.module.code.ts","path":"alan/web/modules/shell-ensure-rendition/shell-ensure-rendition.module.code.ts"}
