@@ -41,6 +41,10 @@ export const watcherInventorySnapshotLanding = {
       statement: "A holder with no bag sizes read has no bag row.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A row is filed for every craft of every character a scan read.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement: "The rows a scan's slots and currencies become are not filed yet.",
     },

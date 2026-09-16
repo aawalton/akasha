@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import {
   bagSizeRowsOf,
+  craftingLevelRowsOf,
   landInventorySnapshot,
   locationRowsOf,
   type SnapshotValues,
@@ -47,6 +48,8 @@ const LOCATIONS_PATH = snapshotRowsPath(SLUG, "locations")
 
 const BAG_SIZES_PATH = snapshotRowsPath(SLUG, "bag-sizes")
 
+const CRAFTING_LEVELS_PATH = snapshotRowsPath(SLUG, "crafting-levels")
+
 const ERIN_SCANNED = 1789495668
 
 const BANK_SCANNED = 1789495000
@@ -59,6 +62,10 @@ const HELD: SnapshotValues = {
   ...VALUES,
   inventory: {
     ...SCAN,
+    craftingLevels: {
+      "8796093022338107": { 1: 10, 7: 5 },
+      "8796093022613905": { 2: 3 },
+    },
     locations: {
       "8796093022338107": {
         bags: {},
@@ -120,6 +127,7 @@ test("a page states what the scan carries", () => {
     transmuteCrystalCap: 3000,
     locations: "jsonl",
     bagSizes: "jsonl",
+    craftingLevels: "jsonl",
     data: "json",
   })
 })
@@ -161,9 +169,19 @@ test("the page and the data file land together in one write", async () => {
     PAGE_PATH,
     LOCATIONS_PATH,
     BAG_SIZES_PATH,
+    CRAFTING_LEVELS_PATH,
     DATA_PATH,
   ])
-  expect(JSON.parse(written[3]?.content ?? "null")).toEqual(SCAN)
+  expect(JSON.parse(written[4]?.content ?? "null")).toEqual(SCAN)
+})
+
+test("each craft of each character becomes a row", () => {
+  expect(rowsIn(craftingLevelRowsOf(HELD, counting("c")))).toEqual([
+    { id: "c1", esoCharacterId: "8796093022338107", craftTypeId: 1, craftingLevel: 10 },
+    { id: "c2", esoCharacterId: "8796093022338107", craftTypeId: 7, craftingLevel: 5 },
+    { id: "c3", esoCharacterId: "8796093022613905", craftTypeId: 2, craftingLevel: 3 },
+  ])
+  expect(craftingLevelRowsOf(VALUES, counting("c"))).toBe("")
 })
 
 test("a holder becomes one row saying when that holder was last read", () => {

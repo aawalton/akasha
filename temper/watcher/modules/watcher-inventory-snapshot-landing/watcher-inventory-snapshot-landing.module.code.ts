@@ -29,6 +29,10 @@ const BAG_SIZES_PROPERTY = "bag-sizes"
 
 const BAG_SIZES_KEY = "bagSizes"
 
+const CRAFTING_LEVELS_PROPERTY = "crafting-levels"
+
+const CRAFTING_LEVELS_KEY = "craftingLevels"
+
 const MS_PER_SECOND = 1000
 
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
@@ -120,9 +124,34 @@ export function snapshotPageKeys(values: SnapshotValues): readonly PageKey[] {
     keys.push(["transmuteCrystalAmount", transmuteCrystalAmount])
   }
   if (transmuteCrystalCap !== undefined) keys.push(["transmuteCrystalCap", transmuteCrystalCap])
-  keys.push([LOCATIONS_PROPERTY, "jsonl"], [BAG_SIZES_KEY, "jsonl"])
+  keys.push([LOCATIONS_PROPERTY, "jsonl"], [BAG_SIZES_KEY, "jsonl"], [CRAFTING_LEVELS_KEY, "jsonl"])
   keys.push([DATA_PROPERTY, "json"])
   return keys
+}
+
+export function craftingLevelRowsOf(values: SnapshotValues, minted: () => string): string {
+  const held = values.inventory.craftingLevels ?? {}
+  const lines: string[] = []
+  for (const esoCharacterId of Object.keys(held).sort()) {
+    const crafts = held[esoCharacterId]
+    if (crafts === undefined) continue
+    const ids = Object.keys(crafts)
+      .map((one) => Number(one))
+      .sort((one, two) => one - two)
+    for (const craftTypeId of ids) {
+      const craftingLevel = crafts[craftTypeId]
+      if (craftingLevel === undefined) continue
+      lines.push(
+        jsonRowOf([
+          ["id", minted()],
+          ["esoCharacterId", esoCharacterId],
+          ["craftTypeId", craftTypeId],
+          ["craftingLevel", craftingLevel],
+        ])
+      )
+    }
+  }
+  return jsonlBodyOf(lines)
 }
 
 export function snapshotPageBody(values: SnapshotValues, id: string): string {
@@ -161,6 +190,10 @@ export async function landInventorySnapshot(
       {
         path: snapshotRowsPath(values.slug, BAG_SIZES_PROPERTY),
         content: bagSizeRowsOf(values, minted),
+      },
+      {
+        path: snapshotRowsPath(values.slug, CRAFTING_LEVELS_PROPERTY),
+        content: craftingLevelRowsOf(values, minted),
       },
       { path: dataPath, content: JSON.stringify(values.inventory) },
     ]
