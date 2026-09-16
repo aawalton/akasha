@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const celticWoman2AChristmasCelebrationChristmasPipes = {
+  id: "01a0abea-76db-766c-8f9e-e962d34c9da6",
+  type: "page-type/track",
+  slug: "celtic-woman-2-a-christmas-celebration-christmas-pipes",
+  ownLength: 3.8586666666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
+  position: 6,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1guQjoDBcAwH53BW8cdRYF",
+      externalLink: "https://open.spotify.com/track/1guQjoDBcAwH53BW8cdRYF",
+      lastSyncedAt: "2026-09-16",
+    },
+  ],
+  title: "Christmas Pipes",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackKey: "christmaspipes|6NWtt9pNOL2Gx7kBykdE5x|231520",
+} as const satisfies Track
