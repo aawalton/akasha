@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const zaraLarssonPosterGirlWhatHappensHere = {
+  id: "01a0aa7c-31eb-7b87-ab4a-37f420ae9d97",
+  type: "page-type/track",
+  slug: "zara-larsson-poster-girl-what-happens-here",
+  ownLength: 3.3279666666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/zara-larsson-poster-girl"],
+  position: 12,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "17tuHcxhRbZADp4kU7Lrfs",
+      externalLink: "https://open.spotify.com/track/17tuHcxhRbZADp4kU7Lrfs",
+      lastSyncedAt: "2026-09-16",
+    },
+  ],
+  title: "What Happens Here",
+  discNumber: 1,
+  explicit: true,
+  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackKey: "whathappenshere|1Xylc3o4UrD53lo9CvFvVg|199678",
+} as const satisfies Track

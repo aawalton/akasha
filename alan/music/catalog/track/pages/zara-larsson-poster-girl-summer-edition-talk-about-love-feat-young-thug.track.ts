@@ -1,0 +1,29 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const zaraLarssonPosterGirlSummerEditionTalkAboutLoveFeatYoungThug = {
+  id: "01a0aa7c-2d52-72e8-8546-c03f37bb3767",
+  type: "page-type/track",
+  slug: "zara-larsson-poster-girl-summer-edition-talk-about-love-feat-young-thug",
+  ownLength: 3.3295666666666666,
+  ownProgress: 0,
+  partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
+  position: 2,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7Mg1TT0jILExeHda735so8",
+      externalLink: "https://open.spotify.com/track/7Mg1TT0jILExeHda735so8",
+      lastSyncedAt: "2026-09-16",
+    },
+  ],
+  title: "Talk About Love (feat. Young Thug)",
+  discNumber: 1,
+  explicit: true,
+  trackArtist: [
+    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
+    { externalId: "50co4Is1HCEo8bhOyUWKpn", artistName: "Young Thug" },
+  ],
+  trackKey: "talkaboutlovefeatyoungthug|1Xylc3o4UrD53lo9CvFvVg,50co4Is1HCEo8bhOyUWKpn|199774",
+} as const satisfies Track

@@ -1,0 +1,29 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const zaraLarssonPosterGirlSummerEditionRightHereAlokRemix = {
+  id: "01a0aa7c-2fb0-7b1c-80cc-d25392d83ca7",
+  type: "page-type/track",
+  slug: "zara-larsson-poster-girl-summer-edition-right-here-alok-remix",
+  ownLength: 2.5833333333333335,
+  ownProgress: 0,
+  partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
+  position: 18,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "60EwQMdrQsIPNI4QYJN8N8",
+      externalLink: "https://open.spotify.com/track/60EwQMdrQsIPNI4QYJN8N8",
+      lastSyncedAt: "2026-09-16",
+    },
+  ],
+  title: "Right Here - Alok Remix",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [
+    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
+    { externalId: "0NGAZxHanS9e0iNHpR8f2W", artistName: "Alok" },
+  ],
+  trackKey: "rightherealokremix|0NGAZxHanS9e0iNHpR8f2W,1Xylc3o4UrD53lo9CvFvVg|155000",
+} as const satisfies Track

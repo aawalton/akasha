@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const zaraLarssonBadBoysBadBoysDoItYourselfVersion = {
+  id: "01a0aa7c-4231-7f0e-b50f-cb68421da575",
+  type: "page-type/track",
+  slug: "zara-larsson-bad-boys-bad-boys-do-it-yourself-version",
+  ownLength: 2.1557666666666666,
+  ownProgress: 0,
+  partOfCollections: ["release/zara-larsson-bad-boys"],
+  position: 2,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2mJaEVfZ2RFxsIWF00lcER",
+      externalLink: "https://open.spotify.com/track/2mJaEVfZ2RFxsIWF00lcER",
+      lastSyncedAt: "2026-09-16",
+    },
+  ],
+  title: "Bad Boys - Do It Yourself Version",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackKey: "badboysdoityourselfversion|1Xylc3o4UrD53lo9CvFvVg|129346",
+} as const satisfies Track

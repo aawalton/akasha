@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const zaraLarssonHonorTheLightMemoryLane = {
+  id: "01a0aa7c-38a0-7243-959a-25a207e61f42",
+  type: "page-type/track",
+  slug: "zara-larsson-honor-the-light-memory-lane",
+  ownLength: 3.2022166666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/zara-larsson-honor-the-light"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0oQWZIDgY33kE8kEp6fEne",
+      externalLink: "https://open.spotify.com/track/0oQWZIDgY33kE8kEp6fEne",
+      lastSyncedAt: "2026-09-16",
+    },
+  ],
+  title: "Memory Lane",
+  discNumber: 1,
+  explicit: true,
+  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackKey: "memorylane|1Xylc3o4UrD53lo9CvFvVg|192133",
+} as const satisfies Track
