@@ -53,7 +53,6 @@ export async function action({ request }: { request: Request }): Promise<Respons
         slug: named,
         values: {
           id,
-          pageTypeSlug: MESSAGE_PAGE_TYPE_SLUG,
           slug: named,
           to: HANDLER_SEAT,
           from: SAID_FROM,
