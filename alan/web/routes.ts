@@ -65,10 +65,6 @@ export default [
   route("api/image/:imageId", "routes/alan-web-api-image/alan-web-api-image.route.code.ts"),
   route("api/wallpaper", "routes/wallpaper/wallpaper.route.code.ts"),
   route(
-    "api/property-option",
-    "routes/alan-web-api-property-option/alan-web-api-property-option.route.code.ts"
-  ),
-  route(
     "api/media/token",
     "routes/alan-web-api-media-token/alan-web-api-media-token.route.code.ts"
   ),
