@@ -1519,6 +1519,7 @@
 {"propertySlug":"decision-kind","path":"check/modules/audit-calling/audit-calling.module.ts","id":"01a0a6a7-6988-7cac-b722-46cd6c843671"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-child/audit-child.module.ts","id":"01a0a064-3e4a-7000-ad1d-00f2d5f33c09"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-listening/audit-listening.module.ts","id":"01a0a6a5-0a65-78f1-9909-32f3e63bc7ea"}
+{"propertySlug":"decision-kind","path":"check/modules/audit-recording/audit-recording.module.ts","id":"01a0aa80-f294-72e3-b796-a0ad8f7a69c3"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-serving/audit-serving.module.ts","id":"01a091e9-689c-7001-a9f4-f25090091be1"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-verdict/audit-verdict.module.ts","id":"01a091e9-689c-7000-a6ba-611889107d33"}
 {"propertySlug":"decision-kind","path":"check/modules/body-not-utf8/body-not-utf8.module.ts","id":"01a06982-39cd-7000-aaed-afa3d4b4e20b"}

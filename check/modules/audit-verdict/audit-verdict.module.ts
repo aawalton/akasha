@@ -55,6 +55,10 @@ export const auditVerdict = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The row a verdict rides is composed here and written by whoever takes it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A check's verdict is the one on the newest row of its audit log stating a commit.",
     },

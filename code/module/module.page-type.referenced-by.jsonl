@@ -964,6 +964,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-calling/audit-calling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-child/audit-child.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-listening/audit-listening.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-recording/audit-recording.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-serving/audit-serving.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-verdict/audit-verdict.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/body-not-utf8/body-not-utf8.module.ts"}

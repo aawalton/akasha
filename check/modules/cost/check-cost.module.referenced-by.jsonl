@@ -2,7 +2,8 @@
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"agent/hook/agent-hook/weigh-bash-call/weigh-bash-call.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/audit-recording/audit-recording.module.code.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/audit-verdict/audit-verdict.module.code.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/audit-verdict/audit-verdict.module.test.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/checking/checking.module.code.ts"}

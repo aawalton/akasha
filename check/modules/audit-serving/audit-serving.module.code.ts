@@ -2,15 +2,17 @@ import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { writeMessage } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
 import {
+  costKept,
+  type Recording,
+  verdictSent,
+} from "akasha/check/modules/audit-recording/audit-recording.module.code.ts"
+import {
   cleanAt,
   cleanly,
-  commitHeld,
   measured,
   type Verdict,
-  verdictAnswered,
   verdictLogged,
   verdictOver,
-  verdictRecorded,
 } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import { everythingIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import {
@@ -19,17 +21,12 @@ import {
   type Gathered,
   takesAny,
 } from "akasha/check/modules/checking/checking.module.code.ts"
-import { costSpawned } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   heldTo,
   reasonSaid,
 } from "akasha/check/modules/refusal-holding/refusal-holding.module.code.ts"
-import {
-  bytes,
-  endingOf,
-  type Held,
-} from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { bytes, endingOf } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { domainsDrawn } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
@@ -160,23 +157,6 @@ export function judgedIn(text: string): readonly Judged[] | null {
   return said.every(judgedRow) ? (said as readonly Judged[]) : null
 }
 
-function costKept(one: Gathered, done: Held, began: number, said: readonly Judged[]): undefined {
-  const ranAt = new Date(began).toISOString()
-  const cost = costSpawned({
-    runId: Bun.randomUUIDv7(),
-    ranAt,
-    phase: AUDIT,
-    ran: one.slug,
-    wallMs: Date.now() - began,
-    cpuSeconds: done.cpuSeconds,
-    peakBytes: done.peakBytes,
-    peakMeasured: done.peakMeasured,
-    refusals: said.length,
-  })
-  const verdict = verdictOver(said, commitHeld(one.root), ranAt)
-  verdictRecorded(one.root, one.page, cost, verdict, AUDIT_LOGS)
-}
-
 export const spawning: Running = async (one) => {
   const scratch = scratchWorld()
   try {
@@ -194,7 +174,7 @@ export const spawning: Running = async (one) => {
     if (done.code !== 0 || done.signal !== null) {
       const why = reasonSaid(done.err, STDERR_CEILING)
       const said = unrun(one, `${ending} apart, so it judged nothing — ${why}`)
-      costKept(one, done, began, said)
+      await costKept(one, done, began, said, AUDIT_LOGS)
       return said
     }
     const text = textOnDisk(at)
@@ -271,6 +251,7 @@ export type Asking = {
   readonly run?: Running
   readonly moved?: Moved
   readonly shadow?: Shadow
+  readonly record?: Recording
 }
 
 export async function carriedOn(given: Asking, before: Verdict): Promise<Verdict | null> {
@@ -291,8 +272,8 @@ export function verdictFor(given: Asking): Verdict | null {
   return verdictLogged(given.root, given.check.page, AUDIT_LOGS)
 }
 
-function verdictPut(given: Asking, verdict: Verdict): undefined {
-  verdictAnswered(given.root, given.check.page, given.check.slug, verdict, AUDIT_LOGS)
+async function verdictPut(given: Asking, verdict: Verdict): Promise<undefined> {
+  await verdictSent(given.check.page, given.check.slug, verdict, AUDIT_LOGS, given.record)
 }
 
 async function ranFor(given: Asking): Promise<Ran> {
@@ -313,12 +294,12 @@ async function ranFor(given: Asking): Promise<Ran> {
       const last = verdictFor(given)
       const carried = last === null ? null : await carriedOn(given, last)
       if (carried !== null) {
-        verdictPut(given, carried)
+        await verdictPut(given, carried)
         return { check: slug, verdict: carried, ran: false }
       }
       const found = await run(given.check, given.over.change)
       const verdict = verdictOf(found, given.over, new Date().toISOString())
-      if (verdictFor(given)?.commit !== verdict.commit) verdictPut(given, verdict)
+      if (verdictFor(given)?.commit !== verdict.commit) await verdictPut(given, verdict)
       return { check: slug, verdict, ran: true }
     },
     WAITED

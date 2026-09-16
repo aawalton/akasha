@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/modules/audit-asking/audit-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/modules/audit-asking/audit-asking.module.test.ts"}
+{"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/modules/audit-recording/audit-recording.module.code.ts"}
+{"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/modules/audit-recording/audit-recording.module.test.ts"}
 {"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.test.ts"}

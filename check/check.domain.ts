@@ -11,6 +11,7 @@ export const check = {
     "module/audit-calling",
     "module/audit-child",
     "module/audit-listening",
+    "module/audit-recording",
     "module/audit-serving",
     "module/audit-verdict",
     "module/body-not-utf8",

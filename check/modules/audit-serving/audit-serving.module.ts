@@ -177,6 +177,23 @@ export const auditServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A verdict is sent to the pages service rather than into the tree the round holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a check run apart cost is sent the same way a verdict is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An asker may put a recorder of its own in place of the pages service.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round waits for a verdict to land before answering the asker.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The process that judged a check writes that check's verdict.",
     },
     {

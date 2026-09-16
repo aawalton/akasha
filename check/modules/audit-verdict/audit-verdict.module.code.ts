@@ -129,6 +129,21 @@ function loggedOf(cost: Cost, verdict: Verdict): Logged {
   }
 }
 
+export function loggedLine(cost: Cost, verdict: Verdict): string {
+  return JSON.stringify(loggedOf(cost, verdict))
+}
+
+export function answerLine(ran: string, verdict: Verdict): string {
+  return JSON.stringify({
+    ran,
+    phase: PHASE,
+    ranAt: verdict.ranAt,
+    commit: verdict.commit,
+    refused: refusedHeld(verdict.refusals),
+    unrun: verdict.unrun,
+  })
+}
+
 export function verdictRecorded(
   root: string,
   page: string,
@@ -136,7 +151,7 @@ export function verdictRecorded(
   verdict: Verdict,
   under: string
 ): string | null {
-  return recorded(root, page, `${JSON.stringify(loggedOf(cost, verdict))}\n`, under)
+  return recorded(root, page, `${loggedLine(cost, verdict)}\n`, under)
 }
 
 export function verdictAnswered(
@@ -146,13 +161,5 @@ export function verdictAnswered(
   verdict: Verdict,
   under: string
 ): string | null {
-  const said = {
-    ran,
-    phase: PHASE,
-    ranAt: verdict.ranAt,
-    commit: verdict.commit,
-    refused: refusedHeld(verdict.refusals),
-    unrun: verdict.unrun,
-  }
-  return recorded(root, page, `${JSON.stringify(said)}\n`, under)
+  return recorded(root, page, `${answerLine(ran, verdict)}\n`, under)
 }

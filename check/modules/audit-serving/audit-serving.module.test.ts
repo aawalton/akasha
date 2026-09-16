@@ -22,6 +22,7 @@ import {
   CLEAN,
   checked,
   gathered,
+  into,
   LOGS,
   NOTHING,
   NOW,
@@ -232,6 +233,7 @@ test("a check with no verdict yet is run, and the verdict is kept", async () => 
     check: one,
     over,
     asked: over.commit,
+    record: into(root),
     run: async () => [],
   })
   expect(ran.ran).toBe(true)
@@ -267,6 +269,7 @@ test("an asker at a commit after the verdict is run again", async () => {
     check: one,
     over: { change: NOTHING, commit: made[1] ?? "" },
     asked: made[1] ?? "",
+    record: into(root),
     run: async () => [{ path: "one.ts", reason: "one refused" }],
   })
   expect(ran.ran).toBe(true)
@@ -286,6 +289,7 @@ test("a check whose input never moved is carried onto the newer commit in its lo
     asked: made[1] ?? "",
     moved: movedIn(root, made[1] ?? ""),
     shadow: shadowAsked(NOTHING),
+    record: into(root),
     run: async () => {
       throw new Error("this check was run where its verdict could be carried")
     },
@@ -303,6 +307,7 @@ test("many askers at one commit are answered by one run", async () => {
     check: checked("typecheck", root),
     over: { change: NOTHING, commit: made[0] ?? "" },
     asked: made[0] ?? "",
+    record: into(root),
     run: async (): Promise<readonly Judged[]> => {
       runs += 1
       return []

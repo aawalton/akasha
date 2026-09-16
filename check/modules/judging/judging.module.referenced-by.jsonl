@@ -187,6 +187,7 @@
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/types-file-runs-nothing/types-file-runs-nothing.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/modules/audit-child/audit-child.module.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/modules/audit-listening/audit-listening.module.test.ts"}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/modules/audit-recording/audit-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.test.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/modules/audit-verdict/audit-verdict.module.code.ts"}

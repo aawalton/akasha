@@ -1,7 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import type { Recording } from "akasha/check/modules/audit-recording/audit-recording.module.code.ts"
 import type { Verdict } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import type { Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
+import { recorded } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -19,6 +21,10 @@ export const NOTHING: Change = {
   changed: [],
   before: () => null,
   after: () => null,
+}
+
+export function into(root: string): Recording {
+  return (page, under, line) => Promise.resolve(recorded(root, page, `${line}\n`, under))
 }
 
 export function gathered(slug: string, root: string): Gathered {
