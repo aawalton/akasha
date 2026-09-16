@@ -1,0 +1,14 @@
+import type { MobileCut } from "akasha/alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.types.ts"
+
+export const alanwalton266 = {
+  id: "01a0a915-083e-7000-9390-03d8e06b6d43",
+  type: "page-type/mobile-cut",
+  slug: "alanwalton-266",
+  title: "alanwalton cut build 266",
+  app: "ios-app/alanwalton",
+  buildNumber: 266,
+  mainSha: "807b3730afb69ac9ab6655193436a7f4faec4053",
+  shellSha: "807b3730afb69ac9ab6655193436a7f4faec4053",
+  buildInputTreeHash: "e3fe7845fe709368f4df861c228ff7fd48c40e5e3087abeb727e9a98c9b70bee",
+  cutAt: "2026-09-16T07:18:43.005Z",
+} as const satisfies MobileCut
