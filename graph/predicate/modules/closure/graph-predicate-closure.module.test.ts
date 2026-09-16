@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { filesOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import {
   APART_AT,
+  AT_LOAD,
   BY_DECLARATION,
   BY_REFERENCE,
   bodiesIn,
@@ -12,6 +13,7 @@ import {
   indexOf,
   indexOver,
   KNOWN,
+  LOADING,
   NAMES,
   NAMES_CODE,
   NAMES_TYPE,
@@ -37,7 +39,7 @@ const ENDING = ".ts"
 
 const SIDEWAYS = { ...imports, direction: "sideways" }
 
-const DECLARED = { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_CODE }
+const DECLARED = { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_CODE, [LOADING]: AT_LOAD }
 
 const CODE_IMPORTERS = { ...importers, follows: codeImports.follows }
 
@@ -254,7 +256,7 @@ test("an edge over a body naming only a type says that edge names a type", () =>
       kind: IMPORT_EDGE,
       from: FIRST_AT,
       to: SECOND_AT,
-      attrs: { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_TYPE },
+      attrs: { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_TYPE, [LOADING]: AT_LOAD },
     },
   ])
 })

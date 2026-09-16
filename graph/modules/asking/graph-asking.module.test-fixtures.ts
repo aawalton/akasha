@@ -60,6 +60,12 @@ export const NAMES_TYPE = "type"
 
 export const NAMES_CODE = "code"
 
+export const LOADING = "loading"
+
+export const AT_LOAD = "at-load"
+
+export const DEFERRED = "deferred"
+
 export const PART = "part-slugs"
 
 export const LOADED_BY = "loaded-by"
@@ -176,6 +182,10 @@ export function typingBody(from: string): string {
   return `import type { Held } from "${from}"\n`
 }
 
+export function callingBody(from: string): string {
+  return `export const held = await import("${from}")\n`
+}
+
 export function edgeFiledAt(kind: string): string {
   return `page-type/${GRAPH_EDGE}/slug/${kind}.jsonl`
 }
@@ -234,7 +244,7 @@ export function relationWorld(lines: number, pagesExist = true): string {
   return root
 }
 
-const CARRIED = [KNOWN, NAMES]
+const CARRIED = [KNOWN, NAMES, LOADING]
 
 function worldFor(attributes: readonly string[] = CARRIED): string {
   const root = scratch.rootFor(PREFIX)

@@ -158,5 +158,13 @@ export const codeSpecifier = {
       decisionKind: "decision-kind/departure",
       statement: "A module named by a call is not typed, however late that call runs.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A specifier naming a module says whether that naming waits on a call.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A naming inside a call is deferred, and every other naming is not.",
+    },
   ],
 } as const satisfies Module

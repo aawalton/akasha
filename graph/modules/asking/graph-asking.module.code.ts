@@ -2,6 +2,7 @@ import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.modul
 import { importingIn } from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
 import type { Naming } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import type { Known } from "akasha/graph/attribute/pages/known.graph-attribute.ts"
+import type { Loading } from "akasha/graph/attribute/pages/loading.graph-attribute.ts"
 import type { Names } from "akasha/graph/attribute/pages/names.graph-attribute.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {
@@ -35,6 +36,8 @@ const APART = "\n"
 
 const KNOWN = "known"
 
+const LOADING = "loading"
+
 const NAMES = "names"
 
 const PROPERTY = "property"
@@ -46,6 +49,10 @@ const BY_DECLARATION: Known = "declaration"
 const NAMES_TYPE: Names = "type"
 
 const NAMES_CODE: Names = "code"
+
+const AT_LOAD: Loading = "at-load"
+
+const DEFERRED: Loading = "deferred"
 
 export type Edge = {
   readonly kind: string
@@ -138,6 +145,7 @@ function importsOutOf(
 ): readonly Edge[] {
   const known = attributeNamed(asking, KNOWN, asked)
   const names = attributeNamed(asking, NAMES, asked)
+  const loading = attributeNamed(asking, LOADING, asked)
   if (!typeScripted(path)) return []
   const body = bodyAt(path)
   if (body === null) return []
@@ -148,6 +156,7 @@ function importsOutOf(
     attrs: {
       [known]: BY_DECLARATION,
       [names]: one.typed ? NAMES_TYPE : NAMES_CODE,
+      [loading]: one.deferred ? DEFERRED : AT_LOAD,
     },
   }))
 }

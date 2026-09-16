@@ -10,6 +10,7 @@ const OUTSIDE = ".."
 export type Importing = {
   readonly at: string
   readonly typed: boolean
+  readonly deferred: boolean
 }
 
 export function importingIn(
@@ -21,7 +22,7 @@ export function importingIn(
   for (const one of placedIn(path, body)) {
     const landed = landingOf(path, one.text, naming)
     if (landed === null || landed === OUTSIDE || landed.startsWith(`${OUTSIDE}/`)) continue
-    found.push({ at: landed, typed: one.typed })
+    found.push({ at: landed, typed: one.typed, deferred: one.deferred })
   }
   return found
 }

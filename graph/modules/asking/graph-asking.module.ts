@@ -87,5 +87,13 @@ export const graphAsking = {
       decisionKind: "decision-kind/gap",
       statement: "An edge coming in says whether that edge names a type or names code.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An edge going out says whether that edge is followed as the file loads or later.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "An edge coming in says whether that edge is followed as the file loads or later.",
+    },
   ],
 } as const satisfies Module

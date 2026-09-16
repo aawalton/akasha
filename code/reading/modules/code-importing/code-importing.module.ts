@@ -44,5 +44,9 @@ export const codeImporting = {
       decisionKind: "decision-kind/departure",
       statement: "An import says whether that import names a type or names code.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An import says whether that import is read as the file loads or only later.",
+    },
   ],
 } as const satisfies Module

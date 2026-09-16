@@ -28,19 +28,26 @@ export type Placed = {
 
 export type Specified = Placed & {
   readonly typed: boolean
+  readonly deferred: boolean
 }
 
 type Taking = (
   node: ts.Node,
-  took: (said: ts.Node | undefined, typed?: boolean) => undefined
+  took: (said: ts.Node | undefined, typed?: boolean, deferred?: boolean) => undefined
 ) => undefined
 
 function reading(path: string, text: string, takes: Taking): readonly Specified[] {
   const source = skimmedAs(path, text)
   const found: Specified[] = []
-  const took = (node: ts.Node | undefined, typed = false): undefined => {
+  const took = (node: ts.Node | undefined, typed = false, deferred = false): undefined => {
     if (node === undefined || !ts.isStringLiteral(node)) return
-    found.push({ start: node.getStart(source), end: node.getEnd(), text: node.text, typed })
+    found.push({
+      start: node.getStart(source),
+      end: node.getEnd(),
+      text: node.text,
+      typed,
+      deferred,
+    })
   }
   const walk = (node: ts.Node): undefined => {
     takes(node, took)
@@ -66,7 +73,7 @@ export function placedIn(path: string, text: string): readonly Specified[] {
         (ts.isIdentifier(node.expression) && node.expression.text === "require") ||
         mocking(node))
     ) {
-      took(node.arguments[0])
+      took(node.arguments[0], false, true)
     }
     if (ts.isExternalModuleReference(node)) took(node.expression)
     if (ts.isImportTypeNode(node) && ts.isLiteralTypeNode(node.argument))

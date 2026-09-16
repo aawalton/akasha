@@ -218,6 +218,22 @@ test("a module named by a call is not typed, however late that call runs", () =>
   expect(placedIn(AT, body).map((one) => one.typed)).toEqual([false, false])
 })
 
+test("a naming inside a call is deferred, and every other naming is not", () => {
+  const body =
+    'import { one } from "./one.ts"\n' +
+    'export { two } from "./two.ts"\n' +
+    'const three = await import("./three.ts")\n' +
+    'const four = require("./four.ts")\n'
+
+  expect(placedIn(AT, body).map((one) => one.deferred)).toEqual([false, false, true, true])
+})
+
+test("a module named in type position is no call, so that naming is not deferred", () => {
+  const body = 'export type One = import("./one.ts").One\n'
+
+  expect(placedIn(AT, body).map((one) => one.deferred)).toEqual([false])
+})
+
 test("every string a body spells is read as naming no type", () => {
   const body = 'import type { One } from "./one.ts"\nconst two = "./two.ts"\n'
 

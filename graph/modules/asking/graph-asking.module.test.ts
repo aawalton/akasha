@@ -5,9 +5,12 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { edgesInto, edgesOutOver } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import {
   APART_AT,
+  AT_LOAD,
   BY_DECLARATION,
   BY_REFERENCE,
   bodiesIn,
+  callingBody,
+  DEFERRED,
   EDGE_AT,
   EDGE_ID,
   edgeFiledAt,
@@ -25,6 +28,7 @@ import {
   LOADED_BY,
   LOADED_CODE_AT,
   LOADER_AT,
+  LOADING,
   loaderWorld,
   loadingWorld,
   MODULE,
@@ -213,7 +217,7 @@ test("a file is answered with what its own body names, and each says a declarati
       kind: IMPORT_EDGE,
       from: FIRST_AT,
       to: SECOND_AT,
-      attrs: { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_CODE },
+      attrs: { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_CODE, [LOADING]: AT_LOAD },
     },
   ])
 })
@@ -227,7 +231,21 @@ test("an edge going out of a body naming only a type says that edge names a type
       kind: IMPORT_EDGE,
       from: FIRST_AT,
       to: SECOND_AT,
-      attrs: { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_TYPE },
+      attrs: { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_TYPE, [LOADING]: AT_LOAD },
+    },
+  ])
+})
+
+test("an edge going out of a call is followed when that call runs rather than as the file loads", () => {
+  const root = importWorld()
+  const bodies = filesOf({ [FIRST_AT]: callingBody("./second.page.ts") })
+
+  expect(edgesOutOver([IMPORT_EDGE], indexOf(root), bodies)(FIRST_AT)).toEqual([
+    {
+      kind: IMPORT_EDGE,
+      from: FIRST_AT,
+      to: SECOND_AT,
+      attrs: { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_CODE, [LOADING]: DEFERRED },
     },
   ])
 })

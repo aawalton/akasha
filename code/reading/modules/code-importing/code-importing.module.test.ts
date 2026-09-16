@@ -53,8 +53,17 @@ test("an import says whether that import names a type or names code", () => {
   const body = 'import type { One } from "./one.ts"\nimport { two } from "./two.ts"\n'
 
   expect(importingIn(body, "akasha/a.module.code.ts")).toEqual([
-    { at: "akasha/one.ts", typed: true },
-    { at: "akasha/two.ts", typed: false },
+    { at: "akasha/one.ts", typed: true, deferred: false },
+    { at: "akasha/two.ts", typed: false, deferred: false },
+  ])
+})
+
+test("an import says whether that import is read as the file loads or only later", () => {
+  const body = 'import { one } from "./one.ts"\nconst two = await import("./two.ts")\n'
+
+  expect(importingIn(body, "akasha/a.module.code.ts")).toEqual([
+    { at: "akasha/one.ts", typed: false, deferred: false },
+    { at: "akasha/two.ts", typed: false, deferred: true },
   ])
 })
 
