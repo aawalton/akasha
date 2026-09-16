@@ -26,6 +26,10 @@ export const measureAttribute = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every readout naming an attribute has a line, whatever group draws that readout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A level is read from the attribute's level property rather than worked out here.",
     },
     {

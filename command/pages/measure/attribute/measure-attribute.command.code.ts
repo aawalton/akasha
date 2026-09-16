@@ -15,15 +15,10 @@ import {
   type Measured,
   PLACES,
 } from "akasha/command/pages/measure/modules/tabling/measure-tabling.module.code.ts"
-import {
-  slugOf,
-  slugsIn,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 
 const READOUT = "readout"
-
-const GROUP = "attributes"
 
 const NOTHING_KEPT =
   "no attribute carries a total, so there is nothing to say. A figure Alan did not earn " +
@@ -46,12 +41,11 @@ function drawnIn(root: string): readonly Drawn[] {
   const found: Drawn[] = []
   const asked = asking(root, {
     pageTypeSlug: READOUT,
-    keys: ["slug", "label", "place", "groups", "attribute"],
+    keys: ["slug", "label", "place", "attribute"],
   } as never)
   if ("refused" in asked) throw new Error(asked.refused)
   for (const row of asked.rows) {
     const one = row as Readonly<Record<string, unknown>>
-    if (!slugsIn(one["groups"]).includes(GROUP)) continue
     const named = String(one["attribute"] ?? "")
     if (named === "") continue
     const attributeSlug = slugOf(named)
