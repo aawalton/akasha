@@ -31,7 +31,6 @@ export const TRIES = 5
 interface Filed {
   readonly at: number
   readonly id: string
-  readonly seq: number
   readonly value: number
 }
 
@@ -82,10 +81,9 @@ function identityOf(values: Readonly<Record<string, unknown>>): string {
   })
 }
 
-function lineOf(sample: HealthSample, id: string, seq: number, arrivedAt: string): string {
+function lineOf(sample: HealthSample, id: string, arrivedAt: string): string {
   return JSON.stringify({
     id,
-    seq,
     metric: sample.metric,
     startedAt: sample.startedAt,
     endedAt: sample.endedAt,
@@ -100,11 +98,9 @@ function filedIn(lines: readonly string[], path: string): ReadonlyMap<string, Fi
   const held = new Map<string, Filed>()
   for (let at = 0; at < lines.length; at += 1) {
     const values = valuesOf(lines[at] as string, path)
-    const seq = numberAt(values, "seq")
     held.set(identityOf(values), {
       at,
       id: textAt(values, "id"),
-      seq: Number.isFinite(seq) ? seq : 0,
       value: numberAt(values, "value"),
     })
   }
@@ -119,8 +115,6 @@ export function mergedInto(
 ): Merged {
   const lines = [...read]
   const filed = filedIn(lines, path)
-  let highest = 0
-  for (const one of filed.values()) if (one.seq > highest) highest = one.seq
   let inserted = 0
   let unchanged = 0
   let valueChanged = 0
@@ -128,8 +122,7 @@ export function mergedInto(
   for (const [identity, sample] of held) {
     const prior = filed.get(identity)
     if (prior === undefined) {
-      highest += 1
-      lines.push(lineOf(sample, randomUUID(), highest, arrivedAt))
+      lines.push(lineOf(sample, randomUUID(), arrivedAt))
       inserted += 1
       touched = true
       continue
@@ -138,7 +131,7 @@ export function mergedInto(
       unchanged += 1
       continue
     }
-    lines[prior.at] = lineOf(sample, prior.id, prior.seq, arrivedAt)
+    lines[prior.at] = lineOf(sample, prior.id, arrivedAt)
     valueChanged += 1
     touched = true
   }

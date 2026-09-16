@@ -23,8 +23,7 @@ export const sampleUpsert = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A reading whose value moved keeps the id and the seq that reading was filed under.",
+      statement: "A reading whose value moved keeps the id that reading was filed under.",
     },
     {
       decisionKind: "decision-kind/departure",

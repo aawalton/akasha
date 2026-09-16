@@ -77,7 +77,6 @@ test("a row is written with the keys a row beside an akasha page carries", () =>
     "endedAt",
     "id",
     "metric",
-    "seq",
     "sourceName",
     "startedAt",
     "unit",
@@ -85,7 +84,6 @@ test("a row is written with the keys a row beside an akasha page carries", () =>
   ])
   expect(row["startedAt"]).toBe("2026-01-01T08:00:00.000Z")
   expect(row["arrivedAt"]).toBe(ARRIVED)
-  expect(row["seq"]).toBe(1)
 })
 
 test("a reading already filed at that value touches nothing", () => {
@@ -96,7 +94,7 @@ test("a reading already filed at that value touches nothing", () => {
   expect(again.lines).toEqual(first.lines)
 })
 
-test("a reading whose value moved keeps the id and the seq it was filed under", () => {
+test("a reading whose value moved keeps the id it was filed under", () => {
   const first = mergedInto([], HELD, ARRIVED, AT)
   const was = parseRow(first.lines, 0)
   const moved = mergedInto(first.lines, heldOf(sampleOf(12)), ARRIVED, AT)
@@ -105,16 +103,7 @@ test("a reading whose value moved keeps the id and the seq it was filed under", 
   expect(moved.lines).toHaveLength(1)
   const now = parseRow(moved.lines, 0)
   expect(now["id"]).toBe(was["id"])
-  expect(now["seq"]).toBe(was["seq"])
   expect(now["value"]).toBe(12)
-})
-
-test("a second reading takes the seq after the highest already filed", () => {
-  const first = mergedInto([], HELD, ARRIVED, AT)
-  const other: HealthSample = { ...sampleOf(20), startedAt: "2026-01-01T09:00:00.000Z" }
-  const both = mergedInto(first.lines, heldOf(other), ARRIVED, AT)
-  const now = parseRow(both.lines, 1)
-  expect(now["seq"]).toBe(2)
 })
 
 test("a row already filed is matched by what names a reading rather than by its value", () => {
