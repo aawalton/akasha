@@ -11,7 +11,7 @@ export const veraGraphCleanup = {
       statement:
         "Every closure over the graph's edges is worked out in the graph rather than by each caller.",
       workingMemory:
-        "Not met. Three closures go through the graph: `dockerfile-imports` at `ab84af48094`, `supervisor-file-version` at `03682a4c641`, `remove-file-page` at `c98fae9a35e`. Two wait on a predicate following only code: an out edge says `names` type or code at `97004ede965`, and nothing reads it yet, so `no-import-cycle` would refuse 38 cycles over 387 files that never loop. `no-refused-syntax` is a loader, no import reader. Fourteen more close over `extends`, seven over `parts`.",
+        "Not met. Four closures go through the graph: `dockerfile-imports` `ab84af48094`, `supervisor-file-version` `03682a4c641`, `remove-file-page` `c98fae9a35e`, `extension-host-reaches-no-bun-code` `c22258f21ec`, audited clean over the tree. `no-import-cycle` has `at-load-imports` to move onto. `no-refused-syntax` is a loader, no import reader. Fourteen files close over `extends` and five over `parts`; four of the fourteen cannot call the graph without a cycle.",
     },
     {
       statement: "Every closure the graph answers is quick enough to ask on every landing.",
