@@ -3,7 +3,11 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 
-import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
+import {
+  type Landed,
+  landing,
+  type Refused,
+} from "akasha/command/modules/landing/landing.module.code.ts"
 import {
   A,
   ADMITS,
@@ -52,6 +56,8 @@ import {
   idFiledIn,
   listedFiledIn,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import type { Settling } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
+import { readingNone } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -108,6 +114,49 @@ test("a landing that takes a page away takes its index entries with it", async (
   expect(idFiledIn(root, ID)).toBe(false)
   expect(listedFiledIn(root, "domain", "a")).toBe(false)
   expect(identitiesListedIn(root, "domain")).toBe(false)
+})
+
+const NOTHING_SETTLED: Settling = {
+  reading: readingNone(),
+  filings: [],
+  references: [],
+  carried: new Map(),
+  beside: new Map(),
+  noted: [],
+  refusedBefore: [],
+  refused: [],
+}
+
+function landedSettled(root: string, base: string): Promise<Landed | Refused> {
+  return landing(
+    root,
+    rowsIn(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }]),
+    "held",
+    ADMITS,
+    null,
+    null,
+    [],
+    null,
+    null,
+    [],
+    null,
+    null,
+    { base, settling: NOTHING_SETTLED }
+  )
+}
+
+test("a settle worked out against the base this lands on is taken rather than worked out again", async () => {
+  const root = await carriedRepo()
+  expect("refusals" in (await landedSettled(root, baseOf(root)))).toBe(false)
+  expect(idFiledIn(root, ID)).toBe(false)
+})
+
+test("a settle worked out against a commit that is no longer the base is worked out again", async () => {
+  const root = await carriedRepo()
+  const stale = baseOf(root)
+  committedAgain(root, "later.txt", "later")
+  expect("refusals" in (await landedSettled(root, stale))).toBe(false)
+  expect(idFiledIn(root, ID)).toBe(true)
 })
 
 test("a refused change leaves the index as it found it, as it leaves the worktree", async () => {

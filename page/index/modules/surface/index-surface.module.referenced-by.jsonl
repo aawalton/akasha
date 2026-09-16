@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/folder-clearing/folder-clearing.module.test.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/landing/landing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/landing/landing.module.test.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/orphaning/orphaning.module.test.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.test.ts"}
