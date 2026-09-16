@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "No arm of the codebase is built and reached by nothing.",
       workingMemory:
-        "Alan is taking these one at a time. Lately gone: the seat pendency verdict, the reaper's redaction half, the supervisor's rebind-on-rotation path, green-day points, the ESO companion build search, the page-type writers and every guard that served them, and the property definition patch arm whose every caller could only throw. The generic write path writes a page type now, at the path the write names.",
+        "Alan is taking these one at a time. Lately gone: the page-type writers and every guard that served them, the property definition patch arm whose every caller could only throw, the select option a page never added, and the whole idle game, whose save and draw could only throw once the store went. The generic write path writes a page type now, at the path the write names.",
     },
   ],
   constraints: [
