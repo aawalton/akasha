@@ -302,6 +302,7 @@
 {"propertySlug":"decision-kind","path":"git/git.domain.ts","id":"01a05d7f-23fc-7000-b2b7-266f4611121a"}
 {"propertySlug":"decision-kind","path":"git/modules/answering/git-answering.module.ts","id":"01a06816-2f10-79aa-bee4-b5831ee0eaca"}
 {"propertySlug":"decision-kind","path":"git/modules/holding/holding.module.ts","id":"01a04df0-eccd-725e-9745-6888f36628bf"}
+{"propertySlug":"decision-kind","path":"graph/attribute/pages/loading.graph-attribute.ts","id":"01a0aa6a-cbd1-7703-a107-312755085be9"}
 {"propertySlug":"decision-kind","path":"graph/attribute/pages/names.graph-attribute.ts","id":"01a0a657-ee99-79ce-80ca-38525c881a53"}
 {"propertySlug":"decision-kind","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
 {"propertySlug":"decision-kind","path":"graph/modules/asking/graph-asking.module.ts","id":"01a04ff4-320c-7689-9d79-b3b0caa05ab1"}

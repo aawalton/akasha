@@ -2396,6 +2396,7 @@
 {"propertySlug":"decision-kind","path":"git/modules/running/git-running.module.ts","id":"01a05d7f-23fc-7001-9aaa-0ba0969f501e"}
 {"propertySlug":"decision-kind","path":"git/modules/store-sweeping/git-store-sweeping.module.ts","id":"01a091c7-3c36-724a-a2ce-575287558db5"}
 {"propertySlug":"decision-kind","path":"git/oid/oid.domain.ts","id":"01a06815-ceaf-7127-8234-36c9903aec73"}
+{"propertySlug":"decision-kind","path":"graph/attribute/pages/loading.graph-attribute.ts","id":"01a0aa6a-cbd1-7703-a107-312755085be9"}
 {"propertySlug":"decision-kind","path":"graph/attribute/pages/names.graph-attribute.ts","id":"01a0a657-ee99-79ce-80ca-38525c881a53"}
 {"propertySlug":"decision-kind","path":"graph/edge/graph-edge.page-type.ts","id":"01a04fe8-cebd-71d5-a040-d50b202e6eb1"}
 {"propertySlug":"decision-kind","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}

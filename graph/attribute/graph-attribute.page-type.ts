@@ -5,7 +5,12 @@ export const graphAttribute = {
   type: "page-type/page-type",
   slug: "graph-attribute",
   definition: "a fact carried on an edge",
-  parts: ["graph-attribute/known", "graph-attribute/names", "graph-attribute/property"],
+  parts: [
+    "graph-attribute/known",
+    "graph-attribute/loading",
+    "graph-attribute/names",
+    "graph-attribute/property",
+  ],
   extends: ["page-type/domain"],
   types: "ts",
   schema: "jsonl",
