@@ -29,11 +29,19 @@ export const extensionHostReachesNoBunCode = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The graph the host loads is answered by a predicate rather than walked here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A manifest naming no entry is refused rather than passed.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A specifier naming a package lands where that package's manifest says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The manifests placing a package specifier are the ones the index names.",
     },
     {
       decisionKind: "decision-kind/departure",

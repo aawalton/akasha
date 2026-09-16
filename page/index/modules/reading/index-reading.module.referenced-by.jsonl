@@ -85,7 +85,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/code/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.check-code.audit.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/code/pages/index-is-level-with-the-pages/index-is-level-with-the-pages.check-code.audit.code.ts"}

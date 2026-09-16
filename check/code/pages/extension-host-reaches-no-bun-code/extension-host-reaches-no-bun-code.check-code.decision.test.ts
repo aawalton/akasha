@@ -1,4 +1,4 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import {
   manifestIn,
   refusalsOver,
@@ -8,6 +8,7 @@ import {
   ENTRY,
   FAR,
   hosted,
+  hostShadow,
   LINKED_PAGE,
   LINKED_TO,
   MANIFEST,
@@ -18,8 +19,11 @@ import {
   PACKAGED_CODE,
   pathsRefused,
   refused,
+  scratch,
   stating,
 } from "akasha/check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.test-fixtures.ts"
+
+afterAll(scratch.sweep)
 
 const READS_NEXT = 'import { next } from "./next.module.code.ts"\n\nexport const one = next\n'
 
@@ -88,6 +92,19 @@ test("a specifier naming a package lands where that package's manifest says", ()
   expect(said).toEqual([PACKAGED_CODE])
 })
 
+test("a manifest the index names nowhere places no specifier", () => {
+  const aside = `${JSON.stringify({
+    name: "@akasha/aside",
+    exports: { "./reached": "./reached/reached.module.code.ts" },
+  })}\n`
+  const said = pathsRefused({
+    [ENTRY]: 'import { reached } from "@akasha/aside/reached"\n',
+    "aside/package.json": aside,
+    "aside/reached/reached.module.code.ts": "export const reached = Bun.version\n",
+  })
+  expect(said).toEqual([])
+})
+
 test("a refusal names the files the host reaches the refused file from", () => {
   const said = refused({
     [ENTRY]: READS_NEXT,
@@ -107,12 +124,13 @@ test("the entry itself is judged, holding nothing it was reached from", () => {
 
 test("a manifest naming no entry is refused rather than passed", () => {
   const held = change({ [ENTRY]: 'import "bun:ffi"\n' })
-  expect(refusalsOver(held, held.changed, MANIFEST).map((one) => one.reason)).toEqual([
+  expect(refusalsOver(held, hostShadow(held), MANIFEST).map((one) => one.reason)).toEqual([
     "this names no entry, so what the host loads is unknown",
   ])
 })
 
 test("a specifier landing on nothing is passed over", () => {
   const reads = 'import { gone } from "./gone.module.code.ts"\n'
-  expect(refusalsOver(hosted({ [ENTRY]: reads }), [], MANIFEST)).toEqual([])
+  const held = hosted({ [ENTRY]: reads })
+  expect(refusalsOver(held, hostShadow(held), MANIFEST)).toEqual([])
 })

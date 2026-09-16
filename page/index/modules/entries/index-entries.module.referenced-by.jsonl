@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"check/code/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.check-code.audit.code.ts"}
-{"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test.ts"}

@@ -3,7 +3,10 @@ import {
   refusalsOver,
 } from "akasha/check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { bodiesOver } from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
+import {
+  bodiesOver,
+  graphed,
+} from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
@@ -18,9 +21,8 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { type Shadow, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-
-const ROOT = "/nowhere"
 
 export const MANIFEST = "package.json"
 
@@ -103,6 +105,7 @@ function packageFiled(root: string): string {
     },
   ])
   linkedFiled(root)
+  graphed(root)
   return root
 }
 
@@ -159,7 +162,7 @@ export const PACKAGED_BODY = `${JSON.stringify({
 })}\n`
 
 export function change(bodies: Readonly<Record<string, string>>): Change {
-  return bodiesOver(ROOT, bodies)
+  return bodiesOver(rooted(), bodies)
 }
 
 export function withManifest(
@@ -172,9 +175,16 @@ export function hosted(bodies: Readonly<Record<string, string>>): Change {
   return change(withManifest(bodies))
 }
 
+const MANIFESTS: readonly string[] = [MANIFEST, PACKAGED]
+
+export function hostShadow(held: Change): Shadow {
+  const shadow = shadowAt(held.root)
+  return { ...shadow, index: { ...shadow.index, manifestsBeside: () => MANIFESTS } }
+}
+
 export function refused(bodies: Readonly<Record<string, string>>): readonly Judged[] {
   const held = hosted(bodies)
-  return refusalsOver(held, held.changed, MANIFEST)
+  return refusalsOver(held, hostShadow(held), MANIFEST)
 }
 
 export function pathsRefused(bodies: Readonly<Record<string, string>>): readonly string[] {

@@ -1,22 +1,15 @@
 import { dirname, join, normalize } from "node:path"
 import { textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import {
-  erasedExport,
-  erasedImport,
-  skimmedAs,
-} from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
-import {
-  landingOf,
-  type Naming,
-} from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
-import {
-  reachesIn,
-  reachingOver,
-} from "akasha/code/workspace/modules/package-manifest/package-manifest.module.code.ts"
+import { skimmedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import { placedIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
+import type { Edge } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
+import { takenIn } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { codeImports } from "akasha/graph/predicate/pages/code-imports/code-imports.graph-predicate.ts"
 import type { Carried } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 import ts from "typescript"
@@ -70,34 +63,15 @@ export function manifestIn(index: Indexing): string {
   return made
 }
 
-const NAMED = "package.json"
-
-const VENDORED = "node_modules"
-
 const MAIN = "main"
 
 const BUN = "bun:"
 
 const GLOBAL = "Bun"
 
-const DYNAMIC = "import("
-
-const STATED = "port"
-
 const SHOWN = 5
 
 const HOST = "the editor loads this graph into node, which holds no bun"
-
-function statedIn(node: ts.Statement): string | null {
-  if (ts.isImportDeclaration(node)) {
-    if (erasedImport(node.importClause) || !ts.isStringLiteral(node.moduleSpecifier)) return null
-    return node.moduleSpecifier.text
-  }
-  if (!ts.isExportDeclaration(node)) return null
-  const said = node.moduleSpecifier
-  if (said === undefined || !ts.isStringLiteral(said) || erasedExport(node)) return null
-  return said.text
-}
 
 export type Reached = {
   readonly specifiers: readonly string[]
@@ -106,45 +80,31 @@ export type Reached = {
 
 const NOTHING: Reached = { specifiers: [], global: false }
 
-function reachedIn(at: string, text: string): Reached {
-  const asked = text.includes(GLOBAL)
-  const dynamic = text.includes(DYNAMIC)
-  if (!asked && !dynamic && !text.includes(STATED)) return NOTHING
-  const source = skimmedAs(at, text)
-  const specifiers: string[] = []
-  for (const one of source.statements) {
-    const said = statedIn(one)
-    if (said !== null) specifiers.push(said)
-  }
-  if (!asked && !dynamic) return { specifiers, global: false }
-  let global = false
-  const over = (node: ts.Node): undefined => {
-    if (asked && !global && ts.isIdentifier(node) && node.text === GLOBAL) global = true
-    if (
-      dynamic &&
-      ts.isCallExpression(node) &&
-      node.expression.kind === ts.SyntaxKind.ImportKeyword
-    ) {
-      const said = node.arguments[0]
-      if (said !== undefined && ts.isStringLiteral(said)) specifiers.push(said.text)
-    }
-    ts.forEachChild(node, over)
-  }
-  ts.forEachChild(source, over)
-  return { specifiers, global }
+function bunNamedIn(at: string, text: string): readonly string[] {
+  return placedIn(at, text)
+    .filter((one) => !one.typed && one.text.startsWith(BUN))
+    .map((one) => one.text)
 }
 
-function namingOver(change: Change, paths: readonly string[]): Naming {
-  const found: ReadonlyMap<string, string>[] = []
-  for (const path of paths) {
-    if (path !== NAMED && !path.endsWith(`/${NAMED}`)) continue
-    if (path.split("/").includes(VENDORED)) continue
-    const text = textIn(change, path)
-    if (text === null) continue
-    const folder = dirname(path)
-    found.push(reachesIn(folder === "." ? "" : folder, text))
+function globalRead(at: string, text: string): boolean {
+  const source = skimmedAs(at, text)
+  let found = false
+  const over = (node: ts.Node): undefined => {
+    if (ts.isIdentifier(node) && node.text === GLOBAL) found = true
+    if (!found) ts.forEachChild(node, over)
   }
-  return reachingOver(found)
+  ts.forEachChild(source, over)
+  return found
+}
+
+function reachedIn(at: string, text: string): Reached {
+  const asked = text.includes(GLOBAL)
+  const named = text.includes(BUN)
+  if (!asked && !named) return NOTHING
+  return {
+    specifiers: named ? bunNamedIn(at, text) : [],
+    global: asked && globalRead(at, text),
+  }
 }
 
 function entryIn(change: Change, manifest: string): string | null {
@@ -176,24 +136,39 @@ function reasonFor(why: string, at: string, from: ReadonlyMap<string, string>): 
   return `${why}, and the host reaches it from ${through} — ${HOST}`
 }
 
-export function refusalsOver(
-  change: Change,
-  paths: readonly string[],
-  manifest: string
-): readonly Judged[] {
+function fromOver(entry: string, edges: readonly Edge[]): ReadonlyMap<string, string> {
+  const beyond = new Map<string, string[]>()
+  for (const edge of edges) {
+    const held = beyond.get(edge.from)
+    if (held === undefined) beyond.set(edge.from, [edge.to])
+    else held.push(edge.to)
+  }
+  const from = new Map<string, string>()
+  const seen = new Set([entry])
+  const waiting = [entry]
+  for (let here = waiting.shift(); here !== undefined; here = waiting.shift()) {
+    for (const next of beyond.get(here) ?? []) {
+      if (seen.has(next)) continue
+      seen.add(next)
+      from.set(next, here)
+      waiting.push(next)
+    }
+  }
+  return from
+}
+
+export function refusalsOver(change: Change, shadow: Shadow, manifest: string): readonly Judged[] {
   const entry = entryIn(change, manifest)
   if (entry === null) {
     return [{ path: manifest, reason: `this names no entry, so what the host loads is unknown` }]
   }
-  const naming = namingOver(change, paths)
-  const from = new Map<string, string>()
-  const seen = new Set<string>()
+  const taken = takenIn(codeImports, [entry], {
+    index: shadow.index,
+    bodyAt: (path) => textIn(change, path),
+  })
+  const from = fromOver(entry, taken.edges)
   const said: Judged[] = []
-  const stack: string[] = [entry]
-  while (stack.length > 0) {
-    const here = stack.pop()
-    if (here === undefined || seen.has(here)) continue
-    seen.add(here)
+  for (const here of taken.nodes) {
     const text = textIn(change, here)
     if (text === null) continue
     const reached = reachedIn(here, text)
@@ -204,16 +179,8 @@ export function refusalsOver(
       })
     }
     for (const one of reached.specifiers) {
-      if (one.startsWith(BUN)) {
-        said.push({ path: here, reason: reasonFor(`this names \`${one}\``, here, from) })
-        continue
-      }
-      const landed = landingOf(here, one, naming)
-      if (landed === null) continue
-      const at = normalize(landed)
-      if (!from.has(at) && at !== entry) from.set(at, here)
-      stack.push(at)
+      said.push({ path: here, reason: reasonFor(`this names \`${one}\``, here, from) })
     }
   }
-  return said.toSorted((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
+  return said
 }

@@ -82,7 +82,7 @@ function pageTyped(root: string): undefined {
   named(root, MODULE_TYPE_AT, modulePage.type, modulePage.slug, modulePage.id)
 }
 
-function graphed(root: string): undefined {
+export function graphed(root: string): undefined {
   paged(root, EDGE_PAGE_AT, importEdge)
   named(root, EDGE_PAGE_AT, importEdge.type, importEdge.slug, importEdge.id)
 }
