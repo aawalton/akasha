@@ -28,48 +28,26 @@ export type PropertyDefinition = {
   unique?: boolean
 }
 
-export type GetPropertyDefinitionsArgs = { pageTypeId: string } | { pageTypeSlug: string }
-
-type ByIdOrSlug = { pageTypeId: string } | { pageTypeSlug: string }
-
-function slugForFiles(args: ByIdOrSlug, what: string): string {
-  if ("pageTypeId" in args) {
-    throw new Error(
-      `${what}: an id names no file to read a page type from; address the page type by slug`
-    )
-  }
-  return args.pageTypeSlug
-}
-
-async function definitionsFromFiles(
-  args: GetPropertyDefinitionsArgs,
-  label: string
-): Promise<readonly PropertyDefinition[]> {
-  const pageTypeSlug = slugForFiles(args, `getPropertyDefinitions(${label})`)
-  return filePropertyDefinitions(pageTypeSlug)
-}
+export type GetPropertyDefinitionsArgs = { pageTypeSlug: string }
 
 export async function getPropertyDefinitions(
   args: GetPropertyDefinitionsArgs
 ): Promise<readonly PropertyDefinition[]> {
-  const label: string = "pageTypeId" in args ? args.pageTypeId : args.pageTypeSlug
-  return definitionsFromFiles(args, label)
+  return filePropertyDefinitions(args.pageTypeSlug)
 }
 
-export type GetSequenceConfigArgs = { pageTypeId: string } | { pageTypeSlug: string }
+export type GetSequenceConfigArgs = { pageTypeSlug: string }
 
 export async function getSequenceConfig(
   args: GetSequenceConfigArgs
 ): Promise<SequenceConfig | null> {
-  const label: string = "pageTypeId" in args ? args.pageTypeId : args.pageTypeSlug
-  return fileSequenceConfig(slugForFiles(args, `getSequenceConfig(${label})`))
+  return fileSequenceConfig(args.pageTypeSlug)
 }
 
-export type GetMediaConfigArgs = { pageTypeId: string } | { pageTypeSlug: string }
+export type GetMediaConfigArgs = { pageTypeSlug: string }
 
 export async function getMediaConfig(args: GetMediaConfigArgs): Promise<MediaConfig | null> {
-  const label: string = "pageTypeId" in args ? args.pageTypeId : args.pageTypeSlug
-  return fileMediaConfig(slugForFiles(args, `getMediaConfig(${label})`))
+  return fileMediaConfig(args.pageTypeSlug)
 }
 
 export async function getMediaPageTypeSlugs(): Promise<ReadonlySet<string>> {
