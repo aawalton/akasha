@@ -101,7 +101,6 @@ async function messageTo(to: string, body: string): Promise<string | null> {
         slug: named,
         values: {
           id,
-          pageTypeSlug: MESSAGE_PAGE_TYPE_SLUG,
           slug: named,
           to: namedAs(SEAT_PAGE_TYPE_SLUG, to, null),
           from: SAID_FROM,
