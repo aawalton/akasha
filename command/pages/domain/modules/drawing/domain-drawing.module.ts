@@ -14,7 +14,7 @@ export const domainDrawing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An edge is a `domain/<slug>` part named by the domain with that part.",
+      statement: "An edge is a `parts` relation the index resolves, however that part is spelled.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,7 +22,7 @@ export const domainDrawing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A part naming no domain page is drawn and marked rather than passed over.",
+      statement: "A part reaching no domain page is passed over rather than drawn and marked.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -53,6 +53,19 @@ export const domainDrawing = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The parts below and the domains above are answered by a graph predicate rather than walked here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A domain is stepped by its file path rather than by its slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A part naming a domain by id is reached as readily as one naming it by slug.",
     },
   ],
 } as const satisfies Module

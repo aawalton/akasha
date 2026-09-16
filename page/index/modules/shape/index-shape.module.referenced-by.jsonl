@@ -38,6 +38,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"code/ios-harness/scripts/render-harness-run/render-harness-run.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"code/shell-script/pages/statusline/statusline.shell-script.scripting.code.ts"}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"command/pages/page/tree/page-tree.command.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"domain/modules/rows/domain-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}

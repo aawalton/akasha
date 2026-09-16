@@ -5,8 +5,9 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   domainsIn,
   type Entry,
-  heldBy,
+  entriesByPath,
   kindsUnderDomain,
+  relatedIn,
   treeLines,
 } from "akasha/command/pages/domain/modules/drawing/domain-drawing.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
@@ -23,21 +24,29 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
+const DOMAINS = domainsIn(ROOT, false)
+
+const HELD = entriesByPath(DOMAINS)
+
+const OUTWARD = relatedIn(ROOT, HELD, [...HELD.keys()], false)
+
+function pathAt(slug: string): string {
+  return DOMAINS.get(slug)?.path ?? slug
+}
+
 test("a domain page carries its parts as the domains it holds", () => {
-  const domains = domainsIn(ROOT, false)
-  expect(domains.size).toBeGreaterThan(0)
-  const email = domains.get("email")
-  expect(email?.path.endsWith("email.domain.ts")).toBe(true)
-  expect(email?.parts).toContain("email-action")
+  expect(DOMAINS.size).toBeGreaterThan(0)
+  expect(pathAt("email").endsWith("email.domain.ts")).toBe(true)
+  expect(OUTWARD.under.get(pathAt("email"))).toContain(pathAt("email-action"))
 })
 
 test("a domain never names itself as one of its own parts", () => {
-  for (const one of domainsIn(ROOT, false).values()) expect(one.parts).not.toContain(one.slug)
+  for (const path of HELD.keys()) expect(OUTWARD.under.get(path) ?? []).not.toContain(path)
 })
 
 test("the holders of a part are the domains naming it", () => {
-  const domains = domainsIn(ROOT, false)
-  expect(heldBy(domains).get("email-action")).toContain("email")
+  const over = relatedIn(ROOT, HELD, [pathAt("email-action")], true).over
+  expect(over.get(pathAt("email-action"))).toContain(pathAt("email"))
 })
 
 test("`domain` itself is under `domain`, and `module` and `command` are too", () => {
@@ -52,46 +61,47 @@ test("the descent reading holds strictly more than the domain pages alone", () =
   expect(domainsIn(ROOT, true).size).toBeGreaterThan(domainsIn(ROOT, false).size)
 })
 
-function entriesOf(said: Readonly<Record<string, readonly string[]>>): ReadonlyMap<string, Entry> {
-  return new Map(
-    Object.entries(said).map(([slug, parts]) => [slug, { slug, path: `${slug}.domain.ts`, parts }])
+function fileOf(slug: string): string {
+  return `${slug}.domain.ts`
+}
+
+interface Held {
+  readonly held: ReadonlyMap<string, Entry>
+  readonly under: ReadonlyMap<string, readonly string[]>
+}
+
+function drawnOf(said: Readonly<Record<string, readonly string[]>>): Held {
+  const held = new Map<string, Entry>(
+    Object.keys(said).map((slug) => [fileOf(slug), { slug, path: fileOf(slug) }])
   )
+  const under = new Map<string, readonly string[]>(
+    Object.entries(said).map(([slug, parts]) => [fileOf(slug), parts.map(fileOf)])
+  )
+  return { held, under }
 }
 
 test("a domain held by two domains is drawn under each of them", () => {
-  const domains = entriesOf({ one: ["held"], two: ["held"], held: ["under"], under: [] })
+  const drawn = drawnOf({ one: ["held"], two: ["held"], held: ["under"], under: [] })
 
-  expect(treeLines(["one", "two"], domains, false)).toEqual([
-    "one",
-    "  held",
-    "    under",
-    "two",
-    "  held",
-    "    under",
-  ])
+  const lines = treeLines([fileOf("one"), fileOf("two")], drawn.held, drawn.under, false)
+
+  expect(lines).toEqual(["one", "  held", "    under", "two", "  held", "    under"])
 })
 
 test("a domain drawn a second time beside the first is no domain already open", () => {
-  const domains = entriesOf({ root: ["one", "two"], one: ["held"], two: ["held"], held: [] })
+  const drawn = drawnOf({ root: ["one", "two"], one: ["held"], two: ["held"], held: [] })
 
-  expect(treeLines(["root"], domains, false)).toEqual([
-    "root",
-    "  one",
-    "    held",
-    "  two",
-    "    held",
-  ])
+  const lines = treeLines([fileOf("root")], drawn.held, drawn.under, false)
+
+  expect(lines).toEqual(["root", "  one", "    held", "  two", "    held"])
 })
 
 test("a domain open above the point being drawn is marked rather than drawn again", () => {
-  const domains = entriesOf({ root: ["held"], held: ["beside"], beside: ["held"] })
+  const drawn = drawnOf({ root: ["held"], held: ["beside"], beside: ["held"] })
 
-  expect(treeLines(["root"], domains, false)).toEqual([
-    "root",
-    "  held",
-    "    beside",
-    "      held  — already open above here",
-  ])
+  const lines = treeLines([fileOf("root")], drawn.held, drawn.under, false)
+
+  expect(lines).toEqual(["root", "  held", "    beside", "      held  — already open above here"])
 })
 
 function typed(root: string, slug: string, above: readonly string[]): undefined {
