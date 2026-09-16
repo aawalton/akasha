@@ -4,6 +4,10 @@ import {
   runOf,
 } from "akasha/infrastructure/service/workstation/modules/run-composing/run-composing.module.code.ts"
 import {
+  LOOPBACK,
+  portFor,
+} from "akasha/infrastructure/service/workstation/modules/service-binding/service-binding.module.code.ts"
+import {
   loadedHere,
   loaderRun,
 } from "akasha/infrastructure/service/workstation/modules/service-loading/service-loading.module.code.ts"
@@ -28,6 +32,8 @@ export const SERVICE_PAGE_TYPE = "service-workstation"
 const PAGE_TYPE = "page-type"
 
 const RUNNER = "module/service-running"
+
+const PAGES_SLUG = "page-service"
 
 const SYSTEMD_TEXT_KEYS = ["restart", "schedule", "partOf", "wantedBy"] as const
 const SYSTEMD_NUMBER_KEYS = [
@@ -120,6 +126,11 @@ export function serviceIn(root: string, value: Value, codeAt: string = ""): Star
   }
 }
 
+export function pagesOriginIn(root: string): string | undefined {
+  const port = portFor(root, PAGES_SLUG)
+  return port === null ? undefined : `http://${LOOPBACK}:${port}`
+}
+
 function serviceAt(root: string, path: string, codeAt: string): Service | string {
   const value = valueAt(path, root)
   if (value === null) return `${path} did not load, so the service it states is not read`
@@ -129,7 +140,8 @@ function serviceAt(root: string, path: string, codeAt: string): Service | string
   if (service === null) {
     return `${path} states no slug, definition, runs and enabled, so it is no workstation service`
   }
-  return { service, pagePath: path }
+  const pagesOrigin = pagesOriginIn(root)
+  return { service, pagePath: path, ...(pagesOrigin === undefined ? {} : { pagesOrigin }) }
 }
 
 export function readFor(root: string, slug: string, codeAt: string = ""): Read {

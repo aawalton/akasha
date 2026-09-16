@@ -24,6 +24,8 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/deploy/deploy.command.test.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.test.ts"}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"page/access/modules/answer/answer.module.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"page/access/modules/capture-error/capture-error.module.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"page/access/modules/capture-error/capture-error.module.test.ts"}

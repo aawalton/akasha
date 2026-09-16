@@ -31,7 +31,9 @@ export const FILE_AT = "/file"
 
 export const APPEND_AT = "/append"
 
-const ORIGIN_NAMES: readonly string[] = ["PAGES_SERVICE_ORIGIN", "PAGE_STORE_ORIGIN"]
+export const ORIGIN_ENV = "PAGES_SERVICE_ORIGIN"
+
+const ORIGIN_NAMES: readonly string[] = [ORIGIN_ENV, "PAGE_STORE_ORIGIN"]
 
 const OVER_THE_TAILNET = "http://page-forwarder.page-forwarder.svc.cluster.local:8787"
 

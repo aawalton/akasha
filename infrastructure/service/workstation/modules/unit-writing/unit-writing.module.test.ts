@@ -8,6 +8,7 @@ import {
   timerUnitName,
   timerUnitText,
 } from "akasha/infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"
+import { ORIGIN_ENV } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const PAGE_PATH =
   "akasha/service-system/service-workstation/workstations/held-service.service-workstation.ts"
@@ -231,6 +232,16 @@ test("a loader-run service stating the pages service is written it once", () => 
     pageOf({ slug: LOADED_SLUG, systemd: { after: ["page-service.service"] } })
   )
   expect(text.split("After=page-service.service").length - 1).toBe(1)
+})
+
+test("a unit is given the origin the pages service answers on where one is handed in", () => {
+  const text = serviceUnitText({ ...pageOf({}), pagesOrigin: "http://127.0.0.1:8080" })
+  expect(text).toContain(`Environment=${ORIGIN_ENV}=http://127.0.0.1:8080\n`)
+  expect(text.indexOf(ORIGIN_ENV)).toBeLessThan(text.indexOf("ExecStart="))
+})
+
+test("a service handed no origin has that name nowhere in its unit", () => {
+  expect(serviceUnitText(pageOf({}))).not.toContain(ORIGIN_ENV)
 })
 
 test("every unit runs its command in the checkout, so a bare specifier resolves there", () => {

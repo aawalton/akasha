@@ -1,5 +1,6 @@
 import { loadedHere } from "akasha/infrastructure/service/workstation/modules/service-loading/service-loading.module.code.ts"
 import type { ServiceWorkstation } from "akasha/infrastructure/service/workstation/service-workstation.page-type.types.ts"
+import { ORIGIN_ENV } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const PATH_ENV =
   "%h/.bun/bin:%h/.local/bin:/home/linuxbrew/.linuxbrew/bin:/usr/local/bin:/usr/bin:/bin"
@@ -27,6 +28,7 @@ export type Started = ServiceWorkstation & { readonly runs: readonly string[] }
 export type Service = {
   readonly service: Started
   readonly pagePath: string
+  readonly pagesOrigin?: string
 }
 
 function scheduleOf(given: Service): string | null {
@@ -122,6 +124,7 @@ export function serviceUnitText(given: Service): string {
     `WorkingDirectory=${CHECKOUT}`,
     `Environment=PATH=${PATH_ENV}`,
     `Environment=AKASHA_ROOT=${CHECKOUT}`,
+    ...(given.pagesOrigin === undefined ? [] : [`Environment=${ORIGIN_ENV}=${given.pagesOrigin}`]),
     ...execLines(given),
   ]
 

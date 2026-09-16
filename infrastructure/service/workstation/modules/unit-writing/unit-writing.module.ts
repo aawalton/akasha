@@ -111,5 +111,17 @@ export const unitWriting = {
       decisionKind: "decision-kind/departure",
       statement: "Every unit runs its command in the checkout, so a bare specifier resolves there.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A unit is given the origin the pages service answers on where one is handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The name that origin is given is the one the caller of the pages reads.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A service handed no origin has that name nowhere in its unit.",
+    },
   ],
 } as const satisfies Module

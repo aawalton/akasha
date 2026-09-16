@@ -3,6 +3,7 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import {
   everyService,
+  pagesOriginIn,
   readFor,
   runnerCodeIn,
   serviceIn,
@@ -167,6 +168,26 @@ test("the service there today is read from its page", () => {
   expect(read.services[0]?.service.slug).toBe("page-service")
   expect(read.services[0]?.service.enabled).toBe(true)
   expect(read.services[0]?.pagePath).toContain("page-service.service-workstation.ts")
+})
+
+test("the origin is the loopback and the port the pages service's own page states", () => {
+  const read = readFor(ROOT, "page-service")
+  expect("services" in read).toBe(true)
+  if (!("services" in read)) return
+  const port = read.services[0]?.service.port
+  expect(typeof port).toBe("number")
+  expect(pagesOriginIn(ROOT)).toBe(`http://127.0.0.1:${port}`)
+})
+
+test("a service is read with the origin the pages service answers on", () => {
+  const read = readFor(ROOT, "memory-reaper")
+  expect("services" in read).toBe(true)
+  if (!("services" in read)) return
+  expect(read.services[0]?.pagesOrigin).toBe(pagesOriginIn(ROOT))
+})
+
+test("a checkout stating no pages service leaves a service reading no origin", () => {
+  expect(pagesOriginIn("/nowhere")).toBe(undefined)
 })
 
 test("every service there is read, and the one there today is among them", () => {

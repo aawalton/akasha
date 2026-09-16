@@ -73,5 +73,17 @@ export const serviceReading = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a unit.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service is read with the origin the pages service answers on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That origin is the loopback and the port the pages service's own page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A checkout stating no pages service leaves a service reading no origin.",
+    },
   ],
 } as const satisfies Module
