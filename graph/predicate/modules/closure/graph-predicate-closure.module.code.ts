@@ -16,6 +16,14 @@ const OUT = "out"
 
 const AT_THE_SEEDS = 0
 
+const ALONE = 1
+
+const BEFORE = -1
+
+const AFTER = 1
+
+const ALIKE = 0
+
 function every(): boolean {
   return true
 }
@@ -126,4 +134,61 @@ export function closureOf(
   asked: Asked
 ): readonly string[] {
   return takenIn(predicate, seeds, asked).nodes
+}
+
+export function reachingOf(taken: Taken): ReadonlyMap<string, readonly string[]> {
+  const found = new Map<string, string[]>()
+  for (const one of taken.nodes) found.set(one, [])
+  for (const one of taken.edges) {
+    const held = found.get(one.from)
+    if (held !== undefined) held.push(one.to)
+  }
+  return found
+}
+
+function firstOf(held: readonly string[]): string {
+  return held[0] ?? ""
+}
+
+function byFirst(one: readonly string[], two: readonly string[]): number {
+  const here = firstOf(one)
+  const there = firstOf(two)
+  return here < there ? BEFORE : here > there ? AFTER : ALIKE
+}
+
+export function loopsIn(taken: Taken): readonly (readonly string[])[] {
+  const reaching = reachingOf(taken)
+  const index = new Map<string, number>()
+  const low = new Map<string, number>()
+  const onStack = new Set<string>()
+  const stack: string[] = []
+  const found: string[][] = []
+  let counted = 0
+  const walk = (at: string): undefined => {
+    index.set(at, counted)
+    low.set(at, counted)
+    counted += 1
+    stack.push(at)
+    onStack.add(at)
+    for (const next of reaching.get(at) ?? []) {
+      if (!index.has(next)) {
+        walk(next)
+        low.set(at, Math.min(low.get(at) ?? 0, low.get(next) ?? 0))
+        continue
+      }
+      if (onStack.has(next)) low.set(at, Math.min(low.get(at) ?? 0, index.get(next) ?? 0))
+    }
+    if (low.get(at) !== index.get(at)) return
+    const held: string[] = []
+    let said: string | undefined
+    do {
+      said = stack.pop()
+      if (said === undefined) break
+      onStack.delete(said)
+      held.push(said)
+    } while (said !== at)
+    if (held.length > ALONE || (reaching.get(at) ?? []).includes(at)) found.push([...held].sort())
+  }
+  for (const at of [...reaching.keys()].sort()) if (!index.has(at)) walk(at)
+  return found.sort(byFirst)
 }

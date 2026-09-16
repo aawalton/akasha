@@ -16,7 +16,6 @@ import {
   KNOWN,
   LOADING,
   NAMES,
-  NAMES_CODE,
   NAMES_TYPE,
   namingBody,
   reachingWorld,
@@ -27,46 +26,35 @@ import {
 } from "akasha/graph/modules/asking/graph-asking.module.test-fixtures.ts"
 import {
   closureOf,
+  loopsIn,
   takenIn,
 } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import {
+  CODE_IMPORTERS,
+  changeAdding,
+  DECLARED,
+  EITHER_IMPORTERS,
+  EITHER_IMPORTS,
+  SIDEWAYS,
+} from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.test-fixtures.ts"
 import { atLoadImports } from "akasha/graph/predicate/pages/at-load-imports/at-load-imports.graph-predicate.ts"
 import { codeImports } from "akasha/graph/predicate/pages/code-imports/code-imports.graph-predicate.ts"
 import { importers } from "akasha/graph/predicate/pages/importers/importers.graph-predicate.ts"
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
 import { readingLaidOver } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowOnto } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const ENDING = ".ts"
 
 const NEAR_AT = "akasha/held/near.page.ts"
 
-const SIDEWAYS = { ...imports, direction: "sideways" }
-
-const DECLARED = { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_CODE, [LOADING]: AT_LOAD }
-
-const CODE_IMPORTERS = { ...importers, follows: codeImports.follows }
-
-const EITHER_NAME = [
-  { attribute: "graph-attribute/names", value: NAMES_CODE },
-  { attribute: "graph-attribute/names", value: NAMES_TYPE },
-]
-
-const EITHER_IMPORTS = { ...imports, follows: EITHER_NAME }
-
-const EITHER_IMPORTERS = { ...importers, follows: EITHER_NAME }
-
-const writing = new TextEncoder()
-
 afterAll(scratch.sweep)
 
-function changeAdding(root: string, at: string, body: string): Change {
-  return {
-    root,
-    changed: [at],
-    before: () => null,
-    after: (path) => (path === at ? writing.encode(body) : null),
-  }
+function loopsOver(
+  reaching: Readonly<Record<string, readonly string[]>>
+): readonly (readonly string[])[] {
+  const root = reachingWorld(reaching)
+  return loopsIn(takenIn(importers, Object.keys(reaching), { index: indexOf(root) }))
 }
 
 test("a predicate followed out answers what the seeds reach through the bodies handed in", () => {
@@ -391,4 +379,32 @@ test("a node two ways reach is at the fewer steps rather than at the way walked 
   expect(taken.stepsTo.get(THIRD_AT)).toBe(1)
   expect(taken.stepsTo.get(SECOND_AT)).toBe(2)
   expect(taken.stepsTo.get(APART_AT)).toBe(2)
+})
+
+test("a chain the seeds reach the end of holds no loop", () => {
+  expect(loopsOver({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [THIRD_AT] })).toEqual([])
+})
+
+test("a ring is answered as one loop holding every node it reaches round", () => {
+  expect(
+    loopsOver({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [THIRD_AT], [THIRD_AT]: [FIRST_AT] })
+  ).toEqual([[FIRST_AT, SECOND_AT, THIRD_AT]])
+})
+
+test("a node naming itself is a loop of that node alone", () => {
+  expect(loopsOver({ [FIRST_AT]: [FIRST_AT] })).toEqual([[FIRST_AT]])
+})
+
+test("two rings apart are answered as two loops rather than as one", () => {
+  expect(
+    loopsOver({
+      [FIRST_AT]: [SECOND_AT],
+      [SECOND_AT]: [FIRST_AT],
+      [THIRD_AT]: [NEAR_AT],
+      [NEAR_AT]: [THIRD_AT],
+    })
+  ).toEqual([
+    [FIRST_AT, SECOND_AT],
+    [NEAR_AT, THIRD_AT],
+  ])
 })

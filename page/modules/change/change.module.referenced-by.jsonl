@@ -109,7 +109,7 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"command/modules/orphaning/orphaning.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"command/modules/value-minting/value-minting.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"}
-{"propertySlug":"import","fileName":"change.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test.ts"}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/index/modules/generated-properties/generated-properties.module.test.ts"}

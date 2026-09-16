@@ -11,7 +11,7 @@ import {
 } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import {
   type Asked,
-  type Taken,
+  reachingOf,
   takenIn,
 } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { atLoadImports } from "akasha/graph/predicate/pages/at-load-imports/at-load-imports.graph-predicate.ts"
@@ -53,16 +53,6 @@ function askedOf(shadow: Shadow, read: Bodies): Asked {
   const bodyAt = bodiesOf(read)
   const through = (path: string): boolean => textNamed(path) && bodyAt(path) !== null
   return { index: shadow.index, bodyAt, through }
-}
-
-function reachingOf(taken: Taken): ReadonlyMap<string, readonly string[]> {
-  const found = new Map<string, string[]>()
-  for (const one of taken.nodes) found.set(one, [])
-  for (const one of taken.edges) {
-    const held = found.get(one.from)
-    if (held !== undefined) held.push(one.to)
-  }
-  return found
 }
 
 export function reachingIn(change: Change, shadow: Shadow): ReadonlyMap<string, readonly string[]> {

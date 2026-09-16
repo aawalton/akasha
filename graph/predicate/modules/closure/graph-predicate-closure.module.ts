@@ -7,6 +7,7 @@ export const graphPredicateClosure = {
   definition: "the closure a predicate takes in from the seeds it is handed",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -111,6 +112,28 @@ export const graphPredicateClosure = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The nodes one step out are walked before the nodes two steps out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The loops among what a predicate reached are read off the closure that reached them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nodes that each reach the other are answered as one loop.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A node reaching itself over one edge is a loop of that node alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A node that no loop holds is no part of the answer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each loop comes back sorted and the loops come back sorted, so two asks alike answer alike.",
     },
   ],
 } as const satisfies Module
