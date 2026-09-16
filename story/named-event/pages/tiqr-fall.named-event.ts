@@ -11,6 +11,5 @@ export const tiqrFall = {
   evidenceNote:
     "ruled from sweep evidence 'Tiqr had fallen this morning' (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "battle",
-  seq: 20,
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

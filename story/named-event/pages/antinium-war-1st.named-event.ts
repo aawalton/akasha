@@ -16,6 +16,5 @@ export const antiniumWar1st = {
   evidenceNote:
     "ruled from sweep evidence 'One month after the start of the First Antinium War' — war-start offsets and during-war refs share the node; anchors carry their own coarse tiers (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "battle",
-  seq: 15,
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

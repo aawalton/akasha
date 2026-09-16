@@ -13,6 +13,5 @@ export const goblinLordFinalBattle = {
   firstChapter: 240,
   namedEventKind: "battle",
   lastChapter: 400,
-  seq: 23,
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

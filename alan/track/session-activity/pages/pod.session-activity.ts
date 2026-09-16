@@ -6,5 +6,4 @@ export const pod = {
   slug: "pod",
   title: "Pod",
   defaultDifficulty: 0,
-  seq: 41,
 } as const satisfies SessionActivity

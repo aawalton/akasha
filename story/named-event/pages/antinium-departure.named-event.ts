@@ -11,6 +11,5 @@ export const antiniumDeparture = {
   evidenceNote:
     "ruled from sweep evidence 'nearly eight months after the Antinium left Rhir' (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "global-event",
-  seq: 26,
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

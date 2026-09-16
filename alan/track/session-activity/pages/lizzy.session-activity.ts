@@ -7,5 +7,4 @@ export const lizzy = {
   title: "Lizzy",
   defaultDifficulty: 2,
   icon: "file-text",
-  seq: 39,
 } as const satisfies SessionActivity

@@ -13,6 +13,5 @@ export const christmasY2 = {
   firstChapter: 620,
   namedEventKind: "festival",
   lastChapter: 750,
-  seq: 8,
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

@@ -29,7 +29,6 @@ export const namedEvent = {
     { pageProperty: "number-property/event-first-chapter", required: false, many: false },
     { pageProperty: "select-property/named-event-kind", required: true, many: false },
     { pageProperty: "number-property/event-last-chapter", required: false, many: false },
-    { pageProperty: "number-property/seq", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
   ],
   decisions: [

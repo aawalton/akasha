@@ -10,6 +10,5 @@ export const ailendamusInvasion = {
   evidenceNote:
     "ruled from sweep evidence 'as its armies marched over the border of Kilav' — ailendamus-dawn-concordat-battle/defeat/victory refs NOT merged - different battles months apart (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "battle",
-  seq: 27,
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

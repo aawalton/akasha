@@ -10,6 +10,5 @@ export const meetingOfTribes = {
   evidenceNote:
     "ruled from sweep evidence 'Meeting of Tribes' — months-long span event; battle-of-great-plains is its climax (separate entry) (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "global-event",
-  seq: 11,
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

@@ -13,6 +13,5 @@ export const villageOfDeadRaid = {
   firstChapter: 495,
   namedEventKind: "battle",
   lastChapter: 824,
-  seq: 16,
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

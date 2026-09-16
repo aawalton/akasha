@@ -7,5 +7,4 @@ export const rest = {
   title: "Rest",
   defaultDifficulty: 0,
   icon: "file-text",
-  seq: 36,
 } as const satisfies SessionActivity

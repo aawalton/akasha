@@ -7,5 +7,4 @@ export const bath = {
   title: "Bath",
   defaultDifficulty: 1,
   icon: "droplet",
-  seq: 46,
 } as const satisfies SessionActivity

@@ -7,5 +7,4 @@ export const church = {
   title: "Church",
   defaultDifficulty: 3,
   icon: "file-text",
-  seq: 5,
 } as const satisfies SessionActivity

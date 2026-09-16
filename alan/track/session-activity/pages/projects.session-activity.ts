@@ -7,5 +7,4 @@ export const projects = {
   title: "Projects",
   defaultDifficulty: 2,
   icon: "file-text",
-  seq: 2,
 } as const satisfies SessionActivity

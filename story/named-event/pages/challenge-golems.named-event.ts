@@ -11,6 +11,5 @@ export const challengeGolems = {
   evidenceNote:
     "ruled from sweep evidence 'only two weeks away' (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "global-event",
-  seq: 32,
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

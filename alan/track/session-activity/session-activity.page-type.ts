@@ -11,7 +11,6 @@ export const sessionActivity = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "number-property/default-difficulty", required: true, many: false },
     { pageProperty: "text-property/icon", required: false, many: false },
-    { pageProperty: "number-property/seq", required: false, many: false },
   ],
   decisions: [
     {

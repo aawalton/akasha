@@ -11,6 +11,5 @@ export const wyvernsAttackPallass = {
   evidenceNote:
     "ruled from sweep evidence 'About an hour before the Wyverns attack Pallass' (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "battle",
-  seq: 30,
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

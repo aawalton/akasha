@@ -10,6 +10,5 @@ export const moonCrack = {
   evidenceNote:
     "ruled from sweep evidence 'since the moon cracked' — before/after refs cleanly bracket ch791-816 (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "global-event",
-  seq: 35,
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

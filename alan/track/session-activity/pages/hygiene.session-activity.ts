@@ -6,5 +6,4 @@ export const hygiene = {
   slug: "hygiene",
   title: "Hygiene",
   defaultDifficulty: 1,
-  seq: 45,
 } as const satisfies SessionActivity

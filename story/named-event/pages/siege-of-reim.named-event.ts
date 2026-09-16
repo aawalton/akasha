@@ -10,6 +10,5 @@ export const siegeOfReim = {
   evidenceNote:
     "ruled from sweep evidence 'At the same time the Vizir was causing trouble, it was true that the siege of Reim had begun.' (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "battle",
-  seq: 39,
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

@@ -1,4 +1,3 @@
-import type { Seq } from "akasha/alan/track/daily/day/properties/seq.number-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { EventAliases } from "akasha/story/named-event/properties/event-aliases.text-property.types.ts"
@@ -19,6 +18,5 @@ export type NamedEvent = Page & {
   firstChapter?: EventFirstChapter
   namedEventKind: NamedEventKind
   lastChapter?: EventLastChapter
-  seq: Seq
   world?: World
 }

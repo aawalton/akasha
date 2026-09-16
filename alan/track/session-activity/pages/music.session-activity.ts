@@ -6,5 +6,4 @@ export const music = {
   slug: "music",
   title: "Music",
   defaultDifficulty: 0,
-  seq: 44,
 } as const satisfies SessionActivity

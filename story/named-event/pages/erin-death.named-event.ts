@@ -11,6 +11,5 @@ export const erinDeath = {
   evidenceNote:
     "ruled from sweep evidence 'shortly after Erin had been hurt' (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "global-event",
-  seq: 14,
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent
