@@ -1176,7 +1176,6 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-media-token/alan-web-api-media-token.route.ts","id":"01a0882f-3b1a-70b3-a4fd-b2024b64f672"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-page-write/alan-web-api-page-write.route.ts","id":"01a0882c-bfbe-7b18-9cbf-ce33bfbb3bce"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-picture/alan-web-api-picture.route.ts","id":"01a09c62-851a-71cc-950c-0d3fe7144579"}
-{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-property-option/alan-web-api-property-option.route.ts","id":"01a08826-71e0-7bcf-9928-e420b5a8cf1f"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-save/alan-web-api-save.route.ts","id":"01a08834-2110-7c75-8b49-447fda981ae9"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.ts","id":"01a08836-b1d8-7284-9c85-85d40203b334"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.ts","id":"01a090d4-4959-7068-b799-d973b6d7993e"}
