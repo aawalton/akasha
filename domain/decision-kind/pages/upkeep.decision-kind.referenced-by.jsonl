@@ -15,6 +15,7 @@
 {"propertySlug":"decision-kind","path":"command/argument/modules/routing/argument-routing.module.ts","id":"01a0950b-0fcf-748a-ab25-7046edcbcf59"}
 {"propertySlug":"decision-kind","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}
 {"propertySlug":"decision-kind","path":"domain/initiative/initiative.page-type.ts","id":"01a04e58-5735-72b4-b945-56366461c776"}
+{"propertySlug":"decision-kind","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
 {"propertySlug":"decision-kind","path":"infrastructure/alert/alert.page-type.ts","id":"01a06755-0778-7804-96f1-949fc3c68e4f"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.ts","id":"01a06da1-b337-78b9-8ad3-556e6b67058e"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster-foundation/cluster-foundation.page-type.ts","id":"01a0a5e8-68bd-7b38-afbc-5ac778577610"}

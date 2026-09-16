@@ -52,6 +52,19 @@ export const graph = {
       decisionKind: "decision-kind/departure",
       statement: "The graph reaches no further than the akasha folder.",
     },
+    {
+      decisionKind: "decision-kind/upkeep",
+      statement: "Every closure the graph answers is correct.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A closure followed in and one followed out answer the same files.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A closure is answered over the shadow a change leaves as readily as over the tree.",
+    },
   ],
   directives: [
     {
