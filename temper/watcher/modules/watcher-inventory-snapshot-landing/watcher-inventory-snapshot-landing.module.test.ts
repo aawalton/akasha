@@ -13,6 +13,7 @@ import {
   snapshotPageKeys,
   snapshotPagePath,
   snapshotRowsPath,
+  stackRowsOf,
 } from "akasha/temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.code.ts"
 import type {
   ReadFiles,
@@ -55,6 +56,56 @@ const CRAFTING_LEVELS_PATH = snapshotRowsPath(SLUG, "crafting-levels")
 const PLACED_FURNISHINGS_PATH = snapshotRowsPath(SLUG, "placed-furnishings")
 
 const CURRENCIES_PATH = snapshotRowsPath(SLUG, "currencies")
+
+const STACKS_PATH = snapshotRowsPath(SLUG, "stacks")
+
+const WORN_SCANNED = 1789495000
+
+const WORN: SnapshotValues = {
+  ...VALUES,
+  inventory: {
+    ...SCAN,
+    locations: {
+      Bank: {
+        displayName: "Bank",
+        lastScanned: WORN_SCANNED,
+        bags: {
+          1: {
+            4: {
+              itemId: 205386,
+              itemName: "The Shadow Queen's Cowl",
+              itemLink: "|H1:item:205386|h|h",
+              quality: 6,
+              filterType: 2,
+              itemType: 2,
+              traitType: 14,
+              requiredLevel: 50,
+              requiredCP: 160,
+              stackCount: 1,
+              bound: true,
+              setId: 761,
+            },
+          },
+          0: {
+            2: {
+              itemId: 45855,
+              itemName: "Rubedite Ore",
+              itemLink: "|H1:item:45855|h|h",
+              quality: 1,
+              filterType: 6,
+              itemType: 43,
+              traitType: 0,
+              requiredLevel: 1,
+              requiredCP: 0,
+              stackCount: 200,
+              minPrice: 27,
+            },
+          },
+        },
+      },
+    },
+  },
+}
 
 const PURSE_SCANNED = 1789495668
 
@@ -191,6 +242,7 @@ test("a page states what the scan carries", () => {
     craftingLevels: "jsonl",
     placedFurnishings: "jsonl",
     currencies: "jsonl",
+    stacks: "jsonl",
     data: "json",
   })
 })
@@ -235,9 +287,66 @@ test("the page and the data file land together in one write", async () => {
     CRAFTING_LEVELS_PATH,
     PLACED_FURNISHINGS_PATH,
     CURRENCIES_PATH,
+    STACKS_PATH,
     DATA_PATH,
   ])
-  expect(JSON.parse(written[6]?.content ?? "null")).toEqual(SCAN)
+  expect(JSON.parse(written[7]?.content ?? "null")).toEqual(SCAN)
+})
+
+test("every slot holding something becomes a row, bag by bag and slot by slot", () => {
+  expect(rowsIn(stackRowsOf(WORN, counting("s")))).toEqual([
+    {
+      id: "s1",
+      locationId: "Bank",
+      bag: 0,
+      slot: 2,
+      itemId: 45855,
+      title: "Rubedite Ore",
+      itemLink: "|H1:item:45855|h|h",
+      quality: 1,
+      filterType: 6,
+      itemType: 43,
+      traitType: 0,
+      requiredLevel: 1,
+      requiredCp: 0,
+      stackCount: 200,
+      stolen: false,
+      bound: false,
+      reconstructed: false,
+      transmuted: false,
+      locked: false,
+      crafted: false,
+      bopTradeable: false,
+      questRelevant: false,
+      minPrice: 27,
+    },
+    {
+      id: "s2",
+      locationId: "Bank",
+      bag: 1,
+      slot: 4,
+      itemId: 205386,
+      title: "The Shadow Queen's Cowl",
+      itemLink: "|H1:item:205386|h|h",
+      quality: 6,
+      filterType: 2,
+      itemType: 2,
+      traitType: 14,
+      requiredLevel: 50,
+      requiredCp: 160,
+      stackCount: 1,
+      stolen: false,
+      bound: true,
+      reconstructed: false,
+      transmuted: false,
+      locked: false,
+      crafted: false,
+      bopTradeable: false,
+      questRelevant: false,
+      setId: 761,
+    },
+  ])
+  expect(stackRowsOf(VALUES, counting("s"))).toBe("")
 })
 
 test("each purse becomes a row naming the currency's own page", () => {

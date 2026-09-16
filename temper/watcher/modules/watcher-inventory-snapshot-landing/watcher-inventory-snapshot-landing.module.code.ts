@@ -2,6 +2,7 @@ import { currencies } from "akasha/temper/items-core/modules/inventory-currency-
 import type {
   CurrencyBalances,
   InventoryDatabase,
+  InventoryItemData,
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import type {
   Landed,
@@ -42,6 +43,8 @@ const PLACED_FURNISHINGS_PROPERTY = "placed-furnishings"
 const PLACED_FURNISHINGS_KEY = "placedFurnishings"
 
 const CURRENCIES_PROPERTY = "currencies"
+
+const STACKS_PROPERTY = "stacks"
 
 const CURRENCY_PAGE_TYPE = "temper-inventory-currency"
 
@@ -152,10 +155,86 @@ export function snapshotPageKeys(values: SnapshotValues): readonly PageKey[] {
     [BAG_SIZES_KEY, "jsonl"],
     [CRAFTING_LEVELS_KEY, "jsonl"],
     [PLACED_FURNISHINGS_KEY, "jsonl"],
-    [CURRENCIES_PROPERTY, "jsonl"]
+    [CURRENCIES_PROPERTY, "jsonl"],
+    [STACKS_PROPERTY, "jsonl"]
   )
   keys.push([DATA_PROPERTY, "json"])
   return keys
+}
+
+function numbersIn(held: Record<number, unknown>): readonly number[] {
+  return Object.keys(held)
+    .map((one) => Number(one))
+    .sort((one, two) => one - two)
+}
+
+function stackRowOf(
+  id: string,
+  locationId: string,
+  bag: number,
+  slot: number,
+  one: InventoryItemData
+): string {
+  return jsonRowOf([
+    ["id", id],
+    ["locationId", locationId],
+    ["bag", bag],
+    ["slot", slot],
+    ["itemId", one.itemId],
+    ["title", one.itemName],
+    ["itemLink", one.itemLink],
+    ["quality", one.quality],
+    ["filterType", one.filterType],
+    ["itemType", one.itemType],
+    ["traitType", one.traitType],
+    ["requiredLevel", one.requiredLevel],
+    ["requiredCp", one.requiredCP],
+    ["stackCount", one.stackCount],
+    ["stolen", one.stolen ?? false],
+    ["bound", one.bound ?? false],
+    ["reconstructed", one.reconstructed ?? false],
+    ["transmuted", one.transmuted ?? false],
+    ["locked", one.locked ?? false],
+    ["crafted", one.crafted ?? false],
+    ["bopTradeable", one.bopTradeable ?? false],
+    ["questRelevant", one.questRelevant ?? false],
+    ["specializedItemType", one.specializedItemType],
+    ["merchantValue", one.merchantValue],
+    ["minPrice", one.minPrice],
+    ["amountCount", one.amountCount],
+    ["estimatedValue", one.estimatedValue],
+    ["suggestedPrice", one.suggestedPrice],
+    ["saleAvg", one.saleAvg],
+    ["saleAmountCount", one.saleAmountCount],
+    ["equipType", one.equipType],
+    ["armorType", one.armorType],
+    ["weaponType", one.weaponType],
+    ["setId", one.setId],
+    ["known", one.known],
+    ["replacementCost", one.replacementCost],
+    ["furnitureCategory", saidOnly(one.furnitureCategory)],
+    ["furnitureCategoryId", one.furnitureCategoryId],
+    ["furnitureSubcategoryId", one.furnitureSubcategoryId],
+    ["isContainer", one.isContainer],
+  ])
+}
+
+export function stackRowsOf(values: SnapshotValues, minted: () => string): string {
+  const lines: string[] = []
+  for (const locationId of locationIdsIn(values)) {
+    const bags = values.inventory.locations[locationId]?.bags
+    if (bags === undefined) continue
+    for (const bag of numbersIn(bags)) {
+      const slots = bags[bag]
+      if (slots === undefined) continue
+      for (const slot of numbersIn(slots)) {
+        const one = slots[slot]
+        if (one === undefined) continue
+        lines.push(stackRowOf(minted(), locationId, bag, slot, one))
+      }
+    }
+  }
+  return jsonlBodyOf(lines)
 }
 
 function pursedIn(purse: CurrencyBalances): readonly (readonly [string, number])[] {
@@ -313,6 +392,10 @@ export async function landInventorySnapshot(
       {
         path: snapshotRowsPath(values.slug, CURRENCIES_PROPERTY),
         content: currencyRowsOf(values, minted),
+      },
+      {
+        path: snapshotRowsPath(values.slug, STACKS_PROPERTY),
+        content: stackRowsOf(values, minted),
       },
       { path: dataPath, content: JSON.stringify(values.inventory) },
     ]

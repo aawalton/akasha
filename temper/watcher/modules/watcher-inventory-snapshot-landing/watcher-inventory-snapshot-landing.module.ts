@@ -69,8 +69,16 @@ export const watcherInventorySnapshotLanding = {
       statement: "A currency the scan holds that no page names has no row.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The rows a scan's slots become are not filed yet.",
+      decisionKind: "decision-kind/departure",
+      statement: "A row is filed for every slot a scan found something in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot row states every flag, whether the scan raised it or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field the scan left out is left off the row rather than filed as null.",
     },
   ],
 } as const satisfies Module
