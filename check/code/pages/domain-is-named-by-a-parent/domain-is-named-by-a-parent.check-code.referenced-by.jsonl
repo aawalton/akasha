@@ -5,4 +5,6 @@
 {"propertySlug":"import","fileName":"domain-is-named-by-a-parent.check-code.decision.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"domain-is-named-by-a-parent.check-code.decision.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"domain-is-named-by-a-parent.check-code.decision.code.ts","path":"check/code/pages/parts-list-is-sorted/parts-list-is-sorted.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"domain-is-named-by-a-parent.check-code.decision.code.ts","path":"check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.check.code.ts"}
+{"propertySlug":"import","fileName":"domain-is-named-by-a-parent.check-code.decision.code.ts","path":"check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.decision.code.ts"}
 {"propertySlug":"parts","path":"check/code/check-code.page-type.ts","id":"01a04bc4-7e86-7beb-8dfb-3666785dd3d5"}

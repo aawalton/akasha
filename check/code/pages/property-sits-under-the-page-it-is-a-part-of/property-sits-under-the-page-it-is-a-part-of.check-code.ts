@@ -1,0 +1,83 @@
+import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
+
+export const propertySitsUnderThePageItIsAPartOf = {
+  id: "01a0aa6b-5464-7887-9431-1eb2abbdf973",
+  type: "page-type/check-code",
+  slug: "property-sits-under-the-page-it-is-a-part-of",
+  definition:
+    "the check refusing a property page outside the `properties` folder of the page naming it a part",
+  runsOnChange: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This check holds a property page to the one parent every page already has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A property page sits in the `properties` folder beside the page naming it a part.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A property page sitting anywhere else is refused.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A property page no page names a part is refused beside this check.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A property page two pages name a part is refused beside this check.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A property page either of those reaches is passed over here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page naming a property page a part is a page type, a domain or a property.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file beside a property page is no property page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page of any other type is let through.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which pages name a property a part is read as the change leaves those pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change writing any page's parts is judged, not a change writing a property alone.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Which page types declare the property is not judged here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nothing is judged while this page states `experimental`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`experimental` comes off this page where Alan has approved this check.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan approved this check in the turn that asked for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This check judges at every phase.",
+    },
+  ],
+  check: { maxCpuSeconds: 10 },
+  audit: { maxCpuSeconds: 15 },
+  experimental: true,
+} as const satisfies CheckCode

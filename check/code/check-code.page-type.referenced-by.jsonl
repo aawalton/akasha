@@ -57,6 +57,7 @@
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.ts"}
+{"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/require-import-extension/require-import-extension.check-code.ts"}

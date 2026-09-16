@@ -161,6 +161,11 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.decision.test.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.check.code.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.check.test.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts"}

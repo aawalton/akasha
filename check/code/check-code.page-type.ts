@@ -69,6 +69,7 @@ export const checkCode = {
     "check-code/phone-number-is-e164",
     "check-code/popover-keeps-its-viewport-cap",
     "check-code/property-is-declared-by-a-type",
+    "check-code/property-sits-under-the-page-it-is-a-part-of",
     "check-code/relation-resolves",
     "check-code/repository-is-written-by-a-change",
     "check-code/require-import-extension",

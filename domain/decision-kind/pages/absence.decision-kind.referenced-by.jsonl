@@ -751,6 +751,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/parts-list-is-sorted/parts-list-is-sorted.check-code.ts","id":"01a09558-e9b5-7e59-a4ac-0ca6ead600aa"}
 {"propertySlug":"decision-kind","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.ts","id":"01a058ff-c2b0-7d9c-814a-e78f75d41f67"}
 {"propertySlug":"decision-kind","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.ts","id":"01a04ef8-1a07-722c-a247-40e6a9069ce4"}
+{"propertySlug":"decision-kind","path":"check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.ts","id":"01a0aa6b-5464-7887-9431-1eb2abbdf973"}
 {"propertySlug":"decision-kind","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.ts","id":"01a08299-65c2-7c83-9d05-8a3e841dfe48"}
 {"propertySlug":"decision-kind","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.ts","id":"01a058ff-fbf9-76dc-8437-ad9a61e75657"}
 {"propertySlug":"decision-kind","path":"check/code/pages/shell-clean/shell-clean.check-code.ts","id":"01a05991-d997-76f5-a619-6ddb7444c34f"}

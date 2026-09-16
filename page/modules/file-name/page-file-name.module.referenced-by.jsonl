@@ -118,6 +118,8 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.decision.test.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}

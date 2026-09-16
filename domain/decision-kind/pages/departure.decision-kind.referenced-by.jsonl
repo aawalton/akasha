@@ -1503,6 +1503,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.ts","id":"01a058ff-c2b0-7d9c-814a-e78f75d41f67"}
 {"propertySlug":"decision-kind","path":"check/code/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.check-code.ts","id":"01a082e9-5908-74cf-8d6f-521d3e9c7a79"}
 {"propertySlug":"decision-kind","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.ts","id":"01a04ef8-1a07-722c-a247-40e6a9069ce4"}
+{"propertySlug":"decision-kind","path":"check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.ts","id":"01a0aa6b-5464-7887-9431-1eb2abbdf973"}
 {"propertySlug":"decision-kind","path":"check/code/pages/relation-resolves/relation-resolves.check-code.ts","id":"01a04d99-71ca-7e06-9f74-3a462cb7d4fb"}
 {"propertySlug":"decision-kind","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.ts","id":"01a08299-65c2-7c83-9d05-8a3e841dfe48"}
 {"propertySlug":"decision-kind","path":"check/code/pages/require-import-extension/require-import-extension.check-code.ts","id":"01a04bcb-c714-7fdf-aa64-e2ff68d4f69b"}
