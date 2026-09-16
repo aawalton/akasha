@@ -179,7 +179,14 @@ function namingsIn(given: unknown): readonly Naming[] | string {
       values: Record<string, unknown>
       merge?: boolean
       bodies?: Record<string, string>
+      path?: string
     } = { pageTypeSlug: page.pageTypeSlug, slug: page.slug, values }
+    if (page.path !== undefined) {
+      if (typeof page.path !== "string" || page.path === "") {
+        return "a page naming where it is written names that as `path`, written as a string"
+      }
+      naming.path = page.path
+    }
     if (page.merge !== undefined) {
       if (typeof page.merge !== "boolean") {
         return "a page says whether it merges as `merge`, written as true or false"

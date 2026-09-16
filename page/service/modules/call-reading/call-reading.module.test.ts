@@ -149,6 +149,20 @@ test("a page saying nothing about merging has no merge", () => {
   expect("pages" in read && read.pages[0]?.merge).toBeUndefined()
 })
 
+test("a page a write has may name where it is written", () => {
+  const read = written({
+    pages: [{ pageTypeSlug: "device-token", slug: "held-one", values: {}, path: A_PAGE }],
+  })
+  expect("pages" in read && read.pages[0]?.path).toBe(A_PAGE)
+})
+
+test("a page naming where it is written as anything but a string is refused", () => {
+  const read = written({
+    pages: [{ pageTypeSlug: "device-token", slug: "held-one", values: {}, path: 7 }],
+  })
+  expect("refused" in read && read.refused).toContain("`path`")
+})
+
 test("a write stating no writer or no message is refused", () => {
   expect("refused" in writeIn({ message: "a message" })).toBe(true)
   expect("refused" in writeIn({ writer: "Amy <amy@alanwalton.com>" })).toBe(true)

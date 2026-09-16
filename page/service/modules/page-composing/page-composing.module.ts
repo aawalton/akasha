@@ -22,8 +22,8 @@ export const pageComposing = {
       statement: "A caller hands over values.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "A caller hands over no path.",
+      decisionKind: "decision-kind/departure",
+      statement: "A caller may hand over the path its page is written at.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -53,7 +53,7 @@ export const pageComposing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A page the index does not have is placed under the folder its type is declared in.",
+        "A page the index lacks and naming no path is placed under the folder its type is declared in.",
     },
     {
       decisionKind: "decision-kind/departure",

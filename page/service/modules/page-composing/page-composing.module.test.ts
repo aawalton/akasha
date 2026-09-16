@@ -334,6 +334,16 @@ test("a new page of that page type is placed in that folder", () => {
   expect(pathIn(said)).toBe("akasha/shard/pages/new-shard.shard.ts")
 })
 
+test("a page naming where it is written is placed there", () => {
+  const said = composing({ ...A_CRATE, slug: "held-one", path: "akasha/held/one.crate.ts" })
+  expect(pathIn(said)).toBe("akasha/held/one.crate.ts")
+})
+
+test("a page the index already holds is left where it sits whatever path it names", () => {
+  const said = composing({ ...A_CRATE, path: "akasha/held/one.crate.ts" })
+  expect(pathIn(said)).toBe(pathIn(composing(A_CRATE)))
+})
+
 test("a folder whose name closes the slug takes its pages under pages", () => {
   expect(pagesUnder(pageTypeAt("seat-log-day"))).toBe("akasha/agent/seat/log-day/pages")
   expect(pagesAtFor(ROOT, "shard-log-day")).toBe("akasha/shard/log-day/pages")

@@ -69,6 +69,7 @@ export type Naming = {
   readonly values: Value
   readonly merge?: boolean
   readonly bodies?: Readonly<Record<string, string>>
+  readonly path?: string
 }
 
 export type Put = {
@@ -254,8 +255,9 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
   const typesAt = textAt(typing, TYPES) === HOLDS ? besideAt(typeAt, TYPES, HOLDS) : null
   const beside =
     held === undefined &&
+    named.path === undefined &&
     (besideItsPage(root, carried) || foldersHere(root, pagesUnder(typeAt), named.pageTypeSlug))
-  const at = held ?? pathFor(typeAt, named.pageTypeSlug, named.slug, beside)
+  const at = held ?? named.path ?? pathFor(typeAt, named.pageTypeSlug, named.slug, beside)
   const was = held === undefined ? null : valueAt(held, root)
   const already: Value = named.merge === true && was !== null ? was : {}
   const outside: Value = {}
