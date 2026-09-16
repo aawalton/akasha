@@ -17,55 +17,6 @@ function readNumberField(
   return typeof value === "number" ? value : undefined
 }
 
-export function smithingImproveTrySet100PercentChance(this: void): undefined {
-  if (STATE.settingsVars.settings.improvementWith100Percent !== true) {
-    return
-  }
-  const gamePadMode = IsInGamepadPreferredMode()
-  const smithingPanelRaw: unknown = gamePadMode ? SMITHING_GAMEPAD : SMITHING
-  if (!isSmithingPanel(smithingPanelRaw)) {
-    return
-  }
-  const smithingPanel = smithingPanelRaw
-  if (
-    smithingPanel.improvementPanel === undefined ||
-    smithingPanel.improvementPanel.OnSlotChanged === undefined
-  ) {
-    return
-  }
-  const imprPanel = smithingPanel.improvementPanel
-  const origImprovementFunc = imprPanel.OnSlotChanged
-  if (origImprovementFunc === undefined) {
-    return
-  }
-
-  imprPanel.OnSlotChanged = (...args: unknown[]): unknown => {
-    const origRetVar = origImprovementFunc(...args)
-    const settings = STATE.settingsVars.settings
-    if (settings.improvementWith100Percent === true) {
-      const hasItem = imprPanel.improvementSlot.HasItem()
-      if (hasItem) {
-        const row = imprPanel.GetRowForSelection()
-        if (row !== undefined && row !== false) {
-          const max = imprPanel.FindMaxBoostersToApply()
-          if (max !== undefined) {
-            const isInGamePadMode = IsInGamepadPreferredMode()
-            if (isInGamePadMode) {
-              zo_callLater(() => {
-                imprPanel.spinner.Activate()
-                imprPanel.spinner.SetValue(max)
-              }, 50)
-            } else {
-              imprPanel.spinner.SetValue(max)
-            }
-          }
-        }
-      }
-    }
-    return origRetVar
-  }
-}
-
 function isItemBlockedForImprovement(
   this: void,
   bagId: number | undefined,
