@@ -1,5 +1,5 @@
 import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
-import { loadedAt } from "akasha/change/runner/modules/change-loading/change-loading.module.code.ts"
+import { runAgentChange } from "akasha/change/runner/pages/agent-change-running/agent-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { change as changeArgument } from "akasha/command/argument/pages/change.argument.ts"
 import {
@@ -9,10 +9,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { noPageSaid } from "akasha/command/modules/change-acting/change-acting.module.code.ts"
 import { CHANGE_APPLY_SLUG } from "akasha/command/modules/change-costing/change-costing.module.code.ts"
-import {
-  type Chosen,
-  changing,
-} from "akasha/command/modules/change-running/change-running.module.code.ts"
+import type { Chosen } from "akasha/command/modules/change-running/change-running.module.code.ts"
 import { inputIn } from "akasha/command/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { changeApply as applyPage } from "akasha/command/pages/change/apply/change-apply.command.ts"
@@ -50,7 +47,7 @@ export async function changeApply(argv: readonly string[], given: Given): Promis
     if (measure) taken[MEASURE] = TRUE
     return await applyWith(taken, given)
   }
-  return await changing(given.root, page, given.agentId, slug, inputIn, loadedAt, landing, {
+  return await runAgentChange(given.root, page, given.agentId, slug, inputIn, landing, {
     ...CHOSEN,
     calledAs: given.calledAs,
   })
