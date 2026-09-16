@@ -89,6 +89,34 @@ export const domainIsNamedByAParent = {
       decisionKind: "decision-kind/upkeep",
       statement: "A page arriving under no parent is refused before the page lands.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The pages above a page are answered by a predicate rather than climbed here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The namers counted and the loop read come from one closure.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reference naming a page without an id is a namer of that page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`parts` and `part-slugs` are followed together rather than as a fallback.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One page naming a page twice among its parts is one namer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every page above is followed rather than the first namer alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An id the index files no page for is refused as a page no page names.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },

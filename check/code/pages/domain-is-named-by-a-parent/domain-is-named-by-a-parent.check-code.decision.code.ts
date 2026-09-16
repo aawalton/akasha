@@ -1,3 +1,8 @@
+import {
+  loopsIn,
+  takenIn,
+} from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { parents } from "akasha/graph/predicate/pages/parents/parents.graph-predicate.ts"
 import { namesIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
@@ -52,39 +57,16 @@ function loopReason(shown: string): string {
   )
 }
 
-function loops(shadow: Shadow, settled: Map<string, boolean>, from: string): boolean {
-  const climbing: string[] = []
-  const seen = new Set<string>()
-  let at = from
-  let ended = true
-  for (;;) {
-    const known = settled.get(at)
-    if (known !== undefined) {
-      ended = known
-      break
-    }
-    if (seen.has(at)) break
-    seen.add(at)
-    climbing.push(at)
-    const above = namersOf(shadow, at)[0]
-    if (above === undefined) {
-      ended = false
-      break
-    }
-    at = above
-  }
-  for (const one of climbing) settled.set(one, ended)
-  return ended
-}
-
 export type Judging = (id: string, shown: string) => string | null
 
 export function judgingBy(shadow: Shadow): Judging {
-  const settled = new Map<string, boolean>()
   return (id, shown) => {
-    const namers = namersOf(shadow, id)
+    const listed = shadow.index.listedById(id)
+    if (listed === null) return reasonFor(shown)
+    const taken = takenIn(parents, [listed.path], { index: shadow.index })
+    const namers = taken.edges.filter((one) => one.to === listed.path)
     if (namers.length === 0) return reasonFor(shown)
     if (namers.length > ONE) return sharedReason(shown, namers.length)
-    return loops(shadow, settled, id) ? loopReason(shown) : null
+    return loopsIn(taken).length > 0 ? loopReason(shown) : null
   }
 }

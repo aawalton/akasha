@@ -9,9 +9,9 @@ import {
   claiming,
   declaring,
   edging,
-  filing,
   founded,
   pathFor,
+  relating,
   typed,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
@@ -38,7 +38,12 @@ function rooted(): string {
   typed(root, "domain", "page")
   claiming(root, TYPE_AT, "id-domain")
   declaring(root, "part-slugs", { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" })
+  relating(root)
   return root
+}
+
+function paged(root: string, slug: string, id: string): undefined {
+  claiming(root, pathFor("domain", slug), id)
 }
 
 function judging(root: string): Judging {
@@ -47,13 +52,13 @@ function judging(root: string): Judging {
 
 test("a page no page names among its parts is refused, and the refusal names the address", () => {
   const root = rooted()
-  filing(root, "domain", "held", ONE)
+  paged(root, "held", ONE)
   expect(judging(root)(ONE, "domain/held")).toContain("no page names `domain/held`")
 })
 
 test("a page two pages name is refused for being shared rather than for having no parent", () => {
   const root = rooted()
-  filing(root, "domain", "held", ONE)
+  paged(root, "held", ONE)
   edging(root, ONE, "part-slugs", TWO, UP_AT)
   edging(root, ONE, "part-slugs", UP, pathFor("domain", "over"))
   const said = judging(root)(ONE, "domain/held")
@@ -63,31 +68,39 @@ test("a page two pages name is refused for being shared rather than for having n
 
 test("a page one page names, whose chain ends above it, is let through", () => {
   const root = rooted()
-  filing(root, "domain", "held", ONE)
+  paged(root, "held", ONE)
   edging(root, ONE, "part-slugs", TWO, UP_AT)
   expect(judging(root)(ONE, "domain/held")).toBe(null)
 })
 
 test("pages naming each other in a ring are refused for looping, though each has one parent", () => {
   const root = rooted()
-  filing(root, "domain", "under", ONE)
-  filing(root, "domain", "over", TWO)
+  paged(root, "under", ONE)
+  paged(root, "over", TWO)
   edging(root, ONE, "part-slugs", TWO, pathFor("domain", "over"))
   edging(root, TWO, "part-slugs", ONE, pathFor("domain", "under"))
   expect(judging(root)(ONE, "domain/under")).toContain("loop rather than reaching `domain/akasha`")
 })
 
-test("the second page climbing into one ring is refused from what the first settled", () => {
+test("two pages under one ring are each refused for the ring above them", () => {
   const root = rooted()
-  filing(root, "domain", "one", ONE)
-  filing(root, "domain", "two", TWO)
-  filing(root, "domain", "up", UP)
+  paged(root, "one", ONE)
+  paged(root, "two", TWO)
+  paged(root, "up", UP)
   edging(root, ONE, "part-slugs", UP, pathFor("domain", "up"))
   edging(root, TWO, "part-slugs", UP, pathFor("domain", "up"))
   edging(root, UP, "part-slugs", UP, pathFor("domain", "up"))
   const judged = judging(root)
   expect(judged(ONE, "domain/one")).toContain("loop")
   expect(judged(TWO, "domain/two")).toContain("loop")
+})
+
+test("a page named by a reference carrying no id is named rather than parentless", () => {
+  const root = rooted()
+  paged(root, "held", ONE)
+  paged(root, "over", TWO)
+  edging(root, ONE, "part-slugs", null, pathFor("domain", "over"))
+  expect(judging(root)(ONE, "domain/held")).toBe(null)
 })
 
 test("the whole is the domain page named akasha and nothing else", () => {

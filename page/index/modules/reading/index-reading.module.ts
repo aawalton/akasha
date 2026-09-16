@@ -236,5 +236,9 @@ export const indexReading = {
       decisionKind: "decision-kind/departure",
       statement: "The naming page's id is the id that line carries.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fixture naming no id files a relation carrying none.",
+    },
   ],
 } as const satisfies Module

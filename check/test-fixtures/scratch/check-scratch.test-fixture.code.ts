@@ -6,6 +6,7 @@ import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
+import { relation } from "akasha/graph/edge/pages/relation.graph-edge.ts"
 import {
   relationFiled,
   shapeAdded,
@@ -32,6 +33,8 @@ const TYPES_AT = "akasha"
 const EXTENDS = "extends"
 
 const EXTENDS_TYPE = "extends-type"
+
+const GRAPH_EDGE = "graph-edge"
 
 export const NO_BYTES = new Uint8Array(0)
 
@@ -130,6 +133,21 @@ export function founded(root: string): undefined {
   typed(root, PAGE, null, [ID, SLUG, "page-type-slug"])
 }
 
+export function relating(root: string): undefined {
+  typed(root, GRAPH_EDGE, PAGE)
+  const path = pathFor(GRAPH_EDGE, relation.slug)
+  const id = relation.id
+  listedFiled(root, GRAPH_EDGE, relation.slug, [{ path, id }])
+  idFiled(root, id, [{ path, id }])
+  mkdirSync(join(root, TYPES_AT), { recursive: true })
+  writeFileSync(
+    join(root, path),
+    `export const held = { id: ${JSON.stringify(id)},` +
+      ` pageTypeSlug: ${JSON.stringify(GRAPH_EDGE)}, slug: ${JSON.stringify(relation.slug)},` +
+      ` attributes: ${JSON.stringify(relation.attributes)} }\n`
+  )
+}
+
 export function filing(root: string, kind: string, slug: string, id: string): undefined {
   listedFiled(root, kind, slug, [{ path: pathFor(kind, slug), id }])
   idFiled(root, id, [{ path: pathFor(kind, slug), id }])
@@ -174,7 +192,7 @@ export function edging(
   root: string,
   id: string,
   propertySlug: string,
-  from: string,
+  from: string | null,
   at: string
 ): undefined {
   relationFiled(root, id, propertySlug, from, [{ path: at }])

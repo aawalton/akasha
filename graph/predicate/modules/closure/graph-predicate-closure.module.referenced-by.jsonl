@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"agent/seat/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"}
+{"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"check/code/pages/no-import-cycle/no-import-cycle.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}

@@ -2,5 +2,6 @@
 {"propertySlug":"edges","path":"graph/predicate/pages/extended/extended.graph-predicate.ts","id":"01a0aada-f708-72a5-946c-a4e7144b4bac"}
 {"propertySlug":"edges","path":"graph/predicate/pages/extenders/extenders.graph-predicate.ts","id":"01a0aae8-b637-7436-9196-a38e65a80b93"}
 {"propertySlug":"edges","path":"graph/predicate/pages/parents/parents.graph-predicate.ts","id":"01a0aa8f-1abb-7b9a-90e5-287b3639c797"}
+{"propertySlug":"import","fileName":"relation.graph-edge.ts","path":"check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"relation.graph-edge.ts","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"}
 {"propertySlug":"parts","path":"graph/edge/graph-edge.page-type.ts","id":"01a04fe8-cebd-71d5-a040-d50b202e6eb1"}

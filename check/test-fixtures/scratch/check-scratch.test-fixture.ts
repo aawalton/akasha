@@ -111,5 +111,13 @@ export const checkScratch = {
       decisionKind: "decision-kind/departure",
       statement: "The scratch declares the property descent is walked down.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The relation edge the graph reads is set up here from that edge's own page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An edge naming no id is set up here as one naming an id is.",
+    },
   ],
 } as const satisfies TestFixture

@@ -273,7 +273,7 @@ export function relationFiled(
   root: string,
   id: string,
   propertySlug: string,
-  from: string,
+  from: string | null,
   lines: readonly unknown[]
 ): undefined {
   const named = listedById(readingIn(root), id)
