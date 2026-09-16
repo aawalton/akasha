@@ -47,6 +47,12 @@ test("the command the job runs is asked of the index rather than spelled", () =>
   expect(scriptFor(ROOT, CHECKS, COMMIT)).toContain("cli.module.code.ts")
 })
 
+test("a round that found refusals ends the job well, a refusal being no failure", () => {
+  const said = scriptFor(ROOT, CHECKS, COMMIT)
+  expect(said.split("\n").at(-1)).toContain("|| true")
+  expect(said).toContain("set -eu")
+})
+
 test("a round fetches the commit it answers for and no commit before it", () => {
   const said = scriptFor(ROOT, CHECKS, COMMIT)
   expect(said).toContain(`--depth 1 origin ${COMMIT}`)

@@ -41,7 +41,7 @@ export function scriptFor(
   const named = sortedOnce(checks).map((one) => `${check.said} ${one}`)
   return [
     ...checkedOut(commit, null),
-    `bun ${dispatcherIn(given)} ${audit.name} ${named.join(" ")}`,
+    `bun ${dispatcherIn(given)} ${audit.name} ${named.join(" ")} || true`,
   ].join("\n")
 }
 

@@ -46,6 +46,14 @@ export const auditJob = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A round that found refusals ends the job well, a refusal being no failure.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job that failed is one whose checkout or install would not run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A check the job left no verdict for is left out rather than answered clean.",
     },
     {
