@@ -53,7 +53,7 @@ Bun.serve({
 
     const host = url.hostname
     if (host === "idle.alanwalton.com") {
-      return Response.redirect("https://alanwalton.com/idle", 301)
+      return Response.redirect("https://alanwalton.com/", 301)
     }
 
     const staticRes = await serveClientStatic(pathname, CLIENT_DIR)
