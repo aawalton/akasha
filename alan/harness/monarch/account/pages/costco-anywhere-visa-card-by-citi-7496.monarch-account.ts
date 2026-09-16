@@ -8,7 +8,7 @@ export const costcoAnywhereVisaCardByCiti7496 = {
   definition: "one balance Monarch reports as credit.",
   monarchId: "254048268518823997",
   accountDisplayName: "Costco Anywhere Visa Card by Citi (...7496)",
-  currentBalance: -12425.07,
+  currentBalance: -12578.82,
   accountType: "credit",
   asset: false,
   accountActive: true,
