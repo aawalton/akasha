@@ -24,7 +24,6 @@ export type PropertyDefinition = {
   storage?: StorageTier
   columnName?: string
   indexName?: string
-  skipRelationMirroring?: boolean
   isRequired?: boolean
   unique?: boolean
 }

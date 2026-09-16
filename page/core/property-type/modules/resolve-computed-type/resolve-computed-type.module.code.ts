@@ -171,7 +171,6 @@ function synthesizeDefinition(
     colorRule?: NonNullable<PropertyDefinition["colorRule"]>
     columnName?: string
     indexName?: string
-    skipRelationMirroring?: boolean
     isRequired?: boolean
     unique?: boolean
   } = {}
@@ -181,9 +180,6 @@ function synthesizeDefinition(
   if (source.colorRule !== undefined) optional.colorRule = source.colorRule
   if (source.columnName !== undefined) optional.columnName = source.columnName
   if (source.indexName !== undefined) optional.indexName = source.indexName
-  if (source.skipRelationMirroring !== undefined) {
-    optional.skipRelationMirroring = source.skipRelationMirroring
-  }
   if (source.isRequired !== undefined) optional.isRequired = source.isRequired
   if (source.unique !== undefined) optional.unique = source.unique
   return { ...required, ...optional } satisfies PropertyDefinition

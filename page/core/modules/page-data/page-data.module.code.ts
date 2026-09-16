@@ -44,10 +44,8 @@ export type PropertyDefinition = {
   readonly sort?: "alpha" | "manual"
   readonly storage?: StorageTier
   readonly groupable?: boolean
-  readonly versionExempt?: boolean
   readonly columnName?: string
   readonly indexName?: string
-  readonly skipRelationMirroring?: boolean
   readonly isRequired?: boolean
   readonly unique?: boolean
   readonly parent?: boolean
