@@ -19,7 +19,6 @@ export function buildEmptySettings(this: void): AddonSettings {
     stableFeedSettings: {},
     showAddonSettingsMainMenuButton: false,
     smithingCreationAddArmorTypeSwitchButton: false,
-    improvementWith100Percent: false,
     improvementBlockQuality: 0,
     improvementBlockQualityExceptionShiftKey: false,
     removeNewItemIcon: false,

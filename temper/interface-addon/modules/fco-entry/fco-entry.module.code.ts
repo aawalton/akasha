@@ -65,10 +65,6 @@ for (const binding of BINDING_NAME_STRINGS) {
   ZO_CreateStringId(binding[0], binding[1])
 }
 
-function disableOldSettings(this: void): undefined {
-  STATE.settingsVars.settings.improvementWith100Percent = false
-}
-
 let WAS_SETTINGS_FRAGMENT_SHOWN = false
 let WAS_GAME_MENU_SCENE_SHOWN = false
 let openingNewSceneDirectlyFromSettings: string | undefined
@@ -140,7 +136,6 @@ function onPlayerActivated(this: void): undefined {
 
   saveVolumeLevels(SETTING_TYPE_AUDIO, AUDIO_SETTING_AUDIO_VOLUME)
   STATE.runGroupListCounter = 0
-  disableOldSettings()
 
   afterLoginOrReloaduiFunctions()
   overallFunctions()

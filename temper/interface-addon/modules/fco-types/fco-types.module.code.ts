@@ -66,7 +66,6 @@ export interface AddonSettings {
   stableFeedSettings: Record<number, boolean>
   showAddonSettingsMainMenuButton: boolean
   smithingCreationAddArmorTypeSwitchButton: boolean
-  improvementWith100Percent: boolean
   improvementBlockQuality: number
   improvementBlockQualityExceptionShiftKey: boolean
   removeNewItemIcon: boolean
