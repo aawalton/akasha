@@ -7,5 +7,5 @@ export const telnyxApprovalCheck = {
   to: "persona/amy",
   from: "persona/amy",
   schedule: "*-*-* 09:00:00",
-  text: "Check the amy-telnyx-approval submission. Telnyx request 25418a34-7d8c-5304-af97-9679752f983c, Waiting For Customer since Aug 7. Read the request's current status and its one mutable reason note before anything overwrites it, and tell Alan what changed. Take this reminder away once the reviewer has answered.",
+  text: "Check the 10DLC campaign Amy's texts are sent under. Read `https://api.telnyx.com/10dlc/campaign/4b3001a0-aa84-a79d-3766-77b73e8b1f69` with TELNYX_API_KEY, and read `campaignStatus` rather than `status`: `status` says ACTIVE from the moment TCR accepts the campaign, and `campaignStatus` is the field that leaves TCR_ACCEPTED once Telnyx and the carriers approve. Once it has left TCR_ACCEPTED, link the number by posting `{messagingProfileId: 40019f0e-f7d0-41bd-887e-2f9b2e7e392a, campaignId: 4b3001a0-aa84-a79d-3766-77b73e8b1f69}` to `https://api.telnyx.com/10dlc/phoneNumberAssignmentByProfile`, since Amy's outbound texts are filtered until +13854830021 is linked. Tell Alan only what changed. Take this reminder away once the number is linked.",
 } as const satisfies Reminder
