@@ -817,7 +817,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/api-origin/api-origin.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/apotheosis-panel/apotheosis-panel.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/audio-download-offer/audio-download-offer.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/capability-registrations/capability-registrations.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/capacitor-bridge/capacitor-bridge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/capacitor-cors/capacitor-cors.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/content-pages-cache-core/content-pages-cache-core.module.ts"}

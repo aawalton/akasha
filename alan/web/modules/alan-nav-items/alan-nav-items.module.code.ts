@@ -5,7 +5,6 @@ import {
   Database,
   ExternalLink,
   FileText,
-  Gamepad2,
   Hammer,
   Package,
   SwatchBook,
@@ -86,14 +85,6 @@ export function getNavItemProducts(): AppNavItem {
         href: getProductUrl(3001, "dev.tempereso.com", "tempereso.com"),
         external: true,
         icon: Hammer,
-      },
-      {
-        id: "idle",
-        label: "Idle",
-        shortLabel: "Idle",
-        href: "/idle",
-        external: false,
-        icon: Gamepad2,
       },
     ],
   }

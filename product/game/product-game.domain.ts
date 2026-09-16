@@ -5,5 +5,5 @@ export const productGame = {
   type: "page-type/domain",
   slug: "product-game",
   definition: "the games and what each game is made of",
-  parts: ["domain/clear-the-world", "page-type/idle-game"],
+  parts: ["domain/clear-the-world"],
 } as const satisfies Domain

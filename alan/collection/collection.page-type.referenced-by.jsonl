@@ -15,7 +15,6 @@
 {"propertySlug":"extends-type","path":"alan/library/watching/fandom-collection/fandom-collection.page-type.ts","id":"01a06807-be66-7005-98c4-ddf6b3a89ca2"}
 {"propertySlug":"extends-type","path":"alan/music/catalog/artist-collection/artist-collection.page-type.ts","id":"01a06807-be66-7007-94ba-493909f3dc58"}
 {"propertySlug":"extends-type","path":"alan/music/catalog/release-collection/release-collection.page-type.ts","id":"01a06807-be66-7008-9e51-2703ac729611"}
-{"propertySlug":"extends-type","path":"product/game/idle-game/idle-game.page-type.ts","id":"01a0658b-3654-7f0d-80b2-2a2c080f184c"}
 {"propertySlug":"extends-type","path":"story/chapter-played/story-chapter-played.page-type.ts","id":"01a064b4-46c9-7489-9817-d9dae65e7936"}
 {"propertySlug":"extends-type","path":"story/chapter-written/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
 {"propertySlug":"extends-type","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
@@ -50,7 +49,6 @@
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/library/watching/fandom-collection/fandom-collection.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/music/catalog/artist-collection/artist-collection.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/music/catalog/release-collection/release-collection.page-type.types.ts"}
-{"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"product/game/idle-game/idle-game.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/chapter-played/story-chapter-played.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/chapter-written/story-chapter-written.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/game/game.page-type.types.ts"}

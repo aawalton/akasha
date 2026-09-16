@@ -36,7 +36,7 @@ import {
   Scripts,
   ScrollRestoration,
 } from "react-router"
-import "akasha/alan/web/modules/capability-registrations/capability-registrations.module.code.ts"
+import "akasha/alan/web/modules/declared-effects/declared-effects.module.code.ts"
 import "akasha/alan/web-capacitor/look/alan-web-capacitor-look.stylesheet.styles.css"
 
 configurePagesStoreFetch(apiFetch)

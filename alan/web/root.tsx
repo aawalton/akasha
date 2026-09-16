@@ -31,7 +31,7 @@ import {
 } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/alan/web/look/alan-web-look.stylesheet.styles.css"
-import "akasha/alan/web/modules/capability-registrations/capability-registrations.module.code.ts"
+import "akasha/alan/web/modules/declared-effects/declared-effects.module.code.ts"
 import { NavCommands } from "akasha/alan/web/modules/nav-command/nav-command.module.code.tsx"
 import { StatusBarSync } from "akasha/alan/web/modules/status-bar-sync/status-bar-sync.module.code.tsx"
 import { PagesUICapabilityHosts } from "akasha/page/ui/modules/capability-hosts/capability-hosts.module.code.tsx"
@@ -62,8 +62,6 @@ const AUTH_CONFIG: AuthRouteConfig = {
     "/api/readout-relay",
     "/api/wallpaper",
     /^\/api\/media\//,
-    /^\/api\/load$/,
-    /^\/api\/save$/,
     /^\/api\/persona\/message$/,
     /^\/api\/push\/register$/,
     /^\/api\/track\//,
