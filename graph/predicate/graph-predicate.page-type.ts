@@ -7,6 +7,7 @@ export const graphPredicate = {
   definition: "a rule saying which nodes and edges a closure takes in",
   extends: ["page-type/domain"],
   parts: [
+    "graph-predicate/at-load-imports",
     "graph-predicate/code-imports",
     "graph-predicate/importers",
     "graph-predicate/imports",

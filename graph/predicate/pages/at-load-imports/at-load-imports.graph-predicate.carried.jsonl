@@ -1,0 +1,7 @@
+{"definition":"every file a seed file reaches as that seed file loads"}
+{"direction":"out"}
+{"edges":["graph-edge/import-edge"]}
+{"follows":[{"attribute":"graph-attribute/names","value":"code"},{"attribute":"graph-attribute/loading","value":"at-load"}]}
+{"id":"01a0aa71-af84-7559-908f-9451a3f9f1d1"}
+{"slug":"at-load-imports"}
+{"type":"page-type/graph-predicate"}
