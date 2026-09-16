@@ -45,6 +45,14 @@ export const watcherInventorySnapshotLanding = {
       statement: "A row is filed for every craft of every character a scan read.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A row is filed for every furnishing a scan found placed in a home.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A link a scan left empty is left off the row rather than filed as empty.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement: "The rows a scan's slots and currencies become are not filed yet.",
     },

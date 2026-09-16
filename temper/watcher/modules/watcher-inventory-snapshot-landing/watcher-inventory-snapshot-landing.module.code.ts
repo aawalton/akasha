@@ -33,6 +33,10 @@ const CRAFTING_LEVELS_PROPERTY = "crafting-levels"
 
 const CRAFTING_LEVELS_KEY = "craftingLevels"
 
+const PLACED_FURNISHINGS_PROPERTY = "placed-furnishings"
+
+const PLACED_FURNISHINGS_KEY = "placedFurnishings"
+
 const MS_PER_SECOND = 1000
 
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
@@ -124,9 +128,48 @@ export function snapshotPageKeys(values: SnapshotValues): readonly PageKey[] {
     keys.push(["transmuteCrystalAmount", transmuteCrystalAmount])
   }
   if (transmuteCrystalCap !== undefined) keys.push(["transmuteCrystalCap", transmuteCrystalCap])
-  keys.push([LOCATIONS_PROPERTY, "jsonl"], [BAG_SIZES_KEY, "jsonl"], [CRAFTING_LEVELS_KEY, "jsonl"])
+  keys.push(
+    [LOCATIONS_PROPERTY, "jsonl"],
+    [BAG_SIZES_KEY, "jsonl"],
+    [CRAFTING_LEVELS_KEY, "jsonl"],
+    [PLACED_FURNISHINGS_KEY, "jsonl"]
+  )
   keys.push([DATA_PROPERTY, "json"])
   return keys
+}
+
+function saidOnly(value: string | undefined): string | undefined {
+  return value === undefined || value === "" ? undefined : value
+}
+
+export function placedFurnishingRowsOf(values: SnapshotValues, minted: () => string): string {
+  const lines: string[] = []
+  for (const locationId of locationIdsIn(values)) {
+    const placed = values.inventory.locations[locationId]?.placedFurnishings
+    if (placed === undefined) continue
+    for (const furnishingKey of Object.keys(placed).sort()) {
+      const one = placed[furnishingKey]
+      if (one === undefined) continue
+      lines.push(
+        jsonRowOf([
+          ["id", minted()],
+          ["locationId", locationId],
+          ["furnishingKey", furnishingKey],
+          ["title", one.itemName],
+          ["quality", one.quality],
+          ["itemLink", saidOnly(one.itemLink)],
+          ["collectibleLink", saidOnly(one.collectibleLink)],
+          ["saleAvg", one.saleAvg],
+          ["minPrice", one.minPrice],
+          ["amountCount", one.amountCount],
+          ["saleAmountCount", one.saleAmountCount],
+          ["suggestedPrice", one.suggestedPrice],
+          ["estimatedValue", one.estimatedValue],
+        ])
+      )
+    }
+  }
+  return jsonlBodyOf(lines)
 }
 
 export function craftingLevelRowsOf(values: SnapshotValues, minted: () => string): string {
@@ -194,6 +237,10 @@ export async function landInventorySnapshot(
       {
         path: snapshotRowsPath(values.slug, CRAFTING_LEVELS_PROPERTY),
         content: craftingLevelRowsOf(values, minted),
+      },
+      {
+        path: snapshotRowsPath(values.slug, PLACED_FURNISHINGS_PROPERTY),
+        content: placedFurnishingRowsOf(values, minted),
       },
       { path: dataPath, content: JSON.stringify(values.inventory) },
     ]

@@ -5,6 +5,7 @@ import {
   craftingLevelRowsOf,
   landInventorySnapshot,
   locationRowsOf,
+  placedFurnishingRowsOf,
   type SnapshotValues,
   snapshotDataPath,
   snapshotPageBody,
@@ -50,6 +51,14 @@ const BAG_SIZES_PATH = snapshotRowsPath(SLUG, "bag-sizes")
 
 const CRAFTING_LEVELS_PATH = snapshotRowsPath(SLUG, "crafting-levels")
 
+const PLACED_FURNISHINGS_PATH = snapshotRowsPath(SLUG, "placed-furnishings")
+
+const HOME = "House:Grand Psijic Villa"
+
+const LIGHT_CHERRY = "4629427828252784845"
+
+const PINK_CHERRY = "4629427828252784846"
+
 const ERIN_SCANNED = 1789495668
 
 const BANK_SCANNED = 1789495000
@@ -75,6 +84,35 @@ const HELD: SnapshotValues = {
       },
       Bank: { bags: {}, bagSizes: { 1: 240 }, displayName: "Bank", lastScanned: BANK_SCANNED },
       "Companion:Ember": { bags: {}, displayName: "Ember", lastScanned: EMBER_SCANNED },
+    },
+  },
+}
+
+const HOMES: SnapshotValues = {
+  ...VALUES,
+  inventory: {
+    ...SCAN,
+    locations: {
+      [HOME]: {
+        bags: {},
+        displayName: "Grand Psijic Villa",
+        lastScanned: BANK_SCANNED,
+        placedFurnishings: {
+          [PINK_CHERRY]: {
+            itemName: "Tree, Tiered Pink Cherry",
+            quality: 4,
+            itemLink: "|H1:item:120665|h|h",
+            collectibleLink: "",
+          },
+          [LIGHT_CHERRY]: {
+            itemName: "Tree, Tiered Light Cherry",
+            quality: 4,
+            itemLink: "",
+            collectibleLink: "|H1:collectible:9|h|h",
+            estimatedValue: 1200,
+          },
+        },
+      },
     },
   },
 }
@@ -128,6 +166,7 @@ test("a page states what the scan carries", () => {
     locations: "jsonl",
     bagSizes: "jsonl",
     craftingLevels: "jsonl",
+    placedFurnishings: "jsonl",
     data: "json",
   })
 })
@@ -170,9 +209,33 @@ test("the page and the data file land together in one write", async () => {
     LOCATIONS_PATH,
     BAG_SIZES_PATH,
     CRAFTING_LEVELS_PATH,
+    PLACED_FURNISHINGS_PATH,
     DATA_PATH,
   ])
-  expect(JSON.parse(written[4]?.content ?? "null")).toEqual(SCAN)
+  expect(JSON.parse(written[5]?.content ?? "null")).toEqual(SCAN)
+})
+
+test("each furnishing placed in a home becomes a row without its empty links", () => {
+  expect(rowsIn(placedFurnishingRowsOf(HOMES, counting("f")))).toEqual([
+    {
+      id: "f1",
+      locationId: HOME,
+      furnishingKey: LIGHT_CHERRY,
+      title: "Tree, Tiered Light Cherry",
+      quality: 4,
+      collectibleLink: "|H1:collectible:9|h|h",
+      estimatedValue: 1200,
+    },
+    {
+      id: "f2",
+      locationId: HOME,
+      furnishingKey: PINK_CHERRY,
+      title: "Tree, Tiered Pink Cherry",
+      quality: 4,
+      itemLink: "|H1:item:120665|h|h",
+    },
+  ])
+  expect(placedFurnishingRowsOf(HELD, counting("f"))).toBe("")
 })
 
 test("each craft of each character becomes a row", () => {
