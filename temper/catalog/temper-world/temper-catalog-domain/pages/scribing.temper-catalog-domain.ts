@@ -8,7 +8,7 @@ export const scribing = {
   icon: "file-text",
   apiVersion: "eso.live.12.0.8.3288357",
   manifestApiVersion: 101050,
-  capturedAt: "2026-09-15T22:19:33.202Z",
+  capturedAt: "2026-09-16T13:37:29.798Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
