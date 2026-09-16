@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"command/modules/commit-author/commit-author.module.code.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/alan/alan.seat.ts"}
-{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/amy/amy.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/dalla/dalla.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/nimue/nimue.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/olwen/olwen.seat.ts"}
