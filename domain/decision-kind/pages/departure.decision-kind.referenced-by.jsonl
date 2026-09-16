@@ -363,7 +363,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.ts","id":"01a06871-3115-7003-9d59-97c04e3f8140"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.ts","id":"01a06838-5a84-7007-ad97-0d2824c6293d"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.ts","id":"01a0683e-3dbe-7015-b25d-4d947ec851f0"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/supervisor-saying/supervisor-saying.module.ts","id":"01a0a170-307b-76c6-967a-d03906eaf880"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.ts","id":"01a0686a-7a57-7a62-bfba-385af928123a"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.ts","id":"01a06871-3115-7006-b87f-63a3b2e561a3"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.ts","id":"01a06871-3115-7007-ad27-cd0693dae709"}

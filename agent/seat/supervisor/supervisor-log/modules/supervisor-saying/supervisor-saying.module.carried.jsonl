@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A line the console throws over is written to standard error instead."},{"decisionKind":"decision-kind/departure","statement":"A line standard error throws over is dropped rather than thrown on."},{"decisionKind":"decision-kind/departure","statement":"Every line a saying says carries the mark that saying was made with."}]}
-{"definition":"a line a supervisor says where the console will not take it"}
-{"id":"01a0a170-307b-76c6-967a-d03906eaf880"}
-{"slug":"supervisor-saying"}
-{"test":"ts"}
-{"type":"page-type/module"}

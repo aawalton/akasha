@@ -9,6 +9,5 @@ export const supervisorLog = {
     "module/supervisor-console",
     "module/supervisor-log-path",
     "module/supervisor-log-sweeping",
-    "module/supervisor-saying",
   ],
 } as const satisfies Domain
