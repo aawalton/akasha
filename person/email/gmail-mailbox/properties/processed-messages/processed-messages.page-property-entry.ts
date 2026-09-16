@@ -16,6 +16,7 @@ export const processedMessages = {
     { pageProperty: "text-property/gmail-decision", required: true, many: false },
     { pageProperty: "text-property/gmail-message-id", required: true, many: false },
     { pageProperty: "instant-property/gmail-processed-at", required: true, many: false },
+    { pageProperty: "number-property/seq", required: true, many: false },
   ],
   decisions: [
     {
