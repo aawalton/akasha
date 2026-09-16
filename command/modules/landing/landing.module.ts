@@ -214,6 +214,20 @@ export const landing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What the settle works out is handed in rather than worked out inside the hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Such a settle is taken only where the commit it was worked out against is the commit this lands on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A landing whose base moved since then settles inside the hold as a landing handed nothing does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Which of the change's paths the repository ignores is worked out before the hold is taken.",
     },

@@ -14,7 +14,10 @@ import { globbedFor } from "akasha/code/stylesheet/modules/source-globbing/sourc
 import { lockingFor } from "akasha/code/workspace/modules/manifest-locking/manifest-locking.module.code.ts"
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
-import { changeOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import {
+  changeOf,
+  type Settled,
+} from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { filingsFor } from "akasha/page/index/modules/carrying/index-carrying.module.code.ts"
@@ -121,6 +124,7 @@ export type Prepared = {
   readonly said: readonly string[]
   readonly over: Change | null
   readonly facing: Facing
+  readonly settled: Settled | null
 }
 
 export function preparing(
@@ -165,6 +169,7 @@ export function preparing(
     authored: rows,
     changes: [...rows, ...added],
     facing: facingIn(root, "refused" in cast ? root : cast.reading),
+    settled: "refused" in cast || cast.settled === null ? null : { base, settling: cast.settled },
     said: [
       ...locking.said,
       ...stepped.said,

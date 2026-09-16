@@ -1,5 +1,8 @@
+{"propertySlug":"import","fileName":"index-settling.module.code.ts","path":"command/modules/gate-building/gate-building.module.code.ts"}
+{"propertySlug":"import","fileName":"index-settling.module.code.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-settling.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-settling.module.code.ts","path":"page/index/modules/indexing/indexing.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"index-settling.module.code.ts","path":"page/index/modules/indexing/indexing.module.test.ts"}
 {"propertySlug":"import","fileName":"index-settling.module.code.ts","path":"page/index/modules/settling/index-settling.module.test.ts"}
 {"propertySlug":"import","fileName":"index-settling.module.code.ts","path":"page/modules/shadow/shadow.module.code.ts"}
 {"propertySlug":"parts","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}

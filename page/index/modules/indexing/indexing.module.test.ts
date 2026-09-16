@@ -45,6 +45,8 @@ import {
   worldsApart,
   wrotePages,
 } from "akasha/page/index/modules/indexing/indexing.module.test-fixtures.ts"
+import type { Settling } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
+import { readingNone } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
   aProperty,
   aType,
@@ -274,6 +276,34 @@ test("a file a page property holds is not loaded, so it is neither run nor read 
   expect(indexing.settle()).toEqual([])
   expect(existsSync(ran)).toBe(false)
   expect(existsSync(idFile(root, D))).toBe(false)
+})
+
+test("a settle handed what a settle worked out already writes that rather than working it out again", () => {
+  const { tree, root } = grounded()
+  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const body = bodyOf(value)
+  const handed: Settling = {
+    reading: readingNone(),
+    filings: [
+      {
+        at: "page/id/handed.jsonl",
+        came: [JSON.stringify({ path: "a.domain.ts", id: A })],
+        went: [],
+      },
+    ],
+    references: [],
+    carried: new Map(),
+    beside: new Map(),
+    noted: [],
+    refusedBefore: [],
+    refused: [],
+  }
+  const indexing = indexingAt(root, tree, handed)
+  indexing.wrote(put(tree, "a.domain.ts", body), body, null)
+
+  expect(indexing.settle()).toEqual([])
+  expect(existsSync(join(root, "page", "id", "handed.jsonl"))).toBe(true)
+  expect(existsSync(idFile(root, A))).toBe(false)
 })
 
 test("a page whose body will not load is reported rather than passed over", () => {

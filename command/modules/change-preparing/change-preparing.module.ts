@@ -215,5 +215,18 @@ export const changePreparing = {
       decisionKind: "decision-kind/departure",
       statement: "That face is answered alongside the edits.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What the landing's settle works out is worked out here alongside those answers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That settle is answered alongside the edits, named with the commit it was worked out against.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change no reading can be laid over answers no such settle.",
+    },
   ],
 } as const satisfies Module

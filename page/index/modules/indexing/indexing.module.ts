@@ -113,5 +113,14 @@ export const indexing = {
       statement:
         "A settle writes no such file, so the change landing the page writes it into that commit.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A settle handed what a settle worked out already writes that rather than working it out again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A settle handed nothing works out what that settle writes.",
+    },
   ],
 } as const satisfies Module

@@ -14,7 +14,10 @@ import {
   bodiesFrom,
 } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { settlingOver } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
+import {
+  type Settling,
+  settlingOver,
+} from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { indexIn, readingAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -103,6 +106,7 @@ function listingIn(root: string, change: Change | null): (folder?: string) => re
 export type Made = {
   readonly shadow: Shadow
   readonly reading: Reading
+  readonly settled: Settling | null
 }
 
 export type Cast = Made | { readonly refused: string }
@@ -229,7 +233,7 @@ export function shadowAt(root: string): Shadow {
 function castFrom(was: Reading, change: Change, held: Remembered): Cast {
   const body = bodyIn(change)
   if (nothingMoved(change)) {
-    return { shadow: shadowOver(change.root, was, body, held), reading: was }
+    return { shadow: shadowOver(change.root, was, body, held), reading: was, settled: null }
   }
   const carried = new Set(change.changed)
   const beneath = bodyOver(was)
@@ -277,7 +281,7 @@ function castFrom(was: Reading, change: Change, held: Remembered): Cast {
       pageOf,
       codeAt: codeOver(change),
     }
-    return { shadow, reading }
+    return { shadow, reading, settled }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return { refused: `${NOT_WORKED_OUT} — ${why}` }

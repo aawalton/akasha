@@ -43,6 +43,7 @@ import {
   type Bodied,
   baseOf,
   changeOf,
+  type Settled,
   splitIn,
 } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
@@ -224,9 +225,11 @@ function indexed(
   changed: readonly Bodied[],
   moves: readonly FileMove[],
   before: ReadonlyMap<string, Uint8Array | null>,
-  keeping: Keeping
+  keeping: Keeping,
+  settled: Settled | null,
+  base: string
 ): readonly string[] {
-  const held = keeping(root)
+  const held = keeping(root, settled?.base === base ? settled.settling : null)
   const named = new Set(changed.map((one) => one.path))
   for (const one of changed) {
     const was = textOf(before.get(one.path) ?? null)
@@ -264,7 +267,8 @@ export function landing(
   over?: Change | null,
   done?: string[],
   noting?: Committing | null,
-  facing?: Facing | null
+  facing?: Facing | null,
+  settled?: Settled | null
 ): Promise<Landed | Refused>
 export function landing(
   root: string,
@@ -288,7 +292,8 @@ export async function landing(
   over: Change | null = null,
   done: string[] = [],
   noting: Committing | null = null,
-  facing: Facing | null = null
+  facing: Facing | null = null,
+  settled: Settled | null = null
 ): Promise<Landed | Refused | Drafted> {
   if (changes.length === 0) {
     const base = baseOf(root)
@@ -387,7 +392,7 @@ export async function landing(
     try {
       const putting = split.committing.filter((one) => !lands.has(one.path))
       const put = wroteOnto(root, putting)
-      const noted = indexed(root, edits, moving.committing, before, keeping)
+      const noted = indexed(root, edits, moving.committing, before, keeping, settled, base)
       const back = movedOnto(root, moves)
       try {
         const onto = split.committing.filter((one) => lands.has(one.path))

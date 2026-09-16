@@ -12,6 +12,7 @@ import type {
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
+import type { Settling } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
 export type Bodied = {
@@ -24,6 +25,11 @@ type Held = ReadonlyMap<string, Uint8Array | null>
 type Split = {
   readonly edits: readonly Bodied[]
   readonly moves: readonly FileMove[]
+}
+
+export type Settled = {
+  readonly base: string
+  readonly settling: Settling
 }
 
 const BYTES = new TextEncoder()

@@ -52,5 +52,10 @@ export const landingChangeComposing = {
       decisionKind: "decision-kind/departure",
       statement: "The files carried into the run are those rows' paths and the judged ones.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What a settle worked out is carried beside the commit that settle was worked out against.",
+    },
   ],
 } as const satisfies Module

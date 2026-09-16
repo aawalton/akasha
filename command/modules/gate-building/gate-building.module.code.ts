@@ -1,6 +1,7 @@
 import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import type { Indexing } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
+import type { Settling } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 
 const CHANGE = "change"
 
@@ -31,7 +32,7 @@ async function checkingLoaded(): Promise<Checking> {
   return held as Checking
 }
 
-export type Keeping = (repo: string) => Indexing
+export type Keeping = (repo: string, settled?: Settling | null) => Indexing
 
 export async function indexingLoaded(): Promise<Keeping> {
   const held = (await loadFrom(INDEXING_IN)) as { readonly keepingIn?: unknown }

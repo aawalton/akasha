@@ -33,6 +33,7 @@ import { shapesAmong } from "akasha/page/index/modules/property-shaping/property
 import { knownIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import {
   carryingOver,
+  type Settling,
   settlingOver,
 } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import type { Filing } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -229,11 +230,11 @@ function wholeInto(
   return wrote.sort()
 }
 
-export function keepingIn(repo: string): Indexing {
-  return indexingAt(indexIn(repo), repo)
+export function keepingIn(repo: string, settled: Settling | null = null): Indexing {
+  return indexingAt(indexIn(repo), repo, settled)
 }
 
-export function indexingAt(root: string, repo: string): Indexing {
+export function indexingAt(root: string, repo: string, settled: Settling | null = null): Indexing {
   const pending = new Map<string, Pending>()
 
   const note = (path: string, before: string | null, after: string | null): undefined => {
@@ -251,7 +252,8 @@ export function indexingAt(root: string, repo: string): Indexing {
         after: one.after,
       }))
       pending.clear()
-      const found = settlingOver(readingAt(root, repo), repo, moving, (path) => valueAt(path, repo))
+      const found =
+        settled ?? settlingOver(readingAt(root, repo), repo, moving, (path) => valueAt(path, repo))
       filedInto(root, found.filings)
       besideInto(repo, found.references)
       wholeInto(repo, found.beside, false)

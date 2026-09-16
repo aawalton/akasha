@@ -54,6 +54,14 @@ test("the face saying which paths a machine writes is answered alongside the edi
   expect(said.facing.root).toBe(root)
 })
 
+test("what the landing's settle works out is answered with the commit it was worked out against", () => {
+  const root = repoWith({ "akasha/one.ts": "committed\n" })
+  const base = baseOf(root)
+  const said = preparing(root, base, [{ kind: "add", path: "akasha/two.ts", content: "second\n" }])
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  expect(said.settled?.base).toBe(base)
+})
+
 test("a loose body lands formatted and sorted", async () => {
   const root = repoWithTheFormatter()
   const said = await wrote(root, ["--message", "held"], LOOSE)

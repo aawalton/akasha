@@ -288,5 +288,13 @@ export const shadow = {
       decisionKind: "decision-kind/departure",
       statement: "The index a change started from is worked out at the first ask and held.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shadow answers what the settle that made that shadow worked out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shadow over a change that moves nothing answers no such settle.",
+    },
   ],
 } as const satisfies Module
