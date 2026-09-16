@@ -4,7 +4,7 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/collection/sync/properties/sync-runs.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/harness/monarch/month/properties/transactions.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/harness/notification-feed/properties/notifications.page-property-entry.ts"}
-{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/music/listening/heard-music/tracks/tracks.page-property-entry.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/music/listening/heard-music/properties/tracks/tracks.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/track/daily/day/properties/health-samples/health-samples.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/track/daily/day/properties/listens/listens.page-property-entry.ts"}

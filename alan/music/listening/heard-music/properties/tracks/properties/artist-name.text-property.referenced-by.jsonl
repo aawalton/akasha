@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"artist-name.text-property.types.ts","path":"alan/music/catalog/track/properties/track-artist.record-property.types.ts"}
 {"propertySlug":"page-property","path":"alan/music/catalog/track/properties/track-artist.record-property.ts","id":"01a0a5f1-d12c-7bb8-96c2-10781ad40828"}
-{"propertySlug":"page-property","path":"alan/music/listening/heard-music/tracks/tracks.page-property-entry.ts","id":"01a06240-340f-700b-b409-ccc0e5bff5e6"}
+{"propertySlug":"page-property","path":"alan/music/listening/heard-music/properties/tracks/tracks.page-property-entry.ts","id":"01a06240-340f-700b-b409-ccc0e5bff5e6"}
 {"propertySlug":"page-property","path":"alan/track/daily/day/properties/listens/listens.page-property-entry.ts","id":"01a06240-340f-7001-ad7b-818302ce884a"}
-{"propertySlug":"parts","path":"alan/music/listening/heard-music/tracks/tracks.page-property-entry.ts","id":"01a06240-340f-700b-b409-ccc0e5bff5e6"}
+{"propertySlug":"parts","path":"alan/music/listening/heard-music/properties/tracks/tracks.page-property-entry.ts","id":"01a06240-340f-700b-b409-ccc0e5bff5e6"}

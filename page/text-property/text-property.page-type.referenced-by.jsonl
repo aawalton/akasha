@@ -174,11 +174,11 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/artist/properties/artist-genre.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/song/properties/lyrics-source.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/track/properties/track-key.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/tracks/properties/artist-name.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/tracks/properties/heard-source.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/tracks/properties/spotify-track-id.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/tracks/properties/title-key.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/tracks/properties/track-name.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/properties/tracks/properties/artist-name.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/properties/tracks/properties/heard-source.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/properties/tracks/properties/spotify-track-id.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/properties/tracks/properties/title-key.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/properties/tracks/properties/track-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-account-user-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-aliases.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-company.text-property.ts"}

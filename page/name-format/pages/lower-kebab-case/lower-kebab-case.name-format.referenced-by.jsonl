@@ -17,7 +17,7 @@
 {"propertySlug":"name-format","path":"alan/harness/notification-feed/properties/notification-kind.text-property.ts","id":"01a06861-e7cd-7e83-8908-2e79da801f95"}
 {"propertySlug":"name-format","path":"alan/harness/readout/properties/color-slug.text-property.ts","id":"01a063bd-a526-78ae-ab87-fd2bf86d9fad"}
 {"propertySlug":"name-format","path":"alan/harness/readout/widget/properties/families.text-property.ts","id":"01a05480-1c89-7261-a8c7-0538e7ae019b"}
-{"propertySlug":"name-format","path":"alan/music/listening/heard-music/tracks/properties/heard-source.text-property.ts","id":"01a06240-340f-700e-a486-9e430bc408b2"}
+{"propertySlug":"name-format","path":"alan/music/listening/heard-music/properties/tracks/properties/heard-source.text-property.ts","id":"01a06240-340f-700e-a486-9e430bc408b2"}
 {"propertySlug":"name-format","path":"alan/track/daily/day/properties/sessions/properties/session-owner.text-property.ts","id":"01a05fd8-c30f-7600-86de-1d33a70265bd"}
 {"propertySlug":"name-format","path":"alan/track/daily/day/properties/to-do-slug.text-property.ts","id":"01a05fd8-c30f-7596-9f3a-87a4dbea614a"}
 {"propertySlug":"name-format","path":"alan/value/health/fitness/strength/log/properties/session-slug.text-property.ts","id":"01a06580-66fd-7412-a20a-d678614e0121"}
