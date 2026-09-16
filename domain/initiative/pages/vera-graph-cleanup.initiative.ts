@@ -11,7 +11,7 @@ export const veraGraphCleanup = {
       statement:
         "Every closure over the graph's edges is worked out in the graph rather than by each caller.",
       workingMemory:
-        "Not met. Six closures go through the graph: `dockerfile-imports` `ab84af48094`, `supervisor-file-version` `03682a4c641`, `remove-file-page` `c98fae9a35e`, `extension-host-reaches-no-bun-code` `c22258f21ec`, `no-import-cycle` `dce54f7e3b9`, `domain-ancestors` `e947dacee`. A relation is answered going out as well as coming in since `f511bf8e5bb`. Twenty-five hand walks over `parts` and `extends` are left, eighteen of them outward, four walled off from the graph by load order.",
+        "Not met. Eight callers close over the graph, the last at `208e9cad9c3`. Of twenty-five closures written by hand over `parts` and `extends`, three are done, ten are walled by a load cycle, one by the extension host reaching no Bun, seven want an ordered chain the graph cannot yet say, and four are free. `follows` only ever ANDs its values, so `domain-is-named-by-a-parent` would take two predicates. The `domain dag` closure it replaced was wrong, dropping 9,842 nestings.",
     },
     {
       statement: "Every closure the graph answers is quick enough to ask on every landing.",

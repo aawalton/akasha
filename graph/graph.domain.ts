@@ -65,6 +65,10 @@ export const graph = {
       statement:
         "A closure is answered over the shadow a change leaves as readily as over the tree.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "No file the code editor's extension host loads reaches the graph.",
+    },
   ],
   directives: [
     {
