@@ -288,6 +288,14 @@ export const checking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That row is sent to the pages service rather than into the tree the run holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run handed no root writes what it cost beside the page in its own tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run handed no root records what it cost and no verdict.",
     },
     {

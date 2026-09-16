@@ -33,6 +33,10 @@ export const auditRecording = {
       statement: "The commit a row answers for is read from the tree the audit holds.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A row already measured is sent without being measured again.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here runs a check.",
     },

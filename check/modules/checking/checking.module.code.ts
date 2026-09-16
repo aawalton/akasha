@@ -1,10 +1,10 @@
 import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import { rowSent } from "akasha/check/modules/audit-recording/audit-recording.module.code.ts"
 import {
   commitHeld,
   verdictOver,
-  verdictRecorded,
 } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import {
   type Input,
@@ -421,7 +421,7 @@ export function judgingBy(
         if (commit === "" || under === undefined) {
           recordCost(one.root, one.page, cost, under)
         } else {
-          verdictRecorded(one.root, one.page, cost, verdictOver(kept, commit, cost.ranAt), under)
+          await rowSent(one.page, cost, verdictOver(kept, commit, cost.ranAt), under)
         }
         said.push(...kept)
         done.push(one.slug)

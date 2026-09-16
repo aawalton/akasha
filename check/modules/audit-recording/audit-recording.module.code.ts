@@ -5,7 +5,7 @@ import {
   type Verdict,
   verdictOver,
 } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
-import { costSpawned } from "akasha/check/modules/cost/check-cost.module.code.ts"
+import { type Cost, costSpawned } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Held } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { appendingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
@@ -35,6 +35,16 @@ export async function verdictSent(
   return await record(page, under, answerLine(ran, verdict))
 }
 
+export async function rowSent(
+  page: string,
+  cost: Cost,
+  verdict: Verdict,
+  under: string,
+  record: Recording = throughPages
+): Promise<string | null> {
+  return await record(page, under, loggedLine(cost, verdict))
+}
+
 export async function costKept(
   one: Beside,
   done: Held,
@@ -55,9 +65,11 @@ export async function costKept(
     peakMeasured: done.peakMeasured,
     refusals: said.length,
   })
-  return await record(
+  return await rowSent(
     one.page,
+    cost,
+    verdictOver(said, commitHeld(one.root), ranAt),
     under,
-    loggedLine(cost, verdictOver(said, commitHeld(one.root), ranAt))
+    record
   )
 }
