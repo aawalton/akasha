@@ -1,0 +1,7 @@
+{"body":"the audit at dce54f7e3b987aa4ab69e6761cb3c075a8e7f095 found 1 check newly refusing.\n`page-matches-its-type` refused 69037 times:\n  alan/track/daily/day/pages/2026-01-01/day-2026-01-01.day.ts — states `health-samples seq`, which `health-samples` does not declare\n  alan/track/daily/day/pages/2026-01-01/day-2026-01-01.day.ts — states `health-samples seq`, which `health-samples` does not declare\n  alan/track/daily/day/pages/2026-01-01/day-2026-01-01.day.ts — states `health-samples seq`, which `health-samples` does not declare\n  alan/track/daily/day/pages/2026-01-01/day-2026-01-01.day.ts — states `health-samples seq`, which `health-samples` does not declare\n  alan/track/daily/day/pages/2026-01-01/day-2026-01-01.day.ts — states `health-samples seq`, which `health-samples` does not declare\nwhat each of them answered is on the newest row of the audit log beside that check's page.\n"}
+{"from":"audit-running"}
+{"id":"01a0aa9b-3968-7000-9a28-f3886b83248b"}
+{"slug":"message-f3886b83248b"}
+{"to":"seat/thea"}
+{"type":"page-type/message"}
+{"warrant":"announce"}
