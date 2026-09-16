@@ -1,0 +1,8 @@
+{"definition":"the value an attribute holds on an edge"}
+{"id":"01a0aa5f-7cce-7766-8bca-9d4677a026ea"}
+{"maxLength":100}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"value"}
+{"slug":"attribute-value"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

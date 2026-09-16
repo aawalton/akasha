@@ -22,6 +22,7 @@
 {"propertySlug":"name-format","path":"alan/track/daily/day/properties/to-do-slug.text-property.ts","id":"01a05fd8-c30f-7596-9f3a-87a4dbea614a"}
 {"propertySlug":"name-format","path":"alan/value/health/fitness/strength/log/properties/session-slug.text-property.ts","id":"01a06580-66fd-7412-a20a-d678614e0121"}
 {"propertySlug":"name-format","path":"command/properties/level-name.text-property.ts","id":"01a093f5-ae9f-72c3-876a-43c8d863335d"}
+{"propertySlug":"name-format","path":"graph/predicate/properties/attribute-value.text-property.ts","id":"01a0aa5f-7cce-7766-8bca-9d4677a026ea"}
 {"propertySlug":"name-format","path":"graph/predicate/properties/direction.text-property.ts","id":"01a0a5e2-270a-7e0a-8a1d-0d7ae58c26f5"}
 {"propertySlug":"name-format","path":"infrastructure/alert/properties/alert-domain.text-property.ts","id":"01a06755-0778-78ee-bf36-f7fd5ffa5619"}
 {"propertySlug":"name-format","path":"infrastructure/alert/properties/alert-role-slug.text-property.ts","id":"01a06935-977a-7e91-ae12-88623e6a23ba"}

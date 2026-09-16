@@ -88,6 +88,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/taboo-term/properties/taboo-senses.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"graph/edge/properties/attributes.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"graph/predicate/properties/edges.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"graph/predicate/properties/follows.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/cluster/properties/secrets.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/cluster/properties/service-manifest.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/inference/properties/runs.text-property.types.ts"}

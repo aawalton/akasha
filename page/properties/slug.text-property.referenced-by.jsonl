@@ -100,6 +100,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/standard-agent-english/term/banned-term/properties/prose-frame.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/edge/properties/attributes.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/predicate/properties/edges.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/predicate/properties/followed-attribute.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/alert/properties/alert-persona.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/service/cluster/properties/secrets.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/service/cluster/properties/service-manifest.relation-property.types.ts"}

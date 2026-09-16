@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"domain/properties/directives.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"domain/standard-agent-english/term/banned-term/properties/replacement-patterns.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"domain/taboo-term/properties/taboo-senses.record-property.ts"}
+{"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"graph/predicate/properties/follows.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"infrastructure/service/secret/properties/placements.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"infrastructure/service/workstation/properties/systemd.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"page/type/properties/audio-media.record-property.ts"}

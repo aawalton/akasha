@@ -2404,6 +2404,7 @@
 {"propertySlug":"decision-kind","path":"graph/predicate/graph-predicate.page-type.ts","id":"01a0a5ba-8fb1-7bbb-ae4e-1c26277c3a4e"}
 {"propertySlug":"decision-kind","path":"graph/predicate/modules/closure/graph-predicate-closure.module.ts","id":"01a0a5ef-108b-7e25-8e6c-7dfb7d221cf4"}
 {"propertySlug":"decision-kind","path":"graph/predicate/properties/direction.text-property.ts","id":"01a0a5e2-270a-7e0a-8a1d-0d7ae58c26f5"}
+{"propertySlug":"decision-kind","path":"graph/predicate/properties/follows.record-property.ts","id":"01a0aa5f-a005-71bc-9953-a98187d70707"}
 {"propertySlug":"decision-kind","path":"infrastructure/alert/alert.page-type.ts","id":"01a06755-0778-7804-96f1-949fc3c68e4f"}
 {"propertySlug":"decision-kind","path":"infrastructure/alert/properties/alert-domain.text-property.ts","id":"01a06755-0778-78ee-bf36-f7fd5ffa5619"}
 {"propertySlug":"decision-kind","path":"infrastructure/alert/properties/alert-runbook.file-property.ts","id":"01a06755-0778-7275-8076-4aec6002693b"}

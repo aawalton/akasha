@@ -263,6 +263,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/taboo-term/properties/kept-senses.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/taboo-term/properties/pattern.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/taboo-term/properties/sense.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"graph/predicate/properties/attribute-value.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"graph/predicate/properties/direction.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/alert/properties/alert-domain.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/alert/properties/alert-role-slug.text-property.ts"}

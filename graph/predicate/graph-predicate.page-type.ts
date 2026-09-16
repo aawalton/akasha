@@ -10,12 +10,16 @@ export const graphPredicate = {
     "graph-predicate/importers",
     "graph-predicate/imports",
     "module/graph-predicate-closure",
+    "record-property/follows",
     "relation-property/edges",
+    "relation-property/followed-attribute",
+    "text-property/attribute-value",
     "text-property/direction",
   ],
   properties: [
     { pageProperty: "relation-property/edges", required: true, many: true, maxCount: null },
     { pageProperty: "text-property/direction", required: true, many: false },
+    { pageProperty: "record-property/follows", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {

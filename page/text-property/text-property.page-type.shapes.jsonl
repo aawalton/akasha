@@ -37,6 +37,7 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"artist-genre","propertySlug":"genre","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"artist-name","propertySlug":"artist-name","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"asc-capabilities","propertySlug":"asc-capabilities","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"attribute-value","propertySlug":"value","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"back-href","propertySlug":"back-href","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"badge-variant","propertySlug":"badge-variant","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"base-card-name","propertySlug":"base-card-name","fileName":null,"folderName":null,"sorted":false}

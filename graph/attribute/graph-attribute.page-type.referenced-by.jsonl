@@ -3,3 +3,4 @@
 {"propertySlug":"import","fileName":"graph-attribute.page-type.types.ts","path":"graph/attribute/pages/property.graph-attribute.ts"}
 {"propertySlug":"parts","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
 {"propertySlug":"target-page-type","path":"graph/edge/properties/attributes.relation-property.ts","id":"01a04fe8-cebf-728c-90c6-d36708b2a983"}
+{"propertySlug":"target-page-type","path":"graph/predicate/properties/followed-attribute.relation-property.ts","id":"01a0aa5f-6087-7849-86c6-3e386cb2fb30"}
