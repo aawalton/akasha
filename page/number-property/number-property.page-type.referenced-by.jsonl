@@ -205,7 +205,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/number-property/properties/max.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/type/page-property/properties/max-count.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/type/page-property/properties/max-length.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/type/properties/next-seq.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/view/properties/group-page-size.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/view/properties/item-page-size.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/view/properties/live-refresh-ms.number-property.ts"}

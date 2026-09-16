@@ -2,10 +2,7 @@ import { expect, test } from "bun:test"
 import { addPropertyValue } from "akasha/change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts"
 import { OPENING } from "akasha/change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.test-fixtures.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { bodyOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 
@@ -249,13 +246,13 @@ test("a value under a property holding a boolean is written bare", () => {
 test("a value under a property holding a number is written bare", () => {
   const said = addPropertyValue(worldOf(BODY), {
     at: AT,
-    key: "nextSeq",
+    key: "maxCpuSeconds",
     value: "12",
     single: true,
     holds: "number",
   })
 
-  expect(bodyOf(said, () => BODY)).toContain("nextSeq: 12,")
+  expect(bodyOf(said, () => BODY)).toContain("maxCpuSeconds: 12,")
 })
 
 test("a value under any other property is written as JSON spells it", () => {
@@ -285,7 +282,7 @@ test("a value that is no boolean is refused", () => {
 test("a value that is no number is refused", () => {
   const said = addPropertyValue(worldOf(BODY), {
     at: AT,
-    key: "nextSeq",
+    key: "maxCpuSeconds",
     value: "12px",
     single: true,
     holds: "number",

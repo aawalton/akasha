@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A seq is handed out once and the counter moves on whether or not a page lands."},{"decisionKind":"decision-kind/departure","statement":"The counter moves under a lock held on the page type file."}]}
-{"definition":"the number the next page of this page type takes as its seq"}
-{"id":"01a06973-e90a-76de-be02-4662bda83eac"}
-{"max":null}
-{"propertySlug":"next-seq"}
-{"slug":"next-seq"}
-{"type":"page-type/number-property"}
-{"types":"ts"}

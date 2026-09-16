@@ -6,7 +6,6 @@ import type { ExtendsType } from "akasha/page/type/properties/extends-type.relat
 import type { LoadedBy } from "akasha/page/type/properties/loaded-by.relation-property.types.ts"
 import type { MediaConfig } from "akasha/page/type/properties/media-config.record-property.types.ts"
 import type { Mortal } from "akasha/page/type/properties/mortal.boolean-property.types.ts"
-import type { NextSeq } from "akasha/page/type/properties/next-seq.number-property.types.ts"
 import type { Owner } from "akasha/page/type/properties/owner.relation-property.types.ts"
 import type { PageBadgeComponent } from "akasha/page/type/properties/page-badge-component.component-property-group.ts"
 import type { PageCardComponent } from "akasha/page/type/properties/page-card-component.component-property-group.ts"
@@ -33,7 +32,6 @@ export type PageType = Domain & {
   sequence?: Sequence
   runsTabooCheck?: RunsTabooCheck
   allowsTmpPaths?: AllowsTmpPaths
-  nextSeq?: NextSeq
   owner?: Owner
   typeGenerator?: TypeGenerator
   types?: Types

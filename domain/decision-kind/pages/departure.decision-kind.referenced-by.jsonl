@@ -3014,7 +3014,6 @@
 {"propertySlug":"decision-kind","path":"page/type/properties/media-source-property-id.text-property.ts","id":"01a062b8-8775-7004-96c1-c6b300535f4e"}
 {"propertySlug":"decision-kind","path":"page/type/properties/media-variant-axis.text-property.ts","id":"01a062b8-8775-7005-bf65-1446f2feb5d3"}
 {"propertySlug":"decision-kind","path":"page/type/properties/mortal.boolean-property.ts","id":"01a04db0-5818-7000-9db8-d72ace0c1877"}
-{"propertySlug":"decision-kind","path":"page/type/properties/next-seq.number-property.ts","id":"01a06973-e90a-76de-be02-4662bda83eac"}
 {"propertySlug":"decision-kind","path":"page/type/properties/owner.relation-property.ts","id":"01a06c50-b15f-7d22-9f4b-7590e602dd05"}
 {"propertySlug":"decision-kind","path":"page/type/properties/plural-slug.text-property.ts","id":"01a0a5ae-a36e-7000-b147-642bd48aac2a"}
 {"propertySlug":"decision-kind","path":"page/type/properties/progress-property-id.text-property.ts","id":"01a0683a-620a-7e65-a95a-efdc99a80eaa"}
