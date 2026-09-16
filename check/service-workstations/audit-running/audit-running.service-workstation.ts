@@ -33,6 +33,22 @@ export const auditRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A round judges its checks in the cluster rather than on this workstation.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What is newly refusing is worked out here, where the verdicts before it are.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A check the cluster left unjudged is unmeasured rather than run here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round the cluster would not take is said on the error stream.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A service always up has no round to catch up on.",
     },
     {

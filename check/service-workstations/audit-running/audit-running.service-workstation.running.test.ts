@@ -3,9 +3,23 @@ import { checkoutAt } from "akasha/infrastructure/service/workstation/modules/se
 
 const RAN: (readonly string[])[] = []
 
+const RUNS: unknown[] = []
+
 const BOUND: string[] = []
 
 const audit = await import("akasha/check/modules/audit-serving/audit-serving.module.code.ts")
+
+const asking = await import("akasha/check/modules/audit-asking/audit-asking.module.code.ts")
+
+const SENT: (readonly string[])[] = []
+
+mock.module("akasha/check/modules/audit-asking/audit-asking.module.code.ts", () => ({
+  ...asking,
+  asked: (given: { readonly checks: readonly string[] }) => {
+    SENT.push(given.checks)
+    return Promise.resolve({ refusals: [], unrun: [], unanswered: [], broken: null })
+  },
+}))
 
 const listening = await import(
   "akasha/check/modules/audit-listening/audit-listening.module.code.ts"
@@ -45,8 +59,9 @@ mock.module("akasha/check/modules/audit-listening/audit-listening.module.code.ts
 
 mock.module("akasha/check/modules/audit-serving/audit-serving.module.code.ts", () => ({
   ...audit,
-  roundNow: (checks: readonly string[]) => {
+  roundNow: (checks: readonly string[], run: unknown) => {
     RAN.push(checks)
+    RUNS.push(run)
     return Promise.resolve({ ran: [], turned: [], refused: [] })
   },
 }))
@@ -74,6 +89,21 @@ test("a round opens as the service starts, over every check that runs at audit",
   RAN.length = 0
   await expect(outcomeOf(running.runService(), 50)).resolves.toBe(WAITING)
   expect(RAN).toEqual([[]])
+})
+
+test("a round judges its checks in the cluster rather than on this workstation", async () => {
+  SENT.length = 0
+  await expect(outcomeOf(running.runService(), 50)).resolves.toBe(WAITING)
+  expect(SENT.length).toBe(1)
+  expect(SENT[0]?.length).toBeGreaterThan(1)
+  expect(SENT[0]).toContain("no-class")
+})
+
+test("a check the cluster left unjudged is unmeasured rather than run here", async () => {
+  RUNS.length = 0
+  await expect(outcomeOf(running.runService(), 50)).resolves.toBe(WAITING)
+  expect(RUNS.length).toBe(1)
+  expect(RUNS[0]).toBe(audit.refusingHere)
 })
 
 const THREW = "the tree the audit would run over could not be read"

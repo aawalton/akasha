@@ -401,8 +401,21 @@ export async function serving(given: Serving): Promise<Told> {
   return { ran, turned, refused: why === null ? [] : [why] }
 }
 
-export async function roundNow(checks: readonly string[]): Promise<Told> {
-  const told = await serving({ root: checkoutAt(), home: requireEnv("HOME"), checks })
+export const refusingHere: Running = async (one) => [
+  {
+    path: one.page,
+    reason: `the check \`${one.slug}\` was not run in the cluster, so it judged nothing`,
+    threw: true,
+  },
+]
+
+export async function roundNow(checks: readonly string[], run?: Running): Promise<Told> {
+  const told = await serving({
+    root: checkoutAt(),
+    home: requireEnv("HOME"),
+    checks,
+    ...(run === undefined ? {} : { run }),
+  })
   const red = told.ran.filter((one) => measured(one.verdict) && !cleanly(one.verdict)).length
   const nothing = told.ran.filter((one) => !measured(one.verdict)).length
   process.stdout.write(

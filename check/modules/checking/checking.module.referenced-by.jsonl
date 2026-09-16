@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"checking.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.test.ts"}
 {"propertySlug":"import","fileName":"checking.module.code.ts","path":"check/modules/checking/checking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"checking.module.code.ts","path":"check/modules/checking/checking.module.test.ts"}
+{"propertySlug":"import","fileName":"checking.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"checking.module.code.ts","path":"check/test/fixture/minting/minting.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"checking.module.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"checking.module.code.ts","path":"command/pages/audit/audit.command.code.ts"}
