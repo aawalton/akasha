@@ -11,6 +11,7 @@ export const job = {
     "module/cluster-running",
     "module/deploy-job",
     "module/deploy-job-running",
+    "module/run-in-cluster",
   ],
   decisions: [
     {

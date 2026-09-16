@@ -138,10 +138,7 @@ export const clusterRunning = {
       decisionKind: "decision-kind/departure",
       statement: "A job states that the run it carries is the one in the cluster.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A run reads from its own environment whether it is the run in the cluster.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A job holds every privilege the node gives a container.",

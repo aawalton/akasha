@@ -6,8 +6,6 @@ import {
   checkedOut,
   endedBy,
   fateOf,
-  IN_CLUSTER,
-  inCluster,
   jobRan,
   jobYamlFor,
   logsArgv,
@@ -22,6 +20,7 @@ import {
   refusedPush,
   uncarried,
 } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.test-fixtures.ts"
+import { IN_CLUSTER } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 
 const NAME = "held-job-0123456789ab"
 
@@ -96,14 +95,6 @@ test("a job states that the run it carries is the one in the cluster", () => {
 
 test("a job holds every privilege the node gives a container", () => {
   expect(jobYamlFor(NAME, SCRIPT)).toContain("privileged: true")
-})
-
-test("a run reads from its own environment whether it is the run in the cluster", () => {
-  delete process.env[IN_CLUSTER]
-  expect(inCluster()).toBe(false)
-  process.env[IN_CLUSTER] = "1"
-  expect(inCluster()).toBe(true)
-  delete process.env[IN_CLUSTER]
 })
 
 test("the wait names the job, its namespace and how long it is waited on", () => {

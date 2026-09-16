@@ -1343,6 +1343,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/job/modules/cluster-running/cluster-running.module.ts","id":"01a0aabf-f39f-7e07-9230-1008e8f32320"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.ts","id":"01a0a102-c51d-75a9-8995-8d088708ee8d"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/modules/deploy-job/deploy-job.module.ts","id":"01a0a0f6-5662-7252-90e8-ea20b000453f"}
+{"propertySlug":"decision-kind","path":"infrastructure/job/modules/run-in-cluster/run-in-cluster.module.ts","id":"01a0ac69-5f36-7c55-b13c-8803a92a27a7"}
 {"propertySlug":"decision-kind","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.ts","id":"01a0a0af-184c-7bcb-bcd1-77847f24260e"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.ts","id":"01a07352-c56d-7d59-981a-3d7fa93e062d"}

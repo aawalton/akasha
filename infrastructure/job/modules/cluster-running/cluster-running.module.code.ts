@@ -13,6 +13,10 @@ import { ci } from "akasha/infrastructure/container-image/dockerfile/built-image
 import { refFor } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { deployAccount } from "akasha/infrastructure/job/deploy-account/deploy-account.manifest.ts"
 import {
+  IN_CLUSTER,
+  IN_CLUSTER_SET,
+} from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
+import {
   type Carried,
   carriedByOrigin,
 } from "akasha/infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"
@@ -60,10 +64,6 @@ const ROOM = "LANDING_MIN_FREE_MEMORY_GB"
 
 const ROOM_GB = "1"
 
-export const IN_CLUSTER = "AKASHA_RUN_IN_CLUSTER"
-
-const IN_CLUSTER_SET = "1"
-
 export const NAMED = 12
 
 const WORK = "work"
@@ -75,10 +75,6 @@ const KEPT_SECONDS = 3600
 const DEADLINE_SECONDS = 3600
 
 const UNCONFINED = "Unconfined"
-
-export function inCluster(): boolean {
-  return (process.env[IN_CLUSTER] ?? "") !== ""
-}
 
 export function fetchedFor(commit: string, was: string | null): readonly string[] {
   const at = `git fetch -q --depth 1 origin ${commit}`

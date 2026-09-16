@@ -1784,6 +1784,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/job/modules/run-in-cluster/run-in-cluster.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/kernel/modules/inode-guard/inode-guard.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/kernel/modules/memory-guard/memory-guard.module.ts"}
