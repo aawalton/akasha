@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const jamesTaylor2CoversSummertimeBlues = {
+  id: "01a0abeb-34ec-7af7-8f2d-776a81bc3ac4",
+  type: "page-type/track",
+  slug: "james-taylor-2-covers-summertime-blues",
+  ownLength: 2.6642166666666665,
+  ownProgress: 0,
+  partOfCollections: ["release/james-taylor-2-covers"],
+  position: 11,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6m1Ff8NSiHXTa4YjOAesqE",
+      externalLink: "https://open.spotify.com/track/6m1Ff8NSiHXTa4YjOAesqE",
+      lastSyncedAt: "2026-09-16",
+    },
+  ],
+  title: "Summertime Blues",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackKey: "summertimeblues|0vn7UBvSQECKJm2817Yf1P|159853",
+} as const satisfies Track

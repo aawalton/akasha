@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterRidingOnARailroad2019Remaster = {
+  id: "01a0abeb-4db7-7679-8ad4-432239add97e",
+  type: "page-type/track",
+  slug: "james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster-riding-on-a-railroad-2019-remaster",
+  ownLength: 2.7164333333333333,
+  ownProgress: 0,
+  partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
+  position: 4,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4fzDRFNKcSsehwI85YS5pK",
+      externalLink: "https://open.spotify.com/track/4fzDRFNKcSsehwI85YS5pK",
+      lastSyncedAt: "2026-09-16",
+    },
+  ],
+  title: "Riding on a Railroad - 2019 Remaster",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackKey: "ridingonarailroad2019remaster|0vn7UBvSQECKJm2817Yf1P|162986",
+} as const satisfies Track

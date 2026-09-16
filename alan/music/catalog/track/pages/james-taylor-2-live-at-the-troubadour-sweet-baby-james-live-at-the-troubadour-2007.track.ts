@@ -1,0 +1,30 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const jamesTaylor2LiveAtTheTroubadourSweetBabyJamesLiveAtTheTroubadour2007 = {
+  id: "01a0abeb-323b-7f4f-81b9-2b8daae01d93",
+  type: "page-type/track",
+  slug: "james-taylor-2-live-at-the-troubadour-sweet-baby-james-live-at-the-troubadour-2007",
+  ownLength: 3.5824333333333334,
+  ownProgress: 0,
+  partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
+  position: 11,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1yd6NcWGn4L82syGLh2g0o",
+      externalLink: "https://open.spotify.com/track/1yd6NcWGn4L82syGLh2g0o",
+      lastSyncedAt: "2026-09-16",
+    },
+  ],
+  title: "Sweet Baby James - Live At The Troubadour / 2007",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [
+    { externalId: "319yZVtYM9MBGqmSQnMyY6", artistName: "Carole King" },
+    { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },
+  ],
+  trackKey:
+    "sweetbabyjamesliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|214946",
+} as const satisfies Track

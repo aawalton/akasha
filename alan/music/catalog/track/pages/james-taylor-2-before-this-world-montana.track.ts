@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const jamesTaylor2BeforeThisWorldMontana = {
+  id: "01a0abeb-305d-7b59-8f5f-433d1892e420",
+  type: "page-type/track",
+  slug: "james-taylor-2-before-this-world-montana",
+  ownLength: 3.425333333333333,
+  ownProgress: 0,
+  partOfCollections: ["release/james-taylor-2-before-this-world"],
+  position: 5,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "59ozpIwaP8CoDMpQwKdRLs",
+      externalLink: "https://open.spotify.com/track/59ozpIwaP8CoDMpQwKdRLs",
+      lastSyncedAt: "2026-09-16",
+    },
+  ],
+  title: "Montana",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackKey: "montana|0vn7UBvSQECKJm2817Yf1P|205520",
+} as const satisfies Track

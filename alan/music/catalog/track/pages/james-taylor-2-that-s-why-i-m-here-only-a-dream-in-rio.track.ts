@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const jamesTaylor2ThatSWhyIMHereOnlyADreamInRio = {
+  id: "01a0abeb-41f9-7b09-b3c8-0ab6a94d4b17",
+  type: "page-type/track",
+  slug: "james-taylor-2-that-s-why-i-m-here-only-a-dream-in-rio",
+  ownLength: 4.990666666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
+  position: 3,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2eVNfxXYOd6qam9LJvHEh1",
+      externalLink: "https://open.spotify.com/track/2eVNfxXYOd6qam9LJvHEh1",
+      lastSyncedAt: "2026-09-16",
+    },
+  ],
+  title: "Only a Dream in Rio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackKey: "onlyadreaminrio|0vn7UBvSQECKJm2817Yf1P|299440",
+} as const satisfies Track
