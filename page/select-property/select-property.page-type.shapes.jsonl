@@ -66,7 +66,6 @@
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"laterality","propertySlug":"laterality","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"layout","propertySlug":"layout","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"life-theme-status","propertySlug":"life-theme-status","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"lock-state","propertySlug":"lock-state","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"mastery-level","propertySlug":"mastery-level","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"match-comparison","propertySlug":"comparison","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"match-key","propertySlug":"key","fileName":null,"folderName":null,"sorted":false}

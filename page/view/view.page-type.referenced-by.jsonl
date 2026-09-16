@@ -7,9 +7,6 @@
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/books-completed.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/books-reading.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/books-to-read.view.ts"}
-{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/idle-lineup-2-team.view.ts"}
-{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/idle-lineup-team.view.ts"}
-{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/idle-roster-cards.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/series-all.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/tasks-not-completed.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/tasks-today.view.ts"}

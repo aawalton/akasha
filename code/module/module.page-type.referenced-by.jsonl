@@ -545,16 +545,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-sample-import/modules/health-snapshot/health-snapshot.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-sample-import/modules/laptop-host/laptop-host.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-sample-import/modules/verdict-reading/verdict-reading.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/idle-system/modules/idle-accrual/idle-accrual.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/idle-system/modules/idle-constants/idle-constants.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/idle-system/modules/idle-deriving/idle-deriving.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/idle-system/modules/idle-dormancy/idle-dormancy.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/idle-system/modules/idle-draw/idle-draw.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/idle-system/modules/idle-gacha-heat/idle-gacha-heat.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/idle-system/modules/idle-gacha-state/idle-gacha-state.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/idle-system/modules/idle-rate/idle-rate.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/idle-system/modules/idle-save/idle-save.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/idle-system/modules/idle-state/idle-state.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/imessage/modules/chat-db/chat-db.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/imessage/modules/command-reading/imessage-command-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/imessage/modules/contacts-db/contacts-db.module.ts"}

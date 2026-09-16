@@ -111,10 +111,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/errors-core/runtime-error/properties/error-release-sha.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/errors-core/runtime-error/properties/error-url.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/errors-core/runtime-error/properties/error-user-agent.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/idle-system/idle-persona-card/properties/card-slug.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/idle-system/idle-persona-card/properties/cover-image-id.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/idle-system/idle-persona-card/properties/images.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/idle-system/idle-persona-card/properties/player-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/inbox/email-rule/agent/properties/email-rule-judgement.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-delay.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/inbox/email-rule/properties/email-rule-match-values.text-property.ts"}

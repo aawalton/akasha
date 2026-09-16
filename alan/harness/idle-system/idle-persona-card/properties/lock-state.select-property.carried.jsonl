@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A locked card is titled by three question marks rather than by its persona."}]}
-{"definition":"whether a card has been opened yet"}
-{"id":"01a06596-f0d5-700b-af22-da0e38963974"}
-{"propertySlug":"lock-state"}
-{"slug":"lock-state"}
-{"type":"page-type/select-property"}
-{"types":"ts"}
-{"values":["locked","unlocked"]}

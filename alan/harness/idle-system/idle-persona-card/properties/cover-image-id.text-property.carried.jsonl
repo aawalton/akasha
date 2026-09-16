@@ -1,8 +1,0 @@
-{"definition":"the picture a card is shown by"}
-{"id":"01a06596-f0d5-7009-9355-444abe7abd10"}
-{"maxLength":36}
-{"nameFormat":"name-format/lower-uuid"}
-{"propertySlug":"cover-image-id"}
-{"slug":"cover-image-id"}
-{"type":"page-type/text-property"}
-{"types":"ts"}

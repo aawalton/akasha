@@ -28,7 +28,6 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/properties/collection-type.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/properties/collection-unit.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/properties/part-of-collections.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/idle-system/idle-persona-card/properties/card-persona.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-forward-to.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/monarch/category-rule/properties/transaction-category.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/monarch/holding/properties/account.relation-property.types.ts"}

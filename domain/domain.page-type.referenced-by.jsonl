@@ -177,7 +177,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-sample-access/health-sample-access.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-sample-day/health-sample-day.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-sample-import/health-sample-import.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/idle-system/idle-system.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/imessage/imessage.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/inbox/inbox.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/location-trace-access/location-trace-access.domain.ts"}

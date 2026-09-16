@@ -15,8 +15,6 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/collection/place/location-deal/properties/struck-out.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/collection/place/location/properties/visited.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/collection/properties/following.boolean-property.ts"}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/idle-system/idle-persona-card/properties/lock-eligible.boolean-property.ts"}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/idle-system/idle-persona-card/properties/specialize-locked.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/monarch/account/properties/account-active.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/monarch/account/properties/account-hidden.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/monarch/account/properties/asset.boolean-property.ts"}

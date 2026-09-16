@@ -683,11 +683,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/health-sample-import/modules/health-snapshot/health-snapshot.module.ts","id":"01a05c14-b11a-7001-878a-9f73d85a1b3a"}
 {"propertySlug":"decision-kind","path":"alan/harness/health-sample-import/modules/laptop-host/laptop-host.module.ts","id":"01a05c14-b119-7003-ac6e-29f5219a020b"}
 {"propertySlug":"decision-kind","path":"alan/harness/health-sample-import/modules/verdict-reading/verdict-reading.module.ts","id":"01a05c14-b119-7000-9120-df7558499051"}
-{"propertySlug":"decision-kind","path":"alan/harness/idle-system/idle-persona-card/idle-persona-card.page-type.ts","id":"01a06596-f0d5-700c-a792-6d23205f3082"}
-{"propertySlug":"decision-kind","path":"alan/harness/idle-system/idle-persona-card/properties/card-slug.text-property.ts","id":"01a06596-f0d5-7008-953b-4006bde89bad"}
-{"propertySlug":"decision-kind","path":"alan/harness/idle-system/idle-persona-card/properties/images.text-property.ts","id":"01a06596-f0d5-700a-afd0-623e8cd3d142"}
-{"propertySlug":"decision-kind","path":"alan/harness/idle-system/idle-persona-card/properties/lock-state.select-property.ts","id":"01a06596-f0d5-700b-af22-da0e38963974"}
-{"propertySlug":"decision-kind","path":"alan/harness/idle-system/idle-save/idle-save.page-type.ts","id":"01a06826-794a-7698-b659-62bf92ba16c3"}
 {"propertySlug":"decision-kind","path":"alan/harness/imessage/imessage.domain.ts","id":"01a05bc9-4308-7007-a8cc-e8f6c025c81e"}
 {"propertySlug":"decision-kind","path":"alan/harness/imessage/modules/chat-db/chat-db.module.ts","id":"01a05bc9-4308-7004-be2b-a24f942f8823"}
 {"propertySlug":"decision-kind","path":"alan/harness/imessage/modules/command-reading/imessage-command-reading.module.ts","id":"01a0685f-c8ed-7000-adfa-6dd4db0e10c3"}

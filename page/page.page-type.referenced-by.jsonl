@@ -30,8 +30,6 @@
 {"propertySlug":"extends-type","path":"alan/harness/code-editor/terminal/code-editor-terminal.page-type.ts","id":"01a06826-92e5-7481-a7d4-68af91528f0b"}
 {"propertySlug":"extends-type","path":"alan/harness/code-editor/window/code-editor-window.page-type.ts","id":"01a06826-92e5-77ad-ad85-f1aa8cb5d359"}
 {"propertySlug":"extends-type","path":"alan/harness/errors-core/runtime-error/runtime-error.page-type.ts","id":"01a05f3f-e3df-76da-ba22-9282e49c2d98"}
-{"propertySlug":"extends-type","path":"alan/harness/idle-system/idle-persona-card/idle-persona-card.page-type.ts","id":"01a06596-f0d5-700c-a792-6d23205f3082"}
-{"propertySlug":"extends-type","path":"alan/harness/idle-system/idle-save/idle-save.page-type.ts","id":"01a06826-794a-7698-b659-62bf92ba16c3"}
 {"propertySlug":"extends-type","path":"alan/harness/inbox/email-rule/email-rule.page-type.ts","id":"01a06828-59d3-7486-8463-b59a1768c717"}
 {"propertySlug":"extends-type","path":"alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.ts","id":"019f5141-c410-7cd1-b491-d017f10e568d"}
 {"propertySlug":"extends-type","path":"alan/harness/monarch/category-rule/category-rule.page-type.ts","id":"01a0680c-3c00-7007-a659-3e8d1c4f3108"}
@@ -142,8 +140,6 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/code-editor/terminal/code-editor-terminal.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/code-editor/window/code-editor-window.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/errors-core/runtime-error/runtime-error.page-type.types.ts"}
-{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/idle-system/idle-persona-card/idle-persona-card.page-type.types.ts"}
-{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/idle-system/idle-save/idle-save.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/inbox/email-rule/email-rule.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/monarch/category-rule/category-rule.page-type.types.ts"}

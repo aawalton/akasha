@@ -72,7 +72,6 @@
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"known","propertySlug":"known","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"live-shell","propertySlug":"live-shell","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"live-subagent","propertySlug":"live-subagent","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"lock-eligible","propertySlug":"lock-eligible","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"locked","propertySlug":"locked","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"locked-page-type","propertySlug":"locked-page-type","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"mark-read-on-end","propertySlug":"mark-read-on-end","fileName":null,"folderName":null,"sorted":false}
@@ -116,7 +115,6 @@
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sort-descending","propertySlug":"descending","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sorted","propertySlug":"sorted","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sourced","propertySlug":"sourced","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"specialize-locked","propertySlug":"specialize-locked","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"split","propertySlug":"split","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"stolen","propertySlug":"stolen","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"struck-out","propertySlug":"struck-out","fileName":null,"folderName":null,"sorted":false}

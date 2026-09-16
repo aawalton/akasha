@@ -17,8 +17,6 @@
 {"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts"}
 {"propertySlug":"name-format","path":"agent/model/account/properties/account-uuid.text-property.ts","id":"01a054d8-1d39-7b26-b3d7-5857ea15a1b4"}
 {"propertySlug":"name-format","path":"agent/seat/properties/claude-code-session-uuid.text-property.ts","id":"01a053e4-cf4a-7e0c-a936-1a0a62a7b7e5"}
-{"propertySlug":"name-format","path":"alan/harness/idle-system/idle-persona-card/properties/cover-image-id.text-property.ts","id":"01a06596-f0d5-7009-9355-444abe7abd10"}
-{"propertySlug":"name-format","path":"alan/harness/idle-system/idle-persona-card/properties/images.text-property.ts","id":"01a06596-f0d5-700a-afd0-623e8cd3d142"}
 {"propertySlug":"name-format","path":"alan/track/daily/day/properties/meals.text-property.ts","id":"01a05fd8-c30f-7952-9ba0-4a131ba3347a"}
 {"propertySlug":"name-format","path":"alan/track/daily/day/properties/sessions/properties/daily-tracking.text-property.ts","id":"01a05fd8-c30f-7127-badb-476efde0211e"}
 {"propertySlug":"name-format","path":"alan/track/daily/day/properties/sessions/properties/relationships.text-property.ts","id":"01a05fd8-c30f-754a-bb2e-de6ec74d6e4a"}

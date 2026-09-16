@@ -60,7 +60,6 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"buyer-name","propertySlug":"buyer-name","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"caption","propertySlug":"caption","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"capture-source","propertySlug":"capture-source","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"card-slug","propertySlug":"card-slug","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"case-against","propertySlug":"against","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"case-asked","propertySlug":"asked","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"case-page","propertySlug":"page","fileName":null,"folderName":null,"sorted":false}
@@ -114,7 +113,6 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"coordinator-agent","propertySlug":"coordinator-agent","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"country","propertySlug":"country","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"cover","propertySlug":"cover","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"cover-image-id","propertySlug":"cover-image-id","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"cuisine-or-type","propertySlug":"cuisine-or-type","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"currency-scope","propertySlug":"scope","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"daily-tracking","propertySlug":"daily-tracking","fileName":null,"folderName":null,"sorted":false}
@@ -255,7 +253,6 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"image-path","propertySlug":"image-path","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"image-repository","propertySlug":"repository","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"image-root","propertySlug":"image-root","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"images","propertySlug":"images","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"imdb-id","propertySlug":"imdb-id","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type","uniquePropertySlug":null,"slug":"index-name","propertySlug":"name","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"inference-host","propertySlug":"host","fileName":null,"folderName":null,"sorted":false}
@@ -370,7 +367,6 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"placeholder","propertySlug":"placeholder","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"play-key","propertySlug":"play-key","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"player-handle","propertySlug":"handle","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"player-id","propertySlug":"player-id","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"plural-slug","propertySlug":"plural-slug","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"poi-name","propertySlug":"poi-name","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"poi-type-label","propertySlug":"poi-type-label","fileName":null,"folderName":null,"sorted":false}

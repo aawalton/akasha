@@ -60,8 +60,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/code-editor/terminal/code-editor-terminal.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/code-editor/window/code-editor-window.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/errors-core/runtime-error/runtime-error.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/idle-system/idle-persona-card/idle-persona-card.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/idle-system/idle-save/idle-save.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/inbox/email-rule/agent/email-rule-agent.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/email-rule-code.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/inbox/email-rule/email-rule.page-type.ts"}

@@ -32,7 +32,6 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/place/location-deal/properties/locations.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/properties/collection-tags.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/properties/part-of-collections.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/idle-system/idle-persona-card/properties/images.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-actions.select-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/inbox/email-rule/properties/email-rule-match-values.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/inbox/email-rule/properties/email-rule-matches.record-property.types.ts"}

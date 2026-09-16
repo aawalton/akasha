@@ -44,7 +44,6 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"capacity-rate","propertySlug":"capacity-rate","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"capture-through-line","propertySlug":"capture-through-line","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"card-index","propertySlug":"card-index","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"card-rank","propertySlug":"rank","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"cardio-points","propertySlug":"cardio-points","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"cells-cleared","propertySlug":"cells-cleared","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"change-max-cpu-seconds","propertySlug":"max-cpu-seconds","fileName":null,"folderName":null,"sorted":false}
@@ -284,7 +283,6 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"quantity","propertySlug":"quantity","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"quest-id","propertySlug":"quest-id","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"quest-type","propertySlug":"quest-type","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"rate-per-sec","propertySlug":"rate-per-sec","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"rating","propertySlug":"rating","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"rating-deviation","propertySlug":"rating-deviation","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"recency-saturation-days","propertySlug":"recency-saturation-days","fileName":null,"folderName":null,"sorted":false}
@@ -318,7 +316,6 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sale-price","propertySlug":"sale-price","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sale-quantity","propertySlug":"quantity","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"scanned-to","propertySlug":"scanned-to","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"seat-index","propertySlug":"seat-index","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"set-id","propertySlug":"set-id","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"set-max-equip","propertySlug":"set-max-equip","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"set-number","propertySlug":"set-number","fileName":null,"folderName":null,"sorted":false}
@@ -334,7 +331,6 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"speed-mps","propertySlug":"speed-mps","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"ssd","propertySlug":"ssd","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"stack-count","propertySlug":"stack-count","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"stars","propertySlug":"stars","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"start-limit-interval-seconds","propertySlug":"start-limit-interval-seconds","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"start-timeout-seconds","propertySlug":"start-timeout-seconds","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"status-distance","propertySlug":"distance","fileName":null,"folderName":null,"sorted":false}
@@ -362,7 +358,6 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"total-value","propertySlug":"total-value","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"trace-latitude","propertySlug":"latitude","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"trace-longitude","propertySlug":"longitude","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"train-cost","propertySlug":"train-cost","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"trait-index","propertySlug":"trait-index","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"trait-type","propertySlug":"trait-type","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"trait-type-range","propertySlug":"trait-type-range","fileName":null,"folderName":null,"sorted":false}

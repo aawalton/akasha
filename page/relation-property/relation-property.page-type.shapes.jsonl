@@ -13,7 +13,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"car-make","unique":null,"uniquePropertySlug":null,"slug":"car-make","propertySlug":"car-make","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"car-model","unique":null,"uniquePropertySlug":null,"slug":"car-model","propertySlug":"car-model","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"car-year","unique":null,"uniquePropertySlug":null,"slug":"car-year","propertySlug":"car-year","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"card-persona","propertySlug":"persona","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"championed-domain","propertySlug":"championed-domain","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"change-kind","unique":null,"uniquePropertySlug":null,"slug":"change-kind","propertySlug":"change-kind","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"change-mode","unique":null,"uniquePropertySlug":null,"slug":"change-mode","propertySlug":"change-mode","fileName":null,"folderName":null,"sorted":false}

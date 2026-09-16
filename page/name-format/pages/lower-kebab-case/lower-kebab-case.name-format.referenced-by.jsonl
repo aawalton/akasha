@@ -12,8 +12,6 @@
 {"propertySlug":"name-format","path":"alan/chess/game/properties/chess-source.text-property.ts","id":"01a06582-bd62-7f26-81ac-a3d85df41e67"}
 {"propertySlug":"name-format","path":"alan/harness/errors-core/runtime-error/properties/error-app.text-property.ts","id":"01a05f3f-e3e0-7cda-81e5-e5f7cddf3e43"}
 {"propertySlug":"name-format","path":"alan/harness/errors-core/runtime-error/properties/error-kind.text-property.ts","id":"01a05f3f-e3e0-70ed-a9ac-229acd8e154c"}
-{"propertySlug":"name-format","path":"alan/harness/idle-system/idle-persona-card/properties/card-slug.text-property.ts","id":"01a06596-f0d5-7008-953b-4006bde89bad"}
-{"propertySlug":"name-format","path":"alan/harness/idle-system/idle-persona-card/properties/player-id.text-property.ts","id":"01a06596-f0d5-7007-a70d-0e2e56b9aacd"}
 {"propertySlug":"name-format","path":"alan/harness/notification-feed/properties/notification-kind.text-property.ts","id":"01a06861-e7cd-7e83-8908-2e79da801f95"}
 {"propertySlug":"name-format","path":"alan/harness/readout/properties/color-slug.text-property.ts","id":"01a063bd-a526-78ae-ab87-fd2bf86d9fad"}
 {"propertySlug":"name-format","path":"alan/harness/readout/widget/properties/families.text-property.ts","id":"01a05480-1c89-7261-a8c7-0538e7ae019b"}

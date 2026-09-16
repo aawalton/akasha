@@ -43,7 +43,6 @@
 {"propertySlug":"import","fileName":"persona.page-type.types.ts","path":"persona/pages/zeli/zeli.persona.ts"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
 {"propertySlug":"target-page-type","path":"agent/seat/properties/seat-persona.relation-property.ts","id":"01a06d69-cfb7-7d3a-a37e-094805ef6f45"}
-{"propertySlug":"target-page-type","path":"alan/harness/idle-system/idle-persona-card/properties/card-persona.relation-property.ts","id":"01a06d59-446e-7c18-924f-2f3c7bc8f3e7"}
 {"propertySlug":"target-page-type","path":"alan/harness/reminder-system/reminder/properties/sent-from.relation-property.ts","id":"01a05f42-d941-7003-93f9-14f2e4d582f1"}
 {"propertySlug":"target-page-type","path":"alan/harness/reminder-system/reminder/properties/sent-to.relation-property.ts","id":"01a05f42-d941-7002-b41d-b3dedda83287"}
 {"propertySlug":"target-page-type","path":"alan/relating/relationship-deposit/properties/relationship-deposit-persona.relation-property.ts","id":"01a0658d-16bc-701b-8663-4049c2963e1c"}

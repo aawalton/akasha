@@ -44,11 +44,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/unit/properties/words.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/code-editor/data-interface/properties/cooldown-milliseconds.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/errors-core/runtime-error/properties/error-count.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/idle-system/idle-persona-card/properties/card-rank.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/idle-system/idle-persona-card/properties/rate-per-sec.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/idle-system/idle-persona-card/properties/seat-index.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/idle-system/idle-persona-card/properties/stars.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/idle-system/idle-persona-card/properties/train-cost.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/mobile-cli/mobile-cut/properties/build-number.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/monarch/account/properties/current-balance.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/monarch/category-rule/properties/counterpart-within-days.number-property.ts"}

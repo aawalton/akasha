@@ -16,7 +16,6 @@
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/sync-run/sync-run.module.ts","id":"01a06580-196a-7001-8989-3755d6f4c2ed"}
 {"propertySlug":"decision-kind","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.ts","id":"01a08c11-e71f-7f8f-b343-d87bac283b1c"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts","id":"01a069bc-1aa3-790c-bb5e-db2397ad19ed"}
-{"propertySlug":"decision-kind","path":"alan/harness/idle-system/idle-persona-card/properties/player-id.text-property.ts","id":"01a06596-f0d5-7007-a70d-0e2e56b9aacd"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/modules/reading/inbox-reading.module.ts","id":"01a069bf-3919-77bc-a8a7-66b02d4185bf"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/eval/modules/score/monarch-eval-score.module.ts","id":"01a06868-1eff-7772-8b1a-2c5a4d3dd331"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/audible-credits/monarch-audible-credits.module.ts","id":"01a06866-06f1-7d56-8ec9-2fc9f52bc4eb"}

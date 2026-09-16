@@ -18,7 +18,6 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/collection/recipe-collection/recipe-collection.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/collection/recipe/recipe.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/collection/type/collection-type.page-type.types.ts"}
-{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/harness/idle-system/idle-persona-card/idle-persona-card.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/harness/inbox/email-rule/email-rule.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/harness/monarch/category-rule/category-rule.page-type.types.ts"}
@@ -127,7 +126,6 @@
 {"propertySlug":"page-property","path":"alan/collection/recipe-collection/recipe-collection.page-type.ts","id":"01a06807-be66-7010-8d4a-7caba22196b6"}
 {"propertySlug":"page-property","path":"alan/collection/recipe/recipe.page-type.ts","id":"01a06807-be66-700f-92e8-bca7096b21be"}
 {"propertySlug":"page-property","path":"alan/collection/type/collection-type.page-type.ts","id":"01a0680f-6f00-7001-b374-6d2a9f5c6102"}
-{"propertySlug":"page-property","path":"alan/harness/idle-system/idle-persona-card/idle-persona-card.page-type.ts","id":"01a06596-f0d5-700c-a792-6d23205f3082"}
 {"propertySlug":"page-property","path":"alan/harness/inbox/email-rule/email-rule.page-type.ts","id":"01a06828-59d3-7486-8463-b59a1768c717"}
 {"propertySlug":"page-property","path":"alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.ts","id":"019f5141-c410-7cd1-b491-d017f10e568d"}
 {"propertySlug":"page-property","path":"alan/harness/monarch/category-rule/category-rule.page-type.ts","id":"01a0680c-3c00-7007-a659-3e8d1c4f3108"}
