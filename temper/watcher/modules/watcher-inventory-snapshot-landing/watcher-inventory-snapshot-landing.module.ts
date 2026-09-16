@@ -80,5 +80,9 @@ export const watcherInventorySnapshotLanding = {
       decisionKind: "decision-kind/departure",
       statement: "A field the scan left out is left off the row rather than filed as null.",
     },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "The rows a scan's open cooldowns become are not filed yet.",
+    },
   ],
 } as const satisfies Module
