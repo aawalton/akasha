@@ -1,0 +1,11 @@
+import type { Message } from "akasha/agent/messaging/message/message.page-type.types.ts"
+
+export const message4215c4b09fec = {
+  id: "01a0a7c2-1004-7000-bb9b-4215c4b09fec",
+  type: "page-type/message",
+  slug: "message-4215c4b09fec",
+  to: "seat/thea",
+  from: "audit-running",
+  warrant: "announce",
+  body: "the audit at 08658aff1f62344b0b2766590431ccdccab52a4d found 1 check newly refusing.\n`no-unused-exports` refused 2 times:\n  agent/seat/supervisor/supervisor-log/modules/supervisor-saying/supervisor-saying.module.code.ts — exports `sayingWith`, which only a test names — a value only a test names is code only the test runs\n  alan/harness/readout/modules/asking/readout-asking.module.code.ts — exports `rowFor`, which only a test names — a value only a test names is code only the test runs\nwhat each of them answered is on the newest row of the audit log beside that check's page.\n",
+} as const satisfies Message
