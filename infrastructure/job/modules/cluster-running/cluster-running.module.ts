@@ -8,6 +8,7 @@ export const clusterRunning = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
+  allowsTmpPaths: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -66,8 +67,92 @@ export const clusterRunning = {
       statement: "Every job runs in the namespace named here.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Every job is composed here from the name and the script it is handed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job takes the repository from the git service inside the cluster.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The token a job reads the repository with is handed in from a secret.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The key a job decrypts a secret with is handed in from a secret.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here composes a job.",
+      statement: "No token is written into the job the cluster is handed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job fetches the commit it is made at rather than the whole history.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job fetches an earlier commit it is handed beside the commit it is made at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job handed no earlier commit fetches one commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An earlier commit origin no longer carries leaves the rest of the job running.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A job builds no index, git carrying every index a page is read through.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job runs in the image a pipeline's own steps run in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job runs on a node of the class that carries this work.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job that failed is not run again by the cluster.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job bounds what that job carries, and nothing inside it does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The memory a landing starts on is read from the pod rather than the workstation.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job runs under no syscall filter.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The overlay a job's test gate mounts is held on a volume of the job's own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job states that the run it carries is the one in the cluster.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run reads from its own environment whether it is the run in the cluster.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job holds every privilege the node gives a container.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job makes control groups of its own under the one it runs in.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here says what a job does once that job has checked the commit out.",
     },
     {
       decisionKind: "decision-kind/absence",

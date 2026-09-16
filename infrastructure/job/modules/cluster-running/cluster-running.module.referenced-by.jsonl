@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"cluster-running.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts"}
+{"propertySlug":"import","fileName":"cluster-running.module.code.ts","path":"command/pages/deploy/deploy.command.test.ts"}
 {"propertySlug":"import","fileName":"cluster-running.module.code.ts","path":"infrastructure/job/deploy-account/deploy-account.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cluster-running.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"cluster-running.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.test.ts"}

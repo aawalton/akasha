@@ -5,7 +5,7 @@
 {"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/git-transport/janitor/git-transport-janitor.manifest.code.ts"}
 {"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/git-transport/modules/bare-repo-init/bare-repo-init.module.code.ts"}
 {"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts"}
-{"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"}
+{"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"}
 {"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/storage/backup/retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.code.ts"}
 {"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"product/archive-of-worlds/web/manifests/archive-of-worlds-web-manifests.manifest.code.ts"}
 {"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"product/audhdalan/web/manifests/audhdalan-web-manifests.manifest.code.ts"}

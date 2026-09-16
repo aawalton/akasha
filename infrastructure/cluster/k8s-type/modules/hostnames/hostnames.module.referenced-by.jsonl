@@ -10,7 +10,7 @@
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts"}
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/inference/generation/upscale/bench-synth/upscale-bench-synth.manifest.code.ts"}
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/serving-job/upscale-serving-job.module.code.ts"}
-{"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"}
+{"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"}
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/loki-service/modules/loki-manifests/loki-manifests.module.code.ts"}
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/network/auth-proxy/manifests/auth-proxy-manifests.manifest.code.ts"}
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/network/cloudflared/cloudflared.manifest.code.ts"}

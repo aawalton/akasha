@@ -1,5 +1,3 @@
-{"propertySlug":"import","fileName":"deploy-job.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts"}
-{"propertySlug":"import","fileName":"deploy-job.module.code.ts","path":"command/pages/deploy/deploy.command.test.ts"}
 {"propertySlug":"import","fileName":"deploy-job.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"}
 {"propertySlug":"import","fileName":"deploy-job.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.test.ts"}
 {"propertySlug":"import","fileName":"deploy-job.module.code.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.test.ts"}

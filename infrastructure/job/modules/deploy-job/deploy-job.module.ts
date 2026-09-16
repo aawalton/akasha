@@ -19,39 +19,7 @@ export const deployJob = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A job takes the repository from the git service inside the cluster.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The token a job reads the repository with is handed in from a secret.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The key a job decrypts a secret with is handed in from a secret.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No token is written into the job the cluster is handed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A job fetches the commit it is made at rather than the whole history.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "A job builds no index, git carrying every index a page is read through.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A job runs in the image a pipeline's own steps run in.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A job runs on a node of the class that carries this work.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A job that failed is not run again by the cluster.",
+      statement: "A deploy's job is composed the way every job this system runs is composed.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -59,15 +27,12 @@ export const deployJob = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A job bounds the deploy it carries, and nothing inside that deploy does.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The memory a landing starts on is read from the pod rather than the workstation.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The command the job runs is asked of the index rather than spelled.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A job fetches the commit its subject was last deployed at beside the commit it is made at.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -77,36 +42,9 @@ export const deployJob = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the workstation's checkout.",
     },
-    { decisionKind: "decision-kind/departure", statement: "A job runs under no syscall filter." },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The overlay a job's test gate mounts is held on a volume of the job's own.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A job states that the run it carries is the one in the cluster.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A job fetches the commit its subject was last deployed at beside the commit it is made at.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A job whose subject was never deployed fetches one commit.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A last deployed commit origin no longer carries leaves the rest of the job running.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A job holds every privilege the node gives a container.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A job makes control groups of its own under the one it runs in.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here says what a pod a job starts is given.",
     },
   ],
 } as const satisfies Module

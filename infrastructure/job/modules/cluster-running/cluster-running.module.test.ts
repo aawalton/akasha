@@ -3,9 +3,13 @@ import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/s
 import {
   applyArgv,
   carriedAt,
+  checkedOut,
   endedBy,
   fateOf,
+  IN_CLUSTER,
+  inCluster,
   jobRan,
+  jobYamlFor,
   logsArgv,
   waitArgv,
 } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
@@ -23,8 +27,83 @@ const NAME = "held-job-0123456789ab"
 
 const YAML = "kind: Job\n"
 
+const WAS = "89abcdef0123456789abcdef0123456789abcdef"
+
+const SCRIPT = "echo held"
+
+function scriptOf(commit: string, was: string | null): string {
+  return checkedOut(commit, was).join("\n")
+}
+
 test("a job is put up by reading the manifest off standard input", () => {
   expect(applyArgv()).toEqual(["apply", "-f", "-"])
+})
+
+test("a job takes the repository from the git service inside the cluster", () => {
+  expect(scriptOf(COMMIT, null)).toContain("git-transport.git.svc.cluster.local:3000")
+})
+
+test("a job fetches the commit it is made at rather than the whole history", () => {
+  expect(scriptOf(COMMIT, null)).toContain(`--depth 1 origin ${COMMIT}`)
+  expect(scriptOf(COMMIT, null)).toContain("git checkout -q FETCH_HEAD")
+})
+
+test("a job handed no earlier commit fetches one commit", () => {
+  expect(scriptOf(COMMIT, null).split("git fetch").length - 1).toBe(1)
+  expect(scriptOf(COMMIT, COMMIT).split("git fetch").length - 1).toBe(1)
+})
+
+test("a job fetches an earlier commit it is handed beside the commit it is made at", () => {
+  const said = scriptOf(COMMIT, WAS)
+  expect(said).toContain(`--depth 1 origin ${WAS}`)
+  expect(said.indexOf(WAS)).toBeLessThan(said.indexOf(`origin ${COMMIT}`))
+})
+
+test("an earlier commit origin no longer carries leaves the rest of the job running", () => {
+  expect(scriptOf(COMMIT, WAS)).toContain(`origin ${WAS} || true`)
+})
+
+test("a job builds no index, git carrying every index a page is read through", () => {
+  expect(scriptOf(COMMIT, null)).not.toContain("index-building")
+  expect(scriptOf(COMMIT, null)).not.toContain("index refresh")
+})
+
+test("a job runs the script it is handed", () => {
+  expect(jobYamlFor(NAME, SCRIPT)).toContain(SCRIPT)
+  expect(jobYamlFor(NAME, SCRIPT)).toContain(NAME)
+})
+
+test("a job that failed is not run again by the cluster", () => {
+  expect(jobYamlFor(NAME, SCRIPT)).toContain("backoffLimit: 0")
+})
+
+test("a job bounds what that job carries", () => {
+  expect(jobYamlFor(NAME, SCRIPT)).toContain("activeDeadlineSeconds")
+})
+
+test("the key a job decrypts a secret with is handed in from a secret", () => {
+  expect(jobYamlFor(NAME, SCRIPT)).toContain("SOPS_AGE_KEY")
+  expect(jobYamlFor(NAME, SCRIPT)).not.toContain("AGE-SECRET-KEY")
+})
+
+test("the memory a landing starts on is read from the pod", () => {
+  expect(jobYamlFor(NAME, SCRIPT)).toContain("LANDING_MIN_FREE_MEMORY_GB")
+})
+
+test("a job states that the run it carries is the one in the cluster", () => {
+  expect(jobYamlFor(NAME, SCRIPT)).toContain(IN_CLUSTER)
+})
+
+test("a job holds every privilege the node gives a container", () => {
+  expect(jobYamlFor(NAME, SCRIPT)).toContain("privileged: true")
+})
+
+test("a run reads from its own environment whether it is the run in the cluster", () => {
+  delete process.env[IN_CLUSTER]
+  expect(inCluster()).toBe(false)
+  process.env[IN_CLUSTER] = "1"
+  expect(inCluster()).toBe(true)
+  delete process.env[IN_CLUSTER]
 })
 
 test("the wait names the job, its namespace and how long it is waited on", () => {

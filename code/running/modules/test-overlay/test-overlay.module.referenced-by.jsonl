@@ -4,5 +4,5 @@
 {"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"code/running/modules/code-format/code-format.module.code.ts"}
 {"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts"}
 {"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"code/running/modules/test-overlay/test-overlay.module.test.ts"}
-{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"}
+{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"}
 {"propertySlug":"parts","path":"code/running/code-running.domain.ts","id":"01a09b28-b8af-7f7c-804c-05aff06380bf"}

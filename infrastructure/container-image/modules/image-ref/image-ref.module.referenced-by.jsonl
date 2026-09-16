@@ -4,6 +4,6 @@
 {"propertySlug":"import","fileName":"image-ref.module.code.ts","path":"infrastructure/eso-rig/manifests/eso-rig-manifests.manifest.code.ts"}
 {"propertySlug":"import","fileName":"image-ref.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/serving-job/upscale-serving-job.module.code.ts"}
 {"propertySlug":"import","fileName":"image-ref.module.code.ts","path":"infrastructure/inference/voice-inference/voice-infer/voice-infer.manifest.code.ts"}
-{"propertySlug":"import","fileName":"image-ref.module.code.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"}
+{"propertySlug":"import","fileName":"image-ref.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"}
 {"propertySlug":"import","fileName":"image-ref.module.code.ts","path":"infrastructure/network/auth-proxy/manifests/auth-proxy-manifests.manifest.code.ts"}
 {"propertySlug":"parts","path":"infrastructure/container-image/container-image.domain.ts","id":"01a0675b-16dc-759d-9b19-cf1118f36276"}

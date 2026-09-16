@@ -17,7 +17,7 @@
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/inference/generation/upscale/bench-synth/upscale-bench-synth.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/inference/voice-inference/voice-infer/voice-infer.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/job/deploy-account/deploy-account.manifest.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"}
+{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/job/pod-janitor/pod-janitor.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/loki-service/modules/loki-manifests/loki-manifests.module.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/loki-service/modules/promtail-manifests/promtail-manifests.module.code.ts"}

@@ -19,7 +19,7 @@ import {
 import { committed, given } from "akasha/command/pages/deploy/deploy.command.test-fixtures.ts"
 import { commitAt } from "akasha/command/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
 import { DEPLOYED_COMMIT } from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
-import { IN_CLUSTER } from "akasha/infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"
+import { IN_CLUSTER } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
 import { seededWorld } from "akasha/infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import {
   ASK_AT,

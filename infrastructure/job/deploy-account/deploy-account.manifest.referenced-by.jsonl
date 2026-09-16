@@ -1,4 +1,4 @@
 {"propertySlug":"import","fileName":"deploy-account.manifest.ts","path":"infrastructure/job/deploy-account/deploy-account.manifest.code.ts"}
-{"propertySlug":"import","fileName":"deploy-account.manifest.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"}
+{"propertySlug":"import","fileName":"deploy-account.manifest.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"}
 {"propertySlug":"parts","path":"infrastructure/job/job.domain.ts","id":"01a0675b-16eb-7759-adf7-dac753ca5b98"}
 {"propertySlug":"service-manifest","path":"infrastructure/service/cluster-foundation/pages/cluster-foundations.cluster-foundation.ts","id":"01a0a5f0-7889-7744-b2cf-cb0590ba51f9"}

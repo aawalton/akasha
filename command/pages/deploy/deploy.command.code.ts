@@ -66,8 +66,10 @@ import {
 import { installedOnSimulator } from "akasha/command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"
 import { pinnedTree } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import { putUpWebApp } from "akasha/command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"
-import type { Ended } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
-import { IN_CLUSTER } from "akasha/infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"
+import {
+  type Ended,
+  inCluster,
+} from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
 import { ranInCluster } from "akasha/infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"
 import { waitedForRoom } from "akasha/infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"
 import {
@@ -203,8 +205,7 @@ const deployedInCluster: Dispatching = (root, subject, commit) =>
   ranInCluster(root, root, subject, commit)
 
 function sentToCluster(kind: string): boolean {
-  if (!RUN_IN_CLUSTER.has(kind)) return false
-  return (process.env[IN_CLUSTER] ?? "") === ""
+  return RUN_IN_CLUSTER.has(kind) && !inCluster()
 }
 
 async function deployInCluster(
