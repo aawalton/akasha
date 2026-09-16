@@ -25,8 +25,16 @@ afterAll(scratch.sweep)
 
 const AGENT = "01a0596c-0000-7000-8000-000000000006"
 
-test("a seat warrants the domain the one it states is a part of", () => {
+const PROPERTY = `attributes: ["graph-attribute/property"]`
+
+function rootFor(): string {
   const root = scratch.rootFor("akasha-domain-ancestors-")
+  typedListed(root, "graph-edge", "relation", PROPERTY)
+  return root
+}
+
+test("a seat warrants the domain the one it states is a part of", () => {
+  const root = rootFor()
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   namesPart(root, top, mid)
@@ -35,7 +43,7 @@ test("a seat warrants the domain the one it states is a part of", () => {
 })
 
 test("a seat stating another page type walks from the page filed under it", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   const top = domainListed(root, "akasha-system")
   const mid = typedListed(root, "workspace-package", "checks-system")
   namesPart(root, top, mid)
@@ -44,7 +52,7 @@ test("a seat stating another page type walks from the page filed under it", () =
 })
 
 test("the chain is walked to the top rather than one step", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   const low = domainListed(root, "warranting")
@@ -55,7 +63,7 @@ test("the chain is walked to the top rather than one step", () => {
 })
 
 test("the domain the seat states is no ancestor of itself", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   namesPart(root, top, mid)
@@ -64,14 +72,14 @@ test("the domain the seat states is no ancestor of itself", () => {
 })
 
 test("a seat stating a domain with nothing above it warrants none", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   domainListed(root, "akasha-system")
   const at = seatListed(root, "one", `assignmentSlug: "domain/akasha-system"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([])
 })
 
 test("a chain that turns back on itself is walked once", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   const one = domainListed(root, "one")
   const two = domainListed(root, "two")
   namesPart(root, one, two)
@@ -81,7 +89,7 @@ test("a chain that turns back on itself is walked once", () => {
 })
 
 test("a seat stating no domain warrants none", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   namesPart(root, top, mid)
@@ -90,7 +98,7 @@ test("a seat stating no domain warrants none", () => {
 })
 
 test("only a seat warrants the domains above what it states", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   namesPart(root, top, mid)
@@ -98,7 +106,7 @@ test("only a seat warrants the domains above what it states", () => {
 })
 
 test("a seat stating an initiative walks from the domain that initiative names", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "domain-system")
   namesPart(root, top, mid)
@@ -108,7 +116,7 @@ test("a seat stating an initiative walks from the domain that initiative names",
 })
 
 test("an initiative naming its domain under another page type walks from that page", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   const top = domainListed(root, "akasha-system")
   const mid = typedListed(root, "workspace-package", "domain-system")
   namesPart(root, top, mid)
@@ -118,7 +126,7 @@ test("an initiative naming its domain under another page type walks from that pa
 })
 
 test("the domain an initiative names is no ancestor of itself", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "domain-system")
   namesPart(root, top, mid)
@@ -128,7 +136,7 @@ test("the domain an initiative names is no ancestor of itself", () => {
 })
 
 test("an initiative naming no domain warrants none", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "domain-system")
   namesPart(root, top, mid)
@@ -138,7 +146,7 @@ test("an initiative naming no domain warrants none", () => {
 })
 
 test("an initiative whose page cannot be found warrants none", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "domain-system")
   namesPart(root, top, mid)
@@ -147,7 +155,7 @@ test("an initiative whose page cannot be found warrants none", () => {
 })
 
 test("a warrant carries the body above, and why it is owed", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   namesPart(root, top, mid)
@@ -161,7 +169,7 @@ test("a warrant carries the body above, and why it is owed", () => {
 })
 
 test("a domain above whose body is gone warrants nothing of itself", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   namesPart(root, top, mid)
@@ -171,7 +179,7 @@ test("a domain above whose body is gone warrants nothing of itself", () => {
 })
 
 test("a domain above not read is refused, and the refusal says why it is owed", () => {
-  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const root = rootFor()
   warrantsSeeded(root, ["domain-ancestors"])
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")

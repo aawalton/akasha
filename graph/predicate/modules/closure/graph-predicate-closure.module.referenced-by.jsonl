@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.test.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"command/pages/measure/closure/measure-closure.command.code.ts"}
+{"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"domain/context/warrant/domain-ancestors/domain-ancestors.context-warrant.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts"}
 {"propertySlug":"parts","path":"graph/predicate/graph-predicate.page-type.ts","id":"01a0a5ba-8fb1-7bbb-ae4e-1c26277c3a4e"}

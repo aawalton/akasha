@@ -40,5 +40,9 @@ export const domainAncestors = {
       decisionKind: "decision-kind/departure",
       statement: "The page a seat answers for is found under the page type its assignment states.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chain above is answered by a graph predicate rather than walked here.",
+    },
   ],
 } as const satisfies ContextWarrant

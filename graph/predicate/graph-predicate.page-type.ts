@@ -11,6 +11,7 @@ export const graphPredicate = {
     "graph-predicate/code-imports",
     "graph-predicate/importers",
     "graph-predicate/imports",
+    "graph-predicate/parents",
     "module/graph-predicate-closure",
     "record-property/follows",
     "relation-property/edges",

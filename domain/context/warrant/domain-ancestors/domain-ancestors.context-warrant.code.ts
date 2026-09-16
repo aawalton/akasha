@@ -6,14 +6,16 @@ import {
   blobAt,
   type Warrant,
 } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
+import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { parents } from "akasha/graph/predicate/pages/parents/parents.graph-predicate.ts"
+import { answeringOver } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {
   type Listed,
   listedAt,
-  listedById,
   listedFor,
+  readingIn,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressedIn } from "akasha/page/modules/address/page-address.module.code.ts"
-import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -27,8 +29,6 @@ const INITIATIVE_TYPE = "initiative"
 const KEY = "assignmentSlug"
 
 const DOMAIN_KEY = "domain"
-
-const PARTS = "parts"
 
 function domainOf(root: string, path: string): Listed | undefined {
   const value = valueAt(path, root)
@@ -51,24 +51,13 @@ function answeredFor(root: string, path: string): Listed | undefined {
 export function domainAncestors(root: string, path: string): readonly Warrant[] {
   const listed = answeredFor(root, path)
   if (listed === undefined) return []
+  const index = answeringOver(readingIn(root), (at) => valueAt(at, root))
   const found: Warrant[] = []
-  const walked = new Set<string>([listed.id])
-  let edge: readonly string[] = [listed.id]
-  while (edge.length > 0) {
-    const next: string[] = []
-    for (const id of edge) {
-      for (const above of idsNaming(root, id, PARTS)) {
-        if (walked.has(above)) continue
-        walked.add(above)
-        next.push(above)
-        const said = listedById(root, above)
-        if (said === null) continue
-        const oid = blobAt(root, said.path)
-        if (oid === null) continue
-        found.push({ path: said.path, oid, owed: ABOVE })
-      }
-    }
-    edge = next
+  for (const above of closureOf(parents, [listed.path], { index })) {
+    if (above === listed.path) continue
+    const oid = blobAt(root, above)
+    if (oid === null) continue
+    found.push({ path: above, oid, owed: ABOVE })
   }
-  return found.sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
+  return found
 }
