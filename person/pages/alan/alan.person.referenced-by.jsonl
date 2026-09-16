@@ -2,6 +2,7 @@
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"person","path":"agent/seat/pages/alan/alan.seat.ts","id":"01a0a4f7-4ec3-7000-b109-cdbf7caf8a0c"}
 {"propertySlug":"person","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a0aa55-7450-7000-9b7e-afc34f0f859f"}
+{"propertySlug":"person","path":"agent/seat/pages/aura/aura.seat.ts","id":"01a0a694-170d-7000-bd6a-fd722d217073"}
 {"propertySlug":"person","path":"agent/seat/pages/dalla/dalla.seat.ts","id":"01a0a1f6-c315-7000-94f2-be32e1c57118"}
 {"propertySlug":"person","path":"agent/seat/pages/nimue/nimue.seat.ts","id":"01a0a5d4-147f-7000-a937-2def6efea373"}
 {"propertySlug":"person","path":"agent/seat/pages/olwen/olwen.seat.ts","id":"01a09c5a-5d65-7000-a802-ca13fcc51fb2"}
