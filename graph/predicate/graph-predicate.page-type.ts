@@ -11,6 +11,7 @@ export const graphPredicate = {
     "graph-predicate/children",
     "graph-predicate/code-imports",
     "graph-predicate/extended",
+    "graph-predicate/extenders",
     "graph-predicate/importers",
     "graph-predicate/imports",
     "graph-predicate/parents",

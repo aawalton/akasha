@@ -78,7 +78,7 @@ export const pageTree = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Which page types are kinds of property is answered by the graph's `extended` closure.",
+        "Which page types are kinds of property is answered by one closure down from `page-property`.",
     },
     {
       decisionKind: "decision-kind/departure",

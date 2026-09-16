@@ -15,7 +15,7 @@ import { pathOf } from "akasha/command/modules/walking/command-walking.module.co
 import { page } from "akasha/command/pages/page/page.namespace.ts"
 import { pageTree as treePage } from "akasha/command/pages/page/tree/page-tree.command.ts"
 import { takenIn } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
-import { extended } from "akasha/graph/predicate/pages/extended/extended.graph-predicate.ts"
+import { extenders } from "akasha/graph/predicate/pages/extenders/extenders.graph-predicate.ts"
 import { answeringOver } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {
   readingIn,
@@ -106,22 +106,18 @@ function declarationsIn(value: Value): readonly Declaration[] {
   return found
 }
 
-function reachingProperty(reading: Reading): (path: string) => boolean {
-  const index = answeringOver(reading, (path) => valueByPath(reading, path))
-  const root = index.listedAt(PAGE_TYPE, PROPERTY_ROOT)[0]
-  if (root === undefined) return () => false
-  const asked = { index, bodyAt: (path: string) => reading.read(path) }
-  return (path) => takenIn(extended, [path], asked).nodes.includes(root.path)
-}
-
 export function propertyKindsIn(given: string | Reading): ReadonlySet<string> {
   const reading = readingIn(given)
-  const reaches = reachingProperty(reading)
+  const index = answeringOver(reading, (path) => valueByPath(reading, path))
+  const root = index.listedAt(PAGE_TYPE, PROPERTY_ROOT)[0]
   const found = new Set<string>()
-  for (const one of valuesOfType(reading, PAGE_TYPE)) {
-    const slug = textAt(one.value, "slug")
+  if (root === undefined) return found
+  const asked = { index, bodyAt: (path: string) => reading.read(path) }
+  for (const one of takenIn(extenders, [root.path], asked).nodes) {
+    const value = valueByPath(reading, one)
+    const slug = value === null ? null : textAt(value, "slug")
     if (slug === null || slug === PROPERTY_ROOT) continue
-    if (reaches(one.path)) found.add(slug)
+    found.add(slug)
   }
   return found
 }
