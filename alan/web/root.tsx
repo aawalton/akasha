@@ -34,7 +34,6 @@ import "akasha/alan/web/look/alan-web-look.stylesheet.styles.css"
 import "akasha/alan/web/modules/declared-effects/declared-effects.module.code.ts"
 import { NavCommands } from "akasha/alan/web/modules/nav-command/nav-command.module.code.tsx"
 import { StatusBarSync } from "akasha/alan/web/modules/status-bar-sync/status-bar-sync.module.code.tsx"
-import { PagesUICapabilityHosts } from "akasha/page/ui/modules/capability-hosts/capability-hosts.module.code.tsx"
 
 configurePagesPersistence(isNativeShell() ? createNativeFsPagesPersistence() : null)
 
@@ -135,7 +134,6 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <SurfaceProvider level={0} background={false}>
           <ErrorCaptureInstaller app="alanwalton" />
           {children}
-          <PagesUICapabilityHosts />
           <StatusBarSync />
           <CommandPalette />
           <ShortcutSheet />

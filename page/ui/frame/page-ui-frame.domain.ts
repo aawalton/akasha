@@ -11,7 +11,6 @@ export const pageUiFrame = {
     "module/frame-safe-area-masks",
     "module/frame-sticky-footer",
     "module/frame-sticky-header",
-    "module/frame-view-properties-menu",
     "module/use-follow-anchor",
     "module/viewport-thresholds",
   ],

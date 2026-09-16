@@ -72,7 +72,6 @@ export const alanWeb = {
     "module/page-detail-with-read-mark",
     "module/pages-persistence-core",
     "module/pages-persistence-fs",
-    "module/pages-unheld",
     "module/picture-answering",
     "module/pull-to-refresh",
     "module/pull-to-refresh-decider",

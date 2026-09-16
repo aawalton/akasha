@@ -834,7 +834,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/page-detail-with-read-mark/page-detail-with-read-mark.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/pages-persistence-core/pages-persistence-core.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/pages-unheld/pages-unheld.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/pull-to-refresh-decider/pull-to-refresh-decider.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/pull-to-refresh/pull-to-refresh.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/push-registration-sync/push-registration-sync.module.ts"}
@@ -2382,7 +2381,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/frame/modules/frame-safe-area-masks/frame-safe-area-masks.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/frame/modules/frame-sticky-footer/frame-sticky-footer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/frame/modules/frame-view-properties-menu/frame-view-properties-menu.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/frame/modules/use-follow-anchor/use-follow-anchor.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/frame/modules/viewport-thresholds/viewport-thresholds.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.ts"}
@@ -2415,7 +2413,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/media/modules/use-shell-media-src/use-shell-media-src.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/media/modules/use-webkit-read-aloud-ensure/use-webkit-read-aloud-ensure.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/action-verb-registry/action-verb-registry.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/capability-hosts/capability-hosts.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/navigation-context/navigation-context.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/page-card-perf/page-card-perf.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/reorder-verb-registry/reorder-verb-registry.module.ts"}

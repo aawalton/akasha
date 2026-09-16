@@ -17,7 +17,6 @@ export const pageUi = {
     "domain/page-ui-media",
     "domain/page-ui-supabase",
     "module/action-verb-registry",
-    "module/capability-hosts",
     "module/navigation-context",
     "module/page-card-perf",
     "module/reorder-verb-registry",
