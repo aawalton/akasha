@@ -67,7 +67,8 @@ export const graph = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "No file the code editor's extension host loads reaches the graph.",
+      statement:
+        "No code running in a browser or in the code editor's extension host reaches the graph.",
     },
   ],
   directives: [
