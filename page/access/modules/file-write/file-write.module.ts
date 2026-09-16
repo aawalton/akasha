@@ -14,7 +14,8 @@ export const fileWrite = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page is addressed by its slug rather than by a path a caller works out.",
+      statement:
+        "A page already there is addressed by its slug rather than by a path a caller works out.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -51,6 +52,10 @@ export const fileWrite = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A create states its slug among its values or is handed a slug as a name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A create may name the path its page is written at.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -230,6 +230,22 @@ describe("a create is addressed by its slug", () => {
     )
   })
 
+  test("it carries the path the caller names", async () => {
+    const { deps, taken } = watching([{ slug: "one" }])
+    await createFilePage(
+      { pageTypeSlug: "thing", properties: { slug: "one" }, path: "akasha/held/one.thing.ts" },
+      "createPage",
+      deps
+    )
+    expect(taken.writes[0]?.pages?.[0]?.path).toBe("akasha/held/one.thing.ts")
+  })
+
+  test("a create naming none names no path at all", async () => {
+    const { deps, taken } = watching([{ slug: "one" }])
+    await createFilePage({ pageTypeSlug: "thing", properties: { slug: "one" } }, "createPage", deps)
+    expect(taken.writes[0]?.pages?.[0]).not.toHaveProperty("path")
+  })
+
   test("no id is minted here, the landing minting it", async () => {
     const { deps, taken } = watching([{ slug: "one" }])
     await createFilePage({ pageTypeSlug: "thing", properties: { slug: "one" } }, "createPage", deps)

@@ -94,6 +94,7 @@ const CREATE_PAGE_ARGS = z.object({
   properties: PAGE_PROPERTIES,
   select: PAGE_SELECT,
   id: z.string().optional(),
+  path: z.string().optional(),
 })
 
 const CREATE_PAGE_IF_ABSENT_ARGS = z.object({

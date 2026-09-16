@@ -37,7 +37,7 @@ const SLUG = "slug"
 const ID = "id"
 
 const NO_WRITE_PATH =
-  "`@akasha/page-service` writes a page by its page type, its slug and its values, and places the page from the index rather than from a name a caller works out."
+  "`@akasha/page-service` writes a page by its page type, its slug and its values, and places the page from the index or from the path the write names."
 
 export type FileWriteDeps = {
   readonly ask: (query: Query) => Promise<Asked>
@@ -213,6 +213,7 @@ export type CreateFilePageArgs = {
   readonly select?: PageSelect
   readonly id?: string
   readonly name?: string
+  readonly path?: string
   readonly writer?: string
 }
 
@@ -235,6 +236,7 @@ export async function createFilePage(
         slug,
         values,
         ...(args.bodies === undefined ? {} : { bodies: args.bodies }),
+        ...(args.path === undefined ? {} : { path: args.path }),
       },
     ],
     deps

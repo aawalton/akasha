@@ -23,6 +23,7 @@ export type CreatePageArgs<T extends Record<string, unknown> = Record<string, Js
   properties: PagePropertiesInput<T>
   select?: PageSelect
   id?: string
+  path?: string
 }
 
 export async function createPage<T extends Record<string, unknown> = Record<string, Json>>(
@@ -34,6 +35,7 @@ export async function createPage<T extends Record<string, unknown> = Record<stri
     properties: args.properties,
     select: args.select,
     id: args.id,
+    path: args.path,
   })
 }
 
