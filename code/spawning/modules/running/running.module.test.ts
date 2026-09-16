@@ -1,5 +1,13 @@
 import { expect, test } from "bun:test"
-import { existsSync, mkdirSync, readFileSync } from "node:fs"
+import {
+  chmodSync,
+  existsSync,
+  mkdirSync,
+  mkdtempSync,
+  readFileSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs"
 import { join } from "node:path"
 import {
   bytes,
@@ -119,6 +127,22 @@ test("a ceiling asks for the group a measure asks for", () => {
 
 test("a program no path names raises rather than being answered", () => {
   expect(() => bytes(["no-such-program-on-any-path"])).toThrow(/no-such-program/)
+})
+
+test("a program is looked for on the path the run itself will have", () => {
+  const at = mkdtempSync("/var/tmp/akasha-running-path-")
+  const shadowing = join(at, "id")
+  writeFileSync(shadowing, "#!/bin/sh\necho shadowed\n")
+  chmodSync(shadowing, 0o755)
+  try {
+    const done = ran(["id"], {
+      env: { ...process.env, PATH: `${at}:${String(process.env.PATH)}` },
+      metered: true,
+    })
+    expect(done.out).toBe("shadowed\n")
+  } finally {
+    rmSync(at, { recursive: true, force: true })
+  }
 })
 
 test("the run that made a group is named in the group's name", () => {

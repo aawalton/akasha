@@ -230,7 +230,11 @@ function joined(at: string, argv: readonly string[], found: string): readonly st
 function foundFor(argv: readonly string[], asked: Asked): string | null {
   const first = argv[0]
   if (first === undefined) return null
-  return Bun.which(first, asked.cwd === undefined ? {} : { cwd: asked.cwd })
+  const path = asked.env === undefined ? undefined : asked.env.PATH
+  return Bun.which(first, {
+    ...(asked.cwd === undefined ? {} : { cwd: asked.cwd }),
+    ...(path === undefined ? {} : { PATH: path }),
+  })
 }
 
 function spentAt(at: string): number | null {

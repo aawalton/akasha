@@ -242,6 +242,10 @@ export const running = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A program is looked for on the path the run itself will have.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A program found is run by the path that found it.",
     },
     {
