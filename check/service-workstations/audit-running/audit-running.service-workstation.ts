@@ -41,7 +41,8 @@ export const auditRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A check the cluster left unjudged is unmeasured rather than run here.",
+      statement:
+        "A check the cluster left unjudged keeps the verdict it had rather than losing it.",
     },
     {
       decisionKind: "decision-kind/departure",

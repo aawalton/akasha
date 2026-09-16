@@ -13,6 +13,7 @@ export const check = {
     "module/audit-job",
     "module/audit-listening",
     "module/audit-recording",
+    "module/audit-round",
     "module/audit-serving",
     "module/audit-verdict",
     "module/body-not-utf8",

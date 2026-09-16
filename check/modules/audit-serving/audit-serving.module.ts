@@ -65,18 +65,7 @@ export const auditServing = {
       decisionKind: "decision-kind/departure",
       statement: "Which checks a round runs is handed in rather than read off disk.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "How a round runs a check is handed in as well.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A round told to run no check here marks what is left as nothing measured.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The round after is what runs such a check, no verdict carrying it.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A round handed no check runs the checks its phase names.",
