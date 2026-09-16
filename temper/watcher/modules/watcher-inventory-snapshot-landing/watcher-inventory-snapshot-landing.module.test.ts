@@ -3,6 +3,7 @@ import type { InventoryDatabase } from "akasha/temper/items-core/modules/invento
 import {
   bagSizeRowsOf,
   craftingLevelRowsOf,
+  currencyRowsOf,
   landInventorySnapshot,
   locationRowsOf,
   placedFurnishingRowsOf,
@@ -52,6 +53,28 @@ const BAG_SIZES_PATH = snapshotRowsPath(SLUG, "bag-sizes")
 const CRAFTING_LEVELS_PATH = snapshotRowsPath(SLUG, "crafting-levels")
 
 const PLACED_FURNISHINGS_PATH = snapshotRowsPath(SLUG, "placed-furnishings")
+
+const CURRENCIES_PATH = snapshotRowsPath(SLUG, "currencies")
+
+const PURSE_SCANNED = 1789495668
+
+const PURSES: SnapshotValues = {
+  ...VALUES,
+  inventory: {
+    ...SCAN,
+    currencies: {
+      account: { transmuteCrystals: 1889, archivalFortunes: 322940 },
+      bank: { telvarStones: 425674, gold: 23138989 },
+      characters: {
+        "8796093022338107": {
+          displayName: "Erin Solstice",
+          lastScanned: PURSE_SCANNED,
+          balances: { gold: 1876306 },
+        },
+      },
+    },
+  },
+}
 
 const HOME = "House:Grand Psijic Villa"
 
@@ -167,6 +190,7 @@ test("a page states what the scan carries", () => {
     bagSizes: "jsonl",
     craftingLevels: "jsonl",
     placedFurnishings: "jsonl",
+    currencies: "jsonl",
     data: "json",
   })
 })
@@ -210,9 +234,43 @@ test("the page and the data file land together in one write", async () => {
     BAG_SIZES_PATH,
     CRAFTING_LEVELS_PATH,
     PLACED_FURNISHINGS_PATH,
+    CURRENCIES_PATH,
     DATA_PATH,
   ])
-  expect(JSON.parse(written[5]?.content ?? "null")).toEqual(SCAN)
+  expect(JSON.parse(written[6]?.content ?? "null")).toEqual(SCAN)
+})
+
+test("each purse becomes a row naming the currency's own page", () => {
+  expect(rowsIn(currencyRowsOf(PURSES, counting("p")))).toEqual([
+    {
+      id: "p1",
+      scope: "account",
+      currencyKey: "temper-inventory-currency/archival-fortunes",
+      amount: 322940,
+    },
+    {
+      id: "p2",
+      scope: "account",
+      currencyKey: "temper-inventory-currency/transmute-crystals",
+      amount: 1889,
+    },
+    { id: "p3", scope: "bank", currencyKey: "temper-inventory-currency/gold", amount: 23138989 },
+    {
+      id: "p4",
+      scope: "bank",
+      currencyKey: "temper-inventory-currency/tel-var-stones",
+      amount: 425674,
+    },
+    {
+      id: "p5",
+      scope: "character",
+      esoCharacterId: "8796093022338107",
+      currencyKey: "temper-inventory-currency/gold",
+      amount: 1876306,
+      lastScannedAt: new Date(PURSE_SCANNED * MS).toISOString(),
+    },
+  ])
+  expect(currencyRowsOf(VALUES, counting("p"))).toBe("")
 })
 
 test("each furnishing placed in a home becomes a row without its empty links", () => {

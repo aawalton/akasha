@@ -53,8 +53,24 @@ export const watcherInventorySnapshotLanding = {
       statement: "A link a scan left empty is left off the row rather than filed as empty.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A row is filed for every purse a scan read, account, bank and character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A currency's row names the currency's own page rather than the scan's word.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A currency page is named from the currency's name, lowered and hyphened.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A currency the scan holds that no page names has no row.",
+    },
+    {
       decisionKind: "decision-kind/gap",
-      statement: "The rows a scan's slots and currencies become are not filed yet.",
+      statement: "The rows a scan's slots become are not filed yet.",
     },
   ],
 } as const satisfies Module

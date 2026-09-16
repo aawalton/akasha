@@ -1,4 +1,8 @@
-import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import { currencies } from "akasha/temper/items-core/modules/inventory-currency-data/inventory-currency-data.module.code.ts"
+import type {
+  CurrencyBalances,
+  InventoryDatabase,
+} from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import type {
   Landed,
   LandingDeps,
@@ -36,6 +40,21 @@ const CRAFTING_LEVELS_KEY = "craftingLevels"
 const PLACED_FURNISHINGS_PROPERTY = "placed-furnishings"
 
 const PLACED_FURNISHINGS_KEY = "placedFurnishings"
+
+const CURRENCIES_PROPERTY = "currencies"
+
+const CURRENCY_PAGE_TYPE = "temper-inventory-currency"
+
+const ACCOUNT_SCOPES = ["account", "bank"] as const
+
+const CHARACTER_SCOPE = "character"
+
+const CURRENCY_ADDRESSES: ReadonlyMap<string, string> = new Map(
+  currencies.ids.map((id) => [
+    id,
+    `${CURRENCY_PAGE_TYPE}/${currencies.data[id].name.toLowerCase().split(" ").join("-")}`,
+  ])
+)
 
 const MS_PER_SECOND = 1000
 
@@ -132,10 +151,59 @@ export function snapshotPageKeys(values: SnapshotValues): readonly PageKey[] {
     [LOCATIONS_PROPERTY, "jsonl"],
     [BAG_SIZES_KEY, "jsonl"],
     [CRAFTING_LEVELS_KEY, "jsonl"],
-    [PLACED_FURNISHINGS_KEY, "jsonl"]
+    [PLACED_FURNISHINGS_KEY, "jsonl"],
+    [CURRENCIES_PROPERTY, "jsonl"]
   )
   keys.push([DATA_PROPERTY, "json"])
   return keys
+}
+
+function pursedIn(purse: CurrencyBalances): readonly (readonly [string, number])[] {
+  const held: (readonly [string, number])[] = []
+  for (const key of Object.keys(purse)) {
+    const address = CURRENCY_ADDRESSES.get(key)
+    const amount = purse[key]
+    if (address === undefined || amount === undefined) continue
+    held.push([address, amount])
+  }
+  return [...held].sort((one, two) => one[0].localeCompare(two[0]))
+}
+
+export function currencyRowsOf(values: SnapshotValues, minted: () => string): string {
+  const held = values.inventory.currencies
+  const lines: string[] = []
+  if (held === undefined) return jsonlBodyOf(lines)
+  for (const scope of ACCOUNT_SCOPES) {
+    const purse = held[scope]
+    if (purse === undefined) continue
+    for (const [currencyKey, amount] of pursedIn(purse)) {
+      lines.push(
+        jsonRowOf([
+          ["id", minted()],
+          ["scope", scope],
+          ["currencyKey", currencyKey],
+          ["amount", amount],
+        ])
+      )
+    }
+  }
+  for (const esoCharacterId of Object.keys(held.characters).sort()) {
+    const one = held.characters[esoCharacterId]
+    if (one === undefined) continue
+    for (const [currencyKey, amount] of pursedIn(one.balances)) {
+      lines.push(
+        jsonRowOf([
+          ["id", minted()],
+          ["scope", CHARACTER_SCOPE],
+          ["esoCharacterId", esoCharacterId],
+          ["currencyKey", currencyKey],
+          ["amount", amount],
+          ["lastScannedAt", instantOf(one.lastScanned)],
+        ])
+      )
+    }
+  }
+  return jsonlBodyOf(lines)
 }
 
 function saidOnly(value: string | undefined): string | undefined {
@@ -241,6 +309,10 @@ export async function landInventorySnapshot(
       {
         path: snapshotRowsPath(values.slug, PLACED_FURNISHINGS_PROPERTY),
         content: placedFurnishingRowsOf(values, minted),
+      },
+      {
+        path: snapshotRowsPath(values.slug, CURRENCIES_PROPERTY),
+        content: currencyRowsOf(values, minted),
       },
       { path: dataPath, content: JSON.stringify(values.inventory) },
     ]
