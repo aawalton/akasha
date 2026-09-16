@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"extract-target-ids.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"}
 {"propertySlug":"import","fileName":"extract-target-ids.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-delete-pages/use-optimistic-delete-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"extract-target-ids.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"}
-{"propertySlug":"import","fileName":"extract-target-ids.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-patch-property-definition/use-optimistic-patch-property-definition.module.code.ts"}
 {"propertySlug":"import","fileName":"extract-target-ids.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"}
 {"propertySlug":"import","fileName":"extract-target-ids.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-upsert-pages/use-optimistic-upsert-pages.module.code.ts"}
 {"propertySlug":"parts","path":"page/ui/supabase/mutation/page-ui-supabase-mutation.domain.ts","id":"01a071d2-6ff8-7914-854c-2f159045dd16"}

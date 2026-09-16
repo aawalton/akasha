@@ -33,7 +33,6 @@ export const pageAccess = {
     "module/page-type-config",
     "module/parse-page-seq",
     "module/patch",
-    "module/property-definition",
     "module/raw-page-row",
     "module/routing-core",
     "module/sentinels",

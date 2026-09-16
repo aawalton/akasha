@@ -1979,7 +1979,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/page-type/page-type.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/parse-page-seq/parse-page-seq.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/patch/patch.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/property-definition/property-definition.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/raw-page-row/raw-page-row.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/routing-core/routing-core.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/sentinels/sentinels.module.ts"}
@@ -2511,7 +2510,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-delete-pages/use-optimistic-delete-pages.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-patch-property-definition/use-optimistic-patch-property-definition.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-upsert-pages/use-optimistic-upsert-pages.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/url/modules/cover-url/cover-url.module.ts"}

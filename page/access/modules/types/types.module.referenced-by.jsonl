@@ -12,7 +12,6 @@
 {"propertySlug":"import","fileName":"types.module.code.ts","path":"page/access/modules/iterate/iterate.module.code.ts"}
 {"propertySlug":"import","fileName":"types.module.code.ts","path":"page/access/modules/ordered/ordered.module.code.ts"}
 {"propertySlug":"import","fileName":"types.module.code.ts","path":"page/access/modules/patch/patch.module.code.ts"}
-{"propertySlug":"import","fileName":"types.module.code.ts","path":"page/access/modules/property-definition/property-definition.module.code.ts"}
 {"propertySlug":"import","fileName":"types.module.code.ts","path":"page/access/modules/upsert/upsert.module.code.ts"}
 {"propertySlug":"import","fileName":"types.module.code.ts","path":"page/ui-store/optimistic/modules/plan/plan.module.code.ts"}
 {"propertySlug":"import","fileName":"types.module.code.ts","path":"page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts"}

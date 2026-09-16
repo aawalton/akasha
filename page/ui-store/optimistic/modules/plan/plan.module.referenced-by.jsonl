@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"plan.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"}
 {"propertySlug":"import","fileName":"plan.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-delete-pages/use-optimistic-delete-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"plan.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"}
-{"propertySlug":"import","fileName":"plan.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-patch-property-definition/use-optimistic-patch-property-definition.module.code.ts"}
 {"propertySlug":"import","fileName":"plan.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"}
 {"propertySlug":"import","fileName":"plan.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-upsert-pages/use-optimistic-upsert-pages.module.code.ts"}
 {"propertySlug":"parts","path":"page/ui-store/optimistic/page-ui-store-optimistic.domain.ts","id":"01a071cb-e8e9-764a-a670-4e9f2cc593fa"}

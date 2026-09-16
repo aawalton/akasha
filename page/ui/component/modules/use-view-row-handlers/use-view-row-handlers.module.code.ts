@@ -1,7 +1,6 @@
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import { createPage } from "akasha/page/access/modules/create/create.module.code.ts"
 import { deletePage } from "akasha/page/access/modules/deleting/deleting.module.code.ts"
-import { patchPropertyDefinitionById } from "akasha/page/access/modules/property-definition/property-definition.module.code.ts"
 import type { IconName } from "akasha/page/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
 import type {
   PageDataJSON,
@@ -13,7 +12,6 @@ import { useHostCreateSelectOption } from "akasha/page/ui/modules/option-create-
 import type { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticDeletePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
-import { useOptimisticPatchPropertyDefinition } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-property-definition/use-optimistic-patch-property-definition.module.code.ts"
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback } from "react"
@@ -37,9 +35,6 @@ export function useViewRowHandlers({
 }: UseViewRowHandlersArgs) {
   const runCreate = useOptimisticCreatePage((args) => createPage(args))
   const runDelete = useOptimisticDeletePage((args) => deletePage(args))
-  const patchDefinition = useOptimisticPatchPropertyDefinition((args) =>
-    patchPropertyDefinitionById(args)
-  )
   const hostCreateOption = useHostCreateSelectOption()
   const router = usePagesUIRouter()
 
@@ -92,10 +87,9 @@ export function useViewRowHandlers({
 
   const handleCreateOption = useCallback(
     (pageId: string, pageData: PageDataJSON, propertyId: string, label: string) => {
-      if (rowPageTypeSlug == null) return
+      if (rowPageTypeSlug == null || hostCreateOption === null) return
       return createOptionOnDefinition({
-        patch: patchDefinition,
-        createOption: hostCreateOption ?? undefined,
+        createOption: hostCreateOption,
         properties,
         rowPageTypeSlug,
         setProperty,
@@ -105,7 +99,7 @@ export function useViewRowHandlers({
         label,
       })
     },
-    [patchDefinition, hostCreateOption, properties, setProperty, rowPageTypeSlug]
+    [hostCreateOption, properties, setProperty, rowPageTypeSlug]
   )
 
   return {

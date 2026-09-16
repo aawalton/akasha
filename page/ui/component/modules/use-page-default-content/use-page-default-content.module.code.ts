@@ -1,6 +1,5 @@
 "use client"
 
-import { patchPropertyDefinitionById } from "akasha/page/access/modules/property-definition/property-definition.module.code.ts"
 import type { IconName } from "akasha/page/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { computeAggregatesForPage } from "akasha/page/core/property-type/modules/aggregate/aggregate.module.code.ts"
@@ -27,7 +26,6 @@ import {
 import { useOptionListLookup } from "akasha/page/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
-import { useOptimisticPatchPropertyDefinition } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-property-definition/use-optimistic-patch-property-definition.module.code.ts"
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import {
   type PageTypeSlug,
@@ -43,9 +41,6 @@ export function usePageDefaultContent({
   id: string
 }) {
   const router = usePagesUIRouter()
-  const patchDefinition = useOptimisticPatchPropertyDefinition((args) =>
-    patchPropertyDefinitionById(args)
-  )
   const hostCreateOption = useHostCreateSelectOption()
   const { page, isLoading } = usePage({ pageTypeSlug, id })
   const { pages: pageTypes } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
@@ -167,10 +162,9 @@ export function usePageDefaultContent({
 
   const handleCreateOption = useCallback(
     (propertyId: string, label: string) => {
-      if (targetSlug == null) return
+      if (targetSlug == null || hostCreateOption === null) return
       return createOptionOnDefinition({
-        patch: patchDefinition,
-        createOption: hostCreateOption ?? undefined,
+        createOption: hostCreateOption,
         properties: allDefinitions,
         rowPageTypeSlug: targetSlug,
         setProperty,
@@ -180,7 +174,7 @@ export function usePageDefaultContent({
         label,
       })
     },
-    [allDefinitions, patchDefinition, hostCreateOption, setProperty, id, data, targetSlug]
+    [allDefinitions, hostCreateOption, setProperty, id, data, targetSlug]
   )
 
   const handlePageNavigate = useCallback(

@@ -15,7 +15,6 @@ export const pageUiSupabaseMutation = {
     "module/use-optimistic-delete-page",
     "module/use-optimistic-delete-pages",
     "module/use-optimistic-patch-page",
-    "module/use-optimistic-patch-property-definition",
     "module/use-optimistic-upsert-page",
     "module/use-optimistic-upsert-pages",
   ],

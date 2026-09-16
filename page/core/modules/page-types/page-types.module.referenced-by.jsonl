@@ -24,7 +24,6 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/access/modules/over-server/over-server.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/access/modules/page-type/page-type.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/access/modules/patch/patch.module.code.ts"}
-{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/access/modules/property-definition/property-definition.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/access/modules/routing-core/routing-core.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/access/modules/upsert/upsert.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/core/filter/modules/filter-to-condition/filter-to-condition.module.code.ts"}
@@ -36,7 +35,6 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/cache/modules/use-query/use-query.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/cache/modules/use-view-query/use-view-query.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/component/modules/base-conditions/base-conditions.module.code.ts"}
-{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/component/modules/create-option/create-option.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/component/modules/use-descendant-pages/use-descendant-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/component/modules/use-effective-listing/use-effective-listing.module.code.ts"}
@@ -58,7 +56,6 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-delete-pages/use-optimistic-delete-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"}
-{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-patch-property-definition/use-optimistic-patch-property-definition.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-upsert-pages/use-optimistic-upsert-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/url/modules/page-href/page-href.module.code.ts"}

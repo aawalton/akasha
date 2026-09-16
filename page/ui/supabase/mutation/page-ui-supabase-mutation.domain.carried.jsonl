@@ -1,5 +1,5 @@
 {"definition":"a write sent through Supabase"}
 {"id":"01a071d2-6ff8-7914-854c-2f159045dd16"}
-{"parts":["module/apply-prediction","module/build-patch-plan","module/build-predicted-row","module/collection-lookup","module/extract-target-ids","module/use-optimistic-create-page","module/use-optimistic-delete-page","module/use-optimistic-delete-pages","module/use-optimistic-patch-page","module/use-optimistic-patch-property-definition","module/use-optimistic-upsert-page","module/use-optimistic-upsert-pages"]}
+{"parts":["module/apply-prediction","module/build-patch-plan","module/build-predicted-row","module/collection-lookup","module/extract-target-ids","module/use-optimistic-create-page","module/use-optimistic-delete-page","module/use-optimistic-delete-pages","module/use-optimistic-patch-page","module/use-optimistic-upsert-page","module/use-optimistic-upsert-pages"]}
 {"slug":"page-ui-supabase-mutation"}
 {"type":"page-type/domain"}
