@@ -50,6 +50,8 @@ const UPKEEP_GROUP = "upkeep"
 
 const ATTRIBUTES_GROUP = "attributes"
 
+const LUCK_GROUP = "luck"
+
 const WORKSTATION_GROUP = "workstation"
 
 const PROCESSOR_KEY = "processor"
@@ -58,7 +60,7 @@ const MEMORY_KEY = "memory"
 
 const WIRE_KEY = "wireKey"
 
-const GROUPS: readonly string[] = [INBOX_GROUP, UPKEEP_GROUP, ATTRIBUTES_GROUP]
+const GROUPS: readonly string[] = [INBOX_GROUP, UPKEEP_GROUP, ATTRIBUTES_GROUP, LUCK_GROUP]
 
 type Held = {
   readonly at: string
@@ -159,5 +161,6 @@ export function statusBarLine(root: string): string {
     inbox: sectionOf(held, INBOX_GROUP),
     upkeep: sectionOf(held, UPKEEP_GROUP),
     attributes: sectionOf(held, ATTRIBUTES_GROUP),
+    luck: sectionOf(held, LUCK_GROUP),
   } satisfies StatusBarState)
 }

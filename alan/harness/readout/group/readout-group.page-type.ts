@@ -12,6 +12,7 @@ export const readoutGroup = {
     "readout-group/claude-usage",
     "readout-group/cost",
     "readout-group/inboxes",
+    "readout-group/luck",
     "readout-group/safety",
     "readout-group/surplus",
     "readout-group/upkeep",

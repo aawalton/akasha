@@ -20,7 +20,7 @@ export type SeparatorSlotDef = {
   readonly priority: number
 }
 
-const STOPLIGHTS_SECTIONS = ["inbox", "upkeep", "attributes"] as const
+const STOPLIGHTS_SECTIONS = ["inbox", "upkeep", "attributes", "luck"] as const
 
 export type StoplightsSection = (typeof STOPLIGHTS_SECTIONS)[number]
 

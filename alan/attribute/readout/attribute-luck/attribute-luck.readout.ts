@@ -10,7 +10,7 @@ export const attributeLuck = {
   place: 7,
   scale: "readout-scale/attribute-points",
   attribute: "attribute/luck",
-  groups: ["readout-group/attributes"],
+  groups: ["readout-group/luck"],
   wireKey: "luck",
   decisions: [
     {

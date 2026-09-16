@@ -76,15 +76,6 @@ const READOUT_ROWS = [
     wireKey: "charisma",
     groups: [GROUP],
   },
-  {
-    slug: "attribute-luck",
-    label: "Luck",
-    unit: "points",
-    place: 7,
-    scale: "attribute-points",
-    wireKey: "luck",
-    groups: [GROUP],
-  },
 ]
 
 const SCALE_ROWS: Record<string, Record<string, unknown>> = {
@@ -104,7 +95,6 @@ const CARRIED: readonly (readonly [string, number])[] = [
   ["attribute-wisdom", 0],
   ["attribute-intelligence", 0.3],
   ["attribute-charisma", 0.6],
-  ["attribute-luck", 0.9],
 ]
 
 const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: READOUT_ROWS }
@@ -154,13 +144,12 @@ test("the key a reading travels under is `attribute` rather than `habit`", () =>
   expect(WIRE_KEY_NAME).toBe("attribute")
 })
 
-test("the pages naming the attributes group are the seven the fixture holds", () => {
+test("the pages naming the attributes group are the six the fixture holds", () => {
   expect(readoutsNaming(GROUP)).toEqual([
     "attribute-charisma",
     "attribute-constitution",
     "attribute-endurance",
     "attribute-intelligence",
-    "attribute-luck",
     "attribute-strength",
     "attribute-wisdom",
   ])
@@ -170,9 +159,9 @@ test("the fixture holds every page naming the group and no page it does not", ()
   expect(READOUT_ROWS.map((one) => one.slug).sort()).toEqual([...readoutsNaming(GROUP)])
 })
 
-test("nothing carried in shows seven empty rings rather than an empty list", async () => {
+test("nothing carried in shows six empty rings rather than an empty list", async () => {
   const some = await tile.drawn()
-  expect(some.length).toBe(7)
+  expect(some.length).toBe(6)
   for (const one of some) {
     expect(one.readingHeld).toBe("none")
     expect(one.reading).toBe("")
@@ -180,9 +169,9 @@ test("nothing carried in shows seven empty rings rather than an empty list", asy
   }
 })
 
-test("all seven attributes come back when all seven have been carried in", async () => {
+test("all six attributes come back when all six have been carried in", async () => {
   carryAll()
-  expect((await tile.drawn()).length).toBe(7)
+  expect((await tile.drawn()).length).toBe(6)
 })
 
 test("every stoplight carries its key under `attribute` rather than under `habit`", async () => {
@@ -193,7 +182,7 @@ test("every stoplight carries its key under `attribute` rather than under `habit
   }
 })
 
-test("the seven keys are the seven the tile finds its rings under", async () => {
+test("the six keys are the six the tile finds its rings under", async () => {
   carryAll()
   expect((await tile.drawn()).map((one) => one.attribute)).toEqual([
     "strength",
@@ -202,7 +191,6 @@ test("the seven keys are the seven the tile finds its rings under", async () => 
     "wisdom",
     "intelligence",
     "charisma",
-    "luck",
   ])
 })
 
@@ -215,14 +203,13 @@ test("the rings come back in the place order the readout pages state", async () 
     "Wisdom",
     "Intelligence",
     "Charisma",
-    "Luck",
   ])
 })
 
 test("an attribute with no fresh reading keeps its ring rather than leaving the tile short", async () => {
   relayedFor("attribute-strength", 1.4)
   const some = await tile.drawn()
-  expect(some.length).toBe(7)
+  expect(some.length).toBe(6)
   expect((await tile.ringFor("strength"))?.reading).toBe("1.4")
   expect((await tile.ringFor("strength"))?.readingHeld).toBeUndefined()
   expect((await tile.ringFor("charisma"))?.reading).toBe("")
@@ -313,7 +300,7 @@ test("a figure is floored to one decimal place at most", async () => {
 test("a reading taken long ago keeps the figure it holds on the ring", async () => {
   carryAll(new Date(Date.now() - 46 * 60_000))
   const some = await tile.drawn()
-  expect(some.length).toBe(7)
+  expect(some.length).toBe(6)
   for (const one of some) {
     expect(one.readingHeld).toBeUndefined()
     expect(one.reading).not.toBe("")

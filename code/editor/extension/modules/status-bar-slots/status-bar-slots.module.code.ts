@@ -64,7 +64,16 @@ const RAW_SLOTS: readonly SlotDef[] = [
     section: "attributes",
   },
 
-  { kind: "separator", id: "opsStatusBar.sep.attributesInbox", priority: 0 },
+  { kind: "separator", id: "opsStatusBar.sep.attributesLuck", priority: 0 },
+
+  {
+    kind: "stoplights",
+    id: "opsStatusBar.luckStoplights",
+    priority: 0,
+    section: "luck",
+  },
+
+  { kind: "separator", id: "opsStatusBar.sep.luckInbox", priority: 0 },
 
   {
     kind: "stoplights",

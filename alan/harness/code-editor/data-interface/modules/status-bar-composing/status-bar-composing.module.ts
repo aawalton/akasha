@@ -31,7 +31,7 @@ export const statusBarComposing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "One reading of the readout pages answers the workstation's load and all three stoplight groups.",
+        "One reading of the readout pages answers the workstation's load and every stoplight group.",
     },
     {
       decisionKind: "decision-kind/departure",

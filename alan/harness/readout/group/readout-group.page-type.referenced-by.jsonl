@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"readout-group.page-type.types.ts","path":"alan/harness/readout/group/pages/claude-usage/claude-usage.readout-group.ts"}
 {"propertySlug":"import","fileName":"readout-group.page-type.types.ts","path":"alan/harness/readout/group/pages/cost/cost.readout-group.ts"}
 {"propertySlug":"import","fileName":"readout-group.page-type.types.ts","path":"alan/harness/readout/group/pages/inboxes/inboxes.readout-group.ts"}
+{"propertySlug":"import","fileName":"readout-group.page-type.types.ts","path":"alan/harness/readout/group/pages/luck/luck.readout-group.ts"}
 {"propertySlug":"import","fileName":"readout-group.page-type.types.ts","path":"alan/harness/readout/group/pages/safety/safety.readout-group.ts"}
 {"propertySlug":"import","fileName":"readout-group.page-type.types.ts","path":"alan/harness/readout/group/pages/surplus/surplus.readout-group.ts"}
 {"propertySlug":"import","fileName":"readout-group.page-type.types.ts","path":"alan/harness/readout/group/pages/upkeep/upkeep.readout-group.ts"}
