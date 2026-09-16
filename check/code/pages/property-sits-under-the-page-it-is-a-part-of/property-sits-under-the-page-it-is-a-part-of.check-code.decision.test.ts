@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import {
   foldedFor,
+  heldIn,
   type Judging,
   judgingBy,
 } from "akasha/check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.decision.code.ts"
@@ -27,7 +28,13 @@ const BESIDE = "akasha/one/properties/held.text-property.ts"
 
 const APART = "akasha/two/properties/held.text-property.ts"
 
+const INSIDE = "akasha/one/properties/held-rows/held-rows.page-property-entry.ts"
+
+const DEEPER = "akasha/one/properties/held-rows/more/held-rows.page-property-entry.ts"
+
 const SHOWN = "text-property/held"
+
+const INSIDE_SHOWN = "page-property-entry/held-rows"
 
 const PARTS = "parts"
 
@@ -83,6 +90,27 @@ test("a property page two pages name a part is passed over here", () => {
   expect(judging(root)(HELD, SHOWN, APART)).toBe(null)
 })
 
+test("a property carrying properties of its own heads a folder in that folder", () => {
+  const root = rooted(INSIDE)
+  edging(root, HELD, PARTS, OWNER, OWNER_AT)
+
+  expect(judging(root)(HELD, INSIDE_SHOWN, INSIDE)).toBe(null)
+})
+
+test("a property page deeper than such a folder is refused", () => {
+  const root = rooted(DEEPER)
+  edging(root, HELD, PARTS, OWNER, OWNER_AT)
+
+  expect(judging(root)(HELD, INSIDE_SHOWN, DEEPER)).toContain("heads a folder in it")
+})
+
 test("the folder wanted is the `properties` folder beside the page naming the property", () => {
   expect(foldedFor(OWNER_AT)).toBe("akasha/one/properties")
+})
+
+test("a property page is held in that folder or one folder inside it and no deeper", () => {
+  expect(heldIn("akasha/one/properties", "akasha/one/properties")).toBe(true)
+  expect(heldIn("akasha/one/properties/held-rows", "akasha/one/properties")).toBe(true)
+  expect(heldIn("akasha/one/properties/held-rows/more", "akasha/one/properties")).toBe(false)
+  expect(heldIn("akasha/two/properties", "akasha/one/properties")).toBe(false)
 })

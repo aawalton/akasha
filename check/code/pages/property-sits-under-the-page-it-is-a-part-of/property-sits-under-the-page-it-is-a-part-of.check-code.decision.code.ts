@@ -13,10 +13,15 @@ export function foldedFor(owner: string): string {
   return `${dirname(owner)}/${PROPERTIES}`
 }
 
+export function heldIn(sits: string, wanted: string): boolean {
+  return sits === wanted || dirname(sits) === wanted
+}
+
 function reasonFor(shown: string, sits: string, wanted: string, owner: string): string {
   return (
     `\`${shown}\` sits in \`${sits}\`, and \`${owner}\` names it a part — a property page ` +
-    `sits in \`${wanted}\`, the \`${PROPERTIES}\` folder beside the page naming it`
+    `sits in \`${wanted}\` or heads a folder in it, the \`${PROPERTIES}\` folder ` +
+    `beside the page naming it`
   )
 }
 
@@ -32,6 +37,6 @@ export function judgingBy(shadow: Shadow, known: Known): Judging {
     if (owner === null) return null
     const wanted = foldedFor(owner.path)
     const sits = dirname(path)
-    return sits === wanted ? null : reasonFor(shown, sits, wanted, owner.path)
+    return heldIn(sits, wanted) ? null : reasonFor(shown, sits, wanted, owner.path)
   }
 }

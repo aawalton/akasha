@@ -21,6 +21,14 @@ export const propertySitsUnderThePageItIsAPartOf = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A property carrying properties of its own heads a folder in that folder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A property page deeper than such a folder is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A property page sitting anywhere else is refused.",
     },
     {
