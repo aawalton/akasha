@@ -1,0 +1,11 @@
+import type { Message } from "akasha/agent/messaging/message/message.page-type.types.ts"
+
+export const messageE6de5242694d = {
+  id: "01a0aaf2-cda1-7000-8bf8-e6de5242694d",
+  type: "page-type/message",
+  slug: "message-e6de5242694d",
+  to: "seat/alan",
+  from: "service",
+  warrant: "announce",
+  body: "1 piece(s) of Alan's mail are waiting on you.\n\nClaimed by an agent rule, so the acting is yours to judge:\n- Prime Store Card <servicing@emails.synchrony.com> — Ensure your income information is up to date [everything-else]\n\nEach rule's own `# Rule` section says what it asks; the mail is still in the inbox.\n",
+} as const satisfies Message
