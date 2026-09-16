@@ -58,7 +58,6 @@
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/no-code-comments/no-code-comments.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/no-enum-or-namespace/no-enum-or-namespace.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/no-global-in-a-module/no-global-in-a-module.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/no-import-cycle/no-import-cycle.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/no-method-signature/no-method-signature.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/no-re-export/no-re-export.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/no-refused-syntax/no-refused-syntax.check-code.decision.code.ts"}

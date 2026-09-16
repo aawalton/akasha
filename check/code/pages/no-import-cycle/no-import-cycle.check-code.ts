@@ -51,7 +51,7 @@ export const noImportCycle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only a top-level import or export is read.",
+      statement: "Only a naming that runs as the file loads is read.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -73,6 +73,20 @@ export const noImportCycle = {
       decisionKind: "decision-kind/absence",
       statement:
         "A loop closed through a deferred import alone is not refused though the code still loops.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The files a file reaches as it loads are answered by a predicate rather than walked here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A module named by an `import x = require(...)` is reached as the file loads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A specifier naming a workspace package lands where the manifests the index names say.",
     },
   ],
   check: { maxCpuSeconds: 10 },

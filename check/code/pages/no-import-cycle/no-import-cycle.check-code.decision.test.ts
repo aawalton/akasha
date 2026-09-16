@@ -2,7 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import {
   addedIn,
   cyclesIn,
-  reachedIn,
   reachingIn,
   refusalsAdded,
   refusalsOver,
@@ -18,6 +17,7 @@ import {
   ROOT,
   refused,
   scratch,
+  shadowOf,
   TWO_AT,
 } from "akasha/check/code/pages/no-import-cycle/no-import-cycle.check-code.decision.test-fixtures.ts"
 
@@ -25,34 +25,34 @@ afterAll(scratch.sweep)
 
 test("an import the change did not add is no added import", () => {
   const held = patched({ [AT]: READS_TWO, [TWO_AT]: READS_ONE }, { [AT]: `${READS_TWO}\n` })
-  expect(addedIn(held)).toEqual([])
-  expect(refusalsAdded(held)).toEqual([])
+  expect(addedIn(held, shadowOf(held))).toEqual([])
+  expect(refusalsAdded(held, shadowOf(held))).toEqual([])
 })
 
 test("an import the change writes is an added import", () => {
   const held = patched({ [AT]: ALONE, [TWO_AT]: READS_ONE }, { [AT]: READS_TWO })
-  expect(addedIn(held)).toEqual([{ from: AT, to: TWO_AT }])
+  expect(addedIn(held, shadowOf(held))).toEqual([{ from: AT, to: TWO_AT }])
 })
 
 test("every import a file the change adds carries is an added import", () => {
   const held = patched({ [TWO_AT]: READS_ONE }, { [AT]: READS_TWO })
-  expect(addedIn(held)).toEqual([{ from: AT, to: TWO_AT }])
+  expect(addedIn(held, shadowOf(held))).toEqual([{ from: AT, to: TWO_AT }])
 })
 
 test("an added import the file it names reaches back along is a cycle", () => {
   const held = patched({ [AT]: ALONE, [TWO_AT]: READS_ONE }, { [AT]: READS_TWO })
-  expect(refusalsAdded(held).map((one) => one.path)).toEqual([AT, TWO_AT])
+  expect(refusalsAdded(held, shadowOf(held)).map((one) => one.path)).toEqual([AT, TWO_AT])
 })
 
 test("a cycle already there when the change arrived is refused nothing here", () => {
   const held = patched({ [AT]: READS_TWO, [TWO_AT]: READS_ONE }, { [AT]: `${READS_TWO}\n` })
-  expect(refusalsAdded(held)).toEqual([])
-  expect(refusalsOver(held).map((one) => one.path)).toEqual([AT, TWO_AT])
+  expect(refusalsAdded(held, shadowOf(held))).toEqual([])
+  expect(refusalsOver(held, shadowOf(held)).map((one) => one.path)).toEqual([AT, TWO_AT])
 })
 
 test("a file that begins importing itself is refused by the added import", () => {
   const held = patched({ [AT]: ALONE }, { [AT]: 'import { a } from "./one.ts"\n' })
-  const said = refusalsAdded(held)
+  const said = refusalsAdded(held, shadowOf(held))
   expect(said).toHaveLength(1)
   expect(said[0]?.reason).toContain("imports itself")
 })
@@ -152,8 +152,8 @@ test("a cycle no file the change has sits in is refused nothing though it is rea
     "akasha/three.ts": 'import { two } from "./two.ts"\n\nexport const three = two\n',
   })
   const carried = { ...held, changed: ["akasha/one.ts"] }
-  expect(cyclesIn(reachingIn(carried))).toHaveLength(1)
-  expect(refusalsOver(carried)).toEqual([])
+  expect(cyclesIn(reachingIn(carried, shadowOf(carried)))).toHaveLength(1)
+  expect(refusalsOver(carried, shadowOf(carried))).toEqual([])
 })
 
 test("an import written inside a string represents nothing", () => {
@@ -175,23 +175,53 @@ test("a deferred `import()` is not counted", () => {
   ).toEqual([])
 })
 
+test("a loop closed only through an awaited `import()` is not refused", () => {
+  expect(
+    pathsRefused({
+      "akasha/one.ts": 'import { two } from "./two.ts"\n\nexport const one = two\n',
+      "akasha/two.ts": 'export const two = async () => await import("./one.ts")\n',
+    })
+  ).toEqual([])
+})
+
+test("a loop closed through a static import is refused", () => {
+  expect(
+    pathsRefused({
+      "akasha/one.ts": 'import { two } from "./two.ts"\n\nexport const one = two\n',
+      "akasha/two.ts": 'import { one } from "./one.ts"\n\nexport const two = () => one\n',
+    })
+  ).toEqual(["akasha/one.ts", "akasha/two.ts"])
+})
+
+test("a module named by an external module reference is reached as the file loads", () => {
+  expect(
+    pathsRefused({
+      "akasha/one.ts": 'import { two } from "./two.ts"\n\nexport const one = two\n',
+      "akasha/two.ts": 'import one = require("./one.ts")\n\nexport const two = one\n',
+    })
+  ).toEqual(["akasha/one.ts", "akasha/two.ts"])
+})
+
 test("a specifier landing on no file the folder holds closes nothing", () => {
-  expect(reachingIn(change({ [AT]: 'import { a } from "./gone.ts"\n' })).get(AT)).toEqual([])
+  const held = change({ [AT]: 'import { a } from "./gone.ts"\n' })
+  expect(reachingIn(held, shadowOf(held)).get(AT)).toEqual([])
 })
 
 test("a package specifier naming no path of its own is passed over", () => {
-  expect(reachedIn(AT, 'import ts from "typescript"\n')).toEqual(["typescript"])
+  const held = change({ [AT]: 'import ts from "typescript"\n\nexport const one = ts\n' })
+  expect(reachingIn(held, shadowOf(held)).get(AT)).toEqual([])
 })
 
 test("a file that is not TypeScript is no part of the graph", () => {
-  expect([...reachingIn(change({ "akasha/notes.txt": "" })).keys()]).toEqual([])
+  const held = change({ "akasha/notes.txt": "" })
+  expect([...reachingIn(held, shadowOf(held)).keys()]).toEqual([])
 })
 
 test("a body that is not text refuses rather than reaching nothing", () => {
   const at = (): Uint8Array => new Uint8Array([0xff, 0xfe, 0x00])
   const held = { root: ROOT, changed: ["akasha/raw.ts"], after: at, before: at }
-  expect(() => reachingIn(held)).toThrow("akasha/raw.ts")
-  expect(() => reachingIn(held)).toThrow("not valid UTF-8")
+  expect(() => reachingIn(held, shadowOf(held))).toThrow("akasha/raw.ts")
+  expect(() => reachingIn(held, shadowOf(held))).toThrow("not valid UTF-8")
 })
 
 test("two separate cycles are both found", () => {

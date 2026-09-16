@@ -2,6 +2,7 @@ import { refusalsOver } from "akasha/check/code/pages/no-import-cycle/no-import-
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   bodiesOver,
+  graphed,
   change as staged,
 } from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
@@ -9,6 +10,7 @@ import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.mod
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { type Shadow, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 export const AT = "akasha/one.ts"
 
@@ -21,7 +23,12 @@ export const scratch = scratchWorld()
 export function rooted(): string {
   const root = scratch.rootFor("akasha-cycle-")
   nothingFiled(root)
+  graphed(root)
   return root
+}
+
+export function shadowOf(held: Change): Shadow {
+  return shadowAt(held.root)
 }
 
 export const ROOT = rooted()
@@ -47,7 +54,8 @@ export function patched(
 }
 
 export function refused(bodies: Readonly<Record<string, string>>): readonly Judged[] {
-  return refusalsOver(change(bodies))
+  const held = change(bodies)
+  return refusalsOver(held, shadowOf(held))
 }
 
 export function pathsRefused(bodies: Readonly<Record<string, string>>): readonly string[] {
@@ -57,6 +65,8 @@ export function pathsRefused(bodies: Readonly<Record<string, string>>): readonly
 export function tracked(bodies: Readonly<Record<string, string>>): string {
   const root = scratch.rootFor("akasha-cycle-audit-")
   for (const [path, body] of Object.entries(bodies)) writing(root, path, body)
+  nothingFiled(root)
+  graphed(root)
   const done = ran(["git", "-C", root, "init", "-q"])
   if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
   return root

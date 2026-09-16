@@ -128,6 +128,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/module-sits-under-a-modules-folder/module-sits-under-a-modules-folder.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/no-color-literal/no-color-literal.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/no-import-cycle/no-import-cycle.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/no-raw-nul-bytes/no-raw-nul-bytes.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/no-raw-nul-bytes/no-raw-nul-bytes.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/no-spacing-literal/no-spacing-literal.check-code.decision.code.ts"}
