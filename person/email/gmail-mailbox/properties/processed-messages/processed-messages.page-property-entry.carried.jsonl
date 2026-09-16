@@ -2,7 +2,7 @@
 {"definition":"every message a mailbox has been through and what was settled, one to a line"}
 {"id":"01a06862-a0bc-72d6-b90f-dad9388f4920"}
 {"parts":["instant-property/gmail-processed-at","text-property/gmail-decision","text-property/gmail-message-id"]}
-{"properties":[{"pageProperty":"text-property/slug","required":true,"many":false},{"pageProperty":"text-property/gmail-decision","required":true,"many":false},{"pageProperty":"text-property/gmail-message-id","required":true,"many":false},{"pageProperty":"instant-property/gmail-processed-at","required":true,"many":false},{"pageProperty":"number-property/seq","required":true,"many":false}]}
+{"properties":[{"pageProperty":"text-property/slug","required":true,"many":false},{"pageProperty":"text-property/gmail-decision","required":true,"many":false},{"pageProperty":"text-property/gmail-message-id","required":true,"many":false},{"pageProperty":"instant-property/gmail-processed-at","required":true,"many":false}]}
 {"propertySlug":"processed-messages"}
 {"slug":"processed-messages"}
 {"type":"page-type/page-property-entry"}

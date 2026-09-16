@@ -17,7 +17,6 @@ export const completedTasks = {
     { pageProperty: "text-property/priority", required: false, many: false },
     { pageProperty: "boolean-property/anchored-from-completion", required: false, many: false },
     { pageProperty: "text-property/description", required: false, many: false },
-    { pageProperty: "number-property/seq", required: true, many: false },
   ],
   types: "ts",
 } as const satisfies PagePropertyEntry

@@ -1,7 +1,7 @@
 {"definition":"every measurement Alan's phone took whose stretch began on a day, one to a line"}
 {"id":"01a060fb-0410-765e-a968-4c9a3477760a"}
 {"parts":["instant-property/arrived-at","instant-property/ended-at","instant-property/started-at","number-property/value","text-property/source-name"]}
-{"properties":[{"pageProperty":"text-property/metric","required":true,"many":false},{"pageProperty":"instant-property/started-at","required":true,"many":false},{"pageProperty":"instant-property/ended-at","required":true,"many":false},{"pageProperty":"number-property/value","required":true,"many":false},{"pageProperty":"text-property/unit","required":true,"many":false},{"pageProperty":"text-property/source-name","required":true,"many":false},{"pageProperty":"instant-property/arrived-at","required":true,"many":false},{"pageProperty":"number-property/seq","required":true,"many":false}]}
+{"properties":[{"pageProperty":"text-property/metric","required":true,"many":false},{"pageProperty":"instant-property/started-at","required":true,"many":false},{"pageProperty":"instant-property/ended-at","required":true,"many":false},{"pageProperty":"number-property/value","required":true,"many":false},{"pageProperty":"text-property/unit","required":true,"many":false},{"pageProperty":"text-property/source-name","required":true,"many":false},{"pageProperty":"instant-property/arrived-at","required":true,"many":false}]}
 {"propertySlug":"health-samples"}
 {"slug":"health-samples"}
 {"type":"page-type/page-property-entry"}
