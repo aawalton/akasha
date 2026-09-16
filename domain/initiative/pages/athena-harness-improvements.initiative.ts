@@ -10,7 +10,7 @@ export const athenaHarnessImprovements = {
     {
       statement: "Forty lanes landing at once over one worktree land thirty a second.",
       workingMemory:
-        "24.5-29.8/s in a scratch worktree, from 13.7/s, once the control group was made opt-in and the run relay taken out. In this checkout the hold was 2.53s: the editor's three pictures came out of it, then the face saying which paths a machine writes at 4cc919b, then the ignored-path read at 54c9368 and the linking at 3a1fffd. What is left is git writing and the index delta. Taking a seat away cost 282s until d1b9198, 264s of it Bun's scanner reading a seat's jsonl as typescript.",
+        "The hold went 2.53s to 178ms: the editor's pictures came out, then the machine-writes face at 4cc919b, the ignored-path read at 54c9368, the linking at 3a1fffd. What is left is 74ms of git rewriting its 59.5MB index, measured at 70ms to stage one path, and 69ms of settlingOver derived again inside the hold over a fresh reading. Thirty a second wants a 33ms hold. Taking a seat away cost 282s until d1b9198, 264s of it Bun's scanner reading a seat's jsonl as typescript.",
     },
   ],
   constraints: [
