@@ -43,7 +43,7 @@ function withMagnitudeSuffix(abs: number): string {
   return `${str}${SHORT_SUFFIXES[tier]}`
 }
 
-export function formatShortNumber(n: number): string {
+function formatShortNumber(n: number): string {
   if (!Number.isFinite(n)) return "0"
   const sign = n < 0 ? "-" : ""
   const abs = Math.abs(n)
