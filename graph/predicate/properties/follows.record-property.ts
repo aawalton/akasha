@@ -17,14 +17,14 @@ export const follows = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A predicate following two values follows only an edge carrying both.",
+      statement: "A predicate following two attributes follows only an edge carrying both.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "One edge kind carrying many attributes is told apart here rather than divided.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A predicate follows an edge carrying any one of the values it names for an attribute.",
     },

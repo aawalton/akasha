@@ -11,7 +11,7 @@ export const veraGraphCleanup = {
       statement:
         "Every closure over the graph's edges is worked out in the graph rather than by each caller.",
       workingMemory:
-        "Not met. Eight callers close over the graph, the last at `208e9cad9c3`. Of twenty-five closures written by hand over `parts` and `extends`, three are done, ten are walled by a load cycle, one by the extension host reaching no Bun, seven want an ordered chain the graph cannot yet say, and four are free. `follows` only ever ANDs its values, so `domain-is-named-by-a-parent` would take two predicates. The `domain dag` closure it replaced was wrong, dropping 9,842 nestings.",
+        "Not met. Eight callers close over the graph, the last at `208e9cad9c3`. Of twenty-five closures written by hand over `parts` and `extends`, three are done, ten are walled by a load cycle, one by the extension host reaching no Bun, seven want an ordered chain the graph cannot yet say, and four are free. `follows` ORs one attribute's values and ANDs across attributes; `domain-is-named-by-a-parent` wants one predicate now. The `domain dag` closure it replaced was wrong, dropping 9,842 nestings.",
     },
     {
       statement: "Every closure the graph answers is quick enough to ask on every landing.",

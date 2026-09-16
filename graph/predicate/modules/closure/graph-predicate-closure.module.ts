@@ -84,7 +84,7 @@ export const graphPredicateClosure = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A predicate following an attribute value takes in only an edge carrying that value.",
+        "A predicate following an attribute takes in only an edge carrying one of the values it names.",
     },
     {
       decisionKind: "decision-kind/departure",

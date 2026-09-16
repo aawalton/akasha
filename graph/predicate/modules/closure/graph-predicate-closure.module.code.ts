@@ -20,18 +20,29 @@ function every(): boolean {
   return true
 }
 
+function wantedIn(predicate: GraphPredicate): ReadonlyMap<string, readonly string[]> {
+  const grouped = new Map<string, string[]>()
+  for (const one of predicate.follows ?? []) {
+    const attribute = slugOf(one.attribute)
+    const held = grouped.get(attribute)
+    if (held === undefined) grouped.set(attribute, [one.value])
+    else held.push(one.value)
+  }
+  return grouped
+}
+
 function followed(predicate: GraphPredicate): (edge: Edge) => boolean {
-  const wanted = (predicate.follows ?? []).map((one) => [slugOf(one.attribute), one.value] as const)
+  const wanted = [...wantedIn(predicate)]
   if (wanted.length === 0) return every
   return (edge) =>
-    wanted.every(([attribute, value]) => {
+    wanted.every(([attribute, values]) => {
       const held = edge.attrs[attribute]
       if (held === undefined) {
         throw new Error(
           `the \`${edge.kind}\` edge carries no \`${attribute}\`, so the \`${predicate.slug}\` predicate could not follow it`
         )
       }
-      return held === value
+      return values.includes(held)
     })
 }
 

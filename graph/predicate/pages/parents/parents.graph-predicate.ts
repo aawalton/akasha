@@ -7,5 +7,8 @@ export const parents = {
   definition: "every page naming a seed page among its parts, however far",
   edges: ["graph-edge/relation"],
   direction: "in",
-  follows: [{ attribute: "graph-attribute/property", value: "parts" }],
+  follows: [
+    { attribute: "graph-attribute/property", value: "parts" },
+    { attribute: "graph-attribute/property", value: "part-slugs" },
+  ],
 } as const satisfies GraphPredicate

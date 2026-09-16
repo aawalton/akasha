@@ -6,6 +6,7 @@ import {
   BY_DECLARATION,
   BY_REFERENCE,
   bodiesIn,
+  callingBody,
   FIRST_AT,
   IMPORT_EDGE,
   importsBeside,
@@ -28,6 +29,7 @@ import {
   closureOf,
   takenIn,
 } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { atLoadImports } from "akasha/graph/predicate/pages/at-load-imports/at-load-imports.graph-predicate.ts"
 import { codeImports } from "akasha/graph/predicate/pages/code-imports/code-imports.graph-predicate.ts"
 import { importers } from "akasha/graph/predicate/pages/importers/importers.graph-predicate.ts"
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
@@ -44,6 +46,15 @@ const SIDEWAYS = { ...imports, direction: "sideways" }
 const DECLARED = { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_CODE, [LOADING]: AT_LOAD }
 
 const CODE_IMPORTERS = { ...importers, follows: codeImports.follows }
+
+const EITHER_NAME = [
+  { attribute: "graph-attribute/names", value: NAMES_CODE },
+  { attribute: "graph-attribute/names", value: NAMES_TYPE },
+]
+
+const EITHER_IMPORTS = { ...imports, follows: EITHER_NAME }
+
+const EITHER_IMPORTERS = { ...importers, follows: EITHER_NAME }
 
 const writing = new TextEncoder()
 
@@ -87,6 +98,44 @@ test("an edge carrying none of an attribute a predicate follows is refused", () 
   const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
 
   expect(() => closureOf(CODE_IMPORTERS, [FIRST_AT], { index: indexOf(root) })).toThrow(
+    /carries no `names`/
+  )
+})
+
+test("a predicate following two values of one attribute takes in an edge carrying either", () => {
+  const root = importWorld()
+  const index = indexOf(root)
+  const bodyAt = filesOf({
+    [FIRST_AT]: namingBody("./second.page.ts") + typingBody("./third.page.ts"),
+  })
+
+  expect(closureOf(EITHER_IMPORTS, [FIRST_AT], { index, bodyAt })).toEqual([
+    FIRST_AT,
+    SECOND_AT,
+    THIRD_AT,
+  ])
+  expect(closureOf(codeImports, [FIRST_AT], { index, bodyAt })).toEqual([FIRST_AT, SECOND_AT])
+})
+
+test("a predicate following two attributes takes in only an edge carrying both", () => {
+  const root = importWorld()
+  const index = indexOf(root)
+  const bodyAt = filesOf({
+    [FIRST_AT]: namingBody("./second.page.ts") + callingBody("./third.page.ts"),
+  })
+
+  expect(closureOf(atLoadImports, [FIRST_AT], { index, bodyAt })).toEqual([FIRST_AT, SECOND_AT])
+  expect(closureOf(codeImports, [FIRST_AT], { index, bodyAt })).toEqual([
+    FIRST_AT,
+    SECOND_AT,
+    THIRD_AT,
+  ])
+})
+
+test("an edge carrying none of an attribute two values are followed for is refused", () => {
+  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
+
+  expect(() => closureOf(EITHER_IMPORTERS, [FIRST_AT], { index: indexOf(root) })).toThrow(
     /carries no `names`/
   )
 })
