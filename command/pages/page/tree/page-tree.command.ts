@@ -75,6 +75,25 @@ export const pageTree = {
       decisionKind: "decision-kind/departure",
       statement: "The answer is drawn from the repository root or from a reading of the index.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Which page types are kinds of property is answered by the graph's `extended` closure.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A type above is reached by its path rather than by its slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The relation above is read as the index resolves it rather than as the body spells it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A type naming the type above it by id is reached as readily as one naming it by slug.",
+    },
   ],
   name: "tree",
   arguments: [],

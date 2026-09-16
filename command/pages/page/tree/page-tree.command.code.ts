@@ -14,9 +14,13 @@ import { rootIn } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { pathOf } from "akasha/command/modules/walking/command-walking.module.code.ts"
 import { page } from "akasha/command/pages/page/page.namespace.ts"
 import { pageTree as treePage } from "akasha/command/pages/page/tree/page-tree.command.ts"
+import { takenIn } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { extended } from "akasha/graph/predicate/pages/extended/extended.graph-predicate.ts"
+import { answeringOver } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {
   readingIn,
   type Valued,
+  valueByPath,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -102,24 +106,22 @@ function declarationsIn(value: Value): readonly Declaration[] {
   return found
 }
 
-function reachesProperty(slug: string, types: ReadonlyMap<string, Value>): boolean {
-  const walked = new Set<string>()
-  const ahead: string[] = [slug]
-  for (;;) {
-    const at = ahead.pop()
-    if (at === undefined) return false
-    if (at === PROPERTY_ROOT) return true
-    if (walked.has(at)) continue
-    walked.add(at)
-    const above = types.get(at)
-    if (above !== undefined) ahead.push(...slugsIn(above[EXTENDS]))
-  }
+function reachingProperty(reading: Reading): (path: string) => boolean {
+  const index = answeringOver(reading, (path) => valueByPath(reading, path))
+  const root = index.listedAt(PAGE_TYPE, PROPERTY_ROOT)[0]
+  if (root === undefined) return () => false
+  const asked = { index, bodyAt: (path: string) => reading.read(path) }
+  return (path) => takenIn(extended, [path], asked).nodes.includes(root.path)
 }
 
-export function propertyKindsIn(types: ReadonlyMap<string, Value>): ReadonlySet<string> {
+export function propertyKindsIn(given: string | Reading): ReadonlySet<string> {
+  const reading = readingIn(given)
+  const reaches = reachingProperty(reading)
   const found = new Set<string>()
-  for (const slug of types.keys()) {
-    if (slug !== PROPERTY_ROOT && reachesProperty(slug, types)) found.add(slug)
+  for (const one of valuesOfType(reading, PAGE_TYPE)) {
+    const slug = textAt(one.value, "slug")
+    if (slug === null || slug === PROPERTY_ROOT) continue
+    if (reaches(one.path)) found.add(slug)
   }
   return found
 }
@@ -253,13 +255,8 @@ export function answersFrom(
 export function pageAnswers(given: string | Reading): Answers {
   const reading = readingIn(given)
   const pageTypes = valuesOfType(reading, PAGE_TYPE)
-  const byType = new Map<string, Value>()
-  for (const one of pageTypes) {
-    const slug = textAt(one.value, "slug")
-    if (slug !== null) byType.set(slug, one.value)
-  }
   const properties = new Map<string, readonly Valued[]>()
-  for (const kind of [...propertyKindsIn(byType)].sort()) {
+  for (const kind of [...propertyKindsIn(reading)].sort()) {
     properties.set(kind, valuesOfType(reading, kind))
   }
   return answersFrom(pageTypes, properties)

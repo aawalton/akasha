@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"graph-predicate.page-type.types.ts","path":"graph/predicate/pages/at-load-imports/at-load-imports.graph-predicate.ts"}
 {"propertySlug":"import","fileName":"graph-predicate.page-type.types.ts","path":"graph/predicate/pages/children/children.graph-predicate.ts"}
 {"propertySlug":"import","fileName":"graph-predicate.page-type.types.ts","path":"graph/predicate/pages/code-imports/code-imports.graph-predicate.ts"}
+{"propertySlug":"import","fileName":"graph-predicate.page-type.types.ts","path":"graph/predicate/pages/extended/extended.graph-predicate.ts"}
 {"propertySlug":"import","fileName":"graph-predicate.page-type.types.ts","path":"graph/predicate/pages/importers/importers.graph-predicate.ts"}
 {"propertySlug":"import","fileName":"graph-predicate.page-type.types.ts","path":"graph/predicate/pages/imports/imports.graph-predicate.ts"}
 {"propertySlug":"import","fileName":"graph-predicate.page-type.types.ts","path":"graph/predicate/pages/parents/parents.graph-predicate.ts"}

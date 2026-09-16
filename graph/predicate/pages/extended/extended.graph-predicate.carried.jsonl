@@ -1,0 +1,7 @@
+{"definition":"every page type a seed page type extends, however far"}
+{"direction":"out"}
+{"edges":["graph-edge/relation"]}
+{"follows":[{"attribute":"graph-attribute/property","value":"extends-type"}]}
+{"id":"01a0aada-f708-72a5-946c-a4e7144b4bac"}
+{"slug":"extended"}
+{"type":"page-type/graph-predicate"}

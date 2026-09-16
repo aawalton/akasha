@@ -1,4 +1,4 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   answersFrom,
@@ -6,6 +6,17 @@ import {
   propertyKindsIn,
 } from "akasha/command/pages/page/tree/page-tree.command.code.ts"
 import type { Valued } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  aType,
+  bodyOf,
+  graphedRepo,
+  idOf,
+  type Named,
+  scratch,
+  thePage,
+} from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+
+afterAll(scratch.sweep)
 
 const ROOT = "/nowhere"
 
@@ -214,25 +225,53 @@ test("a page type naming one type above it is answered on the one row it always 
   ])
 })
 
-test("a kind of property is reached through any of the types above it", () => {
-  const types = new Map<string, Record<string, unknown>>([
-    ["module", { slug: "module", extends: ["page-type/page"] }],
-    ["page-property", { slug: "page-property", extends: ["page-type/page"] }],
-    [
-      "computed-property",
-      { slug: "computed-property", extends: ["page-type/module", "page-type/page-property"] },
-    ],
-    ["faith-points", { slug: "faith-points", extends: ["page-type/computed-property"] }],
-  ])
+const TREE = "akasha"
 
-  expect([...propertyKindsIn(types)].sort()).toEqual(["computed-property", "faith-points"])
+const heldId = (one: string): string => `01a04a4a-0007-7000-8000-00000000000${one}`
+
+const HELD: readonly Named[] = [
+  thePage({
+    id: heldId("1"),
+    pageTypeSlug: "graph-attribute",
+    slug: "property",
+    definition: "the property one page named another page under",
+  }),
+  thePage({
+    id: heldId("2"),
+    pageTypeSlug: "graph-edge",
+    slug: "relation",
+    definition: "one page naming another page under a property",
+    attributes: ["graph-attribute/property"],
+  }),
+  aType(heldId("3"), "computed-property", ["page-type/module", "page-type/page-property"]),
+  aType(heldId("4"), "faith-points", ["page-type/computed-property"]),
+  aType(heldId("5"), "id-named-property", [idOf("3"), "page-type/page"]),
+  aType(heldId("6"), "one-ringed", ["page-type/two-ringed", "page-type/page"]),
+  aType(heldId("7"), "two-ringed", ["page-type/one-ringed", "page-type/page"]),
+]
+
+function typesRepo(): string {
+  return graphedRepo(
+    Object.fromEntries(HELD.map(([at, value]) => [`${TREE}/${at}`, bodyOf(value)] as const))
+  )
+}
+
+test("a kind of property is reached through any of the types above it", () => {
+  const found = propertyKindsIn(typesRepo())
+
+  expect(found.has("computed-property")).toBe(true)
+  expect(found.has("faith-points")).toBe(true)
+  expect(found.has("module")).toBe(false)
+  expect(found.has("page-property")).toBe(false)
+})
+
+test("a type naming the type above it by id reaches what that type reaches", () => {
+  expect(propertyKindsIn(typesRepo()).has("id-named-property")).toBe(true)
 })
 
 test("a ring among the types above is answered rather than walked forever", () => {
-  const types = new Map<string, Record<string, unknown>>([
-    ["one", { slug: "one", extends: ["page-type/two"] }],
-    ["two", { slug: "two", extends: ["page-type/one"] }],
-  ])
+  const found = propertyKindsIn(typesRepo())
 
-  expect([...propertyKindsIn(types)]).toEqual([])
+  expect(found.has("one-ringed")).toBe(false)
+  expect(found.has("two-ringed")).toBe(false)
 })
