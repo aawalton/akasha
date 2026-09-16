@@ -10,6 +10,7 @@ export const check = {
     "module/audit-asking",
     "module/audit-calling",
     "module/audit-child",
+    "module/audit-job",
     "module/audit-listening",
     "module/audit-recording",
     "module/audit-serving",

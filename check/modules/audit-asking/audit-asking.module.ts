@@ -34,6 +34,14 @@ export const auditAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller may hand over a round of its own in place of asking the service.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The reading of the verdicts beside the pages is reached by whoever runs a round.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A verdict at the commit asked or at a descendant of it answers for that commit.",
     },
     {

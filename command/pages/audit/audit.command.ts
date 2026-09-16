@@ -41,11 +41,23 @@ export const audit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run owed a check's verdict asks the audit service for a round over HTTP.",
+      statement: "A run owed a check's verdict puts a round up as a job in the cluster.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run naming checks asks the audit service for those checks and no others.",
+      statement: "A run naming checks puts up a round over those checks and no others.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run that is the one in the cluster runs the round rather than sending it on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round in the cluster writes its verdicts through the pages service.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What that round found is read from those verdicts once the job has ended.",
     },
     {
       decisionKind: "decision-kind/absence",

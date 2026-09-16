@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"audit-serving.module.code.ts","path":"check/modules/audit-asking/audit-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"audit-serving.module.code.ts","path":"check/modules/audit-calling/audit-calling.module.code.ts"}
+{"propertySlug":"import","fileName":"audit-serving.module.code.ts","path":"check/modules/audit-job/audit-job.module.code.ts"}
 {"propertySlug":"import","fileName":"audit-serving.module.code.ts","path":"check/modules/audit-listening/audit-listening.module.code.ts"}
 {"propertySlug":"import","fileName":"audit-serving.module.code.ts","path":"check/modules/audit-listening/audit-listening.module.test.ts"}
 {"propertySlug":"import","fileName":"audit-serving.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.test.ts"}

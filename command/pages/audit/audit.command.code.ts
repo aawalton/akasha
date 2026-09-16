@@ -1,7 +1,9 @@
 import { resolve } from "node:path"
 import { auditRefusalsPut } from "akasha/agent/modules/refusals-keeping/refusals-keeping.module.code.ts"
+import type { Round } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
 import { asked } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
-import { commitOf } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
+import { ranAfter, roundInCluster } from "akasha/check/modules/audit-job/audit-job.module.code.ts"
+import { commitOf, roundNow } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import type { Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
 import { checksAt, checksIn } from "akasha/check/modules/checking/checking.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
@@ -15,6 +17,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { audit as page } from "akasha/command/pages/audit/audit.command.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
+import { inCluster } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
 const AUDIT = "audit"
@@ -83,6 +86,16 @@ export function notYetJudgingIn(
   return [`this answer leaves out ${counted(held.length, "check")} not yet judging: ${waiting}`]
 }
 
+const roundHere: Round = async (checks) => ({ ran: (await roundNow(checks)).ran })
+
+export function roundFor(root: string, commit: string): Round {
+  if (inCluster()) return roundHere
+  return async (checks) => {
+    const ended = await roundInCluster(root, root, checks, commit)
+    return "why" in ended ? { refused: ended.why } : { ran: ranAfter(root, checks) }
+  }
+}
+
 async function askedOver(
   root: string,
   every: readonly Gathered[],
@@ -99,7 +112,8 @@ async function askedOver(
     ...notYetJudgingIn(every, named),
   ]
   const checks = narrowed.checks.length
-  const told = await asked({ root, checks: narrowed.checks, commit, done })
+  const round = roundFor(root, commit)
+  const told = await asked({ root, checks: narrowed.checks, commit, done, round })
   return askedAnswer({ told, checks, commit, also, rounds: done }, keeping)
 }
 

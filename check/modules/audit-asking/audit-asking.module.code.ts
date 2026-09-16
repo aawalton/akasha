@@ -42,7 +42,7 @@ function pagesIn(root: string): ReadonlyMap<string, string> {
   return found
 }
 
-function verdictsFor(root: string, checks: readonly string[]): Verdicts {
+export function verdictsFor(root: string, checks: readonly string[]): Verdicts {
   const pages = pagesIn(root)
   const found = new Map<string, Verdict>()
   for (const one of checks) {
