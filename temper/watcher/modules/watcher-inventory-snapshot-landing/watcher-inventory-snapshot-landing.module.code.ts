@@ -7,11 +7,14 @@ import type {
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
   contentIn,
+  jsonlBodyOf,
+  jsonRowOf,
   landOverAttempts,
   PAGE_LANDING_WRITER,
   pageBodyFor,
   pagePathIn,
   readingFor,
+  rowsPathIn,
   triedFrom,
   writingFor,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
@@ -19,6 +22,12 @@ import {
 const FOLDER = "temper/holdings/temper-inventory-snapshot/pages"
 
 const DATA_PROPERTY = "data"
+
+const LOCATIONS_PROPERTY = "locations"
+
+const BAG_SIZES_PROPERTY = "bag-sizes"
+
+const BAG_SIZES_KEY = "bagSizes"
 
 const MS_PER_SECOND = 1000
 
@@ -41,6 +50,59 @@ export function snapshotDataPath(slug: string): string {
   return `${FOLDER}/${slug}/${slug}.${INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG}.${DATA_PROPERTY}.json`
 }
 
+export function snapshotRowsPath(slug: string, property: string): string {
+  return rowsPathIn(FOLDER, slug, INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG, property)
+}
+
+function instantOf(seconds: number): string {
+  return new Date(seconds * MS_PER_SECOND).toISOString()
+}
+
+function locationIdsIn(values: SnapshotValues): readonly string[] {
+  return Object.keys(values.inventory.locations).sort()
+}
+
+export function locationRowsOf(values: SnapshotValues, minted: () => string): string {
+  const lines: string[] = []
+  for (const locationId of locationIdsIn(values)) {
+    const held = values.inventory.locations[locationId]
+    if (held === undefined) continue
+    lines.push(
+      jsonRowOf([
+        ["id", minted()],
+        ["locationId", locationId],
+        ["displayName", held.displayName],
+        ["lastScannedAt", instantOf(held.lastScanned)],
+      ])
+    )
+  }
+  return jsonlBodyOf(lines)
+}
+
+export function bagSizeRowsOf(values: SnapshotValues, minted: () => string): string {
+  const lines: string[] = []
+  for (const locationId of locationIdsIn(values)) {
+    const sizes = values.inventory.locations[locationId]?.bagSizes
+    if (sizes === undefined) continue
+    const bags = Object.keys(sizes)
+      .map((one) => Number(one))
+      .sort((one, two) => one - two)
+    for (const bag of bags) {
+      const size = sizes[bag]
+      if (size === undefined) continue
+      lines.push(
+        jsonRowOf([
+          ["id", minted()],
+          ["locationId", locationId],
+          ["bag", bag],
+          ["bagSize", size],
+        ])
+      )
+    }
+  }
+  return jsonlBodyOf(lines)
+}
+
 export function snapshotPageKeys(values: SnapshotValues): readonly PageKey[] {
   const { meta, transmuteCrystalAmount, transmuteCrystalCap } = values.inventory
   const keys: PageKey[] = [
@@ -58,6 +120,7 @@ export function snapshotPageKeys(values: SnapshotValues): readonly PageKey[] {
     keys.push(["transmuteCrystalAmount", transmuteCrystalAmount])
   }
   if (transmuteCrystalCap !== undefined) keys.push(["transmuteCrystalCap", transmuteCrystalCap])
+  keys.push([LOCATIONS_PROPERTY, "jsonl"], [BAG_SIZES_KEY, "jsonl"])
   keys.push([DATA_PROPERTY, "json"])
   return keys
 }
@@ -91,6 +154,14 @@ export async function landInventorySnapshot(
     if (contentIn(found.bodies, pagePath) !== null) return { outcome: "already", at: found.at }
     const puts = [
       { path: pagePath, content: snapshotPageBody(values, minted()) },
+      {
+        path: snapshotRowsPath(values.slug, LOCATIONS_PROPERTY),
+        content: locationRowsOf(values, minted),
+      },
+      {
+        path: snapshotRowsPath(values.slug, BAG_SIZES_PROPERTY),
+        content: bagSizeRowsOf(values, minted),
+      },
       { path: dataPath, content: JSON.stringify(values.inventory) },
     ]
     return triedFrom(

@@ -1,12 +1,15 @@
 import { expect, test } from "bun:test"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import {
+  bagSizeRowsOf,
   landInventorySnapshot,
+  locationRowsOf,
   type SnapshotValues,
   snapshotDataPath,
   snapshotPageBody,
   snapshotPageKeys,
   snapshotPagePath,
+  snapshotRowsPath,
 } from "akasha/temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.code.ts"
 import type {
   ReadFiles,
@@ -40,6 +43,50 @@ const PAGE_PATH = snapshotPagePath(SLUG)
 
 const DATA_PATH = snapshotDataPath(SLUG)
 
+const LOCATIONS_PATH = snapshotRowsPath(SLUG, "locations")
+
+const BAG_SIZES_PATH = snapshotRowsPath(SLUG, "bag-sizes")
+
+const ERIN_SCANNED = 1789495668
+
+const BANK_SCANNED = 1789495000
+
+const EMBER_SCANNED = 1789400000
+
+const MS = 1000
+
+const HELD: SnapshotValues = {
+  ...VALUES,
+  inventory: {
+    ...SCAN,
+    locations: {
+      "8796093022338107": {
+        bags: {},
+        bagSizes: { 0: 23, 1: 215 },
+        displayName: "Erin Solstice",
+        lastScanned: ERIN_SCANNED,
+      },
+      Bank: { bags: {}, bagSizes: { 1: 240 }, displayName: "Bank", lastScanned: BANK_SCANNED },
+      "Companion:Ember": { bags: {}, displayName: "Ember", lastScanned: EMBER_SCANNED },
+    },
+  },
+}
+
+function rowsIn(body: string): readonly unknown[] {
+  return body
+    .split("\n")
+    .filter((one) => one !== "")
+    .map((one) => JSON.parse(one) as unknown)
+}
+
+function counting(prefix: string): () => string {
+  let at = 0
+  return () => {
+    at += 1
+    return `${prefix}${at}`
+  }
+}
+
 function keysOf(values: SnapshotValues): Record<string, string | number | boolean> {
   return Object.fromEntries(snapshotPageKeys(values))
 }
@@ -71,6 +118,8 @@ test("a page states what the scan carries", () => {
     priceSource: "ttc",
     transmuteCrystalAmount: 2119,
     transmuteCrystalCap: 3000,
+    locations: "jsonl",
+    bagSizes: "jsonl",
     data: "json",
   })
 })
@@ -108,8 +157,49 @@ test("the page and the data file land together in one write", async () => {
     write,
   })
   expect(landed).toEqual({ outcome: "landed", at: "c2" })
-  expect(written.map((one) => one.path)).toEqual([PAGE_PATH, DATA_PATH])
-  expect(JSON.parse(written[1]?.content ?? "null")).toEqual(SCAN)
+  expect(written.map((one) => one.path)).toEqual([
+    PAGE_PATH,
+    LOCATIONS_PATH,
+    BAG_SIZES_PATH,
+    DATA_PATH,
+  ])
+  expect(JSON.parse(written[3]?.content ?? "null")).toEqual(SCAN)
+})
+
+test("a holder becomes one row saying when that holder was last read", () => {
+  expect(rowsIn(locationRowsOf(HELD, counting("r")))).toEqual([
+    {
+      id: "r1",
+      locationId: "8796093022338107",
+      displayName: "Erin Solstice",
+      lastScannedAt: new Date(ERIN_SCANNED * MS).toISOString(),
+    },
+    {
+      id: "r2",
+      locationId: "Bank",
+      displayName: "Bank",
+      lastScannedAt: new Date(BANK_SCANNED * MS).toISOString(),
+    },
+    {
+      id: "r3",
+      locationId: "Companion:Ember",
+      displayName: "Ember",
+      lastScannedAt: new Date(EMBER_SCANNED * MS).toISOString(),
+    },
+  ])
+})
+
+test("each bag of each holder becomes a row, and a holder with no bag sizes has none", () => {
+  expect(rowsIn(bagSizeRowsOf(HELD, counting("b")))).toEqual([
+    { id: "b1", locationId: "8796093022338107", bag: 0, bagSize: 23 },
+    { id: "b2", locationId: "8796093022338107", bag: 1, bagSize: 215 },
+    { id: "b3", locationId: "Bank", bag: 1, bagSize: 240 },
+  ])
+})
+
+test("a scan holding no bag holder files no row at all", () => {
+  expect(locationRowsOf(VALUES, () => "r")).toBe("")
+  expect(bagSizeRowsOf(VALUES, () => "b")).toBe("")
 })
 
 test("a scan whose page is filed already is left alone", async () => {

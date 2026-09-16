@@ -29,8 +29,20 @@ export const watcherInventorySnapshotLanding = {
       statement: "A value the scan does not carry is left off the page rather than filed as null.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A row is filed for every bag holder and every bag a scan found.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A holder's row says when that holder was last read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A holder with no bag sizes read has no bag row.",
+    },
+    {
       decisionKind: "decision-kind/gap",
-      statement: "The rows a scan's slots, bags and currencies become are not filed yet.",
+      statement: "The rows a scan's slots and currencies become are not filed yet.",
     },
   ],
 } as const satisfies Module
