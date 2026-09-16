@@ -51,17 +51,16 @@ import { shadowAsked, shadowAt } from "akasha/page/modules/shadow/shadow.module.
 
 afterAll(scratch.sweep)
 
-test("a run over the ceiling is refused by naming each file over it", () => {
-  const said = reasonOf(
-    ranAs("slow", { files: 1, failed: 0, passed: 9 }, "", [
-      { path: "akasha/one.module.test.ts", cpuSeconds: 21.4 },
-    ]),
-    ["akasha/one.module.test.ts"],
-    []
-  )
-  expect(said).toContain("akasha/one.module.test.ts")
+test("a run over the ceiling is refused by naming each file over it, and says it is over cost", () => {
+  const at = "akasha/one.module.test.ts"
+  const ran = ranAs("slow", { files: 1, failed: 0, passed: 9 }, "", [
+    { path: at, cpuSeconds: 21.4 },
+  ])
+  const said = reasonOf(ran, [at], [])
+  expect(said).toContain(at)
   expect(said).toContain("a test file is given 5 processor seconds")
   expect(said).toContain("The tests themselves are green")
+  expect(refusedOf(ran, [at], at).slow).toBe(true)
 })
 
 test("a measuring run names each file beside the seconds that file spent", () => {
@@ -284,6 +283,7 @@ test("a failing run is reported against the file whose tests failed", () => {
   expect(named[0]).toBe(SORTED_AT)
   const ran = ranAs("fail", { files: 2, failed: 1, passed: 7 }, AUTHORED_ONE_FAILED)
   expect(refusedOf(ran, named, SORTED_AT).path).toBe(COUNTED_AT)
+  expect(refusedOf(ran, named, SORTED_AT).slow).toBeUndefined()
 })
 
 test("that refusal names each file the output blames", () => {
