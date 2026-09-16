@@ -320,7 +320,6 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sale-quantity","propertySlug":"quantity","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"scanned-to","propertySlug":"scanned-to","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"seat-index","propertySlug":"seat-index","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"seq","propertySlug":"seq","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"set-id","propertySlug":"set-id","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"set-max-equip","propertySlug":"set-max-equip","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"set-number","propertySlug":"set-number","fileName":null,"folderName":null,"sorted":false}

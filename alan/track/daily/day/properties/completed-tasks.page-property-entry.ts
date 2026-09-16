@@ -7,7 +7,6 @@ export const completedTasks = {
   propertySlug: "completed-tasks",
   definition: "every round of a to-do finished on a day, one to a line",
   properties: [
-    { pageProperty: "number-property/seq", required: true, many: false },
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "instant-property/completed-at", required: true, many: false },
     { pageProperty: "calendar-date-property/due-date", required: false, many: false },

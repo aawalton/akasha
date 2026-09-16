@@ -14,7 +14,6 @@ export const healthSamples = {
     "text-property/source-name",
   ],
   properties: [
-    { pageProperty: "number-property/seq", required: true, many: false },
     { pageProperty: "text-property/metric", required: true, many: false },
     { pageProperty: "instant-property/started-at", required: true, many: false },
     { pageProperty: "instant-property/ended-at", required: true, many: false },

@@ -12,7 +12,6 @@ export const processedMessages = {
     "text-property/gmail-message-id",
   ],
   properties: [
-    { pageProperty: "number-property/seq", required: true, many: false },
     { pageProperty: "text-property/slug", required: true, many: false },
     { pageProperty: "text-property/gmail-decision", required: true, many: false },
     { pageProperty: "text-property/gmail-message-id", required: true, many: false },
