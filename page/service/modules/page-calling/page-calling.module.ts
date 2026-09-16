@@ -118,8 +118,16 @@ export const pageCalling = {
       statement: "A write may keep values outside the commit beside a path.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here appends to a page's file part, though the service answers appends.",
+      decisionKind: "decision-kind/departure",
+      statement: "A line appended beside a page is sent through this module.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An append answering no file part is refused rather than read as landed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The waiting on an append outlasts the turn the service waits for.",
     },
   ],
 } as const satisfies Module

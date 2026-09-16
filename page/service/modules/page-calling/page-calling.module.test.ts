@@ -1,7 +1,9 @@
 import { expect, test } from "bun:test"
 import {
+  APPEND_AT as APPENDS,
   ASK_AT as ASKS,
   ATTEMPTS,
+  appendingFor,
   askingFor,
   backoffFor,
   bytesSaid,
@@ -16,6 +18,7 @@ import {
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
+  APPEND_AT,
   ASK_AT,
   FILE_AT,
   READ_AT,
@@ -91,7 +94,44 @@ test("a body that will not read as JSON is not tried again", async () => {
 })
 
 test("the paths this calls are the paths the service answers at", () => {
-  expect([ASKS, READS, WRITES]).toEqual([ASK_AT, READ_AT, WRITE_AT])
+  expect([ASKS, READS, WRITES, APPENDS]).toEqual([ASK_AT, READ_AT, WRITE_AT, APPEND_AT])
+})
+
+test("an append hands over its lines and names the file part they landed in", async () => {
+  let sent = ""
+  const said = await appendingFor(
+    { path: "akasha/a.check.ts", under: "audit-logs", lines: ["{}"] },
+    (_url, init) => {
+      sent = String(init.body)
+      return Promise.resolve(
+        new Response(JSON.stringify({ appended: "akasha/a.check.audit-logs.1.uncommitted.jsonl" }))
+      )
+    },
+    neverNaps
+  )
+  expect(JSON.parse(sent).under).toBe("audit-logs")
+  expect(JSON.parse(sent).lines).toEqual(["{}"])
+  expect("appended" in said && said.appended).toBe("akasha/a.check.audit-logs.1.uncommitted.jsonl")
+})
+
+test("an append answered with no file part is refused rather than read as landed", async () => {
+  const said = await appendingFor(
+    { path: "akasha/a.check.ts", lines: ["{}"] },
+    answering(200, { held: 1 }),
+    neverNaps
+  )
+  expect("refused" in said && said.refused).toContain("naming no file part")
+})
+
+test("an append the service refuses for its own reasons is not sent again", async () => {
+  const held = counting(answering(400, { refused: "`akasha/a.check.ts` names no page here" }))
+  const said = await appendingFor(
+    { path: "akasha/a.check.ts", lines: ["{}"] },
+    held.fetcher,
+    neverNaps
+  )
+  expect("refused" in said && said.refused).toContain("names no page here")
+  expect(held.spent()).toBe(1)
 })
 
 test("the origin is read from the environment before anything else", () => {
