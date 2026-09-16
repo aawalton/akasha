@@ -32,7 +32,6 @@ export interface PageCardProps extends Omit<React.ComponentProps<"div">, "title"
   onIconChange?: (icon: IconName) => void
   defaultIconName?: string | null
   onPropertyChange?: (propertyId: string, value: unknown, eventTimeStamp?: number) => void
-  onCreateOption?: (propertyId: string, label: string) => void
   onPageNavigate?: (pageId: string) => void
   onRelationNavigate?: (propertyId: string) => void
   pageHref?: (pageId: string, opts?: { targetPageTypeId?: string }) => string

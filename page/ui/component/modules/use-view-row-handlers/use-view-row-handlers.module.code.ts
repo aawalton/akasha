@@ -2,13 +2,8 @@ import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-va
 import { createPage } from "akasha/page/access/modules/create/create.module.code.ts"
 import { deletePage } from "akasha/page/access/modules/deleting/deleting.module.code.ts"
 import type { IconName } from "akasha/page/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
-import type {
-  PageDataJSON,
-  PropertyDefinition,
-} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import { createOptionOnDefinition } from "akasha/page/ui/component/modules/create-option/create-option.module.code.ts"
+
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { useHostCreateSelectOption } from "akasha/page/ui/modules/option-create-context/option-create-context.module.code.tsx"
 import type { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticDeletePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
@@ -21,7 +16,6 @@ interface UseViewRowHandlersArgs {
   resolveRowSlug?: (pageId: string) => PageTypeSlug | undefined
   effectivePageTypeId?: string
   userId?: string | null
-  properties: readonly PropertyDefinition[]
   setProperty: ReturnType<typeof useSetPropertyOptimistic>
 }
 
@@ -30,12 +24,10 @@ export function useViewRowHandlers({
   resolveRowSlug,
   effectivePageTypeId,
   userId,
-  properties,
   setProperty,
 }: UseViewRowHandlersArgs) {
   const runCreate = useOptimisticCreatePage((args) => createPage(args))
   const runDelete = useOptimisticDeletePage((args) => deletePage(args))
-  const hostCreateOption = useHostCreateSelectOption()
   const router = usePagesUIRouter()
 
   const handleCreatePage = useCallback(
@@ -85,28 +77,10 @@ export function useViewRowHandlers({
     [setProperty, rowPageTypeSlug, resolveRowSlug]
   )
 
-  const handleCreateOption = useCallback(
-    (pageId: string, pageData: PageDataJSON, propertyId: string, label: string) => {
-      if (rowPageTypeSlug == null || hostCreateOption === null) return
-      return createOptionOnDefinition({
-        createOption: hostCreateOption,
-        properties,
-        rowPageTypeSlug,
-        setProperty,
-        pageId,
-        pageData,
-        propertyId,
-        label,
-      })
-    },
-    [hostCreateOption, properties, setProperty, rowPageTypeSlug]
-  )
-
   return {
     handleCreatePage,
     handleIconChange,
     handleDeletePage,
     handleToggleFavorite,
-    handleCreateOption,
   }
 }

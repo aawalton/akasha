@@ -19,7 +19,6 @@ export function Drawing({
   pageHref,
   relationHref,
   onPropertyChange,
-  onCreateOption,
   completion,
   onComplete,
   isFavorite,
@@ -86,7 +85,6 @@ export function Drawing({
               pageData={data}
               propertyDefinitions={definitions}
               onPropertyChange={onPropertyChange}
-              onCreateOption={onCreateOption}
               pageHref={pageHref}
               relationHref={relationHref}
             />

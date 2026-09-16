@@ -33,7 +33,6 @@ export function Drawing({
   onIconChange,
   defaultIconName,
   onPropertyChange,
-  onCreateOption,
   onPageNavigate,
   onRelationNavigate,
   pageHref,

@@ -56,7 +56,6 @@ export function PageDefaultContent({
     handleTitleChange,
     handlePropertyChange,
     handlePageNavigate,
-    handleCreateOption,
     propertyListDefs,
     richDocumentDefs,
     multiRelationDefs,
@@ -110,7 +109,6 @@ export function PageDefaultContent({
                   pageTypeSlug={targetSlug ?? undefined}
                   onPropertyChange={handlePropertyChange}
                   onPageNavigate={handlePageNavigate}
-                  onCreateOption={handleCreateOption}
                 />
               </ToggleSection>
 

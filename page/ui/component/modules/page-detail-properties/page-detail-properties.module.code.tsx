@@ -16,7 +16,6 @@ interface PageDetailPropertiesProps {
   pageTypeSlug?: string
   onPropertyChange?: (propertyId: string, value: unknown) => void
   onPageNavigate?: (pageId: string) => void
-  onCreateOption?: (propertyId: string, label: string) => void
 }
 
 export function PageDetailProperties({
@@ -26,7 +25,6 @@ export function PageDetailProperties({
   pageTypeSlug,
   onPropertyChange,
   onPageNavigate,
-  onCreateOption,
 }: PageDetailPropertiesProps) {
   const bodyDefs = useMemo(() => {
     const reservedExclusions: readonly string[] = RESERVED_PROPERTY_IDS
@@ -52,7 +50,6 @@ export function PageDetailProperties({
             pageTypeSlug={pageTypeSlug}
             onPropertyChange={wrappedOnPropertyChange}
             onPageNavigate={onPageNavigate}
-            onCreateOption={onCreateOption}
           />
         ))}
     </div>

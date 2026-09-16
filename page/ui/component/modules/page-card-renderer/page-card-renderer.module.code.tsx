@@ -1,10 +1,7 @@
 "use client"
 
 import type { IconName } from "akasha/page/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
-import type {
-  PageDataJSON,
-  PropertyDefinition,
-} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { completionShapeOf } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import {
   type GalleryCardSize,
@@ -39,12 +36,6 @@ interface PageCardRendererProps {
     eventTimeStamp?: number
   ) => void
   onComplete?: (page: PageRow, atMs: number | null) => void
-  onCreateOption?: (
-    pageId: string,
-    pageData: PageDataJSON,
-    propertyId: string,
-    label: string
-  ) => void
   onDelete?: (pageId: string) => void
   onToggleFavorite?: (pageId: string, value: number | null) => void
   galleryCardSize?: GalleryCardSize
@@ -67,7 +58,6 @@ export function PageCardRenderer({
   onIconChange,
   onPropertyChange,
   onComplete,
-  onCreateOption,
   onDelete,
   onToggleFavorite,
   galleryCardSize,
@@ -120,11 +110,6 @@ export function PageCardRenderer({
       }
       completion={completion}
       onComplete={onComplete != null ? (value) => onComplete(page, value) : undefined}
-      onCreateOption={
-        onCreateOption != null
-          ? (propertyId, label) => onCreateOption(id, pageData, propertyId, label)
-          : undefined
-      }
       onDelete={onDelete != null ? () => onDelete(id) : undefined}
       onToggleFavorite={
         onToggleFavorite != null ? (value) => onToggleFavorite(id, value) : undefined

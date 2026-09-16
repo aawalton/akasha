@@ -19,7 +19,6 @@ export const pageUi = {
     "module/action-verb-registry",
     "module/capability-hosts",
     "module/navigation-context",
-    "module/option-create-context",
     "module/page-card-perf",
     "module/reorder-verb-registry",
     "module/use-user-id",

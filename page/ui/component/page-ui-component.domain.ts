@@ -15,7 +15,6 @@ export const pageUiComponent = {
     "module/build-server-grouped-sections",
     "module/card-property-columns",
     "module/chrome-toggle-decider",
-    "module/create-option",
     "module/create-page-dialog",
     "module/create-view-popover",
     "module/date-time-filter-inputs",

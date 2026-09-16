@@ -85,20 +85,14 @@ export function ViewTabContent({
   const completePage = useCompletePageOptimistic()
   const userId = useUserId()
 
-  const {
-    handleCreatePage,
-    handleIconChange,
-    handleDeletePage,
-    handleToggleFavorite,
-    handleCreateOption,
-  } = useViewRowHandlers({
-    rowPageTypeSlug,
-    resolveRowSlug,
-    effectivePageTypeId,
-    userId,
-    properties,
-    setProperty,
-  })
+  const { handleCreatePage, handleIconChange, handleDeletePage, handleToggleFavorite } =
+    useViewRowHandlers({
+      rowPageTypeSlug,
+      resolveRowSlug,
+      effectivePageTypeId,
+      userId,
+      setProperty,
+    })
 
   const visibleProperties = viewConfig?.visible_properties
   const hiddenPropertiesOrder = viewConfig?.hidden_properties_order
@@ -249,9 +243,6 @@ export function ViewTabContent({
               isLocked(effectiveConfig, "editRowValues") ? undefined : handlePropertyChange
             }
             onComplete={isLocked(effectiveConfig, "editRowValues") ? undefined : handleComplete}
-            onCreateOption={
-              isLocked(effectiveConfig, "editRowValues") ? undefined : handleCreateOption
-            }
             onDelete={isLocked(effectiveConfig, "deletePage") ? undefined : handleDeletePage}
             onToggleFavorite={handleToggleFavorite}
           />
@@ -274,11 +265,6 @@ export function ViewTabContent({
                   ? undefined
                   : (propertyId, value, eventTimeStamp) =>
                       handlePropertyChange(id, propertyId, value, eventTimeStamp)
-              }
-              onCreateOption={
-                isLocked(effectiveConfig, "editRowValues")
-                  ? undefined
-                  : (propertyId, label) => handleCreateOption(id, pageData, propertyId, label)
               }
               completion={completion}
               onComplete={

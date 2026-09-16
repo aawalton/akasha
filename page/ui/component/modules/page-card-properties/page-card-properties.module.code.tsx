@@ -26,7 +26,6 @@ interface PageCardPropertiesProps {
   pageHref?: (pageId: string, opts?: { targetPageTypeId?: string }) => string
   relationHref?: (propertyId: string) => string
   onCardNavigate?: () => void
-  onCreateOption?: (propertyId: string, label: string) => void
   pageId?: string
   pageTypeSlug?: string
 }
@@ -42,7 +41,6 @@ export function PageCardProperties({
   pageHref,
   relationHref,
   onCardNavigate,
-  onCreateOption,
   pageId,
   pageTypeSlug,
 }: PageCardPropertiesProps) {
@@ -92,7 +90,6 @@ export function PageCardProperties({
         pageHref={pageHref}
         relationHref={relationHref}
         onCardNavigate={onCardNavigate}
-        onCreateOption={onCreateOption}
       />
     )
   }

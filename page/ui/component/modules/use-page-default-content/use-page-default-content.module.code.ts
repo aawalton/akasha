@@ -6,7 +6,6 @@ import { computeAggregatesForPage } from "akasha/page/core/property-type/modules
 import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
-import { createOptionOnDefinition } from "akasha/page/ui/component/modules/create-option/create-option.module.code.ts"
 import {
   toAggregateInputs,
   toPageDataJSON,
@@ -18,7 +17,7 @@ import {
   PAGE_TYPE_SLUG,
 } from "akasha/page/ui/component/modules/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { useHostCreateSelectOption } from "akasha/page/ui/modules/option-create-context/option-create-context.module.code.tsx"
+
 import {
   useAllPages,
   useRelatedPages,
@@ -41,7 +40,6 @@ export function usePageDefaultContent({
   id: string
 }) {
   const router = usePagesUIRouter()
-  const hostCreateOption = useHostCreateSelectOption()
   const { page, isLoading } = usePage({ pageTypeSlug, id })
   const { pages: pageTypes } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
 
@@ -160,23 +158,6 @@ export function usePageDefaultContent({
     typeof pageType?.properties?.icon === "string" ? pageType.properties.icon : null
   const displayIconName = ownIconName ?? pageTypeIconName ?? null
 
-  const handleCreateOption = useCallback(
-    (propertyId: string, label: string) => {
-      if (targetSlug == null || hostCreateOption === null) return
-      return createOptionOnDefinition({
-        createOption: hostCreateOption,
-        properties: allDefinitions,
-        rowPageTypeSlug: targetSlug,
-        setProperty,
-        pageId: id,
-        pageData: data,
-        propertyId,
-        label,
-      })
-    },
-    [allDefinitions, hostCreateOption, setProperty, id, data, targetSlug]
-  )
-
   const handlePageNavigate = useCallback(
     (pageId: string) => {
       const match = relatedPages.find((p) => p._id === pageId)
@@ -220,7 +201,6 @@ export function usePageDefaultContent({
     handleTitleChange,
     handlePropertyChange,
     handlePageNavigate,
-    handleCreateOption,
     propertyListDefs,
     richDocumentDefs,
     multiRelationDefs,

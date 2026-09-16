@@ -33,7 +33,6 @@ export interface PropertyBadgeProps {
   pageHref?: (pageId: string, opts?: { targetPageTypeId?: string }) => string
   relationHref?: (propertyId: string) => string
   onCardNavigate?: () => void
-  onCreateOption?: (propertyId: string, label: string) => void
   pageId?: string
   pageTypeSlug?: string
 }

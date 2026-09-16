@@ -21,7 +21,6 @@ export interface PropertyRowProps {
   propertyDefinitions?: ReadonlyArray<PropertyDefinition>
   onPropertyChange?: (propertyId: string, value: PropertyValue, eventTimeStamp?: number) => void
   onPageNavigate?: (pageId: string) => void
-  onCreateOption?: (propertyId: string, label: string) => void
   pageId?: string
   pageTypeSlug?: string
 }

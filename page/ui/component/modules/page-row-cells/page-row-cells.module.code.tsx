@@ -28,7 +28,6 @@ export interface PageRowCellsProps {
   pageHref?: (pageId: string, opts?: { targetPageTypeId?: string }) => string
   relationHref?: (propertyId: string) => string
   onPropertyChange?: (propertyId: string, value: unknown, eventTimeStamp?: number) => void
-  onCreateOption?: (propertyId: string, label: string) => void
   completion?: CompletionShape | null
   onComplete?: (value: number | null) => void
   isFavorite?: boolean

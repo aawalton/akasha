@@ -27,17 +27,12 @@ import { CreatePageDialog } from "akasha/page/ui/component/modules/create-page-d
 import { SortableNavs } from "akasha/page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx"
 import { useAppNavItems } from "akasha/page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"
 import { useActiveQuickAddPageType } from "akasha/page/ui/component/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"
-import {
-  type CreateSelectOptionEffect,
-  PagesUIOptionCreateProvider,
-} from "akasha/page/ui/modules/option-create-context/option-create-context.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { useAllPages } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { LogIn, LogOut } from "lucide-react"
 import { useCallback, useEffect, useMemo, useState } from "react"
 import { Link } from "react-router"
-import { z } from "zod"
 
 interface AppShellProps {
   children: React.ReactNode
@@ -86,26 +81,6 @@ function AuthFooter({ user }: { user: { id: string } | null }) {
 }
 
 const staticBottomSections = [navItemContent, navItemTech] as const
-
-const optionCreateSuccessSchema = z.object({
-  ok: z.literal(true),
-  option: z.object({ id: z.string(), label: z.string() }),
-  created: z.boolean(),
-})
-const optionCreateErrorSchema = z.object({ ok: z.literal(false), error: z.string() })
-
-const createSelectOption: CreateSelectOptionEffect = async ({ definitionId, label }) => {
-  const res = await fetch("/api/property-option", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ definitionId, label }),
-  })
-  if (!res.ok) {
-    const parsed = optionCreateErrorSchema.safeParse(await res.json().catch(() => null))
-    throw new Error(parsed.success ? parsed.data.error : "Failed to add option.")
-  }
-  return optionCreateSuccessSchema.parse(await res.json()).option
-}
 
 function AdminDialogs() {
   const [quickAddOpen, setQuickAddOpen] = useState(false)
@@ -232,9 +207,7 @@ export function AppShell(props: AppShellProps) {
   return (
     <LayoutRouterAdapter>
       <PagesUIRouterAdapter>
-        <PagesUIOptionCreateProvider value={createSelectOption}>
-          <AppShellInner {...props} />
-        </PagesUIOptionCreateProvider>
+        <AppShellInner {...props} />
       </PagesUIRouterAdapter>
     </LayoutRouterAdapter>
   )
