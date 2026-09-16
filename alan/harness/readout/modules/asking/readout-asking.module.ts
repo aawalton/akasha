@@ -6,7 +6,6 @@ export const readoutAsking = {
   slug: "readout-asking",
   definition: "the asking a readout reaches the store through",
   code: "ts",
-  test: "ts",
   testFixtures: "ts",
   decisions: [
     {
@@ -16,19 +15,6 @@ export const readoutAsking = {
     {
       decisionKind: "decision-kind/departure",
       statement: "An answer is a refusal or rows rather than rows that may be missing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A fault names the reading that could not be taken ahead of the store's own words.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A question no row answers is no row rather than a fault.",
     },
     {
       decisionKind: "decision-kind/absence",

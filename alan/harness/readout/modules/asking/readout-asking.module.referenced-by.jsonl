@@ -9,9 +9,7 @@
 {"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.reading.code.ts"}
 {"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.reading.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/readout/modules/asking/readout-asking.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/readout/modules/asking/readout-asking.module.test.ts"}
 {"propertySlug":"import","fileName":"readout-asking.module.test-fixtures.ts","path":"alan/attribute/pages/constitution/constitution.attribute.test.ts"}
 {"propertySlug":"import","fileName":"readout-asking.module.test-fixtures.ts","path":"alan/attribute/pages/luck/luck.attribute.test.ts"}
 {"propertySlug":"import","fileName":"readout-asking.module.test-fixtures.ts","path":"alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.reading.test.ts"}
-{"propertySlug":"import","fileName":"readout-asking.module.test-fixtures.ts","path":"alan/harness/readout/modules/asking/readout-asking.module.test.ts"}
 {"propertySlug":"parts","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}
