@@ -70,14 +70,6 @@ export const propertySitsUnderThePageItIsAPartOf = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Nothing is judged while this page states `experimental`.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "`experimental` comes off this page where Alan has approved this check.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "Alan approved this check in the turn that asked for it.",
     },
     {
@@ -87,5 +79,4 @@ export const propertySitsUnderThePageItIsAPartOf = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-  experimental: true,
 } as const satisfies CheckCode
