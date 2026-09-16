@@ -17,6 +17,14 @@ export const judging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A refusal says whether the refusal is about what the check cost.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal saying nothing about cost is about what the check found.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An audit is handed the root alone.",
     },
     {

@@ -58,6 +58,19 @@ export const deployCheckJudging = {
       statement: "A refusal names the file and what the check said of it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A check refusing over what that check cost refuses no deploy.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A deploy carries code a landing judged already, and that landing refused on cost.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a check found still refuses the deploy.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here says which files a deploy is built from.",
     },

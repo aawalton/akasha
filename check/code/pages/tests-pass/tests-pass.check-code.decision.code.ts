@@ -211,6 +211,7 @@ export function refusedOf(ran: Ran, named: readonly string[], first: string): Ju
   return {
     path: ran.slow[0]?.path ?? failing[0] ?? first,
     reason: reasonOf(ran, named, failing),
+    ...(ran.verdict === "slow" ? { slow: true } : {}),
   }
 }
 

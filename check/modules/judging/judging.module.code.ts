@@ -5,6 +5,7 @@ export type Judged = {
   readonly path: string
   readonly reason: string
   readonly threw?: boolean
+  readonly slow?: boolean
 }
 
 export type Running = (change: Change, shadow: Shadow) => readonly Judged[]

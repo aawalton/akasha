@@ -139,6 +139,10 @@ export const testsPass = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That refusal says it is about cost rather than about what the run found.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "That refusal names each file over the ceiling.",
     },
     {

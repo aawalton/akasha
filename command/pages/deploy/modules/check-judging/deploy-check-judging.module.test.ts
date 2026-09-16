@@ -58,6 +58,19 @@ test("a refusal names the file and what the check said of it", () => {
   ])
 })
 
+test("a check refusing over what that check cost refuses no deploy", () => {
+  expect(saidOf([{ path: "one.test.ts", reason: "it spent 6.4 seconds", slow: true }])).toEqual([])
+})
+
+test("what a check found still refuses the deploy beside a refusal over cost", () => {
+  expect(
+    saidOf([
+      { path: "one.test.ts", reason: "it spent 6.4 seconds", slow: true },
+      { path: "two.ts", reason: "it climbs to a parent folder" },
+    ])
+  ).toEqual(["two.ts — it climbs to a parent folder"])
+})
+
 test("checks that will not load refuse the deploy by name", () => {
   const said = saidOfNoGate("atlas", "the file is not there")
   expect(said).toContain("atlas")

@@ -47,7 +47,7 @@ export function saidOfNoGate(slug: string, broken: string): string {
 }
 
 export function saidOf(judged: readonly Judged[]): readonly string[] {
-  return judged.map((one) => `${one.path} — ${one.reason}`)
+  return judged.filter((one) => one.slow !== true).map((one) => `${one.path} — ${one.reason}`)
 }
 
 export async function judgedOnDeploy(
