@@ -23,7 +23,6 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web-capacitor/routes/alan-web-capacitor-page-listing/alan-web-capacitor-page-listing.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web-capacitor/routes/alan-web-capacitor-sign-in/alan-web-capacitor-sign-in.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/about/about.route.ts"}
-{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-catalog/alan-web-api-catalog.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-chess-analyze/alan-web-api-chess-analyze.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-device-secret-mint/alan-web-api-device-secret-mint.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-device-secret-revoke/alan-web-api-device-secret-revoke.route.ts"}
@@ -31,7 +30,6 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-health/alan-web-api-health.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-image/alan-web-api-image.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-live-version/alan-web-api-live-version.route.ts"}
-{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-load/alan-web-api-load.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-media-ensure/alan-web-api-media-ensure.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-media-hls-playlist/alan-web-api-media-hls-playlist.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-media-hls-segment/alan-web-api-media-hls-segment.route.ts"}
@@ -46,7 +44,6 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-pages/alan-web-api-pages.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-picture/alan-web-api-picture.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.ts"}
-{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-save/alan-web-api-save.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.ts"}
@@ -55,7 +52,6 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-contact/alan-web-contact.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-design/alan-web-design.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-home/alan-web-home.route.ts"}
-{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-idle/alan-web-idle.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-landing/alan-web-landing.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-page-detail/alan-web-page-detail.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-page-listing/alan-web-page-listing.route.ts"}

@@ -21,7 +21,7 @@ export default [
   route("sign-in", "routes/alan-web-sign-in/alan-web-sign-in.route.code.tsx"),
   route("sign-up", "routes/alan-web-sign-up/alan-web-sign-up.route.code.tsx"),
   route("sign-out", "routes/alan-web-sign-out/alan-web-sign-out.route.code.ts"),
-  route("idle", "routes/alan-web-idle/alan-web-idle.route.code.ts"),
+
   route("api/health", "routes/alan-web-api-health/alan-web-api-health.route.code.ts"),
   route("api/pages-ready", "routes/pages-ready/pages-ready.route.code.ts"),
   route(
@@ -93,9 +93,7 @@ export default [
     "routes/alan-web-api-media-hls-segment/alan-web-api-media-hls-segment.route.code.ts"
   ),
   route("api/media/:pageId/:medium", "routes/alan-web-api-media/alan-web-api-media.route.code.ts"),
-  route("api/load", "routes/alan-web-api-load/alan-web-api-load.route.code.ts"),
-  route("api/save", "routes/alan-web-api-save/alan-web-api-save.route.code.ts"),
-  route("api/catalog", "routes/alan-web-api-catalog/alan-web-api-catalog.route.code.ts"),
+
   route(
     "api/chess/analyze",
     "routes/alan-web-api-chess-analyze/alan-web-api-chess-analyze.route.code.ts"
