@@ -7,6 +7,7 @@ import {
 } from "akasha/change/modules/gated-landing/gated-landing.module.code.ts"
 import { whyRefused } from "akasha/change/modules/gated-write/gated-write.module.code.ts"
 import { CEILING } from "akasha/check/code/pages/file-length/file-length.check-code.decision.code.ts"
+import { inCluster } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
@@ -20,9 +21,15 @@ import {
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { slugAt, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
+  type Writing,
+  writingFor,
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import {
   composedFor,
+  type Naming,
   pagesAtFor,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import type { Wrote } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 
 const MESSAGE = "message"
 
@@ -99,12 +106,17 @@ function unknownRecipient(to: string): string | null {
   )
 }
 
-export async function writeMessage(stated: {
-  readonly to: string
-  readonly from: string
-  readonly warrant: Warrant
-  readonly body: string
-}): Promise<Written> {
+export type Sending = (asked: Writing) => Promise<Wrote>
+
+export async function writeMessage(
+  stated: {
+    readonly to: string
+    readonly from: string
+    readonly warrant: Warrant
+    readonly body: string
+  },
+  sending: Sending = writingFor
+): Promise<Written> {
   const refused = recipientRefused(stated.to)
   if (refused !== null) return { kind: "refused", detail: refused }
   const unknown = unknownRecipient(stated.to)
@@ -113,7 +125,7 @@ export async function writeMessage(stated: {
   const slug = messageNamed(id)
   const root = akashaRoot()
   const body = stated.body.endsWith("\n") ? stated.body : `${stated.body}\n`
-  const composed = composedFor(root, {
+  const naming: Naming = {
     pageTypeSlug: MESSAGE,
     slug,
     values: {
@@ -125,7 +137,8 @@ export async function writeMessage(stated: {
       warrant: stated.warrant,
       body,
     },
-  })
+  }
+  const composed = composedFor(root, naming)
   if ("refused" in composed) return { kind: "refused", detail: composed.refused }
   const held = new TextEncoder().encode(composed.put.content).byteLength
   if (held > CEILING) {
@@ -136,13 +149,16 @@ export async function writeMessage(stated: {
         `and a page over that ceiling can never be changed again, so send fewer words`,
     }
   }
-  const landed = await landBodies(
-    { repo: AKASHA, writer: WRITER, message: `message to ${stated.to} from ${stated.from}` },
-    [{ relPath: composed.put.path, body: composed.put.content }]
-  )
-  return landed.ok
-    ? { kind: "written", id: slug, relPath: composed.put.path }
-    : { kind: "refused", detail: whyRefused(landed.why) }
+  const said = `message to ${stated.to} from ${stated.from}`
+  const written: Written = { kind: "written", id: slug, relPath: composed.put.path }
+  if (inCluster()) {
+    const wrote = await sending({ writer: WRITER, message: said, pages: [naming] })
+    return "refused" in wrote ? { kind: "refused", detail: wrote.refused } : written
+  }
+  const landed = await landBodies({ repo: AKASHA, writer: WRITER, message: said }, [
+    { relPath: composed.put.path, body: composed.put.content },
+  ])
+  return landed.ok ? written : { kind: "refused", detail: whyRefused(landed.why) }
 }
 
 function msOf(said: unknown): number | null {

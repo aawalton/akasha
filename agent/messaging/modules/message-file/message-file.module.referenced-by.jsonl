@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"message-file.module.code.ts","path":"agent/messaging/modules/agent-record/agent-record.module.code.ts"}
 {"propertySlug":"import","fileName":"message-file.module.code.ts","path":"agent/messaging/modules/message-file-watch/message-file-watch.module.code.ts"}
+{"propertySlug":"import","fileName":"message-file.module.code.ts","path":"agent/messaging/modules/message-file/message-file.module.test.ts"}
 {"propertySlug":"import","fileName":"message-file.module.code.ts","path":"agent/messaging/modules/messages-agent-tools/messages-agent-tools.module.code.ts"}
 {"propertySlug":"import","fileName":"message-file.module.code.ts","path":"agent/messaging/modules/supervisor-message-claim/supervisor-message-claim.module.code.ts"}
 {"propertySlug":"import","fileName":"message-file.module.code.ts","path":"agent/messaging/recipient-resolving/modules/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts"}

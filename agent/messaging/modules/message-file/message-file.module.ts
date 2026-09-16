@@ -6,6 +6,7 @@ export const messageFile = {
   slug: "message-file",
   definition: "a message on disk: written as a page, read from both stores, and taken once read",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -18,6 +19,26 @@ export const messageFile = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A message is written to the page store alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message a run in the cluster writes is sent to the pages service.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message a run on the workstation writes is landed in the checkout it holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The values sent and the values landed are composed once and are the same values.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message the pages refused is refused with what the pages said.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller may put a pages writer of its own in place of the one reaching out.",
     },
     {
       decisionKind: "decision-kind/departure",
