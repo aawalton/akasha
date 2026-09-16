@@ -202,7 +202,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/type/page-property/properties/max-length.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/view/properties/group-page-size.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/view/properties/item-page-size.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/view/properties/live-refresh-ms.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/view/properties/page-size.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/view/properties/view-place.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/bodyweight.number-property.ts"}

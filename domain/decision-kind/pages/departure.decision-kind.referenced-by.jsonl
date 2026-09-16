@@ -3053,7 +3053,6 @@
 {"propertySlug":"decision-kind","path":"page/view/properties/group-granularity.select-property.ts","id":"01a0680d-4d00-7009-8c62-3f7a1d5b410a"}
 {"propertySlug":"decision-kind","path":"page/view/properties/group-sorts.record-property.ts","id":"01a0680d-4d00-7008-a715-4d2b9c8e4109"}
 {"propertySlug":"decision-kind","path":"page/view/properties/layout.select-property.ts","id":"01a0680d-4d00-7003-9c58-7b4e2a6d4104"}
-{"propertySlug":"decision-kind","path":"page/view/properties/live-refresh-ms.number-property.ts","id":"01a0680d-4d00-7013-9a16-8c4b2d7e4114"}
 {"propertySlug":"decision-kind","path":"page/view/properties/narrow-comparison.select-property.ts","id":"01a063ee-2a3b-7703-9869-e8ab3280d56f"}
 {"propertySlug":"decision-kind","path":"page/view/properties/narrow-key.text-property.ts","id":"01a063ee-2a3b-7005-88c7-33c0811a55ea"}
 {"propertySlug":"decision-kind","path":"page/view/properties/narrow-values.text-property.ts","id":"01a063ee-2a3b-74ff-8037-ee9c7cf9f335"}

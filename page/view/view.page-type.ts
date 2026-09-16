@@ -11,7 +11,6 @@ export const view = {
     "boolean-property/sort-descending",
     "number-property/group-page-size",
     "number-property/item-page-size",
-    "number-property/live-refresh-ms",
     "number-property/page-size",
     "number-property/view-place",
     "record-property/group-sorts",
@@ -70,7 +69,6 @@ export const view = {
     { pageProperty: "text-property/gallery-cover-source", required: false, many: false },
     { pageProperty: "select-property/gallery-card-size", required: false, many: false },
     { pageProperty: "text-property/reorder-command", required: false, many: false },
-    { pageProperty: "number-property/live-refresh-ms", required: false, many: false },
     { pageProperty: "boolean-property/locked-page-type", required: false, many: false },
   ],
   decisions: [

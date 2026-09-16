@@ -10,7 +10,6 @@ import type { GroupSorts } from "akasha/page/view/properties/group-sorts.record-
 import type { HiddenPropertiesOrder } from "akasha/page/view/properties/hidden-properties-order.text-property.types.ts"
 import type { ItemPageSize } from "akasha/page/view/properties/item-page-size.number-property.types.ts"
 import type { Layout } from "akasha/page/view/properties/layout.select-property.types.ts"
-import type { LiveRefreshMs } from "akasha/page/view/properties/live-refresh-ms.number-property.types.ts"
 import type { LockedPageType } from "akasha/page/view/properties/locked-page-type.boolean-property.types.ts"
 import type { Narrows } from "akasha/page/view/properties/narrows.record-property.types.ts"
 import type { Nav } from "akasha/page/view/properties/nav.relation-property.types.ts"
@@ -43,6 +42,5 @@ export type View = Page & {
   galleryCoverSource?: GalleryCoverSource
   galleryCardSize?: GalleryCardSize
   reorderCommand?: ReorderCommand
-  liveRefreshMs?: LiveRefreshMs
   lockedPageType?: LockedPageType
 }
