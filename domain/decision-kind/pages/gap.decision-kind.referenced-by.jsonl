@@ -306,6 +306,7 @@
 {"propertySlug":"decision-kind","path":"graph/attribute/pages/names.graph-attribute.ts","id":"01a0a657-ee99-79ce-80ca-38525c881a53"}
 {"propertySlug":"decision-kind","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
 {"propertySlug":"decision-kind","path":"graph/modules/asking/graph-asking.module.ts","id":"01a04ff4-320c-7689-9d79-b3b0caa05ab1"}
+{"propertySlug":"decision-kind","path":"graph/predicate/properties/follows.record-property.ts","id":"01a0aa5f-a005-71bc-9953-a98187d70707"}
 {"propertySlug":"decision-kind","path":"infrastructure/alert/alert.page-type.ts","id":"01a06755-0778-7804-96f1-949fc3c68e4f"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/cluster.domain.ts","id":"01a073f1-e67a-717a-9d6a-324244b75878"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/manifest/app-namespaces-synth/app-namespaces-synth.manifest.ts","id":"01a06810-1262-75ee-aa84-9009c06798cf"}

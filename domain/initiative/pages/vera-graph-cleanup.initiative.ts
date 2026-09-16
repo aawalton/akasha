@@ -11,7 +11,7 @@ export const veraGraphCleanup = {
       statement:
         "Every closure over the graph's edges is worked out in the graph rather than by each caller.",
       workingMemory:
-        "Not met. Four closures go through the graph: `dockerfile-imports` `ab84af48094`, `supervisor-file-version` `03682a4c641`, `remove-file-page` `c98fae9a35e`, `extension-host-reaches-no-bun-code` `c22258f21ec`, audited clean over the tree. `no-import-cycle` has `at-load-imports` to move onto. `no-refused-syntax` is a loader, no import reader. Fourteen files close over `extends` and five over `parts`; four of the fourteen cannot call the graph without a cycle.",
+        "Not met. Six closures go through the graph: `dockerfile-imports` `ab84af48094`, `supervisor-file-version` `03682a4c641`, `remove-file-page` `c98fae9a35e`, `extension-host-reaches-no-bun-code` `c22258f21ec`, `no-import-cycle` `dce54f7e3b9`, `domain-ancestors` `e947dacee`. A relation is answered going out as well as coming in since `f511bf8e5bb`. Twenty-five hand walks over `parts` and `extends` are left, eighteen of them outward, four walled off from the graph by load order.",
     },
     {
       statement: "Every closure the graph answers is quick enough to ask on every landing.",

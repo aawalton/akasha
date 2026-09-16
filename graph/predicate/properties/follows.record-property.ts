@@ -23,6 +23,11 @@ export const follows = {
       decisionKind: "decision-kind/departure",
       statement: "One edge kind carrying many attributes is told apart here rather than divided.",
     },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "A predicate follows an edge carrying any one of the values it names for an attribute.",
+    },
   ],
   types: "ts",
 } as const satisfies RecordProperty
