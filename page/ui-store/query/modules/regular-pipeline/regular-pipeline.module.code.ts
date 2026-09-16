@@ -83,7 +83,7 @@ interface OrderClause {
 }
 
 function orderClauses(order: PageOrder | undefined): readonly OrderClause[] {
-  const items = order ?? [{ by: "seq", dir: "asc" as const }]
+  const items = order ?? []
   const seen = new Set<string>()
   const out: OrderClause[] = []
   for (const o of items) {

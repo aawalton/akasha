@@ -18,7 +18,6 @@ const CHAPTER_IN_THE_STORE: Readonly<Record<string, unknown>> = {
   position: 0,
   ownLength: BODY.length,
   body: BODY,
-  seq: 1,
   slug: "chapter-1-00",
   icon: null,
   userId: "01a0655d-daa6-7fdf-b1e7-000000000002",

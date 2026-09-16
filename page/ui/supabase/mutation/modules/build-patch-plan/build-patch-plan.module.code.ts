@@ -11,7 +11,6 @@ const PromotedColumnPatchSchema = z
     icon: z.string().nullable().optional(),
     slug: z.string().nullable().optional(),
     page_type_id: z.string().optional(),
-    seq: z.number().int().optional(),
     page_type_slug: z.string().optional(),
     completed_at: z.string().nullable().optional(),
   })
@@ -21,7 +20,6 @@ export type PromotedColumnPatch = z.infer<typeof PromotedColumnPatchSchema>
 
 const CAMEL_TO_SNAKE: Record<string, string> = {
   id: "id",
-  seq: "seq",
   title: "title",
   icon: "icon",
   slug: "slug",

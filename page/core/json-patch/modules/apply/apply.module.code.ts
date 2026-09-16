@@ -12,7 +12,6 @@ import type { JsonPatchOp } from "akasha/page/core/view-state/modules/view-state
 
 const SYSTEM_KEYS: ReadonlySet<string> = new Set([
   "id",
-  "seq",
   "pageTypeId",
   "type",
   "pageTypeSlug",

@@ -2,7 +2,6 @@ export type PageAccessClient = unknown
 
 export interface Page {
   readonly id: string
-  readonly seq: number
   readonly [key: string]: unknown
 }
 

@@ -3033,7 +3033,6 @@
 {"propertySlug":"decision-kind","path":"page/ui-store/query/modules/condition-eval/condition-eval.module.ts","id":"01a05b69-454c-7ec3-ba3c-2370dee03d6a"}
 {"propertySlug":"decision-kind","path":"page/ui-store/query/modules/condition-expr/condition-expr.module.ts","id":"01a05b69-454d-7b7a-b33e-c2de2e06ae06"}
 {"propertySlug":"decision-kind","path":"page/ui-store/query/modules/view-match/view-match.module.ts","id":"01a05b69-4551-75ff-b040-d348271da6aa"}
-{"propertySlug":"decision-kind","path":"page/ui-store/realtime/modules/payload-translator/payload-translator.module.ts","id":"01a05b69-4556-79e3-bbe6-95c694d630da"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/drawings-found/drawings-found.module.ts","id":"01a0a065-7b7d-75b8-95b0-3acd9a5dcade"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/page-badge/page-badge.module.ts","id":"01a0a0ee-a089-744e-97de-3252e3e662e7"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/page-card/page-card.module.ts","id":"01a06257-46e9-7c06-a8f0-6a18df5082fb"}

@@ -44,7 +44,6 @@ function rowFor(slug: string | null): Parameters<typeof withDefinitions>[0][numb
   return {
     id: slug ?? "none",
     page_type_id: "one",
-    seq: null,
     title: null,
     icon: null,
     attributes: { displayName: "To Do" },

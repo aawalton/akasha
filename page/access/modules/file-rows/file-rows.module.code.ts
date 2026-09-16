@@ -1,6 +1,5 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
-import { parsePageSeq } from "akasha/page/access/modules/parse-page-seq/parse-page-seq.module.code.ts"
 import type { RawPageRow } from "akasha/page/access/modules/raw-page-row/raw-page-row.module.code.ts"
 import type { QueryRow } from "akasha/page/access/modules/types/types.module.code.ts"
 import {
@@ -30,7 +29,6 @@ const SETTLED_BY_ROW: ReadonlySet<string> = new Set([
   "pageTypeId",
   "type",
   "pageTypeSlug",
-  "seq",
 ])
 
 function isLifted(key: string): key is LiftedKey {
@@ -142,7 +140,6 @@ export function buildRawPageRows({
     return {
       id: idOfFilePage(column("id"), row.at ?? `${pageTypeSlug}:${JSON.stringify(row.values)}`),
       page_type_id: pageTypeId,
-      seq: parsePageSeq(row.values.seq ?? null, row.at ?? pageTypeSlug),
       title: column("title"),
       icon: column("icon"),
       attributes,

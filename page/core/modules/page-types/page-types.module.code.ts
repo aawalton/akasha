@@ -3,7 +3,6 @@ import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-t
 
 export type Page = {
   id: string
-  seq: number | null
   title: string | null
   icon: string | null
   slug: string | null

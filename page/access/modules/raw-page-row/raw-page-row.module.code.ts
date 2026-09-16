@@ -1,7 +1,6 @@
 export type RawPageRow = {
   id: string
   page_type_id: string
-  seq: number | null
   title: string | null
   icon: string | null
   attributes: unknown

@@ -13,7 +13,10 @@ describe("a narrow is lowered whole or it refuses", () => {
   })
 
   test("a number is lowered as its text, because a test carries text", () => {
-    expect(loweredFrom({ key: "seq", eq: 3 })).toEqual({ key: "seq", test: { is: "3" } })
+    expect(loweredFrom({ key: "position", eq: 3 })).toEqual({
+      key: "position",
+      test: { is: "3" },
+    })
   })
 
   test("in lowers to `in`", () => {

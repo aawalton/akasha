@@ -31,7 +31,6 @@ export const pageAccess = {
     "module/over-server",
     "module/page-type",
     "module/page-type-config",
-    "module/parse-page-seq",
     "module/patch",
     "module/raw-page-row",
     "module/routing-core",

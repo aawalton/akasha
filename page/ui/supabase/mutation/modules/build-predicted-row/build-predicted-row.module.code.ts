@@ -17,7 +17,6 @@ export function buildPredictedRow(
     id,
     page_type_id: pageTypeId,
     page_type_slug: args.pageTypeSlug,
-    seq: 0,
     title: stringAt(props, "title"),
     icon: stringAt(props, "icon"),
     slug: stringAt(props, "slug"),

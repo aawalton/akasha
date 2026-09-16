@@ -38,7 +38,7 @@ const MINED_ITEM_DATA_KEYS = [
   "minedAt",
 ].sort()
 
-const LEAKED_KEYS = ["userId", "id", "seq", "pageTypeId", "slug", "title"]
+const LEAKED_KEYS = ["userId", "id", "pageTypeId", "slug", "title"]
 
 const ROW_FIELDS: Record<string, unknown> = {
   itemId: "12345",
@@ -75,7 +75,6 @@ const ROW_FIELDS: Record<string, unknown> = {
   flavorText: "",
   userId: "00000000-0000-0000-0000-000000000000",
   id: "page-uuid-abc",
-  seq: "42",
   pageTypeId: "type-uuid-xyz",
   slug: "12345",
   title: "Ring of the Wild Hunt",

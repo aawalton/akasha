@@ -46,12 +46,7 @@ export type FileReadDeps = {
   readonly roster: () => Promise<ReadonlySet<string>>
 }
 
-const NON_NULLABLE_ORDER_KEYS: ReadonlySet<string> = new Set([
-  "id",
-  "seq",
-  "createdAt",
-  "updatedAt",
-])
+const NON_NULLABLE_ORDER_KEYS: ReadonlySet<string> = new Set(["id", "createdAt", "updatedAt"])
 
 const ALSO_READ: Readonly<Record<string, string>> = {
   status: "status",
@@ -116,7 +111,7 @@ export type FilePagesResult = {
   readonly count: number | null
 }
 
-const DEFAULT_FILE_ORDER: PageOrder = [{ by: "seq", dir: "asc" }]
+const DEFAULT_FILE_ORDER: PageOrder = [{ by: "id", dir: "asc" }]
 
 const HELD_IDLE_MS = 60_000
 const HELD_ROWS = 200_000

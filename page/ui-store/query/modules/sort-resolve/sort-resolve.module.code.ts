@@ -81,7 +81,6 @@ export function pageDataOf(row: PageRow): PageDataJSON {
   return asPageDataJSON({
     ...attributesOf(row),
     id: rec.id,
-    seq: rec.seq,
     title: rec.title,
     icon: rec.icon,
     slug: rec.slug,

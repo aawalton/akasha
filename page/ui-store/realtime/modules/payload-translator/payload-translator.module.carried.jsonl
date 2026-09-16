@@ -1,5 +1,4 @@
 {"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page kept as a file carries a sequence number only where its page type numbers its pages."},{"decisionKind":"decision-kind/departure","statement":"A row stating no sequence number is read rather than throwing its batch away."}]}
 {"definition":"the shape a page row arrives in over the wire"}
 {"id":"01a05b69-4556-79e3-bbe6-95c694d630da"}
 {"slug":"payload-translator"}

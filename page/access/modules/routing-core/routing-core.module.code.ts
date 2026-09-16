@@ -1,11 +1,9 @@
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
-import { parsePageSeq } from "akasha/page/access/modules/parse-page-seq/parse-page-seq.module.code.ts"
 import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
 
 export const PROMOTED_COLUMN = {
   id: "id",
-  seq: "seq",
   title: "title",
   icon: "icon",
   slug: "slug",
@@ -34,12 +32,6 @@ function asJson(value: unknown): Json {
   return (value instanceof Date ? value.toISOString() : value) as Json
 }
 
-function coerceSeqInPlace(out: Record<string, Json>): undefined {
-  if (!("seq" in out)) return
-  const context = typeof out.id === "string" ? out.id : "flattenRow"
-  out.seq = parsePageSeq(out.seq, context)
-}
-
 export function flattenRow(row: Record<string, unknown>): Page {
   const rawAttrs = row.attributes
   const hasAttrs = rawAttrs && typeof rawAttrs === "object" && !Array.isArray(rawAttrs)
@@ -56,11 +48,9 @@ export function flattenRow(row: Record<string, unknown>): Page {
       if (key === null) continue
       out[key] = asJson(val)
     }
-    coerceSeqInPlace(out)
     return asPage(out)
   }
   for (const [k, v] of Object.entries(row)) out[k] = asJson(v)
-  coerceSeqInPlace(out)
   return asPage(out)
 }
 

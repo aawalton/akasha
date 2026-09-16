@@ -24,7 +24,6 @@ export const MAX_UNPINNED_CACHED_BODIES = 200
 const PersistedContentPageSchema = z
   .object({
     id: z.string(),
-    seq: z.number().nullable().optional(),
     title: z.string().nullable().optional(),
     icon: z.string().nullable().optional(),
     slug: z.string().nullable().optional(),

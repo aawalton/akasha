@@ -117,7 +117,7 @@ export type GetPagesResult = {
   count: number | null
 }
 
-const DEFAULT_ORDER: PageOrder = [{ by: "seq", dir: "asc" }]
+const DEFAULT_ORDER: PageOrder = [{ by: "id", dir: "asc" }]
 const DEFAULT_LIMIT = 1000
 
 export type GetPagesQuery = Omit<GetPagesArgs, "pageTypeSlug"> & { pageTypeSlug?: string }
