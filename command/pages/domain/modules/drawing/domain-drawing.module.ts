@@ -67,5 +67,9 @@ export const domainDrawing = {
       decisionKind: "decision-kind/departure",
       statement: "A part naming a domain by id is reached as readily as one naming it by slug.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A part reaches the file it names rather than whatever page carries that slug.",
+    },
   ],
 } as const satisfies Module
