@@ -81,5 +81,19 @@ export const graphPredicateClosure = {
       decisionKind: "decision-kind/departure",
       statement: "An ask wanting only the nodes is answered only those.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A predicate following an attribute value takes in only an edge carrying that value.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An edge a predicate does not follow leaves the node beyond that edge unreached.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An edge carrying none of an attribute a predicate follows is refused rather than dropped.",
+    },
   ],
 } as const satisfies Module

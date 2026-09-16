@@ -26,6 +26,7 @@ import {
   closureOf,
   takenIn,
 } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { codeImports } from "akasha/graph/predicate/pages/code-imports/code-imports.graph-predicate.ts"
 import { importers } from "akasha/graph/predicate/pages/importers/importers.graph-predicate.ts"
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
 import { readingLaidOver } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
@@ -37,6 +38,8 @@ const ENDING = ".ts"
 const SIDEWAYS = { ...imports, direction: "sideways" }
 
 const DECLARED = { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_CODE }
+
+const CODE_IMPORTERS = { ...importers, follows: codeImports.follows }
 
 const writing = new TextEncoder()
 
@@ -63,6 +66,25 @@ test("a predicate followed out answers what the seeds reach through the bodies h
     SECOND_AT,
     THIRD_AT,
   ])
+})
+
+test("a predicate following one attribute value takes in only the edges carrying it", () => {
+  const root = importWorld()
+  const index = indexOf(root)
+  const bodyAt = filesOf({
+    [FIRST_AT]: namingBody("./second.page.ts") + typingBody("./third.page.ts"),
+  })
+
+  expect(closureOf(codeImports, [FIRST_AT], { index, bodyAt })).toEqual([FIRST_AT, SECOND_AT])
+  expect(closureOf(imports, [FIRST_AT], { index, bodyAt })).toEqual([FIRST_AT, SECOND_AT, THIRD_AT])
+})
+
+test("an edge carrying none of an attribute a predicate follows is refused", () => {
+  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
+
+  expect(() => closureOf(CODE_IMPORTERS, [FIRST_AT], { index: indexOf(root) })).toThrow(
+    /carries no `names`/
+  )
 })
 
 test("a predicate followed in answers what reaches the seeds, and reads no body", () => {

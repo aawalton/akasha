@@ -18,6 +18,21 @@ function every(): boolean {
   return true
 }
 
+function followed(predicate: GraphPredicate): (edge: Edge) => boolean {
+  const wanted = (predicate.follows ?? []).map((one) => [slugOf(one.attribute), one.value] as const)
+  if (wanted.length === 0) return every
+  return (edge) =>
+    wanted.every(([attribute, value]) => {
+      const held = edge.attrs[attribute]
+      if (held === undefined) {
+        throw new Error(
+          `the \`${edge.kind}\` edge carries no \`${attribute}\`, so the \`${predicate.slug}\` predicate could not follow it`
+        )
+      }
+      return held === value
+    })
+}
+
 export type Taken = {
   readonly nodes: readonly string[]
   readonly edges: readonly Edge[]
@@ -27,13 +42,15 @@ function closedOver(
   seeds: readonly string[],
   through: (path: string) => boolean,
   stepping: Stepping,
-  farOf: (edge: Edge) => string
+  farOf: (edge: Edge) => string,
+  follows: (edge: Edge) => boolean
 ): Taken {
   const found = new Set(seeds.filter((one) => through(one)))
   const waiting = [...found]
   const edges: Edge[] = []
   for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
     for (const edge of stepping(one)) {
+      if (!follows(edge)) continue
       const next = farOf(edge)
       if (!through(next)) continue
       edges.push(edge)
@@ -54,13 +71,15 @@ export type Asked = {
 export function takenIn(predicate: GraphPredicate, seeds: readonly string[], asked: Asked): Taken {
   const kinds = predicate.edges.map(slugOf)
   const through = asked.through ?? every
+  const follows = followed(predicate)
   if (predicate.direction === IN) {
     const index = asked.index
     return closedOver(
       seeds,
       through,
       (one) => edgesInto(one, kinds, index),
-      (edge) => edge.from
+      (edge) => edge.from,
+      follows
     )
   }
   if (predicate.direction !== OUT) {
@@ -74,7 +93,13 @@ export function takenIn(predicate: GraphPredicate, seeds: readonly string[], ask
       `the \`${predicate.slug}\` predicate is followed out of a body, and this ask hands in no reader of bodies`
     )
   }
-  return closedOver(seeds, through, edgesOutOver(kinds, asked.index, bodyAt), (edge) => edge.to)
+  return closedOver(
+    seeds,
+    through,
+    edgesOutOver(kinds, asked.index, bodyAt),
+    (edge) => edge.to,
+    follows
+  )
 }
 
 export function closureOf(
