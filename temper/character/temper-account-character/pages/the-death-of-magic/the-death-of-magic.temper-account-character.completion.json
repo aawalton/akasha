@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHD8TAAIBkyhVi0_lYtP5UMmC1iJgtQuYLUMmC1C5gtEKjtRBAqUQQKlJiTHWxEEx0sAAAHNgAfkgEAAAAAAAAAAAAAgDUUABAGAoTgAIAAQABCGCADJwAzCGVAB2ABCAwIQADJIBAjAxIwgSAQCAMAHIFgBcAAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrGytkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDEEgaw",
+  "buildHash": "ATQHD8TAAIBkyhVi0_lYtP5UMmC1iJgtQuYLUMmC1C5gtEKjtRBAqUQQKlJiTHWxEEx0sAAAHNgAQswwAAAAAAAAAAAAAgDUUABAGAoTgAIAAQABCGCADJwAzCGVAB2ABCAwIQADJIBAjAxIwgSAQCAMAHIFgBcAAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrGytkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDEEgaw",
   "gender": 1,
   "level": 50,
   "classId": 117,
@@ -1128,7 +1128,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 26,
+            "numCompleted": 27,
             "numRequired": 30
           }
         }
@@ -3280,6 +3280,24 @@
             "rank": 1
           }
         },
+        "61489": {
+          "morph1": {
+            "name": "Lingering Flare",
+            "rank": 1
+          },
+          "abilityIndex": 6,
+          "base": {
+            "name": "Revealing Flare",
+            "rank": 4
+          },
+          "isUltimate": false,
+          "atMorph": true,
+          "morph2": {
+            "name": "Blinding Flare",
+            "rank": 1
+          },
+          "currentMorph": 0
+        },
         "61511": {
           "morph2": {
             "name": "Stalwart Guard",
@@ -3288,11 +3306,11 @@
           "isUltimate": false,
           "base": {
             "name": "Guard",
-            "rank": 1
+            "rank": 4
           },
           "currentMorph": 0,
           "abilityIndex": 5,
-          "atMorph": false,
+          "atMorph": true,
           "morph1": {
             "name": "Mystic Guard",
             "rank": 1
@@ -3375,7 +3393,7 @@
       "currentRank": 50
     },
     "111": {
-      "currentXP": 42,
+      "currentXP": 44,
       "nextRankXP": 60,
       "currentRank": 2
     },
@@ -5016,7 +5034,7 @@
     "groupDungeonTotal": 0,
     "tutorial": 1,
     "skyshardPoints": 173,
-    "unassigned": 63,
+    "unassigned": 62,
     "zoneQuestTotal": 63,
     "publicDungeons": {
       "EP4": 1,
@@ -12967,7 +12985,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-15"
+    "date": "2026-09-16"
   },
   "dailyWritStates": {
     "completed": {
@@ -12988,7 +13006,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-15"
+    "date": "2026-09-16"
   },
   "motifKnowledge": {
     "4": {
