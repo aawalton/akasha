@@ -13,11 +13,6 @@ export const veraGraphCleanup = {
       workingMemory:
         "Not met. Nine callers close over the graph, the last at `2b6968f1828`. Of twenty-five closures written by hand over `parts` and `extends`: four are done, ten are walled by a load cycle, three by the browser and the extension host reaching no Bun, seven want an ordered chain the graph cannot yet say, and one is no closure at all. The graph now says how far each node is and where the loops are. `domain-is-named-by-a-parent` costs 2.7s of its 15s at audit, up from 0.7s.",
     },
-    {
-      statement: "Every closure the graph answers is quick enough to ask on every landing.",
-      workingMemory:
-        "Measured by `akasha measure closure` on 2026-09-15: out over `deploy-file-closure` 479 nodes and 1568 edges in 0.137s wall, 0.484s processor; in over `page-value-reading` 3228 nodes and 9671 edges in 0.109s wall, 0.166s processor. Reading bodies out costs three times the processor for a seventh of the nodes. The largest is a tenth of a second against a typecheck averaging 14.8s. Whether that wants a cache is Alan's to settle.",
-    },
   ],
   constraints: [
     "Alan approves every new caching mechanism before it is built.",

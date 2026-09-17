@@ -70,6 +70,10 @@ export const graph = {
       statement:
         "No code running in a browser or in the code editor's extension host reaches the graph.",
     },
+    {
+      decisionKind: "decision-kind/upkeep",
+      statement: "Every closure the graph answers is quick enough to ask on every landing.",
+    },
   ],
   directives: [
     {
