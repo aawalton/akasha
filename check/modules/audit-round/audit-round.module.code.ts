@@ -14,20 +14,15 @@ import {
   type Over,
   type Ran,
   refusalsNew,
+  roundOver,
   type Sent,
   sending,
   telling,
 } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import { everythingIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
-import {
-  checksAt,
-  checksIn,
-  type Gathered,
-} from "akasha/check/modules/checking/checking.module.code.ts"
+import { checksIn, type Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
 import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
-
-const AUDIT = "audit"
 
 const AUDIT_LOGS = "audit.logs"
 
@@ -105,11 +100,12 @@ export async function carriedForward(
 
 export async function roundTold(
   root: string,
+  named: readonly string[] = [],
   send: Sent = sending,
   to: string | null = null
 ): Promise<Turned> {
   const commit = await commitOf(root)
-  const gathered = checksAt(checksIn(root), AUDIT)
+  const gathered = roundOver(checksIn(root), named)
   const checks = gathered.map((one) => one.slug)
   const before = verdictsFor(root, checks)
   await carriedForward(root, commit, gathered, before)

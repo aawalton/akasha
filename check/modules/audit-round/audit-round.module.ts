@@ -10,6 +10,14 @@ export const auditRound = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "Which checks a round covers is handed in rather than read off disk.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round handed no check covers the checks the audit phase names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A round reads the verdicts it had before the checks are judged.",
     },
     {
