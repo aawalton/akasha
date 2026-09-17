@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/music/spotify/modules/credentials/spotify-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/web/routes/readout-relay/readout-relay.route.code.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"check/modules/audit-round/audit-round.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/process/modules/proc-reading/proc-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts"}
