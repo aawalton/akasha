@@ -1,0 +1,7 @@
+{"body":"the audit at 3890d6ad329c298dcce92b8bf654236db248a2d2 found 1 check nothing measured.\n`no-refused-syntax` went unmeasured:\n  check/code/pages/no-refused-syntax/no-refused-syntax.check-code.ts — the check `no-refused-syntax` died on SIGKILL apart, so it judged nothing —\nwhat each of them answered is on the newest row of the audit log beside that check's page.\n"}
+{"from":"audit-running"}
+{"id":"01a0ae52-eac6-7000-a4c0-7ea8c5199dd2"}
+{"slug":"message-7ea8c5199dd2"}
+{"to":"seat/thea"}
+{"type":"page-type/message"}
+{"warrant":"announce"}
