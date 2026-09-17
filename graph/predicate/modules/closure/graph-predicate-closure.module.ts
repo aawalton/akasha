@@ -58,6 +58,23 @@ export const graphPredicateClosure = {
       statement: "The nodes come back sorted, so two asks alike answer alike.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The nodes come back in the order they were walked as well as sorted.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The order walked holds the nodes sorted, neither more nor fewer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The seeds are walked first, in the order the ask names them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The nodes one step reaches are walked in the order the edges reaching them came back in.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No caller names an edge kind or a direction of its own.",
     },

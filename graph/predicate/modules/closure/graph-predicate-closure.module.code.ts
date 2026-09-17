@@ -56,6 +56,7 @@ function followed(predicate: GraphPredicate): (edge: Edge) => boolean {
 
 export type Taken = {
   readonly nodes: readonly string[]
+  readonly reached: readonly string[]
   readonly edges: readonly Edge[]
   readonly stepsTo: ReadonlyMap<string, number>
 }
@@ -69,10 +70,10 @@ function closedOver(
 ): Taken {
   const stepsTo = new Map<string, number>()
   for (const one of seeds) if (through(one)) stepsTo.set(one, AT_THE_SEEDS)
-  const waiting = [...stepsTo.keys()]
+  const reached = [...stepsTo.keys()]
   const edges: Edge[] = []
-  for (let at = 0; at < waiting.length; at += 1) {
-    const one = waiting[at]
+  for (let at = 0; at < reached.length; at += 1) {
+    const one = reached[at]
     if (one === undefined) continue
     const beyond = (stepsTo.get(one) ?? AT_THE_SEEDS) + 1
     for (const edge of stepping(one)) {
@@ -82,10 +83,10 @@ function closedOver(
       edges.push(edge)
       if (stepsTo.has(next)) continue
       stepsTo.set(next, beyond)
-      waiting.push(next)
+      reached.push(next)
     }
   }
-  return { nodes: [...stepsTo.keys()].sort(), edges: settledOf(edges), stepsTo }
+  return { nodes: [...reached].sort(), reached, edges: settledOf(edges), stepsTo }
 }
 
 export type Asked = {

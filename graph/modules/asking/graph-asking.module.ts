@@ -47,6 +47,10 @@ export const graphAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The edges come back in the order they were read rather than sorted.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An edge going out is answered from a step prepared once for many files.",
     },
     {
@@ -99,6 +103,10 @@ export const graphAsking = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A relation edge going out is read from the page's own body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation going out comes back in the order the page names it.",
     },
     {
       decisionKind: "decision-kind/departure",

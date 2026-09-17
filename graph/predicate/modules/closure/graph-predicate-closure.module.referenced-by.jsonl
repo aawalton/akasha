@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"command/pages/measure/closure/measure-closure.command.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"command/pages/page/tree/page-tree.command.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"domain/context/warrant/domain-ancestors/domain-ancestors.context-warrant.code.ts"}
+{"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.test-fixtures.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test.ts"}

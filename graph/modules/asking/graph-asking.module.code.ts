@@ -261,10 +261,14 @@ function keyOf(one: Edge): string {
   return [one.kind, one.from, one.to, JSON.stringify(one.attrs)].join(APART)
 }
 
-export function settledOf(found: readonly Edge[]): readonly Edge[] {
+function keptOf(found: readonly Edge[]): readonly Edge[] {
   const kept = new Map<string, Edge>()
   for (const one of found) kept.set(keyOf(one), one)
-  return [...kept.values()].sort((one, two) => {
+  return [...kept.values()]
+}
+
+export function settledOf(found: readonly Edge[]): readonly Edge[] {
+  return [...keptOf(found)].sort((one, two) => {
     const here = keyOf(one)
     const there = keyOf(two)
     return here < there ? -1 : here > there ? 1 : 0
@@ -289,7 +293,7 @@ export function edgesInto(
       )
     }
   }
-  return settledOf(found)
+  return keptOf(found)
 }
 
 type Asked = {
@@ -328,7 +332,7 @@ function edgesOut(
     if (one.naming === null) continue
     found.push(...importsOutOf(path, one.asking, asked, bodyAt, one.naming))
   }
-  return settledOf(found)
+  return keptOf(found)
 }
 
 export type Stepping = (path: string) => readonly Edge[]
