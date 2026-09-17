@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const sabrinaCarpenterManchildManchild = {
+  id: "01a0b111-29de-70de-8fd0-35238bfd0ad5",
+  type: "page-type/track",
+  slug: "sabrina-carpenter-manchild-manchild",
+  ownLength: 3.56075,
+  ownProgress: 0,
+  partOfCollections: ["release/sabrina-carpenter-manchild"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "42UBPzRMh5yyz0EDPr6fr1",
+      externalLink: "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1",
+      lastSyncedAt: "2026-09-17",
+    },
+  ],
+  title: "Manchild",
+  discNumber: 1,
+  explicit: true,
+  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackKey: "manchild|74KM79TiuVKeVCqs8QtB0B|213645",
+} as const satisfies Track
