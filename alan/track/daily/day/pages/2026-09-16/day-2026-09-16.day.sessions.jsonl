@@ -11,4 +11,5 @@
 {"id":"01a0ac67-9bc6-7a50-a3f9-06f59e7027f1","title":"Read","startTime":"2026-09-16T22:45:00.000Z","dailyTracking":"01a0a9a8-bdb1-7000-b7b1-6072d0d2672a","safetyLevel":"2","difficultyLevel":"1","endTime":"2026-09-16T23:55:00.000Z"}
 {"id":"01a0aca8-411f-7a7f-bf03-3896418d55f2","title":"Walk","startTime":"2026-09-16T23:55:00.000Z","dailyTracking":"01a0a9a8-bdb1-7000-b7b1-6072d0d2672a","safetyLevel":"3","difficultyLevel":"1","endTime":"2026-09-17T00:00:00.000Z"}
 {"id":"01a0acc5-8b0f-771e-ae20-6ae64d877536","title":"Jen","startTime":"2026-09-17T00:00:00.000Z","dailyTracking":"01a0a9a8-bdb1-7000-b7b1-6072d0d2672a","safetyLevel":"2","difficultyLevel":"3.5","relationships":["019db533-f382-757e-93d6-8b217ef99d58"],"endTime":"2026-09-17T00:30:00.000Z"}
-{"id":"01a0acc5-a0f9-7fdf-875a-37fc752c1f04","title":"Read","startTime":"2026-09-17T00:30:00.000Z","dailyTracking":"01a0a9a8-bdb1-7000-b7b1-6072d0d2672a","safetyLevel":"2","difficultyLevel":"1"}
+{"id":"01a0acc5-a0f9-7fdf-875a-37fc752c1f04","title":"Read","startTime":"2026-09-17T00:30:00.000Z","dailyTracking":"01a0a9a8-bdb1-7000-b7b1-6072d0d2672a","safetyLevel":"2","difficultyLevel":"1","endTime":"2026-09-17T03:10:00.000Z"}
+{"id":"01a0ad58-db29-7710-9163-11607c6883aa","title":"Rest","startTime":"2026-09-17T03:10:00.000Z","dailyTracking":"01a0a9a8-bdb1-7000-b7b1-6072d0d2672a","safetyLevel":"2","difficultyLevel":"0"}
