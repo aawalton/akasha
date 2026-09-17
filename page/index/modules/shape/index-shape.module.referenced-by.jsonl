@@ -102,6 +102,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/modules/shadow/shadow.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/service/modules/page-asking/page-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/type/modules/descent/page-type-descent.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/type/modules/gathering/page-type-gathering.module.code.ts"}

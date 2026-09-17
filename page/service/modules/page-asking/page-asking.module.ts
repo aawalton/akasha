@@ -240,6 +240,19 @@ export const pageAsking = {
         "A shape states the owner the nearest page type above the shape's own page type names.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The owner is taken from the page type named last where two page types above are equally near.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page types above a page type are read as one closure the graph answers.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No climb over what a page type extends is walked here.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No page's own file is opened.",
     },

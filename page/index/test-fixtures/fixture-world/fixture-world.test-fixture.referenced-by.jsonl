@@ -61,6 +61,8 @@
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/index/modules/settling/index-settling.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/modules/shadow/shadow.module.test.ts"}
+{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/service/modules/page-asking/page-asking.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/service/modules/page-asking/page-asking.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/service/modules/page-composing/page-composing.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/type/modules/gathering/page-type-gathering.module.test.ts"}

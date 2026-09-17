@@ -1,4 +1,5 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { scratch } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import {
   askedFor,
   asking,
@@ -8,54 +9,37 @@ import {
   titledAs,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
+  climbedInRepo,
+  climbedInTypes,
   levels,
   over,
   persona,
   root,
   rowsOf,
   slugsOf,
-  typesHeld,
 } from "akasha/page/service/modules/page-asking/page-asking.module.test-fixtures.ts"
 
+afterAll(scratch.sweep)
+
 test("a page type naming one above it reads the owner that climb carries", () => {
-  expect(ownerFor(root, new Map(), "temper-catalog-thing")).toBe("account-page")
-  expect(ownerFor(root, new Map(), "decision-kind")).toBeNull()
+  expect(ownerFor(climbedInRepo, "temper-catalog-thing")).toBe("account-page")
+  expect(ownerFor(climbedInRepo, "decision-kind")).toBeNull()
 })
 
 test("the owner is read from the second page type above where the first states none", () => {
-  const held = typesHeld({
-    under: { extends: ["page-type/one", "page-type/two"] },
-    one: {},
-    two: { owner: "account-page" },
-  })
-  expect(ownerFor(root, held, "under")).toBe("account-page")
+  expect(ownerFor(climbedInTypes, "stated")).toBe("account-page")
 })
 
 test("the owner is taken from the nearer of the page types above", () => {
-  const held = typesHeld({
-    under: { extends: ["page-type/close", "page-type/apart"] },
-    close: { extends: ["page-type/distant"] },
-    apart: { owner: "apart-owner" },
-    distant: { owner: "distant-owner" },
-  })
-  expect(ownerFor(root, held, "under")).toBe("apart-owner")
+  expect(ownerFor(climbedInTypes, "nearer")).toBe("apart-owner")
 })
 
 test("where two page types above are equally near, the owner is the last one named", () => {
-  const held = typesHeld({
-    under: { extends: ["page-type/first", "page-type/second"] },
-    first: { owner: "first-owner" },
-    second: { owner: "second-owner" },
-  })
-  expect(ownerFor(root, held, "under")).toBe("second-owner")
+  expect(ownerFor(climbedInTypes, "tied")).toBe("second-owner")
 })
 
 test("a page type above that nothing holds stops no other climb", () => {
-  const held = typesHeld({
-    under: { extends: ["page-type/there", "page-type/nothing-holds-this"] },
-    there: { owner: "there-owner" },
-  })
-  expect(ownerFor(root, held, "under")).toBe("there-owner")
+  expect(ownerFor(climbedInTypes, "missing")).toBe("there-owner")
 })
 
 test("every page of a type is answered", () => {

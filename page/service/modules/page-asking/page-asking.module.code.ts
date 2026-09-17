@@ -1,12 +1,19 @@
 import {
+  takenIn as closedIn,
+  type Taken,
+} from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { extended } from "akasha/graph/predicate/pages/extended/extended.graph-predicate.ts"
+import { answeringOver } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import {
   listedAt,
   readingIn,
   type Valued,
+  valueByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   slugAt,
   slugOf,
-  slugsIn,
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -29,8 +36,6 @@ import type { Carried } from "akasha/page/type/modules/declared-properties/decla
 const PAGE_TYPE = "page-type"
 
 const TARGET_PAGE_TYPE = "targetPageType"
-
-const EXTENDS = "extends"
 
 const MEMBERS = "members"
 
@@ -140,20 +145,37 @@ export function titledAs(propertySlug: string): string {
     .join(" ")
 }
 
-function drawnFor(root: string, named: Named, pageTypeSlug: string): readonly string[] {
-  const found: string[] = []
-  const seen = new Set<string>()
-  const waiting: string[] = [pageTypeSlug]
-  for (let at = 0; at < waiting.length; at += 1) {
-    const own = waiting[at]
-    if (own === undefined || own === "" || seen.has(own)) continue
-    seen.add(own)
-    found.push(own)
-    const page = pagesOfType(root, named, PAGE_TYPE).get(own)
-    if (page === undefined) continue
-    for (const above of [...slugsIn(page[EXTENDS])].reverse()) waiting.push(above)
+export type Climbing = (pageTypeSlug: string) => readonly Value[]
+
+function nearestFirst(taken: Taken): readonly string[] {
+  const held = [...taken.reached].reverse()
+  return held.sort((one, two) => (taken.stepsTo.get(one) ?? 0) - (taken.stepsTo.get(two) ?? 0))
+}
+
+export function climbing(given: string | Reading): Climbing {
+  const reading = readingIn(given)
+  const index = answeringOver(reading, (path) => valueByPath(reading, path))
+  const asked = { index, bodyAt: (path: string) => reading.read(path) }
+  return (pageTypeSlug) => {
+    const listed = listedAt(reading, PAGE_TYPE, pageTypeSlug)[0]
+    if (listed === undefined) return []
+    const found: Value[] = []
+    for (const path of nearestFirst(closedIn(extended, [listed.path], asked))) {
+      const one = index.valueAt(path)
+      if (one !== null) found.push(one)
+    }
+    return found
   }
-  return found
+}
+
+function drawnFor(climb: Climbing, pageTypeSlug: string): readonly string[] {
+  if (pageTypeSlug === "") return []
+  const found: string[] = []
+  for (const one of climb(pageTypeSlug)) {
+    const slug = textAt(one, "slug")
+    if (slug !== null && !found.includes(slug)) found.push(slug)
+  }
+  return found.length === 0 ? [pageTypeSlug] : found
 }
 
 function memberTypesIn(page: Value | undefined): readonly string[] {
@@ -192,19 +214,10 @@ function declaredOf(
   }
 }
 
-export function ownerFor(root: string, named: Named, pageTypeSlug: string): string | null {
-  const walked = new Set<string>()
-  const waiting: string[] = [pageTypeSlug]
-  for (let at = 0; at < waiting.length; at += 1) {
-    const own = waiting[at]
-    if (own === undefined || own === "" || walked.has(own)) continue
-    walked.add(own)
-    const page = pagesOfType(root, named, PAGE_TYPE).get(own)
-    if (page === undefined) continue
-    const owner = textAt(page, "owner")
+export function ownerFor(climb: Climbing, pageTypeSlug: string): string | null {
+  for (const one of climb(pageTypeSlug)) {
+    const owner = textAt(one, "owner")
     if (owner !== null && owner !== "") return slugOf(owner)
-    const parents = slugsIn(page[EXTENDS])
-    for (const above of [...parents].reverse()) waiting.push(above)
   }
   return null
 }
@@ -213,6 +226,7 @@ export function shaping(root: string, pageTypeSlug: string): Shaped {
   if (listedAt(root, PAGE_TYPE, pageTypeSlug).length === 0) return { shape: null }
   try {
     const named: Named = new Map()
+    const climb = climbing(root)
     const own = pagesOfType(root, named, PAGE_TYPE).get(pageTypeSlug)
     const declarations = carriedFor(root, pageTypeSlug).map((one) => {
       const page = pagesOfType(root, named, one.pageTypeSlug).get(one.pagePropertySlug)
@@ -220,15 +234,15 @@ export function shaping(root: string, pageTypeSlug: string): Shaped {
         one,
         page,
         pageTypeSlug,
-        drawnFor(root, named, one.pageTypeSlug),
-        memberTypesIn(page).map((slug) => drawnFor(root, named, slug))
+        drawnFor(climb, one.pageTypeSlug),
+        memberTypesIn(page).map((slug) => drawnFor(climb, slug))
       )
     })
     return {
       shape: {
         pageType: pageTypeSlug,
         pageTypeId: own === undefined ? "" : (textAt(own, "id") ?? ""),
-        ownerSlug: ownerFor(root, named, pageTypeSlug),
+        ownerSlug: ownerFor(climb, pageTypeSlug),
         declarations,
       },
     }
