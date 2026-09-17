@@ -16,7 +16,11 @@ export const test = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This ceiling throttles a test file rather than refusing that file.",
+      statement: "This ceiling refuses a test file rather than throttling that file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A test file over it is made cheaper or is no test.",
     },
     {
       decisionKind: "decision-kind/departure",
