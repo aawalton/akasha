@@ -7,7 +7,7 @@ export const day20260917 = {
   title: "@date:2026-09-17",
   date: "2026-09-17",
   version: "3.0",
-  activeCalories: 189.34699999999995,
+  activeCalories: 305.313,
   wisdomWords: 0,
   intelligenceTopics: 0,
   inboxTasks: 7,
