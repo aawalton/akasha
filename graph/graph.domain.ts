@@ -74,6 +74,10 @@ export const graph = {
       decisionKind: "decision-kind/upkeep",
       statement: "Every closure the graph answers is quick enough to ask on every landing.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Nothing the indexes are built from closes over the graph.",
+    },
   ],
   directives: [
     {
