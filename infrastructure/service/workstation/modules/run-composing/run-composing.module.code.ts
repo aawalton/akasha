@@ -14,14 +14,12 @@ const PAGE_TYPE = "page-type"
 const CODE_FILE = "code-file-property/"
 const RUNNERS: Readonly<Record<string, string>> = { ts: "bun", sh: "bash" }
 const ONE = 1
-const LENIENT = "-"
 const SPACE = " "
 
 export type Start = {
   readonly code: string
   readonly pages?: readonly string[]
   readonly arguments?: readonly string[]
-  readonly lenient?: boolean
 }
 
 export type Refused = { readonly refused: string }
@@ -121,5 +119,5 @@ export function commandOf(root: string, start: Start, codeAt: string = ""): Comp
     words.push(at)
   }
   words.push(...(start.arguments ?? []))
-  return { command: `${start.lenient === true ? LENIENT : ""}${words.join(SPACE)}` }
+  return { command: words.join(SPACE) }
 }
