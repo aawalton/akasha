@@ -58,6 +58,7 @@ export const day = {
     "number-property/lowest-email-inbox-count",
     "number-property/messages-sent",
     "number-property/nutrition-points",
+    "number-property/seq",
     "number-property/sleep-points",
     "number-property/strength-points",
     "number-property/task-points",

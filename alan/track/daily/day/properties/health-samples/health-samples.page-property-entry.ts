@@ -21,6 +21,7 @@ export const healthSamples = {
     { pageProperty: "text-property/unit", required: true, many: false },
     { pageProperty: "text-property/source-name", required: true, many: false },
     { pageProperty: "instant-property/arrived-at", required: true, many: false },
+    { pageProperty: "number-property/seq", required: false, many: false },
   ],
   types: "ts",
 } as const satisfies PagePropertyEntry

@@ -108,6 +108,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/lowest-email-inbox-count.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/messages-sent.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/nutrition-points.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/seq.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/sessions/properties/breathing-sets.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/sessions/properties/capacity-rate.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/sleep-points.number-property.ts"}
