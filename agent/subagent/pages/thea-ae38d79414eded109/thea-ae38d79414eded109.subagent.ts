@@ -1,0 +1,11 @@
+import type { Subagent } from "akasha/agent/subagent/subagent.page-type.types.ts"
+
+export const theaAe38d79414eded109 = {
+  id: "01a0b1bc-ae48-71e0-ac61-a74748190229",
+  type: "page-type/subagent",
+  slug: "thea-ae38d79414eded109",
+  principalSeatName: "seat/thea",
+  assignmentSlug: "initiative/thea-checks-system",
+  dispatchedAs: "Explore",
+  agentId: "01a0956a-e207-7000-abe4-714a414e3030--ae38d79414eded109",
+} as const satisfies Subagent
