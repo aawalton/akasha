@@ -1,0 +1,7 @@
+{"body":"the audit at 2dbafdaa7ec785215a7869877f598faa31654048 found 1 check newly refusing.\n`index-is-level-with-the-pages` refused 1 time:\n  harness/monarch/category/pages/kids-learning.monarch-category.referenced-by — the index entry for this file is in the index differing from what its page says\nwhat each of them answered is on the newest row of the audit log beside that check's page. This was meant for `thea`, whom nothing could reach: agent/messaging/message/message.page-type.referenced-by.jsonl — read against `1b1660fae3f11f42520c68a1b4784e2e880271b6`, and what is at `e042741073171edb87cd69c08be261f9a4de486a` is not what was read, so writing it would put back what moved in between\nnothing was written — the edits kept do not rebase, and reading those bodies again does not move them. Each line above names one path whose body moved, and every path named there has an edit kept, so a drop naming those paths with an `at:` line each takes their edits away and leaves every other edit kept. Draft those again against the bodies as they now read. `all: true` takes away every edit kept instead, including the ones that rebase.\n"}
+{"from":"audit-running"}
+{"id":"01a0aed0-ac4d-7000-913e-3878d7bb1150"}
+{"slug":"message-3878d7bb1150"}
+{"to":"seat/alan"}
+{"type":"page-type/message"}
+{"warrant":"announce"}
