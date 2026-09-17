@@ -1,7 +1,9 @@
 import { resolve } from "node:path"
 import { auditRefusalsPut } from "akasha/agent/modules/refusals-keeping/refusals-keeping.module.code.ts"
+import type { Round } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
 import { asked } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
-import { roundFor } from "akasha/check/modules/audit-job/audit-job.module.code.ts"
+import { roundAsked } from "akasha/check/modules/audit-calling/audit-calling.module.code.ts"
+import { roundHere } from "akasha/check/modules/audit-job/audit-job.module.code.ts"
 import { commitOf } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import type { Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
 import { checksAt, checksIn } from "akasha/check/modules/checking/checking.module.code.ts"
@@ -16,6 +18,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { audit as page } from "akasha/command/pages/audit/audit.command.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
+import { inCluster } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
 const AUDIT = "audit"
@@ -84,6 +87,10 @@ export function notYetJudgingIn(
   return [`this answer leaves out ${counted(held.length, "check")} not yet judging: ${waiting}`]
 }
 
+export function roundFor(root: string): Round {
+  return inCluster() ? roundHere : async (checks) => await roundAsked(root, checks)
+}
+
 async function askedOver(
   root: string,
   every: readonly Gathered[],
@@ -100,8 +107,7 @@ async function askedOver(
     ...notYetJudgingIn(every, named),
   ]
   const checks = narrowed.checks.length
-  const round = roundFor(root, commit)
-  const told = await asked({ root, checks: narrowed.checks, commit, done, round })
+  const told = await asked({ root, checks: narrowed.checks, commit, done, round: roundFor(root) })
   return askedAnswer({ told, checks, commit, also, rounds: done }, keeping)
 }
 

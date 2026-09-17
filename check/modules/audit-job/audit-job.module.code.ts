@@ -15,7 +15,7 @@ import {
   type Pushing,
   type Running,
 } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
-import { inCluster } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
+
 import { dispatcherIn } from "akasha/infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 
@@ -55,8 +55,7 @@ export function ranAfter(root: string, checks: readonly string[]): readonly Ran[
 
 export const roundHere: Round = async (checks) => ({ ran: (await roundNow(checks)).ran })
 
-export function roundFor(root: string, commit: string): Round {
-  if (inCluster()) return roundHere
+export function sentToCluster(root: string, commit: string): Round {
   return async (checks) => {
     const ended = await roundInCluster(root, root, checks, commit)
     return "why" in ended ? { refused: ended.why } : { ran: ranAfter(root, checks) }

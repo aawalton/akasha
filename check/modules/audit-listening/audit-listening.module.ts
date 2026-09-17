@@ -50,6 +50,10 @@ export const auditListening = {
       statement: "What the round answered is the whole of what comes back.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The round this service answers with is handed in when the service binds.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here says which checks there are.",
     },

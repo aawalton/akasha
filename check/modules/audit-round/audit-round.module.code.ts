@@ -3,7 +3,7 @@ import {
   type Verdicts,
   verdictsFor,
 } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
-import { roundFor } from "akasha/check/modules/audit-job/audit-job.module.code.ts"
+import { sentToCluster } from "akasha/check/modules/audit-job/audit-job.module.code.ts"
 import { verdictSent } from "akasha/check/modules/audit-recording/audit-recording.module.code.ts"
 import {
   bodyFor,
@@ -98,6 +98,33 @@ export async function carriedForward(
   return carried
 }
 
+type Underway = { readonly checks: ReadonlySet<string>; readonly told: Promise<Turned> }
+
+const underway = new Map<string, Underway>()
+
+export function joining(held: Underway | undefined, checks: readonly string[]): boolean {
+  return held !== undefined && checks.every((one) => held.checks.has(one))
+}
+
+export async function roundJoined(
+  root: string,
+  named: readonly string[] = [],
+  send: Sent = sending,
+  to: string | null = null
+): Promise<Turned> {
+  const commit = await commitOf(root)
+  const checks = roundOver(checksIn(root), named).map((one) => one.slug)
+  const held = underway.get(commit)
+  if (joining(held, checks) && held !== undefined) return await held.told
+  const told = roundTold(root, checks, send, to)
+  underway.set(commit, { checks: new Set(checks), told })
+  try {
+    return await told
+  } finally {
+    if (underway.get(commit)?.told === told) underway.delete(commit)
+  }
+}
+
 export async function roundTold(
   root: string,
   named: readonly string[] = [],
@@ -109,7 +136,7 @@ export async function roundTold(
   const checks = gathered.map((one) => one.slug)
   const before = verdictsFor(root, checks)
   await carriedForward(root, commit, gathered, before)
-  const told = await asked({ root, checks, commit, round: roundFor(root, commit) })
+  const told = await asked({ root, checks, commit, round: sentToCluster(root, commit) })
   const after = verdictsFor(root, checks)
   const refused = told.broken === null ? [] : [told.broken]
   const ran = answeredIn(checks, after)

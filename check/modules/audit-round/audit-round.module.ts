@@ -14,6 +14,22 @@ export const auditRound = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A request a round underway covers attaches to that round.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A request naming a check no round underway covers opens a round of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Rounds are held apart by the commit they answer for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round that ended is held no longer, so the round after it starts afresh.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A round handed no check covers the checks the audit phase names.",
     },
     {

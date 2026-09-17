@@ -47,7 +47,7 @@ export async function answering(request: Request, round: Rounding = roundNow): P
   return said(await round(sought.checks), 200)
 }
 
-export function runAuditListening(root: string): undefined {
+export function runAuditListening(root: string, round: Rounding = roundNow): undefined {
   const port = portFor(root, SERVICE_SLUG)
   if (port === null) {
     throw new Error(
@@ -55,7 +55,8 @@ export function runAuditListening(root: string): undefined {
     )
   }
   const bound = bindsFor(root, SERVICE_SLUG).map(
-    (hostname) => Bun.serve({ port, hostname, fetch: (request) => answering(request) }).url.href
+    (hostname) =>
+      Bun.serve({ port, hostname, fetch: (request) => answering(request, round) }).url.href
   )
   process.stdout.write(`a round of the audit is asked for at ${bound.join(" ")}\n`)
 }

@@ -2,7 +2,9 @@ import { expect, test } from "bun:test"
 import type { Verdicts } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
 import {
   answeredIn,
+  joining,
   owedCarrying,
+  type Turned,
   turnedIn,
 } from "akasha/check/modules/audit-round/audit-round.module.code.ts"
 import { gathered } from "akasha/check/modules/audit-serving/audit-serving.module.test-fixtures.ts"
@@ -17,6 +19,8 @@ function held(entries: readonly (readonly [string, Verdict])[]): Verdicts {
 }
 
 const CHECKS = ["no-class", "lint-clean"]
+
+const NOTHING: Turned = { ran: [], turned: [], refused: [] }
 
 test("a check with no verdict after the round is left out rather than written over", () => {
   expect(answeredIn(CHECKS, held([["no-class", CLEAN]])).map((one) => one.check)).toEqual([
@@ -50,6 +54,18 @@ test("a check that turned clean again turns nothing", () => {
 })
 
 const GATHERED = [gathered("no-class", "/r"), gathered("lint-clean", "/r")]
+
+test("a request a running round covers attaches to that round rather than opening a second", () => {
+  const running = { checks: new Set(["no-class", "lint-clean"]), told: Promise.resolve(NOTHING) }
+  expect(joining(running, ["no-class"])).toBe(true)
+  expect(joining(running, ["no-class", "lint-clean"])).toBe(true)
+})
+
+test("a request naming a check no running round covers opens a round of its own", () => {
+  const running = { checks: new Set(["no-class"]), told: Promise.resolve(NOTHING) }
+  expect(joining(running, ["no-class", "lint-clean"])).toBe(false)
+  expect(joining(undefined, ["no-class"])).toBe(false)
+})
 
 test("a check with no verdict yet is carried nowhere and is asked for", () => {
   expect(owedCarrying(GATHERED, held([]), "abc")).toEqual([])
