@@ -82,6 +82,14 @@ export const auditRunning = {
       statement: "A round is asked for from this workstation, so the loopback is bound alone.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A round asked for while a round underway covers it attaches to that round.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The hourly round and a round asked for over HTTP are held apart by nothing.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No caller of the audit service is asked for a credential.",
     },
