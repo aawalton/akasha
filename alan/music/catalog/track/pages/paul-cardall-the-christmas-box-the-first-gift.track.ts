@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const paulCardallTheChristmasBoxTheFirstGift = {
+  id: "01a0b4c8-66db-7edc-a099-b096a3896fdd",
+  type: "page-type/track",
+  slug: "paul-cardall-the-christmas-box-the-first-gift",
+  ownLength: 2.2622166666666668,
+  ownProgress: 0,
+  partOfCollections: ["release/paul-cardall-the-christmas-box"],
+  position: 16,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Obpswn9eT5D6ueJH84kBu",
+      externalLink: "https://open.spotify.com/track/2Obpswn9eT5D6ueJH84kBu",
+      lastSyncedAt: "2026-09-18",
+    },
+  ],
+  title: "The First Gift",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackKey: "thefirstgift|7FQRbf8gbKw8KZQZAJWxH2|135733",
+} as const satisfies Track

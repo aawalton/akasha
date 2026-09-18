@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const paulCardallSavingTinyHeartsMiracles = {
+  id: "01a0b4c8-3d18-77a1-9c7f-e6635d28794b",
+  type: "page-type/track",
+  slug: "paul-cardall-saving-tiny-hearts-miracles",
+  ownLength: 4.7871,
+  ownProgress: 0,
+  partOfCollections: ["release/paul-cardall-saving-tiny-hearts"],
+  position: 4,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4EAZb7BXKd1Hl8Radtavmb",
+      externalLink: "https://open.spotify.com/track/4EAZb7BXKd1Hl8Radtavmb",
+      lastSyncedAt: "2026-09-18",
+    },
+  ],
+  title: "Miracles",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackKey: "miracles|7FQRbf8gbKw8KZQZAJWxH2|287226",
+} as const satisfies Track

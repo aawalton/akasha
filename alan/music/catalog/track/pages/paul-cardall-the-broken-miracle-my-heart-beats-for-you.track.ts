@@ -1,0 +1,29 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const paulCardallTheBrokenMiracleMyHeartBeatsForYou = {
+  id: "01a0b4c8-303b-72c9-8d20-ce48ce1b2a2b",
+  type: "page-type/track",
+  slug: "paul-cardall-the-broken-miracle-my-heart-beats-for-you",
+  ownLength: 3.5691,
+  ownProgress: 0,
+  partOfCollections: ["release/paul-cardall-the-broken-miracle"],
+  position: 12,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6lBlcWYG8i6yMjaP8E7UAh",
+      externalLink: "https://open.spotify.com/track/6lBlcWYG8i6yMjaP8E7UAh",
+      lastSyncedAt: "2026-09-18",
+    },
+  ],
+  title: "My Heart Beats for You",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [
+    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
+    { externalId: "2C9n4tQgNLhHPhSCmdsQnk", artistName: "David Archuleta" },
+  ],
+  trackKey: "myheartbeatsforyou|2C9n4tQgNLhHPhSCmdsQnk,7FQRbf8gbKw8KZQZAJWxH2|214146",
+} as const satisfies Track

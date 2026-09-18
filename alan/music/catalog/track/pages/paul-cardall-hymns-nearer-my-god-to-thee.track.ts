@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const paulCardallHymnsNearerMyGodToThee = {
+  id: "01a0b4c8-62d9-7adb-85f9-feb1a5d14ee6",
+  type: "page-type/track",
+  slug: "paul-cardall-hymns-nearer-my-god-to-thee",
+  ownLength: 3.2844333333333333,
+  ownProgress: 0,
+  partOfCollections: ["release/paul-cardall-hymns"],
+  position: 5,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7spnDqggl2pmtwUAWPzf55",
+      externalLink: "https://open.spotify.com/track/7spnDqggl2pmtwUAWPzf55",
+      lastSyncedAt: "2026-09-18",
+    },
+  ],
+  title: "Nearer My God To Thee",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackKey: "nearermygodtothee|7FQRbf8gbKw8KZQZAJWxH2|197066",
+} as const satisfies Track

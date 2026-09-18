@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const paulCardallTheLookingGlassTheRelease = {
+  id: "01a0b4c8-606b-77d4-b50f-7b464fd28289",
+  type: "page-type/track",
+  slug: "paul-cardall-the-looking-glass-the-release",
+  ownLength: 3.2477666666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/paul-cardall-the-looking-glass"],
+  position: 2,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "12e8kHTHUbvMS3LreFvCzC",
+      externalLink: "https://open.spotify.com/track/12e8kHTHUbvMS3LreFvCzC",
+      lastSyncedAt: "2026-09-18",
+    },
+  ],
+  title: "The Release",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackKey: "therelease|7FQRbf8gbKw8KZQZAJWxH2|194866",
+} as const satisfies Track

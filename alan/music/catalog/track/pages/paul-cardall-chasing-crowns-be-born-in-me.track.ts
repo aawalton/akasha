@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const paulCardallChasingCrownsBeBornInMe = {
+  id: "01a0b4c8-223c-7fc2-baad-310176b4dd4e",
+  type: "page-type/track",
+  slug: "paul-cardall-chasing-crowns-be-born-in-me",
+  ownLength: 3.6166666666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/paul-cardall-chasing-crowns"],
+  position: 12,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3wg10xhrSRKJ9R6e9UY5Pj",
+      externalLink: "https://open.spotify.com/track/3wg10xhrSRKJ9R6e9UY5Pj",
+      lastSyncedAt: "2026-09-18",
+    },
+  ],
+  title: "Be Born In Me",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackKey: "beborninme|7FQRbf8gbKw8KZQZAJWxH2|217000",
+} as const satisfies Track

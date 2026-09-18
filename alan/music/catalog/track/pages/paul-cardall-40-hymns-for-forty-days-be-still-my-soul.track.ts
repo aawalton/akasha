@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const paulCardall40HymnsForFortyDaysBeStillMySoul = {
+  id: "01a0b4c8-375d-79bb-9766-2bc6cf2f6a7f",
+  type: "page-type/track",
+  slug: "paul-cardall-40-hymns-for-forty-days-be-still-my-soul",
+  ownLength: 3.5071,
+  ownProgress: 0,
+  partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
+  position: 2,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7dB33GYX93rSu4b1z71wDk",
+      externalLink: "https://open.spotify.com/track/7dB33GYX93rSu4b1z71wDk",
+      lastSyncedAt: "2026-09-18",
+    },
+  ],
+  title: "Be Still, My Soul",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackKey: "bestillmysoul|7FQRbf8gbKw8KZQZAJWxH2|210426",
+} as const satisfies Track
