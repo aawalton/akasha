@@ -1,9 +1,0 @@
-import type { Refusal } from "akasha/check/refusal/refusal.page-type.types.ts"
-
-export const pageKeyAttachment = {
-  id: "01a06611-3990-782d-bd8b-1fa5df2dbfbe",
-  type: "page-type/refusal",
-  slug: "page-key-attachment",
-  title: "Page key attachment",
-  text: "`{key}` is an attachment on `{on}`, so its value sits in the file beside the page, never in frontmatter",
-} as const satisfies Refusal

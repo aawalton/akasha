@@ -1,9 +1,0 @@
-import type { Refusal } from "akasha/check/refusal/refusal.page-type.types.ts"
-
-export const pageNarrowingUnresolved = {
-  id: "01a06611-3996-73a5-a78f-3791d8ce4cb5",
-  type: "page-type/refusal",
-  slug: "page-narrowing-unresolved",
-  title: "Page narrowing unresolved",
-  text: "`{path}` states `narrows-slug: {narrows}`, and no page type it extends declares `{key}`.\n\nA narrowing names the declaration it narrows.",
-} as const satisfies Refusal

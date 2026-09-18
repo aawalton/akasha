@@ -1,9 +1,0 @@
-import type { Refusal } from "akasha/check/refusal/refusal.page-type.types.ts"
-
-export const pageKeyRequiredUnstated = {
-  id: "01a06611-3992-7beb-a599-755ca7f73460",
-  type: "page-type/refusal",
-  slug: "page-key-required-unstated",
-  title: "Page key required unstated",
-  text: "`{key}` is required on `{on}` and this states none",
-} as const satisfies Refusal
