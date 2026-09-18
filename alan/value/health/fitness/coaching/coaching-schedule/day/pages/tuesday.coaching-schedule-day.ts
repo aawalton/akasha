@@ -1,10 +1,10 @@
 import type { CoachingScheduleDay } from "akasha/alan/value/health/fitness/coaching/coaching-schedule/day/coaching-schedule-day.page-type.types.ts"
 
-export const pushPullLegs3beb3d9aFriday = {
-  id: "019ee083-1b84-7b0d-bfc9-bbbecca20c22",
+export const tuesday = {
+  id: "019ee083-1a5e-70f3-a1aa-8af06a946fb1",
   type: "page-type/coaching-schedule-day",
-  slug: "push-pull-legs-3beb3d9a-friday",
-  title: "Friday — pull",
-  dayOfWeek: "friday",
+  slug: "tuesday",
+  title: "Tuesday — pull",
+  dayOfWeek: "tuesday",
   focus: "pull",
 } as const satisfies CoachingScheduleDay
