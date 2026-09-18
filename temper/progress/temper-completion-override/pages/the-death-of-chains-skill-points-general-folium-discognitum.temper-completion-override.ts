@@ -10,5 +10,5 @@ export const theDeathOfChainsSkillPointsGeneralFoliumDiscognitum = {
   completionCardId: "skill-points",
   completionItemPath: ["general", "foliumDiscognitum"],
   floor: 2,
-  overrideReason: "ESO under-reports; complete in-game (The Death of Chains) #12019",
+  overrideReason: "ESO under-reports; complete in-game (The Death of Chains)",
 } as const satisfies TemperCompletionOverride
