@@ -87,11 +87,11 @@ export const commandTakesItsArgumentsThroughOneReader = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Under `command/pages` the spelling `argv` names a command's own call.",
+      statement: "Under `command/pages` a parameter spelled `argv` holds a command's own call.",
     },
     {
       decisionKind: "decision-kind/upkeep",
-      statement: "A command line for another process is spelled otherwise there.",
+      statement: "A parameter taking another process's command line is spelled otherwise there.",
     },
     {
       decisionKind: "decision-kind/departure",

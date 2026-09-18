@@ -33,7 +33,7 @@ const DEFAULT = "default"
 const INSTEAD =
   `a command takes the words of its call through \`${ONE_READER}\`, ` +
   "which reads them from the argument pages that command's page names, " +
-  `and a command line meant for another process is spelled other than \`${WORDS}\``
+  `and a parameter taking another process's command line is spelled other than \`${WORDS}\``
 
 type Held = ReadonlyMap<string, ts.FunctionLikeDeclaration>
 
