@@ -8,10 +8,9 @@ export const nimueMisc = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement:
-        "No seq argument exists, and no dev server code works a name or a port out of one.",
+      statement: "A dev server is named by the commit it runs rather than by a seq or a worktree.",
       workingMemory:
-        "seq is an argument, not a property: command/argument/pages/seq.argument.ts, --seq, a whole number naming the worktree, the state file and the log. Six dev server commands name it: bootstrap, log, restart, start, status, stop; their code and tests import it, as does modules/dev-server-running, which works the port out of the base port against the seq, as port.argument says too. The state file carries seq, written by dev-server-recording and shaped by dev-server-stating. Worktrees are named now.",
+        "seq is an argument, not a property: command/argument/pages/seq.argument.ts. Four things come out of it, all in infrastructure/service/web-app/modules: the worktree ~/worktrees/change-<seq> in change-branch-worktree, and in dev-server-stating the state file ~/projects/<seq>/dev-servers/<app>.json, its log, and the port basePort + seq % 100. Six command pages take --seq: bootstrap, log, restart, start, status, stop. The strict state shape names seq and worktree_path. Nothing here runs git.\n",
     },
   ],
 } as const satisfies Initiative
