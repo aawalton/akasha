@@ -6,5 +6,5 @@ export const rejection20260916AppliedForA10dlcCampaign = {
   slug: "rejection-2026-09-16-applied-for-a-10dlc-campaign",
   title: "Applied for a 10DLC campaign",
   happenedAt: "2026-09-16T14:00:00.000Z",
-  rejected: false,
+  rejected: true,
 } as const satisfies Rejection
