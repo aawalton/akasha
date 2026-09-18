@@ -7,7 +7,7 @@ export const commandTakesItsArgumentsThroughOneReader = {
   definition: "the check refusing a read of a command's call outside the one reader",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnAudit: false,
+  runsOnAudit: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -87,19 +87,19 @@ export const commandTakesItsArgumentsThroughOneReader = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Under `command/pages` the spelling `argv` names a command's own call.",
+    },
+    {
+      decisionKind: "decision-kind/upkeep",
+      statement: "A command line for another process is spelled otherwise there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A refusal names the line the words are read on.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "Every read of those words is refused apart.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Nothing is judged while this page states `experimental`.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "`experimental` comes off this page once nothing judged here reads those words.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -135,16 +135,6 @@ export const commandTakesItsArgumentsThroughOneReader = {
       statement: "Words a module takes under another spelling are read by nothing here.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A parameter spelled `argv` holding another process's words reads as a command's own.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A helper reading a foreign command line is refused where a module judged here exports it.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement:
         "Words a file run as a script reads under `import.meta.main` are read by nothing here.",
@@ -156,5 +146,4 @@ export const commandTakesItsArgumentsThroughOneReader = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-  experimental: true,
 } as const satisfies CheckCode

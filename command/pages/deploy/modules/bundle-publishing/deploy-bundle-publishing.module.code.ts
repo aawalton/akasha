@@ -63,15 +63,15 @@ function tagFileFor(root: string, slug: string): string | null {
   return named === null ? null : join(dirname(app.path), named)
 }
 
-function mustRun(argv: readonly string[], what: string): string | null {
+function mustRun(run: readonly string[], what: string): string | null {
   const started = Date.now()
-  const done = ran([...argv], { timeout: PUSH_CEILING_MS })
+  const done = ran([...run], { timeout: PUSH_CEILING_MS })
   if (done.code === 0) return null
   const why =
     Date.now() - started >= PUSH_CEILING_MS
       ? `was still running after ${String(PUSH_CEILING_MS / A_SECOND)}s and was killed, so it is stuck rather than slow`
       : "failed"
-  return `${what} ${why}, so nothing it would have produced is there. It ran as \`${argv.join(" ")}\`.\n${done.err.trim()}`
+  return `${what} ${why}, so nothing it would have produced is there. It ran as \`${run.join(" ")}\`.\n${done.err.trim()}`
 }
 
 const HASH_HELD = /ADDON_BUNDLE_CONTENT_HASH\s*=\s*"([0-9a-f]{64})"/
