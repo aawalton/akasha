@@ -59,9 +59,6 @@ export const aelwynStrengthTraining = {
         "A muscle under its weekly set floor is owed work before any muscle above that floor.",
     },
     {
-      statement: "A set counts toward the weekly total only where that set was taken near failure.",
-    },
-    {
       statement:
         "How Alan is today is read from the sets Alan has just done rather than asked in advance.",
     },
