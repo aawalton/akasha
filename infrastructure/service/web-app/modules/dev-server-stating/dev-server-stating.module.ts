@@ -30,7 +30,7 @@ export const devServerStating = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A port is the app's base port plus the change number modulo a hundred.",
+      statement: "A port is the first free port up from the app's base port.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,6 +56,10 @@ export const devServerStating = {
       decisionKind: "decision-kind/gap",
       statement:
         "A refusal naming the app flag is enriched from the index, so a bad flag reads as a missing index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No dev server starts where the hundred ports from the base port are all taken.",
     },
   ],
 } as const satisfies Module

@@ -1,7 +1,10 @@
 import type { Dirent } from "node:fs"
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
-import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import {
+  InputError,
+  operationalError,
+} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   errnoCodeOf,
   pidAliveOrRefuse,
@@ -108,8 +111,31 @@ export function lookupApp(root: string, name: string): DevServerApp {
   }
 }
 
-export function computePort({ basePort, seq }: { basePort: number; seq: number }): number {
-  return basePort + (seq % 100)
+const PORT_TRIES = 100
+
+const PORT_PROBE = {
+  data(): undefined {
+    return undefined
+  },
+}
+
+function portFree(port: number): boolean {
+  try {
+    Bun.listen({ hostname: "127.0.0.1", port, socket: PORT_PROBE }).stop(true)
+    return true
+  } catch {
+    return false
+  }
+}
+
+export function freePortFrom(basePort: number): number {
+  const last = basePort + PORT_TRIES - 1
+  for (let port = basePort; port <= last; port += 1) {
+    if (portFree(port)) return port
+  }
+  throw operationalError(
+    `every port from ${String(basePort)} to ${String(last)} is taken, so no dev server has one`
+  )
 }
 
 function projectsRoot(): string {

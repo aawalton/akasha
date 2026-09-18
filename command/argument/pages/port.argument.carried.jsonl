@@ -2,6 +2,6 @@
 {"placeholder":"p"}
 {"said":"--port"}
 {"slug":"port"}
-{"takes":"the port to run on, replacing the one the base port and the seq work out"}
+{"takes":"the port to run on, replacing the first free one up from the app's base port"}
 {"type":"page-type/argument"}
 {"value":"whole-number"}

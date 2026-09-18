@@ -35,7 +35,8 @@ export const devServerRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The port is the app's base port against the seq where no port is named.",
+      statement:
+        "The port is the first free port up from the app's base port where no port is named.",
     },
     {
       decisionKind: "decision-kind/absence",

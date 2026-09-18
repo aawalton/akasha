@@ -19,9 +19,9 @@ import {
   wroteEnvSaid,
 } from "akasha/infrastructure/service/web-app/modules/dev-server-env-writing/dev-server-env-writing.module.code.ts"
 import {
-  computePort,
   type DevServerState,
   ensureDevServerDirs,
+  freePortFrom,
   isPidAlive,
   listStateFiles,
   logFilePath,
@@ -60,7 +60,7 @@ export async function starting(
 ): Promise<Answer> {
   const report: string[] = []
   const app = lookupApp(read.root, read.app)
-  const port = read.port ?? computePort({ basePort: app.basePort, seq: read.seq })
+  const port = read.port ?? freePortFrom(app.basePort)
 
   const worktreePath = await resolveWorktreePath(read.seq)
   const cwd = `${worktreePath}/${app.packagePath}`

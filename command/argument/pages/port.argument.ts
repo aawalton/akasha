@@ -5,7 +5,7 @@ export const port = {
   type: "page-type/argument",
   slug: "port",
   said: "--port",
-  takes: "the port to run on, replacing the one the base port and the seq work out",
+  takes: "the port to run on, replacing the first free one up from the app's base port",
   value: "whole-number",
   placeholder: "p",
 } as const satisfies Argument
