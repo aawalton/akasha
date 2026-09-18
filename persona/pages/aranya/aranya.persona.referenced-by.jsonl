@@ -5,3 +5,4 @@
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/aranya-workstation-service-stability.initiative.ts","id":"01a0911d-4745-7cb3-aef6-81176d51a5ea"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"personas-crafted","path":"persona/craft-day/pages/sophia-2026-07-02.persona-craft-day.ts","id":"019f2306-5f52-7eda-9346-dcdeb0a1e350"}
+{"propertySlug":"seat-persona","path":"agent/seat/pages/aranya/aranya.seat.ts","id":"01a0b6d2-3244-7000-b471-d6e769d70318"}
