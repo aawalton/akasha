@@ -89,5 +89,18 @@ export const spotifyClient = {
       decisionKind: "decision-kind/departure",
       statement: "Every query a path carries is written here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call takes a slot from the account's window before that call is made.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A call handed a fetching of its own reaches no live API, so that call takes no slot.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 429 writes its refusal against the account, so every other process reads it.",
+    },
   ],
 } as const satisfies Module

@@ -3,6 +3,12 @@ import {
   getOAuthAccessToken,
 } from "akasha/alan/music/spotify/modules/auth/spotify-auth.module.code.ts"
 import {
+  accountAt,
+  accountRoot,
+  refusedUntil,
+  slotTaken,
+} from "akasha/alan/music/spotify/modules/budget/spotify-budget.module.code.ts"
+import {
   type Fetching,
   fetchSpotify,
 } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
@@ -45,6 +51,36 @@ function waiting(ms: number): Promise<void> {
 
 function paced(): Promise<void> {
   return waiting(rateLimitMs())
+}
+
+type Accounted = {
+  readonly root: string
+  readonly page: string
+}
+
+let accounted: Accounted | null = null
+
+function accountHeld(): Accounted {
+  if (accounted === null) {
+    const root = accountRoot()
+    accounted = { root, page: accountAt(root) }
+  }
+  return accounted
+}
+
+async function budgeted(over?: Fetching): Promise<undefined> {
+  if (over !== undefined) return
+  const held = accountHeld()
+  for (;;) {
+    const slot = slotTaken(Date.now(), held.root, held.page)
+    if (slot.took) return
+    if (slot.banned) {
+      throw new Error(
+        `spotify is refusing this account, and ${Math.round(slot.waitMs / 1000)}s of that refusal is left`
+      )
+    }
+    await waiting(slot.waitMs)
+  }
 }
 
 let pending: Promise<unknown> = Promise.resolve()
@@ -121,11 +157,18 @@ export async function spotifyRequest<T extends z.ZodTypeAny>(
   over?: Fetching
 ): Promise<z.infer<T>> {
   const url = resolveUrl(endpointOrUrl)
-  const result = await enqueue(() => performRequest(url, options, over))
+  const result = await enqueue(async () => {
+    await budgeted(over)
+    return performRequest(url, options, over)
+  })
 
   if (result.status === 429) {
     const waitMs = retryAfterMs(result.headers.get("Retry-After"))
     const seconds = waitMs / 1000
+    if (over === undefined) {
+      const held = accountHeld()
+      refusedUntil(Date.now(), waitMs, held.root, held.page)
+    }
     if (waitMs > MAX_RETRY_AFTER_MS) {
       throw new Error(
         `spotify API 429 rate limited — the server asked for Retry-After ${seconds}s, ` +
