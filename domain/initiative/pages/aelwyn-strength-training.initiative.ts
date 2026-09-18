@@ -10,17 +10,17 @@ export const aelwynStrengthTraining = {
     {
       statement: "A planner chooses Alan's next movement from principles he settled.",
       workingMemory:
-        "The old planner is deleted: the `session-planning` package whole, and the commands `exercise-select`, `exercise-next-set` and `exercise-ranks`. Alan called for a rebuild from first principles on 2026-09-08. Nothing chooses a movement today. Kept for the rebuild: the goal weights L40 E30 F20 A10, the layoff and novelty knobs the selection policy has, the 23 fitness coaching notes, and the 884-movement catalogue. The principles themselves are unsettled.",
+        "The principles are settled and are the intents below this one, so this intent is met once every one of them is built. Nothing chooses a movement today: the `session-planning` package and the commands `exercise-select`, `exercise-next-set` and `exercise-ranks` are deleted, and no fitness command is left in the tree. Kept for the rebuild: the 884-movement catalogue, the 23 fitness coaching notes, the selection policy numbers, and the 122 logged sets.",
     },
     {
       statement: "A joint's mobility reads as a direction.",
       workingMemory:
-        "Seven mobility readings exist, all dated 2026-06-19 to 2026-06-24. `akasha exercise-mobility-show` answers a trend for each of `supine-slr::right`, `supine-slr::left` and `wall-slide-overhead::n-a`, and every one reads `insufficient`. Overhead mobility near half range is already one of the 23 fitness coaching notes, so what a reading would bound is programmed against today.",
+        "Seven readings exist, between 2026-06-20 and 2026-06-24, none since. Only forward-fold has more than one: three, on 06-20, 06-23 and 06-24. supine-slr has one a side and wall-slide-overhead has one, so no direction reads from either. `akasha exercise-mobility-show` is deleted with the planner. The overhead-mobility and ankle-dorsiflexion notes already program against what a reading would bound, so this waits on Alan reading again rather than on code.",
     },
     {
       statement: "A layoff has a way back in that ran once.",
       workingMemory:
-        "`akasha exercise-select` run on 2026-09-07, at 28 days since 2026-08-10 and so at full saturation, plans Dumbbell Bench Press at 4 sets of 15 to 17 at 30 lb and says `have load, extend reps to 17 / add a set`. No reduction appears in the plan or among the rules fired, where the policy allows up to 12 percent. The rules named are in-kit, anchor:held, recency and coarse-jump-guard. Nothing names a layoff. So the path is unwritten rather than untested.",
+        "Alan confirmed on 2026-09-18 that he has not trained since 2026-08-10, so the way back in is wanted now. `akasha exercise-select` is deleted. The intent below saying how long Alan was away is no reason to expect more or less of him killed the three layoff numbers, taken off the selection policy at 00fe0f1. So the way back in is a first movement Alan has history enough to read a drop against, and today read from the sets he has just done.",
     },
     {
       statement: "A movement Alan may not perform is gone before any movement is ranked.",
