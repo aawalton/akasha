@@ -30,10 +30,6 @@ export const aelwynStrengthTraining = {
         "Every constraint keeping a movement out names when that constraint is tested again.",
     },
     {
-      statement:
-        "Whether the next movement is new or familiar is decided by what Alan has already done today.",
-    },
-    {
       statement: "The most valuable movement available is always the one offered next.",
     },
     {
