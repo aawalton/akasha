@@ -18,5 +18,11 @@ export const nimueMisc = {
       workingMemory:
         "The port comes out of the name today: dev-server-stating works it out as basePort + seq % 100, and its module page says a port is the app base port plus the change number modulo a hundred. port.argument says --port replaces the one the base port and the seq work out. A commit hash carries no small number, so the port stops coming from the name: start takes the first free port up from the app base port and writes it into the state file, and status and log say which. --port still overrides.",
     },
+    {
+      statement:
+        "A dev server lays its own tree down from its commit, and that tree is not edited.",
+      workingMemory:
+        "start lays the commit down with git archive into ~/projects/<commit>/, links node_modules from the live checkout, writes .env.local there and runs react-router dev from it, so a dev server is a frozen preview rather than a tree to edit. Nothing holds a tree at a commit on disk today: git archive is used for manifests only, in manifest-locking and web-app-building, and deploy still pins with git worktree add into .git/trees/<kind>. The page service reads at a commit but hands back bodies.",
+    },
   ],
 } as const satisfies Initiative
