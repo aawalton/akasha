@@ -31,10 +31,6 @@ export const aelwynStrengthTraining = {
     },
     {
       statement:
-        "The next movement is chosen from what Alan has already done rather than planned as a session.",
-    },
-    {
-      statement:
         "Whether the next movement is new or familiar is decided by what Alan has already done today.",
     },
     {
