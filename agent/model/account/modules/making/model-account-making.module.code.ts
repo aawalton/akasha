@@ -4,13 +4,11 @@ import {
   everyAccountIn,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import {
-  type Asking,
-  landedMechanically,
+  type Landing,
+  runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
-import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
@@ -42,14 +40,7 @@ export type Made =
   | { readonly kind: "standing"; readonly slug: string; readonly path: string }
   | { readonly kind: "refused"; readonly slug: string; readonly why: string }
 
-export type Landing = (
-  done: string[],
-  root: string,
-  asked: readonly Asking[],
-  message: string
-) => Promise<Applied | Refused>
-
-export const LANDING: Landing = landedMechanically
+export const LANDING: Landing = runMechanicalChange
 
 export function accountsAtFor(page: string, slug: string): string {
   const named = page.lastIndexOf("/")
@@ -163,10 +154,10 @@ export async function madeIn(
       reading
     )
     const landed = await landing(
-      done,
       root,
       [{ at: PUT, given: { at: path, body: text } }],
-      `akasha: add ${path}`
+      `akasha: add ${path}`,
+      { done }
     )
     const wrong = refusalsIn(landed)
     if (wrong.length > 0) return { kind: "refused", slug, why: wrong.join("; ") }

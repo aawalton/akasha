@@ -3,9 +3,9 @@ import {
   accountPageAt,
   accountPageText,
   accountsAtFor,
-  type Landing,
   madeIn,
 } from "akasha/agent/model/account/modules/making/model-account-making.module.code.ts"
+import type { Landing } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -37,8 +37,8 @@ const uncalled: Landing = () => {
 
 const COMMIT = "1111111111111111111111111111111111111111"
 
-const threwAfterCommitting: Landing = (done) => {
-  done.push(COMMIT)
+const threwAfterCommitting: Landing = (_root, _asked, _message, writing) => {
+  writing?.done?.push(COMMIT)
   throw new Error("the work after that commit stopped")
 }
 
