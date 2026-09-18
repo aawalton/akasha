@@ -138,9 +138,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/flexibility/log/properties/mobility-reading-value-num.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/anchor-block-weeks.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/anchor-escape-rpe-ceiling.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/layoff-grace-days.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/layoff-max-load-reduction.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/layoff-saturation-days.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/novelty-cap-per-session.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/recency-saturation-days.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/recency-weight.number-property.ts"}

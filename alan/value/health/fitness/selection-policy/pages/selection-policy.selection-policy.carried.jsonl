@@ -1,9 +1,6 @@
 {"anchorBlockWeeks":6}
 {"anchorEscapeRpeCeiling":6}
 {"id":"01a06862-a02e-7416-95e5-bb41af7c60d1"}
-{"layoffGraceDays":10}
-{"layoffMaxLoadReduction":0.12}
-{"layoffSaturationDays":28}
 {"noveltyCapPerSession":1}
 {"recencySaturationDays":21}
 {"recencyWeight":0.05}

@@ -9,9 +9,6 @@ export const selectionPolicy = {
   parts: [
     "number-property/anchor-block-weeks",
     "number-property/anchor-escape-rpe-ceiling",
-    "number-property/layoff-grace-days",
-    "number-property/layoff-max-load-reduction",
-    "number-property/layoff-saturation-days",
     "number-property/novelty-cap-per-session",
     "number-property/recency-saturation-days",
     "number-property/recency-weight",
@@ -31,9 +28,6 @@ export const selectionPolicy = {
     { pageProperty: "number-property/novelty-cap-per-session", required: true, many: false },
     { pageProperty: "number-property/anchor-block-weeks", required: true, many: false },
     { pageProperty: "number-property/anchor-escape-rpe-ceiling", required: true, many: false },
-    { pageProperty: "number-property/layoff-grace-days", required: true, many: false },
-    { pageProperty: "number-property/layoff-max-load-reduction", required: true, many: false },
-    { pageProperty: "number-property/layoff-saturation-days", required: true, many: false },
     { pageProperty: "number-property/weekly-set-floor", required: true, many: false },
     { pageProperty: "number-property/weekly-set-ceiling", required: true, many: false },
     { pageProperty: "number-property/zone2-weekly-floor", required: true, many: false },
@@ -56,6 +50,10 @@ export const selectionPolicy = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Each number the selector reads is a property of this page type.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No number here scales what is asked of Alan by how long Alan was away.",
     },
   ],
   types: "ts",
