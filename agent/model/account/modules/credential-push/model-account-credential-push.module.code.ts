@@ -7,14 +7,12 @@ import {
 } from "akasha/agent/model/account/modules/marking/model-account-marking.module.code.ts"
 import { accountPathIn } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import {
-  type Asking,
-  landedMechanically,
+  type Landing,
+  runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
-import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import type { PageOf } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
@@ -64,13 +62,6 @@ export type CipherMade = (
   values: ReadonlyMap<string, string>
 ) => Composed
 
-export type Landing = (
-  done: string[],
-  root: string,
-  asked: readonly Asking[],
-  message: string
-) => Promise<Applied | Refused>
-
 export type Doors = {
   readonly secretsRead: SecretsRead
   readonly cipherMade: CipherMade
@@ -80,7 +71,7 @@ export type Doors = {
 export const DOORS: Doors = {
   secretsRead: secretsIn,
   cipherMade: cipherFor,
-  landing: landedMechanically,
+  landing: runMechanicalChange,
 }
 
 export type Push =
@@ -271,10 +262,10 @@ export async function pushedIn(
     const composed = doors.cipherMade(root, page, next)
     if (composed.text === null) return refusedFor(slug, composed.why)
     const landed = await doors.landing(
-      done,
       root,
       [{ at: PUT, given: { at: sidecar, body: composed.text } }],
-      `akasha: credential push ${sidecar}`
+      `akasha: credential push ${sidecar}`,
+      { done }
     )
     const said = refusalsIn(landed)
     if (said.length > 0) {
