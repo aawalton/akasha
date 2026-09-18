@@ -1,0 +1,14 @@
+import type { MobileCut } from "akasha/alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.types.ts"
+
+export const smilingjenny116 = {
+  id: "01a0b5fd-cb5f-7000-9855-335030da0629",
+  type: "page-type/mobile-cut",
+  slug: "smilingjenny-116",
+  title: "smilingjenny cut build 116",
+  app: "ios-app/smilingjenny",
+  buildNumber: 116,
+  mainSha: "37488f4a757cd9881770e45cbb1c1e01a22aeebd",
+  shellSha: "37488f4a757cd9881770e45cbb1c1e01a22aeebd",
+  buildInputTreeHash: "39f84f1e0ce1e6f4b6b4e9d50ddf627dde905014b5a823527e761f5312cd3a60",
+  cutAt: "2026-09-18T19:28:23.901Z",
+} as const satisfies MobileCut
