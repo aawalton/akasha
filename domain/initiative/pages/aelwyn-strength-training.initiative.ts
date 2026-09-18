@@ -10,7 +10,7 @@ export const aelwynStrengthTraining = {
     {
       statement: "A planner chooses Alan's next movement from principles he settled.",
       workingMemory:
-        "The principles are settled and are the intents below this one, so this intent is met once every one of them is built. Nothing chooses a movement today: the `session-planning` package and the commands `exercise-select`, `exercise-next-set` and `exercise-ranks` are deleted, and no fitness command is left in the tree. Kept for the rebuild: the 884-movement catalogue, the 23 fitness coaching notes, the selection policy numbers, and the 122 logged sets.",
+        "The principles are settled and are the intents below this one, so this intent is met once every one of them is built. The old planner is deleted and nothing chooses a movement yet. What is built: `akasha fitness week`, at 579b001, reading the trailing seven days into a set count for each muscle against the weekly floor and ceiling and for each pattern. Kept for the rebuild: the 884-movement catalogue, the 23 coaching notes, the selection policy numbers, and the 122 logged sets.",
     },
     {
       statement: "A joint's mobility reads as a direction.",
