@@ -6,7 +6,7 @@ import {
   OPERATIONAL,
   partWay,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+
 import {
   appendedOnto,
   askingFor,
@@ -50,6 +50,7 @@ import {
   TOLD_NOTHING,
   type Told,
   TWO_PLAYS,
+  throwingAfter,
 } from "akasha/command/pages/music/capture/music-capture.command.test-fixtures.ts"
 import { statesVersionSeven } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 

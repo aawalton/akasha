@@ -1,5 +1,8 @@
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import type { Asking as Asked } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type {
+  Asking as Asked,
+  Landing,
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
@@ -7,7 +10,6 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   changesFor,
   heardPageIn,
-  type Landing,
   type Ledger,
   type Planned,
   type Played,
@@ -162,7 +164,7 @@ export const LANDED: Applied = {
 export type Told = (changes: readonly Asked[], message: string) => undefined
 
 export function landingTelling(told: Told, answer: Applied | Refused = LANDED): Landing {
-  return (_done, _root, changes, message) => {
+  return (_root, changes, message) => {
     told(changes, message)
     return Promise.resolve(answer)
   }
@@ -175,3 +177,10 @@ export const PROBE_PLAYS: Plays = async () => ({
 })
 
 export const TOLD_NOTHING: Told = () => undefined
+
+export function throwingAfter(wrote: readonly string[], thrown: Error): Landing {
+  return async (_root, _asked, _message, writing) => {
+    for (const one of wrote) writing?.done?.push(one)
+    throw thrown
+  }
+}

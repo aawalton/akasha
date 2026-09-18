@@ -448,7 +448,6 @@
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/mobile/sim/screenshot/mobile-sim-screenshot.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/mobile/sim/tap/mobile-sim-tap.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/model-account/add/model-account-add.command.test.ts"}
-{"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/music/capture/music-capture.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/music/import-artist/music-import-artist.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/talos/kubeconfig/talos-kubeconfig.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/talos/secret-gen/talos-secret-gen.command.test.ts"}

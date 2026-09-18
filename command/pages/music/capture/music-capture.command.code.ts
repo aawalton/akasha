@@ -2,8 +2,8 @@ import { join } from "node:path"
 import { getRecentlyPlayed } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import type { Asking as Asked } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
-  landedMechanically,
-  type runMechanicalChange,
+  type Landing,
+  runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
@@ -68,13 +68,6 @@ const NOTHING_NEW = "nothing was played that is not already filed, so nothing la
 const NOTHING_WRITTEN = `nothing was written — ${dryRun.said}`
 
 export const WRITE = "change-mechanical/add-file-of-any-kind"
-
-export type Landing = (
-  done: string[],
-  root: string,
-  changes: readonly Asked[],
-  message: string
-) => ReturnType<typeof runMechanicalChange>
 
 export type Played = {
   readonly track: unknown
@@ -427,7 +420,7 @@ async function captured(
     const said = [...wouldWrite(changes), NOTHING_WRITTEN]
     return told(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...said])
   }
-  const landed = await landing(done, given.root, changes, messageFor(planned))
+  const landed = await landing(given.root, changes, messageFor(planned), { done })
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
   if (wrong.length > 0) return keeping(done, answeredWith(wrote, wrong, OPERATIONAL))
@@ -438,7 +431,7 @@ export async function capturing(
   argv: readonly string[],
   given: Given,
   plays: Plays,
-  landing: Landing = landedMechanically
+  landing: Landing = runMechanicalChange
 ): Promise<Answer> {
   return await answering(async (done) => await captured(done, argv, given, plays, landing))
 }
