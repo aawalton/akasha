@@ -8,11 +8,6 @@ export const aelwynStrengthTraining = {
   persona: "persona/aelwyn",
   intentStack: [
     {
-      statement: "The fitness domain carries no debris from earlier attempts.",
-      workingMemory:
-        "Gone: the four pageless `exercise-access` sidecars, the whole planner, `exercise-collection` (no page ever), `free-exercise-mapping`, `exercise-digest`, `training-digest`, the inactive schedule `push-pull-legs-7351f33b` with its seven days, two false gaps on `coaching-context`, the workout sessions and schedules, and the migrated-twice finding. All 884 exercise folders agree with their slugs. Left: five imports lacking instructions.",
-    },
-    {
       statement: "A planner chooses Alan's next movement from principles he settled.",
       workingMemory:
         "The old planner is deleted: the `session-planning` package whole, and the commands `exercise-select`, `exercise-next-set` and `exercise-ranks`. Alan called for a rebuild from first principles on 2026-09-08. Nothing chooses a movement today. Kept for the rebuild: the goal weights L40 E30 F20 A10, the layoff and novelty knobs the selection policy has, the 23 fitness coaching notes, and the 884-movement catalogue. The principles themselves are unsettled.",
