@@ -11,7 +11,7 @@ export const veraGraphCleanup = {
       statement:
         "Every closure over the graph's edges is worked out in the graph rather than by each caller.",
       workingMemory:
-        "Not met. Nine callers close over the graph, the last at `2b6968f1828`. Of twenty-five closures written by hand over `parts` and `extends`: four are done, ten are walled by a load cycle, three by the browser and the extension host reaching no Bun, seven want an ordered chain the graph cannot yet say, and one is no closure at all. The graph now says how far each node is and where the loops are. `domain-is-named-by-a-parent` costs 2.7s of its 15s at audit, up from 0.7s.",
+        "Not met. Ten callers close over the graph, the last at `b14a96be9ef`. Of twenty-five closures written by hand: six are done, ten are walled by a load cycle, three by the browser and the extension host, three by cost, two are untried and one is no closure at all. `beside-declaring` costs 32 times as much through the graph, 9ms against 292ms, because the indexes climb once for each page type. `page-asking` costs 3.3 times as much, 28ms against 88ms for one shape.",
     },
   ],
   constraints: [

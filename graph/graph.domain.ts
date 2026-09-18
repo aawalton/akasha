@@ -78,6 +78,11 @@ export const graph = {
       decisionKind: "decision-kind/constraint",
       statement: "Nothing the indexes are built from closes over the graph.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Answering a closure for each page type is too slow for the code the indexes are built with.",
+    },
   ],
   directives: [
     {
