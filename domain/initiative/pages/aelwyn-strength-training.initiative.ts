@@ -75,10 +75,6 @@ export const aelwynStrengthTraining = {
       statement: "A movement chosen carries the weight to use and a suggested number of reps.",
     },
     {
-      statement:
-        "The goal weights shape how the selector is built rather than scoring each movement.",
-    },
-    {
       statement: "Every constraint the selector obeys is a predicate over an exercise page.",
     },
     {
