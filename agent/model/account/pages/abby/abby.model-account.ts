@@ -7,4 +7,5 @@ export const abby = {
   provider: "model-provider/anthropic",
   email: "abby@alanwalton.com",
   aliasIndex: 10,
+  renewalDay: 14,
 } as const satisfies ModelAccount
