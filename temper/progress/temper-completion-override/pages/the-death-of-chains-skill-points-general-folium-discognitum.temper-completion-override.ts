@@ -10,5 +10,6 @@ export const theDeathOfChainsSkillPointsGeneralFoliumDiscognitum = {
   completionCardId: "skill-points",
   completionItemPath: ["general", "foliumDiscognitum"],
   floor: 2,
-  overrideReason: "ESO under-reports; complete in-game (The Death of Chains)",
+  overrideReason:
+    "Unreachable: the wrong quest branch was taken and cannot be undone, so this counts as done rather than as a gap",
 } as const satisfies TemperCompletionOverride
