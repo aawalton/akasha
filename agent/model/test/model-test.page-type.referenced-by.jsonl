@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"model-test.page-type.types.ts","path":"agent/model/test/pages/let-me-kept/let-me-kept.model-test.ts"}
 {"propertySlug":"import","fileName":"model-test.page-type.types.ts","path":"agent/model/test/pages/no-commentary-kept/no-commentary-kept.model-test.ts"}
 {"propertySlug":"import","fileName":"model-test.page-type.types.ts","path":"agent/model/test/pages/one-at-a-time-kept/one-at-a-time-kept.model-test.ts"}
-{"propertySlug":"import","fileName":"model-test.page-type.types.ts","path":"agent/model/test/pages/restatement/restatement.model-test.ts"}
 {"propertySlug":"import","fileName":"model-test.page-type.types.ts","path":"agent/model/test/pages/still-waiting-kept/still-waiting-kept.model-test.ts"}
 {"propertySlug":"import","fileName":"model-test.page-type.types.ts","path":"agent/model/test/pages/subagent-brief-kept/subagent-brief-kept.model-test.ts"}
 {"propertySlug":"parts","path":"agent/model/model.domain.ts","id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}

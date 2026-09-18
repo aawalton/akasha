@@ -1,9 +1,0 @@
-{"auditRuns":0}
-{"changeRuns":0}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A statement a change writes or alters is judged rather than every statement the page has."},{"decisionKind":"decision-kind/departure","statement":"A page whose definition a change alters has every departure on that page judged again."}]}
-{"definition":"whether a departure a change writes earns its place"}
-{"experimental":true}
-{"id":"01a05a0b-3a49-7d40-9dae-f16b21c7ffe2"}
-{"modelTests":["model-test/restatement"]}
-{"slug":"decision-earns-its-place"}
-{"type":"page-type/check-model"}

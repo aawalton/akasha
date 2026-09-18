@@ -64,7 +64,6 @@
 {"propertySlug":"decision-kind","path":"agent/model/test/pages/let-me-kept/let-me-kept.model-test.ts","id":"01a09c2e-c64a-7bce-94f0-2e7929d54f55"}
 {"propertySlug":"decision-kind","path":"agent/model/test/pages/no-commentary-kept/no-commentary-kept.model-test.ts","id":"01a095e1-52fe-7c09-8409-3361be998962"}
 {"propertySlug":"decision-kind","path":"agent/model/test/pages/one-at-a-time-kept/one-at-a-time-kept.model-test.ts","id":"01a095c1-8b61-745a-ae86-a789c9b85df7"}
-{"propertySlug":"decision-kind","path":"agent/model/test/pages/restatement/restatement.model-test.ts","id":"01a05a0b-3a49-7019-a1b3-203a1b2c9625"}
 {"propertySlug":"decision-kind","path":"agent/model/test/pages/still-waiting-kept/still-waiting-kept.model-test.ts","id":"01a0964f-ab67-7aa2-b221-14f4e5bbcc9a"}
 {"propertySlug":"decision-kind","path":"agent/model/test/pages/subagent-brief-kept/subagent-brief-kept.model-test.ts","id":"01a09613-e94f-79a9-a2f4-a13093bf1fef"}
 {"propertySlug":"decision-kind","path":"agent/modules/refusals-keeping/refusals-keeping.module.ts","id":"01a08165-a236-719a-95cf-da4ade5acc9f"}

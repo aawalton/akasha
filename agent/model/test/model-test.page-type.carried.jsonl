@@ -2,7 +2,7 @@
 {"definition":"a prompt and the labelled cases that say whether it works"}
 {"extends":["page-type/module"]}
 {"id":"01a053eb-6b23-7825-ab5f-2b95d3bd1e95"}
-{"parts":["file-property/positives","model-test/directive-kept","model-test/directives-kept","model-test/dont-stop-kept","model-test/going-on-kept","model-test/let-me-kept","model-test/no-commentary-kept","model-test/one-at-a-time-kept","model-test/restatement","model-test/still-waiting-kept","model-test/subagent-brief-kept","module/model-test-running","page-property-entry/cases","page-type/model-test-outcome","relation-property/model-family","select-property/case-answer","text-property/case-against","text-property/case-asked","text-property/case-page","text-property/case-statement","text-property/prompt"]}
+{"parts":["file-property/positives","model-test/directive-kept","model-test/directives-kept","model-test/dont-stop-kept","model-test/going-on-kept","model-test/let-me-kept","model-test/no-commentary-kept","model-test/one-at-a-time-kept","model-test/still-waiting-kept","model-test/subagent-brief-kept","module/model-test-running","page-property-entry/cases","page-type/model-test-outcome","relation-property/model-family","select-property/case-answer","text-property/case-against","text-property/case-asked","text-property/case-page","text-property/case-statement","text-property/prompt"]}
 {"properties":[{"pageProperty":"relation-property/model-family","required":true,"many":false},{"pageProperty":"text-property/prompt","required":true,"many":false},{"pageProperty":"page-property-entry/cases","required":false,"many":false},{"pageProperty":"file-property/positives","required":false,"many":false,"uncommitted":true,"default":"jsonl"}]}
 {"schema":"jsonl"}
 {"slug":"model-test"}
