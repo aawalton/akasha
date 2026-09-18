@@ -7,8 +7,6 @@ export const thereIsNoEpicLootHereOnlyPuns = {
   ownProgress: 718536,
   rank: "C",
   unit: "unit/words",
-  title: "There is no Epic Loot here, Only Puns",
-  world: "world/there-is-no-epic-loot-here-only-puns",
   externalIdentity: [
     {
       source: "royal-road",
@@ -16,6 +14,8 @@ export const thereIsNoEpicLootHereOnlyPuns = {
       externalLink: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns",
     },
   ],
+  title: "There is no Epic Loot here, Only Puns",
+  world: "world/there-is-no-epic-loot-here-only-puns",
   externalTags: [
     "LitRPG",
     "Comedy",
@@ -25,5 +25,5 @@ export const thereIsNoEpicLootHereOnlyPuns = {
     "Dungeon Core",
     "Magic",
   ],
-  publicationStatus: "hiatus",
+  publicationStatus: "ongoing",
 } as const satisfies StoryRead
