@@ -63,5 +63,17 @@ export const noAkashaCommandFromCode = {
       decisionKind: "decision-kind/absence",
       statement: "A name built as the code runs is not seen.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The mark asks for a quoted word that is the command or ends in the command.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A program's place is spelled as such a word, so no refusal is outside the mark.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The folder an import opens with carries a path after it, so the mark passes it.",
+    },
   ],
 } as const satisfies SyntaxRule

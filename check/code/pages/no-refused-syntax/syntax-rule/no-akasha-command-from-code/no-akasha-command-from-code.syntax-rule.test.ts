@@ -104,6 +104,31 @@ test("this mark excuses a file only where this rule could not have refused it", 
   expect(mark(text, PROBE_AT)).toBe(true)
 })
 
+test("every shape this rule refuses carries this mark", () => {
+  for (const text of [
+    'spawnSync("akasha", ["read"])\n',
+    'spawnSync("/home/one/bin/akasha", ["read"])\n',
+    'const AKASHA = "akasha"\nspawnSync(join(bin, AKASHA), ["read"])\n',
+    'ran(["akasha", "read"])\n',
+    "$`akasha write --file-path one`\n",
+  ]) {
+    expect(noAkashaCommandFromCode(parsed(text))).not.toHaveLength(0)
+    expect(mark(text, PROBE_AT)).toBe(true)
+  }
+})
+
+test("a file naming the command only as the folder an import opens with is excused", () => {
+  const text = 'import { one } from "akasha/check/one.module.code.ts"\n'
+  expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
+  expect(mark(text, PROBE_AT)).toBe(false)
+})
+
+test("a file naming the command only in prose is excused", () => {
+  const text = "const SAID = `run akasha read to see it`\n"
+  expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
+  expect(mark(text, PROBE_AT)).toBe(false)
+})
+
 test("a name built as the code runs is not seen", () => {
   const text = "spawnSync(bin + suffix, [])\n"
   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])

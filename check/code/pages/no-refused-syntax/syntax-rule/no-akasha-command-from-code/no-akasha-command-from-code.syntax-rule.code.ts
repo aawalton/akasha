@@ -9,7 +9,9 @@ import ts from "typescript"
 
 const COMMAND = "akasha"
 
-export const mark: Marking = (text) => text.includes(COMMAND)
+const QUOTED_PROGRAM = /["'`](?:[^"'`\n]*\/)?akasha["'`\s]/
+
+export const mark: Marking = (text) => QUOTED_PROGRAM.test(text)
 
 const SHELL = "$"
 
