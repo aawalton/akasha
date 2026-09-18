@@ -1,5 +1,6 @@
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"role","path":"agent/seat/pages/athena/athena.seat.ts","id":"01a0b6b3-19cd-7000-8924-d9f94f38dc5e"}
+{"propertySlug":"role","path":"agent/seat/pages/elin/elin.seat.ts","id":"01a0b6cd-2cc3-7000-a64d-9063653e850f"}
 {"propertySlug":"role","path":"agent/seat/pages/ember/ember.seat.ts","id":"01a0b6c6-4b65-7000-a6ef-01448bb6d7d8"}
 {"propertySlug":"role","path":"agent/seat/pages/nimue/nimue.seat.ts","id":"01a0b6bd-5242-7000-a372-3e5dc5d1579e"}
 {"propertySlug":"role","path":"agent/seat/pages/thea/thea.seat.ts","id":"01a0b6b3-752a-7000-9f3d-e5e3401c91df"}
