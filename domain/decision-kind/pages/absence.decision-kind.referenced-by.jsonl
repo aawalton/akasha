@@ -1075,6 +1075,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/email/message/show/email-message-show.command.ts","id":"01a06810-cf11-79cf-8583-56ab486a6b70"}
 {"propertySlug":"decision-kind","path":"command/pages/email/message/trash/email-message-trash.command.ts","id":"01a06810-cf11-7809-b382-e88022027eb3"}
 {"propertySlug":"decision-kind","path":"command/pages/email/unsubscribe/email-unsubscribe.command.ts","id":"01a06810-cf11-7b83-a5f8-81736bc497fb"}
+{"propertySlug":"decision-kind","path":"command/pages/fitness/week/fitness-week.command.ts","id":"01a0b6de-d8b5-7094-8d97-329aa11e314c"}
 {"propertySlug":"decision-kind","path":"command/pages/git/push/git-push.command.ts","id":"01a06cce-9280-7c22-afc1-5cfcba8a5ac4"}
 {"propertySlug":"decision-kind","path":"command/pages/git/restore/git-restore.command.ts","id":"01a07267-f795-738d-90c6-a5e16e277228"}
 {"propertySlug":"decision-kind","path":"command/pages/git/sweep/git-sweep.command.ts","id":"01a091c8-1761-7abf-827f-f2622036c56c"}

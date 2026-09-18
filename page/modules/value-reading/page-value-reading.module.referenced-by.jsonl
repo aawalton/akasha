@@ -179,6 +179,8 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/measure/attribute/measure-attribute.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/music/artist-list/music-artist-list.command.code.ts"}

@@ -80,6 +80,7 @@ export const command = {
     "namespace/browser",
     "namespace/change",
     "namespace/chess",
+    "namespace/fitness",
     "namespace/model-account",
     "namespace/domain",
     "namespace/email",

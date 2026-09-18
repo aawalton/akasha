@@ -4,5 +4,6 @@
 {"propertySlug":"import","fileName":"day-string.module.code.ts","path":"alan/harness/inbox/modules/count-polling/inbox-count-polling.module.code.ts"}
 {"propertySlug":"import","fileName":"day-string.module.code.ts","path":"alan/track/daily/modules/day-active-calories/day-active-calories.module.code.ts"}
 {"propertySlug":"import","fileName":"day-string.module.code.ts","path":"command/pages/alan/food/alan-food.command.code.ts"}
+{"propertySlug":"import","fileName":"day-string.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts"}
 {"propertySlug":"import","fileName":"day-string.module.code.ts","path":"command/pages/track/modules/waking/waking.module.code.ts"}
 {"propertySlug":"parts","path":"alan/harness/day-boundary/day-boundary.domain.ts","id":"01a05c77-31e4-7f97-8fe6-c273915285af"}
