@@ -1,1 +1,0 @@
-export type AnchorBlockWeeks = number

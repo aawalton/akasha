@@ -14,8 +14,6 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"amount","propertySlug":"amount","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"amount-count","propertySlug":"amount-count","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"anchor-beat","propertySlug":"beat","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"anchor-block-weeks","propertySlug":"anchor-block-weeks","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"anchor-escape-rpe-ceiling","propertySlug":"anchor-escape-rpe-ceiling","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"anchor-volume","propertySlug":"volume","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"armor","propertySlug":"armor","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"armor-base-value","propertySlug":"base-value","fileName":null,"folderName":null,"sorted":false}

@@ -9,8 +9,6 @@ export const selectionPolicy = {
   weightFunctionality: 20,
   weightAesthetics: 10,
   noveltyCapPerSession: 1,
-  anchorBlockWeeks: 6,
-  anchorEscapeRpeCeiling: 6,
   weeklySetFloor: 6,
   weeklySetCeiling: 12,
   zone2WeeklyFloor: 150,

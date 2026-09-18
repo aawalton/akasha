@@ -7,8 +7,6 @@ export const selectionPolicy = {
   definition: "the numbers the coach picks and bounds a session by",
   extends: ["page-type/page"],
   parts: [
-    "number-property/anchor-block-weeks",
-    "number-property/anchor-escape-rpe-ceiling",
     "number-property/novelty-cap-per-session",
     "number-property/recency-saturation-days",
     "number-property/recency-weight",
@@ -26,8 +24,6 @@ export const selectionPolicy = {
     { pageProperty: "number-property/weight-functionality", required: true, many: false },
     { pageProperty: "number-property/weight-aesthetics", required: true, many: false },
     { pageProperty: "number-property/novelty-cap-per-session", required: true, many: false },
-    { pageProperty: "number-property/anchor-block-weeks", required: true, many: false },
-    { pageProperty: "number-property/anchor-escape-rpe-ceiling", required: true, many: false },
     { pageProperty: "number-property/weekly-set-floor", required: true, many: false },
     { pageProperty: "number-property/weekly-set-ceiling", required: true, many: false },
     { pageProperty: "number-property/zone2-weekly-floor", required: true, many: false },
@@ -54,6 +50,10 @@ export const selectionPolicy = {
     {
       decisionKind: "decision-kind/absence",
       statement: "No number here scales what is asked of Alan by how long Alan was away.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No number here holds a movement its place for a length of time.",
     },
   ],
   types: "ts",
