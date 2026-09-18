@@ -7,6 +7,7 @@ export const selectionPolicy = {
   definition: "the numbers the coach picks and bounds a session by",
   extends: ["page-type/page"],
   parts: [
+    "number-property/near-failure-rpe-floor",
     "number-property/novelty-cap-per-session",
     "number-property/recency-saturation-days",
     "number-property/recency-weight",
@@ -29,6 +30,7 @@ export const selectionPolicy = {
     { pageProperty: "number-property/zone2-weekly-floor", required: true, many: false },
     { pageProperty: "number-property/recency-weight", required: true, many: false },
     { pageProperty: "number-property/recency-saturation-days", required: true, many: false },
+    { pageProperty: "number-property/near-failure-rpe-floor", required: true, many: false },
   ],
   decisions: [
     {

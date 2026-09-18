@@ -11,6 +11,7 @@ export const selectionPolicy = {
   noveltyCapPerSession: 1,
   weeklySetFloor: 6,
   weeklySetCeiling: 12,
+  nearFailureRpeFloor: 7,
   zone2WeeklyFloor: 150,
   recencyWeight: 0.05,
   recencySaturationDays: 21,

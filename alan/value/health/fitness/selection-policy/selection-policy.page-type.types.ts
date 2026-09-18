@@ -1,3 +1,4 @@
+import type { NearFailureRpeFloor } from "akasha/alan/value/health/fitness/selection-policy/properties/near-failure-rpe-floor.number-property.types.ts"
 import type { NoveltyCapPerSession } from "akasha/alan/value/health/fitness/selection-policy/properties/novelty-cap-per-session.number-property.types.ts"
 import type { RecencySaturationDays } from "akasha/alan/value/health/fitness/selection-policy/properties/recency-saturation-days.number-property.types.ts"
 import type { RecencyWeight } from "akasha/alan/value/health/fitness/selection-policy/properties/recency-weight.number-property.types.ts"
@@ -21,4 +22,5 @@ export type SelectionPolicy = Page & {
   zone2WeeklyFloor: Zone2WeeklyFloor
   recencyWeight: RecencyWeight
   recencySaturationDays: RecencySaturationDays
+  nearFailureRpeFloor: NearFailureRpeFloor
 }
