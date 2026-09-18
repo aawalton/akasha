@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { ComputedPropertyModule } from "akasha/page/computed-property-module/computed-property-module.page-type.types.ts"
 
 export const usZoneOffset = {
   id: "01a05c77-31e6-7877-b124-3f103fd4ac3d",
-  type: "page-type/module",
+  type: "page-type/computed-property-module",
   slug: "us-zone-offset",
   definition: "how far behind UTC New York and Denver are at one instant",
   code: "ts",
@@ -42,4 +42,4 @@ export const usZoneOffset = {
       statement: "These offsets are judged against the zone database.",
     },
   ],
-} as const satisfies Module
+} as const satisfies ComputedPropertyModule

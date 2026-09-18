@@ -1,6 +1,6 @@
 {"decisions":[{"decisionKind":"decision-kind/departure","statement":"A day is a dashed date rather than a Date."},{"decisionKind":"decision-kind/absence","statement":"No zone database is read."},{"decisionKind":"decision-kind/departure","statement":"A boundary is stored nowhere."},{"decisionKind":"decision-kind/departure","statement":"The day is derived in one place."}]}
 {"definition":"which day an instant falls on, where a day does not start at midnight"}
 {"id":"01a05c77-31e4-7f97-8fe6-c273915285af"}
-{"parts":["module/day-string","module/eso-day","module/mountain-day","module/mountain-wall","module/us-zone-offset"]}
+{"parts":["module/day-string","module/eso-day","module/mountain-day","module/mountain-wall","computed-property-module/us-zone-offset"]}
 {"slug":"day-boundary"}
 {"type":"page-type/domain"}

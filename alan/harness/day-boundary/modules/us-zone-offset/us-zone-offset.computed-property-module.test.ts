@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   denverOffsetMs,
   nyOffsetMs,
-} from "akasha/alan/harness/day-boundary/modules/us-zone-offset/us-zone-offset.module.code.ts"
+} from "akasha/alan/harness/day-boundary/modules/us-zone-offset/us-zone-offset.computed-property-module.code.ts"
 
 const MS_PER_HOUR = 3_600_000
 

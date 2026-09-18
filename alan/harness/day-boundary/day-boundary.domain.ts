@@ -10,7 +10,7 @@ export const dayBoundary = {
     "module/eso-day",
     "module/mountain-day",
     "module/mountain-wall",
-    "module/us-zone-offset",
+    "computed-property-module/us-zone-offset",
   ],
   decisions: [
     {

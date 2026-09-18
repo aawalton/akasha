@@ -629,7 +629,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/eso-day/eso-day.module.ts","id":"01a05c77-31e6-7a9f-9805-d1c81725dd03"}
 {"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/mountain-day/mountain-day.module.ts","id":"01a05c77-31e7-7659-86c4-340d070e0baf"}
 {"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.ts","id":"01a06848-a27e-756a-aff3-a0c8f31695cb"}
-{"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/us-zone-offset/us-zone-offset.module.ts","id":"01a05c77-31e6-7877-b124-3f103fd4ac3d"}
+{"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/us-zone-offset/us-zone-offset.computed-property-module.ts","id":"01a05c77-31e6-7877-b124-3f103fd4ac3d"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-inbound/email-inbound.domain.ts","id":"01a05bcd-25e2-7b0c-aff6-314192c66a72"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-inbound/modules/agent-channel/agent-channel.module.ts","id":"01a05bcd-25e3-7b2c-b378-4f00fd2d5eaa"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-inbound/modules/inbound-decision/inbound-decision.module.ts","id":"01a05bcd-25e4-7b6c-9b1e-0ebb793da0e0"}

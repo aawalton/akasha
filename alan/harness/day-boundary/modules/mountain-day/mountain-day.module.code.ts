@@ -1,5 +1,5 @@
 import { dayStrOf } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
-import { denverOffsetMs } from "akasha/alan/harness/day-boundary/modules/us-zone-offset/us-zone-offset.module.code.ts"
+import { denverOffsetMs } from "akasha/alan/harness/day-boundary/modules/us-zone-offset/us-zone-offset.computed-property-module.code.ts"
 
 export function getMountainMorningDayStr(now: Date): string {
   const nowMs = now.getTime()
