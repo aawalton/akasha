@@ -5,6 +5,6 @@ export const fitness = {
   type: "page-type/namespace",
   slug: "fitness",
   definition: "how Alan trains his body and what the training did",
-  parts: ["command/fitness-week"],
+  parts: ["command/fitness-next", "command/fitness-week", "module/training-week"],
   name: "fitness",
 } as const satisfies Namespace

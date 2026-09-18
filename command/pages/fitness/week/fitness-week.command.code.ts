@@ -1,9 +1,3 @@
-import {
-  dayStrOf,
-  MS_PER_DAY,
-  NOON,
-  parseDay,
-} from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
 import { getMountainMorningDayStr } from "akasha/alan/harness/day-boundary/modules/mountain-day/mountain-day.module.code.ts"
 import { selectionPolicy } from "akasha/alan/value/health/fitness/selection-policy/pages/selection-policy.selection-policy.ts"
 import { movementPattern } from "akasha/alan/value/health/fitness/strength/exercise/properties/movement-pattern.select-property.ts"
@@ -18,90 +12,15 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
-import { fitnessWeek as page } from "akasha/command/pages/fitness/week/fitness-week.command.ts"
-import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
-  numberAt,
-  slugAt,
-  textAt,
-  textsAt,
-  type Value,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-
-const MOVEMENT_TYPE = "strength-exercise"
-
-const SET_TYPE = "strength-log"
-
-const DAYS = 7
+  type Tally,
+  weekIn,
+} from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
+import { fitnessWeek as page } from "akasha/command/pages/fitness/week/fitness-week.command.ts"
 
 const NAME_WIDTH = 26
 
 const COUNT_WIDTH = 3
-
-const WARMUP = "isWarmup"
-
-export type Movement = {
-  readonly muscles: readonly string[]
-  readonly pattern: string | null
-}
-
-export type Tally = {
-  readonly muscles: ReadonlyMap<string, number>
-  readonly patterns: ReadonlyMap<string, number>
-  readonly counted: number
-  readonly passed: number
-}
-
-export function openedOn(last: string): string {
-  const parsed = parseDay(last)
-  if (parsed === null) return last
-  const [year, month, day] = parsed
-  const noon = Date.UTC(year, month - 1, day, NOON, 0, 0, 0)
-  return dayStrOf(new Date(noon - (DAYS - 1) * MS_PER_DAY))
-}
-
-export function movementsIn(pages: readonly Value[]): ReadonlyMap<string, Movement> {
-  const held = new Map<string, Movement>()
-  for (const one of pages) {
-    const slug = textAt(one, "slug")
-    if (slug === null) continue
-    held.set(slug, {
-      muscles: textsAt(one, "primaryMuscles") ?? [],
-      pattern: textAt(one, "movementPattern"),
-    })
-  }
-  return held
-}
-
-export function tallyOf(
-  sets: readonly Value[],
-  movements: ReadonlyMap<string, Movement>,
-  from: string,
-  to: string,
-  nearFailure: number
-): Tally {
-  const muscles = new Map<string, number>()
-  const patterns = new Map<string, number>()
-  let counted = 0
-  let passed = 0
-  for (const one of sets) {
-    const on = textAt(one, "setLogDate")
-    if (on === null || on < from || on > to) continue
-    const effort = numberAt(one, "rpe")
-    const named = slugAt(one, "exercise")
-    const movement = named === null ? undefined : movements.get(named)
-    const near = effort !== null && effort >= nearFailure
-    if (one[WARMUP] === true || !near || movement === undefined) {
-      passed += 1
-      continue
-    }
-    counted += 1
-    for (const muscle of movement.muscles) muscles.set(muscle, (muscles.get(muscle) ?? 0) + 1)
-    const pattern = movement.pattern
-    if (pattern !== null) patterns.set(pattern, (patterns.get(pattern) ?? 0) + 1)
-  }
-  return { muscles, patterns, counted, passed }
-}
 
 export function sayingOf(took: number, low: number, high: number): string {
   if (took < low) return `owed ${String(low - took)}`
@@ -146,10 +65,9 @@ export function saidOf(
 }
 
 export function weekOf(root: string, to: string) {
-  const movements = movementsIn(valuesOfType(root, MOVEMENT_TYPE).map((one) => one.value))
-  const sets = valuesOfType(root, SET_TYPE).map((one) => one.value)
-  const from = openedOn(to)
-  const tally = tallyOf(sets, movements, from, to, selectionPolicy.nearFailureRpeFloor)
+  const held = weekIn(root, to, selectionPolicy.nearFailureRpeFloor)
+  const tally = held.tally
+  const from = held.from
   return {
     from,
     to,

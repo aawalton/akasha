@@ -4,6 +4,7 @@
 {"propertySlug":"argument","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.ts","id":"01a06862-06c8-7001-8a4c-2018f029da13"}
 {"propertySlug":"argument","path":"command/pages/chess/play/chess-play.command.ts","id":"01a0a03d-5a6a-7d7d-981a-14813c990218"}
 {"propertySlug":"argument","path":"command/pages/chess/puzzles/import/chess-puzzles-import.command.ts","id":"01a0a054-c910-7cde-b634-a0f85f3d49a6"}
+{"propertySlug":"argument","path":"command/pages/fitness/next/fitness-next.command.ts","id":"01a0b6f2-5cf1-7d7f-a0f4-5905b47e64a6"}
 {"propertySlug":"argument","path":"command/pages/fitness/week/fitness-week.command.ts","id":"01a0b6de-d8b5-7094-8d97-329aa11e314c"}
 {"propertySlug":"argument","path":"command/pages/icloud/fetch/icloud-fetch.command.ts","id":"01a08cf8-d3c1-744e-a8e9-70301b272c28"}
 {"propertySlug":"argument","path":"command/pages/imessage/contact-list/imessage-contact-list.command.ts","id":"01a0685f-c8ed-7001-8968-6b6c199596e3"}
@@ -90,6 +91,7 @@
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.test.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/chess/play/chess-play.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"}
+{"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/icloud/fetch/icloud-fetch.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/imessage/contact-list/imessage-contact-list.command.code.ts"}

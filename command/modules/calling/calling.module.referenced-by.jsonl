@@ -109,6 +109,8 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/email/message/trash/email-message-trash.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.test.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/git/push/git-push.command.code.ts"}

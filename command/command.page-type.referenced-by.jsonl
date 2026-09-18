@@ -37,6 +37,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/email/message/show/email-message-show.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/email/message/trash/email-message-trash.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/fitness/next/fitness-next.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/fitness/week/fitness-week.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/git/push/git-push.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/git/restore/git-restore.command.ts"}

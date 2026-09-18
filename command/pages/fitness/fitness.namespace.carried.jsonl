@@ -1,6 +1,6 @@
 {"definition":"how Alan trains his body and what the training did"}
 {"id":"01a0b6de-94d3-70e8-885d-2799c7d023a9"}
 {"name":"fitness"}
-{"parts":["command/fitness-week"]}
+{"parts":["command/fitness-next","command/fitness-week","module/training-week"]}
 {"slug":"fitness"}
 {"type":"page-type/namespace"}
