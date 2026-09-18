@@ -129,6 +129,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/location-trace/properties/speed-mps.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/location-trace/properties/trace-latitude.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/location-trace/properties/trace-longitude.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/rejection/properties/risks.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/session-activity/properties/default-difficulty.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-sort-order.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/note/properties/fitness-coaching-note-sort-order.number-property.ts"}

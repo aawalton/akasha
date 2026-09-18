@@ -19,6 +19,14 @@ export const luck = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The same risk taken over and over counts once for each time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rejection saying nothing about how many counts once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The points are the rejections written down over the window turned into points.",
     },
     {

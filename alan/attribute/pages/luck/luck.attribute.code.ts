@@ -7,9 +7,13 @@ const REJECTION = "rejection"
 
 const REJECTED = "rejected"
 
+const RISKS = "risks"
+
 const HAPPENED_AT = "happenedAt"
 
 const ID = "id"
+
+const ONE_RISK = 1
 
 const REJECTIONS_UNKNOWN =
   "the rejections Alan risked could not be read, so his luck is unknown rather than nothing"
@@ -22,14 +26,20 @@ export function rejectionsBetween(from: string, to: string): Readonly<Record<str
   return {
     pageTypeSlug: REJECTION,
     where: { [HAPPENED_AT]: { "at-or-after": from, before: to } },
-    keys: [ID, REJECTED],
+    keys: [ID, REJECTED, RISKS],
   }
+}
+
+function risksIn(row: Row): number {
+  const risks = row.values[RISKS]
+  return typeof risks === "number" && risks > ONE_RISK ? risks : ONE_RISK
 }
 
 export function luckIn(rows: readonly Row[]): number {
   let total = 0
   for (const row of rows) {
-    total += row.values[REJECTED] === true ? POINTS_FOR_A_NO : POINTS_FOR_A_RISK
+    const each = row.values[REJECTED] === true ? POINTS_FOR_A_NO : POINTS_FOR_A_RISK
+    total += each * risksIn(row)
   }
   return total
 }

@@ -6,16 +6,21 @@ export const rejection = {
   slug: "rejection",
   definition: "one time Alan put himself where the answer could be no",
   extends: ["page-type/page"],
-  parts: ["boolean-property/rejected"],
+  parts: ["boolean-property/rejected", "number-property/risks"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "instant-property/happened-at", required: true, many: false },
     { pageProperty: "boolean-property/rejected", required: true, many: false },
+    { pageProperty: "number-property/risks", required: false, many: false },
   ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "One file has one time Alan risked a no.",
+      statement: "One file has one time Alan risked a no, or the same risk taken over and over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file saying nothing about how many has one risk in it.",
     },
     {
       decisionKind: "decision-kind/departure",

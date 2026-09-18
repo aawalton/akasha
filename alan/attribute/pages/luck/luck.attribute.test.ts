@@ -16,8 +16,8 @@ const FROM = "2026-09-01T13:00:00.000Z"
 
 const TO = "2026-09-02T13:00:00.000Z"
 
-function risked(rejected: unknown): Row {
-  return { values: { id: "one", rejected } }
+function risked(rejected: unknown, risks?: unknown): Row {
+  return { values: { id: "one", rejected, risks } }
 }
 
 test("one rejection Alan risked is one point", () => {
@@ -28,6 +28,18 @@ test("one rejection Alan risked is one point", () => {
 test("a rejection that came back as a no counts twice", () => {
   expect(POINTS_FOR_A_NO).toBe(2)
   expect(luckIn([risked(true)])).toBe(2)
+})
+
+test("the same risk taken over and over counts once for each time", () => {
+  expect(luckIn([risked(false, 12)])).toBe(12)
+})
+
+test("a run of the same risk that came back as a no counts twice for each time", () => {
+  expect(luckIn([risked(true, 3)])).toBe(6)
+})
+
+test("a rejection saying nothing about how many counts once", () => {
+  expect(luckIn([risked(false), risked(false, null)])).toBe(2)
 })
 
 test("the points are every rejection over the window turned into points", async () => {
@@ -47,7 +59,7 @@ test("the rejections asked for are the ones the window holds", () => {
   expect(rejectionsBetween(FROM, TO)).toEqual({
     pageTypeSlug: "rejection",
     where: { happenedAt: { "at-or-after": FROM, before: TO } },
-    keys: ["id", "rejected"],
+    keys: ["id", "rejected", "risks"],
   })
 })
 

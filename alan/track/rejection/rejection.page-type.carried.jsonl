@@ -1,9 +1,9 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One file has one time Alan risked a no."},{"decisionKind":"decision-kind/departure","statement":"The day a rejection counts to is worked out from the instant that rejection happened at."},{"decisionKind":"decision-kind/departure","statement":"A risk Alan took and a no Alan got are one page rather than two."},{"decisionKind":"decision-kind/absence","statement":"Nothing here turns a rejection into points."}]}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One file has one time Alan risked a no, or the same risk taken over and over."},{"decisionKind":"decision-kind/departure","statement":"A file saying nothing about how many has one risk in it."},{"decisionKind":"decision-kind/departure","statement":"The day a rejection counts to is worked out from the instant that rejection happened at."},{"decisionKind":"decision-kind/departure","statement":"A risk Alan took and a no Alan got are one page rather than two."},{"decisionKind":"decision-kind/absence","statement":"Nothing here turns a rejection into points."}]}
 {"definition":"one time Alan put himself where the answer could be no"}
 {"extends":["page-type/page"]}
 {"id":"01a0a69b-59a5-7703-b20b-4bc445481cac"}
-{"parts":["boolean-property/rejected"]}
-{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"instant-property/happened-at","required":true,"many":false},{"pageProperty":"boolean-property/rejected","required":true,"many":false}]}
+{"parts":["boolean-property/rejected","number-property/risks"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"instant-property/happened-at","required":true,"many":false},{"pageProperty":"boolean-property/rejected","required":true,"many":false},{"pageProperty":"number-property/risks","required":false,"many":false}]}
 {"schema":"jsonl"}
 {"slug":"rejection"}
 {"type":"page-type/page-type"}
