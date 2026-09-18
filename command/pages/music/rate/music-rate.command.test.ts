@@ -6,11 +6,11 @@ import type {
   Asking,
   Landing,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { throwingAfter } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.test-fixtures.ts"
 import {
   OPERATIONAL,
   partWay,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
-
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { refusingWith } from "akasha/command/modules/calling/calling.module.test-fixtures.ts"
@@ -249,18 +249,11 @@ test("a landing answering something wrong is answered as a refusal", async () =>
 
 const GAVE_OUT = new Error("the grade landed and the push gave out")
 
-function throwingAfter(wrote: readonly string[]): Landing {
-  return async (_root, _asked, _message, writing) => {
-    for (const one of wrote) writing?.done?.push(one)
-    throw GAVE_OUT
-  }
-}
-
 function ratingThrowing(wrote: readonly string[]) {
   return musicRate(
     ["--target", ARTIST, "--slug", RATED, "--rating", "A", "--reaction", REACTION],
     GIVEN,
-    throwingAfter(wrote)
+    throwingAfter(wrote, GAVE_OUT)
   )
 }
 

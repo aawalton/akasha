@@ -2,11 +2,11 @@ import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Asking as Asked } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { throwingAfter } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.test-fixtures.ts"
 import {
   OPERATIONAL,
   partWay,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
-
 import {
   appendedOnto,
   askingFor,
@@ -50,7 +50,6 @@ import {
   TOLD_NOTHING,
   type Told,
   TWO_PLAYS,
-  throwingAfter,
 } from "akasha/command/pages/music/capture/music-capture.command.test-fixtures.ts"
 import { statesVersionSeven } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 

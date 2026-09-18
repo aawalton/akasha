@@ -177,10 +177,3 @@ export const PROBE_PLAYS: Plays = async () => ({
 })
 
 export const TOLD_NOTHING: Told = () => undefined
-
-export function throwingAfter(wrote: readonly string[], thrown: Error): Landing {
-  return async (_root, _asked, _message, writing) => {
-    for (const one of wrote) writing?.done?.push(one)
-    throw thrown
-  }
-}

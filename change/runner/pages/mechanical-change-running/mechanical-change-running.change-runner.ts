@@ -7,6 +7,7 @@ export const mechanicalChangeRunning = {
   definition: "the changes a program names run in order and landed as one commit",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   addressed: "ts",
   reached: "page-type/change-mechanical",
   decisions: [

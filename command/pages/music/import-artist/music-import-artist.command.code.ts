@@ -39,8 +39,8 @@ import type {
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
-  landedMechanically,
-  type runMechanicalChange,
+  type Landing,
+  runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { artistName as artistNameArgument } from "akasha/command/argument/pages/artist-name.argument.ts"
@@ -90,13 +90,6 @@ const NAMED = [json, songLimit, artistNameArgument, mbidArgument] as const
 const BLANK = `\`${artistNameArgument.said}\` names no artist, and no \`${mbidArgument.said}\` was said either`
 
 export const WRITE = "change-mechanical/add-file-of-any-kind"
-
-export type Landing = (
-  done: string[],
-  root: string,
-  changes: readonly Asking[],
-  message: string
-) => ReturnType<typeof runMechanicalChange>
 
 export type Reach = {
   readonly searchArtist: (name: string) => Promise<readonly MbArtistSearchHit[]>
@@ -398,7 +391,7 @@ async function brought(
   if ("refused" in held) return refused(held.refused, INPUT)
   const found = await gathered(given.root, held, reach, todayYYYYMMDD())
   if ("refused" in found) return refused(found.refused, DATA)
-  const landed = await landing(done, given.root, found.changes, messageOf(found.said))
+  const landed = await landing(given.root, found.changes, messageOf(found.said), { done })
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
   if (wrong.length > 0) return keeping(done, answeredWith(wrote, wrong, OPERATIONAL))
@@ -409,7 +402,7 @@ export async function musicImportArtist(
   argv: readonly string[],
   given: Given,
   reach: Reach = REACHING,
-  landing: Landing = landedMechanically
+  landing: Landing = runMechanicalChange
 ): Promise<Answer> {
   return await answering(async (done) => await brought(done, argv, given, reach, landing))
 }

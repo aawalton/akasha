@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/track/modules/landing/track-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"change/modules/gated-landing/gated-landing.module.code.ts"}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.test.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
@@ -49,4 +50,7 @@
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"story/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.test-fixtures.ts","path":"command/pages/music/capture/music-capture.command.test.ts"}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.test-fixtures.ts","path":"command/pages/music/import-artist/music-import-artist.command.test.ts"}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.test-fixtures.ts","path":"command/pages/music/rate/music-rate.command.test.ts"}
 {"propertySlug":"parts","path":"change/runner/change-runner.page-type.ts","id":"01a077c2-3a15-7c14-8900-ecb0624ff450"}

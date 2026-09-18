@@ -6,4 +6,5 @@
 {"reached":"page-type/change-mechanical"}
 {"slug":"mechanical-change-running"}
 {"test":"ts"}
+{"testFixtures":"ts"}
 {"type":"page-type/change-runner"}
