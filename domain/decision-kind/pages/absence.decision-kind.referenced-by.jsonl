@@ -1377,7 +1377,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/secret/modules/placing/secret-placing.module.ts","id":"01a06977-65e5-74e7-9c45-ae62673340e9"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/secret/modules/saying/secret-saying.module.ts","id":"01a07667-e09b-7f6e-bc84-5a76ea3566f4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/secret/modules/workstation-secrets/workstation-secrets.module.ts","id":"01a08ce2-2aad-723b-b3e8-bef5117eac5c"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/secret/secret.page-type.ts","id":"01a0684a-7d55-7000-bf3d-deee6d805174"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/vendored-workload/vendored-workload.page-type.ts","id":"01a068e5-527b-7fd9-b67c-c38bcf39040a"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/modules/change-branch-worktree/change-branch-worktree.module.ts","id":"01a069c1-1f43-7000-bf9c-42ecd1235cba"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/modules/dev-server-recording/dev-server-recording.module.ts","id":"01a06583-0030-7005-bc8d-acc88730da21"}

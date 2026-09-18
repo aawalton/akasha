@@ -78,16 +78,7 @@ export const secret = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A secret on a workstation is read from `~/.secrets.env` rather than from the repository.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A secret minted on a workstation is written into that same file.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No command answers a secret's value, minted or read.",
+      statement: "A secret minted on a workstation is written into `~/.secrets.env`.",
     },
   ],
   types: "ts",
