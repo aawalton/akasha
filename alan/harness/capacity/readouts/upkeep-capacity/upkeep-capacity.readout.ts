@@ -15,7 +15,7 @@ export const upkeepCapacity = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is the sum of the day's stretches that have ended.",
+      statement: "The reading is the sum of the day's stretches.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -28,7 +28,11 @@ export const upkeepCapacity = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch still running has no capacity rather than the hours run so far.",
+      statement: "A stretch still running is worth the hours run so far.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stretch beginning after the moment the reading is taken ran no hours.",
     },
     {
       decisionKind: "decision-kind/departure",

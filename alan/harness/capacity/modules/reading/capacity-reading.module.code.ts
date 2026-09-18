@@ -55,7 +55,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
   const stretches = await sessionsOfDay(dayId, STRETCH_KEYS)
   const hours = capacityIn(
     stretches.map((one) => ({
-      values: { [HEALTH_CAPACITY_HOURS]: capacityHoursOf(spelledForTheStore(one)) },
+      values: { [HEALTH_CAPACITY_HOURS]: capacityHoursOf(spelledForTheStore(one), now) },
     }))
   )
   if (hours === null) return null

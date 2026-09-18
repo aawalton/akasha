@@ -68,14 +68,19 @@ export function costFor(safetyLevel: unknown, difficultyLevel: unknown): number 
   return TAKES_BY_GAP.get(gap) ?? 0
 }
 
-export function capacityHoursOf(values: Readonly<Record<string, unknown>>): number | null {
+export function capacityHoursOf(
+  values: Readonly<Record<string, unknown>>,
+  now: Date = new Date()
+): number | null {
   const startTime = values[START_TIME]
-  const endTime = values[END_TIME]
-  if (typeof startTime !== "string" || typeof endTime !== "string" || endTime === "") return null
+  if (typeof startTime !== "string") return null
   const from = Date.parse(startTime)
-  const to = Date.parse(endTime)
-  if (!Number.isFinite(from) || !Number.isFinite(to)) return null
-  const hours = Math.abs(to - from) / AN_HOUR
+  if (!Number.isFinite(from)) return null
+  const endTime = values[END_TIME]
+  const stillRunning = typeof endTime !== "string" || endTime === ""
+  const to = stillRunning ? now.getTime() : Date.parse(endTime)
+  if (!Number.isFinite(to)) return null
+  const hours = Math.max(0, to - from) / AN_HOUR
   const worth = recoveryFor(values[TITLE]) - costFor(values[SAFETY_LEVEL], values[DIFFICULTY_LEVEL])
   return hours * worth
 }
