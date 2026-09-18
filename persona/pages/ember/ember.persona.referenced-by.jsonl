@@ -5,3 +5,4 @@
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/ember-temper-tasks.initiative.ts","id":"01a06cac-aa56-7519-8281-5622fa42a987"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"personas-crafted","path":"persona/craft-day/pages/sophia-2026-07-02.persona-craft-day.ts","id":"019f2306-5f52-7eda-9346-dcdeb0a1e350"}
+{"propertySlug":"seat-persona","path":"agent/seat/pages/ember/ember.seat.ts","id":"01a0b6c6-4b65-7000-a6ef-01448bb6d7d8"}
