@@ -8,7 +8,6 @@
 {"propertySlug":"decision-kind","path":"alan/music/catalog/song/properties/performed.boolean-property.ts","id":"01a06243-144b-7008-8401-2cea9948eac0"}
 {"propertySlug":"decision-kind","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}
 {"propertySlug":"decision-kind","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}
-{"propertySlug":"decision-kind","path":"check/code/pages/command-taking-two-words-is-tested-from-words/command-taking-two-words-is-tested-from-words.check-code.ts","id":"01a0952b-e27f-7c8d-97ee-d208aac7ceb3"}
 {"propertySlug":"decision-kind","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.ts","id":"01a04d5f-c731-7000-9066-3abf317a1d58"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.ts","id":"01a09577-1c6e-70ac-9225-958238aed3c2"}
 {"propertySlug":"decision-kind","path":"check/test/test.domain.ts","id":"01a04f3e-eea5-79ee-8d0b-c822c492a981"}

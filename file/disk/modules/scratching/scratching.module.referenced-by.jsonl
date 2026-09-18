@@ -49,8 +49,6 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.check.test.ts"}
-{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/command-taking-two-words-is-tested-from-words/command-taking-two-words-is-tested-from-words.check-code.audit.test.ts"}
-{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/command-taking-two-words-is-tested-from-words/command-taking-two-words-is-tested-from-words.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/decision-restated-on-a-part-narrows-it/decision-restated-on-a-part-narrows-it.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/decision-statement-is-plain/decision-statement-is-plain.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.audit.test.ts"}
@@ -285,8 +283,6 @@
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/calculation-imports-only-types/calculation-imports-only-types.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/change-reaches-its-own-target-type/change-reaches-its-own-target-type.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.audit.test.ts"}
-{"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/command-taking-two-words-is-tested-from-words/command-taking-two-words-is-tested-from-words.check-code.audit.test.ts"}
-{"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/command-taking-two-words-is-tested-from-words/command-taking-two-words-is-tested-from-words.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/decision-statement-is-plain/decision-statement-is-plain.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/file-length/file-length.check-code.audit.test.ts"}
