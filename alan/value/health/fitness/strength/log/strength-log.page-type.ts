@@ -70,6 +70,10 @@ export const strengthLog = {
       statement:
         "A set timed rather than counted has an activity and a length in place of reps and weight.",
     },
+    {
+      decisionKind: "decision-kind/upkeep",
+      statement: "Every set Alan performs reaches a page.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
