@@ -13,11 +13,6 @@ export const aelwynStrengthTraining = {
         "Gone: the four pageless `exercise-access` sidecars, the whole planner, `exercise-collection` (no page ever), `free-exercise-mapping`, `exercise-digest`, `training-digest`, the inactive schedule `push-pull-legs-7351f33b` with its seven days, two false gaps on `coaching-context`, the workout sessions and schedules, and the migrated-twice finding. All 884 exercise folders agree with their slugs. Left: five imports lacking instructions.",
     },
     {
-      statement: "Every set Alan performs reaches a page.",
-      workingMemory:
-        "Alan settled on 2026-09-07 that the 28 days since 2026-08-10 have no training, beyond at most one bout nobody logged. He was rebuilding other systems. The hole is therefore in the training rather than in the tracking. 122 sets are logged across 16 bouts, dated 2026-06-19 to 2026-08-10, ten of the sixteen inside the eleven days from 06-19 to 06-29. Each set now has its own date and names its day. Nothing recovers a bout after the day that bout happened.",
-    },
-    {
       statement: "A planner chooses Alan's next movement from principles he settled.",
       workingMemory:
         "The old planner is deleted: the `session-planning` package whole, and the commands `exercise-select`, `exercise-next-set` and `exercise-ranks`. Alan called for a rebuild from first principles on 2026-09-08. Nothing chooses a movement today. Kept for the rebuild: the goal weights L40 E30 F20 A10, the layoff and novelty knobs the selection policy has, the 23 fitness coaching notes, and the 884-movement catalogue. The principles themselves are unsettled.",
