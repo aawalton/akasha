@@ -8,10 +8,10 @@ export const shower = {
   toDoAnchoredFromCompletion: true,
   toDoCategory: "health",
   difficulty: "light",
-  toDoDueDate: "2026-09-18",
+  toDoDueDate: "2026-09-19",
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 46,
   toDoValue: "value/health",
-  toDoLastCompletedAt: "2026-09-16T13:07:27.708Z",
+  toDoLastCompletedAt: "2026-09-18T18:14:07.281Z",
 } as const satisfies ToDo
