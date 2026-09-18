@@ -166,7 +166,7 @@ describe("recordCutFingerprint", () => {
     return {
       rooted: () => "/a/checkout",
       pathed: () => PATH,
-      changed: (_root, _asked, _message, _agentId, writing) => {
+      changed: (_root, _asked, _message, writing) => {
         writing?.done?.push(COMMIT)
         return Promise.resolve({
           base: "HEAD",

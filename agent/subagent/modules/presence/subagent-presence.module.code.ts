@@ -163,8 +163,7 @@ export async function wrote(
       had === null
         ? `${slug}: a subagent states the agent id it acts under`
         : `${slug}: a subagent resuming takes up the page it had`,
-      agentId,
-      { done }
+      { agentId, done }
     ),
     done
   )
@@ -237,7 +236,7 @@ export async function took(
   if ("why" in moved) return moved
   const said = stopped ? "was stopped from the agents panel" : "is done"
   const why = `${slug} ${said}, so its page goes; what it was is in this repository's history`
-  return wentBy(await landing(root, [{ at: TAKE_PAGE, given: { at } }], why, null, { done }), done)
+  return wentBy(await landing(root, [{ at: TAKE_PAGE, given: { at } }], why, { done }), done)
 }
 
 export async function notWorking(
@@ -267,7 +266,6 @@ export async function tookUnder(
       root,
       paths.map((at): Asking => ({ at: TAKE_PAGE, given: { at } })),
       `${seatName} ${why}, so the ${String(paths.length)} subagent page(s) under it go`,
-      null,
       { done }
     ),
     done

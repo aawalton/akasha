@@ -169,7 +169,6 @@ async function publishedFrom(
     root,
     [{ at: PUT, given: { at: tagFile, body } }],
     MESSAGE,
-    null,
     { done: up }
   )
   if ("refusals" in landed) {

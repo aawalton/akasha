@@ -255,7 +255,7 @@ export function landings(answer: Applied | Refused = LANDED): Landings {
   const asked: (readonly Asking[])[] = []
   const said: string[] = []
   return {
-    landing: (_root, changes, message, _agentId, noting) => {
+    landing: (_root, changes, message, noting) => {
       asked.push(changes)
       said.push(message)
       if ("commit" in answer && answer.commit !== null) noting?.done?.push(answer.commit)
@@ -405,7 +405,7 @@ export const THROWN: Landing = () => {
   throw new OperationalError("another landing held the lock")
 }
 
-export const THREW_AFTER: Landing = (_root, _changes, _message, _agentId, noting) => {
+export const THREW_AFTER: Landing = (_root, _changes, _message, noting) => {
   noting?.done?.push(COMMIT)
   throw new OperationalError("the commit landed and the work after that commit stopped")
 }

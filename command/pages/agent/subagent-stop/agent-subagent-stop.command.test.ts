@@ -32,7 +32,7 @@ const COMMIT = "1111111111111111111111111111111111111111"
 
 function landings() {
   const asked: unknown[] = []
-  const landing: Landing = (_root, changes, _message, _agentId, writing) => {
+  const landing: Landing = (_root, changes, _message, writing) => {
     asked.push(changes)
     writing?.done?.push(COMMIT)
     return Promise.resolve({

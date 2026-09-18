@@ -44,7 +44,7 @@ async function landing(act: GatedAct, asked: readonly Asking[]): Promise<Landed>
   const done: string[] = []
   let said: Awaited<ReturnType<typeof runMechanicalChange>>
   try {
-    said = await runMechanicalChange(rootOf(act), asked, act.message, null, { done })
+    said = await runMechanicalChange(rootOf(act), asked, act.message, { done })
   } catch (thrown) {
     return { ok: false, why: `${whyOf(thrown)}${alsoLanded(done)}` }
   }

@@ -246,7 +246,7 @@ async function taking(
     at: TAKE,
     given: { at: one.page.path },
   }))
-  const landed = await landing(root, changes, messageOf(stale), null, { done })
+  const landed = await landing(root, changes, messageOf(stale), { done })
   if ("refusals" in landed) return answeredWith(done, landed.refusals, OPERATIONAL)
   if (landed.wrong.length > 0) return answeredWith(done, landed.wrong, OPERATIONAL)
   for (const one of stale) done.push(`${one.page.path} went`)

@@ -88,8 +88,7 @@ async function stated(
     root,
     [{ at: CARRIES, given: { at: reached.at, key: ASSIGNMENT, to: assignmentFor(slug) } }],
     messageFor(reached.name, slug),
-    given.agentId,
-    { writer: given.writer, done }
+    { agentId: given.agentId, writer: given.writer, done }
   )
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   return told([...saidFor(reached.name, slug, landed.commit)])

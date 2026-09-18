@@ -81,7 +81,7 @@ export async function landingTracked(
 ): Promise<Answer> {
   const stray = strayAmong(changes.flatMap(pathsOf))
   if (stray.length > 0) return mistaking(stray)
-  const landed = await runMechanicalChange(root, askedFor(changes), message, null, { done })
+  const landed = await runMechanicalChange(root, askedFor(changes), message, { done })
   if ("refusals" in landed) {
     return keeping(done, answeredWith([...(landed.said ?? [])], landed.refusals, WRONG))
   }
@@ -110,7 +110,7 @@ export async function landTracking(
   const named = asked.changes.map((one) => changeAt(one.path, one.body))
   let landed: Applied | Refused
   try {
-    landed = await landing(asked.root, named, asked.message, null, { done })
+    landed = await landing(asked.root, named, asked.message, { done })
   } catch (thrown) {
     return { refused: [whyOf(thrown), ...partWay(done)].join("\n") }
   }

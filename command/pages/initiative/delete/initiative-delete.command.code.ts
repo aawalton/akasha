@@ -81,8 +81,7 @@ async function away(
     root,
     [{ at: CARRIES, given: { at } }],
     messageFor(slug),
-    given.agentId,
-    { writer: given.writer, done }
+    { agentId: given.agentId, writer: given.writer, done }
   )
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   return told([...saidFor(slug, naming, landed.commit)])

@@ -69,7 +69,7 @@ test("a call that threw after the landing committed names that commit in its ref
     ["--file-path", AT],
     GIVEN,
     piped,
-    (_root, _asked, _message, _agentId, writing) => {
+    (_root, _asked, _message, writing) => {
       writing?.done?.push(COMMIT)
       throw new Error("the work after that commit stopped")
     }

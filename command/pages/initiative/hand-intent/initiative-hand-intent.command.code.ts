@@ -94,8 +94,7 @@ async function overTo(
       { at: TOOK, given: { at: from.path, key: INTENTS, where: STATEMENT, is: asked.statement } },
     ],
     messageFor(asked),
-    given.agentId,
-    { writer: given.writer, done }
+    { agentId: given.agentId, writer: given.writer, done }
   )
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   return told([...saidFor(asked, landed.commit)])

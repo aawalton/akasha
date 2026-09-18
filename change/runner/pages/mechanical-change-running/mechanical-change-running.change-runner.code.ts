@@ -47,6 +47,7 @@ export async function foldedOver(world: World, asked: readonly Asking[]): Promis
 }
 
 export type Writing = {
+  readonly agentId?: string | null
   readonly writer?: string | null
   readonly read?: string | null
   readonly done?: string[]
@@ -57,7 +58,6 @@ export async function runMechanicalChange(
   root: string,
   asked: readonly Asking[],
   message: string,
-  agentId: string | null = null,
   writing: Writing = {}
 ): Promise<Applied | Refused> {
   if (asked.length === 0) return { refusals: [NOTHING_ASKED], code: INPUT }
@@ -78,7 +78,7 @@ export async function runMechanicalChange(
   if ("why" in worked) return { refusals: [worked.why], code: DATA }
   return await applied(
     root,
-    agentId,
+    writing.agentId ?? null,
     message,
     NO_GATE,
     writing.writer ?? null,
@@ -103,4 +103,4 @@ export const landedMechanically = (
   root: string,
   asked: readonly Asking[],
   message: string
-): Promise<Applied | Refused> => runMechanicalChange(root, asked, message, null, { done })
+): Promise<Applied | Refused> => runMechanicalChange(root, asked, message, { done })

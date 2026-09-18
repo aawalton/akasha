@@ -263,7 +263,7 @@ export function lockHeldIn(root: string): undefined {
 export const HELD_LANDING: Landing = (root) =>
   refusedWhereHeld(() => Promise.resolve(holding(root, () => LANDED, 0)))
 
-export const THREW_AFTER: Landing = (_root, _changes, _message, _agentId, noting) => {
+export const THREW_AFTER: Landing = (_root, _changes, _message, noting) => {
   noting?.done?.push(COMMITTED)
   throw new Error("the work after that commit stopped")
 }

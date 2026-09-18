@@ -158,7 +158,7 @@ export async function landedIn(root: string, batch: readonly Asked[]): Promise<W
     const changes = latestIn(batch)
     if (changes.length === 0) return { commit: null, wrote: beside(root, kept), took: [] }
     const asked = tidiedIn(root, changes)
-    const said = await runMechanicalChange(root, asked, messageIn(batch), null, {
+    const said = await runMechanicalChange(root, asked, messageIn(batch), {
       writer: first.writer,
       read: first.read ?? null,
       done,

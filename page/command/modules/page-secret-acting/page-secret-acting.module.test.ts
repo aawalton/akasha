@@ -1,7 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { copyFileSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
-import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type {
+  Asking,
+  Landing,
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   DATA,
   OK,
@@ -13,7 +16,6 @@ import type { Refused } from "akasha/command/modules/landing/landing.module.code
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
-  type Landing,
   landedWith,
   PUT,
   type Saying,
@@ -183,7 +185,7 @@ test("a message the caller spells reaches the landing rather than the one compos
 const THREW = "the links would not be placed"
 
 function throwing(commit: string | null): Landing {
-  return async (_root, _changes, _message, _agentId, writing) => {
+  return async (_root, _changes, _message, writing) => {
     const noting = writing?.noting
     if (commit !== null && noting !== undefined) noting.commit = commit
     throw new Error(THREW)

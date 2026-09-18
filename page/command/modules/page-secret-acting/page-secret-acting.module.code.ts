@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import type {
   Asking,
-  Writing,
+  Landing,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
@@ -113,14 +113,6 @@ export const PUT = "change-mechanical/add-file-of-any-kind"
 
 export const TAKE = "change-mechanical-file/remove-file"
 
-export type Landing = (
-  root: string,
-  changes: readonly Asking[],
-  message: string,
-  agentId?: string | null,
-  writing?: Writing
-) => ReturnType<typeof runMechanicalChange>
-
 const NOTHING_WRITTEN = "nothing was written"
 
 const BEFORE_STOPPING =
@@ -145,7 +137,7 @@ async function landedOnto(
 ): Promise<Answer> {
   const noting: Committing = { commit: null }
   try {
-    return answered(await landing(root, changes, message, null, { noting }), did)
+    return answered(await landing(root, changes, message, { noting }), did)
   } catch (thrown) {
     return refusedBy([whyOf(thrown), stoppedSaid(noting.commit)], OPERATIONAL)
   }

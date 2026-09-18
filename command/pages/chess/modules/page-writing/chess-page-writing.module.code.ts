@@ -27,7 +27,7 @@ export function writingIn(root: string): Writing {
     if ("refused" in composed) return { refused: composed.refused, code: DATA }
     const asked: Asking[] = [putting(composed.put), ...composed.parts.map(putting)]
     for (const gone of composed.removes) asked.push({ at: TAKE, given: { at: gone } })
-    const landed = await runMechanicalChange(root, asked, message, null, { done })
+    const landed = await runMechanicalChange(root, asked, message, { done })
     if ("refusals" in landed) return { refused: landed.refusals.join(" "), code: landed.code }
     return { landed: landed.landed, wrong: landed.wrong }
   }

@@ -204,7 +204,6 @@ export async function recordCutFingerprint(
     root,
     [{ at: PUT, given: { at: path, body: cutPageBody(appSlug, fp) } }],
     `record the ${appSlug} cut for build ${fp.buildNumber}`,
-    null,
     { done }
   )
   const wrong = refusalsIn(said)
