@@ -8,6 +8,7 @@ export const decisionEarnsItsPlace = {
   modelTests: ["model-test/restatement"],
   changeRuns: 0,
   auditRuns: 0,
+  experimental: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",

@@ -4,7 +4,7 @@
 {"id":"01a05911-aa15-776e-9726-ed4131cd6b51"}
 {"loadedBy":"module/model-running"}
 {"parts":["check-model/decision-earns-its-place","number-property/audit-runs","number-property/change-runs","relation-property/model-tests"]}
-{"properties":[{"pageProperty":"relation-property/model-tests","required":true,"many":true,"maxCount":null},{"pageProperty":"number-property/change-runs","required":true,"many":false},{"pageProperty":"number-property/audit-runs","required":true,"many":false}]}
+{"properties":[{"pageProperty":"relation-property/model-tests","required":true,"many":true,"maxCount":null},{"pageProperty":"number-property/change-runs","required":true,"many":false},{"pageProperty":"number-property/audit-runs","required":true,"many":false},{"pageProperty":"boolean-property/experimental","required":false,"many":false}]}
 {"schema":"jsonl"}
 {"slug":"check-model"}
 {"type":"page-type/page-type"}

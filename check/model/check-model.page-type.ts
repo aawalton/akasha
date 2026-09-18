@@ -21,6 +21,7 @@ export const checkModel = {
     },
     { pageProperty: "number-property/change-runs", required: true, many: false },
     { pageProperty: "number-property/audit-runs", required: true, many: false },
+    { pageProperty: "boolean-property/experimental", required: false, many: false },
   ],
   loadedBy: "module/model-running",
   decisions: [

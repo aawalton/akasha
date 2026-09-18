@@ -6,6 +6,6 @@
 {"parts":["module/collection-parts","module/folder-grouping","module/folder-naming","module/one-page-only","module/one-type-only","module/plural-gathering","module/shape-loading","page-type/folder-shape"]}
 {"runsOnAudit":true}
 {"runsOnChange":true}
-{"runsOnDeploy":false}
+{"runsOnDeploy":true}
 {"slug":"folder-matches-a-shape"}
 {"type":"page-type/check-code"}
