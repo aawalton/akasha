@@ -10,11 +10,16 @@ export const pageSecretClear = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A key the page's page type does not declare secret is refused.",
+      statement: "A key neither the page type declares nor the sops file holds is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "The refusal names the keys that page type declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A key the sops file holds is cleared though the page type declares no secret of it.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -9,6 +9,7 @@ import {
   caught,
   landedWith,
   targeting,
+  undeclared,
 } from "akasha/page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"
 import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
 
@@ -19,10 +20,12 @@ export async function pageSecretClear(argv: readonly string[], given: Given): Pr
     const read = takenFor(argv, given.calledAs, page, [filePath, keyArgument, commitMessage])
     if ("refused" in read) return mistaking(read.refused)
     const key = read.taken.key
-    const aimed = targeting(given, read.taken.filePath, key)
+    const aimed = targeting(given, read.taken.filePath, undefined)
     if ("code" in aimed) return aimed
     const held = secretsIn(given.root, aimed.target.path)
     if (held === null || !held.has(key)) {
+      const wrong = undeclared(key, aimed.target)
+      if (wrong !== null) return mistaking([wrong])
       return wrongData(`${aimed.target.sidecar} holds no \`${key}\`, so there is none to clear`)
     }
     const next = new Map(held)
