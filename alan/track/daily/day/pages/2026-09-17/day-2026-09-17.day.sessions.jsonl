@@ -10,4 +10,5 @@
 {"id":"01a0b146-e6d3-7e2d-b7c2-61a55be3bacb","title":"Hygiene","startTime":"2026-09-17T21:30:00.000Z","dailyTracking":"01a0aecf-16a9-7000-8e0c-b6abaa594251","safetyLevel":"2","difficultyLevel":"1","endTime":"2026-09-17T22:40:00.000Z"}
 {"id":"01a0b189-04c0-72c2-82ba-6a93101ce9d2","title":"Read + Breathing","startTime":"2026-09-17T22:40:00.000Z","dailyTracking":"01a0aecf-16a9-7000-8e0c-b6abaa594251","safetyLevel":"2","difficultyLevel":"1","endTime":"2026-09-18T00:00:00.000Z"}
 {"id":"01a0b1d0-800d-7e70-bc11-5870b16b2c10","title":"Drive + Pod","startTime":"2026-09-18T00:00:00.000Z","dailyTracking":"01a0aecf-16a9-7000-8e0c-b6abaa594251","safetyLevel":"2","difficultyLevel":"1","endTime":"2026-09-18T00:30:00.000Z"}
-{"id":"01a0b2b6-3170-76fc-9152-eb612d543f79","title":"Social","startTime":"2026-09-18T00:30:00.000Z","dailyTracking":"01a0aecf-16a9-7000-8e0c-b6abaa594251","safetyLevel":"3","difficultyLevel":"4"}
+{"id":"01a0b2b6-3170-76fc-9152-eb612d543f79","title":"Social","startTime":"2026-09-18T00:30:00.000Z","dailyTracking":"01a0aecf-16a9-7000-8e0c-b6abaa594251","safetyLevel":"3","difficultyLevel":"4","endTime":"2026-09-18T01:30:00.000Z"}
+{"id":"01a0b2b6-3c07-7534-9742-3baf111294c8","title":"Social + Pod","startTime":"2026-09-18T01:30:00.000Z","dailyTracking":"01a0aecf-16a9-7000-8e0c-b6abaa594251","safetyLevel":"3","difficultyLevel":"3"}
