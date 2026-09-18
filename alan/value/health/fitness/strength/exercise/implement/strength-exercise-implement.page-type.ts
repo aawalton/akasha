@@ -15,6 +15,7 @@ export const strengthExerciseImplement = {
     "strength-exercise-implement/e-z-curl-bar",
     "strength-exercise-implement/exercise-ball",
     "strength-exercise-implement/foam-roll",
+    "strength-exercise-implement/gripper",
     "strength-exercise-implement/kettlebells",
     "strength-exercise-implement/machine",
     "strength-exercise-implement/medicine-ball",

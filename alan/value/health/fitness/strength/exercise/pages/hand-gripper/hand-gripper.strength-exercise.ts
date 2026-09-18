@@ -6,7 +6,7 @@ export const handGripper = {
   slug: "hand-gripper",
   title: "Hand Gripper",
   exerciseCategory: "strength",
-  equipment: "strength-exercise-implement/other",
+  equipment: "strength-exercise-implement/gripper",
   gripDemand: "high",
   implementCount: 1,
   isBallistic: false,
