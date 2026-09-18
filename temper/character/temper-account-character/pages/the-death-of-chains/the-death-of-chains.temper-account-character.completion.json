@@ -977,7 +977,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 25,
+            "numCompleted": 26,
             "numRequired": 30
           }
         }
@@ -3331,7 +3331,7 @@
           "currentMorph": 2,
           "morph2": {
             "name": "Blinding Flare",
-            "rank": 3
+            "rank": 4
           }
         },
         "61511": {
@@ -13339,7 +13339,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-16"
+    "date": "2026-09-18"
   },
   "dailyWritStates": {
     "completed": {
@@ -13360,7 +13360,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-16"
+    "date": "2026-09-18"
   },
   "motifKnowledge": {
     "1": {
