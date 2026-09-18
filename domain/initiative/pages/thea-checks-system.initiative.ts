@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "No arm of the codebase is built and reached by nothing.",
       workingMemory:
-        "Alan is taking these one at a time. Lately gone: the page-type writers and every guard that served them, the property definition patch arm whose every caller could only throw, the select option a page never added, and the whole idle game, whose save and draw could only throw once the store went. Held for Alan: the reorder verb chain, DisplayFrame's followAnchor, the voice design sampling block, ConvergenceOptions.",
+        "Alan is taking these one at a time, and the accidental arms are gone. What is left is declared: where a page's decision or definition names the capability, cutting it retracts an intent and Alan settles it; where nothing names it, it is an accident and goes. Held that way: the reorder chain, Start.pages, fiveHourResetsAtMs, subagent-kind, followAnchor, the voice design sampling block, ConvergenceOptions. Apart from these, the memory reaper's per-tree leg matches no live supervisor.",
     },
   ],
   constraints: [
