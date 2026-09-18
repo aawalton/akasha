@@ -47,9 +47,6 @@ export const aelwynStrengthTraining = {
       statement: "A movement Alan's kit cannot load further is made harder some other way.",
     },
     {
-      statement: "The first movement offered is one Alan has done enough to read a drop against.",
-    },
-    {
       statement: "How long Alan was away is no reason to expect more or less of Alan today.",
     },
     {
