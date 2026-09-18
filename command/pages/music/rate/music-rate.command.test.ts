@@ -2,12 +2,15 @@ import { expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type {
+  Asking,
+  Landing,
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   OPERATIONAL,
   partWay,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { refusingWith } from "akasha/command/modules/calling/calling.module.test-fixtures.ts"
@@ -15,7 +18,6 @@ import type { Refused } from "akasha/command/modules/landing/landing.module.code
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   ARTIST,
-  type Landing,
   musicRate,
   SONG,
   saidOf,
@@ -56,7 +58,7 @@ function reaching(answer: Applied | Refused = LANDED): Reach {
   const reached: Reached[] = []
   return {
     reached,
-    landing: async (_done, _root, asked, said) => {
+    landing: async (_root, asked, said) => {
       reached.push({ asked, said })
       return answer
     },
@@ -247,11 +249,18 @@ test("a landing answering something wrong is answered as a refusal", async () =>
 
 const GAVE_OUT = new Error("the grade landed and the push gave out")
 
+function throwingAfter(wrote: readonly string[]): Landing {
+  return async (_root, _asked, _message, writing) => {
+    for (const one of wrote) writing?.done?.push(one)
+    throw GAVE_OUT
+  }
+}
+
 function ratingThrowing(wrote: readonly string[]) {
   return musicRate(
     ["--target", ARTIST, "--slug", RATED, "--rating", "A", "--reaction", REACTION],
     GIVEN,
-    throwingAfter(wrote, GAVE_OUT)
+    throwingAfter(wrote)
   )
 }
 

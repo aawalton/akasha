@@ -2,8 +2,8 @@ import { join } from "node:path"
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
-  landedMechanically,
-  type runMechanicalChange,
+  type Landing,
+  runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { gradeTarget } from "akasha/command/argument/pages/grade-target.argument.ts"
@@ -82,13 +82,6 @@ const CONNECTIONS_FILING: Filing = {
 const INSIGHTS_FILING: Filing = { said: insights.said, file: insightsFile.said, whole: WHOLE }
 
 export const WRITE = "change-mechanical/add-file-of-any-kind"
-
-export type Landing = (
-  done: string[],
-  root: string,
-  changes: readonly Asking[],
-  message: string
-) => ReturnType<typeof runMechanicalChange>
 
 export type Taken = {
   readonly target: string
@@ -204,7 +197,7 @@ async function recorded(
     }
     changes.push({ at: WRITE, given: { at: beside, body: text } })
   }
-  const landed = await landing(done, given.root, changes, `record ${held.target} ${held.slug}`)
+  const landed = await landing(given.root, changes, `record ${held.target} ${held.slug}`, { done })
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
   if (wrong.length > 0) return keeping(done, answeredWith(wrote, wrong, OPERATIONAL))
@@ -214,7 +207,7 @@ async function recorded(
 export async function musicRate(
   argv: readonly string[],
   given: Given,
-  landing: Landing = landedMechanically
+  landing: Landing = runMechanicalChange
 ): Promise<Answer> {
   return await answering(async (done) => await recorded(done, argv, given, landing))
 }
