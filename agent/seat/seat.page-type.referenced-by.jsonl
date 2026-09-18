@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"command/modules/commit-author/commit-author.module.code.ts"}
+{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/aelwyn/aelwyn.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/alan/alan.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/athena/athena.seat.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-live-writer-appends-a-seats-log-lines-under-the-root-those-lines-were-moved-out-of.finding.ts","id":"01a09591-b374-75fb-9354-d734a8c435d8"}
