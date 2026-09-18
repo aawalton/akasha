@@ -1,0 +1,14 @@
+import type { MobileCut } from "akasha/alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.types.ts"
+
+export const atlas85 = {
+  id: "01a0b454-7120-7000-be6d-e27ba54fbae2",
+  type: "page-type/mobile-cut",
+  slug: "atlas-85",
+  title: "atlas cut build 85",
+  app: "ios-app/atlas",
+  buildNumber: 85,
+  mainSha: "f698bb234819d41cf0233cffe88b1761cb8f68b5",
+  shellSha: "f698bb234819d41cf0233cffe88b1761cb8f68b5",
+  buildInputTreeHash: "29f9dd01b5b523eb86beef60a76dde6f19c90be4db7aadcfd113d09f2a6de84e",
+  cutAt: "2026-09-18T11:43:47.999Z",
+} as const satisfies MobileCut
