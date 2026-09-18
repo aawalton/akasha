@@ -57,6 +57,11 @@ export const selectionPolicy = {
       decisionKind: "decision-kind/absence",
       statement: "No number here holds a movement its place for a length of time.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "The goal weights are what a selector is judged against rather than what it reads.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
