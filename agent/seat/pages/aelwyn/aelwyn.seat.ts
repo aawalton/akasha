@@ -5,7 +5,7 @@ export const aelwyn = {
   type: "page-type/seat",
   slug: "aelwyn",
   persona: "persona/aelwyn",
-  assignmentSlug: "domain/fitness",
+  assignmentSlug: "initiative/aelwyn-strength-training",
   role: "role/coach",
   person: "person/alan",
   startMode: "interactive",
