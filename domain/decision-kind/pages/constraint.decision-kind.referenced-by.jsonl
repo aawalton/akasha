@@ -276,6 +276,7 @@
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/lualib-helper/properties/lua-export.text-property.ts","id":"01a08168-a789-7c4b-8c96-68f15749213a"}
 {"propertySlug":"decision-kind","path":"design/technology/technology.domain.ts","id":"01a065a0-1406-75cf-a0c3-0f1b9a3842e7"}
 {"propertySlug":"decision-kind","path":"domain/context/required-reading/required-reading.domain.ts","id":"01a04d97-c600-78b8-b3eb-faf390b009ce"}
+{"propertySlug":"decision-kind","path":"domain/plain-language/parser-model/parser-model.page-type.ts","id":"01a06d3b-743e-7d49-b8e6-3703a4b4fbfb"}
 {"propertySlug":"decision-kind","path":"domain/properties/decision-kind.relation-property.ts","id":"01a04d66-767b-740d-a958-1f84e5858ad0"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/term/banned-term/properties/prose-frame.relation-property.ts","id":"01a08243-41cd-7873-9af3-308bc9152b5d"}
 {"propertySlug":"decision-kind","path":"file/disk/modules/atomic-write/atomic-write.module.ts","id":"01a05c4c-9441-7a1c-a7fc-dc1ab3914181"}

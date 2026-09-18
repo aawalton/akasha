@@ -292,6 +292,7 @@
 {"propertySlug":"decision-kind","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
 {"propertySlug":"decision-kind","path":"domain/finding/finding.page-type.ts","id":"01a04bc5-f8c3-758c-b460-da70df03bb96"}
 {"propertySlug":"decision-kind","path":"domain/initiative/initiative.page-type.ts","id":"01a04e58-5735-72b4-b945-56366461c776"}
+{"propertySlug":"decision-kind","path":"domain/plain-language/parser-model/parser-model.page-type.ts","id":"01a06d3b-743e-7d49-b8e6-3703a4b4fbfb"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/plain-language.domain.ts","id":"01a05d93-dbec-79d5-a299-9264b3de7464"}
 {"propertySlug":"decision-kind","path":"domain/properties/parts.relation-property.ts","id":"01a0877e-e1fa-73c7-909f-f872c144f719"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/term/term.page-type.ts","id":"01a081e9-9784-7d46-ac3d-c0dd6d88cb38"}

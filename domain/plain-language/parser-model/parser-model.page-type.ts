@@ -59,6 +59,18 @@ export const parserModel = {
       decisionKind: "decision-kind/absence",
       statement: "No page states a model file.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The model files are an export of a parser trained outside akasha.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Nothing in akasha trains a parser or writes the model files beside its page.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "A checkout that is not this workstation's reaches the model files.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
