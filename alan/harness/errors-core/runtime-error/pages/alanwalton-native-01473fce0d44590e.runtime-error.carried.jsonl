@@ -1,0 +1,10 @@
+{"app":"alanwalton-native"}
+{"fingerprint":"01473fce0d44590e"}
+{"firstSeenAt":"2026-09-18T12:53:39.242Z"}
+{"id":"01a0b494-658c-7f43-b38b-88ac886d6bcf"}
+{"kind":"error"}
+{"message":"2026-09-18T12:53:38Z Sent 3 activeEnergy samples in 1 batches. Sent 4 stepCount samples in 1 batches."}
+{"slug":"alanwalton-native-01473fce0d44590e"}
+{"type":"page-type/runtime-error"}
+{"url":"stream-health-samples"}
+{"userAgent":"StreamHealthSamplesIntent/303"}
