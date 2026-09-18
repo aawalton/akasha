@@ -48,10 +48,6 @@ export const aelwynStrengthTraining = {
     },
     {
       statement:
-        "A muscle under its weekly set floor is owed work before any muscle above that floor.",
-    },
-    {
-      statement:
         "How Alan is today is read from the sets Alan has just done rather than asked in advance.",
     },
     {
