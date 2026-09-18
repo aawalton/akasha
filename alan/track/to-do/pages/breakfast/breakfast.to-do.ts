@@ -11,5 +11,5 @@ export const breakfast = {
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 40,
   toDoValue: "value/health",
-  toDoLastCompletedAt: "2026-09-18T18:13:59.262Z",
+  toDoLastCompletedAt: "2026-09-18T19:34:46.165Z",
 } as const satisfies ToDo

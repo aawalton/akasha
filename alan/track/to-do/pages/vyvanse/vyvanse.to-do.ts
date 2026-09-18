@@ -11,5 +11,5 @@ export const vyvanse = {
   toDoPriority: "p1",
   toDoRecurrence: "FREQ=DAILY",
   toDoValue: "value/health",
-  toDoLastCompletedAt: "2026-09-18T18:13:58.066Z",
+  toDoLastCompletedAt: "2026-09-18T19:34:45.077Z",
 } as const satisfies ToDo
