@@ -6,6 +6,7 @@ import {
   slotTaken,
 } from "akasha/alan/music/spotify/modules/budget/spotify-budget.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const PAGE = "akasha/one/alan.spotify-account.ts"
 
@@ -74,6 +75,15 @@ test("a ban that has passed lets a call through again", () => {
   const now = Date.now()
   refusedUntil(now, 1000, root, PAGE)
   expect(slotTaken(now + 2000, root, PAGE).took).toBe(true)
+})
+
+test("what a ban writes sits beside the page, where another process reads it", () => {
+  const root = rooted()
+  const now = Date.now()
+  refusedUntil(now, BAN_MS, root, PAGE)
+  expect(uncommittedIn(root, PAGE)).toEqual({
+    retryAllowedAt: new Date(now + BAN_MS).toISOString(),
+  })
 })
 
 test("the count sits beside the page, so a second reader counts against the same window", () => {

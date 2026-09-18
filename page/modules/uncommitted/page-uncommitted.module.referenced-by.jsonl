@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/music/spotify/modules/budget/spotify-budget.module.code.ts"}
+{"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/music/spotify/modules/budget/spotify-budget.module.test.ts"}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/track/daily/modules/day-messages-mining/day-messages-mining.module.code.ts"}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/track/daily/modules/day-messages-totalling/day-messages-totalling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/track/daily/modules/day-messages/day-messages.module.code.ts"}
