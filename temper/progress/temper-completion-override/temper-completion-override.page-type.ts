@@ -4,7 +4,8 @@ export const temperCompletionOverride = {
   id: "01a05fd0-3aa7-7efc-9f5f-080d0b9f5bd0",
   type: "page-type/page-type",
   slug: "temper-completion-override",
-  definition: "a completion count set by hand where the game reports it too low",
+  definition:
+    "a completion count set by hand where the game's own count would read as a gap that is not one",
   extends: ["page-type/temper-progress-thing"],
   parts: ["number-property/floor", "text-property/override-reason"],
   properties: [

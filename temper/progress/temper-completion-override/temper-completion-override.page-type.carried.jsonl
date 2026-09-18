@@ -1,5 +1,5 @@
 {"decisions":[{"decisionKind":"decision-kind/departure","statement":"A count the game reports above the floor is taken as the game reports."},{"decisionKind":"decision-kind/departure","statement":"One override answers one item of one card for one character."}]}
-{"definition":"a completion count set by hand where the game reports it too low"}
+{"definition":"a completion count set by hand where the game's own count would read as a gap that is not one"}
 {"extends":["page-type/temper-progress-thing"]}
 {"id":"01a05fd0-3aa7-7efc-9f5f-080d0b9f5bd0"}
 {"parts":["number-property/floor","text-property/override-reason"]}
