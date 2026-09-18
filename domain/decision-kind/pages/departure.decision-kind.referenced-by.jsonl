@@ -1037,6 +1037,10 @@
 {"propertySlug":"decision-kind","path":"alan/music/listening/heard-music/properties/tracks/properties/title-key.text-property.ts","id":"01a06240-340f-700c-8b23-d85323898292"}
 {"propertySlug":"decision-kind","path":"alan/music/listening/heard-music/properties/tracks/tracks.page-property-entry.ts","id":"01a06240-340f-700b-b409-ccc0e5bff5e6"}
 {"propertySlug":"decision-kind","path":"alan/music/music.domain.ts","id":"01a06222-4d01-78f8-8ed6-e3f5ec16f8a3"}
+{"propertySlug":"decision-kind","path":"alan/music/spotify/account/properties/spotify-account-calls-in-window.number-property.ts","id":"01a0b6db-cfa6-782a-a188-313cb90ea238"}
+{"propertySlug":"decision-kind","path":"alan/music/spotify/account/properties/spotify-account-retry-allowed-at.instant-property.ts","id":"01a0b6db-f79d-7e70-8fc5-84367703028d"}
+{"propertySlug":"decision-kind","path":"alan/music/spotify/account/properties/spotify-account-window-started-at.instant-property.ts","id":"01a0b6db-acc0-74d0-be25-cbfa5381e2e8"}
+{"propertySlug":"decision-kind","path":"alan/music/spotify/account/spotify-account.page-type.ts","id":"01a0b6dc-93a1-71ed-a64b-4bd0ff99df66"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/modules/auth-cli/spotify-auth-cli.module.ts","id":"01a06261-dc1d-700c-a56a-b1a6269144c7"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/modules/auth/spotify-auth.module.ts","id":"01a06261-dc1d-7006-a47d-60926a2515c8"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/modules/cache-file/spotify-cache-file.module.ts","id":"01a06261-dc1d-7002-81c0-cf6b422e7fb3"}

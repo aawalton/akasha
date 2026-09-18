@@ -110,6 +110,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/music/catalog/song/song.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/music/catalog/track/track.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/music/listening/heard-music/heard-music.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/music/spotify/account/spotify-account.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/relating/connection-activity/connection-activity.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/relating/relationship-deposit/relationship-deposit.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/relating/relationship-topic/relationship-topic.page-type.ts"}

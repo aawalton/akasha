@@ -31,6 +31,8 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/harness/readout/widget/properties/last-tapped-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/harness/reminder-system/reminder/properties/next-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/music/listening/heard-music/properties/tracks/properties/first-heard-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/music/spotify/account/properties/spotify-account-retry-allowed-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/music/spotify/account/properties/spotify-account-window-started-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/daily/day/properties/health-samples/properties/arrived-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/daily/day/properties/health-samples/properties/ended-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/daily/day/properties/health-samples/properties/started-at.instant-property.ts"}

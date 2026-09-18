@@ -49,6 +49,8 @@
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"seven-day-started-at","propertySlug":"seven-day-started-at","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sms-consent-submitted-at","propertySlug":"submitted-at","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sold-at","propertySlug":"sold-at","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"spotify-account-retry-allowed-at","propertySlug":"retry-allowed-at","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"spotify-account-window-started-at","propertySlug":"window-started-at","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"started-at","propertySlug":"started-at","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"terminal-alerted-at","propertySlug":"terminal-alerted-at","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"terminal-at","propertySlug":"terminal-at","fileName":null,"folderName":null,"sorted":false}

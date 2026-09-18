@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A call is counted before that call is made rather than after."},{"decisionKind":"decision-kind/departure","statement":"A call that threw is counted as a call that answered."}]}
+{"definition":"how many calls the open window has spent"}
+{"id":"01a0b6db-cfa6-782a-a188-313cb90ea238"}
+{"max":100000}
+{"propertySlug":"calls-in-window"}
+{"slug":"spotify-account-calls-in-window"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

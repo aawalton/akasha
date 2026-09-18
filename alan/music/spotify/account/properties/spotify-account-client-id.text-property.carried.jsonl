@@ -1,0 +1,8 @@
+{"definition":"what names the application a call is made by"}
+{"id":"01a0b6db-5286-74ce-b7b1-1cd0738f7419"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"client-id"}
+{"slug":"spotify-account-client-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A `retry-after` header states a length in seconds and is added to now to reach this instant."},{"decisionKind":"decision-kind/departure","statement":"Every process refuses a call until this instant rather than spending one to learn of it."}]}
+{"definition":"when the account may be called again after a refusal"}
+{"id":"01a0b6db-f79d-7e70-8fc5-84367703028d"}
+{"propertySlug":"retry-allowed-at"}
+{"slug":"spotify-account-retry-allowed-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}

@@ -1,0 +1,8 @@
+{"definition":"where consent is handed back to after a sign-in"}
+{"id":"01a0b6db-8c44-7062-bd05-3db16b78168b"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"redirect-uri"}
+{"slug":"spotify-account-redirect-uri"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

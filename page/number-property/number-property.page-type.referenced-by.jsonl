@@ -69,6 +69,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-reading-number.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/library/watching/properties/vote-average.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/music/catalog/track/properties/disc-number.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/music/spotify/account/properties/spotify-account-calls-in-window.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/relating/connection-activity/properties/connection-activity-attn.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/relating/connection-activity/properties/connection-activity-attractiveness.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/relating/connection-activity/properties/connection-activity-energy.number-property.ts"}

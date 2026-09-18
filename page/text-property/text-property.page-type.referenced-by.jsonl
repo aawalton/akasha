@@ -175,6 +175,9 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/properties/tracks/properties/spotify-track-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/properties/tracks/properties/title-key.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/listening/heard-music/properties/tracks/properties/track-name.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/spotify/account/properties/spotify-account-client-id.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/spotify/account/properties/spotify-account-client-secret.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/spotify/account/properties/spotify-account-redirect-uri.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-account-user-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-aliases.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-company.text-property.ts"}

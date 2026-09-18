@@ -20,6 +20,7 @@ export const spotify = {
     "module/spotify-search",
     "module/spotify-token-store",
     "module/spotify-tracks",
+    "page-type/spotify-account",
   ],
   decisions: [
     {

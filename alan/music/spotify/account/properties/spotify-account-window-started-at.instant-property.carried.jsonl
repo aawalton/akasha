@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A call made once the window is older than its length opens a new window."}]}
+{"definition":"when the window the calls are counted over opened"}
+{"id":"01a0b6db-acc0-74d0-be25-cbfa5381e2e8"}
+{"propertySlug":"window-started-at"}
+{"slug":"spotify-account-window-started-at"}
+{"type":"page-type/instant-property"}
+{"types":"ts"}
