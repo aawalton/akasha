@@ -75,6 +75,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/music/catalog/modules/catalogue-held/catalogue-held.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/music/spotify/modules/budget/spotify-budget.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/track/daily/modules/day-messages-totalling/day-messages-totalling.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.test-fixtures.ts"}

@@ -39,6 +39,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/readout/modules/relay/readout-relay.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/music/spotify/modules/budget/spotify-budget.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/music/spotify/modules/pkce-store/spotify-pkce-store.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/music/spotify/modules/token-store/spotify-token-store.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/track/daily/modules/day-opening/day-opening.module.test.ts"}

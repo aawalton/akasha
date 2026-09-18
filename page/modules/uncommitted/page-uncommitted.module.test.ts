@@ -13,6 +13,7 @@ import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.co
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   bodyFor,
+  changeUncommitted,
   dropUncommitted,
   mergeUncommitted,
   nameFor,
@@ -20,8 +21,16 @@ import {
   uncommittedIn,
   wholeValue,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
-
-const PAGE = "akasha/one/amy.seat.ts"
+import {
+  bunning,
+  counting,
+  gonePid,
+  merging,
+  OWNERS,
+  PAGE,
+  ROUNDS,
+  writing,
+} from "akasha/page/modules/uncommitted/page-uncommitted.module.test-fixtures.ts"
 
 const BESIDE = "akasha/one/amy.seat.uncommitted.ts"
 
@@ -32,12 +41,6 @@ const PART = "part"
 const HERE = dirname(BESIDE)
 
 const OTHER = `dalla.seat.uncommitted.ts.4242.${PART}`
-
-const CODE_AT = join(dirname(import.meta.path), "page-uncommitted.module.code.ts")
-
-const OWNERS = ["beats", "gateway", "usage"]
-
-const ROUNDS = 6
 
 const MODE_BITS = 0o7777
 
@@ -63,35 +66,6 @@ function umaskGives(root: string): number {
   const probe = join(root, "probe")
   writeFileSync(probe, "probe", "utf8")
   return modeOf(probe)
-}
-
-function bunning(said: string): Bun.Subprocess {
-  return Bun.spawn(["bun", "-e", said], { stderr: "inherit", stdout: "inherit" })
-}
-
-function merging(root: string, key: string, ready: string, go: string): string {
-  return `import { mergeUncommitted } from ${JSON.stringify(CODE_AT)}
-import { existsSync, writeFileSync } from "node:fs"
-writeFileSync(${JSON.stringify(ready)}, "ready")
-while (!existsSync(${JSON.stringify(go)})) Bun.sleepSync(1)
-for (let n = 0; n < ${ROUNDS}; n += 1) {
-  mergeUncommitted(${JSON.stringify(root)}, ${JSON.stringify(PAGE)}, { ${key}: n })
-}`
-}
-
-function writing(root: string, rounds: number, size: number): string {
-  return `import { mergeUncommitted } from ${JSON.stringify(CODE_AT)}
-const body = "x".repeat(${size})
-for (let n = 0; n < ${rounds}; n += 1) {
-  mergeUncommitted(${JSON.stringify(root)}, ${JSON.stringify(PAGE)}, { n, body })
-}`
-}
-
-async function gonePid(): Promise<number> {
-  const kid = bunning("Bun.sleepSync(60000)")
-  kid.kill("SIGKILL")
-  await kid.exited
-  return kid.pid
 }
 
 function partsIn(root: string): readonly string[] {
@@ -155,6 +129,42 @@ test("merging where nothing is there writes what it was handed", () => {
   const root = rooted()
   mergeUncommitted(root, PAGE, { beats: 1 })
   expect(uncommittedIn(root, PAGE)).toEqual({ beats: 1 })
+})
+
+test("a change is handed the values already there and writes what it answers", () => {
+  const root = rooted()
+  mergeUncommitted(root, PAGE, { beats: 1, gateway: "up" })
+  const answered = changeUncommitted(root, PAGE, (held) => ({ beats: Number(held?.beats) + 1 }))
+  expect(answered).toEqual({ beats: 2 })
+  expect(uncommittedIn(root, PAGE)).toEqual({ beats: 2 })
+})
+
+test("a change over a page carrying nothing is handed nothing", () => {
+  const root = rooted()
+  expect(changeUncommitted(root, PAGE, (held) => ({ wasNothing: held === null }))).toEqual({
+    wasNothing: true,
+  })
+})
+
+test("a change counting under writers of one page loses no count", async () => {
+  const root = rooted()
+  const go = join(root, "go")
+  const readied = OWNERS.map((one) => join(root, `readied-${one}`))
+  const kids = readied.map((one) => bunning(counting(root, one, go)))
+  expect(await until(() => readied.every(existsSync))).toBe(true)
+  writeFileSync(go, "go")
+  expect(await Promise.all(kids.map((one) => one.exited))).toEqual(OWNERS.map(() => 0))
+  expect(uncommittedIn(root, PAGE)).toEqual({ counted: OWNERS.length * ROUNDS })
+})
+
+test("a change releases the lock however the act inside it ends", () => {
+  const root = rooted()
+  expect(() =>
+    changeUncommitted(root, PAGE, () => {
+      throw new Error("the act threw")
+    })
+  ).toThrow(/the act threw/)
+  expect(existsSync(join(root, LOCK))).toBe(false)
 })
 
 test("dropping named keys leaves the rest as it is", () => {

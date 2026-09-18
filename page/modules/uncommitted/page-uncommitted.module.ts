@@ -7,6 +7,7 @@ export const pageUncommitted = {
   definition: "the values a page carries that the commit does not hold",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -152,6 +153,11 @@ export const pageUncommitted = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing asks whether the process that left a scratch file is alive.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change is handed the values already there and answers the values to write, inside the lock.",
     },
   ],
 } as const satisfies Module

@@ -48,6 +48,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/spotify/modules/budget/spotify-budget.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/track/daily/modules/day-entry-keys/day-entry-keys.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/track/daily/modules/day-messages-totalling/day-messages-totalling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.code.ts"}

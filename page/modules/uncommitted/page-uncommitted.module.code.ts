@@ -179,6 +179,20 @@ export function mergeUncommitted(root: string, page: string, values: Value): und
   })
 }
 
+export function changeUncommitted(
+  root: string,
+  page: string,
+  change: (held: Value | null) => Value
+): Value {
+  const at = besideOr(page)
+  const full = join(root, at)
+  return exclusively(full, () => {
+    const values = change(valuesIn(full, at))
+    writtenAt(full, page, values)
+    return values
+  })
+}
+
 export function dropUncommitted(root: string, page: string, keys: readonly string[]): undefined {
   const at = uncommittedAt(page)
   if (at === null) return

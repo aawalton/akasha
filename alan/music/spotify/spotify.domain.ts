@@ -8,6 +8,7 @@ export const spotify = {
   parts: [
     "module/spotify-auth",
     "module/spotify-auth-cli",
+    "module/spotify-budget",
     "module/spotify-cache-file",
     "module/spotify-client",
     "module/spotify-credentials",

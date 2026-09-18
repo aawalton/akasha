@@ -2,6 +2,6 @@
 {"definition":"Alan's Spotify account reached over the Web API"}
 {"directives":[{"directiveKind":"directive-kind/rule","name":"Paced Live Sweep","act":"Pace and scope every live Spotify exercise run: set `SPOTIFY_RATE_LIMIT_MS=1000` and pass `--only`.","warrant":"An unpaced run looks fine right up until Spotify bans the whole account for about a day.","aids":["Write the value as digits, not `1s` or `1000ms`.","Never start a sweep while another runs anywhere."]}]}
 {"id":"01a06261-dc1d-7000-8f39-acf6360f39b5"}
-{"parts":["module/spotify-auth","module/spotify-auth-cli","module/spotify-cache-file","module/spotify-client","module/spotify-credentials","module/spotify-fetching","module/spotify-personalization","module/spotify-pkce-store","module/spotify-player","module/spotify-releases","module/spotify-scopes","module/spotify-search","module/spotify-token-store","module/spotify-tracks","page-type/spotify-account"]}
+{"parts":["module/spotify-auth","module/spotify-auth-cli","module/spotify-budget","module/spotify-cache-file","module/spotify-client","module/spotify-credentials","module/spotify-fetching","module/spotify-personalization","module/spotify-pkce-store","module/spotify-player","module/spotify-releases","module/spotify-scopes","module/spotify-search","module/spotify-token-store","module/spotify-tracks","page-type/spotify-account"]}
 {"slug":"spotify"}
 {"type":"page-type/domain"}
