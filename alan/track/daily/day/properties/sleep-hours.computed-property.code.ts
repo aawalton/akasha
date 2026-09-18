@@ -1,5 +1,8 @@
 import type { WorkedDay } from "akasha/alan/track/daily/day/day.page-type.ts"
-import { hoursBetween } from "akasha/alan/track/daily/day/modules/hours-between/hours-between.computed-property-module.code.ts"
+import {
+  openUntil,
+  stretchHours,
+} from "akasha/alan/track/daily/day/modules/stretch-hours/stretch-hours.computed-property-module.code.ts"
 import type { SleepHours } from "akasha/alan/track/daily/day/properties/sleep-hours.computed-property.types.ts"
 import type { Work } from "akasha/page/computed-property/computed-property.page-type.ts"
 
@@ -24,11 +27,12 @@ function hasWord(text: string, word: string): boolean {
 export const work: Work<WorkedDay, SleepHours> = (page) => {
   const rows = page.sessions
   if (!Array.isArray(rows)) return null
+  const until = openUntil(page.date)
   let hours = 0
   for (const row of rows) {
     const title = typeof row.title === "string" ? row.title : ""
     if (!SLEEPING.some((word) => hasWord(title, word))) continue
-    hours += hoursBetween(row.startTime, row.endTime) ?? 0
+    hours += stretchHours(row.startTime, row.endTime, until) ?? 0
   }
   return hours
 }

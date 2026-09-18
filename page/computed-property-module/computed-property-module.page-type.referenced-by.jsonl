@@ -2,4 +2,5 @@
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"alan/harness/day-boundary/modules/us-zone-offset/us-zone-offset.computed-property-module.ts"}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"alan/track/daily/day/modules/cost-multiplier/cost-multiplier.computed-property-module.ts"}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"alan/track/daily/day/modules/hours-between/hours-between.computed-property-module.ts"}
+{"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"alan/track/daily/day/modules/stretch-hours/stretch-hours.computed-property-module.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

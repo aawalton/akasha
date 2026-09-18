@@ -41,5 +41,13 @@ export const usZoneOffset = {
       decisionKind: "decision-kind/departure",
       statement: "These offsets are judged against the zone database.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A Denver wall time read as UTC names the instant it really is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A wall time the clock skipped names no instant.",
+    },
   ],
 } as const satisfies ComputedPropertyModule

@@ -20,6 +20,7 @@ export const day = {
     "boolean-property/inbox-texts-cleared-today",
     "computed-property-module/cost-multiplier",
     "computed-property-module/hours-between",
+    "computed-property-module/stretch-hours",
     "computed-property/faith-level",
     "computed-property/faith-stoplight",
     "computed-property/fun-level",

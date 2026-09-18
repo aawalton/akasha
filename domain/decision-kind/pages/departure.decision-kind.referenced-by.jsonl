@@ -1068,6 +1068,7 @@
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/day.page-type.ts","id":"01a05fd8-c30f-72ee-80d9-eb1c179b8359"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/modules/cost-multiplier/cost-multiplier.computed-property-module.ts","id":"01a08b93-dab4-777c-bdd0-03ab2b96ccb2"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/modules/hours-between/hours-between.computed-property-module.ts","id":"01a0821f-8bbc-7772-a9fa-052b5f4ffb2b"}
+{"propertySlug":"decision-kind","path":"alan/track/daily/day/modules/stretch-hours/stretch-hours.computed-property-module.ts","id":"01a0b6aa-a9c0-72ae-b607-ee80f944f40e"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/intelligence-topics.number-property.ts","id":"01a07888-4add-7d40-bd0c-b16400fe380b"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/listens/listens.page-property-entry.ts","id":"01a06240-340f-7001-ad7b-818302ce884a"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/listens/properties/new-music-minutes.number-property.ts","id":"01a06240-340f-7006-a08a-3236a3341467"}
@@ -1080,6 +1081,8 @@
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/capacity-rate.number-property.ts","id":"01a05fd8-c30f-7486-b22b-7e17134582db"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/difficulty-level.text-property.ts","id":"01a05fd8-c30f-7785-9331-9f5fa8347452"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/sessions.page-property-entry.ts","id":"01a05fd8-c30f-799b-aa06-004072744b31"}
+{"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sleep-hours.computed-property.ts","id":"01a072ee-1b88-7477-8c90-7b5dc8e4d472"}
+{"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/spend-hours.computed-property.ts","id":"01a072ee-1b88-78a4-9ebc-c270a0a4e3fb"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/stoplights.computed-property.ts","id":"01a07224-bf20-74dd-b1bc-270ef3cf98c8"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/strength-volume.computed-property.ts","id":"01a077d1-f967-7eef-a0ce-7139eaa1b54d"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/surplus-hours.computed-property.ts","id":"01a072ee-1b88-7b44-a2b4-9cb40106ef0e"}

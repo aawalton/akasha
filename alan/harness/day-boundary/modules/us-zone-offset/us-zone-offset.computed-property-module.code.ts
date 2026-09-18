@@ -19,3 +19,13 @@ export function nyOffsetMs(instantMs: number): number {
 export function denverOffsetMs(instantMs: number): number {
   return savingIn(instantMs, 7) ? -6 * MS_PER_HOUR : -7 * MS_PER_HOUR
 }
+
+const DENVER_OFFSETS_MS = [-6 * MS_PER_HOUR, -7 * MS_PER_HOUR] as const
+
+export function denverInstantMs(wallAsUtcMs: number): number | null {
+  for (const offset of DENVER_OFFSETS_MS) {
+    const at = wallAsUtcMs - offset
+    if (denverOffsetMs(at) === offset) return at
+  }
+  return null
+}

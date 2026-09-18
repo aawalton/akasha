@@ -8,5 +8,11 @@ export const sleepHours = {
   definition: "the hours Alan slept, added up from the day's own stretches",
   holds: "number",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stretch still open counts up to the moment the reading is taken.",
+    },
+  ],
   types: "ts",
 } as const satisfies ComputedProperty

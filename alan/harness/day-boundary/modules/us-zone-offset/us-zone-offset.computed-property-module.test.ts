@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import {
+  denverInstantMs,
   denverOffsetMs,
   nyOffsetMs,
 } from "akasha/alan/harness/day-boundary/modules/us-zone-offset/us-zone-offset.computed-property-module.code.ts"
@@ -92,5 +93,19 @@ describe("how far behind UTC a US zone is at an instant", () => {
     for (let i = 0; i < ny.length; i++) {
       expect((denver[i] as number) - (ny[i] as number)).toBe(2 * MS_PER_HOUR)
     }
+  })
+})
+
+describe("the instant a Denver wall time really is", () => {
+  test("a wall time in saving time is six hours behind UTC", () => {
+    expect(denverInstantMs(Date.UTC(2026, 8, 19))).toBe(Date.parse("2026-09-19T06:00:00.000Z"))
+  })
+
+  test("a wall time in standard time is seven hours behind UTC", () => {
+    expect(denverInstantMs(Date.UTC(2026, 0, 15))).toBe(Date.parse("2026-01-15T07:00:00.000Z"))
+  })
+
+  test("a wall time the clock skipped names no instant", () => {
+    expect(denverInstantMs(Date.UTC(2026, 2, 8, 2, 30))).toBeNull()
   })
 })

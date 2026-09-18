@@ -1,0 +1,36 @@
+import type { ComputedPropertyModule } from "akasha/page/computed-property-module/computed-property-module.page-type.types.ts"
+
+export const stretchHours = {
+  id: "01a0b6aa-a9c0-72ae-b607-ee80f944f40e",
+  type: "page-type/computed-property-module",
+  slug: "stretch-hours",
+  definition: "the hours a stretch ran, with one still running counted to now",
+  code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stretch with an end runs from its start to that end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stretch with no end runs from its start to now.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stretch with no end on an earlier day runs to the midnight ending that day.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A day whose date is unreadable counts a stretch with no end to now.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stretch beginning after the instant it is counted to ran no hours.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stretch whose start cannot be read is no reading rather than no hours.",
+    },
+  ],
+} as const satisfies ComputedPropertyModule

@@ -1,4 +1,5 @@
 {"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A stretch still open counts up to the moment the reading is taken."}]}
 {"definition":"what every stretch of the day cost, added up"}
 {"holds":"number"}
 {"id":"01a072ee-1b88-78a4-9ebc-c270a0a4e3fb"}

@@ -8,5 +8,11 @@ export const spendHours = {
   definition: "what every stretch of the day cost, added up",
   holds: "number",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stretch still open counts up to the moment the reading is taken.",
+    },
+  ],
   types: "ts",
 } as const satisfies ComputedProperty
