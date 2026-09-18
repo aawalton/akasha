@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const auroraAPotionForLoveAPotionForLove = {
+  id: "01a0b638-030c-7f68-aada-c088d6029857",
+  type: "page-type/track",
+  slug: "aurora-a-potion-for-love-a-potion-for-love",
+  ownLength: 3.6071,
+  ownProgress: 0,
+  partOfCollections: ["release/aurora-a-potion-for-love"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5mDvRgYQY8dJp8Oy1veESd",
+      externalLink: "https://open.spotify.com/track/5mDvRgYQY8dJp8Oy1veESd",
+      lastSyncedAt: "2026-09-18",
+    },
+  ],
+  title: "A Potion For Love",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackKey: "apotionforlove|1WgXqy2Dd70QQOU7Ay074N|216426",
+} as const satisfies Track
