@@ -1,0 +1,10 @@
+{"app":"ios-app/atlas"}
+{"buildInputTreeHash":"73453f00c4c74854339766fb5c18922a2ff2401550f2587ef72c25020a67996d"}
+{"buildNumber":78}
+{"cutAt":"2026-09-18T04:06:34.808Z"}
+{"id":"01a0b2b1-d83a-7000-81a2-bacc6001accf"}
+{"mainSha":"59bde7375b9ce6c93584b12e7f862a73e7a109f6"}
+{"shellSha":"59bde7375b9ce6c93584b12e7f862a73e7a109f6"}
+{"slug":"atlas-78"}
+{"title":"atlas cut build 78"}
+{"type":"page-type/mobile-cut"}
