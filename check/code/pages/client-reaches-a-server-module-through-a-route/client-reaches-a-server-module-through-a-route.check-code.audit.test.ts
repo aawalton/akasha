@@ -8,6 +8,7 @@ import {
   APP_HELD,
   APP_PAGE,
   APP_PLAIN,
+  APP_PLAIN_PAGE,
   appRooted,
 } from "akasha/check/modules/router-app-code/router-app-code.module.test-fixtures.ts"
 import { scratch } from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
@@ -32,7 +33,7 @@ test("what the audit asks answers nothing for a path that is not there", () => {
 
 test("what the audit asks names the paths under an app's package", () => {
   const found = askingAt(appRooted(ID)).pathsUnder(folderOf(APP_PAGE))
-  expect([...found].sort()).toEqual([APP_PAGE, APP_PLAIN].sort())
+  expect([...found].sort()).toEqual([APP_PAGE, APP_PLAIN, APP_PLAIN_PAGE].sort())
 })
 
 test("an audit over an index declaring no route table file name refuses", () => {
