@@ -104,9 +104,13 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/email/message/trash/email-message-trash.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.test.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/finding/delete/finding-delete.command.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/finding/delete/finding-delete.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/fitness/mobility/fitness-mobility.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/gap/delete/gap-delete.command.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/gap/delete/gap-delete.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/git/push/git-push.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/git/restore/git-restore.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/git/sweep/git-sweep.command.code.ts"}
@@ -436,6 +440,8 @@
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/modules/page-answering/page-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/alan/tracking/alan-tracking.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/browser/test-storage-state/browser-test-storage-state.command.test.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/finding/delete/finding-delete.command.test.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/gap/delete/gap-delete.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/inference/activate/inference-activate.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/inference/video-qa/inference-video-qa.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/inference/wan/frame/inference-wan-frame.command.test.ts"}

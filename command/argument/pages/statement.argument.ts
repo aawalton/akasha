@@ -5,7 +5,7 @@ export const statement = {
   type: "page-type/argument",
   slug: "statement",
   said: "--statement",
-  takes: "the statement the intent acted on states",
+  takes: "the statement the record acted on states",
   value: "text",
   placeholder: "statement",
 } as const satisfies Argument

@@ -84,6 +84,8 @@ export const command = {
     "namespace/model-account",
     "namespace/domain",
     "namespace/email",
+    "namespace/finding",
+    "namespace/gap",
     "namespace/git",
     "namespace/google",
     "namespace/icloud",

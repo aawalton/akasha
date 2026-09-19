@@ -1,0 +1,9 @@
+{"arguments":[{"argument":"argument/finding","required":true,"saidAs":"word"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A finding is named by the slug that finding is filed under."},{"decisionKind":"decision-kind/departure","statement":"A name that is no finding is refused."},{"decisionKind":"decision-kind/departure","statement":"A call naming other than one word is refused."},{"decisionKind":"decision-kind/departure","statement":"A name of no text is refused."},{"decisionKind":"decision-kind/departure","statement":"Where the finding's page sits is read from the index rather than composed."},{"decisionKind":"decision-kind/departure","statement":"Taking the page away is left to the mechanical change taking a page away."},{"decisionKind":"decision-kind/departure","statement":"A run says the commit that run landed."},{"decisionKind":"decision-kind/departure","statement":"Every answer here is built by a function rather than written out as a value."},{"decisionKind":"decision-kind/departure","statement":"A change that refused is a fault of the data."},{"decisionKind":"decision-kind/absence","statement":"Nothing here asks Alan to confirm."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a body."},{"decisionKind":"decision-kind/absence","statement":"No check runs over the change a run lands."},{"decisionKind":"decision-kind/absence","statement":"No run refreshes the index."},{"decisionKind":"decision-kind/departure","statement":"A run that wrote before it threw says in its refusal what that run had written."}]}
+{"definition":"the command taking one finding's page away with the files beside that page"}
+{"id":"01a0b7a0-c25d-78e0-805d-10b09d6406a2"}
+{"name":"delete"}
+{"slug":"finding-delete"}
+{"test":"ts"}
+{"type":"page-type/command"}

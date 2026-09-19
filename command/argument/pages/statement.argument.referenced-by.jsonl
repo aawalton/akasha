@@ -1,6 +1,9 @@
+{"propertySlug":"argument","path":"command/pages/gap/delete/gap-delete.command.ts","id":"01a0b7a0-c25d-7717-a0fa-41e1a1ee2221"}
 {"propertySlug":"argument","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.ts","id":"01a08c4e-4825-7f65-b321-e81787848de8"}
 {"propertySlug":"argument","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.ts","id":"01a08c64-750b-7bb5-b491-551e9cca63dd"}
 {"propertySlug":"argument","path":"command/pages/initiative/move-intent/initiative-move-intent.command.ts","id":"01a081e5-4603-78f0-8295-3ee2947edb01"}
+{"propertySlug":"import","fileName":"statement.argument.ts","path":"command/pages/gap/delete/gap-delete.command.code.ts"}
+{"propertySlug":"import","fileName":"statement.argument.ts","path":"command/pages/gap/delete/gap-delete.command.test.ts"}
 {"propertySlug":"import","fileName":"statement.argument.ts","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts"}
 {"propertySlug":"import","fileName":"statement.argument.ts","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.test.ts"}
 {"propertySlug":"import","fileName":"statement.argument.ts","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts"}

@@ -38,6 +38,7 @@
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"command/pages/finding/delete/finding-delete.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"page/service/modules/page-writing/page-writing.module.test.ts"}

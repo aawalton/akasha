@@ -36,6 +36,7 @@
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/gap/delete/gap-delete.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/initiative/assign/initiative-assign.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts"}
