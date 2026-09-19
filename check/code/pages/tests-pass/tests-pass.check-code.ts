@@ -5,6 +5,7 @@ export const testsPass = {
   type: "page-type/check-code",
   slug: "tests-pass",
   definition: "the check refusing a change whose tests do not pass",
+  parts: ["module/run-naming"],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,

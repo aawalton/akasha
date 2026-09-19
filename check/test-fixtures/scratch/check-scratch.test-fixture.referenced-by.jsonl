@@ -120,6 +120,7 @@
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.test.ts"}
+{"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test.ts"}
