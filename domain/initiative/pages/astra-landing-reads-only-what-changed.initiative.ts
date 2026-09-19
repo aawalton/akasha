@@ -10,7 +10,7 @@ export const astraLandingReadsOnlyWhatChanged = {
     {
       statement: "A landing reads only what the paths its change names reach.",
       workingMemory:
-        "A landing over one finding page is 10,674ms, run `01a0babb-739a-7000-b417-5de73eaff513`, down from 15,984ms once the editor's pictures were gated. What is left is read whole on every landing whatever the change names, each reading sized by the repository rather than by the change. The checkout holds 380,845 tracked files, 153,856 of them under `.index`.",
+        "A landing is 4.78s of work, profiled, and the lock it holds while writing is 514ms on average and 740ms at worst, watched over two minutes. That lock is busy 2.6% of the wall, so it costs a landing little today, and it is the piece that has to be under 100ms. Every akasha call loaded the TypeScript compiler until `6794112d` and is 0.04s rather than 0.15s now. The checkout holds 380,845 tracked files, 153,856 of them under `.index`.",
     },
 
     {
