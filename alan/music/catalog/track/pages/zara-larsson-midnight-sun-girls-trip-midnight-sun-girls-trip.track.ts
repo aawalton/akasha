@@ -26,4 +26,5 @@ export const zaraLarssonMidnightSunGirlsTripMidnightSunGirlsTrip = {
     { externalId: "78rUTD7y6Cy67W1RVzYs7t", artistName: "PinkPantheress" },
   ],
   trackKey: "midnightsungirlstrip|1Xylc3o4UrD53lo9CvFvVg,78rUTD7y6Cy67W1RVzYs7t|171736",
+  song: "song/zara-larsson-midnight-sun-girls-trip",
 } as const satisfies Track

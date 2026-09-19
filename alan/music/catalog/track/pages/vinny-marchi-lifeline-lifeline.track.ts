@@ -23,4 +23,5 @@ export const vinnyMarchiLifelineLifeline = {
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lifeline|5USAMqcbMAzF3HBmeD5pJF|204286",
+  song: "song/vinny-marchi-lifeline",
 } as const satisfies Track

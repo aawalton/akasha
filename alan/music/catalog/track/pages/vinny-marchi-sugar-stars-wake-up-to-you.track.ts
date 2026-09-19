@@ -23,4 +23,5 @@ export const vinnyMarchiSugarStarsWakeUpToYou = {
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "wakeuptoyou|5USAMqcbMAzF3HBmeD5pJF|118666",
+  song: "song/vinny-marchi-wake-up-to-you",
 } as const satisfies Track

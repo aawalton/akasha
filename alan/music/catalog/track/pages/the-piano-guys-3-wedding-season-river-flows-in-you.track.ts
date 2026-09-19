@@ -26,4 +26,5 @@ export const thePianoGuys3WeddingSeasonRiverFlowsInYou = {
     { externalId: "2GCX5sWxp6ZdPZZcrMMky2", artistName: "Eli Nelson" },
   ],
   trackKey: "riverflowsinyou|0jW6R8CVyVohuUJVcuweDI,2GCX5sWxp6ZdPZZcrMMky2|189390",
+  song: "song/the-piano-guys-river-flows-in-you",
 } as const satisfies Track

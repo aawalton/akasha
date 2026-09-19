@@ -23,4 +23,5 @@ export const vinnyMarchiSugarStarsLoveLikeThis = {
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lovelikethis|5USAMqcbMAzF3HBmeD5pJF|166342",
+  song: "song/vinny-marchi-love-like-this",
 } as const satisfies Track

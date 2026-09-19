@@ -23,4 +23,5 @@ export const zaraLarssonSheDidItAgainFeatZaraLarssonChanel = {
   explicit: true,
   trackArtist: [{ externalId: "3SozjO3Lat463tQICI9LcE", artistName: "Tyla" }],
   trackKey: "chanel|3SozjO3Lat463tQICI9LcE|188059",
+  song: "song/zara-larsson-chanel",
 } as const satisfies Track

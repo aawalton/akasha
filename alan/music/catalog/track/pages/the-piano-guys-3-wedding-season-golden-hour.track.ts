@@ -23,4 +23,5 @@ export const thePianoGuys3WeddingSeasonGoldenHour = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "goldenhour|0jW6R8CVyVohuUJVcuweDI|158571",
+  song: "song/the-piano-guys-golden-hour",
 } as const satisfies Track

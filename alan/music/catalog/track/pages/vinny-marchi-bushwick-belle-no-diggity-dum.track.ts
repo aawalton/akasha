@@ -26,4 +26,5 @@ export const vinnyMarchiBushwickBelleNoDiggityDum = {
     { externalId: "0ZM2ioGGBOZ3NPTSUbuimj", artistName: "Bobby Bass" },
   ],
   trackKey: "nodiggitydum|0ZM2ioGGBOZ3NPTSUbuimj,5USAMqcbMAzF3HBmeD5pJF|187890",
+  song: "song/vinny-marchi-no-diggity-dum",
 } as const satisfies Track

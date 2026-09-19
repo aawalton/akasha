@@ -23,4 +23,5 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1AllOfMeSutsFavori
   explicit: false,
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "allofmesutsfavorite|2YQ4MY2VwOMv43C0GemUY5|187114",
+  song: "song/the-piano-guys-all-of-me-suts-favorite",
 } as const satisfies Track

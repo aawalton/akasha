@@ -23,4 +23,5 @@ export const vinnyMarchiTalesOfTheLesbianHunterLadyOfTheLyre = {
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "ladyofthelyre|5USAMqcbMAzF3HBmeD5pJF|155859",
+  song: "song/vinny-marchi-lady-of-the-lyre",
 } as const satisfies Track

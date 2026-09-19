@@ -26,4 +26,5 @@ export const zaraLarssonMidnightSunGirlsTripBlueMoonGirlsTrip = {
     { externalId: "0cGUm45nv7Z6M6qdXYQGTX", artistName: "Kehlani" },
   ],
   trackKey: "bluemoongirlstrip|0cGUm45nv7Z6M6qdXYQGTX,1Xylc3o4UrD53lo9CvFvVg|192723",
+  song: "song/zara-larsson-blue-moon-girls-trip",
 } as const satisfies Track

@@ -27,4 +27,5 @@ export const vinnyMarchiHostileGovernmentTakeoverEdmRemixHostileGovernmentTakeov
   ],
   trackKey:
     "hostilegovernmenttakeoveredmremix|5HIe287SJPUFnR5TNjmhk5,5USAMqcbMAzF3HBmeD5pJF|159416",
+  song: "song/vinny-marchi-hostile-government-takeover",
 } as const satisfies Track

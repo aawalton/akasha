@@ -26,4 +26,5 @@ export const vinnyMarchiComeLittleChildrenComeLittleChildren = {
     { externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" },
   ],
   trackKey: "comelittlechildren|0Sl22kYbJDXJoZvmOKe4XQ,5USAMqcbMAzF3HBmeD5pJF|154485",
+  song: "song/vinny-marchi-come-little-children",
 } as const satisfies Track

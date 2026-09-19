@@ -28,4 +28,5 @@ export const vinnyMarchiJennyOfOldstonesJennyOfOldstones = {
   ],
   trackKey:
     "jennyofoldstones|0ZM2ioGGBOZ3NPTSUbuimj,10WKlp1bjWxC1IWbpX4Q6l,5USAMqcbMAzF3HBmeD5pJF|169984",
+  song: "song/vinny-marchi-jenny-of-oldstones",
 } as const satisfies Track

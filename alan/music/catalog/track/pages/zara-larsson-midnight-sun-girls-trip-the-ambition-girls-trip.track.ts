@@ -28,4 +28,5 @@ export const zaraLarssonMidnightSunGirlsTripTheAmbitionGirlsTrip = {
   ],
   trackKey:
     "theambitiongirlstrip|1Xylc3o4UrD53lo9CvFvVg,2kRfqPViCqYdSGhYSM9R0Q,6kf69CwzgodrETRgzcjX95|195523",
+  song: "song/zara-larsson-the-ambition-girls-trip",
 } as const satisfies Track

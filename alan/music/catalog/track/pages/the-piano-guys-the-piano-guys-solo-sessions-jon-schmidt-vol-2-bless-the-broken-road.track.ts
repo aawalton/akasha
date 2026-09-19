@@ -23,4 +23,5 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2BlessTheBrokenRoa
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "blessthebrokenroad|0jW6R8CVyVohuUJVcuweDI|235450",
+  song: "song/the-piano-guys-bless-the-broken-road",
 } as const satisfies Track

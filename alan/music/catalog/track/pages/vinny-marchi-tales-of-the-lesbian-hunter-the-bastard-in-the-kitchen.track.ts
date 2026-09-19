@@ -23,4 +23,5 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheBastardInTheKitchen = {
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "thebastardinthekitchen|5USAMqcbMAzF3HBmeD5pJF|113423",
+  song: "song/vinny-marchi-the-bastard-in-the-kitchen",
 } as const satisfies Track

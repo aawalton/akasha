@@ -23,4 +23,5 @@ export const zaraLarssonInvisibleEndTitleFromKlausInvisibleEndTitleFromKlaus = {
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "invisibleendtitlefromklaus|1Xylc3o4UrD53lo9CvFvVg|171716",
+  song: "song/zara-larsson-invisible-end-title-from-klaus",
 } as const satisfies Track

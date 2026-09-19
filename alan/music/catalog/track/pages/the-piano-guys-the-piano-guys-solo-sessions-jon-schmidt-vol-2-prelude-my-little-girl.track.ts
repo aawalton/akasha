@@ -23,4 +23,5 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2PreludeMyLittleGi
   explicit: false,
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "preludemylittlegirl|2YQ4MY2VwOMv43C0GemUY5|267128",
+  song: "song/the-piano-guys-prelude-my-little-girl",
 } as const satisfies Track

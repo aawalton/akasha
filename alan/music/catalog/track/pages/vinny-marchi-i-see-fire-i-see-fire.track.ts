@@ -26,4 +26,5 @@ export const vinnyMarchiISeeFireISeeFire = {
     { externalId: "0ZM2ioGGBOZ3NPTSUbuimj", artistName: "Bobby Bass" },
   ],
   trackKey: "iseefire|0ZM2ioGGBOZ3NPTSUbuimj,5USAMqcbMAzF3HBmeD5pJF|233453",
+  song: "song/vinny-marchi-i-see-fire",
 } as const satisfies Track

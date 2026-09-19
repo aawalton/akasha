@@ -23,4 +23,5 @@ export const vinnyMarchiBushwickBelleIfYouFall = {
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "ifyoufall|5USAMqcbMAzF3HBmeD5pJF|218135",
+  song: "song/vinny-marchi-if-you-fall",
 } as const satisfies Track

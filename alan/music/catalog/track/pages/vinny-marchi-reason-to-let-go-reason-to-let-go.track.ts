@@ -23,4 +23,5 @@ export const vinnyMarchiReasonToLetGoReasonToLetGo = {
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "reasontoletgo|5USAMqcbMAzF3HBmeD5pJF|211470",
+  song: "song/vinny-marchi-reason-to-let-go",
 } as const satisfies Track

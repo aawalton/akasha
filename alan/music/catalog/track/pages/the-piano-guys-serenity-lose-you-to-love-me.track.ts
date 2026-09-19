@@ -29,4 +29,5 @@ export const thePianoGuysSerenityLoseYouToLoveMe = {
   ],
   trackKey:
     "loseyoutoloveme|0jW6R8CVyVohuUJVcuweDI,2Kmde61lMC5krhNprC9v5F,3B05AVEBbrBHzXR80NAbSH,42kJx1vTbVTE3f78Khiiyn|297813",
+  song: "song/the-piano-guys-lose-you-to-love-me",
 } as const satisfies Track

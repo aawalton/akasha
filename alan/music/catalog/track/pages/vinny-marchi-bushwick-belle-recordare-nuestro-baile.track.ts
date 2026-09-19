@@ -23,4 +23,5 @@ export const vinnyMarchiBushwickBelleRecordareNuestroBaile = {
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "recordarenuestrobaile|5USAMqcbMAzF3HBmeD5pJF|220119",
+  song: "song/vinny-marchi-recordare-nuestro-baile",
 } as const satisfies Track

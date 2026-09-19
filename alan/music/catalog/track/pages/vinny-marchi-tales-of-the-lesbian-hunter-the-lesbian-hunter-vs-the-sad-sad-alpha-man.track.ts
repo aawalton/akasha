@@ -23,4 +23,5 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheLesbianHunterVsTheSadSadAlphaM
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "thelesbianhuntervsthesadsadalphaman|5USAMqcbMAzF3HBmeD5pJF|150090",
+  song: "song/vinny-marchi-the-lesbian-hunter-vs-the-sad-sad-alpha-man",
 } as const satisfies Track

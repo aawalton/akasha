@@ -27,4 +27,5 @@ export const zaraLarssonABrandNewDayBtsWorldOriginalSoundtrackPt2ABrandNewDayBts
   ],
   trackKey:
     "abrandnewdaybtsworldoriginalsoundtrackpt2|1Xylc3o4UrD53lo9CvFvVg,3Nrfpe0tUJi4K4DXYWgMUX|205019",
+  song: "song/zara-larsson-a-brand-new-day-bts-world-original-soundtrack-pt-2",
 } as const satisfies Track

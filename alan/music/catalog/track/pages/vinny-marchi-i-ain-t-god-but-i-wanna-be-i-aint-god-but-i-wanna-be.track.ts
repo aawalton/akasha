@@ -23,4 +23,5 @@ export const vinnyMarchiIAinTGodButIWannaBeIAintGodButIWannaBe = {
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "iaintgodbutiwannabe|5USAMqcbMAzF3HBmeD5pJF|208000",
+  song: "song/vinny-marchi-i-aint-god-but-i-wanna-be",
 } as const satisfies Track

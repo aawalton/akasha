@@ -26,4 +26,5 @@ export const vinnyMarchiAveMariaAveMaria = {
     { externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" },
   ],
   trackKey: "avemaria|2p0UyoPfYfI76PCStuXfOP,5USAMqcbMAzF3HBmeD5pJF|236010",
+  song: "song/vinny-marchi-ave-maria",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2ToTheSummit = {
   explicit: false,
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "tothesummit|2YQ4MY2VwOMv43C0GemUY5|306964",
+  song: "song/the-piano-guys-to-the-summit",
 } as const satisfies Track

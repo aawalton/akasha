@@ -23,4 +23,5 @@ export const vinnyMarchiHaveYourselfAMerryLittleChristmasHaveYourselfAMerryLittl
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "haveyourselfamerrylittlechristmas|5USAMqcbMAzF3HBmeD5pJF|162069",
+  song: "song/vinny-marchi-have-yourself-a-merry-little-christmas",
 } as const satisfies Track

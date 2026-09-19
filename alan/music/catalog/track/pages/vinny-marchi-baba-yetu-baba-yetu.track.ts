@@ -23,4 +23,5 @@ export const vinnyMarchiBabaYetuBabaYetu = {
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "babayetu|5USAMqcbMAzF3HBmeD5pJF|216455",
+  song: "song/vinny-marchi-baba-yetu",
 } as const satisfies Track

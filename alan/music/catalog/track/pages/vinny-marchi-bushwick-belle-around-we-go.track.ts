@@ -23,4 +23,5 @@ export const vinnyMarchiBushwickBelleAroundWeGo = {
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "aroundwego|5USAMqcbMAzF3HBmeD5pJF|173423",
+  song: "song/vinny-marchi-around-we-go",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const thePianoGuysSerenityBlessTheBrokenRoad = {
     { externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" },
   ],
   trackKey: "blessthebrokenroad|0jW6R8CVyVohuUJVcuweDI,2YQ4MY2VwOMv43C0GemUY5|235440",
+  song: "song/the-piano-guys-bless-the-broken-road",
 } as const satisfies Track

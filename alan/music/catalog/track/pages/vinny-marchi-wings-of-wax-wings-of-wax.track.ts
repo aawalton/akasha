@@ -23,4 +23,5 @@ export const vinnyMarchiWingsOfWaxWingsOfWax = {
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "wingsofwax|5USAMqcbMAzF3HBmeD5pJF|228914",
+  song: "song/vinny-marchi-wings-of-wax",
 } as const satisfies Track

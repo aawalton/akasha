@@ -31,4 +31,5 @@ export const thePianoGuys3WhatAreWordsFeatPeterHollensEvynneHollensWhatAreWordsF
   ],
   trackKey:
     "whatarewordsfeatpeterhollensevynnehollens|0jW6R8CVyVohuUJVcuweDI,2SwLEGWYgzGFZwKLMSUEJI,33b5NkaZsL1YoW7pO19Sc7,3nj3MfJCFFoKiRkAOW1R8c,4lkj4oF1xEY9OEMLict5ez,7EIbKyiLnEJ1Y074UIUyZJ|218000",
+  song: "song/the-piano-guys-what-are-words",
 } as const satisfies Track

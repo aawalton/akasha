@@ -23,4 +23,5 @@ export const thePianoGuysClassicalForStudyingClairDeLune = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "clairdelune|0jW6R8CVyVohuUJVcuweDI|192481",
+  song: "song/the-piano-guys-clair-de-lune",
 } as const satisfies Track

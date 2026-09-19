@@ -23,4 +23,5 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2ForTheBeautyOfThe
   explicit: false,
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "forthebeautyoftheearth|2YQ4MY2VwOMv43C0GemUY5|293327",
+  song: "song/the-piano-guys-for-the-beauty-of-the-earth",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2CantHelpFallingIn
   explicit: false,
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "canthelpfallinginlove|2YQ4MY2VwOMv43C0GemUY5|285962",
+  song: "song/the-piano-guys-cant-help-falling-in-love",
 } as const satisfies Track

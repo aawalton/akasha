@@ -23,4 +23,5 @@ export const vinnyMarchiWeAreFuckedUnmotivationalSongWeAreFuckedUnmotivationalSo
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "wearefuckedunmotivationalsong|5USAMqcbMAzF3HBmeD5pJF|168000",
+  song: "song/vinny-marchi-we-are-fucked-unmotivational-song",
 } as const satisfies Track

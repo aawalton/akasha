@@ -26,4 +26,5 @@ export const vinnyMarchiBadDaysGoodBadDaysGood = {
     { externalId: "64ADBorxGiCOn7wiXxQfYB", artistName: "Jason Juliano" },
   ],
   trackKey: "baddaysgood|5USAMqcbMAzF3HBmeD5pJF,64ADBorxGiCOn7wiXxQfYB|159000",
+  song: "song/vinny-marchi-bad-days-good",
 } as const satisfies Track

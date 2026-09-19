@@ -23,4 +23,5 @@ export const vinnyMarchiHoldingOnToYouHoldingOnToYou = {
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "holdingontoyou|5USAMqcbMAzF3HBmeD5pJF|172874",
+  song: "song/vinny-marchi-holding-on-to-you",
 } as const satisfies Track

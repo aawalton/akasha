@@ -23,4 +23,5 @@ export const zaraLarssonLayAllYourLoveOnMeSpotifySinglesLayAllYourLoveOnMeSpotif
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "layallyourloveonmespotifysingles|1Xylc3o4UrD53lo9CvFvVg|161125",
+  song: "song/zara-larsson-lay-all-your-love-on-me-spotify-singles",
 } as const satisfies Track

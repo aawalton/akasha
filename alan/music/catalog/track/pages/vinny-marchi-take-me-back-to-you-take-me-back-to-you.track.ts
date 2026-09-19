@@ -23,4 +23,5 @@ export const vinnyMarchiTakeMeBackToYouTakeMeBackToYou = {
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "takemebacktoyou|5USAMqcbMAzF3HBmeD5pJF|173134",
+  song: "song/vinny-marchi-take-me-back-to-you",
 } as const satisfies Track

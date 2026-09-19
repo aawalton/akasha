@@ -23,4 +23,5 @@ export const vinnyMarchiSugarStarsLullabyForTheAnxious = {
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lullabyfortheanxious|5USAMqcbMAzF3HBmeD5pJF|191843",
+  song: "song/vinny-marchi-lullaby-for-the-anxious",
 } as const satisfies Track

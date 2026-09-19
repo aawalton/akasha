@@ -23,4 +23,5 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2OurSaviorsLove = 
   explicit: false,
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "oursaviorslove|2YQ4MY2VwOMv43C0GemUY5|223136",
+  song: "song/the-piano-guys-our-saviors-love",
 } as const satisfies Track

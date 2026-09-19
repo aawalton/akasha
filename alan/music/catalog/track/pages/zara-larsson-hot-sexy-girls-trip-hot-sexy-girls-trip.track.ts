@@ -26,4 +26,5 @@ export const zaraLarssonHotSexyGirlsTripHotSexyGirlsTrip = {
     { externalId: "3SozjO3Lat463tQICI9LcE", artistName: "Tyla" },
   ],
   trackKey: "hotsexygirlstrip|1Xylc3o4UrD53lo9CvFvVg,3SozjO3Lat463tQICI9LcE|206118",
+  song: "song/zara-larsson-hot-sexy-girls-trip",
 } as const satisfies Track

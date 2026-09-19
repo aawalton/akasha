@@ -23,4 +23,5 @@ export const vinnyMarchiTalesOfTheLesbianHunterBearDontCareInterlude = {
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "beardontcareinterlude|5USAMqcbMAzF3HBmeD5pJF|70824",
+  song: "song/vinny-marchi-bear-dont-care-interlude",
 } as const satisfies Track

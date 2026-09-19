@@ -26,4 +26,5 @@ export const zaraLarssonMidnightSunGirlsTripPussPussGirlsTrip = {
     { externalId: "6UE7nl9mha6s8z0wFQFIZ2", artistName: "Robyn" },
   ],
   trackKey: "pusspussgirlstrip|1Xylc3o4UrD53lo9CvFvVg,6UE7nl9mha6s8z0wFQFIZ2|185721",
+  song: "song/zara-larsson-puss-puss-girls-trip",
 } as const satisfies Track

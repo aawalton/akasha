@@ -23,4 +23,5 @@ export const zaraLarssonSpotifySinglesSoGoodRecordedAtSpotifyStudiosNyc = {
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "sogoodrecordedatspotifystudiosnyc|1Xylc3o4UrD53lo9CvFvVg|161447",
+  song: "song/zara-larsson-so-good-recorded-at-spotify-studios-nyc",
 } as const satisfies Track

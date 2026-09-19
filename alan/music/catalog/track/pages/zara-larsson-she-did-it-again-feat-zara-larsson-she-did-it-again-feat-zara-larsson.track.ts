@@ -26,4 +26,5 @@ export const zaraLarssonSheDidItAgainFeatZaraLarssonSheDidItAgainFeatZaraLarsson
     { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
   ],
   trackKey: "shediditagainfeatzaralarsson|1Xylc3o4UrD53lo9CvFvVg,3SozjO3Lat463tQICI9LcE|213241",
+  song: "song/zara-larsson-she-did-it-again",
 } as const satisfies Track

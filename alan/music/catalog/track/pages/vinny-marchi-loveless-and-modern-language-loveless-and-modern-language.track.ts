@@ -23,4 +23,5 @@ export const vinnyMarchiLovelessAndModernLanguageLovelessAndModernLanguage = {
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lovelessandmodernlanguage|5USAMqcbMAzF3HBmeD5pJF|219536",
+  song: "song/vinny-marchi-loveless-and-modern-language",
 } as const satisfies Track

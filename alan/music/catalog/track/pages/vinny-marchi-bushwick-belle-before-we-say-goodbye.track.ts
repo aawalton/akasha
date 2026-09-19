@@ -23,4 +23,5 @@ export const vinnyMarchiBushwickBelleBeforeWeSayGoodbye = {
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "beforewesaygoodbye|5USAMqcbMAzF3HBmeD5pJF|132057",
+  song: "song/vinny-marchi-before-we-say-goodbye",
 } as const satisfies Track

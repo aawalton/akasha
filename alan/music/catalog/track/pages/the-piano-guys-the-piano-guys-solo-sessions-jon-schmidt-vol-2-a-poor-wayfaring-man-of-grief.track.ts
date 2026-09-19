@@ -23,4 +23,5 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2APoorWayfaringMan
   explicit: false,
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "apoorwayfaringmanofgrief|2YQ4MY2VwOMv43C0GemUY5|476315",
+  song: "song/the-piano-guys-a-poor-wayfaring-man-of-grief",
 } as const satisfies Track

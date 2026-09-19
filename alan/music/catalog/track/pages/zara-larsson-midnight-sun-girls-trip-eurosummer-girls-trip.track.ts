@@ -26,4 +26,5 @@ export const zaraLarssonMidnightSunGirlsTripEurosummerGirlsTrip = {
     { externalId: "0EmeFodog0BfCgMzAIvKQp", artistName: "Shakira" },
   ],
   trackKey: "eurosummergirlstrip|0EmeFodog0BfCgMzAIvKQp,1Xylc3o4UrD53lo9CvFvVg|170346",
+  song: "song/zara-larsson-eurosummer-girls-trip",
 } as const satisfies Track

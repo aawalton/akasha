@@ -30,4 +30,5 @@ export const thePianoGuys3WayfaringStrangerWayfaringStranger = {
   ],
   trackKey:
     "wayfaringstranger|0jW6R8CVyVohuUJVcuweDI,1GRl6sRyLg9ToOohIE2wW5,1U5zgr455OGyIkLNXvDdrf,2Zpql3RdMQjunbDKk1bIiz,4kAIRZipPTtTbZBTudxcEA|232685",
+  song: "song/the-piano-guys-wayfaring-stranger",
 } as const satisfies Track

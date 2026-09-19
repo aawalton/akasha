@@ -26,4 +26,5 @@ export const vinnyMarchiMistyMountainsMistyMountains = {
     { externalId: "7fLnGsF79xujfrOZmPMuEG", artistName: "Mia Asano" },
   ],
   trackKey: "mistymountains|5USAMqcbMAzF3HBmeD5pJF,7fLnGsF79xujfrOZmPMuEG|189180",
+  song: "song/vinny-marchi-misty-mountains",
 } as const satisfies Track

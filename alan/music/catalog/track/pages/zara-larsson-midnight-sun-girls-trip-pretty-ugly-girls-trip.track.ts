@@ -28,4 +28,5 @@ export const zaraLarssonMidnightSunGirlsTripPrettyUglyGirlsTrip = {
   ],
   trackKey:
     "prettyuglygirlstrip|1Xylc3o4UrD53lo9CvFvVg,39af15p0feaAOdL9DTRj3m,4TfgyYjNRfHUdPJSQGUke0|148962",
+  song: "song/zara-larsson-pretty-ugly-girls-trip",
 } as const satisfies Track
