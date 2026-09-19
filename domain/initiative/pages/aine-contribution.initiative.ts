@@ -30,12 +30,6 @@ export const aineContribution = {
       statement:
         "A feature request names each contributor backing it and the points committed, most first.",
     },
-    {
-      statement:
-        "A refund or dispute Stripe reports posts a negative transaction against the contributor.",
-      workingMemory:
-        "Ko-fi reports no cancellation, refund or chargeback, and says so itself. Stripe does, because Alan is the merchant rather than Ko-fi.",
-    },
     { statement: "An account newly made holds a hundred contribution points." },
     { statement: "Anyone makes an account at alanwalton.com, and that account is a contributor." },
     { statement: "A contributor signs in at alanwalton.com with Google or with Discord." },
