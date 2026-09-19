@@ -168,24 +168,34 @@ export function offerOf(
   newnessLeft: number
 ): Offer | null {
   const covered = coveredBy(kit)
-  for (const muscle of owedIn(week.tally.muscles, low)) {
+  const picks = owedIn(week.tally.muscles, low).flatMap((muscle) => {
     const one = chosenFor(week, muscle, covered, marks, ceiling, newnessLeft)
-    if (one === null) continue
-    const mark = marks.get(one.slug) ?? null
-    const top = one.implement === null ? null : topLoadFor(kit, one.implement)
-    const atKitCeiling = mark?.weight != null && top !== null && mark.weight >= top
-    return {
-      movement: one.slug,
-      title: one.title ?? one.slug,
-      muscle,
-      owed: low - (week.tally.muscles.get(muscle) ?? 0),
-      weight: mark?.weight ?? null,
-      reps: mark?.reps === null || mark?.reps === undefined ? null : mark.reps + 1,
-      atKitCeiling,
-      familiar: (mark?.sets ?? 0) > 0,
-    }
+    if (one === null) return []
+    return [
+      {
+        muscle,
+        one,
+        owed: low - (week.tally.muscles.get(muscle) ?? 0),
+        seen: marks.get(one.slug)?.sets ?? 0,
+      },
+    ]
+  })
+  const best = [...picks].sort(
+    (a, b) => b.owed - a.owed || b.seen - a.seen || a.muscle.localeCompare(b.muscle)
+  )[0]
+  if (best === undefined) return null
+  const mark = marks.get(best.one.slug) ?? null
+  const top = best.one.implement === null ? null : topLoadFor(kit, best.one.implement)
+  return {
+    movement: best.one.slug,
+    title: best.one.title ?? best.one.slug,
+    muscle: best.muscle,
+    owed: best.owed,
+    weight: mark?.weight ?? null,
+    reps: mark?.reps === null || mark?.reps === undefined ? null : mark.reps + 1,
+    atKitCeiling: mark?.weight != null && top !== null && mark.weight >= top,
+    familiar: (mark?.sets ?? 0) > 0,
   }
-  return null
 }
 
 export function saidOf(offer: Offer | null): readonly string[] {

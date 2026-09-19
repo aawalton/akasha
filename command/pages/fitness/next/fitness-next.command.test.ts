@@ -136,6 +136,16 @@ test("a movement Alan never took near failure carries no weight and no reps", ()
   expect(offer?.reps).toBe(null)
 })
 
+test("muscles owed alike are parted by the deepest history", () => {
+  const curl = movement("hammer-curls", { muscles: ["biceps"], pattern: "isolation-other" })
+  const marks = new Map<string, Mark>([
+    ["dumbbell-bench-press", { sets: 16, weight: 30, reps: 20 }],
+    ["hammer-curls", { sets: 5, weight: 15, reps: 15 }],
+  ])
+  const offer = offerOf(week([BENCH, curl]), KIT, marks, 6, 12, 0)
+  expect(offer?.movement).toBe("dumbbell-bench-press")
+})
+
 test("nothing owed and nothing loadable is answered as rest", () => {
   expect(saidOf(null)[0]).toContain("rest")
 })

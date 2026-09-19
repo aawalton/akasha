@@ -88,6 +88,10 @@ export const fitnessNext = {
       decisionKind: "decision-kind/absence",
       statement: "A run writes nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Muscles owed alike are parted by the movement Alan has the deepest history with.",
+    },
   ],
   name: "next",
   arguments: [{ argument: "argument/json" }],
