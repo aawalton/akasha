@@ -8,6 +8,7 @@ export const damia = {
   world: "world/the-wandering-inn",
   maxLevel: 12,
   eventCount: 9,
-  firstChapter: 820,
+  firstChapter: 819,
   lastChapter: 821,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

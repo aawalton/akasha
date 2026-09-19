@@ -7,6 +7,7 @@ export const drassi = {
   title: "Drassi",
   world: "world/the-wandering-inn",
   eventCount: 2,
-  firstChapter: 435,
-  lastChapter: 435,
+  firstChapter: 13,
+  lastChapter: 803,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

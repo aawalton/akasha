@@ -1,12 +1,552 @@
-{"id":"01a0b706-d2c5-7caf-a948-441552b6db33","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"class","claimValue":"Mage","epistemic":"claimed","claimedBy":"context","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7e5a-aec2-fe2237d1fdcf","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"level","claimValue":"20","epistemic":"claimed","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7b5b-9f35-ee1db11a2f52","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Skeletal hand (can flex and cast magic)","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7569-b0fc-5674a2787fe8","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Half-elf","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-746e-a409-8f4b61a4bbc8","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Over sixty years old","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7edf-ab6f-f163e8ec5ac4","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Survivor of crypts expedition","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7ab6-b966-3465f51e2dc9","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Former Horn of Hammerad","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-79ed-b6c8-367ac9f340fe","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Ice Spike","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7e22-9093-e84604a6f90f","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Ice Shard","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7f1c-bd42-f67a95256412","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Icy Floor","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-75a5-bfb7-d96439545313","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Icy Grasp","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7de1-aa7f-3bd34c5d7fc6","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Flashstep","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b709-e4df-7b29-aa00-186b998de727","chapterSlug":"the-wandering-inn-0029-1-26-r","claimField":"class","claimValue":"Elementalist","epistemic":"asserted","sourceChapter":"1.26 R"}
+{"id":"01a0b709-e4df-7a5d-9ce9-95cf2b530f90","chapterSlug":"the-wandering-inn-0029-1-26-r","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"1.26 R"}
+{"id":"01a0b709-e4df-79c5-a050-5778bdcbb031","chapterSlug":"the-wandering-inn-0029-1-26-r","claimField":"trait","claimValue":"Blonde hair that stands up from static electricity","epistemic":"asserted","sourceChapter":"1.26 R"}
+{"id":"01a0b709-e4df-7703-998e-5b4841960beb","chapterSlug":"the-wandering-inn-0029-1-26-r","claimField":"trait","claimValue":"Pointed ears","epistemic":"asserted","sourceChapter":"1.26 R"}
+{"id":"01a0b709-e4df-774b-853a-4875ef7fcd2f","chapterSlug":"the-wandering-inn-0029-1-26-r","claimField":"trait","claimValue":"Wields a wand tipped with ice","epistemic":"asserted","sourceChapter":"1.26 R"}
+{"id":"01a0b709-e4df-770d-9766-360a2bdf3b22","chapterSlug":"the-wandering-inn-0029-1-26-r","claimField":"skill","claimValue":"Ice magic, can cast ice shards with precision","epistemic":"asserted","sourceChapter":"1.26 R"}
+{"id":"01a0b709-e4df-7808-bdd5-7f83db657968","chapterSlug":"the-wandering-inn-0038-1-35-r","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"1.35 R"}
+{"id":"01a0b709-e4df-7cb3-a14d-f9d8918dd3e8","chapterSlug":"the-wandering-inn-0038-1-35-r","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"1.35 R"}
+{"id":"01a0b709-e4df-7b5c-be06-160b1280de1f","chapterSlug":"the-wandering-inn-0038-1-35-r","claimField":"trait","claimValue":"leader of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"1.35 R"}
+{"id":"01a0b709-e4df-7691-af73-317c89219db1","chapterSlug":"the-wandering-inn-0038-1-35-r","claimField":"trait","claimValue":"studied at Wistram Academy with Pisces","epistemic":"asserted","sourceChapter":"1.35 R"}
+{"id":"01a0b709-e4df-74c0-a26b-469c65ef328b","chapterSlug":"the-wandering-inn-0038-1-35-r","claimField":"trait","claimValue":"parted on bad terms with Pisces six years ago","epistemic":"claimed","claimedBy":"Ceria","sourceChapter":"1.35 R"}
+{"id":"01a0b709-e4df-7954-bb8a-5b1f164dcbbb","chapterSlug":"the-wandering-inn-0038-1-35-r","claimField":"trait","claimValue":"compassionate, willing to call in old favors for friends in need","epistemic":"asserted","sourceChapter":"1.35 R"}
+{"id":"01a0b709-e4df-77b6-ab3c-a4f80923773d","chapterSlug":"the-wandering-inn-0038-1-35-r","claimField":"skill","claimValue":"[Numb]","epistemic":"asserted","sourceChapter":"1.35 R"}
+{"id":"01a0b709-e4df-7877-91fc-86b3232ad2f0","chapterSlug":"the-wandering-inn-0039-1-36","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"1.36"}
+{"id":"01a0b709-e4df-7c2e-8e74-55d80aea4672","chapterSlug":"the-wandering-inn-0039-1-36","claimField":"trait","claimValue":"Healer of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"1.36"}
+{"id":"01a0b709-e4df-7977-86fe-bad9dc96a2e8","chapterSlug":"the-wandering-inn-0039-1-36","claimField":"skill","claimValue":"Healing magic","epistemic":"asserted","sourceChapter":"1.36"}
+{"id":"01a0b709-e4df-7282-b4c4-9c3ebd8ae542","chapterSlug":"the-wandering-inn-0039-1-36","claimField":"skill","claimValue":"Dispel Magic","epistemic":"asserted","sourceChapter":"1.36"}
+{"id":"01a0b709-e4df-742a-9147-837b2fb27225","chapterSlug":"the-wandering-inn-0042-1-39-r","claimField":"class","claimValue":"Adventurer","epistemic":"asserted","sourceChapter":"1.39 R"}
+{"id":"01a0b709-e4df-7bfc-86d9-71cdfb923d3c","chapterSlug":"the-wandering-inn-0042-1-39-r","claimField":"trait","claimValue":"member of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"1.39 R"}
+{"id":"01a0b709-e4df-7522-ad55-2dc459d39d47","chapterSlug":"the-wandering-inn-0042-1-39-r","claimField":"trait","claimValue":"has studied at Wistram Academy","epistemic":"asserted","sourceChapter":"1.39 R"}
+{"id":"01a0b709-e4df-76f8-8d7c-ef259ba35b43","chapterSlug":"the-wandering-inn-0042-1-39-r","claimField":"trait","claimValue":"knowledgeable about magical items","epistemic":"asserted","sourceChapter":"1.39 R"}
+{"id":"01a0b709-e4df-753e-aba3-c319ca18f591","chapterSlug":"the-wandering-inn-0047-1-44-r","claimField":"identity","claimValue":"half-Elf","epistemic":"claimed","claimedBy":"Persua","sourceChapter":"1.44 R"}
+{"id":"01a0b709-e4df-7e26-9446-21f0297e5d04","chapterSlug":"the-wandering-inn-0047-1-44-r","claimField":"trait","claimValue":"Gave Ryoka mana potions","epistemic":"asserted","sourceChapter":"1.44 R"}
+{"id":"01a0b709-e4df-79d8-aafa-88c145fe1fa1","chapterSlug":"the-wandering-inn-0047-1-44-r","claimField":"trait","claimValue":"Communicates via magical fireflies","epistemic":"asserted","sourceChapter":"1.44 R"}
+{"id":"01a0b709-e4df-729a-828c-a71bd6a720b0","chapterSlug":"the-wandering-inn-0047-1-44-r","claimField":"trait","claimValue":"In Esthelm preparing to enter ruins in Liscor","epistemic":"asserted","sourceChapter":"1.44 R"}
+{"id":"01a0b709-e4df-7ac3-99b4-a9865c6accfa","chapterSlug":"the-wandering-inn-0047-1-44-r","claimField":"skill","claimValue":"[Repair]","epistemic":"claimed","claimedBy":"Ryoka","sourceChapter":"1.44 R"}
+{"id":"01a0b709-e4df-7f1e-ae31-88aa158c80e5","chapterSlug":"the-wandering-inn-0048-1-45","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"1.45"}
+{"id":"01a0b709-e4df-746b-afa3-a5dda3f9b6ce","chapterSlug":"the-wandering-inn-0048-1-45","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"1.45"}
+{"id":"01a0b709-e4df-7391-8027-b76e1bdef61d","chapterSlug":"the-wandering-inn-0048-1-45","claimField":"trait","claimValue":"beautiful, with unearthly quality","epistemic":"asserted","sourceChapter":"1.45"}
+{"id":"01a0b709-e4df-786a-8b65-6cb76c00b954","chapterSlug":"the-wandering-inn-0048-1-45","claimField":"trait","claimValue":"studied at Wistram Academy","epistemic":"asserted","sourceChapter":"1.45"}
+{"id":"01a0b709-e4df-72fa-ab82-039f764ed8a1","chapterSlug":"the-wandering-inn-0048-1-45","claimField":"trait","claimValue":"lives in Adventurer's Guild","epistemic":"asserted","sourceChapter":"1.45"}
+{"id":"01a0b709-e4df-7b0d-8fc7-c9d2f17e654c","chapterSlug":"the-wandering-inn-0048-1-45","claimField":"trait","claimValue":"teaches magic using traditional methods","epistemic":"asserted","sourceChapter":"1.45"}
+{"id":"01a0b709-e4df-7262-ae91-1b6e9cf6f0a1","chapterSlug":"the-wandering-inn-0048-1-45","claimField":"trait","claimValue":"once all beings could naturally access magic","epistemic":"claimed","claimedBy":"Ceria, citing her grandfather","sourceChapter":"1.45"}
+{"id":"01a0b709-e4df-7be9-b187-777d97830852","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"identity","claimValue":"half-Elf","epistemic":"claimed","claimedBy":"Ceria","sourceChapter":"1.50"}
+{"id":"01a0b709-e4df-7e9e-acad-651384a88be1","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"trait","claimValue":"early riser despite common expectations of her kind","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b709-e4df-775e-a874-56dc2c8b2e8f","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"trait","claimValue":"skilled with magic","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b709-e4df-750e-819b-36aa1d7960ca","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"trait","claimValue":"from Wistram academy","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b709-e4df-74b2-9ba3-eb82cc49d57d","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"trait","claimValue":"has pointed ears","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b709-e4df-7087-90f8-b95a948f519d","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"skill","claimValue":"Illumination spell","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b709-e4df-7dbe-b140-116d321d9e4d","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"skill","claimValue":"Light spell","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b709-e4df-7c63-a04a-00a6a972ea4b","chapterSlug":"the-wandering-inn-0054-1-51","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"1.51"}
+{"id":"01a0b709-e4df-73ac-bfd9-bbf1e33f4e69","chapterSlug":"the-wandering-inn-0054-1-51","claimField":"trait","claimValue":"Emotionally attuned and moved by music and beauty","epistemic":"asserted","sourceChapter":"1.51"}
+{"id":"01a0b709-e4df-7e1e-b7d4-6a3c6348fa95","chapterSlug":"the-wandering-inn-0056-1-53","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"1.53"}
+{"id":"01a0b709-e4df-7c31-843d-2caa553dc672","chapterSlug":"the-wandering-inn-0056-1-53","claimField":"trait","claimValue":"healer","epistemic":"asserted","sourceChapter":"1.53"}
+{"id":"01a0b709-e4df-7b2d-8fe2-01159f9046c2","chapterSlug":"the-wandering-inn-0056-1-53","claimField":"trait","claimValue":"adventurer","epistemic":"asserted","sourceChapter":"1.53"}
+{"id":"01a0b709-e4df-7a29-82e9-cdf0c29186aa","chapterSlug":"the-wandering-inn-0056-1-53","claimField":"skill","claimValue":"Numb","epistemic":"asserted","sourceChapter":"1.53"}
+{"id":"01a0b709-e4df-721e-9045-708c170aa290","chapterSlug":"the-wandering-inn-0057-1-54","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"1.54"}
+{"id":"01a0b709-e4df-79b7-ae0c-b0b06d92b8a3","chapterSlug":"the-wandering-inn-0057-1-54","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"1.54"}
+{"id":"01a0b709-e4df-778d-884b-2c345881d3bd","chapterSlug":"the-wandering-inn-0057-1-54","claimField":"level","claimValue":"20","epistemic":"claimed","sourceChapter":"1.54"}
+{"id":"01a0b709-e4df-733c-9f8f-676ad22f0cb6","chapterSlug":"the-wandering-inn-0057-1-54","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"1.54"}
+{"id":"01a0b709-e4df-7f99-bfd2-fe75977c3de5","chapterSlug":"the-wandering-inn-0057-1-54","claimField":"trait","claimValue":"over 60 years old","epistemic":"asserted","sourceChapter":"1.54"}
+{"id":"01a0b709-e4df-7ea2-9260-37155f01e510","chapterSlug":"the-wandering-inn-0057-1-54","claimField":"trait","claimValue":"14 years adventuring","epistemic":"asserted","sourceChapter":"1.54"}
+{"id":"01a0b709-e4df-7644-8702-ef1d998e58b3","chapterSlug":"the-wandering-inn-0057-1-54","claimField":"trait","claimValue":"can resist charm spells","epistemic":"asserted","sourceChapter":"1.54"}
+{"id":"01a0b709-e4df-77bd-8223-93ec1f333267","chapterSlug":"the-wandering-inn-0057-1-54","claimField":"trait","claimValue":"knows Wistram Academy","epistemic":"asserted","sourceChapter":"1.54"}
+{"id":"01a0b709-e4df-73a8-a5e0-4c4a31f76e77","chapterSlug":"the-wandering-inn-0057-1-54","claimField":"trait","claimValue":"studies spell books","epistemic":"asserted","sourceChapter":"1.54"}
+{"id":"01a0b709-e4df-7c09-83bf-b077f96280b1","chapterSlug":"the-wandering-inn-0057-1-54","claimField":"skill","claimValue":"Illumination","epistemic":"asserted","sourceChapter":"1.54"}
+{"id":"01a0b709-e4df-736f-b334-e2f89786e0ec","chapterSlug":"the-wandering-inn-0057-1-54","claimField":"skill","claimValue":"Flashfire","epistemic":"asserted","sourceChapter":"1.54"}
+{"id":"01a0b709-e4df-7124-9cc4-93b5056ff94e","chapterSlug":"the-wandering-inn-0059-1-56","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"1.56"}
+{"id":"01a0b709-e4df-754b-825c-3b9f74cced6b","chapterSlug":"the-wandering-inn-0059-1-56","claimField":"trait","claimValue":"understands mana theory","epistemic":"asserted","sourceChapter":"1.56"}
+{"id":"01a0b709-e4df-7be9-bab1-6ff8c6c5f914","chapterSlug":"the-wandering-inn-0059-1-56","claimField":"skill","claimValue":"mage","epistemic":"asserted","sourceChapter":"1.56"}
+{"id":"01a0b709-e4df-7eae-af84-98c9213e90bc","chapterSlug":"the-wandering-inn-0060-1-57-h","claimField":"class","claimValue":"Mage","epistemic":"asserted"}
+{"id":"01a0b709-e4df-7e34-ab69-aba40c80ccb4","chapterSlug":"the-wandering-inn-0060-1-57-h","claimField":"trait","claimValue":"half-elf","epistemic":"asserted","sourceChapter":"1.57 H"}
+{"id":"01a0b709-e4df-79bc-86fb-85a06846de9e","chapterSlug":"the-wandering-inn-0060-1-57-h","claimField":"trait","claimValue":"adventurer","epistemic":"asserted","sourceChapter":"1.57 H"}
+{"id":"01a0b709-e4df-789a-aea5-6ce93fc121a7","chapterSlug":"the-wandering-inn-0060-1-57-h","claimField":"trait","claimValue":"vice-captain of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"1.57 H"}
+{"id":"01a0b709-e4df-7425-825b-2f7da86a64d2","chapterSlug":"the-wandering-inn-0060-1-57-h","claimField":"skill","claimValue":"[Illumination]","epistemic":"asserted","sourceChapter":"1.57 H"}
+{"id":"01a0b709-e4df-7e05-ae7b-5004330da2a0","chapterSlug":"the-wandering-inn-0061-1-58-h","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"1.58 H"}
+{"id":"01a0b709-e4df-711f-9bda-2bc4215eb09c","chapterSlug":"the-wandering-inn-0061-1-58-h","claimField":"skill","claimValue":"[Ice Spike]","epistemic":"asserted","sourceChapter":"1.58 H"}
+{"id":"01a0b709-e4df-71b7-b82e-f1a9a351724f","chapterSlug":"the-wandering-inn-0061-1-58-h","claimField":"skill","claimValue":"[Illumination]","epistemic":"asserted","sourceChapter":"1.58 H"}
+{"id":"01a0b709-e4df-75e0-a5ea-a0a648ef9897","chapterSlug":"the-wandering-inn-0061-1-58-h","claimField":"skill","claimValue":"[Fireball]","epistemic":"asserted","sourceChapter":"1.58 H"}
+{"id":"01a0b709-e4df-7286-92ea-79b18a3ad36b","chapterSlug":"the-wandering-inn-0061-1-58-h","claimField":"skill","claimValue":"[Flashfire]","epistemic":"asserted","sourceChapter":"1.58 H"}
+{"id":"01a0b709-e4df-770e-ab38-e3b1e036a0bf","chapterSlug":"the-wandering-inn-0061-1-58-h","claimField":"skill","claimValue":"[Marksman]","epistemic":"claimed","claimedBy":"narrator (Ceria's training)","sourceChapter":"1.58 H"}
+{"id":"01a0b709-e4df-7cdc-ab99-153870ecac8a","chapterSlug":"the-wandering-inn-0062-1-59-h","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"1.59 H"}
+{"id":"01a0b709-e4df-7fd6-ad44-2809c1c2b3a8","chapterSlug":"the-wandering-inn-0062-1-59-h","claimField":"trait","claimValue":"veteran adventurer","epistemic":"asserted","sourceChapter":"1.59 H"}
+{"id":"01a0b709-e4df-7647-8004-70b1e5cb80ae","chapterSlug":"the-wandering-inn-0062-1-59-h","claimField":"trait","claimValue":"pointed ears","epistemic":"asserted","sourceChapter":"1.59 H"}
+{"id":"01a0b709-e4df-726b-adf2-ad2e48c0edb4","chapterSlug":"the-wandering-inn-0062-1-59-h","claimField":"skill","claimValue":"[Dangersense]","epistemic":"asserted","sourceChapter":"1.59 H"}
+{"id":"01a0b709-e4df-794a-b68a-6be8aad955af","chapterSlug":"the-wandering-inn-0062-1-59-h","claimField":"skill","claimValue":"[Translate]","epistemic":"asserted","sourceChapter":"1.59 H"}
+{"id":"01a0b709-e4df-712b-b1ea-9f4424d07ab8","chapterSlug":"the-wandering-inn-0062-1-59-h","claimField":"skill","claimValue":"[Illumination]","epistemic":"asserted","sourceChapter":"1.59 H"}
+{"id":"01a0b709-e4df-72d6-880b-58c3a11b4886","chapterSlug":"the-wandering-inn-0068-2-00","claimField":"identity","claimValue":"member of the Horns of Hammerad","epistemic":"claimed","claimedBy":"Ryoka","sourceChapter":"2.00"}
+{"id":"01a0b709-e4df-717b-a8c6-c422ebacd71d","chapterSlug":"the-wandering-inn-0068-2-00","claimField":"trait","claimValue":"magic user","epistemic":"claimed","claimedBy":"Ryoka","sourceChapter":"2.00"}
+{"id":"01a0b709-e4df-7d5a-b32f-b668cc69e8a3","chapterSlug":"the-wandering-inn-0068-2-00","claimField":"trait","claimValue":"deceased","epistemic":"asserted","sourceChapter":"2.00"}
+{"id":"01a0b709-e4df-7df5-9176-d5a45e53061d","chapterSlug":"the-wandering-inn-0071-2-03","claimField":"identity","claimValue":"half-elf","epistemic":"asserted","sourceChapter":"2.03"}
+{"id":"01a0b709-e4df-7e42-bd2e-6e992046dbab","chapterSlug":"the-wandering-inn-0071-2-03","claimField":"trait","claimValue":"missing right hand","epistemic":"asserted","sourceChapter":"2.03"}
+{"id":"01a0b709-e4df-781a-a4c5-d878b537c51d","chapterSlug":"the-wandering-inn-0071-2-03","claimField":"trait","claimValue":"survived in sealed coffin","epistemic":"asserted","sourceChapter":"2.03"}
+{"id":"01a0b709-e4df-7301-8b24-869fddc441cd","chapterSlug":"the-wandering-inn-0072-2-04","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"2.04"}
+{"id":"01a0b709-e4df-72d3-b6f5-c3ac2b53792a","chapterSlug":"the-wandering-inn-0072-2-04","claimField":"trait","claimValue":"frostbitten hand from own spell","epistemic":"asserted","sourceChapter":"2.04"}
+{"id":"01a0b709-e4df-74cf-ad51-dce84275d495","chapterSlug":"the-wandering-inn-0072-2-04","claimField":"trait","claimValue":"survived Skinner by hiding in coffin","epistemic":"asserted","sourceChapter":"2.04"}
+{"id":"01a0b709-e4df-7e58-9122-38431167cd27","chapterSlug":"the-wandering-inn-0072-2-04","claimField":"skill","claimValue":"frost magic","epistemic":"asserted","sourceChapter":"2.04"}
+{"id":"01a0b709-e4df-709b-a05b-1c31144e070f","chapterSlug":"the-wandering-inn-0073-2-05","claimField":"trait","claimValue":"Half-elf","epistemic":"asserted","sourceChapter":"2.05"}
+{"id":"01a0b709-e4df-700a-b703-e6e3735c8962","chapterSlug":"the-wandering-inn-0073-2-05","claimField":"trait","claimValue":"Nearly executed by Gazi before distraction occurred","epistemic":"asserted","sourceChapter":"2.05"}
+{"id":"01a0b709-e4df-7f85-b4d7-1e20e2404f03","chapterSlug":"the-wandering-inn-0078-2-09","claimField":"identity","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"2.09"}
+{"id":"01a0b709-e4df-7dc9-85cb-d6334932d3e6","chapterSlug":"the-wandering-inn-0078-2-09","claimField":"trait","claimValue":"One arm is damaged with yellow bone and blackened skin from spell damage","epistemic":"asserted","sourceChapter":"2.09"}
+{"id":"01a0b709-e4df-72a4-a51f-cefd0b314cb7","chapterSlug":"the-wandering-inn-0078-2-09","claimField":"trait","claimValue":"Lost companions in the undead attack including Gerial, Sostrom, and Calruz","epistemic":"asserted","sourceChapter":"2.09"}
+{"id":"01a0b709-e4df-780f-9031-b57d69a0799f","chapterSlug":"the-wandering-inn-0078-2-09","claimField":"trait","claimValue":"Cannot adventure anymore due to injuries and lost equipment","epistemic":"asserted","sourceChapter":"2.09"}
+{"id":"01a0b709-e4df-7e45-9bf2-75e712fc2f87","chapterSlug":"the-wandering-inn-0078-2-09","claimField":"trait","claimValue":"Accepts Erin's offer of free lodging despite hesitation","epistemic":"asserted","sourceChapter":"2.09"}
+{"id":"01a0b709-e4df-7ca0-aa4c-27317e83a591","chapterSlug":"the-wandering-inn-0080-2-11","claimField":"identity","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"2.11"}
+{"id":"01a0b709-e4df-792f-8b83-f53853035e0f","chapterSlug":"the-wandering-inn-0080-2-11","claimField":"trait","claimValue":"Lost her hand","epistemic":"asserted","sourceChapter":"2.11"}
+{"id":"01a0b709-e4df-79fc-be3b-bb0777c6e889","chapterSlug":"the-wandering-inn-0080-2-11","claimField":"trait","claimValue":"Recovering from recent battle","epistemic":"asserted","sourceChapter":"2.11"}
+{"id":"01a0b709-e4df-7996-b3eb-2e45611a306f","chapterSlug":"the-wandering-inn-0080-2-11","claimField":"trait","claimValue":"Grieving losses","epistemic":"asserted","sourceChapter":"2.11"}
+{"id":"01a0b709-e4df-7b60-ac86-d6a66f33f8fb","chapterSlug":"the-wandering-inn-0080-2-11","claimField":"skill","claimValue":"[Lesser Resistance to Ice]","epistemic":"asserted","sourceChapter":"2.11"}
+{"id":"01a0b709-e4df-7c04-822d-5ddfd0786d81","chapterSlug":"the-wandering-inn-0080-2-11","claimField":"skill","claimValue":"Frost magic","epistemic":"asserted","sourceChapter":"2.11"}
+{"id":"01a0b709-e4df-79be-aefb-cb2b11bf4d94","chapterSlug":"the-wandering-inn-0080-2-11","claimField":"skill","claimValue":"[Repair]","epistemic":"asserted","sourceChapter":"2.11"}
+{"id":"01a0b709-e4df-718f-97b9-f1b3d574b120","chapterSlug":"the-wandering-inn-0082-2-13","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"2.13"}
+{"id":"01a0b709-e4df-732d-979c-2cc1e7a16c39","chapterSlug":"the-wandering-inn-0082-2-13","claimField":"trait","claimValue":"traumatized by captivity","epistemic":"asserted","sourceChapter":"2.13"}
+{"id":"01a0b709-e4df-7fdc-b351-2c598950bd00","chapterSlug":"the-wandering-inn-0082-2-13","claimField":"trait","claimValue":"brave","epistemic":"asserted","sourceChapter":"2.13"}
+{"id":"01a0b709-e4df-7159-9747-dd011ad87b15","chapterSlug":"the-wandering-inn-0082-2-13","claimField":"trait","claimValue":"half-Elf body has special magical properties","epistemic":"claimed","claimedBy":"Ceria","sourceChapter":"2.13"}
+{"id":"01a0b709-e4df-76dc-bca7-bda445cea197","chapterSlug":"the-wandering-inn-0082-2-13","claimField":"trait","claimValue":"right hand dead and skeletal","epistemic":"asserted","sourceChapter":"2.13"}
+{"id":"01a0b709-e4df-7ca7-ac51-395dcc31d5f3","chapterSlug":"the-wandering-inn-0082-2-13","claimField":"skill","claimValue":"[Ice Spike]","epistemic":"asserted","sourceChapter":"2.13"}
+{"id":"01a0b709-e4df-71d4-b80d-c23de9a40d15","chapterSlug":"the-wandering-inn-0082-2-13","claimField":"skill","claimValue":"[Glacial Spear]","epistemic":"claimed","claimedBy":"Ceria","sourceChapter":"2.13"}
+{"id":"01a0b709-e4df-73ca-8680-d5a18e3074a4","chapterSlug":"the-wandering-inn-0083-2-14-g","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"2.14 G"}
+{"id":"01a0b709-e4df-726c-9733-82d719d21855","chapterSlug":"the-wandering-inn-0083-2-14-g","claimField":"trait","claimValue":"can do magic","epistemic":"asserted","sourceChapter":"2.14 G"}
+{"id":"01a0b709-e4df-78b4-b2f2-38a554284abf","chapterSlug":"the-wandering-inn-0083-2-14-g","claimField":"trait","claimValue":"has a skeletal hand","epistemic":"asserted","sourceChapter":"2.14 G"}
+{"id":"01a0b709-e4df-7bb7-959d-b7832bbbbdad","chapterSlug":"the-wandering-inn-0083-2-14-g","claimField":"trait","claimValue":"has been badly injured","epistemic":"asserted","sourceChapter":"2.14 G"}
+{"id":"01a0b709-e4df-7b41-9ded-8ed0e88b6aa2","chapterSlug":"the-wandering-inn-0083-2-14-g","claimField":"trait","claimValue":"knew the last Goblin King","epistemic":"asserted","sourceChapter":"2.14 G"}
+{"id":"01a0b709-e4df-7d1e-9ae2-abb4990e8835","chapterSlug":"the-wandering-inn-0083-2-14-g","claimField":"trait","claimValue":"warned Rags of the Watch's coming assault","epistemic":"asserted","sourceChapter":"2.14 G"}
+{"id":"01a0b709-e4df-7945-bab8-2951b5b32840","chapterSlug":"the-wandering-inn-0086-2-16","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"2.16"}
+{"id":"01a0b709-e4df-7daa-87e6-3a78756e8bde","chapterSlug":"the-wandering-inn-0086-2-16","claimField":"skill","claimValue":"cast Detect Magic","epistemic":"asserted","sourceChapter":"2.16"}
+{"id":"01a0b709-e4df-7572-b914-d85d05a893df","chapterSlug":"the-wandering-inn-0087-2-17","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"2.17"}
+{"id":"01a0b709-e4df-7534-93d6-1a5c763cd554","chapterSlug":"the-wandering-inn-0087-2-17","claimField":"trait","claimValue":"Skilled at chess","epistemic":"asserted","sourceChapter":"2.17"}
+{"id":"01a0b709-e4df-767a-93e2-8ab4b8968917","chapterSlug":"the-wandering-inn-0087-2-17","claimField":"skill","claimValue":"Mind Manipulation Spells","epistemic":"asserted","sourceChapter":"2.17"}
+{"id":"01a0b709-e4df-720e-9cd0-fd9dd492ef0b","chapterSlug":"the-wandering-inn-0087-2-17","claimField":"skill","claimValue":"Illusion Magic","epistemic":"asserted","sourceChapter":"2.17"}
+{"id":"01a0b709-e4df-7366-abb2-a3feedf1e19c","chapterSlug":"the-wandering-inn-0088-2-18","claimField":"identity","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"2.18"}
+{"id":"01a0b709-e4df-7d64-8314-f20bf6b2ca38","chapterSlug":"the-wandering-inn-0088-2-18","claimField":"trait","claimValue":"Mage","epistemic":"asserted","sourceChapter":"2.18"}
+{"id":"01a0b709-e4df-7e8e-be61-c20aca588c61","chapterSlug":"the-wandering-inn-0088-2-18","claimField":"trait","claimValue":"Something romantic happened with Olesm the previous night","epistemic":"asserted","sourceChapter":"2.18"}
+{"id":"01a0b709-e4df-7dd3-b141-5a13dccdc4d8","chapterSlug":"the-wandering-inn-0088-2-18","claimField":"trait","claimValue":"Offers to teach Ryoka magic","epistemic":"asserted","sourceChapter":"2.18"}
+{"id":"01a0b709-e4df-793b-bd00-e3d30fbaf19f","chapterSlug":"the-wandering-inn-0089-2-19-g","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"2.19 G"}
+{"id":"01a0b709-e4df-7e77-8b86-7f6e4ab3d411","chapterSlug":"the-wandering-inn-0089-2-19-g","claimField":"trait","claimValue":"has a dead hand","epistemic":"asserted","sourceChapter":"2.19 G"}
+{"id":"01a0b709-e4df-7fdb-8de0-727515a542fb","chapterSlug":"the-wandering-inn-0089-2-19-g","claimField":"trait","claimValue":"fingers glow during confrontation with Relc","epistemic":"asserted","sourceChapter":"2.19 G"}
+{"id":"01a0b709-e4df-74b1-b214-266b68f3a788","chapterSlug":"the-wandering-inn-0090-2-20","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"2.20"}
+{"id":"01a0b709-e4df-7c24-bf19-f53751252e57","chapterSlug":"the-wandering-inn-0090-2-20","claimField":"trait","claimValue":"skeletal hand animated by magic","epistemic":"asserted","sourceChapter":"2.20"}
+{"id":"01a0b709-e4df-7667-b44b-7d29af029375","chapterSlug":"the-wandering-inn-0090-2-20","claimField":"trait","claimValue":"half-Elf bones conduct magic well","epistemic":"asserted","sourceChapter":"2.20"}
+{"id":"01a0b709-e4df-756e-bfac-b87bd448a848","chapterSlug":"the-wandering-inn-0090-2-20","claimField":"trait","claimValue":"can teach [Light] and [Ice Spike] spells","epistemic":"asserted","sourceChapter":"2.20"}
+{"id":"01a0b709-e4df-70f3-8957-f23d030fef95","chapterSlug":"the-wandering-inn-0090-2-20","claimField":"trait","claimValue":"distressed about Yvlon's condition","epistemic":"asserted","sourceChapter":"2.20"}
+{"id":"01a0b709-e4df-75fa-97da-de2d9b0e11d0","chapterSlug":"the-wandering-inn-0090-2-20","claimField":"trait","claimValue":"Frost Faeries hate her","epistemic":"asserted","sourceChapter":"2.20"}
+{"id":"01a0b709-e4df-7895-9dcd-5945f4b434ee","chapterSlug":"the-wandering-inn-0091-2-21","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"2.21"}
+{"id":"01a0b709-e4df-7895-ab09-887242f753fa","chapterSlug":"the-wandering-inn-0091-2-21","claimField":"trait","claimValue":"afraid of faeries","epistemic":"asserted","sourceChapter":"2.21"}
+{"id":"01a0b709-e4df-73b1-9c0a-1c0c12d18db9","chapterSlug":"the-wandering-inn-0091-2-21","claimField":"trait","claimValue":"willing to help Erin despite the fear","epistemic":"asserted","sourceChapter":"2.21"}
+{"id":"01a0b709-e4df-7e17-a84d-8fec39a0d121","chapterSlug":"the-wandering-inn-0091-2-21","claimField":"trait","claimValue":"knowledgeable about old faerie lore and stories","epistemic":"claimed","claimedBy":"Ceria","sourceChapter":"2.21"}
+{"id":"01a0b709-e4df-783e-be0b-56cd7b7f0476","chapterSlug":"the-wandering-inn-0093-2-23","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"2.23"}
+{"id":"01a0b709-e4df-7aa6-be8a-2eddbaa08863","chapterSlug":"the-wandering-inn-0093-2-23","claimField":"trait","claimValue":"Affinity with plants","epistemic":"asserted","sourceChapter":"2.23"}
+{"id":"01a0b709-e4df-7b1d-a1c8-fd73e7546fe6","chapterSlug":"the-wandering-inn-0093-2-23","claimField":"trait","claimValue":"Has skeletal hand","epistemic":"asserted","sourceChapter":"2.23"}
+{"id":"01a0b709-e4df-751c-8170-4f4b08115195","chapterSlug":"the-wandering-inn-0093-2-23","claimField":"trait","claimValue":"Studied at Wistram","epistemic":"asserted","sourceChapter":"2.23"}
+{"id":"01a0b709-e4df-72d5-947b-331d8b4dd5ec","chapterSlug":"the-wandering-inn-0093-2-23","claimField":"skill","claimValue":"[Ice Spike]","epistemic":"asserted","sourceChapter":"2.23"}
+{"id":"01a0b709-e4df-759b-a3b7-7546f7885e9f","chapterSlug":"the-wandering-inn-0094-2-24-t","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"2.24 T"}
+{"id":"01a0b709-e4df-7cc6-b30d-5efaf1d9da7e","chapterSlug":"the-wandering-inn-0094-2-24-t","claimField":"trait","claimValue":"investigates faerie flowers with Erin","epistemic":"asserted","sourceChapter":"2.24 T"}
+{"id":"01a0b709-e4df-78c2-b3fa-785e675e156d","chapterSlug":"the-wandering-inn-0094-2-24-t","claimField":"trait","claimValue":"skeletal hand","epistemic":"asserted","sourceChapter":"2.24 T"}
+{"id":"01a0b709-e4df-7ea7-bef1-51b29e0074b3","chapterSlug":"the-wandering-inn-0095-2-25","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"2.25"}
+{"id":"01a0b709-e4df-7b6b-af1b-6e444663fca7","chapterSlug":"the-wandering-inn-0095-2-25","claimField":"trait","claimValue":"has dead hand","epistemic":"asserted","sourceChapter":"2.25"}
+{"id":"01a0b709-e4df-7123-98e9-a93df76bc3ab","chapterSlug":"the-wandering-inn-0095-2-25","claimField":"trait","claimValue":"adventurer","epistemic":"asserted","sourceChapter":"2.25"}
+{"id":"01a0b709-e4df-7ab1-9621-6a666ca2dbac","chapterSlug":"the-wandering-inn-0095-2-25","claimField":"trait","claimValue":"studied at Wistram","epistemic":"asserted","sourceChapter":"2.25"}
+{"id":"01a0b709-e4df-766e-b955-74e240b0ef40","chapterSlug":"the-wandering-inn-0095-2-25","claimField":"skill","claimValue":"Light spell","epistemic":"asserted","sourceChapter":"2.25"}
+{"id":"01a0b709-e4df-7470-b364-b84dd8ec15fa","chapterSlug":"the-wandering-inn-0095-2-25","claimField":"skill","claimValue":"tracking spell","epistemic":"asserted","sourceChapter":"2.25"}
+{"id":"01a0b709-e4df-7b7d-9dda-928ab804dedf","chapterSlug":"the-wandering-inn-0096-2-26","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"2.26"}
+{"id":"01a0b709-e4df-73d0-946a-00120fcedae5","chapterSlug":"the-wandering-inn-0096-2-26","claimField":"trait","claimValue":"mage with frost magic","epistemic":"asserted","sourceChapter":"2.26"}
+{"id":"01a0b709-e4df-7e06-b380-b60b410bbfdb","chapterSlug":"the-wandering-inn-0096-2-26","claimField":"trait","claimValue":"protective of Erin","epistemic":"asserted","sourceChapter":"2.26"}
+{"id":"01a0b709-e4df-71d7-9e1f-d063c8659a21","chapterSlug":"the-wandering-inn-0096-2-26","claimField":"trait","claimValue":"just lost entire party","epistemic":"asserted","sourceChapter":"2.26"}
+{"id":"01a0b709-e4df-773e-a13e-0286e0fabebc","chapterSlug":"the-wandering-inn-0096-2-26","claimField":"trait","claimValue":"Silver-rank adventurer","epistemic":"claimed","claimedBy":"Ceria","sourceChapter":"2.26"}
+{"id":"01a0b709-e4df-7335-ab89-e89f8e91a217","chapterSlug":"the-wandering-inn-0096-2-26","claimField":"skill","claimValue":"Snowy Blast","epistemic":"asserted","sourceChapter":"2.26"}
+{"id":"01a0b709-e4df-7301-b452-8da46836827f","chapterSlug":"the-wandering-inn-0096-2-26","claimField":"skill","claimValue":"Ray of Frost","epistemic":"asserted","sourceChapter":"2.26"}
+{"id":"01a0b709-e4df-7f35-841c-01852e4e736e","chapterSlug":"the-wandering-inn-0103-2-31","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"2.31"}
+{"id":"01a0b709-e4df-75d5-9307-21087fa9537e","chapterSlug":"the-wandering-inn-0103-2-31","claimField":"trait","claimValue":"knowledgeable about magic","epistemic":"asserted","sourceChapter":"2.31"}
+{"id":"01a0b709-e4df-702a-8ccd-0a8fa4d76d97","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"class","claimValue":"Mage","epistemic":"claimed","claimedBy":"context","sourceChapter":"2.32 H"}
+{"id":"01a0b709-e4df-7624-ba9c-d4e2fc15c994","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"level","claimValue":"20","epistemic":"claimed","sourceChapter":"2.32 H"}
+{"id":"01a0b709-e4df-7abe-a8ed-f7df35054773","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Skeletal hand (can flex and cast magic)","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b709-e4df-7b74-bfca-4978f7e614cf","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Half-elf","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b709-e4df-78ff-b58c-d88e7a5c1238","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Over sixty years old","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b709-e4df-75d6-b7a2-63bd1a760c1e","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Survivor of crypts expedition","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b709-e4df-75a5-ba41-fec9285a8fee","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Former Horn of Hammerad","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b709-e4df-75fc-b28b-26c3117e73d3","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Ice Spike","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b709-e4df-7b8a-8210-10236795707e","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Ice Shard","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b709-e4df-77e8-b9cf-10684b034b82","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Icy Floor","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b709-e4df-7089-b462-6e5f0c115e77","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Icy Grasp","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b709-e4df-7be3-b15c-e523952a072a","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Flashstep","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b709-e4df-71fa-9a9b-7567ea43165a","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b709-e4df-7b60-a840-598e4af65418","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"trait","claimValue":"half-Elf with innate magical affinity from Elven heritage","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b709-e4df-7354-986a-5fbf715b50aa","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"trait","claimValue":"has skeletal right hand","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b709-e4df-72f7-b66c-49ef64d62bab","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"trait","claimValue":"can gradually overcome magical enchantments over time","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b709-e4df-7e2c-9841-22dfcd67110e","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"trait","claimValue":"Captain of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b709-e4df-78f2-83f5-267af7926ce5","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"skill","claimValue":"[Light]","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b709-e4df-7eb4-8cd1-74b8e7d03974","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"skill","claimValue":"[Create Water]","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b709-e4df-715c-bd5e-fed7794b8e2b","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"skill","claimValue":"[Stone Dart]","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b709-e4df-7f8d-b864-940fa5272a27","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"skill","claimValue":"[Ice Spike]","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b709-e4df-7fc5-9a19-bb9807ad7994","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"skill","claimValue":"[Frozen Wind]","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b709-e4df-7d5e-b458-4d2fb8a3c90e","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"skill","claimValue":"[Stone Fist]","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b709-e4df-76da-862c-5620134158a7","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"skill","claimValue":"[Ice Shard]","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b709-e4df-73bd-9d79-6016b8e7398a","chapterSlug":"the-wandering-inn-0134-3-08-h","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"3.08 H"}
+{"id":"01a0b709-e4df-7e24-8de3-ee52f0afe602","chapterSlug":"the-wandering-inn-0134-3-08-h","claimField":"trait","claimValue":"skeletal hand (left)","epistemic":"asserted","sourceChapter":"3.08 H"}
+{"id":"01a0b709-e4df-7e1a-b0af-affe6924fbf5","chapterSlug":"the-wandering-inn-0134-3-08-h","claimField":"trait","claimValue":"Captain of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"3.08 H"}
+{"id":"01a0b709-e4df-71e9-a07a-af8e9b351b49","chapterSlug":"the-wandering-inn-0134-3-08-h","claimField":"skill","claimValue":"[Light]","epistemic":"asserted","sourceChapter":"3.08 H"}
+{"id":"01a0b709-e4df-77d8-891f-d37a75456df7","chapterSlug":"the-wandering-inn-0134-3-08-h","claimField":"skill","claimValue":"[Ice Spike]","epistemic":"asserted","sourceChapter":"3.08 H"}
+{"id":"01a0b709-e4df-7a90-bc4c-3998a6292adb","chapterSlug":"the-wandering-inn-0136-3-10","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"3.10"}
+{"id":"01a0b709-e4df-7dde-b3da-d761e9e4e838","chapterSlug":"the-wandering-inn-0136-3-10","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"3.10"}
+{"id":"01a0b709-e4df-7053-ad44-3747092f2f52","chapterSlug":"the-wandering-inn-0136-3-10","claimField":"trait","claimValue":"Protective of friends","epistemic":"asserted","sourceChapter":"3.10"}
+{"id":"01a0b709-e4df-75db-8f4c-e03279d207b0","chapterSlug":"the-wandering-inn-0136-3-10","claimField":"trait","claimValue":"Cautious and strategic","epistemic":"asserted","sourceChapter":"3.10"}
+{"id":"01a0b709-e4df-7ebb-9982-fa20cb653a69","chapterSlug":"the-wandering-inn-0136-3-10","claimField":"skill","claimValue":"[Dangersense]","epistemic":"asserted","sourceChapter":"3.10"}
+{"id":"01a0b709-e4df-7aa5-b166-38b88fb121a7","chapterSlug":"the-wandering-inn-0136-3-10","claimField":"skill","claimValue":"Spell casting ([Frozen Wind])","epistemic":"asserted","sourceChapter":"3.10"}
+{"id":"01a0b709-e4df-7359-9f89-b0b0b2d26acc","chapterSlug":"the-wandering-inn-0150-3-24","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"3.24"}
+{"id":"01a0b709-e4df-7f40-acf7-16ca2240d817","chapterSlug":"the-wandering-inn-0150-3-24","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"3.24"}
+{"id":"01a0b709-e4df-75fa-8bac-fb5a1050067e","chapterSlug":"the-wandering-inn-0150-3-24","claimField":"trait","claimValue":"Can cast snow magic","epistemic":"asserted","sourceChapter":"3.24"}
+{"id":"01a0b709-e4df-7b6a-befa-653a670b2856","chapterSlug":"the-wandering-inn-0156-3-30","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"3.30"}
+{"id":"01a0b709-e4df-7d0e-95dc-be19eea404ef","chapterSlug":"the-wandering-inn-0156-3-30","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"3.30"}
+{"id":"01a0b709-e4df-7a7f-839d-f472d16af2b5","chapterSlug":"the-wandering-inn-0156-3-30","claimField":"trait","claimValue":"skeletal hand (artifact or injury)","epistemic":"asserted","sourceChapter":"3.30"}
+{"id":"01a0b709-e4df-77b5-b778-a6f65be44497","chapterSlug":"the-wandering-inn-0156-3-30","claimField":"trait","claimValue":"Wistram graduate (unexpelled)","epistemic":"asserted","sourceChapter":"3.30"}
+{"id":"01a0b709-e4df-7ad9-ab7f-cf3e5fef54ba","chapterSlug":"the-wandering-inn-0156-3-30","claimField":"trait","claimValue":"captain of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"3.30"}
+{"id":"01a0b709-e4df-7926-b45f-c98e4059a49b","chapterSlug":"the-wandering-inn-0156-3-30","claimField":"skill","claimValue":"ice magic","epistemic":"asserted","sourceChapter":"3.30"}
+{"id":"01a0b709-e4df-7343-8698-48f1236f7788","chapterSlug":"the-wandering-inn-0156-3-30","claimField":"skill","claimValue":"spellcasting","epistemic":"asserted","sourceChapter":"3.30"}
+{"id":"01a0b709-e4df-7c1d-b9a7-abe74667be23","chapterSlug":"the-wandering-inn-0159-interlude-wistram-days-pt-2","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 2)"}
+{"id":"01a0b709-e4df-7eaf-8958-f545ec859a1c","chapterSlug":"the-wandering-inn-0159-interlude-wistram-days-pt-2","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 2)"}
+{"id":"01a0b709-e4df-73fc-8358-ec244f92fead","chapterSlug":"the-wandering-inn-0159-interlude-wistram-days-pt-2","claimField":"trait","claimValue":"good at magic","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 2)"}
+{"id":"01a0b709-e4df-7df8-b831-009700891930","chapterSlug":"the-wandering-inn-0159-interlude-wistram-days-pt-2","claimField":"trait","claimValue":"has a temper","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 2)"}
+{"id":"01a0b709-e4df-720b-a793-39a077d64801","chapterSlug":"the-wandering-inn-0159-interlude-wistram-days-pt-2","claimField":"skill","claimValue":"Ice Shard","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 2)"}
+{"id":"01a0b709-e4df-72a6-93e1-6ea5662cd788","chapterSlug":"the-wandering-inn-0159-interlude-wistram-days-pt-2","claimField":"skill","claimValue":"Stone Dart","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 2)"}
+{"id":"01a0b709-e4df-7da1-9336-28aace9afde0","chapterSlug":"the-wandering-inn-0159-interlude-wistram-days-pt-2","claimField":"skill","claimValue":"Flame Jet","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 2)"}
+{"id":"01a0b709-e4df-7714-ae75-4808f90a59ff","chapterSlug":"the-wandering-inn-0161-interlude-wistram-days-pt-4","claimField":"class","claimValue":"Half-Elf Mage","epistemic":"asserted"}
+{"id":"01a0b709-e4df-7ee5-9703-c63d50ed2f62","chapterSlug":"the-wandering-inn-0161-interlude-wistram-days-pt-4","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 4)"}
+{"id":"01a0b709-e4df-7c8d-b294-8078c6754ce5","chapterSlug":"the-wandering-inn-0161-interlude-wistram-days-pt-4","claimField":"trait","claimValue":"quick-witted, determined, jealous but loyal","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 4)"}
+{"id":"01a0b709-e4df-7d3a-a343-c2dc792863d7","chapterSlug":"the-wandering-inn-0161-interlude-wistram-days-pt-4","claimField":"trait","claimValue":"performed well at exam in first sections, struggled in combat test","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 4)"}
+{"id":"01a0b709-e4df-70f6-a9c4-eab001f0abb8","chapterSlug":"the-wandering-inn-0161-interlude-wistram-days-pt-4","claimField":"skill","claimValue":"[Detect Magic]","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 4)"}
+{"id":"01a0b709-e4df-74be-a0bd-59839d6101f4","chapterSlug":"the-wandering-inn-0161-interlude-wistram-days-pt-4","claimField":"skill","claimValue":"[Light]","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 4)"}
+{"id":"01a0b709-e4df-7791-9663-057a2fe85eea","chapterSlug":"the-wandering-inn-0161-interlude-wistram-days-pt-4","claimField":"skill","claimValue":"[Stone Dart]","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 4)"}
+{"id":"01a0b709-e4df-7ef1-8d42-cda5dd129e45","chapterSlug":"the-wandering-inn-0161-interlude-wistram-days-pt-4","claimField":"skill","claimValue":"Bronze-rank adventurer","epistemic":"claimed","claimedBy":"narration","sourceChapter":"Interlude - Wistram Days (Pt. 4)"}
+{"id":"01a0b709-e4df-7b63-a22a-5375d4793770","chapterSlug":"the-wandering-inn-0162-interlude-wistram-days-pt-5","claimField":"identity","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 5)"}
+{"id":"01a0b709-e4df-72fe-aaf8-9ca97a2eebc0","chapterSlug":"the-wandering-inn-0162-interlude-wistram-days-pt-5","claimField":"class","claimValue":"Elementalist","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 5)"}
+{"id":"01a0b709-e4df-7065-bc7a-63069479445d","chapterSlug":"the-wandering-inn-0162-interlude-wistram-days-pt-5","claimField":"level","claimValue":"2","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 5)"}
+{"id":"01a0b709-e4df-7f1e-bbdf-f8cc4eb8ef67","chapterSlug":"the-wandering-inn-0162-interlude-wistram-days-pt-5","claimField":"trait","claimValue":"Persistent","epistemic":"claimed","claimedBy":"Calvaron","sourceChapter":"Interlude - Wistram Days (Pt. 5)"}
+{"id":"01a0b709-e4df-7fb8-9022-2cc5efa39ba4","chapterSlug":"the-wandering-inn-0162-interlude-wistram-days-pt-5","claimField":"trait","claimValue":"Ambitious","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 5)"}
+{"id":"01a0b709-e4df-75df-90dc-2041ac570a53","chapterSlug":"the-wandering-inn-0162-interlude-wistram-days-pt-5","claimField":"skill","claimValue":"Ice magic","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 5)"}
+{"id":"01a0b709-e4df-70fa-bb1e-1767079564f4","chapterSlug":"the-wandering-inn-0164-interlude-wistram-days-pt-7","claimField":"identity","claimValue":"Springwalker","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 7)"}
+{"id":"01a0b709-e4df-7c9c-ac49-7ba6afaa943c","chapterSlug":"the-wandering-inn-0164-interlude-wistram-days-pt-7","claimField":"class","claimValue":"Mage","epistemic":"claimed","sourceChapter":"Interlude - Wistram Days (Pt. 7)"}
+{"id":"01a0b709-e4df-7d64-85e5-097d4bf69c7d","chapterSlug":"the-wandering-inn-0164-interlude-wistram-days-pt-7","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 7)"}
+{"id":"01a0b709-e4df-7f99-91ce-ef3dca96ddcc","chapterSlug":"the-wandering-inn-0164-interlude-wistram-days-pt-7","claimField":"trait","claimValue":"Illphres' student","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 7)"}
+{"id":"01a0b709-e4df-722a-b7ff-60e6622d1a95","chapterSlug":"the-wandering-inn-0164-interlude-wistram-days-pt-7","claimField":"skill","claimValue":"spellcasting","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 7)"}
+{"id":"01a0b709-e4df-7f5e-9832-b023bfdb700e","chapterSlug":"the-wandering-inn-0164-interlude-wistram-days-pt-7","claimField":"skill","claimValue":"[Glacial Spear]","epistemic":"asserted","sourceChapter":"Interlude - Wistram Days (Pt. 7)"}
+{"id":"01a0b709-e4df-775e-ae5d-edd390970ce5","chapterSlug":"the-wandering-inn-0165-3-32","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"3.32"}
+{"id":"01a0b709-e4df-7787-ba30-1e4cab952b3e","chapterSlug":"the-wandering-inn-0165-3-32","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"3.32"}
+{"id":"01a0b709-e4df-770b-973a-fe007f68793d","chapterSlug":"the-wandering-inn-0165-3-32","claimField":"trait","claimValue":"Skeleton hand","epistemic":"asserted","sourceChapter":"3.32"}
+{"id":"01a0b709-e4df-7646-ac1c-2a358a89ca3a","chapterSlug":"the-wandering-inn-0165-3-32","claimField":"trait","claimValue":"Trained at Wistram academy","epistemic":"asserted","sourceChapter":"3.32"}
+{"id":"01a0b709-e4df-71cc-b54d-7c8b75212520","chapterSlug":"the-wandering-inn-0165-3-32","claimField":"trait","claimValue":"Left Wistram","epistemic":"asserted","sourceChapter":"3.32"}
+{"id":"01a0b709-e4df-70b2-adc0-774aaaa08d93","chapterSlug":"the-wandering-inn-0165-3-32","claimField":"skill","claimValue":"Ice magic specialist","epistemic":"asserted","sourceChapter":"3.32"}
+{"id":"01a0b709-e4df-7a13-8642-0825ab46dc2b","chapterSlug":"the-wandering-inn-0165-3-32","claimField":"skill","claimValue":"Earth magic","epistemic":"asserted","sourceChapter":"3.32"}
+{"id":"01a0b709-e4df-7ee5-af62-99df23dfdc3b","chapterSlug":"the-wandering-inn-0165-3-32","claimField":"skill","claimValue":"Fire magic","epistemic":"asserted","sourceChapter":"3.32"}
+{"id":"01a0b709-e4df-7ccf-945b-d61c260e1c3a","chapterSlug":"the-wandering-inn-0166-3-33","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"3.33"}
+{"id":"01a0b709-e4df-7447-92bd-0a996e749423","chapterSlug":"the-wandering-inn-0166-3-33","claimField":"trait","claimValue":"Mage and Wistram graduate","epistemic":"asserted","sourceChapter":"3.33"}
+{"id":"01a0b709-e4df-75c3-b869-89359b42e7ca","chapterSlug":"the-wandering-inn-0168-3-35","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"3.35"}
+{"id":"01a0b709-e4df-79f7-8005-28e8d74305af","chapterSlug":"the-wandering-inn-0168-3-35","claimField":"trait","claimValue":"protective of companions","epistemic":"asserted","sourceChapter":"3.35"}
+{"id":"01a0b709-e4df-71a2-90a6-d9374d01ecc8","chapterSlug":"the-wandering-inn-0168-3-35","claimField":"trait","claimValue":"knowledgeable about slimes and monster biology","epistemic":"asserted","sourceChapter":"3.35"}
+{"id":"01a0b709-e4df-7615-9c55-551bbb8a45b0","chapterSlug":"the-wandering-inn-0170-3-37","claimField":"trait","claimValue":"Friend of Ryoka","epistemic":"asserted","sourceChapter":"3.37"}
+{"id":"01a0b709-e4df-7d6f-913e-f0f2047486cd","chapterSlug":"the-wandering-inn-0170-3-37","claimField":"trait","claimValue":"Has magical items needing analysis","epistemic":"asserted","sourceChapter":"3.37"}
+{"id":"01a0b709-e4df-7c43-b5fe-690cc9659f9b","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"3.42"}
+{"id":"01a0b709-e4df-754b-a34f-18332b513e40","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"3.42"}
+{"id":"01a0b709-e4df-7741-a47b-dc98659b3201","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"trait","claimValue":"has skeleton finger","epistemic":"asserted","sourceChapter":"3.42"}
+{"id":"01a0b709-e4df-7e4e-a244-478ae2cf878e","chapterSlug":"the-wandering-inn-0187-4-10","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"4.10"}
+{"id":"01a0b709-e4df-71ca-bf77-a3e4478caca6","chapterSlug":"the-wandering-inn-0187-4-10","claimField":"trait","claimValue":"Frost magic practitioner","epistemic":"asserted","sourceChapter":"4.10"}
+{"id":"01a0b709-e4df-7f08-93f7-40a52041c699","chapterSlug":"the-wandering-inn-0187-4-10","claimField":"trait","claimValue":"Observant of others' hidden actions and deceptions","epistemic":"asserted","sourceChapter":"4.10"}
+{"id":"01a0b709-e4df-7a4f-a94c-6b952d3ad1ab","chapterSlug":"the-wandering-inn-0189-4-12","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"4.12"}
+{"id":"01a0b709-e4df-7360-8d58-47f9ca798f65","chapterSlug":"the-wandering-inn-0189-4-12","claimField":"class","claimValue":"Elementalist","epistemic":"asserted"}
+{"id":"01a0b709-e4df-7e84-a8f6-25b2b2ee8375","chapterSlug":"the-wandering-inn-0189-4-12","claimField":"trait","claimValue":"has bone hand (missing fingers)","epistemic":"asserted","sourceChapter":"4.12"}
+{"id":"01a0b709-e4df-72c2-b739-da2db5e4ccf6","chapterSlug":"the-wandering-inn-0189-4-12","claimField":"trait","claimValue":"cautious about dungeon","epistemic":"asserted","sourceChapter":"4.12"}
+{"id":"01a0b709-e4df-7d7d-97f2-972ca1854f75","chapterSlug":"the-wandering-inn-0189-4-12","claimField":"trait","claimValue":"junior relative to Gold-rank adventurers","epistemic":"asserted","sourceChapter":"4.12"}
+{"id":"01a0b709-e4df-7f18-9511-4954622faf89","chapterSlug":"the-wandering-inn-0189-4-12","claimField":"skill","claimValue":"ice magic sculpting","epistemic":"asserted","sourceChapter":"4.12"}
+{"id":"01a0b709-e4df-7f2b-b24e-6db3be238a41","chapterSlug":"the-wandering-inn-0189-4-12","claimField":"skill","claimValue":"water conjuration","epistemic":"asserted","sourceChapter":"4.12"}
+{"id":"01a0b709-e4df-7b7e-b880-bea8cb054ae5","chapterSlug":"the-wandering-inn-0229-4-43","claimField":"trait","claimValue":"part of Horns of Hammerad","epistemic":"asserted","sourceChapter":"4.43"}
+{"id":"01a0b709-e4df-7996-906b-db645caec9b2","chapterSlug":"the-wandering-inn-0229-4-43","claimField":"trait","claimValue":"was badly injured on leg and butt yesterday","epistemic":"asserted","sourceChapter":"4.43"}
+{"id":"01a0b709-e4df-787e-a553-d27fa334e707","chapterSlug":"the-wandering-inn-0231-4-45","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"4.45"}
+{"id":"01a0b709-e4df-78fe-a9bf-6522f26825eb","chapterSlug":"the-wandering-inn-0231-4-45","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"4.45"}
+{"id":"01a0b709-e4df-7012-9b8e-dcc06447e33d","chapterSlug":"the-wandering-inn-0231-4-45","claimField":"trait","claimValue":"Wistram graduate","epistemic":"asserted","sourceChapter":"4.45"}
+{"id":"01a0b709-e4df-78b5-914d-e27328d9c77b","chapterSlug":"the-wandering-inn-0231-4-45","claimField":"trait","claimValue":"Member of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"4.45"}
+{"id":"01a0b709-e4df-75dc-962e-375d52722bbb","chapterSlug":"the-wandering-inn-0231-4-45","claimField":"trait","claimValue":"Silver-rank adventurer, hoping to be Gold-rank","epistemic":"asserted","sourceChapter":"4.45"}
+{"id":"01a0b709-e4df-784a-8a64-63314f6ebf5a","chapterSlug":"the-wandering-inn-0231-4-45","claimField":"skill","claimValue":"Magic","epistemic":"asserted","sourceChapter":"4.45"}
+{"id":"01a0b709-e4df-784d-acf2-5aa9638bcc1c","chapterSlug":"the-wandering-inn-0240-5-00","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.00"}
+{"id":"01a0b709-e4df-7c3c-90cd-2f32c5fc5da0","chapterSlug":"the-wandering-inn-0240-5-00","claimField":"trait","claimValue":"grieving","epistemic":"asserted","sourceChapter":"5.00"}
+{"id":"01a0b709-e4df-7759-81fd-2f76407e6c3f","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b709-e4df-7928-ab40-070879c022e3","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"trait","claimValue":"mage","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b709-e4df-7717-b2c2-2647a8b6e951","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"trait","claimValue":"brave and capable","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b709-e4df-70bd-b64b-bf94c9df6d27","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"skill","claimValue":"Ice Spikes","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b709-e4df-7283-be81-7bbcff028a7e","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"skill","claimValue":"Ice Wall","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b709-e4df-70c3-90f8-eed35bd23ed7","chapterSlug":"the-wandering-inn-0253-5-12","claimField":"class","claimValue":"half-Elf","epistemic":"asserted"}
+{"id":"01a0b709-e4df-7ad3-aca5-c9c144639333","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b709-e4df-7f41-b826-400f57a55098","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b709-e4df-7324-abad-e4be4973f3a7","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"uses wand for spellcasting","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b709-e4df-7635-b71c-a3dafdeaa207","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"leads the parade march for Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b709-e4df-7993-b9b3-b169819418ef","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"skill","claimValue":"Frost Bloom spell","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b709-e4df-7b81-ba27-9236fb05aa46","chapterSlug":"the-wandering-inn-0255-5-14","claimField":"identity","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"5.14"}
+{"id":"01a0b709-e4df-779f-b463-3c122b540a5c","chapterSlug":"the-wandering-inn-0255-5-14","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"5.14"}
+{"id":"01a0b709-e4df-7b41-ab9d-3552c6ca5437","chapterSlug":"the-wandering-inn-0255-5-14","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.14"}
+{"id":"01a0b709-e4df-732a-bedd-865dc65c5fd0","chapterSlug":"the-wandering-inn-0255-5-14","claimField":"trait","claimValue":"capable of casting Ice Spike","epistemic":"asserted","sourceChapter":"5.14"}
+{"id":"01a0b709-e4df-71c2-8aa5-91b16c1a4b85","chapterSlug":"the-wandering-inn-0255-5-14","claimField":"trait","claimValue":"willing to forgive past wrongs and show mercy","epistemic":"asserted","sourceChapter":"5.14"}
+{"id":"01a0b709-e4df-7bb7-aca6-c189e4a2eb7e","chapterSlug":"the-wandering-inn-0265-5-24-l","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"5.24 L"}
+{"id":"01a0b709-e4df-7f44-9a21-b70b7e369c8b","chapterSlug":"the-wandering-inn-0265-5-24-l","claimField":"trait","claimValue":"Member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.24 L"}
+{"id":"01a0b709-e4df-795a-b53c-5892a97586cb","chapterSlug":"the-wandering-inn-0265-5-24-l","claimField":"trait","claimValue":"Trained by Wistram","epistemic":"asserted","sourceChapter":"5.24 L"}
+{"id":"01a0b709-e4df-74db-92e6-3a183a91c8f1","chapterSlug":"the-wandering-inn-0266-5-25-l","claimField":"identity","claimValue":"Captain","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"5.25 L"}
+{"id":"01a0b709-e4df-7041-9f81-b372fe2ee192","chapterSlug":"the-wandering-inn-0266-5-25-l","claimField":"trait","claimValue":"Human","epistemic":"asserted","sourceChapter":"5.25 L"}
+{"id":"01a0b709-e4df-7d7d-9316-650a63bf0618","chapterSlug":"the-wandering-inn-0268-5-27","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"5.27"}
+{"id":"01a0b709-e4df-7638-a7f7-76e7efd5c578","chapterSlug":"the-wandering-inn-0268-5-27","claimField":"trait","claimValue":"Captain of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.27"}
+{"id":"01a0b709-e4df-724d-a135-bd4005d41a7c","chapterSlug":"the-wandering-inn-0268-5-27","claimField":"trait","claimValue":"Experiences severe trauma and fear about dungeon exploration","epistemic":"asserted","sourceChapter":"5.27"}
+{"id":"01a0b709-e4df-7d6b-ab19-95871e0ec8b0","chapterSlug":"the-wandering-inn-0268-5-27","claimField":"trait","claimValue":"Overcomes her paralysis and commits to entering the dungeon","epistemic":"asserted","sourceChapter":"5.27"}
+{"id":"01a0b709-e4df-7592-8d0f-6e827055416a","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b709-e4df-7b45-bc8b-cb1ec80a2505","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"trait","claimValue":"Leader of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b709-e4df-75d2-b71e-d3111156e4ad","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"trait","claimValue":"Nervous about dungeon challenge","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b709-e4df-7171-8f58-ade32991a24e","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"skill","claimValue":"Spell casting","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b709-e4df-7708-841b-ba2b08771b27","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"skill","claimValue":"Leadership","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b709-e4df-7710-905b-a211f882dedd","chapterSlug":"the-wandering-inn-0270-5-29","claimField":"identity","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"5.29"}
+{"id":"01a0b709-e4df-7aa9-95a4-441358f9d0e5","chapterSlug":"the-wandering-inn-0270-5-29","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"5.29"}
+{"id":"01a0b709-e4df-7be5-bc01-71b2481323de","chapterSlug":"the-wandering-inn-0270-5-29","claimField":"trait","claimValue":"Captain of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.29"}
+{"id":"01a0b709-e4df-7a4d-a318-75e67f0d3036","chapterSlug":"the-wandering-inn-0270-5-29","claimField":"skill","claimValue":"[Ice Wall]","epistemic":"asserted","sourceChapter":"5.29"}
+{"id":"01a0b709-e4df-72ef-b863-41b0f5705969","chapterSlug":"the-wandering-inn-0277-5-35-h","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"5.35"}
+{"id":"01a0b709-e4df-7bfb-840b-abd3dad0ce95","chapterSlug":"the-wandering-inn-0277-5-35-h","claimField":"trait","claimValue":"Adventurer","epistemic":"asserted","sourceChapter":"5.35"}
+{"id":"01a0b709-e4df-7f75-b5ea-f2252d10f362","chapterSlug":"the-wandering-inn-0277-5-35-h","claimField":"trait","claimValue":"Has skeletal hand","epistemic":"asserted","sourceChapter":"5.35"}
+{"id":"01a0b709-e4df-721c-b06a-cd3b37c22bda","chapterSlug":"the-wandering-inn-0277-5-35-h","claimField":"skill","claimValue":"Ice magic","epistemic":"claimed","claimedBy":"Pisces","sourceChapter":"5.35"}
+{"id":"01a0b709-e4df-7803-87d3-d4225dee88f8","chapterSlug":"the-wandering-inn-0278-5-36","claimField":"identity","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"5.36"}
+{"id":"01a0b709-e4df-76b1-ba53-269a3bf63c91","chapterSlug":"the-wandering-inn-0278-5-36","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"5.36"}
+{"id":"01a0b709-e4df-73fd-93a9-c150f38fe98e","chapterSlug":"the-wandering-inn-0278-5-36","claimField":"trait","claimValue":"captain of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.36"}
+{"id":"01a0b709-e4df-7314-bcb0-f3c203ec51f3","chapterSlug":"the-wandering-inn-0278-5-36","claimField":"trait","claimValue":"searching for missing teammate Calruz","epistemic":"asserted","sourceChapter":"5.36"}
+{"id":"01a0b709-e4df-7a08-bf96-e9b3dbf5055e","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b709-e4df-7989-9a78-15e044ac0a75","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"claimed","claimedBy":"narrative context","sourceChapter":"5.38"}
+{"id":"01a0b709-e4df-72d6-9700-08a3e38d9420","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"trait","claimValue":"Kidnapped and brought to dungeon","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b709-e4df-759a-9a0c-7690f6c0cfb1","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"trait","claimValue":"Injured with cracked rib","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b709-e4df-7022-b841-2103bed86f64","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"skill","claimValue":"[Ice Spike]","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b709-e4df-714d-a8ee-033bce0270cd","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"skill","claimValue":"[Ice Wall]","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b709-e4df-7e3e-89be-2d0927ba03c9","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"skill","claimValue":"[Flash Step]","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b709-e4df-7414-a429-225a53a9005e","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"identity","claimValue":"Captain of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.39"}
+{"id":"01a0b709-e4df-7656-acdb-b68c63ff0abc","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"class","claimValue":"Mage","epistemic":"claimed","sourceChapter":"5.39"}
+{"id":"01a0b709-e4df-7d27-96a1-e73c7e5f624f","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"5.39"}
+{"id":"01a0b709-e4df-7c5e-b4b3-abe859f3029d","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"trait","claimValue":"skeletal hand from magical backlash","epistemic":"asserted","sourceChapter":"5.39"}
+{"id":"01a0b709-e4df-7ad3-aae5-13f0e92b9b42","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"trait","claimValue":"imprisoned by Calruz","epistemic":"asserted","sourceChapter":"5.39"}
+{"id":"01a0b709-e4df-70a0-b0a9-74b1f841256c","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"trait","claimValue":"insane","epistemic":"claimed","claimedBy":"Ceria","sourceChapter":"5.39"}
+{"id":"01a0b709-e4df-7a32-8b32-7f5498ce9ff7","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"skill","claimValue":"illusion magic","epistemic":"asserted","sourceChapter":"5.39"}
+{"id":"01a0b709-e4df-73e4-9f6f-a71d3b672798","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"skill","claimValue":"ice spike","epistemic":"asserted","sourceChapter":"5.39"}
+{"id":"01a0b709-e4df-773e-be31-72a5d882bfc3","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"skill","claimValue":"magical cipher with Pisces","epistemic":"asserted","sourceChapter":"5.39"}
+{"id":"01a0b709-e4df-7aee-ab7e-4093452f5160","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b709-e4df-7662-b9f9-d11da954b56f","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"trait","claimValue":"held captive by Calruz in large domed chamber","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b709-e4df-75ca-9ac4-028f699730f6","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"trait","claimValue":"sent coded message to Pisces describing her location","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b709-e4df-7901-89ed-d10e7652cd21","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"trait","claimValue":"reported that Calruz killed a Gnoll","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b709-e4df-724e-8193-0780e0ce90bb","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"trait","claimValue":"knows Ice Walls spell","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b709-e4df-77ea-91b3-2388a8628d7d","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"trait","claimValue":"forced to work with Calruz in his war planning","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b709-e4df-7637-bbba-4fa4b2c5d40e","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"trait","claimValue":"doubts Calruz's plans but stays silent","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b709-e4df-765a-a340-fd922965a706","chapterSlug":"the-wandering-inn-0284-5-42","claimField":"class","claimValue":"Cryomancer","epistemic":"asserted","sourceChapter":"5.42"}
+{"id":"01a0b709-e4df-78be-81d7-f59c25dbf255","chapterSlug":"the-wandering-inn-0284-5-42","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"5.42"}
+{"id":"01a0b709-e4df-7493-b99d-d5dd96fffa3f","chapterSlug":"the-wandering-inn-0284-5-42","claimField":"trait","claimValue":"Lost right hand, now skeletal","epistemic":"asserted","sourceChapter":"5.42"}
+{"id":"01a0b709-e4df-7c4d-aac8-c9fd1c7ccbf3","chapterSlug":"the-wandering-inn-0284-5-42","claimField":"trait","claimValue":"Can see invisible creatures","epistemic":"asserted","sourceChapter":"5.42"}
+{"id":"01a0b709-e4df-76f6-9c04-999430984805","chapterSlug":"the-wandering-inn-0284-5-42","claimField":"trait","claimValue":"Susceptible to Calruz's domination aura","epistemic":"asserted","sourceChapter":"5.42"}
+{"id":"01a0b709-e4df-7c51-a78a-879ed771b022","chapterSlug":"the-wandering-inn-0284-5-42","claimField":"skill","claimValue":"Ice Spike","epistemic":"asserted","sourceChapter":"5.42"}
+{"id":"01a0b709-e4df-7a54-afd0-afeec9b3566a","chapterSlug":"the-wandering-inn-0284-5-42","claimField":"skill","claimValue":"Ice Wall","epistemic":"asserted","sourceChapter":"5.42"}
+{"id":"01a0b709-e4df-7cf8-a5b8-fb1a31a60e9e","chapterSlug":"the-wandering-inn-0284-5-42","claimField":"skill","claimValue":"Fireball","epistemic":"asserted","sourceChapter":"5.42"}
+{"id":"01a0b709-e4df-7ca0-9c03-567af8208218","chapterSlug":"the-wandering-inn-0285-5-43","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"5.43"}
+{"id":"01a0b709-e4df-7ca5-b3a4-8dfcd639a1f0","chapterSlug":"the-wandering-inn-0285-5-43","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"5.43"}
+{"id":"01a0b709-e4df-7239-a34a-aad9401c6e1a","chapterSlug":"the-wandering-inn-0285-5-43","claimField":"trait","claimValue":"Haunted by the sacrifices she has witnessed","epistemic":"asserted","sourceChapter":"5.43"}
+{"id":"01a0b709-e4df-7512-8fba-15ab1645a478","chapterSlug":"the-wandering-inn-0285-5-43","claimField":"trait","claimValue":"Loyal to her team despite despair","epistemic":"asserted","sourceChapter":"5.43"}
+{"id":"01a0b709-e4df-78cb-88e5-e24edf3e7a0c","chapterSlug":"the-wandering-inn-0285-5-43","claimField":"trait","claimValue":"Strategic thinker willing to manipulate","epistemic":"asserted","sourceChapter":"5.43"}
+{"id":"01a0b709-e4df-7460-b0e6-1dab19c5854a","chapterSlug":"the-wandering-inn-0285-5-43","claimField":"skill","claimValue":"[Ice Spike]","epistemic":"asserted","sourceChapter":"5.43"}
+{"id":"01a0b709-e4df-7c8d-9c38-734bbd2dcddd","chapterSlug":"the-wandering-inn-0285-5-43","claimField":"skill","claimValue":"Ice magic - skilled enough to create sharp daggers","epistemic":"asserted","sourceChapter":"5.43"}
+{"id":"01a0b709-e4df-7ce9-ae3f-62f6e692f578","chapterSlug":"the-wandering-inn-0288-5-45","claimField":"trait","claimValue":"half-Elf adventurer","epistemic":"asserted","sourceChapter":"5.45"}
+{"id":"01a0b709-e4df-7fc8-9ffd-a62d97508d07","chapterSlug":"the-wandering-inn-0288-5-45","claimField":"trait","claimValue":"witnessed horrors in the dungeon that still haunt her","epistemic":"asserted","sourceChapter":"5.45"}
+{"id":"01a0b709-e4df-770c-8bfb-3f3c21f55d93","chapterSlug":"the-wandering-inn-0288-5-45","claimField":"trait","claimValue":"captain of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.45"}
+{"id":"01a0b709-e4df-75a4-992b-95d1b4535046","chapterSlug":"the-wandering-inn-0288-5-45","claimField":"trait","claimValue":"conflicted about mercy toward Calruz","epistemic":"asserted","sourceChapter":"5.45"}
+{"id":"01a0b709-e4df-7881-91d8-d28552634c17","chapterSlug":"the-wandering-inn-0289-5-46","claimField":"identity","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"5.46"}
+{"id":"01a0b709-e4df-7ef8-a6e8-14eb77ecd07b","chapterSlug":"the-wandering-inn-0289-5-46","claimField":"trait","claimValue":"Recovering from dungeon trauma","epistemic":"asserted","sourceChapter":"5.46"}
+{"id":"01a0b709-e4df-7312-a17d-7da9e9e92cf6","chapterSlug":"the-wandering-inn-0289-5-46","claimField":"trait","claimValue":"Has skeletal bone hand without feeling","epistemic":"asserted","sourceChapter":"5.46"}
+{"id":"01a0b709-e4df-7180-8dbc-3a283190b72d","chapterSlug":"the-wandering-inn-0289-5-46","claimField":"skill","claimValue":"Ice magic","epistemic":"asserted","sourceChapter":"5.46"}
+{"id":"01a0b709-e4df-7339-891c-c1fcc9cbc457","chapterSlug":"the-wandering-inn-0289-5-46","claimField":"skill","claimValue":"Freezes ground for baseball","epistemic":"asserted","sourceChapter":"5.46"}
+{"id":"01a0b709-e4df-7aaa-83e5-1a4d337af119","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"identity","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b709-e4df-71f0-ae7b-d4efda4358b3","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"trait","claimValue":"Leader of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b709-e4df-79e9-86ce-682f93e59f09","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"trait","claimValue":"Has experienced trauma and lost friends","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b709-e4df-77c5-bf93-c7788f37d612","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"trait","claimValue":"Decided to permanently leave the dungeon after the treasure discovery","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b709-e4df-72da-bfb4-dd90318bdee8","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"trait","claimValue":"Receives approximately 25,000 gold pieces from the treasure","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b709-e4df-792d-977d-6c69b157a037","chapterSlug":"the-wandering-inn-0296-5-52","claimField":"class","claimValue":"Cryomancer","epistemic":"asserted","sourceChapter":"5.52"}
+{"id":"01a0b709-e4df-7f52-9bbc-85c66beef6f0","chapterSlug":"the-wandering-inn-0308-5-61","claimField":"class","claimValue":"Adventurer","epistemic":"asserted"}
+{"id":"01a0b709-e4df-7ecb-bfa9-99a4c6ed09c1","chapterSlug":"the-wandering-inn-0308-5-61","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"5.61"}
+{"id":"01a0b709-e4df-7771-8d00-4204be9b8984","chapterSlug":"the-wandering-inn-0308-5-61","claimField":"trait","claimValue":"Part of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.61"}
+{"id":"01a0b709-e4df-7b16-a392-b303b68fd64f","chapterSlug":"the-wandering-inn-0321-6-10","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"6.10"}
+{"id":"01a0b709-e4df-727d-9aad-066f837bfe8d","chapterSlug":"the-wandering-inn-0321-6-10","claimField":"class","claimValue":"Ice Mage","epistemic":"asserted","sourceChapter":"6.10"}
+{"id":"01a0b709-e4df-7aaf-8a5b-c49997591e37","chapterSlug":"the-wandering-inn-0321-6-10","claimField":"trait","claimValue":"Captain of Horns of Hammerad","epistemic":"asserted","sourceChapter":"6.10"}
+{"id":"01a0b709-e4df-7c69-a367-032a542b6e3f","chapterSlug":"the-wandering-inn-0321-6-10","claimField":"trait","claimValue":"Adventurer and mage","epistemic":"asserted","sourceChapter":"6.10"}
+{"id":"01a0b709-e4df-7ebf-b708-d8dfce3da6b5","chapterSlug":"the-wandering-inn-0322-6-11","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"6.11"}
+{"id":"01a0b709-e4df-7cd0-ba0b-29790311e4a8","chapterSlug":"the-wandering-inn-0322-6-11","claimField":"trait","claimValue":"right hand disabled, skeletal","epistemic":"asserted","sourceChapter":"6.11"}
+{"id":"01a0b709-e4df-700a-8385-45fc10a0657c","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b709-e4df-73cf-bcba-2b88e154341f","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b709-e4df-7a24-867f-ccc0d7e9e04b","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"trait","claimValue":"Captain of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b709-e4df-7867-863d-f3ce82068c67","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"trait","claimValue":"cast ice spells ineffective against Ashfire Bees","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b709-e4df-72f7-955a-0a138ff3965b","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"skill","claimValue":"[Ice Wall]","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b709-e4df-74b4-8b2a-e1c5608592a0","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"skill","claimValue":"[Ice Spike]","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b709-e4df-7e6c-9a80-621c92c34505","chapterSlug":"the-wandering-inn-0330-6-19-h","claimField":"class","claimValue":"Ice Mage","epistemic":"asserted","sourceChapter":"6.19 H"}
+{"id":"01a0b709-e4df-7ca8-8e07-e5c06899f94f","chapterSlug":"the-wandering-inn-0330-6-19-h","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"6.19 H"}
+{"id":"01a0b709-e4df-7e4d-8b6d-772e69918af8","chapterSlug":"the-wandering-inn-0330-6-19-h","claimField":"trait","claimValue":"eats bugs","epistemic":"asserted","sourceChapter":"6.19 H"}
+{"id":"01a0b709-e4df-78c4-9324-aef1513df7a9","chapterSlug":"the-wandering-inn-0330-6-19-h","claimField":"trait","claimValue":"likes sugary foods","epistemic":"asserted","sourceChapter":"6.19 H"}
+{"id":"01a0b709-e4df-779e-ac78-6982b9b91c32","chapterSlug":"the-wandering-inn-0352-6-38","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"6.38"}
+{"id":"01a0b709-e4df-7bf0-b62e-76ad726403ea","chapterSlug":"the-wandering-inn-0352-6-38","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"6.38"}
+{"id":"01a0b709-e4df-7e6f-853d-8f31e7428678","chapterSlug":"the-wandering-inn-0352-6-38","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"6.38"}
+{"id":"01a0b709-e4df-72a7-b69d-44b1d97a4e00","chapterSlug":"the-wandering-inn-0356-interlude-two-rats","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"356"}
+{"id":"01a0b709-e4df-764a-af1e-7a0f0b6e419d","chapterSlug":"the-wandering-inn-0356-interlude-two-rats","claimField":"trait","claimValue":"friend of Calruz, advocates for his innocence","epistemic":"asserted","sourceChapter":"356"}
+{"id":"01a0b709-e4df-7837-a948-4c4402b31ae3","chapterSlug":"the-wandering-inn-0356-interlude-two-rats","claimField":"trait","claimValue":"brings gifts to Calruz in prison","epistemic":"asserted","sourceChapter":"356"}
+{"id":"01a0b709-e4df-75c0-89dc-a3b97411d3f8","chapterSlug":"the-wandering-inn-0367-6-51-a","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"6.51 A"}
+{"id":"01a0b709-e4df-7e4f-9108-a23d9e49c32a","chapterSlug":"the-wandering-inn-0367-6-51-a","claimField":"trait","claimValue":"Member of adventuring team with Pisces","epistemic":"asserted","sourceChapter":"6.51 A"}
+{"id":"01a0b709-e4df-77bf-aa84-9cb522507644","chapterSlug":"the-wandering-inn-0367-6-51-a","claimField":"trait","claimValue":"Good-spirited and joyful","epistemic":"asserted","sourceChapter":"6.51 A"}
+{"id":"01a0b709-e4df-754c-b06d-993a16cc6287","chapterSlug":"the-wandering-inn-0367-6-51-a","claimField":"trait","claimValue":"Supportive of Pisces despite his oddities","epistemic":"asserted","sourceChapter":"6.51 A"}
+{"id":"01a0b709-e4df-7c8f-b529-d707e897a22f","chapterSlug":"the-wandering-inn-0367-6-51-a","claimField":"trait","claimValue":"Takes the lead in group play and activities","epistemic":"asserted","sourceChapter":"6.51 A"}
+{"id":"01a0b709-e4df-7a08-8197-99513d71afd6","chapterSlug":"the-wandering-inn-0373-6-56","claimField":"class","claimValue":"Cryomancer","epistemic":"asserted","sourceChapter":"6.56"}
+{"id":"01a0b709-e4df-7095-8306-76ff29b5793f","chapterSlug":"the-wandering-inn-0373-6-56","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"6.56"}
+{"id":"01a0b709-e4df-71da-b554-c57a7fd7ab83","chapterSlug":"the-wandering-inn-0373-6-56","claimField":"trait","claimValue":"pointed ears","epistemic":"asserted","sourceChapter":"6.56"}
+{"id":"01a0b709-e4df-7190-9631-7b5ed99e75df","chapterSlug":"the-wandering-inn-0373-6-56","claimField":"skill","claimValue":"Dangersense","epistemic":"asserted","sourceChapter":"6.56"}
+{"id":"01a0b709-e4df-7788-8b33-1e1f2ab27a9c","chapterSlug":"the-wandering-inn-0373-6-56","claimField":"skill","claimValue":"Ice Spike","epistemic":"asserted","sourceChapter":"6.56"}
+{"id":"01a0b709-e4df-7d42-9916-d402e21dae7b","chapterSlug":"the-wandering-inn-0374-6-57","claimField":"class","claimValue":"[Mage]","epistemic":"asserted","sourceChapter":"6.57"}
+{"id":"01a0b709-e4df-7066-9291-fc8ee6a6481b","chapterSlug":"the-wandering-inn-0374-6-57","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"6.57"}
+{"id":"01a0b709-e4df-7d29-ae99-56843efe56b2","chapterSlug":"the-wandering-inn-0374-6-57","claimField":"trait","claimValue":"Knows Montressa from Wistram","epistemic":"asserted","sourceChapter":"6.57"}
+{"id":"01a0b709-e4df-7858-bed0-a655ca989709","chapterSlug":"the-wandering-inn-0374-6-57","claimField":"trait","claimValue":"Member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"6.57"}
+{"id":"01a0b709-e4df-71a7-b314-df4489f89355","chapterSlug":"the-wandering-inn-0374-6-57","claimField":"skill","claimValue":"[Ice Walls]","epistemic":"asserted","sourceChapter":"6.57"}
+{"id":"01a0b709-e4df-7cc6-a678-57128a028e6d","chapterSlug":"the-wandering-inn-0380-6-62-l","claimField":"class","claimValue":"Cryomancer","epistemic":"asserted","sourceChapter":"6.62 L"}
+{"id":"01a0b709-e4df-77f3-adbd-5ad8d32e82ed","chapterSlug":"the-wandering-inn-0380-6-62-l","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"6.62 L"}
+{"id":"01a0b709-e4df-7b2f-b7ab-13fde922e04b","chapterSlug":"the-wandering-inn-0380-6-62-l","claimField":"trait","claimValue":"Captain of Horns of Hammerad","epistemic":"asserted","sourceChapter":"6.62 L"}
+{"id":"01a0b709-e4df-715b-b45b-925350db8d1b","chapterSlug":"the-wandering-inn-0380-6-62-l","claimField":"trait","claimValue":"has a skeletal hand","epistemic":"asserted","sourceChapter":"6.62 L"}
+{"id":"01a0b709-e4df-702a-8e1f-15ab313fd0b9","chapterSlug":"the-wandering-inn-0380-6-62-l","claimField":"skill","claimValue":"Ice Wall","epistemic":"asserted","sourceChapter":"6.62 L"}
+{"id":"01a0b709-e4df-7bf6-b3f7-44a2c8065603","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"6.64"}
+{"id":"01a0b709-e4df-71cc-a6dc-bb7610ccd157","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"class","claimValue":"Cryomancer","epistemic":"asserted","sourceChapter":"6.64"}
+{"id":"01a0b709-e4df-77dd-a2ef-2f4208fdd263","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"6.64"}
+{"id":"01a0b709-e4df-79f2-a50c-b86e72a3f504","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"trait","claimValue":"complains about hiking","epistemic":"asserted","sourceChapter":"6.64"}
+{"id":"01a0b709-e4df-72a7-99f2-43dc7c7de7ce","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"trait","claimValue":"out of shape","epistemic":"claimed","claimedBy":"Yvlon","sourceChapter":"6.64"}
+{"id":"01a0b709-e4df-717d-a1a6-ef8269a8f1c4","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"skill","claimValue":"Cryomancer","epistemic":"asserted","sourceChapter":"6.64"}
+{"id":"01a0b709-e4df-7eda-b895-7877d2cbb971","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"skill","claimValue":"Ice Spike","epistemic":"asserted","sourceChapter":"6.64"}
+{"id":"01a0b709-e4df-7a8c-a406-e6214817600c","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"skill","claimValue":"Fireball","epistemic":"asserted","sourceChapter":"6.64"}
+{"id":"01a0b709-e4df-7753-8f1a-207e7a6dec9a","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"skill","claimValue":"Ice Wall","epistemic":"asserted","sourceChapter":"6.64"}
+{"id":"01a0b709-e4df-76ae-ae92-b7667340e113","chapterSlug":"the-wandering-inn-0384-6-65","claimField":"class","claimValue":"Mage","epistemic":"asserted","sourceChapter":"6.65"}
+{"id":"01a0b709-e4df-787e-8d4f-f8336cba7f92","chapterSlug":"the-wandering-inn-0384-6-65","claimField":"trait","claimValue":"Loyal captain","epistemic":"asserted","sourceChapter":"6.65"}
+{"id":"01a0b709-e4df-7558-8ead-2047d565c563","chapterSlug":"the-wandering-inn-0384-6-65","claimField":"trait","claimValue":"Fights with strategic positioning","epistemic":"asserted","sourceChapter":"6.65"}
+{"id":"01a0b709-e4df-760a-8ad6-2beb2cb0e23e","chapterSlug":"the-wandering-inn-0384-6-65","claimField":"skill","claimValue":"Ice Wall","epistemic":"asserted","sourceChapter":"6.65"}
+{"id":"01a0b709-e4df-7da8-a286-2a4e535dde60","chapterSlug":"the-wandering-inn-0384-6-65","claimField":"skill","claimValue":"Ice Spike","epistemic":"asserted","sourceChapter":"6.65"}
+{"id":"01a0b709-e4df-712a-88f2-c3883a388498","chapterSlug":"the-wandering-inn-0384-6-65","claimField":"skill","claimValue":"Ice Lance","epistemic":"asserted","sourceChapter":"6.65"}
+{"id":"01a0b709-e4df-74ea-b78c-da5d8f5b0581","chapterSlug":"the-wandering-inn-0385-6-66-h","claimField":"trait","claimValue":"half-elf","epistemic":"asserted","sourceChapter":"6.66 H"}
+{"id":"01a0b709-e4df-716a-9a64-795f8090fef4","chapterSlug":"the-wandering-inn-0385-6-66-h","claimField":"trait","claimValue":"eyes changed to winter-pale blue and grey after magical escalation","epistemic":"asserted","sourceChapter":"6.66 H"}
+{"id":"01a0b709-e4df-718d-92cf-24c45775199c","chapterSlug":"the-wandering-inn-0385-6-66-h","claimField":"trait","claimValue":"snowflakes fall around her as she walks","epistemic":"asserted","sourceChapter":"6.66 H"}
+{"id":"01a0b709-e4df-7221-ad57-34fe0e3dbf6d","chapterSlug":"the-wandering-inn-0385-6-66-h","claimField":"trait","claimValue":"can create walls of ice with temperatures colder than frostfaerie-cold","epistemic":"asserted","sourceChapter":"6.66 H"}
+{"id":"01a0b709-e4df-781a-aa46-e133ec8c6c3c","chapterSlug":"the-wandering-inn-0385-6-66-h","claimField":"trait","claimValue":"linked magic with Pisces to create Frostmarrow Behemoth","epistemic":"asserted","sourceChapter":"6.66 H"}
+{"id":"01a0b709-e4df-73dc-963d-2f34ef59e23e","chapterSlug":"the-wandering-inn-0385-6-66-h","claimField":"trait","claimValue":"shows romantic connection with Pisces","epistemic":"asserted","sourceChapter":"6.66 H"}
+{"id":"01a0b709-e4df-78f4-a42c-9165fe3f5039","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"class","claimValue":"Arctic Cryomancer","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b709-e4df-7b42-b109-594f68bab53a","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b709-e4df-7693-8b0e-a5009bc1a10f","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"trait","claimValue":"Ice-magic specialization","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b709-e4df-71c5-b148-b96066cc8019","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"skill","claimValue":"Glaciersheet Ice","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b709-e4df-79d5-8a7c-baf0914494f2","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"skill","claimValue":"Adept Iceform","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b709-e4df-798c-85a1-5a221b90b44d","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"skill","claimValue":"Aura of Rime","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b709-e4df-773d-942c-e3a85c4e59bf","chapterSlug":"the-wandering-inn-0410-7-13-k","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"7.13 K"}
+{"id":"01a0b709-e4df-7c61-a7b2-4f5790567c0c","chapterSlug":"the-wandering-inn-0410-7-13-k","claimField":"class","claimValue":"Cryomancer","epistemic":"asserted","sourceChapter":"7.13 K"}
+{"id":"01a0b709-e4df-7d7d-8ed8-02954f16f376","chapterSlug":"the-wandering-inn-0410-7-13-k","claimField":"skill","claimValue":"Invisibility","epistemic":"asserted","sourceChapter":"7.13 K"}
+{"id":"01a0b709-e4df-7fc9-944d-43498c9ad082","chapterSlug":"the-wandering-inn-0419-7-19","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"7.19"}
+{"id":"01a0b709-e4df-78e4-bf5a-1e4ed4c0e81a","chapterSlug":"the-wandering-inn-0419-7-19","claimField":"trait","claimValue":"adventurer","epistemic":"asserted","sourceChapter":"7.19"}
+{"id":"01a0b709-e4df-7b4e-ab17-f67da9e60a45","chapterSlug":"the-wandering-inn-0419-7-19","claimField":"trait","claimValue":"captain of Horns of Hammerad","epistemic":"asserted","sourceChapter":"7.19"}
+{"id":"01a0b709-e4df-7270-91b5-e4c91b32f44b","chapterSlug":"the-wandering-inn-0419-7-19","claimField":"trait","claimValue":"has skeletal bone hand","epistemic":"asserted","sourceChapter":"7.19"}
+{"id":"01a0b709-e4df-7a2f-a63c-599a53e5521d","chapterSlug":"the-wandering-inn-0419-7-19","claimField":"trait","claimValue":"uses humor to cope with stress","epistemic":"asserted","sourceChapter":"7.19"}
+{"id":"01a0b709-e4df-73f6-b00f-9f27886620e4","chapterSlug":"the-wandering-inn-0430-7-28","claimField":"identity","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"7.28"}
+{"id":"01a0b709-e4df-793a-a98a-37cb448dc0da","chapterSlug":"the-wandering-inn-0430-7-28","claimField":"trait","claimValue":"Engaged to Hedault","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"7.28"}
+{"id":"01a0b709-e4df-7bd2-9e48-367fe342673a","chapterSlug":"the-wandering-inn-0483-8-00","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"8.00"}
+{"id":"01a0b709-e4df-7634-b3a5-1a3d479e34a4","chapterSlug":"the-wandering-inn-0483-8-00","claimField":"trait","claimValue":"Captain of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"8.00"}
+{"id":"01a0b709-e4df-7ab4-a636-c6326bf9caba","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"class","claimValue":"Cryomancer","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b709-e4df-77ba-9e3e-e8d9a06f98d4","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b709-e4df-7f8e-b9f3-5be9dc770d0a","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"trait","claimValue":"bone fingers on one hand (skeletal)","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b709-e4df-7159-91a8-c01c71737ff6","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"skill","claimValue":"Ice Wall","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b709-e4df-71da-a0c4-74ea574f154b","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"skill","claimValue":"Ice Spikes","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b709-e4df-718a-964c-bb1ecefc9b2e","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"skill","claimValue":"Ice Lance","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b709-e4df-729f-bec7-85af26dec41a","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"skill","claimValue":"Dangersense","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b709-e4df-79ac-aeb9-69fcc7784a70","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"class","claimValue":"[Ice Mage]","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b709-e4df-7bd4-99b2-76502470bd3e","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b709-e4df-7a76-af17-77a8c1545184","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"trait","claimValue":"awakens alone in a desert far from her team","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b709-e4df-73a8-a2c1-3faa12669dd5","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"trait","claimValue":"attacked by Needlehounds and feral dogs","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b709-e4df-7788-bf2b-9736c55d34b4","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"trait","claimValue":"dehydrated and separated from mana sources","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b709-e4df-7fb0-8d54-b98bb31980aa","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"trait","claimValue":"collapses seeking shelter in a village","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b709-e4df-7da8-a13e-09e886e4294a","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"skill","claimValue":"[Ice Wall]","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b709-e4df-7241-a6a3-7c77426496b5","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"skill","claimValue":"[Ice Spike]","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b709-e4df-731f-a373-41bfa07dd0b0","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"skill","claimValue":"animal communion","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b709-e4df-701d-8a8d-e8cbbbd69dea","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"class","claimValue":"Cryomancer","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b709-e4df-7ba7-816a-8096b6e660ab","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b709-e4df-76b5-b9ee-36ea4bfdcc29","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"trait","claimValue":"Member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b709-e4df-7437-aff8-a52ae462cced","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"trait","claimValue":"Skeletal hand","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b709-e4df-76f2-a179-3b0148602005","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"trait","claimValue":"Can cast Message spells","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b709-e4df-7c7a-9d0b-35ad5807fd12","chapterSlug":"the-wandering-inn-0555-8-60","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"8.60"}
+{"id":"01a0b709-e4df-7633-94a8-91c77d5ea00a","chapterSlug":"the-wandering-inn-0555-8-60","claimField":"trait","claimValue":"called Ice Squirrel","epistemic":"claimed","sourceChapter":"8.60"}
+{"id":"01a0b709-e4df-750d-81eb-41b06f60621b","chapterSlug":"the-wandering-inn-0555-8-60","claimField":"skill","claimValue":"ice magic","epistemic":"asserted","sourceChapter":"8.60"}
+{"id":"01a0b709-e4df-7ddc-ba39-d5a6985472d6","chapterSlug":"the-wandering-inn-0580-8-81","claimField":"class","claimValue":"Cryomancer","epistemic":"asserted"}
+{"id":"01a0b709-e4df-7ecc-b609-1d663fb0a53e","chapterSlug":"the-wandering-inn-0580-8-81","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"8.81"}
+{"id":"01a0b709-e4df-7cfa-9344-2ff7b3647260","chapterSlug":"the-wandering-inn-0580-8-81","claimField":"trait","claimValue":"Captain of Horns of Hammerad","epistemic":"asserted","sourceChapter":"8.81"}
+{"id":"01a0b709-e4df-76b2-8bdd-d6dc44d1f6e9","chapterSlug":"the-wandering-inn-0580-8-81","claimField":"skill","claimValue":"Cryomancer","epistemic":"asserted","sourceChapter":"8.81"}
+{"id":"01a0b709-e4df-7a95-946c-9ac125a383da","chapterSlug":"the-wandering-inn-0580-8-81","claimField":"skill","claimValue":"Ice magic","epistemic":"asserted","sourceChapter":"8.81"}
+{"id":"01a0b709-e4df-7129-98df-2fe2596428f9","chapterSlug":"the-wandering-inn-0588-9-00","claimField":"identity","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"9.00"}
+{"id":"01a0b709-e4df-7eab-be7b-fce584fbe906","chapterSlug":"the-wandering-inn-0588-9-00","claimField":"trait","claimValue":"Wears a circlet on her head","epistemic":"asserted","sourceChapter":"9.00"}
+{"id":"01a0b709-e4df-786f-82e5-9c2c075a5f64","chapterSlug":"the-wandering-inn-0588-9-00","claimField":"trait","claimValue":"Has a skeletal hand","epistemic":"asserted","sourceChapter":"9.00"}
+{"id":"01a0b709-e4df-705b-b9ff-1abc331439cc","chapterSlug":"the-wandering-inn-0588-9-00","claimField":"trait","claimValue":"Frightened by Erin's claim of meeting Gerial in the lands of the dead","epistemic":"asserted","sourceChapter":"9.00"}
+{"id":"01a0b709-e4df-70f9-a6a9-40825de3b779","chapterSlug":"the-wandering-inn-0597-9-07","claimField":"class","claimValue":"adventurer","epistemic":"asserted","sourceChapter":"9.07"}
+{"id":"01a0b709-e4df-7228-b9c0-55902886c446","chapterSlug":"the-wandering-inn-0597-9-07","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"9.07"}
+{"id":"01a0b709-e4df-7533-b083-6468b43f8943","chapterSlug":"the-wandering-inn-0597-9-07","claimField":"trait","claimValue":"Captain of Horns of Hammerad","epistemic":"asserted","sourceChapter":"9.07"}
+{"id":"01a0b709-e4df-7ab1-a7a9-dfbcff7cb9d2","chapterSlug":"the-wandering-inn-0613-9-19","claimField":"class","claimValue":"Cryomancer","epistemic":"asserted","sourceChapter":"9.19"}
+{"id":"01a0b709-e4df-7968-978c-26c34c558fd2","chapterSlug":"the-wandering-inn-0613-9-19","claimField":"trait","claimValue":"has skeletal hand","epistemic":"asserted","sourceChapter":"9.19"}
+{"id":"01a0b709-e4df-7cb6-938c-e6888bef4c4a","chapterSlug":"the-wandering-inn-0613-9-19","claimField":"trait","claimValue":"training her team on ice skating for mobility","epistemic":"asserted","sourceChapter":"9.19"}
+{"id":"01a0b709-e4df-7f96-a6af-8a93c495ede1","chapterSlug":"the-wandering-inn-0613-9-19","claimField":"trait","claimValue":"created icy floor spell","epistemic":"asserted","sourceChapter":"9.19"}
+{"id":"01a0b709-e4df-7ae3-9278-50a85e187396","chapterSlug":"the-wandering-inn-0619-9-24","claimField":"class","claimValue":"[Mage]","epistemic":"asserted"}
+{"id":"01a0b709-e4df-7c22-8171-7ead67c112a6","chapterSlug":"the-wandering-inn-0619-9-24","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"9.24"}
+{"id":"01a0b709-e4df-7e95-98ef-a243b0b0fdf3","chapterSlug":"the-wandering-inn-0619-9-24","claimField":"skill","claimValue":"captain of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"9.24"}
+{"id":"01a0b709-e4df-7bec-a80b-39bb597e9266","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"trait","claimValue":"Captain of Horns of Hammerad","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b709-e4df-7a73-9353-ff49ed896454","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b709-e4df-705b-a357-999d231bd58a","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"trait","claimValue":"Gained Prankster class this chapter","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b709-e4df-7e35-9e54-7518bbd218bc","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"skill","claimValue":"[Prankster]","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b709-e4df-7575-abae-b8ab4ceac0ac","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"skill","claimValue":"[Convincing Lies]","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b709-e4df-7169-a354-993070655814","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"skill","claimValue":"[Pardon the Joke]","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b709-e4df-703a-9e21-4db45b4d0f35","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"skill","claimValue":"[Mischief Bank]","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b709-e4df-7f01-a8c4-2a3b622385fc","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"skill","claimValue":"[Wings Upon Ice]","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b709-e4df-7bda-852d-416482043577","chapterSlug":"the-wandering-inn-0623-9-25","claimField":"class","claimValue":"[Prankster]","epistemic":"asserted"}
+{"id":"01a0b709-e4df-79a5-9e57-332209a6849b","chapterSlug":"the-wandering-inn-0623-9-25","claimField":"trait","claimValue":"Skilled at professional ice skating","epistemic":"asserted","sourceChapter":"9.25"}
+{"id":"01a0b709-e4df-723a-9246-68e7f1ca013d","chapterSlug":"the-wandering-inn-0623-9-25","claimField":"skill","claimValue":"[Mischief Skill: Wings Upon Ice]","epistemic":"asserted","sourceChapter":"9.25"}
+{"id":"01a0b709-e4df-74f2-8f9e-08f33fb98f0f","chapterSlug":"the-wandering-inn-0623-9-25","claimField":"skill","claimValue":"[Ice Spikes]","epistemic":"asserted","sourceChapter":"9.25"}
+{"id":"01a0b709-e4df-724c-bc2f-c6db08f288a0","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"class","claimValue":"Prankster","epistemic":"asserted"}
+{"id":"01a0b709-e4df-7f4c-89d4-4f957a5cf03b","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"level","claimValue":"10","epistemic":"asserted"}
+{"id":"01a0b709-e4df-7ae4-8551-0202cb03d2cf","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b709-e4df-7245-a5a7-e4ca251c436a","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"trait","claimValue":"[Cryomancer]","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b709-e4df-7fb3-b6c2-a019b6078a67","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"trait","claimValue":"Wears an invisible magic circlet","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b709-e4df-7be0-9435-79badff637ae","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"trait","claimValue":"Creates large ice sculptures","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b709-e4df-7b87-882a-238068299fe1","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"trait","claimValue":"Over 60 years old","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b709-e4df-7c80-bc88-4c720e858193","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"trait","claimValue":"Wants to be remembered","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b709-e4df-7be7-aade-df7b4812fb42","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"skill","claimValue":"Spell: Rampant Magic","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b709-e4df-7288-9d2c-0e7a788d340d","chapterSlug":"the-wandering-inn-0657-9-46-s","claimField":"identity","claimValue":"[Cryomancer]","epistemic":"asserted","sourceChapter":"9.46 S"}
+{"id":"01a0b709-e4df-74eb-bdc4-fd41272c1517","chapterSlug":"the-wandering-inn-0657-9-46-s","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"9.46 S"}
+{"id":"01a0b709-e4df-7d7d-8e21-9c2e54aafec0","chapterSlug":"the-wandering-inn-0657-9-46-s","claimField":"trait","claimValue":"Part of the Horns group","epistemic":"asserted","sourceChapter":"9.46 S"}
+{"id":"01a0b709-e4df-780e-bf86-92e21e1bbb23","chapterSlug":"the-wandering-inn-0657-9-46-s","claimField":"skill","claimValue":"Ice magic","epistemic":"asserted","sourceChapter":"9.46 S"}
+{"id":"01a0b709-e4df-7f20-a202-a14ba49bdc32","chapterSlug":"the-wandering-inn-0661-9-50","claimField":"trait","claimValue":"decrypts complex messages","epistemic":"asserted","sourceChapter":"9.50"}
+{"id":"01a0b709-e4df-7944-9d49-eb27a57a2884","chapterSlug":"the-wandering-inn-0661-9-50","claimField":"trait","claimValue":"brave enough to pursue dangerous quests","epistemic":"asserted","sourceChapter":"9.50"}
+{"id":"01a0b709-e4df-7d01-b93c-91277dea8d08","chapterSlug":"the-wandering-inn-0686-9-70-pt-2","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"9.70 (Pt. 2)"}
+{"id":"01a0b709-e4df-7344-af17-933c27daa097","chapterSlug":"the-wandering-inn-0705-10-12-h-pt-2","claimField":"class","claimValue":"Cryomancer","epistemic":"asserted","sourceChapter":"10.12 H (Pt. 2)"}
+{"id":"01a0b709-e4df-73ff-854f-608d39febe6f","chapterSlug":"the-wandering-inn-0705-10-12-h-pt-2","claimField":"trait","claimValue":"Half-Elf","epistemic":"asserted","sourceChapter":"10.12 H (Pt. 2)"}
+{"id":"01a0b709-e4df-7a82-be91-328d0f267fdd","chapterSlug":"the-wandering-inn-0705-10-12-h-pt-2","claimField":"trait","claimValue":"Magical backlash injury","epistemic":"asserted","sourceChapter":"10.12 H (Pt. 2)"}
+{"id":"01a0b709-e4df-72ee-a15e-78d445a391d2","chapterSlug":"the-wandering-inn-0705-10-12-h-pt-2","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"10.12 H (Pt. 2)"}
+{"id":"01a0b709-e4df-744f-8b4b-6fa0e60e0685","chapterSlug":"the-wandering-inn-0705-10-12-h-pt-2","claimField":"skill","claimValue":"Trickster","epistemic":"asserted","sourceChapter":"10.12 H (Pt. 2)"}
+{"id":"01a0b709-e4df-73c7-90a9-9d6867b10188","chapterSlug":"the-wandering-inn-0733-heroes-of-hraace-pt-1","claimField":"class","claimValue":"High Mage","epistemic":"asserted","sourceChapter":"733"}
+{"id":"01a0b709-e4df-703c-be07-570053b46a96","chapterSlug":"the-wandering-inn-0733-heroes-of-hraace-pt-1","claimField":"trait","claimValue":"half-Elf, frost mage","epistemic":"asserted","sourceChapter":"733"}
+{"id":"01a0b709-e4df-71d9-b195-b0e7d9826d35","chapterSlug":"the-wandering-inn-0733-heroes-of-hraace-pt-1","claimField":"trait","claimValue":"wears enchanted circlet that aids magical understanding","epistemic":"asserted","sourceChapter":"733"}
+{"id":"01a0b709-e4df-748c-bb14-4eb9bdf7b9f1","chapterSlug":"the-wandering-inn-0734-heroes-of-hraace-pt-2","claimField":"class","claimValue":"Cryomancer","epistemic":"asserted","sourceChapter":"734"}
+{"id":"01a0b709-e4df-72b5-8088-cd76171bdb75","chapterSlug":"the-wandering-inn-0734-heroes-of-hraace-pt-2","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"734"}
+{"id":"01a0b709-e4df-700f-822a-851bb33f765e","chapterSlug":"the-wandering-inn-0734-heroes-of-hraace-pt-2","claimField":"trait","claimValue":"wears cursed circlet","epistemic":"claimed","claimedBy":"Pedagogia","sourceChapter":"734"}
+{"id":"01a0b709-e4df-73e2-9535-f7639233ac13","chapterSlug":"the-wandering-inn-0734-heroes-of-hraace-pt-2","claimField":"trait","claimValue":"poor skater","epistemic":"claimed","claimedBy":"Pedagogia","sourceChapter":"734"}
+{"id":"01a0b709-e4df-752b-bc0f-26489d388fbd","chapterSlug":"the-wandering-inn-0734-heroes-of-hraace-pt-2","claimField":"skill","claimValue":"linked magic","epistemic":"claimed","claimedBy":"Ceria","sourceChapter":"734"}
+{"id":"01a0b709-e4df-764e-8b0a-90463312f105","chapterSlug":"the-wandering-inn-0734-heroes-of-hraace-pt-2","claimField":"skill","claimValue":"casting across disciplines","epistemic":"asserted","sourceChapter":"734"}
+{"id":"01a0b709-e4df-72e5-9610-59ade7ba4527","chapterSlug":"the-wandering-inn-0735-heroes-of-hraace-pt-3","claimField":"identity","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"Heroes of Hraace (Pt. 3)"}
+{"id":"01a0b709-e4df-71ce-a420-450d7ee6b7b4","chapterSlug":"the-wandering-inn-0735-heroes-of-hraace-pt-3","claimField":"class","claimValue":"Cryomancer","epistemic":"asserted","sourceChapter":"Heroes of Hraace (Pt. 3)"}
+{"id":"01a0b709-e4df-732c-9629-bfdb1def0d1b","chapterSlug":"the-wandering-inn-0735-heroes-of-hraace-pt-3","claimField":"level","claimValue":"34","epistemic":"asserted","sourceChapter":"Heroes of Hraace (Pt. 3)"}
+{"id":"01a0b709-e4df-7884-96a9-5dd8b6848cb1","chapterSlug":"the-wandering-inn-0735-heroes-of-hraace-pt-3","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"Heroes of Hraace (Pt. 3)"}
+{"id":"01a0b709-e4df-7001-b624-13de1289cf03","chapterSlug":"the-wandering-inn-0735-heroes-of-hraace-pt-3","claimField":"trait","claimValue":"lost 22 pounds during training","epistemic":"asserted","sourceChapter":"Heroes of Hraace (Pt. 3)"}
+{"id":"01a0b709-e4df-7e8e-92d2-17d0da03fd02","chapterSlug":"the-wandering-inn-0735-heroes-of-hraace-pt-3","claimField":"trait","claimValue":"captain of the Horns","epistemic":"asserted","sourceChapter":"Heroes of Hraace (Pt. 3)"}
+{"id":"01a0b709-e4df-79a5-916a-f57d6082aa57","chapterSlug":"the-wandering-inn-0735-heroes-of-hraace-pt-3","claimField":"skill","claimValue":"Ice Spike","epistemic":"asserted","sourceChapter":"Heroes of Hraace (Pt. 3)"}
+{"id":"01a0b709-e4df-76be-8dd3-2c0f1f63749b","chapterSlug":"the-wandering-inn-0735-heroes-of-hraace-pt-3","claimField":"skill","claimValue":"Ice Lance","epistemic":"asserted","sourceChapter":"Heroes of Hraace (Pt. 3)"}
+{"id":"01a0b709-e4df-7c05-9f38-6e1aac1cca06","chapterSlug":"the-wandering-inn-0735-heroes-of-hraace-pt-3","claimField":"skill","claimValue":"Ice Wall","epistemic":"asserted","sourceChapter":"Heroes of Hraace (Pt. 3)"}
+{"id":"01a0b709-e4df-72e3-b28a-ab224f42c1a6","chapterSlug":"the-wandering-inn-0735-heroes-of-hraace-pt-3","claimField":"skill","claimValue":"Stoneskin","epistemic":"asserted","sourceChapter":"Heroes of Hraace (Pt. 3)"}
+{"id":"01a0b709-e4df-7a9b-8645-e9194f61d9aa","chapterSlug":"the-wandering-inn-0786-interlude-halfseekers-pt-4","claimField":"class","claimValue":"Captain","epistemic":"asserted"}
+{"id":"01a0b709-e4df-70af-b308-2e31a5f9f77d","chapterSlug":"the-wandering-inn-0786-interlude-halfseekers-pt-4","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"786"}
+{"id":"01a0b709-e4df-7296-aefa-f3357d62888e","chapterSlug":"the-wandering-inn-0786-interlude-halfseekers-pt-4","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"claimed","claimedBy":"Tissl","sourceChapter":"786"}
+{"id":"01a0b709-e4df-75e3-8d9f-51e133fac6de","chapterSlug":"the-wandering-inn-0786-interlude-halfseekers-pt-4","claimField":"trait","claimValue":"owns magic scrying mirror made like a seashell","epistemic":"claimed","claimedBy":"Tissl","sourceChapter":"786"}
+{"id":"01a0b709-e4df-7528-970a-09998b215db7","chapterSlug":"the-wandering-inn-0796-interlude-barelle-the-bard","claimField":"class","claimValue":"[Mage]","epistemic":"asserted","sourceChapter":"Interlude - Barelle the [Bard]"}
+{"id":"01a0b709-e4df-713d-9091-4670822a298a","chapterSlug":"the-wandering-inn-0796-interlude-barelle-the-bard","claimField":"trait","claimValue":"half-Elf","epistemic":"asserted","sourceChapter":"Interlude - Barelle the [Bard]"}
+{"id":"01a0b709-e4df-7d5a-8838-8e694f403d2f","chapterSlug":"the-wandering-inn-0796-interlude-barelle-the-bard","claimField":"trait","claimValue":"Wistram graduate","epistemic":"asserted","sourceChapter":"Interlude - Barelle the [Bard]"}
+{"id":"01a0b709-e4df-774b-a5f9-1dc03861310a","chapterSlug":"the-wandering-inn-0796-interlude-barelle-the-bard","claimField":"trait","claimValue":"member of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"Interlude - Barelle the [Bard]"}

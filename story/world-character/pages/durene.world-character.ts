@@ -8,6 +8,7 @@ export const durene = {
   world: "world/the-wandering-inn",
   maxLevel: 17,
   eventCount: 2,
-  firstChapter: 355,
-  lastChapter: 355,
+  firstChapter: 124,
+  lastChapter: 476,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

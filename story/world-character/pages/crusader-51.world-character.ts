@@ -9,5 +9,6 @@ export const crusader51 = {
   maxLevel: 25,
   eventCount: 23,
   firstChapter: 561,
-  lastChapter: 562,
+  lastChapter: 561,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

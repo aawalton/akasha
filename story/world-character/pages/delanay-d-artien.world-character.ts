@@ -9,4 +9,5 @@ export const delanayDArtien = {
   eventCount: 4,
   firstChapter: 664,
   lastChapter: 664,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter
