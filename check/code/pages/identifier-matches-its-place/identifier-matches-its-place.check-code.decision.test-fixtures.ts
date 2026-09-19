@@ -2,16 +2,26 @@ import type { Places } from "akasha/check/code/pages/identifier-matches-its-plac
 import { filing } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { nameFormat } from "akasha/page/name-format/name-format.page-type.ts"
 import { lowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
+import { lowerCamelCase as lowerCamelCasePage } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.ts"
 import { upperCamelCase } from "akasha/page/name-format/pages/upper-camel-case/upper-camel-case.name-format.code.ts"
+import { upperCamelCase as upperCamelCasePage } from "akasha/page/name-format/pages/upper-camel-case/upper-camel-case.name-format.ts"
 import { upperSnakeCase } from "akasha/page/name-format/pages/upper-snake-case/upper-snake-case.name-format.code.ts"
+import { upperSnakeCase as upperSnakeCasePage } from "akasha/page/name-format/pages/upper-snake-case/upper-snake-case.name-format.ts"
 import { componentIdentifier } from "akasha/page/name-place/pages/component-identifier.name-place.ts"
 import { constantIdentifier } from "akasha/page/name-place/pages/constant-identifier.name-place.ts"
 import { derivedIdentifier } from "akasha/page/name-place/pages/derived-identifier.name-place.ts"
 import { functionIdentifier } from "akasha/page/name-place/pages/function-identifier.name-place.ts"
 import { typeIdentifier } from "akasha/page/name-place/pages/type-identifier.name-place.ts"
 
-const FORMAT = "name-format"
+const FORMAT = nameFormat.slug
+
+export const UPPER_CAMEL = `${FORMAT}/${upperCamelCasePage.slug}` as const
+
+export const LOWER_CAMEL = `${FORMAT}/${lowerCamelCasePage.slug}` as const
+
+export const UPPER_SNAKE = `${FORMAT}/${upperSnakeCasePage.slug}` as const
 
 export const AT = "akasha/held.ts"
 

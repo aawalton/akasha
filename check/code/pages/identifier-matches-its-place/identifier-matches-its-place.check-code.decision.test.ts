@@ -10,8 +10,11 @@ import {
   FIXED_AT,
   FIXED_BODY,
   HELD_AT,
+  LOWER_CAMEL,
   PAGE_AT,
   PLACES,
+  UPPER_CAMEL,
+  UPPER_SNAKE,
 } from "akasha/check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.test-fixtures.ts"
 import { componentIdentifier } from "akasha/page/name-place/pages/component-identifier.name-place.ts"
 import { constantIdentifier } from "akasha/page/name-place/pages/constant-identifier.name-place.ts"
@@ -29,7 +32,7 @@ test("a type not in upper camel case is refused, naming the line and the format"
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 2")
   expect(said[0]).toContain("the type `pageEdge`")
-  expect(said[0]).toContain("`name-format/upper-camel-case`")
+  expect(said[0]).toContain(`\`${UPPER_CAMEL}\``)
 })
 
 test("an interface names a type, and takes the type's format", () => {
@@ -42,7 +45,7 @@ test("a function not in lower camel case is refused, naming the format it wanted
   const said = refusedIn(AT, "function PageEdge() {}\n", PLACES)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("the function `PageEdge`")
-  expect(said[0]).toContain("`name-format/lower-camel-case`")
+  expect(said[0]).toContain(`\`${LOWER_CAMEL}\``)
 })
 
 test("a function bound to a name is a function, arrow or expression alike", () => {
@@ -71,7 +74,7 @@ test("a constant not in upper snake case is refused, naming the line and the for
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 2")
   expect(said[0]).toContain("the constant `heldAt`")
-  expect(said[0]).toContain("`name-format/upper-snake-case`")
+  expect(said[0]).toContain(`\`${UPPER_SNAKE}\``)
 })
 
 test("a literal is a literal through `as` and `satisfies`", () => {
@@ -108,7 +111,7 @@ test("a name inside a function is judged against the derived identifier's place"
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 2")
   expect(said[0]).toContain("the name `HELD_AT`")
-  expect(said[0]).toContain("`name-format/lower-camel-case`")
+  expect(said[0]).toContain(`\`${LOWER_CAMEL}\``)
 })
 
 test("a name inside a function written in lower camel case is let through", () => {
@@ -147,7 +150,7 @@ test("a parameter of a function carrying a body is judged", () => {
   const said = refusedIn(AT, "export function one(BadArg: number) {\n  return BadArg\n}\n", PLACES)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("the parameter `BadArg`")
-  expect(said[0]).toContain("`name-format/lower-camel-case`")
+  expect(said[0]).toContain(`\`${LOWER_CAMEL}\``)
 })
 
 test("a parameter of a function type or a method signature is not judged", () => {
@@ -220,7 +223,7 @@ test("a component not in upper camel case is refused, naming it a component", ()
   const said = refusedIn(DRAWN_AT, body, PLACES)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("the component `readoutRing`")
-  expect(said[0]).toContain("`name-format/upper-camel-case`")
+  expect(said[0]).toContain(`\`${UPPER_CAMEL}\``)
 })
 
 test("a component a drawn file exports draws null", () => {
@@ -261,7 +264,7 @@ test("a name no JSX element opens with is refused where it was refused before", 
   const said = refusedIn(DRAWN_AT, body, PLACES)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("the name `Icon`")
-  expect(said[0]).toContain("`name-format/lower-camel-case`")
+  expect(said[0]).toContain(`\`${LOWER_CAMEL}\``)
 })
 
 test("a name a JSX element opens with is still refused where it is not upper camel case", () => {
@@ -269,7 +272,7 @@ test("a name a JSX element opens with is still refused where it is not upper cam
   const said = refusedIn(DRAWN_AT, body, PLACES)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("the component `ICON_ONE`")
-  expect(said[0]).toContain("`name-format/upper-camel-case`")
+  expect(said[0]).toContain(`\`${UPPER_CAMEL}\``)
 })
 
 test("a tag opening lower names a browser element, so the name bound is judged where bound", () => {
@@ -328,9 +331,9 @@ test("a list, a call and a condition each carry what a function answers with", (
 })
 
 test("the formats judged are the ones the place pages state", () => {
-  expect(typeIdentifier.nameFormat).toBe("name-format/upper-camel-case")
-  expect(functionIdentifier.nameFormat).toBe("name-format/lower-camel-case")
-  expect(componentIdentifier.nameFormat).toBe("name-format/upper-camel-case")
-  expect(constantIdentifier.nameFormat).toBe("name-format/upper-snake-case")
-  expect(derivedIdentifier.nameFormat).toBe("name-format/lower-camel-case")
+  expect(typeIdentifier.nameFormat).toBe(UPPER_CAMEL)
+  expect(functionIdentifier.nameFormat).toBe(LOWER_CAMEL)
+  expect(componentIdentifier.nameFormat).toBe(UPPER_CAMEL)
+  expect(constantIdentifier.nameFormat).toBe(UPPER_SNAKE)
+  expect(derivedIdentifier.nameFormat).toBe(LOWER_CAMEL)
 })

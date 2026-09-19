@@ -1,4 +1,5 @@
 {"propertySlug":"extends-type","path":"domain/standard-agent-english/property/standard-agent-english-property.page-type.ts","id":"01a07c99-fb58-79b6-a204-a2bf1f056902"}
+{"propertySlug":"import","fileName":"text-property.page-type.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.ts","path":"command/pages/index/refresh/index-refresh.command.test.ts"}

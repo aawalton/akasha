@@ -3,6 +3,7 @@ import {
   lineOf,
   parsedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import { luaExport } from "akasha/design/language/lua-compiler/lualib-helper/properties/lua-export.text-property.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -13,6 +14,7 @@ import { constantIdentifier } from "akasha/page/name-place/pages/constant-identi
 import { derivedIdentifier } from "akasha/page/name-place/pages/derived-identifier.name-place.ts"
 import { functionIdentifier } from "akasha/page/name-place/pages/function-identifier.name-place.ts"
 import { typeIdentifier } from "akasha/page/name-place/pages/type-identifier.name-place.ts"
+import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
 import ts from "typescript"
 
 const UNDER = "_"
@@ -21,7 +23,7 @@ const DECLARED = ".d.ts"
 
 const DRAWN = ".tsx"
 
-const FIXED_BY = "text-property/lua-export"
+const FIXED_BY = `${textProperty.slug}/${luaExport.slug}` as const
 
 const FIXED_KEY = "luaExport"
 

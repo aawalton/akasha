@@ -1,3 +1,7 @@
+import { checkCode } from "akasha/check/code/check-code.page-type.ts"
+import { folderMatchesAShape } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.ts"
+import { noRefusedSyntax } from "akasha/check/code/pages/no-refused-syntax/no-refused-syntax.check-code.ts"
+import { checking } from "akasha/check/modules/checking/checking.module.ts"
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   edging,
@@ -7,12 +11,16 @@ import {
   typed,
   wrote,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
+import { calling } from "akasha/command/modules/calling/calling.module.ts"
+import { warranting } from "akasha/domain/context/modules/warranting/warranting.module.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   importFiled,
   pageFilingFrom,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { formatReaching } from "akasha/page/name-format/modules/format-reaching/format-reaching.module.ts"
 
 export const AT = "akasha/held.module.code.ts"
 
@@ -180,16 +188,16 @@ export function rooted(): string {
   typed(root, "domain", "page")
   typed(root, "module", "domain")
   typed(root, "lualib-helper", "domain")
-  typed(root, "command", "domain", [], "module/calling")
+  typed(root, "command", "domain", [], `${module.slug}/${calling.slug}`)
   typed(root, "computed-property", "domain")
 
   typed(root, "service-workstation", "domain")
   typed(root, "test-fixture", "domain")
-  typed(root, "check-code", "domain", [], "module/checking")
-  typed(root, "syntax-rule", "domain", [], "check-code/no-refused-syntax")
-  typed(root, "folder-shape", "domain", [], "check-code/folder-matches-a-shape")
-  typed(root, "name-format", "domain", [], "module/format-reaching")
-  typed(root, "context-warrant", "domain", [], "module/warranting")
+  typed(root, "check-code", "domain", [], `${module.slug}/${checking.slug}`)
+  typed(root, "syntax-rule", "domain", [], `${checkCode.slug}/${noRefusedSyntax.slug}`)
+  typed(root, "folder-shape", "domain", [], `${checkCode.slug}/${folderMatchesAShape.slug}`)
+  typed(root, "name-format", "domain", [], `${module.slug}/${formatReaching.slug}`)
+  typed(root, "context-warrant", "domain", [], `${module.slug}/${warranting.slug}`)
   typed(root, "shell-script", "domain")
   typed(root, "manifest", "domain")
   typed(root, "performance", "domain")

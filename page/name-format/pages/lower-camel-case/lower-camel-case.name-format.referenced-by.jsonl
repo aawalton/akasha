@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/name-format/pages/lower-camel-case/lower-camel-case.name-format.test.ts"}
+{"propertySlug":"import","fileName":"lower-camel-case.name-format.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"name-format","path":"page/name-place/pages/derived-identifier.name-place.ts","id":"01a04fc9-2ad9-76c1-9144-cbcca3d44196"}
 {"propertySlug":"name-format","path":"page/name-place/pages/function-identifier.name-place.ts","id":"01a04fc9-2ad7-7c2a-aab9-6def70b88cca"}
 {"propertySlug":"name-format","path":"page/name-place/pages/property-key.name-place.ts","id":"01a04fed-2fbf-7545-aff5-168ae23e9052"}

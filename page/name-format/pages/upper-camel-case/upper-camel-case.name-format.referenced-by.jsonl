@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"upper-camel-case.name-format.code.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"upper-camel-case.name-format.code.ts","path":"page/name-format/pages/upper-camel-case/upper-camel-case.name-format.test.ts"}
+{"propertySlug":"import","fileName":"upper-camel-case.name-format.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"name-format","path":"page/name-place/pages/component-identifier.name-place.ts","id":"01a04fc9-2ada-7231-b57f-de98579a51d4"}
 {"propertySlug":"name-format","path":"page/name-place/pages/type-identifier.name-place.ts","id":"01a04fc9-2ad6-7975-b70f-a1d56a933ee6"}
 {"propertySlug":"parts","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}
