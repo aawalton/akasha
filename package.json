@@ -64,7 +64,9 @@
       { "command": "opsAgentTree.openLineInSeatTerminal", "category": "Ops Agents", "title": "Open Line In Seat Terminal" },
       { "command": "opsWorkTree.deleteIntent", "category": "Ops Work", "title": "Delete" },
       { "command": "opsWorkTree.deleteInitiative", "category": "Ops Work", "title": "Delete" },
-      { "command": "opsWorkTree.assign", "category": "Ops Work", "title": "Assign" }
+      { "command": "opsWorkTree.assign", "category": "Ops Work", "title": "Assign" },
+      { "command": "opsFindingTree.deleteFinding", "category": "Ops Findings", "title": "Delete" },
+      { "command": "opsGapTree.deleteGap", "category": "Ops Gaps", "title": "Delete" }
     ],
     "keybindings": [
       {
@@ -99,142 +101,33 @@
         { "command": "opsGapTree.refreshNow", "when": "view == opsGapTree", "group": "navigation" }
       ],
       "view/item/context": [
-        {
-          "command": "opsAgentTree.runStop",
-          "when": "view == opsAgentTree && viewItem =~ /^seat\\.running\\./",
-          "group": "2_run@1"
-        },
-        {
-          "command": "opsAgentTree.runResume",
-          "when": "view == opsAgentTree && viewItem =~ /^seat\\.stopped\\./",
-          "group": "2_run@1"
-        },
-        {
-          "command": "opsAgentTree.runReset",
-          "when": "view == opsAgentTree && viewItem =~ /^seat\\./",
-          "group": "2_run@2"
-        },
-        {
-          "command": "opsAgentTree.stopSubagent",
-          "when": "view == opsAgentTree && viewItem == subagent.running",
-          "group": "2_run@1"
-        },
-        {
-          "command": "opsAgentTree.copySeatName",
-          "when": "view == opsAgentTree && viewItem =~ /^seat\\./",
-          "group": "6_copypath@1"
-        },
+        { "command": "opsAgentTree.runStop", "when": "view == opsAgentTree && viewItem =~ /^seat\\.running\\./", "group": "2_run@1" },
+        { "command": "opsAgentTree.runResume", "when": "view == opsAgentTree && viewItem =~ /^seat\\.stopped\\./", "group": "2_run@1" },
+        { "command": "opsAgentTree.runReset", "when": "view == opsAgentTree && viewItem =~ /^seat\\./", "group": "2_run@2" },
+        { "command": "opsAgentTree.stopSubagent", "when": "view == opsAgentTree && viewItem == subagent.running", "group": "2_run@1" },
+        { "command": "opsAgentTree.copySeatName", "when": "view == opsAgentTree && viewItem =~ /^seat\\./", "group": "6_copypath@1" },
         { "command": "opsAgentTree.openPage", "when": "view == opsAgentTree", "group": "0_open@1" },
-        {
-          "command": "opsWorkTree.deleteIntent",
-          "when": "view == opsWorkTree && viewItem == intent",
-          "group": "7_modification@1"
-        },
-        {
-          "command": "opsWorkTree.deleteInitiative",
-          "when": "view == opsWorkTree && viewItem == initiative",
-          "group": "7_modification@1"
-        },
-        {
-          "command": "opsWorkTree.assign",
-          "when": "view == opsWorkTree && viewItem == initiative",
-          "group": "2_run@1"
-        }
+        { "command": "opsWorkTree.deleteIntent", "when": "view == opsWorkTree && viewItem == intent", "group": "7_modification@1" },
+        { "command": "opsWorkTree.deleteInitiative", "when": "view == opsWorkTree && viewItem == initiative", "group": "7_modification@1" },
+        { "command": "opsWorkTree.assign", "when": "view == opsWorkTree && viewItem == initiative", "group": "2_run@1" },
+        { "command": "opsFindingTree.deleteFinding", "when": "view == opsFindingTree && viewItem == finding", "group": "7_modification@1" },
+        { "command": "opsGapTree.deleteGap", "when": "view == opsGapTree && viewItem == gap", "group": "7_modification@1" }
       ],
       "editor/title/context/replace": [
-        {
-          "command": "opsAgentTree.runStop",
-          "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabsRunning",
-          "group": "2_run@1"
-        },
-        {
-          "command": "opsAgentTree.runResume",
-          "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabsStopped",
-          "group": "2_run@1"
-        },
-        {
-          "command": "opsAgentTree.runReset",
-          "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabs",
-          "group": "2_run@2"
-        },
-        {
-          "command": "opsAgentTree.copySeatName",
-          "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabs",
-          "group": "6_copypath@1"
-        }
+        { "command": "opsAgentTree.runStop", "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabsRunning", "group": "2_run@1" },
+        { "command": "opsAgentTree.runResume", "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabsStopped", "group": "2_run@1" },
+        { "command": "opsAgentTree.runReset", "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabs", "group": "2_run@2" },
+        { "command": "opsAgentTree.copySeatName", "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabs", "group": "6_copypath@1" }
       ]
     },
     "colors": [
-      {
-        "id": "ops.color.blue",
-        "description": "The gemstone blue the design names, drawn on a row whose turn state names it.",
-        "defaults": {
-          "dark": "#2c5a9d",
-          "light": "#2c5a9d",
-          "highContrast": "#2c5a9d",
-          "highContrastLight": "#2c5a9d"
-        }
-      },
-      {
-        "id": "ops.color.green",
-        "description": "The gemstone green the design names, drawn on a row whose turn state names it.",
-        "defaults": {
-          "dark": "#2d8c57",
-          "light": "#2d8c57",
-          "highContrast": "#2d8c57",
-          "highContrastLight": "#2d8c57"
-        }
-      },
-      {
-        "id": "ops.color.orange",
-        "description": "The gemstone orange the design names, drawn on a row whose turn state names it.",
-        "defaults": {
-          "dark": "#be5a0a",
-          "light": "#be5a0a",
-          "highContrast": "#be5a0a",
-          "highContrastLight": "#be5a0a"
-        }
-      },
-      {
-        "id": "ops.color.purple",
-        "description": "The gemstone purple the design names, drawn on a row whose turn state names it.",
-        "defaults": {
-          "dark": "#7c4ca3",
-          "light": "#7c4ca3",
-          "highContrast": "#7c4ca3",
-          "highContrastLight": "#7c4ca3"
-        }
-      },
-      {
-        "id": "ops.color.red",
-        "description": "The gemstone red the design names, drawn on a row whose turn state names it.",
-        "defaults": {
-          "dark": "#a51c32",
-          "light": "#a51c32",
-          "highContrast": "#a51c32",
-          "highContrastLight": "#a51c32"
-        }
-      },
-      {
-        "id": "ops.color.text",
-        "description": "The chalk grey the design names, drawn on a row whose turn state names it.",
-        "defaults": {
-          "dark": "#d7d7d7",
-          "light": "#d7d7d7",
-          "highContrast": "#d7d7d7",
-          "highContrastLight": "#d7d7d7"
-        }
-      },
-      {
-        "id": "ops.color.yellow",
-        "description": "The gemstone yellow the design names, drawn on a row whose turn state names it.",
-        "defaults": {
-          "dark": "#b87b11",
-          "light": "#b87b11",
-          "highContrast": "#b87b11",
-          "highContrastLight": "#b87b11"
-        }
-      }
+      { "id": "ops.color.blue", "description": "The gemstone blue the design names, drawn on a row whose turn state names it.", "defaults": { "dark": "#2c5a9d", "light": "#2c5a9d", "highContrast": "#2c5a9d", "highContrastLight": "#2c5a9d" } },
+      { "id": "ops.color.green", "description": "The gemstone green the design names, drawn on a row whose turn state names it.", "defaults": { "dark": "#2d8c57", "light": "#2d8c57", "highContrast": "#2d8c57", "highContrastLight": "#2d8c57" } },
+      { "id": "ops.color.orange", "description": "The gemstone orange the design names, drawn on a row whose turn state names it.", "defaults": { "dark": "#be5a0a", "light": "#be5a0a", "highContrast": "#be5a0a", "highContrastLight": "#be5a0a" } },
+      { "id": "ops.color.purple", "description": "The gemstone purple the design names, drawn on a row whose turn state names it.", "defaults": { "dark": "#7c4ca3", "light": "#7c4ca3", "highContrast": "#7c4ca3", "highContrastLight": "#7c4ca3" } },
+      { "id": "ops.color.red", "description": "The gemstone red the design names, drawn on a row whose turn state names it.", "defaults": { "dark": "#a51c32", "light": "#a51c32", "highContrast": "#a51c32", "highContrastLight": "#a51c32" } },
+      { "id": "ops.color.text", "description": "The chalk grey the design names, drawn on a row whose turn state names it.", "defaults": { "dark": "#d7d7d7", "light": "#d7d7d7", "highContrast": "#d7d7d7", "highContrastLight": "#d7d7d7" } },
+      { "id": "ops.color.yellow", "description": "The gemstone yellow the design names, drawn on a row whose turn state names it.", "defaults": { "dark": "#b87b11", "light": "#b87b11", "highContrast": "#b87b11", "highContrastLight": "#b87b11" } }
     ]
   },
   "dependencies": {

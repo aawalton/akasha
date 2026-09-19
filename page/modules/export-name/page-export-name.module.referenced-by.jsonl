@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"code/editor/extension/modules/transcript-sources/transcript-sources.module.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"code/editor/extension/modules/transcript-sources/transcript-sources.module.test.ts"}
+{"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"code/editor/extension/modules/tree-row-deleting/tree-row-deleting.module.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"code/editor/extension/modules/work-tree-dragging/work-tree-dragging.module.code.ts"}

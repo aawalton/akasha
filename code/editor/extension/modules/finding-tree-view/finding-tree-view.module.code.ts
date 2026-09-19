@@ -11,6 +11,10 @@ const NO_DOCUMENT = "this row opens no document"
 
 const ONE = "1 finding beneath"
 
+const FINDING = "finding"
+
+const DOMAIN = "domain"
+
 export interface FindingTreeView {
   readonly provider: vscode.TreeDataProvider<FindingTreeRow>
   readonly replace: (roots: readonly FindingTreeRow[]) => undefined
@@ -97,6 +101,7 @@ function buildTreeItem(
   )
   item.id = filtering ? `filtered:${element.key}` : element.key
   item.count = element.findings === 0 ? undefined : element.findings
+  item.contextValue = element.findings === 0 ? FINDING : DOMAIN
   item.tooltip = [
     element.label,
     element.findings === 0 ? element.key : beneath(element.findings),

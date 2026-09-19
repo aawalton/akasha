@@ -4,12 +4,14 @@ import {
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
 import {
+  DELETE_COMMAND,
   REFRESH_COMMAND,
   VIEW_ID,
 } from "akasha/code/editor/extension/modules/finding-tree-ids/finding-tree-ids.module.code.ts"
 import { createFindingTree } from "akasha/code/editor/extension/modules/finding-tree-view/finding-tree-view.module.code.ts"
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
+import { deletingFinding } from "akasha/code/editor/extension/modules/tree-row-deleting/tree-row-deleting.module.code.ts"
 import * as vscode from "vscode"
 
 const FEATURE = "finding-tree"
@@ -124,7 +126,13 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       tree.filter(pattern)
       describe()
     }),
-    vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual"))
+    vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual")),
+    vscode.commands.registerCommand(DELETE_COMMAND, (row?: FindingTreeRow) =>
+      deletingFinding(vscode, (line) => {
+        output.appendLine(line)
+        return undefined
+      })(row)
+    )
   )
   return undefined
 }

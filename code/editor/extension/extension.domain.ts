@@ -93,6 +93,7 @@ export const extension = {
     "module/transcript-view",
     "module/tree-description",
     "module/tree-filter",
+    "module/tree-row-deleting",
     "module/turn-color-scheme",
     "module/window-identity",
     "module/work-tree-assigning",

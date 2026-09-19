@@ -197,6 +197,7 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/harness-call/harness-call.module.ts","id":"01a064f0-734d-7459-91b7-33e6eb60021d"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-terminal-open-line/seat-terminal-open-line.module.ts","id":"01a09c58-2398-7392-b878-1c1491cab780"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/subagent-checkpoints/subagent-checkpoints.module.ts","id":"01a0686b-bfe9-752c-8f69-90fe541e5755"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/modules/tree-row-deleting/tree-row-deleting.module.ts","id":"01a0b7a0-c25d-7519-bec2-00ac51718008"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/vscode-stub/vscode-stub.javascript-module.ts","id":"01a06957-955c-7cf6-9b2b-b7ef62ac9c75"}
 {"propertySlug":"decision-kind","path":"code/eso-interface/properties/loaded-as.text-property.ts","id":"01a061c5-760e-7c2b-8bed-7804c4b4226d"}
 {"propertySlug":"decision-kind","path":"code/file-kind-domain/file-kind-domain.page-type.ts","id":"01a06837-0535-70c2-9917-d332b4b6a505"}

@@ -888,6 +888,7 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/transcript-view/transcript-view.module.ts","id":"01a06811-01d3-7003-a56a-b2779b494581"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/tree-description/tree-description.module.ts","id":"01a081eb-4c68-74d1-b315-5777eb9c2046"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/tree-filter/tree-filter.module.ts","id":"01a064d3-f9f9-789e-ad63-cd6848c691b2"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/modules/tree-row-deleting/tree-row-deleting.module.ts","id":"01a0b7a0-c25d-7519-bec2-00ac51718008"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.ts","id":"01a0680b-7175-7000-bad0-dd03b18ea236"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/window-identity/window-identity.module.ts","id":"01a064e4-627c-7ce5-80a9-ec7e71522da3"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.ts","id":"01a0a582-5ba1-718f-b298-f2395686421a"}

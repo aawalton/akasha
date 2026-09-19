@@ -11,6 +11,10 @@ const NO_DOCUMENT = "this row opens no document"
 
 const ONE = "1 gap beneath"
 
+const GAP = "gap"
+
+const DOMAIN = "domain"
+
 export interface GapTreeView {
   readonly provider: vscode.TreeDataProvider<GapTreeRow>
   readonly replace: (roots: readonly GapTreeRow[]) => undefined
@@ -97,6 +101,7 @@ function buildTreeItem(
   )
   item.id = filtering ? `filtered:${element.key}` : element.key
   item.count = element.gaps === 0 ? undefined : element.gaps
+  item.contextValue = element.gaps === 0 ? GAP : DOMAIN
   item.tooltip = [
     element.label,
     element.gaps === 0 ? element.key : beneath(element.gaps),
