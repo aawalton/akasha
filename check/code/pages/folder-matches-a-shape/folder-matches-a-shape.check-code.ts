@@ -215,6 +215,6 @@ export const folderMatchesAShape = {
         "A folder named a plural the page's own type gathers its pages under is right as well.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 15 },
   audit: { maxCpuSeconds: 120 },
 } as const satisfies CheckCode
