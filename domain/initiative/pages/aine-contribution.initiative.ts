@@ -46,6 +46,7 @@ export const aineContribution = {
       workingMemory:
         "Ko-fi reports no cancellation, refund or chargeback, and says so itself. Stripe does, because Alan is the merchant rather than Ko-fi.",
     },
+    { statement: "An account newly made holds a hundred contribution points." },
   ],
   constraints: [
     "Nothing Alan makes is held back from anyone; backing buys weight in what Alan builds next and nothing else.",
