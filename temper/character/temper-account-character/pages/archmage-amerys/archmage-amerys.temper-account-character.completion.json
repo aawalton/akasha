@@ -9,7 +9,7 @@
   "className": "Sorcerer",
   "classIcon": "/esoui/art/icons/class/class_sorcerer.dds",
   "companionRapport": {
-    "6": 4296
+    "6": 4301
   },
   "quests": [
     465,
@@ -12846,7 +12846,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-15"
+    "date": "2026-09-18"
   },
   "dailyWritStates": {
     "completed": {
@@ -12867,7 +12867,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-15"
+    "date": "2026-09-18"
   },
   "motifKnowledge": {
     "1": {
