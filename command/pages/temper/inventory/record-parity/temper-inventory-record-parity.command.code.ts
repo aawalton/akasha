@@ -47,6 +47,7 @@ export interface StackReading {
   readonly itemName: string
   readonly recorded: Verdict
   readonly fresh: Verdict
+  readonly resolvedAt?: number
 }
 
 export interface RecordParityRow {
@@ -56,6 +57,22 @@ export interface RecordParityRow {
   readonly recorded: Verdict
   readonly fresh: Verdict
   readonly differing: readonly string[]
+  readonly resolvedAt?: number
+}
+
+const MS_PER_SECOND = 1000
+
+const WHEN_UNRECORDED = "when is not recorded"
+
+export function resolvedAtSaid(seconds: number | undefined): string {
+  if (seconds === undefined) return WHEN_UNRECORDED
+  return new Date(seconds * MS_PER_SECOND).toISOString()
+}
+
+function newerOf(one: number | undefined, two: number | undefined): number | undefined {
+  if (one === undefined) return two
+  if (two === undefined) return one
+  return one > two ? one : two
 }
 
 export function rowsFrom(readings: readonly StackReading[]): readonly RecordParityRow[] {
@@ -73,10 +90,16 @@ export function rowsFrom(readings: readonly StackReading[]): readonly RecordPari
         recorded: one.recorded,
         fresh: one.fresh,
         differing,
+        ...(one.resolvedAt === undefined ? {} : { resolvedAt: one.resolvedAt }),
       })
       continue
     }
-    byPair.set(key, { ...held, stacks: held.stacks + 1 })
+    const resolvedAt = newerOf(held.resolvedAt, one.resolvedAt)
+    byPair.set(key, {
+      ...held,
+      stacks: held.stacks + 1,
+      ...(resolvedAt === undefined ? {} : { resolvedAt }),
+    })
   }
   return [...byPair.values()].sort((one, two) =>
     one.itemId === two.itemId ? two.stacks - one.stacks : one.itemId - two.itemId
@@ -134,7 +157,7 @@ export function rowsSaid(
       const stacks = one.stacks === 1 ? "1 stack" : `${String(one.stacks)} stacks`
       return (
         `  ${one.itemName} (${String(one.itemId)}) over ${stacks}   ${one.differing.join(", ")}\n` +
-        `    recorded  ${verdictSaid(one.recorded)}\n` +
+        `    recorded  ${verdictSaid(one.recorded)}  (resolved ${resolvedAtSaid(one.resolvedAt)})\n` +
         `    fresh     ${verdictSaid(one.fresh)}`
       )
     }),
@@ -246,6 +269,7 @@ export async function temperInventoryRecordParity(
         itemName: one.item.itemName,
         recorded,
         fresh: freshVerdictFor(one.item, factsOf(one), inputs),
+        ...(one.item.resolvedAt === undefined ? {} : { resolvedAt: one.item.resolvedAt }),
       })
     }
 

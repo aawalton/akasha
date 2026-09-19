@@ -62,6 +62,16 @@ export const temperInventoryRecordParity = {
       decisionKind: "decision-kind/departure",
       statement: "What that code says is what was found rather than what shape the answer took.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A row says when its record was resolved, taking the newest over the stacks it gathers.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A record written before the addon stamped its verdicts says when is not recorded.",
+    },
   ],
   name: "record-parity",
   arguments: [

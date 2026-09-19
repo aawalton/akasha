@@ -5,6 +5,7 @@ import {
   answerFor,
   coverageSaid,
   type RecordParityJson,
+  resolvedAtSaid,
   rowsFrom,
   rowsSaid,
   type StackReading,
@@ -60,6 +61,26 @@ test("stacks of one item disagreeing the same way are gathered into one row", ()
 
 test("an item the record and the fresh reading agree on raises no row", () => {
   expect(rowsFrom([reading(STOCKED, STOCKED)])).toHaveLength(0)
+})
+
+test("a row carries the newest resolving time of the stacks gathered into it", () => {
+  const older = { ...reading(STOCKED, SOLD), resolvedAt: 1789500924 }
+  const newer = { ...reading(STOCKED, SOLD), resolvedAt: 1789786678 }
+  const rows = rowsFrom([older, newer])
+  expect(rows).toHaveLength(1)
+  expect(rows[0]?.resolvedAt).toBe(1789786678)
+  expect(rowsSaid(rows, 1).join("\n")).toContain(`(resolved ${resolvedAtSaid(1789786678)})`)
+})
+
+test("a resolving time is said as the instant the rules reached that verdict", () => {
+  expect(resolvedAtSaid(1789786678)).toBe("2026-09-19T02:57:58.000Z")
+})
+
+test("a record whose resolving time the capture never held says so rather than reading as now", () => {
+  const rows = rowsFrom([reading(STOCKED, SOLD)])
+  expect(rows[0]?.resolvedAt).toBeUndefined()
+  expect(resolvedAtSaid(undefined)).toBe("when is not recorded")
+  expect(rowsSaid(rows, 1).join("\n")).toContain("(resolved when is not recorded)")
 })
 
 test("a run finding nothing says the two agree rather than answering empty", () => {
