@@ -13,6 +13,7 @@ import {
   type Filing,
   songForTrack,
 } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
+import { trackTypeFor } from "akasha/alan/music/catalog/modules/track-typing/track-typing.module.code.ts"
 import {
   type AlbumTrack,
   type AlbumWithTracks,
@@ -92,6 +93,7 @@ export function trackValues(args: {
     ...(args.was["ownProgress"] === undefined ? { ownProgress: 0 } : {}),
     ...(args.song === null ? {} : { song: `${SONG}/${args.song}` }),
     title: args.track.name,
+    trackType: trackTypeFor(args.track.name),
     trackKey: trackKeyFor(args.track),
     partOfCollections: [`${RELEASE}/${args.releaseSlug}`],
     position: args.track.track_number,

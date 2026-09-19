@@ -80,5 +80,9 @@ export const trackSyncing = {
       decisionKind: "decision-kind/departure",
       statement: "A track under an artist who has no page names no song.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track states the kind of recording its own title says it is.",
+    },
   ],
 } as const satisfies Module
