@@ -40,13 +40,8 @@ export const seatReviving = {
       statement: "The ask a seat holds keeps no time of its own.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Something reads which seats hold an untaken ask under no live supervisor.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A seat found that way is revived rather than left with a pane held open and no process.",
+      decisionKind: "decision-kind/absence",
+      statement: "No seat is revived unless it is asked for.",
     },
     {
       decisionKind: "decision-kind/departure",

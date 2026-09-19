@@ -168,6 +168,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/properties/turn-working.record-property.ts","id":"01a06c75-5eab-7ec2-b8c4-b25cdb0803ce"}
 {"propertySlug":"decision-kind","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.ts","id":"01a0a502-1586-777f-84c7-0d2a1f147ede"}
 {"propertySlug":"decision-kind","path":"agent/seat/reviving/modules/seat-revive-verify-signal/seat-revive-verify-signal.module.ts","id":"01a0686d-9d5e-700e-98bf-06b7ad829d40"}
+{"propertySlug":"decision-kind","path":"agent/seat/reviving/seat-reviving.domain.ts","id":"01a09c38-82db-7a28-8f18-09c4621a8dce"}
 {"propertySlug":"decision-kind","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"decision-kind","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.ts","id":"01a071f5-4e4d-79a8-aff6-911818ba3e7e"}
 {"propertySlug":"decision-kind","path":"agent/seat/stopping/seat-stopping.module.ts","id":"01a05d02-889b-7880-9ab9-c72cdc79dc5c"}

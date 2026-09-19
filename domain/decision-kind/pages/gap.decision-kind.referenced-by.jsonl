@@ -80,7 +80,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/page/modules/beat/seat-page-beat.module.ts","id":"01a0692a-1110-7af0-a99e-53fc742d08aa"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/registration-account.text-property.ts","id":"01a05397-7f9b-783b-b5ec-f0b163957fdf"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/start-mode.text-property.ts","id":"01a05395-58a5-760f-a464-178f4d4ebb97"}
-{"propertySlug":"decision-kind","path":"agent/seat/reviving/seat-reviving.domain.ts","id":"01a09c38-82db-7a28-8f18-09c4621a8dce"}
 {"propertySlug":"decision-kind","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"decision-kind","path":"agent/seat/service-workstations/recipient-resolver/recipient-resolver.service-workstation.ts","id":"01a06829-0194-7fa2-a0e7-92e073ef2d21"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.ts","id":"01a0687b-aa81-7000-ada8-b1a18075e043"}
