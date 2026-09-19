@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-change-runs-only-the-tests-beside-the-files-it-carries-so-a-shared-fixture-goes-stale-unseen.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-change-to-a-generator-cannot-land-beside-the-file-that-generator-writes.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-check-fastened-to-a-commit-still-reads-six-index-no-commit-holds.finding.ts"}
+{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-check-killed-at-twice-its-ceiling-is-lost-from-every-round-that-follows.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-check-measures-with-the-harness-it-loaded-rather-than-the-one-it-judges.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-check-taken-out-of-service-reads-exactly-as-one-that-never-judged.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-check-that-could-not-run-is-counted-as-a-refusal-in-its-own-cost-log.finding.ts"}
