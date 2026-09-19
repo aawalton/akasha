@@ -5,7 +5,6 @@ import {
   checksFor,
   checksIn,
   judgingBy,
-  ranOver,
 } from "akasha/check/modules/checking/checking.module.code.ts"
 import {
   ADMITS,
@@ -21,10 +20,8 @@ import {
   checkAt,
   checkCodeAt,
   checksTakenFrom,
-  costing,
   EXPERIMENTAL_CHECKS,
   everyIn,
-  GATHERED,
   GONE_TS,
   gateTaking,
   HELD_CODE_AT,
@@ -311,31 +308,6 @@ test("a check over its ceiling refuses, and the refusal names the check's own pa
 
 test("a check at deploy is held to the audit group's ceiling rather than the check group's", async () => {
   expect(await judgedIn(BURNS_AT_DEPLOY, [ONE_TS], [ONE_TS], "deploy")).toEqual([])
-})
-
-test("a check at its ceiling refuses nothing, and one over it names its own page", () => {
-  const one = { ...GATHERED, checkCeiling: 1 }
-  expect(ranOver(one, "check", costing(0.6, 0.4))).toBe(null)
-  const said = ranOver(one, "check", costing(1.2, 0))
-  expect(said?.path).toBe(checkAt(BURNS))
-  expect(said?.reason).toContain("spent 1.2 processor seconds judging this change, over the 1")
-})
-
-test("the time counted is the check's own together with what the check spawns", () => {
-  const one = { ...GATHERED, checkCeiling: 1 }
-  expect(ranOver(one, "check", costing(0.9, 0.05))).toBe(null)
-  expect(ranOver(one, "check", costing(0.05, 1.5))?.reason).toContain("spent 1.55 processor")
-})
-
-test("a group stating no ceiling refuses nothing however long its check runs", () => {
-  expect(ranOver(GATHERED, "check", costing(600, 600))).toBe(null)
-  expect(ranOver({ ...GATHERED, checkCeiling: null }, "check", costing(600, 600))).toBe(null)
-})
-
-test("the group whose code ran decides which group states the ceiling", () => {
-  const one = { ...GATHERED, checkCeiling: 9, auditCeiling: 1 }
-  expect(ranOver(one, "check", costing(2, 0))).toBe(null)
-  expect(ranOver(one, "audit", costing(2, 0))?.reason).toContain("over the 1 its page states")
 })
 
 test("a run over some of the files is held by the check group though its phase is audit", async () => {

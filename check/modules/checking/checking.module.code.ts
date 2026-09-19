@@ -11,7 +11,6 @@ import {
   takenIn,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import {
-  type Cost,
   closing,
   costOf,
   opening,
@@ -31,7 +30,11 @@ import {
   diesIn,
   sparingOver,
 } from "akasha/check/modules/mortal-sparing/mortal-sparing.module.code.ts"
-import { refusalText } from "akasha/check/modules/refusal-text/refusal-text.module.code.ts"
+import {
+  AUDIT_GROUP,
+  CHECK_GROUP,
+  ranOver,
+} from "akasha/check/modules/run-ceiling/run-ceiling.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { framesOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
@@ -77,12 +80,6 @@ const TS = "ts"
 const MAX_CPU = "maxCpuSeconds"
 
 const MAX_MEMORY = "maxMemoryMb"
-
-const CHECK_GROUP = "check"
-
-const AUDIT_GROUP = "audit"
-
-const OVER_CEILING = "check-over-its-ceiling"
 
 const LOGS = "logs"
 
@@ -144,21 +141,6 @@ function ceilingIn(stated: Record<string, unknown>, group: string, named: string
 function logsUnder(one: Gathered, group: string): string | undefined {
   const code = one.code ?? null
   return code === null ? undefined : `${group}.${LOGS}`
-}
-
-export function ranOver(one: Gathered, group: string, cost: Cost): Judged | null {
-  const ceiling = group === AUDIT_GROUP ? one.auditCeiling : one.checkCeiling
-  if (ceiling === undefined || ceiling === null) return null
-  const spent = Number((cost.cpuSeconds + cost.childCpuSeconds).toFixed(3))
-  if (spent <= ceiling) return null
-  return {
-    path: one.page,
-    reason: refusalText(OVER_CEILING, {
-      slug: one.slug,
-      spent: String(spent),
-      ceiling: String(ceiling),
-    }),
-  }
 }
 
 function inputIn(run: AnyRunning): Input | null {

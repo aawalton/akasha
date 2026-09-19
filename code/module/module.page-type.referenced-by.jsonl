@@ -958,6 +958,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/refusal-holding/refusal-holding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/refusal-text/refusal-text.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/router-app-code/router-app-code.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/run-ceiling/run-ceiling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/shape-saying/shape-saying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/test/modules/dom-guard-setting/dom-guard-setting.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/test/modules/dom-guarding/dom-guarding.module.ts"}

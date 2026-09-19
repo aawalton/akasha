@@ -1,0 +1,41 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const runCeiling = {
+  id: "01a0b7dd-0d08-70b9-a763-fcce5982f703",
+  type: "page-type/module",
+  slug: "run-ceiling",
+  definition: "what a run was allowed to spend, and what a run spending over that answers",
+  code: "ts",
+  test: "ts",
+  testFixtures: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run is read against the ceiling of the group the caller names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The seconds counted are the run's own together with the seconds the run spawned.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run at its ceiling is under that ceiling.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A group stating no ceiling answers nothing however long its run took.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer names the page of the check that ran.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A check reaches here as its slug, its page and its ceilings rather than whole.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here runs a check, measures a run or stops one part way through.",
+    },
+  ],
+} as const satisfies Module

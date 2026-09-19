@@ -7,8 +7,9 @@
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/audit-verdict/audit-verdict.module.code.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/audit-verdict/audit-verdict.module.test.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/checking/checking.module.code.ts"}
-{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/checking/checking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/cost/check-cost.module.test.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/run-ceiling/run-ceiling.module.code.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/run-ceiling/run-ceiling.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"command/modules/calling/calling.module.code.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"command/modules/change-ceiling/change-ceiling.module.code.ts"}

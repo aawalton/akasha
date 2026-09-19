@@ -787,6 +787,7 @@
 {"propertySlug":"decision-kind","path":"check/modules/model-running/model-running.module.ts","id":"01a05a43-f8db-7c07-80be-5c8b8867ea70"}
 {"propertySlug":"decision-kind","path":"check/modules/refusal-holding/refusal-holding.module.ts","id":"01a09262-8dcd-7000-9ba4-db03acc57a04"}
 {"propertySlug":"decision-kind","path":"check/modules/router-app-code/router-app-code.module.ts","id":"01a08e07-d3c0-7687-a361-081c6e367ee5"}
+{"propertySlug":"decision-kind","path":"check/modules/run-ceiling/run-ceiling.module.ts","id":"01a0b7dd-0d08-70b9-a763-fcce5982f703"}
 {"propertySlug":"decision-kind","path":"check/service-workstations/audit-running/audit-running.service-workstation.ts","id":"01a091e9-689c-7002-afcc-8b73def2b8f9"}
 {"propertySlug":"decision-kind","path":"check/test-fixtures/scratch/check-scratch.test-fixture.ts","id":"01a04fd0-8a9a-7915-a355-32d5432a7f11"}
 {"propertySlug":"decision-kind","path":"check/test-fixtures/staging/check-staging.test-fixture.ts","id":"01a08e16-827d-7f4d-bb26-5724ed027608"}

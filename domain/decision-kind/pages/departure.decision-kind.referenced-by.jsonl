@@ -1539,6 +1539,7 @@
 {"propertySlug":"decision-kind","path":"check/modules/refusal-holding/refusal-holding.module.ts","id":"01a09262-8dcd-7000-9ba4-db03acc57a04"}
 {"propertySlug":"decision-kind","path":"check/modules/refusal-text/refusal-text.module.ts","id":"01a06895-1cfe-7000-918a-9e999d062e47"}
 {"propertySlug":"decision-kind","path":"check/modules/router-app-code/router-app-code.module.ts","id":"01a08e07-d3c0-7687-a361-081c6e367ee5"}
+{"propertySlug":"decision-kind","path":"check/modules/run-ceiling/run-ceiling.module.ts","id":"01a0b7dd-0d08-70b9-a763-fcce5982f703"}
 {"propertySlug":"decision-kind","path":"check/modules/shape-saying/shape-saying.module.ts","id":"01a04f44-705b-70b6-8537-9f2a66b2b56a"}
 {"propertySlug":"decision-kind","path":"check/refusal/properties/refusal-text.text-property.ts","id":"01a0699d-4001-7b32-8d47-5e19c4a7f003"}
 {"propertySlug":"decision-kind","path":"check/refusal/refusal.page-type.ts","id":"01a0699d-4000-7a11-9c02-3f61b0d24e77"}

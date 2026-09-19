@@ -28,6 +28,7 @@ export const check = {
     "module/refusal-holding",
     "module/refusal-text",
     "module/router-app-code",
+    "module/run-ceiling",
     "module/shape-saying",
     "page-type/check-code",
     "page-type/check-model",

@@ -9,7 +9,6 @@ import {
   judgingBy,
   type Phase,
 } from "akasha/check/modules/checking/checking.module.code.ts"
-import type { Cost } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Judged, Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
@@ -324,36 +323,6 @@ export const BURNS_AT_AUDIT = [
   },
 ]
 
-export const GATHERED: Gathered = {
-  slug: BURNS,
-  page: checkAt(BURNS),
-  root: ROOT,
-  runsOn: ["change"],
-  isInput: null,
-  run: () => [],
-}
-
-export function costing(own: number, child: number): Cost {
-  return {
-    runId: "one",
-    ranAt: "",
-    phase: "change",
-    ran: BURNS,
-    wallMs: 0,
-    cpuSeconds: own,
-    childCpuSeconds: child,
-    peakBytes: 0,
-    residentBeforeBytes: 0,
-    peakAddedBytes: 0,
-    peakMeasured: true,
-    readCalls: 0,
-    writeCalls: 0,
-    readBytes: 0,
-    pathsChanged: 1,
-    refusals: 0,
-  }
-}
-
 export function checkAt(slug: string): string {
   return `akasha/checks-system/check-code/${slug}/${slug}.${CHECK}.ts`
 }
@@ -432,8 +401,11 @@ export async function unworked(): Promise<string> {
   const root = rootHolding(ADMITS_CHECK, [ONE_TS])
   let ran = false
   const one: Gathered = {
-    ...GATHERED,
+    slug: BURNS,
+    page: checkAt(BURNS),
     root,
+    runsOn: ["change"],
+    isInput: null,
     run: () => {
       ran = true
       return []

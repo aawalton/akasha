@@ -188,6 +188,7 @@
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/modules/model-running/model-running.module.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/modules/mortal-sparing/mortal-sparing.module.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/modules/mortal-sparing/mortal-sparing.module.test.ts"}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/modules/run-ceiling/run-ceiling.module.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"command/modules/applying/applying.module.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"command/modules/change-freshness/change-freshness.module.test.ts"}
