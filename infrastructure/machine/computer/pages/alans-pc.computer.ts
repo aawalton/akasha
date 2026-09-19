@@ -20,7 +20,7 @@ export const alansPc = {
   computerModel: "R2 AI B2NVV9-1411US",
   operatingSystem: "windows-11-home",
   purchaseDate: "2025-05-13",
-  ram: "64gb",
+  ram: "128gb",
   ssd: 2000,
   computerStatus: "active",
 } as const satisfies Computer
