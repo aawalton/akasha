@@ -125,21 +125,10 @@ function heldOnce<T>(asked: () => T): () => T {
   }
 }
 
-function heldPerName<T>(asked: (named: string) => T): (named: string) => T {
-  const held = new Map<string, T>()
-  return (named) => {
-    const found = held.get(named)
-    if (found !== undefined) return found
-    const made = asked(named)
-    held.set(named, made)
-    return made
-  }
-}
-
 export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
   return {
     carriedIn: (value, declaredBy) => carriedIn(value, reading, declaredBy),
-    carryingOf: heldPerName((named) => carryingOf(reading, named)),
+    carryingOf: (named) => carryingOf(reading, named),
     declarationsOf: (pageTypeSlug) => declarationsOf(pageTypeSlug, reading, pageOf),
     declaringOf: (id) => declaringOf(reading, id),
     entryShapesAt: heldOnce(() => entryShapesAt(reading)),
