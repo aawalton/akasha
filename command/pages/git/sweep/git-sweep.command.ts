@@ -18,7 +18,7 @@ export const gitSweep = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run reports what the run would take and takes nothing.",
+      statement: "`--plan` reports what the run would take and takes nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -58,5 +58,5 @@ export const gitSweep = {
     },
   ],
   name: "sweep",
-  arguments: [{ argument: "argument/dry-run" }],
+  arguments: [{ argument: "argument/plan" }],
 } as const satisfies Command

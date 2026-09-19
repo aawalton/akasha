@@ -46,8 +46,8 @@ test("a flag this does not take is refused by name", async () => {
   expect(answer.refusals[0]).toContain("`--apply`")
 })
 
-test("a dry run asks systemd nothing and plans no unit written or enabled", async () => {
-  const answer = await infrastructureServiceSweep(["--dry-run"], HERE)
+test("a planning run asks systemd nothing and plans no unit written or enabled", async () => {
+  const answer = await infrastructureServiceSweep(["--plan"], HERE)
   expect(answer.code).toBe(0)
   expect(answer.refusals).toEqual([])
   for (const line of answer.report) expect(line).not.toContain("write\t")
@@ -55,9 +55,9 @@ test("a dry run asks systemd nothing and plans no unit written or enabled", asyn
 })
 
 test("of each unit it says only that it is to be removed or that it is stranded", async () => {
-  const answer = await infrastructureServiceSweep(["--dry-run"], HERE)
+  const answer = await infrastructureServiceSweep(["--plan"], HERE)
   expect(answer.code).toBe(0)
-  const said = ["nothing\t", "remove\t", "stranded\t", "dry-run\t"]
+  const said = ["nothing\t", "remove\t", "stranded\t", "plan\t"]
   for (const line of answer.report) expect(said.some((one) => line.startsWith(one))).toBe(true)
 })
 

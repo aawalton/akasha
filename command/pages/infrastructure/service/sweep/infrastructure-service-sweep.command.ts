@@ -47,7 +47,7 @@ export const infrastructureServiceSweep = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run reports the same plan the run would carry out.",
+      statement: "`--plan` reports the same plan the run would carry out.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -70,5 +70,5 @@ export const infrastructureServiceSweep = {
       statement: "Nothing here is installed for the whole machine.",
     },
   ],
-  arguments: [{ argument: "argument/dry-run" }],
+  arguments: [{ argument: "argument/plan" }],
 } as const satisfies Command

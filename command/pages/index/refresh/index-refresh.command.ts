@@ -40,7 +40,7 @@ export const indexRefresh = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "`--dry-run` says the change the repair would make, writing no file and making no commit.",
+        "`--plan` says the change the repair would make, writing no file and making no commit.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -114,5 +114,5 @@ export const indexRefresh = {
     },
   ],
   name: "refresh",
-  arguments: [{ argument: "argument/dry-run" }],
+  arguments: [{ argument: "argument/plan" }],
 } as const satisfies Command

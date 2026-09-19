@@ -1,5 +1,5 @@
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+import { plan } from "akasha/command/argument/pages/plan.argument.ts"
 import {
   answeredWith,
   INPUT,
@@ -32,13 +32,13 @@ export function gitSweep(
   given: Given,
   sweeping: Sweeping = takingFrom
 ): Answer {
-  const read = takenFor(argv, given.calledAs, page, [dryRun])
+  const read = takenFor(argv, given.calledAs, page, [plan])
   if ("refused" in read) return refusedBy(read.refused, INPUT)
   const gitDir = gitDirIn(given.root)
   if (gitDir === null) return refused(NO_GIT_DIR, OPERATIONAL)
   const found = foundIn(gitDir).filter((one) => one.there)
   if (found.length === 0) return told([NOTHING])
-  if (read.taken.dryRun) return told(found.map((one) => `would take\t${one.at}`))
+  if (read.taken.plan) return told(found.map((one) => `would take\t${one.at}`))
   const said = sweeping(gitDir, found)
   const took = said.took.map((one) => `took\t${one}`)
   if (said.refusals.length === 0) return told(took)

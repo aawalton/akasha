@@ -18,7 +18,7 @@ export const gitPush = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "`--dry-run` reads how far ahead the branch is without reaching the remote.",
+      statement: "`--plan` reads how far ahead the branch is without reaching the remote.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -34,5 +34,5 @@ export const gitPush = {
     },
   ],
   name: "push",
-  arguments: [{ argument: "argument/dry-run" }],
+  arguments: [{ argument: "argument/plan" }],
 } as const satisfies Command

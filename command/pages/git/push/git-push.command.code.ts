@@ -1,5 +1,5 @@
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+import { plan } from "akasha/command/argument/pages/plan.argument.ts"
 import {
   INPUT,
   OPERATIONAL,
@@ -25,7 +25,7 @@ function aheadIn(root: string, remote: string, branch: string): string {
 }
 
 export function gitPush(argv: readonly string[], given: Given): Answer {
-  const read = takenFor(argv, given.calledAs, page, [dryRun])
+  const read = takenFor(argv, given.calledAs, page, [plan])
   if ("refused" in read) return refusedBy(read.refused, INPUT)
   const root = given.root
   const remote = remoteOf(root)
@@ -39,7 +39,7 @@ export function gitPush(argv: readonly string[], given: Given): Answer {
   if (branch === null) {
     return refused("`HEAD` is on no branch, so there is no branch to carry", OPERATIONAL)
   }
-  if (read.taken.dryRun) {
+  if (read.taken.plan) {
     return told([`${aheadIn(root, remote, branch)} would be carried to ${remote} (${branch})`])
   }
   const outcome = pushBranch(root)

@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
-import { dryRun as dryRunArgument } from "akasha/command/argument/pages/dry-run.argument.ts"
+import { plan as planArgument } from "akasha/command/argument/pages/plan.argument.ts"
 import {
   answeredWith,
   DATA,
@@ -128,7 +128,7 @@ function landed(root: string, said: Refreshed): string | null {
   return committed(root, bodies, taken, WROTE, null)
 }
 
-function refreshing(root: string, read: { dryRun: boolean }, done: string[]): Answer {
+function refreshing(root: string, read: { plan: boolean }, done: string[]): Answer {
   const tree = root
   if (!existsSync(join(tree, DOMAIN_AT))) {
     return refusing([`${root} holds no \`${DOMAIN_AT}\`, so there is no index to build`], DATA)
@@ -140,19 +140,19 @@ function refreshing(root: string, read: { dryRun: boolean }, done: string[]): An
       OPERATIONAL
     )
   }
-  const said = refreshedWhole(root, tree, !read.dryRun, done)
-  const commit = read.dryRun ? null : landed(root, said)
+  const said = refreshedWhole(root, tree, !read.plan, done)
+  const commit = read.plan ? null : landed(root, said)
   const report = [
     `the index was brought level with ${root} as it is, at ${head}`,
     `${counted(said.pages, "page")}, ${said.entries} entries, ${said.refused.length} refused`,
     ...driftSaid(said.drift),
   ]
   report.push(
-    read.dryRun
-      ? `nothing was put in place — ${dryRunArgument.said}`
+    read.plan
+      ? `nothing was put in place — ${planArgument.said}`
       : `${indexNamed()} was repaired in place, entry by entry`
   )
-  if (!read.dryRun) {
+  if (!read.plan) {
     report.push(commit === null ? NOTHING_HELD : `what git holds of it was committed at ${commit}`)
   }
   return answeredWith(
@@ -163,7 +163,7 @@ function refreshing(root: string, read: { dryRun: boolean }, done: string[]): An
 }
 
 export function indexRefresh(argv: readonly string[], given: Given): Answer {
-  const read = takenFor(argv, given.calledAs, page, [dryRunArgument])
+  const read = takenFor(argv, given.calledAs, page, [planArgument])
   if ("refused" in read) return mistaking([...committing(read.refused), ...read.refused])
   const taken = read.taken
   const root = resolve(given.root)
@@ -171,7 +171,7 @@ export function indexRefresh(argv: readonly string[], given: Given): Answer {
   try {
     return holding(root, () => refreshing(root, taken, done))
   } catch (thrown) {
-    if (taken.dryRun || done.length === 0) return refusing([whyOf(thrown)], OPERATIONAL)
+    if (taken.plan || done.length === 0) return refusing([whyOf(thrown)], OPERATIONAL)
     return refusedBy([whyOf(thrown), PART_WAY, `${BY_THEN} ${done.join("; ")}`], OPERATIONAL)
   }
 }

@@ -140,7 +140,7 @@ function headOf(root: string): string {
 
 const HELD_BY_GIT = ["status", "--porcelain"]
 
-const TAKES = "is no argument `akasha index refresh` takes — it takes `--dry-run`"
+const TAKES = "is no argument `akasha index refresh` takes — it takes `--plan`"
 
 test("the word the namespace already carries is no argument this takes", () => {
   const held = indexRefresh(["refresh"], givenAt("/nowhere"))
@@ -211,14 +211,14 @@ test("a worktree differing from HEAD is built over rather than refused", () => {
   expect(listedFiledIn(root, "domain", "b")).toBe(true)
 })
 
-test("`--dry-run` puts nothing in place", () => {
+test("`--plan` puts nothing in place", () => {
   const root = repoAt()
   seeded(root)
   listedTakenFrom(root, "domain", "a")
   const was = everythingFiled(root)
-  const answer = indexRefresh(["--dry-run"], givenAt(root))
+  const answer = indexRefresh(["--plan"], givenAt(root))
   expect(answer.code).toBe(OK)
-  expect(said(answer)).toContain("nothing was put in place — --dry-run")
+  expect(said(answer)).toContain("nothing was put in place — --plan")
   expect(said(answer)).toContain("the index differed from what the pages say")
   expect(everythingFiled(root)).toEqual(was)
 })
@@ -258,7 +258,7 @@ test("the files the index differed in are named rather than only counted", () =>
   const root = repoAt()
   seeded(root)
   listedUnreadableFiled(root, "domain", "gone")
-  const answer = indexRefresh(["--dry-run"], givenAt(root))
+  const answer = indexRefresh(["--plan"], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(said(answer)).toContain("taken away — ")
   expect(said(answer)).toContain(".jsonl")
@@ -272,7 +272,7 @@ test("the report counts the indexes a difference falls under beside the files it
   const root = repoAt()
   seeded(root)
   listedUnreadableFiled(root, "domain", "gone")
-  const answer = indexRefresh(["--dry-run"], givenAt(root))
+  const answer = indexRefresh(["--plan"], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(said(answer)).toMatch(/taken away — \S+ \d+ — /)
 })
@@ -345,12 +345,12 @@ test("a refresh takes away what git holds of an entry no page carries", () => {
   expect(git(root, HELD_BY_GIT)).toBe("")
 })
 
-test("`--dry-run` makes no commit", () => {
+test("`--plan` makes no commit", () => {
   const root = repoAt()
   seeded(root)
   const was = headOf(root)
 
-  expect(indexRefresh(["--dry-run"], givenAt(root)).code).toBe(OK)
+  expect(indexRefresh(["--plan"], givenAt(root)).code).toBe(OK)
 
   expect(headOf(root)).toBe(was)
 })

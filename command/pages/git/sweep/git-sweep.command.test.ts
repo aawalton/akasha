@@ -62,10 +62,10 @@ test("a store akasha keeps is left alone", () => {
   expect(existsSync(folder)).toBe(true)
 })
 
-test("a dry run says what would go and takes nothing", () => {
+test("a planning run says what would go and takes nothing", () => {
   const root = repo()
   const folder = filled(root, LEFT_AT)
-  const said = gitSweep(["--dry-run"], givenIn(root))
+  const said = gitSweep(["--plan"], givenIn(root))
   expect(said.code).toBe(0)
   expect(said.report.join("\n")).toContain(`would take\t${LEFT_AT}`)
   expect(existsSync(folder)).toBe(true)
@@ -77,13 +77,13 @@ test("a checkout with nothing left over says so", () => {
   expect(said.report.join("\n")).toContain("nothing akasha left")
 })
 
-test("an argument that is not the dry run is refused, and nothing is taken", () => {
+test("an argument that is not the plan is refused, and nothing is taken", () => {
   const root = repo()
   const folder = filled(root, LEFT_AT)
   const said = gitSweep(["--all"], givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toBe(
-    "`--all` is no argument `akasha git sweep` takes — it takes `--dry-run`"
+    "`--all` is no argument `akasha git sweep` takes — it takes `--plan`"
   )
   expect(existsSync(folder)).toBe(true)
 })
@@ -93,7 +93,7 @@ test("a path on the command line is refused rather than swept", () => {
   const said = gitSweep([KEPT_AT], givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toBe(
-    `\`${KEPT_AT}\` is no argument \`akasha git sweep\` takes — it takes \`--dry-run\``
+    `\`${KEPT_AT}\` is no argument \`akasha git sweep\` takes — it takes \`--plan\``
   )
 })
 

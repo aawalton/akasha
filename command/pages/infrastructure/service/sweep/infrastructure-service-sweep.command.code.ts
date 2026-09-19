@@ -1,5 +1,5 @@
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+import { plan as planArgument } from "akasha/command/argument/pages/plan.argument.ts"
 import {
   answeredWith,
   answering,
@@ -27,8 +27,7 @@ import {
 } from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
 import { everyService } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
 
-const NOT_SWEPT =
-  "dry-run\tnothing was taken away; run it again without `--dry-run` to carry it out"
+const NOT_SWEPT = "plan\tnothing was taken away; run it again without `--plan` to carry it out"
 
 const ALL_ACCOUNTED =
   "nothing\tevery unit akasha owns, installed and staged alike, is accounted for by a page"
@@ -70,7 +69,7 @@ export async function infrastructureServiceSweep(
   given: Given,
   sweeping: Sweeping = sweptAway
 ): Promise<Answer> {
-  const read = takenFor(argv, given.calledAs, page, [dryRun])
+  const read = takenFor(argv, given.calledAs, page, [planArgument])
   if ("refused" in read) return mistaking([...read.refused, EVERY_UNIT])
 
   const found = everyService(given.root)
@@ -93,7 +92,7 @@ export async function infrastructureServiceSweep(
     ...remove.map((name) => `remove\t${name}`),
     ...strand.map((name) => `stranded\t${name}`),
   ]
-  if (read.taken.dryRun) return told([...report, NOT_SWEPT])
+  if (read.taken.plan) return told([...report, NOT_SWEPT])
 
   return await sweptBy(home, report, remove, strand, sweeping)
 }

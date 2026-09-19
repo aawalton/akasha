@@ -46,7 +46,7 @@ check("an argument naming what is carried is refused, and nothing is carried", (
   const bare = remoted(root)
   const said = gitPush(["origin", "main"], given(root))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("--dry-run")
+  expect(said.refusals[0]).toContain("--plan")
   expect(gitIn(bare, ["rev-list", "--count", "--all"])).toBe("0")
 })
 
@@ -66,10 +66,10 @@ check("a HEAD on no branch is refused", () => {
   expect(said.refusals[0]).toContain("no branch")
 })
 
-check("`--dry-run` reads how far ahead the branch is and carries nothing", () => {
+check("`--plan` reads how far ahead the branch is and carries nothing", () => {
   const root = checkout()
   const bare = remoted(root)
-  const said = gitPush(["--dry-run"], given(root))
+  const said = gitPush(["--plan"], given(root))
   expect(said.code).toBe(0)
   expect(said.report[0]).toContain("would be carried")
   expect(gitIn(bare, ["rev-list", "--count", "--all"])).toBe("0")
