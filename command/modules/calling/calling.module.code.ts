@@ -40,7 +40,6 @@ import {
   saidIn,
   walkingIn,
 } from "akasha/command/modules/walking/command-walking.module.code.ts"
-import { indexRefresh } from "akasha/command/pages/index/refresh/index-refresh.command.code.ts"
 import {
   indexNamed,
   indexThere,
@@ -397,6 +396,9 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
   if (named === HELP || named === HELP_SHORT) return helping(root, outside)
   const unread = unreadIn(root, outside)
   if (unread !== null && refreshNamed(argv)) {
+    const { indexRefresh } = await import(
+      "akasha/command/pages/index/refresh/index-refresh.command.code.ts"
+    )
     return indexRefresh(argv.slice(ROOTED_WORDS.length), { ...outside, root })
   }
   const carried = (code: number, saying: (every: readonly string[]) => string): Answer => {
