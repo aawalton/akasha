@@ -16,12 +16,16 @@ import {
   type Naming,
   type Put,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import { theWanderingInn as wanderingInnRead } from "akasha/story/read/pages/the-wandering-inn/the-wandering-inn.story-read.ts"
+import { storyRead } from "akasha/story/read/story-read.page-type.ts"
+import { theWanderingInn as wanderingInnWorld } from "akasha/story/world/pages/the-wandering-inn/the-wandering-inn.world.ts"
+import { world } from "akasha/story/world/world.page-type.ts"
 
 const PAGE_TYPE = "page-type"
 const CHARACTER_PAGE_TYPE = "world-character"
 const CHAPTER_PAGE_TYPE = "story-chapter-read"
-const STORY_ADDRESS = "story-read/the-wandering-inn"
-const WORLD_ADDRESS = "world/the-wandering-inn"
+const STORY_ADDRESS = `${storyRead.slug}/${wanderingInnRead.slug}` as const
+const WORLD_ADDRESS = `${world.slug}/${wanderingInnWorld.slug}` as const
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 const CHARACTER = "character"
 const CLAIMS = "characterClaims"

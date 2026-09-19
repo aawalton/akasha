@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
+import { artist } from "akasha/alan/music/catalog/artist/artist.page-type.ts"
+import { sylviaDaley } from "akasha/alan/music/catalog/artist/pages/sylvia-daley/sylvia-daley.artist.ts"
 import type { Filing } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
 import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import { musicalTheater } from "akasha/alan/music/catalog/release-collection/pages/musical-theater.release-collection.ts"
+import { releaseCollection } from "akasha/alan/music/catalog/release-collection/release-collection.page-type.ts"
 import {
   artistUnder,
   songFiledOn,
@@ -8,6 +12,10 @@ import {
   songNamed,
   valuesLinked,
 } from "akasha/command/pages/music/link-songs/music-link-songs.command.code.ts"
+
+const ARTIST_AT = `${artist.slug}/${sylviaDaley.slug}` as const
+
+const MUSICAL_THEATER_AT = `${releaseCollection.slug}/${musicalTheater.slug}` as const
 
 const SONGS: ReadonlyMap<string, string> = new Map([
   [songKey("sylvia-daley", "Elf"), "sylvia-daley-elf"],
@@ -18,11 +26,11 @@ const BY_RELEASE: ReadonlyMap<string, string> = new Map([["sylvia-daley-pixie", 
 const ON_PIXIE = { partOfCollections: ["release/sylvia-daley-pixie"] }
 
 test("a release names the artist the release is filed under", () => {
-  expect(artistUnder({ partOfCollections: ["artist/sylvia-daley"] })).toBe("sylvia-daley")
+  expect(artistUnder({ partOfCollections: [ARTIST_AT] })).toBe(sylviaDaley.slug)
 })
 
 test("a release filed under a collection that is no artist names no artist", () => {
-  expect(artistUnder({ partOfCollections: ["release-collection/musical-theater"] })).toBeNull()
+  expect(artistUnder({ partOfCollections: [MUSICAL_THEATER_AT] })).toBeNull()
   expect(artistUnder({})).toBeNull()
 })
 
@@ -53,7 +61,7 @@ test("a track matching no song has that song filed under the artist the release 
   }
   const filed = songFiledOn(filing, BY_RELEASE, { ...ON_PIXIE, title: "Pixie Dust - Live" })
   expect(filed?.slug).toBe("sylvia-daley-pixie-dust")
-  expect(filed?.values?.["artist"]).toBe("artist/sylvia-daley")
+  expect(filed?.values?.["artist"]).toBe(ARTIST_AT)
   expect(songMatched(filing.songs, BY_RELEASE, { ...ON_PIXIE, title: "Pixie Dust" })).toBe(
     "sylvia-daley-pixie-dust"
   )

@@ -15,3 +15,4 @@
 {"propertySlug":"exercise","path":"alan/value/health/fitness/strength/log/pages/thursday-push-2026-06-25-bc9bc790-dumbbell-bench-press-set-4.strength-log.ts","id":"019f00b0-a720-75bb-bc08-2af2eac3f5ef"}
 {"propertySlug":"exercise","path":"alan/value/health/fitness/strength/log/pages/thursday-push-2026-06-25-c82b391f-dumbbell-bench-press-set-1.strength-log.ts","id":"019f01ac-ad65-7aff-865d-4b42e4b4f516"}
 {"propertySlug":"import","fileName":"dumbbell-bench-press.strength-exercise.ts","path":"command/pages/fitness/modules/training-week/training-week.module.test.ts"}
+{"propertySlug":"import","fileName":"dumbbell-bench-press.strength-exercise.ts","path":"command/pages/fitness/next/modules/warming/warming.module.test.ts"}

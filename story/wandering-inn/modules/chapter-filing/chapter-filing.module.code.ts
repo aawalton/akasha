@@ -1,4 +1,6 @@
 import { linkFrom } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
+import { words } from "akasha/alan/collection/unit/pages/words.unit.ts"
+import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -24,7 +26,7 @@ const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 const PAGE_TYPE = "page-type"
 const PROSE = "prose"
 const TXT = "txt"
-const WORDS = "unit/words"
+const WORDS = `${unit.slug}/${words.slug}` as const
 const SOURCE = "the-wandering-inn"
 const IDENTITY = "externalIdentity"
 

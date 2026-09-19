@@ -1,4 +1,9 @@
 import { expect, test } from "bun:test"
+import { day } from "akasha/alan/track/daily/day/day.page-type.ts"
+import { day20260918 } from "akasha/alan/track/daily/day/pages/2026-09-18/day-2026-09-18.day.ts"
+import { dumbbellBenchPress } from "akasha/alan/value/health/fitness/strength/exercise/pages/dumbbell-bench-press/dumbbell-bench-press.strength-exercise.ts"
+import { hammerCurls } from "akasha/alan/value/health/fitness/strength/exercise/pages/hammer-curls/hammer-curls.strength-exercise.ts"
+import { strengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.ts"
 import { movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.test-fixtures.ts"
 import {
   mobilisingFor,
@@ -13,11 +18,15 @@ import {
 
 const NOW = new Date("2026-09-18T17:00:00.000Z")
 
-const TODAY = "2026-09-18"
+const TODAY = day20260918.date
+
+const SEPTEMBER_EIGHTEENTH = `${day.slug}/${day20260918.slug}` as const
+
+const HAMMER_CURLS_AT = `${strengthExercise.slug}/${hammerCurls.slug}` as const
 
 const LOADS = [3, 5, 8, 10, 15, 20, 25, 30]
 
-const BENCH = movement("dumbbell-bench-press", { muscles: ["chest", "triceps"] })
+const BENCH = movement(dumbbellBenchPress.slug, { muscles: ["chest", "triceps"] })
 
 const MOVING = movement("dynamic-chest-stretch", {
   title: "Dynamic Chest Stretch",
@@ -79,12 +88,10 @@ const WARMING = {
 const COLD = { ...WARMING, warm: false, ramped: false }
 
 test("Alan is warm where a set of his falls inside the window handed in", () => {
-  const sets = [
-    { setPerformedAt: "2026-09-18T16:52:00.000Z", exercise: "strength-exercise/hammer-curls" },
-  ]
+  const sets = [{ setPerformedAt: "2026-09-18T16:52:00.000Z", exercise: HAMMER_CURLS_AT }]
   const held = warmthIn(sets, NOW, 15, TODAY)
   expect(held.warm).toBe(true)
-  expect(held.ramped).toEqual(new Set(["hammer-curls"]))
+  expect(held.ramped).toEqual(new Set([hammerCurls.slug]))
 })
 
 test("a set older than the window leaves Alan cold", () => {
@@ -93,7 +100,7 @@ test("a set older than the window leaves Alan cold", () => {
 })
 
 test("a set stating no instant leaves Alan cold whatever day that set falls on", () => {
-  expect(warmthIn([{ day: "day/day-2026-09-18", exercise: "x/y" }], NOW, 15, TODAY).warm).toBe(
+  expect(warmthIn([{ day: SEPTEMBER_EIGHTEENTH, exercise: "x/y" }], NOW, 15, TODAY).warm).toBe(
     false
   )
 })
