@@ -344,7 +344,7 @@ async function spentIn(
     }
   }
   const turns: Promise<undefined>[] = []
-  const lanes = Math.max(ALONE, Math.min(atOnce, calls.length))
+  const lanes = lanesFor(calls.length, atOnce)
   for (let which = 0; which < lanes; which += 1) turns.push(turn(which))
   await Promise.all(turns)
   return found
@@ -356,16 +356,8 @@ export function beyondIn(each: readonly Spent[], ceiling: number = CEILING): rea
     .map((one) => ({ path: one.path, cpuSeconds: one.cpuSeconds }))
 }
 
-async function beyondAlone(
-  root: string,
-  each: readonly Spent[],
-  naming: readonly string[],
-  over: Overlay | null
-): Promise<readonly Slowed[]> {
-  const looked = beyondIn(each)
-  if (looked.length === 0) return []
-  const named = looked.map((one) => one.path)
-  return beyondIn(await spentIn(root, runsFor(root, named), naming, over, ALONE))
+function lanesFor(many: number, atOnce: number = atOnceHere()): number {
+  return Math.max(ALONE, Math.min(atOnce, many))
 }
 
 export function judgedAs(said: Verdict, over: number): Verdict {
@@ -379,7 +371,7 @@ export async function spentOver(
 ): Promise<readonly Spent[]> {
   const over = bodies === null ? null : mountedOver(root, bodies)
   try {
-    return await spentIn(root, runsFor(root, named), [], over)
+    return await spentIn(root, runsFor(root, named), [], over, ALONE)
   } finally {
     over?.sweep()
   }
@@ -410,7 +402,8 @@ async function ranUnder(
     if (code === 0) code = one.code
   }
   const said = verdictOf(code, output, expected)
-  const slow = said === "pass" ? await beyondAlone(root, each, naming, over) : []
+  const alone = lanesFor(each.length) === ALONE
+  const slow = said === "pass" && alone ? beyondIn(each) : []
   return {
     code,
     signal,

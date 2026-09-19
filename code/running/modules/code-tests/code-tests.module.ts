@@ -120,19 +120,24 @@ export const codeTests = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file that looks over the ceiling is run again alone before it is judged slow.",
+      statement: "A file is judged against the ceiling only where no file ran beside it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The ceiling is read against that second run rather than against the first.",
+      statement: "A run spread over more than one file at a time judges no file slow.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run with no file over the ceiling runs nothing a second time.",
+      statement: "A change naming few files runs them one at a time, so the ceiling is read there.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What a file cost is recorded from the first run, which is what that run spent.",
+      statement: "A caller asking what each file spent is answered from files run one at a time.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "A file that grew slow between one change to it and the next is caught by nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
