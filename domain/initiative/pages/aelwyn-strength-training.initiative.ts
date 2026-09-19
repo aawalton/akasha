@@ -49,9 +49,6 @@ export const aelwynStrengthTraining = {
     {
       statement: "A movement Alan turns down tells the selector as much as a set Alan finishes.",
     },
-    {
-      statement: "What Alan owns is read from the kit pages rather than written as a constraint.",
-    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
