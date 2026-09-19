@@ -17,6 +17,11 @@ export const luaExport = {
       decisionKind: "decision-kind/departure",
       statement: "The name is stated rather than worked out from the page's slug.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A helper is emitted under this name rather than under the identifier its code exports.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty

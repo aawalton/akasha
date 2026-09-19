@@ -17,6 +17,7 @@ import {
   resolveRecursiveLualibFeatures,
 } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
 import {
+  emittedAs,
   lualibPages,
   sourcesFrom,
 } from "akasha/design/language/lua-compiler/modules/lualib-pages/lualib-pages.module.code.ts"
@@ -92,7 +93,16 @@ function isExportsReturn(node: luaCore.Node): boolean {
   return luaExpressions.isIdentifier(first) && first.text === "____exports"
 }
 
-function createLuaLibPrinter(emitHost: EmitHost, program: ts.Program, fileName: string) {
+function sourceNameOf(fileName: string): string {
+  return path.basename(fileName).replace(/\.(ts|lua)$/, "")
+}
+
+function createLuaLibPrinter(
+  emitHost: EmitHost,
+  program: ts.Program,
+  fileName: string,
+  emitted: (exported: string) => string
+) {
   return requireLualibPrinter()(emitHost, program, fileName, {
     printTableIndexExpression: (defaultPrint, expression, printers) => {
       if (
@@ -100,7 +110,9 @@ function createLuaLibPrinter(emitHost: EmitHost, program: ts.Program, fileName: 
         expression.table.text === "____exports" &&
         luaExpressions.isStringLiteral(expression.index)
       ) {
-        return printers.printExpression(luaExpressions.createIdentifier(expression.index.value))
+        return printers.printExpression(
+          luaExpressions.createIdentifier(emitted(expression.index.value))
+        )
       }
       return defaultPrint(expression)
     },
@@ -120,16 +132,20 @@ interface LuaLibPlugin extends Plugin {
   buildModulesInfo: () => LuaLibModulesInfo
 }
 
-function createLuaLibPlugin(featureBySourceName: ReadonlyMap<string, LuaLibFeature>): LuaLibPlugin {
+function createLuaLibPlugin(
+  featureBySourceName: ReadonlyMap<string, LuaLibFeature>,
+  exportNameBySourceName: ReadonlyMap<string, string>
+): LuaLibPlugin {
   const featureExports = new Map<LuaLibFeature, Set<string>>()
   const featureDependencies = new Map<LuaLibFeature, Set<LuaLibFeature>>()
   const featureCode = new Map<LuaLibFeature, string>()
+  const emittedBySourceName = new Map<string, string>()
 
   function visitSourceFile(
     file: ts.SourceFile,
     context: TransformationContext
   ): luaStatements.File {
-    const sourceName = path.basename(file.fileName, ".ts")
+    const sourceName = sourceNameOf(file.fileName)
     const featureName = featureBySourceName.get(sourceName) ?? sourceName
     if (!isLuaLibFeature(featureName)) {
       context.addDiagnostic({
@@ -164,6 +180,16 @@ function createLuaLibPlugin(featureBySourceName: ReadonlyMap<string, LuaLibFeatu
       }
     }
 
+    const statedNames = new Set(
+      fileResult.statements.filter(isExportAssignment).map((s) => s.left[0].index.value)
+    )
+    const statedName = statedNames.size === 1 ? exportNameBySourceName.get(sourceName) : undefined
+    if (statedName !== undefined) emittedBySourceName.set(sourceName, statedName)
+
+    function emitted(exported: string): string {
+      return statedName ?? exported
+    }
+
     const filteredStatements = fileResult.statements
       .filter(
         (s) =>
@@ -175,7 +201,7 @@ function createLuaLibPlugin(featureBySourceName: ReadonlyMap<string, LuaLibFeatu
       .map((statement) => {
         if (isExportAlias(statement)) {
           const name = statement.left[0]
-          const exportName = statement.right[0].index.value
+          const exportName = emitted(statement.right[0].index.value)
           if (name.text === exportName) return undefined
           return luaStatements.createAssignmentStatement(
             name,
@@ -188,7 +214,7 @@ function createLuaLibPlugin(featureBySourceName: ReadonlyMap<string, LuaLibFeatu
 
     const exportNames = filteredStatements
       .filter(isExportAssignment)
-      .map((s) => s.left[0].index.value)
+      .map((s) => emitted(s.left[0].index.value))
 
     if (!filteredStatements.every(isExportAssignment)) {
       const outerLocals = luaStatements.createVariableDeclarationStatement(
@@ -197,7 +223,7 @@ function createLuaLibPlugin(featureBySourceName: ReadonlyMap<string, LuaLibFeatu
       const body = filteredStatements.map((s) =>
         isExportAssignment(s)
           ? luaStatements.createAssignmentStatement(
-              luaExpressions.createIdentifier(s.left[0].index.value),
+              luaExpressions.createIdentifier(emitted(s.left[0].index.value)),
               s.right[0]
             )
           : s
@@ -206,7 +232,7 @@ function createLuaLibPlugin(featureBySourceName: ReadonlyMap<string, LuaLibFeatu
     } else {
       fileResult.statements = filteredStatements.map((s) =>
         luaStatements.createVariableDeclarationStatement(
-          luaExpressions.createIdentifier(s.left[0].index.value),
+          luaExpressions.createIdentifier(emitted(s.left[0].index.value)),
           s.right[0]
         )
       )
@@ -243,11 +269,12 @@ function createLuaLibPlugin(featureBySourceName: ReadonlyMap<string, LuaLibFeatu
       [ts.SyntaxKind.SourceFile]: visitSourceFile,
     },
     printer: (program, emitHost, fileName, file) =>
-      createLuaLibPrinter(emitHost, program, fileName).print(file),
+      createLuaLibPrinter(emitHost, program, fileName, (exported) =>
+        emittedAs(emittedBySourceName, sourceNameOf(fileName), exported)
+      ).print(file),
     afterPrint: (_program, _options, _emitHost, result) => {
       for (const file of result) {
-        const base = path.basename(file.fileName)
-        const sourceName = base.replace(/\.(ts|lua)$/, "")
+        const sourceName = sourceNameOf(file.fileName)
         const featureName = featureBySourceName.get(sourceName) ?? sourceName
         if (isLuaLibFeature(featureName)) {
           featureCode.set(featureName, file.code)
@@ -326,7 +353,7 @@ export function buildLuaLib(luaTarget: LuaTarget): BuiltLuaLib {
     host: hostTaking(sources.takenInstead, parsedConfig.options),
   })
 
-  const plugin = createLuaLibPlugin(sources.featureBySourceName)
+  const plugin = createLuaLibPlugin(sources.featureBySourceName, sources.exportNameBySourceName)
   const transpiler = requireLualibTranspiler()()
 
   const writeFile: ts.WriteFileCallback = () => {}

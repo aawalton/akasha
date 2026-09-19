@@ -281,6 +281,7 @@
 {"propertySlug":"decision-kind","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}
 {"propertySlug":"decision-kind","path":"design/interface/system/token-values/token-values.stylesheet.ts","id":"01a05c95-564a-74a9-b2c1-09d527a8f63e"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.ts","id":"01a06c82-21b5-74b7-9f92-ab9f244c6e82"}
+{"propertySlug":"decision-kind","path":"design/language/lua-compiler/modules/lualib-builder/lualib-builder.module.ts","id":"01a06758-8e5e-7000-a6a2-355e374cf411"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/modules/lualib-pages/lualib-pages.module.ts","id":"01a0818b-cd49-79f1-95e9-0b5ce73c5bb7"}
 {"propertySlug":"decision-kind","path":"domain/champion/domain-champion.domain.ts","id":"01a0675b-16de-790e-8eea-52afc2046700"}
 {"propertySlug":"decision-kind","path":"domain/context/context.domain.ts","id":"01a04f50-2a7e-7000-a43d-22ce4657c379"}

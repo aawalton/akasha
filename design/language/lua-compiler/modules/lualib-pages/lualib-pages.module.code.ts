@@ -31,7 +31,16 @@ export type LualibPage = {
 export type LualibSources = {
   readonly rootNames: readonly string[]
   readonly featureBySourceName: ReadonlyMap<string, LuaLibFeature>
+  readonly exportNameBySourceName: ReadonlyMap<string, string>
   readonly takenInstead: ReadonlyMap<string, string>
+}
+
+export function emittedAs(
+  exportNames: ReadonlyMap<string, string>,
+  sourceName: string,
+  exported: string
+): string {
+  return exportNames.get(sourceName) ?? exported
 }
 
 function featureNamed(name: string): LuaLibFeature | null {
@@ -75,8 +84,11 @@ export function sourcesFrom(
   lua50: boolean
 ): LualibSources {
   const featureBySourceName = new Map<string, LuaLibFeature>()
+  const exportNameBySourceName = new Map<string, string>()
   const takenInstead = new Map<string, string>()
-  if (pages.length === 0) return { rootNames: scanned, featureBySourceName, takenInstead }
+  if (pages.length === 0) {
+    return { rootNames: scanned, featureBySourceName, exportNameBySourceName, takenInstead }
+  }
 
   const stated = new Map<LuaLibFeature, string>()
   const claimedBy = new Map<LuaLibFeature, string>()
@@ -96,6 +108,10 @@ export function sourcesFrom(
     }
     claimedBy.set(feature, page.pagePath)
     const lua50Path = page.lua50CodePath
+    exportNameBySourceName.set(basename(page.codePath, ".ts"), page.luaExport)
+    if (lua50Path !== null) {
+      exportNameBySourceName.set(basename(lua50Path, ".ts"), page.luaExport)
+    }
     if (lua50 && lua50Path !== null) {
       stated.set(feature, lua50Path)
       takenInstead.set(page.codePath, lua50Path)
@@ -134,5 +150,5 @@ export function sourcesFrom(
     featureBySourceName.set(basename(source, ".ts"), feature)
   }
 
-  return { rootNames, featureBySourceName, takenInstead }
+  return { rootNames, featureBySourceName, exportNameBySourceName, takenInstead }
 }

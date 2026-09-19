@@ -13,6 +13,22 @@ export const lualibBuilder = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The lualib pages say the name each source file's export is emitted under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The identifier a page's code exports reaches the emitted Lua nowhere.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reference to an export is printed under the name the page states.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "A code file exporting more than one name keeps the names its own code exports.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An import of another source file names that file's feature as a dependency.",
     },
     {

@@ -1,4 +1,4 @@
-{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A name here is chosen outside akasha."},{"decisionKind":"decision-kind/departure","statement":"The name is stated rather than worked out from the page's slug."}]}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"A name here is chosen outside akasha."},{"decisionKind":"decision-kind/departure","statement":"The name is stated rather than worked out from the page's slug."},{"decisionKind":"decision-kind/departure","statement":"A helper is emitted under this name rather than under the identifier its code exports."}]}
 {"definition":"the name a compiled helper is reached by in Lua"}
 {"id":"01a08168-a789-7c4b-8c96-68f15749213a"}
 {"maxLength":100}

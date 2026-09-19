@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  emittedAs,
   type LualibPage,
   sourcesFrom,
 } from "akasha/design/language/lua-compiler/modules/lualib-pages/lualib-pages.module.code.ts"
@@ -166,4 +167,26 @@ test("a page naming a feature the scan found nowhere is added after what the sca
   const held = sourcesFrom(SCANNED, [named], false)
   expect(held.rootNames).toEqual([...SCANNED, named.codePath])
   expect(held.featureBySourceName.get("await.lualib-helper.code")).toBe("Await")
+})
+
+test("the pages say the name each source file's export is emitted under", () => {
+  const held = sourcesFrom(SCANNED, [ARRAY_AT], false)
+  expect(held.exportNameBySourceName.get("array-at.lualib-helper.code")).toBe("__TS__ArrayAt")
+})
+
+test("a build for Lua 5.0 emits a page's Lua 5.0 code under the name that page states", () => {
+  const held = sourcesFrom(SCANNED, [UNPACK], true)
+  expect(held.exportNameBySourceName.get("unpack.lualib-helper.lua50-code")).toBe("Unpack")
+})
+
+test("a source file no page names is emitted under the name that file's own code exports", () => {
+  const held = sourcesFrom(SCANNED, [ARRAY_AT], false)
+  expect(emittedAs(held.exportNameBySourceName, "Nowhere", "someOtherName")).toBe("someOtherName")
+})
+
+test("renaming the identifier a page's code exports does not change the emitted name", () => {
+  const held = sourcesFrom(SCANNED, [ARRAY_AT], false)
+  const source = "array-at.lualib-helper.code"
+  expect(emittedAs(held.exportNameBySourceName, source, "__TS__ArrayAt")).toBe("__TS__ArrayAt")
+  expect(emittedAs(held.exportNameBySourceName, source, "renamedByHand")).toBe("__TS__ArrayAt")
 })

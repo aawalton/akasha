@@ -94,6 +94,22 @@ export const lualibPages = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The pages say the name each source file's export is emitted under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The name a page states is emitted whatever identifier that page's code exports.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A source file no page names is emitted under the name its own code exports.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build for Lua 5.0 emits a page's Lua 5.0 code under the name that page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "No page at all answers with the scanned files themselves.",
     },
     {
