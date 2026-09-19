@@ -66,7 +66,7 @@ const REFUSAL = toldOf(HOOK, [
   "",
   "WHAT ANSWERS INSTEAD: `akasha audit` bare, which answers for the commit you are on and keeps",
   "each refusal whole beside the calling agent's page. A change landing through",
-  "`akasha change draft` and `akasha change apply` is checked, so what you wrote that way is",
+  "`akasha change apply` is checked, so what you wrote that way is",
   "judged already. The tests, the typecheck and the linter all run over what the change carries,",
   "and refuse the change where one of them finds anything.",
 ])

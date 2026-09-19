@@ -325,7 +325,7 @@ function road(shown: string): readonly string[] {
     "",
     "A body reaches a change piped in rather than on the command line:",
     "",
-    "akasha change draft add-file <<'HEREDOC'",
+    "akasha change apply --draft add-file <<'HEREDOC'",
     `at: ${shown}`,
     "body HEREDOC-BODY",
     "<the whole body>",

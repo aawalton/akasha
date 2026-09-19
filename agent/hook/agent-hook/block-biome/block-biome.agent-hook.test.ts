@@ -33,8 +33,8 @@ test("a biome call is refused, reading as well as writing", () => {
 test("the refusal names where the linter runs instead", () => {
   const said = judged("biome check .") ?? ""
   expect(said).toContain("akasha change apply")
-  expect(said).toContain("`akasha change draft` keeps edits and runs no check")
-  expect(said).toContain("`akasha change apply` runs biome over")
+  expect(said).toContain("`akasha change apply --draft` keeps edits and runs no check")
+  expect(said).toContain("biome over the edits kept")
   expect(said).toContain("formats every body it lands before it judges that body")
   expect(said).toContain("no command runs the linter by hand either.")
 })

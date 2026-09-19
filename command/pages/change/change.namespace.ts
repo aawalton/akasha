@@ -23,7 +23,7 @@ export const change = {
       warrant:
         "A change reads its arguments off standard input, and the shell rewrites an unquoted heredoc.",
       aids: [
-        "The whole call is `akasha change draft <change> <<'HEREDOC'`, the keys, then `HEREDOC` alone.",
+        "The call is `akasha change apply --draft <change> <<'HEREDOC'`, the keys, then `HEREDOC` alone.",
         "A short value is one line, as `message: what the commit is for` is.",
         "A long value opens `old HEREDOC-OLD`, then the body, then `HEREDOC-OLD` on a line of its own.",
         "That fence is the key in capitals after `HEREDOC-`, and a body holding it as a line takes another.",

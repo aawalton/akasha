@@ -16,9 +16,9 @@ import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts
 
 const SCRIPT = join(import.meta.dir, "block-git-writes.agent-hook.code.ts")
 
-const COMMANDS = "  akasha change draft keeps the edits, and akasha change apply lands them"
+const COMMANDS = "  akasha change apply --draft keeps the edits, and akasha change apply lands them"
 
-const HELP = "that refusal names every change a draft runs."
+const HELP = "that refusal names every change an apply runs."
 
 beforeAll(statingAkasha)
 
@@ -120,8 +120,8 @@ test("a refusal spells no akasha flag, so no flag of ours can go stale in it", (
 
 test("a move refusal names the move command and where to read its flags", () => {
   const said = refusalIn("git mv one two") ?? ""
-  expect(said).toContain("akasha change draft move-page")
-  expect(said).toContain("Say `akasha change draft --help` for what that takes.")
+  expect(said).toContain("akasha change apply --draft move-page")
+  expect(said).toContain("Say `akasha change apply --help` for what that takes.")
 })
 
 test("no refusal prescribes a form of the call this hook would refuse anyway", () => {

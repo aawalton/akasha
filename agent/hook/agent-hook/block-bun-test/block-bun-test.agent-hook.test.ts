@@ -26,8 +26,8 @@ test("a run naming a path is refused too, and says why the path bounds nothing",
   const said = judged("bun test hook-system/agent-hooks") ?? ""
   expect(said).toContain("runs the akasha tests outside the akasha commands")
   expect(said).toContain("Every test file in this repository is an akasha test")
-  expect(said).toContain("`akasha change draft` keeps edits and runs no check")
-  expect(said).toContain("`akasha change apply` runs every")
+  expect(said).toContain("`akasha change apply --draft` keeps edits and runs no check")
+  expect(said).toContain("runs every test beside the edits kept")
   expect(said).toContain("No command runs a test by hand.")
 })
 

@@ -79,15 +79,15 @@ test("a change command alone is let through", () => {
 })
 
 test("a change command with the word it takes is let through", () => {
-  expect(refusalIn("akasha change draft add-file")).toBe(null)
+  expect(refusalIn("akasha change apply add-file")).toBe(null)
 })
 
 test("the namespace named with no command of its own is let through", () => {
   expect(refusalIn("akasha change")).toBe(null)
 })
 
-test("a draft whose last line closes its quoted heredoc is let through", () => {
-  expect(refusalIn("akasha change draft add-file <<'HEREDOC'\nat: a/b.ts\nHEREDOC")).toBe(null)
+test("a change naming what it takes and closing its heredoc is let through", () => {
+  expect(refusalIn("akasha change apply add-file <<'HEREDOC'\nat: a/b.ts\nHEREDOC")).toBe(null)
 })
 
 test("a bare apply is let through", () => {
@@ -156,7 +156,7 @@ test("a help flag before the words naming the command is refused", () => {
 
 test("a help flag after a path or a quoted run is refused", () => {
   expect(refusalIn("akasha read --file-path a.ts --help")).toContain(NAMES)
-  expect(refusalIn("akasha change draft 'a b' --help")).toContain(NAMES)
+  expect(refusalIn("akasha change apply 'a b' --help")).toContain(NAMES)
 })
 
 test("a help flag on a nested command opening a heredoc is refused", () => {
@@ -234,21 +234,21 @@ test("the name in a variable is the one wrapping that gets past, which is the st
 })
 
 test("a body piped into a change is refused", () => {
-  expect(refusalIn("printf 'at: a.ts' | akasha change draft add-file")).toContain(NAMES)
+  expect(refusalIn("printf 'at: a.ts' | akasha change apply add-file")).toContain(NAMES)
 })
 
 test("a change opening an unquoted heredoc is refused", () => {
-  expect(refusalIn("akasha change draft add-file <<HEREDOC\nat: a/b.ts\nHEREDOC")).toContain(NAMES)
+  expect(refusalIn("akasha change apply add-file <<HEREDOC\nat: a/b.ts\nHEREDOC")).toContain(NAMES)
 })
 
 test("a change whose heredoc is not closed by the last line is refused", () => {
   expect(
-    refusalIn("akasha change draft add-file <<'HEREDOC'\nat: a/b.ts\nHEREDOC\nrm -rf x")
+    refusalIn("akasha change apply add-file <<'HEREDOC'\nat: a/b.ts\nHEREDOC\nrm -rf x")
   ).toContain(NAMES)
 })
 
 test("a change carrying more words than the form takes is refused", () => {
-  expect(refusalIn("akasha change draft add-file extra")).toContain(NAMES)
+  expect(refusalIn("akasha change apply add-file extra")).toContain(NAMES)
 })
 
 test("a delimiter closing the body before the last line is refused", () => {
@@ -258,7 +258,7 @@ test("a delimiter closing the body before the last line is refused", () => {
 })
 
 test("a delimiter other than the fixed one is refused", () => {
-  expect(refusalIn("akasha change draft add-file <<'MYOWN'\nat: a/b.ts\nMYOWN")).toContain(NAMES)
+  expect(refusalIn("akasha change apply add-file <<'MYOWN'\nat: a/b.ts\nMYOWN")).toContain(NAMES)
 })
 
 test("a change command chained onward is refused", () => {

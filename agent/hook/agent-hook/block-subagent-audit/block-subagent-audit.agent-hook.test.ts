@@ -73,7 +73,7 @@ test("the refusal says what narrowing costs rather than denying that narrowing h
 test("the refusal names the bare run as what answers instead", () => {
   const err = answerFor(payload(NARROWED, OWN)).err
   expect(err).toContain("`akasha audit` bare")
-  expect(err).toContain("`akasha change draft` and `akasha change apply`")
+  expect(err).toContain("`akasha change apply` is checked")
   expect(err).toContain("The tests, the typecheck and the linter all")
 })
 

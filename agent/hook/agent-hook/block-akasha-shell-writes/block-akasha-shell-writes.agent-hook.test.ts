@@ -186,7 +186,7 @@ test("a directory made inside akasha is refused", () => {
 
 test("a refusal names the change taking a path away as well as the one carrying a body", () => {
   const there = said("rm -f akasha/held.domain.ts") ?? ""
-  expect(there).toContain("akasha change draft add-file")
+  expect(there).toContain("akasha change apply --draft add-file")
   expect(there).toContain("`remove-file` takes the path away")
 })
 

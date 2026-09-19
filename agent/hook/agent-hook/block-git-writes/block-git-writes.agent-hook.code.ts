@@ -21,9 +21,9 @@ const ELSEWHERE = [
 
 const COMMANDS = [
   "Land akasha content with the akasha commands, which write no body onto the tree by hand:",
-  "  akasha change draft keeps the edits, and akasha change apply lands them as one commit",
-  "Say `akasha change draft --help` for what a draft takes. A draft naming no change is refused,",
-  "and that refusal names every change a draft runs.",
+  "  akasha change apply --draft keeps the edits, and akasha change apply lands them as one commit",
+  "Say `akasha change apply --help` for what an apply takes. A drafting apply naming no change is",
+  "refused, and that refusal names every change an apply runs.",
   "",
   ...ELSEWHERE,
 ]
@@ -58,9 +58,9 @@ const OVER_ACTS = new Map<string, readonly string[]>([
       "`git mv` moves a tracked file and stages the move.",
       EVERY_PATH,
       "",
-      "To move an akasha file, draft it with `akasha change draft move-page`, then",
+      "To move an akasha file, draft it with `akasha change apply --draft move-page`, then",
       "`akasha change apply`.",
-      "Say `akasha change draft --help` for what that takes.",
+      "Say `akasha change apply --help` for what that takes.",
       "",
       ...ELSEWHERE,
     ],

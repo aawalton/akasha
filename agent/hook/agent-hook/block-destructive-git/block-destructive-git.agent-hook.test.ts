@@ -84,7 +84,7 @@ test("a refusal over a body says the worktree is shared, not that the file is ak
 
 test("a refusal over a deletion names a route inside akasha and a route outside it", () => {
   const said = refusalIn("git rm akasha/one.ts") ?? ""
-  expect(said).toContain("under `akasha/`:  akasha change draft remove-page or remove-file")
+  expect(said).toContain("under `akasha/`:  akasha change apply remove-page, or remove-file")
   expect(said).toContain('anywhere else:    rm <path> && git commit -m "<why>" -- <path>')
   expect(said).toContain("This worktree is shared")
 })
@@ -113,8 +113,10 @@ test("an amend is refused, and a plain commit is not this hook's business", () =
 
 test("an amend refusal names the command that lands another commit", () => {
   const said = refusalIn("git commit --amend") ?? ""
-  expect(said).toContain("To change what a commit says, draft another with `akasha change draft`")
-  expect(said).toContain("`akasha change apply`.")
+  expect(said).toContain(
+    "To change what a commit says, draft another with `akasha change apply --draft`"
+  )
+  expect(said).toContain("land it with `akasha change apply`.")
 })
 
 test("each forced flag it names is refused, and says what it would overwrite", () => {
