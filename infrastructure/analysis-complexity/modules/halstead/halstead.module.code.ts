@@ -106,19 +106,25 @@ function zeroMetrics(): HalsteadMetrics {
   }
 }
 
-function derive(n1: number, n2: number, N1: number, N2: number): HalsteadMetrics {
-  const vocabulary = n1 + n2
-  const length = N1 + N2
+function derive(
+  distinctOperators: number,
+  distinctOperands: number,
+  totalOperators: number,
+  totalOperands: number
+): HalsteadMetrics {
+  const vocabulary = distinctOperators + distinctOperands
+  const length = totalOperators + totalOperands
   const volume = vocabulary > 0 ? length * Math.log2(vocabulary) : 0
-  const difficulty = n2 === 0 ? 0 : (n1 / 2) * (N2 / n2)
+  const difficulty =
+    distinctOperands === 0 ? 0 : (distinctOperators / 2) * (totalOperands / distinctOperands)
   const effort = difficulty * volume
   const time = effort / 18
   const bugs = volume / 3000
   return {
-    distinctOperators: n1,
-    distinctOperands: n2,
-    totalOperators: N1,
-    totalOperands: N2,
+    distinctOperators,
+    distinctOperands,
+    totalOperators,
+    totalOperands,
     vocabulary,
     length,
     volume,
