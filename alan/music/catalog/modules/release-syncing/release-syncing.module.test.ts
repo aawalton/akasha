@@ -213,12 +213,8 @@ test("an artist's own record is stamped and every other provider's is left alone
 })
 
 test("the flags a run is given are read off what it was handed", () => {
-  expect(taken([])).toEqual({ only: null, limit: null, dryRun: false })
-  expect(taken(["--only", "aurora", "--limit", "5", "--dry-run"])).toEqual({
-    only: "aurora",
-    limit: 5,
-    dryRun: true,
-  })
+  expect(taken([])).toEqual({ only: null, limit: null })
+  expect(taken(["--only", "aurora", "--limit", "5"])).toEqual({ only: "aurora", limit: 5 })
 })
 
 test("a limit that is no whole number of one or more is read as no limit", () => {
@@ -323,12 +319,12 @@ test("a run takes only its share of the artists due", () => {
     followed("emei", "2026-01-02"),
     followed("enya", "2026-01-03"),
   ]
-  const taking = sweepingIn(every, { only: null, limit: null, dryRun: false }, SINCE)
+  const taking = sweepingIn(every, { only: null, limit: null }, SINCE)
   expect(taking.map((one) => one.slug)).toEqual(["aurora"])
 })
 
 test("an artist named outright is swept whether or not that artist is due", () => {
   const every = [followed("aurora", "2026-09-01"), followed("emei", "2026-01-01")]
-  const taking = sweepingIn(every, { only: "aurora", limit: null, dryRun: false }, SINCE)
+  const taking = sweepingIn(every, { only: "aurora", limit: null }, SINCE)
   expect(taking.map((one) => one.slug)).toEqual(["aurora"])
 })

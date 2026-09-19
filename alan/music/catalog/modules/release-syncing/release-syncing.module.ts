@@ -123,10 +123,6 @@ export const releaseSyncing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run reaches Spotify and writes nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The songs filed are read once for a sweep rather than once for a release.",
     },
     {

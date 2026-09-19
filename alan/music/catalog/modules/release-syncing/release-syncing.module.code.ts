@@ -104,7 +104,6 @@ export type Asked = {
 export type Taken = {
   readonly only: string | null
   readonly limit: number | null
-  readonly dryRun: boolean
 }
 
 export function taken(argv: readonly string[]): Taken {
@@ -114,7 +113,6 @@ export function taken(argv: readonly string[]): Taken {
   return {
     only: named === -1 ? null : (argv[named + 1] ?? null),
     limit: said === null || !Number.isInteger(said) || said < 1 ? null : said,
-    dryRun: argv.includes("--dry-run"),
   }
 }
 
@@ -270,7 +268,7 @@ export async function syncReleases(
   root: string,
   held: Taken,
   reach: Reach,
-  landing: Landing | null,
+  landing: Landing,
   today: string,
   since: string
 ): Promise<Counts> {
@@ -358,15 +356,13 @@ export async function syncReleases(
         filedHere += edits.filed
         filling += 1
       }
-      if (landing !== null) {
-        const landed = await landing(
-          root,
-          changes,
-          `file ${unfiled.asked.length} spotify release(s), backfill ${filling}, and file ${tracking} track(s) and ${filedHere} song(s) for ${one.title}`
-        )
-        const wrong = refusalsIn(landed)
-        if (wrong.length > 0) throw new Error(wrong.join("; "))
-      }
+      const landed = await landing(
+        root,
+        changes,
+        `file ${unfiled.asked.length} spotify release(s), backfill ${filling}, and file ${tracking} track(s) and ${filedHere} song(s) for ${one.title}`
+      )
+      const wrong = refusalsIn(landed)
+      if (wrong.length > 0) throw new Error(wrong.join("; "))
       created += unfiled.asked.filter((each) => Object.keys(each.was).length === 0).length
       updated += unfiled.asked.filter((each) => Object.keys(each.was).length > 0).length
       skipped += unfiled.skipped
@@ -389,11 +385,11 @@ export async function main(argv: readonly string[]): Promise<number> {
       root,
       held,
       REACHING,
-      held.dryRun ? null : runMechanicalChange,
+      runMechanicalChange,
       todayYYYYMMDD(),
       daysAgoYYYYMMDD(DUE_AFTER_DAYS)
     )
-  const counts = held.dryRun ? await running() : await recordingRun(SOURCE, running)
+  const counts = await recordingRun(SOURCE, running)
   console.log(
     `${SAID} swept ${counts.created + counts.updated + counts.skipped} release(s) · filed ${counts.created} · restamped ${counts.updated} · already filed ${counts.skipped} · backfilled ${counts.backfilled} · tracks ${counts.tracked} · songs ${counts.filed} · failed ${counts.failed}`
   )
