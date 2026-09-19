@@ -12,24 +12,14 @@ import WidgetKit
 // its content when it is started and by every push after, so what the lock screen shows is
 // what was last pushed to it and never something this file went and got.
 
-struct ActivityStoplight: Codable, Hashable, Identifiable {
-    let key: String
-    let label: String
-    let tier: Tier
-    let reading: String?
-    let nextTier: Tier?
-    let progress: Double?
+// A WORD THE SERVER SENT THAT NAMES NO TIER IS DRAWN AS THE RUNG UNDER EVERY RUNG.
+//
+// The words are the server's and the tiers are the phone's, and a phone older than a word
+// the server learned would otherwise have nothing to draw at all.
+extension ActivityStoplight {
+    var drawn: Tier { Tier(rawValue: tier) ?? .black }
 
-    var id: String { key }
-}
-
-struct StoplightsAttributes: ActivityAttributes {
-    struct ContentState: Codable, Hashable {
-        let upkeep: [ActivityStoplight]
-        let inboxes: [ActivityStoplight]
-        let attributes: [ActivityStoplight]
-        let takenAt: Date
-    }
+    var drawnNext: Tier? { nextTier.flatMap { Tier(rawValue: $0) } }
 }
 
 // THE WORST COLOR ON THE LIST IS WHAT THE SMALLEST DRAWING OF IT SHOWS.
@@ -40,12 +30,10 @@ struct StoplightsAttributes: ActivityAttributes {
 private let TIER_WORST_FIRST: [Tier] = [.black, .red, .orange, .yellow, .green, .blue]
 
 extension StoplightsAttributes.ContentState {
-    var all: [ActivityStoplight] { upkeep + inboxes + attributes }
-
     var worst: Tier {
         var reached = TIER_WORST_FIRST.count - 1
         for light in all {
-            guard let place = TIER_WORST_FIRST.firstIndex(of: light.tier) else { continue }
+            guard let place = TIER_WORST_FIRST.firstIndex(of: light.drawn) else { continue }
             reached = min(reached, place)
         }
         return TIER_WORST_FIRST[reached]
@@ -53,7 +41,7 @@ extension StoplightsAttributes.ContentState {
 
     // A STOPLIGHT SHORT OF GREEN IS ONE ALAN STILL HAS SOMETHING TO DO ABOUT.
     var shortOfGreen: Int {
-        all.filter { $0.tier != .green && $0.tier != .blue }.count
+        all.filter { $0.drawn != .green && $0.drawn != .blue }.count
     }
 }
 
@@ -75,9 +63,9 @@ struct StoplightsActivityRow: View {
                 .padding(.top, SPACING_2)
             ForEach(lights) { light in
                 StoplightRing(
-                    tier: light.tier,
+                    tier: light.drawn,
                     reading: light.reading,
-                    nextTier: light.nextTier,
+                    nextTier: light.drawnNext,
                     progress: light.progress,
                     label: light.label,
                     figureOffScale: true
@@ -114,9 +102,9 @@ struct StoplightsIslandView: View {
         HStack(spacing: SPACING_1) {
             ForEach(state.all) { light in
                 StoplightRing(
-                    tier: light.tier,
+                    tier: light.drawn,
                     reading: light.reading,
-                    nextTier: light.nextTier,
+                    nextTier: light.drawnNext,
                     progress: light.progress,
                     label: nil,
                     figureOffScale: true

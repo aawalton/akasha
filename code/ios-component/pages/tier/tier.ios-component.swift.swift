@@ -1,6 +1,6 @@
 import SwiftUI
 
-enum Tier: String, Codable {
+enum Tier: String, Decodable {
     case black, red, orange, yellow, green, blue
 
     var fill: Color {
