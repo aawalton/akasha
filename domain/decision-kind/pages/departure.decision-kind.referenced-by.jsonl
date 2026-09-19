@@ -1364,6 +1364,7 @@
 {"propertySlug":"decision-kind","path":"change/modules/literal-splicing/literal-splicing.module.ts","id":"01a0822c-932a-7f1c-8dbf-5fe8221d3854"}
 {"propertySlug":"decision-kind","path":"change/modules/package-naming/package-naming.module.ts","id":"01a08236-274a-7266-ab52-6e34c361587e"}
 {"propertySlug":"decision-kind","path":"change/modules/page-claiming/page-claiming.module.ts","id":"01a078bd-ae49-7881-bdf5-084ad0327dbe"}
+{"propertySlug":"decision-kind","path":"change/modules/page-editing/page-editing.module.ts","id":"01a0bd42-8e07-7b55-a4c1-2f9d6e3708ab"}
 {"propertySlug":"decision-kind","path":"change/modules/page-knowing/page-knowing.module.ts","id":"01a0795c-c0d5-7580-afd1-7b86083ef2dd"}
 {"propertySlug":"decision-kind","path":"change/modules/page-literal/page-literal.module.ts","id":"01a07958-2f4f-7bd9-b5c2-d794c5150eb9"}
 {"propertySlug":"decision-kind","path":"change/modules/page-property-carrying/page-property-carrying.module.ts","id":"01a09c81-2511-7a94-a723-347861af2d7a"}

@@ -27,7 +27,7 @@ export const musicLinkSongs = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A track matching no song is counted and left as that track is.",
+      statement: "A track whose song cannot be filed is counted and left as that track is.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,11 +39,11 @@ export const musicLinkSongs = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here writes a song.",
+      statement: "A release filed under a collection that is no artist names no artist.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "A release filed under a collection that is no artist names no artist.",
+      decisionKind: "decision-kind/departure",
+      statement: "A track matching no song has that song filed and then names it.",
     },
   ],
   name: "link-songs",

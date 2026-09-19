@@ -1,7 +1,9 @@
 import { expect, test } from "bun:test"
+import type { Filing } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
 import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 import {
   artistUnder,
+  songFiledOn,
   songMatched,
   songNamed,
   valuesLinked,
@@ -41,6 +43,20 @@ test("a track on no release is matched to no song", () => {
 test("a track whose release names an artist with no song is matched to no song", () => {
   const elsewhere = { partOfCollections: ["release/somebody-else-album"], title: "Elf" }
   expect(songMatched(SONGS, BY_RELEASE, elsewhere)).toBeNull()
+})
+
+test("a track matching no song has that song filed under the artist the release names", () => {
+  const filing: Filing = {
+    songs: new Map(SONGS),
+    taken: new Set(["sylvia-daley-elf"]),
+    artists: new Set(["sylvia-daley"]),
+  }
+  const filed = songFiledOn(filing, BY_RELEASE, { ...ON_PIXIE, title: "Pixie Dust - Live" })
+  expect(filed?.slug).toBe("sylvia-daley-pixie-dust")
+  expect(filed?.values?.["artist"]).toBe("artist/sylvia-daley")
+  expect(songMatched(filing.songs, BY_RELEASE, { ...ON_PIXIE, title: "Pixie Dust" })).toBe(
+    "sylvia-daley-pixie-dust"
+  )
 })
 
 test("the song a track names is read whether or not it is written as an address", () => {

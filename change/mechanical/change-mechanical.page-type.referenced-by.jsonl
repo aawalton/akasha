@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"agent/seat/stopping/seat-stopping.module.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts"}
-{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"alan/track/modules/landing/track-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file-content/move-code-export/move-code-export.change-agent.code.ts"}
@@ -62,6 +61,7 @@
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/mechanical/file/rename/rename-file-page-property/rename-file-page-property.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/modules/page-editing/page-editing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/runner/modules/change-loading/change-loading.module.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.code.ts"}
@@ -73,7 +73,6 @@
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
-{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/music/link-songs/music-link-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}

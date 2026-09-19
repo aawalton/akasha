@@ -30,6 +30,7 @@ export const change = {
     "module/literal-splicing",
     "module/package-naming",
     "module/page-claiming",
+    "module/page-editing",
     "module/page-knowing",
     "module/page-literal",
     "module/page-property-carrying",

@@ -6,6 +6,8 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"change/modules/page-editing/page-editing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"change/modules/page-editing/page-editing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"change/modules/page-renaming/page-renaming.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.audit.test.ts"}

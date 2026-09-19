@@ -1,9 +1,11 @@
 import {
-  songSlugFor,
-  songsFiledIn,
-} from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
-import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
-import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
+  type Filed,
+  type Filing,
+  filingIn,
+  songFiledFor,
+} from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
+import { songSlugFor } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import { composedEdit } from "akasha/change/modules/page-editing/page-editing.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   type Landing,
@@ -26,10 +28,7 @@ import {
   textIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import {
-  composedFor,
-  sourceFor,
-} from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import { sourceFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const TRACK = "track"
 
@@ -41,8 +40,6 @@ const SONG_KEY = "song"
 
 const UNDER_ARTIST = "artist/"
 
-const WRITE = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
-
 const NAMED = [json, dryRun] as const
 
 export type Taken = { readonly json: boolean; readonly dryRun: boolean }
@@ -53,6 +50,7 @@ export type Counted = {
   readonly relinked: number
   readonly unlinked: number
   readonly held: number
+  readonly filed: number
   readonly unmatched: number
 }
 
@@ -95,18 +93,32 @@ export function songNamed(value: Value): string | null {
   return said.startsWith(`${SONG}/`) ? said.slice(SONG.length + 1) : said
 }
 
+export function artistOf(byRelease: ReadonlyMap<string, string>, value: Value): string | null {
+  const releaseSlug = slugsIn(value["partOfCollections"])[0]
+  if (releaseSlug === undefined) return null
+  return byRelease.get(releaseSlug) ?? null
+}
+
 export function songMatched(
   songs: ReadonlyMap<string, string>,
   byRelease: ReadonlyMap<string, string>,
   value: Value
 ): string | null {
-  const releaseSlug = slugsIn(value["partOfCollections"])[0]
-  if (releaseSlug === undefined) return null
-  const artistSlug = byRelease.get(releaseSlug)
-  if (artistSlug === undefined) return null
+  const artistSlug = artistOf(byRelease, value)
   const title = textIn(value, "title")
-  if (title === null) return null
+  if (artistSlug === null || title === null) return null
   return songSlugFor(songs, artistSlug, title)
+}
+
+export function songFiledOn(
+  filing: Filing,
+  byRelease: ReadonlyMap<string, string>,
+  value: Value
+): Filed | null {
+  const artistSlug = artistOf(byRelease, value)
+  const title = textIn(value, "title")
+  if (artistSlug === null || title === null) return null
+  return songFiledFor(filing, artistSlug, title)
 }
 
 export function valuesLinked(value: Value, song: string | null): Value {
@@ -119,7 +131,7 @@ export function valuesLinked(value: Value, song: string | null): Value {
 }
 
 export function linkingIn(root: string): Linking {
-  const songs = songsFiledIn(root)
+  const filing = filingIn(root)
   const byRelease = artistByRelease(root)
   const source = sourceFor(root)
   const changes: Asking[] = []
@@ -128,13 +140,24 @@ export function linkingIn(root: string): Linking {
   let relinked = 0
   let unlinked = 0
   let held = 0
+  let filed = 0
   let unmatched = 0
   for (const one of valuesOfType(root, TRACK)) {
     const slug = textIn(one.value, "slug")
     if (slug === null) continue
     tracks += 1
     const was = songNamed(one.value)
-    const now = songMatched(songs, byRelease, one.value)
+    let now = songMatched(filing.songs, byRelease, one.value)
+    if (now === null) {
+      const said = songFiledOn(filing, byRelease, one.value)
+      if (said !== null) {
+        now = said.slug
+        if (said.values !== null) {
+          changes.push(composedEdit(root, SONG, said.slug, said.values, source))
+          filed += 1
+        }
+      }
+    }
     if (was === now) {
       if (now === null) unmatched += 1
       else held += 1
@@ -143,17 +166,9 @@ export function linkingIn(root: string): Linking {
     if (was === null) linked += 1
     else if (now === null) unlinked += 1
     else relinked += 1
-    const composed = composedFor(
-      root,
-      { pageTypeSlug: TRACK, slug, values: valuesLinked(one.value, now) },
-      source
-    )
-    if ("refused" in composed) {
-      throw new Error(`\`${TRACK}/${slug}\` went uncomposed: ${composed.refused}`)
-    }
-    changes.push({ at: WRITE, given: { at: composed.put.path, body: composed.put.content } })
+    changes.push(composedEdit(root, TRACK, slug, valuesLinked(one.value, now), source))
   }
-  return { counts: { tracks, linked, relinked, unlinked, held, unmatched }, changes }
+  return { counts: { tracks, linked, relinked, unlinked, held, filed, unmatched }, changes }
 }
 
 export function rowsOf(counts: Counted): readonly string[] {
@@ -163,12 +178,13 @@ export function rowsOf(counts: Counted): readonly string[] {
     `relinked\t${counts.relinked}`,
     `unlinked\t${counts.unlinked}`,
     `already\t${counts.held}`,
+    `filed\t${counts.filed}`,
     `unmatched\t${counts.unmatched}`,
   ]
 }
 
 export function messageOf(counts: Counted): string {
-  return `name the song on ${counts.linked + counts.relinked} track(s) and take it off ${counts.unlinked}`
+  return `file ${counts.filed} song(s) and name the song on ${counts.linked + counts.relinked} track(s)`
 }
 
 async function ran(argv: readonly string[], given: Given, landing: Landing): Promise<Answer> {

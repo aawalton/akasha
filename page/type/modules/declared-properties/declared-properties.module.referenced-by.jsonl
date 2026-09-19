@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"agent/model/account/modules/marking/model-account-marking.module.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/agent/page-type/add-property-to-every-page/add-property-to-every-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.test.ts"}
@@ -23,6 +22,7 @@
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/modules/key-requiring/key-requiring.module.test.ts"}
+{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/modules/page-editing/page-editing.module.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/modules/value-carrying/value-carrying.module.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.audit.code.ts"}

@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A caller writing a page composes that page and hands the body to one change."},{"decisionKind":"decision-kind/departure","statement":"A page that will not compose throws, because no caller here can go on without it."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a file."}]}
+{"definition":"the change that writes a page composed from a caller's values"}
+{"id":"01a0bd42-8e07-7b55-a4c1-2f9d6e3708ab"}
+{"slug":"page-editing"}
+{"test":"ts"}
+{"type":"page-type/module"}
