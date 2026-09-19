@@ -55,9 +55,5 @@ export const gapTreePanel = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here decides the look of a row.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A gap Alan deletes here goes from the page stating that gap.",
-    },
   ],
 } as const satisfies Module
