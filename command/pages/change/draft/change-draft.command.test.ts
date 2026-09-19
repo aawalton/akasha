@@ -1,10 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { DATA, OK, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import {
-  CHOSEN,
-  changeDraft,
-  drafted,
-} from "akasha/command/pages/change/draft/change-draft.command.code.ts"
 import { REFUSES_CODE } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import {
   applied,
@@ -14,6 +8,12 @@ import {
   repoWith,
   scratch,
 } from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
+import { DATA, OK, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import {
+  CHOSEN,
+  changeDraft,
+  drafted,
+} from "akasha/command/pages/change/draft/change-draft.command.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -10,6 +10,7 @@ import {
   appendEdits,
   editsIn,
 } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   droppingRecords,
   listingRecords,
@@ -18,7 +19,6 @@ import {
   takingRecords,
 } from "akasha/command/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.code.ts"
 import { scratch } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
-import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -3,13 +3,6 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { editsIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
-import { DATA, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import { baseOf as headOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import {
-  CHOSEN,
-  changeApply,
-} from "akasha/command/pages/change/apply/change-apply.command.code.ts"
-import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import { REFUSES_CODE } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
@@ -25,6 +18,10 @@ import {
   THREE_AT,
   wrote,
 } from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
+import { DATA, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { baseOf as headOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { CHOSEN, changeApply } from "akasha/command/pages/change/apply/change-apply.command.code.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 
 afterAll(scratch.sweep)
 
