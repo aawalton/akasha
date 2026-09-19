@@ -1123,6 +1123,7 @@
 {"propertySlug":"decision-kind","path":"alan/track/tracking-entry/tracking-entry.page-type.ts","id":"01a06827-ec0c-7c96-bc4a-ca5b59f6b38f"}
 {"propertySlug":"decision-kind","path":"alan/track/tracking-field/tracking-field.page-type.ts","id":"01a06827-ec0c-79f7-864d-da0cf491975e"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/coaching/coaching-schedule/day/coaching-schedule-day.page-type.ts","id":"01a0657a-e62d-71ab-9830-6a438684618d"}
+{"propertySlug":"decision-kind","path":"alan/value/health/fitness/coaching/movement-restriction/movement-restriction.page-type.ts","id":"01a0b701-cf5a-7a05-8428-2b41611a70f4"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/coaching/note/fitness-coaching-note.page-type.ts","id":"01a08181-f205-7092-900f-58e2075a7529"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/equipment/fitness-equipment.page-type.ts","id":"01a06834-ca86-76cb-a54a-6f86a5225afc"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-available.boolean-property.ts","id":"01a06865-7f45-728c-9ab5-6435379d69d3"}

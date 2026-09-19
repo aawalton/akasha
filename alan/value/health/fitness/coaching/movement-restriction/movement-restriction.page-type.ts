@@ -14,4 +14,24 @@ export const movementRestriction = {
   types: "ts",
   schema: "jsonl",
   parts: ["calendar-date-property/tested-again"],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A restriction keeps out a movement pattern rather than one movement.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pattern no restriction names is offered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A restriction past the day it names keeps its pattern out until Alan tests that restriction.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A restriction is deleted rather than marked over when Alan may perform the pattern again.",
+    },
+  ],
 } as const satisfies PageType
