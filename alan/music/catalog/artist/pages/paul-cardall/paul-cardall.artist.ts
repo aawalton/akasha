@@ -14,17 +14,18 @@ export const paulCardall = {
   unit: "unit/minutes",
   externalIdentity: [
     {
-      source: "spotify",
-      externalId: "7FQRbf8gbKw8KZQZAJWxH2",
-      externalLink: "https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2",
-      lastSyncedAt: "2026-09-18",
-    },
-    {
       source: "musicbrainz",
       externalId: "b45ecac2-4e1e-48e4-8131-20b66bf3ae5e",
       externalLink: "https://musicbrainz.org/artist/b45ecac2-4e1e-48e4-8131-20b66bf3ae5e",
       lastSyncedAt: "2026-09-19",
     },
+    {
+      source: "spotify",
+      externalId: "7FQRbf8gbKw8KZQZAJWxH2",
+      externalLink: "https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2",
+      lastSyncedAt: "2026-09-18",
+    },
   ],
   title: "Paul Cardall",
+  genre: [],
 } as const satisfies Artist
