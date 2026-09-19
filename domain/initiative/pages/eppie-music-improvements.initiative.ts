@@ -8,9 +8,6 @@ export const eppieMusicImprovements = {
   persona: "persona/eppie",
   intentStack: [
     {
-      statement: "Every artist whose tracks Alan keeps has the songs of that artist filed.",
-    },
-    {
       statement: "Every track names the song that track is a recording of.",
     },
     {
