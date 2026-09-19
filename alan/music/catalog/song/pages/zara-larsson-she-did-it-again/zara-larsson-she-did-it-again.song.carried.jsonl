@@ -1,6 +1,12 @@
 {"artist":"artist/zara-larsson"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"30698d15-f086-44c1-be51-b8a6d5791b8d","externalLink":"https://musicbrainz.org/work/30698d15-f086-44c1-be51-b8a6d5791b8d","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b783-fc9f-7322-9aaf-9f3014fe5d24"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"zara-larsson-she-did-it-again"}
+{"songType":"original"}
+{"syncedLyrics":"txt"}
 {"title":"SHE DID IT AGAIN"}
 {"type":"page-type/song"}
+{"written":"collab"}

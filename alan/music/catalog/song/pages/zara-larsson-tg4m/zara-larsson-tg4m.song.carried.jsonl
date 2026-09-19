@@ -1,11 +1,10 @@
 {"artist":"artist/zara-larsson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"07b3567b-c6ee-42de-9b51-ac58cf758f30","externalLink":"https://musicbrainz.org/work/07b3567b-c6ee-42de-9b51-ac58cf758f30","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"07b3567b-c6ee-42de-9b51-ac58cf758f30","externalLink":"https://musicbrainz.org/work/07b3567b-c6ee-42de-9b51-ac58cf758f30","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49d-b1f9-7075-be67-cb3ac9f0fb27"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"zara-larsson-tg4m"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"TG4M"}
 {"type":"page-type/song"}

@@ -1,11 +1,10 @@
 {"artist":"artist/zara-larsson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"d35db7a6-f7c2-4003-9ebf-40f41f214c11","externalLink":"https://musicbrainz.org/work/d35db7a6-f7c2-4003-9ebf-40f41f214c11","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"d35db7a6-f7c2-4003-9ebf-40f41f214c11","externalLink":"https://musicbrainz.org/work/d35db7a6-f7c2-4003-9ebf-40f41f214c11","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4a1-a9ae-7b85-afc4-f2fbeed16035"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"zara-larsson-only-you"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Only You"}
 {"type":"page-type/song"}

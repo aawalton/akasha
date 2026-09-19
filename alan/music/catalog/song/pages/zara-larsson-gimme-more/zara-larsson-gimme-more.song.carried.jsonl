@@ -1,8 +1,7 @@
 {"artist":"artist/zara-larsson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"a7576a67-ecae-3a32-89cb-ff183c927653","externalLink":"https://musicbrainz.org/work/a7576a67-ecae-3a32-89cb-ff183c927653","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"a7576a67-ecae-3a32-89cb-ff183c927653","externalLink":"https://musicbrainz.org/work/a7576a67-ecae-3a32-89cb-ff183c927653","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4a0-ca12-71ec-a7a0-d3fbdc7eda6b"}
 {"performed":true}
 {"slug":"zara-larsson-gimme-more"}
-{"songType":"derivative"}
 {"title":"Gimme More"}
 {"type":"page-type/song"}

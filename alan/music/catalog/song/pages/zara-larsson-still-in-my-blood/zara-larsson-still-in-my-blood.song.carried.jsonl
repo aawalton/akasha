@@ -1,11 +1,10 @@
 {"artist":"artist/zara-larsson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"2b58ba82-a797-41c4-8c96-be0290de681d","externalLink":"https://musicbrainz.org/work/2b58ba82-a797-41c4-8c96-be0290de681d","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"2b58ba82-a797-41c4-8c96-be0290de681d","externalLink":"https://musicbrainz.org/work/2b58ba82-a797-41c4-8c96-be0290de681d","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49e-aced-7fff-ab52-fcf41bfc56d6"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"zara-larsson-still-in-my-blood"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Still in My Blood"}
 {"type":"page-type/song"}

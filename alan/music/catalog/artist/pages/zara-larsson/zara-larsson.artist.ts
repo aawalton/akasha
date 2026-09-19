@@ -16,7 +16,7 @@ export const zaraLarsson = {
       source: "musicbrainz",
       externalId: "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
       externalLink: "https://musicbrainz.org/artist/134e6410-6954-45d1-bd4a-0f2d2ad5471d",
-      lastSyncedAt: "2026-06-08",
+      lastSyncedAt: "2026-09-19",
     },
     {
       source: "spotify",
@@ -29,8 +29,8 @@ export const zaraLarsson = {
   genre: [
     "dance-pop",
     "electropop",
-    "contemporary r&b",
     "pop",
+    "contemporary r&b",
     "alternative pop",
     "dance",
     "disco",

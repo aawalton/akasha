@@ -1,11 +1,10 @@
 {"artist":"artist/zara-larsson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"0b5ac469-a646-44a3-a0a5-a574c1725830","externalLink":"https://musicbrainz.org/work/0b5ac469-a646-44a3-a0a5-a574c1725830","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"0b5ac469-a646-44a3-a0a5-a574c1725830","externalLink":"https://musicbrainz.org/work/0b5ac469-a646-44a3-a0a5-a574c1725830","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49d-dc54-7235-a92c-53a129e547af"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"zara-larsson-morning"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Morning"}
 {"type":"page-type/song"}

@@ -1,11 +1,10 @@
 {"artist":"artist/zara-larsson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"60ad0360-83f2-4d60-a1b5-f1e21fc7c8ca","externalLink":"https://musicbrainz.org/work/60ad0360-83f2-4d60-a1b5-f1e21fc7c8ca","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"60ad0360-83f2-4d60-a1b5-f1e21fc7c8ca","externalLink":"https://musicbrainz.org/work/60ad0360-83f2-4d60-a1b5-f1e21fc7c8ca","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49f-cffd-72e7-9f1e-eb5c277aa85a"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"zara-larsson-now-you-re-gone"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Now You’re Gone"}
 {"type":"page-type/song"}

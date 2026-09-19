@@ -1,11 +1,10 @@
 {"artist":"artist/zara-larsson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"f79b6304-8adf-4627-a193-9d6caa5e62af","externalLink":"https://musicbrainz.org/work/f79b6304-8adf-4627-a193-9d6caa5e62af","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"f79b6304-8adf-4627-a193-9d6caa5e62af","externalLink":"https://musicbrainz.org/work/f79b6304-8adf-4627-a193-9d6caa5e62af","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4a2-2132-7443-8ae8-b8783106f895"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"zara-larsson-rooftop"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Rooftop"}
 {"type":"page-type/song"}

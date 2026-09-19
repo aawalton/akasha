@@ -1,11 +1,10 @@
 {"artist":"artist/zara-larsson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"979ba368-f8bf-4c5f-8af9-10ea72a31892","externalLink":"https://musicbrainz.org/work/979ba368-f8bf-4c5f-8af9-10ea72a31892","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"979ba368-f8bf-4c5f-8af9-10ea72a31892","externalLink":"https://musicbrainz.org/work/979ba368-f8bf-4c5f-8af9-10ea72a31892","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4a0-8c5c-7e2e-8845-c570911bb621"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"zara-larsson-skippin-a-beat"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Skippin a Beat"}
 {"type":"page-type/song"}

@@ -1,11 +1,10 @@
 {"artist":"artist/zara-larsson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"c3544839-37a7-46f9-adce-dfeb8d2c95ce","externalLink":"https://musicbrainz.org/work/c3544839-37a7-46f9-adce-dfeb8d2c95ce","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"c3544839-37a7-46f9-adce-dfeb8d2c95ce","externalLink":"https://musicbrainz.org/work/c3544839-37a7-46f9-adce-dfeb8d2c95ce","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4a1-6eaf-7d3b-893f-b8fdf6f9dfb0"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"zara-larsson-so-good"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"So Good"}
 {"type":"page-type/song"}

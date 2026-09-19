@@ -1,11 +1,10 @@
 {"artist":"artist/zara-larsson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"abf8eb9a-492a-4fa7-9aa8-ad95a0da9860","externalLink":"https://musicbrainz.org/work/abf8eb9a-492a-4fa7-9aa8-ad95a0da9860","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"abf8eb9a-492a-4fa7-9aa8-ad95a0da9860","externalLink":"https://musicbrainz.org/work/abf8eb9a-492a-4fa7-9aa8-ad95a0da9860","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4a0-daf0-786e-80eb-00b0b3504b7a"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"zara-larsson-end-of-time"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"End of Time"}
 {"type":"page-type/song"}
