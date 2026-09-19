@@ -235,7 +235,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/page-asking-reads-the-checkout-while-page-calling-fetches-from-the-same-package.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/page-key-order-is-bound-by-page-composing-and-contradicted-by-most-pages.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/page-listening-states-concurrency-by-measuring-completion-order.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/parts-admits-only-a-domain-so-a-page-type-cannot-declare-its-own-pages.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/pending-law-has-no-watcher.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/priming-guards-the-first-capture-rather-than-the-first-after-a-gap.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/ranked-remediation-plan-absent.finding.ts"}
