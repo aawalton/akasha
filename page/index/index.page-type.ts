@@ -32,6 +32,7 @@ export const index = {
     "module/path-claiming",
     "module/path-naming",
     "module/property-carrying",
+    "module/property-declaring",
     "module/property-file",
     "module/property-shaping",
     "module/quote-holding",

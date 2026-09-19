@@ -6,10 +6,8 @@ import {
   fileKeysAt,
   pageTypesIn,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
-import {
-  carryingOf,
-  declaringOf,
-} from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
+import { carryingOf } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
+import { declaringOf } from "akasha/page/index/modules/property-declaring/property-declaring.module.code.ts"
 import { shapesAt } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { knownIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import {

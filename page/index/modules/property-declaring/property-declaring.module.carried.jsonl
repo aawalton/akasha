@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Which page types declare a property is one read beside that property's page."},{"decisionKind":"decision-kind/departure","statement":"A page type declaring a property carries the property to every type beneath that page type."},{"decisionKind":"decision-kind/departure","statement":"Descent is read from the reverse of `extends-type` rather than from a page type's body."},{"decisionKind":"decision-kind/departure","statement":"A property declared as a record's field is carried by the types with that record."},{"decisionKind":"decision-kind/departure","statement":"A property nested deeper than one record is not reached."},{"decisionKind":"decision-kind/departure","statement":"A page type carrying a property is answered whether or not a page of it is there."},{"decisionKind":"decision-kind/departure","statement":"A name no page property has is answered with no page type rather than refusing."},{"decisionKind":"decision-kind/absence","statement":"No page under a page type is read here."}]}
+{"definition":"the page types declaring a page property, and the types beneath each of them"}
+{"id":"01a0bad1-8914-7aa5-872e-317c0fc77cd8"}
+{"slug":"property-declaring"}
+{"test":"ts"}
+{"type":"page-type/module"}

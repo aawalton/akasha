@@ -240,8 +240,17 @@ export const propertyCarrying = {
       statement: "Nothing judges that a group's code writes the file the property names.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A caller wanting the page types alone is answered without every page under them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page type carrying a property is answered whether or not a page of it is there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A face answers the page types alone as well as the pages.",
     },
   ],
 } as const satisfies Module

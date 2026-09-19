@@ -18,10 +18,12 @@ import {
 import { manifestsBeside } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import {
   carryingOf,
-  type Declaring,
-  declaringOf,
   type Carried as Reached,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
+import {
+  type Declaring,
+  declaringOf,
+} from "akasha/page/index/modules/property-declaring/property-declaring.module.code.ts"
 import { shapesAt } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { knownIn, type Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import {

@@ -201,6 +201,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/index/modules/path-claiming/path-claiming.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/index/modules/path-naming/path-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/index/modules/property-carrying/property-carrying.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/index/modules/property-declaring/property-declaring.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/index/modules/property-file/property-file.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/index/modules/reading/index-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/index/modules/settling/index-settling.module.code.ts"}

@@ -1,10 +1,14 @@
 import { existsSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
+import {
+  declaringOf,
+  typesCarrying,
+  underneath,
+} from "akasha/page/index/modules/property-declaring/property-declaring.module.code.ts"
 import { shapeOf } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import {
   everyOfType,
   listedAt,
-  listedById,
   readingIn,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -16,13 +20,9 @@ import {
   partedIn,
   sectionedIn,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
+
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
-
-const DECLARES = "page-property"
-
-const EXTENDS = "extends-type"
 
 const PAGE_TYPE = "page-type"
 
@@ -62,43 +62,6 @@ export type Carrying = {
 }
 
 export type Carried = { readonly carrying: readonly Carrying[] } | { readonly refused: string }
-
-export type Declaring = {
-  readonly slug: string
-  readonly kind: string
-  readonly id: string
-  readonly path: string
-}
-
-export function declaringOf(given: string | Reading, id: string): readonly Declaring[] {
-  const reading = readingIn(given)
-  const found: Declaring[] = []
-  for (const said of idsNaming(reading, id, DECLARES)) {
-    const listed = listedById(reading, said)
-    if (listed === null) continue
-    const named = partedIn(listed.path)
-    if (named === null || named.sections.length > 0) continue
-    found.push({ slug: named.slug, kind: named.pageType, id: said, path: listed.path })
-  }
-  return found
-}
-
-function underneath(reading: Reading, id: string): readonly string[] {
-  const found: string[] = []
-  const walked = new Set<string>()
-  const waiting = [id]
-  for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
-    if (walked.has(one)) continue
-    walked.add(one)
-    const listed = listedById(reading, one)
-    if (listed === null) continue
-    const named = partedIn(listed.path)
-    if (named === null || named.sections.length > 0 || named.pageType !== PAGE_TYPE) continue
-    found.push(named.slug)
-    waiting.push(...idsNaming(reading, one, EXTENDS))
-  }
-  return found
-}
 
 function carriesNo(named: string): string {
   return `no page property carries the slug \`${named}\`, so which pages carry it could not be answered`
@@ -142,6 +105,13 @@ export function carryingOf(given: string | Reading, named: string): Carried {
   }
   take(listed.id, null)
   return { carrying: ordered(found) }
+}
+
+function typesIn(held: Carried): ReadonlySet<string> {
+  const found = new Set<string>()
+  if ("refused" in held) return found
+  for (const one of held.carrying) found.add(one.pageTypeSlug)
+  return found
 }
 
 export type Naming = {
@@ -253,6 +223,7 @@ function kindedIn(given: string | Reading): Kinded {
 
 export function facingIn(root: string, given: string | Reading): Facing {
   const held = new Map<string, Carried>()
+  const kinds = new Map<string, ReadonlySet<string>>()
   const made: Facing = {
     ...kindedIn(given),
     carryingOf: (named) => {
@@ -260,6 +231,13 @@ export function facingIn(root: string, given: string | Reading): Facing {
       if (found !== undefined) return found
       const one = carryingOf(given, named)
       held.set(named, one)
+      return one
+    },
+    typesCarrying: (named) => {
+      const found = kinds.get(named)
+      if (found !== undefined) return found
+      const one = typesCarrying(given, named)
+      kinds.set(named, one)
       return one
     },
     root,
@@ -284,6 +262,7 @@ export function generatedAt(root: string, path: string): boolean {
 
 export type Facing = Kinded & {
   readonly carryingOf: (named: string) => Carried
+  readonly typesCarrying?: (named: string) => ReadonlySet<string>
   readonly root: string
   readonly holds?: (path: string) => boolean
 }
@@ -301,11 +280,12 @@ const DERIVED = new WeakMap<Facing, Derived>()
 function derivedFor(given: Facing): Derived {
   const found = DERIVED.get(given)
   if (found !== undefined) return found
+  const typesBy = given.typesCarrying ?? ((named: string) => typesIn(given.carryingOf(named)))
   const naming = namingFor(given)
-  const writers = writersIn(naming, given.carryingOf)
+  const writers = writersIn(naming, typesBy)
   const made: Derived = {
-    slugs: slugsWhere(given, generates, given.carryingOf),
-    resolving: slugsWhere(given, toolResolvesPaths, given.carryingOf),
+    slugs: slugsOver(given, generates, typesBy, FILE_PROPERTY),
+    resolving: slugsOver(given, toolResolvesPaths, typesBy, FILE_PROPERTY),
     naming,
     writers,
     sections: writers.size === 0 ? NO_SECTIONS : sectionsOfGroups(given),
@@ -352,6 +332,15 @@ export function slugsWhere(
   carriedBy: (named: string) => Carried,
   under: string = FILE_PROPERTY
 ): ReadonlySet<string> {
+  return slugsOver(given, wanted, (named) => typesIn(carriedBy(named)), under)
+}
+
+function slugsOver(
+  given: Kinded,
+  wanted: (value: Value) => boolean,
+  typesBy: (named: string) => ReadonlySet<string>,
+  under: string
+): ReadonlySet<string> {
   const made = new Set<string>()
   for (const kind of given.kindsUnder(under)) {
     for (const listed of given.everyOfType(kind)) {
@@ -361,9 +350,7 @@ export function slugsWhere(
       const slug = value[PROPERTY_SLUG]
       const said = partedIn(listed.path)
       if (typeof slug !== "string" || said === null || said.sections.length > 0) continue
-      const held = carriedBy(`${said.pageType}/${said.slug}`)
-      if ("refused" in held) continue
-      for (const one of held.carrying) made.add(sectionKey(one.pageTypeSlug, slug))
+      for (const one of typesBy(`${said.pageType}/${said.slug}`)) made.add(sectionKey(one, slug))
     }
   }
   return made
@@ -371,7 +358,7 @@ export function slugsWhere(
 
 function writersIn(
   naming: Iterable<Naming>,
-  carriedBy: (named: string) => Carried
+  typesBy: (named: string) => ReadonlySet<string>
 ): ReadonlyMap<string, string> {
   const made = new Map<string, string>()
   for (const one of naming) {
@@ -383,9 +370,9 @@ function writersIn(
     const group = slugIn(named)
     const said = partedIn(one.path)
     if (group === null || said === null || said.sections.length > 0) continue
-    const held = carriedBy(`${said.pageType}/${said.slug}`)
-    if ("refused" in held) continue
-    for (const two of held.carrying) made.set(sectionKey(two.pageTypeSlug, slug), group)
+    for (const two of typesBy(`${said.pageType}/${said.slug}`)) {
+      made.set(sectionKey(two, slug), group)
+    }
   }
   return made
 }

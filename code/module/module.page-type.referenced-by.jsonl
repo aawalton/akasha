@@ -2134,6 +2134,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/path-claiming/path-claiming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/path-naming/path-naming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/property-carrying/property-carrying.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/property-declaring/property-declaring.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/property-file/property-file.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/property-shaping/property-shaping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/quote-holding/quote-holding.module.ts"}
