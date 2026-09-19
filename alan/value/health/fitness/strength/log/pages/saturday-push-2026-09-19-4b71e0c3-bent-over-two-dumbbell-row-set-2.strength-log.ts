@@ -1,0 +1,18 @@
+import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/strength-log.page-type.types.ts"
+
+export const saturdayPush202609194b71e0c3BentOverTwoDumbbellRowSet2 = {
+  id: "01a0baae-f73a-75a6-a583-fb478b28fcf3",
+  type: "page-type/strength-log",
+  slug: "saturday-push-2026-09-19-4b71e0c3-bent-over-two-dumbbell-row-set-2",
+  title: "Bent Over Two-Dumbbell Row set 2",
+  exercise: "strength-exercise/bent-over-two-dumbbell-row",
+  isWarmup: false,
+  note: "eighteen were asked for and twelve came, late in a long bout",
+  reps: 12,
+  rpe: 9,
+  sessionSlug: "saturday-push-2026-09-19-4b71e0c3",
+  day: "day/day-2026-09-19",
+  setNumber: 2,
+  weight: 30,
+  setPerformedAt: "2026-09-19T17:20:17.000Z",
+} as const satisfies StrengthLog
