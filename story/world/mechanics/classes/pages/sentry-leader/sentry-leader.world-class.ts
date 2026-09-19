@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const sentryLeader = {
+  id: "01a06586-0a2f-7666-8343-262760ee109f",
+  type: "page-type/world-class",
+  slug: "sentry-leader",
+  title: "Sentry Leader",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

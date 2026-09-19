@@ -1,9 +1,0 @@
-import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-class.page-type.types.ts"
-
-export const minerOfTheMagicPickaxe = {
-  id: "01a0657e-0232-7526-9ea8-b442c24ac875",
-  type: "page-type/world-class",
-  slug: "miner-of-the-magic-pickaxe",
-  title: "Miner of the Magic Pickaxe",
-  world: "world/the-wandering-inn",
-} as const satisfies WorldClass

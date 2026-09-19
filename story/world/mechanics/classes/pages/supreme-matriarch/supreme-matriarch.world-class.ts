@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const supremeMatriarch = {
+  id: "01a06586-0a5f-747e-94b1-1ad75fe0b2f3",
+  type: "page-type/world-class",
+  slug: "supreme-matriarch",
+  title: "Supreme Matriarch",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

@@ -377,7 +377,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/chapter-read/story-chapter-read.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/engine/doctrine/doctrine.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/game/game.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world-mechanic/world-class/world-class.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world-mechanic/world-mechanic.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world-mechanic/world-skill/world-skill.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/builds/story-build.page-type.ts"}
@@ -388,6 +387,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/aspects/world-aspect.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/boons/world-boon.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/carried-memories/world-carried-memory.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/classes/world-class.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/conditions/world-condition.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/curses/world-curse.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/enchantments/world-enchantment.page-type.ts"}

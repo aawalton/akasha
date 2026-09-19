@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const valorStrategist = {
+  id: "01a0657e-026e-7d9f-9b82-ed98a2f43512",
+  type: "page-type/world-class",
+  slug: "valor-strategist",
+  title: "Valor Strategist",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

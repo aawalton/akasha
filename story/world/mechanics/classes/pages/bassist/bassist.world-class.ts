@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const bassist = {
+  id: "01a0657e-01b2-780d-941d-cdefb1992e92",
+  type: "page-type/world-class",
+  slug: "bassist",
+  title: "Bassist",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

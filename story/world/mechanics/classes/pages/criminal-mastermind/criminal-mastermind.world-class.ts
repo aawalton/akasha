@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const criminalMastermind = {
+  id: "01a0657e-1350-7eec-8686-605806717d6e",
+  type: "page-type/world-class",
+  slug: "criminal-mastermind",
+  title: "Criminal Mastermind",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

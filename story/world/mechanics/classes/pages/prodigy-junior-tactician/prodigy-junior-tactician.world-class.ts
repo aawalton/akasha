@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const prodigyJuniorTactician = {
+  id: "01a0657e-0240-7ed6-ae50-dc4a1ec1210f",
+  type: "page-type/world-class",
+  slug: "prodigy-junior-tactician",
+  title: "Prodigy Junior Tactician",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

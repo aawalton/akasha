@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const theVizirOfTreacherousMajesty = {
+  id: "01a0657e-0269-77f9-a10a-c5c7d15b9b20",
+  type: "page-type/world-class",
+  slug: "the-vizir-of-treacherous-majesty",
+  title: "The Vizir of Treacherous Majesty",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

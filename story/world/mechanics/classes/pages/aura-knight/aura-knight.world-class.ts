@@ -1,0 +1,12 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const auraKnight = {
+  id: "01a0657e-01ae-76b7-87bc-211cae4b891f",
+  type: "page-type/world-class",
+  slug: "aura-knight",
+  title: "Aura Knight",
+  world: "world/the-wandering-inn",
+  evolvesFromSlugs: ["knight-errant"],
+  evolvesToSlugs: ["knight-of-the-dawn"],
+  references: "jsonl",
+} as const satisfies WorldClass

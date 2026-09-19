@@ -1,0 +1,12 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const survivor = {
+  id: "01a0657e-0262-778c-ae82-163484d094b4",
+  type: "page-type/world-class",
+  slug: "survivor",
+  title: "Survivor",
+  world: "world/the-wandering-inn",
+  aliases: ["survivors"],
+  evolvesToSlugs: ["underworld-survivor"],
+  references: "jsonl",
+} as const satisfies WorldClass

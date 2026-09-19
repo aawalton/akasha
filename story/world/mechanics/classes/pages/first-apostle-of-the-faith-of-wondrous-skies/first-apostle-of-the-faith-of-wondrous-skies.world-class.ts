@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const firstApostleOfTheFaithOfWondrousSkies = {
+  id: "01a0657e-01dc-7d0f-9332-4cd630fa89e7",
+  type: "page-type/world-class",
+  slug: "first-apostle-of-the-faith-of-wondrous-skies",
+  title: "First Apostle of the Faith of Wondrous Skies",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

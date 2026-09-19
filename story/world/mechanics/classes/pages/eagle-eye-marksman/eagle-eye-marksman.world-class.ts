@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const eagleEyeMarksman = {
+  id: "01a0657e-01d5-7e77-92bb-7d7a20f08006",
+  type: "page-type/world-class",
+  slug: "eagle-eye-marksman",
+  title: "Eagle-eye Marksman",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

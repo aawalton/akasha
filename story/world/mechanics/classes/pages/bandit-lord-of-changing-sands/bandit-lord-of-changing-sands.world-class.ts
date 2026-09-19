@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const banditLordOfChangingSands = {
+  id: "01a0657e-01af-7d99-ad42-6df6aee4d2ab",
+  type: "page-type/world-class",
+  slug: "bandit-lord-of-changing-sands",
+  title: "Bandit Lord of Changing Sands",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

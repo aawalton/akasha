@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const gladiatorChampion = {
+  id: "01a0657e-136b-7f1c-bb11-8cf453b44a0e",
+  type: "page-type/world-class",
+  slug: "gladiator-champion",
+  title: "Gladiator Champion",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const lineholders = {
+  id: "01a0657e-138f-753c-aa3a-2debd6502575",
+  type: "page-type/world-class",
+  slug: "lineholders",
+  title: "Lineholders",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

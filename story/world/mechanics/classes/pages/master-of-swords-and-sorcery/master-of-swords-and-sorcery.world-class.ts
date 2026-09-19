@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const masterOfSwordsAndSorcery = {
+  id: "01a0657e-139e-73fb-a4a5-a28702ba15f2",
+  type: "page-type/world-class",
+  slug: "master-of-swords-and-sorcery",
+  title: "Master of Swords and Sorcery",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

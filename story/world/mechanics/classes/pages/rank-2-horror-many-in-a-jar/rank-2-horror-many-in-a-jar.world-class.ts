@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const rank2HorrorManyInAJar = {
+  id: "01a0657e-0243-71d3-93ba-f2f2310a3612",
+  type: "page-type/world-class",
+  slug: "rank-2-horror-many-in-a-jar",
+  title: "Rank 2 Horror – Many in a Jar.",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const wyrmOfNoGoodHumor = {
+  id: "01a06586-0a84-7569-ae48-559c46c6c629",
+  type: "page-type/world-class",
+  slug: "wyrm-of-no-good-humor",
+  title: "Wyrm Of No Good Humor",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

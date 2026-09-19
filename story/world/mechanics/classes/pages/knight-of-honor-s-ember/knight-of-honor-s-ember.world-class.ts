@@ -1,0 +1,11 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const knightOfHonorSEmber = {
+  id: "01a0657e-137d-70f8-a27c-9ffe2647646f",
+  type: "page-type/world-class",
+  slug: "knight-of-honor-s-ember",
+  title: "Knight of Honor’s Ember",
+  world: "world/the-wandering-inn",
+  evolvesFromSlugs: ["courteous-knight"],
+  references: "jsonl",
+} as const satisfies WorldClass

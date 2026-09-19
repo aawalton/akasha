@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const witchOfSecondChancesLBehindYou = {
+  id: "01a0657e-0271-7dd6-b71c-0e94ed64f99d",
+  type: "page-type/world-class",
+  slug: "witch-of-second-chances-l-behind-you",
+  title: "Witch of Second Chances L—BEHIND YOU",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

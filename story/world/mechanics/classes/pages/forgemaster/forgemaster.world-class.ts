@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.types.ts"
+
+export const forgemaster = {
+  id: "01a0657e-01de-76b9-b7ad-de7dedd5ebd7",
+  type: "page-type/world-class",
+  slug: "forgemaster",
+  title: "Forgemaster",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass
