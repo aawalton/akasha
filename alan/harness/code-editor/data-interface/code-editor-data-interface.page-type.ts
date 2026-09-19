@@ -24,6 +24,7 @@ export const codeEditorDataInterface = {
     "module/domain-row-filing",
     "module/domain-tree-hanging",
     "module/finding-tree-assemble",
+    "module/gap-row-filing",
     "module/gap-tree-assemble",
     "module/group-stoplights",
     "module/page-tree-assemble",

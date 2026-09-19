@@ -3,7 +3,11 @@ import { assembleCommandTree } from "akasha/alan/harness/code-editor/data-interf
 import { keptFor } from "akasha/alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.code.ts"
 import type { HungNode } from "akasha/alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.code.ts"
 import { assembleFindingTree } from "akasha/alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts"
-import { assembleGapTree } from "akasha/alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.code.ts"
+import { gapsKept } from "akasha/alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"
+import {
+  assembleGapTree,
+  type Gapped,
+} from "akasha/alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.code.ts"
 import { assemblePageTree } from "akasha/alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.code.ts"
 import {
   COMMAND_TREE,
@@ -105,8 +109,13 @@ function gapRow(root: string, node: HungNode): GapTreeRow {
   }
 }
 
-function gapTreeLine(root: string, given: Reading, domains: readonly DomainRow[]): string {
-  const built = assembleGapTree(given, domains)
+function gapTreeLine(
+  root: string,
+  given: Reading,
+  domains: readonly DomainRow[],
+  gaps: readonly Gapped[]
+): string {
+  const built = assembleGapTree(given, domains, gaps)
   return JSON.stringify({
     roots: built.roots.map((node) => gapRow(root, node)),
     unreached: built.unreached,
@@ -202,12 +211,13 @@ export function drawnFor(change: Change): Drawn {
     const reading = cast.reading
     const kept = keptFor(change, reading, descentMoved(change))
     const domains = rowsFrom(domainsFrom(kept.rows, reading))
-    const edits: FileChange[] = [...kept.edits]
+    const gapped = turned.has(GAP_TREE) ? gapsKept(change, reading) : null
+    const edits: FileChange[] = [...kept.edits, ...(gapped?.edits ?? [])]
     const drawers: readonly (readonly [string, () => string])[] = [
       [COMMAND_TREE, () => commandTreeLine(root, reading, domains)],
       [DOMAIN_TREE, () => domainTreeLine(root, domains)],
       [FINDING_TREE, () => findingTreeLine(root, reading, domains)],
-      [GAP_TREE, () => gapTreeLine(root, reading, domains)],
+      [GAP_TREE, () => gapTreeLine(root, reading, domains, gapped?.gaps ?? [])],
       [PAGE_TREE, () => pageTreeLine(root, reading)],
     ]
     for (const [slug, drawing] of drawers) {

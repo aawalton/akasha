@@ -66,7 +66,11 @@ export function hungOf(gaps: readonly Gapped[]): readonly Hung[] {
   }))
 }
 
-export function assembleGapTree(given: string | Reading, rows?: readonly DomainRow[]): HungTree {
+export function assembleGapTree(
+  given: string | Reading,
+  rows?: readonly DomainRow[],
+  gaps?: readonly Gapped[]
+): HungTree {
   const reading = readingIn(given)
-  return hungOnDomains(domainsIn(reading, rows), hungOf(gapsIn(reading)))
+  return hungOnDomains(domainsIn(reading, rows), hungOf(gaps ?? gapsIn(reading)))
 }

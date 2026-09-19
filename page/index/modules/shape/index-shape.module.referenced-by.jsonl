@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts"}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"change/modules/shadow/change-shadow.module.code.ts"}
