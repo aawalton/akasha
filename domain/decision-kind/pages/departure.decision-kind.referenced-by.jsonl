@@ -3965,7 +3965,6 @@
 {"propertySlug":"decision-kind","path":"temper/item-browser/modules/item-browser-items/item-browser-items.module.ts","id":"01a06178-371f-7441-8cab-2f74d08e70ab"}
 {"propertySlug":"decision-kind","path":"temper/item-browser/modules/item-browser-tooltip-extension/item-browser-tooltip-extension.module.ts","id":"01a06178-3722-761a-a485-c7c7a934b42e"}
 {"propertySlug":"decision-kind","path":"temper/item-browser/modules/item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.ts","id":"01a06178-3722-7072-929f-386663022358"}
-{"propertySlug":"decision-kind","path":"temper/item-browser/modules/item-browser-ui-strings/item-browser-ui-strings.module.ts","id":"01a06178-3723-70ca-b442-161406dbdbd6"}
 {"propertySlug":"decision-kind","path":"temper/item-browser/modules/item-browser-zone-classification/item-browser-zone-classification.module.ts","id":"01a06178-3723-7d81-a3cf-41427a52afb3"}
 {"propertySlug":"decision-kind","path":"temper/item-browser/temper-item-browser.domain.ts","id":"01a06178-3724-7ee9-b831-46e112ae8a76"}
 {"propertySlug":"decision-kind","path":"temper/item-set/modules/item-set-categories/item-set-categories.module.ts","id":"01a090e4-4cd1-7dd9-9df4-7d5cf6c4caed"}
