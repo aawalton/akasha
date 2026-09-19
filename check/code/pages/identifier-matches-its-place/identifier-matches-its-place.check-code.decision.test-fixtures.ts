@@ -63,6 +63,14 @@ export const FIXED_BODY = "export function __TS__ArrayAt() {}\n"
 
 export const FIXED_HELD = "export const __TS__ArrayAt = { one: 1 }\n"
 
+export const TAKEN_AT = "akasha/pages/at/at.change-agent.code.ts"
+
+export const TAKEN = 'export const takes = ["at"]\n'
+
+export const WRITTEN =
+  'const HELD = "one"\nconst OVER = { one: 1 }\nconst EVERY = [1]\nconst SHAPE = /one/\n' +
+  "const SAID = `one`\nconst ON = true\nconst OFF = false\nconst COUNT = 2\n"
+
 export const DRAWN_NULL = "export function RungOf() {\n  return null\n}\n"
 
 export const DRAWN_ONE = "export function RungOf() {\n  return 1\n}\n"
@@ -71,6 +79,7 @@ export const DRAWN_HELD = "function RungOf() {\n  return null\n}\n"
 
 export const PLACES: Places = {
   fixed: new Map([["akasha/lualib-helper", "__TS__ArrayAt"]]),
+  loaded: new Map([["change-agent", new Set(["runChange", "takes"])]]),
   typeIdentifier: {
     nameFormat: typeIdentifier.nameFormat,
     matching: upperCamelCase,

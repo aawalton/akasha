@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type states what its loader reads, rather than a check keeping a list."},{"decisionKind":"decision-kind/constraint","statement":"A name here is fixed by the loader reading it rather than chosen by a writer."},{"decisionKind":"decision-kind/departure","statement":"A name here is an export of the code beside a page of the page type stating it."}]}
+{"definition":"the name a page type's loader reads out of the code beside a page of that type"}
+{"id":"01a0b86a-b8c8-7c0c-a118-b4007378118e"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"loaded-export"}
+{"slug":"loaded-export"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

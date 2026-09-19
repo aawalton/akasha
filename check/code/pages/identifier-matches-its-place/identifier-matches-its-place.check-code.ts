@@ -187,6 +187,11 @@ export const identifierMatchesItsPlace = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A name a page type states as a `loadedExport` is passed over in the code beside a page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A name declared both as a type and as a value in the same file stands in the type's place.",
     },
   ],

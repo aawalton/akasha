@@ -30,4 +30,5 @@ export const changeAgent = {
   ],
   types: "ts",
   schema: "jsonl",
+  loadedExport: ["runChange", "takes"],
 } as const satisfies PageType

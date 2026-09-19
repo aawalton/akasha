@@ -7,6 +7,10 @@ import { luaExport } from "akasha/design/language/lua-compiler/lualib-helper/pro
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  textAt,
+  textsAt,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { matchingIn } from "akasha/page/name-format/modules/format-reaching/format-reaching.module.code.ts"
 import type { Matching } from "akasha/page/name-format/modules/name-matching/name-matching.module.code.ts"
 import { componentIdentifier } from "akasha/page/name-place/pages/component-identifier.name-place.ts"
@@ -15,6 +19,7 @@ import { derivedIdentifier } from "akasha/page/name-place/pages/derived-identifi
 import { functionIdentifier } from "akasha/page/name-place/pages/function-identifier.name-place.ts"
 import { typeIdentifier } from "akasha/page/name-place/pages/type-identifier.name-place.ts"
 import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
+import { loadedExport } from "akasha/page/type/properties/loaded-export.text-property.ts"
 import ts from "typescript"
 
 const UNDER = "_"
@@ -26,6 +31,14 @@ const DRAWN = ".tsx"
 const FIXED_BY = `${textProperty.slug}/${luaExport.slug}` as const
 
 const FIXED_KEY = "luaExport"
+
+const LOADED_BY = `${textProperty.slug}/${loadedExport.slug}` as const
+
+const LOADED_KEY = "loadedExport"
+
+const SLUG = "slug"
+
+const CODE = "code"
 
 const OPENING = /^[A-Z]/
 
@@ -49,6 +62,7 @@ export type Places = {
   readonly constantIdentifier: Placing
   readonly derivedIdentifier: Placing
   readonly fixed: ReadonlyMap<string, string>
+  readonly loaded: ReadonlyMap<string, ReadonlySet<string>>
 }
 
 type Working = {
@@ -286,6 +300,12 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
   }
   const drawnIn = at.endsWith(DRAWN)
   const fixedHere = places.fixed.get(dirname(at))
+  const parted = partedIn(at)
+  const loadedHere =
+    parted === null || parted.sections.length !== 1 || parted.sections[0] !== CODE
+      ? undefined
+      : places.loaded.get(parted.pageType)
+  const fixedAs = (held: string): boolean => held === fixedHere || loadedHere?.has(held) === true
   const alsoAType = (name: ts.Identifier, holding: ts.Node | null): boolean =>
     holding === null && typed.has(name.text)
   const taking = (
@@ -294,7 +314,7 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
     scope: ts.Node,
     declared: ts.Node
   ): undefined => {
-    if (name.text === fixedHere) return
+    if (fixedAs(name.text)) return
     if (drawing(held) || openedAsATag(scope, name.text)) {
       return take(name, "component", places.componentIdentifier)
     }
@@ -336,7 +356,7 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
   }
   ts.forEachChild(source, (each) => walk(each, null))
   for (const one of constantsIn(source, at)) {
-    if (one.text === fixedHere || typed.has(one.text)) continue
+    if (fixedAs(one.text) || typed.has(one.text)) continue
     take(one, "constant", places.constantIdentifier)
   }
   return found
@@ -355,6 +375,21 @@ function fixedNamesIn(index: Answering): ReadonlyMap<string, string> {
   return found
 }
 
+function loadedNamesIn(index: Answering): ReadonlyMap<string, ReadonlySet<string>> {
+  const found = new Map<string, ReadonlySet<string>>()
+  const held = index.carryingOf(LOADED_BY)
+  if ("refused" in held) return found
+  for (const one of held.carrying) {
+    const value = index.pageByPath(one.path)
+    if (value === null) continue
+    const named = textsAt(value, LOADED_KEY)
+    const slug = textAt(value, SLUG)
+    if (named === null || slug === null) continue
+    found.set(slug, new Set(named))
+  }
+  return found
+}
+
 export function placesIn(
   root: string,
   index: Answering,
@@ -367,6 +402,7 @@ export function placesIn(
   })
   return {
     fixed: fixedNamesIn(index),
+    loaded: loadedNamesIn(index),
     typeIdentifier: held(typeIdentifier.nameFormat),
     functionIdentifier: held(functionIdentifier.nameFormat),
     componentIdentifier: held(componentIdentifier.nameFormat),

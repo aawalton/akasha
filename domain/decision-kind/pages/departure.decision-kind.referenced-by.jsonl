@@ -3035,6 +3035,7 @@
 {"propertySlug":"decision-kind","path":"page/type/properties/image-media.record-property.ts","id":"01a062b8-8775-7002-af76-179b0e1a6c4c"}
 {"propertySlug":"decision-kind","path":"page/type/properties/length-property-id.text-property.ts","id":"01a0683a-620a-7c9f-8c62-ed7e2e10a9ca"}
 {"propertySlug":"decision-kind","path":"page/type/properties/load-scroll.text-property.ts","id":"01a0683a-620a-720b-9442-1f4e5f29ea33"}
+{"propertySlug":"decision-kind","path":"page/type/properties/loaded-export.text-property.ts","id":"01a0b86a-b8c8-7c0c-a118-b4007378118e"}
 {"propertySlug":"decision-kind","path":"page/type/properties/many-declaration.record-property.ts","id":"01a090a6-984a-7b9d-99e6-299e1fff2958"}
 {"propertySlug":"decision-kind","path":"page/type/properties/mark-read-on-end.boolean-property.ts","id":"01a0683a-620a-702a-911f-7f996e1b3876"}
 {"propertySlug":"decision-kind","path":"page/type/properties/media-config.record-property.ts","id":"01a062b8-8775-7000-98df-e9b05641a5fe"}

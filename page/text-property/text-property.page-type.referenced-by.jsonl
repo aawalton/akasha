@@ -326,6 +326,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/header-fields.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/length-property-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/load-scroll.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/loaded-export.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/media-renderer.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/media-source-property-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/media-variant-axis.text-property.ts"}

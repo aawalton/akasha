@@ -325,6 +325,7 @@
 {"propertySlug":"decision-kind","path":"page/service/modules/file-answering/file-answering.module.ts","id":"01a0784a-085f-7c1d-aec3-7e04a398f007"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-composing/page-composing.module.ts","id":"01a05de9-57a4-7810-8d1f-402752b1598b"}
 {"propertySlug":"decision-kind","path":"page/service/page-service.service-workstation.ts","id":"01a05a43-5afa-7d0d-8d60-dbd3c3498f99"}
+{"propertySlug":"decision-kind","path":"page/type/properties/loaded-export.text-property.ts","id":"01a0b86a-b8c8-7c0c-a118-b4007378118e"}
 {"propertySlug":"decision-kind","path":"person/modules/device-secret-minting/device-secret-minting.module.ts","id":"01a05b54-a906-71e9-a3de-4d27766113e0"}
 {"propertySlug":"decision-kind","path":"person/modules/health-samples-body/health-samples-body.module.ts","id":"01a05b54-a90a-7911-bee0-2578b8352aa6"}
 {"propertySlug":"decision-kind","path":"persona/modules/voice-spec/voice-spec.module.ts","id":"01a05b70-a58d-78db-84fb-024bfd2939aa"}

@@ -70,6 +70,7 @@ export const pageType = {
     "text-property/sequence-group-by",
     "text-property/sequence-order-by",
     "true-property/many-valued",
+    "text-property/loaded-export",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -108,6 +109,7 @@ export const pageType = {
     { pageProperty: "file-property/schema", required: false, many: false },
     { pageProperty: "file-property/shapes", required: false, many: false },
     { pageProperty: "text-property/plural-slug", required: false, many: false },
+    { pageProperty: "text-property/loaded-export", required: false, many: true, maxCount: null },
   ],
   typeGenerator: "ts",
   decisions: [

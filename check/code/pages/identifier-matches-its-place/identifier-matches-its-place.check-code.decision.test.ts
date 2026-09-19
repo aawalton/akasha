@@ -14,8 +14,11 @@ import {
   LOWER_CAMEL,
   PAGE_AT,
   PLACES,
+  TAKEN,
+  TAKEN_AT,
   UPPER_CAMEL,
   UPPER_SNAKE,
+  WRITTEN,
 } from "akasha/check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.test-fixtures.ts"
 import { componentIdentifier } from "akasha/page/name-place/pages/component-identifier.name-place.ts"
 import { constantIdentifier } from "akasha/page/name-place/pages/constant-identifier.name-place.ts"
@@ -65,10 +68,7 @@ test("a function bound inside another function is judged as well", () => {
 })
 
 test("a constant written out at the top of a file is judged, whatever the literal is", () => {
-  const body =
-    'const HELD = "one"\nconst OVER = { one: 1 }\nconst EVERY = [1]\nconst SHAPE = /one/\n' +
-    "const SAID = `one`\nconst ON = true\nconst OFF = false\nconst COUNT = 2\n"
-  expect(refusedIn(AT, body, PLACES)).toEqual([])
+  expect(refusedIn(AT, WRITTEN, PLACES)).toEqual([])
 })
 
 test("a constant not in upper snake case is refused, naming the line and the format", () => {
@@ -293,13 +293,15 @@ test("a name is a component only where the element opening with it is in the sam
   expect(said[0]).toContain("the name `Icon`")
 })
 
-test("a name another writer fixed is passed over, bound to a function or to a literal", () => {
+test("a name another writer or a loader fixed is passed over, however it is bound", () => {
   const body = "type bag_slot = number\n"
   expect(refusedIn("akasha/eso-writ.type-declaration.d.ts", body, PLACES)).toEqual([])
   expect(refusedIn(AT, body, PLACES)).toHaveLength(1)
   expect(refusedIn(FIXED_AT, FIXED_BODY, PLACES)).toEqual([])
   expect(refusedIn(FIXED_AT, FIXED_HELD, PLACES)).toEqual([])
   expect(refusedIn(AT, FIXED_HELD, PLACES)).toHaveLength(1)
+  expect(refusedIn(TAKEN_AT, TAKEN, PLACES)).toEqual([])
+  expect(refusedIn(AT, TAKEN, PLACES)).toHaveLength(1)
 })
 
 test("a declaration in an ordinary file is passed over, and a name beside it is not", () => {

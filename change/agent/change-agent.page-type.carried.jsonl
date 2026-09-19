@@ -2,6 +2,7 @@
 {"definition":"a change an agent reaches by name"}
 {"extends":["page-type/change"]}
 {"id":"01a07e9a-630c-75a2-b4ec-5106861a8009"}
+{"loadedExport":["runChange","takes"]}
 {"parts":["domain/change-agent-file","domain/change-agent-file-content","domain/change-agent-folder","domain/change-agent-page-property","domain/change-agent-page-type","domain/change-agent-prose"]}
 {"properties":[{"pageProperty":"number-property/change-max-cpu-seconds","required":true,"many":false},{"pageProperty":"number-property/change-max-memory-mb","required":true,"many":false}]}
 {"schema":"jsonl"}

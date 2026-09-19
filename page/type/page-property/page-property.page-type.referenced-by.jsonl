@@ -117,6 +117,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/type/properties/extends-type.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/type/properties/header-fields.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/type/properties/loaded-export.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/type/properties/properties.one-of-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/view/properties/always-show-properties.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/view/properties/group-sorts.record-property.types.ts"}

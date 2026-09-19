@@ -4,6 +4,7 @@ import type { DetailConfig } from "akasha/page/type/properties/detail-config.rec
 import type { DrawnOffline } from "akasha/page/type/properties/drawn-offline.boolean-property.types.ts"
 import type { ExtendsType } from "akasha/page/type/properties/extends-type.relation-property.types.ts"
 import type { LoadedBy } from "akasha/page/type/properties/loaded-by.relation-property.types.ts"
+import type { LoadedExport } from "akasha/page/type/properties/loaded-export.text-property.types.ts"
 import type { MediaConfig } from "akasha/page/type/properties/media-config.record-property.types.ts"
 import type { Mortal } from "akasha/page/type/properties/mortal.boolean-property.types.ts"
 import type { Owner } from "akasha/page/type/properties/owner.relation-property.types.ts"
@@ -45,4 +46,5 @@ export type PageType = Domain & {
   schema?: Schema
   shapes?: Shapes
   pluralSlug?: PluralSlug
+  loadedExport?: LoadedExport
 }
