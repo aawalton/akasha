@@ -9,4 +9,5 @@ export const salissOfLights = {
   firstChapter: 415,
   lastChapter: 737,
   characterClaims: "jsonl",
+  aliasOf: "world-character/saliss",
 } as const satisfies WorldCharacter

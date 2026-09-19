@@ -9,4 +9,5 @@ export const richard = {
   firstChapter: 97,
   lastChapter: 438,
   characterClaims: "jsonl",
+  aliasOf: "world-character/richard-davenport",
 } as const satisfies WorldCharacter

@@ -11,4 +11,5 @@ export const revi = {
   firstChapter: 94,
   lastChapter: 413,
   characterClaims: "jsonl",
+  aliasOf: "world-character/revi-cotton",
 } as const satisfies WorldCharacter

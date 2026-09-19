@@ -11,4 +11,5 @@ export const satar = {
   firstChapter: 564,
   lastChapter: 807,
   characterClaims: "jsonl",
+  aliasOf: "world-character/satar-silverfang",
 } as const satisfies WorldCharacter

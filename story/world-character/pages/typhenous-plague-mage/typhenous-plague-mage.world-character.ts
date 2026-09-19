@@ -9,4 +9,5 @@ export const typhenousPlagueMage = {
   firstChapter: 715,
   lastChapter: 715,
   characterClaims: "jsonl",
+  aliasOf: "world-character/typhenous",
 } as const satisfies WorldCharacter

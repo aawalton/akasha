@@ -9,4 +9,5 @@ export const rufelt = {
   firstChapter: 320,
   lastChapter: 644,
   characterClaims: "jsonl",
+  aliasOf: "world-character/rufelt-owelt",
 } as const satisfies WorldCharacter

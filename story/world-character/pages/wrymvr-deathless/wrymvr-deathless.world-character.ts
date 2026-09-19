@@ -9,4 +9,5 @@ export const wrymvrDeathless = {
   firstChapter: 464,
   lastChapter: 464,
   characterClaims: "jsonl",
+  aliasOf: "world-character/wrymvr",
 } as const satisfies WorldCharacter

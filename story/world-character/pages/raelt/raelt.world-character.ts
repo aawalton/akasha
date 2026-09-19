@@ -9,4 +9,5 @@ export const raelt = {
   firstChapter: 326,
   lastChapter: 703,
   characterClaims: "jsonl",
+  aliasOf: "world-character/raelt-leysars",
 } as const satisfies WorldCharacter

@@ -9,4 +9,5 @@ export const quallet = {
   firstChapter: 199,
   lastChapter: 575,
   characterClaims: "jsonl",
+  aliasOf: "world-character/quallet-marshhand",
 } as const satisfies WorldCharacter

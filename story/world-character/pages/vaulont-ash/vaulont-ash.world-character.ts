@@ -9,4 +9,5 @@ export const vaulontAsh = {
   firstChapter: 763,
   lastChapter: 763,
   characterClaims: "jsonl",
+  aliasOf: "world-character/vaulont",
 } as const satisfies WorldCharacter

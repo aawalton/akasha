@@ -9,4 +9,5 @@ export const revine = {
   firstChapter: 326,
   lastChapter: 370,
   characterClaims: "jsonl",
+  aliasOf: "world-character/revine-zecrew",
 } as const satisfies WorldCharacter

@@ -9,4 +9,5 @@ export const reclis = {
   firstChapter: 609,
   lastChapter: 609,
   characterClaims: "jsonl",
+  aliasOf: "world-character/reclis-du-marquin",
 } as const satisfies WorldCharacter

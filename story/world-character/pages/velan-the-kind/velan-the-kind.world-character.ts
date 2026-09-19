@@ -9,4 +9,5 @@ export const velanTheKind = {
   firstChapter: 152,
   lastChapter: 236,
   characterClaims: "jsonl",
+  aliasOf: "world-character/velan",
 } as const satisfies WorldCharacter

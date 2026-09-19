@@ -9,4 +9,5 @@ export const telimHighMage = {
   firstChapter: 431,
   lastChapter: 431,
   characterClaims: "jsonl",
+  aliasOf: "world-character/telim",
 } as const satisfies WorldCharacter

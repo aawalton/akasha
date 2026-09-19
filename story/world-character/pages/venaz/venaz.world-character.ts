@@ -10,4 +10,5 @@ export const venaz = {
   firstChapter: 111,
   lastChapter: 802,
   characterClaims: "jsonl",
+  aliasOf: "world-character/venaz-hammerad",
 } as const satisfies WorldCharacter

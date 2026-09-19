@@ -11,4 +11,5 @@ export const relc = {
   firstChapter: 7,
   lastChapter: 810,
   characterClaims: "jsonl",
+  aliasOf: "world-character/relc-grasstongue",
 } as const satisfies WorldCharacter

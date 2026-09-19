@@ -9,4 +9,5 @@ export const torrebTheUndefeated = {
   firstChapter: 638,
   lastChapter: 638,
   characterClaims: "jsonl",
+  aliasOf: "world-character/torreb",
 } as const satisfies WorldCharacter

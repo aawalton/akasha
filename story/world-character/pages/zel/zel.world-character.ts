@@ -9,4 +9,5 @@ export const zel = {
   firstChapter: 191,
   lastChapter: 257,
   characterClaims: "jsonl",
+  aliasOf: "world-character/zel-shivertail",
 } as const satisfies WorldCharacter

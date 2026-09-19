@@ -9,4 +9,5 @@ export const xrnTheSmallQueen = {
   firstChapter: 153,
   lastChapter: 153,
   characterClaims: "jsonl",
+  aliasOf: "world-character/xrn",
 } as const satisfies WorldCharacter

@@ -9,4 +9,5 @@ export const torishi = {
   firstChapter: 543,
   lastChapter: 584,
   characterClaims: "jsonl",
+  aliasOf: "world-character/torishi-weatherfur",
 } as const satisfies WorldCharacter

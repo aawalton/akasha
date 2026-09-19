@@ -10,4 +10,5 @@ export const xitegen = {
   firstChapter: 656,
   lastChapter: 821,
   characterClaims: "jsonl",
+  aliasOf: "world-character/xitegen-terland",
 } as const satisfies WorldCharacter

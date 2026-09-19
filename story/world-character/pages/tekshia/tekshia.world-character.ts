@@ -9,4 +9,5 @@ export const tekshia = {
   firstChapter: 65,
   lastChapter: 386,
   characterClaims: "jsonl",
+  aliasOf: "world-character/tekshia-shivertail",
 } as const satisfies WorldCharacter

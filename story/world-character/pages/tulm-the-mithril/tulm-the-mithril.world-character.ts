@@ -9,4 +9,5 @@ export const tulmTheMithril = {
   firstChapter: 333,
   lastChapter: 576,
   characterClaims: "jsonl",
+  aliasOf: "world-character/tulm",
 } as const satisfies WorldCharacter

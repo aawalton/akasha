@@ -9,4 +9,5 @@ export const quarassOfGermina = {
   firstChapter: 369,
   lastChapter: 589,
   characterClaims: "jsonl",
+  aliasOf: "world-character/quarass",
 } as const satisfies WorldCharacter

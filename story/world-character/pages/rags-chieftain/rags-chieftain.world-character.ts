@@ -11,4 +11,5 @@ export const ragsChieftain = {
   firstChapter: 741,
   lastChapter: 764,
   characterClaims: "jsonl",
+  aliasOf: "world-character/rags",
 } as const satisfies WorldCharacter

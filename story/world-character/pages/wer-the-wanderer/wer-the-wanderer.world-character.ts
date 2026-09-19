@@ -9,4 +9,5 @@ export const werTheWanderer = {
   firstChapter: 578,
   lastChapter: 677,
   characterClaims: "jsonl",
+  aliasOf: "world-character/wer",
 } as const satisfies WorldCharacter

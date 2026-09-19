@@ -9,4 +9,5 @@ export const watchCaptainZevara = {
   firstChapter: 328,
   lastChapter: 669,
   characterClaims: "jsonl",
+  aliasOf: "world-character/zevara",
 } as const satisfies WorldCharacter

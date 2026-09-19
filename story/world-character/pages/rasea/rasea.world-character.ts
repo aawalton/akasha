@@ -9,4 +9,5 @@ export const rasea = {
   firstChapter: 634,
   lastChapter: 634,
   characterClaims: "jsonl",
+  aliasOf: "world-character/rasea-zecrew",
 } as const satisfies WorldCharacter

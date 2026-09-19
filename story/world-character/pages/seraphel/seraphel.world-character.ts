@@ -11,4 +11,5 @@ export const seraphel = {
   firstChapter: 512,
   lastChapter: 795,
   characterClaims: "jsonl",
+  aliasOf: "world-character/seraphel-du-marquin",
 } as const satisfies WorldCharacter

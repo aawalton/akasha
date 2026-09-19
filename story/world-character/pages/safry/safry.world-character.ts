@@ -9,4 +9,5 @@ export const safry = {
   firstChapter: 189,
   lastChapter: 192,
   characterClaims: "jsonl",
+  aliasOf: "world-character/safry-maran",
 } as const satisfies WorldCharacter

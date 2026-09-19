@@ -9,4 +9,5 @@ export const timbor = {
   firstChapter: 498,
   lastChapter: 498,
   characterClaims: "jsonl",
+  aliasOf: "world-character/timbor-parithad",
 } as const satisfies WorldCharacter

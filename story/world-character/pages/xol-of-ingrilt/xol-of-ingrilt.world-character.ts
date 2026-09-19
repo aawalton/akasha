@@ -9,4 +9,5 @@ export const xolOfIngrilt = {
   firstChapter: 576,
   lastChapter: 576,
   characterClaims: "jsonl",
+  aliasOf: "world-character/xol",
 } as const satisfies WorldCharacter

@@ -9,4 +9,5 @@ export const zail = {
   firstChapter: 366,
   lastChapter: 663,
   characterClaims: "jsonl",
+  aliasOf: "world-character/zail-gemscale",
 } as const satisfies WorldCharacter

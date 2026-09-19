@@ -9,4 +9,5 @@ export const vernoue = {
   firstChapter: 608,
   lastChapter: 773,
   characterClaims: "jsonl",
+  aliasOf: "world-character/vernoue-du-marquin",
 } as const satisfies WorldCharacter

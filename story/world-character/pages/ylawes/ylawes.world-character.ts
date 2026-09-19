@@ -11,4 +11,5 @@ export const ylawes = {
   firstChapter: 145,
   lastChapter: 814,
   characterClaims: "jsonl",
+  aliasOf: "world-character/ylawes-byres",
 } as const satisfies WorldCharacter

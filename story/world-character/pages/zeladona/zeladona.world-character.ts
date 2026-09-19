@@ -9,4 +9,5 @@ export const zeladona = {
   firstChapter: 630,
   lastChapter: 680,
   characterClaims: "jsonl",
+  aliasOf: "world-character/zeladona-ischen",
 } as const satisfies WorldCharacter

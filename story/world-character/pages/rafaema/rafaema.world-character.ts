@@ -9,4 +9,5 @@ export const rafaema = {
   firstChapter: 345,
   lastChapter: 770,
   characterClaims: "jsonl",
+  aliasOf: "world-character/rafaema-skywing",
 } as const satisfies WorldCharacter

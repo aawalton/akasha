@@ -9,4 +9,5 @@ export const sammial = {
   firstChapter: 527,
   lastChapter: 656,
   characterClaims: "jsonl",
+  aliasOf: "world-character/sammial-veltras",
 } as const satisfies WorldCharacter

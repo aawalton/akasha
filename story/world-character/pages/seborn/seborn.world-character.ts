@@ -9,4 +9,5 @@ export const seborn = {
   firstChapter: 96,
   lastChapter: 810,
   characterClaims: "jsonl",
+  aliasOf: "world-character/seborn-sailwinds",
 } as const satisfies WorldCharacter

@@ -9,4 +9,5 @@ export const ulva = {
   firstChapter: 821,
   lastChapter: 821,
   characterClaims: "jsonl",
+  aliasOf: "world-character/ulva-terland",
 } as const satisfies WorldCharacter

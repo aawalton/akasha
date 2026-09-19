@@ -11,4 +11,5 @@ export const rhaldon = {
   firstChapter: 590,
   lastChapter: 675,
   characterClaims: "jsonl",
+  aliasOf: "world-character/rhaldon-flemmens",
 } as const satisfies WorldCharacter

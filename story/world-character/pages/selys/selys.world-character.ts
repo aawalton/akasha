@@ -9,4 +9,5 @@ export const selys = {
   firstChapter: 23,
   lastChapter: 672,
   characterClaims: "jsonl",
+  aliasOf: "world-character/selys-shivertail",
 } as const satisfies WorldCharacter

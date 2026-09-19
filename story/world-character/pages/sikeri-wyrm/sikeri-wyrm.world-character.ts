@@ -9,4 +9,5 @@ export const sikeriWyrm = {
   firstChapter: 475,
   lastChapter: 551,
   characterClaims: "jsonl",
+  aliasOf: "world-character/sikeri",
 } as const satisfies WorldCharacter

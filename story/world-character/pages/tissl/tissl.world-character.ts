@@ -9,4 +9,5 @@ export const tissl = {
   firstChapter: 786,
   lastChapter: 810,
   characterClaims: "jsonl",
+  aliasOf: "world-character/tissl-venleather",
 } as const satisfies WorldCharacter

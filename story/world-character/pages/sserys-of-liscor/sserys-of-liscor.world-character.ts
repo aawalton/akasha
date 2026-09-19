@@ -9,4 +9,5 @@ export const sserysOfLiscor = {
   firstChapter: 113,
   lastChapter: 113,
   characterClaims: "jsonl",
+  aliasOf: "world-character/sserys",
 } as const satisfies WorldCharacter

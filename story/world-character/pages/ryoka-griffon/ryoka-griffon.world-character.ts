@@ -9,4 +9,5 @@ export const ryokaGriffon = {
   firstChapter: 112,
   lastChapter: 112,
   characterClaims: "jsonl",
+  aliasOf: "world-character/ryoka-griffin",
 } as const satisfies WorldCharacter

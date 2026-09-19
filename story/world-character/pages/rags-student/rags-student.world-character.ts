@@ -9,4 +9,5 @@ export const ragsStudent = {
   firstChapter: 741,
   lastChapter: 745,
   characterClaims: "jsonl",
+  aliasOf: "world-character/rags",
 } as const satisfies WorldCharacter

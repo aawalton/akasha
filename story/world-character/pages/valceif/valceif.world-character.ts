@@ -9,4 +9,5 @@ export const valceif = {
   firstChapter: 170,
   lastChapter: 750,
   characterClaims: "jsonl",
+  aliasOf: "world-character/valceif-godfrey",
 } as const satisfies WorldCharacter

@@ -9,4 +9,5 @@ export const regis = {
   firstChapter: 819,
   lastChapter: 819,
   characterClaims: "jsonl",
+  aliasOf: "world-character/regis-reinhart",
 } as const satisfies WorldCharacter
