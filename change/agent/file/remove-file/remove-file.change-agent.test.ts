@@ -1,11 +1,13 @@
 import { expect, test } from "bun:test"
 import { removeFile } from "akasha/change/agent/file/remove-file/remove-file.change-agent.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { removeFileOfAnyKind } from "akasha/change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 
 const ASKED = "the world was asked"
 
-const REMOVE_FILE = "change-mechanical/remove-file-of-any-kind"
+const REMOVE_FILE = `${changeMechanical.slug}/${removeFileOfAnyKind.slug}` as const
 
 const ORDINARY = "akasha/notes.md"
 

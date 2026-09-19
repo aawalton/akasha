@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import { removePage } from "akasha/change/agent/file/remove-page/remove-page.change-agent.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { removeFileOfAnyKind } from "akasha/change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const ASKED = "the world was asked"
@@ -58,6 +60,6 @@ test("a page this change hands on is reached through the runner the world carrie
     { at: "thrumming/one.module.ts" }
   )
 
-  expect(reached).toBe("change-mechanical/remove-file-of-any-kind")
+  expect(reached).toBe(`${changeMechanical.slug}/${removeFileOfAnyKind.slug}`)
   expect(said.refused).toBeNull()
 })

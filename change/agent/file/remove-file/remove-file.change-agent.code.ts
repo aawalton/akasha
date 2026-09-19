@@ -1,3 +1,5 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { removeFileOfAnyKind } from "akasha/change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -5,7 +7,7 @@ import { pageNamed } from "akasha/page/modules/file-name/page-file-name.module.c
 
 const AT = "at"
 
-const REMOVE_FILE = "change-mechanical/remove-file-of-any-kind"
+const REMOVE_FILE = `${changeMechanical.slug}/${removeFileOfAnyKind.slug}` as const
 
 export type RemoveFileAsked = {
   readonly at: string

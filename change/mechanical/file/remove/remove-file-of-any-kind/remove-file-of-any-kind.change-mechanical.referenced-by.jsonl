@@ -3,5 +3,9 @@
 {"propertySlug":"import","fileName":"remove-file-of-any-kind.change-mechanical.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts"}
 {"propertySlug":"import","fileName":"remove-file-of-any-kind.change-mechanical.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
 {"propertySlug":"import","fileName":"remove-file-of-any-kind.change-mechanical.ts","path":"agent/seat/stopping/seat-stopping.module.test.ts"}
+{"propertySlug":"import","fileName":"remove-file-of-any-kind.change-mechanical.ts","path":"change/agent/file/remove-file/remove-file.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"remove-file-of-any-kind.change-mechanical.ts","path":"change/agent/file/remove-file/remove-file.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"remove-file-of-any-kind.change-mechanical.ts","path":"change/agent/file/remove-page/remove-page.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"remove-file-of-any-kind.change-mechanical.ts","path":"change/agent/file/remove-page/remove-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"remove-file-of-any-kind.change-mechanical.ts","path":"command/pages/chess/modules/page-writing/chess-page-writing.module.code.ts"}
 {"propertySlug":"parts","path":"change/mechanical/file/remove/change-mechanical-file-remove.domain.ts","id":"01a07cbe-1911-72dc-869f-8e733656bc1b"}

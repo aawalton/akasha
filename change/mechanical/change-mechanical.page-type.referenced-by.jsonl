@@ -13,6 +13,12 @@
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/change-page-page-type/change-page-page-type.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/move-page/move-page.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/move-page/move-page.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/remove-file/remove-file.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/remove-file/remove-file.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/remove-page/remove-page.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/remove-page/remove-page.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/rename-page/rename-page.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/rename-page/rename-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/chess/modules/page-writing/chess-page-writing.module.code.ts"}

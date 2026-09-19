@@ -3,6 +3,8 @@ import {
   renamePage,
   runChange,
 } from "akasha/change/agent/file/rename-page/rename-page.change-agent.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { renameFilePage } from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.ts"
 import {
   type Carried,
   worldRecording,
@@ -12,7 +14,7 @@ const AT = "akasha/one/held.module.ts"
 
 const TO = "carried"
 
-const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
+const RENAME_FILE_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
 
 test("the whole rename is left to the change reached at its address", async () => {
   const carried: Carried = { at: "", given: null }
