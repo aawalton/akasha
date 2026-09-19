@@ -2,7 +2,7 @@ import { takenFor } from "akasha/command/argument/modules/taking/argument-taking
 import { at } from "akasha/command/argument/pages/at.argument.ts"
 import { day } from "akasha/command/argument/pages/day.argument.ts"
 import { difficulty } from "akasha/command/argument/pages/difficulty.argument.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+
 import { id } from "akasha/command/argument/pages/id.argument.ts"
 import { last } from "akasha/command/argument/pages/last.argument.ts"
 import { open } from "akasha/command/argument/pages/open.argument.ts"
@@ -15,21 +15,19 @@ import {
   addressed,
   faultsIn,
   levelsFor,
-  shownOf,
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import { trackSessionAmend as page } from "akasha/command/pages/track/session/amend/track-session-amend.command.ts"
 import {
   landed,
   standingFor,
   taggingFor,
-  telling,
 } from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 import {
   carriedIn,
   taggedFor,
 } from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
 
-const NAMED = [dryRun, day, at, id, open, last, title, safety, difficulty, relationship]
+const NAMED = [day, at, id, open, last, title, safety, difficulty, relationship]
 
 export async function trackSessionAmend(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
@@ -59,6 +57,5 @@ export async function trackSessionAmend(argv: readonly string[], given: Given): 
   if (changing.difficultyLevel === undefined) delete found.difficultyLevel
   const faults = faultsIn(standing.rows, standing.held)
   if (faults.length > 0) return mistaking(faults)
-  if (standing.dryRun) return telling(shownOf([found]))
   return await landed(standing.held, standing.rows, `Amend ${called} on ${standing.day}`, given)
 }

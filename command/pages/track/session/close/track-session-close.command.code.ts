@@ -1,24 +1,22 @@
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { at } from "akasha/command/argument/pages/at.argument.ts"
 import { day } from "akasha/command/argument/pages/day.argument.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
   faultsIn,
   instantIn,
   sayingFor,
-  shownOf,
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import { trackSessionClose as page } from "akasha/command/pages/track/session/close/track-session-close.command.ts"
 import {
   endingIn,
   landed,
   standingFor,
-  telling,
 } from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 
-const NAMED = [dryRun, day, at]
+const NAMED = [day, at]
 
 export async function trackSessionClose(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
@@ -37,6 +35,5 @@ export async function trackSessionClose(argv: readonly string[], given: Given): 
   found.stretch.endTime = ended
   const faults = faultsIn(found.rows, found.held)
   if (faults.length > 0) return mistaking(faults)
-  if (standing.dryRun) return telling(shownOf(found.rows.slice(-2)))
   return await landed(found.held, found.rows, `Close on ${found.held.day}`, given)
 }

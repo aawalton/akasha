@@ -2,7 +2,7 @@ import { readMountainWallTime } from "akasha/alan/harness/day-boundary/modules/m
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { day } from "akasha/command/argument/pages/day.argument.ts"
 import { difficulty } from "akasha/command/argument/pages/difficulty.argument.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+
 import { relationship } from "akasha/command/argument/pages/relationship.argument.ts"
 import { safety } from "akasha/command/argument/pages/safety.argument.ts"
 import { stretchEnd } from "akasha/command/argument/pages/stretch-end.argument.ts"
@@ -18,21 +18,19 @@ import {
   mintedAt,
   type Row,
   sayingFor,
-  shownOf,
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import { trackSessionLog as page } from "akasha/command/pages/track/session/log/track-session-log.command.ts"
 import {
   landed,
   standingFor,
   taggingFor,
-  telling,
 } from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 import {
   taggedFor,
   taggingOf,
 } from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
 
-const NAMED = [dryRun, day, safety, difficulty, title, stretchStart, stretchEnd, relationship]
+const NAMED = [day, safety, difficulty, title, stretchStart, stretchEnd, relationship]
 
 export async function trackSessionLog(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
@@ -69,6 +67,5 @@ export async function trackSessionLog(argv: readonly string[], given: Given): Pr
   standing.rows.sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
   const faults = faultsIn(standing.rows, standing.held)
   if (faults.length > 0) return mistaking(faults)
-  if (standing.dryRun) return telling(shownOf([one]))
   return await landed(standing.held, standing.rows, `Log ${called} on ${standing.day}`, given)
 }

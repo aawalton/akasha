@@ -39,7 +39,6 @@ export type Standing = {
   readonly held: Held
   readonly rows: Row[]
   readonly activities: readonly ActivityDifficulty[]
-  readonly dryRun: boolean
   readonly mend: boolean
 }
 
@@ -54,7 +53,6 @@ export type Tagging =
 export type Ending = Landing & { readonly stretch: Row }
 
 export type Taking = Anchoring & {
-  readonly dryRun?: boolean
   readonly mend?: boolean
 }
 
@@ -67,7 +65,6 @@ export function standingFor(taken: Taking, root: string, now: Date): Standing | 
     held,
     rows: held.rows.map((one) => ({ ...one })),
     activities: activitiesIn(root),
-    dryRun: taken.dryRun === true,
     mend: taken.mend === true,
   }
 }

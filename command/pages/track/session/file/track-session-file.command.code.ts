@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import { readMountainWallTime } from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { day } from "akasha/command/argument/pages/day.argument.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+
 import { fromFile } from "akasha/command/argument/pages/from-file.argument.ts"
 import { relationship } from "akasha/command/argument/pages/relationship.argument.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
@@ -17,14 +17,12 @@ import {
   faultsIn,
   mintedAt,
   type Row,
-  shownOf,
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import { trackSessionFile as page } from "akasha/command/pages/track/session/file/track-session-file.command.ts"
 import {
   landed,
   standingFor,
   taggingFor,
-  telling,
 } from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 import {
   taggedFor,
@@ -33,7 +31,7 @@ import {
 
 const LINE = /^(\S+)\s+(.+?)(?:\s+s(-?[\d.]+)d([\d.]+))?$/
 
-const NAMED = [dryRun, day, fromFile, relationship]
+const NAMED = [day, fromFile, relationship]
 
 export async function trackSessionFile(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
@@ -108,7 +106,6 @@ export async function trackSessionFile(argv: readonly string[], given: Given): P
   }
   const faults = [...refusals, ...faultsIn(made, standing.held)]
   if (faults.length > 0) return mistaking(faults)
-  if (standing.dryRun) return telling(shownOf(made))
   return await landed(
     standing.held,
     made,

@@ -3,7 +3,7 @@ import { takenFor } from "akasha/command/argument/modules/taking/argument-taking
 import { at } from "akasha/command/argument/pages/at.argument.ts"
 import { day } from "akasha/command/argument/pages/day.argument.ts"
 import { difficulty } from "akasha/command/argument/pages/difficulty.argument.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+
 import { id } from "akasha/command/argument/pages/id.argument.ts"
 import { last } from "akasha/command/argument/pages/last.argument.ts"
 import { open } from "akasha/command/argument/pages/open.argument.ts"
@@ -19,13 +19,11 @@ import {
   levelsFor,
   mintedAt,
   type Row,
-  shownOf,
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import {
   landed,
   standingFor,
   taggingFor,
-  telling,
 } from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 import {
   carriedIn,
@@ -34,7 +32,7 @@ import {
 } from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
 import { trackSessionSplit as page } from "akasha/command/pages/track/session/split/track-session-split.command.ts"
 
-const NAMED = [dryRun, day, at, id, open, last, title, safety, difficulty, relationship]
+const NAMED = [day, at, id, open, last, title, safety, difficulty, relationship]
 
 export async function trackSessionSplit(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
@@ -73,7 +71,6 @@ export async function trackSessionSplit(argv: readonly string[], given: Given): 
   standing.rows.splice(standing.rows.indexOf(found) + 1, 0, next)
   const faults = faultsIn(standing.rows, standing.held)
   if (faults.length > 0) return mistaking(faults)
-  if (standing.dryRun) return telling(shownOf([found, next]))
   return await landed(
     standing.held,
     standing.rows,

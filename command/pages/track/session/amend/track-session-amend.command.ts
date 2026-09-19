@@ -80,16 +80,11 @@ export const trackSessionAmend = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A `--dry-run` judges the change that would land and writes nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A write here is judged as `check` judges.",
     },
   ],
   name: "amend",
   arguments: [
-    { argument: "argument/dry-run" },
     { argument: "argument/day" },
     { argument: "argument/at", oneOf: ["argument/id", "argument/open", "argument/last"] },
     { argument: "argument/id" },

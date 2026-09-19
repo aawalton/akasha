@@ -2,7 +2,7 @@ import { takenFor } from "akasha/command/argument/modules/taking/argument-taking
 import { at } from "akasha/command/argument/pages/at.argument.ts"
 import { day } from "akasha/command/argument/pages/day.argument.ts"
 import { difficulty } from "akasha/command/argument/pages/difficulty.argument.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+
 import { relationship } from "akasha/command/argument/pages/relationship.argument.ts"
 import { safety } from "akasha/command/argument/pages/safety.argument.ts"
 import { title } from "akasha/command/argument/pages/title.argument.ts"
@@ -14,7 +14,6 @@ import {
   levelsFor,
   mintedAt,
   sayingFor,
-  shownOf,
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import {
   opensInto,
@@ -26,7 +25,6 @@ import {
   movedInto,
   standingFor,
   taggingFor,
-  telling,
 } from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 import {
   taggedFor,
@@ -34,7 +32,7 @@ import {
 } from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
 import { trackSessionSwitch as page } from "akasha/command/pages/track/session/switch/track-session-switch.command.ts"
 
-const NAMED = [dryRun, day, safety, difficulty, title, at, relationship]
+const NAMED = [day, safety, difficulty, title, at, relationship]
 
 export async function trackSessionSwitch(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
@@ -70,7 +68,6 @@ export async function trackSessionSwitch(argv: readonly string[], given: Given):
   const landings = home === found ? [found] : [found, home]
   const faults = landings.flatMap((one) => faultsIn(one.rows, one.held))
   if (faults.length > 0) return mistaking(faults)
-  if (standing.dryRun) return telling(shownOf(home.rows.slice(-2)))
   const said =
     home === found
       ? `Switch on ${home.held.day}`

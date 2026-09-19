@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { saidForPart } from "akasha/command/argument/modules/taking/argument-taking.module.test-fixtures.ts"
 import { day } from "akasha/command/argument/pages/day.argument.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+
 import { fromFile } from "akasha/command/argument/pages/from-file.argument.ts"
 import { relationship } from "akasha/command/argument/pages/relationship.argument.ts"
 import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
@@ -16,7 +16,7 @@ const REPO = rootOf(import.meta.dir)
 
 const GIVEN: Given = { root: REPO, calledAs: CALLED_AS, from: REPO, writer: null, agentId: null }
 
-const PAGES = [dryRun, day, fromFile, relationship]
+const PAGES = [day, fromFile, relationship]
 
 const SAYS: readonly string[] = page.arguments.map((one) => saidForPart(PAGES, one.argument))
 
@@ -33,10 +33,10 @@ const fileRefusing = async (argv: readonly string[]): Promise<readonly string[]>
   return answer.refusals
 }
 
-test("the page names four arguments, the file the lines come from being the one it must have", () => {
-  expect(SAYS).toEqual([dryRun.said, day.said, fromFile.said, relationship.said])
-  expect(page.arguments[2]?.required).toBe(true)
-  expect(page.arguments[3]?.repeats).toBe(true)
+test("the page names three arguments, the file the lines come from being the one it must have", () => {
+  expect(SAYS).toEqual([day.said, fromFile.said, relationship.said])
+  expect(page.arguments[1]?.required).toBe(true)
+  expect(page.arguments[2]?.repeats).toBe(true)
 })
 
 test("a call naming no file to read the lines from asks for that file", async () => {

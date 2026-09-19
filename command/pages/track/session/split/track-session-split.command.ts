@@ -83,16 +83,11 @@ export const trackSessionSplit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A `--dry-run` judges the change that would land and writes nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A write here is judged as `check` judges.",
     },
   ],
   name: "split",
   arguments: [
-    { argument: "argument/dry-run" },
     { argument: "argument/day" },
     { argument: "argument/at", required: true },
     { argument: "argument/id" },

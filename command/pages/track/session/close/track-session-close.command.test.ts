@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { saidForPart } from "akasha/command/argument/modules/taking/argument-taking.module.test-fixtures.ts"
 import { at } from "akasha/command/argument/pages/at.argument.ts"
 import { day } from "akasha/command/argument/pages/day.argument.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+
 import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
@@ -15,7 +15,7 @@ const REPO = rootOf(import.meta.dir)
 
 const GIVEN: Given = { root: REPO, calledAs: CALLED_AS, from: REPO, writer: null, agentId: null }
 
-const PAGES = [dryRun, day, at]
+const PAGES = [day, at]
 
 const SAYS: readonly string[] = page.arguments.map((one) => saidForPart(PAGES, one.argument))
 
@@ -32,12 +32,12 @@ const closeRefusing = async (argv: readonly string[]): Promise<readonly string[]
   return answer.refusals
 }
 
-test("the page names the dry run, the day and the time, and a call may say none of them", () => {
-  expect(SAYS).toEqual([dryRun.said, day.said, at.said])
+test("the page names the day and the time, and a call may say neither of them", () => {
+  expect(SAYS).toEqual([day.said, at.said])
   expect(page.arguments.filter((one) => "required" in one).length).toBe(0)
 })
 
-test("a flag this takes no argument at is refused, naming all three arguments it takes", async () => {
+test("a flag this takes no argument at is refused, naming both arguments it takes", async () => {
   const said = await closeRefusing(["--nope"])
 
   expect(said.length).toBe(1)
@@ -75,20 +75,4 @@ test("the time joined to an empty value is refused as the call wrote it", async 
 
   expect(said.length).toBe(1)
   expect(said[0]).toContain(`\`${at.said}=\``)
-})
-
-test("the dry run written with an equals is refused, carrying no value of its own", async () => {
-  const said = await closeRefusing([`${dryRun.said}=true`])
-
-  expect(said.length).toBe(1)
-  expect(said[0]).toContain(`\`${dryRun.said}\``)
-  expect(said[0]).toContain("carries no value")
-})
-
-test("the dry run said twice is refused, though it carries nothing to choose between", async () => {
-  const said = await closeRefusing([dryRun.said, dryRun.said])
-
-  expect(said.length).toBe(1)
-  expect(said[0]).toContain(`\`${dryRun.said}\``)
-  expect(said[0]).toContain("twice")
 })

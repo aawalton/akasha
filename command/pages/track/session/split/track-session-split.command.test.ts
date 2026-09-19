@@ -4,7 +4,7 @@ import { saidForPart } from "akasha/command/argument/modules/taking/argument-tak
 import { at } from "akasha/command/argument/pages/at.argument.ts"
 import { day } from "akasha/command/argument/pages/day.argument.ts"
 import { difficulty } from "akasha/command/argument/pages/difficulty.argument.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+
 import { id } from "akasha/command/argument/pages/id.argument.ts"
 import { last } from "akasha/command/argument/pages/last.argument.ts"
 import { open } from "akasha/command/argument/pages/open.argument.ts"
@@ -23,7 +23,6 @@ const REPO = rootOf(import.meta.dir)
 const GIVEN: Given = { root: REPO, calledAs: CALLED_AS, from: REPO, writer: null, agentId: null }
 
 const PAGES: readonly Argument[] = [
-  dryRun,
   day,
   at,
   id,

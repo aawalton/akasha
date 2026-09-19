@@ -39,17 +39,9 @@ export const trackSessionClose = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A `--dry-run` judges the change that would land and writes nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A write here is judged as `check` judges.",
     },
   ],
   name: "close",
-  arguments: [
-    { argument: "argument/dry-run" },
-    { argument: "argument/day" },
-    { argument: "argument/at" },
-  ],
+  arguments: [{ argument: "argument/day" }, { argument: "argument/at" }],
 } as const satisfies Command

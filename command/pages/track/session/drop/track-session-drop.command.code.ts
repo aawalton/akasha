@@ -1,7 +1,7 @@
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { at } from "akasha/command/argument/pages/at.argument.ts"
 import { day } from "akasha/command/argument/pages/day.argument.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+
 import { id } from "akasha/command/argument/pages/id.argument.ts"
 import { last } from "akasha/command/argument/pages/last.argument.ts"
 import { mend } from "akasha/command/argument/pages/mend.argument.ts"
@@ -11,16 +11,14 @@ import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.
 import {
   addressed,
   faultsIn,
-  shownOf,
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import { trackSessionDrop as page } from "akasha/command/pages/track/session/drop/track-session-drop.command.ts"
 import {
   landed,
   standingFor,
-  telling,
 } from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 
-const NAMED = [dryRun, day, at, id, open, last, mend]
+const NAMED = [day, at, id, open, last, mend]
 
 export async function trackSessionDrop(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
@@ -40,6 +38,5 @@ export async function trackSessionDrop(argv: readonly string[], given: Given): P
   }
   const faults = faultsIn(standing.rows, standing.held)
   if (faults.length > 0) return mistaking(faults)
-  if (standing.dryRun) return telling(shownOf(standing.rows))
   return await landed(standing.held, standing.rows, `Drop ${found.title} on ${standing.day}`, given)
 }

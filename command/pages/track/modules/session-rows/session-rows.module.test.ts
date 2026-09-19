@@ -3,7 +3,7 @@ import { takenFor } from "akasha/command/argument/modules/taking/argument-taking
 import { at } from "akasha/command/argument/pages/at.argument.ts"
 import { day } from "akasha/command/argument/pages/day.argument.ts"
 import { difficulty } from "akasha/command/argument/pages/difficulty.argument.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+
 import { fromFile } from "akasha/command/argument/pages/from-file.argument.ts"
 import { id } from "akasha/command/argument/pages/id.argument.ts"
 import { last } from "akasha/command/argument/pages/last.argument.ts"
@@ -52,7 +52,7 @@ function rowsOf(): Row[] {
   ]
 }
 
-const NAMED = [at, day, difficulty, dryRun, fromFile, relationship, safety, title]
+const NAMED = [at, day, difficulty, fromFile, relationship, safety, title]
 
 const OPENING = "akasha track session open"
 
