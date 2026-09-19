@@ -10,4 +10,5 @@ export const exemplarWarriorUnnamed = {
   eventCount: 7,
   firstChapter: 532,
   lastChapter: 532,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

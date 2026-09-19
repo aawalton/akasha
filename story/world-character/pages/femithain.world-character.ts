@@ -7,6 +7,7 @@ export const femithain = {
   title: "Femithain",
   world: "world/the-wandering-inn",
   eventCount: 1,
-  firstChapter: 457,
-  lastChapter: 457,
+  firstChapter: 326,
+  lastChapter: 528,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

@@ -8,6 +8,7 @@ export const embria = {
   world: "world/the-wandering-inn",
   maxLevel: 29,
   eventCount: 5,
-  firstChapter: 563,
-  lastChapter: 650,
+  firstChapter: 258,
+  lastChapter: 810,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

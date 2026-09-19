@@ -7,6 +7,6 @@ export const erinSolstice = {
   title: "Erin Solstice",
   world: "world/the-wandering-inn",
   firstChapter: 1,
-  lastChapter: 2,
+  lastChapter: 816,
   characterClaims: "jsonl",
 } as const satisfies WorldCharacter

@@ -10,4 +10,5 @@ export const felkhr = {
   eventCount: 2,
   firstChapter: 644,
   lastChapter: 644,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

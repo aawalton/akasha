@@ -8,6 +8,7 @@ export const feshiWeatherfur = {
   world: "world/the-wandering-inn",
   maxLevel: 33,
   eventCount: 5,
-  firstChapter: 638,
+  firstChapter: 417,
   lastChapter: 638,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

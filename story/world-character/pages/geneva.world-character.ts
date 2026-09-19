@@ -9,5 +9,6 @@ export const geneva = {
   maxLevel: 34,
   eventCount: 5,
   firstChapter: 131,
-  lastChapter: 423,
+  lastChapter: 699,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

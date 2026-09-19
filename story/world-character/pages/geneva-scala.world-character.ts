@@ -9,5 +9,6 @@ export const genevaScala = {
   maxLevel: 37,
   eventCount: 18,
   firstChapter: 130,
-  lastChapter: 618,
+  lastChapter: 776,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

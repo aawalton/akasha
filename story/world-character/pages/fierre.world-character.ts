@@ -8,6 +8,7 @@ export const fierre = {
   world: "world/the-wandering-inn",
   maxLevel: 3,
   eventCount: 2,
-  firstChapter: 467,
-  lastChapter: 467,
+  firstChapter: 311,
+  lastChapter: 592,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

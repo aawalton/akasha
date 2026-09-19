@@ -10,4 +10,5 @@ export const fightipilota = {
   eventCount: 25,
   firstChapter: 717,
   lastChapter: 818,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter
