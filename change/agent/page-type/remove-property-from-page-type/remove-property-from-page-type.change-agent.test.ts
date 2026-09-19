@@ -3,6 +3,8 @@ import {
   removePropertyFromPageType,
   runChange,
 } from "akasha/change/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.code.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
+import { removePropertyFromPageType as removePropertyFromPageTypeMechanical } from "akasha/change/mechanical/page-type/remove/remove-property-from-page-type/remove-property-from-page-type.change-mechanical-page-type.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
@@ -15,7 +17,8 @@ const OWNER_AT = "thrumming/moots/moot.page-type.ts"
 
 const PROPERTY = "moot-property/sung-at"
 
-const RUNG = "change-mechanical-page-type/remove-property-from-page-type"
+const RUNG =
+  `${changeMechanicalPageType.slug}/${removePropertyFromPageTypeMechanical.slug}` as const
 
 const REACHED: string[] = []
 

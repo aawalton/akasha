@@ -1,8 +1,11 @@
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
+import { removePropertyFromPageType as removePropertyFromPageTypeMechanical } from "akasha/change/mechanical/page-type/remove/remove-property-from-page-type/remove-property-from-page-type.change-mechanical-page-type.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
-const REMOVE_PROPERTY = "change-mechanical-page-type/remove-property-from-page-type"
+const REMOVE_PROPERTY =
+  `${changeMechanicalPageType.slug}/${removePropertyFromPageTypeMechanical.slug}` as const
 
 const AT = "at"
 

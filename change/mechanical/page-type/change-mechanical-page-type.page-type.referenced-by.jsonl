@@ -19,6 +19,10 @@
 {"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/qualify-relation-on-every-page/qualify-relation-on-every-page.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/remove-property-from-every-page/remove-property-from-every-page.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/remove-property-from-every-page/remove-property-from-every-page.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.code.ts"}

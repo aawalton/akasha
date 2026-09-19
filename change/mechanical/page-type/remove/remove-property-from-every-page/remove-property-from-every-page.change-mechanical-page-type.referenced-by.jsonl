@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"remove-property-from-every-page.change-mechanical-page-type.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"remove-property-from-every-page.change-mechanical-page-type.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"}
 {"propertySlug":"import","fileName":"remove-property-from-every-page.change-mechanical-page-type.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts"}
+{"propertySlug":"import","fileName":"remove-property-from-every-page.change-mechanical-page-type.ts","path":"change/agent/page-type/remove-property-from-every-page/remove-property-from-every-page.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"remove-property-from-every-page.change-mechanical-page-type.ts","path":"change/agent/page-type/remove-property-from-every-page/remove-property-from-every-page.change-agent.test.ts"}
 {"propertySlug":"parts","path":"change/mechanical/page-type/remove/change-mechanical-page-type-remove.domain.ts","id":"01a09c5f-90a2-75a0-9805-10fef574cff4"}

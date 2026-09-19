@@ -3,6 +3,8 @@ import {
   removePropertyFromEveryPage,
   runChange,
 } from "akasha/change/agent/page-type/remove-property-from-every-page/remove-property-from-every-page.change-agent.code.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
+import { removePropertyFromEveryPage as removePropertyFromEveryPageMechanical } from "akasha/change/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { bodiesIn, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
@@ -185,7 +187,9 @@ test("the one change reached is the mechanical change acting on a page type", as
 
   await removePropertyFromEveryPage(world, { pageType: "book-section", key: "sectionOfSlug" })
 
-  expect(seen).toEqual(["change-mechanical-page-type/remove-property-from-every-page"])
+  expect(seen).toEqual([
+    `${changeMechanicalPageType.slug}/${removePropertyFromEveryPageMechanical.slug}`,
+  ])
 })
 
 test("an argument this change was handed no value for is refused by the key", async () => {
