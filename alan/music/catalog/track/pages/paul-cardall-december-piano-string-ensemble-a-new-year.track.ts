@@ -23,4 +23,5 @@ export const paulCardallDecemberPianoStringEnsembleANewYear = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "anewyear|7FQRbf8gbKw8KZQZAJWxH2|167226",
+  song: "song/paul-cardall-a-new-year",
 } as const satisfies Track

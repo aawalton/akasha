@@ -23,4 +23,5 @@ export const paulCardallChristmasHymnsJesuJoyOfMansDesiring = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesujoyofmansdesiring|7FQRbf8gbKw8KZQZAJWxH2|278586",
+  song: "song/paul-cardall-jesu-joy-of-mans-desiring",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const paulCardallHymnsNearerMyGodToThee = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "nearermygodtothee|7FQRbf8gbKw8KZQZAJWxH2|197066",
+  song: "song/paul-cardall-nearer-my-god-to-thee",
 } as const satisfies Track

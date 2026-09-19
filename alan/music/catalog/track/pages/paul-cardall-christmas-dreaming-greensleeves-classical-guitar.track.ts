@@ -26,4 +26,5 @@ export const paulCardallChristmasDreamingGreensleevesClassicalGuitar = {
     { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
   ],
   trackKey: "greensleevesclassicalguitar|2pzgrbowKM8SGmdK3YMcGq,7FQRbf8gbKw8KZQZAJWxH2|186965",
+  song: "song/paul-cardall-greensleeves-classical-guitar",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const paulCardallDailyDevotionsWhereYouThere = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "whereyouthere|7FQRbf8gbKw8KZQZAJWxH2|324586",
+  song: "song/paul-cardall-where-you-there",
 } as const satisfies Track

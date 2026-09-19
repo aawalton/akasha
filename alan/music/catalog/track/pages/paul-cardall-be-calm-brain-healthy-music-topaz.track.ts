@@ -23,4 +23,5 @@ export const paulCardallBeCalmBrainHealthyMusicTopaz = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "topaz|7FQRbf8gbKw8KZQZAJWxH2|162246",
+  song: "song/paul-cardall-topaz",
 } as const satisfies Track

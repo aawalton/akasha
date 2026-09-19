@@ -23,4 +23,5 @@ export const paulCardallChasingCrownsBeBornInMe = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "beborninme|7FQRbf8gbKw8KZQZAJWxH2|217000",
+  song: "song/paul-cardall-be-born-in-me",
 } as const satisfies Track

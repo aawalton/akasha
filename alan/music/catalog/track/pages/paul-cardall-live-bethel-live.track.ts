@@ -23,4 +23,5 @@ export const paulCardallLiveBethelLive = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "bethellive|7FQRbf8gbKw8KZQZAJWxH2|168333",
+  song: "song/paul-cardall-bethel",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const paulCardallChristmasSonOfGod = {
     { externalId: "77dRSdJKCKDOen5hjPYO0D", artistName: "Patrice Tipoki" },
   ],
   trackKey: "sonofgod|77dRSdJKCKDOen5hjPYO0D,7FQRbf8gbKw8KZQZAJWxH2|274365",
+  song: "song/paul-cardall-son-of-god",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const paulCardallChasingCrownsVoxMatris = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "voxmatris|7FQRbf8gbKw8KZQZAJWxH2|204000",
+  song: "song/paul-cardall-vox-matris",
 } as const satisfies Track

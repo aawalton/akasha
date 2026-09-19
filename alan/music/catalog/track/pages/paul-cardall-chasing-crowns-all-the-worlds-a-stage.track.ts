@@ -23,4 +23,5 @@ export const paulCardallChasingCrownsAllTheWorldsAStage = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "alltheworldsastage|7FQRbf8gbKw8KZQZAJWxH2|158458",
+  song: "song/paul-cardall-all-the-worlds-a-stage",
 } as const satisfies Track

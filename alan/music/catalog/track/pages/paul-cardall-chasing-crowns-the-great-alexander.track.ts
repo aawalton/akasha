@@ -23,4 +23,5 @@ export const paulCardallChasingCrownsTheGreatAlexander = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thegreatalexander|7FQRbf8gbKw8KZQZAJWxH2|198250",
+  song: "song/paul-cardall-the-great-alexander",
 } as const satisfies Track

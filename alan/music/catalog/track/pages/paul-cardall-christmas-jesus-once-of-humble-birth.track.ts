@@ -23,4 +23,5 @@ export const paulCardallChristmasJesusOnceOfHumbleBirth = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesusonceofhumblebirth|7FQRbf8gbKw8KZQZAJWxH2|204352",
+  song: "song/paul-cardall-jesus-once-of-humble-birth",
 } as const satisfies Track

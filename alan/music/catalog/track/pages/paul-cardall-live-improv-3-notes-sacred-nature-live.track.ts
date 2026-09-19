@@ -23,4 +23,5 @@ export const paulCardallLiveImprov3NotesSacredNatureLive = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "improv3notessacrednaturelive|7FQRbf8gbKw8KZQZAJWxH2|149133",
+  song: "song/paul-cardall-improv-3-notes-sacred-nature",
 } as const satisfies Track

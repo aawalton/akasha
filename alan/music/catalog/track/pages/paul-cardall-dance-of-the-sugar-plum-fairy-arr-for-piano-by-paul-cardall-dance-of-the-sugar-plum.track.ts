@@ -25,4 +25,5 @@ export const paulCardallDanceOfTheSugarPlumFairyArrForPianoByPaulCardallDanceOfT
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "danceofthesugarplumfairyarrforpianobypaulcardall|7FQRbf8gbKw8KZQZAJWxH2|212991",
+  song: "song/paul-cardall-dance-of-the-sugar-plum-fairy-arr-for-piano-by-paul-cardall",
 } as const satisfies Track

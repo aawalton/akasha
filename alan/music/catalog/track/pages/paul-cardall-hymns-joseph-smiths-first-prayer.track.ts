@@ -23,4 +23,5 @@ export const paulCardallHymnsJosephSmithsFirstPrayer = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "josephsmithsfirstprayer|7FQRbf8gbKw8KZQZAJWxH2|199146",
+  song: "song/paul-cardall-joseph-smiths-first-prayer",
 } as const satisfies Track

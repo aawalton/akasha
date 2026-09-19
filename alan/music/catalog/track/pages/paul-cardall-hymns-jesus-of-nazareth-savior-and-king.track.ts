@@ -23,4 +23,5 @@ export const paulCardallHymnsJesusOfNazarethSaviorAndKing = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesusofnazarethsaviorandking|7FQRbf8gbKw8KZQZAJWxH2|141506",
+  song: "song/paul-cardall-jesus-of-nazareth-savior-and-king",
 } as const satisfies Track

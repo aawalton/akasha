@@ -23,4 +23,5 @@ export const paulCardallNewLifeFatherInHeaven = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "fatherinheaven|7FQRbf8gbKw8KZQZAJWxH2|100080",
+  song: "song/paul-cardall-father-in-heaven",
 } as const satisfies Track

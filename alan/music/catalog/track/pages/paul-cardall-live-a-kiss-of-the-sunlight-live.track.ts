@@ -23,4 +23,5 @@ export const paulCardallLiveAKissOfTheSunlightLive = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "akissofthesunlightlive|7FQRbf8gbKw8KZQZAJWxH2|224146",
+  song: "song/paul-cardall-a-kiss-of-the-sunlight",
 } as const satisfies Track

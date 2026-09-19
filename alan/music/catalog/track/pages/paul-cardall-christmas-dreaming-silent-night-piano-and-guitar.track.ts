@@ -26,4 +26,5 @@ export const paulCardallChristmasDreamingSilentNightPianoAndGuitar = {
     { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
   ],
   trackKey: "silentnightpianoandguitar|2pzgrbowKM8SGmdK3YMcGq,7FQRbf8gbKw8KZQZAJWxH2|265584",
+  song: "song/paul-cardall-silent-night-piano-and-guitar",
 } as const satisfies Track

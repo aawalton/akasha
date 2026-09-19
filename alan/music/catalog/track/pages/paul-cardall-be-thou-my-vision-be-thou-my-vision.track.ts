@@ -23,4 +23,5 @@ export const paulCardallBeThouMyVisionBeThouMyVision = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "bethoumyvision|7FQRbf8gbKw8KZQZAJWxH2|248500",
+  song: "song/paul-cardall-be-thou-my-vision",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const paulCardallDailyDevotionsTheSpiritOfGod = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thespiritofgod|7FQRbf8gbKw8KZQZAJWxH2|184680",
+  song: "song/paul-cardall-the-spirit-of-god",
 } as const satisfies Track

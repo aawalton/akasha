@@ -23,4 +23,5 @@ export const paulCardallHymnsVol2IKnowThatMyRedeemerLives = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "iknowthatmyredeemerlives|7FQRbf8gbKw8KZQZAJWxH2|221093",
+  song: "song/paul-cardall-i-know-that-my-redeemer-lives",
 } as const satisfies Track

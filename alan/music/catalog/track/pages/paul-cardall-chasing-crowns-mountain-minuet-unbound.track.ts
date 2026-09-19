@@ -23,4 +23,5 @@ export const paulCardallChasingCrownsMountainMinuetUnbound = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "mountainminuetunbound|7FQRbf8gbKw8KZQZAJWxH2|216250",
+  song: "song/paul-cardall-mountain-minuet-unbound",
 } as const satisfies Track

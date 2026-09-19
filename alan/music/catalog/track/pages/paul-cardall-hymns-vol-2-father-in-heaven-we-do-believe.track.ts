@@ -23,4 +23,5 @@ export const paulCardallHymnsVol2FatherInHeavenWeDoBelieve = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "fatherinheavenwedobelieve|7FQRbf8gbKw8KZQZAJWxH2|196773",
+  song: "song/paul-cardall-father-in-heaven-we-do-believe",
 } as const satisfies Track

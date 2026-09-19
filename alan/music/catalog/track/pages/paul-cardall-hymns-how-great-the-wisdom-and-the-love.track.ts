@@ -23,4 +23,5 @@ export const paulCardallHymnsHowGreatTheWisdomAndTheLove = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "howgreatthewisdomandthelove|7FQRbf8gbKw8KZQZAJWxH2|144480",
+  song: "song/paul-cardall-how-great-the-wisdom-and-the-love",
 } as const satisfies Track

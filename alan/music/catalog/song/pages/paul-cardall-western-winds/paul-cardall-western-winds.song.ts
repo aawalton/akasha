@@ -1,0 +1,10 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const paulCardallWesternWinds = {
+  id: "01a0b77c-fdfb-7ef3-8dd3-380f66e49749",
+  type: "page-type/song",
+  slug: "paul-cardall-western-winds",
+  title: "Western Winds",
+  artist: "artist/paul-cardall",
+  performed: true,
+} as const satisfies Song

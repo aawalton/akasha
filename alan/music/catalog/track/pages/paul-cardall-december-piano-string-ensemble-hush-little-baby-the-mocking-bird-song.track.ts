@@ -23,4 +23,5 @@ export const paulCardallDecemberPianoStringEnsembleHushLittleBabyTheMockingBirdS
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "hushlittlebabythemockingbirdsong|7FQRbf8gbKw8KZQZAJWxH2|146453",
+  song: "song/paul-cardall-hush-little-baby-the-mocking-bird-song",
 } as const satisfies Track

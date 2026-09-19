@@ -23,4 +23,5 @@ export const paulCardallChristmasHymnsIlEstNeLeDivinEnfant = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ilestneledivinenfant|7FQRbf8gbKw8KZQZAJWxH2|253733",
+  song: "song/paul-cardall-il-est-ne-le-divin-enfant",
 } as const satisfies Track

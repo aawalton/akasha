@@ -23,4 +23,5 @@ export const paulCardallFaithfulTheNoise = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thenoise|7FQRbf8gbKw8KZQZAJWxH2|322240",
+  song: "song/paul-cardall-the-noise",
 } as const satisfies Track

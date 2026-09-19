@@ -23,4 +23,5 @@ export const paulCardallAscensusChristiAPianoRhapsodyAscensusChristiAPianoRhapso
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ascensuschristiapianorhapsody|7FQRbf8gbKw8KZQZAJWxH2|312644",
+  song: "song/paul-cardall-ascensus-christi-a-piano-rhapsody",
 } as const satisfies Track

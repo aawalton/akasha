@@ -23,4 +23,5 @@ export const paulCardallDailyDevotionsGodSpeedTheRight = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godspeedtheright|7FQRbf8gbKw8KZQZAJWxH2|114506",
+  song: "song/paul-cardall-god-speed-the-right",
 } as const satisfies Track

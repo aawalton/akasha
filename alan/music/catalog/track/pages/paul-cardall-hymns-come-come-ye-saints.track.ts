@@ -23,4 +23,5 @@ export const paulCardallHymnsComeComeYeSaints = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "comecomeyesaints|7FQRbf8gbKw8KZQZAJWxH2|250400",
+  song: "song/paul-cardall-come-come-ye-saints",
 } as const satisfies Track

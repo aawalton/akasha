@@ -23,4 +23,5 @@ export const paulCardallMiraclesAJourneyOfHopeHealingAnUnseenWorld = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "anunseenworld|7FQRbf8gbKw8KZQZAJWxH2|390853",
+  song: "song/paul-cardall-an-unseen-world",
 } as const satisfies Track

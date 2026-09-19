@@ -23,4 +23,5 @@ export const paulCardallOLittleTownOfBethlehemOLittleTownOfBethlehem = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "olittletownofbethlehem|7FQRbf8gbKw8KZQZAJWxH2|246511",
+  song: "song/paul-cardall-o-little-town-of-bethlehem",
 } as const satisfies Track

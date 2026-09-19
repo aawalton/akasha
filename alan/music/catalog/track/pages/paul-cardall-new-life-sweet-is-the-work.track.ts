@@ -23,4 +23,5 @@ export const paulCardallNewLifeSweetIsTheWork = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sweetisthework|7FQRbf8gbKw8KZQZAJWxH2|91853",
+  song: "song/paul-cardall-sweet-is-the-work",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const paulCardallMiraclesAJourneyOfHopeHealingTheMemoryLivesOn = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thememoryliveson|7FQRbf8gbKw8KZQZAJWxH2|251453",
+  song: "song/paul-cardall-the-memory-lives-on",
 } as const satisfies Track

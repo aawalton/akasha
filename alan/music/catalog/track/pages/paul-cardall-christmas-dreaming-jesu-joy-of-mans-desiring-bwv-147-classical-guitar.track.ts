@@ -28,4 +28,5 @@ export const paulCardallChristmasDreamingJesuJoyOfMansDesiringBwv147ClassicalGui
   ],
   trackKey:
     "jesujoyofmansdesiringbwv147classicalguitar|2pzgrbowKM8SGmdK3YMcGq,3Lggrcbnv6PpisEqEVzjBr,7FQRbf8gbKw8KZQZAJWxH2|245957",
+  song: "song/paul-cardall-jesu-joy-of-mans-desiring-bwv-147-classical-guitar",
 } as const satisfies Track

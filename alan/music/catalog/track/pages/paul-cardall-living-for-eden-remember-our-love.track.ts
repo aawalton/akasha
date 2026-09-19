@@ -23,4 +23,5 @@ export const paulCardallLivingForEdenRememberOurLove = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "rememberourlove|7FQRbf8gbKw8KZQZAJWxH2|213800",
+  song: "song/paul-cardall-remember-our-love",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const paulCardallGraceInGriefAGriefObserved = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "agriefobserved|7FQRbf8gbKw8KZQZAJWxH2|236929",
+  song: "song/paul-cardall-a-grief-observed",
 } as const satisfies Track

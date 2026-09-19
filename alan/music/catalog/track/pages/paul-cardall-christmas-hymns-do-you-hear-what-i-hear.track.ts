@@ -23,4 +23,5 @@ export const paulCardallChristmasHymnsDoYouHearWhatIHear = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "doyouhearwhatihear|7FQRbf8gbKw8KZQZAJWxH2|250906",
+  song: "song/paul-cardall-do-you-hear-what-i-hear",
 } as const satisfies Track
