@@ -20,10 +20,14 @@ afterAll(scratch.sweep)
 test("an audit judges every TypeScript body git tracks, reading each from disk", () => {
   const root = placed()
   writing(root, HELD, BAD_FUNCTION)
-  writing(root, DRAWN, "export function drawnRing() {\n  return <p>one</p>\n}\n")
+  writing(
+    root,
+    DRAWN,
+    "export function Ring() {\n  const ICON = held.icon\n  return <p>{ICON}</p>\n}\n"
+  )
   const said = identifierMatchesItsPlace(treed(root))
   expect(said.map((one) => one.path)).toEqual([DRAWN, HELD])
-  expect(said[0]?.reason).toContain("the component `drawnRing`")
+  expect(said[0]?.reason).toContain("the name `ICON`")
   expect(said[1]?.reason).toContain("the function `BadName`")
 })
 
