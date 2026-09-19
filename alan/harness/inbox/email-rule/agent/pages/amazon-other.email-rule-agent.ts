@@ -17,6 +17,7 @@ export const amazonOther = {
         "out for delivery",
         "arriving",
         "delivered",
+        "delivery update",
         "dropoff confirmed",
         "return request confirmed",
         "advance refund issued",
