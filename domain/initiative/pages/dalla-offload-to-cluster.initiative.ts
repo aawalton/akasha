@@ -20,6 +20,7 @@ export const dallaOffloadToCluster = {
       statement:
         "The namespaces, the roles and the operator configuration the cluster is built on are one service.",
     },
+    { statement: "Audits and deploys use the fastest available node in the cluster." },
   ],
   constraints: [
     "A cluster service, a container recipe and a web app are put up by a run triggered on the workstation and made nowhere on it.",
