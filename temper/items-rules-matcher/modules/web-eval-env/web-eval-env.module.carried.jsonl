@@ -1,5 +1,5 @@
 {"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every reader here answers from the captured holdings rather than from the game."},{"decisionKind":"decision-kind/absence","statement":"No code here reaches the game."}]}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every reader here answers from the captured holdings rather than from the game."}]}
 {"definition":"the evaluation environment the web build hands the matcher, drawn from captured holdings"}
 {"id":"01a06151-370e-7c65-8456-25031d62896e"}
 {"slug":"web-eval-env"}

@@ -12,9 +12,5 @@ export const webEvalEnv = {
       decisionKind: "decision-kind/departure",
       statement: "Every reader here answers from the captured holdings rather than from the game.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No code here reaches the game.",
-    },
   ],
 } as const satisfies Module

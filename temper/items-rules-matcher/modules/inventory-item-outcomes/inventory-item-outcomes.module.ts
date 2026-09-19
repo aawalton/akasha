@@ -19,9 +19,5 @@ export const inventoryItemOutcomes = {
       decisionKind: "decision-kind/absence",
       statement: "No rule here decides what an item resolves to.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No code here reaches the game.",
-    },
   ],
 } as const satisfies Module
