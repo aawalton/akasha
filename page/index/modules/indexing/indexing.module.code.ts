@@ -29,6 +29,12 @@ import {
   reachingBuilt,
 } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import { under } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
+import {
+  facingIn,
+  foldersFor,
+  generates,
+  heldUnder,
+} from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import { shapesAmong } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { knownIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import {
@@ -90,9 +96,10 @@ export type Bodied = {
   readonly body: string
 }
 
-function bodiesUnder(tree: string): readonly Bodied[] {
+function bodiesUnder(tree: string, built: (path: string) => boolean): readonly Bodied[] {
   const found: Bodied[] = []
   for (const path of walkedUnder(tree, typed)) {
+    if (built(path)) continue
     const body = textOnDisk(path)
     if (body !== null) found.push({ path, body })
   }
@@ -159,7 +166,10 @@ export function refreshedFrom(
   const known = knownIn(reading, (path) => valueAt(path, repo))
   const beside = bodiesAt(repo)
   const naming = reachingBuilt(held, repo, fileProperties, filedBy)
-  const walked = bodiesUnder(tree)
+  const facing = facingIn(repo, reading)
+  const walked = bodiesUnder(tree, (path) =>
+    heldUnder(under(repo, path), foldersFor(facing), generates, facing.carryingOf)
+  )
   const noted: string[] = []
   const referenced = held.map((one) =>
     namedFrom(

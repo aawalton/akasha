@@ -26,6 +26,10 @@ export const indexing = {
       statement:
         "An edge for a specifier naming a package is filed from the manifests the pages state.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No reference is filed from a file under a folder a build writes.",
+    },
 
     {
       decisionKind: "decision-kind/departure",
