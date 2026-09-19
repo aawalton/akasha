@@ -78,6 +78,10 @@ export const sourceGlobbing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The stylesheets are read in name order and the tree they came from is in none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stylesheet already with the body that would be written again is left alone.",
     },
     {

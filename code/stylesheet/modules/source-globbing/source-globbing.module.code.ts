@@ -47,7 +47,7 @@ function everyIn(change: Change): readonly string[] {
     if (change.after(path) === null) held.delete(path)
     else held.add(path)
   }
-  return [...held].sort()
+  return [...held]
 }
 
 function styledName(path: string): boolean {
@@ -138,7 +138,7 @@ function globbedOver(change: Change): Globbed {
   const index = shadowAt(change.root).index
   const edits: Replacing[] = []
   const said: string[] = []
-  for (const at of every.filter((one) => styledName(one))) {
+  for (const at of every.filter((one) => styledName(one)).sort()) {
     const css = textOf(change.after(at))
     if (css === null || !isEntry(css)) continue
     const app = appFor(at, roots)
