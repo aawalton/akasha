@@ -4,7 +4,7 @@
 {"definition":"the check refusing a decision a page and one of its parts both state word for word"}
 {"experimental":true}
 {"id":"01a0959b-4249-7000-a2fe-cb9db9273952"}
-{"runsOnAudit":false}
+{"runsOnAudit":true}
 {"runsOnChange":true}
 {"runsOnDeploy":true}
 {"slug":"decision-restated-on-a-part-narrows-it"}

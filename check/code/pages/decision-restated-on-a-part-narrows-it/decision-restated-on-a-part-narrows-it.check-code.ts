@@ -7,7 +7,7 @@ export const decisionRestatedOnAPartNarrowsIt = {
   definition: "the check refusing a decision a page and one of its parts both state word for word",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnAudit: false,
+  runsOnAudit: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
