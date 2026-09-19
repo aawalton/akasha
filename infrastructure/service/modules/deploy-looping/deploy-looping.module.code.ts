@@ -25,6 +25,7 @@ import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.t
 import {
   type Candidate,
   chosenFrom,
+  cooledBy,
   type Wanting,
 } from "akasha/infrastructure/service/modules/deploy-choosing/deploy-choosing.module.code.ts"
 import { subjectsOf } from "akasha/infrastructure/service/modules/deploy-subject-listing/deploy-subject-listing.module.code.ts"
@@ -101,9 +102,16 @@ export function systemdRun(args: readonly string[]): Ran {
   return { code: held.code, out: `${held.out}${held.err}`.trim() }
 }
 
-export function saidOfNothing(kind: string, every: readonly Candidate[]): string {
+export function saidOfNothing(
+  kind: string,
+  every: readonly Candidate[],
+  now: number,
+  answered: ReadonlyMap<string, boolean>
+): string {
   const deploying = every.filter((one) => one.deploying).length
-  return `nothing of \`${kind}\` was put up — ${counted(every.length, A_SERVICE)} weighed, and ${deploying} of those with a deploy running`
+  const cooling = every.filter((one) => !one.deploying && !cooledBy(one, now)).length
+  const current = every.filter((one) => answered.get(one.slug) === false).length
+  return `nothing of \`${kind}\` was put up — ${counted(every.length, A_SERVICE)} weighed, ${current} of those up to date, ${cooling} waiting out a cooldown, and ${deploying} with a deploy running`
 }
 
 export function scopeLoaded(probe: Running, slug: string): boolean {
@@ -175,9 +183,13 @@ export async function ticked(
   const deploying = heldNow(root)
   const commit = headOf(root)
   const every = await candidatesIn(root, kind, deploying)
-  const past = chosenPastLoaded(every, now, await wantingIn(root, kind, commit), probe)
+  const wanting = await wantingIn(root, kind, commit)
+  const past = chosenPastLoaded(every, now, wanting.wants, probe)
   if (past.chosen === null) {
-    return { said: [...past.said, saidOfNothing(kind, every)], wrong: [] }
+    return {
+      said: [...past.said, saidOfNothing(kind, every, now, wanting.answered)],
+      wrong: [],
+    }
   }
   const argv = deployArgv(root, tree, past.chosen.slug)
   if ("refused" in argv) return { said: past.said, wrong: [argv.refused] }

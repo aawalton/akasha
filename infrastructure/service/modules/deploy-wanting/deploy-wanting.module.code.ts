@@ -70,11 +70,16 @@ export function wantsIn(
   return changed.some((one) => built.has(one))
 }
 
+export type Wanted = {
+  readonly wants: Wanting
+  readonly answered: ReadonlyMap<string, boolean>
+}
+
 export async function wantingIn(
   root: string,
   kind: Named["kind"],
   commit: string
-): Promise<Wanting> {
+): Promise<Wanted> {
   const subjects = new Map(subjectsOf(root, kind).map((one) => [one.slug, one] as const))
   const reading = readingAt(root, commit)
   const changing = changingIn(root, commit)
@@ -84,7 +89,7 @@ export async function wantingIn(
     since.set(slug, sinceCommit(root, await commitRecordedIn(one.pagePath, keeping)))
   }
   const held = new Map<string, boolean>()
-  return (one) => {
+  const wants: Wanting = (one) => {
     const found = held.get(one.slug)
     if (found !== undefined) return found
     const subject = subjects.get(one.slug)
@@ -93,6 +98,7 @@ export async function wantingIn(
     held.set(one.slug, answer)
     return answer
   }
+  return { wants, answered: held }
 }
 
 async function candidateFor(

@@ -59,6 +59,15 @@ export const deployWanting = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "What was held is handed back beside the asking, so a caller reads it without asking again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service nothing asked about over a tick is held nowhere at the end of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "What changed since one commit is asked of git once a tick however many services name it.",
     },
   ],

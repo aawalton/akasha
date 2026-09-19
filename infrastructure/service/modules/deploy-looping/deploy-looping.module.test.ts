@@ -17,6 +17,8 @@ import {
 } from "akasha/infrastructure/service/modules/deploy-looping/deploy-looping.module.code.ts"
 import type { Running } from "akasha/infrastructure/service/workstation/modules/service-asking/service-asking.module.code.ts"
 
+const NOW = 1_000_000
+
 function candidate(slug: string): Candidate {
   return {
     slug,
@@ -46,14 +48,39 @@ test("a deploy is run from the tree, under a scope of its own", () => {
   expect(words.some((one) => one.startsWith("/tree/"))).toBe(true)
 })
 
-test("a tick putting nothing up says how many were weighed and how many were running", () => {
-  const said = saidOfNothing("web-app", [
-    candidate("one"),
-    { ...candidate("two"), deploying: true },
-  ])
+test("a tick putting nothing up says how many were weighed, up to date, waiting and running", () => {
+  const said = saidOfNothing(
+    "web-app",
+    [
+      candidate("one"),
+      { ...candidate("two"), deployEndedAt: NOW },
+      { ...candidate("three"), deploying: true },
+    ],
+    NOW,
+    new Map([["one", false]])
+  )
   expect(said).toContain("web-app")
-  expect(said).toContain("2 services")
-  expect(said).toContain("1 of those with a deploy running")
+  expect(said).toContain("3 services weighed")
+  expect(said).toContain("1 of those up to date")
+  expect(said).toContain("1 waiting out a cooldown")
+  expect(said).toContain("1 with a deploy running")
+})
+
+test("a tick with nothing up to date does not read like a tick with everything up to date", () => {
+  const every = [candidate("one"), candidate("two")]
+  const current = saidOfNothing(
+    "eso-addon",
+    every,
+    NOW,
+    new Map([
+      ["one", false],
+      ["two", false],
+    ])
+  )
+  const stuck = saidOfNothing("eso-addon", every, NOW, new Map())
+  expect(current).toContain("2 of those up to date")
+  expect(stuck).toContain("0 of those up to date")
+  expect(current).not.toBe(stuck)
 })
 
 function showing(state: string): Running {

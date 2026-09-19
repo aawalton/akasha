@@ -58,7 +58,21 @@ export const deployLooping = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A tick that puts nothing up says how many were weighed and how many were running.",
+        "A tick that puts nothing up says how many were weighed and how many are up to date.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A tick that puts nothing up says how many are waiting out a cooldown and how many are running.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A tick with nothing up to date and a tick with everything up to date do not read alike.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Those counts are read off the answers the tick already asked for.",
     },
     {
       decisionKind: "decision-kind/absence",
