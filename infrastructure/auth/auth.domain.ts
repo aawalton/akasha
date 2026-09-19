@@ -54,5 +54,21 @@ export const auth = {
       decisionKind: "decision-kind/departure",
       statement: "alanwalton.com is the login, and every other site is a peripheral of it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only alanwalton.com asks Google who a person is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A peripheral sends a person to alanwalton.com and takes back a code.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A code names the one peripheral it is for, and lives seconds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A code is signed and read rather than written down and looked up.",
+    },
   ],
 } as const satisfies Domain
