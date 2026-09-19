@@ -194,7 +194,6 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/fitness/modules/training-week/training-week.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/fitness/modules/training-week/training-week.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts"}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/fitness/next/modules/kit-loading/kit-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/fitness/next/modules/warming/warming.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/gap/delete/gap-delete.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts"}
