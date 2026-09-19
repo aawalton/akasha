@@ -4,6 +4,7 @@ import {
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { ALREADY_HELD } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 import {
   entriedIn,
   identifiedOver,
@@ -27,7 +28,7 @@ function bodiedFor(world: World, given: Asked): string {
 export function runChange(world: World, given: Asked): Said {
   const was = world.textOf(given.at)
   if (was === given.body) {
-    return refusing(`\`${given.at}\` already holds this body, so this change writes nothing`)
+    return refusing(`\`${given.at}\` ${ALREADY_HELD}`)
   }
   if (given.old !== undefined && was !== given.old) {
     return refusing(`\`${given.at}\` ${MOVED}`)

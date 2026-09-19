@@ -96,5 +96,13 @@ export const changeFreshness = {
       statement:
         "Every path whose body moved is named in one refusal rather than one refusal each.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The words a refusal about a body closes in are named here for every reader.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller telling one refusal from another reads the words from here.",
+    },
   ],
 } as const satisfies Module

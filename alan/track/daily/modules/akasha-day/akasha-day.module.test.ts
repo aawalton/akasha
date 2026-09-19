@@ -1,13 +1,22 @@
 import { describe, expect, test } from "bun:test"
 import {
+  alreadyHeld,
   camelised,
   landingRetried,
   TRIES,
 } from "akasha/alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"
 import type { Landed } from "akasha/alan/track/daily/modules/day-narrow-types/day-narrow-types.module.code.ts"
-import { PUT_BACK } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
+import {
+  ALREADY_HELD,
+  PUT_BACK,
+} from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 
 const MOVED: Landed = { ok: false, why: `day-2026-09-19.day.ts — ${PUT_BACK}` }
+
+const HELD: Landed = {
+  ok: false,
+  why: `the tracking landing refused: \`day-2026-09-19.day.ts\` ${ALREADY_HELD}`,
+}
 
 const WRONG: Landed = { ok: false, why: "nothing was composed to write" }
 
@@ -42,6 +51,24 @@ describe("a day page another writer moved under the landing", () => {
     const asked = landing([WRONG, DONE])
 
     expect(await landingRetried(asked.land, noPause)).toEqual(WRONG)
+    expect(asked.tries()).toBe(1)
+  })
+})
+
+describe("a day page another writer landed this very body onto", () => {
+  test("the refusal is told apart from every other refusal", () => {
+    expect([alreadyHeld(HELD), alreadyHeld(MOVED), alreadyHeld(WRONG), alreadyHeld(DONE)]).toEqual([
+      true,
+      false,
+      false,
+      false,
+    ])
+  })
+
+  test("the landing is not tried again, since another try would be refused the same way", async () => {
+    const asked = landing([HELD, DONE])
+
+    expect(await landingRetried(asked.land, noPause)).toEqual(HELD)
     expect(asked.tries()).toBe(1)
   })
 })

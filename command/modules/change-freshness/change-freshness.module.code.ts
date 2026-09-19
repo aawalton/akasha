@@ -17,6 +17,8 @@ const NONE: ReadonlySet<string> = new Set()
 
 export const PUT_BACK = "so writing it would put back what moved in between"
 
+export const ALREADY_HELD = "already holds this body, so this change writes nothing"
+
 function sameBytes(one: Uint8Array | null, two: Uint8Array | null): boolean {
   if (one === null || two === null) return one === two
   return Buffer.from(one).equals(Buffer.from(two))

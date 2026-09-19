@@ -52,5 +52,19 @@ export const akashaDay = {
       decisionKind: "decision-kind/departure",
       statement: "A landing refused for any other reason is answered without being tried again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Another writer landing the very body this one composed is expected too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A landing refused because the page already holds that body is answered as landed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The day then says what the caller meant it to say, which is what the caller asked for.",
+    },
   ],
 } as const satisfies Module

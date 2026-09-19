@@ -1,7 +1,11 @@
 import type { Landed } from "akasha/alan/track/daily/modules/day-narrow-types/day-narrow-types.module.code.ts"
+
 import { AKASHA_DAY_PAGE_TYPE } from "akasha/alan/track/daily/modules/track-shape/track-shape.module.code.ts"
 import { landTracking } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
-import { PUT_BACK } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
+import {
+  ALREADY_HELD,
+  PUT_BACK,
+} from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
@@ -62,6 +66,10 @@ export function movedUnder(landed: Landed): boolean {
   return !landed.ok && landed.why.includes(PUT_BACK)
 }
 
+export function alreadyHeld(landed: Landed): boolean {
+  return !landed.ok && landed.why.includes(ALREADY_HELD)
+}
+
 export async function landingRetried(
   land: () => Promise<Landed>,
   pause: (ms: number) => Promise<void> = (ms) => Bun.sleep(ms)
@@ -97,7 +105,9 @@ async function landDayPageOnce(
       Object.keys(composed.kept.values).join(", ")
     return { ok: false, why }
   }
-  return written([composed.put], `${writer}: the day ${slug}`)
+  const landed = await written([composed.put], `${writer}: the day ${slug}`)
+  if (alreadyHeld(landed)) return { ok: true, at: composed.put.path }
+  return landed
 }
 
 export function landAkashaDayPage(
