@@ -18,7 +18,7 @@ export const placedFurnishings = {
     { pageProperty: "number-property/amount-count", required: false, many: false },
     { pageProperty: "number-property/sale-amount-count", required: false, many: false },
     { pageProperty: "number-property/suggested-price", required: false, many: false },
-    { pageProperty: "number-property/estimated-value", required: false, many: false },
+    { pageProperty: "number-property/market-value", required: false, many: false },
   ],
   decisions: [
     {

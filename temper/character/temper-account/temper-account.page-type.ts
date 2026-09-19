@@ -26,7 +26,7 @@ export const temperAccount = {
     "number-property/craft-type-id",
     "number-property/crafting-level",
     "number-property/currency-amount",
-    "number-property/estimated-value",
+    "number-property/market-value",
     "number-property/furniture-category-id",
     "number-property/furniture-subcategory-id",
     "number-property/min-price",

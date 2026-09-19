@@ -32,7 +32,7 @@ export const stacks = {
     { pageProperty: "number-property/merchant-value", required: false, many: false },
     { pageProperty: "number-property/min-price", required: false, many: false },
     { pageProperty: "number-property/amount-count", required: false, many: false },
-    { pageProperty: "number-property/estimated-value", required: false, many: false },
+    { pageProperty: "number-property/market-value", required: false, many: false },
     { pageProperty: "number-property/suggested-price", required: false, many: false },
     { pageProperty: "number-property/sale-avg", required: false, many: false },
     { pageProperty: "number-property/sale-amount-count", required: false, many: false },

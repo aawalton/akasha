@@ -182,7 +182,7 @@ function stackRowOf(
     ["merchantValue", one.merchantValue],
     ["minPrice", one.minPrice],
     ["amountCount", one.amountCount],
-    ["estimatedValue", one.marketValue],
+    ["marketValue", one.marketValue],
     ["suggestedPrice", one.suggestedPrice],
     ["saleAvg", one.saleAvg],
     ["saleAmountCount", one.saleAmountCount],
@@ -287,7 +287,7 @@ export function placedFurnishingRowsOf(values: InventoryValues, minted: () => st
           ["amountCount", one.amountCount],
           ["saleAmountCount", one.saleAmountCount],
           ["suggestedPrice", one.suggestedPrice],
-          ["estimatedValue", one.marketValue],
+          ["marketValue", one.marketValue],
         ])
       )
     }

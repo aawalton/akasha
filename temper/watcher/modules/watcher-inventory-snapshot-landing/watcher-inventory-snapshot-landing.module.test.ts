@@ -394,7 +394,7 @@ test("each furnishing placed in a home becomes a row without its empty links", (
       title: "Tree, Tiered Light Cherry",
       quality: 4,
       collectibleLink: "|H1:collectible:9|h|h",
-      estimatedValue: 1200,
+      marketValue: 1200,
     },
     {
       id: "f2",

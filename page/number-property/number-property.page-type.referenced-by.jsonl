@@ -333,9 +333,9 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/character/temper-account/properties/craft-type-id.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/character/temper-account/properties/crafting-level.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/character/temper-account/properties/currency-amount.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/character/temper-account/properties/estimated-value.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/character/temper-account/properties/furniture-category-id.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/character/temper-account/properties/furniture-subcategory-id.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/character/temper-account/properties/market-value.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/character/temper-account/properties/min-price.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/character/temper-account/properties/replacement-value.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/character/temper-account/properties/sale-amount-count.number-property.ts"}
