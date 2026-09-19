@@ -3,6 +3,8 @@ import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   firstTimestampOf,
+  type MisnamedReading,
+  misnamedFrom,
   rotationFrom,
   SETTLED_MS,
   type TranscriptCandidate,
@@ -93,6 +95,53 @@ test("a candidate no newer than the named file is left out", () => {
 
 test("no candidate at all leaves no answer", () => {
   expect(rotationFrom(reading({ candidates: [] }))).toBe(null)
+})
+
+const OWN_SESSION = "de64f69c-0000-7000-8000-000000000001"
+
+const OTHER_SESSION = "67123964-0000-7000-8000-000000000002"
+
+const OWN_PATH = `/transcripts/${OWN_SESSION}.jsonl`
+
+const OTHER_PATH = `/transcripts/${OTHER_SESSION}.jsonl`
+
+function misnamed(one: Partial<MisnamedReading> = {}): MisnamedReading {
+  return {
+    statedPath: OTHER_PATH,
+    statedSession: OTHER_SESSION,
+    ownSession: OWN_SESSION,
+    ownPath: OWN_PATH,
+    otherSessions: [OTHER_SESSION],
+    ...one,
+  }
+}
+
+test("a seat named onto another seat's transcript is put back on its own", () => {
+  expect(misnamedFrom(misnamed())).toBe(OWN_PATH)
+})
+
+test("a transcript stating the seat's own session is left as it is", () => {
+  expect(misnamedFrom(misnamed({ statedPath: OWN_PATH, statedSession: OWN_SESSION }))).toBe(null)
+})
+
+test("a transcript no other seat is bound to is left for the rotation to weigh", () => {
+  expect(misnamedFrom(misnamed({ otherSessions: [] }))).toBe(null)
+})
+
+test("a seat bound to no session has nothing to be put back to", () => {
+  expect(misnamedFrom(misnamed({ ownSession: null, ownPath: null }))).toBe(null)
+})
+
+test("a transcript stating no session says whose it is not, so nothing moves", () => {
+  expect(misnamedFrom(misnamed({ statedSession: null }))).toBe(null)
+})
+
+test("no file beside it for the seat's own session leaves nothing to be put back to", () => {
+  expect(misnamedFrom(misnamed({ ownPath: null }))).toBe(null)
+})
+
+test("a seat naming no transcript is put back on nothing", () => {
+  expect(misnamedFrom(misnamed({ statedPath: null }))).toBe(null)
 })
 
 const OPENING = [

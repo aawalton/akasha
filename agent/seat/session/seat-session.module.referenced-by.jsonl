@@ -4,5 +4,6 @@
 {"propertySlug":"import","fileName":"seat-session.module.code.ts","path":"agent/seat/page/modules/beat/seat-page-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-session.module.code.ts","path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-session.module.code.ts","path":"agent/seat/session/modules/resolve/seat-session-resolve.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-session.module.code.ts","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-session.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

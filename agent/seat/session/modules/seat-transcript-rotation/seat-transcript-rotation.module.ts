@@ -4,10 +4,40 @@ export const seatTranscriptRotation = {
   id: "01a071f5-4e4d-79a8-aff6-911818ba3e7e",
   type: "page-type/module",
   slug: "seat-transcript-rotation",
-  definition: "the transcript a seat should be read from where a clear superseded the one it names",
+  definition:
+    "the transcript a seat should be read from where the one it names is another seat's or done",
   code: "ts",
   test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whose a transcript is, is the session that transcript states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A transcript stating a session another seat is bound to is that seat's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat naming another seat's transcript is put back on the seat's own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The seat's own is the file beside it that the seat's own session names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat is put back before any candidate beside the named file is weighed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A transcript no other seat is bound to is the seat's own, however old.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A seat bound to no session has none put back, since there is nothing to put back to.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A seat naming no transcript has no transcript rotated.",
