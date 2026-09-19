@@ -5,6 +5,8 @@ import {
   runChange,
   spellingsIn,
 } from "akasha/change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { changeProsePattern as changeProsePatternMechanical } from "akasha/change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   type Caught,
@@ -64,7 +66,9 @@ test("working the restatements out is left to the change reached at its address"
 
   await changeProsePattern(worldNaming(TERM, seen), { term: "hold-inside" })
 
-  expect(seen.map((one) => one.at)).toEqual(["change-mechanical/change-prose-pattern"])
+  expect(seen.map((one) => one.at)).toEqual([
+    `${changeMechanical.slug}/${changeProsePatternMechanical.slug}`,
+  ])
   expect(seen[0]?.given).toEqual({ spellings: [...spellingsIn(TERM)], patterns: patternsIn(TERM) })
 })
 

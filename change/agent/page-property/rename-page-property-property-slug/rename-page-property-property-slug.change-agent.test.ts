@@ -3,6 +3,8 @@ import {
   renamePagePropertyPropertySlug,
   runChange,
 } from "akasha/change/agent/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-agent.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { renamePagePropertyPropertySlug as renamePagePropertyPropertySlugMechanical } from "akasha/change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.ts"
 import { refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
@@ -15,7 +17,8 @@ const AT = "akasha/wold/wold.file-property.ts"
 
 const TO = "wold-file"
 
-const RENAME_PROPERTY_SLUG = "change-mechanical/rename-page-property-property-slug"
+const RENAME_PROPERTY_SLUG =
+  `${changeMechanical.slug}/${renamePagePropertyPropertySlugMechanical.slug}` as const
 
 const REFUSED = "`wold-file` is the property slug that page already carries"
 

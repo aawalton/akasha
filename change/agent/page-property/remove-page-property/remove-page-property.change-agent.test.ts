@@ -3,6 +3,8 @@ import {
   removePageProperty,
   runChange,
 } from "akasha/change/agent/page-property/remove-page-property/remove-page-property.change-agent.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { removePageProperty as removePagePropertyMechanical } from "akasha/change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.ts"
 import { refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
@@ -13,7 +15,8 @@ import {
 
 const PROPERTY = "text-property/wold"
 
-const REMOVE_PAGE_PROPERTY = "change-mechanical/remove-page-property"
+const REMOVE_PAGE_PROPERTY =
+  `${changeMechanical.slug}/${removePagePropertyMechanical.slug}` as const
 
 const REFUSED = "`text-property/wold` names no page property, so no property is taken away"
 

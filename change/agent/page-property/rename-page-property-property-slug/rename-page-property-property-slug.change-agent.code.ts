@@ -1,9 +1,12 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { renamePagePropertyPropertySlug as renamePagePropertyPropertySlugMechanical } from "akasha/change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { atMostIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
 
-const RENAME_PROPERTY_SLUG = "change-mechanical/rename-page-property-property-slug"
+const RENAME_PROPERTY_SLUG =
+  `${changeMechanical.slug}/${renamePagePropertyPropertySlugMechanical.slug}` as const
 
 const AT = "at"
 

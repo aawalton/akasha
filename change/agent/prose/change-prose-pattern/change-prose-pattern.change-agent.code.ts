@@ -1,3 +1,5 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { changeProsePattern as changeProsePatternMechanical } from "akasha/change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -11,7 +13,7 @@ import {
 
 const BANNED_TERM = "banned-term"
 
-const RESTATES = "change-mechanical/change-prose-pattern"
+const RESTATES = `${changeMechanical.slug}/${changeProsePatternMechanical.slug}` as const
 
 const TERM = "term"
 
