@@ -8,7 +8,7 @@ export const pagesOfTheKindNamed = {
     "the shape of a folder named for one page type, under that type's plural, with its pages",
   code: "ts",
   test: "ts",
-  enabled: false,
+  enabled: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
