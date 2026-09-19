@@ -9,10 +9,12 @@ import {
   NAV_ITEM_TECH,
   PRIMARY_NAV_ITEMS,
 } from "akasha/alan/web/modules/alan-nav-items/alan-nav-items.module.code.ts"
+import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { EdgeSwipeNav } from "akasha/alan/web/modules/edge-swipe-nav/edge-swipe-nav.module.code.tsx"
 import { MiniPlayerBar } from "akasha/alan/web/modules/mini-player-bar/mini-player-bar.module.code.tsx"
 import { DynamicNavCommands } from "akasha/alan/web/modules/nav-command/nav-command.module.code.tsx"
 import { PullToRefresh } from "akasha/alan/web/modules/pull-to-refresh/pull-to-refresh.module.code.tsx"
+import { AuthFooter as ServedAuthFooter } from "akasha/code/router-app/modules/auth-footer/auth-footer.module.code.tsx"
 import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,
@@ -40,7 +42,7 @@ interface AppShellProps {
   ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
 }
 
-function AuthFooter({ user }: { user: { id: string } | null }) {
+function NativeAuthFooter({ user }: { user: { id: string } | null }) {
   const { effectiveIsCollapsed } = useSidebarState()
   const [signingOut, setSigningOut] = useState(false)
 
@@ -78,6 +80,11 @@ function AuthFooter({ user }: { user: { id: string } | null }) {
       {!effectiveIsCollapsed && <span>Sign In</span>}
     </Link>
   )
+}
+
+function AuthFooter({ user }: { user: { id: string } | null }) {
+  if (isNativeShell()) return <NativeAuthFooter user={user} />
+  return <ServedAuthFooter signedIn={user !== null} />
 }
 
 const STATIC_BOTTOM_SECTIONS = [NAV_ITEM_CONTENT, NAV_ITEM_TECH] as const

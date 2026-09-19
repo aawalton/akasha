@@ -26,6 +26,7 @@ const PUBLIC_ROUTES: RouteConfig = [
   index("routes/landing/landing.route.code.tsx"),
   route("handover", "routes/temper-handover/temper-handover.route.code.ts"),
   route("sign-in", "routes/sign-in/sign-in.route.code.ts"),
+  route("sign-out", "routes/sign-out/sign-out.route.code.ts"),
   route("sign-up", "routes/sign-up/sign-up.route.code.tsx"),
 ]
 

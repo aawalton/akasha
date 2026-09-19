@@ -149,6 +149,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/settings/settings.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/shopping/shopping.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/sign-in/sign-in.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/sign-out/sign-out.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/sign-up/sign-up.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/temper-api-nav-icon/temper-api-nav-icon.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/temper-api-pages/temper-api-pages.route.ts"}

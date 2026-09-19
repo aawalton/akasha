@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/root.tsx"}
 {"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/_app-layout.tsx"}
 {"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/sign-in/sign-in.route.code.ts"}
+{"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/sign-out/sign-out.route.code.ts"}
 {"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/temper-handover/temper-handover.route.code.ts"}
 {"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}

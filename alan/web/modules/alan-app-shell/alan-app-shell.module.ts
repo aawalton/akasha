@@ -9,11 +9,17 @@ export const alanAppShell = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Signing out happens in the browser rather than as a form POST.",
+      statement: "This shell is shipped inside the native WebView as well as served to a browser.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This shell is shipped inside the native WebView as well as served to a browser.",
+      statement:
+        "A browser signs out by posting, because a cookie the server set is the server's to clear.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The native shell signs out in the WebView, because it serves no route to post to.",
     },
     {
       decisionKind: "decision-kind/departure",

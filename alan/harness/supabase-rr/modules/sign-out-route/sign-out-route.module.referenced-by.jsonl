@@ -2,4 +2,5 @@
 {"propertySlug":"import","fileName":"sign-out-route.module.code.ts","path":"alan/web/routes/alan-web-sign-out/alan-web-sign-out.route.code.ts"}
 {"propertySlug":"import","fileName":"sign-out-route.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-sign-out/archive-of-worlds-sign-out.route.code.ts"}
 {"propertySlug":"import","fileName":"sign-out-route.module.code.ts","path":"product/smilingjenny/web/routes/jenny-sign-out/jenny-sign-out.route.code.ts"}
+{"propertySlug":"import","fileName":"sign-out-route.module.code.ts","path":"temper/web/routes/sign-out/sign-out.route.code.ts"}
 {"propertySlug":"parts","path":"alan/harness/supabase-rr/supabase-rr.domain.ts","id":"01a05c97-8af3-7dbb-b6b0-4fd120a787a9"}

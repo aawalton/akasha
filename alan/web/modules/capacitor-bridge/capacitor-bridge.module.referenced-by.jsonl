@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web-capacitor/root.tsx"}
+{"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.code.tsx"}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.code.tsx"}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/api-fetch/api-fetch.module.code.ts"}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/content-pages-fs/content-pages-fs.module.code.ts"}

@@ -42,6 +42,7 @@ export const temperWebRoutes = {
     "route/settings",
     "route/shopping",
     "route/sign-in",
+    "route/sign-out",
     "route/sign-up",
     "route/temper-api-nav-icon",
     "route/temper-api-pages",

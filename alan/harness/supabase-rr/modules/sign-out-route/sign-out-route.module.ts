@@ -11,5 +11,17 @@ export const signOutRoute = {
       decisionKind: "decision-kind/departure",
       statement: "A reader asking for the sign-out path without posting is sent to the root.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A site holds more than one kind of session, and a sign-out ends every one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The caller names the cookies ending the sessions this module knows nothing of.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Those cookies join the headers the redirect is built from rather than its own.",
+    },
   ],
 } as const satisfies Module
