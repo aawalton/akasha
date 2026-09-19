@@ -19,6 +19,7 @@ export const arianaGrandeBangBangRemixesBangBangImanosGramercyRemix = {
     },
   ],
   title: "Bang Bang - Imanos & Gramercy Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

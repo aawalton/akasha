@@ -19,6 +19,7 @@ export const arianaGrandeDangerousWomanSideToSide = {
     },
   ],
   title: "Side To Side",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [

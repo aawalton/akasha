@@ -19,6 +19,7 @@ export const alexandriaLustLust = {
     },
   ],
   title: "Lust",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

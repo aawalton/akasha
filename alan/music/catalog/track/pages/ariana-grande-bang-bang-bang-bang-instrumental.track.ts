@@ -19,6 +19,7 @@ export const arianaGrandeBangBangBangBangInstrumental = {
     },
   ],
   title: "Bang Bang - Instrumental",
+  trackType: "instrumental",
   discNumber: 1,
   explicit: false,
   trackArtist: [

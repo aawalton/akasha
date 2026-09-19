@@ -19,6 +19,7 @@ export const arianaGrandeBoyfriendBoyfriendWithSocialHouse = {
     },
   ],
   title: "boyfriend (with Social House)",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [

@@ -19,6 +19,7 @@ export const arianaGrandeBangBangRemixesBangBangDadaLifeRemix = {
     },
   ],
   title: "Bang Bang - Dada Life Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

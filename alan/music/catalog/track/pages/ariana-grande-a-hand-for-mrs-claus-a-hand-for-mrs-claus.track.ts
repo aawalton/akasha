@@ -19,6 +19,7 @@ export const arianaGrandeAHandForMrsClausAHandForMrsClaus = {
     },
   ],
   title: "A Hand For Mrs. Claus",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

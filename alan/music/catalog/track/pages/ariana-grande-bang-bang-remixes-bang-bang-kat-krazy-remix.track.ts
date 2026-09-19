@@ -19,6 +19,7 @@ export const arianaGrandeBangBangRemixesBangBangKatKrazyRemix = {
     },
   ],
   title: "Bang Bang - Kat Krazy Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

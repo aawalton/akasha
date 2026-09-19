@@ -19,6 +19,7 @@ export const arianaGrande7RingsRemix7RingsFeat2ChainzRemix = {
     },
   ],
   title: "7 rings (feat. 2 Chainz) - Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [

@@ -19,6 +19,7 @@ export const alexandriaTheFoolTheFool = {
     },
   ],
   title: "The Fool",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],

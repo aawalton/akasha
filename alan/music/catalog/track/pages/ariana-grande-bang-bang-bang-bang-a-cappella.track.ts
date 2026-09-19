@@ -19,6 +19,7 @@ export const arianaGrandeBangBangBangBangACappella = {
     },
   ],
   title: "Bang Bang - A Cappella",
+  trackType: "a-cappella",
   discNumber: 1,
   explicit: false,
   trackArtist: [

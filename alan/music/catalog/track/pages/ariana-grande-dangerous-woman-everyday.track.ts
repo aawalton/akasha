@@ -19,6 +19,7 @@ export const arianaGrandeDangerousWomanEveryday = {
     },
   ],
   title: "Everyday",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [

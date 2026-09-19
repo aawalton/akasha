@@ -19,6 +19,7 @@ export const arianaGrande3435Remix3435RemixFeatDojaCatMeganTheeStallionRemix = {
     },
   ],
   title: "34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [
