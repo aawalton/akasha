@@ -176,6 +176,13 @@ echo "    swap: $(swapon --show=NAME,SIZE,PRIO --noheadings | tr '\n' ' ')"
 
 echo
 echo "Done. Manual follow-up:"
+if [ ! -f "$HOME/.ssh/id_ed25519" ]; then
+  echo "  - MISSING ~/.ssh/id_ed25519, the key every ssh to the macbook (100.64.0.2) names."
+  echo "    Without it the ios deploy, imessage, health-sample-import and the inference"
+  echo "    pool each end at ssh exit 255. Restore that key, or mint one and authorise it:"
+  echo "      ssh-keygen -t ed25519 -N '' -f ~/.ssh/id_ed25519"
+  echo "      ssh-copy-id -i ~/.ssh/id_ed25519.pub walton@100.64.0.2"
+fi
 echo "  - Ensure the kubeconfig, ~/.secrets.env, tailscale enrollment, and home symlinks"
 echo "    (setup-symlinks.sh) are in place — those are not provisioned by this script."
 echo "  - Restore the workstation SMS outbound creds into ~/.secrets.env from the telnyx"
