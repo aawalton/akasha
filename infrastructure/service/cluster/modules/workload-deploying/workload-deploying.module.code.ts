@@ -248,7 +248,7 @@ export interface Kubectl {
   readonly alone: (argv: readonly string[]) => Ran
 }
 
-const NOTHING_BETWEEN: Between = () => []
+const nothingBetween: Between = () => []
 
 const RUN_KUBECTL: Kubectl = { on: runKubectlOn, alone: runKubectl }
 
@@ -268,7 +268,7 @@ function appliedEach(
 
 export function putUp(
   plan: Plan,
-  between: Between = NOTHING_BETWEEN,
+  between: Between = nothingBetween,
   kubectl: Kubectl = RUN_KUBECTL
 ): readonly Ran[] {
   const ran: Ran[] = []

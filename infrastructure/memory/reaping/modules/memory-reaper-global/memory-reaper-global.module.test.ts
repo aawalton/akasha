@@ -82,7 +82,7 @@ describe("assessGlobalKill", () => {
 describe("assessRecoveryWindow", () => {
   const windowMs = 60_000
 
-  const HOLDING = {
+  const holding = {
     recoveryWindowMs: windowMs,
     availableKb: 2 * KB_PER_GB,
     availableKbAtLastKill: 2 * KB_PER_GB,
@@ -95,7 +95,7 @@ describe("assessRecoveryWindow", () => {
       globalTripped: false,
       nowMs: 1000,
       lastGlobalKillAtMs: 500,
-      ...HOLDING,
+      ...holding,
     })
     expect(out).toMatchObject({ execute: false, recovered: true })
   })
@@ -105,7 +105,7 @@ describe("assessRecoveryWindow", () => {
       globalTripped: true,
       nowMs: 1000,
       lastGlobalKillAtMs: null,
-      ...HOLDING,
+      ...holding,
     })
     expect(out.execute).toBe(true)
   })
@@ -115,7 +115,7 @@ describe("assessRecoveryWindow", () => {
       globalTripped: true,
       nowMs: 20_000,
       lastGlobalKillAtMs: 0,
-      ...HOLDING,
+      ...holding,
     })
     expect(out.execute).toBe(false)
     expect(out.reason).toContain("recovery window")
@@ -126,7 +126,7 @@ describe("assessRecoveryWindow", () => {
       globalTripped: true,
       nowMs: 1000,
       lastGlobalKillAtMs: 0,
-      ...HOLDING,
+      ...holding,
       availableKb: 0,
     })
     expect(out.execute).toBe(false)
@@ -138,7 +138,7 @@ describe("assessRecoveryWindow", () => {
       globalTripped: true,
       nowMs: 20_000,
       lastGlobalKillAtMs: 0,
-      ...HOLDING,
+      ...holding,
       availableKb: KB_PER_GB / 2,
     })
     expect(out.execute).toBe(true)
@@ -150,7 +150,7 @@ describe("assessRecoveryWindow", () => {
       globalTripped: true,
       nowMs: 20_000,
       lastGlobalKillAtMs: 0,
-      ...HOLDING,
+      ...holding,
       availableKb: 1.5 * KB_PER_GB,
       availableKbAtLastKill: 2 * KB_PER_GB,
     })
@@ -163,7 +163,7 @@ describe("assessRecoveryWindow", () => {
       globalTripped: true,
       nowMs: windowMs + 1,
       lastGlobalKillAtMs: 0,
-      ...HOLDING,
+      ...holding,
     })
     expect(out.execute).toBe(true)
     expect(out.recovered).toBe(false)

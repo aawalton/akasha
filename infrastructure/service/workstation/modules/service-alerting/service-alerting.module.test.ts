@@ -37,10 +37,10 @@ function rowOf(slug: string, parent: string | null, persona: string | null): Dom
   return { slug, path: `${slug}.ts`, persona, parent, sequence: [] }
 }
 
-const NOBODY = () => null
+const nobody = () => null
 
 function decided(health: readonly Health[], ledger: Ledger, now: string) {
-  return deciding({ health, champion: NOBODY, ledger, now, fallback: "alan" })
+  return deciding({ health, champion: nobody, ledger, now, fallback: "alan" })
 }
 
 test("a service that just broke is told at once", () => {
@@ -117,7 +117,7 @@ test("the persona told is the nearest one climbing the tree", () => {
 test("a service no page above it champions falls to the one stated", () => {
   const said = deciding({
     health: [BROKE],
-    champion: NOBODY,
+    champion: nobody,
     ledger: {},
     now: AT,
     fallback: "alan",

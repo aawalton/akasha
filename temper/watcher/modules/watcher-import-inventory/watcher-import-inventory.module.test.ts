@@ -26,9 +26,9 @@ const NO_MARKET_PRICE =
   "WARNING: this scan ran with no market-price source — no item carries a market price, so the " +
   "total above is vendor-value-only and far below the real worth."
 
-const SCAN_FILED = async () => ({ outcome: "landed" as const, at: "def5678" })
+const scanFiled = async () => ({ outcome: "landed" as const, at: "def5678" })
 
-const ASKED = async () => ({ rows: [{ settings: {}, slug: ACCOUNT_SLUG }], n: 1 })
+const asked = async () => ({ rows: [{ settings: {}, slug: ACCOUNT_SLUG }], n: 1 })
 
 const NET_WORTH: NetWorthResult = {
   itemValue: 500,
@@ -198,9 +198,9 @@ test("a whole import writes what the legacy import wrote over the same scan", as
       },
       now: () => 0,
       mint: () => "id-1",
-      ask: ASKED,
+      ask: asked,
       land: async () => ({ outcome: "landed" as const, at: "abc1234" }),
-      file: SCAN_FILED,
+      file: scanFiled,
     }
   )
   expect(said.join("\n")).toBe(legacy)
@@ -216,7 +216,7 @@ test("the inventory handed over carries the account page's slug, the value and t
       say: () => undefined,
       now: () => 0,
       mint: () => "id-1",
-      ask: ASKED,
+      ask: asked,
       land: async () => ({ outcome: "landed" as const, at: "abc1234" }),
       file: async (values) => {
         handed = values
@@ -239,7 +239,7 @@ test("an inventory the store would not take ends the import and names the accoun
       say: () => undefined,
       now: () => 0,
       mint: () => "id-1",
-      ask: ASKED,
+      ask: asked,
       land: async () => ({ outcome: "landed" as const, at: "abc1234" }),
       file: async () => ({ outcome: "refused" as const, why: "the store would not take it" }),
     }
@@ -259,12 +259,12 @@ test("the reading handed over carries the account, the moment, and every part of
       say: () => undefined,
       now: () => 0,
       mint: () => "id-1",
-      ask: ASKED,
+      ask: asked,
       land: async (values) => {
         handed = values
         return { outcome: "landed" as const, at: "abc1234" }
       },
-      file: SCAN_FILED,
+      file: scanFiled,
     }
   )
   expect(handed).toEqual({
@@ -288,7 +288,7 @@ test("a filing refused ends the import and names the hour the reading was for", 
       say: () => undefined,
       now: () => 0,
       mint: () => "id-1",
-      ask: ASKED,
+      ask: asked,
       land: async () => ({ outcome: "refused" as const, why: "the store would not take it" }),
     }
   )

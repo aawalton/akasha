@@ -4,10 +4,10 @@ import { z } from "zod"
 const GIT_HTTP_BACKEND_BIN_DEFAULT = z.string().default("/usr/libexec/git-core/git-http-backend")
 
 function findDoubleCRLF(buf: Uint8Array): number {
-  const CR = 0x0d
-  const LF = 0x0a
+  const cr = 0x0d
+  const lf = 0x0a
   for (let i = 0; i <= buf.length - 4; i++) {
-    if (buf[i] === CR && buf[i + 1] === LF && buf[i + 2] === CR && buf[i + 3] === LF) {
+    if (buf[i] === cr && buf[i + 1] === lf && buf[i + 2] === cr && buf[i + 3] === lf) {
       return i
     }
   }

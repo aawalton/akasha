@@ -76,8 +76,8 @@ function serving(): Bun.Server<undefined> {
             { status: 400 }
           )
         }
-        const SHA_RE = /^[0-9a-f]{4,40}$/i
-        if (!SHA_RE.test(commit) || !SHA_RE.test(ancestorOf)) {
+        const shaRe = /^[0-9a-f]{4,40}$/i
+        if (!shaRe.test(commit) || !shaRe.test(ancestorOf)) {
           return Response.json(
             { error: "commit and ancestor_of must be hex SHA values" },
             { status: 400 }

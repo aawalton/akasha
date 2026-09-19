@@ -15,7 +15,7 @@ const NOW = 1_000_000_000
 
 const EVERY: Wanting = () => true
 
-const NONE: Wanting = () => false
+const none: Wanting = () => false
 
 function wanting(...slugs: readonly string[]): Wanting {
   const held = new Set(slugs)
@@ -40,7 +40,7 @@ test("a service wanting a deploy is chosen", () => {
 })
 
 test("a service wanting no deploy is chosen by nothing", () => {
-  expect(chosenFrom([candidate("one")], NOW, NONE)).toBe(null)
+  expect(chosenFrom([candidate("one")], NOW, none)).toBe(null)
 })
 
 test("a service with a deploy running is passed over without being asked", () => {
