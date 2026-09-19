@@ -1,0 +1,10 @@
+{"app":"temper"}
+{"fingerprint":"4664ef768fa0eca3"}
+{"firstSeenAt":"2026-09-19T17:28:50.570Z"}
+{"id":"01a0bab6-e229-7329-88dc-dbc7bd2194e2"}
+{"kind":"error"}
+{"message":"[pages-cache] slug 'companion-build' readiness overran 4000ms — degrading to the empty state"}
+{"slug":"temper-4664ef768fa0eca3"}
+{"type":"page-type/runtime-error"}
+{"url":"https://tempereso.com/inventory?tab=type"}
+{"userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"}
