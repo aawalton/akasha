@@ -7,7 +7,6 @@ export const dallaOffloadToCluster = {
   domain: "domain/infrastructure",
   persona: "persona/dalla",
   intentStack: [
-    { statement: "Audits and deploys use the fastest available node in the cluster." },
     {
       statement:
         "An audit request a running audit answers attaches to that audit rather than opening a second.",
