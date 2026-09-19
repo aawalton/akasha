@@ -38,10 +38,6 @@ export const recentLanding = {
       statement: "A run holding no refusal asks git nothing.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A tree git answers nothing for keeps every refusal.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a body or reaches the index.",
     },
