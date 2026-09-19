@@ -12,11 +12,6 @@ export const aineKofi = {
         "A payment Stripe reports lands the contributor's page and the contribution points it earns.",
     },
     {
-      statement: "Ko-fi Gold is on before Alan's first member.",
-      workingMemory:
-        "Ko-fi cannot change the platform fee on a Stripe membership after that membership starts. A membership taken before Gold pays 5% for life; one taken while Gold is on pays nothing for life, even if Gold is cancelled afterwards. A new account defaults into the 5% tier, and Gold is $12 a month.",
-    },
-    {
       statement:
         "A refund or dispute Stripe reports posts a negative transaction against the contributor.",
       workingMemory:
