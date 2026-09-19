@@ -26,5 +26,10 @@ export const craftInference = {
       decisionKind: "decision-kind/departure",
       statement: "Research inference rejects any trait type outside 1 through 33.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A trait no character can ever research is no research trait, so no trait map names it.",
+    },
   ],
 } as const satisfies Module

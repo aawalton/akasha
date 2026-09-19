@@ -29,8 +29,6 @@ const WEAPON_TRAIT_TYPE_TO_NAME: Record<number, string> = {
   7: "Sharpened",
   8: "Decisive",
   9: "Nirnhoned",
-  10: "Ornate",
-  11: "Intricate",
 }
 
 const ARMOR_TRAIT_TYPE_TO_NAME: Record<number, string> = {
@@ -43,16 +41,12 @@ const ARMOR_TRAIT_TYPE_TO_NAME: Record<number, string> = {
   18: "Invigorating",
   19: "Divines",
   20: "Nirnhoned",
-  21: "Ornate",
-  22: "Intricate",
 }
 
 const JEWELRY_TRAIT_TYPE_TO_NAME: Record<number, string> = {
   21: "Healthy",
   22: "Arcane",
   23: "Robust",
-  24: "Ornate",
-  27: "Intricate",
   28: "Swift",
   29: "Harmony",
   30: "Triune",
