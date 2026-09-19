@@ -1,3 +1,5 @@
+import { existsSync, readFileSync } from "node:fs"
+import { join } from "node:path"
 import { identitiesWith } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import {
   artistIn,
@@ -171,7 +173,12 @@ function edited(put: Put): Asking {
   return { at: WRITE, given: { at: put.path, body: put.content } }
 }
 
-function wordEdits(put: Put, words: SongLyrics): readonly Asking[] {
+function heldAt(root: string, at: string): string | null {
+  const full = join(root, at)
+  return existsSync(full) ? readFileSync(full, "utf8") : null
+}
+
+function wordEdits(root: string, put: Put, words: SongLyrics): readonly Asking[] {
   const edits: Asking[] = []
   for (const [propertySlug, text] of [
     [LYRICS, words.lyrics],
@@ -180,6 +187,7 @@ function wordEdits(put: Put, words: SongLyrics): readonly Asking[] {
     if (text === null) continue
     const beside = besideAt(put.path, propertySlug, TXT)
     if (beside === null) continue
+    if (heldAt(root, beside) === text) continue
     edits.push({ at: WRITE, given: { at: beside, body: text } })
   }
   return edits
@@ -241,7 +249,7 @@ async function songLanded(
   const composed = composedFor(root, { pageTypeSlug: SONG, slug, values }, source)
   if ("refused" in composed) return composed
   const edits = [edited(composed.put)]
-  if (worded.words !== null) edits.push(...wordEdits(composed.put, worded.words))
+  if (worded.words !== null) edits.push(...wordEdits(root, composed.put, worded.words))
   return { edits, worded }
 }
 

@@ -61,6 +61,10 @@ export const musicImportArtist = {
       decisionKind: "decision-kind/departure",
       statement: "A fault carries the code that fault names and says where it was thrown.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A words file already holding the words read is written again by nothing.",
+    },
   ],
   name: "import-artist",
   arguments: [
