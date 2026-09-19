@@ -1,11 +1,14 @@
 import { expect, test } from "bun:test"
+import { ci } from "akasha/infrastructure/container-image/dockerfile/built-image/ci/ci.built-image.ts"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
+import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import {
   applyArgv,
   carriedAt,
   checkedOut,
   endedBy,
   fateOf,
+  imageHeldFor,
   jobRan,
   jobYamlFor,
   logsArgv,
@@ -195,4 +198,17 @@ test("a commit that reaches origin nowhere puts no job up", async () => {
   const held = capturing()
   await jobRan(ROOT, COMMIT, NAME, YAML, 1, held.running, uncarried, pushed)
   expect(held.seen).toEqual([])
+})
+
+test("a job names the ci image at the hash of that image's build inputs", () => {
+  expect(jobYamlFor(NAME, SCRIPT)).toContain(refOf(ci))
+  expect(refOf(ci)).toMatch(/\/cluster\/ci:[0-9a-f]{12}$/)
+})
+
+test("a job names no image by a tag that moves", () => {
+  expect(jobYamlFor(NAME, SCRIPT)).not.toContain("cluster/ci:latest")
+})
+
+test("a manifest naming no image of this system's reaches no registry", async () => {
+  expect(await imageHeldFor(YAML, ROOT)).toBe(null)
 })

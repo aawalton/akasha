@@ -155,5 +155,19 @@ export const clusterRunning = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads what a job's lines mean.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job names that image at the hash of the image's build inputs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every image a job's manifest names is put in the registry before the job goes up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An image that would not build refuses the run rather than leaving the job to fail its pull.",
+    },
   ],
 } as const satisfies Module

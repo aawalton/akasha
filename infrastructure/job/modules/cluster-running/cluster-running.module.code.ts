@@ -10,7 +10,8 @@ import {
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { ci } from "akasha/infrastructure/container-image/dockerfile/built-image/ci/ci.built-image.ts"
-import { refFor } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
+import { publishedFor } from "akasha/infrastructure/container-image/modules/image-publishing/image-publishing.module.code.ts"
+import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { deployAccount } from "akasha/infrastructure/job/deploy-account/deploy-account.manifest.ts"
 import {
   IN_CLUSTER,
@@ -56,10 +57,6 @@ const ORIGIN =
   `http://x-access-token:$${GIT_TOKEN}` +
   "@git-transport.git.svc.cluster.local:3000/alan/akasha.git"
 
-const TOOLS = "cluster"
-
-const LATEST = "latest"
-
 const ROOM = "LANDING_MIN_FREE_MEMORY_GB"
 
 const ROOM_GB = "1"
@@ -76,7 +73,7 @@ const DEADLINE_SECONDS = 3600
 
 const UNCONFINED = "Unconfined"
 
-export function fetchedFor(commit: string, was: string | null): readonly string[] {
+function fetchedFor(commit: string, was: string | null): readonly string[] {
   const at = `git fetch -q --depth 1 origin ${commit}`
   if (was === null || was === commit) return [at]
   return [`git fetch -q --depth 1 origin ${was} || true`, at]
@@ -94,7 +91,7 @@ export function checkedOut(commit: string, was: string | null): readonly string[
   ]
 }
 
-export function jobFor(name: string, script: string): ApiObjectManifest {
+function jobFor(name: string, script: string): ApiObjectManifest {
   return {
     apiVersion: "batch/v1",
     kind: JOB,
@@ -116,7 +113,7 @@ export function jobFor(name: string, script: string): ApiObjectManifest {
           containers: [
             {
               name: JOB.toLowerCase(),
-              image: refFor(`${TOOLS}/${ci.slug}`, LATEST),
+              image: refOf(ci),
               command: ["sh", "-c", script],
               securityContext: { privileged: true },
               env: [
@@ -166,7 +163,7 @@ export function applyArgv(): readonly string[] {
   return ["apply", "-f", "-"]
 }
 
-export function planFor(name: string, yaml: string): Plan {
+function planFor(name: string, yaml: string): Plan {
   return {
     workload: { kind: JOB, name, namespace: JOB_NAMESPACE },
     synthPath: name,
@@ -184,8 +181,7 @@ export function logsArgv(name: string): readonly string[] {
   return ["logs", "-n", JOB_NAMESPACE, `job/${name}`, EVERY_LINE]
 }
 
-export const ranBy: Running = (argv, text) =>
-  text === null ? runKubectl(argv) : runKubectlOn(argv, text)
+const ranBy: Running = (argv, text) => (text === null ? runKubectl(argv) : runKubectlOn(argv, text))
 
 export function endedBy(fate: Fate, lines: Ran, name: string): Ended {
   const said = lines.stdout.trim() === "" ? [] : lines.stdout.trim().split("\n")
@@ -219,6 +215,17 @@ export function carriedAt(
   return `origin does not carry ${commit}, so no job in the cluster can read it`
 }
 
+export async function imageHeldFor(yaml: string, root: string): Promise<string | null> {
+  const done: string[] = []
+  try {
+    await publishedFor([yaml], false, root, done)
+    return null
+  } catch (thrown) {
+    const said = thrown instanceof Error ? thrown.message : String(thrown)
+    return [`the image this job runs in is not in the registry: ${said}`, ...done].join("\n")
+  }
+}
+
 export async function jobRan(
   root: string,
   commit: string,
@@ -231,6 +238,8 @@ export async function jobRan(
 ): Promise<Ended> {
   const why = carriedAt(root, commit, carrying, pushing)
   if (why !== null) return { why }
+  const unbuilt = await imageHeldFor(yaml, root)
+  if (unbuilt !== null) return { why: unbuilt }
   const placing = placeSecrets(root, planFor(name, yaml))
   if (placing.unplaced.length > 0) {
     const short = placing.unplaced.map((one) => `${one.name}/${one.key}`).join(", ")
