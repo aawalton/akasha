@@ -63,6 +63,5 @@
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/typecheck/typecheck.check-code.ts"}
-{"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/types-file-runs-nothing/types-file-runs-nothing.check-code.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-checks-ceiling-is-charged-the-settle-every-check-shares.finding.ts","id":"01a0a4f1-b6b8-7c55-bb02-f89a1b2348b9"}
 {"propertySlug":"parts","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}

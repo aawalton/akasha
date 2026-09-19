@@ -74,7 +74,6 @@ export const checkCode = {
 
     "check-code/tests-pass",
     "check-code/typecheck",
-    "check-code/types-file-runs-nothing",
     "list/code-comment-forms",
     "module-property-group/audit",
     "module-property-group/check",

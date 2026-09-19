@@ -154,8 +154,6 @@
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/types-file-runs-nothing/types-file-runs-nothing.check-code.audit.code.ts"}
-{"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/types-file-runs-nothing/types-file-runs-nothing.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/modules/audit-child/audit-child.module.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/modules/audit-round/audit-round.module.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}

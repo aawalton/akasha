@@ -124,6 +124,4 @@
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.audit.test.ts"}
-{"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/types-file-runs-nothing/types-file-runs-nothing.check-code.check.test.ts"}
-{"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/types-file-runs-nothing/types-file-runs-nothing.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"parts","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}

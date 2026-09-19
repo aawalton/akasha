@@ -104,7 +104,6 @@
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/types-file-runs-nothing/types-file-runs-nothing.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/modules/router-app-code/router-app-code.module.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"code/reading/modules/code-rule/code-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"code/reading/modules/code-source/code-source.module.test.ts"}

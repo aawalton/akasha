@@ -112,7 +112,6 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/types-file-runs-nothing/types-file-runs-nothing.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-asking/audit-asking.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-calling/audit-calling.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
@@ -315,7 +314,6 @@
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/no-unused-exports/modules/recent-landing/recent-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.decision.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/types-file-runs-nothing/types-file-runs-nothing.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"code/editor/extension/modules/transcript-sources/transcript-sources.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"command/modules/apply-running/apply-running.module.test.ts"}

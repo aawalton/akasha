@@ -762,7 +762,6 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/shell-clean/shell-clean.check-code.ts","id":"01a05991-d997-76f5-a619-6ddb7444c34f"}
 {"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/tests-pass.check-code.ts","id":"01a04eb6-9214-7000-be71-821a1a582fbe"}
 {"propertySlug":"decision-kind","path":"check/code/pages/typecheck/typecheck.check-code.ts","id":"01a04bcb-dff4-761a-856e-407fb6934b44"}
-{"propertySlug":"decision-kind","path":"check/code/pages/types-file-runs-nothing/types-file-runs-nothing.check-code.ts","id":"01a07724-a8ae-7f5e-93f2-c483420afe89"}
 {"propertySlug":"decision-kind","path":"check/model/check-model.page-type.ts","id":"01a05911-aa15-776e-9726-ed4131cd6b51"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-asking/audit-asking.module.ts","id":"01a09239-89d9-7000-b122-2e19bbb8547e"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-calling/audit-calling.module.ts","id":"01a0a6a7-6988-7cac-b722-46cd6c843671"}
