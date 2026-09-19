@@ -1,0 +1,19 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const celticWomanAnCailinDearg = {
+  id: "01a0b720-1546-7a6d-9dcf-df024f90a566",
+  type: "page-type/song",
+  slug: "celtic-woman-an-cailin-dearg",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e342ded1-55d4-461c-b4dc-9e1517db6f94",
+      externalLink: "https://musicbrainz.org/work/e342ded1-55d4-461c-b4dc-9e1517db6f94",
+      lastSyncedAt: "2026-09-19",
+    },
+  ],
+  title: "An Cailín Dearg",
+  artist: "artist/celtic-woman",
+  songType: "derivative",
+  performed: true,
+} as const satisfies Song

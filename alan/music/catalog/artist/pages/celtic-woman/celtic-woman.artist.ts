@@ -14,6 +14,12 @@ export const celticWoman = {
   unit: "unit/minutes",
   externalIdentity: [
     {
+      source: "musicbrainz",
+      externalId: "4d483147-c871-48c4-8470-85e5a66381c5",
+      externalLink: "https://musicbrainz.org/artist/4d483147-c871-48c4-8470-85e5a66381c5",
+      lastSyncedAt: "2026-09-19",
+    },
+    {
       source: "spotify",
       externalId: "6NWtt9pNOL2Gx7kBykdE5x",
       externalLink: "https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x",
@@ -21,4 +27,5 @@ export const celticWoman = {
     },
   ],
   title: "Celtic Woman",
+  genre: ["celtic", "celtic new age", "classical", "classical crossover", "folk", "new age"],
 } as const satisfies Artist

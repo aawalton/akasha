@@ -1,0 +1,21 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const celticWomanIsleOfHopeIsleOfTears = {
+  id: "01a0b720-1183-72db-af54-9484b54215b6",
+  type: "page-type/song",
+  slug: "celtic-woman-isle-of-hope-isle-of-tears",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a27d936e-4e59-4460-959e-2f8b3bd0a617",
+      externalLink: "https://musicbrainz.org/work/a27d936e-4e59-4460-959e-2f8b3bd0a617",
+      lastSyncedAt: "2026-09-19",
+    },
+  ],
+  title: "Isle of Hope, Isle of Tears",
+  artist: "artist/celtic-woman",
+  songType: "derivative",
+  performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+} as const satisfies Song
