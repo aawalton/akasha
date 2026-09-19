@@ -4,4 +4,8 @@
 {"propertySlug":"import","fileName":"rename-file-page.change-mechanical.test-fixtures.ts","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"rename-file-page.change-mechanical.ts","path":"change/agent/file/rename-page/rename-page.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"rename-file-page.change-mechanical.ts","path":"change/agent/file/rename-page/rename-page.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"rename-file-page.change-mechanical.ts","path":"change/mechanical/file/rename/rename-file-page-property/rename-file-page-property.change-mechanical.code.ts"}
+{"propertySlug":"import","fileName":"rename-file-page.change-mechanical.ts","path":"change/mechanical/file/rename/rename-file-page-property/rename-file-page-property.change-mechanical.test.ts"}
+{"propertySlug":"import","fileName":"rename-file-page.change-mechanical.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts"}
+{"propertySlug":"import","fileName":"rename-file-page.change-mechanical.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.test.ts"}
 {"propertySlug":"parts","path":"change/mechanical/file/rename/change-mechanical-file-rename.domain.ts","id":"01a08238-cb67-7904-b9fc-479ade8d8cd0"}

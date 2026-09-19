@@ -5,6 +5,8 @@
 {"propertySlug":"import","fileName":"remove-file-page.change-mechanical-file.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts"}
 {"propertySlug":"import","fileName":"remove-file-page.change-mechanical-file.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"remove-file-page.change-mechanical-file.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts"}
+{"propertySlug":"import","fileName":"remove-file-page.change-mechanical-file.ts","path":"change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.code.ts"}
+{"propertySlug":"import","fileName":"remove-file-page.change-mechanical-file.ts","path":"change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"remove-file-page.change-mechanical-file.ts","path":"change/mechanical/file/remove/remove-file-page-property/remove-file-page-property.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"remove-file-page.change-mechanical-file.ts","path":"change/mechanical/file/remove/remove-file-page-property/remove-file-page-property.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"remove-file-page.change-mechanical-file.ts","path":"change/mechanical/file/remove/remove-file-page-type/remove-file-page-type.change-mechanical.code.ts"}

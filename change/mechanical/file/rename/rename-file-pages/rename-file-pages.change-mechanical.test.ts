@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { renameFilePage } from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.ts"
 import {
   addressesIn,
   runChange,
@@ -35,7 +37,7 @@ const SPELLER_PAGE = "akasha/speller.module.ts"
 
 const SPELLER_CODE = "akasha/speller.module.code.ts"
 
-const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
+const RENAME_FILE_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
 
 const TYPE_BODY = `export type Kept = { readonly id: string }
 

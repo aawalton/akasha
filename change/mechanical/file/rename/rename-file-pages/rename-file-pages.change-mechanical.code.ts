@@ -1,3 +1,5 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { renameFilePage } from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.ts"
 import { restatedIn } from "akasha/change/modules/address-restating/address-restating.module.code.ts"
 import { gathered, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
@@ -9,7 +11,7 @@ import {
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 
-const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
+const RENAME_FILE_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
 
 const SLUG = "slug"
 

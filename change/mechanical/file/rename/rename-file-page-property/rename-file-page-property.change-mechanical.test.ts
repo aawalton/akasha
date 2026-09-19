@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { renameFilePage } from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.ts"
 import { runChange } from "akasha/change/mechanical/file/rename/rename-file-page-property/rename-file-page-property.change-mechanical.code.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+
+const RENAME_FILE_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
 
 const PROPERTY = "akasha/properties/kept.text-property.ts"
 
@@ -31,7 +35,7 @@ test("a page property path is renamed by the change this change reaches", async 
   const said = await runChange(worldOf(renamed), { at: PROPERTY, to: TO })
 
   expect(said.refused).toBe(null)
-  expect(renamed.at).toBe("change-mechanical/rename-file-page")
+  expect(renamed.at).toBe(RENAME_FILE_PAGE)
   expect(renamed.given).toEqual({ at: PROPERTY, to: TO })
 })
 
