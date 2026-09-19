@@ -6,4 +6,5 @@ export const aineKofi = {
   slug: "aine-kofi",
   domain: "domain/kofi",
   persona: "persona/aine",
+  intentStack: [{ statement: "Alan has a Ko-fi page people can back him on." }],
 } as const satisfies Initiative

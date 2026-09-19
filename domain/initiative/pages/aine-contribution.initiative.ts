@@ -7,7 +7,6 @@ export const aineContribution = {
   domain: "domain/kofi",
   persona: "persona/aine",
   intentStack: [
-    { statement: "Alan has a Ko-fi page people can back him on." },
     {
       statement:
         "A contributor is a page holding every contribution point transaction and the running balance.",
