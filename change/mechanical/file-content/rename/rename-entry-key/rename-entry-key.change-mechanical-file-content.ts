@@ -46,7 +46,7 @@ export const renameEntryKey = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body whose entry already states the key asked for is refused.",
+      statement: "A body whose entry states both the key held and the key asked for is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
