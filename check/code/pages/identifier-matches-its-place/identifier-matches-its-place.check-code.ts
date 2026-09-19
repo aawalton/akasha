@@ -178,7 +178,7 @@ export const identifierMatchesItsPlace = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A function spelled as the `luaExport` its page states is passed over.",
+      statement: "A name spelled as the `luaExport` its page states is passed over.",
     },
     {
       decisionKind: "decision-kind/departure",

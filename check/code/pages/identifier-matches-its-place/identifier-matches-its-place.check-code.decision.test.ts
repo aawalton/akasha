@@ -9,6 +9,7 @@ import {
   DRAWN_ONE,
   FIXED_AT,
   FIXED_BODY,
+  FIXED_HELD,
   HELD_AT,
   LOWER_CAMEL,
   PAGE_AT,
@@ -291,12 +292,13 @@ test("a name is a component only where the element opening with it is in the sam
   expect(said[0]).toContain("the name `Icon`")
 })
 
-test("a declaration file states names another writer chose, so none of them is judged", () => {
+test("a name another writer fixed is passed over, bound to a function or to a literal", () => {
   const body = "type bag_slot = number\n"
   expect(refusedIn("akasha/eso-writ.type-declaration.d.ts", body, PLACES)).toEqual([])
   expect(refusedIn(AT, body, PLACES)).toHaveLength(1)
   expect(refusedIn(FIXED_AT, FIXED_BODY, PLACES)).toEqual([])
-  expect(refusedIn(AT, FIXED_BODY, PLACES)).toHaveLength(1)
+  expect(refusedIn(FIXED_AT, FIXED_HELD, PLACES)).toEqual([])
+  expect(refusedIn(AT, FIXED_HELD, PLACES)).toHaveLength(1)
 })
 
 test("a declaration in an ordinary file is passed over, and a name beside it is not", () => {

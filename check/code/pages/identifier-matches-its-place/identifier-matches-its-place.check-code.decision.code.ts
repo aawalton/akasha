@@ -324,7 +324,10 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
     ts.forEachChild(node, (each) => walk(each, each === working.body ? working.body : holding))
   }
   ts.forEachChild(source, (each) => walk(each, null))
-  for (const one of constantsIn(source, at)) take(one, "constant", places.constantIdentifier)
+  for (const one of constantsIn(source, at)) {
+    if (one.text === fixedHere) continue
+    take(one, "constant", places.constantIdentifier)
+  }
   return found
 }
 

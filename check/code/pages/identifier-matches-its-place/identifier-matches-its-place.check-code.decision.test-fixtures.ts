@@ -61,6 +61,8 @@ export const FIXED_AT = "akasha/lualib-helper/at.lualib-helper.code.ts"
 
 export const FIXED_BODY = "export function __TS__ArrayAt() {}\n"
 
+export const FIXED_HELD = "export const __TS__ArrayAt = { one: 1 }\n"
+
 export const DRAWN_NULL = "export function RungOf() {\n  return null\n}\n"
 
 export const DRAWN_ONE = "export function RungOf() {\n  return 1\n}\n"
