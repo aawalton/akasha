@@ -47,10 +47,6 @@ export const deployHolding = {
       statement: "The hold is released only by the process whose mark the file carries.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A dry run takes the hold, since a dry run reads the same tree.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here holds two things apart that are put up separately.",
     },

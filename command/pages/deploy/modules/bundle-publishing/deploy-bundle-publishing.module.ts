@@ -71,10 +71,6 @@ export const deployBundlePublishing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run compiles nothing, packs nothing and pushes nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The image is built and pushed by the cluster's builder in one bounded step.",
     },
     {

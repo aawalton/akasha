@@ -182,20 +182,11 @@ async function publishedFrom(
 export async function publishedBundleFor(
   root: string,
   slug: string,
-  dryRun: boolean,
   codeAt: string,
   up: string[] = []
 ): Promise<Published | null> {
   const tagFile = tagFileFor(root, slug)
   if (tagFile === null) return null
-  if (dryRun) {
-    return {
-      lines: [
-        `${slug} serves an addon bundle named by ${tagFile}, and a dry run compiles, packs and pushes nothing`,
-      ],
-      refusals: [],
-    }
-  }
   const scratch = mkdtempSync(join(SCRATCH_ROOT, SCRATCH_PREFIX))
   try {
     return await publishedFrom(root, tagFile, scratch, codeAt, up)
