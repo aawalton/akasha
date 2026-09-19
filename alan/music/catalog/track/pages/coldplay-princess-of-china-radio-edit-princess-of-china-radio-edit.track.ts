@@ -1,0 +1,29 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const coldplayPrincessOfChinaRadioEditPrincessOfChinaRadioEdit = {
+  id: "01a0b9ee-f8cf-7874-bfc1-2b2416f613f1",
+  type: "page-type/track",
+  slug: "coldplay-princess-of-china-radio-edit-princess-of-china-radio-edit",
+  ownLength: 3.62625,
+  ownProgress: 0,
+  partOfCollections: ["release/coldplay-princess-of-china-radio-edit"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "19TPvVmCUHn71omJ16N9hK",
+      externalLink: "https://open.spotify.com/track/19TPvVmCUHn71omJ16N9hK",
+      lastSyncedAt: "2026-09-19",
+    },
+  ],
+  title: "Princess of China - Radio Edit",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [
+    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
+    { externalId: "5pKCCKE2ajJHZ9KAiaK11H", artistName: "Rihanna" },
+  ],
+  trackKey: "princessofchinaradioedit|4gzpq5DPGxSnKTe4SA8HAU,5pKCCKE2ajJHZ9KAiaK11H|217575",
+} as const satisfies Track

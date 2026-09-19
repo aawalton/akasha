@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const coldplayClocksClocks = {
+  id: "01a0b9ef-00ea-71a7-9d69-e4842a73b360",
+  type: "page-type/track",
+  slug: "coldplay-clocks-clocks",
+  ownLength: 5.131316666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/coldplay-clocks"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Ygs64z9ywJGakuKU8tr6o",
+      externalLink: "https://open.spotify.com/track/2Ygs64z9ywJGakuKU8tr6o",
+      lastSyncedAt: "2026-09-19",
+    },
+  ],
+  title: "Clocks",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackKey: "clocks|4gzpq5DPGxSnKTe4SA8HAU|307879",
+} as const satisfies Track

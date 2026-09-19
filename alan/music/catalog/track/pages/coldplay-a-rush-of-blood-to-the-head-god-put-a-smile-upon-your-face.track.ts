@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const coldplayARushOfBloodToTheHeadGodPutASmileUponYourFace = {
+  id: "01a0b9ee-e7d4-77be-9210-fc299a16fa97",
+  type: "page-type/track",
+  slug: "coldplay-a-rush-of-blood-to-the-head-god-put-a-smile-upon-your-face",
+  ownLength: 4.9551,
+  ownProgress: 0,
+  partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
+  position: 3,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4hf0hL4kWyjWztZzVsM39V",
+      externalLink: "https://open.spotify.com/track/4hf0hL4kWyjWztZzVsM39V",
+      lastSyncedAt: "2026-09-19",
+    },
+  ],
+  title: "God Put a Smile upon Your Face",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackKey: "godputasmileuponyourface|4gzpq5DPGxSnKTe4SA8HAU|297306",
+} as const satisfies Track

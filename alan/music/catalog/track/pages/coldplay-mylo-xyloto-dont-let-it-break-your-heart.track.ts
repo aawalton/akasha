@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const coldplayMyloXylotoDontLetItBreakYourHeart = {
+  id: "01a0b9ee-de05-7c9d-afb3-d589fc6f946f",
+  type: "page-type/track",
+  slug: "coldplay-mylo-xyloto-dont-let-it-break-your-heart",
+  ownLength: 3.9017666666666666,
+  ownProgress: 0,
+  partOfCollections: ["release/coldplay-mylo-xyloto"],
+  position: 13,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "69ho6gqRw1Rjy56tXlvnqk",
+      externalLink: "https://open.spotify.com/track/69ho6gqRw1Rjy56tXlvnqk",
+      lastSyncedAt: "2026-09-19",
+    },
+  ],
+  title: "Don't Let It Break Your Heart",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackKey: "dontletitbreakyourheart|4gzpq5DPGxSnKTe4SA8HAU|234106",
+} as const satisfies Track
