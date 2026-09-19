@@ -17,6 +17,10 @@ const NODE_MODULES = "node_modules"
 
 const AKASHA = "akasha"
 
+const BIN = ".bin"
+
+const HIDDEN = "."
+
 export function commitNamed(root: string, said: string): string {
   const done = ran(["git", "rev-parse", "--verify", "--quiet", `${said}^{commit}`], { cwd: root })
   const read = done.out.trim()
@@ -45,6 +49,7 @@ function linkPackages(root: string, tree: string): undefined {
   mkdirSync(at, { recursive: true })
   for (const one of readdirSync(from)) {
     if (one === AKASHA) continue
+    if (one.startsWith(HIDDEN) && one !== BIN) continue
     symlinkSync(join(from, one), join(at, one))
   }
   symlinkSync(tree, join(at, AKASHA))

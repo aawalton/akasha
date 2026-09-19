@@ -33,7 +33,8 @@ export const devServerTree = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The packages are the checkout's own, reached from the tree by one link each.",
+      statement:
+        "The packages are the checkout's own, reached from the tree by one link each, caches apart.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,6 +44,10 @@ export const devServerTree = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here makes a worktree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cache a package folder hides is left out, so each tree builds its own.",
     },
   ],
 } as const satisfies Module
