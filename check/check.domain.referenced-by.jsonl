@@ -1,11 +1,11 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/thea/thea.seat.ts","id":"01a0babc-4662-7000-af44-8768b5948f31"}
 {"propertySlug":"championed-domain","path":"persona/pages/thea/thea.persona.ts","id":"019f2889-d1d2-7216-97c6-02cad98484c6"}
 {"propertySlug":"import","fileName":"check.domain.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-check-killed-at-twice-its-ceiling-is-lost-from-every-round-that-follows.finding.ts","id":"01a0bb06-7d47-7aca-aabe-f24cf9c9c516"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-check-measures-with-the-harness-it-loaded-rather-than-the-one-it-judges.finding.ts","id":"01a0964c-71ea-70be-83a3-c708c48651ad"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-check-taken-out-of-service-reads-exactly-as-one-that-never-judged.finding.ts","id":"01a0962d-d2d6-7107-b6ae-72a8e370c896"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-check-that-could-not-run-is-counted-as-a-refusal-in-its-own-cost-log.finding.ts","id":"01a0961f-a1e6-7843-ba3c-d594d46c1668"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-checks-verdict-depends-on-which-uncommitted-files-sit-in-the-checkout.finding.ts","id":"01a0a1bc-b5b3-76ac-b49d-5936a90a563c"}
+{"propertySlug":"page-domain","path":"domain/finding/pages/a-heavy-round-kills-a-check-at-twice-its-ceiling-and-loses-its-judgement.finding.ts","id":"01a0bb07-5848-7151-8c81-b1d4e3f88add"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-killed-check-names-no-sender-so-its-own-ceiling-reads-as-the-memory-reaper.finding.ts","id":"01a0a192-0d73-7d93-a679-0497284e4ef5"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-landing-refuses-on-a-test-overlay-that-carried-none-of-the-changes-bodies.finding.ts","id":"01a09c03-d18f-777e-ab1d-a01f4a83c66d"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-lint-audit-falls-short-when-a-landing-moves-a-path-while-the-linter-walks.finding.ts","id":"01a095f1-b21b-7d0d-9178-763b3175d66b"}

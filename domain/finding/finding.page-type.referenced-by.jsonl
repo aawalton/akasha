@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-change-runs-only-the-tests-beside-the-files-it-carries-so-a-shared-fixture-goes-stale-unseen.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-change-to-a-generator-cannot-land-beside-the-file-that-generator-writes.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-check-fastened-to-a-commit-still-reads-six-index-no-commit-holds.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-check-killed-at-twice-its-ceiling-is-lost-from-every-round-that-follows.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-check-measures-with-the-harness-it-loaded-rather-than-the-one-it-judges.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-check-taken-out-of-service-reads-exactly-as-one-that-never-judged.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-check-that-could-not-run-is-counted-as-a-refusal-in-its-own-cost-log.finding.ts"}
@@ -40,6 +39,7 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-group-that-cannot-load-leaves-its-derived-file-stale-and-the-landing-commits.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-hand-edit-to-a-generated-file-is-kept-as-nothing-and-said-to-be-kept.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-handed-over-edit-is-folded-into-the-next-apply-rather-than-waiting-to-be-taken.finding.ts"}
+{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-heavy-round-kills-a-check-at-twice-its-ceiling-and-loses-its-judgement.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-hook-loads-against-the-checkout-a-landing-leaves-between-its-edits-and-its-moves.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-hook-test-spawning-the-hook-reads-the-body-on-disk-rather-than-the-change.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-kept-record-cannot-say-whether-its-work-is-still-wanted-and-only-a-take-ever-asks.finding.ts"}

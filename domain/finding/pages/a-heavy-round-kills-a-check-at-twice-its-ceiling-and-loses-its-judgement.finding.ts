@@ -1,9 +1,9 @@
 import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
-export const aCheckKilledAtTwiceItsCeilingIsLostFromEveryRoundThatFollows = {
-  id: "01a0bb06-7d47-7aca-aabe-f24cf9c9c516",
+export const aHeavyRoundKillsACheckAtTwiceItsCeilingAndLosesItsJudgement = {
+  id: "01a0bb07-5848-7151-8c81-b1d4e3f88add",
   type: "page-type/finding",
-  slug: "a-check-killed-at-twice-its-ceiling-is-lost-from-every-round-that-follows",
+  slug: "a-heavy-round-kills-a-check-at-twice-its-ceiling-and-loses-its-judgement",
   domain: "domain/check",
   claim:
     "A check the ceiling watchdog kills judges nothing, and an unrun verdict is not carried, so the next round runs that check again and a heavy enough round loses it again. folder-matches-a-shape was killed on node-06 at 735cca3b, 5ae05d38 and 31f75d4e, at 240.666, 240.578 and 240.889 processor seconds against the 120 its audit group states, which is the twice-the-ceiling `watching` kills on, and then finished at 1089c618 at 91.1. The hole is intermittent rather than permanent, and a loss nobody can predict is one nobody can act on. Nothing about the check changed: its readCalls moved 0.92 percent while its processor seconds went 28.9 to 81.6, because a round now runs its checks several at a time and charges every check a median of 1.65 times what it cost before. Of the 50 checks with rows enough to compare it is the only one past 2. The log calls the loss unmeasured, which reads as a condition of the machine, where the condition is a ceiling that stopped fitting.",
