@@ -17,7 +17,7 @@ import { temperInventorySnapshot as page } from "akasha/command/pages/temper/inv
 import {
   accountInventory,
   inventoryDatabase,
-} from "akasha/temper/command/modules/inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"
+} from "akasha/temper/command/modules/inventory-reading/inventory-reading.module.code.ts"
 
 const NAMED = [outputArgument, jsonOneLineArgument]
 

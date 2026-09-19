@@ -11,9 +11,9 @@
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-parity-routing/inventory-parity-routing.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.test.ts"}
+{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-reading/inventory-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-addon/modules/inventory-item-data/inventory-item-data.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-addon/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"}

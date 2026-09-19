@@ -6,13 +6,13 @@ import { answeredByPage } from "akasha/command/modules/page-answering/page-answe
 import { temperInventoryBuyRuleList as page } from "akasha/command/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.ts"
 import { emitJson } from "akasha/temper/command/modules/format-output/format-output.module.code.ts"
 import {
+  accountInventory,
+  inventoryDatabase,
+} from "akasha/temper/command/modules/inventory-reading/inventory-reading.module.code.ts"
+import {
   settingsOf,
   toldRows,
 } from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import {
-  accountInventory,
-  inventoryDatabase,
-} from "akasha/temper/command/modules/inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"
 import { computeItemStock } from "akasha/temper/items-core/modules/compute-item-stock/compute-item-stock.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { computeBuyShortfall } from "akasha/temper/items-rules-core/modules/buy-rule-eval/buy-rule-eval.module.code.ts"

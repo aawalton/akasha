@@ -33,7 +33,7 @@ export const temperCommand = {
     "module/inventory-rule-rows",
     "module/inventory-settings-access",
     "module/inventory-settings-handle",
-    "module/inventory-snapshot-reading",
+    "module/inventory-reading",
     "module/master-craft-trace-reading",
     "module/master-writ-probe-reading",
     "module/name-ordering",

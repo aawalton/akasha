@@ -3628,13 +3628,13 @@
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-parity-trace/inventory-parity-trace.module.ts","id":"01a068e2-226f-7a3c-b3d4-e252ba74470d"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.ts","id":"01a068f6-dee0-7713-8806-b95995b92fdc"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.ts","id":"01a068e2-2271-7832-853b-12f5d89083b0"}
+{"propertySlug":"decision-kind","path":"temper/command/modules/inventory-reading/inventory-reading.module.ts","id":"01a068e2-226c-7031-8b22-521c27850f03"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.ts","id":"01a09f6b-6ce3-7c23-8e9b-6f17d1c8fd44"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.ts","id":"01a068e2-2269-7419-86a9-56b04e4d4e87"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-rows/inventory-rule-rows.module.ts","id":"01a068f6-dedf-7995-b1bc-45a280695fe1"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.ts","id":"01a068e2-226b-7907-a0c2-a9e64c63d2ac"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.ts","id":"01a068f6-dedf-7107-8dc8-aa181b13b60d"}
-{"propertySlug":"decision-kind","path":"temper/command/modules/inventory-snapshot-reading/inventory-snapshot-reading.module.ts","id":"01a068e2-226c-7031-8b22-521c27850f03"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/master-craft-trace-reading/master-craft-trace-reading.module.ts","id":"01a06864-aa2b-7003-afed-089f9baeaad7"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/master-writ-probe-reading/master-writ-probe-reading.module.ts","id":"01a06864-aa2b-7004-b089-84cb8530cec4"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/name-ordering/name-ordering.module.ts","id":"01a07c93-d1ce-7d75-844c-a9a61f0601d8"}

@@ -2,5 +2,5 @@
 {"decisions":[{"decisionKind":"decision-kind/departure","statement":"An account holds one inventory, the one its last reading wrote."},{"decisionKind":"decision-kind/departure","statement":"The bytes are read from the data file beside the account's own page."},{"decisionKind":"decision-kind/departure","statement":"A reading nothing has answers as nothing rather than refusing."},{"decisionKind":"decision-kind/departure","statement":"A page type that goes unread is refused by name."}]}
 {"definition":"a reading of a player's inventory, found by its page and read from its data file"}
 {"id":"01a068e2-226c-7031-8b22-521c27850f03"}
-{"slug":"inventory-snapshot-reading"}
+{"slug":"inventory-reading"}
 {"type":"page-type/module"}
