@@ -81,6 +81,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-it-happened-quiet/aurora-it-happened-quiet.song.ts","id":"019ea4a5-d9a7-7099-82f9-f94ca1e3c293"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-kingdoms-of-ice/aurora-kingdoms-of-ice.song.ts","id":"019ea4a6-11bd-73e2-8d39-88c7cadecb17"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-learning-to-breathe/aurora-learning-to-breathe.song.ts","id":"019ea4a7-81e3-7a95-bdb5-4d3fc9ca9d8d"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-let-me-heal-you/aurora-let-me-heal-you.song.ts","id":"01a0ba99-6ef3-7025-89df-0842e9200743"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-little-boy-in-the-grass/aurora-little-boy-in-the-grass.song.ts","id":"019ea4a3-faa6-76c9-bbd3-dbeede219a50"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-losing-ice/aurora-losing-ice.song.ts","id":"019ea4a4-79d7-733b-8966-7a45ab199163"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-lucky/aurora-lucky.song.ts","id":"019ea4a3-1a69-7a6e-96ec-89b38689d246"}
@@ -112,6 +113,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-runaway-orchestral/aurora-runaway-orchestral.song.ts","id":"01a0b770-c2f3-7f53-b31b-05e168ccf46c"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-runaway/aurora-runaway.song.ts","id":"019ea4a2-ea0b-7a3e-9e49-d35a7e465b1e"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-running-with-the-wolves-wolfwalkers-edition/aurora-running-with-the-wolves-wolfwalkers-edition.song.ts","id":"01a0b770-c429-7de7-9613-c4f927fd4579"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-running-with-the-wolves-wolfwalkers-version/aurora-running-with-the-wolves-wolfwalkers-version.song.ts","id":"01a0ba99-7134-75f0-a1e6-9c18dfb907e7"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-running-with-the-wolves/aurora-running-with-the-wolves.song.ts","id":"019ea4a6-56e8-7944-8fb5-0015f43c3bd1"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-scars-of-the-earth/aurora-scars-of-the-earth.song.ts","id":"019ea4a6-ad63-74ea-ac9d-3b5353e59bd3"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-showdown-at-the-shore/aurora-showdown-at-the-shore.song.ts","id":"019ea4a4-1687-7e18-85b9-a6fd5a7128a3"}
@@ -143,6 +145,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-the-seed-intro/aurora-the-seed-intro.song.ts","id":"01a0b770-cfb7-75c3-ab6f-9394cd2d98d2"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-the-seed-outro/aurora-the-seed-outro.song.ts","id":"01a0b770-d0e5-7797-b908-5567deeb23a7"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-the-seed/aurora-the-seed.song.ts","id":"019ea4a4-7255-734d-aef6-52b129ac0d11"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-the-silent-twins/aurora-the-silent-twins.song.ts","id":"01a0ba99-731f-7b07-82c4-1ae6f563e280"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-the-thing/aurora-the-thing.song.ts","id":"019ea4a5-4912-7f87-ab0f-09fbe4e672d5"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-the-universe-sent-me/aurora-the-universe-sent-me.song.ts","id":"019ea4a3-d6d2-7f01-8f9e-92f480694e3d"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-the-weight-of-missing/aurora-the-weight-of-missing.song.ts","id":"01a0b770-f3ed-7cba-afde-31c5a3102da7"}
@@ -170,6 +173,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-wolves/aurora-wolves.song.ts","id":"01a0b771-0921-71d2-a130-a8ce4afc7f37"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-wrangel-island/aurora-wrangel-island.song.ts","id":"019ea4a7-ea60-743b-b52a-2c90667ee78f"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-you-cant-run-from-yourself-from-kaiju-no-8/aurora-you-cant-run-from-yourself-from-kaiju-no-8.song.ts","id":"01a0b771-0be0-792f-b757-3a1d6fae84d4"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-you-cant-run-from-yourself/aurora-you-cant-run-from-yourself.song.ts","id":"01a0ba99-76af-75e7-bf21-d0dcae391a2c"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-you-keep-me-crawling/aurora-you-keep-me-crawling.song.ts","id":"019ea4a7-cc72-7343-83e5-58363f2bd12d"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/aurora-your-blood/aurora-your-blood.song.ts","id":"01a0b770-db37-7078-90a7-68d5244bf9f8"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/aurora-a-different-kind-of-human-step-ii/aurora-a-different-kind-of-human-step-ii.release.ts","id":"01a0676a-d715-7022-86c2-8b774e42d321"}

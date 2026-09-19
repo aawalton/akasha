@@ -1,6 +1,12 @@
 {"artist":"artist/aurora"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"aa513b80-36e3-497d-a7d2-9386dbf82367","externalLink":"https://musicbrainz.org/work/aa513b80-36e3-497d-a7d2-9386dbf82367","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b770-3331-71c7-b240-239f909eafee"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"aurora-all-my-demons-greeting-me-as-a-friend"}
-{"title":"All My Demons Greeting Me As A Friend"}
+{"songType":"original"}
+{"syncedLyrics":"txt"}
+{"title":"All My Demons Greeting Me as a Friend"}
 {"type":"page-type/song"}
+{"written":"collab"}

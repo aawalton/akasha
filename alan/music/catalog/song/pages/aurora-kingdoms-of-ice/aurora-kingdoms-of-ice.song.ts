@@ -4,16 +4,15 @@ export const auroraKingdomsOfIce = {
   id: "019ea4a6-11bd-73e2-8d39-88c7cadecb17",
   type: "page-type/song",
   slug: "aurora-kingdoms-of-ice",
-  title: "Kingdoms of Ice",
-  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",
       externalId: "80ac1fa8-a5ae-4ca3-b0b6-636ab4137e5c",
       externalLink: "https://musicbrainz.org/work/80ac1fa8-a5ae-4ca3-b0b6-636ab4137e5c",
-      lastSyncedAt: "2026-06-08",
+      lastSyncedAt: "2026-09-19",
     },
   ],
-  songType: "derivative",
+  title: "Kingdoms of Ice",
+  artist: "artist/aurora",
   performed: true,
 } as const satisfies Song

@@ -4,16 +4,15 @@ export const auroraAuroraBorealisI = {
   id: "019ea4a5-075c-7123-8fd2-bafb7277b153",
   type: "page-type/song",
   slug: "aurora-aurora-borealis-i",
-  title: "Aurora Borealis I",
-  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",
       externalId: "5272de4d-72af-4d1a-b7d1-1b52e7c99184",
       externalLink: "https://musicbrainz.org/work/5272de4d-72af-4d1a-b7d1-1b52e7c99184",
-      lastSyncedAt: "2026-06-08",
+      lastSyncedAt: "2026-09-19",
     },
   ],
-  songType: "derivative",
+  title: "Aurora Borealis I",
+  artist: "artist/aurora",
   performed: true,
 } as const satisfies Song

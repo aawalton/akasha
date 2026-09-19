@@ -1,11 +1,10 @@
 {"artist":"artist/aurora"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"2e99ea26-6e86-3c23-879b-ecf44ab840fd","externalLink":"https://musicbrainz.org/work/2e99ea26-6e86-3c23-879b-ecf44ab840fd","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"2e99ea26-6e86-3c23-879b-ecf44ab840fd","externalLink":"https://musicbrainz.org/work/2e99ea26-6e86-3c23-879b-ecf44ab840fd","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4a3-f286-7499-a73e-4262a60fcab4"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"aurora-nature-boy"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Nature Boy"}
 {"type":"page-type/song"}

@@ -1,11 +1,10 @@
 {"artist":"artist/aurora"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"4aefb4ed-8e57-42a3-ae70-819983a6b268","externalLink":"https://musicbrainz.org/work/4aefb4ed-8e57-42a3-ae70-819983a6b268","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"4aefb4ed-8e57-42a3-ae70-819983a6b268","externalLink":"https://musicbrainz.org/work/4aefb4ed-8e57-42a3-ae70-819983a6b268","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4a4-c7de-739b-b03a-7c57a9a35bcd"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"aurora-into-the-unknown"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Into the Unknown"}
 {"type":"page-type/song"}

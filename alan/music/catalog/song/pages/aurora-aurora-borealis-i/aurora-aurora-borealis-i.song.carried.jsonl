@@ -1,8 +1,7 @@
 {"artist":"artist/aurora"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"5272de4d-72af-4d1a-b7d1-1b52e7c99184","externalLink":"https://musicbrainz.org/work/5272de4d-72af-4d1a-b7d1-1b52e7c99184","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"5272de4d-72af-4d1a-b7d1-1b52e7c99184","externalLink":"https://musicbrainz.org/work/5272de4d-72af-4d1a-b7d1-1b52e7c99184","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4a5-075c-7123-8fd2-bafb7277b153"}
 {"performed":true}
 {"slug":"aurora-aurora-borealis-i"}
-{"songType":"derivative"}
 {"title":"Aurora Borealis I"}
 {"type":"page-type/song"}

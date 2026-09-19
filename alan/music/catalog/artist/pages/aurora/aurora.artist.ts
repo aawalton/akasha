@@ -17,7 +17,7 @@ export const aurora = {
       source: "musicbrainz",
       externalId: "484a4e90-6899-4e4b-a948-a2255d365340",
       externalLink: "https://musicbrainz.org/artist/484a4e90-6899-4e4b-a948-a2255d365340",
-      lastSyncedAt: "2026-06-08",
+      lastSyncedAt: "2026-09-19",
     },
     {
       source: "spotify",
@@ -31,11 +31,11 @@ export const aurora = {
     "indie pop",
     "art pop",
     "dream pop",
-    "chamber pop",
     "folktronica",
+    "chamber pop",
     "pop",
     "synth-pop",
-    "afro house",
+    "alternative dance",
   ],
   reaction: "txt",
 } as const satisfies Artist

@@ -4,16 +4,15 @@ export const auroraTheFrozenPlanet = {
   id: "019ea4a4-84c6-72d8-abe8-4e436d4f77c9",
   type: "page-type/song",
   slug: "aurora-the-frozen-planet",
-  title: "The Frozen Planet",
-  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",
       externalId: "47d394c7-a959-4709-8747-14587247770b",
       externalLink: "https://musicbrainz.org/work/47d394c7-a959-4709-8747-14587247770b",
-      lastSyncedAt: "2026-06-08",
+      lastSyncedAt: "2026-09-19",
     },
   ],
-  songType: "derivative",
+  title: "The Frozen Planet",
+  artist: "artist/aurora",
   performed: true,
 } as const satisfies Song
