@@ -4,6 +4,7 @@ import type {
   ScopedBy,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { under } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
+import { bucketOf } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
   slugAt,
   textAt,
@@ -22,6 +23,13 @@ export type Filed = {
 
 export function keyFor(one: Filed): string {
   return join(one.uniqueKind, one.scope, one.propertySlug, one.said)
+}
+
+function keysFor(one: Filed): readonly string[] {
+  const bucket = bucketOf(one.said)
+  const flat = keyFor(one)
+  if (bucket === null) return [flat]
+  return [join(one.uniqueKind, one.scope, one.propertySlug, bucket, one.said), flat]
 }
 
 export type Stated = {
@@ -70,5 +78,5 @@ export function lineFor(value: Value, path: string, repo: string): string | null
 }
 
 export function entriesFor(filed: readonly Filed[], line: string): readonly Entry[] {
-  return filed.map((one) => ({ at: `${keyFor(one)}${ENDING}`, line }))
+  return filed.flatMap((one) => keysFor(one).map((at) => ({ at: `${at}${ENDING}`, line })))
 }

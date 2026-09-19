@@ -1,6 +1,7 @@
 import { join } from "node:path"
 import type { Reading, Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
+  bucketOf,
   INDEX_AT,
   indexIn,
   readingAt,
@@ -30,6 +31,8 @@ const PAGE = "page"
 const PAGE_TYPE = "page-type"
 
 const ID = "id"
+
+const NO_SCOPE = ""
 
 const HELD_TS = "ts"
 
@@ -125,7 +128,14 @@ export function listedNamed(
   propertySlug: string,
   said: string
 ): readonly Listed[] {
-  return listedIn(readingIn(given), join(uniqueKind, scope, propertySlug, `${said}${ENDING}`))
+  const reading = readingIn(given)
+  const name = `${said}${ENDING}`
+  const bucket = bucketOf(said)
+  if (bucket !== null) {
+    const found = listedIn(reading, join(uniqueKind, scope, propertySlug, bucket, name))
+    if (found.length > 0) return found
+  }
+  return listedIn(reading, join(uniqueKind, scope, propertySlug, name))
 }
 
 export function listedAt(
@@ -149,7 +159,7 @@ export function listedWithin(
 }
 
 export function listedById(given: string | Reading, id: string): Listed | null {
-  return listedIn(readingIn(given), join(PAGE, ID, `${id}${ENDING}`))[0] ?? null
+  return listedNamed(given, PAGE, NO_SCOPE, ID, id)[0] ?? null
 }
 
 export function listedEvery(given: string | Reading, address: PageAddress): readonly Listed[] {

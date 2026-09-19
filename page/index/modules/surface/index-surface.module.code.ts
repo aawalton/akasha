@@ -6,6 +6,7 @@ import type {
   Filing,
   Reading,
 } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 const ROOT = ""
 
@@ -29,6 +30,12 @@ export function underIndex(path: string): boolean {
 
 export function indexAt(indexName: string, ...parts: readonly string[]): string {
   return join(INDEX_AT, indexName, ...parts)
+}
+
+const BUCKET_WIDTH = 2
+
+export function bucketOf(said: string): string | null {
+  return lowerUuid(said) ? said.slice(-BUCKET_WIDTH) : null
 }
 
 const HELD_AT_MOST = 64_000_000
