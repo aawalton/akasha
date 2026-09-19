@@ -31,6 +31,7 @@ export const ainePatreon = {
       statement:
         "A command completes a feature request and burns its contribution points, or denies it and refunds.",
     },
+    { statement: "A completed feature request names the contributors whose points it burned." },
   ],
   constraints: [
     "Each product carries a brand of its own and calls for backing on the one shared Patreon.",
