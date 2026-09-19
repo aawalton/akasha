@@ -1,6 +1,7 @@
 import type { Landed } from "akasha/alan/track/daily/modules/day-narrow-types/day-narrow-types.module.code.ts"
 import { AKASHA_DAY_PAGE_TYPE } from "akasha/alan/track/daily/modules/track-shape/track-shape.module.code.ts"
 import { landTracking } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
+import { PUT_BACK } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
@@ -53,7 +54,27 @@ export async function written(puts: readonly Put[], message: string): Promise<La
   return { ok: true, at: puts[0]?.path ?? "" }
 }
 
-export async function landAkashaDayPage(
+export const TRIES = 4
+
+const PAUSE_MS = 400
+
+export function movedUnder(landed: Landed): boolean {
+  return !landed.ok && landed.why.includes(PUT_BACK)
+}
+
+export async function landingRetried(
+  land: () => Promise<Landed>,
+  pause: (ms: number) => Promise<void> = (ms) => Bun.sleep(ms)
+): Promise<Landed> {
+  let last = await land()
+  for (let left = TRIES - 1; left > 0 && movedUnder(last); left -= 1) {
+    await pause(PAUSE_MS)
+    last = await land()
+  }
+  return last
+}
+
+async function landDayPageOnce(
   act: "write" | "patch",
   slug: string,
   values: Values,
@@ -77,4 +98,13 @@ export async function landAkashaDayPage(
     return { ok: false, why }
   }
   return written([composed.put], `${writer}: the day ${slug}`)
+}
+
+export function landAkashaDayPage(
+  act: "write" | "patch",
+  slug: string,
+  values: Values,
+  writer: string
+): Promise<Landed> {
+  return landingRetried(() => landDayPageOnce(act, slug, values, writer))
 }

@@ -36,5 +36,21 @@ export const akashaDay = {
       decisionKind: "decision-kind/absence",
       statement: "No row beside a day page is landed here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Another writer moving the day page between the read and the write is expected.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A landing refused for that reason is composed again over the body as it now is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A landing is tried four times before it is answered as refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A landing refused for any other reason is answered without being tried again.",
+    },
   ],
 } as const satisfies Module

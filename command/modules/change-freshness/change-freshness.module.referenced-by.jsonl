@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"agent/subagent/modules/landing-again/subagent-landing-again.module.code.ts"}
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"agent/subagent/modules/landing-again/subagent-landing-again.module.test.ts"}
+{"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"}
+{"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"alan/track/daily/modules/akasha-day/akasha-day.module.test.ts"}
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.test.ts"}
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.test.ts"}
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"code/editor/extension/modules/work-tree-dragging/work-tree-dragging.module.test.ts"}
