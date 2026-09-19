@@ -4350,6 +4350,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-addon/modules/inventory-writ-toggles/inventory-writ-toggles.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-core/modules/assemble-inventory/assemble-inventory.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-core/modules/backpack-settings-types/backpack-settings-types.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-core/modules/capture-instant/capture-instant.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-core/modules/classify-item-node-ids/classify-item-node-ids.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-core/modules/classify-item/classify-item.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.ts"}

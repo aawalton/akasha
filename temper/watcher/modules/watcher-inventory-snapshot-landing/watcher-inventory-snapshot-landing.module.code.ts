@@ -8,6 +8,7 @@ import {
   readPages,
   writeFiles,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
+import { instantOf } from "akasha/temper/items-core/modules/capture-instant/capture-instant.module.code.ts"
 import { currencies } from "akasha/temper/items-core/modules/inventory-currency-data/inventory-currency-data.module.code.ts"
 import type {
   CurrencyBalances,
@@ -62,8 +63,6 @@ const CURRENCY_ADDRESSES: ReadonlyMap<string, string> = new Map(
   ])
 )
 
-const MS_PER_SECOND = 1000
-
 const ROW_PROPERTIES = [
   LOCATIONS_PROPERTY,
   BAG_SIZES_PROPERTY,
@@ -87,10 +86,6 @@ export interface InventoryLandingDeps {
   readonly writeFiles?: WriteFiles
   readonly upsert?: InventoryPageUpsert
   readonly waiting?: Waiting
-}
-
-function instantOf(seconds: number): string {
-  return new Date(seconds * MS_PER_SECOND).toISOString()
 }
 
 function locationIdsIn(values: InventoryValues): readonly string[] {
@@ -343,7 +338,7 @@ export function inventoryPageKeys(values: InventoryValues): Record<string, Json>
     data: DATA_ENDING,
   }
   if (meta.lastFullScan > 0) {
-    keys.lastFullScanAt = new Date(meta.lastFullScan * MS_PER_SECOND).toISOString()
+    keys.lastFullScanAt = instantOf(meta.lastFullScan)
   }
   if (meta.priceSource !== undefined) keys.priceSource = meta.priceSource
   if (transmuteCrystalAmount !== undefined) keys.transmuteCrystalAmount = transmuteCrystalAmount

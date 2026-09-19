@@ -3,28 +3,37 @@ import { OK } from "akasha/command/modules/answering/command-answering.module.co
 import {
   agreementSaid,
   answerFor,
+  type Coverage,
   coverageSaid,
   type RecordParityJson,
-  resolvedAtSaid,
   rowsFrom,
   rowsSaid,
   type StackReading,
   uncoveredSaid,
+  undatedSaid,
 } from "akasha/command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts"
 import type { Verdict } from "akasha/temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"
+import { instantOf } from "akasha/temper/items-core/modules/capture-instant/capture-instant.module.code.ts"
 
 const LOCKPICK = 30357
+
+const RESOLVED_AT = 1789786678
 
 const STOCKED: Verdict = { action: "stock", destination: null, by: "ordered-rule", ruleIndex: 3 }
 
 const SOLD: Verdict = { action: "sell", destination: null, by: "ordered-rule", ruleIndex: 3 }
 
-const DISAGREEING: RecordParityJson = {
+const COUNTED: Coverage = {
   items: 412,
   stacks: 1979,
   recordedStacks: 1205,
   itemsCompared: 300,
   itemsUncovered: 112,
+  itemsUndated: 0,
+}
+
+const DISAGREEING: RecordParityJson = {
+  ...COUNTED,
   inventoryPath: "/held/TemperInventory.lua",
   rules: 90,
   agreed: 299,
@@ -37,6 +46,7 @@ const DISAGREEING: RecordParityJson = {
       recorded: STOCKED,
       fresh: SOLD,
       differing: ["action"],
+      resolvedAt: RESOLVED_AT,
     },
   ],
 }
@@ -44,7 +54,13 @@ const DISAGREEING: RecordParityJson = {
 const AGREEING: RecordParityJson = { ...DISAGREEING, agreed: 300, disagreed: 0, rows: [] }
 
 function reading(recorded: Verdict, freshVerdict: Verdict): StackReading {
-  return { itemId: LOCKPICK, itemName: "Lockpick", recorded, fresh: freshVerdict }
+  return {
+    itemId: LOCKPICK,
+    itemName: "Lockpick",
+    recorded,
+    fresh: freshVerdict,
+    resolvedAt: RESOLVED_AT,
+  }
 }
 
 test("stacks of one item disagreeing the same way are gathered into one row", () => {
@@ -65,22 +81,28 @@ test("an item the record and the fresh reading agree on raises no row", () => {
 
 test("a row carries the newest resolving time of the stacks gathered into it", () => {
   const older = { ...reading(STOCKED, SOLD), resolvedAt: 1789500924 }
-  const newer = { ...reading(STOCKED, SOLD), resolvedAt: 1789786678 }
+  const newer = { ...reading(STOCKED, SOLD), resolvedAt: RESOLVED_AT }
   const rows = rowsFrom([older, newer])
   expect(rows).toHaveLength(1)
-  expect(rows[0]?.resolvedAt).toBe(1789786678)
-  expect(rowsSaid(rows, 1).join("\n")).toContain(`(resolved ${resolvedAtSaid(1789786678)})`)
+  expect(rows[0]?.resolvedAt).toBe(RESOLVED_AT)
+  expect(rowsSaid(rows, 1).join("\n")).toContain(`(resolved ${instantOf(RESOLVED_AT)})`)
 })
 
 test("a resolving time is said as the instant the rules reached that verdict", () => {
-  expect(resolvedAtSaid(1789786678)).toBe("2026-09-19T02:57:58.000Z")
+  expect(rowsSaid(rowsFrom([reading(STOCKED, SOLD)]), 1).join("\n")).toContain(
+    "(resolved 2026-09-19T02:57:58.000Z)"
+  )
 })
 
-test("a record whose resolving time the capture never held says so rather than reading as now", () => {
-  const rows = rowsFrom([reading(STOCKED, SOLD)])
-  expect(rows[0]?.resolvedAt).toBeUndefined()
-  expect(resolvedAtSaid(undefined)).toBe("when is not recorded")
-  expect(rowsSaid(rows, 1).join("\n")).toContain("(resolved when is not recorded)")
+test("an item whose record no run dated is counted apart rather than as a disagreement", () => {
+  const said = undatedSaid({ ...COUNTED, itemsUndated: 18 }).join("\n")
+  expect(said).toContain("UNDATED")
+  expect(said).toContain("18 items carry a record no run dated")
+  expect(rowsSaid([], COUNTED.itemsCompared).join("\n")).not.toContain("18 items")
+})
+
+test("a capture every record of which is dated says so rather than answering empty", () => {
+  expect(undatedSaid(COUNTED).join("\n")).toContain("(none)")
 })
 
 test("a run finding nothing says the two agree rather than answering empty", () => {
@@ -97,27 +119,14 @@ test("a run over a capture carrying no record says so rather than saying the two
 })
 
 test("an item carrying no record is counted apart rather than as a disagreement", () => {
-  const counted = {
-    items: 412,
-    stacks: 1979,
-    recordedStacks: 1205,
-    itemsCompared: 300,
-    itemsUncovered: 112,
-  }
-  const said = uncoveredSaid(counted).join("\n")
+  const said = uncoveredSaid(COUNTED).join("\n")
   expect(said).toContain("OUT OF COVERAGE")
   expect(said).toContain("112 items carry no record")
-  expect(rowsSaid([], counted.itemsCompared).join("\n")).not.toContain("112")
+  expect(rowsSaid([], COUNTED.itemsCompared).join("\n")).not.toContain("112")
 })
 
 test("how much is covered is counted from the records present", () => {
-  const said = coverageSaid({
-    items: 412,
-    stacks: 1979,
-    recordedStacks: 1205,
-    itemsCompared: 300,
-    itemsUncovered: 112,
-  }).join("\n")
+  const said = coverageSaid(COUNTED).join("\n")
   expect(said).toContain("1205 of 1979 stacks")
   expect(said).toContain("60.9%")
   expect(said).toContain("300 of 412 items")

@@ -31,6 +31,7 @@ import {
   verdictSaid,
 } from "akasha/temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { instantOf } from "akasha/temper/items-core/modules/capture-instant/capture-instant.module.code.ts"
 
 const NAMED = [jsonArgument, inventoryPathArgument, charactersPathArgument]
 
@@ -40,6 +41,8 @@ const CHARACTERS_LUA = "TemperCharacters.lua"
 
 const OUT_OF_COVERAGE = "OUT OF COVERAGE"
 
+const UNDATED = "UNDATED"
+
 const DISAGREEMENT = "DISAGREEMENT"
 
 export interface StackReading {
@@ -47,7 +50,7 @@ export interface StackReading {
   readonly itemName: string
   readonly recorded: Verdict
   readonly fresh: Verdict
-  readonly resolvedAt?: number
+  readonly resolvedAt: number
 }
 
 export interface RecordParityRow {
@@ -57,22 +60,7 @@ export interface RecordParityRow {
   readonly recorded: Verdict
   readonly fresh: Verdict
   readonly differing: readonly string[]
-  readonly resolvedAt?: number
-}
-
-const MS_PER_SECOND = 1000
-
-const WHEN_UNRECORDED = "when is not recorded"
-
-export function resolvedAtSaid(seconds: number | undefined): string {
-  if (seconds === undefined) return WHEN_UNRECORDED
-  return new Date(seconds * MS_PER_SECOND).toISOString()
-}
-
-function newerOf(one: number | undefined, two: number | undefined): number | undefined {
-  if (one === undefined) return two
-  if (two === undefined) return one
-  return one > two ? one : two
+  readonly resolvedAt: number
 }
 
 export function rowsFrom(readings: readonly StackReading[]): readonly RecordParityRow[] {
@@ -90,15 +78,14 @@ export function rowsFrom(readings: readonly StackReading[]): readonly RecordPari
         recorded: one.recorded,
         fresh: one.fresh,
         differing,
-        ...(one.resolvedAt === undefined ? {} : { resolvedAt: one.resolvedAt }),
+        resolvedAt: one.resolvedAt,
       })
       continue
     }
-    const resolvedAt = newerOf(held.resolvedAt, one.resolvedAt)
     byPair.set(key, {
       ...held,
       stacks: held.stacks + 1,
-      ...(resolvedAt === undefined ? {} : { resolvedAt }),
+      resolvedAt: Math.max(held.resolvedAt, one.resolvedAt),
     })
   }
   return [...byPair.values()].sort((one, two) =>
@@ -112,6 +99,7 @@ export interface Coverage {
   readonly recordedStacks: number
   readonly itemsCompared: number
   readonly itemsUncovered: number
+  readonly itemsUndated: number
 }
 
 function shareSaid(part: number, whole: number): string {
@@ -138,6 +126,17 @@ export function uncoveredSaid(counted: Coverage): readonly string[] {
   ]
 }
 
+export function undatedSaid(counted: Coverage): readonly string[] {
+  if (counted.itemsUndated === 0) {
+    return [UNDATED, "  (none) every record says when the rules reached it"]
+  }
+  return [
+    UNDATED,
+    `  ${String(counted.itemsUndated)} items carry a record no run dated, and no row below ` +
+      "counts one of them",
+  ]
+}
+
 export function agreementSaid(items: number): string {
   if (items === 0) return "no item held carries a record, so nothing here was ruled on at all"
   return (
@@ -157,7 +156,7 @@ export function rowsSaid(
       const stacks = one.stacks === 1 ? "1 stack" : `${String(one.stacks)} stacks`
       return (
         `  ${one.itemName} (${String(one.itemId)}) over ${stacks}   ${one.differing.join(", ")}\n` +
-        `    recorded  ${verdictSaid(one.recorded)}  (resolved ${resolvedAtSaid(one.resolvedAt)})\n` +
+        `    recorded  ${verdictSaid(one.recorded)}  (resolved ${instantOf(one.resolvedAt)})\n` +
         `    fresh     ${verdictSaid(one.fresh)}`
       )
     }),
@@ -191,6 +190,8 @@ export function answerFor(out: RecordParityJson, asOneJsonLine: boolean): Answer
       ...coverageSaid(out),
       "",
       ...uncoveredSaid(out),
+      "",
+      ...undatedSaid(out),
       "",
       ...rowsSaid(out.rows, out.itemsCompared),
     ],
@@ -256,6 +257,7 @@ export async function temperInventoryRecordParity(
 
     const readings: StackReading[] = []
     const itemIds = new Set<number>()
+    const recordedItemIds = new Set<number>()
     const comparedItemIds = new Set<number>()
     let recordedStacks = 0
     for (const one of held) {
@@ -263,24 +265,29 @@ export async function temperInventoryRecordParity(
       const recorded = verdictRecordedOn(one.item)
       if (recorded === undefined) continue
       recordedStacks++
+      recordedItemIds.add(one.item.itemId)
+      const resolvedAt = one.item.resolvedAt
+      if (resolvedAt === undefined) continue
       comparedItemIds.add(one.item.itemId)
       readings.push({
         itemId: one.item.itemId,
         itemName: one.item.itemName,
         recorded,
         fresh: freshVerdictFor(one.item, factsOf(one), inputs),
-        ...(one.item.resolvedAt === undefined ? {} : { resolvedAt: one.item.resolvedAt }),
+        resolvedAt,
       })
     }
 
     const rows = rowsFrom(readings)
     const disagreed = new Set(rows.map((one) => one.itemId)).size
+    const undated = [...recordedItemIds].filter((one) => !comparedItemIds.has(one)).length
     const counted: Coverage = {
       items: itemIds.size,
       stacks: held.length,
       recordedStacks,
       itemsCompared: comparedItemIds.size,
-      itemsUncovered: itemIds.size - comparedItemIds.size,
+      itemsUncovered: itemIds.size - recordedItemIds.size,
+      itemsUndated: undated,
     }
     const out: RecordParityJson = {
       ...counted,

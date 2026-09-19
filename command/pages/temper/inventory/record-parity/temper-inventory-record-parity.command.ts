@@ -69,8 +69,7 @@ export const temperInventoryRecordParity = {
     },
     {
       decisionKind: "decision-kind/stopgap",
-      statement:
-        "A record written before the addon stamped its verdicts says when is not recorded.",
+      statement: "A record no run dated is counted apart, and no fresh reading is held against it.",
     },
   ],
   name: "record-parity",

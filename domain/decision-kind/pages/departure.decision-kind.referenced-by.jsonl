@@ -3997,6 +3997,7 @@
 {"propertySlug":"decision-kind","path":"temper/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.ts","id":"01a06258-b533-78d1-9e55-12407ea45377"}
 {"propertySlug":"decision-kind","path":"temper/items-addon/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.ts","id":"01a06258-b534-70ec-b172-fd006cbff261"}
 {"propertySlug":"decision-kind","path":"temper/items-addon/temper-items-addon.eso-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
+{"propertySlug":"decision-kind","path":"temper/items-core/modules/capture-instant/capture-instant.module.ts","id":"01a0ba6c-9beb-78b6-ae42-ea76022acdac"}
 {"propertySlug":"decision-kind","path":"temper/items-core/modules/compute-item-stock/compute-item-stock.module.ts","id":"01a0626e-3e05-7d4e-803d-d88f172652ca"}
 {"propertySlug":"decision-kind","path":"temper/items-core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.ts","id":"01a060d9-498b-7d49-9f36-43409f335af9"}
 {"propertySlug":"decision-kind","path":"temper/items-core/modules/eso-player-equipment-constants-data/eso-player-equipment-constants-data.module.ts","id":"01a060d9-498b-744f-8dc9-b2222b4f4b29"}

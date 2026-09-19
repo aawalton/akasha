@@ -62,6 +62,7 @@ export const temperItemsCore = {
     "module/script-knowledge-lookup",
     "module/set-category-mappings",
     "module/shard-inventory",
+    "module/capture-instant",
   ],
   decisions: [
     {
