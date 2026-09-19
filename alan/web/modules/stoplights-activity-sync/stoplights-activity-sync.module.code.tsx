@@ -52,26 +52,25 @@ export function StoplightsActivitySync() {
     if (!isNativeShell()) return
     if (userID == null) return
     const plugin = getStoplightsActivity()
-    if (plugin == null) return
 
     let cancelled = false
     let handle: PluginListenerHandle | null = null
     let carrying: PluginListenerHandle | null = null
 
     const carry = async (): Promise<void> => {
+      if (plugin == null) {
+        throw new Error("the native shell carries no stoplights activity plugin")
+      }
       const content = await contentRead(new Date().toISOString())
       if (cancelled) return
       if (content === null) {
         throw new Error("the stoplight feeds gave no reading, so no activity could start")
       }
-      try {
-        await plugin.start({ content: JSON.stringify(content) })
-      } catch (error: unknown) {
-        console.error("[stoplights-activity] would not take the reading", error)
-      }
+      await plugin.start({ content: JSON.stringify(content) })
     }
 
     void (async () => {
+      if (plugin == null) return
       const opened = await plugin.addListener("token", (event) => {
         void postDeviceToken(event.value, "liveactivity")
       })

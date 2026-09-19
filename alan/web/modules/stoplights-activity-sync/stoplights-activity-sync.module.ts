@@ -21,6 +21,14 @@ export const stoplightsActivitySync = {
       statement: "A reading that never came is thrown rather than passed over in silence.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "An activity that would not start is thrown, carrying the words it refused with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A native shell holding no plugin for the activity is thrown as well.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "A throw here is caught where every other client fault is, and reported.",
     },
