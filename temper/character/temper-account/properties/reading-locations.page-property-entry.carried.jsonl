@@ -3,6 +3,6 @@
 {"id":"01a0675a-f185-70ca-b3c9-47a893495e70"}
 {"properties":[{"pageProperty":"text-property/location-id","required":true,"many":false},{"pageProperty":"text-property/eso-display-name","required":true,"many":false},{"pageProperty":"instant-property/last-scanned-at","required":true,"many":false}]}
 {"propertySlug":"locations"}
-{"slug":"snapshot-locations"}
+{"slug":"reading-locations"}
 {"type":"page-type/page-property-entry"}
 {"types":"ts"}

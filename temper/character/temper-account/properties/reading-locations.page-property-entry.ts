@@ -1,9 +1,9 @@
 import type { PagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.types.ts"
 
-export const snapshotLocations = {
+export const readingLocations = {
   id: "01a0675a-f185-70ca-b3c9-47a893495e70",
   type: "page-type/page-property-entry",
-  slug: "snapshot-locations",
+  slug: "reading-locations",
   propertySlug: "locations",
   definition: "what each bag holder was named and when it was last read, one holder to a line",
   properties: [

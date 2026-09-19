@@ -7,7 +7,7 @@ import type { EsoDisplayName } from "akasha/temper/character/temper-account/prop
 import type { LastFullScanAt } from "akasha/temper/character/temper-account/properties/last-full-scan-at.instant-property.types.ts"
 import type { PlacedFurnishings } from "akasha/temper/character/temper-account/properties/placed-furnishings.page-property-entry.types.ts"
 import type { PriceSource } from "akasha/temper/character/temper-account/properties/price-source.text-property.types.ts"
-import type { SnapshotLocations } from "akasha/temper/character/temper-account/properties/snapshot-locations.page-property-entry.types.ts"
+import type { ReadingLocations } from "akasha/temper/character/temper-account/properties/reading-locations.page-property-entry.types.ts"
 import type { Stacks } from "akasha/temper/character/temper-account/properties/stacks.page-property-entry.types.ts"
 import type { TransmuteCrystalAmount } from "akasha/temper/character/temper-account/properties/transmute-crystal-amount.number-property.types.ts"
 import type { TransmuteCrystalCap } from "akasha/temper/character/temper-account/properties/transmute-crystal-cap.number-property.types.ts"
@@ -19,7 +19,7 @@ export type TemperAccount = TemperCharacterThing & {
   displayName?: EsoDisplayName
   worldName?: WorldName
   stacks?: Stacks
-  locations?: SnapshotLocations
+  locations?: ReadingLocations
   bagSizes?: BagSizes
   currencies?: Currencies
   craftingLevels?: CraftingLevels

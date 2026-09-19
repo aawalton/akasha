@@ -43,7 +43,7 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/character/temper-account/properties/crafting-levels.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/character/temper-account/properties/currencies.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/character/temper-account/properties/placed-furnishings.page-property-entry.ts"}
-{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/character/temper-account/properties/snapshot-locations.page-property-entry.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/character/temper-account/properties/reading-locations.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/character/temper-account/properties/stacks.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/character/temper-mine/properties/items.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/character/temper-mine/properties/quests.page-property-entry.ts"}
