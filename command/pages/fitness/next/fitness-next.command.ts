@@ -7,7 +7,7 @@ export const fitnessNext = {
   definition: "the movement to do next, with the load to take and what to beat",
   code: "ts",
   test: "ts",
-  parts: ["module/kit-loading"],
+  parts: ["module/kit-loading", "module/warming"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -142,7 +142,7 @@ export const fitnessNext = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A movement Alan has not performed today is offered with a warmup before its working set.",
+        "A warmup raises the temperature, mobilises the muscles, then ramps the movement itself.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -160,11 +160,15 @@ export const fitnessNext = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Any set Alan logged today is having performed that movement, warmup or working set.",
+        "Whether Alan is warm is read from the minutes since his last set rather than from the day.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A warmup set is under the near-failure line, so the week's tally passes it over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run is handed the instant it runs at, and the day falls out of that instant.",
     },
   ],
   name: "next",

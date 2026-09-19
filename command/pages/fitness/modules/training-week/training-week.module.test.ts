@@ -5,18 +5,13 @@ import {
   openedOn,
   tallyOf,
 } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
+import { movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.test-fixtures.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const BENCH: Movement = {
-  slug: "dumbbell-bench-press",
+const BENCH = movement("dumbbell-bench-press", {
   title: "Dumbbell Bench Press",
   muscles: ["chest", "triceps"],
-  pattern: "h-push",
-  category: "strength",
-  implement: "dumbbell",
-  scoring: "reps",
-  sfr: 5,
-}
+})
 
 const MOVEMENTS = new Map<string, Movement>([[BENCH.slug, BENCH]])
 

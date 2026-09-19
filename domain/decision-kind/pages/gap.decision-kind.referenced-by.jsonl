@@ -254,6 +254,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/alan/tracking/alan-tracking.command.ts","id":"01a06057-f714-707b-acab-a560208ffcd3"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.ts","id":"01a09196-9c2c-732f-bd4f-d1f618fae23a"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.ts","id":"01a09240-5cd6-7be1-bda8-9fe3ca8d2fe3"}
+{"propertySlug":"decision-kind","path":"command/pages/fitness/next/modules/warming/warming.module.ts","id":"01a0b75d-7a11-7470-8520-71da591ec032"}
 {"propertySlug":"decision-kind","path":"command/pages/git/restore/git-restore.command.ts","id":"01a07267-f795-738d-90c6-a5e16e277228"}
 {"propertySlug":"decision-kind","path":"command/pages/index/refresh/index-refresh.command.ts","id":"01a04de1-13fa-7331-979e-d443758eefad"}
 {"propertySlug":"decision-kind","path":"command/pages/inference/wan/extend/inference-wan-extend.command.ts","id":"01a093fb-0896-7f06-b8ca-489590932fe3"}

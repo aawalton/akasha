@@ -6,7 +6,6 @@ import {
   kitIn,
   loadsFor,
   topLoadFor,
-  warmupOf,
 } from "akasha/command/pages/fitness/next/modules/kit-loading/kit-loading.module.code.ts"
 
 const DUMBBELLS: Kit = { covers: ["dumbbell"], loads: [3, 5, 8, 10, 15, 20, 25, 30] }
@@ -36,12 +35,4 @@ test("a load asked for by a target is the heaviest load at or under that target"
 test("a target under every load Alan owns is answered with the lightest he owns", () => {
   expect(easedTo(DUMBBELLS.loads, 1)).toBe(3)
   expect(easedTo([], 15)).toBe(null)
-})
-
-test("a warmup is a share of the working weight taken for a count of easy reps", () => {
-  expect(warmupOf(30, DUMBBELLS.loads, 0.5, 10)).toEqual({ weight: 15, reps: 10 })
-})
-
-test("a movement carrying no load is warmed up by its reps alone", () => {
-  expect(warmupOf(null, DUMBBELLS.loads, 0.5, 10)).toEqual({ weight: null, reps: 10 })
 })

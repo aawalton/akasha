@@ -20,13 +20,5 @@ export const kitLoading = {
       decisionKind: "decision-kind/departure",
       statement: "A target under every load Alan owns is answered with the lightest he owns.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A warmup is a share of the working weight taken for a count of easy reps.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A movement carrying no load is warmed up by its reps alone.",
-    },
   ],
 } as const satisfies Module

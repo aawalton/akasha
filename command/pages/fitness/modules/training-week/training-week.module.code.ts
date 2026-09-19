@@ -32,6 +32,7 @@ export type Movement = {
   readonly implement: string | null
   readonly scoring: string | null
   readonly sfr: number | null
+  readonly force: string | null
 }
 
 export type Tally = {
@@ -71,6 +72,7 @@ export function movementsIn(pages: readonly Value[]): ReadonlyMap<string, Moveme
       implement: slugAt(one, "equipment"),
       scoring: textAt(one, "scoringMode"),
       sfr: numberAt(one, "sfrScore"),
+      force: textAt(one, "force"),
     })
   }
   return held

@@ -25,9 +25,14 @@ import {
   type Kit,
   kitIn,
   loadsFor,
-  type Warmup,
-  warmupOf,
 } from "akasha/command/pages/fitness/next/modules/kit-loading/kit-loading.module.code.ts"
+import {
+  type Warmth,
+  type Warmup,
+  warmedOf,
+  warmthIn,
+  warmupFor,
+} from "akasha/command/pages/fitness/next/modules/warming/warming.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   numberAt,
@@ -88,6 +93,8 @@ export type Bounds = {
   readonly repsCap: number
   readonly warmupShare: number
   readonly warmupReps: number
+  readonly raising: number
+  readonly mobilising: number
 }
 
 export function restrictedIn(pages: readonly Value[]): ReadonlySet<string> {
@@ -223,16 +230,6 @@ export function outIn(
   return held
 }
 
-export function performedOn(sets: readonly Value[], day: string): ReadonlySet<string> {
-  const named = new Set<string>()
-  for (const one of sets) {
-    if (dayOf(one) !== day) continue
-    const slug = slugAt(one, "exercise")
-    if (slug !== null) named.add(slug)
-  }
-  return named
-}
-
 export function doneOn(
   sets: readonly Value[],
   day: string,
@@ -295,7 +292,7 @@ export function offerOf(
   marks: ReadonlyMap<string, Mark>,
   bounds: Bounds,
   out: ReadonlySet<string>,
-  performed: ReadonlySet<string> = new Set()
+  warmth: Warmth = { warm: false, ramped: new Set() }
 ): Offer | null {
   const covered = coveredBy(kit)
   const picks = owedIn(week.tally.muscles, bounds.low).flatMap((muscle) => {
@@ -329,23 +326,21 @@ export function offerOf(
     atKitCeiling,
     familiar: (mark?.sets ?? 0) > 0,
     slower: climb.slower,
-    warmup: performed.has(best.one.slug)
-      ? null
-      : warmupOf(mark?.weight ?? null, loads, bounds.warmupShare, bounds.warmupReps),
+    warmup: warmupFor(best.one, mark?.weight ?? null, loads, week.movements, {
+      warm: warmth.warm,
+      ramped: warmth.ramped.has(best.one.slug),
+      raising: bounds.raising,
+      mobilising: bounds.mobilising,
+      share: bounds.warmupShare,
+      reps: bounds.warmupReps,
+    }),
   }
-}
-
-export function warmedOf(warmup: Warmup | null): readonly string[] {
-  if (warmup === null) return []
-  const reps = String(warmup.reps)
-  if (warmup.weight === null) return [`  warm up: ${reps} easy reps`]
-  return [`  warm up: ${String(warmup.weight)} lb, ${reps} easy reps`]
 }
 
 export function saidOf(offer: Offer | null): readonly string[] {
   if (offer === null) return ["nothing is owed and nothing is loadable — rest is the answer today"]
   const warmed = warmedOf(offer.warmup)
-  const lead = warmed.length === 0 ? "  " : "  then "
+  const lead = warmed.length === 0 ? "  " : "  work: "
   const load =
     offer.weight === null
       ? `${lead}find a load that takes you near failure inside eight to twelve reps`
@@ -379,7 +374,8 @@ export function newnessLeftIn(
   return Math.max(0, cap - fresh)
 }
 
-export function nextIn(root: string, today: string): Offer | null {
+export function nextIn(root: string, now: Date): Offer | null {
+  const today = getMountainMorningDayStr(now)
   const week = weekIn(root, today, selectionPolicy.nearFailureRpeFloor)
   const kit = kitIn(valuesOfType(root, KIT_TYPE).map((one) => one.value))
   const turns = turnsIn(
@@ -398,16 +394,19 @@ export function nextIn(root: string, today: string): Offer | null {
     repsCap: selectionPolicy.repsBeforeSlowing,
     warmupShare: selectionPolicy.warmupLoadShare,
     warmupReps: selectionPolicy.warmupReps,
+    raising: selectionPolicy.minutesRaising,
+    mobilising: selectionPolicy.mobilisingMovements,
   }
   const out = outIn(week.movements, restricted, dropped)
-  return offerOf(week, kit, marks, bounds, out, performedOn(week.sets, today))
+  const warmth = warmthIn(week.sets, now, selectionPolicy.minutesStayingWarm)
+  return offerOf(week, kit, marks, bounds, out, warmth)
 }
 
 export function fitnessNext(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [json])
   if ("refused" in read) return mistaking(read.refused)
   try {
-    const offer = nextIn(given.root, getMountainMorningDayStr(new Date()))
+    const offer = nextIn(given.root, new Date())
     if (read.taken.json) return told([JSON.stringify(offer)])
     return told([...saidOf(offer)])
   } catch (thrown) {

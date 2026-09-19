@@ -10,11 +10,6 @@ export type Kit = {
   readonly loads: readonly number[]
 }
 
-export type Warmup = {
-  readonly weight: number | null
-  readonly reps: number
-}
-
 export function kitIn(pages: readonly Value[]): readonly Kit[] {
   const held: Kit[] = []
   for (const one of pages) {
@@ -44,14 +39,4 @@ export function easedTo(loads: readonly number[], target: number): number | null
   if (loads.length === 0) return null
   const under = loads.filter((one) => one <= target)
   return under.length === 0 ? Math.min(...loads) : Math.max(...under)
-}
-
-export function warmupOf(
-  working: number | null,
-  loads: readonly number[],
-  share: number,
-  reps: number
-): Warmup {
-  if (working === null) return { weight: null, reps }
-  return { weight: easedTo(loads, working * share), reps }
 }

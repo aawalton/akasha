@@ -7,6 +7,7 @@ export const trainingWeek = {
   definition: "the sets a trailing week of training held, counted by muscle and by pattern",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

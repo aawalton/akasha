@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
+import { movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.test-fixtures.ts"
 import {
   type Bounds,
   chosenFor,
@@ -16,7 +17,6 @@ import {
   offerOf,
   outIn,
   owedIn,
-  performedOn,
   restrictedIn,
   saidOf,
   turnsIn,
@@ -25,6 +25,7 @@ import {
   coveredBy,
   type Kit,
 } from "akasha/command/pages/fitness/next/modules/kit-loading/kit-loading.module.code.ts"
+import type { Warmth } from "akasha/command/pages/fitness/next/modules/warming/warming.module.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",
@@ -39,20 +40,6 @@ const DUMBBELLS: Kit = { covers: ["dumbbell"], loads: [10, 20, 30] }
 const KIT = [DUMBBELLS]
 
 const COVERED = coveredBy(KIT)
-
-function movement(slug: string, over: Partial<Movement> = {}): Movement {
-  return {
-    slug,
-    title: slug,
-    muscles: ["chest"],
-    pattern: "h-push",
-    category: "strength",
-    implement: "dumbbell",
-    scoring: "reps",
-    sfr: 5,
-    ...over,
-  }
-}
 
 const BENCH = movement("dumbbell-bench-press")
 
@@ -91,11 +78,13 @@ function bounds(over: Partial<Bounds> = {}): Bounds {
     repsCap: 20,
     warmupShare: 0.5,
     warmupReps: 10,
+    raising: 5,
+    mobilising: 2,
     ...over,
   }
 }
 
-const WARM: ReadonlySet<string> = new Set(["dumbbell-bench-press"])
+const WARM: Warmth = { warm: true, ramped: new Set(["dumbbell-bench-press"]) }
 
 const OFFER: Offer = {
   movement: "dumbbell-bench-press",
@@ -257,31 +246,27 @@ test("a dropped movement is offered again once its pattern has progressed elsewh
   expect(droppedIn(marks, week([BENCH, fresh]).movements, 3).size).toBe(0)
 })
 
-test("a movement Alan has not performed today is warmed up before its working set", () => {
+test("a cold Alan is offered the whole warmup before his working set", () => {
   const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE)
-  expect(offer?.warmup).toEqual({ weight: 10, reps: 10 })
+  expect(offer?.warmup?.raise).toBe(5)
+  expect(offer?.warmup?.ramp).toEqual({ weight: 10, reps: 10 })
   const said = saidOf(offer)
-  expect(said[1]).toBe("  warm up: 10 lb, 10 easy reps")
-  expect(said[2]).toBe("  then 30 lb, 20 reps")
+  expect(said[1]).toBe("  raise: 5 minutes easy, until you are breathing and damp")
+  expect(said[2]).toBe("  ramp: 10 lb, 10 easy reps")
+  expect(said[3]).toBe("  work: 30 lb, 20 reps")
 })
 
-test("a movement Alan performed already today is offered with no warmup", () => {
+test("a movement ramped inside the window is offered with no warmup", () => {
   const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE, WARM)
   expect(offer?.warmup).toBe(null)
   expect(saidOf(offer)[1]).toBe("  30 lb, 20 reps")
 })
 
-test("a movement with no working weight yet is warmed up with easy reps and no load", () => {
-  const warm = { weight: null, reps: 10 }
+test("a movement with no working weight yet ramps on reps and no load", () => {
+  const warm = { raise: null, mobilise: [], ramp: { weight: null, reps: 10 } }
   const said = saidOf({ ...OFFER, weight: null, reps: null, warmup: warm })
-  expect(said[1]).toBe("  warm up: 10 easy reps")
-  expect(said[2]).toContain("then find a load")
-})
-
-test("a set logged today counts as performed whether it was a warmup or not", () => {
-  const sets = [{ day: "day/day-2026-09-18", exercise: "dumbbell-bench-press", isWarmup: true }]
-  expect(performedOn(sets, "2026-09-18")).toEqual(new Set(["dumbbell-bench-press"]))
-  expect(performedOn(sets, "2026-09-17").size).toBe(0)
+  expect(said[1]).toBe("  ramp: 10 easy reps")
+  expect(said[2]).toContain("work: find a load")
 })
 
 test("nothing owed and nothing loadable is answered as rest", () => {
