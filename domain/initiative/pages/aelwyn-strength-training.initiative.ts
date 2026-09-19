@@ -26,10 +26,6 @@ export const aelwynStrengthTraining = {
       statement: "The most valuable movement available is always the one offered next.",
     },
     {
-      statement:
-        "A movement is dropped when that movement stops progressing rather than after a fixed time.",
-    },
-    {
       statement: "A dropped movement is offered again once its pattern has progressed elsewhere.",
     },
     {
