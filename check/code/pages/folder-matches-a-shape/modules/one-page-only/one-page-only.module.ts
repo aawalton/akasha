@@ -55,5 +55,17 @@ export const onePageOnly = {
       statement:
         "A folder named the plural the page's own page type gathers its pages under is right.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder named a plural gathering the pages of the page's own slug is right too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page whose slug a plural gathers is the page type that plural gathers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder named a plural gathering neither is refused for its name.",
+    },
   ],
 } as const satisfies Module

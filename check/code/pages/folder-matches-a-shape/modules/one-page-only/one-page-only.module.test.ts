@@ -83,6 +83,30 @@ test("a folder named the plural of another page type is refused", () => {
   expect(said[0]).toContain("`modules`")
 })
 
+const DEFINING = "akasha/story/world/characters"
+
+test("a folder named a plural gathering the page's own slug is named as asked", () => {
+  const held = folderFrom({
+    folder: DEFINING,
+    pageTypes: PAGE_TYPES,
+    naming: () => ({ name: "held" }),
+    gathered: gatheringFrom({ characters: ["world-character"] }),
+  })
+  expect(asked(held(["world-character.page-type.ts"]))).toEqual([])
+})
+
+test("a folder named a plural gathering some other page type's pages is refused", () => {
+  const held = folderFrom({
+    folder: DEFINING,
+    pageTypes: PAGE_TYPES,
+    naming: () => ({ name: "held" }),
+    gathered: gatheringFrom({ characters: ["world-mechanic"] }),
+  })
+  const said = asked(held(["world-character.page-type.ts"]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`characters`")
+})
+
 test("a folder wanting a name no name can be worked out for is refused for wanting one", () => {
   const held = folderFrom({
     folder: "akasha/temper-skills/skills",

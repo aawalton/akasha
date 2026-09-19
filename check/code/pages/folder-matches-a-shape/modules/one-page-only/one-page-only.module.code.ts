@@ -51,7 +51,9 @@ function strippedAbove(standing: Standing, page: Held): string | null {
 }
 
 function gathersPage(standing: Standing, page: Held, named: string): boolean {
-  return page.pageTypeSlug !== null && standing.gathered(named).includes(page.pageTypeSlug)
+  const gathers = standing.gathered(named)
+  if (page.pageTypeSlug !== null && gathers.includes(page.pageTypeSlug)) return true
+  return page.slug !== null && gathers.includes(page.slug)
 }
 
 export function namedAsAsked(standing: Standing, page: Held): readonly string[] {
