@@ -1,0 +1,12 @@
+import type { StoryWikiEntry } from "akasha/story/world/wiki-entries/story-wiki-entry.page-type.types.ts"
+
+export const theSystem = {
+  id: "01a0657d-bb98-7469-b685-99264a989a56",
+  type: "page-type/story-wiki-entry",
+  slug: "the-system",
+  title: "The System",
+  world: "world/tower-of-nimue",
+  kind: "system",
+  chapterNumber: 2,
+  prose: "txt",
+} as const satisfies StoryWikiEntry

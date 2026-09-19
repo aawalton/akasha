@@ -1,0 +1,15 @@
+import type { NamedEvent } from "akasha/story/world/named-events/named-event.page-type.types.ts"
+
+export const crelerWars = {
+  id: "019f6865-750b-7b57-a971-a089fb51be77",
+  type: "page-type/named-event",
+  slug: "creler-wars",
+  title: "The Creler Wars (historical era)",
+  aliases: ["crelers-wars"],
+  evidenceBeat: 39,
+  evidenceChapter: "Interlude - Another Time",
+  evidenceNote:
+    "ruled from sweep evidence 'at the height of the Creler Wars' (rhia-ruled 2026-07-15 drain-end batch)",
+  namedEventKind: "battle",
+  world: "world/the-wandering-inn",
+} as const satisfies NamedEvent

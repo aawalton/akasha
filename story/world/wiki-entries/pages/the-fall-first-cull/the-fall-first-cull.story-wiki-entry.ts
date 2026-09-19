@@ -1,0 +1,12 @@
+import type { StoryWikiEntry } from "akasha/story/world/wiki-entries/story-wiki-entry.page-type.types.ts"
+
+export const theFallFirstCull = {
+  id: "01a0657d-bb98-719d-a172-eb1f14efc911",
+  type: "page-type/story-wiki-entry",
+  slug: "the-fall-first-cull",
+  title: "The Fall (First Cull)",
+  world: "world/tower-of-nimue",
+  kind: "seed",
+  chapterNumber: 2,
+  prose: "txt",
+} as const satisfies StoryWikiEntry

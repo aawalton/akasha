@@ -1,0 +1,12 @@
+import type { StoryWikiEntry } from "akasha/story/world/wiki-entries/story-wiki-entry.page-type.types.ts"
+
+export const theWakingStoneTheCore = {
+  id: "01a0657d-bb96-7f95-b06e-d416be62f365",
+  type: "page-type/story-wiki-entry",
+  slug: "the-waking-stone-the-core",
+  title: "The Waking Stone (the Core)",
+  world: "world/cornerstone",
+  kind: "character",
+  chapterNumber: 1,
+  prose: "txt",
+} as const satisfies StoryWikiEntry

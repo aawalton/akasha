@@ -1,0 +1,12 @@
+import type { StoryWikiEntry } from "akasha/story/world/wiki-entries/story-wiki-entry.page-type.types.ts"
+
+export const theCompany = {
+  id: "01a0657d-bb96-7b10-b7ec-4b51cff80a4f",
+  type: "page-type/story-wiki-entry",
+  slug: "the-company",
+  title: "The Company",
+  world: "world/the-beholder",
+  kind: "location",
+  chapterNumber: 1,
+  prose: "txt",
+} as const satisfies StoryWikiEntry

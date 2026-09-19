@@ -386,9 +386,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/reader-framing.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/themes.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/tone.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/named-event/properties/event-aliases.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/named-event/properties/evidence-chapter.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/named-event/properties/evidence-note.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/read/properties/external-tags.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-character/properties/claim-field.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-character/properties/claim-value.text-property.ts"}
@@ -435,6 +432,9 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/designs/properties/timeline-distribution.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/designs/properties/visual-style.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/designs/properties/writing-philosophy.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/named-events/properties/event-aliases.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/named-events/properties/evidence-chapter.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/named-events/properties/evidence-note.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/properties/character-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/properties/mechanic-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/properties/reading-name.text-property.ts"}

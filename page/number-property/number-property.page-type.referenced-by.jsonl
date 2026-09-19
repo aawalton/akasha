@@ -229,10 +229,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/chapter-read/properties/anchor-volume.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/engine/doctrine/properties/doctrine-version.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/properties/current-session.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/named-event/properties/event-first-chapter.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/named-event/properties/event-last-chapter.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/named-event/properties/evidence-beat.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/wiki-entry/properties/chapter-number.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world-character/properties/event-count.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world-character/properties/first-chapter.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world-character/properties/last-chapter.number-property.ts"}
@@ -240,6 +236,10 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world-mechanic/properties/paragraph.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world-mechanic/properties/reference-level.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/builds/properties/build-level.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/named-events/properties/event-first-chapter.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/named-events/properties/event-last-chapter.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/named-events/properties/evidence-beat.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/wiki-entries/properties/chapter-number.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-companion/skill/properties/ability-id.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-companion/skill/properties/alternate-ability-ids.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-companion/skill/properties/conditional-multiplier.number-property.ts"}

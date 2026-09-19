@@ -19,6 +19,8 @@ export const world = {
     "page-type/story-decision",
     "page-type/story-design-note",
     "page-type/story-design",
+    "page-type/named-event",
+    "page-type/story-wiki-entry",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

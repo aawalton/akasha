@@ -1,0 +1,15 @@
+import type { NamedEvent } from "akasha/story/world/named-events/named-event.page-type.types.ts"
+
+export const siegeOfLiscor = {
+  id: "019f6865-7788-74c8-8610-64de9551a566",
+  type: "page-type/named-event",
+  slug: "siege-of-liscor",
+  title: "Siege of Liscor",
+  aliases: ["siege-liscor", "liscor-siege"],
+  evidenceBeat: 35,
+  evidenceChapter: "6.29",
+  evidenceNote:
+    "ruled from sweep evidence 'Since the siege at Liscor' (rhia-ruled 2026-07-15 drain-end batch)",
+  namedEventKind: "battle",
+  world: "world/the-wandering-inn",
+} as const satisfies NamedEvent

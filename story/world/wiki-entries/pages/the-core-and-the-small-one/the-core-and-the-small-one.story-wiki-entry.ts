@@ -1,0 +1,12 @@
+import type { StoryWikiEntry } from "akasha/story/world/wiki-entries/story-wiki-entry.page-type.types.ts"
+
+export const theCoreAndTheSmallOne = {
+  id: "01a0657d-bb95-7737-926c-3ace5c47d310",
+  type: "page-type/story-wiki-entry",
+  slug: "the-core-and-the-small-one",
+  title: "The Core and The Small One",
+  world: "world/cornerstone",
+  kind: "relationship",
+  chapterNumber: 1,
+  prose: "txt",
+} as const satisfies StoryWikiEntry

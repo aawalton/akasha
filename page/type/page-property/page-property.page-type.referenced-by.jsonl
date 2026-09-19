@@ -127,11 +127,11 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/view/properties/visible-properties.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"persona/craft-day/properties/personas-crafted.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/properties/genre.text-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/named-event/properties/event-aliases.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/read/properties/external-tags.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world-mechanic/properties/aliases.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world-mechanic/properties/evolves-from-slugs.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world-mechanic/properties/evolves-to-slugs.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/named-events/properties/event-aliases.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/temper-companion/base-role/properties/valid-armor-weights.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/temper-companion/base-role/properties/valid-trait-ids.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/temper-companion/base-role/properties/valid-weapon-role-ids.text-property.types.ts"}
