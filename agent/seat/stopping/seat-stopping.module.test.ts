@@ -20,6 +20,8 @@ import {
   seatEditsAt,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { removeFileOfAnyKind } from "akasha/change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
@@ -194,7 +196,7 @@ function heldIn(): { root: string; oid: string } {
 }
 
 test("a page taken away goes through the change that dispatches by what the file is", () => {
-  expect(TAKE).toBe("change-mechanical/remove-file-of-any-kind")
+  expect(TAKE).toBe(`${changeMechanical.slug}/${removeFileOfAnyKind.slug}`)
 })
 
 test("a page taken away is named to the landing at the change removing a file", async () => {

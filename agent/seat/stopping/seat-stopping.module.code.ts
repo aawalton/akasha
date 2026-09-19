@@ -11,6 +11,8 @@ import {
   namedAt,
   saidOf,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { removeFileOfAnyKind } from "akasha/change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   type Landing,
@@ -137,7 +139,7 @@ async function endedSession(name: string): Promise<boolean> {
   return !(await sessionHeld(name))
 }
 
-export const TAKE = "change-mechanical/remove-file-of-any-kind"
+export const TAKE = `${changeMechanical.slug}/${removeFileOfAnyKind.slug}` as const
 
 export async function took(
   given: Given,
